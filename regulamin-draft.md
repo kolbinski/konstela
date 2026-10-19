@@ -30,11 +30,13 @@
 
 | Etap | Termin |
 |---|---|
-| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.** |
-| Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
-| Ocena formalna | październik 2027 |
-| Ocena merytoryczna | październik 2027 |
-| Ogłoszenie wyników i publikacja antologii | **listopad 2027 r.** `[DO USTALENIA: dokładny dzień]` |
+| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 31 grudnia 2027 r.** |
+| Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **15 stycznia 2028 r., godz. 23:59** |
+| Ocena formalna | na bieżąco, w miarę wpływania zgłoszeń |
+| Runda pierwsza (Akademia) | na bieżąco, partiami, od lutego 2027 do stycznia 2028 |
+| Runda druga (Kapituła) | luty 2028 |
+| Rozmowy weryfikacyjne | pierwsza połowa marca 2028 |
+| Ogłoszenie wyników i publikacja antologii | **druga połowa marca 2028 r.** `[DO USTALENIA: dokładny dzień]` |
 | Wypłata nagród | do 14 dni od ogłoszenia wyników |
 
 O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organizatora.

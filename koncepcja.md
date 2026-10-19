@@ -82,7 +82,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 
 **Forma prawna:** JDG. Fundacja ma sens dopiero przy wielu darczyńcach; przy jednym fundatorze to zbędna biurokracja i koszt.
 
-**Terminy:** okno rozmów 1 stycznia - 30 września 2027, zgłoszenia do 30 września 2027, ocena w październiku, rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
+**Terminy (zmienione 19.10.2026):** okno rozmów to **pełny rok kalendarzowy 2027**, zgłoszenia do 15 stycznia 2028, runda pierwsza prowadzona na bieżąco przez cały rok, Kapituła w lutym 2028, rozstrzygnięcie i antologia w drugiej połowie marca 2028. Wzór: Oscary, gdzie okres kwalifikacyjny to rok kalendarzowy, a członkowie Akademii oglądają filmy na bieżąco, więc po terminie zostaje samo głosowanie. Poprzedni kalendarz (okno do września, gala w listopadzie 2027) nie spinał się z procedurami: od zamknięcia naboru do ogłoszenia potrzeba 11-12 tygodni, a mieliśmy 8. Ocena bezwzględna według pasm z Karty oceny pozwala czytać przez cały rok; ryzykiem jest dryf standardów, więc kalibracja powtarzana jest w połowie roku, a czytelnik może zmienić swoją wcześniejszą ocenę do zamknięcia naboru. Co było wcześniej, a przestało obowiązywać: rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
 
 Powód przesunięcia pierwszej edycji na 2027: daje ponad dwa miesiące na patronat, jury i fundatora, a rok rozmów zgadza się z rokiem wydania i z tytułem tomu. Wariant z oknem przez cały 2027 odrzucony, bo rozstrzygnięcie wypadałoby w 2028 - czternaście miesięcy bez niczego do pokazania to za długo, by utrzymać uwagę partnerów przekonanych na starcie.
 

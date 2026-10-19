@@ -20,14 +20,14 @@ Dlatego projektuję Nagrodę Konstela: coroczną nagrodę dla ludzi, którzy prz
 
 Trwałym produktem nagrody jest antologia: dziesięć najlepszych rozmów publikowanych po każdej edycji bezpłatnie w internecie, docelowo także w wydaniu książkowym. Za pięć lat to będzie coś, czego dziś nikt nie archiwizuje, czyli zapis tego, jak ludzie naprawdę rozmawiali z maszynami na początku tej epoki. Plus materiał, z którego da się uczyć w polskiej szkole, bo pokazuje nie teorię, a konkretną rozmowę, w której widać każdy ruch.
 
-Regulamin i strona są gotowe, pierwsza edycja obejmuje rok 2027, kolejne będą coroczne:
+Regulamin i strona są gotowe. Pierwsza edycja obejmuje rozmowy z całego roku 2027, a rozstrzygnięcie przypada na marzec 2028; kolejne edycje w tym samym rytmie, rok po roku:
 
 https://konstela.org
 https://konstela.org/regulamin
 
 Dwa zdania o mnie, żeby wiadomo było, z kim Pan rozmawia: jestem inżynierem oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwentem FTIMS Politechniki Łódzkiej, autorem wydanej w tym roku książki "365 pytań, które zmieniły wszystko" (704 strony, dostępna w Empiku: https://www.empik.com/365-pytan-ktore-zmienily-wszystko-olbinski-krzysztof,p1713116600,ebooki-i-mp3-p). Nagroda powstaje bez moich środków własnych w puli i bez jakichkolwiek opłat po stronie uczestników.
 
-Mam do Pana prośbę o jedną rzecz, konkretnie o list intencyjny. Nie proszę na tym etapie również o patronat honorowy. Wydarzeniem, które mógłby objąć, jest gala rozstrzygnięcia w listopadzie 2027, a formularz wniosku wymaga szczegółowego programu i listy prelegentów, których dziś jeszcze nie mam. Wniosek złożę więc drogą formalną, do Biura Ministra, gdy program będzie gotowy. Chodzi mi o krótkie pismo stwierdzające, że Ministerstwo uznaje inicjatywę za wpisującą się w obszar kompetencji cyfrowych i jest wstępnie zainteresowane objęciem jej patronatem po dopełnieniu formalności. Taki dokument niczego nie przyrzeka, a dla mnie jest kluczowy, bo bez niego rozmowa z patronem medialnym i z fundatorem zaczyna się od zera, a z nim od punktu, w którym jest o czym rozmawiać.
+Mam do Pana prośbę o jedną rzecz, konkretnie o list intencyjny. Nie proszę też na tym etapie o patronat honorowy. Wydarzeniem, które mógłby objąć, jest gala rozstrzygnięcia w marcu 2028, a formularz wniosku wymaga szczegółowego programu i listy prelegentów, których dziś jeszcze nie mam. Wniosek złożę więc drogą formalną, do Biura Ministra, gdy program będzie gotowy. Chodzi mi o krótkie pismo stwierdzające, że Ministerstwo uznaje inicjatywę za wpisującą się w obszar kompetencji cyfrowych i jest wstępnie zainteresowane objęciem jej patronatem po dopełnieniu formalności. Taki dokument niczego nie przyrzeka, a dla mnie jest kluczowy, bo bez niego rozmowa z patronem medialnym i z fundatorem zaczyna się od zera, a z nim od punktu, w którym jest o czym rozmawiać.
 
 Żeby nie obciążać Pana pisaniem, w drugim załączniku pozwalam sobie przesłać projekt treści takiego listu, do dowolnej zmiany albo odrzucenia.
 

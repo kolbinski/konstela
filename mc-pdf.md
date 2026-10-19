@@ -84,10 +84,11 @@ Trzy mechanizmy, wszystkie zapisane w regulaminie: **[USTALONE]**
 
 **Terminy edycji pierwszej: [USTALONE]**
 
-- okno rozmów: 1 stycznia - 30 września 2027
-- zgłoszenia: do 30 września 2027
-- ocena: październik 2027
-- rozstrzygnięcie i publikacja antologii: listopad 2027
+- okno rozmów: 1 stycznia - 31 grudnia 2027 (pełny rok kalendarzowy)
+- zgłoszenia: do 15 stycznia 2028
+- ocena pierwszej rundy: na bieżąco przez cały rok, partiami
+- ocena Kapituły i rozmowy weryfikacyjne: luty i początek marca 2028
+- rozstrzygnięcie i publikacja antologii: druga połowa marca 2028
 
 Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
 
