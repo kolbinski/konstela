@@ -12,9 +12,9 @@ Coroczny konkurs dla osób, które prowadzą pogłębione rozmowy z modelami szt
 
 Konstrukcja prawna przyjęta w dokumencie: **przyrzeczenie publiczne** (art. 919 i nast. k.c.), z wyraźnym wyłączeniem gry losowej, zryczałtowanym podatkiem 10% od nagród i organizatorem jako płatnikiem.
 
-## B. Cztery obszary do rozstrzygnięcia
+## B. Pięć obszarów do rozstrzygnięcia
 
-Obszary 1 i 2 **blokują otwarcie naboru**. Obszary 3 i 4 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028.
+Obszary 1 i 2 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytanie 23 dotyczy brzmienia zgody zbieranej już przy zgłoszeniu, więc jego rozstrzygnięcie jest potrzebne przed naborem.
 
 ---
 
@@ -98,6 +98,18 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 ---
 
+### Obszar 5: wydanie płatne i zakres licencji
+
+**Stan.** Antologia ukazuje się nieodpłatnie w postaci elektronicznej (§ 9 ust. 1). Planowane jest również wydanie płatne, w pierwszej kolejności w druku na żądanie, docelowo u wydawcy. § 11 ust. 3 daje organizatorowi **nieodpłatną, niewyłączną licencję** na publikację rozmowy w antologii, jej udostępnianie w internecie i cytowanie we fragmentach. Decyzją organizatora (19.10.2026), wpisaną do § 13 ust. 4, **cały przychód ze sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji**; organizator nie osiąga z tego zysku.
+
+**Pytania:**
+
+23. Czy licencja z § 11 ust. 3 w obecnym brzmieniu obejmuje wydanie **płatne**, czy wymaga to odrębnego zastrzeżenia; jeżeli tak, jak je sformułować, żeby nie zmieniać charakteru zgody na dobrowolną.
+24. Czy obejmuje ona prawo do **udzielenia dalszej licencji wydawcy** (sublicencji), czy przy umowie z wydawcą konieczne będą odrębne umowy z każdym z dziesięciu uczestników.
+25. Czy przeznaczenie przychodu na pulę kolejnej edycji wymaga szczególnej konstrukcji księgowej albo prawnej przy jednoosobowej działalności gospodarczej, i czy zmieniłoby to sytuację powołanie fundacji.
+26. Czy brak podziału tantiem między autorów jest dopuszczalny przy nieodpłatnej licencji, skoro wydanie jest płatne, i co trzeba powiedzieć uczestnikowi w chwili zbierania zgody, żeby było to uczciwe i skuteczne.
+27. Jakie obowiązki wiążą się z wydaniem książkowym po stronie organizatora: ISBN, egzemplarz obowiązkowy, odpowiedzialność wydawcy za treść.
+
 ## C. Co jest już rozstrzygnięte i czego nie trzeba analizować
 
 Żeby nie płacić za pracę, która została wykonana: regulamin przeszedł dwie niezależne recenzje proceduralne i jest spójny wewnętrznie, z przeliczoną numeracją i sprawdzonymi odesłaniami. Rozstrzygnięte zostały: tryb oceny i jego progi, procedura dyskwalifikacji za inscenizację, rozdzielenie oceny od publikacji, podstawy odrzucenia treści trudnych wraz z trybem postępowania przy kryzysie psychicznym, warunek rzetelności, zakres archiwum i tryb wycofania udziału. Te części proszę traktować jako zamknięte, chyba że naruszają prawo.
@@ -111,6 +123,6 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 ## E. O co proszę na początek
 
-Nie o pełną opinię. O **wycenę i wskazanie, które z czterech obszarów wymagają analizy, a które da się zamknąć jednym akapitem**. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
+Nie o pełną opinię. O **wycenę i wskazanie, które z pięciu obszarów wymagają analizy, a które da się zamknąć jednym akapitem**. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
 
 Zależy mi szczególnie na obszarach 1 i 2, ponieważ do czasu ich zamknięcia nie otwieram przyjmowania zgłoszeń, a więc nie przyjmuję żadnych danych osobowych.

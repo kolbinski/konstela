@@ -438,6 +438,16 @@ Na każdą z dziesięciu rozmów składają się cztery elementy:
 
 **Dźwignia, którą trzeba uruchomić w formularzu oceny.** Regulamin wymaga, by każda ocena wskazywała fragment uzasadniający. Jeżeli formularz poprosi dodatkowo o **jedno zdanie komentarza przy tym fragmencie**, Kapituła i Akademia wytwarzają gotowe kandydatury na noty marginesowe w trakcie normalnej pracy. Nota podpisana nazwiskiem jurora jest w antologii mocniejsza niż komentarz organizatora, a nakład własny spada z pisania do redagowania. Do wdrożenia przy budowie panelu oceny.
 
+## Wydanie książkowe (ustalone 19.10.2026)
+
+**Trzy drogi i wybór.** Wydawca bierze na siebie druk, dystrybucję i ryzyko nakładu, w zamian za kontrolę i większość przychodu - rozmowę zaczyna się rok przed drukiem, czyli w 2027. Druk na żądanie daje dostępność w sklepach internetowych bez nakładu i bez kapitału, przy cienkiej marży i bez obecności w księgarniach stacjonarnych. Własny nakład z dystrybutorem oznacza 10-25 tys. zamrożone w papierze, zwroty, magazyn i kilkadziesiąt godzin obsługi, których nie ma w budżecie czasu.
+
+**Decyzja na pierwszą edycję:** darmowy ebook plus druk na żądanie, żeby zdanie "do kupienia" było prawdziwe, oraz równoległe rozmowy z wydawcą pod edycję drugą albo wydanie zbiorcze. Model komunikowany Ministerstwu - darmowo w internecie, płatna książka - zostaje nienaruszony.
+
+**Przychód idzie na pulę kolejnej edycji.** Wpisane do § 13 ust. 4 regulaminu: cały przychód ze sprzedaży, po pokryciu kosztów wydania, zasila pulę następnego rocznika, a Organizator nie osiąga z wydania zysku i nie przeznacza tego przychodu na własne wynagrodzenie. Powód: nagroda dla ludzi, która sprzedaje ich rozmowy, musi od pierwszego dnia powiedzieć, dokąd idą pieniądze. Rozważany był podział tantiem między dziesięciu autorów i odrzucony - przy realnych nakładach oznacza przelewy po kilkadziesiąt złotych i więcej pracy księgowej niż pożytku, a przeznaczenie przychodu na pulę jest korzyścią dla całego środowiska zamiast symbolicznej dla dziesięciu osób.
+
+**Do rozstrzygnięcia przez prawnika (obszar 5, pytania 23-27):** czy licencja z § 11 ust. 3 obejmuje wydanie płatne i czy pozwala udzielić sublicencji wydawcy. Pytanie 23 dotyczy brzmienia zgody zbieranej przy zgłoszeniu, więc musi być zamknięte **przed naborem**, a nie przed drukiem.
+
 ## Laboratoria AI jako partnerzy, nie fundatorzy puli (ustalone 19.10.2026)
 
 **Zasada neutralności.** Regulamin stanowi, że Nagroda nie wskazuje ani nie promuje żadnego dostawcy, a jakość modelu nie podlega ocenie. Pojedyncze laboratorium jako sponsor tytularny tę zasadę łamie: każda nagrodzona rozmowa odbyta z jego modelem staje się podejrzana, a użytkownicy pozostałych modeli dostają powód, żeby się nie zgłaszać. Pula główna nie pochodzi więc od jednego dostawcy modeli. Jeżeli kiedykolwiek pochodziłaby od kilku naraz, udział każdego jest jawny i żaden nie ma wpływu na ocenę ani na skład jury.
