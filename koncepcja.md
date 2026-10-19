@@ -292,6 +292,20 @@ W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna*
 
 Jedyna realna różnica wobec dyktanda: ortografia ma klucz odpowiedzi, nasze kryteria nie. Przy bardzo wysokiej stawce presja przenosi się więc nie na piszących, lecz na jury - stąd finał na żywo jako sposób na przywrócenie wspólnego punktu odniesienia.
 
+## Treści trudne i granica publikacji (ustalone 19.10.2026)
+
+Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nagrodzić ani opublikować. Cztery kategorie, każda z innym trybem.
+
+**Treści bezprawne** (nawoływanie do nienawiści, groźby, treści seksualizujące małoletnich, instrukcje umożliwiające poważną szkodę, naruszenie dóbr osobistych): odrzucenie formalne, § 6 ust. 9. Publikując, Organizator staje się wydawcą i odpowiada osobiście.
+
+**Imienne oskarżenia** (§ 6 ust. 10): rozmowa analizująca publiczną działalność osoby publicznej jest w porządku, rozmowa zarzucająca jej imiennie przestępstwo albo nadużycie wystawia Organizatora na odpowiedzialność za zniesławienie - i nie chroni go to, że zarzut sformułował model. Wcześniejszy zapis "o osobach publicznych bez ograniczeń" był w tym miejscu niebezpieczny i został usunięty także ze strony.
+
+**Kryzys psychiczny** (§ 6 ust. 11): odrzucenie formalne, bez oceny i bez publikacji. Dwa powody. Po pierwsze są to dane szczególnej kategorii w rozumieniu RODO. Po drugie, i ważniejsze: **nagroda pieniężna tworzyłaby zachętę do zgłaszania własnych najtrudniejszych doświadczeń**, bo bywają one najgłębszymi rozmowami, jakie człowiek odbył. Nagradzanie tego byłoby wyzyskaniem cudzego kryzysu. Przy odrzuceniu Organizator ogranicza się do krótkiej, życzliwej informacji ze wskazaniem ogólnodostępnych numerów wsparcia, nie ocenia sytuacji Uczestnika i nie prowadzi dalszej korespondencji.
+
+**Światopogląd i religia:** rozmowy krytyczne, polemiczne i niewygodne są dopuszczalne i oceniane na równi z innymi. Dlatego ocena została oddzielona od publikacji (§ 7a): Organizator może odmówić publikacji z powodu ryzyka prawnego - na przykład art. 196 kk - ale **nigdy z powodu niezgody z poglądem**, a odmowa publikacji nie zabiera punktów ani nagrody. Uczestnik może wtedy wskazać fragment do usunięcia albo wycofać rozmowę z publikacji, zachowując nagrodę.
+
+**Jak to się wykrywa.** Tak samo jak inscenizacja: z sygnału od osoby, która zgłoszenie przeczytała, albo z opisu odkrycia. Organizator nie prowadzi przeglądu z urzędu, bo przy stu pięćdziesięciu zgłoszeniach nie jest to wykonalne.
+
 ## Przepustowość oceny: kiedy potrzebna jest Akademia
 
 **Nazewnictwo (ustalone 19.10.2026).** **Kapituła** to 3-5 osób wybierających dziesiątkę antologii i laureata. **Akademia** to liczniejsza grupa czytelników przeprowadzająca pierwszą rundę; to do niej należy dzika karta. Odrzucono wariant "Gwiazdy Jury": po polsku gwiazda znaczy celebryta, co przeczy sensowi nagrody wyróżniającej myślenie osoby nieznanej, a dodatkowo przeciąża metaforę, w której gwiazdami są rozmowy i fakty, nie oceniający.

@@ -26,14 +26,14 @@
 
 ## § 4. Terminy edycji pierwszej
 
-| Etap                                       | Termin                                                                |
-| ------------------------------------------ | --------------------------------------------------------------------- |
-| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.**                                  |
-| Przyjmowanie zgłoszeń                      | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
-| Ocena formalna                             | październik 2027                                                      |
-| Ocena merytoryczna                         | październik 2027                                                      |
-| Ogłoszenie wyników i publikacja antologii  | **listopad 2027 r.**                                                  |
-| Wypłata nagród                             | do 14 dni od ogłoszenia wyników                                       |
+| Etap | Termin |
+|---|---|
+| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.** |
+| Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
+| Ocena formalna | październik 2027 |
+| Ocena merytoryczna | październik 2027 |
+| Ogłoszenie wyników i publikacja antologii | **listopad 2027 r.**|
+| Wypłata nagród | do 14 dni od ogłoszenia wyników |
 
 O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organizatora.
 
@@ -56,7 +56,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 ## § 6. Wymogi formalne rozmowy
 
-Zgłoszenie podlega odrzuceniu na etapie oceny formalnej, jeżeli rozmowa:
+Ocena formalna obejmuje wyłącznie czynności sprawdzające wymienione niżej i **nie obejmuje oceny treści rozmowy ani badania, czy została zainscenizowana**. Zgłoszenie podlega odrzuceniu na etapie oceny formalnej, jeżeli rozmowa:
 
 1. zawiera **mniej niż 1200 słów wypowiedzi Uczestnika**; liczone są wyłącznie wypowiedzi Uczestnika, bez wypowiedzi modelu, ponieważ to one są przedmiotem oceny;
 2. liczy **więcej niż 25 000 słów** łącznie (wypowiedzi Uczestnika i modelu razem); górny limit wynika z realnego czasu pracy oceniających i jest podany wprost, aby Uczestnik mógł się do niego zastosować;
@@ -65,13 +65,20 @@ Zgłoszenie podlega odrzuceniu na etapie oceny formalnej, jeżeli rozmowa:
 5. **dotyczy osoby trzeciej nieznanej publicznie**, w tym także wtedy, gdy dane tej osoby zostały zmienione, skrócone do inicjałów lub pominięte; ograniczenie nie dotyczy samego Uczestnika, który może zgłosić rozmowę o własnej sytuacji, decyzji lub pracy; dopuszczalne są rozmowy dotyczące osób publicznych, przedsiębiorstw i instytucji, w granicach prawa;
 6. nie została przeprowadzona osobiście przez Uczestnika;
 7. została przeprowadzona poza **oknem rozmów** wskazanym w § 4;
-8. nie spełnia wymogów z § 5 ust. 2.
+8. nie spełnia wymogów z § 5 ust. 2;
+9. **zawiera treści bezprawne**, w szczególności nawołujące do nienawiści wobec grupy albo osoby ze względu na cechę chronioną, groźby, treści seksualizujące małoletnich, instrukcje umożliwiające wyrządzenie poważnej szkody albo treści naruszające cudze dobra osobiste;
+10. **zawiera skierowane do konkretnej, możliwej do zidentyfikowania osoby zarzuty popełnienia przestępstwa, nadużycia lub innego czynu nagannego**, niezależnie od tego, czy osoba ta jest publicznie znana i czy zarzut sformułował Uczestnik, czy model. Dopuszczalne pozostaje omawianie publicznej działalności osób publicznych oraz spraw opisanych wcześniej w sposób urzędowy albo prawomocnie rozstrzygniętych;
+11. **dotyczy kryzysu psychicznego Uczestnika lub innej osoby**, w szczególności myśli samobójczych, samookaleczeń, zaburzeń odżywiania, uzależnienia, przemocy doznanej lub stosowanej, albo ma charakter terapeutyczny lub wsparciowy. Wyłączenie wynika z dwóch powodów: takie treści są szczególną kategorią danych w rozumieniu RODO i nie podlegają publikacji, a nagroda pieniężna nie może tworzyć zachęty do zgłaszania własnych najtrudniejszych doświadczeń;
+12. zawiera dane objęte tajemnicą zawodową, służbową albo przedsiębiorstwa, do których ujawnienia Uczestnik nie jest uprawniony.
+
+**Sposób postępowania przy odrzuceniu z przyczyn, o których mowa w ust. 9-12.** Organizator nie publikuje treści odrzuconego zgłoszenia, usuwa jego kopię w terminie 14 dni i informuje Uczestnika, wskazując podstawę. Jeżeli ze zgłoszenia wynika, że Uczestnik lub inna osoba może znajdować się w kryzysie, Organizator ogranicza korespondencję do krótkiej, życzliwej informacji o odrzuceniu wraz ze wskazaniem ogólnodostępnych numerów wsparcia; Organizator nie prowadzi w tej sprawie dalszej korespondencji, nie ocenia sytuacji Uczestnika i nie przekazuje treści zgłoszenia osobom trzecim, poza przypadkami wynikającymi z przepisów prawa.
+
 
 Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupełnienia braków, nie poprawia zgłoszeń i nie przedłuża terminu w tym celu; zgłoszenie niekompletne odpada na etapie oceny formalnej. Do upływu terminu zgłoszeń Uczestnik może przesłać zgłoszenie poprawione, które zastępuje poprzednie.
 
 ## § 7. Kryteria oceny merytorycznej
 
-Zgłoszenia ocenia się według czterech kryteriów o równej wadze, przyznając w każdym od 0 do 10 punktów. Słowne opisy pasm punktowych dla każdego kryterium zawiera [**Karta oceny**](view.html?file=karta-oceny.md), stanowiąca załącznik do Regulaminu i publikowana na stronie Nagrody:
+Zgłoszenia ocenia się według czterech kryteriów o równej wadze, przyznając w każdym od 0 do 10 punktów. Słowne opisy pasm punktowych dla każdego kryterium zawiera [**Karta oceny**](/karta-oceny), stanowiąca załącznik do Regulaminu i publikowana na stronie Nagrody:
 
 1. **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin: oryginalne powiązanie wewnątrz jednej dziedziny może wymagać więcej pracy myślowej niż zestawienie dwóch dziedzin odległych. Połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.
 2. **Drążenie** - czy Uczestnik dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi; czy późniejsze pytania wynikają z wcześniejszych odpowiedzi.
@@ -88,10 +95,18 @@ Dodatkowo:
    c) artefakt, bez którego rozmowa jest niezrozumiała (omawiany wykres, załączony tekst, fragment kodu, do którego Uczestnik się odnosi), **musi być widoczny** w udostępnionym linku albo opisany w zgłoszeniu w stopniu pozwalającym zrozumieć dialog; jego brak może skutkować odrzuceniem zgłoszenia jako niekompletnego, przy czym sam artefakt nadal nie jest oceniany;
    d) obrazy wygenerowane w rozmowie mogą zostać zachowane w antologii jako ilustracja jej przebiegu, również bez wpływu na ocenę.
 
-8. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń, próby obejścia zabezpieczeń modelu oraz rozmowy o charakterze terapeutycznym lub wsparciowym.
+8. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń oraz próby obejścia zabezpieczeń modelu. Rozmowy o charakterze terapeutycznym i wsparciowym podlegają odrzuceniu już na etapie formalnym (§ 6 ust. 11).
 9. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
 10. **Kolejność czytania.** Oceniający zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł.
 11. **Przygotowanie a inscenizacja.** Dozwolone jest przygotowanie się do rozmowy, w tym korzystanie z wcześniejszych konsultacji, notatek i planu wątków. Niedozwolone jest zgłoszenie rozmowy odtwarzającej z góry ustalony przebieg, której wynik był znany Uczestnikowi przed jej rozpoczęciem (§ 11 ust. 1 lit. c). Rozstrzygające jest to, czy odkrycie nastąpiło w rozmowie, czy zostało w niej odegrane.
+
+## § 7a. Ocena a publikacja
+
+1. **Ocena merytoryczna i decyzja o publikacji są od siebie niezależne.** Zgłoszenie może zostać ocenione i nagrodzone, a mimo to nie zostać opublikowane w antologii ani w archiwum rozmów.
+2. Organizator może odmówić publikacji całości albo fragmentu rozmowy, jeżeli jej upublicznienie naraziłoby Organizatora, Uczestnika albo osobę trzecią na odpowiedzialność prawną, w szczególności z tytułu znieważenia przedmiotu czci religijnej, naruszenia dóbr osobistych, ujawnienia danych szczególnej kategorii albo naruszenia praw autorskich osób trzecich.
+3. **Odmowa publikacji nie wpływa na punktację ani na przyznaną nagrodę.** Nagroda przysługuje za rozmowę, nie za zgodę na jej upublicznienie.
+4. Treść rozmowy nie podlega ocenie pod kątem wyrażanych w niej poglądów. Krytyczne, polemiczne i niewygodne ujęcia tematów światopoglądowych, religijnych i politycznych są dopuszczalne i oceniane na równi z innymi; odmowa publikacji może wynikać wyłącznie z ryzyka prawnego opisanego w ust. 2, nigdy z niezgody Organizatora albo oceniających z poglądem Uczestnika.
+5. Decyzję o odmowie publikacji Organizator podejmuje wspólnie z co najmniej jednym członkiem Kapituły i przekazuje Uczestnikowi na piśmie wraz z uzasadnieniem. Uczestnik może wskazać fragment do usunięcia albo wycofać zgłoszenie z publikacji w całości, zachowując nagrodę.
 
 ## § 8. Kapituła i Akademia
 
@@ -106,28 +121,29 @@ Dodatkowo:
    a) **odstępuje od oceny tego zgłoszenia** i niezwłocznie informuje o tym Organizatora, bez podawania pozostałym członkom Kapituły, kogo rozpoznał;
    b) Organizator przekazuje zgłoszenie do oceny innemu członkowi tego samego ciała, a jeżeli nie jest to możliwe - powołuje do oceny tego jednego zgłoszenia niezależnego recenzenta zewnętrznego;
    c) fakt wyłączenia odnotowuje się w protokole, bez ujawniania tożsamości Uczestnika.
-
+   
    Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; członek ocenia pozostałe zgłoszenia normalnie. Samo rozpoznanie Uczestnika, bez relacji ani innej przyczyny stronniczości, nie wymaga wyłączenia, ale członek Kapituły zgłasza je Organizatorowi do protokołu.
 
 7. **Ujawnienie tożsamości.** Dane Uczestników ujawniane są Kapitule dopiero po ustaleniu ostatecznej kolejności, przy okazji rozmów weryfikacyjnych i przygotowania antologii.
 8. **Udział narzędzi automatycznych.** Narzędzia oparte na modelach językowych wykorzystywane są wyłącznie do weryfikacji warunków formalnych: liczby słów, języka i ciągłości wątku. **Narzędzia te nie oceniają zgłoszeń, nie przyznają punktów, nie ustalają kolejności i nie sporządzają streszczeń.** Zgłoszenia nie są przekazywane dostawcom modeli w celu ich opracowania.
 9. **Kolejność prezentacji.** Zgłoszenia prezentowane są każdemu członkowi Kapituły w kolejności losowej, odrębnej dla każdego z nich, aby wykluczyć wpływ kolejności na ocenę.
 10. **Tryb oceny zależny od liczby zgłoszeń.** Organizator ogłasza tryb w terminie 7 dni od zamknięcia naboru:
-    a) **do 20 zgłoszeń** - Akademii nie powołuje się; każdy członek Kapituły ocenia wszystkie zgłoszenia;
-    b) **od 21 do 60 zgłoszeń** - Akademia przeprowadza pierwszą rundę, w której każde zgłoszenie jest czytane przez co najmniej dwóch jej członków; Kapituła ocenia zgłoszenia zakwalifikowane do drugiej rundy, nie mniej niż 20;
-    c) **powyżej 60 zgłoszeń** - jak w lit. b, z przydziałem zapewniającym każdemu członkowi Akademii nie więcej niż 10 zgłoszeń; w razie potrzeby Organizator powołuje dodatkowych członków Akademii z listy rezerwowej.
+   a) **do 20 zgłoszeń** - Akademii nie powołuje się; każdy członek Kapituły ocenia wszystkie zgłoszenia;
+   b) **od 21 do 60 zgłoszeń** - Akademia przeprowadza pierwszą rundę, w której każde zgłoszenie jest czytane przez co najmniej dwóch jej członków; Kapituła ocenia zgłoszenia zakwalifikowane do drugiej rundy, nie mniej niż 20;
+   c) **powyżej 60 zgłoszeń** - jak w lit. b, z przydziałem zapewniającym każdemu członkowi Akademii nie więcej niż 10 zgłoszeń; w razie potrzeby Organizator powołuje dodatkowych członków Akademii z listy rezerwowej.
 11. **Dzika karta.** Każdy członek Akademii może raz w edycji skierować do oceny Kapituły jedno zgłoszenie niezależnie od wyniku pierwszej rundy, uzasadniając to pisemnie. Zgłoszenie skierowane dziką kartą jest oceniane przez Kapitułę na równi z pozostałymi. Celem mechanizmu jest ochrona zgłoszeń nietypowych, które uśredniona ocena mogłaby odrzucić.
 12. **Porównywalność ocen.** Przed rozpoczęciem oceny Organizator przeprowadza z Kapitułą i Akademią próbę kalibracyjną na kilku rozmowach spoza edycji: wszyscy oceniają te same teksty niezależnie, a następnie omawiane są największe rozbieżności. Zgłoszenia dzielone są tak, aby każde otrzymało tę samą liczbę ocen; przy rozbieżności przekraczającej 4 punkty w którymkolwiek kryterium zarządza się ocenę trzecią.
 13. **Ustalenie wyniku.** Dziesięć zgłoszeń o najwyższej średniej ocen, powiększone o zgłoszenia skierowane dziką kartą, czyta cały skład Kapituły i ustala ostateczną kolejność. O awansie decyduje średnia, a nie suma, ponieważ zgłoszenia mogą otrzymać różną liczbę ocen.
 14. **Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników Organizator przeprowadza z każdym Uczestnikiem, którego zgłoszenie znalazło się w pierwszej dziesiątce, krótką rozmowę (telefoniczną lub wideo, do 20 minut) na temat treści zgłoszonej rozmowy. Rozmowa dotyczy wyłącznie tego, co w zgłoszeniu już się znajduje: jej celem jest potwierdzenie, że Uczestnik rozumie wątek, który prowadził, i potrafi go pociągnąć dalej. **Rozmowa weryfikacyjna sprawdza zrozumienie zgłoszenia, a nie moment, w którym Uczestnik doszedł do swojego wniosku**; nie jest i nie może być dowodem na to, że odkrycie nastąpiło w rozmowie.
 15. **Kontakt i termin.** Organizator kontaktuje się z Uczestnikiem co najmniej trzykrotnie, na podany adres e-mail oraz telefonicznie, w odstępie nie krótszym niż 3 dni, wskazując termin nie krótszy niż 14 dni na odbycie rozmowy. Na wniosek Uczestnika Organizator wskazuje termin dodatkowy albo zgadza się na inną formę weryfikacji, w szczególności odpowiedź pisemną na te same pytania.
 16. Dopiero bezskuteczny upływ terminu po wyczerpaniu trybu z ust. 15 oznacza rezygnację ze zgłoszenia; miejsce zajmuje kolejne zgłoszenie z rankingu.
-17. **Odrzucenie za inscenizację.** Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Kapitułę. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 11. Odrzucenie następuje w następującym trybie:
-    a) Organizator sporządza pisemne uzasadnienie wskazujące **konkretne podstawy**: fragmenty zgłoszonej rozmowy albo wypowiedzi z rozmowy weryfikacyjnej, z których wynika, że przebieg został odtworzony, a wynik był znany przed rozpoczęciem;
-    b) uzasadnienie przekazywane jest Uczestnikowi, któremu przysługuje **7 dni na ustosunkowanie się** i przedstawienie wyjaśnień lub dowodów przeciwnych;
-    c) decyzję podejmuje Organizator **wspólnie z co najmniej jednym członkiem Kapituły**, po zapoznaniu się z wyjaśnieniami; decyzji nie podejmuje się przed upływem terminu z lit. b;
-    d) decyzja wraz z uzasadnieniem przekazywana jest Uczestnikowi na piśmie przed ogłoszeniem wyników;
-    e) w razie wątpliwości nierozstrzygniętych po wyjaśnieniach zgłoszenie **pozostaje w ocenie**. Ciężar wykazania inscenizacji spoczywa na Organizatorze.
+17. **Odrzucenie za inscenizację.** Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Kapitułę. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 11.
+   **Podstawą wszczęcia trybu jest wyłącznie sygnał pochodzący od osoby, która zgłoszenie przeczytała**: członka Akademii albo Kapituły na etapie oceny merytorycznej, albo ustalenie z rozmowy weryfikacyjnej. **Ocena formalna (§ 6) nie obejmuje badania inscenizacji, a Organizator nie prowadzi z urzędu przeglądu zgłoszeń pod tym kątem.** Po otrzymaniu sygnału Organizator wszczyna tryb:
+   a) Organizator sporządza pisemne uzasadnienie wskazujące **konkretne podstawy**: fragmenty zgłoszonej rozmowy albo wypowiedzi z rozmowy weryfikacyjnej, z których wynika, że przebieg został odtworzony, a wynik był znany przed rozpoczęciem;
+   b) uzasadnienie przekazywane jest Uczestnikowi, któremu przysługuje **7 dni na ustosunkowanie się** i przedstawienie wyjaśnień lub dowodów przeciwnych;
+   c) decyzję podejmuje Organizator **wspólnie z co najmniej jednym członkiem Kapituły**, po zapoznaniu się z wyjaśnieniami; decyzji nie podejmuje się przed upływem terminu z lit. b;
+   d) decyzja wraz z uzasadnieniem przekazywana jest Uczestnikowi na piśmie przed ogłoszeniem wyników;
+   e) w razie wątpliwości nierozstrzygniętych po wyjaśnieniach zgłoszenie **pozostaje w ocenie**. Ciężar wykazania inscenizacji spoczywa na Organizatorze.
 18. Rozstrzygnięcie Kapituły jest ostateczne w zakresie oceny merytorycznej.
 
 ## § 9. Nagrody
@@ -181,7 +197,6 @@ Dodatkowo:
 4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 9) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
-
 ## § 13. Postanowienia końcowe
 
 1. Regulamin obowiązuje od dnia publikacji na stronie Nagrody.
@@ -191,4 +206,4 @@ Dodatkowo:
 
 ---
 
-_Wersja 1.0 z dnia 19 października 2026 r._
+*Wersja 1.0 z dnia 19 października 2026 r.*
