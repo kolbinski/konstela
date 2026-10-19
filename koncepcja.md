@@ -421,6 +421,41 @@ Sponsor może pokryć jednocześnie pulę nagród i koszty organizacyjne; umowa 
 
 **Do zrobienia:** rozmowa z księgowym (Piotr Jędrzejewski) z regulaminem w ręku, **przed** wysłaniem czegokolwiek do sponsora. Wybór wariantu wpływa na treść umowy sponsoringu i na zapisy regulaminu o fundatorze.
 
+## Warstwa dydaktyczna antologii - co dokładnie powstaje (ustalone 19.10.2026)
+
+Na każdą z dziesięciu rozmów składają się cztery elementy:
+
+1. **Dialog w całości, bez montażu**, łącznie z pytaniami nieudanymi i ślepymi uliczkami.
+2. **Nota wprowadzająca**, 400-600 słów przed rozmową: kto, do czego doszedł, dlaczego ta rozmowa jest w dziesiątce, czego w niej szukać.
+3. **Noty na marginesie**, 5-12 na rozmowę, po 1-2 zdania, przypięte do konkretnego miejsca ("tu nie przyjął pierwszej odpowiedzi", "tu model podał nieistniejącą datę, a uczestnik to wyłapał"). To jest sedno antologii: nauczyciel nie pokaże uczniom stu stron dialogu, pokaże cztery zaznaczone momenty.
+4. **Nota końcowa**, 300-400 słów: co da się z tej rozmowy wziąć do własnej pracy, a co zadziałało tylko tutaj.
+
+**Kto pisze (sprostowanie 19.10.2026).** Noty pisze **Kapituła**, zgodnie z pierwotnym założeniem "dziesięć rozmów z krótkim wstępem jury"; każdy członek bierze dwie albo trzy rozmowy i podpisuje swoje noty nazwiskiem. Przejściowo pojawił się w dokumentach zapis, że komentarz pisze Organizator - to był błąd redakcyjny, na którym oparto wstępny budżet czasu i który został poprawiony.
+
+**Nakład Kapituły:** około 3-4 godziny na rozmowę, czyli 8-12 godzin na członka przy podziale po dwie, trzy rozmowy. **Trzeba to powiedzieć przy zapraszaniu do Kapituły**, bo jest to realne zobowiązanie wykraczające poza czytanie i ocenę.
+
+**Nakład Organizatora:** redakcja, ujednolicenie stylu, uzupełnienie brakujących not, kontakt z uczestnikami dla uniknięcia nieścisłości, skład - około 45 godzin na całą antologię zamiast 120.
+
+**Dźwignia, którą trzeba uruchomić w formularzu oceny.** Regulamin wymaga, by każda ocena wskazywała fragment uzasadniający. Jeżeli formularz poprosi dodatkowo o **jedno zdanie komentarza przy tym fragmencie**, Kapituła i Akademia wytwarzają gotowe kandydatury na noty marginesowe w trakcie normalnej pracy. Nota podpisana nazwiskiem jurora jest w antologii mocniejsza niż komentarz organizatora, a nakład własny spada z pisania do redagowania. Do wdrożenia przy budowie panelu oceny.
+
+## Laboratoria AI jako partnerzy, nie fundatorzy puli (ustalone 19.10.2026)
+
+**Zasada neutralności.** Regulamin stanowi, że Nagroda nie wskazuje ani nie promuje żadnego dostawcy, a jakość modelu nie podlega ocenie. Pojedyncze laboratorium jako sponsor tytularny tę zasadę łamie: każda nagrodzona rozmowa odbyta z jego modelem staje się podejrzana, a użytkownicy pozostałych modeli dostają powód, żeby się nie zgłaszać. Pula główna nie pochodzi więc od jednego dostawcy modeli. Jeżeli kiedykolwiek pochodziłaby od kilku naraz, udział każdego jest jawny i żaden nie ma wpływu na ocenę ani na skład jury.
+
+**Co laboratorium może dać zamiast pieniędzy do puli**, od najłatwiejszego do uzyskania:
+1. **Kredyty API** na panel oceny, narzędzia archiwizujące i pracę redakcyjną. Budżet istniejący w każdym laboratorium, wydawany bez decyzji zarządu.
+2. **Nazwisko badacza w Kapitule.** Nic nie kosztuje, a domyka warunek uruchomienia z § 10 ust. 5.
+3. **Zasięg.** Jeden wpis z oficjalnego konta daje więcej zgłoszeń niż kampania, na którą i tak nie ma budżetu.
+4. **Nagroda specjalna** ufundowana przez laboratorium, ale przyznawana przez niezależne jury i trzymana osobno od puli głównej, z jawnym wskazaniem fundatora.
+
+**Kolejność.** Laboratorium mówi "tak" projektowi, który się odbył, a nie opisanemu. Rozmowę podejmujemy **po pierwszej edycji**, mając liczbę zgłoszeń, opublikowaną antologię, pismo z Ministerstwa i wycinki prasowe. Wcześniejsze podejście wydaje jedyne pierwsze wrażenie w najsłabszym momencie projektu.
+
+**Jeżeli mimo to podejmujemy kontakt wcześniej**, prośba jest **niepieniężna**: kredyty i zasięg. Odmowa na pieniądze zamyka temat na rok; zgoda na kredyty otwiera relację, w której o pieniądzach rozmawia się przy drugiej edycji.
+
+**Adresat.** Nie osoby publiczne i nie zarządy, lecz ludzie prowadzący w regionie programy edukacyjne i politykę publiczną. Laboratorium bez struktury w Polsce nie ma drzwi, do których można zapukać, niezależnie od tego, jak atrakcyjnie wygląda jako partner.
+
+**Dane nie są towarem w tej relacji.** Sponsor kupuje obecność nazwiska przy wartościowej rzeczy, a nie dostęp do rozmów uczestników. Licencja brana dziś od uczestników nie obejmuje udzielania komukolwiek prawa do trenowania modeli; gdyby to kiedykolwiek wchodziło w grę, wymaga osobnej, dobrowolnej zgody nazwanej po imieniu w zgłoszeniu. Zastrzeżenie eksploracji tekstów i danych w formie maszynowo odczytywalnej (robots.txt, ai.txt, metadane strony) zakładamy niezależnie od tego, bo w Unii warunkuje jakiekolwiek późniejsze roszczenia.
+
 ## Do zrobienia przed naborem (z recenzji 19.10.2026)
 
 - [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 18 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
