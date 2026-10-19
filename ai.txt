@@ -1,0 +1,54 @@
+# Nagroda Konstela - konstela.org
+# Zastrzeżenie praw do eksploracji tekstów i danych
+# Reservation of rights for text and data mining
+
+Uprawniony / Rights holder: Krzysztof Olbiński, konstela.org
+Kontakt / Contact: contact@konstela.org
+Data / Date: 2026-10-19
+
+## Zastrzeżenie
+
+Zgodnie z art. 4 ust. 3 dyrektywy (UE) 2019/790 w sprawie prawa autorskiego
+na jednolitym rynku cyfrowym oraz z przepisami wdrażającymi ją do prawa
+polskiego, uprawniony wyraźnie zastrzega prawa do eksploracji tekstów
+i danych (text and data mining) w odniesieniu do wszystkich materiałów
+udostępnianych w domenie konstela.org i w jej subdomenach.
+
+Zastrzeżenie obejmuje w szczególności pozyskiwanie, zwielokrotnianie
+i przetwarzanie treści w celu trenowania, dostrajania lub ewaluacji modeli
+sztucznej inteligencji, a także w celu tworzenia z nich zbiorów danych.
+
+Dotyczy ono również treści publikowanych w ramach antologii oraz archiwum
+rozmów. Materiały te są udostępniane nieodpłatnie do czytania przez ludzi
+oraz do celów badawczych opisanych niżej, a nie jako materiał treningowy.
+
+## Czego zastrzeżenie nie obejmuje
+
+Indeksowania przez wyszukiwarki w celu kierowania ludzi na stronę.
+Cytowania w publikacjach, artykułach i materiałach edukacyjnych na zasadach
+prawa cytatu.
+
+## Badania naukowe
+
+Dostęp do materiałów na potrzeby badań naukowych jest możliwy na podstawie
+odrębnego uzgodnienia. Zapytania: contact@konstela.org
+
+## Uwaga o prawach uczestników
+
+Licencja udzielana organizatorowi przez uczestników Nagrody obejmuje
+publikację rozmowy w antologii i w archiwum rozmów. **Nie obejmuje prawa do
+udzielania osobom trzecim licencji na trenowanie modeli.** Organizator nie
+może zatem zezwolić na takie wykorzystanie, nawet gdyby chciał, a użycie tych
+treści jako materiału treningowego narusza prawa uczestników, nie tylko
+organizatora.
+
+## English summary
+
+The rights holder expressly reserves all rights for text and data mining
+under Article 4(3) of Directive (EU) 2019/790, including the reproduction and
+processing of any content on konstela.org for training, fine-tuning or
+evaluating AI models, or for building datasets. Search engine indexing that
+directs human readers to the site is not covered by this reservation.
+The licence granted to the organiser by contest participants does not include
+the right to sublicense their conversations for model training.
+Research access by arrangement: contact@konstela.org
