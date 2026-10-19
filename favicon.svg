@@ -1,20 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <defs>
-    <linearGradient id="disc" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#241f16"/>
-      <stop offset="1" stop-color="#14120e"/>
-    </linearGradient>
-  </defs>
-  <path d="M22 2h7l-3 11h-6zM42 2h-7l3 11h6z" fill="#8a6a23"/>
-  <circle cx="32" cy="38" r="24" fill="url(#disc)" stroke="#b08b31" stroke-width="3"/>
-  <g stroke="#b08b31" stroke-width="2" stroke-linecap="round" fill="none" opacity="0.9">
-    <path d="M22 46 L28 31 L41 35 L45 26"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Nagroda Konstela">
+  <title>Nagroda Konstela</title>
+
+  <!-- pierścień -->
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#000" stroke-width="3"/>
+
+  <!-- linie konstelacji -->
+  <g fill="none" stroke="#000" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 43 L25 30 L35 34 L41 23"/>
+    <path d="M41 23 L47 39" stroke-dasharray="3 3.5"/>
   </g>
-  <g fill="#f0d79a">
-    <circle cx="22" cy="46" r="3"/>
-    <circle cx="28" cy="31" r="3.4"/>
-    <circle cx="41" cy="35" r="3"/>
-    <circle cx="45" cy="26" r="2.8"/>
+
+  <!-- gwiazdy -->
+  <g fill="#000">
+    <circle cx="18" cy="43" r="3.4"/>
+    <circle cx="25" cy="30" r="4.4"/>
+    <circle cx="35" cy="34" r="3.4"/>
+    <circle cx="41" cy="23" r="4.4"/>
   </g>
-  <circle cx="20" cy="27" r="2.4" fill="#b08b31" opacity="0.85"/>
+
+  <!-- gwiazda jeszcze niepołączona -->
+  <circle cx="47" cy="39" r="3.6" fill="none" stroke="#000" stroke-width="2.4"/>
 </svg>
