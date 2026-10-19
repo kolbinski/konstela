@@ -26,14 +26,14 @@
 
 ## § 4. Terminy edycji pierwszej
 
-| Etap | Termin |
-|---|---|
-| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.** |
-| Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
-| Ocena formalna | październik 2027 |
-| Ocena merytoryczna | październik 2027 |
-| Ogłoszenie wyników i publikacja antologii | **listopad 2027 r.**|
-| Wypłata nagród | do 14 dni od ogłoszenia wyników |
+| Etap                                       | Termin                                                                |
+| ------------------------------------------ | --------------------------------------------------------------------- |
+| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.**                                  |
+| Przyjmowanie zgłoszeń                      | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
+| Ocena formalna                             | październik 2027                                                      |
+| Ocena merytoryczna                         | październik 2027                                                      |
+| Ogłoszenie wyników i publikacja antologii  | **listopad 2027 r.**                                                  |
+| Wypłata nagród                             | do 14 dni od ogłoszenia wyników                                       |
 
 O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organizatora.
 
@@ -71,7 +71,7 @@ Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupe
 
 ## § 7. Kryteria oceny merytorycznej
 
-Zgłoszenia ocenia się według czterech kryteriów o równej wadze, przyznając w każdym od 0 do 10 punktów. Słowne opisy pasm punktowych dla każdego kryterium zawiera **Karta oceny**, stanowiąca załącznik do Regulaminu i publikowana na stronie Nagrody:
+Zgłoszenia ocenia się według czterech kryteriów o równej wadze, przyznając w każdym od 0 do 10 punktów. Słowne opisy pasm punktowych dla każdego kryterium zawiera [**Karta oceny**](view.html?file=karta-oceny.md), stanowiąca załącznik do Regulaminu i publikowana na stronie Nagrody:
 
 1. **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin: oryginalne powiązanie wewnątrz jednej dziedziny może wymagać więcej pracy myślowej niż zestawienie dwóch dziedzin odległych. Połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.
 2. **Drążenie** - czy Uczestnik dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi; czy późniejsze pytania wynikają z wcześniejszych odpowiedzi.
@@ -106,16 +106,16 @@ Dodatkowo:
    a) **odstępuje od oceny tego zgłoszenia** i niezwłocznie informuje o tym Organizatora, bez podawania pozostałym członkom Kapituły, kogo rozpoznał;
    b) Organizator przekazuje zgłoszenie do oceny innemu członkowi tego samego ciała, a jeżeli nie jest to możliwe - powołuje do oceny tego jednego zgłoszenia niezależnego recenzenta zewnętrznego;
    c) fakt wyłączenia odnotowuje się w protokole, bez ujawniania tożsamości Uczestnika.
-   
+
    Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; członek ocenia pozostałe zgłoszenia normalnie. Samo rozpoznanie Uczestnika, bez relacji ani innej przyczyny stronniczości, nie wymaga wyłączenia, ale członek Kapituły zgłasza je Organizatorowi do protokołu.
 
 7. **Ujawnienie tożsamości.** Dane Uczestników ujawniane są Kapitule dopiero po ustaleniu ostatecznej kolejności, przy okazji rozmów weryfikacyjnych i przygotowania antologii.
 8. **Udział narzędzi automatycznych.** Narzędzia oparte na modelach językowych wykorzystywane są wyłącznie do weryfikacji warunków formalnych: liczby słów, języka i ciągłości wątku. **Narzędzia te nie oceniają zgłoszeń, nie przyznają punktów, nie ustalają kolejności i nie sporządzają streszczeń.** Zgłoszenia nie są przekazywane dostawcom modeli w celu ich opracowania.
 9. **Kolejność prezentacji.** Zgłoszenia prezentowane są każdemu członkowi Kapituły w kolejności losowej, odrębnej dla każdego z nich, aby wykluczyć wpływ kolejności na ocenę.
 10. **Tryb oceny zależny od liczby zgłoszeń.** Organizator ogłasza tryb w terminie 7 dni od zamknięcia naboru:
-   a) **do 20 zgłoszeń** - Akademii nie powołuje się; każdy członek Kapituły ocenia wszystkie zgłoszenia;
-   b) **od 21 do 60 zgłoszeń** - Akademia przeprowadza pierwszą rundę, w której każde zgłoszenie jest czytane przez co najmniej dwóch jej członków; Kapituła ocenia zgłoszenia zakwalifikowane do drugiej rundy, nie mniej niż 20;
-   c) **powyżej 60 zgłoszeń** - jak w lit. b, z przydziałem zapewniającym każdemu członkowi Akademii nie więcej niż 10 zgłoszeń; w razie potrzeby Organizator powołuje dodatkowych członków Akademii z listy rezerwowej.
+    a) **do 20 zgłoszeń** - Akademii nie powołuje się; każdy członek Kapituły ocenia wszystkie zgłoszenia;
+    b) **od 21 do 60 zgłoszeń** - Akademia przeprowadza pierwszą rundę, w której każde zgłoszenie jest czytane przez co najmniej dwóch jej członków; Kapituła ocenia zgłoszenia zakwalifikowane do drugiej rundy, nie mniej niż 20;
+    c) **powyżej 60 zgłoszeń** - jak w lit. b, z przydziałem zapewniającym każdemu członkowi Akademii nie więcej niż 10 zgłoszeń; w razie potrzeby Organizator powołuje dodatkowych członków Akademii z listy rezerwowej.
 11. **Dzika karta.** Każdy członek Akademii może raz w edycji skierować do oceny Kapituły jedno zgłoszenie niezależnie od wyniku pierwszej rundy, uzasadniając to pisemnie. Zgłoszenie skierowane dziką kartą jest oceniane przez Kapitułę na równi z pozostałymi. Celem mechanizmu jest ochrona zgłoszeń nietypowych, które uśredniona ocena mogłaby odrzucić.
 12. **Porównywalność ocen.** Przed rozpoczęciem oceny Organizator przeprowadza z Kapitułą i Akademią próbę kalibracyjną na kilku rozmowach spoza edycji: wszyscy oceniają te same teksty niezależnie, a następnie omawiane są największe rozbieżności. Zgłoszenia dzielone są tak, aby każde otrzymało tę samą liczbę ocen; przy rozbieżności przekraczającej 4 punkty w którymkolwiek kryterium zarządza się ocenę trzecią.
 13. **Ustalenie wyniku.** Dziesięć zgłoszeń o najwyższej średniej ocen, powiększone o zgłoszenia skierowane dziką kartą, czyta cały skład Kapituły i ustala ostateczną kolejność. O awansie decyduje średnia, a nie suma, ponieważ zgłoszenia mogą otrzymać różną liczbę ocen.
@@ -175,6 +175,7 @@ Dodatkowo:
 4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 9) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
+
 ## § 13. Postanowienia końcowe
 
 1. Regulamin obowiązuje od dnia publikacji na stronie Nagrody.
@@ -184,4 +185,4 @@ Dodatkowo:
 
 ---
 
-*Wersja 1.0 z dnia 19 października 2026 r.*
+_Wersja 1.0 z dnia 19 października 2026 r._
