@@ -46,7 +46,7 @@ Tryb nie jest wybierany po zamknięciu naboru, bo czytelnicy pracują od lutego.
 
 ## 6. Runda pierwsza - Akademia
 
-Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń, każde czytane przez 2 osoby (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
+Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). W trybach do 200 zgłoszeń każde zgłoszenie czytają 2 osoby; powyżej 200 obowiązuje przesiew jednoosobowy z zabezpieczeniami z § 8 ust. 10a, więc **obietnica dwóch czytelników nie jest bezwarunkowa i nigdzie nie jest tak formułowana**. Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
 
 **Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do Kapituły niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić - ale tylko takie, które ktoś przeczytał i docenił. Przed przeoczeniem w trybie jednoosobowym (powyżej 200 zgłoszeń) chronią zabezpieczenia z § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie poniżej progu, losowy audyt co najmniej jednej dziesiątej odrzuconych i powrót do dwóch czytelników, jeśli audyt pokaże systematyczny błąd.
 
