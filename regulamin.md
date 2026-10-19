@@ -41,7 +41,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 ## § 5. Forma zgłoszenia
 
-1. Zgłoszenie wysyła się pocztą elektroniczną na adres zgloszenia@konstela.org.
+1. Zgłoszenie wysyła się pocztą elektroniczną na adres contact@konstela.org.
 2. Zgłoszenie zawiera łącznie:
    a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu);
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
