@@ -182,7 +182,7 @@ Dlaczego mimo to archiwum rozmów istnieje: to materiał badawczy i dokumentacyj
 Skład mieszany, 3-5 osób: literatura (prowadzenie narracji), nauka i metodologia (weryfikacja, rzetelność), praktyk pracujący z modelami, osoba spoza branży (test zrozumiałości z zewnątrz). Jedno miejsce warto zostawić wolne do drugiej edycji - będzie czym kusić.
 
 **Jak przekonywać:**
-- Policzyć im czas i podać w wiadomości: ~3-4 godziny raz w roku. "Zapraszam do jury" to prośba nieokreślona, na którą odpowiada się ciszą.
+- Policzyć im czas uczciwie i podać w wiadomości. **Poprzedni szacunek 3-4 godzin był nierealny** (recenzja 19.10.2026): przy 30 zgłoszeniach po 3000 słów juror czytał 90 tys. słów, czyli około 7,5 godziny samego czytania. Po wprowadzeniu górnego limitu długości i podziale zgłoszeń między jurorów szacunek trzeba policzyć od nowa, z czasu czytania plus sprawdzania i notowania, i podać z zapasem. "Zapraszam do jury" to prośba nieokreślona, na którą odpowiada się ciszą, ale zaniżony szacunek jest gorszy: juror zorientuje się po pierwszej edycji i nie wróci.
 - Zdjąć z nich wszystko poza czytaniem: sito, kontakt, rozmowy weryfikacyjne, protokoły, wysyłka - po stronie organizatora. Napisać to wprost; każdy, kto był w jakimkolwiek jury, boi się administracji.
 - Dać materiał, którego nie mają: dziesięć realnych transkryptów pracy ludzi z modelami, przed publikacją.
 - Zaproponować wstęp do antologii - współautorstwo książki zamiast recenzowania cudzej pracy. Koszt zero.
