@@ -184,14 +184,16 @@ Dodatkowo:
 6. **Po publikacji antologii** wycofanie zgody skutkuje **anonimizacją, a nie usunięciem rozmowy**. Organizator w terminie 14 dni usuwa z publikowanej wersji imię i nazwisko Uczestnika oraz zastępuje je pseudonimem albo oznaczeniem, że autor zastrzegł dane; sama rozmowa pozostaje w antologii. Podstawą pozostawienia treści jest licencja udzielona w ust. 3 oraz art. 17 ust. 3 lit. a RODO, który wyłącza prawo do usunięcia danych w zakresie niezbędnym do korzystania z wolności wypowiedzi i informacji. `[DO SPRAWDZENIA: potwierdzić zakres wyjątku z prawnikiem]`
 7. Anonimizacja obejmuje wersję publikowaną przez Organizatora. Organizator nie odpowiada za kopie, cytaty i omówienia rozpowszechnione wcześniej przez osoby trzecie, a także za wydania drukowane, które zostały już wprowadzone do obrotu.
 8. Wycofanie zgody nie wpływa na przyznaną nagrodę ani na wynik edycji; laureat pozostaje laureatem, a informacja o rozstrzygnięciu nie jest usuwana.
-9. **Archiwum rozmów (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego archiwum rozmów, obejmującego wszystkie zgłoszenia, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
+9. **Archiwum rozmów (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego archiwum rozmów. Archiwum obejmuje zgłoszenia, które **zostały zakwalifikowane do rundy drugiej** (§ 8 ust. 10) i których autorzy wyrazili na to zgodę; jeżeli tryb oceny nie przewiduje rundy pierwszej, archiwum obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną i których autorzy wyrazili zgodę. Zasady:
    a) zgoda jest **dobrowolna i nie wpływa na ocenę**; domyślnie publikowana jest wyłącznie dziesiątka z antologii;
    b) archiwum rozmów publikowane jest odrębnie od antologii, bez komentarzy Kapituły i bez punktacji - nie wynika z niego, które zgłoszenie oceniono wyżej, a które niżej;
    c) archiwum rozmów publikowane jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika;
    d) zgodę można wycofać w każdym czasie, również po publikacji; rozmowa jest wtedy usuwana z archiwum rozmów;
-   e) Organizator może odmówić włączenia rozmowy do archiwum rozmów bez podania przyczyny, w szczególności gdy jej treść budzi wątpliwości, których ocena formalna nie obejmuje. Odmowa nie wpływa na ocenę zgłoszenia.
+   e) Organizator może odmówić włączenia rozmowy do archiwum rozmów bez podania przyczyny, w szczególności gdy jej treść budzi wątpliwości, których ocena formalna nie obejmuje. Odmowa nie wpływa na ocenę zgłoszenia;
+   f) archiwum udostępniane jest od dnia ogłoszenia wyników; Organizator może udostępniać poszczególne rozmowy stopniowo, w ciągu roku następującego po ogłoszeniu, a kolejność udostępniania nie wynika z punktacji;
+   g) Uczestnik, którego rozmowa nie została włączona do archiwum, otrzymuje na żądanie sporządzoną przez Organizatora kopię archiwalną swojej rozmowy i może ją opublikować samodzielnie. Organizator nie nabywa wyłączności do zgłoszonej rozmowy.
 
-   Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu.
+   Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu. Ograniczenie archiwum do zgłoszeń z rundy drugiej wynika z tego, że każde z nich zostało przeczytane przez co najmniej dwie osoby przed publikacją.
 
 10. `[DO SPRAWDZENIA: status prawny wypowiedzi modelu w rozmowie - czy i w jakim zakresie podlegają prawu autorskiemu, oraz czy regulaminy dostawców modeli dopuszczają publikację udostępnionych rozmów. Wymaga opinii prawnej przed pierwszą publikacją antologii.]`
 
@@ -200,7 +202,7 @@ Dodatkowo:
 1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są wyłącznie w celu przeprowadzenia Nagrody, wypłaty nagród i rozliczenia podatkowego, na podstawie zgody oraz obowiązku prawnego.
 3. Zakres danych: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, a w przypadku laureatów dodatkowo dane niezbędne do wypłaty i rozliczenia nagrody.
-4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 9) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
+4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, których rozmowa została włączona do archiwum rozmów (§ 11 ust. 9) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
 7. `[DO UZUPEŁNIENIA: pełna klauzula informacyjna RODO - do przygotowania z prawnikiem]`

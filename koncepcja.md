@@ -205,7 +205,13 @@ Czego nie zatrzymamy i nie chcemy zatrzymywać: człowieka, który zna temat, po
 
 **Coroczna antologia.** Dziesięć rozmów z krótkim wstępem jury wyjaśniającym, co w każdej było wartościowego. To właściwy nośnik idei - bardziej niż gala czy czek. Nagroda jest pretekstem, antologia produktem. Tytuły: "Konstelacje 2027" i kolejne roczniki.
 
-**Archiwum rozmów - osobno, za zgodą opcjonalną.** Uczestnik może przy zgłoszeniu zaznaczyć, że zgadza się na włączenie rozmowy do publicznego archiwum rozmów, niezależnie od wyniku. Domyślnie publikowana jest tylko dziesiątka.
+**Archiwum rozmów - osobno, za zgodą opcjonalną.** Uczestnik może przy zgłoszeniu zaznaczyć, że zgadza się na włączenie rozmowy do publicznego archiwum rozmów. Domyślnie publikowana jest tylko dziesiątka.
+
+**Zakres archiwum - rozstrzygnięty 19.10.2026 na wariant B.** Archiwum obejmuje wyłącznie zgłoszenia, które **przeszły do rundy drugiej**, czyli przeczytane przez co najmniej dwóch czytelników Akademii i przez Kapitułę (przy ok. 150 zgłoszeniach to 25-30 rozmów). Rozważany był wariant A, obejmujący wszystkie zgłoszenia za zgodą, i został odrzucony: wymagałby, żeby Organizator przeczytał przed publikacją wszystkie 150 rozmów, bo inaczej pod własną domeną ukazują się treści, których nikt odpowiedzialny nie widział. Dla uczestników, których rozmowa do archiwum nie weszła, przewidziana jest rekompensata bez kosztu: na żądanie dostają sporządzoną przez Organizatora kopię archiwalną i mogą ją opublikować sami, bo Organizator nie nabywa wyłączności. Regulamin § 11 ust. 9 lit. f-g.
+
+**Publikacja rozłożona w czasie.** Archiwum i antologia rocznika udostępniane są od dnia ogłoszenia wyników, a potem poszczególne rozmowy ukazują się porcjami jako treść redakcyjna w ciągu roku następującego po ogłoszeniu, w rytmie około dwutygodniowym, z komentarzem. Powód: strona żyje przez cały rok, w którym trwa kolejny nabór, a rocznik poprzedni jest gotowym kalendarzem treści - materiał jest już przeczytany, oceniony i objęty zgodą. Kolejność udostępniania nie wynika z punktacji.
+
+**Czego świadomie nie robimy: publikacji zgłoszeń bieżącego rocznika na bieżąco.** Pomysł był rozważany 19.10.2026 i odrzucony z trzech powodów. Po pierwsze psuje kalendarz: kto zgłasza się w styczniu, oddaje konkurencji swój warsztat na jedenaście miesięcy, więc racjonalny uczestnik czeka do 15 stycznia, co odtwarza lawinę pod koniec terminu, przed którą miał chronić pełny rok naboru. Po drugie psuje anonimowość oceny - czytelnik dostaje w lutym rozmowę, którą w październiku widział w mediach społecznościowych z nazwiskiem autora. Po trzecie tworzy ryzyko publicznego odwoływania publikacji przy inscenizacji albo wycofaniu zgody po zaindeksowaniu. Treść na rok 2027, w którym nie ma jeszcze poprzedniego rocznika: rozmowy kalibracyjne z komentarzem (i tak powstają na próbę oceny), profile Gwiazd Jury i Akademii publikowane pojedynczo w miarę potwierdzania udziału, licznik zgłoszeń i noty o bieżącym etapie.
 
 Dlaczego nie publikujemy automatycznie wszystkiego, co przeszło ocenę formalną:
 - licencja obejmuje antologię; szersza zgoda wymuszona na wszystkich odstraszyłaby część zgłaszających,
@@ -288,7 +294,7 @@ Problem jest arytmetyczny: tysiąc zgłoszeń po 3000 słów to trzy miliony sł
 
 Pojawił się zarzut, że wysoka pula zniekształca obraz tego, jak ludzie naprawdę rozmawiają z AI. Jest chybiony: konkurs jest z natury **normatywny**, nie opisowy - dyktando pokazuje, jak należy pisać, a nie jak pisze przeciętny Polak, i nikt nie uważa tego za wadę. Optymalizacja pod wysoką stawkę może być wręcz cenniejsza edukacyjnie, bo pokazuje górną półkę możliwości.
 
-W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna** (dziesięć najlepszych = wzorzec), **archiwum rozmów jest opisowy** (wszystkie zgłoszenia za zgodą, bez punktacji = obraz rzeczywisty).
+W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna** (dziesięć najlepszych = wzorzec), **archiwum rozmów jest opisowy** (zgłoszenia z rundy drugiej za zgodą, bez punktacji = obraz rzeczywisty szerszy niż dziesiątka).
 
 Jedyna realna różnica wobec dyktanda: ortografia ma klucz odpowiedzi, nasze kryteria nie. Przy bardzo wysokiej stawce presja przenosi się więc nie na piszących, lecz na jury - stąd finał na żywo jako sposób na przywrócenie wspólnego punktu odniesienia.
 

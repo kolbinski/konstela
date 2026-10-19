@@ -77,7 +77,9 @@ Werdykt, wypłata nagród, rozliczenie podatku, wręczenie medalu i dyplomów.
 
 **Antologia:** 10 rozmów, pełny dialog bez montażu, z notą wprowadzającą, notami na marginesie w konkretnych momentach i notą końcową. Te 10 Organizator czyta uważnie, bo i tak pisze do nich komentarz.
 
-**Archiwum rozmów:** zakres do rozstrzygnięcia. `[DO DECYZJI]` Wariant A - wszystkie zgłoszenia za zgodą, co wymaga przeczytania wszystkiego przed publikacją. Wariant B - tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwie osoby; archiwum jest wtedy mniejsze i mniej opisowe, ale nie wymaga dodatkowej pracy ani nie tworzy ryzyka publikacji treści, których nikt nie widział.
+**Archiwum rozmów:** tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę, i na które uczestnik wyraził zgodę. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
+
+**Rytm publikacji:** całość udostępniana od dnia ogłoszenia wyników, a następnie poszczególne rozmowy porcjami przez rok następny, w rytmie dwutygodniowym, z komentarzem - żeby strona żyła w trakcie kolejnego naboru. Kolejność nie wynika z punktacji.
 
 ## 13. Po edycji
 
@@ -94,4 +96,4 @@ Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w termi
 | Runda druga | 0 | czyta Kapituła; Organizator nie ocenia merytorycznie |
 | Postępowania szczególne | pojedyncze | tylko te, co do których przyszedł sygnał |
 | Antologia | 10 | pisze komentarz dydaktyczny |
-| Archiwum, wariant A | wszystkie | dlatego rekomendowany jest wariant B |
+| Archiwum rozmów | 0 | obejmuje tylko zgłoszenia z rundy drugiej, już przeczytane |
