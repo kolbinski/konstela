@@ -2,7 +2,7 @@
 
 ### Nota koncepcyjna dla Ministerstwa Cyfryzacji
 
-_Krzysztof Olbiński · październik 2026 · konstela.org_
+*Krzysztof Olbiński · październik 2026 · konstela.org*
 
 ---
 
@@ -18,7 +18,7 @@ _Krzysztof Olbiński · październik 2026 · konstela.org_
 
 Konkursem, w którym nagradzamy **nie sztuczną inteligencję, lecz człowieka, który z nią rozmawia**.
 
-Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem językowym - dowolnym: ChatGPT, Claude, Gemini, Bielik. Nie przyjmujemy transkryptów w plikach, ponieważ tekst można zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
+Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy. Nie przyjmujemy transkryptów w plikach, ponieważ tekst można zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. **[USTALONE]**
 
@@ -36,11 +36,11 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu,
 
 Trzy funkcje, które antologia pełni jednocześnie:
 
-| Funkcja                                                             | Dla kogo                                                      |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- |
-| Materiał dydaktyczny - realne przykłady krytycznej pracy z AI       | Szkoły, uczelnie, biblioteki, szkolenia kompetencji cyfrowych |
-| Dokument epoki - zapis tego, jak Polacy uczyli się nowego narzędzia | Badacze, historia techniki                                    |
-| Wzorzec postawy - weryfikowanie zamiast przyjmowania na wiarę       | Odbiorca masowy                                               |
+| Funkcja | Dla kogo |
+|---|---|
+| Materiał dydaktyczny - realne przykłady krytycznej pracy z AI | Szkoły, uczelnie, biblioteki, szkolenia kompetencji cyfrowych |
+| Dokument epoki - zapis tego, jak Polacy uczyli się nowego narzędzia | Badacze, historia techniki |
+| Wzorzec postawy - weryfikowanie zamiast przyjmowania na wiarę | Odbiorca masowy |
 
 Trzecia funkcja jest najistotniejsza z perspektywy publicznej. Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach modelu**. Konkurs nagradza więc nieufność wobec AI, a nie zachwyt nad nią.
 
@@ -69,18 +69,18 @@ Trzy mechanizmy, wszystkie zapisane w regulaminie: **[USTALONE]**
 
 ## 6. Stan przygotowań
 
-| Element                                    | Status                                 |
-| ------------------------------------------ | -------------------------------------- |
-| Koncepcja, kryteria, mechanika zgłoszeń    | **[GOTOWE]**                           |
-| Strona konkursu: konstela.org              | **[GOTOWE]**, opublikowana             |
-| Regulamin: konstela.org/regulamin          | **[GOTOWE]**, przed konsultacją prawną |
-| Pieczęć i identyfikacja wizualna           | **[GOTOWE]**                           |
-| Polityka prywatności, administrator danych | **[GOTOWE]**                           |
-| Domena i adres kontaktowy w domenie        | **[GOTOWE]**                           |
-| Terminy edycji pierwszej                   | **[USTALONE]**                         |
-| Skład jury                                 | **[PROPOZYCJA]**, patrz p. 7           |
-| Finansowanie                               | **[PROPOZYCJA]**, patrz p. 9           |
-| Patronaty                                  | przedmiot tej rozmowy                  |
+| Element | Status |
+|---|---|
+| Koncepcja, kryteria, mechanika zgłoszeń | **[GOTOWE]** |
+| Strona konkursu: konstela.org | **[GOTOWE]**, opublikowana |
+| Regulamin: konstela.org/regulamin | **[GOTOWE]**, przed konsultacją prawną |
+| Pieczęć i identyfikacja wizualna | **[GOTOWE]** |
+| Polityka prywatności, administrator danych | **[GOTOWE]** |
+| Domena i adres kontaktowy w domenie | **[GOTOWE]** |
+| Terminy edycji pierwszej | **[USTALONE]** |
+| Skład jury | **[PROPOZYCJA]**, patrz p. 7 |
+| Finansowanie | **[PROPOZYCJA]**, patrz p. 9 |
+| Patronaty | przedmiot tej rozmowy |
 
 **Terminy edycji pierwszej: [USTALONE]**
 
@@ -100,7 +100,7 @@ Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech róż
 - **praktyka** - osoba pracująca z modelami zawodowo,
 - **spoza branży** - sprawdzenie, czy rozmowa jest zrozumiała dla kogoś z zewnątrz.
 
-_Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat instytucjonalny znacząco ułatwiłby ich pozyskanie - i to jest jedna z głównych korzyści, jakich od niego oczekuję._
+*Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat instytucjonalny znacząco ułatwiłby ich pozyskanie - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
 
 Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za ocenę formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
 
@@ -118,11 +118,11 @@ Konkurs jest niekomercyjny i bezpłatny dla uczestników. Nie przewiduję wpisow
 
 Profil poszukiwanego fundatora i widełki:
 
-| Wariant    | Kwota                 | Co obejmuje                                                            |
-| ---------- | --------------------- | ---------------------------------------------------------------------- |
-| Minimalny  | 20-30 tys. zł         | Pula edycji 1, obsługa prawna, nagrody fizyczne                        |
-| Docelowy   | 120-150 tys. zł       | Nagroda główna 100 tys. zł, wyróżnienia, druk antologii, gala finałowa |
-| Wieloletni | 300 tys. zł+ / 3 lata | Stabilność serii, program edukacyjny przy antologii                    |
+| Wariant | Kwota | Co obejmuje |
+|---|---|---|
+| Minimalny | 20-30 tys. zł | Pula edycji 1, obsługa prawna, nagrody fizyczne |
+| Docelowy | 120-150 tys. zł | Nagroda główna 100 tys. zł, wyróżnienia, druk antologii, gala finałowa |
+| Wieloletni | 300 tys. zł+ / 3 lata | Stabilność serii, program edukacyjny przy antologii |
 
 Poziom docelowy nie jest wzięty z sufitu: **100 tys. zł dla laureata to górna półka polskich nagród** (dla porównania Nagroda Nike), czyli kwota, która lokuje Nagrodę Konstela w pierwszej lidze, a jednocześnie nie przekracza granicy, za którą konkurs zaczyna przyciągać osoby liczące kryteria zamiast prowadzące rozmowy. Wyższa pula działałaby przeciwko jakości zgłoszeń.
 
@@ -133,12 +133,14 @@ Kierunki, w których zamierzam szukać: instytucje finansowe i ubezpieczeniowe (
 - **Edycja 2-3:** kategorie tematyczne (m.in. debiut, dociekanie, weryfikacja), podział pracy jury, zwiększona pula.
 - **Antologia drukowana** po pozyskaniu wydawcy lub sponsora druku.
 - **Ścieżka edukacyjna:** wybór rozmów opracowany jako materiał dla szkół ponadpodstawowych i uczelni, z komentarzem dydaktycznym. Antologia jako źródło darmowe i polskojęzyczne.
-- **Patronat medialny i obecność w mediach publicznych:** naturalnym partnerem dla tej tematyki byłaby TVP Nauka - zarówno jako patron medialny, jak i miejsce relacji z rozstrzygnięcia. _Rozmowy w tej sprawie nie zostały jeszcze podjęte; wymieniam to jako kierunek, który patronat Ministerstwa czyniłby realnym._
+- **Patronat medialny i obecność w mediach publicznych:** naturalnym partnerem dla tej tematyki byłaby TVP Nauka - zarówno jako patron medialny, jak i miejsce relacji z rozstrzygnięcia. *Rozmowy w tej sprawie nie zostały jeszcze podjęte; wymieniam to jako kierunek, który patronat Ministerstwa czyniłby realnym.*
 - **Umiędzynarodowienie** po trzeciej edycji: wersja anglojęzyczna z zachowaniem polskiego rdzenia, wraz z otwartym wyzwaniem kierowanym do zespołów firm technologicznych.
 
 ## 11. O organizatorze
 
-Organizatorem jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej, autor wydanej w 2026 roku książki ["365 pytań, które zmieniły wszystko"](https://www.empik.com/365-pytan-ktore-zmienily-wszystko-olbinski-krzysztof,p1713116600,ebooki-i-mp3-p) (704 strony, dostępna w Empiku), prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373.
+Organizatorem jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej, autor wydanej w 2026 roku książki "365 pytań, które zmieniły wszystko" (704 strony, dostępna w Empiku), prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373.
+
+Książka: https://www.empik.com/365-pytan-ktore-zmienily-wszystko-olbinski-krzysztof,p1713116600,ebooki-i-mp3-p
 
 Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat od uczestników.
 
@@ -164,7 +166,7 @@ SOURCE Krzysztof Olbiński
 ul. Porębskiego 12/1, 80-180 Gdańsk
 NIP PL8272087373
 contact@konstela.org
-+48 503 520 004
+[telefon]
 
 **Materiały**
 
@@ -172,4 +174,4 @@ Strona Nagrody: https://konstela.org
 Regulamin: https://konstela.org/regulamin
 Polityka prywatności: https://konstela.org/polityka-prywatnosci
 
-_Koncepcja operacyjna, w tym plan antologii i tryb pracy Jury, dostępna na życzenie._
+*Koncepcja operacyjna, w tym plan antologii i tryb pracy Jury, dostępna na życzenie.*
