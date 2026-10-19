@@ -161,7 +161,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 **Ty: tylko sito formalne.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga konkurs, a jury tylko ustawia kolejność jego typów.
 
-**Kto co czyta.** Progi w § 8 regulaminu: do 20 zgłoszeń Kapituła czyta wszystkie i Akademii się nie powołuje; 21-60 Akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; powyżej 60 maksymalnie 10 zgłoszeń na czytającego i lista rezerwowa. Do Kapituły idzie dziesiątka o najwyższej **średniej** ocen, powiększona o zgłoszenia skierowane dziką kartą. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
+**Kto co czyta.** Progi w § 8 regulaminu, liczone od zgłoszeń **po ocenie formalnej**: do 20 Kapituła czyta wszystkie i Akademii się nie powołuje; 21-60 Akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; 61-200 to samo z przydziałem maksymalnie 20 zgłoszeń na czytającego i listą rezerwową; powyżej 200 przesiew po jednym czytającym, a drugi odczyt dostają zgłoszenia powyżej progu ogłoszonego przed przesiewem. Do Kapituły idzie dziesiątka o najwyższej **średniej** ocen, powiększona o zgłoszenia skierowane dziką kartą. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
 
 **Panel za hasłem** na stronie Nagrody: link, opis odkrycia, metryczka, neutralne streszczenie tematu.
 
@@ -324,15 +324,19 @@ Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nag
 | 50 | 35 h na osobę | koniec tego modelu |
 | 150 | 100 h na osobę | niemożliwe |
 
-**Próg, przy którym potrzebna jest runda przesiewowa, leży około 50 zgłoszeń, nie przy tysiącach.** Wcześniejsze założenie, że Akademia to sprawa trzeciej edycji, było błędne: 150 zgłoszeń to umiarkowany sukces, a nie klęska urodzaju. Progi uruchamiania zapisane w § 8 regulaminu: do 20 bez Akademii, 21-60 pierwsza runda po dwóch czytających, powyżej 60 przydział maksymalnie 10 zgłoszeń na czytającego i lista rezerwowa.
+**Próg, przy którym potrzebna jest runda przesiewowa, leży około 50 zgłoszeń, nie przy tysiącach.** Wcześniejsze założenie, że Akademia to sprawa trzeciej edycji, było błędne: 150 zgłoszeń to umiarkowany sukces, a nie klęska urodzaju. Progi uruchamiania zapisane w § 8 regulaminu: do 20 bez Akademii, 21-60 pierwsza runda po dwóch czytających, 61-200 przydział maksymalnie 20 zgłoszeń na czytającego i lista rezerwowa, powyżej 200 przesiew po jednym czytającym.
 
-**Dlaczego rozdzielenie ról ułatwia rekrutację.** Jurora prosi się o nazwisko i odpowiedzialność, co wymaga prestiżu, którego pierwsza edycja nie ma. Czytelnika prosi się o przeczytanie ośmiu rozmów w ciągu miesiąca, czyli o około pięć godzin, i taką prośbę można wypowiedzieć wobec ludzi, którzy nie znają organizatora.
+**Dlaczego rozdzielenie ról ułatwia rekrutację.** Jurora prosi się o nazwisko i odpowiedzialność, co wymaga prestiżu, którego pierwsza edycja nie ma. Czytelnika prosi się o przeczytanie do dwudziestu rozmów w ciągu roku, czyli o półtorej godziny miesięcznie, i taką prośbę można wypowiedzieć wobec ludzi, którzy nie znają organizatora.
 
 **Skąd brać Akademię w edycji pierwszej.** Doktoranci i studenci ostatnich lat filozofii, kognitywistyki, polonistyki i kierunków zajmujących się metodologią nauki; nauczyciele polskiego i filozofii; bibliotekarze z bibliotek wojewódzkich; redaktorzy pism piszących o AI. Zapłatą jest nazwisko w antologii w spisie czytelników edycji, zaświadczenie, zaproszenie na galę i wcześniejszy dostęp do archiwum rozmów. Od drugiej edycji dochodzi najmocniejsza waluta: finaliści poprzedniej.
 
 **Sekcja ludzi na stronie.** Kapituła u góry, Akademia pod spodem, z profilami. Trzy warunki: publikacja wyłącznie za pisemną zgodą, opis pisany przez samą osobę, a sekcja powstaje dopiero wtedy, gdy są w niej prawdziwe nazwiska. Nazwisko na stronie tworzy zobowiązanie widoczne publicznie, więc utrata członkostwa przy nieprzeczytaniu przydziału musi być powiedziana przy zapraszaniu.
 
-**Narzędzie awaryjne: limit miejsc w edycji.** Nabór zamyka się po osiągnięciu ustalonej liczby zgłoszeń albo w terminie, zależnie co nastąpi pierwsze. Mechanizm znany z wielu konkursów, uczciwy pod warunkiem ogłoszenia z góry. Koszt wizerunkowy istnieje, ale jest mniejszy niż ogłoszenie w listopadzie, że ocena się nie udała. `[DO DECYZJI: czy wprowadzać w edycji pierwszej i przy jakiej liczbie]`
+**Narzędzie awaryjne - rozstrzygnięte 19.10.2026: bez limitu miejsc.** Rozważany był limit zamykający nabór po osiągnięciu ustalonej liczby zgłoszeń i został odrzucony. Nagroda stoi na zdaniu, że liczą się rozmowy z całego roku 2027, a limit miejsc znaczy, że autor najlepszej grudniowej rozmowy zastaje zamknięte drzwi; dla dziennikarza to gotowy akapit, a dla sponsora sygnał, że konkurs planowany jest jako mały. Jedna rzecz działała na korzyść limitu i warto o niej pamiętać: wymuszałby zgłaszanie się wcześnie, czego potrzebuje ocena na bieżąco - ale to osiągamy zachętą, nie zamykaniem naboru.
+
+Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zgłoszeń pierwsza runda przechodzi w przesiew po jednym czytającym, a drugi odczyt dostają tylko zgłoszenia powyżej progu ogłoszonego przed przesiewem. Nakład spada o połowę bez zamykania drzwi, a dzika karta zostaje nietknięta, więc pojedynczy czytelnik nie może sam zakopać rozmowy nietypowej.
+
+**Przepustowość przy 150 zgłoszeniach.** Przy dwóch czytających na zgłoszenie to 300 odczytów. Limit podniesiony z 10 na 20 zgłoszeń na czytającego (stare 10 było liczone pod dwumiesięczne okno oceny, nowy kalendarz rozkłada je na dwanaście miesięcy) daje **15 osób w Akademii**, czyli około 15-20 godzin na osobę w ciągu roku, półtorej godziny miesięcznie. To jest prośba, którą można wypowiedzieć wobec wolontariusza. Wąskim gardłem nie jest liczba 150, a liczba zebranych czytelników; realny kłopot zaczyna się powyżej 400 zgłoszeń.
 
 ## Na później: Konstela Licealistów (edycja druga lub trzecia)
 

@@ -33,21 +33,22 @@ Czas: kilka minut na zgłoszenie, większość do zautomatyzowania.
 
 ## 5. Ogłoszenie trybu oceny - 7 dni po zamknięciu naboru
 
-| Liczba zgłoszeń | Runda pierwsza | Runda druga |
+| Liczba zgłoszeń po ocenie formalnej | Runda pierwsza | Runda druga |
 |---|---|---|
 | do 20 | **nie ma**; Akademii się nie powołuje | Kapituła czyta wszystkie |
 | 21-60 | Akademia, każde zgłoszenie czyta co najmniej 2 czytelników | Kapituła czyta zakwalifikowane, nie mniej niż 20 |
-| powyżej 60 | jak wyżej, maksimum 10 zgłoszeń na czytelnika, w razie potrzeby lista rezerwowa | jak wyżej |
+| 61-200 | jak wyżej, maksimum 20 zgłoszeń na czytelnika, w razie potrzeby lista rezerwowa | jak wyżej |
+| powyżej 200 | przesiew po jednym czytelniku; drugi odczyt tylko powyżej progu ogłoszonego przed przesiewem | jak wyżej |
 
 **Runda pierwsza to przesiew wykonywany przez Akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi Kapituły.
 
 ## 6. Runda pierwsza - Akademia
 
-Każdy czytelnik dostaje losowy przydział (przy 50 zgłoszeniach i 12 czytelnikach: po 8-9 rozmów, każda czytana przez 2 osoby). Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
+Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń, każde czytane przez 2 osoby (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
 
 **Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do Kapituły niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić.
 
-Nakład: 8-9 rozmów to około 5-6 godzin w ciągu miesiąca.
+Nakład: pełny przydział 20 rozmów to 15-20 godzin rozłożonych na dwanaście miesięcy, czyli około półtorej godziny miesięcznie. Ocena idzie na bieżąco, w miarę spływania zgłoszeń, a nie w jednej serii po zamknięciu naboru.
 
 ## 7. Kwalifikacja do rundy drugiej
 
