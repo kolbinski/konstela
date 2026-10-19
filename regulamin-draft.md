@@ -49,7 +49,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
    c) metryczkę: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, nazwa użytego modelu i dostawcy, przybliżona data rozmowy;
    d) oświadczenia z § 11 ust. 1;
-   e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 6). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
+   e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 9). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
 4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. **Dezaktywacja linku przez Uczestnika** przed tym terminem oznacza wycofanie zgłoszenia.
 5. **Kopia archiwalna.** Niezwłocznie po wpłynięciu zgłoszenia Organizator sporządza kopię rozmowy wraz ze znacznikiem czasu. Od tej chwili **ocenie podlega kopia**, a nie treść dostępna pod linkiem. Kopia przechowywana jest poza stroną Nagrody, w miejscu niedostępnym publicznie, służy wyłącznie ocenie i jest usuwana zgodnie z § 12.
@@ -156,8 +156,11 @@ Dodatkowo:
 2. Uczestnik zachowuje wszelkie prawa do swoich wypowiedzi.
 3. Uczestnik, którego rozmowa znajdzie się w antologii, udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji** na publikację rozmowy w antologii oraz na jej udostępnianie w internecie i cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, bez ograniczeń czasowych i terytorialnych. Licencja nie obejmuje innych form wykorzystania.
 4. Antologia publikowana jest z podaniem imienia i nazwiska Uczestnika, chyba że wskaże on pseudonim.
-5. Uczestnik może do dnia ogłoszenia wyników wycofać zgodę na publikację; zgłoszenie jest wtedy usuwane z rankingu.
-6. **Archiwum rozmów (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego archiwum rozmów, obejmującego wszystkie zgłoszenia, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
+5. **Do dnia ogłoszenia wyników** Uczestnik może wycofać zgodę na publikację; zgłoszenie jest wtedy usuwane z rankingu w całości.
+6. **Po publikacji antologii** wycofanie zgody skutkuje **anonimizacją, a nie usunięciem rozmowy**. Organizator w terminie 14 dni usuwa z publikowanej wersji imię i nazwisko Uczestnika oraz zastępuje je pseudonimem albo oznaczeniem, że autor zastrzegł dane; sama rozmowa pozostaje w antologii. Podstawą pozostawienia treści jest licencja udzielona w ust. 3 oraz art. 17 ust. 3 lit. a RODO, który wyłącza prawo do usunięcia danych w zakresie niezbędnym do korzystania z wolności wypowiedzi i informacji. `[DO SPRAWDZENIA: potwierdzić zakres wyjątku z prawnikiem]`
+7. Anonimizacja obejmuje wersję publikowaną przez Organizatora. Organizator nie odpowiada za kopie, cytaty i omówienia rozpowszechnione wcześniej przez osoby trzecie, a także za wydania drukowane, które zostały już wprowadzone do obrotu.
+8. Wycofanie zgody nie wpływa na przyznaną nagrodę ani na wynik edycji; laureat pozostaje laureatem, a informacja o rozstrzygnięciu nie jest usuwana.
+9. **Archiwum rozmów (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego archiwum rozmów, obejmującego wszystkie zgłoszenia, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
    a) zgoda jest **dobrowolna i nie wpływa na ocenę**; domyślnie publikowana jest wyłącznie dziesiątka z antologii;
    b) archiwum rozmów publikowane jest odrębnie od antologii, bez komentarzy Kapituły i bez punktacji - nie wynika z niego, które zgłoszenie oceniono wyżej, a które niżej;
    c) archiwum rozmów publikowane jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika;
@@ -166,14 +169,14 @@ Dodatkowo:
 
    Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu.
 
-7. `[DO SPRAWDZENIA: status prawny wypowiedzi modelu w rozmowie - czy i w jakim zakresie podlegają prawu autorskiemu, oraz czy regulaminy dostawców modeli dopuszczają publikację udostępnionych rozmów. Wymaga opinii prawnej przed pierwszą publikacją antologii.]`
+10. `[DO SPRAWDZENIA: status prawny wypowiedzi modelu w rozmowie - czy i w jakim zakresie podlegają prawu autorskiemu, oraz czy regulaminy dostawców modeli dopuszczają publikację udostępnionych rozmów. Wymaga opinii prawnej przed pierwszą publikacją antologii.]`
 
 ## § 12. Dane osobowe
 
 1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są wyłącznie w celu przeprowadzenia Nagrody, wypłaty nagród i rozliczenia podatkowego, na podstawie zgody oraz obowiązku prawnego.
 3. Zakres danych: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, a w przypadku laureatów dodatkowo dane niezbędne do wypłaty i rozliczenia nagrody.
-4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 6) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
+4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 9) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
 7. `[DO UZUPEŁNIENIA: pełna klauzula informacyjna RODO - do przygotowania z prawnikiem]`

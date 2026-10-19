@@ -63,7 +63,9 @@ Wszystkie powyższe sprawy załatwiane są pod adresem contact@konstela.org.
 
 ## 9. Wycofanie zgody na archiwum rozmów
 
-Zgoda na włączenie rozmowy do archiwum rozmów jest dobrowolna, niezależna od udziału w Nagrodzie i nie wpływa na ocenę zgłoszenia. Można ją wycofać w każdej chwili, pisząc na adres kontaktowy; rozmowa zostaje wtedy usunięta z archiwum rozmów. Wycofanie zgody nie obejmuje rozmów opublikowanych w antologii, do których Uczestnik udzielił odrębnej licencji na zasadach określonych w Regulaminie.
+Zgoda na włączenie rozmowy do archiwum rozmów jest dobrowolna, niezależna od udziału w Nagrodzie i nie wpływa na ocenę zgłoszenia. Można ją wycofać w każdej chwili, pisząc na adres kontaktowy; rozmowa zostaje wtedy usunięta z archiwum w całości.
+
+W antologii działa to inaczej, ponieważ chodzi o dwie różne podstawy. Treść rozmowy publikowana jest na podstawie licencji udzielonej w Regulaminie, a imię i nazwisko na podstawie zgody. Do dnia ogłoszenia wyników wycofanie zgody usuwa zgłoszenie w całości. **Po publikacji antologii wycofanie zgody skutkuje anonimizacją**: w terminie 14 dni Administrator usuwa z publikowanej wersji imię i nazwisko i zastępuje je pseudonimem albo oznaczeniem, że autor zastrzegł dane, natomiast sama rozmowa pozostaje. Podstawą pozostawienia treści jest udzielona licencja oraz art. 17 ust. 3 lit. a RODO, który wyłącza prawo do usunięcia danych w zakresie niezbędnym do korzystania z wolności wypowiedzi i informacji. Anonimizacja obejmuje wersję publikowaną przez Administratora; nie obejmuje kopii, cytatów i omówień rozpowszechnionych wcześniej przez osoby trzecie ani egzemplarzy drukowanych wprowadzonych już do obrotu.
 
 ## 10. Zmiany polityki
 
