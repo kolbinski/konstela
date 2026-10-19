@@ -1,0 +1,52 @@
+# Mail do Cezarego Wujcińskiego (Ministerstwo Cyfryzacji)
+
+Cezary Wujciński, główny specjalista, Wydział Inwestycji w Nowe Technologie, Departament Badań i Innowacji.
+
+**Załączniki:**
+
+1. konstela-dla-ministerstwa.md → wysłać jako PDF
+2. list-intencyjny-projekt.txt → wysłać jako DOCX, żeby dało się w nim edytować
+
+---
+
+**Temat:** Nagroda Konstela - nagroda za rozmowy z AI, prośba o list intencyjny
+
+Panie Cezary,
+
+Kontaktowaliśmy się w kwietniu w sprawie wykorzystania sztucznej inteligencji i repozytorium w polskiej legislacji, więc pozwalam sobie wrócić do Pana z inicjatywą z pokrewnego obszaru. Od razu uprzedzę: nie proszę o pieniądze ani o żadne zobowiązanie finansowe Ministerstwa.
+
+Przeglądając zasoby kompetencjecyfrowe.gov.pl zauważyłem lukę, która wydała mi się istotna. Wszystko, co tam jest, uczy obsługi narzędzi: jak korzystać z AI, jak nie dać się oszukać, jak chronić dane. Nic nie nagradza tego, co w pracy z modelem decyduje o wyniku, czyli umiejętności zadania dobrego pytania i doprowadzenia rozmowy do końca. Kompetencja cyfrowa przestała być kwestią kliknięcia we właściwe miejsce, a stała się kwestią myślenia. Tego nie da się nauczyć instrukcją, można to natomiast pokazać na przykładach.
+
+Dlatego projektuję Nagrodę Konstela: coroczną nagrodę dla ludzi, którzy przeprowadzili z modelem AI najlepsze rozmowy. Nie dla modelu, nie dla firmy, która go zrobiła, tylko dla ludzi po tej stronie ekranu. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, głębokość dociekania, weryfikacja tego, co model powiedział, i to, co człowiek z rozmowy wyniósł. Nazwa wzięła się z tego, czym są te rozmowy w najlepszej postaci: pojedyncze fakty są kropkami, które każdy ma, a wartość powstaje z połączeń między nimi, których wcześniej nikt nie poprowadził.
+
+Trwałym produktem nagrody jest antologia: dziesięć najlepszych rozmów publikowanych po każdej edycji bezpłatnie w internecie, docelowo także w wydaniu książkowym. Za pięć lat to będzie coś, czego dziś nikt nie archiwizuje, czyli zapis tego, jak ludzie naprawdę rozmawiali z maszynami na początku tej epoki. Plus materiał, z którego da się uczyć w polskiej szkole, bo pokazuje nie teorię, a konkretną rozmowę, w której widać każdy ruch.
+
+Regulamin i strona są gotowe, pierwsza edycja obejmuje rok 2027, kolejne będą coroczne:
+https://konstela.org
+https://konstela.org/regulamin
+
+Dwa zdania o mnie, żeby wiadomo było, z kim Pan rozmawia: jestem inżynierem oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwentem FTIMS Politechniki Łódzkiej, autorem wydanej w tym roku książki "365 pytań, które zmieniły wszystko" (704 strony, dostępna w Empiku). Nagroda powstaje bez moich środków własnych w puli i bez jakichkolwiek opłat po stronie uczestników.
+
+Mam do Pana prośbę o jedną rzecz, konkretnie o list intencyjny. Nie proszę na tym etapie również o patronat honorowy, bo zgodnie z Regulaminem przyznawania patronatów wniosek składa się nie później niż 8 tygodni przed wydarzeniem, a wydarzeniem jest w naszym przypadku gala rozstrzygnięcia w listopadzie 2027, więc na to wystąpię w swoim czasie i właściwą drogą. Chodzi mi o krótkie pismo stwierdzające, że Ministerstwo uznaje inicjatywę za wpisującą się w obszar kompetencji cyfrowych i jest wstępnie zainteresowane objęciem jej patronatem po dopełnieniu formalności. Taki dokument niczego nie przyrzeka, a dla mnie jest kluczowy, bo bez niego rozmowa z patronem medialnym i z fundatorem zaczyna się od zera, a z nim od punktu, w którym jest o czym rozmawiać.
+
+Żeby nie obciążać Pana pisaniem, w drugim załączniku pozwalam sobie przesłać projekt treści takiego listu, do dowolnej zmiany albo odrzucenia.
+
+W załączniku przesyłam też dokument z całością: tryb oceny, skład i sposób pracy jury, mechanizm puli nagród, plan na antologię oraz ścieżkę edukacyjną. Jeśli wygodniej byłoby to omówić, jestem dostępny w dowolnym terminie, osobiście lub telefonicznie.
+
+Z poważaniem,
+Krzysztof Olbiński
++48 503 520 004
+
+---
+
+## Notatki do wysyłki
+
+- Linki działają: strona i regulamin są opublikowane pod własną domeną (19.10.2026).
+- Załączniki wygenerować: PDF z konstela-dla-ministerstwa.md oraz DOCX z list-intencyjny-projekt.txt.
+- Data poprzedniego kontaktu: kwiecień. Jeśli pamiętasz konkret z tamtej wymiany, dopisz pół zdania - konkret działa lepiej niż sam miesiąc.
+- Wysyłamy jako nowy mail, nie jako odpowiedź w kwietniowym wątku: po sześciu miesiącach temat wiadomości jest ważniejszy niż historia pod spodem.
+- Nie wspominać w mailu o formie prawnej organizatora. Na etapie listu intencyjnego to nie jest jego sprawa, a wpisanie JDG zamyka drogę do fundacji, jeśli okaże się potrzebna przy fundatorze instytucjonalnym.
+- Jeśli po tygodniu nie ma odpowiedzi: telefon, nie drugi mail. Mail bez odpowiedzi drugim mailem się nie naprawia.
+- Wariant na telefon, w jednym zdaniu: "Projektuję nagrodę za rozmowy z AI, nagradzani są ludzie, nie modele, i proszę o list intencyjny, który pozwoli mi rozmawiać z fundatorem."
+- Świadomie nieobecne w mailu: słowa "prywatny" i "polska" przy nagrodzie, żeby nie zamykać drogi ani do fundacji i środków publicznych, ani do wersji międzynarodowej. Polski rdzeń wynika z kontekstu (kompetencjecyfrowe.gov.pl, polska szkoła) i z regulaminu, więc nie trzeba go deklarować.
+- Medal i dyplomy są w załączonym dokumencie, ale nie w mailu i nie na stronie. Mail mówi tylko, co jest produktem trwałym.
