@@ -128,6 +128,17 @@ Przy stawce rynkowej inżyniera oprogramowania rzędu 150-200 zł za godzinę pr
 
 **Wniosek: zero wkładu pieniężnego nie oznacza zera wkładu własnego.** Projekt jest finansowany czasem organizatora i ten czas jest jego największym kosztem. Dlatego w rozmowie ze sponsorem pozycja "obsługa organizacyjna" nie jest doliczaniem sobie marży, tylko odzyskaniem części realnie poniesionego kosztu.
 
+**Ile prosić sponsora na obsługę (ustalone 19.10.2026).** Nie tyle, ile wynosi wycena pracy organizatora. Fundator ocenia proporcję: nagroda musi wyraźnie dominować nad obsługą. Budżet organizacyjny rzędu 20-30% całości przechodzi bez dyskusji, 50% jest odrzucane odruchowo, a część grantów ma twardy limit kosztów administracyjnych na poziomie 10-15%. Dodatkowo pierwsza edycja nie ma dorobku, którym można uzasadnić pełną stawkę rynkową: realne wynagrodzenie organizatora w edycji pierwszej to 15-25 tys. zł, reszta czasu zostaje wkładem własnym.
+
+Dwie konstrukcje do rozmowy z fundatorem:
+
+| Wariant | Pula | Obsługa | Razem | Charakter |
+|---|---:|---:|---:|---|
+| Prestiżowy | 100 tys. | 30 tys. | 130 tys. | nagroda na poziomie Nike, mocna w mediach i wobec patrona; pokrywa mniej niż połowę wyceny pracy |
+| Realistyczny | 50 tys. | 30 tys. | 80 tys. | łatwiej o fundatora, proporcja zdrowa, pierwsza edycja ma prawo być skromna |
+
+Zasada rozmowy: nie licytować puli na pierwszym spotkaniu. Podawać widełki i mówić wprost, że pula i obsługa to dwie osobne pozycje, których proporcję ustalacie wspólnie. Fundator dokładający do puli zwykle dokłada też do obsługi, bo nie chce, żeby jego nagroda posypała się na organizacji.
+
 **Warunki uruchomienia edycji.** Edycja rusza, gdy spełnione są trzy warunki naraz: pula nagród ma pokrycie w zobowiązaniu fundatora, jury liczy co najmniej trzy osoby, które potwierdziły udział, a regulamin przeszedł konsultację prawną. Bez któregokolwiek z nich otwarcie zgłoszeń jest obietnicą bez pokrycia.
 
 **Bez kategorii w pierwszej edycji.** Jedna pula, jeden ranking, top 10 do antologii. Kategorie (Dociekanie, Współautorstwo, Sprostowanie, Debiut) wracają, gdy skala na to pozwoli - przy bardzo dużej liczbie zgłoszeń stają się wręcz konieczne, bo pozwalają dzielić pracę jury.
@@ -280,6 +291,23 @@ Pojawił się zarzut, że wysoka pula zniekształca obraz tego, jak ludzie napra
 W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna** (dziesięć najlepszych = wzorzec), **archiwum rozmów jest opisowy** (wszystkie zgłoszenia za zgodą, bez punktacji = obraz rzeczywisty).
 
 Jedyna realna różnica wobec dyktanda: ortografia ma klucz odpowiedzi, nasze kryteria nie. Przy bardzo wysokiej stawce presja przenosi się więc nie na piszących, lecz na jury - stąd finał na żywo jako sposób na przywrócenie wspólnego punktu odniesienia.
+
+## Na później: Konstela Licealistów (edycja druga lub trzecia)
+
+**Wzór: Prix Goncourt des lycéens.** Istnieje od 1988 roku, tworzy go i organizuje francuskie Ministerstwo Edukacji Narodowej razem z siecią Fnac. Około dwóch tysięcy licealistów czyta tę samą listę finałową co kapituła Goncourtów i przyznaje **własną, równoległą nagrodę**, z osobnym werdyktem. Do tego dochodzą regionalne spotkania z autorami. Nagroda licealistów bywa we Francji komentowana równie szeroko jak macierzysta.
+
+**Konstrukcja u nas.** Dziesiątka finalistów jest wspólną listą, a nie wynikiem. Kapituła wybiera z niej laureata nagrody głównej. Uczniowie czytają tę samą dziesiątkę i niezależnie, nie znając werdyktu kapituły, wybierają swojego laureata. Zwykle wychodzi ktoś inny; jeśli trafią na tę samą rozmowę, nosi ona obie nagrody. W antologii każda rozmowa dostaje adnotację, kto ją wyróżnił.
+
+**Dlaczego osobna nagroda, a nie uczniowie w akademii czytającej.** Trzy powody, wszystkie wynikają z odrzucenia wcześniejszego wariantu (19.10.2026):
+1. **Konflikt interesów.** Licealiści to naturalna pula uczestników; uczeń nie może oceniać konkursu, w którym startuje kolega z klasy albo on sam.
+2. **Dzika karta wymaga doświadczenia.** Prawo przepchnięcia rozmowy wbrew średniej ma ocalać rzecz osobliwą, ale działa tylko w rękach kogoś, kto odróżnia osobliwość od efekciarstwa, a przy kryterium Weryfikacji potrafi rozpoznać zmyślone źródło.
+3. **To rozwiązuje problem, którego w edycji pierwszej nie ma.** Akademia czytająca odpowiada na tysiące zgłoszeń; pierwsza edycja ma mieć kilkanaście i jury trzy- do pięcioosobowe.
+
+Przy nagrodzie równoległej wszystkie trzy znikają: uczniowie nie decydują o nagrodzie głównej, czytają materiał już przesiany, a mechanizm dokłada się do skali, zamiast jej wymagać.
+
+**Co to daje poza edukacją.** Drugi werdykt o tym samym materiale, czyli jawną informację, że "najlepsza rozmowa" zależy od tego, kto ocenia. Przy nagrodzie, która dopiero ustanawia przedmiot oceny, taka widoczna niezgoda jest zaletą.
+
+**Konsekwencja dla rozmowy z administracją.** Dopiero to jest konkretny program edukacyjny z gotowym precedensem, a nie mgliste "materiał dla szkół". Memo Ministerstwa Edukacji do szkół ma sens przy tej konstrukcji, a nie przy szukaniu darmowych recenzentów do jury głównego. Wobec Ministerstwa Cyfryzacji działa to jako dowód, że ścieżka edukacyjna ma kształt, a nie tylko intencję.
 
 ## Na później: wyzwanie dla firm (wersja międzynarodowa)
 
