@@ -2,7 +2,7 @@
 
 ### Nota koncepcyjna dla Ministerstwa Cyfryzacji
 
-*Krzysztof Olbiński · październik 2026 · konstela.org*
+_Krzysztof Olbiński · październik 2026 · konstela.org_
 
 ---
 
@@ -36,21 +36,21 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu,
 
 Trzy funkcje, które antologia pełni jednocześnie:
 
-| Funkcja | Dla kogo |
-|---|---|
-| Materiał dydaktyczny - realne przykłady krytycznej pracy z AI | Szkoły, uczelnie, biblioteki, szkolenia kompetencji cyfrowych |
-| Dokument epoki - zapis tego, jak Polacy uczyli się nowego narzędzia | Badacze, historia techniki |
-| Wzorzec postawy - weryfikowanie zamiast przyjmowania na wiarę | Odbiorca masowy |
+| Funkcja                                                             | Dla kogo                                                      |
+| ------------------------------------------------------------------- | ------------------------------------------------------------- |
+| Materiał dydaktyczny - realne przykłady krytycznej pracy z AI       | Szkoły, uczelnie, biblioteki, szkolenia kompetencji cyfrowych |
+| Dokument epoki - zapis tego, jak Polacy uczyli się nowego narzędzia | Badacze, historia techniki                                    |
+| Wzorzec postawy - weryfikowanie zamiast przyjmowania na wiarę       | Odbiorca masowy                                               |
 
 Trzecia funkcja jest najistotniejsza z perspektywy publicznej. Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach modelu**. Konkurs nagradza więc nieufność wobec AI, a nie zachwyt nad nią.
 
-**Możliwe miejsce w istniejącej strukturze.** Portal kompetencjecyfrowe.gov.pl prowadzi bazę wiedzy, szkolenia i Kluby Rozwoju Cyfrowego, adresowane m.in. do nauczycieli, uczniów, seniorów i urzędników. W dostępnych materiałach nie znalazłem treści poświęconych krytycznemu korzystaniu z narzędzi AI. Antologia byłaby materiałem uzupełniającym tę lukę: darmowym, polskojęzycznym i opartym na rzeczywistych przykładach, a nie na instrukcji. Czy to właściwy kierunek i właściwy adres, chciałbym ustalić w rozmowie.
+**Możliwe miejsce w istniejącej strukturze.** Portal kompetencjecyfrowe.gov.pl prowadzi bazę wiedzy, szkolenia i Kluby Rozwoju Cyfrowego, adresowane m.in. do nauczycieli, uczniów, seniorów i urzędników. Nie twierdzę, że brakuje tam materiałów o AI; nie znalazłem natomiast materiału tego konkretnego rodzaju, czyli zapisu rzeczywistej rozmowy z komentarzem pokazującym, gdzie człowiek przyłapał model i jak zmienił kierunek pytania. Antologia byłaby materiałem tego typu: darmowym, polskojęzycznym i opartym na przykładach, a nie na instrukcji. Czy to właściwy kierunek i właściwy adres, chciałbym ustalić w rozmowie.
 
 ## 4. Kryteria oceny
 
 Cztery, o równej wadze: **[USTALONE]**
 
-1. **Rozpiętość** - jak odległe od siebie punkty rozmowa połączyła. Dwa zagadnienia z tej samej dziedziny to oczywistość; wartość zaczyna się tam, gdzie łuk przechodzi nad granicą dziedzin.
+1. **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między nazwami dziedzin; wartościowe połączenie może przebiegać również wewnątrz jednej dziedziny, jeżeli przed rozmową nie było widoczne.
 2. **Drążenie** - czy uczestnik dopytuje, kwestionuje i wraca do porzuconych wątków, zamiast przyjmować pierwszą odpowiedź.
 3. **Weryfikacja** - czy sprawdza twierdzenia modelu i prostuje jego błędy.
 4. **Plon** - co z rozmowy realnie zostało: nazwana idea, rozwiązany problem, odnalezione źródło, zmieniona decyzja.
@@ -61,26 +61,26 @@ Rozmowy zawierające pytania nieudane i wątki porzucone **nie są z tego powodu
 
 Trzy mechanizmy, wszystkie zapisane w regulaminie: **[USTALONE]**
 
-**Link zamiast transkryptu.** Zgłoszenie nie może zostać przeredagowane po fakcie.
+**Link zamiast transkryptu.** Nie przyjmujemy plików z transkryptem, bo tekst w pliku można przepisać dowolnie. Link nie jest dowodem na to, jak rozmowa powstawała, ale wyraźnie zawęża pole do poprawiania jej po fakcie. Dodatkowo niezwłocznie po wpłynięciu zgłoszenia sporządzamy kopię archiwalną ze znacznikiem czasu i od tej chwili ocenie podlega kopia, a nie treść dostępna pod linkiem.
 
-**Ograniczona rola narzędzi automatycznych.** Modele językowe wykorzystujemy wyłącznie do czynności pomocniczych: weryfikacji warunków formalnych i opisowych streszczeń. **Nie oceniają, nie punktują i nie ustalają kolejności.** Powód jest merytoryczny: modele oceniające premiują tekst długi, płynny i uporządkowany, czyli działają przeciwko naszemu kryterium o wartości ślepych uliczek. Powód drugi jest oczywisty: nagroda za rozmowy z AI rozstrzygana przez AI byłaby zaprzeczeniem własnej idei.
+**Ograniczona rola narzędzi automatycznych.** Modele językowe wykorzystujemy wyłącznie do weryfikacji warunków formalnych, takich jak liczba słów czy język rozmowy. Streszczenia pisze sam uczestnik w zgłoszeniu; streszczeń generowanych przez model nie używamy, bo zmieniłyby to, co jury faktycznie czyta. **Nie oceniają, nie punktują i nie ustalają kolejności.** Powód jest merytoryczny: modele oceniające premiują tekst długi, płynny i uporządkowany, czyli działają przeciwko naszemu kryterium o wartości ślepych uliczek. Powód drugi jest oczywisty: nagroda za rozmowy z AI rozstrzygana przez AI byłaby zaprzeczeniem własnej idei.
 
-**Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników organizator rozmawia (do 20 minut) z każdym z dziesięciu finalistów o treści jego zgłoszenia. To jedyny mechanizm odróżniający zrozumienie tematu od odegrania przygotowanego scenariusza.
+**Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników organizator rozmawia (do 20 minut) z każdym z dziesięciu finalistów o treści jego zgłoszenia. Rozmowa sprawdza, czy uczestnik rozumie własne zgłoszenie, i nie zmienia punktacji przyznanej przez Kapitułę. Nie jest to moment wykrywania inscenizacji: osobne postępowanie w tej sprawie wszczyna się wyłącznie z sygnału, pisemnie, z ciężarem wykazania po stronie organizatora, a w razie wątpliwości zgłoszenie zostaje.
 
 ## 6. Stan przygotowań
 
-| Element | Status |
-|---|---|
-| Koncepcja, kryteria, mechanika zgłoszeń | **[GOTOWE]** |
-| Strona konkursu: konstela.org | **[GOTOWE]**, opublikowana |
-| Regulamin: konstela.org/regulamin | **[GOTOWE]**, przed konsultacją prawną |
-| Pieczęć i identyfikacja wizualna | **[GOTOWE]** |
-| Polityka prywatności, administrator danych | **[GOTOWE]** |
-| Domena i adres kontaktowy w domenie | **[GOTOWE]** |
-| Terminy edycji pierwszej | **[USTALONE]** |
-| Skład jury | **[PROPOZYCJA]**, patrz p. 7 |
-| Finansowanie | **[PROPOZYCJA]**, patrz p. 9 |
-| Patronaty | przedmiot tej rozmowy |
+| Element                                    | Status                                 |
+| ------------------------------------------ | -------------------------------------- |
+| Koncepcja, kryteria, mechanika zgłoszeń    | **[GOTOWE]**                           |
+| Strona konkursu: konstela.org              | **[GOTOWE]**, opublikowana             |
+| Regulamin: konstela.org/regulamin          | **[GOTOWE]**, przed konsultacją prawną |
+| Pieczęć i identyfikacja wizualna           | **[GOTOWE]**                           |
+| Polityka prywatności, administrator danych | **[GOTOWE]**                           |
+| Domena i adres kontaktowy w domenie        | **[GOTOWE]**                           |
+| Terminy edycji pierwszej                   | **[USTALONE]**                         |
+| Skład jury                                 | **[PROPOZYCJA]**, patrz p. 7           |
+| Finansowanie                               | **[PROPOZYCJA]**, patrz p. 9           |
+| Patronaty                                  | przedmiot tej rozmowy                  |
 
 **Terminy edycji pierwszej: [USTALONE]**
 
@@ -101,7 +101,7 @@ Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech róż
 - **praktyka** - osoba pracująca z modelami zawodowo,
 - **spoza branży** - sprawdzenie, czy rozmowa jest zrozumiała dla kogoś z zewnątrz.
 
-*Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat instytucjonalny znacząco ułatwiłby ich pozyskanie - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
+_Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat instytucjonalny znacząco ułatwiłby ich pozyskanie - i to jest jedna z głównych korzyści, jakich od niego oczekuję._
 
 Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za ocenę formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
 
@@ -111,7 +111,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Fizyczne [USTALONE]:** mosiężny medalion z pieczęcią konkursu, grawerowany, wręczany osobiście laureatowi; tłoczone dyplomy dla całej dziesiątki finalistów.
 
-**Rzeczywista nagroda:** publikacja w antologii. Przy obecnej skali kwot to ona, a nie przelew, stanowi o atrakcyjności konkursu - i tak jest to komunikowane uczestnikom.
+**Trwały produkt:** antologia. Przy obecnej skali kwot to publikacja, a nie przelew, stanowi o atrakcyjności konkursu, i tak jest to komunikowane uczestnikom. Nagroda przysługuje jednak za rozmowę, a nie za zgodę na jej publikację: ocena i publikacja są w regulaminie rozdzielone, a uczestnik może wycofać rozmowę z publikacji, zachowując nagrodę.
 
 ## 9. Finansowanie **[PROPOZYCJA]**
 
@@ -119,11 +119,11 @@ Konkurs jest niekomercyjny i bezpłatny dla uczestników. Nie przewiduję wpisow
 
 Profil poszukiwanego fundatora i widełki:
 
-| Wariant | Kwota | Co obejmuje |
-|---|---|---|
-| Minimalny | 20-30 tys. zł | Pula edycji 1, obsługa prawna, nagrody fizyczne |
-| Docelowy | 120-150 tys. zł | Nagroda główna 100 tys. zł, wyróżnienia, druk antologii, gala finałowa |
-| Wieloletni | 300 tys. zł+ / 3 lata | Stabilność serii, program edukacyjny przy antologii |
+| Wariant    | Kwota                 | Co obejmuje                                                            |
+| ---------- | --------------------- | ---------------------------------------------------------------------- |
+| Minimalny  | 20-30 tys. zł         | Pula edycji 1, obsługa prawna, nagrody fizyczne                        |
+| Docelowy   | 120-150 tys. zł       | Nagroda główna 100 tys. zł, wyróżnienia, druk antologii, gala finałowa |
+| Wieloletni | 300 tys. zł+ / 3 lata | Stabilność serii, program edukacyjny przy antologii                    |
 
 Poziom docelowy nie jest wzięty z sufitu: **100 tys. zł dla laureata to górna półka polskich nagród** (dla porównania Nagroda Nike), czyli kwota, która lokuje Nagrodę Konstela w pierwszej lidze, a jednocześnie nie przekracza granicy, za którą konkurs zaczyna przyciągać osoby liczące kryteria zamiast prowadzące rozmowy. Wyższa pula działałaby przeciwko jakości zgłoszeń.
 
@@ -134,7 +134,7 @@ Kierunki, w których zamierzam szukać: instytucje finansowe i ubezpieczeniowe (
 - **Edycja 2-3:** kategorie tematyczne (m.in. debiut, dociekanie, weryfikacja), podział pracy jury, zwiększona pula.
 - **Antologia drukowana** po pozyskaniu wydawcy lub sponsora druku.
 - **Ścieżka edukacyjna:** wybór rozmów opracowany jako materiał dla szkół ponadpodstawowych i uczelni, z komentarzem dydaktycznym. Antologia jako źródło darmowe i polskojęzyczne.
-- **Patronat medialny i obecność w mediach publicznych:** naturalnym partnerem dla tej tematyki byłaby TVP Nauka - zarówno jako patron medialny, jak i miejsce relacji z rozstrzygnięcia. *Rozmowy w tej sprawie nie zostały jeszcze podjęte; wymieniam to jako kierunek, który patronat Ministerstwa czyniłby realnym.*
+- **Patronat medialny i obecność w mediach publicznych:** naturalnym partnerem dla tej tematyki byłaby TVP Nauka - zarówno jako patron medialny, jak i miejsce relacji z rozstrzygnięcia. _Rozmowy w tej sprawie nie zostały jeszcze podjęte; wymieniam to jako kierunek, który patronat Ministerstwa czyniłby realnym._
 - **Umiędzynarodowienie** po trzeciej edycji: wersja anglojęzyczna z zachowaniem polskiego rdzenia, wraz z otwartym wyzwaniem kierowanym do zespołów firm technologicznych.
 
 ## 11. O organizatorze
@@ -149,9 +149,9 @@ Forma organizacyjna pierwszej edycji zostanie dobrana do jej skali: prowadzona d
 
 ## 12. O co proszę Ministerstwo
 
-1. **List intencyjny** - krótkie pismo stwierdzające, że Ministerstwo uznaje inicjatywę za wpisującą się w obszar kompetencji cyfrowych i jest wstępnie zainteresowane objęciem jej patronatem po dopełnieniu formalności. To jest prośba zasadnicza. Dokument niczego nie przyrzeka i nie wymaga decyzji o patronacie, a jest warunkiem wejścia do rozmowy z patronem medialnym i z fundatorem: bez niego rozmowa zaczyna się od budowania wiarygodności, z nim od meritum.
+1. **Krótkie pismo przewodnie** - stwierdzające, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujące ścieżkę ubiegania się o patronat. Pismo takie nie stanowi patronatu ani zobowiązania finansowego i nie przesądza przyszłej decyzji. To jest prośba zasadnicza. Dokument niczego nie przyrzeka i nie wymaga decyzji o patronacie, a jest warunkiem wejścia do rozmowy z patronem medialnym i z fundatorem: bez niego rozmowa zaczyna się od budowania wiarygodności, z nim od meritum.
 2. **Rozmowę** o tym, czy inicjatywa mieści się w obszarze obejmowanym patronatem, i wskazanie właściwej drogi formalnej.
-3. **Patronat honorowy** - gdyby procedura i ocena merytoryczna były pomyślne.
+3. **Patronat honorowy** - na podstawie odrębnego wniosku, który złożę do Biura Ministra w styczniu 2028, nie później niż 8 tygodni przed galą, wraz z programem i listą prelegentów.
 4. **Wskazanie kontaktu** do potencjalnych partnerów finansujących, jeśli Ministerstwo uzna inicjatywę za wartą wsparcia.
 
 Czego **nie** proszę: finansowania ze środków Ministerstwa.
@@ -163,9 +163,7 @@ Patronat instytucji publicznej daje tej inicjatywie trzy rzeczy, których pojedy
 **Kontakt**
 
 Krzysztof Olbiński
-SOURCE Krzysztof Olbiński
 ul. 11 Listopada 12/1, 98-200 Sieradz
-NIP PL8272087373
 contact@konstela.org
 +48 503 520 004
 
@@ -175,4 +173,4 @@ Strona Nagrody: https://konstela.org
 Regulamin: https://konstela.org/regulamin
 Polityka prywatności: https://konstela.org/polityka-prywatnosci
 
-*Koncepcja operacyjna, w tym plan antologii i tryb pracy Kapituły i Akademii, dostępna na życzenie.*
+_Koncepcja operacyjna, w tym plan antologii i tryb pracy Kapituły i Akademii, dostępna na życzenie._
