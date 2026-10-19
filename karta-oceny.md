@@ -94,4 +94,4 @@ Rozbieżność między opisem odkrycia a treścią rozmowy jest sama w sobie inf
 
 ---
 
-_Wersja robocza 1, 19 października 2026. Pasma do kalibracji na próbie oceny przed naborem._
+_Wersja 1.0 z dnia 19 października 2026 r._

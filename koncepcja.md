@@ -70,7 +70,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 
 - **Link do udostępnionej rozmowy, nie transkrypt.** Tekst można przepisać; link pokazuje rozmowę taką, jaka była. Uwaga o granicach tej ochrony: link gwarantuje autentyczność, ale nie kompletność - w ChatGPT i Claude można edytować własne wcześniejsze pytanie, co tworzy nową gałąź wątku. Kompletności pilnuje oświadczenie i rozmowa weryfikacyjna.
 - **Konsekwencja wymogu linku:** odpadają dostawcy bez funkcji udostępniania; Bielik takiej funkcji nie ma (potwierdzone 19.10.2026). Świadomie przyjęta cena za prostotę reguły; udostępnianie staje się standardem, więc problem prawdopodobnie zniknie do drugiej edycji. **Zasada komunikacyjna:** w materiałach nie wymieniamy dostawców z nazwy, tylko warunek techniczny ("model udostępniający rozmowę pod linkiem"). Lista nazw starzeje się, sugeruje rekomendację i stawia nas w kłopotliwej pozycji wobec polskiego modelu, którego wymóg wyklucza.
-- **Minimum 3000 słów** łącznie, razem z wypowiedziami modelu. Rozmowa ma być dziełem, nie fraszką.
+- **Minimum 1200 słów wypowiedzi Uczestnika**, bez wypowiedzi modelu, oraz **maksimum 25 000 słów całości**. Zmienione 19.10.2026: poprzedni próg 3000 słów łącznie dało się przekroczyć jednym rozwlekłym wykładem modelu, a brak limitu górnego czynił obietnicę czasu dla oceniających niewykonalną. Rozmowa ma być dziełem, nie fraszką, ale i nie epopeją.
 - **Jeden czat.** Jeden ciągły wątek, nie historia pocięta na kilkanaście okien.
 - **Po polsku.** Nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne.
 - **Bez osób prywatnych** - zasada o temacie, nie o anonimizacji: rozmowa o kimś nieznanym publicznie odpada nawet pod inicjałem. Konsekwencja: odpadają rozmowy o relacjach, rodzinie i konfliktach w pracy, czyli spora część realnych zastosowań. Zostają tematy, które da się opublikować, co jest spójne z antologią jako produktem.
@@ -161,7 +161,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 **Ty: tylko sito formalne.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga konkurs, a jury tylko ustawia kolejność jego typów.
 
-**Jury: wszystko, co przeszło.** Do 30 zgłoszeń - każdy czyta wszystkie. Powyżej - podział losowy tak, by każde zgłoszenie oceniło niezależnie dwóch jurorów; dziesiątka z najwyższą sumą punktów idzie do całego składu.
+**Kto co czyta.** Progi w § 8 regulaminu: do 20 zgłoszeń Kapituła czyta wszystkie i Akademii się nie powołuje; 21-60 Akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; powyżej 60 maksymalnie 10 zgłoszeń na czytającego i lista rezerwowa. Do Kapituły idzie dziesiątka o najwyższej **średniej** ocen, powiększona o zgłoszenia skierowane dziką kartą. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
 
 **Panel za hasłem** na stronie Nagrody: link, opis odkrycia, metryczka, neutralne streszczenie tematu.
 
@@ -172,7 +172,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 **Kolejność prezentacji losowa**, odrębna dla każdego jurora - usuwa efekt pierwszeństwa.
 
-**Bez danych osobowych w panelu.** Jury nie widzi imienia, nazwiska, adresu ani miejscowości; zgłoszenia mają numery. Ale w regulaminie **nie piszemy, że ocena jest anonimowa**, bo to obietnica nie do dotrzymania: treść rozmowy często zdradza zawód, miejsce pracy albo prowadzone projekty, a część interfejsów pokazuje w udostępnionej rozmowie imię lub awatar. Tożsamość finalistów ujawniana jest jury dopiero po ustaleniu kolejności.
+**Bez danych osobowych w panelu.** Oceniający nie widzą imienia, nazwiska, adresu ani miejscowości; zgłoszenia mają numery. Ale w regulaminie **nie piszemy, że ocena jest anonimowa**, bo to obietnica nie do dotrzymania: treść rozmowy często zdradza zawód, miejsce pracy albo prowadzone projekty, a część interfejsów pokazuje w udostępnionej rozmowie imię lub awatar. Tożsamość finalistów ujawniana jest jury dopiero po ustaleniu kolejności.
 
 **Konflikt interesów.** Juror, który rozpozna uczestnika i pozostaje z nim w relacji osobistej, zawodowej lub finansowej, odstępuje od oceny tego jednego zgłoszenia i zgłasza to organizatorowi, bez ujawniania reszcie składu, kogo rozpoznał; zgłoszenie przejmuje inny juror albo powołany do tego jednego przypadku recenzent zewnętrzny. Samo rozpoznanie, bez relacji, nie wymaga wyłączenia - przy sztywnej zasadzie zostalibyśmy bez jury, bo w polskim środowisku AI wszyscy się znają. Wniosek przy kompletowaniu składu: im węższe środowisko, tym częściej ten mechanizm się uruchamia, więc osoba spoza branży jest pod tym względem najbezpieczniejsza.
 
@@ -215,7 +215,7 @@ Dlaczego nie publikujemy automatycznie wszystkiego, co przeszło ocenę formaln�
 
 Dlaczego mimo to archiwum rozmów istnieje: to materiał badawczy i dokumentacyjny, którego w Polsce nikt nie zbiera, oraz dowód, że jury nie wybierało po znajomości. Archiwum rozmów jest bez punktacji i bez komentarzy, żeby nie powstał z niego ranking tylnymi drzwiami.
 
-## Jury
+## Kapituła
 
 Skład mieszany, 3-5 osób: literatura (prowadzenie narracji), nauka i metodologia (weryfikacja, rzetelność), praktyk pracujący z modelami, osoba spoza branży (test zrozumiałości z zewnątrz). Jedno miejsce warto zostawić wolne do drugiej edycji - będzie czym kusić.
 

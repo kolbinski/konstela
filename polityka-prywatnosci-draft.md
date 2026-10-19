@@ -45,8 +45,8 @@ Regulamin zakazuje zgłaszania rozmów zawierających dane osób, które nie są
 
 ## 6. Komu dane są przekazywane
 
-- **Członkowie Jury** - w zakresie treści zgłoszenia niezbędnej do oceny. Jury pracuje na zgłoszeniach pozbawionych imienia i nazwiska Uczestnika; Administrator zastrzega jednak w Regulaminie, że ocena nie jest w pełni anonimowa, ponieważ tożsamość może wynikać z samej treści rozmowy.
-- **Dostawcy usług technicznych** - hosting strony (GitHub, Inc.), poczta elektroniczna, a w przyszłości panel jurorski. Podmioty te przetwarzają dane na podstawie umów powierzenia. `[DO UZUPEŁNIENIA: lista dostawców przed otwarciem zgłoszeń]`
+- **Członkowie Kapituły i Akademii** - w zakresie treści zgłoszenia niezbędnej do oceny. Oceniający pracują na zgłoszeniach pozbawionych imienia i nazwiska Uczestnika; Administrator zastrzega jednak w Regulaminie, że ocena nie jest w pełni anonimowa, ponieważ tożsamość może wynikać z samej treści rozmowy.
+- **Dostawcy usług technicznych** - hosting strony (GitHub, Inc.), poczta elektroniczna, a w przyszłości panel oceny. Podmioty te przetwarzają dane na podstawie umów powierzenia. `[DO UZUPEŁNIENIA: lista dostawców przed otwarciem zgłoszeń]`
 - **Organy publiczne** - wyłącznie wtedy, gdy wymagają tego przepisy, w szczególności w zakresie rozliczenia podatku od nagród.
 
 Dane nie są sprzedawane ani udostępniane w celach marketingowych.
