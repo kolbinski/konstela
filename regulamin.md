@@ -49,8 +49,10 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
    d) oświadczenia z § 11 ust. 1;
    e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 6). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
-4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. Dezaktywacja linku przed tym terminem oznacza wycofanie zgłoszenia.
-5. Organizator sporządza na potrzeby oceny kopię zgłoszonej rozmowy. Kopia służy wyłącznie ocenie i jest usuwana zgodnie z § 12.
+4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. **Dezaktywacja linku przez Uczestnika** przed tym terminem oznacza wycofanie zgłoszenia.
+5. **Kopia archiwalna.** Niezwłocznie po wpłynięciu zgłoszenia Organizator sporządza kopię rozmowy wraz ze znacznikiem czasu. Od tej chwili **ocenie podlega kopia**, a nie treść dostępna pod linkiem. Kopia przechowywana jest poza stroną Nagrody, w miejscu niedostępnym publicznie, służy wyłącznie ocenie i jest usuwana zgodnie z § 12.
+6. **Niedostępność linku nie z winy Uczestnika** - w szczególności wynikająca z awarii, zmiany zasad albo zakończenia usługi po stronie dostawcy modelu - nie powoduje odrzucenia ani wycofania zgłoszenia; ocena odbywa się na kopii archiwalnej. Organizator może zwrócić się do Uczestnika o potwierdzenie przyczyny niedostępności.
+7. Zmiana treści rozmowy pod linkiem po dniu zgłoszenia nie wpływa na ocenę; rozbieżność między kopią a treścią pod linkiem może natomiast stanowić podstawę odrzucenia zgłoszenia.
 
 ## § 6. Wymogi formalne rozmowy
 
@@ -96,7 +98,7 @@ Dodatkowo:
 1. **Kapituła** liczy od 3 do 5 osób powoływanych przez Organizatora; skład ogłaszany jest na stronie Nagrody przed upływem terminu zgłoszeń. Kapituła wybiera dziesiątkę antologii oraz laureata.
 2. **Akademia** to grupa czytelników powoływanych przez Organizatora na jedną edycję, której zadaniem jest pierwsza runda oceny. Skład Akademii ogłaszany jest na stronie Nagrody. Członkostwo wygasa, jeżeli członek nie oceni przydzielonych mu zgłoszeń w terminie.
 3. **Podział ról.** Oceny formalnej (§ 6) dokonuje Organizator lub wskazana przez niego osoba. Oceny merytorycznej (§ 7) dokonuje wyłącznie Kapituły. Organizator nie dokonuje wstępnej selekcji merytorycznej i nie wskazuje Kapituły zgłoszeń wyróżnionych.
-4. **Panel oceny.** Zgłoszenia, które przeszły ocenę formalną, udostępniane są Kapitule i Akademii w zabezpieczonym hasłem panelu na stronie Nagrody. Przy każdym zgłoszeniu panel pokazuje: link do rozmowy, opis odkrycia sporządzony przez Uczestnika, nazwę użytego modelu, datę rozmowy oraz jej neutralne streszczenie.
+4. **Panel oceny.** Zgłoszenia, które przeszły ocenę formalną, udostępniane są Kapitule i Akademii w zabezpieczonym hasłem panelu na stronie Nagrody. Przy każdym zgłoszeniu panel pokazuje: kopię rozmowy sporządzoną przez Organizatora (§ 5 ust. 5), link do rozmowy, opis odkrycia sporządzony przez Uczestnika, nazwę użytego modelu i datę rozmowy. **Organizator nie sporządza streszczeń zgłoszeń ani nie zleca ich sporządzenia narzędziom automatycznym**; jedynym streszczeniem, które widzi oceniający, jest opis odkrycia napisany przez samego Uczestnika.
 
 5. **Ograniczenie danych osobowych w ocenie.** Panel **nie ujawnia Kapitule ani Akademii imienia, nazwiska, adresu e-mail ani miejscowości Uczestnika**; zgłoszenia oznaczone są numerami. Organizator zastrzega jednak wyraźnie, że **ocena nie jest w pełni anonimowa**: przedmiotem oceny jest rzeczywista rozmowa, której treść może zawierać informacje pozwalające rozpoznać Uczestnika (zawód, miejsce pracy, prowadzone projekty), a niektóre interfejsy modeli wyświetlają w udostępnionej rozmowie imię lub awatar użytkownika. Zgłaszając rozmowę, Uczestnik przyjmuje to do wiadomości.
 
@@ -108,7 +110,7 @@ Dodatkowo:
    Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; członek ocenia pozostałe zgłoszenia normalnie. Samo rozpoznanie Uczestnika, bez relacji ani innej przyczyny stronniczości, nie wymaga wyłączenia, ale członek Kapituły zgłasza je Organizatorowi do protokołu.
 
 7. **Ujawnienie tożsamości.** Dane Uczestników ujawniane są Kapitule dopiero po ustaleniu ostatecznej kolejności, przy okazji rozmów weryfikacyjnych i przygotowania antologii.
-8. **Udział narzędzi automatycznych.** Narzędzia oparte na modelach językowych wykorzystywane są wyłącznie do czynności pomocniczych: weryfikacji warunków formalnych (liczba słów, język, ciągłość wątku) oraz sporządzenia streszczeń, o których mowa w ust. 3. **Narzędzia te nie oceniają zgłoszeń, nie przyznają punktów i nie ustalają kolejności.** Streszczenia mają charakter opisowy i nie zawierają ocen.
+8. **Udział narzędzi automatycznych.** Narzędzia oparte na modelach językowych wykorzystywane są wyłącznie do weryfikacji warunków formalnych: liczby słów, języka i ciągłości wątku. **Narzędzia te nie oceniają zgłoszeń, nie przyznają punktów, nie ustalają kolejności i nie sporządzają streszczeń.** Zgłoszenia nie są przekazywane dostawcom modeli w celu ich opracowania.
 9. **Kolejność prezentacji.** Zgłoszenia prezentowane są każdemu członkowi Kapituły w kolejności losowej, odrębnej dla każdego z nich, aby wykluczyć wpływ kolejności na ocenę.
 10. **Tryb oceny zależny od liczby zgłoszeń.** Organizator ogłasza tryb w terminie 7 dni od zamknięcia naboru:
    a) **do 20 zgłoszeń** - Akademii nie powołuje się; każdy członek Kapituły ocenia wszystkie zgłoszenia;

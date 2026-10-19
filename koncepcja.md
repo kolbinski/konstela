@@ -369,6 +369,17 @@ Sponsor może pokryć jednocześnie pulę nagród i koszty organizacyjne; umowa 
 
 **Do zrobienia:** rozmowa z księgowym (Piotr Jędrzejewski) z regulaminem w ręku, **przed** wysłaniem czegokolwiek do sponsora. Wybór wariantu wpływa na treść umowy sponsoringu i na zapisy regulaminu o fundatorze.
 
+## Do zrobienia przed naborem (z recenzji 19.10.2026)
+
+- [ ] **Procedura przy dyskwalifikacji za inscenizację.** Dziś regulamin podaje samą konsekwencję. Do dopisania: konkretne podstawy odrzucenia, prawo Uczestnika do wyjaśnienia wątpliwości, udział drugiej osoby w decyzji, rozsądny termin kontaktu i alternatywna forma weryfikacji. Powód: organizator ma być wyłącznie administratorem formalnym, a jednocześnie mógłby usunąć finalistę - to sprzeczność, którą trzeba rozwiązać procedurą, nie zaufaniem.
+- [ ] **Opisy pasm punktowych** dla czterech kryteriów: 0, 1-2, 3-4, 5-6, 7-8, 9-10, czyli 24 krótkie opisy. Bez nich kalibracja nie ma do czego się odnosić.
+- [ ] **Warstwa dydaktyczna antologii**: nota wprowadzająca przed rozmową, noty na marginesie w konkretnych momentach, nota końcowa. Pełny dialog bez montażu zostaje.
+- [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
+- [ ] **Styk zgody z licencją** w polityce prywatności: po publikacji wycofanie zgody skutkuje anonimizacją, nie usunięciem rozmowy.
+- [ ] Próba kalibracyjna oceny na kilku rozmowach spoza edycji.
+- [ ] Konsultacja prawna (pytania w `konstela-prawa-do-wypowiedzi-modelu.md`) i rozmowa z księgowym.
+- [ ] Aktualizacja wpisu w CEIDG (adres) przed publikacją wersji ostatecznej regulaminu.
+
 ## Otwarte pytania
 
 - **Ubruttowienie puli** - decyzja przed ogłoszeniem (księgowy).
