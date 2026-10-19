@@ -348,7 +348,13 @@ Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nag
 
 **Dlaczego rozdzielenie ról ułatwia rekrutację.** Jurora prosi się o nazwisko i odpowiedzialność, co wymaga prestiżu, którego pierwsza edycja nie ma. Czytelnika prosi się o przeczytanie do dwudziestu rozmów w ciągu roku, czyli o półtorej godziny miesięcznie, i taką prośbę można wypowiedzieć wobec ludzi, którzy nie znają organizatora.
 
-**Skąd brać Akademię w edycji pierwszej.** Doktoranci i studenci ostatnich lat filozofii, kognitywistyki, polonistyki i kierunków zajmujących się metodologią nauki; nauczyciele polskiego i filozofii; bibliotekarze z bibliotek wojewódzkich; redaktorzy pism piszących o AI. Zapłatą jest nazwisko w antologii w spisie czytelników edycji, zaświadczenie, zaproszenie na galę i wcześniejszy dostęp do archiwum rozmów. Od drugiej edycji dochodzi najmocniejsza waluta: finaliści poprzedniej.
+**Skąd brać Akademię w edycji pierwszej.** Doktoranci i studenci ostatnich lat filozofii, kognitywistyki, polonistyki i kierunków zajmujących się metodologią nauki; nauczyciele polskiego i filozofii; bibliotekarze z bibliotek wojewódzkich; redaktorzy pism piszących o AI. Zapłatą jest nazwisko w antologii w spisie czytelników edycji, zaświadczenie, zaproszenie na galę i wcześniejszy dostęp do archiwum rozmów.
+
+**Pakiet uznania dla Akademii (ustalone 19.10.2026).** Do powyższego dochodzą dwie rzeczy, tanie i mocne:
+- **Egzemplarz drukowanej antologii z podpisami Kapituły.** Ponieważ druk wchodzi jesienią, a gala jest w marcu, podpisy zbiera się na gali na osobnych kartach (ekslibrisach) wklejanych do egzemplarzy wysyłanych jesienią. Daje to drugi kontakt z Akademią pół roku po wydarzeniu, czyli dokładnie w momencie rekrutacji na kolejną edycję. Nakład na ten cel to Akademia, Kapituła i dziesiątka finalistów, czyli około 30 egzemplarzy, koszt rzędu tysiąca złotych - kwota na tyle mała, że można ją obiecać przy zapraszaniu, niezależnie od losów wydania handlowego.
+- **Zdjęcie grupowe Kapituły, laureatów i obecnej Akademii.** Warunki: pisemna zgoda na wizerunek zbierana przed galą razem z potwierdzeniem obecności, oraz uczciwy podpis, bo część Akademii to wolontariusze z całej Polski i nie wszyscy dojadą - zdjęcie obejmuje obecnych, nie "całą Akademię".
+
+Obie rzeczy wymieniamy już w zaproszeniu do Akademii, bo tam pełnią swoją funkcję, a nie wtedy, gdy praca jest już wykonana. Od drugiej edycji dochodzi najmocniejsza waluta: finaliści poprzedniej.
 
 **Sekcja ludzi na stronie.** Kapituła u góry, Akademia pod spodem, z profilami. Trzy warunki: publikacja wyłącznie za pisemną zgodą, opis pisany przez samą osobę, a sekcja powstaje dopiero wtedy, gdy są w niej prawdziwe nazwiska. Nazwisko na stronie tworzy zobowiązanie widoczne publicznie, więc utrata członkostwa przy nieprzeczytaniu przydziału musi być powiedziana przy zapraszaniu.
 
