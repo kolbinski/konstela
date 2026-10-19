@@ -371,11 +371,11 @@ Sponsor może pokryć jednocześnie pulę nagród i koszty organizacyjne; umowa 
 
 ## Do zrobienia przed naborem (z recenzji 19.10.2026)
 
-- [ ] **Procedura przy dyskwalifikacji za inscenizację.** Dziś regulamin podaje samą konsekwencję. Do dopisania: konkretne podstawy odrzucenia, prawo Uczestnika do wyjaśnienia wątpliwości, udział drugiej osoby w decyzji, rozsądny termin kontaktu i alternatywna forma weryfikacji. Powód: organizator ma być wyłącznie administratorem formalnym, a jednocześnie mógłby usunąć finalistę - to sprzeczność, którą trzeba rozwiązać procedurą, nie zaufaniem.
-- [ ] **Opisy pasm punktowych** dla czterech kryteriów: 0, 1-2, 3-4, 5-6, 7-8, 9-10, czyli 24 krótkie opisy. Bez nich kalibracja nie ma do czego się odnosić.
+- [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 17 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
+- [x] **Opisy pasm punktowych** - gotowe w `konstela-karta-oceny.md` (19.10.2026), załącznik do regulaminu, publikowany.
 - [ ] **Warstwa dydaktyczna antologii**: nota wprowadzająca przed rozmową, noty na marginesie w konkretnych momentach, nota końcowa. Pełny dialog bez montażu zostaje.
 - [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
-- [ ] **Styk zgody z licencją** w polityce prywatności: po publikacji wycofanie zgody skutkuje anonimizacją, nie usunięciem rozmowy.
+- [x] **Styk zgody z licencją** - rozstrzygnięty w § 11 ust. 5-8 i w polityce prywatności (19.10.2026): do ogłoszenia wyników usunięcie zgłoszenia, po publikacji anonimizacja.
 - [ ] Próba kalibracyjna oceny na kilku rozmowach spoza edycji.
 - [ ] Konsultacja prawna (pytania w `konstela-prawa-do-wypowiedzi-modelu.md`) i rozmowa z księgowym.
 - [ ] Aktualizacja wpisu w CEIDG (adres) przed publikacją wersji ostatecznej regulaminu.
