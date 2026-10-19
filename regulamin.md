@@ -1,5 +1,7 @@
 # Regulamin Nagrody Konstela - edycja pierwsza (2027)
 
+---
+
 ## § 1. Organizator
 
 1. Organizatorem Nagrody Konstela ("Nagroda") jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373 ("Organizator").
@@ -39,7 +41,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 ## § 5. Forma zgłoszenia
 
-1. Zgłoszenie wysyła się pocztą elektroniczną na adres contact@konstela.org.
+1. Zgłoszenie wysyła się pocztą elektroniczną na adres zgloszenia@konstela.org.
 2. Zgłoszenie zawiera łącznie:
    a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu);
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
@@ -156,10 +158,9 @@ Dodatkowo:
 1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są wyłącznie w celu przeprowadzenia Nagrody, wypłaty nagród i rozliczenia podatkowego, na podstawie zgody oraz obowiązku prawnego.
 3. Zakres danych: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, a w przypadku laureatów dodatkowo dane niezbędne do wypłaty i rozliczenia nagrody.
-4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do korpusu edycji (§ 11 ust. 7) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
+4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do korpusu edycji (§ 11 ust. 6) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
-7. `[DO UZUPEŁNIENIA: pełna klauzula informacyjna RODO - do przygotowania z prawnikiem]`
 
 ## § 13. Postanowienia końcowe
 
@@ -170,4 +171,4 @@ Dodatkowo:
 
 ---
 
-_Wersja 1, 19 października 2026._
+_Wersja wstępna 1.0 z dnia 19 października 2026 r., przed otwarciem zgłoszeń regulamin zostanie uzupełniony i opublikowany w wersji ostatecznej_
