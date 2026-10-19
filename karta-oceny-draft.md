@@ -6,7 +6,11 @@ Każde z czterech kryteriów punktowane jest od 0 do 10. Pasma poniżej są punk
 
 **Zasada nadrzędna:** oceniamy wkład Uczestnika w prowadzenie rozmowy. Jakość modelu nie podlega ocenie, a jakość wytworów powstałych w rozmowie nie daje punktów w żadnym kryterium.
 
-**Załączniki.** Uczestnik mógł wgrać do rozmowy pliki: dokument, dane, obraz, kod. Oceniać można wyłącznie to, co widać w kopii archiwalnej. Jeżeli treść załącznika nie jest w kopii widoczna, nie oceniamy jej ani nie przyznajemy punktów za ustalenia, do których model na jej podstawie doszedł - tak samo jak nie przyznajemy punktów za trafność modelu. Nie jest to kara: uczestnik, który chciał, aby materiał się liczył, przytaczał jego fragmenty w rozmowie, a to już jest widoczne i podlega ocenie. Regulamin § 5 ust. 8.
+**Załączniki.** Uczestnik mógł wgrać do rozmowy pliki: dokument, dane, obraz, kod. Oceniać można wyłącznie to, co widać w kopii archiwalnej. Jeżeli treść załącznika nie jest w kopii widoczna, **nie potwierdzamy plonu na niej opartego** - tak samo jak nie przyznajemy punktów za trafność modelu.
+
+Nie znaczy to, że takie zgłoszenie dostaje zero. Wkład Uczestnika bywa doskonale widoczny bez materiału: jakość pytań, rozróżnienie faktu od hipotezy, moment, w którym zauważył niespójność w rozumowaniu modelu. To wszystko oceniamy normalnie, w Rozpiętości, Drążeniu i Weryfikacji. Nieoceniony pozostaje sam materiał i to, co z niego wynika, a więc przede wszystkim Plon. Regulamin § 5 ust. 8.
+
+**Gdy plon stoi na niewidocznych danych** Kapituła może zażądać materiału źródłowego wyłącznie do weryfikacji - nie daje on punktów i nie jest publikowany. Przy odmowie plon pozostaje niepotwierdzony. Powód: samo wklejenie wybranych fragmentów materiału może pozornie potwierdzać wniosek, a wymóg widoczności tego nie wychwyci (§ 5 ust. 11).
 
 ---
 
@@ -80,7 +84,13 @@ Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło,
 
 ## Warunek nadrzędny: rzetelność
 
-Niezależnie od punktacji zgłoszenie **nie może zostać nagrodzone ani włączone do antologii**, jeżeli deklarowany plon opiera się na twierdzeniu nieprawdziwym, nieistniejącym źródle albo błędzie rozumowania, który w rozmowie nie został rozpoznany ani naprawiony. Ustalenie wymaga zgodnej opinii co najmniej dwóch członków Kapituły.
+Niezależnie od punktacji zgłoszenie **nie może zostać nagrodzone ani włączone do antologii**, jeżeli deklarowany plon opiera się na twierdzeniu nieprawdziwym, nieistniejącym źródle albo błędzie rozumowania, który w rozmowie nie został rozpoznany ani naprawiony.
+
+**Kiedy plon "opiera się" na błędzie.** Tylko wtedy, gdy błąd jest istotny dla głównego wniosku: jego usunięcie obala ten wniosek albo zasadniczo zmienia jego znaczenie. Pomyłka w wątku pobocznym, nieścisłość w przykładzie i błąd modelu, który nie wszedł do plonu, nie wystarczają.
+
+**Czym nierzetelność nie jest.** Sporem interpretacyjnym, w którym stanowisko Uczestnika jest jednym z możliwych. Ustaleniem oznaczonym w rozmowie jako niepewne. Hipotezą przedstawioną jako hipoteza. Wnioskiem, którego nie potrafisz potwierdzić - **brak pewności oceniającego nie jest wykazaniem fałszu**, a w kwestii specjalistycznej można zasięgnąć opinii eksperta.
+
+**Tryb.** Zgodna opinia dwóch członków Kapituły plus pisemne wskazanie twierdzenia, podstaw uznania go za błędne i związku z plonem. Uczestnik dostaje to wskazanie i ma 7 dni na wyjaśnienia; może wykazać, że odczytaliśmy rozmowę błędnie, ale nie może naprawić błędu po terminie. Ciężar wykazania jest po stronie Kapituły, a w razie wątpliwości warunku nie stosujemy. Regulamin § 7 ust. 5-8.
 
 Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i dziesiątkami w pozostałych dostaje 30 na 40 punktów i mogłaby wygrać, choć jej odkrycie jest nieprawdziwe. Nagroda za rozmowy z AI nie może premiować efektownej nieprawdy.
 

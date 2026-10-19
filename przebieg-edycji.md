@@ -31,14 +31,16 @@ Skutki: późniejsze wygaśnięcie linku nie z winy Uczestnika nie szkodzi zgło
 
 Czas: kilka minut na zgłoszenie, większość do zautomatyzowania.
 
-## 5. Ogłoszenie trybu oceny - 7 dni po zamknięciu naboru
+## 5. Tryb oceny - wynika z progów, nie z decyzji
+
+Tryb nie jest wybierany po zamknięciu naboru, bo czytelnicy pracują od lutego. Progi ogłaszane są przed rozpoczęciem naboru, a tryb zmienia się automatycznie wraz z przekroczeniem progu, na dalszą część rundy pierwszej. Oceny już wystawione pozostają w mocy.
 
 | Liczba zgłoszeń po ocenie formalnej | Runda pierwsza | Runda druga |
 |---|---|---|
 | do 20 | **nie ma**; Akademii się nie powołuje | Kapituła czyta wszystkie |
 | 21-60 | Akademia, każde zgłoszenie czyta co najmniej 2 czytelników | Kapituła czyta zakwalifikowane, nie mniej niż 20 |
 | 61-200 | jak wyżej, maksimum 20 zgłoszeń na czytelnika, w razie potrzeby lista rezerwowa | jak wyżej |
-| powyżej 200 | przesiew po jednym czytelniku; drugi odczyt tylko powyżej progu ogłoszonego przed przesiewem | jak wyżej |
+| powyżej 200 | przesiew po jednym czytelniku, z obowiązkowym drugim odczytem poniżej progu i losowym audytem odrzuconych (§ 8 ust. 10a) | jak wyżej |
 
 **Runda pierwsza to przesiew wykonywany przez Akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi Kapituły.
 
@@ -46,7 +48,9 @@ Czas: kilka minut na zgłoszenie, większość do zautomatyzowania.
 
 Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń, każde czytane przez 2 osoby (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
 
-**Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do Kapituły niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić.
+**Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do Kapituły niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić - ale tylko takie, które ktoś przeczytał i docenił. Przed przeoczeniem w trybie jednoosobowym (powyżej 200 zgłoszeń) chronią zabezpieczenia z § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie poniżej progu, losowy audyt co najmniej jednej dziesiątej odrzuconych i powrót do dwóch czytelników, jeśli audyt pokaże systematyczny błąd.
+
+**Kotwice przeciw dryfowi:** te same trzy rozmowy kalibracyjne oceniane ponownie w połowie naboru i po jego zamknięciu. Służą rozpoznaniu, czy czytelnik zmienił własny standard, a nie wyznaczeniu prawidłowej punktacji. Istotne przesunięcie uruchamia przegląd jego wcześniejszych ocen przy granicy kwalifikacji. Punktacja zamrażana jest 14 dni po zamknięciu naboru, każda zmiana oceny zachowuje datę i uzasadnienie.
 
 Nakład: pełny przydział 20 rozmów to 15-20 godzin rozłożonych na dwanaście miesięcy, czyli około półtorej godziny miesięcznie. Ocena idzie na bieżąco, w miarę spływania zgłoszeń, a nie w jednej serii po zamknięciu naboru.
 
@@ -66,7 +70,7 @@ Do 20 minut, telefonicznie albo wideo, wyłącznie o treści zgłoszonej rozmowy
 
 ## 10. Postępowania szczególne, jeśli wystąpią
 
-**Inscenizacja (§ 8 ust. 17):** wszczynana wyłącznie z sygnału od osoby, która zgłoszenie przeczytała, albo z rozmowy weryfikacyjnej. Pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, w razie wątpliwości zgłoszenie zostaje.
+**Inscenizacja (§ 8 ust. 18):** wszczynana wyłącznie z sygnału od osoby, która zgłoszenie przeczytała, albo z rozmowy weryfikacyjnej. Pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, w razie wątpliwości zgłoszenie zostaje.
 
 **Odmowa publikacji (§ 7a):** nie wpływa na punktację ani nagrodę. Uczestnik może wskazać fragment do usunięcia albo wycofać rozmowę z publikacji, zachowując nagrodę.
 
@@ -78,11 +82,15 @@ Werdykt, wypłata nagród, rozliczenie podatku, wręczenie medalu i dyplomów.
 
 **Antologia:** 10 rozmów, pełny dialog bez montażu, z notą wprowadzającą, notami na marginesie w konkretnych momentach i notą końcową. Te 10 Organizator czyta uważnie, bo i tak pisze do nich komentarz.
 
-**Archiwum rozmów:** tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę, i na które uczestnik wyraził zgodę. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
+**Archiwum rozmów:** tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę, i na które uczestnik wyraził zgodę. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
 
 **Rytm publikacji:** całość udostępniana od dnia ogłoszenia wyników, a następnie poszczególne rozmowy porcjami przez rok następny, w rytmie dwutygodniowym, z komentarzem - żeby strona żyła w trakcie kolejnego naboru. Kolejność nie wynika z punktacji.
 
-## 13. Po edycji
+## 13. Jawność przebiegu
+
+Wraz z wynikami publikowane są liczby: zgłoszenia otrzymane i te po ocenie formalnej z podziałem na podstawy odrzucenia, zastosowany tryb z progiem i pasmem, wykonane drugie odczyty wraz z audytem losowym, wykorzystane dzikie karty, przypadki zastosowania warunku rzetelności i odmowy publikacji. Uczestnik może w 30 dni zażądać karty oceny swojego zgłoszenia z uzasadnieniami, bez tożsamości oceniających.
+
+## 14. Po edycji
 
 Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w terminie 60 dni od ogłoszenia wyników, poza tymi objętymi zgodą na archiwum. Dane laureatów przechowywane przez okres wymagany przepisami podatkowymi.
 
