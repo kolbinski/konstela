@@ -58,13 +58,14 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 Zgłoszenie podlega odrzuceniu na etapie oceny formalnej, jeżeli rozmowa:
 
-1. liczy **mniej niż 3000 słów** łącznie (wypowiedzi Uczestnika i modelu razem);
-2. nie stanowi **jednego ciągłego wątku** (czatu); rozmowy prowadzone w kilku oknach nie są łączone;
-3. nie jest prowadzona **w języku polskim**; za wstawki obcojęzyczne nie uważa się nazw własnych, terminów technicznych, cytowanych komunikatów błędów, fragmentów kodu ani tytułów;
-4. **dotyczy osoby prywatnej**, to jest osoby fizycznej nieznanej publicznie, w tym także wtedy, gdy dane tej osoby zostały zmienione, skrócone do inicjałów lub pominięte; dopuszczalne są rozmowy dotyczące osób publicznych, przedsiębiorstw i instytucji;
-5. nie została przeprowadzona osobiście przez Uczestnika;
-6. została przeprowadzona poza **oknem rozmów** wskazanym w § 4;
-7. nie spełnia wymogów z § 5 ust. 2.
+1. zawiera **mniej niż 1200 słów wypowiedzi Uczestnika**; liczone są wyłącznie wypowiedzi Uczestnika, bez wypowiedzi modelu, ponieważ to one są przedmiotem oceny; `[DO SPRAWDZENIA: próg do kalibracji na próbie oceny przed naborem]`
+2. liczy **więcej niż 25 000 słów** łącznie (wypowiedzi Uczestnika i modelu razem); górny limit wynika z realnego czasu pracy Jury i jest podany wprost, aby Uczestnik mógł się do niego zastosować;
+3. nie stanowi **jednego ciągłego wątku** (czatu); rozmowy prowadzone w kilku oknach nie są łączone;
+4. nie jest prowadzona **w języku polskim**; za wstawki obcojęzyczne nie uważa się nazw własnych, terminów technicznych, cytowanych komunikatów błędów, fragmentów kodu ani tytułów;
+5. **dotyczy osoby trzeciej nieznanej publicznie**, w tym także wtedy, gdy dane tej osoby zostały zmienione, skrócone do inicjałów lub pominięte; ograniczenie nie dotyczy samego Uczestnika, który może zgłosić rozmowę o własnej sytuacji, decyzji lub pracy; dopuszczalne są rozmowy dotyczące osób publicznych, przedsiębiorstw i instytucji, w granicach prawa;
+6. nie została przeprowadzona osobiście przez Uczestnika;
+7. została przeprowadzona poza **oknem rozmów** wskazanym w § 4;
+8. nie spełnia wymogów z § 5 ust. 2.
 
 Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupełnienia braków, nie poprawia zgłoszeń i nie przedłuża terminu w tym celu; zgłoszenie niekompletne odpada na etapie oceny formalnej. Do upływu terminu zgłoszeń Uczestnik może przesłać zgłoszenie poprawione, które zastępuje poprzednie.
 
@@ -72,24 +73,25 @@ Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupe
 
 Jury ocenia zgłoszenia według czterech kryteriów o równej wadze, przyznając w każdym od 0 do 10 punktów:
 
-1. **Rozpiętość** - jak odległe od siebie punkty rozmowa połączyła. Połączenie dwóch zagadnień z tej samej dziedziny oceniane jest niżej niż połączenie przebiegające w poprzek dziedzin.
+1. **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin: oryginalne powiązanie wewnątrz jednej dziedziny może wymagać więcej pracy myślowej niż zestawienie dwóch dziedzin odległych. Połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.
 2. **Drążenie** - czy Uczestnik dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi; czy późniejsze pytania wynikają z wcześniejszych odpowiedzi.
-3. **Weryfikacja** - czy Uczestnik sprawdza twierdzenia modelu, wyłapuje błędy, zmyślenia i niespójności oraz doprowadza wątek do ustalenia stanu faktycznego.
+3. **Weryfikacja** - czy Uczestnik panuje nad rzetelnością rozmowy: sprawdza twierdzenia wymagające sprawdzenia, żąda uzasadnienia interpretacji, oznacza hipotezy jako niepewne i doprowadza wątpliwe wątki do rozstrzygnięcia. Oceniana jest kontrola jakości, a nie liczba przyłapań: jeżeli model odpowiada poprawnie, Uczestnik nadal może wykazać się w tym kryterium bardzo dobrze.
 4. **Plon** - co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło, powstały tekst, zmieniona decyzja lub pogląd. Połączenie, którego nie da się nazwać, nie jest punktowane.
 
 Dodatkowo:
 
-5. Rozmowy zawierające pytania nieudane, pomyłki i wątki porzucone **nie są z tego powodu oceniane niżej**. Jury traktuje je jako świadectwo rzeczywistego przebiegu pracy.
-6. **Artefakty nie podlegają ocenie.** Jeżeli w rozmowie powstały dodatkowe wytwory - dokumenty, strony, kod, arkusze, obrazy, pliki - **oceniany jest wyłącznie dialog, nie wytwór**. Ich obecność nie jest zakazana (często powstają bez udziału woli Uczestnika), ale:
+5. **Rzetelność jest warunkiem nagrody, nie tylko składnikiem punktacji.** Zgłoszenie nie może zostać nagrodzone ani włączone do antologii, jeżeli deklarowany plon opiera się na twierdzeniu nieprawdziwym, na nieistniejącym źródle albo na błędzie rozumowania, który w rozmowie nie został rozpoznany ani naprawiony - niezależnie od liczby punktów uzyskanych w pozostałych kryteriach. Ustalenie to wymaga zgodnej opinii co najmniej dwóch członków Jury.
+6. Rozmowy zawierające pytania nieudane, pomyłki i wątki porzucone **nie są z tego powodu oceniane niżej**. Jury traktuje je jako świadectwo rzeczywistego przebiegu pracy.
+7. **Artefakty nie podlegają ocenie.** Jeżeli w rozmowie powstały dodatkowe wytwory - dokumenty, strony, kod, arkusze, obrazy, pliki - **oceniany jest wyłącznie dialog, nie wytwór**. Ich obecność nie jest zakazana (często powstają bez udziału woli Uczestnika), ale:
    a) jakość, złożoność ani efektowność artefaktu nie dają punktów w żadnym kryterium;
    b) kryterium **Plon** mierzy to, co z rozmowy wyniósł człowiek, a nie to, co wyprodukował model; rozmowa, w której powstał dopracowany projekt, ale Uczestnik jedynie przyjmował kolejne propozycje, oceniana jest niżej niż rozmowa, w której nie powstało nic poza zrozumieniem;
-   c) nie ma znaczenia, czy artefakty są widoczne w udostępnionym linku; Organizator nie wymaga ich dosyłania;
+   c) artefakt, bez którego rozmowa jest niezrozumiała (omawiany wykres, załączony tekst, fragment kodu, do którego Uczestnik się odnosi), **musi być widoczny** w udostępnionym linku albo opisany w zgłoszeniu w stopniu pozwalającym zrozumieć dialog; jego brak może skutkować odrzuceniem zgłoszenia jako niekompletnego, przy czym sam artefakt nadal nie jest oceniany;
    d) obrazy wygenerowane w rozmowie mogą zostać zachowane w antologii jako ilustracja jej przebiegu, również bez wpływu na ocenę.
 
-7. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń, próby obejścia zabezpieczeń modelu oraz rozmowy o charakterze terapeutycznym lub wsparciowym.
-8. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
-9. **Kolejność czytania.** Członek Jury zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł.
-10. **Przygotowanie a inscenizacja.** Dozwolone jest przygotowanie się do rozmowy, w tym korzystanie z wcześniejszych konsultacji, notatek i planu wątków. Niedozwolone jest zgłoszenie rozmowy odtwarzającej z góry ustalony przebieg, której wynik był znany Uczestnikowi przed jej rozpoczęciem (§ 11 ust. 1 lit. c). Rozstrzygające jest to, czy odkrycie nastąpiło w rozmowie, czy zostało w niej odegrane.
+8. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń, próby obejścia zabezpieczeń modelu oraz rozmowy o charakterze terapeutycznym lub wsparciowym.
+9. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
+10. **Kolejność czytania.** Członek Jury zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł.
+11. **Przygotowanie a inscenizacja.** Dozwolone jest przygotowanie się do rozmowy, w tym korzystanie z wcześniejszych konsultacji, notatek i planu wątków. Niedozwolone jest zgłoszenie rozmowy odtwarzającej z góry ustalony przebieg, której wynik był znany Uczestnikowi przed jej rozpoczęciem (§ 11 ust. 1 lit. c). Rozstrzygające jest to, czy odkrycie nastąpiło w rozmowie, czy zostało w niej odegrane.
 
 ## § 8. Jury
 
@@ -112,7 +114,7 @@ Dodatkowo:
 9. **Tryb oceny.** Jeżeli liczba zgłoszeń dopuszczonych do oceny merytorycznej nie przekracza 30, każdy członek Jury ocenia wszystkie. Powyżej tej liczby zgłoszenia dzielone są losowo tak, aby każde było ocenione niezależnie przez co najmniej dwóch członków Jury. Dziesięć zgłoszeń o najwyższej sumie punktów czyta następnie cały skład Jury i ustala ostateczną kolejność.
 10. **Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników Organizator przeprowadza z każdym Uczestnikiem, którego zgłoszenie znalazło się w pierwszej dziesiątce, krótką rozmowę (telefoniczną lub wideo, do 20 minut) na temat treści zgłoszonej rozmowy. Rozmowa dotyczy wyłącznie tego, co w zgłoszeniu już się znajduje: jej celem jest potwierdzenie, że Uczestnik rozumie wątek, który prowadził, i potrafi go pociągnąć dalej.
 11. Odmowa udziału w rozmowie weryfikacyjnej albo brak kontaktu w terminie wskazanym przez Organizatora oznacza rezygnację ze zgłoszenia; miejsce zajmuje kolejne zgłoszenie z rankingu. `[DO SPRAWDZENIA: czy taki skutek jest dopuszczalny, czy łagodniejszy zapis byłby bezpieczniejszy]`
-12. Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 10.
+12. Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 11.
 13. Rozstrzygnięcie Jury jest ostateczne w zakresie oceny merytorycznej.
 
 ## § 9. Nagrody
@@ -130,7 +132,7 @@ Dodatkowo:
 
 ## § 10. Nierozstrzygnięcie edycji
 
-1. Edycja nie zostaje rozstrzygnięta, jeżeli w terminie wpłynie **mniej niż 25 zgłoszeń spełniających wymogi formalne** określone w § 5 i § 6.
+1. Edycja nie zostaje rozstrzygnięta, jeżeli w terminie wpłynie **mniej niż 12 zgłoszeń spełniających wymogi formalne** określone w § 5 i § 6. Próg ten podawany jest Uczestnikom przy otwarciu zgłoszeń. `[DO SPRAWDZENIA: liczba do potwierdzenia po pierwszym tygodniu naboru]`
 2. Edycja nie zostaje rozstrzygnięta również wtedy, gdy Jury jednomyślnie uzna, że żadne ze zgłoszeń nie spełnia kryteriów merytorycznych z § 7.
 3. W obu przypadkach nagrody nie są przyznawane, a Organizator informuje o tym na stronie Nagrody i pocztą elektroniczną wszystkich Uczestników, w terminie przewidzianym na ogłoszenie wyników.
 4. Nierozstrzygnięcie edycji nie rodzi po stronie Uczestników żadnych roszczeń.

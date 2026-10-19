@@ -105,13 +105,40 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **Przesunięcie edycji na 2027 kupuje czas na sponsorów**: kilka miesięcy do wiosny, a zgłoszenia i tak otwierają się dopiero wtedy.
 
-Pozostałe koszty (strona, obsługa, prawnik, medal, dyplomy, przejazd na wręczenie) to rząd 1,5-2,5 tys. zł - do pokrycia z budżetu partnerskiego, nie z własnych środków.
+**Pełny budżet pierwszej edycji (po recenzji z 19.10.2026).** Poprzedni szacunek 1,5-2,5 tys. zł obejmował wyłącznie wydatki gotówkowe i przez to zaniżał koszt projektu kilkunastokrotnie. Poniżej rachunek uczciwy, z pracą organizatora wycenioną, nawet jeżeli pozostanie wkładem nieodpłatnym.
+
+| Pozycja | Koszt gotówkowy | Praca organizatora |
+|---|---:|---:|
+| Domeny, hosting, poczta (rok) | 150 zł | - |
+| Konsultacja prawna regulaminu i polityki | 1 500-3 000 zł | 10 h |
+| Księgowy: wariant rozliczenia, podatek od nagród | w ramach obsługi JDG | 5 h |
+| Medal i dyplomy | 600-1 200 zł | 5 h |
+| Pozyskanie fundatora i partnerów | - | 60-100 h |
+| Rekrutacja i obsługa jury | - | 30 h |
+| Próba kalibracyjna oceny przed naborem | - | 20 h |
+| Obsługa zgłoszeń, formalna weryfikacja, korespondencja | - | 40-80 h |
+| Rozmowy weryfikacyjne z finalistami | - | 10 h |
+| Redakcja antologii i warstwy dydaktycznej | 0-4 000 zł (redaktor) | 60-100 h |
+| Gala albo wręczenie osobiste, przejazdy | 500-3 000 zł | 15 h |
+| Komunikacja, strona, poprawki, reklamacje | - | 40 h |
+| Rezerwa (15%) | ok. 1 000 zł | - |
+| **Razem** | **3 750-12 350 zł** | **295-415 h** |
+
+Przy stawce rynkowej inżyniera oprogramowania rzędu 150-200 zł za godzinę praca organizatora to **45-80 tys. zł**. To nie jest kwota do wystawienia komukolwiek, ale jest to prawdziwy koszt pierwszej edycji i tak należy o nim myśleć przy rozmowie z fundatorem oraz przy decyzji, czy projekt w ogóle warto prowadzić bez wynagrodzenia.
+
+**Wniosek: zero wkładu pieniężnego nie oznacza zera wkładu własnego.** Projekt jest finansowany czasem organizatora i ten czas jest jego największym kosztem. Dlatego w rozmowie ze sponsorem pozycja "obsługa organizacyjna" nie jest doliczaniem sobie marży, tylko odzyskaniem części realnie poniesionego kosztu.
+
+**Warunki uruchomienia edycji.** Edycja rusza, gdy spełnione są trzy warunki naraz: pula nagród ma pokrycie w zobowiązaniu fundatora, jury liczy co najmniej trzy osoby, które potwierdziły udział, a regulamin przeszedł konsultację prawną. Bez któregokolwiek z nich otwarcie zgłoszeń jest obietnicą bez pokrycia.
 
 **Bez kategorii w pierwszej edycji.** Jedna pula, jeden ranking, top 10 do antologii. Kategorie (Dociekanie, Współautorstwo, Sprostowanie, Debiut) wracają, gdy skala na to pozwoli - przy bardzo dużej liczbie zgłoszeń stają się wręcz konieczne, bo pozwalają dzielić pracę jury.
 
 **Antologia tylko w internecie.** Druk dopiero w edycjach ze sponsorem.
 
-**Próg rozstrzygnięcia:** poniżej 25 zgłoszeń spełniających wymogi formalne nagroda nie zostaje przyznana. Cel: 50. Próg liczbowy, nie uznaniowy - zapis uznaniowy otwiera zarzut dowolności.
+**Próg rozstrzygnięcia:** poniżej 12 zgłoszeń spełniających wymogi formalne nagroda nie zostaje przyznana. Cel: 50. Próg liczbowy, nie uznaniowy - zapis uznaniowy otwiera zarzut dowolności.
+
+Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: próg mierzy skuteczność rekrutacji, a nie jakość, więc 24 świetne rozmowy nie mogą przepadać dlatego, że zabrakło jednej. Nie zgadzam się natomiast z rezygnacją z progu w ogóle: nagroda rozstrzygnięta z sześciu zgłoszeń traci wiarygodność wobec laureata i wobec fundatora. Dwanaście to minimum, przy którym wybór dziesiątki do antologii jeszcze w ogóle jest wyborem.
+
+**Próg jest jawny.** Podajemy go na stronie i przy otwarciu zgłoszeń. Wcześniejsze ukrywanie go, żeby partner nie zobaczył ryzyka niepowodzenia, było słabym uzasadnieniem: partner i tak je policzy, a uczestnik ma prawo wiedzieć, na jakich warunkach startuje.
 
 **Nagrody fizyczne - nieogłaszane na stronie.** Mosiężny medalion z pieczęcią (grawer laserowy, ~150-250 zł) dla laureata, wręczany osobiście; tłoczone dyplomy dla całej dziesiątki, wysyłane pocztą. Pojawiają się publicznie dopiero jako materiał zdjęciowy po wręczeniu. Niezapowiedziany przedmiot działa jak prezent, zapowiedziany - jak pozycja, którą można porównać z ceną. Pieczęć ze strony jest w SVG, więc idzie do grawera bez przerysowywania.
 
@@ -138,7 +165,7 @@ Pozostałe koszty (strona, obsługa, prawnik, medal, dyplomy, przejazd na wręcz
 
 **Konflikt interesów.** Juror, który rozpozna uczestnika i pozostaje z nim w relacji osobistej, zawodowej lub finansowej, odstępuje od oceny tego jednego zgłoszenia i zgłasza to organizatorowi, bez ujawniania reszcie składu, kogo rozpoznał; zgłoszenie przejmuje inny juror albo powołany do tego jednego przypadku recenzent zewnętrzny. Samo rozpoznanie, bez relacji, nie wymaga wyłączenia - przy sztywnej zasadzie zostalibyśmy bez jury, bo w polskim środowisku AI wszyscy się znają. Wniosek przy kompletowaniu składu: im węższe środowisko, tym częściej ten mechanizm się uruchamia, więc osoba spoza branży jest pod tym względem najbezpieczniejsza.
 
-**Próg 25 zgłoszeń jest w regulaminie, ale nie na stronie.** Wobec uczestników uczciwy, natomiast urzędnik albo potencjalny partner czyta go jako sygnał, że projekt może nie wypalić. Nie ukrywamy go, ale nie eksponujemy w materiałach dla patronów.
+**Próg 12 zgłoszeń jest jawny: w regulaminie i na stronie.** Decyzja zmieniona 19.10.2026. Wcześniej trzymaliśmy go poza stroną, żeby partner nie odczytał go jako sygnału ryzyka. To było słabe: partner policzy ryzyko sam, a uczestnik ma prawo znać warunki, na jakich startuje. W materiałach dla patronów podajemy go wprost, razem z informacją, co się dzieje, gdy nie zostanie osiągnięty.
 
 **Przy klęsce urodzaju (setki, tysiące zgłoszeń)** nie skalujemy algorytmem, tylko ludźmi: taka liczba zgłoszeń jest sama w sobie dowodem, że projekt działa, więc jest czym iść po pieniądze na zespół czytający. Dochodzi też naturalny podział na kategorie.
 
@@ -186,7 +213,7 @@ Skład mieszany, 3-5 osób: literatura (prowadzenie narracji), nauka i metodolog
 - Zdjąć z nich wszystko poza czytaniem: sito, kontakt, rozmowy weryfikacyjne, protokoły, wysyłka - po stronie organizatora. Napisać to wprost; każdy, kto był w jakimkolwiek jury, boi się administracji.
 - Dać materiał, którego nie mają: dziesięć realnych transkryptów pracy ludzi z modelami, przed publikacją.
 - Zaproponować wstęp do antologii - współautorstwo książki zamiast recenzowania cudzej pracy. Koszt zero.
-- Nie prosić o nazwisko na zapas: powiedzieć wprost, że poniżej 25 zgłoszeń nagroda nie zostaje przyznana i jury nie ma nic do roboty.
+- Nie prosić o nazwisko na zapas: powiedzieć wprost, że poniżej 12 zgłoszeń nagroda nie zostaje przyznana i jury nie ma nic do roboty.
 - **Nie obiecywać wynagrodzenia.** Symboliczna stawka zamienia przysługę w źle płatne zlecenie i łatwiej wtedy odmówić.
 
 **Kandydaci (palcem po wodzie, afiliacje do sprawdzenia):** nauka - Andrzej Dragan, Michał Kosiński; literatura - Jacek Dukaj, Szczepan Twardoch; praktyk - Aleksandra Przegalińska, Piotr Migdał; spoza branży - Tomasz Rożek, Natalia Hatalska. Realistycznie przy pierwszej edycji celować w osoby aktywnie publikujące i odpowiadające na wiadomości, a nie w największe nazwiska.
