@@ -4,7 +4,7 @@
 
 ## § 1. Organizator
 
-1. Organizatorem Nagrody Konstela ("Nagroda") jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373 ("Organizator").
+1. Organizatorem Nagrody Konstela ("Nagroda") jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373 ("Organizator").
 2. Kontakt w sprawach Nagrody: kontakt@konstela.org.
 3. Nagroda nie jest grą losową, loterią fantową ani zakładem wzajemnym w rozumieniu ustawy z dnia 19 listopada 2009 r. o grach hazardowych. Wynik zależy wyłącznie od oceny merytorycznej Jury, a udział w Nagrodzie jest bezpłatny.
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu zgłoszeń. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat.
@@ -155,7 +155,7 @@ Dodatkowo:
 
 ## § 12. Dane osobowe
 
-1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
+1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są wyłącznie w celu przeprowadzenia Nagrody, wypłaty nagród i rozliczenia podatkowego, na podstawie zgody oraz obowiązku prawnego.
 3. Zakres danych: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, a w przypadku laureatów dodatkowo dane niezbędne do wypłaty i rozliczenia nagrody.
 4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do korpusu edycji (§ 11 ust. 6) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.

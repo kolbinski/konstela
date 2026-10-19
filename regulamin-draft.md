@@ -6,7 +6,7 @@
 
 ## § 1. Organizator
 
-1. Organizatorem Nagrody Konstela ("Nagroda") jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373 ("Organizator").
+1. Organizatorem Nagrody Konstela ("Nagroda") jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373 ("Organizator").
 2. Kontakt w sprawach Nagrody: kontakt@konstela.org. `[DO URUCHOMIENIA: skrzynka w domenie]`
 3. Nagroda nie jest grą losową, loterią fantową ani zakładem wzajemnym w rozumieniu ustawy z dnia 19 listopada 2009 r. o grach hazardowych. Wynik zależy wyłącznie od oceny merytorycznej Jury, a udział w Nagrodzie jest bezpłatny. `[DO SPRAWDZENIA]`
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu zgłoszeń. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat. `[DO SPRAWDZENIA: wariant rozliczenia - wypłata przez Organizatora albo bezpośrednio przez fundatora, do ustalenia z księgowym]`
@@ -28,14 +28,14 @@
 
 ## § 4. Terminy edycji pierwszej
 
-| Etap | Termin |
-|---|---|
-| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.** |
-| Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
-| Ocena formalna | październik 2027 |
-| Ocena merytoryczna Jury | październik 2027 |
-| Ogłoszenie wyników i publikacja antologii | **listopad 2027 r.** `[DO USTALENIA: dokładny dzień]` |
-| Wypłata nagród | do 14 dni od ogłoszenia wyników |
+| Etap                                       | Termin                                                                |
+| ------------------------------------------ | --------------------------------------------------------------------- |
+| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.**                                  |
+| Przyjmowanie zgłoszeń                      | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
+| Ocena formalna                             | październik 2027                                                      |
+| Ocena merytoryczna Jury                    | październik 2027                                                      |
+| Ogłoszenie wyników i publikacja antologii  | **listopad 2027 r.** `[DO USTALENIA: dokładny dzień]`                 |
+| Wypłata nagród                             | do 14 dni od ogłoszenia wyników                                       |
 
 O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organizatora.
 
@@ -43,7 +43,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 ## § 5. Forma zgłoszenia
 
-1. Zgłoszenie wysyła się pocztą elektroniczną na adres zgloszenia@konstela.org. `[DO URUCHOMIENIA: skrzynka w domenie]`
+1. Zgłoszenie wysyła się pocztą elektroniczną na adres contact@konstela.org. `[DO URUCHOMIENIA: skrzynka w domenie]`
 2. Zgłoszenie zawiera łącznie:
    a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu);
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
@@ -103,7 +103,7 @@ Dodatkowo:
    a) **odstępuje od oceny tego zgłoszenia** i niezwłocznie informuje o tym Organizatora, bez podawania pozostałym członkom Jury, kogo rozpoznał;
    b) Organizator przekazuje zgłoszenie do oceny innemu członkowi Jury, a jeżeli nie jest to możliwe - powołuje do oceny tego jednego zgłoszenia niezależnego recenzenta zewnętrznego;
    c) fakt wyłączenia odnotowuje się w protokole, bez ujawniania tożsamości Uczestnika.
-   
+
    Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; członek Jury ocenia pozostałe zgłoszenia normalnie. Samo rozpoznanie Uczestnika, bez relacji ani innej przyczyny stronniczości, nie wymaga wyłączenia, ale członek Jury zgłasza je Organizatorowi do protokołu.
 
 6. **Ujawnienie tożsamości.** Dane Uczestników ujawniane są Jury dopiero po ustaleniu ostatecznej kolejności, przy okazji rozmów weryfikacyjnych i przygotowania antologii.
@@ -146,7 +146,7 @@ Dodatkowo:
 3. Uczestnik, którego rozmowa znajdzie się w antologii, udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji** na publikację rozmowy w antologii oraz na jej udostępnianie w internecie i cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, bez ograniczeń czasowych i terytorialnych. Licencja nie obejmuje innych form wykorzystania.
 4. Antologia publikowana jest z podaniem imienia i nazwiska Uczestnika, chyba że wskaże on pseudonim.
 5. Uczestnik może do dnia ogłoszenia wyników wycofać zgodę na publikację; zgłoszenie jest wtedy usuwane z rankingu.
-7. **Korpus edycji (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego korpusu edycji - archiwum wszystkich zgłoszeń, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
+6. **Korpus edycji (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego korpusu edycji - archiwum wszystkich zgłoszeń, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
    a) zgoda jest **dobrowolna i nie wpływa na ocenę**; domyślnie publikowana jest wyłącznie dziesiątka z antologii;
    b) korpus publikowany jest odrębnie od antologii, bez komentarzy Jury i bez punktacji, jako archiwum - nie wynika z niego, które zgłoszenie oceniono wyżej, a które niżej;
    c) korpus publikowany jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika;
@@ -155,11 +155,11 @@ Dodatkowo:
 
    Celem korpusu jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu.
 
-8. `[DO SPRAWDZENIA: status prawny wypowiedzi modelu w rozmowie - czy i w jakim zakresie podlegają prawu autorskiemu, oraz czy regulaminy dostawców modeli dopuszczają publikację udostępnionych rozmów. Wymaga opinii prawnej przed pierwszą publikacją antologii.]`
+7. `[DO SPRAWDZENIA: status prawny wypowiedzi modelu w rozmowie - czy i w jakim zakresie podlegają prawu autorskiemu, oraz czy regulaminy dostawców modeli dopuszczają publikację udostępnionych rozmów. Wymaga opinii prawnej przed pierwszą publikacją antologii.]`
 
 ## § 12. Dane osobowe
 
-1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
+1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są wyłącznie w celu przeprowadzenia Nagrody, wypłaty nagród i rozliczenia podatkowego, na podstawie zgody oraz obowiązku prawnego.
 3. Zakres danych: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, a w przypadku laureatów dodatkowo dane niezbędne do wypłaty i rozliczenia nagrody.
 4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do korpusu edycji (§ 11 ust. 7) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
@@ -176,4 +176,4 @@ Dodatkowo:
 
 ---
 
-*Wersja robocza 1, 19 października 2026.*
+_Wersja robocza 1, 19 października 2026._

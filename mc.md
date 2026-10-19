@@ -138,7 +138,7 @@ Kierunki, w których zamierzam szukać: instytucje finansowe i ubezpieczeniowe (
 
 ## 11. O organizatorze
 
-Organizatorem jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej, autor wydanej w 2026 roku książki "365 pytań, które zmieniły wszystko" (704 strony, dostępna w Empiku), prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373.
+Organizatorem jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej, autor wydanej w 2026 roku książki "365 pytań, które zmieniły wszystko" (704 strony, dostępna w Empiku), prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373.
 
 Książka: https://www.empik.com/365-pytan-ktore-zmienily-wszystko-olbinski-krzysztof,p1713116600,ebooki-i-mp3-p
 
@@ -162,11 +162,10 @@ Patronat instytucji publicznej daje tej inicjatywie trzy rzeczy, których pojedy
 **Kontakt**
 
 Krzysztof Olbiński
-SOURCE Krzysztof Olbiński
-ul. Porębskiego 12/1, 80-180 Gdańsk
+ul. 11 Listopada 12/1, 98-200 Sieradz
 NIP PL8272087373
 contact@konstela.org
-[telefon]
++48 503 520 004
 
 **Materiały**
 

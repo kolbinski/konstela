@@ -6,7 +6,7 @@
 
 ## 1. Administrator danych
 
-Administratorem danych osobowych jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą **SOURCE Krzysztof Olbiński**, ul. Porębskiego 12/1, 80-180 Gdańsk, NIP PL8272087373.
+Administratorem danych osobowych jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą **SOURCE Krzysztof Olbiński**, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373.
 
 Kontakt we wszystkich sprawach dotyczących danych osobowych: kontakt@konstela.org. `[DO URUCHOMIENIA: skrzynka w domenie]`
 
@@ -73,4 +73,4 @@ O zmianach Administrator informuje na stronie Nagrody. Do zgłoszeń złożonych
 
 ---
 
-*Wersja robocza 1, 19 października 2026.*
+_Wersja robocza 1, 19 października 2026._
