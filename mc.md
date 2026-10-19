@@ -138,9 +138,7 @@ Kierunki, w których zamierzam szukać: instytucje finansowe i ubezpieczeniowe (
 
 ## 11. O organizatorze
 
-Organizatorem jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej, autor wydanej w 2026 roku książki "365 pytań, które zmieniły wszystko" (704 strony, dostępna w Empiku), prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373.
-
-Książka: https://www.empik.com/365-pytan-ktore-zmienily-wszystko-olbinski-krzysztof,p1713116600,ebooki-i-mp3-p
+Organizatorem jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej, autor wydanej w 2026 roku książki ["365 pytań, które zmieniły wszystko"](https://www.empik.com/365-pytan-ktore-zmienily-wszystko-olbinski-krzysztof,p1713116600,ebooki-i-mp3-p) (704 strony, dostępna w Empiku), prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373.
 
 Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat od uczestników.
 
