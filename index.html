@@ -579,70 +579,55 @@
     <div class="wrap">
       <header>
         <svg
-          xmlns="http://www.w3.org/2000/svg"
+          class="seal"
           viewBox="0 0 120 120"
-          width="120"
-          height="120"
           role="img"
-          aria-label="Znak Nagrody Konstela: gwiazdy połączone liniami w konstelację"
+          aria-label="Pieczęć nagrody: gwiazdy połączone liniami w konstelację"
         >
-          <title>Nagroda Konstela - znak monochromatyczny</title>
-
-          <!-- pierścień zewnętrzny -->
           <circle
             cx="60"
             cy="60"
             r="52"
             fill="none"
-            stroke="#000"
-            stroke-width="1.2"
+            stroke="var(--brass)"
+            stroke-width="1"
           />
-
-          <!-- pierścień wewnętrzny, kreskowany -->
           <circle
             cx="60"
             cy="60"
             r="46"
             fill="none"
-            stroke="#000"
-            stroke-width="0.7"
+            stroke="var(--brass)"
+            stroke-width="0.5"
             stroke-dasharray="1 3"
           />
-
-          <!-- linie konstelacji -->
           <g
+            stroke="var(--brass)"
+            stroke-width="0.9"
             fill="none"
-            stroke="#000"
-            stroke-width="1"
             stroke-linecap="round"
             stroke-linejoin="round"
           >
             <path d="M34 78 L47 56 L66 63 L78 42" />
             <path d="M47 56 L58 36" />
-            <path d="M78 42 L88 72" stroke-dasharray="2 3" />
+            <path d="M78 42 L88 72" stroke-dasharray="2 3" opacity="0.75" />
           </g>
-
-          <!-- gwiazdy -->
-          <g fill="#000">
+          <g fill="var(--fg)">
             <circle cx="34" cy="78" r="2.6" />
             <circle cx="47" cy="56" r="3.4" />
             <circle cx="66" cy="63" r="2.6" />
             <circle cx="58" cy="36" r="2.2" />
             <circle cx="78" cy="42" r="3.4" />
           </g>
-
-          <!-- gwiazda jeszcze niepołączona -->
           <circle
             cx="88"
             cy="72"
             r="3.1"
             fill="none"
-            stroke="#000"
-            stroke-width="1.4"
+            stroke="var(--brass)"
+            stroke-width="1.2"
           />
-
-          <!-- pył -->
-          <g fill="#000">
+          <g fill="var(--brass)" opacity="0.5">
             <circle cx="30" cy="40" r="1" />
             <circle cx="90" cy="30" r="1" />
             <circle cx="42" cy="92" r="1" />
@@ -652,13 +637,10 @@
 
         <h1>Nagroda<br />Konstela</h1>
         <p class="lede">
-          Za rozmowy z AI, w których ktoś połączył kropki, których sam wcześniej
-          nie łączył.
+          Za rozmowy z AI, w których ktoś połączył kropki, których sam wcześniej nie łączył.
         </p>
         <p class="edition">Edycja pierwsza &middot; 2027</p>
-        <p class="status-note">
-          Trwają przygotowania. Nabór zgłoszeń jeszcze nie został otwarty.
-        </p>
+        <p class="status-note">Trwają przygotowania. Nabór zgłoszeń jeszcze nie został otwarty.</p>
       </header>
 
       <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
@@ -695,8 +677,8 @@
         <div class="prose">
           <p>
             <strong>Zgłaszasz rozmowę, którą sam odbyłeś z modelem AI</strong> -
-            dowolnym, który pozwala udostępnić rozmowę pod linkiem - i po której
-            coś zrozumiałeś inaczej niż przedtem. Udział jest bezpłatny, a
+            dowolnym, który pozwala udostępnić rozmowę pod linkiem - i po
+            której coś zrozumiałeś inaczej niż przedtem. Udział jest bezpłatny, a
             zgłoszenie polega na przesłaniu linku do tej rozmowy.
           </p>
           <p>
@@ -740,10 +722,10 @@
             <span class="num">I</span>
             <h3>Rozpiętość</h3>
             <p>
-              Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa
-              wykonała. Liczy się trudność połączenia, a nie odległość między
-              dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się
-              tak samo, jeśli przed rozmową nikt go nie widział.
+              Jak nieoczywiste i jak uzasadnione jest połączenie, które
+              rozmowa wykonała. Liczy się trudność połączenia, a nie odległość
+              między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny
+              liczy się tak samo, jeśli przed rozmową nikt go nie widział.
             </p>
           </article>
           <article class="criterion">
@@ -812,10 +794,13 @@
               <path d="M7 8v8M12 6v12M17 9v6" />
             </svg>
             <span
-              ><strong>Co najmniej 1200 słów od ciebie.</strong> Liczymy
-              wyłącznie twoje wypowiedzi, bo to one są oceniane; wypowiedzi
-              modelu się nie liczą. Jest też limit górny, 25 tysięcy słów całej
-              rozmowy, żeby ocena w ogóle była wykonalna.</span
+              ><strong>Co najmniej 800 słów od ciebie i dwanaście twoich
+              wypowiedzi.</strong> Liczymy wyłącznie twoje wypowiedzi, bo to one
+              są oceniane; wypowiedzi modelu się nie liczą. Próg słów jest niski
+              celowo: krótka i gęsta rozmowa ma wygrywać z długą i rozlaną.
+              Minimum wypowiedzi jest po to, żeby jedno rozbudowane polecenie z
+              jedną odpowiedzią nie uchodziło za rozmowę. Jest też limit górny,
+              25 tysięcy słów całości, żeby ocena była wykonalna.</span
             >
           </li>
           <li>
@@ -849,8 +834,8 @@
               <path d="M3 4l18 16" stroke-width="1.1" />
             </svg>
             <span
-              ><strong>Bez osób prywatnych i bez oskarżeń.</strong> Rozmowa nie
-              może dotyczyć osób trzecich nieznanych publicznie, nawet pod
+              ><strong>Bez osób prywatnych i bez oskarżeń.</strong> Rozmowa nie może
+              dotyczyć osób trzecich nieznanych publicznie, nawet pod
               inicjałem, ani stawiać imiennych zarzutów przestępstwa czy
               nadużycia. O sobie i o publicznej działalności osób publicznych,
               firm i instytucji piszesz swobodnie, w granicach prawa.</span
@@ -885,8 +870,8 @@
               <path d="M12 8v4l2.5 2.5" />
             </svg>
             <span
-              ><strong>Kto może zgłaszać.</strong> Osoby pełnoletnie mieszkające
-              w Polsce albo mające polskie obywatelstwo. Nie oceniamy modelu ani
+              ><strong>Kto może zgłaszać.</strong> Osoby pełnoletnie mieszkające w
+              Polsce albo mające polskie obywatelstwo. Nie oceniamy modelu ani
               dostawcy - wpisujemy go tylko w metryczce rozmowy.</span
             >
           </li>
@@ -948,7 +933,18 @@
             <strong>link do udostępnionej rozmowy</strong>, wygenerowany po
             stronie modelu. Nie transkrypt w pliku, bo tekst w pliku można
             przepisać dowolnie. Link nie jest dowodem na to, jak rozmowa
-            powstawała, ale wyraźnie zawęża pole do poprawiania jej po fakcie.
+            powstawała: u części dostawców można cofnąć się i przeredagować
+            własne pytanie, a link pokaże wtedy tylko wybraną wersję wątku.
+            Zawęża jednak pole do poprawiania rozmowy po fakcie, a to wystarczy,
+            żeby mieć wspólny punkt odniesienia.
+          </p>
+          <p style="margin-top: 1rem">
+            Wymóg linka jest wymogiem dowodowym, a nie wyborem dostawcy.
+            Nagroda nie promuje żadnego modelu i żadnej firmy. Wiemy, że ten
+            wymóg wyklucza modele bez funkcji udostępniania, w tym uruchamiane
+            lokalnie, dostęp przez API i środowiska firmowe blokujące linki na
+            zewnątrz. To koszt przyjętego sposobu dowodzenia, nie cel, i
+            wrócimy do tej sprawy przed drugą edycją.
           </p>
           <p style="margin-top: 1rem">
             W treści wiadomości napisz w kilku zdaniach,
@@ -972,8 +968,9 @@
           </p>
           <p class="hint">
             <strong>Nabór nie jest jeszcze otwarty.</strong> Powyższy adres
-            służy dziś do pytań o nagrodę. Pełna lista wymogów zgłoszenia, razem
-            z metryczką rozmowy i oświadczeniami, znajduje się w regulaminie.
+            służy dziś do pytań o nagrodę. Pełna lista wymogów zgłoszenia,
+            razem z metryczką rozmowy i oświadczeniami, znajduje się w
+            regulaminie.
           </p>
         </div>
       </section>
@@ -984,7 +981,9 @@
           ·
           <a href="/karta-oceny">Karta oceny</a>
           ·
-          <a href="/polityka-prywatnosci">Polityka prywatności</a>
+          <a href="/polityka-prywatnosci"
+            >Polityka prywatności</a
+          >
         </nav>
         <p class="legal">konstela.org &copy; 2026</p>
       </footer>

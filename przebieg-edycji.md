@@ -27,7 +27,7 @@ Skutki: późniejsze wygaśnięcie linku nie z winy Uczestnika nie szkodzi zgło
 
 ## 4. Ocena formalna - Organizator
 
-**Czynności mechaniczne, bez czytania treści.** Sprawdzane: minimum 1200 słów Uczestnika, maksimum 25 000 słów całości, jeden ciągły wątek, język polski, data w oknie rozmów, komplet oświadczeń, opisu odkrycia i deklaracji załączników, brak osób trzecich nieznanych publicznie. Dochodzą podstawy z § 6 ust. 9-12 (treści bezprawne, imienne oskarżenia, kryzys psychiczny, tajemnice), ale **te wychodzą na jaw z sygnału, a nie z przeglądu z urzędu**.
+**Czynności mechaniczne, bez czytania treści.** Sprawdzane: minimum 800 słów i 12 wypowiedzi Uczestnika, maksimum 25 000 słów całości, jeden ciągły wątek, język polski, data w oknie rozmów, komplet oświadczeń, opisu odkrycia i deklaracji załączników, brak osób trzecich nieznanych publicznie. Dochodzą podstawy z § 6 ust. 9-12 (treści bezprawne, imienne oskarżenia, kryzys psychiczny, tajemnice), ale **te wychodzą na jaw z sygnału, a nie z przeglądu z urzędu**.
 
 Czas: kilka minut na zgłoszenie, większość do zautomatyzowania.
 
