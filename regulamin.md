@@ -50,7 +50,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
    e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 6). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
 4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. Dezaktywacja linku przed tym terminem oznacza wycofanie zgłoszenia.
-5. Organizator sporządza na potrzeby oceny kopię zgłoszonej rozmowy. Kopia służy wyłącznie ocenie i jest usuwana zgodnie z § 10.
+5. Organizator sporządza na potrzeby oceny kopię zgłoszonej rozmowy. Kopia służy wyłącznie ocenie i jest usuwana zgodnie z § 12.
 
 ## § 6. Wymogi formalne rozmowy
 
@@ -110,7 +110,7 @@ Dodatkowo:
 9. **Tryb oceny.** Jeżeli liczba zgłoszeń dopuszczonych do oceny merytorycznej nie przekracza 30, każdy członek Jury ocenia wszystkie. Powyżej tej liczby zgłoszenia dzielone są losowo tak, aby każde było ocenione niezależnie przez co najmniej dwóch członków Jury. Dziesięć zgłoszeń o najwyższej sumie punktów czyta następnie cały skład Jury i ustala ostateczną kolejność.
 10. **Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników Organizator przeprowadza z każdym Uczestnikiem, którego zgłoszenie znalazło się w pierwszej dziesiątce, krótką rozmowę (telefoniczną lub wideo, do 20 minut) na temat treści zgłoszonej rozmowy. Rozmowa dotyczy wyłącznie tego, co w zgłoszeniu już się znajduje: jej celem jest potwierdzenie, że Uczestnik rozumie wątek, który prowadził, i potrafi go pociągnąć dalej.
 11. Odmowa udziału w rozmowie weryfikacyjnej albo brak kontaktu w terminie wskazanym przez Organizatora oznacza rezygnację ze zgłoszenia; miejsce zajmuje kolejne zgłoszenie z rankingu.
-12. Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 9.
+12. Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 10.
 13. Rozstrzygnięcie Jury jest ostateczne w zakresie oceny merytorycznej.
 
 ## § 9. Nagrody

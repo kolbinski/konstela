@@ -49,10 +49,10 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
    c) metryczkę: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, nazwa użytego modelu i dostawcy, przybliżona data rozmowy;
    d) oświadczenia z § 11 ust. 1;
-   e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 7). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
+   e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 6). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
 4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. Dezaktywacja linku przed tym terminem oznacza wycofanie zgłoszenia.
-5. Organizator sporządza na potrzeby oceny kopię zgłoszonej rozmowy. Kopia służy wyłącznie ocenie i jest usuwana zgodnie z § 10.
+5. Organizator sporządza na potrzeby oceny kopię zgłoszonej rozmowy. Kopia służy wyłącznie ocenie i jest usuwana zgodnie z § 12.
 
 ## § 6. Wymogi formalne rozmowy
 
@@ -112,7 +112,7 @@ Dodatkowo:
 9. **Tryb oceny.** Jeżeli liczba zgłoszeń dopuszczonych do oceny merytorycznej nie przekracza 30, każdy członek Jury ocenia wszystkie. Powyżej tej liczby zgłoszenia dzielone są losowo tak, aby każde było ocenione niezależnie przez co najmniej dwóch członków Jury. Dziesięć zgłoszeń o najwyższej sumie punktów czyta następnie cały skład Jury i ustala ostateczną kolejność.
 10. **Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników Organizator przeprowadza z każdym Uczestnikiem, którego zgłoszenie znalazło się w pierwszej dziesiątce, krótką rozmowę (telefoniczną lub wideo, do 20 minut) na temat treści zgłoszonej rozmowy. Rozmowa dotyczy wyłącznie tego, co w zgłoszeniu już się znajduje: jej celem jest potwierdzenie, że Uczestnik rozumie wątek, który prowadził, i potrafi go pociągnąć dalej.
 11. Odmowa udziału w rozmowie weryfikacyjnej albo brak kontaktu w terminie wskazanym przez Organizatora oznacza rezygnację ze zgłoszenia; miejsce zajmuje kolejne zgłoszenie z rankingu. `[DO SPRAWDZENIA: czy taki skutek jest dopuszczalny, czy łagodniejszy zapis byłby bezpieczniejszy]`
-12. Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 9.
+12. Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez Jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 10.
 13. Rozstrzygnięcie Jury jest ostateczne w zakresie oceny merytorycznej.
 
 ## § 9. Nagrody
@@ -146,7 +146,7 @@ Dodatkowo:
 3. Uczestnik, którego rozmowa znajdzie się w antologii, udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji** na publikację rozmowy w antologii oraz na jej udostępnianie w internecie i cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, bez ograniczeń czasowych i terytorialnych. Licencja nie obejmuje innych form wykorzystania.
 4. Antologia publikowana jest z podaniem imienia i nazwiska Uczestnika, chyba że wskaże on pseudonim.
 5. Uczestnik może do dnia ogłoszenia wyników wycofać zgodę na publikację; zgłoszenie jest wtedy usuwane z rankingu.
-7. **Archiwum rozmów (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego archiwum rozmów, obejmującego wszystkie zgłoszenia, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
+6. **Archiwum rozmów (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego archiwum rozmów, obejmującego wszystkie zgłoszenia, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
    a) zgoda jest **dobrowolna i nie wpływa na ocenę**; domyślnie publikowana jest wyłącznie dziesiątka z antologii;
    b) archiwum rozmów publikowane jest odrębnie od antologii, bez komentarzy Jury i bez punktacji - nie wynika z niego, które zgłoszenie oceniono wyżej, a które niżej;
    c) archiwum rozmów publikowane jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika;
@@ -155,14 +155,14 @@ Dodatkowo:
 
    Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu.
 
-8. `[DO SPRAWDZENIA: status prawny wypowiedzi modelu w rozmowie - czy i w jakim zakresie podlegają prawu autorskiemu, oraz czy regulaminy dostawców modeli dopuszczają publikację udostępnionych rozmów. Wymaga opinii prawnej przed pierwszą publikacją antologii.]`
+7. `[DO SPRAWDZENIA: status prawny wypowiedzi modelu w rozmowie - czy i w jakim zakresie podlegają prawu autorskiemu, oraz czy regulaminy dostawców modeli dopuszczają publikację udostępnionych rozmów. Wymaga opinii prawnej przed pierwszą publikacją antologii.]`
 
 ## § 12. Dane osobowe
 
 1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są wyłącznie w celu przeprowadzenia Nagrody, wypłaty nagród i rozliczenia podatkowego, na podstawie zgody oraz obowiązku prawnego.
 3. Zakres danych: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, a w przypadku laureatów dodatkowo dane niezbędne do wypłaty i rozliczenia nagrody.
-4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 7) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
+4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 6) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
 7. `[DO UZUPEŁNIENIA: pełna klauzula informacyjna RODO - do przygotowania z prawnikiem]`
