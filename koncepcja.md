@@ -268,7 +268,7 @@ Wniosek: nagroda i szukanie zarobku to dwa osobne tory. Łatwo wmówić sobie, �
 
 Zastrzeżenie: ta ścieżka prowadzi przez edycje 1-3. Milion dolarów można obiecać tylko instytucji, która już coś rozstrzygnęła.
 
-### Akademia czytająca i kapituła - model oceny przy tysiącach zgłoszeń
+### Akademia i Kapituła - model oceny (nazewnictwo ustalone 19.10.2026)
 
 Problem jest arytmetyczny: tysiąc zgłoszeń po 3000 słów to trzy miliony słów, czyli ponad trzydzieści powieści. Kapituła prestiżowych nazwisk tego nie przeczyta, a ocena przez AI jest wykluczona. Jedyne wyjście to setki czytających, na wzór Akademii Filmowej.
 
@@ -291,6 +291,28 @@ Pojawił się zarzut, że wysoka pula zniekształca obraz tego, jak ludzie napra
 W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna** (dziesięć najlepszych = wzorzec), **archiwum rozmów jest opisowy** (wszystkie zgłoszenia za zgodą, bez punktacji = obraz rzeczywisty).
 
 Jedyna realna różnica wobec dyktanda: ortografia ma klucz odpowiedzi, nasze kryteria nie. Przy bardzo wysokiej stawce presja przenosi się więc nie na piszących, lecz na jury - stąd finał na żywo jako sposób na przywrócenie wspólnego punktu odniesienia.
+
+## Przepustowość oceny: kiedy potrzebna jest Akademia
+
+**Nazewnictwo (ustalone 19.10.2026).** **Kapituła** to 3-5 osób wybierających dziesiątkę antologii i laureata. **Akademia** to liczniejsza grupa czytelników przeprowadzająca pierwszą rundę; to do niej należy dzika karta. Odrzucono wariant "Gwiazdy Jury": po polsku gwiazda znaczy celebryta, co przeczy sensowi nagrody wyróżniającej myślenie osoby nieznanej, a dodatkowo przeciąża metaforę, w której gwiazdami są rozmowy i fakty, nie oceniający.
+
+**Rachunek przepustowości.** Rozmowa o realnej średniej około 6000 słów to przy uważnym czytaniu z notatkami około 40 minut, czyli godzina pracy oceniającego to półtorej rozmowy.
+
+| Liczba zgłoszeń | Model "każdy czyta wszystko" | Wniosek |
+|---:|---:|---|
+| 20 | 14 h na osobę | wykonalne, Akademia niepotrzebna |
+| 50 | 35 h na osobę | koniec tego modelu |
+| 150 | 100 h na osobę | niemożliwe |
+
+**Próg, przy którym potrzebna jest runda przesiewowa, leży około 50 zgłoszeń, nie przy tysiącach.** Wcześniejsze założenie, że Akademia to sprawa trzeciej edycji, było błędne: 150 zgłoszeń to umiarkowany sukces, a nie klęska urodzaju. Progi uruchamiania zapisane w § 8 regulaminu: do 20 bez Akademii, 21-60 pierwsza runda po dwóch czytających, powyżej 60 przydział maksymalnie 10 zgłoszeń na czytającego i lista rezerwowa.
+
+**Dlaczego rozdzielenie ról ułatwia rekrutację.** Jurora prosi się o nazwisko i odpowiedzialność, co wymaga prestiżu, którego pierwsza edycja nie ma. Czytelnika prosi się o przeczytanie ośmiu rozmów w ciągu miesiąca, czyli o około pięć godzin, i taką prośbę można wypowiedzieć wobec ludzi, którzy nie znają organizatora.
+
+**Skąd brać Akademię w edycji pierwszej.** Doktoranci i studenci ostatnich lat filozofii, kognitywistyki, polonistyki i kierunków zajmujących się metodologią nauki; nauczyciele polskiego i filozofii; bibliotekarze z bibliotek wojewódzkich; redaktorzy pism piszących o AI. Zapłatą jest nazwisko w antologii w spisie czytelników edycji, zaświadczenie, zaproszenie na galę i wcześniejszy dostęp do archiwum rozmów. Od drugiej edycji dochodzi najmocniejsza waluta: finaliści poprzedniej.
+
+**Sekcja ludzi na stronie.** Kapituła u góry, Akademia pod spodem, z profilami. Trzy warunki: publikacja wyłącznie za pisemną zgodą, opis pisany przez samą osobę, a sekcja powstaje dopiero wtedy, gdy są w niej prawdziwe nazwiska. Nazwisko na stronie tworzy zobowiązanie widoczne publicznie, więc utrata członkostwa przy nieprzeczytaniu przydziału musi być powiedziana przy zapraszaniu.
+
+**Narzędzie awaryjne: limit miejsc w edycji.** Nabór zamyka się po osiągnięciu ustalonej liczby zgłoszeń albo w terminie, zależnie co nastąpi pierwsze. Mechanizm znany z wielu konkursów, uczciwy pod warunkiem ogłoszenia z góry. Koszt wizerunkowy istnieje, ale jest mniejszy niż ogłoszenie w listopadzie, że ocena się nie udała. `[DO DECYZJI: czy wprowadzać w edycji pierwszej i przy jakiej liczbie]`
 
 ## Na później: Konstela Licealistów (edycja druga lub trzecia)
 
