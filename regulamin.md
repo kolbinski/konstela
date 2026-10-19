@@ -5,7 +5,7 @@
 ## § 1. Organizator
 
 1. Organizatorem Nagrody Konstela ("Nagroda") jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373 ("Organizator").
-2. Kontakt w sprawach Nagrody: kontakt@konstela.org.
+2. Kontakt w sprawach Nagrody: contact@konstela.org.
 3. Nagroda nie jest grą losową, loterią fantową ani zakładem wzajemnym w rozumieniu ustawy z dnia 19 listopada 2009 r. o grach hazardowych. Wynik zależy wyłącznie od oceny merytorycznej Jury, a udział w Nagrodzie jest bezpłatny.
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu zgłoszeń. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat.
 
@@ -26,14 +26,14 @@
 
 ## § 4. Terminy edycji pierwszej
 
-| Etap                                       | Termin                                                                |
-| ------------------------------------------ | --------------------------------------------------------------------- |
-| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.**                                  |
-| Przyjmowanie zgłoszeń                      | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
-| Ocena formalna                             | październik 2027                                                      |
-| Ocena merytoryczna Jury                    | październik 2027                                                      |
-| Ogłoszenie wyników i publikacja antologii  | **listopad 2027 r.**                                                  |
-| Wypłata nagród                             | do 14 dni od ogłoszenia wyników                                       |
+| Etap | Termin |
+|---|---|
+| Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 30 września 2027 r.** |
+| Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **30 września 2027 r., godz. 23:59** |
+| Ocena formalna | październik 2027 |
+| Ocena merytoryczna Jury | październik 2027 |
+| Ogłoszenie wyników i publikacja antologii | **listopad 2027 r.**|
+| Wypłata nagród | do 14 dni od ogłoszenia wyników |
 
 O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organizatora.
 
@@ -47,7 +47,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
    c) metryczkę: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, nazwa użytego modelu i dostawcy, przybliżona data rozmowy;
    d) oświadczenia z § 11 ust. 1;
-   e) opcjonalnie: zgodę na włączenie rozmowy do publicznego korpusu edycji (§ 11 ust. 7). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
+   e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 6). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
 4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. Dezaktywacja linku przed tym terminem oznacza wycofanie zgłoszenia.
 5. Organizator sporządza na potrzeby oceny kopię zgłoszonej rozmowy. Kopia służy wyłącznie ocenie i jest usuwana zgodnie z § 10.
@@ -101,7 +101,7 @@ Dodatkowo:
    a) **odstępuje od oceny tego zgłoszenia** i niezwłocznie informuje o tym Organizatora, bez podawania pozostałym członkom Jury, kogo rozpoznał;
    b) Organizator przekazuje zgłoszenie do oceny innemu członkowi Jury, a jeżeli nie jest to możliwe - powołuje do oceny tego jednego zgłoszenia niezależnego recenzenta zewnętrznego;
    c) fakt wyłączenia odnotowuje się w protokole, bez ujawniania tożsamości Uczestnika.
-
+   
    Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; członek Jury ocenia pozostałe zgłoszenia normalnie. Samo rozpoznanie Uczestnika, bez relacji ani innej przyczyny stronniczości, nie wymaga wyłączenia, ale członek Jury zgłasza je Organizatorowi do protokołu.
 
 6. **Ujawnienie tożsamości.** Dane Uczestników ujawniane są Jury dopiero po ustaleniu ostatecznej kolejności, przy okazji rozmów weryfikacyjnych i przygotowania antologii.
@@ -144,21 +144,21 @@ Dodatkowo:
 3. Uczestnik, którego rozmowa znajdzie się w antologii, udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji** na publikację rozmowy w antologii oraz na jej udostępnianie w internecie i cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, bez ograniczeń czasowych i terytorialnych. Licencja nie obejmuje innych form wykorzystania.
 4. Antologia publikowana jest z podaniem imienia i nazwiska Uczestnika, chyba że wskaże on pseudonim.
 5. Uczestnik może do dnia ogłoszenia wyników wycofać zgodę na publikację; zgłoszenie jest wtedy usuwane z rankingu.
-6. **Korpus edycji (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego korpusu edycji - archiwum wszystkich zgłoszeń, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
+6. **Archiwum rozmów (zgoda opcjonalna).** Uczestnik może przy zgłoszeniu wyrazić zgodę na włączenie swojej rozmowy do publicznego archiwum rozmów, obejmującego wszystkie zgłoszenia, które przeszły ocenę formalną i których autorzy wyrazili na to zgodę. Zasady:
    a) zgoda jest **dobrowolna i nie wpływa na ocenę**; domyślnie publikowana jest wyłącznie dziesiątka z antologii;
-   b) korpus publikowany jest odrębnie od antologii, bez komentarzy Jury i bez punktacji, jako archiwum - nie wynika z niego, które zgłoszenie oceniono wyżej, a które niżej;
-   c) korpus publikowany jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika;
-   d) zgodę można wycofać w każdym czasie, również po publikacji; rozmowa jest wtedy usuwana z korpusu;
-   e) Organizator może odmówić włączenia rozmowy do korpusu bez podania przyczyny, w szczególności gdy jej treść budzi wątpliwości, których ocena formalna nie obejmuje. Odmowa nie wpływa na ocenę zgłoszenia.
+   b) archiwum rozmów publikowane jest odrębnie od antologii, bez komentarzy Jury i bez punktacji - nie wynika z niego, które zgłoszenie oceniono wyżej, a które niżej;
+   c) archiwum rozmów publikowane jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika;
+   d) zgodę można wycofać w każdym czasie, również po publikacji; rozmowa jest wtedy usuwana z archiwum rozmów;
+   e) Organizator może odmówić włączenia rozmowy do archiwum rozmów bez podania przyczyny, w szczególności gdy jej treść budzi wątpliwości, których ocena formalna nie obejmuje. Odmowa nie wpływa na ocenę zgłoszenia.
 
-   Celem korpusu jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu.
+   Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu.
 
 ## § 12. Dane osobowe
 
 1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są wyłącznie w celu przeprowadzenia Nagrody, wypłaty nagród i rozliczenia podatkowego, na podstawie zgody oraz obowiązku prawnego.
 3. Zakres danych: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, a w przypadku laureatów dodatkowo dane niezbędne do wypłaty i rozliczenia nagrody.
-4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do korpusu edycji (§ 11 ust. 6) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
+4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów (§ 11 ust. 6) - w ich przypadku dane przetwarzane są do czasu wycofania zgody.
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
 
@@ -171,4 +171,4 @@ Dodatkowo:
 
 ---
 
-_Wersja wstępna 1.0 z dnia 19 października 2026 r., przed otwarciem zgłoszeń regulamin zostanie uzupełniony i opublikowany w wersji ostatecznej_
+*Wersja 1.0 z dnia 19 października 2026 r.*

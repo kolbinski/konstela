@@ -4,9 +4,9 @@
 
 ## 1. Administrator danych
 
-Administratorem danych osobowych jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373.
+Administratorem danych osobowych jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą **SOURCE Krzysztof Olbiński**, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373.
 
-Kontakt we wszystkich sprawach dotyczących danych osobowych: kontakt@konstela.org.
+Kontakt we wszystkich sprawach dotyczących danych osobowych: contact@konstela.org.
 
 Administrator nie powołał inspektora ochrony danych; obowiązki w tym zakresie wykonuje osobiście.
 
@@ -29,11 +29,11 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 **W jakim celu i na jakiej podstawie.**
 
 - Przeprowadzenie Nagrody, ocena zgłoszeń i kontakt z Uczestnikiem - wykonanie umowy, którą stanowi przystąpienie do Nagrody na warunkach Regulaminu (art. 6 ust. 1 lit. b RODO).
-- Publikacja rozmowy w antologii oraz, jeżeli Uczestnik wyraził na to odrębną zgodę, w korpusie edycji - zgoda (art. 6 ust. 1 lit. a RODO), którą można wycofać w każdej chwili.
+- Publikacja rozmowy w antologii oraz, jeżeli Uczestnik wyraził na to odrębną zgodę, w archiwum rozmów - zgoda (art. 6 ust. 1 lit. a RODO), którą można wycofać w każdej chwili.
 - Wypłata i rozliczenie nagrody - obowiązek prawny ciążący na Administratorze (art. 6 ust. 1 lit. c RODO).
 - Rozpatrywanie reklamacji oraz obrona przed roszczeniami - prawnie uzasadniony interes Administratora (art. 6 ust. 1 lit. f RODO).
 
-**Jak długo.** Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do korpusu edycji - w ich przypadku dane przetwarzane są do czasu wycofania zgody. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi, liczony zgodnie z Ordynacją podatkową.
+**Jak długo.** Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów - w ich przypadku dane przetwarzane są do czasu wycofania zgody. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi, liczony zgodnie z Ordynacją podatkową.
 
 **Czy podanie danych jest obowiązkowe.** Podanie danych jest dobrowolne, ale niezbędne do udziału w Nagrodzie. Bez nich zgłoszenie nie może zostać ocenione.
 
@@ -59,11 +59,11 @@ Przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczeni
 
 Przysługuje również prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warszawa.
 
-Wszystkie powyższe sprawy załatwiane są pod adresem kontakt@konstela.org.
+Wszystkie powyższe sprawy załatwiane są pod adresem contact@konstela.org.
 
-## 9. Wycofanie zgody na korpus
+## 9. Wycofanie zgody na archiwum rozmów
 
-Zgoda na włączenie rozmowy do korpusu edycji jest dobrowolna, niezależna od udziału w Nagrodzie i nie wpływa na ocenę zgłoszenia. Można ją wycofać w każdej chwili, pisząc na adres kontaktowy; rozmowa zostaje wtedy usunięta z korpusu. Wycofanie zgody nie obejmuje rozmów opublikowanych w antologii, do których Uczestnik udzielił odrębnej licencji na zasadach określonych w Regulaminie.
+Zgoda na włączenie rozmowy do archiwum rozmów jest dobrowolna, niezależna od udziału w Nagrodzie i nie wpływa na ocenę zgłoszenia. Można ją wycofać w każdej chwili, pisząc na adres kontaktowy; rozmowa zostaje wtedy usunięta z archiwum rozmów. Wycofanie zgody nie obejmuje rozmów opublikowanych w antologii, do których Uczestnik udzielił odrębnej licencji na zasadach określonych w Regulaminie.
 
 ## 10. Zmiany polityki
 
@@ -71,4 +71,4 @@ O zmianach Administrator informuje na stronie Nagrody. Do zgłoszeń złożonych
 
 ---
 
-_Wersja wstępna 1.0 z dnia 19 października 2026 r., przed otwarciem zgłoszeń polityka prywatności zostanie uzupełniona i opublikowana w wersji ostatecznej_
+*Wersja 1.0 z dnia 19 października 2026 r.*
