@@ -17,17 +17,17 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 
 ## 2. Zgłoszenie
 
-Uczestnik przesyła: link do udostępnionej rozmowy, opis odkrycia (3-10 zdań), metryczkę (model, data), oświadczenia, opcjonalnie zgodę na archiwum rozmów. **Zgłoszenie musi być kompletne od razu** - Organizator nie wzywa do uzupełnienia. Przed terminem można przysłać wersję poprawioną, która zastępuje poprzednią.
+Uczestnik przesyła: link do udostępnionej rozmowy, opis odkrycia (3-10 zdań), metryczkę (model, data), oświadczenia, deklarację załączników, opcjonalnie zgodę na archiwum rozmów. **Zgłoszenie musi być kompletne od razu** - Organizator nie wzywa do uzupełnienia. Przed terminem można przysłać wersję poprawioną, która zastępuje poprzednią.
 
 ## 3. Kopia archiwalna - natychmiast
 
-Skrypt otwiera link, przewija do końca, zapisuje PDF, pełny HTML, zrzut ekranu, znacznik czasu i sumę kontrolną. **Od tej chwili ocenie podlega kopia**, nie treść pod linkiem. Kopie leżą w prywatnym magazynie, nie w publicznym repozytorium strony.
+Skrypt otwiera link, przewija do końca (transkrypcje leniwie doczytują obrazy), czeka na wyciszenie sieci i zapisuje PDF, pełny HTML z obrazami wklejonymi jako base64, zrzut ekranu, znacznik czasu i sumę kontrolną. Kopią rozstrzygającą jest PDF. **Od tej chwili ocenie podlega kopia**, nie treść pod linkiem. Kopie leżą w prywatnym magazynie, nie w publicznym repozytorium strony.
 
 Skutki: późniejsze wygaśnięcie linku nie z winy Uczestnika nie szkodzi zgłoszeniu; zmiana treści pod linkiem nie wpływa na ocenę, ale rozbieżność może być podstawą odrzucenia.
 
 ## 4. Ocena formalna - Organizator
 
-**Czynności mechaniczne, bez czytania treści.** Sprawdzane: minimum 1200 słów Uczestnika, maksimum 25 000 słów całości, jeden ciągły wątek, język polski, data w oknie rozmów, komplet oświadczeń i opisu odkrycia, brak osób trzecich nieznanych publicznie. Dochodzą podstawy z § 6 ust. 9-12 (treści bezprawne, imienne oskarżenia, kryzys psychiczny, tajemnice), ale **te wychodzą na jaw z sygnału, a nie z przeglądu z urzędu**.
+**Czynności mechaniczne, bez czytania treści.** Sprawdzane: minimum 1200 słów Uczestnika, maksimum 25 000 słów całości, jeden ciągły wątek, język polski, data w oknie rozmów, komplet oświadczeń, opisu odkrycia i deklaracji załączników, brak osób trzecich nieznanych publicznie. Dochodzą podstawy z § 6 ust. 9-12 (treści bezprawne, imienne oskarżenia, kryzys psychiczny, tajemnice), ale **te wychodzą na jaw z sygnału, a nie z przeglądu z urzędu**.
 
 Czas: kilka minut na zgłoszenie, większość do zautomatyzowania.
 

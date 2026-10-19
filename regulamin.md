@@ -49,12 +49,14 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
    c) metryczkę: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, nazwa użytego modelu i dostawcy, przybliżona data rozmowy;
    d) oświadczenia z § 11 ust. 1;
-   e) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 9). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
+   e) **deklarację załączników**: informację, czy w rozmowie Uczestnik wgrywał pliki (dokumenty, obrazy, dane, kod), jakiego rodzaju i czy ich treść jest widoczna w udostępnionym linku;
+   f) opcjonalnie: zgodę na włączenie rozmowy do publicznego archiwum rozmów (§ 11 ust. 9). Brak tej zgody nie wpływa w żaden sposób na ocenę zgłoszenia.
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
 4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. **Dezaktywacja linku przez Uczestnika** przed tym terminem oznacza wycofanie zgłoszenia.
 5. **Kopia archiwalna.** Niezwłocznie po wpłynięciu zgłoszenia Organizator sporządza kopię rozmowy wraz ze znacznikiem czasu. Od tej chwili **ocenie podlega kopia**, a nie treść dostępna pod linkiem. Kopia przechowywana jest poza stroną Nagrody, w miejscu niedostępnym publicznie, służy wyłącznie ocenie i jest usuwana zgodnie z § 12.
 6. **Niedostępność linku nie z winy Uczestnika** - w szczególności wynikająca z awarii, zmiany zasad albo zakończenia usługi po stronie dostawcy modelu - nie powoduje odrzucenia ani wycofania zgłoszenia; ocena odbywa się na kopii archiwalnej. Organizator może zwrócić się do Uczestnika o potwierdzenie przyczyny niedostępności.
 7. Zmiana treści rozmowy pod linkiem po dniu zgłoszenia nie wpływa na ocenę; rozbieżność między kopią a treścią pod linkiem może natomiast stanowić podstawę odrzucenia zgłoszenia.
+8. **Zakres oceny wyznacza kopia.** Ocenie podlega wyłącznie to, co jest w kopii archiwalnej widoczne i czytelne. Załączniki wgrane przez Uczestnika są dopuszczalne, ale jeżeli ich treść nie jest widoczna w kopii, nie są przedmiotem oceny, a ustalenia, do których model doszedł na ich podstawie, nie podnoszą punktacji w żadnym kryterium - podobnie jak nie podnosi jej jakość samego modelu. Uczestnik, który chce, aby materiał został uwzględniony, przytacza jego istotne fragmenty w treści rozmowy.
 
 ## § 6. Wymogi formalne rozmowy
 
@@ -109,6 +111,7 @@ Dodatkowo:
 3. **Odmowa publikacji nie wpływa na punktację ani na przyznaną nagrodę.** Nagroda przysługuje za rozmowę, nie za zgodę na jej upublicznienie.
 4. Treść rozmowy nie podlega ocenie pod kątem wyrażanych w niej poglądów. Krytyczne, polemiczne i niewygodne ujęcia tematów światopoglądowych, religijnych i politycznych są dopuszczalne i oceniane na równi z innymi; odmowa publikacji może wynikać wyłącznie z ryzyka prawnego opisanego w ust. 2, nigdy z niezgody Organizatora albo oceniających z poglądem Uczestnika.
 5. Decyzję o odmowie publikacji Organizator podejmuje wspólnie z co najmniej jednym członkiem Kapituły i przekazuje Uczestnikowi na piśmie wraz z uzasadnieniem. Uczestnik może wskazać fragment do usunięcia albo wycofać zgłoszenie z publikacji w całości, zachowując nagrodę.
+6. **Materiał graficzny.** Organizator może opublikować rozmowę bez obrazów, zrzutów ekranu i innych materiałów graficznych, które nie są istotne dla jej przebiegu, w szczególności w wydaniu drukowanym. Pominięcie takiego materiału nie jest odmową publikacji w rozumieniu ust. 2 i nie wymaga odrębnej decyzji; materiał istotny dla przebiegu rozmowy zastępuje się opisem w nawiasie kwadratowym.
 
 ## § 8. Kapituła i Akademia
 
@@ -175,7 +178,8 @@ Dodatkowo:
    a) przeprowadził ją osobiście;
    b) jej treść nie narusza praw osób trzecich ani przepisów prawa;
    c) rozmowa nie została zainscenizowana, to jest Uczestnik nie odtwarzał w niej przebiegu ani wyniku ustalonego z góry przed jej rozpoczęciem, w szczególności według scenariusza przygotowanego w tym celu przez człowieka lub model;
-   d) rozmowa nie dotyczy osób prywatnych w rozumieniu § 6 pkt 4.
+   d) rozmowa nie dotyczy osoby trzeciej nieznanej publicznie w rozumieniu § 6 pkt 5;
+   e) przysługują mu prawa do materiałów, które wgrał do rozmowy, albo dysponuje zgodą na ich wykorzystanie, a materiały te nie zawierają danych osobowych osób trzecich ani informacji objętych tajemnicą, do których ujawnienia Uczestnik nie jest uprawniony.
 2. Uczestnik zachowuje wszelkie prawa do swoich wypowiedzi.
 3. Uczestnik, którego rozmowa znajdzie się w antologii, udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji** na publikację rozmowy w antologii oraz na jej udostępnianie w internecie i cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, bez ograniczeń czasowych i terytorialnych. Licencja nie obejmuje innych form wykorzystania.
 4. Antologia publikowana jest z podaniem imienia i nazwiska Uczestnika, chyba że wskaże on pseudonim.

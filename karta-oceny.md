@@ -6,6 +6,8 @@ Każde z czterech kryteriów punktowane jest od 0 do 10. Pasma poniżej są punk
 
 **Zasada nadrzędna:** oceniamy wkład Uczestnika w prowadzenie rozmowy. Jakość modelu nie podlega ocenie, a jakość wytworów powstałych w rozmowie nie daje punktów w żadnym kryterium.
 
+**Załączniki.** Uczestnik mógł wgrać do rozmowy pliki: dokument, dane, obraz, kod. Oceniać można wyłącznie to, co widać w kopii archiwalnej. Jeżeli treść załącznika nie jest w kopii widoczna, nie oceniamy jej ani nie przyznajemy punktów za ustalenia, do których model na jej podstawie doszedł - tak samo jak nie przyznajemy punktów za trafność modelu. Nie jest to kara: uczestnik, który chciał, aby materiał się liczył, przytaczał jego fragmenty w rozmowie, a to już jest widoczne i podlega ocenie. Regulamin § 5 ust. 8.
+
 ---
 
 ## I. Rozpiętość
