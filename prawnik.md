@@ -41,6 +41,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 3. Czy treść rozmowy wymaga odrębnej podstawy od danych rejestracyjnych i czy przy kopii archiwalnej potrzebne jest coś więcej niż informacja o jej sporządzeniu.
 4. Czy przyjęte terminy retencji są prawidłowe: 60 dni od ogłoszenia wyników dla nienagrodzonych, okres podatkowy dla laureatów, do 24 miesięcy dla materiału zakwalifikowanego do archiwum, lecz jeszcze nieopublikowanego.
 5. Czy potrzebna jest umowa powierzenia wobec osób oceniających, które czytają rozmowy w panelu, czy wystarczy upoważnienie do przetwarzania.
+5a. Zgłoszenia przyjmowane będą przez **zewnętrzny formularz (Google Forms)**, a kopie archiwalne przechowywane w prywatnym magazynie. Jakie to rodzi obowiązki: umowa powierzenia, informacja o odbiorcach danych, przekazanie poza EOG, i czy przy tej skali rozsądniej zbudować formularz własny na stronie Nagrody.
 
 **Oczekiwany produkt:** gotowa klauzula informacyjna do § 12 i do polityki prywatności oraz wskazanie podstaw przetwarzania dla każdej warstwy.
 

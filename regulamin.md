@@ -45,7 +45,8 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 ## § 5. Forma zgłoszenia
 
-1. Zgłoszenie wysyła się pocztą elektroniczną na adres contact@konstela.org.
+1. Zgłoszenie składa się przez **formularz zgłoszeniowy udostępniony na stronie Nagrody**. Formularz publikowany jest w dniu otwarcia naboru i dostępny przez cały okres przyjmowania zgłoszeń. Jeżeli z przyczyn technicznych formularz jest niedostępny, Organizator przyjmuje zgłoszenia pocztą elektroniczną na adres contact@konstela.org i informuje o tym na stronie Nagrody; termin zgłoszeń nie ulega wtedy skróceniu.
+1a. Adres contact@konstela.org służy do korespondencji w sprawach Nagrody, w tym do pytań Uczestników, zgłoszeń o błędzie odwzorowania kopii (§ 5 ust. 9) i wniosków, o których mowa w § 13.
 2. Zgłoszenie zawiera łącznie:
    a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu);
    b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;

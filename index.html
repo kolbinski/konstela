@@ -511,25 +511,7 @@
         border: 1px solid var(--rule);
         padding: 1.75rem 1.5rem;
       }
-      .address {
-        display: flex;
-        flex-wrap: wrap;
-        align-items: center;
-        gap: 0.75rem;
-        margin-top: 1.1rem;
-      }
-      .address code {
-        font-family: var(--mono);
-        font-size: 1rem;
-        color: var(--fg);
-        background: var(--bg);
-        border: 1px solid var(--rule);
-        padding: 0.5rem 0.7rem;
-        user-select: all;
-        word-break: break-all;
-        min-width: 0;
-      }
-      button {
+                  button {
         font-family: var(--body);
         font-size: 0.9rem;
         font-weight: 600;
@@ -677,7 +659,7 @@
       </svg>
 
       <section>
-        <h2>Po co to jest</h2>
+        <h2>Dlaczego</h2>
         <div class="prose">
           <p>
             <strong>Zgłaszasz rozmowę, którą sam odbyłeś z modelem AI</strong> -
@@ -933,7 +915,7 @@
       </section>
 
       <section>
-        <h2>Jak zgłosić</h2>
+        <h2>Jak i kiedy zgłosić</h2>
         <div class="submit">
           <p>
             Przyjmujemy wyłącznie
@@ -954,24 +936,30 @@
             wrócimy do tej sprawy przed drugą edycją.
           </p>
           <p style="margin-top: 1rem">
-            W treści wiadomości napisz w kilku zdaniach,
+            Do zgłoszenia dołączasz kilka zdań o tym,
             <strong>co odkryłeś w tej rozmowie</strong> i w którym jej miejscu
             to się stało. Zgłoszenia bez tego opisu odpadają na samym początku,
             bo nikt poza tobą nie wie, czego w rozmowie szukać.
           </p>
-          <div class="address">
-            <code id="addr">contact@konstela.org</code>
-            <button id="copy" type="button">Kopiuj adres</button>
-          </div>
-          <p class="hint" id="status" role="status"></p>
+          <p style="margin-top: 1rem">
+            Zgłoszenia przyjmujemy przez <strong>formularz</strong>, który
+            pojawi się na tej stronie w dniu otwarcia naboru.
+          </p>
+          <p class="hint">
+            <strong>Okno rozmów otwiera się 1 stycznia 2027</strong> i trwa do
+            31 grudnia 2027. Liczy się data rozmowy, nie data zgłoszenia:
+            rozmowa z 2026 roku nie kwalifikuje się, nawet jeśli jest
+            znakomita.
+          </p>
+          <p class="hint">
+            <strong>Zgłoszenia przyjmujemy od 1 stycznia 2027 do 15 stycznia
+            2028.</strong> Dwa dodatkowe tygodnie są po to, żeby rozmowa z
+            końca grudnia miała kiedy zostać zgłoszona. Rozstrzygnięcie i
+            antologia w marcu 2028.
+          </p>
           <p class="hint">
             Jedna rozmowa to jeden czat. Link musi pozostać aktywny przez cały
             czas trwania oceny.
-          </p>
-          <p class="hint">
-            Liczą się rozmowy odbyte w 2027 roku, od stycznia do grudnia.
-            Zgłoszenia przyjmujemy do 15 stycznia 2028, rozstrzygnięcie i
-            antologia w marcu 2028.
           </p>
           <p class="hint">
             <strong>Zgłoszenie oznacza zgodę na publikację.</strong> Nie ma tu
@@ -983,10 +971,10 @@
             antologii i idzie ona do publikacji.
           </p>
           <p class="hint">
-            <strong>Nabór nie jest jeszcze otwarty.</strong> Powyższy adres
-            służy dziś do pytań o nagrodę. Pełna lista wymogów zgłoszenia,
-            razem z metryczką rozmowy i oświadczeniami, znajduje się w
-            regulaminie.
+            <strong>Nabór nie jest jeszcze otwarty.</strong> Pytania o nagrodę
+            kierujcie na <a href="mailto:contact@konstela.org">contact@konstela.org</a>.
+            Pełna lista wymogów zgłoszenia, razem z metryczką rozmowy i
+            oświadczeniami, znajduje się w regulaminie.
           </p>
         </div>
       </section>
@@ -1005,29 +993,5 @@
       </footer>
     </div>
 
-    <script>
-      document.getElementById('copy').addEventListener('click', function () {
-        var addr = document.getElementById('addr').textContent;
-        var status = document.getElementById('status');
-        function fallback() {
-          var r = document.createRange();
-          r.selectNodeContents(document.getElementById('addr'));
-          var s = window.getSelection();
-          s.removeAllRanges();
-          s.addRange(r);
-          status.textContent = 'Adres zaznaczony — skopiuj go sam.';
-        }
-        if (navigator.clipboard && navigator.clipboard.writeText) {
-          navigator.clipboard
-            .writeText(addr)
-            .then(function () {
-              status.textContent = 'Skopiowano.';
-            })
-            .catch(fallback);
-        } else {
-          fallback();
-        }
-      });
-    </script>
   </body>
 </html>

@@ -438,6 +438,14 @@ Na każdą z dziesięciu rozmów składają się cztery elementy:
 
 **Dźwignia, którą trzeba uruchomić w formularzu oceny.** Regulamin wymaga, by każda ocena wskazywała fragment uzasadniający. Jeżeli formularz poprosi dodatkowo o **jedno zdanie komentarza przy tym fragmencie**, Kapituła i Akademia wytwarzają gotowe kandydatury na noty marginesowe w trakcie normalnej pracy. Nota podpisana nazwiskiem jurora jest w antologii mocniejsza niż komentarz organizatora, a nakład własny spada z pisania do redagowania. Do wdrożenia przy budowie panelu oceny.
 
+## Kanał zgłoszeń: formularz, nie mail (ustalone 20.10.2026)
+
+Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms), publikowany w dniu otwarcia naboru. Mail pozostaje kanałem awaryjnym na wypadek niedostępności formularza oraz adresem do korespondencji: pytania, zgłoszenie błędu odwzorowania kopii, wnioski o kartę oceny. Wpisane do § 5 ust. 1 i 1a regulaminu.
+
+**Dlaczego formularz.** Komplet zgłoszenia to link, opis odkrycia, metryczka, oświadczenia, deklaracja załączników i wybór podpisu. Przy mailu połowa zgłoszeń przychodzi niekompletna, a regulamin nie przewiduje wzywania do uzupełnienia - formularz z polami wymaganymi zdejmuje ten problem po stronie uczestnika i po stronie oceny formalnej.
+
+**Do rozstrzygnięcia z prawnikiem (obszar 1, pytanie 5a):** formularz zewnętrzny oznacza powierzenie danych, informację o odbiorcach i prawdopodobnie przekazanie poza EOG. Alternatywa to własny formularz na stronie, droższy w budowie i tańszy prawnie. Decyzja przed otwarciem naboru.
+
 ## Publikacja jako warunek udziału (zmiana z 20.10.2026)
 
 **Co się zmieniło.** Zgoda na publikację w archiwum przestała być opcjonalna, a zgoda na publikację w ogóle przestała być zgodą. Zgłaszając rozmowę, Uczestnik udziela **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** (§ 11 ust. 3): antologia, archiwum, wydanie elektroniczne i drukowane, w tym płatne, oraz sublicencja dla wydawcy. Uczestnik decyduje wyłącznie o tym, czy rozmowa jest podpisana nazwiskiem, czy pseudonimem.
