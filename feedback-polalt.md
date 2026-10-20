@@ -72,3 +72,22 @@ Osobno: **nie ma uzasadnienia dla granicy, według której 100 tys. zł przycią
 3. Weryfikacja jako warunek dopuszczenia, nowa definicja Rozpiętości, limit długości i liczenie słów Uczestnika - **przed konsultacją prawną**, bo to zmiany merytoryczne w regulaminie.
 4. Zamknięta próba oceny na kilku rozmowach - **przed naborem**.
 5. Pełny budżet z wyceną własnej pracy - **przed rozmową z fundatorem**.
+
+---
+
+## Runda czwarta - 20 października 2026
+
+Recenzja maila do Cezarego i noty dla Ministerstwa. **Zielone światło dla wysłania pakietu.**
+
+Przyjęte i naprawione w nocie: przywrócona bezwarunkowa obietnica "każde zgłoszenie czyta co najmniej dwie osoby" (brakowało wyjątku dla wstępnego przesiewu powyżej 200 zgłoszeń); archiwum opisywane jako przeciwieństwo próbki wyselekcjonowanej, choć samo jest wyselekcjonowane przez zgłoszenie i kwalifikację; zdanie o tym, że publikacja, a nie przelew stanowi o atrakcyjności konkursu, nieaktualne przy puli 300 tys.; niejasność, czy bezpłatność obejmuje wydanie drukowane; fundacja opisana jako już powołana; "warunek wejścia do rozmów" w punkcie 12.
+
+Przyjęte w mailu: prośba przeniesiona do pierwszego akapitu; diagnoza zawężona do siedmiu przejrzanych publikacji, bez twierdzeń o całej Polsce; argument przeformułowany po trafnej uwadze, że nauczyciel może wygenerować rozmowę na żywo przy klasie; usunięty ton recenzowania NauczAI; ujednolicone nazewnictwo na "list intencyjny" w temacie, treści i załączniku; skrócony akapit o autorze.
+
+Odrzucone, za zgodą recenzenta jako świadome decyzje autora: skrócenie maila o połowę i przeniesienie diagnozy za prośbę; usunięcie zdania o braku wkładu własnego w puli; usunięcie wzmianek o pieczęci i podpisie elektronicznym z projektu listu intencyjnego.
+
+Dwa zastrzeżenia recenzenta pozostają w mocy i nie blokują wysyłki, ale warto je pamiętać przy rozmowie z fundatorem:
+
+- **brak wkładu własnego sam w sobie nie dowodzi niezależności organizatora** - przy fundatorze trzeba będzie pokazać niezależność konstrukcją oceny, nie deklaracją;
+- **porównanie z Nike uzasadnia ambicję kwoty, nie jej konieczność ani skuteczność** - przed rozmową z PKO albo innym fundatorem potrzebne jest uzasadnienie kosztów i efektów samej inicjatywy, nie tylko indeksacja nagrody sprzed trzydziestu lat.
+
+Konstrukcja publikacji (licencja na czas oznaczony zamiast zgody, wycofanie do 30 dni przed wynikami) **nie jest uznana za zatwierdzoną prawnie** - pozostaje warunkiem do rozstrzygnięcia przed naborem, jako obszary 1 i 2 w `prawnik`.

@@ -3,13 +3,15 @@ Propozycja treści do dowolnej zmiany lub odrzucenia przez Ministerstwo Cyfryzac
 
 ---
 
+[nagłówek Ministerstwa Cyfryzacji]
+
+
 Warszawa, dnia ..........
 
 Znak sprawy: ..........
 
 
 Pan Krzysztof Olbiński
-SOURCE Krzysztof Olbiński
 ul. 11 Listopada 12/1
 98-200 Sieradz
 
@@ -28,5 +30,12 @@ Niniejsze pismo nie stanowi przyznania patronatu, zobowiązania finansowego ani 
 Adresat może posługiwać się niniejszym pismem w kontaktach z potencjalnymi partnerami i fundatorami Nagrody oraz publikować jego treść w całości, bez cytowania fragmentów w oderwaniu od pozostałych postanowień.
 
 
+(pieczęć urzędowa)
+
+
 ..........................................
 podpis, imię i nazwisko, stanowisko
+
+
+Pismo może zostać opatrzone kwalifikowanym podpisem elektronicznym zamiast
+podpisu odręcznego i pieczęci.
