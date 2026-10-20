@@ -17,7 +17,7 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 
 ## 2. Zgłoszenie
 
-Uczestnik przesyła: link do udostępnionej rozmowy, opis odkrycia (3-10 zdań), metryczkę (model, data), oświadczenia, deklarację załączników, opcjonalnie zgodę na archiwum rozmów. **Zgłoszenie musi być kompletne od razu** - Organizator nie wzywa do uzupełnienia. Przed terminem można przysłać wersję poprawioną, która zastępuje poprzednią.
+Uczestnik przesyła: link do udostępnionej rozmowy, opis odkrycia (3-10 zdań), metryczkę (model, data), oświadczenia, deklarację załączników oraz wskazanie, czy rozmowa ma być podpisana nazwiskiem, czy pseudonimem. **Publikacja nie wymaga odrębnej zgody**: zgłoszenie oznacza udzielenie licencji na pięć lat (§ 11 ust. 3). **Zgłoszenie musi być kompletne od razu** - Organizator nie wzywa do uzupełnienia. Przed terminem można przysłać wersję poprawioną, która zastępuje poprzednią.
 
 ## 3. Kopia archiwalna - natychmiast
 
@@ -82,7 +82,7 @@ Werdykt, wypłata nagród, rozliczenie podatku, wręczenie medalu i dyplomów.
 
 **Antologia:** 10 rozmów, pełny dialog bez montażu, z notą wprowadzającą, notami na marginesie w konkretnych momentach i notą końcową. **Noty pisze Kapituła**, każdy członek do przydzielonych sobie rozmów, podpisane nazwiskiem. Organizator redaguje, ujednolica i składa; czyta więc te 10 uważnie, ale nie tworzy komentarza od zera.
 
-**Archiwum rozmów:** tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę, i na które uczestnik wyraził zgodę. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
+**Archiwum rozmów:** tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę. Odrębna zgoda nie jest potrzebna, bo publikacja wynika z licencji udzielonej przy zgłoszeniu. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
 
 **Rytm publikacji:** całość udostępniana od dnia ogłoszenia wyników, a następnie poszczególne rozmowy porcjami przez rok następny, w rytmie dwutygodniowym, z komentarzem - żeby strona żyła w trakcie kolejnego naboru. Kolejność nie wynika z punktacji.
 
@@ -92,7 +92,7 @@ Wraz z wynikami publikowane są liczby: zgłoszenia otrzymane i te po ocenie for
 
 ## 14. Po edycji
 
-Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w terminie 60 dni od ogłoszenia wyników, poza tymi objętymi zgodą na archiwum. Dane laureatów przechowywane przez okres wymagany przepisami podatkowymi.
+Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w terminie 60 dni od ogłoszenia wyników, poza zakwalifikowanymi do archiwum. Dane laureatów przechowywane przez okres wymagany przepisami podatkowymi.
 
 ---
 

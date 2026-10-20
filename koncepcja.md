@@ -207,7 +207,7 @@ Czego nie zatrzymamy i nie chcemy zatrzymywać: człowieka, który zna temat, po
 
 **Coroczna antologia.** Dziesięć rozmów z krótkim wstępem jury wyjaśniającym, co w każdej było wartościowego. To właściwy nośnik idei - bardziej niż gala czy czek. Nagroda jest pretekstem, antologia produktem. Tytuły: "Konstelacje 2027" i kolejne roczniki.
 
-**Archiwum rozmów - osobno, za zgodą opcjonalną.** Uczestnik może przy zgłoszeniu zaznaczyć, że zgadza się na włączenie rozmowy do publicznego archiwum rozmów. Domyślnie publikowana jest tylko dziesiątka.
+**Archiwum rozmów - osobno od antologii.** Publikacja w archiwum wynika z licencji udzielonej przy zgłoszeniu i nie wymaga odrębnej zgody (zmiana z 20.10.2026, opisana niżej). Antologia to dziesiątka z komentarzem Kapituły; archiwum to szerszy zbiór bez komentarzy i bez punktacji.
 
 **Zakres archiwum - rozstrzygnięty 19.10.2026 na wariant B.** Archiwum obejmuje wyłącznie zgłoszenia, które **przeszły do rundy drugiej** i przed publikacją zostały przeczytane przez co najmniej dwie osoby oceniające (przy ok. 150 zgłoszeniach to 25-30 rozmów). Warunek dwóch odczytów jest w regulaminie osobny od nazwy rundy, bo w trybie przesiewu jednoosobowego oraz przy wejściu dziką kartą zgłoszenie może trafić do rundy drugiej po jednym odczycie; brakujący odczyt zapewnia się wtedy przed publikacją. Rozważany był wariant A, obejmujący wszystkie zgłoszenia za zgodą, i został odrzucony: wymagałby, żeby Organizator przeczytał przed publikacją wszystkie 150 rozmów, bo inaczej pod własną domeną ukazują się treści, których nikt odpowiedzialny nie widział. Dla uczestników, których rozmowa do archiwum nie weszła, przewidziana jest rekompensata bez kosztu: na żądanie dostają sporządzoną przez Organizatora kopię archiwalną i mogą ją opublikować sami, bo Organizator nie nabywa wyłączności. Regulamin § 11 ust. 9 lit. f-g.
 
@@ -314,7 +314,7 @@ Problem jest arytmetyczny: tysiąc zgłoszeń po 3000 słów to trzy miliony sł
 
 Pojawił się zarzut, że wysoka pula zniekształca obraz tego, jak ludzie naprawdę rozmawiają z AI. Jest chybiony: konkurs jest z natury **normatywny**, nie opisowy - dyktando pokazuje, jak należy pisać, a nie jak pisze przeciętny Polak, i nikt nie uważa tego za wadę. Optymalizacja pod wysoką stawkę może być wręcz cenniejsza edukacyjnie, bo pokazuje górną półkę możliwości.
 
-W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna** (dziesięć najlepszych = wzorzec), **archiwum rozmów jest opisowy** (zgłoszenia z rundy drugiej za zgodą, bez punktacji = obraz rzeczywisty szerszy niż dziesiątka).
+W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna** (dziesięć najlepszych = wzorzec), **archiwum rozmów jest opisowy** (zgłoszenia z rundy drugiej, bez punktacji = obraz rzeczywisty szerszy niż dziesiątka).
 
 Jedyna realna różnica wobec dyktanda: ortografia ma klucz odpowiedzi, nasze kryteria nie. Przy bardzo wysokiej stawce presja przenosi się więc nie na piszących, lecz na jury - stąd finał na żywo jako sposób na przywrócenie wspólnego punktu odniesienia.
 
@@ -437,6 +437,20 @@ Na każdą z dziesięciu rozmów składają się cztery elementy:
 **Nakład Organizatora:** redakcja, ujednolicenie stylu, uzupełnienie brakujących not, kontakt z uczestnikami dla uniknięcia nieścisłości, skład - około 45 godzin na całą antologię zamiast 120.
 
 **Dźwignia, którą trzeba uruchomić w formularzu oceny.** Regulamin wymaga, by każda ocena wskazywała fragment uzasadniający. Jeżeli formularz poprosi dodatkowo o **jedno zdanie komentarza przy tym fragmencie**, Kapituła i Akademia wytwarzają gotowe kandydatury na noty marginesowe w trakcie normalnej pracy. Nota podpisana nazwiskiem jurora jest w antologii mocniejsza niż komentarz organizatora, a nakład własny spada z pisania do redagowania. Do wdrożenia przy budowie panelu oceny.
+
+## Publikacja jako warunek udziału (zmiana z 20.10.2026)
+
+**Co się zmieniło.** Zgoda na publikację w archiwum przestała być opcjonalna, a zgoda na publikację w ogóle przestała być zgodą. Zgłaszając rozmowę, Uczestnik udziela **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** (§ 11 ust. 3): antologia, archiwum, wydanie elektroniczne i drukowane, w tym płatne, oraz sublicencja dla wydawcy. Uczestnik decyduje wyłącznie o tym, czy rozmowa jest podpisana nazwiskiem, czy pseudonimem.
+
+**Dlaczego nie "zgoda obowiązkowa".** Bo to pojęcie wewnętrznie sprzeczne. Zgoda wymuszona warunkiem udziału nie jest dobrowolna w rozumieniu art. 7 ust. 4 RODO, więc w razie sporu jest nieskuteczna, a Uczestnik mógłby ją cofnąć w dowolnym momencie. Licencja i warunek udziału dają ten sam skutek praktyczny na mocniejszej podstawie; tak działają konkursy fotograficzne i literackie.
+
+**Licencja na czas oznaczony to główne narzędzie trwałości.** Licencja bezterminowa podlega wypowiedzeniu, licencja na czas oznaczony nie. Pięć lat daje pewność co do antologii i archiwum w okresie, w którym mają znaczenie, a potem przechodzi w bezterminową.
+
+**Wycofanie zgłoszenia: do 30 dni przed ogłoszeniem wyników.** Termin zbiega się z zamknięciem treści antologii. Po nim wycofanie nie jest możliwe, a rozmowa może zostać opublikowana. Powód praktyczny, podniesiony przez organizatora: nie da się podmienić ebooka pobranego przez tysiąc osób ani wycofać egzemplarzy z obrotu, więc regulamin nie może tego obiecywać.
+
+**Czego mimo to nie da się wyłączyć.** Uprawnień ustawowych, w szczególności z RODO. § 11 ust. 9 mówi to wprost: żądanie usunięcia złożone po publikacji rozpatrywane jest indywidualnie, ważone wobec wolności wypowiedzi (art. 17 ust. 3 lit. a) i licencji, z odpowiedzią na piśmie, a Organizator nie zapewnia z góry, że rozmowa pozostanie opublikowana w każdym przypadku. Zapis "uczestnikowi nie przysługuje prawo do usunięcia danych" byłby nieskuteczny i źle by wyglądał.
+
+**Skutek uboczny, korzystny:** archiwum przestało zależeć od tego, ilu uczestników odhaczy okienko, więc nie ma już ryzyka, że zbiór okaże się wybiórczy z powodu rozkładu zgód. Zakres archiwum nadal wyznacza runda druga.
 
 ## Wydanie książkowe (ustalone 19.10.2026)
 
