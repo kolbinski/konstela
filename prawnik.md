@@ -12,9 +12,9 @@ Coroczny konkurs dla osób, które prowadzą pogłębione rozmowy z modelami szt
 
 Konstrukcja prawna przyjęta w dokumencie: **przyrzeczenie publiczne** (art. 919 i nast. k.c.), z wyraźnym wyłączeniem gry losowej, zryczałtowanym podatkiem 10% od nagród i organizatorem jako płatnikiem.
 
-## B. Pięć obszarów do rozstrzygnięcia
+## B. Sześć obszarów do rozstrzygnięcia
 
-Obszary 1 i 2 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytanie 23 dotyczy brzmienia zgody zbieranej już przy zgłoszeniu, więc jego rozstrzygnięcie jest potrzebne przed naborem.
+Obszary 1, 2 i 6 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytanie 23 dotyczy brzmienia zgody zbieranej już przy zgłoszeniu, więc jego rozstrzygnięcie jest potrzebne przed naborem.
 
 ---
 
@@ -98,7 +98,7 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 19. Czy uczestnik spoza Polski rodzi inne obowiązki podatkowe i czy regulamin powinien ograniczyć krąg uczestników.
 20. Czy możliwość nierozstrzygnięcia edycji jest skuteczna wobec osób, które już się zgłosiły, skoro przyrzeczenie publiczne wiąże od ogłoszenia.
 21. Jaka jest odpowiedzialność organizatora za treść rozmowy opublikowanej w antologii, jeżeli mimo procedur zawiera ona treść naruszającą czyjeś dobra osobiste; czy sensowne jest ubezpieczenie i jakiego rodzaju.
-22. Czy przeniesienie organizacji do fundacji przed pierwszą edycją zmieniłoby którąkolwiek z powyższych odpowiedzi na tyle, żeby było tego warte.
+22. Organizatorem będzie fundacja (decyzja z 20.10.2026, obszar 6). Czy zmienia to którąkolwiek z powyższych odpowiedzi, w szczególności co do płatnika podatku i odpowiedzialności za treść antologii.
 
 ---
 
@@ -110,9 +110,27 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 23. Czy objęcie wydania **płatnego** jedną nieodpłatną licencją udzielaną przy zgłoszeniu jest skuteczne wobec konsumenta, czy wymaga odrębnego zastrzeżenia albo osobnego dokumentu.
 24. Czy zapis o **udzieleniu dalszej licencji wydawcy** (sublicencji) w § 11 ust. 3 wystarczy, czy przy umowie z wydawcą konieczne będą odrębne umowy z każdym z dziesięciu uczestników.
-25. Czy przeznaczenie przychodu na pulę kolejnej edycji wymaga szczególnej konstrukcji księgowej albo prawnej przy jednoosobowej działalności gospodarczej, i czy zmieniłoby to sytuację powołanie fundacji.
+25. Czy przeznaczenie przychodu na pulę kolejnej edycji wymaga szczególnej konstrukcji księgowej albo prawnej po stronie fundacji.
 26. Czy brak podziału tantiem między autorów jest dopuszczalny przy nieodpłatnej licencji, skoro wydanie jest płatne, i co trzeba powiedzieć uczestnikowi przy zgłoszeniu, żeby było to uczciwe i skuteczne.
 27. Jakie obowiązki wiążą się z wydaniem książkowym po stronie organizatora: ISBN, egzemplarz obowiązkowy, odpowiedzialność wydawcy za treść.
+
+---
+
+### Obszar 6 (pilny): forma prawna organizatora i zabezpieczenie puli
+
+**Stan.** Decyzja z 20.10.2026: organizatorem pierwszej edycji będzie **fundacja**, powołana przeze mnie ze środków własnych i wpisana do KRS przed otwarciem naboru, czyli przed 1 stycznia 2027. Jednoosobowa działalność gospodarcza, którą prowadzę, nie jest organizatorem i nie przyjmuje środków sponsorskich. Powody: przyrzeczenie publiczne na docelowo 300 tys. zł obciążałoby przy JDG mój majątek osobisty; regulamin, polityka prywatności i umowa sponsorska mają wskazywać jeden podmiot od pierwszego dnia naboru; budżet sponsora łatwiej trafia do fundacji.
+
+Środki od sponsora organizacyjnego mają wpłynąć do fundacji **na podstawie faktury za usługę**, przy świadczeniu wzajemnym w postaci logo na stronie i wystąpienia podczas gali, a nie jako darowizna. Antologia ma być wydana przez partnera wydawniczego, który ją sprzedaje, a fundacja pobiera honorarium z licencji - przy takim modelu zakładam, że fundacja nie musi prowadzić działalności gospodarczej.
+
+**Pytania:**
+
+28. Czy przy przyjętym modelu (wydawca sprzedaje, fundacja pobiera honorarium licencyjne) fundacja musi mieć wpisaną działalność gospodarczą i wpis do rejestru przedsiębiorców, czy wystarczy działalność statutowa. Czy opłaca się wpisać działalność gospodarczą do statutu od razu, jako wariant zapasowy na wypadek braku wydawcy.
+29. Czy przyrzeczenie publiczne złożone przez świeżo powołaną fundację, która w chwili ogłoszenia nie ma jeszcze środków na pulę, wymaga zabezpieczenia - rachunku powierniczego, gwarancji, umowy z fundatorem zawartej przed ogłoszeniem puli - i jakie są tu minimalne wymagania, żeby ogłoszenie nie było wprowadzeniem w błąd.
+30. Jak powinna wyglądać umowa ze sponsorem organizacyjnym przy świadczeniu wzajemnym w postaci logo i wystąpienia na gali, w szczególności zakres używania znaku sponsora i skutki jego wycofania się po ogłoszeniu puli.
+31. Czy wskazanie Ministra Cyfryzacji jako organu nadzoru w statucie jest przy tych celach właściwe i czy rodzi jakiekolwiek obowiązki sprawozdawcze wykraczające poza standardowe.
+32. Czy fundacja, której fundatorem, a prawdopodobnie też jedynym członkiem zarządu, jestem ja, rodzi problem przy wypłacie wynagrodzenia za prowadzenie konkursu - a jeśli tak, jaka konstrukcja organów to rozwiązuje.
+
+---
 
 ## C. Co jest już rozstrzygnięte i czego nie trzeba analizować
 
@@ -127,6 +145,6 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 ## E. O co proszę na początek
 
-Nie o pełną opinię. O **wycenę i wskazanie, które z pięciu obszarów wymagają analizy, a które da się zamknąć jednym akapitem**. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
+Nie o pełną opinię. O **wycenę i wskazanie, które z sześciu obszarów wymagają analizy, a które da się zamknąć jednym akapitem**. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
 
-Zależy mi szczególnie na obszarach 1 i 2, ponieważ do czasu ich zamknięcia nie otwieram przyjmowania zgłoszeń, a więc nie przyjmuję żadnych danych osobowych.
+Zależy mi szczególnie na obszarach 1 i 2, ponieważ do czasu ich zamknięcia nie otwieram przyjmowania zgłoszeń, a więc nie przyjmuję żadnych danych osobowych, oraz na obszarze 6, ponieważ fundacja musi być wpisana do KRS przed otwarciem naboru, a termin rejestracji nie zależy ode mnie.
