@@ -107,7 +107,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 ## 8. Nagrody
 
-**Pieniężne [PROPOZYCJA]:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 100 tys. zł**.
+**Pieniężne [PROPOZYCJA]:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł oraz dziewięć wyróżnień po 10 tys. zł**, czyli pula 390 tys. zł. Uzasadnienie kwoty w punkcie 9.
 
 **Fizyczne [USTALONE]:** mosiężny medalion z pieczęcią konkursu, grawerowany, wręczany osobiście laureatowi; tłoczone dyplomy dla całej dziesiątki finalistów.
 
@@ -119,13 +119,15 @@ Konkurs jest niekomercyjny i bezpłatny dla uczestników. Nie przewiduję wpisow
 
 Profil poszukiwanego fundatora i widełki:
 
-| Wariant    | Kwota                 | Co obejmuje                                                            |
-|------------|-----------------------|------------------------------------------------------------------------|
-| Minimalny  | 20-30 tys. zł         | Pula edycji 1, obsługa prawna, nagrody fizyczne                        |
-| Docelowy   | 120-150 tys. zł       | Nagroda główna 100 tys. zł, wyróżnienia, druk antologii, gala finałowa |
-| Wieloletni | 300 tys. zł+ / 3 lata | Stabilność serii, program edukacyjny przy antologii                    |
+| Wariant    | Pula nagród        | Całość z produkcją | Co obejmuje                                                                           |
+|------------|--------------------|--------------------|---------------------------------------------------------------------------------------|
+| Minimalny  | 60 tys. zł         | ok. 110 tys. zł    | nagroda główna i wyróżnienia w skali ograniczonej, obsługa prawna, medal i dyplomy, antologia elektroniczna, bez gali |
+| Docelowy   | 390 tys. zł        | ok. 570 tys. zł    | nagroda główna 300 tys. zł, dziewięć wyróżnień po 10 tys. zł, produkcja antologii i archiwum, gala rozstrzygnięcia |
+| Wieloletni | 3 × poziom docelowy | -                 | zobowiązanie na trzy edycje: stabilność serii i program edukacyjny przy antologii      |
 
-Poziom docelowy nie jest wzięty z sufitu: **100 tys. zł dla laureata to górna półka polskich nagród** (dla porównania Nagroda Nike), czyli kwota, która lokuje Nagrodę Konstela w pierwszej lidze, a jednocześnie nie przekracza granicy, za którą konkurs zaczyna przyciągać osoby liczące kryteria zamiast prowadzące rozmowy. Wyższa pula działałaby przeciwko jakości zgłoszeń.
+Poziom docelowy nie jest wzięty z sufitu, tylko policzony. Najważniejsza polska nagroda literacka przyznaje od 1997 roku **100 tys. zł i kwota ta nie była od tamtej pory zmieniana**. Według indeksu cen konsumpcyjnych te same 100 tys. zł z 1997 roku odpowiada dziś około **315 tys. zł**, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **Nagroda główna w wysokości 300 tys. zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu**, a regulamin zabezpiecza się przed powtórzeniem tego błędu: pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu zgłoszeń (§ 9 ust. 3).
+
+Wysoka pula rodzi pytanie, czy nie przyciągnie osób liczących kryteria zamiast prowadzących rozmowy. Odpowiedzią nie jest niska kwota, lecz konstrukcja oceny: cztery kryteria premiują przebieg pracy, a nie efekt końcowy, ślepe uliczki i nieudane pytania nie obniżają oceny, a zgłoszenie oparte na twierdzeniu nieprawdziwym nie może zostać nagrodzone niezależnie od punktacji (§ 7 ust. 5-8).
 
 Kierunki, w których zamierzam szukać: instytucje finansowe i ubezpieczeniowe (CSR i kompetencje cyfrowe), firmy technologiczne, uczelnie, fundacje korporacyjne. **Nie planuję przyjmować finansowania od dostawców modeli językowych w edycjach krajowych** - konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty.
 
