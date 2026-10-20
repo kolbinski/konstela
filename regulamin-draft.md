@@ -104,7 +104,7 @@ Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupe
 
 ## § 7. Kryteria oceny merytorycznej
 
-Zgłoszenia ocenia się według czterech kryteriów o równej wadze, przyznając w każdym od 0 do 10 punktów. Słowne opisy pasm punktowych dla każdego kryterium zawiera [**Karta oceny**](/view.html?file=karta-oceny-draft.md), stanowiąca załącznik do Regulaminu i publikowana na stronie Nagrody:
+Zgłoszenia ocenia się według czterech kryteriów o równej wadze, przyznając w każdym od 0 do 10 punktów. Słowne opisy pasm punktowych dla każdego kryterium zawiera [**Karta oceny**](/view.html?file=karta-oceny-draft), stanowiąca załącznik do Regulaminu i publikowana na stronie Nagrody:
 
 1. **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin: oryginalne powiązanie wewnątrz jednej dziedziny może wymagać więcej pracy myślowej niż zestawienie dwóch dziedzin odległych. Połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.
 2. **Drążenie** - czy Uczestnik dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi; czy późniejsze pytania wynikają z wcześniejszych odpowiedzi.

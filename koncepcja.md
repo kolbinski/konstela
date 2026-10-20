@@ -1,8 +1,8 @@
 # Nagroda Konstela - koncepcja
 
-*Stan na 19 października 2026. Dokument opisuje stan aktualny; rozstrzygnięte kwestie są wpisane w treść, nie w osobną listę.*
+_Stan na 19 października 2026. Dokument opisuje stan aktualny; rozstrzygnięte kwestie są wpisane w treść, nie w osobną listę._
 
-Dokumenty powiązane: `konstela-regulamin.md` (projekt roboczy, do konsultacji prawnej), strona pierwszej edycji (opublikowana).
+Dokumenty powiązane: [Regulamin](view.html?file=regulamin) (projekt roboczy, do konsultacji prawnej), strona pierwszej edycji (opublikowana).
 
 ---
 
@@ -61,6 +61,7 @@ Analogia: przy starcie Nagrody Nike organizator nie wydał wzorcowej powieści z
 Rozważana i odrzucona po drodze: sekcja "Jak to wygląda w praktyce" z opisem jednej rozmowy organizatora oraz modal z jej pełnym zapisem. Odrzucone z dwóch powodów - bias powyżej, a dodatkowo zapis wymagał oznaczeń "pominięto inne wątki", co zawsze wygląda na wybiórczość.
 
 Z tego wynikają dwie zasady pochodne:
+
 - **Nie zamawiamy wzorcowej rozmowy za pieniądze.** Rozmowa napisana po to, by trafić na stronę, jest z definicji inscenizacją - tym, czego zakazuje regulamin, tylko ze zleceniodawcą po stronie organizatora.
 - **Można natomiast poprosić kogoś o udostępnienie rozmowy, którą już odbył** - to nic nie kosztuje i niczego nie zmyśla. Pierwsze przykłady publikujemy dopiero z antologią, czyli po rozstrzygnięciu.
 
@@ -73,6 +74,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 - **Minimum 800 słów wypowiedzi Uczestnika i minimum 12 jego wypowiedzi** w wątku, bez wypowiedzi modelu, oraz **maksimum 25 000 słów całości**. Historia: próg 3000 słów łącznie dało się przekroczyć jednym rozwlekłym wykładem modelu, więc 19.10.2026 zmieniono go na 1200 słów samego Uczestnika; tego samego dnia, po recenzji Gemini, obniżono go do 800 i uzupełniono o minimum liczby wypowiedzi. Powód obniżki: sam próg słów premiuje rozmowy długie i wyklucza gęste, zwięzłe dialogi, w których błyskotliwe połączenie zamyka się w 600 słowach. Powód dodania progu wypowiedzi: bez niego 800 słów można wyczerpać jednym rozbudowanym poleceniem, a to nie jest rozmowa.
 
   **Kto liczy (rozstrzygnięte 19.10.2026).** Liczenie jest czynnością Organizatora, wykonywaną automatycznie na kopii archiwalnej, a nie zadaniem Uczestnika; regulamin mówi to wprost i dodaje tolerancję pięciu procent rozstrzyganą na korzyść Uczestnika. Rozważana była wtyczka do Chrome licząca słowa po stronie uczestnika i została odrzucona: wymagałaby osobnego parsera dla każdego dostawcy przy markupie zmieniającym się co kilka tygodni, własnej polityki prywatności, recenzji w Chrome Web Store i uprawnień do domen czatów, a przede wszystkim stawiałaby instalację wtyczki jako warunek wstępny udziału w konkursie. Skrypt archiwizujący i tak parsuje rozmowę, więc policzy słowa i wypowiedzi przy okazji. Przy dwunastu wypowiedziach próg 800 słów to około 67 słów na wiadomość, więc w praktyce nie wiąże samodzielnie. Do rozważenia przy drugiej edycji: prosty licznik na stronie konkursu, działający w przeglądarce uczestnika i nieprzesyłający nigdzie tekstu.
+
 - **Jeden czat.** Jeden ciągły wątek, nie historia pocięta na kilkanaście okien.
 - **Po polsku.** Nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne.
 - **Bez osób prywatnych** - zasada o temacie, nie o anonimizacji: rozmowa o kimś nieznanym publicznie odpada nawet pod inicjałem. Konsekwencja: odpadają rozmowy o relacjach, rodzinie i konfliktach w pracy, czyli spora część realnych zastosowań. Zostają tematy, które da się opublikować, co jest spójne z antologią jako produktem.
@@ -95,6 +97,7 @@ Powód przesunięcia pierwszej edycji na 2027: daje ponad dwa miesiące na patro
 **Mechanizm puli rosnącej.** Wysokość nagród ogłaszana jest dopiero **w dniu otwarcia zgłoszeń** (wiosna 2027), wraz z listą partnerów, i od tej chwili wiąże organizatora. Potem może już **tylko rosnąć**, w miarę przystępowania kolejnych partnerów; obniżenie albo odwołanie jest wyłączone. Przed tym dniem organizator nie składa przyrzeczenia publicznego, więc podawany poziom docelowy jest deklaracją zamiaru, nie zobowiązaniem.
 
 Dlaczego tak, a nie "minimum 5000 zł" na stronie:
+
 - słowo "minimum" to gwarancja, a gwarancji bez sponsora nie ma - trzeba by ją pokryć z własnej kieszeni,
 - publiczne przyrzeczenie nagrody jest w polskim prawie wiążące; ogłoszona kwota bez pokrycia to realne zobowiązanie wobec laureata, a nie deklaracja,
 - jawny licznik puli ("aktualnie: 0 zł") zamienia porażkę w pozyskiwaniu sponsorów w element strony widoczny dla wszystkich.
@@ -109,22 +112,22 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **Pełny budżet pierwszej edycji (po recenzji z 19.10.2026).** Poprzedni szacunek 1,5-2,5 tys. zł obejmował wyłącznie wydatki gotówkowe i przez to zaniżał koszt projektu kilkunastokrotnie. Poniżej rachunek uczciwy, z pracą organizatora wycenioną, nawet jeżeli pozostanie wkładem nieodpłatnym.
 
-| Pozycja | Koszt gotówkowy | Praca organizatora |
-|---|---:|---:|
-| Domeny, hosting, poczta (rok) | 150 zł | - |
-| Konsultacja prawna regulaminu i polityki | 1 500-3 000 zł | 10 h |
-| Księgowy: wariant rozliczenia, podatek od nagród | w ramach obsługi JDG | 5 h |
-| Medal i dyplomy | 600-1 200 zł | 5 h |
-| Pozyskanie fundatora i partnerów | - | 60-100 h |
-| Rekrutacja i obsługa jury | - | 30 h |
-| Próba kalibracyjna oceny przed naborem | - | 20 h |
-| Obsługa zgłoszeń, formalna weryfikacja, korespondencja | - | 40-80 h |
-| Rozmowy weryfikacyjne z finalistami | - | 10 h |
-| Redakcja antologii i warstwy dydaktycznej | 0-4 000 zł (redaktor) | 60-100 h |
-| Gala albo wręczenie osobiste, przejazdy | 500-3 000 zł | 15 h |
-| Komunikacja, strona, poprawki, reklamacje | - | 40 h |
-| Rezerwa (15%) | ok. 1 000 zł | - |
-| **Razem** | **3 750-12 350 zł** | **295-415 h** |
+| Pozycja                                                |       Koszt gotówkowy | Praca organizatora |
+| ------------------------------------------------------ | --------------------: | -----------------: |
+| Domeny, hosting, poczta (rok)                          |                150 zł |                  - |
+| Konsultacja prawna regulaminu i polityki               |        1 500-3 000 zł |               10 h |
+| Księgowy: wariant rozliczenia, podatek od nagród       |  w ramach obsługi JDG |                5 h |
+| Medal i dyplomy                                        |          600-1 200 zł |                5 h |
+| Pozyskanie fundatora i partnerów                       |                     - |           60-100 h |
+| Rekrutacja i obsługa jury                              |                     - |               30 h |
+| Próba kalibracyjna oceny przed naborem                 |                     - |               20 h |
+| Obsługa zgłoszeń, formalna weryfikacja, korespondencja |                     - |            40-80 h |
+| Rozmowy weryfikacyjne z finalistami                    |                     - |               10 h |
+| Redakcja antologii i warstwy dydaktycznej              | 0-4 000 zł (redaktor) |           60-100 h |
+| Gala albo wręczenie osobiste, przejazdy                |          500-3 000 zł |               15 h |
+| Komunikacja, strona, poprawki, reklamacje              |                     - |               40 h |
+| Rezerwa (15%)                                          |          ok. 1 000 zł |                  - |
+| **Razem**                                              |   **3 750-12 350 zł** |      **295-415 h** |
 
 Przy stawce rynkowej inżyniera oprogramowania rzędu 150-200 zł za godzinę praca organizatora to **45-80 tys. zł**. To nie jest kwota do wystawienia komukolwiek, ale jest to prawdziwy koszt pierwszej edycji i tak należy o nim myśleć przy rozmowie z fundatorem oraz przy decyzji, czy projekt w ogóle warto prowadzić bez wynagrodzenia.
 
@@ -134,10 +137,10 @@ Przy stawce rynkowej inżyniera oprogramowania rzędu 150-200 zł za godzinę pr
 
 Dwie konstrukcje do rozmowy z fundatorem:
 
-| Wariant | Pula | Obsługa | Razem | Charakter |
-|---|---:|---:|---:|---|
-| Prestiżowy | 100 tys. | 30 tys. | 130 tys. | nagroda na poziomie Nike, mocna w mediach i wobec patrona; pokrywa mniej niż połowę wyceny pracy |
-| Realistyczny | 50 tys. | 30 tys. | 80 tys. | łatwiej o fundatora, proporcja zdrowa, pierwsza edycja ma prawo być skromna |
+| Wariant      |     Pula | Obsługa |    Razem | Charakter                                                                                        |
+| ------------ | -------: | ------: | -------: | ------------------------------------------------------------------------------------------------ |
+| Prestiżowy   | 100 tys. | 30 tys. | 130 tys. | nagroda na poziomie Nike, mocna w mediach i wobec patrona; pokrywa mniej niż połowę wyceny pracy |
+| Realistyczny |  50 tys. | 30 tys. |  80 tys. | łatwiej o fundatora, proporcja zdrowa, pierwsza edycja ma prawo być skromna                      |
 
 Zasada rozmowy: nie licytować puli na pierwszym spotkaniu. Podawać widełki i mówić wprost, że pula i obsługa to dwie osobne pozycje, których proporcję ustalacie wspólnie. Fundator dokładający do puli zwykle dokłada też do obsługi, bo nie chce, żeby jego nagroda posypała się na organizacji.
 
@@ -156,6 +159,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 **Nagrody fizyczne - nieogłaszane na stronie.** Mosiężny medalion z pieczęcią (grawer laserowy, ~150-250 zł) dla laureata, wręczany osobiście; tłoczone dyplomy dla całej dziesiątki, wysyłane pocztą. Pojawiają się publicznie dopiero jako materiał zdjęciowy po wręczeniu. Niezapowiedziany przedmiot działa jak prezent, zapowiedziany - jak pozycja, którą można porównać z ceną. Pieczęć ze strony jest w SVG, więc idzie do grawera bez przerysowywania.
 
 **Do ustalenia z księgowym przed ogłoszeniem:**
+
 - 10% zryczałtowany podatek od nagród - czy ubruttowić pulę (koszt ok. 555 zł przy nagrodzie głównej), żeby laureat dostał równe 5000,
 - czy wydatek da się zaliczyć do kosztów JDG.
 
@@ -168,6 +172,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 **Panel za hasłem** na stronie Nagrody: link, opis odkrycia, metryczka, neutralne streszczenie tematu.
 
 **Rola AI w ocenie - ograniczona i zapisana w regulaminie.** Narzędzia automatyczne robią wyłącznie: weryfikację warunków formalnych i opisowe streszczenia. **Nie oceniają, nie punktują, nie ustalają kolejności.** Powody:
+
 1. Modele oceniające mają udokumentowaną skłonność do nagradzania tekstu długiego, płynnego i uporządkowanego - czyli działają przeciw naszemu własnemu kryterium o ślepych uliczkach.
 2. "Każdy czyta, ile chce" przy rankingu AI oznacza w praktyce, że wszyscy czytają pierwszą dziesiątkę; ranking staje się rozstrzygnięciem, a jury ratyfikacją, i to niewidocznie.
 3. Wizerunkowo: nagroda za rozmowy z AI rozstrzygana przez AI to gotowy nagłówek przeciw nam.
@@ -191,6 +196,7 @@ Rozróżnienie zapisane w regulaminie:
 - **Przygotowanie dozwolone**: notatki, plan wątków, wcześniejsze konsultacje.
 
 Co zatrzymuje scenariusz "napisz mi rozmowę, którą wygram":
+
 1. **Weryfikacja** - żeby przyłapać model na zmyśleniu, trzeba wiedzieć, jak jest naprawdę; scenariusz nie przewidzi, co model odpowie w nowym czacie.
 2. **Rozpiętość bez własnego materiału** - gdy obie strony wiedzy pochodzą od modelu, rozmowa jest zamknięta i czyta się jako gładka i pusta.
 3. **Plon** - scenariusz nie wyprodukuje konsekwencji poza rozmową.
@@ -216,6 +222,7 @@ Czego nie zatrzymamy i nie chcemy zatrzymywać: człowieka, który zna temat, po
 **Czego świadomie nie robimy: publikacji zgłoszeń bieżącego rocznika na bieżąco.** Pomysł był rozważany 19.10.2026 i odrzucony z trzech powodów. Po pierwsze psuje kalendarz: kto zgłasza się w styczniu, oddaje konkurencji swój warsztat na jedenaście miesięcy, więc racjonalny uczestnik czeka do 15 stycznia, co odtwarza lawinę pod koniec terminu, przed którą miał chronić pełny rok naboru. Po drugie psuje anonimowość oceny - czytelnik dostaje w lutym rozmowę, którą w październiku widział w mediach społecznościowych z nazwiskiem autora. Po trzecie tworzy ryzyko publicznego odwoływania publikacji przy inscenizacji albo wycofaniu zgody po zaindeksowaniu. Treść na rok 2027, w którym nie ma jeszcze poprzedniego rocznika: rozmowy kalibracyjne z komentarzem (i tak powstają na próbę oceny), profile Gwiazd Jury i Akademii publikowane pojedynczo w miarę potwierdzania udziału, licznik zgłoszeń i noty o bieżącym etapie.
 
 Dlaczego nie publikujemy automatycznie wszystkiego, co przeszło ocenę formalną:
+
 - licencja obejmuje antologię; szersza zgoda wymuszona na wszystkich odstraszyłaby część zgłaszających,
 - przy publikacji organizator odpowiada za treść, a sito formalne sprawdza warunki, nie zawartość,
 - wartość antologii bierze się z kuratorskiego wyboru; trzydzieści przeciętnych rozmów obok dziesiątki rozmywa przekaz,
@@ -246,6 +253,7 @@ Dlaczego mimo to archiwum rozmów istnieje: to materiał badawczy i dokumentacyj
 Skład mieszany, 3-5 osób: literatura (prowadzenie narracji), nauka i metodologia (weryfikacja, rzetelność), praktyk pracujący z modelami, osoba spoza branży (test zrozumiałości z zewnątrz). Jedno miejsce warto zostawić wolne do drugiej edycji - będzie czym kusić.
 
 **Jak przekonywać:**
+
 - Policzyć im czas uczciwie i podać w wiadomości. **Poprzedni szacunek 3-4 godzin był nierealny** (recenzja 19.10.2026): przy 30 zgłoszeniach po 3000 słów juror czytał 90 tys. słów, czyli około 7,5 godziny samego czytania. Po wprowadzeniu górnego limitu długości i podziale zgłoszeń między jurorów szacunek trzeba policzyć od nowa, z czasu czytania plus sprawdzania i notowania, i podać z zapasem. "Zapraszam do jury" to prośba nieokreślona, na którą odpowiada się ciszą, ale zaniżony szacunek jest gorszy: juror zorientuje się po pierwszej edycji i nie wróci.
 - Zdjąć z nich wszystko poza czytaniem: sito, kontakt, rozmowy weryfikacyjne, protokoły, wysyłka - po stronie organizatora. Napisać to wprost; każdy, kto był w jakimkolwiek jury, boi się administracji.
 - Dać materiał, którego nie mają: dziesięć realnych transkryptów pracy ludzi z modelami, przed publikacją.
@@ -288,6 +296,7 @@ Wniosek: nagroda i szukanie zarobku to dwa osobne tory. Łatwo wmówić sobie, �
 **Przy tej stawce wąskim gardłem przestają być pieniądze, a staje się weryfikowalność.** ARC Prize działa, bo ocenia benchmark - wynik liczy maszyna i nie ma sporu. Nasze kryteria są z natury miękkie, więc przy milionie dolarów dochodzą tysiące zgłoszeń, odwołania od oceny i prawnicy, a jury nie ma klucza odpowiedzi, którym mogłoby się zasłonić.
 
 **Rozwiązanie: finał na żywo.** Etapy wstępne zostają jak dziś (zgłoszenia, ocena jury), ale finałowa dziesiątka prowadzi rozmowę **na zadany temat, w warunkach obserwowanych, w ograniczonym czasie**. Rozwiązuje to trzy rzeczy naraz:
+
 - inscenizacja przestaje być możliwa,
 - ocena przestaje być wyłącznie uznaniowa, bo wszyscy mają ten sam punkt startu,
 - powstaje materiał, który da się pokazać w telewizji - wątek TVP Nauka dostaje wtedy treść, a nie tylko zapowiedź.
@@ -338,11 +347,11 @@ Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nag
 
 **Rachunek przepustowości.** Rozmowa o realnej średniej około 6000 słów to przy uważnym czytaniu z notatkami około 40 minut, czyli godzina pracy oceniającego to półtorej rozmowy.
 
-| Liczba zgłoszeń | Model "każdy czyta wszystko" | Wniosek |
-|---:|---:|---|
-| 20 | 14 h na osobę | wykonalne, Akademia niepotrzebna |
-| 50 | 35 h na osobę | koniec tego modelu |
-| 150 | 100 h na osobę | niemożliwe |
+| Liczba zgłoszeń | Model "każdy czyta wszystko" | Wniosek                          |
+| --------------: | ---------------------------: | -------------------------------- |
+|              20 |                14 h na osobę | wykonalne, Akademia niepotrzebna |
+|              50 |                35 h na osobę | koniec tego modelu               |
+|             150 |               100 h na osobę | niemożliwe                       |
 
 **Próg, przy którym potrzebna jest runda przesiewowa, leży około 50 zgłoszeń, nie przy tysiącach.** Wcześniejsze założenie, że Akademia to sprawa trzeciej edycji, było błędne: 150 zgłoszeń to umiarkowany sukces, a nie klęska urodzaju. Progi uruchamiania zapisane w § 8 regulaminu: do 20 bez Akademii, 21-60 pierwsza runda po dwóch czytających, 61-200 przydział maksymalnie 20 zgłoszeń na czytającego i lista rezerwowa, powyżej 200 przesiew po jednym czytającym.
 
@@ -351,6 +360,7 @@ Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nag
 **Skąd brać Akademię w edycji pierwszej.** Doktoranci i studenci ostatnich lat filozofii, kognitywistyki, polonistyki i kierunków zajmujących się metodologią nauki; nauczyciele polskiego i filozofii; bibliotekarze z bibliotek wojewódzkich; redaktorzy pism piszących o AI. Zapłatą jest nazwisko w antologii w spisie czytelników edycji, zaświadczenie, zaproszenie na galę i wcześniejszy dostęp do archiwum rozmów.
 
 **Pakiet uznania dla Akademii (ustalone 19.10.2026).** Do powyższego dochodzą dwie rzeczy, tanie i mocne:
+
 - **Egzemplarz drukowanej antologii z podpisami Kapituły.** Ponieważ druk wchodzi jesienią, a gala jest w marcu, podpisy zbiera się na gali na osobnych kartach (ekslibrisach) wklejanych do egzemplarzy wysyłanych jesienią. Daje to drugi kontakt z Akademią pół roku po wydarzeniu, czyli dokładnie w momencie rekrutacji na kolejną edycję. Nakład na ten cel to Akademia, Kapituła i dziesiątka finalistów, czyli około 30 egzemplarzy, koszt rzędu tysiąca złotych - kwota na tyle mała, że można ją obiecać przy zapraszaniu, niezależnie od losów wydania handlowego.
 - **Zdjęcie grupowe Kapituły, laureatów i obecnej Akademii.** Warunki: pisemna zgoda na wizerunek zbierana przed galą razem z potwierdzeniem obecności, oraz uczciwy podpis, bo część Akademii to wolontariusze z całej Polski i nie wszyscy dojadą - zdjęcie obejmuje obecnych, nie "całą Akademię".
 
@@ -373,6 +383,7 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 **Konstrukcja u nas.** Dziesiątka finalistów jest wspólną listą, a nie wynikiem. Kapituła wybiera z niej laureata nagrody głównej. Uczniowie czytają tę samą dziesiątkę i niezależnie, nie znając werdyktu kapituły, wybierają swojego laureata. Zwykle wychodzi ktoś inny; jeśli trafią na tę samą rozmowę, nosi ona obie nagrody. W antologii każda rozmowa dostaje adnotację, kto ją wyróżnił.
 
 **Dlaczego osobna nagroda, a nie uczniowie w akademii czytającej.** Trzy powody, wszystkie wynikają z odrzucenia wcześniejszego wariantu (19.10.2026):
+
 1. **Konflikt interesów.** Licealiści to naturalna pula uczestników; uczeń nie może oceniać konkursu, w którym startuje kolega z klasy albo on sam.
 2. **Dzika karta wymaga doświadczenia.** Prawo przepchnięcia rozmowy wbrew średniej ma ocalać rzecz osobliwą, ale działa tylko w rękach kogoś, kto odróżnia osobliwość od efekciarstwa, a przy kryterium Weryfikacji potrafi rozpoznać zmyślone źródło.
 3. **To rozwiązuje problem, którego w edycji pierwszej nie ma.** Akademia czytająca odpowiada na tysiące zgłoszeń; pierwsza edycja ma mieć kilkanaście i jury trzy- do pięcioosobowe.
@@ -475,6 +486,7 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 **Zasada neutralności.** Regulamin stanowi, że Nagroda nie wskazuje ani nie promuje żadnego dostawcy, a jakość modelu nie podlega ocenie. Pojedyncze laboratorium jako sponsor tytularny tę zasadę łamie: każda nagrodzona rozmowa odbyta z jego modelem staje się podejrzana, a użytkownicy pozostałych modeli dostają powód, żeby się nie zgłaszać. Pula główna nie pochodzi więc od jednego dostawcy modeli. Jeżeli kiedykolwiek pochodziłaby od kilku naraz, udział każdego jest jawny i żaden nie ma wpływu na ocenę ani na skład jury.
 
 **Co laboratorium może dać zamiast pieniędzy do puli**, od najłatwiejszego do uzyskania:
+
 1. **Kredyty API** na panel oceny, narzędzia archiwizujące i pracę redakcyjną. Budżet istniejący w każdym laboratorium, wydawany bez decyzji zarządu.
 2. **Nazwisko badacza w Kapitule.** Nic nie kosztuje, a domyka warunek uruchomienia z § 10 ust. 5.
 3. **Zasięg.** Jeden wpis z oficjalnego konta daje więcej zgłoszeń niż kampania, na którą i tak nie ma budżetu.
@@ -491,12 +503,12 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 ## Do zrobienia przed naborem (z recenzji 19.10.2026)
 
 - [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 18 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
-- [x] **Opisy pasm punktowych** - gotowe w `konstela-karta-oceny.md` (19.10.2026), załącznik do regulaminu, publikowany.
+- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](view.html?file=karta-oceny-draft) (19.10.2026), załącznik do regulaminu, publikowany.
 - [ ] **Warstwa dydaktyczna antologii**: nota wprowadzająca przed rozmową, noty na marginesie w konkretnych momentach, nota końcowa. Pełny dialog bez montażu zostaje.
 - [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
 - [x] **Styk zgody z licencją** - rozstrzygnięty w § 11 ust. 5-8 i w polityce prywatności (19.10.2026): do ogłoszenia wyników usunięcie zgłoszenia, po publikacji anonimizacja.
 - [ ] Próba kalibracyjna oceny na kilku rozmowach spoza edycji.
-- [ ] Konsultacja prawna (pytania w `konstela-prawa-do-wypowiedzi-modelu.md`) i rozmowa z księgowym.
+- [ ] Konsultacja prawna (pytania w [prawie do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu)) i rozmowa z księgowym.
 - [ ] Aktualizacja wpisu w CEIDG (adres) przed publikacją wersji ostatecznej regulaminu.
 
 ## Otwarte pytania

@@ -1,6 +1,6 @@
 # Karta oceny - Nagroda Konstela
 
-Załącznik do [Regulaminu](view.html?file=regulamin-draft.md). Dokument roboczy dla Kapituły i Akademii, publikowany również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
+Załącznik do [Regulaminu](view.html?file=regulamin-draft). Dokument roboczy dla Kapituły i Akademii, publikowany również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
 
 Każde z czterech kryteriów punktowane jest od 0 do 10. Pasma poniżej są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać fragment rozmowy uzasadniający ocenę**. Przy rozbieżności większej niż 4 punkty w którymkolwiek kryterium zarządzana jest ocena trzecia.
 

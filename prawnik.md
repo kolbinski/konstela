@@ -2,13 +2,13 @@
 
 Krzysztof Olbiński · konstela.org · contact@konstela.org · +48 503 520 004
 
-Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje cztery obszary do rozstrzygnięcia i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst jest w załączeniu i pod adresem konstela.org/regulamin.
+Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje pięć obszarów do rozstrzygnięcia i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst jest w załączeniu i pod adresem konstela.org/regulamin.
 
 ---
 
 ## A. Co to jest, w pięciu zdaniach
 
-Coroczny konkurs dla osób, które prowadzą pogłębione rozmowy z modelami sztucznej inteligencji. Oceniane są pytania zadawane przez człowieka, a nie odpowiedzi modelu; zgłoszeniem jest link do udostępnionej rozmowy, a nie plik z transkryptem. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, a szerszy zbiór rozmów zakwalifikowanych do drugiej rundy w publicznym archiwum, w obu przypadkach za zgodą uczestnika. Nagrody pieniężne pochodzą od fundatora zewnętrznego; organizator nie pobiera żadnych opłat od uczestników. Pierwsza edycja obejmuje rozmowy z 2027 roku, zgłoszenia do 15 stycznia 2028, rozstrzygnięcie w marcu 2028, a **nabór nie zostanie otwarty przed zakończeniem tej konsultacji** - to warunek wpisany do § 10 ust. 5 regulaminu.
+Coroczny konkurs dla osób, które prowadzą pogłębione rozmowy z modelami sztucznej inteligencji. Oceniane są pytania zadawane przez człowieka, a nie odpowiedzi modelu; zgłoszeniem jest link do udostępnionej rozmowy, a nie plik z transkryptem. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, a szerszy zbiór rozmów zakwalifikowanych do drugiej rundy w publicznym archiwum; publikacja jest warunkiem udziału, na podstawie licencji udzielanej przy zgłoszeniu (§ 11 ust. 3). Nagrody pieniężne pochodzą od fundatora zewnętrznego; organizator nie pobiera żadnych opłat od uczestników. Pierwsza edycja obejmuje rozmowy z 2027 roku, zgłoszenia do 15 stycznia 2028, rozstrzygnięcie w marcu 2028, a **nabór nie zostanie otwarty przed zakończeniem tej konsultacji** - to warunek wpisany do § 10 ust. 5 regulaminu.
 
 Konstrukcja prawna przyjęta w dokumencie: **przyrzeczenie publiczne** (art. 919 i nast. k.c.), z wyraźnym wyłączeniem gry losowej, zryczałtowanym podatkiem 10% od nagród i organizatorem jako płatnikiem.
 
@@ -26,13 +26,13 @@ Obszary 1 i 2 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed
 
 Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do podstawy:
 
-| Warstwa | Co obejmuje |
-|---|---|
-| Udział w konkursie | imię i nazwisko, rok urodzenia, miejscowość, adres e-mail |
-| Treść rozmowy | kopia archiwalna sporządzana przez organizatora, czytana przez jurorów |
-| Wypłata i podatek | dane do przelewu i rozliczenia, przechowywane przez okres podatkowy |
-| Publikacja | antologia i archiwum rozmów, jako warunek udziału, na podstawie licencji z § 11 ust. 3 |
-| Dane osób trzecich | wzmiankowane w rozmowie mimo zakazu zgłaszania rozmów o osobach prywatnych |
+| Warstwa            | Co obejmuje                                                                            |
+| ------------------ | -------------------------------------------------------------------------------------- |
+| Udział w konkursie | imię i nazwisko, rok urodzenia, miejscowość, adres e-mail                              |
+| Treść rozmowy      | kopia archiwalna sporządzana przez organizatora, czytana przez jurorów                 |
+| Wypłata i podatek  | dane do przelewu i rozliczenia, przechowywane przez okres podatkowy                    |
+| Publikacja         | antologia i archiwum rozmów, jako warunek udziału, na podstawie licencji z § 11 ust. 3 |
+| Dane osób trzecich | wzmiankowane w rozmowie mimo zakazu zgłaszania rozmów o osobach prywatnych             |
 
 **Pytania:**
 
@@ -41,7 +41,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 3. Czy treść rozmowy wymaga odrębnej podstawy od danych rejestracyjnych i czy przy kopii archiwalnej potrzebne jest coś więcej niż informacja o jej sporządzeniu.
 4. Czy przyjęte terminy retencji są prawidłowe: 60 dni od ogłoszenia wyników dla nienagrodzonych, okres podatkowy dla laureatów, do 24 miesięcy dla materiału zakwalifikowanego do archiwum, lecz jeszcze nieopublikowanego.
 5. Czy potrzebna jest umowa powierzenia wobec osób oceniających, które czytają rozmowy w panelu, czy wystarczy upoważnienie do przetwarzania.
-5a. Zgłoszenia przyjmowane będą przez **zewnętrzny formularz (Google Forms)**, a kopie archiwalne przechowywane w prywatnym magazynie. Jakie to rodzi obowiązki: umowa powierzenia, informacja o odbiorcach danych, przekazanie poza EOG, i czy przy tej skali rozsądniej zbudować formularz własny na stronie Nagrody.
+   5a. Zgłoszenia przyjmowane będą przez **zewnętrzny formularz (Google Forms)**, a kopie archiwalne przechowywane w prywatnym magazynie. Jakie to rodzi obowiązki: umowa powierzenia, informacja o odbiorcach danych, przekazanie poza EOG, i czy przy tej skali rozsądniej zbudować formularz własny na stronie Nagrody.
 
 **Oczekiwany produkt:** gotowa klauzula informacyjna do § 12 i do polityki prywatności oraz wskazanie podstaw przetwarzania dla każdej warstwy.
 
@@ -55,18 +55,18 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 
 **Problem.** Rozmowa może identyfikować autora niezależnie od podpisu: przez zawód, nazwę projektu, opisaną sytuację, miejsce. Usunięcie podpisu nie czyni wtedy danych anonimowymi, a dane pozwalające na ponowną identyfikację pozostają danymi osobowymi. Obietnica, że rozmowa zawsze pozostanie opublikowana, może więc być obietnicą niedotrzymywalną.
 
-**Co już zrobiłem.** Oparłem trwałość publikacji na prawie autorskim, a nie wyłącznie na ochronie danych: licencja na czas oznaczony nie podlega wypowiedzeniu. Niezależnie od tego: § 11 ust. 6 przewiduje usunięcie również wskazanych przez uczestnika fragmentów identyfikujących, a § 11 ust. 7 mówi wprost, że organizator nie zapewnia z góry, iż rozmowa pozostanie opublikowana w każdym przypadku, i że żądanie usunięcia rozpatrywane jest indywidualnie. To jest rozwiązanie tymczasowe, bo przerzuca niepewność na uczestnika zamiast ją usuwać.
+**Co już zrobiłem.** Oparłem trwałość publikacji na prawie autorskim, a nie wyłącznie na ochronie danych: licencja na czas oznaczony nie podlega wypowiedzeniu. Niezależnie od tego: § 11 ust. 9 przewiduje usunięcie podpisu oraz wskazanych przez uczestnika fragmentów identyfikujących i mówi wprost, że organizator nie zapewnia z góry, iż rozmowa pozostanie opublikowana w każdym przypadku, a żądanie usunięcia rozpatrywane jest indywidualnie. To wciąż przerzuca część niepewności na uczestnika i dlatego potrzebuję rozstrzygnięcia.
 
 **Pytania:**
 
 6. Czy art. 17 ust. 3 lit. a RODO może stanowić podstawę odmowy usunięcia w tej konfiguracji, a jeśli tak, to pod jakimi warunkami i jak je udokumentować w momencie publikacji, a nie dopiero przy żądaniu.
 7. Czy antologia publikowana nieodpłatnie przez osobę fizyczną prowadzącą działalność gospodarczą korzysta z wyłączenia dla celów dziennikarskich, artystycznych lub literackich, i czy zmieniłoby to sytuację wydanie jej przez wydawcę albo fundację.
-8. Jak sformułować wobec uczestnika obietnicę, która będzie jednocześnie uczciwa i dotrzymywalna: co dokładnie mogę zagwarantować w chwili, gdy zbieram zgodę na publikację.
+8. Jak sformułować wobec uczestnika obietnicę, która będzie jednocześnie uczciwa i dotrzymywalna: co dokładnie mogę zagwarantować w chwili, gdy przyjmuję zgłoszenie i licencję.
 9. Czy przyjęta konstrukcja **licencji na czas oznaczony pięciu lat**, niepodlegającej wypowiedzeniu, jest wobec osoby fizycznej dopuszczalna i skuteczna, czy nie wchodzi w kolizję z RODO i czy pięć lat jest właściwym okresem.
-9a. Czy ograniczenie wycofania zgłoszenia do 30 dni przed ogłoszeniem wyników jest skuteczne wobec konsumenta i czy nie stanowi klauzuli niedozwolonej.
+   9a. Czy ograniczenie wycofania zgłoszenia do 30 dni przed ogłoszeniem wyników jest skuteczne wobec konsumenta i czy nie stanowi klauzuli niedozwolonej.
 10. Co z egzemplarzami drukowanymi wprowadzonymi do obrotu i z kopiami rozpowszechnionymi przez osoby trzecie, których organizator nie kontroluje.
 
-**Oczekiwany produkt:** brzmienie § 11 ust. 3 oraz ust. 5-8, zgodne z tym, co faktycznie da się dotrzymać.
+**Oczekiwany produkt:** brzmienie § 11 ust. 3 oraz ust. 6-9, zgodne z tym, co faktycznie da się dotrzymać.
 
 ---
 
@@ -74,7 +74,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 
 **Stan.** Przyjmuję, że wypowiedzi modelu nie są utworem w rozumieniu prawa autorskiego, ponieważ utworem jest przejaw działalności twórczej człowieka. W antologii jako autor rozmowy figuruje wyłącznie uczestnik, a model wymieniany jest w metryczce jako użyte narzędzie, nigdy jako współautor. Uczestnik udziela licencji do swoich wypowiedzi oraz do rozmowy jako całości w zakresie doboru i układu, a także oświadcza, że publiczne udostępnienie rozmowy jest zgodne z regulaminem dostawcy modelu.
 
-Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-AI i Nagrody Akutagawy 2024, jest w osobnym załączniku `konstela-prawa-do-wypowiedzi-modelu.md`.
+Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-AI i Nagrody Akutagawy 2024, jest w osobnym załączniku [prawa do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu).
 
 **Pytania:**
 
@@ -104,14 +104,14 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 ### Obszar 5: wydanie płatne i zakres licencji
 
-**Stan.** Antologia ukazuje się nieodpłatnie w postaci elektronicznej (§ 9 ust. 1). Planowane jest również wydanie płatne, w pierwszej kolejności w druku na żądanie, docelowo u wydawcy. § 11 ust. 3 daje organizatorowi **nieodpłatną, niewyłączną licencję** na publikację rozmowy w antologii, jej udostępnianie w internecie i cytowanie we fragmentach. Decyzją organizatora (19.10.2026), wpisaną do § 13 ust. 4, **cały przychód ze sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji**; organizator nie osiąga z tego zysku.
+**Stan.** Antologia ukazuje się nieodpłatnie w postaci elektronicznej (§ 9 ust. 1). Planowane jest również wydanie płatne, w pierwszej kolejności w druku na żądanie, docelowo u wydawcy. § 11 ust. 3 obejmuje już wprost wydanie drukowane, w tym płatne, oraz udzielenie dalszej licencji wydawcy - pytania niżej dotyczą tego, czy to brzmienie jest skuteczne. Decyzją organizatora (19.10.2026), wpisaną do § 13 ust. 4, **cały przychód ze sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji**; organizator nie osiąga z tego zysku.
 
 **Pytania:**
 
-23. Czy licencja z § 11 ust. 3 w obecnym brzmieniu obejmuje wydanie **płatne**, czy wymaga to odrębnego zastrzeżenia; jeżeli tak, jak je sformułować, żeby nie zmieniać charakteru zgody na dobrowolną.
-24. Czy obejmuje ona prawo do **udzielenia dalszej licencji wydawcy** (sublicencji), czy przy umowie z wydawcą konieczne będą odrębne umowy z każdym z dziesięciu uczestników.
+23. Czy objęcie wydania **płatnego** jedną nieodpłatną licencją udzielaną przy zgłoszeniu jest skuteczne wobec konsumenta, czy wymaga odrębnego zastrzeżenia albo osobnego dokumentu.
+24. Czy zapis o **udzieleniu dalszej licencji wydawcy** (sublicencji) w § 11 ust. 3 wystarczy, czy przy umowie z wydawcą konieczne będą odrębne umowy z każdym z dziesięciu uczestników.
 25. Czy przeznaczenie przychodu na pulę kolejnej edycji wymaga szczególnej konstrukcji księgowej albo prawnej przy jednoosobowej działalności gospodarczej, i czy zmieniłoby to sytuację powołanie fundacji.
-26. Czy brak podziału tantiem między autorów jest dopuszczalny przy nieodpłatnej licencji, skoro wydanie jest płatne, i co trzeba powiedzieć uczestnikowi w chwili zbierania zgody, żeby było to uczciwe i skuteczne.
+26. Czy brak podziału tantiem między autorów jest dopuszczalny przy nieodpłatnej licencji, skoro wydanie jest płatne, i co trzeba powiedzieć uczestnikowi przy zgłoszeniu, żeby było to uczciwe i skuteczne.
 27. Jakie obowiązki wiążą się z wydaniem książkowym po stronie organizatora: ISBN, egzemplarz obowiązkowy, odpowiedzialność wydawcy za treść.
 
 ## C. Co jest już rozstrzygnięte i czego nie trzeba analizować
@@ -120,10 +120,10 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 ## D. Załączniki
 
-- `regulamin-draft.md` - wersja robocza regulaminu ze znacznikami w miejscach, których dotyczy ta konsultacja
-- `konstela-prawa-do-wypowiedzi-modelu.md` - przegląd doktryny i precedensów do obszaru 3
-- `polityka-prywatnosci-draft.md` - robocza polityka prywatności do przepisania
-- `konstela-przebieg-edycji.md` - przebieg edycji krok po kroku, jeżeli pomocny jest kontekst operacyjny
+- [Regulamin](view.html?file=regulamin-draft) - wersja robocza regulaminu ze znacznikami w miejscach, których dotyczy ta konsultacja
+- [Prawa do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu) - przegląd doktryny i precedensów do obszaru 3
+- [Polityka prywatności](view.html?file=polityka-prywatnosci-draft) - robocza polityka prywatności do przepisania
+- [Przebieg edycji](view.html?file=przebieg-edycji) - przebieg edycji krok po kroku, jeżeli pomocny jest kontekst operacyjny
 
 ## E. O co proszę na początek
 

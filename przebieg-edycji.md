@@ -1,6 +1,6 @@
 # Przebieg edycji - kto, co i kiedy
 
-Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby przykładowe dla 50 zgłoszeń.
+Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby przykładowe dla 150 zgłoszeń, czyli dla umiarkowanego sukcesu frekwencyjnego.
 
 ## 0. Przed otwarciem naboru
 
@@ -9,7 +9,7 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 | Warunki uruchomienia | Organizator | pula ma pokrycie w zobowiązaniu fundatora, co najmniej 3 osoby potwierdziły udział w Kapitule, regulamin po konsultacji prawnej |
 | Ogłoszenie puli nagród | Organizator | od tego dnia przyrzeczenie publiczne wiąże; pula może już tylko rosnąć |
 | Powołanie Akademii i listy rezerwowej | Organizator | Akademia powoływana na jedną edycję |
-| Próba kalibracyjna | Kapituła + Akademia | te same 3-5 rozmów spoza edycji, ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej |
+| Próba kalibracyjna | Kapituła + Akademia | te same **trzy** rozmowy spoza edycji (§ 8 ust. 12), ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej; te same rozmowy wracają jako kotwice |
 
 ## 1. Okno rozmów
 

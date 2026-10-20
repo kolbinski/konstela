@@ -2,10 +2,6 @@
 
 Cezary Wujciński, główny specjalista, Wydział Inwestycji w Nowe Technologie, Departament Badań i Innowacji.
 
-**Załączniki:**
-1. konstela-dla-ministerstwa.md → wysłać jako PDF
-2. list-intencyjny-projekt.txt → wysłać jako DOCX, żeby dało się w nim edytować
-
 ---
 
 **Temat:** Nagroda Konstela - nagroda za rozmowy z AI, prośba o list intencyjny
@@ -44,7 +40,6 @@ Krzysztof Olbiński
 ## Notatki do wysyłki
 
 - Linki działają: strona i regulamin są opublikowane pod własną domeną (19.10.2026).
-- Załączniki wygenerować: PDF z konstela-dla-ministerstwa.md oraz DOCX z list-intencyjny-projekt.txt.
 - Data poprzedniego kontaktu: kwiecień. Jeśli pamiętasz konkret z tamtej wymiany, dopisz pół zdania - konkret działa lepiej niż sam miesiąc.
 - Wysyłamy jako nowy mail, nie jako odpowiedź w kwietniowym wątku: po sześciu miesiącach temat wiadomości jest ważniejszy niż historia pod spodem.
 - Nie wspominać w mailu o formie prawnej organizatora. Na etapie listu intencyjnego to nie jest jego sprawa, a wpisanie JDG zamyka drogę do fundacji, jeśli okaże się potrzebna przy fundatorze instytucjonalnym.
