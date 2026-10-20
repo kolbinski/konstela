@@ -14,7 +14,7 @@ Coroczna nagroda dla ludzi, którzy prowadzą z AI rozmowy odkrywcze - nagradzam
 
 - Wszystkie istniejące nagrody (Loebner Prize 1991-2020, Alexa Prize) oceniały **systemy**: czy maszyna udaje człowieka, czy utrzyma rozmowę przez 20 minut. Nikt nie nagradza **człowieka po drugiej stronie**.
 - Większość ludzi nie umie rozmawiać z modelem: jedno pytanie, jedna odpowiedź, wyjście. Antologia dobrych rozmów to najlepszy możliwy materiał pokazujący, jak to robić.
-- Za 10 lat nikt nie będzie pamiętał, jak wyglądał ten okres, kiedy ludzie i modele dopiero uczyli się siebie nawzajem. To jest dokument epoki.
+- Nagroda dokumentuje epokę na bieżąco: każdy rocznik antologii i archiwum jest zapisem tego, jak rozmowy człowieka z modelem wyglądały w danym roku. Za dziesięć lat będą wyglądały inaczej - i właśnie dlatego dzisiejszy zapis ma wartość, której później nie da się odtworzyć.
 - Nagradzanie pytań rozwiązuje problem współautorstwa: nie trzeba rozstrzygać, kto napisał które zdanie, bo oceniamy prowadzenie rozmowy, a to w całości zasługa człowieka.
 
 ## Nazwa
@@ -502,6 +502,7 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 
 ## Do zrobienia przed naborem (z recenzji 19.10.2026)
 
+- [ ] **Przywrócić na stronie informację o statusie naboru.** Notka "Trwają przygotowania, nabór jeszcze nie został otwarty" została z nagłówka usunięta 20.10.2026, bo strony i tak nikt nie zna przed pozyskaniem sponsorów. Informacja została wyłącznie na końcu sekcji "Jak i kiedy zgłosić". **Przed pierwszym wysłaniem komukolwiek linku** trzeba ją przywrócić wyżej albo zastąpić komunikatem o otwartym naborze - zależnie od momentu.
 - [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 18 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
 - [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](view.html?file=karta-oceny-draft) (19.10.2026), załącznik do regulaminu, publikowany.
 - [ ] **Warstwa dydaktyczna antologii**: nota wprowadzająca przed rozmową, noty na marginesie w konkretnych momentach, nota końcowa. Pełny dialog bez montażu zostaje.
