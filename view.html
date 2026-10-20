@@ -262,6 +262,24 @@
         gap: 1rem;
         flex-wrap: wrap;
       }
+      .masthead .left {
+        display: flex;
+        align-items: baseline;
+        gap: 0.6rem;
+        min-width: 0;
+      }
+      .masthead a.back {
+        font-family: var(--body);
+        font-size: 1.25rem;
+        line-height: 1;
+        color: var(--muted);
+        text-decoration: none;
+        flex: none;
+        align-self: center;
+      }
+      .masthead a.back:hover {
+        color: var(--brass);
+      }
       .masthead a.brand {
         font-family: var(--display);
         font-size: 1.35rem;
@@ -529,7 +547,10 @@
   </head>
   <body>
     <header class="masthead">
-      <a class="brand" href="/">Nagroda Konstela</a>
+      <span class="left">
+        <a class="back" href="/" aria-label="Wróć na stronę główną">&#8592;</a>
+        <a class="brand" href="/">Nagroda Konstela</a>
+      </span>
       <span class="tag">nagroda za rozmowy z AI</span>
     </header>
 
