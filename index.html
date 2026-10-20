@@ -353,7 +353,9 @@
       .hero-text {
         background: var(--surface);
         display: flex;
-        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
         padding: 1.75rem 1.6rem;
         min-width: 0;
       }
@@ -370,6 +372,14 @@
         color: var(--muted);
         max-width: 26ch;
         margin: 0;
+      }
+      .lede-sub {
+        font-family: var(--body);
+        font-size: 0.95rem;
+        line-height: 1.5;
+        color: var(--text);
+        max-width: 26ch;
+        margin: 0.9rem 0 0;
       }
       .edition {
         margin-top: 0;
@@ -597,9 +607,10 @@
           </figure>
           <div class="hero-text">
             <p class="lede">
-              Za rozmowy z AI, w których ktoś połączył kropki, których sam
-              wcześniej nie łączył.
+              Za najlepsze rozmowy z AI, w których ktoś połączył kropki
+              w układ, jakiego sam wcześniej nie dostrzegał.
             </p>
+            <p class="lede-sub">Nagradzamy ludzi, nie sztuczną inteligencję.</p>
           </div>
         </div>
 
