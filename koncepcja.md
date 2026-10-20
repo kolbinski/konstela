@@ -35,7 +35,7 @@ Odrzucone: "Nagroda za Rozmowę" (mdła), "Nagroda Aixe" (nieczytelna wymowa, mo
 
 Kryterium operacyjne:
 
-> Rozmowa, w której człowiek doszedł do czegoś, czego nie wiedział na wejściu, i co da się nazwać.
+> Rozmowa, w której człowiek doszedł do czegoś, czego nie wiedział na wejściu, i co da się nazwać - a w zapisie da się wskazać moment, w którym to się stało.
 
 Cztery kryteria o równej wadze, 0-10 punktów każde:
 

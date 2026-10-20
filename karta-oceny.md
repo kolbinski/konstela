@@ -4,6 +4,12 @@ Załącznik do [Regulaminu](view.html?file=regulamin). Dokument dla Kapituły i 
 
 Każde z czterech kryteriów punktowane jest od 0 do 10. Pasma poniżej są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać fragment rozmowy uzasadniający ocenę**. Przy rozbieżności większej niż 4 punkty w którymkolwiek kryterium zarządzana jest ocena trzecia.
 
+**Kryterium operacyjne.** Zanim przejdziesz do czterech kryteriów, sprawdź, czy rozmowa w ogóle spełnia to, czego szukamy:
+
+> Rozmowa, w której człowiek doszedł do czegoś, czego nie wiedział na wejściu, i co da się nazwać - a w zapisie da się wskazać moment, w którym to się stało.
+
+Nie jest to osobne kryterium punktowane i nie zastępuje czterech poniższych. Jest testem czytelności: jeżeli po przeczytaniu nie potrafisz jednym zdaniem powiedzieć, do czego ten człowiek doszedł, ani wskazać wypowiedzi, w której to nastąpiło, to zwykle znajdzie to odbicie w niskiej ocenie Plonu i Drążenia. Odwrotnie nie działa: możliwość nazwania plonu sama w sobie nie daje punktów w żadnym kryterium.
+
 **Zasada nadrzędna:** oceniamy wkład Uczestnika w prowadzenie rozmowy. Jakość modelu nie podlega ocenie, a jakość wytworów powstałych w rozmowie nie daje punktów w żadnym kryterium.
 
 **Załączniki.** Uczestnik mógł wgrać do rozmowy pliki: dokument, dane, obraz, kod. Oceniać można wyłącznie to, co widać w kopii archiwalnej. Jeżeli treść załącznika nie jest w kopii widoczna, **nie potwierdzamy plonu na niej opartego** - tak samo jak nie przyznajemy punktów za trafność modelu.
