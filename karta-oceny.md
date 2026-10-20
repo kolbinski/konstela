@@ -80,6 +80,8 @@ Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło,
 
 **Mierzy się to, co wyniósł człowiek, nie to, co wyprodukował model.** Rozmowa, w której powstał dopracowany projekt, a Uczestnik jedynie przyjmował kolejne propozycje, oceniana jest niżej niż rozmowa, w której nie powstało nic poza zrozumieniem.
 
+**Skutek powstały poza rozmową.** Uczestnik może w opisie odkrycia wspomnieć, co z rozmowy wynikło później: stronę, aplikację, tekst, usługę, podjętą decyzję, i podać odnośnik. **Nie punktujemy tego.** Ani istnienie takiego skutku, ani jego jakość czy skala nie podnoszą oceny - inaczej nagroda po cichu zamieniłaby się w konkurs na najlepszy produkt, wygrywany przez tego, kto lepiej programuje, a nie lepiej pyta. Punktujemy to, co widać w rozmowie: moment, w którym zapadła decyzja albo rozwiązał się problem. Jeżeli ten moment jest w rozmowie widoczny, Plon jest wysoki niezależnie od tego, czy coś z niego potem powstało. Informacja o skutku przydaje się natomiast przy pisaniu noty do antologii. Regulamin § 7 ust. 10 lit. d.
+
 ---
 
 ## Warunek nadrzędny: rzetelność

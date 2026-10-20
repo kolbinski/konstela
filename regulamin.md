@@ -52,7 +52,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 1a. Adres contact@konstela.org służy do korespondencji w sprawach Nagrody, w tym do pytań Uczestników, zgłoszeń o błędzie odwzorowania kopii (§ 5 ust. 9) i wniosków, o których mowa w § 13.
 2. Zgłoszenie zawiera łącznie:
    a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu);
-   b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło;
+   b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło. Uczestnik może w nim wspomnieć, co z rozmowy wynikło później - powstałą stronę, aplikację, tekst, usługę albo podjętą decyzję - i podać do tego odnośnik. **Informacja ta stanowi kontekst, nie dowód, i nie podlega punktacji** (§ 7 ust. 10 lit. d);
    c) **dane Uczestnika**: imię i nazwisko, rok urodzenia, miejscowość, adres e-mail;
    c1) **metryczkę rozmowy**: nazwę użytego modelu i jego dostawcy oraz przybliżoną datę przeprowadzenia rozmowy;
    d) oświadczenia z § 11 ust. 1;
@@ -120,7 +120,8 @@ Dodatkowo:
    a) jakość, złożoność ani efektowność artefaktu nie dają punktów w żadnym kryterium;
    b) kryterium **Plon** mierzy to, co z rozmowy wyniósł człowiek, a nie to, co wyprodukował model; rozmowa, w której powstał dopracowany projekt, ale Uczestnik jedynie przyjmował kolejne propozycje, oceniana jest niżej niż rozmowa, w której nie powstało nic poza zrozumieniem;
    c) artefakt, bez którego rozmowa jest niezrozumiała (omawiany wykres, załączony tekst, fragment kodu, do którego Uczestnik się odnosi), **musi być widoczny** w udostępnionym linku albo opisany w zgłoszeniu w stopniu pozwalającym zrozumieć dialog; jego brak może skutkować odrzuceniem zgłoszenia jako niekompletnego, przy czym sam artefakt nadal nie jest oceniany. Opis zamieszczony w zgłoszeniu **służy wyłącznie zrozumieniu kontekstu**: nie stanowi dowodu osiągnięcia, nie zastępuje treści widocznej w kopii i nie jest dodatkowym ocenianym dialogiem (§ 5 ust. 8);
-   d) obrazy wygenerowane w rozmowie mogą zostać zachowane w antologii jako ilustracja jej przebiegu, również bez wpływu na ocenę.
+   d) **skutek rozmowy powstały poza nią** - wytwór, projekt, publikacja, usługa albo decyzja, o których Uczestnik wspomniał w opisie odkrycia (§ 5 ust. 2 lit. b) - nie jest oceniany: ani jego istnienie, ani jakość, ani skala nie podnoszą punktacji w żadnym kryterium. Ocenie podlega wyłącznie to, co widać w samej rozmowie; jeżeli to w niej zapadła decyzja albo powstało rozwiązanie, Plon punktowany jest na podstawie tego, co w rozmowie widoczne (§ 5 ust. 8). Powód: nagroda ocenia prowadzenie rozmowy, a nie wytworzony produkt, a odnośnik zewnętrzny jest niesprawdzalny i zmienny. Informacja o skutku może natomiast zostać wykorzystana w nocie Kapituły towarzyszącej rozmowie w antologii (§ 8 ust. 13a);
+   e) obrazy wygenerowane w rozmowie mogą zostać zachowane w antologii jako ilustracja jej przebiegu, również bez wpływu na ocenę.
 
 11. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń oraz próby obejścia zabezpieczeń modelu. Rozmowy o charakterze terapeutycznym i wsparciowym podlegają odrzuceniu już na etapie formalnym (§ 6 ust. 11).
 12. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
