@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Nagroda Konstela">
+  <title>Nagroda Konstela</title>
+
+  <!-- pierścień -->
+  <circle cx="32" cy="32" r="29" fill="none" stroke="#000" stroke-width="3"/>
+
+  <!-- linie konstelacji -->
+  <g fill="none" stroke="#000" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 43 L25 30 L35 34 L41 23"/>
+    <path d="M41 23 L47 39" stroke-dasharray="3 3.5"/>
+  </g>
+
+  <!-- gwiazdy -->
+  <g fill="#000">
+    <circle cx="18" cy="43" r="3.4"/>
+    <circle cx="25" cy="30" r="4.4"/>
+    <circle cx="35" cy="34" r="3.4"/>
+    <circle cx="41" cy="23" r="4.4"/>
+  </g>
+
+  <!-- gwiazda jeszcze niepołączona -->
+  <circle cx="47" cy="39" r="3.6" fill="none" stroke="#000" stroke-width="2.4"/>
+</svg>
