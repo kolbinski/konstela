@@ -14,7 +14,7 @@ Konstrukcja prawna przyjęta w dokumencie: **przyrzeczenie publiczne** (art. 919
 
 ## B. Sześć obszarów do rozstrzygnięcia
 
-Obszary 1, 2 i 6 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytanie 23 dotyczy brzmienia zgody zbieranej już przy zgłoszeniu, więc jego rozstrzygnięcie jest potrzebne przed naborem.
+Obszary 1, 2 i 6 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytania 23 oraz 29-33 dotyczą treści zobowiązania zaciąganego już przy zgłoszeniu, więc ich rozstrzygnięcie jest potrzebne przed naborem.
 
 ---
 
@@ -114,6 +114,15 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 26. Czy brak podziału tantiem między autorów jest dopuszczalny przy nieodpłatnej licencji, skoro wydanie jest płatne, i co trzeba powiedzieć uczestnikowi przy zgłoszeniu, żeby było to uczciwe i skuteczne.
 27. Jakie obowiązki wiążą się z wydaniem książkowym po stronie organizatora: ISBN, egzemplarz obowiązkowy, odpowiedzialność wydawcy za treść.
 
+**Trwałość publikacji po upływie pięciu lat.** Termin pięciu lat przyjąłem dlatego, że licencję udzieloną na okres dłuższy uważa się po upływie tego okresu za udzieloną na czas nieoznaczony, a taka podlega wypowiedzeniu (art. 68 pr. aut.). Oznacza to jednak, że po pięciu latach dalsze udostępnianie antologii i archiwum wymaga odnowienia zgody. Przy antologii to dziesięć osób rocznie, z którymi organizator miał kontakt osobisty; przy archiwum - kilkadziesiąt osób rocznie, a po pięciu latach kilkaset, w większości nieosiągalnych. Tymczasem wobec Ministerstwa i wobec partnerów projekt jest opisywany jako dokument epoki, a antologia jako pozostająca w sieci bezterminowo.
+
+28. Czy da się skutecznie zapewnić trwałość publikacji dłuższą niż pięć lat, nie narażając się na wypowiedzenie licencji - a jeżeli tak, to jaką konstrukcją.
+29. **Licencje Creative Commons dla warstwy publicznej.** Rozważane jest udostępnianie antologii i archiwum na licencji CC BY-NC-ND 4.0, obok licencji udzielanej organizatorowi przez uczestnika. Czy deklarowana w CC 4.0 nieodwołalność i udzielenie na czas trwania praw autorskich są skuteczne na gruncie prawa polskiego wobec art. 68 pr. aut., czy też po pięciu latach licencja i tak staje się wypowiadalna.
+30. Czy człon NC (zakaz wykorzystania komercyjnego) w licencji publicznej daje się pogodzić z płatnym wydaniem książkowym prowadzonym przez samego organizatora - i czy rozwiązaniem jest podwójne licencjonowanie: CC BY-NC-ND dla ogółu oraz odrębna licencja dla organizatora na wydanie płatne.
+31. Czy człon ND (zakaz opracowań) blokuje tłumaczenie rozmów na potrzeby planowanej edycji międzynarodowej, i czy warto zamiast niego zastrzec coś węższego.
+32. Czy alternatywą wartą rozważenia jest **przeniesienie autorskich praw majątkowych** do zgłoszonej rozmowy zamiast licencji - przy świadomości, że wymaga ono formy pisemnej pod rygorem nieważności, co przy zgłoszeniu przez formularz oznacza osobny obieg dokumentów. Czy przy dziesiątce finalistów jest to wykonalne, a przy archiwum nie, czy raczej odradza Pan tę drogę w całości.
+33. Czy do zgłoszenia warto dodać odrębną zgodę na kontakt w sprawie przedłużenia licencji po upływie okresu, i jak ją sformułować, żeby była skuteczna i nie naruszała zasady dobrowolności.
+
 ---
 
 ### Obszar 6 (pilny): forma prawna organizatora i zabezpieczenie puli
@@ -124,11 +133,11 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 **Pytania:**
 
-28. Czy przy przyjętym modelu (wydawca sprzedaje, fundacja pobiera honorarium licencyjne) fundacja musi mieć wpisaną działalność gospodarczą i wpis do rejestru przedsiębiorców, czy wystarczy działalność statutowa. Czy opłaca się wpisać działalność gospodarczą do statutu od razu, jako wariant zapasowy na wypadek braku wydawcy.
-29. Czy przyrzeczenie publiczne złożone przez świeżo powołaną fundację, która w chwili ogłoszenia nie ma jeszcze środków na pulę, wymaga zabezpieczenia - rachunku powierniczego, gwarancji, umowy z fundatorem zawartej przed ogłoszeniem puli - i jakie są tu minimalne wymagania, żeby ogłoszenie nie było wprowadzeniem w błąd.
-30. Jak powinna wyglądać umowa ze sponsorem organizacyjnym przy świadczeniu wzajemnym w postaci logo i wystąpienia na gali, w szczególności zakres używania znaku sponsora i skutki jego wycofania się po ogłoszeniu puli.
-31. Czy wskazanie Ministra Cyfryzacji jako organu nadzoru w statucie jest przy tych celach właściwe i czy rodzi jakiekolwiek obowiązki sprawozdawcze wykraczające poza standardowe.
-32. Czy fundacja, której fundatorem, a prawdopodobnie też jedynym członkiem zarządu, jestem ja, rodzi problem przy wypłacie wynagrodzenia za prowadzenie konkursu - a jeśli tak, jaka konstrukcja organów to rozwiązuje.
+34. Czy przy przyjętym modelu (wydawca sprzedaje, fundacja pobiera honorarium licencyjne) fundacja musi mieć wpisaną działalność gospodarczą i wpis do rejestru przedsiębiorców, czy wystarczy działalność statutowa. Czy opłaca się wpisać działalność gospodarczą do statutu od razu, jako wariant zapasowy na wypadek braku wydawcy.
+35. Czy przyrzeczenie publiczne złożone przez świeżo powołaną fundację, która w chwili ogłoszenia nie ma jeszcze środków na pulę, wymaga zabezpieczenia - rachunku powierniczego, gwarancji, umowy z fundatorem zawartej przed ogłoszeniem puli - i jakie są tu minimalne wymagania, żeby ogłoszenie nie było wprowadzeniem w błąd.
+36. Jak powinna wyglądać umowa ze sponsorem organizacyjnym przy świadczeniu wzajemnym w postaci logo i wystąpienia na gali, w szczególności zakres używania znaku sponsora i skutki jego wycofania się po ogłoszeniu puli.
+37. Czy wskazanie Ministra Cyfryzacji jako organu nadzoru w statucie jest przy tych celach właściwe i czy rodzi jakiekolwiek obowiązki sprawozdawcze wykraczające poza standardowe.
+38. Czy fundacja, której fundatorem, a prawdopodobnie też jedynym członkiem zarządu, jestem ja, rodzi problem przy wypłacie wynagrodzenia za prowadzenie konkursu - a jeśli tak, jaka konstrukcja organów to rozwiązuje.
 
 ---
 
