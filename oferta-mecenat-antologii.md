@@ -20,29 +20,34 @@ W Polsce nie istnieje dziś żaden zbiór zapisów rzeczywistych rozmów człowi
 
 ## Kwota
 
-**76 440 zł netto** (94 021,20 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej.
+**185 250 zł netto** (227 857,50 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej.
 
-| Pozycja                                                           |            Netto |
-| ------------------------------------------------------------------ | -----------------: |
+| Pozycja                                                           |             Netto |
+| ------------------------------------------------------------------ | ------------------: |
+| Powołanie fundacji-organizatora (notariusz, KRS, fundusz)         |       3 000 zł |
+| Konsultacja prawna przed otwarciem naboru                         |       6 000 zł |
+| Domeny, poczta, hosting, narzędzia publikacyjne i archiwizujące   |       1 500 zł |
+| Przebudowa strony Nagrody: UI/UX i teksty (agencja zewnętrzna)    |      15 000 zł |
 | Koordynator wydania, styczeń-marzec 2028 (umowa zlecenia)         |      18 000 zł |
 | Korekta językowa antologii                                        |       4 000 zł |
 | Skład i przygotowanie do druku (DTP)                              |       3 000 zł |
 | Druk pierwszego nakładu antologii (100 egz.)                      |       4 000 zł |
-| Domeny, poczta, hosting, narzędzia publikacyjne i archiwizujące   |       1 500 zł |
-| Powołanie fundacji-organizatora (notariusz, KRS, fundusz)         |       3 000 zł |
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
-| **Koszty bezpośrednie razem**                                     |  **33 500 zł** |
+| **Koszty bezpośrednie razem**                                     |  **54 500 zł** |
 | Redakcja, skład treści, publikacja archiwum przez rok (115 godz.) |      25 300 zł |
-| Narzut organizacyjny i rezerwa (30%)                              |      17 640 zł |
-| **Razem netto**                                                   |  **76 440 zł** |
-| VAT 23%                                                           |   17 581,20 zł |
-| **Do zapłaty brutto**                                             | **94 021,20 zł** |
+| Oprogramowanie: archiwizacja zgłoszeń, ocena formalna, panel oceny, archiwum na stronie (285 godz.) |      62 700 zł |
+| Narzut organizacyjny i rezerwa (30%)                              |      42 750 zł |
+| **Razem netto**                                                   | **185 250 zł** |
+| VAT 23%                                                           |   42 607,50 zł |
+| **Do zapłaty brutto**                                             | **227 857,50 zł** |
 
-Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna. Narzut pokrywa pracę nieujętą w godzinach rozliczanych wprost, w tym pozyskiwanie partnerów, oraz przekroczenia po stronie korekty i druku. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji; organizator nie osiąga z wydania zysku, a cały przychód ze sprzedaży wydania drukowanego jest przeznaczony na nagrody kolejnej edycji.
+**Wariant podstawowy: 98 540 zł netto (121 204,20 zł brutto).** Jeżeli Mecenas nie jest zainteresowany sfinansowaniem całej platformy Nagrody, propozycję można zawęzić do samej antologii i archiwum: odpadają wtedy cztery narzędzia konkursowe oraz przebudowa strony, a pozostaje produkcja antologii, publikowanie archiwum przez rok, powołanie fundacji i konsultacja prawna. Narzędzia musiałyby wówczas znaleźć innego fundatora.
+
+Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do oceny formalnej, panel pracy dla kilkunastu czytelników i jury wraz ze śladem audytowym, oraz mechanizm publikowania archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna. Narzut pokrywa pracę nieujętą w godzinach rozliczanych wprost, w tym pozyskiwanie partnerów, oraz przekroczenia po stronie korekty i druku. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji; organizator nie osiąga z wydania zysku, a cały przychód ze sprzedaży wydania drukowanego jest przeznaczony na nagrody kolejnej edycji.
 
 ## Co otrzymuje Mecenas
 
-Tytuł **Mecenasa Antologii** w każdym wydaniu, elektronicznym i drukowanym, bezterminowo. Logo na stronie konstela.org przez cały okres edycji oraz na stronie redakcyjnej antologii. Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia: kilka słów o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię, oraz ogłoszenie premiery jej wydania elektronicznego. Wydanie drukowane powstaje po gali i trafia do laureatów wraz z ekslibrisami podpisanymi tego wieczoru. Egzemplarze autorskie wydania drukowanego, z podpisami Kapituły, w liczbie do uzgodnienia. Wymienienie w materiałach prasowych i w sprawozdaniu z edycji.
+Tytuł **Mecenasa Antologii** w każdym wydaniu, elektronicznym i drukowanym, bezterminowo. W wariancie pełnym, obejmującym sfinansowanie platformy Nagrody, Mecenasowi przysługuje dodatkowo tytuł **Mecenasa Założycielskiego**, wymieniany w prologu każdej kolejnej antologii, również w edycjach następnych - ponieważ narzędzia powstałe za te pieniądze będą służyć wszystkim przyszłym edycjom. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody. Logo na stronie konstela.org przez cały okres edycji oraz na stronie redakcyjnej antologii. Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia: kilka słów o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię, oraz ogłoszenie premiery jej wydania elektronicznego. Wydanie drukowane powstaje po gali i trafia do laureatów wraz z ekslibrisami podpisanymi tego wieczoru. Egzemplarze autorskie wydania drukowanego, z podpisami Kapituły, w liczbie do uzgodnienia. Wymienienie w materiałach prasowych i w sprawozdaniu z edycji.
 
 Antologia zostaje w sieci bezterminowo i bezpłatnie. Nazwa Mecenasa zostaje w niej razem z nią - to jest różnica między sponsoringiem wydarzenia a mecenatem publikacji.
 
