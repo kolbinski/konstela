@@ -14,7 +14,7 @@ Przy nazwisku zaznaczaj `[x]` po wysłaniu.
 
 - [x] **Copernicus Center Press** (Kraków) - e-mail: redakcja@ccpress.pl Tel.500 839 467 w godzinach 8.00 - 14.30 - filozofia nauki, umysł, sztuczna inteligencja. Najbliżej tematu merytorycznie, ma czytelnika, który kupuje książki o myśleniu, a nie o narzędziach. Mniejsza skala dystrybucji niż u dużych.
 - [x] **Wydawnictwo Naukowe PWN** - e-mail: propozycje.wydawnicze@pwn.pl z CC do sylwia.ciula@pwn.pl tel.: 508 024 746 do niej - jedyny adresat z realnym kanałem do szkół i uczelni. Jeżeli antologia ma trafić do dydaktyki, to tędy. Minus: wolniejszy proces i mniejsza swoboda formy.
-- [ ] **Karakter** (Kraków) - e-mail: ................ - eseistyka i literatura faktu z mocną stroną graficzną. Tom rozmów z aparatem krytycznym jest w ich konwencji, a książka ma być obiektem, nie tylko treścią.
+- [ ] **Karakter** (Kraków) - e-mail: redakcja@karakter.pl Małgorzata Szczurek, telefon ogólny 511 630 317 - eseistyka i literatura faktu z mocną stroną graficzną. Tom rozmów z aparatem krytycznym jest w ich konwencji, a książka ma być obiektem, nie tylko treścią.
 - [ ] **Filtry** (Warszawa) - e-mail: ................ - współczesna literatura faktu, dobra prasa, odważne tematy. Mała oficyna, więc decyzja zapada szybko.
 - [ ] **Znak** (Kraków) - e-mail: ................ - największy zasięg księgarski z tej listy i rozpoznawalność. Największe ryzyko, że tom bez autora-nazwiska nie zmieści się w planie.
 - [ ] **Helion / Onepress** (Gliwice) - e-mail: ................ - czytelnik techniczny, szybki proces, dobre w druku na żądanie i w sprzedaży elektronicznej. Najmniej prestiżu, najwięcej sprawności operacyjnej.

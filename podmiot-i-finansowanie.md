@@ -43,7 +43,7 @@ Fundacja domyślnie prowadzi tylko działalność statutową i niczego nie sprze
 
 **Założenie przyjęte: partner wydawniczy.** Książkę wydaje i sprzedaje wydawca, fundacja pobiera honorarium z licencji. Fundacja wtedy niczego nie sprzedaje, więc prawdopodobnie nie potrzebuje działalności gospodarczej. Pokrywa się to z modelem dwóch sponsorów, w którym partner wydawniczy bierze na siebie produkcję i dystrybucję.
 
-Ryzyko: jeśli partner wydawniczy się nie znajdzie i fundacja miałaby sprzedawać antologię sama, dopisanie działalności gospodarczej później oznacza zmianę statutu i drugi wniosek do KRS. Pytanie do prawnika: czy wpisać działalność gospodarczą do statutu od razu jako opcję zapasową - różnica w koszcie startu to kilkaset złotych, różnica w koszcie zmiany później to cała procedura.
+**Rozstrzygnięte 21.10.2026: działalność gospodarcza wchodzi do statutu od razu.** Powód: pierwsi wydawcy zostali zapytani 21 października, a PWN deklaruje reakcję w ciągu ośmiu tygodni, czyli do połowy grudnia, i nie uzasadnia decyzji odmownych. Statut trzeba napisać wcześniej. Czekanie na cudzą odpowiedź oznaczałoby więc ryzyko, że statut powstanie bez niej i tak. Różnica w koszcie startu to kilkaset złotych; różnica, gdyby działalność okazała się potrzebna później, to zmiana statutu i drugi wniosek do KRS w trakcie pierwszej edycji. Pytanie do prawnika pozostaje, ale nie blokuje.
 
 ## Organ nadzoru
 
