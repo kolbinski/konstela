@@ -1,4 +1,4 @@
-# Nagroda Konstela - Komentarz koncepcyjna dla Ministerstwa Cyfryzacji
+# Nagroda Konstela - Nota koncepcyjna dla Ministerstwa Cyfryzacji
 
 ---
 
@@ -73,7 +73,7 @@ Cztery mechanizmy, wszystkie zapisane w regulaminie:
 
 **Ograniczona rola narzędzi automatycznych.** Organizator wykorzystuje modele językowe wyłącznie do weryfikacji warunków formalnych, takich jak liczba słów czy język rozmowy. Streszczenia pisze sam uczestnik w zgłoszeniu; streszczeń generowanych przez model nie używamy, bo zmieniłyby to, co jury faktycznie czyta. **Nie oceniają, nie punktują i nie ustalają kolejności.** Powód jest merytoryczny: modele oceniające premiują tekst długi, płynny i uporządkowany, czyli działają przeciwko naszemu kryterium o wartości ślepych uliczek. Powód drugi jest oczywisty: nagroda za rozmowy z AI rozstrzygana przez AI byłaby zaprzeczeniem własnej idei.
 
-**Wyłączenie powiązań.** W Nagrodzie nie mogą brać udziału organizator, członkowie organów fundacji, członkowie Kapituły i Akademii, osoby współpracujące przy obsłudze edycji, a także organy i pracownicy fundatora nagród oraz pozostałych partnerów - wraz z osobami im najbliższymi. Niezależnie od tego oceniający nie ocenia zgłoszenia osoby, którą zna osobiście, i ma obowiązek taką okoliczność zgłosić; rozstrzyga to, czy bezstronność mogłaby zostać podważona, a nie czy w ocenie oceniającego została naruszona. Przed rozpoczęciem pracy każdy członek Akademii i Kapituły składa oświadczenie w tej sprawie, a ocena wydana z naruszeniem tej zasady jest nieważna i zostaje powtórzona.
+**Wyłączenie powiązań.** W Nagrodzie nie mogą brać udziału organizator, członkowie organów fundacji, członkowie Kapituły i Akademii, osoby współpracujące przy obsłudze edycji, a także organy i pracownicy fundatora nagród oraz pozostałych partnerów wnoszących środki - wraz z osobami im najbliższymi. Patronat honorowy nie powoduje takiego wyłączenia: nie wiąże się z finansowaniem ani z wpływem na ocenę, więc pracownicy i studenci instytucji obejmującej Nagrodę patronatem mogą w niej startować. Niezależnie od tego oceniający nie ocenia zgłoszenia osoby, którą zna osobiście, i ma obowiązek taką okoliczność zgłosić; rozstrzyga to, czy bezstronność mogłaby zostać podważona, a nie czy w ocenie oceniającego została naruszona. Przed rozpoczęciem pracy każdy członek Akademii i Kapituły składa oświadczenie w tej sprawie, a ocena wydana z naruszeniem tej zasady jest nieważna i zostaje powtórzona.
 
 **Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników organizator rozmawia z każdym z dziesięciu finalistów o treści jego zgłoszenia. Rozmowa sprawdza, czy uczestnik rozumie własne zgłoszenie, i nie zmienia punktacji przyznanej przez Kapitułę. Nie jest to moment wykrywania inscenizacji: osobne postępowanie w tej sprawie wszczyna się wyłącznie z sygnału, pisemnie, z ciężarem wykazania po stronie organizatora, a w razie wątpliwości zgłoszenie zostaje.
 

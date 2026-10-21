@@ -24,7 +24,13 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 
 ## 4. Zgłoszenie rozmowy do Nagrody
 
-**Jakie dane.** Imię i nazwisko, miejscowość, adres e-mail, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy oraz opisem odkrycia. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+**Jakie dane.** Imię i nazwisko, miejscowość, adres e-mail, numer telefonu komórkowego, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy oraz opisem odkrycia. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+
+**Numer telefonu - po co i co się z nim dzieje.** Numer służy wyłącznie do jednorazowej weryfikacji zgłoszenia kodem przesłanym wiadomością SMS oraz do wyegzekwowania zasady jednego zgłoszenia na osobę. Bez tego mechanizmu nabór mógłby zostać zalany zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej, co uderzyłoby w rzetelność całej Nagrody.
+
+Po wysłaniu kodu Administrator **nie przechowuje numeru w postaci jawnej**: zastępuje go wartością skrótu obliczoną z użyciem klucza tajnego przechowywanego odrębnie od bazy zgłoszeń. Wartość ta pozwala wyłącznie stwierdzić, czy z danego numeru złożono już zgłoszenie, i nie pozwala odtworzyć numeru bez znajomości klucza. Administrator zaznacza przy tym wprost, że **taka wartość pozostaje daną osobową** w rozumieniu RODO i nie jest anonimizacją; zabieg ten ogranicza skutki ewentualnego naruszenia, a nie wyłącza stosowania przepisów. Numer nie jest publikowany, nie służy do korespondencji w sprawach Nagrody ani do jakichkolwiek celów marketingowych i nie jest przekazywany nikomu poza dostawcą usługi wysyłki wiadomości SMS, działającym na zlecenie Administratora.
+
+Uczestnik, który nie może odebrać wiadomości SMS, ustala z Administratorem inny sposób potwierdzenia zgłoszenia; brak telefonu nie wyklucza z udziału w Nagrodzie.
 
 **W jakim celu i na jakiej podstawie.**
 
@@ -32,8 +38,9 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 - Publikacja rozmowy w antologii oraz, jeżeli Uczestnik wyraził na to odrębną zgodę, w archiwum rozmów - zgoda (art. 6 ust. 1 lit. a RODO), którą można wycofać w każdej chwili.
 - Wypłata i rozliczenie nagrody - obowiązek prawny ciążący na Administratorze (art. 6 ust. 1 lit. c RODO).
 - Rozpatrywanie reklamacji oraz obrona przed roszczeniami - prawnie uzasadniony interes Administratora (art. 6 ust. 1 lit. f RODO).
+- Weryfikacja zgłoszenia kodem SMS i zapobieganie składaniu wielu zgłoszeń przez jedną osobę - prawnie uzasadniony interes Administratora polegający na zapewnieniu rzetelności naboru i ochronie przed nadużyciem (art. 6 ust. 1 lit. f RODO).
 
-**Jak długo.** Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów - w ich przypadku dane przetwarzane są do czasu wycofania zgody. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi, liczony zgodnie z Ordynacją podatkową.
+**Jak długo.** Skrót numeru telefonu, o którym mowa wyżej, usuwany jest wraz z zamknięciem edycji - jego jedyny cel, czyli stwierdzenie, czy z danego numeru złożono już zgłoszenie, przestaje wtedy istnieć; sam numer w postaci jawnej nie jest przechowywany w ogóle. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Nie dotyczy to Uczestników, którzy wyrazili zgodę na włączenie rozmowy do archiwum rozmów - w ich przypadku dane przetwarzane są do czasu wycofania zgody. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi, liczony zgodnie z Ordynacją podatkową.
 
 **Czy podanie danych jest obowiązkowe.** Podanie danych jest dobrowolne, ale niezbędne do udziału w Nagrodzie. Bez nich zgłoszenie nie może zostać ocenione.
 

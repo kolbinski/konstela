@@ -12,9 +12,9 @@ Coroczny konkurs dla osób, które prowadzą pogłębione rozmowy z modelami szt
 
 Konstrukcja prawna przyjęta w dokumencie: **przyrzeczenie publiczne** (art. 919 i nast. k.c.), z wyraźnym wyłączeniem gry losowej, zryczałtowanym podatkiem 10% od nagród i organizatorem jako płatnikiem.
 
-## B. Sześć obszarów do rozstrzygnięcia
+## B. Siedem obszarów do rozstrzygnięcia
 
-Obszary 1, 2 i 6 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytania 23 oraz 29-33 dotyczą treści zobowiązania zaciąganego już przy zgłoszeniu, więc ich rozstrzygnięcie jest potrzebne przed naborem.
+Obszary 1, 2, 6 i 7 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytania 23 oraz 29-33 dotyczą treści zobowiązania zaciąganego już przy zgłoszeniu, więc ich rozstrzygnięcie jest potrzebne przed naborem.
 
 ---
 
@@ -41,6 +41,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 3. Czy treść rozmowy wymaga odrębnej podstawy od danych rejestracyjnych i czy przy kopii archiwalnej potrzebne jest coś więcej niż informacja o jej sporządzeniu.
 4. Czy przyjęte terminy retencji są prawidłowe: 60 dni od ogłoszenia wyników dla nienagrodzonych, okres podatkowy dla laureatów, do 24 miesięcy dla materiału zakwalifikowanego do archiwum, lecz jeszcze nieopublikowanego.
 5. Czy potrzebna jest umowa powierzenia wobec osób oceniających, które czytają rozmowy w panelu, czy wystarczy upoważnienie do przetwarzania.
+5a. **Weryfikacja zgłoszenia kodem SMS (decyzja z 21.10.2026).** Regulamin wprowadza zasadę jednego zgłoszenia na osobę, egzekwowaną numerem telefonu: po wysłaniu kodu numer nie jest przechowywany w postaci jawnej, lecz zastępowany skrótem z kluczem tajnym trzymanym odrębnie od bazy, służącym wyłącznie do stwierdzenia, czy z tego numeru już zgłaszano. Powód wprowadzenia: przy puli docelowo 300 tys. zł nabór bez takiego zabezpieczenia może zostać zalany zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej. Przyjęliśmy, że **skrót pozostaje daną osobową** (motyw 26 RODO) i opisaliśmy go tak w polityce prywatności, nie nazywając anonimizacją. Pytania: czy prawnie uzasadniony interes (art. 6 ust. 1 lit. f) jest tu właściwą podstawą, czy raczej wykonanie stosunku ze zgłoszenia; czy wymóg podania numeru nie narusza zasady minimalizacji przy tym celu i czy wystarczającą przeciwwagą jest tryb zastępczy dla osób bez telefonu; czy termin usunięcia skrótu z chwilą zamknięcia edycji jest prawidłowy; czy dostawca bramki SMS wymaga umowy powierzenia i czy jego wybór trzeba ograniczyć do EOG.
    5a. Zgłoszenia przyjmowane będą przez **zewnętrzny formularz (Google Forms)**, a kopie archiwalne przechowywane w prywatnym magazynie. Jakie to rodzi obowiązki: umowa powierzenia, informacja o odbiorcach danych, przekazanie poza EOG, i czy przy tej skali rozsądniej zbudować formularz własny na stronie Nagrody.
 
 **Oczekiwany produkt:** gotowa klauzula informacyjna do § 12 i do polityki prywatności oraz wskazanie podstaw przetwarzania dla każdej warstwy.
@@ -141,19 +142,69 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 ---
 
+### Obszar 7 (pilny): sporządzanie kopii archiwalnej a regulaminy dostawców modeli
+
+**Stan.** Regulamin zakłada w § 5, że organizator sporządza **kopię archiwalną** zgłoszonej rozmowy, i opiera na niej ocenę w razie zniknięcia linku (§ 5 ust. 6). Kopia ma powstawać automatycznie, skryptem otwierającym stronę udostępnionej rozmowy. 21 października 2026 sprawdziłem to na rzeczywistych linkach u trzech dostawców i wynik jest następujący:
+
+- **Gemini** - kopia powstaje bez przeszkód ze strony publicznej.
+- **ChatGPT** - strona nie wyświetla rozmowy automatowi, ale jej treść jest zawarta w danych samej strony i daje się z nich odczytać.
+- **Claude** - dostęp zatrzymuje zabezpieczenie antybotowe Cloudflare (zarządzane wyzwanie Turnstile). Automatyczne pobranie nie jest możliwe bez obejścia tego zabezpieczenia.
+
+Rozmowy zgłasza uczestnik, który ma prawo je udostępnić, a odbiorcą kopii jest wyłącznie organizator i oceniający. Nie zmienia to jednak faktu, że sporządzanie kopii odbywa się wbrew mechanizmowi, który dostawca postawił właśnie po to, by ruch automatyczny zatrzymać, a regulaminy dostawców zwykle zakazują zarówno automatycznego pobierania treści, jak i omijania zabezpieczeń technicznych. Skala docelowa to od kilkuset do kilku tysięcy pobrań rocznie, prowadzonych przez fundację publicznie opisującą tę procedurę we własnym regulaminie.
+
+Rozważane warianty: (a) rezygnacja z automatycznego pobierania u dostawców, którzy je blokują, i żądanie od uczestnika **własnego pliku z rozmową** obok linku; (b) pobieranie ręczne przez koordynatora; (c) wystąpienie do dostawcy o zgodę; (d) **wtyczka do przeglądarki organizatora** - opis niżej.
+
+**Wariant (d): wtyczka do przeglądarki organizatora.** Zamiast skryptu otwierającego stronę samodzielnie, rozszerzenie działające w zwykłej przeglądarce organizatora, w której **człowiek sam otwiera stronę i sam przechodzi weryfikację Cloudflare**; wtyczka odczytuje dopiero stronę już wyświetloną. Technicznie usuwa to element omijania zabezpieczenia - wyzwanie rozwiązuje człowiek, a nie program - pozostawiając wyłącznie kwestię automatycznego kopiowania treści wbrew regulaminowi dostawcy. Z tą różnicą wiąże się pytanie 39a. Uwaga techniczna: aplikacje dostawców usuwają z dokumentu wypowiedzi wyprzewijane poza ekran (wirtualizacja listy), więc wtyczka musiałaby gromadzić treść w trakcie przewijania albo odczytywać dane pobierane przez aplikację z serwera dostawcy - ta druga droga jest pewniejsza, ale dalej idąca, i też wymaga oceny.
+
+**Ograniczenie wariantu (a), ustalone 21.10.2026.** Dostawcy w większości **nie oferują eksportu pojedynczej rozmowy** - eksport obejmuje całe konto użytkownika. Przyjmowanie takiego pliku oznaczałoby wejście w posiadanie kilkuset prywatnych rozmów uczestnika, do których organizator nie ma żadnej podstawy przetwarzania, wbrew zasadzie minimalizacji (art. 5 ust. 1 lit. c RODO). Wariant (a) został więc zawężony do **wydruku pojedynczej rozmowy do PDF** z poziomu przeglądarki uczestnika, który jest dostępny u każdego dostawcy i obejmuje wyłącznie zgłoszoną rozmowę. PDF nie niesie jednak struktury rozmowy (ról, liczby tur), więc nie zastąpi kopii pobranej przez organizatora przy ocenie formalnej - może pełnić wyłącznie funkcję zabezpieczenia na wypadek zniknięcia linku (§ 5 ust. 6).
+
+**Pytania:**
+
+39. Czy automatyczne sporządzanie kopii archiwalnej ze strony udostępnionej rozmowy - przy zgodzie uczestnika, lecz bez zgody dostawcy modelu - jest dopuszczalne, i czy odpowiedź zmienia się, gdy wymaga ono ominięcia zabezpieczenia antybotowego. Jakie jest ryzyko z art. 267 i nast. k.k. oraz z tytułu naruszenia regulaminu dostawcy, i kto je ponosi: fundacja, zarząd, czy osoba uruchamiająca narzędzie.
+39a. Czy wariant (d) zmienia ocenę prawną: strona jest otwierana przez człowieka, który samodzielnie przechodzi weryfikację antybotową, a program odczytuje wyłącznie stronę już wyświetloną w jego przeglądarce. Czy odpowiedź jest inna dla odczytu samego dokumentu, a inna dla odczytu danych, które aplikacja dostawcy pobiera z jego serwera.
+40. Czy zgoda uczestnika na sporządzenie kopii jego rozmowy sanuje cokolwiek wobec dostawcy, który nie jest stroną tej zgody.
+41. Czy wariant (a) w zawężonej postaci - uczestnik załącza **wydruk pojedynczej rozmowy do PDF** - jest dopuszczalny i czy organizator, prosząc o taki plik, nie nakłania uczestnika do naruszenia regulaminu dostawcy. Co organizator powinien w tej sprawie oświadczyć w regulaminie.
+41a. Czy regulamin i formularz powinny **wprost zakazywać** przesyłania eksportu całego konta u dostawcy, skoro jego przyjęcie oznaczałoby przetwarzanie danych bez podstawy; czy wystarczy zakaz i odrzucanie takich plików, czy potrzebne są dodatkowe zabezpieczenia proceduralne na wypadek, gdy uczestnik prześle taki plik mimo zakazu.
+42. Jak powinien brzmieć § 5 w części o kopii archiwalnej, jeżeli dla części dostawców kopia będzie powstawać automatycznie, a dla części wyłącznie z pliku dostarczonego przez uczestnika. W szczególności: czy można uzależnić sposób zgłoszenia od tego, z którego modelu uczestnik korzystał, nie naruszając równego traktowania uczestników.
+
+---
+
 ## C. Co jest już rozstrzygnięte i czego nie trzeba analizować
 
 Żeby nie płacić za pracę, która została wykonana: regulamin przeszedł dwie niezależne recenzje proceduralne i jest spójny wewnętrznie, z przeliczoną numeracją i sprawdzonymi odesłaniami. Rozstrzygnięte zostały: tryb oceny i jego progi, procedura dyskwalifikacji za inscenizację, rozdzielenie oceny od publikacji, podstawy odrzucenia treści trudnych wraz z trybem postępowania przy kryzysie psychicznym, warunek rzetelności, zakres archiwum i tryb wycofania udziału. Te części proszę traktować jako zamknięte, chyba że naruszają prawo.
 
+## Ca. Miejsca oznaczone do sprawdzenia
+
+Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do których sam nie mam pewności. Nie składają się na osobny obszar i część z nich dotyczy księgowego, nie prawnika - wypisuję je, żeby nie przepadły i żeby nie trzeba było czytać dokumentów pod kątem „co autor chciał zaznaczyć".
+
+**W regulaminie:**
+
+1. **§ 1 ust. 3** - wyłączenie gry losowej. Czy sformułowanie „wynik zależy wyłącznie od oceny merytorycznej Kapituły, a udział jest bezpłatny" wystarczy, żeby nie była to gra hazardowa w rozumieniu ustawy z 19 listopada 2009 r.
+2. **§ 1 ust. 4** - wariant rozliczenia puli: wypłata przez Organizatora czy bezpośrednio przez fundatora. *Do ustalenia z księgowym.*
+3. **§ 3 ust. 4** - rozliczenie podatkowe laureatów niebędących polskimi rezydentami podatkowymi. *Do ustalenia z księgowym.*
+4. **§ 3 ust. 5b** - oświadczenia członków Akademii i Kapituły: czy odesłanie do ust. 5 i 5a jest właściwe i wystarczające.
+5. **§ 6 ust. 1** - progi formalne (800 słów, 12 wypowiedzi). Kalibracja na próbie oceny przed naborem; pytanie do prawnika wyłącznie takie, czy próg ogłoszony przed naborem może zostać później zmieniony i na jakich warunkach.
+6. **§ 8 ust. 11 lit. g** - próg rozbieżności ocen, do ustalenia po próbie kalibracyjnej.
+7. **§ 9 ust. 6** - czy pula zostaje ubruttowiona, tak aby laureat otrzymał pełną ogłoszoną kwotę. *Decyzja do podjęcia przed ogłoszeniem, z księgowym.*
+8. **§ 10 ust. 1** - próg nierozstrzygnięcia edycji (12 zgłoszeń). Liczba do potwierdzenia po pierwszym tygodniu naboru; pytanie prawne jak w punkcie 5.
+9. **§ 11 ust. 12** - status prawny wypowiedzi modelu oraz to, czy regulaminy dostawców dopuszczają publikację udostępnionych rozmów. **Pokrywa się z obszarem 3 i z obszarem 7** - tam jest rozwinięte.
+10. **§ 13 ust. 2** - zmiana regulaminu wyłącznie przed upływem terminu zgłoszeń i wyłącznie na korzyść Uczestników, którzy już się zgłosili. Czy ta konstrukcja jest skuteczna przy przyrzeczeniu publicznym.
+
+**W polityce prywatności:**
+
+11. **Pkt 4, „Jak długo"** - dokładny okres przechowywania danych laureatów według przepisów podatkowych. *Do ustalenia z księgowym.*
+12. **Pkt 5** - dane osób trzecich w treści rozmowy: czy przerzucenie odpowiedzialności na Uczestnika wraz z odrzuceniem zgłoszenia na etapie formalnym jest wystarczające. **Wiąże się z obszarem 1.**
+13. **Pkt 7** - aktualna podstawa przekazywania danych do Stanów Zjednoczonych przy hostingu u GitHub, Inc.
+
 ## D. Załączniki
 
-- [Regulamin](view.html?file=regulamin-draft) - wersja robocza regulaminu ze znacznikami w miejscach, których dotyczy ta konsultacja
+- [Regulamin](view.html?file=regulamin) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
 - [Prawa do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu) - przegląd doktryny i precedensów do obszaru 3
-- [Polityka prywatności](view.html?file=polityka-prywatnosci-draft) - robocza polityka prywatności do przepisania
+- [Polityka prywatności](view.html?file=polityka-prywatnosci) - polityka prywatności do przepisania
 - [Przebieg edycji](view.html?file=przebieg-edycji) - przebieg edycji krok po kroku, jeżeli pomocny jest kontekst operacyjny
 
 ## E. O co proszę na początek
 
-Nie o pełną opinię. O **wycenę i wskazanie, które z sześciu obszarów wymagają analizy, a które da się zamknąć jednym akapitem**. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
+Nie o pełną opinię. O **wycenę i wskazanie, które z siedmiu obszarów wymagają analizy, a które da się zamknąć jednym akapitem**. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
 
 Zależy mi szczególnie na obszarach 1 i 2, ponieważ do czasu ich zamknięcia nie otwieram przyjmowania zgłoszeń, a więc nie przyjmuję żadnych danych osobowych, oraz na obszarze 6, ponieważ fundacja musi być wpisana do KRS przed otwarciem naboru, a termin rejestracji nie zależy ode mnie.
