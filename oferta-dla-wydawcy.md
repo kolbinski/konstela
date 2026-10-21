@@ -16,9 +16,23 @@ W Polsce nie ukazała się dotąd książka tego rodzaju. Przeanalizowaliśmy si
 
 Odbiorcy: nauczyciele i wykładowcy szukający materiału do zajęć, studenci i uczniowie, pracujący z modelami AI, czytelnicy literatury faktu o technologii. Książka ma też naturalny kanał instytucjonalny: biblioteki, szkoły i uczelnie.
 
+## Model współpracy
+
+Proponujemy **model licencyjny**: wydawca wydaje książkę na własny koszt i własne ryzyko, a fundacja udziela mu licencji i otrzymuje honorarium od sprzedaży.
+
+**Co bierze na siebie wydawca:** produkcję i druk, projekt graficzny i okładkę, korektę wydawniczą, dystrybucję do księgarń i hurtowni, promocję po swojej stronie, rozliczenia z punktami sprzedaży oraz ISBN i egzemplarze obowiązkowe wydania handlowego.
+
+**Co bierze na siebie fundacja:** pozyskanie i wybór materiału, redakcję treści, komentarze jury, korektę językową tekstu, przekazanie gotowego, zredagowanego maszynopisu w marcu 2028, a także galę premierową z udziałem jury i laureatów wraz z obsługą prasową.
+
+**Fundacja nie płaci wydawcy za wydanie książki i nie kupuje usługi wydawniczej.** Nie prosimy też o zaliczkę ani o gwarantowane minimum - honorarium płatne jest wyłącznie od egzemplarzy sprzedanych.
+
+Czego oczekujemy w zamian, jako punkt wyjścia do negocjacji: honorarium dla fundacji na poziomie rynkowej stawki autorskiej, to jest **8-12% ceny zbytu netto** od każdego sprzedanego egzemplarza, rozliczane raz albo dwa razy w roku wraz z raportem sprzedaży. Honorarium przysługuje fundacji jako podmiotowi uprawnionemu do wyboru i układu antologii oraz dysponentowi licencji udzielonych przez autorów rozmów wraz z prawem sublicencji; autorzy rozmów nie otrzymują z tytułu wydania odrębnych wynagrodzeń, co wynika z regulaminu Nagrody i jest im znane w chwili zgłoszenia. Ponadto: egzemplarze autorskie dla jury, czytelników i laureatów po cenie wydawniczej, w liczbie około stu - jesteśmy gotowi je kupić, a nie otrzymać; licencję na czas oznaczony, z terytorium i polami eksploatacji do uzgodnienia; oraz prawo fundacji do bezpłatnego udostępniania wydania elektronicznego na stronie Nagrody, które pozostaje poza licencją wydawcy.
+
+Jeżeli ten model w Państwa oficynie nie działa, prosimy o informację, jaki działa. Jesteśmy otwarci na inne ułożenie, z jednym wyjątkiem: fundacja nie dysponuje budżetem na sfinansowanie nakładu.
+
 ## Co dostaje wydawca
 
-Gotowy maszynopis, zredagowany i złożony po stronie organizatora, przekazywany w marcu 2028. Prawa do wydania drukowanego na podstawie licencji udzielonej organizatorowi przez autorów rozmów, obejmującej wprost udzielenie dalszej licencji wydawcy.
+Gotowy maszynopis, zredagowany po stronie organizatora, przekazywany w marcu 2028. Skład i projekt pozostawiamy wydawcy; jeżeli wolicie Państwo wykorzystać nasz, jest do dyspozycji. Prawa do wydania drukowanego na podstawie licencji udzielonej organizatorowi przez autorów rozmów, obejmującej wprost udzielenie dalszej licencji wydawcy.
 
 Zero ryzyka zaliczkowego: autorzy nie otrzymują honorariów z tytułu wydania, ponieważ nagrodą za udział w konkursie jest nagroda pieniężna i publikacja.
 
@@ -42,9 +56,11 @@ To, co może być wyłączne dla wydawcy, to **postać książki**: projekt graf
 
 ## Co jest do uzgodnienia
 
-Nakład, format i cena okładkowa. Podział wpływów ze sprzedaży. Zakres dystrybucji, w tym sieci księgarskie i kanał biblioteczny. Czy wydawca obejmuje także sprzedaż wydania elektronicznego w kanałach płatnych, obok wersji bezpłatnej na stronie Nagrody. Harmonogram produkcji względem daty gali.
+Wysokość honorarium i podstawa jego liczenia. Nakład, format i cena okładkowa. Zakres dystrybucji, w tym sieci księgarskie i kanał biblioteczny. Czy wydawca obejmuje także sprzedaż wydania elektronicznego w kanałach płatnych, obok wersji bezpłatnej na stronie Nagrody. Czas trwania i terytorium licencji. Harmonogram produkcji względem daty gali.
 
-**Przychód po stronie organizatora w całości zasila pulę nagród kolejnej edycji.** Organizator jest fundacją powołaną wyłącznie do prowadzenia Nagrody i nie osiąga z wydania zysku.
+**Przychód po stronie organizatora w całości zasila pulę nagród kolejnej edycji.** Organizator nie osiąga z wydania zysku.
+
+**Kto będzie stroną umowy.** Organizatorem Nagrody jest fundacja powoływana wyłącznie w tym celu, z wpisem do Krajowego Rejestru Sądowego przed otwarciem przyjmowania zgłoszeń, czyli przed 1 stycznia 2027. Fundatorem jest Krzysztof Olbiński. Umowa wydawnicza i tak podpisywana byłaby znacznie później - maszynopis powstaje w marcu 2028 - więc na dziś prosimy wyłącznie o decyzję kierunkową, a nie o zobowiązanie.
 
 ## Czego potrzebujemy teraz
 
