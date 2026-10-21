@@ -24,7 +24,7 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 
 ## 4. Zgłoszenie rozmowy do Nagrody
 
-**Jakie dane.** Imię i nazwisko, rok urodzenia, miejscowość, adres e-mail, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy oraz opisem odkrycia. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+**Jakie dane.** Imię i nazwisko, miejscowość, adres e-mail, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy oraz opisem odkrycia. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
 
 **W jakim celu i na jakiej podstawie.**
 

@@ -28,7 +28,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 
 | Warstwa            | Co obejmuje                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------- |
-| Udział w konkursie | imię i nazwisko, rok urodzenia, miejscowość, adres e-mail                              |
+| Udział w konkursie | imię i nazwisko, miejscowość, adres e-mail                              |
 | Treść rozmowy      | kopia archiwalna sporządzana przez organizatora, czytana przez jurorów                 |
 | Wypłata i podatek  | dane do przelewu i rozliczenia, przechowywane przez okres podatkowy                    |
 | Publikacja         | antologia i archiwum rozmów, jako warunek udziału, na podstawie licencji z § 11 ust. 3 |
