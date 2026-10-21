@@ -40,6 +40,10 @@ Gotowy pretekst medialny: gala rozstrzygnięcia z udziałem jury i laureatów, o
 
 Tytuł seryjny: jeden tom rocznie, z rosnącą rozpoznawalnością nagrody. Pierwszeństwo przy kolejnych tomach dla wydawcy pierwszego tomu.
 
+Obecność na stronie Nagrody: logo i oznaczenie **Partner wydawniczy** na konstela.org przez cały okres edycji, w stopce redakcyjnej wydania elektronicznego oraz w materiałach prasowych, a także wymienienie podczas gali.
+
+I rzecz, która w tej konfiguracji waży najwięcej: **odnośnik do zakupu wydania drukowanego stoi na stronie Nagrody obok przycisku bezpłatnego pobrania**, w tym samym miejscu i równie widocznie. Każdy, kto przyjdzie po darmowy plik - a spodziewamy się, że to będzie główny ruch na stronie - zobaczy jednocześnie, że książkę można kupić, i od kogo.
+
 ## Czego nie da się zmienić
 
 **Wydanie elektroniczne pozostaje bezpłatne i ma identyczną treść.** Antologia w formatach EPUB i PDF jest udostępniana na stronie Nagrody bezpłatnie, bez rejestracji, od dnia rozstrzygnięcia - razem z komentarzami jury, wstępem i całym aparatem. Nie planujemy wersji okrojonej ani treści zarezerwowanych dla druku. Powodem jest cel, dla którego ta nagroda powstała: materiał ma trafić do nauczyciela i ucznia, którzy książki nie kupią.
