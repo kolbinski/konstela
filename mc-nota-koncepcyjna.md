@@ -1,4 +1,4 @@
-# Nagroda Konstela - Nota koncepcyjna dla Ministerstwa Cyfryzacji
+# Nagroda Konstela - Komentarz koncepcyjna dla Ministerstwa Cyfryzacji
 
 ---
 
@@ -100,7 +100,7 @@ Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 - **praktyka** - osoba pracująca z modelami zawodowo,
 - **spoza branży** - sprawdzenie, czy rozmowa jest zrozumiała dla kogoś z zewnątrz.
 
-Kapituła rozstrzyga o wynikach i podpisuje noty towarzyszące rozmowom w antologii.
+Kapituła rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antologii.
 
 *Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat Ministerstwa Cyfryzacji znacząco ułatwiłby ich pozyskanie - zarówno do Kapituły, jak i do Akademii - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
 

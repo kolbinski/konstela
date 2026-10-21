@@ -12,7 +12,7 @@ Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzecz
 
 ## Przedmiot mecenatu
 
-**Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **notę Kapituły**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Planowane jest także wydanie drukowane.
+**Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz Kapituły**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Planowane jest także wydanie drukowane.
 
 **Archiwum rozmów** to publiczny zbiór zgłoszeń wybranych przez czytelników do dalszej oceny, udostępniany bez punktacji i bez rankingu. Publikowane jest porcjami przez rok następujący po ogłoszeniu wyników, czyli od marca 2028 do marca 2029; przed rozstrzygnięciem nie publikujemy niczego.
 
@@ -51,7 +51,7 @@ Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i arch
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone. **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy. **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji. Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
-Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do marca 2028 nad produkcją wydania i moderacją archiwum: zbiera noty, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z finalistami, czyta rozmowy przed publikacją w archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z Kapitułą i publikację archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
+Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do marca 2028 nad produkcją wydania i moderacją archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z finalistami, czyta rozmowy przed publikacją w archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z Kapitułą i publikację archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
 
 ## Co otrzymuje Mecenas
 
@@ -63,7 +63,7 @@ Propozycja dotyczy pierwszej edycji. Nagroda jest przedsięwzięciem corocznym i
 
 ## Czego propozycja nie obejmuje
 
-Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład Kapituły ani treść not; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
+Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład Kapituły ani treść komentarzy; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
 ## Terminy
 
