@@ -4,7 +4,7 @@
 
 ## § 1. Organizator
 
-1. Organizatorem Nagrody Konstela ("Nagroda") jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373 ("Organizator").
+1. Organizatorem Nagrody Konstela ("Nagroda") jest fundacja powołana wyłącznie w celu prowadzenia Nagrody, wpisana do Krajowego Rejestru Sądowego ("Organizator"). Fundacja zostaje powołana i wpisana do rejestru **przed otwarciem przyjmowania zgłoszeń**; jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym ustępie w wersji regulaminu ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński.
 2. Kontakt w sprawach Nagrody: contact@konstela.org.
 3. Nagroda nie jest grą losową, loterią fantową ani zakładem wzajemnym w rozumieniu ustawy z dnia 19 listopada 2009 r. o grach hazardowych. Wynik zależy wyłącznie od oceny merytorycznej Kapituły, a udział w Nagrodzie jest bezpłatny.
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu zgłoszeń. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat.
@@ -291,7 +291,7 @@ Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 
 ## § 12. Dane osobowe
 
-1. Administratorem danych osobowych Uczestników jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
+1. Administratorem danych osobowych Uczestników jest Organizator, czyli fundacja wskazana w § 1 ust. 1. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.
 2. Dane przetwarzane są w celu przeprowadzenia Nagrody, opublikowania jej wyników wraz z antologią i archiwum rozmów, wypłaty nagród i rozliczenia podatkowego. Podstawą przetwarzania jest **wykonanie stosunku prawnego powstałego ze zgłoszenia** (przyrzeczenie publiczne wraz z licencją z § 11 ust. 3), a w zakresie rozliczeń - **obowiązek prawny** ciążący na Organizatorze. Przetwarzanie nie opiera się na zgodzie, więc nie podlega wycofaniu w trybie właściwym dla zgody; uprawnienia Uczestnika określa § 11 ust. 9 oraz ust. 6 niniejszego paragrafu.
 3. Zakres danych odpowiada zakresowi zgłoszenia określonemu w § 5 ust. 2 i obejmuje: imię i nazwisko, miejscowość, adres e-mail, nieobowiązkowy pseudonim, nieobowiązkowe uzasadnienie oraz treść zgłoszonej rozmowy wraz z kopią archiwalną. Na dalszych etapach, w zakresie i wobec osób wskazanych w § 5 ust. 2d, dochodzą: numer telefonu, adres korespondencyjny oraz - wyłącznie od laureatów nagród pieniężnych - dane niezbędne do wypłaty i rozliczenia podatkowego. Formularz zgłoszeniowy nie zbiera danych innych niż wymienione w § 5 ust. 2.
 4. Dane Uczestników nienagrodzonych, wraz z kopiami rozmów sporządzonymi na potrzeby oceny, są usuwane w terminie 60 dni od ogłoszenia wyników. Wyjątek obejmuje Uczestników, **których rozmowa została zakwalifikowana do archiwum rozmów (§ 11 ust. 11), również wtedy, gdy nie została jeszcze opublikowana** z uwagi na stopniowe udostępnianie albo oczekiwanie na drugi odczyt lub kontrolę publikacyjną. W ich przypadku dane przetwarzane są na podstawie zgody, do czasu jej wycofania, nie dłużej niż **przez 24 miesiące od ogłoszenia wyników**; po upływie tego okresu materiał niepublikowany jest usuwany.

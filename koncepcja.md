@@ -84,7 +84,9 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 
 ## Edycja pierwsza - ustalenia operacyjne
 
-**Forma prawna:** JDG. Fundacja ma sens dopiero przy wielu darczyńcach; przy jednym fundatorze to zbędna biurokracja i koszt.
+**Forma prawna: fundacja (decyzja z 20.10.2026, zmiana wcześniejszego ustalenia).** Organizatorem jest fundacja powołana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Wcześniej zapisana tu była JDG z uzasadnieniem, że fundacja ma sens dopiero przy wielu darczyńcach - to ustalenie upadło, gdy pula urosła do 390 tys. zł: przy przyrzeczeniu publicznym tej wielkości JDG oznacza odpowiedzialność majątkiem osobistym. Pełne uzasadnienie, kolejność kroków i terminy graniczne: [podmiot-i-finansowanie](view.html?file=podmiot-i-finansowanie).
+
+**Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](view.html?file=regulamin) - w sprawach konkursu, `Konstela-budzet-dwaj-sponsorzy.xlsx` - w kwotach i nakładzie pracy, [oferta mecenatu](view.html?file=oferta-mecenat-antologii) - w zakresie finansowania antologii i archiwum, [podmiot-i-finansowanie](view.html?file=podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
 
 **Terminy (zmienione 19.10.2026):** okno rozmów to **pełny rok kalendarzowy 2027**, zgłoszenia do 15 stycznia 2028, runda pierwsza prowadzona na bieżąco przez cały rok, Kapituła w lutym 2028, rozstrzygnięcie i antologia w drugiej połowie marca 2028. Wzór: Oscary, gdzie okres kwalifikacyjny to rok kalendarzowy, a członkowie Akademii oglądają filmy na bieżąco, więc po terminie zostaje samo głosowanie. Poprzedni kalendarz (okno do września, gala w listopadzie 2027) nie spinał się z procedurami: od zamknięcia naboru do ogłoszenia potrzeba 11-12 tygodni, a mieliśmy 8. Ocena bezwzględna według pasm z Karty oceny pozwala czytać przez cały rok; ryzykiem jest dryf standardów, więc kalibracja powtarzana jest w połowie roku, a czytelnik może zmienić swoją wcześniejszą ocenę do zamknięcia naboru. Co było wcześniej, a przestało obowiązywać: rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
 
@@ -106,17 +108,17 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **W nocie dla patrona:** trzy progi finansowania (20-30 tys. / 120-150 tys. / 300 tys.+ na 3 lata), oznaczone jako propozycja.
 
-**Poziom docelowy: 100 tys. zł dla laureata.** To górna półka polskich nagród - rząd Nagrody Nike, przy Gdyni rzędu kilkudziesięciu tysięcy i Paszportach Polityki rzędu dwudziestu kilku (liczby z pamięci, do sprawdzenia). Powyżej tego poziomu kwota zaczyna szkodzić: przy puli rzędu miliona opłaca się poświęcić tydzień na przygotowanie rozmowy pod kryteria, więc inscenizacja rośnie proporcjonalnie do nagrody, a jury tonie w zgłoszeniach zrobionych zamiast przeżytych. Milion z teleturnieju to inna kategoria - koszt produkcji rozrywki zwracający się reklamami, nie wycena wartości. Lepiej mieć 100 tys. dla laureata i 10 tys. na porządny druk antologii niż milion na nagrodę i nic na książkę: pierwsze buduje instytucję, drugie robi jednorazowy hałas. Podział ról: strona mówi, co pewne; nota mówi, dokąd to zmierza. Dla urzędnika rozróżnienie zobowiązania od planu jest lepszym sygnałem niż duża liczba na stronie.
+**Poziom docelowy: 300 tys. zł dla laureata (podniesiony 19.10.2026 ze 100 tys.).** To górna półka polskich nagród - rząd Nagrody Nike, przy Gdyni rzędu kilkudziesięciu tysięcy i Paszportach Polityki rzędu dwudziestu kilku (liczby z pamięci, do sprawdzenia). Powyżej tego poziomu kwota zaczyna szkodzić: przy puli rzędu miliona opłaca się poświęcić tydzień na przygotowanie rozmowy pod kryteria, więc inscenizacja rośnie proporcjonalnie do nagrody, a jury tonie w zgłoszeniach zrobionych zamiast przeżytych. Milion z teleturnieju to inna kategoria - koszt produkcji rozrywki zwracający się reklamami, nie wycena wartości. Lepiej mieć 100 tys. dla laureata i 10 tys. na porządny druk antologii niż milion na nagrodę i nic na książkę: pierwsze buduje instytucję, drugie robi jednorazowy hałas. Podział ról: strona mówi, co pewne; nota mówi, dokąd to zmierza. Dla urzędnika rozróżnienie zobowiązania od planu jest lepszym sygnałem niż duża liczba na stronie.
 
 **Przesunięcie edycji na 2027 kupuje czas na sponsorów**: kilka miesięcy do wiosny, a zgłoszenia i tak otwierają się dopiero wtedy.
 
-**Pełny budżet pierwszej edycji (po recenzji z 19.10.2026).** Poprzedni szacunek 1,5-2,5 tys. zł obejmował wyłącznie wydatki gotówkowe i przez to zaniżał koszt projektu kilkunastokrotnie. Poniżej rachunek uczciwy, z pracą organizatora wycenioną, nawet jeżeli pozostanie wkładem nieodpłatnym.
+**Pełny budżet pierwszej edycji (po recenzji z 19.10.2026). Tabela poniżej jest historyczna - aktualne liczby są w `Konstela-budzet-dwaj-sponsorzy.xlsx`, gdzie edycja pierwsza to 772 godziny pracy i dwa wnioski: 603 tys. zł netto do fundatora nagrody i 232,7 tys. zł netto do mecenasa antologii.** Poprzedni szacunek 1,5-2,5 tys. zł obejmował wyłącznie wydatki gotówkowe i przez to zaniżał koszt projektu kilkunastokrotnie. Poniżej rachunek uczciwy, z pracą organizatora wycenioną, nawet jeżeli pozostanie wkładem nieodpłatnym.
 
 | Pozycja                                                |       Koszt gotówkowy | Praca organizatora |
 | ------------------------------------------------------ | --------------------: | -----------------: |
 | Domeny, hosting, poczta (rok)                          |                150 zł |                  - |
 | Konsultacja prawna regulaminu i polityki               |        1 500-3 000 zł |               10 h |
-| Księgowy: wariant rozliczenia, podatek od nagród       |  w ramach obsługi JDG |                5 h |
+| Księgowy: wariant rozliczenia, podatek od nagród       |  w ramach obsługi fundacji |           5 h |
 | Medal i dyplomy                                        |          600-1 200 zł |                5 h |
 | Pozyskanie fundatora i partnerów                       |                     - |           60-100 h |
 | Rekrutacja i obsługa jury                              |                     - |               30 h |
@@ -160,8 +162,8 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 **Do ustalenia z księgowym przed ogłoszeniem:**
 
-- 10% zryczałtowany podatek od nagród - czy ubruttowić pulę (koszt ok. 555 zł przy nagrodzie głównej), żeby laureat dostał równe 5000,
-- czy wydatek da się zaliczyć do kosztów JDG.
+- 10% zryczałtowany podatek od nagród - czy ubruttowić pulę, żeby laureat dostał równą kwotę ogłoszoną (przy nagrodzie głównej 300 tys. zł oznacza to ok. 33,3 tys. zł dopłaty),
+- czy wydatek da się zaliczyć do kosztów fundacji.
 
 ## Tryb oceny
 
@@ -418,7 +420,7 @@ Publiczna zaczepka w stylu "czy pracownicy X podejmą wyzwanie tej nagrody" dzia
 
 **8. Odrzucone: wpisowe.** Pula rosnąca z opłat uczestników to ryzyko kwalifikacji jako loteria fantowa i zmiana charakteru nagrody z otwartej na zamkniętą. Zamknięte.
 
-Wniosek operacyjny: do Cezarego piszemy "sponsor prywatny", bo to jest prawda i nie komplikuje obrazu. Ale kolejność pracy nad pieniędzmi po jego odpowiedzi jest inna niż kolejność na tej liście: najpierw fundacje korporacyjne, bo mają budżet i cel statutowy, równolegle darczyńca indywidualny jako szybka ścieżka, a uczelnia i wydawnictwo osobno, bo obniżają kwotę, której trzeba szukać.
+Wniosek operacyjny: w mailu do Cezarego nie nazywamy typu fundatora w ogóle - wysłany 21.10.2026 mówi tylko, że nagroda powstaje bez środków własnych organizatora i bez opłat po stronie uczestników. Ale kolejność pracy nad pieniędzmi po jego odpowiedzi jest inna niż kolejność na tej liście: najpierw fundacje korporacyjne, bo mają budżet i cel statutowy, równolegle darczyńca indywidualny jako szybka ścieżka, a uczelnia i wydawnictwo osobno, bo obniżają kwotę, której trzeba szukać.
 
 ## Struktura finansowania od sponsora - dwa warianty
 
@@ -508,6 +510,7 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 - [ ] **Warstwa dydaktyczna antologii**: nota wprowadzająca przed rozmową, noty na marginesie w konkretnych momentach, nota końcowa. Pełny dialog bez montażu zostaje.
 - [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
 - [x] **Styk zgody z licencją** - rozstrzygnięty w § 11 ust. 5-8 i w polityce prywatności (19.10.2026): do ogłoszenia wyników usunięcie zgłoszenia, po publikacji anonimizacja.
+- [ ] **Rozstrzygnąć zakres Archiwum rozmów.** Dziś regulamin definiuje je jako zgłoszenia zakwalifikowane do drugiej rundy oceny, czyli wybrane przez czytelników. Rozważany wariant szerszy: wszystkie zgłoszenia, które przeszły weryfikację formalną. Przy 150 zgłoszeniach różnica to kilkadziesiąt rozmów. Argumenty za szerszym: archiwum jako zapis tego, jak ludzie rozmawiają naprawdę, a nie jak rozmawiają najlepsi; prostsze do wyjaśnienia sponsorowi i uczestnikowi. Argumenty przeciw: większy nakład pracy redakcyjnej i moderacyjnej, większe ryzyko treści problematycznych, słabsza różnica między Archiwum a Antologią. **Decyzja potrzebna przed naborem**, bo zmienia § 11 ust. 11 regulaminu i treść zobowiązania wobec uczestnika. Temat podniesiony 20.10.2026 przy pisaniu oferty dla mecenasa.
 - [ ] Próba kalibracyjna oceny na kilku rozmowach spoza edycji.
 - [ ] Konsultacja prawna (pytania w [prawie do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu)) i rozmowa z księgowym.
 - [ ] Aktualizacja wpisu w CEIDG (adres) przed publikacją wersji ostatecznej regulaminu.

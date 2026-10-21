@@ -4,7 +4,7 @@
 
 ## 1. Administrator danych
 
-Administratorem danych osobowych jest Krzysztof Olbiński, prowadzący działalność gospodarczą pod firmą **SOURCE Krzysztof Olbiński**, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP PL8272087373.
+Administratorem danych osobowych jest **fundacja powołana wyłącznie w celu prowadzenia Nagrody Konstela**, wpisana do Krajowego Rejestru Sądowego przed otwarciem przyjmowania zgłoszeń. Jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym miejscu w wersji ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński.
 
 Kontakt we wszystkich sprawach dotyczących danych osobowych: contact@konstela.org.
 
