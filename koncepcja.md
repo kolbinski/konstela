@@ -395,7 +395,7 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 
 ### Piosenka Nagrody (ustalenia z 22.10.2026)
 
-Tekst powstał 22.10.2026 („Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum.
+Tekst powstał 22.10.2026 („Zapytaj inaczej"; tytuł roboczy brzmiał „Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum.
 
 **Kto nagrywa.** Nie gwiazda. Po pierwsze, do artysty pierwszej wielkości pisze się pierwszy raz tylko raz, a dziś nie ma czym poprzeć prośby - nie ma fundatora, jury ani rozstrzygniętej edycji (ta sama zasada co przy laboratoriach AI niżej). Po drugie, nagrodzie dla ludzi, których nikt jeszcze nie zna, bardziej służy wykonawca, który sam się w ten sposób pokazuje, niż kupiona rozpoznawalność. Kierunek: uczestnicy programów muzycznych pokroju Voice of Poland - mają głos i rozpoznawalność dość dużą, by coś wnieść, i dość małą, by odpowiedzieć na maila.
 
