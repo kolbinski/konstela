@@ -76,27 +76,31 @@ W obu wypadkach powiedziano wprost: fundacji jeszcze nie ma, fundatora puli nagr
 
 Potrzeba jeszcze co najmniej jednej osoby, a przy wariancie trzyosobowym dwóch.
 
-## Pytania do księgowego (Piotr Jędrzejewski)
+## Odpowiedzi księgowego (Piotr Jędrzejewski, Globico)
 
-**Wysłane mailem 22.10.2026.** Na wstępie prośba o polecenie księgowego specjalizującego się w fundacjach, gdyby sam ich nie obsługiwał. Korespondencja w formie grzecznościowej na „Pan", nie na „Ty".
+Pytania wysłane mailem 22.10.2026, odpowiedź tego samego dnia. Korespondencja w formie grzecznościowej na „Pan", nie na „Ty".
 
-**Pilne - wpływają na treść statutu, który idzie do notariusza na początku listopada:**
+**Globico nie prowadzi księgowości fundacji.** Polecony trop: Gdańskie Centrum Organizacji Pozarządowych przy Fundacji Regionalne Centrum Informacji i Wspomagania Organizacji Pozarządowych, https://fundacjarc.org.pl/projekty/gdanskie-centrum-organizacji-pozarzadowych/ - centrum może wskazać zaprzyjaźnione biuro obsługujące organizacje pozarządowe. To zmienia kolejność kroków: biuro trzeba znaleźć **przed** wizytą u notariusza, bo to ono domyka fundusz założycielski i kody PKD, na które Globico nie odpowiada.
 
-- Czy przy modelu „wydawca sprzedaje, fundacja pobiera honorarium licencyjne" konieczna jest wpisana działalność gospodarcza i wpis do rejestru przedsiębiorców, czy wystarczy działalność statutowa; ile kosztuje wariant z działalnością w sprawozdawczości i opłatach.
-- Jaki fundusz założycielski przyjąć przy tej konstrukcji.
-- Czy fundacja wchodzi od razu w VAT, czy korzysta ze zwolnienia podmiotowego. Zwolnienie jest w zasięgu, ale zmienia kształt faktury dla sponsora - środki mają wpływać na podstawie faktury za usługę promocyjną, nie jako darowizna.
+**1. Działalność gospodarcza - potwierdzona.** Jeżeli fundacja będzie udzielać licencji w sposób ciągły i osiągać z tego dochód, jest to działalność gospodarcza. Decyzja z 21.10.2026 o wpisaniu jej do statutu od razu okazała się trafna i przestaje być zakładem - § 12 i rozdział o działalności gospodarczej w [statucie](view.html?file=statut) zostają.
 
-**Mogą poczekać kilka tygodni:**
+**2. Fundusz założycielski - bez odpowiedzi.** Księgowy nie podpowiada kwoty. Pytanie przechodzi do biura poleconego przez GCOP albo do prawnika; pozostaje `[DO USTALENIA]` w § 12 statutu i blokuje wizytę u notariusza.
 
-- Czy płatnikiem zryczałtowanego podatku 10% jest fundacja także wtedy, gdy środki pochodzą od fundatora zewnętrznego, i jak skonstruować umowę z fundatorem, by to domknąć.
-- Czy ubruttowić pulę, tak aby laureat otrzymał pełną ogłoszoną kwotę - decyzja do podjęcia przed ogłoszeniem puli.
-- Czy laureat niebędący polskim rezydentem podatkowym rodzi inne obowiązki i czy to argument za ograniczeniem kręgu uczestników.
-- Przez jaki dokładnie okres przechowywać dane laureatów według przepisów podatkowych - potrzebny konkretny termin do polityki prywatności, dziś jest tam ogólne odesłanie do Ordynacji.
+**3. VAT - zwolnienie podmiotowe jest w zasięgu i jest prawem, nie obowiązkiem.** Fundacja nie musi wchodzić w VAT od razu. Jeżeli nie będzie wykonywać czynności wyłączonych ze zwolnienia (przede wszystkim usług doradczych), przysługuje jej zwolnienie ogólne z limitem **240 000 zł**, w pierwszym roku obniżonym proporcjonalnie do okresu prowadzenia działalności. Z przysługującego zwolnienia można zrezygnować i zarejestrować się jako podatnik VAT od razu. Przy spodziewanych przychodach rzędu kilkudziesięciu tysięcy złotych rocznie limit nie jest zagrożony. **Uwaga, która zostaje otwarta:** usługa promocyjna dla sponsora bez VAT oznacza fakturę bez podatku do odliczenia po stronie sponsora - sprawdzić przy rozmowie z Tubądzinem, czy to dla nich różnica, bo tylko to przemawia za dobrowolną rejestracją.
 
-**Pozostałe, zadane wcześniej, nadal otwarte:**
+**4. Płatnik zryczałtowanego podatku 10% - fundacja.** Płatnikiem jest organ wypłacający, więc fundacja, niezależnie od tego, skąd pochodzą środki. Konstrukcja umowy z fundatorem zewnętrznym: księgowy odsyła do prawnika, pytanie zostaje w [prawnik.md](view.html?file=prawnik).
+
+**5. Ubruttowienie - zależy od brzmienia ogłoszenia, i to jest decyzja do podjęcia.** Jeżeli w ogłoszeniu konkursu podana jest kwota **wypłacana laureatowi**, pulę trzeba ubruttowić, żeby laureat dostał dokładnie tyle. Jeżeli podana jest po prostu kwota nagrody, przyjmuje się, że to kwota brutto i laureat otrzymuje ją pomniejszoną o podatek - tak działa na przykład Lotto. Dzisiejszy § regulaminu (pkt 6 w rozdziale o nagrodach) mówi tylko, że podatek jest pobierany, czyli domyślnie realizuje wariant drugi. **Do rozstrzygnięcia przed ogłoszeniem puli**, bo przy puli 30 000 zł różnica to 3 333 zł po stronie fundacji.
+
+**6. Laureat niebędący polskim rezydentem - zależy od umowy o unikaniu podwójnego opodatkowania** z państwem jego rezydencji. W większości wypadków zasady będą takie same lub zbliżone do krajowych, ale dochodzą dokumenty i obowiązki sprawozdawcze. To nie jest argument za ograniczeniem kręgu uczestników, tylko za przygotowaniem procedury: certyfikat rezydencji i IFT-1R.
+
+**7. Okres przechowywania danych laureatów - co najmniej 5 lat** licząc od początku roku następującego po roku obrotowym, w którym zatwierdzono sprawozdanie finansowe (ten sam okres co dla ksiąg rachunkowych). Wpisane do polityki prywatności w miejsce ogólnego odesłania do Ordynacji.
+
+**Nadal otwarte, zadane wcześniej:**
 
 - Jak rozliczyć honorarium licencyjne od wydawcy po stronie fundacji.
 - Czy przy przyjętej konstrukcji cokolwiek przechodzi jeszcze przez JDG; założenie: nie.
+- Kody PKD dla działalności gospodarczej - przechodzą do biura poleconego przez GCOP.
 
 ## Pytania do prawnika
 

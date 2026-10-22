@@ -76,6 +76,26 @@ Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
 
 ---
 
+## Wersja na Instagram (wiadomość prywatna)
+
+Przy tej grupie wiadomość prywatna działa lepiej niż mail i często jest jedynym kanałem. **Wysyłamy z konta osobistego, nie z konta marki** - oferta pieniężna od profilu instytucjonalnego z zerem obserwujących czyta się jak oszustwo, a cała wiarygodność tej propozycji stoi na tym, kto ją składa.
+
+**Wersja pełna:**
+
+Cześć, mam dla Ciebie płatne zlecenie i piszę wprost, bo nie chcę zabierać czasu. Napisałem tekst piosenki „Zapytaj inaczej" i szukam kogoś, kto napisze do niego własną muzykę i nagra go. Honorarium 3000 zł. Najważniejsze: muzyka zostaje Twoja, możesz wydać ten utwór pod swoim nazwiskiem i grać go na koncertach, a ja potrzebuję tylko prawa, żeby używać nagrania u siebie. Nie kupuję wyłączności. To jest piosenka dla Nagrody Konstela, corocznej nagrody dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją: konstela.org. Nagroda jeszcze nie wystartowała, ale wynagrodzenie nie zależy od tego, czy ruszy. Płacę za piosenkę, nie za los projektu. Jeśli to Cię interesuje, odpisz, a wyślę tekst i szczegóły. Jeśli nie, wystarczy jedno słowo i nie wracam.
+
+**Wersja krótka** (dla osób z większym zasięgiem, gdzie prośby są zalane):
+
+Cześć, mam płatne zlecenie: napisany tekst piosenki, do którego szukam kompozytora i wykonawcy. 3000 zł, muzyka zostaje Twoja, bez wyłączności. Szczegóły wyślę, jeśli to Cię zainteresuje. Jeśli nie, nie będę wracał.
+
+**Zasady wysyłki:**
+
+- **Nie wklejać tekstu piosenki do pierwszej wiadomości.** Na Instagramie to ściana, której nikt nie czyta, a przy okazji oddaje się utwór komuś, kto jeszcze nie powiedział „tak".
+- **Nie wysyłać kilkudziesięciu wiadomości jednego dnia z nowego konta** - serwis traktuje to jak spam i potrafi ograniczyć wysyłanie, czasem trwale. Rozłożyć na kilka dni, po kilka dziennie; przy okazji pierwsze odpowiedzi pokażą, czy tekst działa, zanim pójdzie do całej listy.
+- Pierwsze dwie linijki decydują, bo tylko tyle widać w podglądzie. Dlatego na początku jest **płatne** i **muzyka zostaje Twoja** - to odróżnia tę wiadomość od dziesięciu innych z tego tygodnia.
+
+Profil, z którego idzie wysyłka, zasilony czterema wpisami 22.10.2026 (medal, „Nagradzamy ludzi", „Gwiazdy nie wiedzą", piosenka); grafiki w katalogu `instagram/`.
+
 ## Adresaci
 
 (uzupełniać: imię, kanał kontaktu, data wysyłki, odpowiedź)
