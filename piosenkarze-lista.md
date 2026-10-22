@@ -2,9 +2,7 @@
 
 Materiał do maila/DM z [mail-piosenkarz-oferta.md](view.html?file=mail-piosenkarz-oferta). Nazwiska pochodzą z angielskiej Wikipedii, z opisów poszczególnych sezonów The Voice of Poland (sprawdzone 22.10.2026).
 
-**Dlaczego nie zwycięzcy.** Wygrana wiąże się zwykle z kontraktem płytowym, więc trafia się na wytwórnię zamiast na artystę, a rozmowa o utworze, który wykonawca ma wydać pod własnym nazwiskiem, rozbija się o cudze prawa do jego nagrań. Zwycięzców zostawiamy; celem są **drugie, trzecie i czwarte miejsca oraz półfinaliści, którzy odpadli** - mają głos, rozpoznawalność z telewizji, zwykle żadnej wytwórni nad sobą i realny powód, by mieć własny utwór.
-
-**Dlaczego nie agencje bookingowe.** Obsługują koncerty artystów już ustawionych, wyceniają inaczej niż 3000 zł i wydłużają drogę. Przy tym zleceniu pośrednik tylko podnosi cenę.
+**Zasada doboru (obowiązuje od 22.10.2026).** Decyduje autorski dorobek, a nie miejsce w programie. Nie wykluczamy z góry ani zwycięzców, ani osób pracujących z managementem czy wytwórnią - jedno i drugie sprawdza się indywidualnie, a artysta sam wskaże właściwą ścieżkę kontaktu, jeżeli jej potrzebuje. Nazwiska poniżej pochodzą z opisów sezonów The Voice of Poland i są wyłącznie punktem wyjścia.
 
 **Nazw kont na Instagramie tu nie ma celowo.** Nazwa konta zgadnięta z nazwiska trafia równie często na konto fanowskie albo podszywające się, a oferta wysłana pod zły adres szkodzi bardziej niż jej brak. Wpisanie nazwiska w wyszukiwarkę Instagrama zajmuje kilka sekund i daje pewność; przy weryfikacji szukać konta, które linkuje do serwisów streamingowych albo do materiałów z programu.
 
@@ -12,7 +10,7 @@ Materiał do maila/DM z [mail-piosenkarz-oferta.md](view.html?file=mail-piosenka
 
 ## Sezon 16 (2025, finał 29 listopada)
 
-Zwycięzca: Jan Piwowarczyk - **pomijamy**.
+Zwycięzca edycji: Jan Piwowarczyk.
 
 - [ ] **Hanna Kuzimowicz** - 2. miejsce, drużyna Michała Szpaka
 - [ ] **Mateusz Jagiełło** - 3. miejsce, drużyna Tomson & Baron
@@ -21,7 +19,7 @@ Zwycięzca: Jan Piwowarczyk - **pomijamy**.
 
 ## Sezon 15 (2024, finał 30 listopada)
 
-Zwyciężczyni: Anna Iwanek - **pomijamy**.
+Zwyciężczyni edycji: Anna Iwanek.
 
 - [ ] **Mikołaj Przybylski** - 2. miejsce
 - [ ] **Kacper Andrzejewski** - 3. miejsce
@@ -33,7 +31,7 @@ Zwyciężczyni: Anna Iwanek - **pomijamy**.
 
 ## Sezon 14 (2023, finał 25 listopada)
 
-Zwycięzca: Jan Górka - **pomijamy**.
+Zwycięzca edycji: Jan Górka.
 
 - [ ] **Antoni Zimnal** - 2. miejsce
 - [ ] **Becky Sangolo** - 3. miejsce
@@ -45,7 +43,7 @@ Zwycięzca: Jan Górka - **pomijamy**.
 
 ## Sezon 13 (2022, finał 19 listopada)
 
-Zwycięzca: Dominik Dudek - **pomijamy**.
+Zwycięzca edycji: Dominik Dudek.
 
 - [ ] **Łukasz Drapała** - 2. miejsce
 - [ ] **Konrad Baum** - 3. miejsce
@@ -69,17 +67,17 @@ Sprawdzone zostało jedno: czy dana osoba **wydaje własne utwory**, czy ma nad 
 
 ### Pierwsza fala: osoby z autorskim dorobkiem
 
-- [ ] **Łukasz Reks** (sezon 16, 4. miejsce) - do finału doszedł **z własną piosenką**, co jest najmocniejszym możliwym dowodem, że komponuje i pisze po polsku. Pierwszy adres na liście.
-- [ ] **Konrad Baum** (sezon 13, 3. miejsce) - prowadzi karierę solową i wydał kilka własnych utworów ("Sam jak Ty", "Czy to ja", "Człowiek"), mówił wprost, że chce przekuć zainteresowanie w muzykę i własny zespół. Z zawodu lekarz, więc honorarium nie jest dla niego kwestią przetrwania - to może działać w obie strony.
+- [ ] **Łukasz Reks** (sezon 16, 4. miejsce) - do finału doszedł **z własną piosenką**. Przed wysyłką sprawdzić kredyty kompozytorskie tego utworu, bo autorski singiel bywa napisany przez kogoś innego. Przy pozytywnym sprawdzeniu pierwszy adres na liście.
+- [ ] **Konrad Baum** (sezon 13, 3. miejsce) - prowadzi karierę solową i wydał kilka własnych utworów ("Sam jak Ty", "Czy to ja", "Człowiek"), mówił wprost, że chce przekuć zainteresowanie w muzykę i własny zespół.Z zawodu lekarz.
 - [ ] **Michał Sołtan** (sezon 14, półfinał) - opisuje się jako kompozytor, wokalista, gitarzysta i producent, ma własną stronę, zespół i regularne koncerty. Profil kompetencji pokrywa się ze zleceniem najdokładniej z całej listy.
 - [ ] **Żaneta Chełminiak** (sezon 16, 5. miejsce) - po programie nie zwolniła tempa, w maju 2026 wydała singiel "Wołam do nocy". Czynna, polska, po świeżym udziale.
 - [ ] **Mateusz Jagiełło** (sezon 16, 3. miejsce) - w trakcie programu zaprezentował własny utwór "Dansing", pracuje w radiu, więc rozumie stronę promocyjną zlecenia.
 - [ ] **Becky Sangolo** (sezon 14, 3. miejsce) - na własnej stronie przedstawia się jako singer, songwriter, composer, wydaje single i nagrywa z innymi wykonawcami. **Zastrzeżenie: repertuar w dużej części anglojęzyczny**, a tekst jest po polsku i mocno osadzony w polszczyźnie - przed wysyłką sprawdzić, jak interpretuje polskie teksty.
 
-### Kontakt tylko przez wytwórnię albo wcale
+### Kontakt możliwy, ale przez inną ścieżkę
 
-- **Hanna Kuzimowicz** (sezon 16, 2. miejsce) - po finale **podpisała z Polydor Records Poland** (Universal). Pisanie na prywatny profil mija się z celem, a utwór, który ma wydać pod własnym nazwiskiem, wymagałby zgody wytwórni. To ten sam przypadek co Drapała.
-- **Łukasz Drapała** (sezon 13, 2. miejsce) - od lat frontman Perfectu, nie szuka repertuaru.
+- **Hanna Kuzimowicz** (sezon 16, 2. miejsce) - po finale **podpisała z Polydor Records Poland** (Universal). Utwór wydany pod jej nazwiskiem wymagałby uzgodnień z wytwórnią, co wydłuża drogę, ale nie zamyka jej; jeśli pisać, to licząc się z tym, że odeśle do wytwórni.
+- **Łukasz Drapała** (sezon 13, 2. miejsce) - od lat frontman Perfectu, więc ma zobowiązania zespołowe; co z tego wynika dla takiego zlecenia, może powiedzieć tylko on sam.
 
 ### Druga fala: wokalnie dobrzy, brak śladu autorstwa
 
@@ -100,7 +98,7 @@ Miejsce w programie telewizyjnym mówi o wykonaniu wokalnym i nie mówi nic o ko
 
 Dwa przykłady pokazujące, że obecna lista opiera się na nieaktualnych założeniach:
 
-- **Łukasz Drapała** od lat śpiewa w Perfekcie, więc nie jest osobą szukającą własnego repertuaru - założenie "finalista bez wygranej" do niego nie pasuje.
+- **Łukasz Drapała** od lat śpiewa w Perfekcie, co pokazuje, że założenie "finalista bez wygranej szuka repertuaru" nie opisuje wszystkich na liście.
 - **Michał Sołtan** opisuje się jako kompozytor, wokalista, gitarzysta i producent, czyli odpowiada profilowi zlecenia znacznie lepiej, niż wynikałoby z samego określenia "półfinalista". O jego cenie i zainteresowaniu to nic nie mówi.
 
 Wnioski do wdrożenia przed wysyłką: nie wykluczać automatycznie zwycięzców, nie wykluczać kontaktu przez management, a pierwszą falę ograniczyć do kilku osób z realnym dorobkiem autorskim.

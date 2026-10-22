@@ -2,7 +2,7 @@
 
 ![Nagroda Konstela - Zapytaj inaczej](assets/piosenka.jpg)
 
-Szukam piosenkarki lub piosenkarza, który napisze własną muzykę do gotowego tekstu i nagra piosenkę. Rzecz dzieje się w dwóch krokach: **demo zamawiam i opłacam od razu**, a nagranie finalne jest osobnym zleceniem, które rusza po znalezieniu sponsora. Poniżej są wszystkie warunki, żeby dało się podjąć decyzję bez wymiany dziesięciu wiadomości.
+Szukam piosenkarki lub piosenkarza, który napisze własną muzykę do gotowego tekstu i nagra piosenkę. Rzecz dzieje się w dwóch krokach: **demo zamawiam i opłacam w ciągu siedmiu dni od jego otrzymania**, a nagranie finalne jest osobnym zleceniem, które rusza po znalezieniu sponsora. Poniżej są wszystkie warunki, żeby dało się podjąć decyzję bez wymiany dziesięciu wiadomości.
 
 ## Co to za piosenka
 
@@ -20,11 +20,11 @@ Dla wykonawcy to jest coś innego niż piosenka na zamówienie firmy. To zajęci
 
 ## Warunki
 
-**Krok pierwszy: demo za 800 zł, płatne bez żadnych warunków.** Zakres jest celowo wąski, żeby nikt nie wkładał w to tygodnia pracy: **jedna propozycja melodii, szkic nagrania i jedna runda poprawek**. Wystarczy głos i jeden instrument, nagrane w domu, albo sam głos. Wolno posłużyć się podkładem z generatora muzyki - demo nigdzie nie jest publikowane, służy wyłącznie mnie i rozmowom ze sponsorami i partnerami. Płacę za nie niezależnie od tego, co stanie się dalej, i niezależnie od tego, czy zdecyduję się na wersję finalną właśnie z Tobą. **Melodia z dema zostaje Twoja.** Mnie wolno z nim zrobić dwie rzeczy: odsłuchiwać na własny użytek i prezentować potencjalnym partnerom oraz sponsorom. Nie wolno mi go publikować ani przekazywać Twojej melodii innemu wykonawcy do nagrania. Jeżeli wybiorę kogoś innego, możesz ze swoją kompozycją zrobić, co zechcesz.
+**Krok pierwszy: demo za 800 zł, płatne bezwarunkowo w ciągu siedmiu dni od otrzymania.** Zakres jest celowo wąski, żeby nikt nie wkładał w to tygodnia pracy: **jedna propozycja melodii, szkic nagrania i jedna runda poprawek**. Wystarczy głos i jeden instrument, nagrane w domu, albo sam głos. Wolno posłużyć się podkładem z generatora muzyki - demo nigdzie nie jest publikowane, służy wyłącznie mnie i rozmowom ze sponsorami i partnerami. Płacę za nie niezależnie od tego, co stanie się dalej, i niezależnie od tego, czy zdecyduję się na wersję finalną właśnie z Tobą. **Melodia z dema zostaje Twoja.** Mnie wolno z nim zrobić dwie rzeczy: odsłuchiwać na własny użytek i prezentować potencjalnym partnerom oraz sponsorom. Nie wolno mi go publikować ani przekazywać Twojej melodii innemu wykonawcy do nagrania. Jeżeli wybiorę kogoś innego, możesz ze swoją kompozycją zrobić, co zechcesz.
 
 **Krok drugi: nagranie finalne za 3000 zł**, czyli pełna aranżacja, nagranie, miks i mastering, wykonane przez żywych ludzi, bez generatora. **Te 3000 zł są niezależne od 800 zł za demo**: jeżeli obydwa etapy robi ta sama osoba, otrzymuje łącznie 3800 zł. To zlecenie rusza po znalezieniu sponsora i nie potrafię dziś podać terminu. **Stawkę ustalamy jednak już teraz, przy zamawianiu dema**, żeby później nie było negocjacji pod presją. Uzgodniona cena wiąże nas oboje przez dwanaście miesięcy; po tym czasie, jeżeli sponsor wciąż się nie znajdzie, umawiamy się na nowo i nikt nie jest związany starą kwotą. Niezależnie od tego terminu przejście do nagrania finalnego wymaga osobnego potwierdzenia przez obie strony, bo przez te miesiące może zmienić się Twoja dostępność. Jeśli Twoja cena jest inna, podaj ją - 3000 zł to propozycja, nie cennik.
 
-**Kwoty i płatności.** Obie kwoty są kwotami brutto, czyli tyle wystawiasz na rachunku lub fakturze i tyle przelewam; jeżeli jesteś podatnikiem VAT, podaj cenę netto, a podatek doliczę. Za demo płacę **w ciągu siedmiu dni od jego otrzymania**, bez względu na to, czy pójdziemy dalej. Termin wykonania dema ustalamy przy zamówieniu.
+**Kwoty i płatności.** Proponowane honoraria wynoszą 800 zł za demo i 3000 zł za nagranie finalne. W przypadku rozliczenia fakturą VAT podatek zostanie doliczony do tych kwot. Łączną kwotę do zapłaty potwierdzimy przed zamówieniem. Za demo płacę **w ciągu siedmiu dni od jego otrzymania**, bez względu na to, czy pójdziemy dalej. Termin wykonania dema ustalamy przy zamówieniu.
 
 **Muzyka zostaje Twoja.** Możesz wydać ten utwór pod własnym nazwiskiem, grać go na koncertach i umieścić na swoich kanałach. Ja potrzebuję wyłącznie bezterminowego, **niewyłącznego** prawa do używania nagrania na stronie Nagrody i w materiałach o niej. Nie kupuję wyłączności, bo nie jest mi do niczego potrzebna.
 
@@ -106,7 +106,7 @@ Dla Ciebie może to być coś jeszcze: utwór o tym właśnie napięciu, wykonan
 
 ## Stan rzeczy, uczciwie
 
-Nagroda jeszcze nie wystartowała i nie ma zabezpieczonej puli nagród - pracuję nad tym. Demo zamawiam i opłacam z mojej jednoosobowej działalności. Fundacja, która będzie organizatorem Nagrody, dopiero powstaje, więc nie zasłaniam się nią przy płatności za demo i nie każę Ci czekać na jej rejestrację. Ta strona jest wersją roboczą, docelową przygotuje agencja kreatywna. Piszę to wprost, żeby nikt nie dowiadywał się tego później.
+Nagroda jeszcze nie wystartowała i nie ma zabezpieczonej puli nagród - pracuję nad tym. Demo zamawiam i opłacam z mojej jednoosobowej działalności, w ciągu siedmiu dni od otrzymania nagrania. Fundacja, która będzie organizatorem Nagrody, dopiero powstaje, więc nie zasłaniam się nią przy płatności za demo i nie każę Ci czekać na jej rejestrację. Ta strona jest wersją roboczą, docelową przygotuje agencja kreatywna. Piszę to wprost, żeby nikt nie dowiadywał się tego później.
 
 ## Kontakt
 
