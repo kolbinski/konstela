@@ -181,20 +181,27 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 
 1. **§ 1 ust. 3** - wyłączenie gry losowej. Czy sformułowanie „wynik zależy wyłącznie od oceny merytorycznej Kapituły, a udział jest bezpłatny" wystarczy, żeby nie była to gra hazardowa w rozumieniu ustawy z 19 listopada 2009 r.
 2. **§ 1 ust. 4** - wariant rozliczenia puli: wypłata przez Organizatora czy bezpośrednio przez fundatora. *Do ustalenia z księgowym.*
-3. **§ 3 ust. 4** - rozliczenie podatkowe laureatów niebędących polskimi rezydentami podatkowymi. *Do ustalenia z księgowym.*
+3. **§ 3 ust. 4** - rozliczenie podatkowe laureatów niebędących polskimi rezydentami podatkowymi. *Księgowy odpowiedział 22.10.2026: zależy od umowy o unikaniu podwójnego opodatkowania z państwem rezydencji laureata, w większości wypadków zasady zbliżone do krajowych, ale dochodzą dokumenty i obowiązki sprawozdawcze. Pozostaje do zaprojektowania procedura: certyfikat rezydencji, IFT-1R.*
 4. **§ 3 ust. 5b** - oświadczenia członków Akademii i Kapituły: czy odesłanie do ust. 5 i 5a jest właściwe i wystarczające.
 5. **§ 6 ust. 1** - progi formalne (800 słów, 12 wypowiedzi). Kalibracja na próbie oceny przed naborem; pytanie do prawnika wyłącznie takie, czy próg ogłoszony przed naborem może zostać później zmieniony i na jakich warunkach.
 6. **§ 8 ust. 11 lit. g** - próg rozbieżności ocen, do ustalenia po próbie kalibracyjnej.
-7. **§ 9 ust. 6** - czy pula zostaje ubruttowiona, tak aby laureat otrzymał pełną ogłoszoną kwotę. *Decyzja do podjęcia przed ogłoszeniem, z księgowym.*
+7. **§ 9 ust. 6** - czy pula zostaje ubruttowiona, tak aby laureat otrzymał pełną ogłoszoną kwotę. *Księgowy odpowiedział 22.10.2026: decyduje brzmienie ogłoszenia. Kwota opisana jako wypłacana laureatowi wymaga ubruttowienia; sama "kwota nagrody" jest kwotą brutto i laureat otrzymuje ją pomniejszoną o podatek. Decyzja Organizatora do podjęcia przed ogłoszeniem puli.*
 8. **§ 10 ust. 1** - próg nierozstrzygnięcia edycji (12 zgłoszeń). Liczba do potwierdzenia po pierwszym tygodniu naboru; pytanie prawne jak w punkcie 5.
 9. **§ 11 ust. 12** - status prawny wypowiedzi modelu oraz to, czy regulaminy dostawców dopuszczają publikację udostępnionych rozmów. **Pokrywa się z obszarem 3 i z obszarem 7** - tam jest rozwinięte.
 10. **§ 13 ust. 2** - zmiana regulaminu wyłącznie przed upływem terminu zgłoszeń i wyłącznie na korzyść Uczestników, którzy już się zgłosili. Czy ta konstrukcja jest skuteczna przy przyrzeczeniu publicznym.
 
 **W polityce prywatności:**
 
-11. **Pkt 4, „Jak długo"** - dokładny okres przechowywania danych laureatów według przepisów podatkowych. *Do ustalenia z księgowym.*
+11. **Pkt 4, „Jak długo"** - *Rozstrzygnięte 22.10.2026 przez księgowego: co najmniej 5 lat, licząc od początku roku następującego po roku obrotowym, w którym zatwierdzono sprawozdanie finansowe. Wpisane do polityki prywatności.*
 12. **Pkt 5** - dane osób trzecich w treści rozmowy: czy przerzucenie odpowiedzialności na Uczestnika wraz z odrzuceniem zgłoszenia na etapie formalnym jest wystarczające. **Wiąże się z obszarem 1.**
 13. **Pkt 7** - aktualna podstawa przekazywania danych do Stanów Zjednoczonych przy hostingu u GitHub, Inc.
+
+**W umowie z wykonawcą piosenki** (poza regulaminem, ale w tej samej konsultacji):
+
+14. **Konstrukcja dwustopniowa.** Demo zamawiane i opłacane z JDG bezwarunkowo, nagranie finalne jako osobne zlecenie po stawce uzgodnionej z góry, uruchamiane dopiero po znalezieniu sponsora i przez fundację, której jeszcze nie ma. Pytanie: jak zapisać drugi etap, żeby nie był zobowiązaniem do zawarcia umowy przyrzeczonej w rozumieniu umowy przedwstępnej, a jednocześnie żeby uzgodniona stawka wiązała, gdyby do niego doszło.
+15. **Autorstwo poprawek tekstu.** Strona oferty zaprasza wykonawcę do zgłaszania zmian w warstwie słownej. Jeżeli zmiany wejdą do nagrania, powstaje pytanie o współautorstwo tekstu i o to, co z tym zrobić: oświadczenie o przeniesieniu praw do poprawek, czy uznanie współautorstwa z odpowiednim zapisem o korzystaniu z utworu przez Nagrodę.
+16. **Prawa do dema.** Demo nie jest publikowane, ale ma być pokazywane sponsorom i partnerom. Potrzebny zapis pozwalający na takie wykorzystanie i rozstrzygający, co dzieje się z demem, jeżeli do wersji finalnej nie dochodzi albo dochodzi z inną osobą.
+17. **Udział w promocji.** Jeżeli wykonawca ma być twarzą piosenki w mediach, czy i jak uczynić to częścią zlecenia finalnego, zamiast liczyć na dobrą wolę.
 
 ## D. Załączniki
 
