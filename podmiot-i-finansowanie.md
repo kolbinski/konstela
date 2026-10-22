@@ -53,6 +53,29 @@ Fundacja wskazuje w statucie ministra właściwego ze względu na cele. Przy cel
 
 Mail do Cezarego i rozmowa z Wodzyńskim idą **równolegle**, jedno nie czeka na drugie. Powód: sponsor organizacyjny nie jest argumentem dla MC, bo resort ocenia, czy tematyka mieści się w kompetencjach cyfrowych, a to widać z regulaminu i strony. Zależność działa w drugą stronę - pismo z MC jest dźwignią wobec Tubądzina i wobec fundatora głównego. Wstrzymywanie maila do czasu rozmowy z Wodzyńskim kosztowałoby pewne opóźnienie w zamian za niepewny zysk.
 
+## Rada fundacji - po co i kto
+
+**Po co.** Minimum prawne to sam zarząd, ale przy konstrukcji, w której fundator jest jednocześnie jedynym członkiem zarządu i stroną umowy o prowadzenie Nagrody, fundacja zawierałaby umowę sama ze sobą. Potrzebny jest organ reprezentujący fundację wobec zarządu - rada, która sama podpisuje albo powołuje pełnomocnika. To jedyny twardy powód, dla którego rada musi istnieć, i przesądza o kształcie statutu. Powiązane: pytanie 38 w [prawnik.md](view.html?file=prawnik).
+
+**Ilu.** Zarząd jedno- lub dwuosobowy plus **rada dwu-, trzyosobowa**; przy trzech łatwiej o kworum, gdy ktoś wypadnie.
+
+**Profil.** Osoba niezależna od fundatora, z doświadczeniem organizacyjnym i odpornością na sprawozdawczość. **Rada nie jest witryną** - nazwiska są potrzebne w Kapitule, a to inna rola. Kapituły nie mieszać z radą: koncentracja zarządzania i oceniania w tych samych rękach osłabia niezależność, którą sprzedajemy ministerstwu i sponsorowi.
+
+**Cena dla zapraszanego.** § 3 ust. 5 regulaminu wyłącza organy fundacji z udziału w konkursie - każdy członek rady traci prawo startu. Trzeba to powiedzieć wprost przed przyjęciem funkcji, tak samo jak dziekanowi przy patronacie. Funkcja jest nieodpłatna.
+
+**Wysłane 22.10.2026:**
+
+- [ ] **Kamil Tatol** - mailem. Dawny współpracownik z projektu w Norwegii. W treści uwzględnione, że na wcześniejsze wiadomości nie odpowiadał; odmowa ma kosztować jedno zdanie.
+- [ ] **Tomasz Turczynowicz** - wiadomością na LinkedIn. Dawny współpracownik z Sygnity.
+
+W obu wypadkach powiedziano wprost: fundacji jeszcze nie ma, fundatora puli nagród też nie, funkcja jest nieodpłatna, a członkostwo wyłącza z udziału w konkursie. **Bez odpowiedzi po dwóch tygodniach temat zamykamy i szukamy dalej** - przy funkcji wpisywanej do KRS wymuszanie zgody jest gorsze niż jej brak.
+
+**Rozważany, decyzja odłożona (22.10.2026):**
+
+- **Marcin Albiniak** - wstrzymane do rozstrzygnięcia, w jakiej roli. Z własnej woli pisał szczegółowe uwagi do protokołu przy [[tesseract-protocol]], czyli jest z natury recenzentem, a nie członkiem organu. Rada to podpisywanie uchwał i odpowiedzialność formalna; jego mocna strona to czytanie i ocenianie. Ponieważ rady nie mieszamy z Kapitułą, **wejście do rady zamyka mu drogę do jury**, gdzie byłby prawdopodobnie cenniejszy. Decyzja: najpierw rozstrzygnąć rolę, potem zapraszać. Byłaby to też trzecia sprawa, z którą do niego piszemy - przy Tesseract dał uwagi, potem był pytany o mecenat pilotażu; planowana rozmowa wideo nigdy się nie odbyła.
+
+Potrzeba jeszcze co najmniej jednej osoby, a przy wariancie trzyosobowym dwóch.
+
 ## Pytania do księgowego (Piotr Jędrzejewski)
 
 **Wysłane mailem 22.10.2026.** Na wstępie prośba o polecenie księgowego specjalizującego się w fundacjach, gdyby sam ich nie obsługiwał. Korespondencja w formie grzecznościowej na „Pan", nie na „Ty".
