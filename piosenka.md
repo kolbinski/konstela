@@ -94,6 +94,8 @@ Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers 
 > Zapisz tę rozmowę, zostaw po sobie ślad.
 > Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
 
+Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu - szukałam, wiedziałam.
+
 ## Dlaczego w ogóle warto ją nagrać
 
 Niezależnie od tego, co stanie się z Nagrodą, ta piosenka ma dziś sens, którego nie miałaby pięć lat temu. Generator zrobi utwór w minutę i będzie on poprawny: zaśpiewany czysto, zmiksowany równo, bez jednego fałszu. Czego nie zrobi, to nie zaryzykuje niczego. Nie ma w nim człowieka, który tę melodię gdzieś usłyszał, czegoś się w niej przestraszył i mimo to podpisał się pod nią nazwiskiem.
