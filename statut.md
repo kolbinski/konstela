@@ -51,7 +51,7 @@
 
 ## Rozdział III. Majątek i dochody
 
-**§ 12.** Majątek Fundacji stanowi fundusz założycielski w kwocie **[DO USTALENIA: kwota]** zł, w tym **[DO USTALENIA]** zł przeznaczone na działalność gospodarczą, oraz środki nabyte w toku działania. `[Pytanie do księgowego, wysłane 22.10.2026]`
+**§ 12.** Majątek Fundacji stanowi fundusz założycielski w kwocie **[DO USTALENIA: kwota]** zł, w tym **[DO USTALENIA]** zł przeznaczone na działalność gospodarczą, oraz środki nabyte w toku działania. `[Księgowy odpowiedział 22.10.2026, że kwoty nie podpowie; pytanie przechodzi do biura obsługującego organizacje pozarządowe]`
 
 **§ 13.** Dochody Fundacji pochodzą w szczególności z:
 1. darowizn, spadków i zapisów;
@@ -115,7 +115,7 @@
 **§ 23.** 
 1. Fundacja może prowadzić działalność gospodarczą w rozmiarach służących realizacji jej celów statutowych, jako działalność dodatkową w stosunku do działalności statutowej.
 2. Na działalność gospodarczą przeznacza się część funduszu założycielskiego w kwocie **[DO USTALENIA, nie mniej niż 1000 zł]**.
-3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności: **[DO USTALENIA: kody PKD - wydawanie książek, działalność wydawnicza, działalność edukacyjna, reklama]**. `[Pytanie do księgowego]`
+3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności: **[DO USTALENIA: kody PKD - wydawanie książek, działalność wydawnicza, działalność edukacyjna, reklama]**. `[Księgowy nie podpowiada; pytanie przechodzi do biura obsługującego organizacje pozarządowe - patrz podmiot-i-finansowanie.md]`
 4. Dochód z działalności gospodarczej przeznaczany jest wyłącznie na cele statutowe.
 
 **§ 24.** Fundacja prowadzi gospodarkę finansową i rachunkowość zgodnie z obowiązującymi przepisami.
@@ -142,7 +142,7 @@
 1. Nazwa Fundacji - **rozstrzygnięte 22.10.2026: Fundacja Konstela.** Pozostaje do sprawdzenia dostępność w KRS i kolizja ze znakami towarowymi.
 2. Siedziba - **rozstrzygnięte 22.10.2026: Sieradz.**
 3. **Fundusz założycielski** - łączna kwota i część na działalność gospodarczą (księgowy).
-4. **Kody PKD** dla działalności gospodarczej (księgowy).
+4. **Kody PKD** dla działalności gospodarczej (biuro księgowe obsługujące organizacje pozarządowe - Globico nie prowadzi fundacji).
 5. **Liczebność Rady** - dwie czy trzy osoby.
 6. Kadencja Zarządu - **rozstrzygnięte 22.10.2026: bezterminowa.**
 7. **Wpis do rejestru przedsiębiorców od razu** czy dopiero przy rozpoczęciu działalności gospodarczej - wpływa na opłatę sądową i sprawozdawczość (księgowy).
