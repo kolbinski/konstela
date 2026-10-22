@@ -34,8 +34,8 @@ Dla wykonawcy to jest coś innego niż piosenka na zamówienie firmy. To zajęci
 
 Dla orientacji co do nastroju zrobiłem wersję roboczą w generatorze muzyki suno.com:
 
-- https://www.youtube.com/watch?v=aQMROneXt5s
-- https://www.youtube.com/watch?v=MmqRcQQe5Oo
+- https://www.youtube.com/watch?v=-o27mezz_Ik
+- https://www.youtube.com/watch?v=pcjPeUMpoAI
 
 To dwa podejścia do tego samego i są **wyłącznie wskazówką klimatu, nie wzorem do odtworzenia**. Jeśli wymyślisz to zupełnie inaczej, tym lepiej - po to szukam człowieka. Słowa są ludzkie, dźwięk na razie nie i właśnie to chcę zmienić.
 
