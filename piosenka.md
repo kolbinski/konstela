@@ -47,6 +47,8 @@ To dwa podejścia do tego samego i są **wyłącznie wskazówką klimatu, nie wz
 
 Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers się nie śpiewa, że akcent pada nie tam, gdzie trzeba, albo że dwie linijki warto zamienić miejscami, powiedz to - poprawimy. Nie jestem tekściarzem zawodowym i zakładam, że osoba, która to zaśpiewa, usłyszy w tym rzeczy, których ja nie słyszę. Proszę tylko o jedno: żeby zmiany omawiać, zanim wejdą do nagrania, bo trzy rzeczy mają zostać, choćby w innych słowach. Że wartość bierze się z połączeń, a nie z samych faktów. Że w trzeciej zwrotce nie ma olśnienia, tylko coś, co wydarzyło się w konkretnej chwili. I że AI myli się pięknie i pewnie, więc człowiek musi sprawdzać. Poza tym zostaje dużo miejsca.
 
+Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu - szukałam, wiedziałam.
+
 > **[Zwrotka 1]**
 >
 > Mam w kieszeni wszystkie fakty świata,
@@ -93,8 +95,6 @@ Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers 
 >
 > Zapisz tę rozmowę, zostaw po sobie ślad.
 > Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
-
-Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu - szukałam, wiedziałam.
 
 ## Dlaczego w ogóle warto ją nagrać
 
