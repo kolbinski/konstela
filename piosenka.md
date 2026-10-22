@@ -1,6 +1,6 @@
 # Zlecenie: muzyka do piosenki "Zapytaj inaczej"
 
-![Nagroda Konstela - Zapytaj inaczej](piosenka/thumbnail-1.png)
+![Nagroda Konstela - Zapytaj inaczej](assets/piosenka.jpg)
 
 Szukam piosenkarki lub piosenkarza, który napisze własną muzykę do gotowego tekstu i nagra piosenkę. Rzecz dzieje się w dwóch krokach: **demo zamawiam i opłacam od razu**, a nagranie finalne jest osobnym zleceniem, które rusza po znalezieniu sponsora. Poniżej są wszystkie warunki, żeby dało się podjąć decyzję bez wymiany dziesięciu wiadomości.
 
