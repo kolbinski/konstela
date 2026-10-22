@@ -18,9 +18,9 @@ Dla wykonawcy to jest coś innego niż piosenka na zamówienie firmy. To zajęci
 
 ## Warunki
 
-**Krok pierwszy: demo za 800 zł, płatne bez żadnych warunków.** Wystarczy szkic: głos i jeden instrument, nagrany w domu, albo sam głos. Wolno posłużyć się podkładem z generatora muzyki - demo nigdzie nie jest publikowane, służy wyłącznie mnie i rozmowom ze sponsorami. Płacę za nie niezależnie od tego, co stanie się dalej, i niezależnie od tego, czy zdecyduję się na wersję finalną właśnie z Tobą.
+**Krok pierwszy: demo za 800 zł, płatne bez żadnych warunków.** Zakres jest celowo wąski, żeby nikt nie wkładał w to tygodnia pracy: **jedna propozycja melodii, szkic nagrania i jedna runda poprawek**. Wystarczy głos i jeden instrument, nagrane w domu, albo sam głos. Wolno posłużyć się podkładem z generatora muzyki - demo nigdzie nie jest publikowane, służy wyłącznie mnie i rozmowom ze sponsorami i partnerami. Płacę za nie niezależnie od tego, co stanie się dalej, i niezależnie od tego, czy zdecyduję się na wersję finalną właśnie z Tobą. **Melodia z dema zostaje Twoja**: jeżeli wybiorę kogoś innego, nie mam do niej żadnych praw poza tym jednym nagraniem i możesz z nią zrobić, co zechcesz.
 
-**Krok drugi: nagranie finalne za 3000 zł**, czyli pełna aranżacja, nagranie, miks i mastering, wykonane przez żywych ludzi, bez generatora. To zlecenie rusza po znalezieniu sponsora i nie potrafię dziś podać terminu. **Stawkę ustalamy jednak już teraz, przy zamawianiu dema**, żeby później nie było negocjacji pod presją. Jeśli Twoja cena jest inna, podaj ją - 3000 zł to propozycja, nie cennik.
+**Krok drugi: nagranie finalne za 3000 zł**, czyli pełna aranżacja, nagranie, miks i mastering, wykonane przez żywych ludzi, bez generatora. To zlecenie rusza po znalezieniu sponsora i nie potrafię dziś podać terminu. **Stawkę ustalamy jednak już teraz, przy zamawianiu dema**, żeby później nie było negocjacji pod presją. Uzgodniona cena wiąże nas oboje przez dwanaście miesięcy; po tym czasie, jeżeli sponsor wciąż się nie znajdzie, umawiamy się na nowo i nikt nie jest związany starą kwotą. Jeśli Twoja cena jest inna, podaj ją - 3000 zł to propozycja, nie cennik.
 
 **Muzyka zostaje Twoja.** Możesz wydać ten utwór pod własnym nazwiskiem, grać go na koncertach i umieścić na swoich kanałach. Ja potrzebuję wyłącznie bezterminowego, **niewyłącznego** prawa do używania nagrania na stronie Nagrody i w materiałach o niej. Nie kupuję wyłączności, bo nie jest mi do niczego potrzebna.
 
@@ -28,7 +28,7 @@ Dla wykonawcy to jest coś innego niż piosenka na zamówienie firmy. To zajęci
 
 **Gala.** Jeśli konkurs ruszy, chciałbym, żeby piosenka zabrzmiała na żywo podczas gali wręczenia nagród w Twoim wykonaniu. To trzecie, osobne i również płatne zlecenie, nie warunek żadnego z poprzednich.
 
-**Twarz piosenki.** Nie szukam kogoś, kto nagra utwór i zniknie. Jeśli Nagroda ruszy, piosenka będzie jej wizytówką, a Ty jej wykonawcą: w rozmowach z mediami, w radiu, w pasmach muzycznych i porannych programach, wszędzie tam, gdzie uda się ją wypromować. Niczego tu nie obiecuję, bo o tym decydują redakcje, a nie ja, i nie każdy ma na to ochotę. Piszę o tym, bo to działa w obie strony: jeśli lubisz tę część zawodu, jest to dla Ciebie kawałek widoczności przy temacie, o którym w 2027 roku będzie się mówić, a jeśli nie lubisz, lepiej, żebyś wiedział o tym teraz niż po nagraniu.
+**Twarz piosenki.** Nie szukam kogoś, kto nagra utwór i zniknie. Jeśli Nagroda ruszy, piosenka będzie jej wizytówką, a Ty jej wykonawcą: w rozmowach z mediami, w radiu, w pasmach muzycznych i porannych programach, wszędzie tam, gdzie uda się ją wypromować. Niczego tu nie obiecuję, bo o tym decydują redakcje, a nie ja, i nie każdy ma na to ochotę. Piszę o tym, bo to działa w obie strony: jeśli lubisz tę część zawodu, jest to dla Ciebie kawałek widoczności przy temacie, o którym w 2027 roku będzie się mówić, a jeśli nie lubisz, lepiej, żebyś wiedział o tym teraz niż po nagraniu. Udział w promocji umawiamy osobno i osobno wynagradzam - samo pozwolenie na wydanie utworu nie jest zapłatą za dyspozycyjność.
 
 ## Jak brzmi wersja robocza
 
@@ -41,7 +41,7 @@ To dwa podejścia do tego samego i są **wyłącznie wskazówką klimatu, nie wz
 
 ## Tekst piosenki
 
-Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers się nie śpiewa, że akcent pada nie tam, gdzie trzeba, albo że dwie linijki warto zamienić miejscami, powiedz to - poprawimy. Nie jestem tekściarzem zawodowym i zakładam, że osoba, która to zaśpiewa, usłyszy w tym rzeczy, których ja nie słyszę. Proszę tylko o jedno: żeby zmiany omawiać, zanim wejdą do nagrania, bo cztery rzeczy mają zostać, choćby w innych słowach. Że wartość bierze się z połączeń, a nie z samych faktów. Że gładka odpowiedź jest skutkiem złego pytania. Że w trzeciej zwrotce nie ma olśnienia, tylko moment, który da się wskazać palcem. I że AI myli się pięknie i pewnie, więc człowiek musi sprawdzać. Poza tym zostaje dużo miejsca.
+Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers się nie śpiewa, że akcent pada nie tam, gdzie trzeba, albo że dwie linijki warto zamienić miejscami, powiedz to - poprawimy. Nie jestem tekściarzem zawodowym i zakładam, że osoba, która to zaśpiewa, usłyszy w tym rzeczy, których ja nie słyszę. Proszę tylko o jedno: żeby zmiany omawiać, zanim wejdą do nagrania, bo trzy rzeczy mają zostać, choćby w innych słowach. Że wartość bierze się z połączeń, a nie z samych faktów. Że w trzeciej zwrotce nie ma olśnienia, tylko coś, co wydarzyło się w konkretnej chwili. I że AI myli się pięknie i pewnie, więc człowiek musi sprawdzać. Poza tym zostaje dużo miejsca.
 
 **[Zwrotka 1]**
 
@@ -61,8 +61,8 @@ tylko miejsca, gdzie pęka mój słuch.
 
 Gwiazdy nie wiedzą, że są konstelacją,
 dopóki ktoś nie poprowadzi linii.
-Nie nagradzamy tego, kto odpowiada,
-tylko tego, kto zapyta inaczej.
+Nie liczy się ten, kto odpowiada,
+tylko ten, kto zapyta inaczej.
 
 **[Zwrotka 3]**
 
@@ -82,8 +82,8 @@ bo to moja głowa ma z tego coś wynieść.
 
 Gwiazdy nie wiedzą, że są konstelacją,
 dopóki ktoś nie poprowadzi linii.
-Nie nagradzamy tego, kto odpowiada,
-tylko tego, kto zapyta inaczej.
+Nie liczy się ten, kto odpowiada,
+tylko ten, kto zapyta inaczej.
 
 **[Zakończenie]**
 
@@ -98,7 +98,7 @@ Niezależnie od tego, co stanie się z Nagrodą, ta piosenka ma dziś sens, któ
 
 Dla mnie ta piosenka jest dowodem tezy, którą głosi cała Nagroda: narzędzie zrobi za nas część roboty, ale wartość bierze się stąd, że ktoś postanowił coś z tego zbudować i wziął za to odpowiedzialność. Dlatego tekst napisał człowiek, wersja robocza powstała w generatorze i mówię o tym otwarcie, a wersję, którą usłyszą ludzie, ma nagrać człowiek.
 
-Dla Ciebie może to być coś jeszcze. W zawodzie, w którym od dwóch lat wszyscy pytają, po co jeszcze śpiewacy, utwór o tym właśnie napięciu, wykonany przez żywą osobę, jest wypowiedzią w Twojej własnej sprawie. Nie każdy chce takich wypowiedzi i to zrozumiałe. Ale jeśli chcesz, to jest dokładnie ta piosenka.
+Dla Ciebie może to być coś jeszcze: utwór o tym właśnie napięciu, wykonany przez żywą osobę, jest wypowiedzią w sprawie, która dotyczy Twojego zawodu bezpośrednio. Nie każdy chce takich wypowiedzi i to zrozumiałe.
 
 ## Stan rzeczy, uczciwie
 

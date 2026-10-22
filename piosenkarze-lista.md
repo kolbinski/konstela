@@ -62,3 +62,14 @@ Zwycięzca: Dominik Dudek - **pomijamy**.
 Dwadzieścia pięć nazwisk to za dużo na jedną falę. Przed wysyłką warto posłuchać, co każda z tych osób wydaje dzisiaj, i odsiać po dwóch kryteriach: **czy śpiewa po polsku** oraz **czy jej rejestr pasuje do tekstu** - ballada z narastającą aranżacją, a nie pop taneczny ani wokalistyka popisowa. Ostatnie edycje są lepszym tropem niż wcześniejsze: im świeższy udział, tym większa szansa, że ktoś buduje właśnie repertuar i szuka materiału.
 
 **Trop poboczny, niezależny od programu:** wydziały wokalne i jazzowe akademii muzycznych (Katowice, Warszawa, Kraków, Gdańsk, Łódź). Adresy są publiczne, a wykładowca przekaże zapytanie studentom - ten sam ruch co pismo do Politechniki. Daje ludzi po warsztacie, przed karierą, dla których 3000 zł i własny utwór do wydania to realna propozycja.
+
+## Zmiana logiki selekcji (22.10.2026, po recenzji)
+
+Miejsce w programie telewizyjnym mówi o wykonaniu wokalnym i nie mówi nic o komponowaniu, produkcji, wolnym kalendarzu ani o zobowiązaniach wobec wytwórni. Zlecenie dotyczy przede wszystkim **napisania muzyki**, więc listę trzeba uporządkować według autorskiego dorobku, sposobu interpretowania polskiego tekstu i zdolności do samodzielnego przygotowania nagrania, a dopiero potem według rozpoznawalności.
+
+Dwa przykłady pokazujące, że obecna lista opiera się na nieaktualnych założeniach:
+
+- **Łukasz Drapała** od lat śpiewa w Perfekcie, więc nie jest osobą szukającą własnego repertuaru - założenie "finalista bez wygranej" do niego nie pasuje.
+- **Michał Sołtan** opisuje się jako kompozytor, wokalista, gitarzysta i producent, czyli odpowiada profilowi zlecenia znacznie lepiej, niż wynikałoby z samego określenia "półfinalista". O jego cenie i zainteresowaniu to nic nie mówi.
+
+Wnioski do wdrożenia przed wysyłką: nie wykluczać automatycznie zwycięzców, nie wykluczać kontaktu przez management, a pierwszą falę ograniczyć do kilku osób z realnym dorobkiem autorskim.
