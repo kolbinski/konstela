@@ -557,6 +557,44 @@
         outline: 2px solid var(--fg);
         outline-offset: 2px;
       }
+      .tagline {
+        font-family: var(--display);
+        font-size: clamp(1rem, 2.6vw, 1.15rem);
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--brass);
+        margin: 1.1rem 0 0;
+      }
+      .song {
+        display: block;
+        margin-top: 1.4rem;
+        border: 1px solid var(--rule);
+        background: var(--surface);
+        color: inherit;
+        text-decoration: none;
+      }
+      .song img {
+        display: block;
+        width: 100%;
+        height: auto;
+      }
+      .song .song-note {
+        display: block;
+        padding: 0.75rem 1rem;
+        border-top: 1px solid var(--rule);
+        font-family: var(--body);
+        font-size: 0.85rem;
+        line-height: 1.5;
+        color: var(--muted);
+      }
+      .song:hover .song-note,
+      .song:focus-visible .song-note {
+        color: var(--brass);
+      }
+      .song:focus-visible {
+        outline: 2px solid var(--brass);
+        outline-offset: 3px;
+      }
       .hint {
         font-size: 0.9rem;
         color: var(--muted);
@@ -613,6 +651,7 @@
               w układ, jakiego sam wcześniej nie dostrzegał.
             </p>
             <p class="lede-sub">Nagradzamy ludzi, nie sztuczną inteligencję.</p>
+            <p class="tagline">Zapytaj inaczej</p>
           </div>
         </div>
 
@@ -668,7 +707,9 @@
             A to on decyduje, czy z rozmowy coś wyniknie. Model odpowiada na to,
             o co go zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś
             drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy
-            wraca po godzinie do wątku, który wtedy wydawał się nieważny.
+            wraca po godzinie do wątku, który wtedy wydawał się nieważny. Całe
+            nasze zaproszenie mieści się więc w dwóch słowach:
+            <strong>zapytaj inaczej</strong>.
           </p>
           <p>
             Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja
@@ -966,6 +1007,38 @@
             kierujcie na <a href="mailto:contact@konstela.org">contact@konstela.org</a>.
           </p>
         </div>
+      </section>
+
+      <section>
+        <h2>Zapytaj inaczej</h2>
+        <div class="prose">
+          <p>
+            Hasło Nagrody doczekało się piosenki. To wersja robocza: tekst
+            napisał człowiek, muzykę wygenerował model. Mówimy o tym wprost, bo
+            właśnie na tym rozróżnieniu stoi tu wszystko. Właściwe nagranie
+            powstanie z wykonawcą, który napisze do tych słów własną muzykę.
+          </p>
+        </div>
+        <a
+          class="song"
+          href="https://www.youtube.com/watch?v=aQMROneXt5s"
+          target="_blank"
+          rel="noopener"
+        >
+          <img
+            src="assets/piosenka.jpg"
+            srcset="assets/piosenka-800.jpg 800w, assets/piosenka.jpg 1600w"
+            sizes="(min-width: 720px) 680px, 100vw"
+            width="1600"
+            height="900"
+            loading="lazy"
+            alt="Dłoń wskazująca nocne niebo, w którym gwiazdy układają się w konstelację; napis Konstela, Zapytaj inaczej"
+          />
+          <span class="song-note">
+            Posłuchaj &bdquo;Kto poprowadzi linię&rdquo; &middot; YouTube,
+            otwiera się w nowej karcie
+          </span>
+        </a>
       </section>
 
       <footer>
