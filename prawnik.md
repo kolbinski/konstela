@@ -2,7 +2,7 @@
 
 Krzysztof Olbiński · olbinski@gmail.com · +48 503 520 004
 
-Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje pięć obszarów do rozstrzygnięcia i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst jest w załączeniu i pod adresem konstela.org/regulamin.
+Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje siedem obszarów do rozstrzygnięcia oraz listę pojedynczych miejsc wymagających sprawdzenia (część Ca), i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst regulaminu jest dostępny pod adresem konstela.org/view.html?file=regulamin.
 
 ---
 
@@ -28,7 +28,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 
 | Warstwa            | Co obejmuje                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------- |
-| Udział w konkursie | imię i nazwisko, miejscowość, adres e-mail                                             |
+| Udział w konkursie | imię i nazwisko, miejscowość, adres e-mail                              |
 | Treść rozmowy      | kopia archiwalna sporządzana przez organizatora, czytana przez jurorów                 |
 | Wypłata i podatek  | dane do przelewu i rozliczenia, przechowywane przez okres podatkowy                    |
 | Publikacja         | antologia i archiwum rozmów, jako warunek udziału, na podstawie licencji z § 11 ust. 3 |
@@ -41,7 +41,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 3. Czy treść rozmowy wymaga odrębnej podstawy od danych rejestracyjnych i czy przy kopii archiwalnej potrzebne jest coś więcej niż informacja o jej sporządzeniu.
 4. Czy przyjęte terminy retencji są prawidłowe: 60 dni od ogłoszenia wyników dla nienagrodzonych, okres podatkowy dla laureatów, do 24 miesięcy dla materiału zakwalifikowanego do archiwum, lecz jeszcze nieopublikowanego.
 5. Czy potrzebna jest umowa powierzenia wobec osób oceniających, które czytają rozmowy w panelu, czy wystarczy upoważnienie do przetwarzania.
-   5a. **Weryfikacja zgłoszenia kodem SMS (decyzja z 21.10.2026).** Regulamin wprowadza zasadę jednego zgłoszenia na osobę, egzekwowaną numerem telefonu: po wysłaniu kodu numer nie jest przechowywany w postaci jawnej, lecz zastępowany skrótem z kluczem tajnym trzymanym odrębnie od bazy, służącym wyłącznie do stwierdzenia, czy z tego numeru już zgłaszano. Powód wprowadzenia: przy puli docelowo 300 tys. zł nabór bez takiego zabezpieczenia może zostać zalany zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej. Przyjęliśmy, że **skrót pozostaje daną osobową** (motyw 26 RODO) i opisaliśmy go tak w polityce prywatności, nie nazywając anonimizacją. Pytania: czy prawnie uzasadniony interes (art. 6 ust. 1 lit. f) jest tu właściwą podstawą, czy raczej wykonanie stosunku ze zgłoszenia; czy wymóg podania numeru nie narusza zasady minimalizacji przy tym celu i czy wystarczającą przeciwwagą jest tryb zastępczy dla osób bez telefonu; czy termin usunięcia skrótu z chwilą zamknięcia edycji jest prawidłowy; czy dostawca bramki SMS wymaga umowy powierzenia i czy jego wybór trzeba ograniczyć do EOG.
+5a. **Weryfikacja zgłoszenia kodem SMS (decyzja z 21.10.2026).** Regulamin wprowadza zasadę jednego zgłoszenia na osobę, egzekwowaną numerem telefonu: po wysłaniu kodu numer nie jest przechowywany w postaci jawnej, lecz zastępowany skrótem z kluczem tajnym trzymanym odrębnie od bazy, służącym wyłącznie do stwierdzenia, czy z tego numeru już zgłaszano. Powód wprowadzenia: przy puli docelowo 300 tys. zł nabór bez takiego zabezpieczenia może zostać zalany zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej. Przyjęliśmy, że **skrót pozostaje daną osobową** (motyw 26 RODO) i opisaliśmy go tak w polityce prywatności, nie nazywając anonimizacją. Pytania: czy prawnie uzasadniony interes (art. 6 ust. 1 lit. f) jest tu właściwą podstawą, czy raczej wykonanie stosunku ze zgłoszenia; czy wymóg podania numeru nie narusza zasady minimalizacji przy tym celu i czy wystarczającą przeciwwagą jest tryb zastępczy dla osób bez telefonu; czy termin usunięcia skrótu z chwilą zamknięcia edycji jest prawidłowy; czy dostawca bramki SMS wymaga umowy powierzenia i czy jego wybór trzeba ograniczyć do EOG.
    5a. Zgłoszenia przyjmowane będą przez **zewnętrzny formularz (Google Forms)**, a kopie archiwalne przechowywane w prywatnym magazynie. Jakie to rodzi obowiązki: umowa powierzenia, informacja o odbiorcach danych, przekazanie poza EOG, i czy przy tej skali rozsądniej zbudować formularz własny na stronie Nagrody.
 
 **Oczekiwany produkt:** gotowa klauzula informacyjna do § 12 i do polityki prywatności oraz wskazanie podstaw przetwarzania dla każdej warstwy.
@@ -161,10 +161,10 @@ Rozważane warianty: (a) rezygnacja z automatycznego pobierania u dostawców, kt
 **Pytania:**
 
 39. Czy automatyczne sporządzanie kopii archiwalnej ze strony udostępnionej rozmowy - przy zgodzie uczestnika, lecz bez zgody dostawcy modelu - jest dopuszczalne, i czy odpowiedź zmienia się, gdy wymaga ono ominięcia zabezpieczenia antybotowego. Jakie jest ryzyko z art. 267 i nast. k.k. oraz z tytułu naruszenia regulaminu dostawcy, i kto je ponosi: fundacja, zarząd, czy osoba uruchamiająca narzędzie.
-    39a. Czy wariant (d) zmienia ocenę prawną: strona jest otwierana przez człowieka, który samodzielnie przechodzi weryfikację antybotową, a program odczytuje wyłącznie stronę już wyświetloną w jego przeglądarce. Czy odpowiedź jest inna dla odczytu samego dokumentu, a inna dla odczytu danych, które aplikacja dostawcy pobiera z jego serwera.
+39a. Czy wariant (d) zmienia ocenę prawną: strona jest otwierana przez człowieka, który samodzielnie przechodzi weryfikację antybotową, a program odczytuje wyłącznie stronę już wyświetloną w jego przeglądarce. Czy odpowiedź jest inna dla odczytu samego dokumentu, a inna dla odczytu danych, które aplikacja dostawcy pobiera z jego serwera.
 40. Czy zgoda uczestnika na sporządzenie kopii jego rozmowy sanuje cokolwiek wobec dostawcy, który nie jest stroną tej zgody.
 41. Czy wariant (a) w zawężonej postaci - uczestnik załącza **wydruk pojedynczej rozmowy do PDF** - jest dopuszczalny i czy organizator, prosząc o taki plik, nie nakłania uczestnika do naruszenia regulaminu dostawcy. Co organizator powinien w tej sprawie oświadczyć w regulaminie.
-    41a. Czy regulamin i formularz powinny **wprost zakazywać** przesyłania eksportu całego konta u dostawcy, skoro jego przyjęcie oznaczałoby przetwarzanie danych bez podstawy; czy wystarczy zakaz i odrzucanie takich plików, czy potrzebne są dodatkowe zabezpieczenia proceduralne na wypadek, gdy uczestnik prześle taki plik mimo zakazu.
+41a. Czy regulamin i formularz powinny **wprost zakazywać** przesyłania eksportu całego konta u dostawcy, skoro jego przyjęcie oznaczałoby przetwarzanie danych bez podstawy; czy wystarczy zakaz i odrzucanie takich plików, czy potrzebne są dodatkowe zabezpieczenia proceduralne na wypadek, gdy uczestnik prześle taki plik mimo zakazu.
 42. Jak powinien brzmieć § 5 w części o kopii archiwalnej, jeżeli dla części dostawców kopia będzie powstawać automatycznie, a dla części wyłącznie z pliku dostarczonego przez uczestnika. W szczególności: czy można uzależnić sposób zgłoszenia od tego, z którego modelu uczestnik korzystał, nie naruszając równego traktowania uczestników.
 
 ---
@@ -180,19 +180,19 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 **W regulaminie:**
 
 1. **§ 1 ust. 3** - wyłączenie gry losowej. Czy sformułowanie „wynik zależy wyłącznie od oceny merytorycznej Kapituły, a udział jest bezpłatny" wystarczy, żeby nie była to gra hazardowa w rozumieniu ustawy z 19 listopada 2009 r.
-2. **§ 1 ust. 4** - wariant rozliczenia puli: wypłata przez Organizatora czy bezpośrednio przez fundatora. _Do ustalenia z księgowym._
-3. **§ 3 ust. 4** - rozliczenie podatkowe laureatów niebędących polskimi rezydentami podatkowymi. _Do ustalenia z księgowym._
+2. **§ 1 ust. 4** - wariant rozliczenia puli: wypłata przez Organizatora czy bezpośrednio przez fundatora. *Do ustalenia z księgowym.*
+3. **§ 3 ust. 4** - rozliczenie podatkowe laureatów niebędących polskimi rezydentami podatkowymi. *Do ustalenia z księgowym.*
 4. **§ 3 ust. 5b** - oświadczenia członków Akademii i Kapituły: czy odesłanie do ust. 5 i 5a jest właściwe i wystarczające.
 5. **§ 6 ust. 1** - progi formalne (800 słów, 12 wypowiedzi). Kalibracja na próbie oceny przed naborem; pytanie do prawnika wyłącznie takie, czy próg ogłoszony przed naborem może zostać później zmieniony i na jakich warunkach.
 6. **§ 8 ust. 11 lit. g** - próg rozbieżności ocen, do ustalenia po próbie kalibracyjnej.
-7. **§ 9 ust. 6** - czy pula zostaje ubruttowiona, tak aby laureat otrzymał pełną ogłoszoną kwotę. _Decyzja do podjęcia przed ogłoszeniem, z księgowym._
+7. **§ 9 ust. 6** - czy pula zostaje ubruttowiona, tak aby laureat otrzymał pełną ogłoszoną kwotę. *Decyzja do podjęcia przed ogłoszeniem, z księgowym.*
 8. **§ 10 ust. 1** - próg nierozstrzygnięcia edycji (12 zgłoszeń). Liczba do potwierdzenia po pierwszym tygodniu naboru; pytanie prawne jak w punkcie 5.
 9. **§ 11 ust. 12** - status prawny wypowiedzi modelu oraz to, czy regulaminy dostawców dopuszczają publikację udostępnionych rozmów. **Pokrywa się z obszarem 3 i z obszarem 7** - tam jest rozwinięte.
 10. **§ 13 ust. 2** - zmiana regulaminu wyłącznie przed upływem terminu zgłoszeń i wyłącznie na korzyść Uczestników, którzy już się zgłosili. Czy ta konstrukcja jest skuteczna przy przyrzeczeniu publicznym.
 
 **W polityce prywatności:**
 
-11. **Pkt 4, „Jak długo"** - dokładny okres przechowywania danych laureatów według przepisów podatkowych. _Do ustalenia z księgowym._
+11. **Pkt 4, „Jak długo"** - dokładny okres przechowywania danych laureatów według przepisów podatkowych. *Do ustalenia z księgowym.*
 12. **Pkt 5** - dane osób trzecich w treści rozmowy: czy przerzucenie odpowiedzialności na Uczestnika wraz z odrzuceniem zgłoszenia na etapie formalnym jest wystarczające. **Wiąże się z obszarem 1.**
 13. **Pkt 7** - aktualna podstawa przekazywania danych do Stanów Zjednoczonych przy hostingu u GitHub, Inc.
 
