@@ -55,7 +55,23 @@ Mail do Cezarego i rozmowa z Wodzyńskim idą **równolegle**, jedno nie czeka n
 
 ## Pytania do księgowego (Piotr Jędrzejewski)
 
-- Czy fundacja wchodzi od razu w VAT, czy korzysta ze zwolnienia podmiotowego. Przy 82 tys. brutto zwolnienie jest w zasięgu, ale zmienia kształt faktury dla sponsora.
+**Wysłane mailem 22.10.2026.** Na wstępie prośba o polecenie księgowego specjalizującego się w fundacjach, gdyby sam ich nie obsługiwał. Korespondencja w formie grzecznościowej na „Pan", nie na „Ty".
+
+**Pilne - wpływają na treść statutu, który idzie do notariusza na początku listopada:**
+
+- Czy przy modelu „wydawca sprzedaje, fundacja pobiera honorarium licencyjne" konieczna jest wpisana działalność gospodarcza i wpis do rejestru przedsiębiorców, czy wystarczy działalność statutowa; ile kosztuje wariant z działalnością w sprawozdawczości i opłatach.
+- Jaki fundusz założycielski przyjąć przy tej konstrukcji.
+- Czy fundacja wchodzi od razu w VAT, czy korzysta ze zwolnienia podmiotowego. Zwolnienie jest w zasięgu, ale zmienia kształt faktury dla sponsora - środki mają wpływać na podstawie faktury za usługę promocyjną, nie jako darowizna.
+
+**Mogą poczekać kilka tygodni:**
+
+- Czy płatnikiem zryczałtowanego podatku 10% jest fundacja także wtedy, gdy środki pochodzą od fundatora zewnętrznego, i jak skonstruować umowę z fundatorem, by to domknąć.
+- Czy ubruttowić pulę, tak aby laureat otrzymał pełną ogłoszoną kwotę - decyzja do podjęcia przed ogłoszeniem puli.
+- Czy laureat niebędący polskim rezydentem podatkowym rodzi inne obowiązki i czy to argument za ograniczeniem kręgu uczestników.
+- Przez jaki dokładnie okres przechowywać dane laureatów według przepisów podatkowych - potrzebny konkretny termin do polityki prywatności, dziś jest tam ogólne odesłanie do Ordynacji.
+
+**Pozostałe, zadane wcześniej, nadal otwarte:**
+
 - Jak rozliczyć honorarium licencyjne od wydawcy po stronie fundacji.
 - Czy przy przyjętej konstrukcji cokolwiek przechodzi jeszcze przez JDG; założenie: nie.
 
