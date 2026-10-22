@@ -4,7 +4,7 @@ Wysyłany równolegle do grona wykonawców; kierunek: uczestnicy programów muzy
 
 **Ustalenia (22.10.2026):** honorarium 3000 zł; muzyka zostaje wykonawcy, fundacja bierze prawo bezterminowe i **niewyłączne**; zlecenie wychodzi z JDG, bo fundacji jeszcze nie ma; **wynagrodzenie nie zależy od tego, czy konkurs ruszy**.
 
-**Tytuł.** Roboczo brzmiał „Kto poprowadzi linię"; zmieniony 22.10.2026 na „Zapytaj inaczej", zgodnie z hasłem Nagrody. Dema na YouTube są jeszcze pod starą nazwą.
+**Tytuł.** Roboczo brzmiał „Kto poprowadzi linię"; zmieniony 22.10.2026 na "Zapytaj inaczej", zgodnie z hasłem Nagrody. Dema na YouTube są jeszcze pod starą nazwą.
 
 **Odrzucony wariant (22.10.2026).** Rozważana zmiana wersu trzeciego na „Leżą luzem i nikt ich nie liczy" - dla czystszego rymu z „nici" - została odrzucona: rym kupiony kosztem sensu, bo Nagroda nie jest o liczeniu faktów, tylko o ich układaniu. Fakty ma każdy; problemem nigdy nie było to, że nikt ich nie zliczył.
 
@@ -22,7 +22,7 @@ Dzień dobry [imię], piszę z konkretną propozycją zlecenia i od razu zaznacz
 
 Buduję Nagrodę Konstela: coroczną, ogólnopolską nagrodę dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie model, bo oceniane są pytania, a nie odpowiedzi. Najlepsze rozmowy ukażą się w bezpłatnej antologii, a szerszy zbiór trafi do publicznego archiwum. Regulamin i karta oceny są jawne na konstela.org; sama strona jest jeszcze w wersji roboczej, docelową przygotuje agencja.
 
-Napisałem do tego tekst piosenki, „Zapytaj inaczej". Całość jest pod tą wiadomością. Potrzebuję kogoś, kto napisze do niego **własną muzykę i nagra go**. Dla orientacji co do nastroju zrobiłem dwie wersje robocze w generatorze muzyki, https://www.youtube.com/watch?v=aQMROneXt5s oraz https://www.youtube.com/watch?v=MmqRcQQe5Oo - to dwa podejścia do tego samego i traktuj je wyłącznie jako wskazówkę klimatu, nie jako wzór do odtworzenia. Jeśli usłyszysz to zupełnie inaczej, tym lepiej.
+Napisałem do tego tekst piosenki, "Zapytaj inaczej". Całość jest pod tą wiadomością. Potrzebuję kogoś, kto napisze do niego **własną muzykę i nagra go**. Dla orientacji co do nastroju zrobiłem dwie wersje robocze w generatorze muzyki, https://www.youtube.com/watch?v=aQMROneXt5s oraz https://www.youtube.com/watch?v=MmqRcQQe5Oo - to dwa podejścia do tego samego i traktuj je wyłącznie jako wskazówkę klimatu, nie jako wzór do odtworzenia. Jeśli usłyszysz to zupełnie inaczej, tym lepiej.
 
 Warunki, bez owijania. Honorarium wynosi 3000 zł za kompozycję i nagranie. **Muzyka zostaje Twoja**: możesz wydać ten utwór pod własnym nazwiskiem, grać go na koncertach i umieścić na swoich kanałach. Ja potrzebuję jedynie bezterminowego, niewyłącznego prawa do używania nagrania na stronie Nagrody i w materiałach o niej. Nie kupuję wyłączności, bo nie jest mi do niczego potrzebna.
 
@@ -57,7 +57,7 @@ Nie nagradzamy tego, kto odpowiada,
 tylko tego, kto zapyta inaczej.
 
 Była druga w nocy, nie było olśnienia,
-było trzydzieści pytań i jedno „a gdyby".
+było trzydzieści pytań i jedno "a gdyby".
 I nagle wszystko, co wiedziałem wcześniej,
 ułożyło się w kształt, którego nie było.
 
@@ -82,7 +82,7 @@ Przy tej grupie wiadomość prywatna działa lepiej niż mail i często jest jed
 
 **Wersja pełna:**
 
-Cześć, mam dla Ciebie płatne zlecenie i piszę wprost, bo nie chcę zabierać czasu. Napisałem tekst piosenki „Zapytaj inaczej" i szukam kogoś, kto napisze do niego własną muzykę i nagra go. Honorarium 3000 zł. Najważniejsze: muzyka zostaje Twoja, możesz wydać ten utwór pod swoim nazwiskiem i grać go na koncertach, a ja potrzebuję tylko prawa, żeby używać nagrania u siebie. Nie kupuję wyłączności. To jest piosenka dla Nagrody Konstela, corocznej nagrody dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją: konstela.org. Nagroda jeszcze nie wystartowała, ale wynagrodzenie nie zależy od tego, czy ruszy. Płacę za piosenkę, nie za los projektu. Jeśli to Cię interesuje, odpisz, a wyślę tekst i szczegóły. Jeśli nie, wystarczy jedno słowo i nie wracam.
+Cześć, mam dla Ciebie płatne zlecenie - napisałem tekst piosenki "Zapytaj inaczej" i szukam kogoś, kto stworzy dla niej własną muzykę i nagra ją. Proponowane honorarium: 3000 zł (lub podaj swoją cenę). Najważniejsze: muzyka zostaje Twoja, możesz wydać ten utwór pod swoim nazwiskiem i grać go na koncertach, a ja potrzebuję tylko prawa, żeby używać nagrania u siebie. Nie kupuję wyłączności. Dla orientacji co do nastroju zrobiłem wersję roboczą w suno.com: https://www.youtube.com/watch?v=aQMROneXt5s - to tylko wskazówka klimatu, nie wzór do odtworzenia, a jeśli wymyślisz to zupełnie inaczej, tym lepiej. To jest piosenka dla Nagrody Konstela, corocznej nagrody dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją: konstela.org (wersja robocza, finalną stworzy agencja kreatywna). Nagroda jeszcze nie wystartowała, ale wynagrodzenie nie zależy od tego, czy ruszy. Płacę za piosenkę, nie za los tego projektu. A jeśli ruszy, chciałbym, żeby zabrzmiała na żywo podczas gali wręczenia nagród w Twoim wykonaniu - to osobne i również płatne zlecenie, nie warunek tego pierwszego. Jeśli to Cię interesuje lub masz jakieś pytania, napisz. Jeśli nie, wystarczy jedno słowo lub polecenie kogoś, kto byłby zainteresowany. Pozdrawiam serdecznie, Krzysiek
 
 **Wersja krótka** (dla osób z większym zasięgiem, gdzie prośby są zalane):
 
@@ -90,6 +90,7 @@ Cześć, mam płatne zlecenie: napisany tekst piosenki, do którego szukam kompo
 
 **Zasady wysyłki:**
 
+- **Link do wersji roboczej idzie już w pierwszej wiadomości, tekst nie.** Odsłuch w piętnaście sekund mówi wykonawcy to, czego trzy akapity opisu nie powiedzą, i stoi po linii o pieniądzach, żeby nie rozbijać najmocniejszego fragmentu. Opisany jest jako wskazówka nastroju, nie wzór do odtworzenia - demo z generatora podane jako wzorzec sugeruje, że rola sprowadza się do zaśpiewania cudzego pomysłu, a chcemy dokładnie odwrotnej rzeczy.
 - **Nie wklejać tekstu piosenki do pierwszej wiadomości.** Na Instagramie to ściana, której nikt nie czyta, a przy okazji oddaje się utwór komuś, kto jeszcze nie powiedział „tak".
 - **Nie wysyłać kilkudziesięciu wiadomości jednego dnia z nowego konta** - serwis traktuje to jak spam i potrafi ograniczyć wysyłanie, czasem trwale. Rozłożyć na kilka dni, po kilka dziennie; przy okazji pierwsze odpowiedzi pokażą, czy tekst działa, zanim pójdzie do całej listy.
 - Pierwsze dwie linijki decydują, bo tylko tyle widać w podglądzie. Dlatego na początku jest **płatne** i **muzyka zostaje Twoja** - to odróżnia tę wiadomość od dziesięciu innych z tego tygodnia.
