@@ -1,8 +1,16 @@
 # Mail do wykonawców piosenki - zlecenie napisania muzyki
 
-Wysyłany równolegle do grona wykonawców; kierunek: uczestnicy programów muzycznych pokroju Voice of Poland - rozpoznawalność dość duża, by coś wnieść, i dość mała, by odpowiedzieć na maila. Uzasadnienie wyboru i decyzje opisuje [koncepcja](view.html?file=koncepcja), sekcja „Piosenka Nagrody"; tekst piosenki w [piosenka-tekst.md](view.html?file=piosenka-tekst).
+Wysyłany równolegle do grona wykonawców; kierunek: uczestnicy programów muzycznych pokroju Voice of Poland - rozpoznawalność dość duża, by coś wnieść, i dość mała, by odpowiedzieć na maila. Uzasadnienie wyboru i decyzje opisuje [koncepcja](view.html?file=koncepcja), sekcja „Piosenka Nagrody". **Tekst piosenki w obowiązującej wersji jest w tym pliku, pod treścią maila** - osobnego pliku z tekstem nie prowadzimy.
 
 **Ustalenia (22.10.2026):** honorarium 3000 zł; muzyka zostaje wykonawcy, fundacja bierze prawo bezterminowe i **niewyłączne**; zlecenie wychodzi z JDG, bo fundacji jeszcze nie ma; **wynagrodzenie nie zależy od tego, czy konkurs ruszy**.
+
+**Tytuł.** Roboczo brzmiał „Kto poprowadzi linię"; zmieniony 22.10.2026 na „Zapytaj inaczej", zgodnie z hasłem Nagrody. Dema na YouTube są jeszcze pod starą nazwą.
+
+**Odrzucony wariant (22.10.2026).** Rozważana zmiana wersu trzeciego na „Leżą luzem i nikt ich nie liczy" - dla czystszego rymu z „nici" - została odrzucona: rym kupiony kosztem sensu, bo Nagroda nie jest o liczeniu faktów, tylko o ich układaniu. Fakty ma każdy; problemem nigdy nie było to, że nikt ich nie zliczył.
+
+**Czego w tekście nie wolno zgubić przy dopasowywaniu do melodii.** Zwrotka pierwsza to teza Nagrody: pojedyncze fakty ma każdy, wartość powstaje z połączeń. Zwrotka druga to kryterium Drążenia - gładka odpowiedź jest skutkiem złego pytania. Zwrotka trzecia opisuje to, co mierzy karta oceny: nie olśnienie, lecz **wskazywalny moment**, w którym coś się przestawiło. Most to kryterium Weryfikacji wraz z powodem, dla którego istnieje: model myli się pięknie i pewnie. Zakończenie opisuje archiwum, nie nazywając go archiwum.
+
+**Wskazówka co do nastroju (dla nas, nie wysyłana w mailu):** indie folk rock, polskie wokale, akustyczna gitara i perkusja z pogłosem, narastające aranże, chór w refrenie, ciepłe i nieco nostalgiczne, tempo średnie, podniosłe zakończenie. W mailu celowo tego nie ma - wykonawca ma usłyszeć to po swojemu.
 
 **Przy większej liczbie adresatów:** powyżej kilkunastu osób to w praktyce nabór, nie propozycja, i artyści to wyczują - mniej włożą w odpowiedź, a obsługa kilkudziesięciu rozmów kosztuje czas. Jeżeli z pierwszej fali nic nie wyjdzie, rozważyć **otwarte ogłoszenie** na stronie i w mediach społecznościowych: tańsze niż kilkadziesiąt maili, spójne z jawnością Nagrody i samo w sobie daje ruch na stronie w 2027.
 
