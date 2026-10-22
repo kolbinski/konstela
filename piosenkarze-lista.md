@@ -13,33 +13,33 @@ Materiał do maila/DM z [mail-piosenkarz-oferta.md](view.html?file=mail-piosenka
 Zwycięzca edycji: Jan Piwowarczyk.
 
 - [ ] **Hanna Kuzimowicz** - 2. miejsce, drużyna Michała Szpaka
-- [ ] **Mateusz Jagiełło** - 3. miejsce, drużyna Tomson & Baron
-- [ ] **Łukasz Reks** - 4. miejsce, drużyna Kuby Badacha
+- [x] **Mateusz Jagiełło** - 3. miejsce, drużyna Tomson & Baron
+- [x] **Łukasz Reks** - 4. miejsce, drużyna Kuby Badacha
 - [ ] **Żaneta Chełminiak** - 5. miejsce, drużyna Ani Karwan
 
 ## Sezon 15 (2024, finał 30 listopada)
 
 Zwyciężczyni edycji: Anna Iwanek.
 
-- [ ] **Mikołaj Przybylski** - 2. miejsce
-- [ ] **Kacper Andrzejewski** - 3. miejsce
+- [x] **Mikołaj Przybylski** - 2. miejsce
+- [-] **Kacper Andrzejewski** - 3. miejsce
 - [ ] **Izabela Płóciennik** - 4. miejsce
-- [ ] **Yaroslav Rohalskyi** - półfinał
+- [-] **Yaroslav Rohalskyi** - półfinał
 - [ ] **Klaudia Stelmasiak** - półfinał
-- [ ] **Maciej Rumiński** - półfinał
+- [-] **Maciej Rumiński** - półfinał
 - [ ] **Julia Konik-Rańda** - półfinał
 
 ## Sezon 14 (2023, finał 25 listopada)
 
 Zwycięzca edycji: Jan Górka.
 
-- [ ] **Antoni Zimnal** - 2. miejsce
+- [x] **Antoni Zimnal** - 2. miejsce
 - [ ] **Becky Sangolo** - 3. miejsce
 - [ ] **Maja Walentynowicz** - 4. miejsce
-- [ ] **Paweł Kozicz** - półfinał
+- [x] **Paweł Kozicz** - półfinał
 - [ ] **Daniel Borzewski** - półfinał
-- [ ] **Michał Sołtan** - półfinał
-- [ ] **Bartosz Michniewicz** - półfinał
+- [x] **Michał Sołtan** - półfinał
+- [-] **Bartosz Michniewicz** - półfinał
 
 ## Sezon 13 (2022, finał 19 listopada)
 

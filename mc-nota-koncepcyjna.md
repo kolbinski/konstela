@@ -1,5 +1,9 @@
 # Nagroda Konstela - Nota koncepcyjna dla Ministerstwa Cyfryzacji
 
+**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne archiwum.
+
+**Proszę o list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument nie jest patronatem, nie przesądza przyszłej decyzji i nie zobowiązuje resortu do niczego, a mnie pozwala rozmawiać z fundatorem i partnerami od meritum, zamiast od budowania wiarygodności. O patronat honorowy nad pierwszą edycją wystąpię odrębnym wnioskiem, po zabezpieczeniu finansowania. **Nie proszę o środki finansowe Ministerstwa.** Rozwinięcie w rozdziale 12.
+
 ---
 
 ## 1. Czym jest Nagroda Konstela
@@ -116,7 +120,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 ## 9. Finansowanie
 
-Konkurs jest bezpłatny dla uczestników, a prowadzi go fundacja powoływana wyłącznie w tym celu, która zostanie wpisana do rejestru przed otwarciem zgłoszeń. Nie będzie wpisowego uczestników konkursu.
+Konkurs jest bezpłatny dla uczestników, a prowadzi go **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych. Konsultacja prawna całości dokumentacji jest zlecona kancelarii. Nie będzie wpisowego uczestników konkursu.
 
 Profil poszukiwanego fundatora i widełki:
 
@@ -145,15 +149,15 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 Pomysłodawcą i organizatorem Nagrody jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej.
 
-Organizatorem w sensie prawnym będzie fundacja powołana wyłącznie do prowadzenia Nagrody, wpisana do Krajowego Rejestru Sądowego przed otwarciem zgłoszeń.
+Organizatorem w sensie prawnym będzie Fundacja Konstela z siedzibą w Sieradzu, powołana wyłącznie do prowadzenia Nagrody i wpisana do Krajowego Rejestru Sądowego przed otwarciem zgłoszeń. Organem sprawującym nadzór nad Fundacją będzie minister właściwy ze względu na jej cele.
 
 Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat od uczestników.
 
 ## 12. O co proszę Ministerstwo
 
-1.  **Krótkie pismo przewodnie** - stwierdzające, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujące ścieżkę ubiegania się o patronat. Pismo takie nie stanowi patronatu ani zobowiązania finansowego i nie przesądza przyszłej decyzji. To jest prośba zasadnicza. Dokument niczego nie przyrzeka i nie wymaga decyzji o patronacie, a bardzo ułatwia rozmowę z partnerem medialnym i z fundatorem: bez niego zaczyna się ona od budowania wiarygodności, z nim od meritum.
+1.  **List intencyjny** - stwierdzający, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujący ścieżkę ubiegania się o patronat. Dokument taki nie stanowi patronatu ani zobowiązania finansowego i nie przesądza przyszłej decyzji. To jest prośba zasadnicza. Dokument niczego nie przyrzeka i nie wymaga decyzji o patronacie, a bardzo ułatwia rozmowę z partnerem medialnym i z fundatorem: bez niego zaczyna się ona od budowania wiarygodności, z nim od meritum.
 2.  **Rozmowę** o tym, czy inicjatywa mieści się w obszarze obejmowanym patronatem, i wskazanie właściwej drogi formalnej.
-3.  **Patronat honorowy** - na podstawie odrębnego wniosku.
+3.  **Patronat honorowy** nad pierwszą edycją, obejmującą rok 2027 - na podstawie odrębnego wniosku, który złożę po zabezpieczeniu finansowania przedsięwzięcia.
 4.  **Wskazanie kontaktu** do potencjalnych partnerów finansujących, jeśli Ministerstwo uzna inicjatywę za wartą wsparcia.
 
 Czego **nie** proszę: finansowania ze środków Ministerstwa.
@@ -171,6 +175,6 @@ olbinski@gmail.com
 
 **Materiały**
 
-Strona Nagrody (w budowie): https://konstela.org
+Strona Nagrody (wersja robocza - finalną wykona agencja kreatywna): https://konstela.org
 
 *Koncepcja operacyjna, w tym plan antologii i tryb pracy Kapituły i Akademii, dostępna na życzenie.*

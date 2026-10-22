@@ -23,6 +23,10 @@ Wniosek: ma własny warsztat produkcyjny, więc nie wynajmuje studia z zewnątrz
 - Czy robi demo w ogóle, czy woli od razu całość. Jeśli woli całość - patrz niżej.
 - Czy bierze udział w promocji nagranego materiału i na jakich zasadach.
 
+## Jedno zdanie, które trzeba powiedzieć
+
+Regulamin wyłącza z udziału w edycji osoby, które na zlecenie Organizatora stworzyły materiał własny Nagrody (§ 3 ust. 5c). Czyli jeżeli nagra tę piosenkę, nie może w tej edycji startować w konkursie. Wyłączenie dotyczy tylko jego, nie rodziny. Powiedz to zanim cokolwiek podpiszecie - koszt dla niego praktycznie zerowy, a dla Ciebie to dowód, że prowadzisz rzecz poważnie. Tak samo postąpiliśmy przy zaproszeniach do rady fundacji.
+
 ## Co powiedzieć o ofercie
 
 Dwa kroki osobno. Demo za 800 zł: jedna propozycja melodii, szkic, jedna runda poprawek, płatne w ciągu siedmiu dni, bez względu na dalszy ciąg i na to, czy wybierzesz właśnie jego. Nagranie finalne jako osobne zlecenie, uruchamiane po znalezieniu sponsora, ze stawką ustaloną teraz i wiążącą przez dwanaście miesięcy, z osobnym potwierdzeniem przy starcie.
