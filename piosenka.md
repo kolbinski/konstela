@@ -80,7 +80,7 @@ tylko tego, kto zapyta inaczej.
 Zapisz tę rozmowę, zostaw po sobie ślad.
 Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
 
-W wersjach roboczych na YouTube pierwsza zwrotka kończy się słowem "nic". To był błąd, bo "ani jednej" wymaga rzeczownika rodzaju żeńskiego; obowiązuje wersja powyżej, z "nici".
+W wersjach roboczych na YouTube pierwsza zwrotka kończy się słowem "nic". To był błąd gramatyczny, bo "ani jednej" wymaga rzeczownika rodzaju żeńskiego, ale poprawka okazała się czymś więcej niż łataniem składni. "Nici" to dokładnie ta rzecz, której w tej piosence brakuje: linia, którą ktoś przeprowadza między gwiazdami, połączenie między faktami, które same z siebie leżą luzem. Milion kropek i ani jednej nici mówi o problemie, o którym jest cała Nagroda, a milion kropek i ani jednego nic nie mówi o niczym. Słowo niesie jeszcze drugie znaczenie, bo "z tego nici" to po polsku tyle, co nic z tego nie wyszło - i to też pasuje, bo zwrotka opisuje stan przed pytaniem, kiedy jeszcze nic z tych faktów nie wynikło. Obowiązuje wersja powyżej.
 
 ## Stan rzeczy, uczciwie
 
