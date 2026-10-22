@@ -94,8 +94,6 @@ Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers 
 > Zapisz tę rozmowę, zostaw po sobie ślad.
 > Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
 
-W wersjach roboczych na YouTube słychać wcześniejszą wersję tekstu; obowiązuje wersja powyżej.
-
 ## Dlaczego w ogóle warto ją nagrać
 
 Niezależnie od tego, co stanie się z Nagrodą, ta piosenka ma dziś sens, którego nie miałaby pięć lat temu. Generator zrobi utwór w minutę i będzie on poprawny: zaśpiewany czysto, zmiksowany równo, bez jednego fałszu. Czego nie zrobi, to nie zaryzykuje niczego. Nie ma w nim człowieka, który tę melodię gdzieś usłyszał, czegoś się w niej przestraszył i mimo to podpisał się pod nią nazwiskiem.
@@ -112,6 +110,7 @@ Nagroda jeszcze nie wystartowała i nie ma zabezpieczonej puli nagród - pracuj�
 
 Krzysztof Olbiński
 +48 503 520 004
+olbinski@gmail.com
 
 Wystarczy wiadomość z informacją, czy bierzesz demo, ile czasu na nie potrzebujesz i jaka jest Twoja stawka za wersję finalną wraz z miksem i masteringiem. Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien to usłyszeć, polecenie też jest pomocą.
 
