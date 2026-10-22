@@ -203,6 +203,10 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 16. **Prawa do dema.** Demo nie jest publikowane, ale ma być pokazywane sponsorom i partnerom. Potrzebny zapis pozwalający na takie wykorzystanie i rozstrzygający, co dzieje się z demem, jeżeli do wersji finalnej nie dochodzi albo dochodzi z inną osobą.
 17. **Udział w promocji.** Jeżeli wykonawca ma być twarzą piosenki w mediach, czy i jak uczynić to częścią zlecenia finalnego, zamiast liczyć na dobrą wolę.
 
+**W relacjach fundacja - fundator:**
+
+18. **Zlecanie usług informatycznych przez fundację jednoosobowej działalności fundatora.** Fundator jest jednocześnie prezesem zarządu fundacji i prowadzi JDG świadczącą usługi informatyczne; znaczna część prac przy Nagrodzie (panel oceny, narzędzie do oceny formalnej, kopia archiwalna, publiczne archiwum) to właśnie takie usługi. Pytania: czy reprezentacja przez Radę Fundacji na podstawie § 21 pkt 1 statutu jest wystarczająca do zawarcia takiej umowy i czy wymaga uchwały; jakie wymogi wynikają z powiązania podmiotów w zakresie ceny rynkowej przy tej skali; czy i jak ujawniać to w sprawozdaniu rocznym oraz wobec sponsorów; czy taka praktyka zamyka albo utrudnia późniejsze uzyskanie statusu organizacji pożytku publicznego.
+
 ## D. Załączniki
 
 - [Regulamin](view.html?file=regulamin) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
