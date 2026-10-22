@@ -20,6 +20,8 @@ Napisałem do tego tekst piosenki pod tytułem "Zapytaj inaczej". Mówi o tym sa
 
 **Gala.** Jeśli konkurs ruszy, chciałbym, żeby piosenka zabrzmiała na żywo podczas gali wręczenia nagród w Twoim wykonaniu. To trzecie, osobne i również płatne zlecenie, nie warunek żadnego z poprzednich.
 
+**Twarz piosenki.** Nie szukam kogoś, kto nagra utwór i zniknie. Jeśli Nagroda ruszy, piosenka będzie jej wizytówką, a Ty jej wykonawcą: w rozmowach z mediami, w radiu, w pasmach muzycznych i porannych programach, wszędzie tam, gdzie uda się ją wprowadzić. Niczego tu nie obiecuję, bo o tym decydują redakcje, a nie ja, i nie każdy ma na to ochotę. Piszę o tym, bo to działa w obie strony: jeśli lubisz tę część zawodu, jest to dla Ciebie kawałek widoczności przy temacie, o którym w 2027 roku będzie się mówić, a jeśli nie lubisz, lepiej, żebyś wiedział o tym teraz niż po nagraniu.
+
 ## Jak brzmi wersja robocza
 
 Dla orientacji co do nastroju zrobiłem wersję roboczą w generatorze muzyki suno.com:
