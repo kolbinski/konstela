@@ -391,7 +391,21 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 5. **Nierówność ekspozycji.** Rozmowa zgłoszona w styczniu wisi dwanaście miesięcy, grudniowa zero. Jeżeli widoczność cokolwiek znaczy, wcześni zgłaszający są uprzywilejowani bez związku z jakością.
 6. **Fali grudniowej to nie zmniejsza, a może ją zwiększyć.** Pokazywanie na bieżąco, co się zgłasza, jest instrukcją, jak zgłosić coś podobnego; grudzień wypełniłby się naśladownictwem. Na falę jest już narzędzie: § 8 ust. 11 lit. f, jednorazowe przesunięcie dnia zamrożenia o 30 dni.
 
-**Cel, który pozostaje słuszny.** Strona nie może przez cały 2027 rok stać martwa - dla mediów, sponsorów i uczestników wygląda to na przedsięwzięcie, które przysnęło. Ruch bez dotykania zgłoszeń dają trzy rzeczy: licznik i statystyki na żywo (ile zgłoszeń wpłynęło, ile przeszło ocenę formalną, rozkład długości i tematów - i tak publikowane po wynikach na mocy § 13 ust. 5, więc wcześniejsze pokazanie niczego nie zdradza); rozmowy kalibracyjne spoza edycji opublikowane z komentarzem, które pokazują, czego szukamy, i uczą czytania; oraz teksty własne - wyjaśnienia karty oceny i sylwetki Kapituły w miarę ogłaszania składu.
+**Cel, który pozostaje słuszny.** Strona nie może przez cały 2027 rok stać martwa - dla mediów, sponsorów i uczestników wygląda to na przedsięwzięcie, które przysnęło. Ruch bez dotykania zgłoszeń dają cztery rzeczy: licznik i statystyki na żywo (ile zgłoszeń wpłynęło, ile przeszło ocenę formalną, rozkład długości i tematów - i tak publikowane po wynikach na mocy § 13 ust. 5, więc wcześniejsze pokazanie niczego nie zdradza); rozmowy kalibracyjne spoza edycji opublikowane z komentarzem, które pokazują, czego szukamy, i uczą czytania; teksty własne - wyjaśnienia karty oceny i sylwetki Kapituły w miarę ogłaszania składu; oraz piosenka Nagrody, opisana niżej.
+
+### Piosenka Nagrody (ustalenia z 22.10.2026)
+
+Tekst powstał 22.10.2026 („Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum.
+
+**Kto nagrywa.** Nie gwiazda. Po pierwsze, do artysty pierwszej wielkości pisze się pierwszy raz tylko raz, a dziś nie ma czym poprzeć prośby - nie ma fundatora, jury ani rozstrzygniętej edycji (ta sama zasada co przy laboratoriach AI niżej). Po drugie, nagrodzie dla ludzi, których nikt jeszcze nie zna, bardziej służy wykonawca, który sam się w ten sposób pokazuje, niż kupiona rozpoznawalność. Kierunek: uczestnicy programów muzycznych pokroju Voice of Poland - mają głos i rozpoznawalność dość dużą, by coś wnieść, i dość małą, by odpowiedzieć na maila.
+
+**Wersja z Suno jest demem, nie nagraniem do wydania.** Artysta dostaje tekst i demo jako wskazówkę nastroju, a pisze **własną muzykę**. To usuwa trzy problemy naraz: pytanie o regulamin Suno i prawa do melodii, nagłówek o nagrodzie „dla ludzi" promującej się utworem wygenerowanym przez AI, oraz niejasność praw do pliku, który ma wisieć na stronie latami. Tekst jest fundatora, muzyka wykonawcy, nagranie powstaje na zlecenie - **do uporządkowania jedną umową**, nie ustnie.
+
+**Koszt** mieści się w 15 tys. zł na promocję z wariantu B; mały wykonawca i nagranie w małym studiu to rząd kilkuset do kilku tysięcy złotych.
+
+**Wykonanie.** Na stronie **bez automatycznego odtwarzania** - przycisk, który człowiek naciska sam. Element dźwiękowy ma się zmieścić w układzie strony, więc agencja przebudowująca stronę musi o nim wiedzieć (rozmowa z Reequest).
+
+**Występ artysty na gali** to osobna i łatwiejsza rozmowa, bo jest decyzją na jeden wieczór, a nie firmowaniem marki singlem. Do podjęcia dopiero, gdy gala ma datę i miejsce.
 
 **Co z tego warto uratować: Nagroda Publiczności po ogłoszeniu wyników.** Głosowanie na opublikowaną dziesiątkę antologii, przeprowadzone wtedy, gdy werdykt Kapituły jest już ostateczny, a materiał przeszedł wszystkie kontrole. Rozjazd między wyborem Kapituły a wyborem publiczności staje się tym, co przy Konsteli Licealistów opisano niżej jako zaletę: jawną informacją, że „najlepsza rozmowa" zależy od tego, kto ocenia. Daje stronie ruch dokładnie wtedy, gdy jest najbardziej potrzebny - w marcu 2028, przy ogłoszeniu wyników. Do rozważenia jako element edycji pierwszej albo drugiej.
 
