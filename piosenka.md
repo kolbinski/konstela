@@ -43,52 +43,52 @@ To dwa podejścia do tego samego i są **wyłącznie wskazówką klimatu, nie wz
 
 Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers się nie śpiewa, że akcent pada nie tam, gdzie trzeba, albo że dwie linijki warto zamienić miejscami, powiedz to - poprawimy. Nie jestem tekściarzem zawodowym i zakładam, że osoba, która to zaśpiewa, usłyszy w tym rzeczy, których ja nie słyszę. Proszę tylko o jedno: żeby zmiany omawiać, zanim wejdą do nagrania, bo trzy rzeczy mają zostać, choćby w innych słowach. Że wartość bierze się z połączeń, a nie z samych faktów. Że w trzeciej zwrotce nie ma olśnienia, tylko coś, co wydarzyło się w konkretnej chwili. I że AI myli się pięknie i pewnie, więc człowiek musi sprawdzać. Poza tym zostaje dużo miejsca.
 
-**[Zwrotka 1]**
-
-Mam w kieszeni wszystkie fakty świata,
-każdy z nas je ma od wielu lat.
-Leżą luzem, nie układa ich nikt,
-milion kropek i ani jednej nici.
-
-**[Zwrotka 2]**
-
-Pytam źle, więc wraca gładka odpowiedź,
-pytam lepiej i zaczyna się ruch.
-Nie szukałem gotowej prawdy,
-tylko miejsca, gdzie pęka mój słuch.
-
-**[Refren]**
-
-Gwiazdy nie wiedzą, że są konstelacją,
-dopóki ktoś nie poprowadzi linii.
-Nie liczy się ten, kto odpowiada,
-tylko ten, kto zapyta inaczej.
-
-**[Zwrotka 3]**
-
-Była druga w nocy, nie było olśnienia,
-było trzydzieści pytań i jedno "a gdyby".
-I nagle wszystko, co wiedziałem wcześniej,
-ułożyło się w kształt, którego nie było.
-
-**[Most]**
-
-Maszyna mówi pięknie i pewnie,
-pięknie i pewnie potrafi się mylić.
-Więc sprawdzam, drążę, nie wierzę od razu,
-bo to ja mam z tym zostać, nie ona.
-
-**[Refren]**
-
-Gwiazdy nie wiedzą, że są konstelacją,
-dopóki ktoś nie poprowadzi linii.
-Nie liczy się ten, kto odpowiada,
-tylko ten, kto zapyta inaczej.
-
-**[Zakończenie]**
-
-Zapisz tę rozmowę, zostaw po sobie ślad.
-Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
+> **[Zwrotka 1]**
+>
+> Mam w kieszeni wszystkie fakty świata,
+> każdy z nas je ma od wielu lat.
+> Leżą luzem, nie układa ich nikt,
+> milion kropek i ani jednej nici.
+>
+> **[Zwrotka 2]**
+>
+> Pytam źle, więc wraca gładka odpowiedź,
+> pytam lepiej i zaczyna się ruch.
+> Nie szukałem gotowej prawdy,
+> tylko miejsca, gdzie pęka mój słuch.
+>
+> **[Refren]**
+>
+> Gwiazdy nie wiedzą, że są konstelacją,
+> dopóki ktoś nie poprowadzi linii.
+> Nie liczy się ten, kto odpowiada,
+> tylko ten, kto zapyta inaczej.
+>
+> **[Zwrotka 3]**
+>
+> Była druga w nocy, nie było olśnienia,
+> było trzydzieści pytań i jedno "a gdyby".
+> I nagle wszystko, co wiedziałem wcześniej,
+> ułożyło się w kształt, którego nie było.
+>
+> **[Most]**
+>
+> Maszyna mówi pięknie i pewnie,
+> pięknie i pewnie potrafi się mylić.
+> Więc sprawdzam, drążę, nie wierzę od razu,
+> bo to ja mam z tym zostać, nie ona.
+>
+> **[Refren]**
+>
+> Gwiazdy nie wiedzą, że są konstelacją,
+> dopóki ktoś nie poprowadzi linii.
+> Nie liczy się ten, kto odpowiada,
+> tylko ten, kto zapyta inaczej.
+>
+> **[Zakończenie]**
+>
+> Zapisz tę rozmowę, zostaw po sobie ślad.
+> Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
 
 W wersjach roboczych na YouTube pierwsza zwrotka kończy się słowem "nic". To był błąd gramatyczny, bo "ani jednej" wymaga rzeczownika rodzaju żeńskiego, ale poprawka okazała się czymś więcej niż łataniem składni. "Nici" to dokładnie ta rzecz, której w tej piosence brakuje: linia, którą ktoś przeprowadza między gwiazdami, połączenie między faktami, które same z siebie leżą luzem. Milion kropek i ani jednej nici mówi o problemie, o którym jest cała Nagroda, a milion kropek i ani jednego nic nie mówi o niczym. Słowo niesie jeszcze drugie znaczenie, bo "z tego nici" to po polsku tyle, co nic z tego nie wyszło - i to też pasuje, bo zwrotka opisuje stan przed pytaniem, kiedy jeszcze nic z tych faktów nie wynikło. Obowiązuje wersja powyżej.
 
