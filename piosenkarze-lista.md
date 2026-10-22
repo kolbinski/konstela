@@ -63,6 +63,37 @@ Dwadzieścia pięć nazwisk to za dużo na jedną falę. Przed wysyłką warto p
 
 **Trop poboczny, niezależny od programu:** wydziały wokalne i jazzowe akademii muzycznych (Katowice, Warszawa, Kraków, Gdańsk, Łódź). Adresy są publiczne, a wykładowca przekaże zapytanie studentom - ten sam ruch co pismo do Politechniki. Daje ludzi po warsztacie, przed karierą, dla których 3000 zł i własny utwór do wydania to realna propozycja.
 
+## Przegląd pod kątem zlecenia (22.10.2026)
+
+Sprawdzone zostało jedno: czy dana osoba **wydaje własne utwory**, czy ma nad sobą wytwórnię i czy śpiewa po polsku. Miejsce w programie nie decyduje o niczym, bo mówi o wykonaniu wokalnym, a zlecenie dotyczy przede wszystkim napisania muzyki. Nie sprawdzono - bo nie da się tego sprawdzić z zewnątrz - stawek, wolnego kalendarza ani chęci.
+
+### Pierwsza fala: osoby z autorskim dorobkiem
+
+- [ ] **Łukasz Reks** (sezon 16, 4. miejsce) - do finału doszedł **z własną piosenką**, co jest najmocniejszym możliwym dowodem, że komponuje i pisze po polsku. Pierwszy adres na liście.
+- [ ] **Konrad Baum** (sezon 13, 3. miejsce) - prowadzi karierę solową i wydał kilka własnych utworów ("Sam jak Ty", "Czy to ja", "Człowiek"), mówił wprost, że chce przekuć zainteresowanie w muzykę i własny zespół. Z zawodu lekarz, więc honorarium nie jest dla niego kwestią przetrwania - to może działać w obie strony.
+- [ ] **Michał Sołtan** (sezon 14, półfinał) - opisuje się jako kompozytor, wokalista, gitarzysta i producent, ma własną stronę, zespół i regularne koncerty. Profil kompetencji pokrywa się ze zleceniem najdokładniej z całej listy.
+- [ ] **Żaneta Chełminiak** (sezon 16, 5. miejsce) - po programie nie zwolniła tempa, w maju 2026 wydała singiel "Wołam do nocy". Czynna, polska, po świeżym udziale.
+- [ ] **Mateusz Jagiełło** (sezon 16, 3. miejsce) - w trakcie programu zaprezentował własny utwór "Dansing", pracuje w radiu, więc rozumie stronę promocyjną zlecenia.
+- [ ] **Becky Sangolo** (sezon 14, 3. miejsce) - na własnej stronie przedstawia się jako singer, songwriter, composer, wydaje single i nagrywa z innymi wykonawcami. **Zastrzeżenie: repertuar w dużej części anglojęzyczny**, a tekst jest po polsku i mocno osadzony w polszczyźnie - przed wysyłką sprawdzić, jak interpretuje polskie teksty.
+
+### Kontakt tylko przez wytwórnię albo wcale
+
+- **Hanna Kuzimowicz** (sezon 16, 2. miejsce) - po finale **podpisała z Polydor Records Poland** (Universal). Pisanie na prywatny profil mija się z celem, a utwór, który ma wydać pod własnym nazwiskiem, wymagałby zgody wytwórni. To ten sam przypadek co Drapała.
+- **Łukasz Drapała** (sezon 13, 2. miejsce) - od lat frontman Perfectu, nie szuka repertuaru.
+
+### Druga fala: wokalnie dobrzy, brak śladu autorstwa
+
+Dla tych osób nie znalazłem publicznych dowodów komponowania. Nie znaczy to, że nie komponują, znaczy tylko, że nie da się tego potwierdzić bez zapytania. Zostawiam na wypadek, gdyby pierwsza fala nie przyniosła odpowiedzi.
+
+- [ ] **Kacper Andrzejewski** (sezon 15, 3. miejsce) - absolwent Akademii Muzycznej w Bydgoszczy, pracuje też w dubbingu. Warsztat pewny, autorstwo nieznane.
+- [ ] **Mikołaj Przybylski** (sezon 15, 2. miejsce) - młody wokalista, odwrócił cztery fotele.
+- [ ] **Antoni Zimnal** (sezon 14, 2. miejsce) - Sosnowiec, repertuar z polskiej klasyki estradowej.
+- [ ] Pozostali z sezonów 13-15 wymienieni niżej - niesprawdzeni.
+
+### Czego ten przegląd nie rozstrzyga
+
+Nie wiadomo, kto ma wolny kalendarz, kto pracuje z managementem i jakie są realne stawki. To wychodzi dopiero w odpowiedzi na wiadomość, więc nie ma sensu zgadywać przed wysyłką. Nie wykluczamy też odtąd zwycięzców ani kontaktu przez management - jedno i drugie sprawdza się indywidualnie.
+
 ## Zmiana logiki selekcji (22.10.2026, po recenzji)
 
 Miejsce w programie telewizyjnym mówi o wykonaniu wokalnym i nie mówi nic o komponowaniu, produkcji, wolnym kalendarzu ani o zobowiązaniach wobec wytwórni. Zlecenie dotyczy przede wszystkim **napisania muzyki**, więc listę trzeba uporządkować według autorskiego dorobku, sposobu interpretowania polskiego tekstu i zdolności do samodzielnego przygotowania nagrania, a dopiero potem według rozpoznawalności.
