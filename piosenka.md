@@ -1,4 +1,4 @@
-# Zlecenie: muzyka do piosenki "Zapytaj inaczej"
+# Zlecenie: muzyka i nagranie piosenki "Zapytaj inaczej"
 
 ![Nagroda Konstela - Zapytaj inaczej](assets/piosenka.jpg)
 
