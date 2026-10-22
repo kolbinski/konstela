@@ -565,6 +565,11 @@
     </footer>
 
     <script>
+      document.querySelectorAll('#content a[href^="http"]').forEach(a => {
+        a.target = '_blank';
+        a.rel = 'noopener';
+      });
+
       marked.setOptions({ gfm: true, breaks: true });
 
       const params = new URLSearchParams(window.location.search);
