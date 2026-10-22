@@ -378,6 +378,23 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 
 **Przepustowość przy 150 zgłoszeniach.** Przy dwóch czytających na zgłoszenie to 300 odczytów. Limit podniesiony z 10 na 20 zgłoszeń na czytającego (stare 10 było liczone pod dwumiesięczne okno oceny, nowy kalendarz rozkłada je na dwanaście miesięcy) daje **15 osób w Akademii**, czyli około 15-20 godzin na osobę w ciągu roku, półtorej godziny miesięcznie. To jest prośba, którą można wypowiedzieć wobec wolontariusza. Wąskim gardłem nie jest liczba 150, a liczba zebranych czytelników; realny kłopot zaczyna się powyżej 400 zgłoszeń.
 
+## Archiwum otwiera się dopiero z wynikami - wariant odrzucony 22.10.2026
+
+**Rozważany pomysł.** Otworzyć archiwum publicznie już w 2027 i pokazywać zgłoszone rozmowy na bieżąco. Trzy spodziewane korzyści: strona żyje przez cały rok naboru, publiczność ocenia rozmowy i ta ocena jest dodatkowym czynnikiem dla Akademii i Kapituły, a napływ rozkłada się równomiernie, zamiast kumulować w grudniu.
+
+**Odrzucone. Powody w kolejności wagi.**
+
+1. **Głos publiczności mierzy co innego niż Nagroda.** Rozmowa zabawna, szokująca albo o modnym temacie zbierze poklask; ta, w której ktoś cicho przestawił sobie rozumienie własnego problemu, nie zbierze nic. Dopuszczenie tego jako czynnika zamienia nagrodę w plebiscyt i podważa Kapitułę, której płaci się honoraria właśnie za wzięcie odpowiedzialności za werdykt.
+2. **Otwiera drugą, słabszą bramę obok tej uszczelnionej 21.10.2026.** Przy puli 300 tys. zł głosowanie publiczne zaprasza do nakręcania głosów przez znajomych, grupy i boty - a atak nie kosztuje nawet napisania rozmowy, wystarczy kliknąć.
+3. **Publiczne reakcje w trakcie oceniania skażą ocenę.** Cały § 8 stoi na niezależnych odczytach, kalibracji i kotwicach. Czytelnik widzący, że rozmowa ma pięćset polubień, nie czyta jej już niezależnie, choćby szczerze próbował.
+4. **Przeszkoda prawna, nie estetyczna.** § 11 ust. 11 lit. h i lit. i wymagają przed publikacją dwóch odczytów oraz potwierdzonej listy kontrolnej: prawa do materiałów, brak danych osób trzecich, brak cudzych treści. Publikacja na bieżąco oznacza publikowanie **przed oceną formalną**, czyli zanim ktokolwiek sprawdził, czy w rozmowie nie ma treści bezprawnych z § 6 pkt 9-12. To odpowiedzialność fundacji za każdą taką rozmowę w dniu, w którym nikt jej jeszcze nie przeczytał.
+5. **Nierówność ekspozycji.** Rozmowa zgłoszona w styczniu wisi dwanaście miesięcy, grudniowa zero. Jeżeli widoczność cokolwiek znaczy, wcześni zgłaszający są uprzywilejowani bez związku z jakością.
+6. **Fali grudniowej to nie zmniejsza, a może ją zwiększyć.** Pokazywanie na bieżąco, co się zgłasza, jest instrukcją, jak zgłosić coś podobnego; grudzień wypełniłby się naśladownictwem. Na falę jest już narzędzie: § 8 ust. 11 lit. f, jednorazowe przesunięcie dnia zamrożenia o 30 dni.
+
+**Cel, który pozostaje słuszny.** Strona nie może przez cały 2027 rok stać martwa - dla mediów, sponsorów i uczestników wygląda to na przedsięwzięcie, które przysnęło. Ruch bez dotykania zgłoszeń dają trzy rzeczy: licznik i statystyki na żywo (ile zgłoszeń wpłynęło, ile przeszło ocenę formalną, rozkład długości i tematów - i tak publikowane po wynikach na mocy § 13 ust. 5, więc wcześniejsze pokazanie niczego nie zdradza); rozmowy kalibracyjne spoza edycji opublikowane z komentarzem, które pokazują, czego szukamy, i uczą czytania; oraz teksty własne - wyjaśnienia karty oceny i sylwetki Kapituły w miarę ogłaszania składu.
+
+**Co z tego warto uratować: Nagroda Publiczności po ogłoszeniu wyników.** Głosowanie na opublikowaną dziesiątkę antologii, przeprowadzone wtedy, gdy werdykt Kapituły jest już ostateczny, a materiał przeszedł wszystkie kontrole. Rozjazd między wyborem Kapituły a wyborem publiczności staje się tym, co przy Konsteli Licealistów opisano niżej jako zaletę: jawną informacją, że „najlepsza rozmowa" zależy od tego, kto ocenia. Daje stronie ruch dokładnie wtedy, gdy jest najbardziej potrzebny - w marcu 2028, przy ogłoszeniu wyników. Do rozważenia jako element edycji pierwszej albo drugiej.
+
 ## Na później: Konstela Licealistów (edycja druga lub trzecia)
 
 **Wzór: Prix Goncourt des lycéens.** Istnieje od 1988 roku, tworzy go i organizuje francuskie Ministerstwo Edukacji Narodowej razem z siecią Fnac. Około dwóch tysięcy licealistów czyta tę samą listę finałową co kapituła Goncourtów i przyznaje **własną, równoległą nagrodę**, z osobnym werdyktem. Do tego dochodzą regionalne spotkania z autorami. Nagroda licealistów bywa we Francji komentowana równie szeroko jak macierzysta.
@@ -395,6 +412,24 @@ Przy nagrodzie równoległej wszystkie trzy znikają: uczniowie nie decydują o 
 **Co to daje poza edukacją.** Drugi werdykt o tym samym materiale, czyli jawną informację, że "najlepsza rozmowa" zależy od tego, kto ocenia. Przy nagrodzie, która dopiero ustanawia przedmiot oceny, taka widoczna niezgoda jest zaletą.
 
 **Konsekwencja dla rozmowy z administracją.** Dopiero to jest konkretny program edukacyjny z gotowym precedensem, a nie mgliste "materiał dla szkół". Memo Ministerstwa Edukacji do szkół ma sens przy tej konstrukcji, a nie przy szukaniu darmowych recenzentów do jury głównego. Wobec Ministerstwa Cyfryzacji działa to jako dowód, że ścieżka edukacyjna ma kształt, a nie tylko intencję.
+
+## Ministerstwo Edukacji - drugi adresat instytucjonalny (ustalenia z 21.10.2026)
+
+**Czego patronat MEN nie da.** Pomysł, żeby resort dostarczył Akademię złożoną z nauczycieli i w ten sposób udźwignąć nabór liczony w setkach tysięcy, nie przechodzi rachunku. Milion zgłoszeń przy pięciominutowym przesiewie to 83 tys. godzin czytania, czyli ponad cztery tysiące osób po dwadzieścia godzin; nawet po tysiąc złotych na osobę daje to cztery miliony złotych przy budżecie B na 232 tys. Poza arytmetyką: **ministerstwo nie przydziela nauczycielom zadań na rzecz fundacji** i nie ma takiego trybu. Gdyby był, pierwszy komentarz brzmiałby „minister każe nauczycielom czytać za darmo dla prywatnej nagrody", a drugi przyszedłby od związków zawodowych. Rekrutacja i wynagrodzenie Akademii zostają po stronie organizatora - tak samo jak w [liście do FTIMS](view.html?file=list-do-ftims).
+
+**Czego patronat MEN da: dostęp, nie ludzi.** List do szkół, obecność w ofercie doskonalenia zawodowego i wiarygodność, dzięki której nauczyciel traktuje zaproszenie do Akademii poważnie, zamiast je skasować. Różnica praktyczna: z patronatem resortu piszesz do kilkudziesięciu tysięcy szkół naraz, bez niego do dziekana jednego wydziału.
+
+**Trzy powody, dla których to właśnie MEN.**
+
+1. Antologia ma być materiałem dydaktycznym. Argument o siedmiu publikacjach MC i NASK bez ani jednego skomentowanego zapisu rzeczywistej rozmowy jest dla ministra cyfryzacji ciekawostką, a dla ministra edukacji brakującym podręcznikiem.
+2. Szkoła jest kanałem dotarcia do dorosłych uczestników spoza środowiska obeznanego z technologią - bez niej Nagroda zostaje przedsięwzięciem dla tych, którzy i tak rozmawiają z modelami dobrze.
+3. **Regulamin wymaga ukończenia 18 lat, więc uczniowie nie startują.** Szkoła jest odbiorcą antologii, nie źródłem zgłoszeń. To trzeba powiedzieć w liście wprost, bo jest to pierwsza obawa, jaka przyjdzie resortowi do głowy: nie prosimy, by wystawili dzieci do konkursu z nagrodą pieniężną.
+
+**Kiedy i w jakiej formie.** Patronat nad całą edycją wymaga wniosku zwykle na osiem tygodni przed 1 stycznia 2027, czyli na początku listopada 2026 - a fundacji ani fundatora wtedy jeszcze nie będzie. Rozwiązanie jak przy Ministerstwie Cyfryzacji: **pierwsze pismo nie jest wnioskiem o patronat**, tylko krótkim pytaniem o drogę - czy patronat może objąć całą edycję, jaki jest tryb i termin, oraz czy resort widzi w antologii materiał dla szkół. O nic poza wskazaniem ścieżki się nie prosi, więc brak fundacji nie przeszkadza, a termin zostaje zachowany. Właściwy wniosek składa fundacja po wpisie do KRS.
+
+**Zapalnik:** odpowiedź z Ministerstwa Cyfryzacji albo upływ dwóch tygodni od wysłania maila do Cezarego (21.10.2026), czyli **około 4 listopada 2026**. Powód czekania: dwa ministerstwa dowiadujące się o sobie nawzajem ze strony internetowej wyglądają gorzej niż jedno poinformowane o drugim, a zdanie „o wskazanie drogi patronatu zwróciłem się również do Ministerstwa Cyfryzacji" działa na naszą korzyść tylko wtedy, gdy jest prawdziwe i aktualne.
+
+**Co już mamy pod tę rozmowę.** Wyłączenie z § 3 ust. 5 regulaminu stanowi wprost, że patronat honorowy nie wyklucza z konkursu pracowników instytucji patronującej - nauczyciel może więc zgłosić własną rozmowę, o ile nie wejdzie do Akademii. Konkretny program edukacyjny opisuje sekcja o Konsteli Licealistów powyżej; memo MEN do szkół ma sens przy tamtej konstrukcji, a nie przy szukaniu darmowych czytelników.
 
 ## Na później: wyzwanie dla firm (wersja międzynarodowa)
 
