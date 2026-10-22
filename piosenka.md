@@ -76,7 +76,7 @@ ułożyło się w kształt, którego nie było.
 Maszyna mówi pięknie i pewnie,
 pięknie i pewnie potrafi się mylić.
 Więc sprawdzam, drążę, nie wierzę od razu,
-bo to moja głowa ma z tego coś wynieść.
+bo to ja mam z tym zostać, nie ona.
 
 **[Refren]**
 
