@@ -41,6 +41,8 @@ To dwa podejścia do tego samego i są **wyłącznie wskazówką klimatu, nie wz
 
 ## Tekst piosenki
 
+Tekst nie jest święty. Jeśli przy pisaniu muzyki usłyszysz, że jakiś wers się nie śpiewa, że akcent pada nie tam, gdzie trzeba, albo że dwie linijki warto zamienić miejscami, powiedz to - poprawimy. Nie jestem tekściarzem zawodowym i zakładam, że osoba, która to zaśpiewa, usłyszy w tym rzeczy, których ja nie słyszę. Proszę tylko o jedno: żeby zmiany omawiać, zanim wejdą do nagrania, bo cztery rzeczy mają zostać, choćby w innych słowach. Że wartość bierze się z połączeń, a nie z samych faktów. Że gładka odpowiedź jest skutkiem złego pytania. Że w trzeciej zwrotce nie ma olśnienia, tylko moment, który da się wskazać palcem. I że AI myli się pięknie i pewnie, więc człowiek musi sprawdzać. Poza tym zostaje dużo miejsca.
+
 **[Zwrotka 1]**
 
 Mam w kieszeni wszystkie fakty świata,
