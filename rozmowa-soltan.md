@@ -21,7 +21,8 @@ Wniosek: ma własny warsztat produkcyjny, więc nie wynajmuje studia z zewnątrz
 - Co u niego obejmuje wersja finalna: aranżacja, muzycy, realizacja, miks, mastering. Gdzie przebiega granica między „nagram sam" a „sesja z zespołem" i ile dzieli te dwa warianty.
 - **Czy jego nowe kompozycje są objęte umową wydawniczą** (wydawca muzyczny, Universal, ZAiKS). To jest jedyne pytanie, które może wywrócić konstrukcję: zapis „muzyka zostaje Twoja" musi być zgodny z tym, co już podpisał.
 - Czy robi demo w ogóle, czy woli od razu całość. Jeśli woli całość - patrz niżej.
-- Czy bierze udział w promocji nagranego materiału i na jakich zasadach.
+- Czy weźmie udział w promocji nagranego materiału i na jakich zasadach.
+- Porada: czy w branży muzycznej w podobnych sytuacjach jakiś (i jaki) mesenas kultury może pokryć koszt powstania piosenki.
 
 ## Jedno zdanie, które trzeba powiedzieć
 
@@ -40,6 +41,12 @@ Powiedz też wprost, czego nie masz: sponsora puli i terminu gali. Zrobienie teg
 Nie negocjuj i nie tłumacz się budżetem. Odpowiedź brzmi mniej więcej tak: „Dziękuję, to jest dla mnie realna informacja, bo pierwszy raz rozmawiam o tym z kimś, kto to robi zawodowo. Nie będę teraz licytował, zapiszę to i wrócę do Ciebie z podsumowaniem."
 
 Masz dwa ruchy, oba lepsze od podnoszenia kwoty w locie. Pierwszy: zawęzić zadanie, czyli prostszy wariant nagrania zamiast sesji z zespołem. Drugi: przyjąć jego stawkę do budżetu, bo finał i tak płacisz dopiero przy sponsorze, a wyższa, dobrze uzasadniona kwota od rozpoznawalnego wykonawcy jest wobec sponsora argumentem, nie problemem.
+
+## Pytanie o polecenie
+
+Jeśli jego stawka okaże się dla Ciebie zaporowa, zapytaj o polecenie - nikt na liście nie wie lepiej, kto w Polsce pisze muzykę do cudzych tekstów. Ale **nie zadawaj tego pytania zaraz po usłyszeniu kwoty**, bo zabrzmi jak uprzejme pożegnanie. Najpierw przyjmij wycenę bez oceniania, porozmawiajcie jeszcze o samym utworze, a pytanie zostaw na sam koniec albo przenieś do maila podsumowującego - w mailu daje mu czas, żeby komuś napisać, zamiast przypominać sobie nazwiska na gorąco.
+
+Brzmienie, które nie zamyka jego własnego wątku: „zapiszę Twoją stawkę i wrócę do niej, gdy pojawi się sponsor, a przy okazji, gdybyś znał kogoś, komu ten tekst mógłby pasować, chętnie się dowiem". Wyższa kwota za finał nie musi oznaczać odmowy, bo i tak płacisz dopiero po sponsorze.
 
 ## Czego nie robić
 
