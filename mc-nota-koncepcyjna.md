@@ -2,7 +2,7 @@
 
 **W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne archiwum.
 
-**Proszę o list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument nie jest patronatem, nie przesądza przyszłej decyzji i nie zobowiązuje resortu do niczego, a mnie pozwala rozmawiać z fundatorem i partnerami od meritum, zamiast od budowania wiarygodności. O patronat honorowy nad pierwszą edycją wystąpię odrębnym wnioskiem, po zabezpieczeniu finansowania. **Nie proszę o środki finansowe Ministerstwa.** Rozwinięcie w rozdziale 12.
+**Proszę o list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłej decyzji w sprawie patronatu; odnosi się wyłącznie do zgodności tematyki z obszarem kompetencji resortu, bez oceny samego konkursu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. O patronat honorowy nad pierwszą edycją wystąpię odrębnym wnioskiem, po zabezpieczeniu finansowania. **Nie proszę o środki finansowe Ministerstwa.** Rozwinięcie w rozdziale 12.
 
 ---
 
@@ -10,15 +10,15 @@
 
 Konkursem, w którym nagradzamy **nie sztuczną inteligencję, lecz człowieka, który z nią rozmawia**.
 
-Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy LLM. Nie przyjmujemy transkryptów w plikach, ponieważ tekst można zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
+Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy LLM. Nie przyjmujemy transkryptów w plikach, ponieważ tekst w pliku można dowolnie zredagować. Link jest zabezpieczeniem mocniejszym, choć nie rozstrzygającym: pokazuje zapis po stronie dostawcy, razem z pytaniami nieudanymi, ale sam w sobie nie dowodzi, w jakich okolicznościach rozmowa powstała - temu służą dalsze zabezpieczenia opisane w rozdziale 5.
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było.
 
 ## 2. Problem, który adresujemy
 
-Większość użytkowników traktuje modele językowe jak wyszukiwarkę: jedno pytanie, jedna odpowiedź, koniec. Nie dlatego, że nie potrafią inaczej, ale dlatego, że **nigdy nie widzieli, jak wygląda inaczej**.
+Rozmowa z systemem sztucznej inteligencji bywa prowadzona jak zapytanie do wyszukiwarki: jedno pytanie, jedna odpowiedź, koniec. Nie twierdzę, że tak robi większość, bo nie dysponuję badaniami, które by to rozstrzygały. Twierdzę natomiast, że **trudno nauczyć się czegoś innego, nie zobaczywszy, jak to wygląda** - i że takiego materiału w języku polskim brakuje.
 
-Tego nie da się pokazać poradnikiem. Instrukcja "zadawaj lepsze pytania" jest bezużyteczna, dopóki ktoś nie zobaczy zapisu rozmowy, w której człowiek przyłapuje model na zmyśleniu, wraca do porzuconego wątku i dochodzi do wniosku, którego nie miał na wejściu.
+Zapis rzeczywistej rozmowy może uzupełnić instrukcje i poradniki, pokazując cały przebieg dochodzenia do wyniku. Rada "zadawaj lepsze pytania" nabiera treści dopiero wtedy, gdy obok niej stoi zapis rozmowy, w której człowiek przyłapuje program na zmyśleniu, wraca do porzuconego wątku i dochodzi do wniosku, którego nie miał na wejściu.
 
 Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu, a nie jako zamówiony podręcznik.
 
@@ -56,7 +56,7 @@ Czujność jest jednak tylko połową tego, co premiujemy. Czwarte kryterium - *
 
 Czego w nich nie ma: **ani jednego zapisu rzeczywistej rozmowy z modelem**. Są pojedyncze przykładowe polecenia, opisy metody i scenariusze; są też transkrypcje, ale wywiadów z nauczycielami o AI, nie rozmów z AI. Wyłania się z tego spójny wzór: badamy, co ludzie mówią o sztucznej inteligencji, i instruujemy, jak jej używać, natomiast nie zapisujemy tego, co dzieje się w środku rozmowy.
 
-Antologia byłaby materiałem źródłowym tego brakującego rodzaju: darmowym, autentycznym i opatrzonym komentarzem jurorów. Ćwiczenia z NauczAI - wykrywanie celowo błędnych odpowiedzi, ocena jakości pytań uczniów - zakładają istnienie takiego materiału, ale go nie dostarczają.
+Antologia byłaby materiałem źródłowym tego brakującego rodzaju: darmowym, autentycznym i opatrzonym komentarzem jurorów. Ćwiczenia z NauczAI - wykrywanie celowo błędnych odpowiedzi, ocena jakości pytań uczniów - nauczyciel może dziś przygotować samodzielnie; antologia nie jest warunkiem ich prowadzenia, lecz dostarcza do nich materiału autentycznego i opatrzonego komentarzem, którego nie znalazłem w przeanalizowanych publikacjach.
 
 ## 4. Kryteria oceny
 
@@ -122,7 +122,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 Konkurs jest bezpłatny dla uczestników, a prowadzi go **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych. Konsultacja prawna całości dokumentacji jest zlecona kancelarii. Nie będzie wpisowego uczestników konkursu.
 
-Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: dwie mniejsze decyzje są łatwiejsze do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a odpadnięcie jednego z partnerów nie przewraca całości.
+Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: dwie mniejsze decyzje są łatwiejsze do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
@@ -133,7 +133,7 @@ Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy fin
 
 Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; pierwsza edycja stoi albo upada na poziomie docelowym. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać Kapituły ani Akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny. Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
 
-Poziom docelowy nie jest wzięty z sufitu, tylko policzony. Nagroda Nike przyznaje od 1997 roku **100 tys. zł i kwota ta nie była od tamtej pory zmieniana**. Według indeksu cen konsumpcyjnych te same 100 tys. zł z 1997 roku odpowiada dziś około **315 tys. zł**, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **Nagroda główna w wysokości 300 tys. zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu**, a regulamin zabezpiecza się przed powtórzeniem tego błędu: pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu zgłoszeń (§ 9 ust. 3).
+Poziom docelowy nie jest wzięty z sufitu, tylko policzony. Nagroda Nike przyznaje od 1997 roku **100 tys. zł i kwota ta nie była od tamtej pory zmieniana**. Według indeksu cen konsumpcyjnych te same 100 tys. zł z 1997 roku odpowiada dziś około **315 tys. zł**, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **Nagroda główna w wysokości 300 tys. zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu**. Regulamin przewiduje przy tym, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu zgłoszeń (§ 9 ust. 3). Przepis ten chroni uczestników danej edycji przed obniżeniem przyrzeczonej kwoty; utrzymanie realnej wartości nagrody między edycjami jest osobną sprawą i zależy od decyzji fundatora przy każdej kolejnej edycji.
 
 Wysoka pula rodzi pytanie, czy nie przyciągnie osób liczących kryteria zamiast prowadzących rozmowy. Odpowiedzią nie jest niska kwota, lecz konstrukcja oceny: cztery kryteria premiują przebieg pracy, a nie efekt końcowy, ślepe uliczki i nieudane pytania nie obniżają oceny, a zgłoszenie oparte na twierdzeniu nieprawdziwym nie może zostać nagrodzone niezależnie od punktacji (§ 7 ust. 5-8).
 
@@ -157,9 +157,9 @@ Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat o
 
 ## 12. O co proszę Ministerstwo
 
-1.  **List intencyjny** - stwierdzający, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujący ścieżkę ubiegania się o patronat. Dokument taki nie stanowi patronatu ani zobowiązania finansowego i nie przesądza przyszłej decyzji. To jest prośba zasadnicza. Dokument niczego nie przyrzeka i nie wymaga decyzji o patronacie, a bardzo ułatwia rozmowę z partnerem medialnym i z fundatorem: bez niego zaczyna się ona od budowania wiarygodności, z nim od meritum.
+1.  **List intencyjny** - stwierdzający, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujący ścieżkę ubiegania się o patronat. Dokument taki nie stanowi patronatu ani zobowiązania finansowego, nie przesądza przyszłej decyzji i nie zawiera oceny konkursu ani rekomendacji organizatora. To jest prośba zasadnicza. Zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować jego treść na stronie Nagrody - mówię o tym wprost, żeby cel prośby był jasny. Bez takiego dokumentu rozmowa z partnerem zaczyna się od budowania wiarygodności, z nim od meritum.
 2.  **Rozmowę** o tym, czy inicjatywa mieści się w obszarze obejmowanym patronatem, i wskazanie właściwej drogi formalnej.
-3.  **Patronat honorowy** nad pierwszą edycją, obejmującą rok 2027 - na podstawie odrębnego wniosku, który złożę po zabezpieczeniu finansowania przedsięwzięcia.
+3.  **Patronat honorowy** nad pierwszą edycją, obejmującą nabór w 2027 roku i rozstrzygnięcie w marcu 2028 - na podstawie odrębnego wniosku, który złożę po zabezpieczeniu finansowania przedsięwzięcia.
 4.  **Wskazanie kontaktu** do potencjalnych partnerów finansujących, jeśli Ministerstwo uzna inicjatywę za wartą wsparcia.
 
 Czego **nie** proszę: finansowania ze środków Ministerstwa.
