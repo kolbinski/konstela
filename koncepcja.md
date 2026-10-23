@@ -623,3 +623,14 @@ Notatki wyjęte z `me-pismo.md`, żeby ten plik zawierał wyłącznie treść pi
 **Wysłane 23.10.2026**, przez e-Doręczenia, z podpisem zaufanym, na kancelarię ogólną Ministerstwa Edukacji Narodowej. Temat: „Nagroda Konstela - propozycja programu dla szkół i prośba o wskazanie drogi". W treści wiadomości krótkie pismo przewodnie (`me-wiadomosc.md`), bo pole wiadomości ma limit 5000 znaków, a pismo w całości poszło jako załącznik. Załączniki: `me-pismo.pdf`, `mc-nota-koncepcyjna.pdf`, `me-scenariusz-lekcji.pdf`. Dowód wysłania zachowany. Bez reakcji do **20 listopada** telefon do kancelarii z pytaniem o znak sprawy.
 
 **Uwaga o wersjach.** Nota koncepcyjna wysłana do Ministerstwa Cyfryzacji o 10:58 jest o jedną rundę poprawek starsza niż ta, która poszła do Ministerstwa Edukacji o 12:33. Różnice dotyczą ostrożności sformułowań (brak twierdzenia o odporności konstrukcji na odpadnięcie partnera, węższa diagnoza o użytkownikach, ograniczony zakres listu intencyjnego), a nie faktów. Nie prostujemy; aktualną wersję wysyłamy dopiero wtedy, gdy resort wróci z pytaniem albo z gotowością wydania stanowiska.
+
+
+## Kancelaria Prezesa Rady Ministrów - kierunek odłożony do 2028 (23.10.2026)
+
+Rozważane: pismo do KPRM z prośbą o poparcie koncepcji, wpis Prezesa Rady Ministrów w mediach społecznościowych i list intencyjny. **Odrzucone na tym etapie.**
+
+**Dlaczego nie teraz.** Po pierwsze, hierarchia: tego samego dnia pisma trafiły do Ministerstwa Cyfryzacji i Ministerstwa Edukacji Narodowej. Wystąpienie w tym samym tygodniu ponad ich głowy jest ruchem rozpoznawalnym i psującym relację z oboma resortami, a standardowa reakcja Kancelarii to przekazanie sprawy ministerstwu właściwemu - czyli powrót tam, gdzie sprawa już jest, z adnotacją o próbie skrótu. Po drugie, o wpis szefa rządu się nie występuje; kolejność jest odwrotna - rzecz najpierw istnieje i ma wynik. Po trzecie, ta sama przeszkoda co przy wniosku patronatowym w cyfryzacji: nie ma fundacji w rejestrze, fundatora puli ani żadnego zgłoszenia.
+
+**Kiedy wrócić.** Patronat Prezesa Rady Ministrów nad galą rozstrzygnięcia pierwszej edycji, w 2028 roku, gdy będzie fundacja, sponsor, dziesięciu finalistów i antologia. Wtedy prośba dotyczy rzeczy istniejącej, a za nią stoją dwa resorty.
+
+**Uwaga formalna na tamten czas:** patronat Prezydenta RP i Pierwszej Damy wyklucza się z patronatem ministra. Przy planowaniu najwyższego szczebla trzeba będzie wybrać jeden.

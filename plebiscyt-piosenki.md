@@ -1,14 +1,14 @@
-# Plebiscyt na piosenkę Nagrody Konstela
+# Plebiscyt na piosenkę o sztucznej inteligencji
 
 ![Nagroda Konstela - Zapytaj inaczej](assets/piosenka.jpg)
 
-Napisałem tekst piosenki „Zapytaj inaczej" i szukam muzyki do niego. Nie u jednej osoby, tylko w otwartym konkursie: każdy zgłaszający pisze **własną kompozycję** do tego samego tekstu i nagrywa ją po swojemu. Zwycięska wersja staje się oficjalną piosenką Nagrody i zabrzmi na gali.
+Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: własny tekst, własna muzyka, własne wykonanie. Nie dajemy gotowego tematu ani gotowych słów - to, co w tym powiesz, jest częścią tego, co oceniamy.
 
-**Dla kogo.** Dla półprofesjonalistów: ludzi, którzy grają, śpiewają i mają już jakieś zasięgi, ale nie są gwiazdami. To nie jest konkurs dla amatorów ani zlecenie dla wytwórni.
+**Dla kogo.** Dla półprofesjonalistów: ludzi, którzy grają, śpiewają i piszą, mają już jakieś zasięgi, ale nie są gwiazdami.
 
 ## Na jakim to jest etapie
 
-Mówię wprost, bo wolę to powiedzieć sam, niż żeby ktoś się domyślił. **Plebiscyt nie jest jeszcze ogłoszony.** Nie ma jeszcze zabezpieczonych pieniędzy na nagrody, a ogłaszanie konkursu z nagrodami, których nie ma, byłoby dokładnie tym, czego w tym projekcie unikam.
+Mówię wprost, bo wolę to powiedzieć sam, niż żeby ktoś się domyślił. **Plebiscyt nie jest jeszcze ogłoszony.** Nie ma zabezpieczonych pieniędzy na nagrody, a ogłaszanie konkursu z nagrodami, których nie ma, byłoby dokładnie tym, czego w tym projekcie unikam.
 
 Ta strona służy dziś jednej rzeczy: **zbieram zainteresowanie**. Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy regulamin i nagrody będą gotowe. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
@@ -16,38 +16,38 @@ Finansowania szukam w trzech miejscach naraz: w programach wsparcia kultury, u w
 
 ## Jak to ma działać
 
-**Zgłoszenie.** Własna muzyka do tekstu „Zapytaj inaczej" i nagranie. Zgłoszenia prezentowane są na stronie Nagrody przez cały rok, w miarę jak napływają.
+**Zgłoszenie.** Jedna piosenka: Twój tekst, Twoja muzyka, Twoje nagranie. Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężam go bardziej. Zgłoszenia prezentowane są na stronie Nagrody w miarę, jak napływają.
 
-**Rozstrzygnięcie.** Zwycięzcę wybiera **jury**, nie głosowanie. Powód jest ten sam, dla którego cała Nagroda ocenia rozmowy według jawnych kryteriów, a nie według popularności: przy głosowaniu wygrywa największy zasięg, a nie najlepsza piosenka. Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który zaproponował ten plebiscyt i kompletuje skład jury. Członek jury nie może zgłosić własnej wersji.
+**Muzykę i głos daje człowiek.** W konkursie o sztucznej inteligencji wygrywa człowiek, a nie generator. Kompozycja, tekst i wokal mają być Twoje; użycie narzędzi na etapie produkcji deklaruje się przy zgłoszeniu. Zgłoszenie wygenerowane w całości nie bierze udziału.
 
-**Nagroda publiczności** będzie przyznawana osobno i wyraźnie nazwana, żeby nie mieszała się z werdyktem jury.
+**Co ocenia jury.** Tekst, muzyka i wykonanie - każde osobno. Dokładne wagi i opis kryteriów ogłoszę razem z regulaminem, przed otwarciem zgłoszeń, tak samo jak w konkursie głównym jawna jest karta oceny.
 
-**Finał na gali.** Plebiscyt kończy się na tej samej gali co Nagroda za rozmowę. Część artystyczna wieczoru to **wykonania na żywo najlepszych wersji**, a po nich wręczenie nagród plebiscytu.
+**Rozstrzygnięcie.** Zwycięzcę wybiera **jury**, nie głosowanie. Powód jest ten sam, dla którego cała Nagroda ocenia według jawnych kryteriów, a nie według popularności: przy głosowaniu wygrywa największy zasięg, a nie najlepsza piosenka. Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który ten plebiscyt zaproponował.
+
+**Nagroda publiczności** przyznawana jest osobno i wyraźnie nazwana, żeby nie mieszała się z werdyktem jury.
+
+**Finał na gali.** Plebiscyt kończy się na tej samej gali co Nagroda za rozmowę. Część artystyczna wieczoru to **wykonania najlepszych piosenek na żywo**, a po nich wręczenie nagród.
 
 **Nagrody.** Dla czołowych wykonawców, a dla zwycięzcy dodatkowo wydanie singla, jeżeli uda się pozyskać wydawnictwo jako partnera. Wysokość nagród podam przy ogłoszeniu, gdy finansowanie będzie pewne.
 
+## Hymn Nagrody
+
+Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do napisanego przeze mnie tekstu „Zapytaj inaczej", nagrany przez **skład jury**. Mówię o tym wprost, żeby nie było niejasności: jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi.
+
+Tekst hymnu jest poniżej, razem z wersjami roboczymi, żeby było wiadomo, o czym ta Nagroda jest i jakim mówi językiem.
+
 ## Prawa
 
-Jedna zasada dla wszystkich zgłaszających. **Tekst zostaje mój, muzyka zostaje Twoja.** Możesz wydać swój utwór pod własnym nazwiskiem, grać go na koncertach i umieścić na swoich kanałach. Nagroda potrzebuje wyłącznie prawa niewyłącznego do prezentacji zgłoszeń na stronie i na gali. Nie kupuję wyłączności i nie przejmuję niczyjej muzyki.
+Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, muzyka i nagranie pozostają Twoją własnością; możesz wydać utwór pod własnym nazwiskiem, grać go na koncertach i umieścić na swoich kanałach. Nagroda potrzebuje wyłącznie prawa **niewyłącznego** do prezentacji zgłoszeń na stronie i na gali. Nie kupuję wyłączności i nie przejmuję niczyjej muzyki.
 
-## Jak brzmi wersja robocza
+## Tekst hymnu i wersje robocze
 
 Dla orientacji co do nastroju zrobiłem dwie wersje robocze w generatorze muzyki suno.com:
 
 - https://www.youtube.com/watch?v=-o27mezz_Ik
 - https://www.youtube.com/watch?v=pcjPeUMpoAI
 
-To dwa podejścia do tego samego i są **wyłącznie wskazówką klimatu, nie wzorem do odtworzenia**. Jeśli wymyślisz to zupełnie inaczej, tym lepiej - po to jest ten plebiscyt. Słowa są ludzkie, dźwięk na razie nie i właśnie to ma się zmienić.
-
-## Dlaczego ta piosenka ma sens
-
-Rozmowa z AI jest dziś codziennością milionów ludzi i jedną z niewielu rzeczy, które naprawdę zmieniły sposób, w jaki myślimy, a w muzyce popularnej nie ma jej prawie wcale. To, co jest, rozkłada się na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Mało kto śpiewa o tym, co dzieje się naprawdę, czyli o człowieku siedzącym w nocy przed ekranem i próbującym zadać lepsze pytanie.
-
-„Zapytaj inaczej" jest o tym i nie jest ani lękiem, ani peanem. To piosenka o myśleniu, w której AI występuje jako narzędzie, a nie bohater: mówi pięknie i pewnie, potrafi się pięknie i pewnie mylić, a cała robota należy do człowieka.
-
-Sam sposób powstania utworu jest częścią tego stanowiska: tekst napisał człowiek, wersje robocze powstały w generatorze i mówię o tym otwarcie, a wersja, którą usłyszą ludzie, ma być nagrana przez żywych muzyków.
-
-## Tekst piosenki
+To dwa podejścia do tego samego i są wyłącznie wskazówką klimatu. Słowa są ludzkie, dźwięk na razie nie i właśnie to ma się zmienić, gdy hymn nagra jury.
 
 Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu - szukałam, wiedziałam.
 
@@ -97,6 +97,12 @@ Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu - 
 >
 > Zapisz tę rozmowę, zostaw po sobie ślad.
 > Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
+
+## Dlaczego w ogóle o tym śpiewać
+
+Rozmowa z AI jest dziś codziennością milionów ludzi i jedną z niewielu rzeczy, które naprawdę zmieniły sposób, w jaki myślimy, a w muzyce popularnej nie ma jej prawie wcale. To, co jest, rozkłada się na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Mało kto śpiewa o tym, co dzieje się naprawdę, czyli o człowieku siedzącym w nocy przed ekranem i próbującym zadać lepsze pytanie.
+
+Dlatego temat plebiscytu jest szeroki i dlatego nie podaję gotowych słów. Interesuje mnie, co o tym macie do powiedzenia, a nie dwadzieścia wersji jednego zdania.
 
 ## O czym jest Nagroda Konstela
 

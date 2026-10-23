@@ -132,3 +132,17 @@ Wniosek zmieniający hierarchię: plik od uczestnika **nie jest drogą równoleg
 Trzej dostawcy to trzy różne sposoby dobierania się do treści, a każdy z nich może przebudować stronę w dowolnym tygodniu naboru - wtedy zgłoszenia przestają się archiwizować z dnia na dzień. Pięćdziesiąt godzin w budżecie wystarcza na napisanie narzędzia, nie na roczne pilnowanie go, i nie obejmuje wtyczki.
 
 Żadna z dróg nie jest odporna na wszystko. Skrypt jest tani i bezobsługowy, ale zatrzymuje go zabezpieczenie antybotowe i przebudowa strony. Wtyczka obchodzi jedno i drugie, ale kosztuje czas człowieka przy każdym zgłoszeniu i musi poradzić sobie z wirtualizacją. Plik od uczestnika jest niezależny od dostawcy, ale w postaci eksportu całego konta jest niedopuszczalny, a w postaci wydruku do PDF nie nadaje się do oceny formalnej. Dlatego układ docelowy jest wielowarstwowy, a nie jednym narzędziem: skrypt tam, gdzie działa; wtyczka tam, gdzie skrypt nie wchodzi; PDF od uczestnika jako zabezpieczenie na wypadek zniknięcia linku; sprawdzenie ręczne jako jawny wyjątek, nigdy jako ciche przepuszczenie niepełnej kopii.
+
+
+## 8. Domyślna widoczność linku udostępniania (ustalone 23.10.2026)
+
+U Claude link udostępniania powstaje domyślnie z ustawieniem **„Who has access: Only people invited"**. Osoba otwierająca taki link trafia na ekran logowania i rozmowy nie widzi. Dopiero przełączenie na **„Anyone with the link"** daje link publiczny, otwierany bez logowania. Wykryte przypadkiem podczas rozmowy z agencją 23.10.2026, gdy Piotr Byliński próbował otworzyć własny link.
+
+**Dlaczego to jest ważne dla naboru.** Uczestnik, który nie przestawi tego ustawienia, zgłosi link, którego Organizator nie otworzy. Zgłoszenie odpadnie na ocenie formalnej, a uczestnik nie będzie wiedział dlaczego - z jego perspektywy link działa, bo sam jest zalogowany. To jest dokładnie ten rodzaj cichej porażki, który psuje zaufanie do konkursu.
+
+**Co z tym robimy:**
+
+1. Instrukcja przy formularzu zgłoszenia, ze zrzutem ekranu dla każdego dostawcy, pokazująca to ustawienie.
+2. **Sprawdzenie dostępności linku w chwili zgłoszenia** - próba pobrania wykonywana od razu, a nie po terminie; przy niepowodzeniu natychmiastowy komunikat „tego linku nie da się otworzyć bez zalogowania, przestaw widoczność i spróbuj ponownie".
+3. Do sprawdzenia, czy ChatGPT i Gemini mają analogiczne ustawienia domyślne; jeżeli tak, instrukcja obejmuje wszystkich trzech.
+4. Wtyczka rozwiązuje to przy okazji, bo czyta żywy czat - ale jest opcjonalna, więc instrukcja i tak musi istnieć.

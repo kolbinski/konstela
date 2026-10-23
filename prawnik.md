@@ -209,6 +209,13 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 
 19. **§ 3 ust. 5c - wyłączenie twórców materiałów Nagrody.** Przepis dodany 22.10.2026 po tym, jak pojawił się pierwszy realny wykonawca piosenki Nagrody. Pytania: czy wyłączenie osoby, z którą zawiera się odpłatną umowę o dzieło, wymaga jej zgody albo wzmianki w tej umowie; czy zawężenie wyłączenia wyłącznie do twórcy, bez osób najbliższych, jest w tym wypadku obronialne na tle ust. 5; czy sformułowanie "materiał własny Nagrody" jest dość określone.
 
+20. **Uczniowska Akademia a zgoda uczestnika i dane osobowe.** Planowana jest druga, uczniowska akademia czytająca te same zgłoszenia co akademia dorosła, złożona w większości z osób niepełnoletnich, zgłaszanych przez szkoły. Pytania: czy wystarczy opisanie tego w regulaminie i w polityce prywatności przed otwarciem naboru, czy potrzebna jest odrębna zgoda uczestnika na udostępnienie jego rozmowy osobom niepełnoletnim; jakie obowiązki rodzi po stronie Organizatora przetwarzanie danych przez niepełnoletnich czytelników i czy potrzebne są zgody ich opiekunów; czy szkoła zgłaszająca uczniów powinna być w tym układzie podmiotem przetwarzającym, czy wystarczy porozumienie o współpracy.
+
+**W plebiscycie na piosenkę Nagrody** (konstrukcja przyjęta 23.10.2026, opis w `plebiscyt-ustalenia.md`):
+
+21. **Loteria promocyjna.** Planowany jest otwarty konkurs na muzykę do gotowego tekstu, z głosowaniem publiczności obok werdyktu jury. Pytania: czy nagroda losowana wśród głosujących czyni z tego loterię promocyjną w rozumieniu ustawy o grach hazardowych, a jeżeli tak, to jakie są obowiązki (zezwolenie, opłata, zatwierdzenie regulaminu, zabezpieczenie wypłat); czy nagroda przyznawana za uzasadnienie wyboru, a nie losowo, wychodzi poza ten reżim; czy sam konkurs na piosenkę, rozstrzygany przez jury, jest przyrzeczeniem publicznym na tych samych zasadach co Nagroda główna.
+22. **Prawa do zgłoszeń w plebiscycie.** Po zmianie konstrukcji (23.10.2026) każdy zgłaszający jest autorem całości: własny tekst, własna muzyka, własne nagranie; utwory zależne nie powstają. Pytania: czy do prezentowania zgłoszeń na stronie i na gali wystarcza oświadczenie licencyjne składane przy zgłoszeniu, czy potrzebna jest odrębna umowa; jak sformułować zakres tej licencji; co dzieje się z prawami, jeżeli zwycięski utwór ma zostać wydany przez wydawnictwo-partnera; oraz czy wymóg, by kompozycja, tekst i wokal pochodziły od człowieka, a użycie narzędzi generatywnych podlegało deklaracji, da się skutecznie zapisać i egzekwować.
+
 ## D. Załączniki
 
 - [Regulamin](view.html?file=regulamin) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca

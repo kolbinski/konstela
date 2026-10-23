@@ -2,9 +2,17 @@
 
 Pomysł Michała Sołtana z rozmowy telefonicznej 23.10.2026. **Zastępuje w całości** wcześniejszą konstrukcję z `piosenka.md`: zamówienie jednej piosenki u jednego wykonawcy, demo za 800 zł i nagranie finalne za 3000 zł. Powód zastąpienia poniżej.
 
-## Co to jest
+## Co to jest (kształt po zmianach z 23.10.2026, wieczór)
 
-Otwarty konkurs na muzykę do gotowego tekstu „Zapytaj inaczej", dedykowany **półprofesjonalistom**: ludziom, którzy grają i śpiewają, mają jakieś zasięgi, ale nie są gwiazdami. Każdy zgłasza własną kompozycję i nagranie tego samego tekstu. Zwycięzca wyłaniany jest przez jury; jego wersja staje się oficjalną piosenką Nagrody i zostaje wykonana na gali.
+Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: własny tekst, własna muzyka, własne wykonanie. Dedykowany **półprofesjonalistom**: ludziom, którzy grają, śpiewają i piszą, mają jakieś zasięgi, ale nie są gwiazdami. Zwycięzcę wybiera jury. Finał odbywa się na tej samej gali co Nagroda za rozmowę: część artystyczna to wykonania najlepszych piosenek na żywo, po nich wręczenie nagród.
+
+**Zmiana wobec pierwotnego pomysłu.** Najpierw plebiscyt miał polegać na pisaniu muzyki do jednego, gotowego tekstu „Zapytaj inaczej". Odrzucone 23.10.2026 z trzech powodów: dwadzieścia wersji tego samego tekstu zmęczyłoby jury przy piątym odsłuchu, a publiczność przy drugim; własny tekst pozwala oceniać też pisanie, czyli dojrzałość i wrażliwość autora; i upraszcza prawa, bo każdy zgłaszający jest w całości autorem swojego utworu, więc znika problem utworów zależnych.
+
+**Hymn Nagrody.** Tekst „Zapytaj inaczej" nie znika - nagra go **skład jury**, jako hymn akcji, poza konkursem. Na stronie powiedziane jest wprost, że jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami. Uwaga kosztowa: nagranie z udziałem kilku artystów jest **droższe i trudniejsze produkcyjnie** niż jedno zamówienie u jednej osoby - stawka Sołtana za singiel to 7-12 tys. zł, a tu dochodzą pozostali, aranżacja i studio.
+
+**Dwie rzeczy, bez których ta wersja się sypie.** Po pierwsze, **kryteria oceny** muszą być ogłoszone przed naborem, skoro oceniany jest i tekst, i muzyka, i wykonanie - ta sama zasada, na której stoi cała Nagroda. Po drugie, **reguła wobec AI w zgłoszeniach**: kompozycja, tekst i wokal mają być ludzkie, użycie narzędzi na etapie produkcji deklaruje się przy zgłoszeniu, a utwór wygenerowany w całości nie bierze udziału. Bez tego konkurs o sztucznej inteligencji może wygrać utwór wygenerowany przez sztuczną inteligencję, co ośmieszyłoby całość. Przy okazji jest to temat sam w sobie: konkurs o AI, w którym AI nie wolno zaśpiewać.
+
+**Skład jury.** Na stronie nie opisujemy trybu powoływania jury. Skład wybierają Organizator i Michał Sołtan.
 
 ## Dlaczego to jest lepsze od zamówienia
 
@@ -20,7 +28,7 @@ Otwarty konkurs na muzykę do gotowego tekstu „Zapytaj inaczej", dedykowany **
 
 **2. Zwycięzcę wybiera jury, nie głosowanie.** Przy głosowaniu publiczności wygrywa wykonawca z największym zasięgiem, a nie z najlepszą piosenką - czyli dokładnie to, czego Nagroda unika w swojej głównej części. Konstrukcja: jury pod przewodnictwem Sołtana wybiera zwycięzcę, a **nagroda publiczności jest osobna i wyraźnie nazwana**. Dwa werdykty o tym samym materiale, ta sama logika co przy Nagrodzie Uczniowskiej.
 
-**3. Prawa, jeden zapis dla wszystkich zgłaszających.** Tekst zostaje autora, muzyka zostaje kompozytora, Nagroda dostaje prawo **niewyłączne** do prezentacji zgłoszeń na stronie i na gali. Bez tego nie wolno opublikować ani jednej nadesłanej piosenki.
+**3. Prawa, jeden zapis dla wszystkich zgłaszających.** Po zmianie z 23.10.2026 wieczorem: **wszystko zostaje zgłaszającego** - tekst, muzyka i nagranie. Nagroda dostaje prawo **niewyłączne** do prezentacji zgłoszeń na stronie i na gali. Bez tego nie wolno opublikować ani jednej nadesłanej piosenki. Konstrukcja jest prostsza niż przy pierwotnym pomyśle, bo nie powstają utwory zależne od cudzego tekstu.
 
 **4. Hierarchia: plebiscyt jest akcją towarzyszącą, nie drugim filarem.** Plebiscyt jest łatwiejszy do opowiedzenia, przyjemniejszy i bardziej medialny niż nagroda za rozmowy z AI. Realne ryzyko, że zje markę i że za rok Konstela będzie kojarzona jako konkurs piosenki z dodatkiem o sztucznej inteligencji. Piotr wyczuł to od razu, proponując dla podstrony plebiscytu osobny, „bardziej show" kierunek wizualny. Plebiscyt jest częścią artystyczną gali i akcją towarzyszącą - i tak ma być komunikowany.
 
@@ -43,7 +51,7 @@ Do ustalenia przed ogłoszeniem: wysokość nagród dla czołowej trójki lub pi
 
 ## Co trzeba naprawić po zmianie
 
-- [ ] Przepisać `piosenka.md` z oferty zlecenia na zapowiedź plebiscytu.
+- [x] Przepisać stronę: `piosenka.md` usunięty, powstał `plebiscyt-piosenki.md`; katalog `piosenka/` zostaje jako przekierowanie, bo link poszedł już w sześciu wiadomościach.
 - [ ] Odezwać się do sześciu osób, które 22.10.2026 dostały wiadomość z ofertą zlecenia (demo 800 zł, finał 3000 zł) - dostali ofertę, która już nie obowiązuje.
 - [ ] Zaktualizować `mail-piosenkarz-oferta.md`.
 - [ ] Dopisać plebiscyt do `brief-dla-agencji.md` jako osobną podstronę w zakresie.
