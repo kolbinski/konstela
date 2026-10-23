@@ -51,6 +51,8 @@ Fundacja wskazuje w statucie ministra właściwego ze względu na cele. Przy cel
 
 ## Sekwencja wobec Ministerstwa
 
+**Zrealizowane 23.10.2026:** pismo z prośbą o list intencyjny wysłane przez e-Doręczenia na kancelarię ogólną MC, z podpisem zaufanym, wraz z notą koncepcyjną i projektem listu. Wniosku o patronat świadomie nie składamy do czasu zabezpieczenia finansowania - § 13 regulaminu patronatów pozwala odmówić przedsięwzięciom bez określonych źródeł finansowania, a odmowa w aktach tej samej edycji osłabiłaby późniejszy wniosek.
+
 Mail do Cezarego i rozmowa z Wodzyńskim idą **równolegle**, jedno nie czeka na drugie. Powód: sponsor organizacyjny nie jest argumentem dla MC, bo resort ocenia, czy tematyka mieści się w kompetencjach cyfrowych, a to widać z regulaminu i strony. Zależność działa w drugą stronę - pismo z MC jest dźwignią wobec Tubądzina i wobec fundatora głównego. Wstrzymywanie maila do czasu rozmowy z Wodzyńskim kosztowałoby pewne opóźnienie w zamian za niepewny zysk.
 
 ## Rada fundacji - po co i kto
@@ -94,6 +96,8 @@ Dwie informacje przekazane od ręki:
 - **Kody PKD podaje się według klasyfikacji PKD 2025**, w której część kodów zmieniła numerację. Starsze wzory statutów zawierają kody nieaktualne, więc nie kopiujemy ich z internetu ani z cudzych statutów.
 
 Polecone biuro rachunkowe: https://biuro-lex.pl/
+
+**Stan na 23.10.2026:** oba zgłoszenia przez formularz wysłane, projekt statutu przesłany mailem jako `statut.docx` wraz z odnośnikiem do wersji na stronie. Czekamy na kontakt doradcy prawnego i księgowego. Bez odpowiedzi do 28.10 dzwonimy na +48 451 225 034, bo notariusz planowany jest na początek listopada. Do Biuro-Lex piszemy równolegle, niezależnie od terminu konsultacji.
 
 **1. Działalność gospodarcza - potwierdzona.** Jeżeli fundacja będzie udzielać licencji w sposób ciągły i osiągać z tego dochód, jest to działalność gospodarcza. Decyzja z 21.10.2026 o wpisaniu jej do statutu od razu okazała się trafna i przestaje być zakładem - § 12 i rozdział o działalności gospodarczej w [statucie](view.html?file=statut) zostają.
 

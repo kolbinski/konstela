@@ -573,3 +573,51 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 - **Skutek odmowy rozmowy weryfikacyjnej** - czy "rezygnacja ze zgłoszenia" jest dopuszczalna, czy bezpieczniejszy łagodniejszy zapis.
 - **Skład jury** - do skompletowania.
 - Kto administruje zgłoszeniami i gdzie leżą (RODO).
+
+
+## Wersja zbiorowa piosenki - kierunek odłożony (22.10.2026)
+
+Pomysł: piosenkę nagrywa wspólnie kilkoro wykonawców jako ich bezpłatna inicjatywa. Tematycznie pasuje jak mało co, bo wiele głosów składających się w jeden kształt to dosłownie konstelacja.
+
+**Dlaczego nie teraz.** Zbiorowe nagranie jest trudniejsze w organizacji niż pojedyncze zlecenie: trzeba umówić kilka osób, zebrać ślady nagrywane w różnych miejscach, a potem ktoś musi to zaaranżować, zmiksować i zmasterować - i ta osoba weźmie pieniądze, więc darmowy jest tylko śpiew. Takie przedsięwzięcia działają przy sprawie oczywistej dla wszystkich i rozpoznawalnym organizatorze, a Nagroda jeszcze nie wystartowała. Do dziewięciu wykonawców poszła 22.10.2026 oferta płatna; wrócenie do nich z prośbą o darmowy udział kosztowałoby wiarygodność, którą ta oferta zbudowała. I ten sam powód co przy odrzuconym partnerstwie artystycznym: trudno budować nagrodę opartą na wartości ludzkiej pracy, prosząc muzyków o pracę za darmo.
+
+**Kiedy wrócić.** Gdy utwór już istnieje w wersji finalnej i Nagroda ma rozpoznawalność. Wtedy wersja zbiorowa jako drugie wydanie albo jako wykonanie na gali: dołącza się do czegoś, co już brzmi, a nie do cudzego pomysłu na papierze.
+
+
+## Uczniowska Akademia - konstrukcja przyjęta 23.10.2026
+
+Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesiątkę finalistów i wybierali spośród niej własnego laureata.
+
+**Jak działa.** Uczniowska Akademia czyta **tę samą pulę zgłoszeń co Akademia dorosła**, według tej samej karty oceny, z przydziałem ograniczonym z góry: każdy czytelnik dostaje określoną liczbę rozmów, nie całość. Nagrodę Uczniowską otrzymuje rozmowa oceniona przez nich najwyżej. Werdykt powstaje niezależnie od Kapituły i zwykle wskaże kogoś innego; jeżeli trafi na tę samą rozmowę, nosi ona obie nagrody. W antologii każda rozmowa dostaje adnotację, kto ją wyróżnił.
+
+**Dlaczego tak, a nie wybór z dziesiątki.** Uczniowie wykonują prawdziwą pracę oceniającą i wynik należy do nich, zamiast być drugim głosowaniem nad cudzym podium. Zbiór czytany jest ten sam, więc porównanie werdyktów zachowuje sens: z tej samej puli Kapituła wybrała jedno, uczniowie co innego. To jest też jawny dowód tezy, że „najlepsza rozmowa" zależy od tego, kto ocenia - przy nagrodzie, która dopiero ustanawia przedmiot oceny, taka widoczna niezgoda jest zaletą.
+
+**Konflikt interesów nie występuje**, bo regulamin wymaga ukończenia 18 lat, więc uczniowie nie mogą startować w tym, co oceniają. To właśnie odróżnia ten pomysł od odrzuconego 19.10.2026 wariantu z uczniami w Akademii głównej.
+
+**Cztery rzeczy do rozstrzygnięcia przed wpisaniem do regulaminu:**
+
+1. **Zgoda uczestników - pilne.** Zgłaszając rozmowę, uczestnik godzi się na jej przeczytanie przez Akademię i Kapitułę. Jeżeli czytać ją będą także uczniowie, w tym osoby niepełnoletnie, musi to stać w regulaminie i w polityce prywatności **przed otwarciem zgłoszeń**, nie zostać dopisane później. Pytanie dołożone do listy dla kancelarii.
+2. **Obciążenie.** Przydział ograniczony na osobę; przy pierwszej edycji nieistotne, przy większej skali rozstrzygające.
+3. **Opieka.** Uczniowie zgłaszają się przez szkołę, więc po stronie szkoły stoi nauczyciel koordynujący. To zgłoszenie szkoły, a nie polecenie ministra - i tak trzeba to nazwać w piśmie do resortu, bo pytanie padnie.
+4. **Weryfikacja.** Zasada z § 7, że rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji, obowiązuje także Nagrodę Uczniowską: wskazana rozmowa przechodzi to samo sprawdzenie co dziesiątka, zanim werdykt zostanie ogłoszony.
+
+**Ścieżka dalsza.** Uczniowska Akademia jest naturalnym zapleczem Akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w konkursie jako uczestnik, albo czytanie jako członek Akademii. Obu ról naraz pełnić nie można.
+
+
+## Ministerstwo Edukacji - tryb patronatu, ustalenia z 23.10.2026
+
+Notatki wyjęte z `me-pismo.md`, żeby ten plik zawierał wyłącznie treść pisma do wysłania.
+
+**Regulamin patronatów Ministra Edukacji jest wyraźnie ostrzejszy niż w Ministerstwie Cyfryzacji** i wyklucza prośbę o patronat nad całą edycją na trzy sposoby naraz:
+
+- wniosek składa się **wyłącznie przez formularz elektroniczny** na patronaty.men.gov.pl; złożony inaczej nie jest rozpatrywany,
+- termin: najpóźniej **60 dni przed rozpoczęciem wydarzenia**,
+- patronat przyznawany jest na jedną edycję i **nie obejmuje przedsięwzięć wieloletnich ani ciągłych**; przy projektach wieloczęściowych resort każe wskazać jedno **wydarzenie wiodące**,
+- wśród przesłanek odmowy wymienione są wprost **publikacje i opracowania oraz działalność statutowa fundacji** - czyli dokładnie to, czym są antologia i Fundacja,
+- dochodzi przesłanka wczesnego etapu bez określonych źródeł finansowania, ta sama co § 13 w cyfryzacji.
+
+**Wniosek:** o patronat występujemy później, przez formularz, **na galę rozstrzygnięcia jako wydarzenie wiodące**, co najmniej 60 dni wcześniej, już z ramienia Fundacji wpisanej do KRS.
+
+**Pierwsze pismo prosi więc o trzy rzeczy spoza reżimu patronatowego:** stanowisko wobec Uczniowskiej Akademii, wskazanie drogi do szkół dla scenariusza zajęć oraz rozważenie współtworzenia Nagrody Uczniowskiej. Pytanie o Ośrodek Rozwoju Edukacji jest w piśmie celowo - jeżeli właściwym adresatem materiału jest ORE, lepiej usłyszeć to od razu niż po dwóch miesiącach.
+
+**Załączniki pisma:** `mc-nota-koncepcyjna.pdf` oraz `me-scenariusz-lekcji.pdf`. Przed wysyłką ustalić adres MEN do doręczeń elektronicznych w Bazie Adresów Elektronicznych - nie wpisywać z pamięci.

@@ -122,12 +122,14 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 Konkurs jest bezpłatny dla uczestników, a prowadzi go **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych. Konsultacja prawna całości dokumentacji jest zlecona kancelarii. Nie będzie wpisowego uczestników konkursu.
 
-Profil poszukiwanego fundatora i widełki:
+Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: dwie mniejsze decyzje są łatwiejsze do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a odpadnięcie jednego z partnerów nie przewraca całości.
 
-| Wariant    | Pula nagród        | Całość z produkcją | Co obejmuje                                                                           |
-|------------|--------------------|--------------------|---------------------------------------------------------------------------------------|
-| Docelowy   | 390 tys. zł        | ok. 570 tys. zł    | nagroda główna 300 tys. zł, dziewięć wyróżnień po 10 tys. zł, produkcja antologii i archiwum, gala rozstrzygnięcia |
-| Wieloletni | ok. 4 mln zł (1 mln USD) | -            | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody                     |
+| Rola | Kwota (netto) | Co finansuje |
+|------------------------------|------------------|------------------------------------------------|
+| Fundator nagrody i gali | ok. 604 tys. zł | pula nagród 390 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł i dziewięć wyróżnień po 10 tys. zł), honoraria Kapituły i Akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
+| Partner wydawniczy | ok. 233 tys. zł | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie archiwum i kopii rozmów, powołanie fundacji |
+| **Razem** | **ok. 837 tys. zł** | |
+| Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
 
 Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; pierwsza edycja stoi albo upada na poziomie docelowym. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać Kapituły ani Akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny. Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
 
