@@ -634,3 +634,45 @@ Rozważane: pismo do KPRM z prośbą o poparcie koncepcji, wpis Prezesa Rady Min
 **Kiedy wrócić.** Patronat Prezesa Rady Ministrów nad galą rozstrzygnięcia pierwszej edycji, w 2028 roku, gdy będzie fundacja, sponsor, dziesięciu finalistów i antologia. Wtedy prośba dotyczy rzeczy istniejącej, a za nią stoją dwa resorty.
 
 **Uwaga formalna na tamten czas:** patronat Prezydenta RP i Pierwszej Damy wyklucza się z patronatem ministra. Przy planowaniu najwyższego szczebla trzeba będzie wybrać jeden.
+
+
+## Rzeczy towarzyszące Nagrodzie - stan na 23.10.2026
+
+Wspólny mianownik tych pomysłów: prosimy kogoś dobrego, żeby zrobił **swoją rzecz w swoim języku o tym samym temacie**. Nie zamawiamy reklamy, tylko dajemy artyście albo autorowi pretekst. Dlatego ludzie mówią „tak" i dlatego powstaje coś, co żyje poza Nagrodą. Każdy kolejny pomysł warto mierzyć tą miarą.
+
+### W toku
+
+- **Plebiscyt na piosenkę o AI** - osobny plik [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia).
+- **Plakat Nagrody** - osobny plik [plakat](view.html?file=plakat).
+
+### Handbook dla uczestników (pomysł z rozmowy z Reequest, 23.10.2026)
+
+Kilkanaście próbek rozmów przeprowadzonych przez prawdziwych ludzi, z **ocenami Akademii i komentarzami Kapituły**. Pokazuje, jak wygląda ocenianie od środka: nie tylko co dostało ile punktów, ale dlaczego.
+
+Odpowiada na zarzut Piotra Bylińskiego z tej samej rozmowy: uczestnik, który nie wie, czego się od niego oczekuje, zgłosi rozmowę, odpadnie i poczuje się oszukany, bo miał tylko jedno zgłoszenie w roku. Handbook jest jedyną rzeczą, która to naprawia przed naborem, a nie po.
+
+Materiał bierze się z próby kalibracyjnej, która i tak jest w budżecie: te same rozmowy służą do nauczenia Akademii i Kapituły stosowania karty oceny. Jedna praca, trzy zastosowania - kalibracja, handbook i materiał do [scenariusza lekcji](view.html?file=me-scenariusz-lekcji).
+
+Format drugorzędny: PDF, e-book albo podstrona. Powstaje **przed otwarciem naboru**.
+
+### Podcast - z autorytetem, nie z organizatorem
+
+Nagroda jest o rozmowach, a nie ma ani jednej do pokazania. Format: gość prowadzi rozmowę z AI na temat, który go naprawdę obchodzi, a potem omawia, co z niej wyszło.
+
+**Prowadzi autorytet, nie Organizator.** Rozważani: Tomasz Rożek, Radek Kotarski. Powód jest ten sam co przy jury: nazwisko zmienia odbiór, a Organizator prowadzący własny podcast o własnej nagrodzie brzmi jak autopromocja.
+
+Koszt niewielki, a daje cztery rzeczy naraz: karmi stronę przez cały 2027 rok, produkuje materiał dydaktyczny do antologii i do lekcji, pokazuje ludziom, o co w tym wszystkim chodzi - czego żadna strona nie wyjaśni - i jest dowodem, że pomysł działa.
+
+### Gala: rozmowa czytana jako dialog
+
+Nie monolog laureata, tylko **dialog dwóch głosów**: finalista czyta własne pytania, aktor czyta odpowiedzi AI. Rozważani: Michał Żebrowski, Andrzej Seweryn.
+
+Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna z nich jest maszyną, której ktoś musiał zadać dobre pytanie. Dla aktora to rola, a nie przysługa. Koszt produkcyjny bliski zeru.
+
+### Na później, po pierwszej umowie sponsorskiej
+
+- **Wystawa** - rozmowy wydrukowane wielkoformatowo, w bibliotece, galerii albo na uczelni. Pasuje do pieniędzy z kultury i do wątku plakatu, bo oprawę robi ten sam artysta. Rzecz na 2028, nie wcześniej.
+- **Film dokumentalny** o pierwszej edycji.
+- **Specjalne wydanie antologii jako obiekt** - numerowane, oprawione ręcznie, do licytacji obok plakatu z autografem.
+- **Ilustracje do każdej rozmowy w antologii** wraz z komentarzem artysty - dalszy ciąg wątku plakatu, nie przedmiot pierwszej prośby.
+- **Wyróżnienie dla nauczyciela** - niewielkim kosztem wzmacnia cały wątek edukacyjny i wiąże się z [Uczniowską Akademią](view.html?file=koncepcja).
