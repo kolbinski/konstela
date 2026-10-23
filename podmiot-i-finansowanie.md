@@ -82,6 +82,19 @@ Pytania wysłane mailem 22.10.2026, odpowiedź tego samego dnia. Korespondencja 
 
 **Globico nie prowadzi księgowości fundacji.** Polecony trop: Gdańskie Centrum Organizacji Pozarządowych przy Fundacji Regionalne Centrum Informacji i Wspomagania Organizacji Pozarządowych, https://fundacjarc.org.pl/projekty/gdanskie-centrum-organizacji-pozarzadowych/ - centrum może wskazać zaprzyjaźnione biuro obsługujące organizacje pozarządowe. To zmienia kolejność kroków: biuro trzeba znaleźć **przed** wizytą u notariusza, bo to ono domyka fundusz założycielski i kody PKD, na które Globico nie odpowiada.
 
+## Odpowiedź GCOP (Fundacja RC, 23.10.2026)
+
+Odpowiedziała **Maria Burkiewicz-Sulikowska, koordynatorka Centrum Organizacji Pozarządowych**, tel. +48 451 225 034, Fundacja RC, ul. Wita Stwosza 23, 80-312 Gdańsk. Powiązanie z Gdańskiem wystarczyło: **bezpłatne doradztwo przysługuje także przy zakładaniu fundacji z siedzibą poza Gdańskiem**, skoro mieszkanie jest w Gdańsku.
+
+Tryb: konsultacje umawia się przez formularz https://forms.gle/UyUpzRrRqqtBwGGy9, **osobnym zgłoszeniem dla każdego obszaru**, z pytaniami wpisanymi w treść. U nas dwa zgłoszenia: prawne (fundusz założycielski, działalność gospodarcza w statucie, kody PKD) i księgowe (rozliczanie przychodów od sponsora i od wydawcy, wybór biura rachunkowego). Projekt statutu wysyłamy mailem w odpowiedzi, doradca dostanie go przed konsultacją. Ze względu na notariusza na początku listopada zgłaszamy się od razu.
+
+Dwie informacje przekazane od ręki:
+
+- **Minimum 1000 zł** na działalność gospodarczą - art. 5 ust. 5 ustawy o fundacjach. Potwierdza zapis już obecny w § 23 pkt 2 statutu.
+- **Kody PKD podaje się według klasyfikacji PKD 2025**, w której część kodów zmieniła numerację. Starsze wzory statutów zawierają kody nieaktualne, więc nie kopiujemy ich z internetu ani z cudzych statutów.
+
+Polecone biuro rachunkowe: https://biuro-lex.pl/
+
 **1. Działalność gospodarcza - potwierdzona.** Jeżeli fundacja będzie udzielać licencji w sposób ciągły i osiągać z tego dochód, jest to działalność gospodarcza. Decyzja z 21.10.2026 o wpisaniu jej do statutu od razu okazała się trafna i przestaje być zakładem - § 12 i rozdział o działalności gospodarczej w [statucie](view.html?file=statut) zostają.
 
 **2. Fundusz założycielski - bez odpowiedzi.** Księgowy nie podpowiada kwoty. Pytanie przechodzi do biura poleconego przez GCOP albo do prawnika; pozostaje `[DO USTALENIA]` w § 12 statutu i blokuje wizytę u notariusza.

@@ -114,8 +114,8 @@
 
 **§ 23.** 
 1. Fundacja może prowadzić działalność gospodarczą w rozmiarach służących realizacji jej celów statutowych, jako działalność dodatkową w stosunku do działalności statutowej.
-2. Na działalność gospodarczą przeznacza się część funduszu założycielskiego w kwocie **[DO USTALENIA, nie mniej niż 1000 zł]**.
-3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności: **[DO USTALENIA: kody PKD - wydawanie książek, działalność wydawnicza, działalność edukacyjna, reklama]**. `[Księgowy nie podpowiada; pytanie przechodzi do biura obsługującego organizacje pozarządowe - patrz podmiot-i-finansowanie.md]`
+2. Na działalność gospodarczą przeznacza się część funduszu założycielskiego w kwocie **[DO USTALENIA, nie mniej niż 1000 zł - art. 5 ust. 5 ustawy o fundacjach]**.
+3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności: **[DO USTALENIA: kody PKD - wydawanie książek, działalność wydawnicza, działalność edukacyjna, reklama]**. `[Kody wyłącznie z klasyfikacji PKD 2025 - część numeracji zmieniona, wzory krążące w internecie są nieaktualne (informacja GCOP, 23.10.2026). Do ustalenia na konsultacji prawnej w GCOP.]`
 4. Dochód z działalności gospodarczej przeznaczany jest wyłącznie na cele statutowe.
 
 **§ 24.** Fundacja prowadzi gospodarkę finansową i rachunkowość zgodnie z obowiązującymi przepisami.
