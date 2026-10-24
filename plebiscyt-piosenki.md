@@ -62,7 +62,7 @@ Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do napisanego przeze mn
 
 Hymn ma zostać nagrany i wydany na początku 2027 roku, bo jego premiera otwiera nabór, a na gali w 2028 wykonywany jest na żywo.
 
-Tekst hymnu jest poniżej, razem z wersjami roboczymi, żeby było wiadomo, o czym ta Nagroda jest i jakim mówi językiem.
+Tekst hymnu jest poniżej, razem z wersjami wygenerowanymi przez AI, żeby było wiadomo, o czym ta Nagroda jest i jakim mówi językiem.
 
 ## Prawa
 
@@ -70,28 +70,30 @@ Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, 
 
 Nagroda potrzebuje prawa **niewyłącznego** i w trzech konkretnych zakresach, które wypisuję, zamiast zasłaniać się ogólnym „prezentacja": prezentacja zgłoszenia na stronie Nagrody w czasie naboru; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, zakres wydania jest osobną sprawą i osobną umową między Tobą a wydawnictwem - Nagroda nie jest tu pośrednikiem. Całość przechodzi jeszcze przez kancelarię przed otwarciem naboru.
 
-## Tekst hymnu i wersje robocze
+## Hymn: dwie wersje AI, trzecia ludzka
 
-Dla orientacji co do nastroju zrobiłem dwie wersje robocze w generatorze muzyki suno.com:
+Zaczynamy od punktu, w którym dziś stoi każdy: tekst napisałem sam, a muzykę i wykonanie wygenerował generator suno.com. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywam ich demem ani materiałem roboczym, bo nim nie są - to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
 
 <table class="thumbs">
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=3_Yc4dDPB2c" target="_blank" rel="noopener">
-        <img src="piosenka/thumbnail-1.png" alt="Wersja robocza hymnu &bdquo;Zapytaj inaczej&rdquo; - podejście pierwsze" loading="lazy" />
-        <span class="cap">Wersja robocza 1 &middot; YouTube</span>
+        <img src="piosenka/thumbnail-1.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze" loading="lazy" />
+        <span class="cap">Wersja AI 1 &middot; YouTube</span>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=4qjqEl7EmoU" target="_blank" rel="noopener">
-        <img src="piosenka/thumbnail-2.png" alt="Wersja robocza hymnu &bdquo;Zapytaj inaczej&rdquo; - podejście drugie" loading="lazy" />
-        <span class="cap">Wersja robocza 2 &middot; YouTube</span>
+        <img src="piosenka/thumbnail-2.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie" loading="lazy" />
+        <span class="cap">Wersja AI 2 &middot; YouTube</span>
       </a>
     </td>
   </tr>
 </table>
 
-To dwa podejścia do tego samego i są wyłącznie wskazówką klimatu. Słowa są ludzkie, dźwięk na razie nie i właśnie to ma się zmienić, gdy hymn nagra jury.
+Wkrótce dojdzie trzecia wersja: ten sam tekst nagrany przez jurorów plebiscytu, czyli przez ludzi z głosem, oddechem i własną decyzją w każdej frazie. Wtedy wszystkie trzy staną obok siebie na tej stronie i każdy będzie mógł je przesłuchać, porównać i ocenić sam.
+
+I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby usłyszeć na własne uszy, co dokłada człowiek, kiedy wchodzi w tę samą piosenkę - i czy to słychać. Ta sama różnica decyduje w głównej Nagrodzie, tyle że tam dotyczy rozmowy zamiast dźwięku.
 
 Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu - szukałam, wiedziałam.
 
