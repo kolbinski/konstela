@@ -449,6 +449,45 @@
         vertical-align: top;
       }
 
+      #content table.thumbs {
+        table-layout: fixed;
+        border-collapse: separate;
+        border-spacing: 0.9rem 0;
+        width: calc(100% + 1.8rem);
+        margin: 1.75rem 0 1.75rem -0.9rem;
+      }
+      #content table.thumbs td {
+        width: 50%;
+        padding: 0;
+        border: none;
+      }
+      #content table.thumbs a {
+        display: block;
+        text-decoration: none;
+        border: 1px solid var(--line);
+        background: var(--surface);
+      }
+      #content table.thumbs a:hover {
+        border-color: var(--brass);
+      }
+      #content table.thumbs img {
+        margin: 0;
+        aspect-ratio: 16 / 9;
+        object-fit: cover;
+      }
+      #content table.thumbs .cap {
+        display: block;
+        padding: 0.6rem 0.85rem;
+        font-family: var(--mono);
+        font-size: 0.68rem;
+        letter-spacing: 0.13em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      #content table.thumbs a:hover .cap {
+        color: var(--brass-bright);
+      }
+
       #content hr {
         border: none;
         border-top: 1px solid var(--line);

@@ -74,8 +74,22 @@ Nagroda potrzebuje prawa **niewyłącznego** i w trzech konkretnych zakresach, k
 
 Dla orientacji co do nastroju zrobiłem dwie wersje robocze w generatorze muzyki suno.com:
 
-- https://www.youtube.com/watch?v=-o27mezz_Ik
-- https://www.youtube.com/watch?v=pcjPeUMpoAI
+<table class="thumbs">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=3_Yc4dDPB2c" target="_blank" rel="noopener">
+        <img src="piosenka/thumbnail-1.png" alt="Wersja robocza hymnu &bdquo;Zapytaj inaczej&rdquo; - podejście pierwsze" loading="lazy" />
+        <span class="cap">Wersja robocza 1 &middot; YouTube</span>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=4qjqEl7EmoU" target="_blank" rel="noopener">
+        <img src="piosenka/thumbnail-2.png" alt="Wersja robocza hymnu &bdquo;Zapytaj inaczej&rdquo; - podejście drugie" loading="lazy" />
+        <span class="cap">Wersja robocza 2 &middot; YouTube</span>
+      </a>
+    </td>
+  </tr>
+</table>
 
 To dwa podejścia do tego samego i są wyłącznie wskazówką klimatu. Słowa są ludzkie, dźwięk na razie nie i właśnie to ma się zmienić, gdy hymn nagra jury.
 
