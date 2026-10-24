@@ -391,17 +391,23 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 
 **Cel, który pozostaje słuszny.** Strona nie może przez cały 2027 rok stać martwa - dla mediów, sponsorów i uczestników wygląda to na przedsięwzięcie, które przysnęło. Ruch bez dotykania zgłoszeń dają cztery rzeczy: licznik i statystyki na żywo (ile zgłoszeń wpłynęło, ile przeszło ocenę formalną, rozkład długości i tematów - i tak publikowane po wynikach na mocy § 13 ust. 5, więc wcześniejsze pokazanie niczego nie zdradza); rozmowy kalibracyjne spoza edycji opublikowane z komentarzem, które pokazują, czego szukamy, i uczą czytania; teksty własne - wyjaśnienia karty oceny i sylwetki Kapituły w miarę ogłaszania składu; oraz piosenka Nagrody, opisana niżej.
 
-### Piosenka Nagrody (ustalenia z 22.10.2026)
+### Hymn Nagrody „Zapytaj inaczej" (stan na 24.10.2026)
 
-Tekst powstał 22.10.2026 („Zapytaj inaczej"; tytuł roboczy brzmiał „Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum.
+Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia); tutaj zostaje to, co dotyczy samego utworu i strony.
 
-**Kto nagrywa.** Nie gwiazda. Po pierwsze, do artysty pierwszej wielkości pisze się pierwszy raz tylko raz, a dziś nie ma czym poprzeć prośby - nie ma fundatora, jury ani rozstrzygniętej edycji (ta sama zasada co przy laboratoriach AI niżej). Po drugie, nagrodzie dla ludzi, których nikt jeszcze nie zna, bardziej służy wykonawca, który sam się w ten sposób pokazuje, niż kupiona rozpoznawalność. Kierunek: uczestnicy programów muzycznych pokroju Voice of Poland - mają głos i rozpoznawalność dość dużą, by coś wnieść, i dość małą, by odpowiedzieć na maila.
+**Skąd wziął się tekst.** Powstał 22.10.2026 („Zapytaj inaczej"; tytuł roboczy brzmiał „Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum. Decyzje redakcyjne i to, czego nie wolno zgubić przy dopasowywaniu do melodii, są w [mail-piosenkarz-oferta](view.html?file=mail-piosenkarz-oferta).
 
-**Wersja z Suno jest demem, nie nagraniem do wydania.** Artysta dostaje tekst i demo jako wskazówkę nastroju, a pisze **własną muzykę**. To usuwa trzy problemy naraz: pytanie o regulamin Suno i prawa do melodii, nagłówek o nagrodzie „dla ludzi" promującej się utworem wygenerowanym przez AI, oraz niejasność praw do pliku, który ma wisieć na stronie latami. Tekst jest fundatora, muzyka wykonawcy, nagranie powstaje na zlecenie - **do uporządkowania jedną umową**, nie ustnie.
+**Jak powstał tekst i dlaczego to mówimy.** Z wielogodzinnej rozmowy z AI o tym, czym jest Konstela, zakończonej prośbą o wersję tekstu, a następnie z decyzji fundatora, co w niej zostaje, a co wypada. **Jest to droga, którą zasady plebiscytu wprost dopuszczają** po zmianie z 24.10.2026, i hymn deklaruje ją tym samym zdaniem, którego wymagamy od zgłaszających. *Wcześniejsze zapisy na stronie i w tym pliku mówiły „tekst jest fundatora" oraz „tekst napisał człowiek" - było to nieprawdziwe i zostało poprawione 24.10.2026 wieczorem.*
 
-**Koszt** mieści się w 15 tys. zł na promocję z wariantu B; mały wykonawca i nagranie w małym studiu to rząd kilkuset do kilku tysięcy złotych.
+**Kto nagrywa - zmiana z 23.10.2026.** Odpada zamówienie u jednego wykonawcy. Hymn nagrywa **skład jury plebiscytu**, poza konkursem, a jurorzy nie konkurują ze zgłoszeniami, co jest powiedziane wprost na stronie. Rozważany szerszy skład wykonawczy i wariant z udziałem Grzegorza Markowskiego to kierunki, nie plany - opisane w `plebiscyt-ustalenia`.
 
-**Wykonanie.** Na stronie **bez automatycznego odtwarzania** - przycisk, który człowiek naciska sam. Element dźwiękowy ma się zmieścić w układzie strony, więc agencja przebudowująca stronę musi o nim wiedzieć (rozmowa z Reequest).
+*Przyczyny, dla których pierwotnie wykluczono gwiazdę, pozostają aktualne jako zasada ogólna: do artysty pierwszej wielkości pisze się pierwszy raz tylko raz, a dziś nie ma czym poprzeć prośby - nie ma fundatora ani rozstrzygniętej edycji.*
+
+**Koszt.** Nie mieści się już w 15 tys. zł z wariantu B. Hymn wraz z teledyskiem ma w kosztorysie plebiscytu widełki **60-100 tys. zł** i jest pozycją, na którą środki potrzebne są najwcześniej ze wszystkich, bo premiera otwiera nabór na początku 2027 roku.
+
+**Wersje wygenerowane przez AI zostają na stronie i mają tam zadanie.** Nie są demem ani materiałem roboczym: pokazują punkt wyjścia, a po nagraniu hymnu przez jurorów staną obok wersji ludzkiej do porównania i oceny przez publiczność. To jest ta sama teza, którą mierzy karta oceny głównej Nagrody, postawiona w dźwięku.
+
+**Wykonanie na stronie.** **Bez automatycznego odtwarzania** - przycisk, który człowiek naciska sam. Element dźwiękowy ma się zmieścić w układzie strony, więc agencja przebudowująca stronę musi o nim wiedzieć (rozmowa z Reequest).
 
 **Występ artysty na gali** to osobna i łatwiejsza rozmowa, bo jest decyzją na jeden wieczór, a nie firmowaniem marki singlem. Do podjęcia dopiero, gdy gala ma datę i miejsce.
 
