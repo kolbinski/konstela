@@ -18,6 +18,8 @@ Finansowania szukam w trzech miejscach naraz: w programach wsparcia kultury, u w
 
 ## Jak to ma działać
 
+**Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS, tak samo jak przy zgłaszaniu rozmów. Limit dotyczy zgłoszeń, które reprezentujesz - w cudzych możesz brać udział jako współautor albo wykonawca bez ograniczeń, bo w muzyce granie u kilku osób naraz jest normą, a nie nadużyciem.
+
 **Zgłoszenie.** Jedna piosenka: Twój tekst, Twoja muzyka, Twoje wykonanie. Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężam go bardziej. Zgłoszenia prezentowane są na stronie Nagrody w miarę, jak napływają.
 
 **Wystarczy czytelne demo.** Nie wymagam gotowego singla i nie chcę, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator. Jury dostaje przy tym wyraźne wskazanie, że ocenia utwór i wykonanie, a nie budżet realizacji.
@@ -28,7 +30,19 @@ Narzędzia wolno natomiast używać **na etapie produkcji i obróbki**: korekta 
 
 Weryfikacja nie opiera się na tym, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
-**Co ocenia jury.** Tekst, muzyka i wykonanie - każde osobno. Dokładne wagi i opis kryteriów ogłoszę razem z regulaminem, przed otwarciem zgłoszeń, tak samo jak w konkursie głównym jawna jest karta oceny.
+**Co ocenia jury.** Cztery kryteria, każde osobno. Poniżej projekt karty oceny - publikuję go już teraz, zamiast obiecywać kryteria na później, bo cała Nagroda stoi na tym, że wiadomo z góry, według czego się ocenia. **Ostateczne wagi uzgadnia jury**, a jego przewodniczący zna tę robotę lepiej niż ja.
+
+| Kryterium | Punkty | Co znaczy |
+|---|---:|---|
+| Ujęcie tematu | 25 | Czy utwór mówi o życiu z AI coś niebanalnego, czy powiela dwa bieguny: strach przed maszyną albo zachwyt nad nią |
+| Tekst | 30 | Język, obraz, konstrukcja; czy wers broni się także poza melodią |
+| Muzyka | 25 | Melodia, harmonia, forma; czy utwór zostaje w głowie |
+| Wykonanie | 20 | Wokal i interpretacja |
+| **Razem** | **100** | |
+
+Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie. Wykonanie ma najniższą celowo: skoro przyjmuję dema, nie mogę wysoko ważyć czegoś, co zależy od tego, czy ktoś nagrywał w studiu, czy telefonem.
+
+**Czego nie oceniamy: jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.** To jest ta sama zasada, na której stoi konkurs główny, gdzie oceniane są pytania człowieka, a nie odpowiedzi sztucznej inteligencji.
 
 **Rozstrzygnięcie.** Zwycięzcę wybiera **jury**, nie głosowanie. Powód jest ten sam, dla którego cała Nagroda ocenia według jawnych kryteriów, a nie według popularności: przy głosowaniu wygrywa największy zasięg, a nie najlepsza piosenka. Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który ten plebiscyt zaproponował.
 
@@ -37,6 +51,8 @@ Weryfikacja nie opiera się na tym, że jury rozpozna generator po odsłuchu, bo
 **Finał na gali.** Plebiscyt kończy się na tej samej gali co Nagroda za rozmowę. **Trzy najwyżej ocenione utwory wykonywane są na żywo**, a hymn Nagrody otwiera i zamyka wieczór. Pozostałe zgłoszenia żyją na stronie przez cały rok naboru.
 
 **Nagrody.** Nagrody pieniężne dla czołowej trójki, dwie nagrody publiczności oraz statuetki - wysokość podam przy ogłoszeniu, gdy finansowanie będzie pewne. Osobno od pieniędzy: dziesięć najwyżej ocenionych utworów zostanie nagranych profesjonalnie w studiu, a nagrania mają ukazać się na **płycie wydanej przez wydawnictwo-partnera**. Płyta jest dla plebiscytu tym, czym antologia dla konkursu głównego: nie zdjęciem rękopisu, lecz porządnym wydaniem tego samego.
+
+**Nagranie też zostaje Twoje.** Finansuję je, ale nie zostawiam sobie do niego praw i nie biorę procentu od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody - to jest akurat rzecz, którą w umowach z wytwórniami oddaje się jako pierwszą, a tutaj jej nie oddajesz.
 
 Powiem wprost, jak to jest finansowane, żeby nikt nie musiał się domyślać. **Koszt nagrań jest pozycją w budżecie konkursu, zabezpieczaną razem z nagrodami** - nie zależy więc od tego, czy znajdzie się wydawnictwo, ale zależy od uruchomienia samego konkursu, czyli od pozyskania sponsora. Nie finansuję tego z własnej kieszeni i nie udaję, że mam te pieniądze dziś. Takiego wydawnictwa też jeszcze nie mam; bez niego powstają nagrania, lecz nie powstaje wydanie płytowe. Prawa do nagrań i do utworów zostają przy ich autorach.
 

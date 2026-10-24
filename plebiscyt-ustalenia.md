@@ -54,7 +54,8 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 | Nagranie hymnu przez jurorów wraz z teledyskiem | 60 000 - 100 000 zł |
 | Nagrania studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Statuetki i dyplomy dla laureatów plebiscytu *(propozycja, do potwierdzenia)* | 3 000 zł |
-| **Razem** | **152 000 - 242 000 zł** |
+| Kontrola formalna zgłoszeń, skalowana liczbą zgłoszeń *(patrz niżej)* | do 30 000 zł |
+| **Razem** | **152 000 - 272 000 zł** |
 
 *Zmiany z 24.10.2026, godz. 11: hymn dostał widełki 60-100 tys. zł, bo wariant z powrotem Markowskiego to inna rozmowa niż nagranie samego jury. Pozycja „profesjonalne nagranie utworów trójki zwycięzców, 30 tys. zł" **usunięta** - skoro dziesięć najlepszych utworów nagrywa się porządnie na płytę u wydawnictwa, osobne nagrania dla trójki są podwójną robotą.*
 
@@ -222,3 +223,110 @@ Recenzja obcego AI na podstawie sześciu plików. Dziewięć zarzutów; osiem pr
 ### Nowy rząd wielkości, do świadomego przyjęcia
 
 Po tych decyzjach część artystyczna to **152-242 tys. zł** w pozycjach rozstrzygniętych (nagrody 39, statuetki 3, nagrania dziesiątki 50-100, hymn z teledyskiem 60-100), plus honoraria jury i realizacja gali bez wyceny. To już nie jest akcja towarzysząca pod względem budżetu: zbliża się do 233 tys. zł budżetu partnera wydawniczego całej Nagrody. Pod ramą współistnienia jest to spójne, ale trzeba wiedzieć, że sponsor plebiscytu jest teraz rozmową tej samej wagi co fundator antologii.
+
+## Zgłoszenia, sprawdzanie i karta oceny (24.10.2026, popołudnie)
+
+### Jedno zgłoszenie na osobę
+
+Potwierdzane kodem z SMS, tak samo jak zgłoszenie rozmowy i jak głos w plebiscycie - nie dokładamy trzeciego mechanizmu. Wcześniej nie było żadnego limitu, więc jeden płodny autor mógł obsadzić pół shortlisty.
+
+**Limit liczy się na reprezentanta zgłoszenia, nie na udział w utworze.** W muzyce ten sam producent pracuje przy pięciu nagraniach, a wokalistka śpiewa gościnnie u trzech osób - zakaz tego wykluczałby najaktywniejszych. Reprezentantem jednego zgłoszenia można być raz, współautorem i wykonawcą u innych bez ograniczeń.
+
+Numer prepaid kosztuje kilkanaście złotych, więc mechanizm zatrzymuje zwielokrotnienie okazjonalne, a nie kogoś zdeterminowanego - proporcjonalnie do stawki, tak samo jak przy głosowaniu.
+
+**Efekt uboczny, korzystny:** wybór własnego najlepszego utworu jest sam w sobie aktem oceny, a to jest rzecz, którą ta Nagroda premiuje.
+
+### Preselekcja: bez akademii
+
+**Akademia czytająca nie jest potrzebna**, i to z powodu arytmetycznego. Akademia przy Nagrodzie istnieje, bo rozmowa jest długa i czytanie jej trwa godziny, więc trzeba to rozłożyć na kilkanaście osób. Piosenka ma 4 minuty - nawet 300 zgłoszeń to około 17 godzin odsłuchu, a pierwsze przejście idzie szybciej, bo większość utworów pokazuje poziom w pierwszej minucie. To jest w zasięgu kilkuosobowego jury.
+
+**Rozdzielenie, które trzeba trzymać:**
+
+- **Sprawdzenie formalne** - zawsze, niezależnie od liczby zgłoszeń, po stronie organizatora, nie jury. To jest nierozstrzygnięta kwestia moderacji, do rozmowy z Michałem.
+- **Preselekcja artystyczna** - dopiero powyżej progu, prowadzona przez **samo jury w zapowiedzianym pierwszym przejściu**, według tych samych jawnych kryteriów. Zewnętrzny zespół decydujący, czego jury w ogóle wysłucha, byłby drugim werdyktem, którego nikt nie widzi.
+
+**Odrzucone:** preselekcja przez głosowanie publiczności - wpuszcza zasięg tylnymi drzwiami do etapu, który miał być od niego wolny.
+
+Próg i tryb muszą być ogłoszone **przed naborem**. Preselekcja dopisana po fakcie podważa jawność kryteriów. Wysokość progu to pytanie do Michała - on wie, ile utworów da się rzetelnie odsłuchać w jednym podejściu.
+
+### Jak realnie sprawdzić, że utwór jest własny
+
+Wniosek główny: **autorstwa nie da się zweryfikować technicznie**, a udawanie, że się da, jest groźniejsze niż przyznanie, że się nie da. Architektura proporcjonalna, czyli sprawdzamy głęboko tam, gdzie w grę wchodzą pieniądze i nagrania:
+
+1. **Deklaracja pod rygorem wykluczenia** - kręgosłup prawny, nie kontrola.
+2. **Tanie kontrole na wejściu:** wyszukanie tekstu słowo w słowo; sprawdzenie daty publikacji i historii kanału; opcjonalnie rozpoznawanie nagrań przez odcisk akustyczny, jeśli zdecydujemy się za to zapłacić.
+3. **Content ID w YouTube robi pierwszy przesiew za darmo** - niezamierzona korzyść z przyjętej formy zgłoszenia. Kopia komercyjnego nagrania zostanie oflagowana albo zablokowana przez serwis, zanim ktokolwiek u nas ją odsłucha, a zablokowany film jest sygnałem sam w sobie.
+4. **Tryb sporny** na to, czego powyższe nie wyłapie nigdy, czyli utwór napisany dla zgłaszającego przez kogoś innego albo podebrany: zgłoszenie zastrzeżenia, ciężar wykazania po stronie zgłaszającego zastrzeżenie.
+5. **Materiały robocze od dziesiątki finalistów.**
+
+**Deklaracja o narzędziach musi być polem strukturalnym, nie tekstowym:** osobne zaznaczenie dla tekstu, melodii, harmonii i wokalu plus lista narzędzi użytych na produkcji. Wtedy „wypełniona" sprawdza maszyna, a odpowiedź wymijająca jest niemożliwa. Czy jest prawdziwa - to już materiały robocze, nie sprawdzenie formalne.
+
+### Karta oceny - projekt opublikowany
+
+Strona obiecywała kryteria „razem z regulaminem", co stało w sprzeczności z zasadą, że w tej Nagrodzie kryteria są jawne od pierwszego dnia. Projekt jest już na stronie, z adnotacją, że ostateczne wagi uzgadnia jury.
+
+| Kryterium | Punkty |
+|---|---:|
+| Ujęcie tematu | 25 |
+| Tekst | 30 |
+| Muzyka | 25 |
+| Wykonanie | 20 |
+
+Tekst ma najwyższą wagę, bo oceniamy również pisanie. **Wykonanie ma najniższą celowo: skoro przyjmujemy dema, nie wolno wysoko ważyć czegoś, co zależy od dostępu do studia.** Do tego linia odpowiadająca zasadzie „nie oceniamy odpowiedzi AI" z konkursu głównego: **nie oceniamy jakości produkcji, zasięgów wykonawcy ani jego wcześniejszego dorobku.**
+
+### Kontrola zgłoszeń jako pozycja budżetu (24.10.2026)
+
+**Odpowiedzialny: organizator.** Kontrola formalna nie jest pracą jury i nie trafia do niego - jury dostaje zgłoszenia już sprawdzone.
+
+**Dlaczego to w ogóle jest pozycja kosztowa.** Przy Nagrodzie prowadzenie konkursu mieści się w budżecie fundatora, więc praca organizacyjna jest tam finansowana. Przy plebiscycie takiej pozycji nie było wcale, a praca jest realna i rozłożona na cały rok naboru.
+
+**Szacunek, oparty na jawnych założeniach, żeby dało się zmienić jedną liczbę:** około 10 minut na zgłoszenie (wyszukanie tekstu, sprawdzenie daty publikacji i historii kanału, sprawdzenie deklaracji o narzędziach, sprawdzenie dostępności linku), przy stawce rzędu 70 zł za godzinę:
+
+| Liczba zgłoszeń | Czas | Koszt |
+|---:|---:|---:|
+| 100 | ok. 17 h | ok. 1 200 zł |
+| 300 | ok. 50 h | ok. 3 500 zł |
+| 500 | ok. 83 h | ok. 5 800 zł |
+
+**Stawka i czas są założeniem, nie ustaleniem.** Do potwierdzenia razem z resztą kosztorysu.
+
+**Przyjęty zapis w kosztorysie: do 30 tys. zł, skalowane liczbą zgłoszeń.** Kwota pochodzi od Krzyśka i odpowiada mniej więcej 2000-2500 zgłoszeniom przy powyższej podstawie. Forma sufitu zamiast kwoty płaskiej jest celowa: pozycja administracyjna niemal równa puli nagród 35 tys. zł wygląda źle, a w programach dotacyjnych koszty administracyjne podlegają osobnej ocenie i bywają limitowane.
+
+**Przy dużych liczbach koszt jednostkowy musi spaść, bo praca przestaje być ręczna.** Wyszukanie tekstu, sprawdzenie dostępności linku, daty publikacji, historii kanału i statusu Content ID są skryptowalne; ręczna robota zostaje na tym, co automat oflaguje, oraz na shortliście. Przy 3000 zgłoszeń daje to rzędu 100-150 godzin zamiast 500. Ten sam kod i tak musi powstać na potrzeby systemu rejestracji zgłoszeń.
+
+**Przy bardzo dużej liczbie zgłoszeń pęka nie moderacja, tylko jury:** 3000 utworów to około 200 godzin samego odsłuchu, a honorarium wyceniono na kilkadziesiąt zgłoszeń. Wtedy próg preselekcji przestaje być opcją i staje się warunkiem odbycia konkursu. Liczba nagrań i miejsc na gali zostaje bez zmian.
+
+### Odrzucone: limit liczby zgłoszeń
+
+Rozważany 24.10.2026 i **odrzucony**: zapis o maksymalnej liczbie zgłoszeń na zasadzie „kto pierwszy, ten lepszy".
+
+Powód merytoryczny: szybkość zgłoszenia nie ma nic wspólnego z jakością utworu, a ta Nagroda odrzuciła głosowanie publiczności właśnie dlatego, że mierzy zasięg zamiast piosenki. Limit wejścia mierzyłby refleks. Do tego uderza nierównomiernie - kto ma gotowy utwór w szufladzie, zgłasza się pierwszego dnia, a kto pisze przemyślaną piosenkę o AI, potrzebuje miesięcy; konkurs działałby wtedy przeciwko własnej karcie oceny, a przy odkrywaniu półprofesjonalistów najwolniejsi są zwykle ci z najmniejszym zapleczem.
+
+**Decyzja Krzyśka:** klęskę urodzaju rozwiązujemy w rozmowach z Michałem, Ministerstwem Kultury i sponsorami, a nie regułą wymyśloną pół roku przed naborem.
+
+*Rozważany wariant pośredni, również nieprzyjęty: wysoki limit jako zawór bezpieczeństwa, na przykład 1000, ogłoszony jako limit techniczny, z licznikiem na stronie. Zapisane na wypadek powrotu tematu.*
+
+**Rzecz, którą trzeba rozstrzygnąć przy wyższych liczbach:** 83 godziny przez rok wykonuje ta sama osoba, która robi wszystko inne. Albo automatyzujemy większość tych kontroli, albo przy wyższych liczbach wchodzi płatna pomoc - i wtedy ta pozycja przestaje być drobna. **To jest ta sama moderacja, która parkuje się już trzeci raz; do zamknięcia przy rozmowie z Michałem.**
+
+### Trzy rozstrzygnięcia o sprawdzaniu zgłoszeń
+
+**Content ID: odrzucenie z powodu niedostępności materiału, nie z powodu werdyktu o prawach.** Film zablokowany albo objęty roszczeniem nie nadaje się do prezentacji - nie można go pokazać na stronie ani odtworzyć na gali - więc zgłoszenie odpada z powodu niedostępności, bez orzekania przez organizatora o naruszeniu prawa. Uczestnik może wyjaśnić sprawę z serwisem i zgłosić się ponownie, dopóki trwa nabór. Ta sama logika co przy linku ustawionym na „Only people invited": mówimy od razu, zamiast odrzucać po terminie i bez jego wiedzy. *Konstrukcja wybrana świadomie: zapis „roszczenie w Content ID oznacza wykluczenie" brałby na organizatora werdykt o naruszeniu prawa, czego akurat unikamy.*
+
+**Spory o autorstwo: nie bierzemy ich na siebie, ale zabezpieczamy własną pozycję.** Organizator nie rozstrzyga cudzych sporów i odsyła do przepisów ogólnych. Regulamin musi natomiast określić, co dzieje się **po naszej stronie**, gdy cudze autorstwo wyjdzie po wypłacie nagrody i po wykonaniu nagrania: czy nagroda podlega zwrotowi i co z nagraniem. Bez takiego zapisu organizator nie ma podstawy, żeby czegokolwiek żądać, nawet w sprawie oczywistej.
+
+**Uczestnik nie głosuje w plebiscycie, w którym startuje.** Wykonalne, bo mamy numer zgłaszającego i numer głosującego. *Koszt tej decyzji, przyjęty świadomie: tracimy najbardziej zaangażowaną część publiczności, bo uczestnicy śledzą konkurs najuważniej. Reguła jest jednak prosta i wykonalna, a głosowania na siebie nawzajem i tak nie dałoby się upilnować.*
+
+### Czy fundacja zarabia na płycie (24.10.2026)
+
+**Rekomendacja przyjęta: nie bierzemy udziału w przychodach autorów.**
+
+**Stan prawny.** Fundacja nie ma praw do piosenek - te zostają przy autorach - więc nie może licencjonować czegoś, czego nie posiada. Finansując nagrania, prawdopodobnie nabywa natomiast **prawa producenta fonogramu**, czyli prawa do samych nagrań, odrębne od praw do utworów. To jest jedyny realny tytuł do przychodu i zarazem otwarta kwestia z punktu 12 listy dla kancelarii.
+
+**Rachunek, który przesądza.** Polska płyta składankowa półprofesjonalistów to realnie kilkaset egzemplarzy fizycznych i tysiące, nie miliony odtworzeń. Przychód rzędu setek albo niskich tysięcy złotych przy budżecie 152-272 tys. zł jest szumem. Po drugiej stronie stoi wytłuszczone na stronie zdanie **„wszystko zostaje Twoje"**, które jest najmocniejszym argumentem rekrutacyjnym wobec wykonawców przyzwyczajonych do oddawania masterów. Procent od streamingu kosztuje to zdanie i nie kupuje nic istotnego. Dochodzi praca: rozliczanie tantiem z dziesięcioma podmiotami praw, raportowanie i podatek kosztują fundację więcej, niż przynoszą.
+
+**Przyjęte zamiast tego, dwa ruchy:**
+
+1. **Zwrot nakładu negocjujemy z wydawnictwem, nie z artystami.** Fundacja sfinansowała mastery, więc może oczekiwać od wydawcy opłaty za ich wykorzystanie albo pokrycia części kosztów nagrań. Tantiemy autorskie i wykonawcze zostają nietknięte.
+2. **Prawa do masterów przechodzą na autorów jako część nagrody**, powiedziane wprost na stronie. Wtedy „wszystko zostaje Twoje" przestaje być hasłem i obejmuje również nagranie, za które zapłacił organizator. Dla wykonawcy to wartość realna i rzadka, dla fundacji koszt bliski zeru, bo oddaje przychód, którego i tak by nie było.
+
+**Gdyby przychód jednak powstał** - na przykład z opłaty od wydawcy - obowiązuje ta sama reguła co przy antologii: **zasila pulę nagród następnej edycji**, powiedziane publicznie.

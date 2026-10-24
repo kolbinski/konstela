@@ -40,7 +40,8 @@ Przyjęta forma zgłoszenia to **link do utworu opublikowanego na YouTube**, nie
 - Czy link jest wystarczającą formą zgłoszenia w świetle regulaminu.
 - Co się dzieje, gdy zgłaszający **usunie film albo ustawi go jako prywatny** po terminie zgłoszeń, a przed werdyktem lub przed galą.
 - Czy organizator może i powinien sporządzić **kopię archiwalną** nagrania w chwili zgłoszenia, na jakiej podstawie prawnej i z jakim zakresem wykorzystania, analogicznie do kopii rozmów.
-- Co, gdy YouTube zablokuje film z powodu roszczenia praw autorskich już po zgłoszeniu.
+- Co, gdy YouTube zablokuje film z powodu roszczenia praw autorskich już po zgłoszeniu. **Przyjęta konstrukcja: zgłoszenie odpada z powodu niedostępności materiału, a nie wskutek orzeczenia organizatora o naruszeniu praw** - czy taka podstawa odrzucenia jest wystarczająca i jak ją sformułować, skoro skutek dla uczestnika jest ten sam.
+- Czy uczestnik, któremu zablokowano film, może po wyjaśnieniu sprawy z serwisem zgłosić się ponownie w trakcie naboru, i jak to pogodzić z zasadą jednego zgłoszenia na osobę.
 
 ## 5. Wymóg autorstwa ludzkiego
 
@@ -53,6 +54,24 @@ Reguła w brzmieniu obowiązującym od 24.10.2026, po usunięciu wcześniejszej 
 - Czy organizator może opierać rozstrzygnięcie na własnej ocenie, że utwór jest wygenerowany, i jaki powinien być ciężar dowodu - analogicznie do § 7 regulaminu Nagrody, gdzie przy wątpliwości zgłoszenie zostaje.
 - Czy **żądanie materiałów roboczych** od finalistów jest dopuszczalne i jak je sformułować, żeby nie było żądaniem dostępu do prywatnych plików ani warunkiem niemożliwym do spełnienia przez kogoś, kto pracuje bez sesji wielośladowej.
 - Gdzie przebiega granica między „obróbką" a „generowaniem" przy narzędziach, które robią jedno i drugie, na przykład przy wtyczkach dogrywających brakujące fragmenty albo podnoszących jakość wokalu przez jego ponowne wymodelowanie.
+
+## 5a. Sprawdzanie autorstwa i tryb sporny
+
+Przyjęta architektura: autorstwa nie da się zweryfikować technicznie, więc sprawdzamy proporcjonalnie - deklaracja pod rygorem wykluczenia, tanie kontrole na wejściu (wyszukanie tekstu, data publikacji i historia kanału, ewentualnie odcisk akustyczny), a materiały robocze wyłącznie od dziesięciu finalistów, czyli tam, gdzie w grę wchodzą pieniądze i nagrania.
+
+- Jak skonstruować **tryb sporny**: kto może zgłosić zastrzeżenie co do autorstwa, w jakim terminie, z jakim ciężarem wykazania i z jakim skutkiem dla zgłoszenia w trakcie rozpatrywania.
+- Czy organizator ma obowiązek działać z urzędu, gdy sam poweźmie wątpliwość, czy może poprzestać na deklaracji.
+- Skutki ujawnienia cudzego autorstwa **po wypłacie nagrody i po wykonaniu nagrania studyjnego** - zwrot nagrody, los nagrania, roszczenia osoby pominiętej jako autor. **Przyjęte założenie: organizator nie rozstrzyga cudzych sporów o autorstwo i odsyła do przepisów ogólnych**, natomiast regulamin ma określać skutki po stronie organizatora. Prosimy o brzmienie takiej klauzuli - bez niej organizator nie ma podstawy, by żądać zwrotu nagrody nawet w sprawie oczywistej.
+- Czy wyszukiwanie tekstu i sprawdzanie historii kanału zgłaszającego mieści się w przetwarzaniu danych opisanym w polityce prywatności.
+- Czy korzystanie z sygnałów systemu Content ID serwisu YouTube jako przesłanki odrzucenia zgłoszenia jest dopuszczalne, skoro roszczenie w tym systemie nie przesądza o naruszeniu prawa.
+
+## 5b. Jedno zgłoszenie na osobę
+
+Decyzja z 24.10.2026: **jedno zgłoszenie na osobę, potwierdzane kodem z SMS**, przy czym limit liczy się na **reprezentanta zgłoszenia**, a nie na udział w utworze - ta sama osoba może być współautorem lub wykonawcą w dowolnej liczbie cudzych zgłoszeń.
+
+- Czy taki limit jest skuteczny wobec osoby posługującej się kilkoma numerami i czy regulamin może przewidywać wykluczenie w razie wykrycia obejścia.
+- Czy numer telefonu może posłużyć jednocześnie do potwierdzenia zgłoszenia i do głosowania, bez mieszania celów przetwarzania.
+- **Przyjęte: uczestnik nie głosuje w plebiscycie, w którym startuje.** Egzekwowanie wymaga porównania numerów głosujących z numerami zgłaszających - czy takie zestawienie dwóch zbiorów mieści się w celach przetwarzania opisanych w polityce prywatności i jak je opisać, skoro oba numery zbieramy w różnych celach.
 
 ## 6. Nagroda publiczności a loteria
 
@@ -114,4 +133,7 @@ Przyjęty kierunek po zmianie z 24.10.2026: **nagrania dziesięciu finalistów f
 - Jak skonstruować zgodę, żeby nie wyglądała na przeniesienie praw na rzecz organizatora przy okazji udziału w konkursie - zgłaszający ma zachować wszystko.
 - Zakres umowy z wydawnictwem i czy organizator może być jej stroną, skoro nie jest właścicielem praw do utworów, ale jest finansującym nagrania.
 - Czy organizator, finansując nagrania, nabywa prawa producenta fonogramu, i jak je przekazać wydawnictwu albo autorom, żeby nie powstał stan, w którym organizator jest właścicielem fonogramów cudzych utworów.
+- **Przyjęty kierunek: prawa do nagrań przechodzą na autorów jako część nagrody.** Jak to skonstruować - przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje, i czy da się to zapisać już w regulaminie, tak aby nie wymagało odrębnej umowy z każdym z dziesięciu finalistów. Czy takie przysporzenie jest przy tym kolejnym świadczeniem podlegającym opodatkowaniu po stronie finalisty, obok samego nagrania.
+- **Zwrot nakładu od wydawnictwa.** Fundacja finansuje mastery i nie zamierza uczestniczyć w przychodach autorów, natomiast chce móc oczekiwać od wydawcy opłaty za wykorzystanie nagrań albo pokrycia części ich kosztów. Czy taka konstrukcja jest możliwa, jeżeli prawa do nagrań przeszły wcześniej na autorów, i czy wymaga zastrzeżenia na rzecz fundacji już przy ich przekazaniu.
+- Czy przychód fundacji z takiej opłaty stanowi przychód z działalności statutowej, czy wymaga wpisanej działalności gospodarczej - pytanie zbieżne z pkt 34 listy dla Nagrody, dotyczącym honorarium licencyjnego od wydawcy antologii.
 - Co, gdy wydawnictwo się nie znajdzie: nagrania istnieją, więc trzeba rozstrzygnąć, co organizator może z nimi zrobić (na przykład udostępnić bezpłatnie na stronie) bez odrębnej zgody każdego autora.

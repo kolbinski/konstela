@@ -22,7 +22,8 @@ Jury jest płatne za ocenę zgłoszeń, tak samo jak kapituła oceniająca rozmo
 | Nagroda publiczności dla wykonawcy | 3 tys. zł |
 | Nagroda za najlepsze uzasadnienie wyboru | 1 tys. zł |
 | Statuetki i dyplomy | 3 tys. zł |
-| **Razem** | **152-242 tys. zł** |
+| Kontrola formalna zgłoszeń przez rok naboru, skalowana ich liczbą | do 30 tys. zł |
+| **Razem** | **152-272 tys. zł** |
 | Honoraria jury za ocenę | do ustalenia |
 | Realizacja części artystycznej gali | do wyceny |
 | Wydanie płyty z tymi dziesięcioma<br>nagraniami | po stronie wydawnictwa |

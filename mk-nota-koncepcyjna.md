@@ -177,7 +177,8 @@ Obowiązuje przy tym reguła dla tego konkursu zasadnicza: **tekst, melodia, har
 | Profesjonalne nagranie studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Nagranie hymnu „Zapytaj inaczej" przez jurorów, wraz z teledyskiem | 60 000 - 100 000 zł |
 | Statuetki i dyplomy dla laureatów plebiscytu | 3 000 zł |
-| **Razem, pozycje rozstrzygnięte** | **152 000 - 242 000 zł** |
+| Kontrola formalna zgłoszeń przez cały rok naboru, skalowana ich liczbą | do 30 000 zł |
+| **Razem, pozycje rozstrzygnięte** | **152 000 - 272 000 zł** |
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
