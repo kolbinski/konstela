@@ -1,0 +1,830 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>Arkusz - Nagroda Konstela</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Nagroda Konstela" />
+    <meta
+      name="theme-color"
+      content="#f6f2e9"
+      media="(prefers-color-scheme: light)"
+    />
+    <meta
+      name="theme-color"
+      content="#14120e"
+      media="(prefers-color-scheme: dark)"
+    />
+    <meta name="robots" content="noindex, follow" />
+    <style>
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/cormorant-garamond-latin-ext-400-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/cormorant-garamond-latin-400-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: italic;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/cormorant-garamond-latin-ext-400-italic.woff2')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: italic;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/cormorant-garamond-latin-400-italic.woff2')
+          format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('assets/fonts/cormorant-garamond-latin-ext-600-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Cormorant Garamond';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('assets/fonts/cormorant-garamond-latin-600-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('assets/fonts/source-sans-3-latin-ext-300-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('assets/fonts/source-sans-3-latin-300-normal.woff2') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/source-sans-3-latin-ext-400-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/source-sans-3-latin-400-normal.woff2') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('assets/fonts/source-sans-3-latin-ext-600-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('assets/fonts/source-sans-3-latin-600-normal.woff2') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'IBM Plex Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'IBM Plex Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('assets/fonts/ibm-plex-mono-latin-400-normal.woff2') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+
+      :root {
+        --display: 'Cormorant Garamond', Georgia, serif;
+        --body: 'Source Sans 3', system-ui, sans-serif;
+        --mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+        --paper: #f6f2e9;
+        --paper-raised: #fffdf8;
+        --text: #231f18;
+        --muted: #6d665a;
+        --brass: #8a6a23;
+        --brass-bright: #b08b31;
+        --line: #ddd5c4;
+
+        --bg: var(--paper);
+        --surface: var(--paper-raised);
+        --max-w: 46rem;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme='light']) {
+          --bg: #14120e;
+          --surface: #1c1a15;
+          --text: #ece7db;
+          --muted: #9b9484;
+          --brass: #b08b31;
+          --brass-bright: #d4ad54;
+          --line: #342f25;
+          color-scheme: dark;
+        }
+      }
+
+      :root[data-theme='dark'] {
+        --bg: #14120e;
+        --surface: #1c1a15;
+        --text: #ece7db;
+        --muted: #9b9484;
+        --brass: #b08b31;
+        --brass-bright: #d4ad54;
+        --line: #342f25;
+        color-scheme: dark;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: var(--body);
+        font-size: 1.0625rem;
+        font-weight: 400;
+        line-height: 1.75;
+        color: var(--text);
+        background: var(--bg);
+        -webkit-font-smoothing: antialiased;
+        padding: max(16px, env(safe-area-inset-top))
+          max(16px, env(safe-area-inset-right))
+          max(16px, env(safe-area-inset-bottom))
+          max(16px, env(safe-area-inset-left));
+      }
+
+      .masthead {
+        max-width: var(--max-w);
+        margin: 0 auto;
+        padding: 1.5rem 0 1.25rem;
+        border-bottom: 1px solid var(--line);
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 1rem;
+        flex-wrap: wrap;
+      }
+      .masthead .left {
+        display: flex;
+        align-items: baseline;
+        gap: 0.6rem;
+        min-width: 0;
+      }
+      .masthead a.back {
+        font-family: var(--body);
+        font-size: 1.25rem;
+        line-height: 1;
+        color: var(--muted);
+        text-decoration: none;
+        flex: none;
+        align-self: center;
+      }
+      .masthead a.back:hover {
+        color: var(--brass);
+      }
+      .masthead a.brand {
+        font-family: var(--display);
+        font-size: 1.35rem;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+        color: var(--text);
+        text-decoration: none;
+      }
+      .masthead a.brand:hover {
+        color: var(--brass);
+      }
+      .masthead .tag {
+        font-family: var(--mono);
+        font-size: 0.68rem;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+
+      #content {
+        max-width: var(--max-w);
+        margin: 0 auto;
+        padding: 2.5rem 0 5rem;
+        opacity: 0;
+        transform: translateY(10px);
+        transition:
+          opacity 0.35s ease,
+          transform 0.35s ease;
+      }
+      #content.loaded {
+        opacity: 1;
+        transform: none;
+      }
+
+      #content h1 {
+        font-family: var(--display);
+        font-size: clamp(2rem, 5vw, 2.9rem);
+        font-weight: 600;
+        line-height: 1.12;
+        margin: 0 0 1.75rem;
+      }
+      #content h2 {
+        font-family: var(--display);
+        font-size: 1.65rem;
+        font-weight: 600;
+        line-height: 1.25;
+        margin: 2.75rem 0 0.85rem;
+        padding-bottom: 0.35rem;
+        border-bottom: 1px solid var(--line);
+      }
+      #content h3 {
+        font-family: var(--display);
+        font-size: 1.3rem;
+        font-weight: 600;
+        margin: 2rem 0 0.5rem;
+      }
+      #content h4,
+      #content h5,
+      #content h6 {
+        font-family: var(--mono);
+        font-size: 0.74rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin: 1.75rem 0 0.5rem;
+      }
+
+      #content p {
+        margin: 0 0 1.2rem;
+      }
+      #content strong {
+        font-weight: 600;
+      }
+      #content em {
+        font-style: italic;
+      }
+
+      #content a {
+        color: var(--brass);
+        text-decoration: underline;
+        text-decoration-thickness: 1px;
+        text-underline-offset: 3px;
+        text-decoration-color: color-mix(
+          in srgb,
+          var(--brass) 45%,
+          transparent
+        );
+      }
+      #content a:hover {
+        color: var(--brass-bright);
+        text-decoration-color: currentColor;
+      }
+
+      #content ul,
+      #content ol {
+        margin: 0 0 1.2rem 1.4rem;
+      }
+      #content li {
+        margin-bottom: 0.4rem;
+      }
+      #content li::marker {
+        color: var(--brass);
+      }
+      #content li > ul,
+      #content li > ol {
+        margin-top: 0.4rem;
+        margin-bottom: 0;
+      }
+
+      #content blockquote {
+        margin: 1.75rem 0;
+        padding: 0.85rem 1.25rem;
+        border-left: 2px solid var(--brass);
+        background: var(--surface);
+        color: var(--muted);
+      }
+      #content blockquote p:last-child {
+        margin-bottom: 0;
+      }
+
+      #content code {
+        font-family: var(--mono);
+        font-size: 0.82em;
+        color: var(--brass);
+        background: var(--surface);
+        padding: 0.12em 0.4em;
+        border: 1px solid var(--line);
+        border-radius: 3px;
+      }
+      #content pre {
+        margin: 1.75rem 0;
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: 4px;
+        overflow: hidden;
+      }
+      #content pre code {
+        display: block;
+        padding: 1.1rem 1.25rem;
+        border: none;
+        color: var(--text);
+        font-size: 0.82rem;
+        line-height: 1.6;
+        overflow-x: auto;
+      }
+
+      #content table {
+        width: 100%;
+        margin: 1.75rem 0;
+        border-collapse: collapse;
+        font-size: 0.95rem;
+      }
+      #content th {
+        font-family: var(--mono);
+        font-size: 0.68rem;
+        letter-spacing: 0.13em;
+        text-transform: uppercase;
+        text-align: left;
+        color: var(--muted);
+        font-weight: 400;
+        padding: 0.55rem 0.85rem;
+        border-bottom: 1px solid var(--brass);
+      }
+      #content td {
+        padding: 0.6rem 0.85rem;
+        border-bottom: 1px solid var(--line);
+        vertical-align: top;
+      }
+
+      #content hr {
+        border: none;
+        border-top: 1px solid var(--line);
+        margin: 2.75rem 0;
+      }
+      #content img {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        margin: 1.75rem 0;
+      }
+
+      .state {
+        max-width: var(--max-w);
+        margin: 0 auto;
+        padding: 4rem 0;
+        text-align: center;
+        color: var(--muted);
+        font-family: var(--mono);
+        font-size: 0.8rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+      .state strong {
+        display: block;
+        font-family: var(--display);
+        font-size: 1.4rem;
+        letter-spacing: 0;
+        text-transform: none;
+        color: var(--text);
+        margin-bottom: 0.6rem;
+        font-weight: 600;
+      }
+
+      .foot {
+        max-width: var(--max-w);
+        margin: 0 auto;
+        padding: 1.5rem 0 2.5rem;
+        border-top: 1px solid var(--line);
+        font-family: var(--mono);
+        font-size: 0.68rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      .foot a {
+        color: var(--muted);
+        text-decoration: none;
+      }
+      .foot a:hover {
+        color: var(--brass);
+      }
+
+      @media print {
+        @page {
+          margin: 2cm 1.6cm;
+        }
+        body {
+          background: #fff;
+          color: #000;
+          font-size: 11pt;
+          line-height: 1.5;
+          padding: 0;
+        }
+        .masthead,
+        .foot {
+          border-color: #ccc;
+        }
+        #content {
+          max-width: 100%;
+          padding: 0;
+          opacity: 1;
+          transform: none;
+        }
+        #content h2 {
+          font-size: 14pt;
+        }
+        #content a {
+          color: #000;
+        }
+      }
+
+      @media (max-width: 600px) {
+        body {
+          font-size: 1rem;
+        }
+        #content {
+          padding: 2rem 0 3.5rem;
+        }
+        #content h2 {
+          font-size: 1.4rem;
+        }
+      }
+    </style>
+    <style>
+      /* widok arkusza */
+      .tabs {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        margin: 0 0 1.5rem;
+        padding: 0;
+        list-style: none;
+      }
+      .tabs button {
+        font: inherit;
+        font-family: var(--mono);
+        font-size: 0.78rem;
+        letter-spacing: 0.04em;
+        padding: 0.45rem 0.85rem;
+        background: transparent;
+        color: var(--muted);
+        border: 1px solid var(--rule);
+        cursor: pointer;
+      }
+      .tabs button[aria-current='true'] {
+        color: var(--brass);
+        border-color: var(--brass);
+      }
+      .sheet-wrap {
+        overflow-x: auto;
+        border: 1px solid var(--rule);
+      }
+      table.sheet {
+        border-collapse: collapse;
+        font-family: var(--mono);
+        font-size: 0.78rem;
+        table-layout: auto;
+        min-width: 100%;
+      }
+      table.sheet td {
+        border-right: 1px solid var(--rule);
+        border-bottom: 1px solid var(--rule);
+        padding: 0.4rem 0.6rem;
+        vertical-align: top;
+        white-space: pre-wrap;
+        max-width: 30rem;
+        min-width: 3rem;
+      }
+      table.sheet td:first-child {
+        min-width: 14rem;
+      }
+      table.sheet td.num {
+        text-align: right;
+        white-space: nowrap;
+      }
+      table.sheet td.b { font-weight: 700; color: var(--ink); }
+      table.sheet td.fill { background: rgba(201, 162, 74, 0.14); }
+      table.sheet tr:hover td { background: rgba(138, 106, 35, 0.05); }
+      .legend {
+        font-family: var(--mono);
+        font-size: 0.72rem;
+        color: var(--muted);
+        margin: 0.9rem 0 0;
+      }
+      .legend .box {
+        display: inline-block;
+        width: 0.8em;
+        height: 0.8em;
+        background: rgba(201, 162, 74, 0.14);
+        border: 1px solid var(--rule);
+        margin-right: 0.35em;
+        vertical-align: -0.05em;
+      }
+    </style>
+
+  </head>
+  <body>
+    <header class="masthead">
+      <span class="left">
+        <a class="back" href="/" aria-label="Wróć na stronę główną">&#8592;</a>
+        <a class="brand" href="/">Nagroda Konstela</a>
+      </span>
+      <span class="tag">arkusz</span>
+    </header>
+
+    <main id="content">
+      <div class="state">Wczytywanie</div>
+    </main>
+
+    <footer class="foot">
+      <a href="/">konstela.org</a>
+    </footer>
+
+
+    <script>
+      // Czytnik xlsx bez bibliotek zewnętrznych.
+      // xlsx to archiwum ZIP z plikami XML; ZIP rozpakowujemy natywnie
+      // przez DecompressionStream('deflate-raw'), XML przez DOMParser.
+      const el = document.getElementById('content');
+      const params = new URLSearchParams(location.search);
+      const raw = (params.get('file') || '').trim();
+
+      function state(t, d) {
+        el.innerHTML = '<div class="state"><strong>' + t + '</strong>' + (d || '') + '</div>';
+        el.classList.add('loaded');
+      }
+
+      async function unzip(buf) {
+        const dv = new DataView(buf);
+        const bytes = new Uint8Array(buf);
+        // koniec centralnego katalogu
+        let eocd = -1;
+        for (let i = bytes.length - 22; i >= 0 && i > bytes.length - 66000; i--) {
+          if (dv.getUint32(i, true) === 0x06054b50) { eocd = i; break; }
+        }
+        if (eocd < 0) throw new Error('To nie jest poprawny plik xlsx');
+        const count = dv.getUint16(eocd + 10, true);
+        let p = dv.getUint32(eocd + 16, true);
+        const out = {};
+        const dec = new TextDecoder();
+        for (let i = 0; i < count; i++) {
+          const method = dv.getUint16(p + 10, true);
+          const csize = dv.getUint32(p + 20, true);
+          const nlen = dv.getUint16(p + 28, true);
+          const mlen = dv.getUint16(p + 30, true);
+          const klen = dv.getUint16(p + 32, true);
+          const lho = dv.getUint32(p + 42, true);
+          const name = dec.decode(bytes.subarray(p + 46, p + 46 + nlen));
+          const ln = dv.getUint16(lho + 26, true);
+          const le = dv.getUint16(lho + 28, true);
+          const start = lho + 30 + ln + le;
+          const raw = bytes.subarray(start, start + csize);
+          if (method === 0) {
+            out[name] = dec.decode(raw);
+          } else {
+            const ds = new DecompressionStream('deflate-raw');
+            const ab = await new Response(
+              new Blob([raw]).stream().pipeThrough(ds)
+            ).arrayBuffer();
+            out[name] = dec.decode(ab);
+          }
+          p += 46 + nlen + mlen + klen;
+        }
+        return out;
+      }
+
+      const X = s => new DOMParser().parseFromString(s, 'application/xml');
+      const kol = ref => {
+        let n = 0;
+        for (const ch of ref.replace(/[0-9]/g, '')) n = n * 26 + (ch.charCodeAt(0) - 64);
+        return n;
+      };
+
+      function odczytaj(files) {
+        // teksty wspólne
+        let sst = [];
+        if (files['xl/sharedStrings.xml']) {
+          sst = [...X(files['xl/sharedStrings.xml']).getElementsByTagName('si')].map(si =>
+            [...si.getElementsByTagName('t')].map(t => t.textContent).join('')
+          );
+        }
+        // style: pogrubienie i wypełnienie
+        const bold = [], fill = [];
+        if (files['xl/styles.xml']) {
+          const st = X(files['xl/styles.xml']);
+          const fonts = [...st.getElementsByTagName('fonts')[0].getElementsByTagName('font')]
+            .map(f => !!f.getElementsByTagName('b').length);
+          const fills = [...st.getElementsByTagName('fills')[0].getElementsByTagName('fill')]
+            .map(f => {
+              const fg = f.getElementsByTagName('fgColor')[0];
+              const rgb = fg && fg.getAttribute('rgb');
+              return !!(rgb && /F{0,2}FFF3C4|FFF3C4/i.test(rgb));
+            });
+          const xf = st.getElementsByTagName('cellXfs')[0];
+          [...xf.getElementsByTagName('xf')].forEach(x => {
+            bold.push(fonts[+x.getAttribute('fontId') || 0] || false);
+            fill.push(fills[+x.getAttribute('fillId') || 0] || false);
+          });
+        }
+        // nazwy zakładek
+        const wbx = X(files['xl/workbook.xml']);
+        const rels = X(files['xl/_rels/workbook.xml.rels']);
+        const mapa = {};
+        [...rels.getElementsByTagName('Relationship')].forEach(r => {
+          mapa[r.getAttribute('Id')] = r.getAttribute('Target').replace(/^\/?xl\//, '');
+        });
+        return [...wbx.getElementsByTagName('sheet')].map(sh => {
+          const rid = sh.getAttribute('r:id') || sh.getAttributeNS('http://schemas.openxmlformats.org/officeDocument/2006/relationships', 'id');
+          const path = 'xl/' + (mapa[rid] || '').replace(/^\//, '');
+          const doc = X(files[path] || '<x/>');
+          const wiersze = [...doc.getElementsByTagName('row')].map(row =>
+            [...row.getElementsByTagName('c')].map(c => {
+              const r = c.getAttribute('r') || '';
+              const s = +c.getAttribute('s') || 0;
+              const t = c.getAttribute('t');
+              const v = c.getElementsByTagName('v')[0];
+              const is = c.getElementsByTagName('is')[0];
+              let val = '';
+              if (t === 's' && v) val = sst[+v.textContent] ?? '';
+              else if (t === 'inlineStr' && is) val = is.textContent;
+              else if (v) val = v.textContent;
+              const liczba = val !== '' && t !== 's' && t !== 'inlineStr' && t !== 'str' && !isNaN(val);
+              return { k: kol(r), val, liczba, b: bold[s], f: fill[s] };
+            })
+          );
+          return { nazwa: sh.getAttribute('name'), wiersze };
+        });
+      }
+
+      function fmt(v) {
+        const n = Number(v);
+        if (!isFinite(n)) return v;
+        if (Number.isInteger(n) && Math.abs(n) < 10000) return String(n);
+        if (Math.abs(n) > 0 && Math.abs(n) < 1) return (n * 100).toFixed(0) + '%';
+        return n.toLocaleString('pl-PL', {
+          minimumFractionDigits: Number.isInteger(n) ? 0 : 2,
+          maximumFractionDigits: 2,
+        });
+      }
+
+      function render(arkusze) {
+        const tabs = document.createElement('div');
+        tabs.className = 'tabs';
+        const host = document.createElement('div');
+        const pokaz = i => {
+          [...tabs.children].forEach((b, j) => b.setAttribute('aria-current', String(i === j)));
+          const a = arkusze[i];
+          // ostatnia kolumna z jakąkolwiek treścią - puste kolumny techniczne pomijamy
+          const szer = Math.max(
+            0,
+            ...a.wiersze.map(w =>
+              Math.max(0, ...w.filter(c => String(c.val).trim() !== '').map(c => c.k))
+            )
+          );
+          let html = '<div class="sheet-wrap"><table class="sheet"><tbody>';
+          a.wiersze.forEach(w => {
+            if (!w.length) return;
+            const mapa = {};
+            w.forEach(c => (mapa[c.k] = c));
+            html += '<tr>';
+            for (let k = 1; k <= szer; k++) {
+              const c = mapa[k];
+              const cl = [];
+              if (c && c.liczba) cl.push('num');
+              if (c && c.b) cl.push('b');
+              if (c && c.f) cl.push('fill');
+              html += '<td' + (cl.length ? ' class="' + cl.join(' ') + '"' : '') + '>' +
+                (c ? (c.liczba ? fmt(c.val) : c.val).replace(/[&<>]/g, m => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;' }[m])) : '') +
+                '</td>';
+            }
+            html += '</tr>';
+          });
+          html += '</tbody></table></div>';
+          html += '<p class="legend"><span class="box"></span>pola do edycji w arkuszu</p>';
+          host.innerHTML = html;
+        };
+        arkusze.forEach((a, i) => {
+          const b = document.createElement('button');
+          b.type = 'button';
+          b.textContent = a.nazwa;
+          b.onclick = () => pokaz(i);
+          tabs.appendChild(b);
+        });
+        el.innerHTML = '';
+        el.appendChild(tabs);
+        el.appendChild(host);
+        el.classList.add('loaded');
+        pokaz(0);
+      }
+
+      if (!raw) {
+        state('Nie wskazano arkusza', 'Użyj ?file=budzet-edycji-pierwszej');
+      } else if (/\.xlsx$/i.test(raw)) {
+        state('Nieprawidłowy adres', 'Pomiń końcówkę .xlsx - poprawnie: ?file=' + raw.replace(/\.xlsx$/i, ''));
+      } else if (!/^[\w-]+(?:\/[\w-]+)*$/.test(raw)) {
+        state('Nieprawidłowy adres', '');
+      } else if (typeof DecompressionStream === 'undefined') {
+        state('Przeglądarka nie obsługuje tego widoku', 'Pobierz plik i otwórz w arkuszu kalkulacyjnym.');
+      } else {
+        fetch(raw + '.xlsx')
+          .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.arrayBuffer(); })
+          .then(unzip)
+          .then(f => { const a = odczytaj(f); document.title = raw + ' - Nagroda Konstela'; render(a); })
+          .catch(e => state('Nie udało się wczytać arkusza', e.message));
+      }
+    </script>
+  </body>
+</html>
