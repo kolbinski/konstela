@@ -51,10 +51,12 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 | Nagrody w plebiscycie: 20 tys. zł, 10 tys. zł, 5 tys. zł | 35 000 zł |
 | Nagroda publiczności dla wykonawcy *(propozycja, do potwierdzenia)* | 3 000 zł |
 | Nagroda za najlepsze uzasadnienie wyboru *(propozycja, do potwierdzenia)* | 1 000 zł |
-| Nagranie hymnu przez skład jury wraz z teledyskiem | 60 000 zł |
-| Profesjonalne nagranie utworów trójki zwycięzców, bez teledysku (10 tys. zł na utwór) | 30 000 zł |
+| Nagranie hymnu przez jurorów wraz z teledyskiem | 60 000 - 100 000 zł |
+| Nagrania studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Statuetki i dyplomy dla laureatów plebiscytu *(propozycja, do potwierdzenia)* | 3 000 zł |
-| **Razem** | **132 000 zł** |
+| **Razem** | **152 000 - 242 000 zł** |
+
+*Zmiany z 24.10.2026, godz. 11: hymn dostał widełki 60-100 tys. zł, bo wariant z powrotem Markowskiego to inna rozmowa niż nagranie samego jury. Pozycja „profesjonalne nagranie utworów trójki zwycięzców, 30 tys. zł" **usunięta** - skoro dziesięć najlepszych utworów nagrywa się porządnie na płytę u wydawnictwa, osobne nagrania dla trójki są podwójną robotą.*
 
 **Nierozstrzygnięte:**
 
@@ -89,7 +91,11 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 3. **YouTube może zablokować film** z powodu roszczenia praw autorskich już po zgłoszeniu.
 4. **Kolizja z zasadą ze strony:** zadeklarowałeś Reequest, że YouTube ma być wyłącznie klikalnymi okładkami, bez osadzonych odtwarzaczy. Podstrona prezentująca kilkadziesiąt zgłoszeń będzie chciała odtwarzaczy. Do rozstrzygnięcia przy projekcie podstrony - okładka z przejściem na YouTube jest rozwiązaniem spójnym z zasadą, tylko słabszym w odbiorze.
 
-**Płyta z dziesięcioma najlepszymi utworami: jest w planie, finansuje i wydaje ją wydawnictwo-partner.** *Przeformułowane 24.10.2026 po uwadze Krzyśka: płyta jest odpowiednikiem antologii dziesięciu najlepszych rozmów i ma tę samą logikę - zbiór zgłoszeń takich, jakie przyszły, a nie składanka przerobiona pod radio. Rozwiązuje to zarzut o nierównym poziomie, bo antologia też publikuje rozmowy bez przepisywania. Antologia również nie jest w naszym budżecie, lecz w budżecie partnera wydawniczego, więc model jest ten sam. Nagrania studyjne fundujemy wyłącznie trójce zwycięzców. Na gali nagrody dostaje czołowa trójka, a nazwiska pozostałej siódemki są wyczytane - odwzorowanie Nagrody, gdzie medalion dostaje laureat, a dyplomy cała dziesiątka.* Nie jest pozycją naszego budżetu i nie jest projektem produkcyjnym po naszej stronie. Wchodzi natomiast do rozmów z wydawnictwami jako konkretna propozycja - Michał wskazywał małe i średnie wydawnictwa jako partnerów naturalnych, a Warner Music i Universal jako wariant ambitny. Odrzucone zostało wzięcie płyty na siebie, z dwóch powodów produktowych i kosztowych: dziesięć utworów od półprofesjonalistów o bardzo różnym poziomie to na jednej płycie produkt słaby, bo ranking jury szereguje jakość, ale nie tworzy spójnego albumu; a produkcja płyty jest rzędem wielkości powyżej nagrania trzech utworów, razem z okładką, masteringiem i dystrybucją. *Trzeci argument, którym pierwotnie to odrzuciłem - że płyta przesuwa Konstelę w stronę wytwórni muzycznej - został wycofany po przeformułowaniu marki, patrz niżej.*
+**Płyta z dziesięcioma najlepszymi utworami: nagrana profesjonalnie w studiu, finansuje i wydaje ją wydawnictwo-partner.** Odpowiednik antologii. Relacja jest ścisła i warto ją trzymać w tych słowach: **strona z napływającymi zgłoszeniami odpowiada archiwum rozmów** (materiał taki, jaki przyszedł), a **płyta odpowiada antologii** (porządne wydanie tego samego). Antologia też nie jest zdjęciem rękopisu, tylko zredagowanym i złożonym wydaniem, więc profesjonalne nagranie nie łamie tej analogii, lecz ją domyka. Wydawnictwo chce tego zresztą samo: wytwórnia woli wydać dobrze nagraną płytę niż zbiór nagrań z YouTube'a. Na gali nagrody dostaje czołowa trójka, a nazwiska pozostałej siódemki są wyczytane - odwzorowanie Nagrody, gdzie medalion dostaje laureat, a dyplomy cała dziesiątka.
+
+*Przebieg zmiany: 24.10.2026 rano płyta była „zbiorem zgłoszeń takich, jakie przyszły", po południu zmieniona na profesjonalne nagranie u wydawnictwa. Pierwotne uzasadnienie przez nieprzerobiony dokument upadło, ale analogia do antologii wyszła z tego mocniejsza.*
+
+**Ryzyko do przyjęcia świadomie:** po tej zmianie **cała część muzyczna poza hymnem zależy od wydawnictwa, którego jeszcze nie ma.** Wcześniej nagrania trójki zwycięzców były zabezpieczone z naszego budżetu. Bez partnera plebiscyt pozostaje konkursem z nagrodami pieniężnymi i bez żadnego nagrania. Wariant zapasowy, gdyby wydawnictwa nie było: wrócić do pozycji 30 tys. zł na nagranie trójki. Nie jest pozycją naszego budżetu i nie jest projektem produkcyjnym po naszej stronie. Wchodzi natomiast do rozmów z wydawnictwami jako konkretna propozycja - Michał wskazywał małe i średnie wydawnictwa jako partnerów naturalnych, a Warner Music i Universal jako wariant ambitny. Odrzucone zostało wzięcie płyty na siebie, z dwóch powodów produktowych i kosztowych: dziesięć utworów od półprofesjonalistów o bardzo różnym poziomie to na jednej płycie produkt słaby, bo ranking jury szereguje jakość, ale nie tworzy spójnego albumu; a produkcja płyty jest rzędem wielkości powyżej nagrania trzech utworów, razem z okładką, masteringiem i dystrybucją. *Trzeci argument, którym pierwotnie to odrzuciłem - że płyta przesuwa Konstelę w stronę wytwórni muzycznej - został wycofany po przeformułowaniu marki, patrz niżej.*
 
 **Jury plebiscytu jest płatne za ocenę zgłoszeń.** Rozstrzygnięte 24.10.2026, zmiana wobec zapisu „jury za darmo" z 23.10.2026. Uzasadnienie: skoro płacimy Kapitule i Akademii za czytanie rozmów, płacenie jury za odsłuchiwanie kilkudziesięciu utworów przez rok jest konsekwencją, nie wyjątkiem - a rok pracy oparty na samej dobrej woli to cienki fundament i nie pozwala wymagać terminów. Honorarium za ocenę jest odrębne od honorarium za wykonanie hymnu na gali i od produkcji nagrania.
 
@@ -127,6 +133,14 @@ Przeformułowanie zgłoszone przez Krzyśka i przyjęte.
 - [ ] [plebiscyt-piosenki](view.html?file=plebiscyt-piosenki) i strona główna - do przejrzenia pod kątem języka „akcji towarzyszącej".
 - [ ] [brief-dla-agencji](view.html?file=brief-dla-agencji) - rama współistnienia jest punktem wyjścia do brandingu i tone of voice, które agencja stawia przed stroną.
 
+## Skład jury: wokaliści, autorzy i producenci
+
+Rozstrzygnięte 24.10.2026, po korekcie wcześniejszej decyzji z tego samego dnia o składzie wyłącznie wokalnym. Jury ocenia tekst, muzykę i wykonanie, więc skład złożony tylko z wykonawców ocenia dwa z trzech kryteriów z drugiej ręki. Do jury mogą wejść także **autorzy tekstów i producenci**.
+
+**Kandydat: Jacek Cygan.** Zgłoszony przez Krzyśka. Przy „pisaniu" jako osobnym kryterium oceny jego głos waży więcej niż czyjkolwiek, a dorobku nikt nie podważy. Drugi, obok Markowskiego, most międzygeneracyjny w składzie.
+
+**Skutek dla hymnu.** Zapis „hymn nagra skład jury" przestaje być ścisły, skoro w jury mogą zasiadać osoby, które nie śpiewają. Do poprawienia na stronie i w nocie przy najbliższej okazji: „nagrają go jurorzy, którzy wykonują" albo szerzej, zależnie od tego, co wyjdzie z pomysłu poniżej.
+
 ## Kandydaci do jury
 
 Lista otwarta. Jury jest płatne za ocenę, przewodniczy mu Michał Sołtan, a skład wybierają Organizator i Sołtan.
@@ -150,3 +164,61 @@ Zamiast zaproszenia do jury - zaproszenie Grzegorza Markowskiego do **nagrania h
 2. **Pozycja 60 tys. zł przestaje pasować.** Zakładała kilku jurorów nagrywających utwór przy umiarkowanych stawkach. Powrót po latach to inna rozmowa, prawdopodobnie warta swojej ceny, ale nie mieszcząca się w tej kwocie. Wycena po rozmowie, nie przed.
 
 **Skutek uboczny, do świadomego przyjęcia.** Taki comeback jest wydarzeniem medialnym samym w sobie, więc rozwiązuje martwy rok 2027 lepiej niż teledysk. Jednocześnie podnosi asymetrię uwagi do maksimum: w marcu 2028 łatwo napisać o powrocie Markowskiego i nie napisać, że to była gala nagrody za rozmowy z AI.
+
+### Hymn w formacie "We Are The World" (pomysł z 24.10.2026)
+
+Pomysł Krzyśka: hymn nagrany przez całe jury plus 20 i więcej wykonawców naszej epoki, na wzór "We Are The World". Uzasadnienie: jeśli hymn ma opisać pokolenie post-AI, zasługuje na format zbiorowy, a wielogłos **jest** treścią, nie ozdobą.
+
+**Status: kierunek, nie plan.** Nie wchodzi do noty dla MKiDN ani na stronę.
+
+**Co za tym stoi.** Format jest tezą: współistnienie opowiedziane wieloma głosami. Dwadzieścia nazwisk to materiał medialny sam w sobie, czyli odpowiedź na problem widoczności w 2027. Jeden dzień w studiu jest dla artysty prośbą znacznie mniejszą niż rok pracy w jury. Dla sponsora lista 20 wykonawców jest aktywem.
+
+**Dlaczego nie teraz - powód główny to prawa, nie pieniądze.** Dwudziestu wykonawców to dwadzieścia umów, a artyści z kontraktami wyłącznymi zwykle nie mogą pojawić się na wydawnictwie innej firmy bez zgody swojej wytwórni. To praca na miesiące i kilkanaście cudzych decyzji, z których każda może wpaść. Oryginał miał za sobą wytwórnię, Quincy'ego Jonesa i noc po Grammy, kiedy wszyscy byli w jednym mieście.
+
+**Trzy pozostałe ryzyka.** Format jest dziś rozpoznawany jako singiel charytatywny z lat osiemdziesiątych, więc hymn może wyjść uroczy, a nie poważny. Jeżeli w planach jest 20 nazwisk, a zjawi się 6, materiał wygląda na okrojony, choć nikt nic nie obiecywał publicznie. I rzecz subtelniejsza: Nagroda mierzy to, co zrobił jeden człowiek uważnie - chór gwiazd mierzy obecność znanych osób.
+
+**Ta scena jest już w planie i nic nie kosztuje.** Finał gali to hymn z wszystkimi nagrodzonymi na scenie, na żywo, przy kamerze ([gala](view.html?file=gala)). Jeżeli wyjdzie, zapis z gali staje się argumentem do wersji studyjnej z szerokim składem - już z wydawnictwem i z czyjąś produkcją, jako rzecz na drugą edycję.
+
+**Przyjęta kolejność:** najpierw małe i pewne, czyli hymn nagrany przez jury, potem duże i możliwe. Odwrotna kolejność może zamknąć wszystko.
+
+## Recenzja zewnętrzna i decyzje z 24.10.2026, godz. 12
+
+Recenzja obcego AI na podstawie sześciu plików. Dziewięć zarzutów; osiem przyjętych, jeden częściowo odrzucony. Poniżej to, co z nich wynikło.
+
+### Zarzut główny i jego rozwiązanie
+
+**Zarzut:** na nagrody dla uczestników szło 39 tys. zł, a na hymn do tekstu organizatora 60-100 tys. zł, przy czym nagrania laureatów zależały od nieistniejącego wydawnictwa. Z samej tabeli dawało się napisać „konkurs promuje twórczość organizatora, a uczestnicy dostarczają otoczenia". Wyłączenie jurorów z rywalizacji tego nie rusza, bo problem jest w podziale pieniędzy, nie w regulaminie. **Błąd mój: liczyłem każdą pozycję osobno i nie porównałem obu sum.**
+
+**Rozwiązanie przyjęte:** profesjonalne nagranie dla **całej dziesiątki finalistów, finansowane z budżetu konkursu**, 50-100 tys. zł zależnie od stawki blokowej. Przy okazji upada zarzut o płycie: wkładem wydawnictwa jest wydanie i dystrybucja, a nie finansowanie dziesięciu sesji - pytanie, na które wytwórnia odpowiada znacznie łatwiej.
+
+**Uzasadnienie tej pozycji stoi na własnych nogach, nie na proporcji.** Druga runda recenzji trafnie wytknęła, że nie zwiększa się budżetu po to, by poprawić stosunek dwóch liczb. Nagrania są **wybranym rezultatem konkursu**: z plebiscytu ma zostać dziesięć porządnie nagranych piosenek, a nie wyłącznie werdykt. Wycofuję przy tym własne zdanie, że „proporcja przestaje być zarzutem, bo większość budżetu idzie do zgłaszających" - w dolnym scenariuszu uczestnicy mają 89 tys. zł, a hymn 100 tys. zł, więc policzyłem to na korzyść swojej tezy.
+
+**Hymn wymaga własnego uzasadnienia i je ma:** jest **materiałem przygotowywanym na zaplanowany termin otwarcia kampanii** naboru, w odróżnieniu od podcastu, który zależy od dostępności gości, i od zgłoszeń, które napływają wtedy, kiedy ktoś je nadeśle. Sam termin pozostaje przy tym zależny od finansowania i od kalendarzy artystów, więc nie mówimy o kontroli, tylko o planowaniu. Honorarium jest przy tym stawką rynkową za zlecenie, nie przysługą. *Uwaga do zapamiętania: dwa razy napisałem, że hymn jest „jedynym materiałem do dystrybucji poza stroną", i dwa razy było to nieprawdą - podcast i piosenki uczestników nadają się do niej nie mniej. Przewaga hymnu jest w kontroli nad terminem, nie w zasięgu, a sam zasięg pozostaje założeniem do weryfikacji z Michałem.* Do tego dochodzi warunek, którego wcześniej nie było: **Michał musi mieć realną możliwość powiedzenia, że ten tekst wymaga zmian albo nie nadaje się na singiel.** Samo pytanie o nośność radiową przy takim budżecie jest za mało.
+
+**Odrzucone uzasadnienie, świadomie.** Padł argument, że proporcja jest w porządku, bo w The Voice of Poland i Mam Talent prawdziwymi wygranymi jest jury. Obserwacja trafna, ale jako obrona nie działa: w talent show jurorzy nie są autorami produktu - trener nie wydaje własnego singla sfinansowanego przez program jako hymnu tego programu. The Voice jest też komercyjnym formatem telewizyjnym, a my idziemy z tym kosztorysem do Ministerstwa Kultury. Do tego § 3 ust. 5c regulaminu Nagrody sam wyklucza z edycji twórców materiałów własnych Nagrody, czyli zasada została już przyjęta na piśmie. **Zapis obowiązujący: proporcję naprawia tabela, nie analogia.**
+
+### Pozostałe decyzje
+
+**Hymn: nagranie i premiera na początku 2027, otwiera nabór; na gali w 2028 wykonanie na żywo.** Usuwa sprzeczność wychwyconą w recenzji: pismo mówiło o nagraniu w I kwartale 2028, a nota o teledysku niosącym rok 2027. **Konsekwencja finansowa, istotna:** hymn jest pozycją, na którą pieniądze potrzebne są najwcześniej ze wszystkiego, na przełomie 2026 i 2027. Środki z Programów Ministra na rok 2027 wpływają w trakcie roku, więc dla hymnu ta ścieżka może być za późna - to argument za sponsorem prywatnym w pierwszej kolejności.
+
+**Zgłoszenie: wystarcza czytelne demo, głos i instrument.** Produkcja jest po stronie organizatora i dopiero dla finalistów. Powód z recenzji, trafny i nowy: jeżeli ocenia się wykonanie, uczestnik musi wydać pieniądze na studio, nie wiedząc, czy cokolwiek wygra - a to odsiewa dobrych twórców bez budżetu, czyli dokładnie tych, po których ten konkurs sięga. Jury dostaje wyraźne wskazanie, że ocenia utwór i wykonanie, a nie budżet realizacji.
+
+**Płyta: zostaje dziesięć utworów.** Analogia do antologii jest cenniejsza niż elastyczność wobec przyszłego wydawcy.
+
+**Reguła AI - luka zamknięta.** Poprzednie zapisy przeczyły sobie: „tekst, kompozycja i wokal muszą być dziełem człowieka" obok „wygenerowane w całości nie bierze udziału", co dopuszczało wygenerowany refren. Obowiązuje: **tekst, melodia, harmonia i wokal nie mogą być w żadnej części wygenerowane**; narzędzia wolno stosować wyłącznie na etapie produkcji i obróbki (korekta wysokości, usuwanie szumu, separacja śladów, mastering), z deklaracją przy zgłoszeniu. Weryfikacja nie opiera się na rozpoznaniu generatora przez jury - podstawą jest oświadczenie, finaliści mogą zostać poproszeni o materiały robocze, a przy niewyjaśnionej wątpliwości zgłoszenie zostaje w konkursie.
+
+**Zespoły i duety dopuszczone.** „Własne" znaczy, że utwór jest zgłaszających, a nie że jedna osoba robi wszystko. Zgłoszenie wskazuje reprezentanta składu; podział nagrody jest sprawą zgłaszających.
+
+**Mail do Michała: usunięte „jedno i drugie jest po Twojej stronie".** Po jednej rozmowie telefonicznej przerzucało odpowiedzialność za powodzenie projektu. Zamiast tego dwie konkretne prośby - orientacyjna wycena i sprawdzenie zainteresowania u kilku osób - z pytaniem, czego realnie może się podjąć, i ze zdaniem „nie chodzi mi o zdobywanie gwiazd". **Częściowo odrzucona** rada, by narrację o powrocie Markowskiego wstrzymać do poznania zainteresowania artysty: ta rama jest tym, co czyni prośbę atrakcyjną, a pytanie idzie do Michała, nie do prasy. Błąd był w hierarchii, nie w pomyśle.
+
+### Poprawki spójności w pakiecie MKiDN
+
+- Pismo: „pierwszy polskojęzyczny zbiór" zmienione na „nie napotkałem dotąd", z zastrzeżeniem o braku pełnego przeglądu rynku wydawniczego - zgodnie z tym, co nota i tak przyznawała.
+- Projekt listu intencyjnego: „Ministerstwo dostrzega wartość przedsięwzięcia" zmienione na stwierdzenie zgodności tematyki. Prosimy o potwierdzenie zgodności, więc projekt nie może wkładać resortowi w usta mocniejszego stanowiska - taki zapis i tak zostałby wykreślony przez prawnika ministerstwa, a słabszy jest łatwiejszy do podpisania.
+- Nota, rozdział 9: zdanie „nie występuję o współfinansowanie czegoś, na co szukam równolegle sponsora prywatnego" było sprzeczne ze stroną, która mówi o szukaniu pieniędzy w trzech miejscach naraz. Zastąpione przyznaniem tego wprost plus zobowiązaniem, że ta sama pozycja nie będzie finansowana dwukrotnie.
+- Kosztorys w tych ustaleniach: wiersz hymnu pokazywał 60 tys. zł, a suma uwzględniała już widełki. Poprawione.
+- Blokada SOP: pozostaje jako fakt, bez wyprowadzania z niej wniosku o przesunięciu naborów - pismo pyta o to resort, zamiast zakładać.
+
+### Nowy rząd wielkości, do świadomego przyjęcia
+
+Po tych decyzjach część artystyczna to **152-242 tys. zł** w pozycjach rozstrzygniętych (nagrody 39, statuetki 3, nagrania dziesiątki 50-100, hymn z teledyskiem 60-100), plus honoraria jury i realizacja gali bez wyceny. To już nie jest akcja towarzysząca pod względem budżetu: zbliża się do 233 tys. zł budżetu partnera wydawniczego całej Nagrody. Pod ramą współistnienia jest to spójne, ale trzeba wiedzieć, że sponsor plebiscytu jest teraz rozmową tej samej wagi co fundator antologii.
