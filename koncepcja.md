@@ -112,24 +112,22 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **Przesunięcie edycji na 2027 kupuje czas na sponsorów**: kilka miesięcy do wiosny, a zgłoszenia i tak otwierają się dopiero wtedy.
 
-**Pełny budżet pierwszej edycji (po recenzji z 19.10.2026). Tabela poniżej jest historyczna - aktualne liczby są w `Konstela-budzet-dwaj-sponsorzy.xlsx`, gdzie edycja pierwsza to 772 godziny pracy i dwa wnioski: 603 tys. zł netto do fundatora nagrody i 232,7 tys. zł netto do mecenasa antologii.** Poprzedni szacunek 1,5-2,5 tys. zł obejmował wyłącznie wydatki gotówkowe i przez to zaniżał koszt projektu kilkunastokrotnie. Poniżej rachunek uczciwy, z pracą organizatora wycenioną, nawet jeżeli pozostanie wkładem nieodpłatnym.
+**Budżet pierwszej edycji - trzy wnioski do trzech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia bloków A i B są w `Konstela-budzet-dwaj-sponsorzy.xlsx`; blok C nie jest jeszcze w arkuszu.
 
-| Pozycja                                                |       Koszt gotówkowy | Praca organizatora |
-| ------------------------------------------------------ | --------------------: | -----------------: |
-| Domeny, hosting, poczta (rok)                          |                150 zł |                  - |
-| Konsultacja prawna regulaminu i polityki               |        1 500-3 000 zł |               10 h |
-| Księgowy: wariant rozliczenia, podatek od nagród       |  w ramach obsługi fundacji |           5 h |
-| Medal i dyplomy                                        |          600-1 200 zł |                5 h |
-| Pozyskanie fundatora i partnerów                       |                     - |           60-100 h |
-| Rekrutacja i obsługa jury                              |                     - |               30 h |
-| Próba kalibracyjna oceny przed naborem                 |                     - |               20 h |
-| Obsługa zgłoszeń, formalna weryfikacja, korespondencja |                     - |            40-80 h |
-| Rozmowy weryfikacyjne z finalistami                    |                     - |               10 h |
-| Redakcja antologii i warstwy dydaktycznej              | 0-4 000 zł (redaktor) |           60-100 h |
-| Gala albo wręczenie osobiste, przejazdy                |          500-3 000 zł |               15 h |
-| Komunikacja, strona, poprawki, reklamacje              |                     - |               40 h |
-| Rezerwa (15%)                                          |          ok. 1 000 zł |                  - |
-| **Razem**                                              |   **3 750-12 350 zł** |      **295-415 h** |
+| Blok | Przedmiot | Kwota | Źródło liczby |
+|---|---|---:|---|
+| A | Nagroda i gala - pula nagród, honoraria Kapituły i Akademii, gala, promocja naboru, prowadzenie konkursu | **ok. 603 tys. zł netto** | arkusz, zakładka Wnioski |
+| B | Antologia i archiwum - redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 271,7 tys. zł netto** | arkusz, zakładka Wnioski |
+| C | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 256,6 tys. zł netto** | arkusz, zakładka Wnioski |
+
+**Trzy zastrzeżenia, bez których tej tabeli nie wolno sumować.**
+
+1. **Wszystkie trzy kwoty są netto i obejmują pracę organizatora oraz rezerwę**, a nie same koszty twarde. Nagrody wchodzą w nie jako kwoty brutto dla laureatów, bez VAT - tak jak w arkuszu.
+2. **Blok C nie zawiera honorariów jury plebiscytu ani realizacji części artystycznej gali** - obie pozycje stoją w arkuszu na zerze i czekają na wycenę od Michała Sołtana. Po ich wpisaniu kwota bloku C wzrośnie.
+3. **Blok A obejmuje galę**, a część artystyczna gali należy do bloku C. Granicę trzeba przeciąć raz i wyraźnie, zanim któraś z tych kwot pójdzie do sponsora.
+4. **Łącznie trzy wnioski to ok. 1 132 tys. zł netto przy 937 godzinach pracy.** Stawka rzeczywista wychodzi 224,20 zł za godzinę wobec założonych 220, co jest sprawdzianem, że model się nie rozjeżdża.
+
+**Historia dla porządku:** pierwszy szacunek z 19.10.2026 mówił o 1,5-2,5 tys. zł i obejmował wyłącznie wydatki gotówkowe, przez co zaniżał koszt projektu kilkunastokrotnie. Rachunek uczciwy musi wyceniać pracę organizatora, nawet jeżeli pozostaje ona wkładem nieodpłatnym - edycja pierwsza to 772 godziny.
 
 Przy stawce rynkowej inżyniera oprogramowania rzędu 150-200 zł za godzinę praca organizatora to **45-80 tys. zł**. To nie jest kwota do wystawienia komukolwiek, ale jest to prawdziwy koszt pierwszej edycji i tak należy o nim myśleć przy rozmowie z fundatorem oraz przy decyzji, czy projekt w ogóle warto prowadzić bez wynagrodzenia.
 
@@ -676,3 +674,49 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 - **Specjalne wydanie antologii jako obiekt** - numerowane, oprawione ręcznie, do licytacji obok plakatu z autografem.
 - **Ilustracje do każdej rozmowy w antologii** wraz z komentarzem artysty - dalszy ciąg wątku plakatu, nie przedmiot pierwszej prośby.
 - **Wyróżnienie dla nauczyciela** - niewielkim kosztem wzmacnia cały wątek edukacyjny i wiąże się z [Uczniowską Akademią](view.html?file=koncepcja).
+
+## Ściana zgłoszeń i Nagroda Publiczności - zmiana decyzji z 24.10.2026
+
+**Co się zmienia.** Wcześniej odrzucono publikowanie zgłoszeń na bieżąco wraz z głosowaniem publiczności, sześcioma powodami wypisanymi wyżej. Trzy z tych powodów nadal obowiązują, ale **wszystkie trzy dają się rozwiązać narzędziami, których w październiku jeszcze nie mieliśmy**, więc decyzja zostaje zmieniona w kontrolowanym zakresie.
+
+**Co upadło z pierwotnych zarzutów:**
+
+- *Nakręcanie głosów* - rozwiązane bramką SMS z jednym głosem na numer telefonu, zaprojektowaną przy plebiscycie. Nie zatrzyma zdeterminowanego, zatrzyma kolegów i boty.
+- *Skażenie odczytów Akademii* - rozwiązane ukryciem liczników do ogłoszenia oraz przesunięciem głosowania za dzień zamrożenia punktacji.
+- *Nierówna ekspozycja* - rozwiązana tym, że głosowanie otwiera się dopiero po zamknięciu naboru, więc wszystkie zgłoszenia mają ten sam czas na ekranie.
+- *Odpowiedzialność za publikację przed oceną formalną* (§ 11 ust. 11) - rozwiązana dwojako: **nie republikujemy rozmów**, tylko pokazujemy link, który uczestnik sam opublikował, więc odpowiedzialność za treść zostaje po jego stronie; a wpis trafia na ścianę **dopiero po przejściu oceny formalnej**, więc nic nie jest pokazywane przed sprawdzeniem.
+- *Zarzut „dwa werdykty obok siebie"* - **wycofany jako najsłabszy.** Dwa równoległe werdykty są standardem, a Nagroda ma już własny w postaci Nagrody Uczniowskiej, wzorowanej na Prix Goncourt des lycéens, gdzie o to właśnie chodzi.
+
+### Ściana zgłoszeń - przez cały 2027
+
+**Obecność na ścianie jest warunkiem udziału, nie wyborem uczestnika** (decyzja z 24.10.2026, zmiana wobec pierwotnego pomysłu ze ścianą dobrowolną). Trzy powody:
+
+1. **Spójność z § 11 ust. 3**, który już mówi, że publikacja jest warunkiem udziału i nie wymaga odrębnej zgody, a uczestnik decyduje wyłącznie o sposobie podpisania. Ściana dobrowolna wprowadzałaby drugi, łagodniejszy reżim obok tamtego, bez powodu.
+2. **Znika wyjątek przy Nagrodzie Publiczności.** Przy ścianie opcjonalnej trzeba by pisać, że głosować można wyłącznie na rozmowy ze ściany - czyli że część uczestników jest poza tą nagrodą wskutek decyzji podjętej rok wcześniej, często bez świadomości skutków. Przy ścianie obowiązkowej wszyscy są w grze.
+3. **Ściana rzadka wygląda gorzej niż jej brak.** Przy opt-in trafiłoby tam może 30 procent zgłoszeń i strona przez rok pokazywałaby, że mało kto się zgłasza - odwrotnie do zamierzonego efektu.
+
+**Dwa zabezpieczenia.** Pseudonim z § 5 ust. 2 lit. g załatwia prywatność: kto nie chce figurować nazwiskiem, podpisuje się pseudonimem, a mechanizm już istnieje. Sama rozmowa jest pod linkiem opublikowanym przez uczestnika własnoręcznie, więc ekspozycji treści nie dokładamy. Drugie: **wpis pojawia się po przejściu oceny formalnej, nie w chwili zgłoszenia** - kilka dni opóźnienia, w zamian ściana zawiera wyłącznie zgłoszenia ważne, a dwa krótkie pola są sprawdzone przed pokazaniem.
+
+**Wąska furtka, wzorowana na § 11 ust. 5:** jeżeli pokazanie wpisu rodzi realne ryzyko prawne, uczestnik może zostać ze ściany zdjęty, zachowując udział w konkursie. Nie jako wybór preferencji, tylko jako ten sam wyjątek, który regulamin już zna.
+
+Pokazujemy: **imię i nazwisko albo pseudonim** zgodnie z § 5 ust. 2 lit. g, **link** opublikowany przez uczestnika oraz **opis odkrycia** z § 5 ust. 2 lit. b. Kolejność po dacie zgłoszenia, bez żadnego sortowania. Przeczytane oznaczane w localStorage.
+
+**Czego na ścianie nie ma w 2027:** pola „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1). Regulamin celowo udostępnia je oceniającym dopiero po wystawieniu ocen, żeby umiejętność zareklamowania rozmowy nie kierowała lekturą; opublikowane wcześniej omijałoby to zabezpieczenie bokiem. Pole pojawia się **po dniu zamrożenia punktacji rundy pierwszej** (§ 8 ust. 11 lit. e), razem z otwarciem głosowania.
+
+### Półka z gwiazdkami
+
+Czytelnik oznacza gwiazdką rozmowy, do których chce wrócić. Po roku czytania nikt nie pamięta w styczniu, co mu się podobało w marcu - bez półki głosowanie wybierałoby spośród ostatnio przeczytanych.
+
+**Warunek, który czyni to bezpiecznym: gwiazdki zostają na urządzeniu i nigdy nie trafiają do nas.** Zliczane byłyby żywym licznikiem popularności w trakcie 2027, czyli dokładnie tym, co wykluczamy. Przy okazji jest to spójne ze stroną bez ciasteczek i bez zewnętrznej analityki.
+
+**Do powiedzenia wprost na stronie:** gwiazdka nie jest głosem, głosuje się raz i numerem telefonu; oraz półka żyje w przeglądarce, więc wyczyszczenie danych albo przesiadka na inne urządzenie ją kasuje. Stąd **eksport i import półki** - plik albo lista do skopiowania, bez kont i bez rejestracji.
+
+### Nagroda Publiczności - głosowanie w 2028
+
+Otwiera się po dniu zamrożenia punktacji rundy pierwszej, czyli 14 dni po zamknięciu naboru, i trwa do gali. **Jeden głos na numer telefonu**, liczniki ukryte do ogłoszenia wyniku na gali.
+
+Głosowanie obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną**, ponieważ ściana jest obowiązkowa - nikt nie jest poza tą nagrodą wskutek własnego niedopatrzenia przy zgłoszeniu.
+
+Na gali trzy werdykty obok siebie: **Kapituły, Uczniowskiej Akademii i publiczności**, każdy wyraźnie nazwany.
+
+**Nierozstrzygnięte:** nazwa tej nagrody oraz czy ma mieć gratyfikację pieniężną.

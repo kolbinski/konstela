@@ -1,88 +1,138 @@
-# Reequest - rozmowa 23.10.2026
+# Konstela - materiał warsztatowy dla Reequest
 
-Spotkanie online, 91 minut, godz. 14:21. Uczestnicy: Piotr Byliński (założyciel), Ela (projektowanie produktów cyfrowych i stron), Norbert Tasarz (programista, zwolniony z rozmowy po pięciu minutach, bo kodowanie zostaje po stronie Krzyśka).
+> **Snapshot obecnego stanu wiedzy o projekcie, nie archiwum.** Plik jest podstawą warsztatów z agencją i ma być aktualizowany przy każdej decyzji dotyczącej Nagrody, plebiscytu, strony albo komunikacji. Rzeczy nieaktualne są z niego usuwane, a nie oznaczane jako historyczne - od tego są pozostałe pliki projektu.
+>
+> Stan na 24.10.2026.
 
-## Co ustalono
+## 1. Marka: współistnienie, nie rozmowy z AI
 
-- **Wycena do 4 listopada.** Piotr ma zajęty cały przyszły tydzień; siada do tematu 2 listopada, Ela zadeklarowała wysyłkę wyceny najpóźniej 4 listopada.
-- **Zakres wyszedł poza brief.** Agencja widzi to jako: warsztaty (cykliczne), branding i tone of voice, materiały wideo, dopiero na końcu strona. Zdanie Piotra: „wynikiem naszej pracy będzie strona internetowa, ale wpierw musimy przejść przez branding". Ela przygotuje **plan warsztatów i wyśle mailem** przed pierwszym spotkaniem.
-- **Podstrony są w zakresie**, nie tylko strona główna - Ela zwróciła uwagę, że nie zauważyła karty oceny schowanej w stopce.
-- **Warsztaty najlepiej na żywo**, w Warszawie przy Kaliskim; możliwe też online, decyzja Krzyśka.
-- **Podstrona plebiscytu piosenki** jako osobna pozycja do wyceny, z odrębnym kierunkiem wizualnym („bardziej show").
-- Krzysiek zadeklarował, że **nie chce komunikatu o ciasteczkach**, bez Google Analytics i bez fontów z CDN; YouTube wyłącznie jako klikalne okładki, nie osadzone odtwarzacze. Piotr zgłosił sprzeciw w sprawie analityki, bo bez niej nie da się mierzyć kampanii.
+**Punkt wyjścia do brandingu i tone of voice.**
 
-## Czego Piotr się obawia
+Konstela nie jest nagrodą za rozmowy z komputerem. Jest o **życiu z AI - o współistnieniu ludzi i sztucznej inteligencji w epoce, która już się zaczęła**. Rozmowa jest pierwszym miejscem, w którym to współistnienie widać i daje się ocenić, i dlatego stoi w centrum. Nie jest miejscem jedynym.
 
-**Odbiór jako „freak".** Pierwsze skojarzenie z nazwą: gwiazdy, energia wszechświata, ezoteryka. Jego zdaniem największym wyzwaniem jest zdobycie zaufania i pokazanie, że to nie jest czyjeś hobby. Stąd propozycja zbudowania persony i całego systemu komunikacji pod nią.
+Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt - konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. To samo robi dobra rozmowa: pojedyncze fakty ma każdy, wartość powstaje z połączeń.
 
-**Rozwodnienie okna zgłoszeń.** Rok to za długo; „kiedyś czyli nigdy". Proponuje analogię do triathlonu: kampania na trzy miesiące przed zamknięciem okna, bo wtedy następuje pik zgłoszeń.
+**Z ramy współistnienia wynika hierarchia dwóch konkursów:** plebiscyt na piosenkę nie jest akcją towarzyszącą ani oprawą artystyczną gali, tylko **drugim konkursem o tej samej randze**. Konkurs, w którym AI nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu. Rynek muzyczny jest przy tym zmieniany przez narzędzia generatywne szybciej i boleśniej niż sposób, w jaki ludzie zadają pytania.
 
-**Jedno zgłoszenie na osobę** może obcinać zainteresowanych na starcie - ludzie będą się wahać i część odpadnie. Pytał, jak utrzymać uwagę uczestnika przez rok bez rejestracji i bez możliwości przypominania mu o konkursie.
+**Dla warsztatów:** słowa „akcja towarzysząca", „dodatek", „część artystyczna" wypadają z języka projektu.
 
-**Termin 1 stycznia** nazwał wprost szalonym; proponuje MVP, czyli wersję na tyle dobrą, żeby iść z nią do partnerów.
+## 2. Dwa konkursy
 
-## Co z tego wynika dla nas - do rozstrzygnięcia
+**Nagroda Konstela.** Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył ze sztuczną inteligencją. Ocenia najpierw kilkunastoosobowa Akademia czytająca, potem kilkuosobowa Kapituła, według **jawnej karty oceny** opublikowanej przed naborem: cztery kryteria o równej wadze, w tym wyłapywanie zmyśleń oraz to, co człowiek z rozmowy wyniósł. Nagradzany jest człowiek, nie program. Udział bezpłatny, jedno zgłoszenie na osobę potwierdzane kodem SMS.
 
-1. **Plebiscyt piosenki zastępuje pojedyncze zlecenie.** Pomysł wyszedł od Michała Sołtana w rozmowie o 13:00: zamiast zamawiać jedną piosenkę u jednego wykonawcy, ogłosić plebiscyt, w którym półprofesjonalni wykonawcy zgłaszają własne wersje utworu, a zwycięzca dostaje statuetkę i nagrodę na gali. Sołtan podpowiedział też, że na to może znaleźć się grant z Ministerstwa Kultury albo ze środków europejskich. **To wywraca całą dzisiejszą konstrukcję z `piosenka.md`** (demo 800 zł, finał 3000 zł, stawka wiążąca przez 12 miesięcy) i wymaga osobnej decyzji oraz przepisania strony oferty. Plebiscyt ma też wartość, której pojedyncza piosenka nie ma: daje powód, żeby wracać na stronę przez cały 2027 rok, czyli odpowiada na zarzut Piotra o rozwodnieniu.
-2. **Wtyczka do Chrome - bariera zaufania.** Wtyczka jest w planie i nie została odrzucona: opcjonalna, licząca lokalnie w przeglądarce uczestnika, z przyciskiem zapisu rozmowy do JSON, przy czym pobrany plik nie jest podstawą oceny (§ 5 ust. 3b lit. f, ustalenia w [kopia-archiwalna-ustalenia](view.html?file=kopia-archiwalna-ustalenia)). Odrzucony 19.10.2026 został wariant inny: wtyczka jako **warunek wstępny** udziału. Natomiast zarzut Piotra pozostaje w mocy i jest poważny: przeciętny użytkownik nie zainstaluje wtyczki, bo zakłada, że go podsłuchuje, niezależnie od tego, co napiszemy. **To jest zadanie dla agencji**: jak zakomunikować narzędzie opcjonalne, działające bez wysyłania czegokolwiek, żeby nie czytało się jak prośba o dostęp do cudzych rozmów. Piotr zaproponował też weryfikator na stronie - wart rozważenia jako uzupełnienie dla tych, którzy wtyczki nie zainstalują.
-3. **Linki udostępniania u Claude: domyślnie „Only people invited".** Ekran logowania, na który trafił Piotr, nie był awarią, tylko ustawieniem domyślnym przy generowaniu linku - trzeba ręcznie przełączyć na „Anyone with the link" i wtedy rozmowa otwiera się od razu. **Konsekwencja dla naboru jest konkretna:** uczestnik, który tego nie przestawi, zgłosi link niemożliwy do otwarcia przez Organizatora, a zgłoszenie odpadnie formalnie bez jego winy i bez jego wiedzy. Do zrobienia: instrukcja przy formularzu, zrzut ekranu pokazujący to ustawienie u każdego dostawcy oraz **sprawdzenie dostępności linku w chwili zgłoszenia**, z natychmiastowym komunikatem zamiast odrzucenia po terminie. Do sprawdzenia, czy ChatGPT i Gemini mają analogiczne ustawienia.
-4. **Okno zgłoszeń.** W rozmowie padło „od 1 stycznia do 31 grudnia, zgłoszenia do 15 stycznia". Regulamin mówi, że zgłoszenia przyjmowane są od dnia publikacji regulaminu. Trzeba to ujednolicić, zanim agencja zacznie budować na tym komunikację.
-5. **Nagroda Uczniowska** opisana została jako „kilkanaście tysięcy" albo losowanie laptopa, co nie odpowiada konstrukcji przyjętej rano. Do sprostowania przy warsztatach.
+**Plebiscyt na piosenkę.** Otwarty konkurs na własny utwór o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie; zespoły i duety dopuszczone, ze wskazaniem reprezentanta składu. Adresat: wykonawcy półprofesjonalni. **Zgłasza się czytelne demo**, nie gotowy singiel, żeby koszt studia nie decydował o tym, kto weźmie udział; zgłoszeniem jest link do YouTube. Jedno zgłoszenie na osobę.
 
-## Budżet - uwaga na przyszłość
+Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowanie. **Karta oceny jest jawna od początku**: ujęcie tematu 25, tekst 30, muzyka 25, wykonanie 20 punktów, z wyraźnym zastrzeżeniem, że nie oceniamy jakości produkcji, zasięgów ani wcześniejszego dorobku.
 
-Brief celowo nie podawał budżetu: „nie chcę zakotwiczyć rozmowy swoim szacunkiem". W rozmowie Piotr zapytał wprost („5, 10?"), a odpowiedź brzmiała, że przy sponsorze antologii rzędu dwustu tysięcy kwota dziesięciu czy piętnastu tysięcy to procent tej sumy i **„to nie będzie 5000 na pewno"**. To jest kotwica, i to ustawiona od dołu. Wycena, która przyjdzie 4 listopada, najprawdopodobniej nie zejdzie poniżej tych piętnastu tysięcy.
+**Reguła wobec AI:** tekst, melodia, harmonia i wokal nie mogą być w żadnej części wygenerowane; narzędzia wolno stosować na etapie produkcji i obróbki, z deklaracją przy zgłoszeniu.
 
-Nie jest to katastrofa, bo kwota mieści się w budżecie bloku B, ale przy kolejnych rozmowach z dostawcami warto trzymać się pierwotnej zasady: najpierw cudza wycena, potem własna liczba.
+## 3. Co z tego powstaje
 
+- **Antologia** - dziesięć najwyżej ocenionych rozmów każdej edycji, bezpłatnie, w całości, z komentarzem Kapituły.
+- **Publiczne archiwum** szerszego zbioru rozmów, bez punktacji i bez komentarzy, publikowane porcjami przez rok po edycji.
+- **Płyta** z dziesięcioma najwyżej ocenionymi utworami plebiscytu - nagrania finansuje organizator, wydaje wydawnictwo-partner, którego jeszcze nie ma. Prawa do nagrań przechodzą na autorów jako część nagrody.
+- **Hymn „Zapytaj inaczej"** w wykonaniu jurorów, z teledyskiem.
 
-## Wątki z rozmowy podjęte 23.10.2026 wieczorem
+## 4. Kalendarz i jedno pytanie, które blokuje resztę
 
-### 1. Komunikat o odrzuceniu i wgląd we własne oceny
+| Kiedy | Co |
+|---|---|
+| początek 2027 | premiera hymnu z teledyskiem - **otwiera kampanię naboru** |
+| cały 2027 | nabór, ściana zgłoszeń rośnie, zgłoszenia plebiscytu napływają, odcinki podcastu |
+| 15 stycznia 2028 | zamknięcie naboru; 14 dni później zamrożenie punktacji rundy pierwszej |
+| I kwartał 2028 | głosowanie publiczności |
+| druga połowa marca 2028 | gala: werdykty, koncert, dialog czytany |
 
-Piotr drążył to najdłużej ze wszystkiego: jak uczestnik dowie się, że odpadł, i co dostanie w zamian za włożoną pracę. Przy odrzuceniu formalnym odpowiedź jest łatwa, bo podaje się powód. Przy merytorycznym zostaje „ktoś był lepszy", a to przy 1 zgłoszeniu na rok jest odpowiedzią chłodną - jego zdanie „ale wiesz, ja się narobiłem" jest tu całą diagnozą.
+**Nierozstrzygnięte i blokujące:** regulamin mówi, że zgłoszenia przyjmowane są od dnia publikacji regulaminu, a pozostałe dokumenty wskazują 1 stycznia 2027. **Ta rozbieżność wyznacza twardy termin dla strony i powinna zostać zamknięta na warsztatach**, zanim agencja zacznie budować na niej komunikację.
 
-**Przyjęte:** na żądanie, **po gali**, uczestnik może zapytać o powód niezakwalifikowania do dziesiątki i otrzymuje **własne oceny wystawione przez Akademię**.
+## 5. Strona - zakres
 
-**Dwa warunki, bez których to nie zadziała:**
+**Dziś:** statyczny HTML bez frameworka, GitHub Pages przez Cloudflare w trybie DNS only, fonty self-hostowane. Strona główna plus podstrony dokumentów renderowane z Markdown po stronie przeglądarki. Opublikowane: regulamin, karta oceny, polityka prywatności, dokument o prawach do wypowiedzi AI, strona plebiscytu, `ai.txt` i `robots.txt` z zastrzeżeniem eksploracji tekstów i danych.
 
-1. **Kolizja z retencją.** Polityka prywatności mówi, że dane uczestników nienagrodzonych wraz z kopiami rozmów usuwane są w ciągu 60 dni od ogłoszenia wyników. Pytanie zadane w 70. dniu trafia w próżnię. Albo wydłużamy ten termin, albo zamykamy okno na pytania wewnątrz 60 dni i mówimy to wprost w regulaminie.
-2. **Oceny bez wskazania oceniających.** Przekazujemy punkty i uzasadnienia, nie nazwiska ani identyfikatory czytelników - inaczej robimy z Akademii cel dla rozżalonych.
+**Co dochodzi i wymaga wyceny:**
 
-Handbook częściowo naprawia ten problem przed naborem, ale nie zastępuje tego, co przychodzi mailem po.
+**Ściana zgłoszeń - cały 2027.** Lista, która rośnie przez rok: imię i nazwisko albo pseudonim, link do rozmowy opublikowany przez uczestnika, opis odkrycia (3-10 zdań). **Kolejność wyłącznie po dacie zgłoszenia, bez sortowania i bez wyróżniania.** Przeczytane oznaczane lokalnie. Obecność na ścianie jest warunkiem udziału; wpis pojawia się po przejściu oceny formalnej. **To jest odpowiedź na zarzut o rozwodnieniu rocznego okna** - strona ma wreszcie powód, by na nią wracać.
 
-### 2. Utrzymanie uwagi przez 12 miesięcy: lista mailingowa
+**Półka z gwiazdkami.** Czytelnik oznacza rozmowy, do których chce wrócić, i w styczniu 2028 wybiera z własnej półki. **Gwiazdki zostają na urządzeniu i nigdy nie trafiają na serwer** - inaczej powstałby żywy licznik popularności. Potrzebny eksport i import półki, bo rok zbierania ginie przy wyczyszczeniu przeglądarki, a kont nie ma i nie będzie.
 
-W rozmowie wątek się urwał bez rozstrzygnięcia: nie ma kont i rejestracji, więc nie ma jak przypominać, a kampania do 38 mln ludzi kosztuje majątek.
+**Głosowanie publiczności - 2028.** Jeden głos na numer telefonu potwierdzony kodem SMS, **liczniki ukryte do ogłoszenia na gali**. Na gali trzy werdykty obok siebie: Kapituły, Uczniowskiej Akademii i publiczności.
 
-**Przyjęte:** dobrowolny zapis na powiadomienia, **osobny od zgłoszenia**, z odrębną zgodą i odrębnym polem. Treścią mailingu są **handbook i nowe odcinki podcastu**, a nie przypomnienia o konkursie - ludzie zapisują się po materiał, a przy okazji wiedzą, że nabór trwa.
+**Podstrona plebiscytu.** Zgłoszenia prezentowane na bieżąco przez cały rok, jawna karta oceny, dwie nagrody publiczności, hymn, tekst hymnu. Osobny, bardziej widowiskowy kierunek wizualny - przy zachowaniu rangi równorzędnej, nie podrzędnej.
 
-Zgoda marketingowa musi być opisana w polityce prywatności, którą ByteLaw pisze od zera. **Zgłosić im to, zanim zaczną.**
+**Antologia i archiwum - 2028.** Docelowo kilkaset stron pojedynczych rozmów; układ, typografia i nawigacja muszą to unieść.
 
-### 3. Jak dotrzeć do emerytów jako Akademii
+## 6. Ograniczenia, które nie podlegają negocjacji
 
-Pomysł padł w rozmowie i nigdzie nie był zapisany: emerytowani nauczyciele, doktoranci i profesorowie jako naturalna pula czytelników - mają czas, warsztat i powód, żeby chcieć.
+- **Bez komunikatu o ciasteczkach, bez Google Analytics, bez fontów z CDN.** Strona deklaruje zastrzeżenie eksploracji tekstów i danych; ładowanie skryptów z cudzych serwerów stoi z tym w sprzeczności.
+- **Dane uczestników nie opuszczają EOG.**
+- **Treści muszę móc zmieniać sam**, bez zlecenia przy każdej poprawce regulaminu.
+- **YouTube wyłącznie jako klikalne okładki, nie osadzone odtwarzacze.** *Do rozstrzygnięcia na warsztatach:* podstrona plebiscytu będzie prezentować kilkadziesiąt zgłoszeń muzycznych, a okładka z przejściem na YouTube jest spójna z zasadą, ale słabsza w odbiorze. To realna decyzja projektowa.
+- **Nowa rzecz do wyjaśnienia na stronie:** półka z gwiazdkami używa pamięci przeglądarki, co nie jest ciasteczkiem śledzącym, ale wymaga jednego zdania wyjaśnienia - i jest przy okazji atutem komunikacyjnym.
 
-Kanały, w kolejności siły:
+**Otwarty spór:** Piotr zgłosił sprzeciw wobec rezygnacji z analityki, bo bez niej nie da się mierzyć kampanii. Do listy dla kancelarii dopisano pytanie o narzędzia bez ciasteczek, w tym o rozwiązanie Cloudflare.
 
-- **Uniwersytety Trzeciego Wieku** - w Polsce jest ich kilkaset, mają koordynatorów i spotykają się regularnie. Jeden mail do zarządu trafia do kilkudziesięciu osób naraz i z rekomendacją. Zacząć od 3-4 największych, nie od wysyłki masowej.
-- **Biblioteki publiczne** prowadzące zajęcia dla seniorów - szukają treści.
-- **Kluby Rozwoju Cyfrowego** - i tak wymieniane w nocie dla Ministerstwa Cyfryzacji.
-- **Sekcje emerytów przy Związku Nauczycielstwa Polskiego.**
-- **Uczelnie** - emerytowani profesorowie bywają zrzeszeni przy wydziałach.
+## 7. Zakres zlecenia i granica
 
-### 4. Reequest jako partner, nie jako rabat
+**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo, audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do ściany, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
 
-Piotr rzucił na koniec rozmowy, że jeśli to wypali, będą wkładem w rozpromowanie.
+**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do oceny formalnej, panel pracy Akademii i Kapituły, mechanizmy ściany, półki i głosowania, publikowanie archiwum.
 
-**Czego nie robić:** prosić o niższe honorarium „w zamian za partnerstwo". Przy koledze ze studiów zamienia się to w układ, w którym nikt nie wie, co komu się należy, a pierwszy spór kończy i współpracę, i znajomość.
+**Kolejność przyjęta przez agencję:** branding przed stroną. Zdanie Piotra: „wynikiem naszej pracy będzie strona internetowa, ale wpierw musimy przejść przez branding". Ela przygotuje plan warsztatów i wyśle mailem przed pierwszym spotkaniem. Warsztaty najlepiej na żywo, w Warszawie.
 
-**Czysta wersja:** pełna wycena zostaje, a osobno pada pytanie, czy chcą figurować jako **partner kreatywny Nagrody**, z logo na stronie i w materiałach, i czy w zamian zejdą o **konkretny, zapisany procent**. Raz, na piśmie.
+**Wycena:** Ela zadeklarowała wysyłkę najpóźniej 4 listopada.
 
-### 5. Program gali: 3 piosenki, nie 11
+**Uwaga o kotwicy, do pamiętania przy kolejnych dostawcach.** Brief celowo nie podawał budżetu, ale w rozmowie padło, że „to nie będzie 5000 na pewno" i że przy sponsorze antologii rzędu dwustu tysięcy kwota kilkunastu tysięcy to procent tej sumy. To jest kotwica ustawiona od dołu i wycena najprawdopodobniej nie zejdzie poniżej piętnastu tysięcy. Zasada na przyszłość: najpierw cudza wycena, potem własna liczba.
 
-Plebiscyt da wiele wykonań, ale gala jest o nagrodzie za rozmowy. 11 utworów plus hymn to ponad 40 minut muzyki i wieczór zamienia się w koncert z wręczeniem nagród w przerwie.
+## 8. Budżety - trzy wnioski do trzech sponsorów
 
-**Przyjęte:** na gali **3 najlepsze wykonania plus hymn na zakończenie**; pozostałe zgłoszenia żyją na stronie przez cały rok. Dla wykonawców to też lepsze: występ w trójce finałowej jest wyróżnieniem, występ jako jeden z jedenastu to punkt programu.
+| Blok | Przedmiot | Kwota netto |
+|---|---|---:|
+| A | Nagroda i gala: pula nagród, honoraria Kapituły i Akademii, gala, promocja naboru, prowadzenie konkursu | **ok. 603,7 tys. zł** |
+| B | Antologia i archiwum: redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 271,7 tys. zł** |
+| C | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 256,6 tys. zł** |
 
-Pozostałe elementy wieczoru: dialog czytany (finalista czyta własne pytania, aktor odpowiedzi AI), wręczenia, wystąpienia sponsorów. Piotr słusznie zauważył, że 2 godziny trzeba czymś wypełnić i że sponsorzy będą musieli powiedzieć, po co to robią.
+Razem ok. 1 132 tys. zł netto przy 937 godzinach pracy organizatora. **Honoraria jury plebiscytu i realizacja części artystycznej gali stoją na zerze** i czekają na wycenę od Michała Sołtana, więc blok C jeszcze urośnie.
+
+**Praca agencji jest w bloku B** - finansuje ją partner wydawniczy, nie fundator puli. Żaden sponsor nie jest jeszcze pozyskany; zlecenie rusza po podpisaniu pierwszej umowy sponsorskiej.
+
+**Plebiscytu nie ogłaszamy publicznie, dopóki nie ma pieniędzy na nagrody** - komunikacja musi tego pilnować. Do tego czasu strona zapowiada go i zbiera zainteresowanie wykonawców, bez obietnicy kwot.
+
+## 9. Zarzuty Piotra i co z nimi zrobiliśmy
+
+**„Odbiór jako freak".** Pierwsze skojarzenie z nazwą: gwiazdy, energia wszechświata, ezoteryka. Największym wyzwaniem jest pokazanie, że to nie jest czyjeś hobby. **Nierozwiązane - to jest zadanie na warsztaty i główny powód, dla którego branding idzie przed stroną.**
+
+**Rozwodnienie rocznego okna.** „Kiedyś czyli nigdy". **Rozwiązane trzema rzeczami:** hymn z teledyskiem otwierający nabór, rosnąca ściana zgłoszeń z półką, napływające zgłoszenia plebiscytu. Dochodzą odcinki podcastu.
+
+**Jedno zgłoszenie na osobę obcina zainteresowanych.** **Podtrzymane mimo zarzutu** - wybór własnej najlepszej rozmowy jest sam w sobie aktem oceny, a Nagroda premiuje właśnie takie rzeczy.
+
+**Wtyczka do przeglądarki jako bariera zaufania.** Wtyczka jest opcjonalna, liczy lokalnie, zapisuje rozmowę do pliku, a pobrany plik nie jest podstawą oceny. Zarzut pozostaje w mocy: przeciętny użytkownik zakłada, że wtyczka go podsłuchuje. **Zadanie dla agencji:** jak zakomunikować narzędzie opcjonalne, działające bez wysyłania czegokolwiek, żeby nie czytało się jak prośba o dostęp do cudzych rozmów.
+
+**Termin 1 stycznia nazwany szalonym.** Patrz punkt 4 - rozbieżność wciąż otwarta.
+
+## 10. Rzeczy wymagające uwagi w projekcie formularza
+
+**Domyślna widoczność linku udostępniania.** U Claude link generuje się domyślnie jako „Only people invited". Uczestnik, który tego nie przestawi, zgłosi link niemożliwy do otwarcia przez Organizatora i odpadnie formalnie bez swojej winy i bez swojej wiedzy. **Potrzebne:** instrukcja przy formularzu, zrzut ekranu pokazujący to ustawienie u każdego dostawcy oraz **sprawdzanie dostępności linku w chwili zgłoszenia**, z natychmiastowym komunikatem zamiast odrzucenia po terminie.
+
+**Lista powiadomień.** Dobrowolny zapis, **osobny od zgłoszenia**, z odrębną zgodą i odrębnym polem. Treścią mailingu są handbook i nowe odcinki podcastu, nie przypomnienia o konkursie - ludzie zapisują się po materiał, a przy okazji wiedzą, że nabór trwa.
+
+**Komunikat o odrzuceniu.** Na żądanie, po gali, uczestnik może zapytać o powód niezakwalifikowania i otrzymuje własne oceny, bez wskazania oceniających. **Nierozwiązana kolizja:** polityka prywatności każe usuwać dane nienagrodzonych w ciągu 60 dni od ogłoszenia wyników, więc pytanie zadane w 70. dniu trafia w próżnię.
+
+## 11. Jak docieramy do odbiorców
+
+**Akademia czytająca - emeryci i akademicy.** Emerytowani nauczyciele, doktoranci i profesorowie mają czas, warsztat i powód. Kanały w kolejności siły: Uniwersytety Trzeciego Wieku (kilkaset w Polsce, zacząć od 3-4 największych), biblioteki publiczne prowadzące zajęcia dla seniorów, Kluby Rozwoju Cyfrowego, sekcje emerytów przy ZNP, uczelnie.
+
+**Szkoły.** Uczniowska Akademia zgłaszana przez szkoły czyta zgłoszenia według tej samej karty oceny i przyznaje odrębną **Nagrodę Uczniowską**, niezależnie od werdyktu Kapituły. Wzorem jest Prix Goncourt des lycéens. Udział uczniów jest nieodpłatny.
+
+**Wykonawcy plebiscytu.** Strona ich nie dosięga. Żyją w grupach muzyków na Facebooku, w szkołach muzycznych i na wydziałach wokalnych, na scenie coverowej YouTube i TikToka, w radiach lokalnych i studenckich, na open mikach i w rosterach małych wydawnictw. To praca ręczna albo płatna promocja w mediach muzycznych - raz czyjś czas, raz gotówka.
+
+## 12. Reequest jako partner
+
+Piotr zasygnalizował, że jeśli to wypali, będą wkładem w rozpromowanie.
+
+**Przyjęta zasada: pełna wycena zostaje**, a osobno pada pytanie, czy chcą figurować jako **partner kreatywny Nagrody**, z logo na stronie i w materiałach, i czy w zamian zejdą o konkretny, zapisany procent. Raz, na piśmie. **Czego nie robimy:** nie prosimy o niższe honorarium „w zamian za partnerstwo" - przy koledze ze studiów zamienia się to w układ, w którym nikt nie wie, co komu się należy, a pierwszy spór kończy i współpracę, i znajomość.
+
+## 13. Ustalone i otwarte
+
+**Ustalone:** rama współistnienia; plebiscyt jako drugi równorzędny konkurs; jawne karty oceny obu konkursów; ściana jako warunek udziału; półka wyłącznie lokalna; głosowanie publiczności dopiero w 2028 z ukrytymi licznikami; demo na wejściu do plebiscytu; jedno zgłoszenie na osobę w obu konkursach; hymn jako materiał otwierający nabór; prawa zostają przy autorach; branding przed stroną.
+
+**Otwarte:** termin otwarcia naboru; YouTube jako okładki czy odtwarzacze; analityka; nazwa i gratyfikacja Nagrody Publiczności; kolizja terminu 60 dni z pytaniami o oceny po gali; kto wykonuje kontrolę formalną zgłoszeń plebiscytu przy dużych liczbach; skład jury plebiscytu poza przewodniczącym; honoraria jury plebiscytu i realizacja części artystycznej gali.
