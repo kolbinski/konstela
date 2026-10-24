@@ -701,7 +701,11 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 
 Pokazujemy: **imię i nazwisko albo pseudonim** zgodnie z § 5 ust. 2 lit. g, **link** opublikowany przez uczestnika oraz **opis odkrycia** z § 5 ust. 2 lit. b. Kolejność po dacie zgłoszenia, bez żadnego sortowania. Przeczytane oznaczane w localStorage.
 
-**Czego na ścianie nie ma w 2027:** pola „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1). Regulamin celowo udostępnia je oceniającym dopiero po wystawieniu ocen, żeby umiejętność zareklamowania rozmowy nie kierowała lekturą; opublikowane wcześniej omijałoby to zabezpieczenie bokiem. Pole pojawia się **po dniu zamrożenia punktacji rundy pierwszej** (§ 8 ust. 11 lit. e), razem z otwarciem głosowania.
+**Na ścianie jest wszystko od początku - zmiana z 24.10.2026 wieczorem.** Pierwotnie pole „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1) miało pojawiać się dopiero po zamrożeniu punktacji, żeby nie omijać § 8 ust. 13. **Ten pomysł upadł na prostym argumencie Krzyśka:** skoro ściana jest publiczna, oceniający i tak może tam zajrzeć i znaleźć zarówno tytuł, jak i uzasadnienie - ukrywanie ich w panelu byłoby teatrem, a nie zabezpieczeniem. Zabezpieczenie oparte na tajemnicy przestało istnieć w chwili, gdy powstała ściana.
+
+**Co zostaje realne:** kolejność czytania w panelu (najpierw rozmowa, potem uzasadnienie) oraz twarda zasada, że **ani tytuł, ani pole b1 nie podlegają punktacji w żadnym kryterium**. § 8 ust. 13 wymaga przepisania z zakazu dostępu na regułę kolejności.
+
+**Nowe pole: tytuł rozmowy**, nadawany przez uczestnika, obowiązkowy. Bez niego pozycje na ścianie nie mają nazwy, a archiwum nie ma po czym sortować alfabetycznie. Nie podlega punktacji.
 
 ### Półka z gwiazdkami
 
@@ -710,6 +714,18 @@ Czytelnik oznacza gwiazdką rozmowy, do których chce wrócić. Po roku czytania
 **Warunek, który czyni to bezpiecznym: gwiazdki zostają na urządzeniu i nigdy nie trafiają do nas.** Zliczane byłyby żywym licznikiem popularności w trakcie 2027, czyli dokładnie tym, co wykluczamy. Przy okazji jest to spójne ze stroną bez ciasteczek i bez zewnętrznej analityki.
 
 **Do powiedzenia wprost na stronie:** gwiazdka nie jest głosem, głosuje się raz i numerem telefonu; oraz półka żyje w przeglądarce, więc wyczyszczenie danych albo przesiadka na inne urządzenie ją kasuje. Stąd **eksport i import półki** - plik albo lista do skopiowania, bez kont i bez rejestracji.
+
+### Archiwum: ta sama ściana, sortowalna, z jawną punktacją
+
+Rozstrzygnięte 24.10.2026. **Archiwum zawiera dokładnie te same rozmowy co ściana**, utrwalone w dniu zamknięcia naboru. Różnica jest jedna: archiwum da się przeglądać - sortować po dacie, tytule, autorze i **po ocenach wystawionych przez Akademię, Kapitułę i publiczność**.
+
+**Punktacja jest jawna dla wszystkich zgłoszeń, nie tylko dla dziesiątki**, i jest to **warunek udziału**, a nie wybór uczestnika. Uczestnik decyduje wyłącznie o podpisie: nazwisko albo pseudonim; ocena jest widoczna tak czy inaczej.
+
+**Argument Krzyśka, przyjęty:** całe przedsięwzięcie stoi na tym, że te rozmowy da się ocenić według jawnych kryteriów, więc ukrywanie wyników byłoby przyznaniem, że ocenianie jest czymś wstydliwym. Dopiero sortowalne archiwum daje produkt edukacyjny, którego nie zastąpi nic innego - nauczyciel może postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium.
+
+*Wcześniejszy zapis mówił, że archiwum jest „bez punktacji i bez komentarzy, żeby nie powstawał z niego drugi ranking". Ten zapis zostaje zastąpiony: drugi ranking jest przyjęty świadomie. Zgłoszony sprzeciw - że trwale widoczna niska ocena pod nazwiskiem jest karą za sam udział - został rozpatrzony i zawężony do jednego warunku, który obowiązuje: **jawność punktacji musi być ogłoszona przed naborem**, bo zgoda na publikację rozmowy to inna decyzja niż zgoda na trwale widoczną ocenę. Furtką pozostaje pseudonim.*
+
+**Do zrobienia w regulaminie i w polityce prywatności:** zapis o jawnej punktacji jako warunku udziału, zapis o tytule jako polu obowiązkowym nieocenianym, przepisanie § 8 ust. 13 na regułę kolejności oraz usunięcie zapisu o archiwum publikowanym porcjami i wybieranym przez czytelników.
 
 ### Nagroda Publiczności - głosowanie w 2028
 

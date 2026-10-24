@@ -456,11 +456,29 @@
       }
 
       /* --- Kryteria --- */
-      .criteria {
+      .criteria,
+      .awards {
         display: grid;
         gap: 1px;
         background: var(--rule);
         border: 1px solid var(--rule);
+      }
+      .awards {
+        margin-top: 1.6rem;
+      }
+      .awards article {
+        background: var(--surface);
+        padding: 1.5rem 1.4rem;
+      }
+      .awards h3 {
+        font-family: var(--display);
+        font-size: 1.35rem;
+        margin-bottom: 0.5rem;
+      }
+      @media (min-width: 620px) {
+        .awards {
+          grid-template-columns: 1fr 1fr;
+        }
       }
       @media (min-width: 620px) {
         .criteria {
@@ -609,7 +627,7 @@
       .song .song-note {
         display: block;
         padding: 0.75rem 1rem;
-        border-top: 1px solid var(--rule);
+        border-bottom: 1px solid var(--rule);
         font-family: var(--body);
         font-size: 0.85rem;
         line-height: 1.5;
@@ -632,9 +650,25 @@
       footer {
         padding-block: 2.5rem 3.5rem;
         border-top: 1px solid var(--rule);
-        text-align: center;
         color: var(--muted);
         font-size: 0.9rem;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1.5rem;
+        align-items: flex-start;
+        justify-content: space-between;
+      }
+      footer nav {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.45rem;
+      }
+      @media (min-width: 560px) {
+        footer nav {
+          align-items: flex-end;
+          text-align: right;
+        }
       }
       footer p + p {
         margin-top: 0.5rem;
@@ -721,7 +755,7 @@
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><span>Dlaczego</span></h2>
         <div class="prose">
           <p>
-            Nagrody w tej dziedzinie dostawały dotąd maszyny. Loebner Prize
+            Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize
             przez 30 lat sprawdzał, czy program potrafi udawać
             człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez
             20 minut. Człowiek siedzący po drugiej stronie nie był
@@ -743,7 +777,7 @@
             cudzą książkę z własną decyzją.
           </p>
           <blockquote>
-            Szukamy rozmowy, w której człowiek doszedł do czegoś, czego nie
+            Szukamy rozmowy z AI, w której człowiek doszedł do czegoś, czego nie
             wiedział na wejściu, i co da się nazwać.
           </blockquote>
           <p>
@@ -804,7 +838,6 @@
 
       <section>
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1"/><rect x="13.5" y="3.5" width="7" height="7" rx="1"/><rect x="3.5" y="13.5" width="7" height="7" rx="1"/><rect x="13.5" y="13.5" width="7" height="7" rx="1"/></svg><span>Cztery kryteria</span></h2>
-        <p class="sub">Tyle samo wagi ma każde z nich.</p>
         <div class="criteria">
           <article class="criterion">
             <span class="num">I</span>
@@ -844,8 +877,8 @@
           </article>
         </div>
         <p class="sub" style="margin-top: 1.5rem">
-          Co dokładnie znaczy każda liczba punktów w każdym kryterium, wiadomo
-          od pierwszego dnia: <a href="/karta-oceny">karta oceny</a>.
+          <a href="/karta-oceny">Karta oceny</a> pokazuje, co znaczy każda
+          liczba punktów w każdym kryterium.
         </p>
       </section>
 
@@ -880,9 +913,6 @@
 
       <section>
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z"/><path d="M15 3v4h4"/><path d="M9 12h7M9 16h5"/></svg><span>Zasady</span></h2>
-        <p class="sub">
-          Krótko, bo regulamin ma być do przeczytania, nie do obejścia.
-        </p>
         <ul class="rules">
           <li>
             <svg
@@ -1031,9 +1061,12 @@
               <path d="M13.5 7 17 10.5" />
             </svg>
             <span
-              ><strong>Kilka zdań o tym, co odkryłeś.</strong> Do zgłoszenia
-              dołączasz opis odkrycia: do czego w tej rozmowie doszedłeś i w
-              którym jej miejscu to się stało. Bez niego zgłoszenie odpada na
+              ><strong>Tytuł i kilka zdań o tym, co odkryłeś.</strong> Rozmowę
+              tytułujesz sam, a do zgłoszenia dołączasz opis odkrycia: do czego
+              w niej doszedłeś i w którym jej miejscu to się stało. Ani tytuł,
+              ani uzasadnienie, dlaczego warto ją przeczytać, nie podlegają
+              punktacji - oceniana jest rozmowa, a nie umiejętność jej
+              zareklamowania. Bez niego zgłoszenie odpada na
               samym początku, bo nikt poza tobą nie wie, czego w rozmowie
               szukać.</span
             >
@@ -1059,10 +1092,13 @@
               <path d="M5 13v6.5h14V13" />
             </svg>
             <span
-              ><strong>Zgłoszenie oznacza zgodę na publikację.</strong>
-              Udzielasz nam licencji na publikację rozmowy w antologii albo w
-              archiwum, na 5 lat. Decydujesz o jednym: czy podpisujemy ją twoim
-              nazwiskiem, czy pseudonimem. Zgłoszenie możesz wycofać najpóźniej
+              ><strong>Zgłoszenie oznacza zgodę na publikację wraz z
+              oceną.</strong> Udzielasz nam licencji na publikację rozmowy w
+              antologii albo w archiwum, na 5 lat. Razem z rozmową publikujemy
+              <strong>ocenę, jaką otrzymała</strong> - także wtedy, gdy jest
+              niska, bo archiwum ma uczyć, a nie chwalić. Decydujesz o jednym:
+              czy podpisujemy ją twoim nazwiskiem, czy pseudonimem; ocena jest
+              widoczna tak czy inaczej. Zgłoszenie możesz wycofać najpóźniej
               na 30 dni przed ogłoszeniem wyników - później nie, bo wtedy treść
               antologii idzie do publikacji.</span
             >
@@ -1132,9 +1168,9 @@
             <dt>Pula nagród</dt>
             <dd>
               w ustaleniu<small
-                >wysokość klaruje się w rozmowach z partnerami edycji;
-                ogłosimy ją w dniu otwarcia zgłoszeń i od tej chwili będzie
-                wiążąca</small
+                >wysokość będzie znana po ustaleniu współpracy z partnerami
+                edycji; ogłosimy ją w dniu otwarcia zgłoszeń i od tej chwili
+                będzie wiążąca</small
               >
             </dd>
           </div>
@@ -1153,19 +1189,26 @@
             Wyniki wszystkich trzech ogłaszamy tego samego wieczoru i zdarza
             się, że wskazują trzy różne rozmowy.
           </p>
-          <p>
-            <strong>Nagroda Uczniowska.</strong> Przyznają ją uczniowskie grupy
-            czytające, zgłaszane przez szkoły, według tej samej karty oceny co
-            Kapituła i niezależnie od jej werdyktu. Wzorem jest francuska Prix
-            Goncourt des lyc&eacute;ens, przyznawana od 1988 roku przez około
-            2000 licealistów obok macierzystej nagrody literackiej.
-          </p>
-          <p>
-            <strong>Nagroda Publiczności.</strong> Wybierana w otwartym
-            głosowaniu, jeden głos na osobę, dopiero po zamknięciu naboru -
-            żeby wszystkie rozmowy miały tyle samo czasu na ekranie. Szczegóły
-            w sekcji o ścianie zgłoszeń.
-          </p>
+        </div>
+        <div class="awards">
+          <article>
+            <h3>Nagroda Uczniowska</h3>
+            <p>
+              Przyznają ją uczniowskie grupy czytające, zgłaszane przez szkoły,
+              według tej samej karty oceny co Kapituła i niezależnie od jej
+              werdyktu. Wzorem jest francuska Prix Goncourt des
+              lyc&eacute;ens, przyznawana od 1988 roku przez około 2000
+              licealistów obok macierzystej nagrody literackiej.
+            </p>
+          </article>
+          <article>
+            <h3>Nagroda Publiczności</h3>
+            <p>
+              Wybierana w otwartym głosowaniu, jeden głos na osobę, dopiero po
+              zamknięciu naboru - żeby wszystkie rozmowy miały tyle samo czasu
+              na ekranie. Szczegóły w sekcji o ścianie rozmów.
+            </p>
+          </article>
         </div>
       </section>
 
@@ -1199,16 +1242,15 @@
       </svg>
 
       <section>
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 5.5h17M3.5 10.5h17M3.5 15.5h11M3.5 20h7"/><path d="m18.6 15.1 1.1 2.3 2.5.3-1.8 1.8.5 2.5-2.3-1.2-2.3 1.2.5-2.5-1.8-1.8 2.5-.3z"/></svg><span>Ściana zgłoszeń</span></h2>
-        <p class="sub">Czyta się ją przez cały rok, nie dopiero po wynikach.</p>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 5.5h17M3.5 10.5h17M3.5 15.5h11M3.5 20h7"/><path d="m18.6 15.1 1.1 2.3 2.5.3-1.8 1.8.5 2.5-2.3-1.2-2.3 1.2.5-2.5-1.8-1.8 2.5-.3z"/></svg><span>Ściana rozmów z AI</span></h2>
         <div class="prose">
           <p>
             Po przejściu oceny formalnej każde zgłoszenie trafia na
             <strong>ścianę</strong>: listę, która rośnie przez cały rok naboru i
-            którą może czytać każdy. Widać na niej podpis - nazwisko albo
-            pseudonim, decyduje uczestnik - link do rozmowy oraz opis odkrycia.
-            Kolejność jest wyłącznie według daty zgłoszenia. Bez sortowania, bez
-            rankingu, bez wyróżniania czegokolwiek.
+            którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora,
+            link, opis odkrycia oraz jego uzasadnienie, dlaczego warto tę
+            rozmowę przeczytać. Kolejność jest wyłącznie według daty zgłoszenia.
+            Bez rankingu, bez wyróżniania czegokolwiek.
           </p>
           <p>
             Czytelnik może oznaczyć rozmowę <strong>gwiazdką</strong> i wrócić
@@ -1261,8 +1303,7 @@
       </svg>
 
       <section>
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6.5c-1.8-1.6-4.2-2.2-7.5-2v13c3.3-.2 5.7.4 7.5 2 1.8-1.6 4.2-2.2 7.5-2v-13c-3.3-.2-5.7.4-7.5 2z"/><path d="M12 6.5v13"/></svg><span>Antologia i archiwum</span></h2>
-        <p class="sub">To zostaje najdłużej.</p>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 6.5c-1.8-1.6-4.2-2.2-7.5-2v13c3.3-.2 5.7.4 7.5 2 1.8-1.6 4.2-2.2 7.5-2v-13c-3.3-.2-5.7.4-7.5 2z"/><path d="M12 6.5v13"/></svg><span>Antologia i archiwum rozmów z AI</span></h2>
         <div class="prose">
           <p>
             <strong>Antologia</strong> to 10 najwyżej ocenionych rozmów
@@ -1273,13 +1314,16 @@
             przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
           </p>
           <p>
-            <strong>Archiwum</strong> to szerszy zbiór rozmów wybranych przez
-            czytelników do dalszej oceny, udostępniany
-            <strong>bez punktacji i bez komentarzy</strong>, żeby nie powstawał
-            z niego drugi ranking. Publikujemy je porcjami przez cały rok po
-            edycji. Antologia jest wyborem jury i pokazuje, jak rozmawiać
-            najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie
-            rozmawiają naprawdę.
+            <strong>Archiwum</strong> to ta sama ściana, utrwalona w dniu
+            zamknięcia naboru i zostawiona do czytania na stałe - te same
+            rozmowy, w tej samej liczbie. Różnica jest w tym, że archiwum można
+            przeglądać: sortować po dacie, po tytule, po autorze i po ocenach -
+            tych wystawionych przez Akademię, Kapitułę i publiczność. Właśnie to
+            czyni je materiałem do nauki, a nie tylko zbiorem: można postawić
+            obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium i
+            zobaczyć, czym się różnią. Antologia
+            jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum
+            pokazuje, jak ludzie rozmawiali naprawdę.
           </p>
           <p>
             Razem składają się na dokument epoki: zapis tego, jak wyglądały
@@ -1323,7 +1367,6 @@
 
       <section>
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Plebiscyt na piosenkę</span></h2>
-        <p class="sub">Drugi konkurs Nagrody, nie jej oprawa.</p>
         <div class="prose">
           <p>
             Rynek muzyczny zmienia się pod wpływem sztucznej inteligencji
@@ -1413,6 +1456,9 @@
           target="_blank"
           rel="noopener"
         >
+          <span class="song-note">
+            Posłuchaj &bdquo;Zapytaj inaczej&rdquo; &middot; YouTube
+          </span>
           <img
             src="assets/piosenka.jpg"
             srcset="assets/piosenka-800.jpg 800w, assets/piosenka.jpg 1600w"
@@ -1422,23 +1468,23 @@
             loading="lazy"
             alt="Dłoń wskazująca nocne niebo, w którym gwiazdy układają się w konstelację; napis Konstela, Zapytaj inaczej"
           />
-          <span class="song-note">
-            Posłuchaj &bdquo;Zapytaj inaczej&rdquo; &middot; YouTube
-          </span>
         </a>
       </section>
 
       <footer>
+        <div class="foot-left">
+          <p class="legal">Konstela &copy; 2026</p>
+          <p class="legal">
+            Napisz do nas:
+            <a href="mailto:contact@konstela.org">contact@konstela.org</a>
+          </p>
+        </div>
         <nav aria-label="Dokumenty">
           <a href="/regulamin">Regulamin</a>
-          ·
           <a href="/karta-oceny">Karta oceny</a>
-          ·
-          <a href="/polityka-prywatnosci"
-            >Polityka prywatności</a
-          >
+          <a href="/plebiscyt-piosenki">Plebiscyt na piosenkę</a>
+          <a href="/polityka-prywatnosci">Polityka prywatności</a>
         </nav>
-        <p class="legal">konstela.org &copy; 2026</p>
       </footer>
     </div>
 

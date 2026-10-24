@@ -220,6 +220,18 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 
 23. **Analityka bezcookiesowa.** Strona nie ma dziś żadnej analityki ani komunikatu o ciasteczkach i chcę to utrzymać, ale potrzebuję podstawowych danych o ruchu, żeby móc ocenić skuteczność kampanii przed naborem. Rozważane narzędzia nie zapisują niczego na urządzeniu odwiedzającego: **Plausible** (serwery w UE, usługa płatna), **Umami** (otwarty kod, hostowany samodzielnie), **GoatCounter** oraz **Cloudflare Web Analytics**. Pytania: czy przy takich narzędziach odpada obowiązek uzyskania zgody na przechowywanie informacji w urządzeniu końcowym; jaka podstawa prawna właściwa jest dla przetwarzania adresu IP i danych o wizycie i jak opisać to w polityce prywatności; czy przy **Cloudflare Web Analytics**, wobec amerykańskiej przynależności dostawcy, da się utrzymać deklarację, że dane nie opuszczają Europejskiego Obszaru Gospodarczego, a jeżeli nie, to na jakiej podstawie mogłyby być przekazywane - pytanie wiąże się z pkt 13 powyżej, dotyczącym hostingu u GitHub, Inc.
 
+## Cv. Ściana zgłoszeń, archiwum i jawna punktacja (dodane 24.10.2026)
+
+Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach i wymagająca sprawdzenia przed naborem.
+
+24. **Ściana zgłoszeń jako warunek udziału.** Każde zgłoszenie, które przeszło ocenę formalną, trafia na publiczną listę zawierającą tytuł rozmowy, podpis uczestnika (nazwisko albo pseudonim, jego wybór), link opublikowany przez uczestnika, opis odkrycia i jego uzasadnienie. Czy obowiązkowy charakter takiej publikacji w trakcie trwania konkursu jest dopuszczalny i jak go opisać w regulaminie oraz w polityce prywatności, skoro dotychczasowa zgoda na publikację dotyczyła antologii i archiwum po rozstrzygnięciu.
+
+25. **Jawna punktacja wszystkich zgłoszeń jako warunek udziału.** Archiwum ma pozostać dostępne na stałe i umożliwiać sortowanie po ocenach wystawionych przez Akademię, Kapitułę i publiczność - również przy zgłoszeniach ocenionych nisko i również pod nazwiskiem, jeżeli uczestnik nie wybrał pseudonimu. Pytania: czy zgodę na trwałą publikację własnej oceny można uczynić warunkiem udziału; jak ją sformułować, żeby była świadoma; czy uczestnik może później żądać usunięcia samej punktacji przy zachowaniu rozmowy; oraz czy ocena wystawiona konkretnej osobie i publikowana bezterminowo rodzi obowiązki szersze niż publikacja samej rozmowy.
+
+26. **Retencja wobec trwałego archiwum.** Polityka prywatności przewiduje usunięcie danych uczestników nienagrodzonych w ciągu 60 dni od ogłoszenia wyników, a archiwum ma zawierać wszystkie zgłoszenia na stałe. Te dwa zapisy są ze sobą sprzeczne i wymagają rozstrzygnięcia, które z danych są usuwane, a które pozostają jako element publikacji.
+
+27. **Prywatna półka czytelnika.** Oznaczanie rozmów gwiazdką zapisywane jest wyłącznie w przeglądarce czytelnika, bez wysyłania czegokolwiek na serwer, z możliwością eksportu i importu pliku. Czy taki mechanizm wymaga zgody, wzmianki w polityce prywatności albo jakiejkolwiek informacji poza zdaniem wyjaśniającym.
+
 ## Cz. Plebiscyt na piosenkę - lista odrębna
 
 Pytania dotyczące plebiscytu zebrane są w osobnym dokumencie: [prawnik-plebiscyt](view.html?file=prawnik-plebiscyt). Powód rozdzielenia jest praktyczny - to inny materiał prawny (utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania, głosowanie publiczności), a wycena z 22.10.2026 go nie obejmowała, więc wymaga odrębnego potwierdzenia zakresu i ceny.
