@@ -5,7 +5,7 @@
 ## § 1. Organizator
 
 1. Organizatorem Nagrody Konstela ("Nagroda") jest fundacja powołana wyłącznie w celu prowadzenia Nagrody, wpisana do Krajowego Rejestru Sądowego ("Organizator"). Fundacja zostaje powołana i wpisana do rejestru **przed otwarciem przyjmowania zgłoszeń**; jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym ustępie w wersji regulaminu ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński.
-2. Kontakt w sprawach Nagrody: contact@konstela.org.
+2. Kontakt w sprawach Nagrody: kontakt@konstela.org.
 3. Nagroda nie jest grą losową, loterią fantową ani zakładem wzajemnym w rozumieniu ustawy z dnia 19 listopada 2009 r. o grach hazardowych. Wynik zależy wyłącznie od oceny merytorycznej Kapituły, a udział w Nagrodzie jest bezpłatny.
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu zgłoszeń. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat.
 
@@ -56,8 +56,8 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 ## § 5. Forma zgłoszenia
 
-1. Zgłoszenie składa się przez **formularz zgłoszeniowy udostępniony na stronie Nagrody**. Formularz publikowany jest w dniu otwarcia naboru i dostępny przez cały okres przyjmowania zgłoszeń. Jeżeli z przyczyn technicznych formularz jest niedostępny, Organizator przyjmuje zgłoszenia pocztą elektroniczną na adres contact@konstela.org i informuje o tym na stronie Nagrody; termin zgłoszeń nie ulega wtedy skróceniu.
-1a. Adres contact@konstela.org służy do korespondencji w sprawach Nagrody, w tym do pytań Uczestników, zgłoszeń o błędzie odwzorowania kopii (§ 5 ust. 9) i wniosków, o których mowa w § 13.
+1. Zgłoszenie składa się przez **formularz zgłoszeniowy udostępniony na stronie Nagrody**. Formularz publikowany jest w dniu otwarcia naboru i dostępny przez cały okres przyjmowania zgłoszeń. Jeżeli z przyczyn technicznych formularz jest niedostępny, Organizator przyjmuje zgłoszenia pocztą elektroniczną na adres kontakt@konstela.org i informuje o tym na stronie Nagrody; termin zgłoszeń nie ulega wtedy skróceniu.
+1a. Adres kontakt@konstela.org służy do korespondencji w sprawach Nagrody, w tym do pytań Uczestników, zgłoszeń o błędzie odwzorowania kopii (§ 5 ust. 9) i wniosków, o których mowa w § 13.
 2. **Zakres formularza zgłoszeniowego.** Zgłoszenie zawiera:
 
 - a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu) - **obowiązkowe**;
@@ -90,9 +90,9 @@ Terminy usunięcia danych z lit. a-c określa § 12.
 
 - a) **Weryfikacja.** Po wypełnieniu formularza Organizator przesyła na podany numer telefonu jednorazowy kod, który Uczestnik przepisuje w formularzu. Zgłoszenie niepotwierdzone kodem nie zostaje złożone. Na jeden numer telefonu przypada jedno zgłoszenie w edycji.
 - b) **Postępowanie z numerem.** Organizator **nie przechowuje numeru telefonu w postaci jawnej**. Po wysłaniu kodu numer zostaje zastąpiony wartością skrótu obliczoną z użyciem klucza tajnego przechowywanego odrębnie od bazy zgłoszeń, służącą wyłącznie do stwierdzenia, czy z tego numeru złożono już zgłoszenie. Wartość ta pozostaje danymi osobowymi w rozumieniu RODO i podlega zasadom z polityki prywatności, w tym terminowi usunięcia; skrót zostaje usunięty wraz z zamknięciem edycji.
-- c) **Brak dostępu do telefonu.** Uczestnik, który nie może odebrać wiadomości SMS, zgłasza to na adres contact@konstela.org; Organizator ustala wówczas inny sposób potwierdzenia tożsamości zgłoszenia, nie gorszy pod względem wiarygodności. Brak telefonu nie może być powodem wykluczenia z udziału.
+- c) **Brak dostępu do telefonu.** Uczestnik, który nie może odebrać wiadomości SMS, zgłasza to na adres kontakt@konstela.org; Organizator ustala wówczas inny sposób potwierdzenia tożsamości zgłoszenia, nie gorszy pod względem wiarygodności. Brak telefonu nie może być powodem wykluczenia z udziału.
 - d) **Powtórzenia rozmowy.** Niezależnie od zasady jednego zgłoszenia Organizator odrzuca zgłoszenia wskazujące **tę samą rozmowę**, co rozmowa zgłoszona wcześniej. Tożsamość rozmowy Organizator ustala na podstawie identyfikatora zawartego w linku oraz porównania treści kopii archiwalnej; porównywana jest treść, a nie dane osoby zgłaszającej.
-- e) **Wycofanie i ponowne złożenie.** Do zamknięcia naboru Uczestnik może wycofać złożone zgłoszenie i złożyć w jego miejsce inne; nie jest to składanie drugiego zgłoszenia. Wycofanie następuje przez wiadomość na adres contact@konstela.org wysłaną z adresu podanego w zgłoszeniu.
+- e) **Wycofanie i ponowne złożenie.** Do zamknięcia naboru Uczestnik może wycofać złożone zgłoszenie i złożyć w jego miejsce inne; nie jest to składanie drugiego zgłoszenia. Wycofanie następuje przez wiadomość na adres kontakt@konstela.org wysłaną z adresu podanego w zgłoszeniu.
 
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować, a link pokazuje rozmowę w jej rzeczywistym przebiegu, razem z pytaniami nieudanymi.
 3a. **Link zamraża rozmowę - kiedy go wygenerować.** Udostępniony link pokazuje rozmowę w stanie z chwili jego wygenerowania. **Wymiany dopisane później nie pojawią się pod tym samym adresem**, nawet jeżeli Uczestnik widzi je u siebie w oknie czatu. Link należy zatem wygenerować **po zakończeniu rozmowy**, którą Uczestnik chce zgłosić. Jeżeli link powstał wcześniej, ocenie podlega wyłącznie ta część rozmowy, którą link pokazuje - a ponieważ wnioski zwykle przychodzą w dalszej części, jest to dla Uczestnika niekorzystne. Wygenerowanie nowego linku **przed zgłoszeniem** jest dopuszczalne i zalecane; po zgłoszeniu obowiązuje tryb z ust. 9 i 10, a samowolna podmiana treści pod linkiem podlega ust. 7.
@@ -103,7 +103,7 @@ Terminy usunięcia danych z lit. a-c określa § 12.
 - b) wynik ma charakter **informacyjny i niewiążący**; rozstrzygająca jest ocena formalna przeprowadzana po wpłynięciu zgłoszenia;
 - c) narzędzie **nie przechowuje sprawdzanych rozmów** ani ich fragmentów;
 - d) korzystanie z narzędzia jest **dobrowolne** i nie jest warunkiem zgłoszenia; jego niedostępność, w tym brak obsługi danego dostawcy modelu, nie wpływa na prawo do udziału ani na ocenę;
-- e) narzędzie działa **jednakowo dla Uczestników i dla Organizatora**: nie ma w nim trybu uprzywilejowanego, kont ani logowania, a Uczestnik widzi dokładnie to samo odczytanie rozmowy, na którym pracuje Organizator. Jeżeli Uczestnik dostrzeże, że narzędzie odczytuje jego rozmowę błędnie, może zgłosić to przed zgłoszeniem na adres contact@konstela.org; nie pozbawia go to uprawnień z ust. 9;
+- e) narzędzie działa **jednakowo dla Uczestników i dla Organizatora**: nie ma w nim trybu uprzywilejowanego, kont ani logowania, a Uczestnik widzi dokładnie to samo odczytanie rozmowy, na którym pracuje Organizator. Jeżeli Uczestnik dostrzeże, że narzędzie odczytuje jego rozmowę błędnie, może zgłosić to przed zgłoszeniem na adres kontakt@konstela.org; nie pozbawia go to uprawnień z ust. 9;
 - f) narzędzie pozwala Uczestnikowi **pobrać odczytany zapis własnej rozmowy**. Plik ten jest egzemplarzem Uczestnika i **nie stanowi podstawy oceny**; nie zastępuje linku ani kopii archiwalnej i nie jest przyjmowany jako załącznik do zgłoszenia, ponieważ - jak każdy plik - może zostać zmieniony po pobraniu (ust. 3). Kopię archiwalną sporządza wyłącznie Organizator (ust. 5). Plik pobrany przez Uczestnika może natomiast zostać wzięty pod uwagę jako materiał pomocniczy w sytuacji z ust. 6, to jest gdy rozmowa przestanie być dostępna nie z jego winy.
 
 4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. **Dezaktywacja linku przez Uczestnika** przed tym terminem oznacza wycofanie zgłoszenia.

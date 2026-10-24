@@ -6,7 +6,7 @@
 
 Administratorem danych osobowych jest **fundacja powołana wyłącznie w celu prowadzenia Nagrody Konstela**, wpisana do Krajowego Rejestru Sądowego przed otwarciem przyjmowania zgłoszeń. Jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym miejscu w wersji ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński.
 
-Kontakt we wszystkich sprawach dotyczących danych osobowych: contact@konstela.org.
+Kontakt we wszystkich sprawach dotyczących danych osobowych: kontakt@konstela.org.
 
 Administrator nie powołał inspektora ochrony danych; obowiązki w tym zakresie wykonuje osobiście.
 
@@ -66,7 +66,7 @@ Przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczeni
 
 Przysługuje również prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warszawa.
 
-Wszystkie powyższe sprawy załatwiane są pod adresem contact@konstela.org.
+Wszystkie powyższe sprawy załatwiane są pod adresem kontakt@konstela.org.
 
 ## 9. Wycofanie zgody na archiwum rozmów
 

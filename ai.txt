@@ -3,7 +3,7 @@
 # Reservation of rights for text and data mining
 
 Uprawniony / Rights holder: Krzysztof Olbiński, konstela.org
-Kontakt / Contact: contact@konstela.org
+Kontakt / Contact: kontakt@konstela.org
 Data / Date: 2026-10-19
 
 ## Zastrzeżenie
@@ -31,7 +31,7 @@ prawa cytatu.
 ## Badania naukowe
 
 Dostęp do materiałów na potrzeby badań naukowych jest możliwy na podstawie
-odrębnego uzgodnienia. Zapytania: contact@konstela.org
+odrębnego uzgodnienia. Zapytania: kontakt@konstela.org
 
 ## Uwaga o prawach uczestników
 
@@ -51,4 +51,4 @@ evaluating AI models, or for building datasets. Search engine indexing that
 directs human readers to the site is not covered by this reservation.
 The licence granted to the organiser by contest participants does not include
 the right to sublicense their conversations for model training.
-Research access by arrangement: contact@konstela.org
+Research access by arrangement: kontakt@konstela.org
