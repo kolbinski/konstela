@@ -220,6 +220,12 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 
 23. **Analityka bezcookiesowa.** Strona nie ma dziś żadnej analityki ani komunikatu o ciasteczkach i chcę to utrzymać, ale potrzebuję podstawowych danych o ruchu, żeby móc ocenić skuteczność kampanii przed naborem. Rozważane narzędzia nie zapisują niczego na urządzeniu odwiedzającego: **Plausible** (serwery w UE, usługa płatna), **Umami** (otwarty kod, hostowany samodzielnie), **GoatCounter** oraz **Cloudflare Web Analytics**. Pytania: czy przy takich narzędziach odpada obowiązek uzyskania zgody na przechowywanie informacji w urządzeniu końcowym; jaka podstawa prawna właściwa jest dla przetwarzania adresu IP i danych o wizycie i jak opisać to w polityce prywatności; czy przy **Cloudflare Web Analytics**, wobec amerykańskiej przynależności dostawcy, da się utrzymać deklarację, że dane nie opuszczają Europejskiego Obszaru Gospodarczego, a jeżeli nie, to na jakiej podstawie mogłyby być przekazywane - pytanie wiąże się z pkt 13 powyżej, dotyczącym hostingu u GitHub, Inc.
 
+## Cz. Plebiscyt na piosenkę - lista odrębna
+
+Pytania dotyczące plebiscytu zebrane są w osobnym dokumencie: [prawnik-plebiscyt](view.html?file=prawnik-plebiscyt). Powód rozdzielenia jest praktyczny - to inny materiał prawny (utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania, głosowanie publiczności), a wycena z 22.10.2026 go nie obejmowała, więc wymaga odrębnego potwierdzenia zakresu i ceny.
+
+Trzy pytania z tamtej listy wiążą się z tą bezpośrednio i nie powinny zostać rozstrzygnięte osobno: nagroda publiczności wobec loterii promocyjnej (pkt 21 powyżej), przetwarzanie numerów telefonu głosujących wobec polityki prywatności pisanej od zera (obszar 2) oraz decyzja, czy podatek od nagród obciąża nagrodę, czy jest doliczany ponad nią - ta ostatnia dotyczy puli nagrody głównej i plebiscytu jednocześnie i powinna być podjęta raz, dla obu.
+
 ## D. Załączniki
 
 - [Regulamin](view.html?file=regulamin) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca

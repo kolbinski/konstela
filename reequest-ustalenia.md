@@ -34,3 +34,55 @@ Spotkanie online, 91 minut, godz. 14:21. Uczestnicy: Piotr Byliński (założyci
 Brief celowo nie podawał budżetu: „nie chcę zakotwiczyć rozmowy swoim szacunkiem". W rozmowie Piotr zapytał wprost („5, 10?"), a odpowiedź brzmiała, że przy sponsorze antologii rzędu dwustu tysięcy kwota dziesięciu czy piętnastu tysięcy to procent tej sumy i **„to nie będzie 5000 na pewno"**. To jest kotwica, i to ustawiona od dołu. Wycena, która przyjdzie 4 listopada, najprawdopodobniej nie zejdzie poniżej tych piętnastu tysięcy.
 
 Nie jest to katastrofa, bo kwota mieści się w budżecie bloku B, ale przy kolejnych rozmowach z dostawcami warto trzymać się pierwotnej zasady: najpierw cudza wycena, potem własna liczba.
+
+
+## Wątki z rozmowy podjęte 23.10.2026 wieczorem
+
+### 1. Komunikat o odrzuceniu i wgląd we własne oceny
+
+Piotr drążył to najdłużej ze wszystkiego: jak uczestnik dowie się, że odpadł, i co dostanie w zamian za włożoną pracę. Przy odrzuceniu formalnym odpowiedź jest łatwa, bo podaje się powód. Przy merytorycznym zostaje „ktoś był lepszy", a to przy 1 zgłoszeniu na rok jest odpowiedzią chłodną - jego zdanie „ale wiesz, ja się narobiłem" jest tu całą diagnozą.
+
+**Przyjęte:** na żądanie, **po gali**, uczestnik może zapytać o powód niezakwalifikowania do dziesiątki i otrzymuje **własne oceny wystawione przez Akademię**.
+
+**Dwa warunki, bez których to nie zadziała:**
+
+1. **Kolizja z retencją.** Polityka prywatności mówi, że dane uczestników nienagrodzonych wraz z kopiami rozmów usuwane są w ciągu 60 dni od ogłoszenia wyników. Pytanie zadane w 70. dniu trafia w próżnię. Albo wydłużamy ten termin, albo zamykamy okno na pytania wewnątrz 60 dni i mówimy to wprost w regulaminie.
+2. **Oceny bez wskazania oceniających.** Przekazujemy punkty i uzasadnienia, nie nazwiska ani identyfikatory czytelników - inaczej robimy z Akademii cel dla rozżalonych.
+
+Handbook częściowo naprawia ten problem przed naborem, ale nie zastępuje tego, co przychodzi mailem po.
+
+### 2. Utrzymanie uwagi przez 12 miesięcy: lista mailingowa
+
+W rozmowie wątek się urwał bez rozstrzygnięcia: nie ma kont i rejestracji, więc nie ma jak przypominać, a kampania do 38 mln ludzi kosztuje majątek.
+
+**Przyjęte:** dobrowolny zapis na powiadomienia, **osobny od zgłoszenia**, z odrębną zgodą i odrębnym polem. Treścią mailingu są **handbook i nowe odcinki podcastu**, a nie przypomnienia o konkursie - ludzie zapisują się po materiał, a przy okazji wiedzą, że nabór trwa.
+
+Zgoda marketingowa musi być opisana w polityce prywatności, którą ByteLaw pisze od zera. **Zgłosić im to, zanim zaczną.**
+
+### 3. Jak dotrzeć do emerytów jako Akademii
+
+Pomysł padł w rozmowie i nigdzie nie był zapisany: emerytowani nauczyciele, doktoranci i profesorowie jako naturalna pula czytelników - mają czas, warsztat i powód, żeby chcieć.
+
+Kanały, w kolejności siły:
+
+- **Uniwersytety Trzeciego Wieku** - w Polsce jest ich kilkaset, mają koordynatorów i spotykają się regularnie. Jeden mail do zarządu trafia do kilkudziesięciu osób naraz i z rekomendacją. Zacząć od 3-4 największych, nie od wysyłki masowej.
+- **Biblioteki publiczne** prowadzące zajęcia dla seniorów - szukają treści.
+- **Kluby Rozwoju Cyfrowego** - i tak wymieniane w nocie dla Ministerstwa Cyfryzacji.
+- **Sekcje emerytów przy Związku Nauczycielstwa Polskiego.**
+- **Uczelnie** - emerytowani profesorowie bywają zrzeszeni przy wydziałach.
+
+### 4. Reequest jako partner, nie jako rabat
+
+Piotr rzucił na koniec rozmowy, że jeśli to wypali, będą wkładem w rozpromowanie.
+
+**Czego nie robić:** prosić o niższe honorarium „w zamian za partnerstwo". Przy koledze ze studiów zamienia się to w układ, w którym nikt nie wie, co komu się należy, a pierwszy spór kończy i współpracę, i znajomość.
+
+**Czysta wersja:** pełna wycena zostaje, a osobno pada pytanie, czy chcą figurować jako **partner kreatywny Nagrody**, z logo na stronie i w materiałach, i czy w zamian zejdą o **konkretny, zapisany procent**. Raz, na piśmie.
+
+### 5. Program gali: 3 piosenki, nie 11
+
+Plebiscyt da wiele wykonań, ale gala jest o nagrodzie za rozmowy. 11 utworów plus hymn to ponad 40 minut muzyki i wieczór zamienia się w koncert z wręczeniem nagród w przerwie.
+
+**Przyjęte:** na gali **3 najlepsze wykonania plus hymn na zakończenie**; pozostałe zgłoszenia żyją na stronie przez cały rok. Dla wykonawców to też lepsze: występ w trójce finałowej jest wyróżnieniem, występ jako jeden z jedenastu to punkt programu.
+
+Pozostałe elementy wieczoru: dialog czytany (finalista czyta własne pytania, aktor odpowiedzi AI), wręczenia, wystąpienia sponsorów. Piotr słusznie zauważył, że 2 godziny trzeba czymś wypełnić i że sponsorzy będą musieli powiedzieć, po co to robią.
