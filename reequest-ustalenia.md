@@ -24,7 +24,7 @@ Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden 
 
 Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowanie. **Karta oceny jest jawna od początku**: ujęcie tematu 25, tekst 30, muzyka 25, wykonanie 20 punktów, z wyraźnym zastrzeżeniem, że nie oceniamy jakości produkcji, zasięgów ani wcześniejszego dorobku.
 
-**Reguła wobec AI:** tekst, melodia, harmonia i wokal nie mogą być w żadnej części wygenerowane; narzędzia wolno stosować na etapie produkcji i obróbki, z deklaracją przy zgłoszeniu.
+**Reguła wobec AI (brzmienie z 24.10.2026, godz. 18).** Melodia, harmonia i wokal muszą być własne - nie wolno zgłosić melodii przejętej z wygenerowanego nagrania, wolno natomiast szukać w generatorze klimatu i pomysłów przed napisaniem własnej. Tekst wolno napisać z AI, z opisem przy zgłoszeniu, jak powstał; o proporcje nie pytamy. Narzędzia na etapie produkcji i obróbki wolno stosować z deklaracją. **To jest treść komunikacyjna, nie tylko zapis regulaminowy:** konkurs nie żąda abstynencji od AI, tylko jawności co do tego, gdzie jej użyto - i hymn Nagrody deklaruje to samo co zgłaszający. Hasłem, które z tego wynika, warto zająć się na warsztatach.
 
 ## 3. Co z tego powstaje
 
@@ -73,7 +73,7 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 
 ## 7. Zakres zlecenia i granica
 
-**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo, audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do ściany, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
+**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do ściany, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
 
 **Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do oceny formalnej, panel pracy Akademii i Kapituły, mechanizmy ściany, półki i głosowania, publikowanie archiwum.
 
@@ -125,13 +125,27 @@ Razem ok. 1 132 tys. zł netto przy 937 godzinach pracy organizatora. **Honorari
 
 **Wykonawcy plebiscytu.** Strona ich nie dosięga. Żyją w grupach muzyków na Facebooku, w szkołach muzycznych i na wydziałach wokalnych, na scenie coverowej YouTube i TikToka, w radiach lokalnych i studenckich, na open mikach i w rosterach małych wydawnictw. To praca ręczna albo płatna promocja w mediach muzycznych - raz czyjś czas, raz gotówka.
 
-## 12. Reequest jako partner
+## 12. Materiały wideo - kierunek kreatywny
+
+**Decyzja z 24.10.2026: filmy robią ludzie.** Technika to wycinanka z rysunkami dzieci - człowiek, laptop, konstelacja na niebie, przedmioty cięte nożyczkami i animowane poklatkowo. Żadnego wideo generowanego narzędziami AI.
+
+**Powód pierwszy, obronny.** Nagroda zabrania zgłaszania muzyki wygenerowanej przez AI, a plebiscyt tego pilnuje. Reklama Nagrody zrobiona przez AI byłaby sprzecznością, którą ktoś nagłośni, i to słusznie. Dziecięcy rysunek jest artefaktem, przy którym to pytanie nie powstaje.
+
+**Powód drugi, znaczeniowy, ważniejszy dla warsztatów.** Konstelacja narysowana przez dziecko to dosłownie teza Nagrody: gwiazdy same z siebie nie układają się w żaden kształt, dopóki ktoś nie poprowadzi między nimi linii, której wcześniej nie było. Dziecko z kredką robi dokładnie to i robi to pierwsze w życiu. Jedno takie ujęcie tłumaczy nazwę bez zdania lektora. Drugi poziom: Nagroda premiuje zadawanie pytań, a dziecko jest jedynym człowiekiem, który zadaje je bez opamiętania.
+
+**Zastrzeżenie techniczne i kulturowe.** Wycinanka jest tania i wdzięczna - płaskie warstwy, widoczne cięcie, lekkie drżenie klatek - i ma w Polsce własną tradycję, więc nie czyta się jako oszczędność, tylko jako wybór.
+
+**Ryzyko do zaadresowania w projekcie: odczytanie jako „dla dzieci".** Nagroda jest dla pełnoletnich, rysunek jest metaforą, nie adresem. Trzyma to dorosły głos lektora i poważny tekst. Agencja ma to dostać powiedziane wprost, bo sama estetyka ciągnie w drugą stronę.
+
+**Nierozstrzygnięte: czyje to rysunki.** Prawdziwe prace dzieci wymagają zgód rodziców, a przy szkole zgody na każde dziecko osobno. Alternatywą jest ilustrator rysujący „dziecięcą ręką" - czysto prawnie, ale traci autentyczność, którą ktoś może wyczuć. Przy Uczniowskiej Akademii prawdziwe rysunki byłyby natomiast pretekstem dla szkół, żeby się zaangażowały. Pytanie skierowane do kancelarii (sekcja Cv pkt 28 w [prawnik](view.html?file=prawnik)).
+
+## 13. Reequest jako partner
 
 Piotr zasygnalizował, że jeśli to wypali, będą wkładem w rozpromowanie.
 
 **Przyjęta zasada: pełna wycena zostaje**, a osobno pada pytanie, czy chcą figurować jako **partner kreatywny Nagrody**, z logo na stronie i w materiałach, i czy w zamian zejdą o konkretny, zapisany procent. Raz, na piśmie. **Czego nie robimy:** nie prosimy o niższe honorarium „w zamian za partnerstwo" - przy koledze ze studiów zamienia się to w układ, w którym nikt nie wie, co komu się należy, a pierwszy spór kończy i współpracę, i znajomość.
 
-## 13. Ustalone i otwarte
+## 14. Ustalone i otwarte
 
 **Ustalone:** rama współistnienia; plebiscyt jako drugi równorzędny konkurs; jawne karty oceny obu konkursów; ściana jako warunek udziału; półka wyłącznie lokalna; głosowanie publiczności dopiero w 2028 z ukrytymi licznikami; demo na wejściu do plebiscytu; jedno zgłoszenie na osobę w obu konkursach; hymn jako materiał otwierający nabór; prawa zostają przy autorach; branding przed stroną.
 

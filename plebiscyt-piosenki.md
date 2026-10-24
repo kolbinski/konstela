@@ -2,7 +2,7 @@
 
 ![Nagroda Konstela - Zapytaj inaczej](assets/piosenka.jpg)
 
-Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: własny tekst, własna muzyka, własne wykonanie. Nie dajemy gotowego tematu ani gotowych słów - to, co w tym powiesz, jest częścią tego, co oceniamy.
+Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga sekcja o zasadach poniżej - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowego tematu ani gotowych słów - to, co w tym powiesz, jest częścią tego, co oceniamy.
 
 **Zespoły i duety są jak najbardziej mile widziane.** „Własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa. Zgłoszenie wskazuje wtedy osobę reprezentującą cały skład, a sposób podziału nagrody pozostaje sprawą zgłaszających.
 
@@ -24,9 +24,13 @@ Finansowania szukam w trzech miejscach naraz: w programach wsparcia kultury, u w
 
 **Wystarczy czytelne demo.** Nie wymagam gotowego singla i nie chcę, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator. Jury dostaje przy tym wyraźne wskazanie, że ocenia utwór i wykonanie, a nie budżet realizacji.
 
-**Muzykę i głos daje człowiek.** W konkursie o sztucznej inteligencji wygrywa człowiek, a nie generator. Granica jest jedna i stawiam ją wprost: **tekst, melodia, harmonia i wokal nie mogą być w żadnej części wygenerowane** - ani zwrotka, ani refren, ani partia wokalna. Nie chodzi więc o proporcje, tylko o to, że te cztery rzeczy są w całości ludzkie.
+**Melodia i głos są ludzkie, tekst wolno napisać z AI.** To nie jest konkurs na abstynencję od sztucznej inteligencji - Konstela jest o świadomym życiu z nią, nie o udawaniu, że jej nie ma. Granica biegnie tam, gdzie zaczyna się to, co faktycznie oceniamy.
 
-Narzędzia wolno natomiast używać **na etapie produkcji i obróbki**: korekta wysokości dźwięku, usuwanie szumu, separacja śladów, mastering, pomoc w brzmieniu. Przy zgłoszeniu deklaruje się, czego i do czego użyto.
+**Melodia, harmonia i wokal muszą być Twoje.** Niedozwolone jest zgłoszenie melodii lub harmonii przejętej z wygenerowanego nagrania - odsłuchanej i spisanej, przerobionej, przyspieszonej czy przeharmonizowanej. Dozwolone i niewymagające deklaracji jest używanie generatora do szukania klimatu i sprawdzania pomysłów, zanim napiszesz własne. Nikt nie zabroni Ci słuchać; zakaz dotyczy pochodzenia tego, co zgłaszasz. Partia wokalna w całości ludzka, bez wyjątków.
+
+**Tekst wolno napisać z AI, trzeba tylko powiedzieć jak.** Jeżeli przegadałeś z AI parę godzin temat, poprosiłeś na koniec o wersję tekstu i potem przepisałeś ją po swojemu - to jest dozwolone i jest to dokładnie ta praca, którą Nagroda Konstela mierzy w głównym konkursie. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
+
+Narzędzia wolno też używać **na etapie produkcji i obróbki**: korekta wysokości dźwięku, usuwanie szumu, separacja śladów, mastering, pomoc w brzmieniu. Przy zgłoszeniu deklaruje się, czego i do czego użyto.
 
 Weryfikacja nie opiera się na tym, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
@@ -58,7 +62,7 @@ Powiem wprost, jak to jest finansowane, żeby nikt nie musiał się domyślać. 
 
 ## Hymn Nagrody
 
-Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do napisanego przeze mnie tekstu „Zapytaj inaczej", nagrany przez **jurorów**, którzy biorą udział w nagraniu. Mówię o tym wprost, żeby nie było niejasności: jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi.
+Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej", nagrany przez **jurorów**, którzy biorą udział w nagraniu. Mówię o tym wprost, żeby nie było niejasności: jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi.
 
 Hymn ma zostać nagrany i wydany na początku 2027 roku, bo jego premiera otwiera nabór, a na gali w 2028 wykonywany jest na żywo.
 
@@ -72,7 +76,9 @@ Nagroda potrzebuje prawa **niewyłącznego** i w trzech konkretnych zakresach, k
 
 ## Hymn: dwie wersje AI, trzecia ludzka
 
-Zaczynamy od punktu, w którym dziś stoi każdy: tekst napisałem sam, a muzykę i wykonanie wygenerował generator suno.com. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywam ich demem ani materiałem roboczym, bo nim nie są - to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
+Zaczynamy od punktu, w którym dziś stoi każdy. Muzykę i wykonanie wygenerował suno.com. Tekst powstał tak, jak zasady tego plebiscytu dopuszczają: z wielogodzinnej rozmowy z AI o tym, czym jest Konstela, zakończonej prośbą o wersję tekstu - a potem z moich własnych decyzji, co w niej zostaje, a co wypada. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywam ich demem ani materiałem roboczym, bo nim nie są - to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
+
+Deklaruję to tym samym zdaniem, którego wymagam od zgłaszających, i w tym samym miejscu, w którym oni je napiszą. Hymn stoi poza konkursem, ale nie poza zasadami.
 
 <table class="thumbs">
   <tr>

@@ -45,15 +45,26 @@ Przyjęta forma zgłoszenia to **link do utworu opublikowanego na YouTube**, nie
 
 ## 5. Wymóg autorstwa ludzkiego
 
-Reguła w brzmieniu obowiązującym od 24.10.2026, po usunięciu wcześniejszej niespójności: **tekst, melodia, harmonia i wokal nie mogą być w żadnej części wygenerowane** - ani zwrotka, ani refren, ani partia wokalna. Użycie narzędzi jest natomiast dopuszczalne **na etapie produkcji i obróbki dźwięku** (korekta wysokości, usuwanie szumu, separacja śladów, mastering) i podlega zadeklarowaniu przy zgłoszeniu. Weryfikacja opiera się na oświadczeniu zgłaszającego oraz na możliwości przedstawienia materiałów roboczych przez finalistów, nie na rozpoznaniu narzędzia przez jury podczas odsłuchu; przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w konkursie.
+Reguła w brzmieniu obowiązującym **od 24.10.2026, godz. 18**. Wcześniejsza wersja obejmowała jednym zakazem tekst, melodię, harmonię i wokal; została rozdzielona, bo obejmowała także pracę, którą Nagroda Konstela w swoim głównym konkursie wprost nagradza.
 
-*Poprzednia wersja brzmiała „tekst, kompozycja i wokal mają być dziełem człowieka" obok „utwór wygenerowany w całości nie bierze udziału" - te dwa zdania przeczyły sobie, bo drugie dopuszczało wygenerowany refren.*
+**Melodia, harmonia i wokal - granica twarda.** Niedozwolone jest zgłoszenie melodii lub harmonii przejętej z wygenerowanego nagrania: odsłuchanej i spisanej, przerobionej, przyspieszonej czy przeharmonizowanej. Dozwolone i niewymagające deklaracji jest używanie generatora do szukania klimatu i sprawdzania pomysłów przed napisaniem własnej melodii. Zakaz dotyczy zatem **pochodzenia zgłoszonego materiału**, nie inspiracji. Partia wokalna w całości ludzka, bez wyjątków.
+
+**Tekst - dozwolony z AI, pod warunkiem deklaracji.** Wolno napisać tekst we współpracy z AI, w tym poprosić o wersję na zakończenie rozmowy i następnie ją przepisać. Zgłaszający opisuje w kilku zdaniach, jak tekst powstał. Świadomie **nie pytamy o proporcje ani o procent własnego wkładu**, bo takiej wielkości nikt nie potrafi podać zgodnie z prawdą; pytamy o drogę powstania. Uzasadnienie merytoryczne: główny konkurs Nagrody przyznaje nagrodę człowiekowi za rozmowę z AI, oceniając jego pytania i osąd, a nie odpowiedzi narzędzia. Zakaz posiłkowania się AI przy tekście piosenki byłby wobec tej tezy niespójny. Przy melodii jest inaczej, ponieważ to melodia jest ocenianym wytworem.
+
+**Produkcja i obróbka dźwięku** pozostają dozwolone bez zmian (korekta wysokości, usuwanie szumu, separacja śladów, mastering) i podlegają zadeklarowaniu przy zgłoszeniu.
+
+Weryfikacja opiera się na oświadczeniu zgłaszającego oraz na możliwości przedstawienia materiałów roboczych przez finalistów, nie na rozpoznaniu narzędzia przez jury podczas odsłuchu; przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w konkursie.
+
+*Wersja z 23.10.2026 brzmiała „tekst, kompozycja i wokal mają być dziełem człowieka" obok „utwór wygenerowany w całości nie bierze udziału" - te dwa zdania przeczyły sobie, bo drugie dopuszczało wygenerowany refren. Wersja z 24.10.2026 rano usuwała tę sprzeczność zakazem obejmującym wszystkie cztery elementy i obowiązywała kilka godzin.*
 
 - Jak sformułować tę regułę w regulaminie, żeby była wykonalna, a nie tylko deklaratywna.
 - Jakie są skutki **fałszywej deklaracji** i czy można odebrać nagrodę po jej wypłaceniu, a także odebrać nagranie studyjne wykonane już na koszt organizatora.
 - Czy organizator może opierać rozstrzygnięcie na własnej ocenie, że utwór jest wygenerowany, i jaki powinien być ciężar dowodu - analogicznie do § 7 regulaminu Nagrody, gdzie przy wątpliwości zgłoszenie zostaje.
 - Czy **żądanie materiałów roboczych** od finalistów jest dopuszczalne i jak je sformułować, żeby nie było żądaniem dostępu do prywatnych plików ani warunkiem niemożliwym do spełnienia przez kogoś, kto pracuje bez sesji wielośladowej.
 - Gdzie przebiega granica między „obróbką" a „generowaniem" przy narzędziach, które robią jedno i drugie, na przykład przy wtyczkach dogrywających brakujące fragmenty albo podnoszących jakość wokalu przez jego ponowne wymodelowanie.
+- Jak sformułować zakaz przy melodii, żeby odróżniał **przejęcie** od **inspiracji** w sposób nadający się do zastosowania w sporze. Inspiracji zakazać się nie da i nie chcemy tego robić; chodzi o to, czy zgłoszona melodia pochodzi z wygenerowanego nagrania.
+- Czy deklaracja sposobu powstania tekstu, bez podawania proporcji, jest wystarczającą podstawą do wykluczenia zgłoszenia w razie wykazania jej nieprawdziwości - skoro nie da się wskazać progu, który został przekroczony.
+- **Ochrona prawnoautorska tekstów powstałych z udziałem AI.** Dotyczy to wszystkich zgłoszeń, nie tylko hymnu, a w konsekwencji także utworów przewidzianych do wydania płytowego u partnera: czy tekst powstały z wygenerowanej wersji, następnie przepisany przez człowieka, jest utworem w rozumieniu prawa autorskiego; jaki zakres zmian jest tu istotny; co zgłaszający może wobec tego skutecznie licencjonować organizatorowi i wydawnictwu; oraz jak sformułować oświadczenie o prawach, żeby nie obejmowało zapewnień, których zgłaszający nie jest w stanie złożyć zgodnie z prawdą.
 
 ## 5a. Sprawdzanie autorstwa i tryb sporny
 
@@ -113,7 +124,7 @@ Decyzja z 24.10.2026: **zespoły i duety są dopuszczone.** „Własne" znaczy, 
 Utwór powstaje do istniejącego tekstu i jest nagrywany przez jurorów, poza konkursem, wraz z teledyskiem. Nagranie i premiera przypadają na początek 2027 roku, przed otwarciem naboru.
 
 - Umowy z wykonawcami: zakres przeniesienia praw albo licencji, prawa do nagrania i do teledysku.
-- Prawa do tekstu i ich relacja do praw kompozytora muzyki powstającej do tego tekstu.
+- Prawa do tekstu i ich relacja do praw kompozytora muzyki powstającej do tego tekstu. **Istotne:** tekst „Zapytaj inaczej" powstał z rozmowy z AI zakończonej prośbą o wersję tekstu, a następnie z redakcyjnych decyzji organizatora (zmiana wersu refrenu, odrzucenie wariantu zwrotki pierwszej, wybór tego, co zostaje). Pytanie o ochronę prawnoautorską takiego tekstu jest wspólne z sekcją 5 i rozstrzyga, co organizator może przenieść na wykonawców i na wydawnictwo oraz czy osoba trzecia może ten tekst wykorzystać bez zgody.
 - Czy jurorzy wykonujący hymn mogą jednocześnie oceniać zgłoszenia - naszym zdaniem tak, skoro hymn jest poza konkursem, ale warto to potwierdzić.
 - Jurorzy, którzy **nie biorą udziału w nagraniu** (autor tekstu, producent): czy regulamin powinien to w ogóle regulować, czy wystarczy, że hymn nagrywają ci, którzy wykonują.
 - Rozważany jest **szerszy skład wykonawczy** hymnu, obejmujący kilkunastu wykonawców spoza jury. Jakie to rodzi obowiązki umowne i czy artyści z kontraktami wyłącznymi wymagają zgody swoich wytwórni na udział w takim nagraniu. *Kierunek, nie plan - patrz [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia).*

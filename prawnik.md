@@ -232,6 +232,10 @@ Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach
 
 27. **Prywatna półka czytelnika.** Oznaczanie rozmów gwiazdką zapisywane jest wyłącznie w przeglądarce czytelnika, bez wysyłania czegokolwiek na serwer, z możliwością eksportu i importu pliku. Czy taki mechanizm wymaga zgody, wzmianki w polityce prywatności albo jakiejkolwiek informacji poza zdaniem wyjaśniającym.
 
+## Cx. Materiały promocyjne (dodane 24.10.2026)
+
+28. **Rysunki dzieci w materiałach promocyjnych.** Filmy reklamujące Nagrodę i plebiscyt mają być animowaną wycinanką z rysunków dzieci. Pytania: jakiej zgody wymaga wykorzystanie pracy plastycznej dziecka w materiale promocyjnym podmiotu organizującego konkurs i czy wystarcza zgoda jednego rodzica; czy zakres takiej zgody musi obejmować rozpowszechnianie bez ograniczenia czasowego oraz emisję płatną w mediach społecznościowych; czy sytuacja zmienia się, gdy rysunki pochodzą ze szkoły biorącej udział w Uczniowskiej Akademii, a zbiera je nauczyciel; oraz czy należy podpisywać autorów rysunków imieniem, skoro są to osoby niepełnoletnie. Wariantem rozważanym alternatywnie jest ilustrator dorosły rysujący stylizowaną „dziecięcą ręką" - prosimy o wskazanie, czy ten wariant zdejmuje problem w całości.
+
 ## Cz. Plebiscyt na piosenkę - lista odrębna
 
 Pytania dotyczące plebiscytu zebrane są w osobnym dokumencie: [prawnik-plebiscyt](view.html?file=prawnik-plebiscyt). Powód rozdzielenia jest praktyczny - to inny materiał prawny (utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania, głosowanie publiczności), a wycena z 22.10.2026 go nie obejmowała, więc wymaga odrębnego potwierdzenia zakresu i ceny.

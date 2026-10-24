@@ -1,8 +1,10 @@
 # Wykonawcy piosenki - lista kandydatów
 
-Materiał do maila/DM z [mail-piosenkarz-oferta.md](view.html?file=mail-piosenkarz-oferta). Nazwiska pochodzą z angielskiej Wikipedii, z opisów poszczególnych sezonów The Voice of Poland (sprawdzone 22.10.2026).
+Zasady pisania do wykonawców są w [mail-piosenkarz-oferta](view.html?file=mail-piosenkarz-oferta); dawna oferta zlecenia (demo 800 zł, finał 3000 zł) **nie obowiązuje** od 23.10.2026, bo hymn nagrywa skład jury. Nazwiska pochodzą z angielskiej Wikipedii, z opisów poszczególnych sezonów The Voice of Poland (sprawdzone 22.10.2026).
 
 **Zasada doboru (obowiązuje od 22.10.2026).** Decyduje autorski dorobek, a nie miejsce w programie. Nie wykluczamy z góry ani zwycięzców, ani osób pracujących z managementem czy wytwórnią - jedno i drugie sprawdza się indywidualnie, a artysta sam wskaże właściwą ścieżkę kontaktu, jeżeli jej potrzebuje. Nazwiska poniżej pochodzą z opisów sezonów The Voice of Poland i są wyłącznie punktem wyjścia.
+
+**Oznaczenia.** `[x]` - wiadomość wysłana. `[-]` - konta na Instagramie nie udało się znaleźć. `[ ]` - jeszcze nie pisaliśmy. Stan na 22.10.2026, wieczór.
 
 **Nazw kont na Instagramie tu nie ma celowo.** Nazwa konta zgadnięta z nazwiska trafia równie często na konto fanowskie albo podszywające się, a oferta wysłana pod zły adres szkodzi bardziej niż jej brak. Wpisanie nazwiska w wyszukiwarkę Instagrama zajmuje kilka sekund i daje pewność; przy weryfikacji szukać konta, które linkuje do serwisów streamingowych albo do materiałów z programu.
 
