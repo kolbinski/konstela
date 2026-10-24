@@ -146,3 +146,36 @@ U Claude link udostępniania powstaje domyślnie z ustawieniem **„Who has acce
 2. **Sprawdzenie dostępności linku w chwili zgłoszenia** - próba pobrania wykonywana od razu, a nie po terminie; przy niepowodzeniu natychmiastowy komunikat „tego linku nie da się otworzyć bez zalogowania, przestaw widoczność i spróbuj ponownie".
 3. Do sprawdzenia, czy ChatGPT i Gemini mają analogiczne ustawienia domyślne; jeżeli tak, instrukcja obejmuje wszystkich trzech.
 4. Wtyczka rozwiązuje to przy okazji, bo czyta żywy czat - ale jest opcjonalna, więc instrukcja i tak musi istnieć.
+
+## 9. System rejestracji zgłoszeń - wątek otwarty 24.10.2026
+
+Zapisane jako kierunek, nie jako zadanie na teraz. Krzysiek: „nie teraz, ale asap musimy napisać system dla rejestracji rozmów".
+
+**Rozróżnienie, które trzeba trzymać:** to, co jest w punkcie 3, jest **narzędziem archiwizującym** - bierze adres i produkuje katalog. System rejestracji zgłoszeń jest czymś szerszym i narzędzie jest jego jednym elementem.
+
+### Hipoteza do sprawdzenia w pierwszej kolejności
+
+Punkt 4 wymienia **81 pominiętych wiadomości** jako rzecz do rozpoznania. Pierwsza hipoteza: to objaw wirtualizacji listy albo doczytywania, którego pętla przewijania nie wychwyciła. Jeżeli tak, łatanie pętli jest ślepą uliczką, a właściwym rozwiązaniem jest ścieżka poniżej.
+
+### Treść rozmowy z payloadu, nie z DOM-u
+
+Przy wirtualizacji w DOM-ie nie ma całej rozmowy, tylko okno widocznych wiadomości - i to jest najgorszy tryb awarii, bo kopia wygląda na kompletną. Kolejność od najpewniejszego:
+
+1. **JSON wstrzyknięty do HTML** w tagu `script`. Jeżeli dostawca tak robi, mamy całą rozmowę bez przewijania, w strukturze, z rolami i kolejnością.
+2. **Przechwycenie odpowiedzi sieciowej** - nasłuch na `response` w Playwrighcie, złapanie zapytania zwracającego treść rozmowy. Działa, gdy payloadu nie ma w HTML.
+3. **Przewijanie w pętli** - obecne rozwiązanie, jako ostatnia deska ratunku.
+
+Niezależnie od ścieżki: **walidacja kompletności z twardym odrzuceniem.** System musi umieć powiedzieć „nie pobrałem całości" i odrzucić zgłoszenie natychmiast, z komunikatem do uczestnika - jak przy linku ustawionym na „Only people invited" (punkt 8). Cicha niekompletna kopia jest groźniejsza niż brak kopii.
+
+### Czego system potrzebuje poza narzędziem
+
+- **Przyjęcie zgłoszenia** z weryfikacją numeru telefonu kodem SMS, jedno zgłoszenie na osobę.
+- **Sprawdzenie dostępności linku w chwili zgłoszenia**, z natychmiastowym komunikatem zamiast odrzucenia po terminie (punkt 8).
+- **Ocena formalna** - próg znaków, naprzemienność, reguła z punktu 4 o kierowaniu do sprawdzenia ręcznego.
+- **Przechowywanie i retencja** - usuwanie danych nienagrodzonych w terminie z polityki prywatności, z kolizją przy pytaniach o oceny po gali opisaną w [reequest-ustalenia](view.html?file=reequest-ustalenia) punkt 1.
+- **Panel pracy dla Akademii i Kapituły** - poza zakresem agencji, po stronie Krzyśka.
+- Bez ciasteczek, bez zewnętrznej analityki, dane w EOG.
+
+### Zależności i termin
+
+Regulamin mówi, że zgłoszenia przyjmowane są od dnia publikacji regulaminu, a inne dokumenty wskazują 1 stycznia 2027 - ta rozbieżność jest nierozstrzygnięta i **ona wyznacza twardy termin dla tego systemu**. Zgody i retencja czekają na kancelarię. Formularz i obsługa danych uczestników są celowo poza zakresem agencji.
