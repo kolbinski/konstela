@@ -641,6 +641,24 @@
         outline: 2px solid var(--brass);
         outline-offset: 3px;
       }
+      .songs {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 1rem;
+        margin-top: 1.4rem;
+      }
+      .songs .song {
+        margin-top: 0;
+      }
+      .songs .song img {
+        aspect-ratio: 16 / 9;
+        object-fit: cover;
+      }
+      @media (min-width: 560px) {
+        .songs {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
       .hint {
         font-size: 0.9rem;
         color: var(--muted);
@@ -1440,35 +1458,57 @@
         <div class="prose">
           <p>
             Hasło Nagrody doczekało się piosenki, która stanie się jej hymnem.
-            Nagrają go jurorzy plebiscytu, a premiera otworzy nabór na początku
-            2027 roku. Na gali zabrzmi na żywo, na otwarcie i na zakończenie
-            wieczoru.
+            Poniżej dwie wersje tego samego tekstu: słowa napisał człowiek, a
+            muzykę i wykonanie wygenerowała AI. Nie nazywamy tego wersją
+            roboczą, bo nią nie jest - to dokładnie to, co dzisiaj potrafi
+            narzędzie, i to jest nasz punkt wyjścia.
           </p>
           <p>
-            Poniżej wersja robocza: tekst napisał człowiek, muzykę wygenerowało
-            narzędzie. Mówimy o tym wprost, bo właśnie na tym rozróżnieniu stoi
-            tu wszystko.
+            Trzecią wersję nagrają żywi wykonawcy, jurorzy plebiscytu, a jej
+            premiera otworzy nabór na początku 2027 roku. Na gali zabrzmi na
+            żywo, na otwarcie i na zakończenie wieczoru. Wtedy wszystkie trzy
+            staną obok siebie i każdy będzie mógł je przesłuchać, porównać i
+            ocenić sam - usłyszeć, co dokłada człowiek wchodzący w tę samą
+            piosenkę. Ta sama różnica decyduje w Nagrodzie, tyle że tam dotyczy
+            rozmowy zamiast dźwięku.
           </p>
         </div>
-        <a
-          class="song"
-          href="https://www.youtube.com/watch?v=-o27mezz_Ik"
-          target="_blank"
-          rel="noopener"
-        >
-          <span class="song-note">
-            Posłuchaj &bdquo;Zapytaj inaczej&rdquo; &middot; YouTube
-          </span>
-          <img
-            src="assets/piosenka.jpg"
-            srcset="assets/piosenka-800.jpg 800w, assets/piosenka.jpg 1600w"
-            sizes="(min-width: 720px) 680px, 100vw"
-            width="1600"
-            height="900"
-            loading="lazy"
-            alt="Dłoń wskazująca nocne niebo, w którym gwiazdy układają się w konstelację; napis Konstela, Zapytaj inaczej"
-          />
-        </a>
+        <div class="songs">
+          <a
+            class="song"
+            href="https://www.youtube.com/watch?v=3_Yc4dDPB2c"
+            target="_blank"
+            rel="noopener"
+          >
+            <span class="song-note">
+              &bdquo;Zapytaj inaczej&rdquo; &middot; wersja AI 1
+            </span>
+            <img
+              src="piosenka/thumbnail-1.png"
+              width="1280"
+              height="720"
+              loading="lazy"
+              alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze"
+            />
+          </a>
+          <a
+            class="song"
+            href="https://www.youtube.com/watch?v=4qjqEl7EmoU"
+            target="_blank"
+            rel="noopener"
+          >
+            <span class="song-note">
+              &bdquo;Zapytaj inaczej&rdquo; &middot; wersja AI 2
+            </span>
+            <img
+              src="piosenka/thumbnail-2.png"
+              width="1280"
+              height="720"
+              loading="lazy"
+              alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie"
+            />
+          </a>
+        </div>
       </section>
 
       <footer>
