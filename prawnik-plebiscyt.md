@@ -1,6 +1,8 @@
 # Pytania do kancelarii - plebiscyt na piosenkę
 
-Osobna lista od [prawnik.md](view.html?file=prawnik), bo plebiscyt to inny materiał prawny niż Nagroda: utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania i głosowanie publiczności. Wycena ByteLaw na 4 tys. zł netto obejmowała dokumenty wysłane 22.10.2026, a plebiscytu wtedy nie było - **tę listę trzeba im przesłać jako rozszerzenie zakresu i poprosić o odrębną wycenę.**
+Lista odrębna od [pytań dotyczących Nagrody](view.html?file=prawnik), ponieważ plebiscyt to inny materiał prawny: utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania i głosowanie publiczności. Plebiscyt powstał po przekazaniu pierwszej listy pytań, ma własny harmonogram i własne źródło finansowania, dlatego proszę o potraktowanie go jako **odrębnego zlecenia z własną wyceną**.
+
+Stan na **24 października 2026 roku**.
 
 Stan konstrukcji, do którego odnoszą się pytania, jest opisany w [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia). Lista uwzględnia decyzje z 24.10.2026: regułę AI w nowym brzmieniu, dopuszczenie zgłoszeń zespołowych, demo na wejściu oraz nagrania dziesięciu finalistów finansowane przez organizatora.
 
