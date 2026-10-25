@@ -430,6 +430,10 @@
       }
       .hero-text {
         background: var(--surface);
+        /* Przy ukladzie jednokolumnowym medal i tekst stoja jeden pod drugim
+           na tym samym tle i zlewaja sie w jedna plame - linia je rozdziela.
+           Przy dwoch kolumnach jest zbedna i znika nizej. */
+        border-top: 1px solid var(--rule);
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -443,6 +447,7 @@
            kolejnosc w pliku, a nie to, ze jest w medium zapytaniu */
         .hero-text {
           padding-block: 5rem;
+          border-top: 0;
         }
       }
       h1 {

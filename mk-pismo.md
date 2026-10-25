@@ -69,6 +69,8 @@ Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co czło
 
 Przewidziane są dwa stałe cykle. Cykl „Pierwszy raz z AI" to rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji - pytanie brzmi nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. Cykl „NAIstolatek" nagrywany jest z nastolatkami i dotyczy tego, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją odcinka.
 
+Odcinki oraz ich fragmenty będą udostępniane nieodpłatnie mediom i instytucjom edukacyjnym do wykorzystania we własnych materiałach, bez konieczności uzyskiwania odrębnej zgody.
+
 Wymieniam podcast w tym miejscu, ponieważ wpływa on na pierwsze z moich pytań formalnych. Nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz działaniem z zakresu edukacji kulturalnej i upowszechniania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży. Może to oznaczać, że właściwy program jest inny niż dla konkursu muzycznego, albo że zadanie wymaga podziału.
 
 Mówię otwarcie, na jakim etapie jest przedsięwzięcie, ponieważ przesądza to o treści moich pytań. Plebiscytu nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników. Organizatorem ma być fundacja powoływana wyłącznie w tym celu; jej rejestracja jest w toku i do jej zakończenia jedynym możliwym wnioskodawcą jest prowadzona przeze mnie jednoosobowa działalność gospodarcza. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne nie wnioskowałem.
