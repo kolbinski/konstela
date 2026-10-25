@@ -23,8 +23,12 @@
   ];
 
   var STYLE = [
-    ':host { display: block; max-width: var(--max-w, 44rem); margin: 0 auto; }',
+    /* Szerokość i wyśrodkowanie ustawiamy na pasku w środku, a nie na :host.
+       Reguła strony - choćby zwykłe * { margin: 0 } - ma pierwszeństwo przed
+       :host, więc margines automatyczny zapisany tam bywa kasowany. */
+    ':host { display: block; }',
     '.belka {',
+    '  max-width: var(--max-w, 44rem); margin: 0 auto;',
     '  display: flex; flex-wrap: wrap; gap: 1.5rem;',
     '  align-items: flex-start; justify-content: space-between;',
     '  padding-block: 2.5rem 3.5rem;',
