@@ -180,9 +180,11 @@ Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu; jej
 
 ## Kontakt
 
-**kontakt@konstela.org** - Krzysztof Olbiński, organizator.
+**plebiscyt@konstela.org** - Krzysztof Olbiński, organizator.
 
-Ten adres jest do dwóch rzeczy. **Pytania i współpraca:** wykonawcy, wydawnictwa, sponsorzy, media. Odpowiadamy osobiście i mówimy wprost, na jakim etapie jest sprawa. **Lista powiadomień:** napisz, jeśli chcesz dowiedzieć się pierwszy, gdy nabór ruszy. Adres trzymamy wyłącznie po to, żeby wysłać tę jedną wiadomość, i nie robimy z niego niczego innego; zrezygnować można w każdej chwili, jednym zdaniem.
+**Pytania i współpraca.** Wykonawcy, wydawnictwa, sponsorzy, media. Odpowiadamy osobiście i mówimy wprost, na jakim etapie jest sprawa.
+
+**Powiadomienie o rozpoczęciu plebiscytu.** Napisz, jeśli chcesz dowiedzieć się pierwszy, gdy ruszy nabór. Adres trzymamy wyłącznie po to, żeby wysłać tę jedną wiadomość, i nie robimy z niego niczego innego; zrezygnować można w każdej chwili, jednym zdaniem.
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
