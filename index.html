@@ -520,6 +520,22 @@
           gap: 0.24em;
         }
       }
+      @media (min-width: 1080px) {
+        /* Ikona wychodzi na lewy margines i rosnie; nazwa sekcji wraca do
+           linii tekstu. Prog 1080px, nie 620px: przy 3em ikona potrzebuje
+           okolo 163px marginesu, a tyle zostaje dopiero przy tej szerokosci -
+           nizej byla ucinana przez krawedz okna. Blok stoi PO regule ogolnej,
+           bo przy tej samej specyficznosci decyduje kolejnosc w pliku. */
+        section > h2 {
+          position: relative;
+        }
+        section > h2 .ico {
+          position: absolute;
+          transform: translateX(-100%) translateY(10px);
+          width: 3em;
+          height: 3em;
+        }
+      }
       .sub {
         color: var(--muted);
         margin-bottom: 1.6rem;
@@ -632,6 +648,17 @@
         .purse {
           grid-template-columns: repeat(3, 1fr);
         }
+        .purse.kalendarz {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+      @media (min-width: 900px) {
+        .purse.kalendarz {
+          grid-template-columns: repeat(4, 1fr);
+        }
+      }
+      .purse.kalendarz dd {
+        font-size: 1.15rem;
       }
       .purse div {
         background: var(--surface);
@@ -1011,18 +1038,7 @@
               <path d="M9 12h7M9 16h5" />
             </svg>
             <span
-              ><strong>Link do rozmowy, nie transkrypt.</strong> Zgłaszasz
-              udostępnioną rozmowę po stronie dostawcy, więc nieudane pytania i
-              ślepe uliczki zostają w niej same z siebie. Nagroda za wyczyszczony
-              tekst byłaby nagrodą za montaż. Link musi działać przez cały czas
-              trwania oceny; sprawdzamy to już w chwili zgłoszenia, więc o
-              problemie dowiesz się od razu, a nie po terminie. Jest to wymóg
-              dowodowy, nie wybór dostawcy: Nagroda nie promuje żadnego
-              narzędzia ani firmy, a wiemy, że wyklucza to narzędzia bez funkcji
-              udostępniania, w tym uruchamiane lokalnie, dostęp przez API i
-              środowiska firmowe blokujące linki na zewnątrz. To koszt
-              przyjętego sposobu dowodzenia i wrócimy do niego przed drugą
-              edycją.</span
+              ><strong>Link do rozmowy, nie transkrypt.</strong> Zgłaszasz udostępnioną rozmowę po stronie dostawcy - ślepe uliczki i nieudane pytania zostają w niej same z siebie. Link musi działać przez cały czas oceny; sprawdzamy go już przy zgłoszeniu, więc o problemie dowiesz się od razu. To wymóg dowodowy, nie wybór dostawcy, ale wyklucza narzędzia bez funkcji udostępniania.</span
             >
           </li>
           <li>
@@ -1037,16 +1053,7 @@
               <path d="M7 8v8M12 6v12M17 9v6" />
             </svg>
             <span
-              ><strong>Co najmniej 800 słów od ciebie i 12 twoich
-              wypowiedzi.</strong> Liczymy wyłącznie twoje wypowiedzi, bo to one
-              są oceniane; wypowiedzi AI się nie liczą. Próg słów jest niski
-              celowo: krótka i gęsta rozmowa ma wygrywać z długą i rozlaną.
-              Minimum wypowiedzi jest po to, żeby jedno rozbudowane polecenie z
-              jedną odpowiedzią nie uchodziło za rozmowę. Jest też limit górny,
-              25 tysięcy słów całości, żeby ocena była wykonalna. Liczenie jest
-              naszą robotą, nie twoją: słowa i wypowiedzi liczymy sami, a w
-              praktyce przy 12 twoich wiadomościach próg słów spełnia się
-              sam.</span
+              ><strong>Co najmniej 800 słów od ciebie i 12 twoich wypowiedzi.</strong> Liczymy wyłącznie twoje - wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości. Progi są niskie celowo: krótka i gęsta rozmowa ma wygrywać z długą i rozlaną. Liczenie jest po naszej stronie.</span
             >
           </li>
           <li>
@@ -1080,11 +1087,7 @@
               <path d="M3 4l18 16" stroke-width="1.1" />
             </svg>
             <span
-              ><strong>Bez osób prywatnych i bez oskarżeń.</strong> Rozmowa nie może
-              dotyczyć osób trzecich nieznanych publicznie, nawet pod
-              inicjałem, ani stawiać imiennych zarzutów przestępstwa czy
-              nadużycia. O sobie i o publicznej działalności osób publicznych,
-              firm i instytucji piszesz swobodnie, w granicach prawa.</span
+              ><strong>Bez osób prywatnych i bez oskarżeń.</strong> Rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji piszesz swobodnie.</span
             >
           </li>
           <li>
@@ -1099,11 +1102,7 @@
               <path d="M3 9h18M8 5v14" />
             </svg>
             <span
-              ><strong>Jeden czat, jedno zgłoszenie.</strong> Rozmowa to jeden ciągły
-              wątek, nie historia pocięta na kilkanaście okien. W edycji
-              zgłaszasz jedną rozmowę, a zgłoszenie potwierdzamy kodem z SMS -
-              jedno na numer telefonu. Numer służy wyłącznie temu i nie trafia
-              do nikogo poza nami.</span
+              ><strong>Jeden czat, jedno zgłoszenie.</strong> Rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien. Jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu.</span
             >
           </li>
           <li>
@@ -1145,14 +1144,7 @@
               <path d="M13.5 7 17 10.5" />
             </svg>
             <span
-              ><strong>Tytuł i kilka zdań o tym, co odkryłeś.</strong> Rozmowę
-              tytułujesz sam, a do zgłoszenia dołączasz opis odkrycia: do czego
-              w niej doszedłeś i w którym jej miejscu to się stało. Ani tytuł,
-              ani uzasadnienie, dlaczego warto ją przeczytać, nie podlegają
-              punktacji - oceniana jest rozmowa, a nie umiejętność jej
-              zareklamowania. Bez niego zgłoszenie odpada na
-              samym początku, bo nikt poza tobą nie wie, czego w rozmowie
-              szukać.</span
+              ><strong>Tytuł i kilka zdań o tym, co odkryłeś.</strong> Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Ani tytuł, ani opis nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Bez opisu zgłoszenie odpada na starcie.</span
             >
           </li>
           <li>
@@ -1161,12 +1153,7 @@
               <path d="M3.5 10h17M8 3.5v3M16 3.5v3" />
             </svg>
             <span
-              ><strong>Terminy.</strong> Liczy się data rozmowy, nie data
-              zgłoszenia: okno rozmów to cały 2027 rok, a rozmowa z 2026 nie
-              kwalifikuje się, choćby była znakomita. Zgłoszenia przyjmujemy od
-              1 stycznia 2027 do 15 stycznia 2028 - te dodatkowe 2 tygodnie są
-              po to, żeby rozmowa z końca grudnia miała kiedy zostać zgłoszona.
-              Rozstrzygnięcie i antologia w marcu 2028.</span
+              ><strong>Terminy.</strong> Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Zgłoszenia przyjmujemy od 1 stycznia 2027 do 15 stycznia 2028 - te dodatkowe 2 tygodnie są dla rozmów z końca grudnia. Rozstrzygnięcie i antologia w marcu 2028.</span
             >
           </li>
           <li>
@@ -1176,15 +1163,7 @@
               <path d="M5 13v6.5h14V13" />
             </svg>
             <span
-              ><strong>Zgłoszenie oznacza zgodę na publikację wraz z
-              oceną.</strong> Udzielasz nam licencji na publikację rozmowy w
-              antologii albo w archiwum, na 5 lat. Razem z rozmową publikujemy
-              <strong>ocenę, jaką otrzymała</strong> - także wtedy, gdy jest
-              niska, bo archiwum ma uczyć, a nie chwalić. Decydujesz o jednym:
-              czy podpisujemy ją twoim nazwiskiem, czy pseudonimem; ocena jest
-              widoczna tak czy inaczej. Zgłoszenie możesz wycofać najpóźniej
-              na 30 dni przed ogłoszeniem wyników - później nie, bo wtedy treść
-              antologii idzie do publikacji.</span
+              ><strong>Zgłoszenie oznacza zgodę na publikację wraz z oceną.</strong> Udzielasz nam licencji na publikację rozmowy w antologii albo w archiwum, na 5 lat. Publikujemy ją razem z oceną, także niską, bo archiwum ma uczyć, a nie chwalić. Wybierasz jedno: nazwisko czy pseudonim. Zgłoszenie wycofujesz najpóźniej 30 dni przed ogłoszeniem wyników.</span
             >
           </li>
           <li>
@@ -1193,12 +1172,7 @@
               <circle cx="12" cy="12" r="2.6" />
             </svg>
             <span
-              ><strong>Zanim zgłosisz, sprawdź, co ujawniasz.</strong> Zgłoszona
-              rozmowa zostaje opublikowana w całości. Jeżeli jest w niej
-              rozwiązanie do opatentowania, wynik przeznaczony do pierwszej
-              publikacji naukowej, cudza tajemnica albo pomysł, który wolisz
-              zachować dla siebie - publikacja to przekreśli. Tej oceny nie
-              zrobimy za ciebie.</span
+              ><strong>Zanim zgłosisz, sprawdź, co ujawniasz.</strong> Zgłoszona rozmowa zostaje opublikowana w całości. Jeżeli jest w niej rozwiązanie do opatentowania, wynik przeznaczony do publikacji naukowej, cudza tajemnica albo pomysł, który wolisz zachować dla siebie - publikacja to przekreśli. Tej oceny nie zrobimy za ciebie.</span
             >
           </li>
         </ul>
@@ -1210,9 +1184,10 @@
           naboru.
         </p>
         <p class="sub">
-          <strong>Nabór nie jest jeszcze otwarty.</strong> Pytania o Nagrodę
-          kierujcie na
-          <a href="mailto:kontakt@konstela.org">kontakt@konstela.org</a>.
+          <strong>Nabór nie jest jeszcze otwarty.</strong> Napisz na
+          <a href="mailto:kontakt@konstela.org">kontakt@konstela.org</a>, jeśli
+          chcesz dowiedzieć się pierwszy, gdy ruszy, albo jeśli masz pytania.
+          Adres trzymamy wyłącznie po to, żeby wysłać tę jedną wiadomość.
         </p>
       </section>
 
@@ -1293,6 +1268,113 @@
               na ekranie. Szczegóły w sekcji o ścianie rozmów.
             </p>
           </article>
+        </div>
+      </section>
+
+<svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
+        <line
+          x1="0"
+          y1="11"
+          x2="118"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <line
+          x1="170"
+          y1="11"
+          x2="288"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <circle
+          cx="144"
+          cy="11"
+          r="3.5"
+          fill="none"
+          stroke="var(--brass)"
+          stroke-width="1"
+        />
+        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
+        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
+      </svg>
+
+      <section>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3.5v3M16 3.5v3"/></svg><span>Kalendarz pierwszej edycji</span></h2>
+        <dl class="purse kalendarz">
+          <div>
+            <dt>Początek 2027</dt>
+            <dd>Premiera hymnu<small>otwiera nabór</small></dd>
+          </div>
+          <div>
+            <dt>1 stycznia 2027</dt>
+            <dd>Nabór rusza<small>liczy się data rozmowy; okno rozmów to cały 2027 rok</small></dd>
+          </div>
+          <div>
+            <dt>15 stycznia 2028</dt>
+            <dd>Zamknięcie naboru<small>potem otwiera się głosowanie publiczności i trwa do gali</small></dd>
+          </div>
+          <div>
+            <dt>Marzec 2028</dt>
+            <dd>Gala i antologia<small>wyniki wszystkich trzech werdyktów tego samego wieczoru</small></dd>
+          </div>
+        </dl>
+      </section>
+
+      <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
+        <line
+          x1="0"
+          y1="11"
+          x2="118"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <line
+          x1="170"
+          y1="11"
+          x2="288"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <circle
+          cx="144"
+          cy="11"
+          r="3.5"
+          fill="none"
+          stroke="var(--brass)"
+          stroke-width="1"
+        />
+        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
+        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
+      </svg>
+
+      <section>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.3 2.7-5.2 6-5.2s6 1.9 6 5.2"/><circle cx="17.5" cy="9.5" r="2.3"/><path d="M16 14.6c3 .3 5 2.2 5 5.4"/></svg><span>Kto za tym stoi</span></h2>
+        <div class="prose">
+          <p>
+            <strong>Organizatorem jest Fundacja Konstela</strong>, powoływana
+            wyłącznie w celu prowadzenia Nagrody; jej rejestracja jest w toku i
+            zostanie zakończona przed otwarciem zgłoszeń. Fundatorem jest
+            Krzysztof Olbiński, autor koncepcji. Dane rejestrowe pojawią się
+            tutaj i w regulaminie w dniu otwarcia naboru.
+          </p>
+          <p>
+            <strong>Michał Sołtan</strong> przewodniczy jury plebiscytu na
+            piosenkę. Zawodowy muzyk z ponad dwudziestoletnim stażem:
+            kompozytor, autor tekstów, wokalista, producent i wydawca, autor
+            czterech albumów.
+          </p>
+          <p>
+            Skład <strong>Kapituły</strong> oceniającej rozmowy oraz reszta
+            jury plebiscytu są kompletowane. Ogłaszamy je wraz z sylwetkami
+            przed otwarciem naboru, a nie po rozstrzygnięciu. Praca w Kapitule
+            i w jury jest płatna - ocena kilkudziesięciu zgłoszeń przez rok to
+            robota, nie uprzejmość, a honorarium pozwala umawiać się na
+            terminy.
+          </p>
         </div>
       </section>
 
@@ -1420,6 +1502,98 @@
       </section>
 
 
+<svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
+        <line
+          x1="0"
+          y1="11"
+          x2="118"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <line
+          x1="170"
+          y1="11"
+          x2="288"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <circle
+          cx="144"
+          cy="11"
+          r="3.5"
+          fill="none"
+          stroke="var(--brass)"
+          stroke-width="1"
+        />
+        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
+        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
+      </svg>
+
+      <section>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h2.5l2-6 3 15 3-12 2 7 1.5-4H21"/></svg><span>Hymn &bdquo;Zapytaj inaczej&rdquo;</span></h2>
+        <div class="prose">
+          <p>
+            Hasło Nagrody doczekało się piosenki, która stanie się jej hymnem.
+            Poniżej dwie wersje tego samego tekstu, w których muzykę i
+            wykonanie wygenerowała AI. Sam tekst powstał tak, jak zasady
+            plebiscytu dopuszczają: z długiej rozmowy z AI o tym, czym jest
+            Konstela, zakończonej prośbą o wersję tekstu, a potem z decyzji,
+            co w niej zostaje, a co wypada. Deklarujemy to tym samym zdaniem,
+            którego wymagamy od zgłaszających. Nie nazywamy tego wersją
+            roboczą, bo nią nie jest - to dokładnie to, co dzisiaj potrafi
+            narzędzie, i to jest nasz punkt wyjścia.
+          </p>
+          <p>
+            Trzecią wersję nagrają żywi wykonawcy - jurorzy plebiscytu, o którym
+            niżej - a jej
+            premiera otworzy nabór na początku 2027 roku. Na gali zabrzmi na
+            żywo, na otwarcie i na zakończenie wieczoru. Wtedy wszystkie trzy
+            staną obok siebie i każdy będzie mógł je przesłuchać, porównać i
+            ocenić sam - usłyszeć, co dokłada człowiek wchodzący w tę samą
+            piosenkę. Ta sama różnica decyduje w Nagrodzie, tyle że tam dotyczy
+            rozmowy zamiast dźwięku.
+          </p>
+        </div>
+        <div class="songs">
+          <a
+            class="song"
+            href="https://www.youtube.com/watch?v=3_Yc4dDPB2c"
+            target="_blank"
+            rel="noopener"
+          >
+            <span class="song-note">
+              &bdquo;Zapytaj inaczej&rdquo; &middot; wersja AI 1
+            </span>
+            <img
+              src="/assets/thumbnail-1.png"
+              width="1280"
+              height="720"
+              loading="lazy"
+              alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze"
+            />
+          </a>
+          <a
+            class="song"
+            href="https://www.youtube.com/watch?v=4qjqEl7EmoU"
+            target="_blank"
+            rel="noopener"
+          >
+            <span class="song-note">
+              &bdquo;Zapytaj inaczej&rdquo; &middot; wersja AI 2
+            </span>
+            <img
+              src="/assets/thumbnail-2.png"
+              width="1280"
+              height="720"
+              loading="lazy"
+              alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie"
+            />
+          </a>
+        </div>
+      </section>
+
       <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
         <line
           x1="0"
@@ -1450,7 +1624,7 @@
       </svg>
 
       <section>
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Plebiscyt na piosenkę</span></h2>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Plebiscyt na piosenkę o sztucznej inteligencji</span></h2>
         <div class="prose">
           <p>
             Rynek muzyczny zmienia się pod wpływem sztucznej inteligencji
@@ -1493,62 +1667,7 @@
         </div>
       </section>
 
-      <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
-        <line
-          x1="0"
-          y1="11"
-          x2="118"
-          y2="11"
-          stroke="var(--rule)"
-          stroke-width="1"
-        />
-        <line
-          x1="170"
-          y1="11"
-          x2="288"
-          y2="11"
-          stroke="var(--rule)"
-          stroke-width="1"
-        />
-        <circle
-          cx="144"
-          cy="11"
-          r="3.5"
-          fill="none"
-          stroke="var(--brass)"
-          stroke-width="1"
-        />
-        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
-        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
-      </svg>
-
-      <section>
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.3 2.7-5.2 6-5.2s6 1.9 6 5.2"/><circle cx="17.5" cy="9.5" r="2.3"/><path d="M16 14.6c3 .3 5 2.2 5 5.4"/></svg><span>Kto za tym stoi</span></h2>
-        <div class="prose">
-          <p>
-            <strong>Organizatorem jest Fundacja Konstela</strong>, powoływana
-            wyłącznie w celu prowadzenia Nagrody; jej rejestracja jest w toku i
-            zostanie zakończona przed otwarciem zgłoszeń. Fundatorem jest
-            Krzysztof Olbiński, autor koncepcji. Dane rejestrowe pojawią się
-            tutaj i w regulaminie w dniu otwarcia naboru.
-          </p>
-          <p>
-            <strong>Michał Sołtan</strong> przewodniczy jury plebiscytu na
-            piosenkę. Zawodowy muzyk z ponad dwudziestoletnim stażem:
-            kompozytor, autor tekstów, wokalista, producent i wydawca, autor
-            czterech albumów.
-          </p>
-          <p>
-            Skład <strong>Kapituły</strong> oceniającej rozmowy oraz reszta
-            jury plebiscytu są kompletowane. Ogłaszamy je wraz z sylwetkami
-            przed otwarciem naboru, a nie po rozstrzygnięciu. Praca w Kapitule
-            i w jury jest płatna - ocena kilkudziesięciu zgłoszeń przez rok to
-            robota, nie uprzejmość, a honorarium pozwala umawiać się na
-            terminy.
-          </p>
-        </div>
-      </section>
-      <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
+<svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
         <line
           x1="0"
           y1="11"
@@ -1634,96 +1753,6 @@
         </div>
       </section>
 
-<svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
-        <line
-          x1="0"
-          y1="11"
-          x2="118"
-          y2="11"
-          stroke="var(--rule)"
-          stroke-width="1"
-        />
-        <line
-          x1="170"
-          y1="11"
-          x2="288"
-          y2="11"
-          stroke="var(--rule)"
-          stroke-width="1"
-        />
-        <circle
-          cx="144"
-          cy="11"
-          r="3.5"
-          fill="none"
-          stroke="var(--brass)"
-          stroke-width="1"
-        />
-        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
-        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
-      </svg>
-
-      <section>
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h2.5l2-6 3 15 3-12 2 7 1.5-4H21"/></svg><span>Zapytaj inaczej</span></h2>
-        <div class="prose">
-          <p>
-            Hasło Nagrody doczekało się piosenki, która stanie się jej hymnem.
-            Poniżej dwie wersje tego samego tekstu, w których muzykę i
-            wykonanie wygenerowała AI. Sam tekst powstał tak, jak zasady
-            plebiscytu dopuszczają: z długiej rozmowy z AI o tym, czym jest
-            Konstela, zakończonej prośbą o wersję tekstu, a potem z decyzji,
-            co w niej zostaje, a co wypada. Deklarujemy to tym samym zdaniem,
-            którego wymagamy od zgłaszających. Nie nazywamy tego wersją
-            roboczą, bo nią nie jest - to dokładnie to, co dzisiaj potrafi
-            narzędzie, i to jest nasz punkt wyjścia.
-          </p>
-          <p>
-            Trzecią wersję nagrają żywi wykonawcy, jurorzy plebiscytu, a jej
-            premiera otworzy nabór na początku 2027 roku. Na gali zabrzmi na
-            żywo, na otwarcie i na zakończenie wieczoru. Wtedy wszystkie trzy
-            staną obok siebie i każdy będzie mógł je przesłuchać, porównać i
-            ocenić sam - usłyszeć, co dokłada człowiek wchodzący w tę samą
-            piosenkę. Ta sama różnica decyduje w Nagrodzie, tyle że tam dotyczy
-            rozmowy zamiast dźwięku.
-          </p>
-        </div>
-        <div class="songs">
-          <a
-            class="song"
-            href="https://www.youtube.com/watch?v=3_Yc4dDPB2c"
-            target="_blank"
-            rel="noopener"
-          >
-            <span class="song-note">
-              &bdquo;Zapytaj inaczej&rdquo; &middot; wersja AI 1
-            </span>
-            <img
-              src="/assets/thumbnail-1.png"
-              width="1280"
-              height="720"
-              loading="lazy"
-              alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze"
-            />
-          </a>
-          <a
-            class="song"
-            href="https://www.youtube.com/watch?v=4qjqEl7EmoU"
-            target="_blank"
-            rel="noopener"
-          >
-            <span class="song-note">
-              &bdquo;Zapytaj inaczej&rdquo; &middot; wersja AI 2
-            </span>
-            <img
-              src="/assets/thumbnail-2.png"
-              width="1280"
-              height="720"
-              loading="lazy"
-              alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie"
-            />
-          </a>
-        </div>
-      </section>
 
       <footer>
         <div class="foot-left">
