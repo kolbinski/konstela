@@ -39,12 +39,13 @@
     '  font-size: 1.0625rem; line-height: 1.65; font-weight: 400;',
     '}',
     '.lewo p { margin: 0; }',
-    'nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.55rem; }',
+    /* Lista zawsze do lewej. Przy pełnych nazwach dokumentów kolumna linków
+       i tak nie mieści się obok bloku kontaktowego i schodzi pod niego -
+       wyrównanie do prawej zostawiało wtedy ragged left i pusty pas przy
+       krawędzi strony. */
+    'nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.3rem; }',
     'a { color: var(--brass, #8a6a23); text-decoration: none; font-weight: 400; }',
     'a:hover, a:focus-visible { text-decoration: underline; }',
-    '@media (min-width: 560px) {',
-    '  nav { align-items: flex-end; text-align: right; }',
-    '}',
     '@media print {',
     '  .belka { border-color: #ccc; color: #000; }',
     '  a { color: #000; }',
