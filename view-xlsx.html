@@ -640,12 +640,12 @@
       // przez DecompressionStream('deflate-raw'), XML przez DOMParser.
       const el = document.getElementById('content');
       // Dwie równoważne postacie adresu:
-      //   /xls/budzet-edycji-pierwszej      - przepisywana regułą w Cloudflare
+      //   /arkusz/budzet-edycji-pierwszej   - przepisywana regułą w Cloudflare
       //   /view-xlsx.html?file=budzet-...   - postać pierwotna, linki już poszły
       const params = new URLSearchParams(location.search);
       let raw = (params.get('file') || '').trim();
       if (!raw) {
-        const fromPath = location.pathname.match(/^\/xls\/(.+?)\/?$/);
+        const fromPath = location.pathname.match(/^\/arkusz\/(.+?)\/?$/);
         if (fromPath) {
           try {
             raw = decodeURIComponent(fromPath[1]).trim();
@@ -850,9 +850,9 @@
       }
 
       if (!raw) {
-        state('Nie wskazano arkusza', 'Poprawny adres: /xls/budzet-edycji-pierwszej');
+        state('Nie wskazano arkusza', 'Poprawny adres: /arkusz/budzet-edycji-pierwszej');
       } else if (/\.xlsx$/i.test(raw)) {
-        state('Nieprawidłowy adres', 'Pomiń końcówkę .xlsx - poprawnie: /xls/' + raw.replace(/\.xlsx$/i, ''));
+        state('Nieprawidłowy adres', 'Pomiń końcówkę .xlsx - poprawnie: /arkusz/' + raw.replace(/\.xlsx$/i, ''));
       } else if (!/^[\w-]+(?:\/[\w-]+)*$/.test(raw)) {
         state('Nieprawidłowy adres', '');
       } else if (typeof DecompressionStream === 'undefined') {
