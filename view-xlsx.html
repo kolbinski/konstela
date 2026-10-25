@@ -275,7 +275,6 @@
       }
 
       .masthead {
-        max-width: var(--max-w);
         margin: 0 auto;
         padding: 1.5rem 0 1.25rem;
         border-bottom: 1px solid var(--line);
@@ -323,7 +322,7 @@
       }
 
       #content {
-        max-width: var(--max-w);
+        /* Strona arkusza nie ma kolumny tekstu - tabela ma być szeroka. */
         margin: 0 auto;
         padding: 2.5rem 0 5rem;
         opacity: 0;
@@ -569,6 +568,10 @@
       .tabs button[aria-current='true'] {
         color: var(--brass);
         border-color: var(--brass);
+      }
+      /* Wspólna stopka ogranicza się do --max-w; tutaj ma iść przez całą stronę. */
+      konstela-stopka {
+        --max-w: none;
       }
       .sheet-wrap {
         overflow-x: auto;
