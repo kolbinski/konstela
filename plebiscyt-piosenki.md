@@ -44,7 +44,7 @@ Weryfikacja nie opiera się na tym, że jury rozpozna generator po odsłuchu, bo
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
-| Ujęcie tematu | 25 | Oryginalność i konkretność spojrzenia na życie z AI; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat |
+| Ujęcie&nbsp;tematu | 25 | Oryginalność i konkretność spojrzenia na życie z AI; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat |
 | Tekst | 30 | Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką |
 | Muzyka | 25 | Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w głowie |
 | Wykonanie | 20 | Wokal i interpretacja |
@@ -185,11 +185,13 @@ Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu.
 
 ## <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3.5 6.5 8.5 6 8.5-6"/></svg><span>Kontakt</span>
 
-**plebiscyt@konstela.org** - Krzysztof Olbiński, organizator.
+Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt@konstela.org**.
 
-**Pytania i współpraca.** Wykonawcy, wydawnictwa, sponsorzy, media. Odpowiadamy osobiście i mówimy wprost, na jakim etapie jest sprawa.
+Napisz, jeśli:
 
-**Powiadomienie o rozpoczęciu plebiscytu.** Napisz, jeśli chcesz dowiedzieć się pierwszy, gdy ruszy nabór. Adres trzymamy wyłącznie po to, żeby wysłać tę jedną wiadomość, i nie robimy z niego niczego innego; zrezygnować można w każdej chwili, jednym zdaniem.
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adres trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem;
+- **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia;
+- **reprezentujesz wydawnictwo, sponsora albo redakcję** i chcesz porozmawiać o współpracy.
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
