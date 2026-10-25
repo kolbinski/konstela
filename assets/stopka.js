@@ -16,9 +16,9 @@
 
   var LINKI = [
     ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
-    ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/dokument/regulamin', 'Regulamin konkursu na najlepszą rozmowę z AI'],
     ['/dokument/karta-oceny', 'Karta oceny w konkursie na najlepszą rozmowę z AI'],
+    ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/#partnerzy', 'Dla partnerów'],
   ];
 
