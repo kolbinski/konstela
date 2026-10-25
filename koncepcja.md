@@ -559,7 +559,7 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 
 - [ ] **Przywrócić na stronie informację o statusie naboru.** Notka "Trwają przygotowania, nabór jeszcze nie został otwarty" została z nagłówka usunięta 20.10.2026, bo strony i tak nikt nie zna przed pozyskaniem sponsorów. Informacja została wyłącznie na końcu sekcji "Jak i kiedy zgłosić". **Przed pierwszym wysłaniem komukolwiek linku** trzeba ją przywrócić wyżej albo zastąpić komunikatem o otwartym naborze - zależnie od momentu.
 - [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 18 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
-- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](/dokument/karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
+- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](/dokument/dokument/karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
 - [ ] **Warstwa dydaktyczna antologii**: komentarz wprowadzający przed rozmową, komentarze na marginesie w konkretnych momentach, komentarz końcowy. Pełny dialog bez montażu zostaje.
 - [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
 - [x] **Styk zgody z licencją** - rozstrzygnięty w § 11 ust. 5-8 i w polityce prywatności (19.10.2026): do ogłoszenia wyników usunięcie zgłoszenia, po publikacji anonimizacja.
