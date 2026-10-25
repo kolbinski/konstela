@@ -16,7 +16,12 @@ marked.setOptions({ gfm: true, breaks: true });
 
       let raw = (params.get('file') || '').trim();
       if (!raw) {
-        const sciezka = window.location.pathname.replace(/\/+$/, '') || '/';
+        // /plebiscyt-piosenki, /plebiscyt-piosenki/ oraz
+        // /plebiscyt-piosenki/index.html mają prowadzić do tego samego
+        const sciezka =
+          window.location.pathname
+            .replace(/\/index\.html?$/i, '')
+            .replace(/\/+$/, '') || '/';
         if (DEDYKOWANE[sciezka]) {
           raw = DEDYKOWANE[sciezka];
         } else {
