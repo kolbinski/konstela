@@ -808,7 +808,7 @@ Osobna, otwarta kategoria: uczestnik przesyła **jedno pytanie**, które zadał 
 
 **Czego to nie rozwiązuje.** Nie zastępuje konkursu głównego i nie jest jego uproszczoną wersją: jedno pytanie nie pokazuje drążenia ani weryfikacji, czyli dwóch z czterech kryteriów. To jest brama wejściowa, nie druga nagroda.
 
-### „Pierwszy raz" - format odcinka podcastu
+### „Pierwszy raz z AI" - format odcinka podcastu
 
 Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie rozmawiał**, i pyta nie o wrażenia, tylko o to, co ta osoba chciała wiedzieć. Osiemdziesięciolatka, rybak, zakonnica, komornik.
 

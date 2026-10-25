@@ -202,7 +202,7 @@ Przez cały rok naboru ukazuje się podcast Nagrody: **dwadzieścia cztery odcin
 
 **Dwa stałe cykle.**
 
-„**Pierwszy raz**" - rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. Teza do sprawdzenia: najlepsze pytania zadają ludzie mający prawdziwy problem, a nie ci, którzy znają narzędzie.
+„**Pierwszy raz z AI**" - rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. Teza do sprawdzenia: najlepsze pytania zadają ludzie mający prawdziwy problem, a nie ci, którzy znają narzędzie.
 
 „**NAIstolatek**" - odcinki nagrywane z nastolatkami, o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją.
 
