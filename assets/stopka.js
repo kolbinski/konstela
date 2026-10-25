@@ -15,6 +15,7 @@
   'use strict';
 
   var LINKI = [
+    ['/', 'Nagroda Konstela'],
     ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
     ['/dokument/regulamin', 'Regulamin konkursu na najlepszą rozmowę z AI'],
     ['/dokument/karta-oceny', 'Karta oceny w konkursie na najlepszą rozmowę z AI'],
