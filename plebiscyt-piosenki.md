@@ -10,12 +10,12 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 
 **Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną działalność artystyczną - tych, którzy grają, śpiewają i piszą po swojemu, a nie są jeszcze gwiazdami. Nie pytamy o zasięgi, o dorobek ani o to, czy masz kontrakt.
 
-**W skrócie:**
+**Jak to przebiega, w skrócie:**
 
 - zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą;
-- jury wybiera **dziesięciu finalistów**;
-- **nagranie studyjne finalistów finansuje organizator**, a prawa do nagrań zostają przy autorach;
-- **trzy najlepsze utwory dostają nagrody pieniężne**;
+- jury przesłuchuje wszystkie zgłoszenia i wybiera **dziesięciu finalistów**;
+- każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim;
+- **trzy najwyżej ocenione utwory** dostają nagrody pieniężne i są wykonywane na żywo na gali;
 - nabór planujemy na początek 2027 roku, po zabezpieczeniu finansowania.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="9.5" r="5.5"/><path d="M9.6 14.4 8 21l4-2.2L16 21l-1.6-6.6"/><path d="m10.6 9.3 1 1.1 2-2.4"/></svg><span>O czym jest Nagroda Konstela</span>
@@ -24,7 +24,7 @@ Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy z
 
 Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 21V3"/><path d="M6 4.5h12l-2.8 3.6L18 11.7H6"/></svg><span>Na jakim to jest etapie</span>
+## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 21V3"/><path d="M6 4.5h12l-2.8 3.6L18 11.7H6"/></svg><span>Na jakim etapie jest plebiscyt</span>
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nie ma zabezpieczonych pieniędzy na nagrody, a konkursu z nagrodami, których nie ma, nie ogłaszamy.
 
@@ -32,7 +32,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c0-3.6 2.9-6 6.5-6 .9 0 1.8.2 2.6.5"/><path d="m15 17.5 2 2 4-4.5"/></svg><span>Kto i co może zgłosić</span>
 
-**Pełne zasady są w regulaminie:** [regulamin plebiscytu](/dokument/regulamin-plebiscytu). Publikujemy go przed ogłoszeniem, tak samo jak kartę oceny, zamiast obiecywać zasady na później. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy wprost, które to miejsca. Regulamin wchodzi w życie dopiero w dniu otwarcia naboru i wtedy przestaje być projektem. Poniżej to, co najważniejsze.
+**Pełne zasady są w regulaminie:** [regulamin plebiscytu](/dokument/regulamin-plebiscytu). Publikujemy go przed ogłoszeniem, tak samo jak kartę oceny, zamiast obiecywać zasady na później. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy wprost, które to miejsca. Regulamin wchodzi w życie w dniu otwarcia naboru. Poniżej to, co najważniejsze.
 
 **Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna. Zgoda jest rozbita na cztery osobne rzeczy - licencję, odbiór nagrody, udział w nagraniu studyjnym i udział w gali - i brak zgody na jedną z nich nie wyklucza z konkursu, a jedynie z tej jednej rzeczy.
 
@@ -45,33 +45,33 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 - utwór **nie był wcześniej wydany komercyjnie** - publikacja na własnym kanale wydaniem nie jest i niczego nie blokuje, chodzi o rzeczy wydane przez wydawcę albo dystrybutora;
 - link do nagrania **działa przez cały czas trwania oceny**.
 
-**Wystarczy czytelne demo.** Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator. Jury dostaje przy tym wyraźne wskazanie, że ocenia utwór i wykonanie, a nie budżet realizacji.
+**Wystarczy czytelne demo.** Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator.
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak się zgłasza</span>
+## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak możesz się zgłosić</span>
 
-**Przesyłasz link do nagrania na YouTube, nie plik.** Dzięki temu nie ma transferu wielkich plików, a Ty zachowujesz kontrolę nad tym, co publikujesz. Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
+**Przesyłasz link do nagrania na YouTube, nie plik.** Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
-**Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS, tak samo jak przy zgłaszaniu rozmów. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń, bo w muzyce granie u kilku osób naraz jest normą, a nie nadużyciem. Pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta - przyjmujemy to świadomie, bo alternatywą byłoby dociekanie, kto z kim tworzy projekt.
+**Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń, bo w muzyce granie u kilku osób naraz jest normą, a nie nadużyciem. Pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta.
 
 **Zgłoszenie zespołowe wskazuje jedną osobę reprezentującą cały skład.** Ona składa zgłoszenie i prowadzi korespondencję, a sposób podziału nagrody pozostaje sprawą zgłaszających - organizator wypłaca ją w całości reprezentantowi i w podział się nie wtrąca.
 
-**Zgłoszenia prezentowane są na stronie Nagrody w miarę, jak napływają.**
+**Zgłoszenia pokazujemy na stronie w miarę, jak napływają.**
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.5 6h11M9.5 12h11M9.5 18h11"/><path d="m3.2 5.3 1.1 1.2 2.2-2.4M3.2 11.3l1.1 1.2 2.2-2.4M3.2 17.3l1.1 1.2 2.2-2.4"/></svg><span>Zasady: melodia, tekst i AI</span>
 
-**Melodia i głos są ludzkie, tekst wolno napisać z AI.** To nie jest konkurs na abstynencję od sztucznej inteligencji - Konstela jest o świadomym życiu z nią, nie o udawaniu, że jej nie ma.
+**Melodia i głos są ludzkie, tekst wolno napisać z AI.** To nie jest konkurs na abstynencję od sztucznej inteligencji - rzecz jest o świadomym życiu z nią, nie o udawaniu, że jej nie ma.
 
 **Melodia, harmonia i wokal muszą być Twoje.** Niedozwolone jest zgłoszenie melodii lub harmonii przejętej z wygenerowanego nagrania - odsłuchanej i spisanej, przerobionej, przyspieszonej czy przeharmonizowanej. Dozwolone i niewymagające deklaracji jest używanie generatora do szukania klimatu i sprawdzania pomysłów, zanim napiszesz własne. Nikt nie zabroni Ci słuchać; zakaz dotyczy pochodzenia tego, co zgłaszasz. Partia wokalna w całości ludzka, bez wyjątków.
 
-**Tekst wolno napisać z AI, trzeba tylko powiedzieć jak.** Jeżeli przegadałeś z AI parę godzin temat, poprosiłeś na koniec o wersję tekstu i potem przepisałeś ją po swojemu - to jest dozwolone i jest to dokładnie ta praca, którą Nagroda Konstela mierzy w głównym konkursie. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja służy jawności i weryfikacji, nie punktacji. Tekst napisany z AI i tekst napisany bez niej idą do oceny na tych samych zasadach. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
+**Tekst wolno napisać z AI, trzeba tylko powiedzieć jak.** Jeżeli przegadałeś z AI parę godzin temat, poprosiłeś na koniec o wersję tekstu i potem przepisałeś ją po swojemu - to jest dozwolone. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja służy jawności, nie punktacji. Tekst napisany z AI i tekst napisany bez niej idą do oceny na tych samych zasadach. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
 
 Narzędzia wolno też używać **na etapie produkcji i obróbki**: korekta wysokości dźwięku, usuwanie szumu, separacja śladów, mastering, pomoc w brzmieniu. Przy zgłoszeniu deklaruje się, czego i do czego użyto.
 
-Weryfikacja nie opiera się na tym, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
+**Jak to sprawdzamy.** Nie na zasadzie, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1"/><rect x="13.5" y="3.5" width="7" height="7" rx="1"/><rect x="3.5" y="13.5" width="7" height="7" rx="1"/><rect x="13.5" y="13.5" width="7" height="7" rx="1"/></svg><span>Co ocenia jury</span>
 
-Cztery kryteria, każde osobno. Kartę publikujemy już teraz, zamiast obiecywać kryteria na później, bo cała Nagroda stoi na tym, że wiadomo z góry, według czego się ocenia. **Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
+Cztery kryteria, każde osobno. Kartę publikujemy już teraz, zamiast obiecywać kryteria na później. **Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
@@ -83,23 +83,25 @@ Cztery kryteria, każde osobno. Kartę publikujemy już teraz, zamiast obiecywa�
 
 Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie. Wykonanie ma najniższą celowo: skoro przyjmujemy dema, nie możemy wysoko ważyć czegoś, co zależy od tego, czy ktoś nagrywał w studiu, czy telefonem.
 
-**Czego nie oceniamy: jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.** To jest ta sama zasada, na której stoi konkurs główny, gdzie oceniane są pytania człowieka, a nie odpowiedzi sztucznej inteligencji.
+**Czego nie oceniamy: jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8" cy="8.5" r="2.6"/><circle cx="16" cy="8.5" r="2.6"/><path d="M3.5 18.5c0-2.5 2-4.3 4.5-4.3s4.5 1.8 4.5 4.3"/><path d="M14 18.5c0-2.5 1.7-4.3 4.2-4.3.8 0 1.6.2 2.3.5"/></svg><span>Jury i tryb oceny</span>
 
-**Zwycięzcę wybiera jury, nie głosowanie.** Powód jest ten sam, dla którego cała Nagroda ocenia według jawnych kryteriów, a nie według popularności: przy głosowaniu wygrywa największy zasięg, a nie najlepsza piosenka. Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który ten plebiscyt zaproponował.
+**Jury przesłuchuje wszystkie zgłoszenia i wybiera dziesięciu finalistów, a spośród nich ustala kolejność trzech najwyżej ocenionych utworów.** Werdykt należy do jury, nie do głosowania publiczności - przy głosowaniu wygrywa największy zasięg, a nie najlepsza piosenka.
 
-**Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Tryb oceny dobierzemy do liczby zgłoszeń i do przepustowości uzgodnionej z jurorami, a gdyby zgłoszeń było tyle, że jury nie przesłucha wszystkiego rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury; żadnych innych kryteriów nie ma i nie będzie. Czy Akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy to przed otwarciem naboru**, a nie po nim. Zasady wyłaniania finalistów dopisane w trakcie podważałyby jawność całej reszty.
+Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który ten plebiscyt zaproponował.
+
+**Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Gdyby jednak zgłoszeń było tyle, że nie da się tego zrobić rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury; żadnych innych kryteriów nie ma i nie będzie. Czy Akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy przed otwarciem naboru**, nie po nim.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3.5h8v5.5a4 4 0 0 1-8 0z"/><path d="M8 5H5.5v1.5a3 3 0 0 0 3 3M16 5h2.5v1.5a3 3 0 0 1-3 3"/><path d="M12 13.5V16"/><path d="M9.2 20.5h5.6l-.7-4.5h-4.2z"/></svg><span>Nagrody</span>
 
-**Nagrody pieniężne dla czołowej trójki**, dwie nagrody publiczności oraz statuetki. Wysokość podamy przy ogłoszeniu naboru i podamy wyłącznie te kwoty, które wcześniej wpłynęły na konto organizatora.
+**Nagrody pieniężne dla trzech najwyżej ocenionych utworów**, dwie nagrody publiczności oraz statuetki. Wysokość podamy przy ogłoszeniu naboru.
 
-**Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS - bez tego wygrywałby ten, kto ma znajomego programistę.
+**Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS.
 
-**Nagranie studyjne dla całej dziesiątki.** Osobno od pieniędzy: dziesięć najwyżej ocenionych utworów zostanie nagranych profesjonalnie w studiu, a nagrania mają ukazać się na **płycie wydanej przez wydawnictwo-partnera**. Płyta jest dla plebiscytu tym, czym antologia dla konkursu głównego: nie zdjęciem rękopisu, lecz porządnym wydaniem tego samego.
+**Nagranie studyjne dla każdego z dziesięciu finalistów.** Osobno od pieniędzy: wszystkie utwory finałowej dziesiątki zostaną nagrane profesjonalnie w studiu na koszt organizatora, a nagrania mają ukazać się na **płycie wydanej przez wydawnictwo-partnera**.
 
-**Koszt nagrań jest pozycją w budżecie konkursu, zabezpieczaną razem z nagrodami** - nie zależy więc od tego, czy znajdzie się wydawnictwo, ale od tego, czy konkurs w ogóle wystartuje. Wydawnictwo-partner nie jest jeszcze wybrane; bez niego powstają nagrania, lecz nie powstaje wydanie płytowe.
+Wydawnictwo nie jest jeszcze wybrane. **Nagrania powstaną niezależnie od tego, czy się znajdzie** - bez niego nie powstanie tylko płyta.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4.4-2.9 7.6-7 9-4.1-1.4-7-4.6-7-9V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></svg><span>Prawa do Twojej piosenki</span>
 
@@ -107,13 +109,13 @@ Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, 
 
 **Nagranie studyjne też zostaje Twoje.** Finansujemy je, ale nie zostawiamy sobie do niego praw i nie bierzemy procentu od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody.
 
-Nagroda potrzebuje prawa **niewyłącznego** i w trzech konkretnych zakresach, które wypisujemy, zamiast zasłaniać się ogólnym „prezentacja": prezentacja zgłoszenia na stronie Nagrody w czasie naboru; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, zakres wydania jest osobną sprawą i osobną umową między Tobą a wydawnictwem - Nagroda nie jest tu pośrednikiem.
+Potrzebujemy od Ciebie prawa **niewyłącznego** i w trzech konkretnych zakresach, które wypisujemy, zamiast zasłaniać się ogólnym „prezentacja": pokazanie zgłoszenia na tej stronie w czasie naboru; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, zakres wydania jest osobną sprawą i osobną umową między Tobą a wydawnictwem - my nie jesteśmy tu pośrednikiem.
 
 **Co obejmie nagranie finalisty - ustalamy przed naborem.** Liczba sesji i poprawek, to, czy dostajesz sam gotowy master, czy również ślady, oraz kto zatwierdza aranżację. Zakres ogłosimy razem z regulaminem, bo przy różnym instrumentarium znaczy on co innego dla solisty, a co innego dla zespołu.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.2 14 9l5.8 2-5.8 2-2 5.8L10 13l-5.8-2L10 9z"/></svg><span>Gala</span>
 
-Plebiscyt kończy się na tej samej gali co Nagroda za rozmowę. **Trzy najwyżej ocenione utwory wykonywane są na żywo**, a hymn Nagrody otwiera i zamyka wieczór. Nazwiska pozostałych finalistów są odczytywane, a wszystkie zgłoszenia żyją na stronie przez cały rok naboru.
+Plebiscyt kończy się na tej samej gali co Nagroda Konstela za rozmowę ze sztuczną inteligencją. **Trzy najwyżej ocenione utwory wykonywane są na żywo**, a hymn Nagrody otwiera i zamyka wieczór. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 
 **Udział w gali jest obowiązkiem czołowej trójki**, bo to ona wykonuje utwory na żywo. **Dojazd i nocleg całej dziesiątki finalistów pokrywa organizator.** Nieobecność z powodu choroby albo zdarzenia losowego nie pozbawia nikogo nagrody.
 
@@ -124,7 +126,7 @@ Plebiscyt nie jest jeszcze ogłoszony, więc poniższe terminy są planem, a nie
 | | |
 |---|---|
 | Otwarcie naboru | początek 2027, po zabezpieczeniu finansowania |
-| Zamknięcie naboru | styczeń 2028 |
+| Zamknięcie naboru | 31 grudnia 2027 |
 | Gala i rozstrzygnięcie | marzec 2028 |
 | Nagrania studyjne finalistów | po rozstrzygnięciu, termin do ustalenia z producentem |
 
@@ -138,9 +140,9 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych słów. In
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Hymn Nagrody „Zapytaj inaczej"</span>
 
-Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują jurorzy i oni go nagrywają** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi. Termin nagrania i premiery zależy od zabezpieczenia środków na produkcję; na gali w 2028 roku hymn wykonywany jest na żywo.
+Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują jurorzy i oni go nagrywają** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi. Termin nagrania i premiery zależy od zabezpieczenia środków na produkcję; na gali hymn wykonywany jest na żywo.
 
-**Dwie wersje AI, trzecia ludzka.** Zaczynamy od punktu, w którym dziś stoi każdy. Muzykę i wykonanie wygenerował suno.com. Tekst powstał tak, jak zasady tego plebiscytu dopuszczają: z wielogodzinnej rozmowy z AI o tym, czym jest Konstela, zakończonej prośbą o wersję tekstu - a potem z naszych decyzji, co w niej zostaje, a co wypada. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywamy ich demem ani materiałem roboczym, bo nim nie są - to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
+**Dwie wersje AI, trzecia ludzka.** Zaczynamy od punktu, w którym dziś stoi każdy. Muzykę i wykonanie wygenerował suno.com. Tekst powstał tak, jak zasady tego plebiscytu dopuszczają: z wielogodzinnej rozmowy z AI zakończonej prośbą o wersję tekstu, a potem z naszych decyzji, co w niej zostaje, a co wypada. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywamy ich demem ani materiałem roboczym, bo nim nie są - to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
 
 Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym samym miejscu, w którym oni je napiszą. Hymn stoi poza konkursem, ale nie poza zasadami.
 
@@ -164,8 +166,6 @@ Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym 
 Wkrótce dojdzie trzecia wersja: **te same słowa z nową muzyką**, skomponowaną i nagraną przez jurorów plebiscytu. Melodia powstaje od zera, a nie z przejęcia tej z generatora - czyli dokładnie tak, jak wymagamy od zgłaszających. Wtedy wszystkie trzy staną obok siebie na tej stronie i każdy będzie mógł je przesłuchać, porównać i ocenić sam.
 
 I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby postawić obok siebie trzy opracowania tych samych słów i posłuchać, czym się różnią - bo różnić się będą nie tylko autorstwem melodii, ale też aranżacją, wykonaniem i nakładem pracy. Każdy oceni sam, co z tego wynika.
-
-Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu.
 
 <span id="tekst-zapytaj-inaczej"></span>
 

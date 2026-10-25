@@ -459,3 +459,5 @@ Strona miała sekcję "Jak to ma działać" długą na czterdzieści trzy wiersz
 **Hymn scalony z dwóch sekcji w jedną.** Zajmował dwa nagłówki i około czterdziestu procent strony o cudzych piosenkach.
 
 **Paragraf z linkiem do regulaminu** przeniesiony z "Na jakim to jest etapie" na początek "Kto i co może zgłosić", czyli do pierwszej sekcji z zasadami.
+
+**Redakcja strony, 25.10.2026 wieczorem.** Zamknięcie naboru przesunięte na **31 grudnia 2027** - poprawione też w § 4 ust. 3 regulaminu plebiscytu. Zdefiniowana finałowa dziesiątka: sekcja "Jury i tryb oceny" mówi teraz wprost, że jury przesłuchuje wszystko, wybiera dziesięciu finalistów i ustala kolejność trójki - wcześniej "dziesiątka" pojawiała się w Nagrodach bez definicji. Usunięte odesłania do konkursu głównego wszędzie poza sekcją o Nagrodzie i zdaniem o wspólnej gali: plebiscyt jest adresowany do piosenkarzy, którym do zgłoszenia nie jest potrzebna wiedza o nagrodzie za rozmowę. Usunięte zdania opisujące nasze powody zamiast informować czytelnika - między innymi porównanie płyty do antologii, uzasadnienie kodu SMS i zastrzeżenie o kwotach, które wpłynęły na konto.
