@@ -1,6 +1,6 @@
 # Konsultacja prawna - lista adresatów i notatki
 
-Zapytanie o wycenę wysłane **22.10.2026** do pięciu kancelarii. Temat: „Zapytanie o wycenę: regulamin, RODO i licencje nagrody ogólnopolskiej". Bez załączników - w treści dwa odnośniki, do [zakresu konsultacji](view.html?file=prawnik) i do [regulaminu](view.html?file=regulamin).
+Zapytanie o wycenę wysłane **22.10.2026** do pięciu kancelarii. Temat: „Zapytanie o wycenę: regulamin, RODO i licencje nagrody ogólnopolskiej". Bez załączników - w treści dwa odnośniki, do [zakresu konsultacji](/dokument/prawnik) i do [regulaminu](/dokument/regulamin).
 
 O co poproszono: wycenę, wskazanie, które obszary rzeczywiście wymagają analizy, a które da się zamknąć jednym akapitem, oraz potwierdzenie, czy kancelaria podejmie się sprawy w terminie. Zaznaczono, że cztery obszary muszą zostać rozstrzygnięte do końca listopada, bo od nich zależy treść statutu fundacji i otwarcie naboru 1 stycznia 2027.
 
@@ -28,3 +28,19 @@ Oceny dopasowania pochodzą wyłącznie z tego, co kancelarie deklarują na wła
 ## Odpowiedzi
 
 (uzupełniać w miarę napływania: data, osoba, kwota, zakres, termin realizacji)
+
+## Odpowiedź ByteLaw na pytania o wycenę (24.10.2026)
+
+**Przyjęta konstrukcja cenowa:** 4000 zł netto za pierwotny zakres plus **700 zł netto za weryfikację statutu**, a przy tym zleceniu odpowiedzi na dodatkowe pytania 18-22 wchodzą w pierwotną kwotę. Wariant bez statutu to 4000 plus 300 zł za te pytania. Różnica nominalna 700 zł, ale faktyczny koszt analizy statutu wynosi **400 zł**, bo w wariancie z nią nie płacimy 300 zł za pytania. Za przegląd dokumentu założycielskiego przed notariuszem to tanio, a wadliwy statut oznacza powtórny akt notarialny i powtórną taksę. **Wybrany wariant: ze statutem.**
+
+**Termin:** węższy zakres statutowy do końca października, czyli przed wizytą u notariusza na początku listopada. Poproszono o potwierdzenie tego terminu na piśmie.
+
+**Zakres analizy statutu:** organy fundacji, reprezentacja, działalność gospodarcza, wyłączenia z udziału w konkursie. Kwota funduszu założycielskiego, jego część na działalność gospodarczą i kody PKD 2025 zostają po stronie GCOP, zgodnie z tym, co napisano w zapytaniu.
+
+**Rada udzielona od razu, bezpłatnie:** w § 11 zostawić ustępy 1 i 3, usunąć ustęp 2 jako zbędny.
+
+**Nasza uwaga do tej rady, zgłoszona w odpowiedzi:** ustęp 3 odwołuje się wprost do „partnera w rozumieniu ust. 2", więc po usunięciu ustępu 2 traci punkt odniesienia. Diagnoza kancelarii jest przy tym prawdopodobnie słuszna - statut nie musi stwierdzać, że regulamin może pójść dalej, bo regulamin może to zrobić i tak. Treść ustępu 3 jest natomiast potrzebna: chroni udział pracowników, studentów i doktorantów instytucji patronujących, co ma znaczenie przy patronatach ministerstw i przy Uczniowskiej Akademii. Poproszono o brzmienie samodzielne albo o wskazanie, że ta treść też należy do regulaminu, nie do statutu. **Do czasu odpowiedzi nie ruszać § 11.**
+
+**Polityka prywatności:** kancelaria potwierdziła, że uwzględni cztery rozstrzygnięcia z zapytania - skrót numeru telefonu liczony z kluczem tajnym wraz z zastrzeżeniem, że nie jest to anonimizacja; pięcioletnie przechowywanie danych laureatów od zatwierdzenia sprawozdania; hosting u GitHub, Inc.; tryb usuwania zgłoszeń po edycji. **Dołożone w odpowiedzi, przed rozpoczęciem ich pracy:** zgoda marketingowa na powiadomienia o nowych materiałach, odrębna od zgłoszenia, oraz przetwarzanie numerów telefonu osób głosujących w plebiscycie.
+
+**Rzecz zgłoszona uczciwie z własnej inicjatywy.** Kancelaria zgodziła się wchłonąć pięć pytań, a od tamtej wiadomości doszedł punkt 23 o analityce bez ciasteczek oraz cała odrębna lista [prawnik-plebiscyt](/dokument/prawnik-plebiscyt) z dwunastoma obszarami. To nie jest pięć pytań i nie udajemy, że jest - poproszono o informację, czy mieści się to w uzgodnionej kwocie, czy wymaga odrębnej wyceny, z prośbą o ujęcie plebiscytu jako osobnej pozycji, bo ma własny harmonogram i własne źródło finansowania.

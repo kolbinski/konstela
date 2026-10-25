@@ -2,9 +2,11 @@
 
 Stan na 21 października 2026. Lista z rozpoznania, do zweryfikowania pod kątem bieżącego planu wydawniczego i składu redakcji.
 
-## Dlaczego to jest pilne
+## Statut fundacji odcięty od tej ścieżki (decyzja z 21.10.2026)
 
-Założenie „wydawca sprzedaje, fundacja pobiera honorarium licencyjne" przesądza o tym, czy fundacja musi mieć wpisaną działalność gospodarczą i wpis do rejestru przedsiębiorców. Statut piszemy przed 1 stycznia 2027, więc decyzja kierunkowa wydawcy jest potrzebna wcześniej. To jest pytanie 34 do prawnika.
+Pierwotnie zakładaliśmy, że decyzja wydawcy przesądzi, czy fundacja potrzebuje wpisanej działalności gospodarczej. **To założenie upadło.** PWN deklaruje reakcję w ciągu ośmiu tygodni, czyli do połowy grudnia, decyzji odmownych nie uzasadnia i nie archiwizuje - a statut trzeba napisać wcześniej, bo wpis do KRS ma nastąpić przed 1 stycznia 2027.
+
+Rozwiązanie: **działalność gospodarcza wchodzi do statutu niezależnie od odpowiedzi wydawców**, jako opcja na wypadek, gdyby fundacja miała sprzedawać antologię sama. Koszt różnicy to wpis do rejestru przedsiębiorców i minimalny fundusz na działalność, czyli kilkaset złotych. Koszt zaniechania, gdyby okazała się potrzebna później, to zmiana statutu i drugi wniosek do KRS w trakcie pierwszej edycji. Pytanie 34 do prawnika zostaje, ale przestaje blokować.
 
 ## Adresaci
 
@@ -12,12 +14,20 @@ Pole `e-mail` do uzupełnienia - nie udało mi się potwierdzić adresów kontak
 
 Przy nazwisku zaznaczaj `[x]` po wysłaniu.
 
-- [x] **Copernicus Center Press** (Kraków) - e-mail: redakcja@ccpress.pl Tel.500 839 467 w godzinach 8.00 - 14.30 - filozofia nauki, umysł, sztuczna inteligencja. Najbliżej tematu merytorycznie, ma czytelnika, który kupuje książki o myśleniu, a nie o narzędziach. Mniejsza skala dystrybucji niż u dużych.
-- [x] **Wydawnictwo Naukowe PWN** - e-mail: propozycje.wydawnicze@pwn.pl z CC do sylwia.ciula@pwn.pl tel.: 508 024 746 do niej - jedyny adresat z realnym kanałem do szkół i uczelni. Jeżeli antologia ma trafić do dydaktyki, to tędy. Minus: wolniejszy proces i mniejsza swoboda formy.
-- [ ] **Karakter** (Kraków) - e-mail: redakcja@karakter.pl Małgorzata Szczurek, telefon ogólny 511 630 317 - eseistyka i literatura faktu z mocną stroną graficzną. Tom rozmów z aparatem krytycznym jest w ich konwencji, a książka ma być obiektem, nie tylko treścią.
-- [ ] **Filtry** (Warszawa) - e-mail: ................ - współczesna literatura faktu, dobra prasa, odważne tematy. Mała oficyna, więc decyzja zapada szybko.
-- [ ] **Znak** (Kraków) - e-mail: ................ - największy zasięg księgarski z tej listy i rozpoznawalność. Największe ryzyko, że tom bez autora-nazwiska nie zmieści się w planie.
-- [ ] **Helion / Onepress** (Gliwice) - e-mail: ................ - czytelnik techniczny, szybki proces, dobre w druku na żądanie i w sprzedaży elektronicznej. Najmniej prestiżu, najwięcej sprawności operacyjnej.
+- [x] **Copernicus Center Press** (wysłane 21.10.2026; **odmowa tego samego dnia**, Sonia Kmiecik, dział redakcji: "nie przyjmujemy obecnie nowych tytułów do planu wydawniczego" - odmowa pojemnościowa, bez oceny tytułu; wysłano dopytanie, czy dotyczy to także planu na 2028) (Kraków) - **redakcja@ccpress.pl** (dział redakcji; korespondencja: plac Kościuszki 2/1, 32-020 Wieliczka; tel. 500 839 467) - filozofia nauki, umysł, sztuczna inteligencja. Najbliżej tematu merytorycznie, ma czytelnika, który kupuje książki o myśleniu, a nie o narzędziach. Mniejsza skala dystrybucji niż u dużych.
+- [x] **Wydawnictwo Naukowe PWN** (wysłane 21.10.2026; autoodpowiedź: termin reakcji do 8 tygodni, czyli do ok. 16 grudnia 2026; decyzji odmownych nie uzasadniają i nie archiwizują, więc brak odpowiedzi nie jest odmową) - **propozycje.wydawnicze@pwn.pl**, DW **sylwia.ciula@pwn.pl** (Sylwia Ciuła, Wydawca: filologia, socjologia, filozofia, politologia, historia; tel. 508 024 746). **Nie pisać do Izabeli Grabowskiej ani przez "Publikuj z PWN"** - to ścieżka publikacji zleconych, w której płaci autor. - jedyny adresat z realnym kanałem do szkół i uczelni. Jeżeli antologia ma trafić do dydaktyki, to tędy. Minus: wolniejszy proces i mniejsza swoboda formy.
+- [x] **Karakter** (Kraków) - **wysłane 21.10.2026; odmowa tego samego dnia.** Małgorzata Szczurek: "to nie dla nas, myślę, że książką mogą być zainteresowane większe wydawnictwa". - **redakcja@karakter.pl** (naczelna Małgorzata Szczurek; tel. 511 630 317) - eseistyka i literatura faktu z mocną stroną graficzną. Tom rozmów z aparatem krytycznym jest w ich konwencji, a książka ma być obiektem, nie tylko treścią.
+- [x] **Filtry** (Warszawa) - wysłane 21.10.2026. - **redakcja@wydawnictwofiltry.pl** (naczelna Ewa Wieleżyńska, ewa.wielezynska@wydawnictwofiltry.pl). Deklarowany czas odpowiedzi: **trzy miesiące**. - współczesna literatura faktu, dobra prasa, odważne tematy. Mała oficyna, więc decyzja zapada szybko.
+- [ ] **Znak** (Kraków) - **przeniesiony na marzec 2028**, nie wysyłamy teraz. Jedyna ścieżka to pocztaliteracka@znak.com.pl, a zasady wymagają 30 stron tekstu w .doc lub .rtf, opisu i biogramu. Bez maszynopisu zgłoszenie odpada na pierwszym sicie, a decyzji odmownych nie uzasadniają i nie odpowiadają na nie; brak odpowiedzi po 3 miesiącach oznacza odmowę. Po rozstrzygnięciu pierwszej edycji ich procedura zacznie działać na naszą korzyść: 30 stron to jedna, dwie rozmowy z komentarzem Kapituły, czyli gotowy materiał poglądowy.
+- [x] ~~**Helion / Onepress** (Gliwice)~~ - **skreślony 21.10.2026.** Katalog praktyczny: informatyka i biznes, książki kupowane po to, żeby się czegoś nauczyć i zastosować. Antologia niczego nie uczy wprost, jest dokumentem i lekturą. Zgoda wydawcy, którego czytelnik takich książek nie kupuje, oznaczałaby nakład bez odbiorcy.
+
+**Adresaci w miejsce Helionu - do rozważenia, kolejność dowolna:**
+
+- [ ] **Czarne** (Wołowiec) - **przeniesione na marzec 2028**, nie wysyłamy teraz. propozycje@czarne.com.pl, ale wprost proszą o przysłanie **całej książki** w .doc lub .rtf; odpowiadają w 3 miesiące. Bez maszynopisu nie ma o czym rozmawiać.
+- [x] **Agora** (Warszawa) - wysłane 21.10.2026. - **wydawnictwo@agora.pl** (Agora Książka i Muzyka, ul. Czerska 8/10, Warszawa) - literatura faktu z zapleczem medialnym całej grupy, co przy nagrodzie z galą jest realną dźwignią promocyjną. Minus: duży podmiot, więc decyzja wolniejsza i bardziej komercyjna.
+- [x] **Universitas** (Kraków) - wysłane 21.10.2026. **Odpowiedź tego samego dnia: Piotr Łozowski przekazał sprawę wicedyrektorowi Janowi Sadkiewiczowi (janek@universitas.com.pl), który zajmuje się propozycjami wydawniczymi; wraca z urlopu w tygodniu 26-30 października i ma odpisać.** Nazwał rzecz "interesującym projektem publikacji". Do tego czasu nie przypominać; jeśli po jego powrocie minie dziesięć dni bez odzewu, krótkie przypomnienie bezpośrednio do niego, z powołaniem się na tę wiadomość. - **redtech@universitas.com.pl** (Piotr Łozowski, kierownik redakcji; dyrektor Andrzej Nowakowski, andrzej@universitas.com.pl; tel. 12 423 26 05). Brak skrzynki na propozycje; sprawdzić zakładkę "Dla autorów" i trzymać się jej, jeśli opisuje własną ścieżkę. - humanistyka akademicka z kanałem uczelnianym i bibliotecznym. Najbliżej ścieżki dydaktycznej, najdalej od sprzedaży masowej.
+- [x] **Wydawnictwo Uniwersytetu Jagiellońskiego** (Kraków) - **dorota.kawala@wuj.pl** (proces kwalifikacji nowych tytułów; tel. 532 405 779) - wysłane 21.10.2026 jako pytanie kwalifikujące o tryb wydawania tytułów zewnętrznych. Dwa powody: wydają przede wszystkim prace związane z Uniwersytetem, więc zewnętrzna antologia może nie mieścić się w ich zadaniach, a w opisie stanowiska osoby od kwalifikacji tytułów oraz na osobnej podstronie kontaktowej figurują "kalkulacje", co w wydawnictwach uczelnianych zwykle oznacza model, w którym koszt wydania pokrywa jednostka, grant albo autor. Plus, gdyby jednak do nich pisać: mają rozbudowany otwarty dostęp, więc bezpłatny e-book nie wymagałby tłumaczenia. Wracamy do nich dopiero, gdy z tej fali nic nie wyjdzie.
+- [x] **Krytyka Polityczna** (Warszawa) - wysłane 21.10.2026. - **redakcja@krytykapolityczna.pl** (ten sam adres obsługuje propozycje wydawnicze; ocena do 3 miesięcy) - jeżeli książka ma wejść w debatę o technologii i społeczeństwie, a nie tylko w dydaktykę. Minus: wyraźny profil ideowy, który przykleja się do tytułu.
 
 ## Kolejność kontaktu
 
@@ -25,13 +35,23 @@ Dwie fale, nie sześć kroków po kolei.
 
 **Fala pierwsza: Copernicus Center Press i Wydawnictwo Naukowe PWN.**
 
+Równoległe rozmowy z kilkoma oficynami są w obrocie prawami normą i nikogo nie obrażają - to nie jest maszynopis debiutanta składany do oceny, tylko oferta praw do tytułu.
+
+**Podział na fale stracił sens 21.10.2026 i został porzucony.** Miał służyć uczeniu się na pierwszych odpowiedziach. Tymczasem Copernicus odpowiedział tego samego dnia odmową pojemnościową, bez słowa o treści propozycji, a PWN zapowiedział osiem tygodni i brak uzasadnień. Informacji zwrotnej, na której miała opierać się poprawka, po prostu nie ma skąd wziąć. Pozostałych adresatów wysyłamy od razu.
+
 Copernicus Center Press - bo merytorycznie jest najbliżej i odpowie najszybciej po merytorycznym namyśle, a nie po kalkulacji nakładu. To od nich dowiesz się, czy sama książka broni się jako pomysł.
 
 PWN - bo ma najdłuższy cykl decyzyjny z całej listy, więc musi ruszyć pierwszy, a jednocześnie jest adresatem, u którego zastrzeżenie o darmowym pliku waży najmniej: ich kanał to szkoła i uczelnia, gdzie bezpłatna dostępność materiału jest zaletą, a nie konkurencją dla nakładu.
 
-Świadomie zostawiam na drugą falę Znak, Karakter i Filtry. Karakter i Filtry kupują tematem i prestiżem, więc warto pisać do nich ofertą już przetestowaną. Znak jest największą nagrodą i największym ryzykiem odmowy, a odmowa Znaku na surowej wersji byłaby najdroższa. Helion zostaje jako wariant bezpieczny: najpewniej się zgodzi, więc nie ma powodu zaczynać od niego i zamykać sobie wyższych półek. Nie dlatego, że równoległe rozmowy są nie na miejscu: w obrocie prawami to norma i nikogo nie obraża, bo nie jest to maszynopis debiutanta składany do oceny, tylko oferta praw do tytułu. Powód jest praktyczny: pierwsze odpowiedzi pokażą, które zastrzeżenie wraca, i pozwolą poprawić ofertę, zanim trafi do adresata, na którym zależy najbardziej. Sześć jednoczesnych odmów na jeszcze niedopracowaną wersję zamyka całą listę w jednym tygodniu.
+Wszyscy adresaci zostali zapytani 21 października 2026. Znak i Czarne czekają na marzec 2028, bo ich procedury wymagają gotowego maszynopisu.
 
-**Fala druga: pozostali, po trzech tygodniach**, niezależnie od tego, czy z pierwszej fali ktokolwiek odpowiedział. Wydawnictwo odpowiada po trzech, czterech tygodniach, czasem dłużej; sześć rozmów po kolei to pół roku, a decyzja kierunkowa jest potrzebna przed pisaniem statutu fundacji.
+## Co już wiemy po pierwszym dniu
+
+Dwie odmowy tego samego dnia, obie z górnej półki literackiej: Copernicus Center Press (brak miejsca w planie, bez oceny tytułu) i Karakter ("to nie dla nas, myślę, że książką mogą być zainteresowane większe wydawnictwa").
+
+Wniosek pierwszy: **małe oficyny literackie czytają ten tytuł jako przedsięwzięcie wymagające skali**, a nie jako książkę ze swojej półki. Przy kolejnym podejściu kolejność adresatów powinna zaczynać się od dużych i instytucjonalnych, a nie od kuratorskich.
+
+Wniosek drugi, do sprawdzenia: **treść maila mogła sama to sugerować**. Zaczyna się od modelu licencyjnego, dalej są fundacja, KRS, honorarium, pola eksploatacji i terytorium. Dla wydawnictwa naukowego albo dużego to naturalny język; dla kilkuosobowej oficyny, w której decyduje redaktorka czytająca teksty, brzmi jak korespondencja z działem prawnym. **W marcu 2028, pisząc do Znaku i Czarnego, odwrócić kolejność: najpierw dwa akapity o samej książce i o tym, czym jest, a warunki na końcu.**
 
 Jeżeli ktoś zapyta, czy rozmawiamy z innymi - mówimy, że tak. Ukrywanie tego nic nie daje, a wychodzi na jaw w najgorszym momencie.
 

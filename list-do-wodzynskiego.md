@@ -13,5 +13,5 @@ W załączeniu przesyłam propozycję z konkretnym zakresem i konkretną kwotą,
 Z poważaniem,  
 Krzysztof Olbiński  
 +48 503 520 004  
-contact@konstela.org  
+kontakt@konstela.org  
 konstela.org

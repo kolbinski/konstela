@@ -4,7 +4,7 @@ Teza: powagi nie komunikuje się treścią maila, a infrastrukturą wokół nieg
 
 ## 1. Adres mailowy we własnej domenie (najwyższy priorytet)
 
-**Rozstrzygnięte inaczej 19.10.2026.** Początkowo zalecałem skrzynkę w domenie zamiast gmaila. Decyzja zapadła odwrotna i słusznie: mail do Cezarego idzie z olbinski@gmail.com, bo nosi nazwisko i zachowuje ciągłość z kwietniową korespondencją, co przy odbiorcy, który już cię zna, jest warte więcej niż domena. Adres w domenie, contact@konstela.org, powstał i służy nagrodzie, a nie tej jednej wiadomości.
+**Rozstrzygnięte inaczej 19.10.2026.** Początkowo zalecałem skrzynkę w domenie zamiast gmaila. Decyzja zapadła odwrotna i słusznie: mail do Cezarego idzie z olbinski@gmail.com, bo nosi nazwisko i zachowuje ciągłość z kwietniową korespondencją, co przy odbiorcy, który już cię zna, jest warte więcej niż domena. Adres w domenie, kontakt@konstela.org, powstał i służy nagrodzie, a nie tej jednej wiadomości.
 
 ## 2. Strona nagrody pod własnym adresem
 

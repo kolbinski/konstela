@@ -752,7 +752,7 @@ Karta oceny przestała być osobnym dokumentem. Jest teraz **Załącznikiem nr 1
 
 Powód: nie było powodu, żeby trzymać je osobno - karta zawsze była formalnie załącznikiem do regulaminu, a rozdzielenie kosztowało jeden link w stopce i groziło rozjeżdżaniem się obu dokumentów.
 
-Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026). Został wyłącznie adres `/dokument/karta-oceny`, pod którym stoi jednozdaniowa zaślepka z odnośnikiem do załącznika - ten adres poszedł już w świat w korespondencji i w dokumentach dla kancelarii, więc nie można go zgasić.
+Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026), a plik `karta-oceny.md` skasowany 26.10.2026 - trzymanie zaślepki obok załącznika było utrzymywaniem reliktu. Sprostowanie do wcześniejszego zapisu: adres `/dokument/karta-oceny` **nie poszedł** w korespondencji do kancelarii, wbrew temu, co tu wcześniej napisałem. Wisiał natomiast w stopce strony do 25.10.2026 wieczora, więc mógł zostać zaindeksowany i zapisany w zakładkach - dlatego zastępuje go reguła przekierowania w Cloudflare na `/dokument/regulamin#karta-oceny`, zgodnie z zasadą, że skrócone adresy robimy po stronie Cloudflare, a nie jako pliki.
 
 Ze stopki zniknął link do karty oceny; zostało pięć pozycji zamiast sześciu.
 
