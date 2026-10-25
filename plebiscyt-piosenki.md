@@ -26,7 +26,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 ## <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><span>Dlaczego w ogóle o tym śpiewać</span>
 
-Sztuczna inteligencja weszła w życie milionów ludzi - w pracę, w naukę, w rozmowy prowadzone nocą przed ekranem - a w muzyce popularnej prawie jej nie słychać. To, co jest, rozkłada się zwykle na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Między nimi jest cała reszta: utracona robota, pierwszy raz, kiedy narzędzie okazało się mądrzejsze, spór o to, kto jest autorem, zazdrość, ulga, żart. O tym chcielibyśmy usłyszeć piosenkę.
+Sztuczna inteligencja weszła w życie milionów ludzi - w pracę, w naukę, w rozmowy prowadzone nocą przed ekranem - a w muzyce popularnej prawie jej nie słychać. To, co jest, rozkłada się zwykle na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Między nimi jest cała reszta: utracona robota, pierwszy raz, kiedy narzędzie okazało się mądrzejsze, spór o to, kto jest autorem, zazdrość, ulga, żart. Strach i zachwyt też są na miejscu - oceniamy to, jak temat został opracowany, a nie to, w którą stronę idą emocje.
 
 Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych słów. Interesuje nas, co o tym macie do powiedzenia, a nie dwadzieścia wersji jednego zdania.
 
