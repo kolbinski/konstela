@@ -272,6 +272,10 @@
         --bg: var(--paper);
         --surface: var(--paper-raised);
         --muted: #5e5648;
+        /* Boki pasa w nagłówku: kolor krawędzi zdjęcia i ciemniejszy brzeg.
+           Te same w obu motywach, bo zdjęcie jest ciemne niezależnie od nich. */
+        --hero-edge: #655a57;
+        --hero-far: #2a2724;
         --display: 'Cormorant Garamond', 'Iowan Old Style', Georgia, serif;
         --body: 'Source Sans 3', -apple-system, 'Segoe UI', sans-serif;
         --mono: 'IBM Plex Mono', ui-monospace, 'SFMono-Regular', monospace;
@@ -299,7 +303,11 @@
         color-scheme: dark;
       }
 
+      html {
+        overflow-x: clip;
+      }
       body {
+        overflow-x: clip;
         background: var(--bg);
         color: var(--fg);
         font-family: var(--body);
@@ -354,6 +362,40 @@
       @media (min-width: 620px) {
         .hero {
           grid-template-columns: 1fr 1fr;
+        }
+        /* Pas na całą szerokość okna: treść zostaje pośrodku, a po bokach
+           dostawiamy tło - z lewej ciemne jak zdjęcie, z prawej jasne jak
+           panel z tekstem. Kolor krawędzi pobrany ze zdjęcia, z łagodnym
+           przejściem w ciemniejszy, żeby nie było widać szwu. */
+        .hero {
+          position: relative;
+          border-left: 0;
+          border-right: 0;
+        }
+        .hero::before,
+        .hero::after {
+          content: '';
+          position: absolute;
+          top: -1px;
+          bottom: -1px;
+          /* dokladnie tyle, ile zostaje do krawedzi okna */
+          width: calc(50vw - 50%);
+          box-sizing: border-box;
+          border-top: 1px solid var(--rule);
+          border-bottom: 1px solid var(--rule);
+          pointer-events: none;
+        }
+        .hero::before {
+          right: 100%;
+          background: linear-gradient(
+            to left,
+            var(--hero-edge) 0%,
+            var(--hero-far) 70%
+          );
+        }
+        .hero::after {
+          left: 100%;
+          background: var(--surface);
         }
       }
       .hero-medal {
