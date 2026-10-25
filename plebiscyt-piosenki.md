@@ -1,6 +1,6 @@
 # Plebiscyt na piosenkę o sztucznej inteligencji
 
-![Nagroda Konstela - Zapytaj inaczej](assets/piosenka.jpg)
+![Nagroda Konstela - Zapytaj inaczej](/assets/piosenka.jpg)
 
 Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga sekcja o zasadach poniżej - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowego tematu ani gotowych słów - to, co w tym powiesz, jest częścią tego, co oceniamy.
 
@@ -84,13 +84,13 @@ Deklaruję to tym samym zdaniem, którego wymagam od zgłaszających, i w tym sa
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=3_Yc4dDPB2c" target="_blank" rel="noopener">
-        <img src="piosenka/thumbnail-1.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze" loading="lazy" />
+        <img src="/assets/thumbnail-1.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze" loading="lazy" />
         <span class="cap">Wersja AI 1 &middot; YouTube</span>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=4qjqEl7EmoU" target="_blank" rel="noopener">
-        <img src="piosenka/thumbnail-2.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie" loading="lazy" />
+        <img src="/assets/thumbnail-2.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie" loading="lazy" />
         <span class="cap">Wersja AI 2 &middot; YouTube</span>
       </a>
     </td>
