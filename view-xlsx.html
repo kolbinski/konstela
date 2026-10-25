@@ -718,7 +718,7 @@
           );
         }
         // style: pogrubienie i wypełnienie
-        const bold = [], fill = [];
+        const bold = [], fill = [], praw = [];
         if (files['xl/styles.xml']) {
           const st = X(files['xl/styles.xml']);
           const fonts = [...st.getElementsByTagName('fonts')[0].getElementsByTagName('font')]
@@ -733,6 +733,9 @@
           [...xf.getElementsByTagName('xf')].forEach(x => {
             bold.push(fonts[+x.getAttribute('fontId') || 0] || false);
             fill.push(fills[+x.getAttribute('fillId') || 0] || false);
+            // wyrównanie zapisane w arkuszu - nagłówki kolumn liczbowych
+            const al = x.getElementsByTagName('alignment')[0];
+            praw.push(!!(al && al.getAttribute('horizontal') === 'right'));
           });
         }
         // nazwy zakładek
@@ -758,7 +761,7 @@
               else if (t === 'inlineStr' && is) val = is.textContent;
               else if (v) val = v.textContent;
               const liczba = val !== '' && t !== 's' && t !== 'inlineStr' && t !== 'str' && !isNaN(val);
-              return { k: kol(r), w: +r.replace(/\D/g, ''), val, liczba, b: bold[s], f: fill[s] };
+              return { k: kol(r), w: +r.replace(/\D/g, ''), val, liczba, b: bold[s], f: fill[s], p: praw[s] };
             })
           );
           // scalone komórki: A1:F1 -> kotwica dostaje colspan/rowspan
@@ -846,7 +849,7 @@
               if (przykryte[nrw + ':' + k]) continue;
               const c = mapa[k];
               const cl = [];
-              if (c && c.liczba) cl.push('num');
+              if (c && (c.liczba || c.p)) cl.push('num');
               if (c && c.b) cl.push('b');
               if (c && c.f) cl.push('fill');
               const sp = kotwica[nrw + ':' + k];
