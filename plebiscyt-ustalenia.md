@@ -419,3 +419,43 @@ Prośba o wycenę przeglądu projektu regulaminu plebiscytu wraz z odpowiedziami
 **Punkt 1 listy pytań zostaje na liście mimo dezaktualizacji.** Pyta, czy regulamin plebiscytu ma być osobnym dokumentem, czy aneksem; odpowiedź zapadła na rzecz osobnego dokumentu. Mail to prostuje i wyjaśnia, że punkt zostaje wyłącznie po to, by nie rozsynchronizować numeracji używanej w korespondencji. Dzięki temu nie trzeba przepisywać `prawnik-plebiscyt.md` przed wysyłką.
 
 **Usunięte przed wysłaniem:** akapit o braku presji czasu wraz z propozycją rozmowy. Powód: mówienie kancelarii, że sprawa może poczekać, oddaje pozycję w jej kolejce za darmo, a o termin mail prosi akapit wyżej. Gotowość do rozmowy stoi już na końcu listy pytań.
+
+### Hymn - dopisany wers o koszcie (decyzja z 25.10.2026, NIE wprowadzona)
+
+**Nic nie zmieniamy w tekście teraz.** Zmiana wchodzi dopiero przy zamawianiu kompozycji u Michała Sołtana, po rozmowie z nim, zanim cokolwiek zostanie nagrane.
+
+Powód: tekst „Zapytaj inaczej" nie ma w sobie ceny. Jedyne ciemniejsze miejsce to most - „Maszyna mówi pięknie i pewnie, pięknie i pewnie potrafi się mylić" - a to jest zarzut o niezawodność, nie o to, że komuś zabrano robotę. Nagroda mówiąca o życiu z AI, której hymn nie przyznaje, że to życie kogoś kosztuje, zabrzmi naiwnie akurat dla tej sali, do której na gali śpiewa.
+
+**Przyjęty wariant: jedna dodana linijka w moście, reszta tekstu bez zmian.**
+
+> Maszyna mówi pięknie i pewnie,
+> pięknie i pewnie potrafi się mylić.
+> **Komuś już wzięła to, z czego żył.**
+> Więc sprawdzam, drążę, nie wierzę od razu,
+> bo to ja mam z tym zostać, nie ona.
+
+Mówi o koszcie wprost, nie nazywa zawodu, nie rozwija - zdanie pada i piosenka idzie dalej. Odrzucone warianty: „Czyjeś rzemiosło zmieściła w jednym poleceniu" (zręczniejszy, ale most ma być chwilą, w której śpiewający przestaje być sprytny; do tego „polecenie" zgrzyta w śpiewie) oraz „Nie pyta, kogo po drodze zostawi" (bezpieczny i dlatego najmniej kosztuje mówiącego, a przyznanie kosztu ma coś kosztować).
+
+**Odrzucone szerzej: przepisanie hymnu tak, żeby mówił o wywróconym stoliku artystów.** Trzy powody. Pierwszy: to jest temat, po który sięgnie najwięcej zgłaszających do plebiscytu, a hymn otwierający galę zabrałby im go i ustawił ton - organizator konkurowałby z własnymi uczestnikami z pozycji uprzywilejowanej. Drugi: hymn śpiewa jury, które potem ocenia piosenki o AI; utwór z tezą nadgryza jawność karty oceny z § 10 regulaminu plebiscytu. Trzeci: teza „nie liczy się ten, kto odpowiada, tylko ten, kto zapyta inaczej" unosi cały konkurs główny, a drugi temat robi z hymnu utwór o dwóch sprawach, czyli o żadnej; kierunek marki ustalony 24.10 to współistnienie, nie lament.
+
+**Konsekwencja do rozstrzygnięcia przy wprowadzaniu zmiany.** Na stronie wiszą dwie wersje hymnu wygenerowane przez suno do obecnych słów, a cała sekcja stoi na tym, że porównujemy trzy opracowania *tych samych* słów. Przy zmianie tekstu albo generujemy obie wersje AI od nowa, albo opisujemy rozbieżność na stronie.
+
+### Przebudowa strony plebiscytu (25.10.2026)
+
+Strona miała sekcję "Jak to ma działać" długą na czterdzieści trzy wiersze, w której siedziało pięć różnych tematów, oraz trzy sprzeczności wobec regulaminu i wcześniejszych decyzji. Przebudowana na piętnaście sekcji w kolejności: co czytelnik musi wiedzieć, żeby zdecydować, czy to dla niego → co ma zrobić → co dostanie → co jest nasze, a nie jego.
+
+**Usunięte sprzeczności:**
+
+1. Tabela terminów mówiła "Otwarcie naboru: początek 2027, razem z premierą hymnu", wbrew decyzji z 25.10, która zerwała to powiązanie. Teraz: "po zabezpieczeniu finansowania".
+2. "Formalnego progu nie ma" wobec czterech progów w § 8 regulaminu. Zdanie usunięte, progi wypisane.
+3. "Ostateczne wagi uzgadnia jury" wobec § 9 ust. 2, gdzie karta nie zmienia się po otwarciu naboru. Teraz: "Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają".
+
+**Dopisane, bo było tylko w regulaminie:** granica 16 lat wraz ze zgodą opiekuna rozbitą na cztery zakresy, czas trwania 3-6 minut, tekst po polsku, brak wcześniejszego wydania komercyjnego.
+
+**Rozdzielone tematy:** zasady AI, karta oceny, jury i Akademia, nagrody - każde dostało własną sekcję zamiast siedzieć w jednym worku. Gala zebrana w jedno miejsce (było w dwóch), zgłoszenie też (co zgłaszasz i jak zgłaszasz były pięćdziesiąt wierszy od siebie), prawa do nagrania przestały być powtórzone w dwóch sekcjach.
+
+**Przeniesione wyżej:** "O czym jest Nagroda Konstela" z przedostatniego miejsca na drugie, bo ktoś trafiający tu z grupy muzyków czytał dwieście wierszy, zanim dowiadywał się, czym to jest. Skrócone i z linkiem do strony głównej.
+
+**Hymn scalony z dwóch sekcji w jedną.** Zajmował dwa nagłówki i około czterdziestu procent strony o cudzych piosenkach.
+
+**Paragraf z linkiem do regulaminu** przeniesiony z "Na jakim to jest etapie" na początek "Kto i co może zgłosić", czyli do pierwszej sekcji z zasadami.
