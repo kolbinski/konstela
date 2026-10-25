@@ -758,6 +758,15 @@
       }
 
       /* --- Zasady --- */
+      .werdykty {
+        margin: 0.8rem 0 0;
+        padding-left: 1.1rem;
+        display: grid;
+        gap: 0.5rem;
+      }
+      .werdykty li {
+        padding-left: 0.2rem;
+      }
       .rules {
         list-style: none;
         padding: 0;
@@ -795,14 +804,11 @@
       }
       @media (min-width: 560px) {
         .purse {
-          grid-template-columns: repeat(3, 1fr);
-        }
-        .purse.kalendarz {
           grid-template-columns: repeat(2, 1fr);
         }
       }
       @media (min-width: 900px) {
-        .purse.kalendarz {
+        .purse {
           grid-template-columns: repeat(4, 1fr);
         }
       }
@@ -975,7 +981,7 @@
         <a href="#nagrody">Nagrody</a>
         <a href="#kalendarz">Kalendarz pierwszej edycji</a>
         <a href="#kto-za-tym-stoi">Kto za tym stoi</a>
-        <a href="#sciana">Ściana rozmów z AI</a>
+        <a href="#czytelnia">Czytelnia rozmów z AI</a>
         <a href="#antologia">Antologia i archiwum rozmów z AI</a>
         <a href="#hymn">Hymn &bdquo;Zapytaj inaczej&rdquo;</a>
         <a href="#plebiscyt">Plebiscyt na piosenkę o sztucznej inteligencji</a>
@@ -1363,7 +1369,7 @@
         </p>
         <p class="sub">
           <strong>Nabór nie jest jeszcze otwarty.</strong> Napisz na
-          <a href="mailto:kontakt@konstela.org">kontakt@konstela.org</a>, jeśli
+          <a href="mailto:konkurs@konstela.org">konkurs@konstela.org</a>, jeśli
           chcesz dowiedzieć się pierwszy, gdy ruszy, albo jeśli masz pytania.
           Adres trzymamy wyłącznie po to, żeby wysłać tę jedną wiadomość.
         </p>
@@ -1413,11 +1419,15 @@
           </div>
           <div>
             <dt>Antologia</dt>
-            <dd>10<small>najlepszych rozmów, publikacja w sieci</small></dd>
+            <dd>10<small>najlepszych rozmów, publikacja w sieci i wydanie książki</small></dd>
           </div>
           <div>
             <dt>Laureat</dt>
             <dd>1<small>nagroda główna, bez podziału na kategorie</small></dd>
+          </div>
+          <div>
+            <dt>Wyróżnienia</dt>
+            <dd>9<small>miejsca od drugiego do dziesiątego w rankingu; wysokość ogłosimy razem z pulą</small></dd>
           </div>
         </dl>
         <div class="prose" style="margin-top: 1.5rem">
@@ -1443,7 +1453,7 @@
             <p>
               Wybierana w otwartym głosowaniu, jeden głos na osobę, dopiero po
               zamknięciu naboru - żeby wszystkie rozmowy miały tyle samo czasu
-              na zbieranie głosów. Szczegóły w sekcji o ścianie rozmów.
+              na zbieranie głosów. Szczegóły w sekcji o czytelni rozmów.
             </p>
           </article>
         </div>
@@ -1483,11 +1493,11 @@
         <dl class="purse kalendarz">
           <div>
             <dt>Początek 2027</dt>
-            <dd>Premiera hymnu<small>otwiera nabór</small></dd>
+            <dd>Premiera hymnu &bdquo;Zapytaj inaczej&rdquo;<small>otwiera nabór</small></dd>
           </div>
           <div>
             <dt>1 stycznia 2027</dt>
-            <dd>Nabór rusza<small>liczy się data rozmowy; okno rozmów to cały 2027 rok</small></dd>
+            <dd>Rusza nabór w konkursie na najlepszą rozmowę z AI<small>liczy się data rozmowy; okno rozmów to cały 2027 rok</small></dd>
           </div>
           <div>
             <dt>15 stycznia 2028</dt>
@@ -1495,9 +1505,26 @@
           </div>
           <div>
             <dt>Marzec 2028</dt>
-            <dd>Gala i antologia<small>wyniki wszystkich trzech werdyktów tego samego wieczoru</small></dd>
+            <dd>Gala i premiera antologii najlepszych rozmów z AI<small>wyniki wszystkich trzech werdyktów tego samego wieczoru</small></dd>
           </div>
         </dl>
+        <div class="prose" style="margin-top: 1.5rem">
+          <p>Trzy werdykty tego wieczoru to:</p>
+          <ul class="werdykty">
+            <li>
+              <strong>Nagroda główna i wyróżnienia</strong> - werdykt
+              Kapituły, według jawnej karty oceny.
+            </li>
+            <li>
+              <strong>Nagroda Uczniowska</strong> - werdykt uczniowskich grup
+              czytających, według tej samej karty i niezależnie od Kapituły.
+            </li>
+            <li>
+              <strong>Nagroda Publiczności</strong> - wynik otwartego
+              głosowania, jeden głos na osobę.
+            </li>
+          </ul>
+        </div>
       </section>
 
       <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
@@ -1588,12 +1615,12 @@
         <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
       </svg>
 
-      <section id="sciana">
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 5.5h17M3.5 10.5h17M3.5 15.5h11M3.5 20h7"/><path d="m18.6 15.1 1.1 2.3 2.5.3-1.8 1.8.5 2.5-2.3-1.2-2.3 1.2.5-2.5-1.8-1.8 2.5-.3z"/></svg><span>Ściana rozmów z AI</span></h2>
+      <section id="czytelnia">
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3.5 5.5h17M3.5 10.5h17M3.5 15.5h11M3.5 20h7"/><path d="m18.6 15.1 1.1 2.3 2.5.3-1.8 1.8.5 2.5-2.3-1.2-2.3 1.2.5-2.5-1.8-1.8 2.5-.3z"/></svg><span>Czytelnia rozmów z AI</span></h2>
         <div class="prose">
           <p>
             Po przejściu oceny formalnej każde zgłoszenie trafia na
-            <strong>ścianę</strong>: listę, która rośnie przez cały rok naboru i
+            <strong>czytelnię</strong>: listę, która rośnie przez cały rok naboru i
             którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora,
             link, opis odkrycia oraz jego uzasadnienie, dlaczego warto tę
             rozmowę przeczytać. Kolejność jest wyłącznie według daty zgłoszenia.
@@ -1661,7 +1688,7 @@
             przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
           </p>
           <p>
-            <strong>Archiwum</strong> to ta sama ściana, utrwalona w dniu
+            <strong>Archiwum</strong> to ta sama czytelnia, utrwalona w dniu
             zamknięcia naboru i zostawiona do czytania na stałe - te same
             rozmowy, w tej samej liczbie. Różnica jest w tym, że archiwum można
             przeglądać: sortować po dacie, po tytule, po autorze i po ocenach -

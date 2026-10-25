@@ -683,7 +683,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 - **Ilustracje do każdej rozmowy w antologii** wraz z komentarzem artysty - dalszy ciąg wątku plakatu, nie przedmiot pierwszej prośby.
 - **Wyróżnienie dla nauczyciela** - niewielkim kosztem wzmacnia cały wątek edukacyjny i wiąże się z [Uczniowską Akademią](/dokument/koncepcja).
 
-## Ściana zgłoszeń i Nagroda Publiczności - zmiana decyzji z 24.10.2026
+## Czytelnia zgłoszeń i Nagroda Publiczności - zmiana decyzji z 24.10.2026
 
 **Co się zmienia.** Wcześniej odrzucono publikowanie zgłoszeń na bieżąco wraz z głosowaniem publiczności, sześcioma powodami wypisanymi wyżej. Trzy z tych powodów nadal obowiązują, ale **wszystkie trzy dają się rozwiązać narzędziami, których w październiku jeszcze nie mieliśmy**, więc decyzja zostaje zmieniona w kontrolowanym zakresie.
 
@@ -692,28 +692,28 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 - *Nakręcanie głosów* - rozwiązane bramką SMS z jednym głosem na numer telefonu, zaprojektowaną przy plebiscycie. Nie zatrzyma zdeterminowanego, zatrzyma kolegów i boty.
 - *Skażenie odczytów Akademii* - rozwiązane ukryciem liczników do ogłoszenia oraz przesunięciem głosowania za dzień zamrożenia punktacji.
 - *Nierówna ekspozycja* - rozwiązana tym, że głosowanie otwiera się dopiero po zamknięciu naboru, więc wszystkie zgłoszenia mają ten sam czas na ekranie.
-- *Odpowiedzialność za publikację przed oceną formalną* (§ 11 ust. 11) - rozwiązana dwojako: **nie republikujemy rozmów**, tylko pokazujemy link, który uczestnik sam opublikował, więc odpowiedzialność za treść zostaje po jego stronie; a wpis trafia na ścianę **dopiero po przejściu oceny formalnej**, więc nic nie jest pokazywane przed sprawdzeniem.
+- *Odpowiedzialność za publikację przed oceną formalną* (§ 11 ust. 11) - rozwiązana dwojako: **nie republikujemy rozmów**, tylko pokazujemy link, który uczestnik sam opublikował, więc odpowiedzialność za treść zostaje po jego stronie; a wpis trafia na czytelnię **dopiero po przejściu oceny formalnej**, więc nic nie jest pokazywane przed sprawdzeniem.
 - *Zarzut „dwa werdykty obok siebie"* - **wycofany jako najsłabszy.** Dwa równoległe werdykty są standardem, a Nagroda ma już własny w postaci Nagrody Uczniowskiej, wzorowanej na Prix Goncourt des lycéens, gdzie o to właśnie chodzi.
 
-### Ściana zgłoszeń - przez cały 2027
+### Czytelnia zgłoszeń - przez cały 2027
 
-**Obecność na ścianie jest warunkiem udziału, nie wyborem uczestnika** (decyzja z 24.10.2026, zmiana wobec pierwotnego pomysłu ze ścianą dobrowolną). Trzy powody:
+**Obecność w czytelni jest warunkiem udziału, nie wyborem uczestnika** (decyzja z 24.10.2026, zmiana wobec pierwotnego pomysłu z czytelnią dobrowolną). Trzy powody:
 
-1. **Spójność z § 11 ust. 3**, który już mówi, że publikacja jest warunkiem udziału i nie wymaga odrębnej zgody, a uczestnik decyduje wyłącznie o sposobie podpisania. Ściana dobrowolna wprowadzałaby drugi, łagodniejszy reżim obok tamtego, bez powodu.
-2. **Znika wyjątek przy Nagrodzie Publiczności.** Przy ścianie opcjonalnej trzeba by pisać, że głosować można wyłącznie na rozmowy ze ściany - czyli że część uczestników jest poza tą nagrodą wskutek decyzji podjętej rok wcześniej, często bez świadomości skutków. Przy ścianie obowiązkowej wszyscy są w grze.
-3. **Ściana rzadka wygląda gorzej niż jej brak.** Przy opt-in trafiłoby tam może 30 procent zgłoszeń i strona przez rok pokazywałaby, że mało kto się zgłasza - odwrotnie do zamierzonego efektu.
+1. **Spójność z § 11 ust. 3**, który już mówi, że publikacja jest warunkiem udziału i nie wymaga odrębnej zgody, a uczestnik decyduje wyłącznie o sposobie podpisania. Czytelnia dobrowolna wprowadzałaby drugi, łagodniejszy reżim obok tamtego, bez powodu.
+2. **Znika wyjątek przy Nagrodzie Publiczności.** Przy czytelni opcjonalnej trzeba by pisać, że głosować można wyłącznie na rozmowy z czytelni - czyli że część uczestników jest poza tą nagrodą wskutek decyzji podjętej rok wcześniej, często bez świadomości skutków. Przy czytelni obowiązkowej wszyscy są w grze.
+3. **Czytelnia rzadka wygląda gorzej niż jej brak.** Przy opt-in trafiłoby tam może 30 procent zgłoszeń i strona przez rok pokazywałaby, że mało kto się zgłasza - odwrotnie do zamierzonego efektu.
 
-**Dwa zabezpieczenia.** Pseudonim z § 5 ust. 2 lit. g załatwia prywatność: kto nie chce figurować nazwiskiem, podpisuje się pseudonimem, a mechanizm już istnieje. Sama rozmowa jest pod linkiem opublikowanym przez uczestnika własnoręcznie, więc ekspozycji treści nie dokładamy. Drugie: **wpis pojawia się po przejściu oceny formalnej, nie w chwili zgłoszenia** - kilka dni opóźnienia, w zamian ściana zawiera wyłącznie zgłoszenia ważne, a dwa krótkie pola są sprawdzone przed pokazaniem.
+**Dwa zabezpieczenia.** Pseudonim z § 5 ust. 2 lit. g załatwia prywatność: kto nie chce figurować nazwiskiem, podpisuje się pseudonimem, a mechanizm już istnieje. Sama rozmowa jest pod linkiem opublikowanym przez uczestnika własnoręcznie, więc ekspozycji treści nie dokładamy. Drugie: **wpis pojawia się po przejściu oceny formalnej, nie w chwili zgłoszenia** - kilka dni opóźnienia, w zamian czytelnia zawiera wyłącznie zgłoszenia ważne, a dwa krótkie pola są sprawdzone przed pokazaniem.
 
-**Wąska furtka, wzorowana na § 11 ust. 5:** jeżeli pokazanie wpisu rodzi realne ryzyko prawne, uczestnik może zostać ze ściany zdjęty, zachowując udział w konkursie. Nie jako wybór preferencji, tylko jako ten sam wyjątek, który regulamin już zna.
+**Wąska furtka, wzorowana na § 11 ust. 5:** jeżeli pokazanie wpisu rodzi realne ryzyko prawne, uczestnik może zostać z czytelni zdjęty, zachowując udział w konkursie. Nie jako wybór preferencji, tylko jako ten sam wyjątek, który regulamin już zna.
 
 Pokazujemy: **imię i nazwisko albo pseudonim** zgodnie z § 5 ust. 2 lit. g, **link** opublikowany przez uczestnika oraz **opis odkrycia** z § 5 ust. 2 lit. b. Kolejność po dacie zgłoszenia, bez żadnego sortowania. Przeczytane oznaczane w localStorage.
 
-**Na ścianie jest wszystko od początku - zmiana z 24.10.2026 wieczorem.** Pierwotnie pole „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1) miało pojawiać się dopiero po zamrożeniu punktacji, żeby nie omijać § 8 ust. 13. **Ten pomysł upadł na prostym argumencie Krzyśka:** skoro ściana jest publiczna, oceniający i tak może tam zajrzeć i znaleźć zarówno tytuł, jak i uzasadnienie - ukrywanie ich w panelu byłoby teatrem, a nie zabezpieczeniem. Zabezpieczenie oparte na tajemnicy przestało istnieć w chwili, gdy powstała ściana.
+**W czytelni jest wszystko od początku - zmiana z 24.10.2026 wieczorem.** Pierwotnie pole „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1) miało pojawiać się dopiero po zamrożeniu punktacji, żeby nie omijać § 8 ust. 13. **Ten pomysł upadł na prostym argumencie Krzyśka:** skoro czytelnia jest publiczna, oceniający i tak może tam zajrzeć i znaleźć zarówno tytuł, jak i uzasadnienie - ukrywanie ich w panelu byłoby teatrem, a nie zabezpieczeniem. Zabezpieczenie oparte na tajemnicy przestało istnieć w chwili, gdy powstała czytelnia.
 
 **Co zostaje realne:** kolejność czytania w panelu (najpierw rozmowa, potem uzasadnienie) oraz twarda zasada, że **ani tytuł, ani pole b1 nie podlegają punktacji w żadnym kryterium**. § 8 ust. 13 wymaga przepisania z zakazu dostępu na regułę kolejności.
 
-**Nowe pole: tytuł rozmowy**, nadawany przez uczestnika, obowiązkowy. Bez niego pozycje na ścianie nie mają nazwy, a archiwum nie ma po czym sortować alfabetycznie. Nie podlega punktacji.
+**Nowe pole: tytuł rozmowy**, nadawany przez uczestnika, obowiązkowy. Bez niego pozycje w czytelni nie mają nazwy, a archiwum nie ma po czym sortować alfabetycznie. Nie podlega punktacji.
 
 ### Półka z gwiazdkami
 
@@ -723,9 +723,9 @@ Czytelnik oznacza gwiazdką rozmowy, do których chce wrócić. Po roku czytania
 
 **Do powiedzenia wprost na stronie:** gwiazdka nie jest głosem, głosuje się raz i numerem telefonu; oraz półka żyje w przeglądarce, więc wyczyszczenie danych albo przesiadka na inne urządzenie ją kasuje. Stąd **eksport i import półki** - plik albo lista do skopiowania, bez kont i bez rejestracji.
 
-### Archiwum: ta sama ściana, sortowalna, z jawną punktacją
+### Archiwum: ta sama czytelnia, sortowalna, z jawną punktacją
 
-Rozstrzygnięte 24.10.2026. **Archiwum zawiera dokładnie te same rozmowy co ściana**, utrwalone w dniu zamknięcia naboru. Różnica jest jedna: archiwum da się przeglądać - sortować po dacie, tytule, autorze i **po ocenach wystawionych przez Akademię, Kapitułę i publiczność**.
+Rozstrzygnięte 24.10.2026. **Archiwum zawiera dokładnie te same rozmowy co czytelnia**, utrwalone w dniu zamknięcia naboru. Różnica jest jedna: archiwum da się przeglądać - sortować po dacie, tytule, autorze i **po ocenach wystawionych przez Akademię, Kapitułę i publiczność**.
 
 **Punktacja jest jawna dla wszystkich zgłoszeń, nie tylko dla dziesiątki**, i jest to **warunek udziału**, a nie wybór uczestnika. Uczestnik decyduje wyłącznie o podpisie: nazwisko albo pseudonim; ocena jest widoczna tak czy inaczej.
 
@@ -739,7 +739,7 @@ Rozstrzygnięte 24.10.2026. **Archiwum zawiera dokładnie te same rozmowy co śc
 
 Otwiera się po dniu zamrożenia punktacji rundy pierwszej, czyli 14 dni po zamknięciu naboru, i trwa do gali. **Jeden głos na numer telefonu**, liczniki ukryte do ogłoszenia wyniku na gali.
 
-Głosowanie obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną**, ponieważ ściana jest obowiązkowa - nikt nie jest poza tą nagrodą wskutek własnego niedopatrzenia przy zgłoszeniu.
+Głosowanie obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną**, ponieważ czytelnia jest obowiązkowa - nikt nie jest poza tą nagrodą wskutek własnego niedopatrzenia przy zgłoszeniu.
 
 Na gali trzy werdykty obok siebie: **Kapituły, Uczniowskiej Akademii i publiczności**, każdy wyraźnie nazwany.
 

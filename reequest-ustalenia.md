@@ -29,7 +29,7 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 ## 3. Co z tego powstaje
 
 - **Antologia** - dziesięć najwyżej ocenionych rozmów każdej edycji, bezpłatnie, w całości, z komentarzem Kapituły.
-- **Publiczne archiwum** wszystkich zgłoszeń: ściana rosnąca w trakcie naboru, utrwalona w dniu jego zamknięcia i przeglądalna także według jawnych ocen.
+- **Publiczne archiwum** wszystkich zgłoszeń: czytelnia rosnąca w trakcie naboru, utrwalona w dniu jego zamknięcia i przeglądalna także według jawnych ocen.
 - **Płyta** z dziesięcioma najwyżej ocenionymi utworami plebiscytu - nagrania finansuje organizator, wydaje wydawnictwo-partner, którego jeszcze nie ma. Prawa do nagrań przechodzą na autorów jako część nagrody.
 - **Hymn „Zapytaj inaczej"** w wykonaniu jurorów, z teledyskiem.
 
@@ -38,7 +38,7 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 | Kiedy | Co |
 |---|---|
 | początek 2027 | premiera hymnu z teledyskiem - **otwiera kampanię naboru** |
-| cały 2027 | nabór, ściana zgłoszeń rośnie, zgłoszenia plebiscytu napływają, odcinki podcastu |
+| cały 2027 | nabór, czytelnia zgłoszeń rośnie, zgłoszenia plebiscytu napływają, odcinki podcastu |
 | 15 stycznia 2028 | zamknięcie naboru; 14 dni później zamrożenie punktacji rundy pierwszej |
 | I kwartał 2028 | głosowanie publiczności |
 | druga połowa marca 2028 | gala: werdykty, koncert, dialog czytany |
@@ -51,7 +51,7 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 
 **Co dochodzi i wymaga wyceny:**
 
-**Ściana zgłoszeń - cały 2027.** Lista, która rośnie przez rok: imię i nazwisko albo pseudonim, link do rozmowy opublikowany przez uczestnika, opis odkrycia (3-10 zdań). **Kolejność wyłącznie po dacie zgłoszenia, bez sortowania i bez wyróżniania.** Przeczytane oznaczane lokalnie. Obecność na ścianie jest warunkiem udziału; wpis pojawia się po przejściu oceny formalnej. **To jest odpowiedź na zarzut o rozwodnieniu rocznego okna** - strona ma wreszcie powód, by na nią wracać.
+**Czytelnia zgłoszeń - cały 2027.** Lista, która rośnie przez rok: imię i nazwisko albo pseudonim, link do rozmowy opublikowany przez uczestnika, opis odkrycia (3-10 zdań). **Kolejność wyłącznie po dacie zgłoszenia, bez sortowania i bez wyróżniania.** Przeczytane oznaczane lokalnie. Obecność na czytelni jest warunkiem udziału; wpis pojawia się po przejściu oceny formalnej. **To jest odpowiedź na zarzut o rozwodnieniu rocznego okna** - strona ma wreszcie powód, by na nią wracać.
 
 **Półka z gwiazdkami.** Czytelnik oznacza rozmowy, do których chce wrócić, i w styczniu 2028 wybiera z własnej półki. **Gwiazdki zostają na urządzeniu i nigdy nie trafiają na serwer** - inaczej powstałby żywy licznik popularności. Potrzebny eksport i import półki, bo rok zbierania ginie przy wyczyszczeniu przeglądarki, a kont nie ma i nie będzie.
 
@@ -73,9 +73,9 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 
 ## 7. Zakres zlecenia i granica
 
-**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do ściany, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
+**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do czytelni, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
 
-**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do oceny formalnej, panel pracy Akademii i Kapituły, mechanizmy ściany, półki i głosowania, publikowanie archiwum.
+**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do oceny formalnej, panel pracy Akademii i Kapituły, mechanizmy czytelni, półki i głosowania, publikowanie archiwum.
 
 **Kolejność przyjęta przez agencję:** branding przed stroną. Zdanie Piotra: „wynikiem naszej pracy będzie strona internetowa, ale wpierw musimy przejść przez branding". Ela przygotuje plan warsztatów i wyśle mailem przed pierwszym spotkaniem. Warsztaty najlepiej na żywo, w Warszawie.
 
@@ -103,7 +103,7 @@ Razem ok. 1 132 tys. zł netto przy 937 godzinach pracy organizatora. **Honorari
 
 **„Odbiór jako freak".** Pierwsze skojarzenie z nazwą: gwiazdy, energia wszechświata, ezoteryka. Największym wyzwaniem jest pokazanie, że to nie jest czyjeś hobby. **Nierozwiązane - to jest zadanie na warsztaty i główny powód, dla którego branding idzie przed stroną.**
 
-**Rozwodnienie rocznego okna.** „Kiedyś czyli nigdy". **Rozwiązane trzema rzeczami:** hymn z teledyskiem otwierający nabór, rosnąca ściana zgłoszeń z półką, napływające zgłoszenia plebiscytu. Dochodzą odcinki podcastu.
+**Rozwodnienie rocznego okna.** „Kiedyś czyli nigdy". **Rozwiązane trzema rzeczami:** hymn z teledyskiem otwierający nabór, rosnąca czytelnia zgłoszeń z półką, napływające zgłoszenia plebiscytu. Dochodzą odcinki podcastu.
 
 **Jedno zgłoszenie na osobę obcina zainteresowanych.** **Podtrzymane mimo zarzutu** - wybór własnej najlepszej rozmowy jest sam w sobie aktem oceny, a Nagroda premiuje właśnie takie rzeczy.
 
@@ -151,6 +151,6 @@ Piotr zasygnalizował, że jeśli to wypali, będą wkładem w rozpromowanie.
 
 ## 14. Ustalone i otwarte
 
-**Ustalone:** rama współistnienia; plebiscyt jako drugi równorzędny konkurs; jawne karty oceny obu konkursów; ściana jako warunek udziału; półka wyłącznie lokalna; głosowanie publiczności dopiero w 2028 z ukrytymi licznikami; demo na wejściu do plebiscytu; jedno zgłoszenie na osobę w obu konkursach; hymn jako materiał otwierający nabór; prawa zostają przy autorach; branding przed stroną.
+**Ustalone:** rama współistnienia; plebiscyt jako drugi równorzędny konkurs; jawne karty oceny obu konkursów; czytelnia jako warunek udziału; półka wyłącznie lokalna; głosowanie publiczności dopiero w 2028 z ukrytymi licznikami; demo na wejściu do plebiscytu; jedno zgłoszenie na osobę w obu konkursach; hymn jako materiał otwierający nabór; prawa zostają przy autorach; branding przed stroną.
 
 **Otwarte:** termin otwarcia naboru; YouTube jako okładki czy odtwarzacze; analityka; nazwa i gratyfikacja Nagrody Publiczności; kolizja terminu 60 dni z pytaniami o oceny po gali; kto wykonuje kontrolę formalną zgłoszeń plebiscytu przy dużych liczbach; skład jury plebiscytu poza przewodniczącym; honoraria jury plebiscytu i realizacja części artystycznej gali.

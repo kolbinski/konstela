@@ -28,7 +28,7 @@ Przy tej grupie wiadomość prywatna działa lepiej niż mail i często jest jed
 - **Pierwsze zdanie ma być o tej konkretnej osobie** - o jej utworze, interpretacji albo sposobie komponowania. Bez tego cała wiadomość wygląda na wysyłkę seryjną i tak zostanie potraktowana.
 - **Warunki są na stronie, nie w wiadomości.** Wiadomość prywatna ma limit długości, a jej zadaniem jest doprowadzić do kliknięcia, nie opisać wszystko.
 - **Odsłuch podajemy jako wskazówkę nastroju, nie wzór do odtworzenia.** Nagranie z generatora podane jako wzorzec sugeruje, że rola sprowadza się do zaśpiewania cudzego pomysłu, a chodzi o dokładnie odwrotną rzecz.
-- **Nie wklejać tekstu piosenki do pierwszej wiadomości.** Na Instagramie to ściana, której nikt nie czyta, a przy okazji oddaje się utwór komuś, kto jeszcze nie powiedział „tak".
+- **Nie wklejać tekstu piosenki do pierwszej wiadomości.** Na Instagramie to ściana tekstu, której nikt nie czyta, a przy okazji oddaje się utwór komuś, kto jeszcze nie powiedział „tak".
 - **Nie wysyłać kilkudziesięciu wiadomości jednego dnia z nowego konta** - serwis traktuje to jak spam i potrafi ograniczyć wysyłanie, czasem trwale. Rozłożyć na kilka dni, po kilka dziennie; przy okazji pierwsze odpowiedzi pokażą, czy tekst działa, zanim pójdzie do całej listy.
 - **Pierwsze dwie linijki decydują**, bo tylko tyle widać w podglądzie - tam ma stać to, co odróżnia tę wiadomość od dziesięciu innych z tego tygodnia.
 
