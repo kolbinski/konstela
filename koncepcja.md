@@ -757,3 +757,15 @@ Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026). Z
 Ze stopki zniknął link do karty oceny; zostało pięć pozycji zamiast sześciu.
 
 **Odchudzenie załącznika (25.10.2026).** Po scaleniu karty z regulaminem wyszły dwie powtórki i obie zostały usunięte. Nagłówek "Kolejność czytania" powtarzał § 7 ust. 13, a jego punkt trzeci powtarzał wstęp samego załącznika; jedyne zdanie, którego nie było nigdzie indziej - o tym, że rozbieżność między opisem odkrycia a treścią rozmowy należy odnotować - dopisane na końcu § 7 ust. 13. Ze wstępu załącznika zniknęło też zdanie o ocenie trzeciej przy rozbieżności powyżej 4 punktów, bo źródłem tej reguły jest § 8 ust. 12, a w karcie była przypisem do cudzego przepisu.
+
+## Przycisk powrotu w nagłówku podstron (25.10.2026)
+
+`assets/nawigacja.js`, używany przez view.html, view-xlsx.html i stronę plebiscytu. Nagłówek pokazuje "Nagroda Konstela" prowadzące na stronę główną, a zmienia się w "Powrót" cofający do poprzedniej strony tylko wtedy, gdy odwiedzający naprawdę przyszedł z innego miejsca w serwisie.
+
+Rozpoznanie opiera się na `document.referrer` i `history.length`; `browser.navigationUrls` nie istnieje. Cztery sytuacje dają stronę główną: pusty odsyłacz (wpisany adres, zakładka, nowa karta), odsyłacz z innej domeny (wyszukiwarka, cudzy link), odświeżenie tej samej strony oraz wejście przez nasze własne przekierowanie. Dwie dają "Powrót": ze strony głównej i z dokumentu do dokumentu.
+
+Domyślne zachowanie jest wpisane wprost w HTML, więc przy wyłączonym JavaScripcie nagłówek dalej działa, tylko bez cofania. Kliknięcie z Ctrl albo środkowym przyciskiem zostaje przy stronie głównej, bo cofanie w nowej karcie nie ma sensu.
+
+**Pułapka, którą trzeba pamiętać przy dodawaniu przekierowań.** Katalog przerzucający dalej przez `location.replace` ustawia odsyłacz na nasz własny serwis, choć odwiedzający przyszedł z zewnątrz - bez wyjątku pokazalibyśmy mu "Powrót", a cofnięcie wyrzuciłoby go do Google. Lista takich katalogów jest na górze `nawigacja.js` w stałej `PRZEKIEROWANIA` i **każdy nowy katalog z przekierowaniem trzeba tam dopisać**.
+
+**Usunięte katalogi przekierowujące (25.10.2026):** `/karta-oceny`, `/regulamin`, `/polityka-prywatnosci`. Przegląd korespondencji pokazał, że żaden z tych skróconych adresów nigdy nie został nikomu wysłany - wszędzie szła pełna forma `/dokument/...`. Został wyłącznie `/piosenka`, bo ten adres poszedł 22.10.2026 w wiadomościach prywatnych na Instagramie do sześciu wokalistów.
