@@ -232,6 +232,22 @@ Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach
 
 27. **Prywatna półka czytelnika.** Oznaczanie rozmów gwiazdką zapisywane jest wyłącznie w przeglądarce czytelnika, bez wysyłania czegokolwiek na serwer, z możliwością eksportu i importu pliku. Czy taki mechanizm wymaga zgody, wzmianki w polityce prywatności albo jakiejkolwiek informacji poza zdaniem wyjaśniającym.
 
+## Cw. Przepustowość drugiej rundy i rozkład ocen (dodane 25.10.2026)
+
+Luka wykryta przy sprawdzaniu scenariusza skrajnego: co się dzieje, gdy Akademia oceni wszystkie zgłoszenia jednakowo wysoko.
+
+**Na czym polegała.** § 8 ust. 14 w poprzednim brzmieniu wyznaczał wyłącznie dolną granicę drugiej rundy („nie mniej niż dwadzieścia"). Przy remisie na maksimum każde zgłoszenie ma najwyższą średnią, więc całość naboru kwalifikuje się do oceny przez Kapitułę. § 8 ust. 10b zakazuje przy tym ograniczania liczby przyjmowanych zgłoszeń i odstępowania od przeczytania któregokolwiek z nich, dopuszczając jedynie przesunięcie daty wyników - zawór bezpieczeństwa działa więc na czas, a nie na nakład pracy. Istniejące zabezpieczenia tej awarii nie wykrywają: kotwice z ust. 13 rozpoznają **zmianę** standardu oceniającego w czasie, a nie standard płaski od początku; obowiązkowy przegląd zgłoszeń granicznych zakłada istnienie granicy, której przy pełnym remisie nie ma.
+
+**Co wprowadziliśmy.** Górną granicę drugiej rundy na poziomie stu zgłoszeń (ust. 14), ogłaszaną z góry kolejność rozstrzygania remisów (ust. 14a), ograniczenie udziału najwyższego pasma do jednej piątej partii oceniającego (ust. 14b) oraz kontrolę rozkładu ocen kierującą zdegenerowaną partię do ponownego odczytu (ust. 14c).
+
+**Pytania do kancelarii:**
+
+- Czy górna granica drugiej rundy jest dopuszczalna w przyrzeczeniu publicznym, skoro zawęża krąg zgłoszeń ocenianych przez Kapitułę, i czy wystarczy jej ogłoszenie przed naborem.
+- Czy sposób rozstrzygania remisów z ust. 14a jest wystarczająco jednoznaczny, by wykluczyć zarzut uznaniowości, w szczególności czy dopuszczalne jest losowanie jako ostatni człon.
+- Czy ograniczenie rozkładu ocen z ust. 14b nie koliduje z obowiązkiem rzetelnej oceny każdego zgłoszenia według ogłoszonych kryteriów - uczestnik może twierdzić, że jego rozmowa otrzymała niższe pasmo wyłącznie dlatego, że limit został wyczerpany przez wcześniej czytane zgłoszenia z tej samej partii.
+- Czy skierowanie partii do ponownego odczytu wymaga poinformowania oceniającego i czy zachowanie pierwszej oceny w zapisie rodzi obowiązki wobec uczestnika, który zażąda wglądu we własne oceny.
+- Jak te przepisy mają się do § 8 ust. 10b: czy przy bardzo dużej liczbie zgłoszeń Organizator nadal nie może ograniczyć naboru, a jedynie przesuwać termin.
+
 ## Cx. Materiały promocyjne (dodane 24.10.2026)
 
 28. **Rysunki dzieci w materiałach promocyjnych.** Filmy reklamujące Nagrodę i plebiscyt mają być animowaną wycinanką z rysunków dzieci. Pytania: jakiej zgody wymaga wykorzystanie pracy plastycznej dziecka w materiale promocyjnym podmiotu organizującego konkurs i czy wystarcza zgoda jednego rodzica; czy zakres takiej zgody musi obejmować rozpowszechnianie bez ograniczenia czasowego oraz emisję płatną w mediach społecznościowych; czy sytuacja zmienia się, gdy rysunki pochodzą ze szkoły biorącej udział w Uczniowskiej Akademii, a zbiera je nauczyciel; oraz czy należy podpisywać autorów rysunków imieniem, skoro są to osoby niepełnoletnie. Wariantem rozważanym alternatywnie jest ilustrator dorosły rysujący stylizowaną „dziecięcą ręką" - prosimy o wskazanie, czy ten wariant zdejmuje problem w całości.
