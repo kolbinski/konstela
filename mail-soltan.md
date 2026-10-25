@@ -124,4 +124,4 @@ Do rozstrzygnięcia: czy takie zaproszenie ma sens artystyczny i czy istnieje dr
 
 ## 8. Po spotkaniu
 
-Kwoty wchodzą do arkusza budżetu, do zakładki [Budżet P](/arkusz/budzet-edycji-pierwszej?tab=p) - honoraria jury i realizacja części artystycznej gali stoją tam na zerze. Warunki współpracy doradczej potwierdzamy krótkim mailem.
+Kwoty wchodzą do arkusza budżetu, do zakładki [Budżet Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) - honoraria jury i realizacja części artystycznej gali stoją tam na zerze. Warunki współpracy doradczej potwierdzamy krótkim mailem.

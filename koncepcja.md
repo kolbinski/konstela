@@ -112,20 +112,21 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **Przesunięcie edycji na 2027 kupuje czas na sponsorów**: kilka miesięcy do wiosny, a zgłoszenia i tak otwierają się dopiero wtedy.
 
-**Budżet pierwszej edycji - trzy wnioski do trzech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia wszystkich trzech bloków są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet N, Budżet A i Budżet P.
+**Budżet pierwszej edycji - cztery wnioski do czterech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia wszystkich trzech bloków są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Nagrody, Budżet Antologii, Budżet Plebiscytu i Budżet Akademii.
 
 | Budżet | Przedmiot | Kwota | Źródło liczby |
 |---|---|---:|---|
-| N | Nagroda i gala - pula nagród, honoraria Kapituły i Akademii, gala, promocja naboru, prowadzenie konkursu | **ok. 603 tys. zł netto** | [arkusz, zakładka Budżet N](/arkusz/budzet-edycji-pierwszej?tab=n) |
-| A | Antologia i archiwum - redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 271,7 tys. zł netto** | [arkusz, zakładka Budżet A](/arkusz/budzet-edycji-pierwszej?tab=a) |
-| P | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 256,6 tys. zł netto** | [arkusz, zakładka Budżet P](/arkusz/budzet-edycji-pierwszej?tab=p) |
+| Nagrody | Nagroda i gala - pula nagród, honoraria Kapituły, gala, promocja naboru, prowadzenie konkursu | **ok. 561,7 tys. zł netto** | [arkusz, zakładka Budżet Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) |
+| Antologii | Antologia i archiwum - redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 271,7 tys. zł netto** | [arkusz, zakładka Budżet Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) |
+| Plebiscytu | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 256,6 tys. zł netto** | [arkusz, zakładka Budżet Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) |
+| Akademii | Pierwsza runda oceny - honoraria czytelników i vouchery rosnące z liczbą ocenionych rozmów, kalibracja, rozliczenie | **ok. 49,3 tys. zł netto** | [arkusz, zakładka Budżet Akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) |
 
-**Trzy zastrzeżenia, bez których tej tabeli nie wolno sumować.**
+**Cztery zastrzeżenia, bez których tej tabeli nie wolno sumować.**
 
-1. **Wszystkie trzy kwoty są netto i obejmują pracę organizatora oraz rezerwę**, a nie same koszty twarde. Nagrody wchodzą w nie jako kwoty brutto dla laureatów, bez VAT - tak jak w arkuszu.
-2. **Budżet P nie zawiera honorariów jury plebiscytu ani realizacji części artystycznej gali** - obie pozycje stoją w arkuszu na zerze i czekają na wycenę od Michała Sołtana. Po ich wpisaniu kwota Budżetu P wzrośnie.
-3. **Budżet N obejmuje galę**, a część artystyczna gali należy do Budżetu P. Granicę trzeba przeciąć raz i wyraźnie, zanim któraś z tych kwot pójdzie do sponsora.
-4. **Łącznie trzy wnioski to ok. 1 132 tys. zł netto przy 937 godzinach pracy.** Stawka rzeczywista wychodzi 224,20 zł za godzinę wobec założonych 220, co jest sprawdzianem, że model się nie rozjeżdża.
+1. **Wszystkie cztery kwoty są netto i obejmują pracę organizatora oraz rezerwę**, a nie same koszty twarde. Nagrody wchodzą w nie jako kwoty brutto dla laureatów, bez VAT - tak jak w arkuszu.
+2. **Budżet Plebiscytu nie zawiera honorariów jury plebiscytu ani realizacji części artystycznej gali** - obie pozycje stoją w arkuszu na zerze i czekają na wycenę od Michała Sołtana. Po ich wpisaniu kwota Budżetu P wzrośnie.
+3. **Budżet Nagrody obejmuje galę**, a część artystyczna gali należy do Budżetu Plebiscytu. Granicę trzeba przeciąć raz i wyraźnie, zanim któraś z tych kwot pójdzie do sponsora.
+4. **Łącznie cztery wnioski to ok. 1 139,3 tys. zł netto przy 937 godzinach pracy.** Stawka rzeczywista wychodzi 224,20 zł za godzinę wobec założonych 220, co jest sprawdzianem, że model się nie rozjeżdża.
 
 **Historia dla porządku:** pierwszy szacunek z 19.10.2026 mówił o 1,5-2,5 tys. zł i obejmował wyłącznie wydatki gotówkowe, przez co zaniżał koszt projektu kilkunastokrotnie. Rachunek uczciwy musi wyceniać pracę organizatora, nawet jeżeli pozostaje ona wkładem nieodpłatnym - edycja pierwsza to 772 godziny.
 

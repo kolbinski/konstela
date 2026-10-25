@@ -708,14 +708,6 @@
         background: var(--surface);
         padding: 1.5rem 1.4rem;
       }
-      /* Pięć kafli w dwóch kolumnach zostawia szóste, puste pole, w którym
-         przeświecało tło siatki (kolor linii). Wypełniamy je jasnym kaflem.
-         Na mobile siatka ma jedną kolumnę, więc wypełniacz jest zbędny. */
-      #partnerzy .awards::after {
-        content: '';
-        display: none;
-        background: var(--surface);
-      }
       .awards h3 {
         font-family: var(--display);
         font-size: 1.35rem;
@@ -724,9 +716,6 @@
       @media (min-width: 620px) {
         .awards {
           grid-template-columns: 1fr 1fr;
-        }
-        #partnerzy .awards::after {
-          display: block;
         }
       }
       @media (min-width: 620px) {
@@ -1981,6 +1970,15 @@
               Wydanie książkowe antologii oraz płyty z nagraniami finalistów
               plebiscytu - można wejść w jeden z tych dwóch zakresów, nie
               szukamy firmy wydającej oba.
+            </p>
+          </article>
+          <article>
+            <h3>Sponsor Akademii</h3>
+            <p>
+              Pierwsza runda oceny: ludzie, którzy czytają wszystkie
+              zgłoszenia. Koszt rośnie wprost z liczbą przeczytanych rozmów,
+              więc finansowanie da się oprzeć na świadczeniu rzeczowym - na
+              przykład voucherze zakupowym za każde sto ocenionych rozmów.
             </p>
           </article>
           <article>

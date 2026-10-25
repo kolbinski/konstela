@@ -220,11 +220,11 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 
 23. **Analityka bezcookiesowa.** Strona nie ma dziś żadnej analityki ani komunikatu o ciasteczkach i chcę to utrzymać, ale potrzebuję podstawowych danych o ruchu, żeby móc ocenić skuteczność kampanii przed naborem. Rozważane narzędzia nie zapisują niczego na urządzeniu odwiedzającego: **Plausible** (serwery w UE, usługa płatna), **Umami** (otwarty kod, hostowany samodzielnie), **GoatCounter** oraz **Cloudflare Web Analytics**. Pytania: czy przy takich narzędziach odpada obowiązek uzyskania zgody na przechowywanie informacji w urządzeniu końcowym; jaka podstawa prawna właściwa jest dla przetwarzania adresu IP i danych o wizycie i jak opisać to w polityce prywatności; czy przy **Cloudflare Web Analytics**, wobec amerykańskiej przynależności dostawcy, da się utrzymać deklarację, że dane nie opuszczają Europejskiego Obszaru Gospodarczego, a jeżeli nie, to na jakiej podstawie mogłyby być przekazywane - pytanie wiąże się z pkt 13 powyżej, dotyczącym hostingu u GitHub, Inc.
 
-## Cv. Ściana zgłoszeń, archiwum i jawna punktacja (dodane 24.10.2026)
+## Cv. Czytelnia zgłoszeń, archiwum i jawna punktacja (dodane 24.10.2026)
 
 Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach i wymagająca sprawdzenia przed naborem.
 
-24. **Ściana zgłoszeń jako warunek udziału.** Każde zgłoszenie, które przeszło ocenę formalną, trafia na publiczną listę zawierającą tytuł rozmowy, podpis uczestnika (nazwisko albo pseudonim, jego wybór), link opublikowany przez uczestnika, opis odkrycia i jego uzasadnienie. Czy obowiązkowy charakter takiej publikacji w trakcie trwania konkursu jest dopuszczalny i jak go opisać w regulaminie oraz w polityce prywatności, skoro dotychczasowa zgoda na publikację dotyczyła antologii i archiwum po rozstrzygnięciu.
+24. **Czytelnia zgłoszeń jako warunek udziału.** Każde zgłoszenie, które przeszło ocenę formalną, trafia na publiczną listę zawierającą tytuł rozmowy, podpis uczestnika (nazwisko albo pseudonim, jego wybór), link opublikowany przez uczestnika, opis odkrycia i jego uzasadnienie. Czy obowiązkowy charakter takiej publikacji w trakcie trwania konkursu jest dopuszczalny i jak go opisać w regulaminie oraz w polityce prywatności, skoro dotychczasowa zgoda na publikację dotyczyła antologii i archiwum po rozstrzygnięciu.
 
 25. **Jawna punktacja wszystkich zgłoszeń jako warunek udziału.** Archiwum ma pozostać dostępne na stałe i umożliwiać sortowanie po ocenach wystawionych przez Akademię, Kapitułę i publiczność - również przy zgłoszeniach ocenionych nisko i również pod nazwiskiem, jeżeli uczestnik nie wybrał pseudonimu. Pytania: czy zgodę na trwałą publikację własnej oceny można uczynić warunkiem udziału; jak ją sformułować, żeby była świadoma; czy uczestnik może później żądać usunięcia samej punktacji przy zachowaniu rozmowy; oraz czy ocena wystawiona konkretnej osobie i publikowana bezterminowo rodzi obowiązki szersze niż publikacja samej rozmowy.
 
@@ -251,6 +251,18 @@ Luka wykryta przy sprawdzaniu scenariusza skrajnego: co się dzieje, gdy Akademi
 ## Cx. Materiały promocyjne (dodane 24.10.2026)
 
 28. **Rysunki dzieci w materiałach promocyjnych.** Filmy reklamujące Nagrodę i plebiscyt mają być animowaną wycinanką z rysunków dzieci. Pytania: jakiej zgody wymaga wykorzystanie pracy plastycznej dziecka w materiale promocyjnym podmiotu organizującego konkurs i czy wystarcza zgoda jednego rodzica; czy zakres takiej zgody musi obejmować rozpowszechnianie bez ograniczenia czasowego oraz emisję płatną w mediach społecznościowych; czy sytuacja zmienia się, gdy rysunki pochodzą ze szkoły biorącej udział w Uczniowskiej Akademii, a zbiera je nauczyciel; oraz czy należy podpisywać autorów rysunków imieniem, skoro są to osoby niepełnoletnie. Wariantem rozważanym alternatywnie jest ilustrator dorosły rysujący stylizowaną „dziecięcą ręką" - prosimy o wskazanie, czy ten wariant zdejmuje problem w całości.
+
+## Cy. Sponsor Akademii i vouchery dla czytelników (dodane 25.10.2026)
+
+Rozważamy osobnego sponsora pierwszej rundy oceny - najprawdopodobniej sieć handlową - który finansowałby pracę czytelników Akademii **świadczeniem rzeczowym**: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet Akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii).
+
+29. **Charakter świadczenia i podatek po stronie czytelnika.** Voucher otrzymywany przez czytelnika Akademii - jak go zakwalifikować? Jeżeli czytelnik pracuje na podstawie umowy zlecenia, czy voucher stanowi część wynagrodzenia z tej umowy, czy odrębne świadczenie? Jeżeli czytelnik działa nieodpłatnie albo na podstawie porozumienia wolontariackiego, czy powstaje przychód z innych źródeł i obowiązek wystawienia PIT-11? Czy zastosowanie ma zwolnienie z art. 21 ustawy o PIT, a jeżeli tak, do jakiej kwoty? Jak to wygląda po stronie składek ZUS.
+
+30. **Rozliczenie między fundacją a sponsorem rzeczowym.** Sponsor przekazuje vouchery, a nie pieniądze. Czy po stronie Organizatora to darowizna rzeczowa, czy świadczenie wzajemne rozliczane fakturą za usługę promocyjną - tak jak zakładamy przy pozostałych budżetach? Jak ustalić podstawę opodatkowania VAT, skoro voucher ma nominał, a koszt wystawcy jest od niego niższy. Czy przekazanie voucherów dalej, czytelnikom, rodzi po stronie fundacji obowiązek w VAT.
+
+31. **Niezależność oceny wobec sponsora komercyjnego.** Sponsor finansuje ciało, które jako pierwsze punktuje zgłoszenia. Zamierzamy zapisać, że sponsor nie ma kontaktu z czytelnikami, dostępu do zgłoszeń przed ogłoszeniem wyników ani wpływu na przydziały, a jego udział jest jawny na stronie Nagrody i w antologii. Pytania: czy ten zestaw wystarczy, żeby wykluczyć zarzut wpływu na wynik konkursu; czy takie zastrzeżenie należy umieścić w regulaminie, czy wystarczy umowa sponsorska; czy fakt, że wysokość świadczenia zależy od liczby ocenionych rozmów, a nie od ich wyniku, ma tu znaczenie prawne.
+
+32. **Bodziec ilościowy a rzetelność oceny.** Świadczenie naliczane od liczby przeczytanych rozmów premiuje tempo. Rozważamy przestawienie jednostki na **ukończony przydział czytelnika** zamiast na liczbę rozmów. Czy z punktu widzenia odpowiedzialności Organizatora za rzetelność rozstrzygnięcia któraś z tych konstrukcji jest wyraźnie bezpieczniejsza.
 
 ## Cz. Plebiscyt na piosenkę - lista odrębna
 
