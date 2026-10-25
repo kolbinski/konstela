@@ -6,7 +6,7 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 
 **Zespoły i duety są jak najbardziej mile widziane.** „Własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa. Zgłoszenie wskazuje wtedy osobę reprezentującą cały skład, a sposób podziału nagrody pozostaje sprawą zgłaszających.
 
-**Dla kogo.** Dla półprofesjonalistów: ludzi, którzy grają, śpiewają i piszą, mają już jakieś zasięgi, ale nie są gwiazdami.
+**Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną działalność artystyczną - tych, którzy grają, śpiewają i piszą po swojemu, a nie są jeszcze gwiazdami. Formalnego progu nie ma: nie pytamy o zasięgi, dorobek ani o to, czy masz kontrakt.
 
 ## Na jakim to jest etapie
 
@@ -17,17 +17,17 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 ## Jak to ma działać
 
-**Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS, tak samo jak przy zgłaszaniu rozmów. Limit dotyczy zgłoszeń, które reprezentujesz - w cudzych możesz brać udział jako współautor albo wykonawca bez ograniczeń, bo w muzyce granie u kilku osób naraz jest normą, a nie nadużyciem.
+**Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS, tak samo jak przy zgłaszaniu rozmów. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń, bo w muzyce granie u kilku osób naraz jest normą, a nie nadużyciem. Pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta - przyjmujemy to świadomie, bo alternatywą byłoby dociekanie, kto z kim tworzy projekt.
 
 **Zgłoszenie.** Jedna piosenka: Twój tekst, Twoja muzyka, Twoje wykonanie. Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Zgłoszenia prezentowane są na stronie Nagrody w miarę, jak napływają.
 
 **Wystarczy czytelne demo.** Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator. Jury dostaje przy tym wyraźne wskazanie, że ocenia utwór i wykonanie, a nie budżet realizacji.
 
-**Melodia i głos są ludzkie, tekst wolno napisać z AI.** To nie jest konkurs na abstynencję od sztucznej inteligencji - Konstela jest o świadomym życiu z nią, nie o udawaniu, że jej nie ma. Granica biegnie tam, gdzie zaczyna się to, co faktycznie oceniamy.
+**Melodia i głos są ludzkie, tekst wolno napisać z AI.** To nie jest konkurs na abstynencję od sztucznej inteligencji - Konstela jest o świadomym życiu z nią, nie o udawaniu, że jej nie ma.
 
 **Melodia, harmonia i wokal muszą być Twoje.** Niedozwolone jest zgłoszenie melodii lub harmonii przejętej z wygenerowanego nagrania - odsłuchanej i spisanej, przerobionej, przyspieszonej czy przeharmonizowanej. Dozwolone i niewymagające deklaracji jest używanie generatora do szukania klimatu i sprawdzania pomysłów, zanim napiszesz własne. Nikt nie zabroni Ci słuchać; zakaz dotyczy pochodzenia tego, co zgłaszasz. Partia wokalna w całości ludzka, bez wyjątków.
 
-**Tekst wolno napisać z AI, trzeba tylko powiedzieć jak.** Jeżeli przegadałeś z AI parę godzin temat, poprosiłeś na koniec o wersję tekstu i potem przepisałeś ją po swojemu - to jest dozwolone i jest to dokładnie ta praca, którą Nagroda Konstela mierzy w głównym konkursie. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
+**Tekst wolno napisać z AI, trzeba tylko powiedzieć jak.** Jeżeli przegadałeś z AI parę godzin temat, poprosiłeś na koniec o wersję tekstu i potem przepisałeś ją po swojemu - to jest dozwolone i jest to dokładnie ta praca, którą Nagroda Konstela mierzy w głównym konkursie. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja służy jawności i weryfikacji, nie punktacji. Tekst napisany z AI i tekst napisany bez niej idą do oceny na tych samych zasadach. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
 
 Narzędzia wolno też używać **na etapie produkcji i obróbki**: korekta wysokości dźwięku, usuwanie szumu, separacja śladów, mastering, pomoc w brzmieniu. Przy zgłoszeniu deklaruje się, czego i do czego użyto.
 
@@ -37,9 +37,9 @@ Weryfikacja nie opiera się na tym, że jury rozpozna generator po odsłuchu, bo
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
-| Ujęcie tematu | 25 | Czy utwór mówi o życiu z AI coś niebanalnego, czy powiela dwa bieguny: strach przed maszyną albo zachwyt nad nią |
-| Tekst | 30 | Język, obraz, konstrukcja; czy wers broni się także poza melodią |
-| Muzyka | 25 | Melodia, harmonia, forma; czy utwór zostaje w głowie |
+| Ujęcie tematu | 25 | Oryginalność i konkretność spojrzenia na życie z AI; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat |
+| Tekst | 30 | Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką |
+| Muzyka | 25 | Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w głowie |
 | Wykonanie | 20 | Wokal i interpretacja |
 | **Razem** | **100** | |
 
@@ -55,13 +55,28 @@ Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie.
 
 **Nagrody.** Nagrody pieniężne dla czołowej trójki, dwie nagrody publiczności oraz statuetki - wysokość podamy przy ogłoszeniu. Osobno od pieniędzy: dziesięć najwyżej ocenionych utworów zostanie nagranych profesjonalnie w studiu, a nagrania mają ukazać się na **płycie wydanej przez wydawnictwo-partnera**. Płyta jest dla plebiscytu tym, czym antologia dla konkursu głównego: nie zdjęciem rękopisu, lecz porządnym wydaniem tego samego.
 
-**Nagranie też zostaje Twoje.** Finansujemy je, ale nie zostawiamy sobie do niego praw i nie bierzemy procentu od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody - to jest akurat rzecz, którą w umowach z wytwórniami oddaje się jako pierwszą, a tutaj jej nie oddajesz.
+**Nagranie też zostaje Twoje.** Finansujemy je, ale nie zostawiamy sobie do niego praw i nie bierzemy procentu od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody.
 
-**Koszt nagrań jest pozycją w budżecie konkursu, zabezpieczaną razem z nagrodami** - nie zależy więc od tego, czy znajdzie się wydawnictwo, ale zależy od uruchomienia samego konkursu, czyli od uruchomienia konkursu. Wydawnictwo-partner nie jest jeszcze wybrane; bez niego powstają nagrania, lecz nie powstaje wydanie płytowe. Prawa do nagrań i do utworów zostają przy ich autorach.
+**Koszt nagrań jest pozycją w budżecie konkursu, zabezpieczaną razem z nagrodami** - nie zależy więc od tego, czy znajdzie się wydawnictwo, ale od tego, czy konkurs w ogóle wystartuje. Wydawnictwo-partner nie jest jeszcze wybrane; bez niego powstają nagrania, lecz nie powstaje wydanie płytowe. Prawa do nagrań i do utworów zostają przy ich autorach.
+
+## Terminy i sposób zgłoszenia
+
+Plebiscyt nie jest jeszcze ogłoszony, więc poniższe terminy są planem, a nie zobowiązaniem. Podajemy je, bo udział wymaga zarezerwowania czasu.
+
+| | |
+|---|---|
+| Otwarcie naboru | początek 2027, razem z premierą hymnu |
+| Zamknięcie naboru | styczeń 2028 |
+| Gala i rozstrzygnięcie | marzec 2028 |
+| Nagrania studyjne finalistów | po rozstrzygnięciu, termin do ustalenia z producentem |
+
+**Jak się zgłasza.** Przesyłasz **link do nagrania na YouTube**, nie plik - dzięki temu nie ma transferu wielkich plików, a Ty zachowujesz kontrolę nad tym, co publikujesz. Link musi działać przez cały czas trwania oceny. Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
+
+**Czego jeszcze nie rozstrzygnęliśmy:** czy udział w gali jest obowiązkiem finalistów, czy zaproszeniem, oraz jak wygląda harmonogram sesji nagraniowych. Rozstrzygniemy to z jury przed ogłoszeniem i napiszemy tutaj, zanim poprosimy kogokolwiek o zgłoszenie.
 
 ## Hymn Nagrody
 
-Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej", nagrany przez **jurorów**, którzy biorą udział w nagraniu. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi.
+Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują jurorzy i oni go nagrywają** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi.
 
 Hymn ma zostać nagrany i wydany na początku 2027 roku, bo jego premiera otwiera nabór, a na gali w 2028 wykonywany jest na żywo.
 
@@ -96,9 +111,9 @@ Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym 
   </tr>
 </table>
 
-Wkrótce dojdzie trzecia wersja: ten sam tekst nagrany przez jurorów plebiscytu, czyli przez ludzi z głosem, oddechem i własną decyzją w każdej frazie. Wtedy wszystkie trzy staną obok siebie na tej stronie i każdy będzie mógł je przesłuchać, porównać i ocenić sam.
+Wkrótce dojdzie trzecia wersja: **te same słowa z nową muzyką**, skomponowaną i nagraną przez jurorów plebiscytu. Melodia powstaje od zera, a nie z przejęcia tej z generatora - czyli dokładnie tak, jak wymagamy od zgłaszających. Wtedy wszystkie trzy staną obok siebie na tej stronie i każdy będzie mógł je przesłuchać, porównać i ocenić sam.
 
-I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby usłyszeć na własne uszy, co dokłada człowiek, kiedy wchodzi w tę samą piosenkę - i czy to słychać. Ta sama różnica decyduje w głównej Nagrodzie, tyle że tam dotyczy rozmowy zamiast dźwięku.
+I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby usłyszeć na własne uszy, co dokłada człowiek, kiedy dostaje te same słowa i pisze do nich własną muzykę - i czy to słychać. Ta sama różnica decyduje w głównej Nagrodzie, tyle że tam dotyczy rozmowy zamiast dźwięku.
 
 Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu.
 
