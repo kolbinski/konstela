@@ -1,17 +1,50 @@
-<!-- konstela.org/plebiscyt-piosenki - docelowy adres strony plebiscytu.
-     Przekierowuje do view.html, ktory renderuje plebiscyt-piosenki.md. -->
-<!DOCTYPE html>
+<!-- konstela.org/plebiscyt-piosenki/ - ta sama przegladarka dokumentow co /view.html.
+     Nazwe dokumentu rozpoznaje mapa DEDYKOWANE w /assets/view.js.
+     Plik nie zawiera logiki ani stylu, wiec nie ma w nim czego aktualizowac. -->
+<!doctype html>
 <html lang="pl">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Nagroda Konstela</title>
-<link rel="canonical" href="https://konstela.org/view.html?file=plebiscyt-piosenki">
-<meta name="robots" content="noindex, follow">
-<meta http-equiv="refresh" content="0; url=../view.html?file=plebiscyt-piosenki">
-<script>location.replace('../view.html?file=plebiscyt-piosenki');</script>
-</head>
-<body>
-<p>Przechodzenie do dokumentu. Jeśli nic się nie dzieje, <a href="../view.html?file=plebiscyt-piosenki">kliknij tutaj</a>.</p>
-</body>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>Nagroda Konstela</title>
+    <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
+    <meta name="apple-mobile-web-app-title" content="Nagroda Konstela" />
+    <meta
+      name="theme-color"
+      content="#f6f2e9"
+      media="(prefers-color-scheme: light)"
+    />
+    <meta
+      name="theme-color"
+      content="#14120e"
+      media="(prefers-color-scheme: dark)"
+    />
+    <meta name="robots" content="index, follow" />
+    <script src="/assets/marked.min.js"></script>
+    <link rel="stylesheet" href="/assets/view.css" />
+  </head>
+  <body>
+    <header class="masthead">
+      <span class="left">
+        <a class="back" href="/" aria-label="Wróć na stronę główną">&#8592;</a>
+        <a class="brand" href="/">Nagroda Konstela</a>
+      </span>
+      <span class="tag">nagroda za rozmowy z AI</span>
+    </header>
+
+    <main id="content">
+      <div class="state">Wczytywanie</div>
+    </main>
+
+    <footer class="foot">
+      <a href="/">konstela.org</a>
+    </footer>
+
+    <script src="/assets/view.js"></script>
+  </body>
 </html>
