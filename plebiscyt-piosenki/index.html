@@ -1,6 +1,6 @@
 <!-- konstela.org/plebiscyt-piosenki/ - ta sama przegladarka dokumentow co /view.html.
      Nazwe dokumentu rozpoznaje mapa DEDYKOWANE w /assets/view.js.
-     Plik nie zawiera logiki ani stylu, wiec nie ma w nim czego aktualizowac. -->
+     Cala logika, styl i stopka sa w plikach wspolnych w /assets. -->
 <!doctype html>
 <html lang="pl">
   <head>
@@ -40,10 +40,9 @@
       <div class="state">Wczytywanie</div>
     </main>
 
-    <footer class="foot">
-      <a href="/">konstela.org</a>
-    </footer>
+    <konstela-stopka></konstela-stopka>
 
     <script src="/assets/view.js"></script>
+    <script src="/assets/stopka.js" defer></script>
   </body>
 </html>
