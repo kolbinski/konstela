@@ -405,3 +405,17 @@ Dopisana nowa pozycja: **dojazd i nocleg dziesięciu finalistów na galę**, kon
 Budżet Plebiscytu spadł z 261 656 zł do **256 616 zł** netto (zdjęte 4 500 zł plus 12% rezerwy od tej kwoty). Suma czterech budżetów: **1 145 130,80 zł** netto.
 
 Przy okazji poprawione odesłanie w zakładce Wyjaśnienia: po wstawieniu wiersza wskazywało na Rezerwę zamiast na RAZEM NETTO.
+
+### Mail do ByteLaw - wysłany 25.10.2026
+
+Prośba o wycenę przeglądu projektu regulaminu plebiscytu wraz z odpowiedziami na listę pytań plebiscytowych. Ustalenia, które z tego maila obowiązują:
+
+**To nie jest zlecenie.** Mail mówi wprost, że żadna praca nie jest zamawiana, że sponsora plebiscytu nie ma i że zlecenie zostanie złożone osobną, wyraźną wiadomością dopiero wtedy, gdy będą na nie pieniądze. Prośba o kwotę i termin służy wpisaniu ich do kosztorysu zamiast liczb wymyślonych przez Organizatora.
+
+**Zmieniony przedmiot wyceny.** Wcześniej: odpowiedzi na listę pytań. Teraz: przegląd gotowego dokumentu plus odpowiedzi - tańsze i konkretniejsze niż pisanie regulaminu od zera.
+
+**Wersja wiążąca to ta ze strony, z 25.10.2026.** Bez załączników, dwa linki: /dokument/regulamin-plebiscytu i /dokument/prawnik-plebiscyt. Każda późniejsza zmiana ma być zgłaszana odrębnie.
+
+**Punkt 1 listy pytań zostaje na liście mimo dezaktualizacji.** Pyta, czy regulamin plebiscytu ma być osobnym dokumentem, czy aneksem; odpowiedź zapadła na rzecz osobnego dokumentu. Mail to prostuje i wyjaśnia, że punkt zostaje wyłącznie po to, by nie rozsynchronizować numeracji używanej w korespondencji. Dzięki temu nie trzeba przepisywać `prawnik-plebiscyt.md` przed wysyłką.
+
+**Usunięte przed wysłaniem:** akapit o braku presji czasu wraz z propozycją rozmowy. Powód: mówienie kancelarii, że sprawa może poczekać, oddaje pozycję w jej kolejce za darmo, a o termin mail prosi akapit wyżej. Gotowość do rozmowy stoi już na końcu listy pytań.
