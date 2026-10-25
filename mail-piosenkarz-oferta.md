@@ -4,7 +4,7 @@
 
 **Co zostaje i po co.** Decyzje dotyczące tekstu, bo będą potrzebne jurorom przy nagraniu i przy każdej przyszłej rozmowie o aranżacji, oraz zasady pisania do wykonawców, bo zapraszanie do plebiscytu pójdzie tą samą drogą.
 
-**Obowiązujący tekst piosenki jest w [plebiscyt-piosenki](view.html?file=plebiscyt-piosenki)** i to jest jedyne jego źródło. Szersze tło decyzji opisuje [koncepcja](view.html?file=koncepcja), sekcja „Piosenka Nagrody".
+**Obowiązujący tekst piosenki jest w [plebiscyt-piosenki](/dokument/plebiscyt-piosenki)** i to jest jedyne jego źródło. Szersze tło decyzji opisuje [koncepcja](/dokument/koncepcja), sekcja „Piosenka Nagrody".
 
 ## Decyzje dotyczące tekstu
 
@@ -24,7 +24,7 @@
 
 Przy tej grupie wiadomość prywatna działa lepiej niż mail i często jest jedynym kanałem.
 
-- **Wysyłamy z konta osobistego, nie z konta marki.** Propozycja od profilu instytucjonalnego z zerem obserwujących czyta się jak oszustwo, a wiarygodność stoi na tym, kto ją składa. Profil zasilony czterema wpisami 22.10.2026 (medal, „Nagradzamy ludzi", „Gwiazdy nie wiedzą", piosenka); grafiki w katalogu `instagram/`, teksty w [instagram-wpisy](view.html?file=instagram-wpisy).
+- **Wysyłamy z konta osobistego, nie z konta marki.** Propozycja od profilu instytucjonalnego z zerem obserwujących czyta się jak oszustwo, a wiarygodność stoi na tym, kto ją składa. Profil zasilony czterema wpisami 22.10.2026 (medal, „Nagradzamy ludzi", „Gwiazdy nie wiedzą", piosenka); grafiki w katalogu `instagram/`, teksty w [instagram-wpisy](/dokument/instagram-wpisy).
 - **Pierwsze zdanie ma być o tej konkretnej osobie** - o jej utworze, interpretacji albo sposobie komponowania. Bez tego cała wiadomość wygląda na wysyłkę seryjną i tak zostanie potraktowana.
 - **Warunki są na stronie, nie w wiadomości.** Wiadomość prywatna ma limit długości, a jej zadaniem jest doprowadzić do kliknięcia, nie opisać wszystko.
 - **Odsłuch podajemy jako wskazówkę nastroju, nie wzór do odtworzenia.** Nagranie z generatora podane jako wzorzec sugeruje, że rola sprowadza się do zaśpiewania cudzego pomysłu, a chodzi o dokładnie odwrotną rzecz.
@@ -32,4 +32,4 @@ Przy tej grupie wiadomość prywatna działa lepiej niż mail i często jest jed
 - **Nie wysyłać kilkudziesięciu wiadomości jednego dnia z nowego konta** - serwis traktuje to jak spam i potrafi ograniczyć wysyłanie, czasem trwale. Rozłożyć na kilka dni, po kilka dziennie; przy okazji pierwsze odpowiedzi pokażą, czy tekst działa, zanim pójdzie do całej listy.
 - **Pierwsze dwie linijki decydują**, bo tylko tyle widać w podglądzie - tam ma stać to, co odróżnia tę wiadomość od dziesięciu innych z tego tygodnia.
 
-Lista nazwisk i stan kontaktów: [piosenkarze-lista](view.html?file=piosenkarze-lista).
+Lista nazwisk i stan kontaktów: [piosenkarze-lista](/dokument/piosenkarze-lista).

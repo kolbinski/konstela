@@ -55,4 +55,4 @@ To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Przy nab
 - jak zapewnić, by skład zespołu zbieżności był stały przez całą rundę (choroba, rezygnacja),
 - czy przy usunięciu dzikiej karty podnieść audyt losowy z 1/10 na więcej, i na ile.
 
-Powiązane: skalowanie Akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](view.html?file=koncepcja), sekcja o MEN.
+Powiązane: skalowanie Akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](/dokument/koncepcja), sekcja o MEN.

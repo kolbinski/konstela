@@ -33,7 +33,9 @@ Czas rejestracji w KRS potrafi wynieść od kilku tygodni do ponad dwóch miesi�
 
 Faktura za usługę, nie darowizna. Tubądzin dostaje świadczenie wzajemne (logo na stronie, pięć minut podczas gali), więc kupuje usługę i rozlicza ją w kosztach. Darowizna byłaby dla sponsora gorsza podatkowo, a przy odbiorcy będącym osobą fizyczną także dla organizatora.
 
-Kwota: blok B z `Konstela-budzet-dwaj-sponsorzy.xlsx`, czyli 67 tys. netto / 82 tys. brutto. Założenie fundacji to w tym rząd wielkości kilku tysięcy złotych - pozycja, nie uzasadnienie całego bloku. Wobec sponsora blok B nazywamy tym, czym jest: prowadzeniem konkursu i wyprodukowaniem antologii.
+**Kwota: 271 700 zł netto, czyli 334 191 zł brutto do zapłaty** - cała zakładka [Budżet A](/arkusz/budzet-edycji-pierwszej?tab=a) arkusza budzet-edycji-pierwszej, obejmująca antologię i archiwum. Na tę sumę składa się 88 000 zł pracy organizatora, 121 000 zł kosztów twardych i 62 700 zł marży. Rozstrzygnięte 25.10.2026: **Tubądzin jest sponsorem całego Budżetu A**, a nie sponsorem organizacyjnym z osobną, mniejszą kwotą. Założenie fundacji to w tym rząd wielkości kilku tysięcy złotych - pozycja, nie uzasadnienie całego bloku. Wobec sponsora nazywamy to tym, czym jest: prowadzeniem konkursu i wyprodukowaniem antologii.
+
+*Do 25.10.2026 stało w tym miejscu „67 tys. netto / 82 tys. brutto". Tych liczb nie ma w arkuszu ani w jego wersji z 19.10.2026; pochodziły z modelu sprzed podziału na trzy wnioski, gdy blok B znaczył co innego i był czterokrotnie mniejszy.*
 
 **Nazwa nagrody nie jest na sprzedaż.** "Nagroda Konstela, sponsor organizacyjny: Tubądzin" - tak. "Nagroda Konstela Tubądzin" - nie, bo zamyka drogę do sponsora tytularnego i do wersji międzynarodowej.
 
@@ -57,7 +59,7 @@ Mail do Cezarego i rozmowa z Wodzyńskim idą **równolegle**, jedno nie czeka n
 
 ## Rada fundacji - po co i kto
 
-**Po co.** Minimum prawne to sam zarząd, ale przy konstrukcji, w której fundator jest jednocześnie jedynym członkiem zarządu i stroną umowy o prowadzenie Nagrody, fundacja zawierałaby umowę sama ze sobą. Potrzebny jest organ reprezentujący fundację wobec zarządu - rada, która sama podpisuje albo powołuje pełnomocnika. To jedyny twardy powód, dla którego rada musi istnieć, i przesądza o kształcie statutu. Powiązane: pytanie 38 w [prawnik.md](view.html?file=prawnik).
+**Po co.** Minimum prawne to sam zarząd, ale przy konstrukcji, w której fundator jest jednocześnie jedynym członkiem zarządu i stroną umowy o prowadzenie Nagrody, fundacja zawierałaby umowę sama ze sobą. Potrzebny jest organ reprezentujący fundację wobec zarządu - rada, która sama podpisuje albo powołuje pełnomocnika. To jedyny twardy powód, dla którego rada musi istnieć, i przesądza o kształcie statutu. Powiązane: pytanie 38 w [prawnik.md](/dokument/prawnik).
 
 **Ilu.** Zarząd jedno- lub dwuosobowy plus **rada dwu-, trzyosobowa**; przy trzech łatwiej o kworum, gdy ktoś wypadnie.
 
@@ -99,13 +101,13 @@ Polecone biuro rachunkowe: https://biuro-lex.pl/
 
 **Stan na 23.10.2026:** oba zgłoszenia przez formularz wysłane, projekt statutu przesłany mailem jako `statut.docx` wraz z odnośnikiem do wersji na stronie. Czekamy na kontakt doradcy prawnego i księgowego. Bez odpowiedzi do 28.10 dzwonimy na +48 451 225 034, bo notariusz planowany jest na początek listopada. Do Biuro-Lex piszemy równolegle, niezależnie od terminu konsultacji.
 
-**1. Działalność gospodarcza - potwierdzona.** Jeżeli fundacja będzie udzielać licencji w sposób ciągły i osiągać z tego dochód, jest to działalność gospodarcza. Decyzja z 21.10.2026 o wpisaniu jej do statutu od razu okazała się trafna i przestaje być zakładem - § 12 i rozdział o działalności gospodarczej w [statucie](view.html?file=statut) zostają.
+**1. Działalność gospodarcza - potwierdzona.** Jeżeli fundacja będzie udzielać licencji w sposób ciągły i osiągać z tego dochód, jest to działalność gospodarcza. Decyzja z 21.10.2026 o wpisaniu jej do statutu od razu okazała się trafna i przestaje być zakładem - § 12 i rozdział o działalności gospodarczej w [statucie](/dokument/statut) zostają.
 
 **2. Fundusz założycielski - bez odpowiedzi.** Księgowy nie podpowiada kwoty. Pytanie przechodzi do biura poleconego przez GCOP albo do prawnika; pozostaje `[DO USTALENIA]` w § 12 statutu i blokuje wizytę u notariusza.
 
 **3. VAT - zwolnienie podmiotowe jest w zasięgu i jest prawem, nie obowiązkiem.** Fundacja nie musi wchodzić w VAT od razu. Jeżeli nie będzie wykonywać czynności wyłączonych ze zwolnienia (przede wszystkim usług doradczych), przysługuje jej zwolnienie ogólne z limitem **240 000 zł**, w pierwszym roku obniżonym proporcjonalnie do okresu prowadzenia działalności. Z przysługującego zwolnienia można zrezygnować i zarejestrować się jako podatnik VAT od razu. Przy spodziewanych przychodach rzędu kilkudziesięciu tysięcy złotych rocznie limit nie jest zagrożony. **Uwaga, która zostaje otwarta:** usługa promocyjna dla sponsora bez VAT oznacza fakturę bez podatku do odliczenia po stronie sponsora - sprawdzić przy rozmowie z Tubądzinem, czy to dla nich różnica, bo tylko to przemawia za dobrowolną rejestracją.
 
-**4. Płatnik zryczałtowanego podatku 10% - fundacja.** Płatnikiem jest organ wypłacający, więc fundacja, niezależnie od tego, skąd pochodzą środki. Konstrukcja umowy z fundatorem zewnętrznym: księgowy odsyła do prawnika, pytanie zostaje w [prawnik.md](view.html?file=prawnik).
+**4. Płatnik zryczałtowanego podatku 10% - fundacja.** Płatnikiem jest organ wypłacający, więc fundacja, niezależnie od tego, skąd pochodzą środki. Konstrukcja umowy z fundatorem zewnętrznym: księgowy odsyła do prawnika, pytanie zostaje w [prawnik.md](/dokument/prawnik).
 
 **5. Ubruttowienie - zależy od brzmienia ogłoszenia, i to jest decyzja do podjęcia.** Jeżeli w ogłoszeniu konkursu podana jest kwota **wypłacana laureatowi**, pulę trzeba ubruttowić, żeby laureat dostał dokładnie tyle. Jeżeli podana jest po prostu kwota nagrody, przyjmuje się, że to kwota brutto i laureat otrzymuje ją pomniejszoną o podatek - tak działa na przykład Lotto. Dzisiejszy § regulaminu (pkt 6 w rozdziale o nagrodach) mówi tylko, że podatek jest pobierany, czyli domyślnie realizuje wariant drugi. **Do rozstrzygnięcia przed ogłoszeniem puli**, bo przy puli 30 000 zł różnica to 3 333 zł po stronie fundacji.
 

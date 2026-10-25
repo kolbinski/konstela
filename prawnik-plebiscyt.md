@@ -1,10 +1,10 @@
 # Pytania do kancelarii - plebiscyt na piosenkę
 
-Lista odrębna od [pytań dotyczących Nagrody](view.html?file=prawnik), ponieważ plebiscyt to inny materiał prawny: utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania i głosowanie publiczności. Plebiscyt powstał po przekazaniu pierwszej listy pytań, ma własny harmonogram i własne źródło finansowania, dlatego proszę o potraktowanie go jako **odrębnego zlecenia z własną wyceną**.
+Lista odrębna od [pytań dotyczących Nagrody](/dokument/prawnik), ponieważ plebiscyt to inny materiał prawny: utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania i głosowanie publiczności. Plebiscyt powstał po przekazaniu pierwszej listy pytań, ma własny harmonogram i własne źródło finansowania, dlatego proszę o potraktowanie go jako **odrębnego zlecenia z własną wyceną**.
 
 Stan na **24 października 2026 roku**.
 
-Stan konstrukcji, do którego odnoszą się pytania, jest opisany w [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia). Lista uwzględnia decyzje z 24.10.2026: regułę AI w nowym brzmieniu, dopuszczenie zgłoszeń zespołowych, demo na wejściu oraz nagrania dziesięciu finalistów finansowane przez organizatora.
+Stan konstrukcji, do którego odnoszą się pytania, jest opisany w [plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia). Lista uwzględnia decyzje z 24.10.2026: regułę AI w nowym brzmieniu, dopuszczenie zgłoszeń zespołowych, demo na wejściu oraz nagrania dziesięciu finalistów finansowane przez organizatora.
 
 **Cztery rzeczy, na których zależy nam najbardziej**, gdyby kancelaria chciała zacząć od części: punkt 5 (reguła AI, bo bez niej konkurs o sztucznej inteligencji może wygrać utwór wygenerowany), punkt 2 wraz z punktem 12 (prawa do nagrań finansowanych przez organizatora - to nowa i najdroższa pozycja budżetu), punkt 7 (dane głosujących, bo wchodzi do polityki prywatności pisanej od zera) oraz punkt 8 (wiek uczestników, bo musi być rozstrzygnięty przed ogłoszeniem, nie po).
 
@@ -86,7 +86,7 @@ Decyzja z 24.10.2026: **jedno zgłoszenie na osobę, potwierdzane kodem z SMS**,
 
 ## 6. Nagroda publiczności a loteria
 
-Rozstrzygnięcie: **żadnego losowania wśród głosujących.** Nagroda publiczności dla wykonawcy przyznawana jest za największą liczbę głosów, a druga nagroda - dla głosującego, który najlepiej uzasadnił wybór - przyznawana jest w drodze **oceny uzasadnień**. Pytanie: czy ocenianie uzasadnień wyklucza znamiona loterii promocyjnej w rozumieniu ustawy o grach hazardowych, czy też sam fakt, że nagrodę otrzymuje osoba głosująca, wymaga zezwolenia. Powiązane z pkt 21 w [prawnik.md](view.html?file=prawnik).
+Rozstrzygnięcie: **żadnego losowania wśród głosujących.** Nagroda publiczności dla wykonawcy przyznawana jest za największą liczbę głosów, a druga nagroda - dla głosującego, który najlepiej uzasadnił wybór - przyznawana jest w drodze **oceny uzasadnień**. Pytanie: czy ocenianie uzasadnień wyklucza znamiona loterii promocyjnej w rozumieniu ustawy o grach hazardowych, czy też sam fakt, że nagrodę otrzymuje osoba głosująca, wymaga zezwolenia. Powiązane z pkt 21 w [prawnik.md](/dokument/prawnik).
 
 ## 7. Dane głosujących
 
@@ -127,7 +127,7 @@ Utwór powstaje do istniejącego tekstu i jest nagrywany przez jurorów, poza ko
 - Prawa do tekstu i ich relacja do praw kompozytora muzyki powstającej do tego tekstu. **Istotne:** tekst „Zapytaj inaczej" powstał z rozmowy z AI zakończonej prośbą o wersję tekstu, a następnie z redakcyjnych decyzji organizatora (zmiana wersu refrenu, odrzucenie wariantu zwrotki pierwszej, wybór tego, co zostaje). Pytanie o ochronę prawnoautorską takiego tekstu jest wspólne z sekcją 5 i rozstrzyga, co organizator może przenieść na wykonawców i na wydawnictwo oraz czy osoba trzecia może ten tekst wykorzystać bez zgody.
 - Czy jurorzy wykonujący hymn mogą jednocześnie oceniać zgłoszenia - naszym zdaniem tak, skoro hymn jest poza konkursem, ale warto to potwierdzić.
 - Jurorzy, którzy **nie biorą udziału w nagraniu** (autor tekstu, producent): czy regulamin powinien to w ogóle regulować, czy wystarczy, że hymn nagrywają ci, którzy wykonują.
-- Rozważany jest **szerszy skład wykonawczy** hymnu, obejmujący kilkunastu wykonawców spoza jury. Jakie to rodzi obowiązki umowne i czy artyści z kontraktami wyłącznymi wymagają zgody swoich wytwórni na udział w takim nagraniu. *Kierunek, nie plan - patrz [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia).*
+- Rozważany jest **szerszy skład wykonawczy** hymnu, obejmujący kilkunastu wykonawców spoza jury. Jakie to rodzi obowiązki umowne i czy artyści z kontraktami wyłącznymi wymagają zgody swoich wytwórni na udział w takim nagraniu. *Kierunek, nie plan - patrz [plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia).*
 
 ## 11. Podatki
 

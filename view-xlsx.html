@@ -781,6 +781,32 @@
         });
       }
 
+      // Nazwa zakładki w adresie: ?tab=a albo kotwica #a.
+      // Kotwica działa zawsze, bo nie dociera do serwera; parametr zapytania
+      // zależy od tego, czy reguła przepisująca go nie usuwa.
+      function slug(s) {
+        return String(s)
+          .toLowerCase()
+          .normalize('NFD')
+          .replace(/[̀-ͯ]/g, '')
+          .replace(/ł/g, 'l')
+          .replace(/[^a-z0-9]+/g, '-')
+          .replace(/^-|-$/g, '');
+      }
+      function zadanaZakladka() {
+        const z = (params.get('tab') || location.hash.replace(/^#/, '') || '').trim();
+        return z ? slug(z) : '';
+      }
+      function indeksZakladki(arkusze) {
+        const z = zadanaZakladka();
+        if (!z) return 0;
+        const n = arkusze.map(a => slug(a.nazwa));
+        let i = n.indexOf(z);
+        if (i < 0) i = n.findIndex(x => x.endsWith('-' + z));
+        if (i < 0) i = n.findIndex(x => x.startsWith(z));
+        return i < 0 ? 0 : i;
+      }
+
       function render(arkusze) {
         const tabs = document.createElement('div');
         tabs.className = 'tabs';
@@ -839,14 +865,20 @@
           const b = document.createElement('button');
           b.type = 'button';
           b.textContent = a.nazwa;
-          b.onclick = () => pokaz(i);
+          b.onclick = () => {
+            pokaz(i);
+            // adres w pasku odzwierciedla wybraną zakładkę, bez przeskoku strony
+            try {
+              history.replaceState(null, '', '#' + slug(a.nazwa));
+            } catch (e) {}
+          };
           tabs.appendChild(b);
         });
         el.innerHTML = '';
         el.appendChild(tabs);
         el.appendChild(host);
         el.classList.add('loaded');
-        pokaz(0);
+        pokaz(indeksZakladki(arkusze));
       }
 
       if (!raw) {

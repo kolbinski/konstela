@@ -2,7 +2,7 @@
 
 _Stan na 19 października 2026. Dokument opisuje stan aktualny; rozstrzygnięte kwestie są wpisane w treść, nie w osobną listę._
 
-Dokumenty powiązane: [Regulamin](view.html?file=regulamin) (projekt roboczy, do konsultacji prawnej), strona pierwszej edycji (opublikowana).
+Dokumenty powiązane: [Regulamin](/dokument/regulamin) (projekt roboczy, do konsultacji prawnej), strona pierwszej edycji (opublikowana).
 
 ---
 
@@ -84,9 +84,9 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 
 ## Edycja pierwsza - ustalenia operacyjne
 
-**Forma prawna: fundacja (decyzja z 20.10.2026, zmiana wcześniejszego ustalenia).** Organizatorem jest fundacja powołana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Wcześniej zapisana tu była JDG z uzasadnieniem, że fundacja ma sens dopiero przy wielu darczyńcach - to ustalenie upadło, gdy pula urosła do 390 tys. zł: przy przyrzeczeniu publicznym tej wielkości JDG oznacza odpowiedzialność majątkiem osobistym. Pełne uzasadnienie, kolejność kroków i terminy graniczne: [podmiot-i-finansowanie](view.html?file=podmiot-i-finansowanie).
+**Forma prawna: fundacja (decyzja z 20.10.2026, zmiana wcześniejszego ustalenia).** Organizatorem jest fundacja powołana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Wcześniej zapisana tu była JDG z uzasadnieniem, że fundacja ma sens dopiero przy wielu darczyńcach - to ustalenie upadło, gdy pula urosła do 390 tys. zł: przy przyrzeczeniu publicznym tej wielkości JDG oznacza odpowiedzialność majątkiem osobistym. Pełne uzasadnienie, kolejność kroków i terminy graniczne: [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie).
 
-**Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](view.html?file=regulamin) - w sprawach konkursu, `Konstela-budzet-dwaj-sponsorzy.xlsx` - w kwotach i nakładzie pracy, [oferta mecenatu](view.html?file=oferta-mecenat-antologii) - w zakresie finansowania antologii i archiwum, [podmiot-i-finansowanie](view.html?file=podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
+**Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](/dokument/regulamin) - w sprawach konkursu, [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej) - w kwotach i nakładzie pracy, [oferta mecenatu](/dokument/oferta-mecenat-antologii) - w zakresie finansowania antologii i archiwum, [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
 
 **Terminy (zmienione 19.10.2026):** okno rozmów to **pełny rok kalendarzowy 2027**, zgłoszenia do 15 stycznia 2028, runda pierwsza prowadzona na bieżąco przez cały rok, Kapituła w lutym 2028, rozstrzygnięcie i antologia w drugiej połowie marca 2028. Wzór: Oscary, gdzie okres kwalifikacyjny to rok kalendarzowy, a członkowie Akademii oglądają filmy na bieżąco, więc po terminie zostaje samo głosowanie. Poprzedni kalendarz (okno do września, gala w listopadzie 2027) nie spinał się z procedurami: od zamknięcia naboru do ogłoszenia potrzeba 11-12 tygodni, a mieliśmy 8. Ocena bezwzględna według pasm z Karty oceny pozwala czytać przez cały rok; ryzykiem jest dryf standardów, więc kalibracja powtarzana jest w połowie roku, a czytelnik może zmienić swoją wcześniejszą ocenę do zamknięcia naboru. Co było wcześniej, a przestało obowiązywać: rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
 
@@ -112,19 +112,19 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **Przesunięcie edycji na 2027 kupuje czas na sponsorów**: kilka miesięcy do wiosny, a zgłoszenia i tak otwierają się dopiero wtedy.
 
-**Budżet pierwszej edycji - trzy wnioski do trzech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia bloków A i B są w `Konstela-budzet-dwaj-sponsorzy.xlsx`; blok C nie jest jeszcze w arkuszu.
+**Budżet pierwszej edycji - trzy wnioski do trzech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia wszystkich trzech bloków są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet N, Budżet A i Budżet P.
 
-| Blok | Przedmiot | Kwota | Źródło liczby |
+| Budżet | Przedmiot | Kwota | Źródło liczby |
 |---|---|---:|---|
-| A | Nagroda i gala - pula nagród, honoraria Kapituły i Akademii, gala, promocja naboru, prowadzenie konkursu | **ok. 603 tys. zł netto** | arkusz, zakładka Wnioski |
-| B | Antologia i archiwum - redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 271,7 tys. zł netto** | arkusz, zakładka Wnioski |
-| C | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 256,6 tys. zł netto** | arkusz, zakładka Wnioski |
+| N | Nagroda i gala - pula nagród, honoraria Kapituły i Akademii, gala, promocja naboru, prowadzenie konkursu | **ok. 603 tys. zł netto** | [arkusz, zakładka Budżet N](/arkusz/budzet-edycji-pierwszej?tab=n) |
+| A | Antologia i archiwum - redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 271,7 tys. zł netto** | [arkusz, zakładka Budżet A](/arkusz/budzet-edycji-pierwszej?tab=a) |
+| P | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 256,6 tys. zł netto** | [arkusz, zakładka Budżet P](/arkusz/budzet-edycji-pierwszej?tab=p) |
 
 **Trzy zastrzeżenia, bez których tej tabeli nie wolno sumować.**
 
 1. **Wszystkie trzy kwoty są netto i obejmują pracę organizatora oraz rezerwę**, a nie same koszty twarde. Nagrody wchodzą w nie jako kwoty brutto dla laureatów, bez VAT - tak jak w arkuszu.
-2. **Blok C nie zawiera honorariów jury plebiscytu ani realizacji części artystycznej gali** - obie pozycje stoją w arkuszu na zerze i czekają na wycenę od Michała Sołtana. Po ich wpisaniu kwota bloku C wzrośnie.
-3. **Blok A obejmuje galę**, a część artystyczna gali należy do bloku C. Granicę trzeba przeciąć raz i wyraźnie, zanim któraś z tych kwot pójdzie do sponsora.
+2. **Budżet P nie zawiera honorariów jury plebiscytu ani realizacji części artystycznej gali** - obie pozycje stoją w arkuszu na zerze i czekają na wycenę od Michała Sołtana. Po ich wpisaniu kwota Budżetu P wzrośnie.
+3. **Budżet N obejmuje galę**, a część artystyczna gali należy do Budżetu P. Granicę trzeba przeciąć raz i wyraźnie, zanim któraś z tych kwot pójdzie do sponsora.
 4. **Łącznie trzy wnioski to ok. 1 132 tys. zł netto przy 937 godzinach pracy.** Stawka rzeczywista wychodzi 224,20 zł za godzinę wobec założonych 220, co jest sprawdzianem, że model się nie rozjeżdża.
 
 **Historia dla porządku:** pierwszy szacunek z 19.10.2026 mówił o 1,5-2,5 tys. zł i obejmował wyłącznie wydatki gotówkowe, przez co zaniżał koszt projektu kilkunastokrotnie. Rachunek uczciwy musi wyceniać pracę organizatora, nawet jeżeli pozostaje ona wkładem nieodpłatnym - edycja pierwsza to 772 godziny.
@@ -393,9 +393,9 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 
 ### Hymn Nagrody „Zapytaj inaczej" (stan na 24.10.2026)
 
-Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia); tutaj zostaje to, co dotyczy samego utworu i strony.
+Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia); tutaj zostaje to, co dotyczy samego utworu i strony.
 
-**Skąd wziął się tekst.** Powstał 22.10.2026 („Zapytaj inaczej"; tytuł roboczy brzmiał „Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum. Decyzje redakcyjne i to, czego nie wolno zgubić przy dopasowywaniu do melodii, są w [mail-piosenkarz-oferta](view.html?file=mail-piosenkarz-oferta).
+**Skąd wziął się tekst.** Powstał 22.10.2026 („Zapytaj inaczej"; tytuł roboczy brzmiał „Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum. Decyzje redakcyjne i to, czego nie wolno zgubić przy dopasowywaniu do melodii, są w [mail-piosenkarz-oferta](/dokument/mail-piosenkarz-oferta).
 
 **Jak powstał tekst i dlaczego to mówimy.** Z wielogodzinnej rozmowy z AI o tym, czym jest Konstela, zakończonej prośbą o wersję tekstu, a następnie z decyzji fundatora, co w niej zostaje, a co wypada. **Jest to droga, którą zasady plebiscytu wprost dopuszczają** po zmianie z 24.10.2026, i hymn deklaruje ją tym samym zdaniem, którego wymagamy od zgłaszających. *Wcześniejsze zapisy na stronie i w tym pliku mówiły „tekst jest fundatora" oraz „tekst napisał człowiek" - było to nieprawdziwe i zostało poprawione 24.10.2026 wieczorem.*
 
@@ -433,7 +433,7 @@ Przy nagrodzie równoległej wszystkie trzy znikają: uczniowie nie decydują o 
 
 ## Ministerstwo Edukacji - drugi adresat instytucjonalny (ustalenia z 21.10.2026)
 
-**Czego patronat MEN nie da.** Pomysł, żeby resort dostarczył Akademię złożoną z nauczycieli i w ten sposób udźwignąć nabór liczony w setkach tysięcy, nie przechodzi rachunku. Milion zgłoszeń przy pięciominutowym przesiewie to 83 tys. godzin czytania, czyli ponad cztery tysiące osób po dwadzieścia godzin; nawet po tysiąc złotych na osobę daje to cztery miliony złotych przy budżecie B na 232 tys. Poza arytmetyką: **ministerstwo nie przydziela nauczycielom zadań na rzecz fundacji** i nie ma takiego trybu. Gdyby był, pierwszy komentarz brzmiałby „minister każe nauczycielom czytać za darmo dla prywatnej nagrody", a drugi przyszedłby od związków zawodowych. Rekrutacja i wynagrodzenie Akademii zostają po stronie organizatora - tak samo jak w [liście do FTIMS](view.html?file=list-do-ftims).
+**Czego patronat MEN nie da.** Pomysł, żeby resort dostarczył Akademię złożoną z nauczycieli i w ten sposób udźwignąć nabór liczony w setkach tysięcy, nie przechodzi rachunku. Milion zgłoszeń przy pięciominutowym przesiewie to 83 tys. godzin czytania, czyli ponad cztery tysiące osób po dwadzieścia godzin; nawet po tysiąc złotych na osobę daje to cztery miliony złotych przy budżecie B na 232 tys. Poza arytmetyką: **ministerstwo nie przydziela nauczycielom zadań na rzecz fundacji** i nie ma takiego trybu. Gdyby był, pierwszy komentarz brzmiałby „minister każe nauczycielom czytać za darmo dla prywatnej nagrody", a drugi przyszedłby od związków zawodowych. Rekrutacja i wynagrodzenie Akademii zostają po stronie organizatora - tak samo jak w [liście do FTIMS](/dokument/list-do-ftims).
 
 **Czego patronat MEN da: dostęp, nie ludzi.** List do szkół, obecność w ofercie doskonalenia zawodowego i wiarygodność, dzięki której nauczyciel traktuje zaproszenie do Akademii poważnie, zamiast je skasować. Różnica praktyczna: z patronatem resortu piszesz do kilkudziesięciu tysięcy szkół naraz, bez niego do dziekana jednego wydziału.
 
@@ -559,13 +559,13 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 
 - [ ] **Przywrócić na stronie informację o statusie naboru.** Notka "Trwają przygotowania, nabór jeszcze nie został otwarty" została z nagłówka usunięta 20.10.2026, bo strony i tak nikt nie zna przed pozyskaniem sponsorów. Informacja została wyłącznie na końcu sekcji "Jak i kiedy zgłosić". **Przed pierwszym wysłaniem komukolwiek linku** trzeba ją przywrócić wyżej albo zastąpić komunikatem o otwartym naborze - zależnie od momentu.
 - [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 18 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
-- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](view.html?file=karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
+- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](/dokument/karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
 - [ ] **Warstwa dydaktyczna antologii**: komentarz wprowadzający przed rozmową, komentarze na marginesie w konkretnych momentach, komentarz końcowy. Pełny dialog bez montażu zostaje.
 - [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
 - [x] **Styk zgody z licencją** - rozstrzygnięty w § 11 ust. 5-8 i w polityce prywatności (19.10.2026): do ogłoszenia wyników usunięcie zgłoszenia, po publikacji anonimizacja.
 - [ ] **Rozstrzygnąć zakres Archiwum rozmów.** Dziś regulamin definiuje je jako zgłoszenia zakwalifikowane do drugiej rundy oceny, czyli wybrane przez czytelników. Rozważany wariant szerszy: wszystkie zgłoszenia, które przeszły weryfikację formalną. Przy 150 zgłoszeniach różnica to kilkadziesiąt rozmów. Argumenty za szerszym: archiwum jako zapis tego, jak ludzie rozmawiają naprawdę, a nie jak rozmawiają najlepsi; prostsze do wyjaśnienia sponsorowi i uczestnikowi. Argumenty przeciw: większy nakład pracy redakcyjnej i moderacyjnej, większe ryzyko treści problematycznych, słabsza różnica między Archiwum a Antologią. **Decyzja potrzebna przed naborem**, bo zmienia § 11 ust. 11 regulaminu i treść zobowiązania wobec uczestnika. Temat podniesiony 20.10.2026 przy pisaniu oferty dla mecenasa.
 - [ ] Próba kalibracyjna oceny na kilku rozmowach spoza edycji.
-- [ ] Konsultacja prawna (pytania w [prawie do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu)) i rozmowa z księgowym.
+- [ ] Konsultacja prawna (pytania w [prawie do wypowiedzi modelu](/dokument/prawa-do-wypowiedzi-modelu)) i rozmowa z księgowym.
 - [ ] Aktualizacja wpisu w CEIDG (adres) przed publikacją wersji ostatecznej regulaminu.
 
 ## Otwarte pytania
@@ -646,8 +646,8 @@ Wspólny mianownik tych pomysłów: prosimy kogoś dobrego, żeby zrobił **swoj
 
 ### W toku
 
-- **Plebiscyt na piosenkę o AI** - osobny plik [plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia).
-- **Plakat Nagrody** - osobny plik [plakat](view.html?file=plakat).
+- **Plebiscyt na piosenkę o AI** - osobny plik [plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia).
+- **Plakat Nagrody** - osobny plik [plakat](/dokument/plakat).
 
 ### Handbook dla uczestników (pomysł z rozmowy z Reequest, 23.10.2026)
 
@@ -655,7 +655,7 @@ Kilkanaście próbek rozmów przeprowadzonych przez prawdziwych ludzi, z **ocena
 
 Odpowiada na zarzut Piotra Bylińskiego z tej samej rozmowy: uczestnik, który nie wie, czego się od niego oczekuje, zgłosi rozmowę, odpadnie i poczuje się oszukany, bo miał tylko jedno zgłoszenie w roku. Handbook jest jedyną rzeczą, która to naprawia przed naborem, a nie po.
 
-Materiał bierze się z próby kalibracyjnej, która i tak jest w budżecie: te same rozmowy służą do nauczenia Akademii i Kapituły stosowania karty oceny. Jedna praca, trzy zastosowania - kalibracja, handbook i materiał do [scenariusza lekcji](view.html?file=me-scenariusz-lekcji).
+Materiał bierze się z próby kalibracyjnej, która i tak jest w budżecie: te same rozmowy służą do nauczenia Akademii i Kapituły stosowania karty oceny. Jedna praca, trzy zastosowania - kalibracja, handbook i materiał do [scenariusza lekcji](/dokument/me-scenariusz-lekcji).
 
 Format drugorzędny: PDF, e-book albo podstrona. Powstaje **przed otwarciem naboru**.
 
@@ -679,7 +679,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 - **Film dokumentalny** o pierwszej edycji.
 - **Specjalne wydanie antologii jako obiekt** - numerowane, oprawione ręcznie, do licytacji obok plakatu z autografem.
 - **Ilustracje do każdej rozmowy w antologii** wraz z komentarzem artysty - dalszy ciąg wątku plakatu, nie przedmiot pierwszej prośby.
-- **Wyróżnienie dla nauczyciela** - niewielkim kosztem wzmacnia cały wątek edukacyjny i wiąże się z [Uczniowską Akademią](view.html?file=koncepcja).
+- **Wyróżnienie dla nauczyciela** - niewielkim kosztem wzmacnia cały wątek edukacyjny i wiąże się z [Uczniowską Akademią](/dokument/koncepcja).
 
 ## Ściana zgłoszeń i Nagroda Publiczności - zmiana decyzji z 24.10.2026
 

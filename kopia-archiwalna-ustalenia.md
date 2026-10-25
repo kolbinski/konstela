@@ -172,7 +172,7 @@ Niezależnie od ścieżki: **walidacja kompletności z twardym odrzuceniem.** Sy
 - **Przyjęcie zgłoszenia** z weryfikacją numeru telefonu kodem SMS, jedno zgłoszenie na osobę.
 - **Sprawdzenie dostępności linku w chwili zgłoszenia**, z natychmiastowym komunikatem zamiast odrzucenia po terminie (punkt 8).
 - **Ocena formalna** - próg znaków, naprzemienność, reguła z punktu 4 o kierowaniu do sprawdzenia ręcznego.
-- **Przechowywanie i retencja** - usuwanie danych nienagrodzonych w terminie z polityki prywatności, z kolizją przy pytaniach o oceny po gali opisaną w [reequest-ustalenia](view.html?file=reequest-ustalenia) punkt 1.
+- **Przechowywanie i retencja** - usuwanie danych nienagrodzonych w terminie z polityki prywatności, z kolizją przy pytaniach o oceny po gali opisaną w [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 1.
 - **Panel pracy dla Akademii i Kapituły** - poza zakresem agencji, po stronie Krzyśka.
 - Bez ciasteczek, bez zewnętrznej analityki, dane w EOG.
 

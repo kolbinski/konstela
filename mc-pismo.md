@@ -1,12 +1,25 @@
-Sieradz, dnia 23 października 2026
+# Pismo do Ministerstwa Cyfryzacji - droga formalna
+
+**Czym to jest.** Pismo przewodnie wysyłane przez e-Doręczenia, otwierające drogę formalną niezależnie od kontaktu z Cezarym Wujcińskim. Załącznikami są dokumenty już napisane: [nota koncepcyjna](/dokument/mc-nota-koncepcyjna) oraz [projekt listu intencyjnego](/dokument/mc-list-intencyjny).
+
+**O co prosimy, a o co nie.** **Nie** o patronat honorowy, mimo że regulamin ministerstwa go tu dopuszcza. Zgodnie z § 11 i § 12 regulaminu przyznawania patronatów Ministra Cyfryzacji patronat obejmuje jedną edycję przedsięwzięcia cyklicznego i przyznawany jest zwykle na okres nie dłuższy niż rok, więc patronat nad całym rokiem 2027 mieści się w trybie. Przeszkodą jest **§ 13**: ministerstwo może odmówić patronatu przedsięwzięciom na wczesnym etapie, bez określonych celów i źródeł finansowania. Cele mamy opisane, finansowania jeszcze nie, a odmowa wpisana do akt tej samej edycji osłabiłaby późniejszy wniosek. Wniosek o patronat składamy więc po zabezpieczeniu fundatora puli. W regulaminie Ministerstwa Cyfryzacji **nie ma** wymogu złożenia wniosku na osiem tygodni przed wydarzeniem - to zapis z regulaminów innych resortów, który omyłkowo trafił do projektu listu intencyjnego i wymaga tam poprawienia. Prosimy o **list intencyjny**, czyli pisemne stwierdzenie, że resort zapoznał się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument można opublikować na stronie i pokazać fundatorowi puli nagród, a dla ministerstwa nie jest zobowiązaniem do niczego. Projekt treści jest załączony właśnie po to, żeby urzędnik nie musiał pisać od zera, i jest napisany tak, aby dało się go dowolnie zmienić albo odrzucić.
+
+**Wysłane 23.10.2026**, przez e-Doręczenia, z podpisem zaufanym, na kancelarię ogólną Ministerstwa Cyfryzacji. Drogę wskazał telefonicznie Cezary Wujciński: pismo idzie na kancelarię, bez wskazywania departamentu. Temat wiadomości: „Nagroda Konstela - prośba o list intencyjny". Załączniki: `mc-nota-koncepcyjna.pdf` oraz `mc-list-intencyjny.docx`. Dowód wysłania zachowany. Po nadaniu znaku sprawy można pytać o bieg sprawy, powołując się na ten znak. Bez reakcji do **20 listopada** telefon do kancelarii z pytaniem o znak sprawy i właściwy departament.
+
+**Przed wysyłką ustalić:** adres do doręczeń elektronicznych Ministerstwa Cyfryzacji w Bazie Adresów Elektronicznych oraz, jeżeli telefon do Cezarego Wujcińskiego przyniesie taką wskazówkę, właściwy departament w adresacie. Nie wpisywać adresu ani numeru skrytki z pamięci.
+
+---
+
+Sieradz, dnia [data]
 
 Ministerstwo Cyfryzacji
+[adres do doręczeń elektronicznych z BAE]
 
-Dotyczy: Nagrody Konstela - prośba o list intencyjny
+**Dotyczy: Nagrody Konstela - prośba o list intencyjny**
 
 Szanowni Państwo,
 
-Zwracam się z prośbą o wydanie listu intencyjnego w sprawie Nagrody Konstela - corocznej, ogólnopolskiej nagrody przyznawanej osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi.
+zwracam się z prośbą o wydanie listu intencyjnego w sprawie Nagrody Konstela - corocznej, ogólnopolskiej nagrody przyznawanej osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi.
 
 Konkursowi towarzyszą dwa produkty udostępniane bezpłatnie: antologia dziesięciu najwyżej ocenionych rozmów każdej edycji, publikowana w całości wraz z komentarzem jury, oraz publiczne archiwum szerszego zbioru rozmów. Jedno z czterech kryteriów oceny premiuje wychwytywanie zmyśleń i niespójności w odpowiedziach systemu, a kolejne - to, co człowiek z rozmowy rzeczywiście wyniósł. Konkurs nagradza zatem krytyczne i świadome korzystanie z narzędzi sztucznej inteligencji, a powstający materiał jest zbiorem rzeczywistych, polskojęzycznych przykładów takiej pracy, nadającym się do wykorzystania w edukacji cyfrowej.
 
@@ -21,12 +34,12 @@ Podkreślam, że niniejsze pismo nie jest wnioskiem o patronat honorowy ani o ja
 Pozostaję do dyspozycji w razie pytań oraz gotowy do przedstawienia koncepcji na spotkaniu, w terminie dla Państwa dogodnym.
 
 Z wyrazami szacunku,
+
 Krzysztof Olbiński
 +48 503 520 004
 olbinski@gmail.com
 konstela.org
 
-Załączniki:
-
+**Załączniki:**
 1. Nagroda Konstela - nota koncepcyjna
 2. Projekt listu intencyjnego

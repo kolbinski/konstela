@@ -1,6 +1,6 @@
 # Wykonawcy piosenki - lista kandydatów
 
-Zasady pisania do wykonawców są w [mail-piosenkarz-oferta](view.html?file=mail-piosenkarz-oferta); dawna oferta zlecenia (demo 800 zł, finał 3000 zł) **nie obowiązuje** od 23.10.2026, bo hymn nagrywa skład jury. Nazwiska pochodzą z angielskiej Wikipedii, z opisów poszczególnych sezonów The Voice of Poland (sprawdzone 22.10.2026).
+Zasady pisania do wykonawców są w [mail-piosenkarz-oferta](/dokument/mail-piosenkarz-oferta); dawna oferta zlecenia (demo 800 zł, finał 3000 zł) **nie obowiązuje** od 23.10.2026, bo hymn nagrywa skład jury. Nazwiska pochodzą z angielskiej Wikipedii, z opisów poszczególnych sezonów The Voice of Poland (sprawdzone 22.10.2026).
 
 **Zasada doboru (obowiązuje od 22.10.2026).** Decyduje autorski dorobek, a nie miejsce w programie. Nie wykluczamy z góry ani zwycięzców, ani osób pracujących z managementem czy wytwórnią - jedno i drugie sprawdza się indywidualnie, a artysta sam wskaże właściwą ścieżkę kontaktu, jeżeli jej potrzebuje. Nazwiska poniżej pochodzą z opisów sezonów The Voice of Poland i są wyłącznie punktem wyjścia.
 

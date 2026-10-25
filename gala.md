@@ -8,7 +8,7 @@ Powstał, ponieważ program gali rozrósł się przez kilka osobnych rozmów i n
 
 Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 
-- **Trzy najwyżej ocenione utwory plebiscytu wykonywane na żywo**, nie wszystkie zgłoszenia ([plebiscyt-ustalenia](view.html?file=plebiscyt-ustalenia), [reequest-ustalenia](view.html?file=reequest-ustalenia) punkt 5).
+- **Trzy najwyżej ocenione utwory plebiscytu wykonywane na żywo**, nie wszystkie zgłoszenia ([plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia), [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 5).
 - **Hymn „Zapytaj inaczej" w wykonaniu składu jury, dwa razy: na rozpoczęcie i na zakończenie.** Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
 - **Wręczenia:** nagroda główna oraz dziewięć wyróżnień; mosiężny medalion dla laureata, tłoczone dyplomy dla całej dziesiątki.
@@ -60,7 +60,7 @@ Konstrukcja: finalista czyta na głos własne pytania, aktor czyta odpowiedzi sz
 
 ## Czynniki kosztotwórcze
 
-Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzygnięta w kosztorysie w [nocie dla MKiDN](view.html?file=mk-nota-koncepcyjna). Wycena powstanie po wyborze miejsca.
+Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzygnięta w kosztorysie w [nocie dla MKiDN](/dokument/mk-nota-koncepcyjna). Wycena powstanie po wyborze miejsca.
 
 - **Miejsce:** wynajem, czas na próby, dostępność techniki własnej miejsca.
 - **Technika:** nagłośnienie, światło, backline, obsługa.

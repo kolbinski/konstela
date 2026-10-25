@@ -2,7 +2,7 @@
 
 Krzysztof Olbiński · olbinski@gmail.com · +48 503 520 004
 
-Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje siedem obszarów do rozstrzygnięcia oraz listę pojedynczych miejsc wymagających sprawdzenia (część Ca), i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst regulaminu jest dostępny pod adresem konstela.org/view.html?file=regulamin.
+Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje siedem obszarów do rozstrzygnięcia oraz listę pojedynczych miejsc wymagających sprawdzenia (część Ca), i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst regulaminu jest dostępny pod adresem konstela.org/dokument/regulamin.
 
 ---
 
@@ -75,7 +75,7 @@ Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do pod
 
 **Stan.** Przyjmuję, że wypowiedzi modelu nie są utworem w rozumieniu prawa autorskiego, ponieważ utworem jest przejaw działalności twórczej człowieka. W antologii jako autor rozmowy figuruje wyłącznie uczestnik, a model wymieniany jest w metryczce jako użyte narzędzie, nigdy jako współautor. Uczestnik udziela licencji do swoich wypowiedzi oraz do rozmowy jako całości w zakresie doboru i układu, a także oświadcza, że publiczne udostępnienie rozmowy jest zgodne z regulaminem dostawcy modelu.
 
-Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-AI i Nagrody Akutagawy 2024, jest w osobnym załączniku [prawa do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu).
+Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-AI i Nagrody Akutagawy 2024, jest w osobnym załączniku [prawa do wypowiedzi modelu](/dokument/prawa-do-wypowiedzi-modelu).
 
 **Pytania:**
 
@@ -238,16 +238,16 @@ Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach
 
 ## Cz. Plebiscyt na piosenkę - lista odrębna
 
-Pytania dotyczące plebiscytu zebrane są w osobnym dokumencie: [prawnik-plebiscyt](view.html?file=prawnik-plebiscyt). Powód rozdzielenia jest praktyczny - to inny materiał prawny (utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania, głosowanie publiczności), a wycena z 22.10.2026 go nie obejmowała, więc wymaga odrębnego potwierdzenia zakresu i ceny.
+Pytania dotyczące plebiscytu zebrane są w osobnym dokumencie: [prawnik-plebiscyt](/dokument/prawnik-plebiscyt). Powód rozdzielenia jest praktyczny - to inny materiał prawny (utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania, głosowanie publiczności), a wycena z 22.10.2026 go nie obejmowała, więc wymaga odrębnego potwierdzenia zakresu i ceny.
 
 Trzy pytania z tamtej listy wiążą się z tą bezpośrednio i nie powinny zostać rozstrzygnięte osobno: nagroda publiczności wobec loterii promocyjnej (pkt 21 powyżej), przetwarzanie numerów telefonu głosujących wobec polityki prywatności pisanej od zera (obszar 2) oraz decyzja, czy podatek od nagród obciąża nagrodę, czy jest doliczany ponad nią - ta ostatnia dotyczy puli nagrody głównej i plebiscytu jednocześnie i powinna być podjęta raz, dla obu.
 
 ## D. Załączniki
 
-- [Regulamin](view.html?file=regulamin) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
-- [Prawa do wypowiedzi modelu](view.html?file=prawa-do-wypowiedzi-modelu) - przegląd doktryny i precedensów do obszaru 3
-- [Polityka prywatności](view.html?file=polityka-prywatnosci) - polityka prywatności do przepisania
-- [Przebieg edycji](view.html?file=przebieg-edycji) - przebieg edycji krok po kroku, jeżeli pomocny jest kontekst operacyjny
+- [Regulamin](/dokument/regulamin) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
+- [Prawa do wypowiedzi modelu](/dokument/prawa-do-wypowiedzi-modelu) - przegląd doktryny i precedensów do obszaru 3
+- [Polityka prywatności](/dokument/polityka-prywatnosci) - polityka prywatności do przepisania
+- [Przebieg edycji](/dokument/przebieg-edycji) - przebieg edycji krok po kroku, jeżeli pomocny jest kontekst operacyjny
 
 ## E. O co proszę na początek
 
