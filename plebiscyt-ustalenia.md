@@ -372,3 +372,36 @@ Powód merytoryczny: szybkość zgłoszenia nie ma nic wspólnego z jakością u
 2. **Prawa do masterów przechodzą na autorów jako część nagrody**, powiedziane wprost na stronie. Wtedy „wszystko zostaje Twoje" przestaje być hasłem i obejmuje również nagranie, za które zapłacił organizator. Dla wykonawcy to wartość realna i rzadka, dla fundacji koszt bliski zeru, bo oddaje przychód, którego i tak by nie było.
 
 **Gdyby przychód jednak powstał** - na przykład z opłaty od wydawcy - obowiązuje ta sama reguła co przy antologii: **zasila pulę nagród następnej edycji**, powiedziane publicznie.
+
+## Regulamin plebiscytu - decyzje z 25.10.2026
+
+Powstał `regulamin-plebiscytu.md`: osobny dokument, nie aneks do regulaminu Nagrody. Dziewiętnaście paragrafów, na końcu lista osiemnastu miejsc wymagających potwierdzenia przez kancelarię, zbudowana tak jak sekcja Ca w pytaniach dla Nagrody.
+
+**Rozstrzygnięte przez Organizatora:**
+
+- **Wiek: od 16 lat, za pisemną zgodą przedstawiciela ustawowego** (§ 3). Zgoda rozbita na cztery odrębne zakresy: licencja, przyjęcie nagrody, udział w nagraniu studyjnym, udział w gali. Brak zgody w jednym zakresie nie wyłącza z konkursu, tylko z tego zakresu.
+- **Udział w gali: obowiązek dla laureatów trzech nagród pieniężnych, bo ich obecność jest warunkiem części artystycznej** (§ 14 ust. 2). Nieobecność z przyczyn niezależnych nie pozbawia nagrody. Organizator pokrywa dojazd i nocleg **całej dziesiątki finalistów**, nie tylko trójki - nowa pozycja do Budżetu Plebiscytu.
+- **Osoby najbliższe jurorów nie są wyłączone ze zgłaszania**, ale juror wyłącza się od oceny takiego zgłoszenia (§ 3 ust. 5 i § 10 ust. 7). Inaczej niż przy Nagrodzie, gdzie wyłączenia podmiotowego też świadomie nie wprowadzono.
+
+**Przyjęte przy braku preferencji, łatwe do odwrócenia:**
+
+- **Kwoty nagród nie wchodzą do regulaminu** - wysokość podaje załącznik ogłaszany w dniu otwarcia naboru, i tylko w zakresie, w jakim środki wpłynęły na rachunek (§ 12 ust. 2). Zgodne z § 9 ust. 2a regulaminu Nagrody. Dokument można wysłać do kancelarii i do sponsora już dziś, nie obiecując niczego.
+- **Podatek: regulamin stwierdza, że Organizator jest płatnikiem, bez przesądzania, czy 10% potrąca się z nagrody, czy dolicza ponad nią** (§ 12 ust. 3). Decyzja zapada raz, wspólnie z pulą nagrody głównej.
+
+**Trzy wymogi formalne wpisane przeze mnie, bez podstawy w dotychczasowych ustaleniach** (§ 8 ust. 2) - do przyjęcia albo odrzucenia świadomie:
+
+1. **Tekst w języku polskim.** Uzasadnienie: kryterium Tekst ma najwyższą wagę, 30 punktów, a jury nie oceni rzetelnie tekstu w języku, którego nie zna.
+2. **Czas trwania od 3 do 6 minut** (dolna granica podniesiona z 1:30 decyzją z 25.10.2026). Bez dolnej granicy wchodzą szkice, bez górnej - suity, których nie da się zagrać na gali.
+3. **Utwór nie mógł być wcześniej wydany komercyjnie.** Publikacja na własnym kanale nie jest wydaniem i nie wyłącza. Powód: dziesiątka finalistów ma trafić na płytę u wydawnictwa-partnera, a utwór już wydany komplikuje to bez potrzeby.
+
+**Otwarte w samym dokumencie:** termin wygaśnięcia licencji (§ 15 ust. 3) zostawiony jako miejsce do uzupełnienia - nie umiem go wskazać bez kancelarii.
+
+### Budżet Plebiscytu - korekta z 25.10.2026
+
+Pozycja "Obsługa prawna plebiscytu" miała wpisane 4 500 zł. **Ta kwota nie pochodziła od nikogo** - wymyśliłem ją przy tworzeniu zakładki. Wycena ByteLaw z 22.10.2026 zakresu plebiscytowego nie obejmowała, a osobne zlecenie nie zostało jeszcze wycenione. Kwota wyzerowana i oznaczona jako DO WYCENY, tak jak honoraria jury i część artystyczna gali.
+
+Dopisana nowa pozycja: **dojazd i nocleg dziesięciu finalistów na galę**, konsekwencja § 14 regulaminu plebiscytu. Również wyzerowana, bo miejsce gali nie jest wybrane, a bez niego nie da się policzyć ani noclegu, ani dojazdu.
+
+Budżet Plebiscytu spadł z 261 656 zł do **256 616 zł** netto (zdjęte 4 500 zł plus 12% rezerwy od tej kwoty). Suma czterech budżetów: **1 145 130,80 zł** netto.
+
+Przy okazji poprawione odesłanie w zakładce Wyjaśnienia: po wstawieniu wiersza wskazywało na Rezerwę zamiast na RAZEM NETTO.

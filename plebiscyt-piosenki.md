@@ -22,7 +22,9 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nie ma zabezpieczonych pieniędzy na nagrody, a konkursu z nagrodami, których nie ma, nie ogłaszamy.
 
-Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy regulamin i nagrody będą gotowe. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
+Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
+
+**Projekt regulaminu jest już jawny:** [regulamin plebiscytu](/dokument/regulamin-plebiscytu). Publikujemy go przed ogłoszeniem, tak samo jak kartę oceny, zamiast obiecywać zasady na później. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy wprost, które to miejsca. Regulamin wchodzi w życie dopiero w dniu otwarcia naboru i wtedy przestaje być projektem.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><span>Dlaczego w ogóle o tym śpiewać</span>
 
@@ -89,7 +91,9 @@ Plebiscyt nie jest jeszcze ogłoszony, więc poniższe terminy są planem, a nie
 
 **Jak się zgłasza.** Przesyłasz **link do nagrania na YouTube**, nie plik - dzięki temu nie ma transferu wielkich plików, a Ty zachowujesz kontrolę nad tym, co publikujesz. Link musi działać przez cały czas trwania oceny. Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
-**Czego jeszcze nie rozstrzygnęliśmy:** czy udział w gali jest obowiązkiem finalistów, czy zaproszeniem, oraz jak wygląda harmonogram sesji nagraniowych. Rozstrzygniemy to z jury przed ogłoszeniem i napiszemy tutaj, zanim poprosimy kogokolwiek o zgłoszenie.
+**Udział w gali.** Dla czołowej trójki jest obowiązkiem, bo to ona wykonuje utwory na żywo. Dojazd i nocleg całej dziesiątki finalistów pokrywa organizator. Nieobecność z powodu choroby albo zdarzenia losowego nie pozbawia nikogo nagrody.
+
+**Czego jeszcze nie rozstrzygnęliśmy:** jak wygląda harmonogram sesji nagraniowych. Rozstrzygniemy to z jury przed ogłoszeniem i napiszemy tutaj, zanim poprosimy kogokolwiek o zgłoszenie.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4.4-2.9 7.6-7 9-4.1-1.4-7-4.6-7-9V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></svg><span>Prawa do Twojej piosenki</span>
 
