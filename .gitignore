@@ -1,0 +1,12 @@
+# Wynik budowania - powstaje w GitHub Actions przy każdym wrzuceniu plików
+# i nie ma go w repozytorium. Patrz .github/workflows/publikuj.yml
+/dokument/
+node_modules/
+
+# Robocze
+__pycache__/
+.DS_Store
+
+# Adres dedykowany plebiscytu oraz mapa strony też powstają przy budowaniu
+/plebiscyt-piosenki/index.html
+/sitemap.xml
