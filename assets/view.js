@@ -76,6 +76,13 @@ marked.setOptions({ gfm: true, breaks: true });
             const h1 = el.querySelector('h1');
             if (h1) document.title = h1.textContent + ' - Nagroda Konstela';
             el.classList.add('loaded');
+            // Treść wstawiamy po załadowaniu strony, więc przeglądarka nie
+            // zdążyła przewinąć do kotwicy z adresu - robimy to sami.
+            const kotwica = decodeURIComponent(location.hash.replace(/^#/, ''));
+            if (kotwica) {
+              const cel = document.getElementById(kotwica);
+              if (cel) cel.scrollIntoView();
+            }
           })
           .catch(err => state('Nie udało się wczytać dokumentu', err.message));
       }
