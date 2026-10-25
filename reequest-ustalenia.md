@@ -29,7 +29,7 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 ## 3. Co z tego powstaje
 
 - **Antologia** - dziesięć najwyżej ocenionych rozmów każdej edycji, bezpłatnie, w całości, z komentarzem Kapituły.
-- **Publiczne archiwum** szerszego zbioru rozmów, bez punktacji i bez komentarzy, publikowane porcjami przez rok po edycji.
+- **Publiczne archiwum** wszystkich zgłoszeń: ściana rosnąca w trakcie naboru, utrwalona w dniu jego zamknięcia i przeglądalna także według jawnych ocen.
 - **Płyta** z dziesięcioma najwyżej ocenionymi utworami plebiscytu - nagrania finansuje organizator, wydaje wydawnictwo-partner, którego jeszcze nie ma. Prawa do nagrań przechodzą na autorów jako część nagrody.
 - **Hymn „Zapytaj inaczej"** w wykonaniu jurorów, z teledyskiem.
 
@@ -85,15 +85,17 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 
 ## 8. Budżety - trzy wnioski do trzech sponsorów
 
-| Blok | Przedmiot | Kwota netto |
+| Budżet | Przedmiot | Kwota netto |
 |---|---|---:|
-| A | Nagroda i gala: pula nagród, honoraria Kapituły i Akademii, gala, promocja naboru, prowadzenie konkursu | **ok. 603,7 tys. zł** |
-| B | Antologia i archiwum: redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 271,7 tys. zł** |
-| C | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 256,6 tys. zł** |
+| [N](/arkusz/budzet-edycji-pierwszej?tab=n) | Nagroda i gala: pula nagród, honoraria Kapituły i Akademii, gala, promocja naboru, prowadzenie konkursu | **ok. 603,7 tys. zł** |
+| [A](/arkusz/budzet-edycji-pierwszej?tab=a) | Antologia i archiwum: redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 271,7 tys. zł** |
+| [P](/arkusz/budzet-edycji-pierwszej?tab=p) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 256,6 tys. zł** |
 
-Razem ok. 1 132 tys. zł netto przy 937 godzinach pracy organizatora. **Honoraria jury plebiscytu i realizacja części artystycznej gali stoją na zerze** i czekają na wycenę od Michała Sołtana, więc blok C jeszcze urośnie.
+Wyliczenia pozycja po pozycji są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet N, Budżet A i Budżet P; zakładka Wyjaśnienia opisuje, jak czytać każdą kolumnę.
 
-**Praca agencji jest w bloku B** - finansuje ją partner wydawniczy, nie fundator puli. Żaden sponsor nie jest jeszcze pozyskany; zlecenie rusza po podpisaniu pierwszej umowy sponsorskiej.
+Razem ok. 1 132 tys. zł netto przy 937 godzinach pracy organizatora. **Honoraria jury plebiscytu i realizacja części artystycznej gali stoją na zerze** i czekają na wycenę od Michała Sołtana, więc Budżet P jeszcze urośnie.
+
+**Praca agencji jest w Budżecie A** - finansuje ją partner wydawniczy, nie fundator puli. Żaden sponsor nie jest jeszcze pozyskany; zlecenie rusza po podpisaniu pierwszej umowy sponsorskiej.
 
 **Plebiscytu nie ogłaszamy publicznie, dopóki nie ma pieniędzy na nagrody** - komunikacja musi tego pilnować. Do tego czasu strona zapowiada go i zbiera zainteresowanie wykonawców, bez obietnicy kwot.
 
@@ -139,7 +141,7 @@ Razem ok. 1 132 tys. zł netto przy 937 godzinach pracy organizatora. **Honorari
 
 **Ryzyko do zaadresowania w projekcie: odczytanie jako „dla dzieci".** Nagroda jest dla pełnoletnich, rysunek jest metaforą, nie adresem. Trzyma to dorosły głos lektora i poważny tekst. Agencja ma to dostać powiedziane wprost, bo sama estetyka ciągnie w drugą stronę.
 
-**Nierozstrzygnięte: czyje to rysunki.** Prawdziwe prace dzieci wymagają zgód rodziców, a przy szkole zgody na każde dziecko osobno. Alternatywą jest ilustrator rysujący „dziecięcą ręką" - czysto prawnie, ale traci autentyczność, którą ktoś może wyczuć. Przy Uczniowskiej Akademii prawdziwe rysunki byłyby natomiast pretekstem dla szkół, żeby się zaangażowały. Pytanie skierowane do kancelarii (sekcja Cv pkt 28 w [prawnik](view.html?file=prawnik)).
+**Nierozstrzygnięte: czyje to rysunki.** Prawdziwe prace dzieci wymagają zgód rodziców, a przy szkole zgody na każde dziecko osobno. Alternatywą jest ilustrator rysujący „dziecięcą ręką" - czysto prawnie, ale traci autentyczność, którą ktoś może wyczuć. Przy Uczniowskiej Akademii prawdziwe rysunki byłyby natomiast pretekstem dla szkół, żeby się zaangażowały. Pytanie skierowane do kancelarii (sekcja Cv pkt 28 w [prawnik](/dokument/prawnik)).
 
 ## 13. Reequest jako partner
 

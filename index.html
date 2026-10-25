@@ -476,6 +476,40 @@
       }
 
 
+      .skroty {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 0.55rem 1.5rem;
+        margin-top: 1.8rem;
+        padding: 0.9rem 1rem;
+        border-top: 1px solid var(--rule);
+        border-bottom: 1px solid var(--rule);
+      }
+      .skroty a {
+        font-family: var(--mono);
+        font-size: 0.72rem;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+        color: var(--brass);
+        text-decoration: none;
+        border-bottom: 1px solid transparent;
+        padding-bottom: 1px;
+      }
+      .skroty a:hover,
+      .skroty a:focus-visible {
+        border-bottom-color: var(--brass);
+      }
+      /* Kotwice nie mogą przyklejać nagłówka do samej krawędzi okna. */
+      section[id] {
+        scroll-margin-top: 1.5rem;
+      }
+      @media (prefers-reduced-motion: no-preference) {
+        html {
+          scroll-behavior: smooth;
+        }
+      }
+
       .divider {
         display: block;
         width: 100%;
@@ -844,6 +878,13 @@
 
       </header>
 
+      <nav class="skroty" aria-label="Skróty">
+        <a href="#zasady">Zasady</a>
+        <a href="#plebiscyt">Plebiscyt</a>
+        <a href="#kto-za-tym-stoi">Kto za tym stoi</a>
+        <a href="#partnerzy">Dla partnerów</a>
+      </nav>
+
       <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
         <line
           x1="0"
@@ -1033,7 +1074,7 @@
         <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
       </svg>
 
-      <section>
+      <section id="zasady">
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z"/><path d="M15 3v4h4"/><path d="M9 12h7M9 16h5"/></svg><span>Zasady</span></h2>
         <ul class="rules">
           <li>
@@ -1362,7 +1403,7 @@
         <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
       </svg>
 
-      <section>
+      <section id="kto-za-tym-stoi">
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.3 2.7-5.2 6-5.2s6 1.9 6 5.2"/><circle cx="17.5" cy="9.5" r="2.3"/><path d="M16 14.6c3 .3 5 2.2 5 5.4"/></svg><span>Kto za tym stoi</span></h2>
         <div class="prose">
           <p>
@@ -1639,7 +1680,7 @@
         <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
       </svg>
 
-      <section>
+      <section id="plebiscyt">
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Plebiscyt na piosenkę o sztucznej inteligencji</span></h2>
         <div class="prose">
           <p>
@@ -1783,23 +1824,9 @@
       </section>
 
 
-      <footer>
-        <div class="foot-left">
-          <p class="legal">Konstela &copy; 2026</p>
-          <p class="legal">
-            Napisz do nas:
-            <a href="mailto:kontakt@konstela.org">kontakt@konstela.org</a>
-          </p>
-        </div>
-        <nav aria-label="Dokumenty">
-          <a href="/dokument/regulamin">Regulamin</a>
-          <a href="/dokument/karta-oceny">Karta oceny</a>
-          <a href="/plebiscyt-piosenki">Plebiscyt na piosenkę</a>
-          <a href="#partnerzy">Dla partnerów</a>
-          <a href="/dokument/polityka-prywatnosci">Polityka prywatności</a>
-        </nav>
-      </footer>
+      <konstela-stopka></konstela-stopka>
     </div>
 
+    <script src="/assets/stopka.js" defer></script>
   </body>
 </html>

@@ -14,7 +14,7 @@ Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzecz
 
 **Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz Kapituły**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Planowane jest także wydanie drukowane.
 
-**Archiwum rozmów** to publiczny zbiór zgłoszeń wybranych przez czytelników do dalszej oceny, udostępniany bez punktacji i bez rankingu. Publikowane jest porcjami przez rok następujący po ogłoszeniu wyników, czyli od marca 2028 do marca 2029; przed rozstrzygnięciem nie publikujemy niczego.
+**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one na publicznej ścianie, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru ściana zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez Akademię, Kapitułę i publiczność.
 
 Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie około sześciuset stron, i w żadnej z nich nie znalazłem pełnego zapisu rzeczywistej rozmowy człowieka z modelem, opatrzonego komentarzem dydaktycznym. Antologia i archiwum są materiałem źródłowym, którego nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
@@ -91,5 +91,5 @@ Organizatorem jest fundacja powołana wyłącznie do prowadzenia Nagrody, wpisan
 
 Krzysztof Olbiński  
 +48 503 520 004  
-contact@konstela.org  
+kontakt@konstela.org  
 konstela.org

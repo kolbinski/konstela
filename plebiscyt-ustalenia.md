@@ -61,7 +61,7 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 
 **Nierozstrzygnięte:**
 
-- Realizacja części artystycznej gali (nagłośnienie, backline, próby, honoraria trójki finałowej za występ, honoraria składu jury za dwa wykonania hymnu) - wycena zależy od miejsca gali, które nie jest wybrane. Szczegóły w [gala](view.html?file=gala).
+- Realizacja części artystycznej gali (nagłośnienie, backline, próby, honoraria trójki finałowej za występ, honoraria składu jury za dwa wykonania hymnu) - wycena zależy od miejsca gali, które nie jest wybrane. Szczegóły w [gala](/dokument/gala).
 - **Honoraria jury za ocenę zgłoszeń.** Patrz niżej, bo to zmiana wobec wcześniejszego ustalenia.
 - **Bramka SMS** do głosowania publiczności - koszt zależy od liczby głosów, więc kwoty nie da się dziś podać; przy kilku tysiącach głosów to pozycja niewielka, ale niezerowa.
 - **Promocja wśród wykonawców.** Strona nie dosięga półprofesjonalistów. Oni żyją w grupach muzyków na Facebooku, w szkołach muzycznych i na wydziałach wokalnych, na scenie coverowej YouTube i TikToka, w radiach lokalnych i studenckich, na open mikach i w rosterach małych wydawnictw. Dotarcie tam to albo praca ręczna, albo płatna promocja w mediach muzycznych - raz czyjś czas, raz gotówka. Michał jest tu wart więcej niż budżet, bo te miejsca zna z wewnątrz.
@@ -85,7 +85,7 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 
 **Głosowanie publiczności: numer telefonu i kod z SMS, jeden głos na numer.** Ten sam mechanizm co przy zgłaszaniu rozmów, więc nie wprowadza nowej kategorii danych ani nowego narzędzia. Rozwiązuje problem, którego wcześniej nie było jak rozwiązać: głosowanie bez identyfikacji, przy jednoczesnym braku kont, ciasteczek i zewnętrznej analityki, zaprasza do nabijania głosów jednym skryptem - wykonawca z zasięgami i znajomym programistą wygrywałby nagrodę publiczności w jedno popołudnie. SMS nie zatrzyma kogoś zdeterminowanego, kto kupi numery wirtualne, ale zatrzymuje nabijanie okazjonalne, a to jest proporcjonalne do stawki.
 
-**Zgłoszenie to link do utworu na YouTube, nie plik.** Rozwiązuje hosting i transfer w całości. Cztery konsekwencje, z których żadna nie jest blokerem, ale trzy wymagają decyzji i wszystkie trafiły do [prawnik-plebiscyt](view.html?file=prawnik-plebiscyt) pkt 4:
+**Zgłoszenie to link do utworu na YouTube, nie plik.** Rozwiązuje hosting i transfer w całości. Cztery konsekwencje, z których żadna nie jest blokerem, ale trzy wymagają decyzji i wszystkie trafiły do [prawnik-plebiscyt](/dokument/prawnik-plebiscyt) pkt 4:
 
 1. **Autor może usunąć film albo ustawić go jako prywatny** po terminie zgłoszeń. Dokładnie ten problem, który przy rozmowach rozwiązała kopia archiwalna - tu potrzebny jest odpowiednik.
 2. **Zgłoszenia są publiczne przed werdyktem**, razem z licznikiem odtworzeń. Jury widzi popularność utworu, zanim go oceni. Przy Nagrodzie unikamy tego konsekwentnie i tu warto wiedzieć, że tej szczelności nie ma.
@@ -100,7 +100,7 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 
 **Jury plebiscytu jest płatne za ocenę zgłoszeń.** Rozstrzygnięte 24.10.2026, zmiana wobec zapisu „jury za darmo" z 23.10.2026. Uzasadnienie: skoro płacimy Kapitule i Akademii za czytanie rozmów, płacenie jury za odsłuchiwanie kilkudziesięciu utworów przez rok jest konsekwencją, nie wyjątkiem - a rok pracy oparty na samej dobrej woli to cienki fundament i nie pozwala wymagać terminów. Honorarium za ocenę jest odrębne od honorarium za wykonanie hymnu na gali i od produkcji nagrania.
 
-**Kwota nieustalona, świadomie.** Zależy od liczebności jury, która nie jest znana. Kotwicą jest nasza własna skala ze [skalowanie-oceny](view.html?file=skalowanie-oceny): honoraria Kapituły 69,5 tys. zł, przy pięciu osobach niecałe 14 tys. na osobę, czyli około 290 zł za godzinę przy 100 rozmowach. Praca jury plebiscytu jest znacznie lżejsza - przy 50 zgłoszeniach dwa przejścia odsłuchu plus shortlista i obrady to rzędu 15 godzin, nie 48 - co z tej samej stawki daje około 4,5 tys. zł na jurora i ok. 22 tys. zł przy pięciu osobach. **Do ustalenia po rozmowie z Michałem.**
+**Kwota nieustalona, świadomie.** Zależy od liczebności jury, która nie jest znana. Kotwicą jest nasza własna skala ze [skalowanie-oceny](/dokument/skalowanie-oceny): honoraria Kapituły 69,5 tys. zł, przy pięciu osobach niecałe 14 tys. na osobę, czyli około 290 zł za godzinę przy 100 rozmowach. Praca jury plebiscytu jest znacznie lżejsza - przy 50 zgłoszeniach dwa przejścia odsłuchu plus shortlista i obrady to rzędu 15 godzin, nie 48 - co z tej samej stawki daje około 4,5 tys. zł na jurora i ok. 22 tys. zł przy pięciu osobach. **Do ustalenia po rozmowie z Michałem.**
 
 ## Ścieżki finansowania do sprawdzenia
 
@@ -130,9 +130,9 @@ Przeformułowanie zgłoszone przez Krzyśka i przyjęte.
 
 - [x] Punkt 4 „Cztery rozstrzygnięcia" - teza o akcji towarzyszącej wycofana, zapis zachowany jako przebieg myślenia.
 - [x] Uzasadnienie odrzucenia płyty - wycofany argument o przesuwaniu Konsteli w stronę wytwórni.
-- [x] [mk-nota-koncepcyjna](view.html?file=mk-nota-koncepcyjna) - rozdział 2 rozszerzony o ramę współistnienia i o zdanie, że oba konkursy są równie potrzebne; streszczenie na wejściu mówi teraz o drugim, równorzędnym konkursie zamiast o „towarzyszącej części artystycznej"; rozdział 10 przemianowany z „Część artystyczna" na „Plebiscyt na piosenkę i gala" i odsyła do rozdziału 2.
-- [ ] [plebiscyt-piosenki](view.html?file=plebiscyt-piosenki) i strona główna - do przejrzenia pod kątem języka „akcji towarzyszącej".
-- [ ] [brief-dla-agencji](view.html?file=brief-dla-agencji) - rama współistnienia jest punktem wyjścia do brandingu i tone of voice, które agencja stawia przed stroną.
+- [x] [mk-nota-koncepcyjna](/dokument/mk-nota-koncepcyjna) - rozdział 2 rozszerzony o ramę współistnienia i o zdanie, że oba konkursy są równie potrzebne; streszczenie na wejściu mówi teraz o drugim, równorzędnym konkursie zamiast o „towarzyszącej części artystycznej"; rozdział 10 przemianowany z „Część artystyczna" na „Plebiscyt na piosenkę i gala" i odsyła do rozdziału 2.
+- [ ] [plebiscyt-piosenki](/dokument/plebiscyt-piosenki) i strona główna - do przejrzenia pod kątem języka „akcji towarzyszącej".
+- [ ] [brief-dla-agencji](/dokument/brief-dla-agencji) - rama współistnienia jest punktem wyjścia do brandingu i tone of voice, które agencja stawia przed stroną.
 
 ## Skład jury: wokaliści, autorzy i producenci
 
@@ -147,7 +147,7 @@ Rozstrzygnięte 24.10.2026, po korekcie wcześniejszej decyzji z tego samego dni
 Lista otwarta. Jury jest płatne za ocenę, przewodniczy mu Michał Sołtan, a skład wybierają Organizator i Sołtan.
 
 - **Michał Sołtan** - przewodniczący, zgoda ustna, czeka na potwierdzenie na piśmie.
-- **Grzegorz Markowski** - zgłoszony 24.10.2026. Uzasadnienie: jury oceniające piosenki o sztucznej inteligencji potrzebuje kogoś, kto patrzy na to z drugiego końca epoki, a chodzi o generację, która dostała nowe narzędzie w połowie życia. Sołtan daje warsztat i dzisiejszą scenę, Markowski ciężar i dystans. **Droga kontaktu: przez Perfekt, nie na zimno** - w [piosenkarze-lista](view.html?file=piosenkarze-lista) jest już Łukasz Drapała, który śpiewa w Perfekcie od lat, więc to są dwa stopnie, nie sześć. Markowski od kilku lat jest wycofany ze scenicznej działalności, więc wejście przez kogoś z zespołu jest jedyną drogą, która ma sens.
+- **Grzegorz Markowski** - zgłoszony 24.10.2026. Uzasadnienie: jury oceniające piosenki o sztucznej inteligencji potrzebuje kogoś, kto patrzy na to z drugiego końca epoki, a chodzi o generację, która dostała nowe narzędzie w połowie życia. Sołtan daje warsztat i dzisiejszą scenę, Markowski ciężar i dystans. **Droga kontaktu: przez Perfekt, nie na zimno** - w [piosenkarze-lista](/dokument/piosenkarze-lista) jest już Łukasz Drapała, który śpiewa w Perfekcie od lat, więc to są dwa stopnie, nie sześć. Markowski od kilku lat jest wycofany ze scenicznej działalności, więc wejście przez kogoś z zespołu jest jedyną drogą, która ma sens.
 
 **Lista wykonawców do przekwalifikowania.** `piosenkarze-lista.md` powstała, gdy szukaliśmy kogoś do nagrania jednej piosenki na zamówienie. Po przejściu na plebiscyt te nazwiska dzielą się na dwie grupy: artyści o ustalonej pozycji są **kandydatami do jury**, a wykonawcy półprofesjonalni są **adresatami zaproszenia do zgłoszeń**. Plik trzeba przepisać pod tym kątem, bo dziś miesza jedno z drugim.
 
@@ -178,7 +178,7 @@ Pomysł Krzyśka: hymn nagrany przez całe jury plus 20 i więcej wykonawców na
 
 **Trzy pozostałe ryzyka.** Format jest dziś rozpoznawany jako singiel charytatywny z lat osiemdziesiątych, więc hymn może wyjść uroczy, a nie poważny. Jeżeli w planach jest 20 nazwisk, a zjawi się 6, materiał wygląda na okrojony, choć nikt nic nie obiecywał publicznie. I rzecz subtelniejsza: Nagroda mierzy to, co zrobił jeden człowiek uważnie - chór gwiazd mierzy obecność znanych osób.
 
-**Ta scena jest już w planie i nic nie kosztuje.** Finał gali to hymn z wszystkimi nagrodzonymi na scenie, na żywo, przy kamerze ([gala](view.html?file=gala)). Jeżeli wyjdzie, zapis z gali staje się argumentem do wersji studyjnej z szerokim składem - już z wydawnictwem i z czyjąś produkcją, jako rzecz na drugą edycję.
+**Ta scena jest już w planie i nic nie kosztuje.** Finał gali to hymn z wszystkimi nagrodzonymi na scenie, na żywo, przy kamerze ([gala](/dokument/gala)). Jeżeli wyjdzie, zapis z gali staje się argumentem do wersji studyjnej z szerokim składem - już z wydawnictwem i z czyjąś produkcją, jako rzecz na drugą edycję.
 
 **Przyjęta kolejność:** najpierw małe i pewne, czyli hymn nagrany przez jury, potem duże i możliwe. Odwrotna kolejność może zamknąć wszystko.
 
@@ -207,6 +207,8 @@ Recenzja obcego AI na podstawie sześciu plików. Dziewięć zarzutów; osiem pr
 **Płyta: zostaje dziesięć utworów.** Analogia do antologii jest cenniejsza niż elastyczność wobec przyszłego wydawcy.
 
 **Reguła AI - luka zamknięta.** Poprzednie zapisy przeczyły sobie: „tekst, kompozycja i wokal muszą być dziełem człowieka" obok „wygenerowane w całości nie bierze udziału", co dopuszczało wygenerowany refren. Zamknięte zakazem obejmującym tekst, melodię, harmonię i wokal. *Ta wersja obowiązywała kilka godzin i została zmieniona tego samego dnia wieczorem - patrz poniżej.*
+
+**Trzy rozstrzygnięcia po recenzji strony plebiscytu (25.10.2026).** **Hymn dostaje nową kompozycję** - jurorzy piszą własną muzykę do tekstu „Zapytaj inaczej", nie wykonują melodii z generatora. Bez tego hymn łamałby zasadę stawianą zgłaszającym w najbardziej widocznym miejscu, a figura „ta sama piosenka w trzech wersjach" zamieniała się w zarzut. Porównanie przesuwa się więc z wykonania na kompozycję: te same słowa, muzyka od AI i muzyka od ludzi. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja o udziale AI służy jawności i weryfikacji, nie punktacji; to przesądza również pytanie, czy deklaracja ma trafiać do jury przed oceną. **Limit zgłoszeń jest limitem reprezentantów**, nie składów: pięcioosobowy zespół może zgłosić pięć piosenek przez pięciu reprezentantów i przyjmujemy to świadomie, bo alternatywą jest dociekanie, kto z kim tworzy projekt. Wszystkie trzy zapisane wprost na stronie.
 
 **Reguła AI - rozdzielenie tekstu od melodii (24.10.2026, godz. 18).** Zmiana zgłoszona przez Krzyśka i przyjęta. **Powód:** poprzedni zakaz obejmował również pracę, którą główny konkurs Nagrody wprost nagradza - człowiek prowadzi wielogodzinną rozmowę z AI, prosi na koniec o wersję tekstu i przepisuje ją po swojemu. Zakaz tej drogi w plebiscycie był niespójny z tezą, że nagradzamy świadome życie z AI, a nie abstynencję od niej.
 
