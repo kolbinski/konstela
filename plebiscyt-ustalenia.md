@@ -224,7 +224,7 @@ Recenzja obcego AI na podstawie sześciu plików. Dziewięć zarzutów; osiem pr
 
 ### Pozostałe decyzje
 
-**Hymn: nagranie i premiera na początku 2027, otwiera nabór; na gali w 2028 wykonanie na żywo.** Usuwa sprzeczność wychwyconą w recenzji: pismo mówiło o nagraniu w I kwartale 2028, a nota o teledysku niosącym rok 2027. **Konsekwencja finansowa, istotna:** hymn jest pozycją, na którą pieniądze potrzebne są najwcześniej ze wszystkiego, na przełomie 2026 i 2027. Środki z Programów Ministra na rok 2027 wpływają w trakcie roku, więc dla hymnu ta ścieżka może być za późna - to argument za sponsorem prywatnym w pierwszej kolejności.
+**Hymn: termin nagrania i premiery zależy od zabezpieczenia środków; na gali w 2028 wykonanie na żywo.** Zmiana z 25.10.2026: premiera hymnu przestaje być otwarciem naboru, bo wiązała termin produkcji wymagającej 60-100 tys. zł z datą 1 stycznia 2027. Usuwa sprzeczność wychwyconą w recenzji: pismo mówiło o nagraniu w I kwartale 2028, a nota o teledysku niosącym rok 2027. **Konsekwencja finansowa, istotna:** hymn jest pozycją, na którą pieniądze potrzebne są najwcześniej ze wszystkiego, na przełomie 2026 i 2027. Środki z Programów Ministra na rok 2027 wpływają w trakcie roku, więc dla hymnu ta ścieżka może być za późna - to argument za sponsorem prywatnym w pierwszej kolejności.
 
 **Zgłoszenie: wystarcza czytelne demo, głos i instrument.** Produkcja jest po stronie organizatora i dopiero dla finalistów. Powód z recenzji, trafny i nowy: jeżeli ocenia się wykonanie, uczestnik musi wydać pieniądze na studio, nie wiedząc, czy cokolwiek wygra - a to odsiewa dobrych twórców bez budżetu, czyli dokładnie tych, po których ten konkurs sięga. Jury dostaje wyraźne wskazanie, że ocenia utwór i wykonanie, a nie budżet realizacji.
 

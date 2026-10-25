@@ -87,14 +87,14 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 
 | Budżet | Przedmiot | Kwota netto |
 |---|---|---:|
-| [Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) | Nagroda i gala: pula nagród, honoraria Kapituły, gala, promocja naboru, prowadzenie konkursu | **ok. 603,7 tys. zł** |
-| [Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) | Antologia i archiwum: redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 271,7 tys. zł** |
-| [Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 256,6 tys. zł** |
+| [Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) | Nagroda i gala: pula nagród, honoraria Kapituły, gala, promocja naboru, prowadzenie konkursu | **ok. 561,7 tys. zł** |
+| [Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) | Antologia i archiwum: redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 277,6 tys. zł** |
+| [Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 261,7 tys. zł** |
 | [Akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) | Pierwsza runda oceny: honoraria czytelników, vouchery rosnące z liczbą ocenionych rozmów, kalibracja | **ok. 49,3 tys. zł** |
 
 Wyliczenia pozycja po pozycji są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Nagrody, Budżet Antologii, Budżet Plebiscytu i Budżet Akademii; zakładka Wyjaśnienia opisuje, jak czytać każdą kolumnę.
 
-Razem ok. 1 139,3 tys. zł netto przy 937 godzinach pracy organizatora. **Honoraria jury plebiscytu i realizacja części artystycznej gali stoją na zerze** i czekają na wycenę od Michała Sołtana, więc Budżet P jeszcze urośnie.
+Razem ok. 1 150,2 tys. zł netto przy 937 godzinach pracy organizatora. **Honoraria jury plebiscytu i realizacja części artystycznej gali stoją na zerze** i czekają na wycenę od Michała Sołtana, więc Budżet P jeszcze urośnie.
 
 **Praca agencji jest w Budżecie A** - finansuje ją partner wydawniczy, nie fundator puli. Żaden sponsor nie jest jeszcze pozyskany; zlecenie rusza po podpisaniu pierwszej umowy sponsorskiej.
 
@@ -104,7 +104,7 @@ Razem ok. 1 139,3 tys. zł netto przy 937 godzinach pracy organizatora. **Honora
 
 **„Odbiór jako freak".** Pierwsze skojarzenie z nazwą: gwiazdy, energia wszechświata, ezoteryka. Największym wyzwaniem jest pokazanie, że to nie jest czyjeś hobby. **Nierozwiązane - to jest zadanie na warsztaty i główny powód, dla którego branding idzie przed stroną.**
 
-**Rozwodnienie rocznego okna.** „Kiedyś czyli nigdy". **Rozwiązane trzema rzeczami:** hymn z teledyskiem otwierający nabór, rosnąca czytelnia zgłoszeń z półką, napływające zgłoszenia plebiscytu. Dochodzą odcinki podcastu.
+**Rozwodnienie rocznego okna.** „Kiedyś czyli nigdy". **Rozwiązane trzema rzeczami:** hymn z teledyskiem jako wydarzenie otwierające pierwszą edycję, rosnąca czytelnia zgłoszeń z półką, napływające zgłoszenia plebiscytu. Dochodzą odcinki podcastu.
 
 **Jedno zgłoszenie na osobę obcina zainteresowanych.** **Podtrzymane mimo zarzutu** - wybór własnej najlepszej rozmowy jest sam w sobie aktem oceny, a Nagroda premiuje właśnie takie rzeczy.
 

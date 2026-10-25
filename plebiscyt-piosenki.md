@@ -103,7 +103,7 @@ Nagroda potrzebuje prawa **niewyłącznego** i w trzech konkretnych zakresach, k
 
 Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują jurorzy i oni go nagrywają** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi.
 
-Hymn ma zostać nagrany i wydany na początku 2027 roku, bo jego premiera otwiera nabór, a na gali w 2028 wykonywany jest na żywo.
+Termin nagrania i premiery hymnu zależy od zabezpieczenia środków na produkcję. Na gali w 2028 roku hymn wykonywany jest na żywo.
 
 Tekst hymnu jest poniżej, razem z wersjami wygenerowanymi przez AI, żeby było wiadomo, o czym ta Nagroda jest i jakim mówi językiem.
 
