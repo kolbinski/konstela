@@ -811,6 +811,10 @@
         .purse {
           grid-template-columns: repeat(4, 1fr);
         }
+        /* Kalendarz zostaje przy dwóch kaflach w wierszu - hasła są długie. */
+        .purse.kalendarz {
+          grid-template-columns: repeat(2, 1fr);
+        }
       }
       .purse.kalendarz dd {
         font-size: 1.15rem;
@@ -976,15 +980,16 @@
       </div>
       <nav id="menu" class="menu" aria-label="Sekcje strony" hidden>
         <a href="#dlaczego">Dlaczego</a>
-        <a href="#kryteria">Cztery kryteria</a>
-        <a href="#zasady">Zasady</a>
+        <a href="#co">Co</a>
+        <a href="#kryteria">Cztery kryteria oceny w konkursie</a>
+        <a href="#zasady">Zasady konkursu</a>
         <a href="#nagrody">Nagrody</a>
-        <a href="#kalendarz">Kalendarz pierwszej edycji</a>
-        <a href="#kto-za-tym-stoi">Kto za tym stoi</a>
+        <a href="#kalendarz">Kalendarz pierwszej edycji nagrody</a>
         <a href="#czytelnia">Czytelnia rozmów z AI</a>
         <a href="#antologia">Antologia i archiwum rozmów z AI</a>
         <a href="#hymn">Hymn &bdquo;Zapytaj inaczej&rdquo;</a>
         <a href="#plebiscyt">Plebiscyt na piosenkę o sztucznej inteligencji</a>
+        <a href="#kto-za-tym-stoi">Kto za tym stoi</a>
         <a href="#partnerzy">Dla partnerów</a>
       </nav>
     </div>
@@ -1075,8 +1080,43 @@
             Szukamy rozmowy z AI, w której człowiek doszedł do czegoś, czego nie
             wiedział na wejściu, i co da się nazwać.
           </blockquote>
+        </div>
+      </section>
+
+      <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
+        <line
+          x1="0"
+          y1="11"
+          x2="118"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <line
+          x1="170"
+          y1="11"
+          x2="288"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <circle
+          cx="144"
+          cy="11"
+          r="3.5"
+          fill="none"
+          stroke="var(--brass)"
+          stroke-width="1"
+        />
+        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
+        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
+      </svg>
+
+      <section id="co">
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 21V3"/><path d="M6 4.5h12l-2.8 3.6L18 11.7H6"/></svg><span>Co</span></h2>
+        <div class="prose">
           <p>
-            Konstela nie jest jednak o rozmowach z komputerem. Jest o
+            Konstela nie jest o rozmowach z komputerem. Jest o
             <strong>życiu z AI</strong> - o współistnieniu ludzi i sztucznej
             inteligencji w epoce, która już się zaczęła. Rozmowa jest pierwszym
             miejscem, w którym to widać i w którym da się to ocenić, ale nie
@@ -1091,6 +1131,13 @@
             po której coś zrozumiałeś inaczej niż przedtem. Udział jest
             bezpłatny, a całe zgłoszenie to link i kilka zdań o tym, co w tej
             rozmowie odkryłeś.
+          </p>
+          <p>
+            <strong>Co można wygrać.</strong> Nagrodę główną i dziewięć
+            wyróżnień przyznaje Kapituła. Obok jej werdyktu przyznawane są dwie
+            nagrody niezależne - <a href="#nagrody">Nagroda Uczniowska i Nagroda
+            Publiczności</a> - a w plebiscycie piosenki nagradzani są wykonawcy.
+            Wszystkie wyniki ogłaszamy jednego wieczoru.
           </p>
           <p>
             10 najlepszych rozmów składa się na antologię, którą
@@ -1132,7 +1179,7 @@
       </svg>
 
       <section id="kryteria">
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1"/><rect x="13.5" y="3.5" width="7" height="7" rx="1"/><rect x="3.5" y="13.5" width="7" height="7" rx="1"/><rect x="13.5" y="13.5" width="7" height="7" rx="1"/></svg><span>Cztery kryteria</span></h2>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1"/><rect x="13.5" y="3.5" width="7" height="7" rx="1"/><rect x="3.5" y="13.5" width="7" height="7" rx="1"/><rect x="13.5" y="13.5" width="7" height="7" rx="1"/></svg><span>Cztery kryteria oceny w konkursie</span></h2>
         <div class="criteria">
           <article class="criterion">
             <span class="num">I</span>
@@ -1207,7 +1254,7 @@
       </svg>
 
       <section id="zasady">
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z"/><path d="M15 3v4h4"/><path d="M9 12h7M9 16h5"/></svg><span>Zasady</span></h2>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h9l4 4v14H6z"/><path d="M15 3v4h4"/><path d="M9 12h7M9 16h5"/></svg><span>Zasady konkursu</span></h2>
         <ul class="rules">
           <li>
             <svg
@@ -1412,8 +1459,7 @@
             <dd>
               w ustaleniu<small
                 >wysokość będzie znana po ustaleniu współpracy z partnerami
-                edycji; ogłosimy ją w dniu otwarcia zgłoszeń i od tej chwili
-                będzie wiążąca</small
+                edycji; ogłosimy ją w dniu otwarcia zgłoszeń</small
               >
             </dd>
           </div>
@@ -1423,11 +1469,11 @@
           </div>
           <div>
             <dt>Laureat</dt>
-            <dd>1<small>nagroda główna, bez podziału na kategorie</small></dd>
+            <dd>1<small>nagroda główna</small></dd>
           </div>
           <div>
             <dt>Wyróżnienia</dt>
-            <dd>9<small>miejsca od drugiego do dziesiątego w rankingu; wysokość ogłosimy razem z pulą</small></dd>
+            <dd>9<small>miejsca od drugiego do dziesiątego w rankingu</small></dd>
           </div>
         </dl>
         <div class="prose" style="margin-top: 1.5rem">
@@ -1453,7 +1499,7 @@
             <p>
               Wybierana w otwartym głosowaniu, jeden głos na osobę, dopiero po
               zamknięciu naboru - żeby wszystkie rozmowy miały tyle samo czasu
-              na zbieranie głosów. Szczegóły w sekcji o czytelni rozmów.
+              na zbieranie głosów. Szczegóły w sekcji o <a href="#czytelnia">czytelni rozmów</a>.
             </p>
           </article>
         </div>
@@ -1489,7 +1535,7 @@
       </svg>
 
       <section id="kalendarz">
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3.5v3M16 3.5v3"/></svg><span>Kalendarz pierwszej edycji</span></h2>
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2"/><path d="M3.5 10h17M8 3.5v3M16 3.5v3"/></svg><span>Kalendarz pierwszej edycji nagrody</span></h2>
         <dl class="purse kalendarz">
           <div>
             <dt>Początek 2027</dt>
@@ -1524,65 +1570,6 @@
               głosowania, jeden głos na osobę.
             </li>
           </ul>
-        </div>
-      </section>
-
-      <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
-        <line
-          x1="0"
-          y1="11"
-          x2="118"
-          y2="11"
-          stroke="var(--rule)"
-          stroke-width="1"
-        />
-        <line
-          x1="170"
-          y1="11"
-          x2="288"
-          y2="11"
-          stroke="var(--rule)"
-          stroke-width="1"
-        />
-        <circle
-          cx="144"
-          cy="11"
-          r="3.5"
-          fill="none"
-          stroke="var(--brass)"
-          stroke-width="1"
-        />
-        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
-        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
-      </svg>
-
-      <section id="kto-za-tym-stoi">
-        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.3 2.7-5.2 6-5.2s6 1.9 6 5.2"/><circle cx="17.5" cy="9.5" r="2.3"/><path d="M16 14.6c3 .3 5 2.2 5 5.4"/></svg><span>Kto za tym stoi</span></h2>
-        <div class="prose">
-          <p>
-            <strong>Organizatorem jest Fundacja Konstela</strong>, powoływana
-            wyłącznie w celu prowadzenia Nagrody; jej rejestracja jest w toku i
-            zostanie zakończona przed otwarciem zgłoszeń. Fundatorem fundacji i
-            autorem koncepcji jest <strong>Krzysztof Olbiński</strong> -
-            inżynier oprogramowania z ponad dwudziestoletnim stażem, autor
-            książki „365 pytań, które zmieniły wszystko". Do czasu rejestracji
-            prowadzi przygotowania osobiście i odpowiada za realizację. Dane rejestrowe pojawią się
-            tutaj i w regulaminie w dniu otwarcia naboru.
-          </p>
-          <p>
-            <strong>Michał Sołtan</strong> przewodniczy jury plebiscytu na
-            piosenkę. Zawodowy muzyk z ponad dwudziestoletnim stażem:
-            kompozytor, autor tekstów, wokalista, producent i wydawca, autor
-            czterech albumów.
-          </p>
-          <p>
-            Skład <strong>Kapituły</strong> oceniającej rozmowy oraz reszta
-            jury plebiscytu są kompletowane. Ogłaszamy je wraz z sylwetkami
-            przed otwarciem naboru, a nie po rozstrzygnięciu. Praca w Kapitule
-            i w jury jest płatna - ocena kilkudziesięciu zgłoszeń przez rok to
-            praca rozłożona na rok, a honorarium pozwala umawiać się na
-            terminy.
-          </p>
         </div>
       </section>
 
@@ -1684,8 +1671,7 @@
             edycji, publikowanych w całości i bez skrótów, z komentarzem
             Kapituły wyjaśniającym, co w każdej z nich było wartościowe.
             Udostępniamy ją bezpłatnie, bez rejestracji i bez ograniczeń
-            dostępu. Wydanie książkowe zależy od partnera wydawniczego, a
-            przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
+            dostępu. Wydanie książkowe zależy od partnera wydawniczego.
           </p>
           <p>
             <strong>Archiwum</strong> to ta sama czytelnia, utrwalona w dniu
@@ -1743,7 +1729,7 @@
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 12h2.5l2-6 3 15 3-12 2 7 1.5-4H21"/></svg><span>Hymn &bdquo;Zapytaj inaczej&rdquo;</span></h2>
         <div class="prose">
           <p>
-            Hasło Nagrody doczekało się piosenki, która stanie się jej hymnem.
+            Hasło &bdquo;Zapytaj inaczej&rdquo; Nagrody doczekało się piosenki, która stanie się jej hymnem.
             Poniżej dwie wersje tego samego tekstu, w których muzykę i
             wykonanie wygenerowała AI. Sam tekst powstał tak, jak zasady
             plebiscytu dopuszczają: z długiej rozmowy z AI o tym, czym jest
@@ -1803,6 +1789,8 @@
           </a>
         </div>
       </section>
+
+
 
       <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
         <line
@@ -1875,6 +1863,64 @@
         </div>
       </section>
 
+      <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
+        <line
+          x1="0"
+          y1="11"
+          x2="118"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <line
+          x1="170"
+          y1="11"
+          x2="288"
+          y2="11"
+          stroke="var(--rule)"
+          stroke-width="1"
+        />
+        <circle
+          cx="144"
+          cy="11"
+          r="3.5"
+          fill="none"
+          stroke="var(--brass)"
+          stroke-width="1"
+        />
+        <circle cx="130" cy="11" r="1.5" fill="var(--rule)" />
+        <circle cx="158" cy="11" r="1.5" fill="var(--rule)" />
+      </svg>
+
+      <section id="kto-za-tym-stoi">
+        <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3.3 2.7-5.2 6-5.2s6 1.9 6 5.2"/><circle cx="17.5" cy="9.5" r="2.3"/><path d="M16 14.6c3 .3 5 2.2 5 5.4"/></svg><span>Kto za tym stoi</span></h2>
+        <div class="prose">
+          <p>
+            <strong>Organizatorem jest Fundacja Konstela</strong>, powoływana
+            wyłącznie w celu prowadzenia Nagrody; jej rejestracja jest w toku i
+            zostanie zakończona przed otwarciem zgłoszeń. Fundatorem fundacji i
+            autorem koncepcji jest <strong>Krzysztof Olbiński</strong> -
+            inżynier oprogramowania z ponad dwudziestoletnim stażem. Do czasu rejestracji
+            prowadzi przygotowania osobiście i odpowiada za realizację. Dane rejestrowe pojawią się
+            tutaj i w regulaminie w dniu otwarcia naboru.
+          </p>
+          <p>
+            <strong>Michał Sołtan</strong> przewodniczy jury plebiscytu na
+            piosenkę. Zawodowy muzyk z ponad dwudziestoletnim stażem:
+            kompozytor, autor tekstów, wokalista, producent i wydawca, autor
+            czterech albumów.
+          </p>
+          <p>
+            Skład <strong>Kapituły</strong> oceniającej rozmowy oraz reszta
+            jury plebiscytu są kompletowane. Ogłaszamy je wraz z sylwetkami
+            przed otwarciem naboru, a nie po rozstrzygnięciu. Praca w Kapitule
+            i w jury jest płatna - ocena kilkudziesięciu zgłoszeń przez rok to
+            praca rozłożona na rok, a honorarium pozwala umawiać się na
+            terminy.
+          </p>
+        </div>
+      </section>
+
 <svg class="divider" viewBox="0 0 288 22" aria-hidden="true">
         <line
           x1="0"
@@ -1906,14 +1952,6 @@
 
       <section id="partnerzy">
         <h2><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="9" cy="12" r="5.2"/><circle cx="15" cy="12" r="5.2"/></svg><span>Dla partnerów</span></h2>
-        <div class="prose">
-          <p>
-            Mówimy wprost, na jakim to jest etapie: <strong>żaden sponsor nie
-            jest jeszcze pozyskany</strong>, a pula nagród zostanie ogłoszona
-            dopiero wtedy, gdy będzie zabezpieczona. Nie zbieramy zgłoszeń na
-            obietnicę.
-          </p>
-        </div>
         <div class="awards">
           <article>
             <h3>Sponsor puli nagród</h3>
@@ -1953,24 +1991,15 @@
           </article>
         </div>
         <div class="prose" style="margin-top: 1.5rem">
-          <p><strong>Zapraszamy do współpracy.</strong></p>
           <p>
-            Każdy z tych zakresów ma osobny kosztorys - pozycja po pozycji, z
-            nakładem pracy i rezerwą. Kosztorys rozróżnia przy tym kwoty
-            oszacowane przez nas od tych, które czekają na wycenę z zewnątrz -
-            honoraria jury plebiscytu i realizacja części artystycznej gali
-            należą do drugiej grupy.
-            Kosztorys wysyłamy wraz z notą koncepcyjną na życzenie. Po naszej
-            stronie do uzgodnienia są: oznaczenie mecenatu przy finansowanym
-            zakresie, obecność w antologii i na stronie Nagrody, wystąpienie
-            podczas gali oraz raport z realizacji po zakończeniu edycji.
-            Zasięgów nie obiecujemy, bo pierwszej edycji nikt jeszcze nie
-            zmierzył. Rozliczenie następuje fakturą za
-            usługę, a nie darowizną, a zakres świadczeń wzajemnych ustalamy
-            indywidualnie przed podpisaniem umowy.
+            <strong>Do każdego z tych zakresów szukamy partnera</strong> - można
+            wejść w jeden, nie trzeba w komplet. Kosztorys zakresu wysyłamy wraz
+            z notą koncepcyjną na życzenie. Żaden z nich nie ma jeszcze
+            partnera, a pulę nagród ogłosimy dopiero wtedy, gdy będzie
+            zabezpieczona.
           </p>
           <p>
-            Napisz do nas:
+            Kontakt:
             <a href="mailto:wspolpraca@konstela.org">wspolpraca@konstela.org</a>
           </p>
         </div>
