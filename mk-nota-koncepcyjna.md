@@ -30,7 +30,7 @@ Dlatego plebiscyt na piosenkę, opisany w rozdziale 10, nie jest dodatkiem o inn
 
 **Antologia.** Dziesięć najwyżej ocenionych rozmów każdej edycji, publikowanych bezpłatnie jako e-book, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Planowane jest również wydanie książkowe, płatne i zależne od pozyskania partnera wydawniczego; przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
-**Archiwum rozmów.** Szerszy, publiczny zbiór rozmów wybranych przez czytelników do dalszej oceny, udostępniany bez punktacji i bez komentarzy, żeby nie powstawał z niego drugi ranking. Publikowany porcjami przez cały rok następujący po edycji. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
+**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one na publicznej ścianie, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru ściana zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez Akademię, Kapitułę i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
 Trzy funkcje, które antologia i archiwum pełnią jednocześnie:
 
@@ -133,7 +133,7 @@ Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy fin
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
 | Fundator nagrody i gali | ok. 604 tys. zł | pula nagród 390 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł i dziewięć wyróżnień po 10 tys. zł), honoraria Kapituły i Akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
-| Partner wydawniczy | ok. 233 tys. zł | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie archiwum i kopii rozmów, powołanie fundacji |
+| Partner wydawniczy | ok. 233 tys. zł **[do sprawdzenia: arkusz daje 271,7 tys. zł]** | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie archiwum i kopii rozmów, powołanie fundacji |
 | **Razem** | **ok. 837 tys. zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
 
