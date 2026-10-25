@@ -117,6 +117,8 @@ I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rze
 
 Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu.
 
+<span id="tekst-zapytaj-inaczej"></span>
+
 > ## Zapytaj inaczej
 >
 > **[Zwrotka 1]**
