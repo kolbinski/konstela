@@ -16,6 +16,8 @@
 
 **Programy branie pod uwagę.** Muzyka (operator: Narodowy Instytut Muzyki i Tańca, tel. 887 507 009), Edukacja kulturalna (operator: Narodowe Centrum Kultury, tel. 22 350 95 78), Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży. Nie przesądzamy w piśmie, który jest właściwy - o to właśnie pytamy.
 
+**Podcast dopisany 26.10.2026** jako czwarte działanie, z dwoma cyklami: „Pierwszy raz" i „NAIstolatek". Istotne jest zdanie o tym, że przedmiotem odcinka nie są odpowiedzi AI, lecz kolejne pytanie człowieka - to ono wiąże podcast z kartą oceny Nagrody i odróżnia go od przeglądu możliwości narzędzi. Produkcję finansuje sponsor Antologii, nie MKiDN; w piśmie podcast pojawia się dlatego, że zmienia odpowiedź na pytanie o właściwy program, a cykl młodzieżowy otwiera ścieżkę do programu Wydarzenia artystyczne dla dzieci i młodzieży.
+
 **Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziale 10, i wynosi 99 tys. zł w pozycjach rozstrzygniętych. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
 
 **Dwie kwoty w kosztorysie są propozycją, nie decyzją:** 3 tys. zł nagrody publiczności dla wykonawcy i 1 tys. zł za najlepsze uzasadnienie wyboru. Potwierdzić przed wysyłką.
@@ -49,7 +51,7 @@ Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się ni
 
 Część druga: prośba o wskazanie drogi finansowania części artystycznej.
 
-Częścią artystyczną przedsięwzięcia są trzy powiązane działania.
+Częścią artystyczną przedsięwzięcia są trzy powiązane działania, do których dochodzi czwarte, o charakterze popularyzatorskim.
 
 Pierwsze to otwarty plebiscyt na piosenkę o sztucznej inteligencji i jej roli w świecie. Uczestnicy nadsyłają utwory własne: własny tekst, własną muzykę i własne wykonanie, przy czym dopuszczalne są zgłoszenia zespołowe, w których autor tekstu, kompozytor i wykonawca są różnymi osobami - zgłoszenie wskazuje wówczas osobę reprezentującą cały skład. Plebiscyt jest adresowany do wykonawców półprofesjonalnych, to jest osób, które piszą i grają, mają własną publiczność, ale nie są artystami o ustalonej pozycji rynkowej. Zgłasza się czytelne nagranie demonstracyjne, nie gotowy singiel, aby wysokość kosztów produkcji nie decydowała o tym, kto może wziąć udział. Zwycięzcę wybiera jury, nie głosowanie publiczności, a kryteria oceny są ogłaszane przed naborem.
 
@@ -60,6 +62,14 @@ Drugie to produkcja nagrań studyjnych dziesięciu najwyżej ocenionych utworów
 Przewodniczącym jury zgodził się zostać Michał Sołtan, wokalista, półfinalista 14. edycji programu The Voice of Poland. Pozostali członkowie jury są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
 
 Trzecie działanie to nagranie hymnu przedsięwzięcia do istniejącego tekstu „Zapytaj inaczej", w wykonaniu jurorów, poza konkursem. Hymn ma zostać nagrany i wydany na początku 2027 roku, ponieważ jest materiałem przygotowywanym na zaplanowany termin otwarcia kampanii naboru. Trzy najwyżej ocenione utwory plebiscytu oraz hymn zostaną następnie wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie marca 2028 roku. Wszystkie zgłoszone utwory będą prezentowane na stronie przez cały rok trwania naboru, bezpłatnie i bez ograniczeń dostępu.
+
+Czwarte działanie to podcast towarzyszący Nagrodzie: dwadzieścia cztery odcinki publikowane co dwa tygodnie przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, a nie organizator, ponieważ nazwisko prowadzącego zmienia odbiór, a organizator prowadzący podcast o własnej nagrodzie byłby wyłącznie jej reklamą.
+
+Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co człowiek napisze w kolejnym pytaniu. Prowadzący kwestionuje samo pytanie gościa, zanim ten je wyśle, i proponuje inne: czy rzeczywiście chcesz zapytać o to, czy raczej poszukać nieoczywistego połączenia z czymś, co pozornie do tematu nie należy. Odcinek pokazuje więc na żywo to, co Nagroda ocenia w zgłoszeniach i co opisuje jawna karta oceny: rozpiętość skojarzeń, drążenie i weryfikowanie odpowiedzi. Jest to format edukacyjny ubrany w rozmowę, a nie przegląd możliwości narzędzi.
+
+Przewidziane są dwa stałe cykle. Pierwszy, „Pierwszy raz", to rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji - pytanie brzmi nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. Drugi, „NAIstolatek", nagrywany jest z nastolatkami i dotyczy tego, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją odcinka.
+
+Wymieniam podcast w tym miejscu, ponieważ wpływa on na pierwsze z moich pytań formalnych. Nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz działaniem z zakresu edukacji kulturalnej i upowszechniania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży. Może to oznaczać, że właściwy program jest inny niż dla konkursu muzycznego, albo że zadanie wymaga podziału.
 
 Mówię otwarcie, na jakim etapie jest przedsięwzięcie, ponieważ przesądza to o treści moich pytań. Plebiscytu nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników. Organizatorem ma być fundacja powoływana wyłącznie w tym celu; jej rejestracja jest w toku i do jej zakończenia jedynym możliwym wnioskodawcą jest prowadzona przeze mnie jednoosobowa działalność gospodarcza. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne nie wnioskowałem.
 

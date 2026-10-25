@@ -194,6 +194,22 @@ Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
 **Teledysk nie jest ozdobą.** Pierwsza edycja Nagrody trwa cały rok 2027, a jej rozstrzygnięcie przypada na marzec 2028. Przez ten rok na stronie dzieją się trzy rzeczy: kolejne odcinki podcastu, napływające zgłoszenia plebiscytu prezentowane na bieżąco oraz hymn. Hymn z teledyskiem jest wśród nich **materiałem przygotowywanym na zaplanowany termin otwarcia kampanii**, w odróżnieniu od podcastu, który zależy od dostępności gości, i od zgłoszeń uczestników, które napływają wtedy, kiedy ktoś je nadeśle. Dlatego premiera hymnu przypada na początek 2027 roku, a nie na zamknięcie edycji. Nie twierdzę przy tym, że jego zasięg będzie największy - to jest założenie do zweryfikowania z przewodniczącym jury, a nie fakt. Zastrzegam przy tym, że napływające zgłoszenia same nie gwarantują równomiernego ruchu: doświadczenie konkursów wskazuje, że zgłoszenia kumulują się pod koniec terminu, a dotarcie do odbiorców pozostaje odrębną pracą.
 
+## 10a. Podcast towarzyszący
+
+Przez cały rok naboru ukazuje się podcast Nagrody: **dwadzieścia cztery odcinki co dwa tygodnie**, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, nie organizator - z tego samego powodu, dla którego jury plebiscytu tworzą muzycy, a nie my: nazwisko zmienia odbiór, a organizator mówiący o własnej nagrodzie jest wyłącznie jej reklamą.
+
+**Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka.** Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne: czy na pewno chcesz zapytać o to, czy raczej poszukać nieoczywistego połączenia z czymś, co pozornie do tematu nie należy. To jest dokładnie ta praca, którą mierzy jawna karta oceny Nagrody - rozpiętość, drążenie i weryfikacja - pokazana na żywo, zamiast opisana w regulaminie. Podcast nie jest więc przeglądem możliwości narzędzi i świadomie nim nie będzie.
+
+**Dwa stałe cykle.**
+
+„**Pierwszy raz**" - rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. Teza do sprawdzenia: najlepsze pytania zadają ludzie mający prawdziwy problem, a nie ci, którzy znają narzędzie.
+
+„**NAIstolatek**" - odcinki nagrywane z nastolatkami, o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją.
+
+**Finansowanie.** Produkcja podcastu wraz z honorarium prowadzącego jest pozycją budżetu Antologii, czyli obciąża sponsora tej części, nie część artystyczną. Kwota nie jest dziś ustalona: zależy od osoby prowadzącej, z którą rozmowy jeszcze się nie odbyły, a podawanie liczby przed tą rozmową uczyniłoby z niej kotwicę negocjacyjną. Pozycja jest w kosztorysie widoczna i oznaczona jako niewyceniona.
+
+**Dlaczego wymieniamy to Ministerstwu.** Podcast nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz działaniem z zakresu edukacji kulturalnej i upowszechniania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży. Może to oznaczać, że właściwy program jest inny niż dla konkursu muzycznego, albo że zadanie wymaga podziału na odrębne części.
+
 ## 11. Rozwój
 
 - **Edycja 2-3:** kategorie tematyczne (m.in. debiut, dociekanie, weryfikacja), podział pracy jury, zwiększona pula.

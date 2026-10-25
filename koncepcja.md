@@ -785,3 +785,39 @@ Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał
 **Konsekwencja w Cloudflare:** reguła przepisująca `/dokument/*` oraz reguła dedykowana `/plebiscyt-piosenki` muszą zostać skasowane, bo przesłaniałyby nowe pliki. Kolejność i sposób sprawdzenia opisane w [cloudflare-instrukcja](/dokument/cloudflare-instrukcja).
 
 **`view.html` zostaje** dla dawnej postaci adresu `?file=`, która poszła w świat, ale dostaje `noindex`, żeby nie konkurowała w wynikach z wersją generowaną.
+
+## Pomysły z 26.10.2026 - do rozważenia, nie rozstrzygnięte
+
+Dwie rzeczy z nocnego rzutu pomysłów, warte zapisania, żeby nie umknęły. **Żadna nie jest decyzją** i żadna nie wchodzi do pierwszej edycji bez osobnego rozstrzygnięcia.
+
+### Nagroda za jedno pytanie
+
+Osobna, otwarta kategoria: uczestnik przesyła **jedno pytanie**, które zadał sztucznej inteligencji i które coś zmieniło, plus dwa zdania o tym, co zmieniło. Bez konta, bez kodu SMS, bez publikowania całej rozmowy.
+
+**Co rozwiązuje.** Dziś wejście do Nagrody wymaga odsłonięcia całej rozmowy, a to odcina dwie grupy naraz: ludzi, którzy nie chcą pokazywać swoich rozmów, oraz szkoły i osoby niepełnoletnie, przy których publikacja całej rozmowy jest barierą nie do przejścia (patrz rozdział o kategorii młodzieżowej). Tu nie ma czego odsłaniać poza jednym zdaniem, które uczestnik sam formułuje.
+
+**Dlaczego koszt oceny nie rośnie wraz z liczbą zgłoszeń.** Koszt zależy od długości materiału, nie od liczby zgłoszeń. Trzysta piosenek to około dwudziestu godzin odsłuchu **na jurora**. Pięć tysięcy zgłoszeń po dwa zdania to piętnaście sekund na sztukę, czyli około dwudziestu godzin **łącznie, dla jednej osoby**, rozłożonych na kilka wieczorów. Materiał jest o rząd wielkości krótszy niż w konkursie głównym i o trzy rzędy krótszy niż rozmowa.
+
+**Trzy cechy, bez których to nie działa:**
+
+1. **Bez nagrody pieniężnej albo z jedną symboliczną.** Nagrodą jest publikacja: pytanie trafia do Czytelni, a najlepsze otwierają antologię. Brak pieniędzy jest zaletą - znika powód, żeby zasypywać konkurs zgłoszeniami generowanymi masowo.
+2. **Ocena ciągła, nie jednym terminem.** Pytania napływają i są publikowane na bieżąco; raz na kwartał Kapituła wybiera kilkanaście, raz w roku jedno zostaje Pytaniem Roku. Nie ma momentu, w którym na kogoś spada pięć tysięcy zgłoszeń naraz.
+3. **Zero bariery wejścia.** Bez konta, bez kodu SMS, bez licencji na całą rozmowę.
+
+**Efekt uboczny, który warto docenić:** zbiór pytań powstaje sam, z założenia. Pomysł archiwum samych pytań - wycinania wypowiedzi człowieka z cudzych rozmów i publikowania ich bez odpowiedzi - staje się wtedy zbędny, bo materiał istnieje od pierwszego dnia i nikt niczego nie musi wycinać.
+
+**Czego to nie rozwiązuje.** Nie zastępuje konkursu głównego i nie jest jego uproszczoną wersją: jedno pytanie nie pokazuje drążenia ani weryfikacji, czyli dwóch z czterech kryteriów. To jest brama wejściowa, nie druga nagroda.
+
+### „Pierwszy raz" - format odcinka podcastu
+
+Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie rozmawiał**, i pyta nie o wrażenia, tylko o to, co ta osoba chciała wiedzieć. Osiemdziesięciolatka, rybak, zakonnica, komornik.
+
+**Teza do sprawdzenia:** najlepsze pytania zadają ludzie, którzy mają prawdziwy problem, a nie ci, którzy znają narzędzie. Jeżeli się potwierdzi, jest to argument, którego w publicznej dyskusji o AI nikt nie używa. Jeżeli się nie potwierdzi, też czegoś się dowiemy.
+
+**Dlaczego w podcaście, a nie jako osobny dokument.** Nie wymaga nowego bytu, nowego budżetu ani nowego sponsora, a podcast dostaje format powtarzalny dwadzieścia razy. Prowadzi go autorytet, nie Organizator - zgodnie z zasadą zapisaną wyżej.
+
+### Odłożone na drugą edycję albo dalej
+
+- **Pojedynek pytań na gali** - dwie osoby, ta sama AI, ten sam problem przyniesiony przez kogoś z sali, limit dwunastu pytań z licznikiem na ekranie, na dużym ekranie wyłącznie pytania człowieka. Komentarz w duecie, jak w sporcie: jeden od tempa, drugi to juror tłumaczący, co się przed chwilą stało. Miejsce tego pomysłu jest w teczce gali i tam ma swój budżet.
+- **Muzeum złych odpowiedzi** - zbiór momentów, w których AI odpowiedziała pięknie, pewnie i nieprawdziwie, a człowiek to złapał. Dwa zastrzeżenia: łatwo osuwa się w „AI głupia", co jest odwrotnością tezy Konsteli, a publikowanie wyrwanych fragmentów odpowiedzi wchodzi wprost w pytanie do kancelarii o status prawny wypowiedzi modelu i o regulaminy dostawców.
+- **Cotygodniowa półka w Czytelni** - jedna rozmowa wyróżniona, trzy zdania komentarza, stała pora. Lekarstwo na to, że zgłoszenia kumulują się pod koniec terminu, więc Czytelnia rośnie nierówno. Koszt zerowy.
