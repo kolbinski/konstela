@@ -769,3 +769,19 @@ Domyślne zachowanie jest wpisane wprost w HTML, więc przy wyłączonym JavaScr
 **Wszystkie katalogi z przekierowaniem usunięte (25.10.2026):** `/karta-oceny`, `/regulamin`, `/polityka-prywatnosci` i `/piosenka`. Pierwsze trzy odpadły, bo przegląd korespondencji pokazał, że te skrócone adresy nigdy nikomu nie poszły - wszędzie szła pełna forma `/dokument/...`. Ostatni poszedł 22.10.2026 w wiadomościach na Instagramie do sześciu wokalistów, więc musi działać dalej, ale został zastąpiony regułą przekierowania w Cloudflare.
 
 **Zasada na przyszłość: skrócone adresy robimy wyłącznie jako Redirect Rule w Cloudflare, nigdy jako katalog z plikiem HTML.** Powód jest dokładnie ten, który opisuje ten rozdział. Katalog przerzucający dalej przez `location.replace` ustawia odsyłacz na nasz własny serwis, choć odwiedzający przyszedł z zewnątrz - nagłówek pokazałby mu "Powrót", a cofnięcie wyrzuciłoby go do Google. Przy przekierowaniu HTTP przeglądarka zachowuje pierwotny odsyłacz i problem w ogóle nie powstaje, więc skrypt nie musi go obchodzić. Przepis na regułę jest w [cloudflare-instrukcja](/dokument/cloudflare-instrukcja).
+
+## Strony dokumentów generowane przy publikacji (25.10.2026)
+
+Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał markdown i składał stronę w przeglądarce. Od teraz każdy plik `.md` jest zamieniany na gotowy `dokument/<nazwa>/index.html` przez `skrypty/buduj-dokumenty.js`, uruchamiany automatycznie przy każdym wrzuceniu plików na GitHub.
+
+**Po co.** Najmocniejszy powód nie jest związany z Google, tylko z podglądem linku: Facebook, LinkedIn, Slack, Messenger i WhatsApp nie uruchamiają JavaScriptu, więc do tej pory każdy wysłany link do dokumentu pokazywał pusty podgląd z napisem "Nagroda Konstela". Przy linkach idących do ministerstw, kancelarii i wokalistów to była widoczna strata. Przy okazji: każdy dokument ma własny tytuł w karcie przeglądarki, Google indeksuje bez czekania na drugi przebieg, znika mignięcie "Wczytywanie" i znika zależność od tego, czy pobrał się `marked.js`.
+
+**Co jest publiczne.** Cztery dokumenty: regulamin konkursu wraz z kartą oceny, regulamin plebiscytu, polityka prywatności i strona plebiscytu. Pozostałe 43 pliki dostają `noindex, follow` i nie ma ich w mapie strony - otwierają się pod linkiem, ale wyszukiwarki je pomijają. Decyzja z 25.10.2026: publiczne jest to, czego potrzebuje ktoś, kto chce się zgłosić.
+
+**To nie jest zabezpieczenie, tylko ukrycie przed wyszukiwarką.** Notatki robocze - kosztorysy, pytania do kancelarii, lista wokalistów z oznaczeniami, szkice maili - dalej przeczyta każdy, kto zna adres. Zamknięcie ich naprawdę wymaga Cloudflare Access, co zostaje jako sprawa otwarta.
+
+**Opisy stron publicznych są pisane ręcznie**, w stałej `OPISY` w skrypcie. Dokumenty prawne zaczynają się od paragrafu pierwszego, więc automat wyciągał z nich przypadkowy ustęp. Pozostałe dokumenty dostają opis z pierwszego akapitu i to wystarcza.
+
+**Konsekwencja w Cloudflare:** reguła przepisująca `/dokument/*` oraz reguła dedykowana `/plebiscyt-piosenki` muszą zostać skasowane, bo przesłaniałyby nowe pliki. Kolejność i sposób sprawdzenia opisane w [cloudflare-instrukcja](/dokument/cloudflare-instrukcja).
+
+**`view.html` zostaje** dla dawnej postaci adresu `?file=`, która poszła w świat, ale dostaje `noindex`, żeby nie konkurowała w wynikach z wersją generowaną.

@@ -133,7 +133,61 @@ Utworzona 25.10.2026. Różni się od dwóch poprzednich tym, że nie obsługuje
 
 **Jak `view.html` wie, który dokument pokazać.** W pliku jest mapa `DEDYKOWANE`, wiążąca ścieżkę z nazwą dokumentu. Dodanie kolejnego adresu dedykowanego wymaga **dwóch** rzeczy: wpisu w tej mapie oraz reguły w panelu. Nazwa dokumentu nie wędruje przez parametr zapytania, więc nie zależymy od tego, czy reguła go zachowuje.
 
-**Co to zmienia.** Wcześniej `/plebiscyt-piosenki` działało przez katalog z przekierowaniem: wczytywała się pusta strona i natychmiast przerzucała na `/dokument/plebiscyt-piosenki`, co było widoczne jako mignięcie i zmiana adresu w pasku. Teraz adres **jest** stroną plebiscytu. Katalog `plebiscyt-piosenki/` z przekierowaniem **zostaje**, bo obsługuje postać z ukośnikiem na końcu i nie przeszkadza.
+**Co to zmienia.** Wcześniej `/plebiscyt-piosenki` działało przez katalog z przekierowaniem: wczytywała się pusta strona i natychmiast przerzucała na `/dokument/plebiscyt-piosenki`, co było widoczne jako mignięcie i zmiana adresu w pasku. Teraz adres **jest** stroną plebiscytu. Katalog `plebiscyt-piosenki/` **zostaje**, bo obsługuje postać z ukośnikiem na końcu. Nie jest już przekierowaniem: zawiera pełną stronę przeglądarki dokumentów, taką samą jak `view.html`.
+
+## Reguła czwarta: przekierowanie starego adresu `/piosenka`
+
+Utworzona 25.10.2026, zastępuje katalog `piosenka/` z plikiem HTML, który został usunięty. To jest **inny typ reguły** niż trzy poprzednie: tamte przepisują adres po cichu (Rewrite), ta odsyła przeglądarkę pod nowy adres (Redirect).
+
+**Po co.** Adres `konstela.org/piosenka` poszedł 22.10.2026 w wiadomościach prywatnych na Instagramie do sześciu wokalistów i nie można go zgasić. Prowadzi dziś do strony plebiscytu.
+
+**Dlaczego przekierowanie po stronie Cloudflare, a nie katalog z plikiem HTML.** Dwa powody, z czego drugi jest poważniejszy.
+
+1. Katalog z przekierowaniem wczytuje pustą stronę i dopiero ona przerzuca dalej - widać mignięcie.
+2. Taka strona staje się dla przeglądarki "poprzednią stroną w naszym serwisie". Nagłówek podstron (`assets/nawigacja.js`) pokazuje wtedy "Powrót", choć odwiedzający przyszedł z zewnątrz - i cofnięcie wyprowadza go poza stronę. **Przy przekierowaniu HTTP przeglądarka zachowuje pierwotny odsyłacz**, więc problem nie powstaje.
+
+**Zasada na przyszłość: każdy nowy skrócony adres robimy jako Redirect Rule, nigdy jako katalog z plikiem HTML.**
+
+### Jak ją utworzyć
+
+1. W lewym menu **Rules**, strona **Overview**.
+2. **Create rule** → **Redirect Rule**.
+3. **Rule name:** `Piosenka - stary adres na plebiscyt`.
+4. W sekcji **If incoming requests match** wybierz **Custom filter expression** i w edytorze wyrażenia wpisz:
+
+   `(http.request.uri.path eq "/piosenka") or (http.request.uri.path eq "/piosenka/")`
+
+   Wyrażenie nie używa wyrażeń regularnych, więc działa na planie Free.
+5. Sekcja **Then**:
+   - **Type:** `Static`
+   - **URL:** `https://konstela.org/plebiscyt-piosenki`
+   - **Status code:** `301`
+   - **Preserve query string:** wyłączone
+6. **Deploy**.
+
+**Alternatywa prostsza, ale mniej precyzyjna.** Zamiast wyrażenia można wybrać **Wildcard pattern** i podać `https://konstela.org/piosenka*`. Gwiazdka złapie wtedy również adresy w rodzaju `/piosenka-cos`, gdyby kiedyś powstały - dlatego wyżej jest wariant dokładny.
+
+### Sprawdzenie po wdrożeniu
+
+- `konstela.org/piosenka` oraz `konstela.org/piosenka/` kończą się na stronie plebiscytu, z adresem `konstela.org/plebiscyt-piosenki` w pasku.
+- W nagłówku strony plebiscytu widnieje **Nagroda Konstela**, a nie Powrót - to znaczy, że odsyłacz nie został podmieniony.
+
+**Limity.** Redirect Rules są liczone osobno od reguł typu Transform. Liczniki obu rodzajów widać w panelu przy tworzeniu reguły - warto tam zajrzeć zamiast ufać liczbie zapisanej w tym pliku.
+
+## Po wprowadzeniu stron generowanych: reguły pierwsza i trzecia do skasowania
+
+Od 25.10.2026 strony dokumentów powstają jako gotowe pliki HTML przy każdym wrzuceniu na GitHub (patrz `.github/workflows/publikuj.yml`). Pod adresem `konstela.org/dokument/regulamin/` leży więc prawdziwy plik, a nie przepisanie na `view.html`.
+
+**Reguła przepisująca `/dokument/*` oraz reguła dedykowana `/plebiscyt-piosenki` muszą zostać usunięte**, inaczej przesłonią nowe pliki: reguły typu Transform działają na brzegu sieci i zmieniają adres, zanim żądanie dotrze do serwera z plikami. Strona dalej by działała, ale pokazywałaby wersję składaną w przeglądarce, czyli dokładnie to, od czego odchodzimy.
+
+**Kolejność ma znaczenie:**
+
+1. Najpierw wrzucić zmiany na GitHub i poczekać, aż akcja zakończy publikowanie.
+2. Sprawdzić pod adresem `konstela.org/dokument/regulamin/`, czy strona działa - póki reguła istnieje, zobaczysz wersję starą, więc to sprawdzenie niczego nie rozstrzyga; rozstrzyga dopiero punkt czwarty.
+3. Skasować w panelu obie reguły.
+4. Sprawdzić ponownie. Treść ma być w źródle strony: `Ctrl+U` i szukanie fragmentu tekstu. Jeżeli w źródle widać tylko „Wczytywanie", reguła nadal działa albo akcja nie zdążyła opublikować.
+
+Zostaje **reguła druga** (arkusze pod `/arkusz/`), bo przeglądarka arkuszy dalej składa stronę w przeglądarce, oraz **reguła czwarta** (przekierowanie `/piosenka`).
 
 ## Odwołania względne w dokumentach - pułapka
 
