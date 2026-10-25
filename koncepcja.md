@@ -562,7 +562,7 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 
 - [ ] **Przywrócić na stronie informację o statusie naboru.** Notka "Trwają przygotowania, nabór jeszcze nie został otwarty" została z nagłówka usunięta 20.10.2026, bo strony i tak nikt nie zna przed pozyskaniem sponsorów. Informacja została wyłącznie na końcu sekcji "Jak i kiedy zgłosić". **Przed pierwszym wysłaniem komukolwiek linku** trzeba ją przywrócić wyżej albo zastąpić komunikatem o otwartym naborze - zależnie od momentu.
 - [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 18 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
-- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](/dokument/dokument/karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
+- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](/dokument/regulamin#karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
 - [ ] **Warstwa dydaktyczna antologii**: komentarz wprowadzający przed rozmową, komentarze na marginesie w konkretnych momentach, komentarz końcowy. Pełny dialog bez montażu zostaje.
 - [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
 - [x] **Styk zgody z licencją** - rozstrzygnięty w § 11 ust. 5-8 i w polityce prywatności (19.10.2026): do ogłoszenia wyników usunięcie zgłoszenia, po publikacji anonimizacja.
@@ -745,3 +745,13 @@ Głosowanie obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną*
 Na gali trzy werdykty obok siebie: **Kapituły, Uczniowskiej Akademii i publiczności**, każdy wyraźnie nazwany.
 
 **Nierozstrzygnięte:** nazwa tej nagrody oraz czy ma mieć gratyfikację pieniężną.
+
+## Karta oceny scalona z regulaminem (25.10.2026)
+
+Karta oceny przestała być osobnym dokumentem. Jest teraz **Załącznikiem nr 1 do Regulaminu**, na końcu `regulamin.md`, a jej dawne nagłówki drugiego poziomu zeszły na trzeci, żeby nie konkurowały z paragrafami. Odesłanie w § 7 prowadzi do kotwicy `#karta-oceny` wewnątrz tego samego dokumentu zamiast do osobnego adresu.
+
+Powód: nie było powodu, żeby trzymać je osobno - karta zawsze była formalnie załącznikiem do regulaminu, a rozdzielenie kosztowało jeden link w stopce i groziło rozjeżdżaniem się obu dokumentów.
+
+Stare adresy działają dalej. `/karta-oceny` przekierowuje na `/dokument/regulamin#karta-oceny`, a `/dokument/karta-oceny` pokazuje jednozdaniową zaślepkę z odnośnikiem - w korespondencji i w dokumentach poszedł już w świat ten pierwszy adres, więc nie można go zgasić.
+
+Ze stopki zniknął link do karty oceny; zostało pięć pozycji zamiast sześciu.
