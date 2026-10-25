@@ -272,9 +272,6 @@
         --bg: var(--paper);
         --surface: var(--paper-raised);
         --muted: #5e5648;
-        /* Lewy bok pasa w nagłówku. Ten sam w obu motywach,
-           bo zdjęcie jest ciemne niezależnie od nich. */
-        --hero-far: #2a2724;
         /* Pasek z menu: złote tło, kontrastowy znak. */
         --bar-bg: #8a6a23;
         --bar-fg: #faf7f1;
@@ -359,8 +356,6 @@
       }
       .hero {
         display: grid;
-        gap: 1px;
-        background: var(--rule);
         border: 1px solid var(--rule);
         margin: 2.25rem 0 1.75rem;
         text-align: left;
@@ -370,9 +365,7 @@
           grid-template-columns: 1fr 1fr;
         }
         /* Pas na całą szerokość okna: treść zostaje pośrodku, a po bokach
-           dostawiamy tło - z lewej ciemne jak zdjęcie, z prawej jasne jak
-           panel z tekstem. Kolor krawędzi pobrany ze zdjęcia, z łagodnym
-           przejściem w ciemniejszy, żeby nie było widać szwu. */
+           dostawiamy to samo tło co kafel, razem z linią górną i dolną. */
         .hero {
           position: relative;
           border-left: 0;
@@ -393,7 +386,7 @@
         }
         .hero::before {
           right: 100%;
-          background: var(--hero-far);
+          background: var(--surface);
         }
         .hero::after {
           left: 100%;
@@ -401,8 +394,8 @@
         }
       }
       .hero-medal {
-        /* to samo tlo co pas po lewej - obrazek nie wypelnia calego kafla */
-        background: var(--hero-far);
+        /* to samo tlo co czesc z tekstem - obrazek nie wypelnia calego kafla */
+        background: var(--surface);
         margin: 0;
         min-width: 0;
         aspect-ratio: 4 / 3;
