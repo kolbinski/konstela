@@ -404,6 +404,19 @@
         .hero-medal {
           aspect-ratio: auto;
           min-height: 16rem;
+          /* Wysuniecie w lewo: najwyzej o 22rem, a na weszszych ekranach
+             tylko tyle, ile zostaje do krawedzi okna. Bez tego ograniczenia
+             kafel rosnie razem z oknem i kwadratowe zdjecie jest przyblizane
+             coraz mocniej; bez drugiego czlonu medal ucieka poza ekran. */
+          margin-left: calc(-1 * min(50vw - 100%, 22rem));
+          position: relative;
+          overflow: hidden;
+        }
+        .seal {
+          /* zdjecie wypelnia kafel, ale nie narzuca mu wysokosci -
+             o niej decyduje kolumna z tekstem */
+          position: absolute;
+          inset: 0;
         }
         .lede {
           max-width: 26ch;
@@ -423,6 +436,14 @@
         align-items: flex-start;
         padding: 1.75rem 1.6rem;
         min-width: 0;
+      }
+      @media (min-width: 620px) {
+        /* duzy oddech tylko przy ukladzie dwukolumnowym; blok musi stac
+           PO regule ogolnej, bo przy tej samej specyficznosci decyduje
+           kolejnosc w pliku, a nie to, ze jest w medium zapytaniu */
+        .hero-text {
+          padding-block: 5rem;
+        }
       }
       h1 {
         font-size: clamp(2.9rem, 10vw, 4.6rem);
@@ -755,21 +776,6 @@
         margin-top: 0.5rem;
       }
 
-      @media (prefers-reduced-motion: no-preference) {
-        .seal {
-          animation: settle 900ms ease-out both;
-        }
-      }
-      @keyframes settle {
-        from {
-          transform: scale(0.96);
-          opacity: 0.4;
-        }
-        to {
-          transform: none;
-          opacity: 1;
-        }
-      }
     </style>
 
     <div class="wrap">
