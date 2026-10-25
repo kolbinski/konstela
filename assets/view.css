@@ -373,6 +373,12 @@
       #content blockquote p:last-child {
         margin-bottom: 0;
       }
+      /* tytul wewnatrz cytatu (np. tytul piosenki): bez duzego odstepu
+         u gory, za to z wyraznym oddechem przed trescia */
+      #content blockquote h2:first-child {
+        margin-top: 0.35rem;
+        margin-bottom: 1.6rem;
+      }
 
       #content code {
         font-family: var(--mono);
@@ -497,25 +503,6 @@
         font-weight: 600;
       }
 
-      .foot {
-        max-width: var(--max-w);
-        margin: 0 auto;
-        padding: 1.5rem 0 2.5rem;
-        border-top: 1px solid var(--line);
-        font-family: var(--mono);
-        font-size: 0.68rem;
-        letter-spacing: 0.12em;
-        text-transform: uppercase;
-        color: var(--muted);
-      }
-      .foot a {
-        color: var(--muted);
-        text-decoration: none;
-      }
-      .foot a:hover {
-        color: var(--brass);
-      }
-
       @media print {
         @page {
           margin: 2cm 1.6cm;
@@ -528,9 +515,6 @@
           padding: 0;
         }
         .masthead,
-        .foot {
-          border-color: #ccc;
-        }
         #content {
           max-width: 100%;
           padding: 0;

@@ -1,0 +1,76 @@
+/* Stopka Nagrody Konstela - jedno źródło prawdy.
+ *
+ * Używana na: index.html, 404.html, view.html, view-xlsx.html.
+ * Strona wstawia w treści <konstela-stopka></konstela-stopka>
+ * i dołącza ten plik: <script src="/assets/stopka.js" defer></script>.
+ *
+ * Markup i style siedzą w shadow DOM, więc stopka wygląda tak samo
+ * niezależnie od tego, jakie reguły ma strona, na której stoi.
+ * Kolory i szerokość biorą się ze zmiennych CSS strony - te
+ * dziedziczą się przez granicę shadow DOM - z wartościami zapasowymi
+ * dla stron, które danej zmiennej nie definiują (strona główna używa
+ * --rule, podstrony dokumentów --line).
+ */
+(function () {
+  'use strict';
+
+  var LINKI = [
+    ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
+    ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
+    ['/dokument/regulamin', 'Regulamin konkursu na najlepszą rozmowę z AI'],
+    ['/dokument/karta-oceny', 'Karta oceny w konkursie na najlepszą rozmowę z AI'],
+    ['/#partnerzy', 'Dla partnerów'],
+  ];
+
+  var STYLE = [
+    ':host { display: block; max-width: var(--max-w, 44rem); margin: 0 auto; }',
+    '.belka {',
+    '  display: flex; flex-wrap: wrap; gap: 1.5rem;',
+    '  align-items: flex-start; justify-content: space-between;',
+    '  padding-block: 2.5rem 3.5rem;',
+    '  border-top: 1px solid var(--line, var(--rule, #ddd5c4));',
+    '  color: var(--muted, #5e5648);',
+    '  font-size: 0.9rem; line-height: 1.65; font-weight: 300;',
+    '}',
+    '.lewo p { margin: 0; }',
+    'nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.45rem; }',
+    'a { color: var(--brass, #8a6a23); text-decoration: none; }',
+    'a:hover, a:focus-visible { text-decoration: underline; }',
+    '@media (min-width: 560px) {',
+    '  nav { align-items: flex-end; text-align: right; }',
+    '}',
+    '@media print {',
+    '  .belka { border-color: #ccc; color: #000; }',
+    '  a { color: #000; }',
+    '}',
+  ].join('\n');
+
+  function szkielet() {
+    var pozycje = LINKI.map(function (l) {
+      return '<a href="' + l[0] + '">' + l[1] + '</a>';
+    }).join('');
+
+    return (
+      '<style>' + STYLE + '</style>' +
+      '<div class="belka">' +
+      '<div class="lewo">' +
+      '<p>Konstela &copy; 2026</p>' +
+      '<p>Napisz do nas: <a href="mailto:kontakt@konstela.org">kontakt@konstela.org</a></p>' +
+      '</div>' +
+      '<nav aria-label="Dokumenty">' + pozycje + '</nav>' +
+      '</div>'
+    );
+  }
+
+  if (window.customElements && !customElements.get('konstela-stopka')) {
+    customElements.define(
+      'konstela-stopka',
+      class extends HTMLElement {
+        connectedCallback() {
+          if (this.shadowRoot) return;
+          this.attachShadow({ mode: 'open' }).innerHTML = szkielet();
+        }
+      }
+    );
+  }
+})();
