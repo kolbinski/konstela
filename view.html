@@ -607,9 +607,21 @@
       const params = new URLSearchParams(window.location.search);
       const el = document.getElementById('content');
 
-      // Parametr podaje się bez rozszerzenia: ?file=regulamin
-      // Końcówkę .md dopisuje skrypt; w adresie nie może jej być.
-      const raw = (params.get('file') || '').trim();
+      // Dwie równoważne postacie adresu:
+      //   /dokument/regulamin        - przepisywana regułą w Cloudflare na /view.html
+      //   /view.html?file=regulamin  - postać pierwotna, linki już poszły w świat
+      // Nazwę podaje się bez rozszerzenia; końcówkę .md dopisuje skrypt.
+      let raw = (params.get('file') || '').trim();
+      if (!raw) {
+        const fromPath = window.location.pathname.match(/^\/dokument\/(.+?)\/?$/);
+        if (fromPath) {
+          try {
+            raw = decodeURIComponent(fromPath[1]).trim();
+          } catch (e) {
+            raw = fromPath[1].trim();
+          }
+        }
+      }
 
       function state(title, detail) {
         el.innerHTML =
@@ -622,16 +634,18 @@
       }
 
       if (!raw) {
-        state('Nie wskazano dokumentu', 'Użyj ?file=regulamin');
+        state('Nie wskazano dokumentu', 'Poprawny adres: /dokument/regulamin');
       } else if (/\.md$/i.test(raw)) {
         state(
           'Nieprawidłowy adres dokumentu',
-          'Pomiń końcówkę .md — poprawnie: ?file=' + raw.replace(/\.md$/i, '')
+          'Pomiń końcówkę .md - poprawnie: /dokument/' + raw.replace(/\.md$/i, '')
         );
       } else if (!/^[\w-]+(?:\/[\w-]+)*$/.test(raw)) {
         state('Nieprawidłowy adres dokumentu', '');
       } else {
-        const file = raw + '.md';
+        // Ścieżka od korzenia, bo przy adresie /dokument/<nazwa> odwołanie
+        // względne szukałoby pliku w nieistniejącym katalogu /dokument/.
+        const file = '/' + raw + '.md';
         fetch(file)
           .then(r => {
             if (!r.ok) throw new Error(r.status + ' ' + r.statusText);
