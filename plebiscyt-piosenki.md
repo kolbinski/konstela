@@ -164,10 +164,10 @@ Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu; jej
 
 ## Kontakt
 
-Krzysztof Olbiński
-+48 503 520 004
-olbinski@gmail.com
+**kontakt@konstela.org** - Krzysztof Olbiński, organizator.
 
-Napisz, jeśli chcesz być na liście albo jeśli masz pytania. Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
+Ten adres jest do dwóch rzeczy. **Pytania i współpraca:** wykonawcy, wydawnictwa, sponsorzy, media. Odpowiadam osobiście i mówię wprost, na jakim etapie jest sprawa, zamiast obiecywać. **Lista powiadomień:** napisz, jeśli chcesz dowiedzieć się pierwszy, gdy nabór ruszy. Adres trzymam wyłącznie po to, żeby wysłać tę jedną wiadomość, i nie robię z niego niczego innego; zrezygnować można w każdej chwili, jednym zdaniem.
+
+Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
 [Strona główna Nagrody](/)
