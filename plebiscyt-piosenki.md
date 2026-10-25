@@ -187,5 +187,3 @@ Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu; jej
 **Powiadomienie o rozpoczęciu plebiscytu.** Napisz, jeśli chcesz dowiedzieć się pierwszy, gdy ruszy nabór. Adres trzymamy wyłącznie po to, żeby wysłać tę jedną wiadomość, i nie robimy z niego niczego innego; zrezygnować można w każdej chwili, jednym zdaniem.
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
-
-[Strona główna Nagrody](/)
