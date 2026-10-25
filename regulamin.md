@@ -169,7 +169,7 @@ Dodatkowo:
 
 11. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń oraz próby obejścia zabezpieczeń modelu. Rozmowy o charakterze terapeutycznym i wsparciowym podlegają odrzuceniu już na etapie formalnym (§ 6 ust. 11).
 12. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
-13. **Kolejność czytania.** Oceniający zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł. **Uzasadnienie z § 5 ust. 2 lit. b1, jeżeli Uczestnik je złożył, udostępniane jest oceniającemu dopiero po wystawieniu ocen** i nie wpływa na punktację.
+13. **Kolejność czytania.** Oceniający zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł. **Uzasadnienie z § 5 ust. 2 lit. b1, jeżeli Uczestnik je złożył, udostępniane jest oceniającemu dopiero po wystawieniu ocen** i nie wpływa na punktację. Rozbieżność między opisem odkrycia a treścią rozmowy jest sama w sobie informacją i powinna zostać odnotowana.
 14. **Przygotowanie a inscenizacja.** Dozwolone jest przygotowanie się do rozmowy, w tym korzystanie z wcześniejszych konsultacji, notatek i planu wątków. Niedozwolone jest zgłoszenie rozmowy odtwarzającej z góry ustalony przebieg, której wynik był znany Uczestnikowi przed jej rozpoczęciem (§ 11 ust. 1 lit. c). Rozstrzygające jest to, czy odkrycie nastąpiło w rozmowie, czy zostało w niej odegrane.
 
 ## § 7a. Ocena a publikacja
@@ -362,7 +362,7 @@ Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 
 Dokument dla Kapituły i Akademii, publikowany również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia. Stanowi załącznik do § 7 Regulaminu.
 
-Każde z czterech kryteriów punktowane jest od 0 do 10. Pasma poniżej są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać fragment rozmowy uzasadniający ocenę**. Przy rozbieżności większej niż 4 punkty w którymkolwiek kryterium zarządzana jest ocena trzecia.
+Każde z czterech kryteriów punktowane jest od 0 do 10. Pasma poniżej są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać fragment rozmowy uzasadniający ocenę**.
 
 **Kryterium operacyjne.** Zanim przejdziesz do czterech kryteriów, sprawdź, czy rozmowa w ogóle spełnia to, czego szukamy:
 
@@ -374,7 +374,7 @@ Nie jest to osobne kryterium punktowane i nie zastępuje czterech poniższych. J
 
 **Załączniki.** Uczestnik mógł wgrać do rozmowy pliki: dokument, dane, obraz, kod. Oceniać można wyłącznie to, co widać w kopii archiwalnej. Jeżeli treść załącznika nie jest w kopii widoczna, **nie potwierdzamy plonu na niej opartego** - tak samo jak nie przyznajemy punktów za trafność modelu.
 
-Nie znaczy to, że takie zgłoszenie dostaje zero. Wkład Uczestnika bywa doskonale widoczny bez materiału: jakość pytań, rozróżnienie faktu od hipotezy, moment, w którym zauważył niespójność w rozumowaniu modelu. To wszystko oceniamy normalnie, w Rozpiętości, Drążeniu i Weryfikacji. Nieoceniony pozostaje sam materiał i to, co z niego wynika, a więc przede wszystkim Plon. Regulamin § 5 ust. 8.
+Nie znaczy to, że takie zgłoszenie dostaje zero. Wkład Uczestnika bywa doskonale widoczny bez materiału: jakość pytań, rozróżnienie faktu od hipotezy, moment, w którym zauważył niespójność w rozumowaniu modelu. To wszystko oceniamy normalnie, w Rozpiętości, Drążeniu i Weryfikacji. Nieoceniony pozostaje sam materiał i to, co z niego wynika, a więc przede wszystkim Plon. § 5 ust. 8.
 
 **Gdy plon stoi na niewidocznych danych** Kapituła może zażądać materiału źródłowego wyłącznie do weryfikacji - nie daje on punktów i nie jest publikowany. Przy odmowie plon pozostaje niepotwierdzony. Powód: samo wklejenie wybranych fragmentów materiału może pozornie potwierdzać wniosek, a wymóg widoczności tego nie wychwyci (§ 5 ust. 11).
 
@@ -446,7 +446,7 @@ Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło,
 
 **Mierzy się to, co wyniósł człowiek, nie to, co wyprodukował model.** Rozmowa, w której powstał dopracowany projekt, a Uczestnik jedynie przyjmował kolejne propozycje, oceniana jest niżej niż rozmowa, w której nie powstało nic poza zrozumieniem.
 
-**Skutek powstały poza rozmową.** Uczestnik może w opisie odkrycia wspomnieć, co z rozmowy wynikło później: stronę, aplikację, tekst, usługę, podjętą decyzję, i podać odnośnik. **Nie punktujemy tego.** Ani istnienie takiego skutku, ani jego jakość czy skala nie podnoszą oceny - inaczej nagroda po cichu zamieniłaby się w konkurs na najlepszy produkt, wygrywany przez tego, kto lepiej programuje, a nie lepiej pyta. Punktujemy to, co widać w rozmowie: moment, w którym zapadła decyzja albo rozwiązał się problem. Jeżeli ten moment jest w rozmowie widoczny, Plon jest wysoki niezależnie od tego, czy coś z niego potem powstało. Informacja o skutku przydaje się natomiast przy pisaniu komentarze do antologii. Regulamin § 7 ust. 10 lit. d.
+**Skutek powstały poza rozmową.** Uczestnik może w opisie odkrycia wspomnieć, co z rozmowy wynikło później: stronę, aplikację, tekst, usługę, podjętą decyzję, i podać odnośnik. **Nie punktujemy tego.** Ani istnienie takiego skutku, ani jego jakość czy skala nie podnoszą oceny - inaczej nagroda po cichu zamieniłaby się w konkurs na najlepszy produkt, wygrywany przez tego, kto lepiej programuje, a nie lepiej pyta. Punktujemy to, co widać w rozmowie: moment, w którym zapadła decyzja albo rozwiązał się problem. Jeżeli ten moment jest w rozmowie widoczny, Plon jest wysoki niezależnie od tego, czy coś z niego potem powstało. Informacja o skutku przydaje się natomiast przy pisaniu komentarze do antologii. § 7 ust. 10 lit. d.
 
 ---
 
@@ -458,20 +458,6 @@ Niezależnie od punktacji zgłoszenie **nie może zostać nagrodzone ani włącz
 
 **Czym nierzetelność nie jest.** Sporem interpretacyjnym, w którym stanowisko Uczestnika jest jednym z możliwych. Ustaleniem oznaczonym w rozmowie jako niepewne. Hipotezą przedstawioną jako hipoteza. Wnioskiem, którego nie potrafisz potwierdzić - **brak pewności oceniającego nie jest wykazaniem fałszu**, a w kwestii specjalistycznej można zasięgnąć opinii eksperta.
 
-**Tryb.** Zgodna opinia dwóch członków Kapituły plus pisemne wskazanie twierdzenia, podstaw uznania go za błędne i związku z plonem. Uczestnik dostaje to wskazanie i ma 7 dni na wyjaśnienia; może wykazać, że odczytaliśmy rozmowę błędnie, ale nie może naprawić błędu po terminie. Ciężar wykazania jest po stronie Kapituły, a w razie wątpliwości warunku nie stosujemy. Regulamin § 7 ust. 5-8.
+**Tryb.** Zgodna opinia dwóch członków Kapituły plus pisemne wskazanie twierdzenia, podstaw uznania go za błędne i związku z plonem. Uczestnik dostaje to wskazanie i ma 7 dni na wyjaśnienia; może wykazać, że odczytaliśmy rozmowę błędnie, ale nie może naprawić błędu po terminie. Ciężar wykazania jest po stronie Kapituły, a w razie wątpliwości warunku nie stosujemy. § 7 ust. 5-8.
 
 Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i dziesiątkami w pozostałych dostaje 30 na 40 punktów i mogłaby wygrać, choć jej odkrycie jest nieprawdziwe. Nagroda za rozmowy z AI nie może premiować efektownej nieprawdy.
-
----
-
-### Kolejność czytania
-
-1. **Opis odkrycia** napisany przez Uczestnika. Pokazuje, czy Uczestnik rozpoznaje, co w jego rozmowie jest istotne.
-2. **Rozmowa** w całości, na kopii archiwalnej sporządzonej przez Organizatora.
-3. **Ocena** czterech kryteriów, każda ze wskazaniem fragmentu uzasadniającego.
-
-Rozbieżność między opisem odkrycia a treścią rozmowy jest sama w sobie informacją i powinna zostać odnotowana.
-
----
-
-*Wersja 1.0 z dnia 19 października 2026 r.*

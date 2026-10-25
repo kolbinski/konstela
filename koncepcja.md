@@ -752,6 +752,8 @@ Karta oceny przestała być osobnym dokumentem. Jest teraz **Załącznikiem nr 1
 
 Powód: nie było powodu, żeby trzymać je osobno - karta zawsze była formalnie załącznikiem do regulaminu, a rozdzielenie kosztowało jeden link w stopce i groziło rozjeżdżaniem się obu dokumentów.
 
-Stare adresy działają dalej. `/karta-oceny` przekierowuje na `/dokument/regulamin#karta-oceny`, a `/dokument/karta-oceny` pokazuje jednozdaniową zaślepkę z odnośnikiem - w korespondencji i w dokumentach poszedł już w świat ten pierwszy adres, więc nie można go zgasić.
+Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026). Został wyłącznie adres `/dokument/karta-oceny`, pod którym stoi jednozdaniowa zaślepka z odnośnikiem do załącznika - ten adres poszedł już w świat w korespondencji i w dokumentach dla kancelarii, więc nie można go zgasić.
 
 Ze stopki zniknął link do karty oceny; zostało pięć pozycji zamiast sześciu.
+
+**Odchudzenie załącznika (25.10.2026).** Po scaleniu karty z regulaminem wyszły dwie powtórki i obie zostały usunięte. Nagłówek "Kolejność czytania" powtarzał § 7 ust. 13, a jego punkt trzeci powtarzał wstęp samego załącznika; jedyne zdanie, którego nie było nigdzie indziej - o tym, że rozbieżność między opisem odkrycia a treścią rozmowy należy odnotować - dopisane na końcu § 7 ust. 13. Ze wstępu załącznika zniknęło też zdanie o ocenie trzeciej przy rozbieżności powyżej 4 punktów, bo źródłem tej reguły jest § 8 ust. 12, a w karcie była przypisem do cudzego przepisu.

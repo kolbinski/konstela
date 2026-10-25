@@ -77,7 +77,3 @@ W antologii działa to inaczej, ponieważ chodzi o dwie różne podstawy. Treś�
 ## 10. Zmiany polityki
 
 O zmianach Administrator informuje na stronie Nagrody. Do zgłoszeń złożonych przed zmianą stosuje się wersję obowiązującą w dniu zgłoszenia.
-
----
-
-*Wersja 1.0 z dnia 19 października 2026 r.*
