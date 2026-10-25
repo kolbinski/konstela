@@ -11,14 +11,16 @@
  * cofający do poprzedniej strony tylko wtedy, gdy odwiedzający naprawdę
  * przyszedł z innego miejsca w serwisie. Dzięki temu przy wyłączonym
  * JavaScripcie nagłówek dalej działa, tylko bez cofania.
+ *
+ * WAŻNE przy dodawaniu skróconych adresów. Przekierowanie zrobione jako
+ * katalog z plikiem HTML wywołującym location.replace ustawia odsyłacz na
+ * nasz własny serwis, choć odwiedzający przyszedł z zewnątrz - i ten skrypt
+ * pokazałby mu "Powrót" wyprowadzający poza stronę. Przekierowania robimy
+ * więc wyłącznie po stronie Cloudflare (Redirect Rules, kod 301), bo wtedy
+ * przeglądarka zachowuje pierwotny odsyłacz i problem nie powstaje.
  */
 (function () {
   'use strict';
-
-  /* Katalogi, które tylko przerzucają dalej. Adresy te poszły kiedyś w świat
-     i nie można ich zgasić, ale wejście przez nie nie jest nawigacją po
-     serwisie. Dopisać tutaj każdy nowy katalog z przekierowaniem. */
-  var PRZEKIEROWANIA = ['/piosenka'];
 
   var lewa = document.querySelector('.masthead .left');
   if (!lewa) return;
@@ -58,12 +60,6 @@
        (view.html?file=regulamin i view.html?file=karta-oceny to dwie różne
        strony pod tą samą ścieżką). */
     if (stamtad + poprzednia.search === stad + location.search) return false;
-
-    /* Nasze własne przekierowanie ze skróconego adresu. Takie strony
-       przerzucają dalej przez location.replace, więc odsyłacz wskazuje nasz
-       serwis, choć odwiedzający przyszedł z zewnątrz - a cofanie
-       wyprowadziłoby go poza stronę, czyli odwrotnie do zamiaru. */
-    if (PRZEKIEROWANIA.indexOf(stamtad) !== -1) return false;
 
     /* Karta otwarta w tle linkiem "otwórz w nowej karcie" ma odsyłacz,
        ale nie ma własnej historii. */
