@@ -272,9 +272,8 @@
         --bg: var(--paper);
         --surface: var(--paper-raised);
         --muted: #5e5648;
-        /* Boki pasa w nagłówku: kolor krawędzi zdjęcia i ciemniejszy brzeg.
-           Te same w obu motywach, bo zdjęcie jest ciemne niezależnie od nich. */
-        --hero-edge: #655a57;
+        /* Lewy bok pasa w nagłówku. Ten sam w obu motywach,
+           bo zdjęcie jest ciemne niezależnie od nich. */
         --hero-far: #2a2724;
         --display: 'Cormorant Garamond', 'Iowan Old Style', Georgia, serif;
         --body: 'Source Sans 3', -apple-system, 'Segoe UI', sans-serif;
@@ -387,11 +386,7 @@
         }
         .hero::before {
           right: 100%;
-          background: linear-gradient(
-            to left,
-            var(--hero-edge) 0%,
-            var(--hero-far) 70%
-          );
+          background: var(--hero-far);
         }
         .hero::after {
           left: 100%;
@@ -403,6 +398,7 @@
         margin: 0;
         min-width: 0;
         aspect-ratio: 4 / 3;
+        border-left: 5px solid var(--brass);
       }
       @media (min-width: 620px) {
         .hero-medal {
@@ -785,14 +781,12 @@
         <div class="hero">
           <figure class="hero-medal">
             <img
-            class="seal"
-            src="/assets/medal.jpg"
-            srcset="/assets/medal-512.jpg 512w, /assets/medal.jpg 1024w"
-            sizes="240px"
-            width="1254"
-            height="1254"
-            alt="Medal Nagrody Konstela: mosiężny krążek z wygrawerowaną konstelacją, napisem Nagroda Konstela i rokiem 2027"
-        />
+              class="seal"
+              src="https://konstela.org/assets/medal-512.png"
+              width="512"
+              height="512"
+              alt="Medal Nagrody Konstela: mosiężny krążek z wygrawerowaną konstelacją, napisem Nagroda Konstela i rokiem 2027"
+            />
           </figure>
           <div class="hero-text">
             <p class="tagline">Zapytaj inaczej</p>
