@@ -570,6 +570,14 @@
         background: var(--surface);
         padding: 1.5rem 1.4rem;
       }
+      /* Pięć kafli w dwóch kolumnach zostawia szóste, puste pole, w którym
+         przeświecało tło siatki (kolor linii). Wypełniamy je jasnym kaflem.
+         Na mobile siatka ma jedną kolumnę, więc wypełniacz jest zbędny. */
+      #partnerzy .awards::after {
+        content: '';
+        display: none;
+        background: var(--surface);
+      }
       .awards h3 {
         font-family: var(--display);
         font-size: 1.35rem;
@@ -578,6 +586,9 @@
       @media (min-width: 620px) {
         .awards {
           grid-template-columns: 1fr 1fr;
+        }
+        #partnerzy .awards::after {
+          display: block;
         }
       }
       @media (min-width: 620px) {
