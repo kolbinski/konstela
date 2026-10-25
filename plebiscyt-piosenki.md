@@ -10,7 +10,7 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 
 **Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną działalność artystyczną - tych, którzy grają, śpiewają i piszą po swojemu, a nie są jeszcze gwiazdami. Formalnego progu nie ma: nie pytamy o zasięgi, dorobek ani o to, czy masz kontrakt.
 
-**W skrócie, zanim przejdziesz dalej:**
+**W skrócie:**
 
 - zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą;
 - jury wybiera **dziesięciu finalistów**;
@@ -132,7 +132,7 @@ Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym 
 
 Wkrótce dojdzie trzecia wersja: **te same słowa z nową muzyką**, skomponowaną i nagraną przez jurorów plebiscytu. Melodia powstaje od zera, a nie z przejęcia tej z generatora - czyli dokładnie tak, jak wymagamy od zgłaszających. Wtedy wszystkie trzy staną obok siebie na tej stronie i każdy będzie mógł je przesłuchać, porównać i ocenić sam.
 
-I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby usłyszeć na własne uszy, co dokłada człowiek, kiedy dostaje te same słowa i pisze do nich własną muzykę - i czy to słychać. Ta sama różnica decyduje w głównej Nagrodzie, tyle że tam dotyczy rozmowy zamiast dźwięku.
+I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby postawić obok siebie trzy opracowania tych samych słów i posłuchać, czym się różnią - bo różnić się będą nie tylko autorstwem melodii, ale też aranżacją, wykonaniem i nakładem pracy. Każdy oceni sam, co z tego wynika.
 
 Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu.
 

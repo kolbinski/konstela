@@ -274,7 +274,13 @@ Numer prepaid kosztuje kilkanaście złotych, więc mechanizm zatrzymuje zwielok
 
 ### Preselekcja: bez akademii
 
-**Akademia czytająca nie jest potrzebna**, i to z powodu arytmetycznego. Akademia przy Nagrodzie istnieje, bo rozmowa jest długa i czytanie jej trwa godziny, więc trzeba to rozłożyć na kilkanaście osób. Piosenka ma 4 minuty - nawet 300 zgłoszeń to około 17 godzin odsłuchu, a pierwsze przejście idzie szybciej, bo większość utworów pokazuje poziom w pierwszej minucie. To jest w zasięgu kilkuosobowego jury.
+**Akademia nie jest potrzebna przy umiarkowanej liczbie zgłoszeń**, ale podstawa tej decyzji była pierwotnie policzona źle i rachunek poprawiono 25.10.2026 - patrz niżej.
+
+**Poprawiony rachunek.** Piosenka trwa około 4 minut, więc 300 zgłoszeń to około 20 godzin materiału. To jest jednak **długość nagrań, a nie nakład pracy jury**: każdy juror musi przesłuchać wszystko, więc przy pięcioosobowym jury wychodzi około 100 godzin pracy łącznie, czyli 20 godzin na osobę. Pierwsze przejście idzie szybciej, bo większość utworów pokazuje poziom w pierwszej minucie, ale nie zmienia to rzędu wielkości. Liczba jurorów obciążenia **nie dzieli, tylko mnoży** - dzieli je dopiero podział zgłoszeń między oceniających, a tego przy pięciu osobach nie da się zrobić bez utraty porównywalności ocen.
+
+**Co z tego wynika.** Przy 300 zgłoszeniach to 20 godzin na jurora rozłożone na rok naboru - wykonalne. Przy 1000 zgłoszeń to już około 67 godzin na osobę i decyzja "bez akademii" przestaje się bronić. Pierwotne zdanie "17 godzin odsłuchu jest w zasięgu kilkuosobowego jury" sugerowało, że liczba jurorów zmniejsza obciążenie; to było błędne i nie może być podstawą ustalenia progu z Michałem.
+
+**Wniosek merytoryczny zostaje, zmienia się jego zasięg:** przy setkach zgłoszeń jury daje radę samo, przy tysiącach nie. Drugi argument przeciwko Akademii - ustrojowy, o drugim niewidocznym werdykcie - obowiązuje niezależnie od liczb i to on, a nie arytmetyka, jest tu rozstrzygający.
 
 **Rozdzielenie, które trzeba trzymać:**
 
