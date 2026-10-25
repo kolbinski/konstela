@@ -176,7 +176,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych słów. In
 
 Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Rozmowa jest pierwszym miejscem, w którym to widać; muzyka jest drugim, i dlatego plebiscyt nie jest tu dodatkiem. Najlepsze rozmowy ukażą się w bezpłatnej antologii, a szerszy zbiór trafi do publicznego archiwum. Regulamin i karta oceny są jawne od pierwszego dnia.
 
-Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu; jej rejestracja jest w toku.
+Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu.
 
 ## Kontakt
 
