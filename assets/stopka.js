@@ -16,9 +16,9 @@
 
   var LINKI = [
     ['/', 'Nagroda Konstela'],
-    ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
     ['/dokument/regulamin', 'Regulamin konkursu na najlepszą rozmowę z AI'],
     ['/dokument/karta-oceny', 'Karta oceny w konkursie na najlepszą rozmowę z AI'],
+    ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/#partnerzy', 'Dla partnerów'],
   ];
@@ -44,7 +44,10 @@
        i tak nie mieści się obok bloku kontaktowego i schodzi pod niego -
        wyrównanie do prawej zostawiało wtedy ragged left i pusty pas przy
        krawędzi strony. */
-    'nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.3rem; }',
+    'nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.55rem; }',
+    /* Odstęp MIĘDZY pozycjami robi gap listy, a wiersze WEWNĄTRZ jednej
+       pozycji są ciaśniejsze - inaczej złamany link wygląda jak dwie pozycje. */
+    'nav a { line-height: 1.25; }',
     'a { color: var(--brass, #8a6a23); text-decoration: none; font-weight: 400; }',
     'a:hover, a:focus-visible { text-decoration: underline; }',
     '@media print {',
