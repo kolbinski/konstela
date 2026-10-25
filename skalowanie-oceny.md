@@ -14,9 +14,9 @@ Dziś: Akademia -> Kapituła. Proponowane (tylko dla bardzo dużego naboru):
 
 **Stopień 0 - ocena formalna.** Mechaniczna, na `dialog.json`: liczba słów i wypowiedzi, język, ciągłość wątku, okno rozmów, duplikat rozmowy, jedno zgłoszenie na osobę. Narzędzia AI wyłącznie **oznaczają** podejrzenia z § 6 pkt 9-12; każde odrzucenie potwierdza człowiek. Przepustowość praktycznie nieograniczona.
 
-**Stopień 1 - przesiew.** Każde zgłoszenie czyta jeden członek Akademii, przeciw jednemu pytaniu: czy jest w tej rozmowie moment, w którym człowiek doszedł do czegoś, czego nie wiedział na wejściu, i czy da się go wskazać. Około pięciu minut na rozmowę. **To jedyny stopień rosnący z liczbą zgłoszeń - i rośnie liczbą ludzi, nie czasem.** Zabezpieczenia jak dziś: pasmo pod progiem dostaje drugi odczyt, plus losowy audyt części odrzuconych.
+**Stopień 1 - odczyt wstępny.** Każde zgłoszenie czyta jeden członek Akademii, przeciw jednemu pytaniu: czy jest w tej rozmowie moment, w którym człowiek doszedł do czegoś, czego nie wiedział na wejściu, i czy da się go wskazać. Około pięciu minut na rozmowę. **To jedyny stopień rosnący z liczbą zgłoszeń - i rośnie liczbą ludzi, nie czasem.** Zabezpieczenia jak dziś: pasmo pod progiem dostaje drugi odczyt, plus losowy audyt części odrzuconych.
 
-**Stopień 2 - runda zbieżności.** Wszystko, co przeszło przesiew, czyta **ten sam, stały zespół** (propozycja: 20 osób) pełną kartą oceny, po dwa odczyty na zgłoszenie. Oceny stają się porównywalne, bo wystawiają je te same osoby na tym samym materiale. To jest sedno całego układu.
+**Stopień 2 - runda zbieżności.** Wszystko, co przeszło odczyt wstępny, czyta **ten sam, stały zespół** (propozycja: 20 osób) pełną kartą oceny, po dwa odczyty na zgłoszenie. Oceny stają się porównywalne, bo wystawiają je te same osoby na tym samym materiale. To jest sedno całego układu.
 
 **Stopień 3 - Kapituła.** Sześćdziesiąt najwyżej ocenionych w rundzie zbieżności. Wybiera dziesiątkę antologii i laureata.
 
@@ -26,7 +26,7 @@ Dziś: Akademia -> Kapituła. Proponowane (tylko dla bardzo dużego naboru):
 
 Sprawdzian od strony pieniędzy: honoraria Kapituły 69 500 zł, przy pięciu osobach to niecałe 14 000 na osobę, czyli ~290 zł/h. Dla osoby o nazwisku mającym uwiarygodnić nagrodę to stawka na granicy przyzwoitości. Przy 120 rozmowach spadłaby do ~140 zł/h i byłaby nieuczciwa. **100 to sufit techniczny, 150 łamie i czas, i stawkę.**
 
-**Zespół zbieżności: 20 osób, 400 zgłoszeń.** 20 osób x 20 godzin = 400 godzin; zgłoszenie kosztuje godzinę (dwa odczyty po pół) -> 400 zgłoszeń. Ta liczba wyznacza próg przesiewu.
+**Zespół zbieżności: 20 osób, 400 zgłoszeń.** 20 osób x 20 godzin = 400 godzin; zgłoszenie kosztuje godzinę (dwa odczyty po pół) -> 400 zgłoszeń. Ta liczba wyznacza próg odczytu wstępnego.
 
 **Przesiew: skaluje się rekrutacją.** 10 000 zgłoszeń x 5 min = 833 godziny = 42 czytających po 20 godzin. 100 000 zgłoszeń = 417 czytających. 1 000 000 = ponad 4 000 osób i ~4 mln zł - to jest granica, za którą uczciwą odpowiedzią jest przesunięcie terminu rozstrzygnięcia, a nie udawanie, że ktokolwiek to przeczytał.
 
@@ -51,7 +51,7 @@ To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Przy nab
 ## Czego ta notatka nie rozstrzyga
 
 - progu włączenia nowego trybu,
-- czy zespół zbieżności rekrutuje się z Akademii przesiewowej, czy powoływany jest odrębnie,
+- czy zespół zbieżności rekrutuje się z Akademii odczytu wstępnego, czy powoływany jest odrębnie,
 - jak zapewnić, by skład zespołu zbieżności był stały przez całą rundę (choroba, rezygnacja),
 - czy przy usunięciu dzikiej karty podnieść audyt losowy z 1/10 na więcej, i na ile.
 

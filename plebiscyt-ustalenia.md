@@ -20,7 +20,7 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 2. **Rozwiązuje problem martwego roku.** Przez cały 2027 rok na stronie nie dzieje się nic, bo wyniki są dopiero w marcu 2028. Kolejne zgłaszane piosenki dają powód, żeby wracać. Ten sam zarzut niezależnie podniósł Piotr Byliński z Reequest tego samego dnia.
 3. **Osobne źródło finansowania.** Granty kulturalne, Ministerstwo Kultury, środki europejskie, wydawnictwa muzyczne (Sołtan wskazał małe i średnie, ale też Warner Music i Universal). Nie konkuruje z poszukiwaniem fundatora puli - inny świat, inni decydenci, inne budżety.
 4. **Jury od ręki.** Sołtan deklaruje udział w jury plebiscytu i że znajdzie do niego kolejne osoby. Nazwiska w muzyce zdobywa się nieporównanie łatwiej niż nazwiska w ocenianiu rozmów z AI. *Pierwotnie brzmiało „jury za darmo i od ręki" - część o braku wynagrodzenia wycofana 24.10.2026, bo jury plebiscytu jest płatne. Łatwość zebrania składu pozostaje w mocy i jest tu całym argumentem.*
-5. **Lepsza historia dla sponsora.** „Ogłaszamy plebiscyt, w jury zasiada finalista The Voice of Poland" brzmi lepiej niż „kupiłem piosenkę".
+5. **Lepsza historia dla sponsora.** „Ogłaszamy plebiscyt, w jury zasiada półfinalista The Voice of Poland" brzmi lepiej niż „kupiłem piosenkę".
 
 ## Cztery rozstrzygnięcia przyjęte 23.10.2026
 
@@ -101,6 +101,30 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 **Jury plebiscytu jest płatne za ocenę zgłoszeń.** Rozstrzygnięte 24.10.2026, zmiana wobec zapisu „jury za darmo" z 23.10.2026. Uzasadnienie: skoro płacimy Kapitule i Akademii za czytanie rozmów, płacenie jury za odsłuchiwanie kilkudziesięciu utworów przez rok jest konsekwencją, nie wyjątkiem - a rok pracy oparty na samej dobrej woli to cienki fundament i nie pozwala wymagać terminów. Honorarium za ocenę jest odrębne od honorarium za wykonanie hymnu na gali i od produkcji nagrania.
 
 **Kwota nieustalona, świadomie.** Zależy od liczebności jury, która nie jest znana. Kotwicą jest nasza własna skala ze [skalowanie-oceny](/dokument/skalowanie-oceny): honoraria Kapituły 69,5 tys. zł, przy pięciu osobach niecałe 14 tys. na osobę, czyli około 290 zł za godzinę przy 100 rozmowach. Praca jury plebiscytu jest znacznie lżejsza - przy 50 zgłoszeniach dwa przejścia odsłuchu plus shortlista i obrady to rzędu 15 godzin, nie 48 - co z tej samej stawki daje około 4,5 tys. zł na jurora i ok. 22 tys. zł przy pięciu osobach. **Do ustalenia po rozmowie z Michałem.**
+
+## Mail do Michała Sołtana - wysłany 25.10.2026
+
+Odpowiedź na jego pytanie "ok Michał, zgadzam się, ile za jurorowanie dostanę". Ustalenia, które z tego maila obowiązują:
+
+**Współpraca z Michałem jest płatna od początku.** Stawka godzinowa, faktura co miesiąc, wypłata z działalności organizatora. Do ustalenia z nim: wysokość stawki i **górny limit godzin pierwszego etapu**, którego przekroczenie wymaga wcześniejszej zgody. Zasada: płatne za czas, nie za skutek - rozmowa z kandydatem, który odmówi, rozliczana tak samo jak każda inna.
+
+**Dwie drogi przy kandydatach, do wyboru przez Michała.** Albo prowadzi rozmowy sam, albo tylko przedstawia organizatora (ciepłe wprowadzenie), a rozmowę prowadzi organizator. Obie wchodzą do rozliczenia. Powód: rozmowa o pieniądzach z kolegą z branży, w cudzym imieniu i przy projekcie bez sponsora, kosztuje go reputację, jeśli coś się posypie.
+
+**Honoraria jurorów: kwotę proponuje sam zainteresowany**, zakres i kwoty potwierdzają wspólnie Organizator i Michał, zanim trafią do kosztorysu pokazywanego sponsorowi. Każda rozmowa z kandydatem jest deklaracją zainteresowania **pod warunkiem finansowania** i tak ma być stawiana na wejściu.
+
+**Wycena pracy jury rozbita na trzy zakresy**, bo nie każdy juror bierze wszystkie: ocena zgłoszeń z wyborem dziesiątki i obradami; komponowanie i nagranie hymnu; udział w gali z wykonaniem na żywo. Oferta może być łączna, byle rozpisana. Autor tekstów albo producent może chcieć oceniać, a nie śpiewać.
+
+**Hymn: najpierw wycena wariantu podstawowego** - nagranie przez samych piosenkarzy z jury, z teledyskiem. Dopiero znając tę kwotę pytamy o koszt szerokiego składu w duchu "We Are the World".
+
+**Odrzucone przed wysyłką:** prośba do Michała o widełki honorariów dla nazwisk pierwszej wielkości. Nie rozmawiał nigdy z Cyganem ani z Markowskim, więc odpowiedź byłaby zgadywaniem, które i tak stałoby się kotwicą dla wszystkich kolejnych kwot.
+
+### Akademia plebiscytu - wraca do rozważenia, wbrew ustaleniu z 24.10.2026
+
+W mailu padła propozycja: gdyby zgłoszeń były setki albo tysiące, powołać **akademię plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystko i wybiera dla jury węższą listę. Przedstawiona jako wariant do zaprojektowania osobno, z osobnym kosztem, z pytaniem do Michała.
+
+**To jest sprzeczne z decyzją zapisaną wyżej w sekcji "Preselekcja: bez akademii".** Tamta decyzja odrzuciła akademię z dwóch powodów: arytmetycznego (piosenka trwa 4 minuty, 300 zgłoszeń to około 17 godzin odsłuchu, czyli zasięg kilkuosobowego jury) oraz ustrojowego (zewnętrzny zespół decydujący, czego jury w ogóle wysłucha, jest drugim werdyktem, którego nikt nie widzi).
+
+Drugi argument nie znika przy żadnej liczbie zgłoszeń i jest poważniejszy. Jeżeli akademia miałaby powstać, potrzebuje **własnej jawnej karty oceny**, inaczej jury dostaje materiał przesiany przez cudzy gust. Rozstrzygnąć po odpowiedzi Michała; do tego czasu obowiązuje preselekcja przez samo jury w zapowiedzianym pierwszym przejściu.
 
 ## Ścieżki finansowania do sprawdzenia
 
@@ -267,7 +291,7 @@ Wniosek główny: **autorstwa nie da się zweryfikować technicznie**, a udawani
 
 1. **Deklaracja pod rygorem wykluczenia** - kręgosłup prawny, nie kontrola.
 2. **Tanie kontrole na wejściu:** wyszukanie tekstu słowo w słowo; sprawdzenie daty publikacji i historii kanału; opcjonalnie rozpoznawanie nagrań przez odcisk akustyczny, jeśli zdecydujemy się za to zapłacić.
-3. **Content ID w YouTube robi pierwszy przesiew za darmo** - niezamierzona korzyść z przyjętej formy zgłoszenia. Kopia komercyjnego nagrania zostanie oflagowana albo zablokowana przez serwis, zanim ktokolwiek u nas ją odsłucha, a zablokowany film jest sygnałem sam w sobie.
+3. **Content ID w YouTube robi pierwszą kontrolę za darmo** - niezamierzona korzyść z przyjętej formy zgłoszenia. Kopia komercyjnego nagrania zostanie oflagowana albo zablokowana przez serwis, zanim ktokolwiek u nas ją odsłucha, a zablokowany film jest sygnałem sam w sobie.
 4. **Tryb sporny** na to, czego powyższe nie wyłapie nigdy, czyli utwór napisany dla zgłaszającego przez kogoś innego albo podebrany: zgłoszenie zastrzeżenia, ciężar wykazania po stronie zgłaszającego zastrzeżenie.
 5. **Materiały robocze od dziesiątki finalistów.**
 

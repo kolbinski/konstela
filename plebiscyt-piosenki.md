@@ -49,6 +49,8 @@ Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie.
 
 **Rozstrzygnięcie.** Zwycięzcę wybiera **jury**, nie głosowanie. Powód jest ten sam, dla którego cała Nagroda ocenia według jawnych kryteriów, a nie według popularności: przy głosowaniu wygrywa największy zasięg, a nie najlepsza piosenka. Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który ten plebiscyt zaproponował.
 
+**Gdy zgłoszeń będzie bardzo dużo.** Przy kilkuset utworach jury jest w stanie przesłuchać wszystko samo i tak zamierzamy zacząć. Gdyby jednak zgłoszeń były tysiące, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury; żadnych innych kryteriów nie ma i nie będzie. Czy Akademia zostanie powołana i od jakiego progu, ogłosimy **przed otwarciem naboru**, a nie po nim - zasady wyłaniania finalistów dopisane w trakcie podważałyby jawność całej reszty.
+
 **Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS - bez tego wygrywałby ten, kto ma znajomego programistę.
 
 **Finał na gali.** Plebiscyt kończy się na tej samej gali co Nagroda za rozmowę. **Trzy najwyżej ocenione utwory wykonywane są na żywo**, a hymn Nagrody otwiera i zamyka wieczór. Pozostałe zgłoszenia żyją na stronie przez cały rok naboru.

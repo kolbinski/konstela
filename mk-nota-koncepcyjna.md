@@ -101,7 +101,7 @@ Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia mo
 
 Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
-**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowa Kapituła jest w stanie przeczytać, dlatego pierwszą rundę prowadzi Akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co Kapituła. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje wstępny przesiew wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy Akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do Kapituły, która rozstrzyga o dziesiątce antologii i o laureacie; pozostałe zakwalifikowane przez Akademię zasilają archiwum.
+**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowa Kapituła jest w stanie przeczytać, dlatego pierwszą rundę prowadzi Akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co Kapituła. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy Akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do Kapituły, która rozstrzyga o dziesiątce antologii i o laureacie; pozostałe zakwalifikowane przez Akademię zasilają archiwum.
 
 **Kapituła - profil składu.** Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron:
 
@@ -159,7 +159,7 @@ Rozdzielenie to jest celowe i wynika wprost z tezy przedsięwzięcia. Konkurs o 
 
 **Prawa.** Prawa do zgłoszonych utworów pozostają w całości przy ich autorach. Organizator otrzymuje wyłącznie prawo niewyłączne do prezentacji zgłoszeń na stronie Nagrody i podczas gali. Członek jury nie może zgłosić własnego utworu.
 
-**Jury.** Przewodniczącym zgodził się zostać Michał Sołtan, wokalista, finalista programu The Voice of Poland. Pozostali członkowie są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
+**Jury.** Przewodniczącym zgodził się zostać Michał Sołtan, wokalista, półfinalista 14. edycji programu The Voice of Poland. Pozostali członkowie są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
 
 **Hymn.** Do istniejącego tekstu „Zapytaj inaczej" jurorzy nagrają hymn przedsięwzięcia, poza konkursem. Jurorzy nie konkurują ze zgłoszeniami i jest to powiedziane wprost na stronie. **Nagranie i premiera przypadają na początek 2027 roku, ponieważ hymn otwiera nabór**; na gali w 2028 roku hymn jest wykonywany na żywo, na otwarcie i na zakończenie wieczoru. Jest to zarazem pozycja, na którą środki potrzebne są najwcześniej ze wszystkich.
 

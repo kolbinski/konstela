@@ -40,13 +40,13 @@ Tryb nie jest wybierany po zamknięciu naboru, bo czytelnicy pracują od lutego.
 | do 20 | **nie ma**; Akademii się nie powołuje | Kapituła czyta wszystkie |
 | 21-60 | Akademia, każde zgłoszenie czyta co najmniej 2 czytelników | Kapituła czyta zakwalifikowane, nie mniej niż 20 |
 | 61-200 | jak wyżej, maksimum 20 zgłoszeń na czytelnika, w razie potrzeby lista rezerwowa | jak wyżej |
-| powyżej 200 | przesiew po jednym czytelniku, z obowiązkowym drugim odczytem poniżej progu i losowym audytem odrzuconych (§ 8 ust. 10a) | jak wyżej |
+| powyżej 200 | odczyt wstępny po jednym czytelniku, z obowiązkowym drugim odczytem poniżej progu i losowym audytem odrzuconych (§ 8 ust. 10a) | jak wyżej |
 
-**Runda pierwsza to przesiew wykonywany przez Akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi Kapituły.
+**Runda pierwsza to odczyt wstępny wykonywany przez Akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi Kapituły.
 
 ## 6. Runda pierwsza - Akademia
 
-Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). W trybach do 200 zgłoszeń każde zgłoszenie czytają 2 osoby; powyżej 200 obowiązuje przesiew jednoosobowy z zabezpieczeniami z § 8 ust. 10a, więc **obietnica dwóch czytelników nie jest bezwarunkowa i nigdzie nie jest tak formułowana**. Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
+Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). W trybach do 200 zgłoszeń każde zgłoszenie czytają 2 osoby; powyżej 200 obowiązuje odczyt jednoosobowy z zabezpieczeniami z § 8 ust. 10a, więc **obietnica dwóch czytelników nie jest bezwarunkowa i nigdzie nie jest tak formułowana**. Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
 
 **Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do Kapituły niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić - ale tylko takie, które ktoś przeczytał i docenił. Przed przeoczeniem w trybie jednoosobowym (powyżej 200 zgłoszeń) chronią zabezpieczenia z § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie poniżej progu, losowy audyt co najmniej jednej dziesiątej odrzuconych i powrót do dwóch czytelników, jeśli audyt pokaże systematyczny błąd.
 
@@ -56,7 +56,7 @@ Nakład: pełny przydział 20 rozmów to 15-20 godzin rozłożonych na dwanaści
 
 ## 7. Kwalifikacja do rundy drugiej
 
-Do Kapituły przechodzą zgłoszenia o najwyższej **średniej** ocen (nie sumie, bo liczba ocen może się różnić), **nie mniej niż 20**, powiększone o wszystkie skierowane dziką kartą. Między rundami nie ma żadnej innej selekcji: dziesiątka antologii powstaje dopiero z pracy całej Kapituły, a nie z przesiewu przed nią.
+Do Kapituły przechodzą zgłoszenia o najwyższej **średniej** ocen (nie sumie, bo liczba ocen może się różnić), **nie mniej niż 20**, powiększone o wszystkie skierowane dziką kartą. Między rundami nie ma żadnej innej selekcji: dziesiątka antologii powstaje dopiero z pracy całej Kapituły, a nie z odczytu wstępnego przed nią.
 
 ## 8. Runda druga - Kapituła
 

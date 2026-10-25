@@ -57,7 +57,7 @@ Obowiązuje przy tym reguła, która jest dla tego konkursu istotna. Melodia, ha
 
 Drugie to produkcja nagrań studyjnych dziesięciu najwyżej ocenionych utworów, finansowana przez organizatora. Jest to świadomie wybrany rezultat konkursu: ma z niego zostać dziesięć porządnie nagranych piosenek, a nie wyłącznie werdykt. Nagrania mają następnie ukazać się na płycie wydanej przez wydawnictwo-partnera; takiego partnera jeszcze nie ma, a nagrania powstaną niezależnie od tego, czy się znajdzie.
 
-Przewodniczącym jury zgodził się zostać Michał Sołtan, wokalista, finalista programu The Voice of Poland. Pozostali członkowie jury są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
+Przewodniczącym jury zgodził się zostać Michał Sołtan, wokalista, półfinalista 14. edycji programu The Voice of Poland. Pozostali członkowie jury są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
 
 Trzecie działanie to nagranie hymnu przedsięwzięcia do istniejącego tekstu „Zapytaj inaczej", w wykonaniu jurorów, poza konkursem. Hymn ma zostać nagrany i wydany na początku 2027 roku, ponieważ jest materiałem przygotowywanym na zaplanowany termin otwarcia kampanii naboru. Trzy najwyżej ocenione utwory plebiscytu oraz hymn zostaną następnie wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie marca 2028 roku. Wszystkie zgłoszone utwory będą prezentowane na stronie przez cały rok trwania naboru, bezpłatnie i bez ograniczeń dostępu.
 
