@@ -15,6 +15,11 @@
 (function () {
   'use strict';
 
+  /* Katalogi, które tylko przerzucają dalej. Adresy te poszły kiedyś w świat
+     i nie można ich zgasić, ale wejście przez nie nie jest nawigacją po
+     serwisie. Dopisać tutaj każdy nowy katalog z przekierowaniem. */
+  var PRZEKIEROWANIA = ['/piosenka'];
+
   var lewa = document.querySelector('.masthead .left');
   if (!lewa) return;
 
@@ -54,11 +59,11 @@
        strony pod tą samą ścieżką). */
     if (stamtad + poprzednia.search === stad + location.search) return false;
 
-    /* Przekierowanie ze skróconego adresu tego samego dokumentu:
-       /regulamin przerzuca na /dokument/regulamin przez location.replace,
-       więc odsyłacz wskazuje nasz własny serwis, choć odwiedzający
-       przyszedł z zewnątrz. Cofanie wyprowadziłoby go poza stronę. */
-    if (stamtad && stamtad !== stad && stad.slice(-stamtad.length) === stamtad) return false;
+    /* Nasze własne przekierowanie ze skróconego adresu. Takie strony
+       przerzucają dalej przez location.replace, więc odsyłacz wskazuje nasz
+       serwis, choć odwiedzający przyszedł z zewnątrz - a cofanie
+       wyprowadziłoby go poza stronę, czyli odwrotnie do zamiaru. */
+    if (PRZEKIEROWANIA.indexOf(stamtad) !== -1) return false;
 
     /* Karta otwarta w tle linkiem "otwórz w nowej karcie" ma odsyłacz,
        ale nie ma własnej historii. */
