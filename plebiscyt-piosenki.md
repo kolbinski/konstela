@@ -10,6 +10,14 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 
 **Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną działalność artystyczną - tych, którzy grają, śpiewają i piszą po swojemu, a nie są jeszcze gwiazdami. Formalnego progu nie ma: nie pytamy o zasięgi, dorobek ani o to, czy masz kontrakt.
 
+**W skrócie, zanim przejdziesz dalej:**
+
+- zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą;
+- jury wybiera **dziesięciu finalistów**;
+- **nagranie studyjne finalistów finansuje organizator**, a prawa do nagrań zostają przy autorach;
+- **trzy najlepsze utwory dostają nagrody pieniężne**;
+- nabór planujemy na początek 2027 roku, po zabezpieczeniu finansowania.
+
 ## <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M6 21V3"/><path d="M6 4.5h12l-2.8 3.6L18 11.7H6"/></svg><span>Na jakim to jest etapie</span>
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nie ma zabezpieczonych pieniędzy na nagrody, a konkursu z nagrodami, których nie ma, nie ogłaszamy.
@@ -18,7 +26,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 ## <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><span>Dlaczego w ogóle o tym śpiewać</span>
 
-Rozmowa z AI jest dziś codziennością milionów ludzi i jedną z niewielu rzeczy, które naprawdę zmieniły sposób, w jaki myślimy, a w muzyce popularnej nie ma jej prawie wcale. To, co jest, rozkłada się na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Mało kto śpiewa o tym, co dzieje się naprawdę, czyli o człowieku siedzącym w nocy przed ekranem i próbującym zadać lepsze pytanie.
+Sztuczna inteligencja weszła w życie milionów ludzi - w pracę, w naukę, w rozmowy prowadzone nocą przed ekranem - a w muzyce popularnej prawie jej nie słychać. To, co jest, rozkłada się zwykle na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Między nimi jest cała reszta: utracona robota, pierwszy raz, kiedy narzędzie okazało się mądrzejsze, spór o to, kto jest autorem, zazdrość, ulga, żart. O tym chcielibyśmy usłyszeć piosenkę.
 
 Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych słów. Interesuje nas, co o tym macie do powiedzenia, a nie dwadzieścia wersji jednego zdania.
 
@@ -56,7 +64,7 @@ Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie.
 
 **Rozstrzygnięcie.** Zwycięzcę wybiera **jury**, nie głosowanie. Powód jest ten sam, dla którego cała Nagroda ocenia według jawnych kryteriów, a nie według popularności: przy głosowaniu wygrywa największy zasięg, a nie najlepsza piosenka. Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który ten plebiscyt zaproponował.
 
-**Gdy zgłoszeń będzie bardzo dużo.** Przy kilkuset utworach jury jest w stanie przesłuchać wszystko samo i tak zamierzamy zacząć. Gdyby jednak zgłoszeń były tysiące, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury; żadnych innych kryteriów nie ma i nie będzie. Czy Akademia zostanie powołana i od jakiego progu, ogłosimy **przed otwarciem naboru**, a nie po nim - zasady wyłaniania finalistów dopisane w trakcie podważałyby jawność całej reszty.
+**Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Tryb oceny dobierzemy do liczby zgłoszeń i do przepustowości uzgodnionej z jurorami, a gdyby zgłoszeń było tyle, że jury nie przesłucha wszystkiego rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury; żadnych innych kryteriów nie ma i nie będzie. Czy Akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy to przed otwarciem naboru**, a nie po nim. Zasady wyłaniania finalistów dopisane w trakcie podważałyby jawność całej reszty.
 
 **Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS - bez tego wygrywałby ten, kto ma znajomego programistę.
 
@@ -86,6 +94,8 @@ Plebiscyt nie jest jeszcze ogłoszony, więc poniższe terminy są planem, a nie
 ## <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l7 3v6c0 4.4-2.9 7.6-7 9-4.1-1.4-7-4.6-7-9V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></svg><span>Prawa do Twojej piosenki</span>
 
 Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, muzyka i nagranie pozostają Twoją własnością; możesz wydać utwór pod własnym nazwiskiem, grać go na koncertach i umieścić na swoich kanałach. Nie kupujemy wyłączności i nie przejmujemy niczyjej muzyki.
+
+**Co obejmie nagranie finalisty - ustalamy przed naborem.** Liczba sesji i poprawek, to, czy dostajesz sam gotowy master, czy również ślady, oraz kto zatwierdza aranżację. Zakres ogłosimy razem z regulaminem, bo przy różnym instrumentarium znaczy on co innego dla solisty, a co innego dla zespołu.
 
 Nagroda potrzebuje prawa **niewyłącznego** i w trzech konkretnych zakresach, które wypisujemy, zamiast zasłaniać się ogólnym „prezentacja": prezentacja zgłoszenia na stronie Nagrody w czasie naboru; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, zakres wydania jest osobną sprawą i osobną umową między Tobą a wydawnictwem - Nagroda nie jest tu pośrednikiem.
 
@@ -189,7 +199,7 @@ Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **pleb
 
 Napisz, jeśli:
 
-- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adres trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem;
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adresy zapisane na tę listę trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem;
 - **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia;
 - **reprezentujesz wydawnictwo, sponsora albo redakcję** i chcesz porozmawiać o współpracy.
 
