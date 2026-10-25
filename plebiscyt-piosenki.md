@@ -102,6 +102,8 @@ I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rze
 
 Tekst jest zapisany w rodzaju męskim, ale odmienia się bez straty dla rytmu.
 
+> ## Zapytaj inaczej
+>
 > **[Zwrotka 1]**
 >
 > Mam w kieszeni wszystkie fakty świata,
