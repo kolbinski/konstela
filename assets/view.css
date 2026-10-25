@@ -312,21 +312,57 @@
         transform: none;
       }
 
+      /* Nagłówki dokładnie jak na stronie głównej. */
       #content h1 {
         font-family: var(--display);
-        font-size: clamp(2rem, 5vw, 2.9rem);
+        font-size: clamp(2.9rem, 10vw, 4.6rem);
         font-weight: 600;
-        line-height: 1.12;
+        line-height: 1.02;
+        letter-spacing: 0.01em;
+        text-wrap: balance;
+        overflow-wrap: break-word;
         margin: 0 0 1.75rem;
       }
       #content h2 {
         font-family: var(--display);
-        font-size: 1.65rem;
+        font-size: clamp(2.3rem, 8vw, 3.4rem);
         font-weight: 600;
-        line-height: 1.25;
-        margin: 2.75rem 0 0.85rem;
-        padding-bottom: 0.35rem;
-        border-bottom: 1px solid var(--line);
+        line-height: 1.05;
+        letter-spacing: 0.01em;
+        text-wrap: balance;
+        margin: 3.5rem 0 1.6rem;
+        display: flex;
+        align-items: center;
+        gap: 0.3em;
+      }
+      #content h2 + * {
+        margin-top: 0;
+      }
+      /* Ikona przy nagłówku - ten sam zestaw reguł co w index.html. */
+      #content h2 .ico {
+        flex: 0 0 auto;
+        width: 0.92em;
+        height: 0.92em;
+        stroke: var(--brass);
+        fill: none;
+        stroke-width: 1.25;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        opacity: 0.95;
+      }
+      /* Próg wyższy niż na stronie głównej: kolumna dokumentu jest szersza
+         (46rem wobec 44rem), więc ikona potrzebuje szerszego okna, żeby nie
+         docisnąć się do krawędzi. */
+      @media (min-width: 1160px) {
+        #content h2 {
+          position: relative;
+        }
+        #content h2 .ico {
+          position: absolute;
+          transform: translateX(-100%) translateY(10px);
+          width: 3em;
+          height: 3em;
+        }
       }
       #content h3 {
         font-family: var(--display);
@@ -402,6 +438,13 @@
       #content blockquote h2:first-child {
         margin-top: 0.35rem;
         margin-bottom: 1.6rem;
+      }
+      /* Nagłówek w cytacie to tytuł utworu, nie sekcja - zostaje mniejszy
+         i bez układu zarezerwowanego dla sekcji z ikoną. */
+      #content blockquote h2 {
+        font-size: 1.9rem;
+        line-height: 1.15;
+        display: block;
       }
 
       #content code {
@@ -559,8 +602,5 @@
         }
         #content {
           padding: 2rem 0 3.5rem;
-        }
-        #content h2 {
-          font-size: 1.4rem;
         }
       }
