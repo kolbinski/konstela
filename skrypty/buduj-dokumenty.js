@@ -33,11 +33,13 @@ const PUBLICZNE = new Set([
   'plebiscyt-piosenki',
   'plebiscyt-plakatu',
   'regulamin-plakatu',
+  'plebiscyt-rozmowy',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
    Strona powstaje wtedy w obu miejscach, a adresem kanonicznym jest krótszy. */
 const DEDYKOWANE = {
+  'plebiscyt-rozmowy': 'plebiscyt-rozmowy',
   'plebiscyt-piosenki': 'plebiscyt-piosenki',
   'plebiscyt-plakatu': 'plebiscyt-plakatu',
 };
@@ -54,6 +56,8 @@ const TYTULY = {
 };
 
 const OPISY = {
+  'plebiscyt-rozmowy':
+    'Plebiscyt na rozmowę ze sztuczną inteligencją: nagradzamy człowieka, nie program, bo oceniamy pytania, a nie odpowiedzi. Kto może zgłosić rozmowę, cztery kryteria oceny, nagrody, czytelnia i archiwum.',
   regulamin:
     'Pełne zasady plebiscytu na rozmowę ze sztuczną inteligencją: kto może się zgłosić, jak wygląda zgłoszenie, według czego ocenia Kapituła i jakie są nagrody. Wraz z kartą oceny.',
   'regulamin-plebiscytu':

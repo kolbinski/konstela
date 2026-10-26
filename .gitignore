@@ -10,3 +10,7 @@ __pycache__/
 # Adres dedykowany plebiscytu oraz mapa strony też powstają przy budowaniu
 /plebiscyt-piosenki/index.html
 /sitemap.xml
+
+# Adresy dedykowane plebiscytow powstaja przy budowaniu
+/plebiscyt-plakatu/index.html
+/plebiscyt-rozmowy/index.html

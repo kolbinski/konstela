@@ -15,10 +15,10 @@
   'use strict';
 
   var LINKI = [
-    ['/', 'Nagroda Konstela'],
-    ['/dokument/regulamin', 'Regulamin konkursu na najlepszą rozmowę z AI'],
-    ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
-    ['/plebiscyt-plakatu', 'Plebiscyt na plakat o sztucznej inteligencji'],
+    ['/', 'Strona główna'],
+    ['/plebiscyt-rozmowy', 'Nagroda Konstela w plebiscycie na rozmowę'],
+    ['/plebiscyt-piosenki', 'Nagroda Konstela w plebiscycie na piosenkę'],
+    ['/plebiscyt-plakatu', 'Nagroda Konstela w plebiscycie na plakat'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/#partnerzy', 'Dla partnerów'],
   ];
