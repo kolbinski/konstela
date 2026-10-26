@@ -33,7 +33,7 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 - **Płyta** z dziesięcioma najwyżej ocenionymi utworami plebiscytu - nagrania finansuje organizator, wydaje wydawnictwo-partner, którego jeszcze nie ma. Prawa do nagrań przechodzą na autorów jako część nagrody.
 - **Hymn „Zapytaj inaczej"** w wykonaniu jurorów, z teledyskiem.
 
-## 4. Kalendarz i jedno pytanie, które blokuje resztę
+## 4. Harmonogram i jedno pytanie, które blokuje resztę
 
 | Kiedy | Co |
 |---|---|

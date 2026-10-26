@@ -79,7 +79,7 @@
 }
 
 /* Nic mniejszego niż tekst ciągły. Reguła obejmuje wszystko w treści strony
-   - także drobne podpisy, metryki pod pozycjami kalendarza, oznaczenia nad
+   - także drobne podpisy, metryki pod pozycjami harmonogramu, oznaczenia nad
    nagłówkami i każdy element, o którym nikt nie pomyślał - z jednym
    wyjątkiem: pasek u góry zostaje w swojej wielkości, bo ma być kotwicą, a
    nie najgłośniejszym elementem strony. Nagłówki dostają niżej rozmiary
