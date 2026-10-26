@@ -55,7 +55,7 @@ const TYTULY = {
 
 const OPISY = {
   regulamin:
-    'Pełne zasady konkursu na najlepszą rozmowę ze sztuczną inteligencją: kto może się zgłosić, jak wygląda zgłoszenie, według czego ocenia Kapituła i jakie są nagrody. Wraz z kartą oceny.',
+    'Pełne zasady plebiscytu na rozmowę ze sztuczną inteligencją: kto może się zgłosić, jak wygląda zgłoszenie, według czego ocenia Kapituła i jakie są nagrody. Wraz z kartą oceny.',
   'regulamin-plebiscytu':
     'Pełne zasady plebiscytu na piosenkę o sztucznej inteligencji: kto może zgłosić utwór, gdzie przebiega granica użycia AI, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do piosenki.',
   'polityka-prywatnosci':

@@ -1,4 +1,4 @@
-# Regulamin Nagrody Konstela - edycja pierwsza (2027)
+# Regulamin plebiscytu na rozmowę ze sztuczną inteligencją - edycja pierwsza (2027)
 
 ---
 
@@ -14,6 +14,8 @@
 1. Nagroda przyznawana jest osobom fizycznym za **rozmowę przeprowadzoną z modelem sztucznej inteligencji**, w której Uczestnik doszedł do wniosku, połączenia lub rozwiązania, którego nie znał przed jej rozpoczęciem.
 2. Oceniany jest udział człowieka w rozmowie: sposób zadawania pytań, prowadzenia wątku i weryfikowania odpowiedzi. Jakość samego modelu nie podlega ocenie.
 3. Nagroda nie jest konkursem na tekst literacki ani na publikację naukową.
+
+4. **Miejsce tego plebiscytu wśród pozostałych.** Niniejszy regulamin dotyczy **plebiscytu na rozmowę ze sztuczną inteligencją**. Nagroda Konstela przyznawana jest również w plebiscytach na piosenkę, na plakat i na film o sztucznej inteligencji, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam mosiężny medalion Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
 4. **Antologia** - publikacja zawierająca dziesięć najwyżej ocenionych rozmów edycji w całości, bez skrótów, wraz z komentarzami Kapituły (§ 8 ust. 13a). Ukazuje się nieodpłatnie w postaci elektronicznej, a w razie wydania płatnego na zasadach z § 13 ust. 4.
 5. **Archiwum rozmów** - publicznie dostępny zbiór **wszystkich zgłoszeń, które przeszły ocenę formalną** (§ 6), utrwalony w dniu określonym w § 11 ust. 10a lit. g i udostępniany od dnia ogłoszenia wyników, publikowany odrębnie od antologii. Obejmuje kopię rozmowy sporządzoną przez Organizatora, odnośnik opublikowany przez Uczestnika oraz **jawną punktację** wystawioną przez Akademię, Kapitułę i publiczność, bez komentarzy Kapituły. Zasady określa § 11 ust. 11.
 6. **Kopia archiwalna** - zapis rozmowy sporządzany przez Organizatora niezwłocznie po wpłynięciu zgłoszenia, obejmujący treść, znacznik czasu i sumę kontrolną. Od chwili jej sporządzenia ocenie podlega kopia, a nie treść dostępna pod linkiem (§ 5 ust. 5 i 8).

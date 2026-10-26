@@ -124,7 +124,7 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w trzech konkretnych zakresac
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.2 14 9l5.8 2-5.8 2-2 5.8L10 13l-5.8-2L10 9z"/></svg><span>Gala</span>
 
-Plebiscyt kończy się na tej samej gali co Nagroda Konstela za rozmowę ze sztuczną inteligencją. **Trzy najwyżej ocenione utwory wykonywane są na żywo**, a hymn Nagrody otwiera i zamyka wieczór. Nazwiska pozostałych finalistów są odczytywane ze sceny.
+Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją. **Trzy najwyżej ocenione utwory wykonywane są na żywo**, a hymn Nagrody otwiera i zamyka wieczór. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 
 **Udział w gali jest obowiązkiem czołowej trójki**, bo to ona wykonuje utwory na żywo. **Dojazd i nocleg całej dziesiątki finalistów pokrywa organizator.** Nieobecność z powodu choroby albo zdarzenia losowego nie pozbawia nikogo nagrody.
 

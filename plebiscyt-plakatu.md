@@ -89,7 +89,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Składu jury jeszcze nie ma i nie wymieniamy nikogo, dopóki nie potwierdzi udziału.** Zapowiadamy natomiast zasadę: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora.
 
-**Jeżeli zgłoszeń będzie bardzo dużo, pierwsze przejście robi Akademia plakatu** - szersze grono praktyków, które ogląda wszystko i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania Akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w konkursie rozmów i w plebiscycie piosenki.
+**Jeżeli zgłoszeń będzie bardzo dużo, pierwsze przejście robi Akademia plakatu** - szersze grono praktyków, które ogląda wszystko i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania Akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę i w plebiscycie piosenki.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3.5h8v5.5a4 4 0 0 1-8 0z"/><path d="M8 5H5.5v1.5a3 3 0 0 0 3 3M16 5h2.5v1.5a3 3 0 0 1-3 3"/><path d="M12 13.5V16"/><path d="M9.2 20.5h5.6l-.7-4.5h-4.2z"/></svg><span>Nagrody</span>
 
@@ -123,9 +123,9 @@ Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z gó
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.2 14 9l5.8 2-5.8 2-2 5.8L10 13l-5.8-2L10 9z"/></svg><span>Gala i terminy</span>
 
-Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela za rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Oryginały finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma tego wieczoru premierę - już ze zwycięskim plakatem na okładce**.
+Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Oryginały finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma tego wieczoru premierę - już ze zwycięskim plakatem na okładce**.
 
-**Werdykt zapada wcześniej niż gala**, bo okładka musi być gotowa przed drukiem książki. Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór rozmów**. Planowany przebieg, który potwierdzimy przy ogłoszeniu:
+**Werdykt zapada wcześniej niż gala**, bo okładka musi być gotowa przed drukiem książki. Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę**. Planowany przebieg, który potwierdzimy przy ogłoszeniu:
 
 | Kiedy | Co |
 |---|---|
