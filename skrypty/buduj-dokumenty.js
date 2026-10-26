@@ -233,6 +233,7 @@ function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tr
           <a class="back" href="/" aria-label="Wróć na stronę główną"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="m11 6-6 6 6 6"/></svg></a>
           <a class="brand" href="/">Nagroda Konstela</a>
         </span>
+        <span class="prawa">
         <button
           id="czytelnosc"
           class="czytelnosc"
@@ -253,6 +254,7 @@ function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tr
         >
           <span class="burger-ikona" aria-hidden="true"></span>
         </button>
+        </span>
       </div>
       <!-- Pozycje powstają z nagłówków dokumentu w assets/pasek.js. -->
       <nav id="menu" class="menu" aria-label="Paragrafy dokumentu" hidden></nav>

@@ -1035,3 +1035,13 @@ Po ustawieniu tekstu na 30 px okazało się, że mniejsze zostały całe grupy e
 **Sprawdzanie jest automatyczne i wyczerpujące**, bo oglądanie stron po kolei tego nie wyłapie. Skrypt `audyt2.js` wchodzi na **55 stron** - wszystkie dokumenty, cztery podstrony plebiscytów, stronę główną, 404 i podgląd arkusza - przy **czterech szerokościach okna** (360, 390, 768, 1200), schodzi po drzewie łącznie z shadow DOM, liczy wielkość pisma każdego elementu, który sam zawiera tekst, i wypisuje wszystko poniżej 30 px. To 220 sprawdzeń na przebieg.
 
 **Wynik końcowy: zero elementów mniejszych niż 30 px.** Zostało jedno miejsce z przewijaniem w poziomie: `oferta-dla-wydawcy` przy 360 px wystaje o 11 px przez adres poczty w komórce tabeli. Dokument jest wewnętrzny i nieindeksowany, więc zostawiam to świadomie, a nie przez przeoczenie.
+
+### Cztery poprawki paska i trybu (26.10.2026)
+
+**Nagłówek h1 zostaje w wielkości ze zwykłego trybu** (46,4 px). Reguła ogólna zabierała go do 30 px, bo miała wyższą szczegółowość niż mój osobny zapis dla h1 - dwa `:not()` liczą się jak dwie klasy. Zamiast podbijać szczegółowość, h1 jest teraz **wyłączony z reguły ogólnej**, więc zachowuje własny rozmiar ze strony. Pozostałe nagłówki dostały drugie `:not()`, żeby wygrywać z regułą ogólną: h2 ma 38 px, h3 i niższe 33.
+
+**Przyciski w pasku są jedną grupą.** Stały luzem obok napisu, a `justify-content: space-between` rozsuwa dzieci po całej szerokości - przy trzech dzieciach zamiast dwóch ikona trybu lądowała w połowie paska, 47 px od przycisku menu. Teraz oba siedzą we wspólnym `<span class="prawa">` i stykają się polami dotyku.
+
+**Krzyżyk zamiast gwiazdki.** W trybie czytelności otwarty przycisk menu pokazywał gwiazdkę z trzech kresek, bo reguła malująca kreski na biało nadpisywała przezroczystość środkowej. Dopisana reguła dla stanu otwartego.
+
+**Odstępy w stopce** zwiększone z 0,55 na 1,1 rem, a w trybie czytelności na 1,6 rem - przy 30 px pozycje stykały się ze sobą.

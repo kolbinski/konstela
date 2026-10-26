@@ -47,7 +47,7 @@
        i tak nie mieści się obok bloku kontaktowego i schodzi pod niego -
        wyrównanie do prawej zostawiało wtedy ragged left i pusty pas przy
        krawędzi strony. */
-    'nav { display: flex; flex-direction: column; align-items: flex-start; gap: 0.55rem; }',
+    'nav { display: flex; flex-direction: column; align-items: flex-start; gap: 1.1rem; }',
     /* Odstęp MIĘDZY pozycjami robi gap listy, a wiersze WEWNĄTRZ jednej
        pozycji są ciaśniejsze - inaczej złamany link wygląda jak dwie pozycje. */
     'nav a { line-height: 1.25; }',
@@ -60,6 +60,7 @@
     '  color: #000; font-size: 1.875rem; line-height: 1.5;',
     '  border-top-color: #000;',
     '}',
+    ':host([data-czytelnie]) nav { gap: 1.6rem; }',
     ':host([data-czytelnie]) a { color: #0000cc; text-decoration: underline; }',
     ':host([data-czytelnie]) a:visited { color: #551a8b; }',
     '@media print {',

@@ -84,20 +84,24 @@
    wyjątkiem: pasek u góry zostaje w swojej wielkości, bo ma być kotwicą, a
    nie najgłośniejszym elementem strony. Nagłówki dostają niżej rozmiary
    większe od tekstu, żeby hierarchia nie zniknęła. */
-:root.czytelnie body *:not(.topbar):not(.topbar *) {
+:root.czytelnie body *:not(.topbar):not(.topbar *):not(h1) {
   font-size: var(--czytelnie-tekst) !important;
 }
 
-:root.czytelnie h1:not(.topbar *) {
-  font-size: 2.75rem !important;
-}
-:root.czytelnie h2:not(.topbar *) {
+/* Nagłówek główny zostaje w wielkości ze zwykłego trybu - jest już duży,
+   a powiększony jeszcze bardziej zajmowałby pół ekranu telefonu. Dlatego
+   nie przedefiniowujemy go wcale, tylko wyłączamy z reguły ogólnej wyżej.
+
+   Pozostałe nagłówki muszą być od reguły ogólnej mocniejsze, a mają tyle
+   samo klas co ona - stąd drugie :not(), które wyrównuje szczegółowość, i
+   kolejność: te reguły stoją po niej, więc wygrywają. */
+:root.czytelnie body h2:not(.topbar):not(.topbar *) {
   font-size: 2.375rem !important;
 }
-:root.czytelnie h3:not(.topbar *),
-:root.czytelnie h4:not(.topbar *),
-:root.czytelnie h5:not(.topbar *),
-:root.czytelnie h6:not(.topbar *) {
+:root.czytelnie body h3:not(.topbar):not(.topbar *),
+:root.czytelnie body h4:not(.topbar):not(.topbar *),
+:root.czytelnie body h5:not(.topbar):not(.topbar *),
+:root.czytelnie body h6:not(.topbar):not(.topbar *) {
   font-size: 2.0625rem !important;
 }
 
@@ -159,6 +163,12 @@
 :root.czytelnie .burger-ikona::before,
 :root.czytelnie .burger-ikona::after {
   background: #ffffff !important;
+}
+/* Przy otwartym menu środkowa kreska znika, a skrajne układają się w krzyżyk.
+   Reguła wyżej nadpisywała to przezroczyste tło i zamiast krzyżyka wychodziła
+   gwiazdka z trzech kresek. */
+:root.czytelnie .burger[aria-expanded='true'] .burger-ikona {
+  background: transparent !important;
 }
 
 /* Rozwijane menu zostaje na białym tle, z czarną ramką i niebieskimi
