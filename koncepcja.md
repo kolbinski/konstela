@@ -1095,3 +1095,21 @@ Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwsz
 **Kwoty zostają w dokumentach dla ministerstwa i dla sponsorów** - w nocie koncepcyjnej, w piśmie i w arkuszu budżetowym - bo bez nich kosztorys nie istnieje. Są to dokumenty adresowane do konkretnego odbiorcy, a nie treść strony.
 
 **Dla zdjęcia metryki zgłoszenia:** rozbieżność z metryką jest podstawą wszczęcia wyjaśnień, a nie dowodem zmiany filmu. Zmiana samego tytułu albo miniatury niczego nie dowodzi, a różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z dopuszczonej poprawki technicznej.
+
+## Recenzja plebiscytu rozmowy (26.10.2026)
+
+Dwadzieścia sześć zarzutów, w tym kilkanaście sprzeczności między dokumentami. Najważniejsze rozstrzygnięcia:
+
+**Limit najwyższego pasma usunięty** (§ 8 ust. 14b w poprzednim brzmieniu). Uzależniał ocenę zgłoszenia od jakości przypadkowo przydzielonych konkurentów: czytelnik, który dostał sześć znakomitych rozmów w partii dwudziestu, musiał dwóm odmówić najwyższego pasma. Przy jawnej punktacji oznaczało to przedstawianie pozycji w partii jako oceny jakości rozmowy. Została kontrola rozkładu, ale z **mierzalnym progiem** zamiast "bliskiej zeru zmienności": odchylenie standardowe poniżej 1,0 punktu albo cztery piąte zgłoszeń w tym samym paśmie czteropunktowym kieruje partię do ponownego odczytu. Zmiana trafiła też do listu do kancelarii, gdzie pytanie o ten limit stało się bezprzedmiotowe.
+
+**Karta oceny przeczyła regulaminowi.** Najwyższe pasmo Plonu wymagało, żeby rozmowa zmieniła coś poza sobą - a § 7 ust. 10 lit. d mówi, że skutek powstały poza rozmową nie podnosi punktacji w żadnym kryterium. Pasma Plonu są teraz stopniowane rozwiązaniem problemu i rozpoznaniem granic rozwiązania. Z Rozpiętości zniknęło zgadywanie, czy model doszedłby do czegoś sam, a z Drążenia wymóg konkretnej dramaturgii - rozmowa prowadzona oszczędnie może być równie wymagająca.
+
+**Miejscowość przestała być publikowana.** Była obowiązkowa i publikowana przy rozmowie, ale nie występowała w żadnym opisie zakresu publikacji ani w polityce prywatności - uczestnik wybierający pseudonim mógł nie wiedzieć, że dopiszemy mu miejscowość.
+
+**Dezaktywacja linku pozwalała obejść termin wycofania.** Do 29 lutego 2028 wycofanie jest możliwe wiadomością, a po tym dniu nie - ale usunięcie linku działało jak wycofanie w każdej chwili. Teraz skutek zależy od dnia, a po terminie ocena i publikacja opierają się na kopii archiwalnej.
+
+**Trzy obietnice bez pokrycia**, ten sam wzór co przy filmie: że link pokazuje rzeczywisty przebieg rozmowy razem z nieudanymi pytaniami (regulamin sam dopuszcza udostępnienie wybranej wersji wątku), że link u każdego dostawcy zamraża rozmowę (zależy od dostawcy i rodzaju konta), i że archiwum zostaje "na stałe" (zostaje bez planowanego terminu zamknięcia).
+
+**W procedurze moderacji pochodzenie treści od AI działało jak zwolnienie z kontroli.** Model może podać dane rzeczywistej osoby albo odtworzyć cudzy tekst, a dla osoby, której to dotyczy, nie ma znaczenia, kto wpisał. Teraz: samo wygenerowanie przez AI nie jest podstawą oznaczenia, ale konkretny problem oznacza się niezależnie od tego, kto podał treść.
+
+**Nowy tryb: błąd ujawniony dopiero w karcie oceny** (§ 13 ust. 3a). Kartę można dostać po upływie czternastu dni na reklamację, więc uczestnik nie miał jak zgłosić błędu rachunkowego czy proceduralnego, który z niej wynika. Termin liczy się teraz od otrzymania karty, a tryb nie otwiera odwołania od samego osądu oceniających.

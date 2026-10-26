@@ -25,9 +25,9 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 21V3"/><path d="M6 4.5h12l-2.8 3.6L18 11.7H6"/></svg><span>Na jakim etapie jest ten plebiscyt</span>
 
-**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę](/dokument/regulamin-rozmowy), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru, zamiast obiecywać zasady na później.
+**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę](/dokument/regulamin-rozmowy), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru.
 
-Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokości nagród nie podajemy, dopóki środki nie są zabezpieczone - ogłoszenie konkursu z nagrodami, których nie ma, byłoby obietnicą bez pokrycia.
+Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokość nagród zależy od pozyskanych sponsorów i podamy ją przy ogłoszeniu naboru.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c0-3.6 2.9-6 6.5-6 .9 0 1.8.2 2.6.5"/><path d="m15 17.5 2 2 4-4.5"/></svg><span>Kto i co może zgłosić</span>
 
@@ -35,8 +35,8 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 **Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną:**
 
-- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy, więc ślepe uliczki i nieudane pytania zostają w niej same z siebie. Link musi działać przez cały czas oceny; sprawdzamy go już przy zgłoszeniu, więc o problemie dowiesz się od razu. To wymóg dowodowy, nie wybór dostawcy, ale wyklucza narzędzia bez funkcji udostępniania;
-- **co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości. Progi są niskie celowo: krótka i gęsta rozmowa ma wygrywać z długą i rozlaną. Liczenie jest po naszej stronie;
+- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy, bo tekst wklejony można wcześniej zredagować. Link pokazuje wersję, którą udostępniłeś; nie potwierdza pełnej historii powstawania rozmowy. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas oceny. Wyklucza to narzędzia bez funkcji udostępniania;
+- **co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości. Liczenie jest po naszej stronie;
 - **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne;
 - **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji piszesz swobodnie;
 - **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien. Jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu.
@@ -49,19 +49,19 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.5" width="7" height="7" rx="1"/><rect x="13.5" y="3.5" width="7" height="7" rx="1"/><rect x="3.5" y="13.5" width="7" height="7" rx="1"/><rect x="13.5" y="13.5" width="7" height="7" rx="1"/></svg><span>Cztery kryteria oceny</span>
 
-**I. Rozpiętość.** Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, jeśli przed rozmową nikt go nie widział.
+**I. Rozpiętość.** Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.
 
 **II. Drążenie.** Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją. Czy dwudzieste pytanie wynika z dwunastej odpowiedzi.
 
-**III. Weryfikacja.** Czy sprawdza, prostuje, wyłapuje zmyślenia i niespójności. AI myli się pewnym głosem.
+**III. Weryfikacja.** Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności.
 
-**IV. Plon.** Co z tego zostało: nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd. Połączenie, którego nie da się nazwać, nie jest jeszcze konstelacją.
+**IV. Plon.** Co z tego zostało: nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.
 
 [Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każda liczba punktów w każdym kryterium.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8" cy="8.5" r="2.6"/><circle cx="16" cy="8.5" r="2.6"/><path d="M3.5 18.5c0-2.5 2-4.3 4.5-4.3s4.5 1.8 4.5 4.3"/><path d="M14 18.5c0-2.5 1.7-4.3 4.2-4.3.8 0 1.6.2 2.3.5"/></svg><span>Kto ocenia</span>
 
-**Pierwszą rundę prowadzi Akademia** - kilkunastoosobowe grono czytelników powoływanych na jedną edycję, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co Kapituła. Każde zgłoszenie czytają co najmniej dwie osoby.
+**Pierwszą rundę prowadzi Akademia** - grono czytelników powoływanych na jedną edycję, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co Kapituła. Liczba czytelników zależy od liczby zgłoszeń; przy większym naborze regulamin przewiduje przesiew jednoosobowy, obowiązkowe drugie odczyty i losowy audyt.
 
 **Werdykt należy do Kapituły**, która ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureacie. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
 
@@ -73,9 +73,9 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 Zwycięzca odbiera **mosiężny medalion Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy.
 
-**Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, w całości i bez skrótów, z komentarzem Kapituły wyjaśniającym, co w każdej z nich było wartościowe.
+**Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem Kapituły wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
-Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne**, a wyniki wszystkich trzech ogłaszamy tego samego wieczoru - i zdarza się, że wskazują trzy różne rozmowy.
+Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne**, a wyniki wszystkich trzech ogłaszamy tego samego wieczoru - i mogą wskazać trzy różne rozmowy.
 
 **Nagroda Uczniowska.** Przyznają ją uczniowskie grupy czytające, zgłaszane przez szkoły, według tej samej karty oceny co Kapituła i niezależnie od jej werdyktu. Wzorem jest francuska Prix Goncourt des lycéens, przyznawana od 1988 roku przez około 2000 licealistów obok macierzystej nagrody literackiej.
 
@@ -85,19 +85,19 @@ Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne**, a wyniki w
 
 **Po przejściu oceny formalnej każde zgłoszenie trafia na czytelnię**: listę, która rośnie przez cały rok naboru i którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora, link, opis odkrycia oraz uzasadnienie, dlaczego warto tę rozmowę przeczytać. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
 
-**Czytelnik może oznaczyć rozmowę gwiazdką** i wrócić do niej później. Gwiazdki zostają w jego przeglądarce i nigdy nie trafiają do nas: nie zbieramy ich, nie liczymy i nie pokazujemy. W trakcie roku nikt więc nie widzi, co jest popularne, bo popularność kierowałaby czytaniem, a przy ocenianiu właśnie tego unikamy. Półkę można wyeksportować i wczytać na innym urządzeniu; kont nie ma i nie będzie.
+**Czytelnik może oznaczyć rozmowę gwiazdką** i wrócić do niej później. Gwiazdki zostają w jego przeglądarce i nigdy nie trafiają do nas: nie zbieramy ich, nie liczymy i nie pokazujemy. W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytaniem, a przy ocenianiu właśnie tego unikamy. Półkę można wyeksportować i wczytać na innym urządzeniu; korzystanie z czytelni nie wymaga konta.
 
-**Po ogłoszeniu wyników czytelnia przechodzi w archiwum**, dostępne bezpłatnie i na stałe. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, Kapitułę i publiczność.
+**Po ogłoszeniu wyników czytelnia przechodzi w archiwum**, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, Kapitułę i publiczność.
 
 **Jawność punktacji dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału ogłaszanym przed naborem. Mówimy o tym wprost, bo trwale widoczna niska ocena jest realnym kosztem: dlatego zasada jest ogłoszona zawczasu, a nie wprowadzona w trakcie, a furtką pozostaje pseudonim.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4.4-2.9 7.6-7 9-4.1-1.4-7-4.6-7-9V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></svg><span>Prawa do Twojej rozmowy</span>
 
-**Zgłoszenie oznacza zgodę na publikację wraz z oceną.** Udzielasz nam licencji na publikację rozmowy w antologii i w archiwum, na pięć lat. Wybierasz jedno: nazwisko czy pseudonim. Zgłoszenie wycofujesz najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 - po tym dniu książka idzie do druku.
+**Zgłoszenie oznacza akceptację warunków publikacji wraz z oceną.** Udzielasz nam licencji na publikację rozmowy w antologii i w archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Wybierasz jedno: nazwisko czy pseudonim. Zgłoszenie wycofujesz najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 - po tym dniu książka idzie do druku.
 
 **Pseudonim zastępuje podpis, ale nie anonimizuje treści.** Rozmowa, opis odkrycia albo strona u dostawcy mogą zawierać Twoje imię, nazwę firmy albo inne informacje pozwalające Cię rozpoznać, a my ich nie usuwamy z urzędu.
 
-**Zanim zgłosisz, sprawdź, co ujawniasz.** Zgłoszona rozmowa zostaje opublikowana w całości. Jeżeli jest w niej rozwiązanie do opatentowania, wynik przeznaczony do publikacji naukowej, cudza tajemnica albo pomysł, który wolisz zachować dla siebie - publikacja to przekreśli. Tej oceny nie zrobimy za Ciebie.
+**Zanim udostępnisz link, sprawdź, co ujawniasz.** Zgłoszona rozmowa zostaje opublikowana w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych. Sprawdź, czy ujawnienie nie naruszy poufności, możliwości ochrony rozwiązania albo zasad planowanej publikacji naukowej - i pamiętaj, że ujawnienie następuje już w chwili udostępnienia linku u dostawcy, przed zgłoszeniem. Tej oceny nie zrobimy za Ciebie.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.2 14 9l5.8 2-5.8 2-2 5.8L10 13l-5.8-2L10 9z"/></svg><span>Gala i terminy</span>
 

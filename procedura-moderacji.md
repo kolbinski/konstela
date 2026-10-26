@@ -4,7 +4,7 @@
 
 ## 1. Do czego służy ta procedura
 
-To jest dokument dla **oceniających** - członków jury, Kapituły i Akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Nazywamy go procedurą moderacji, bo o moderację chodzi: o to, co trafia do czytelni, Galerii, Projektorni i archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
+To jest dokument dla **oceniających** - członków jury, Kapituły i Akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Dotyczy tego, co trafia do czytelni, Galerii, Projektorni i archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
 
 Oceniasz zgłoszenia w jednym z plebiscytów Nagrody Konstela. Obok oceny merytorycznej masz w panelu jeszcze jedno zadanie: **oznaczyć zastrzeżenie, jeżeli w zgłoszeniu zobaczysz coś, co może być problemem prawnym przy publikacji**. Niniejsza procedura mówi, kiedy to zrobić, i jest dokumentem, o którym mówią regulaminy: § 8 ust. 3a lit. c1 [regulaminu plebiscytu na rozmowę](/dokument/regulamin-rozmowy), § 8 ust. 4h [regulaminu plebiscytu na plakat](/dokument/regulamin-plakatu) oraz § 8 ust. 7 [regulaminu plebiscytu na film](/dokument/regulamin-filmu) oraz § 10 ust. 6a [regulaminu plebiscytu na piosenkę](/dokument/regulamin-plebiscytu).
 
@@ -14,7 +14,7 @@ Zadanie to powierzono oceniającym z jednego powodu: **i tak czytasz albo ogląd
 
 ## 2. Pięć zasad, które obowiązują zawsze
 
-1. **Oznaczenie jest sygnałem, nie rozstrzygnięciem.** Wskazujesz miejsce i rodzaj zastrzeżenia. O tym, co dalej, rozstrzyga wyłącznie organizator.
+1. **Oznaczenie jest sygnałem, nie rozstrzygnięciem.** Wskazujesz miejsce i rodzaj zastrzeżenia; dalsze postępowanie prowadzi organizator w trybie określonym w odpowiednim regulaminie, który przy części rozstrzygnięć wymaga udziału członka Kapituły albo jury.
 
 2. **Oznaczenie nie wpływa na punktację.** Nie obniżasz z tego powodu żadnego kryterium, nie odrzucasz zgłoszenia i nie używasz oznaczenia jako oceny ukrytej. Zgłoszenie oznaczone może wygrać.
 
@@ -36,9 +36,10 @@ Oznacz, gdy w rozmowie widzisz dane pozwalające zidentyfikować konkretną osob
 
 - **Oznacz:** „Chciałem napisać do Anny Kowalskiej, kierowniczki działu sprzedaży w [nazwa firmy], numer 601 ..." - imię, nazwisko, stanowisko, firma i numer razem identyfikują osobę.
 - **Oznacz:** wklejona do rozmowy wiadomość e-mail wraz z nagłówkiem i adresem nadawcy.
-- **Nie oznaczaj:** „mój szef", „moja siostra", „pacjentka, lat 40" - bez danych identyfikujących.
+- **Nie oznaczaj:** „mój szef", „moja siostra", „pacjentka, lat 40" - jeżeli **z całej rozmowy** nie da się dojść, o kogo chodzi. Jeżeli reszta rozmowy zawęża krąg do jednej osoby - na przykład podaje miasto, stanowisko i okoliczności - oznacz.
 - **Nie oznaczaj:** nazwisk osób publicznych w rozmowie o ich działalności publicznej, w szczególności polityków, pisarzy, naukowców.
-- **Nie oznaczaj:** nazwisk postaci fikcyjnych ani nazwisk pojawiających się w odpowiedziach sztucznej inteligencji jako przykłady.
+- **Nie oznaczaj:** nazwisk postaci fikcyjnych.
+- **Samo pochodzenie treści od AI nie zwalnia z oznaczenia.** Jeżeli dane rzeczywistej osoby podał model, a nie uczestnik, oznaczasz je tak samo - dla osoby, której dotyczą, nie ma różnicy, kto je wpisał.
 
 **R2. Kompletny cudzy utwór krótki.**
 
@@ -46,9 +47,9 @@ Oznacz, gdy w rozmowie przytoczony jest w całości krótki utwór, którego aut
 
 - **Oznacz:** cały wiersz Szymborskiej wklejony do rozmowy z prośbą o interpretację.
 - **Oznacz:** pełny tekst piosenki wklejony z pytaniem, o czym jest.
-- **Nie oznaczaj:** dwóch linijek wiersza przytoczonych w rozmowie o poezji.
+- **Nie oznaczaj:** dwóch linijek wiersza przytoczonych w rozmowie o poezji, jeżeli służą omówieniu. Sama długość nie przesądza sprawy w żadną stronę: krótkie przytoczenie bywa niedopuszczalne, a cały drobny utwór bywa dopuszczalny.
 - **Nie oznaczaj:** tekstu, który uczestnik wyraźnie przedstawia jako własny.
-- **Nie oznaczaj:** tekstu wygenerowanego w tej rozmowie przez sztuczną inteligencję.
+- **Nie oznaczaj:** tekstu, który model ułożył w tej rozmowie samodzielnie. Oznacz natomiast fragment, który **wygląda na odtworzony cudzy utwór**, choćby podał go model - źródło wypowiedzi nie rozstrzyga problemu z publikacją.
 
 **R3. Cudzy materiał wgrany do rozmowy.**
 
@@ -135,7 +136,7 @@ Warunek jest jeden: **problem musi być konkretny i wskazany co do miejsca.** �
 
 - **Poglądów.** Zgłoszenie krytyczne wobec sztucznej inteligencji, wobec jej dostawców, wobec sponsorów Nagrody albo wobec organizatora nie podlega oznaczeniu. Niezgoda organizatora z poglądami wyrażonymi w zgłoszeniu nie jest podstawą ograniczenia jego prezentacji.
 - **Tematów trudnych.** Choroba, śmierć, rozstanie, utrata pracy, wiara, polityka, pieniądze - to są tematy, nie zastrzeżenia.
-- **Błędów sztucznej inteligencji.** To, że AI w rozmowie napisała nieprawdę, nie jest zastrzeżeniem prawnym. Rzetelność zgłoszenia ocenia się kryteriami, a nie oznaczeniem.
+- **Błędów sztucznej inteligencji.** Sam błąd AI nie jest podstawą oznaczenia, a rzetelność zgłoszenia ocenia się kryteriami. Oznacz go natomiast, jeżeli powoduje konkretny problem z publikacją - w szczególności gdy nieprawda dotyczy konkretnej, możliwej do rozpoznania osoby.
 - **Niskiej jakości.** Słaba rozmowa, słaby plakat, słaby film to sprawa punktacji.
 - **Języka.** Przekleństwo, dosadność, drwina ani ostry ton nie są zastrzeżeniem.
 - **Użycia narzędzi sztucznej inteligencji.** W plebiscycie filmu jest ono dopuszczalne bez ograniczeń, w plebiscytach piosenki i plakatu podlega regulaminowym granicom, które sprawdza się w ocenie formalnej i w trybie z regulaminu - nie oznaczeniem.
@@ -154,11 +155,13 @@ Oceniasz dalej normalnie. Oznaczenie nie przerywa oceny i nie wymaga od Ciebie �
 
 ## 7. Co się dzieje po oznaczeniu
 
-Organizator rozstrzyga co do zgłoszeń oznaczonych przed dniem ogłoszenia wyników i potwierdza rozstrzygnięcie na liście kontrolnej. Możliwe wyniki: brak podstaw i wpis zostaje bez zmian; kontakt z uczestnikiem; ograniczenie prezentacji wskazanego fragmentu; odstąpienie od publikacji kopii w archiwum. **Żaden z tych wyników nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności.**
+Organizator rozstrzyga co do zgłoszeń oznaczonych przed dniem ogłoszenia wyników i potwierdza rozstrzygnięcie na liście kontrolnej. Możliwe wyniki: brak podstaw i wpis zostaje bez zmian; kontakt z uczestnikiem; ograniczenie prezentacji wskazanego fragmentu; odstąpienie od publikacji kopii w archiwum.
+
+**Samo oznaczenie nie wpływa na punktację.** Ograniczenia publikacji rozstrzyga się w trybie z § 7a regulaminu, a ewentualne odrzucenie zgłoszenia - wyłącznie w trybie z § 6, czyli na podstawach odrzucenia wymienionych w regulaminie, niezależnie od oznaczenia. Oznaczenie może więc doprowadzić do tego, że organizator dostrzeże podstawę odrzucenia, ale nie zastępuje jej i samo w sobie nią nie jest.
 
 ## 8. Gdy nie wiesz, czy oznaczyć
 
-**Oznaczaj.** Oznaczenie nie ma dla uczestnika kosztu: nie obniża punktów, nie wstrzymuje prezentacji i nie pozostawia publicznego śladu, jeżeli okaże się nietrafne. Nieoznaczenie ma koszt realny - problem wychodzi po publikacji.
+**Oznaczaj.** Samo oznaczenie nie obniża punktacji, nie wstrzymuje prezentacji i nie pozostawia publicznego śladu, jeżeli okaże się nietrafne - choć wyjaśnienie sprawy może wymagać od uczestnika odpowiedzi. Nieoznaczenie ma koszt realny - problem wychodzi po publikacji.
 
 Jedno zastrzeżenie: **nie oznaczaj „na wszelki wypadek" całego zgłoszenia.** Oznaczenie bez wskazanego miejsca jest dla organizatora bezużyteczne, bo nie da się go sprawdzić.
 

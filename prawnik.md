@@ -242,13 +242,15 @@ Luka wykryta przy sprawdzaniu scenariusza skrajnego: co się dzieje, gdy Akademi
 
 **Na czym polegała.** § 8 ust. 14 w poprzednim brzmieniu wyznaczał wyłącznie dolną granicę drugiej rundy („nie mniej niż dwadzieścia"). Przy remisie na maksimum każde zgłoszenie ma najwyższą średnią, więc całość naboru kwalifikuje się do oceny przez Kapitułę. § 8 ust. 10b zakazuje przy tym ograniczania liczby przyjmowanych zgłoszeń i odstępowania od przeczytania któregokolwiek z nich, dopuszczając jedynie przesunięcie daty wyników - zawór bezpieczeństwa działa więc na czas, a nie na nakład pracy. Istniejące zabezpieczenia tej awarii nie wykrywają: kotwice z ust. 13 rozpoznają **zmianę** standardu oceniającego w czasie, a nie standard płaski od początku; obowiązkowy przegląd zgłoszeń granicznych zakłada istnienie granicy, której przy pełnym remisie nie ma.
 
-**Co wprowadziliśmy.** Górną granicę drugiej rundy na poziomie stu zgłoszeń (ust. 14), ogłaszaną z góry kolejność rozstrzygania remisów (ust. 14a), ograniczenie udziału najwyższego pasma do jednej piątej partii oceniającego (ust. 14b) oraz kontrolę rozkładu ocen kierującą zdegenerowaną partię do ponownego odczytu (ust. 14c).
+**Co wprowadziliśmy.** Górną granicę drugiej rundy na poziomie stu zgłoszeń (ust. 14), ogłaszaną z góry kolejność rozstrzygania remisów (ust. 14a) oraz kontrolę rozkładu ocen kierującą partię ocenianą bez rozróżniania zgłoszeń do ponownego odczytu (ust. 14b), z mierzalnym progiem: odchylenie standardowe ocen łącznych poniżej 1,0 punktu albo cztery piąte zgłoszeń w tym samym paśmie czteropunktowym.
+
+**Czego nie wprowadziliśmy.** Rozważaliśmy ograniczenie udziału najwyższego pasma do jednej piątej partii oceniającego i **wycofaliśmy je 26 października 2026 roku**, ponieważ uzależniałoby ocenę zgłoszenia od jakości przypadkowo przydzielonych konkurentów, a przy jawnej punktacji przedstawiałoby pozycję w partii jako ocenę jakości rozmowy.
 
 **Pytania do kancelarii:**
 
 - Czy górna granica drugiej rundy jest dopuszczalna w przyrzeczeniu publicznym, skoro zawęża krąg zgłoszeń ocenianych przez Kapitułę, i czy wystarczy jej ogłoszenie przed naborem.
 - Czy sposób rozstrzygania remisów z ust. 14a jest wystarczająco jednoznaczny, by wykluczyć zarzut uznaniowości, w szczególności czy dopuszczalne jest losowanie jako ostatni człon.
-- Czy ograniczenie rozkładu ocen z ust. 14b nie koliduje z obowiązkiem rzetelnej oceny każdego zgłoszenia według ogłoszonych kryteriów - uczestnik może twierdzić, że jego rozmowa otrzymała niższe pasmo wyłącznie dlatego, że limit został wyczerpany przez wcześniej czytane zgłoszenia z tej samej partii.
+- Czy kontrola rozkładu z ust. 14b, która kieruje całą partię do ponownego odczytu po przekroczeniu mierzalnego progu, jest wobec oceniającego i uczestnika wystarczająco jednoznaczna, oraz czy rezygnacja z limitu najwyższego pasma była z punktu widzenia rzetelności oceny krokiem we właściwą stronę.
 - Czy skierowanie partii do ponownego odczytu wymaga poinformowania oceniającego i czy zachowanie pierwszej oceny w zapisie rodzi obowiązki wobec uczestnika, który zażąda wglądu we własne oceny.
 - Jak te przepisy mają się do § 8 ust. 10b: czy przy bardzo dużej liczbie zgłoszeń Organizator nadal nie może ograniczyć naboru, a jedynie przesuwać termin.
 
