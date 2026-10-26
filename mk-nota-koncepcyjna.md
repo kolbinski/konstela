@@ -231,15 +231,27 @@ Trzy uwagi do tego kosztorysu, powiedziane wprost.
 | Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
 | Nagroda publiczności | 3 000 zł |
 | Statuetki i dyplomy dla laureatów | 3 000 zł |
-| Transport oryginałów dziesiątki finalistów w obie strony oraz ubezpieczenie na czas wystawy | do wyceny |
+| Honoraria jury za ocenę zgłoszeń (5 osób, po około 10 godzin) | 14 500 zł |
+| Transport oryginałów dziesiątki finalistów w obie strony | 8 000 zł |
+| Ubezpieczenie prac na czas wystawy | 3 000 zł |
+| Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przyjęcie i zwrot oryginałów, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji - razem 190 godzin | 41 800 zł |
+| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 8 436 zł |
+| **Razem, pozycje rozstrzygnięte** | **171 736 zł** |
 | Realizacja wystawy przy gali: zawieszenie, oświetlenie, opisy prac | do wyceny |
-| Honoraria jury za ocenę zgłoszeń | do wyceny |
-| Kontrola formalna zgłoszeń przez czas naboru, skalowana ich liczbą | do wyceny |
-| Dotarcie do środowiska ilustratorów i szkół artystycznych | do wyceny |
+| Obsługa prawna regulaminu konkursu | do wyceny |
+| Dojazd i nocleg finalistów na galę | do wyceny |
 
-Pozycje rozstrzygnięte wynoszą razem **96 000 zł**. Wycena pozostałych powstanie przed złożeniem jakiegokolwiek wniosku; nie podaję tu liczb wziętych z sufitu.
+Pięć uwag do tego kosztorysu, powiedzianych wprost.
 
-**Dlaczego pula nagród jest tu wyższa niż w plebiscycie piosenki.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w konkursie piosenki jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z rozdziału 10. Zgłoszeniem w konkursie plakatu jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po konkursie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym konkursie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu. Kosztorys nie obejmuje druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa konkursu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w rozdziale 10.
+**Skąd biorą się te liczby.** Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we wszystkich budżetach przedsięwzięcia, a honoraria jury po stawce przyjętej dla Kapituły oceniającej rozmowy, to jest około 290 zł za godzinę. Kontrola formalna jest skalowana liczbą zgłoszeń, przyjętą w całym kosztorysie na 150. Żadna z tych pozycji nie jest kwotą ryczałtową wziętą z oszacowania całości.
+
+**Trzy pozycje pozostają bez kwoty i nie jest to przeoczenie.** Realizacja wystawy zależy od miejsca gali, które nie jest wybrane - z tego samego powodu niewyceniona jest realizacja części artystycznej gali w rozdziale 10. Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam przed zabezpieczeniem finansowania. Dojazd i nocleg finalistów są niewycenione również przy plebiscycie piosenki i rozstrzygnięcie ich wyłącznie w jednym z dwóch konkursów dałoby kosztorys niespójny. Wycena wszystkich trzech powstanie przed złożeniem jakiegokolwiek wniosku.
+
+**Dwie pozycje są oszacowaniem, nie ofertą.** Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu pracach, zastrzegając, że format do 150 cm dłuższego boku przekracza standardowe limity przesyłek i może wymagać transportu dedykowanego. Ubezpieczenie przyjąłem przy sumie deklarowanej rzędu 100 tys. zł dla całej dziesiątki. Honoraria jury są iloczynem pięcioosobowego składu, którego jeszcze nie ma; przy trzech jurorach pozycja wynosi 8 700 zł, przy siedmiu 20 300 zł.
+
+**Dlaczego pula nagród jest tu wyższa niż w plebiscycie piosenki.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w konkursie piosenki jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z rozdziału 10. Zgłoszeniem w konkursie plakatu jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po konkursie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym konkursie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu.
+
+**Czego kosztorys nie obejmuje.** Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa konkursu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w rozdziale 10.
 
 ## 10b. Podcast towarzyszący
 
