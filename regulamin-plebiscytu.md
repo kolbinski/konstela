@@ -12,7 +12,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Środki na nagrody pieniężne, na nagrania studyjne finalistów oraz na realizację części artystycznej gali pochodzą od sponsora plebiscytu. Organizator nie finansuje plebiscytu ze środków własnych.
 
-4. Adresem do korespondencji w sprawach plebiscytu jest plebiscyt.piosenki@konstela.org.
+4. Adresem do korespondencji w sprawach plebiscytu jest kontakt@konstela.org.
 
 ## § 2. Przedmiot plebiscytu
 

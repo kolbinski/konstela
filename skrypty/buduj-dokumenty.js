@@ -37,6 +37,7 @@ const PUBLICZNE = new Set([
   'plebiscyt-rozmowy',
   'plebiscyt-filmu',
   'procedura-moderacji',
+  'regulaminy',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
@@ -74,6 +75,8 @@ const OPISY = {
     'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę antologii Nagrody Konstela.',
   'plebiscyt-filmu':
     'Otwarty konkurs na film o sztucznej inteligencji, od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Zgłoszeniem jest odnośnik do filmu na Twoim kanale; nie ma zakazu użycia AI, jest obowiązek deklaracji.',
+  'regulaminy':
+    'Cztery regulaminy plebiscytów Nagrody Konstela w jednym miejscu: rozmowa, film, piosenka, plakat. Co je łączy i jakie dokumenty im towarzyszą.',
   'procedura-moderacji':
     'Jawna procedura moderacji zgłoszeń w plebiscytach Nagrody Konstela: kiedy oceniający oznacza zastrzeżenie prawne, zamknięta lista rodzajów oznaczeń z przykładami pozytywnymi i negatywnymi, czego nie oznaczamy nigdy i co dzieje się po oznaczeniu.',
   'regulamin-filmu':

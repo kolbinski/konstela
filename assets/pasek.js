@@ -70,7 +70,9 @@
       dodane++;
     }
 
-    if (!dodane) return false;
+    /* Jedna pozycja to nie spis treści - przycisk menu byłby wtedy
+       odnośnikiem do miejsca, w którym czytający już stoi. */
+    if (dodane < 2) return false;
     menu.textContent = '';
     menu.appendChild(fragment);
     przycisk.hidden = false;
@@ -108,6 +110,7 @@
      treści nie przebudowywały menu w trakcie czytania. */
   if (!zbuduj()) {
     przycisk.hidden = true;
+    menu.textContent = '';
     if (window.MutationObserver) {
       var obserwator = new MutationObserver(function () {
         if (zbuduj()) obserwator.disconnect();

@@ -12,7 +12,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3. Środki na nagrody pieniężne, na wystawę i na transport prac pochodzą od sponsora konkursu. Organizator nie finansuje konkursu ze środków własnych.
 
-4. Adresem do korespondencji w sprawach konkursu jest plebiscyt.plakatu@konstela.org.
+4. Adresem do korespondencji w sprawach konkursu jest kontakt@konstela.org.
 
 ## § 2. Przedmiot konkursu
 

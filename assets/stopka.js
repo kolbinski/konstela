@@ -21,6 +21,7 @@
     ['/plebiscyt-piosenki', 'Nagroda Konstela w plebiscycie na piosenkę o sztucznej inteligencji'],
     ['/plebiscyt-plakatu', 'Nagroda Konstela w plebiscycie na plakat o sztucznej inteligencji'],
     ['/dokument/procedura-moderacji', 'Procedura moderacji zgłoszeń'],
+    ['/dokument/regulaminy', 'Regulaminy'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/#partnerzy', 'Dla partnerów'],
   ];

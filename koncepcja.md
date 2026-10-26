@@ -969,3 +969,13 @@ Z menu wypadły trzy odnośniki do podstron plebiscytów, których nie da się z
 **Pozycje podrzędne z nagłówków h3 zostały usunięte** (decyzja z 26.10.2026, po ich wypróbowaniu). Menu buduje się wyłącznie z h2 sekcji. Przy siedemnastu pozycjach podrzędnych z kafli lista przestawała być spisem sekcji i stawała się spisem treści całej strony.
 
 **Na podstronach dokumentów pasek ma tło na całą szerokość strony, a treść w szerokości kolumny tekstu.** Pasek siedzi w body, które ma dopełnienie boczne, więc wychodzi z niego marginesem ujemnym o tej samej wartości - a nie szerokością 100vw, bo vw liczy się razem z paskiem przewijania i na pulpicie dokładałoby poziome przewijanie. Strzałka powrotu stoi dokładnie nad pierwszym znakiem tekstu dokumentu, przycisk menu nad jego prawą krawędzią; sprawdzone przy 390, 768 i 1440 px.
+
+## Adresy, strona Regulaminy, nazwy sekcji (26.10.2026)
+
+**Cztery adresy plebiscytowe tylko na podstronach**: plebiscyt.rozmowy@, plebiscyt.filmu@, plebiscyt.piosenki@, plebiscyt.plakatu@ w sekcjach Kontakt. **W regulaminach wszędzie kontakt@** - decyzja z 26.10.2026, po tym jak najpierw wpisałem tam adresy plebiscytowe. Powód jest praktyczny: regulamin wskazuje adres proceduralny, na który idzie wycofanie zgłoszenia, zgłoszenie błędu odwzorowania kopii i zgłoszenie braku dostępu do telefonu, a te sprawy mają trafiać w jedno miejsce niezależnie od plebiscytu.
+
+**Powstała strona [Regulaminy](/dokument/regulaminy)** z odnośnikami do czterech regulaminów, z jednozdaniowym opisem każdego, z listą sześciu zasad wspólnych dla wszystkich plebiscytów i z odnośnikami do procedury moderacji i polityki prywatności. W stopce nad polityką prywatności.
+
+**Przycisk menu w pasku dokumentów pojawia się od dwóch pozycji.** Dokument z jednym nagłówkiem albo bez nagłówków dostaje pasek bez ikony, bo menu z jedną pozycją prowadziłoby do miejsca, w którym czytający już stoi.
+
+**Nazwy sekcji na stronie głównej**: Czym jest Nagroda Konstela, Kalendarz edycji 2027, Hymn nagrody „Zapytaj inaczej". Menu podnosi je samo, bo buduje się z nagłówków.
