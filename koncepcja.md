@@ -957,3 +957,11 @@ Polityka mówiła dotąd wyłącznie o rozmowach, choć mamy trzy pozostałe ple
 **Drugie stanowisko do obrony:** publikacja nagrania albo filmu przez uczestnika na własnym kanale nie jest przekazaniem danych przez administratora - my przechowujemy odnośnik, nie treść - choć odnośnik prezentujemy na swojej stronie.
 
 **Wyszło przy tym, że regulaminy piosenki i plakatu nie mają w ogóle trybu wycofania zgłoszenia**, choć rozmowa ma go do 29 lutego 2028, a film do 14 dni przed galą. Nie dopisywałem terminów samodzielnie, bo to decyzja, nie uzupełnienie: polityka mówi dziś wprost, że takiego trybu nie ma, a żądania rozpatrujemy indywidualnie. Pozycja numer 3 na liście dla kancelarii.
+
+## Menu w pasku powstaje z nagłówków sekcji (26.10.2026)
+
+Lista pozycji w menu była wpisana na sztywno i po przebudowie strony głównej rozjechała się z treścią: zostały w niej odnośniki do sekcji, których już nie ma, a nie było filmu. Teraz pozycje powstają w przeglądarce ze wszystkich nagłówków `section[id] > h2`, w kolejności ich wystąpienia, a tytuł brany jest ze `span` wewnątrz nagłówka, bo nagłówki mają postać ikona plus span.
+
+**Zasada na przyszłość: dodanie sekcji na stronie głównej nie wymaga już ruszania menu.** Wystarczy, że sekcja ma `id` i nagłówek `h2` - pozycja pojawi się sama. Jeżeli selektor kiedyś przestanie pasować, przycisk menu chowa się zamiast otwierać pustą listę.
+
+Z menu wypadły trzy odnośniki do podstron plebiscytów, których nie da się zbudować z nagłówków strony głównej. Są dostępne z kafli w sekcji Plebiscyty i ze stopki, gdzie stoją wszystkie cztery.

@@ -1021,19 +1021,11 @@
           <span class="burger-ikona" aria-hidden="true"></span>
         </button>
       </div>
-      <nav id="menu" class="menu" aria-label="Sekcje strony" hidden>
-        <a href="#czym">Czym jest Konstela</a>
-        <a href="#plebiscyty">Plebiscyty</a>
-        <a href="/plebiscyt-rozmowy">Plebiscyt na rozmowę ze sztuczną inteligencją</a>
-        <a href="/plebiscyt-piosenki">Plebiscyt na piosenkę o sztucznej inteligencji</a>
-        <a href="/plebiscyt-plakatu">Plebiscyt na plakat o sztucznej inteligencji</a>
-        <a href="#kalendarz">Kalendarz pierwszej edycji</a>
-        <a href="#antologia">Co zostaje po edycji</a>
-        <a href="#hymn">Hymn &bdquo;Zapytaj inaczej&rdquo;</a>
-        <a href="#gala">Gala rozdania nagród</a>
-        <a href="#kto-za-tym-stoi">Kto za tym stoi</a>
-        <a href="#partnerzy">Dla partnerów</a>
-      </nav>
+      <!-- Pozycje menu powstają ze wszystkich nagłówków h2 sekcji, w kolejności
+           ich wystąpienia na stronie. Lista wpisana na sztywno rozjeżdżała się
+           z treścią przy każdej zmianie sekcji, a rozjechanie widać dopiero
+           wtedy, gdy ktoś kliknie odnośnik prowadzący w nieistniejące miejsce. -->
+      <nav id="menu" class="menu" aria-label="Sekcje strony" hidden></nav>
     </div>
 
     <div class="wrap" id="top">
@@ -1716,12 +1708,39 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=20261026w" defer></script>
+    <script src="/assets/stopka.js?v=20261026x" defer></script>
     <script>
       (function () {
         var przycisk = document.getElementById('burger');
         var menu = document.getElementById('menu');
         if (!przycisk || !menu) return;
+
+        /* Budowa pozycji menu z nagłówków sekcji. Nagłówek ma postać
+           ikona + <span>tytuł</span>, więc bierzemy tekst ze span, a gdyby
+           kiedyś go nie było - z całego nagłówka. */
+        (function zbudujMenu() {
+          var naglowki = document.querySelectorAll('section[id] > h2');
+          var fragment = document.createDocumentFragment();
+          var dodane = 0;
+          for (var i = 0; i < naglowki.length; i++) {
+            var h2 = naglowki[i];
+            var sekcja = h2.parentElement;
+            var tytul = (h2.querySelector('span') || h2).textContent.replace(/\s+/g, ' ').trim();
+            if (!sekcja.id || !tytul) continue;
+            var a = document.createElement('a');
+            a.href = '#' + sekcja.id;
+            a.textContent = tytul;
+            fragment.appendChild(a);
+            dodane++;
+          }
+          /* Gdyby selektor kiedyś przestał pasować, zostawiamy przycisk
+             ukryty zamiast otwierać puste menu. */
+          if (!dodane) {
+            przycisk.hidden = true;
+            return;
+          }
+          menu.appendChild(fragment);
+        })();
 
         function ustaw(otwarte) {
           przycisk.setAttribute('aria-expanded', otwarte ? 'true' : 'false');
