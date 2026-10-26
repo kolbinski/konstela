@@ -14,12 +14,11 @@
  */
 
 :root.czytelnie {
-  /* Wielkość pisma dla tekstu zwykłego. Ta sama, co akapit wprowadzający na
-     stronie głównej - czyli największy tekst ciągły, jaki serwis ma dziś w
-     treści. Nie skalujemy podstawy rem, bo wtedy rosłyby też pasek i
-     nagłówki, które są już duże. */
-  --czytelnie-tekst: 1.25rem;
-  --czytelnie-tekst-maly: 1.125rem;
+  /* Wielkość pisma dla tekstu zwykłego: 30 px, czyli druk wielkoformatowy.
+     Nie skalujemy podstawy rem, bo wtedy rosłyby też pasek i nagłówki,
+     które są już duże. Zmiana tej jednej wartości zmienia cały tryb. */
+  --czytelnie-tekst: 1.875rem;
+  --czytelnie-tekst-maly: 1.625rem;
 
   /* Barwy wspólne dla obu zestawów zmiennych - strony głównej i podstron. */
   --paper: #ffffff !important;
@@ -52,6 +51,12 @@
   background: #ffffff !important;
   color: #000000 !important;
   font-size: var(--czytelnie-tekst) !important;
+  /* Przy tej wielkości pisma długie słowa - "współistnienie", adresy
+     internetowe, nazwy paragrafów - bywają szersze niż kolumna na telefonie.
+     Łamiemy je, zamiast wypuszczać poza ekran. */
+  overflow-wrap: break-word !important;
+  word-break: normal !important;
+  hyphens: auto !important;
 }
 
 /* Tekst ciągły i wszystko, co w zwykłym trybie jest od niego mniejsze:
@@ -149,6 +154,57 @@
 }
 :root.czytelnie .menu a {
   color: #0000cc !important;
+}
+
+/* Tabele przy tej wielkości pisma nie mieszczą się na telefonie: w
+   regulaminach w komórkach stoją całe zdania, więc kolumn nie da się zwęzić,
+   a przewijanie w poziomie pokazywałoby jedną kolumnę naraz i chowało resztę
+   poza krawędzią. Na wąskim ekranie rozkładamy więc tabelę na wiersze
+   ułożone jeden pod drugim: nagłówek kolumn znika, a każdy wiersz staje się
+   blokiem, w którym pierwsza komórka jest tytułem, a pozostałe stoją pod nią.
+   Na szerokim ekranie tabela zostaje tabelą. */
+@media (max-width: 46rem) {
+  :root.czytelnie table,
+  :root.czytelnie tbody,
+  :root.czytelnie tr,
+  :root.czytelnie td {
+    display: block !important;
+    width: auto !important;
+    max-width: 100% !important;
+  }
+  :root.czytelnie thead {
+    /* Ukryte dla oka, dostępne dla czytnika ekranu. */
+    position: absolute !important;
+    width: 1px !important;
+    height: 1px !important;
+    overflow: hidden !important;
+    clip: rect(0 0 0 0) !important;
+    white-space: nowrap !important;
+  }
+  :root.czytelnie tr {
+    border: 2px solid #000000 !important;
+    padding: 0.75rem 1rem !important;
+    margin-bottom: 1rem !important;
+  }
+  :root.czytelnie td {
+    border: 0 !important;
+    padding: 0.25rem 0 !important;
+    text-align: left !important;
+  }
+  :root.czytelnie td:first-child {
+    font-weight: 700 !important;
+  }
+  :root.czytelnie td:empty {
+    display: none !important;
+  }
+}
+@media (min-width: 46.0625rem) {
+  :root.czytelnie table {
+    display: block !important;
+    overflow-x: auto !important;
+    max-width: 100% !important;
+    -webkit-overflow-scrolling: touch;
+  }
 }
 
 /* Ramki, linie i tła kart: czarna kreska na białym, bez wypełnień. */

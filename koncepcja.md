@@ -1006,7 +1006,7 @@ Po poprawce ukrywającej przycisk menu na stronie 404 przycisk nadal był widocz
 
 Przycisk w pasku, przed przyciskiem menu, ikona dwóch liter A - mała i duża, konwencja znana z serwisów prasowych. Klik przełącza klasę `czytelnie` na `<html>` i zapisuje flagę w localStorage pod kluczem `konstela-czytelnosc`.
 
-**Co robi tryb:** tekst ciągły powiększony do 1,25 rem, czyli do wielkości akapitu wprowadzającego na stronie głównej - największego tekstu ciągłego, jaki serwis ma w treści. Do tego białe tło, czarny tekst, niebieskie odnośniki i pasek odwrócony: czarne tło, biała treść.
+**Co robi tryb:** tekst ciągły powiększony do **30 px** (1,875 rem), czyli do druku wielkoformatowego. Wartość przeszła przez 1,25 rem, zanim stanęła na 30 px; zmiana jednej zmiennej `--czytelnie-tekst` przestawia cały tryb. Do tego białe tło, czarny tekst, niebieskie odnośniki i pasek odwrócony: czarne tło, biała treść.
 
 **Nie skalujemy podstawy rem** (pierwsza wersja miała `font-size: 125%` na korzeniu). Skalowanie podstawy powiększało wszystko naraz, więc rosły też nagłówki i pasek, które są już duże - a napis w pasku łamał się wtedy na dwie linie. Teraz rośnie wyłącznie to, co w zwykłym trybie jest mniejsze od akapitu wprowadzającego: akapity, listy, tabele, pola formularzy i pozycje menu idą na 1,25 rem, drobne podpisy na 1,125 rem, a nagłówki i pasek zostają bez zmian.
 
@@ -1019,3 +1019,9 @@ Przycisk w pasku, przed przyciskiem menu, ikona dwóch liter A - mała i duża, 
 3. **Zdjęć i reprodukcji nie odbarwiamy.** Czarno-biały jest układ, nie treść: plakat w odcieniach szarości byłby fałszywy wobec autora. Czarne stają się rysunki liniowe, bo rysują się kolorem tekstu.
 
 **W polityce prywatności dopisany akapit o tym zapisie**: zostaje na urządzeniu, nie jest wysyłany na serwer, nie służy do rozpoznawania odwiedzających, a wyłączenie trybu go kasuje. Nie są to pliki cookies i nie wymagają zgody, bo zapis jest niezbędny do wykonania funkcji, o którą poprosił sam odwiedzający.
+
+### Tabele w trybie czytelności
+
+Przy 30 px tabela regulaminu nie mieści się na telefonie: w komórkach stoją całe zdania, więc kolumn nie da się zwęzić. Pierwsze podejście - przewijanie tabeli w poziomie - dało widok, w którym widać jedną kolumnę, a reszta jest poza krawędzią; czyli dokładnie to, czego ten tryb ma oszczędzić.
+
+**Na ekranie węższym niż 46 rem tabela rozkłada się na wiersze ułożone jeden pod drugim.** Nagłówek kolumn znika z oka, ale zostaje dla czytnika ekranu; każdy wiersz jest blokiem w ramce, pierwsza komórka jest jego tytułem, pozostałe stoją pod nią. Na szerokim ekranie tabela zostaje tabelą. Sprawdzone na karcie oceny z regulaminu filmu: przy 390 i przy 1200 px zero przewijania w poziomie.
