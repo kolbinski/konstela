@@ -32,7 +32,7 @@ Sprawdzian od strony pieniędzy: honoraria Kapituły 69 500 zł, przy pięciu os
 
 ## Archiwum odcięte od Kapituły
 
-Dziś archiwum = runda druga = to, co czyta Kapituła. Przy tej strukturze trzeba to rozdzielić: **do Kapituły idzie 60, do archiwum wchodzi wszystko, co przeszło rundę zbieżności** (~400). Powód: archiwum z sześćdziesięcioma pozycjami nie jest publicznym zbiorem dokumentującym rok rozmów Polaków z AI, tylko długą listą finalistów. Każda rozmowa ze stopnia 2 ma dwa odczyty, więc warunek z § 11 ust. 11 lit. h jest spełniony z definicji.
+**Nieaktualne od 26.10.2026:** archiwum obejmuje dziś wszystkie zgłoszenia po ocenie formalnej, więc nie równa się już rundzie drugiej i nie wymaga rozdzielania opisanego poniżej. Akapit zostaje jako zapis rozumowania. Dawniej: archiwum = runda druga = to, co czyta Kapituła. Przy tej strukturze trzeba to rozdzielić: **do Kapituły idzie 60, do archiwum wchodzi wszystko, co przeszło rundę zbieżności** (~400). Powód: archiwum z sześćdziesięcioma pozycjami nie jest publicznym zbiorem dokumentującym rok rozmów Polaków z AI, tylko długą listą finalistów. Każda rozmowa ze stopnia 2 ma dwa odczyty, więc warunek z § 11 ust. 11 lit. h jest spełniony z definicji.
 
 ## Dwie rzeczy do rozstrzygnięcia
 
@@ -40,7 +40,7 @@ Dziś archiwum = runda druga = to, co czyta Kapituła. Przy tej strukturze trzeb
 
 - W tej strukturze ma naturalne, **ograniczone** miejsce: w zespole zbieżności, czyli najwyżej 20 kart wchodzących w sześćdziesiątkę. Nie zalewa Kapituły.
 - Usunięcie ma cenę: karta jest dziś **jedynym mechanizmem przeciw zgodnemu uśrednieniu**, a cała teza Nagrody brzmi, że rzecz wartościowa bywa niepodobna do reszty. Zabezpieczenia z § 8 ust. 10a działają przeciw przeoczeniu, nie przeciw uśrednieniu. Przy usunięciu trzeba podnieść odsetek audytu losowego.
-- Karta jest wpleciona w trzy inne miejsca: § 8 ust. 10a lit. e, § 11 ust. 11 lit. h, § 13 ust. 5. To nie jest jedno skreślenie.
+- Karta jest wpleciona w trzy inne miejsca: § 8 ust. 10a lit. e, § 13 ust. 5 (dawne § 11 ust. 11 lit. h nie istnieje od przepisania archiwum 26.10.2026). To nie jest jedno skreślenie.
 
 **2. Sposób ogłoszenia progu.** § 8 ust. 10a lit. a każe ogłaszać próg przed pierwszym ocenianiem, nie po obejrzeniu wyników. „Czterysta najwyżej ocenionych" jest ogłoszeniem **metody**, nie liczby punktowej - przepis to dopuszcza, bo mówi o progu „albo jednoznacznej metodzie jego wyznaczenia". Trzeba dopisać regułę na remis przy granicy: wszystkie zgłoszenia z wynikiem równym ostatniemu zakwalifikowanemu wchodzą, nawet jeśli przekroczy to czterysta.
 

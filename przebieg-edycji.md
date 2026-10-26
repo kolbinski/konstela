@@ -82,9 +82,9 @@ Werdykt, wypłata nagród, rozliczenie podatku, wręczenie medalu i dyplomów.
 
 **Antologia:** 10 rozmów, pełny dialog bez montażu, z komentarzem wprowadzającym, komentarzami na marginesie w konkretnych momentach i komentarzem końcowym. **Komentarze pisze Kapituła**, każdy członek do przydzielonych sobie rozmów, podpisane nazwiskiem. Organizator redaguje, ujednolica i składa; czyta więc te 10 uważnie, ale nie tworzy komentarza od zera.
 
-**Archiwum rozmów:** tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę. Odrębna zgoda nie jest potrzebna, bo publikacja wynika z licencji udzielonej przy zgłoszeniu. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
+**Archiwum rozmów:** wszystkie zgłoszenia, które przeszły ocenę formalną i były prezentowane w czytelni; zastrzeżenia prawne oznaczają oceniający przy czytaniu, a Organizator rozstrzyga wyłącznie co do oznaczonych. Dawny warunek dwóch odczytów przed publikacją nie obowiązuje. Dawniej: tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę. Odrębna zgoda nie jest potrzebna, bo publikacja wynika z licencji udzielonej przy zgłoszeniu. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
 
-**Rytm publikacji:** całość udostępniana od dnia ogłoszenia wyników, a następnie poszczególne rozmowy porcjami przez rok następny, w rytmie dwutygodniowym, z komentarzem - żeby strona żyła w trakcie kolejnego naboru. Kolejność nie wynika z punktacji.
+**Rytm publikacji:** archiwum udostępniane w całości od dnia ogłoszenia wyników. Publikacja porcjami przez rok została wycofana razem z przepisaniem § 11 ust. 11.
 
 ## 13. Jawność przebiegu
 
@@ -105,4 +105,4 @@ Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w termi
 | Runda druga | 0 | czyta Kapituła; Organizator nie ocenia merytorycznie |
 | Postępowania szczególne | pojedyncze | tylko te, co do których przyszedł sygnał |
 | Antologia | 10 | redaguje komentarze Kapituły i składa tom |
-| Archiwum rozmów | 0 | obejmuje tylko zgłoszenia z rundy drugiej, już przeczytane |
+| Archiwum rozmów | 0 | obejmuje wszystkie zgłoszenia po ocenie formalnej, z kopią rozmowy i odnośnikiem |
