@@ -29,6 +29,19 @@
     return korzen.classList.contains('czytelnie');
   }
 
+  /* Stopka siedzi w shadow DOM, którego arkusz strony nie dosięga. Podajemy
+     jej tryb atrybutem; style są w assets/stopka.js. */
+  function oznaczStopke() {
+    var stopki = document.querySelectorAll('konstela-stopka');
+    for (var i = 0; i < stopki.length; i++) {
+      if (wlaczony()) {
+        stopki[i].setAttribute('data-czytelnie', '');
+      } else {
+        stopki[i].removeAttribute('data-czytelnie');
+      }
+    }
+  }
+
   function opisz() {
     przycisk.setAttribute('aria-pressed', wlaczony() ? 'true' : 'false');
     przycisk.setAttribute(
@@ -38,11 +51,13 @@
   }
 
   opisz();
+  oznaczStopke();
 
   przycisk.addEventListener('click', function () {
     var nowy = !wlaczony();
     korzen.classList.toggle('czytelnie', nowy);
     opisz();
+    oznaczStopke();
     try {
       if (nowy) {
         window.localStorage.setItem(KLUCZ, '1');

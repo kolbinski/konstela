@@ -53,6 +53,15 @@
     'nav a { line-height: 1.25; }',
     'a { color: var(--brass, #8a6a23); text-decoration: none; font-weight: 400; }',
     'a:hover, a:focus-visible { text-decoration: underline; }',
+    /* Tryb czytelności. Stopka siedzi w shadow DOM, więc arkusz strony jej
+       nie dosięga - assets/czytelnosc.js ustawia tu atrybut na elemencie,
+       a te reguły robią resztę. Wielkość pisma taka sama jak w treści. */
+    ':host([data-czytelnie]) .belka {',
+    '  color: #000; font-size: 1.875rem; line-height: 1.5;',
+    '  border-top-color: #000;',
+    '}',
+    ':host([data-czytelnie]) a { color: #0000cc; text-decoration: underline; }',
+    ':host([data-czytelnie]) a:visited { color: #551a8b; }',
     '@media print {',
     '  .belka { border-color: #ccc; color: #000; }',
     '  a { color: #000; }',

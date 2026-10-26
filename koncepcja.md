@@ -1025,3 +1025,13 @@ Przycisk w pasku, przed przyciskiem menu, ikona dwóch liter A - mała i duża, 
 Przy 30 px tabela regulaminu nie mieści się na telefonie: w komórkach stoją całe zdania, więc kolumn nie da się zwęzić. Pierwsze podejście - przewijanie tabeli w poziomie - dało widok, w którym widać jedną kolumnę, a reszta jest poza krawędzią; czyli dokładnie to, czego ten tryb ma oszczędzić.
 
 **Na ekranie węższym niż 46 rem tabela rozkłada się na wiersze ułożone jeden pod drugim.** Nagłówek kolumn znika z oka, ale zostaje dla czytnika ekranu; każdy wiersz jest blokiem w ramce, pierwsza komórka jest jego tytułem, pozostałe stoją pod nią. Na szerokim ekranie tabela zostaje tabelą. Sprawdzone na karcie oceny z regulaminu filmu: przy 390 i przy 1200 px zero przewijania w poziomie.
+
+### Nic mniejszego niż 30 px - i jak to sprawdzamy
+
+Po ustawieniu tekstu na 30 px okazało się, że mniejsze zostały całe grupy elementów, o których nie pomyślałem: nagłówki h3 w kaflach (18,4 px), podpisy pod pozycjami kalendarza, oznaczenia nad nagłówkami w stopce hymnu (13,6 px) i cała **stopka, która siedzi w shadow DOM** - arkusz strony jej nie dosięga, więc miała dalej 17 px.
+
+**Rozwiązanie ma dwie części.** W treści strony obowiązuje teraz reguła ogólna: wszystko poza paskiem dostaje wielkość tekstu ciągłego, a nagłówki dostają osobno rozmiary większe, żeby hierarchia nie zniknęła. Dzięki temu element, o którym nikt nie pomyślał, jest duży z urzędu, a nie dlatego, że ktoś go wypisał. Stopce tryb podaje się atrybutem `data-czytelnie` ustawianym przez `czytelnosc.js`, a style siedzą w `stopka.js`, bo tylko one wchodzą do shadow DOM.
+
+**Sprawdzanie jest automatyczne i wyczerpujące**, bo oglądanie stron po kolei tego nie wyłapie. Skrypt `audyt2.js` wchodzi na **55 stron** - wszystkie dokumenty, cztery podstrony plebiscytów, stronę główną, 404 i podgląd arkusza - przy **czterech szerokościach okna** (360, 390, 768, 1200), schodzi po drzewie łącznie z shadow DOM, liczy wielkość pisma każdego elementu, który sam zawiera tekst, i wypisuje wszystko poniżej 30 px. To 220 sprawdzeń na przebieg.
+
+**Wynik końcowy: zero elementów mniejszych niż 30 px.** Zostało jedno miejsce z przewijaniem w poziomie: `oferta-dla-wydawcy` przy 360 px wystaje o 11 px przez adres poczty w komórce tabeli. Dokument jest wewnętrzny i nieindeksowany, więc zostawiam to świadomie, a nie przez przeoczenie.

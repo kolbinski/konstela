@@ -18,7 +18,6 @@
      Nie skalujemy podstawy rem, bo wtedy rosłyby też pasek i nagłówki,
      które są już duże. Zmiana tej jednej wartości zmienia cały tryb. */
   --czytelnie-tekst: 1.875rem;
-  --czytelnie-tekst-maly: 1.625rem;
 
   /* Barwy wspólne dla obu zestawów zmiennych - strony głównej i podstron. */
   --paper: #ffffff !important;
@@ -79,15 +78,27 @@
   line-height: 1.6 !important;
 }
 
-/* Drobne podpisy - metryki pod pozycjami kalendarza, przypisy, oznaczenia -
-   zostają odrobinę mniejsze od tekstu ciągłego, żeby hierarchia nie znikła,
-   ale i tak rosną z dzisiejszych 0,8 rem. */
-:root.czytelnie small,
-:root.czytelnie figcaption,
-:root.czytelnie .tag,
-:root.czytelnie sup,
-:root.czytelnie sub {
-  font-size: var(--czytelnie-tekst-maly) !important;
+/* Nic mniejszego niż tekst ciągły. Reguła obejmuje wszystko w treści strony
+   - także drobne podpisy, metryki pod pozycjami kalendarza, oznaczenia nad
+   nagłówkami i każdy element, o którym nikt nie pomyślał - z jednym
+   wyjątkiem: pasek u góry zostaje w swojej wielkości, bo ma być kotwicą, a
+   nie najgłośniejszym elementem strony. Nagłówki dostają niżej rozmiary
+   większe od tekstu, żeby hierarchia nie zniknęła. */
+:root.czytelnie body *:not(.topbar):not(.topbar *) {
+  font-size: var(--czytelnie-tekst) !important;
+}
+
+:root.czytelnie h1:not(.topbar *) {
+  font-size: 2.75rem !important;
+}
+:root.czytelnie h2:not(.topbar *) {
+  font-size: 2.375rem !important;
+}
+:root.czytelnie h3:not(.topbar *),
+:root.czytelnie h4:not(.topbar *),
+:root.czytelnie h5:not(.topbar *),
+:root.czytelnie h6:not(.topbar *) {
+  font-size: 2.0625rem !important;
 }
 
 /* Pasek zostaje w swojej wielkości: ma być kotwicą, a nie najgłośniejszym
@@ -124,6 +135,10 @@
 :root.czytelnie a {
   color: #0000cc !important;
   text-decoration: underline !important;
+  /* Adresy internetowe wpisane w treść bywają przy 30 px szersze niż ekran.
+     Łamiemy je w dowolnym miejscu - czytelność adresu jest tu mniej warta
+     niż to, żeby strona nie jechała w bok. */
+  overflow-wrap: anywhere !important;
 }
 :root.czytelnie a:visited {
   color: #551a8b !important;
@@ -194,6 +209,11 @@
   :root.czytelnie td:first-child {
     font-weight: 700 !important;
   }
+  :root.czytelnie td,
+  :root.czytelnie th {
+    /* Adres poczty albo długi odnośnik w komórce nie może rozpychać wiersza. */
+    overflow-wrap: anywhere !important;
+  }
   :root.czytelnie td:empty {
     display: none !important;
   }
@@ -236,6 +256,16 @@
   outline: 2px solid #ffffff;
   outline-offset: 1px;
   border-radius: 3px;
+}
+
+/* Bloki kodu i wiersze poleceń mają stałą szerokość znaków, więc przy 30 px
+   nie zmieszczą się na telefonie - przewijamy sam blok. */
+:root.czytelnie pre {
+  overflow-x: auto !important;
+  max-width: 100% !important;
+}
+:root.czytelnie code {
+  overflow-wrap: anywhere !important;
 }
 
 @media print {
