@@ -93,7 +93,27 @@
 
 3. Film musi być dostępny publicznie, bez opłaty i bez konieczności zakładania konta.
 
-4. Zgłoszenie zostaje odrzucone w ocenie formalnej, jeżeli nie spełnia wymogów z ust. 1-3, z § 3a ust. 1 i 2 albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni.
+4. **Zgłoszeniem nie może być film promocyjny ani instruktaż.** Odrzuceniu podlega:
+
+   a) **film, którego celem jest promocja produktu, usługi, marki albo podmiotu** - w szczególności film zamówiony albo sfinansowany przez podmiot w nim promowany, film przedstawiający jedno rozwiązanie jako lepsze od innych bez pokazania podstaw tej oceny oraz film zakończony zachętą do skorzystania z produktu lub usługi;
+
+   b) **film będący w całości instruktażem obsługi narzędzia** - pokazem, jak wykonać w nim czynności, bez tezy o sztucznej inteligencji i jej roli w świecie.
+
+4a. **Czego ust. 4 nie wyklucza**, i Organizator rozstrzyga wątpliwość na korzyść Uczestnika:
+
+   a) filmu dokumentalnego o tym, jak ludzie korzystają z narzędzi sztucznej inteligencji, także gdy widać w nim konkretne produkty i sposób ich obsługi;
+
+   b) filmu krytycznego wobec produktu, usługi albo podmiotu;
+
+   c) filmu, w którym narzędzie zostało użyte do jego powstania i jest w nim nazwane (§ 6);
+
+   d) filmu zrealizowanego z pieniędzy publicznych, grantu, zbiórki albo mecenatu, jeżeli finansujący nie jest w filmie promowany;
+
+   e) filmu zawierającego fragment wyjaśniający działanie narzędzia, jeżeli służy on tezie filmu, a nie jest jego całością.
+
+4b. Odrzucenie na podstawie ust. 4 wymaga **pisemnego wskazania, która z podstaw zachodzi i z czego to wynika**; Uczestnik może przedstawić stanowisko w terminie nie krótszym niż 7 dni. Podstawy tej nie stosuje się dlatego, że film podoba się Organizatorowi mniej niż inne, ani dlatego, że jest przychylny albo nieprzychylny wobec sztucznej inteligencji.
+
+5. Zgłoszenie zostaje odrzucone w ocenie formalnej, jeżeli nie spełnia wymogów z ust. 1-4, z § 3a ust. 1 i 2 albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni. Podstawy z ust. 4 nie da się uzupełnić.
 
 ## § 6. Narzędzia sztucznej inteligencji: deklaracja bez zakazu
 
@@ -365,5 +385,6 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 6. **Termin wycofania zgłoszenia (§ 13)** - skuteczność wobec konsumenta.
 6a. **Wyłączenie z § 3a ust. 2** - czy wymóg niezgłaszania filmu do innych konkursów do dnia gali, przy jednoczesnym obowiązku jego publikacji, jest wobec konsumenta wystarczająco jednoznaczny i czy nie jest postanowieniem niedozwolonym; oraz jak traktować film zgłoszony gdzie indziej przed otwarciem naszego naboru.
 7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy odnośniku prezentowanym na stronie Nagrody.
-8. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** - czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
-9. **Wersja podlegająca ocenie (§ 11 ust. 6)** - skuteczność zastrzeżenia przy braku kopii archiwalnej po stronie Organizatora oraz miara "zmiany w stopniu istotnym".
+8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** - czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
+9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** - czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
+10. **Wersja podlegająca ocenie (§ 11 ust. 6)** - skuteczność zastrzeżenia przy braku kopii archiwalnej po stronie Organizatora oraz miara "zmiany w stopniu istotnym".

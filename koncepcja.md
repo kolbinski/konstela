@@ -1069,3 +1069,11 @@ Po trzech poprawkach nagłówek sekcji na stronie głównej nadal wyglądał mni
 **Wniosek do audytu: mierzymy element, który zawiera własny węzeł tekstowy, a nie ten, który ma selektor.** Skrypt audytu robi to od początku, dlatego nie zgłaszał błędu - 30 px mieściło się w progu. Gdyby próg brzmiał "nagłówek musi być większy od tekstu", wyszłoby to od razu.
 
 Dziecko nagłówka dziedziczy teraz jego wielkość, grubość i interlinię. **Odnośniki odwiedzone są w tym trybie niebieskie, nie fioletowe** - kolor ma znaczyć jedno: "tu da się kliknąć".
+
+### Film promocyjny i instruktaż odpadają w ocenie formalnej (26.10.2026)
+
+W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest konkursem na reklamę, materiał szkoleniowy ani prezentację możliwości narzędzi. Recenzent słusznie zauważył, że nie wiadomo, czy to deklaracja, czy podstawa odrzucenia - a przy drugim odczytaniu organizator dostawał prawo odrzucić film po obejrzeniu, nazywając go materiałem szkoleniowym.
+
+**Decyzja: to ma być podstawa odrzucenia**, więc stoi teraz w § 5 jako wymóg formalny, nazwany konkretnie. Odpada film, którego celem jest promocja produktu, usługi, marki albo podmiotu - w szczególności zamówiony lub sfinansowany przez podmiot promowany - oraz film będący w całości instruktażem obsługi narzędzia, bez tezy o sztucznej inteligencji.
+
+**Do przepisu dopisana jest lista tego, czego nie wyklucza**, bo bez niej granica byłaby uznaniowa: dokument o tym, jak ludzie korzystają z AI, choćby widać w nim produkty i sposób obsługi; film krytyczny wobec produktu; film, w którym narzędzie użyte do produkcji jest nazwane; film z grantu, zbiórki albo mecenatu, jeżeli finansujący nie jest promowany; fragment wyjaśniający działanie narzędzia, jeżeli służy tezie. Wątpliwość rozstrzyga się na korzyść uczestnika, odrzucenie wymaga pisemnego wskazania podstawy, a uczestnik ma co najmniej 7 dni na stanowisko. Podstawy tej nie stosuje się dlatego, że film jest przychylny albo nieprzychylny wobec AI.

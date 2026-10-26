@@ -43,6 +43,8 @@ Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy n
 
 **Język.** Dialogi i narracja po polsku albo z polskimi napisami. Film bez warstwy słownej jest jak najbardziej dopuszczalny.
 
+**Czego nie przyjmiemy: filmu promocyjnego i instruktażu.** Odpada film, którego celem jest promocja produktu, usługi albo marki - zwłaszcza zamówiony lub sfinansowany przez promowany podmiot - oraz film będący w całości pokazem, jak obsługiwać narzędzie. **Nie odpada** natomiast dokument o tym, jak ludzie korzystają z AI, choćby było w nim widać konkretne produkty i sposób ich obsługi, film krytyczny wobec produktu, film zrobiony za grant albo ze zbiórki ani film, w którym fragment wyjaśnia działanie narzędzia, bo służy to tezie. Wątpliwość rozstrzygamy na Twoją korzyść, a odrzucenie dostajesz na piśmie, z uzasadnieniem i z terminem na odpowiedź.
+
 **Jedno zgłoszenie na numer telefonu**, potwierdzane kodem z SMS.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak możesz się zgłosić</span>
