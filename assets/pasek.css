@@ -72,15 +72,34 @@
   gap: 0.6rem;
   min-width: 0;
 }
+/* Strzałka powrotu jest rysowana jako SVG, a nie znakiem ←. Znak zależy od
+   kroju pisma: w pasku brakowało go w kroju monospace, więc albo nie było go
+   widać, albo przeglądarka podstawiała zastępczy o innej linii pisma - i
+   strzałka siedziała pionowo niżej niż napis obok. SVG ma stałe wymiary i
+   wyrównuje się do środka razem z napisem. */
 .topbar a.back {
   color: var(--bar-fg);
   text-decoration: none;
-  font-size: 1.1rem;
-  line-height: 1;
+  display: inline-flex;
+  align-items: center;
   opacity: 0.9;
+  /* Pole dotyku szersze niż sama strzałka, ale bez przesuwania napisu:
+     margines ujemny po lewej zdejmuje dopełnienie z krawędzi kolumny. */
+  padding: 0.35rem 0.25rem;
+  margin-left: -0.25rem;
+}
+.topbar a.back svg {
+  display: block;
+  width: 1.1rem;
+  height: 1.1rem;
 }
 .topbar a.back:hover {
   opacity: 1;
+}
+.topbar a.back:focus-visible {
+  outline: 2px solid var(--bar-fg);
+  outline-offset: 2px;
+  border-radius: 2px;
 }
 .topbar a.brand {
   font-family: var(--mono);
