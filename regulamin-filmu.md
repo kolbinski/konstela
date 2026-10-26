@@ -6,7 +6,7 @@
 
 1. Organizatorem plebiscytu na film o sztucznej inteligencji ("Plebiscyt") jest fundacja powołana wyłącznie w celu prowadzenia Nagrody Konstela, wpisana do Krajowego Rejestru Sądowego ("Organizator"). Fundacja zostaje powołana i wpisana do rejestru przed otwarciem naboru.
 
-2. Kontakt w sprawach Plebiscytu: kontakt@konstela.org.
+2. Adresem do korespondencji w sprawach Plebiscytu jest plebiscyt.filmu@konstela.org.
 
 3. Plebiscyt nie jest grą losową, loterią fantową ani zakładem wzajemnym w rozumieniu ustawy z dnia 19 listopada 2009 r. o grach hazardowych. Wynik zależy wyłącznie od oceny merytorycznej jury.
 

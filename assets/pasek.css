@@ -84,7 +84,8 @@
 }
 .topbar a.brand {
   font-family: var(--mono);
-  font-size: 0.7rem;
+  font-size: 0.78rem;
+  font-weight: 600;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--bar-fg);

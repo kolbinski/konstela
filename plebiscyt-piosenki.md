@@ -229,7 +229,7 @@ I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rze
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3.5 6.5 8.5 6 8.5-6"/></svg><span>Kontakt</span>
 
-Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt@konstela.org**.
+Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.piosenki@konstela.org**. Adres prowadzi wprost do tego plebiscytu, więc Twoje pytanie nie przechodzi przez skrzynkę ogólną.
 
 Napisz, jeśli:
 

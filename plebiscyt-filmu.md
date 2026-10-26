@@ -115,6 +115,6 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż pięć, mo�
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5.5" width="18" height="13" rx="2"/><path d="m3.6 6.8 8.4 6 8.4-6"/></svg><span>Kontakt</span>
 
-Pytania, wątpliwości, zgłoszenie zainteresowania naborem: **kontakt@konstela.org**.
+Pytania, wątpliwości, zgłoszenie zainteresowania naborem: **plebiscyt.filmu@konstela.org**. Adres prowadzi wprost do tego plebiscytu, więc Twoje pytanie nie przechodzi przez skrzynkę ogólną.
 
 Jeśli prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury i widzisz tu coś dla swoich ludzi - napisz. Najbardziej potrzebujemy dziś dwóch rzeczy: sponsora puli nagród i sponsora Akademii filmu.
