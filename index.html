@@ -488,6 +488,18 @@
         z-index: 20;
         background: var(--bar-bg);
         color: var(--bar-fg);
+        transition: transform 0.25s ease;
+      }
+      /* Chowanie przy przewijaniu w dół, powrót przy przewijaniu w górę.
+         Przesuwamy pasek, a nie zmieniamy position - dzięki temu układ
+         strony się nie przeskakuje, a powrót jest płynny. */
+      .topbar.schowany {
+        transform: translateY(-100%);
+      }
+      @media (prefers-reduced-motion: reduce) {
+        .topbar {
+          transition: none;
+        }
       }
       .topbar-in {
         max-width: 44rem;
@@ -2076,6 +2088,48 @@
           if (menu.hidden) return;
           if (!menu.contains(e.target) && !przycisk.contains(e.target)) ustaw(false);
         });
+
+        /* Pasek chowa się przy przewijaniu w dół i wraca przy przewijaniu
+           w górę. Trzy zastrzeżenia, bez których to irytuje:
+           - przy otwartym menu pasek zostaje, bo chowałby własny przycisk;
+           - u samej góry strony pasek jest zawsze widoczny;
+           - drobne ruchy poniżej progu są ignorowane, żeby pasek nie migotał
+             przy odbiciu palcem na telefonie. */
+        var pasek = document.querySelector('.topbar');
+        if (!pasek) return;
+
+        var ostatniY = window.pageYOffset || 0;
+        var czeka = false;
+        var PROG = 6;
+        var ODSTEP = 80;
+
+        function przelicz() {
+          czeka = false;
+          var y = window.pageYOffset || 0;
+          if (y < 0) y = 0;
+          var roznica = y - ostatniY;
+
+          if (Math.abs(roznica) < PROG) return;
+
+          if (!menu.hidden || y <= ODSTEP) {
+            pasek.classList.remove('schowany');
+          } else if (roznica > 0) {
+            pasek.classList.add('schowany');
+          } else {
+            pasek.classList.remove('schowany');
+          }
+          ostatniY = y;
+        }
+
+        window.addEventListener(
+          'scroll',
+          function () {
+            if (czeka) return;
+            czeka = true;
+            window.requestAnimationFrame(przelicz);
+          },
+          { passive: true }
+        );
       })();
     </script>
   </body>
