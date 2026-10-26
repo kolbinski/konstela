@@ -24,7 +24,7 @@ Praca wykonana ręcznie, bez generatora obrazu. Zawiera wymóg nagrania z powsta
 - **Pula nagród może wyłącznie rosnąć.** Obniżenie jej po otwarciu naboru jest wyłączone, a ogłaszamy ją dopiero wtedy, gdy środki są na rachunku.
 - **Prawa do zgłoszeń zostają przy autorach.** Organizator dostaje licencję niewyłączną i tylko w wypisanych zakresach.
 - **Zwycięzca każdego plebiscytu dostaje ten sam mosiężny medalion** Nagrody Konstela, a finaliści tłoczone dyplomy.
-- **Wiek: od 16 lat**, a osoba niepełnoletnia dołącza zgodę opiekuna rozbitą na osobne zakresy - brak zgody na jeden z nich wyłącza z tej jednej rzeczy, a nie z konkursu.
+- **Wiek: od 16 lat**, a osoba niepełnoletnia dołącza zgodę opiekuna rozbitą na osobne zakresy. Zgoda na zakresy będące warunkiem udziału - prezentację zgłoszenia i to, co dzieje się z nim na gali - jest konieczna do przyjęcia zgłoszenia; brak zgody na pozostałe wyłącza wyłącznie z nich.
 - **Nagroda Publiczności w każdej kategorii**, jeden głos na numer telefonu, liczniki ukryte do gali.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.5 5 6v6c0 4 3 6.8 7 8.5 4-1.7 7-4.5 7-8.5V6z"/><path d="m9 12 2 2 4-4.5"/></svg><span>Dokumenty towarzyszące</span>
