@@ -965,3 +965,7 @@ Lista pozycji w menu była wpisana na sztywno i po przebudowie strony głównej 
 **Zasada na przyszłość: dodanie sekcji na stronie głównej nie wymaga już ruszania menu.** Wystarczy, że sekcja ma `id` i nagłówek `h2` - pozycja pojawi się sama. Jeżeli selektor kiedyś przestanie pasować, przycisk menu chowa się zamiast otwierać pustą listę.
 
 Z menu wypadły trzy odnośniki do podstron plebiscytów, których nie da się zbudować z nagłówków strony głównej. Są dostępne z kafli w sekcji Plebiscyty i ze stopki, gdzie stoją wszystkie cztery.
+
+**Pozycje podrzędne z nagłówków h3 zostały usunięte** (decyzja z 26.10.2026, po ich wypróbowaniu). Menu buduje się wyłącznie z h2 sekcji. Przy siedemnastu pozycjach podrzędnych z kafli lista przestawała być spisem sekcji i stawała się spisem treści całej strony.
+
+**Na podstronach dokumentów pasek ma tło na całą szerokość strony, a treść w szerokości kolumny tekstu.** Pasek siedzi w body, które ma dopełnienie boczne, więc wychodzi z niego marginesem ujemnym o tej samej wartości - a nie szerokością 100vw, bo vw liczy się razem z paskiem przewijania i na pulpicie dokładałoby poziome przewijanie. Strzałka powrotu stoi dokładnie nad pierwszym znakiem tekstu dokumentu, przycisk menu nad jego prawą krawędzią; sprawdzone przy 390, 768 i 1440 px.

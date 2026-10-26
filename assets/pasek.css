@@ -33,6 +33,13 @@
   /* Dopełnienie na obszar bezpieczny bierze pasek, a nie body - inaczej
      doliczałoby się dwa razy. */
   padding-top: env(safe-area-inset-top, 0px);
+  /* Tło na całą szerokość strony, a nie do krawędzi kolumny treści. Pasek
+     siedzi w body, które ma dopełnienie boczne, więc wychodzimy z niego
+     marginesem ujemnym o tej samej wartości. Marginesy ujemne zamiast
+     szerokości 100vw: vw liczy się razem z paskiem przewijania i na pulpicie
+     wystawałoby o jego grubość, dokładając poziome przewijanie. */
+  margin-left: calc(-1 * max(16px, env(safe-area-inset-left, 0px)));
+  margin-right: calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
   transition: transform 0.25s ease;
 }
 .topbar.schowany {
@@ -43,9 +50,14 @@
     transition: none;
   }
 }
+/* Treść paska trzyma szerokość kolumny dokumentu, mimo że tło idzie przez
+   całą stronę. Dopełnienie boczne jest równe temu, które zdjęliśmy z body
+   marginesem ujemnym, więc napis w pasku stoi w jednej linii pionowej z
+   tekstem dokumentu pod nim. */
 .topbar-in {
-  max-width: var(--max-w, 44rem);
+  max-width: calc(var(--max-w, 44rem) + 2 * max(16px, env(safe-area-inset-left, 0px)));
   margin: 0 auto;
+  box-sizing: border-box;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -154,7 +166,11 @@
   background: var(--surface);
   border-bottom: 1px solid var(--line, var(--rule, #ddd5c4));
   padding-block: 0.9rem 1.3rem;
-  padding-inline: max(16px, calc((100% - var(--max-w, 44rem)) / 2));
+  /* Tło przez całą szerokość paska, pozycje wyrównane do kolumny treści. */
+  padding-inline: max(
+    max(16px, env(safe-area-inset-left, 0px)),
+    calc((100% - var(--max-w, 44rem)) / 2)
+  );
   /* Dokument ma kilkanaście paragrafów, więc lista bywa dłuższa niż ekran.
      Ograniczamy wysokość do tego, co zostaje pod paskiem, i przewijamy samo
      menu. Jednostka dvh, bo na telefonie pasek adresu chowa się i rozwija. */
