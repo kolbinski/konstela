@@ -1222,7 +1222,9 @@ Rysunki wektorowe przeniesione z treści stron do `assets/icons/`, jeden plik na
 
 Nieznana nazwa ikony **zatrzymuje budowanie** z komunikatem, które nazwy nie istnieją. Lepszy błąd przy budowaniu niż dziura w nagłówku na stronie.
 
-**Czego nie objęto.** Dwóch rysunków, które ikonami nie są: kreski rozdzielające w sekcji „Czym jest Nagroda" i konstelacji na stronie 404 - to grafiki jednorazowe, nie elementy zestawu. Poza biblioteką zostały też ikony w stopce, bo stopka jest budowana w `assets/stopka.js` i ma własny cykl życia.
+**Czego nie objęto.** Konstelacji na stronie 404 - to jedyna grafika naprawdę jednorazowa, rysowana raz i w jednym miejscu.
+
+**Rozdzielacz sekcji dołączył do biblioteki (26.10.2026).** Przy pierwszym podejściu odłożyłem go jako „grafikę jednorazową", co było błędem w rachunku: jest używany **siedem razy na stronie głównej**, za każdym razem identycznie, więc dublował się dokładnie tak jak ikony, dla których ta biblioteka powstała. Leży teraz w `assets/icons/rozdzielacz.svg` - dwie kreski, pierścień w kolorze mosiądzu i dwie kropki po bokach, czyli punkt i jego sąsiedzi. Poza biblioteką zostały też ikony w stopce, bo stopka jest budowana w `assets/stopka.js` i ma własny cykl życia.
 
 **Ujednolicenie (26.10.2026).** Dwie pary powstałe niezależnie w różnych tygodniach zostały scalone: `koperta-wask` ustąpiła `kopercie`, a `tarcza-pelna` - `tarczy`. Zestaw ma 31 ikon.
 
