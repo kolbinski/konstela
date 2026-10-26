@@ -96,14 +96,50 @@
    samo klas co ona - stąd drugie :not(), które wyrównuje szczegółowość, i
    kolejność: te reguły stoją po niej, więc wygrywają. */
 :root.czytelnie body h2:not(.topbar):not(.topbar *) {
-  font-size: 2.375rem !important;
+  font-size: 2.625rem !important;
 }
 :root.czytelnie body h3:not(.topbar):not(.topbar *),
 :root.czytelnie body h4:not(.topbar):not(.topbar *),
 :root.czytelnie body h5:not(.topbar):not(.topbar *),
 :root.czytelnie body h6:not(.topbar):not(.topbar *) {
-  font-size: 2.0625rem !important;
+  font-size: 2.25rem !important;
 }
+
+/* Nagłówki dokumentów są układane jako flex - ikona obok tekstu - a flex
+   domyślnie nie łamie wiersza. Przy 42 px długi paragraf, na przykład
+   "§ 15. Nierozstrzygnięcie edycji", wychodził poza kolumnę i rozpychał
+   stronę. Pozwalamy zawijać. */
+:root.czytelnie h1,
+:root.czytelnie h2,
+:root.czytelnie h3,
+:root.czytelnie h4 {
+  /* Nagłówek ułożony jako flex nie łamie długiego słowa: tekst trafia do
+     bezimiennego pola, którego najmniejsza szerokość to najdłuższe słowo -
+     a "Nierozstrzygnięcie" ma przy 42 px blisko 390 px. Zwykły blok łamie je
+     normalnie, a ikona zostaje przed tekstem jako element wierszowy. */
+  display: block !important;
+  overflow-wrap: break-word !important;
+  min-width: 0 !important;
+}
+:root.czytelnie h1 > svg,
+:root.czytelnie h2 > svg,
+:root.czytelnie h3 > svg,
+:root.czytelnie h4 > svg {
+  display: inline-block !important;
+  vertical-align: -0.1em !important;
+  margin-right: 0.4rem !important;
+}
+:root.czytelnie h1 > *,
+:root.czytelnie h2 > *,
+:root.czytelnie h3 > *,
+:root.czytelnie h4 > * {
+  min-width: 0 !important;
+}
+
+/* Nagłówki rysuje krój szeryfowy, a tekst bezszeryfowy o większej wysokości
+   x - przy zbliżonych rozmiarach pogrubiony fragment akapitu wyglądał na
+   większy od nagłówka nad nim. Stąd drabina z wyraźnymi stopniami:
+   46 px nagłówek główny, 42 nagłówek sekcji, 36 podnagłówek, 30 tekst. */
 
 /* Pasek zostaje w swojej wielkości: ma być kotwicą, a nie najgłośniejszym
    elementem strony, a przy większym piśmie napis łamie się na dwie linie. */
@@ -204,6 +240,9 @@
     display: block !important;
     width: auto !important;
     max-width: 100% !important;
+    /* Bez tego dopełnienie i ramka wiersza dochodzą do pełnej szerokości
+       kolumny i wiersz wystaje poza nią o te 36 px. */
+    box-sizing: border-box !important;
   }
   :root.czytelnie thead {
     /* Ukryte dla oka, dostępne dla czytnika ekranu. */
@@ -213,6 +252,13 @@
     overflow: hidden !important;
     clip: rect(0 0 0 0) !important;
     white-space: nowrap !important;
+  }
+  :root.czytelnie thead th {
+    /* Same komórki nagłówka zostawały komórkami tabeli i rozpychały stronę
+       mimo ukrytego nagłówka - szerokość liczyła się przed przycięciem. */
+    display: block !important;
+    width: 1px !important;
+    overflow: hidden !important;
   }
   :root.czytelnie tr {
     border: 2px solid #000000 !important;

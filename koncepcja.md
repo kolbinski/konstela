@@ -1047,3 +1047,11 @@ Po ustawieniu tekstu na 30 px okazało się, że mniejsze zostały całe grupy e
 **Odstępy w stopce** zwiększone z 0,55 na 1,1 rem, a w trybie czytelności na 1,6 rem - przy 30 px pozycje stykały się ze sobą.
 
 **Interlinia w menu paska** zmniejszona w trybie czytelności z 1,6 na 1,2 (26.10.2026). Pozycje menu to pojedyncze wiersze, a nie tekst ciągły - przy 30 px interlinia akapitowa rozpychała je tak, że osiem pozycji strony głównej zajmowało 585 px zamiast 484, a lista czytała się jak akapity. Odstęp między pozycjami robi teraz dopełnienie, nie interlinia, więc widać, gdzie kończy się jedna pozycja, także gdy nazwa łamie się na dwie linie.
+
+### Drabina nagłówków w trybie czytelności (26.10.2026)
+
+Nagłówek sekcji miał 38 px przy tekście 30 px i wyglądał na mniejszy od pogrubionego fragmentu akapitu pod nim - nagłówki rysuje krój szeryfowy, a tekst bezszeryfowy o większej wysokości x, więc przy zbliżonych rozmiarach wygrywa ten drugi. Drabina ma teraz wyraźne stopnie: **46 px nagłówek główny, 42 nagłówek sekcji, 36 podnagłówek, 30 tekst**.
+
+**Powiększenie nagłówków ujawniło błąd, który przy 38 px się nie pokazywał.** Nagłówki są układane jako flex - ikona obok tekstu - a flex nie łamie długiego słowa: tekst trafia do bezimiennego pola, którego najmniejsza szerokość to najdłuższe słowo. Przy 42 px „Nierozstrzygnięcie" ma blisko 390 px, więc dziewięć dokumentów zaczęło się przewijać w poziomie. W trybie czytelności nagłówki są więc zwykłymi blokami, a ikona stoi przed tekstem jako element wierszowy.
+
+Sprawdzone przy 360 i 390 px: zero przewijania w poziomie na stronie głównej, podstronach plebiscytów i dokumentach, łącznie z tymi, które mają tabele i długie paragrafy.
