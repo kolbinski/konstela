@@ -77,8 +77,8 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 8v8M9.5 10.3h5M9.5 13.7h5"/></svg><span>Nagrody</span>
 
-- **100 tys. zł, 50 tys. zł i 30 tys. zł** dla trzech najwyżej ocenionych filmów. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
-- **3 tys. zł** w Nagrodzie Publiczności, przyznawanej w otwartym głosowaniu: jeden głos na numer telefonu, liczniki ukryte do gali.
+- **Nagrody pieniężne dla trzech najwyżej ocenionych filmów** oraz **Nagroda Publiczności**, przyznawana w otwartym głosowaniu: jeden głos na numer telefonu, liczniki ukryte do gali.
+- **Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
 - **Mosiężny medalion Nagrody Konstela** z pieczęcią, grawerowany, wręczany osobiście zwycięzcy - ten sam, który dostają zwycięzcy pozostałych plebiscytów - oraz tłoczone dyplomy dla wszystkich pięciu finalistów.
 - **Minutowa emisja na gali** dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.
 

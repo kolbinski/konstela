@@ -1087,3 +1087,11 @@ W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest konkursem na rekla
 **Z zakazu filmu promocyjnego wypadł przykład**, który pozwalał odrzucić formalnie film za słabą argumentację: "przedstawiający jedno rozwiązanie jako lepsze bez pokazania podstaw". To jest sprawa oceny merytorycznej, nie oceny formalnej.
 
 Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwszym zdaniu), uzasadnienie powołania Akademii, uzasadnienie pełnych pokazów i powtórzenie o publikacji jako warunku udziału.
+
+### Kwot nagród nie podajemy publicznie (26.10.2026)
+
+**Decyzja: na stronie i w regulaminach nie ma żadnych kwot nagród.** Zamiast nich zdanie, że wysokość zależy od pozyskanych sponsorów i zostanie podana przy ogłoszeniu naboru, a ogłaszane są wyłącznie kwoty, które wpłynęły wcześniej na rachunek. Dotyczyło to już trzech plebiscytów; film był ostatnim, w którym kwoty zostały - 100, 50 i 30 tys. zł na podstronie i w § 9. W regulaminie rozmów zniknęło przy okazji sformułowanie "wskazywany poziom docelowy puli".
+
+**Kwoty zostają w dokumentach dla ministerstwa i dla sponsorów** - w nocie koncepcyjnej, w piśmie i w arkuszu budżetowym - bo bez nich kosztorys nie istnieje. Są to dokumenty adresowane do konkretnego odbiorcy, a nie treść strony.
+
+**Dla zdjęcia metryki zgłoszenia:** rozbieżność z metryką jest podstawą wszczęcia wyjaśnień, a nie dowodem zmiany filmu. Zmiana samego tytułu albo miniatury niczego nie dowodzi, a różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z dopuszczonej poprawki technicznej.

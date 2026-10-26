@@ -247,9 +247,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    d) prezentację fragmentu filmu podczas gali, na zasadach z § 10.
 
-2. **Wysokość nagród pieniężnych** zostaje ogłoszona na stronie Nagrody w dniu otwarcia naboru, wraz z listą partnerów edycji, i od tej chwili wiąże Organizatora. Poziom docelowy wynosi 100 tys. zł, 50 tys. zł i 30 tys. zł, a nagroda publiczności - 3 tys. zł.
-
-2a. **Warunek ogłoszenia: środki na rachunku.** Organizator ogłasza wysokość nagród pieniężnych wyłącznie w zakresie, w jakim środki na ich wypłatę wpłynęły wcześniej na rachunek Organizatora.
+2. **Wysokość nagród pieniężnych zależy od środków pozyskanych od sponsorów.** Organizator ogłasza ją na stronie Nagrody w dniu otwarcia naboru, wraz z listą partnerów edycji, i od tej chwili jest nią związany. Ogłasza wyłącznie te kwoty, które wpłynęły wcześniej na jego rachunek.
 
 3. Po ogłoszeniu wysokość nagród może zostać wyłącznie podwyższona. Obniżenie puli albo odwołanie nagród pieniężnych po otwarciu naboru jest wyłączone.
 
@@ -287,7 +285,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 6a. **Jak Organizator ustala, co było wersją konkursową.** Organizator **nie przechowuje kopii filmu** i nie jest w stanie odtworzyć materiału sprzed zmiany. W dniu zamknięcia naboru sporządza natomiast **metrykę zgłoszenia**: czas trwania filmu co do sekundy, tytuł, miniaturę, datę publikacji podaną przez serwis oraz zapis wpisu w Projektorni, wraz z datą sporządzenia. Oceniający odnotowują czas trwania obejrzanego filmu.
 
-6b. **Skutki zmiany.** Wykazana zmiana filmu po dniu zamknięcia naboru, inna niż poprawka z ust. 6, stanowi podstawę wykluczenia zgłoszenia w trybie z § 14. Ciężar wykazania zmiany spoczywa na Organizatorze, a podstawą jest rozbieżność z metryką albo z zapisem oceniających. **Organizator nie zapewnia, że każdą zmianę wykryje**, i nie przypisuje sobie możliwości porównania nowej wersji z poprzednią.
+6b. **Skutki zmiany.** Rozbieżność z metryką albo z zapisem oceniających jest podstawą wszczęcia wyjaśnień, a nie wykluczenia. **Wykluczenie wymaga wykazania niedopuszczalnej zmiany treści filmu**, w trybie z § 14, a ciężar wykazania spoczywa na Organizatorze. Zmiana samego tytułu albo miniatury nie jest takim wykazaniem; różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z poprawki technicznej dopuszczonej w ust. 6.
 
 7. **Usunięcie albo ukrycie filmu przez Uczestnika.** Film pozostaje w serwisie Uczestnika, więc Uczestnik może go w każdej chwili usunąć albo ukryć; nie zastępuje to wycofania zgłoszenia, które następuje w trybie z § 13. Skutki zależą od dnia:
 
