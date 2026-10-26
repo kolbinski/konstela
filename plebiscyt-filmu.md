@@ -61,12 +61,15 @@ Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v16"/><path d="M5 8h14"/><path d="M5 8 2.5 14h5zM19 8l-2.5 6h5z"/></svg><span>Cztery kryteria oceny</span>
 
-- **Teza** - czy film ma coś do powiedzenia o sztucznej inteligencji i mówi to własnym głosem, a nie cudzym.
-- **Forma** - czy środki filmowe służą tezie: montaż, obraz, dźwięk, rytm, czas trwania.
-- **Rzetelność** - czy film nie opiera się na nieprawdzie o technologii i czy odróżnia to, co wie, od tego, co zakłada.
-- **Trwałość** - czy po obejrzeniu zostaje coś, co da się nazwać, i czy film będzie czytelny za kilka lat, gdy narzędzia będą inne.
+| Kryterium | Punkty | Co to znaczy |
+|---|---:|---|
+| Teza | 30 | **Co film mówi** o sztucznej inteligencji: czy ma coś do powiedzenia i czy mówi to własnym głosem. Oceniamy banalne ujęcie tematu, nie sam temat - rzecz znana pokazana świeżo punktuje wysoko |
+| Forma | 30 | **Jak to pokazuje**: montaż, obraz, dźwięk, rytm i wykorzystanie czasu, który sobie wziąłeś |
+| Rzetelność | 20 | Czy film nie opiera się na nieprawdzie o technologii i czy odróżnia to, co wie, od tego, co zakłada |
+| Trwałość | 20 | Czy po obejrzeniu zostaje coś, co da się nazwać, i czy film będzie czytelny za kilka lat |
+| Razem | 100 | |
 
-Karta oceny mówi, co znaczy każda liczba punktów w każdym kryterium, i jest jawna przed naborem. **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą.
+Karta oceny mówi słownie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą. Dłuższy nie dostaje punktów za rozmiar, ale Forma obejmuje to, czy wykorzystałeś czas, który sobie wziąłeś. Nie patrzymy też na Twój dorobek, wykształcenie ani wcześniejsze filmy. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c0-3.6 2.9-6 6.5-6 .9 0 1.8.2 2.6.5"/><path d="m15 17.5 2 2 4-4.5"/></svg><span>Kto ocenia</span>
 

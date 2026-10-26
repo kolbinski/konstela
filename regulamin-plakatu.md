@@ -184,6 +184,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 4g. Próg powołania Akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
 
+4h. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże w pracy podobiznę rozpoznawalnej osoby trzeciej, przejęty cudzy obraz, znak albo postać, albo jeżeli nagranie z § 4a nie przekonuje go, że pracę wykonuje Uczestnik. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Galerii; rozstrzyga Organizator, w trybie z § 11. Rodzaje rutynowych oznaczeń są zamknięte i opisane w **instrukcji oznaczania dla oceniających**, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny, i nie ustala, czy Uczestnik ma uprawnienie do wykorzystania materiału. Oznaczenie nietrafne nie pozostawia publicznego śladu.
+
 5. Członek jury oraz członek Akademii wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
 6. Werdykt jury jest ostateczny i nie podlega odwołaniu.

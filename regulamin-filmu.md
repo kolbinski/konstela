@@ -108,21 +108,25 @@
 
 ## § 7. Kryteria oceny
 
-1. Jury ocenia zgłoszenia według czterech kryteriów, w skali ogłoszonej przed otwarciem naboru wraz z kartą oceny:
+1. Filmy ocenia się według czterech kryteriów, każdego osobno, w skali stu punktów:
 
-   a) **Teza** - czy film ma coś do powiedzenia o sztucznej inteligencji i jej roli w świecie, i czy mówi to własnym głosem, a nie cudzym;
+| Kryterium | Punkty | Zakres |
+|---|---:|---|
+| Teza | 30 | **Co film mówi** o sztucznej inteligencji i jej roli w świecie: czy ma coś do powiedzenia i czy mówi to własnym głosem, a nie cudzym. Oceniane jest banalne ujęcie tematu, nie sam temat - rzecz znana pokazana świeżo punktuje wysoko |
+| Forma | 30 | **Jak to pokazuje**: czy środki filmowe służą tezie - montaż, obraz, dźwięk, rytm i wykorzystanie czasu, którym film dysponuje |
+| Rzetelność | 20 | Czy film nie opiera się na twierdzeniach nieprawdziwych o technologii i czy odróżnia to, co wie, od tego, co zakłada |
+| Trwałość | 20 | Czy po obejrzeniu zostaje coś, co da się nazwać, i czy film będzie czytelny za kilka lat, gdy narzędzia będą inne |
+| Razem | 100 | |
 
-   b) **Forma** - czy środki filmowe służą tezie: montaż, obraz, dźwięk, rytm, czas trwania;
+2. Karta oceny opisuje słownie, co znaczy każde pasmo punktowe w każdym kryterium. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
-   c) **Rzetelność** - czy film nie opiera się na twierdzeniach nieprawdziwych o technologii i czy odróżnia to, co wie, od tego, co zakłada;
+3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia ani jego wcześniejszych filmów.
 
-   d) **Trwałość** - czy po obejrzeniu zostaje coś, co da się nazwać, i czy film będzie czytelny za kilka lat, gdy narzędzia będą inne.
+4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Teza, następnie w kryterium Forma, a w razie dalszej równości - głos przewodniczącego jury.
 
-2. Karta oceny opisuje, co znaczy każda liczba punktów w każdym kryterium, i jest publikowana przed otwarciem naboru.
+5. Czas trwania filmu nie podlega punktacji. Film dwudziestominutowy i dziewięćdziesięciominutowy oceniane są według tej samej karty. Dłuższy film nie dostaje punktów za rozmiar, ale kryterium Forma obejmuje to, czy autor wykorzystał czas, który sobie wziął.
 
-3. Czas trwania filmu nie podlega punktacji. Film dwudziestominutowy i dziewięćdziesięciominutowy oceniane są według tej samej karty.
-
-4. Tytuł, opis, miniatura i deklaracja z § 6 nie podlegają punktacji w żadnym kryterium.
+6. Tytuł, opis, miniatura i deklaracja z § 6 nie podlegają punktacji w żadnym kryterium.
 
 ## § 8. Jury, Akademia filmu i tryb oceny
 
@@ -138,7 +142,7 @@
 
 6. Członek jury oraz członek Akademii filmu wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
-7. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli w filmie dostrzeże dane osobowe osoby trzeciej ujawnione bez widocznej zgody, przytoczenie cudzego utworu w rozmiarze wykraczającym poza prawo cytatu albo cudzy materiał użyty jako znaczna część filmu. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia; rozstrzyga Organizator, w trybie z § 11 ust. 5.
+7. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli w filmie dostrzeże dane osobowe osoby trzeciej ujawnione bez widocznej zgody, przytoczenie cudzego utworu w rozmiarze wykraczającym poza prawo cytatu albo cudzy materiał użyty jako znaczna część filmu. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia; rozstrzyga Organizator, w trybie z § 11 ust. 5. Rodzaje rutynowych oznaczeń są zamknięte i opisane w **instrukcji oznaczania dla oceniających**, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny. Oznaczenie nietrafne nie pozostawia publicznego śladu.
 
 8. Werdykt jury jest ostateczny i nie podlega odwołaniu.
 
