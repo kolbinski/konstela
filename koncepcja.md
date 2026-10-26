@@ -993,3 +993,11 @@ Strona główna miała własną kopię reguł paska w `<style>` i własny skrypt
 **Nagłówek `.masthead` zniknął całkowicie** (26.10.2026, krok drugi). `view-xlsx.html` i `404.html` przeszły na ten sam pasek; z trzech kopii jego reguł - w `view.css` oraz w obu tych plikach - nie został ślad, a `nawigacja.js` ma znów jeden selektor zamiast dwóch. Znacznik strony („404", „arkusz") stoi po prawej stronie paska, obok przycisku menu, i ma własną regułę w `pasek.css`.
 
 **Przy okazji wyszedł błąd, którego pomiar nie łapał:** przycisk menu z atrybutem `hidden` był nadal widoczny, bo reguła `.burger { display: flex }` ma wyższą specyficzność niż domyślne `[hidden] { display: none }` przeglądarki. `element.hidden` zwracał `true`, więc test przechodził, a ikona wisiała na ekranie. Widać to było dopiero na zrzucie. Dopisana reguła `.burger[hidden] { display: none }`. **Wniosek na przyszłość: atrybut `hidden` sprawdzamy stylem obliczonym albo zrzutem, nie właściwością elementu.**
+
+## Znacznik zasobów z godziną, nie samą datą (26.10.2026)
+
+Po poprawce ukrywającej przycisk menu na stronie 404 przycisk nadal był widoczny z pustym menu - mimo że źródło było poprawne, a wdrożenie przeszło. Przyczyną był znacznik zasobów: generator budował go z samej daty, więc wszystkie dzisiejsze wersje `pasek.css` miały ten sam adres `?v=20261026`. Przeglądarka i pośrednik trzymały wersję sprzed poprawki i serwowały ją dalej.
+
+**Znacznik zawiera teraz datę z godziną i minutą budowania**, a odnośniki w plikach pisanych ręcznie - `index.html`, `view.html`, `404.html`, `view-xlsx.html` - zostały podbite na tę samą wartość.
+
+**Wniosek: sama data nie jest znacznikiem.** Przy kilku poprawkach tego samego pliku w ciągu jednego dnia adres się nie zmieniał, więc podbicie było pozorne - a strona wyglądała, jakby poprawki nie było, co trudno odróżnić od błędu w kodzie.

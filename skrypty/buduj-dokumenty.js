@@ -89,7 +89,14 @@ const OPISY = {
 const OBRAZEK_DOMYSLNY = '/assets/og.png';
 const OBRAZKI = { 'plebiscyt-piosenki': '/assets/piosenka.jpg' };
 
-const ZNACZNIK_ZASOBOW = process.env.ZNACZNIK_ZASOBOW || dzisiaj().replace(/-/g, '');
+/* Znacznik zasobów ma rozróżniać kolejne budowania tego samego dnia. Sama
+   data tego nie robi: przy kilku poprawkach arkusza w ciągu jednego dnia
+   adres pliku się nie zmieniał, więc przeglądarka i pośrednik serwowały
+   wersję sprzed poprawki - a strona wyglądała, jakby poprawki nie było.
+   Stąd data z godziną i minutą budowania. */
+const ZNACZNIK_ZASOBOW =
+  process.env.ZNACZNIK_ZASOBOW ||
+  new Date().toISOString().slice(0, 16).replace(/[-:T]/g, '');
 
 marked.setOptions({ gfm: true, breaks: true });
 
