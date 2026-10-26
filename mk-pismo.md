@@ -18,7 +18,7 @@
 
 **Podcast dopisany 26.10.2026** jako czwarte działanie, z dwoma cyklami: „Pierwszy raz z AI" i „NAIstolatek". Istotne jest zdanie o tym, że przedmiotem odcinka nie są odpowiedzi AI, lecz kolejne pytanie człowieka - to ono wiąże podcast z kartą oceny Nagrody i odróżnia go od przeglądu możliwości narzędzi. Produkcję finansuje sponsor Antologii, nie MKiDN; w piśmie podcast pojawia się dlatego, że zmienia odpowiedź na pytanie o właściwy program, a cykl młodzieżowy otwiera ścieżkę do programu Wydarzenia artystyczne dla dzieci i młodzieży.
 
-**Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziałach 10 i 10a; w pozycjach rozstrzygniętych wynosi od 152 do 272 tys. zł, a kosztorys plebiscytu plakatu składa się na razie wyłącznie z pozycji do wyceny i do ustalenia. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
+**Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziałach 10 i 10a; w pozycjach rozstrzygniętych wynosi od 152 do 272 tys. zł dla piosenki i hymnu oraz 96 tys. zł dla plakatu; pozostałe pozycje plakatu, w tym transport oryginałów i wystawa, czekają na wycenę. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
 
 **Dwie kwoty w kosztorysie są propozycją, nie decyzją:** 3 tys. zł nagrody publiczności dla wykonawcy i 1 tys. zł za najlepsze uzasadnienie wyboru. Potwierdzić przed wysyłką.
 

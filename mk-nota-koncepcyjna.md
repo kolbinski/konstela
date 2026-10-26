@@ -222,16 +222,18 @@ Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
 | Pozycja | Kwota |
 |---|---|
-| Nagrody pieniężne dla trzech najwyżej ocenionych prac | do ustalenia |
-| Nagroda publiczności | do ustalenia |
-| Statuetki i dyplomy dla laureatów | do ustalenia |
+| Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
+| Nagroda publiczności | 3 000 zł |
+| Statuetki i dyplomy dla laureatów | 3 000 zł |
 | Transport oryginałów dziesiątki finalistów w obie strony oraz ubezpieczenie na czas wystawy | do wyceny |
 | Realizacja wystawy przy gali: zawieszenie, oświetlenie, opisy prac | do wyceny |
 | Honoraria jury za ocenę zgłoszeń | do wyceny |
 | Kontrola formalna zgłoszeń przez czas naboru, skalowana ich liczbą | do wyceny |
 | Dotarcie do środowiska ilustratorów i szkół artystycznych | do wyceny |
 
-Kwot w tej tabeli nie podaję, ponieważ nie są ustalone, a nie chcę przedstawiać Ministerstwu liczb wziętych z sufitu. Wycena pozycji oznaczonych jako do wyceny powstanie przed złożeniem jakiegokolwiek wniosku; wysokość nagród zostanie ustalona wraz z zabezpieczeniem środków. Kosztorys nie obejmuje druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa konkursu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w rozdziale 10.
+Pozycje rozstrzygnięte wynoszą razem **96 000 zł**. Wycena pozostałych powstanie przed złożeniem jakiegokolwiek wniosku; nie podaję tu liczb wziętych z sufitu.
+
+**Dlaczego pula nagród jest tu wyższa niż w plebiscycie piosenki.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w konkursie piosenki jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z rozdziału 10. Zgłoszeniem w konkursie plakatu jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po konkursie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym konkursie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu. Kosztorys nie obejmuje druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa konkursu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w rozdziale 10.
 
 ## 10b. Podcast towarzyszący
 
