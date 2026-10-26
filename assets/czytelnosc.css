@@ -128,10 +128,41 @@
   min-width: 0 !important;
 }
 
-/* Nagłówki rysuje krój szeryfowy, a tekst bezszeryfowy o większej wysokości
-   x - przy zbliżonych rozmiarach pogrubiony fragment akapitu wyglądał na
-   większy od nagłówka nad nim. Stąd drabina z wyraźnymi stopniami:
-   46 px nagłówek główny, 42 nagłówek sekcji, 36 podnagłówek, 30 tekst. */
+/* Nagłówki rysuje w serwisie krój szeryfowy o małej wysokości x, a tekst
+   bezszeryfowy o dużej - przy 42 px wobec 30 px nagłówek sekcji wyglądał
+   mniej więcej tak samo jak akapit pod nim, a pogrubiony fragment akapitu
+   wyglądał na większy od niego. Sama liczba punktów tego nie naprawi: w tym
+   trybie nagłówki dostają więc ten sam krój co tekst, pogrubiony, i wtedy
+   różnica wielkości jest widoczna wprost. Drabina: 46 px nagłówek główny,
+   42 nagłówek sekcji, 36 podnagłówek, 30 tekst. */
+:root.czytelnie body,
+:root.czytelnie body *:not(.topbar):not(.topbar *):not(code):not(pre):not(kbd):not(samp) {
+  /* Jeden krój na całej stronie. Serwis miesza trzy - szeryfowy w
+     nagłówkach, bezszeryfowy w tekście, maszynowy w oznaczeniach - a że
+     każdy ma inną wysokość x, to przy jednakowej liczbie punktów wyglądają
+     na różnej wielkości. W tym trybie liczy się jedno: ma być widać, co jest
+     nagłówkiem, a co tekstem. Kod zostaje maszynowy, bo w nim odstęp znaków
+     niesie treść. */
+  font-family: var(--body) !important;
+}
+:root.czytelnie h1,
+:root.czytelnie h2,
+:root.czytelnie h3,
+:root.czytelnie h4,
+:root.czytelnie h5,
+:root.czytelnie h6 {
+  font-weight: 700 !important;
+  letter-spacing: -0.01em !important;
+  line-height: 1.15 !important;
+  font-style: normal !important;
+}
+/* Kursywa w dużym stopniu pisma czyta się gorzej niż prosta odmiana. */
+:root.czytelnie em,
+:root.czytelnie i,
+:root.czytelnie blockquote,
+:root.czytelnie .lede {
+  font-style: normal !important;
+}
 
 /* Pasek zostaje w swojej wielkości: ma być kotwicą, a nie najgłośniejszym
    elementem strony, a przy większym piśmie napis łamie się na dwie linie. */

@@ -1050,7 +1050,9 @@ Po ustawieniu tekstu na 30 px okazało się, że mniejsze zostały całe grupy e
 
 ### Drabina nagłówków w trybie czytelności (26.10.2026)
 
-Nagłówek sekcji miał 38 px przy tekście 30 px i wyglądał na mniejszy od pogrubionego fragmentu akapitu pod nim - nagłówki rysuje krój szeryfowy, a tekst bezszeryfowy o większej wysokości x, więc przy zbliżonych rozmiarach wygrywa ten drugi. Drabina ma teraz wyraźne stopnie: **46 px nagłówek główny, 42 nagłówek sekcji, 36 podnagłówek, 30 tekst**.
+Nagłówek sekcji miał 38 px przy tekście 30 px i wyglądał na mniejszy od pogrubionego fragmentu akapitu pod nim. Drabina ma teraz wyraźne stopnie: **46 px nagłówek główny, 42 nagłówek sekcji, 36 podnagłówek, 30 tekst**.
+
+**Samo powiększenie nie wystarczyło i to był błąd w diagnozie.** Serwis miesza trzy kroje: szeryfowy w nagłówkach, bezszeryfowy w tekście, maszynowy w oznaczeniach - a każdy ma inną wysokość x, więc przy tej samej liczbie punktów wyglądają na różnej wielkości. Szeryfowy nagłówek 42 px wyglądał jak bezszeryfowy akapit 30 px. W trybie czytelności **cała strona ma więc jeden krój** - ten z tekstu - a nagłówki różnią się od niego wielkością i grubością. Kursywa jest prostowana, bo w dużym stopniu pisma czyta się gorzej. Krój maszynowy zostaje wyłącznie w kodzie, gdzie odstęp znaków niesie treść.
 
 **Powiększenie nagłówków ujawniło błąd, który przy 38 px się nie pokazywał.** Nagłówki są układane jako flex - ikona obok tekstu - a flex nie łamie długiego słowa: tekst trafia do bezimiennego pola, którego najmniejsza szerokość to najdłuższe słowo. Przy 42 px „Nierozstrzygnięcie" ma blisko 390 px, więc dziewięć dokumentów zaczęło się przewijać w poziomie. W trybie czytelności nagłówki są więc zwykłymi blokami, a ikona stoi przed tekstem jako element wierszowy.
 
