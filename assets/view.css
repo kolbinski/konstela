@@ -302,6 +302,14 @@
       #content h2 + * {
         margin-top: 0;
       }
+      /* Rozdzielacz sekcji - ten sam ornament co na stronie głównej. */
+      #content svg.divider {
+        display: block;
+        width: 100%;
+        max-width: 18rem;
+        height: 22px;
+        margin: 3rem auto 2.4rem;
+      }
       /* Ikona przy nagłówku - ten sam zestaw reguł co w index.html. */
       #content h2 .ico {
         flex: 0 0 auto;

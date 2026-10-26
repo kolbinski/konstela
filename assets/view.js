@@ -73,6 +73,16 @@ marked.setOptions({ gfm: true, breaks: true });
                 a.rel = 'noopener noreferrer';
               }
             });
+            /* Rozdzielacz między paragrafami - przed każdym nagłówkiem
+               poza pierwszym, który stoi zaraz pod tytułem dokumentu.
+               Strony budowane generatorem dostają to samo przy budowaniu. */
+            const wzor = document.getElementById('rozdzielacz');
+            if (wzor) {
+              const naglowki = Array.from(el.querySelectorAll('h2')).slice(1);
+              naglowki.forEach(h => {
+                h.parentNode.insertBefore(wzor.content.cloneNode(true), h);
+              });
+            }
             const h1 = el.querySelector('h1');
             if (h1) document.title = h1.textContent + ' - Nagroda Konstela';
             el.classList.add('loaded');

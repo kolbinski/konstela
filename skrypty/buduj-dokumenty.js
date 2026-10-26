@@ -44,6 +44,22 @@ if (fs.existsSync(KATALOG_IKON)) {
    rysunek z biblioteki. Nieznana nazwa zatrzymuje budowanie - lepszy błąd
    przy budowaniu niż dziura w nagłówku na stronie. W tekstach o samej
    bibliotece znacznik zapisuje się ze spacjami, żeby nie został podmieniony. */
+/* Rozdzielacz sekcji w dokumencie: ten sam ornament co na stronie głównej,
+   przed każdym nagłówkiem paragrafu poza pierwszym. Pierwszy go nie dostaje,
+   bo stoi zaraz pod tytułem dokumentu i kreską, która już rozdziela. */
+function rozdzielSekcje(html) {
+  const rysunek = IKONY['rozdzielacz'];
+  if (!rysunek) return html;
+  let pierwszy = true;
+  return html.replace(/<h2(?=[ >])/g, (m) => {
+    if (pierwszy) {
+      pierwszy = false;
+      return m;
+    }
+    return rysunek + m;
+  });
+}
+
 function wstawIkony(tresc, zPara) {
   const brakujace = [];
   const wynik = tresc
@@ -361,7 +377,7 @@ function main() {
       adresKanoniczny,
       obrazek: OBRAZKI[nazwa] || OBRAZEK_DOMYSLNY,
       indeksowac,
-      tresc: otworzObceWNowejKarcie(marked.parse(wstawIkony(md, false))),
+      tresc: otworzObceWNowejKarcie(rozdzielSekcje(marked.parse(wstawIkony(md, false)))),
     });
 
     zapisz(path.join(KORZEN, 'dokument', nazwa, 'index.html'), html);
