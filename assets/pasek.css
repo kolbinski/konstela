@@ -335,11 +335,6 @@
    pozycji podrzędnych nie ma w ogóle. */
 .menu a.pod {
   padding-left: 1.5rem;
-  opacity: 0.8;
-}
-.menu a.pod:hover,
-.menu a.pod:focus-visible {
-  opacity: 1;
 }
 /* Kotwice muszą wypadać pod paskiem, a nie za nim. */
 section[id],
