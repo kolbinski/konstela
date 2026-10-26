@@ -1,7 +1,5 @@
 # Plebiscyt na piosenkę o sztucznej inteligencji
 
-![Nagroda Konstela - Zapytaj inaczej](/assets/piosenka.jpg)
-
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3a3 3 0 0 1 3 3v5a3 3 0 0 1-6 0V6a3 3 0 0 1 3-3z"/><path d="M5.5 11a6.5 6.5 0 0 0 13 0"/><path d="M12 17.5V21"/></svg><span>Co to za plebiscyt</span>
 
 Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga sekcja o zasadach - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.
@@ -154,12 +152,6 @@ Plebiscyt nie jest jeszcze ogłoszony, więc poniższe terminy są planem, a nie
 Sztuczna inteligencja weszła w życie milionów ludzi - w pracę, w naukę, w rozmowy prowadzone nocą przed ekranem - a w muzyce popularnej prawie jej nie słychać. To, co jest, rozkłada się zwykle na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Między nimi jest cała reszta: utracona robota, pierwszy raz, kiedy narzędzie okazało się mądrzejsze, spór o to, kto jest autorem, zazdrość, ulga, żart. Strach i zachwyt też są na miejscu - oceniamy to, jak temat został opracowany, a nie to, w którą stronę idą emocje.
 
 Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych słów. Interesuje nas, co o tym macie do powiedzenia, a nie dwadzieścia wersji jednego zdania.
-
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Hymn Nagrody</span>
-
-Osobno od plebiscytu powstaje **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". Muzykę komponują i nagrywają jurorzy, więc hymn podlega tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Hymn nie wchodzi do konkursu i nie konkuruje ze zgłoszeniami.
-
-Pełny tekst, dwie wersje wygenerowane przez AI i wyjaśnienie, po co stawiamy je obok siebie: [hymn „Zapytaj inaczej"](/hymn).
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3.5 6.5 8.5 6 8.5-6"/></svg><span>Kontakt</span>
 
