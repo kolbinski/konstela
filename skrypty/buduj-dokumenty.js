@@ -218,9 +218,17 @@ function zapisz(sciezka, tresc) {
 }
 
 function main() {
+  /* Pliki, które nie mają powstać jako strony w ogóle. Notatki wewnętrzne
+     zawierają taktykę i niezweryfikowane założenia, a noindex nie wystarcza:
+     adresat korespondencji może je znaleźć, bo działają pod linkiem.
+     koncepcja.md zostaje, bo linkują do niej inne dokumenty i jest czytana
+     z telefonu - jej adres nie trafia natomiast do korespondencji. */
+  const niePublikowane = (nazwa) => nazwa.endsWith('-notatki');
+
   const pliki = fs
     .readdirSync(KORZEN)
     .filter((f) => f.endsWith('.md'))
+    .filter((f) => !niePublikowane(f.replace(/\.md$/, '')))
     .sort();
 
   const doMapyStrony = [];

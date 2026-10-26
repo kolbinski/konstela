@@ -7,9 +7,9 @@ Zwracam się w pismie w dwóch sprawach, od siebie niezależnych, i proszę o ro
 W ramach prośby drugiej proszę o stanowisko w czterech sprawach formalnych:
 
 1. który z Programów Ministra jest właściwy dla tego zadania i czy oba konkursy artystyczne mieszczą się w jednym;
-2. czy wnioskodawcą może być osoba fizyczna prowadząca działalność gospodarczą, wpisana do CEIDG, oraz czy fundacja wpisana do Krajowego Rejestru Sądowego w trakcie roku naboru może być wnioskodawcą w tym naborze;
-3. czy dopuszczalne jest zadanie rozłożone na dwa lata budżetowe, od początku 2027 do pierwszego kwartału 2028 roku;
-4. czy sensowniejsze jest przygotowanie wniosku do naboru na rok 2028, składanego jesienią 2027 roku, już z ramienia zarejestrowanej fundacji.
+2. czy status wnioskodawcy przyjęty przeze mnie na podstawie specyfikacji programu Muzyka - osoba fizyczna prowadząca działalność gospodarczą - zostanie utrzymany w naborze na 2027 rok, oraz od kiedy wpis fundacji do Krajowego Rejestru Sądowego jest wystarczający;
+3. czy przedstawiony zakres może być zadaniem dwuletnim w latach 2027-2028 i jakie warunki finansowania wieloletniego są przewidywane;
+4. od kiedy mogą być ponoszone koszty kwalifikowalne, w jakim terminie przekazywane są środki i czy dopuszczalne jest finansowanie wydatków poniesionych przed podpisaniem umowy.
 
 Nie wnoszę o dotację ani o patronat honorowy; wniosek patronatowy złożę we właściwym trybie i terminie, już z ramienia fundacji, która będzie organizatorem Nagrody.
 
