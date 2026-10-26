@@ -1,0 +1,86 @@
+# Hymn Nagrody Konstela „Zapytaj inaczej"
+
+Hymn jest osobny od [plebiscytu na piosenkę](/plebiscyt-piosenki) i nie bierze w nim udziału. Ta strona zbiera w jednym miejscu tekst, wersje nagrań i zasadę, której hymn podlega tak samo jak zgłoszenia.
+
+## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Skąd się bierze hymn</span>
+
+Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują jurorzy i oni go nagrywają** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi. Na gali hymn wykonywany jest na żywo.
+
+**Dwie wersje AI, trzecia ludzka.** Zaczynamy od punktu, w którym dziś stoi każdy. Muzykę i wykonanie wygenerował suno.com. Tekst powstał tak, jak zasady tego plebiscytu dopuszczają: z wielogodzinnej rozmowy z AI zakończonej prośbą o wersję tekstu, a potem z naszych decyzji, co w niej zostaje, a co wypada. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywamy ich demem ani materiałem roboczym, bo nim nie są - to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
+
+Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym samym miejscu, w którym oni je napiszą. Hymn stoi poza konkursem, ale nie poza zasadami.
+
+<table class="thumbs">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=3_Yc4dDPB2c" target="_blank" rel="noopener">
+        <img src="/assets/thumbnail-1.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze" loading="lazy" />
+        <span class="cap">Wersja AI 1 &middot; YouTube</span>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=4qjqEl7EmoU" target="_blank" rel="noopener">
+        <img src="/assets/thumbnail-2.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie" loading="lazy" />
+        <span class="cap">Wersja AI 2 &middot; YouTube</span>
+      </a>
+    </td>
+  </tr>
+</table>
+
+Dojdzie do nich **trzecia wersja: te same słowa z nową muzyką**, skomponowaną i nagraną przez jurorów plebiscytu. Melodia powstaje od zera, a nie z przejęcia tej z generatora - czyli dokładnie tak, jak wymagamy od zgłaszających. Termin nagrania zależy od zabezpieczenia środków na produkcję; gdy wersja powstanie, wszystkie trzy staną obok siebie na tej stronie.
+
+I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby postawić obok siebie trzy opracowania tych samych słów i posłuchać, czym się różnią - bo różnić się będą nie tylko autorstwem melodii, ale też aranżacją, wykonaniem i nakładem pracy. Każdy oceni sam, co z tego wynika.
+
+## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16M4 10h10M4 15h16M4 20h8"/></svg><span>Tekst hymnu</span>
+
+<span id="tekst-zapytaj-inaczej"></span>
+
+> ## Zapytaj inaczej
+>
+> **[Zwrotka 1]**
+>
+> Mam w kieszeni wszystkie fakty świata,
+> każdy z nas je ma od wielu lat.
+> Leżą luzem, nie układa ich nikt,
+> milion kropek i ani jednej nici.
+>
+> **[Zwrotka 2]**
+>
+> Pytam źle, więc wraca gładka odpowiedź,
+> pytam lepiej i zaczyna się ruch.
+> Nie szukałem gotowej prawdy,
+> tylko miejsca, gdzie pęka mój słuch.
+>
+> **[Refren]**
+>
+> Gwiazdy nie wiedzą, że są konstelacją,
+> dopóki ktoś nie poprowadzi linii.
+> Nie liczy się ten, kto odpowiada,
+> tylko ten, kto zapyta inaczej.
+>
+> **[Zwrotka 3]**
+>
+> Była druga w nocy, nie było olśnienia,
+> było trzydzieści pytań i jedno "a gdyby".
+> I nagle wszystko, co wiedziałem wcześniej,
+> ułożyło się w kształt, którego nie było.
+>
+> **[Most]**
+>
+> Maszyna mówi pięknie i pewnie,
+> pięknie i pewnie potrafi się mylić.
+> Więc sprawdzam, drążę, nie wierzę od razu,
+> bo to ja mam z tym zostać, nie ona.
+>
+> **[Refren]**
+>
+> Gwiazdy nie wiedzą, że są konstelacją,
+> dopóki ktoś nie poprowadzi linii.
+> Nie liczy się ten, kto odpowiada,
+> tylko ten, kto zapyta inaczej.
+>
+> **[Zakończenie]**
+>
+> Zapisz tę rozmowę, zostaw po sobie ślad.
+> Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
+

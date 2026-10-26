@@ -55,9 +55,9 @@ Uczestnik, który nie może odebrać wiadomości SMS, ustala z Administratorem i
 
 **Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy zgłoszeniu zespołowym wraz ze wskazaniem reprezentanta, tytuł utworu, tekst utworu, odnośnik do nagrania demonstracyjnego, okładka zgłoszenia oraz deklaracja sposobu powstania tekstu i użycia narzędzi sztucznej inteligencji. U finalistów dodatkowo dane niezbędne do organizacji nagrania studyjnego, a u laureatów - do wypłaty nagrody i jej rozliczenia podatkowego.
 
-**Czego Administrator nie przechowuje.** Nagrania. Utwór pozostaje na kanale Uczestnika i to on nim zarządza; Administrator przechowuje odnośnik, okładkę i dane zgłoszenia. Usunięcie nagrania przez Uczestnika jest skuteczne natychmiast i nie wymaga niczyjej zgody.
+**Czego Administrator nie przechowuje.** Nagrania. Utwór pozostaje na kanale Uczestnika i to on nim zarządza; Administrator przechowuje odnośnik, okładkę, dane zgłoszenia oraz metrykę nagrania - tytuł, czas trwania, datę publikacji i identyfikator nagrania w serwisie - która służy wyłącznie ustaleniu, która wersja podlegała ocenie, i nie jest publikowana. Usunięcie nagrania przez Uczestnika jest skuteczne natychmiast i nie wymaga niczyjej zgody.
 
-**Co jest publikowane.** W Słuchalni i następnie w archiwum: tytuł, podpis, okładka, deklaracja i odnośnik. Tekst utworu jest publikowany wtedy, gdy Uczestnik go do publikacji przeznaczył, na zasadach regulaminu. Nagrania studyjne finalistów ukazują się na płycie na warunkach odrębnie z nimi ustalonych.
+**Co jest publikowane.** W Słuchalni, a następnie w archiwum: okładka, tytuł utworu, podpis Uczestnika, deklaracja użycia narzędzi sztucznej inteligencji i odnośnik do nagrania, a w archiwum dodatkowo rok edycji. Tekst utworu nie jest publikowany. Nagrania studyjne finalistów mogą ukazać się na płycie, jeżeli zostanie pozyskane wydawnictwo-partner i finalista zawrze z nim odrębną umowę.
 
 **W jakim celu i na jakiej podstawie.** Tak jak w rozdziale 4: przeprowadzenie plebiscytu i kontakt - art. 6 ust. 1 lit. b RODO; prezentacja zgłoszenia w Słuchalni i w archiwum - również art. 6 ust. 1 lit. b, na podstawie licencji udzielanej przy zgłoszeniu, ponieważ prezentacja jest warunkiem udziału i nie opiera się na odrębnej zgodzie; wypłata i rozliczenie nagrody - art. 6 ust. 1 lit. c; weryfikacja kodem SMS i zasada jednego zgłoszenia - art. 6 ust. 1 lit. f.
 
@@ -105,9 +105,11 @@ Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane
 
 ## 8. Głosowanie publiczności
 
-Głosowanie w każdym plebiscycie jest otwarte i działa na zasadzie jednego głosu na jeden numer telefonu, potwierdzanego jednorazowym kodem w wiadomości SMS. **Osoba głosująca nie jest uczestnikiem konkursu i Administrator nie zbiera od niej żadnych innych danych**: ani imienia, ani adresu e-mail.
+Głosowanie w każdym plebiscycie jest otwarte i działa na zasadzie jednego głosu na jeden numer telefonu, potwierdzanego jednorazowym kodem w wiadomości SMS. **Przy samym oddaniu głosu osoba głosująca nie jest uczestnikiem konkursu i Administrator nie zbiera od niej żadnych innych danych**: ani imienia, ani adresu e-mail.
 
 Z numerem telefonu osoby głosującej Administrator postępuje tak samo jak z numerem Uczestnika, opisanym w rozdziale 4: po wysłaniu kodu nie przechowuje go w postaci jawnej, lecz zastępuje wartością skrótu obliczoną z użyciem klucza tajnego przechowywanego odrębnie. Wartość ta pozwala wyłącznie stwierdzić, czy z danego numeru już głosowano. Podstawą jest prawnie uzasadniony interes polegający na zapewnieniu rzetelności głosowania (art. 6 ust. 1 lit. f RODO). Skróty usuwane są wraz z zamknięciem edycji.
+
+**Konkurs na uzasadnienie wyboru.** W plebiscycie na piosenkę osoba głosująca może dopisać do głosu uzasadnienie wyboru i wziąć udział w konkursie o nagrodę publiczności dla głosującego (§ 11 ust. 2 regulaminu). Wtedy - i tylko wtedy - Administrator przetwarza treść uzasadnienia oraz adres poczty elektronicznej, wyłącznie po to, by skontaktować się z laureatem; podstawą jest wykonanie umowy, którą stanowi przystąpienie do konkursu (art. 6 ust. 1 lit. b RODO). Dane niezbędne do wypłaty nagrody Administrator zbiera dopiero od laureata, a uzasadnienia pozostałych osób usuwa w terminie 60 dni od ogłoszenia wyniku. Uzasadnienia nie są publikowane bez zgody ich autorów.
 
 **Liczniki głosów nie są publikowane w trakcie głosowania**, a wynik ogłaszany jest na gali. Numer głosującego nie służy do korespondencji ani do celów marketingowych i nie jest przekazywany nikomu poza dostawcą usługi wysyłki wiadomości SMS.
 

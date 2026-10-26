@@ -30,7 +30,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. Uczestnik, który nie ukończył 18 lat, dołącza do zgłoszenia pisemną zgodę przedstawiciela ustawowego. Zgoda obejmuje cztery odrębne zakresy, wymienione osobno:
 
-   a) udzielenie Organizatorowi licencji, o której mowa w § 15;
+   a) udzielenie Organizatorowi licencji w zakresie prezentacji zgłoszenia w Słuchalni i w archiwum (§ 15 ust. 2 lit. a i d);
+
+   a1) udzielenie licencji w pozostałych zakresach (§ 15 ust. 2 lit. b i c), związanych z galą;
 
    b) przyjęcie nagrody pieniężnej, jeżeli zostanie przyznana;
 
@@ -38,7 +40,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    d) udział w gali, o którym mowa w § 14.
 
-3. Brak zgody w którymkolwiek z zakresów wymienionych w ust. 2 nie wyłącza Uczestnika z plebiscytu, lecz wyłącza go z tego zakresu, którego zgoda nie obejmuje. Zgłoszenie jest wówczas oceniane na zasadach ogólnych.
+3. **Zgoda w zakresie z ust. 2 lit. a jest wymagana do przyjęcia zgłoszenia**, ponieważ prezentacja zgłoszenia jest warunkiem udziału (§ 5 ust. 7). Brak zgody w pozostałych zakresach nie wyłącza Uczestnika z plebiscytu, lecz wyłącza go z tego zakresu, którego zgoda nie obejmuje; zgłoszenie jest wówczas oceniane na zasadach ogólnych.
 
 4. W plebiscycie nie mogą brać udziału:
 
@@ -48,7 +50,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 5. Zgłoszenie złożone przez osobę najbliższą członka jury nie jest wyłączone z plebiscytu. Członek jury, którego osoba najbliższa złożyła zgłoszenie, wyłącza się od jego oceny na zasadach określonych w § 10 ust. 7.
 
-6. Formalnych progów udziału nie ma. Organizator nie pyta o dorobek, o zasięgi ani o to, czy Uczestnik ma umowę z wydawnictwem. Uczestnik odpowiada natomiast za to, by zgłoszenie nie naruszało jego wcześniejszych zobowiązań wobec osób trzecich.
+6. Dorobek nie jest wymagany. Organizator nie pyta o dorobek, o zasięgi ani o to, czy Uczestnik ma umowę z wydawnictwem. Uczestnik odpowiada natomiast za to, by zgłoszenie nie naruszało jego wcześniejszych zobowiązań wobec osób trzecich.
 
 ## § 4. Terminy edycji pierwszej
 
@@ -84,11 +86,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 5. Jedna osoba może złożyć jedno zgłoszenie. Limit dotyczy reprezentowania zgłoszenia, a nie udziału w utworze: ta sama osoba może być współautorem lub wykonawcą w dowolnej liczbie zgłoszeń złożonych przez inne osoby.
 
-6. Link wskazany w zgłoszeniu musi pozostać czynny przez cały czas trwania oceny, to jest do dnia ogłoszenia werdyktu. Skutki niedostępności nagrania określa § 8 ust. 4.
+6. Nagranie wskazane odnośnikiem pozostaje **dostępne i niezmienione** przez cały czas trwania oceny, to jest do dnia ogłoszenia werdyktu. Ocenie podlega nagranie w wersji z dnia zamknięcia naboru. Skutki niedostępności nagrania określa § 8 ust. 4.
 
-7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika oraz odnośnik do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+6a. Przy przyjęciu zgłoszenia Organizator utrwala **metrykę nagrania**: tytuł, czas trwania, datę publikacji i identyfikator nagrania w serwisie. Metryka nie jest kopią nagrania i nie jest publikowana. Rozbieżność między metryką a nagraniem dostępnym pod odnośnikiem w czasie oceny jest podstawą wszczęcia wyjaśnień w trybie z § 16, a nie samodzielną podstawą wyłączenia. Uczestnik, który poprawił nagranie przed zamknięciem naboru, zgłasza to Organizatorowi; zmiana po zamknięciu naboru jest niedopuszczalna.
 
-8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, rok edycji oraz odnośnik do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że odnośnik przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
+7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz odnośnik do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+
+8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz odnośnik do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że odnośnik przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
@@ -112,13 +116,15 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Dozwolone i niewymagające deklaracji jest korzystanie z narzędzi generatywnych w celu szukania klimatu i sprawdzania pomysłów przed napisaniem własnej melodii.
 
-4. Tekst utworu może powstać przy udziale narzędzi sztucznej inteligencji, w tym z wersji wygenerowanej i następnie przepisanej przez Uczestnika. Uczestnik opisuje w deklaracji, w kilku zdaniach, jak tekst powstał. Organizator nie pyta o proporcje ani o procentowy udział własnej pracy.
+4. **Tekst utworu może powstać przy udziale narzędzi sztucznej inteligencji w dowolnym zakresie**, od pojedynczych poprawek po wersję przyjętą bez zmian. Uczestnik opisuje w deklaracji, w kilku zdaniach, jak tekst powstał. Organizator nie pyta o proporcje ani o procentowy udział własnej pracy i nie wymaga, by Uczestnik wprowadził do wygenerowanej wersji jakiekolwiek zmiany; wymaga wyłącznie, by deklaracja odpowiadała prawdzie.
 
-5. Dozwolone jest korzystanie z narzędzi na etapie produkcji i obróbki dźwięku, w szczególności korekty wysokości dźwięku, usuwania szumu, separacji śladów i masteringu. Użycie takich narzędzi podlega deklaracji.
+5. Dozwolone jest korzystanie z **narzędzi opartych na sztucznej inteligencji** na etapie produkcji i obróbki dźwięku, w szczególności korekty wysokości dźwięku, usuwania szumu, separacji śladów i masteringu. Użycie takich narzędzi podlega deklaracji; zwykłe narzędzia studyjne, które sztucznej inteligencji nie wykorzystują, deklaracji nie wymagają.
 
-6. Deklaracja, o której mowa w ust. 4 i 5, składana jest przy zgłoszeniu i obejmuje sposób powstania tekstu oraz wskazanie narzędzi użytych na etapie produkcji wraz z celem ich użycia. Tekst napisany w całości samodzielnie deklaruje się w ten sam sposób.
+5a. **Obróbka nie może zastąpić ludzkiego wykonania ani stworzyć muzyki, której nie skomponował człowiek.** Niedopuszczalne jest w szczególności wygenerowanie partii wokalnej, chórków albo drugiego głosu, zastąpienie barwy głosu barwą wygenerowaną oraz wytworzenie narzędziem harmonii albo linii melodycznej, której Uczestnik nie skomponował. Automatyczne tworzenie drugich głosów i harmonii wokalnych jest dopuszczalne wyłącznie wtedy, gdy powstaje z nagranego głosu człowieka.
 
-7. Jury ocenia gotowy tekst, a nie sposób jego powstania. Deklaracja służy jawności i weryfikacji, a nie punktacji. Tekst napisany przy udziale narzędzi i tekst napisany bez nich podlegają ocenie na tych samych zasadach.
+6. Deklaracja, o której mowa w ust. 4 i 5, składana jest przy zgłoszeniu i obejmuje sposób powstania tekstu oraz wskazanie narzędzi opartych na sztucznej inteligencji użytych na etapie produkcji wraz z celem ich użycia. Tekst napisany w całości samodzielnie deklaruje się w ten sam sposób.
+
+7. Jury ocenia gotowy tekst, a nie sposób jego powstania. Deklaracja jest publikowana razem ze zgłoszeniem (§ 5 ust. 7) i służy jawności oraz weryfikacji, a nie punktacji. Tekst napisany przy udziale narzędzi i tekst napisany bez nich podlegają ocenie na tych samych zasadach.
 
 8. Weryfikacja opiera się na deklaracji Uczestnika oraz na możliwości przedstawienia materiałów roboczych przez finalistów, zgodnie z § 16 ust. 3, a nie na rozpoznaniu narzędzia przez jury podczas odsłuchu. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w plebiscycie.
 
@@ -152,7 +158,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4. Jeżeli nagranie przestanie być dostępne po terminie zgłoszeń, a przed ogłoszeniem werdyktu, zgłoszenie zostaje wyłączone z oceny z powodu niedostępności materiału. Organizator wzywa uprzednio Uczestnika do przywrócenia dostępności w terminie 7 dni. Przepis stosuje się także wtedy, gdy niedostępność wynika z blokady nałożonej przez serwis w następstwie zgłoszenia naruszenia praw autorskich; wyłączenie następuje wówczas z powodu niedostępności materiału, a nie wskutek rozstrzygnięcia Organizatora o naruszeniu praw.
 
-5. Uczestnik, którego zgłoszenie zostało wyłączone na podstawie ust. 4, może złożyć ponownie to samo zgłoszenie, jeżeli przywróci dostępność nagrania przed upływem terminu zgłoszeń. Ponowne zgłoszenie tego samego utworu nie narusza zasady z § 5 ust. 5.
+5. Jeżeli nagranie przestanie być dostępne **przed upływem terminu zgłoszeń**, Uczestnik może przywrócić jego dostępność albo wskazać nowy odnośnik do tego samego nagrania, w terminie z ust. 3. Zgłoszenie pozostaje wówczas w plebiscycie, a wskazanie nowego odnośnika nie narusza zasady z § 5 ust. 5.
 
 ## § 9. Kryteria oceny
 
@@ -166,9 +172,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 | Wykonanie | 20 | Wokal i interpretacja |
 | Razem | 100 | |
 
+1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 10 ust. 7 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez Akademię (§ 10 ust. 5). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
+
+1b. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Tekst, następnie w kryterium Ujęcie tematu, następnie w kryterium Muzyka, a w razie dalszej równości - głos przewodniczącego jury.
+
 2. Karta oceny jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
-3. Kryterium wykonania ma najniższą wagę celowo. Skoro Organizator przyjmuje dema, nie może wysoko ważyć tego, co zależy od warunków nagrania.
+3. W kryterium Wykonanie ocenia się wokal i interpretację w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium.**
 
 4. Oceniający nie bierze pod uwagę okładki zgłoszenia, liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
 
@@ -180,13 +190,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Honorarium za ocenę jest odrębne od ewentualnego honorarium za udział w nagraniu hymnu i za wykonanie na gali.
 
-4. Jury przesłuchuje wszystkie zgłoszenia, które przeszły ocenę formalną, i wybiera dziesięciu finalistów, a spośród nich ustala kolejność trzech najwyżej ocenionych utworów.
+4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły ocenę formalną, albo spośród listy zakwalifikowanej przez Akademię plebiscytu (ust. 5) - zależnie od trybu ogłoszonego przed otwarciem naboru - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
 
 5. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza Akademia plebiscytu - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
 
 6. Próg powołania Akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
 
-6a. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże na okładce zgłoszenia (§ 5 ust. 3 lit. c) podobiznę rozpoznawalnej osoby trzeciej albo przejęty cudzy obraz, znak lub postać. Zakres oznaczania jest w tym plebiscycie węższy niż w pozostałych, ponieważ Organizator nie publikuje nagrań: Słuchalnia prezentuje okładkę, podpis i odnośnik do nagrania pozostającego na kanale Uczestnika. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Słuchalni; rozstrzyga Organizator. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny. Oznaczenie nietrafne nie pozostawia publicznego śladu.
+6a. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże na okładce zgłoszenia (§ 5 ust. 3 lit. c) podobiznę rozpoznawalnej osoby trzeciej albo przejęty cudzy obraz, znak lub postać. Zakres oznaczania jest w tym plebiscycie węższy niż w pozostałych, ponieważ Organizator nie publikuje nagrań: Słuchalnia prezentuje okładkę, podpis i odnośnik do nagrania pozostającego na kanale Uczestnika. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Słuchalni; rozstrzyga Organizator, w trybie z § 16 ust. 1a. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny. Oznaczenie nietrafne nie pozostawia publicznego śladu.
 
 7. Członek jury oraz członek Akademii wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny danego zgłoszenia.
 
@@ -200,7 +210,19 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    b) nagroda dla osoby głosującej, która najlepiej uzasadniła swój wybór.
 
-2. Nagroda, o której mowa w ust. 1 lit. b, przyznawana jest w drodze oceny uzasadnień. Organizator nie przeprowadza losowania wśród głosujących ani nie uzależnia przyznania jakiejkolwiek nagrody od przypadku.
+2. Nagroda, o której mowa w ust. 1 lit. b, przyznawana jest w drodze oceny uzasadnień, na następujących zasadach:
+
+   a) **uzasadnienie jest nieobowiązkowe**; osoba głosująca może dopisać je przy oddaniu głosu, w polu o długości do 1500 znaków, i tylko takie uzasadnienia biorą udział w ocenie;
+
+   b) uzasadnienia ocenia **trzyosobowy zespół powołany przez Organizatora spoza jury**, którego skład Organizator ogłasza przed rozpoczęciem głosowania;
+
+   c) oceniane jest to, **co uzasadnienie mówi o samym utworze**: trafność obserwacji, konkretność i samodzielność sądu. Nie ocenia się długości wypowiedzi, poprawności zapisu ani zgodności wyboru z werdyktem jury;
+
+   d) przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej;
+
+   e) do uzasadnienia osoba głosująca podaje adres poczty elektronicznej, wyłącznie po to, by Organizator mógł się z nią skontaktować w razie przyznania nagrody; dane niezbędne do wypłaty Organizator zbiera dopiero od laureata.
+
+2a. Organizator nie przeprowadza losowania wśród głosujących ani nie uzależnia przyznania jakiejkolwiek nagrody od przypadku.
 
 3. Głosowanie odbywa się na stronie Nagrody. Jeden głos przypada na jeden numer telefonu, potwierdzony kodem przesyłanym w wiadomości SMS. Numer nie jest przechowywany w postaci jawnej; sposób jego przetwarzania opisuje polityka prywatności.
 
@@ -238,7 +260,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 1. Utwory dziesięciu finalistów zostają nagrane w studiu na koszt Organizatora. Koszt nagrań jest pozycją budżetu plebiscytu, zabezpieczaną razem z nagrodami.
 
-2. Zakres nagrania - liczbę sesji i poprawek, to, czy finalista otrzymuje sam gotowy master, czy również ślady, oraz tryb zatwierdzania aranżacji - Organizator ogłasza przed otwarciem naboru.
+2. Zakres nagrania - liczbę sesji i poprawek, to, czy finalista otrzymuje sam gotowy master, czy również ślady, tryb zatwierdzania aranżacji, a także **termin przeprowadzenia sesji i termin przekazania finaliście gotowego materiału** - Organizator ogłasza przed otwarciem naboru i od tej chwili jest nim związany wobec finalisty.
+
+2a. Jeżeli producent wskazany przez Organizatora wycofa się albo nie dojdzie do porozumienia co do realizacji, Organizator zapewnia nagranie u innego producenta w terminie z ust. 2, przedłużonym nie więcej niż o 60 dni. Niedojście nagrania do skutku z przyczyn leżących po stronie Organizatora nie pozbawia finalisty pozostałych nagród.
 
 3. Prawa do nagrania przechodzą na finalistę jako część nagrody. Organizator nie zachowuje praw do nagrania, nie uczestniczy w przychodach finalisty z jego wykorzystania i nie pośredniczy w jego wydaniu.
 
@@ -246,15 +270,17 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 5. Nagrania mogą ukazać się na płycie wydanej przez wydawnictwo będące partnerem plebiscytu. Zakres wydania jest przedmiotem odrębnej umowy między finalistą a wydawnictwem. Organizator nie jest stroną tej umowy i nie jest pośrednikiem.
 
-6. Jeżeli wydawnictwo-partner nie zostanie pozyskane, nagrania powstają mimo to, a wydanie płytowe nie dochodzi do skutku. Sposób udostępnienia takich nagrań Organizator uzgadnia indywidualnie z każdym finalistą.
+6. Jeżeli wydawnictwo-partner nie zostanie pozyskane, nagrania powstają mimo to, a wydanie płytowe nie dochodzi do skutku. **Brak wydawnictwa nie ogranicza prawa finalisty do samodzielnego wykorzystania otrzymanego nagrania.** Organizator może zaproponować finalistom wspólne udostępnienie nagrań; przyjęcie propozycji jest dobrowolne i nie jest warunkiem korzystania z nagrody.
+
+6a. Odmowa zawarcia umowy z wydawnictwem nie pozbawia finalisty nagrania studyjnego, praw do niego ani żadnej innej nagrody.
 
 7. Organizator może zlecić produkcję nagrań jednemu producentowi dla wszystkich finalistów. Finalista, który ma własnego producenta albo zobowiązania wobec wydawnictwa, zgłasza to Organizatorowi; sposób postępowania uzgadniany jest indywidualnie.
 
 ## § 14. Gala
 
-1. Plebiscyt rozstrzygany jest na gali Nagrody Konstela. Trzy najwyżej ocenione utwory wykonywane są na żywo, a nazwiska pozostałych finalistów są odczytywane.
+1. Plebiscyt rozstrzygany jest na gali Nagrody Konstela. Laureaci trzech nagród pieniężnych są zapraszani do wykonania utworów na żywo, na zasadach określonych w niniejszym paragrafie, a nazwiska pozostałych finalistów są odczytywane.
 
-2. Udział w gali jest obowiązkiem laureatów trzech nagród pieniężnych, ponieważ ich obecność jest warunkiem części artystycznej wieczoru.
+2. Organizator oczekuje obecności laureatów trzech nagród pieniężnych, ponieważ na ich wykonaniach opiera się część artystyczna wieczoru, i uzgadnia z nimi udział niezwłocznie po werdykcie. Skutki nieobecności i odmowy określają ust. 4 i 5; odmowa nie pozbawia laureata żadnej nagrody.
 
 3. Organizator pokrywa koszty dojazdu i noclegu wszystkich dziesięciu finalistów oraz, przy zgłoszeniach zespołowych, członków składu biorących udział w wykonaniu.
 
@@ -288,15 +314,27 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    d) w zakresie ust. 2 lit. d - bezterminowo, przy czym Uczestnik może w każdej chwili żądać usunięcia wpisu z archiwum, a Organizator usuwa go w terminie 14 dni od żądania.
 
-4. Udzielenie licencji w zakresie określonym w ust. 2 jest warunkiem udziału w plebiscycie. Przy zgłoszeniu zespołowym licencji udziela reprezentant składu w imieniu wszystkich współautorów i wykonawców.
+4. **Warunkiem udziału w plebiscycie jest udzielenie licencji w zakresie ust. 2 lit. a i d**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału (§ 5 ust. 7). Zakresy lit. b i c dotyczą wyłącznie laureatów wykonujących utwór na gali i nie są warunkiem udziału. Przy zgłoszeniu zespołowym licencji udziela reprezentant składu w imieniu wszystkich współautorów i wykonawców.
 
 5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do utworu, do nagrania i do okładki w zakresie pozwalającym na udzielenie licencji określonej w ust. 2, oraz że zgłoszenie nie narusza praw osób trzecich. Oświadczenie nie obejmuje zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale narzędzi sztucznej inteligencji.
 
-6. Organizator może sporządzić kopię archiwalną zgłoszonego nagrania w chwili zgłoszenia, wyłącznie na potrzeby oceny i wyłącznie na wypadek niedostępności nagrania w serwisie. Kopia nie jest udostępniana publicznie i jest usuwana po zakończeniu edycji.
+6. **Organizator nie sporządza kopii zgłoszonego nagrania.** Nagranie pozostaje na kanale Uczestnika, a Organizator przechowuje wyłącznie odnośnik, okładkę, dane zgłoszenia oraz metrykę nagrania (§ 5 ust. 6a). Skutki niedostępności nagrania określa § 8 ust. 4.
 
 ## § 16. Tryb sporny i skutki nieprawdziwej deklaracji
 
 1. Zastrzeżenie co do autorstwa zgłoszonego utworu może zgłosić każdy, w terminie do dnia ogłoszenia werdyktu, na adres wskazany w § 1 ust. 4. Zastrzeżenie wymaga wskazania zgłoszenia, opisania podstawy oraz podania danych kontaktowych zgłaszającego zastrzeżenie.
+
+1a. **Zastrzeżenie oznaczone przez oceniającego** (§ 10 ust. 6a) rozpoznaje Organizator, stosując ust. 2-4 i 6 oraz następujące zasady:
+
+   a) Organizator zawiadamia Uczestnika o treści zastrzeżenia, wskazując fragment okładki albo element, którego zastrzeżenie dotyczy, i wyznacza mu termin 14 dni na wyjaśnienia;
+
+   b) do zakończenia postępowania zgłoszenie pozostaje w plebiscycie, a jego punktacja nie ulega zmianie;
+
+   c) Organizator może ograniczyć prezentację okładki w Słuchalni albo odstąpić od jej prezentacji w archiwum **wyłącznie po wskazaniu konkretnego elementu oraz uzasadnionego ryzyka naruszenia prawa związanego z jego publikacją**. Samo potwierdzenie obecności elementu oznaczonego przez oceniającego nie wystarcza; zgłoszenie pozostaje wówczas w Słuchalni bez okładki;
+
+   d) odrzucenie zgłoszenia możliwe jest wyłącznie na podstawach z § 8 ust. 2 albo na podstawie ust. 5 niniejszego paragrafu; samo oznaczenie podstawy nie stanowi;
+
+   e) rozstrzygnięcie Organizator doręcza Uczestnikowi pocztą elektroniczną, z uzasadnieniem.
 
 2. Organizator zwraca się do Uczestnika o ustosunkowanie się do zastrzeżenia w terminie 14 dni. Zgłoszenie pozostaje w plebiscycie do czasu zakończenia postępowania.
 
@@ -351,7 +389,7 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 3. **§ 5 ust. 1** - link jako forma zgłoszenia.
 4. **§ 6 ust. 2-4** - konstrukcja reprezentanta składu: czy oświadczenie wystarcza, czy potrzebne jest pełnomocnictwo, oraz skutki podatkowe wypłaty całości nagrody reprezentantowi.
 5. **§ 7 ust. 2** - sformułowanie zakazu przy melodii tak, by odróżniało przejęcie od inspiracji w sposób nadający się do zastosowania w sporze.
-6. **§ 7 ust. 4 i 6** - czy deklaracja sposobu powstania tekstu, bez podawania proporcji, jest wystarczającą podstawą wyłączenia w razie wykazania jej nieprawdziwości.
+6. **§ 7 ust. 4 i 6** - czy deklaracja sposobu powstania tekstu, bez podawania proporcji i bez progu własnej pracy, jest wystarczającą podstawą wyłączenia w razie wykazania jej nieprawdziwości. Tekst może pochodzić od narzędzia w całości, więc jedynym naruszeniem jest nieprawdziwa deklaracja; prosimy o ocenę, czy taka konstrukcja wystarcza przy przyrzeczeniu publicznym.
 7. **§ 8 ust. 2 lit. d-f** - trzy wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: język polski, czas trwania, brak wcześniejszego wydania komercyjnego. Czy którykolwiek rodzi ryzyko zarzutu nierównego traktowania.
 8. **§ 8 ust. 4** - wyłączenie z powodu niedostępności materiału jako podstawa odrębna od rozstrzygnięcia o naruszeniu praw.
 9. **§ 12 ust. 3** - sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
@@ -360,7 +398,8 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 12. **§ 14 ust. 2-3** - obowiązkowy udział laureatów w gali i zakres pokrycia kosztów.
 13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
 14. **§ 15 ust. 5 zdanie drugie** - wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
-15. **§ 15 ust. 6** - podstawa prawna kopii archiwalnej nagrania, zbieżna z obszarem 7 listy dla Nagrody.
+15. **§ 5 ust. 6 i 6a** - wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
+15a. **§ 11 ust. 2** - konkurs na uzasadnienie wyboru jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
 16. **§ 16 ust. 5** - żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
 17. **§ 17 ust. 1** - progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
 18. **§ 19 ust. 2-3** - przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.

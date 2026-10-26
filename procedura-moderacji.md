@@ -97,7 +97,7 @@ Oznacz, gdy na okładce widzisz podobiznę rozpoznawalnej osoby trzeciej albo pr
 
 - **Oznacz:** cudza fotografia użyta jako tło okładki.
 - **Oznacz:** rozpoznawalna postać z filmu albo gry jako główny motyw okładki.
-- **Nie oznaczaj:** okładki wygenerowanej przez narzędzie sztucznej inteligencji - w tym plebiscycie okładka może być wygenerowana i nie podlega ocenie.
+- **Nie oznaczaj:** samego użycia narzędzia sztucznej inteligencji do wykonania okładki - w tym plebiscycie okładka może być wygenerowana i nie podlega ocenie. Konkretne zastrzeżenia - rozpoznawalną osobę, przejęty obraz, znak albo postać - oznaczasz niezależnie od techniki wykonania okładki.
 - **Nie oznaczaj:** zdjęcia samego uczestnika ani zdjęcia zespołu.
 - **Nie oznaczaj:** nawiązania stylistycznego ani podobieństwa do znanego nurtu graficznego.
 
