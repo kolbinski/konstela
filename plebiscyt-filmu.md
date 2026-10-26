@@ -71,7 +71,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 | Siła oddziaływania | 20 | Czy film zostawia wyraźną myśl, obraz albo emocję - coś, co po obejrzeniu potrafisz nazwać |
 | Razem | 100 | |
 
-Karta oceny mówi słownie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
+[Karta oceny](/dokument/regulamin-filmu#karta-oceny) w § 7 regulaminu mówi słownie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c0-3.6 2.9-6 6.5-6 .9 0 1.8.2 2.6.5"/><path d="m15 17.5 2 2 4-4.5"/></svg><span>Kto ocenia</span>
 

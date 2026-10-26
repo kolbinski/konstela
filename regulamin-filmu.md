@@ -119,7 +119,7 @@
 | Siła oddziaływania | 20 | Czy film pozostawia wyraźną myśl, obraz albo emocję - coś, co widz potrafi po obejrzeniu nazwać |
 | Razem | 100 | |
 
-2. Karta oceny opisuje słownie, co znaczy każde pasmo punktowe w każdym kryterium. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
+2. Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
 3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia ani jego wcześniejszych filmów.
 
@@ -130,6 +130,70 @@
 5. Czas trwania filmu nie podlega punktacji. Film dwudziestominutowy i dziewięćdziesięciominutowy oceniane są według tej samej karty; kryterium Forma obejmuje natomiast to, czy czas trwania jest uzasadniony konstrukcją filmu.
 
 6. Tytuł, opis, miniatura i deklaracja z § 6 nie podlegają punktacji w żadnym kryterium.
+
+<span id="karta-oceny"></span>
+
+### Karta oceny: co znaczy każda liczba punktów
+
+Karta jest częścią niniejszego paragrafu. Obowiązuje Akademię filmu i jury, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
+
+Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu.
+
+#### Teza - 30 punktów
+
+Co film mówi o sztucznej inteligencji i jej roli w świecie. Oceniana jest oryginalność ujęcia, nie sam temat.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-5** | Film nie ma tezy: jest zbiorem obrazów albo wypowiedzi bez myśli, która je spina. |
+| **6-11** | Teza jest, ale podręcznikowa - powtarza to, co w tej sprawie mówi się powszechnie, bez własnego ujęcia. |
+| **12-17** | Teza własna, choć prowadzona nierówno: film ją porzuca, zmienia w połowie albo nie wyciąga z niej wniosku. |
+| **18-23** | Teza wyraźna i konsekwentnie prowadzona do końca. Widz potrafi po seansie powiedzieć, co film twierdzi. |
+| **24-27** | Teza, która przestawia patrzenie na rzecz znaną - ujęcie, którego widz sam by nie znalazł, a po filmie uznaje za oczywiste. |
+| **28-30** | Teza na tyle własna i tak poprowadzona, że film staje się punktem odniesienia w rozmowie o tym temacie. |
+
+#### Forma - 30 punktów
+
+Czy środki filmowe służą tezie: montaż, obraz, dźwięk, rytm i to, czy czas trwania jest uzasadniony konstrukcją filmu.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-5** | Forma przeszkadza w odbiorze: film jest nieczytelny, niesłyszalny albo rozsypuje się na niepowiązane części. |
+| **6-11** | Forma poprawna technicznie, ale obojętna wobec tezy - równie dobrze mogłaby towarzyszyć innemu tematowi. |
+| **12-17** | Forma wspiera tezę w pojedynczych miejscach, lecz film ma dłużyzny albo fragmenty rozwiązane rutynowo. |
+| **18-23** | Forma przemyślana i konsekwentna, czas trwania uzasadniony, rytm utrzymany do końca. |
+| **24-27** | Forma niesie znaczenie sama z siebie: montaż, obraz albo dźwięk mówią coś, czego nie powiedziano słowami. |
+| **28-30** | Forma i teza są nierozdzielne - tego filmu nie dałoby się opowiedzieć inaczej bez utraty sensu. |
+
+#### Rzetelność - 20 punktów
+
+Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-3** | Film opiera się na twierdzeniach nieprawdziwych o technologii, a nieprawda niesie jego główny wniosek. |
+| **4-7** | Twierdzenia w większości nieścisłe albo przedstawione tak, że widz nie odróżni faktu od domysłu autora. |
+| **8-11** | Film miesza fakty z założeniami, ale błędy dotyczą spraw pobocznych i nie podważają tezy. |
+| **12-15** | Film jest rzetelny: podaje to, co wie, jako wiedzę, a to, co zakłada, jako założenie. |
+| **16-18** | Film wyraźnie oznacza granice swojej wiedzy i nie udaje pewności tam, gdzie jej nie ma. |
+| **19-20** | Film porusza sprawę sporną i uczciwie pokazuje spór, zamiast wybierać wygodną wersję. |
+
+#### Siła oddziaływania - 20 punktów
+
+Czy film pozostawia wyraźną myśl, obraz albo emocję - coś, co widz potrafi po obejrzeniu nazwać. Przewidywana aktualność filmu za kilka lat nie podlega ocenie.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-3** | Po seansie nie zostaje nic, co dałoby się nazwać. |
+| **4-7** | Zostaje ogólne wrażenie, bez konkretu - widz pamięta temat, nie film. |
+| **8-11** | Zostaje jedna rzecz: scena, zdanie albo obraz, choć reszta zaciera się szybko. |
+| **12-15** | Film zostaje w pamięci jako całość i da się o nim opowiedzieć komuś, kto go nie widział. |
+| **16-18** | Film zmienia sposób, w jaki widz patrzy na rzecz pozornie znaną, i wraca do niego po czasie. |
+| **19-20** | Film robi to na tyle mocno, że widz opowiada go dalej z własnej potrzeby. |
+
+#### Warunek nadrzędny
+
+Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklaracja z § 6 jest nieprawdziwa albo jeżeli film przedstawia jako fakt twierdzenie nieprawdziwe, na którym opiera się jego główna teza. Stosuje się wtedy tryb z § 14: Organizator wskazuje twierdzenie na piśmie, Uczestnik ma nie mniej niż 14 dni na stanowisko, a ciężar wykazania nieprawdy spoczywa na Organizatorze. W razie wątpliwości, której nie da się wyjaśnić, warunku nie stosuje się.
 
 ## § 8. Jury, Akademia filmu i tryb oceny
 

@@ -748,7 +748,9 @@ Na gali trzy werdykty obok siebie: **Kapituły, Uczniowskiej Akademii i publiczn
 
 ## Karta oceny scalona z regulaminem (25.10.2026)
 
-Karta oceny przestała być osobnym dokumentem. Jest teraz **Załącznikiem nr 1 do Regulaminu**, na końcu `regulamin.md`, a jej dawne nagłówki drugiego poziomu zeszły na trzeci, żeby nie konkurowały z paragrafami. Odesłanie w § 7 prowadzi do kotwicy `#karta-oceny` wewnątrz tego samego dokumentu zamiast do osobnego adresu.
+Karta oceny przestała być osobnym dokumentem. Była najpierw Załącznikiem nr 1 na końcu regulaminu, a **od 26.10.2026 stoi wewnątrz § 7, zaraz po liście kryteriów** - czyli tam, gdzie regulamin do niej odsyła. Czytający nie musi skakać na koniec dokumentu, a kotwica `#karta-oceny` działa dalej, więc przekierowanie w Cloudflare i odnośniki z podstron zostają bez zmian. Nagłówki wewnątrz karty zeszły o stopień niżej, żeby nie konkurowały z paragrafami.
+
+**Regulamin filmu ma własną kartę oceny w § 7** (26.10.2026), zbudowaną tak samo: sześć pasm w każdym z czterech kryteriów, z opisem słownym, plus warunek nadrzędny - nieprawdziwa deklaracja użycia AI albo nieprawda niosąca główną tezę filmu wyklucza nagrodę niezależnie od punktacji, w trybie z § 14. Oceniający musi wskazać znacznik czasu uzasadniający ocenę; przy rozmowach jest to fragment rozmowy, przy filmie minuta i sekunda.
 
 Powód: nie było powodu, żeby trzymać je osobno - karta zawsze była formalnie załącznikiem do regulaminu, a rozdzielenie kosztowało jeden link w stopce i groziło rozjeżdżaniem się obu dokumentów.
 
