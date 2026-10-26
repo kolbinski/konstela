@@ -20,7 +20,13 @@ Zaplecze decyzyjne pisma `mk-pismo.md`. Wyjęte z samego pisma, żeby plik zawie
 
 **Podcast dopisany 26.10.2026** jako czwarte działanie, z dwoma cyklami: „Pierwszy raz z AI" i „NAIstolatek". Istotne jest zdanie o tym, że przedmiotem odcinka nie są odpowiedzi AI, lecz kolejne pytanie człowieka - to ono wiąże podcast z kartą oceny Nagrody i odróżnia go od przeglądu możliwości narzędzi. Produkcję finansuje sponsor Antologii, nie MKiDN; w piśmie podcast pojawia się dlatego, że zmienia odpowiedź na pytanie o właściwy program, a cykl młodzieżowy otwiera ścieżkę do programu Wydarzenia artystyczne dla dzieci i młodzieży.
 
-**Podział na pismo i załącznik nr 2 (26.10.2026).** Pismo do eDoręczeń zostało skrócone do abstraktu, dwóch próśb i czterech pytań formalnych w postaci numerowanej listy; całe uzasadnienie przeniesione do `mk-pismo-szczegoly.md`. Pytania zostały w pismie świadomie: pismo, w którym pytania siedzą wyłącznie w załączniku, ryzykuje odpowiedź potwierdzającą zapoznanie się i nic więcej. Numeracja punktów w pismie odpowiada numeracji rozdziałów załącznika.
+**Układ wysyłki (26.10.2026).** Trzy pliki, ta sama kolejność co przy Ministerstwie Cyfryzacji i Ministerstwie Edukacji:
+
+1. `mk-wiadomosc.md` - treść wiadomości w eDoręczeniach. Pigułka: czym jest Nagroda, dwie prośby, cztery pytania formalne jako numerowana lista, zastrzeżenie o braku wniosku dotacyjnego i patronatowego, spis załączników.
+2. `mk-pismo.md` - pełne pismo, załączane jako PDF. Tu jest całe uzasadnienie: trzy konkursy, podcast, stan przygotowań, rozwinięte pytania, akapit o zablokowanym SOP.
+3. `mk-nota-koncepcyjna.md` - aktualny stan projektu, załączany jako PDF.
+
+Pytania są świadomie w dwóch miejscach: w wiadomości jednym wierszem każde, w pismie z uzasadnieniem. Wiadomość bez pytań ryzykuje odpowiedź potwierdzającą zapoznanie się i nic więcej, bo urzędnik nie musi otwierać załącznika, żeby odpisać.
 
 **Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziałach 10 i 10a; w pozycjach rozstrzygniętych wynosi od 152 do 272 tys. zł dla piosenki i hymnu oraz 171 736 zł dla plakatu; w plakacie czekają na wycenę trzy pozycje: realizacja wystawy, obsługa prawna i dojazdy finalistów. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
 
