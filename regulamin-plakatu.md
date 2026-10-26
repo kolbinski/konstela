@@ -44,7 +44,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    a) reprodukcję pracy - plik JPG albo PNG, cała praca w kadrze, krótszy bok nie mniejszy niż 2000 pikseli, objętość do 15 MB;
 
-   b) co najmniej trzy **fotografie z etapów powstawania pracy**, w tym szkic lub podmalówkę;
+   b) **posiadane materiały dokumentujące powstawanie pracy** - fotografie etapów, szkice, próby, nagranie. Uczestnik dołącza to, czym dysponuje; brak materiałów określonego rodzaju nie stanowi samodzielnej podstawy odrzucenia zgłoszenia (§ 5 ust. 2 lit. a);
 
    c) tytuł pracy oraz imię i nazwisko albo pseudonim, pod którym zgłoszenie ma być prezentowane;
 
@@ -72,13 +72,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. Zgłoszenie nie spełnia wymogów formalnych, jeżeli:
 
-   a) nie zawiera elementów wymienionych w § 4 ust. 2;
+   a) nie zawiera elementów wymienionych w § 4 ust. 2 lit. a i c-i; brak materiałów, o których mowa w lit. b, nie stanowi samodzielnej podstawy odrzucenia, lecz Organizator może zwrócić się o wyjaśnienia albo o oględziny oryginału;
 
    b) praca nie została wykonana ręcznie w rozumieniu § 6;
 
    c) praca nie dotyczy tematu określonego w § 2 ust. 1;
 
-   d) oryginał nie ma formatu pionowego albo jego dłuższy bok jest krótszy niż 50 cm;
+   d) oryginał nie ma formatu pionowego, jego dłuższy bok jest krótszy niż 50 cm albo dłuższy niż 150 cm, albo proporcje boków wykraczają poza zakres od 1:1,2 do 1:1,6;
 
    e) praca była wcześniej publikowana w wydawnictwie, prezentowana na wystawie albo nagrodzona w innym konkursie; udostępnienie na własnym profilu Uczestnika nie jest publikacją w tym rozumieniu i nie wyłącza zgłoszenia;
 
@@ -94,7 +94,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 1. Praca powstaje **pod ręką człowieka**, techniką tradycyjną: malarską, rysunkową, graficzną, kolażową lub pokrewną.
 
-2. Niedopuszczalne jest zgłoszenie pracy wygenerowanej narzędziem sztucznej inteligencji, przemalowanej albo przerysowanej z obrazu wygenerowanego, a także domalowanej na wydrukowanym podkładzie pochodzącym z takiego narzędzia.
+2. Niedopuszczalne jest wykorzystanie obrazu wygenerowanego narzędziem sztucznej inteligencji jako bezpośredniego wzorca całej pracy albo jej istotnego elementu - przez kalkowanie, przerysowanie, przemalowanie albo odtworzenie charakterystycznego układu elementów - a także domalowanie na wydrukowanym podkładzie pochodzącym z takiego narzędzia. **Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.**
 
 3. Dozwolone i niewymagające deklaracji jest korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy.
 
@@ -102,7 +102,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 5. Uczestnik składa przy zgłoszeniu oświadczenie, że praca została wykonana zgodnie z ust. 1-4.
 
-6. Weryfikacja opiera się na oświadczeniu, na fotografiach z etapów powstawania pracy oraz na oględzinach oryginałów prac finałowych, a nie na rozpoznaniu narzędzia przez jury na podstawie reprodukcji. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w konkursie.
+6. Weryfikacja opiera się na oświadczeniu, na materiałach dokumentujących powstawanie pracy oraz na oględzinach oryginałów prac finałowych, a nie na rozpoznaniu narzędzia przez jury na podstawie reprodukcji. Materiały dokumentujące proces wykazują ręczne wykonanie, nie zaś samodzielność pomysłu. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w konkursie.
 
 7. Skutki złożenia oświadczenia niezgodnego z prawdą określa § 15.
 
@@ -112,17 +112,17 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
-| Ujęcie tematu | 30 | Co praca mówi o życiu ze sztuczną inteligencją; czy za obrazem stoi własna myśl, czy gotowy symbol |
-| Pomysł plastyczny | 30 | Siła skrótu: czy jeden obraz niesie to, co inni muszą wyjaśnić zdaniem |
-| Wykonanie | 20 | Rysunek, kolor, warsztat |
-| Działanie plakatu | 20 | Czytelność z odległości i w pomniejszeniu, czyli to, czy praca jest plakatem |
+| Ujęcie tematu | 30 | **Co praca mówi** o życiu ze sztuczną inteligencją: trafność, oryginalność i pogłębienie wypowiedzi. Oceniane jest banalne użycie motywu, nie sam motyw - znany symbol użyty świeżo punktuje wysoko |
+| Pomysł plastyczny | 30 | **Jak to pokazuje**: przełożenie wypowiedzi na obraz, metaforę i relacje między elementami |
+| Wykonanie | 20 | Świadome zastosowanie techniki, koloru i rysunku |
+| Działanie plakatu | 20 | Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w pomniejszeniu |
 | Razem | 100 | |
 
 2. Karta oceny jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
 3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia ani wcześniejszych wystaw.
 
-4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Pomysł plastyczny, a następnie w kryterium Ujęcie tematu.
+4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Pomysł plastyczny, następnie w kryterium Ujęcie tematu, a w razie dalszej równości - głos przewodniczącego jury.
 
 ## § 8. Jury i tryb oceny
 
@@ -132,7 +132,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń.
 
-4. Jury ocenia wszystkie zgłoszenia, które przeszły ocenę formalną, wybiera **dziesięciu finalistów**, a spośród nich ustala kolejność trzech najwyżej ocenionych prac.
+4. Jury ocenia wszystkie zgłoszenia, które przeszły ocenę formalną, i wybiera **dziesięciu finalistów**.
+
+4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
+
+4b. Po oględzinach oryginałów jury ustala kolejność **trzech najwyżej ocenionych prac**. Kolejność ta zostaje ogłoszona dopiero podczas gali.
 
 5. Członek jury wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
@@ -154,15 +158,19 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3. Nagrody pieniężne podlegają zryczałtowanemu podatkowi dochodowemu na podstawie art. 30 ust. 1 pkt 2 ustawy o podatku dochodowym od osób fizycznych. Płatnikiem podatku jest Organizator; sposób rozliczenia wskazuje załącznik, o którym mowa w ust. 2.
 
-4. Odmowa wykorzystania pracy jako okładki antologii nie pozbawia laureata nagrody pieniężnej ani miejsca w werdykcie. Organizator wykorzystuje wówczas pracę kolejną z listy rankingowej, za zgodą jej autora.
+3a. Nagrody pieniężne wypłacane są przelewem w terminie **30 dni od dnia gali**, na rachunek wskazany przez laureata.
+
+4. **Wykorzystanie pracy jako okładki antologii wymaga odrębnej zgody autora**, wyrażanej po ogłoszeniu werdyktu. Odmowa nie pozbawia laureata nagrody pieniężnej ani miejsca w werdykcie; Organizator wykorzystuje wówczas pracę kolejną z listy rankingowej, również za zgodą jej autora.
+
+4a. **Przygotowanie okładki - dodanie typografii, ewentualne kadrowanie i dostosowanie do formatu wydania - odbywa się w uzgodnieniu z autorem**, na zasadach ogłoszonych przed otwarciem naboru. Praca jest oceniana jako samodzielny plakat, a nie jako projekt okładki, i Organizator nie oczekuje od autora wykonania poprawek.
 
 5. Jeżeli laureat zostanie wyłączony z konkursu po ogłoszeniu werdyktu na podstawie § 15, na jego miejsce wchodzi kolejne zgłoszenie z listy rankingowej, tak aby liczba finalistów wynosiła dziesięć, a liczba nagrodzonych prac trzy.
 
 ## § 10. Oryginały prac finałowych
 
-1. Dziesięciu finalistów przesyła oryginały prac na wystawę towarzyszącą gali. Organizator pokrywa koszty przesyłki w obie strony oraz ubezpieczenia na czas transportu i wystawy.
+1. Dziesięciu finalistów przesyła oryginały prac na oględziny i na wystawę towarzyszącą gali. Organizator pokrywa koszty przesyłki w obie strony oraz ubezpieczenia na czas transportu i wystawy.
 
-2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz termin, nie krótszy niż 21 dni od ogłoszenia werdyktu.
+2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz termin, **nie krótszy niż 21 dni od zawiadomienia o zakwalifikowaniu do finału** (§ 8 ust. 4a). Oryginały muszą dotrzeć przed galą, ponieważ to na niej są wystawiane, a oględziny poprzedzają ustalenie kolejności.
 
 3. Prace wracają do autorów w terminie 30 dni od zakończenia wystawy, z wyjątkiem prac przekazanych na licytację zgodnie z § 14.
 
@@ -176,7 +184,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 
-3. Po ogłoszeniu werdyktu Galeria edycji zostaje zamknięta i przechodzi do **archiwum konkursu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji.
+3. Z chwilą ogłoszenia werdyktu podczas gali Galeria edycji zostaje zamknięta i przechodzi do **archiwum konkursu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji.
 
 4. Uczestnik może w każdej chwili żądać usunięcia swojego wpisu z archiwum; Organizator usuwa go w terminie 14 dni od żądania.
 
@@ -188,7 +196,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3. Uczestnik nie bierze udziału w głosowaniu w konkursie, w którym zgłosił pracę.
 
-4. Wynik głosowania ogłaszany jest osobno od werdyktu jury i wyraźnie jako nagroda publiczności.
+4. Terminy rozpoczęcia i zakończenia głosowania Organizator ogłasza razem z terminami naboru.
+
+5. Wynik głosowania ogłaszany jest osobno od werdyktu jury i wyraźnie jako nagroda publiczności.
 
 ## § 13. Prawa autorskie i licencja
 
@@ -202,11 +212,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    c) prezentacja oryginału pracy na wystawie towarzyszącej gali oraz jego utrwalenie w zapisie wideo gali;
 
-   d) w odniesieniu do pracy zwycięskiej - reprodukcja na okładce antologii danej edycji, w jej wydaniu elektronicznym i drukowanym, oraz w materiałach informacyjnych tej edycji.
+   d) w odniesieniu do pracy zwycięskiej - reprodukcja na okładce antologii danej edycji, w jej wydaniu elektronicznym i drukowanym, oraz w materiałach informacyjnych tej edycji. **Zakres ten nie jest warunkiem udziału i wymaga odrębnej zgody, o której mowa w § 9 ust. 4.**
 
 3. Czas trwania licencji: w zakresie lit. a - do dnia ogłoszenia werdyktu; w zakresie lit. b - bezterminowo, z zastrzeżeniem § 11 ust. 4; w zakresie lit. c - bezterminowo w odniesieniu do zapisu gali; w zakresie lit. d - bezterminowo, w granicach nakładu i wznowień antologii danej edycji.
 
-4. Udzielenie licencji w zakresie ust. 2 jest warunkiem udziału w konkursie. Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
+4. **Warunkiem udziału w konkursie jest udzielenie licencji w zakresie ust. 2 lit. a i b**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), a zakres lit. d wymaga odrębnej zgody. Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
 
 5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do pracy w zakresie pozwalającym na udzielenie licencji określonej w ust. 2 oraz że praca nie narusza praw osób trzecich.
 
@@ -214,11 +224,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 14. Licytacja
 
-1. Przekazanie pracy na licytację jest **dobrowolne**. Uczestnik deklaruje je przy zgłoszeniu, a decyzja nie ma wpływu na ocenę pracy ani na jej miejsce w werdykcie.
+1. Przekazanie pracy na licytację jest **dobrowolne**. Deklaracja składana przy zgłoszeniu ma charakter **wstępny** i nie wiąże autora.
 
-2. Licytacji podlegają wyłącznie oryginały prac finałowych, których autorzy złożyli deklarację, o której mowa w ust. 1. Deklarację można cofnąć do dnia ogłoszenia werdyktu.
+1a. **Deklaracja nie jest udostępniana jury** i staje się znana Organizatorowi dopiero po zamknięciu ocen. Jest to zabezpieczenie obietnicy z ust. 1: decyzja nie może wpłynąć na werdykt, jeżeli oceniający o niej nie wie.
 
-3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji konkursu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie.
+2. Po ogłoszeniu listy finalistów autor otrzymuje **warunki licytacji**: cenę minimalną, przewidywane potrącenia, sposób i termin rozliczenia oraz miejsce przeprowadzenia licytacji. Wystawienie pracy wymaga **odrębnej akceptacji tych warunków**. Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik konkursu, na nagrody i na udział w wystawie.
+
+3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego konkursu plakatu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
 
 4. Podział, o którym mowa w ust. 3, jest jednakowy dla wszystkich uczestników licytacji i ogłoszony przed otwarciem naboru.
 
@@ -275,10 +287,10 @@ Lista wskazuje konkretne jednostki redakcyjne, nie obszary - tak samo jak przy r
 1. **§ 3 ust. 1-2** - granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy, w tym zgody na wysyłkę oryginału pracy należącej do osoby niepełnoletniej.
 2. **§ 5 ust. 2 lit. d-e** - wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: format pionowy i minimalny wymiar oryginału oraz brak wcześniejszej publikacji. Czy rodzą ryzyko zarzutu nierównego traktowania.
 3. **§ 6 ust. 2** - sformułowanie zakazu tak, by odróżniało przejęcie obrazu wygenerowanego od inspiracji, w sposób nadający się do zastosowania w sporze.
-4. **§ 6 ust. 6 w związku z § 15 ust. 3** - żądanie fotografii z etapów pracy i oględzin oryginału: czy jest dopuszczalne i jak je sformułować, żeby nie było warunkiem niemożliwym do spełnienia.
+4. **§ 6 ust. 6 w związku z § 15 ust. 3** - żądanie materiałów dokumentujących pracę i oględzin oryginału. Po zmianie z 26.10.2026 brak materiałów określonego rodzaju nie jest podstawą odrzucenia; prosimy o potwierdzenie, czy przy tak miękkim wymogu oświadczenie z § 6 ust. 5 pozostaje wystarczającą podstawą wykluczenia z § 15 ust. 5.
 5. **§ 9 ust. 3** - sposób rozliczenia podatku; decyzja wspólna z pulą nagrody głównej i z plebiscytem piosenki, dotąd niepodjęta.
 6. **§ 10** - odpowiedzialność Organizatora za powierzony oryginał: zakres ubezpieczenia, podstawa odpowiedzialności przy uszkodzeniu lub utracie, a także to, czy potrzebna jest odrębna umowa przechowania z każdym finalistą.
-7. **§ 13 ust. 2 lit. d i ust. 3** - zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy ewentualnym wydaniu płatnym.
+7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** - zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.
 8. **§ 13 ust. 6** - skuteczność zastrzeżenia, że zbycie oryginału nie wpływa na udzieloną licencję, wobec nabywcy, który nie jest stroną regulaminu.
 9. **§ 14** - **najcięższy punkt tej listy.** Czy licytacja prowadzona przez fundację na rzecz osoby prywatnej, z podziałem przychodu, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; jakie są obowiązki podatkowe po obu stronach; oraz czy przeprowadzenie licytacji w serwisie aukcyjnym w programie dla organizacji dopuszcza podział przychodu z osobą prywatną, czy zakłada przekazanie całości na cel.
 10. **§ 16 ust. 1** - progi nierozstrzygnięcia edycji przyjęte bez podstawy prawnej.

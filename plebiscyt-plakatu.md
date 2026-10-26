@@ -9,7 +9,7 @@ Otwarty konkurs na **plakat o sztucznej inteligencji i jej roli w świecie**, wy
 **W skrócie:**
 
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał;
-- jury wybiera **dziesięciu finalistów**, którzy przysyłają oryginały na wystawę;
+- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę;
 - **trzy najwyżej ocenione prace** dostają nagrody pieniężne;
 - zwycięska praca idzie na okładkę antologii;
 - nabór planujemy na 2027 rok, po zabezpieczeniu finansowania.
@@ -41,17 +41,17 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 **Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną:**
 
 - praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie;
-- format **pionowy**, w proporcjach plakatu, bok dłuższy nie krótszy niż 50 cm w oryginale;
-- praca **nie była wcześniej publikowana ani wystawiana** - publikacja na własnym profilu nie jest wystawą i niczego nie blokuje;
-- zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków, bok nie mniejszy niż 2000 pikseli.
+- format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6;
+- praca **nie była wcześniej publikowana w wydawnictwie, wystawiana ani nagradzana w innym konkursie** - pokazanie jej na własnym profilu niczego nie blokuje;
+- zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków, **krótszy** bok nie mniejszy niż 2000 pikseli.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak możesz się zgłosić</span>
 
-**Przesyłasz zdjęcie albo skan, nie oryginał.** Nikt nie wysyła płótna do konkursu, którego wyniku nie zna. **Oryginały przysyła dopiero dziesiątka finalistów** - na wystawę przy gali, na koszt organizatora, i wracają po niej do autorów.
+**Przesyłasz zdjęcie albo skan, nie oryginał.** Nikt nie wysyła płótna do konkursu, którego wyniku nie zna. **Oryginał przysyłasz dopiero wtedy, gdy wejdziesz do dziesiątki** - listę finalistów ogłaszamy przed galą, a Ty masz co najmniej 21 dni na wysyłkę. Przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawie. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja i nie tracisz przez to nic.
 
 **Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. Przy pracy wykonanej wspólnie zgłoszenie wskazuje osobę reprezentującą cały skład; ona prowadzi korespondencję, a podział ewentualnej nagrody pozostaje sprawą autorów.
 
-**Do zgłoszenia dołączasz kilka zdjęć z etapów pracy** - szkic, podmalówka, stan pośredni. Przy malarstwie takie zdjęcia powstają same, a dla nas są jedynym sensownym sposobem sprawdzenia, że obraz naprawdę powstał pod ręką.
+**Dołącz to, co masz z etapów pracy** - szkic, podmalówkę, zdjęcie w trakcie, nagranie. Nie jest to warunek: jeśli pracujesz bez szkicu albo nie masz zwyczaju się fotografować, nie odpadasz z tego powodu. Materiały ułatwiają nam jednak potwierdzenie, że obraz powstał pod ręką, więc jeśli istnieją, warto je dołączyć.
 
 Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
@@ -71,12 +71,14 @@ Cztery kryteria, każde osobno. Kartę publikujemy już teraz, zamiast obiecywa�
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
-| Ujęcie&nbsp;tematu | 30 | Co właściwie mówisz o życiu z AI; czy za obrazem stoi myśl, czy gotowy symbol - robot, oko, sieć neuronowa |
-| Pomysł&nbsp;plastyczny | 30 | Siła skrótu: czy jeden obraz niesie to, co inni muszą wytłumaczyć zdaniem |
-| Wykonanie | 20 | Rysunek, kolor, warsztat |
-| Działanie&nbsp;plakatu | 20 | Czy to działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym |
+| Ujęcie&nbsp;tematu | 30 | **Co mówisz** o życiu z AI: trafność, oryginalność i głębia wypowiedzi |
+| Pomysł&nbsp;plastyczny | 30 | **Jak to pokazujesz**: przełożenie myśli na obraz, metaforę i relacje między elementami |
+| Wykonanie | 20 | Świadome użycie techniki, koloru i rysunku |
+| Działanie&nbsp;plakatu | 20 | Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym |
 
-Ujęcie tematu i pomysł plastyczny ważą najwięcej, bo plakat jest formą, w której myśl i skrót to jedno. Wykonanie waży mniej celowo: nie szukamy najlepszego warsztatu, tylko najlepszego plakatu.
+Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie tematu to „co mówisz", pomysł plastyczny to „jak to pokazujesz"**. Można mieć trafną myśl i rozwiązać ją nijak, albo olśniewająco pokazać coś, co nic nie wnosi. Wykonanie waży mniej celowo: nie szukamy najlepszego warsztatu, tylko najlepszego plakatu.
+
+**Znany motyw nie jest wadą.** Robot, oko, sieć połączeń - wszystkiego tego wolno użyć i da się użyć znakomicie. Niżej punktowane jest użycie banalne, a nie sam motyw.
 
 **Czego nie oceniamy: Twojego dorobku, wykształcenia ani tego, czy ktoś Cię już wystawiał.**
 
@@ -90,7 +92,7 @@ Ujęcie tematu i pomysł plastyczny ważą najwięcej, bo plakat jest formą, w 
 
 **Nagrody pieniężne dla trzech najwyżej ocenionych prac**, nagroda publiczności oraz statuetki. Wysokość podamy przy ogłoszeniu naboru.
 
-**Okładka antologii.** Zwycięska praca ukazuje się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
+**Okładka antologii.** Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. **Wymaga to Twojej osobnej zgody już po werdykcie** - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
 
 **Wystawa przy gali.** Oryginały dziesiątki finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody, a transport i powrót prac pokrywa organizator.
 
@@ -98,7 +100,7 @@ Ujęcie tematu i pomysł plastyczny ważą najwięcej, bo plakat jest formą, w 
 
 **Twoje zgłoszenie od razu trafia na stronę.** Wszystkie prace, które przeszły sprawdzenie formalne, pokazujemy w Galerii - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru.
 
-**Po gali Galeria zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim praca, tytuł, podpis i rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
+**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim praca, tytuł, podpis i rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4.4-2.9 7.6-7 9-4.1-1.4-7-4.6-7-9V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></svg><span>Prawa do Twojego plakatu</span>
 
@@ -110,11 +112,11 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokaz
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 20.5h17"/><path d="M5 17.5h8"/><path d="m7 14 5-9 5 9z"/></svg><span>Licytacja - dobrowolna</span>
 
-Po gali prace finalistów mogą trafić na **licytację**. Udział w niej jest **Twoim wyborem**, deklarowanym przy zgłoszeniu: przekazujesz pracę albo nie, a decyzja nie ma żadnego wpływu na ocenę.
+Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny.
 
-Jeżeli przekazujesz, podział jest jednakowy dla wszystkich i ogłoszony z góry: **połowa dla Ciebie, połowa na pulę nagród następnej edycji**. Organizator nie zatrzymuje z tego nic na własną działalność - tak samo jak przy przychodzie z płatnego wydania antologii.
+**Decydujesz dwa razy, a wiążące jest dopiero to drugie.** Przy zgłoszeniu zaznaczasz wstępnie, czy taka możliwość Cię interesuje; ta deklaracja nie trafia do jury i nie wiąże Cię do niczego. Dopiero po wejściu do dziesiątki dostajesz warunki - cenę minimalną, przewidywane potrącenia i sposób rozliczenia - i wtedy decydujesz naprawdę. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
 
-Ta połowa nie jest opłatą za udział, tylko powodem, dla którego licytacja charytatywna w ogóle działa: ludzie licytują powyżej ceny rynkowej, bo część kwoty idzie na cel. Przy całości dla autora byłaby to zwykła sprzedaż.
+Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z góry: **połowa dla Ciebie, połowa na pulę nagród kolejnej edycji tego konkursu**. Organizator nie zatrzymuje z tego nic na własną działalność i przedstawia Ci rozliczenie na piśmie.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.2 14 9l5.8 2-5.8 2-2 5.8L10 13l-5.8-2L10 9z"/></svg><span>Gala i terminy</span>
 
@@ -132,13 +134,13 @@ Pokazujemy go, bo udawanie, że takie obrazy nie istnieją, byłoby nieuczciwe. 
 
 A teraz rzecz, o którą w tym konkursie chodzi. Spójrz na ten obraz jeszcze raz i zapytaj: **co on właściwie mówi?** Że człowiek i sztuczna inteligencja stoją naprzeciw siebie, a ktoś je łączy. To jest zdanie, które każdy z nas słyszał już sto razy. Jest gładkie, ładnie podane i nie wnosi nic, czego nie było w nagłówku.
 
-Generator potrafi zrobić obraz. Nie potrafi mieć zdania, bo nie ma czego o tej sprawie myśleć - nie traci przez AI pracy, nie zyskuje przez nią czasu, nie boi się jej i nie jest nią zachwycony. **Prosimy o plakat, za którym ktoś stoi.** Nie o lepszy warsztat, tylko o własne zdanie, przepuszczone przez trzy tygodnie decydowania, co zostaje, a co wypada.
+Generator potrafi zrobić obraz. Nie potrafi mieć zdania, bo nie ma czego o tej sprawie myśleć - nie traci przez AI pracy, nie zyskuje przez nią czasu, nie boi się jej i nie jest nią zachwycony. **Prosimy o plakat, za którym ktoś stoi.** Nie o lepszy warsztat ani o dłuższą pracę - świetny plakat bywa zrobiony w jeden wieczór - tylko o własne zdanie i o decyzje, co zostaje, a co wypada.
 
 Jeśli po konkursie będzie można postawić zwycięską pracę obok tego obrazka i zobaczyć różnicę, konkurs się udał.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><span>Dlaczego akurat plakat</span>
 
-Bo to jedyna dziedzina, w której Polska ma własną szkołę rozpoznawaną na świecie - i ponieważ właśnie na obrazach spór o sztuczną inteligencję zrobił się najgłośniejszy. Nie znaczy to, że muzyki i pisania ten spór nie dotyczy; znaczy tylko, że tam zobaczyli go wszyscy naraz. Generator rysuje plakat w pół minuty. Pytanie, co z tego wynika dla człowieka, który rysuje go trzy tygodnie, jest pytaniem o tę epokę, a nie o technikę.
+Polska szkoła plakatu jest rozpoznawalną częścią naszego dorobku artystycznego - i właśnie na obrazach spór o sztuczną inteligencję zrobił się najgłośniejszy. Nie znaczy to, że muzyki i pisania ten spór nie dotyczy; znaczy tylko, że tam zobaczyli go wszyscy naraz. Generator rysuje plakat w pół minuty. Pytanie, co z tego wynika dla człowieka, który rysuje go trzy tygodnie, jest pytaniem o tę epokę, a nie o technikę.
 
 Warunek ręcznego wykonania nie jest więc nostalgią. Jest sposobem postawienia pytania tak, żeby dało się na nie odpowiedzieć obrazem, a nie manifestem.
 
