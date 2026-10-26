@@ -160,7 +160,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    b) nagroda publiczności;
 
-   c) statuetki dla laureatów oraz dyplomy dla wszystkich dziesięciu finalistów;
+   c) **mosiężny medalion Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich dziesięciu finalistów. Medalion jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
 
    d) wykorzystanie pracy zwycięskiej jako okładki antologii danej edycji.
 

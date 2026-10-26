@@ -132,7 +132,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł oraz dziewięć wyróżnień po 10 tys. zł**, czyli pula 390 tys. zł. Uzasadnienie kwoty w punkcie 9.
 
-**Fizyczne:** mosiężny medalion z pieczęcią konkursu, grawerowany, wręczany osobiście laureatowi; tłoczone dyplomy dla całej dziesiątki finalistów.
+**Fizyczne:** mosiężny medalion z pieczęcią Nagrody, grawerowany, wręczany osobiście laureatowi; tłoczone dyplomy dla całej dziesiątki finalistów. **Ten sam medalion otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
 Rozdział ten dotyczy wyłącznie konkursu głównego. Nagrody obu plebiscytów artystycznych są odrębne i opisane w rozdziałach 10 i 10a; nie wchodzą do puli 390 tys. zł i nie są z niej finansowane.
 
@@ -171,11 +171,11 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 | Konkurs rozmów: nabór, ocena, prowadzenie, gala | laureat, dziesiątka finalistów, gala | 2027-2028 | 561 684,80 zł | fundator puli nagród | nie |
 | Antologia i archiwum, w tym krótki nakład na galę | e-book bezpłatny, archiwum, egzemplarze dla laureatów | 2027-2028 | 292 422,00 zł | partner wydawniczy lub sponsor organizacyjny | nie |
 | Pierwsza runda oceny: Akademia | przesiew zgłoszeń, dwa odczyty na zgłoszenie | 2027-2028 | 49 280,00 zł | sponsor Akademii | nie |
-| Plebiscyt piosenki: nabór, ocena, nagrody, prowadzenie | konkurs i jego laureaci | 2027-2028 | 101 616,00 zł | sponsor plebiscytu | **tak** |
+| Plebiscyt piosenki: nabór, ocena, nagrody, prowadzenie | konkurs i jego laureaci | 2027-2028 | 99 600,00 zł | sponsor plebiscytu | **tak** |
 | Nagrania studyjne dziesiątki finalistów | dziesięć nagrań, prawa przy autorach | 2028 | 75 000,00 zł | sponsor plebiscytu | **tak** |
 | Hymn z teledyskiem | nagranie i premiera otwierająca nabór | 2027 | 80 000,00 zł | sponsor plebiscytu | **tak** |
 | Realizacja części artystycznej gali | koncert finałowy | 2028 | do wyceny | sponsor plebiscytu | **tak** |
-| Plebiscyt plakatu: nabór, ocena, nagrody, oryginały | konkurs, okładka antologii, archiwum reprodukcji | 2027-2028 | 155 496,00 zł | mecenas konkursu plakatu | **tak** |
+| Plebiscyt plakatu: nabór, ocena, nagrody, oryginały | konkurs, okładka antologii, archiwum reprodukcji | 2027-2028 | 153 480,00 zł | mecenas konkursu plakatu | **tak** |
 | Wystawa oryginałów przy gali | wystawa dziesięciu prac finałowych | 2028 | do wyceny | mecenas konkursu plakatu | **tak** |
 | Podcast, dwadzieścia cztery odcinki | bezpłatny materiał edukacyjny | 2027 | do wyceny | sponsor Antologii | nie |
 
@@ -183,7 +183,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 Prośba o wskazanie drogi finansowania dotyczy wyłącznie wierszy oznaczonych „tak". Pozostałe wymieniam, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
 
-Suma wierszy oznaczonych „tak" wynosi dziś **412 112,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. **Osiem pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
+Suma wierszy oznaczonych „tak" wynosi dziś **408 080,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. **Osiem pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
 
 - w plebiscycie piosenki: honoraria jury za ocenę, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów;
 - w plebiscycie plakatu: honoraria jury za ocenę, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów.
@@ -221,10 +221,10 @@ Rozdzielenie to jest celowe i wynika wprost z tezy przedsięwzięcia. Konkurs o 
 | Nagroda za najlepsze uzasadnienie wyboru | 1 000 zł |
 | Profesjonalne nagranie studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Nagranie hymnu „Zapytaj inaczej" przez jurorów, wraz z teledyskiem | 60 000 - 100 000 zł |
-| Statuetki i dyplomy dla laureatów plebiscytu | 3 000 zł |
-| **Razem, pozycje rozstrzygnięte w tej tabeli** | **152 000 - 242 000 zł** |
+| Medalion zwycięzcy i dyplomy finalistów | 1 200 zł |
+| **Razem, pozycje rozstrzygnięte w tej tabeli** | **150 200 - 240 200 zł** |
 
-Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora. **Arkusz budżetowy pierwszej edycji podaje dla plebiscytu piosenki 256 616 zł netto w wariancie bazowym** i składa się on z: 197 000 zł kosztów twardych przy środku widełek, 36 300 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń, skalowanej ich liczbą - oraz 23 316 zł rezerwy na nieprzewidziane. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
+Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora. **Arkusz budżetowy pierwszej edycji podaje dla plebiscytu piosenki 254 600 zł netto w wariancie bazowym** i składa się on z: 195 200 zł kosztów twardych przy środku widełek, 36 300 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń, skalowanej ich liczbą - oraz 23 100 zł rezerwy na nieprzewidziane. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
 
 Cztery uwagi do tego kosztorysu, powiedziane wprost.
 
@@ -266,13 +266,13 @@ Cztery uwagi do tego kosztorysu, powiedziane wprost.
 |---|---|
 | Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
 | Nagroda publiczności | 3 000 zł |
-| Statuetki i dyplomy dla laureatów | 3 000 zł |
+| Medalion zwycięzcy i dyplomy finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Transport oryginałów dziesiątki finalistów w obie strony | 8 000 zł |
 | Ubezpieczenie prac na czas wystawy | 3 000 zł |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przyjęcie i zwrot oryginałów, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji - razem 190 godzin | 41 800 zł |
-| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 6 696 zł |
-| **Razem, pozycje rozstrzygnięte** | **155 496 zł** |
+| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 6 480 zł |
+| **Razem, pozycje rozstrzygnięte** | **153 480 zł** |
 | Realizacja wystawy przy gali: zawieszenie, oświetlenie, opisy prac | do wyceny |
 | Obsługa prawna regulaminu konkursu | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
