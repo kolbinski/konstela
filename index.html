@@ -597,6 +597,22 @@
         padding-block: 0.9rem 1.3rem;
         /* Tło na całą szerokość, pozycje wyrównane do kolumny treści. */
         padding-inline: max(16px, calc((100% - 44rem) / 2));
+        /* Menu siedzi w pasku przyklejonym do góry, więc przy niskim oknie -
+           telefon w poziomie - jego dolne pozycje wychodziły poza ekran i nie
+           dało się do nich dotrzeć. Ograniczamy wysokość do tego, co zostaje
+           pod paskiem, i pozwalamy przewijać samo menu.
+           Jednostka dvh, a nie vh, bo na telefonie pasek adresu chowa się
+           i rozwija, a vh liczy się od największej wysokości okna. */
+        /* Bez border-box max-height liczyłaby się do krawędzi treści,
+           a dopełnienie dochodziłoby ponad nią - menu wystawałoby poza ekran
+           dokładnie o te 2,2 rem. */
+        box-sizing: border-box;
+        max-height: calc(100vh - 2.9rem);
+        max-height: calc(100dvh - 2.9rem);
+        overflow-y: auto;
+        /* Dojechanie do końca listy nie przewija strony pod spodem. */
+        overscroll-behavior: contain;
+        -webkit-overflow-scrolling: touch;
       }
       .menu[hidden] {
         display: none;
