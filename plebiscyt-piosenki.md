@@ -155,7 +155,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych słów. In
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
-Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.piosenki@konstela.org**. Adres prowadzi wprost do tego plebiscytu, więc Twoje pytanie nie przechodzi przez skrzynkę ogólną.
+Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.piosenki@konstela.org**.
 
 Napisz, jeśli:
 

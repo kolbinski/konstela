@@ -157,7 +157,7 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
-Wszystkie pytania i sprawy dotyczące konkursu proszę pisać na adres: **plebiscyt.plakatu@konstela.org**. Adres prowadzi wprost do tego plebiscytu, więc Twoje pytanie nie przechodzi przez skrzynkę ogólną.
+Wszystkie pytania i sprawy dotyczące konkursu proszę pisać na adres: **plebiscyt.plakatu@konstela.org**.
 
 Napisz, jeśli:
 

@@ -109,4 +109,4 @@ Elementem wieczoru jest **dialog czytany**: finalista czyta ze sceny własne pyt
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
-Pytania o plebiscyt: **plebiscyt.rozmowy@konstela.org**. Adres prowadzi wprost do tego plebiscytu, więc Twoje pytanie nie przechodzi przez skrzynkę ogólną.
+Pytania o plebiscyt: **plebiscyt.rozmowy@konstela.org**.
