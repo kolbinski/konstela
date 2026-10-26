@@ -94,10 +94,15 @@
   padding: 0.35rem 0.25rem;
   margin-left: -0.25rem;
 }
+/* Ikony w pasku rysowane są kreską, a nie plamą, więc przy domyślnej grubości
+   czytały się jak włos - zwłaszcza na ekranach o dużej gęstości pikseli, gdzie
+   1,5 px to pół punktu. Stąd większy rozmiar i grubsza kreska na wszystkich
+   trzech: strzałce powrotu, ikonie trybu czytelności i burgerze. */
 .topbar a.back svg {
   display: block;
-  width: 1.1rem;
-  height: 1.1rem;
+  width: 1.35rem;
+  height: 1.35rem;
+  stroke-width: 2.25;
 }
 .topbar a.back:hover {
   opacity: 1;
@@ -173,10 +178,15 @@
 .czytelnosc:active {
   background: none;
 }
+.czytelnosc,
+.burger {
+  width: 2.6rem;
+}
 .czytelnosc svg {
   display: block;
-  width: 1.3rem;
-  height: 1.3rem;
+  width: 1.6rem;
+  height: 1.6rem;
+  stroke-width: 2.25;
 }
 .czytelnosc:focus {
   outline: none;
@@ -229,8 +239,9 @@
 .burger-ikona::before,
 .burger-ikona::after {
   display: block;
-  width: 1.25rem;
-  height: 1.5px;
+  width: 1.5rem;
+  height: 2.5px;
+  border-radius: 1px;
   background: var(--bar-fg);
   transition: transform 0.18s ease, opacity 0.18s ease;
 }
@@ -244,19 +255,19 @@
   left: 0;
 }
 .burger-ikona::before {
-  top: -6px;
+  top: -7px;
 }
 .burger-ikona::after {
-  top: 6px;
+  top: 7px;
 }
 .burger[aria-expanded='true'] .burger-ikona {
   background: transparent;
 }
 .burger[aria-expanded='true'] .burger-ikona::before {
-  transform: translateY(6px) rotate(45deg);
+  transform: translateY(7px) rotate(45deg);
 }
 .burger[aria-expanded='true'] .burger-ikona::after {
-  transform: translateY(-6px) rotate(-45deg);
+  transform: translateY(-7px) rotate(-45deg);
 }
 @media (prefers-reduced-motion: reduce) {
   .burger-ikona,
