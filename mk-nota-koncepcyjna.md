@@ -1,6 +1,6 @@
 # Nagroda Konstela - Nota koncepcyjna dla Ministerstwa Kultury i Dziedzictwa Narodowego
 
-**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne archiwum. Drugim, równorzędnym konkursem jest otwarty plebiscyt na piosenkę o sztucznej inteligencji, rozstrzygany na tej samej gali; powód, dla którego traktuję oba jako równie potrzebne, jest w rozdziale 2, a konstrukcja i kosztorys w rozdziale 10.
+**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne archiwum. Towarzyszą jej dwa równorzędne konkursy artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji i otwarty plebiscyt na plakat o niej, wykonany ręcznie. Powód, dla którego traktuję wszystkie trzy jako równie potrzebne, jest w rozdziale 2, a ich konstrukcja i kosztorysy w rozdziałach 10 i 10a.
 
 **Proszę o dwie rzeczy, niezależne od siebie.** Pierwsza: **list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego konkursu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. Druga: **wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na cztery pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.** Rozwinięcie w rozdziale 13.
 
@@ -24,7 +24,7 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu,
 
 **Rozmowa jest pierwszym miejscem, w którym to widać, ale nie jedynym.** Przedmiotem Nagrody nie są rozmowy z programem, lecz współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Rozmowa jest tym miejscem, w którym współistnienie daje się zapisać i ocenić najdokładniej, i dlatego stoi w centrum konstrukcji. Nie jest jednak miejscem jedynym ani najbardziej dotkniętym: rynek muzyczny zmienia się dziś pod wpływem narzędzi generatywnych szybciej i boleśniej niż sposób, w jaki ludzie zadają pytania.
 
-Dlatego plebiscyt na piosenkę, opisany w rozdziale 10, nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: konkurs, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu. Oba konkursy odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i oba traktuję jako równie potrzebne.
+Dlatego plebiscyt na piosenkę, opisany w rozdziale 10, nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: konkurs, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu. To samo dotyczy plebiscytu na plakat, opisanego w rozdziale 10a, w którym obraz ma powstać pod ludzką ręką, a oceniany jest właśnie obraz. Wszystkie trzy konkursy odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
 
 ## 3. Co powstaje
 
@@ -93,6 +93,8 @@ Cztery mechanizmy, wszystkie zapisane w regulaminie:
 - zgłoszenia: do 15 stycznia 2028
 - ocena pierwszej rundy: na bieżąco przez cały rok, partiami
 - ocena Kapituły i rozmowy weryfikacyjne: luty i początek marca 2028
+- nabór plakatów: zamyka się wcześniej niż nabór rozmów, w 2027 roku; dokładny termin podaję przy ogłoszeniu konkursu
+- werdykt plebiscytu na plakat: przed galą, aby zwycięska praca trafiła na okładkę antologii przed jej drukiem
 - rozstrzygnięcie i publikacja antologii: druga połowa marca 2028
 
 Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
@@ -145,7 +147,7 @@ Wysoka pula rodzi pytanie, czy nie przyciągnie osób liczących kryteria zamias
 
 Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe i ubezpieczeniowe (CSR i kompetencje cyfrowe), firmy technologiczne, uczelnie, fundacje korporacyjne. **Nie planuję przyjmować finansowania od dostawców modeli językowych w edycjach krajowych** - konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty.
 
-**Część artystyczna jest poza tym budżetem.** Powyższe 837 tys. zł nie obejmuje plebiscytu ani hymnu; jego pozycje są wyliczone odrębnie w rozdziale 10. Jest to rozdzielenie celowe: plebiscyt nie konkuruje o środki z pulą nagród i nie opóźnia jej pozyskania. Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w trzech miejscach - w programach wsparcia kultury, u wydawnictw muzycznych i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, zakres pozycji nim objętych zostanie wskazany i wyłączony z rozmów ze sponsorami prywatnymi.
+**Część artystyczna jest poza tym budżetem.** Powyższe 837 tys. zł nie obejmuje żadnego z dwóch plebiscytów ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach 10 i 10a. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania. Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w trzech miejscach - w programach wsparcia kultury, u wydawnictw muzycznych i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, zakres pozycji nim objętych zostanie wskazany i wyłączony z rozmów ze sponsorami prywatnymi.
 
 ## 10. Plebiscyt na piosenkę i gala
 
@@ -194,7 +196,44 @@ Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
 **Teledysk nie jest ozdobą.** Pierwsza edycja Nagrody trwa cały rok 2027, a jej rozstrzygnięcie przypada na marzec 2028. Przez ten rok na stronie dzieją się trzy rzeczy: kolejne odcinki podcastu, napływające zgłoszenia plebiscytu prezentowane na bieżąco oraz hymn. Hymn z teledyskiem jest wśród nich **materiałem przygotowywanym na zaplanowany termin otwarcia kampanii**, w odróżnieniu od podcastu, który zależy od dostępności gości, i od zgłoszeń uczestników, które napływają wtedy, kiedy ktoś je nadeśle. Dlatego premiera hymnu przypada na początek 2027 roku, a nie na zamknięcie edycji. Nie twierdzę przy tym, że jego zasięg będzie największy - to jest założenie do zweryfikowania z przewodniczącym jury, a nie fakt. Zastrzegam przy tym, że napływające zgłoszenia same nie gwarantują równomiernego ruchu: doświadczenie konkursów wskazuje, że zgłoszenia kumulują się pod koniec terminu, a dotarcie do odbiorców pozostaje odrębną pracą.
 
-## 10a. Podcast towarzyszący
+## 10a. Plebiscyt na plakat
+
+**Plebiscyt na plakat.** Otwarty konkurs na plakat o sztucznej inteligencji i jej roli w świecie, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Adresatami są twórcy rozwijający własną praktykę - ilustratorzy, malarze, studenci szkół artystycznych, projektanci - i nie pytamy o wystawy, dyplomy ani o przynależność do galerii. Zgłasza się zdjęcie albo skan pracy, nie oryginał, aby koszt wysyłki nie decydował o tym, kto weźmie udział. Format jest pionowy, dłuższy bok od 50 do 150 cm. Jury ogląda wszystkie zgłoszenia, wybiera dziesięciu finalistów i ustala kolejność trzech najwyżej ocenionych prac; kryteria oceny są ogłaszane przed naborem, tak samo jak w pozostałych dwóch konkursach.
+
+**Obraz ma powstać pod ludzką ręką.** Niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wygenerowanego albo domalowanej na wydrukowanym podkładzie; dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu pomysłów, zanim autor weźmie pędzel. Zakaz dotyczy pochodzenia zgłoszonej pracy, a nie tego, czego autor szukał po drodze. Granica jest tu twardsza niż w plebiscycie piosenki, gdzie tekst wolno napisać przy udziale sztucznej inteligencji, i wynika to z tej samej zasady: ocenianym wytworem jest sam obraz, a nie jeden z kilku składników utworu. Weryfikacja opiera się na oświadczeniu zgłaszającego, na zdjęciach z etapów pracy, których dostarczenie jest dobrowolne, oraz na oryginałach nadsyłanych przez finalistów; nie opiera się na rozpoznawaniu narzędzia przez jury podczas oglądania reprodukcji. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w konkursie - wyklucza je dopiero wykazana nieprawda w oświadczeniu. Narzędzia cyfrowe przy przygotowaniu pliku, to jest kadrowanie, korekta kolorów do zgodności z oryginałem i usunięcie cienia, są dopuszczalne; nie wolno nimi dodawać ani usuwać elementów obrazu.
+
+**Prawa.** Praca pozostaje własnością autora, wraz z prawami autorskimi i prawem do sprzedaży oryginału. Organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: reprodukcja w galerii zgłoszeń i w archiwum na stronie, pokazanie oryginału na wystawie przy gali oraz, przy pracy zwycięskiej, reprodukcja na okładce antologii i w materiałach informacyjnych edycji. Sprzedaż oryginału nie przenosi praw autorskich, więc licencja działa niezależnie od tego, do kogo należy później samo płótno. Członek jury nie może zgłosić własnej pracy.
+
+**Jury.** Składu jeszcze nie ma i nie wymieniam nikogo, dopóki nie potwierdzi udziału na piśmie. Zapowiadana jest natomiast zasada: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora. Werdykt należy do jury, nie do głosowania publiczności, z tego samego powodu co w pozostałych konkursach - przy głosowaniu wygrywa największy zasięg, a nie najlepsza praca.
+
+**Okładka antologii.** Zwycięska praca, za zgodą autora wyrażoną po werdykcie, ukazuje się na okładce antologii najlepszych rozmów danej edycji, z nazwiskiem autora na stronie redakcyjnej. Odmowa nie zmienia ani wyniku, ani nagrody. Typografia i ewentualne kadrowanie są uzgadniane z autorem, ponieważ praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki.
+
+**Galeria i archiwum.** Zgłoszenia, które przeszły sprawdzenie formalne, są prezentowane na stronie przez cały czas naboru, bezpłatnie i bez ograniczeń dostępu. Z chwilą ogłoszenia werdyktu galeria zamyka się i przechodzi do archiwum, w którym zostaje reprodukcja, tytuł, podpis i rok edycji. Autor może w każdej chwili poprosić o usunięcie swojego wpisu. Ta część ma wartość odrębną od samego konkursu: kilkadziesiąt prac o jednym temacie, wykonanych ręcznie w jednym roku i zachowanych publicznie, jest dokumentem tego, jak sztuczna inteligencja była wtedy widziana.
+
+**Gala, wystawa i kalendarz.** Konkurs rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie marca 2028 roku. Oryginały dziesiątki finalistów są pokazywane na wystawie towarzyszącej, a ich transport w obie strony i ubezpieczenie na czas wystawy pokrywa organizator. **Werdykt zapada przed galą**, ponieważ antologia ma tego wieczoru premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali. Konsekwencją jest to, że **nabór plakatów zamyka się wcześniej niż nabór rozmów**, a część kosztów tego konkursu przypada na 2027 rok, podczas gdy wystawa i transport powstają w 2028.
+
+**Nagroda publiczności.** Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności dla pracy z największą liczbą głosów. Konstrukcja jest ta sama co w plebiscycie piosenki, wraz z rezygnacją z nagrody losowanej wśród głosujących, która byłaby loterią promocyjną w rozumieniu ustawy o grach hazardowych.
+
+**Licytacja oryginałów.** Przewidziana jest dobrowolna licytacja oryginałów prac finałowych, połączona ze wsparciem kolejnej edycji. Propozycja trafia do autora dopiero po zamknięciu ocen, aby jego odpowiedź nie mogła wpłynąć na werdykt, i obejmuje konkretne warunki: cenę minimalną, przewidywane potrącenia i sposób rozliczenia. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie. Przy zgodzie autora przychód dzieli się po połowie między autora i pulę nagród kolejnej edycji tego konkursu; organizator nie zatrzymuje z niego nic na własną działalność i przedstawia autorowi rozliczenie na piśmie. Nie twierdzę przy tym, że do sprzedaży dojdzie ani że osiągnie jakąkolwiek cenę - jest to możliwość, nie pozycja przychodowa budżetu.
+
+**Stan przygotowań, powiedziany wprost.** Tego konkursu również nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich wysokości publicznie, zanim nie będą zabezpieczone. Regulamin jest napisany i opublikowany przed ogłoszeniem naboru, wraz z wykazem miejsc czekających na przegląd prawny; wchodzi w życie w dniu otwarcia naboru.
+
+### Budżet plebiscytu na plakat
+
+| Pozycja | Kwota |
+|---|---|
+| Nagrody pieniężne dla trzech najwyżej ocenionych prac | do ustalenia |
+| Nagroda publiczności | do ustalenia |
+| Statuetki i dyplomy dla laureatów | do ustalenia |
+| Transport oryginałów dziesiątki finalistów w obie strony oraz ubezpieczenie na czas wystawy | do wyceny |
+| Realizacja wystawy przy gali: zawieszenie, oświetlenie, opisy prac | do wyceny |
+| Honoraria jury za ocenę zgłoszeń | do wyceny |
+| Kontrola formalna zgłoszeń przez czas naboru, skalowana ich liczbą | do wyceny |
+| Dotarcie do środowiska ilustratorów i szkół artystycznych | do wyceny |
+
+Kwot w tej tabeli nie podaję, ponieważ nie są ustalone, a nie chcę przedstawiać Ministerstwu liczb wziętych z sufitu. Wycena pozycji oznaczonych jako do wyceny powstanie przed złożeniem jakiegokolwiek wniosku; wysokość nagród zostanie ustalona wraz z zabezpieczeniem środków. Kosztorys nie obejmuje druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa konkursu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w rozdziale 10.
+
+## 10b. Podcast towarzyszący
 
 Przez cały rok naboru ukazuje się podcast Nagrody: **dwadzieścia cztery odcinki co dwa tygodnie**, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, nie organizator - z tego samego powodu, dla którego jury plebiscytu tworzą muzycy, a nie my: nazwisko zmienia odbiór, a organizator mówiący o własnej nagrodzie jest wyłącznie jej reklamą.
 
@@ -250,5 +289,11 @@ olbinski@gmail.com
 **Materiały**
 
 Strona Nagrody (wersja robocza - finalną wykona agencja kreatywna): https://konstela.org
+
+Regulamin Nagrody wraz z kartą oceny: https://konstela.org/dokument/regulamin
+
+Regulamin plebiscytu na piosenkę: https://konstela.org/dokument/regulamin-plebiscytu
+
+Regulamin plebiscytu na plakat: https://konstela.org/dokument/regulamin-plakatu
 
 *Koncepcja operacyjna, w tym plan antologii i tryb pracy Kapituły i Akademii, dostępna na życzenie.*
