@@ -63,10 +63,10 @@
      sekcji ich nie ma - to są cztery osobne strony, a nie jej fragmenty. */
   var PODSTRONY = {
     plebiscyty: [
-      ['/plebiscyt-rozmowy', 'Rozmowa'],
-      ['/plebiscyt-filmu', 'Film'],
-      ['/plebiscyt-piosenki', 'Piosenka'],
-      ['/plebiscyt-plakatu', 'Plakat'],
+      ['/plebiscyt-rozmowy', 'Rozmowa ze sztuczną inteligencją'],
+      ['/plebiscyt-filmu', 'Film o sztucznej inteligencji'],
+      ['/plebiscyt-piosenki', 'Piosenka o sztucznej inteligencji'],
+      ['/plebiscyt-plakatu', 'Plakat o sztucznej inteligencji'],
     ],
   };
 
