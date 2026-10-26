@@ -1,14 +1,16 @@
-# Instrukcja oznaczania zastrzeżeń dla oceniających
+# Procedura moderacji zgłoszeń
 
 ---
 
-## 1. Do czego służy ta instrukcja
+## 1. Do czego służy ta procedura
 
-Oceniasz zgłoszenia w jednym z plebiscytów Nagrody Konstela. Obok oceny merytorycznej masz w panelu jeszcze jedno zadanie: **oznaczyć zastrzeżenie, jeżeli w zgłoszeniu zobaczysz coś, co może być problemem prawnym przy publikacji**. Niniejsza instrukcja mówi, kiedy to zrobić, i jest dokumentem, o którym mówią regulaminy: § 8 ust. 3a lit. c1 [regulaminu plebiscytu na rozmowę](/dokument/regulamin-rozmowy), § 8 ust. 4h [regulaminu plebiscytu na plakat](/dokument/regulamin-plakatu) oraz § 8 ust. 7 [regulaminu plebiscytu na film](/dokument/regulamin-filmu). W plebiscycie na piosenkę oznaczanie nie jest przewidziane: zgłoszeniem jest nagranie pozostające na kanale autora, a Słuchalnia prezentuje odnośnik do niego, nie kopię.
+To jest dokument dla **oceniających** - członków jury, Kapituły i Akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Nazywamy go procedurą moderacji, bo o moderację chodzi: o to, co trafia do czytelni, Galerii, Projektorni i archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
+
+Oceniasz zgłoszenia w jednym z plebiscytów Nagrody Konstela. Obok oceny merytorycznej masz w panelu jeszcze jedno zadanie: **oznaczyć zastrzeżenie, jeżeli w zgłoszeniu zobaczysz coś, co może być problemem prawnym przy publikacji**. Niniejsza procedura mówi, kiedy to zrobić, i jest dokumentem, o którym mówią regulaminy: § 8 ust. 3a lit. c1 [regulaminu plebiscytu na rozmowę](/dokument/regulamin-rozmowy), § 8 ust. 4h [regulaminu plebiscytu na plakat](/dokument/regulamin-plakatu) oraz § 8 ust. 7 [regulaminu plebiscytu na film](/dokument/regulamin-filmu) oraz § 10 ust. 6a [regulaminu plebiscytu na piosenkę](/dokument/regulamin-plebiscytu).
 
 Zadanie to powierzono oceniającym z jednego powodu: **i tak czytasz albo oglądasz każde zgłoszenie**. Przegląd prowadzony osobno przez organizatora nie skalowałby się wraz z liczbą zgłoszeń, a oznaczanie przez osoby, które zgłoszenie i tak mają przed sobą, rośnie razem z naborem.
 
-**Czego ta instrukcja nie robi.** Nie czyni z Ciebie prawnika i nie oczekuje, że nim będziesz. Nie ustalasz, czy coś jest naruszeniem prawa, czy uczestnik ma uprawnienie do wykorzystania materiału, ani czy materiał jest cudzy. **Rozpoznajesz podejrzenie, nie stan prawny.**
+**Czego ta procedura nie robi.** Nie czyni z Ciebie prawnika i nie oczekuje, że nim będziesz. Nie ustalasz, czy coś jest naruszeniem prawa, czy uczestnik ma uprawnienie do wykorzystania materiału, ani czy materiał jest cudzy. **Rozpoznajesz podejrzenie, nie stan prawny.**
 
 ## 2. Pięć zasad, które obowiązują zawsze
 
@@ -83,6 +85,22 @@ Oznacz, gdy obejrzane nagranie nie przekonuje Cię, że pracę wykonuje osoba, k
 - **Oznacz:** w nagraniu malowany jest inny obraz niż zgłoszony.
 - **Nie oznaczaj:** nagrania słabej jakości, nieostrego, ciemnego albo nagranego telefonem z ręki, jeżeli widać w nim to, co ma być widoczne.
 - **Nie oznaczaj:** braku twarzy albo zbyt krótkiego nagrania - to jest sprawa oceny formalnej, a nie oznaczenia; organizator sprawdza to przed przekazaniem Ci zgłoszenia.
+
+### Plebiscyt na piosenkę o sztucznej inteligencji
+
+Zakres jest tu najwęższy ze wszystkich czterech, bo organizator nie publikuje nagrań: Słuchalnia pokazuje okładkę, podpis i odnośnik do nagrania na kanale autora. Oznaczasz więc to, co publikujemy, czyli okładkę.
+
+**S1. Okładka zgłoszenia.**
+
+Oznacz, gdy na okładce widzisz podobiznę rozpoznawalnej osoby trzeciej albo przejęty cudzy obraz, znak czy postać: kadr z filmu, okładkę innego wydawnictwa, fotografię prasową, logo, rozpoznawalną postać z kultury masowej.
+
+- **Oznacz:** cudza fotografia użyta jako tło okładki.
+- **Oznacz:** rozpoznawalna postać z filmu albo gry jako główny motyw okładki.
+- **Nie oznaczaj:** okładki wygenerowanej przez narzędzie sztucznej inteligencji - w tym plebiscycie okładka może być wygenerowana i nie podlega ocenie.
+- **Nie oznaczaj:** zdjęcia samego uczestnika ani zdjęcia zespołu.
+- **Nie oznaczaj:** nawiązania stylistycznego ani podobieństwa do znanego nurtu graficznego.
+
+**Czego w tym plebiscycie nie oznaczasz.** Treści nagrania. Jeżeli jednak usłyszysz w utworze przytoczony w całości cudzy tekst - zwrotkę znanej piosenki, cały wiersz - możesz wskazać to w polu opisowym na zasadach z rozdziału 4. Granice użycia narzędzi sztucznej inteligencji przy melodii, harmonii i wokalu są sprawą regulaminu i trybu spornego, nie oznaczenia.
 
 ### Plebiscyt na film o sztucznej inteligencji
 

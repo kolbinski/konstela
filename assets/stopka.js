@@ -21,6 +21,7 @@
     ['/plebiscyt-plakatu', 'Nagroda Konstela w plebiscycie na plakat o sztucznej inteligencji'],
     ['/plebiscyt-filmu', 'Nagroda Konstela w plebiscycie na film o sztucznej inteligencji'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
+    ['/dokument/procedura-moderacji', 'Procedura moderacji zgłoszeń'],
     ['/#partnerzy', 'Dla partnerów'],
   ];
 
