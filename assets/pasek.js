@@ -50,12 +50,25 @@
     return (el.querySelector('span') || el).textContent.replace(/\s+/g, ' ').trim();
   }
 
-  function pozycja(fragment, href, tekst) {
+  function pozycja(fragment, href, tekst, podrzedna) {
     var a = document.createElement('a');
     a.href = href;
     a.textContent = tekst;
+    if (podrzedna) a.className = 'pod';
     fragment.appendChild(a);
   }
+
+  /* Wyłącznie strona główna: pod pozycją sekcji z plebiscytami wchodzą
+     wcięte odnośniki do czterech podstron. Nie powstają z nagłówków, bo w
+     sekcji ich nie ma - to są cztery osobne strony, a nie jej fragmenty. */
+  var PODSTRONY = {
+    plebiscyty: [
+      ['/plebiscyt-rozmowy', 'Rozmowa'],
+      ['/plebiscyt-filmu', 'Film'],
+      ['/plebiscyt-piosenki', 'Piosenka'],
+      ['/plebiscyt-plakatu', 'Plakat'],
+    ],
+  };
 
   function zbuduj() {
     var fragment = document.createDocumentFragment();
@@ -84,6 +97,13 @@
         if (!h2.parentElement.id || !nazwa) continue;
         pozycja(fragment, '#' + h2.parentElement.id, nazwa, false);
         dodane++;
+        var podrzedne = PODSTRONY[h2.parentElement.id];
+        if (podrzedne) {
+          for (var j = 0; j < podrzedne.length; j++) {
+            pozycja(fragment, podrzedne[j][0], podrzedne[j][1], true);
+            dodane++;
+          }
+        }
       }
     }
 

@@ -328,6 +328,19 @@
 .menu a:focus-visible {
   border-bottom-color: var(--brass);
 }
+/* Pozycje podrzędne występują wyłącznie na stronie głównej: cztery podstrony
+   plebiscytów pod pozycją sekcji. Odróżnia je wcięcie i mniejszy stopień
+   pisma, nie inny kolor - w dokumentach menu jest spisem paragrafów i pozycji
+   podrzędnych nie ma w ogóle. */
+.menu a.pod {
+  padding-left: 1.5rem;
+  font-size: 0.875rem;
+  opacity: 0.8;
+}
+.menu a.pod:hover,
+.menu a.pod:focus-visible {
+  opacity: 1;
+}
 /* Kotwice muszą wypadać pod paskiem, a nie za nim. */
 section[id],
 #content h2[id],
