@@ -979,3 +979,13 @@ Z menu wypadły trzy odnośniki do podstron plebiscytów, których nie da się z
 **Przycisk menu w pasku dokumentów pojawia się od dwóch pozycji.** Dokument z jednym nagłówkiem albo bez nagłówków dostaje pasek bez ikony, bo menu z jedną pozycją prowadziłoby do miejsca, w którym czytający już stoi.
 
 **Nazwy sekcji na stronie głównej**: Czym jest Nagroda Konstela, Kalendarz edycji 2027, Hymn nagrody „Zapytaj inaczej". Menu podnosi je samo, bo buduje się z nagłówków.
+
+## Jeden pasek dla całego serwisu (26.10.2026)
+
+Strona główna miała własną kopię reguł paska w `<style>` i własny skrypt, a podstrony dokumentów - `assets/pasek.css` i `assets/pasek.js`. Dwie kopie rozjechały się w ciągu jednego dnia: poprawka o pełnej szerokości trafiła tylko w jedną. Strona główna przeszła na wspólne pliki: ze `<style>` zniknęło 154 wiersze, a ze skryptu 101.
+
+**Dwie różnice układu trzeba było pogodzić, a nie zrównać.** Na podstronach dokumentów dopełnienie boczne ma `body`, więc pasek wychodzi z niego marginesem ujemnym; na stronie głównej ma je kolumna treści, a `body` nie ma żadnego - ten sam margines ujemny wypchnąłby pasek poza ekran. Wartość wyjścia podaje teraz `view.css` w zmiennych `--pasek-wyjscie-l` i `--pasek-wyjscie-r`, a w pasku domyślnie wynosi zero. Druga różnica to sam napis: strona główna ma w pasku `.topbar-mark`, dokumenty strzałkę powrotu i `.brand` - oba warianty są w `pasek.css`.
+
+**Z dwóch skryptów wybrałem lepsze kawałki, nie nowszy.** Chowanie paska przy przewijaniu wzięte ze strony głównej, bo miało dławienie przez `requestAnimationFrame` i próg 80 px od góry; budowanie menu z obu układów - sekcje `section[id] > h2` na stronie głównej, nagłówki `h2` i `h3` z `#content` w dokumentach.
+
+**Strzałka powrotu jako SVG także w `view-xlsx.html` i `404.html`.** Te dwie strony mają jeszcze dawny nagłówek `.masthead` i własne kopie jego reguł - trzecia kopia tego samego, do połączenia osobno.

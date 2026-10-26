@@ -1,29 +1,31 @@
-/* Menu sekcji w górnym pasku podstron dokumentów - jedno źródło prawdy.
+/* Górny pasek z menu sekcji - jedno źródło prawdy.
  *
- * Używany na: view.html oraz stronach budowanych przez
+ * Używany na: index.html, view.html oraz stronach budowanych przez
  * skrypty/buduj-dokumenty.js.
  *
- * Pozycje powstają z nagłówków dokumentu: h2 jako pozycje główne, h3 jako
- * podrzędne. Lista wpisywana ręcznie rozjeżdża się z treścią przy każdej
- * zmianie dokumentu, a rozjechanie widać dopiero wtedy, gdy ktoś kliknie
- * odnośnik prowadzący w nieistniejące miejsce.
+ * Pozycje menu powstają z nagłówków strony, a nie z listy wpisanej ręcznie:
+ * lista wpisana ręcznie rozjeżdża się z treścią przy każdej jej zmianie, a
+ * rozjechanie widać dopiero wtedy, gdy ktoś kliknie odnośnik prowadzący w
+ * nieistniejące miejsce.
  *
- * Nagłówki w dokumentach powstają z markdownu i nie mają identyfikatorów,
- * więc nadajemy je tutaj - z tekstu nagłówka, żeby adres z kotwicą dał się
- * przeczytać i wysłać komuś. Przedrostek "do-" trzyma je osobno od kotwic
- * wpisanych w treści ręcznie, takich jak karta-oceny.
+ * Dwa układy, jedno zachowanie:
+ * - strona główna: sekcje <section id> z nagłówkiem h2, kotwicą jest id sekcji;
+ * - dokument: nagłówki h2 i h3 w <main id="content">, h3 jako pozycje
+ *   podrzędne. Nagłówki z markdownu nie mają identyfikatorów, więc nadajemy
+ *   je z tekstu, z przedrostkiem "do-", żeby nie zderzyły się z kotwicami
+ *   wpisanymi w treści ręcznie.
  *
- * Treść strony budowanej jest w HTML od razu, a w view.html dochodzi dopiero
- * po wczytaniu pliku markdown - dlatego czekamy na nią obserwatorem.
+ * Treść dokumentu budowanego jest w HTML od razu, a w view.html dochodzi
+ * dopiero po wczytaniu pliku markdown - dlatego czekamy na nią obserwatorem.
  */
 (function () {
   'use strict';
 
   var przycisk = document.getElementById('burger');
   var menu = document.getElementById('menu');
-  var tresc = document.getElementById('content');
-  if (!przycisk || !menu || !tresc) return;
+  if (!przycisk || !menu) return;
 
+  var tresc = document.getElementById('content');
   var uzyte = {};
 
   function naId(tekst) {
@@ -42,36 +44,51 @@
     return kandydat;
   }
 
-  function tekstNaglowka(el) {
+  /* Nagłówek ma zwykle postać ikona + <span>tytuł</span>. */
+  function tytul(el) {
     return (el.querySelector('span') || el).textContent.replace(/\s+/g, ' ').trim();
   }
 
-  function zbuduj() {
-    var naglowki = tresc.querySelectorAll('h2, h3');
-    if (!naglowki.length) return false;
+  function pozycja(fragment, href, tekst, podrzedna) {
+    var a = document.createElement('a');
+    a.href = href;
+    a.textContent = tekst;
+    if (podrzedna) a.className = 'pod';
+    fragment.appendChild(a);
+  }
 
+  function zbuduj() {
     var fragment = document.createDocumentFragment();
     var dodane = 0;
+    var i;
 
-    for (var i = 0; i < naglowki.length; i++) {
-      var el = naglowki[i];
-      var tekst = tekstNaglowka(el);
-      if (!tekst) continue;
-      if (!el.id) {
-        var id = naId(tekst);
-        if (!id) continue;
-        el.id = id;
+    if (tresc) {
+      var naglowki = tresc.querySelectorAll('h2, h3');
+      for (i = 0; i < naglowki.length; i++) {
+        var el = naglowki[i];
+        var tekst = tytul(el);
+        if (!tekst) continue;
+        if (!el.id) {
+          var id = naId(tekst);
+          if (!id) continue;
+          el.id = id;
+        }
+        pozycja(fragment, '#' + el.id, tekst, el.tagName === 'H3');
+        dodane++;
       }
-      var a = document.createElement('a');
-      a.href = '#' + el.id;
-      a.textContent = tekst;
-      if (el.tagName === 'H3') a.className = 'pod';
-      fragment.appendChild(a);
-      dodane++;
+    } else {
+      var sekcje = document.querySelectorAll('section[id] > h2');
+      for (i = 0; i < sekcje.length; i++) {
+        var h2 = sekcje[i];
+        var nazwa = tytul(h2);
+        if (!h2.parentElement.id || !nazwa) continue;
+        pozycja(fragment, '#' + h2.parentElement.id, nazwa, false);
+        dodane++;
+      }
     }
 
-    /* Jedna pozycja to nie spis treści - przycisk menu byłby wtedy
-       odnośnikiem do miejsca, w którym czytający już stoi. */
+    /* Jedna pozycja to nie spis treści - przycisk prowadziłby do miejsca,
+       w którym czytający już stoi. */
     if (dodane < 2) return false;
     menu.textContent = '';
     menu.appendChild(fragment);
@@ -104,19 +121,16 @@
     if (!menu.contains(e.target) && !przycisk.contains(e.target)) ustaw(false);
   });
 
-  /* Dokument wstawiony od razu w HTML - budujemy teraz. Dokument wczytywany
-     przez view.js - czekamy, aż treść pojawi się w <main>. Obserwatora
-     wyłączamy po pierwszym udanym zbudowaniu, żeby późniejsze zmiany w
-     treści nie przebudowywały menu w trakcie czytania. */
+  /* Obserwatora wyłączamy po pierwszym udanym zbudowaniu, żeby późniejsze
+     zmiany w treści nie przebudowywały menu w trakcie czytania. */
   if (!zbuduj()) {
     przycisk.hidden = true;
     menu.textContent = '';
-    if (window.MutationObserver) {
+    if (tresc && window.MutationObserver) {
       var obserwator = new MutationObserver(function () {
         if (zbuduj()) obserwator.disconnect();
       });
       obserwator.observe(tresc, { childList: true, subtree: true });
-      /* Gdyby dokument nie wczytał się w ogóle, przestajemy nasłuchiwać. */
       window.setTimeout(function () { obserwator.disconnect(); }, 30000);
     }
   }
@@ -131,21 +145,34 @@
   if (!pasek) return;
 
   var ostatniY = window.pageYOffset || 0;
-  var prog = 6;
+  var czeka = false;
+  var PROG = 6;
+  var ODSTEP = 80;
+
+  function przelicz() {
+    czeka = false;
+    var y = window.pageYOffset || 0;
+    if (y < 0) y = 0;
+    var roznica = y - ostatniY;
+
+    if (Math.abs(roznica) < PROG) return;
+
+    if (!menu.hidden || y <= ODSTEP) {
+      pasek.classList.remove('schowany');
+    } else if (roznica > 0) {
+      pasek.classList.add('schowany');
+    } else {
+      pasek.classList.remove('schowany');
+    }
+    ostatniY = y;
+  }
 
   window.addEventListener(
     'scroll',
     function () {
-      var y = window.pageYOffset || 0;
-      if (!menu.hidden || y <= 0) {
-        pasek.classList.remove('schowany');
-        ostatniY = y;
-        return;
-      }
-      var roznica = y - ostatniY;
-      if (Math.abs(roznica) < prog) return;
-      pasek.classList.toggle('schowany', roznica > 0);
-      ostatniY = y;
+      if (czeka) return;
+      czeka = true;
+      window.requestAnimationFrame(przelicz);
     },
     { passive: true }
   );

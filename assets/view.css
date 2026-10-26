@@ -235,6 +235,14 @@
         box-sizing: border-box;
       }
 
+      /* Pasek z menu ma tło przez całą szerokość strony, a body ma tu
+         dopełnienie boczne - podajemy mu więc, o ile ma z niego wyjść.
+         Reguły paska siedzą w assets/pasek.css, wspólnym ze stroną główną. */
+      :root {
+        --pasek-wyjscie-l: max(16px, env(safe-area-inset-left, 0px));
+        --pasek-wyjscie-r: max(16px, env(safe-area-inset-right, 0px));
+      }
+
       body {
         font-family: var(--body);
         font-size: 1.0625rem;
@@ -273,13 +281,22 @@
         gap: 0.6rem;
         min-width: 0;
       }
+      /* Strzałka powrotu jest rysowana jako SVG, a nie znakiem ←: znak
+         zależy od kroju pisma, bywa niewidoczny, a podstawiony zastępczy ma
+         inną linię pisma i siada pionowo niżej niż napis obok. */
       .masthead a.back {
-        font-family: var(--body);
-        font-size: 1.25rem;
-        line-height: 1;
         color: var(--muted);
         text-decoration: none;
         flex: none;
+        display: inline-flex;
+        align-items: center;
+        padding: 0.35rem 0.25rem;
+        margin-left: -0.25rem;
+      }
+      .masthead a.back svg {
+        display: block;
+        width: 1.15rem;
+        height: 1.15rem;
       }
       .masthead a.back:hover {
         color: var(--brass);

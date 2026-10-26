@@ -33,13 +33,16 @@
   /* Dopełnienie na obszar bezpieczny bierze pasek, a nie body - inaczej
      doliczałoby się dwa razy. */
   padding-top: env(safe-area-inset-top, 0px);
-  /* Tło na całą szerokość strony, a nie do krawędzi kolumny treści. Pasek
-     siedzi w body, które ma dopełnienie boczne, więc wychodzimy z niego
-     marginesem ujemnym o tej samej wartości. Marginesy ujemne zamiast
-     szerokości 100vw: vw liczy się razem z paskiem przewijania i na pulpicie
-     wystawałoby o jego grubość, dokładając poziome przewijanie. */
-  margin-left: calc(-1 * max(16px, env(safe-area-inset-left, 0px)));
-  margin-right: calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  /* Tło na całą szerokość strony, a nie do krawędzi kolumny treści. Na
+     podstronach dokumentów pasek siedzi w body, które ma dopełnienie boczne,
+     więc wychodzi z niego marginesem ujemnym o tej samej wartości - view.css
+     podaje ją w zmiennych poniżej. Na stronie głównej dopełnienie ma kolumna
+     treści, a nie body, więc zmienne zostają zerowe i margines nic nie robi.
+     Marginesy ujemne zamiast szerokości 100vw: vw liczy się razem z paskiem
+     przewijania i na pulpicie wystawałoby o jego grubość, dokładając poziome
+     przewijanie. */
+  margin-left: calc(-1 * var(--pasek-wyjscie-l, 0px));
+  margin-right: calc(-1 * var(--pasek-wyjscie-r, 0px));
   transition: transform 0.25s ease;
 }
 .topbar.schowany {
@@ -100,6 +103,21 @@
   outline: 2px solid var(--bar-fg);
   outline-offset: 2px;
   border-radius: 2px;
+}
+/* Strona główna ma w pasku sam napis, bez strzałki powrotu. */
+.topbar-mark {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--bar-fg);
+  text-decoration: none;
+  opacity: 0.9;
+  line-height: 1.15;
+}
+.topbar-mark:hover {
+  opacity: 1;
 }
 .topbar a.brand {
   font-family: var(--mono);
@@ -231,6 +249,7 @@
 }
 
 /* Kotwice muszą wypadać pod paskiem, a nie za nim. */
+section[id],
 #content h2[id],
 #content h3[id],
 [id^='do-'] {
