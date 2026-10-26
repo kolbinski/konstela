@@ -120,6 +120,20 @@ Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela za rozmowę ze szt
 
 Terminy naboru ogłosimy razem z regulaminem. Planujemy 2027 rok, po zabezpieczeniu finansowania.
 
+## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="1.5"/><path d="M3.5 16 8 11.5l3 3L14.5 11l6 6"/><circle cx="9" cy="8" r="1.5"/></svg><span>Pół minuty kontra trzy tygodnie</span>
+
+Zaczynamy od punktu, w którym dziś stoi każdy. **Plakat poniżej został wygenerowany** - to nie jest praca konkursowa, nie jest przykładem tego, czego oczekujemy, i nie jest wzorem do naśladowania. Powstał w pół minuty, z jednego zdania.
+
+Pokazujemy go, bo udawanie, że takie obrazy nie istnieją, byłoby nieuczciwe. Powstają, są sprawne i część ludzi nie odróżni ich od malowanych. **Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym samym miejscu, w którym oni je napiszą.** Konkurs stoi poza generatorem, ale nie poza zasadami jawności.
+
+![Wygenerowany plakat - dwa profile zwrócone do siebie, jeden utkany z chmur, drugi z architektury, nad nimi człowiek na kładce łączący je czerwoną nicią; w tle panorama miasta o zachodzie słońca](/assets/plakat-ai-1.jpg)
+
+A teraz rzecz, o którą w tym konkursie chodzi. Spójrz na ten obraz jeszcze raz i zapytaj: **co on właściwie mówi?** Że człowiek i sztuczna inteligencja stoją naprzeciw siebie, a ktoś je łączy. To jest zdanie, które każdy z nas słyszał już sto razy. Jest gładkie, ładnie podane i nie wnosi nic, czego nie było w nagłówku.
+
+Generator potrafi zrobić obraz. Nie potrafi mieć zdania, bo nie ma czego o tej sprawie myśleć - nie traci przez AI pracy, nie zyskuje przez nią czasu, nie boi się jej i nie jest nią zachwycony. **Prosimy o plakat, za którym ktoś stoi.** Nie o lepszy warsztat, tylko o własne zdanie, przepuszczone przez trzy tygodnie decydowania, co zostaje, a co wypada.
+
+Jeśli po konkursie będzie można postawić zwycięską pracę obok tego obrazka i zobaczyć różnicę, konkurs się udał.
+
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><span>Dlaczego akurat plakat</span>
 
 Bo to jedyna dziedzina, w której Polska ma własną szkołę rozpoznawaną na świecie - i ponieważ właśnie na obrazach spór o sztuczną inteligencję zrobił się najgłośniejszy. Nie znaczy to, że muzyki i pisania ten spór nie dotyczy; znaczy tylko, że tam zobaczyli go wszyscy naraz. Generator rysuje plakat w pół minuty. Pytanie, co z tego wynika dla człowieka, który rysuje go trzy tygodnie, jest pytaniem o tę epokę, a nie o technikę.
