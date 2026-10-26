@@ -55,7 +55,9 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Zgłoszenie zespołowe wskazuje jedną osobę reprezentującą cały skład.** Ona składa zgłoszenie i prowadzi korespondencję, a sposób podziału nagrody pozostaje sprawą zgłaszających - organizator wypłaca ją w całości reprezentantowi i w podział się nie wtrąca.
 
-**Zgłoszenia pokazujemy na stronie w miarę, jak napływają.**
+**Słuchalnia.** Wszystkie zgłoszenia, które przeszły sprawdzenie formalne, pokazujemy na stronie w miarę, jak napływają - tytuł, podpis i odnośnik do Twojego nagrania. Nie trzymamy u siebie plików: piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz.
+
+**Po gali Słuchalnia przechodzi do archiwum** i zostaje dostępna bezpłatnie, jako katalog zgłoszeń danej edycji. Jeśli kiedyś usuniesz nagranie ze swojego kanału, odnośnik po prostu przestanie działać - nie odtwarzamy treści z żadnego innego źródła. Możesz też w każdej chwili poprosić o usunięcie wpisu z archiwum.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.5 6h11M9.5 12h11M9.5 18h11"/><path d="m3.2 5.3 1.1 1.2 2.2-2.4M3.2 11.3l1.1 1.2 2.2-2.4M3.2 17.3l1.1 1.2 2.2-2.4"/></svg><span>Zasady: melodia, tekst i AI</span>
 

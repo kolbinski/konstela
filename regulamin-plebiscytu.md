@@ -84,7 +84,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 6. Link wskazany w zgłoszeniu musi pozostać czynny przez cały czas trwania oceny, to jest do dnia ogłoszenia werdyktu. Skutki niedostępności nagrania określa § 8 ust. 4.
 
-7. Zgłoszenia prezentowane są na stronie Nagrody w miarę napływania, zgodnie z licencją udzielaną przy zgłoszeniu. Prezentacja zgłoszenia jest warunkiem udziału w plebiscycie.
+7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje tytuł utworu, podpis Uczestnika oraz odnośnik do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+
+8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: tytuł utworu, podpis Uczestnika, rok edycji oraz odnośnik do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że odnośnik przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
@@ -258,15 +260,25 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 1. Tekst, muzyka i nagranie pozostają własnością Uczestnika. Organizator nie nabywa praw wyłącznych do utworu ani do nagrania. Uczestnik może wydać utwór pod własnym nazwiskiem, wykonywać go i udostępniać na własnych kanałach bez ograniczeń wynikających z udziału w plebiscycie.
 
-2. Uczestnik udziela Organizatorowi licencji niewyłącznej, nieodpłatnej, w trzech zakresach i wyłącznie w tych zakresach:
+2. Uczestnik udziela Organizatorowi licencji niewyłącznej, nieodpłatnej, w czterech zakresach i wyłącznie w tych zakresach:
 
    a) prezentacja zgłoszenia na stronie Nagrody w czasie trwania naboru i oceny;
 
    b) wykonanie utworu na żywo podczas gali;
 
-   c) utrwalenie gali na wideo oraz bezpłatne udostępnienie tego zapisu.
+   c) utrwalenie gali na wideo oraz bezpłatne udostępnienie tego zapisu;
 
-3. Licencja udzielana jest na czas oznaczony, do dnia [do ustalenia z kancelarią]. Po upływie tego terminu Organizator zaprzestaje prezentacji zgłoszenia na stronie Nagrody; zapis gali, o którym mowa w ust. 2 lit. c, pozostaje udostępniony.
+   d) prezentacja zgłoszenia w archiwum plebiscytu po zakończeniu edycji, w zakresie danych katalogowych określonych w § 5 ust. 8.
+
+3. Czas trwania licencji jest różny dla poszczególnych zakresów:
+
+   a) w zakresie ust. 2 lit. a - do dnia ogłoszenia werdyktu, z którym Słuchalnia edycji zostaje zamknięta;
+
+   b) w zakresie ust. 2 lit. b - do zakończenia gali;
+
+   c) w zakresie ust. 2 lit. c - bezterminowo, przy czym dotyczy wyłącznie zapisu gali, a nie zgłoszonego nagrania;
+
+   d) w zakresie ust. 2 lit. d - bezterminowo, przy czym Uczestnik może w każdej chwili żądać usunięcia wpisu z archiwum, a Organizator usuwa go w terminie 14 dni od żądania.
 
 4. Udzielenie licencji w zakresie określonym w ust. 2 jest warunkiem udziału w plebiscycie. Przy zgłoszeniu zespołowym licencji udziela reprezentant składu w imieniu wszystkich współautorów i wykonawców.
 
@@ -338,7 +350,7 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 10. **§ 12 ust. 6** - podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu Nagrody.
 11. **§ 13 ust. 3** - przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
 12. **§ 14 ust. 2-3** - obowiązkowy udział laureatów w gali i zakres pokrycia kosztów.
-13. **§ 15 ust. 2-3** - brzmienie licencji w trzech zakresach oraz termin jej wygaśnięcia, którego dziś nie umiem wskazać.
+13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
 14. **§ 15 ust. 5 zdanie drugie** - wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
 15. **§ 15 ust. 6** - podstawa prawna kopii archiwalnej nagrania, zbieżna z obszarem 7 listy dla Nagrody.
 16. **§ 16 ust. 5** - żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
