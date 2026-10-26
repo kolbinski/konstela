@@ -47,7 +47,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak możesz się zgłosić</span>
 
-**Przesyłasz zdjęcie albo skan, nie oryginał.** Nikt nie wysyła płótna do konkursu, którego wyniku nie zna. **Oryginał przysyłasz dopiero wtedy, gdy wejdziesz do dziesiątki** - listę finalistów ogłaszamy przed galą, a Ty masz co najmniej 21 dni na wysyłkę. Przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawie. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja i nie tracisz przez to nic.
+**Przesyłasz zdjęcie albo skan, nie oryginał.** Nikt nie wysyła płótna do konkursu, którego wyniku nie zna. **Oryginał przysyłasz dopiero wtedy, gdy wejdziesz do dziesiątki** - listę finalistów ogłaszamy przed galą, a Ty masz co najmniej 21 dni na wysyłkę. Przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawie. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
 **Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. Przy pracy wykonanej wspólnie zgłoszenie wskazuje osobę reprezentującą cały skład; ona prowadzi korespondencję, a podział ewentualnej nagrody pozostaje sprawą autorów.
 
@@ -114,13 +114,13 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokaz
 
 Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny.
 
-**Decydujesz dwa razy, a wiążące jest dopiero to drugie.** Przy zgłoszeniu zaznaczasz wstępnie, czy taka możliwość Cię interesuje; ta deklaracja nie trafia do jury i nie wiąże Cię do niczego. Dopiero po wejściu do dziesiątki dostajesz warunki - cenę minimalną, przewidywane potrącenia i sposób rozliczenia - i wtedy decydujesz naprawdę. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
+**Przy zgłoszeniu nie decydujesz o niczym.** Pytamy dopiero po zamknięciu ocen: wtedy dostajesz warunki - cenę minimalną, przewidywane potrącenia i sposób rozliczenia - i wtedy mówisz tak albo nie. Twoja odpowiedź nie trafia do jury przed ustaleniem werdyktu, więc nie może na niego wpłynąć. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
 
 Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z góry: **połowa dla Ciebie, połowa na pulę nagród kolejnej edycji tego konkursu**. Organizator nie zatrzymuje z tego nic na własną działalność i przedstawia Ci rozliczenie na piśmie.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.2 14 9l5.8 2-5.8 2-2 5.8L10 13l-5.8-2L10 9z"/></svg><span>Gala i terminy</span>
 
-Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela za rozmowę ze sztuczną inteligencją, w marcu 2028 roku. Oryginały finalistów wiszą na wystawie, trójka odbiera nagrody, a zwycięski plakat jest pokazywany jako okładka antologii.
+Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela za rozmowę ze sztuczną inteligencją, w marcu 2028 roku. Oryginały finalistów wiszą na wystawie, trójka odbiera nagrody, a zwycięski plakat jest pokazywany ze sceny. Projekt okładki antologii powstaje po gali, za Twoją odrębną zgodą i w uzgodnieniu z Tobą.
 
 Terminy naboru ogłosimy razem z regulaminem. Planujemy 2027 rok, po zabezpieczeniu finansowania.
 

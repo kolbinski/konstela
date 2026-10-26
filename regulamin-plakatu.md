@@ -28,7 +28,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 1. Uczestnikiem może być osoba fizyczna, która w dniu złożenia zgłoszenia ukończyła 16 lat.
 
-2. Uczestnik, który nie ukończył 18 lat, dołącza pisemną zgodę przedstawiciela ustawowego, obejmującą osobno: udzielenie licencji z § 13, przyjęcie nagrody pieniężnej, przesłanie oryginału pracy na wystawę oraz udział w gali. Brak zgody w jednym z tych zakresów nie wyłącza Uczestnika z konkursu, lecz wyłącza go z tego zakresu.
+2. Uczestnik, który nie ukończył 18 lat, dołącza pisemną zgodę przedstawiciela ustawowego, obejmującą osobno: udzielenie licencji w zakresach z § 13 ust. 2, przyjęcie nagrody pieniężnej, przesłanie oryginału pracy na wystawę oraz udział w gali.
+
+2a. **Zgoda na zakresy licencji będące warunkiem udziału (§ 13 ust. 4) jest wymagana do przyjęcia zgłoszenia.** Brak zgody na pozostałe zakresy nie wyłącza Uczestnika z konkursu, lecz wyłącza go z tego zakresu.
 
 3. W konkursie nie mogą brać udziału członkowie jury, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu konkursu po stronie Organizatora.
 
@@ -56,9 +58,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    g) oświadczenie o prawach, zgodnie z § 13 ust. 5;
 
-   h) deklarację udziału albo nieudziału w licytacji, zgodnie z § 14 ust. 1;
-
-   i) adres poczty elektronicznej do korespondencji.
+   h) adres poczty elektronicznej do korespondencji.
 
 3. Zgłoszenie potwierdzane jest kodem przesyłanym w wiadomości SMS. Numer nie jest przechowywany w postaci jawnej; sposób jego przetwarzania opisuje polityka prywatności.
 
@@ -72,7 +72,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. Zgłoszenie nie spełnia wymogów formalnych, jeżeli:
 
-   a) nie zawiera elementów wymienionych w § 4 ust. 2 lit. a i c-i; brak materiałów, o których mowa w lit. b, nie stanowi samodzielnej podstawy odrzucenia, lecz Organizator może zwrócić się o wyjaśnienia albo o oględziny oryginału;
+   a) nie zawiera elementów wymienionych w § 4 ust. 2 lit. a i c-h; brak materiałów, o których mowa w lit. b, nie stanowi samodzielnej podstawy odrzucenia, lecz Organizator może zwrócić się o wyjaśnienia albo o oględziny oryginału;
 
    b) praca nie została wykonana ręcznie w rozumieniu § 6;
 
@@ -136,7 +136,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
 
-4b. Po oględzinach oryginałów jury ustala kolejność **trzech najwyżej ocenionych prac**. Kolejność ta zostaje ogłoszona dopiero podczas gali.
+4b. Po oględzinach oryginałów jury ustala kolejność **trzech najwyżej ocenionych prac**; pracę finalisty, który nie przesłał oryginału, jury ocenia na podstawie reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu. Kolejność ta zostaje ogłoszona dopiero podczas gali.
 
 5. Członek jury wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
@@ -160,7 +160,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3a. Nagrody pieniężne wypłacane są przelewem w terminie **30 dni od dnia gali**, na rachunek wskazany przez laureata.
 
-4. **Wykorzystanie pracy jako okładki antologii wymaga odrębnej zgody autora**, wyrażanej po ogłoszeniu werdyktu. Odmowa nie pozbawia laureata nagrody pieniężnej ani miejsca w werdykcie; Organizator wykorzystuje wówczas pracę kolejną z listy rankingowej, również za zgodą jej autora.
+4. **Wykorzystanie pracy jako okładki antologii wymaga odrębnej zgody autora**, wyrażanej po ogłoszeniu werdyktu. Projekt okładki powstaje po gali, a podczas gali prezentowany jest sam zwycięski plakat. Odmowa nie pozbawia laureata nagrody pieniężnej ani miejsca w werdykcie; Organizator wykorzystuje wówczas pracę kolejną z listy rankingowej, również za zgodą jej autora.
 
 4a. **Przygotowanie okładki - dodanie typografii, ewentualne kadrowanie i dostosowanie do formatu wydania - odbywa się w uzgodnieniu z autorem**, na zasadach ogłoszonych przed otwarciem naboru. Praca jest oceniana jako samodzielny plakat, a nie jako projekt okładki, i Organizator nie oczekuje od autora wykonania poprawek.
 
@@ -174,7 +174,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3. Prace wracają do autorów w terminie 30 dni od zakończenia wystawy, z wyjątkiem prac przekazanych na licytację zgodnie z § 14.
 
-4. Finalista, który nie wyraża zgody na przesłanie oryginału, nie traci z tego powodu nagrody pieniężnej ani miejsca w werdykcie. Jego praca jest wówczas prezentowana na wystawie w postaci reprodukcji.
+4. Finalista, który nie wyraża zgody na przesłanie oryginału, nie traci z tego powodu nagrody pieniężnej ani miejsca w werdykcie. **Odmowa nie obniża punktacji: jury ocenia wówczas pracę na podstawie reprodukcji i dostępnych materiałów** (§ 8 ust. 4b). Praca jest prezentowana na wystawie w postaci reprodukcji.
 
 5. Organizator odpowiada za pracę od chwili jej odebrania od przewoźnika do chwili nadania przesyłki zwrotnej, na zasadach ogólnych.
 
@@ -224,11 +224,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 14. Licytacja
 
-1. Przekazanie pracy na licytację jest **dobrowolne**. Deklaracja składana przy zgłoszeniu ma charakter **wstępny** i nie wiąże autora.
+1. Przekazanie pracy na licytację jest **dobrowolne**. Zgłoszenie konkursowe nie zawiera w tej sprawie żadnej deklaracji.
 
-1a. **Deklaracja nie jest udostępniana jury** i staje się znana Organizatorowi dopiero po zamknięciu ocen. Jest to zabezpieczenie obietnicy z ust. 1: decyzja nie może wpłynąć na werdykt, jeżeli oceniający o niej nie wie.
+2. **Po zamknięciu ocen jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane potrącenia, sposób i termin rozliczenia oraz miejsce przeprowadzenia licytacji. Wystawienie pracy wymaga akceptacji tych warunków.
 
-2. Po ogłoszeniu listy finalistów autor otrzymuje **warunki licytacji**: cenę minimalną, przewidywane potrącenia, sposób i termin rozliczenia oraz miejsce przeprowadzenia licytacji. Wystawienie pracy wymaga **odrębnej akceptacji tych warunków**. Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik konkursu, na nagrody i na udział w wystawie.
+2a. **Decyzja autora nie jest udostępniana jury przed ustaleniem ostatecznego werdyktu.** Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik konkursu, na nagrody i na udział w wystawie.
 
 3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego konkursu plakatu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
 
