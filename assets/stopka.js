@@ -62,7 +62,7 @@
     '}',
     ':host([data-czytelnie]) nav { gap: 1.6rem; }',
     ':host([data-czytelnie]) a { color: #0000cc; text-decoration: underline; }',
-    ':host([data-czytelnie]) a:visited { color: #551a8b; }',
+    ':host([data-czytelnie]) a:visited { color: #0000cc; }',
     '@media print {',
     '  .belka { border-color: #ccc; color: #000; }',
     '  a { color: #000; }',

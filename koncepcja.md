@@ -1059,3 +1059,11 @@ Nagłówek sekcji miał 38 px przy tekście 30 px i wyglądał na mniejszy od po
 Sprawdzone przy 360 i 390 px: zero przewijania w poziomie na stronie głównej, podstronach plebiscytów i dokumentach, łącznie z tymi, które mają tabele i długie paragrafy.
 
 **Ozdobne rysunki znikają w trybie czytelności** (26.10.2026). Ikony przy nagłówkach i kreski dzielące sekcje niczego nie mówią, a przy 30 px zabierają miejsce i rozbijają wiersz. Granica przebiega tak: znikają rysunki ozdobne, zostają **ikony w pasku**, bo są przyciskami, i zostają **zdjęcia, reprodukcje oraz rysunek na stronie 404**, bo są treścią - gwiazda bez linii jest tam całym żartem strony. Sprawdzone: na stronie głównej z szesnastu rysunków widoczny jest jeden, i to ten w pasku.
+
+### Dlaczego nagłówek sekcji mimo wszystko był mały
+
+Po trzech poprawkach nagłówek sekcji na stronie głównej nadal wyglądał mniej więcej jak tekst pod nim, choć pomiar pokazywał 42 px. Przyczyna: **nagłówki sekcji mają tekst w `<span>` obok ikony**, a reguła ogólna nadawała temu spanowi wielkość tekstu ciągłego. Nagłówek miał 42 px tylko na papierze - widoczne słowa brały 30 px z wnętrza. Pomiar samego `h2` tego nie łapał, bo mierzył rodzica, nie element, który niesie tekst.
+
+**Wniosek do audytu: mierzymy element, który zawiera własny węzeł tekstowy, a nie ten, który ma selektor.** Skrypt audytu robi to od początku, dlatego nie zgłaszał błędu - 30 px mieściło się w progu. Gdyby próg brzmiał "nagłówek musi być większy od tekstu", wyszłoby to od razu.
+
+Dziecko nagłówka dziedziczy teraz jego wielkość, grubość i interlinię. **Odnośniki odwiedzone są w tym trybie niebieskie, nie fioletowe** - kolor ma znaczyć jedno: "tu da się kliknąć".

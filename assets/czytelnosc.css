@@ -145,6 +145,7 @@
      niesie treść. */
   font-family: var(--body) !important;
 }
+
 :root.czytelnie h1,
 :root.czytelnie h2,
 :root.czytelnie h3,
@@ -204,7 +205,10 @@
   overflow-wrap: anywhere !important;
 }
 :root.czytelnie a:visited {
-  color: #551a8b !important;
+  /* Niebieski także po odwiedzeniu: w tym trybie kolor ma znaczyć jedno -
+     "tu da się kliknąć" - a fiolet czytał się jak trzeci kolor i rozbijał
+     tę zasadę. */
+  color: #0000cc !important;
 }
 
 /* Pasek: czarne tło, biała treść, biała strzałka i kreski przycisków. */
@@ -373,4 +377,20 @@
   :root.czytelnie {
     font-size: 100% !important;
   }
+}
+
+/* Na końcu, bo ma wygrywać z regułą ogólną wielkości pisma. */
+:root.czytelnie body h1 *:not(.topbar):not(.topbar *),
+:root.czytelnie body h2 *:not(.topbar):not(.topbar *),
+:root.czytelnie body h3 *:not(.topbar):not(.topbar *),
+:root.czytelnie body h4 *:not(.topbar):not(.topbar *),
+:root.czytelnie body h5 *:not(.topbar):not(.topbar *),
+:root.czytelnie body h6 *:not(.topbar):not(.topbar *) {
+  /* Nagłówki sekcji mają tekst w <span> obok ikony, a reguła ogólna nadawała
+     temu spanowi wielkość tekstu ciągłego - nagłówek miał 42 px tylko na
+     papierze, bo widoczne słowa brały 30 px z wnętrza. Dziecko nagłówka
+     dziedziczy więc jego wielkość. */
+  font-size: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
 }
