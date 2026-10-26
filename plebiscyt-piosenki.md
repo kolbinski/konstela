@@ -43,7 +43,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 - utwór trwa **od 3 do 6 minut**;
 - **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i jury musi go rozumieć;
 - utwór **nie był wcześniej wydany komercyjnie** - publikacja na własnym kanale wydaniem nie jest i niczego nie blokuje, chodzi o rzeczy wydane przez wydawcę albo dystrybutora;
-- nagranie pod linkiem **jest dostępne i niezmienione przez cały czas trwania oceny** - oceniamy wersję z dnia zamknięcia naboru, a poprawki przed tym dniem zgłaszasz nam;
+- nagranie pod linkiem **jest dostępne przez cały czas trwania oceny i niezmienione od dnia zamknięcia naboru** - do tego dnia możesz je poprawić, zgłaszając nam to, a oceniamy wersję ostateczną;
 - **okładka jest dołączona** i masz do niej prawa.
 
 **Wystarczy czytelne demo.** Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator.
@@ -68,7 +68,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 Narzędzi opartych na AI wolno też używać **na etapie produkcji i obróbki**: korekta wysokości dźwięku, usuwanie szumu, separacja śladów, mastering. Przy zgłoszeniu deklarujesz, czego i do czego użyłeś; zwykłych narzędzi studyjnych, które z AI nie korzystają, deklarować nie trzeba.
 
-**Obróbka nie może zastąpić wykonania ani dopisać muzyki.** Nie wolno wygenerować partii wokalnej, chórków ani drugiego głosu, podmienić barwy głosu na wygenerowaną, ani kazać narzędziu wymyślić harmonii czy linii melodycznej, której nie skomponowałeś. Drugie głosy i harmonie wokalne robione automatycznie są dozwolone tylko wtedy, gdy powstają z nagranego głosu człowieka.
+**Obróbka nie może zastąpić wykonania ani dopisać muzyki.** Nie wolno wygenerować partii wokalnej, chórków ani drugiego głosu, podmienić barwy głosu na wygenerowaną, ani kazać narzędziu wymyślić harmonii czy linii melodycznej, której nie skomponowałeś. Narzędzie może rozmnożyć Twój głos na dodatkowe partie, ale tylko takie, które sam wymyśliłeś - samo dobierać ich melodii ani harmonii nie może.
 
 **Jak to sprawdzamy.** Nie na zasadzie, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
@@ -114,7 +114,7 @@ Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitar
 
 **Utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, deklarację użycia AI i odnośnik do nagrania. Tekstu utworu nie publikujemy.
 
-**Nie trzymamy u siebie nagrań.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, odnośnik po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie - po to, żeby dało się ustalić, która wersja podlegała ocenie.
+**Nie trzymamy u siebie nagrań.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, odnośnik po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
 
 **Po gali Słuchalnia zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim okładka, tytuł, podpis, deklaracja, rok edycji i odnośnik - żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
 
