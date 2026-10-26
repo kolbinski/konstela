@@ -288,6 +288,22 @@
 .menu[hidden] {
   display: none;
 }
+/* Na telefonie otwarte menu wypełnia ekran pod paskiem. Bez tego lista
+   kończyła się w połowie wysokości, a pod nią widać było pasek treści
+   dokumentu urwany w środku zdania - wyglądało to jak błąd składu, a nie jak
+   menu. Na szerokich ekranach menu zostaje rozwijaną listą przy pasku. */
+@media (max-width: 48rem) {
+  .menu:not([hidden]) {
+    min-height: calc(100vh - 2.9rem);
+    min-height: calc(100dvh - 2.9rem);
+    border-bottom: 0;
+  }
+}
+/* Blokady przewijania strony pod menu tu nie ma. Ustawienie overflow:hidden
+   na html albo body zabiera pasek jego przyklejenie (position: sticky
+   przestaje działać, gdy element przewijany zmienia się na inny) i otwarte
+   menu zostaje w górze dokumentu, poza ekranem. Menu wypełniające ekran
+   załatwia to samo bez psucia paska. */
 .menu a {
   display: block;
   padding: 0.42rem 0;
