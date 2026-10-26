@@ -46,6 +46,13 @@ const DEDYKOWANE = {
    paragrafu pierwszego, więc nie ma w nich akapitu wstępnego nadającego się
    na opis w wynikach wyszukiwania. Pozostałe dokumenty dostają opis wyjęty
    z pierwszego akapitu, co przy notatkach roboczych wystarcza. */
+/* Tytuły dla dokumentów, które nie mogą mieć nagłówka h1 - pismo urzędowe
+   zaczyna się od miejscowości i daty, nie od tytułu. Bez tego w karcie
+   przeglądarki zostaje sama nazwa pliku. */
+const TYTULY = {
+  'mk-pismo': 'Pismo do MKiDN',
+};
+
 const OPISY = {
   regulamin:
     'Pełne zasady konkursu na najlepszą rozmowę ze sztuczną inteligencją: kto może się zgłosić, jak wygląda zgłoszenie, według czego ocenia Kapituła i jakie są nagrody. Wraz z kartą oceny.',
@@ -98,6 +105,7 @@ function escapuj(tekst) {
 
 /* Tytuł: pierwszy nagłówek pierwszego poziomu. */
 function tytul(md, nazwa) {
+  if (TYTULY[nazwa]) return TYTULY[nazwa];
   const trafienie = md.match(/^#\s+(.+)$/m);
   if (!trafienie) return nazwa;
   return trafienie[1].replace(/\s*<[^>]*>\s*/g, ' ').replace(/[*_`]/g, '').trim();
