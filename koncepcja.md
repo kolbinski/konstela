@@ -1045,3 +1045,5 @@ Po ustawieniu tekstu na 30 px okazało się, że mniejsze zostały całe grupy e
 **Krzyżyk zamiast gwiazdki.** W trybie czytelności otwarty przycisk menu pokazywał gwiazdkę z trzech kresek, bo reguła malująca kreski na biało nadpisywała przezroczystość środkowej. Dopisana reguła dla stanu otwartego.
 
 **Odstępy w stopce** zwiększone z 0,55 na 1,1 rem, a w trybie czytelności na 1,6 rem - przy 30 px pozycje stykały się ze sobą.
+
+**Interlinia w menu paska** zmniejszona w trybie czytelności z 1,6 na 1,2 (26.10.2026). Pozycje menu to pojedyncze wiersze, a nie tekst ciągły - przy 30 px interlinia akapitowa rozpychała je tak, że osiem pozycji strony głównej zajmowało 585 px zamiast 484, a lista czytała się jak akapity. Odstęp między pozycjami robi teraz dopełnienie, nie interlinia, więc widać, gdzie kończy się jedna pozycja, także gdy nazwa łamie się na dwie linie.

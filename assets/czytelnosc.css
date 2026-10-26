@@ -179,6 +179,14 @@
 }
 :root.czytelnie .menu a {
   color: #0000cc !important;
+  /* Pozycje menu to pojedyncze wiersze, a nie tekst ciągły: interlinia 1,6
+     rozpychała je przy 30 px tak, że lista nie mieściła się na ekranie i
+     czytała się jak akapity, a nie jak spis. Wiersz ciaśniejszy, odstęp
+     między pozycjami robi dopełnienie - wtedy widać, gdzie kończy się jedna
+     pozycja, a zaczyna druga, także gdy nazwa łamie się na dwie linie. */
+  line-height: 1.2 !important;
+  padding-top: 0.45rem !important;
+  padding-bottom: 0.45rem !important;
 }
 
 /* Tabele przy tej wielkości pisma nie mieszczą się na telefonie: w
