@@ -136,7 +136,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
 
-4b. Po oględzinach oryginałów jury ustala kolejność **trzech najwyżej ocenionych prac**; pracę finalisty, który nie przesłał oryginału, jury ocenia na podstawie reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu. Kolejność ta zostaje ogłoszona dopiero podczas gali.
+4b. Po oględzinach oryginałów jury ustala **pełny werdykt, w tym kolejność trzech najwyżej ocenionych prac**; pracę finalisty, który nie przesłał oryginału, jury ocenia na podstawie reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu.
+
+4c. **Werdykt zapada przed galą**, w terminie pozwalającym na przygotowanie i wydrukowanie antologii z okładką opartą na pracy zwycięskiej. Organizator zawiadamia o nim laureatów niezwłocznie; laureaci zachowują werdykt w poufności do chwili jego publicznego ogłoszenia.
+
+4d. **Publiczne ogłoszenie werdyktu następuje podczas gali**, razem z premierą antologii.
+
+4e. Z konieczności opisanej w ust. 4c **nabór w konkursie plakatu zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela**. Terminy obu naborów Organizator ogłasza przed otwarciem konkursu.
 
 5. Członek jury wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
@@ -160,9 +166,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3a. Nagrody pieniężne wypłacane są przelewem w terminie **30 dni od dnia gali**, na rachunek wskazany przez laureata.
 
-4. **Wykorzystanie pracy jako okładki antologii wymaga odrębnej zgody autora**, wyrażanej po ogłoszeniu werdyktu. Projekt okładki powstaje po gali, a podczas gali prezentowany jest sam zwycięski plakat. Odmowa nie pozbawia laureata nagrody pieniężnej ani miejsca w werdykcie; Organizator wykorzystuje wówczas pracę kolejną z listy rankingowej, również za zgodą jej autora.
+4. **Wykorzystanie pracy jako okładki antologii wymaga odrębnej zgody autora**, o którą Organizator zwraca się niezwłocznie po zawiadomieniu o werdykcie (§ 8 ust. 4c), a więc przed galą. Autor odpowiada w terminie 7 dni. Odmowa nie pozbawia laureata nagrody pieniężnej ani miejsca w werdykcie; Organizator zwraca się wówczas do autora pracy kolejnej z listy rankingowej.
 
 4a. **Przygotowanie okładki - dodanie typografii, ewentualne kadrowanie i dostosowanie do formatu wydania - odbywa się w uzgodnieniu z autorem**, na zasadach ogłoszonych przed otwarciem naboru. Praca jest oceniana jako samodzielny plakat, a nie jako projekt okładki, i Organizator nie oczekuje od autora wykonania poprawek.
+
+4b. **Antologia z okładką opartą na pracy zwycięskiej ma premierę podczas gali.** Do tej chwili okładka nie jest udostępniana publicznie.
 
 5. Jeżeli laureat zostanie wyłączony z konkursu po ogłoszeniu werdyktu na podstawie § 15, na jego miejsce wchodzi kolejne zgłoszenie z listy rankingowej, tak aby liczba finalistów wynosiła dziesięć, a liczba nagrodzonych prac trzy.
 
@@ -184,7 +192,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 
-3. Z chwilą ogłoszenia werdyktu podczas gali Galeria edycji zostaje zamknięta i przechodzi do **archiwum konkursu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji.
+3. Z chwilą publicznego ogłoszenia werdyktu podczas gali Galeria edycji zostaje zamknięta i przechodzi do **archiwum konkursu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji.
 
 4. Uczestnik może w każdej chwili żądać usunięcia swojego wpisu z archiwum; Organizator usuwa go w terminie 14 dni od żądania.
 
@@ -228,7 +236,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. **Po zamknięciu ocen jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane potrącenia, sposób i termin rozliczenia oraz miejsce przeprowadzenia licytacji. Wystawienie pracy wymaga akceptacji tych warunków.
 
-2a. **Decyzja autora nie jest udostępniana jury przed ustaleniem ostatecznego werdyktu.** Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik konkursu, na nagrody i na udział w wystawie.
+2a. **Decyzja autora nie jest udostępniana jury przed ustaleniem pełnego werdyktu** (§ 8 ust. 4b). Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik konkursu, na nagrody i na udział w wystawie.
 
 3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego konkursu plakatu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
 
@@ -293,5 +301,7 @@ Lista wskazuje konkretne jednostki redakcyjne, nie obszary - tak samo jak przy r
 7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** - zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.
 8. **§ 13 ust. 6** - skuteczność zastrzeżenia, że zbycie oryginału nie wpływa na udzieloną licencję, wobec nabywcy, który nie jest stroną regulaminu.
 9. **§ 14** - **najcięższy punkt tej listy.** Czy licytacja prowadzona przez fundację na rzecz osoby prywatnej, z podziałem przychodu, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; jakie są obowiązki podatkowe po obu stronach; oraz czy przeprowadzenie licytacji w serwisie aukcyjnym w programie dla organizacji dopuszcza podział przychodu z osobą prywatną, czy zakłada przekazanie całości na cel.
+9a. **§ 8 ust. 4c-4d** - werdykt zapada przed galą, a laureaci zachowują go w poufności do publicznego ogłoszenia, ponieważ antologia z okładką musi zdążyć do druku. Prosimy o wskazanie, czy przy przyrzeczeniu publicznym dopuszczalne jest odroczenie ogłoszenia wyniku względem jego ustalenia i jak zapisać obowiązek poufności, żeby jego naruszenie nie pozbawiało laureata nagrody.
+
 10. **§ 16 ust. 1** - progi nierozstrzygnięcia edycji przyjęte bez podstawy prawnej.
 11. **§ 18 ust. 2-3** - przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.

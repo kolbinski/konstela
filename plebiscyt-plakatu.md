@@ -10,6 +10,7 @@ Otwarty konkurs na **plakat o sztucznej inteligencji i jej roli w świecie**, wy
 
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał;
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę;
+- **werdykt zapada przed galą**, bo antologia z okładką musi zdążyć do druku;
 - **trzy najwyżej ocenione prace** dostają nagrody pieniężne;
 - zwycięska praca idzie na okładkę antologii;
 - nabór planujemy na 2027 rok, po zabezpieczeniu finansowania.
@@ -92,7 +93,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Nagrody pieniężne dla trzech najwyżej ocenionych prac**, nagroda publiczności oraz statuetki. Wysokość podamy przy ogłoszeniu naboru.
 
-**Okładka antologii.** Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. **Wymaga to Twojej osobnej zgody już po werdykcie** - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
+**Okładka antologii.** Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. **Pytamy Cię o zgodę zaraz po werdykcie, czyli przed galą**, i masz na odpowiedź 7 dni - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
 
 **Wystawa przy gali.** Oryginały dziesiątki finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody, a transport i powrót prac pokrywa organizator.
 
@@ -120,9 +121,11 @@ Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z gó
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.2 14 9l5.8 2-5.8 2-2 5.8L10 13l-5.8-2L10 9z"/></svg><span>Gala i terminy</span>
 
-Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela za rozmowę ze sztuczną inteligencją, w marcu 2028 roku. Oryginały finalistów wiszą na wystawie, trójka odbiera nagrody, a zwycięski plakat jest pokazywany ze sceny. Projekt okładki antologii powstaje po gali, za Twoją odrębną zgodą i w uzgodnieniu z Tobą.
+Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela za rozmowę ze sztuczną inteligencją, w marcu 2028 roku. Oryginały finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma tego wieczoru premierę - już ze zwycięskim plakatem na okładce**.
 
-Terminy naboru ogłosimy razem z regulaminem. Planujemy 2027 rok, po zabezpieczeniu finansowania.
+**Dlatego werdykt zapada wcześniej niż gala.** Książkę trzeba wydrukować, więc jury kończy ocenę na tyle wcześnie, żeby okładkę dało się przygotować w uzgodnieniu ze zwycięzcą. Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Praktyczna konsekwencja: **nabór plakatów zamyka się wcześniej niż nabór rozmów** - oba terminy podamy przy ogłoszeniu.
+
+Planujemy 2027 rok, po zabezpieczeniu finansowania.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="1.5"/><path d="M3.5 16 8 11.5l3 3L14.5 11l6 6"/><circle cx="9" cy="8" r="1.5"/></svg><span>Pół minuty kontra trzy tygodnie</span>
 
