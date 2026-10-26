@@ -95,7 +95,7 @@
 
 4. **Zgłoszeniem nie może być film promocyjny ani instruktaż.** Odrzuceniu podlega:
 
-   a) **film, którego celem jest promocja produktu, usługi, marki albo podmiotu** - w szczególności film zamówiony albo sfinansowany przez podmiot w nim promowany, film przedstawiający jedno rozwiązanie jako lepsze od innych bez pokazania podstaw tej oceny oraz film zakończony zachętą do skorzystania z produktu lub usługi;
+   a) **film, którego celem jest promocja produktu, usługi, marki albo podmiotu** - w szczególności film zamówiony albo sfinansowany przez podmiot w nim promowany oraz film zakończony zachętą do skorzystania z produktu lub usługi;
 
    b) **film będący w całości instruktażem obsługi narzędzia** - pokazem, jak wykonać w nim czynności, bez tezy o sztucznej inteligencji i jej roli w świecie.
 
@@ -167,7 +167,7 @@ Co film mówi o sztucznej inteligencji i jej roli w świecie. Oceniana jest oryg
 |---|---|
 | **0-5** | Film nie ma tezy: jest zbiorem obrazów albo wypowiedzi bez myśli, która je spina. |
 | **6-11** | Teza jest, ale podręcznikowa - powtarza to, co w tej sprawie mówi się powszechnie, bez własnego ujęcia. |
-| **12-17** | Teza własna, choć prowadzona nierówno: film ją porzuca, zmienia w połowie albo nie wyciąga z niej wniosku. |
+| **12-17** | Film nie rozwija własnego ujęcia konsekwentnie: zmiany stanowiska pozostają nieuzasadnione albo niezrozumiałe, a wniosek nie zostaje wyciągnięty. Świadome podważenie własnego założenia nie jest wadą, jeżeli film pokazuje, skąd ta zmiana. |
 | **18-23** | Teza wyraźna i konsekwentnie prowadzona do końca. Widz potrafi po seansie powiedzieć, co film twierdzi. |
 | **24-27** | Teza, która przestawia patrzenie na rzecz znaną - ujęcie, którego widz sam by nie znalazł, a po filmie uznaje za oczywiste. |
 | **28-30** | Teza na tyle własna i tak poprowadzona, że film staje się punktem odniesienia w rozmowie o tym temacie. |
@@ -187,7 +187,7 @@ Czy środki filmowe służą tezie: montaż, obraz, dźwięk, rytm i to, czy cza
 
 #### Rzetelność - 20 punktów
 
-Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny.
+Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny. **Brak twierdzeń faktograficznych również nie obniża oceny**: film, który niczego nie podaje jako faktu o technologii, może otrzymać w tym kryterium ocenę najwyższą.
 
 | Pasmo | Co to znaczy |
 |---|---|
@@ -196,7 +196,7 @@ Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i an
 | **8-11** | Film miesza fakty z założeniami, ale błędy dotyczą spraw pobocznych i nie podważają tezy. |
 | **12-15** | Film jest rzetelny: podaje to, co wie, jako wiedzę, a to, co zakłada, jako założenie. |
 | **16-18** | Film wyraźnie oznacza granice swojej wiedzy i nie udaje pewności tam, gdzie jej nie ma. |
-| **19-20** | Film porusza sprawę sporną i uczciwie pokazuje spór, zamiast wybierać wygodną wersję. |
+| **19-20** | Film nie wprowadza w błąd w żadnym miejscu: twierdzenia faktyczne są uzasadnione, a niepewność, interpretacja i fikcja rozróżnione wszędzie tam, gdzie ma to znaczenie dla widza. |
 
 #### Siła oddziaływania - 20 punktów
 
@@ -283,7 +283,11 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 5. Organizator może zdjąć wpis z Projektorni albo z archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 
-6. **Wersja podlegająca ocenie.** Ocenie podlega wersja filmu dostępna pod wskazanym odnośnikiem **w dniu zamknięcia naboru**. Zmiana filmu po tym dniu - podmiana, przemontowanie, skrócenie, usunięcie fragmentu - nie jest brana pod uwagę i, jeżeli zmienia film w stopniu istotnym, stanowi podstawę wykluczenia zgłoszenia na zasadach z § 14.
+6. **Wersja konkursowa.** Ocenie podlega wersja filmu dostępna pod wskazanym odnośnikiem **w dniu zamknięcia naboru**. Uczestnik zobowiązuje się nie zmieniać jej do dnia ogłoszenia werdyktu; poprawki techniczne nienaruszające treści, w szczególności korekta napisów, są dopuszczalne.
+
+6a. **Jak Organizator ustala, co było wersją konkursową.** Organizator **nie przechowuje kopii filmu** i nie jest w stanie odtworzyć materiału sprzed zmiany. W dniu zamknięcia naboru sporządza natomiast **metrykę zgłoszenia**: czas trwania filmu co do sekundy, tytuł, miniaturę, datę publikacji podaną przez serwis oraz zapis wpisu w Projektorni, wraz z datą sporządzenia. Oceniający odnotowują czas trwania obejrzanego filmu.
+
+6b. **Skutki zmiany.** Wykazana zmiana filmu po dniu zamknięcia naboru, inna niż poprawka z ust. 6, stanowi podstawę wykluczenia zgłoszenia w trybie z § 14. Ciężar wykazania zmiany spoczywa na Organizatorze, a podstawą jest rozbieżność z metryką albo z zapisem oceniających. **Organizator nie zapewnia, że każdą zmianę wykryje**, i nie przypisuje sobie możliwości porównania nowej wersji z poprzednią.
 
 7. **Usunięcie albo ukrycie filmu przez Uczestnika.** Film pozostaje w serwisie Uczestnika, więc Uczestnik może go w każdej chwili usunąć albo ukryć; nie zastępuje to wycofania zgłoszenia, które następuje w trybie z § 13. Skutki zależą od dnia:
 
@@ -387,4 +391,4 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy odnośniku prezentowanym na stronie Nagrody.
 8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** - czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
 9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** - czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
-10. **Wersja podlegająca ocenie (§ 11 ust. 6)** - skuteczność zastrzeżenia przy braku kopii archiwalnej po stronie Organizatora oraz miara "zmiany w stopniu istotnym".
+10. **Wersja konkursowa (§ 11 ust. 6-6b)** - czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.

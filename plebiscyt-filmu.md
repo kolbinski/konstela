@@ -23,12 +23,6 @@ Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 
 Plebiscyt na film jest jednym z czterech plebiscytów Nagrody Konstela, rozstrzyganych na tej samej gali. Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 21V3"/><path d="M6 4.5h12l-2.8 3.6L18 11.7H6"/></svg><span>Na jakim etapie jest plebiscyt</span>
-
-Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku. **Wysokość nagród ogłaszamy dopiero wtedy i od tej chwili nie można jej obniżyć.**
-
-Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy.
-
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c0-3.6 2.9-6 6.5-6 .9 0 1.8.2 2.6.5"/><path d="m15 17.5 2 2 4-4.5"/></svg><span>Kto i co może zgłosić</span>
 
 **Pełne zasady są w regulaminie:** [regulamin plebiscytu na film](/dokument/regulamin-filmu). Publikujemy go wraz z kartą oceny przed otwarciem naboru. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy, które to miejsca. Poniżej to, co najważniejsze.
@@ -39,11 +33,11 @@ Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy n
 
 **Po gali masz z filmem pełną swobodę**, bo nasza licencja jest niewyłączna. Jedno zastrzeżenie, które powinieneś znać wcześniej: **część festiwali wymaga premiery albo tego, żeby film nie był wcześniej dostępny w internecie**, a u nas publikacja jest warunkiem udziału. Tego ryzyka nie usuwa żadna nasza zgoda i musisz ocenić je sam.
 
-**Opublikowanie filmu na własnym kanale nie jest zgłoszeniem gdzie indziej.** U nas publikacja jest wręcz warunkiem udziału, bo zgłoszeniem jest odnośnik. Pokaz dla współtwórców, pokaz w szkole albo na uczelni też niczego nie blokują.
+**Opublikowanie filmu na własnym kanale nie jest zgłoszeniem gdzie indziej.** Pokaz dla współtwórców, pokaz w szkole albo na uczelni też niczego nie blokują.
 
 **Język.** Dialogi i narracja po polsku albo z polskimi napisami. Film bez warstwy słownej jest jak najbardziej dopuszczalny.
 
-**Czego nie przyjmiemy: filmu promocyjnego i instruktażu.** Odpada film, którego celem jest promocja produktu, usługi albo marki - zwłaszcza zamówiony lub sfinansowany przez promowany podmiot - oraz film będący w całości pokazem, jak obsługiwać narzędzie. **Nie odpada** natomiast dokument o tym, jak ludzie korzystają z AI, choćby było w nim widać konkretne produkty i sposób ich obsługi, film krytyczny wobec produktu, film zrobiony za grant albo ze zbiórki ani film, w którym fragment wyjaśnia działanie narzędzia, bo służy to tezie. Wątpliwość rozstrzygamy na Twoją korzyść, a odrzucenie dostajesz na piśmie, z uzasadnieniem i z terminem na odpowiedź.
+**Nie przyjmujemy reklam ani filmów będących wyłącznie instruktażem obsługi narzędzia.** Obecność produktu albo fragmentu instruktażowego w dokumencie czy eseju nie wyklucza udziału; wątpliwość rozstrzygamy na Twoją korzyść, a odrzucenie dostajesz na piśmie, z terminem na odpowiedź.
 
 **Jedno zgłoszenie na numer telefonu**, potwierdzane kodem z SMS.
 
@@ -51,7 +45,7 @@ Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy n
 
 **Zgłaszasz odnośnik do publicznie dostępnego filmu na YouTube.** Film musi być dostępny bez opłaty i bez zakładania konta, a odnośnik ma działać do końca oceny. Kopii filmu u siebie nie przechowujemy: w katalogu stoi tytuł, miniatura, opis, deklaracja i odnośnik.
 
-**Ocenie podlega wersja filmu dostępna pod odnośnikiem w dniu zamknięcia naboru.** Późniejsza podmiana, przemontowanie albo skrócenie nie są brane pod uwagę, a przy zmianie istotnej wykluczają zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; po werdykcie nie odbiera nagrody. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego odnośnika.
+**Ocenie podlega wersja filmu dostępna pod odnośnikiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; po werdykcie nie odbiera nagrody. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego odnośnika.
 
 Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 3 do 10 zdań** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie są punktowane.
 
@@ -61,7 +55,7 @@ Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
 **Użycie narzędzi sztucznej inteligencji przy filmie nie jest zakazane w żadnym zakresie** - ani przy obrazie, ani przy scenariuszu, ani przy montażu, dźwięku, muzyce, głosie czy napisach. **Opisujesz natomiast w zgłoszeniu, co takie narzędzia w Twoim filmie zrobiły.** Deklaracja jest publikowana razem ze zgłoszeniem i **nie jest punktowana**: film wygenerowany w całości i film zrobiony bez tych narzędzi oceniamy tą samą kartą.
 
-Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regulaminy wskazują, co musi pochodzić od człowieka. **Wyklucza natomiast zgłoszenie deklaracja nieprawdziwa.**
+Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regulaminy wskazują, co musi pochodzić od człowieka. **Nieprawdziwa deklaracja jest podstawą wykluczenia.**
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v16"/><path d="M5 8h14"/><path d="M5 8 2.5 14h5zM19 8l-2.5 6h5z"/></svg><span>Cztery kryteria oceny</span>
 
@@ -77,18 +71,18 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c0-3.6 2.9-6 6.5-6 .9 0 1.8.2 2.6.5"/><path d="m15 17.5 2 2 4-4.5"/></svg><span>Kto ocenia</span>
 
-**Pierwsze przejście robi Akademia filmu** - powoływana od pierwszej edycji, a nie dopiero po przekroczeniu progu zgłoszeń. To różnica wobec pozostałych plebiscytów i wynika z prostej arytmetyki: filmy do 90 minut razy liczba zgłoszeń to czas, którego kilkuosobowe jury nie ma. Akademia ogląda wszystko tą samą kartą oceny i przekazuje jury listę węższą.
+**Wszystkie zgłoszenia, które przeszły ocenę formalną, ogląda Akademia filmu** i przekazuje jury listę wyłonioną według zasad ogłoszonych przed naborem. Ocenia tą samą kartą oceny co jury.
 
 **Jury wybiera pięciu finalistów i ustala kolejność trójki.** Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem. Oceniający wyłącza się od oceny zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="8"/><path d="M12 8v8M9.5 10.3h5M9.5 13.7h5"/></svg><span>Nagrody</span>
 
-- **100 tys. zł, 50 tys. zł i 30 tys. zł** dla trzech najwyżej ocenionych filmów - to poziom docelowy, ogłaszany dopiero wtedy, gdy środki są na rachunku.
+- **100 tys. zł, 50 tys. zł i 30 tys. zł** dla trzech najwyżej ocenionych filmów. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
 - **3 tys. zł** w Nagrodzie Publiczności, przyznawanej w otwartym głosowaniu: jeden głos na numer telefonu, liczniki ukryte do gali.
 - **Mosiężny medalion Nagrody Konstela** z pieczęcią, grawerowany, wręczany osobiście zwycięzcy - ten sam, który dostają zwycięzcy pozostałych plebiscytów - oraz tłoczone dyplomy dla wszystkich pięciu finalistów.
 - **Minutowa emisja na gali** dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.
 
-Pełne pokazy filmów finałowych organizujemy osobno od gali - wieczór rozstrzyga kilka plebiscytów i nie zmieści 90 minut. Udział w takim pokazie wymaga Twojej zgody, a jej brak nie wpływa ani na ocenę, ani na nagrodę.
+Pełne pokazy filmów finałowych odbywają się osobno od gali, za zgodą autorów; brak zgody nie wpływa ani na ocenę, ani na nagrodę.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="4" width="17" height="4.5" rx="1"/><path d="M5 8.5v10.5a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V8.5"/><path d="M10 12.5h4"/></svg><span>Projektornia i archiwum</span>
 
