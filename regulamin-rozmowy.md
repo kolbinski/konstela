@@ -1,4 +1,4 @@
-# Regulamin plebiscytu na rozmowę ze sztuczną inteligencją - edycja pierwsza (2027)
+# Regulamin plebiscytu na rozmowę ze sztuczną inteligencją
 
 ---
 

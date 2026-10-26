@@ -1,4 +1,4 @@
-# Regulamin plebiscytu na piosenkę o sztucznej inteligencji - edycja pierwsza
+# Regulamin plebiscytu na piosenkę o sztucznej inteligencji
 
 Plebiscyt na piosenkę jest odrębnym konkursem prowadzonym przez Organizatora Nagrody Konstela i rozstrzyganym na tej samej gali. Regulamin Nagrody Konstela, dostępny pod adresem konstela.org/dokument/regulamin-rozmowy, nie stosuje się do plebiscytu, chyba że niniejszy regulamin wprost do niego odsyła.
 
