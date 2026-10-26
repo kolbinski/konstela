@@ -52,7 +52,11 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. Przy pracy wykonanej wspólnie zgłoszenie wskazuje osobę reprezentującą cały skład; ona prowadzi korespondencję, a podział ewentualnej nagrody pozostaje sprawą autorów.
 
-**Dołącz to, co masz z etapów pracy** - szkic, podmalówkę, zdjęcie w trakcie, nagranie. Nie jest to warunek: jeśli pracujesz bez szkicu albo nie masz zwyczaju się fotografować, nie odpadasz z tego powodu. Materiały ułatwiają nam jednak potwierdzenie, że obraz powstał pod ręką, więc jeśli istnieją, warto je dołączyć.
+**Dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut.** To jedyny obowiązkowy element, którego nie da się zastąpić oświadczeniem, bo cały ten konkurs stoi na tym, że obraz powstaje pod ręką. Nagranie ma pokazać w jednym kadrze pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. Może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 5 minut się nie liczą - nie widać na nich, czyja to ręka.
+
+**Czego nagranie nie musi mieć.** Twojej twarzy, Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Telefon oparty o kubek wystarcza. Nagranie nie jest oceniane w żadnym kryterium i nigdzie go nie publikujemy: widzą je tylko oceniający i jury, nie trafia ani do Galerii, ani do archiwum. Przesyłasz je jako link do nagrania w serwisie wideo - może być niepubliczny.
+
+**Pozostałe materiały z etapów pracy** - szkic, podmalówkę, zdjęcia w trakcie - możesz dołączyć, ale nie musisz. Jeśli istnieją, pomagają.
 
 Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
@@ -62,7 +66,7 @@ Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
 **To nie jest konkurs na abstynencję od sztucznej inteligencji.** Konstela jest o świadomym życiu z nią, nie o udawaniu, że jej nie ma. Granica jest tu jednak twardsza niż przy piosence, gdzie tekst wolno napisać z AI - bo przy plakacie to właśnie obraz jest ocenianym wytworem, a nie jednym z kilku składników.
 
-**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie i zdjęcia z etapów pracy, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
+**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem, Twoje oświadczenie i materiały z etapów, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
 **Narzędzia cyfrowe przy przygotowaniu pliku** - kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia - są dozwolone i oczywiste. Nie wolno nimi dodawać ani usuwać elementów obrazu.
 

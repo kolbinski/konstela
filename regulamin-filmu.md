@@ -38,15 +38,25 @@
 
 5. Zgłoszenie złożone przez osobę najbliższą członka jury nie jest wyłączone. Członek jury wyłącza się wówczas od oceny tego zgłoszenia, na zasadach z § 8 ust. 6.
 
-6. Organizator nie pyta o wykształcenie, dorobek festiwalowy ani przynależność do organizacji twórczych.
+6. Organizator nie pyta o wykształcenie, dotychczasowy dorobek ani przynależność do organizacji twórczych. Pyta wyłącznie o historię zgłoszonego filmu, w zakresie z § 3a; wcześniejsze nagrody Uczestnika za inne prace nie mają znaczenia ani dodatniego, ani ujemnego.
 
-## § 3a. Rok powstania filmu
+## § 3a. Film powstaje na potrzeby tego Plebiscytu
 
-1. Zgłoszony film musi zostać **ukończony w roku edycji**, to jest między 1 stycznia a 31 grudnia 2027 roku. Liczy się data ukończenia, a nie data zgłoszenia ani data publikacji.
+1. Zgłoszony film musi zostać **stworzony od zera na potrzeby Plebiscytu** i **ukończony w roku edycji**, to jest między 1 stycznia a 31 grudnia 2027 roku. Liczy się data ukończenia, a nie data zgłoszenia ani data publikacji.
 
-2. Datę ukończenia Uczestnik podaje w zgłoszeniu i odpowiada za jej prawdziwość. Organizator weryfikuje ją w zakresie, w jakim pozwalają na to środki techniczne, w szczególności na podstawie daty publikacji nagrania i materiałów produkcyjnych; brak możliwości weryfikacji nie obciąża Uczestnika i sam w sobie nie jest podstawą odrzucenia.
+2. Zgłoszony być nie może film, który do dnia gali:
 
-3. **Wcześniejsze publiczne pokazanie filmu nie wyłącza go z Plebiscytu.** Zgłoszenie polega na wskazaniu filmu opublikowanego przez Uczestnika, więc wymóg niepokazywania byłby niewykonalny.
+   a) został zgłoszony do innego konkursu, festiwalu albo przeglądu, niezależnie od wyniku tego zgłoszenia;
+
+   b) otrzymał gdziekolwiek nagrodę, wyróżnienie albo nominację;
+
+   c) powstał w innym celu i został następnie przygotowany pod Plebiscyt, w szczególności przez przemontowanie, skrócenie albo dodanie nowej warstwy dźwiękowej do materiału z lat wcześniejszych.
+
+3. **Opublikowanie filmu na kanale Uczestnika nie jest zgłoszeniem do innego konkursu ani pokazem festiwalowym.** Zgłoszenie w tym Plebiscycie polega na wskazaniu odnośnika do filmu opublikowanego przez Uczestnika (§ 4 ust. 1 lit. a), więc publikacja jest warunkiem udziału, a nie jego naruszeniem. Nie są też naruszeniem ust. 2: pokaz dla współtwórców, pokaz w szkole albo na uczelni Uczestnika oraz udostępnienie filmu bez zgłoszenia go do oceny.
+
+4. **Po dniu gali Uczestnik dysponuje filmem bez ograniczeń**, w tym zgłasza go, gdzie chce. Wyłączenie z ust. 2 obejmuje wyłącznie czas do gali i istnieje dlatego, że Plebiscyt nagradza film powstały dla niego, a nie dorobek z innego obiegu.
+
+5. Datę ukończenia oraz oświadczenie, że film spełnia warunki z ust. 1 i 2, Uczestnik podaje w zgłoszeniu i odpowiada za ich prawdziwość. Organizator weryfikuje je w zakresie, w jakim pozwalają na to środki techniczne, w szczególności na podstawie daty publikacji nagrania, materiałów produkcyjnych i publicznie dostępnych wyników konkursów; brak możliwości weryfikacji nie obciąża Uczestnika i sam w sobie nie jest podstawą odrzucenia. Wykazanie nieprawdy jest podstawą wykluczenia na zasadach z § 14.
 
 ## § 4. Forma zgłoszenia
 
@@ -82,7 +92,7 @@
 
 3. Film musi być dostępny publicznie, bez opłaty i bez konieczności zakładania konta.
 
-4. Zgłoszenie zostaje odrzucone w ocenie formalnej, jeżeli nie spełnia wymogów z ust. 1-3, z § 3a ust. 1 albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni.
+4. Zgłoszenie zostaje odrzucone w ocenie formalnej, jeżeli nie spełnia wymogów z ust. 1-3, z § 3a ust. 1 i 2 albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni.
 
 ## § 6. Narzędzia sztucznej inteligencji: deklaracja bez zakazu
 
@@ -196,7 +206,7 @@
 
    a) jest uprawniony do dysponowania filmem w zakresie koniecznym do udziału w Plebiscycie i do udzielenia licencji z ust. 2, w tym w zakresie praw do muzyki, zdjęć, scenariusza i wykonań osób występujących;
 
-   b) film został ukończony w roku edycji (§ 3a);
+   b) film został stworzony od zera na potrzeby Plebiscytu i ukończony w roku edycji, a do dnia gali nie został zgłoszony do innego konkursu, festiwalu ani przeglądu i nie otrzymał gdziekolwiek nagrody, wyróżnienia ani nominacji (§ 3a);
 
    c) deklaracja z § 6 jest zgodna z prawdą;
 
@@ -216,7 +226,7 @@
 
 4. **Warunkiem udziału są wyłącznie zakresy z ust. 2 lit. a oraz b.** Pozostałe wymagają odrębnej zgody, a jej brak nie wyłącza Uczestnika z Plebiscytu.
 
-5. Uczestnik zachowuje pełną swobodę dysponowania filmem, w tym zgłaszania go do innych konkursów i festiwali, także w czasie trwania Plebiscytu.
+5. Uczestnik zachowuje pełną swobodę dysponowania filmem - z jednym wyjątkiem, którym jest zgłaszanie go do innych konkursów, festiwali i przeglądów do dnia gali (§ 3a ust. 2). Po gali i ten wyjątek ustaje. Licencja z ust. 2 jest niewyłączna, więc nie stoi na drodze żadnemu późniejszemu zgłoszeniu ani dystrybucji.
 
 ## § 13. Wycofanie zgłoszenia
 
@@ -266,4 +276,5 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 4. **Brak zakazu użycia narzędzi sztucznej inteligencji (§ 6)** wobec stanu prawnego dotyczącego utworów generowanych - czy film wygenerowany w całości może być przedmiotem nagrody i czyim utworem jest.
 5. **Wizerunek osób występujących** i wystarczalność oświadczenia Uczestnika z § 12 ust. 1 lit. d.
 6. **Termin wycofania zgłoszenia (§ 13)** - skuteczność wobec konsumenta.
+6a. **Wyłączenie z § 3a ust. 2** - czy wymóg niezgłaszania filmu do innych konkursów do dnia gali, przy jednoczesnym obowiązku jego publikacji, jest wobec konsumenta wystarczająco jednoznaczny i czy nie jest postanowieniem niedozwolonym; oraz jak traktować film zgłoszony gdzie indziej przed otwarciem naszego naboru.
 7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy odnośniku prezentowanym na stronie Nagrody.
