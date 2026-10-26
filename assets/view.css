@@ -467,6 +467,48 @@
         border-bottom: 1px solid var(--line);
         vertical-align: top;
       }
+      /* Ostatnia kolumna jest opisowa i to ona ma dostać całą wolną
+         szerokość. Bez tego przeglądarka dzieliła miejsce po równo między
+         kolumny, więc nazwa kryterium i liczba punktów - po kilkanaście
+         znaków - zabierały tyle samo co zdanie wyjaśniające, które przez to
+         łamało się na telefonie co dwa słowa. Pozostałe kolumny zwężają się
+         do swojej treści, a zakaz łamania przy liczbach pilnuje, żeby nie
+         zwęziły się poniżej sensu. */
+      #content table th:not(:last-child),
+      #content table td:not(:last-child) {
+        width: 1%;
+        white-space: nowrap;
+      }
+      #content table th:last-child,
+      #content table td:last-child {
+        width: auto;
+        white-space: normal;
+      }
+      /* Przy wąskim ekranie nazwy kryteriów bywają dłuższe niż kolumna, więc
+         same nazwy mogą się łamać - zakaz łamania zostaje przy liczbach. */
+      @media (max-width: 30rem) {
+        #content table td:first-child,
+        #content table th:first-child {
+          white-space: normal;
+        }
+        /* Tabele co najmniej trzykolumnowe - karta oceny i podobne - dostają
+           na telefonie stały podział: nazwa i liczba tyle, ile naprawdę
+           potrzebują, reszta dla kolumny opisowej. Bez tego przeglądarka
+           oddawała nazwie kryterium prawie tyle miejsca co wyjaśnieniu, a to
+           ono jest tu treścią. Tabele dwukolumnowe zostają przy podziale
+           automatycznym, bo tam obie kolumny niosą tyle samo. */
+        #content table:has(th:nth-child(3)) {
+          table-layout: fixed;
+        }
+        #content table:has(th:nth-child(3)) th:first-child,
+        #content table:has(th:nth-child(3)) td:first-child {
+          width: 32%;
+        }
+        #content table:has(th:nth-child(3)) th:nth-child(2),
+        #content table:has(th:nth-child(3)) td:nth-child(2) {
+          width: 15%;
+        }
+      }
 
       #content table.thumbs {
         table-layout: fixed;
