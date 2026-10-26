@@ -55,10 +55,6 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Zgłoszenie zespołowe wskazuje jedną osobę reprezentującą cały skład.** Ona składa zgłoszenie i prowadzi korespondencję, a sposób podziału nagrody pozostaje sprawą zgłaszających - organizator wypłaca ją w całości reprezentantowi i w podział się nie wtrąca.
 
-**Słuchalnia.** Wszystkie zgłoszenia, które przeszły sprawdzenie formalne, pokazujemy na stronie w miarę, jak napływają - tytuł, podpis i odnośnik do Twojego nagrania. Nie trzymamy u siebie plików: piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz.
-
-**Po gali Słuchalnia przechodzi do archiwum** i zostaje dostępna bezpłatnie, jako katalog zgłoszeń danej edycji. Jeśli kiedyś usuniesz nagranie ze swojego kanału, odnośnik po prostu przestanie działać - nie odtwarzamy treści z żadnego innego źródła. Możesz też w każdej chwili poprosić o usunięcie wpisu z archiwum.
-
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.5 6h11M9.5 12h11M9.5 18h11"/><path d="m3.2 5.3 1.1 1.2 2.2-2.4M3.2 11.3l1.1 1.2 2.2-2.4M3.2 17.3l1.1 1.2 2.2-2.4"/></svg><span>Zasady: melodia, tekst i AI</span>
 
 **Melodia i głos są ludzkie, tekst wolno napisać z AI.** To nie jest konkurs na abstynencję od sztucznej inteligencji - rzecz jest o świadomym życiu z nią, nie o udawaniu, że jej nie ma.
@@ -104,6 +100,14 @@ Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitar
 **Nagranie studyjne dla każdego z dziesięciu finalistów.** Osobno od pieniędzy: wszystkie utwory finałowej dziesiątki zostaną nagrane profesjonalnie w studiu na koszt organizatora, a nagrania mają ukazać się na **płycie wydanej przez wydawnictwo-partnera**.
 
 Wydawnictwo nie jest jeszcze wybrane. **Nagrania powstaną niezależnie od tego, czy się znajdzie** - bez niego nie powstanie tylko płyta.
+
+## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.8" width="17" height="4.2" rx="1"/><rect x="3.5" y="10.4" width="17" height="9.8" rx="1"/><path d="m10.6 13.4 4.2 2.4-4.2 2.4z"/></svg><span>Słuchalnia i archiwum</span>
+
+**Twoje zgłoszenie od razu trafia na stronę.** Wszystkie utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim tytuł, Twój podpis i odnośnik do nagrania.
+
+**Nie trzymamy u siebie plików.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, odnośnik po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła.
+
+**Po gali Słuchalnia zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim tytuł, podpis, rok edycji i odnośnik - żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3l7 3v6c0 4.4-2.9 7.6-7 9-4.1-1.4-7-4.6-7-9V6z"/><path d="M9 12l2.2 2.2L15.5 10"/></svg><span>Prawa do Twojej piosenki</span>
 
