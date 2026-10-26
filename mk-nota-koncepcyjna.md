@@ -72,6 +72,16 @@ Antologia byłaby materiałem źródłowym tego brakującego rodzaju: darmowym, 
 
 Jest w tym również wartość, która nie jest dydaktyczna. Zapis rozmowy człowieka z nowym narzędziem, sporządzony w chwili, gdy to narzędzie dopiero wchodzi do powszechnego użytku, jest dokumentem epoki i materiałem dla przyszłych badaczy języka, kultury i techniki. Nie zidentyfikowałem dotąd publicznego, polskojęzycznego zbioru tego rodzaju, a zapisy takie powstają masowo i znikają razem z historią czatu.
 
+### Dostępność
+
+Wszystko, co powstaje z Nagrody, jest **bezpłatne i dostępne bez rejestracji**: antologia, archiwum rozmów, galeria plakatów, zapis gali i podcast. Nie ma konta, nie ma ściany płatności, nie ma zgody na śledzenie - strona nie zbiera żadnych danych o odwiedzających i nie wczytuje niczego z serwerów innych podmiotów.
+
+Strona Nagrody ma **tryb czytelności**, włączany jednym przyciskiem w pasku u góry: pismo o wielkości 30 pikseli w całym serwisie, czarny tekst na białym tle, odnośniki w jednym wyróżnionym kolorze, bez ozdobnych rysunków. Tryb działa na każdej stronie, łącznie z regulaminami i kartami oceny, a wybór jest zapamiętywany na urządzeniu odwiedzającego.
+
+Dokumenty - regulaminy, karty oceny, polityka prywatności, procedura moderacji - są publikowane jako **zwykły tekst w HTML, a nie jako pliki do pobrania**. Czyta je czytnik ekranu, da się je powiększyć bez utraty układu i działają na każdym telefonie. Antologia ukazuje się w formacie elektronicznym pozwalającym na powiększenie pisma, obok wydania drukowanego.
+
+Mówię o tym wprost, ponieważ przy przedsięwzięciu adresowanym do wszystkich dostępność bywa obiecywana na etapie wniosku i sprawdzana dopiero po realizacji. Tutaj jest wykonana przed ogłoszeniem naboru i można ją sprawdzić dzisiaj, pod adresem konstela.org.
+
 ## 4. Kryteria oceny
 
 Cztery, o równej wadze:
