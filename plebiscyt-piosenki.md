@@ -38,18 +38,21 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Jedna piosenka.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej.
 
-**Cztery wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną:**
+**Pięć wymogów, przez które zgłoszenie może odpaść jeszcze przed oceną:**
 
 - utwór trwa **od 3 do 6 minut**;
 - **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i jury musi go rozumieć;
 - utwór **nie był wcześniej wydany komercyjnie** - publikacja na własnym kanale wydaniem nie jest i niczego nie blokuje, chodzi o rzeczy wydane przez wydawcę albo dystrybutora;
-- link do nagrania **działa przez cały czas trwania oceny**.
+- link do nagrania **działa przez cały czas trwania oceny**;
+- **okładka jest dołączona** i masz do niej prawa.
 
 **Wystarczy czytelne demo.** Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak możesz się zgłosić</span>
 
 **Przesyłasz link do nagrania na YouTube, nie plik.** Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
+
+**Do tego jedna okładka.** Kwadratowy obrazek, JPG albo PNG, bok od 800 do 3000 pikseli, do 5 MB. To on reprezentuje Twoją piosenkę w Słuchalni i w archiwum - zamiast szarego kafla z tytułem. Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładki nie oceniamy**, więc nie ma sensu wydawać na nią pieniędzy; ma tylko sprawić, że ktoś kliknie.
 
 **Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń, bo w muzyce granie u kilku osób naraz jest normą, a nie nadużyciem. Pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta.
 
@@ -81,7 +84,7 @@ Cztery kryteria, każde osobno. Kartę publikujemy już teraz, zamiast obiecywa�
 
 Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie. Wykonanie ma najniższą celowo: skoro przyjmujemy dema, nie możemy wysoko ważyć czegoś, co zależy od tego, czy ktoś nagrywał w studiu, czy telefonem.
 
-**Czego nie oceniamy: jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
+**Czego nie oceniamy: okładki, jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8" cy="8.5" r="2.6"/><circle cx="16" cy="8.5" r="2.6"/><path d="M3.5 18.5c0-2.5 2-4.3 4.5-4.3s4.5 1.8 4.5 4.3"/><path d="M14 18.5c0-2.5 1.7-4.3 4.2-4.3.8 0 1.6.2 2.3.5"/></svg><span>Jury i tryb oceny</span>
 
@@ -103,9 +106,9 @@ Wydawnictwo nie jest jeszcze wybrane. **Nagrania powstaną niezależnie od tego,
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.8" width="17" height="4.2" rx="1"/><rect x="3.5" y="10.4" width="17" height="9.8" rx="1"/><path d="m10.6 13.4 4.2 2.4-4.2 2.4z"/></svg><span>Słuchalnia i archiwum</span>
 
-**Twoje zgłoszenie od razu trafia na stronę.** Wszystkie utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim tytuł, Twój podpis i odnośnik do nagrania.
+**Twoje zgłoszenie od razu trafia na stronę.** Wszystkie utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis i odnośnik do nagrania.
 
-**Nie trzymamy u siebie plików.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, odnośnik po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła.
+**Nie trzymamy u siebie nagrań.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, odnośnik po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz.
 
 **Po gali Słuchalnia zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim tytuł, podpis, rok edycji i odnośnik - żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
 

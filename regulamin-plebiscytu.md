@@ -72,11 +72,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    b) skład osobowy w przypadku zgłoszenia zespołowego, zgodnie z § 6;
 
-   c) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
+   c) **okładkę** - jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
 
-   d) oświadczenie o prawach do utworu i do nagrania, zgodnie z § 15 ust. 5;
+   d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 
-   e) adres poczty elektronicznej do korespondencji.
+   e) oświadczenie o prawach do utworu, do nagrania i do okładki, zgodnie z § 15 ust. 5;
+
+   f) adres poczty elektronicznej do korespondencji.
 
 4. Zgłoszenie potwierdzane jest kodem przesyłanym w wiadomości SMS na numer telefonu wskazany przez Uczestnika. Numer nie jest przechowywany w postaci jawnej; sposób jego przetwarzania opisuje polityka prywatności.
 
@@ -84,9 +86,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 6. Link wskazany w zgłoszeniu musi pozostać czynny przez cały czas trwania oceny, to jest do dnia ogłoszenia werdyktu. Skutki niedostępności nagrania określa § 8 ust. 4.
 
-7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje tytuł utworu, podpis Uczestnika oraz odnośnik do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika oraz odnośnik do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
 
-8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: tytuł utworu, podpis Uczestnika, rok edycji oraz odnośnik do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że odnośnik przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
+8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, rok edycji oraz odnośnik do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że odnośnik przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
@@ -132,6 +134,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    b) link nie jest czynny w chwili oceny formalnej;
 
+   ba) okładka nie została dołączona, nie spełnia wymogów technicznych z § 5 ust. 3 lit. c albo narusza prawa osób trzecich lub dobra osobiste;
+
    c) utwór nie dotyczy tematu określonego w § 2 ust. 1;
 
    d) tekst utworu nie jest w języku polskim;
@@ -166,7 +170,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Kryterium wykonania ma najniższą wagę celowo. Skoro Organizator przyjmuje dema, nie może wysoko ważyć tego, co zależy od warunków nagrania.
 
-4. Oceniający nie bierze pod uwagę liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
+4. Oceniający nie bierze pod uwagę okładki zgłoszenia, liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
 
 ## § 10. Jury i tryb oceny
 
@@ -262,13 +266,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. Uczestnik udziela Organizatorowi licencji niewyłącznej, nieodpłatnej, w czterech zakresach i wyłącznie w tych zakresach:
 
-   a) prezentacja zgłoszenia na stronie Nagrody w czasie trwania naboru i oceny;
+   a) prezentacja zgłoszenia, wraz z okładką, na stronie Nagrody w czasie trwania naboru i oceny;
 
    b) wykonanie utworu na żywo podczas gali;
 
    c) utrwalenie gali na wideo oraz bezpłatne udostępnienie tego zapisu;
 
-   d) prezentacja zgłoszenia w archiwum plebiscytu po zakończeniu edycji, w zakresie danych katalogowych określonych w § 5 ust. 8.
+   d) prezentacja zgłoszenia, wraz z okładką, w archiwum plebiscytu po zakończeniu edycji, w zakresie określonym w § 5 ust. 8.
 
 3. Czas trwania licencji jest różny dla poszczególnych zakresów:
 
@@ -282,7 +286,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4. Udzielenie licencji w zakresie określonym w ust. 2 jest warunkiem udziału w plebiscycie. Przy zgłoszeniu zespołowym licencji udziela reprezentant składu w imieniu wszystkich współautorów i wykonawców.
 
-5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do utworu i do nagrania w zakresie pozwalającym na udzielenie licencji określonej w ust. 2, oraz że zgłoszenie nie narusza praw osób trzecich. Oświadczenie nie obejmuje zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale narzędzi sztucznej inteligencji.
+5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do utworu, do nagrania i do okładki w zakresie pozwalającym na udzielenie licencji określonej w ust. 2, oraz że zgłoszenie nie narusza praw osób trzecich. Oświadczenie nie obejmuje zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale narzędzi sztucznej inteligencji.
 
 6. Organizator może sporządzić kopię archiwalną zgłoszonego nagrania w chwili zgłoszenia, wyłącznie na potrzeby oceny i wyłącznie na wypadek niedostępności nagrania w serwisie. Kopia nie jest udostępniana publicznie i jest usuwana po zakończeniu edycji.
 
