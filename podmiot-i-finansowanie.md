@@ -126,3 +126,9 @@ Polecone biuro rachunkowe: https://biuro-lex.pl/
 - Działalność gospodarcza w statucie: wpisywać od razu czy nie (patrz wyżej).
 - Treść umowy sponsorskiej przy świadczeniu wzajemnym w postaci logo i wystąpienia na gali.
 - Czy przyrzeczenie publiczne złożone przez fundację wymaga zabezpieczenia puli nagród (rachunek, gwarancja) przed otwarciem naboru.
+
+**Konsultacje w RC odpadły (26.10.2026).** Doradczyni zadzwoniła z informacją, że skorzystanie z doradztwa wymaga osobistego przyjścia i podpisu na miejscu; **Centrum nie prowadzi konsultacji zdalnych**. Przy siedzibie fundacji w Sieradzu (§ 3 statutu) dojazd do Gdańska po bezpłatną poradę nie ma sensu, więc oba zgłoszenia - prawne i księgowe - zostają bez realizacji.
+
+Co z tej ścieżki zostaje mimo wszystko: minimum 1000 zł na działalność gospodarczą, ostrzeżenie o kodach PKD 2025 oraz **polecone biuro rachunkowe biuro-lex.pl**, które nie wymaga dojazdu, bo księgowość fundacji prowadzi się zdalnie.
+
+Do załatwienia inną drogą: dwie konsultacje przed notariuszem. Tropy: ośrodek wsparcia ekonomii społecznej właściwy dla powiatu sieradzkiego, kancelaria, do której idzie zapytanie o regulaminy, albo samo biuro rachunkowe w części księgowej.
