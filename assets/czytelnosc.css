@@ -14,9 +14,12 @@
  */
 
 :root.czytelnie {
-  /* Pismo: większe o jedną czwartą. Wszystkie rozmiary w serwisie są podane
-     w rem, więc zmiana podstawy skaluje całość razem z odstępami. */
-  font-size: 125% !important;
+  /* Wielkość pisma dla tekstu zwykłego. Ta sama, co akapit wprowadzający na
+     stronie głównej - czyli największy tekst ciągły, jaki serwis ma dziś w
+     treści. Nie skalujemy podstawy rem, bo wtedy rosłyby też pasek i
+     nagłówki, które są już duże. */
+  --czytelnie-tekst: 1.25rem;
+  --czytelnie-tekst-maly: 1.125rem;
 
   /* Barwy wspólne dla obu zestawów zmiennych - strony głównej i podstron. */
   --paper: #ffffff !important;
@@ -33,10 +36,12 @@
   --rule: #000000 !important;
   --line: #000000 !important;
 
-  /* Odnośniki niebieskie - jedyny kolor w tym trybie, więc od razu widać,
-     w co da się kliknąć. */
-  --brass: #0000cc !important;
-  --brass-bright: #0000cc !important;
+  /* Mosiądz jest w serwisie kolorem akcentu: ikony przy nagłówkach, linie,
+     pieczęć, wyróżnienia. W tym trybie staje się czarny, bo niebieski jest
+     zarezerwowany wyłącznie dla odnośników - inaczej kolor przestałby
+     znaczyć "tu da się kliknąć". */
+  --brass: #000000 !important;
+  --brass-bright: #000000 !important;
 
   /* Pasek odwrotnie niż strona: czarne tło, biała treść. */
   --bar-bg: #000000 !important;
@@ -46,6 +51,47 @@
 :root.czytelnie body {
   background: #ffffff !important;
   color: #000000 !important;
+  font-size: var(--czytelnie-tekst) !important;
+}
+
+/* Tekst ciągły i wszystko, co w zwykłym trybie jest od niego mniejsze:
+   akapity, listy, tabele, podpisy, pola formularzy. Nagłówki zostają takie,
+   jakie są, bo już są duże. */
+:root.czytelnie p,
+:root.czytelnie li,
+:root.czytelnie dt,
+:root.czytelnie dd,
+:root.czytelnie th,
+:root.czytelnie td,
+:root.czytelnie blockquote,
+:root.czytelnie label,
+:root.czytelnie input,
+:root.czytelnie button,
+:root.czytelnie select,
+:root.czytelnie textarea,
+:root.czytelnie .menu a {
+  font-size: var(--czytelnie-tekst) !important;
+  line-height: 1.6 !important;
+}
+
+/* Drobne podpisy - metryki pod pozycjami kalendarza, przypisy, oznaczenia -
+   zostają odrobinę mniejsze od tekstu ciągłego, żeby hierarchia nie znikła,
+   ale i tak rosną z dzisiejszych 0,8 rem. */
+:root.czytelnie small,
+:root.czytelnie figcaption,
+:root.czytelnie .tag,
+:root.czytelnie sup,
+:root.czytelnie sub {
+  font-size: var(--czytelnie-tekst-maly) !important;
+}
+
+/* Pasek zostaje w swojej wielkości: ma być kotwicą, a nie najgłośniejszym
+   elementem strony, a przy większym piśmie napis łamie się na dwie linie. */
+:root.czytelnie .topbar .tag {
+  font-size: 0.68rem !important;
+}
+:root.czytelnie .topbar button {
+  font-size: inherit !important;
 }
 
 /* Tekst na biało-czarno niezależnie od tego, czy dana reguła sięgała po

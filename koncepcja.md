@@ -1006,7 +1006,11 @@ Po poprawce ukrywającej przycisk menu na stronie 404 przycisk nadal był widocz
 
 Przycisk w pasku, przed przyciskiem menu, ikona dwóch liter A - mała i duża, konwencja znana z serwisów prasowych. Klik przełącza klasę `czytelnie` na `<html>` i zapisuje flagę w localStorage pod kluczem `konstela-czytelnosc`.
 
-**Co robi tryb:** pismo większe o jedną czwartą (`font-size: 125%` na korzeniu, więc skalują się wszystkie rozmiary podane w rem razem z odstępami), białe tło, czarny tekst, niebieskie odnośniki, pasek odwrócony - czarne tło i biała treść.
+**Co robi tryb:** tekst ciągły powiększony do 1,25 rem, czyli do wielkości akapitu wprowadzającego na stronie głównej - największego tekstu ciągłego, jaki serwis ma w treści. Do tego białe tło, czarny tekst, niebieskie odnośniki i pasek odwrócony: czarne tło, biała treść.
+
+**Nie skalujemy podstawy rem** (pierwsza wersja miała `font-size: 125%` na korzeniu). Skalowanie podstawy powiększało wszystko naraz, więc rosły też nagłówki i pasek, które są już duże - a napis w pasku łamał się wtedy na dwie linie. Teraz rośnie wyłącznie to, co w zwykłym trybie jest mniejsze od akapitu wprowadzającego: akapity, listy, tabele, pola formularzy i pozycje menu idą na 1,25 rem, drobne podpisy na 1,125 rem, a nagłówki i pasek zostają bez zmian.
+
+**Niebieski wyłącznie dla odnośników.** Zmienna `--brass`, którą serwis rysuje ikony przy nagłówkach, linie, pieczęć i wyróżnienia, staje się w tym trybie czarna. Wcześniej zrobiłem ją niebieską razem z odnośnikami i kolor przestawał znaczyć "tu da się kliknąć". Sprawdzone automatycznie: po włączeniu trybu żaden element poza odnośnikami nie ma koloru niebieskiego.
 
 **Trzy rzeczy rozstrzygnięte w konstrukcji:**
 
