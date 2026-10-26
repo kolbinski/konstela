@@ -67,6 +67,8 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
 - a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu) - **obowiązkowe**;
 - b) **opis odkrycia**: od 3 do 10 zdań o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło - **obowiązkowe**. Uczestnik może w nim wspomnieć, co z rozmowy wynikło później - powstałą stronę, aplikację, tekst, usługę albo podjętą decyzję - i podać do tego odnośnik. **Informacja ta stanowi kontekst, nie dowód, i nie podlega punktacji** (§ 7 ust. 10 lit. d);
+- a1) **tytuł rozmowy** nadany przez Uczestnika, do 80 znaków - **obowiązkowe**. Tytuł jest nazwą pozycji w czytelni (ust. 10a § 11) i w archiwum, a także podstawą sortowania alfabetycznego. **Nie podlega punktacji w żadnym kryterium** (§ 7 ust. 10 lit. d);
+
 - b1) **dlaczego warto przeczytać tę rozmowę**: do 5 zdań własnego uzasadnienia - **nieobowiązkowe**. Pole to **nie podlega punktacji w żadnym kryterium** i jest udostępniane oceniającym **dopiero po zapoznaniu się z rozmową** (§ 8 ust. 13). Służy wyłącznie jako materiał do komentarze Kapituły w antologii oraz do rozmowy weryfikacyjnej. Powód takiego ułożenia: oceniana jest rozmowa, a nie umiejętność jej zareklamowania, a uzasadnienie przeczytane przed rozmową kierowałoby lekturą;
 - c) **imię i nazwisko** - **obowiązkowe**;
 - c1) **adres e-mail** - **obowiązkowe**; służy do całej korespondencji w sprawie zgłoszenia, w tym do przekazania kopii archiwalnej;
@@ -174,7 +176,9 @@ Dodatkowo:
 
 11. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń oraz próby obejścia zabezpieczeń modelu. Rozmowy o charakterze terapeutycznym i wsparciowym podlegają odrzuceniu już na etapie formalnym (§ 6 ust. 11).
 12. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
-13. **Kolejność czytania.** Oceniający zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł. **Uzasadnienie z § 5 ust. 2 lit. b1, jeżeli Uczestnik je złożył, udostępniane jest oceniającemu dopiero po wystawieniu ocen** i nie wpływa na punktację. Rozbieżność między opisem odkrycia a treścią rozmowy jest sama w sobie informacją i powinna zostać odnotowana.
+13. **Kolejność czytania.** Oceniający zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł. Rozbieżność między opisem odkrycia a treścią rozmowy jest sama w sobie informacją i powinna zostać odnotowana.
+
+13a. **Tytuł i uzasadnienie: reguła kolejności, nie zakaz dostępu.** Tytuł rozmowy (§ 5 ust. 2 lit. a1) oraz uzasadnienie „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1) **nie podlegają punktacji w żadnym kryterium**. Panel oceniającego udostępnia je dopiero po zapoznaniu się z rozmową, jednak Organizator nie zapewnia, że oceniający nie zobaczy ich wcześniej: oba pola są widoczne publicznie w czytelni zgłoszeń od chwili przejścia oceny formalnej (§ 11 ust. 10a). Zabezpieczeniem nie jest więc tajemnica, lecz **wyłączenie obu pól z punktacji oraz narzucona kolejność czytania w panelu**. Zapis ten wprowadzono świadomie zamiast zakazu dostępu, ponieważ zakaz oparty na tajemnicy przestał być wykonalny w chwili uruchomienia publicznej czytelni, a regulamin nie powinien obiecywać zabezpieczenia, którego nie da się dotrzymać.
 14. **Przygotowanie a inscenizacja.** Dozwolone jest przygotowanie się do rozmowy, w tym korzystanie z wcześniejszych konsultacji, notatek i planu wątków. Niedozwolone jest zgłoszenie rozmowy odtwarzającej z góry ustalony przebieg, której wynik był znany Uczestnikowi przed jej rozpoczęciem (§ 11 ust. 1 lit. c). Rozstrzygające jest to, czy odkrycie nastąpiło w rozmowie, czy zostało w niej odegrane.
 
 ## § 7a. Ocena a publikacja
@@ -287,6 +291,15 @@ Tryb nie jest wybierany przez Organizatora: wynika z liczby zgłoszeń według p
 6. Od nagród pieniężnych pobierany jest zryczałtowany podatek dochodowy w wysokości 10% wartości nagrody (art. 30 ust. 1 pkt 2 ustawy o podatku dochodowym od osób fizycznych). Płatnikiem podatku jest Organizator.
 7. Nagrody wypłacane są przelewem na rachunek wskazany przez laureata.
 
+8. **Nagroda Publiczności.** Obok werdyktu Kapituły przyznawana jest odrębna, wyraźnie nazwana Nagroda Publiczności. Zasady:
+
+- a) **głosowanie obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną** i znajdują się w utrwalonej czytelni (§ 11 ust. 10a). Żaden Uczestnik nie jest wyłączony z tej nagrody wskutek decyzji podjętej przy zgłoszeniu, ponieważ obecność w czytelni jest warunkiem udziału;
+- b) **głosowanie otwiera się po dniu zamrożenia punktacji rundy pierwszej** (§ 8 ust. 10), a nie w trakcie naboru, i trwa do dnia gali. Powód jest podwójny: oceny rundy pierwszej powstają wtedy bez wiedzy o wynikach głosowania, a wszystkie zgłoszenia mają ten sam czas ekspozycji, niezależnie od tego, czy wpłynęły w styczniu, czy w grudniu;
+- c) **jeden głos przypada na jeden numer telefonu**, potwierdzany jednorazowym kodem. Organizator nie przechowuje numeru w postaci jawnej (§ 5 ust. 2e lit. b);
+- d) **liczniki głosów nie są publikowane w trakcie głosowania.** Wynik ogłaszany jest dopiero na gali. Zapis ten istnieje, aby widoczny licznik nie kierował ani głosowaniem, ani lekturą;
+- e) Nagroda Publiczności jest **niezależna od werdyktu Kapituły** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki. Jej wysokość ogłaszana jest na zasadach z ust. 2;
+- f) nagroda nie jest przyznawana w drodze losowania wśród głosujących ani w żadnym innym trybie losowym; w szczególności Organizator nie organizuje loterii promocyjnej w rozumieniu ustawy o grach hazardowych.
+
 ## § 10. Nierozstrzygnięcie edycji
 
 1. Edycja nie zostaje rozstrzygnięta, jeżeli w terminie wpłynie **mniej niż 12 zgłoszeń spełniających wymogi formalne** określone w § 5 i § 6. Próg ten jest **ustalony przed otwarciem naboru i ogłoszony w dniu jego otwarcia**; po otwarciu naboru nie może zostać zmieniony.
@@ -322,6 +335,17 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
 8. **Po publikacji.** Organizator nie wycofuje z obrotu wydań już rozpowszechnionych ani nie podmienia plików pobranych przez osoby trzecie; nie odpowiada też za kopie, cytaty i omówienia rozpowszechnione przez innych. Dotyczy to zarówno wydania elektronicznego, jak i egzemplarzy drukowanych wprowadzonych do obrotu.
 9. **Czego regulamin nie wyłącza.** Powyższe nie pozbawia Uczestnika uprawnień przysługujących mu z mocy prawa, w szczególności z przepisów o ochronie danych osobowych; regulamin nie może ich wyłączyć i nie próbuje tego robić. Żądanie usunięcia danych złożone po publikacji Organizator rozpatruje **indywidualnie**, ważąc je wobec wolności wypowiedzi i informacji (art. 17 ust. 3 lit. a RODO) oraz wobec udzielonej licencji, i odpowiada na piśmie z uzasadnieniem. Jeżeli uwzględnienie żądania jest możliwe bez usunięcia całej rozmowy, Organizator w terminie 14 dni usuwa z publikowanej przez siebie wersji imię i nazwisko Uczestnika oraz wskazane przez niego fragmenty pozwalające go zidentyfikować, o ile pozwala to zachować sens rozmowy. Organizator nie zapewnia z góry, że każde żądanie zostanie spełnione ani że rozmowa pozostanie opublikowana w każdym przypadku.
 10. Skorzystanie z uprawnień, o których mowa w ust. 9, nie wpływa na przyznaną nagrodę ani na wynik edycji; laureat pozostaje laureatem, a informacja o rozstrzygnięciu nie jest usuwana.
+10a. **Czytelnia zgłoszeń.** Przez cały okres przyjmowania zgłoszeń Organizator prowadzi na stronie Nagrody **czytelnię zgłoszeń** - publiczną, rosnącą listę zgłoszeń przyjętych do konkursu. Zasady:
+
+- a) **obecność w czytelni jest warunkiem udziału w konkursie**, a nie przedmiotem odrębnej zgody ani wyboru Uczestnika; podstawą jest licencja z ust. 3. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia: imieniem i nazwiskiem albo pseudonimem (§ 5 ust. 2 lit. g);
+- b) **czytelnia nie zawiera treści rozmowy**. Prezentowane są wyłącznie: tytuł rozmowy (§ 5 ust. 2 lit. a1), podpis Uczestnika, odnośnik do rozmowy opublikowany przez samego Uczestnika u dostawcy modelu (§ 5 ust. 2 lit. a), opis odkrycia (§ 5 ust. 2 lit. b) oraz uzasadnienie z § 5 ust. 2 lit. b1, jeżeli Uczestnik je złożył. Organizator nie zwielokrotnia rozmowy na własnej stronie na tym etapie, a odpowiedzialność za treść udostępnioną pod odnośnikiem pozostaje po stronie Uczestnika;
+- c) **wpis pojawia się po przejściu oceny formalnej (§ 6), a nie w chwili złożenia zgłoszenia.** Czytelnia zawiera zatem wyłącznie zgłoszenia ważne, a pola prezentowane publicznie zostały wcześniej sprawdzone;
+- d) **kolejność w czytelni wyznacza wyłącznie data zgłoszenia.** Organizator nie prowadzi w czytelni rankingu, nie publikuje liczników odsłon, polubień ani popularności i nie wyróżnia żadnego zgłoszenia inaczej niż na zasadach ogłoszonych przed naborem;
+- e) **punktacja nie jest widoczna w czytelni.** Oceny stają się jawne dopiero po dniu ogłoszenia wyników, na zasadach z ust. 11;
+- f) Organizator może **zdjąć wpis z czytelni, z zachowaniem przez Uczestnika pełnego udziału w konkursie**, wyłącznie na podstawach i w trybie określonych w § 7a ust. 2, 5 i 6, to jest w razie realnego ryzyka prawnego związanego z prezentacją wpisu. Wymaga to wskazania fragmentu oraz prawa, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w rozmowie nie jest podstawą zdjęcia wpisu;
+- g) **w dniu zamknięcia przyjmowania zgłoszeń czytelnia zostaje utrwalona** i od tego dnia nie są do niej dopisywane nowe wpisy. Dalsze losy utrwalonego zbioru określa ust. 11;
+- h) narzędzia, którymi czytelnik oznacza zgłoszenia dla siebie - w szczególności półka pozycji zapamiętanych do późniejszej lektury - działają **wyłącznie w przeglądarce czytelnika i nie są przekazywane Organizatorowi**. Nie są one głosem w rozumieniu § 9 i nie są przez Organizatora zliczane.
+
 11. **Archiwum rozmów.** Archiwum obejmuje zgłoszenia, które **zostały zakwalifikowane do rundy drugiej** (§ 8 ust. 10); jeżeli tryb oceny nie przewiduje rundy pierwszej, obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną. Zasady:
 
 - a) publikacja w archiwum odbywa się na podstawie licencji z ust. 3 i **nie wymaga odrębnej zgody**; Uczestnik nie składa w tym zakresie osobnego oświadczenia;
