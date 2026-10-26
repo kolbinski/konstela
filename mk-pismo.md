@@ -63,7 +63,7 @@ Po trzecie, czy zadanie rozłożone na dwa lata budżetowe jest dopuszczalne. Na
 
 Po czwarte, czy w świetle powyższego sensowniejsze jest przygotowanie wniosku do naboru na rok 2028, składanego jesienią 2027 roku, już z ramienia zarejestrowanej fundacji. Wolę usłyszeć to teraz niż po złożeniu wniosku, który odpadnie formalnie.
 
-Jestem również świadomy, że System Obsługi Programów pozostaje zablokowany po incydencie bezpieczeństwa, i będę wdzięczny za informację, czy wpływa to na terminy naborów na rok 2027.
+Jestem również świadomy, że System Obsługi Programów został wyłączony z użytkowania po incydencie bezpieczeństwa z 6 października 2026 roku, a naborów do Programów Ministra na rok 2027 nie ogłoszono do dnia sporządzenia niniejszego pisma. Będę wdzięczny za informację, czy i w jakim zakresie wpływa to na terminy tych naborów.
 
 Pozostaję do dyspozycji w razie pytań oraz gotowy do przedstawienia koncepcji na spotkaniu lub do przekazania pełnej dokumentacji przedsięwzięcia, w tym regulaminów obu plebiscytów, w terminie dla Państwa dogodnym.
 
