@@ -73,6 +73,8 @@
 
    e) **opis filmu** - od 3 do 10 zdań o tym, czego film dotyczy i co Uczestnik chciał w nim powiedzieć - obowiązkowe. **Nie podlega punktacji** w żadnym kryterium;
 
+   e1) **dlaczego warte nagrody głównej** - do 5 zdań własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w archiwum i **nie podlega punktacji** w żadnym kryterium;
+
    f) **deklarację użycia narzędzi sztucznej inteligencji**, o której mowa w § 6 - obowiązkowe;
 
    g) **imię i nazwisko** oraz **adres e-mail** osoby zgłaszającej - obowiązkowe;
@@ -141,7 +143,7 @@
 
 2. Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
-3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia ani jego wcześniejszych filmów.
+3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia, jego wcześniejszych filmów ani uzasadnienia „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1).
 
 4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Teza, następnie w kryterium Forma, a w razie dalszej równości - głos przewodniczącego jury.
 
@@ -271,13 +273,13 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 11. Projektornia i archiwum
 
-1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, czas trwania, opis, deklarację z § 6 oraz odnośnik do filmu.
+1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6 oraz odnośnik do filmu.
 
 2. Wpis pojawia się po przejściu oceny formalnej, a nie w chwili złożenia zgłoszenia. Kolejność w Projektorni wyznacza wyłącznie data zgłoszenia; Organizator nie prowadzi rankingu i nie publikuje liczników odsłon ani popularności.
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
-4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. W archiwum zostaje tytuł, podpis, miniatura, opis, deklaracja, odnośnik i rok edycji. Punktacja w archiwum jest jawna, na zasadach ogłoszonych przed otwarciem naboru.
+4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. W archiwum zostaje tytuł, podpis, miniatura, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, odnośnik i rok edycji. Punktacja w archiwum jest jawna, na zasadach ogłoszonych przed otwarciem naboru.
 
 5. Organizator może zdjąć wpis z Projektorni albo z archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 

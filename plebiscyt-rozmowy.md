@@ -43,7 +43,9 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak możesz się zgłosić</span>
 
-**Tytuł i kilka zdań o tym, co odkryłeś.** Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Ani tytuł, ani opis nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Bez opisu zgłoszenie odpada na starcie.
+**Tytuł i kilka zdań o tym, co odkryłeś.** Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego **„dlaczego warte nagrody głównej"** - do 5 zdań o tym, dlaczego akurat ta rozmowa. Ani tytuł, ani opis, ani to uzasadnienie nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum. Bez nich zgłoszenie odpada na starcie.
+
+**Ilustracja rozmowy.** Do zgłoszenia dołączasz jeden pionowy obrazek w proporcjach 9:16 - JPG albo PNG, krótszy bok od 1080 do 2160 pikseli, do 5 MB. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Ilustracji nie oceniamy w żadnym kryterium.
 
 **Terminy.** Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Zgłoszenia przyjmujemy od 1 stycznia 2027 do 15 stycznia 2028 - te dodatkowe dwa tygodnie są dla rozmów z końca grudnia. Rozstrzygnięcie i premiera antologii w drugiej połowie kwietnia 2028.
 

@@ -60,6 +60,16 @@ Oznacz, gdy uczestnik wgrał do rozmowy plik, którego najwyraźniej nie jest au
 - **Nie oznaczaj:** wgrany własny tekst, własne zdjęcie, własne dane, zrzut ekranu z własnego programu.
 - **Nie oznaczaj:** wgrany dokument urzędowy albo publicznie dostępny akt prawny.
 
+**R4. Ilustracja rozmowy.**
+
+Oznacz, gdy na ilustracji dołączonej do zgłoszenia widzisz podobiznę rozpoznawalnej osoby trzeciej albo przejęty cudzy obraz, znak czy postać: kadr z filmu, okładkę wydawnictwa, fotografię prasową, logo, rozpoznawalnego bohatera.
+
+- **Oznacz:** rozpoznawalna postać z filmu albo gry jako główny motyw ilustracji.
+- **Oznacz:** cudza fotografia prasowa użyta jako tło.
+- **Nie oznaczaj:** samego użycia narzędzia sztucznej inteligencji do wykonania ilustracji - ilustracja może być wygenerowana i nie podlega ocenie. Konkretne zastrzeżenia oznaczasz niezależnie od techniki jej wykonania.
+- **Nie oznaczaj:** zdjęcia samego uczestnika.
+- **Nie oznaczaj:** nawiązania stylistycznego ani podobieństwa do znanego nurtu graficznego.
+
 ### Plebiscyt na plakat o sztucznej inteligencji
 
 **P1. Rozpoznawalna osoba na pracy.**

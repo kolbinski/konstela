@@ -63,6 +63,8 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Pozostałe materiały z etapów pracy** - szkic, podmalówkę, zdjęcia w trakcie - możesz dołączyć, ale nie musisz. Jeśli istnieją, pomagają.
 
+**Dlaczego warte nagrody głównej.** Do 5 zdań o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Galerii w czasie naboru i w archiwum po gali.
+
 Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.5 6h11M9.5 12h11M9.5 18h11"/><path d="m3.2 5.3 1.1 1.2 2.2-2.4M3.2 11.3l1.1 1.2 2.2-2.4M3.2 17.3l1.1 1.2 2.2-2.4"/></svg><span>Zasady: ręka, nie generator</span>

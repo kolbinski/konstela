@@ -30,7 +30,7 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 
 ## 4. Zgłoszenie rozmowy w plebiscycie na rozmowę
 
-**Jakie dane.** Imię i nazwisko, miejscowość, adres e-mail, numer telefonu komórkowego, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy oraz opisem odkrycia. **Miejscowość nie jest publikowana** - służy rozliczeniu nagrody, statystyce zasięgu naboru i korespondencji. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+**Jakie dane.** Imię i nazwisko, miejscowość, adres e-mail, numer telefonu komórkowego, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy, opisem odkrycia, uzasadnieniem „dlaczego warte nagrody głównej" oraz ilustracją rozmowy. **Miejscowość nie jest publikowana** - służy rozliczeniu nagrody, statystyce zasięgu naboru i korespondencji. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
 
 **Numer telefonu - po co i co się z nim dzieje.** Numer służy wyłącznie do jednorazowej weryfikacji zgłoszenia kodem przesłanym wiadomością SMS oraz do wyegzekwowania zasady jednego zgłoszenia na osobę. Bez tego mechanizmu nabór mógłby zostać zalany zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej, co uderzyłoby w rzetelność całej Nagrody.
 
@@ -53,11 +53,11 @@ Uczestnik, który nie może odebrać wiadomości SMS, ustala z Administratorem i
 
 ## 5. Zgłoszenie piosenki w plebiscycie na piosenkę
 
-**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy zgłoszeniu zespołowym wraz ze wskazaniem reprezentanta, tytuł utworu, tekst utworu, odnośnik do nagrania demonstracyjnego, okładka zgłoszenia oraz deklaracja sposobu powstania tekstu i użycia narzędzi sztucznej inteligencji. U finalistów dodatkowo dane niezbędne do organizacji nagrania studyjnego, a u laureatów - do wypłaty nagrody i jej rozliczenia podatkowego.
+**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy zgłoszeniu zespołowym wraz ze wskazaniem reprezentanta, tytuł utworu, tekst utworu, odnośnik do nagrania demonstracyjnego, okładka zgłoszenia, uzasadnienie „dlaczego warte nagrody głównej" oraz deklaracja sposobu powstania tekstu i użycia narzędzi sztucznej inteligencji. U finalistów dodatkowo dane niezbędne do organizacji nagrania studyjnego, a u laureatów - do wypłaty nagrody i jej rozliczenia podatkowego.
 
 **Czego Administrator nie przechowuje.** Nagrania. Utwór pozostaje na kanale Uczestnika i to on nim zarządza; Administrator przechowuje odnośnik, okładkę, dane zgłoszenia oraz metrykę nagrania - tytuł, czas trwania, datę publikacji i identyfikator nagrania w serwisie - która służy identyfikacji zgłoszonego materiału i wykryciu części zmian, nie jest zapisem jego treści i nie jest publikowana. Usunięcie nagrania przez Uczestnika jest skuteczne natychmiast i nie wymaga niczyjej zgody.
 
-**Co jest publikowane.** W Słuchalni, a następnie w archiwum: okładka, tytuł utworu, podpis Uczestnika, deklaracja użycia narzędzi sztucznej inteligencji i odnośnik do nagrania, a w archiwum dodatkowo rok edycji. Tekst utworu nie jest publikowany. Nagrania studyjne finalistów mogą ukazać się na płycie, jeżeli zostanie pozyskane wydawnictwo-partner i finalista zawrze z nim odrębną umowę.
+**Co jest publikowane.** W Słuchalni, a następnie w archiwum: okładka, tytuł utworu, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji i odnośnik do nagrania, a w archiwum dodatkowo rok edycji. Tekst utworu nie jest publikowany. Nagrania studyjne finalistów mogą ukazać się na płycie, jeżeli zostanie pozyskane wydawnictwo-partner i finalista zawrze z nim odrębną umowę.
 
 **W jakim celu i na jakiej podstawie.** Tak jak w rozdziale 4: przeprowadzenie plebiscytu i kontakt - art. 6 ust. 1 lit. b RODO; prezentacja zgłoszenia w Słuchalni i w archiwum - również art. 6 ust. 1 lit. b, na podstawie licencji udzielanej przy zgłoszeniu, ponieważ prezentacja jest warunkiem udziału i nie opiera się na odrębnej zgodzie; wypłata i rozliczenie nagrody - art. 6 ust. 1 lit. c; weryfikacja kodem SMS i zasada jednego zgłoszenia - art. 6 ust. 1 lit. f.
 
@@ -65,7 +65,7 @@ Uczestnik, który nie może odebrać wiadomości SMS, ustala z Administratorem i
 
 ## 6. Zgłoszenie plakatu w plebiscycie na plakat
 
-**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy pracy wykonanej wspólnie wraz ze wskazaniem reprezentanta, tytuł pracy, technika, wymiary i rok powstania, reprodukcja pracy, **nagranie z powstawania pracy** oraz oświadczenia regulaminowe. U finalistów dodatkowo adres do przesłania i zwrotu oryginału, a u laureatów - dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy pracy wykonanej wspólnie wraz ze wskazaniem reprezentanta, tytuł pracy, technika, wymiary i rok powstania, reprodukcja pracy, uzasadnienie „dlaczego warte nagrody głównej", **nagranie z powstawania pracy** oraz oświadczenia regulaminowe. U finalistów dodatkowo adres do przesłania i zwrotu oryginału, a u laureatów - dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
 
 ### Nagranie z powstawania pracy
 
@@ -89,11 +89,11 @@ To jest w całej Nagrodzie dane najbardziej wrażliwe dla Uczestnika i dlatego o
 
 Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane publicznie na wystawie przy gali. Jeżeli Administrator pozyska galerię sztuki, finaliści otrzymują odrębną propozycję pokazania prac na wystawie w galerii; dane adresowe trafiają do galerii wyłącznie wobec tych, którzy propozycję przyjmą. Wymaga to przekazania danych adresowych firmie przewozowej, ubezpieczycielowi oraz galerii, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji. Podstawą jest wykonanie umowy (art. 6 ust. 1 lit. b RODO) oraz prawnie uzasadniony interes w zabezpieczeniu powierzonych prac (art. 6 ust. 1 lit. f RODO).
 
-**Co jest publikowane.** Reprodukcja pracy, tytuł, podpis, technika i wymiary oryginału - w Galerii, a następnie w archiwum, gdzie dochodzi do nich rok edycji. Przy pracy zwycięskiej, za odrębną zgodą autora, reprodukcja na okładce antologii i w materiałach informacyjnych edycji.
+**Co jest publikowane.** Reprodukcja pracy, tytuł, podpis, uzasadnienie „dlaczego warte nagrody głównej", technika i wymiary oryginału - w Galerii, a następnie w archiwum, gdzie dochodzi do nich rok edycji. Przy pracy zwycięskiej, za odrębną zgodą autora, reprodukcja na okładce antologii i w materiałach informacyjnych edycji.
 
 ## 7. Zgłoszenie filmu w plebiscycie na film
 
-**Jakie dane.** Imię i nazwisko albo pseudonim lub nazwa składu twórczego, adres e-mail, numer telefonu komórkowego, tytuł filmu, czas trwania, data ukończenia, odnośnik do filmu, miniatura, opis filmu, deklaracja użycia narzędzi sztucznej inteligencji oraz oświadczenia regulaminowe. U finalistów dodatkowo fragment wskazany na emisję galową, a u laureatów - dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+**Jakie dane.** Imię i nazwisko albo pseudonim lub nazwa składu twórczego, adres e-mail, numer telefonu komórkowego, tytuł filmu, czas trwania, data ukończenia, odnośnik do filmu, miniatura, opis filmu, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji oraz oświadczenia regulaminowe. U finalistów dodatkowo fragment wskazany na emisję galową, a u laureatów - dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
 
 **Czego Administrator nie przechowuje.** Filmu. Film pozostaje w serwisie, w którym opublikował go Uczestnik, a Projektornia i archiwum są katalogiem: tytuł, podpis, miniatura, czas trwania, opis, deklaracja i odnośnik. Usunięcie filmu przez Uczestnika jest skuteczne natychmiast; wpis pozostaje wtedy bez działającego odnośnika, co Administrator oznacza.
 

@@ -52,6 +52,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    c) tytuł pracy oraz imię i nazwisko albo pseudonim, pod którym zgłoszenie ma być prezentowane;
 
+   c1) **dlaczego warte nagrody głównej** - do 5 zdań własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Galerii i w archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
+
    d) technikę, wymiary oryginału i rok powstania;
 
    e) skład osobowy w przypadku pracy wykonanej wspólnie, wraz ze wskazaniem reprezentanta;
@@ -158,7 +160,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. Karta oceny jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
-3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia ani wcześniejszych wystaw.
+3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia, wcześniejszych wystaw ani uzasadnienia „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1).
 
 4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Pomysł plastyczny, następnie w kryterium Ujęcie tematu, a w razie dalszej równości - głos przewodniczącego jury.
 
@@ -240,7 +242,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 11. Galeria i archiwum
 
-1. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Galerii** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w konkursie.
+1. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Galerii** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w konkursie.
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 

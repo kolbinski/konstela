@@ -76,6 +76,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    c) **okładkę** - jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
 
+   c1) **dlaczego warte nagrody głównej** - do 5 zdań własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
+
    d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 
    e) oświadczenie o prawach do utworu, do nagrania i do okładki, zgodnie z § 15 ust. 5;
@@ -90,9 +92,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 6a. Przy przyjęciu zgłoszenia Organizator utrwala **metrykę nagrania**: tytuł, czas trwania, datę publikacji i identyfikator nagrania w serwisie. Metryka nie jest kopią nagrania i nie jest publikowana. Metryka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; nie jest zapisem jego treści. Rozbieżność między metryką a nagraniem dostępnym pod odnośnikiem w czasie oceny jest podstawą wszczęcia wyjaśnień w trybie z § 16, a nie samodzielną podstawą wyłączenia. **Uczestnik może poprawić nagranie do dnia zamknięcia naboru**, zgłaszając to Organizatorowi, który aktualizuje wówczas metrykę; oceniający pracują na wersji ostatecznej. Zmiana nagrania po zamknięciu naboru jest niedopuszczalna.
 
-7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz odnośnik do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz odnośnik do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
 
-8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz odnośnik do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że odnośnik przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
+8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz odnośnik do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że odnośnik przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
@@ -180,7 +182,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. W kryterium Wykonanie ocenia się wokal i interpretację w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium.**
 
-4. Oceniający nie bierze pod uwagę okładki zgłoszenia, liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
+4. Oceniający nie bierze pod uwagę okładki zgłoszenia ani uzasadnienia „dlaczego warte nagrody głównej", liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
 
 ## § 10. Jury i tryb oceny
 
