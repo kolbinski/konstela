@@ -317,17 +317,19 @@
 .menu a:focus-visible {
   border-bottom-color: var(--brass);
 }
-/* Pozycje podrzędne: nagłówki h3 pod swoim h2. */
+/* Pozycje podrzędne: nagłówki h3 pod swoim h2. Odróżnia je wcięcie i mniejszy
+   stopień pisma, a nie inny kolor - kolor tekstu dokumentu wyglądał w liście
+   odnośników jak pozycja nieaktywna albo pomyłka składu. */
 .menu a.pod {
   padding-left: 1.5rem;
   font-size: 0.875rem;
-  color: var(--text, var(--fg, #241f18));
-  opacity: 0.85;
+  color: var(--brass);
+  opacity: 0.8;
 }
 .menu a.pod:hover,
 .menu a.pod:focus-visible {
   opacity: 1;
-  border-bottom-color: var(--text, var(--fg, #241f18));
+  border-bottom-color: var(--brass);
 }
 
 /* Kotwice muszą wypadać pod paskiem, a nie za nim. */
