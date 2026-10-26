@@ -89,9 +89,10 @@ const OPISY = {
     'Pełne zasady konkursu na plakat o sztucznej inteligencji: kto może zgłosić pracę, na czym polega wymóg ręcznego wykonania, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do plakatu.',
 };
 
-/* Obrazek pokazywany w podglądzie linku. */
+/* Obrazek pokazywany w podglądzie linku. Mapa wyjątków jest dziś pusta:
+   wszystkie podstrony dzielą jeden obrazek serwisu. */
 const OBRAZEK_DOMYSLNY = '/assets/og.png';
-const OBRAZKI = { 'plebiscyt-piosenki': '/assets/piosenka.jpg' };
+const OBRAZKI = {};
 
 /* Znacznik zasobów ma rozróżniać kolejne budowania tego samego dnia. Sama
    data tego nie robi: przy kilku poprawkach arkusza w ciągu jednego dnia
