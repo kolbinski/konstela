@@ -30,6 +30,8 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="10" cy="8" r="3.5"/><path d="M3.5 20c0-3.6 2.9-6 6.5-6 .9 0 1.8.2 2.6.5"/><path d="m15 17.5 2 2 4-4.5"/></svg><span>Kto i co może zgłosić</span>
 
+**Pełne zasady są w regulaminie:** [regulamin plebiscytu na plakat](/dokument/regulamin-plakatu). Publikujemy go przed ogłoszeniem, tak samo jak kartę oceny, zamiast obiecywać zasady na później. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy wprost, które to miejsca. Regulamin wchodzi w życie w dniu otwarcia naboru. Poniżej to, co najważniejsze.
+
 **Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna, rozbitą na osobne zakresy - licencję, odbiór nagrody, udział w wystawie i w gali. Brak zgody na jedną z tych rzeczy nie wyklucza z konkursu, a jedynie z tej jednej rzeczy.
 
 **Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną praktykę - ilustratorów, malarzy, studentów szkół artystycznych, projektantów, którzy rysują po swojemu. Nie pytamy o wystawy, dyplomy ani o to, czy masz galerię.
