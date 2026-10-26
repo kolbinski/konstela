@@ -976,7 +976,7 @@ Z menu wypadły trzy odnośniki do podstron plebiscytów, których nie da się z
 
 **Powstała strona [Regulaminy](/dokument/regulaminy)** z odnośnikami do czterech regulaminów, z jednozdaniowym opisem każdego, z listą sześciu zasad wspólnych dla wszystkich plebiscytów i z odnośnikami do procedury moderacji i polityki prywatności. W stopce nad polityką prywatności.
 
-**Przycisk menu w pasku dokumentów pojawia się od dwóch pozycji.** Dokument z jednym nagłówkiem albo bez nagłówków dostaje pasek bez ikony, bo menu z jedną pozycją prowadziłoby do miejsca, w którym czytający już stoi.
+**Przycisk menu w pasku dokumentów pojawia się od jednej pozycji** (decyzja z 26.10.2026, po wypróbowaniu progu dwóch). Znika dopiero wtedy, gdy nie ma z czego zbudować menu w ogóle - na stronie 404 albo w dokumencie bez nagłówków. Próg dwóch pozycji usunięty: dokument z jednym paragrafem to wciąż dokument, a obecność przycisku ma zależeć od tego, czy strona ma spis treści, a nie od jego długości.
 
 **Nazwy sekcji na stronie głównej**: Czym jest Nagroda Konstela, Kalendarz edycji 2027, Hymn nagrody „Zapytaj inaczej". Menu podnosi je samo, bo buduje się z nagłówków.
 

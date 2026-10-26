@@ -87,9 +87,10 @@
       }
     }
 
-    /* Jedna pozycja to nie spis treści - przycisk prowadziłby do miejsca,
-       w którym czytający już stoi. */
-    if (dodane < 2) return false;
+    /* Wystarczy jedna pozycja. Przycisk znika dopiero wtedy, gdy nie ma z
+       czego zbudować menu w ogóle - na stronie 404 albo w dokumencie bez
+       nagłówków. */
+    if (!dodane) return false;
     menu.textContent = '';
     menu.appendChild(fragment);
     przycisk.hidden = false;
