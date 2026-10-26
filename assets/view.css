@@ -252,17 +252,20 @@
       .masthead {
         max-width: var(--max-w);
         margin: 0 auto;
-        padding: 1.5rem 0 1.25rem;
+        /* Dopełnienie równe z obu stron. Wyrównanie do środka, a nie do linii
+           pisma: przy wyrównaniu do linii pisma strzałka i napis mają różne
+           wysokości wiersza, więc odstęp nad i pod nimi wychodził inny. */
+        padding-block: 1.35rem;
         border-bottom: 1px solid var(--line);
         display: flex;
-        align-items: baseline;
+        align-items: center;
         justify-content: space-between;
         gap: 1rem;
         flex-wrap: wrap;
       }
       .masthead .left {
         display: flex;
-        align-items: baseline;
+        align-items: center;
         gap: 0.6rem;
         min-width: 0;
       }
@@ -273,7 +276,6 @@
         color: var(--muted);
         text-decoration: none;
         flex: none;
-        align-self: center;
       }
       .masthead a.back:hover {
         color: var(--brass);
@@ -281,6 +283,10 @@
       .masthead a.brand {
         font-family: var(--display);
         font-size: 1.35rem;
+        /* Ciasna wysokość wiersza, żeby o odstępie nad i pod napisem
+           decydowało wyłącznie dopełnienie paska, a nie poduszka wiersza
+           odziedziczona po stylu nagłówków. */
+        line-height: 1.15;
         font-weight: 600;
         letter-spacing: 0.01em;
         color: var(--text);
