@@ -20,6 +20,49 @@ const { execFileSync } = require('child_process');
 const { marked } = require('marked');
 
 const KORZEN = path.resolve(__dirname, '..');
+
+/* Biblioteka ikon: jeden plik na rysunek w assets/icons. W treści stron stoi
+   znacznik <!--ikona:nazwa-->, a budowanie wstawia w jego miejsce rysunek.
+   Dlaczego nie <img src="...">: ikony są rysowane kreską w kolorze otoczenia
+   (stroke dziedziczony ze stylów), więc muszą być częścią dokumentu - obrazek
+   w osobnym pliku nie przyjąłby koloru paska ani trybu czytelności. Zewnętrzny
+   <use href="plik.svg#nazwa"> to by załatwiał, ale ma historię kłopotów w
+   Safari, więc rysunek wstawiany jest przy budowaniu. */
+const KATALOG_IKON = path.join(KORZEN, 'assets', 'icons');
+const IKONY = {};
+if (fs.existsSync(KATALOG_IKON)) {
+  fs.readdirSync(KATALOG_IKON)
+    .filter((n) => n.endsWith('.svg'))
+    .forEach((n) => {
+      IKONY[n.slice(0, -4)] = fs.readFileSync(path.join(KATALOG_IKON, n), 'utf8').trim();
+    });
+}
+
+/* W markdownie znacznik stoi sam; w stronach pisanych ręcznie jest parą
+   znaczników obejmującą wstawiony rysunek, żeby plik źródłowy i plik
+   serwowany pozostały tym samym plikiem, a kolejne budowania odtwarzały
+   rysunek z biblioteki. Nieznana nazwa zatrzymuje budowanie - lepszy błąd
+   przy budowaniu niż dziura w nagłówku na stronie. W tekstach o samej
+   bibliotece znacznik zapisuje się ze spacjami, żeby nie został podmieniony. */
+function wstawIkony(tresc, zPara) {
+  const brakujace = [];
+  const wynik = tresc
+    .replace(/<!--ikona:([a-z0-9-]+)-->(?:[\s\S]*?<!--\/ikona-->)?/g, (_, nazwa) => {
+      if (!IKONY[nazwa]) {
+        brakujace.push(nazwa);
+        return '';
+      }
+      return zPara
+        ? `<!--ikona:${nazwa}-->${IKONY[nazwa]}<!--/ikona-->`
+        : IKONY[nazwa];
+    });
+  if (brakujace.length) {
+    throw new Error(
+      'Brak ikon w assets/icons: ' + Array.from(new Set(brakujace)).join(', ')
+    );
+  }
+  return wynik;
+}
 const DOMENA = 'https://konstela.org';
 
 /* Dokumenty widoczne dla wyszukiwarek. Wszystkie pozostałe dostają
@@ -318,7 +361,7 @@ function main() {
       adresKanoniczny,
       obrazek: OBRAZKI[nazwa] || OBRAZEK_DOMYSLNY,
       indeksowac,
-      tresc: otworzObceWNowejKarcie(marked.parse(md)),
+      tresc: otworzObceWNowejKarcie(marked.parse(wstawIkony(md, false))),
     });
 
     zapisz(path.join(KORZEN, 'dokument', nazwa, 'index.html'), html);
@@ -356,7 +399,7 @@ function main() {
     const sciezka = path.join(KORZEN, nazwa);
     if (!fs.existsSync(sciezka)) return;
     const przed = fs.readFileSync(sciezka, 'utf8');
-    const po = przed.replace(
+    const po = wstawIkony(przed, true).replace(
       /(\/assets\/[A-Za-z0-9._-]+)\?v=[0-9]+/g,
       `$1?v=${ZNACZNIK_ZASOBOW}`
     );

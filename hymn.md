@@ -2,7 +2,7 @@
 
 Hymn jest osobny od [plebiscytu na piosenkę](/plebiscyt-piosenki) i nie bierze w nim udziału. Ta strona zbiera w jednym miejscu tekst, wersje nagrań i zasadę, której hymn podlega tak samo jak zgłoszenia.
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 18V6l10-2v12"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="16.5" cy="16" r="2.5"/></svg><span>Skąd się bierze hymn</span>
+## <!--ikona:nuta--><span>Skąd się bierze hymn</span>
 
 Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują jurorzy i oni go nagrywają** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi. Na gali hymn wykonywany jest na żywo.
 
@@ -31,7 +31,7 @@ Dojdzie do nich **trzecia wersja: te same słowa z nową muzyką**, skomponowan�
 
 I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby postawić obok siebie trzy opracowania tych samych słów i posłuchać, czym się różnią - bo różnić się będą nie tylko autorstwem melodii, ale też aranżacją, wykonaniem i nakładem pracy. Każdy oceni sam, co z tego wynika.
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5h16M4 10h10M4 15h16M4 20h8"/></svg><span>Tekst hymnu</span>
+## <!--ikona:tekst--><span>Tekst hymnu</span>
 
 <span id="tekst-zapytaj-inaczej"></span>
 

@@ -4,7 +4,7 @@ Nagrodę Konstela przyznajemy w czterech plebiscytach i każdy ma własny regula
 
 Wszystkie cztery dokumenty czekają jeszcze na przegląd prawny, więc część zapisów może się zmienić. **Na końcu każdego z nich wypisaliśmy wprost, które to miejsca** - to nie jest lista ukryta w aneksie, a część dokumentu.
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6.5 3.5h8l4 4v13h-12z"/><path d="M14.5 3.5v4h4"/><path d="M9 12h6M9 15.5h6"/></svg><span>Cztery regulaminy</span>
+## <!--ikona:dokument--><span>Cztery regulaminy</span>
 
 **[Regulamin plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy)**
 Nagroda główna i dziesiątka antologii. Zgłoszeniem jest odnośnik do rozmowy, oceniane są pytania, a nie odpowiedzi. Zawiera kartę oceny jako załącznik oraz zasady czytelni i archiwum.
@@ -18,7 +18,7 @@ Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać 
 **[Regulamin plebiscytu na plakat o sztucznej inteligencji](/dokument/regulamin-plakatu)**
 Praca wykonana ręcznie, bez generatora obrazu. Zawiera wymóg nagrania z powstawania pracy, zasady wystawy przy gali i licytacji oryginałów.
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v16"/><path d="M5 8h14"/><path d="M5 8 2.5 14h5zM19 8l-2.5 6h5z"/></svg><span>Co łączy wszystkie cztery</span>
+## <!--ikona:waga--><span>Co łączy wszystkie cztery</span>
 
 - **Karta oceny jest jawna przed naborem** i nie zmienia się po jego otwarciu.
 - **Pula nagród może wyłącznie rosnąć.** Obniżenie jej po otwarciu naboru jest wyłączone, a ogłaszamy ją dopiero wtedy, gdy środki są na rachunku.
@@ -27,7 +27,7 @@ Praca wykonana ręcznie, bez generatora obrazu. Zawiera wymóg nagrania z powsta
 - **Wiek: od 16 lat**, a osoba niepełnoletnia dołącza zgodę opiekuna rozbitą na osobne zakresy. Zgoda na zakresy będące warunkiem udziału - prezentację zgłoszenia i to, co dzieje się z nim na gali - jest konieczna do przyjęcia zgłoszenia; brak zgody na pozostałe wyłącza wyłącznie z nich.
 - **Nagroda Publiczności w każdej kategorii**, jeden głos na numer telefonu, liczniki ukryte do gali.
 
-## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.5 5 6v6c0 4 3 6.8 7 8.5 4-1.7 7-4.5 7-8.5V6z"/><path d="m9 12 2 2 4-4.5"/></svg><span>Dokumenty towarzyszące</span>
+## <!--ikona:tarcza-pelna--><span>Dokumenty towarzyszące</span>
 
 **[Procedura moderacji zgłoszeń](/dokument/procedura-moderacji)**
 Kiedy oceniający oznacza w zgłoszeniu zastrzeżenie prawne, czego nie oznacza nigdy i co dzieje się potem. Jawna z tego samego powodu, z którego jawne są karty oceny.

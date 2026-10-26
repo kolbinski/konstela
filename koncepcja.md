@@ -1211,3 +1211,17 @@ Nierozstrzygnięte po tej serii: brak trybu wycofania zgłoszenia w regulaminach
 **Znacznik zasobów w stronach pisanych ręcznie podbija się sam (26.10.2026).** Strona główna, 404 i dwie przeglądarki mają własne odwołania do plików z katalogu assets, a znacznik w adresie trzeba było podbijać ręcznie. To się zemściło dwa razy tego samego dnia: poprawki w pasek.css i pasek.js nie docierały do przeglądarki, bo adres pliku się nie zmieniał - grubsze ikony i wcięte odnośniki do plebiscytów po prostu nie pojawiały się na stronie głównej, choć w repozytorium były. Budowanie podbija teraz ten znacznik w czterech plikach razem z dokumentami i mówi w podsumowaniu, ile ich poprawiło.
 
 **Nazewnictwo: harmonogram, nie kalendarz (26.10.2026).** We wszystkich tekstach przedsięwzięcia własny plan działań nazywa się **harmonogramem**. Zmienione: sekcja na stronie głównej razem z jej identyfikatorem (`#harmonogram`), nagłówek „Harmonogram edycji 2027", regulamin rozmowy, pismo do MKiDN, nota koncepcyjna i ustalenia z agencją. Bez zmian zostały zwroty, w których słowo znaczy co innego: „pełny rok kalendarzowy", „trzy dni kalendarzowe" oraz „wolny kalendarz" w notatce o wykonawcach, gdzie chodzi o dostępność terminów konkretnej osoby, a nie o nasz plan.
+
+## Biblioteka ikon (26.10.2026)
+
+Rysunki wektorowe przeniesione z treści stron do `assets/icons/`, jeden plik na ikonę, 33 pliki. W treści stoi znacznik `<!-- ikona:nazwa -->`, a budowanie wstawia w jego miejsce rysunek. Przed zmianą tych samych 35 rysunków było w serwisie 81 razy, a 20 z nich powtarzało się w kilku plikach - rekordzista w czterech podstronach naraz, więc poprawka w jednej ikonie wymagała czterech identycznych zmian.
+
+**Dlaczego nie `<img src="ikona.svg">`.** Ikony są rysowane kreską w kolorze otoczenia: czarne na złotym pasku, białe w pasku trybu czytelności, złote w treści. Obrazek w osobnym pliku jest zamkniętym dokumentem i koloru z zewnątrz nie przyjmie, więc w trybie czarno-białym zostałby w starym kolorze. Zewnętrzny `<use href="plik.svg#nazwa">` to załatwia, ale ma historię kłopotów w Safari - stąd wstawianie przy budowaniu, dzięki czemu przeglądarka dostaje dokładnie to co dotąd, bez dodatkowych żądań.
+
+**Dwie formy znacznika.** W markdownie znacznik stoi sam, bo plik źródłowy nie jest serwowany. W stronach pisanych ręcznie - `index.html`, `404.html` i dwóch przeglądarkach - jest parą `<!-- ikona:nazwa -->rysunek<!-- /ikona -->`, bo plik źródłowy i plik serwowany to ten sam plik; budowanie odtwarza zawartość między znacznikami, więc poprawka w bibliotece dociera także tam.
+
+Nieznana nazwa ikony **zatrzymuje budowanie** z komunikatem, które nazwy nie istnieją. Lepszy błąd przy budowaniu niż dziura w nagłówku na stronie.
+
+**Czego nie objęto.** Dwóch rysunków, które ikonami nie są: kreski rozdzielające w sekcji „Czym jest Nagroda" i konstelacji na stronie 404 - to grafiki jednorazowe, nie elementy zestawu. Poza biblioteką zostały też ikony w stopce, bo stopka jest budowana w `assets/stopka.js` i ma własny cykl życia.
+
+**Do rozstrzygnięcia:** w zestawie są trzy pary rysunków prawie identycznych - dwie koperty (`koperta`, `koperta-wask`), dwie tarcze (`tarcza`, `tarcza-pelna`) oraz dwa kadry z ramką (`sluchalnia`, `galeria`). Powstały niezależnie w różnych tygodniach. Ujednolicenie do jednego rysunku w każdej parze jest teraz zmianą w jednym pliku, ale zmienia wygląd konkretnych podstron, więc zostawiam to do decyzji.
