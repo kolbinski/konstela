@@ -2,7 +2,7 @@
 
 _Stan na 19 października 2026. Dokument opisuje stan aktualny; rozstrzygnięte kwestie są wpisane w treść, nie w osobną listę._
 
-Dokumenty powiązane: [Regulamin](/dokument/regulamin) (projekt roboczy, do konsultacji prawnej), strona pierwszej edycji (opublikowana).
+Dokumenty powiązane: [Regulamin](/dokument/regulamin-rozmowy) (projekt roboczy, do konsultacji prawnej), strona pierwszej edycji (opublikowana).
 
 ---
 
@@ -86,7 +86,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 
 **Forma prawna: fundacja (decyzja z 20.10.2026, zmiana wcześniejszego ustalenia).** Organizatorem jest fundacja powołana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Wcześniej zapisana tu była JDG z uzasadnieniem, że fundacja ma sens dopiero przy wielu darczyńcach - to ustalenie upadło, gdy pula urosła do 390 tys. zł: przy przyrzeczeniu publicznym tej wielkości JDG oznacza odpowiedzialność majątkiem osobistym. Pełne uzasadnienie, kolejność kroków i terminy graniczne: [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie).
 
-**Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](/dokument/regulamin) - w sprawach konkursu, [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej) - w kwotach i nakładzie pracy, [oferta mecenatu](/dokument/oferta-mecenat-antologii) - w zakresie finansowania antologii i archiwum, [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
+**Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](/dokument/regulamin-rozmowy) - w sprawach konkursu, [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej) - w kwotach i nakładzie pracy, [oferta mecenatu](/dokument/oferta-mecenat-antologii) - w zakresie finansowania antologii i archiwum, [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
 
 **Terminy (zmienione 19.10.2026):** okno rozmów to **pełny rok kalendarzowy 2027**, zgłoszenia do 15 stycznia 2028, runda pierwsza prowadzona na bieżąco przez cały rok, Kapituła w lutym 2028, rozstrzygnięcie i antologia w drugiej połowie marca 2028. Wzór: Oscary, gdzie okres kwalifikacyjny to rok kalendarzowy, a członkowie Akademii oglądają filmy na bieżąco, więc po terminie zostaje samo głosowanie. Poprzedni kalendarz (okno do września, gala w listopadzie 2027) nie spinał się z procedurami: od zamknięcia naboru do ogłoszenia potrzeba 11-12 tygodni, a mieliśmy 8. Ocena bezwzględna według pasm z Karty oceny pozwala czytać przez cały rok; ryzykiem jest dryf standardów, więc kalibracja powtarzana jest w połowie roku, a czytelnik może zmienić swoją wcześniejszą ocenę do zamknięcia naboru. Co było wcześniej, a przestało obowiązywać: rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
 
@@ -562,7 +562,7 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 
 - [ ] **Przywrócić na stronie informację o statusie naboru.** Notka "Trwają przygotowania, nabór jeszcze nie został otwarty" została z nagłówka usunięta 20.10.2026, bo strony i tak nikt nie zna przed pozyskaniem sponsorów. Informacja została wyłącznie na końcu sekcji "Jak i kiedy zgłosić". **Przed pierwszym wysłaniem komukolwiek linku** trzeba ją przywrócić wyżej albo zastąpić komunikatem o otwartym naborze - zależnie od momentu.
 - [x] **Procedura przy dyskwalifikacji za inscenizację** - wpisana do § 8 ust. 18 (19.10.2026): pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, a w razie wątpliwości zgłoszenie zostaje w ocenie.
-- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](/dokument/regulamin#karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
+- [x] **Opisy pasm punktowych** - gotowe w [karcie oceny](/dokument/regulamin-rozmowy#karta-oceny) (19.10.2026), załącznik do regulaminu, publikowany.
 - [ ] **Warstwa dydaktyczna antologii**: komentarz wprowadzający przed rozmową, komentarze na marginesie w konkretnych momentach, komentarz końcowy. Pełny dialog bez montażu zostaje.
 - [ ] **Skrypt archiwizujący zgłoszenia** (Playwright: PDF, pełny HTML, zrzut, znacznik czasu, suma kontrolna), z zapisem do prywatnego magazynu, **nie** do publicznego repozytorium strony.
 - [x] **Styk zgody z licencją** - rozstrzygnięty w § 11 ust. 5-8 i w polityce prywatności (19.10.2026): do ogłoszenia wyników usunięcie zgłoszenia, po publikacji anonimizacja.
@@ -752,7 +752,7 @@ Karta oceny przestała być osobnym dokumentem. Jest teraz **Załącznikiem nr 1
 
 Powód: nie było powodu, żeby trzymać je osobno - karta zawsze była formalnie załącznikiem do regulaminu, a rozdzielenie kosztowało jeden link w stopce i groziło rozjeżdżaniem się obu dokumentów.
 
-Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026), a plik `karta-oceny.md` skasowany 26.10.2026 - trzymanie zaślepki obok załącznika było utrzymywaniem reliktu. Sprostowanie do wcześniejszego zapisu: adres `/dokument/karta-oceny` **nie poszedł** w korespondencji do kancelarii, wbrew temu, co tu wcześniej napisałem. Wisiał natomiast w stopce strony do 25.10.2026 wieczora, więc mógł zostać zaindeksowany i zapisany w zakładkach - dlatego zastępuje go reguła przekierowania w Cloudflare na `/dokument/regulamin#karta-oceny`, zgodnie z zasadą, że skrócone adresy robimy po stronie Cloudflare, a nie jako pliki.
+Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026), a plik `karta-oceny.md` skasowany 26.10.2026 - trzymanie zaślepki obok załącznika było utrzymywaniem reliktu. Sprostowanie do wcześniejszego zapisu: adres `/dokument/karta-oceny` **nie poszedł** w korespondencji do kancelarii, wbrew temu, co tu wcześniej napisałem. Wisiał natomiast w stopce strony do 25.10.2026 wieczora, więc mógł zostać zaindeksowany i zapisany w zakładkach - dlatego zastępuje go reguła przekierowania w Cloudflare na `/dokument/regulamin-rozmowy#karta-oceny`, zgodnie z zasadą, że skrócone adresy robimy po stronie Cloudflare, a nie jako pliki.
 
 Ze stopki zniknął link do karty oceny; zostało pięć pozycji zamiast sześciu.
 

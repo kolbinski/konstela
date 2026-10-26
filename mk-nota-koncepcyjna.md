@@ -348,7 +348,7 @@ olbinski@gmail.com
 
 Strona Nagrody (wersja robocza - finalną wykona agencja kreatywna): https://konstela.org
 
-Regulamin Nagrody wraz z kartą oceny: https://konstela.org/dokument/regulamin
+Regulamin Nagrody wraz z kartą oceny: https://konstela.org/dokument/regulamin-rozmowy
 
 Regulamin plebiscytu na piosenkę: https://konstela.org/dokument/regulamin-plebiscytu
 

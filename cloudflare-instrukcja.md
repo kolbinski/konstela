@@ -203,3 +203,36 @@ Dziś są dwie takie strony: **`/view.html`** (adresy `/dokument/<nazwa>`) oraz 
 **Konsekwencja porządkowa, dla której to zrobiono:** zmiana w przeglądarce idzie w jedno miejsce i obowiązuje wszędzie. Kopiowanie `view.html` do kolejnych katalogów dawałoby ten sam efekt tylko do pierwszej poprawki, po której kopie zaczynają się rozjeżdżać.
 
 **Dodanie kolejnego adresu dedykowanego** wymaga trzech rzeczy: wpisu w mapie `DEDYKOWANE` w `/assets/view.js`, reguły w Cloudflare dla postaci bez ukośnika oraz skorupki `index.html` w katalogu o tej nazwie dla postaci z ukośnikiem. Skorupkę najprościej skopiować z `plebiscyt-piosenki/index.html` - nie zawiera niczego, co trzeba by w niej zmieniać.
+
+## Zmiana sluga regulaminu rozmów (26.10.2026)
+
+Plik `regulamin.md` nosi teraz nazwę `regulamin-rozmowy.md`, więc strona powstaje pod adresem `konstela.org/dokument/regulamin-rozmowy`. Powód: nazwa `regulamin` pochodziła z czasów, gdy konkurs był jeden, a przy czterech plebiscytach nie mówiła, czego dotyczy.
+
+**Stary adres poszedł już na zewnątrz** - jest w pismach do Ministerstwa Cyfryzacji i Ministerstwa Edukacji, w ofertach dla wydawnictw i w materiale dla kancelarii. Dlatego potrzebna jest reguła przekierowania, a nie tylko nowy plik.
+
+### Reguła do utworzenia
+
+**Rules → Redirect Rules → Create rule**
+
+- Nazwa: `regulamin na regulamin-rozmowy`
+- When incoming requests match: **Custom filter expression**, pole Expression:
+  ```
+  (http.request.uri.path eq "/dokument/regulamin") or (http.request.uri.path eq "/dokument/regulamin/")
+  ```
+- Then: **Static redirect**
+- Type: **Dynamic** nie jest potrzebny - wybierz **Static**
+- URL: `https://konstela.org/dokument/regulamin-rozmowy`
+- Status code: **301**
+- Preserve query string: **włączone**
+
+Dlaczego `eq`, a nie `starts_with`: `starts_with("/dokument/regulamin")` złapałby również `/dokument/regulamin-plakatu` i `/dokument/regulamin-plebiscytu` i przekierował je w złe miejsce. Dwa warunki z `eq` obsługują wersję z ukośnikiem na końcu i bez.
+
+Dlaczego 301, a nie strona pośrednia z przekierowaniem w JavaScripcie: **301 zachowuje oryginalnego odsyłającego**, a strona pośrednia podmienia go na nasz własny adres - wtedy w statystykach każdy, kto przyszedł z pisma albo z cudzej strony, wyglądałby, jakby przyszedł od nas. Ta sama zasada obowiązuje przy wszystkich naszych przekierowaniach.
+
+### Druga reguła, nadal niezrobiona
+
+`/dokument/karta-oceny` ma przekierowywać na `https://konstela.org/dokument/regulamin-rozmowy#karta-oceny`, bo karta oceny została scalona z regulaminem jako załącznik nr 1. Wyrażenie:
+```
+(http.request.uri.path eq "/dokument/karta-oceny") or (http.request.uri.path eq "/dokument/karta-oceny/")
+```
+Reszta ustawień jak wyżej.

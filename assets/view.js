@@ -4,7 +4,7 @@ marked.setOptions({ gfm: true, breaks: true });
       const el = document.getElementById('content');
 
       // Dwie równoważne postacie adresu:
-      //   /dokument/regulamin        - przepisywana regułą w Cloudflare na /view.html
+      //   /dokument/regulamin-rozmowy        - przepisywana regułą w Cloudflare na /view.html
       //   /view.html?file=regulamin  - postać pierwotna, linki już poszły w świat
       // Nazwę podaje się bez rozszerzenia; końcówkę .md dopisuje skrypt.
       // Adresy dedykowane: własny adres bez członu /dokument/, przepisywany
@@ -47,7 +47,7 @@ marked.setOptions({ gfm: true, breaks: true });
       }
 
       if (!raw) {
-        state('Nie wskazano dokumentu', 'Poprawny adres: /dokument/regulamin');
+        state('Nie wskazano dokumentu', 'Poprawny adres: /dokument/regulamin-rozmowy');
       } else if (/\.md$/i.test(raw)) {
         state(
           'Nieprawidłowy adres dokumentu',

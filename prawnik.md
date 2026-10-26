@@ -2,7 +2,7 @@
 
 Krzysztof Olbiński · olbinski@gmail.com · +48 503 520 004
 
-Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje siedem obszarów do rozstrzygnięcia oraz listę pojedynczych miejsc wymagających sprawdzenia (część Ca), i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst regulaminu jest dostępny pod adresem konstela.org/dokument/regulamin.
+Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje siedem obszarów do rozstrzygnięcia oraz listę pojedynczych miejsc wymagających sprawdzenia (część Ca), i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst regulaminu jest dostępny pod adresem konstela.org/dokument/regulamin-rozmowy.
 
 ---
 
@@ -282,7 +282,7 @@ Trzy pytania z tamtej listy wiążą się z tą bezpośrednio i nie powinny zost
 
 ## D. Załączniki
 
-- [Regulamin](/dokument/regulamin) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
+- [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
 - [Prawa do wypowiedzi modelu](/dokument/prawa-do-wypowiedzi-modelu) - przegląd doktryny i precedensów do obszaru 3
 - [Polityka prywatności](/dokument/polityka-prywatnosci) - polityka prywatności do przepisania
 - [Przebieg edycji](/dokument/przebieg-edycji) - przebieg edycji krok po kroku, jeżeli pomocny jest kontekst operacyjny

@@ -25,7 +25,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 21V3"/><path d="M6 4.5h12l-2.8 3.6L18 11.7H6"/></svg><span>Na jakim etapie jest ten plebiscyt</span>
 
-**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę](/dokument/regulamin), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru, zamiast obiecywać zasady na później.
+**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę](/dokument/regulamin-rozmowy), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru, zamiast obiecywać zasady na później.
 
 Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokości nagród nie podajemy, dopóki środki nie są zabezpieczone - ogłoszenie konkursu z nagrodami, których nie ma, byłoby obietnicą bez pokrycia.
 
@@ -57,7 +57,7 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 **IV. Plon.** Co z tego zostało: nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd. Połączenie, którego nie da się nazwać, nie jest jeszcze konstelacją.
 
-[Karta oceny](/dokument/regulamin#karta-oceny) pokazuje, co znaczy każda liczba punktów w każdym kryterium.
+[Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każda liczba punktów w każdym kryterium.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="8" cy="8.5" r="2.6"/><circle cx="16" cy="8.5" r="2.6"/><path d="M3.5 18.5c0-2.5 2-4.3 4.5-4.3s4.5 1.8 4.5 4.3"/><path d="M14 18.5c0-2.5 1.7-4.3 4.2-4.3.8 0 1.6.2 2.3.5"/></svg><span>Kto ocenia</span>
 
