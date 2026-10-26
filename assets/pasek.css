@@ -151,6 +151,38 @@
   opacity: 0.8;
 }
 
+/* Przycisk trybu czytelności stoi przed przyciskiem menu i ma te same
+   wymiary, żeby pasek nie skakał, gdy przycisk menu się chowa. */
+.czytelnosc {
+  appearance: none;
+  background: none;
+  border: 0;
+  margin: 0;
+  padding: 0.6rem 0;
+  cursor: pointer;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.4rem;
+}
+.czytelnosc:hover,
+.czytelnosc:active {
+  background: none;
+}
+.czytelnosc svg {
+  display: block;
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.czytelnosc:focus {
+  outline: none;
+}
+.czytelnosc:focus-visible {
+  outline: 2px solid var(--bar-fg);
+  outline-offset: 2px;
+}
+
 .burger {
   appearance: none;
   background: none;

@@ -24,6 +24,8 @@ Dostawca hostingu z przyczyn technicznych i bezpieczeństwa przetwarza dane zawa
 
 Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma, skrypty i grafiki serwowane są wyłącznie z domeny konstela.org, więc przeglądarka odwiedzającego nie nawiązuje połączeń z usługami zewnętrznymi.
 
+**Tryb czytelności.** Przycisk w pasku u góry strony włącza większe pismo i czarno-biały układ o wysokim kontraście. Aby wybór przetrwał przejście na kolejną stronę i następną wizytę, przeglądarka zapamiętuje pod kluczem `konstela-czytelnosc` jedną wartość: że tryb jest włączony. **Zapis ten zostaje na urządzeniu odwiedzającego, nie jest wysyłany na serwer i Administrator go nie widzi**; nie służy do rozpoznawania ani do liczenia odwiedzających. Wyłączenie trybu kasuje zapis. Nie są to pliki cookies i nie wymagają zgody, ponieważ zapis jest niezbędny do wykonania funkcji, o którą poprosił sam odwiedzający.
+
 **Odnośniki do serwisów zewnętrznych.** W plebiscytach na piosenkę i na film zgłoszeniem jest odnośnik do nagrania pozostającego u dostawcy wybranego przez Uczestnika, a Słuchalnia i Projektornia prezentują ten odnośnik. **Administrator nie osadza na stronie odtwarzaczy ani żadnych elementów z tych serwisów**, więc samo wejście na stronę nie powoduje połączenia z nimi. Połączenie powstaje dopiero wtedy, gdy odwiedzający kliknie odnośnik - od tej chwili jego dane przetwarza ten serwis, na własnych zasadach, nad którymi Administrator nie ma kontroli.
 
 ## 4. Zgłoszenie rozmowy w plebiscycie na rozmowę

@@ -1,0 +1,143 @@
+/* Tryb czytelności - duże pismo i czarno-biały układ.
+ *
+ * Włączany przyciskiem w pasku, zapamiętywany w localStorage pod kluczem
+ * "konstela-czytelnosc". Klasę na <html> ustawia krótki skrypt w nagłówku
+ * każdej strony, zanim przeglądarka cokolwiek narysuje - inaczej strona
+ * mignęłaby w zwykłych kolorach, zanim tryb by się włączył.
+ *
+ * Dlaczego !important. Cały serwis jest zbudowany na zmiennych CSS, więc tryb
+ * sprowadza się do ich przedefiniowania - ale te same zmienne są ustawiane w
+ * zapytaniach o schemat kolorów (ciemny motyw systemu) o tej samej
+ * specyficzności, a część z nich w arkuszach wpisanych w stronę, czyli po tym
+ * arkuszu. Bez !important ciemny motyw systemu wygrywałby z trybem
+ * czytelności, który użytkownik włączył świadomie.
+ */
+
+:root.czytelnie {
+  /* Pismo: większe o jedną czwartą. Wszystkie rozmiary w serwisie są podane
+     w rem, więc zmiana podstawy skaluje całość razem z odstępami. */
+  font-size: 125% !important;
+
+  /* Barwy wspólne dla obu zestawów zmiennych - strony głównej i podstron. */
+  --paper: #ffffff !important;
+  --paper-raised: #ffffff !important;
+  --surface: #ffffff !important;
+  --bg: #ffffff !important;
+  --ink: #ffffff !important;
+
+  --fg: #000000 !important;
+  --text: #000000 !important;
+  --muted: #000000 !important;
+  --ink-dim: #000000 !important;
+
+  --rule: #000000 !important;
+  --line: #000000 !important;
+
+  /* Odnośniki niebieskie - jedyny kolor w tym trybie, więc od razu widać,
+     w co da się kliknąć. */
+  --brass: #0000cc !important;
+  --brass-bright: #0000cc !important;
+
+  /* Pasek odwrotnie niż strona: czarne tło, biała treść. */
+  --bar-bg: #000000 !important;
+  --bar-fg: #ffffff !important;
+}
+
+:root.czytelnie body {
+  background: #ffffff !important;
+  color: #000000 !important;
+}
+
+/* Tekst na biało-czarno niezależnie od tego, czy dana reguła sięgała po
+   zmienną, czy po wartość wpisaną wprost. */
+:root.czytelnie h1,
+:root.czytelnie h2,
+:root.czytelnie h3,
+:root.czytelnie h4,
+:root.czytelnie p,
+:root.czytelnie li,
+:root.czytelnie dt,
+:root.czytelnie dd,
+:root.czytelnie th,
+:root.czytelnie td,
+:root.czytelnie small,
+:root.czytelnie strong,
+:root.czytelnie em,
+:root.czytelnie blockquote,
+:root.czytelnie figcaption,
+:root.czytelnie label {
+  color: #000000 !important;
+  background: transparent !important;
+}
+
+:root.czytelnie a {
+  color: #0000cc !important;
+  text-decoration: underline !important;
+}
+:root.czytelnie a:visited {
+  color: #551a8b !important;
+}
+
+/* Pasek: czarne tło, biała treść, biała strzałka i kreski przycisków. */
+:root.czytelnie .topbar {
+  background: #000000 !important;
+  color: #ffffff !important;
+}
+:root.czytelnie .topbar a,
+:root.czytelnie .topbar .tag,
+:root.czytelnie .topbar-mark {
+  color: #ffffff !important;
+  text-decoration: none !important;
+}
+:root.czytelnie .burger-ikona,
+:root.czytelnie .burger-ikona::before,
+:root.czytelnie .burger-ikona::after {
+  background: #ffffff !important;
+}
+
+/* Rozwijane menu zostaje na białym tle, z czarną ramką i niebieskimi
+   pozycjami - czyli tak jak reszta strony pod paskiem. */
+:root.czytelnie .menu {
+  background: #ffffff !important;
+  border-bottom: 2px solid #000000 !important;
+}
+:root.czytelnie .menu a {
+  color: #0000cc !important;
+}
+
+/* Ramki, linie i tła kart: czarna kreska na białym, bez wypełnień. */
+:root.czytelnie section,
+:root.czytelnie article,
+:root.czytelnie .kafle article,
+:root.czytelnie table,
+:root.czytelnie th,
+:root.czytelnie td,
+:root.czytelnie pre,
+:root.czytelnie code,
+:root.czytelnie blockquote {
+  background: #ffffff !important;
+  border-color: #000000 !important;
+}
+
+/* Rysunki liniowe - ikony przy nagłówkach, pieczęć, dzielniki - rysują się
+   kolorem tekstu albo zmienną --brass, więc same staną się czarne. Zdjęć i
+   reprodukcji nie ruszamy: plakat w odcieniach szarości byłby fałszywy. */
+:root.czytelnie svg {
+  color: #000000 !important;
+}
+:root.czytelnie .topbar svg {
+  color: #ffffff !important;
+}
+
+/* Przycisk trybu: zaznaczamy, że jest włączony - ramką, nie samym kolorem. */
+:root.czytelnie .czytelnosc {
+  outline: 2px solid #ffffff;
+  outline-offset: 1px;
+  border-radius: 3px;
+}
+
+@media print {
+  :root.czytelnie {
+    font-size: 100% !important;
+  }
+}

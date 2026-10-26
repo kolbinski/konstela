@@ -22,7 +22,8 @@
       media="(prefers-color-scheme: dark)"
     />
     <meta name="robots" content="noindex, follow" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610260950" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610261000" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610261000" />
     <style>
       @font-face {
         font-family: 'Literata';
@@ -584,6 +585,15 @@
       }
     </style>
 
+    <!-- Tryb czytelności ustawiamy przed pierwszym rysowaniem strony,
+         inaczej mignęłaby w zwykłych kolorach. Patrz assets/czytelnosc.js. -->
+    <script>
+      try {
+        if (localStorage.getItem('konstela-czytelnosc')) {
+          document.documentElement.classList.add('czytelnie');
+        }
+      } catch (e) {}
+    </script>
   </head>
   <body>
     <div class="topbar">
@@ -594,6 +604,15 @@
         </span>
         <span class="prawa">
           <span class="tag">arkusz</span>
+          <button
+            id="czytelnosc"
+            class="czytelnosc"
+            type="button"
+            aria-pressed="false"
+            aria-label="Tryb czytelności: większe pismo i wysoki kontrast"
+          >
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.5 15 6 7.5 9.5 15"/><path d="M3.9 12.2h4.2"/><path d="M13 18.5 18 6.5l5 12"/><path d="M15 14h6"/></svg>
+          </button>
           <button
             id="burger"
             class="burger"
@@ -884,8 +903,9 @@
           .catch(e => state('Nie udało się wczytać arkusza', e.message));
       }
     </script>
-    <script src="/assets/nawigacja.js?v=202610260950" defer></script>
-    <script src="/assets/pasek.js?v=202610260950" defer></script>
-    <script src="/assets/stopka.js?v=202610260950" defer></script>
+    <script src="/assets/nawigacja.js?v=202610261000" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610261000" defer></script>
+    <script src="/assets/pasek.js?v=202610261000" defer></script>
+    <script src="/assets/stopka.js?v=202610261000" defer></script>
   </body>
 </html>

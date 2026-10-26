@@ -1001,3 +1001,17 @@ Po poprawce ukrywającej przycisk menu na stronie 404 przycisk nadal był widocz
 **Znacznik zawiera teraz datę z godziną i minutą budowania**, a odnośniki w plikach pisanych ręcznie - `index.html`, `view.html`, `404.html`, `view-xlsx.html` - zostały podbite na tę samą wartość.
 
 **Wniosek: sama data nie jest znacznikiem.** Przy kilku poprawkach tego samego pliku w ciągu jednego dnia adres się nie zmieniał, więc podbicie było pozorne - a strona wyglądała, jakby poprawki nie było, co trudno odróżnić od błędu w kodzie.
+
+## Tryb czytelności (26.10.2026)
+
+Przycisk w pasku, przed przyciskiem menu, ikona dwóch liter A - mała i duża, konwencja znana z serwisów prasowych. Klik przełącza klasę `czytelnie` na `<html>` i zapisuje flagę w localStorage pod kluczem `konstela-czytelnosc`.
+
+**Co robi tryb:** pismo większe o jedną czwartą (`font-size: 125%` na korzeniu, więc skalują się wszystkie rozmiary podane w rem razem z odstępami), białe tło, czarny tekst, niebieskie odnośniki, pasek odwrócony - czarne tło i biała treść.
+
+**Trzy rzeczy rozstrzygnięte w konstrukcji:**
+
+1. **Klasę ustawia krótki skrypt wpisany w nagłówek każdej strony, a nie plik zewnętrzny.** Inaczej strona mignęłaby w zwykłych kolorach, zanim tryb by się włączył.
+2. **Reguły trybu mają `!important`.** Cały serwis stoi na zmiennych CSS, więc tryb sprowadza się do ich przedefiniowania - ale te same zmienne ustawiają zapytania o ciemny motyw systemu, o tej samej specyficzności. Bez `!important` ciemny motyw wygrywałby z trybem, który odwiedzający włączył świadomie. Sprawdzone: przy ciemnym motywie systemu tryb daje białe tło.
+3. **Zdjęć i reprodukcji nie odbarwiamy.** Czarno-biały jest układ, nie treść: plakat w odcieniach szarości byłby fałszywy wobec autora. Czarne stają się rysunki liniowe, bo rysują się kolorem tekstu.
+
+**W polityce prywatności dopisany akapit o tym zapisie**: zostaje na urządzeniu, nie jest wysyłany na serwer, nie służy do rozpoznawania odwiedzających, a wyłączenie trybu go kasuje. Nie są to pliki cookies i nie wymagają zgody, bo zapis jest niezbędny do wykonania funkcji, o którą poprosił sam odwiedzający.

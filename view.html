@@ -23,8 +23,18 @@
     />
     <meta name="robots" content="noindex, follow" />
     <script src="/assets/marked.min.js"></script>
-    <link rel="stylesheet" href="/assets/view.css?v=202610260950" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610260950" />
+    <link rel="stylesheet" href="/assets/view.css?v=202610261000" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610261000" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610261000" />
+    <!-- Tryb czytelności ustawiamy przed pierwszym rysowaniem strony,
+         inaczej mignęłaby w zwykłych kolorach. Patrz assets/czytelnosc.js. -->
+    <script>
+      try {
+        if (localStorage.getItem('konstela-czytelnosc')) {
+          document.documentElement.classList.add('czytelnie');
+        }
+      } catch (e) {}
+    </script>
   </head>
   <body>
     <div class="topbar">
@@ -33,6 +43,15 @@
           <a class="back" href="/" aria-label="Wróć na stronę główną"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="m11 6-6 6 6 6"/></svg></a>
           <a class="brand" href="/">Nagroda Konstela</a>
         </span>
+        <button
+          id="czytelnosc"
+          class="czytelnosc"
+          type="button"
+          aria-pressed="false"
+          aria-label="Tryb czytelności: większe pismo i wysoki kontrast"
+        >
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.5 15 6 7.5 9.5 15"/><path d="M3.9 12.2h4.2"/><path d="M13 18.5 18 6.5l5 12"/><path d="M15 14h6"/></svg>
+        </button>
         <button
           id="burger"
           class="burger"
@@ -55,9 +74,10 @@
 
     <konstela-stopka></konstela-stopka>
 
-    <script src="/assets/view.js?v=202610260950"></script>
-    <script src="/assets/pasek.js?v=202610260950" defer></script>
-    <script src="/assets/nawigacja.js?v=202610260950" defer></script>
-    <script src="/assets/stopka.js?v=202610260950" defer></script>
+    <script src="/assets/view.js?v=202610261000"></script>
+    <script src="/assets/czytelnosc.js?v=202610261000" defer></script>
+    <script src="/assets/pasek.js?v=202610261000" defer></script>
+    <script src="/assets/nawigacja.js?v=202610261000" defer></script>
+    <script src="/assets/stopka.js?v=202610261000" defer></script>
   </body>
 </html>
