@@ -134,6 +134,23 @@
   opacity: 1;
 }
 
+/* Prawa strona paska: znacznik strony (404, arkusz) i przycisk menu.
+   Znacznik bywa jedyną zawartością, gdy strona nie ma nagłówków. */
+.topbar .prawa {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  min-width: 0;
+}
+.topbar .tag {
+  font-family: var(--mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--bar-fg);
+  opacity: 0.8;
+}
+
 .burger {
   appearance: none;
   background: none;
@@ -150,6 +167,12 @@
 .burger:hover,
 .burger:active {
   background: none;
+}
+/* Atrybut hidden sam nie wystarcza: reguła .burger { display: flex } ma
+   wyższą specyficzność niż domyślne [hidden] { display: none } przeglądarki,
+   więc ukryty przycisk i tak byłby widoczny. */
+.burger[hidden] {
+  display: none;
 }
 .burger:focus {
   outline: none;

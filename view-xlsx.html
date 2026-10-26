@@ -22,6 +22,7 @@
       media="(prefers-color-scheme: dark)"
     />
     <meta name="robots" content="noindex, follow" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=20261026z" />
     <style>
       @font-face {
         font-family: 'Literata';
@@ -260,6 +261,14 @@
         box-sizing: border-box;
       }
 
+      /* Pasek z menu ma tło przez całą szerokość strony, a body ma tu
+         dopełnienie boczne - podajemy mu, o ile ma z niego wyjść. Reguły
+         paska są w assets/pasek.css, wspólnym z resztą serwisu. */
+      :root {
+        --pasek-wyjscie-l: max(16px, env(safe-area-inset-left, 0px));
+        --pasek-wyjscie-r: max(16px, env(safe-area-inset-right, 0px));
+      }
+
       body {
         font-family: var(--body);
         font-size: 1.0625rem;
@@ -275,65 +284,6 @@
           max(16px, env(safe-area-inset-left));
       }
 
-      .masthead {
-        margin: 0 auto;
-        /* Dopełnienie równe z obu stron, wyrównanie do środka - tak samo jak
-           w assets/view.css. Przy wyrównaniu do linii pisma strzałka i napis
-           mają różne wysokości wiersza, więc odstępy wychodziły nierówne. */
-        padding-top: calc(1.35rem + env(safe-area-inset-top, 0px));
-        padding-bottom: 1.35rem;
-        border-bottom: 1px solid var(--line);
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 1rem;
-        flex-wrap: wrap;
-      }
-      .masthead .left {
-        display: flex;
-        align-items: center;
-        gap: 0.6rem;
-        min-width: 0;
-      }
-      /* Strzałka powrotu jest rysowana jako SVG, a nie znakiem ←: znak
-         zależy od kroju pisma, bywa niewidoczny, a podstawiony zastępczy ma
-         inną linię pisma i siada pionowo niżej niż napis obok. */
-      .masthead a.back {
-        color: var(--muted);
-        text-decoration: none;
-        flex: none;
-        display: inline-flex;
-        align-items: center;
-        padding: 0.35rem 0.25rem;
-        margin-left: -0.25rem;
-      }
-      .masthead a.back svg {
-        display: block;
-        width: 1.15rem;
-        height: 1.15rem;
-      }
-      .masthead a.back:hover {
-        color: var(--brass);
-      }
-      .masthead a.brand {
-        font-family: var(--display);
-        font-size: 1.35rem;
-        line-height: 1.15;
-        font-weight: 600;
-        letter-spacing: 0.01em;
-        color: var(--text);
-        text-decoration: none;
-      }
-      .masthead a.brand:hover {
-        color: var(--brass);
-      }
-      .masthead .tag {
-        font-family: var(--mono);
-        font-size: 0.68rem;
-        letter-spacing: 0.16em;
-        text-transform: uppercase;
-        color: var(--muted);
-      }
 
       #content {
         /* Strona arkusza nie ma kolumny tekstu - tabela ma być szeroka. */
@@ -531,7 +481,7 @@
           line-height: 1.5;
           padding: 0;
         }
-        .masthead,
+        .topbar,
         #content {
           max-width: 100%;
           padding: 0;
@@ -636,13 +586,30 @@
 
   </head>
   <body>
-    <header class="masthead">
-      <span class="left">
-        <a class="back" href="/" aria-label="Wróć na stronę główną"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="m11 6-6 6 6 6"/></svg></a>
-        <a class="brand" href="/">Nagroda Konstela</a>
-      </span>
-      <span class="tag">arkusz</span>
-    </header>
+    <div class="topbar">
+      <div class="topbar-in">
+        <span class="left">
+          <a class="back" href="/" aria-label="Wróć na stronę główną"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="m11 6-6 6 6 6"/></svg></a>
+          <a class="brand" href="/">Nagroda Konstela</a>
+        </span>
+        <span class="prawa">
+          <span class="tag">arkusz</span>
+          <button
+            id="burger"
+            class="burger"
+            type="button"
+            aria-expanded="false"
+            aria-controls="menu"
+            aria-label="Menu dokumentu"
+            hidden
+          >
+            <span class="burger-ikona" aria-hidden="true"></span>
+          </button>
+        </span>
+      </div>
+      <!-- Pozycje powstają z nagłówków w assets/pasek.js. -->
+      <nav id="menu" class="menu" aria-label="Sekcje strony" hidden></nav>
+    </div>
 
     <main id="content">
       <div class="state">Wczytywanie</div>
@@ -918,6 +885,7 @@
       }
     </script>
     <script src="/assets/nawigacja.js?v=20261026u" defer></script>
+    <script src="/assets/pasek.js?v=20261026z" defer></script>
     <script src="/assets/stopka.js?v=20261026z" defer></script>
   </body>
 </html>

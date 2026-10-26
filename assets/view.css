@@ -260,69 +260,6 @@
           max(16px, env(safe-area-inset-left));
       }
 
-      .masthead {
-        max-width: var(--max-w);
-        margin: 0 auto;
-        /* Dopełnienie równe z obu stron. Wyrównanie do środka, a nie do linii
-           pisma: przy wyrównaniu do linii pisma strzałka i napis mają różne
-           wysokości wiersza, więc odstęp nad i pod nimi wychodził inny. */
-        padding-top: calc(1.35rem + env(safe-area-inset-top, 0px));
-        padding-bottom: 1.35rem;
-        border-bottom: 1px solid var(--line);
-        display: flex;
-        align-items: center;
-        justify-content: space-between;
-        gap: 1rem;
-        flex-wrap: wrap;
-      }
-      .masthead .left {
-        display: flex;
-        align-items: center;
-        gap: 0.6rem;
-        min-width: 0;
-      }
-      /* Strzałka powrotu jest rysowana jako SVG, a nie znakiem ←: znak
-         zależy od kroju pisma, bywa niewidoczny, a podstawiony zastępczy ma
-         inną linię pisma i siada pionowo niżej niż napis obok. */
-      .masthead a.back {
-        color: var(--muted);
-        text-decoration: none;
-        flex: none;
-        display: inline-flex;
-        align-items: center;
-        padding: 0.35rem 0.25rem;
-        margin-left: -0.25rem;
-      }
-      .masthead a.back svg {
-        display: block;
-        width: 1.15rem;
-        height: 1.15rem;
-      }
-      .masthead a.back:hover {
-        color: var(--brass);
-      }
-      .masthead a.brand {
-        font-family: var(--display);
-        font-size: 1.35rem;
-        /* Ciasna wysokość wiersza, żeby o odstępie nad i pod napisem
-           decydowało wyłącznie dopełnienie paska, a nie poduszka wiersza
-           odziedziczona po stylu nagłówków. */
-        line-height: 1.15;
-        font-weight: 600;
-        letter-spacing: 0.01em;
-        color: var(--text);
-        text-decoration: none;
-      }
-      .masthead a.brand:hover {
-        color: var(--brass);
-      }
-      .masthead .tag {
-        font-family: var(--mono);
-        font-size: 0.68rem;
-        letter-spacing: 0.16em;
-        text-transform: uppercase;
-        color: var(--muted);
-      }
 
       #content {
         max-width: var(--max-w);
@@ -608,7 +545,7 @@
           line-height: 1.5;
           padding: 0;
         }
-        .masthead,
+        .topbar,
         #content {
           max-width: 100%;
           padding: 0;

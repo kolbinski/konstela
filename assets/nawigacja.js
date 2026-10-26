@@ -1,10 +1,10 @@
 /* Przycisk powrotu w nagłówku podstron - jedno źródło prawdy.
  *
  * Używany na: view.html, strony budowane generatorem, view-xlsx.html, 404.html.
- * Strona musi mieć nagłówek w postaci:
- *   <header class="masthead"><span class="left">
- *     <a class="back" href="/">&#8592;</a><a class="brand" href="/">Nagroda Konstela</a>
- *   </span></header>
+ * Strona musi mieć w pasku grupę w postaci:
+ *   <span class="left">
+ *     <a class="back" href="/">[svg]</a><a class="brand" href="/">Nagroda Konstela</a>
+ *   </span>
  *
  * Zachowanie domyślne, zapisane wprost w HTML: strzałka i napis "Nagroda
  * Konstela" prowadzą na stronę główną. Ten skrypt zmienia je na "Powrót"
@@ -22,9 +22,7 @@
 (function () {
   'use strict';
 
-  /* Podstrony dokumentów mają dziś pasek .topbar, a 404.html i view-xlsx.html
-     dawny nagłówek .masthead - obsługujemy oba. */
-  var lewa = document.querySelector('.topbar .left, .masthead .left');
+  var lewa = document.querySelector('.topbar .left');
   if (!lewa) return;
 
   var strzalka = lewa.querySelector('a.back');

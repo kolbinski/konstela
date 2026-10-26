@@ -988,4 +988,8 @@ Strona główna miała własną kopię reguł paska w `<style>` i własny skrypt
 
 **Z dwóch skryptów wybrałem lepsze kawałki, nie nowszy.** Chowanie paska przy przewijaniu wzięte ze strony głównej, bo miało dławienie przez `requestAnimationFrame` i próg 80 px od góry; budowanie menu z obu układów - sekcje `section[id] > h2` na stronie głównej, nagłówki `h2` i `h3` z `#content` w dokumentach.
 
-**Strzałka powrotu jako SVG także w `view-xlsx.html` i `404.html`.** Te dwie strony mają jeszcze dawny nagłówek `.masthead` i własne kopie jego reguł - trzecia kopia tego samego, do połączenia osobno.
+**Strzałka powrotu jako SVG w całym serwisie.**
+
+**Nagłówek `.masthead` zniknął całkowicie** (26.10.2026, krok drugi). `view-xlsx.html` i `404.html` przeszły na ten sam pasek; z trzech kopii jego reguł - w `view.css` oraz w obu tych plikach - nie został ślad, a `nawigacja.js` ma znów jeden selektor zamiast dwóch. Znacznik strony („404", „arkusz") stoi po prawej stronie paska, obok przycisku menu, i ma własną regułę w `pasek.css`.
+
+**Przy okazji wyszedł błąd, którego pomiar nie łapał:** przycisk menu z atrybutem `hidden` był nadal widoczny, bo reguła `.burger { display: flex }` ma wyższą specyficzność niż domyślne `[hidden] { display: none }` przeglądarki. `element.hidden` zwracał `true`, więc test przechodził, a ikona wisiała na ekranie. Widać to było dopiero na zrzucie. Dopisana reguła `.burger[hidden] { display: none }`. **Wniosek na przyszłość: atrybut `hidden` sprawdzamy stylem obliczonym albo zrzutem, nie właściwością elementu.**
