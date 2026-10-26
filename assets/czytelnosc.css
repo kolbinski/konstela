@@ -343,7 +343,7 @@
 :root.czytelnie h2 > svg,
 :root.czytelnie h3 > svg,
 :root.czytelnie h4 > svg,
-:root.czytelnie svg[aria-hidden='true']:not(.topbar svg) {
+:root.czytelnie svg[aria-hidden='true']:not(.topbar svg):not(.do-gory svg) {
   display: none !important;
 }
 
@@ -354,6 +354,19 @@
 :root.czytelnie .topbar svg {
   color: #ffffff !important;
   display: block !important;
+}
+
+/* Przycisk powrotu na górę strony jest narzędziem, nie ozdobą, więc zostaje
+   widoczny: czarny krążek z białą strzałką i białym obrysem, żeby odcinał się
+   od białego tła. */
+:root.czytelnie .do-gory {
+  background: #000000 !important;
+  color: #ffffff !important;
+  border: 2px solid #ffffff !important;
+  box-shadow: 0 0 0 2px #000000 !important;
+}
+:root.czytelnie .do-gory svg {
+  color: #ffffff !important;
 }
 
 /* Przycisk trybu: zaznaczamy, że jest włączony - ramką, nie samym kolorem. */

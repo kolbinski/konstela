@@ -328,6 +328,7 @@ function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tr
 ${tresc}
     </main>
 
+    <button id="do-gory" class="do-gory" type="button" hidden aria-label="Wróć na górę strony">${IKONY['strzalka-gora'] || ''}</button>
     <konstela-stopka></konstela-stopka>
 
     <script src="/assets/czytelnosc.js${v}" defer></script>

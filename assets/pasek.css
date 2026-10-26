@@ -343,3 +343,55 @@ section[id],
 [id^='do-'] {
   scroll-margin-top: 3.6rem;
 }
+
+/* Przycisk powrotu na górę strony. Mieszka w tym pliku razem z paskiem, bo
+   jedno i drugie jest obramowaniem każdej strony i wchodzi z tym samym
+   arkuszem. Pokazuje się dopiero po odjechaniu od góry - na samej górze nie
+   miałby co robić, a zasłaniałby treść. */
+.do-gory {
+  position: fixed;
+  right: max(16px, env(safe-area-inset-right, 0px));
+  bottom: max(16px, env(safe-area-inset-bottom, 0px));
+  z-index: 30;
+  appearance: none;
+  width: 2.9rem;
+  height: 2.9rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: var(--bar-bg);
+  color: var(--bar-fg);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.28);
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+}
+.do-gory.widoczny {
+  opacity: 1;
+  transform: none;
+}
+/* Atrybut hidden sam nie wystarcza, bo reguła wyżej ustawia display: flex. */
+.do-gory[hidden] {
+  display: none;
+}
+.do-gory svg {
+  display: block;
+  width: 1.45rem;
+  height: 1.45rem;
+}
+.do-gory:focus {
+  outline: none;
+}
+.do-gory:focus-visible {
+  outline: 2px solid var(--bar-bg);
+  outline-offset: 3px;
+}
+@media (prefers-reduced-motion: reduce) {
+  .do-gory {
+    transition: none;
+  }
+}

@@ -22,6 +22,26 @@
 (function () {
   'use strict';
 
+  /* Przycisk powrotu na górę strony: pokazuje się po odjechaniu od góry,
+     chowa przy powrocie. Przewijanie płynne, chyba że odwiedzający prosił
+     system o ograniczenie ruchu - wtedy skok. */
+  var doGory = document.getElementById('do-gory');
+  if (doGory) {
+    var PROG_DO_GORY = 400;
+    doGory.addEventListener('click', function () {
+      var plynnie = !window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo(plynnie ? { top: 0, behavior: 'smooth' } : { top: 0 });
+      doGory.blur();
+    });
+    var pokazDoGory = function () {
+      var widoczny = (window.pageYOffset || 0) > PROG_DO_GORY;
+      doGory.hidden = !widoczny;
+      doGory.classList.toggle('widoczny', widoczny);
+    };
+    pokazDoGory();
+    window.addEventListener('scroll', pokazDoGory, { passive: true });
+  }
+
   var przycisk = document.getElementById('burger');
   var menu = document.getElementById('menu');
   if (!przycisk || !menu) return;
