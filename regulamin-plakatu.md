@@ -32,7 +32,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2a. **Zgoda na zakresy licencji będące warunkiem udziału (§ 13 ust. 4) jest wymagana do przyjęcia zgłoszenia.** Brak zgody na pozostałe zakresy nie wyłącza Uczestnika z konkursu, lecz wyłącza go z tego zakresu.
 
-3. W konkursie nie mogą brać udziału członkowie jury, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu konkursu po stronie Organizatora.
+3. W konkursie nie mogą brać udziału członkowie jury, członkowie Akademii plakatu, jeżeli zostanie powołana, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu konkursu po stronie Organizatora.
 
 4. Zgłoszenie złożone przez osobę najbliższą członka jury nie jest wyłączone. Członek jury wyłącza się wówczas od oceny tego zgłoszenia, na zasadach z § 8 ust. 5.
 
@@ -130,7 +130,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. Skład jury Organizator ogłasza przed otwarciem naboru.
 
-3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń.
+3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Członkowie Akademii plakatu, jeżeli zostanie powołana, otrzymują wynagrodzenie na zasadach ogłoszonych wraz z progiem jej powołania.
 
 4. Jury ocenia wszystkie zgłoszenia, które przeszły ocenę formalną, i wybiera **dziesięciu finalistów**.
 
@@ -144,7 +144,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 4e. Z konieczności opisanej w ust. 4c **nabór w konkursie plakatu zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela**. Terminy obu naborów Organizator ogłasza przed otwarciem konkursu.
 
-5. Członek jury wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
+4f. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza **Akademia plakatu** - grono praktyków plakatu, ilustracji i projektowania graficznego, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 7, bez stosowania jakichkolwiek innych kryteriów. Wybór dziesięciu finalistów i pełny werdykt pozostają przy jury.
+
+4g. Próg powołania Akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
+
+5. Członek jury oraz członek Akademii wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
 6. Werdykt jury jest ostateczny i nie podlega odwołaniu.
 
