@@ -630,8 +630,22 @@
       .menu a:focus-visible {
         border-bottom-color: var(--brass);
       }
+      /* Pozycje podrzędne: nagłówki h3 pod swoim h2. Wcięcie i mniejszy
+         stopień pisma, żeby hierarchia była widoczna bez ramek i kropek. */
+      .menu a.pod {
+        padding-left: 1.5rem;
+        font-size: 0.875rem;
+        color: var(--text);
+        opacity: 0.85;
+      }
+      .menu a.pod:hover,
+      .menu a.pod:focus-visible {
+        opacity: 1;
+        border-bottom-color: var(--text);
+      }
       /* Kotwice muszą wypadać pod paskiem, a nie za nim. */
-      section[id] {
+      section[id],
+      [id^='do-'] {
         scroll-margin-top: 3.6rem;
       }
       @media (prefers-reduced-motion: no-preference) {
@@ -1722,16 +1736,57 @@
           var naglowki = document.querySelectorAll('section[id] > h2');
           var fragment = document.createDocumentFragment();
           var dodane = 0;
+          var uzyte = {};
+
+          /* Nagłówki h3 siedzą w kaflach i nie mają własnych identyfikatorów,
+             więc nadajemy je tutaj - z tekstu nagłówka, żeby adres z kotwicą
+             dał się przeczytać i wysłać komuś. Przedrostek "do-" trzyma te
+             identyfikatory osobno od identyfikatorów sekcji i od czegokolwiek
+             wpisanego w treści ręcznie. */
+          function naId(tekst) {
+            var znaki = { ą: 'a', ć: 'c', ę: 'e', ł: 'l', ń: 'n', ó: 'o', ś: 's', ź: 'z', ż: 'z' };
+            var slug = tekst
+              .toLowerCase()
+              .replace(/[ąćęłńóśźż]/g, function (z) { return znaki[z]; })
+              .replace(/[^a-z0-9]+/g, '-')
+              .replace(/^-+|-+$/g, '')
+              .slice(0, 60);
+            if (!slug) return '';
+            var kandydat = 'do-' + slug;
+            var n = 2;
+            while (uzyte[kandydat]) kandydat = 'do-' + slug + '-' + n++;
+            uzyte[kandydat] = true;
+            return kandydat;
+          }
+
+          function pozycja(href, tekst, podrzedna) {
+            var a = document.createElement('a');
+            a.href = href;
+            a.textContent = tekst;
+            if (podrzedna) a.className = 'pod';
+            fragment.appendChild(a);
+            dodane++;
+          }
+
           for (var i = 0; i < naglowki.length; i++) {
             var h2 = naglowki[i];
             var sekcja = h2.parentElement;
             var tytul = (h2.querySelector('span') || h2).textContent.replace(/\s+/g, ' ').trim();
             if (!sekcja.id || !tytul) continue;
-            var a = document.createElement('a');
-            a.href = '#' + sekcja.id;
-            a.textContent = tytul;
-            fragment.appendChild(a);
-            dodane++;
+            pozycja('#' + sekcja.id, tytul, false);
+
+            var podtytuly = sekcja.querySelectorAll('h3');
+            for (var j = 0; j < podtytuly.length; j++) {
+              var h3 = podtytuly[j];
+              var tekst = (h3.querySelector('span') || h3).textContent.replace(/\s+/g, ' ').trim();
+              if (!tekst) continue;
+              if (!h3.id) {
+                var id = naId(tekst);
+                if (!id) continue;
+                h3.id = id;
+              }
+              pozycja('#' + h3.id, tekst, true);
+            }
           }
           /* Gdyby selektor kiedyś przestał pasować, zostawiamy przycisk
              ukryty zamiast otwierać puste menu. */
