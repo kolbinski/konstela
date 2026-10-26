@@ -52,7 +52,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 4. Terminy edycji pierwszej
 
-1. Terminy edycji pierwszej Organizator ogłasza w dniu otwarcia naboru, w załączniku do niniejszego regulaminu, o którym mowa w § 12 ust. 2.
+1. Terminy edycji pierwszej Organizator ogłasza na stronie Nagrody w dniu otwarcia naboru i od tej chwili jest nimi związany.
 
 2. Nabór nie zostanie otwarty przed wpłynięciem na rachunek Organizatora środków na nagrody pieniężne i na nagrania studyjne finalistów.
 
@@ -156,7 +156,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 9. Kryteria oceny
 
-1. Zgłoszenia ocenia się według czterech kryteriów, każdego osobno, w skali stu punktów:
+1. Zgłoszenia ocenia się według czterech kryteriów, **łącznie do 100 punktów, w podziale wskazanym w tabeli**:
 
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
@@ -222,9 +222,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    d) nagranie studyjne, o którym mowa w § 13, dla każdego z dziesięciu finalistów.
 
-2. Wysokość nagród pieniężnych Organizator ogłasza w załączniku do niniejszego regulaminu, w dniu otwarcia naboru. Organizator ogłasza wyłącznie te kwoty, które wpłynęły wcześniej na jego rachunek.
+2. **Wysokość nagród pieniężnych zależy od środków pozyskanych od sponsorów.** Organizator ogłasza ją na stronie Nagrody w dniu otwarcia naboru, wraz z listą partnerów edycji, i od tej chwili jest nią związany. Ogłasza wyłącznie te kwoty, które wpłynęły wcześniej na jego rachunek.
 
-3. Nagrody pieniężne podlegają zryczałtowanemu podatkowi dochodowemu na podstawie art. 30 ust. 1 pkt 2 ustawy o podatku dochodowym od osób fizycznych. Płatnikiem podatku jest Organizator. Sposób rozliczenia podatku Organizator wskazuje w załączniku, o którym mowa w ust. 2, w sposób jednoznaczny dla Uczestnika.
+2a. Po ogłoszeniu wysokość nagród może zostać wyłącznie podwyższona. Obniżenie puli albo odwołanie nagród pieniężnych po otwarciu naboru jest wyłączone.
+
+3. Od nagród pieniężnych pobierany jest zryczałtowany podatek dochodowy w wysokości 10% wartości nagrody (art. 30 ust. 1 pkt 2 ustawy o podatku dochodowym od osób fizycznych). Płatnikiem podatku jest Organizator.
 
 4. Nagroda pieniężna wypłacana jest przelewem w terminie 30 dni od dnia gali, na rachunek wskazany przez laureata.
 

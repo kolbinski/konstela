@@ -96,7 +96,7 @@ Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitar
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3.5h8v5.5a4 4 0 0 1-8 0z"/><path d="M8 5H5.5v1.5a3 3 0 0 0 3 3M16 5h2.5v1.5a3 3 0 0 1-3 3"/><path d="M12 13.5V16"/><path d="M9.2 20.5h5.6l-.7-4.5h-4.2z"/></svg><span>Nagrody</span>
 
-**Nagrody pieniężne dla trzech najwyżej ocenionych utworów** oraz dwie nagrody publiczności. Zwycięzca odbiera **mosiężny medalion Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. Wysokość nagród pieniężnych podamy przy ogłoszeniu naboru.
+**Nagrody pieniężne dla trzech najwyżej ocenionych utworów** oraz dwie nagrody publiczności. Zwycięzca odbiera **mosiężny medalion Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 
 **Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS.
 
