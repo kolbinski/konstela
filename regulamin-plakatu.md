@@ -180,11 +180,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 10. Oryginały prac finałowych
 
-1. Dziesięciu finalistów przesyła oryginały prac na oględziny i na wystawę towarzyszącą gali. Organizator pokrywa koszty przesyłki w obie strony oraz ubezpieczenia na czas transportu i wystawy.
+1. Dziesięciu finalistów przesyła oryginały prac na oględziny, na wystawę towarzyszącą gali oraz na **wernisaż w galerii sztuki**, o którym mowa w ust. 3a. Organizator pokrywa koszty przesyłki w obie strony, przewozu między miejscem gali a galerią oraz ubezpieczenia na czas transportu i obu wystaw.
 
 2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz termin, **nie krótszy niż 21 dni od zawiadomienia o zakwalifikowaniu do finału** (§ 8 ust. 4a). Oryginały muszą dotrzeć przed galą, ponieważ to na niej są wystawiane, a oględziny poprzedzają ustalenie kolejności.
 
-3. Prace wracają do autorów w terminie 30 dni od zakończenia wystawy, z wyjątkiem prac przekazanych na licytację zgodnie z § 14.
+3. Prace wracają do autorów w terminie **30 dni od zakończenia ostatniej z wystaw**, o których mowa w ust. 1, z wyjątkiem prac przekazanych na licytację zgodnie z § 14.
+
+3a. **Wernisaż w galerii sztuki.** Oryginały prac finałowych są pokazywane publicznie na wernisażu w galerii sztuki, otwartym dla publiczności, **po gali** - to jest po publicznym ogłoszeniu werdyktu, tak aby prace mogły być opisane wraz z zajętymi miejscami. Termin i miejsce wernisażu Organizator ogłasza najpóźniej w dniu gali. Łączny czas, w którym Organizator dysponuje oryginałem, nie przekracza **120 dni od dnia jego dostarczenia**; po upływie tego terminu praca wraca do autora niezależnie od stanu przygotowań do wernisażu. Finalista może nie wyrazić zgody na udział swojej pracy w wernisażu, zachowując udział w wystawie przy gali, nagrodę i miejsce w werdykcie; w takim wypadku jego praca wraca do niego w terminie z ust. 3, liczonym od zakończenia wystawy przy gali.
 
 4. Finalista, który nie wyraża zgody na przesłanie oryginału, nie traci z tego powodu nagrody pieniężnej ani miejsca w werdykcie. **Odmowa nie obniża punktacji: jury ocenia wówczas pracę na podstawie reprodukcji i dostępnych materiałów** (§ 8 ust. 4b). Praca jest prezentowana na wystawie w postaci reprodukcji.
 

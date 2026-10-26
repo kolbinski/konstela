@@ -97,7 +97,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Okładka antologii.** Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. **Pytamy Cię o zgodę zaraz po werdykcie, czyli przed galą**, i masz na odpowiedź 7 dni - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
 
-**Wystawa przy gali.** Oryginały dziesiątki finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody, a transport i powrót prac pokrywa organizator.
+**Wystawa przy gali i wernisaż w galerii.** Oryginały dziesiątki finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody, a po niej na **wernisażu w galerii sztuki**, otwartym dla publiczności - już z zajętymi miejscami, bo werdykt jest wtedy ogłoszony. Transport w obie strony, przewóz między miejscami i ubezpieczenie pokrywa organizator. Możesz nie zgodzić się na udział pracy w wernisażu, nie tracąc ani nagrody, ani wystawy przy gali; wtedy praca wraca do Ciebie wcześniej. Organizator dysponuje oryginałem nie dłużej niż 120 dni od jego dostarczenia.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.8" width="17" height="4.2" rx="1"/><rect x="3.5" y="10.4" width="17" height="9.8" rx="1"/><path d="M8 14h8M8 17h5"/></svg><span>Galeria i archiwum</span>
 
