@@ -42,7 +42,8 @@
 | Runda druga (Kapituła) | styczeń i luty 2028 |
 | Rozmowy weryfikacyjne | luty 2028 |
 | Zamknięcie treści antologii i przekazanie do produkcji | **29 lutego 2028 r.** |
-| Druk nakładu i wprowadzenie do dystrybucji | marzec i pierwsza połowa kwietnia 2028 |
+| Druk nakładu i dostarczenie go do dystrybutora | marzec i pierwsza połowa kwietnia 2028 |
+| Publiczna prezentacja okładki i rozpoczęcie sprzedaży | od dnia premiery, czyli od dnia gali |
 | Ogłoszenie wyników, gala i premiera antologii | **druga połowa kwietnia 2028 r.** |
 | Wypłata nagród | do 14 dni od ogłoszenia wyników |
 
@@ -55,6 +56,8 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 **Weryfikacja daty.** Datę rozmowy Uczestnik podaje w metryczce (§ 5 ust. 2 lit. d) i odpowiada za jej prawdziwość; podanie daty niezgodnej z prawdą jest podstawą odrzucenia zgłoszenia na każdym etapie, a po przyznaniu nagrody - jej zwrotu. Organizator weryfikuje datę w zakresie, w jakim pozwalają na to środki techniczne: część dostawców modeli udostępnia wraz z rozmową znaczniki czasu poszczególnych wypowiedzi, a część ich nie udostępnia, co nie obciąża Uczestnika i samo w sobie nie jest podstawą odrzucenia. Niezależnie od tego data może zostać sprawdzona podczas rozmowy weryfikacyjnej (§ 8).
 
 **Wąskie przesunięcie terminu wyników.** Organizator może przesunąć dzień ogłoszenia wyników **nie więcej niż o 30 dni**, wyłącznie w celu zakończenia postępowań wszczętych zgodnie z § 6, § 7 ust. 8 albo § 8 ust. 18, w tym umożliwienia kolejnemu Uczestnikowi wejścia na zwolnione miejsce z zachowaniem przysługujących mu terminów. Przesunięcie Organizator ogłasza na stronie Nagrody wraz z uzasadnieniem i nową datą. Przesunięcie z innej przyczyny jest wyłączone.
+
+**Przesunięcie oceny przesuwa także produkcję antologii.** Jeżeli Organizator skorzysta z przesunięcia dnia zamrożenia rundy pierwszej (§ 8 ust. 10 lit. f) albo z przesunięcia dnia ogłoszenia wyników, o którym mowa wyżej, **przesuwa odpowiednio również dzień zamknięcia treści antologii, dzień przekazania jej do produkcji oraz dzień premiery** - tak, aby między zakończeniem oceny i weryfikacji a zamknięciem treści pozostał co najmniej miesiąc. Nowe terminy Organizator ogłasza razem z przesunięciem. Zapis ten istnieje dlatego, że bez niego skorzystanie z przewidzianych w regulaminie procedur awaryjnych prowadziłoby do sytuacji, w której treść antologii trzeba zamknąć przed zakończeniem oceny nowo zakwalifikowanych zgłoszeń.
 
 ## § 5. Forma zgłoszenia
 

@@ -32,7 +32,7 @@ Dlatego plebiscyt na piosenkę, opisany w rozdziale 10, nie jest dodatkiem o inn
 
 - **E-book, bezpłatny - gwarantowany.** Powstaje niezależnie od czyjejkolwiek decyzji poza pozyskaniem finansowania części wydawniczej.
 - **Krótki nakład na galę - gwarantowany przez Organizatora.** Egzemplarze wręczane laureatom i przekazywane Kapitule oraz mediom. Jest to odrębna pozycja kosztorysu, niezależna od partnera wydawniczego, ponieważ druk cyfrowy niewielkiej liczby egzemplarzy nie wymaga ani wydawcy, ani dystrybucji.
-- **Nakład handlowy, płatny - zależny od partnera wydawniczego.** Celem jest, aby książka była dostępna w księgarniach bezpośrednio po gali, co wymaga nie tylko druku, lecz także wejścia do oferty dystrybutora; dystrybucja jest kompetencją partnera, nie Organizatora. Przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
+- **Nakład handlowy, płatny - zależny od partnera wydawniczego.** Celem jest, aby książka była dostępna w księgarniach bezpośrednio po gali, co wymaga nie tylko druku, lecz także wejścia do oferty dystrybutora; dystrybucja jest kompetencją partnera, nie Organizatora. Nakład jest dostarczany do dystrybutora przed galą, natomiast publiczna prezentacja okładki i rozpoczęcie sprzedaży następują w dniu premiery - okładka niesie zwycięski plakat, a regulamin konkursu plakatu zakazuje jej udostępnienia przed galą. Przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
 **Archiwum rozmów.** Publiczny zbiór zgłoszeń **zakwalifikowanych do rundy drugiej**, przeczytanych przed publikacją przez co najmniej dwie osoby oceniające; przy około 150 zgłoszeniach pierwszej edycji to rzędu 25-30 rozmów (regulamin § 11 ust. 11). Archiwum jest publikowane **po ogłoszeniu wyników**, odrębnie od antologii, i pozostaje dostępne na stałe, z możliwością przeglądania według daty, tytułu i autora. **Nie zawiera punktacji ani komentarzy Kapituły** - z archiwum nie wynika, które zgłoszenie oceniono wyżej, a które niżej (§ 11 ust. 11 lit. b). Jest to rozstrzygnięcie świadome: przejrzystość selekcji zapewniają inne, wymienione w regulaminie mechanizmy - publikowane liczby zgłoszeń, odrzuceń z podziałem na podstawy, drugich odczytów i audytu losowego oraz karta oceny z uzasadnieniami wydawana uczestnikowi na żądanie - a nie ranking powstający tylnymi drzwiami z opublikowanych ocen. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Uczestnik, którego rozmowa do archiwum nie weszła, otrzymuje na żądanie sporządzoną przez Organizatora kopię archiwalną i może opublikować ją samodzielnie, ponieważ Organizator nie nabywa wyłączności. Antologia jest wyborem Kapituły i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
@@ -106,7 +106,7 @@ Cztery mechanizmy, wszystkie zapisane w regulaminie:
 - rozmowy weryfikacyjne: luty 2028
 - nabór plakatów: zamknięcie na koniec listopada 2027, ogłoszenie finalistów w połowie grudnia 2027, oryginały do 20 stycznia 2028, oględziny i werdykt na koniec stycznia 2028
 - **zamknięcie treści antologii i przekazanie do produkcji: 29 lutego 2028** - od tego dnia treści nie da się już zmienić
-- druk nakładu i wprowadzenie do dystrybucji: marzec i pierwsza połowa kwietnia 2028
+- druk nakładu i dostarczenie go do dystrybutora: marzec i pierwsza połowa kwietnia 2028; publiczna prezentacja okładki i rozpoczęcie sprzedaży następują dopiero w dniu premiery, ponieważ regulamin konkursu plakatu zakazuje udostępnienia okładki przed galą
 - rozstrzygnięcie, gala i premiera antologii: **druga połowa kwietnia 2028**
 
 Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
@@ -138,7 +138,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 Rozdział ten dotyczy wyłącznie konkursu głównego. Nagrody obu plebiscytów artystycznych są odrębne i opisane w rozdziałach 10 i 10a; nie wchodzą do puli 390 tys. zł i nie są z niej finansowane.
 
-**Trwały produkt:** antologia i archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego konkurs w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w archiwum. Uczestnik może wycofać swoje zgłoszenie z konkursu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść antologii jest już zamknięta, wycofanie nie jest możliwe.
+**Trwały produkt:** antologia i archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego konkurs w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w archiwum. Uczestnik może wycofać swoje zgłoszenie z konkursu nie później niż do dnia zamknięcia treści antologii, to jest do 29 lutego 2028 roku; po tym dniu książka jest drukowana i wprowadzana do dystrybucji, więc wycofanie nie jest możliwe.
 
 ## 9. Finansowanie
 
@@ -181,7 +181,14 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 | Wystawa oryginałów przy gali | wystawa dziesięciu prac finałowych | 2028 | do wyceny | mecenas konkursu plakatu | **tak** |
 | Podcast, dwadzieścia cztery odcinki | bezpłatny materiał edukacyjny | 2027 | do wyceny | sponsor Antologii | nie |
 
-Prośba o wskazanie drogi finansowania dotyczy wyłącznie wierszy oznaczonych „tak". Pozostałe wymieniam, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł. Suma wierszy oznaczonych „tak" wynosi dziś **412 112,00 zł** w pozycjach wycenionych, a cztery pozycje w tej grupie czekają na wycenę.
+Prośba o wskazanie drogi finansowania dotyczy wyłącznie wierszy oznaczonych „tak". Pozostałe wymieniam, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
+
+Suma wierszy oznaczonych „tak" wynosi dziś **412 112,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. **Osiem pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
+
+- w plebiscycie piosenki: honoraria jury za ocenę, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów;
+- w plebiscycie plakatu: honoraria jury za ocenę, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów.
+
+Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach 10 i 10a przy odpowiednich kosztorysach.
 
 ## 10. Plebiscyt na piosenkę i gala
 
