@@ -28,7 +28,7 @@ Zaplecze decyzyjne pisma `mk-pismo.md`. Wyjęte z samego pisma, żeby plik zawie
 
 Pytania są świadomie w dwóch miejscach: w wiadomości jednym wierszem każde, w pismie z uzasadnieniem. Wiadomość bez pytań ryzykuje odpowiedź potwierdzającą zapoznanie się i nic więcej, bo urzędnik nie musi otwierać załącznika, żeby odpisać.
 
-**Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziałach 10 i 10a; w pozycjach rozstrzygniętych wynosi od 152 do 272 tys. zł dla piosenki i hymnu oraz 171 736 zł dla plakatu; w plakacie czekają na wycenę trzy pozycje: realizacja wystawy, obsługa prawna i dojazdy finalistów. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
+**Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziałach 10 i 10a; w pozycjach rozstrzygniętych wynosi od 152 do 272 tys. zł dla piosenki i hymnu oraz 155 496 zł dla plakatu; w plakacie czekają na wycenę cztery pozycje: honoraria jury, realizacja wystawy, obsługa prawna i dojazdy finalistów. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
 
 **Dwie kwoty w kosztorysie są propozycją, nie decyzją:** 3 tys. zł nagrody publiczności dla wykonawcy i 1 tys. zł za najlepsze uzasadnienie wyboru. Potwierdzić przed wysyłką.
 
