@@ -157,7 +157,7 @@ Oceniasz dalej normalnie. Oznaczenie nie przerywa oceny i nie wymaga od Ciebie �
 
 Organizator rozstrzyga co do zgłoszeń oznaczonych przed dniem ogłoszenia wyników i potwierdza rozstrzygnięcie na liście kontrolnej. Możliwe wyniki: brak podstaw i wpis zostaje bez zmian; kontakt z uczestnikiem; ograniczenie prezentacji wskazanego fragmentu; odstąpienie od publikacji kopii w archiwum.
 
-**Samo oznaczenie nie wpływa na punktację.** Ograniczenia publikacji rozstrzyga się w trybie z § 7a regulaminu, a ewentualne odrzucenie zgłoszenia - wyłącznie w trybie z § 6, czyli na podstawach odrzucenia wymienionych w regulaminie, niezależnie od oznaczenia. Oznaczenie może więc doprowadzić do tego, że organizator dostrzeże podstawę odrzucenia, ale nie zastępuje jej i samo w sobie nią nie jest.
+**Samo oznaczenie nie wpływa na punktację.** Ograniczenia publikacji oraz ewentualne odrzucenie zgłoszenia rozstrzyga się w trybie wskazanym w regulaminie danego plebiscytu, a odrzucenie - wyłącznie na wymienionych tam podstawach, niezależnie od oznaczenia. Oznaczenie może więc doprowadzić do tego, że organizator dostrzeże podstawę odrzucenia, ale nie zastępuje jej i samo w sobie nią nie jest.
 
 ## 8. Gdy nie wiesz, czy oznaczyć
 

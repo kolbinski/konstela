@@ -77,19 +77,19 @@ To jest w całej Nagrodzie dane najbardziej wrażliwe dla Uczestnika i dlatego o
 
 **Podstawa.** Wykonanie umowy, którą stanowi przystąpienie do konkursu na warunkach regulaminu (art. 6 ust. 1 lit. b RODO). Nagranie jest warunkiem udziału, a nie przedmiotem odrębnej zgody - z tego samego powodu, dla którego nie opiera się na zgodzie publikacja zgłoszeń: zgoda wymuszona warunkiem udziału nie byłaby dobrowolna w rozumieniu art. 7 ust. 4 RODO. Przy Uczestniku, który nie ukończył 18 lat, zgoda przedstawiciela ustawowego obejmuje przesłanie nagrania wyraźnie i odrębnie (§ 3 ust. 2 regulaminu).
 
-**Nagranie nie jest publikowane.** Nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Dostęp mają wyłącznie Administrator, oceniający i jury, zobowiązani do poufności w umowach. Pokazanie nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, a jej brak nie wpływa na udział w konkursie, na ocenę ani na nagrodę.
+**Nagranie nie jest publikowane.** Nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Administrator udostępnia otrzymany materiał wyłącznie oceniającym i jury, zobowiązanym do poufności w umowach. Jeżeli Uczestnik przekazał nagranie odnośnikiem zamiast pliku, dostęp do niego określają również zasady wybranego serwisu, nad którymi Administrator nie ma kontroli. Pokazanie nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, a jej brak nie wpływa na udział w konkursie, na ocenę ani na nagrodę.
 
 **Twarz na nagraniu nie jest przetwarzana biometrycznie.** Administrator **nie stosuje do nagrań rozpoznawania twarzy ani żadnych innych automatycznych narzędzi identyfikacji**, nie tworzy wzorców biometrycznych i nie porównuje wizerunków między zgłoszeniami. Sprawdzenia dokonuje człowiek, oglądając nagranie. Wizerunek nie jest więc przetwarzany w celu jednoznacznego zidentyfikowania osoby fizycznej w rozumieniu art. 9 ust. 1 RODO.
 
-**Jak długo.** Nagranie przechowywane jest do upływu terminu na zakwestionowanie werdyktu określonego w regulaminie, a następnie usuwane - również u oceniających, których umowy przewidują usunięcie kopii roboczych. Nagranie nie jest przechowywane w archiwum konkursu.
+**Jak długo.** Nagranie przechowywane jest **do upływu 30 dni od dnia gali** (§ 4a ust. 9 regulaminu), a jeżeli przed tym dniem wszczęto postępowanie w trybie spornym - do jego zakończenia i przez 30 dni po nim. Po upływie terminu Administrator usuwa posiadane kopie oraz odnośnik, a oceniający usuwają kopie robocze zgodnie z zawartymi z nimi umowami. Nagranie pozostające na koncie Uczestnika w serwisie wideo pozostaje pod jego kontrolą i Administrator go nie usuwa. Nagranie nie jest przechowywane w archiwum konkursu.
 
 **Pseudonim działa nadal.** Twarz na nagraniu nie odbiera możliwości zgłoszenia pracy pod pseudonimem: nagranie nie jest publikowane, a publicznie zgłoszenie jest podpisane tak, jak Uczestnik wskazał.
 
 ### Oryginały prac finałowych
 
-Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane publicznie - na wystawie przy gali i na wernisażu w galerii sztuki. Wymaga to przekazania danych adresowych firmie przewozowej, ubezpieczycielowi oraz galerii, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji. Podstawą jest wykonanie umowy (art. 6 ust. 1 lit. b RODO) oraz prawnie uzasadniony interes w zabezpieczeniu powierzonych prac (art. 6 ust. 1 lit. f RODO).
+Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane publicznie - na wystawie przy gali i na wystawie w galerii sztuki, otwieranej wernisażem. Wymaga to przekazania danych adresowych firmie przewozowej, ubezpieczycielowi oraz galerii, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji. Podstawą jest wykonanie umowy (art. 6 ust. 1 lit. b RODO) oraz prawnie uzasadniony interes w zabezpieczeniu powierzonych prac (art. 6 ust. 1 lit. f RODO).
 
-**Co jest publikowane.** Reprodukcja pracy, tytuł, podpis, technika i rok edycji - w Galerii, a następnie w archiwum. Przy pracy zwycięskiej, za odrębną zgodą autora, reprodukcja na okładce antologii i w materiałach informacyjnych edycji.
+**Co jest publikowane.** Reprodukcja pracy, tytuł, podpis, technika i wymiary oryginału - w Galerii, a następnie w archiwum, gdzie dochodzi do nich rok edycji. Przy pracy zwycięskiej, za odrębną zgodą autora, reprodukcja na okładce antologii i w materiałach informacyjnych edycji.
 
 ## 7. Zgłoszenie filmu w plebiscycie na film
 

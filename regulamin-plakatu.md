@@ -10,7 +10,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 2. Organizator nie pobiera od Uczestników żadnych opłat. Udział jest bezpłatny na każdym etapie, a Organizator pokrywa koszty przesłania i zwrotu oryginałów prac finałowych.
 
-3. Środki na nagrody pieniężne, na wystawę i na transport prac pochodzą od sponsora konkursu. Organizator nie finansuje konkursu ze środków własnych.
+3. Środki na nagrody pieniężne, na wystawę i na transport prac pochodzą od sponsora konkursu.
 
 4. Adresem do korespondencji w sprawach konkursu jest kontakt@konstela.org.
 
@@ -46,7 +46,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    a) reprodukcję pracy - plik JPG albo PNG, cała praca w kadrze, krótszy bok nie mniejszy niż 2000 pikseli, objętość do 15 MB;
 
-   b) **nagranie z powstawania pracy, trwające co najmniej 5 minut** - obowiązkowe, na zasadach z § 4a. Nagranie ma jednoznacznie wykazywać, że pracę wykonuje Uczestnik;
+   b) **nagranie z powstawania pracy, trwające co najmniej 5 minut** - obowiązkowe, na zasadach z § 4a. Nagranie ma pozwolić powiązać Uczestnika z wykonywaniem pracy;
 
    b1) **pozostałe posiadane materiały dokumentujące powstawanie pracy** - fotografie etapów, szkice, próby - nieobowiązkowe. Uczestnik dołącza to, czym dysponuje; brak materiałów tego rodzaju nie stanowi samodzielnej podstawy odrzucenia zgłoszenia;
 
@@ -70,35 +70,35 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 4a. Nagranie z powstawania pracy
 
-1. **Nagranie jest obowiązkowym elementem zgłoszenia.** Jego sens jest jeden: ma jednoznacznie wykazać, że pracę wykonuje ręką Uczestnik. Konkurs stawia wymóg wykonania ręcznego (§ 6), a bez nagrania wymóg ten opierałby się wyłącznie na oświadczeniu.
+1. **Nagranie jest obowiązkowym elementem zgłoszenia.** Służy powiązaniu Uczestnika z wykonywaniem pracy, którego ręcznego charakteru wymaga § 6.
 
-2. Nagranie przekazuje się jako **odnośnik do nagrania w serwisie wideo**; nagranie może być niepubliczne, dostępne tylko pod odnośnikiem, i musi być dostępne do dnia gali. Uczestnik, który nie dysponuje kontem w takim serwisie, przesyła plik drogą wskazaną przez Organizatora.
+2. Nagranie przekazuje się **w postaci pliku, drogą wskazaną przez Organizatora, albo jako odnośnik do nagrania w serwisie wideo**; wybór należy do Uczestnika. Nagranie przekazane odnośnikiem może być niepubliczne i musi być dostępne do dnia gali. Przy przekazaniu odnośnikiem dostęp do nagrania określają również zasady wybranego serwisu, nad którymi Organizator nie ma kontroli.
 
 3. Nagranie trwa **co najmniej 5 minut** i spełnia następujące warunki:
 
    a) może składać się z kilku fragmentów, ale każdy z nich trwa nie krócej niż 60 sekund i nie zawiera cięcia w obrębie kadru;
 
-   b) łączny czas liczony jest wyłącznie z fragmentów nagranych w czasie rzeczywistym. Nagranie przyspieszone jest dopuszczalnym dodatkiem, lecz nie wlicza się do wymaganych 5 minut, ponieważ nie pozwala stwierdzić, czyja ręka pracuje;
+   b) łączny czas liczony jest wyłącznie z fragmentów nagranych w czasie rzeczywistym. Nagranie przyspieszone jest dopuszczalnym dodatkiem, lecz nie wlicza się do wymaganych 5 minut;
 
-   c) w kadrze widoczna jest jednocześnie **praca i ręka pracującego nad nią** wraz z narzędziem;
+   c) fragmenty dokumentujące wykonywanie pracy pokazują w kadrze jednocześnie **pracę i rękę pracującego nad nią** wraz z narzędziem; wymóg ten nie dotyczy samego przejścia kadru określonego w lit. c1;
 
    c1) **twarz Uczestnika jest w nagraniu widoczna**, a co najmniej jeden fragment zawiera **nieprzerwane przejście kadru od twarzy Uczestnika do pracy**, bez cięcia i bez przerwy w nagraniu, w sposób pozwalający stwierdzić, że osoba, której twarz widać, jest osobą pracującą nad plakatem. Przejście może prowadzić w obie strony i może zostać wykonane dowolnie: obrotem telefonu, odsunięciem kamery albo wejściem Uczestnika w kadr i pochyleniem się nad pracą;
 
    d) fragmenty pokazują pracę na **co najmniej dwóch różnych etapach**, w tym etap zaawansowany, na którym praca jest już rozpoznawalna jako ta sama, którą przedstawia reprodukcja z § 4 ust. 2 lit. a.
 
-4. **Czego nagranie nie musi zawierać.** Nie musi zawierać głosu Uczestnika, nie musi obejmować całego czasu powstawania pracy, nie musi być zmontowane, opatrzone dźwiękiem ani nagrane profesjonalnym sprzętem. Nagranie telefonem opartym o cokolwiek spełnia ten wymóg, o ile spełnia warunki z ust. 3.
+4. **Czego nagranie nie musi zawierać.** Nie musi zawierać głosu Uczestnika, nie musi obejmować całego czasu powstawania pracy, nie musi być zmontowane, opatrzone dźwiękiem ani nagrane profesjonalnym sprzętem. Nie wymaga się profesjonalnego sprzętu; wystarczające jest każde nagranie spełniające warunki z ust. 3.
 
 4a. **Twarz w nagraniu a podpis zgłoszenia.** Wymóg z ust. 3 lit. c1 nie odbiera Uczestnikowi możliwości zgłoszenia pracy pod pseudonimem (§ 4 ust. 2 lit. c). Nagranie nie jest publikowane (ust. 6), więc twarz Uczestnika widzą wyłącznie Organizator, oceniający i jury; publicznie zgłoszenie podpisane jest tak, jak Uczestnik wskazał.
 
 5. **Nagranie nie podlega ocenie w żadnym kryterium z § 7.** Jury ocenia plakat, nie film z jego powstawania; jakość nagrania, jego długość ponad wymagane minimum i sposób zmontowania nie mają na ocenę żadnego wpływu.
 
-6. **Nagranie nie jest publikowane.** Służy wyłącznie ocenie formalnej i weryfikacji z § 6 ust. 6, dostępne jest wyłącznie dla Organizatora, oceniających oraz jury, i nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Prezentacja nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, której brak nie wpływa na udział w konkursie, na ocenę ani na nagrodę.
+6. **Nagranie nie jest publikowane.** Służy wyłącznie ocenie formalnej i weryfikacji z § 6 ust. 6. Organizator nie publikuje nagrania i udostępnia otrzymany materiał wyłącznie oceniającym oraz jury; nagranie nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Prezentacja nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, której brak nie wpływa na udział w konkursie, na ocenę ani na nagrodę.
 
 7. Jeżeli w nagraniu widoczne są osoby trzecie, Uczestnik odpowiada za ich zgodę na utrwalenie wizerunku w zakresie z ust. 6. Nagranie, na którym widoczne są dane osobowe osób trzecich albo wnętrze niebędące miejscem pracy Uczestnika, nie jest z tego powodu wadliwe; Uczestnik może je przed przesłaniem przyciąć albo zasłonić te fragmenty, o ile nie narusza to ust. 3. Zasłonięcie albo wycięcie własnej twarzy narusza ust. 3 lit. c1 i czyni nagranie niespełniającym wymogu.
 
 8. Przy pracy wykonanej wspólnie nagranie obejmuje pracę współautorów w zakresie pozwalającym stwierdzić, że pracę wykonał zgłoszony skład, a przejście z ust. 3 lit. c1 wykonuje się dla każdego ze współautorów, którego praca jest w nagraniu widoczna.
 
-9. Nagranie przechowywane jest do upływu terminu z § 15, a następnie usuwane. Zasady jego przetwarzania opisuje polityka prywatności.
+9. Nagranie przechowywane jest **do upływu 30 dni od dnia gali**, a następnie usuwane. Jeżeli przed upływem tego terminu wszczęto postępowanie z § 15, nagranie zgłoszenia, którego postępowanie dotyczy, przechowywane jest do jego zakończenia i usuwane w terminie 30 dni od tej chwili. Po upływie terminu Organizator usuwa posiadane kopie oraz odnośnik, a oceniający usuwają kopie robocze zgodnie z zawartymi z nimi umowami; nagranie pozostające na koncie Uczestnika w serwisie wideo pozostaje pod jego kontrolą. Zasady przetwarzania nagrania opisuje polityka prywatności.
 
 ## § 5. Wymogi formalne
 
@@ -116,7 +116,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    d) oryginał nie ma formatu pionowego, jego dłuższy bok jest krótszy niż 50 cm albo dłuższy niż 150 cm, albo proporcje boków wykraczają poza zakres od 1:1,2 do 1:1,6;
 
-   e) praca była wcześniej publikowana w wydawnictwie, prezentowana na wystawie albo nagrodzona w innym konkursie; udostępnienie na własnym profilu Uczestnika nie jest publikacją w tym rozumieniu i nie wyłącza zgłoszenia;
+   e) praca była **przed dniem złożenia zgłoszenia** publikowana w wydawnictwie, prezentowana na wystawie albo nagrodzona w innym konkursie; warunek ten bada się według stanu na dzień złożenia zgłoszenia, a późniejsza prezentacja pracy przez Uczestnika nie wyłącza zgłoszenia z konkursu; udostępnienie na własnym profilu Uczestnika nie jest publikacją w tym rozumieniu i nie wyłącza zgłoszenia;
 
    f) reprodukcja nie spełnia wymogów technicznych z § 4 ust. 2 lit. a albo nie pozwala ocenić pracy;
 
@@ -130,7 +130,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 1. Praca powstaje **pod ręką człowieka**, techniką tradycyjną: malarską, rysunkową, graficzną, kolażową lub pokrewną.
 
-2. Niedopuszczalne jest wykorzystanie obrazu wygenerowanego narzędziem sztucznej inteligencji jako bezpośredniego wzorca całej pracy albo jej istotnego elementu - przez kalkowanie, przerysowanie, przemalowanie albo odtworzenie charakterystycznego układu elementów - a także domalowanie na wydrukowanym podkładzie pochodzącym z takiego narzędzia. **Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.**
+2. Niedopuszczalne jest wykorzystanie obrazu wygenerowanego narzędziem sztucznej inteligencji jako bezpośredniego wzorca całej pracy albo jej istotnego elementu - przez kalkowanie, przerysowanie, przemalowanie albo odtworzenie rozpoznawalnego rozwiązania obrazowego, w tym charakterystycznej kompozycji - a także domalowanie na wydrukowanym podkładzie pochodzącym z takiego narzędzia. **Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.**
 
 3. Dozwolone i niewymagające deklaracji jest korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy.
 
@@ -144,15 +144,17 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 7. Kryteria oceny
 
-1. Prace ocenia się według czterech kryteriów, każdego osobno, w skali stu punktów:
+1. Prace ocenia się według czterech kryteriów, **łącznie do 100 punktów, w podziale wskazanym w tabeli**:
 
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
-| Ujęcie tematu | 30 | **Co praca mówi** o życiu ze sztuczną inteligencją: trafność, oryginalność i pogłębienie wypowiedzi. Oceniane jest banalne użycie motywu, nie sam motyw - znany symbol użyty świeżo punktuje wysoko |
-| Pomysł plastyczny | 30 | **Jak to pokazuje**: przełożenie wypowiedzi na obraz, metaforę i relacje między elementami |
+| Ujęcie tematu | 30 | **Co praca mówi** o życiu ze sztuczną inteligencją: trafność, oryginalność i pogłębienie wypowiedzi |
+| Pomysł plastyczny | 30 | **Jak to pokazuje**: przełożenie wypowiedzi na obraz, metaforę i relacje między elementami. Oceniane jest banalne użycie motywu, nie sam motyw - znany symbol użyty świeżo punktuje wysoko |
 | Wykonanie | 20 | Świadome zastosowanie techniki, koloru i rysunku |
 | Działanie plakatu | 20 | Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w pomniejszeniu |
 | Razem | 100 | |
+
+1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 8 ust. 5 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez Akademię plakatu (§ 8 ust. 4f). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
 
 2. Karta oceny jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
@@ -168,7 +170,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Członkowie Akademii plakatu, jeżeli zostanie powołana, otrzymują wynagrodzenie na zasadach ogłoszonych wraz z progiem jej powołania.
 
-4. Jury ocenia wszystkie zgłoszenia, które przeszły ocenę formalną, i wybiera **dziesięciu finalistów**.
+4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły ocenę formalną, albo spośród listy zakwalifikowanej przez Akademię plakatu (ust. 4f) - zależnie od trybu ogłoszonego przed otwarciem naboru.
 
 4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
 
@@ -178,13 +180,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 4d. **Publiczne ogłoszenie werdyktu następuje podczas gali**, razem z premierą antologii.
 
-4e. Z konieczności opisanej w ust. 4c **nabór w konkursie plakatu zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela**. Terminy obu naborów Organizator ogłasza przed otwarciem konkursu.
+4e. **Nabór w konkursie plakatu zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela.** Terminy obu naborów Organizator ogłasza przed otwarciem konkursu.
 
 4f. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza **Akademia plakatu** - grono praktyków plakatu, ilustracji i projektowania graficznego, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 7, bez stosowania jakichkolwiek innych kryteriów. Wybór dziesięciu finalistów i pełny werdykt pozostają przy jury.
 
 4g. Próg powołania Akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
 
-4h. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże w pracy podobiznę rozpoznawalnej osoby trzeciej, przejęty cudzy obraz, znak albo postać, albo jeżeli nagranie z § 4a nie przekonuje go, że pracę wykonuje Uczestnik. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Galerii; rozstrzyga Organizator, w trybie z § 11. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny, i nie ustala, czy Uczestnik ma uprawnienie do wykorzystania materiału. Oznaczenie nietrafne nie pozostawia publicznego śladu.
+4h. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże w pracy podobiznę rozpoznawalnej osoby trzeciej, przejęty cudzy obraz, znak albo postać, albo jeżeli nagranie z § 4a nie przekonuje go, że pracę wykonuje Uczestnik. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Galerii; rozstrzyga Organizator, w trybie z § 15 ust. 1a. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny, i nie ustala, czy Uczestnik ma uprawnienie do wykorzystania materiału. Oznaczenie nietrafne nie pozostawia publicznego śladu.
 
 5. Członek jury oraz członek Akademii wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
@@ -198,13 +200,15 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    b) nagroda publiczności;
 
-   c) **mosiężny medalion Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich dziesięciu finalistów. Medalion jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
+   c) **mosiężny medalion Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich dziesięciu finalistów;
 
    d) wykorzystanie pracy zwycięskiej jako okładki antologii danej edycji.
 
-2. Wysokość nagród pieniężnych Organizator ogłasza w załączniku do niniejszego regulaminu, w dniu otwarcia naboru. Organizator ogłasza wyłącznie te kwoty, które wpłynęły wcześniej na jego rachunek.
+2. **Wysokość nagród pieniężnych zależy od środków pozyskanych od sponsorów.** Organizator ogłasza ją na stronie Nagrody w dniu otwarcia naboru, wraz z listą partnerów edycji, i od tej chwili jest nią związany. Ogłasza wyłącznie te kwoty, które wpłynęły wcześniej na jego rachunek.
 
-3. Nagrody pieniężne podlegają zryczałtowanemu podatkowi dochodowemu na podstawie art. 30 ust. 1 pkt 2 ustawy o podatku dochodowym od osób fizycznych. Płatnikiem podatku jest Organizator; sposób rozliczenia wskazuje załącznik, o którym mowa w ust. 2.
+2a. Po ogłoszeniu wysokość nagród może zostać wyłącznie podwyższona. Obniżenie puli albo odwołanie nagród pieniężnych po otwarciu naboru jest wyłączone.
+
+3. Od nagród pieniężnych pobierany jest zryczałtowany podatek dochodowy w wysokości 10% wartości nagrody (art. 30 ust. 1 pkt 2 ustawy o podatku dochodowym od osób fizycznych). Płatnikiem podatku jest Organizator.
 
 3a. Nagrody pieniężne wypłacane są przelewem w terminie **30 dni od dnia gali**, na rachunek wskazany przez laureata.
 
@@ -218,13 +222,15 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 10. Oryginały prac finałowych
 
-1. Dziesięciu finalistów przesyła oryginały prac na oględziny, na wystawę towarzyszącą gali oraz na **wernisaż w galerii sztuki**, o którym mowa w ust. 3a. Organizator pokrywa koszty przesyłki w obie strony, przewozu między miejscem gali a galerią oraz ubezpieczenia na czas transportu i obu wystaw.
+1. Dziesięciu finalistów przesyła oryginały prac na oględziny, na wystawę towarzyszącą gali oraz na **wystawę w galerii sztuki, otwieraną wernisażem**, o której mowa w ust. 3a. Organizator pokrywa koszty przesyłki w obie strony, przewozu między miejscem gali a galerią oraz **ubezpieczenia obejmującego czas transportu, obu wystaw i przechowywania pracy między nimi** - to jest cały czas, w którym praca pozostaje u Organizatora.
 
-2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz termin, **nie krótszy niż 21 dni od zawiadomienia o zakwalifikowaniu do finału** (§ 8 ust. 4a). Oryginały muszą dotrzeć przed galą, ponieważ to na niej są wystawiane, a oględziny poprzedzają ustalenie kolejności.
+1a. Organizator zapewnia finaliście opakowanie przystosowane do wymiarów i techniki pracy albo pokrywa jego koszt na podstawie przedstawionego rachunku. Uczestnik nie ponosi kosztów opakowania, przewozu ani ubezpieczenia na żadnym etapie.
 
-3. Prace wracają do autorów w terminie **30 dni od zakończenia ostatniej z wystaw**, o których mowa w ust. 1, z wyjątkiem prac przekazanych na licytację zgodnie z § 14.
+2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz **okno dostarczenia oryginałów - dzień początkowy i dzień końcowy**, obejmujące nie mniej niż 21 dni i ogłaszane razem z listą finalistów (§ 8 ust. 4a). Okno wyznacza się tak, aby termin z ust. 3a nie upłynął przed zakończeniem wystawy towarzyszącej gali. Oryginał dostarczony przed dniem początkowym Organizator przyjmuje, lecz termin z ust. 3a biegnie wówczas od dnia początkowego okna.
 
-3a. **Wernisaż w galerii sztuki.** Oryginały prac finałowych są pokazywane publicznie na wernisażu w galerii sztuki, otwartym dla publiczności, **po gali** - to jest po publicznym ogłoszeniu werdyktu, tak aby prace mogły być opisane wraz z zajętymi miejscami. Termin i miejsce wernisażu Organizator ogłasza najpóźniej w dniu gali. Łączny czas, w którym Organizator dysponuje oryginałem, nie przekracza **120 dni od dnia jego dostarczenia**; po upływie tego terminu praca wraca do autora niezależnie od stanu przygotowań do wernisażu. Finalista może nie wyrazić zgody na udział swojej pracy w wernisażu, zachowując udział w wystawie przy gali, nagrodę i miejsce w werdykcie; w takim wypadku jego praca wraca do niego w terminie z ust. 3, liczonym od zakończenia wystawy przy gali.
+3. Organizator **nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru w terminie 30 dni od zakończenia ostatniej z wystaw**, o których mowa w ust. 1, nie później jednak niż w dniu upływu terminu z ust. 3a. Terminu doręczenia przesyłki Organizator nie wyznacza, ponieważ zależy on od przewoźnika. Wyjątkiem są prace przekazane na licytację zgodnie z § 14.
+
+3a. **Wystawa w galerii sztuki.** Oryginały prac finałowych są pokazywane publicznie na wystawie w galerii sztuki, otwieranej wernisażem i dostępnej dla publiczności, **po gali** - to jest po publicznym ogłoszeniu werdyktu, tak aby prace mogły być opisane wraz z zajętymi miejscami. Termin wernisażu, termin zakończenia wystawy oraz miejsce Organizator ogłasza najpóźniej w dniu gali; są to trzy odrębne terminy. Łączny czas, w którym Organizator dysponuje oryginałem, nie przekracza **150 dni, liczonych zgodnie z ust. 2**; po upływie tego terminu praca wraca do autora niezależnie od stanu wystawy w galerii. Finalista może nie wyrazić zgody na udział swojej pracy w tej wystawie, zachowując udział w wystawie przy gali, nagrodę i miejsce w werdykcie; w takim wypadku jego praca wraca do niego w terminie z ust. 3, liczonym od zakończenia wystawy przy gali.
 
 4. Finalista, który nie wyraża zgody na przesłanie oryginału, nie traci z tego powodu nagrody pieniężnej ani miejsca w werdykcie. **Odmowa nie obniża punktacji: jury ocenia wówczas pracę na podstawie reprodukcji i dostępnych materiałów** (§ 8 ust. 4b). Praca jest prezentowana na wystawie w postaci reprodukcji.
 
@@ -264,11 +270,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    c) prezentacja oryginału pracy na wystawie towarzyszącej gali oraz jego utrwalenie w zapisie wideo gali;
 
+   c1) prezentacja oryginału pracy na wystawie w galerii sztuki (§ 10 ust. 3a) oraz jej dokumentacja fotograficzna i filmowa. **Zakres ten nie jest warunkiem udziału i obejmuje wyłącznie finalistów, którzy wyrazili zgodę na udział pracy w tej wystawie;**
+
    d) w odniesieniu do pracy zwycięskiej - reprodukcja na okładce antologii danej edycji, w jej wydaniu elektronicznym i drukowanym, oraz w materiałach informacyjnych tej edycji. **Zakres ten nie jest warunkiem udziału i wymaga odrębnej zgody, o której mowa w § 9 ust. 4.**
 
-3. Czas trwania licencji: w zakresie lit. a - do dnia ogłoszenia werdyktu; w zakresie lit. b - bezterminowo, z zastrzeżeniem § 11 ust. 4; w zakresie lit. c - bezterminowo w odniesieniu do zapisu gali; w zakresie lit. d - bezterminowo, w granicach nakładu i wznowień antologii danej edycji.
+3. Czas trwania licencji: w zakresie lit. a - do dnia ogłoszenia werdyktu; w zakresie lit. b - bezterminowo, z zastrzeżeniem § 11 ust. 4; w zakresie lit. c - bezterminowo w odniesieniu do zapisu gali; w zakresie lit. c1 - do dnia zakończenia wystawy w galerii, a bezterminowo w odniesieniu do jej dokumentacji; w zakresie lit. d - bezterminowo, w granicach nakładu i wznowień antologii danej edycji.
 
-4. **Warunkiem udziału w konkursie jest udzielenie licencji w zakresie ust. 2 lit. a i b**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), a zakres lit. d wymaga odrębnej zgody. Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
+4. **Warunkiem udziału w konkursie jest udzielenie licencji w zakresie ust. 2 lit. a i b**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), zakres lit. c1 - wyłącznie finalistów, którzy zgodzili się na udział pracy w wystawie w galerii, a zakres lit. d wymaga odrębnej zgody. Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
 
 5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do pracy w zakresie pozwalającym na udzielenie licencji określonej w ust. 2 oraz że praca nie narusza praw osób trzecich.
 
@@ -288,13 +296,27 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 5. Organizator rozlicza się z autorem w terminie 30 dni od otrzymania zapłaty od nabywcy. Obowiązki podatkowe po stronie autora w zakresie jego części przychodu obciążają autora.
 
-6. Praca, która nie znalazła nabywcy, wraca do autora na zasadach z § 10 ust. 3.
+6. Praca, która nie znalazła nabywcy, wraca do autora na zasadach z § 10 ust. 3. Jeżeli licytacja zakończyła się po terminie wskazanym w § 10 ust. 3, Organizator nadaje przesyłkę zwrotną w terminie 30 dni od jej zakończenia.
+
+6a. Jeżeli nabywca nie zapłaci ceny w terminie wskazanym w warunkach z ust. 2, Organizator zawiadamia o tym autora, a praca wraca do niego w terminie z ust. 6. Praca sprzedana, lecz nieodebrana przez nabywcę, przechowywana jest przez Organizatora nie dłużej niż 60 dni od dnia zapłaty; po upływie tego terminu Organizator zawiadamia autora i nabywcę o sposobie i miejscu jej odbioru.
 
 7. Sposób przeprowadzenia licytacji, w tym ewentualny udział serwisu aukcyjnego, Organizator ogłasza przed otwarciem naboru.
 
 ## § 15. Skutki nieprawdziwego oświadczenia i tryb sporny
 
 1. Zastrzeżenie co do autorstwa pracy albo co do jej ręcznego wykonania może zgłosić każdy, w terminie do dnia ogłoszenia werdyktu, na adres wskazany w § 1 ust. 4, wskazując zgłoszenie i opisując podstawę.
+
+1a. **Zastrzeżenie oznaczone przez oceniającego** (§ 8 ust. 4h) rozpoznaje Organizator, stosując ust. 2-4 i 6 oraz następujące zasady:
+
+   a) Organizator zawiadamia Uczestnika o treści zastrzeżenia i wyznacza mu termin 14 dni na wyjaśnienia;
+
+   b) do zakończenia postępowania zgłoszenie pozostaje w konkursie, a jego punktacja nie ulega zmianie;
+
+   c) jeżeli zastrzeżenie okaże się zasadne, Organizator może ograniczyć prezentację zgłoszenia w Galerii albo odstąpić od jego prezentacji w archiwum (§ 11);
+
+   d) odrzucenie zgłoszenia możliwe jest wyłącznie na podstawach z § 5 ust. 2 albo na podstawie ust. 5 niniejszego paragrafu; samo oznaczenie podstawy nie stanowi;
+
+   e) rozstrzygnięcie Organizator doręcza Uczestnikowi pocztą elektroniczną, z uzasadnieniem.
 
 2. Organizator zwraca się do Uczestnika o ustosunkowanie się do zastrzeżenia w terminie 14 dni. Zgłoszenie pozostaje w konkursie do czasu zakończenia postępowania.
 
@@ -344,8 +366,11 @@ Lista wskazuje konkretne jednostki redakcyjne, nie obszary - tak samo jak przy r
 6. **§ 10** - odpowiedzialność Organizatora za powierzony oryginał: zakres ubezpieczenia, podstawa odpowiedzialności przy uszkodzeniu lub utracie, a także to, czy potrzebna jest odrębna umowa przechowania z każdym finalistą.
 7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** - zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.
 8. **§ 13 ust. 6** - skuteczność zastrzeżenia, że zbycie oryginału nie wpływa na udzieloną licencję, wobec nabywcy, który nie jest stroną regulaminu.
-9. **§ 14** - **najcięższy punkt tej listy.** Czy licytacja prowadzona przez fundację na rzecz osoby prywatnej, z podziałem przychodu, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; jakie są obowiązki podatkowe po obu stronach; oraz czy przeprowadzenie licytacji w serwisie aukcyjnym w programie dla organizacji dopuszcza podział przychodu z osobą prywatną, czy zakłada przekazanie całości na cel.
+9. **§ 14** - **najcięższy punkt tej listy.** Czy licytacja prowadzona przez fundację na rzecz osoby prywatnej, z podziałem przychodu, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; jakie są obowiązki podatkowe po obu stronach; oraz czy przeprowadzenie licytacji w serwisie aukcyjnym w programie dla organizacji dopuszcza podział przychodu z osobą prywatną, czy zakłada przekazanie całości na cel. Odrębnie prosimy o ocenę **ust. 6 i 6a** - zwrotu pracy niesprzedanej po zakończeniu wystaw oraz postępowania z pracą sprzedaną, lecz nieopłaconą albo nieodebraną przez nabywcę, w tym granic przechowywania jej przez Organizatora.
 9a. **§ 8 ust. 4c-4d** - werdykt zapada przed galą, a laureaci zachowują go w poufności do publicznego ogłoszenia, ponieważ antologia z okładką musi zdążyć do druku. Prosimy o wskazanie, czy przy przyrzeczeniu publicznym dopuszczalne jest odroczenie ogłoszenia wyniku względem jego ustalenia i jak zapisać obowiązek poufności, żeby jego naruszenie nie pozbawiało laureata nagrody.
+
+9b. **§ 15 ust. 1a** - tryb rozpoznania zastrzeżenia oznaczonego przez oceniającego: czy wystarcza zawiadomienie, 14 dni na wyjaśnienia i rozstrzygnięcie Organizatora z uzasadnieniem, czy wobec konsumenta potrzebna jest droga odwoławcza, skoro § 8 ust. 6 czyni werdykt ostatecznym.
+9c. **§ 10 ust. 1-3a** - ubezpieczenie i odpowiedzialność za cały czas, w którym praca pozostaje u Organizatora, w tym za kilkumiesięczne przechowywanie między przyjęciem pracy i wystawami; termin nadania przesyłki zwrotnej zamiast terminu doręczenia; limit 150 dni dysponowania oryginałem liczony od dnia początkowego okna dostarczenia oraz obowiązek zapewnienia opakowania.
 
 10. **§ 16 ust. 1** - progi nierozstrzygnięcia edycji przyjęte bez podstawy prawnej.
 11. **§ 18 ust. 2-3** - przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
