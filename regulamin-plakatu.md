@@ -226,7 +226,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 1a. Organizator zapewnia finaliście opakowanie przystosowane do wymiarów i techniki pracy albo pokrywa jego koszt na podstawie przedstawionego rachunku. Uczestnik nie ponosi kosztów opakowania, przewozu ani ubezpieczenia na żadnym etapie.
 
-2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz **okno dostarczenia oryginałów - dzień początkowy i dzień końcowy**, obejmujące nie mniej niż 21 dni i ogłaszane razem z listą finalistów (§ 8 ust. 4a). **Organizator nie przyjmuje oryginałów przed dniem początkowym okna**, a termin z ust. 3a biegnie od dnia rzeczywistego odbioru pracy.
+2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz **okno dostarczenia oryginałów - dzień początkowy i dzień końcowy**, obejmujące nie mniej niż 21 dni i ogłaszane razem z listą finalistów (§ 8 ust. 4a). **Organizator nie przyjmuje oryginałów przed dniem początkowym okna**, a termin z ust. 3b biegnie od dnia rzeczywistego odbioru pracy.
 
 3. Organizator **nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru w terminie 30 dni od zakończenia wystawy towarzyszącej gali**. Terminu doręczenia przesyłki Organizator nie wyznacza, ponieważ zależy on od przewoźnika. Wyjątkiem są prace objęte propozycją z ust. 3a oraz prace przekazane na licytację zgodnie z § 14; w obu wypadkach termin zwrotu wynika z warunków przyjętych przez autora.
 
@@ -300,7 +300,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 5. Organizator rozlicza się z autorem w terminie 30 dni od otrzymania zapłaty od nabywcy. Obowiązki podatkowe po stronie autora w zakresie jego części przychodu obciążają autora.
 
-6. Praca, która nie znalazła nabywcy, wraca do autora: Organizator **nadaje przesyłkę zwrotną w terminie 30 dni od zakończenia licytacji**, a jeżeli termin z § 10 ust. 3 przypada później - w tym późniejszym terminie.
+6. Praca, która nie znalazła nabywcy, wraca do autora: Organizator **nadaje przesyłkę zwrotną w terminie 30 dni od zakończenia licytacji albo od zakończenia wystawy, jeżeli praca pozostaje na niej za zgodą autora** - zależnie od tego, które zdarzenie nastąpi później.
 
 6a. **Praca nieopłacona.** Jeżeli nabywca nie zapłaci ceny w terminie wskazanym w warunkach z ust. 2, Organizator zawiadamia o tym autora i **nadaje przesyłkę zwrotną w terminie 30 dni od bezskutecznego upływu terminu zapłaty**. Termin ten biegnie niezależnie od terminu z ust. 6 i od tego, czy wcześniej upłynął.
 
