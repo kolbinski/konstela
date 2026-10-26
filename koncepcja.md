@@ -798,6 +798,8 @@ Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał
 
 **Termin wycofania zgłoszenia przestał być liczony od ogłoszenia wyników.** § 11 ust. 6 regulaminu wiąże go teraz z dniem zamknięcia treści antologii, czyli 29 lutego 2028, i wyjaśnia dlaczego: od tego dnia książka jest drukowana i wprowadzana do dystrybucji. Przy terminie liczonym wstecz od gali uczestnik mógłby wycofać zgłoszenie po wydrukowaniu nakładu.
 
+**Dorobek edycji to cztery zbiory, nie jeden (26.10.2026).** Antologia i archiwum rozmów, playlista i płyta z nagraniami finalistów plebiscytu piosenki, galeria i archiwum plakatów, a po dojściu plebiscytu filmu także jego archiwum. Wszystkie bezpłatne i zostające na stałe. Na stronie głównej sekcja nazywa się przez to „Co zostaje po edycji", a nie „Antologia i archiwum rozmów" - przy czterech plebiscytach stara nazwa opisywała jedną czwartą dorobku. Spoiwem jest antologia: niesie okładkę ze zwycięskiego plakatu, a płyta jest jej odpowiednikiem w dźwięku.
+
 **Trzy poziomy druku antologii, zamiast jednego statusu.** E-book bezpłatny - gwarantowany. Krótki nakład na galę, wręczany laureatom i przekazywany Kapitule oraz mediom - gwarantowany przez Organizatora, odrębna pozycja kosztorysu, niezależna od wydawcy, bo druk cyfrowy kilkudziesięciu egzemplarzy nie wymaga ani wydawcy, ani dystrybucji. Nakład handlowy - zależny od partnera wydawniczego, z celem dostępności w księgarniach bezpośrednio po gali. Do rozstrzygnięcia została liczba egzemplarzy nakładu galowego, bo od niej zależy wycena.
 
 **Konsekwencja, która zmienia kolejność rozmów: partner wydawniczy wchodzi na ścieżkę krytyczną.** Do tej pory był warunkowy - bez niego powstawał e-book i nakład galowy, z nim dodatkowo wydanie handlowe. Jeżeli książka ma być w księgarniach nazajutrz po gali, bez partnera ten element gali nie istnieje, a termin graniczny na jego pozyskanie wypada jesienią 2027, nie w 2028.
@@ -845,7 +847,8 @@ Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie r
   - **Limit długości: 1,5 godziny.**
   - **Pula nagród: 100, 50 i 30 tys. zł.**
   - **Jury: Krzysiek znajduje skład.**
-  - Do rozstrzygnięcia przy pisaniu: pozycje budżetu poza nagrodami, próg i tryb Akademii filmu, sposób pokazania zwycięskiego filmu na gali, zakres dla kancelarii (trzeci regulamin do wyceny, nie drugi).
+  - **Na gali pięć najwyżej ocenionych filmów dostaje minutową emisję**, na wzór gali Oscarów (decyzja z 26.10.2026). Rozwiązuje to problem, który przy limicie 1,5 godziny wydawał się nierozwiązywalny: całego filmu nie da się pokazać wieczorem, który rozstrzyga kilka plebiscytów, a minutowy fragment pokazuje pięć prac zamiast jednej i działa jak zwiastun dla pełnego pokazu.
+  - Do rozstrzygnięcia przy pisaniu: pozycje budżetu poza nagrodami, próg i tryb Akademii filmu, zakres dla kancelarii (trzeci regulamin do wyceny, nie drugi).
 
 ## Konkurs na plakat o sztucznej inteligencji (pomysł z 26.10.2026, rozwijany)
 
