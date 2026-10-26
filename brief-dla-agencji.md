@@ -12,7 +12,7 @@ Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmo
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt - konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. To samo robi dobra rozmowa: pojedyncze fakty ma każdy, wartość powstaje z połączeń.
 
-**Pierwsza edycja:** rozmowy przeprowadzone w 2027 roku, zgłoszenia do 15 stycznia 2028, rozstrzygnięcie i gala w drugiej połowie marca 2028. Kolejne edycje co roku, w tym samym rytmie.
+**Pierwsza edycja:** rozmowy przeprowadzone w 2027 roku, zgłoszenia do 15 stycznia 2028, rozstrzygnięcie i gala w drugiej połowie kwietnia 2028. Kolejne edycje co roku, w tym samym rytmie.
 
 Organizatorem będzie fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem zgłoszeń. Udział jest bezpłatny. Pula nagród pochodzi od fundatora zewnętrznego; poziom docelowy to nagroda główna 300 tys. zł.
 
@@ -24,7 +24,7 @@ Strona ma trzy zadania, w tej kolejności ważności.
 
 **Doprowadzić uczestnika do zgłoszenia.** Od 1 stycznia 2027 strona musi tłumaczyć, co zgłaszać, jak to zrobić i czego się spodziewać, a potem przeprowadzić przez formularz bez pytań po drodze.
 
-**Udostępniać materiał.** Od marca 2028 strona jest miejscem, z którego pobiera się antologię i czyta archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
+**Udostępniać materiał.** Od kwietnia 2028 strona jest miejscem, z którego pobiera się antologię i czyta archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
 
 ## 3. Co jest dzisiaj
 
@@ -76,7 +76,7 @@ Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych p
 | Wycena i rozmowa o zakresie | listopad 2026 |
 | Projekt i wdrożenie | grudzień 2026 - luty 2027 |
 | **Strona musi działać w nowej wersji** | **przed 1 stycznia 2027 w zakresie informacji o naborze** |
-| Rozbudowa o antologię i archiwum | styczeń - marzec 2028 |
+| Rozbudowa o antologię i archiwum | styczeń - kwiecień 2028 |
 
 Twardy termin dotyczy wyłącznie części informacyjnej: 1 stycznia 2027 otwiera się przyjmowanie zgłoszeń i od tego dnia strona musi tłumaczyć zasady i prowadzić do formularza. Warstwa publikacyjna ma czas do wiosny 2028.
 

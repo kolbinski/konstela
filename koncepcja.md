@@ -786,6 +786,24 @@ Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał
 
 **`view.html` zostaje** dla dawnej postaci adresu `?file=`, która poszła w świat, ale dostaje `noindex`, żeby nie konkurowała w wynikach z wersją generowaną.
 
+## Gala przeniesiona na kwiecień 2028 i trzy poziomy druku antologii (26.10.2026)
+
+**Gala: druga połowa kwietnia 2028, wcześniej druga połowa marca.** Powód nie jest kosmetyczny i nie dotyczy plakatu. Regulamin wiązał wycofanie zgłoszenia z terminem 30 dni przed ogłoszeniem wyników, uzasadniając go zamknięciem treści antologii - przy gali w połowie marca treść musiała być zamknięta w połowie lutego, a rozmowy weryfikacyjne z finalistami były zaplanowane na luty i początek marca. Weryfikacja trwałaby więc jeszcze po zamknięciu treści, choć może skończyć się dyskwalifikacją i zmianą dziesiątki. Tego nie da się załatać zapisem, bo to sprzeczność w porządku prac. Drugi powód: książkowe wydanie ma być dostępne w księgarniach bezpośrednio po gali, a między odbiorem nakładu z drukarni a dostępnością w księgarniach jest od czterech do sześciu tygodni wejścia do oferty dystrybutora - i te tygodnie nie są nasze.
+
+**Maj odrzucony.** Matura zaczyna się na początku maja, a sesje na uczelniach trwają do końca miesiąca - przy konkursie celującym w studentów szkół artystycznych i przy ścieżce edukacyjnej to najgorszy termin na galę z wystawą. Do tego nabór kolejnej edycji otwiera się na początku roku, więc im dalej gala od stycznia, tym dłużej nowy nabór trwa bez widocznego rozstrzygnięcia poprzedniego, a gala jest największą reklamą następnej edycji i wydania książkowego.
+
+**Przeliczony łańcuch konkursu rozmów:** okno rozmów cały 2027, zgłoszenia do 15 stycznia 2028, Kapituła styczeń i luty, rozmowy weryfikacyjne luty, **zamknięcie treści antologii i przekazanie do produkcji 29 lutego 2028**, druk i wprowadzenie do dystrybucji marzec i pierwsza połowa kwietnia, gala i premiera druga połowa kwietnia.
+
+**Przeliczony łańcuch plakatu:** zamknięcie naboru koniec listopada 2027, ogłoszenie dziesiątki finalistów połowa grudnia 2027, oryginały u Organizatora do 20 stycznia 2028, oględziny i werdykt koniec stycznia, uzgodnienie okładki luty, przekazanie do produkcji 29 lutego, gala i wystawa druga połowa kwietnia. Nabór plakatów zamyka się więc o miesiąc wcześniej niż nabór rozmów, a nie o sześć tygodni, jak wychodziło przy gali marcowej.
+
+**Termin wycofania zgłoszenia przestał być liczony od ogłoszenia wyników.** § 11 ust. 6 regulaminu wiąże go teraz z dniem zamknięcia treści antologii, czyli 29 lutego 2028, i wyjaśnia dlaczego: od tego dnia książka jest drukowana i wprowadzana do dystrybucji. Przy terminie liczonym wstecz od gali uczestnik mógłby wycofać zgłoszenie po wydrukowaniu nakładu.
+
+**Trzy poziomy druku antologii, zamiast jednego statusu.** E-book bezpłatny - gwarantowany. Krótki nakład na galę, wręczany laureatom i przekazywany Kapitule oraz mediom - gwarantowany przez Organizatora, odrębna pozycja kosztorysu, niezależna od wydawcy, bo druk cyfrowy kilkudziesięciu egzemplarzy nie wymaga ani wydawcy, ani dystrybucji. Nakład handlowy - zależny od partnera wydawniczego, z celem dostępności w księgarniach bezpośrednio po gali. Do rozstrzygnięcia została liczba egzemplarzy nakładu galowego, bo od niej zależy wycena.
+
+**Konsekwencja, która zmienia kolejność rozmów: partner wydawniczy wchodzi na ścieżkę krytyczną.** Do tej pory był warunkowy - bez niego powstawał e-book i nakład galowy, z nim dodatkowo wydanie handlowe. Jeżeli książka ma być w księgarniach nazajutrz po gali, bez partnera ten element gali nie istnieje, a termin graniczny na jego pozyskanie wypada jesienią 2027, nie w 2028.
+
+**Czego nie zmieniono.** `mc-nota-koncepcyjna` została nietknięta, bo poszła już do Ministerstwa Cyfryzacji i do Ministerstwa Edukacji; jej kalendarz jest więc świadomie niespójny z pozostałymi dokumentami i trzeba o tym pamiętać przy pierwszym kontakcie z tamtymi resortami. `oferta-dla-wydawcy` też nie wymagała zmiany: maszynopis nadal przekazujemy w marcu 2028.
+
 ## Pomysły z 26.10.2026 - do rozważenia, nie rozstrzygnięte
 
 Dwie rzeczy z nocnego rzutu pomysłów, warte zapisania, żeby nie umknęły. **Żadna nie jest decyzją** i żadna nie wchodzi do pierwszej edycji bez osobnego rozstrzygnięcia.

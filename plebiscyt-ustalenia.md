@@ -17,7 +17,7 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 ## Dlaczego to jest lepsze od zamówienia
 
 1. **Stawka rynkowa zweryfikowana.** Sołtan bierze **7-12 tys. zł za singiel na zamówienie**. Nasze 3000 zł za wersję finalną było poniżej rynku dla zawodowca - ścieżka z pojedynczym zleceniem była niedofinansowana i prędzej czy później by się o to rozbiła.
-2. **Rozwiązuje problem martwego roku.** Przez cały 2027 rok na stronie nie dzieje się nic, bo wyniki są dopiero w marcu 2028. Kolejne zgłaszane piosenki dają powód, żeby wracać. Ten sam zarzut niezależnie podniósł Piotr Byliński z Reequest tego samego dnia.
+2. **Rozwiązuje problem martwego roku.** Przez cały 2027 rok na stronie nie dzieje się nic, bo wyniki są dopiero w kwietniu 2028. Kolejne zgłaszane piosenki dają powód, żeby wracać. Ten sam zarzut niezależnie podniósł Piotr Byliński z Reequest tego samego dnia.
 3. **Osobne źródło finansowania.** Granty kulturalne, Ministerstwo Kultury, środki europejskie, wydawnictwa muzyczne (Sołtan wskazał małe i średnie, ale też Warner Music i Universal). Nie konkuruje z poszukiwaniem fundatora puli - inny świat, inni decydenci, inne budżety.
 4. **Jury od ręki.** Sołtan deklaruje udział w jury plebiscytu i że znajdzie do niego kolejne osoby. Nazwiska w muzyce zdobywa się nieporównanie łatwiej niż nazwiska w ocenianiu rozmów z AI. *Pierwotnie brzmiało „jury za darmo i od ręki" - część o braku wynagrodzenia wycofana 24.10.2026, bo jury plebiscytu jest płatne. Łatwość zebrania składu pozostaje w mocy i jest tu całym argumentem.*
 5. **Lepsza historia dla sponsora.** „Ogłaszamy plebiscyt, w jury zasiada półfinalista The Voice of Poland" brzmi lepiej niż „kupiłem piosenkę".
@@ -188,7 +188,7 @@ Zamiast zaproszenia do jury - zaproszenie Grzegorza Markowskiego do **nagrania h
 1. **Hymn musi stać bez niego.** Materiał startowy nie może być zbudowany wokół powrotu, bo przy odmowie zostaje komunikacja o nieobecnej osobie. Konstrukcja podstawowa: hymn nagrywa skład jury; Markowski jest górką, nie fundamentem.
 2. **Pozycja 60 tys. zł przestaje pasować.** Zakładała kilku jurorów nagrywających utwór przy umiarkowanych stawkach. Powrót po latach to inna rozmowa, prawdopodobnie warta swojej ceny, ale nie mieszcząca się w tej kwocie. Wycena po rozmowie, nie przed.
 
-**Skutek uboczny, do świadomego przyjęcia.** Taki comeback jest wydarzeniem medialnym samym w sobie, więc rozwiązuje martwy rok 2027 lepiej niż teledysk. Jednocześnie podnosi asymetrię uwagi do maksimum: w marcu 2028 łatwo napisać o powrocie Markowskiego i nie napisać, że to była gala nagrody za rozmowy z AI.
+**Skutek uboczny, do świadomego przyjęcia.** Taki comeback jest wydarzeniem medialnym samym w sobie, więc rozwiązuje martwy rok 2027 lepiej niż teledysk. Jednocześnie podnosi asymetrię uwagi do maksimum: w kwietniu 2028 łatwo napisać o powrocie Markowskiego i nie napisać, że to była gala nagrody za rozmowy z AI.
 
 ### Hymn w formacie "We Are The World" (pomysł z 24.10.2026)
 

@@ -51,7 +51,7 @@ Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i arch
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone. **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy. **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji. Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
-Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do marca 2028 nad produkcją wydania i moderacją archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z finalistami, czyta rozmowy przed publikacją w archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z Kapitułą i publikację archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
+Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z finalistami, czyta rozmowy przed publikacją w archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z Kapitułą i publikację archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
 
 ## Co otrzymuje Mecenas
 
@@ -67,7 +67,7 @@ Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas ni
 
 ## Terminy
 
-Umowa do podpisania przed 1 stycznia 2027, czyli przed otwarciem naboru, ponieważ od tego dnia obowiązuje ogłoszony regulamin. Nabór trwa cały rok 2027. Prace redakcyjne nad antologią: styczeń-marzec 2028. Gala i premiera wydania elektronicznego: druga połowa marca 2028. Archiwum publikowane porcjami od marca 2028 do marca 2029.
+Umowa do podpisania przed 1 stycznia 2027, czyli przed otwarciem naboru, ponieważ od tego dnia obowiązuje ogłoszony regulamin. Nabór trwa cały rok 2027. Prace redakcyjne nad antologią: styczeń i luty 2028, z zamknięciem treści 29 lutego 2028. Druk i wprowadzenie do dystrybucji: marzec i pierwsza połowa kwietnia 2028. Gala i premiera wydania elektronicznego: druga połowa kwietnia 2028. Archiwum publikowane porcjami od kwietnia 2028 do kwietnia 2029.
 
 Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telewizyjny; rozmowy w tej sprawie są planowane na 2027 rok.
 

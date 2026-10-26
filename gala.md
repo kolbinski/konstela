@@ -1,6 +1,6 @@
 # Gala rozstrzygnięcia - dokument roboczy
 
-Druga połowa marca 2028. Dokument **wewnętrzny**: służy wycenie, rozmowie z miejscem i briefowi dla agencji. Nie jest załącznikiem do pism do ministerstw - szczegółowy scenariusz imprezy odległej o siedemnaście miesięcy, bez wybranego miejsca i bez zabezpieczonego finansowania, czyta się jako fantazja, nie jako staranność.
+Druga połowa kwietnia 2028. Dokument **wewnętrzny**: służy wycenie, rozmowie z miejscem i briefowi dla agencji. Nie jest załącznikiem do pism do ministerstw - szczegółowy scenariusz imprezy odległej o siedemnaście miesięcy, bez wybranego miejsca i bez zabezpieczonego finansowania, czyta się jako fantazja, nie jako staranność.
 
 Powstał, ponieważ program gali rozrósł się przez kilka osobnych rozmów i nie był dotąd nigdzie zebrany. Pytanie Piotra Bylińskiego z 23.10.2026 - czym wypełnić dwie godziny - nie miało dotąd policzonej odpowiedzi.
 
@@ -84,4 +84,4 @@ Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzy
 
 ## Kolejność, w jakiej to ma sens robić
 
-Nic z tego nie jest pilne - gala jest w marcu 2028. Kolejność naturalna: najpierw fundator puli, bo bez niego nie ma gali; potem miejsce, bo od niego zależy wycena; potem wycena części artystycznej; potem rozmowy z aktorem i z prowadzącym, bo terminy osób tej rangi rezerwuje się na kilka miesięcy wprzód. Rozmowy z nadawcą publicznym mają sens dopiero z listem intencyjnym w ręku.
+Nic z tego nie jest pilne - gala jest w kwietniu 2028. Kolejność naturalna: najpierw fundator puli, bo bez niego nie ma gali; potem miejsce, bo od niego zależy wycena; potem wycena części artystycznej; potem rozmowy z aktorem i z prowadzącym, bo terminy osób tej rangi rezerwuje się na kilka miesięcy wprzód. Rozmowy z nadawcą publicznym mają sens dopiero z listem intencyjnym w ręku.

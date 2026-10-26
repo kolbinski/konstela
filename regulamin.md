@@ -39,9 +39,11 @@
 | Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **15 stycznia 2028 r., godz. 23:59** |
 | Ocena formalna | na bieżąco, w miarę wpływania zgłoszeń |
 | Runda pierwsza (Akademia) | na bieżąco, partiami, od lutego 2027 do stycznia 2028 |
-| Runda druga (Kapituła) | luty 2028 |
-| Rozmowy weryfikacyjne | pierwsza połowa marca 2028 |
-| Ogłoszenie wyników i publikacja antologii | **druga połowa marca 2028 r.** |
+| Runda druga (Kapituła) | styczeń i luty 2028 |
+| Rozmowy weryfikacyjne | luty 2028 |
+| Zamknięcie treści antologii i przekazanie do produkcji | **29 lutego 2028 r.** |
+| Druk nakładu i wprowadzenie do dystrybucji | marzec i pierwsza połowa kwietnia 2028 |
+| Ogłoszenie wyników, gala i premiera antologii | **druga połowa kwietnia 2028 r.** |
 | Wypłata nagród | do 14 dni od ogłoszenia wyników |
 
 O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organizatora.
@@ -312,7 +314,7 @@ Tryb nie jest wybierany przez Organizatora: wynika z liczby zgłoszeń według p
 - b) **zachowanie pseudonimu** - werdykt, antologia i wszystkie materiały posługują się wyłącznie pseudonimem, a nagroda zostaje wypłacona bez publicznego wskazania osoby. Uczestnik nie ma wtedy obowiązku uczestniczenia w gali ani pozowania do zdjęć; jeżeli zdecyduje się wziąć w niej udział, Organizator uzgadnia z nim z góry sposób prezentacji i zakres dokumentacji fotograficznej.
 
 Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności. Dokumenty podatkowe i przelew zawsze posługują się danymi rzeczywistymi, niezależnie od wybranego sposobu ogłoszenia.
-6. **Wycofanie zgłoszenia z konkursu.** Uczestnik może wycofać zgłoszenie **nie później niż 30 dni przed dniem ogłoszenia wyników**. Zgłoszenie jest wtedy usuwane z rankingu w całości, nie bierze udziału w dalszej ocenie i nie podlega publikacji, a udzielona licencja wygasa. Termin ten wynika z tego, że w tym momencie zamykana jest treść antologii i rozpoczyna się jej przygotowanie do publikacji.
+6. **Wycofanie zgłoszenia z konkursu.** Uczestnik może wycofać zgłoszenie **nie później niż do dnia zamknięcia treści antologii, to jest do 29 lutego 2028 r.** Zgłoszenie jest wtedy usuwane z rankingu w całości, nie bierze udziału w dalszej ocenie i nie podlega publikacji, a udzielona licencja wygasa. Termin ten nie jest liczony od dnia ogłoszenia wyników, lecz od dnia przekazania antologii do produkcji: od tego momentu książka jest drukowana i wprowadzana do dystrybucji, więc jej treści nie da się już zmienić. W kolejnych edycjach Organizator ogłasza ten dzień wraz z kalendarzem edycji, przed otwarciem przyjmowania zgłoszeń.
 7. **Po upływie terminu z ust. 6 wycofanie zgłoszenia nie jest możliwe**, a rozmowa może zostać opublikowana zgodnie z udzieloną licencją. Dotyczy to w szczególności sytuacji, w której Uczestnik znalazł się w dziesiątce antologii.
 8. **Po publikacji.** Organizator nie wycofuje z obrotu wydań już rozpowszechnionych ani nie podmienia plików pobranych przez osoby trzecie; nie odpowiada też za kopie, cytaty i omówienia rozpowszechnione przez innych. Dotyczy to zarówno wydania elektronicznego, jak i egzemplarzy drukowanych wprowadzonych do obrotu.
 9. **Czego regulamin nie wyłącza.** Powyższe nie pozbawia Uczestnika uprawnień przysługujących mu z mocy prawa, w szczególności z przepisów o ochronie danych osobowych; regulamin nie może ich wyłączyć i nie próbuje tego robić. Żądanie usunięcia danych złożone po publikacji Organizator rozpatruje **indywidualnie**, ważąc je wobec wolności wypowiedzi i informacji (art. 17 ust. 3 lit. a RODO) oraz wobec udzielonej licencji, i odpowiada na piśmie z uzasadnieniem. Jeżeli uwzględnienie żądania jest możliwe bez usunięcia całej rozmowy, Organizator w terminie 14 dni usuwa z publikowanej przez siebie wersji imię i nazwisko Uczestnika oraz wskazane przez niego fragmenty pozwalające go zidentyfikować, o ile pozwala to zachować sens rozmowy. Organizator nie zapewnia z góry, że każde żądanie zostanie spełnione ani że rozmowa pozostanie opublikowana w każdym przypadku.

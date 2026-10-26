@@ -136,7 +136,7 @@ Plebiscyt nie jest jeszcze ogłoszony, więc poniższe terminy są planem, a nie
 |---|---|
 | Otwarcie naboru | początek 2027, po zabezpieczeniu finansowania |
 | Zamknięcie naboru | 31 grudnia 2027 |
-| Gala i rozstrzygnięcie | marzec 2028 |
+| Gala i rozstrzygnięcie | druga połowa kwietnia 2028 |
 | Nagrania studyjne finalistów | po rozstrzygnięciu, termin do ustalenia z producentem |
 
 **Czego jeszcze nie rozstrzygnęliśmy:** jak wygląda harmonogram sesji nagraniowych. Rozstrzygniemy to z jury przed ogłoszeniem i napiszemy tutaj, zanim poprosimy kogokolwiek o zgłoszenie.

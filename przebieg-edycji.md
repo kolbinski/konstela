@@ -74,7 +74,7 @@ Do 20 minut, telefonicznie albo wideo, wyłącznie o treści zgłoszonej rozmowy
 
 **Odmowa publikacji (§ 7a):** nie wpływa na punktację ani nagrodę. Uczestnik może wskazać fragment do usunięcia albo wycofać rozmowę z publikacji, zachowując nagrodę.
 
-## 11. Ogłoszenie wyników - druga połowa marca 2028
+## 11. Ogłoszenie wyników - druga połowa kwietnia 2028
 
 Werdykt, wypłata nagród, rozliczenie podatku, wręczenie medalu i dyplomów.
 

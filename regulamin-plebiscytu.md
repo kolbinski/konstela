@@ -56,7 +56,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. Nabór nie zostanie otwarty przed wpłynięciem na rachunek Organizatora środków na nagrody pieniężne i na nagrania studyjne finalistów.
 
-3. Plan, na podstawie którego Organizator prowadzi przygotowania i który nie stanowi zobowiązania wobec kogokolwiek, przewiduje otwarcie naboru na początku 2027 roku, zamknięcie naboru 31 grudnia 2027 roku oraz rozstrzygnięcie i galę w marcu 2028 roku.
+3. Plan, na podstawie którego Organizator prowadzi przygotowania i który nie stanowi zobowiązania wobec kogokolwiek, przewiduje otwarcie naboru na początku 2027 roku, zamknięcie naboru 31 grudnia 2027 roku oraz rozstrzygnięcie i galę w drugiej połowie kwietnia 2028 roku.
 
 4. Zmiana terminów po otwarciu naboru następuje na zasadach określonych w § 19 ust. 3.
 

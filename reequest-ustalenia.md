@@ -41,7 +41,7 @@ Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowan
 | cały 2027 | nabór, czytelnia zgłoszeń rośnie, zgłoszenia plebiscytu napływają, odcinki podcastu |
 | 15 stycznia 2028 | zamknięcie naboru; 14 dni później zamrożenie punktacji rundy pierwszej |
 | I kwartał 2028 | głosowanie publiczności |
-| druga połowa marca 2028 | gala: werdykty, koncert, dialog czytany |
+| druga połowa kwietnia 2028 | gala: werdykty, koncert, dialog czytany |
 
 **Nierozstrzygnięte i blokujące:** regulamin mówi, że zgłoszenia przyjmowane są od dnia publikacji regulaminu, a pozostałe dokumenty wskazują 1 stycznia 2027. **Ta rozbieżność wyznacza twardy termin dla strony i powinna zostać zamknięta na warsztatach**, zanim agencja zacznie budować na niej komunikację.
 
