@@ -33,6 +33,7 @@ const PUBLICZNE = new Set([
   'plebiscyt-piosenki',
   'plebiscyt-plakatu',
   'regulamin-plakatu',
+  'regulamin-filmu',
   'plebiscyt-rozmowy',
 ]);
 
@@ -68,6 +69,8 @@ const OPISY = {
     'Otwarty konkurs na własną piosenkę o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie. Jury wybiera dziesięciu finalistów, a trzy najwyżej ocenione utwory dostają nagrody pieniężne.',
   'plebiscyt-plakatu':
     'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę antologii Nagrody Konstela.',
+  'regulamin-filmu':
+    'Pełne zasady plebiscytu na film o sztucznej inteligencji: kto może zgłosić film, dlaczego nie ma tu zakazu użycia narzędzi AI, a jest obowiązek deklaracji, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do filmu.',
   'regulamin-plakatu':
     'Pełne zasady konkursu na plakat o sztucznej inteligencji: kto może zgłosić pracę, na czym polega wymóg ręcznego wykonania, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do plakatu.',
 };
