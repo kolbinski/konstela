@@ -858,11 +858,17 @@ Nie da się prosić setek osób o wysyłanie płócien. **Zgłoszeniem jest foto
 
 ### Pieniądze z licytacji
 
-**Odrzucony podział 50/50.** Połowa od półprofesjonalisty, który sam kupił płótno i farby, jest stroma - to ta sama grupa, której przy plebiscycie świadomie nie kazaliśmy płacić za studio. Fundacja biorąca połowę przestaje wyglądać na organizatora, a zaczyna na pośrednika.
+**Odrzucony podział 50/50.** Połowa od półprofesjonalisty, który sam kupił płótno i farby, jest wygórowana - to ta sama grupa, której przy plebiscycie świadomie nie kazaliśmy płacić za studio. Fundacja biorąca połowę przestaje wyglądać na organizatora, a zaczyna na pośrednika.
+
+**Dlaczego podział w ogóle musi być.** Licytacja charytatywna działa dlatego, że kupujący płacą **powyżej ceny rynkowej**, skoro część kwoty idzie na cel. Jeżeli całość trafia do autora, nie jest to licytacja charytatywna, lecz zwykła sprzedaż - i ceny spadają do rynkowych, czyli przy nieznanym półprofesjonaliście do niewiele. Podział nie jest więc kwestią sprawiedliwości, tylko warunkiem sensowności całej licytacji.
 
 **Przyjęty wzorzec: § 13 ust. 4 regulaminu Nagrody.** Przychód z płatnego wydania antologii, po pokryciu kosztów, zasila pulę nagród kolejnej edycji, a organizator nie osiąga z tego zysku. Przeniesione na licytację: **autor dostaje swoją część, reszta idzie na pulę nagród następnej edycji, fundacja nie zatrzymuje nic.** Kupujący wie, za co płaci, a organizator nie tłumaczy się ani przed artystą, ani przed sponsorem.
 
-**Przy samym podziale: autor przy zgłoszeniu sam wybiera**, czy przekazuje pracę na licytację i w jakiej części. Dobrowolność jest tu warta więcej niż procent.
+**Odrzucone 26.10.2026, kilka godzin po zapisaniu: deklarowanie procentu przez autora przy zgłoszeniu.** Każdy wpisałby sto, więc mechanizm nie istnieje. Co gorsza, powstałby widoczny przy pracach ranking hojności - kto oddał więcej, ten lepszy - czyli dokładnie to, czego Nagroda unika w każdej innej części.
+
+**Przyjęte zamiast: stały podział wpisany do regulaminu**, jednakowy dla wszystkich i ogłoszony przed naborem; roboczo 70 procent dla autora i 30 procent na pulę nagród następnej edycji. Bez deklaracji, bez negocjacji, bez wyścigu. Uczestnik wie z góry, na co się godzi, a fundacja nadal nie zatrzymuje nic dla siebie.
+
+**Wariant zapasowy, gdyby strona prawna okazała się ciężka: bez licytacji.** Prace finalistów wiszą na wystawie przy gali, a kto chce kupić, dogaduje się bezpośrednio z autorem. Fundacja daje salę i publiczność, nie bierze nic i nie dotyka cudzej własności - znikają pytania o zbiórkę publiczną, umowę komisu i podatek. Mniej pieniędzy, zero ryzyka.
 
 ### Do sprawdzenia, zanim to wystartuje
 
