@@ -10,10 +10,11 @@
  *
  * Dwa układy, jedno zachowanie:
  * - strona główna: sekcje <section id> z nagłówkiem h2, kotwicą jest id sekcji;
- * - dokument: nagłówki h2 i h3 w <main id="content">, h3 jako pozycje
- *   podrzędne. Nagłówki z markdownu nie mają identyfikatorów, więc nadajemy
- *   je z tekstu, z przedrostkiem "do-", żeby nie zderzyły się z kotwicami
- *   wpisanymi w treści ręcznie.
+ * - dokument: nagłówki h2 w <main id="content">. Tylko h2 - menu ma być
+ *   spisem paragrafów, a nie spisem treści; nagłówki niższego stopnia
+ *   rozbijały ten rytm jedną pozycją na cały dokument. Nagłówki z markdownu
+ *   nie mają identyfikatorów, więc nadajemy je z tekstu, z przedrostkiem
+ *   "do-", żeby nie zderzyły się z kotwicami wpisanymi w treści ręcznie.
  *
  * Treść dokumentu budowanego jest w HTML od razu, a w view.html dochodzi
  * dopiero po wczytaniu pliku markdown - dlatego czekamy na nią obserwatorem.
@@ -49,11 +50,10 @@
     return (el.querySelector('span') || el).textContent.replace(/\s+/g, ' ').trim();
   }
 
-  function pozycja(fragment, href, tekst, podrzedna) {
+  function pozycja(fragment, href, tekst) {
     var a = document.createElement('a');
     a.href = href;
     a.textContent = tekst;
-    if (podrzedna) a.className = 'pod';
     fragment.appendChild(a);
   }
 
@@ -63,7 +63,7 @@
     var i;
 
     if (tresc) {
-      var naglowki = tresc.querySelectorAll('h2, h3');
+      var naglowki = tresc.querySelectorAll('h2');
       for (i = 0; i < naglowki.length; i++) {
         var el = naglowki[i];
         var tekst = tytul(el);
@@ -73,7 +73,7 @@
           if (!id) continue;
           el.id = id;
         }
-        pozycja(fragment, '#' + el.id, tekst, el.tagName === 'H3');
+        pozycja(fragment, '#' + el.id, tekst);
         dodane++;
       }
     } else {
