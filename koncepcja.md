@@ -1096,7 +1096,7 @@ Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwsz
 
 **Dla zdjęcia metryki zgłoszenia:** rozbieżność z metryką jest podstawą wszczęcia wyjaśnień, a nie dowodem zmiany filmu. Zmiana samego tytułu albo miniatury niczego nie dowodzi, a różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z dopuszczonej poprawki technicznej.
 
-## Recenzja plebiscytu rozmowy (26.10.2026)
+## Recenzja plebiscytu rozmowy z AI (26.10.2026)
 
 Dwadzieścia sześć zarzutów, w tym kilkanaście sprzeczności między dokumentami. Najważniejsze rozstrzygnięcia:
 

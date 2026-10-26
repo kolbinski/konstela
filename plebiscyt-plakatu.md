@@ -102,7 +102,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Składu jury jeszcze nie ma i nie wymieniamy nikogo, dopóki nie potwierdzi udziału.** Zapowiadamy natomiast zasadę: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora.
 
-**Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania Akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę i w plebiscycie piosenki.
+**Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania Akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
 
 ## <!--ikona:puchar--><span>Nagrody</span>
 
@@ -140,7 +140,7 @@ Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z gó
 
 Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Prace finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma tego wieczoru premierę** - z okładką opartą na zwycięskiej pracy, jeżeli jej autor się na to zgodzi.
 
-**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę**. Planowany przebieg, który potwierdzimy przy ogłoszeniu:
+**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę z AI**. Planowany przebieg, który potwierdzimy przy ogłoszeniu:
 
 | Kiedy | Co |
 |---|---|

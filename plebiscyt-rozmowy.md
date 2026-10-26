@@ -25,7 +25,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
-**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę](/dokument/regulamin-rozmowy), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru.
+**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru.
 
 Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokość nagród zależy od pozyskanych sponsorów i podamy ją przy ogłoszeniu naboru.
 

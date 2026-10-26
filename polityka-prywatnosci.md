@@ -28,7 +28,7 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 
 **Odnośniki do serwisów zewnętrznych.** W plebiscytach na piosenkę i na film zgłoszeniem jest odnośnik do nagrania pozostającego u dostawcy wybranego przez Uczestnika, a Słuchalnia i Projektornia prezentują ten odnośnik. **Administrator nie osadza na stronie odtwarzaczy ani żadnych elementów z tych serwisów**, więc samo wejście na stronę nie powoduje połączenia z nimi. Połączenie powstaje dopiero wtedy, gdy odwiedzający kliknie odnośnik - od tej chwili jego dane przetwarza ten serwis, na własnych zasadach, nad którymi Administrator nie ma kontroli.
 
-## 4. Zgłoszenie rozmowy w plebiscycie na rozmowę
+## 4. Zgłoszenie rozmowy w plebiscycie na rozmowę ze sztuczną inteligencją
 
 **Jakie dane.** Imię i nazwisko, miejscowość, adres e-mail, numer telefonu komórkowego, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy, opisem odkrycia, uzasadnieniem „dlaczego warte nagrody głównej" oraz ilustracją rozmowy. **Miejscowość nie jest publikowana** - służy rozliczeniu nagrody, statystyce zasięgu naboru i korespondencji. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
 
@@ -115,7 +115,7 @@ Z numerem telefonu osoby głosującej Administrator postępuje tak samo jak z nu
 
 ## 9. Dane osób trzecich w treści zgłoszenia
 
-Regulamin plebiscytu na rozmowę zakazuje zgłaszania rozmów zawierających dane osób, które nie są osobami publicznymi. We wszystkich czterech plebiscytach **Uczestnik odpowiada za to, aby zgłoszenie nie zawierało danych osobowych osób trzecich** - dotyczy to treści rozmowy, podobizny na plakacie, obrazu i dźwięku w filmie, okładki zgłoszenia piosenki, a także tego, co znalazło się w kadrze nagrania z powstawania plakatu.
+Regulamin plebiscytu na rozmowę ze sztuczną inteligencją zakazuje zgłaszania rozmów zawierających dane osób, które nie są osobami publicznymi. We wszystkich czterech plebiscytach **Uczestnik odpowiada za to, aby zgłoszenie nie zawierało danych osobowych osób trzecich** - dotyczy to treści rozmowy, podobizny na plakacie, obrazu i dźwięku w filmie, okładki zgłoszenia piosenki, a także tego, co znalazło się w kadrze nagrania z powstawania plakatu.
 
 Ujawnione przypadki są rozpatrywane w trybach określonych w odpowiednim regulaminie i - zależnie od podstawy - mogą skutkować odrzuceniem zgłoszenia albo ograniczeniem jego publikacji. **Administrator nie przegląda z urzędu treści wszystkich zgłoszeń na wejściu**, ponieważ przegląd prowadzony osobno przez Administratora nie skalowałby się wraz z liczbą zgłoszeń. Problem może więc zostać dostrzeżony później, w szczególności przez osobę oceniającą zgłoszenie: tryb oznaczania i jego skutki opisuje jawna [procedura moderacji zgłoszeń](/dokument/procedura-moderacji). Oznaczenie jest sygnałem, nie rozstrzygnięciem, nie wpływa na ocenę zgłoszenia i nie pozostawia publicznego śladu, jeżeli okaże się nietrafne.
 
@@ -145,7 +145,7 @@ Wszystkie powyższe sprawy załatwiane są pod adresem kontakt@konstela.org.
 
 ## 13. Co Uczestnik może zmienić po zgłoszeniu
 
-Rozdział ten opisuje najpierw plebiscyt na rozmowę, a na końcu to, co różni się w pozostałych trzech.
+Rozdział ten opisuje najpierw plebiscyt na rozmowę ze sztuczną inteligencją, a na końcu to, co różni się w pozostałych trzech.
 
 **Publikacja nie opiera się na zgodzie, więc nie ma zgody do wycofania.** Przystępując do Nagrody, Uczestnik udziela licencji na publikację swojego zgłoszenia w czytelni, w archiwum rozmów i w antologii (Regulamin § 11 ust. 3), a publikacja jest warunkiem udziału. To, co Uczestnik rzeczywiście może zrobić, jest następujące.
 
@@ -183,7 +183,7 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 
 1. **Nagranie z powstawania plakatu jako warunek udziału** (rozdział 6) - proporcjonalność wymogu, podstawa przetwarzania wizerunku twarzy, wystarczalność art. 6 ust. 1 lit. b RODO zamiast zgody, a także zakres zgody przedstawiciela ustawowego przy Uczestniku, który nie ukończył 18 lat.
 2. **Stanowisko, że wizerunek z nagrania nie jest przetwarzany biometrycznie** - czy przy ocenie prowadzonej wyłącznie przez człowieka, bez narzędzi automatycznych, art. 9 RODO rzeczywiście nie znajduje zastosowania.
-3. **Brak trybu wycofania zgłoszenia w regulaminach piosenki i plakatu** (rozdział 13) - czy wobec konsumenta jest to dopuszczalne, a jeżeli nie, jaki termin i jakie skutki należy wprowadzić. Plebiscyt na film ma taki tryb, plebiscyt na rozmowę również.
+3. **Brak trybu wycofania zgłoszenia w regulaminach piosenki i plakatu** (rozdział 13) - czy wobec konsumenta jest to dopuszczalne, a jeżeli nie, jaki termin i jakie skutki należy wprowadzić. Plebiscyt na film ma taki tryb, plebiscyt na rozmowę ze sztuczną inteligencją również.
 4. **Stanowisko, że publikacja treści przez Uczestnika na własnym kanale nie jest przekazaniem danych przez Administratora** (rozdział 11), przy jednoczesnym prezentowaniu odnośnika na stronie Nagrody.
 5. **Publikacja punktacji wszystkich zgłoszeń** (rozdział 13) - utrzymana z poprzedniej wersji polityki i nadal wymagająca oceny.
 6. **Oznaczanie zastrzeżeń przez oceniających zamiast przeglądu przez Administratora** (rozdział 9) - czy przy publikacji wszystkich zgłoszeń, które przeszły ocenę formalną, taki tryb jest wystarczającym zachowaniem należytej staranności.
