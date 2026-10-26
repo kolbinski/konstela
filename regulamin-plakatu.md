@@ -28,7 +28,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 1. Uczestnikiem może być osoba fizyczna, która w dniu złożenia zgłoszenia ukończyła 16 lat.
 
-2. Uczestnik, który nie ukończył 18 lat, dołącza pisemną zgodę przedstawiciela ustawowego, obejmującą osobno: udzielenie licencji w zakresach z § 13 ust. 2, przyjęcie nagrody pieniężnej, przesłanie oryginału pracy na wystawę oraz udział w gali.
+2. Uczestnik, który nie ukończył 18 lat, dołącza pisemną zgodę przedstawiciela ustawowego, obejmującą osobno: przesłanie nagrania z powstawania pracy, na którym widoczna jest twarz Uczestnika (§ 4a ust. 3 lit. c1), udzielenie licencji w zakresach z § 13 ust. 2, przyjęcie nagrody pieniężnej, przesłanie oryginału pracy na wystawę oraz udział w gali.
 
 2a. **Zgoda na zakresy licencji będące warunkiem udziału (§ 13 ust. 4) jest wymagana do przyjęcia zgłoszenia.** Brak zgody na pozostałe zakresy nie wyłącza Uczestnika z konkursu, lecz wyłącza go z tego zakresu.
 
@@ -82,17 +82,21 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    c) w kadrze widoczna jest jednocześnie **praca i ręka pracującego nad nią** wraz z narzędziem;
 
+   c1) **twarz Uczestnika jest w nagraniu widoczna**, a co najmniej jeden fragment zawiera **nieprzerwane przejście kadru od twarzy Uczestnika do pracy**, bez cięcia i bez przerwy w nagraniu, w sposób pozwalający stwierdzić, że osoba, której twarz widać, jest osobą pracującą nad plakatem. Przejście może prowadzić w obie strony i może zostać wykonane dowolnie: obrotem telefonu, odsunięciem kamery albo wejściem Uczestnika w kadr i pochyleniem się nad pracą;
+
    d) fragmenty pokazują pracę na **co najmniej dwóch różnych etapach**, w tym etap zaawansowany, na którym praca jest już rozpoznawalna jako ta sama, którą przedstawia reprodukcja z § 4 ust. 2 lit. a.
 
-4. **Czego nagranie nie musi zawierać.** Nie musi pokazywać twarzy Uczestnika ani zawierać jego głosu, nie musi obejmować całego czasu powstawania pracy, nie musi być zmontowane, opatrzone dźwiękiem ani nagrane profesjonalnym sprzętem. Nagranie telefonem opartym o cokolwiek spełnia ten wymóg.
+4. **Czego nagranie nie musi zawierać.** Nie musi zawierać głosu Uczestnika, nie musi obejmować całego czasu powstawania pracy, nie musi być zmontowane, opatrzone dźwiękiem ani nagrane profesjonalnym sprzętem. Nagranie telefonem opartym o cokolwiek spełnia ten wymóg, o ile spełnia warunki z ust. 3.
+
+4a. **Twarz w nagraniu a podpis zgłoszenia.** Wymóg z ust. 3 lit. c1 nie odbiera Uczestnikowi możliwości zgłoszenia pracy pod pseudonimem (§ 4 ust. 2 lit. c). Nagranie nie jest publikowane (ust. 6), więc twarz Uczestnika widzą wyłącznie Organizator, oceniający i jury; publicznie zgłoszenie podpisane jest tak, jak Uczestnik wskazał.
 
 5. **Nagranie nie podlega ocenie w żadnym kryterium z § 7.** Jury ocenia plakat, nie film z jego powstawania; jakość nagrania, jego długość ponad wymagane minimum i sposób zmontowania nie mają na ocenę żadnego wpływu.
 
 6. **Nagranie nie jest publikowane.** Służy wyłącznie ocenie formalnej i weryfikacji z § 6 ust. 6, dostępne jest wyłącznie dla Organizatora, oceniających oraz jury, i nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Prezentacja nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, której brak nie wpływa na udział w konkursie, na ocenę ani na nagrodę.
 
-7. Jeżeli w nagraniu widoczne są osoby trzecie, Uczestnik odpowiada za ich zgodę na utrwalenie wizerunku w zakresie z ust. 6. Nagranie, na którym widoczne są dane osobowe osób trzecich albo wnętrze niebędące miejscem pracy Uczestnika, nie jest z tego powodu wadliwe; Uczestnik może je przed przesłaniem przyciąć albo zasłonić te fragmenty, o ile nie narusza to ust. 3.
+7. Jeżeli w nagraniu widoczne są osoby trzecie, Uczestnik odpowiada za ich zgodę na utrwalenie wizerunku w zakresie z ust. 6. Nagranie, na którym widoczne są dane osobowe osób trzecich albo wnętrze niebędące miejscem pracy Uczestnika, nie jest z tego powodu wadliwe; Uczestnik może je przed przesłaniem przyciąć albo zasłonić te fragmenty, o ile nie narusza to ust. 3. Zasłonięcie albo wycięcie własnej twarzy narusza ust. 3 lit. c1 i czyni nagranie niespełniającym wymogu.
 
-8. Przy pracy wykonanej wspólnie nagranie obejmuje pracę współautorów w zakresie pozwalającym stwierdzić, że pracę wykonał zgłoszony skład.
+8. Przy pracy wykonanej wspólnie nagranie obejmuje pracę współautorów w zakresie pozwalającym stwierdzić, że pracę wykonał zgłoszony skład, a przejście z ust. 3 lit. c1 wykonuje się dla każdego ze współautorów, którego praca jest w nagraniu widoczna.
 
 9. Nagranie przechowywane jest do upływu terminu z § 15, a następnie usuwane. Zasady jego przetwarzania opisuje polityka prywatności.
 
@@ -333,7 +337,7 @@ Lista wskazuje konkretne jednostki redakcyjne, nie obszary - tak samo jak przy r
 1. **§ 3 ust. 1-2** - granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy, w tym zgody na wysyłkę oryginału pracy należącej do osoby niepełnoletniej.
 2. **§ 5 ust. 2 lit. d-e** - wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: format pionowy i minimalny wymiar oryginału oraz brak wcześniejszej publikacji. Czy rodzą ryzyko zarzutu nierównego traktowania.
 3. **§ 6 ust. 2** - sformułowanie zakazu tak, by odróżniało przejęcie obrazu wygenerowanego od inspiracji, w sposób nadający się do zastosowania w sporze.
-4. **§ 4a w związku z § 6 ust. 6 i § 15** - obowiązkowe nagranie z powstawania pracy. Prosimy o ocenę: czy wymóg przesłania nagrania, na którym widoczna jest ręka Uczestnika, jest proporcjonalny w rozumieniu RODO i wystarczająco jednoznaczny wobec konsumenta; jaka jest podstawa przetwarzania wizerunku utrwalonego w nagraniu, skoro nagranie jest warunkiem udziału, a nie przedmiotem zgody; czy zapewnienie z § 4a ust. 6 o niepublikowaniu nagrania wymaga odzwierciedlenia w polityce prywatności i w umowie z oceniającymi; oraz czy nagranie jest wystarczającą podstawą wykluczenia z § 15 ust. 5, gdy przeczy oświadczeniu z § 6 ust. 5.
+4. **§ 4a w związku z § 6 ust. 6 i § 15** - obowiązkowe nagranie z powstawania pracy. Prosimy o ocenę: czy wymóg przesłania nagrania, na którym widoczna jest ręka Uczestnika, jest proporcjonalny w rozumieniu RODO i wystarczająco jednoznaczny wobec konsumenta; jaka jest podstawa przetwarzania wizerunku utrwalonego w nagraniu, skoro nagranie jest warunkiem udziału, a nie przedmiotem zgody; czy zapewnienie z § 4a ust. 6 o niepublikowaniu nagrania wymaga odzwierciedlenia w polityce prywatności i w umowie z oceniającymi; oraz czy nagranie jest wystarczającą podstawą wykluczenia z § 15 ust. 5, gdy przeczy oświadczeniu z § 6 ust. 5. Odrębnie prosimy o ocenę wymogu z § 4a ust. 3 lit. c1 - nagranie musi zawierać nieprzerwane przejście od twarzy Uczestnika do pracy, więc wizerunek twarzy jest warunkiem udziału w konkursie, także wobec Uczestnika, który nie ukończył 18 lat (§ 3 ust. 2); prosimy o wskazanie, czy zgoda przedstawiciela ustawowego powinna obejmować ten zakres wyraźnie i odrębnie.
 5. **§ 9 ust. 3** - sposób rozliczenia podatku; decyzja wspólna z pulą nagrody głównej i z plebiscytem piosenki, dotąd niepodjęta.
 6. **§ 10** - odpowiedzialność Organizatora za powierzony oryginał: zakres ubezpieczenia, podstawa odpowiedzialności przy uszkodzeniu lub utracie, a także to, czy potrzebna jest odrębna umowa przechowania z każdym finalistą.
 7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** - zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.

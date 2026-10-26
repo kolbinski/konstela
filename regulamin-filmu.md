@@ -154,7 +154,7 @@
 
    d) prezentację fragmentu filmu podczas gali, na zasadach z § 10.
 
-2. **Wysokość nagród pieniężnych** zostaje ogłoszona na stronie Nagrody w dniu otwarcia naboru, wraz z listą partnerów edycji, i od tej chwili wiąże Organizatora. Poziom docelowy wynosi 100 tys. zł, 50 tys. zł i 30 tys. zł.
+2. **Wysokość nagród pieniężnych** zostaje ogłoszona na stronie Nagrody w dniu otwarcia naboru, wraz z listą partnerów edycji, i od tej chwili wiąże Organizatora. Poziom docelowy wynosi 100 tys. zł, 50 tys. zł i 30 tys. zł, a nagroda publiczności - 3 tys. zł.
 
 2a. **Warunek ogłoszenia: środki na rachunku.** Organizator ogłasza wysokość nagród pieniężnych wyłącznie w zakresie, w jakim środki na ich wypłatę wpłynęły wcześniej na rachunek Organizatora.
 

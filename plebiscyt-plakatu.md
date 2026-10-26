@@ -54,7 +54,9 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut.** To jedyny obowiązkowy element, którego nie da się zastąpić oświadczeniem, bo cały ten konkurs stoi na tym, że obraz powstaje pod ręką. Nagranie ma pokazać w jednym kadrze pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. Może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 5 minut się nie liczą - nie widać na nich, czyja to ręka.
 
-**Czego nagranie nie musi mieć.** Twojej twarzy, Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Telefon oparty o kubek wystarcza. Nagranie nie jest oceniane w żadnym kryterium i nigdzie go nie publikujemy: widzą je tylko oceniający i jury, nie trafia ani do Galerii, ani do archiwum. Przesyłasz je jako link do nagrania w serwisie wideo - może być niepubliczny.
+**Twoja twarz musi być w nagraniu widoczna**, a w co najmniej jednym ujęciu kamera ma przejechać od Twojej twarzy do pracy jednym ruchem, bez cięcia. To jedno ujęcie zamyka całą sprawę: widać na nim, że osoba, która trzyma pędzel, to Ty. Ruch możesz wykonać dowolnie - obrócić telefon, odsunąć kamerę albo wejść w kadr i pochylić się nad plakatem.
+
+**Czego nagranie nie musi mieć.** Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Telefon oparty o kubek wystarcza. Nagranie nie jest oceniane w żadnym kryterium i nigdzie go nie publikujemy: widzą je tylko oceniający i jury, nie trafia ani do Galerii, ani do archiwum. Twarz na nagraniu nie odbiera Ci też możliwości zgłoszenia pracy pod pseudonimem - publicznie podpisujemy ją tak, jak wskażesz. Nagranie przesyłasz jako link do nagrania w serwisie wideo i może być niepubliczny.
 
 **Pozostałe materiały z etapów pracy** - szkic, podmalówkę, zdjęcia w trakcie - możesz dołączyć, ale nie musisz. Jeśli istnieją, pomagają.
 
