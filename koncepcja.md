@@ -879,3 +879,25 @@ Nie da się prosić setek osób o wysyłanie płócien. **Zgłoszeniem jest foto
 ### Ryzyko do przyjęcia świadomie
 
 To jest **czwarty konkurs i czwarty sponsor**: rozmowy, piosenka, akademia, plakat. Fundacja nie jest zarejestrowana, pula nagród nie jest zabezpieczona, a trzy rozmowy sponsorskie są otwarte i nierozstrzygnięte. Argument przemawiający za: praca organizatora to pisanie, maile i telefony, a konkurs plakatu mieści się w tym bez nowej infrastruktury. Argument przeciw: każdy kolejny front rozcieńcza te trzy rozmowy, które już trwają.
+
+### Konkurs plakatu - ustalenia z 26.10.2026, godz. 1:30
+
+**Podział z licytacji: 50/50, ale jako wybór tak albo nie.** Przy zgłoszeniu uczestnik deklaruje „przekazuję pracę na licytację na warunkach regulaminu" albo „nie przekazuję". Stawka jest ta sama dla wszystkich, więc nie powstaje ranking hojności, a kto nie przekazuje, zatrzymuje obraz i nic nie traci w ocenie. To jest różnica wobec odrzuconego pomysłu z deklarowaniem procentu: wybór binarny działa, wybór wielkości nie.
+
+**Połowa fundacji idzie widocznie na pulę nagród następnej edycji**, nie na działalność - tak samo jak przychód z płatnego wydania antologii w § 13 ust. 4 regulaminu Nagrody. Regulamin ma mówić, dokąd idą pieniądze, a nie co uczestnik dostaje w zamian.
+
+**Czego w regulaminie nie piszemy: że nagrodą jest widoczność.** „Dostajesz PR" to formuła, którą artyści słyszą od lat i która ma fatalną reputację, bo zwykle zastępuje zapłatę. Tutaj widoczność jest realna - okładka antologii, wystawa przy gali - ale napisana wprost obok pięćdziesięciu procent czyta się źle i zostanie tak zacytowana. Przy nazwisku Olbińskiego w jury ryzykuje się przy tym również jego reputacją.
+
+**Licytacje na Allegro, w programie Allegro Charytatywni.** Lepsze niż sala na gali, bo tam jest publiczność, której na gali nie będzie. Dwie rzeczy do sprawdzenia mailem do Allegro, przed wpisaniem tego do regulaminu: czy program wymaga konta organizacji pożytku publicznego albo przynajmniej fundacji w KRS, oraz czy dopuszcza podział przychodu z osobą prywatną - możliwe, że zakłada przekazanie całości na cel.
+
+**Sprzedaż płótna nie przenosi praw autorskich.** Kupujący dostaje przedmiot, nie prawo do reprodukcji. Bez rozdzielenia tego w regulaminie może powstać sytuacja, w której zwycięski obraz wisi u kolekcjonera, a organizator nie ma podstawy, żeby wydrukować go na okładce antologii. Potrzebna jest licencja udzielana przy zgłoszeniu, niezależna od losów samego płótna.
+
+**Czytelnia, archiwum i nagroda publiczności - analogicznie do rozmów.** Zgłoszenia pokazywane na stronie w miarę napływania, po rozstrzygnięciu przechodzą do archiwum, a publiczność przyznaje własną nagrodę obok werdyktu jury. Przy plakacie kosztuje to niemal nic: obrazy są statyczne, więc nie ma problemu z odtwarzaczami ani z transferem.
+
+### Brak do nadrobienia: czytelnia i archiwum plebiscytu piosenki
+
+Ujawniony przy okazji plakatu, 26.10.2026. **Trzy konkursy, trzy czytelnie, a nazwę i projekt ma jedna.**
+
+**Czytelnia plebiscytu istnieje tylko w treści przepisu.** § 5 ust. 7 regulaminu plebiscytu mówi, że zgłoszenia są prezentowane na stronie w miarę napływania i że prezentacja jest warunkiem udziału. Ale ta powierzchnia nie ma nazwy ani zaprojektowanej strony, a nad jej kształtem wisi nierozstrzygnięta od 24.10.2026 sprawa: osadzone odtwarzacze YouTube kontra klikalne okładki, przy czym Reequestowi zadeklarowano to drugie.
+
+**Archiwum plebiscytu nie istnieje nawet na papierze.** Przy rozmowach rozdzielone są trzy rzeczy: czytelnia w trakcie naboru, archiwum po rozstrzygnięciu i antologia dla dziesiątki. Przy piosenkach jest czytelnia i płyta, a tego, co dzieje się ze zgłoszeniami po gali, nikt nie rozstrzygnął - znikają ze strony czy zostają. Jest to ten sam brak, co nieustalony termin wygaśnięcia licencji w § 15 ust. 3 regulaminu plebiscytu, i należy rozstrzygnąć oba naraz.
