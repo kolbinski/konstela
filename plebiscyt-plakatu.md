@@ -49,7 +49,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10.2 13.8a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1.3 1.3"/><path d="M13.8 10.2a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1.3-1.3"/></svg><span>Jak możesz się zgłosić</span>
 
-**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy wejdziesz do dziesiątki** - listę finalistów ogłaszamy przed galą i razem z nią podajemy okno dostarczenia oryginałów, obejmujące co najmniej 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
+**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy wejdziesz do dziesiątki** - listę finalistów ogłaszamy przed galą i razem z nią podajemy okno dostarczenia oryginałów, obejmujące co najmniej 21 dni; przed jego pierwszym dniem prac nie przyjmujemy, żeby nie leżały u nas dłużej, niż to konieczne. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
 **Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. Przy pracy wykonanej wspólnie zgłoszenie wskazuje osobę reprezentującą cały skład; ona prowadzi korespondencję, a podział ewentualnej nagrody pozostaje sprawą autorów.
 
@@ -108,7 +108,9 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Okładka antologii.** Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. **Pytamy Cię o zgodę zaraz po werdykcie, czyli przed galą**, i masz na odpowiedź 7 dni - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
 
-**Wystawa przy gali i wystawa w galerii.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody, a po niej na **wystawie w galerii sztuki, otwieranej wernisażem** - już z zajętymi miejscami, bo werdykt jest wtedy ogłoszony. Pokazujemy oryginały tych finalistów, którzy je przysłali, a pozostałe prace w reprodukcji. Opakowanie, transport w obie strony, przewóz między miejscami, przechowywanie i ubezpieczenie pokrywa organizator. Możesz nie zgodzić się na udział pracy w wystawie w galerii, nie tracąc ani nagrody, ani wystawy przy gali; wtedy praca wraca do Ciebie wcześniej. Organizator dysponuje oryginałem nie dłużej niż 150 dni, a przesyłkę zwrotną nadaje w ciągu 30 dni od zakończenia ostatniej z wystaw.
+**Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a oryginałem dysponujemy nie dłużej niż 150 dni od jego odebrania.
+
+**Wystawa w galerii sztuki - jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem - już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycja idzie do finalistów w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć - nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="3.8" width="17" height="4.2" rx="1"/><rect x="3.5" y="10.4" width="17" height="9.8" rx="1"/><path d="M8 14h8M8 17h5"/></svg><span>Galeria i archiwum</span>
 
@@ -120,13 +122,13 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w konkursie.
 
-Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokazanie reprodukcji w Galerii i w archiwum - to jedyny zakres będący warunkiem udziału; pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę; pokazanie oryginału na wystawie w galerii, jeśli się na nią zgodzisz; a przy pracy zwycięskiej, za odrębną zgodą - reprodukcja na okładce antologii oraz w materiałach informacyjnych edycji.
+Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokazanie reprodukcji w Galerii i w archiwum - to jedyny zakres będący warunkiem udziału; pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę; pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej; a przy pracy zwycięskiej, za odrębną zgodą - reprodukcja na okładce antologii oraz w materiałach informacyjnych edycji.
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3.5 20.5h17"/><path d="M5 17.5h8"/><path d="m7 14 5-9 5 9z"/></svg><span>Licytacja - dobrowolna</span>
 
-Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny.
+Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny. Może się odbyć jako cicha licytacja przy wystawie w galerii albo inaczej, w tym w serwisie aukcyjnym - od galerii nie zależy.
 
 **Przy zgłoszeniu nie decydujesz o niczym.** Pytamy dopiero po zamknięciu ocen: wtedy dostajesz warunki - cenę minimalną, przewidywane potrącenia i sposób rozliczenia - i wtedy mówisz tak albo nie. Twoja odpowiedź nie trafia do jury przed ustaleniem werdyktu, więc nie może na niego wpłynąć. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
 
@@ -142,12 +144,12 @@ Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na r
 |---|---|
 | koniec listopada 2027 | zamknięcie naboru |
 | połowa grudnia 2027 | ogłoszenie dziesiątki finalistów |
-| od 10 do 20 stycznia 2028 | okno dostarczenia oryginałów finalistów |
-| koniec stycznia 2028 | oględziny oryginałów i werdykt jury |
+| 3-31 stycznia 2028 | okno dostarczenia oryginałów finalistów |
+| początek lutego 2028 | oględziny oryginałów i werdykt jury |
 | luty 2028 | uzgodnienie okładki ze zwycięzcą |
 | druga połowa kwietnia 2028 | gala, wystawa, premiera antologii |
-| maj 2028 | wystawa w galerii sztuki, otwierana wernisażem |
-| czerwiec 2028 | zwrot oryginałów autorom |
+| maj 2028 | zwrot oryginałów autorom |
+| maj albo czerwiec 2028 | wystawa w galerii sztuki, jeżeli zostanie pozyskana; prace objęte propozycją wracają po jej zakończeniu |
 
 Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania.
 

@@ -222,15 +222,17 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 ## § 10. Oryginały prac finałowych
 
-1. Dziesięciu finalistów przesyła oryginały prac na oględziny, na wystawę towarzyszącą gali oraz na **wystawę w galerii sztuki, otwieraną wernisażem**, o której mowa w ust. 3a. Organizator pokrywa koszty przesyłki w obie strony, przewozu między miejscem gali a galerią oraz **ubezpieczenia obejmującego czas transportu, obu wystaw i przechowywania pracy między nimi** - to jest cały czas, w którym praca pozostaje u Organizatora.
+1. Dziesięciu finalistów przesyła oryginały prac **na oględziny oraz na wystawę towarzyszącą gali**. Organizator pokrywa koszty przesyłki w obie strony oraz **ubezpieczenia obejmującego czas transportu, wystawy i przechowywania pracy** - to jest cały czas, w którym praca pozostaje u Organizatora.
 
 1a. Organizator zapewnia finaliście opakowanie przystosowane do wymiarów i techniki pracy albo pokrywa jego koszt na podstawie przedstawionego rachunku. Uczestnik nie ponosi kosztów opakowania, przewozu ani ubezpieczenia na żadnym etapie.
 
-2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz **okno dostarczenia oryginałów - dzień początkowy i dzień końcowy**, obejmujące nie mniej niż 21 dni i ogłaszane razem z listą finalistów (§ 8 ust. 4a). Okno wyznacza się tak, aby termin z ust. 3a nie upłynął przed zakończeniem wystawy towarzyszącej gali. Oryginał dostarczony przed dniem początkowym Organizator przyjmuje, lecz termin z ust. 3a biegnie wówczas od dnia początkowego okna.
+2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz **okno dostarczenia oryginałów - dzień początkowy i dzień końcowy**, obejmujące nie mniej niż 21 dni i ogłaszane razem z listą finalistów (§ 8 ust. 4a). **Organizator nie przyjmuje oryginałów przed dniem początkowym okna**, a termin z ust. 3a biegnie od dnia rzeczywistego odbioru pracy.
 
-3. Organizator **nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru w terminie 30 dni od zakończenia ostatniej z wystaw**, o których mowa w ust. 1, nie później jednak niż w dniu upływu terminu z ust. 3a. Terminu doręczenia przesyłki Organizator nie wyznacza, ponieważ zależy on od przewoźnika. Wyjątkiem są prace przekazane na licytację zgodnie z § 14.
+3. Organizator **nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru w terminie 30 dni od zakończenia wystawy towarzyszącej gali**. Terminu doręczenia przesyłki Organizator nie wyznacza, ponieważ zależy on od przewoźnika. Wyjątkiem są prace objęte propozycją z ust. 3a oraz prace przekazane na licytację zgodnie z § 14; w obu wypadkach termin zwrotu wynika z warunków przyjętych przez autora.
 
-3a. **Wystawa w galerii sztuki.** Oryginały prac finałowych są pokazywane publicznie na wystawie w galerii sztuki, otwieranej wernisażem i dostępnej dla publiczności, **po gali** - to jest po publicznym ogłoszeniu werdyktu, tak aby prace mogły być opisane wraz z zajętymi miejscami. Termin wernisażu, termin zakończenia wystawy oraz miejsce Organizator ogłasza najpóźniej w dniu gali; są to trzy odrębne terminy. Łączny czas, w którym Organizator dysponuje oryginałem, nie przekracza **150 dni, liczonych zgodnie z ust. 2**; po upływie tego terminu praca wraca do autora niezależnie od stanu wystawy w galerii. Finalista może nie wyrazić zgody na udział swojej pracy w tej wystawie, zachowując udział w wystawie przy gali, nagrodę i miejsce w werdykcie; w takim wypadku jego praca wraca do niego w terminie z ust. 3, liczonym od zakończenia wystawy przy gali.
+3a. **Wystawa w galerii sztuki - propozycja odrębna, nie element konkursu.** Organizator dąży do pokazania prac finałowych również na wystawie w galerii sztuki, otwieranej wernisażem, po gali - to jest po publicznym ogłoszeniu werdyktu, tak aby prace mogły być opisane wraz z zajętymi miejscami. **Wystawa ta nie jest jednak objęta przyrzeczeniem publicznym i zależy od pozyskania galerii.** Jeżeli galeria zostanie pozyskana, Organizator kieruje do finalistów **pisemną propozycję** - w kolejności wynikającej z werdyktu, a liczbę prac wyznacza przestrzeń wskazana w propozycji. Propozycja określa miejsce, termin wernisażu, termin zakończenia wystawy, czas pozostawania pracy u Organizatora, zakres ubezpieczenia, sposób i termin zwrotu oraz - jeżeli jest przewidziana - warunki cichej licytacji prowadzonej przy wystawie (§ 14). Przyjęcie propozycji jest dobrowolne; jej nieprzyjęcie albo brak odpowiedzi nie wpływa na werdykt, na nagrodę ani na udział w wystawie przy gali, a praca wraca wówczas do autora w terminie z ust. 3.
+
+3b. **Łączny czas, w którym Organizator dysponuje oryginałem w ramach konkursu, nie przekracza 150 dni od dnia odbioru pracy**; po upływie tego terminu praca wraca do autora. Czas pozostawania pracy u Organizatora na podstawie propozycji z ust. 3a liczy się odrębnie i wynika z tej propozycji.
 
 4. Finalista, który nie wyraża zgody na przesłanie oryginału, nie traci z tego powodu nagrody pieniężnej ani miejsca w werdykcie. **Odmowa nie obniża punktacji: jury ocenia wówczas pracę na podstawie reprodukcji i dostępnych materiałów** (§ 8 ust. 4b). Praca jest prezentowana na wystawie w postaci reprodukcji.
 
@@ -270,13 +272,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    c) prezentacja oryginału pracy na wystawie towarzyszącej gali oraz jego utrwalenie w zapisie wideo gali;
 
-   c1) prezentacja oryginału pracy na wystawie w galerii sztuki (§ 10 ust. 3a) oraz jej dokumentacja fotograficzna i filmowa. **Zakres ten nie jest warunkiem udziału i obejmuje wyłącznie finalistów, którzy wyrazili zgodę na udział pracy w tej wystawie;**
+   c1) prezentacja oryginału pracy na wystawie w galerii sztuki oraz jej dokumentacja fotograficzna i filmowa. **Zakres ten nie jest warunkiem udziału i obejmuje wyłącznie finalistów, którzy przyjęli propozycję, o której mowa w § 10 ust. 3a;**
 
    d) w odniesieniu do pracy zwycięskiej - reprodukcja na okładce antologii danej edycji, w jej wydaniu elektronicznym i drukowanym, oraz w materiałach informacyjnych tej edycji. **Zakres ten nie jest warunkiem udziału i wymaga odrębnej zgody, o której mowa w § 9 ust. 4.**
 
 3. Czas trwania licencji: w zakresie lit. a - do dnia ogłoszenia werdyktu; w zakresie lit. b - bezterminowo, z zastrzeżeniem § 11 ust. 4; w zakresie lit. c - bezterminowo w odniesieniu do zapisu gali; w zakresie lit. c1 - do dnia zakończenia wystawy w galerii, a bezterminowo w odniesieniu do jej dokumentacji; w zakresie lit. d - bezterminowo, w granicach nakładu i wznowień antologii danej edycji.
 
-4. **Warunkiem udziału w konkursie jest udzielenie licencji w zakresie ust. 2 lit. a i b**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), zakres lit. c1 - wyłącznie finalistów, którzy zgodzili się na udział pracy w wystawie w galerii, a zakres lit. d wymaga odrębnej zgody. Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
+4. **Warunkiem udziału w konkursie jest udzielenie licencji w zakresie ust. 2 lit. a i b**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), zakres lit. c1 - wyłącznie finalistów, którzy przyjęli propozycję z § 10 ust. 3a, a zakres lit. d wymaga odrębnej zgody. Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
 
 5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do pracy w zakresie pozwalającym na udzielenie licencji określonej w ust. 2 oraz że praca nie narusza praw osób trzecich.
 
@@ -286,7 +288,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 1. Przekazanie pracy na licytację jest **dobrowolne**. Zgłoszenie konkursowe nie zawiera w tej sprawie żadnej deklaracji.
 
-2. **Po zamknięciu ocen jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane potrącenia, sposób i termin rozliczenia oraz miejsce przeprowadzenia licytacji. Wystawienie pracy wymaga akceptacji tych warunków.
+2. **Po zamknięciu ocen jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane potrącenia, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
+
+2b. Licytacja może zostać przeprowadzona jako **cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) albo w inny sposób, w tym w serwisie aukcyjnym. **Licytacja nie zależy od pozyskania galerii**; brak galerii oznacza wyłącznie, że zmienia się forma i miejsce wskazane w warunkach z ust. 2.
 
 2a. **Decyzja autora nie jest udostępniana jury przed ustaleniem pełnego werdyktu** (§ 8 ust. 4b). Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik konkursu, na nagrody i na udział w wystawie.
 
@@ -296,9 +300,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 5. Organizator rozlicza się z autorem w terminie 30 dni od otrzymania zapłaty od nabywcy. Obowiązki podatkowe po stronie autora w zakresie jego części przychodu obciążają autora.
 
-6. Praca, która nie znalazła nabywcy, wraca do autora na zasadach z § 10 ust. 3. Jeżeli licytacja zakończyła się po terminie wskazanym w § 10 ust. 3, Organizator nadaje przesyłkę zwrotną w terminie 30 dni od jej zakończenia.
+6. Praca, która nie znalazła nabywcy, wraca do autora: Organizator **nadaje przesyłkę zwrotną w terminie 30 dni od zakończenia licytacji**, a jeżeli termin z § 10 ust. 3 przypada później - w tym późniejszym terminie.
 
-6a. Jeżeli nabywca nie zapłaci ceny w terminie wskazanym w warunkach z ust. 2, Organizator zawiadamia o tym autora, a praca wraca do niego w terminie z ust. 6. Praca sprzedana, lecz nieodebrana przez nabywcę, przechowywana jest przez Organizatora nie dłużej niż 60 dni od dnia zapłaty; po upływie tego terminu Organizator zawiadamia autora i nabywcę o sposobie i miejscu jej odbioru.
+6a. **Praca nieopłacona.** Jeżeli nabywca nie zapłaci ceny w terminie wskazanym w warunkach z ust. 2, Organizator zawiadamia o tym autora i **nadaje przesyłkę zwrotną w terminie 30 dni od bezskutecznego upływu terminu zapłaty**. Termin ten biegnie niezależnie od terminu z ust. 6 i od tego, czy wcześniej upłynął.
+
+6b. **Praca sprzedana i opłacona.** Termin i sposób wydania pracy nabywcy, miejsce jej przechowywania do chwili wydania, a także postępowanie w razie nieodebrania pracy przez nabywcę - w tym to, kto ją wówczas przechowuje i na czyj koszt - określają warunki z ust. 2, akceptowane przez autora przed wystawieniem pracy. Organizator zawiadamia autora o zapłacie i o wydaniu pracy nabywcy. Przechowywanie pracy po jej opłaceniu nie jest objęte terminem z § 10 ust. 3b, ponieważ praca nie podlega już zwrotowi autorowi.
 
 7. Sposób przeprowadzenia licytacji, w tym ewentualny udział serwisu aukcyjnego, Organizator ogłasza przed otwarciem naboru.
 
@@ -312,7 +318,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    b) do zakończenia postępowania zgłoszenie pozostaje w konkursie, a jego punktacja nie ulega zmianie;
 
-   c) jeżeli zastrzeżenie okaże się zasadne, Organizator może ograniczyć prezentację zgłoszenia w Galerii albo odstąpić od jego prezentacji w archiwum (§ 11);
+   c) Organizator może ograniczyć prezentację zgłoszenia w Galerii albo odstąpić od jego prezentacji w archiwum (§ 11) **wyłącznie po wskazaniu konkretnego fragmentu pracy oraz uzasadnionego ryzyka naruszenia prawa związanego z jego publikacją**. Samo potwierdzenie obecności elementu oznaczonego przez oceniającego nie wystarcza;
 
    d) odrzucenie zgłoszenia możliwe jest wyłącznie na podstawach z § 5 ust. 2 albo na podstawie ust. 5 niniejszego paragrafu; samo oznaczenie podstawy nie stanowi;
 
@@ -370,7 +376,7 @@ Lista wskazuje konkretne jednostki redakcyjne, nie obszary - tak samo jak przy r
 9a. **§ 8 ust. 4c-4d** - werdykt zapada przed galą, a laureaci zachowują go w poufności do publicznego ogłoszenia, ponieważ antologia z okładką musi zdążyć do druku. Prosimy o wskazanie, czy przy przyrzeczeniu publicznym dopuszczalne jest odroczenie ogłoszenia wyniku względem jego ustalenia i jak zapisać obowiązek poufności, żeby jego naruszenie nie pozbawiało laureata nagrody.
 
 9b. **§ 15 ust. 1a** - tryb rozpoznania zastrzeżenia oznaczonego przez oceniającego: czy wystarcza zawiadomienie, 14 dni na wyjaśnienia i rozstrzygnięcie Organizatora z uzasadnieniem, czy wobec konsumenta potrzebna jest droga odwoławcza, skoro § 8 ust. 6 czyni werdykt ostatecznym.
-9c. **§ 10 ust. 1-3a** - ubezpieczenie i odpowiedzialność za cały czas, w którym praca pozostaje u Organizatora, w tym za kilkumiesięczne przechowywanie między przyjęciem pracy i wystawami; termin nadania przesyłki zwrotnej zamiast terminu doręczenia; limit 150 dni dysponowania oryginałem liczony od dnia początkowego okna dostarczenia oraz obowiązek zapewnienia opakowania.
+9c. **§ 10 ust. 1-3b** - ubezpieczenie i odpowiedzialność za cały czas, w którym praca pozostaje u Organizatora, w tym za kilkumiesięczne przechowywanie między przyjęciem pracy i galą; termin nadania przesyłki zwrotnej zamiast terminu doręczenia; limit 150 dni liczony od dnia odbioru pracy oraz obowiązek zapewnienia opakowania. Odrębnie prosimy o ocenę **ust. 3a** - wystawa w galerii sztuki jest wyłączona z przyrzeczenia publicznego i oferowana finalistom odrębną propozycją, w której określa się czas pozostawania pracy u Organizatora, ubezpieczenie i zwrot. Prosimy o wskazanie, czy taka propozycja powinna mieć postać odrębnej umowy z finalistą i czy wyłączenie jej z regulaminu nie rodzi ryzyka zarzutu, że część świadczenia konkursowego została wyprowadzona poza przyrzeczenie.
 
 10. **§ 16 ust. 1** - progi nierozstrzygnięcia edycji przyjęte bez podstawy prawnej.
 11. **§ 18 ust. 2-3** - przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.

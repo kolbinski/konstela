@@ -16,7 +16,7 @@ Film od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Jedyny regulam
 Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać z AI, byle powiedzieć jak. Zawiera zasady nagrań studyjnych dziesiątki finalistów.
 
 **[Regulamin plebiscytu na plakat o sztucznej inteligencji](/dokument/regulamin-plakatu)**
-Praca wykonana ręcznie, bez generatora obrazu. Zawiera wymóg nagrania z powstawania pracy, zasady obu wystaw i licytacji oryginałów.
+Praca wykonana ręcznie, bez generatora obrazu. Zawiera wymóg nagrania z powstawania pracy, zasady wystawy przy gali i licytacji oryginałów.
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v16"/><path d="M5 8h14"/><path d="M5 8 2.5 14h5zM19 8l-2.5 6h5z"/></svg><span>Co łączy wszystkie cztery</span>
 

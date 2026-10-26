@@ -87,7 +87,7 @@ To jest w całej Nagrodzie dane najbardziej wrażliwe dla Uczestnika i dlatego o
 
 ### Oryginały prac finałowych
 
-Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane publicznie - na wystawie przy gali i na wystawie w galerii sztuki, otwieranej wernisażem. Wymaga to przekazania danych adresowych firmie przewozowej, ubezpieczycielowi oraz galerii, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji. Podstawą jest wykonanie umowy (art. 6 ust. 1 lit. b RODO) oraz prawnie uzasadniony interes w zabezpieczeniu powierzonych prac (art. 6 ust. 1 lit. f RODO).
+Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane publicznie na wystawie przy gali. Jeżeli Administrator pozyska galerię sztuki, finaliści otrzymują odrębną propozycję pokazania prac na wystawie w galerii; dane adresowe trafiają do galerii wyłącznie wobec tych, którzy propozycję przyjmą. Wymaga to przekazania danych adresowych firmie przewozowej, ubezpieczycielowi oraz galerii, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji. Podstawą jest wykonanie umowy (art. 6 ust. 1 lit. b RODO) oraz prawnie uzasadniony interes w zabezpieczeniu powierzonych prac (art. 6 ust. 1 lit. f RODO).
 
 **Co jest publikowane.** Reprodukcja pracy, tytuł, podpis, technika i wymiary oryginału - w Galerii, a następnie w archiwum, gdzie dochodzi do nich rok edycji. Przy pracy zwycięskiej, za odrębną zgodą autora, reprodukcja na okładce antologii i w materiałach informacyjnych edycji.
 
@@ -121,7 +121,7 @@ Ujawnione przypadki są rozpatrywane w trybach określonych w odpowiednim regula
 
 - **Oceniający** - członkowie Kapituły, jury i Akademii, w zakresie treści zgłoszenia niezbędnej do oceny. Pracują na zgłoszeniach pozbawionych imienia i nazwiska Uczestnika; Administrator zastrzega jednak w regulaminach, że ocena nie jest w pełni anonimowa, ponieważ tożsamość może wynikać z samej treści zgłoszenia, a w plebiscycie na plakat wynika z nagrania z powstawania pracy, które oceniający widzi. Oceniających wiąże poufność, obejmująca w szczególności nagrania z powstawania prac, które nie są publikowane.
 - **Dostawcy usług technicznych** - hosting strony (GitHub, Inc.), poczta elektroniczna, dostawca usługi wysyłki wiadomości SMS, a w przyszłości panel oceny oraz usługa przechowywania nagrań z powstawania prac. Podmioty te przetwarzają dane na podstawie umów powierzenia.
-- **Firma przewozowa, ubezpieczyciel i galeria sztuki** - wyłącznie w plebiscycie na plakat i wyłącznie wobec finalistów, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji oryginałów (rozdział 6).
+- **Firma przewozowa i ubezpieczyciel** - wyłącznie w plebiscycie na plakat i wyłącznie wobec finalistów, w zakresie niezbędnym do przewozu i ubezpieczenia oryginałów (rozdział 6). **Galeria sztuki** - dodatkowo i wyłącznie wobec tych finalistów, którzy przyjęli propozycję wystawy w galerii.
 - **Partnerzy wydawniczy** - w zakresie niezbędnym do wydania antologii i płyty, to jest danych publikowanych wraz ze zgłoszeniem.
 - **Organy publiczne** - wyłącznie wtedy, gdy wymagają tego przepisy, w szczególności w zakresie rozliczenia podatku od nagród.
 
