@@ -1224,4 +1224,6 @@ Nieznana nazwa ikony **zatrzymuje budowanie** z komunikatem, które nazwy nie is
 
 **Czego nie objęto.** Dwóch rysunków, które ikonami nie są: kreski rozdzielające w sekcji „Czym jest Nagroda" i konstelacji na stronie 404 - to grafiki jednorazowe, nie elementy zestawu. Poza biblioteką zostały też ikony w stopce, bo stopka jest budowana w `assets/stopka.js` i ma własny cykl życia.
 
-**Do rozstrzygnięcia:** w zestawie są trzy pary rysunków prawie identycznych - dwie koperty (`koperta`, `koperta-wask`), dwie tarcze (`tarcza`, `tarcza-pelna`) oraz dwa kadry z ramką (`sluchalnia`, `galeria`). Powstały niezależnie w różnych tygodniach. Ujednolicenie do jednego rysunku w każdej parze jest teraz zmianą w jednym pliku, ale zmienia wygląd konkretnych podstron, więc zostawiam to do decyzji.
+**Ujednolicenie (26.10.2026).** Dwie pary powstałe niezależnie w różnych tygodniach zostały scalone: `koperta-wask` ustąpiła `kopercie`, a `tarcza-pelna` - `tarczy`. Zestaw ma 31 ikon.
+
+Trzecia para, `sluchalnia` i `galeria`, **została rozdzielona świadomie**. Mają tę samą ramkę, ale co innego w środku: trójkąt odtwarzania przy Słuchalni, wiersze wpisów przy Galerii. To nie są dwa rysunki tego samego, tylko rodzina rysunków tej samej budowy - scalenie odebrałoby jednej z nich znaczenie.

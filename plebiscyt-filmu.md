@@ -92,7 +92,7 @@ Przez cały nabór prowadzimy **Projektornię** - publiczną listę zgłoszeń p
 
 Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępnego bezpłatnie i bez ograniczeń. Punktacja w archiwum jest jawna dla wszystkich zgłoszeń.
 
-## <!--ikona:tarcza-pelna--><span>Prawa do Twojego filmu</span>
+## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
 **Prawa zostają w całości przy twórcach.** Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum; minutowy fragment na gali i w zapisie wideo gali, przez pięć lat; ten sam fragment i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. Pełny pokaz filmu finałowego wymaga osobnej zgody.
 
@@ -110,7 +110,7 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż pięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
-## <!--ikona:koperta-wask--><span>Kontakt</span>
+## <!--ikona:koperta--><span>Kontakt</span>
 
 Pytania, wątpliwości, zgłoszenie zainteresowania naborem: **plebiscyt.filmu@konstela.org**.
 

@@ -27,7 +27,7 @@ Praca wykonana ręcznie, bez generatora obrazu. Zawiera wymóg nagrania z powsta
 - **Wiek: od 16 lat**, a osoba niepełnoletnia dołącza zgodę opiekuna rozbitą na osobne zakresy. Zgoda na zakresy będące warunkiem udziału - prezentację zgłoszenia i to, co dzieje się z nim na gali - jest konieczna do przyjęcia zgłoszenia; brak zgody na pozostałe wyłącza wyłącznie z nich.
 - **Nagroda Publiczności w każdej kategorii**, jeden głos na numer telefonu, liczniki ukryte do gali.
 
-## <!--ikona:tarcza-pelna--><span>Dokumenty towarzyszące</span>
+## <!--ikona:tarcza--><span>Dokumenty towarzyszące</span>
 
 **[Procedura moderacji zgłoszeń](/dokument/procedura-moderacji)**
 Kiedy oceniający oznacza w zgłoszeniu zastrzeżenie prawne, czego nie oznacza nigdy i co dzieje się potem. Jawna z tego samego powodu, z którego jawne są karty oceny.
