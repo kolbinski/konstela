@@ -31,11 +31,15 @@ const PUBLICZNE = new Set([
   'regulamin-plebiscytu',
   'polityka-prywatnosci',
   'plebiscyt-piosenki',
+  'plebiscyt-plakatu',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
    Strona powstaje wtedy w obu miejscach, a adresem kanonicznym jest krótszy. */
-const DEDYKOWANE = { 'plebiscyt-piosenki': 'plebiscyt-piosenki' };
+const DEDYKOWANE = {
+  'plebiscyt-piosenki': 'plebiscyt-piosenki',
+  'plebiscyt-plakatu': 'plebiscyt-plakatu',
+};
 
 /* Opisy stron publicznych pisane ręcznie. Dokumenty prawne zaczynają się od
    paragrafu pierwszego, więc nie ma w nich akapitu wstępnego nadającego się
@@ -50,6 +54,8 @@ const OPISY = {
     'Jakie dane zbiera Nagroda Konstela, w jakim celu, jak długo je przechowuje i jakie prawa przysługują uczestnikom.',
   'plebiscyt-piosenki':
     'Otwarty konkurs na własną piosenkę o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie. Jury wybiera dziesięciu finalistów, a trzy najwyżej ocenione utwory dostają nagrody pieniężne.',
+  'plebiscyt-plakatu':
+    'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę antologii Nagrody Konstela.',
 };
 
 /* Obrazek pokazywany w podglądzie linku. */

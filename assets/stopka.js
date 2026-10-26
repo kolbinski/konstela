@@ -18,6 +18,7 @@
     ['/', 'Nagroda Konstela'],
     ['/dokument/regulamin', 'Regulamin konkursu na najlepszą rozmowę z AI'],
     ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
+    ['/plebiscyt-plakatu', 'Plebiscyt na plakat o sztucznej inteligencji'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/#partnerzy', 'Dla partnerów'],
   ];
