@@ -23,15 +23,31 @@
     />
     <meta name="robots" content="noindex, follow" />
     <script src="/assets/marked.min.js"></script>
-    <link rel="stylesheet" href="/assets/view.css?v=20261026u" />
+    <link rel="stylesheet" href="/assets/view.css?v=20261026x" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=20261026x" />
   </head>
   <body>
-    <header class="masthead">
-      <span class="left">
-        <a class="back" href="/" aria-label="Wróć na stronę główną">&#8592;</a>
-        <a class="brand" href="/">Nagroda Konstela</a>
-      </span>
-    </header>
+    <div class="topbar">
+      <div class="topbar-in">
+        <span class="left">
+          <a class="back" href="/" aria-label="Wróć na stronę główną">&#8592;</a>
+          <a class="brand" href="/">Nagroda Konstela</a>
+        </span>
+        <button
+          id="burger"
+          class="burger"
+          type="button"
+          aria-expanded="false"
+          aria-controls="menu"
+          aria-label="Menu dokumentu"
+          hidden
+        >
+          <span class="burger-ikona" aria-hidden="true"></span>
+        </button>
+      </div>
+      <!-- Pozycje powstają z nagłówków dokumentu w assets/pasek.js. -->
+      <nav id="menu" class="menu" aria-label="Paragrafy dokumentu" hidden></nav>
+    </div>
 
     <main id="content">
       <div class="state">Wczytywanie</div>
@@ -39,8 +55,9 @@
 
     <konstela-stopka></konstela-stopka>
 
-    <script src="/assets/view.js?v=20261026u"></script>
-    <script src="/assets/nawigacja.js?v=20261026u" defer></script>
-    <script src="/assets/stopka.js?v=20261026u" defer></script>
+    <script src="/assets/view.js?v=20261026x"></script>
+    <script src="/assets/pasek.js?v=20261026x" defer></script>
+    <script src="/assets/nawigacja.js?v=20261026x" defer></script>
+    <script src="/assets/stopka.js?v=20261026x" defer></script>
   </body>
 </html>

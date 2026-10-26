@@ -204,14 +204,30 @@ function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tr
     <meta name="twitter:description" content="${escapuj(opisStrony)}" />
     <meta name="twitter:image" content="${DOMENA}${obrazek}" />
     <link rel="stylesheet" href="/assets/view.css${v}" />
+    <link rel="stylesheet" href="/assets/pasek.css${v}" />
   </head>
   <body>
-    <header class="masthead">
-      <span class="left">
-        <a class="back" href="/" aria-label="Wróć na stronę główną">&#8592;</a>
-        <a class="brand" href="/">Nagroda Konstela</a>
-      </span>
-    </header>
+    <div class="topbar">
+      <div class="topbar-in">
+        <span class="left">
+          <a class="back" href="/" aria-label="Wróć na stronę główną">&#8592;</a>
+          <a class="brand" href="/">Nagroda Konstela</a>
+        </span>
+        <button
+          id="burger"
+          class="burger"
+          type="button"
+          aria-expanded="false"
+          aria-controls="menu"
+          aria-label="Menu dokumentu"
+          hidden
+        >
+          <span class="burger-ikona" aria-hidden="true"></span>
+        </button>
+      </div>
+      <!-- Pozycje powstają z nagłówków dokumentu w assets/pasek.js. -->
+      <nav id="menu" class="menu" aria-label="Paragrafy dokumentu" hidden></nav>
+    </div>
 
     <main id="content" class="loaded">
 ${tresc}
@@ -219,6 +235,7 @@ ${tresc}
 
     <konstela-stopka></konstela-stopka>
 
+    <script src="/assets/pasek.js${v}" defer></script>
     <script src="/assets/nawigacja.js${v}" defer></script>
     <script src="/assets/stopka.js${v}" defer></script>
   </body>

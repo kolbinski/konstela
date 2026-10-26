@@ -1,6 +1,6 @@
 /* Przycisk powrotu w nagłówku podstron - jedno źródło prawdy.
  *
- * Używany na: view.html, view-xlsx.html, plebiscyt-piosenki/index.html.
+ * Używany na: view.html, strony budowane generatorem, view-xlsx.html, 404.html.
  * Strona musi mieć nagłówek w postaci:
  *   <header class="masthead"><span class="left">
  *     <a class="back" href="/">&#8592;</a><a class="brand" href="/">Nagroda Konstela</a>
@@ -22,7 +22,9 @@
 (function () {
   'use strict';
 
-  var lewa = document.querySelector('.masthead .left');
+  /* Podstrony dokumentów mają dziś pasek .topbar, a 404.html i view-xlsx.html
+     dawny nagłówek .masthead - obsługujemy oba. */
+  var lewa = document.querySelector('.topbar .left, .masthead .left');
   if (!lewa) return;
 
   var strzalka = lewa.querySelector('a.back');
