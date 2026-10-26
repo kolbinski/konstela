@@ -67,7 +67,7 @@ const OPISY = {
   'regulamin-plebiscytu':
     'Pełne zasady plebiscytu na piosenkę o sztucznej inteligencji: kto może zgłosić utwór, gdzie przebiega granica użycia AI, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do piosenki.',
   'polityka-prywatnosci':
-    'Jakie dane zbiera Nagroda Konstela, w jakim celu, jak długo je przechowuje i jakie prawa przysługują uczestnikom.',
+    'Jakie dane zbiera Nagroda Konstela w każdym z czterech plebiscytów i w głosowaniu publiczności, w jakim celu, jak długo je przechowuje i jakie prawa przysługują uczestnikom.',
   'plebiscyt-piosenki':
     'Otwarty konkurs na własną piosenkę o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie. Jury wybiera dziesięciu finalistów, a trzy najwyżej ocenione utwory dostają nagrody pieniężne.',
   'plebiscyt-plakatu':

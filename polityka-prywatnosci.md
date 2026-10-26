@@ -12,7 +12,9 @@ Administrator nie powołał inspektora ochrony danych; obowiązki w tym zakresie
 
 ## 2. Czego dotyczy ta polityka
 
-Polityka opisuje przetwarzanie danych w dwóch sytuacjach: podczas odwiedzania strony konstela.org oraz w związku ze zgłoszeniem rozmowy do Nagrody Konstela. Zasady samego konkursu określa Regulamin; niniejszy dokument go uzupełnia, a w razie rozbieżności w zakresie danych osobowych pierwszeństwo ma Polityka.
+Polityka opisuje przetwarzanie danych podczas odwiedzania strony konstela.org oraz w związku ze zgłoszeniem do któregokolwiek z plebiscytów Nagrody Konstela: na rozmowę ze sztuczną inteligencją, na piosenkę o niej, na plakat o niej i na film o niej. Obejmuje także głosowanie publiczności, w którym bierze udział nie uczestnik, lecz osoba głosująca.
+
+Każdy plebiscyt ma własny regulamin i własną konstrukcję zgłoszenia, więc dane i terminy są w każdym inne. Rozdziały 4-7 opisują je osobno; rozdziały 8-14 są wspólne. Zasady samych konkursów określają regulaminy, a tryb postępowania ze zgłoszeniem, które może budzić zastrzeżenia prawne, opisuje jawna [procedura moderacji zgłoszeń](/dokument/procedura-moderacji). Niniejszy dokument je uzupełnia, a w razie rozbieżności w zakresie danych osobowych pierwszeństwo ma Polityka.
 
 ## 3. Odwiedzanie strony
 
@@ -22,7 +24,9 @@ Dostawca hostingu z przyczyn technicznych i bezpieczeństwa przetwarza dane zawa
 
 Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma, skrypty i grafiki serwowane są wyłącznie z domeny konstela.org, więc przeglądarka odwiedzającego nie nawiązuje połączeń z usługami zewnętrznymi.
 
-## 4. Zgłoszenie rozmowy do Nagrody
+**Odnośniki do serwisów zewnętrznych.** W plebiscytach na piosenkę i na film zgłoszeniem jest odnośnik do nagrania pozostającego u dostawcy wybranego przez Uczestnika, a Słuchalnia i Projektornia prezentują ten odnośnik. **Administrator nie osadza na stronie odtwarzaczy ani żadnych elementów z tych serwisów**, więc samo wejście na stronę nie powoduje połączenia z nimi. Połączenie powstaje dopiero wtedy, gdy odwiedzający kliknie odnośnik - od tej chwili jego dane przetwarza ten serwis, na własnych zasadach, nad którymi Administrator nie ma kontroli.
+
+## 4. Zgłoszenie rozmowy w plebiscycie na rozmowę
 
 **Jakie dane.** Imię i nazwisko, miejscowość, adres e-mail, numer telefonu komórkowego, treść zgłoszenia wraz z linkiem do udostępnionej rozmowy oraz opisem odkrycia. W przypadku laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
 
@@ -44,23 +48,90 @@ Uczestnik, który nie może odebrać wiadomości SMS, ustala z Administratorem i
 
 **Czy podanie danych jest obowiązkowe.** Podanie danych jest dobrowolne, ale niezbędne do udziału w Nagrodzie. Bez nich zgłoszenie nie może zostać ocenione.
 
-## 5. Dane osób trzecich w treści rozmowy
 
-Regulamin zakazuje zgłaszania rozmów zawierających dane osób, które nie są osobami publicznymi. Uczestnik odpowiada za to, aby zgłoszona rozmowa nie zawierała danych osobowych osób trzecich. Ujawnione przypadki są rozpatrywane w trybach określonych w § 6 i § 7a Regulaminu i - zależnie od podstawy - mogą skutkować odrzuceniem zgłoszenia albo ograniczeniem jego publikacji. Administrator nie przegląda z urzędu treści wszystkich zgłoszeń na wejściu: problem może zostać dostrzeżony również później, w szczególności przez osobę oceniającą zgłoszenie (Regulamin § 8 ust. 3a).
+## 5. Zgłoszenie piosenki w plebiscycie na piosenkę
 
-## 6. Komu dane są przekazywane
+**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy zgłoszeniu zespołowym wraz ze wskazaniem reprezentanta, tytuł utworu, tekst utworu, odnośnik do nagrania demonstracyjnego, okładka zgłoszenia oraz deklaracja sposobu powstania tekstu i użycia narzędzi sztucznej inteligencji. U finalistów dodatkowo dane niezbędne do organizacji nagrania studyjnego, a u laureatów - do wypłaty nagrody i jej rozliczenia podatkowego.
 
-- **Członkowie Kapituły i Akademii** - w zakresie treści zgłoszenia niezbędnej do oceny. Oceniający pracują na zgłoszeniach pozbawionych imienia i nazwiska Uczestnika; Administrator zastrzega jednak w Regulaminie, że ocena nie jest w pełni anonimowa, ponieważ tożsamość może wynikać z samej treści rozmowy.
-- **Dostawcy usług technicznych** - hosting strony (GitHub, Inc.), poczta elektroniczna, a w przyszłości panel oceny. Podmioty te przetwarzają dane na podstawie umów powierzenia.
+**Czego Administrator nie przechowuje.** Nagrania. Utwór pozostaje na kanale Uczestnika i to on nim zarządza; Administrator przechowuje odnośnik, okładkę i dane zgłoszenia. Usunięcie nagrania przez Uczestnika jest skuteczne natychmiast i nie wymaga niczyjej zgody.
+
+**Co jest publikowane.** W Słuchalni i następnie w archiwum: tytuł, podpis, okładka, deklaracja i odnośnik. Tekst utworu jest publikowany wtedy, gdy Uczestnik go do publikacji przeznaczył, na zasadach regulaminu. Nagrania studyjne finalistów ukazują się na płycie na warunkach odrębnie z nimi ustalonych.
+
+**W jakim celu i na jakiej podstawie.** Tak jak w rozdziale 4: przeprowadzenie plebiscytu i kontakt - art. 6 ust. 1 lit. b RODO; prezentacja zgłoszenia w Słuchalni i w archiwum - również art. 6 ust. 1 lit. b, na podstawie licencji udzielanej przy zgłoszeniu, ponieważ prezentacja jest warunkiem udziału i nie opiera się na odrębnej zgodzie; wypłata i rozliczenie nagrody - art. 6 ust. 1 lit. c; weryfikacja kodem SMS i zasada jednego zgłoszenia - art. 6 ust. 1 lit. f.
+
+**Jak długo.** Dane publikowane - przez okres licencji określony w regulaminie. Pozostałe dane Uczestników nienagrodzonych - 60 dni od ogłoszenia wyników. Adres e-mail - nie dłużej niż 24 miesiące od ogłoszenia wyników. Dane laureatów - przez okres wymagany przepisami podatkowymi i o rachunkowości.
+
+## 6. Zgłoszenie plakatu w plebiscycie na plakat
+
+**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy pracy wykonanej wspólnie wraz ze wskazaniem reprezentanta, tytuł pracy, technika, wymiary i rok powstania, reprodukcja pracy, **nagranie z powstawania pracy** oraz oświadczenia regulaminowe. U finalistów dodatkowo adres do przesłania i zwrotu oryginału, a u laureatów - dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+
+### Nagranie z powstawania pracy
+
+To jest w całej Nagrodzie dane najbardziej wrażliwe dla Uczestnika i dlatego opisujemy je osobno.
+
+**Co nagranie zawiera.** Obraz pracy, rąk pracującego nad nią, **twarzy Uczestnika** oraz tego, co znalazło się w kadrze - zwykle fragmentu pracowni albo mieszkania. Regulamin wymaga, by nagranie zawierało nieprzerwane przejście kadru od twarzy Uczestnika do pracy (§ 4a ust. 3 lit. c1).
+
+**Po co.** Wyłącznie po to, by stwierdzić, że pracę wykonuje osoba, która ją zgłosiła. Konkurs stawia wymóg wykonania ręcznego, a bez nagrania wymóg ten opierałby się wyłącznie na oświadczeniu. Nagranie nie podlega ocenie w żadnym kryterium.
+
+**Podstawa.** Wykonanie umowy, którą stanowi przystąpienie do konkursu na warunkach regulaminu (art. 6 ust. 1 lit. b RODO). Nagranie jest warunkiem udziału, a nie przedmiotem odrębnej zgody - z tego samego powodu, dla którego nie opiera się na zgodzie publikacja zgłoszeń: zgoda wymuszona warunkiem udziału nie byłaby dobrowolna w rozumieniu art. 7 ust. 4 RODO. Przy Uczestniku, który nie ukończył 18 lat, zgoda przedstawiciela ustawowego obejmuje przesłanie nagrania wyraźnie i odrębnie (§ 3 ust. 2 regulaminu).
+
+**Nagranie nie jest publikowane.** Nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Dostęp mają wyłącznie Administrator, oceniający i jury, zobowiązani do poufności w umowach. Pokazanie nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, a jej brak nie wpływa na udział w konkursie, na ocenę ani na nagrodę.
+
+**Twarz na nagraniu nie jest przetwarzana biometrycznie.** Administrator **nie stosuje do nagrań rozpoznawania twarzy ani żadnych innych automatycznych narzędzi identyfikacji**, nie tworzy wzorców biometrycznych i nie porównuje wizerunków między zgłoszeniami. Sprawdzenia dokonuje człowiek, oglądając nagranie. Wizerunek nie jest więc przetwarzany w celu jednoznacznego zidentyfikowania osoby fizycznej w rozumieniu art. 9 ust. 1 RODO.
+
+**Jak długo.** Nagranie przechowywane jest do upływu terminu na zakwestionowanie werdyktu określonego w regulaminie, a następnie usuwane - również u oceniających, których umowy przewidują usunięcie kopii roboczych. Nagranie nie jest przechowywane w archiwum konkursu.
+
+**Pseudonim działa nadal.** Twarz na nagraniu nie odbiera możliwości zgłoszenia pracy pod pseudonimem: nagranie nie jest publikowane, a publicznie zgłoszenie jest podpisane tak, jak Uczestnik wskazał.
+
+### Oryginały prac finałowych
+
+Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane publicznie - na wystawie przy gali i na wernisażu w galerii sztuki. Wymaga to przekazania danych adresowych firmie przewozowej, ubezpieczycielowi oraz galerii, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji. Podstawą jest wykonanie umowy (art. 6 ust. 1 lit. b RODO) oraz prawnie uzasadniony interes w zabezpieczeniu powierzonych prac (art. 6 ust. 1 lit. f RODO).
+
+**Co jest publikowane.** Reprodukcja pracy, tytuł, podpis, technika i rok edycji - w Galerii, a następnie w archiwum. Przy pracy zwycięskiej, za odrębną zgodą autora, reprodukcja na okładce antologii i w materiałach informacyjnych edycji.
+
+## 7. Zgłoszenie filmu w plebiscycie na film
+
+**Jakie dane.** Imię i nazwisko albo pseudonim lub nazwa składu twórczego, adres e-mail, numer telefonu komórkowego, tytuł filmu, czas trwania, data ukończenia, odnośnik do filmu, miniatura, opis filmu, deklaracja użycia narzędzi sztucznej inteligencji oraz oświadczenia regulaminowe. U finalistów dodatkowo fragment wskazany na emisję galową, a u laureatów - dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+
+**Czego Administrator nie przechowuje.** Filmu. Film pozostaje w serwisie, w którym opublikował go Uczestnik, a Projektornia i archiwum są katalogiem: tytuł, podpis, miniatura, czas trwania, opis, deklaracja i odnośnik. Usunięcie filmu przez Uczestnika jest skuteczne natychmiast; wpis pozostaje wtedy bez działającego odnośnika, co Administrator oznacza.
+
+**Dane osób występujących w filmie.** Odpowiada za nie Uczestnik: zgłaszając film, oświadcza, że osoby występujące wyraziły zgodę na publikację swojego wizerunku. Administrator nie przechowuje kopii filmu, a więc nie przechowuje też utrwalonych w nim wizerunków; przetwarza wyłącznie wpis katalogowy i odnośnik. Dostrzeżone problemy rozpatrywane są w trybie z regulaminu i z [procedury moderacji](/dokument/procedura-moderacji).
+
+**W jakim celu i na jakiej podstawie.** Tak jak w rozdziałach 4 i 5. Prezentacja wpisu w Projektorni i w archiwum oraz emisja minutowego fragmentu podczas gali opierają się na licencji udzielanej przy zgłoszeniu i są warunkiem udziału; pełny pokaz filmu finałowego wymaga odrębnej zgody, a jej brak nie wpływa na ocenę ani na nagrodę.
+
+**Jak długo.** Wpis katalogowy - przez okres licencji określony w regulaminie, przy czym prezentacja wpisu w archiwum przewidziana jest na czas nieoznaczony. Fragment przekazany na emisję galową - pięć lat od dnia gali. Pozostałe dane Uczestników nienagrodzonych - 60 dni od ogłoszenia wyników. Dane laureatów - przez okres wymagany przepisami podatkowymi i o rachunkowości.
+
+## 8. Głosowanie publiczności
+
+Głosowanie w każdym plebiscycie jest otwarte i działa na zasadzie jednego głosu na jeden numer telefonu, potwierdzanego jednorazowym kodem w wiadomości SMS. **Osoba głosująca nie jest uczestnikiem konkursu i Administrator nie zbiera od niej żadnych innych danych**: ani imienia, ani adresu e-mail.
+
+Z numerem telefonu osoby głosującej Administrator postępuje tak samo jak z numerem Uczestnika, opisanym w rozdziale 4: po wysłaniu kodu nie przechowuje go w postaci jawnej, lecz zastępuje wartością skrótu obliczoną z użyciem klucza tajnego przechowywanego odrębnie. Wartość ta pozwala wyłącznie stwierdzić, czy z danego numeru już głosowano. Podstawą jest prawnie uzasadniony interes polegający na zapewnieniu rzetelności głosowania (art. 6 ust. 1 lit. f RODO). Skróty usuwane są wraz z zamknięciem edycji.
+
+**Liczniki głosów nie są publikowane w trakcie głosowania**, a wynik ogłaszany jest na gali. Numer głosującego nie służy do korespondencji ani do celów marketingowych i nie jest przekazywany nikomu poza dostawcą usługi wysyłki wiadomości SMS.
+
+## 9. Dane osób trzecich w treści zgłoszenia
+
+Regulamin plebiscytu na rozmowę zakazuje zgłaszania rozmów zawierających dane osób, które nie są osobami publicznymi. We wszystkich czterech plebiscytach **Uczestnik odpowiada za to, aby zgłoszenie nie zawierało danych osobowych osób trzecich** - dotyczy to treści rozmowy, podobizny na plakacie, obrazu i dźwięku w filmie, okładki zgłoszenia piosenki, a także tego, co znalazło się w kadrze nagrania z powstawania plakatu.
+
+Ujawnione przypadki są rozpatrywane w trybach określonych w odpowiednim regulaminie i - zależnie od podstawy - mogą skutkować odrzuceniem zgłoszenia albo ograniczeniem jego publikacji. **Administrator nie przegląda z urzędu treści wszystkich zgłoszeń na wejściu**, ponieważ przegląd prowadzony osobno przez Administratora nie skalowałby się wraz z liczbą zgłoszeń. Problem może więc zostać dostrzeżony później, w szczególności przez osobę oceniającą zgłoszenie: tryb oznaczania i jego skutki opisuje jawna [procedura moderacji zgłoszeń](/dokument/procedura-moderacji). Oznaczenie jest sygnałem, nie rozstrzygnięciem, nie wpływa na ocenę zgłoszenia i nie pozostawia publicznego śladu, jeżeli okaże się nietrafne.
+
+## 10. Komu dane są przekazywane
+
+- **Oceniający** - członkowie Kapituły, jury i Akademii, w zakresie treści zgłoszenia niezbędnej do oceny. Pracują na zgłoszeniach pozbawionych imienia i nazwiska Uczestnika; Administrator zastrzega jednak w regulaminach, że ocena nie jest w pełni anonimowa, ponieważ tożsamość może wynikać z samej treści zgłoszenia, a w plebiscycie na plakat wynika z nagrania z powstawania pracy, które oceniający widzi. Oceniających wiąże poufność, obejmująca w szczególności nagrania z powstawania prac, które nie są publikowane.
+- **Dostawcy usług technicznych** - hosting strony (GitHub, Inc.), poczta elektroniczna, dostawca usługi wysyłki wiadomości SMS, a w przyszłości panel oceny oraz usługa przechowywania nagrań z powstawania prac. Podmioty te przetwarzają dane na podstawie umów powierzenia.
+- **Firma przewozowa, ubezpieczyciel i galeria sztuki** - wyłącznie w plebiscycie na plakat i wyłącznie wobec finalistów, w zakresie niezbędnym do przewozu, ubezpieczenia i ekspozycji oryginałów (rozdział 6).
+- **Partnerzy wydawniczy** - w zakresie niezbędnym do wydania antologii i płyty, to jest danych publikowanych wraz ze zgłoszeniem.
 - **Organy publiczne** - wyłącznie wtedy, gdy wymagają tego przepisy, w szczególności w zakresie rozliczenia podatku od nagród.
 
 Dane nie są sprzedawane ani udostępniane w celach marketingowych.
 
-## 7. Przekazywanie poza Europejski Obszar Gospodarczy
+## 11. Przekazywanie poza Europejski Obszar Gospodarczy
 
 Hosting strony zapewnia GitHub, Inc., co może wiązać się z przekazaniem danych zawartych w zapytaniach do serwera, w tym adresu IP, do Stanów Zjednoczonych. Dostawca deklaruje stosowanie mechanizmów przewidzianych w rozdziale V RODO.
 
-## 8. Uprawnienia
+**Nagrania i filmy u dostawców zewnętrznych.** W plebiscytach na piosenkę i na film treść zgłoszenia publikuje sam Uczestnik, na wybranej przez siebie platformie, przed złożeniem zgłoszenia i niezależnie od Administratora. **Nie jest to przekazanie danych przez Administratora**, ponieważ Administrator tych treści nie wysyła ani nie przechowuje; przechowuje odnośnik. Zasady platformy, w tym miejsce przetwarzania, są sprawą między Uczestnikiem a tą platformą.
+
+## 12. Uprawnienia
 
 Przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, przenoszenia, wniesienia sprzeciwu wobec przetwarzania opartego na prawnie uzasadnionym interesie oraz cofnięcia zgody w dowolnym momencie, bez wpływu na zgodność z prawem przetwarzania dokonanego przed jej cofnięciem.
 
@@ -68,7 +139,9 @@ Przysługuje również prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych
 
 Wszystkie powyższe sprawy załatwiane są pod adresem kontakt@konstela.org.
 
-## 9. Co Uczestnik może zmienić po zgłoszeniu
+## 13. Co Uczestnik może zmienić po zgłoszeniu
+
+Rozdział ten opisuje najpierw plebiscyt na rozmowę, a na końcu to, co różni się w pozostałych trzech.
 
 **Publikacja nie opiera się na zgodzie, więc nie ma zgody do wycofania.** Przystępując do Nagrody, Uczestnik udziela licencji na publikację swojego zgłoszenia w czytelni, w archiwum rozmów i w antologii (Regulamin § 11 ust. 3), a publikacja jest warunkiem udziału. To, co Uczestnik rzeczywiście może zrobić, jest następujące.
 
@@ -84,6 +157,30 @@ Wszystkie powyższe sprawy załatwiane są pod adresem kontakt@konstela.org.
 
 **Czego pseudonim nie robi.** Pseudonim zastępuje podpis; **nie anonimizuje treści rozmowy ani strony dostępnej pod odnośnikiem.** Rozmowa, opis odkrycia albo strona u dostawcy mogą zawierać imię, nazwisko, nazwę firmy albo inne informacje pozwalające rozpoznać autora - i Administrator tego nie usuwa z urzędu. Uczestnik, dla którego to istotne, powinien przejrzeć treść zgłoszenia przed jego złożeniem. Wybór między nazwiskiem a pseudonimem Uczestnik może zmienić, pisząc na adres kontaktowy, **najpóźniej do dnia zamknięcia treści antologii**; po tym dniu zmiana podpisu następuje w trybie opisanym wyżej, czyli na zasadach żądania złożonego po publikacji.
 
-## 10. Zmiany polityki
+### W pozostałych plebiscytach
+
+**Podpis.** Zasada jest ta sama we wszystkich czterech: Uczestnik wybiera przy zgłoszeniu, czy jest podpisany imieniem i nazwiskiem, pseudonimem albo nazwą składu twórczego, a wybór obejmuje prezentację zgłoszenia, archiwum i listę laureatów.
+
+**Usunięcie zgłoszenia u siebie.** W plebiscytach na piosenkę i na film Uczestnik ma narzędzie, którego w pozostałych nie ma: treść zgłoszenia stoi na jego własnym kanale, więc może ją usunąć w każdej chwili, bez niczyjej zgody i bez kontaktu z Administratorem. Wpis w archiwum pozostaje wtedy bez działającego odnośnika. Usunięcie po ogłoszeniu werdyktu nie powoduje utraty nagrody; usunięcie przed zakończeniem oceny oznacza, że zgłoszenie nie może być dalej oceniane.
+
+**Wycofanie zgłoszenia z konkursu.** W plebiscycie na film - nie później niż 14 dni przed dniem gali (§ 13 regulaminu filmu); po tym dniu fragmenty filmów finałowych są zmontowane w materiał galowy. **W plebiscytach na piosenkę i na plakat regulaminy nie przewidują dziś odrębnego trybu wycofania zgłoszenia** - Administrator mówi to wprost, zamiast obiecywać uprawnienie, którego regulamin nie zawiera. Kwestia ta jest przedmiotem przeglądu prawnego wskazanego na końcu tej polityki, a do jego zakończenia żądania wycofania Administrator rozpatruje indywidualnie, pod adresem kontaktowym.
+
+**Nagranie z powstawania plakatu.** Uczestnik może w każdej chwili zażądać informacji, kto miał do nagrania dostęp, i otrzymuje ją. Nie może natomiast wycofać samego nagrania, pozostając w konkursie: jest ono warunkiem udziału, a bez niego zgłoszenie przestaje spełniać wymogi formalne. Po upływie terminu z rozdziału 6 nagranie jest usuwane niezależnie od tego, czy Uczestnik tego żąda.
+
+## 14. Zmiany polityki
 
 O zmianach Administrator informuje na stronie Nagrody. Do zgłoszeń złożonych przed zmianą stosuje się wersję obowiązującą w dniu zgłoszenia.
+
+---
+
+## Miejsca wymagające przeglądu prawnego
+
+Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które do takiej konsultacji trafiają:
+
+1. **Nagranie z powstawania plakatu jako warunek udziału** (rozdział 6) - proporcjonalność wymogu, podstawa przetwarzania wizerunku twarzy, wystarczalność art. 6 ust. 1 lit. b RODO zamiast zgody, a także zakres zgody przedstawiciela ustawowego przy Uczestniku, który nie ukończył 18 lat.
+2. **Stanowisko, że wizerunek z nagrania nie jest przetwarzany biometrycznie** - czy przy ocenie prowadzonej wyłącznie przez człowieka, bez narzędzi automatycznych, art. 9 RODO rzeczywiście nie znajduje zastosowania.
+3. **Brak trybu wycofania zgłoszenia w regulaminach piosenki i plakatu** (rozdział 13) - czy wobec konsumenta jest to dopuszczalne, a jeżeli nie, jaki termin i jakie skutki należy wprowadzić. Plebiscyt na film ma taki tryb, plebiscyt na rozmowę również.
+4. **Stanowisko, że publikacja treści przez Uczestnika na własnym kanale nie jest przekazaniem danych przez Administratora** (rozdział 11), przy jednoczesnym prezentowaniu odnośnika na stronie Nagrody.
+5. **Publikacja punktacji wszystkich zgłoszeń** (rozdział 13) - utrzymana z poprzedniej wersji polityki i nadal wymagająca oceny.
+6. **Oznaczanie zastrzeżeń przez oceniających zamiast przeglądu przez Administratora** (rozdział 9) - czy przy publikacji wszystkich zgłoszeń, które przeszły ocenę formalną, taki tryb jest wystarczającym zachowaniem należytej staranności.
+7. **Lista kontrolna rozstrzygnięć publikacyjnych oraz historia oznaczeń** - czy ich prowadzenie i przechowywanie wymaga odrębnej podstawy wskazanej w tej polityce.
