@@ -122,7 +122,7 @@ Terminy naboru ogłosimy razem z regulaminem. Planujemy 2027 rok, po zabezpiecze
 
 ## <svg class="ico" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><span>Dlaczego akurat plakat</span>
 
-Bo to jedyna dziedzina, w której Polska ma własną szkołę rozpoznawaną na świecie - i bo cała publiczna awantura o sztuczną inteligencję i sztukę toczy się dziś o obrazy, nie o muzykę ani o teksty. Generator rysuje plakat w pół minuty. Pytanie, co z tego wynika dla człowieka, który rysuje go trzy tygodnie, jest pytaniem o tę epokę, a nie o technikę.
+Bo to jedyna dziedzina, w której Polska ma własną szkołę rozpoznawaną na świecie - i ponieważ właśnie na obrazach spór o sztuczną inteligencję zrobił się najgłośniejszy. Nie znaczy to, że muzyki i pisania ten spór nie dotyczy; znaczy tylko, że tam zobaczyli go wszyscy naraz. Generator rysuje plakat w pół minuty. Pytanie, co z tego wynika dla człowieka, który rysuje go trzy tygodnie, jest pytaniem o tę epokę, a nie o technikę.
 
 Warunek ręcznego wykonania nie jest więc nostalgią. Jest sposobem postawienia pytania tak, żeby dało się na nie odpowiedzieć obrazem, a nie manifestem.
 
