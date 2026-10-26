@@ -345,9 +345,31 @@ function main() {
     '</urlset>\n';
   fs.writeFileSync(path.join(KORZEN, 'sitemap.xml'), mapa);
 
+  /* Strony pisane ręcznie - strona główna, 404 i dwie przeglądarki - mają
+     własne odwołania do plików z katalogu assets ze znacznikiem w adresie.
+     Dotąd trzeba było podbijać go ręcznie i to się mściło: poprawka w
+     assets/pasek.css albo w assets/pasek.js nie docierała do przeglądarki,
+     bo adres pliku się nie zmieniał, a strona wyglądała, jakby poprawki nie
+     było. Budowanie podbija ten znacznik razem z dokumentami. */
+  let podbite = 0;
+  ['index.html', '404.html', 'view.html', 'view-xlsx.html'].forEach((nazwa) => {
+    const sciezka = path.join(KORZEN, nazwa);
+    if (!fs.existsSync(sciezka)) return;
+    const przed = fs.readFileSync(sciezka, 'utf8');
+    const po = przed.replace(
+      /(\/assets\/[A-Za-z0-9._-]+)\?v=[0-9]+/g,
+      `$1?v=${ZNACZNIK_ZASOBOW}`
+    );
+    if (po !== przed) {
+      fs.writeFileSync(sciezka, po);
+      podbite++;
+    }
+  });
+
   console.log(
     `Zbudowano ${pliki.length} dokumentów, w tym ${publiczne} publicznych. ` +
-      `Mapa strony zawiera ${publiczne + 1} adresów.`
+      `Mapa strony zawiera ${publiczne + 1} adresów. ` +
+      `Znacznik zasobów podbity w ${podbite} stronach pisanych ręcznie.`
   );
 }
 
