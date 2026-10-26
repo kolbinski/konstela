@@ -156,7 +156,7 @@ Organizator nie publikuje treści odrzuconego zgłoszenia i informuje Uczestnika
 
 Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupełnienia braków, nie poprawia zgłoszeń i nie przedłuża terminu w tym celu; zgłoszenie niekompletne odpada na etapie oceny formalnej. Do upływu terminu zgłoszeń Uczestnik może przesłać zgłoszenie poprawione, które zastępuje poprzednie.
 
-## § 7. Kryteria oceny merytorycznej
+## § 7. Kryteria oceny
 
 Zgłoszenia ocenia się według czterech kryteriów o równej wadze, przyznając w każdym **od 0 do 25 punktów; łącznie do 100 punktów**. Słowne opisy pasm punktowych dla każdego kryterium zawiera [**Karta oceny**](#karta-oceny) zamieszczona na końcu niniejszego paragrafu:
 
