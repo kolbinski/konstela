@@ -35,6 +35,7 @@ const PUBLICZNE = new Set([
   'regulamin-plakatu',
   'regulamin-filmu',
   'plebiscyt-rozmowy',
+  'plebiscyt-filmu',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
@@ -43,6 +44,7 @@ const DEDYKOWANE = {
   'plebiscyt-rozmowy': 'plebiscyt-rozmowy',
   'plebiscyt-piosenki': 'plebiscyt-piosenki',
   'plebiscyt-plakatu': 'plebiscyt-plakatu',
+  'plebiscyt-filmu': 'plebiscyt-filmu',
 };
 
 /* Opisy stron publicznych pisane ręcznie. Dokumenty prawne zaczynają się od
@@ -69,6 +71,8 @@ const OPISY = {
     'Otwarty konkurs na własną piosenkę o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie. Jury wybiera dziesięciu finalistów, a trzy najwyżej ocenione utwory dostają nagrody pieniężne.',
   'plebiscyt-plakatu':
     'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę antologii Nagrody Konstela.',
+  'plebiscyt-filmu':
+    'Otwarty konkurs na film o sztucznej inteligencji, od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Zgłoszeniem jest odnośnik do filmu na Twoim kanale; nie ma zakazu użycia AI, jest obowiązek deklaracji.',
   'regulamin-filmu':
     'Pełne zasady plebiscytu na film o sztucznej inteligencji: kto może zgłosić film, dlaczego nie ma tu zakazu użycia narzędzi AI, a jest obowiązek deklaracji, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do filmu.',
   'regulamin-plakatu':

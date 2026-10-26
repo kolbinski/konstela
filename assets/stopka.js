@@ -19,6 +19,7 @@
     ['/plebiscyt-rozmowy', 'Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją'],
     ['/plebiscyt-piosenki', 'Nagroda Konstela w plebiscycie na piosenkę o sztucznej inteligencji'],
     ['/plebiscyt-plakatu', 'Nagroda Konstela w plebiscycie na plakat o sztucznej inteligencji'],
+    ['/plebiscyt-filmu', 'Nagroda Konstela w plebiscycie na film o sztucznej inteligencji'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/#partnerzy', 'Dla partnerów'],
   ];
