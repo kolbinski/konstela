@@ -243,8 +243,11 @@
         color: var(--text);
         background: var(--bg);
         -webkit-font-smoothing: antialiased;
-        padding: max(16px, env(safe-area-inset-top))
-          max(16px, env(safe-area-inset-right))
+        /* Bez dopełnienia u góry: pasek jest pierwszym elementem strony i
+           dokłada swoje własne, więc dopełnienie body dodawałoby się do niego
+           i odstęp nad napisem wychodził większy niż pod nim. Bezpieczny
+           obszar u góry przejmuje sam pasek. */
+        padding: 0 max(16px, env(safe-area-inset-right))
           max(16px, env(safe-area-inset-bottom))
           max(16px, env(safe-area-inset-left));
       }
@@ -255,7 +258,8 @@
         /* Dopełnienie równe z obu stron. Wyrównanie do środka, a nie do linii
            pisma: przy wyrównaniu do linii pisma strzałka i napis mają różne
            wysokości wiersza, więc odstęp nad i pod nimi wychodził inny. */
-        padding-block: 1.35rem;
+        padding-top: calc(1.35rem + env(safe-area-inset-top, 0px));
+        padding-bottom: 1.35rem;
         border-bottom: 1px solid var(--line);
         display: flex;
         align-items: center;
