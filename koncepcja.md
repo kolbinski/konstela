@@ -821,3 +821,55 @@ Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie r
 - **Pojedynek pytań na gali** - dwie osoby, ta sama AI, ten sam problem przyniesiony przez kogoś z sali, limit dwunastu pytań z licznikiem na ekranie, na dużym ekranie wyłącznie pytania człowieka. Komentarz w duecie, jak w sporcie: jeden od tempa, drugi to juror tłumaczący, co się przed chwilą stało. Miejsce tego pomysłu jest w teczce gali i tam ma swój budżet.
 - **Muzeum złych odpowiedzi** - zbiór momentów, w których AI odpowiedziała pięknie, pewnie i nieprawdziwie, a człowiek to złapał. Dwa zastrzeżenia: łatwo osuwa się w „AI głupia", co jest odwrotnością tezy Konsteli, a publikowanie wyrwanych fragmentów odpowiedzi wchodzi wprost w pytanie do kancelarii o status prawny wypowiedzi modelu i o regulaminy dostawców.
 - **Cotygodniowa półka w Czytelni** - jedna rozmowa wyróżniona, trzy zdania komentarza, stała pora. Lekarstwo na to, że zgłoszenia kumulują się pod koniec terminu, więc Czytelnia rośnie nierówno. Koszt zerowy.
+
+## Konkurs na plakat o sztucznej inteligencji (pomysł z 26.10.2026, rozwijany)
+
+**Status: nie jest decyzją.** Całość zależy od jednej odpowiedzi, o którą jeszcze nie zapytaliśmy - patrz „Pierwszy ruch" niżej.
+
+Otwarty konkurs na plakat o sztucznej inteligencji i jej roli w świecie, wykonany **ręcznie, techniką tradycyjną, bez generatorów obrazu**. Zwycięski plakat staje się twarzą edycji: idzie na stronę, na zaproszenia, na galę, do mediów, i **trafia na okładkę antologii**.
+
+### Dlaczego to jest mocniejsze niż plebiscyt piosenki
+
+**Polska szkoła plakatu.** To jedyna dziedzina, w której Polska ma własną szkołę rozpoznawaną na świecie. Dla MKiDN nie trzeba tłumaczyć, czemu resort kultury ma się tym zająć - to jest jego język ojczysty, inaczej niż przy konkursie piosenki.
+
+**Spór o AI toczy się o obrazy, nie o muzykę.** Warunek „namalowane farbą" mówi coś ostrzejszego niż ten sam warunek przy melodii, i mówi to w dziedzinie, w której awantura naprawdę trwa.
+
+**Po konkursie zostają przedmioty.** Rozmowa to link, piosenka to plik, a plakat to płótno, które można powiesić i sprzedać. Dlatego akurat tu licytacja ma sens.
+
+**Domyka antologię.** Zwycięski plakat na okładce wiąże konkurs plastyczny z dorobkiem, który jest głównym argumentem wobec resortu kultury. Antologia przestaje być składem tekstu, a staje się wydawnictwem z własną oprawą - a sponsor Antologii dostaje powód, żeby ten konkurs współfinansować.
+
+### Jest też znacznie lżejszy logistycznie, niż się wydaje
+
+Korekta mojej wcześniejszej oceny: ciężar plebiscytu piosenki nie bierze się z samego konkursu, tylko z dziesięciu sesji studyjnych, producenta, praw do nagrań i wydawnictwa-partnera. Przy plakacie nie ma nic z tych rzeczy. Jest regulamin, jury, termin, wystawa przy gali i ewentualna licytacja. Organizator nie finansuje wykonania prac, więc odpada najdroższa pozycja plebiscytu.
+
+### Pierwszy ruch: pytanie do Rafała Olbińskiego
+
+**Przed regulaminem, przed kosztorysem, przed rozmową z jakimkolwiek sponsorem.** Michał Sołtan zna go dobrze, więc jest ciepłe wprowadzenie. Pytanie w wariancie „czy ten pomysł Pana interesuje", bez kwot i bez dokumentów.
+
+**Jego zgoda nie jest faktem, dopóki jej nie ma.** Lekcja z tego tygodnia: Michał powiedział „tak", a drugim zdaniem zapytał, ile dostanie. Olbiński mieszka w Nowym Jorku i jest nazwiskiem rynkowym - jego czas ma cenę, niekoniecznie wysoką za jurorowanie, ale niezerową. Każda rozmowa ze sponsorem powołująca się na jego udział przed uzyskaniem zgody jest obietnicą bez pokrycia.
+
+Wariant tańszy, gdyby konkurs okazał się na razie za duży: **jeden plakat pierwszej edycji zamówiony u Olbińskiego**, ewentualnie zaproszenie go do rady honorowej. Nagroda dostaje twarz i nazwisko bez regulaminu, jury i logistyki cudzych płócien, a konkurs otwarty wchodzi w drugiej edycji.
+
+### Mechanika zgłoszeń - wzorzec z plebiscytu
+
+Nie da się prosić setek osób o wysyłanie płócien. **Zgłoszeniem jest fotografia albo skan pracy**, a oryginały przysyła dopiero dziesiątka finalistów - na wystawę przy gali i na licytację. To ta sama konstrukcja co demo kontra nagranie studyjne, tylko tańsza.
+
+**Zasada formalna** analogiczna do reguły AI w plebiscycie: praca wykonana ręcznie, bez generatorów obrazu, deklaracja przy zgłoszeniu, materiały robocze od finalistów. Przy malarstwie jest to łatwiejsze do wykazania niż przy muzyce - zdjęcia z kolejnych etapów pracy powstają same.
+
+### Pieniądze z licytacji
+
+**Odrzucony podział 50/50.** Połowa od półprofesjonalisty, który sam kupił płótno i farby, jest stroma - to ta sama grupa, której przy plebiscycie świadomie nie kazaliśmy płacić za studio. Fundacja biorąca połowę przestaje wyglądać na organizatora, a zaczyna na pośrednika.
+
+**Przyjęty wzorzec: § 13 ust. 4 regulaminu Nagrody.** Przychód z płatnego wydania antologii, po pokryciu kosztów, zasila pulę nagród kolejnej edycji, a organizator nie osiąga z tego zysku. Przeniesione na licytację: **autor dostaje swoją część, reszta idzie na pulę nagród następnej edycji, fundacja nie zatrzymuje nic.** Kupujący wie, za co płaci, a organizator nie tłumaczy się ani przed artystą, ani przed sponsorem.
+
+**Przy samym podziale: autor przy zgłoszeniu sam wybiera**, czy przekazuje pracę na licytację i w jakiej części. Dobrowolność jest tu warta więcej niż procent.
+
+### Do sprawdzenia, zanim to wystartuje
+
+1. **Status prawny licytacji.** Dzieła przekazane fundacji to inna maszyna niż konkurs: czy to zbiórka publiczna, darowizna rzeczowa, czy działalność odpłatna; podatek po stronie autora od jego części; czy fundacja może sprzedawać cudzą własność bez umowy komisu.
+2. **Kto przyjdzie licytować.** Słaba licytacja jest gorsza niż żadna, bo publicznie wycenia prace nisko. Do rozważenia cena minimalna albo licytacja internetowa z domem aukcyjnym jako partnerem.
+3. **Transport, ubezpieczenie i przechowanie oryginałów.** Nudne, ale realne i dotąd niepoliczone.
+
+### Ryzyko do przyjęcia świadomie
+
+To jest **czwarty konkurs i czwarty sponsor**: rozmowy, piosenka, akademia, plakat. Fundacja nie jest zarejestrowana, pula nagród nie jest zabezpieczona, a trzy rozmowy sponsorskie są otwarte i nierozstrzygnięte. Argument przemawiający za: praca organizatora to pisanie, maile i telefony, a konkurs plakatu mieści się w tym bez nowej infrastruktury. Argument przeciw: każdy kolejny front rozcieńcza te trzy rozmowy, które już trwają.
