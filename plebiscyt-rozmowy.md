@@ -51,7 +51,7 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 **I. Rozpiętość.** Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.
 
-**II. Drążenie.** Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją. Czy dwudzieste pytanie wynika z dwunastej odpowiedzi.
+**II. Drążenie.** Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją. Czy kolejne pytania wykorzystują to, co już ustalone.
 
 **III. Weryfikacja.** Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności.
 
