@@ -65,8 +65,8 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270557" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610270557" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270559" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610270559" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
       @font-face {
@@ -627,6 +627,12 @@
         #plebiscyty .kafle {
           grid-template-columns: repeat(2, 1fr);
         }
+      }
+      /* Dorobek edycji czyta się jak listę, a nie jak zestawienie do
+         porównywania: cztery kafle jeden pod drugim, niezależnie od
+         szerokości ekranu. */
+      #antologia .kafle {
+        grid-template-columns: 1fr;
       }
       .awards article {
         background: var(--surface);
@@ -1489,8 +1495,8 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=202610270557" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610270557" defer></script>
-    <script src="/assets/pasek.js?v=202610270557" defer></script>
+    <script src="/assets/stopka.js?v=202610270559" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610270559" defer></script>
+    <script src="/assets/pasek.js?v=202610270559" defer></script>
   </body>
 </html>
