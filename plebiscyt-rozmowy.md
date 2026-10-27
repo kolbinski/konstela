@@ -42,7 +42,7 @@ Osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie 
 - **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości
 - **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne
 - **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji możesz pisać swobodnie
-- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien. W danej edycji możesz zrobić tylko jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu
+- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien z różnymi czatami. W danej edycji możesz zrobić tylko jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
