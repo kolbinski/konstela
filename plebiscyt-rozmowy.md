@@ -152,6 +152,10 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
 <p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza po zamknięciu naboru, 15 stycznia 2028 i trwa do dnia gali.</p>
 </article>
+<article>
+<h3>Nagroda dla publicznych ocen zgłoszonych rozmów</h3>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>, która najlepiej uzasadni swój wybór. Przy każdym głosie piszesz od 200 do 1500 znaków, a najlepsze uzasadnienie wybiera zespół spoza jury.</p>
+</article>
 </div>
 
 **Wysokość puli nagród ogłaszamy w dniu otwarcia zgłoszeń** i od tej chwili może ona już tylko rosnąć.

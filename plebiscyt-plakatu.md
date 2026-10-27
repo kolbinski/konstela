@@ -109,12 +109,24 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - b
 
 **To jest projekt - ostateczne brzmienie i wagi uzgadniamy z jury przed otwarciem naboru, a po jego otwarciu nic się w nich nie zmienia.**
 
-| Kryterium | Punkty | Co znaczy |
-|---|---:|---|
-| Ujęcie&nbsp;tematu | od 0 do 30 | **Co mówisz** o życiu z AI: trafność, oryginalność i głębia wypowiedzi |
-| Pomysł&nbsp;plastyczny | od 0 do 30 | **Jak to pokazujesz**: przełożenie myśli na obraz, metaforę i relacje między elementami; niżej punktowane jest banalne użycie motywu |
-| Wykonanie | od 0 do 20 | Świadome użycie techniki, koloru i rysunku |
-| Działanie&nbsp;plakatu | od 0 do 20 | Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym |
+<div class="kafle jedna-kolumna">
+<article>
+<h3>Ujęcie tematu - od 0 do 30 punktów</h3>
+<p><strong>Co mówisz</strong> o życiu z AI: trafność, oryginalność i głębia wypowiedzi.</p>
+</article>
+<article>
+<h3>Pomysł plastyczny - od 0 do 30 punktów</h3>
+<p><strong>Jak to pokazujesz</strong>: przełożenie myśli na obraz, metaforę i relacje między elementami. Niżej punktowane jest banalne użycie motywu, a nie sam motyw.</p>
+</article>
+<article>
+<h3>Wykonanie - od 0 do 20 punktów</h3>
+<p>Świadome użycie techniki, koloru i rysunku.</p>
+</article>
+<article>
+<h3>Działanie plakatu - od 0 do 20 punktów</h3>
+<p>Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym.</p>
+</article>
+</div>
 
 **Razem maksymalnie 100 punktów.**
 
@@ -124,17 +136,22 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Czego nie oceniamy: Twojego dorobku, wykształcenia ani tego, czy ktoś Cię już wystawiał.**
 
-**Jak liczymy wynik.** Punkty zgłoszenia to średnia ocen oceniających, którzy je oglądali; liczbę oceniających na jedno zgłoszenie podajemy przed otwarciem naboru. Jeżeli ktoś z jury wyłącza się od oceny Twojej pracy, bo Cię zna, jego ocena nie jest brana pod uwagę.
+**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z akademii, które je oglądały - i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Jeżeli ktoś z jury wyłącza się od oceny Twojej pracy, bo Cię zna, jego ocena nie jest brana pod uwagę.
 
 Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
-<h2 id="kto-ocenia"><!--ikona:jury--><span>Jury i tryb oceny</span></h2>
+<h2 id="kto-ocenia"><!--ikona:jury--><span>Kto ocenia</span></h2>
 
-**Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo spośród listy zakwalifikowanej przez akademię plakatu, zależnie od trybu ogłoszonego przed naborem - a następnie ustala kolejność całej dziesiątki.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
-
-**Składu jury jeszcze nie ma i nie wymieniamy nikogo, dopóki nie potwierdzi udziału.** Zapowiadamy natomiast zasadę: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora.
-
-**Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i jej kolejność ustala zawsze jury. Próg powołania akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
+<div class="kafle jedna-kolumna">
+<article>
+<h3>Akademia plakatu</h3>
+<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia plakatu</strong> - grono praktyków plakatu, ilustracji i projektowania graficznego, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plakatu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób ogląda jedno zgłoszenie i jak powstaje lista, mówimy przed otwarciem naboru.</p>
+</article>
+<article>
+<h3>Jury</h3>
+<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.</strong> Werdykt należy do jury, nie do głosowania publiczności - Nagroda Publiczności jest nagrodą odrębną. Składu jeszcze nie ma i nie wymieniamy nikogo, dopóki nie potwierdzi udziału; zapowiadamy natomiast zasadę: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora. Członek jury i członek akademii wyłącza się od oceny pracy, której autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
+</article>
+</div>
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
@@ -152,6 +169,10 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
 <p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza dzień po zamknięciu naboru i trwa do dnia gali.</p>
+</article>
+<article>
+<h3>Nagroda dla publicznych ocen zgłoszonych plakatów</h3>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>, która najlepiej uzasadni swój wybór. Przy każdym głosie piszesz od 200 do 1500 znaków, a najlepsze uzasadnienie wybiera zespół spoza jury.</p>
 </article>
 <article>
 <h3>Okładka antologii</h3>
@@ -201,29 +222,34 @@ Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączon�
 
 Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z góry: **po odliczeniu zaakceptowanych wcześniej kosztów licytacji pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**. Organizator nie zatrzymuje z tego nic na własną działalność i przedstawia Ci rozliczenie na piśmie.
 
-## <!--ikona:iskra--><span>Gala i terminy</span>
+## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Prace finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma na tej gali premierę** - z okładką opartą na zwycięskiej pracy, jeżeli jej autor się na to zgodzi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [nagrań finalistów plebiscytu piosenki](/plebiscyt-piosenki).
 
-**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę z AI**. Planowany przebieg, który potwierdzimy przy ogłoszeniu:
+Oryginały całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali**, a okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
 
-| Kiedy | Co |
-|---|---|
-| koniec listopada 2027 | zamknięcie naboru |
-| połowa grudnia 2027 | ogłoszenie dziesiątki finalistów |
-| 1 grudnia 2027 | otwarcie głosowania publiczności - trwa do dnia gali, oceny publiczności są ukryte do dnia gali |
-| 3-31 stycznia 2028 | okno dostarczenia oryginałów finalistów |
-| początek lutego 2028 | oględziny oryginałów i werdykt jury |
-| luty 2028 | uzgodnienie okładki ze zwycięzcą |
-| druga połowa kwietnia 2028 | gala, wystawa, premiera antologii |
-| maj 2028 | zwrot oryginałów autorom |
-| maj albo czerwiec 2028 | wystawa w galerii sztuki, jeżeli zostanie pozyskana; prace objęte propozycją wracają po jej zakończeniu |
+**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę z AI**, bo antologia musi zdążyć do druku.
 
-Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania.
+## <!--ikona:harmonogram--><span>Harmonogram</span>
+
+<dl class="harmonogram">
+<div><dt>2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
+<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie rozmowy, bo antologia musi zdążyć do druku</small></dd></div>
+<div><dt>1 grudnia 2027</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, oceny publiczności są ukryte do dnia gali</small></dd></div>
+<div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały</small></dd></div>
+<div><dt>3-31 stycznia 2028</dt><dd>Okno dostarczenia oryginałów<small>przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
+<div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Uzgodnienie okładki antologii ze zwycięzcą</dd></div>
+<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa oryginałów i premiera antologii</small></dd></div>
+<div><dt>Maj 2028</dt><dd>Zwrot oryginałów autorom</dd></div>
+<div><dt>Maj albo czerwiec 2028</dt><dd>Wystawa w galerii sztuki<small>jeżeli galeria zostanie pozyskana; prace objęte propozycją wracają po jej zakończeniu</small></dd></div>
+</dl>
+
+Pełne zasady są w [regulaminie](/dokument/regulamin-plakatu) wraz z [kartą oceny](/dokument/regulamin-plakatu#karta-oceny).
 
 <h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
-Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.plakatu@konstela.org**.
+Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.plakatu@konstela.org**.
 
 Napisz, jeśli:
 

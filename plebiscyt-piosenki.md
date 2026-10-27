@@ -16,7 +16,8 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 - jury wybiera **dziesięciu finalistów**
 - każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim
 - autorzy **trzech najwyżej ocenionych utworów** są zapraszani do wykonania ich na żywo na gali
-- nabór planujemy na początek 2027 roku, po zabezpieczeniu finansowania
+- Twoja piosenka jest dostępna **w [Słuchalni](#sluchalnia) przez cały nabór, a po gali w publicznym [Archiwum](#archiwum)**
+- nabór zamykamy **31 grudnia 2027**
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -182,6 +183,10 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 <p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza dzień po zamknięciu naboru i trwa do dnia gali.</p>
 </article>
 <article>
+<h3>Nagroda dla publicznych ocen zgłoszonych piosenek</h3>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>, która najlepiej uzasadni swój wybór. Przy każdym głosie piszesz od 200 do 1500 znaków, a najlepsze uzasadnienie wybiera zespół spoza jury.</p>
+</article>
+<article>
 <h3>Nagranie studyjne dla dziesiątki finalistów</h3>
 <p>Każdy z dziesięciu finalistów dostaje <strong>możliwość profesjonalnego nagrania swojego utworu w studiu</strong>, na koszt organizatora i niezależnie od miejsca w werdykcie. Prawa do nagrania przechodzą na Ciebie jako część nagrody, a dyplom odbiera cała dziesiątka finalistów.</p>
 </article>
@@ -235,7 +240,9 @@ Potrzebujemy prawa **niewyłącznego** i w wypisanych zakresach: pokazanie zgło
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją. **Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka galę rozdania nagród. Nazwiska pozostałych finalistów są odczytywane ze sceny.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [nagrań finalistów plebiscytu piosenki](/plebiscyt-piosenki).
+
+**Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka galę. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 
 **[Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału.** Powstaje do jednego tekstu w trzech wersjach: dwóch wygenerowanych przez AI i trzeciej, którą napiszą i wykonają żywi muzycy - po to, żeby na gali dało się je usłyszeć obok siebie. Jeżeli zajmujesz się muzyką, strona hymnu mówi, czego do niego szukamy.
 
@@ -253,7 +260,7 @@ Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na ro
 
 <h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
-Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.piosenki@konstela.org**.
+Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.piosenki@konstela.org**.
 
 Napisz, jeśli:
 

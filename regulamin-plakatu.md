@@ -34,7 +34,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2a. **Zgoda na zakresy licencji będące warunkiem udziału (§ 13 ust. 4) jest wymagana do przyjęcia zgłoszenia.** Brak zgody na pozostałe zakresy nie wyłącza Uczestnika z plebiscytu, lecz wyłącza go z tego zakresu.
 
-3. W plebiscycie nie mogą brać udziału członkowie jury, członkowie akademii plakatu, jeżeli zostanie powołana, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu plebiscytu po stronie Organizatora.
+3. W plebiscycie nie mogą brać udziału członkowie jury, członkowie akademii plakatu, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu plebiscytu po stronie Organizatora.
 
 4. Zgłoszenie złożone przez osobę najbliższą członka jury nie jest wyłączone. Członek jury wyłącza się wówczas od oceny tego zgłoszenia, na zasadach z § 8 ust. 5.
 
@@ -176,9 +176,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. Skład jury Organizator ogłasza przed otwarciem naboru.
 
-3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Członkowie akademii plakatu, jeżeli zostanie powołana, otrzymują wynagrodzenie na zasadach ogłoszonych wraz z progiem jej powołania.
+3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Członkowie akademii plakatu otrzymują wynagrodzenie na zasadach ogłoszonych wraz z jej składem.
 
-4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły weryfikację formalną, albo spośród listy zakwalifikowanej przez akademię plakatu (ust. 4f) - zależnie od trybu ogłoszonego przed otwarciem naboru.
+4. Jury wybiera **dziesięciu finalistów** spośród listy przekazanej przez akademię plakatu (ust. 4f).
 
 4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
 
@@ -190,9 +190,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4e. **Nabór w plebiscycie plakatu zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela.** Terminy obu naborów Organizator ogłasza przed otwarciem plebiscytu.
 
-4f. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza **Akademia plakatu** - grono praktyków plakatu, ilustracji i projektowania graficznego, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 7, bez stosowania jakichkolwiek innych kryteriów. Wybór dziesięciu finalistów i pełny werdykt pozostają przy jury.
+4f. **Pierwsze przejście oceny przeprowadza akademia plakatu, powoływana w każdej edycji** - grono praktyków plakatu, ilustracji i projektowania graficznego, które ogląda wszystkie zgłoszenia, które przeszły weryfikację formalną, i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 7, bez stosowania jakichkolwiek innych kryteriów. Wybór dziesięciu finalistów i pełny werdykt pozostają przy jury.
 
-4g. Próg powołania akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
+4g. Liczebność akademii, liczbę oceniających przypadających na jedno zgłoszenie, długość listy przekazywanej jury oraz sposób jej powstawania Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
 
 4h. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże w pracy podobiznę rozpoznawalnej osoby trzeciej, przejęty cudzy obraz, znak albo postać, albo jeżeli nagranie z § 4a nie przekonuje go, że pracę wykonuje Uczestnik. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Galerii; rozstrzyga Organizator, w trybie z § 15 ust. 1a. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny, i nie ustala, czy Uczestnik ma uprawnienie do wykorzystania materiału. Oznaczenie nietrafne nie pozostawia publicznego śladu.
 

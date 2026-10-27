@@ -195,6 +195,10 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
 <p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza po pierwszym przejściu oceny, w styczniu 2028 i trwa do dnia gali.</p>
 </article>
+<article>
+<h3>Nagroda dla publicznych ocen zgłoszonych filmów</h3>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>, która najlepiej uzasadni swój wybór. Przy każdym głosie piszesz od 200 do 1500 znaków, a najlepsze uzasadnienie wybiera zespół spoza jury.</p>
+</article>
 </div>
 
 ## <!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych filmów</span>
