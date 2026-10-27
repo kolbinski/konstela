@@ -79,7 +79,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 **Uczniowie nie oceniają konkurencji.** W plebiscycie na rozmowę startują wyłącznie osoby pełnoletnie, więc czytający nie może trafić na zgłoszenie kolegi z klasy ani konkurować z tym, co ocenia. Rozmowa wskazana przez uczniów przechodzi przed ogłoszeniem to samo sprawdzenie rzetelności co dziesiątka Kapituły.
 
-**Stan: w przygotowaniu.** Zasady Nagrody Uczniowskiej wpiszemy do regulaminu przed otwarciem naboru, razem z zakresem zgody, której uczestnik udziela na przeczytanie swojej rozmowy przez grupy uczniowskie. Szkoły zainteresowane udziałem mogą napisać już teraz.
+**Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia.** Zgłaszając rozmowę, godzisz się na to, że może ona trafić do czytania przez grupy uczniowskie, w tym przez osoby niepełnoletnie - tak samo, jak godzisz się na przeczytanie jej przez Kapitułę i Akademię. Nie wskazujesz, komu Twoja rozmowa ma być przedstawiona do oceny. Zasady są w regulaminie (§ 8 ust. 2a i § 9 ust. 9), a szkoły zainteresowane zgłoszeniem grupy mogą napisać już teraz.
 
 ## <!--ikona:puchar--><span>Nagrody</span>
 

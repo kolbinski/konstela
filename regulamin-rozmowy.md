@@ -310,6 +310,15 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 
 1. **Kapituła** liczy od 3 do 5 osób powoływanych przez Organizatora; skład ogłaszany jest na stronie Nagrody przed upływem terminu zgłoszeń. Kapituła wybiera dziesiątkę antologii oraz laureata.
 2. **Akademia** to grupa czytelników powoływanych przez Organizatora na jedną edycję, której zadaniem jest pierwsza runda oceny. Skład Akademii ogłaszany jest na stronie Nagrody. Członkostwo wygasa, jeżeli członek nie oceni przydzielonych mu zgłoszeń w terminie.
+2a. **Uczniowska Akademia.** Obok Akademii Organizator powołuje grupy uczniowskie zgłaszane przez szkoły, których zadaniem jest przyznanie Nagrody Uczniowskiej (§ 9 ust. 9). Zasady:
+
+- a) grupę zgłasza szkoła, a opiekę nad nią sprawuje wskazany przez nią nauczyciel koordynujący; udział jest bezpłatny i dobrowolny;
+- b) grupy czytają zgłoszenia **według tej samej karty oceny** co Kapituła i Akademia, bez stosowania jakichkolwiek innych kryteriów;
+- c) **w pierwszej edycji wszystkie grupy otrzymują ten sam zestaw zgłoszeń**, wyodrębniony przez Organizatora przed rozpoczęciem czytania i ogłoszony co do liczebności przed otwarciem naboru; zestaw nie jest tożsamy z pierwszą dziesiątką ustaloną przez Kapitułę;
+- d) ocena grup uczniowskich **nie wpływa na punktację Kapituły ani Akademii** i odwrotnie;
+- e) konflikt interesów nie powstaje, ponieważ Uczestnikiem może być wyłącznie osoba pełnoletnia (§ 3 ust. 1), a członkowie grup uczniowskich nie biorą udziału w konkursie;
+- f) członka grupy uczniowskiej obowiązuje poufność w tym samym zakresie co członka Akademii, a szkoła odpowiada za jej zapewnienie.
+
 3. **Podział ról.** Oceny formalnej (§ 6) dokonuje Organizator lub wskazana przez niego osoba. **Oceny merytorycznej pierwszej rundy dokonuje Akademia**, według tych samych kryteriów z § 7 i tej samej Karty oceny. **Rozstrzygnięcia, to jest ustalenia dziesiątki antologii i ostatecznej kolejności, dokonuje wyłącznie Kapituła.** Organizator nie ocenia merytorycznie, nie dokonuje wstępnej selekcji i nie wskazuje Kapitule zgłoszeń wyróżnionych.
 3a. **Oznaczanie zastrzeżeń prawnych przez oceniających.** Oprócz oceny merytorycznej oceniający **oznacza w panelu zastrzeżenie**, jeżeli w rozmowie dostrzeże dane osobowe osoby trzeciej, przytoczenie całego cudzego utworu krótkiego albo cudzy materiał wgrany do rozmowy. Zasady:
 
@@ -425,6 +434,13 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 - e) Nagroda Publiczności jest **niezależna od werdyktu Kapituły** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki. Jej wysokość ogłaszana jest na zasadach z ust. 2;
 - f) nagroda nie jest przyznawana w drodze losowania wśród głosujących ani w żadnym innym trybie losowym; w szczególności Organizator nie organizuje loterii promocyjnej w rozumieniu ustawy o grach hazardowych.
 
+9. **Nagroda Uczniowska.** Obok werdyktu Kapituły przyznawana jest odrębna, wyraźnie nazwana Nagroda Uczniowska, wskazywana przez grupy uczniowskie (§ 8 ust. 2a). Zasady:
+
+- a) nagroda jest **niezależna od werdyktu Kapituły i od Nagrody Publiczności** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki;
+- b) wskazana rozmowa przechodzi przed ogłoszeniem **to samo sprawdzenie rzetelności** co zgłoszenia z pierwszej dziesiątki (§ 7 ust. 13); rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji;
+- c) wynik ogłaszany jest podczas gali, razem z pozostałymi werdyktami;
+- d) jeżeli żadna szkoła nie zgłosi grupy albo zgłoszone grupy nie przedstawią wyniku, nagroda nie zostaje przyznana, a Organizator informuje o tym przy ogłoszeniu wyników.
+
 ## § 10. Nierozstrzygnięcie edycji
 
 1. Edycja nie zostaje rozstrzygnięta, jeżeli w terminie wpłynie **mniej niż 12 zgłoszeń spełniających wymogi formalne** określone w § 5 i § 6. Próg ten jest **ustalony przed otwarciem naboru i ogłoszony w dniu jego otwarcia**; po otwarciu naboru nie może zostać zmieniony.
@@ -443,7 +459,8 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 - d) rozmowa nie dotyczy osoby trzeciej nieznanej publicznie w rozumieniu § 6 pkt 5;
 - e1) przysługują mu prawa do ilustracji rozmowy (§ 5 ust. 2 lit. a2) w zakresie pozwalającym na jej publikację w czytelni, w archiwum i w antologii, a ilustracja nie narusza praw osób trzecich ani dóbr osobistych;
 - e) przysługują mu prawa do materiałów, które wgrał do rozmowy, albo dysponuje zgodą na ich wykorzystanie, a materiały te nie zawierają danych osobowych osób trzecich ani informacji objętych tajemnicą, do których ujawnienia Uczestnik nie jest uprawniony.
-- f) ukończył 18 lat.
+- f) ukończył 18 lat;
+- g) **przyjmuje do wiadomości, że jego zgłoszenie może zostać skierowane do czytania przez grupy uczniowskie** (§ 8 ust. 2a), w tym przez osoby niepełnoletnie, i zgadza się na to. Zgoda ta jest **warunkiem udziału** i nie jest przedmiotem odrębnego oświadczenia; Uczestnik nie wskazuje, komu jego rozmowa ma być przedstawiona do oceny.
 
 2. Uczestnik zachowuje autorskie prawa osobiste i majątkowe do swoich wypowiedzi. Nagroda nie nabywa ich ani w całości, ani w części.
 3. **Publikacja jest warunkiem udziału, a nie przedmiotem odrębnej zgody.** Zgłaszając rozmowę, Uczestnik udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** od dnia ogłoszenia wyników, obejmującej publikację rozmowy w antologii i w archiwum rozmów, jej udostępnianie w internecie, wydanie w postaci elektronicznej i drukowanej, w tym płatnej, oraz cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, a także udzielenie dalszej licencji wydawcy w tym zakresie. Licencja na czas oznaczony nie podlega wypowiedzeniu. Po upływie tego okresu przekształca się w licencję na czas nieoznaczony w tym samym zakresie.
