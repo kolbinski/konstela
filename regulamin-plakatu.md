@@ -238,7 +238,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 1a. Organizator zapewnia finaliście opakowanie przystosowane do wymiarów i techniki pracy albo pokrywa jego koszt na podstawie przedstawionego rachunku. Uczestnik nie ponosi kosztów opakowania, przewozu ani ubezpieczenia na żadnym etapie.
 
-2. Organizator wskazuje sposób przygotowania pracy do wysyłki oraz **okno dostarczenia oryginałów - dzień początkowy i dzień końcowy**, obejmujące nie mniej niż 21 dni i ogłaszane razem z listą finalistów (§ 8 ust. 4a). **Organizator nie przyjmuje oryginałów przed dniem początkowym okna**, a termin z ust. 3b biegnie od dnia rzeczywistego odbioru pracy.
+2. **Finalista dostarcza oryginał w terminie 21 dni od dnia zawiadomienia o zakwalifikowaniu do finału** (§ 8 ust. 4a). Razem z zawiadomieniem Organizator wskazuje sposób przygotowania pracy do wysyłki oraz adres dostarczenia. Termin z ust. 3b biegnie od dnia rzeczywistego odbioru pracy przez Organizatora. Na wniosek finalisty Organizator przedłuża termin dostarczenia, jeżeli nie zagraża to oględzinom i przygotowaniu wystawy.
 
 3. Organizator **nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru w terminie 30 dni od zakończenia wystawy towarzyszącej gali**. Terminu doręczenia przesyłki Organizator nie wyznacza, ponieważ zależy on od przewoźnika. Wyjątkiem są prace objęte propozycją z ust. 3a oraz prace przekazane na licytację zgodnie z § 14; w obu wypadkach termin zwrotu wynika z warunków przyjętych przez autora.
 

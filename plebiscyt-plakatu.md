@@ -260,7 +260,7 @@ Oryginały całej dziesiątki finalistów wiszą na **wystawie towarzyszącej ga
 <div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie rozmowy, bo antologia musi zdążyć do druku</small></dd></div>
 <div><dt>1 grudnia 2027</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, oceny publiczności są ukryte do dnia gali</small></dd></div>
 <div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały</small></dd></div>
-<div><dt>3-31 stycznia 2028</dt><dd>Okno dostarczenia oryginałów<small>przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
+<div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginałów<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
 <div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Uzgodnienie okładki antologii ze zwycięzcą</dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa oryginałów i premiera antologii</small></dd></div>
