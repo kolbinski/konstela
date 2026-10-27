@@ -39,9 +39,14 @@ Przyjęte rozwiązanie: **pobieramy wykaz raz przed otwarciem naboru i trzymamy 
 
 **Skrzynka sekretariatu.** Adres z rejestru to zwykle sekretariat, a nie nauczyciel prowadzący grupę. To jest cecha, nie wada - potwierdzenie pochodzi wtedy od szkoły jako instytucji - ale trzeba to powiedzieć w materiałach dla szkół, żeby nauczyciel wiedział, gdzie szukać kodu.
 
+## Rozstrzygnięte
+
+**Listy szkół nie publikujemy.** Wykaz służy wyłącznie weryfikacji i zostaje u Organizatora. Odpada przy tym pytanie o warunki ponownego wykorzystania zbioru, bo niczego z niego nie udostępniamy dalej.
+
+**Liczba grup w szkole nie jest ograniczona, ale wskazanie jest jedno na szkołę** (§ 8 ust. 2a lit. g regulaminu). Formularz przyjmuje jedno wskazanie na numer RSPO; druga próba z tej samej szkoły wymaga kontaktu z Organizatorem.
+
 ## Do rozstrzygnięcia
 
 - **Dane logowania do API**, jeżeli chcemy odświeżać wykaz automatycznie, a nie plikiem.
-**Listy szkół nie publikujemy** (decyzja z 27.10.2026) - wykaz służy wyłącznie weryfikacji i zostaje u Organizatora. Odpada przy tym pytanie o warunki ponownego wykorzystania zbioru, bo niczego z niego nie udostępniamy dalej.
-
-**Liczba grup w szkole nie jest ograniczona, ale wskazanie jest jedno na szkołę** (decyzja z 27.10.2026, § 8 ust. 2a lit. g regulaminu). Formularz przyjmuje więc jedno wskazanie na numer RSPO; druga próba z tej samej szkoły wymaga kontaktu z Organizatorem.
+- **Obciążenie czytaniem przy dużej liczbie grup** - ile rozmów na grupę, żeby zajęcia dały się zmieścić w semestrze.
+- **Ścieżka po osiemnastce** - co z uczniem, który w trakcie edycji przestaje być niepełnoletni.
