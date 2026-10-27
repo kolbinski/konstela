@@ -52,11 +52,11 @@ Jeżeli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć
 
 ## <!--ikona:konstelacja--><span>Dlaczego w ogóle kręcić o AI</span>
 
-Sztuczna inteligencja weszła w ciągu kilku lat w pracę, w szkołę, w rozmowy prowadzone nocą przed ekranem - a w polskim kinie prawie jej nie widać. Jest za to w zagranicznej fantastyce, od dziesięcioleci, w jednej z dwóch ról: zagłady albo wybawienia. Obie są wygodne, bo obie zwalniają z patrzenia na to, co dzieje się teraz i obok.
+Sztuczna inteligencja weszła w ciągu kilku lat w pracę, w szkołę, w rozmowy prowadzone nocą przed ekranem - a w polskim kinie prawie nie widać tej tematyki. Jest za to w zagranicznej fantastyce, od dziesięcioleci, w jednej z dwóch ról: zagłady albo wybawienia. Obie są wygodne, bo obie zwalniają z patrzenia na to, co dzieje się teraz i obok.
 
 **Interesuje nas to, czego w tych dwóch rolach nie ma.** Człowiek, który zaczyna myśleć cudzym narzędziem. Praca, która przestała być potrzebna w pół roku. Rozmowa z maszyną, po której coś w kimś zostało. Nauczyciel, lekarz, tłumacz, rodzic - ktoś, kto musi dziś zdecydować, ile z siebie oddać. To są tematy filmowe, a nie publicystyczne, i nikt ich za nas nie opowie.
 
-Dlatego nie zawężamy tematu i nie mówimy, czy film ma być ostrzeżeniem, czy pochwałą. **Nie finansujemy też produkcji i nie oceniamy budżetu** - oceniamy film, nie sprzęt, którym go zrobiono. Telefon, jedna lokacja i dwie osoby na planie wystarczą, jeżeli masz co powiedzieć.
+Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma być ostrzeżeniem, czy pochwałą. **Nie finansujemy też produkcji i nie oceniamy budżetu** - oceniamy film, nie sprzęt, którym go zrobiono. Telefon, jedna lokacja i dwie osoby na planie wystarczą, jeżeli masz co powiedzieć.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
