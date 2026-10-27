@@ -154,7 +154,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych rozmów</h3>
-<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>, która najlepiej uzasadni swój wybór. Przy każdym głosie piszesz od 200 do 1500 znaków, a najlepsze uzasadnienie wybiera zespół spoza jury.</p>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#oceny-publicznosci">najlepszą według Ciebie rozmowę</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
 </article>
 </div>
 
@@ -175,7 +175,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 </article>
 </div>
 
-## <!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych rozmów</span>
+<h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych rozmów</span></h2>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 

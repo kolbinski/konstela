@@ -184,7 +184,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych piosenek</h3>
-<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>, która najlepiej uzasadni swój wybór. Przy każdym głosie piszesz od 200 do 1500 znaków, a najlepsze uzasadnienie wybiera zespół spoza jury.</p>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#oceny-publicznosci">najlepszą według Ciebie piosenkę</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
 </article>
 <article>
 <h3>Nagranie studyjne dla dziesiątki finalistów</h3>
@@ -196,7 +196,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 
 **Płyta jest planem, nie obietnicą.** Chcemy wydać te nagrania na płycie, ale zależy to od pozyskania wydawnictwa i od osobnej umowy, którą zawrzesz z nim Ty, nie my. **Nagrania powstaną niezależnie od tego, czy wydawnictwo się znajdzie**, a odmowa umowy z nim nie odbiera Ci ani nagrania, ani praw do niego.
 
-## <!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych piosenek</span>
+<h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych piosenek</span></h2>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
