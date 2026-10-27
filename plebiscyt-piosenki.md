@@ -203,11 +203,11 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h2 id="sluchalnia"><!--ikona:sluchalnia--><span>Słuchalnia i archiwum</span></h2>
 
-**Utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, deklarację użycia AI, link do nagrania oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał. Tekstu utworu nie publikujemy.
+**Utwory, które przeszły weryfikację formalną, umieszczamy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, deklarację użycia AI, link do nagrania oraz **kontakt do Ciebie**, czyli link do Twojej strony albo profilu, jeżeli go podałeś w zgłoszeniu. Tekstu utworu nie publikujemy.
 
 ### Katalog, nie skład nagrań
 
-**Nie trzymamy u siebie nagrań.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, link po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
+**Nie przechowujemy u siebie nagrań.** Piosenka cały czas jest dostępna na Twoim kanale YouTube i to Ty nią zarządzasz. Dlatego jeśli kiedyś usuniesz nagranie, link po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
 
 <h3 id="archiwum">Archiwum</h3>
 
@@ -219,7 +219,7 @@ Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, 
 
 ### Nagranie studyjne też zostaje Twoje
 
-**Finansujemy je, ale nie zostawiamy sobie praw.** Finansujemy je, ale nie zostawiamy sobie do niego praw i nie bierzemy procentu od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody.
+**Finansujemy je, ale nie zostawiamy sobie do niego praw** i nie bierzemy procentu od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody.
 
 ### Czego potrzebujemy od Ciebie
 
