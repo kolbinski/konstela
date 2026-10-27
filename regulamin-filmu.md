@@ -269,11 +269,11 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 2. **Podczas gali prezentowany jest minutowy fragment każdego z pięciu najwyżej ocenionych filmów.** Pozostali finaliści odbierają wyróżnienia bez prezentacji fragmentu, ponieważ jedna gala nie zmieści dziesięciu prezentacji.
 
-3. **Fragment wybiera Uczestnik**, w terminie i formacie wskazanym przez Organizatora, nie krótszym niż 14 dni od zawiadomienia o zakwalifikowaniu do finału. Jeżeli Uczestnik fragmentu nie wskaże, wybiera go Organizator w porozumieniu z jury; brak wskazania nie wpływa na ocenę ani na nagrodę.
+3. **Minutowy skrót przygotowuje Organizator w porozumieniu z Uczestnikiem.** Organizator przedstawia Uczestnikowi propozycję fragmentu i uwzględnia jego uwagi, a Uczestnik może wskazać fragment własny; uzgodnienie następuje w terminie i formacie wskazanym przez Organizatora, nie krótszym niż 14 dni od zawiadomienia o zakwalifikowaniu do finału. Jeżeli w tym terminie Uczestnik nie zajmie stanowiska albo porozumienia nie da się osiągnąć, o fragmencie decyduje Organizator. Przebieg uzgodnienia nie wpływa ani na ocenę, ani na nagrodę.
 
 4. **Pełne pokazy filmów finałowych są celem Organizatora, a nie zobowiązaniem wynikającym z niniejszego regulaminu.** Ich zorganizowanie zależy od pozyskania partnera dysponującego salą projekcyjną. Jeżeli pokaz dojdzie do skutku, Organizator ogłasza jego termin i miejsce oraz zwraca się do finalistów o zgodę na udział ich filmów; brak zgody nie wpływa ani na ocenę, ani na nagrodę. Zapis ten jest sformułowany w ten sposób dlatego, że Organizator nie składa przyrzeczenia publicznego co do zdarzenia, którego warunków jeszcze nie zapewnił.
 
-5. Werdykt ogłaszany jest publicznie podczas gali. Finaliści dowiadują się o zakwalifikowaniu wcześniej, ponieważ wskazują fragment, i zachowują wiedzę o nim w poufności; **kolejności trzech najwyżej ocenionych filmów Organizator nie ujawnia finalistom przed galą**.
+5. Werdykt ogłaszany jest publicznie podczas gali. Finaliści dowiadują się o zakwalifikowaniu wcześniej, ponieważ uczestniczą w uzgodnieniu skrótu, i zachowują wiedzę o nim w poufności; **kolejności trzech najwyżej ocenionych filmów Organizator nie ujawnia finalistom przed galą**.
 
 ## § 11. Projektornia i archiwum
 

@@ -123,7 +123,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 <article>
 <h3>Minutowy skrót na gali</h3>
-<p>Dla pięciu najwyżej ocenionych filmów. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia. Dyplomy odbiera cała dziesiątka finalistów.</p>
+<p>Dla pięciu najwyżej ocenionych filmów. Skrót przygotowujemy my, w porozumieniu z Tobą - przedstawiamy propozycję fragmentu, a Ty możesz wskazać własny. Na uzgodnienie masz nie mniej niż 14 dni od zawiadomienia. Dyplomy odbiera cała dziesiątka finalistów.</p>
 </article>
 </div>
 
@@ -145,7 +145,7 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a pięć najwyżej ocenionych filmów dostaje minutowy skrót z fragmentem wybranym przez autora.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a pięć najwyżej ocenionych filmów dostaje minutowy skrót, przygotowany przez nas w porozumieniu z autorem.
 
 Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
@@ -155,7 +155,7 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć,
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu</small></dd></div>
-<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo wybierają fragment, ale kolejności trójki nie znają do gali</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo uzgadniamy z nimi skrót, ale kolejności trójki nie znają do gali</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
 
