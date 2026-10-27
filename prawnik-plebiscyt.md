@@ -54,6 +54,16 @@ Od 27.10.2026 zgłoszeniem w plebiscycie filmu jest link do filmu **oraz** link 
 - **Czy jakakolwiek klauzula przenosząca na uczestnika-konsumenta odpowiedzialność wobec osób trzecich byłaby w tym regulaminie dopuszczalna** - pytamy wprost, bo takiej klauzuli celowo nie wpisaliśmy.
 - Skutki usunięcia zwiastuna przez uczestnika: przyjęto zawiadomienie i termin nie krótszy niż 14 dni na przywrócenie albo wskazanie innego zwiastuna, a po werdykcie brak skutków dla zgłoszenia. Czy stopniowanie jest wobec konsumenta dopuszczalne.
 
+## 4b. Dystrybucja kinowa filmów finałowych
+
+Przyjęty kierunek z 27.10.2026, analogiczny do płyty z pkt 12: **zestaw dziesięciu filmów finałowych składa organizator**, umowę z dystrybutorem zawiera uczestnik, wpływy z biletów i z dalszej eksploatacji pozostają przy uczestniku, a organizator nie nabywa praw dystrybucyjnych i nie bierze w tych wpływach udziału ani prowizji (§ 10 ust. 4a regulaminu filmu).
+
+- Czy organizator, kierując zestaw do dystrybutora bez bycia stroną umowy dystrybucyjnej, działa jako pośrednik wymagający odrębnej podstawy - i czy taka czynność nie wkracza w działalność gospodarczą wymagającą wpisu.
+- Czy możliwe jest uzgodnienie z dystrybutorem **pokrycia kosztów przygotowania zestawu** (opracowanie techniczne kopii, napisy, materiały informacyjne), jeżeli organizator nie jest stroną umowy dystrybucyjnej i nie ma praw do filmów - pytanie bliźniacze do „zwrotu nakładu od wydawnictwa" z pkt 12.
+- Czy przychód fundacji z takiej opłaty jest przychodem z działalności statutowej, czy wymaga wpisanej działalności gospodarczej.
+- Czy zapowiedź kwalifikacji do dystrybucji kinowej jako elementu nagrody - przy wyraźnym zastrzeżeniu, że zależy od pozyskania dystrybutora - jest wobec konsumenta dopuszczalna, czy stanowi obietnicę, z której można wywodzić roszczenie.
+- Czy zgoda uczestnika na pokaz kinowy (§ 12 ust. 2 lit. d) wystarcza, czy dystrybutor będzie potrzebował odrębnej licencji od każdego autora, w tym od współtwórców i wykonawców.
+
 ## 5. Wymóg autorstwa ludzkiego
 
 Reguła w brzmieniu obowiązującym **od 24.10.2026, godz. 18**. Wcześniejsza wersja obejmowała jednym zakazem tekst, melodię, harmonię i wokal; została rozdzielona, bo obejmowała także pracę, którą Nagroda Konstela w swoim głównym konkursie wprost nagradza.

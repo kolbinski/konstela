@@ -249,7 +249,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    a1) **siedem wyróżnień** dla pozostałych finalistów. Wyróżnienie obejmuje dyplom oraz miejsce w zestawie, o którym mowa w lit. a2; z wyróżnieniem nie wiąże się nagroda pieniężna;
 
-   a2) **miejsce w zestawie filmów kierowanym przez Organizatora do pokazów i dystrybucji - dla wszystkich dziesięciu finalistów**, jeżeli Organizator pozyska partnera dysponującego salą projekcyjną (§ 10 ust. 4). Pozyskanie partnera nie jest zobowiązaniem Organizatora, a brak pokazów nie wpływa na nagrody pieniężne ani na pozostałe świadczenia z niniejszego paragrafu;
+   a2) **miejsce w zestawie filmów kierowanym przez Organizatora do pokazów kinowych - dla wszystkich dziesięciu finalistów**, jeżeli Organizator pozyska dystrybutora (§ 10 ust. 4). Pozyskanie dystrybutora nie jest zobowiązaniem Organizatora, a brak pokazów nie wpływa na nagrody pieniężne ani na pozostałe świadczenia z niniejszego paragrafu;
 
    b) nagrodę publiczności, o której mowa w § 11a;
 
@@ -275,7 +275,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 3. **Zwiastun emitowany jest w postaci zgłoszonej.** Organizator nie wybiera fragmentu filmu i nie ingeruje w treść zwiastuna; przygotowanie do emisji obejmuje wyłącznie pobranie materiału w jakości emisyjnej, dopasowanie formatu, normalizację dźwięku oraz planszę z tytułem filmu i podpisem Uczestnika. Uczestnik może do dnia zamknięcia naboru wskazać inny zwiastun spełniający wymogi z § 4 ust. 1 lit. a1; po tym dniu emitowany jest zwiastun z metryki zgłoszenia (§ 11 ust. 6a).
 
-4. **Pełne pokazy filmów finałowych są celem Organizatora, a nie zobowiązaniem wynikającym z niniejszego regulaminu.** Ich zorganizowanie zależy od pozyskania partnera dysponującego salą projekcyjną. Jeżeli pokaz dojdzie do skutku, Organizator ogłasza jego termin i miejsce oraz zwraca się do finalistów o zgodę na udział ich filmów; brak zgody nie wpływa ani na ocenę, ani na nagrodę. Zapis ten jest sformułowany w ten sposób dlatego, że Organizator nie składa przyrzeczenia publicznego co do zdarzenia, którego warunków jeszcze nie zapewnił.
+4. **Pokazy kinowe filmów finałowych są celem Organizatora, a nie zobowiązaniem wynikającym z niniejszego regulaminu.** Ich zorganizowanie zależy od pozyskania dystrybutora. Jeżeli pokazy dojdą do skutku, Organizator ogłasza ich termin i miejsca oraz zwraca się do finalistów o zgodę na udział ich filmów; brak zgody nie wpływa ani na ocenę, ani na nagrodę. Zapis ten jest sformułowany w ten sposób dlatego, że Organizator nie składa przyrzeczenia publicznego co do zdarzenia, którego warunków jeszcze nie zapewnił.
+
+4a. **Organizator nie uczestniczy w przychodach z pokazów kinowych.** Zestaw filmów składa Organizator, natomiast **umowę z dystrybutorem zawiera Uczestnik** i jemu przysługują wpływy z pokazów oraz z dalszej eksploatacji filmu; Organizator nie nabywa praw dystrybucyjnych (§ 12 ust. 3) i nie pobiera udziału w tych wpływach ani prowizji od ich pozyskania. Organizator może natomiast uzgodnić z dystrybutorem pokrycie kosztów przygotowania zestawu, w szczególności opracowania technicznego kopii, napisów i materiałów informacyjnych; uzgodnienie to nie obciąża Uczestnika i nie zmniejsza jego wpływów. Konstrukcja jest ta sama co przy płycie w plebiscycie na piosenkę: Organizator finansuje przygotowanie materiału, prawa i przychody pozostają przy twórcy, a wydanie albo pokaz jest rolą podmiotu zewnętrznego.
 
 5. Werdykt ogłaszany jest publicznie podczas gali. Finaliści dowiadują się o zakwalifikowaniu wcześniej, ponieważ Organizator zaprasza ich na galę i ustala z nimi dojazd, i zachowują wiedzę o tym w poufności; **kolejności trzech najwyżej ocenionych filmów Organizator nie ujawnia finalistom przed galą**.
 
@@ -343,7 +345,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    c) wykorzystanie zwiastuna oraz miniatury w materiałach informacyjnych o Nagrodzie, w tym w mediach - **na pięć lat** od dnia gali;
 
-   d) przy filmach finałowych: pokaz pełny, o którym mowa w § 10 ust. 4 - **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa.
+   d) przy filmach finałowych: pokaz kinowy, o którym mowa w § 10 ust. 4 - **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa.
 
 2a. **Rozliczenie publicznego wykonania muzyki na gali obciąża Organizatora.** Oświadczenie Uczestnika z ust. 1 lit. a1 dotyczy jego własnych uprawnień do zwiastuna i filmu i **nie zastępuje** rozliczenia Organizatora z organizacją zbiorowego zarządzania prawami autorskimi, jeżeli takie rozliczenie jest wymagane dla gali. Organizator nie przenosi tego obowiązku na Uczestnika.
 

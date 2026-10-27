@@ -163,6 +163,10 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 Kwalifikacja do dystrybucji kinowej dziesięciu filmów najwyżej ocenionych przez jury oznacza, że zgłoszony film wchodzi do zestawu, który kierujemy do pokazów w kinach, **pod warunkiem znalezienia dystrybutora**. Jeżeli się uda, pytamy autorów o zgodę, a odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
+**Pieniądze z biletów są Twoje.** Rozwiązujemy to tak samo jak płytę w [plebiscycie na piosenkę](/plebiscyt-piosenki): zestaw składamy my, ale **umowę z dystrybutorem zawierasz Ty, nie my**, i Tobie przysługują wpływy z pokazów oraz z późniejszej eksploatacji filmu. Nie nabywamy praw dystrybucyjnych, nie bierzemy procentu od biletów i nie pobieramy prowizji za to, że dystrybutora znaleźliśmy.
+
+**Co możemy wziąć od dystrybutora.** Koszty przygotowania zestawu - opracowanie techniczne kopii, napisy, materiały informacyjne - ponosimy my, więc możemy uzgodnić z dystrybutorem ich pokrycie. To uzgodnienie jest między nami a nim: nie obciąża Cię i nie zmniejsza Twoich wpływów.
+
 <h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i archiwum</span></h2>
 
 Przez cały nabór prowadzimy **Projektornię** - publiczną listę zgłoszeń przyjętych do plebiscytu. Wpis pojawia się po przejściu weryfikacji formalnej, a kolejność wyznacza wyłącznie data zgłoszenia: nie ma rankingu, liczników odsłon ani popularności.
