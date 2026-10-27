@@ -62,7 +62,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów p
 
 ### Co możesz zgłosić
 
-**Jedna piosenka.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej.
+**Jedną piosenkę w jednej edycji.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej.
 
 ### Pięć wymogów formalnych
 
