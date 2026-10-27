@@ -4,9 +4,7 @@
 
 ## <!--ikona:tasma-filmowa--><span>Co to za plebiscyt</span>
 
-**Przygotowujemy pierwszą edycję. Nabór nie jest jeszcze otwarty** - możesz zgłosić zainteresowanie, a dowiesz się pierwszy, gdy ruszy.
-
-Otwarty plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą, czy ostrzeżeniem - to, co w nim powiesz, jest częścią tego, co oceniamy.
+Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą, czy ostrzeżeniem - to, co w nim powiesz, jest częścią tego, co oceniamy.
 
 **Film trwa od 20 do 90 minut.**
 
@@ -16,7 +14,7 @@ Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
 - zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube**
-- wszystkie zgłoszenia ogląda **Akademia filmu**, a wybranym zajmuje się dalej jury
+- wszystkie zgłoszenia ogląda **akademia filmu**, a wybranym zajmuje się dalej jury
 - jury wybiera **pięciu finalistów** i ustala kolejność trójki
 - na gali każdy z pięciu filmów dostaje **minutowy skrót**, a fragment wybiera sam autor
 - nabór zamykamy **30 listopada 2027**, bo obejrzenie wszystkiego zajmuje miesiące
