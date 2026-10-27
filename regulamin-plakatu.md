@@ -153,7 +153,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
 | Ujęcie tematu | 30 | **Co praca mówi** o życiu ze sztuczną inteligencją: trafność, oryginalność i pogłębienie wypowiedzi |
-| Pomysł plastyczny | 30 | **Jak to pokazuje**: przełożenie wypowiedzi na obraz, metaforę i relacje między elementami. Oceniane jest banalne użycie motywu, nie sam motyw - znany symbol użyty świeżo punktuje wysoko |
+| Pomysł plastyczny | 30 | **Jak to pokazuje**: przełożenie wypowiedzi na obraz, metaforę i relacje między elementami. Niżej punktowane jest banalne użycie motywu, a nie sam motyw - znany symbol użyty świeżo punktuje wysoko |
 | Wykonanie | 20 | Świadome zastosowanie techniki, koloru i rysunku |
 | Działanie plakatu | 20 | Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w pomniejszeniu |
 | Razem | 100 | |

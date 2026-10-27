@@ -97,7 +97,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Teza - od 0 do 30 punktów</h3>
-<p><strong>Co film mówi</strong> o sztucznej inteligencji: oryginalność ujęcia tematu. Oceniamy banalne ujęcie, nie sam temat - rzecz znana pokazana świeżo punktuje wysoko.</p>
+<p><strong>Co film mówi</strong> o sztucznej inteligencji: oryginalność ujęcia tematu. Niżej punktujemy banalne ujęcie tematu, a nie sam temat - rzecz znana pokazana świeżo punktuje wysoko.</p>
 </article>
 <article>
 <h3>Forma - od 0 do 30 punktów</h3>
