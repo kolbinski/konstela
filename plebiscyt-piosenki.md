@@ -263,4 +263,4 @@ Napisz, jeśli:
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
-Jeśli reprezentujesz wydawnictwo muzyczne, studio nagraniowe albo szkołę muzyczną, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
+Jeśli reprezentujesz wydawnictwo muzyczne, studio nagraniowe, szkołę muzyczną, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
