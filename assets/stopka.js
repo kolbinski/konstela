@@ -82,8 +82,8 @@
       '<div class="belka">' +
       '<div class="lewo">' +
       '<p>Konstela &copy; 2026</p>' +
-      '<p><a href="/fundacja">Fundacja Konstela</a></p>' +
       '<p>Napisz do nas: <a href="mailto:kontakt@konstela.org">kontakt@konstela.org</a></p>' +
+      '<p><a href="/fundacja">Fundacja Konstela</a></p>' +
       '</div>' +
       '<nav aria-label="Dokumenty">' + pozycje + '</nav>' +
       '</div>'
