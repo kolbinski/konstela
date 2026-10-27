@@ -102,7 +102,7 @@ Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitar
 
 **Nagrody pieniężne dla trzech najwyżej ocenionych utworów** oraz dwie nagrody publiczności. Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 
-**Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS.
+**Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. **Głosowanie otwiera się dzień po zamknięciu naboru i trwa do gali**, żeby każde zgłoszenie miało tyle samo czasu na zebranie głosów. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS.
 
 **Nagroda za uzasadnienie wyboru.** Uzasadnienie jest nieobowiązkowe - dopisujesz je przy oddaniu głosu, do 1500 znaków. Ocenia je trzyosobowy zespół powołany spoza jury, którego skład podajemy przed rozpoczęciem głosowania, i liczy się to, co uzasadnienie mówi o samym utworze: trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości, ortografii ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie wygrywa uzasadnienie oddane wcześniej.
 

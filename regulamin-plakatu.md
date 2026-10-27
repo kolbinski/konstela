@@ -258,7 +258,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
 3. Uczestnik nie bierze udziału w głosowaniu w konkursie, w którym zgłosił pracę.
 
-4. Terminy rozpoczęcia i zakończenia głosowania Organizator ogłasza razem z terminami naboru.
+4. **Głosowanie otwiera się pierwszego dnia po zamknięciu naboru i trwa do dnia gali.** Otwarcie po zamknięciu naboru, a nie w jego trakcie, zapewnia każdemu zgłoszeniu jednakowy czas na zebranie głosów: zgłoszenie złożone w pierwszym tygodniu naboru nie ma z tego powodu przewagi nad złożonym w ostatnim. Dzień otwarcia Organizator ogłasza razem z terminami naboru.
 
 5. Wynik głosowania ogłaszany jest osobno od werdyktu jury i wyraźnie jako nagroda publiczności.
 

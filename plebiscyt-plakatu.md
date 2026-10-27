@@ -106,7 +106,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 ## <!--ikona:puchar--><span>Nagrody</span>
 
-**Nagrody pieniężne dla trzech najwyżej ocenionych prac** oraz nagroda publiczności. Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
+**Nagrody pieniężne dla trzech najwyżej ocenionych prac** oraz nagroda publiczności, wybierana w otwartym głosowaniu, które **otwiera się dzień po zamknięciu naboru i trwa do gali** - żeby każda praca miała tyle samo czasu na zebranie głosów. Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 
 **Okładka antologii.** Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. **Pytamy Cię o zgodę zaraz po werdykcie, czyli przed galą**, i masz na odpowiedź 7 dni - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
 

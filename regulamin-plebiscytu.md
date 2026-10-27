@@ -230,7 +230,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4. Uczestnik nie bierze udziału w głosowaniu w plebiscycie, w którym zgłosił utwór.
 
-5. Terminy głosowania Organizator ogłasza razem z terminami naboru.
+5. **Głosowanie otwiera się pierwszego dnia po zamknięciu naboru i trwa do dnia gali.** Otwarcie po zamknięciu naboru, a nie w jego trakcie, zapewnia każdemu zgłoszeniu jednakowy czas na zebranie głosów. Dzień otwarcia Organizator ogłasza razem z terminami naboru.
 
 6. Wynik głosowania publiczności ogłaszany jest osobno od werdyktu jury i wyraźnie jako nagroda publiczności.
 
