@@ -1,21 +1,36 @@
 # Nagroda Konstela - konstela.org
 #
-# Wyszukiwarki są mile widziane. Eksploracja tekstów i danych (TDM),
-# w tym pozyskiwanie materiału do trenowania modeli, jest zastrzeżona:
-# patrz /ai.txt oraz art. 4 ust. 3 dyrektywy (UE) 2019/790.
+# Wyszukiwarki są mile widziane - także wyszukiwanie wbudowane
+# w asystentów AI, bo prowadzi ono ludzi na stronę. Eksploracja tekstów
+# i danych (TDM), w tym pozyskiwanie materiału do trenowania modeli,
+# jest zastrzeżona: patrz /ai.txt oraz art. 4 ust. 3 dyrektywy (UE) 2019/790.
 # Rights reserved for text and data mining - see /ai.txt
 
 User-agent: *
 Allow: /
 
-# --- Zastrzeżenie TDM: roboty pozyskujące dane treningowe ---
-User-agent: GPTBot
-Disallow: /
+# --- Wyszukiwanie w asystentach AI: wpuszczamy ---
+# Roboty, które kierują ludzi na stronę i pobierają ją na żądanie
+# użytkownika, traktujemy jak wyszukiwarki. Zastrzeżenie TDM dotyczy
+# trenowania modeli, a nie odczytania strony przez człowieka.
 
 User-agent: OAI-SearchBot
-Disallow: /
+Allow: /
 
 User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+# --- Zastrzeżenie TDM: roboty pozyskujące dane treningowe ---
+User-agent: GPTBot
 Disallow: /
 
 User-agent: ClaudeBot
@@ -40,9 +55,6 @@ User-agent: FacebookBot
 Disallow: /
 
 User-agent: Bytespider
-Disallow: /
-
-User-agent: PerplexityBot
 Disallow: /
 
 User-agent: CCBot

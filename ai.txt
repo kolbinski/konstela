@@ -24,7 +24,13 @@ oraz do celów badawczych opisanych niżej, a nie jako materiał treningowy.
 
 ## Czego zastrzeżenie nie obejmuje
 
-Indeksowania przez wyszukiwarki w celu kierowania ludzi na stronę.
+Indeksowania przez wyszukiwarki w celu kierowania ludzi na stronę. Dotyczy
+to również wyszukiwania wbudowanego w asystentów sztucznej inteligencji
+oraz pobrania strony na wyraźne żądanie użytkownika - roboty działające
+w tych celach, w szczególności OAI-SearchBot, ChatGPT-User, Claude-SearchBot,
+Claude-User i PerplexityBot, mają w robots.txt wyraźną zgodę. Zastrzeżenie
+dotyczy trenowania, dostrajania i ewaluacji modeli, a nie odczytania strony
+przez człowieka, który o nią poprosił.
 Cytowania w publikacjach, artykułach i materiałach edukacyjnych na zasadach
 prawa cytatu.
 
