@@ -44,7 +44,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór otworzymy po zabezpieczeniu środków na nagrody i na nagrania studyjne.
 
-Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
+Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli [napiszesz](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
 ## <!--ikona:konstelacja--><span>Dlaczego w ogóle o tym śpiewać</span>
 
