@@ -22,7 +22,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
 
-A to on decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy powstało nieoczywiste połączenie różnych wątków. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
+A to on decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy zestawił ze sobą wątki, które z pozoru do siebie nie pasują. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
 
 Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i dlatego najwyżej cenimy rozmowy łączące rzeczy z różnych porządków: fizykę z teologią, kod z biografią, cudzą książkę z własną decyzją, i połączenia, których nikt na świecie jeszcze nie wymyślił.
 
