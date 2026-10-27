@@ -138,13 +138,19 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 **Zanim udostępnisz link, sprawdź, co ujawniasz.** Zgłoszona rozmowa zostaje opublikowana w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych. Sprawdź, czy ujawnienie nie naruszy poufności, możliwości ochrony rozwiązania albo zasad planowanej publikacji naukowej - i pamiętaj, że ujawnienie następuje już w chwili udostępnienia linku u dostawcy, przed zgłoszeniem. Tej oceny nie zrobimy za Ciebie.
 
-## <!--ikona:fala--><span>Podcast - w planach</span>
+<h2 id="podcast"><!--ikona:fala--><span>Podcast</span></h2>
 
-**Nagrodzie ma towarzyszyć podcast**, w którym przedmiotem odcinka nie są odpowiedzi AI, tylko to, co człowiek napisze w kolejnym pytaniu. Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne - czy na pewno chcesz zapytać o to, czy raczej poszukać połączenia z czymś, co pozornie do tematu nie należy. To jest na żywo to samo, co ocenia karta oceny wyżej: rozpiętość, drążenie, weryfikacja.
+**Nagrodzie towarzyszy podcast**, w którym przedmiotem odcinka nie są odpowiedzi AI, tylko to, co człowiek napisze w kolejnym pytaniu. Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne - czy na pewno chcesz zapytać o to, czy raczej poszukać połączenia z czymś, co pozornie do tematu nie należy. To jest na żywo to samo, co ocenia karta oceny wyżej: rozpiętość, drążenie, weryfikacja.
 
-**Dwa stałe cykle.** „Pierwszy raz z AI" - rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji, przy czym pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. „NAIstolatek" - rozmowy z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną; odcinki z osobami niepełnoletnimi powstają za pisemną zgodą opiekunów, z możliwością jej wycofania przed publikacją.
+Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń.
 
-**Stan: plan, nie zapowiedź.** Nie ma prowadzącego ani finansowania, więc nie podajemy terminu startu. Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń - gdy ruszy, napiszemy o tym tutaj.
+### Pierwszy raz z AI
+
+Rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć - i co z tego wyszło, gdy spróbowała zapytać.
+
+### NAIstolatek
+
+Rozmowy z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z osobami niepełnoletnimi powstają za pisemną zgodą opiekunów, z możliwością jej wycofania przed publikacją.
 
 ## <!--ikona:iskra--><span>Gala i terminy</span>
 
