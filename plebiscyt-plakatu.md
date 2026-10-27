@@ -122,8 +122,6 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - b
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
-**To jest projekt - ostateczne brzmienie i wagi uzgadniamy z jury przed otwarciem naboru, a po jego otwarciu nic się w nich nie zmienia.**
-
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Ujęcie tematu - od 0 do 30 punktów</h3>
