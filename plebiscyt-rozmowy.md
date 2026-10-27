@@ -73,7 +73,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 ## <!--ikona:ksiazka--><span>Nagroda Uczniowska</span>
 
-**Obok werdyktu Kapituły przyznawana jest Nagroda Uczniowska**, o której rozstrzygają uczniowskie grupy czytające. Czytają według **tej samej jawnej karty oceny** co Kapituła i wskazują swoją rozmowę niezależnie od niej - oba werdykty ogłaszamy tego samego wieczoru i mogą wskazać dwie różne rozmowy. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
+**Obok werdyktu Kapituły przyznawana jest Nagroda Uczniowska**, o której rozstrzygają uczniowskie grupy czytające. Czytają według **tej samej jawnej karty oceny** co Kapituła i wskazują swoją rozmowę niezależnie od niej - oba werdykty ogłaszamy na tej samej gali rozdania nagród i mogą wskazać dwie różne rozmowy. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
 
 **Jedna szkoła - jedno wskazanie.** Czytać może dowolnie wiele klas, a im więcej, tym lepiej. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej. Dzięki temu duża szkoła nie waży więcej od małej.
 
@@ -95,7 +95,7 @@ Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzy
 
 **Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem Kapituły wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
-Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne** - Uczniowska, opisana wyżej, oraz Publiczności. Wyniki wszystkich trzech ogłaszamy tego samego wieczoru i mogą wskazać trzy różne rozmowy.
+Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne** - Uczniowska, opisana wyżej, oraz Publiczności. Wyniki wszystkich trzech ogłaszamy na tej samej gali rozdania nagród i mogą wskazać trzy różne rozmowy.
 
 **Nagroda Publiczności.** Wybierana w otwartym głosowaniu, jeden głos na numer telefonu, otwieranym dopiero po zamknięciu naboru - żeby każda rozmowa miała tyle samo czasu na zbieranie głosów. Liczniki pozostają ukryte do ogłoszenia wyniku na gali.
 
@@ -127,9 +127,9 @@ Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne** - Uczniowsk
 
 ## <!--ikona:iskra--><span>Gala i terminy</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureat odbiera medal, dziesiątka finalistów dyplomy, a antologia ma tego wieczoru premierę - już ze zwycięskim plakatem na okładce.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureat odbiera medal, dziesiątka finalistów dyplomy, a antologia ma na tej gali premierę - już ze zwycięskim plakatem na okładce.
 
-Elementem wieczoru jest **dialog czytany**: finalista czyta ze sceny własne pytania, a odpowiedzi sztucznej inteligencji czyta aktor.
+Elementem gali jest **dialog czytany**: finalista czyta ze sceny własne pytania, a odpowiedzi sztucznej inteligencji czyta aktor.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 

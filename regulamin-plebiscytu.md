@@ -284,7 +284,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 1. Plebiscyt rozstrzygany jest na gali Nagrody Konstela. Laureaci trzech nagród pieniężnych są zapraszani do wykonania utworów na żywo, na zasadach określonych w niniejszym paragrafie, a nazwiska pozostałych finalistów są odczytywane.
 
-2. Organizator oczekuje obecności laureatów trzech nagród pieniężnych, ponieważ na ich wykonaniach opiera się część artystyczna wieczoru, i uzgadnia z nimi udział niezwłocznie po werdykcie. Skutki nieobecności i odmowy określają ust. 4 i 5; odmowa nie pozbawia laureata żadnej nagrody.
+2. Organizator oczekuje obecności laureatów trzech nagród pieniężnych, ponieważ na ich wykonaniach opiera się część artystyczna gali rozdania nagród, i uzgadnia z nimi udział niezwłocznie po werdykcie. Skutki nieobecności i odmowy określają ust. 4 i 5; odmowa nie pozbawia laureata żadnej nagrody.
 
 3. Organizator pokrywa koszty dojazdu i noclegu wszystkich dziesięciu finalistów oraz, przy zgłoszeniach zespołowych, członków składu biorących udział w wykonaniu.
 

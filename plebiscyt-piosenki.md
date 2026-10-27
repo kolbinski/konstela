@@ -132,9 +132,9 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokaz
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją. **Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka wieczór. Nazwiska pozostałych finalistów są odczytywane ze sceny.
+Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją. **Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka galę rozdania nagród. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 
-**Na obecności czołowej trójki opiera się część artystyczna wieczoru**, więc udział uzgadniamy z laureatami zaraz po werdykcie. **Dojazd i nocleg całej dziesiątki finalistów pokrywa organizator.** Ani nieobecność z powodu choroby lub zdarzenia losowego, ani odmowa występu nie pozbawia nikogo nagrody - utwór nie jest wtedy wykonywany na żywo.
+**Na obecności czołowej trójki opiera się część artystyczna gali rozdania nagród**, więc udział uzgadniamy z laureatami zaraz po werdykcie. **Dojazd i nocleg całej dziesiątki finalistów pokrywa organizator.** Ani nieobecność z powodu choroby lub zdarzenia losowego, ani odmowa występu nie pozbawia nikogo nagrody - utwór nie jest wtedy wykonywany na żywo.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 

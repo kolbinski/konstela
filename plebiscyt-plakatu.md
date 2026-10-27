@@ -140,7 +140,7 @@ Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z gó
 
 ## <!--ikona:iskra--><span>Gala i terminy</span>
 
-Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Prace finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma tego wieczoru premierę** - z okładką opartą na zwycięskiej pracy, jeżeli jej autor się na to zgodzi.
+Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Prace finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma na tej gali premierę** - z okładką opartą na zwycięskiej pracy, jeżeli jej autor się na to zgodzi.
 
 **Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę z AI**. Planowany przebieg, który potwierdzimy przy ogłoszeniu:
 

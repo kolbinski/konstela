@@ -108,7 +108,7 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 - **30 listopada 2027** - zamknięcie naboru. Film musi być ukończony najpóźniej w dniu zgłoszenia.
 - **Styczeń 2028** - pierwsze przejście oceny przez Akademię filmu.
 - **Luty 2028** - werdykt jury. Finaliści dowiadują się wcześniej, bo wybierają fragment, ale kolejności trójki nie znają do gali.
-- **Druga połowa kwietnia 2028** - gala, werdykty wszystkich plebiscytów tego samego wieczoru.
+- **Druga połowa kwietnia 2028** - gala rozdania nagród, werdykty wszystkich plebiscytów.
 
 Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż pięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 

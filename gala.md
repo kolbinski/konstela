@@ -38,7 +38,7 @@ Policzone, żeby sprawdzić, czy program się mieści. Razem 104 minuty, czyli o
 | **Hymn na zakończenie, z nagrodzonymi na scenie** | 7 |
 | **Razem** | **106** |
 
-**Dlaczego materiał filmowy przesunięty.** Jeżeli hymn otwiera galę jako hook, to film podsumowujący edycję jest drugim otwarciem i rozmywa pierwsze. Na miejscu przed dialogiem czytanym działa jako oddech między werdyktem plebiscytu a najcichszym punktem wieczoru.
+**Dlaczego materiał filmowy przesunięty.** Jeżeli hymn otwiera galę jako hook, to film podsumowujący edycję jest drugim otwarciem i rozmywa pierwsze. Na miejscu przed dialogiem czytanym działa jako oddech między werdyktem plebiscytu a najcichszym punktem gali.
 
 **Co z tego wynika.** Program mieści się w dwóch godzinach, ale zapas jest zjedzony niemal w całości. Trzy rzeczy do pilnowania: dziewięć wyróżnień w piętnaście minut to po sto sekund na osobę, co jest realne tylko przy twardym prowadzeniu i bez przemówień wyróżnionych; dialog czytany w dwanaście minut wymaga wyboru fragmentu, nie całej rozmowy; a finał z nagrodzonymi na scenie wymaga, by ktoś ich tam sprowadził w trakcie poprzedniego bloku, bo samo wejście kilkunastu osób zajmuje dwie minuty i to jest już wliczone.
 
@@ -64,7 +64,7 @@ Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzy
 
 - **Miejsce:** wynajem, czas na próby, dostępność techniki własnej miejsca.
 - **Technika:** nagłośnienie, światło, backline, obsługa.
-- **Honoraria za występ** dla trójki finałowej plebiscytu oraz dla składu jury wykonującego hymn na żywo - odrębne od nagród i odrębne od produkcji nagrania. Jurorzy wykonują hymn dwukrotnie i są obecni przez cały wieczór, co podnosi tę pozycję wobec wariantu z jednym wykonaniem na zakończenie.
+- **Honoraria za występ** dla trójki finałowej plebiscytu oraz dla składu jury wykonującego hymn na żywo - odrębne od nagród i odrębne od produkcji nagrania. Jurorzy wykonują hymn dwukrotnie i są obecni przez całą galę, co podnosi tę pozycję wobec wariantu z jednym wykonaniem na zakończenie.
 - **Scena mieszcząca około szesnastu osób** oraz czas na próbę techniczną przed wejściem publiczności, skoro gala otwiera się występem.
 - **Honorarium aktora** w dialodze czytanym.
 - **Prowadzenie gali.**
