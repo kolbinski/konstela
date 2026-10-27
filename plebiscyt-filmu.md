@@ -8,7 +8,7 @@
 
 ## <!--ikona:tasma-filmowa--><span>Co to za plebiscyt</span>
 
-Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą, czy ostrzeżeniem - to, co w nim powiesz, jest częścią tego, co oceniamy.
+Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą AI, czy ostrzeżeniem przed nią - to, co w nim powiesz, jest częścią tego, co oceniamy.
 
 **W skrócie:**
 
@@ -65,7 +65,7 @@ Sztuczna inteligencja weszła w ciągu kilku lat w pracę, w szkołę, w rozmowy
 
 **Interesuje nas to, czego w tych dwóch rolach nie ma.** Człowiek, który zaczyna myśleć cudzym narzędziem. Praca, która przestała być potrzebna w pół roku. Rozmowa z maszyną, po której coś w kimś zostało. Nauczyciel, lekarz, tłumacz, rodzic - ktoś, kto musi dziś zdecydować, ile z siebie oddać. To są tematy filmowe, a nie publicystyczne, i nikt ich za nas nie opowie.
 
-Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma być ostrzeżeniem, czy pochwałą. **Nie finansujemy też produkcji i nie oceniamy budżetu** - oceniamy film, nie sprzęt, którym go zrobiono. Telefon, jedna lokacja i dwie osoby na planie wystarczą, jeżeli masz co powiedzieć.
+Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma być pochwałą AI, czy ostrzeżeniem przed nią. **Nie finansujemy też produkcji i nie oceniamy budżetu** - oceniamy film, nie sprzęt, którym go zrobiono. Telefon, jedna lokacja i dwie osoby na planie wystarczą, jeżeli masz co powiedzieć.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 

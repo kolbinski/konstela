@@ -57,7 +57,7 @@ Spośród czterech dziedzin Nagrody ta jedna została uderzona przez sztuczną i
 
 **Nie rozstrzygamy tego sporu, tylko stawiamy po jednej stronie konkretną propozycję.** Zgłoszona praca ma powstać pod ludzką ręką: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co człowiek ma do powiedzenia o maszynie, której się boi albo której używa**, kiedy mówi to własną ręką.
 
-Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrzeżeniem, czy pochwałą. **Nie pytamy też o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
+Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być pochwałą AI, czy ostrzeżeniem przed nią. **Nie pytamy też o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
@@ -69,7 +69,7 @@ Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrz
 
 ### Co możesz zgłosić
 
-Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą AI, czy zagrożeniem.
+Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być pochwałą AI, czy ostrzeżeniem przed nią.
 
 ### Wymogi formalne
 
@@ -84,7 +84,7 @@ Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi
 
 ### Jedno zgłoszenie na osobę
 
-Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu przypada jedno zgłoszenie w edycji. Numeru nie przechowujemy w postaci jawnej i nie pokazujemy go nigdzie publicznie. Przy pracy wykonanej wspólnie zgłoszenie wskazuje osobę reprezentującą cały skład; ona prowadzi korespondencję, a podział ewentualnej nagrody pozostaje sprawą autorów.
+Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu przypada jedno zgłoszenie w edycji. Numeru nie przechowujemy w postaci jawnej i nie pokazujemy go nigdzie publicznie.
 
 ### Dlaczego warte nagrody głównej
 
