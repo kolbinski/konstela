@@ -189,17 +189,29 @@ Po ogłoszeniu wyników Projektornia zamienia się w archiwum, udostępniane bez
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
-**Prawa zostają w całości przy twórcach.** Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza linkiem.** Pełny pokaz filmu finałowego wymaga osobnej zgody.
+**Prawa zostają w całości przy twórcach zgłoszonych w plebiscycie filmów.**
+
+### Licencja i podpis
+
+Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza linkiem.** Pokaz kinowy filmu finałowego wymaga osobnej zgody. Zgłoszenie podpisujemy publicznie tak, jak wskażesz - imieniem i nazwiskiem, pseudonimem albo nazwą składu twórczego.
+
+### Prawa do muzyki
 
 **Oświadczasz przy zgłoszeniu, że masz prawa do oprawy muzycznej zwiastuna i filmu** - albo licencję, która dopuszcza publiczne odtworzenie. Rozliczenie z organizacją zbiorowego zarządzania za muzykę odtworzoną na gali jest po naszej stronie i tego obowiązku na Ciebie nie przenosimy.
 
+### Czego nie nabywamy
+
 **Nie nabywamy** prawa do zwielokrotniania filmu w całości, do jego dystrybucji ani do udzielania dalszych licencji. Warunkiem udziału są wyłącznie dwa pierwsze zakresy; pozostałe wymagają osobnej zgody, a jej brak nie wyklucza Cię z plebiscytu.
+
+### Wycofanie zgłoszenia
 
 **Zgłoszenie możesz wycofać** nie później niż 14 dni przed galą. Później nie jest to możliwe, bo zwiastuny filmów finałowych są wtedy zestawione w materiał galowy.
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a pięć najwyżej ocenionych filmów pokazujemy w zwiastunach zgłoszonych przez autorów.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [nagrań finalistów plebiscytu piosenki](/plebiscyt-piosenki).
+
+Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
 
 Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
@@ -209,11 +221,9 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć,
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu</small></dd></div>
-<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale kolejności trójki nie znają do gali</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca z werdyktu jury</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
-
-Pełne zasady są w [regulaminie](/dokument/regulamin-filmu) wraz z kartą oceny. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy, które to miejsca.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
@@ -222,7 +232,7 @@ Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.filmu@konstela.org**
 Napisz, jeśli:
 
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
-- **kręcisz i masz pytanie** o zasady, terminy albo sposób zgłoszenia
+- **jesteś twórcą filmowym i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
