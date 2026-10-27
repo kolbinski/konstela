@@ -12,10 +12,10 @@ Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 
 - film musi trwać **od 20 do 90 minut**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
-- zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube**
+- zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **odnośnik do zwiastuna** tego filmu, od 60 do 120 sekund
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
-- na gali pięć najwyżej ocenionych filmów dostaje **minutowy skrót**, który powstaje w porozumieniu ze zgłaszającym
+- na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** - tych samych, które zgłosiłeś
 - nabór zamykamy **30 listopada 2027**
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
@@ -26,7 +26,7 @@ Plebiscyt na film jest jednym z czterech plebiscytów Nagrody Konstela, rozstrzy
 
 ### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna. Zgoda na obowiązkowe zakresy licencji - prezentację zgłoszenia i minutowy skrót na gali - jest warunkiem przyjęcia zgłoszenia. Pozostałe zgody dotyczą odrębnych działań: odbioru nagrody, udziału w gali i pełnego pokazu filmu.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna. Zgoda na obowiązkowe zakresy licencji - prezentację zgłoszenia i zwiastuna, w tym na gali - jest warunkiem przyjęcia zgłoszenia. Pozostałe zgody dotyczą odrębnych działań: odbioru nagrody, udziału w gali i pełnego pokazu filmu.
 
 **Jedno zgłoszenie na numer telefonu**, potwierdzane kodem z SMS. Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 
@@ -48,7 +48,9 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
-**Zgłaszasz odnośnik do publicznie dostępnego filmu na YouTube.** Film musi być dostępny bez opłaty i bez zakładania konta, a odnośnik ma działać do końca oceny. Kopii filmu u siebie nie przechowujemy: w katalogu stoi tytuł, miniatura, opis, deklaracja i odnośnik.
+**Zgłaszasz odnośnik do publicznie dostępnego filmu na YouTube.** Film musi być dostępny bez opłaty i bez zakładania konta, a odnośnik ma działać do końca oceny. Kopii filmu u siebie nie przechowujemy: w katalogu stoi tytuł, miniatura, zwiastun, opis, deklaracja i odnośnik.
+
+**Drugim odnośnikiem jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun pracuje w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun. Prosimy o niego dlatego, że katalog kilkuset tytułów bez ruchomego obrazu nikogo nie zatrzymuje, a Ty wiesz lepiej od nas, co z Twojego filmu pokazać.
 
 **Ocenie podlega wersja filmu dostępna pod odnośnikiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; po werdykcie nie odbiera nagrody. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego odnośnika.
 
@@ -122,8 +124,8 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 <p>Dla pozostałych finalistów: dyplom oraz miejsce w zestawie filmów, który kierujemy do pokazów i dystrybucji - jeżeli pozyskamy partnera z salą. Z wyróżnieniem nie wiąże się nagroda pieniężna.</p>
 </article>
 <article>
-<h3>Minutowy skrót na gali</h3>
-<p>Dla pięciu najwyżej ocenionych filmów. Skrót przygotowujemy my, w porozumieniu z Tobą - przedstawiamy propozycję fragmentu, a Ty możesz wskazać własny. Na uzgodnienie masz nie mniej niż 14 dni od zawiadomienia. Dyplomy odbiera cała dziesiątka finalistów.</p>
+<h3>Zwiastun na gali</h3>
+<p>Dla pięciu najwyżej ocenionych filmów. Pokazujemy zwiastun, który zgłosiłeś, bez ingerencji w treść - my dokładamy tylko jakość emisyjną i planszę z tytułem. Dyplomy odbiera cała dziesiątka finalistów.</p>
 </article>
 </div>
 
@@ -137,15 +139,17 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
-**Prawa zostają w całości przy twórcach.** Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum; minutowy fragment na gali i w zapisie wideo gali, przez pięć lat; ten sam fragment i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. Pełny pokaz filmu finałowego wymaga osobnej zgody.
+**Prawa zostają w całości przy twórcach.** Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza odnośnikiem.** Pełny pokaz filmu finałowego wymaga osobnej zgody.
+
+**Oświadczasz przy zgłoszeniu, że masz prawa do oprawy muzycznej zwiastuna i filmu** - albo licencję, która dopuszcza publiczne odtworzenie. Rozliczenie z organizacją zbiorowego zarządzania za muzykę odtworzoną na gali jest po naszej stronie i tego obowiązku na Ciebie nie przenosimy.
 
 **Nie nabywamy** prawa do zwielokrotniania filmu w całości, do jego dystrybucji ani do udzielania dalszych licencji. Warunkiem udziału są wyłącznie dwa pierwsze zakresy; pozostałe wymagają osobnej zgody, a jej brak nie wyklucza Cię z plebiscytu.
 
-**Zgłoszenie możesz wycofać** nie później niż 14 dni przed galą. Później nie jest to możliwe, bo fragmenty filmów finałowych są wtedy zmontowane w materiał galowy.
+**Zgłoszenie możesz wycofać** nie później niż 14 dni przed galą. Później nie jest to możliwe, bo zwiastuny filmów finałowych są wtedy zestawione w materiał galowy.
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a pięć najwyżej ocenionych filmów dostaje minutowy skrót, przygotowany przez nas w porozumieniu z autorem.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a pięć najwyżej ocenionych filmów pokazujemy w zwiastunach zgłoszonych przez autorów.
 
 Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
@@ -155,7 +159,7 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć,
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu</small></dd></div>
-<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo uzgadniamy z nimi skrót, ale kolejności trójki nie znają do gali</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale kolejności trójki nie znają do gali</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
 

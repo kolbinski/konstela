@@ -43,6 +43,17 @@ Przyjęta forma zgłoszenia to **link do utworu opublikowanego na YouTube**, nie
 - Co, gdy YouTube zablokuje film z powodu roszczenia praw autorskich już po zgłoszeniu. **Przyjęta konstrukcja: zgłoszenie odpada z powodu niedostępności materiału, a nie wskutek orzeczenia organizatora o naruszeniu praw** - czy taka podstawa odrzucenia jest wystarczająca i jak ją sformułować, skoro skutek dla uczestnika jest ten sam.
 - Czy uczestnik, któremu zablokowano film, może po wyjaśnieniu sprawy z serwisem zgłosić się ponownie w trakcie naboru, i jak to pogodzić z zasadą jednego zgłoszenia na osobę.
 
+## 4a. Zwiastun jako obowiązkowy element zgłoszenia filmu
+
+Od 27.10.2026 zgłoszeniem w plebiscycie filmu jest odnośnik do filmu **oraz** odnośnik do jego zwiastuna (60-120 sekund). Zwiastun nie podlega ocenie, odtwarza się przy wpisie w Projektorni i w archiwum, a przy filmach z czołowej piątki jest tym, co prezentowane jest podczas gali. Organizator nie montuje już fragmentów cudzych filmów.
+
+- Czy wymóg dostarczenia utworu odrębnego od zgłaszanego dzieła, nieobjętego oceną, jest wobec konsumenta dopuszczalny jako warunek udziału.
+- Czy licencja na zwiastun obejmuje prawidłowo **pobranie i techniczne przygotowanie do emisji** (jakość emisyjna, dopasowanie formatu, normalizacja dźwięku, plansza z tytułem), czy potrzebny jest odrębny zakres.
+- **Prawa do oprawy muzycznej.** Zgłaszający oświadcza, że ma prawa do muzyki w zwiastunie i w filmie albo licencję dopuszczającą publiczne odtworzenie. Czy to wystarczająca konstrukcja przy muzyce licencjonowanej wyłącznie na użytek internetowy, a odtwarzanej potem na gali i w zapisie wideo gali.
+- **Rozliczenie z organizacją zbiorowego zarządzania.** W jakim zakresie publiczne odtworzenie zwiastunów podczas gali wymaga rozliczenia niezależnie od uprawnień uczestnika; przyjęty kierunek to pozostawienie tego obowiązku przy organizatorze (zbieżne z pkt 3 tej listy, dotyczącym gali z muzyką na żywo).
+- **Czy jakakolwiek klauzula przenosząca na uczestnika-konsumenta odpowiedzialność wobec osób trzecich byłaby w tym regulaminie dopuszczalna** - pytamy wprost, bo takiej klauzuli celowo nie wpisaliśmy.
+- Skutki usunięcia zwiastuna przez uczestnika: przyjęto zawiadomienie i termin nie krótszy niż 14 dni na przywrócenie albo wskazanie innego zwiastuna, a po werdykcie brak skutków dla zgłoszenia. Czy stopniowanie jest wobec konsumenta dopuszczalne.
+
 ## 5. Wymóg autorstwa ludzkiego
 
 Reguła w brzmieniu obowiązującym **od 24.10.2026, godz. 18**. Wcześniejsza wersja obejmowała jednym zakazem tekst, melodię, harmonię i wokal; została rozdzielona, bo obejmowała także pracę, którą Nagroda Konstela w swoim głównym konkursie wprost nagradza.

@@ -99,7 +99,7 @@ Oryginały finalistów są przewożone, przechowywane, ubezpieczane i pokazywane
 
 **Dane osób występujących w filmie.** Odpowiada za nie Uczestnik: zgłaszając film, oświadcza, że osoby występujące wyraziły zgodę na publikację swojego wizerunku. Administrator nie przechowuje kopii filmu, a więc nie przechowuje też utrwalonych w nim wizerunków; przetwarza wyłącznie wpis katalogowy i odnośnik. Dostrzeżone problemy rozpatrywane są w trybie z regulaminu i z [procedury moderacji](/dokument/procedura-moderacji).
 
-**W jakim celu i na jakiej podstawie.** Tak jak w rozdziałach 4 i 5. Prezentacja wpisu w Projektorni i w archiwum oraz emisja minutowego fragmentu podczas gali opierają się na licencji udzielanej przy zgłoszeniu i są warunkiem udziału; pełny pokaz filmu finałowego wymaga odrębnej zgody, a jej brak nie wpływa na ocenę ani na nagrodę.
+**W jakim celu i na jakiej podstawie.** Tak jak w rozdziałach 4 i 5. Prezentacja wpisu w Projektorni i w archiwum, razem ze zwiastunem, oraz emisja zwiastuna podczas gali opierają się na licencji udzielanej przy zgłoszeniu i są warunkiem udziału; pełny pokaz filmu finałowego wymaga odrębnej zgody, a jej brak nie wpływa na ocenę ani na nagrodę.
 
 **Jak długo.** Wpis katalogowy - przez okres licencji określony w regulaminie, przy czym prezentacja wpisu w archiwum przewidziana jest na czas nieoznaczony. Fragment przekazany na emisję galową - pięć lat od dnia gali. Pozostałe dane Uczestników nienagrodzonych - 60 dni od ogłoszenia wyników. Dane laureatów - przez okres wymagany przepisami podatkowymi i o rachunkowości.
 
