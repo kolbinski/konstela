@@ -4,7 +4,7 @@ Zasady pisania do wykonawców są w [mail-piosenkarz-oferta](/dokument/mail-pios
 
 **Zasada doboru (obowiązuje od 22.10.2026).** Decyduje autorski dorobek, a nie miejsce w programie. Nie wykluczamy z góry ani zwycięzców, ani osób pracujących z managementem czy wytwórnią - jedno i drugie sprawdza się indywidualnie, a artysta sam wskaże właściwą ścieżkę kontaktu, jeżeli jej potrzebuje. Nazwiska poniżej pochodzą z opisów sezonów The Voice of Poland i są wyłącznie punktem wyjścia.
 
-**Oznaczenia.** `[x]` - wiadomość wysłana. `[-]` - konta na Instagramie nie udało się znaleźć. `[ ]` - jeszcze nie pisaliśmy. Stan na 22.10.2026, wieczór.
+**Oznaczenia.** `[x]` - wiadomość wysłana. `[-]` - konta na Instagramie nie udało się znaleźć. `[ ]` - jeszcze nie pisaliśmy. Stan na 22.10.2026.
 
 **Nazw kont na Instagramie tu nie ma celowo.** Nazwa konta zgadnięta z nazwiska trafia równie często na konto fanowskie albo podszywające się, a oferta wysłana pod zły adres szkodzi bardziej niż jej brak. Wpisanie nazwiska w wyszukiwarkę Instagrama zajmuje kilka sekund i daje pewność; przy weryfikacji szukać konta, które linkuje do serwisów streamingowych albo do materiałów z programu.
 

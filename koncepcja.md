@@ -400,7 +400,7 @@ Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](/dokument/plebiscy
 
 **Skąd wziął się tekst.** Powstał 22.10.2026 („Zapytaj inaczej"; tytuł roboczy brzmiał „Kto poprowadzi linię"), oparty na obrazie, z którego wzięła się nazwa: gwiazdy nie wiedzą, że są konstelacją, dopóki ktoś nie poprowadzi linii. Trzecia zwrotka celowo opisuje to, co mierzy karta oceny - nie olśnienie, lecz wskazywalny moment przestawienia; outro opisuje archiwum, nie nazywając go archiwum. Decyzje redakcyjne i to, czego nie wolno zgubić przy dopasowywaniu do melodii, są w [mail-piosenkarz-oferta](/dokument/mail-piosenkarz-oferta).
 
-**Jak powstał tekst i dlaczego to mówimy.** Z wielogodzinnej rozmowy z AI o tym, czym jest Konstela, zakończonej prośbą o wersję tekstu, a następnie z decyzji fundatora, co w niej zostaje, a co wypada. **Jest to droga, którą zasady plebiscytu wprost dopuszczają** po zmianie z 24.10.2026, i hymn deklaruje ją tym samym zdaniem, którego wymagamy od zgłaszających. *Wcześniejsze zapisy na stronie i w tym pliku mówiły „tekst jest fundatora" oraz „tekst napisał człowiek" - było to nieprawdziwe i zostało poprawione 24.10.2026 wieczorem.*
+**Jak powstał tekst i dlaczego to mówimy.** Z wielogodzinnej rozmowy z AI o tym, czym jest Konstela, zakończonej prośbą o wersję tekstu, a następnie z decyzji fundatora, co w niej zostaje, a co wypada. **Jest to droga, którą zasady plebiscytu wprost dopuszczają** po zmianie z 24.10.2026, i hymn deklaruje ją tym samym zdaniem, którego wymagamy od zgłaszających. *Wcześniejsze zapisy na stronie i w tym pliku mówiły „tekst jest fundatora" oraz „tekst napisał człowiek" - było to nieprawdziwe i zostało poprawione 24.10.2026.*
 
 **Kto nagrywa - zmiana z 23.10.2026.** Odpada zamówienie u jednego wykonawcy. Hymn nagrywa **skład jury plebiscytu**, poza konkursem, a jurorzy nie konkurują ze zgłoszeniami, co jest powiedziane wprost na stronie. Rozważany szerszy skład wykonawczy i wariant z udziałem Grzegorza Markowskiego to kierunki, nie plany - opisane w `plebiscyt-ustalenia`.
 
@@ -710,7 +710,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 
 Pokazujemy: **imię i nazwisko albo pseudonim** zgodnie z § 5 ust. 2 lit. g, **link** opublikowany przez uczestnika oraz **opis odkrycia** z § 5 ust. 2 lit. b. Kolejność po dacie zgłoszenia, bez żadnego sortowania. Przeczytane oznaczane w localStorage.
 
-**W czytelni jest wszystko od początku - zmiana z 24.10.2026 wieczorem.** Pierwotnie pole „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1) miało pojawiać się dopiero po zamrożeniu punktacji, żeby nie omijać § 8 ust. 13. **Ten pomysł upadł na prostym argumencie Krzyśka:** skoro czytelnia jest publiczna, oceniający i tak może tam zajrzeć i znaleźć zarówno tytuł, jak i uzasadnienie - ukrywanie ich w panelu byłoby teatrem, a nie zabezpieczeniem. Zabezpieczenie oparte na tajemnicy przestało istnieć w chwili, gdy powstała czytelnia.
+**W czytelni jest wszystko od początku - zmiana z 24.10.2026.** Pierwotnie pole „dlaczego warto przeczytać tę rozmowę" (§ 5 ust. 2 lit. b1) miało pojawiać się dopiero po zamrożeniu punktacji, żeby nie omijać § 8 ust. 13. **Ten pomysł upadł na prostym argumencie Krzyśka:** skoro czytelnia jest publiczna, oceniający i tak może tam zajrzeć i znaleźć zarówno tytuł, jak i uzasadnienie - ukrywanie ich w panelu byłoby teatrem, a nie zabezpieczeniem. Zabezpieczenie oparte na tajemnicy przestało istnieć w chwili, gdy powstała czytelnia.
 
 **Co zostaje realne:** kolejność czytania w panelu (najpierw rozmowa, potem uzasadnienie) oraz twarda zasada, że **ani tytuł, ani pole b1 nie podlegają punktacji w żadnym kryterium**. § 8 ust. 13 wymaga przepisania z zakazu dostępu na regułę kolejności.
 
@@ -754,7 +754,7 @@ Karta oceny przestała być osobnym dokumentem. Była najpierw Załącznikiem nr
 
 Powód: nie było powodu, żeby trzymać je osobno - karta zawsze była formalnie załącznikiem do regulaminu, a rozdzielenie kosztowało jeden link w stopce i groziło rozjeżdżaniem się obu dokumentów.
 
-Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026), a plik `karta-oceny.md` skasowany 26.10.2026 - trzymanie zaślepki obok załącznika było utrzymywaniem reliktu. Sprostowanie do wcześniejszego zapisu: adres `/dokument/karta-oceny` **nie poszedł** w korespondencji do kancelarii, wbrew temu, co tu wcześniej napisałem. Wisiał natomiast w stopce strony do 25.10.2026 wieczora, więc mógł zostać zaindeksowany i zapisany w zakładkach - dlatego zastępuje go reguła przekierowania w Cloudflare na `/dokument/regulamin-rozmowy#karta-oceny`, zgodnie z zasadą, że skrócone adresy robimy po stronie Cloudflare, a nie jako pliki.
+Katalog `/karta-oceny` został usunięty razem z przekierowaniem (25.10.2026), a plik `karta-oceny.md` skasowany 26.10.2026 - trzymanie zaślepki obok załącznika było utrzymywaniem reliktu. Sprostowanie do wcześniejszego zapisu: adres `/dokument/karta-oceny` **nie poszedł** w korespondencji do kancelarii, wbrew temu, co tu wcześniej napisałem. Wisiał natomiast w stopce strony do 25.10.2026, więc mógł zostać zaindeksowany i zapisany w zakładkach - dlatego zastępuje go reguła przekierowania w Cloudflare na `/dokument/regulamin-rozmowy#karta-oceny`, zgodnie z zasadą, że skrócone adresy robimy po stronie Cloudflare, a nie jako pliki.
 
 Ze stopki zniknął link do karty oceny; zostało pięć pozycji zamiast sześciu.
 
@@ -822,7 +822,7 @@ Osobna, otwarta kategoria: uczestnik przesyła **jedno pytanie**, które zadał 
 
 **Co rozwiązuje.** Dziś wejście do Nagrody wymaga odsłonięcia całej rozmowy, a to odcina dwie grupy naraz: ludzi, którzy nie chcą pokazywać swoich rozmów, oraz szkoły i osoby niepełnoletnie, przy których publikacja całej rozmowy jest barierą nie do przejścia (patrz rozdział o kategorii młodzieżowej). Tu nie ma czego odsłaniać poza jednym zdaniem, które uczestnik sam formułuje.
 
-**Dlaczego koszt oceny nie rośnie wraz z liczbą zgłoszeń.** Koszt zależy od długości materiału, nie od liczby zgłoszeń. Trzysta piosenek to około dwudziestu godzin odsłuchu **na jurora**. Pięć tysięcy zgłoszeń po dwa zdania to piętnaście sekund na sztukę, czyli około dwudziestu godzin **łącznie, dla jednej osoby**, rozłożonych na kilka wieczorów. Materiał jest o rząd wielkości krótszy niż w konkursie głównym i o trzy rzędy krótszy niż rozmowa.
+**Dlaczego koszt oceny nie rośnie wraz z liczbą zgłoszeń.** Koszt zależy od długości materiału, nie od liczby zgłoszeń. Trzysta piosenek to około dwudziestu godzin odsłuchu **na jurora**. Pięć tysięcy zgłoszeń po dwa zdania to piętnaście sekund na sztukę, czyli około dwudziestu godzin **łącznie, dla jednej osoby**, rozłożonych na kilka dni. Materiał jest o rząd wielkości krótszy niż w konkursie głównym i o trzy rzędy krótszy niż rozmowa.
 
 **Trzy cechy, bez których to nie działa:**
 
