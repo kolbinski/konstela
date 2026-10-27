@@ -522,7 +522,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
    c) uzasadnienia ocenia **trzyosobowy zespół powołany przez Organizatora spoza jury**, którego skład Organizator ogłasza przed rozpoczęciem głosowania;
 
-   d) oceniane jest to, **co uzasadnienie mówi o samym zgłoszeniu**: trafność obserwacji, konkretność i samodzielność sądu. Nie ocenia się długości wypowiedzi, poprawności zapisu ani zgodności wyboru z werdyktem jury;
+   d) oceniane jest to, **co uzasadnienie mówi o samej rozmowie**: trafność obserwacji, konkretność i samodzielność sądu. Nie ocenia się długości wypowiedzi, poprawności zapisu ani zgodności wyboru z werdyktem jury;
 
    e) przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej;
 
