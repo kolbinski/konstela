@@ -216,6 +216,7 @@ Napisz, jeśli:
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **rozmawiasz z AI i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **jesteś nauczycielem** i chcesz zgłosić uczniowską grupę czytającą do Nagrody Uczniowskiej
-- **reprezentujesz uczelnię, sponsora albo redakcję** i chcesz porozmawiać o współpracy
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
+
+Jeśli reprezentujesz uczelnię, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
