@@ -104,7 +104,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 **Nagroda Publiczności - zasady.** Głosowanie otwiera się dopiero po zamknięciu naboru, żeby każda rozmowa miała tyle samo czasu na zbieranie głosów, a liczniki pozostają ukryte do ogłoszenia wyniku na gali.
 
-### Nagroda Uczniowska
+<h3 id="nagroda-uczniowska">Nagroda Uczniowska</h3>
 
 **Rozstrzygają o niej uczniowskie grupy czytające.** Czytają według **tej samej jawnej karty oceny** co jury i wskazują swoją rozmowę niezależnie od niego. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
 
