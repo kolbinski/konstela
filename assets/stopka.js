@@ -40,7 +40,7 @@
     /* Rozmiar i grubość jak w treści strony - stopka ma się czytać,
        a nie znikać. Kolor tekstu pełny, nie przygaszony. */
     '  color: var(--text, var(--fg, #241f18));',
-    '  font-size: 1.0625rem; line-height: 1.65; font-weight: 400;',
+    '  font-size: 1.125rem; line-height: 1.6; font-weight: 400;',
     '}',
     /* Lewa kolumna dostaje ten sam odstęp pionowy co lista po prawej,
        żeby obie strony stopki czytały się jak jeden rytm. */
