@@ -191,7 +191,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 | Wystawa przy gali | dziesięć prac finałowych pokazanych publicznie | 2028 | do wyceny | mecenas konkursu plakatu | **tak** |
 | Wystawa w galerii sztuki, otwierana wernisażem | te same prace pokazane po gali, jeżeli galeria zostanie pozyskana | 2028 | do wyceny | partner galerii | nie |
 | Plebiscyt filmu: nabór, ocena, nagrody, prowadzenie | konkurs, pięć filmów finałowych, Projektornia i archiwum | 2027-2028 | 255 800,00 zł | sponsor plebiscytu filmu | **tak** |
-| Minutowe emisje na gali i pełne pokazy filmów finałowych | pięć filmów pokazanych publicznie dwukrotnie | 2028 | do wyceny | sponsor plebiscytu filmu | **tak** |
+| Minutowe emisje na gali, a przy pozyskaniu sali także pełne pokazy filmów finałowych | pięć filmów pokazanych publicznie | 2028 | do wyceny | sponsor plebiscytu filmu | **tak** |
 | Podcast, dwadzieścia cztery odcinki | bezpłatny materiał edukacyjny | 2027 | do wyceny | sponsor Antologii | nie |
 
 **Czym ten budżet jest, a czym nie jest.** Jest to budżet przygotowany dla partnerów prywatnych, a nie kosztorys wydatków kwalifikowanych programu: zawiera narzut wykonawcy i doliczany automatycznie VAT. Ewentualny wniosek zostanie opracowany według zasad właściwego programu, z uwzględnieniem statusu VAT wnioskodawcy. Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
@@ -314,7 +314,7 @@ Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**, w do
 
 **Film ma zostać zrealizowany na potrzeby plebiscytu** i ukończony w roku edycji, najpóźniej w dniu zgłoszenia. Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przeglądu i nie może otrzymać gdziekolwiek nagrody, wyróżnienia ani nominacji; wykluczona jest także przeróbka filmu ukończonego wcześniej. Zakaz nie obejmuje natomiast składników: zdjęć archiwalnych, materiałów stockowych, wcześniejszego scenariusza ani istniejącej muzyki. Po gali autor dysponuje filmem bez ograniczeń, a licencja jest niewyłączna. Regulamin zastrzega przy tym wprost, że publikacja wymagana do udziału może wykluczyć film z festiwali wymagających premiery - organizator nie obiecuje uczestnikowi czegoś, na co nie ma wpływu.
 
-**Jury wybiera pięciu finalistów i ustala kolejność trójki.** Podczas gali prezentowany jest minutowy fragment każdego z pięciu filmów finałowych, wybrany przez samego autora; pełne pokazy organizowane są odrębnie od gali, ponieważ gala rozstrzygająca kilka plebiscytów nie zmieści projekcji pełnometrażowej. Liczba pięciu finalistów odpowiada liczbie emisji, a nie została wzięta z analogii do pozostałych konkursów.
+**Jury wybiera pięciu finalistów i ustala kolejność trójki.** Podczas gali prezentowany jest minutowy fragment każdego z pięciu filmów finałowych, wybrany przez samego autora; pełne pokazy finałowej piątki są celem Organizatora, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania partnera dysponującego salą projekcyjną. Liczba pięciu finalistów odpowiada liczbie emisji, a nie została wzięta z analogii do pozostałych konkursów.
 
 **W tym jednym konkursie nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji.** Uczestnik opisuje, co w jego filmie zrobiły takie narzędzia; deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji, więc film wygenerowany w całości i film powstały bez tych narzędzi oceniane są według tej samej karty. Różnica wobec piosenki i plakatu jest celowa i wynika z przedmiotu oceny: przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem, więc w obu wypadkach da się wskazać, co musi pochodzić od człowieka, i sprawdzić to na jednym przedmiocie albo nagraniu. Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz generatywny jest dziś najszybciej zmieniającą się częścią tych narzędzi: zakaz postawiony dziś byłby w dniu gali arbitralny, a jego weryfikacja wymagałaby audytu produkcji, którego organizator nie jest w stanie przeprowadzić. Zamiast zakazu, którego nie dałoby się dotrzymać, regulamin wprowadza jawność, której dotrzymać można.
 
@@ -332,7 +332,7 @@ Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**, w do
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 7 800 zł |
 | **Razem, pozycje rozstrzygnięte** | **255 800 zł** |
 | Opracowanie techniczne minutowych emisji na galę | do wyceny |
-| Pełne pokazy filmów finałowych poza galą | do wyceny |
+| Pełne pokazy filmów finałowych poza galą, jeżeli dojdą do skutku | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
 | Obsługa prawna regulaminu konkursu | do wyceny |
 

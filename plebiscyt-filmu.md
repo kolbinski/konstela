@@ -102,7 +102,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 </div>
 
-Pełne pokazy filmów finałowych odbywają się osobno od gali, za zgodą autorów; brak zgody nie wpływa ani na ocenę, ani na nagrodę.
+**Pełne pokazy filmów finałowych - jeżeli znajdziemy salę.** Chcemy pokazać finałową piątkę w całości, osobno od gali, ale nie obiecujemy tego w regulaminie, bo zależy to od pozyskania partnera z salą projekcyjną. Jeżeli się uda, pytamy autorów o zgodę; odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
 ## <!--ikona:projektornia--><span>Projektornia i archiwum</span>
 
