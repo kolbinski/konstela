@@ -38,7 +38,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
@@ -74,7 +74,7 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ### Wersja plebiscytowa
 
-**Ocenie podlega wersja filmu dostępna pod linkiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; między werdyktem a galą nie odbiera nagrody, ale wyłącza film z głosowania publiczności, które trwa do dnia gali; po gali jest już bez znaczenia dla zgłoszenia. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego linku.
+**Ocenie podlega wersja filmu dostępna pod linkiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; między werdyktem a galą nie odbiera nagrody, ale wyłącza film z głosowania publiczności, które trwa do dnia gali. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego linku.
 
 ### Pozostałe pola zgłoszenia
 
@@ -82,13 +82,13 @@ Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opi
 
 ### Dlaczego warte nagrody głównej
 
-Do 700 znaków o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
 
 Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
 ## <!--ikona:zasady--><span>Zasady: deklaracja, nie zakaz</span>
 
-**Użycie narzędzi sztucznej inteligencji przy filmie nie jest zakazane w żadnym zakresie** - ani przy obrazie, ani przy scenariuszu, ani przy montażu, dźwięku, muzyce, głosie czy napisach. **Opisujesz natomiast w zgłoszeniu, co takie narzędzia w Twoim filmie zrobiły.** Deklaracja jest publikowana razem ze zgłoszeniem i **nie jest punktowana**: film wygenerowany w całości i film zrobiony bez tych narzędzi oceniamy tą samą kartą.
+**Użycie narzędzi sztucznej inteligencji przy filmie nie jest zakazane w żadnym zakresie** - ani przy obrazie, ani przy scenariuszu, ani przy montażu, dźwięku, muzyce, głosie czy napisach. **Opisujesz natomiast w zgłoszeniu, co takie narzędzia w Twoim filmie zrobiły.** Deklaracja jest publikowana razem ze zgłoszeniem i **nie jest punktowana**: film wygenerowany w całości i film zrobiony bez tych narzędzi oceniamy tą samą [kartą oceny](/dokument/regulamin-filmu#karta-oceny).
 
 Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regulaminy wskazują, co musi pochodzić od człowieka. **Nieprawdziwa deklaracja jest podstawą wykluczenia.**
 
@@ -96,19 +96,19 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 <div class="kafle jedna-kolumna">
 <article>
-<h3>Teza - 30 punktów</h3>
+<h3>Teza - od 0 do 30 punktów</h3>
 <p><strong>Co film mówi</strong> o sztucznej inteligencji: oryginalność ujęcia tematu. Oceniamy banalne ujęcie, nie sam temat - rzecz znana pokazana świeżo punktuje wysoko.</p>
 </article>
 <article>
-<h3>Forma - 30 punktów</h3>
+<h3>Forma - od 0 do 30 punktów</h3>
 <p><strong>Jak to pokazuje</strong>: montaż, obraz, dźwięk, rytm i wykorzystanie czasu, który sobie wziąłeś.</p>
 </article>
 <article>
-<h3>Rzetelność - 20 punktów</h3>
+<h3>Rzetelność - od 0 do 20 punktów</h3>
 <p>Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji liczy się tylko to, czy świat przedstawiony da się odróżnić od informacji podawanych jako rzeczywiste - sam zabieg fantastyczny nie obniża oceny.</p>
 </article>
 <article>
-<h3>Siła oddziaływania - 20 punktów</h3>
+<h3>Siła oddziaływania - od 0 do 20 punktów</h3>
 <p>Czy film zostawia wyraźną myśl, obraz albo emocję - coś, co po obejrzeniu potrafisz nazwać.</p>
 </article>
 </div>

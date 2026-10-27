@@ -38,7 +38,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -79,7 +79,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Pozostałe materiały z etapów pracy** - szkic, podmalówkę, zdjęcia w trakcie - możesz dołączyć, ale nie musisz. Jeśli istnieją, pomagają.
 
-**Dlaczego warte nagrody głównej.** Do 700 znaków o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Galerii w czasie naboru i w archiwum po gali.
+**Dlaczego warte nagrody głównej.** W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Galerii w czasie naboru i w archiwum po gali.
 
 Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
@@ -99,10 +99,10 @@ Cztery kryteria, łącznie do 100 punktów. **To jest projekt - ostateczne brzmi
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
-| Ujęcie&nbsp;tematu | 30 | **Co mówisz** o życiu z AI: trafność, oryginalność i głębia wypowiedzi |
-| Pomysł&nbsp;plastyczny | 30 | **Jak to pokazujesz**: przełożenie myśli na obraz, metaforę i relacje między elementami; niżej punktowane jest banalne użycie motywu |
-| Wykonanie | 20 | Świadome użycie techniki, koloru i rysunku |
-| Działanie&nbsp;plakatu | 20 | Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym |
+| Ujęcie&nbsp;tematu | od 0 do 30 | **Co mówisz** o życiu z AI: trafność, oryginalność i głębia wypowiedzi |
+| Pomysł&nbsp;plastyczny | od 0 do 30 | **Jak to pokazujesz**: przełożenie myśli na obraz, metaforę i relacje między elementami; niżej punktowane jest banalne użycie motywu |
+| Wykonanie | od 0 do 20 | Świadome użycie techniki, koloru i rysunku |
+| Działanie&nbsp;plakatu | od 0 do 20 | Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym |
 
 Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie tematu to „co mówisz", pomysł plastyczny to „jak to pokazujesz"**. Można mieć trafną myśl i rozwiązać ją nijak, albo olśniewająco pokazać coś, co nic nie wnosi. Wykonanie waży mniej celowo: nie szukamy najlepszego warsztatu, tylko najlepszego plakatu.
 

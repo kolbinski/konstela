@@ -40,7 +40,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -72,19 +72,19 @@ Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To 
 
 <div class="kafle jedna-kolumna">
 <article>
-<h3>I. Rozpiętość</h3>
+<h3>I. Rozpiętość - od 0 do 25 punktów</h3>
 <p>Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa poprowadziła między tym, co na pozór nie ma ze sobą nic wspólnego? Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.</p>
 </article>
 <article>
-<h3>II. Drążenie</h3>
+<h3>II. Drążenie - od 0 do 25 punktów</h3>
 <p>Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją? Czy kolejne pytania wykorzystują to, co już ustalone?</p>
 </article>
 <article>
-<h3>III. Weryfikacja</h3>
+<h3>III. Weryfikacja - od 0 do 25 punktów</h3>
 <p>Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności?</p>
 </article>
 <article>
-<h3>IV. Plon</h3>
+<h3>IV. Plon - od 0 do 25 punktów</h3>
 <p>Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.</p>
 </article>
 </div>

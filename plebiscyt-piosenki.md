@@ -38,7 +38,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest plebiscyt</span>
 
@@ -70,7 +70,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Do tego jedna okładka.** Kwadratowy obrazek, JPG albo PNG, bok od 800 do 3000 pikseli, do 5 MB. To on reprezentuje Twoją piosenkę w Słuchalni i w archiwum. Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładki nie oceniamy.**
 
-**Dlaczego warte nagrody głównej.** Do 700 znaków o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Słuchalni w czasie naboru i w archiwum po gali.
+**Dlaczego warte nagrody głównej.** W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Słuchalni w czasie naboru i w archiwum po gali.
 
 **Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń. Pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta.
 
@@ -96,10 +96,10 @@ Cztery kryteria, łącznie do 100 punktów. **Wagi podaje regulamin i po otwarci
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
-| Ujęcie&nbsp;tematu | 25 | Oryginalność i konkretność spojrzenia na życie z AI; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat |
-| Tekst | 30 | Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką |
-| Muzyka | 25 | Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w głowie |
-| Wykonanie | 20 | Wokal i interpretacja |
+| Ujęcie&nbsp;tematu | od 0 do 25 | Oryginalność i konkretność spojrzenia na życie z AI; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat |
+| Tekst | od 0 do 30 | Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką |
+| Muzyka | od 0 do 25 | Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w głowie |
+| Wykonanie | od 0 do 20 | Wokal i interpretacja |
 | **Razem** | **100** | |
 
 Tekst ma najwyższą wagę, bo to plebiscyt, w którym oceniamy również pisanie. W kryterium Wykonanie oceniamy wokal i interpretację w zakresie, w jakim słychać je w czytelnym demie; jakość produkcji nie wpływa na punktację w żadnym kryterium.
