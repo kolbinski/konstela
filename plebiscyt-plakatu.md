@@ -65,6 +65,8 @@ Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być pochw
 
 **Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna prawnego na udział, na przesłanie nagrania z widoczną twarzą oraz na obowiązkowe zakresy licencji. Zgody dotyczące pozostałych form wykorzystania pracy - odbioru nagrody, wysyłki oryginału, udziału w gali - rozpatrywane są osobno i ich brak wyklucza tylko z tej jednej rzeczy.
 
+**Pracę wykonaną wspólnie zgłasza jedna osoba reprezentująca cały skład** - prowadzi korespondencję i odbiera nagrodę, a podział pozostaje sprawą autorów. Nagranie z pracy ma wtedy pokazać każdego ze współautorów.
+
 **Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną praktykę - ilustratorów, malarzy, studentów szkół artystycznych, projektantów. Dorobek nie jest oceniany.
 
 ### Co możesz zgłosić
