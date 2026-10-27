@@ -60,33 +60,39 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Z
 
 ## <!--ikona:kryteria--><span>Cztery kryteria oceny</span>
 
-### I. Rozpiętość
-
-Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa poprowadziła między rzeczami, faktami czy konceptami? Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.
-
-### II. Drążenie
-
-Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją? Czy kolejne pytania wykorzystują to, co już ustalone?
-
-### III. Weryfikacja
-
-Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności?
-
-### IV. Plon
-
-Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.
+<div class="kafle jedna-kolumna">
+<article>
+<h3>I. Rozpiętość</h3>
+<p>Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa poprowadziła między bytami, faktami czy konceptami? Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.</p>
+</article>
+<article>
+<h3>II. Drążenie</h3>
+<p>Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją? Czy kolejne pytania wykorzystują to, co już ustalone?</p>
+</article>
+<article>
+<h3>III. Weryfikacja</h3>
+<p>Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności?</p>
+</article>
+<article>
+<h3>IV. Plon</h3>
+<p>Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.</p>
+</article>
+</div>
 
 **Każde kryterium ma 25 punktów, razem 100.** [Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każde pasmo punktowe w każdym kryterium.
 
 <h2 id="kto-ocenia"><!--ikona:jury--><span>Kto ocenia</span></h2>
 
-### Akademia
-
-**Pierwszą rundę oceny zgłoszenia prowadzi Akademia** - grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury.
-
-### Jury
-
-**Werdykt plebiscytu i wybór najlepszych rozmów należy do jury**, które ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureatach nagród. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
+<div class="kafle jedna-kolumna">
+<article>
+<h3>Akademia</h3>
+<p><strong>Pierwszą rundę oceny zgłoszenia prowadzi Akademia</strong> - grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury.</p>
+</article>
+<article>
+<h3>Jury</h3>
+<p><strong>Werdykt plebiscytu i wybór najlepszych rozmów należy do jury</strong>, które ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureatach nagród. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.</p>
+</article>
+</div>
 
 Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją archiwum.
 

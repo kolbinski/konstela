@@ -644,6 +644,12 @@
         #content .kafle {
           grid-template-columns: repeat(2, 1fr);
         }
+        /* Kafle, które czyta się po kolei - kryteria oceny, etapy oceniania -
+           zostają w jednej kolumnie, bo są listą kroków, a nie zestawieniem
+           do porównywania. */
+        #content .kafle.jedna-kolumna {
+          grid-template-columns: 1fr;
+        }
       }
 
       @media (max-width: 600px) {
