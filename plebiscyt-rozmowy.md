@@ -150,7 +150,7 @@ W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytanie
 
 ### Archiwum
 
-Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy AI - i **da się je przeglądać**, w tym według ocen wystawionych przez akademię, jury i publiczność.
+Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się trzema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy AI; zgłoszone rozmowy będzie można przeczytać **w wygodnym formacie** - na stronie, jako e-book albo plik do wydruku; a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
 
 ### Jawność punktacji
 
