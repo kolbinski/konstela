@@ -65,8 +65,8 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270629" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610270629" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270631" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610270631" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
       @font-face {
@@ -802,7 +802,10 @@
         content: '';
         position: absolute;
         left: 4px;
-        top: 0.45rem;
+        /* Linia zaczyna się w środku pierścienia, a pierścień stoi na
+           wysokości środka wiersza z datą - stąd te dwie wartości, a nie
+           okrągłe liczby. */
+        top: 0.58rem;
         bottom: 0;
         width: 1px;
         background: var(--rule);
@@ -814,7 +817,7 @@
         content: '';
         position: absolute;
         left: 0;
-        top: 0.2rem;
+        top: 0.3rem;
         width: 9px;
         height: 9px;
         box-sizing: border-box;
@@ -839,11 +842,11 @@
         }
         #harmonogram .purse.harmonogram > div::before {
           left: calc(11rem + 1.2rem);
-          top: 0.5rem;
+          top: 0.78rem;
         }
         #harmonogram .purse.harmonogram > div::after {
           left: calc(11rem + 1.2rem - 4px);
-          top: 0.25rem;
+          top: 0.5rem;
         }
         #harmonogram .purse.harmonogram dt {
           text-align: right;
@@ -1580,8 +1583,8 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=202610270629" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610270629" defer></script>
-    <script src="/assets/pasek.js?v=202610270629" defer></script>
+    <script src="/assets/stopka.js?v=202610270631" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610270631" defer></script>
+    <script src="/assets/pasek.js?v=202610270631" defer></script>
   </body>
 </html>
