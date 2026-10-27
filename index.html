@@ -65,8 +65,8 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270559" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610270559" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270600" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610270600" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
       @font-face {
@@ -646,6 +646,14 @@
       @media (min-width: 620px) {
         .awards {
           grid-template-columns: 1fr 1fr;
+        }
+        /* Kafli jest nieparzyście, więc ostatnie pole siatki zostaje puste i
+           pokazywało kolor linii rozdzielających zamiast tła kafla. Wypełnia
+           je dostawiony element; warunek na nieparzystą liczbę sprawia, że
+           przy dołożeniu albo ujęciu kafla nie trzeba tu niczego zmieniać. */
+        .awards:has(article:nth-child(odd):last-child)::after {
+          content: '';
+          background: var(--surface);
         }
       }
       @media (min-width: 620px) {
@@ -1495,8 +1503,8 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=202610270559" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610270559" defer></script>
-    <script src="/assets/pasek.js?v=202610270559" defer></script>
+    <script src="/assets/stopka.js?v=202610270600" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610270600" defer></script>
+    <script src="/assets/pasek.js?v=202610270600" defer></script>
   </body>
 </html>
