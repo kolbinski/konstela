@@ -69,6 +69,18 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją archiwum.
 
+## <!--ikona:ksiazka--><span>Nagroda Uczniowska</span>
+
+**Obok werdyktu Kapituły przyznawana jest Nagroda Uczniowska**, o której rozstrzygają uczniowskie grupy czytające, zgłaszane przez szkoły. Czytają według **tej samej jawnej karty oceny** co Kapituła i wskazują swoją rozmowę niezależnie od niej - oba werdykty ogłaszamy tego samego wieczoru i mogą wskazać dwie różne rozmowy. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
+
+**To jest praca oceniająca, nie głosowanie nad cudzym podium.** Grupy nie wybierają spośród dziesiątki finalistów, tylko czytają własny zestaw zgłoszeń i same ustalają wynik. W pierwszej edycji wszystkie grupy dostają **ten sam, niewielki zestaw rozmów**, żeby porównanie werdyktów miało sens: z tego samego materiału dorośli i uczniowie mogą wyjść na co innego, a to właśnie jest w tym ciekawe.
+
+**Zgłasza szkoła, nie uczeń z ulicy.** Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.
+
+**Uczniowie nie oceniają konkurencji.** W plebiscycie na rozmowę startują wyłącznie osoby pełnoletnie, więc czytający nie może trafić na zgłoszenie kolegi z klasy ani konkurować z tym, co ocenia. Rozmowa wskazana przez uczniów przechodzi przed ogłoszeniem to samo sprawdzenie rzetelności co dziesiątka Kapituły.
+
+**Stan: w przygotowaniu.** Zasady Nagrody Uczniowskiej wpiszemy do regulaminu przed otwarciem naboru, razem z zakresem zgody, której uczestnik udziela na przeczytanie swojej rozmowy przez grupy uczniowskie. Szkoły zainteresowane udziałem mogą napisać już teraz.
+
 ## <!--ikona:puchar--><span>Nagrody</span>
 
 **Nagroda główna i dziewięć wyróżnień.** Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć.
@@ -77,11 +89,9 @@ Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzy
 
 **Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem Kapituły wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
-Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne**, a wyniki wszystkich trzech ogłaszamy tego samego wieczoru - i mogą wskazać trzy różne rozmowy.
+Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne** - Uczniowska, opisana wyżej, oraz Publiczności. Wyniki wszystkich trzech ogłaszamy tego samego wieczoru i mogą wskazać trzy różne rozmowy.
 
-**Nagroda Uczniowska.** Przyznają ją uczniowskie grupy czytające, zgłaszane przez szkoły, według tej samej karty oceny co Kapituła i niezależnie od jej werdyktu. Wzorem jest francuska Prix Goncourt des lycéens, przyznawana od 1988 roku przez około 2000 licealistów obok macierzystej nagrody literackiej.
-
-**Nagroda Publiczności.** Wybierana w otwartym głosowaniu, jeden głos na numer telefonu, dopiero po zamrożeniu punktacji pierwszej rundy - żeby każda rozmowa miała tyle samo czasu na zbieranie głosów. Liczniki pozostają ukryte do ogłoszenia wyniku na gali.
+**Nagroda Publiczności.** Wybierana w otwartym głosowaniu, jeden głos na numer telefonu, otwieranym dopiero po zamknięciu naboru - żeby każda rozmowa miała tyle samo czasu na zbieranie głosów. Liczniki pozostają ukryte do ogłoszenia wyniku na gali.
 
 ## <!--ikona:sluchalnia--><span>Czytelnia i archiwum</span>
 
