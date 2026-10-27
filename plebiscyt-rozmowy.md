@@ -2,6 +2,7 @@
 
 <img src="/assets/rozmowa.jpg" srcset="/assets/rozmowa-800.jpg 800w, /assets/rozmowa.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="941" alt="Kobieta z laptopem na skale nad doliną o zmierzchu rysuje palcem linie między gwiazdami; z konstelacji wyłaniają się obrazy - planeta, galaktyka, otwarta książka, muszla amonitu, rzeźba, góry - połączone świetlistymi liniami." />
 
+<!--ikona:rozdzielacz-->
 
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
