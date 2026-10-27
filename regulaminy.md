@@ -40,4 +40,11 @@ Jakie dane zbieramy w każdym z czterech plebiscytów i w głosowaniu publiczno�
 **[Fundacja Konstela](/fundacja)**
 Podmiot prowadzący Nagrodę: na jakim jest etapie, jakie ma cele statutowe, jak jest zbudowana i skąd bierze pieniądze.
 
-Pytania o konkretny plebiscyt najlepiej kierować na jego własny adres, podany na jego podstronie. W sprawach całej Nagrody i w sprawach wymienionych w regulaminach: **kontakt@konstela.org**.
+Pytania o konkretny plebiscyt najlepiej kierować na jego własny adres:
+
+- rozmowa ze sztuczną inteligencją - **plebiscyt.rozmowy@konstela.org**
+- film o sztucznej inteligencji - **plebiscyt.filmu@konstela.org**
+- piosenka o sztucznej inteligencji - **plebiscyt.piosenki@konstela.org**
+- plakat o sztucznej inteligencji - **plebiscyt.plakatu@konstela.org**
+
+W sprawach całej Nagrody i w sprawach wymienionych w regulaminach: **kontakt@konstela.org**.

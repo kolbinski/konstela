@@ -48,4 +48,11 @@ Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach - na roz
 
 Sprawy dotyczące samej Fundacji - statut, współpraca, mecenat, sprawozdania: **fundacja@konstela.org**.
 
-Sprawy konkretnego plebiscytu najlepiej kierować na jego własny adres, podany na jego podstronie. W sprawach całej Nagrody i w sprawach wymienionych w regulaminach: **kontakt@konstela.org**.
+Sprawy konkretnego plebiscytu najlepiej kierować na jego własny adres:
+
+- rozmowa ze sztuczną inteligencją - **plebiscyt.rozmowy@konstela.org**
+- film o sztucznej inteligencji - **plebiscyt.filmu@konstela.org**
+- piosenka o sztucznej inteligencji - **plebiscyt.piosenki@konstela.org**
+- plakat o sztucznej inteligencji - **plebiscyt.plakatu@konstela.org**
+
+W sprawach całej Nagrody i w sprawach wymienionych w regulaminach: **kontakt@konstela.org**.
