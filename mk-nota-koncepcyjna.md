@@ -158,7 +158,8 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 
 | Rola | Kwota netto | Co finansuje |
 |---|---:|---|
-| Fundator puli nagród i gali | 570 044,80 zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
+| Fundator puli nagród | 534 876,80 zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie konkursu |
+| Sponsor gali | 35 168,00 zł | gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo i prowadzenie gali pozostają bez kwoty do wyboru miejsca |
 | Partner wydawniczy lub sponsor organizacyjny | 292 422,00 zł | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu |
 | Sponsor Akademii | 160 160,00 zł | pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń |
 | **Razem, pozycje obecnie wycenione** | **1 022 626,80 zł** | |
@@ -180,7 +181,8 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 | Działanie | Rezultat | Rok kosztu | Obecnie wyceniony koszt netto | Planowane źródło | Czy pytam MKiDN |
 |---|---|---|---:|---|---|
-| Konkurs rozmów: nabór, ocena, prowadzenie, gala | laureat, dziesiątka finalistów, gala | 2027-2028 | 570 044,80 zł | fundator puli nagród | nie |
+| Konkurs rozmów: nabór, ocena, prowadzenie | laureat i dziesiątka finalistów | 2027-2028 | 534 876,80 zł | fundator puli nagród | nie |
+| Gala rozstrzygnięcia czterech plebiscytów | wydarzenie publiczne wraz z zapisem wideo | 2028 | 35 168,00 zł | sponsor gali | nie |
 | Antologia i archiwum, w tym krótki nakład na galę | e-book bezpłatny, archiwum, egzemplarze dla laureatów | 2027-2028 | 292 422,00 zł | partner wydawniczy lub sponsor organizacyjny | nie |
 | Pierwsza runda oceny: Akademia rozmów i Akademia filmu | przesiew zgłoszeń, dwa odczyty rozmowy i dwa obejrzenia filmu na zgłoszenie | 2027-2028 | 160 160,00 zł | sponsor Akademii | nie |
 | Plebiscyt piosenki: nabór, ocena, nagrody, prowadzenie | konkurs i jego laureaci | 2027-2028 | 99 600,00 zł | sponsor plebiscytu | **tak** |

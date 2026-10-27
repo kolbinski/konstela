@@ -126,7 +126,7 @@ Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy fin
 
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
-| Fundator nagrody i gali | ok. 609 tys. zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), honoraria jury i Akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
+| Fundator nagrody i gali | ok. 571 tys. zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), honoraria jury i Akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
 | Partner wydawniczy | ok. 233 tys. zł **[do sprawdzenia: arkusz daje 271,7 tys. zł]** | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie archiwum i kopii rozmów, powołanie fundacji |
 | **Razem** | **ok. 837 tys. zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
