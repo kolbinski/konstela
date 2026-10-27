@@ -60,11 +60,17 @@ Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrz
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
+### Kto może zgłosić
+
 **Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody przedstawiciela ustawowego na udział, na przesłanie nagrania z widoczną twarzą oraz na obowiązkowe zakresy licencji. Zgody dotyczące pozostałych form wykorzystania pracy - odbioru nagrody, wysyłki oryginału, udziału w gali - rozpatrywane są osobno i ich brak wyklucza tylko z tej jednej rzeczy.
 
 **Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną praktykę - ilustratorów, malarzy, studentów szkół artystycznych, projektantów, którzy rysują po swojemu. Dorobek nie jest oceniany.
 
-**Jedna praca.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą, czy ostrzeżeniem.
+### Co możesz zgłosić
+
+**Jedną pracę w jednej edycji.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą, czy ostrzeżeniem.
+
+### Wymogi formalne
 
 **Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 

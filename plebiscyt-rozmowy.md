@@ -53,7 +53,11 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
+### Kto może zgłosić
+
 Zgłoszenia w plebiscycie mogą dokonać osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy - tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
+
+### Wymogi formalne
 
 **Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 
