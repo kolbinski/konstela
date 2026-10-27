@@ -43,7 +43,11 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
-Plebiscyt i zgłoszenia planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokość nagród zależy od pozyskanych sponsorów i podamy ją przy ogłoszeniu naboru.
+**Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
+
+**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć - plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
+
+**Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
