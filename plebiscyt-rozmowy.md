@@ -125,23 +125,19 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **mogą wskazać trzy różne rozmowy**. Ogłaszamy je na tej samej gali rozdania nagród.
 
-**Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną bezpłatnie jako e-book, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
 <h3 id="nagroda-uczniowska">Nagroda Uczniowska</h3>
 
 **Tę nagrodę rozstrzygają uczniowskie grupy czytające.** Czytają i oceniają według **tej samej jawnej karty oceny** co akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
 
-**Jedna szkoła - jedno wskazanie.** Czytać może dowolnie wiele klas, a im więcej, tym lepiej. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej. Dzięki temu duża szkoła nie waży więcej od małej.
+**Jedna szkoła - jedno wskazanie.** Czytać może dowolnie wiele klas i uczniów. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej.
 
-**To jest praca oceniająca, nie głosowanie nad cudzym podium.** Grupy nie wybierają spośród dziesiątki finalistów, tylko czytają własny zestaw zgłoszeń i same ustalają wynik. W pierwszej edycji wszystkie grupy dostają **ten sam zestaw rozmów**, żeby porównanie werdyktów miało sens: z tego samego materiału dorośli i uczniowie mogą wyjść na co innego, a to właśnie jest w tym ciekawe.
+**Zgłasza szkoła.** Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.
 
-**Zgłasza szkoła, nie uczeń z ulicy.** Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.
+**Jak sprawdzamy, że to naprawdę szkoła.** W formularzu wybiera się szkołę z rejestru państwowego, a kod potwierdzający wysyłamy **na adres tej szkoły zapisany w rejestrze** - nie na adres wpisany przez zgłaszającego. Nauczyciel przepisuje kod i potwierdza zgłoszoną ocenę. Jeśli rejestr nie ma adresu albo adres nie działa, potwierdzamy telefonicznie, pod numerem szkoły z rejestru. Nie zbieramy przy tym żadnych danych uczniów - ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.
 
-**Jak sprawdzamy, że to naprawdę szkoła.** W formularzu wybiera się szkołę z rejestru państwowego, a kod potwierdzający wysyłamy **na adres tej szkoły zapisany w rejestrze** - nie na adres wpisany przez zgłaszającego. Nauczyciel przepisuje kod i tyle. Jeśli rejestr nie ma adresu albo adres nie działa, potwierdzamy telefonicznie, pod numerem szkoły z rejestru. Nie zbieramy przy tym żadnych danych uczniów - ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.
-
-**Uczniowie nie oceniają konkurencji.** W plebiscycie na rozmowę startują wyłącznie osoby pełnoletnie, więc czytający nie może trafić na zgłoszenie kolegi z klasy ani konkurować z tym, co ocenia. Rozmowa wskazana przez uczniów przechodzi przed ogłoszeniem to samo sprawdzenie rzetelności co dziesiątka jury.
-
-**Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia.** Zgłaszając rozmowę, godzisz się na to, że może ona trafić do czytania przez grupy uczniowskie, w tym przez osoby niepełnoletnie - tak samo, jak godzisz się na przeczytanie jej przez jury i Akademię. Nie wskazujesz, komu Twoja rozmowa ma być przedstawiona do oceny. Zasady są w regulaminie (§ 8 ust. 2a i § 9 ust. 9), a szkoły zainteresowane zgłoszeniem grupy mogą napisać już teraz.
+**Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia oceny przez szkołę.** Zgłaszając wskazanie, szkoła zgadza się na to, że rozmowy z [czytelni](#czytelnia) trafiają do czytania i oceniania przez grupy uczniowskie, w tym przez osoby niepełnoletnie. Szkoła nie wskazuje, które rozmowy są przedstawiane jej grupom do czytania i oceniania.
 
 <h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i archiwum</span></h2>
 
