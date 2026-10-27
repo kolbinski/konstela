@@ -125,7 +125,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **mogą wskazać trzy różne rozmowy**. Ogłaszamy je na tej samej gali rozdania nagród.
 
-**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną bezpłatnie jako e-book, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną bezpłatnie jako e-book oraz w wydaniu książkowym, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
 <div class="kafle jedna-kolumna">
 <article>
