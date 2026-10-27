@@ -67,21 +67,31 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 1a. Adres kontakt@konstela.org służy do korespondencji w sprawach Nagrody, w tym do pytań Uczestników, zgłoszeń o błędzie odwzorowania kopii (§ 5 ust. 9) i wniosków, o których mowa w § 13.
 2. **Zakres formularza zgłoszeniowego.** Zgłoszenie zawiera:
 
-- a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu) - **obowiązkowe**;
-- b) **opis odkrycia**: od 200 do 1500 znaków o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło - **obowiązkowe**. Uczestnik może w nim wspomnieć, co z rozmowy wynikło później - powstałą stronę, aplikację, tekst, usługę albo podjętą decyzję - i podać do tego odnośnik. **Informacja ta stanowi kontekst, nie dowód, i nie podlega punktacji** (§ 7 ust. 10 lit. d);
-- a1) **tytuł rozmowy** nadany przez Uczestnika, do 80 znaków - **obowiązkowe**. Tytuł jest nazwą pozycji w czytelni (ust. 10a § 11) i w archiwum, a także podstawą sortowania alfabetycznego. **Nie podlega punktacji w żadnym kryterium** (§ 7 ust. 10 lit. d);
+   a) **link do udostępnionej rozmowy**, wygenerowany po stronie dostawcy modelu (funkcja udostępniania czatu) - **obowiązkowe**;
 
-- b1) **dlaczego warte nagrody głównej**: do 700 znaków własnego uzasadnienia - **obowiązkowe**. Pole jest prezentowane publicznie w czytelni zgłoszeń i w archiwum (§ 11 ust. 10a i 11) i **nie podlega punktacji w żadnym kryterium** (§ 7 ust. 13a). Służy jako materiał do komentarzy jury w antologii i do rozmowy weryfikacyjnej, a także jest prezentowane publicznie w czytelni i w archiwum. Powód takiego ułożenia: oceniana jest rozmowa, a nie umiejętność jej zareklamowania, a uzasadnienie przeczytane przed rozmową kierowałoby lekturą;
-- a2) **ilustracja rozmowy** - jeden plik graficzny w formacie JPG albo PNG, o proporcjach **9:16** (pionowy), o krótszym boku nie mniejszym niż 1080 i nie większym niż 2160 pikseli, o objętości do 5 MB - **obowiązkowe**. Ilustracja reprezentuje rozmowę w czytelni i w archiwum, a przy rozmowie nagrodzonej - także w antologii. **Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji**, i **nie podlega punktacji w żadnym kryterium** (§ 7 ust. 13a);
+   b) **opis odkrycia**: od 200 do 1500 znaków o tym, do czego Uczestnik doszedł w tej rozmowie, wraz ze wskazaniem miejsca w rozmowie, w którym to nastąpiło - **obowiązkowe**. Uczestnik może w nim wspomnieć, co z rozmowy wynikło później - powstałą stronę, aplikację, tekst, usługę albo podjętą decyzję - i podać do tego odnośnik. **Informacja ta stanowi kontekst, nie dowód, i nie podlega punktacji** (§ 7 ust. 10 lit. d);
 
-- c) **imię i nazwisko** - **obowiązkowe**;
-- c1) **adres e-mail** - **obowiązkowe**; służy do całej korespondencji w sprawie zgłoszenia, w tym do przekazania kopii archiwalnej;
-- c2) **numer telefonu komórkowego** - **obowiązkowe**; służy wyłącznie do jednorazowej weryfikacji zgłoszenia kodem przesłanym wiadomością SMS i do wyegzekwowania zasady jednego zgłoszenia na osobę (ust. 2e). Numer **nie jest publikowany**, nie jest wykorzystywany do kontaktu w innych sprawach ani do jakiejkolwiek korespondencji marketingowej;
-- c3) **miejscowość** - **obowiązkowe**; służy wyłącznie do rozliczenia nagrody, statystyki zasięgu naboru i korespondencji. **Nie jest publikowana** ani w czytelni, ani w archiwum, ani w antologii;
-- d) **metryczka rozmowy**: nazwa użytego modelu i jego dostawcy oraz **data pierwszej i ostatniej wypowiedzi** w rozmowie; jeżeli rozmowa odbyła się jednego dnia, Uczestnik podaje tę samą datę dwukrotnie - **obowiązkowe**;
-- e) **deklaracja załączników**: informacja, czy w rozmowie Uczestnik wgrywał pliki (dokumenty, obrazy, dane, kod), jakiego rodzaju i czy ich treść jest widoczna w udostępnionym linku - **obowiązkowe**;
-- f) **oświadczenia z § 11 ust. 1** - **obowiązkowe**, składane przez zaznaczenie pól w formularzu;
-- g) **pseudonim** - **nieobowiązkowe**; wypełniane tylko wtedy, gdy Uczestnik woli, by jego rozmowa była podpisana w antologii i w archiwum pseudonimem zamiast imieniem i nazwiskiem (§ 11 ust. 5 i 5a). Publikacja jako taka jest warunkiem udziału i nie wymaga odrębnej zgody (§ 11 ust. 3); Uczestnik decyduje wyłącznie o sposobie podpisania rozmowy.
+   a1) **tytuł rozmowy** nadany przez Uczestnika, do 80 znaków - **obowiązkowe**. Tytuł jest nazwą pozycji w czytelni (ust. 10a § 11) i w archiwum, a także podstawą sortowania alfabetycznego. **Nie podlega punktacji w żadnym kryterium** (§ 7 ust. 10 lit. d);
+
+   b1) **dlaczego warte nagrody głównej**: do 700 znaków własnego uzasadnienia - **obowiązkowe**. Pole jest prezentowane publicznie w czytelni zgłoszeń i w archiwum (§ 11 ust. 10a i 11) i **nie podlega punktacji w żadnym kryterium** (§ 7 ust. 13a). Służy jako materiał do komentarzy jury w antologii i do rozmowy weryfikacyjnej, a także jest prezentowane publicznie w czytelni i w archiwum. Powód takiego ułożenia: oceniana jest rozmowa, a nie umiejętność jej zareklamowania, a uzasadnienie przeczytane przed rozmową kierowałoby lekturą;
+
+   a2) **ilustracja rozmowy** - jeden plik graficzny w formacie JPG albo PNG, o proporcjach **9:16** (pionowy), o krótszym boku nie mniejszym niż 1080 i nie większym niż 2160 pikseli, o objętości do 5 MB - **obowiązkowe**. Ilustracja reprezentuje rozmowę w czytelni i w archiwum, a przy rozmowie nagrodzonej - także w antologii. **Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji**, i **nie podlega punktacji w żadnym kryterium** (§ 7 ust. 13a);
+
+   c) **imię i nazwisko** - **obowiązkowe**;
+
+   c1) **adres e-mail** - **obowiązkowe**; służy do całej korespondencji w sprawie zgłoszenia, w tym do przekazania kopii archiwalnej;
+
+   c2) **numer telefonu komórkowego** - **obowiązkowe**; służy wyłącznie do jednorazowej weryfikacji zgłoszenia kodem przesłanym wiadomością SMS i do wyegzekwowania zasady jednego zgłoszenia na osobę (ust. 2e). Numer **nie jest publikowany**, nie jest wykorzystywany do kontaktu w innych sprawach ani do jakiejkolwiek korespondencji marketingowej;
+
+   c3) **miejscowość** - **obowiązkowe**; służy wyłącznie do rozliczenia nagrody, statystyki zasięgu naboru i korespondencji. **Nie jest publikowana** ani w czytelni, ani w archiwum, ani w antologii;
+
+   d) **metryczka rozmowy**: nazwa użytego modelu i jego dostawcy oraz **data pierwszej i ostatniej wypowiedzi** w rozmowie; jeżeli rozmowa odbyła się jednego dnia, Uczestnik podaje tę samą datę dwukrotnie - **obowiązkowe**;
+
+   e) **deklaracja załączników**: informacja, czy w rozmowie Uczestnik wgrywał pliki (dokumenty, obrazy, dane, kod), jakiego rodzaju i czy ich treść jest widoczna w udostępnionym linku - **obowiązkowe**;
+
+   f) **oświadczenia z § 11 ust. 1** - **obowiązkowe**, składane przez zaznaczenie pól w formularzu;
+
+   g) **pseudonim** - **nieobowiązkowe**; wypełniane tylko wtedy, gdy Uczestnik woli, by jego rozmowa była podpisana w antologii i w archiwum pseudonimem zamiast imieniem i nazwiskiem (§ 11 ust. 5 i 5a). Publikacja jako taka jest warunkiem udziału i nie wymaga odrębnej zgody (§ 11 ust. 3); Uczestnik decyduje wyłącznie o sposobie podpisania rozmowy.
 
 **Formularz nie zbiera żadnych innych danych.** W szczególności na etapie zgłoszenia Organizator **nie zbiera** numeru PESEL, adresu zamieszkania ani danych bankowych.
 
@@ -90,38 +100,51 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 2c. **Publikacja jest ujawnieniem - ostrzeżenie dla Uczestnika.** Rozmowa zgłoszona do Nagrody zostaje opublikowana w antologii albo w archiwum, a publikacja jest warunkiem udziału (§ 11 ust. 3). Zanim Uczestnik zgłosi rozmowę, powinien rozważyć, czy jej treść zawiera coś, czego ujawnienie mogłoby mu zaszkodzić. Dotyczy to w szczególności: rozwiązań, które Uczestnik zamierza zgłosić do ochrony patentowej albo wzorniczej, ponieważ wcześniejsze publiczne udostępnienie niweczy przesłankę nowości; wyników badań przeznaczonych do pierwszej publikacji w czasopiśmie naukowym, jeżeli jego zasady wykluczają wcześniejsze upublicznienie; informacji objętych tajemnicą przedsiębiorstwa, umową o zachowaniu poufności albo obowiązkiem zawodowym; a także pomysłów na przedsięwzięcie, które Uczestnik chce zachować dla siebie. **Organizator nie bada tych okoliczności i nie ponosi odpowiedzialności za skutki ujawnienia**; ocena, czy rozmowę można upublicznić, należy wyłącznie do Uczestnika i jest elementem jego oświadczenia z § 11 ust. 1.
 2d. **Dane zbierane na dalszych etapach.** Dane wykraczające poza ust. 2 zbierane są wyłącznie wtedy, gdy stają się niezbędne, i wyłącznie od osób, których dotyczą:
 
-- a) **numer telefonu do kontaktu** - od Uczestników zakwalifikowanych do pierwszej dziesiątki, na potrzeby rozmowy weryfikacyjnej (§ 8 ust. 15); Organizator prosi o niego ponownie, ponieważ numeru podanego przy zgłoszeniu nie przechowuje w postaci jawnej (§ 5 ust. 2e lit. b); Uczestnik może zamiast tego wskazać łącze do rozmowy wideo;
-- b) **adres korespondencyjny** - od Uczestników z pierwszej dziesiątki, wyłącznie w celu wysyłki dyplomu, medalu i egzemplarza wydania drukowanego;
-- c) **dane niezbędne do wypłaty nagrody i rozliczenia podatkowego**, w tym numer PESEL albo inny identyfikator podatkowy, właściwy urząd skarbowy i numer rachunku bankowego - **wyłącznie od laureatów nagród pieniężnych**, po ogłoszeniu wyników;
-- d) **okazanie dokumentu tożsamości** - przed wypłatą nagrody, zgodnie z § 3 ust. 3; Organizator nie sporządza kopii dokumentu ani nie przechowuje jego wizerunku.
+   a) **numer telefonu do kontaktu** - od Uczestników zakwalifikowanych do pierwszej dziesiątki, na potrzeby rozmowy weryfikacyjnej (§ 8 ust. 15); Organizator prosi o niego ponownie, ponieważ numeru podanego przy zgłoszeniu nie przechowuje w postaci jawnej (§ 5 ust. 2e lit. b); Uczestnik może zamiast tego wskazać łącze do rozmowy wideo;
+
+   b) **adres korespondencyjny** - od Uczestników z pierwszej dziesiątki, wyłącznie w celu wysyłki dyplomu, medalu i egzemplarza wydania drukowanego;
+
+   c) **dane niezbędne do wypłaty nagrody i rozliczenia podatkowego**, w tym numer PESEL albo inny identyfikator podatkowy, właściwy urząd skarbowy i numer rachunku bankowego - **wyłącznie od laureatów nagród pieniężnych**, po ogłoszeniu wyników;
+
+   d) **okazanie dokumentu tożsamości** - przed wypłatą nagrody, zgodnie z § 3 ust. 3; Organizator nie sporządza kopii dokumentu ani nie przechowuje jego wizerunku.
 
 Terminy usunięcia danych z lit. a-c określa § 12.
 
 2e. **Jedno zgłoszenie na osobę i weryfikacja numeru telefonu.** W jednej edycji Uczestnik może złożyć **jedno zgłoszenie**. Ograniczenie ma dwie przyczyny: chroni nabór przed zalaniem zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej, co przy nagrodzie tej wysokości jest realnym zagrożeniem, a przy tym zmusza Uczestnika do wyboru rozmowy, którą uważa za najlepszą - co odpowiada charakterowi Nagrody.
 
-- a) **Weryfikacja.** Po wypełnieniu formularza Organizator przesyła na podany numer telefonu jednorazowy kod, który Uczestnik przepisuje w formularzu. Zgłoszenie niepotwierdzone kodem nie zostaje złożone. Na jeden numer telefonu przypada jedno zgłoszenie w edycji.
-- b) **Postępowanie z numerem.** Organizator **nie przechowuje numeru telefonu w postaci jawnej**. Po wysłaniu kodu numer zostaje zastąpiony wartością skrótu obliczoną z użyciem klucza tajnego przechowywanego odrębnie od bazy zgłoszeń, służącą wyłącznie do stwierdzenia, czy z tego numeru złożono już zgłoszenie. Wartość ta pozostaje danymi osobowymi w rozumieniu RODO i podlega zasadom z polityki prywatności, w tym terminowi usunięcia; skrót zostaje usunięty wraz z zamknięciem edycji.
-- c) **Brak dostępu do telefonu.** Uczestnik, który nie może odebrać wiadomości SMS, zgłasza to na adres kontakt@konstela.org; Organizator ustala wówczas inny sposób potwierdzenia tożsamości zgłoszenia, nie gorszy pod względem wiarygodności. Brak telefonu nie może być powodem wykluczenia z udziału.
-- d) **Powtórzenia rozmowy.** Niezależnie od zasady jednego zgłoszenia Organizator odrzuca zgłoszenia wskazujące **tę samą rozmowę**, co rozmowa zgłoszona wcześniej. Tożsamość rozmowy Organizator ustala na podstawie identyfikatora zawartego w linku oraz porównania treści kopii archiwalnej; porównywana jest treść, a nie dane osoby zgłaszającej.
-- e) **Wycofanie i ponowne złożenie.** Do zamknięcia naboru Uczestnik może wycofać złożone zgłoszenie i złożyć w jego miejsce inne; nie jest to składanie drugiego zgłoszenia. Wycofanie następuje przez wiadomość na adres kontakt@konstela.org wysłaną z adresu podanego w zgłoszeniu.
+   a) **Weryfikacja.** Po wypełnieniu formularza Organizator przesyła na podany numer telefonu jednorazowy kod, który Uczestnik przepisuje w formularzu. Zgłoszenie niepotwierdzone kodem nie zostaje złożone. Na jeden numer telefonu przypada jedno zgłoszenie w edycji.
+
+   b) **Postępowanie z numerem.** Organizator **nie przechowuje numeru telefonu w postaci jawnej**. Po wysłaniu kodu numer zostaje zastąpiony wartością skrótu obliczoną z użyciem klucza tajnego przechowywanego odrębnie od bazy zgłoszeń, służącą wyłącznie do stwierdzenia, czy z tego numeru złożono już zgłoszenie. Wartość ta pozostaje danymi osobowymi w rozumieniu RODO i podlega zasadom z polityki prywatności, w tym terminowi usunięcia; skrót zostaje usunięty wraz z zamknięciem edycji.
+
+   c) **Brak dostępu do telefonu.** Uczestnik, który nie może odebrać wiadomości SMS, zgłasza to na adres kontakt@konstela.org; Organizator ustala wówczas inny sposób potwierdzenia tożsamości zgłoszenia, nie gorszy pod względem wiarygodności. Brak telefonu nie może być powodem wykluczenia z udziału.
+
+   d) **Powtórzenia rozmowy.** Niezależnie od zasady jednego zgłoszenia Organizator odrzuca zgłoszenia wskazujące **tę samą rozmowę**, co rozmowa zgłoszona wcześniej. Tożsamość rozmowy Organizator ustala na podstawie identyfikatora zawartego w linku oraz porównania treści kopii archiwalnej; porównywana jest treść, a nie dane osoby zgłaszającej.
+
+   e) **Wycofanie i ponowne złożenie.** Do zamknięcia naboru Uczestnik może wycofać złożone zgłoszenie i złożyć w jego miejsce inne; nie jest to składanie drugiego zgłoszenia. Wycofanie następuje przez wiadomość na adres kontakt@konstela.org wysłaną z adresu podanego w zgłoszeniu.
 
 3. **Nie przyjmujemy transkryptów** w postaci plików tekstowych, dokumentów, zrzutów ekranu ani wklejonej treści rozmowy. Przyczyna: tekst można dowolnie zredagować przed wklejeniem. Link pokazuje wersję rozmowy udostępnioną przez Uczestnika u dostawcy modelu; nie potwierdza pełnej historii jej powstawania (ust. 2a).
 3a. **Sprawdź link przed zgłoszeniem.** U części dostawców udostępniony link pokazuje rozmowę w stanie z chwili jego wygenerowania, a wymiany dopisane później nie pojawiają się pod tym samym adresem; u innych bywa inaczej i zależy to także od rodzaju konta. Organizator nie rozstrzyga, jak zachowuje się link u konkretnego dostawcy, i zaleca jedno: **przed zgłoszeniem otworzyć link i sprawdzić, czy pokazuje całą rozmowę, którą Uczestnik chce zgłosić**. Ocenie podlega kopia sporządzona przez Organizatora przy zgłoszeniu (ust. 5); po zgłoszeniu obowiązuje tryb z ust. 9 i 10, a samowolna podmiana treści pod linkiem podlega ust. 7.
 
 3b. **Sprawdzenie wstępne.** Organizator udostępnia nieodpłatne narzędzie pozwalające Uczestnikowi sprawdzić **przed zgłoszeniem**, czy rozmowa spełnia policzalne wymogi formalne z § 6 pkt 1-4, 7 i 8, to jest liczbę słów i wypowiedzi, język, ciągłość wątku oraz okno rozmów. Zasady:
 
-- a) narzędzie **nie ocenia treści** i nie sprawdza podstaw odrzucenia z § 6 pkt 5 oraz 9-12, które wymagają oceny przez człowieka; brak zastrzeżeń ze strony narzędzia nie oznacza, że rozmowa tych podstaw nie narusza;
-- b) wynik ma charakter **informacyjny i niewiążący**; rozstrzygająca jest ocena formalna przeprowadzana po wpłynięciu zgłoszenia;
-- c) narzędzie **nie przechowuje sprawdzanych rozmów** ani ich fragmentów;
-- d) korzystanie z narzędzia jest **dobrowolne** i nie jest warunkiem zgłoszenia; jego niedostępność, w tym brak obsługi danego dostawcy modelu, nie wpływa na prawo do udziału ani na ocenę;
-- e) narzędzie działa **jednakowo dla Uczestników i dla Organizatora**: nie ma w nim trybu uprzywilejowanego, kont ani logowania, a Uczestnik widzi dokładnie to samo odczytanie rozmowy, na którym pracuje Organizator. Jeżeli Uczestnik dostrzeże, że narzędzie odczytuje jego rozmowę błędnie, może zgłosić to przed zgłoszeniem na adres kontakt@konstela.org; nie pozbawia go to uprawnień z ust. 9;
-- f) narzędzie pozwala Uczestnikowi **pobrać odczytany zapis własnej rozmowy**. Plik ten jest egzemplarzem Uczestnika i **nie stanowi podstawy oceny**; nie zastępuje linku ani kopii archiwalnej i nie jest przyjmowany jako załącznik do zgłoszenia, ponieważ - jak każdy plik - może zostać zmieniony po pobraniu (ust. 3). Kopię archiwalną sporządza wyłącznie Organizator (ust. 5). Plik pobrany przez Uczestnika może natomiast zostać wzięty pod uwagę jako materiał pomocniczy w sytuacji z ust. 6, to jest gdy rozmowa przestanie być dostępna nie z jego winy.
+   a) narzędzie **nie ocenia treści** i nie sprawdza podstaw odrzucenia z § 6 pkt 5 oraz 9-12, które wymagają oceny przez człowieka; brak zastrzeżeń ze strony narzędzia nie oznacza, że rozmowa tych podstaw nie narusza;
+
+   b) wynik ma charakter **informacyjny i niewiążący**; rozstrzygająca jest ocena formalna przeprowadzana po wpłynięciu zgłoszenia;
+
+   c) narzędzie **nie przechowuje sprawdzanych rozmów** ani ich fragmentów;
+
+   d) korzystanie z narzędzia jest **dobrowolne** i nie jest warunkiem zgłoszenia; jego niedostępność, w tym brak obsługi danego dostawcy modelu, nie wpływa na prawo do udziału ani na ocenę;
+
+   e) narzędzie działa **jednakowo dla Uczestników i dla Organizatora**: nie ma w nim trybu uprzywilejowanego, kont ani logowania, a Uczestnik widzi dokładnie to samo odczytanie rozmowy, na którym pracuje Organizator. Jeżeli Uczestnik dostrzeże, że narzędzie odczytuje jego rozmowę błędnie, może zgłosić to przed zgłoszeniem na adres kontakt@konstela.org; nie pozbawia go to uprawnień z ust. 9;
+
+   f) narzędzie pozwala Uczestnikowi **pobrać odczytany zapis własnej rozmowy**. Plik ten jest egzemplarzem Uczestnika i **nie stanowi podstawy oceny**; nie zastępuje linku ani kopii archiwalnej i nie jest przyjmowany jako załącznik do zgłoszenia, ponieważ - jak każdy plik - może zostać zmieniony po pobraniu (ust. 3). Kopię archiwalną sporządza wyłącznie Organizator (ust. 5). Plik pobrany przez Uczestnika może natomiast zostać wzięty pod uwagę jako materiał pomocniczy w sytuacji z ust. 6, to jest gdy rozmowa przestanie być dostępna nie z jego winy.
 
 4. Uczestnik zobowiązuje się utrzymać link aktywny i publicznie dostępny do dnia ogłoszenia wyników. Skutek jego dezaktywacji zależy od dnia:
 
    a) **do dnia zamknięcia treści antologii** (§ 11 ust. 6) - dezaktywacja oznacza wycofanie zgłoszenia;
 
    b) **po tym dniu** - dezaktywacja nie powoduje wycofania zgłoszenia ani usunięcia go z oceny i publikacji; ocena i publikacja opierają się na kopii archiwalnej (ust. 5), a wpis w archiwum zostaje bez działającego odnośnika, co Organizator oznacza. Uprawnienia Uczestnika z § 11 ust. 9 pozostają nienaruszone.
+
 5. **Kopia archiwalna.** Niezwłocznie po wpłynięciu zgłoszenia Organizator sporządza kopię rozmowy wraz ze znacznikiem czasu. Od tej chwili **ocenie podlega kopia**, a nie treść dostępna pod linkiem. Kopia służy ocenie oraz publikacji na zasadach z § 11. **Do czasu publikacji** przechowywana jest poza stroną Nagrody, w miejscu niedostępnym publicznie, dostępnym wyłącznie dla osób uprawnionych; usuwana jest zgodnie z § 12.
 6. **Niedostępność linku nie z winy Uczestnika** - w szczególności wynikająca z awarii, zmiany zasad albo zakończenia usługi po stronie dostawcy modelu - nie powoduje odrzucenia ani wycofania zgłoszenia; ocena odbywa się na kopii archiwalnej. Organizator może zwrócić się do Uczestnika o potwierdzenie przyczyny niedostępności.
 7. Zmiana treści rozmowy pod linkiem po dniu zgłoszenia nie wpływa na ocenę; rozbieżność między kopią a treścią pod linkiem może natomiast stanowić podstawę odrzucenia zgłoszenia.
@@ -176,11 +199,15 @@ Dodatkowo:
 9. Rozmowy zawierające pytania nieudane, pomyłki i wątki porzucone **nie są z tego powodu oceniane niżej**. Oceniający traktują je jako świadectwo rzeczywistego przebiegu pracy.
 10. **Artefakty nie podlegają ocenie.** Jeżeli w rozmowie powstały dodatkowe wytwory - dokumenty, strony, kod, arkusze, obrazy, pliki - **oceniany jest wyłącznie dialog, nie wytwór**. Ich obecność nie jest zakazana (często powstają bez udziału woli Uczestnika), ale:
 
-- a) jakość, złożoność ani efektowność artefaktu nie dają punktów w żadnym kryterium;
-- b) kryterium **Plon** mierzy to, co z rozmowy wyniósł człowiek, a nie to, co wyprodukował model; rozmowa, w której powstał dopracowany projekt, ale Uczestnik jedynie przyjmował kolejne propozycje, oceniana jest niżej niż rozmowa, w której nie powstało nic poza zrozumieniem;
-- c) artefakt, bez którego rozmowa jest niezrozumiała (omawiany wykres, załączony tekst, fragment kodu, do którego Uczestnik się odnosi), **musi być widoczny** w udostępnionym linku albo opisany w zgłoszeniu w stopniu pozwalającym zrozumieć dialog; jego brak może skutkować odrzuceniem zgłoszenia jako niekompletnego, przy czym sam artefakt nadal nie jest oceniany. Opis zamieszczony w zgłoszeniu **służy wyłącznie zrozumieniu kontekstu**: nie stanowi dowodu osiągnięcia, nie zastępuje treści widocznej w kopii i nie jest dodatkowym ocenianym dialogiem (§ 5 ust. 8);
-- d) **skutek rozmowy powstały poza nią** - wytwór, projekt, publikacja, usługa albo decyzja, o których Uczestnik wspomniał w opisie odkrycia (§ 5 ust. 2 lit. b) - nie jest oceniany: ani jego istnienie, ani jakość, ani skala nie podnoszą punktacji w żadnym kryterium. Ocenie podlega wyłącznie to, co widać w samej rozmowie; jeżeli to w niej zapadła decyzja albo powstało rozwiązanie, Plon punktowany jest na podstawie tego, co w rozmowie widoczne (§ 5 ust. 8). Powód: nagroda ocenia prowadzenie rozmowy, a nie wytworzony produkt, a odnośnik zewnętrzny jest niesprawdzalny i zmienny. Informacja o skutku może natomiast zostać wykorzystana w komentarzu jury towarzyszącej rozmowie w antologii (§ 8 ust. 13a);
-- e) obrazy wygenerowane w rozmowie mogą zostać zachowane w antologii jako ilustracja jej przebiegu, również bez wpływu na ocenę.
+   a) jakość, złożoność ani efektowność artefaktu nie dają punktów w żadnym kryterium;
+
+   b) kryterium **Plon** mierzy to, co z rozmowy wyniósł człowiek, a nie to, co wyprodukował model; rozmowa, w której powstał dopracowany projekt, ale Uczestnik jedynie przyjmował kolejne propozycje, oceniana jest niżej niż rozmowa, w której nie powstało nic poza zrozumieniem;
+
+   c) artefakt, bez którego rozmowa jest niezrozumiała (omawiany wykres, załączony tekst, fragment kodu, do którego Uczestnik się odnosi), **musi być widoczny** w udostępnionym linku albo opisany w zgłoszeniu w stopniu pozwalającym zrozumieć dialog; jego brak może skutkować odrzuceniem zgłoszenia jako niekompletnego, przy czym sam artefakt nadal nie jest oceniany. Opis zamieszczony w zgłoszeniu **służy wyłącznie zrozumieniu kontekstu**: nie stanowi dowodu osiągnięcia, nie zastępuje treści widocznej w kopii i nie jest dodatkowym ocenianym dialogiem (§ 5 ust. 8);
+
+   d) **skutek rozmowy powstały poza nią** - wytwór, projekt, publikacja, usługa albo decyzja, o których Uczestnik wspomniał w opisie odkrycia (§ 5 ust. 2 lit. b) - nie jest oceniany: ani jego istnienie, ani jakość, ani skala nie podnoszą punktacji w żadnym kryterium. Ocenie podlega wyłącznie to, co widać w samej rozmowie; jeżeli to w niej zapadła decyzja albo powstało rozwiązanie, Plon punktowany jest na podstawie tego, co w rozmowie widoczne (§ 5 ust. 8). Powód: nagroda ocenia prowadzenie rozmowy, a nie wytworzony produkt, a odnośnik zewnętrzny jest niesprawdzalny i zmienny. Informacja o skutku może natomiast zostać wykorzystana w komentarzu jury towarzyszącej rozmowie w antologii (§ 8 ust. 13a);
+
+   e) obrazy wygenerowane w rozmowie mogą zostać zachowane w antologii jako ilustracja jej przebiegu, również bez wpływu na ocenę.
 
 11. Nie podlegają nagrodzeniu: zbiory ciekawostek bez wniosku, popisy sprawności w formułowaniu poleceń oraz próby obejścia zabezpieczeń modelu. Rozmowy o charakterze terapeutycznym i wsparciowym podlegają odrzuceniu już na etapie formalnym (§ 6 ust. 11).
 12. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
@@ -312,26 +339,40 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 2. **Akademia** to grupa czytelników powoływanych przez Organizatora na jedną edycję, której zadaniem jest pierwsza runda oceny. Skład Akademii ogłaszany jest na stronie Nagrody. Członkostwo wygasa, jeżeli członek nie oceni przydzielonych mu zgłoszeń w terminie.
 2a. **Uczniowska Akademia.** Obok Akademii Organizator powołuje grupy uczniowskie zgłaszane przez szkoły, których zadaniem jest przyznanie Nagrody Uczniowskiej (§ 9 ust. 9). Zasady:
 
-- a) grupę zgłasza szkoła, a opiekę nad nią sprawuje wskazany przez nią nauczyciel koordynujący; udział jest bezpłatny i dobrowolny;
-- a1) **szkołę wskazuje się numerem w Rejestrze Szkół i Placówek Oświatowych**, a jednorazowy kod potwierdzający Organizator wysyła **na adres poczty elektronicznej tej szkoły wskazany w rejestrze**, a nie na adres wpisany w formularzu. Nauczyciel koordynujący przepisuje kod w formularzu. Jeżeli rejestr nie zawiera adresu szkoły albo adres okaże się nieaktualny, Organizator potwierdza zgłoszenie telefonicznie, pod numerem szkoły wskazanym w rejestrze;
-- a2) **Organizator nie zbiera danych uczniów**: ani imion, ani adresów, ani numerów telefonu. Do Organizatora trafia werdykt grupy wraz z uzasadnieniem, a dane osób czytających pozostają w szkole;
-- b) grupy czytają zgłoszenia **według tej samej karty oceny** co jury i Akademia, bez stosowania jakichkolwiek innych kryteriów;
-- c) **w pierwszej edycji wszystkie grupy otrzymują ten sam zestaw zgłoszeń**, wyodrębniony przez Organizatora przed rozpoczęciem czytania i ogłoszony co do liczebności przed otwarciem naboru; zestaw nie jest tożsamy z pierwszą dziesiątką ustaloną przez jury;
-- d) ocena grup uczniowskich **nie wpływa na punktację jury ani Akademii** i odwrotnie;
-- e) konflikt interesów nie powstaje, ponieważ Uczestnikiem może być wyłącznie osoba pełnoletnia (§ 3 ust. 1), a członkowie grup uczniowskich nie biorą udziału w konkursie;
-- f) członka grupy uczniowskiej obowiązuje poufność w tym samym zakresie co członka Akademii, a szkoła odpowiada za jej zapewnienie;
-- g) **liczba grup czytających w jednej szkole nie jest ograniczona**, lecz szkoła przedstawia **jedno wskazanie**, uzgodnione między swoimi grupami. Dzięki temu każda szkoła waży tyle samo niezależnie od wielkości, a liczba zgłoszonych grup nie wpływa na wynik.
+   a) grupę zgłasza szkoła, a opiekę nad nią sprawuje wskazany przez nią nauczyciel koordynujący; udział jest bezpłatny i dobrowolny;
+
+   a1) **szkołę wskazuje się numerem w Rejestrze Szkół i Placówek Oświatowych**, a jednorazowy kod potwierdzający Organizator wysyła **na adres poczty elektronicznej tej szkoły wskazany w rejestrze**, a nie na adres wpisany w formularzu. Nauczyciel koordynujący przepisuje kod w formularzu. Jeżeli rejestr nie zawiera adresu szkoły albo adres okaże się nieaktualny, Organizator potwierdza zgłoszenie telefonicznie, pod numerem szkoły wskazanym w rejestrze;
+
+   a2) **Organizator nie zbiera danych uczniów**: ani imion, ani adresów, ani numerów telefonu. Do Organizatora trafia werdykt grupy wraz z uzasadnieniem, a dane osób czytających pozostają w szkole;
+
+   b) grupy czytają zgłoszenia **według tej samej karty oceny** co jury i Akademia, bez stosowania jakichkolwiek innych kryteriów;
+
+   c) **w pierwszej edycji wszystkie grupy otrzymują ten sam zestaw zgłoszeń**, wyodrębniony przez Organizatora przed rozpoczęciem czytania i ogłoszony co do liczebności przed otwarciem naboru; zestaw nie jest tożsamy z pierwszą dziesiątką ustaloną przez jury;
+
+   d) ocena grup uczniowskich **nie wpływa na punktację jury ani Akademii** i odwrotnie;
+
+   e) konflikt interesów nie powstaje, ponieważ Uczestnikiem może być wyłącznie osoba pełnoletnia (§ 3 ust. 1), a członkowie grup uczniowskich nie biorą udziału w konkursie;
+
+   f) członka grupy uczniowskiej obowiązuje poufność w tym samym zakresie co członka Akademii, a szkoła odpowiada za jej zapewnienie;
+
+   g) **liczba grup czytających w jednej szkole nie jest ograniczona**, lecz szkoła przedstawia **jedno wskazanie**, uzgodnione między swoimi grupami. Dzięki temu każda szkoła waży tyle samo niezależnie od wielkości, a liczba zgłoszonych grup nie wpływa na wynik.
 
 3. **Podział ról.** Oceny formalnej (§ 6) dokonuje Organizator lub wskazana przez niego osoba. **Oceny merytorycznej pierwszej rundy dokonuje Akademia**, według tych samych kryteriów z § 7 i tej samej Karty oceny. **Rozstrzygnięcia, to jest ustalenia dziesiątki antologii i ostatecznej kolejności, dokonuje wyłącznie jury.** Organizator nie ocenia merytorycznie, nie dokonuje wstępnej selekcji i nie wskazuje jury zgłoszeń wyróżnionych.
 3a. **Oznaczanie zastrzeżeń prawnych przez oceniających.** Oprócz oceny merytorycznej oceniający **oznacza w panelu zastrzeżenie**, jeżeli w rozmowie dostrzeże dane osobowe osoby trzeciej, przytoczenie całego cudzego utworu krótkiego albo cudzy materiał wgrany do rozmowy. Zasady:
 
-- a) **oznaczenie jest sygnałem, nie rozstrzygnięciem.** Oceniający wskazuje miejsce i rodzaj zastrzeżenia; o nieopublikowaniu kopii rozmowy w archiwum rozstrzyga wyłącznie Organizator, w trybie z § 11 ust. 11 lit. e-f;
-- b) **oznaczenie nie wpływa na punktację** ani na zakwalifikowanie zgłoszenia do dalszej oceny i nie może być używane jako ocena ukryta. Oceniający nie obniża z tego powodu żadnego kryterium;
-- c) **oznaczenie samo w sobie nie wstrzymuje publikacji ani prezentacji zgłoszenia.** Ograniczenie prezentacji albo odstąpienie od publikacji kopii wymaga odrębnego, uzasadnionego rozstrzygnięcia Organizatora w trybie z § 7a; do chwili takiego rozstrzygnięcia wpis pozostaje w czytelni bez zmian. Zapis ten istnieje dlatego, że utrata ekspozycji jest dla Uczestnika realnym kosztem, którego zachowanie prawa do nagrody publiczności nie wyrównuje;
-- c1) rodzaje rutynowych oznaczeń są **zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji) przez opis tego, co widać, a nie przez kwalifikację prawną**. Procedura jest jawna od dnia ogłoszenia naboru. Oceniający rozpoznaje **podejrzenie**, nie stan prawny: procedura posługuje się sformułowaniami w rodzaju „fragment wyglądający na kompletny wiersz albo tekst piosenki innego autora", wraz z przykładami pozytywnymi i negatywnymi. Oceniający nie ustala, czy Uczestnik ma uprawnienie do wykorzystania materiału, ani czy materiał jest cudzy;
-- c2) **poza listą rutynowych oznaczeń oceniający może wskazać inny konkretny problem**, który dostrzegł, w szczególności długie przytoczenie dosłowne (§ 11 ust. 11 lit. j) albo okoliczność z § 7a. Organizator nie ma obowiązku przeglądania wszystkich zgłoszeń w poszukiwaniu takich okoliczności, ale **nie jest zwolniony z reakcji na problem, o którym wie**;
-- c3) **historia sprawy jest zachowywana wewnętrznie**: oznaczenie, rozstrzygnięcie Organizatora i wynik ewentualnego zakwestionowania podstaw. **Oznaczenie, które okazało się nietrafne, nie pozostawia publicznego śladu** sugerującego naruszenie; w szczególności nie jest w żaden sposób widoczne w czytelni ani w archiwum;
-- d) zadanie to powierzono oceniającym dlatego, że **i tak czytają każde zgłoszenie**, a przegląd prowadzony osobno przez Organizatora nie skalowałby się wraz z liczbą zgłoszeń. **Rozstrzygnięcia Organizatora dotyczą zgłoszeń oznaczonych oraz innych przypadków, w których Organizator otrzymał konkretny sygnał albo sam powziął wiadomość o problemie.** Nie oznacza to obowiązku odrębnego przeglądania wszystkich zgłoszeń.
+   a) **oznaczenie jest sygnałem, nie rozstrzygnięciem.** Oceniający wskazuje miejsce i rodzaj zastrzeżenia; o nieopublikowaniu kopii rozmowy w archiwum rozstrzyga wyłącznie Organizator, w trybie z § 11 ust. 11 lit. e-f;
+
+   b) **oznaczenie nie wpływa na punktację** ani na zakwalifikowanie zgłoszenia do dalszej oceny i nie może być używane jako ocena ukryta. Oceniający nie obniża z tego powodu żadnego kryterium;
+
+   c) **oznaczenie samo w sobie nie wstrzymuje publikacji ani prezentacji zgłoszenia.** Ograniczenie prezentacji albo odstąpienie od publikacji kopii wymaga odrębnego, uzasadnionego rozstrzygnięcia Organizatora w trybie z § 7a; do chwili takiego rozstrzygnięcia wpis pozostaje w czytelni bez zmian. Zapis ten istnieje dlatego, że utrata ekspozycji jest dla Uczestnika realnym kosztem, którego zachowanie prawa do nagrody publiczności nie wyrównuje;
+
+   c1) rodzaje rutynowych oznaczeń są **zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji) przez opis tego, co widać, a nie przez kwalifikację prawną**. Procedura jest jawna od dnia ogłoszenia naboru. Oceniający rozpoznaje **podejrzenie**, nie stan prawny: procedura posługuje się sformułowaniami w rodzaju „fragment wyglądający na kompletny wiersz albo tekst piosenki innego autora", wraz z przykładami pozytywnymi i negatywnymi. Oceniający nie ustala, czy Uczestnik ma uprawnienie do wykorzystania materiału, ani czy materiał jest cudzy;
+
+   c2) **poza listą rutynowych oznaczeń oceniający może wskazać inny konkretny problem**, który dostrzegł, w szczególności długie przytoczenie dosłowne (§ 11 ust. 11 lit. j) albo okoliczność z § 7a. Organizator nie ma obowiązku przeglądania wszystkich zgłoszeń w poszukiwaniu takich okoliczności, ale **nie jest zwolniony z reakcji na problem, o którym wie**;
+
+   c3) **historia sprawy jest zachowywana wewnętrznie**: oznaczenie, rozstrzygnięcie Organizatora i wynik ewentualnego zakwestionowania podstaw. **Oznaczenie, które okazało się nietrafne, nie pozostawia publicznego śladu** sugerującego naruszenie; w szczególności nie jest w żaden sposób widoczne w czytelni ani w archiwum;
+
+   d) zadanie to powierzono oceniającym dlatego, że **i tak czytają każde zgłoszenie**, a przegląd prowadzony osobno przez Organizatora nie skalowałby się wraz z liczbą zgłoszeń. **Rozstrzygnięcia Organizatora dotyczą zgłoszeń oznaczonych oraz innych przypadków, w których Organizator otrzymał konkretny sygnał albo sam powziął wiadomość o problemie.** Nie oznacza to obowiązku odrębnego przeglądania wszystkich zgłoszeń.
 
 4. **Panel oceny.** Zgłoszenia, które przeszły ocenę formalną, udostępniane są jury i Akademii w zabezpieczonym hasłem panelu na stronie Nagrody. Przy każdym zgłoszeniu panel pokazuje: kopię rozmowy sporządzoną przez Organizatora (§ 5 ust. 5), link do rozmowy, opis odkrycia sporządzony przez Uczestnika, nazwę użytego modelu i datę rozmowy. **Organizator nie sporządza streszczeń zgłoszeń ani nie zleca ich sporządzenia narzędziom automatycznym**; jedynym streszczeniem, które widzi oceniający, jest opis odkrycia napisany przez samego Uczestnika.
 
@@ -339,9 +380,11 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 
 6. **Konflikt interesów.** Jeżeli członek jury albo Akademii rozpozna Uczestnika - niezależnie od tego, czy nastąpi to na podstawie treści rozmowy, interfejsu, czy w inny sposób - i pozostaje z nim w relacji osobistej, rodzinnej, zawodowej lub finansowej, albo z innego powodu nie może ocenić zgłoszenia bezstronnie:
 
-- a) **odstępuje od oceny tego zgłoszenia** i niezwłocznie informuje o tym Organizatora, bez podawania pozostałym członkom jury, kogo rozpoznał;
-- b) Organizator przekazuje zgłoszenie do oceny innemu członkowi tego samego ciała, a jeżeli nie jest to możliwe - powołuje do oceny tego jednego zgłoszenia niezależnego recenzenta zewnętrznego;
-- c) fakt wyłączenia odnotowuje się w protokole, bez ujawniania tożsamości Uczestnika.
+   a) **odstępuje od oceny tego zgłoszenia** i niezwłocznie informuje o tym Organizatora, bez podawania pozostałym członkom jury, kogo rozpoznał;
+
+   b) Organizator przekazuje zgłoszenie do oceny innemu członkowi tego samego ciała, a jeżeli nie jest to możliwe - powołuje do oceny tego jednego zgłoszenia niezależnego recenzenta zewnętrznego;
+
+   c) fakt wyłączenia odnotowuje się w protokole, bez ujawniania tożsamości Uczestnika.
 
 Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; członek ocenia pozostałe zgłoszenia normalnie. Samo rozpoznanie Uczestnika, bez relacji ani innej przyczyny stronniczości, nie wymaga wyłączenia, ale członek jury zgłasza je Organizatorowi do protokołu.
 
@@ -350,20 +393,28 @@ Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; człone
 9. **Kolejność prezentacji.** Zgłoszenia prezentowane są każdemu członkowi jury w kolejności losowej, odrębnej dla każdego z nich, aby wykluczyć wpływ kolejności na ocenę.
 10. **Tryb oceny zależny od liczby zgłoszeń.** Progi poniżej Organizator ogłasza **przed rozpoczęciem naboru** i liczy wyłącznie od **zgłoszeń, które przeszły ocenę formalną** (§ 6); zgłoszenia odrzucone formalnie nie są uwzględniane. Tryb obowiązujący w danym momencie wynika z liczby zgłoszeń, a nie z decyzji Organizatora podejmowanej po zamknięciu naboru; po zamknięciu naboru Organizator ogłasza w terminie 7 dni, który tryb został ostatecznie zastosowany:
 
-- a) **do 20 zgłoszeń** - Akademii nie powołuje się; każdy członek jury ocenia wszystkie zgłoszenia;
-- b) **od 21 do 60 zgłoszeń** - Akademia przeprowadza pierwszą rundę, w której każde zgłoszenie jest czytane przez co najmniej dwóch jej członków; jury ocenia zgłoszenia zakwalifikowane do drugiej rundy, nie mniej niż 20;
-- c) **od 61 do 200 zgłoszeń** - jak w lit. b, z przydziałem zapewniającym każdemu członkowi Akademii nie więcej niż 20 zgłoszeń; w razie potrzeby Organizator powołuje dodatkowych członków Akademii z listy rezerwowej;
-- d) **od 201 do 3000 zgłoszeń** - pierwsza runda przeprowadzana jest jako **odczyt wstępny**, w którym każde zgłoszenie czyta co najmniej jeden członek Akademii, z zabezpieczeniami określonymi w ust. 10a;
-- e) **powyżej 3000 zgłoszeń** - stosuje się tryb z lit. d, a ponadto Organizator **rozdziela pierwszą rundę na dwa etapy**: odczyt wstępny, w którym każde zgłoszenie czyta jeden członek Akademii odpowiadając na pytanie o istnienie i wskazywalność momentu odkrycia, oraz **rundę zbieżności**, w której zgłoszenia zakwalifikowane w odczycie wstępnym ocenia pełną Kartą oceny ten sam, stały zespół członków Akademii, tak aby oceny rozstrzygające o kolejności pochodziły od tych samych osób i były porównywalne. Liczebność zespołu, liczbę zgłoszeń przechodzących do rundy zbieżności oraz liczbę zgłoszeń kierowanych do jury Organizator ogłasza **przed rozpoczęciem naboru**, wraz z progami z niniejszego ustępu; zabezpieczenia z ust. 10a stosuje się do etapu odczytu wstępnego.
+   a) **do 20 zgłoszeń** - Akademii nie powołuje się; każdy członek jury ocenia wszystkie zgłoszenia;
+
+   b) **od 21 do 60 zgłoszeń** - Akademia przeprowadza pierwszą rundę, w której każde zgłoszenie jest czytane przez co najmniej dwóch jej członków; jury ocenia zgłoszenia zakwalifikowane do drugiej rundy, nie mniej niż 20;
+
+   c) **od 61 do 200 zgłoszeń** - jak w lit. b, z przydziałem zapewniającym każdemu członkowi Akademii nie więcej niż 20 zgłoszeń; w razie potrzeby Organizator powołuje dodatkowych członków Akademii z listy rezerwowej;
+
+   d) **od 201 do 3000 zgłoszeń** - pierwsza runda przeprowadzana jest jako **odczyt wstępny**, w którym każde zgłoszenie czyta co najmniej jeden członek Akademii, z zabezpieczeniami określonymi w ust. 10a;
+
+   e) **powyżej 3000 zgłoszeń** - stosuje się tryb z lit. d, a ponadto Organizator **rozdziela pierwszą rundę na dwa etapy**: odczyt wstępny, w którym każde zgłoszenie czyta jeden członek Akademii odpowiadając na pytanie o istnienie i wskazywalność momentu odkrycia, oraz **rundę zbieżności**, w której zgłoszenia zakwalifikowane w odczycie wstępnym ocenia pełną Kartą oceny ten sam, stały zespół członków Akademii, tak aby oceny rozstrzygające o kolejności pochodziły od tych samych osób i były porównywalne. Liczebność zespołu, liczbę zgłoszeń przechodzących do rundy zbieżności oraz liczbę zgłoszeń kierowanych do jury Organizator ogłasza **przed rozpoczęciem naboru**, wraz z progami z niniejszego ustępu; zabezpieczenia z ust. 10a stosuje się do etapu odczytu wstępnego.
 
 Tryb nie jest wybierany przez Organizatora: wynika z liczby zgłoszeń według progów podanych wyżej, ogłoszonych przed rozpoczęciem naboru. Jeżeli w trakcie naboru liczba zgłoszeń przekroczy próg wyższy, tryb zmienia się na dalszą część pierwszej rundy, a **oceny już wystawione pozostają w mocy i nie są odbierane**; zgłoszenia, które otrzymały dotąd dwa odczyty, zachowują je.
 10a. **Zabezpieczenia odczytu jednoosobowego.** W trybie z ust. 10 lit. d, a w trybie z lit. e - na etapie odczytu wstępnego:
 
-- a) próg kwalifikujący do drugiego odczytu albo jednoznaczną metodę jego wyznaczenia Organizator ogłasza **przed pierwszym ocenianiem w edycji**, nie po obejrzeniu wyników;
-- b) drugi odczyt jest **obowiązkowy dla zgłoszeń, które osiągnęły próg lub go przekroczyły**, oraz dla zgłoszeń, których wynik mieści się w pasmie bezpośrednio poniżej progu; szerokość pasma ogłaszana jest razem z progiem;
-- c) Organizator kieruje do drugiego odczytu również **losowo wybraną część pozostałych zgłoszeń odrzuconych** w odczycie wstępnym, nie mniej niż jedną dziesiątą;
-- d) Organizator rozszerza zakres kontroli, a w razie potrzeby przywraca tryb z ust. 10 lit. c, powołując dodatkowych członków Akademii z listy rezerwowej, jeżeli drugi odczyt **zmienia kwalifikację** (to jest przenosi zgłoszenie ponad próg albo poniżej niego) w odsetku sprawdzonych zgłoszeń nie niższym niż wartość ogłoszona przed rozpoczęciem oceniania. Wartość tę Organizator ustala po próbie kalibracyjnej i ogłasza razem z progiem; miarą nie jest dowolna różnica punktów, lecz zmiana kwalifikacji;
-- e) uprawnienie z ust. 11 przysługuje bez zmian, z zastrzeżeniem, że **nie zastępuje ono zabezpieczeń z lit. b-d**: dzika karta chroni zgłoszenie, które ktoś przeczytał i docenił, i nie chroni przed przeoczeniem przez jedynego czytelnika.
+   a) próg kwalifikujący do drugiego odczytu albo jednoznaczną metodę jego wyznaczenia Organizator ogłasza **przed pierwszym ocenianiem w edycji**, nie po obejrzeniu wyników;
+
+   b) drugi odczyt jest **obowiązkowy dla zgłoszeń, które osiągnęły próg lub go przekroczyły**, oraz dla zgłoszeń, których wynik mieści się w pasmie bezpośrednio poniżej progu; szerokość pasma ogłaszana jest razem z progiem;
+
+   c) Organizator kieruje do drugiego odczytu również **losowo wybraną część pozostałych zgłoszeń odrzuconych** w odczycie wstępnym, nie mniej niż jedną dziesiątą;
+
+   d) Organizator rozszerza zakres kontroli, a w razie potrzeby przywraca tryb z ust. 10 lit. c, powołując dodatkowych członków Akademii z listy rezerwowej, jeżeli drugi odczyt **zmienia kwalifikację** (to jest przenosi zgłoszenie ponad próg albo poniżej niego) w odsetku sprawdzonych zgłoszeń nie niższym niż wartość ogłoszona przed rozpoczęciem oceniania. Wartość tę Organizator ustala po próbie kalibracyjnej i ogłasza razem z progiem; miarą nie jest dowolna różnica punktów, lecz zmiana kwalifikacji;
+
+   e) uprawnienie z ust. 11 przysługuje bez zmian, z zastrzeżeniem, że **nie zastępuje ono zabezpieczeń z lit. b-d**: dzika karta chroni zgłoszenie, które ktoś przeczytał i docenił, i nie chroni przed przeoczeniem przez jedynego czytelnika.
 
 10b. **Granica przepustowości.** Jeżeli liczba zgłoszeń, które przeszły ocenę formalną, przekroczy poziom pozwalający rzetelnie przeprowadzić pierwszą rundę w terminach z § 4 nawet w trybie z ust. 10 lit. e, Organizator **nie ogranicza liczby przyjmowanych zgłoszeń ani nie odstępuje od przeczytania któregokolwiek z nich**, lecz przesuwa dzień ogłoszenia wyników o czas niezbędny do zakończenia oceny, ogłaszając na stronie Nagrody nową datę wraz z uzasadnieniem i liczbą zgłoszeń, której to dotyczy. Przesunięcie z tej przyczyny nie podlega ograniczeniu z § 4; pozostałe terminy liczone od dnia ogłoszenia wyników biegną od daty nowej. Powód: antologia każdej edycji ma być zapisem rozmów z całego roku, a nie z tej ich części, którą zdążono przeczytać, zaś **żadne zgłoszenie nie może zostać odrzucone bez przeczytania przez człowieka**.
 
@@ -371,13 +422,19 @@ Tryb nie jest wybierany przez Organizatora: wynika z liczby zgłoszeń według p
 12. **Porównywalność ocen.** Przed rozpoczęciem oceny Organizator przeprowadza z jury i Akademią próbę kalibracyjną na trzech rozmowach spoza edycji, reprezentujących różne poziomy i różne rodzaje wartości: wszyscy oceniają te same teksty niezależnie, a następnie omawiane są największe rozbieżności. Zgłoszenia dzielone są tak, aby każde otrzymało liczbę ocen przewidzianą dla trybu ustalonego zgodnie z ust. 10; przy rozbieżności przekraczającej **10 punktów w którymkolwiek kryterium** zarządza się ocenę trzecią.
 13. **Kotwice i dryf oceny.** Ponieważ pierwsza runda trwa przez cały okres naboru, oceny z początku i z końca tego okresu mogą powstawać według różnych standardów. Przeciwdziałają temu następujące zasady:
 
-- a) te same trzy rozmowy kalibracyjne oceniane są ponownie, niezależnie, dwukrotnie: w połowie okresu naboru oraz po jego zamknięciu; oceniający poznaje swoje wcześniejsze punkty dopiero po wystawieniu nowych;
-- b) kotwice służą **wyłącznie rozpoznaniu zmiany standardu** danego oceniającego; nie wyznaczają prawidłowej punktacji, nie są wzorcem tematycznym i nie przelicza się na ich podstawie ocen pozostałych zgłoszeń;
-- c) istotne przesunięcie ocen kotwic uruchamia przegląd wcześniejszych ocen tego oceniającego, w pierwszej kolejności zgłoszeń znajdujących się przy granicy kwalifikacji do rundy drugiej;
-- d) niezależnie od wyniku kotwic Organizator przeprowadza po zamknięciu naboru **obowiązkowy przegląd zgłoszeń granicznych**, to jest tych, których średnia mieści się w ogłoszonym wcześniej pasmie wokół granicy kwalifikacji; przegląd polega na dodatkowym odczycie przez osobę, która zgłoszenia dotąd nie czytała;
-- e) **ocena wystawiona w rundzie pierwszej** może być przez oceniającego zmieniona do **dnia zamrożenia punktacji rundy pierwszej**, przypadającego 14 dni po zamknięciu naboru i odrębnego od terminu zgłoszeń; każda zmiana zachowuje poprzednią wartość, datę i krótkie uzasadnienie. Zamrożenie nie dotyczy ocen jury w rundzie drugiej, które powstają później;
-- f) jeżeli liczba zgłoszeń wpływających w ostatnim miesiącu naboru nie pozwala rzetelnie zakończyć rundy pierwszej w tym terminie, Organizator może **jednorazowo przesunąć dzień zamrożenia, nie więcej niż o 30 dni**, ogłaszając to na stronie Nagrody wraz z uzasadnieniem; przesunięcie dnia zamrożenia na termin wcześniejszy jest wyłączone;
-- g) po dniu zamrożenia zmiana oceny rundy pierwszej jest możliwa wyłącznie w ramach trybów przewidzianych w ust. 12, w lit. c-d niniejszego ustępu, **w ramach kontroli i przywrócenia dwóch odczytów na podstawie ust. 10a** oraz **w ramach kontroli rozkładu z ust. 14b**. Jeżeli kontrola rozkładu przypada na dzień zamrożenia albo po nim, odczyt zarządzony na jej podstawie przeprowadza się mimo zamrożenia, a jego wynik uwzględnia się mimo zamrożenia, z zachowaniem obowiązku trzeciego odczytu określonego w ust. 12; Organizator odnotowuje to w informacji, o której mowa w § 13 ust. 5.
+   a) te same trzy rozmowy kalibracyjne oceniane są ponownie, niezależnie, dwukrotnie: w połowie okresu naboru oraz po jego zamknięciu; oceniający poznaje swoje wcześniejsze punkty dopiero po wystawieniu nowych;
+
+   b) kotwice służą **wyłącznie rozpoznaniu zmiany standardu** danego oceniającego; nie wyznaczają prawidłowej punktacji, nie są wzorcem tematycznym i nie przelicza się na ich podstawie ocen pozostałych zgłoszeń;
+
+   c) istotne przesunięcie ocen kotwic uruchamia przegląd wcześniejszych ocen tego oceniającego, w pierwszej kolejności zgłoszeń znajdujących się przy granicy kwalifikacji do rundy drugiej;
+
+   d) niezależnie od wyniku kotwic Organizator przeprowadza po zamknięciu naboru **obowiązkowy przegląd zgłoszeń granicznych**, to jest tych, których średnia mieści się w ogłoszonym wcześniej pasmie wokół granicy kwalifikacji; przegląd polega na dodatkowym odczycie przez osobę, która zgłoszenia dotąd nie czytała;
+
+   e) **ocena wystawiona w rundzie pierwszej** może być przez oceniającego zmieniona do **dnia zamrożenia punktacji rundy pierwszej**, przypadającego 14 dni po zamknięciu naboru i odrębnego od terminu zgłoszeń; każda zmiana zachowuje poprzednią wartość, datę i krótkie uzasadnienie. Zamrożenie nie dotyczy ocen jury w rundzie drugiej, które powstają później;
+
+   f) jeżeli liczba zgłoszeń wpływających w ostatnim miesiącu naboru nie pozwala rzetelnie zakończyć rundy pierwszej w tym terminie, Organizator może **jednorazowo przesunąć dzień zamrożenia, nie więcej niż o 30 dni**, ogłaszając to na stronie Nagrody wraz z uzasadnieniem; przesunięcie dnia zamrożenia na termin wcześniejszy jest wyłączone;
+
+   g) po dniu zamrożenia zmiana oceny rundy pierwszej jest możliwa wyłącznie w ramach trybów przewidzianych w ust. 12, w lit. c-d niniejszego ustępu, **w ramach kontroli i przywrócenia dwóch odczytów na podstawie ust. 10a** oraz **w ramach kontroli rozkładu z ust. 14b**. Jeżeli kontrola rozkładu przypada na dzień zamrożenia albo po nim, odczyt zarządzony na jej podstawie przeprowadza się mimo zamrożenia, a jego wynik uwzględnia się mimo zamrożenia, z zachowaniem obowiązku trzeciego odczytu określonego w ust. 12; Organizator odnotowuje to w informacji, o której mowa w § 13 ust. 5.
 
 13a. **Komentarze do antologii.** Członkowie jury przygotowują do rozmów włączonych do antologii komentarze publikowane wraz z nimi: komentarz wprowadzający, komentarze odnoszące się do wskazanych miejsc rozmowy oraz komentarz końcowy. Komentarze podpisywane są nazwiskiem autora. Organizator dokonuje redakcji i ujednolicenia, nie zmieniając ich sensu, oraz uzupełnia komentarze brakujące. Przydział rozmów ustala jury; przyjęcie powołania do jury obejmuje także to zadanie.
 14. **Ustalenie wyniku.** Do drugiej rundy przechodzą zgłoszenia o najwyższej średniej ocen, **nie mniej niż dwadzieścia i nie więcej niż sto**, powiększone o wszystkie zgłoszenia skierowane dziką kartą; w trybie z ust. 10 lit. a drugą rundę stanowi ocena wszystkich zgłoszeń. Zgłoszenia te czyta **cały skład jury**, po czym jury ustala dziesiątkę antologii oraz ostateczną kolejność. O awansie do drugiej rundy decyduje średnia, a nie suma, ponieważ zgłoszenia mogą otrzymać różną liczbę ocen. Między rundą pierwszą a drugą nie przeprowadza się żadnej innej selekcji. Górna granica stu zgłoszeń wynika z nakładu pracy, jaki cały skład jury jest w stanie wykonać rzetelnie w terminach z § 4,.
@@ -391,21 +448,28 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 15. **Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników Organizator przeprowadza z każdym Uczestnikiem, którego zgłoszenie znalazło się w pierwszej dziesiątce, krótką rozmowę (telefoniczną lub wideo, do 20 minut) na temat treści zgłoszonej rozmowy. Rozmowa dotyczy wyłącznie tego, co w zgłoszeniu już się znajduje: jej celem jest potwierdzenie, że Uczestnik rozumie wątek, który prowadził, i potrafi go pociągnąć dalej. **Rozmowa weryfikacyjna sprawdza zrozumienie zgłoszenia, a nie moment, w którym Uczestnik doszedł do swojego wniosku**; nie jest i nie może być dowodem na to, że odkrycie nastąpiło w rozmowie.
 15a. **Wgląd w historię wersji.** Jeżeli w toku oceny albo rozmowy weryfikacyjnej powstanie konkretna wątpliwość co do przebiegu powstawania rozmowy, Organizator może **zaproponować** Uczestnikowi pokazanie jej w jego własnym koncie u dostawcy modelu, podczas rozmowy wideo, wraz z widokiem wersji przeredagowanych wypowiedzi, jeżeli dostawca taki widok udostępnia. Zasady:
 
-- a) wgląd jest **dobrowolny**; Uczestnik nie ma obowiązku udostępniania swojego konta ani ekranu, a sama odmowa nie stanowi podstawy odrzucenia zgłoszenia;
-- b) Organizator nie sporządza nagrania ani zrzutów z tego wglądu i nie przechowuje żadnych danych z konta Uczestnika;
-- c) odmowa może być brana pod uwagę wyłącznie łącznie z innymi konkretnymi okolicznościami w postępowaniu z ust. 18 i sama przez się niczego nie dowodzi;
-- d) przeredagowanie wcześniejszego pytania **samo w sobie nie jest inscenizacją**; inscenizacją jest odtwarzanie przebiegu albo wyniku ustalonego z góry (§ 7 ust. 14).
+   a) wgląd jest **dobrowolny**; Uczestnik nie ma obowiązku udostępniania swojego konta ani ekranu, a sama odmowa nie stanowi podstawy odrzucenia zgłoszenia;
+
+   b) Organizator nie sporządza nagrania ani zrzutów z tego wglądu i nie przechowuje żadnych danych z konta Uczestnika;
+
+   c) odmowa może być brana pod uwagę wyłącznie łącznie z innymi konkretnymi okolicznościami w postępowaniu z ust. 18 i sama przez się niczego nie dowodzi;
+
+   d) przeredagowanie wcześniejszego pytania **samo w sobie nie jest inscenizacją**; inscenizacją jest odtwarzanie przebiegu albo wyniku ustalonego z góry (§ 7 ust. 14).
 
 16. **Kontakt i termin.** Organizator kontaktuje się z Uczestnikiem co najmniej trzykrotnie, na podany adres e-mail oraz telefonicznie, w odstępie nie krótszym niż 3 dni, wskazując termin nie krótszy niż 14 dni na odbycie rozmowy. Na wniosek Uczestnika Organizator wskazuje termin dodatkowy albo zgadza się na inną formę weryfikacji, w szczególności odpowiedź pisemną na te same pytania.
 17. Dopiero bezskuteczny upływ terminu po wyczerpaniu trybu z ust. 16 oznacza rezygnację ze zgłoszenia; miejsce zajmuje kolejne zgłoszenie z rankingu.
 18. **Odrzucenie za inscenizację.** Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 14.
 **Podstawą wszczęcia trybu jest wyłącznie sygnał pochodzący od osoby, która zgłoszenie przeczytała**: członka Akademii albo jury na etapie oceny merytorycznej, albo ustalenie z rozmowy weryfikacyjnej. **Ocena formalna (§ 6) nie obejmuje badania inscenizacji, a Organizator nie prowadzi z urzędu przeglądu zgłoszeń pod tym kątem.** Po otrzymaniu sygnału Organizator wszczyna tryb:
 
-- a) Organizator sporządza pisemne uzasadnienie wskazujące **konkretne podstawy**: fragmenty zgłoszonej rozmowy albo wypowiedzi z rozmowy weryfikacyjnej, z których wynika, że przebieg został odtworzony, a wynik był znany przed rozpoczęciem;
-- b) uzasadnienie przekazywane jest Uczestnikowi, któremu przysługuje **7 dni na ustosunkowanie się** i przedstawienie wyjaśnień lub dowodów przeciwnych;
-- c) decyzję podejmuje Organizator **wspólnie z co najmniej jednym członkiem jury**, po zapoznaniu się z wyjaśnieniami; decyzji nie podejmuje się przed upływem terminu z lit. b;
-- d) decyzja wraz z uzasadnieniem przekazywana jest Uczestnikowi na piśmie przed ogłoszeniem wyników;
-- e) w razie wątpliwości nierozstrzygniętych po wyjaśnieniach zgłoszenie **pozostaje w ocenie**. Ciężar wykazania inscenizacji spoczywa na Organizatorze.
+   a) Organizator sporządza pisemne uzasadnienie wskazujące **konkretne podstawy**: fragmenty zgłoszonej rozmowy albo wypowiedzi z rozmowy weryfikacyjnej, z których wynika, że przebieg został odtworzony, a wynik był znany przed rozpoczęciem;
+
+   b) uzasadnienie przekazywane jest Uczestnikowi, któremu przysługuje **7 dni na ustosunkowanie się** i przedstawienie wyjaśnień lub dowodów przeciwnych;
+
+   c) decyzję podejmuje Organizator **wspólnie z co najmniej jednym członkiem jury**, po zapoznaniu się z wyjaśnieniami; decyzji nie podejmuje się przed upływem terminu z lit. b;
+
+   d) decyzja wraz z uzasadnieniem przekazywana jest Uczestnikowi na piśmie przed ogłoszeniem wyników;
+
+   e) w razie wątpliwości nierozstrzygniętych po wyjaśnieniach zgłoszenie **pozostaje w ocenie**. Ciężar wykazania inscenizacji spoczywa na Organizatorze.
 
 19. Rozstrzygnięcie jury jest ostateczne w zakresie oceny merytorycznej.
 
@@ -430,21 +494,31 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 
 8. **Nagroda Publiczności.** Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana Nagroda Publiczności. Zasady:
 
-- a) **głosowanie obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną.** Żaden Uczestnik nie jest wyłączony z tej nagrody wskutek decyzji podjętej przy zgłoszeniu, ponieważ obecność w czytelni jest warunkiem udziału;
-- a1) **zgłoszenie, którego prezentację ograniczono z przyczyn prawnych** (§ 11 ust. 10a lit. f), pozostaje w głosowaniu i otrzymuje **kartę ograniczoną**: tytuł rozmowy, podpis Uczestnika i te spośród pozostałych elementów, których prezentacja nie była przedmiotem ograniczenia. Jeżeli ograniczenie obejmuje wszystkie elementy opisowe, karta zawiera tytuł, podpis oraz informację, że prezentacja została ograniczona z przyczyn prawnych, bez wskazywania ich treści. Organizator zawiadamia o tym Uczestnika i na jego żądanie **wyłącza zgłoszenie z głosowania**, jeżeli Uczestnik uzna, że karta ograniczona działa na jego niekorzyść;
-- b) **głosowanie otwiera się po spełnieniu dwóch warunków: utrwaleniu listy zgłoszeń (§ 11 ust. 10a lit. g) oraz zamrożeniu punktacji rundy pierwszej (§ 8 ust. 13 lit. e)**, a nie w trakcie naboru, i trwa do dnia gali. Oba warunki są potrzebne: bez utrwalenia listy część zgłoszeń miałaby krótszy okres głosowania, a bez zamrożenia punktacji oceny powstawałyby z wiedzą o głosach. Dzień otwarcia głosowania Organizator ogłasza na stronie Nagrody. Powód jest podwójny: oceny rundy pierwszej powstają wtedy bez wiedzy o wynikach głosowania, a wszystkie zgłoszenia mają ten sam czas ekspozycji, niezależnie od tego, czy wpłynęły w styczniu, czy w grudniu;
-- c) **jeden głos przypada na jeden numer telefonu**, potwierdzany jednorazowym kodem. Organizator nie przechowuje numeru w postaci jawnej (§ 5 ust. 2e lit. b);
-- d) **liczniki głosów nie są publikowane w trakcie głosowania.** Wynik ogłaszany jest dopiero na gali. Zapis ten istnieje, aby widoczny licznik nie kierował ani głosowaniem, ani lekturą;
-- e) Nagroda Publiczności jest **niezależna od werdyktu jury** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki. Jej wysokość ogłaszana jest na zasadach z ust. 2;
-- f) nagroda nie jest przyznawana w drodze losowania wśród głosujących ani w żadnym innym trybie losowym; w szczególności Organizator nie organizuje loterii promocyjnej w rozumieniu ustawy o grach hazardowych.
+   a) **głosowanie obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną.** Żaden Uczestnik nie jest wyłączony z tej nagrody wskutek decyzji podjętej przy zgłoszeniu, ponieważ obecność w czytelni jest warunkiem udziału;
+
+   a1) **zgłoszenie, którego prezentację ograniczono z przyczyn prawnych** (§ 11 ust. 10a lit. f), pozostaje w głosowaniu i otrzymuje **kartę ograniczoną**: tytuł rozmowy, podpis Uczestnika i te spośród pozostałych elementów, których prezentacja nie była przedmiotem ograniczenia. Jeżeli ograniczenie obejmuje wszystkie elementy opisowe, karta zawiera tytuł, podpis oraz informację, że prezentacja została ograniczona z przyczyn prawnych, bez wskazywania ich treści. Organizator zawiadamia o tym Uczestnika i na jego żądanie **wyłącza zgłoszenie z głosowania**, jeżeli Uczestnik uzna, że karta ograniczona działa na jego niekorzyść;
+
+   b) **głosowanie otwiera się po spełnieniu dwóch warunków: utrwaleniu listy zgłoszeń (§ 11 ust. 10a lit. g) oraz zamrożeniu punktacji rundy pierwszej (§ 8 ust. 13 lit. e)**, a nie w trakcie naboru, i trwa do dnia gali. Oba warunki są potrzebne: bez utrwalenia listy część zgłoszeń miałaby krótszy okres głosowania, a bez zamrożenia punktacji oceny powstawałyby z wiedzą o głosach. Dzień otwarcia głosowania Organizator ogłasza na stronie Nagrody. Powód jest podwójny: oceny rundy pierwszej powstają wtedy bez wiedzy o wynikach głosowania, a wszystkie zgłoszenia mają ten sam czas ekspozycji, niezależnie od tego, czy wpłynęły w styczniu, czy w grudniu;
+
+   c) **jeden głos przypada na jeden numer telefonu**, potwierdzany jednorazowym kodem. Organizator nie przechowuje numeru w postaci jawnej (§ 5 ust. 2e lit. b);
+
+   d) **liczniki głosów nie są publikowane w trakcie głosowania.** Wynik ogłaszany jest dopiero na gali. Zapis ten istnieje, aby widoczny licznik nie kierował ani głosowaniem, ani lekturą;
+
+   e) Nagroda Publiczności jest **niezależna od werdyktu jury** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki. Jej wysokość ogłaszana jest na zasadach z ust. 2;
+
+   f) nagroda nie jest przyznawana w drodze losowania wśród głosujących ani w żadnym innym trybie losowym; w szczególności Organizator nie organizuje loterii promocyjnej w rozumieniu ustawy o grach hazardowych.
 
 9. **Nagroda Uczniowska.** Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana Nagroda Uczniowska, wskazywana przez grupy uczniowskie (§ 8 ust. 2a). Zasady:
 
-- a) nagroda jest **niezależna od werdyktu jury i od Nagrody Publiczności** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki;
-- b) wskazana rozmowa przechodzi przed ogłoszeniem **to samo sprawdzenie rzetelności** co zgłoszenia z pierwszej dziesiątki (§ 7 ust. 13); rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji;
-- c) wynik ogłaszany jest podczas gali, razem z pozostałymi werdyktami;
-- d) **wynik ustala się przez zliczenie wskazań szkół: jedna szkoła - jedno wskazanie** (§ 8 ust. 2a lit. g). Nagrodę otrzymuje rozmowa wskazana przez największą liczbę szkół, a przy równej liczbie wskazań - ta wskazana wcześniej;
-- e) jeżeli żadna szkoła nie zgłosi grupy albo zgłoszone grupy nie przedstawią wskazania, nagroda nie zostaje przyznana, a Organizator informuje o tym przy ogłoszeniu wyników.
+   a) nagroda jest **niezależna od werdyktu jury i od Nagrody Publiczności** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki;
+
+   b) wskazana rozmowa przechodzi przed ogłoszeniem **to samo sprawdzenie rzetelności** co zgłoszenia z pierwszej dziesiątki (§ 7 ust. 13); rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji;
+
+   c) wynik ogłaszany jest podczas gali, razem z pozostałymi werdyktami;
+
+   d) **wynik ustala się przez zliczenie wskazań szkół: jedna szkoła - jedno wskazanie** (§ 8 ust. 2a lit. g). Nagrodę otrzymuje rozmowa wskazana przez największą liczbę szkół, a przy równej liczbie wskazań - ta wskazana wcześniej;
+
+   e) jeżeli żadna szkoła nie zgłosi grupy albo zgłoszone grupy nie przedstawią wskazania, nagroda nie zostaje przyznana, a Organizator informuje o tym przy ogłoszeniu wyników.
 
 ## § 10. Nierozstrzygnięcie edycji
 
@@ -458,14 +532,21 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 
 1. Zgłaszając rozmowę, Uczestnik oświadcza, że:
 
-- a) przeprowadził ją osobiście;
-- b) jej treść nie narusza praw osób trzecich ani przepisów prawa;
-- c) rozmowa nie została zainscenizowana, to jest Uczestnik nie odtwarzał w niej przebiegu ani wyniku ustalonego z góry przed jej rozpoczęciem, w szczególności według scenariusza przygotowanego w tym celu przez człowieka lub model;
-- d) rozmowa nie dotyczy osoby trzeciej nieznanej publicznie w rozumieniu § 6 pkt 5;
-- e1) przysługują mu prawa do ilustracji rozmowy (§ 5 ust. 2 lit. a2) w zakresie pozwalającym na jej publikację w czytelni, w archiwum i w antologii, a ilustracja nie narusza praw osób trzecich ani dóbr osobistych;
-- e) przysługują mu prawa do materiałów, które wgrał do rozmowy, albo dysponuje zgodą na ich wykorzystanie, a materiały te nie zawierają danych osobowych osób trzecich ani informacji objętych tajemnicą, do których ujawnienia Uczestnik nie jest uprawniony.
-- f) ukończył 18 lat;
-- g) **przyjmuje do wiadomości, że jego zgłoszenie może zostać skierowane do czytania przez grupy uczniowskie** (§ 8 ust. 2a), w tym przez osoby niepełnoletnie, i zgadza się na to. Zgoda ta jest **warunkiem udziału** i nie jest przedmiotem odrębnego oświadczenia; Uczestnik nie wskazuje, komu jego rozmowa ma być przedstawiona do oceny.
+   a) przeprowadził ją osobiście;
+
+   b) jej treść nie narusza praw osób trzecich ani przepisów prawa;
+
+   c) rozmowa nie została zainscenizowana, to jest Uczestnik nie odtwarzał w niej przebiegu ani wyniku ustalonego z góry przed jej rozpoczęciem, w szczególności według scenariusza przygotowanego w tym celu przez człowieka lub model;
+
+   d) rozmowa nie dotyczy osoby trzeciej nieznanej publicznie w rozumieniu § 6 pkt 5;
+
+   e1) przysługują mu prawa do ilustracji rozmowy (§ 5 ust. 2 lit. a2) w zakresie pozwalającym na jej publikację w czytelni, w archiwum i w antologii, a ilustracja nie narusza praw osób trzecich ani dóbr osobistych;
+
+   e) przysługują mu prawa do materiałów, które wgrał do rozmowy, albo dysponuje zgodą na ich wykorzystanie, a materiały te nie zawierają danych osobowych osób trzecich ani informacji objętych tajemnicą, do których ujawnienia Uczestnik nie jest uprawniony.
+
+   f) ukończył 18 lat;
+
+   g) **przyjmuje do wiadomości, że jego zgłoszenie może zostać skierowane do czytania przez grupy uczniowskie** (§ 8 ust. 2a), w tym przez osoby niepełnoletnie, i zgadza się na to. Zgoda ta jest **warunkiem udziału** i nie jest przedmiotem odrębnego oświadczenia; Uczestnik nie wskazuje, komu jego rozmowa ma być przedstawiona do oceny.
 
 2. Uczestnik zachowuje autorskie prawa osobiste i majątkowe do swoich wypowiedzi. Nagroda nie nabywa ich ani w całości, ani w części.
 3. **Publikacja jest warunkiem udziału, a nie przedmiotem odrębnej zgody.** Zgłaszając rozmowę, Uczestnik udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** od dnia ogłoszenia wyników, obejmującej publikację rozmowy w antologii i w archiwum rozmów, jej udostępnianie w internecie, wydanie w postaci elektronicznej i drukowanej, w tym płatnej, oraz cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, a także udzielenie dalszej licencji wydawcy w tym zakresie. Licencja na czas oznaczony nie podlega wypowiedzeniu. Po upływie tego okresu przekształca się w licencję na czas nieoznaczony w tym samym zakresie.
@@ -476,8 +557,9 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 5a. **Zakres pseudonimu.** Pseudonim obejmuje publikacje Organizatora: antologię, archiwum rozmów, listę laureatów i materiały informacyjne o Nagrodzie. **Nie obejmuje** relacji między Uczestnikiem a Organizatorem: Organizator zna tożsamość każdego Uczestnika, ponieważ jest ona niezbędna do rozmowy weryfikacyjnej, wypłaty nagrody, rozliczenia podatkowego i badania konfliktu interesów (§ 8 ust. 6). Tożsamości Uczestnika występującego pod pseudonimem Organizator nie ujawnia nikomu poza przypadkami wynikającymi z przepisów prawa.
 5b. **Pseudonim a ogłoszenie wyników i gala.** Laureat występujący pod pseudonimem może wybrać jeden z dwóch sposobów ogłoszenia, wskazując go najpóźniej w rozmowie weryfikacyjnej:
 
-- a) **ujawnienie** - rezygnuje z pseudonimu przy ogłoszeniu wyników i występuje pod własnym nazwiskiem; pseudonim pozostaje wtedy bez znaczenia;
-- b) **zachowanie pseudonimu** - werdykt, antologia i wszystkie materiały posługują się wyłącznie pseudonimem, a nagroda zostaje wypłacona bez publicznego wskazania osoby. Uczestnik nie ma wtedy obowiązku uczestniczenia w gali ani pozowania do zdjęć; jeżeli zdecyduje się wziąć w niej udział, Organizator uzgadnia z nim z góry sposób prezentacji i zakres dokumentacji fotograficznej.
+   a) **ujawnienie** - rezygnuje z pseudonimu przy ogłoszeniu wyników i występuje pod własnym nazwiskiem; pseudonim pozostaje wtedy bez znaczenia;
+
+   b) **zachowanie pseudonimu** - werdykt, antologia i wszystkie materiały posługują się wyłącznie pseudonimem, a nagroda zostaje wypłacona bez publicznego wskazania osoby. Uczestnik nie ma wtedy obowiązku uczestniczenia w gali ani pozowania do zdjęć; jeżeli zdecyduje się wziąć w niej udział, Organizator uzgadnia z nim z góry sposób prezentacji i zakres dokumentacji fotograficznej.
 
 Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności. Dokumenty podatkowe i przelew zawsze posługują się danymi rzeczywistymi, niezależnie od wybranego sposobu ogłoszenia.
 6. **Wycofanie zgłoszenia z konkursu.** Uczestnik może wycofać zgłoszenie **nie później niż do dnia zamknięcia treści antologii, to jest do 29 lutego 2028 r.** Zgłoszenie jest wtedy usuwane z rankingu w całości, nie bierze udziału w dalszej ocenie i nie podlega publikacji, a udzielona licencja wygasa. Termin ten nie jest liczony od dnia ogłoszenia wyników, lecz od dnia przekazania antologii do produkcji: od tego momentu książka jest drukowana i wprowadzana do dystrybucji, więc jej treści nie da się już zmienić. **Jeżeli dzień zamknięcia treści zostanie przesunięty na zasadach z § 4, termin wycofania zgłoszenia przesuwa się razem z nim** i Organizator ogłasza nowy termin wraz z przesunięciem. W kolejnych edycjach Organizator ogłasza ten dzień wraz z kalendarzem edycji, przed otwarciem przyjmowania zgłoszeń.
@@ -487,36 +569,57 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
 10. Skorzystanie z uprawnień, o których mowa w ust. 9, nie wpływa na przyznaną nagrodę ani na wynik edycji; laureat pozostaje laureatem, a informacja o rozstrzygnięciu nie jest usuwana.
 10a. **Czytelnia zgłoszeń.** Przez cały okres przyjmowania zgłoszeń Organizator prowadzi na stronie Nagrody **czytelnię zgłoszeń** - publiczną, rosnącą listę zgłoszeń przyjętych do konkursu. Zasady:
 
-- a) **obecność w czytelni jest warunkiem udziału w konkursie**, a nie przedmiotem odrębnej zgody ani wyboru Uczestnika; podstawą jest licencja z ust. 3 wraz z ust. 3a, który obejmuje prezentację zgłoszenia w czytelni od chwili jego przyjęcia po ocenie formalnej, a więc przed dniem, od którego liczony jest pięcioletni okres licencji. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia: imieniem i nazwiskiem albo pseudonimem (§ 5 ust. 2 lit. g);
-- b) **czytelnia nie zawiera treści rozmowy**. Prezentowane są wyłącznie: tytuł rozmowy (§ 5 ust. 2 lit. a1), ilustracja rozmowy (§ 5 ust. 2 lit. a2), podpis Uczestnika, odnośnik do rozmowy opublikowany przez samego Uczestnika u dostawcy modelu (§ 5 ust. 2 lit. a), opis odkrycia (§ 5 ust. 2 lit. b) oraz uzasadnienie „dlaczego warte nagrody głównej" (§ 5 ust. 2 lit. b1). Organizator nie zwielokrotnia rozmowy na własnej stronie na tym etapie, a odpowiedzialność za treść udostępnioną pod odnośnikiem pozostaje po stronie Uczestnika;
-- c) **wpis pojawia się po przejściu oceny formalnej (§ 6), a nie w chwili złożenia zgłoszenia.** Czytelnia zawiera zatem wyłącznie zgłoszenia ważne, a pola prezentowane publicznie zostały wcześniej sprawdzone;
-- d) **kolejność w czytelni wyznacza wyłącznie data zgłoszenia.** Organizator nie prowadzi w czytelni rankingu, nie publikuje liczników odsłon, polubień ani popularności i nie wyróżnia żadnego zgłoszenia inaczej niż na zasadach ogłoszonych przed naborem;
-- e) **punktacja nie jest widoczna w czytelni.** Oceny stają się jawne dopiero po dniu ogłoszenia wyników, na zasadach z ust. 11;
-- f) Organizator może **zdjąć wpis z czytelni, z zachowaniem przez Uczestnika pełnego udziału w konkursie**, wyłącznie na podstawach i w trybie określonych w § 7a ust. 2, 5 i 6, to jest w razie realnego ryzyka prawnego związanego z prezentacją wpisu. Wymaga to wskazania fragmentu oraz prawa, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w rozmowie nie jest podstawą zdjęcia wpisu;
-- g) **po zamknięciu przyjmowania zgłoszeń do czytelni nie trafiają zgłoszenia złożone po terminie.** Utrwalenie listy następuje natomiast dopiero **po zakończeniu oceny formalnej wszystkich zgłoszeń złożonych w terminie** - zgłoszenie złożone w ostatnich dniach naboru wchodzi więc do czytelni także wtedy, gdy ocena formalna kończy się już po zamknięciu naboru. Dzień utrwalenia Organizator ogłasza na stronie Nagrody. Dalsze losy utrwalonego zbioru określa ust. 11;
-- h) narzędzia, którymi czytelnik oznacza zgłoszenia dla siebie - w szczególności półka pozycji zapamiętanych do późniejszej lektury - działają **wyłącznie w przeglądarce czytelnika i nie są przekazywane Organizatorowi**. Nie są one głosem w rozumieniu § 9 i nie są przez Organizatora zliczane.
+   a) **obecność w czytelni jest warunkiem udziału w konkursie**, a nie przedmiotem odrębnej zgody ani wyboru Uczestnika; podstawą jest licencja z ust. 3 wraz z ust. 3a, który obejmuje prezentację zgłoszenia w czytelni od chwili jego przyjęcia po ocenie formalnej, a więc przed dniem, od którego liczony jest pięcioletni okres licencji. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia: imieniem i nazwiskiem albo pseudonimem (§ 5 ust. 2 lit. g);
+
+   b) **czytelnia nie zawiera treści rozmowy**. Prezentowane są wyłącznie: tytuł rozmowy (§ 5 ust. 2 lit. a1), ilustracja rozmowy (§ 5 ust. 2 lit. a2), podpis Uczestnika, odnośnik do rozmowy opublikowany przez samego Uczestnika u dostawcy modelu (§ 5 ust. 2 lit. a), opis odkrycia (§ 5 ust. 2 lit. b) oraz uzasadnienie „dlaczego warte nagrody głównej" (§ 5 ust. 2 lit. b1). Organizator nie zwielokrotnia rozmowy na własnej stronie na tym etapie, a odpowiedzialność za treść udostępnioną pod odnośnikiem pozostaje po stronie Uczestnika;
+
+   c) **wpis pojawia się po przejściu oceny formalnej (§ 6), a nie w chwili złożenia zgłoszenia.** Czytelnia zawiera zatem wyłącznie zgłoszenia ważne, a pola prezentowane publicznie zostały wcześniej sprawdzone;
+
+   d) **kolejność w czytelni wyznacza wyłącznie data zgłoszenia.** Organizator nie prowadzi w czytelni rankingu, nie publikuje liczników odsłon, polubień ani popularności i nie wyróżnia żadnego zgłoszenia inaczej niż na zasadach ogłoszonych przed naborem;
+
+   e) **punktacja nie jest widoczna w czytelni.** Oceny stają się jawne dopiero po dniu ogłoszenia wyników, na zasadach z ust. 11;
+
+   f) Organizator może **zdjąć wpis z czytelni, z zachowaniem przez Uczestnika pełnego udziału w konkursie**, wyłącznie na podstawach i w trybie określonych w § 7a ust. 2, 5 i 6, to jest w razie realnego ryzyka prawnego związanego z prezentacją wpisu. Wymaga to wskazania fragmentu oraz prawa, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w rozmowie nie jest podstawą zdjęcia wpisu;
+
+   g) **po zamknięciu przyjmowania zgłoszeń do czytelni nie trafiają zgłoszenia złożone po terminie.** Utrwalenie listy następuje natomiast dopiero **po zakończeniu oceny formalnej wszystkich zgłoszeń złożonych w terminie** - zgłoszenie złożone w ostatnich dniach naboru wchodzi więc do czytelni także wtedy, gdy ocena formalna kończy się już po zamknięciu naboru. Dzień utrwalenia Organizator ogłasza na stronie Nagrody. Dalsze losy utrwalonego zbioru określa ust. 11;
+
+   h) narzędzia, którymi czytelnik oznacza zgłoszenia dla siebie - w szczególności półka pozycji zapamiętanych do późniejszej lektury - działają **wyłącznie w przeglądarce czytelnika i nie są przekazywane Organizatorowi**. Nie są one głosem w rozumieniu § 9 i nie są przez Organizatora zliczane.
 
 11. **Archiwum rozmów.** Archiwum obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną** (§ 6) i były prezentowane w czytelni zgłoszeń. Powstaje z czytelni utrwalonej w dniu określonym w ust. 10a lit. g, to jest po zakończeniu oceny formalnej wszystkich zgłoszeń złożonych w terminie i jest udostępniane od dnia ogłoszenia wyników, bezpłatnie i bez ograniczeń dostępu. Zasady:
 
-- a) publikacja w archiwum odbywa się na podstawie licencji z ust. 3 i **nie wymaga odrębnej zgody**; Uczestnik nie składa w tym zakresie osobnego oświadczenia;
-- b) **archiwum prezentuje treść rozmowy, a nie tylko odnośnik do niej.** Wpis archiwalny obejmuje tytuł rozmowy, ilustrację rozmowy, podpis Uczestnika, opis odkrycia, uzasadnienie „dlaczego warte nagrody głównej", **kopię archiwalną rozmowy sporządzoną przez Organizatora** oraz odnośnik opublikowany przez Uczestnika u dostawcy modelu. Kopia stanowi treść wpisu, a odnośnik jej potwierdzenie - i z tego powodu publikowane są oba. Rozwiązanie to przyjęto dlatego, że archiwum oparte wyłącznie na odnośnikach traci wpisy, gdy Uczestnik usunie udostępnienie albo gdy dostawca modelu zmieni zasady udostępniania rozmów, a zapis z lukami przestaje być dokumentem;
-- c) **punktacja w archiwum jest jawna.** Widoczne są oceny wystawione przez Akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla pierwszej dziesiątki**, a archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem przyjmowania zgłoszeń; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Komentarze jury pozostają wyłącznie w antologii i nie są publikowane w archiwum;
-- c1) **sposób prezentacji ocen.** Oceny prezentowane są w podziale na etapy i na kryteria karty oceny, z podaniem liczby odczytów, na których oparto ocenę w rundzie pierwszej, oraz zastosowanego trybu oceny. **Brak oceny oznaczany jest jako brak, nigdy jako zero** - w szczególności zgłoszenie nieocenione przez jury ma w tej kolumnie oznaczenie braku, a nie wynik najniższy. **Głosy publiczności stanowią odrębną kolumnę** i nie są sumowane z punktacją oceniających, ponieważ mierzą inną rzecz. Sposób agregacji ocen Organizator ogłasza przed otwarciem przyjmowania zgłoszeń;
-- c2) **poprawianie błędów w prezentacji ocen.** Uczestnik może wskazać, że ocena została w archiwum przypisana do niewłaściwego zgłoszenia albo błędnie obliczona; Organizator poprawia taki błąd i zawiadamia o tym Uczestnika. **Tryb ten nie służy odwołaniu od oceny merytorycznej** - werdykt oceniających nie podlega zakwestionowaniu w tej drodze;
-- d) archiwum publikowane jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika (ust. 5 i 5a);
-- e) **przegląd treści przed publikacją kopii opiera się na zastrzeżeniach oznaczonych przez oceniających** (§ 8 ust. 3a). Oceniający czytają każde zgłoszenie w rundzie pierwszej i oznaczają w panelu dane osobowe osób trzecich, przytoczenia całych cudzych utworów krótkich oraz cudze materiały wgrane do rozmowy. **Organizator rozstrzyga co do zgłoszeń oznaczonych oraz co do innych przypadków, w których otrzymał konkretny sygnał albo sam powziął wiadomość o problemie** (§ 8 ust. 3a lit. d), przed dniem ogłoszenia wyników, potwierdzając rozstrzygnięcie na liście kontrolnej. Konstrukcja ta jest celowa: przegląd każdego zgłoszenia prowadzony osobno przez Organizatora nie skalowałby się wraz z liczbą zgłoszeń, a oznaczanie przez osoby, które rozmowę i tak czytają, rośnie razem z naborem. **Oznaczenie ani rozstrzygnięcie nie są oceną merytoryczną** i nie wpływają na punktację ani na nagrodę. Zakres i miarę sprawdzenia określa lit. j;
-- f) Organizator może **odstąpić od opublikowania kopii archiwalnej danej rozmowy** wyłącznie na podstawach i w trybie określonych w § 7a ust. 2, 5 i 6, w tym w razie ustalenia w przeglądzie z lit. e, że publikacja naruszałaby prawa osoby trzeciej. Wpis pozostaje wówczas w archiwum w postaci ograniczonej - tytuł, podpis, opis odkrycia, odnośnik i oceny - a odstąpienie nie wpływa na ocenę ani na nagrodę. Niezgoda Organizatora z poglądami wyrażonymi w rozmowie nie jest podstawą odstąpienia;
-- f1) **Uczestnik jest zawiadamiany pocztą elektroniczną przed publikacją archiwum**, nie po niej. Zawiadomienie wskazuje fragment oraz prawo, które mogłoby zostać naruszone, i wyznacza termin nie krótszy niż 14 dni na przedstawienie stanowiska. Uczestnik może w tym terminie wskazać, że zastrzeżenie jest nietrafne, albo wnieść o publikację wpisu w postaci ograniczonej. Niezależnie od rozstrzygnięcia Uczestnik otrzymuje kopię archiwalną zgodnie z lit. g i może opublikować ją samodzielnie;
-- g) Uczestnik, którego kopia archiwalna nie została opublikowana, otrzymuje ją na żądanie od Organizatora i może opublikować ją samodzielnie. Licencja z ust. 3 jest niewyłączna, więc Uczestnik zachowuje pełną swobodę dysponowania własną rozmową;
-- h) **wariant awaryjny.** Jeżeli konsultacja prawna, o której mowa w § 10 ust. 5, wykaże, że publikowanie kopii rozmów w archiwum jest niedopuszczalne albo obciążone ryzykiem, którego Organizator nie może przyjąć - w szczególności ze względu na status prawny wypowiedzi modelu albo warunki korzystania ustalone przez dostawców - **archiwum ogranicza się do tytułu, podpisu, opisu odkrycia, odnośnika i ocen**, bez kopii rozmowy. **Przed otwarciem przyjmowania zgłoszeń Organizator ogłasza zakres archiwum obowiązujący w danej edycji.** Niniejsza litera nie uprawnia do późniejszej zmiany tego zakresu; po otwarciu naboru indywidualne ograniczenia publikacji następują wyłącznie w trybie § 7a. Ograniczenie nie zmienia zakresu licencji z ust. 3, nie wpływa na udział w konkursie ani na prawo z lit. g;
-- i) archiwum oznaczane jest publicznie jako **zbiór zgłoszeń danej edycji konkursu**, a nie jako przekrój rozmów prowadzonych w Polsce; nie jest próbą reprezentatywną;
-- j) **Zakres kontroli cudzych materiałów.** Przytoczenie urywka cudzego utworu wewnątrz rozmowy może mieścić się w prawie cytatu (art. 29 ustawy o prawie autorskim i prawach pokrewnych); ocena zależy jednak od konkretnego wykorzystania i Organizator nie przesądza jej z góry. Kontrola obejmuje **w szczególności następujące przypadki wymagające sprawdzenia przed publikacją**:
+   a) publikacja w archiwum odbywa się na podstawie licencji z ust. 3 i **nie wymaga odrębnej zgody**; Uczestnik nie składa w tym zakresie osobnego oświadczenia;
+
+   b) **archiwum prezentuje treść rozmowy, a nie tylko odnośnik do niej.** Wpis archiwalny obejmuje tytuł rozmowy, ilustrację rozmowy, podpis Uczestnika, opis odkrycia, uzasadnienie „dlaczego warte nagrody głównej", **kopię archiwalną rozmowy sporządzoną przez Organizatora** oraz odnośnik opublikowany przez Uczestnika u dostawcy modelu. Kopia stanowi treść wpisu, a odnośnik jej potwierdzenie - i z tego powodu publikowane są oba. Rozwiązanie to przyjęto dlatego, że archiwum oparte wyłącznie na odnośnikach traci wpisy, gdy Uczestnik usunie udostępnienie albo gdy dostawca modelu zmieni zasady udostępniania rozmów, a zapis z lukami przestaje być dokumentem;
+
+   c) **punktacja w archiwum jest jawna.** Widoczne są oceny wystawione przez Akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla pierwszej dziesiątki**, a archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem przyjmowania zgłoszeń; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Komentarze jury pozostają wyłącznie w antologii i nie są publikowane w archiwum;
+
+   c1) **sposób prezentacji ocen.** Oceny prezentowane są w podziale na etapy i na kryteria karty oceny, z podaniem liczby odczytów, na których oparto ocenę w rundzie pierwszej, oraz zastosowanego trybu oceny. **Brak oceny oznaczany jest jako brak, nigdy jako zero** - w szczególności zgłoszenie nieocenione przez jury ma w tej kolumnie oznaczenie braku, a nie wynik najniższy. **Głosy publiczności stanowią odrębną kolumnę** i nie są sumowane z punktacją oceniających, ponieważ mierzą inną rzecz. Sposób agregacji ocen Organizator ogłasza przed otwarciem przyjmowania zgłoszeń;
+
+   c2) **poprawianie błędów w prezentacji ocen.** Uczestnik może wskazać, że ocena została w archiwum przypisana do niewłaściwego zgłoszenia albo błędnie obliczona; Organizator poprawia taki błąd i zawiadamia o tym Uczestnika. **Tryb ten nie służy odwołaniu od oceny merytorycznej** - werdykt oceniających nie podlega zakwestionowaniu w tej drodze;
+
+   d) archiwum publikowane jest z podaniem imienia i nazwiska albo pseudonimu, według wyboru Uczestnika (ust. 5 i 5a);
+
+   e) **przegląd treści przed publikacją kopii opiera się na zastrzeżeniach oznaczonych przez oceniających** (§ 8 ust. 3a). Oceniający czytają każde zgłoszenie w rundzie pierwszej i oznaczają w panelu dane osobowe osób trzecich, przytoczenia całych cudzych utworów krótkich oraz cudze materiały wgrane do rozmowy. **Organizator rozstrzyga co do zgłoszeń oznaczonych oraz co do innych przypadków, w których otrzymał konkretny sygnał albo sam powziął wiadomość o problemie** (§ 8 ust. 3a lit. d), przed dniem ogłoszenia wyników, potwierdzając rozstrzygnięcie na liście kontrolnej. Konstrukcja ta jest celowa: przegląd każdego zgłoszenia prowadzony osobno przez Organizatora nie skalowałby się wraz z liczbą zgłoszeń, a oznaczanie przez osoby, które rozmowę i tak czytają, rośnie razem z naborem. **Oznaczenie ani rozstrzygnięcie nie są oceną merytoryczną** i nie wpływają na punktację ani na nagrodę. Zakres i miarę sprawdzenia określa lit. j;
+
+   f) Organizator może **odstąpić od opublikowania kopii archiwalnej danej rozmowy** wyłącznie na podstawach i w trybie określonych w § 7a ust. 2, 5 i 6, w tym w razie ustalenia w przeglądzie z lit. e, że publikacja naruszałaby prawa osoby trzeciej. Wpis pozostaje wówczas w archiwum w postaci ograniczonej - tytuł, podpis, opis odkrycia, odnośnik i oceny - a odstąpienie nie wpływa na ocenę ani na nagrodę. Niezgoda Organizatora z poglądami wyrażonymi w rozmowie nie jest podstawą odstąpienia;
+
+   f1) **Uczestnik jest zawiadamiany pocztą elektroniczną przed publikacją archiwum**, nie po niej. Zawiadomienie wskazuje fragment oraz prawo, które mogłoby zostać naruszone, i wyznacza termin nie krótszy niż 14 dni na przedstawienie stanowiska. Uczestnik może w tym terminie wskazać, że zastrzeżenie jest nietrafne, albo wnieść o publikację wpisu w postaci ograniczonej. Niezależnie od rozstrzygnięcia Uczestnik otrzymuje kopię archiwalną zgodnie z lit. g i może opublikować ją samodzielnie;
+
+   g) Uczestnik, którego kopia archiwalna nie została opublikowana, otrzymuje ją na żądanie od Organizatora i może opublikować ją samodzielnie. Licencja z ust. 3 jest niewyłączna, więc Uczestnik zachowuje pełną swobodę dysponowania własną rozmową;
+
+   h) **wariant awaryjny.** Jeżeli konsultacja prawna, o której mowa w § 10 ust. 5, wykaże, że publikowanie kopii rozmów w archiwum jest niedopuszczalne albo obciążone ryzykiem, którego Organizator nie może przyjąć - w szczególności ze względu na status prawny wypowiedzi modelu albo warunki korzystania ustalone przez dostawców - **archiwum ogranicza się do tytułu, podpisu, opisu odkrycia, odnośnika i ocen**, bez kopii rozmowy. **Przed otwarciem przyjmowania zgłoszeń Organizator ogłasza zakres archiwum obowiązujący w danej edycji.** Niniejsza litera nie uprawnia do późniejszej zmiany tego zakresu; po otwarciu naboru indywidualne ograniczenia publikacji następują wyłącznie w trybie § 7a. Ograniczenie nie zmienia zakresu licencji z ust. 3, nie wpływa na udział w konkursie ani na prawo z lit. g;
+
+   i) archiwum oznaczane jest publicznie jako **zbiór zgłoszeń danej edycji konkursu**, a nie jako przekrój rozmów prowadzonych w Polsce; nie jest próbą reprezentatywną;
+
+   j) **Zakres kontroli cudzych materiałów.** Przytoczenie urywka cudzego utworu wewnątrz rozmowy może mieścić się w prawie cytatu (art. 29 ustawy o prawie autorskim i prawach pokrewnych); ocena zależy jednak od konkretnego wykorzystania i Organizator nie przesądza jej z góry. Kontrola obejmuje **w szczególności następujące przypadki wymagające sprawdzenia przed publikacją**:
+
   - przytoczenie **całego utworu krótkiego** - w szczególności wiersza, tekstu piosenki albo krótkiego opowiadania. Przytoczenie takie jest sygnałem do sprawdzenia, a nie samo przez się wykroczeniem poza prawo cytatu: art. 29 ustawy o prawie autorskim dopuszcza przytaczanie drobnych utworów w całości, jeżeli spełnione są jego warunki,
   - **długie przytoczenia dosłowne** z jednego źródła, wykrywane na kopii archiwalnej jako nieprzerwane bloki tekstu przekraczające próg ogłoszony przed rozpoczęciem naboru,
   - **cudze utwory wgrane przez Uczestnika** jako załączniki oraz materiały graficzne; ich rodzaj Uczestnik deklaruje w zgłoszeniu (§ 5 ust. 2 lit. e).
 
   W miejscach, w których źródło przytoczenia da się ustalić, Organizator uzupełnia wskazanie autorstwa i źródła. Organizator dokłada w tym zakresie **należytej staranności**; nie gwarantuje natomiast, że cudza wypowiedź przytoczona wewnątrz rozmowy jest wolna od wad prawnych, a odpowiedzialność Uczestnika za treść zgłoszenia wynika z jego oświadczeń z § 11 ust. 1. Materiał, przy którym ryzyko pozostaje, podlega trybowi z § 7a ust. 2;
-- k) **Kolejność kontroli przy dziesiątce antologii.** Kontrolę z lit. e i j dla zgłoszeń zakwalifikowanych do dziesiątki Organizator przeprowadza **przed ustaleniem przez jury ostatecznej kolejności**, a jej wynik przekazuje jury **jako informację o stanie faktycznym, nie jako rekomendację**. jury nie jest nim związana przy ocenie. Celem jest wyłącznie to, aby o ewentualnej niemożności opublikowania rozmowy wiedziano przed przyznaniem nagrody, a nie po nim.
+
+   k) **Kolejność kontroli przy dziesiątce antologii.** Kontrolę z lit. e i j dla zgłoszeń zakwalifikowanych do dziesiątki Organizator przeprowadza **przed ustaleniem przez jury ostatecznej kolejności**, a jej wynik przekazuje jury **jako informację o stanie faktycznym, nie jako rekomendację**. jury nie jest nim związana przy ocenie. Celem jest wyłącznie to, aby o ewentualnej niemożności opublikowania rozmowy wiedziano przed przyznaniem nagrody, a nie po nim.
 
 Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość konkursu. Archiwum obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną, ponieważ dopiero taki zbiór pokazuje, jak ludzie rzeczywiście rozmawiali, a nie wyłącznie to, co zostało wybrane. Ryzyko publikacji ogranicza oznaczanie zastrzeżeń prawnych przez oceniających (§ 8 ust. 3a) i rozstrzyganie przez Organizatora co do zgłoszeń oznaczonych (ust. 11 lit. e-f1).
 
@@ -527,11 +630,16 @@ Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 3. Zakres danych odpowiada zakresowi zgłoszenia określonemu w § 5 ust. 2 i obejmuje: imię i nazwisko, miejscowość, adres e-mail, nieobowiązkowy pseudonim, nieobowiązkowe uzasadnienie oraz treść zgłoszonej rozmowy wraz z kopią archiwalną. Na dalszych etapach, w zakresie i wobec osób wskazanych w § 5 ust. 2d, dochodzą: numer telefonu, adres korespondencyjny oraz - wyłącznie od laureatów nagród pieniężnych - dane niezbędne do wypłaty i rozliczenia podatkowego. Formularz zgłoszeniowy nie zbiera danych innych niż wymienione w § 5 ust. 2.
 4. **Okresy przechowywania rozdzielone według celu.** Obecność zgłoszenia w czytelni albo w archiwum nie przedłuża przechowywania wszystkich danych zgłoszenia, lecz wyłącznie tych, które są publikowane albo niezbędne do utrzymania publikacji:
 
-- a) **dane publikowane** - tytuł rozmowy, ilustracja rozmowy, podpis Uczestnika, opis odkrycia, uzasadnienie „dlaczego warte nagrody głównej", kopia archiwalna rozmowy, odnośnik i punktacja - przetwarzane są przez okres licencji z ust. 3 § 11 i po jego upływie zgodnie z tym przepisem. Podstawą jest wykonanie stosunku prawnego powstałego ze zgłoszenia, **a nie zgoda**;
-- b) **dane kontaktowe** - adres e-mail, a u finalistów numer telefonu i adres korespondencyjny - usuwane są w terminie 60 dni od ogłoszenia wyników, z wyjątkiem adresu e-mail, który Organizator zachowuje wyłącznie w celu obsługi żądań z § 11 ust. 9 oraz zawiadomień z § 11 ust. 11 lit. f1, nie dłużej niż **przez 24 miesiące od ogłoszenia wyników**;
-- c) **dokumentacja proceduralna** - karty oceny, historia oznaczeń z § 8 ust. 3a, rozstrzygnięcia publikacyjne i lista kontrolna - przechowywana jest przez **24 miesiące od ogłoszenia wyników**, w celu obrony przed roszczeniami i wykazania rzetelności naboru, po czym jest usuwana;
-- d) **dane Uczestników, których zgłoszenie odrzucono w ocenie formalnej, oraz kopie rozmów sporządzone na potrzeby oceny zgłoszeń niepublikowanych** - usuwane są w terminie 60 dni od ogłoszenia wyników;
-- e) dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi i o rachunkowości.
+   a) **dane publikowane** - tytuł rozmowy, ilustracja rozmowy, podpis Uczestnika, opis odkrycia, uzasadnienie „dlaczego warte nagrody głównej", kopia archiwalna rozmowy, odnośnik i punktacja - przetwarzane są przez okres licencji z ust. 3 § 11 i po jego upływie zgodnie z tym przepisem. Podstawą jest wykonanie stosunku prawnego powstałego ze zgłoszenia, **a nie zgoda**;
+
+   b) **dane kontaktowe** - adres e-mail, a u finalistów numer telefonu i adres korespondencyjny - usuwane są w terminie 60 dni od ogłoszenia wyników, z wyjątkiem adresu e-mail, który Organizator zachowuje wyłącznie w celu obsługi żądań z § 11 ust. 9 oraz zawiadomień z § 11 ust. 11 lit. f1, nie dłużej niż **przez 24 miesiące od ogłoszenia wyników**;
+
+   c) **dokumentacja proceduralna** - karty oceny, historia oznaczeń z § 8 ust. 3a, rozstrzygnięcia publikacyjne i lista kontrolna - przechowywana jest przez **24 miesiące od ogłoszenia wyników**, w celu obrony przed roszczeniami i wykazania rzetelności naboru, po czym jest usuwana;
+
+   d) **dane Uczestników, których zgłoszenie odrzucono w ocenie formalnej, oraz kopie rozmów sporządzone na potrzeby oceny zgłoszeń niepublikowanych** - usuwane są w terminie 60 dni od ogłoszenia wyników;
+
+   e) dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi i o rachunkowości.
+
 5. Dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi.
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
 ## § 13. Postanowienia końcowe
