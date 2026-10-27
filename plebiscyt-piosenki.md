@@ -243,8 +243,6 @@ Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na ro
 
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 
-Plebiscyt nie jest jeszcze ogłoszony, więc poniższe terminy są planem, a nie zobowiązaniem. Podajemy je, bo udział wymaga zarezerwowania czasu.
-
 <dl class="harmonogram">
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniamy wersję dostępną pod linkiem tego dnia</small></dd></div>
