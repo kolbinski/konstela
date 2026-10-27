@@ -158,11 +158,17 @@ Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpł
 
 ## <!--ikona:tarcza--><span>Prawa do Twojej rozmowy</span>
 
-**Zgłoszenie oznacza akceptację warunków publikacji wraz z oceną.** Udzielasz nam licencji na publikację rozmowy w antologii i w archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Wybierasz jedno: nazwisko czy pseudonim. Zgłoszenie wycofujesz najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 - po tym dniu książka idzie do druku.
+### Licencja i podpis
 
-**Pseudonim zastępuje podpis, ale nie anonimizuje treści.** Rozmowa, opis odkrycia albo strona u dostawcy mogą zawierać Twoje imię, nazwę firmy albo inne informacje pozwalające Cię rozpoznać, a my ich nie usuwamy z urzędu.
+Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 - po tym dniu książka antologii zostanie wydrukowana.
 
-**Zanim udostępnisz link, sprawdź, co ujawniasz.** Zgłoszona rozmowa zostaje opublikowana w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych. Sprawdź, czy ujawnienie nie naruszy poufności, możliwości ochrony rozwiązania albo zasad planowanej publikacji naukowej - i pamiętaj, że ujawnienie następuje już w chwili udostępnienia linku u dostawcy, przed zgłoszeniem. Tej oceny nie zrobimy za Ciebie.
+### Pseudonim nie anonimizuje treści
+
+**Pseudonim zastępuje podpis, ale nie anonimizuje treści.** Rozmowa, opis odkrycia albo strona u dostawcy mogą zawierać Twoje imię, nazwę firmy albo inne informacje pozwalające Cię rozpoznać, a my ich nie usuwamy.
+
+### Zanim udostępnisz link
+
+**Sprawdź, co ujawniasz.** Zgłoszona rozmowa zostaje opublikowana w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych. Sprawdź, czy ujawnienie nie naruszy poufności, możliwości ochrony rozwiązania albo zasad planowanej publikacji naukowej - i pamiętaj, że ujawnienie następuje już w chwili udostępnienia linku u dostawcy, przed zgłoszeniem. Tej oceny nie zrobimy za Ciebie.
 
 <h2 id="podcast"><!--ikona:fala--><span>Podcast</span></h2>
 
