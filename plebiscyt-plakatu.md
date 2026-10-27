@@ -11,7 +11,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 **W skrócie:**
 
 - **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione prace, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
-- zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
+- zgłaszasz **jedną pracę w jednej edycji**, w postaci zdjęcia albo skanu, nie oryginału
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
@@ -68,7 +68,7 @@ Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrz
 
 ### Co możesz zgłosić
 
-**Jedną pracę w jednej edycji.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą, czy ostrzeżeniem.
+Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą, czy ostrzeżeniem.
 
 ### Wymogi formalne
 

@@ -17,6 +17,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 **W skrócie:**
 
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
+- zgłaszasz **jedną rozmowę w jednej edycji** - jeden ciągły wątek, nie historię pociętą na kilkanaście okien
 - obok niej przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego
 - wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia)

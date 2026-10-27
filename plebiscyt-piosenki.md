@@ -15,7 +15,7 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 - **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione utwory, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
 - **zespoły i duety są jak najbardziej mile widziane** - „własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa
 - szczególnie zapraszamy **twórców rozwijających własną działalność artystyczną** - tych, którzy grają, śpiewają i piszą po swojemu; nie pytamy o zasięgi, o dorobek ani o to, czy masz kontrakt
-- zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą
+- zgłaszasz **jedną piosenkę w jednej edycji**, jako **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą
 - wszystkich zgłoszeń słucha **akademia piosenki**, a najwyżej ocenione utwory przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
 - każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim
@@ -67,7 +67,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów p
 
 ### Co możesz zgłosić
 
-**Jedną piosenkę w jednej edycji.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej.
+Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej.
 
 ### Wymogi formalne
 
