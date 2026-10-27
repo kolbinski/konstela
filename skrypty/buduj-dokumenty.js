@@ -156,7 +156,9 @@ const OPISY = {
 /* Obrazek pokazywany w podglądzie linku. Mapa wyjątków jest dziś pusta:
    wszystkie podstrony dzielą jeden obrazek serwisu. */
 const OBRAZEK_DOMYSLNY = '/assets/og.png';
-const OBRAZKI = {};
+const OBRAZKI = {
+  'plebiscyt-rozmowy': '/assets/rozmowa.jpg',
+};
 
 /* Znacznik zasobów ma rozróżniać kolejne budowania tego samego dnia. Sama
    data tego nie robi: przy kilku poprawkach arkusza w ciągu jednego dnia
