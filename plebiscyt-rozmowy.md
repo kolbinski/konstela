@@ -62,7 +62,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Z
 
 ### I. Rozpiętość
 
-Jak nieoczywiste i jak uzasadnione jest połączenie mentalne w przestrzeni świata, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.
+Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa poprowadziła między rzeczami, faktami czy konceptami? Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.
 
 ### II. Drążenie
 
