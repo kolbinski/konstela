@@ -11,7 +11,7 @@ Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 - **Trzy najwyżej ocenione utwory plebiscytu wykonywane na żywo**, nie wszystkie zgłoszenia ([plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia), [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 5).
 - **Hymn „Zapytaj inaczej" w wykonaniu składu jury, dwa razy: na rozpoczęcie i na zakończenie.** Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
-- **Wręczenia:** nagroda główna oraz dziewięć wyróżnień; mosiężny medal dla laureata, tłoczone dyplomy dla całej dziesiątki.
+- **Wręczenia:** nagroda główna, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień; mosiężny medal dla laureata, tłoczone dyplomy dla całej dziesiątki.
 - **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu jury.
 - **Nagroda publiczności w plebiscycie** dla wykonawcy oraz nagroda za najlepsze uzasadnienie wyboru.
 - **Wystąpienia sponsorów.** Uwaga Piotra, słuszna: fundator i partner wydawniczy będą musieli powiedzieć, po co to robią. Lepiej zaplanować im na to miejsce, niż pozwolić, by zajęli je sami.
@@ -33,14 +33,14 @@ Policzone, żeby sprawdzić, czy program się mieści. Razem 104 minuty, czyli o
 | Plebiscyt: werdykt jury, nagroda publiczności, nagroda za uzasadnienie, wyczytanie pozostałej siódemki z płyty | 9 |
 | Materiał filmowy podsumowujący edycję | 5 |
 | Dialog czytany | 12 |
-| Wręczenie dziewięciu wyróżnień | 15 |
+| Wręczenie nagród za miejsca i siedmiu wyróżnień | 15 |
 | Wręczenie nagrody głównej, słowo laureata | 10 |
 | **Hymn na zakończenie, z nagrodzonymi na scenie** | 7 |
 | **Razem** | **106** |
 
 **Dlaczego materiał filmowy przesunięty.** Jeżeli hymn otwiera galę jako hook, to film podsumowujący edycję jest drugim otwarciem i rozmywa pierwsze. Na miejscu przed dialogiem czytanym działa jako oddech między werdyktem plebiscytu a najcichszym punktem gali.
 
-**Co z tego wynika.** Program mieści się w dwóch godzinach, ale zapas jest zjedzony niemal w całości. Trzy rzeczy do pilnowania: dziewięć wyróżnień w piętnaście minut to po sto sekund na osobę, co jest realne tylko przy twardym prowadzeniu i bez przemówień wyróżnionych; dialog czytany w dwanaście minut wymaga wyboru fragmentu, nie całej rozmowy; a finał z nagrodzonymi na scenie wymaga, by ktoś ich tam sprowadził w trakcie poprzedniego bloku, bo samo wejście kilkunastu osób zajmuje dwie minuty i to jest już wliczone.
+**Co z tego wynika.** Program mieści się w dwóch godzinach, ale zapas jest zjedzony niemal w całości. Trzy rzeczy do pilnowania: dziewięć osób na scenie w piętnaście minut - dwa miejsca na podium i siedmioro wyróżnionych - to po sto sekund na osobę, co jest realne tylko przy twardym prowadzeniu i bez przemówień wyróżnionych; dialog czytany w dwanaście minut wymaga wyboru fragmentu, nie całej rozmowy; a finał z nagrodzonymi na scenie wymaga, by ktoś ich tam sprowadził w trakcie poprzedniego bloku, bo samo wejście kilkunastu osób zajmuje dwie minuty i to jest już wliczone.
 
 **Konsekwencje produkcyjne hymnu na otwarciu, których wcześniej nie było.** Skład jury musi być na miejscu i gotowy od minuty zero, a technika rozstawiona i sprawdzona przed wejściem publiczności - nie da się tego zrobić w trakcie. Jurorzy zostają do końca, bo wracają na finał, co jest osobną rozmową o honorarium za występ niż przy jednym wykonaniu na zakończenie. Scena musi pomieścić jednocześnie skład jury i wszystkich nagrodzonych, czyli około szesnastu osób: dziesięciu laureatów Nagrody, trójkę finałową plebiscytu oraz laureatów Nagrody Uczniowskiej i nagród publiczności. To jest wymóg wobec miejsca, nie detal.
 

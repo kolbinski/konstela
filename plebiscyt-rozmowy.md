@@ -11,7 +11,7 @@ Zgłaszasz rozmowę, którą sam odbyłeś: dowolną, byle dało się ją udost�
 
 **W skrócie:**
 
-- **nagrodę główną i dziewięć wyróżnień** przyznaje jury;
+- **nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury;
 - obok niej przyznawane są **Nagroda Uczniowska** i **Nagroda Publiczności**, niezależnie od jej werdyktu;
 - **dziesięć najlepszych rozmów** składa się na antologię wydaną bezpłatnie;
 - wszystkie zgłoszenia trafiają do **czytelni**, a po werdykcie do publicznego archiwum;
@@ -81,8 +81,12 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 <p>Werdykt jury, według jawnej karty oceny. Nagroda pieniężna, medal i miejsce w antologii.</p>
 </article>
 <article>
-<h3>Dziewięć wyróżnień</h3>
-<p>Pozostała dziewiątka finalistów: <strong>również nagrody pieniężne</strong>, a do tego dyplom i miejsce w antologii.</p>
+<h3>Nagroda za drugie i trzecie miejsce</h3>
+<p>Nagrody pieniężne dla dwóch kolejnych rozmów z werdyktu jury, wraz z miejscem w antologii.</p>
+</article>
+<article>
+<h3>Siedem wyróżnień</h3>
+<p>Reszta dziesiątki finalistów: <strong>również nagrody pieniężne</strong>, a do tego dyplom i miejsce w antologii.</p>
 </article>
 <article>
 <h3>Nagroda Uczniowska</h3>
