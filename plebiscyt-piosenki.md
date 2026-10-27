@@ -1,7 +1,5 @@
 # Plebiscyt na piosenkę o sztucznej inteligencji
 
----
-
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
 Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga sekcja o zasadach - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.

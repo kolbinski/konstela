@@ -1,7 +1,5 @@
 # Plebiscyt na plakat o sztucznej inteligencji
 
----
-
 ## <!--ikona:plakat--><span>Co to za plebiscyt</span>
 
 Otwarty plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek odróżnia go od wszystkiego, co dziś można wygenerować w pół minuty - obraz ma powstać pod ludzką ręką.
