@@ -106,7 +106,7 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 
 ### Melodia, harmonia i wokal muszą być Twoje
 
-**Nie wolno ich wziąć z generatora.** Niedozwolone jest zgłoszenie melodii lub harmonii przejętej z wygenerowanego nagrania - odsłuchanej i spisanej, przerobionej, przyspieszonej czy przeharmonizowanej. Dozwolone i niewymagające deklaracji jest używanie generatora do szukania klimatu i sprawdzania pomysłów, zanim napiszesz własne. Partia wokalna w całości ludzka, bez wyjątków.
+**Nie wolno ich wziąć z generatora piosenek AI.** Niedozwolone jest zgłoszenie melodii lub harmonii przejętej z wygenerowanego nagrania - odsłuchanej i spisanej, przerobionej, przyspieszonej czy przeharmonizowanej. Dozwolone i niewymagające deklaracji jest używanie generatora do szukania klimatu i sprawdzania pomysłów, zanim napiszesz własne. Partia wokalna w całości ludzka, bez wyjątków.
 
 ### Tekst wolno napisać z AI
 
