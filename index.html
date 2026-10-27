@@ -66,8 +66,8 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610271017" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610271017" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610271019" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610271019" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
       @font-face {
@@ -574,6 +574,16 @@
       .prose > p + p {
         margin-top: 1rem;
       }
+      /* Śródtytuły wewnątrz bloku prozy. Odstęp nad nimi jest wyraźnie
+         większy niż pod, żeby nagłówek trzymał się akapitu, który zapowiada,
+         a nie wisiał w połowie drogi między dwoma. */
+      .prose h3 {
+        font-size: 1.25rem;
+        margin: 2.2rem 0 0.6rem;
+      }
+      .prose > h3:first-child {
+        margin-top: 0;
+      }
 
       blockquote {
         margin: 1.75rem 0;
@@ -1054,6 +1064,7 @@
             nie program, i dlatego w każdym z plebiscytów oceniamy to, co
             zrobił człowiek: jego pytania, jego melodię, jego rękę.
           </p>
+          <h3>Cztery dziedziny, jedno pytanie</h3>
           <p>
             Pytamy o to samo w czterech dziedzinach. O <strong>rozmowę ze
             sztuczną inteligencją</strong>, w której liczą się pytania, a nie
@@ -1065,6 +1076,7 @@
             Cztery odpowiedzi na jedno pytanie: co robimy z tym, co się
             wydarzyło.
           </p>
+          <h3>Dotąd nagradzano maszyny</h3>
           <p>
             Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny.
             Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać
@@ -1072,8 +1084,9 @@
             20 minut. <strong>Człowiek siedzący po drugiej stronie nie był
             przedmiotem żadnej z nich.</strong>
           </p>
+          <h3>Co AI zmienia w filmie</h3>
           <p>
-            <strong>W filmie</strong> sztuczna inteligencja przesunęła granicę
+            Sztuczna inteligencja przesunęła granicę
             tego, co w ogóle wolno zobaczyć na ekranie bez zdjęć. Ujęcie, na
             które kiedyś trzeba było mieć plan, ekipę i pozwolenie, można dziś
             wygenerować. Tanieje obraz, a drożeje to, czego nie da się
@@ -1084,8 +1097,9 @@
             narzędzie nie rozstrzygnie: po co ktoś to pokazał. Nagroda Konstela
             jest po to, żeby miało gdzie wybrzmieć.
           </p>
+          <h3>Co AI zmienia w piosence</h3>
           <p>
-            <strong>W piosence</strong> generator dostarcza dziś gotowy utwór z
+            Generator dostarcza dziś gotowy utwór z
             wokalem, aranżem i masteringiem, w kilka minut i w dowolnej liczbie
             wersji. Jakość brzmienia przestała więc cokolwiek rozstrzygać:
             odróżnia nie produkcja, lecz to, czy ktoś miał coś do powiedzenia i
@@ -1094,8 +1108,9 @@
             ginie wśród tysięcy utworów, które nie kosztowały nikogo niczego.
             Nagroda Konstela daje takiej piosence scenę, studio i słuchacza.
           </p>
+          <h3>Co AI zmienia w plakacie</h3>
           <p>
-            <strong>W plakacie</strong> zmiana uderzyła najwcześniej i
+            Tu zmiana uderzyła najwcześniej i
             najmocniej. Projekt, który był tygodniem pracy grafika, bywa dziś
             kwestią kilku zdań wpisanych w okno generatora. Zostaje po tym
             pytanie, czego właściwie szukamy w obrazie: wykonania czy pomysłu,
@@ -1105,20 +1120,22 @@
             pokazuje prace, które ktoś naprawdę wykonał, i stawia je przed
             publicznością.
           </p>
+          <h3>Nagradzamy to, czego maszyna nie ma</h3>
           <p>
-            Wspólny mianownik tych czterech dziedzin jest jeden.
-            <strong>Nagradzamy to, czego maszyna nie ma</strong>: duszę,
-            emocję, zdziwienie i myśl, której nikt się nie spodziewał - łącznie
-            z tym, kto ją pomyślał. Sztuczna inteligencja świetnie uśrednia to,
+            Wspólny mianownik tych czterech dziedzin jest jeden. Szukamy
+            duszy, emocji, zdziwienia i myśli, której nikt się nie spodziewał -
+            łącznie z tym, kto ją pomyślał. Sztuczna inteligencja świetnie uśrednia to,
             co już powiedziano; my szukamy zdania, obrazu i dźwięku, które
             wypadają poza średnią, bo właśnie po nich poznaje się człowieka.
           </p>
+          <h3>Skąd nazwa</h3>
           <p>
             Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja
             powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię,
             której wcześniej nie było. Całe nasze zaproszenie mieści się w
             dwóch słowach: <strong>zapytaj inaczej</strong>.
           </p>
+          <h3>Dorobek każdej edycji</h3>
           <p>
             Z każdej edycji zostaje dorobek, który jest bezpłatny i zostaje na
             stałe: antologia najlepszych rozmów, publiczne archiwum zgłoszeń,
@@ -1634,8 +1651,8 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=202610271017" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610271017" defer></script>
-    <script src="/assets/pasek.js?v=202610271017" defer></script>
+    <script src="/assets/stopka.js?v=202610271019" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610271019" defer></script>
+    <script src="/assets/pasek.js?v=202610271019" defer></script>
   </body>
 </html>
