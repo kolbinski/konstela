@@ -325,6 +325,22 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 4. Nagroda nie jest przyznawana w drodze losowania wśród głosujących ani w żadnym innym trybie losowym; w szczególności Organizator nie organizuje loterii promocyjnej w rozumieniu ustawy o grach hazardowych.
 
+5. **Uzasadnienie wyboru i nagroda za nie.** Do głosowania stosuje się ponadto następujące zasady:
+
+   a) **oddanie głosu wymaga uzasadnienia wyboru** w polu o długości **od 700 do 1500 znaków**; głos bez uzasadnienia nie zostaje oddany. Wymóg ten istnieje dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową;
+
+   b) spośród uzasadnień przyznawana jest odrębna, wyraźnie nazwana **nagroda za najlepsze uzasadnienie wyboru**; jej wysokość ogłaszana jest razem z pozostałymi nagrodami;
+
+   c) uzasadnienia ocenia **trzyosobowy zespół powołany przez Organizatora spoza jury**, którego skład Organizator ogłasza przed rozpoczęciem głosowania;
+
+   d) oceniane jest to, **co uzasadnienie mówi o samym zgłoszeniu**: trafność obserwacji, konkretność i samodzielność sądu. Nie ocenia się długości wypowiedzi, poprawności zapisu ani zgodności wyboru z werdyktem jury;
+
+   e) przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej;
+
+   f) osoba głosująca podaje adres poczty elektronicznej **wyłącznie po to**, by Organizator mógł się z nią skontaktować w razie przyznania nagrody; dane niezbędne do wypłaty Organizator zbiera dopiero od laureata;
+
+   g) nagroda ta **nie jest przyznawana w drodze losowania** wśród głosujących ani w żadnym innym trybie losowym.
+
 ## § 12. Prawa autorskie i licencja
 
 1. Zgłaszając film, Uczestnik oświadcza, że:

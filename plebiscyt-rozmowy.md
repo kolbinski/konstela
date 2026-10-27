@@ -150,7 +150,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
-<p>Otwarte głosowanie dla wszystkich, jeden głos na numer telefonu. Głosowanie rozpoczyna się po zakończeniu naboru (15 stycznia 2028), a jego wyniki są niewidoczne do gali plebiscytu.</p>
+<p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza po zamknięciu naboru, 15 stycznia 2028 i trwa do dnia gali.</p>
 </article>
 </div>
 
@@ -170,6 +170,14 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 <p><strong>Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia oceny przez szkołę.</strong> Zgłaszając wskazanie, szkoła zgadza się na to, że rozmowy z <a href="#czytelnia">czytelni</a> trafiają do czytania i oceniania przez grupy uczniowskie, w tym przez osoby niepełnoletnie. Szkoła nie wskazuje, które rozmowy są przedstawiane jej grupom do czytania i oceniania.</p>
 </article>
 </div>
+
+## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
+
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 700 do 1500 znaków, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Robimy tak dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową.
+
+**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym zgłoszeniu - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
+
+Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w razie przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
 <h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i archiwum</span></h2>
 

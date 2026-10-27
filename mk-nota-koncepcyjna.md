@@ -158,11 +158,11 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 
 | Rola | Kwota netto | Co finansuje |
 |---|---:|---|
-| Fundator puli nagród | 534 876,80 zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie konkursu |
+| Fundator puli nagród | 535 996,80 zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie konkursu |
 | Sponsor gali | 35 168,00 zł | gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru |
 | Partner wydawniczy lub sponsor organizacyjny | 292 422,00 zł | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu |
 | Sponsor akademii | 160 160,00 zł | pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń |
-| **Razem, pozycje obecnie wycenione** | **1 022 626,80 zł** | |
+| **Razem, pozycje obecnie wycenione** | **1 023 746,80 zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
 
 Kwoty pochodzą z arkusza budżetowego pierwszej edycji i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą. Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli. Od 26 października 2026 roku zakres sponsora akademii obejmuje pierwsze przejście oceny we wszystkich kategoriach, a nie tylko czytanie rozmów; doszło do niego oglądanie filmów, które jest w tej pozycji kosztem największym i najszybciej rosnącym.
@@ -175,13 +175,13 @@ Wysoka pula rodzi pytanie, czy nie przyciągnie osób liczących kryteria zamias
 
 Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe i ubezpieczeniowe (CSR i kompetencje cyfrowe), firmy technologiczne, uczelnie, fundacje korporacyjne. **Nie planuję przyjmować finansowania od dostawców modeli językowych w edycjach krajowych** - konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty.
 
-**Część artystyczna jest poza tym budżetem.** Powyższe 1 022 626,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach 10, 10a i 10c. Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów stoi w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania. Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa konkursu plakatu i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję. Rozumiem, że programy wsparcia kultury przewidują określony udział środków własnych albo pochodzących z innych źródeł, i środki sponsorskie traktuję jako możliwe pokrycie tego udziału, a nie jako konkurencję dla dotacji.
+**Część artystyczna jest poza tym budżetem.** Powyższe 1 023 746,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach 10, 10a i 10c. Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów stoi w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania. Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa konkursu plakatu i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję. Rozumiem, że programy wsparcia kultury przewidują określony udział środków własnych albo pochodzących z innych źródeł, i środki sponsorskie traktuję jako możliwe pokrycie tego udziału, a nie jako konkurencję dla dotacji.
 
 ### Zestawienie zadania: co, w którym roku, z czego i o co pytam
 
 | Działanie | Rezultat | Rok kosztu | Obecnie wyceniony koszt netto | Planowane źródło | Czy pytam MKiDN |
 |---|---|---|---:|---|---|
-| Konkurs rozmów: nabór, ocena, prowadzenie | laureat i dziesiątka finalistów | 2027-2028 | 534 876,80 zł | fundator puli nagród | nie |
+| Konkurs rozmów: nabór, ocena, prowadzenie | laureat i dziesiątka finalistów | 2027-2028 | 535 996,80 zł | fundator puli nagród | nie |
 | Gala rozstrzygnięcia czterech plebiscytów | wydarzenie publiczne wraz z zapisem wideo | 2028 | 35 168,00 zł | sponsor gali | nie |
 | Antologia i archiwum, w tym krótki nakład na galę | e-book bezpłatny, archiwum, egzemplarze dla laureatów | 2027-2028 | 292 422,00 zł | partner wydawniczy lub sponsor organizacyjny | nie |
 | Pierwsza runda oceny: Akademia rozmów i akademia filmu | przesiew zgłoszeń, dwa odczyty rozmowy i dwa obejrzenia filmu na zgłoszenie | 2027-2028 | 160 160,00 zł | sponsor akademii | nie |
@@ -189,10 +189,10 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 | Nagrania studyjne dziesiątki finalistów | dziesięć nagrań, prawa przy autorach | 2028 | 75 000,00 zł | sponsor plebiscytu | **tak** |
 | Hymn z teledyskiem | nagranie i premiera otwierająca nabór | 2027 | 80 000,00 zł | sponsor plebiscytu | **tak** |
 | Realizacja części artystycznej gali | koncert finałowy | 2028 | do wyceny | sponsor plebiscytu | **tak** |
-| Plebiscyt plakatu: nabór, ocena, nagrody, oryginały | konkurs, okładka antologii, archiwum reprodukcji | 2027-2028 | 153 480,00 zł | mecenas konkursu plakatu | **tak** |
+| Plebiscyt plakatu: nabór, ocena, nagrody, oryginały | konkurs, okładka antologii, archiwum reprodukcji | 2027-2028 | 154 480,00 zł | mecenas konkursu plakatu | **tak** |
 | Wystawa przy gali | dziesięć prac finałowych pokazanych publicznie | 2028 | do wyceny | mecenas konkursu plakatu | **tak** |
 | Wystawa w galerii sztuki, otwierana wernisażem | te same prace pokazane po gali, jeżeli galeria zostanie pozyskana | 2028 | do wyceny | partner galerii | nie |
-| Plebiscyt filmu: nabór, ocena, nagrody, prowadzenie | konkurs, pięć filmów finałowych, Projektornia i archiwum | 2027-2028 | 255 800,00 zł | sponsor plebiscytu filmu | **tak** |
+| Plebiscyt filmu: nabór, ocena, nagrody, prowadzenie | konkurs, pięć filmów finałowych, Projektornia i archiwum | 2027-2028 | 256 800,00 zł | sponsor plebiscytu filmu | **tak** |
 | Zwiastuny piątki na gali, a przy pozyskaniu sali także pełne pokazy filmów finałowych | pięć filmów pokazanych publicznie | 2028 | do wyceny | sponsor plebiscytu filmu | **tak** |
 | Podcast, dwadzieścia cztery odcinki | bezpłatny materiał edukacyjny | 2027 | do wyceny | sponsor Antologii | nie |
 
@@ -283,14 +283,14 @@ Cztery uwagi do tego kosztorysu, powiedziane wprost.
 | Pozycja | Kwota |
 |---|---|
 | Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
-| Nagroda publiczności | 3 000 zł |
+| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł za najlepsze uzasadnienie wyboru | 4 000 zł |
 | Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Transport oryginałów dziesiątki finalistów w obie strony | 8 000 zł |
 | Ubezpieczenie prac na czas wystawy | 3 000 zł |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przyjęcie i zwrot oryginałów, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji - razem 190 godzin | 41 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 6 480 zł |
-| **Razem, pozycje rozstrzygnięte** | **153 480 zł** |
+| **Razem, pozycje rozstrzygnięte** | **154 480 zł** |
 | Realizacja wystawy przy gali | do wyceny |
 | Wystawa w galerii sztuki, jeżeli zostanie pozyskana | do wyceny |
 | Obsługa prawna regulaminu konkursu | do wyceny |
@@ -329,12 +329,12 @@ Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**, w do
 | Pozycja | Kwota |
 |---|---|
 | Nagrody dla trzech najwyżej ocenionych filmów: 100 tys. zł, 50 tys. zł, 30 tys. zł | 180 000 zł |
-| Nagroda publiczności | 3 000 zł |
+| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł za najlepsze uzasadnienie wyboru | 4 000 zł |
 | Medal zwycięzcy i dyplomy dziesięciu finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, prowadzenie Projektorni, dotarcie do szkół filmowych i festiwali - razem 290 godzin | 63 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 7 800 zł |
-| **Razem, pozycje rozstrzygnięte** | **255 800 zł** |
+| **Razem, pozycje rozstrzygnięte** | **256 800 zł** |
 | Przygotowanie techniczne zwiastunów do emisji galowej | do wyceny |
 | Pokazy kinowe filmów finałowych, jeżeli dojdą do skutku | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |

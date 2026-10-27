@@ -175,27 +175,29 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury. Dyplomy odbiera cała dziesiątka finalistów.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury oraz dyplomy.</p>
 </article>
 <article>
-<h3>Nagroda Publiczności</h3>
-<p>Dla utworu z największą liczbą głosów, niezależnie od werdyktu jury. Głosowanie rusza dzień po zamknięciu naboru i trwa do gali; jeden głos na numer telefonu, potwierdzony kodem z SMS.</p>
+<h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
+<p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza dzień po zamknięciu naboru i trwa do dnia gali.</p>
 </article>
 <article>
-<h3>Nagranie studyjne dla dziesiątki</h3>
-<p>Każdy z dziesięciu finalistów dostaje <strong>profesjonalne nagranie swojego utworu w studiu</strong>, na koszt organizatora i niezależnie od miejsca w werdykcie. Prawa do nagrania przechodzą na Ciebie jako część nagrody.</p>
-</article>
-<article>
-<h3>Nagroda za uzasadnienie wyboru</h3>
-<p>Dla głosującego, który najlepiej uzasadni swój wybór. Uzasadnienie jest nieobowiązkowe - dopisujesz je przy oddaniu głosu, do 1500 znaków.</p>
+<h3>Nagranie studyjne dla dziesiątki finalistów</h3>
+<p>Każdy z dziesięciu finalistów dostaje <strong>możliwość profesjonalnego nagrania swojego utworu w studiu</strong>, na koszt organizatora i niezależnie od miejsca w werdykcie. Prawa do nagrania przechodzą na Ciebie jako część nagrody, a dyplom odbiera cała dziesiątka finalistów.</p>
 </article>
 </div>
-
-**Jak oceniamy uzasadnienia.** Ocenia je trzyosobowy zespół powołany spoza jury, którego skład podajemy przed rozpoczęciem głosowania, i liczy się to, co uzasadnienie mówi o samym utworze: trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości, ortografii ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie wygrywa uzasadnienie oddane wcześniej.
 
 **Nagranie studyjne dla każdego z dziesięciu finalistów.** Osobno od pieniędzy: wszystkie utwory finałowej dziesiątki zostaną nagrane profesjonalnie w studiu na koszt organizatora. Termin sesji i termin przekazania Ci gotowego materiału podajemy przed otwarciem naboru i jesteśmy nimi związani.
 
 **Płyta jest planem, nie obietnicą.** Chcemy wydać te nagrania na płycie, ale zależy to od pozyskania wydawnictwa i od osobnej umowy, którą zawrzesz z nim Ty, nie my. **Nagrania powstaną niezależnie od tego, czy wydawnictwo się znajdzie**, a odmowa umowy z nim nie odbiera Ci ani nagrania, ani praw do niego.
+
+## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
+
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 700 do 1500 znaków, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Robimy tak dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową.
+
+**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym zgłoszeniu - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
+
+Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w razie przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
 <h2 id="sluchalnia"><!--ikona:sluchalnia--><span>Słuchalnia i archiwum</span></h2>
 

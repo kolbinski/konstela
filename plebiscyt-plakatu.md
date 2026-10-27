@@ -150,8 +150,8 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 <p>Nagrody pieniężne dla dwóch kolejnych prac z werdyktu jury. Dyplomy odbiera cała dziesiątka finalistów.</p>
 </article>
 <article>
-<h3>Nagroda Publiczności</h3>
-<p>Otwarte głosowanie, niezależne od werdyktu jury. Rusza dzień po zamknięciu naboru i trwa do gali, żeby każda praca miała tyle samo czasu na zebranie głosów.</p>
+<h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
+<p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza dzień po zamknięciu naboru i trwa do dnia gali.</p>
 </article>
 <article>
 <h3>Okładka antologii</h3>
@@ -164,6 +164,14 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 **Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a oryginałem dysponujemy nie dłużej niż 150 dni od jego odebrania.
 
 **Wystawa w galerii sztuki - jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem - już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycja idzie do finalistów w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć - nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
+
+## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
+
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 700 do 1500 znaków, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Robimy tak dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową.
+
+**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym zgłoszeniu - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
+
+Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w razie przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
 <h2 id="galeria"><!--ikona:galeria--><span>Galeria i archiwum</span></h2>
 

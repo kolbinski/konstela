@@ -193,9 +193,17 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
-<p>Otwarte głosowanie dla wszystkich, jeden głos na numer telefonu. Głosowanie rozpoczyna się po pierwszym przejściu oceny (styczeń 2028), a jego wyniki są niewidoczne do gali plebiscytu.</p>
+<p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza po pierwszym przejściu oceny, w styczniu 2028 i trwa do dnia gali.</p>
 </article>
 </div>
+
+## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
+
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 700 do 1500 znaków, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Robimy tak dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową.
+
+**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym zgłoszeniu - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
+
+Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w razie przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
 ## <!--ikona:galeria--><span>Dystrybucja kinowa</span>
 
