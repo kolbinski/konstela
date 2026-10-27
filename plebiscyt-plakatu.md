@@ -108,8 +108,6 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 
 **Jak je przesłać.** Podajesz link do nagrania na YouTube - może być niepubliczny. Pamiętaj tylko, że film niepubliczny w YouTubie może obejrzeć każdy, kto ma do niego link.
 
-**Pozostałe materiały z etapów pracy** - szkic, podmalówkę, zdjęcia w trakcie - możesz dołączyć, ale nie musisz. Jeśli istnieją, pomagają.
-
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
 ## <!--ikona:zasady--><span>Zasady: ręka, nie generator</span>
@@ -118,7 +116,7 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 
 Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - bo przy plakacie to właśnie obraz jest ocenianym wytworem, a nie jednym z kilku składników.
 
-**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem, Twoje oświadczenie i materiały z etapów, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
+**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem i Twoje oświadczenie, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
 **Narzędzia cyfrowe przy przygotowaniu pliku** - kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia - są dozwolone i oczywiste. Nie wolno nimi dodawać ani usuwać elementów obrazu.
 
