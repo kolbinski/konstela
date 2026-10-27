@@ -25,7 +25,7 @@ Praca wykonana ręcznie, bez generatora obrazu. Zawiera wymóg nagrania z powsta
 - **Karta oceny jest jawna przed naborem** i nie zmienia się po jego otwarciu.
 - **Pula nagród może wyłącznie rosnąć.** Obniżenie jej po otwarciu naboru jest wyłączone, a ogłaszamy ją dopiero wtedy, gdy środki są na rachunku.
 - **Prawa do zgłoszeń zostają przy autorach.** Organizator dostaje licencję niewyłączną i tylko w wypisanych zakresach.
-- **Zwycięzca każdego plebiscytu dostaje ten sam mosiężny medal** Nagrody Konstela, a finaliści tłoczone dyplomy.
+- **Zwycięzca każdego plebiscytu dostaje ten sam medal** Nagrody Konstela, a finaliści tłoczone dyplomy.
 - **Wiek: od 16 lat**, a osoba niepełnoletnia dołącza zgodę opiekuna rozbitą na osobne zakresy. Zgoda na zakresy będące warunkiem udziału - prezentację zgłoszenia i to, co dzieje się z nim na gali - jest konieczna do przyjęcia zgłoszenia; brak zgody na pozostałe wyłącza wyłącznie z nich.
 - **Nagroda Publiczności w każdej kategorii**, jeden głos na numer telefonu, liczniki ukryte do gali.
 

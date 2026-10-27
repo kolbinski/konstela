@@ -73,7 +73,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 ## <!--ikona:puchar--><span>Nagrody</span>
 
-**Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń**, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć. Zwycięzca odbiera **mosiężny medal Nagrody Konstela**, ten sam, który otrzymują zwycięzcy pozostałych plebiscytów, a cała dziesiątka finalistów tłoczone dyplomy.
+**Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń**, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć. Zwycięzca odbiera **medal Nagrody Konstela**, ten sam, który otrzymują zwycięzcy pozostałych plebiscytów, a cała dziesiątka finalistów tłoczone dyplomy.
 
 <div class="kafle">
 <article>

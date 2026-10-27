@@ -107,7 +107,7 @@ Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie.
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Werdykt jury. Nagroda pieniężna i <strong>mosiężny medal Nagrody Konstela</strong> - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów.</p>
+<p>Werdykt jury. Nagroda pieniężna i <strong>medal Nagrody Konstela</strong> - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>

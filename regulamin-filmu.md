@@ -12,7 +12,7 @@
 
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu naboru. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat.
 
-5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na rozmowę ze sztuczną inteligencją, na piosenkę o niej i na plakat o niej, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam mosiężny medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
+5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na rozmowę ze sztuczną inteligencją, na piosenkę o niej i na plakat o niej, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
 
 ## § 2. Przedmiot konkursu
 
@@ -245,7 +245,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    b) nagrodę publiczności, o której mowa w § 11a;
 
-   c) **mosiężny medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich pięciu finalistów. Medalion jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
+   c) **medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich pięciu finalistów. Medalion jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
 
    d) prezentację fragmentu filmu podczas gali, na zasadach z § 10.
 

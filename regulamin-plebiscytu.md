@@ -244,7 +244,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    b) dwie nagrody publiczności, o których mowa w § 11 ust. 1;
 
-   c) **mosiężny medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich dziesięciu finalistów. Medalion jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
+   c) **medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich dziesięciu finalistów. Medalion jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
 
    d) nagranie studyjne, o którym mowa w § 13, dla każdego z dziesięciu finalistów.
 
