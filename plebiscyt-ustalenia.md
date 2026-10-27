@@ -126,6 +126,8 @@ W mailu padła propozycja: gdyby zgłoszeń były setki albo tysiące, powołać
 
 Drugi argument nie znika przy żadnej liczbie zgłoszeń i jest poważniejszy. Jeżeli akademia miałaby powstać, potrzebuje **własnej jawnej karty oceny**, inaczej jury dostaje materiał przesiany przez cudzy gust. Rozstrzygnąć po odpowiedzi Michała; do tego czasu obowiązuje preselekcja przez samo jury w zapowiedzianym pierwszym przejściu.
 
+**Rozstrzygnięte 27.10.2026: akademia piosenki działa od pierwszej edycji, bezwarunkowo.** Ta sama konstrukcja co w plebiscycie filmu i w plebiscycie rozmowy, i z tego samego powodu: próg powołania „jeżeli zgłoszeń będzie dużo" oznacza, że przed naborem nie da się powiedzieć uczestnikowi, kto będzie go oceniał, ani wycenić pozycji w budżecie - a Budżet Akademii obejmuje pierwszą rundę oceny we wszystkich kategoriach. Zastrzeżenie ustrojowe z poprzedniego akapitu zostaje rozwiązane tak, jak przy pozostałych plebiscytach: **akademia ocenia tą samą jawną kartą oceny co jury**, nie własną, więc jury nie dostaje materiału przesianego przez cudzy gust, lecz przez te same kryteria. Regulamin: § 11 ust. 4-6. Od tej chwili strona plebiscytu i Kontakt rekrutują do akademii wprost.
+
 ## Ścieżki finansowania do sprawdzenia
 
 - **Ministerstwo Kultury i Dziedzictwa Narodowego** - programy wsparcia dla przedsięwzięć kulturalnych; sprawdzić nabory i terminy, bo są roczne i sztywne.
