@@ -220,7 +220,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. Nagroda, o której mowa w ust. 1 lit. b, przyznawana jest w drodze oceny uzasadnień, na następujących zasadach:
 
-   a) **oddanie głosu wymaga uzasadnienia wyboru** w polu o długości **od 700 do 1500 znaków**; głos bez uzasadnienia nie zostaje oddany. Wymóg ten istnieje dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową;
+   a) **oddanie głosu wymaga uzasadnienia wyboru** w polu o długości **od 200 do 1500 znaków**; głos bez uzasadnienia nie zostaje oddany. Wymóg ten istnieje dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową, i dlatego, że podnosi koszt oddania głosu nieuczciwego;
+
+   a1) **uzasadnienie jest publikowane przy zgłoszeniu, na które oddano głos, za zgodą osoby głosującej.** Zgoda jest nieobowiązkowa i można ją wycofać; jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Publikowane uzasadnienia podpisywane są imieniem albo pseudonimem wskazanym przez osobę głosującą i podlegają [procedurze moderacji](/dokument/procedura-moderacji) na tych samych zasadach co zgłoszenia;
 
    b) uzasadnienia ocenia **trzyosobowy zespół powołany przez Organizatora spoza jury**, którego skład Organizator ogłasza przed rozpoczęciem głosowania;
 

@@ -173,7 +173,9 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 ## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
 
-**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 700 do 1500 znaków, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Robimy tak dlatego, że głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową.
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, przy samym głosie. Dwieście znaków to dwa, trzy zdania. Bez uzasadnienia głos nie zostaje oddany: głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową, a przy okazji trudno w ten sposób oddać tysiąc głosów z jednej piwnicy.
+
+**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym zgłoszeniu - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 

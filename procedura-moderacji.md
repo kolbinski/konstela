@@ -136,6 +136,14 @@ Oznacz, gdy znaczną część filmu stanowi materiał, którego autor najwyraźn
 - **Nie oznaczaj:** materiału archiwalnego użytego jako krótka ilustracja z podaniem źródła.
 - **Nie oznaczaj:** obrazu wygenerowanego przez narzędzie sztucznej inteligencji - w tym plebiscycie jest to dopuszczalne i podlega wyłącznie deklaracji, nie oznaczeniu.
 
+## 3a. Uzasadnienia głosów publiczności
+
+Od pierwszej edycji oddanie głosu w nagrodzie publiczności wymaga uzasadnienia wyboru, a **za zgodą osoby głosującej uzasadnienie publikujemy przy zgłoszeniu**, na które padł głos. Publikowane uzasadnienia podlegają tej samej procedurze co zgłoszenia, z trzema różnicami:
+
+1. **Przegląd prowadzi organizator, nie oceniający.** Uzasadnienia nie wchodzą do panelu oceny i nie wpływają na punktację zgłoszenia; oceniający ich nie widzi.
+2. **Niepublikowanie uzasadnienia nie dotyka nikogo poza jego autorem.** Zdjęcie uzasadnienia nie wpływa na głos, który pozostaje policzony, ani na udział zgłoszenia w nagrodzie publiczności, ani na udział autora uzasadnienia w nagrodzie za uzasadnienie wyboru - ocenia je zespół spoza jury niezależnie od tego, czy tekst jest publiczny.
+3. **Dotyczy ich ta sama zamknięta lista oznaczeń** co zgłoszeń w danym plebiscycie, a dodatkowo: imienne zarzuty wobec innego uczestnika oraz treści wymierzone w osobę, a nie w zgłoszenie. Ich miejsce jest poza serwisem i publikacji nie podlegają.
+
 ## 4. Oznaczenie inne niż rutynowe
 
 Jeżeli widzisz **konkretny** problem, który nie mieści się na liście, możesz go wskazać w polu opisowym. Przykłady: bardzo długie przytoczenie dosłowne cudzego tekstu w rozmowie, treść, która wygląda na dane objęte tajemnicą zawodową, wypowiedź o konkretnej osobie, która może być zniesławieniem.
