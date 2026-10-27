@@ -13,10 +13,10 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 **W skrócie:**
 
-- **nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
+- **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
 - obok niej przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego
-- wszystkie zgłoszenia trafiają do **czytelni**, a po werdykcie do publicznego archiwum
+- wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie do publicznego [archiwum](#czytelnia)
 
 ## <!--ikona:konstelacja--><span>Dlaczego nagradzamy człowieka</span>
 
@@ -72,7 +72,7 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją archiwum.
 
-## <!--ikona:puchar--><span>Nagrody</span>
+<h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
 **Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń**, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć. Zwycięzca odbiera **medal Nagrody Konstela**, ten sam, który otrzymują zwycięzcy pozostałych plebiscytów, a cała dziesiątka finalistów tłoczone dyplomy.
 
@@ -121,7 +121,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 **Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia.** Zgłaszając rozmowę, godzisz się na to, że może ona trafić do czytania przez grupy uczniowskie, w tym przez osoby niepełnoletnie - tak samo, jak godzisz się na przeczytanie jej przez jury i Akademię. Nie wskazujesz, komu Twoja rozmowa ma być przedstawiona do oceny. Zasady są w regulaminie (§ 8 ust. 2a i § 9 ust. 9), a szkoły zainteresowane zgłoszeniem grupy mogą napisać już teraz.
 
-## <!--ikona:sluchalnia--><span>Czytelnia i archiwum</span>
+<h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i archiwum</span></h2>
 
 **Po przejściu oceny formalnej każde zgłoszenie trafia na czytelnię**: listę, która rośnie przez cały rok naboru i którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora, link, opis odkrycia oraz uzasadnienie, dlaczego warto tę rozmowę przeczytać. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
 
