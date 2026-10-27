@@ -46,11 +46,17 @@ Osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie 
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
-**Tytuł i krótki opis tego, co odkryłeś.** Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego **„dlaczego warte nagrody głównej"** - do 700 znaków o tym, dlaczego akurat ta rozmowa. Ani tytuł, ani opis, ani to uzasadnienie nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum. Bez nich zgłoszenie odpada na starcie.
+### Tytuł i opis
 
-**Ilustracja rozmowy.** Do zgłoszenia dołączasz jeden pionowy obrazek w proporcjach 9:16 - JPG albo PNG, krótszy bok od 1080 do 2160 pikseli, do 5 MB. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Ilustracji nie oceniamy w żadnym kryterium.
+Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego pole **„dlaczego warte nagrody głównej"** - do 700 znaków o tym, dlaczego akurat ta rozmowa jest warta nagrody. Ani tytuł, ani opis, ani to uzasadnienie nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum.
 
-**Terminy.** Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Zgłoszenia przyjmujemy od 1 stycznia 2027 do 15 stycznia 2028 - te dodatkowe dwa tygodnie są dla rozmów z końca grudnia. Rozstrzygnięcie i premiera antologii w drugiej połowie kwietnia 2028.
+### Ilustracja rozmowy
+
+Do zgłoszenia dołączasz jeden pionowy obrazek w proporcjach 9:16 - JPG albo PNG, krótszy bok od 1080 do 2160 pikseli, do 5 MB. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
+
+### Terminy
+
+Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Zgłoszenia przyjmujemy od 1 stycznia 2027 do 15 stycznia 2028 - te dodatkowe dwa tygodnie są dla rozmów z końca grudnia. Rozstrzygnięcie i premiera antologii w drugiej połowie kwietnia 2028.
 
 ## <!--ikona:kryteria--><span>Cztery kryteria oceny</span>
 
