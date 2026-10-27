@@ -65,15 +65,25 @@ Zgłoszenia w plebiscycie mogą dokonać osoby pełnoletnie mieszkające w Polsc
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
+### Jedno zgłoszenie na osobę
+
+Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu przypada jedno zgłoszenie w edycji. Numeru nie przechowujemy w postaci jawnej i nie pokazujemy go nigdzie publicznie.
+
+### Dlaczego warte nagrody głównej
+
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [czytelni](#czytelnia) w czasie naboru i w archiwum po werdykcie.
+
+### Kontakt do autora
+
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [czytelni](#czytelnia) i w [archiwum](#czytelnia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+
 ### Tytuł i opis
 
-Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego pole **„dlaczego warte nagrody głównej"** - do 700 znaków o tym, dlaczego akurat ta rozmowa jest warta nagrody. Ani tytuł, ani opis, ani to uzasadnienie nie podlegają ocenie - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum.
+Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało.
 
 ### Ilustracja rozmowy
 
 Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16 - pozostałe szczegóły podaje regulamin i formularz zgłoszeniowy. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
-
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w czytelni i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 

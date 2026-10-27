@@ -67,9 +67,21 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
-**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy wejdziesz do dziesiątki** - listę finalistów ogłaszamy przed galą i razem z nią podajemy okno dostarczenia oryginałów, obejmujące co najmniej 21 dni; przed jego pierwszym dniem prac nie przyjmujemy, żeby nie leżały u nas dłużej, niż to konieczne. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
+### Jedno zgłoszenie na osobę
 
-**Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. Przy pracy wykonanej wspólnie zgłoszenie wskazuje osobę reprezentującą cały skład; ona prowadzi korespondencję, a podział ewentualnej nagrody pozostaje sprawą autorów.
+Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu przypada jedno zgłoszenie w edycji. Numeru nie przechowujemy w postaci jawnej i nie pokazujemy go nigdzie publicznie. Przy pracy wykonanej wspólnie zgłoszenie wskazuje osobę reprezentującą cały skład; ona prowadzi korespondencję, a podział ewentualnej nagrody pozostaje sprawą autorów.
+
+### Dlaczego warte nagrody głównej
+
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Galerii](#galeria) w czasie naboru i w archiwum po werdykcie.
+
+### Kontakt do autora
+
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [archiwum](#galeria). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+
+### Zdjęcie pracy, nagranie i materiały
+
+**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy wejdziesz do dziesiątki** - listę finalistów ogłaszamy przed galą i razem z nią podajemy okno dostarczenia oryginałów, obejmujące co najmniej 21 dni; przed jego pierwszym dniem prac nie przyjmujemy, żeby nie leżały u nas dłużej, niż to konieczne. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
 **Dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 5 minut się nie liczą.
 
@@ -80,10 +92,6 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 **Jak je przesłać.** Możesz przesłać plik albo link do nagrania w serwisie wideo - wybór należy do Ciebie. Przy linku pamiętaj, że dostęp do nagrania zależy również od zasad wybranego serwisu: film „niepubliczny" w popularnych serwisach może obejrzeć każdy, kto ma do niego link. Jeśli wolisz tego uniknąć, prześlij plik.
 
 **Pozostałe materiały z etapów pracy** - szkic, podmalówkę, zdjęcia w trakcie - możesz dołączyć, ale nie musisz. Jeśli istnieją, pomagają.
-
-**Dlaczego warte nagrody głównej.** W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Galerii w czasie naboru i w archiwum po gali.
-
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w Galerii i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -157,7 +165,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Wystawa w galerii sztuki - jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem - już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycja idzie do finalistów w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć - nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
-## <!--ikona:galeria--><span>Galeria i archiwum</span>
+<h2 id="galeria"><!--ikona:galeria--><span>Galeria i archiwum</span></h2>
 
 **Prace, które przeszły sprawdzenie formalne, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
 

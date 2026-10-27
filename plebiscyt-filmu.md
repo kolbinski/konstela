@@ -94,6 +94,18 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
+### Jedno zgłoszenie na osobę
+
+Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu przypada jedno zgłoszenie w edycji. Numeru nie przechowujemy w postaci jawnej i nie pokazujemy go nigdzie publicznie. Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
+
+### Dlaczego warte nagrody głównej
+
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Projektorni](#projektornia) w czasie naboru i w archiwum po werdykcie.
+
+### Kontakt do autora
+
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [archiwum](#projektornia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+
 ### Dwa linki: film i zwiastun
 
 **Zgłaszasz linki do publicznie dostępnego filmu i jego zwiastuna na YouTube.** Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a link ma działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
@@ -106,9 +118,7 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ### Pozostałe pola zgłoszenia
 
-Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, pole tekstowe **„dlaczego warte nagrody głównej" do 700 znaków** oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis, pole „dlaczego warte nagrody głównej" i miniatura nie podlegają ocenie.
-
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w Projektorni i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie podlegają ocenie.
 
 **Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i archiwum](#projektornia). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
 

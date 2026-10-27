@@ -80,25 +80,23 @@ Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze 
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
+### Jedno zgłoszenie na osobę
+
+Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu przypada jedno zgłoszenie w edycji. Numeru nie przechowujemy w postaci jawnej i nie pokazujemy go nigdzie publicznie. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń; pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta. **Zgłoszenie zespołowe wskazuje jedną osobę reprezentującą cały skład** - ona prowadzi korespondencję, a sposób podziału nagrody pozostaje sprawą zgłaszających, bo organizator wypłaca ją w całości reprezentantowi.
+
+### Dlaczego warte nagrody głównej
+
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Słuchalni](#sluchalnia) w czasie naboru i w archiwum po werdykcie.
+
+### Kontakt do autora
+
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia) i w [archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+
 ### Link do nagrania i okładka
 
 **Przesyłasz link do nagrania na YouTube, nie plik.**
 
-**Do tego jedna okładka** - kwadratowy obrazek. To on reprezentuje Twoją piosenkę w Słuchalni i w archiwum. Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.**
-
-### Dlaczego warte nagrody głównej
-
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Słuchalni w czasie naboru i w archiwum po gali.
-
-### Jedno zgłoszenie na osobę
-
-Zgłoszenie potwierdzamy kodem z SMS. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń. Pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta.
-
-**Zgłoszenie zespołowe wskazuje jedną osobę reprezentującą cały skład.** Ona składa zgłoszenie i prowadzi korespondencję, a sposób podziału nagrody pozostaje sprawą zgłaszających - organizator wypłaca ją w całości reprezentantowi i w podział się nie wtrąca.
-
-### Kontakt do autora
-
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w Słuchalni i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Do tego jedna okładka** - kwadratowy obrazek. To on reprezentuje Twoją piosenkę w [Słuchalni](#sluchalnia) i w [archiwum](#archiwum). Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.**
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
