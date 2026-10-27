@@ -10,7 +10,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 
 **W skrócie:**
 
-- **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione prace, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
+- **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione prace, pozostali finaliści **siedem wyróżnień**, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
@@ -171,11 +171,15 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Nagroda pieniężna, medal i dyplom.</p>
+<p>Nagroda pieniężna, medal, dyplom i miejsce na wystawie.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych prac z werdyktu jury. Dyplomy odbiera cała dziesiątka finalistów.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych prac z werdyktu jury, dyplomy i miejsce na wystawie.</p>
+</article>
+<article>
+<h3>Siedem wyróżnień</h3>
+<p>Dla pozostałych finalistów: dyplom i miejsce na wystawie towarzyszącej gali. Z wyróżnieniem nie wiąże się nagroda pieniężna.</p>
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>

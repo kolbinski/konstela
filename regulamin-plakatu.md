@@ -206,6 +206,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    a) nagrody pieniężne dla trzech najwyżej ocenionych prac;
 
+   a1) **siedem wyróżnień** dla pozostałych finalistów. Wyróżnienie obejmuje dyplom oraz pokazanie pracy na wystawie towarzyszącej gali (§ 10 ust. 1); **z wyróżnieniem nie wiąże się nagroda pieniężna**;
+
    b) nagroda publiczności;
 
    c) **medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów;

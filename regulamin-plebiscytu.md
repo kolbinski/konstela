@@ -248,6 +248,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    a) nagrody pieniężne dla trzech najwyżej ocenionych utworów;
 
+   a1) **siedem wyróżnień** dla pozostałych finalistów. Wyróżnienie obejmuje dyplom oraz nagranie studyjne, o którym mowa w § 13; **z wyróżnieniem nie wiąże się nagroda pieniężna**;
+
    b) dwie nagrody publiczności, o których mowa w § 11 ust. 1;
 
    c) **medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów. Medal jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;

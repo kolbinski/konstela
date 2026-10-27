@@ -12,7 +12,7 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 
 **W skrócie:**
 
-- **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione utwory, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
+- **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione utwory, pozostali finaliści **siedem wyróżnień**, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
 - **zespoły i duety są jak najbardziej mile widziane** - „własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa
 - szczególnie zapraszamy **twórców rozwijających własną działalność artystyczną** - tych, którzy grają, śpiewają i piszą po swojemu; nie pytamy o zasięgi, o dorobek ani o to, czy masz kontrakt
 - zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą
@@ -175,11 +175,15 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Nagroda pieniężna, medal i dyplom.</p>
+<p>Nagroda pieniężna, medal, dyplom i nagranie studyjne.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury oraz dyplomy.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury, dyplomy i nagranie studyjne.</p>
+</article>
+<article>
+<h3>Siedem wyróżnień</h3>
+<p>Dla pozostałych finalistów: dyplom i nagranie studyjne na koszt organizatora. Z wyróżnieniem nie wiąże się nagroda pieniężna.</p>
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
