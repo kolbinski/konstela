@@ -158,6 +158,7 @@ const OPISY = {
 const OBRAZEK_DOMYSLNY = '/assets/og.png';
 const OBRAZKI = {
   'plebiscyt-rozmowy': '/assets/rozmowa.jpg',
+  'plebiscyt-filmu': '/assets/film.jpg',
 };
 
 /* Znacznik zasobów ma rozróżniać kolejne budowania tego samego dnia. Sama
