@@ -95,7 +95,7 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - b
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
-Razem maksymalnie 100 punktów. **To jest projekt - ostateczne brzmienie i wagi uzgadniamy z jury przed otwarciem naboru, a po jego otwarciu nic się w nich nie zmienia.**
+**To jest projekt - ostateczne brzmienie i wagi uzgadniamy z jury przed otwarciem naboru, a po jego otwarciu nic się w nich nie zmienia.**
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
@@ -104,6 +104,8 @@ Razem maksymalnie 100 punktów. **To jest projekt - ostateczne brzmienie i wagi 
 | Wykonanie | od 0 do 20 | Świadome użycie techniki, koloru i rysunku |
 | Działanie&nbsp;plakatu | od 0 do 20 | Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym |
 
+**Razem maksymalnie 100 punktów.**
+
 Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie tematu to „co mówisz", pomysł plastyczny to „jak to pokazujesz"**. Można mieć trafną myśl i rozwiązać ją nijak, albo olśniewająco pokazać coś, co nic nie wnosi. Wykonanie waży mniej celowo: nie szukamy najlepszego warsztatu, tylko najlepszego plakatu.
 
 **Znany motyw nie jest wadą.** Robot, oko, sieć połączeń - wszystkiego tego wolno użyć i da się użyć znakomicie. Niżej punktowane jest użycie banalne, a nie sam motyw.
@@ -111,6 +113,8 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 **Czego nie oceniamy: Twojego dorobku, wykształcenia ani tego, czy ktoś Cię już wystawiał.**
 
 **Jak liczymy wynik.** Punkty zgłoszenia to średnia ocen oceniających, którzy je oglądali; liczbę oceniających na jedno zgłoszenie podajemy przed otwarciem naboru. Jeżeli ktoś z jury wyłącza się od oceny Twojej pracy, bo Cię zna, jego ocena nie jest brana pod uwagę.
+
+Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
 ## <!--ikona:jury--><span>Jury i tryb oceny</span>
 

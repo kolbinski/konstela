@@ -115,9 +115,9 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 **Razem maksymalnie 100 punktów.**
 
-[Karta oceny](/dokument/regulamin-filmu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
-
 **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą ocen, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
+
+Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta oceny](/dokument/regulamin-filmu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
 ## <!--ikona:uczestnik--><span>Kto ocenia</span>
 
@@ -224,8 +224,6 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć,
 <div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca z werdyktu jury</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
-
-Pełne zasady są w [regulaminie](/dokument/regulamin-filmu) wraz z [kartą oceny](/dokument/regulamin-filmu#karta-oceny).
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 

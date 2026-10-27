@@ -92,7 +92,7 @@ Narzędzi opartych na AI wolno też używać **na etapie produkcji i obróbki**:
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
-Razem maksymalnie 100 punktów. **Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
+**Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
@@ -100,13 +100,16 @@ Razem maksymalnie 100 punktów. **Wagi podaje regulamin i po otwarciu naboru ju�
 | Tekst | od 0 do 30 | Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką |
 | Muzyka | od 0 do 25 | Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w głowie |
 | Wykonanie | od 0 do 20 | Wokal i interpretacja |
-| **Razem** | **maksymalnie 100** | |
+
+**Razem maksymalnie 100 punktów.**
 
 Tekst ma najwyższą wagę, bo to plebiscyt, w którym oceniamy również pisanie. W kryterium Wykonanie oceniamy wokal i interpretację w zakresie, w jakim słychać je w czytelnym demie; jakość produkcji nie wpływa na punktację w żadnym kryterium.
 
 **Jak liczymy wynik.** Punkty zgłoszenia to średnia ocen oceniających, którzy go słuchali; liczbę oceniających na jedno zgłoszenie podajemy przed otwarciem naboru. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce.
 
 **Czego nie oceniamy: okładki, jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
+
+Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [karta oceny](/dokument/regulamin-plebiscytu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
 ## <!--ikona:jury--><span>Jury i tryb oceny</span>
 

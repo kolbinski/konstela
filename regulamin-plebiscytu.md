@@ -166,6 +166,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 9. Kryteria oceny
 
+<span id="karta-oceny"></span>
+
 1. Zgłoszenia ocenia się według czterech kryteriów, **łącznie do 100 punktów, w podziale wskazanym w tabeli**:
 
 | Kryterium | Punkty | Zakres |

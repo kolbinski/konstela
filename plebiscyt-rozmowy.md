@@ -89,11 +89,11 @@ Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To 
 </article>
 </div>
 
-**Jak to wygląda w praktyce.** „Streść mi tę książkę" to pytanie, po którym zostaje streszczenie. „Czy autor nie zaprzecza sobie w rozdziale o pamięci, skoro wcześniej pisał, że wspomnienia są rekonstrukcją?" to pytanie, po którym zostaje wątek - i miejsce, w którym można drążyć dalej. Nie szukamy jednak wzorca: równie dobrze punktuje rozmowa o naprawie pralki, jeżeli widać w niej, że ktoś sprawdzał, wracał i doszedł do czegoś, czego nie wiedział na wejściu.
-
 **Razem maksymalnie 100 punktów.**
 
-[Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
+**Jak to wygląda w praktyce.** „Streść mi tę książkę" to pytanie, po którym zostaje streszczenie. „Czy autor nie zaprzecza sobie w rozdziale o pamięci, skoro wcześniej pisał, że wspomnienia są rekonstrukcją?" to pytanie, po którym zostaje wątek - i miejsce, w którym można drążyć dalej. Nie szukamy jednak wzorca: równie dobrze punktuje rozmowa o naprawie pralki, jeżeli widać w niej, że ktoś sprawdzał, wracał i doszedł do czegoś, czego nie wiedział na wejściu.
+
+Wszystkie szczegóły określa [regulamin](/dokument/regulamin-rozmowy), a [karta oceny](/dokument/regulamin-rozmowy#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
 <h2 id="kto-ocenia"><!--ikona:jury--><span>Kto ocenia</span></h2>
 
@@ -220,8 +220,6 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <div><dt>29 lutego 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
 </dl>
-
-Pełne zasady są w [regulaminie](/dokument/regulamin-rozmowy) wraz z [kartą oceny](/dokument/regulamin-rozmowy#karta-oceny).
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
