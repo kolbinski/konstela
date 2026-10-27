@@ -518,7 +518,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
    a1) **uzasadnienie jest publikowane przy zgłoszeniu, na które oddano głos, za zgodą osoby głosującej.** Zgoda jest nieobowiązkowa i można ją wycofać; jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Publikowane uzasadnienia podpisywane są imieniem albo pseudonimem wskazanym przez osobę głosującą i podlegają [procedurze moderacji](/dokument/procedura-moderacji) na tych samych zasadach co zgłoszenia;
 
-   b) spośród uzasadnień przyznawana jest odrębna, wyraźnie nazwana **nagroda za najlepsze uzasadnienie wyboru**; jej wysokość ogłaszana jest razem z pozostałymi nagrodami;
+   b) spośród uzasadnień przyznawana jest odrębna, wyraźnie nazwana **Nagroda dla publicznych ocen zgłoszonych rozmów**; jej wysokość ogłaszana jest razem z pozostałymi nagrodami;
 
    c) uzasadnienia ocenia **trzyosobowy zespół powołany przez Organizatora spoza jury**, którego skład Organizator ogłasza przed rozpoczęciem głosowania;
 

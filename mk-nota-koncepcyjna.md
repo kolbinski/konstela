@@ -236,7 +236,7 @@ Rozdzielenie to jest celowe i wynika wprost z tezy przedsięwzięcia. Konkurs o 
 |---|---|
 | Nagrody w plebiscycie: 20 tys. zł, 10 tys. zł, 5 tys. zł | 35 000 zł |
 | Nagroda publiczności dla wykonawcy | 3 000 zł |
-| Nagroda za najlepsze uzasadnienie wyboru | 1 000 zł |
+| Nagroda dla publicznych ocen zgłoszonych piosenek | 1 000 zł |
 | Profesjonalne nagranie studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Nagranie hymnu „Zapytaj inaczej" przez jurorów, wraz z teledyskiem | 60 000 - 100 000 zł |
 | Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
@@ -283,7 +283,7 @@ Cztery uwagi do tego kosztorysu, powiedziane wprost.
 | Pozycja | Kwota |
 |---|---|
 | Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
-| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł za najlepsze uzasadnienie wyboru | 4 000 zł |
+| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł jako nagroda dla publicznych ocen zgłoszeń | 4 000 zł |
 | Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Transport oryginałów dziesiątki finalistów w obie strony | 8 000 zł |
@@ -329,7 +329,7 @@ Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**, w do
 | Pozycja | Kwota |
 |---|---|
 | Nagrody dla trzech najwyżej ocenionych filmów: 100 tys. zł, 50 tys. zł, 30 tys. zł | 180 000 zł |
-| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł za najlepsze uzasadnienie wyboru | 4 000 zł |
+| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł jako nagroda dla publicznych ocen zgłoszeń | 4 000 zł |
 | Medal zwycięzcy i dyplomy dziesięciu finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, prowadzenie Projektorni, dotarcie do szkół filmowych i festiwali - razem 290 godzin | 63 800 zł |

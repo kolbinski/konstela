@@ -193,7 +193,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 
 ## <!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych piosenek</span>
 
-**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, przy samym głosie. Dwieście znaków to dwa, trzy zdania. Bez uzasadnienia głos nie zostaje oddany: głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową, a przy okazji trudno w ten sposób oddać tysiąc głosów z jednej piwnicy.
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
 **Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na którą głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 

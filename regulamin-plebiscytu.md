@@ -216,7 +216,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    a) nagroda dla Uczestnika, którego zgłoszenie otrzymało największą liczbę głosów;
 
-   b) nagroda dla osoby głosującej, która najlepiej uzasadniła swój wybór.
+   b) **Nagroda dla publicznych ocen zgłoszonych piosenek** - dla osoby głosującej, która najlepiej uzasadniła swój wybór.
 
 2. Nagroda, o której mowa w ust. 1 lit. b, przyznawana jest w drodze oceny uzasadnień, na następujących zasadach:
 
@@ -409,7 +409,7 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
 14. **§ 15 ust. 5 zdanie drugie** - wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
 15. **§ 5 ust. 6 i 6a** - wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
-15a. **§ 11 ust. 2** - plebiscyt na uzasadnienie wyboru jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
+15a. **§ 11 ust. 2** - Nagroda dla publicznych ocen zgłoszonych piosenek jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
 16. **§ 16 ust. 5** - żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
 17. **§ 17 ust. 1** - progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
 18. **§ 19 ust. 2-3** - przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
