@@ -69,7 +69,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów p
 Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):
 
 - utwór trwa **od 3 do 6 minut**
-- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i jury musi go rozumieć
+- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i każda osoba w akademii i jury musi go rozumieć
 - utwór **nie był wcześniej wydany komercyjnie** - publikacja na własnym kanale wydaniem nie jest i niczego nie blokuje, chodzi o rzeczy wydane przez wydawcę albo dystrybutora
 - nagranie pod linkiem **jest dostępne przez cały czas trwania oceny i niezmienione od dnia zamknięcia naboru** - do tego dnia możesz je poprawić, zgłaszając nam to, a oceniamy wersję ostateczną
 - **okładka jest dołączona** i masz do niej prawa
