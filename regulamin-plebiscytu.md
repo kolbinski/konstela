@@ -46,7 +46,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4. W plebiscycie nie mogą brać udziału:
 
-   a) członkowie jury plebiscytu, a także członkowie akademii plebiscytu, jeżeli zostanie powołana - ani jako zgłaszający, ani jako współautorzy lub wykonawcy w cudzym zgłoszeniu;
+   a) członkowie jury plebiscytu, a także członkowie akademii plebiscytu - ani jako zgłaszający, ani jako współautorzy lub wykonawcy w cudzym zgłoszeniu;
 
    b) członkowie organów Organizatora oraz osoby, które brały udział w przygotowaniu plebiscytu po stronie Organizatora.
 
@@ -198,11 +198,11 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Honorarium za ocenę jest odrębne od ewentualnego honorarium za udział w nagraniu hymnu i za wykonanie na gali.
 
-4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły weryfikację formalną, albo spośród listy zakwalifikowanej przez akademię plebiscytu (ust. 5) - zależnie od trybu ogłoszonego przed otwarciem naboru - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
+4. Jury wybiera **dziesięciu finalistów** spośród listy przekazanej przez akademię plebiscytu (ust. 5), a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
 
-5. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza akademia plebiscytu - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
+5. **Pierwsze przejście oceny przeprowadza akademia plebiscytu, powoływana w każdej edycji** - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
 
-6. Próg powołania akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
+6. Liczebność akademii, liczbę oceniających przypadających na jedno zgłoszenie, długość listy przekazywanej jury oraz sposób jej powstawania Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
 
 6a. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże na okładce zgłoszenia (§ 5 ust. 3 lit. c) podobiznę rozpoznawalnej osoby trzeciej albo przejęty cudzy obraz, znak lub postać. Zakres oznaczania jest w tym plebiscycie węższy niż w pozostałych, ponieważ Organizator nie publikuje nagrań: Słuchalnia prezentuje okładkę, podpis i link do nagrania pozostającego na kanale Uczestnika. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Słuchalni; rozstrzyga Organizator, w trybie z § 16 ust. 1a. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny. Oznaczenie nietrafne nie pozostawia publicznego śladu.
 
