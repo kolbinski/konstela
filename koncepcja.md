@@ -842,6 +842,8 @@ Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie r
 
 **Dlaczego w podcaście, a nie jako osobny dokument.** Nie wymaga nowego bytu, nowego budżetu ani nowego sponsora, a podcast dostaje format powtarzalny dwadzieścia razy. Prowadzi go autorytet, nie Organizator - zgodnie z zasadą zapisaną wyżej.
 
+**Zasada przy odcinkach z nastolatkami (decyzja z 27.10.2026).** Odcinki z osobami niepełnoletnimi powstają wyłącznie za pisemną zgodą opiekuna prawnego, z możliwością jej wycofania przed publikacją; zgłoszenia nastolatków przyjmujemy od opiekunów, nie od nich samych. Zasada zdjęta ze strony plebiscytu, żeby nie obciążać opisu cyklu, ale obowiązuje i wraca do materiałów dla gości podcastu.
+
 ### Odłożone na drugą edycję albo dalej
 
 - **Pojedynek pytań na gali** - dwie osoby, ta sama AI, ten sam problem przyniesiony przez kogoś z sali, limit dwunastu pytań z licznikiem na ekranie, na dużym ekranie wyłącznie pytania człowieka. Komentarz w duecie, jak w sporcie: jeden od tempa, drugi to juror tłumaczący, co się przed chwilą stało. Miejsce tego pomysłu jest w teczce gali i tam ma swój budżet.
