@@ -145,7 +145,7 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - b
 
 Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie tematu to „co mówisz", pomysł plastyczny to „jak to pokazujesz"**. Można mieć trafną myśl i rozwiązać ją nijak, albo olśniewająco pokazać coś, co nic nie wnosi. Wykonanie waży mniej celowo: nie szukamy najlepszego warsztatu, tylko najlepszego plakatu.
 
-**Znany motyw nie jest wadą.** Robot, oko, sieć połączeń - wszystkiego tego wolno użyć i da się użyć znakomicie. Niżej punktowane jest użycie banalne, a nie sam motyw.
+**Znany motyw nie jest wadą.** Robot, oko, sieć połączeń - wszystkiego tego wolno użyć i da się użyć znakomicie. Ocenę obniża dopiero rozwiązanie ograne: motyw użyty tak, jak widzieliśmy go już sto razy.
 
 **Czego nie oceniamy: Twojego dorobku, wykształcenia ani tego, czy ktoś Cię już wystawiał.**
 
