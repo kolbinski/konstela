@@ -157,7 +157,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 **Próg jest jawny.** Podajemy go na stronie i przy otwarciu zgłoszeń. Wcześniejsze ukrywanie go, żeby partner nie zobaczył ryzyka niepowodzenia, było słabym uzasadnieniem: partner i tak je policzy, a uczestnik ma prawo wiedzieć, na jakich warunkach startuje.
 
-**Nagrody fizyczne - nieogłaszane na stronie.** Mosiężny medal z pieczęcią (grawer laserowy, ~150-250 zł) dla laureata, wręczany osobiście; tłoczone dyplomy dla całej dziesiątki, wysyłane pocztą. Pojawiają się publicznie dopiero jako materiał zdjęciowy po wręczeniu. Niezapowiedziany przedmiot działa jak prezent, zapowiedziany - jak pozycja, którą można porównać z ceną. Pieczęć ze strony jest w SVG, więc idzie do grawera bez przerysowywania.
+**Nagrody fizyczne - nieogłaszane na stronie.** Mosiężny medal z pieczęcią (grawer laserowy, ~150-250 zł) dla laureata, wręczany osobiście; dyplomy dla całej dziesiątki, wysyłane pocztą. Pojawiają się publicznie dopiero jako materiał zdjęciowy po wręczeniu. Niezapowiedziany przedmiot działa jak prezent, zapowiedziany - jak pozycja, którą można porównać z ceną. Pieczęć ze strony jest w SVG, więc idzie do grawera bez przerysowywania.
 
 **Do ustalenia z księgowym przed ogłoszeniem:**
 

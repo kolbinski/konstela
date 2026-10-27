@@ -11,7 +11,7 @@ Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 - **Trzy najwyżej ocenione utwory plebiscytu wykonywane na żywo**, nie wszystkie zgłoszenia ([plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia), [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 5).
 - **Hymn „Zapytaj inaczej" dwa razy: na rozpoczęcie i na zakończenie.** *Wariant roboczy przyjęty do wyceny: nagranie powstaje u zaproszonych wykonawców, a na gali utwór wykonuje skład jury. Obsada nie jest rozstrzygnięta (stan na 27.10.2026) i publicznie jej nie zapowiadamy.* Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
-- **Wręczenia:** nagroda główna, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień; medal dla laureata, tłoczone dyplomy dla całej dziesiątki.
+- **Wręczenia:** nagroda główna, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień; medal dla laureata, dyplomy dla całej dziesiątki.
 - **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu jury.
 - **Nagroda publiczności w plebiscycie** dla wykonawcy oraz nagroda za najlepsze uzasadnienie wyboru.
 - **Wystąpienia sponsorów.** Uwaga Piotra, słuszna: fundator i partner wydawniczy będą musieli powiedzieć, po co to robią. Lepiej zaplanować im na to miejsce, niż pozwolić, by zajęli je sami.

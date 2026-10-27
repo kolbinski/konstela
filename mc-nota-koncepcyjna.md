@@ -114,7 +114,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł oraz siedem wyróżnień po 10 tys. zł**, czyli pula 395 tys. zł. Uzasadnienie kwoty w punkcie 9.
 
-**Fizyczne:** medal z pieczęcią konkursu, grawerowany, wręczany osobiście laureatowi; tłoczone dyplomy dla całej dziesiątki finalistów.
+**Fizyczne:** medal z pieczęcią konkursu, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów.
 
 **Trwały produkt:** antologia i archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego konkurs w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w archiwum. Uczestnik może wycofać swoje zgłoszenie z konkursu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść antologii jest już zamknięta, wycofanie nie jest możliwe.
 

@@ -144,7 +144,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł oraz siedem wyróżnień po 10 tys. zł**, czyli pula 395 tys. zł. Uzasadnienie kwoty w punkcie 9.
 
-**Fizyczne:** medal z pieczęcią Nagrody, grawerowany, wręczany osobiście laureatowi; tłoczone dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
+**Fizyczne:** medal z pieczęcią Nagrody, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
 Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach 10, 10a i 10c; nie wchodzą do puli 395 tys. zł i nie są z niej finansowane.
 
