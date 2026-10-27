@@ -91,7 +91,9 @@ Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To 
 
 **Jak to wygląda w praktyce.** „Streść mi tę książkę" to pytanie, po którym zostaje streszczenie. „Czy autor nie zaprzecza sobie w rozdziale o pamięci, skoro wcześniej pisał, że wspomnienia są rekonstrukcją?" to pytanie, po którym zostaje wątek - i miejsce, w którym można drążyć dalej. Nie szukamy jednak wzorca: równie dobrze punktuje rozmowa o naprawie pralki, jeżeli widać w niej, że ktoś sprawdzał, wracał i doszedł do czegoś, czego nie wiedział na wejściu.
 
-**Każde kryterium ma 25 punktów, razem 100.** [Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każde pasmo punktowe w każdym kryterium.
+**Razem maksymalnie 100 punktów.**
+
+[Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
 <h2 id="kto-ocenia"><!--ikona:jury--><span>Kto ocenia</span></h2>
 

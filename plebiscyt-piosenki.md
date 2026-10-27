@@ -92,7 +92,7 @@ Narzędzi opartych na AI wolno też używać **na etapie produkcji i obróbki**:
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
-Cztery kryteria, łącznie do 100 punktów. **Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
+Razem maksymalnie 100 punktów. **Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
@@ -100,7 +100,7 @@ Cztery kryteria, łącznie do 100 punktów. **Wagi podaje regulamin i po otwarci
 | Tekst | od 0 do 30 | Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką |
 | Muzyka | od 0 do 25 | Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w głowie |
 | Wykonanie | od 0 do 20 | Wokal i interpretacja |
-| **Razem** | **100** | |
+| **Razem** | **maksymalnie 100** | |
 
 Tekst ma najwyższą wagę, bo to plebiscyt, w którym oceniamy również pisanie. W kryterium Wykonanie oceniamy wokal i interpretację w zakresie, w jakim słychać je w czytelnym demie; jakość produkcji nie wpływa na punktację w żadnym kryterium.
 

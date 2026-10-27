@@ -101,7 +101,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 <article>
 <h3>Forma - od 0 do 30 punktów</h3>
-<p><strong>Jak to pokazuje</strong>: montaż, obraz, dźwięk, rytm i wykorzystanie czasu, który sobie wziąłeś.</p>
+<p><strong>Jak to pokazuje</strong>: montaż, obraz, dźwięk, rytm i wykorzystanie czasu, który sobie przyjąłeś.</p>
 </article>
 <article>
 <h3>Rzetelność - od 0 do 20 punktów</h3>
@@ -109,11 +109,15 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 <article>
 <h3>Siła oddziaływania - od 0 do 20 punktów</h3>
-<p>Czy film zostawia wyraźną myśl, obraz albo emocję - coś, co po obejrzeniu potrafisz nazwać.</p>
+<p>Czy film zostawia w widzu wyraźną myśl, obraz albo emocję - coś, co po obejrzeniu potrafisz nazwać.</p>
 </article>
 </div>
 
-**Razem 100 punktów.** [Karta oceny](/dokument/regulamin-filmu#karta-oceny) w § 7 regulaminu mówi słownie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
+**Razem maksymalnie 100 punktów.**
+
+[Karta oceny](/dokument/regulamin-filmu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
+
+**Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą ocen, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
 
 ## <!--ikona:uczestnik--><span>Kto ocenia</span>
 

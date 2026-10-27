@@ -95,7 +95,7 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - b
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
-Cztery kryteria, łącznie do 100 punktów. **To jest projekt - ostateczne brzmienie i wagi uzgadniamy z jury przed otwarciem naboru, a po jego otwarciu nic się w nich nie zmienia.**
+Razem maksymalnie 100 punktów. **To jest projekt - ostateczne brzmienie i wagi uzgadniamy z jury przed otwarciem naboru, a po jego otwarciu nic się w nich nie zmienia.**
 
 | Kryterium | Punkty | Co znaczy |
 |---|---:|---|
