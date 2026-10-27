@@ -5,7 +5,7 @@
 
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
-Konkurs na **rozmowę z AI, w której człowiek doszedł do czegoś, czego nie wiedział na wejściu** - i co da się nazwać. Nagradzany jest człowiek, nie program, bo oceniane są pytania, a nie odpowiedzi.
+Konkurs na **rozmowę z AI, po której zostaje coś więcej niż odpowiedź** - i co da się nazwać. Nagradzany jest człowiek, nie program, bo oceniane są pytania, a nie odpowiedzi.
 
 Zgłaszasz rozmowę, którą sam odbyłeś: dowolną, byle dało się ją udostępnić pod linkiem, i po której coś zrozumiałeś inaczej niż przedtem. Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i kilka zdań o tym, co w tej rozmowie odkryłeś.
 
