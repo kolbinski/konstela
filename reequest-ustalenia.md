@@ -22,7 +22,7 @@ Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden 
 
 **Plebiscyt na piosenkę.** Otwarty konkurs na własny utwór o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie; zespoły i duety dopuszczone, ze wskazaniem reprezentanta składu. Adresat: wykonawcy półprofesjonalni. **Zgłasza się czytelne demo**, nie gotowy singiel, żeby koszt studia nie decydował o tym, kto weźmie udział; zgłoszeniem jest link do YouTube. Jedno zgłoszenie na osobę.
 
-Zwycięzcę wybiera jury pod przewodnictwem **Michała Sołtana**, nie głosowanie. **Karta oceny jest jawna od początku**: ujęcie tematu 25, tekst 30, muzyka 25, wykonanie 20 punktów, z wyraźnym zastrzeżeniem, że nie oceniamy jakości produkcji, zasięgów ani wcześniejszego dorobku.
+Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od początku**: ujęcie tematu 25, tekst 30, muzyka 25, wykonanie 20 punktów, z wyraźnym zastrzeżeniem, że nie oceniamy jakości produkcji, zasięgów ani wcześniejszego dorobku.
 
 **Reguła wobec AI (brzmienie z 24.10.2026, godz. 18).** Melodia, harmonia i wokal muszą być własne - nie wolno zgłosić melodii przejętej z wygenerowanego nagrania, wolno natomiast szukać w generatorze klimatu i pomysłów przed napisaniem własnej. Tekst wolno napisać z AI, z opisem przy zgłoszeniu, jak powstał; o proporcje nie pytamy. Narzędzia na etapie produkcji i obróbki wolno stosować z deklaracją. **To jest treść komunikacyjna, nie tylko zapis regulaminowy:** konkurs nie żąda abstynencji od AI, tylko jawności co do tego, gdzie jej użyto - i hymn Nagrody deklaruje to samo co zgłaszający. Hasłem, które z tego wynika, warto zająć się na warsztatach.
 

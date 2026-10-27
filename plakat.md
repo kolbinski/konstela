@@ -26,7 +26,7 @@ Ta sama konstrukcja co przy wszystkich dzisiejszych kontaktach. **Nie prosimy ar
 
 ## Kolejność
 
-1. Potwierdzenie roli Michała Sołtana jako przewodniczącego jury (czeka na odpowiedź).
+1. Potwierdzenie udziału Michała Sołtana w jury (czeka na odpowiedź).
 2. Prośba do niego o przedstawienie - dopiero po tym potwierdzeniu, żeby nie piętrzyć próśb w jednej wiadomości.
 3. Rozmowa z Rafałem Olbińskim: plakat, honorarium, zastrzeżenie o sponsorze.
 4. Dopiero później, jeżeli plakat powstanie: ilustracje do antologii i licytacja.

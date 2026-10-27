@@ -76,7 +76,7 @@ Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzy
 
 1. **Miejsce i miasto.** Warszawa jest oczywista dla mediów i sponsorów, ale nie jest jedyną opcją.
 2. **Kto prowadzi.** Prowadzący zawodowy czy organizator. Przy programie liczonym na sto minut bez zapasu to jest decyzja o tym, czy gala się nie rozjedzie.
-3. **Kto wręcza nagrodę główną.** Fundator, patron honorowy, przewodniczący jury.
+3. **Kto wręcza nagrodę główną.** Fundator, patron honorowy albo osoba wskazana przez jury.
 4. **Czy laureat zna wynik przed galą.** Od tego zależy, czy jest napięcie, i czy laureat nie dowiaduje się o wygranej na scenie bez przygotowania.
 5. **Publiczność:** zaproszenia, wstęp wolny, rejestracja. Kto poza laureatami, jurorami i sponsorami.
 6. **Dostępność:** napisy w zapisie wideo, dostępność miejsca dla osób z niepełnosprawnościami.

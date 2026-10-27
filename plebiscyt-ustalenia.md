@@ -34,7 +34,7 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 
 ## Michał Sołtan
 
-Przechodzi z roli kandydata na wykonawcę do roli **przewodniczącego jury plebiscytu**. Korzystna zamiana: jako juror daje wiarygodność i kontakty, jako wykonawca kosztowałby 7-12 tys. zł. Konsekwencja do zapisania w regulaminie plebiscytu, analogicznie do § 3 ust. 5c regulaminu Nagrody: **członek jury nie może zgłosić własnej wersji**. Powiedzieć mu to wprost przed potwierdzeniem roli.
+Przechodzi z roli kandydata na wykonawcę do roli **jurora plebiscytu**. Korzystna zamiana: jako juror daje wiarygodność i kontakty, jako wykonawca kosztowałby 7-12 tys. zł. Konsekwencja do zapisania w regulaminie plebiscytu, analogicznie do § 3 ust. 5c regulaminu Nagrody: **członek jury nie może zgłosić własnej wersji**. Powiedzieć mu to wprost przed potwierdzeniem roli.
 
 ## Czego jeszcze nie ma i co blokuje ogłoszenie
 
@@ -168,9 +168,9 @@ Rozstrzygnięte 24.10.2026, po korekcie wcześniejszej decyzji z tego samego dni
 
 ## Kandydaci do jury
 
-Lista otwarta. Jury jest płatne za ocenę, przewodniczy mu Michał Sołtan, a skład wybierają Organizator i Sołtan.
+Lista otwarta. Jury jest płatne za ocenę, a skład wybierają Organizator i Michał Sołtan. **Przewodniczącego wskazujemy dopiero po skompletowaniu składu** (decyzja z 27.10.2026), więc nigdzie nie piszemy, kto nim będzie.
 
-- **Michał Sołtan** - przewodniczący, zgoda ustna, czeka na potwierdzenie na piśmie.
+- **Michał Sołtan** - zgoda ustna na udział, czeka na potwierdzenie na piśmie.
 - **Grzegorz Markowski** - zgłoszony 24.10.2026. Uzasadnienie: jury oceniające piosenki o sztucznej inteligencji potrzebuje kogoś, kto patrzy na to z drugiego końca epoki, a chodzi o generację, która dostała nowe narzędzie w połowie życia. Sołtan daje warsztat i dzisiejszą scenę, Markowski ciężar i dystans. **Droga kontaktu: przez Perfekt, nie na zimno** - w [piosenkarze-lista](/dokument/piosenkarze-lista) jest już Łukasz Drapała, który śpiewa w Perfekcie od lat, więc to są dwa stopnie, nie sześć. Markowski od kilku lat jest wycofany ze scenicznej działalności, więc wejście przez kogoś z zespołu jest jedyną drogą, która ma sens.
 
 **Lista wykonawców do przekwalifikowania.** `piosenkarze-lista.md` powstała, gdy szukaliśmy kogoś do nagrania jednej piosenki na zamówienie. Po przejściu na plebiscyt te nazwiska dzielą się na dwie grupy: artyści o ustalonej pozycji są **kandydatami do jury**, a wykonawcy półprofesjonalni są **adresatami zaproszenia do zgłoszeń**. Plik trzeba przepisać pod tym kątem, bo dziś miesza jedno z drugim.
