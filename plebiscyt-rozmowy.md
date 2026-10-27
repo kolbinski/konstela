@@ -150,11 +150,11 @@ W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytanie
 
 ### Archiwum
 
-Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, jury i publiczność.
+Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy AI - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, jury i publiczność.
 
 ### Jawność punktacji
 
-**Jawność punktacji dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału ogłaszanym przed naborem. Mówimy o tym wprost, bo trwale widoczna niska ocena jest realnym kosztem: dlatego zasada jest ogłoszona zawczasu, a nie wprowadzona w trakcie, a furtką pozostaje pseudonim.
+**Jawność ocen zgłoszonych rozmów - wystawionych przez akademię, jury i publiczność - dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podanie pseudonimu w zgłoszeniu.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojej rozmowy</span>
 
