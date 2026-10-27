@@ -128,6 +128,10 @@ Drugi argument nie znika przy żadnej liczbie zgłoszeń i jest poważniejszy. J
 
 **Rozstrzygnięte 27.10.2026: akademia piosenki działa od pierwszej edycji, bezwarunkowo.** Ta sama konstrukcja co w plebiscycie filmu i w plebiscycie rozmowy, i z tego samego powodu: próg powołania „jeżeli zgłoszeń będzie dużo" oznacza, że przed naborem nie da się powiedzieć uczestnikowi, kto będzie go oceniał, ani wycenić pozycji w budżecie - a Budżet Akademii obejmuje pierwszą rundę oceny we wszystkich kategoriach. Zastrzeżenie ustrojowe z poprzedniego akapitu zostaje rozwiązane tak, jak przy pozostałych plebiscytach: **akademia ocenia tą samą jawną kartą oceny co jury**, nie własną, więc jury nie dostaje materiału przesianego przez cudzy gust, lecz przez te same kryteria. Regulamin: § 11 ust. 4-6. Od tej chwili strona plebiscytu i Kontakt rekrutują do akademii wprost.
 
+### akademia plakatu - rozstrzygnięte 27.10.2026
+
+**Akademia plakatu działa od pierwszej edycji, bezwarunkowo**, tak samo jak akademia rozmowy, filmu i piosenki. Próg powołania zniknął z regulaminu (§ 8 ust. 4, 4f i 4g) i ze strony. Powody te same co przy piosence: przy progu nie da się przed naborem powiedzieć uczestnikowi, kto będzie go oceniał, ani wycenić pozycji w kosztorysie, a Budżet Akademii obejmuje pierwszą rundę oceny we wszystkich kategoriach. Dodatkowy powód właściwy dla plakatu: od 27.10.2026 Archiwum pokazuje oceny akademii, jury i publiczności przy każdym zgłoszeniu, więc akademia, która mogłaby nie powstać, zostawiałaby w Archiwum pustą kolumnę.
+
 ## Ścieżki finansowania do sprawdzenia
 
 - **Ministerstwo Kultury i Dziedzictwa Narodowego** - programy wsparcia dla przedsięwzięć kulturalnych; sprawdzić nabory i terminy, bo są roczne i sztywne.
