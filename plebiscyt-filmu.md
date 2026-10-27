@@ -1,5 +1,7 @@
 # Plebiscyt na film o sztucznej inteligencji
 
+<p class="edition">Edycja pierwsza &middot; 2027</p>
+
 <img src="/assets/film.jpg" srcset="/assets/film-800.jpg 800w, /assets/film.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji.">
 
 <!--ikona:rozdzielacz-->
