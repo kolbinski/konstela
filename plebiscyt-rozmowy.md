@@ -87,7 +87,13 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 **Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia.** Zgłaszając rozmowę, godzisz się na to, że może ona trafić do czytania przez grupy uczniowskie, w tym przez osoby niepełnoletnie - tak samo, jak godzisz się na przeczytanie jej przez Kapitułę i Akademię. Nie wskazujesz, komu Twoja rozmowa ma być przedstawiona do oceny. Zasady są w regulaminie (§ 8 ust. 2a i § 9 ust. 9), a szkoły zainteresowane zgłoszeniem grupy mogą napisać już teraz.
 
-## <!--ikona:puchar--><span>Nagrody</span>
+## <!--ikona:zespol--><span>Nagroda Publiczności</span>
+
+**Wybierana w otwartym głosowaniu**, jeden głos na numer telefonu. Głosowanie otwiera się dopiero po zamknięciu naboru, żeby każda rozmowa miała tyle samo czasu na zbieranie głosów, a liczniki pozostają ukryte do ogłoszenia wyniku na gali.
+
+Nagroda Publiczności i Nagroda Uczniowska są **niezależne od werdyktu Kapituły**. Wyniki wszystkich trzech ogłaszamy na tej samej gali rozdania nagród i mogą wskazać trzy różne rozmowy.
+
+## <!--ikona:puchar--><span>Nagrody Kapituły</span>
 
 **Nagroda główna i dziewięć wyróżnień.** Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć.
 
@@ -95,9 +101,6 @@ Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzy
 
 **Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem Kapituły wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
-Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne** - Uczniowska, opisana wyżej, oraz Publiczności. Wyniki wszystkich trzech ogłaszamy na tej samej gali rozdania nagród i mogą wskazać trzy różne rozmowy.
-
-**Nagroda Publiczności.** Wybierana w otwartym głosowaniu, jeden głos na numer telefonu, otwieranym dopiero po zamknięciu naboru - żeby każda rozmowa miała tyle samo czasu na zbieranie głosów. Liczniki pozostają ukryte do ogłoszenia wyniku na gali.
 
 ## <!--ikona:sluchalnia--><span>Czytelnia i archiwum</span>
 

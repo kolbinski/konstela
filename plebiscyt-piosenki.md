@@ -100,13 +100,16 @@ Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitar
 
 **Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Gdyby jednak zgłoszeń było tyle, że nie da się tego zrobić rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury. Czy Akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy przed otwarciem naboru**, nie po nim.
 
-## <!--ikona:puchar--><span>Nagrody</span>
+## <!--ikona:zespol--><span>Nagroda Publiczności</span>
 
-**Nagrody pieniężne dla trzech najwyżej ocenionych utworów** oraz dwie nagrody publiczności. Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
-
-**Nagroda publiczności.** Przyznawana osobno od werdyktu jury i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. **Głosowanie otwiera się dzień po zamknięciu naboru i trwa do gali**, żeby każde zgłoszenie miało tyle samo czasu na zebranie głosów. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS.
+**Przyznawana osobno od werdyktu jury** i wyraźnie nazwana, żeby jedno nie mieszało się z drugim. Są dwie: dla utworu z największą liczbą głosów oraz dla głosującego, który najlepiej uzasadni swój wybór. **Głosowanie otwiera się dzień po zamknięciu naboru i trwa do gali**, żeby każde zgłoszenie miało tyle samo czasu na zebranie głosów. Głosuje się raz na numer telefonu, potwierdzony kodem z SMS.
 
 **Nagroda za uzasadnienie wyboru.** Uzasadnienie jest nieobowiązkowe - dopisujesz je przy oddaniu głosu, do 1500 znaków. Ocenia je trzyosobowy zespół powołany spoza jury, którego skład podajemy przed rozpoczęciem głosowania, i liczy się to, co uzasadnienie mówi o samym utworze: trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości, ortografii ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie wygrywa uzasadnienie oddane wcześniej.
+
+## <!--ikona:puchar--><span>Nagrody Kapituły</span>
+
+**Nagrody pieniężne dla trzech najwyżej ocenionych utworów.** Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
+
 
 **Nagranie studyjne dla każdego z dziesięciu finalistów.** Osobno od pieniędzy: wszystkie utwory finałowej dziesiątki zostaną nagrane profesjonalnie w studiu na koszt organizatora. Termin sesji i termin przekazania Ci gotowego materiału podajemy przed otwarciem naboru i jesteśmy nimi związani.
 

@@ -79,9 +79,13 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 **Jury wybiera pięciu finalistów i ustala kolejność trójki.** Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem. Oceniający wyłącza się od oceny zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę.
 
-## <!--ikona:moneta--><span>Nagrody</span>
+## <!--ikona:zespol--><span>Nagroda Publiczności</span>
 
-- **Nagrody pieniężne dla trzech najwyżej ocenionych filmów** oraz **Nagroda Publiczności**, przyznawana w otwartym głosowaniu: jeden głos na numer telefonu, liczniki ukryte do gali.
+Przyznawana w otwartym głosowaniu, **niezależnie od werdyktu jury**: jeden głos na numer telefonu, liczniki ukryte do gali.
+
+## <!--ikona:moneta--><span>Nagrody Kapituły</span>
+
+- **Nagrody pieniężne dla trzech najwyżej ocenionych filmów**, przyznawane przez jury.
 - **Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
 - **Mosiężny medal Nagrody Konstela** z pieczęcią, grawerowany, wręczany osobiście zwycięzcy - ten sam, który dostają zwycięzcy pozostałych plebiscytów - oraz tłoczone dyplomy dla wszystkich pięciu finalistów.
 - **Minutowa emisja na gali** dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.
