@@ -65,8 +65,8 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270600" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610270600" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270605" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610270605" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
       @font-face {
@@ -775,6 +775,69 @@
         display: block;
         margin-top: 0.45rem;
         line-height: 1.5;
+      }
+
+      /* Harmonogram jako oś czasu - od tej samej szerokości, od której kafle
+         plebiscytów idą dwa na dwa. Daty stoją w osobnej kolumnie wyrównane do
+         prawej, żeby dało się przebiec wzrokiem samą oś bez czytania treści, a
+         na linii siedzą pierścienie w kolorze mosiądzu - ten sam motyw co w
+         rozdzielaczu sekcji. Na węższym ekranie zostaje układ kafelkowy, bo
+         kolumna na daty zjadałaby połowę szerokości. */
+      @media (min-width: 48rem) {
+        #harmonogram .purse.harmonogram {
+          display: block;
+          background: none;
+          border: 0;
+        }
+        #harmonogram .purse.harmonogram > div {
+          position: relative;
+          display: grid;
+          grid-template-columns: 11rem 1fr;
+          column-gap: 2.4rem;
+          background: none;
+          padding: 0 0 2.1rem;
+        }
+        #harmonogram .purse.harmonogram > div:last-child {
+          padding-bottom: 0;
+        }
+        /* Linia biegnie środkiem odstępu między kolumnami i kończy się na
+           ostatnim pierścieniu, żeby oś nie zwisała pod ostatnim zdarzeniem. */
+        #harmonogram .purse.harmonogram > div::before {
+          content: '';
+          position: absolute;
+          left: calc(11rem + 1.2rem);
+          top: 0.5rem;
+          bottom: 0;
+          width: 1px;
+          background: var(--rule);
+        }
+        #harmonogram .purse.harmonogram > div:last-child::before {
+          display: none;
+        }
+        #harmonogram .purse.harmonogram > div::after {
+          content: '';
+          position: absolute;
+          left: calc(11rem + 1.2rem - 4px);
+          top: 0.25rem;
+          width: 9px;
+          height: 9px;
+          box-sizing: border-box;
+          border: 1px solid var(--brass);
+          border-radius: 50%;
+          background: var(--bg);
+        }
+        /* Gala zamyka oś, więc jej pierścień jest wypełniony. */
+        #harmonogram .purse.harmonogram > div:last-child::after {
+          background: var(--brass);
+        }
+        #harmonogram .purse.harmonogram dt {
+          text-align: right;
+          padding-top: 0.2rem;
+        }
+        #harmonogram .purse.harmonogram dd {
+          margin-top: 0;
+          font-size: 1.3rem;
+        }
       }
 
       /* --- Zgłoszenie --- */
@@ -1503,8 +1566,8 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=202610270600" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610270600" defer></script>
-    <script src="/assets/pasek.js?v=202610270600" defer></script>
+    <script src="/assets/stopka.js?v=202610270605" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610270605" defer></script>
+    <script src="/assets/pasek.js?v=202610270605" defer></script>
   </body>
 </html>
