@@ -101,11 +101,11 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Nagroda pieniężna, medal i miejsce w antologii.</p>
+<p>Nagroda pieniężna, medal, dyplom i miejsce w antologii.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych rozmów z werdyktu jury, wraz z miejscem w antologii.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych rozmów z werdyktu jury, wraz z dyplomem i miejscem w antologii.</p>
 </article>
 <article>
 <h3>Siedem wyróżnień</h3>
@@ -127,17 +127,16 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 **Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną bezpłatnie jako e-book, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
+<div class="kafle jedna-kolumna">
+<article>
 <h3 id="nagroda-uczniowska">Nagroda Uczniowska</h3>
-
-**Tę nagrodę rozstrzygają uczniowskie grupy czytające.** Czytają i oceniają według **tej samej jawnej karty oceny** co akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
-
-**Jedna szkoła - jedno wskazanie.** Czytać może dowolnie wiele klas i uczniów. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej.
-
-**Zgłasza szkoła.** Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.
-
-**Jak sprawdzamy, że to naprawdę szkoła.** W formularzu wybiera się szkołę z rejestru państwowego, a kod potwierdzający wysyłamy **na adres tej szkoły zapisany w rejestrze** - nie na adres wpisany przez zgłaszającego. Nauczyciel przepisuje kod i potwierdza zgłoszoną ocenę. Jeśli rejestr nie ma adresu albo adres nie działa, potwierdzamy telefonicznie, pod numerem szkoły z rejestru. Nie zbieramy przy tym żadnych danych uczniów - ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.
-
-**Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia oceny przez szkołę.** Zgłaszając wskazanie, szkoła zgadza się na to, że rozmowy z [czytelni](#czytelnia) trafiają do czytania i oceniania przez grupy uczniowskie, w tym przez osoby niepełnoletnie. Szkoła nie wskazuje, które rozmowy są przedstawiane jej grupom do czytania i oceniania.
+<p><strong>Tę nagrodę rozstrzygają uczniowskie grupy czytające.</strong> Czytają i oceniają według <strong>tej samej jawnej karty oceny</strong> co akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.</p>
+<p><strong>Jedna szkoła - jedno wskazanie.</strong> Czytać może dowolnie wiele klas i uczniów. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej.</p>
+<p><strong>Zgłasza szkoła.</strong> Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.</p>
+<p><strong>Jak sprawdzamy, że to naprawdę szkoła.</strong> W formularzu wybiera się szkołę z rejestru państwowego, a kod potwierdzający wysyłamy <strong>na adres tej szkoły zapisany w rejestrze</strong> - nie na adres wpisany przez zgłaszającego. Nauczyciel przepisuje kod i potwierdza zgłoszoną ocenę. Jeśli rejestr nie ma adresu albo adres nie działa, potwierdzamy telefonicznie, pod numerem szkoły z rejestru. Nie zbieramy przy tym żadnych danych uczniów - ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.</p>
+<p><strong>Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia oceny przez szkołę.</strong> Zgłaszając wskazanie, szkoła zgadza się na to, że rozmowy z <a href="#czytelnia">czytelni</a> trafiają do czytania i oceniania przez grupy uczniowskie, w tym przez osoby niepełnoletnie. Szkoła nie wskazuje, które rozmowy są przedstawiane jej grupom do czytania i oceniania.</p>
+</article>
+</div>
 
 <h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i archiwum</span></h2>
 
