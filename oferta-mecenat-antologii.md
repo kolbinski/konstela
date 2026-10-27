@@ -14,7 +14,7 @@ Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzecz
 
 **Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz jury**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Planowane jest także wydanie drukowane.
 
-**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
+**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
 
 Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie około sześciuset stron, i w żadnej z nich nie znalazłem pełnego zapisu rzeczywistej rozmowy człowieka z modelem, opatrzonego komentarzem dydaktycznym. Antologia i archiwum są materiałem źródłowym, którego nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
@@ -38,16 +38,16 @@ Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie ok
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
 | **Koszty bezpośrednie razem**                                     |  **91 000 zł** |
 | Redakcja, skład treści, publikacja archiwum przez rok (115 godz.) |      25 300 zł |
-| Oprogramowanie: archiwizacja zgłoszeń, ocena formalna, panel oceny, archiwum na stronie (285 godz.) |      62 700 zł |
+| Oprogramowanie: archiwizacja zgłoszeń, weryfikacja formalna, panel oceny, archiwum na stronie (285 godz.) |      62 700 zł |
 | Prowadzenie projektu i pozyskiwanie partnerów (20%)               |      35 800 zł |
 | Rezerwa na przekroczenia (10%)                                    |      17 900 zł |
 | **Razem netto**                                                   | **232 700 zł** |
 | VAT 23%                                                           |   53 521,00 zł |
 | **Do zapłaty brutto**                                             |   **286 221 zł** |
 
-**Wariant podstawowy: 145 990 zł netto (179 567,70 zł brutto).** Jeżeli Mecenas nie jest zainteresowany sfinansowaniem całej platformy Nagrody, propozycję można zawęzić do antologii i archiwum. Odpadają wtedy **trzy z czterech narzędzi** - skraper, narzędzie do oceny formalnej i panel oceny, łącznie 235 godzin - oraz przebudowa strony. **Zostaje mechanizm publikowania archiwum (50 godzin)**, ponieważ bez niego archiwum, które jest przedmiotem tej propozycji, nie powstanie. Rachunek: koszty bezpośrednie 76 000 zł, praca 36 300 zł, razem 112 300 zł, po doliczeniu 30% - 145 990 zł netto. Trzy pozostałe narzędzia musiałyby wówczas znaleźć innego fundatora, a bez nich konkurs nie ruszy w ogóle.
+**Wariant podstawowy: 145 990 zł netto (179 567,70 zł brutto).** Jeżeli Mecenas nie jest zainteresowany sfinansowaniem całej platformy Nagrody, propozycję można zawęzić do antologii i archiwum. Odpadają wtedy **trzy z czterech narzędzi** - skraper, narzędzie do weryfikacji formalnej i panel oceny, łącznie 235 godzin - oraz przebudowa strony. **Zostaje mechanizm publikowania archiwum (50 godzin)**, ponieważ bez niego archiwum, które jest przedmiotem tej propozycji, nie powstanie. Rachunek: koszty bezpośrednie 76 000 zł, praca 36 300 zł, razem 112 300 zł, po doliczeniu 30% - 145 990 zł netto. Trzy pozostałe narzędzia musiałyby wówczas znaleźć innego fundatora, a bez nich konkurs nie ruszy w ogóle.
 
-Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do oceny formalnej, panel pracy dla kilkunastu czytelników i jury wraz ze śladem audytowym, oraz mechanizm publikowania archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
+Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla kilkunastu czytelników i jury wraz ze śladem audytowym, oraz mechanizm publikowania archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone. **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy. **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji. Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 

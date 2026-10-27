@@ -26,7 +26,7 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu,
 
 **Antologia.** Dziesięć najwyżej ocenionych rozmów każdej edycji, publikowanych bezpłatnie jako e-book, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Planowane jest również wydanie książkowe, płatne i zależne od pozyskania partnera wydawniczego; przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
-**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
+**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
 Trzy funkcje, które antologia i archiwum pełnią jednocześnie:
 
@@ -108,7 +108,7 @@ jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antol
 
 *Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat Ministerstwa Cyfryzacji znacząco ułatwiłby ich pozyskanie - zarówno do jury, jak i do akademii - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
 
-Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za ocenę formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie akademia i jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
+Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za weryfikację formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie akademia i jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
 
 ## 8. Nagrody
 

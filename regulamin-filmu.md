@@ -117,7 +117,7 @@
 
 4b. Odrzucenie na podstawie ust. 4 wymaga **pisemnego wskazania, która z podstaw zachodzi i z czego to wynika**; Uczestnik może przedstawić stanowisko w terminie nie krótszym niż 7 dni. Podstawy tej nie stosuje się dlatego, że film podoba się Organizatorowi mniej niż inne, ani dlatego, że jest przychylny albo nieprzychylny wobec sztucznej inteligencji.
 
-5. Zgłoszenie zostaje odrzucone w ocenie formalnej, jeżeli nie spełnia wymogów z ust. 1-4, z § 3a ust. 1 i 2 albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni. Podstawy z ust. 4 nie da się uzupełnić.
+5. Zgłoszenie zostaje odrzucone w weryfikacji formalnej, jeżeli nie spełnia wymogów z ust. 1-4, z § 3a ust. 1 i 2 albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni. Podstawy z ust. 4 nie da się uzupełnić.
 
 ## § 6. Narzędzia sztucznej inteligencji: deklaracja bez zakazu
 
@@ -227,7 +227,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń.
 
-4. **Pierwsze przejście oceny przeprowadza akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły ocenę formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą.
+4. **Pierwsze przejście oceny przeprowadza akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły weryfikację formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą.
 
 4a. **Zasady pracy akademii** Organizator ogłasza przed otwarciem naboru i nie zmienia ich w trakcie: liczebność akademii, liczbę niezależnych obejrzeń przypadających na jeden film, sposób łączenia ocen w wynik zgłoszenia, liczebność listy węższej oraz sposób rozstrzygania równej liczby punktów na jej granicy.
 
@@ -247,7 +247,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    a) nagrody pieniężne dla trzech najwyżej ocenionych filmów;
 
-   a1) **siedem wyróżnień** dla pozostałych finalistów. Wyróżnienie obejmuje dyplom oraz miejsce w zestawie filmów kierowanym przez Organizatora do pokazów i dystrybucji, jeżeli Organizator pozyska partnera dysponującego salą (§ 10 ust. 4); z wyróżnieniem nie wiąże się nagroda pieniężna;
+   a1) **siedem wyróżnień** dla pozostałych finalistów. Wyróżnienie obejmuje dyplom oraz miejsce w zestawie, o którym mowa w lit. a2; z wyróżnieniem nie wiąże się nagroda pieniężna;
+
+   a2) **miejsce w zestawie filmów kierowanym przez Organizatora do pokazów i dystrybucji - dla wszystkich dziesięciu finalistów**, jeżeli Organizator pozyska partnera dysponującego salą projekcyjną (§ 10 ust. 4). Pozyskanie partnera nie jest zobowiązaniem Organizatora, a brak pokazów nie wpływa na nagrody pieniężne ani na pozostałe świadczenia z niniejszego paragrafu;
 
    b) nagrodę publiczności, o której mowa w § 11a;
 
@@ -281,7 +283,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, **zwiastun**, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6 oraz link do filmu.
 
-2. Wpis pojawia się po przejściu oceny formalnej, a nie w chwili złożenia zgłoszenia. Kolejność w Projektorni wyznacza wyłącznie data zgłoszenia; Organizator nie prowadzi rankingu i nie publikuje liczników odsłon ani popularności.
+2. Wpis pojawia się po przejściu weryfikacji formalnej, a nie w chwili złożenia zgłoszenia. Kolejność w Projektorni wyznacza wyłącznie data zgłoszenia; Organizator nie prowadzi rankingu i nie publikuje liczników odsłon ani popularności.
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
@@ -313,7 +315,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności dla filmu z największą liczbą głosów.
 
-2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną, i otwiera się po utrwaleniu listy zgłoszeń oraz po zamknięciu oceny pierwszego przejścia, a nie w trakcie naboru. Trwa do dnia gali.
+2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i otwiera się po utrwaleniu listy zgłoszeń oraz po zamknięciu oceny pierwszego przejścia, a nie w trakcie naboru. Trwa do dnia gali.
 
 3. Jeden głos przypada na jeden numer telefonu, potwierdzany jednorazowym kodem. Liczniki głosów nie są publikowane w trakcie głosowania; wynik ogłaszany jest na gali.
 

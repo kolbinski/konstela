@@ -51,7 +51,7 @@ Poza zakresem, ponieważ realizuję to samodzielnie:
 
 - formularz zgłoszeniowy i obsługa danych uczestników,
 - narzędzie archiwizujące zgłoszone rozmowy,
-- narzędzie do oceny formalnej zgłoszeń,
+- narzędzie do weryfikacji formalnej zgłoszeń,
 - panel pracy dla czytelników i jury,
 - mechanizm publikowania archiwum rozmów.
 

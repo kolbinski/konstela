@@ -96,7 +96,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 5. **Nagranie nie podlega ocenie w żadnym kryterium z § 7.** Jury ocenia plakat, nie film z jego powstawania; jakość nagrania, jego długość ponad wymagane minimum i sposób zmontowania nie mają na ocenę żadnego wpływu.
 
-6. **Nagranie nie jest publikowane.** Służy wyłącznie ocenie formalnej i weryfikacji z § 6 ust. 6. Organizator nie publikuje nagrania i udostępnia otrzymany materiał wyłącznie oceniającym oraz jury; nagranie nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Prezentacja nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, której brak nie wpływa na udział w plebiscycie, na ocenę ani na nagrodę.
+6. **Nagranie nie jest publikowane.** Służy wyłącznie weryfikacji formalnej i weryfikacji z § 6 ust. 6. Organizator nie publikuje nagrania i udostępnia otrzymany materiał wyłącznie oceniającym oraz jury; nagranie nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Prezentacja nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, której brak nie wpływa na udział w plebiscycie, na ocenę ani na nagrodę.
 
 7. Jeżeli w nagraniu widoczne są osoby trzecie, Uczestnik odpowiada za ich zgodę na utrwalenie wizerunku w zakresie z ust. 6. Nagranie, na którym widoczne są dane osobowe osób trzecich albo wnętrze niebędące miejscem pracy Uczestnika, nie jest z tego powodu wadliwe; Uczestnik może je przed przesłaniem przyciąć albo zasłonić te fragmenty, o ile nie narusza to ust. 3. Zasłonięcie albo wycięcie własnej twarzy narusza ust. 3 lit. c1 i czyni nagranie niespełniającym wymogu.
 
@@ -106,7 +106,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 5. Wymogi formalne
 
-1. Zgłoszenie podlega ocenie formalnej przed skierowaniem do oceny merytorycznej. Ocena formalna nie obejmuje wartości artystycznej pracy.
+1. Zgłoszenie podlega weryfikacji formalnej przed skierowaniem do oceny merytorycznej. Weryfikacja formalna nie obejmuje wartości artystycznej pracy.
 
 2. Zgłoszenie nie spełnia wymogów formalnych, jeżeli:
 
@@ -174,7 +174,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Członkowie akademii plakatu, jeżeli zostanie powołana, otrzymują wynagrodzenie na zasadach ogłoszonych wraz z progiem jej powołania.
 
-4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły ocenę formalną, albo spośród listy zakwalifikowanej przez akademię plakatu (ust. 4f) - zależnie od trybu ogłoszonego przed otwarciem naboru.
+4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły weryfikację formalną, albo spośród listy zakwalifikowanej przez akademię plakatu (ust. 4f) - zależnie od trybu ogłoszonego przed otwarciem naboru.
 
 4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
 
@@ -244,7 +244,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 11. Galeria i archiwum
 
-1. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Galerii** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w plebiscycie.
+1. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Galerii** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w plebiscycie.
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 

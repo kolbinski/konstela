@@ -94,7 +94,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 6a. Przy przyjęciu zgłoszenia Organizator utrwala **metrykę nagrania**: tytuł, czas trwania, datę publikacji i identyfikator nagrania w serwisie. Metryka nie jest kopią nagrania i nie jest publikowana. Metryka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; nie jest zapisem jego treści. Rozbieżność między metryką a nagraniem dostępnym pod linkiem w czasie oceny jest podstawą wszczęcia wyjaśnień w trybie z § 16, a nie samodzielną podstawą wyłączenia. **Uczestnik może poprawić nagranie do dnia zamknięcia naboru**, zgłaszając to Organizatorowi, który aktualizuje wówczas metrykę; oceniający pracują na wersji ostatecznej. Zmiana nagrania po zamknięciu naboru jest niedopuszczalna.
 
-7. Zgłoszenia, które przeszły ocenę formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+7. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
 
 8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
@@ -136,13 +136,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 8. Wymogi formalne zgłoszenia
 
-1. Zgłoszenie podlega ocenie formalnej przed skierowaniem go do oceny merytorycznej. Ocena formalna nie obejmuje wartości artystycznej utworu.
+1. Zgłoszenie podlega weryfikacji formalnej przed skierowaniem go do oceny merytorycznej. Weryfikacja formalna nie obejmuje wartości artystycznej utworu.
 
 2. Zgłoszenie nie spełnia wymogów formalnych, jeżeli:
 
    a) nie zawiera elementów wymienionych w § 5 ust. 3;
 
-   b) link nie jest czynny w chwili oceny formalnej;
+   b) link nie jest czynny w chwili weryfikacji formalnej;
 
    ba) okładka nie została dołączona, nie spełnia wymogów technicznych z § 5 ust. 3 lit. c albo narusza prawa osób trzecich lub dobra osobiste;
 
@@ -194,7 +194,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Honorarium za ocenę jest odrębne od ewentualnego honorarium za udział w nagraniu hymnu i za wykonanie na gali.
 
-4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły ocenę formalną, albo spośród listy zakwalifikowanej przez akademię plebiscytu (ust. 5) - zależnie od trybu ogłoszonego przed otwarciem naboru - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
+4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły weryfikację formalną, albo spośród listy zakwalifikowanej przez akademię plebiscytu (ust. 5) - zależnie od trybu ogłoszonego przed otwarciem naboru - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
 
 5. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza akademia plebiscytu - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
 

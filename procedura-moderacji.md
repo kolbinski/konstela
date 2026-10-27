@@ -95,7 +95,7 @@ Oznacz, gdy obejrzane nagranie nie przekonuje Cię, że pracę wykonuje osoba, k
 
 - **Oznacz:** w nagraniu malowany jest inny obraz niż zgłoszony.
 - **Nie oznaczaj:** nagrania słabej jakości, nieostrego, ciemnego albo nagranego telefonem z ręki, jeżeli widać w nim to, co ma być widoczne.
-- **Nie oznaczaj:** braku twarzy albo zbyt krótkiego nagrania - to jest sprawa oceny formalnej, a nie oznaczenia; organizator sprawdza to przed przekazaniem Ci zgłoszenia.
+- **Nie oznaczaj:** braku twarzy albo zbyt krótkiego nagrania - to jest sprawa weryfikacji formalnej, a nie oznaczenia; organizator sprawdza to przed przekazaniem Ci zgłoszenia.
 
 ### Plebiscyt na piosenkę o sztucznej inteligencji
 
@@ -149,7 +149,7 @@ Warunek jest jeden: **problem musi być konkretny i wskazany co do miejsca.** �
 - **Błędów sztucznej inteligencji.** Sam błąd AI nie jest podstawą oznaczenia, a rzetelność zgłoszenia ocenia się kryteriami. Oznacz go natomiast, jeżeli powoduje konkretny problem z publikacją - w szczególności gdy nieprawda dotyczy konkretnej, możliwej do rozpoznania osoby.
 - **Niskiej jakości.** Słaba rozmowa, słaby plakat, słaby film to sprawa punktacji.
 - **Języka.** Przekleństwo, dosadność, drwina ani ostry ton nie są zastrzeżeniem.
-- **Użycia narzędzi sztucznej inteligencji.** W plebiscycie filmu jest ono dopuszczalne bez ograniczeń, w plebiscytach piosenki i plakatu podlega regulaminowym granicom, które sprawdza się w ocenie formalnej i w trybie z regulaminu - nie oznaczeniem.
+- **Użycia narzędzi sztucznej inteligencji.** W plebiscycie filmu jest ono dopuszczalne bez ograniczeń, w plebiscytach piosenki i plakatu podlega regulaminowym granicom, które sprawdza się w weryfikacji formalnej i w trybie z regulaminu - nie oznaczeniem.
 
 ## 6. Jak wypełnić oznaczenie
 
@@ -185,7 +185,7 @@ kontakt@konstela.org. Na pytanie o konkretne zgłoszenie odpowiadamy, ale odpowi
 
 Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które do takiej konsultacji trafiają:
 
-1. **Konstrukcja całości** - oznaczanie przez oceniających zamiast przeglądu prowadzonego przez organizatora. Prosimy o ocenę, czy przy publikacji wszystkich zgłoszeń, które przeszły ocenę formalną, taki tryb jest wystarczającym zachowaniem należytej staranności.
+1. **Konstrukcja całości** - oznaczanie przez oceniających zamiast przeglądu prowadzonego przez organizatora. Prosimy o ocenę, czy przy publikacji wszystkich zgłoszeń, które przeszły weryfikację formalną, taki tryb jest wystarczającym zachowaniem należytej staranności.
 2. **Zamknięta lista rutynowych oznaczeń** - czy katalog z rozdziału 3 nie pomija rodzaju zastrzeżenia, który przy publikacji byłby najdotkliwszy.
 3. **Przykłady negatywne** - czy którykolwiek z nich nie każe przeoczyć czegoś, co oznaczone być powinno; w szczególności „osoby publiczne w rozmowie o ich działalności publicznej" oraz „przechodnie w planie ogólnym".
 4. **Umowa z oceniającym** - zakres poufności wobec treści zgłoszeń, w tym nagrań z powstawania plakatu, które nie są publikowane, oraz skutki oznaczenia nietrafnego.

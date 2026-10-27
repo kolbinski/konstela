@@ -168,7 +168,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 **Ty: tylko sito formalne.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga konkurs, a jury tylko ustawia kolejność jego typów.
 
-**Kto co czyta.** Progi w § 8 regulaminu, liczone od zgłoszeń **po ocenie formalnej**: do 20 jury czyta wszystkie i akademii się nie powołuje; 21-60 akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; 61-200 to samo z przydziałem maksymalnie 20 zgłoszeń na czytającego i listą rezerwową; powyżej 200 odczyt wstępny po jednym czytającym, z obowiązkowym drugim odczytem na progu, powyżej niego i w paśmie bezpośrednio poniżej, plus losowy audyt odrzuconych (§ 8 ust. 10a). Do jury idzie **nie mniej niż dwadzieścia** zgłoszeń o najwyższej **średniej** ocen, powiększone o skierowane dziką kartą; dziesiątka antologii powstaje dopiero z pracy całego jury, a nie z odczytu wstępnego przed nią. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
+**Kto co czyta.** Progi w § 8 regulaminu, liczone od zgłoszeń **po weryfikacji formalnej**: do 20 jury czyta wszystkie i akademii się nie powołuje; 21-60 akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; 61-200 to samo z przydziałem maksymalnie 20 zgłoszeń na czytającego i listą rezerwową; powyżej 200 odczyt wstępny po jednym czytającym, z obowiązkowym drugim odczytem na progu, powyżej niego i w paśmie bezpośrednio poniżej, plus losowy audyt odrzuconych (§ 8 ust. 10a). Do jury idzie **nie mniej niż dwadzieścia** zgłoszeń o najwyższej **średniej** ocen, powiększone o skierowane dziką kartą; dziesiątka antologii powstaje dopiero z pracy całego jury, a nie z odczytu wstępnego przed nią. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
 
 **Panel za hasłem** na stronie Nagrody: link, opis odkrycia, metryczka, neutralne streszczenie tematu.
 
@@ -222,7 +222,7 @@ Czego nie zatrzymamy i nie chcemy zatrzymywać: człowieka, który zna temat, po
 
 **Czego świadomie nie robimy: publikacji zgłoszeń bieżącego rocznika na bieżąco.** Pomysł był rozważany 19.10.2026 i odrzucony z trzech powodów. Po pierwsze psuje harmonogram: kto zgłasza się w styczniu, oddaje konkurencji swój warsztat na jedenaście miesięcy, więc racjonalny uczestnik czeka do 15 stycznia, co odtwarza lawinę pod koniec terminu, przed którą miał chronić pełny rok naboru. Po drugie psuje anonimowość oceny - czytelnik dostaje w lutym rozmowę, którą w październiku widział w mediach społecznościowych z nazwiskiem autora. Po trzecie tworzy ryzyko publicznego odwoływania publikacji przy inscenizacji albo wycofaniu zgody po zaindeksowaniu. Treść na rok 2027, w którym nie ma jeszcze poprzedniego rocznika: rozmowy kalibracyjne z komentarzem (i tak powstają na próbę oceny), profile Gwiazd Jury i akademii publikowane pojedynczo w miarę potwierdzania udziału, licznik zgłoszeń i komentarze o bieżącym etapie.
 
-Dlaczego nie publikujemy automatycznie wszystkiego, co przeszło ocenę formalną:
+Dlaczego nie publikujemy automatycznie wszystkiego, co przeszło weryfikację formalną:
 
 - licencja obejmuje antologię; szersza zgoda wymuszona na wszystkich odstraszyłaby część zgłaszających,
 - przy publikacji organizator odpowiada za treść, a sito formalne sprawdza warunki, nie zawartość,
@@ -388,11 +388,11 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 1. **Głos publiczności mierzy co innego niż Nagroda.** Rozmowa zabawna, szokująca albo o modnym temacie zbierze poklask; ta, w której ktoś cicho przestawił sobie rozumienie własnego problemu, nie zbierze nic. Dopuszczenie tego jako czynnika zamienia nagrodę w plebiscyt i podważa jury, której płaci się honoraria właśnie za wzięcie odpowiedzialności za werdykt.
 2. **Otwiera drugą, słabszą bramę obok tej uszczelnionej 21.10.2026.** Przy puli 300 tys. zł głosowanie publiczne zaprasza do nakręcania głosów przez znajomych, grupy i boty - a atak nie kosztuje nawet napisania rozmowy, wystarczy kliknąć.
 3. **Publiczne reakcje w trakcie oceniania skażą ocenę.** Cały § 8 stoi na niezależnych odczytach, kalibracji i kotwicach. Czytelnik widzący, że rozmowa ma pięćset polubień, nie czyta jej już niezależnie, choćby szczerze próbował.
-4. **Przeszkoda prawna, nie estetyczna.** § 11 ust. 11 lit. h i lit. i wymagają przed publikacją dwóch odczytów oraz potwierdzonej listy kontrolnej: prawa do materiałów, brak danych osób trzecich, brak cudzych treści. Publikacja na bieżąco oznacza publikowanie **przed oceną formalną**, czyli zanim ktokolwiek sprawdził, czy w rozmowie nie ma treści bezprawnych z § 6 pkt 9-12. To odpowiedzialność fundacji za każdą taką rozmowę w dniu, w którym nikt jej jeszcze nie przeczytał.
+4. **Przeszkoda prawna, nie estetyczna.** § 11 ust. 11 lit. h i lit. i wymagają przed publikacją dwóch odczytów oraz potwierdzonej listy kontrolnej: prawa do materiałów, brak danych osób trzecich, brak cudzych treści. Publikacja na bieżąco oznacza publikowanie **przed weryfikacją formalną**, czyli zanim ktokolwiek sprawdził, czy w rozmowie nie ma treści bezprawnych z § 6 pkt 9-12. To odpowiedzialność fundacji za każdą taką rozmowę w dniu, w którym nikt jej jeszcze nie przeczytał.
 5. **Nierówność ekspozycji.** Rozmowa zgłoszona w styczniu wisi dwanaście miesięcy, grudniowa zero. Jeżeli widoczność cokolwiek znaczy, wcześni zgłaszający są uprzywilejowani bez związku z jakością.
 6. **Fali grudniowej to nie zmniejsza, a może ją zwiększyć.** Pokazywanie na bieżąco, co się zgłasza, jest instrukcją, jak zgłosić coś podobnego; grudzień wypełniłby się naśladownictwem. Na falę jest już narzędzie: § 8 ust. 11 lit. f, jednorazowe przesunięcie dnia zamrożenia o 30 dni.
 
-**Cel, który pozostaje słuszny.** Strona nie może przez cały 2027 rok stać martwa - dla mediów, sponsorów i uczestników wygląda to na przedsięwzięcie, które przysnęło. Ruch bez dotykania zgłoszeń dają cztery rzeczy: licznik i statystyki na żywo (ile zgłoszeń wpłynęło, ile przeszło ocenę formalną, rozkład długości i tematów - i tak publikowane po wynikach na mocy § 13 ust. 5, więc wcześniejsze pokazanie niczego nie zdradza); rozmowy kalibracyjne spoza edycji opublikowane z komentarzem, które pokazują, czego szukamy, i uczą czytania; teksty własne - wyjaśnienia karty oceny i sylwetki jury w miarę ogłaszania składu; oraz piosenka Nagrody, opisana niżej.
+**Cel, który pozostaje słuszny.** Strona nie może przez cały 2027 rok stać martwa - dla mediów, sponsorów i uczestników wygląda to na przedsięwzięcie, które przysnęło. Ruch bez dotykania zgłoszeń dają cztery rzeczy: licznik i statystyki na żywo (ile zgłoszeń wpłynęło, ile przeszło weryfikację formalną, rozkład długości i tematów - i tak publikowane po wynikach na mocy § 13 ust. 5, więc wcześniejsze pokazanie niczego nie zdradza); rozmowy kalibracyjne spoza edycji opublikowane z komentarzem, które pokazują, czego szukamy, i uczą czytania; teksty własne - wyjaśnienia karty oceny i sylwetki jury w miarę ogłaszania składu; oraz piosenka Nagrody, opisana niżej.
 
 ### Hymn Nagrody „Zapytaj inaczej" (stan na 24.10.2026)
 
@@ -511,7 +511,7 @@ Na każdą z dziesięciu rozmów składają się cztery elementy:
 
 Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms), publikowany w dniu otwarcia naboru. Mail pozostaje kanałem awaryjnym na wypadek niedostępności formularza oraz adresem do korespondencji: pytania, zgłoszenie błędu odwzorowania kopii, wnioski o kartę oceny. Wpisane do § 5 ust. 1 i 1a regulaminu.
 
-**Dlaczego formularz.** Komplet zgłoszenia to link, opis odkrycia, metryczka, oświadczenia, deklaracja załączników i wybór podpisu. Przy mailu połowa zgłoszeń przychodzi niekompletna, a regulamin nie przewiduje wzywania do uzupełnienia - formularz z polami wymaganymi zdejmuje ten problem po stronie uczestnika i po stronie oceny formalnej.
+**Dlaczego formularz.** Komplet zgłoszenia to link, opis odkrycia, metryczka, oświadczenia, deklaracja załączników i wybór podpisu. Przy mailu połowa zgłoszeń przychodzi niekompletna, a regulamin nie przewiduje wzywania do uzupełnienia - formularz z polami wymaganymi zdejmuje ten problem po stronie uczestnika i po stronie weryfikacji formalnej.
 
 **Do rozstrzygnięcia z prawnikiem (obszar 1, pytanie 5a):** formularz zewnętrzny oznacza powierzenie danych, informację o odbiorcach i prawdopodobnie przekazanie poza EOG. Alternatywa to własny formularz na stronie, droższy w budowie i tańszy prawnie. Decyzja przed otwarciem naboru.
 
@@ -693,7 +693,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 - *Nakręcanie głosów* - rozwiązane bramką SMS z jednym głosem na numer telefonu, zaprojektowaną przy plebiscycie. Nie zatrzyma zdeterminowanego, zatrzyma kolegów i boty.
 - *Skażenie odczytów akademii* - rozwiązane ukryciem liczników do ogłoszenia oraz przesunięciem głosowania za dzień zamrożenia punktacji.
 - *Nierówna ekspozycja* - rozwiązana tym, że głosowanie otwiera się dopiero po zamknięciu naboru, więc wszystkie zgłoszenia mają ten sam czas na ekranie.
-- *Odpowiedzialność za publikację przed oceną formalną* (§ 11 ust. 11) - rozwiązana dwojako: **nie republikujemy rozmów**, tylko pokazujemy link, który uczestnik sam opublikował, więc odpowiedzialność za treść zostaje po jego stronie; a wpis trafia na czytelnię **dopiero po przejściu oceny formalnej**, więc nic nie jest pokazywane przed sprawdzeniem.
+- *Odpowiedzialność za publikację przed weryfikacją formalną* (§ 11 ust. 11) - rozwiązana dwojako: **nie republikujemy rozmów**, tylko pokazujemy link, który uczestnik sam opublikował, więc odpowiedzialność za treść zostaje po jego stronie; a wpis trafia na czytelnię **dopiero po przejściu weryfikacji formalnej**, więc nic nie jest pokazywane przed sprawdzeniem.
 - *Zarzut „dwa werdykty obok siebie"* - **wycofany jako najsłabszy.** Dwa równoległe werdykty są standardem, a Nagroda ma już własny w postaci Nagrody Uczniowskiej, wzorowanej na Prix Goncourt des lycéens, gdzie o to właśnie chodzi.
 
 ### Czytelnia zgłoszeń - przez cały 2027
@@ -704,7 +704,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 2. **Znika wyjątek przy Nagrodzie Publiczności.** Przy czytelni opcjonalnej trzeba by pisać, że głosować można wyłącznie na rozmowy z czytelni - czyli że część uczestników jest poza tą nagrodą wskutek decyzji podjętej rok wcześniej, często bez świadomości skutków. Przy czytelni obowiązkowej wszyscy są w grze.
 3. **Czytelnia rzadka wygląda gorzej niż jej brak.** Przy opt-in trafiłoby tam może 30 procent zgłoszeń i strona przez rok pokazywałaby, że mało kto się zgłasza - odwrotnie do zamierzonego efektu.
 
-**Dwa zabezpieczenia.** Pseudonim z § 5 ust. 2 lit. g załatwia prywatność: kto nie chce figurować nazwiskiem, podpisuje się pseudonimem, a mechanizm już istnieje. Sama rozmowa jest pod linkiem opublikowanym przez uczestnika własnoręcznie, więc ekspozycji treści nie dokładamy. Drugie: **wpis pojawia się po przejściu oceny formalnej, nie w chwili zgłoszenia** - kilka dni opóźnienia, w zamian czytelnia zawiera wyłącznie zgłoszenia ważne, a dwa krótkie pola są sprawdzone przed pokazaniem.
+**Dwa zabezpieczenia.** Pseudonim z § 5 ust. 2 lit. g załatwia prywatność: kto nie chce figurować nazwiskiem, podpisuje się pseudonimem, a mechanizm już istnieje. Sama rozmowa jest pod linkiem opublikowanym przez uczestnika własnoręcznie, więc ekspozycji treści nie dokładamy. Drugie: **wpis pojawia się po przejściu weryfikacji formalnej, nie w chwili zgłoszenia** - kilka dni opóźnienia, w zamian czytelnia zawiera wyłącznie zgłoszenia ważne, a dwa krótkie pola są sprawdzone przed pokazaniem.
 
 **Wąska furtka, wzorowana na § 11 ust. 5:** jeżeli pokazanie wpisu rodzi realne ryzyko prawne, uczestnik może zostać z czytelni zdjęty, zachowując udział w konkursie. Nie jako wybór preferencji, tylko jako ten sam wyjątek, który regulamin już zna.
 
@@ -740,7 +740,7 @@ Rozstrzygnięte 24.10.2026. **Archiwum zawiera dokładnie te same rozmowy co czy
 
 Otwiera się po dniu zamrożenia punktacji rundy pierwszej, czyli 14 dni po zamknięciu naboru, i trwa do gali. **Jeden głos na numer telefonu**, liczniki ukryte do ogłoszenia wyniku na gali.
 
-Głosowanie obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną**, ponieważ czytelnia jest obowiązkowa - nikt nie jest poza tą nagrodą wskutek własnego niedopatrzenia przy zgłoszeniu.
+Głosowanie obejmuje **wszystkie zgłoszenia, które przeszły weryfikację formalną**, ponieważ czytelnia jest obowiązkowa - nikt nie jest poza tą nagrodą wskutek własnego niedopatrzenia przy zgłoszeniu.
 
 Na gali trzy werdykty obok siebie: **jury, Uczniowskiej akademii i publiczności**, każdy wyraźnie nazwany.
 
@@ -1072,7 +1072,7 @@ Po trzech poprawkach nagłówek sekcji na stronie głównej nadal wyglądał mni
 
 Dziecko nagłówka dziedziczy teraz jego wielkość, grubość i interlinię. **Linki odwiedzone są w tym trybie niebieskie, nie fioletowe** - kolor ma znaczyć jedno: "tu da się kliknąć".
 
-### Film promocyjny i instruktaż odpadają w ocenie formalnej (26.10.2026)
+### Film promocyjny i instruktaż odpadają w weryfikacji formalnej (26.10.2026)
 
 W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest konkursem na reklamę, materiał szkoleniowy ani prezentację możliwości narzędzi. Recenzent słusznie zauważył, że nie wiadomo, czy to deklaracja, czy podstawa odrzucenia - a przy drugim odczytaniu organizator dostawał prawo odrzucić film po obejrzeniu, nazywając go materiałem szkoleniowym.
 
@@ -1086,7 +1086,7 @@ W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest konkursem na rekla
 
 **Wersja konkursowa: obowiązek zamiast obietnicy.** Poprzedni zapis mówił, że zmian po zamknięciu naboru "nie bierze się pod uwagę" - czyli obiecywał porównanie z materiałem, którego nie przechowujemy. Teraz uczestnik zobowiązuje się nie zmieniać filmu do werdyktu, organizator sporządza w dniu zamknięcia naboru **metrykę zgłoszenia** (czas trwania co do sekundy, tytuł, miniatura, data publikacji, zapis wpisu w Projektorni), oceniający odnotowują czas trwania obejrzanego filmu, a podstawą wykluczenia jest **zmiana wykazana**, z ciężarem po stronie organizatora. Dopisane jest wprost, że organizator nie zapewnia wykrycia każdej zmiany.
 
-**Z zakazu filmu promocyjnego wypadł przykład**, który pozwalał odrzucić formalnie film za słabą argumentację: "przedstawiający jedno rozwiązanie jako lepsze bez pokazania podstaw". To jest sprawa oceny merytorycznej, nie oceny formalnej.
+**Z zakazu filmu promocyjnego wypadł przykład**, który pozwalał odrzucić formalnie film za słabą argumentację: "przedstawiający jedno rozwiązanie jako lepsze bez pokazania podstaw". To jest sprawa oceny merytorycznej, nie weryfikacji formalnej.
 
 Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwszym zdaniu), uzasadnienie powołania akademii, uzasadnienie pełnych pokazów i powtórzenie o publikacji jako warunku udziału.
 
@@ -1206,7 +1206,7 @@ Przy okazji zawężona obietnica metryki: służy identyfikacji zgłoszonego mat
 
 Nierozstrzygnięte po tej serii: brak trybu wycofania zgłoszenia w regulaminach piosenki i plakatu (film i rozmowa go mają), wskazany również w polityce prywatności.
 
-**Pole „dlaczego warte nagrody głównej" wspólne dla czterech plebiscytów - decyzja z 26.10.2026.** Dotychczasowe „dlaczego warto przeczytać tę rozmowę" było nieobowiązkowe, występowało tylko przy rozmowie i było zasłaniane w panelu oceniającego do czasu przeczytania zgłoszenia. Teraz jest **obowiązkowe we wszystkich czterech kategoriach**, pod jedną nazwą, prezentowane publicznie na ścianie kategorii i w archiwum. Zasłona w panelu zniknęła: skoro tekst wisi publicznie od chwili przejścia oceny formalnej, udawanie, że oceniający go nie widzi, było pozorne. Zabezpieczeniem zostaje to, co zabezpieczeniem było naprawdę - wyłączenie pola z punktacji, zapisane w każdym z czterech regulaminów przy kryteriach oceny.
+**Pole „dlaczego warte nagrody głównej" wspólne dla czterech plebiscytów - decyzja z 26.10.2026.** Dotychczasowe „dlaczego warto przeczytać tę rozmowę" było nieobowiązkowe, występowało tylko przy rozmowie i było zasłaniane w panelu oceniającego do czasu przeczytania zgłoszenia. Teraz jest **obowiązkowe we wszystkich czterech kategoriach**, pod jedną nazwą, prezentowane publicznie na ścianie kategorii i w archiwum. Zasłona w panelu zniknęła: skoro tekst wisi publicznie od chwili przejścia weryfikacji formalnej, udawanie, że oceniający go nie widzi, było pozorne. Zabezpieczeniem zostaje to, co zabezpieczeniem było naprawdę - wyłączenie pola z punktacji, zapisane w każdym z czterech regulaminów przy kryteriach oceny.
 
 **Ilustracja rozmowy - decyzja z 26.10.2026.** Rozmowa jako jedyna kategoria nie miała obrazka reprezentującego zgłoszenie: piosenka ma okładkę, film miniaturę, plakat samą pracę. Doszedł więc obowiązkowy pionowy obrazek 9:16, JPG albo PNG, krótszy bok 1080-2160 pikseli, do 5 MB, który reprezentuje rozmowę w czytelni i w archiwum, a przy rozmowie nagrodzonej także w antologii. Może być wygenerowany przez AI - tak samo jak okładka przy piosence - i nie podlega punktacji. W procedurze moderacji doszło oznaczenie **R4**, zbudowane jak S1 przy okładce: samo użycie narzędzia nie jest podstawą oznaczenia, ale rozpoznawalną osobę, przejęty obraz, znak czy postać oznacza się niezależnie od techniki wykonania.
 

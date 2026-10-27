@@ -25,7 +25,7 @@ Skrypt otwiera link, przewija do końca (transkrypcje leniwie doczytują obrazy)
 
 Skutki: późniejsze wygaśnięcie linku nie z winy Uczestnika nie szkodzi zgłoszeniu; zmiana treści pod linkiem nie wpływa na ocenę, ale rozbieżność może być podstawą odrzucenia.
 
-## 4. Ocena formalna - Organizator
+## 4. Weryfikacja formalna - Organizator
 
 **Czynności mechaniczne, bez czytania treści.** Sprawdzane: minimum 800 słów i 12 wypowiedzi Uczestnika, maksimum 25 000 słów całości, jeden ciągły wątek, język polski, data w oknie rozmów, komplet oświadczeń, opisu odkrycia i deklaracji załączników, brak osób trzecich nieznanych publicznie. Dochodzą podstawy z § 6 ust. 9-12 (treści bezprawne, imienne oskarżenia, kryzys psychiczny, tajemnice), ale **te wychodzą na jaw z sygnału, a nie z przeglądu z urzędu**.
 
@@ -35,7 +35,7 @@ Czas: kilka minut na zgłoszenie, większość do zautomatyzowania.
 
 Tryb nie jest wybierany po zamknięciu naboru, bo czytelnicy pracują od lutego. Progi ogłaszane są przed rozpoczęciem naboru, a tryb zmienia się automatycznie wraz z przekroczeniem progu, na dalszą część rundy pierwszej. Oceny już wystawione pozostają w mocy.
 
-| Liczba zgłoszeń po ocenie formalnej | Runda pierwsza | Runda druga |
+| Liczba zgłoszeń po weryfikacji formalnej | Runda pierwsza | Runda druga |
 |---|---|---|
 | do 20 | **nie ma**; akademii się nie powołuje | jury czyta wszystkie |
 | 21-60 | akademia, każde zgłoszenie czyta co najmniej 2 czytelników | jury czyta zakwalifikowane, nie mniej niż 20 |
@@ -82,13 +82,13 @@ Werdykt, wypłata nagród, rozliczenie podatku, wręczenie medalu i dyplomów.
 
 **Antologia:** 10 rozmów, pełny dialog bez montażu, z komentarzem wprowadzającym, komentarzami na marginesie w konkretnych momentach i komentarzem końcowym. **Komentarze pisze jury**, każdy członek do przydzielonych sobie rozmów, podpisane nazwiskiem. Organizator redaguje, ujednolica i składa; czyta więc te 10 uważnie, ale nie tworzy komentarza od zera.
 
-**Archiwum rozmów:** wszystkie zgłoszenia, które przeszły ocenę formalną i były prezentowane w czytelni; zastrzeżenia prawne oznaczają oceniający przy czytaniu, a Organizator rozstrzyga wyłącznie co do oznaczonych. Dawny warunek dwóch odczytów przed publikacją nie obowiązuje. Dawniej: tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez jury. Odrębna zgoda nie jest potrzebna, bo publikacja wynika z licencji udzielonej przy zgłoszeniu. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
+**Archiwum rozmów:** wszystkie zgłoszenia, które przeszły weryfikację formalną i były prezentowane w czytelni; zastrzeżenia prawne oznaczają oceniający przy czytaniu, a Organizator rozstrzyga wyłącznie co do oznaczonych. Dawny warunek dwóch odczytów przed publikacją nie obowiązuje. Dawniej: tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez jury. Odrębna zgoda nie jest potrzebna, bo publikacja wynika z licencji udzielonej przy zgłoszeniu. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
 
 **Rytm publikacji:** archiwum udostępniane w całości od dnia ogłoszenia wyników. Publikacja porcjami przez rok została wycofana razem z przepisaniem § 11 ust. 11.
 
 ## 13. Jawność przebiegu
 
-Wraz z wynikami publikowane są liczby: zgłoszenia otrzymane i te po ocenie formalnej z podziałem na podstawy odrzucenia, zastosowany tryb z progiem i pasmem, wykonane drugie odczyty wraz z audytem losowym, wykorzystane dzikie karty, przypadki zastosowania warunku rzetelności i odmowy publikacji. Uczestnik może w 30 dni zażądać karty oceny swojego zgłoszenia z uzasadnieniami, bez tożsamości oceniających.
+Wraz z wynikami publikowane są liczby: zgłoszenia otrzymane i te po weryfikacji formalnej z podziałem na podstawy odrzucenia, zastosowany tryb z progiem i pasmem, wykonane drugie odczyty wraz z audytem losowym, wykorzystane dzikie karty, przypadki zastosowania warunku rzetelności i odmowy publikacji. Uczestnik może w 30 dni zażądać karty oceny swojego zgłoszenia z uzasadnieniami, bez tożsamości oceniających.
 
 ## 14. Po edycji
 
@@ -100,9 +100,9 @@ Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w termi
 
 | Etap | Ile rozmów | Dlaczego |
 |---|---:|---|
-| Ocena formalna | 0 | czynności mechaniczne, bez czytania treści |
+| Weryfikacja formalna | 0 | czynności mechaniczne, bez czytania treści |
 | Runda pierwsza | 0 | czyta akademia |
 | Runda druga | 0 | czyta jury; Organizator nie ocenia merytorycznie |
 | Postępowania szczególne | pojedyncze | tylko te, co do których przyszedł sygnał |
 | Antologia | 10 | redaguje komentarze jury i składa tom |
-| Archiwum rozmów | 0 | obejmuje wszystkie zgłoszenia po ocenie formalnej, z kopią rozmowy i linkiem |
+| Archiwum rozmów | 0 | obejmuje wszystkie zgłoszenia po weryfikacji formalnej, z kopią rozmowy i linkiem |

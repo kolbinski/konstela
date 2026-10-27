@@ -41,7 +41,7 @@ Zapisuje do katalogu ze znacznikiem czasu:
 - `meta.json` - adres podany i końcowy, status, czas pobrania, sumy kontrolne SHA-256 wszystkich plików,
 - `zrodlo/` - surowy HTML, zrzut strony i płaski tekst; do przechowania, nie do pokazywania.
 
-Statystyki liczone automatycznie: liczba tur, wypowiedzi człowieka i modelu, znaki i słowa w rozbiciu na role, udział człowieka, najdłuższa wypowiedź, naprzemienność, kto rozpoczyna. To wystarcza do oceny formalnej bez czytania przez człowieka.
+Statystyki liczone automatycznie: liczba tur, wypowiedzi człowieka i modelu, znaki i słowa w rozbiciu na role, udział człowieka, najdłuższa wypowiedź, naprzemienność, kto rozpoczyna. To wystarcza do weryfikacji formalnej bez czytania przez człowieka.
 
 Rzeczy rozwiązane po drodze, warte zapamiętania: nie wolno czekać na `networkidle`, bo dostawcy trzymają stałe połączenia i wejście leci do limitu czasu - zamiast tego czekamy, aż przestanie przybywać treści. Strony doczytują rozmowę dopiero przy przewijaniu, więc trzeba przewijać do końca w pętli. Modal zgody na ciasteczka trzeba zamykać dwukrotnie, bo wraca po doczytaniu treści. W XHTML (czyli w EPUB-ie) wolno używać tylko pięciu encji - `&middot;` wywala plik na pierwszej linii.
 
@@ -52,7 +52,7 @@ Rzeczy rozwiązane po drodze, warte zapamiętania: nie wolno czekać na `network
 - profil dla Claude - zależny od rozstrzygnięcia obszaru 7,
 - poprawki regulaminu: § 4 (data i okno rozmów), § 5 (definicja kopii archiwalnej, zakaz przesyłania eksportu całego konta, rola pliku od uczestnika przy znikającym linku), § 6 (definicja tury i zakres limitu słów),
 - polityka prywatności: zakaz przyjmowania eksportu całego konta i tryb postępowania, gdy ktoś przyśle go mimo zakazu,
-- reguła dla narzędzia do oceny formalnej: zero tur albo rozmowa nienaprzemienna kieruje zgłoszenie do sprawdzenia ręcznego, zamiast cicho przepuścić puste `dialog.json`.
+- reguła dla narzędzia do weryfikacji formalnej: zero tur albo rozmowa nienaprzemienna kieruje zgłoszenie do sprawdzenia ręcznego, zamiast cicho przepuścić puste `dialog.json`.
 
 ## 5. Wtyczka do przeglądarki - od narzędzia organizatora do otwartego projektu
 
@@ -66,7 +66,7 @@ Pomysł: zamiast skryptu otwierającego stronę samodzielnie, rozszerzenie dzia�
 
 **Wirtualizacja listy.** Aplikacje dostawców usuwają z dokumentu wypowiedzi wyprzewijane poza ekran, więc pojedynczy zrzut na końcu daje przy rozmowie na 200 tur tylko tyle, ile akurat widać. Kolejność wejść od najpewniejszego: (1) odczyt danych, które aplikacja pobiera z serwera dostawcy - wirtualizacja przestaje mieć znaczenie, bo bierzemy dane, z których lista jest rysowana; (2) gromadzenie treści **w trakcie przewijania**, obserwatorem mutacji, z odróżnianiem powtórzeń po identyfikatorze wiadomości albo skrócie treści; (3) gdy jedno i drugie zawiedzie - zgłoszenie idzie do sprawdzenia ręcznego. Ten ostatni warunek jest ważniejszy, niż się wydaje: najgorszy możliwy wynik to archiwum z rozmowami uciętymi w połowie, o czym nikt się nie dowie przed publikacją antologii.
 
-**Zasada architektoniczna:** `dialog.json` zostaje kontraktem. Wtyczka jest alternatywnym sposobem pobrania, a nie nowym narzędziem - wypluwa ten sam plik, a generowanie HTML, PDF i EPUB oraz ocena formalna zostają nietknięte. Skrypt obsługuje Gemini i ChatGPT bez nadzoru, wtyczka wchodzi tam, gdzie skrypt nie wchodzi.
+**Zasada architektoniczna:** `dialog.json` zostaje kontraktem. Wtyczka jest alternatywnym sposobem pobrania, a nie nowym narzędziem - wypluwa ten sam plik, a generowanie HTML, PDF i EPUB oraz weryfikacja formalna zostają nietknięte. Skrypt obsługuje Gemini i ChatGPT bez nadzoru, wtyczka wchodzi tam, gdzie skrypt nie wchodzi.
 
 Wyceny wtyczki nie robimy przed rozstrzygnięciem obszaru 7 w `prawnik.md`.
 
@@ -96,7 +96,7 @@ Wtyczka ma być **projektem otwartym fundacji**, możliwym do rozwijania przez s
 
 **Trzy warunki, ustalone od razu:**
 
-1. **Wersja licząca jest zamrożona na edycję.** Kod liczący słowa i wypowiedzi rozstrzyga, kto przechodzi ocenę formalną. Zmiana metody liczenia w trakcie naboru to zmiana reguł w trakcie gry - ta sama zasada co w § 8 ust. 10a. Wersja obowiązująca ustalana jest przed otwarciem naboru; w trakcie wchodzą wyłącznie poprawki przywracające działanie po zmianie u dostawcy, nigdy zmiany metody.
+1. **Wersja licząca jest zamrożona na edycję.** Kod liczący słowa i wypowiedzi rozstrzyga, kto przechodzi weryfikację formalną. Zmiana metody liczenia w trakcie naboru to zmiana reguł w trakcie gry - ta sama zasada co w § 8 ust. 10a. Wersja obowiązująca ustalana jest przed otwarciem naboru; w trakcie wchodzą wyłącznie poprawki przywracające działanie po zmianie u dostawcy, nigdy zmiany metody.
 2. **Decyzja o scaleniu zostaje przy fundacji.** Otwarty kod nie oznacza, że każdy może zmienić narzędzie rozstrzygające.
 3. **Minimalne uprawnienia i dyscyplina wydań.** Rozszerzenie z dostępem do stron, na których ludzie rozmawiają z modelami, jest celem dla kogoś, kto chciałby wypuścić zatrutą wersję. Żadnych połączeń sieciowych poza jawnym zgłoszeniem błędu; wydania podpisywane po przeglądzie.
 
@@ -123,22 +123,22 @@ Wariant „uczestnik sam załącza eksport rozmowy" wydawał się odporny na wsz
 
 Przyjęcie takiego pliku to zbieranie danych bez podstawy przetwarzania, wbrew zasadzie minimalizacji (art. 5 ust. 1 lit. c RODO) - w przedsięwzięciu, którego polityka prywatności podkreśla, że nie zbiera nawet numeru telefonu od wszystkich uczestników. **Regulamin i formularz mają to wprost zakazywać**, a nie przyjmować i usuwać później.
 
-Zostaje to, co jest u każdego dostawcy i obejmuje wyłącznie jedną rozmowę: **wydruk strony do PDF** z poziomu przeglądarki uczestnika. Cena: PDF nie niesie struktury, więc ocena formalna na nim nie pojedzie - role i liczbę tur trzeba by odtwarzać heurystycznie albo czytać ręcznie.
+Zostaje to, co jest u każdego dostawcy i obejmuje wyłącznie jedną rozmowę: **wydruk strony do PDF** z poziomu przeglądarki uczestnika. Cena: PDF nie niesie struktury, więc weryfikacja formalna na nim nie pojedzie - role i liczbę tur trzeba by odtwarzać heurystycznie albo czytać ręcznie.
 
-Wniosek zmieniający hierarchię: plik od uczestnika **nie jest drogą równoległą do skrapera, tylko zabezpieczeniem na wypadek zniknięcia linku** - czyli dokładnie tym, co obiecuje § 5 ust. 6. Ocena formalna i archiwum opierają się na kopii pobranej przez organizatora; PDF od uczestnika leży obok jako dowód, że rozmowa istniała w zgłoszonym kształcie.
+Wniosek zmieniający hierarchię: plik od uczestnika **nie jest drogą równoległą do skrapera, tylko zabezpieczeniem na wypadek zniknięcia linku** - czyli dokładnie tym, co obiecuje § 5 ust. 6. Weryfikacja formalna i archiwum opierają się na kopii pobranej przez organizatora; PDF od uczestnika leży obok jako dowód, że rozmowa istniała w zgłoszonym kształcie.
 
 ## 7. Wniosek operacyjny
 
 Trzej dostawcy to trzy różne sposoby dobierania się do treści, a każdy z nich może przebudować stronę w dowolnym tygodniu naboru - wtedy zgłoszenia przestają się archiwizować z dnia na dzień. Pięćdziesiąt godzin w budżecie wystarcza na napisanie narzędzia, nie na roczne pilnowanie go, i nie obejmuje wtyczki.
 
-Żadna z dróg nie jest odporna na wszystko. Skrypt jest tani i bezobsługowy, ale zatrzymuje go zabezpieczenie antybotowe i przebudowa strony. Wtyczka obchodzi jedno i drugie, ale kosztuje czas człowieka przy każdym zgłoszeniu i musi poradzić sobie z wirtualizacją. Plik od uczestnika jest niezależny od dostawcy, ale w postaci eksportu całego konta jest niedopuszczalny, a w postaci wydruku do PDF nie nadaje się do oceny formalnej. Dlatego układ docelowy jest wielowarstwowy, a nie jednym narzędziem: skrypt tam, gdzie działa; wtyczka tam, gdzie skrypt nie wchodzi; PDF od uczestnika jako zabezpieczenie na wypadek zniknięcia linku; sprawdzenie ręczne jako jawny wyjątek, nigdy jako ciche przepuszczenie niepełnej kopii.
+Żadna z dróg nie jest odporna na wszystko. Skrypt jest tani i bezobsługowy, ale zatrzymuje go zabezpieczenie antybotowe i przebudowa strony. Wtyczka obchodzi jedno i drugie, ale kosztuje czas człowieka przy każdym zgłoszeniu i musi poradzić sobie z wirtualizacją. Plik od uczestnika jest niezależny od dostawcy, ale w postaci eksportu całego konta jest niedopuszczalny, a w postaci wydruku do PDF nie nadaje się do weryfikacji formalnej. Dlatego układ docelowy jest wielowarstwowy, a nie jednym narzędziem: skrypt tam, gdzie działa; wtyczka tam, gdzie skrypt nie wchodzi; PDF od uczestnika jako zabezpieczenie na wypadek zniknięcia linku; sprawdzenie ręczne jako jawny wyjątek, nigdy jako ciche przepuszczenie niepełnej kopii.
 
 
 ## 8. Domyślna widoczność linku udostępniania (ustalone 23.10.2026)
 
 U Claude link udostępniania powstaje domyślnie z ustawieniem **„Who has access: Only people invited"**. Osoba otwierająca taki link trafia na ekran logowania i rozmowy nie widzi. Dopiero przełączenie na **„Anyone with the link"** daje link publiczny, otwierany bez logowania. Wykryte przypadkiem podczas rozmowy z agencją 23.10.2026, gdy Piotr Byliński próbował otworzyć własny link.
 
-**Dlaczego to jest ważne dla naboru.** Uczestnik, który nie przestawi tego ustawienia, zgłosi link, którego Organizator nie otworzy. Zgłoszenie odpadnie na ocenie formalnej, a uczestnik nie będzie wiedział dlaczego - z jego perspektywy link działa, bo sam jest zalogowany. To jest dokładnie ten rodzaj cichej porażki, który psuje zaufanie do konkursu.
+**Dlaczego to jest ważne dla naboru.** Uczestnik, który nie przestawi tego ustawienia, zgłosi link, którego Organizator nie otworzy. Zgłoszenie odpadnie na weryfikacji formalnej, a uczestnik nie będzie wiedział dlaczego - z jego perspektywy link działa, bo sam jest zalogowany. To jest dokładnie ten rodzaj cichej porażki, który psuje zaufanie do konkursu.
 
 **Co z tym robimy:**
 
@@ -171,7 +171,7 @@ Niezależnie od ścieżki: **walidacja kompletności z twardym odrzuceniem.** Sy
 
 - **Przyjęcie zgłoszenia** z weryfikacją numeru telefonu kodem SMS, jedno zgłoszenie na osobę.
 - **Sprawdzenie dostępności linku w chwili zgłoszenia**, z natychmiastowym komunikatem zamiast odrzucenia po terminie (punkt 8).
-- **Ocena formalna** - próg znaków, naprzemienność, reguła z punktu 4 o kierowaniu do sprawdzenia ręcznego.
+- **Weryfikacja formalna** - próg znaków, naprzemienność, reguła z punktu 4 o kierowaniu do sprawdzenia ręcznego.
 - **Przechowywanie i retencja** - usuwanie danych nienagrodzonych w terminie z polityki prywatności, z kolizją przy pytaniach o oceny po gali opisaną w [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 1.
 - **Panel pracy dla akademii i jury** - poza zakresem agencji, po stronie Krzyśka.
 - Bez ciasteczek, bez zewnętrznej analityki, dane w EOG.

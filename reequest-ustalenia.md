@@ -51,7 +51,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 **Co dochodzi i wymaga wyceny:**
 
-**Czytelnia zgłoszeń - cały 2027.** Lista, która rośnie przez rok: imię i nazwisko albo pseudonim, link do rozmowy opublikowany przez uczestnika, opis odkrycia (200-1500 znaków). **Kolejność wyłącznie po dacie zgłoszenia, bez sortowania i bez wyróżniania.** Przeczytane oznaczane lokalnie. Obecność na czytelni jest warunkiem udziału; wpis pojawia się po przejściu oceny formalnej. **To jest odpowiedź na zarzut o rozwodnieniu rocznego okna** - strona ma wreszcie powód, by na nią wracać.
+**Czytelnia zgłoszeń - cały 2027.** Lista, która rośnie przez rok: imię i nazwisko albo pseudonim, link do rozmowy opublikowany przez uczestnika, opis odkrycia (200-1500 znaków). **Kolejność wyłącznie po dacie zgłoszenia, bez sortowania i bez wyróżniania.** Przeczytane oznaczane lokalnie. Obecność na czytelni jest warunkiem udziału; wpis pojawia się po przejściu weryfikacji formalnej. **To jest odpowiedź na zarzut o rozwodnieniu rocznego okna** - strona ma wreszcie powód, by na nią wracać.
 
 **Półka z gwiazdkami.** Czytelnik oznacza rozmowy, do których chce wrócić, i w styczniu 2028 wybiera z własnej półki. **Gwiazdki zostają na urządzeniu i nigdy nie trafiają na serwer** - inaczej powstałby żywy licznik popularności. Potrzebny eksport i import półki, bo rok zbierania ginie przy wyczyszczeniu przeglądarki, a kont nie ma i nie będzie.
 
@@ -75,7 +75,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 **Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do czytelni, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
 
-**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do oceny formalnej, panel pracy akademii i jury, mechanizmy czytelni, półki i głosowania, publikowanie archiwum.
+**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do weryfikacji formalnej, panel pracy akademii i jury, mechanizmy czytelni, półki i głosowania, publikowanie archiwum.
 
 **Kolejność przyjęta przez agencję:** branding przed stroną. Zdanie Piotra: „wynikiem naszej pracy będzie strona internetowa, ale wpierw musimy przejść przez branding". Ela przygotuje plan warsztatów i wyśle mailem przed pierwszym spotkaniem. Warsztaty najlepiej na żywo, w Warszawie.
 

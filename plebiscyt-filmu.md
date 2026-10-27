@@ -124,11 +124,11 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia filmu</h3>
-<p><strong>Wszystkie zgłoszenia, które przeszły ocenę formalną, ogląda akademia filmu</strong> i przekazuje jury listę wyłonioną według zasad ogłoszonych przed naborem. Ocenia tą samą kartą oceny co jury.</p>
+<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia filmu</strong> i przekazuje jury listę wyłonioną według zasad <a href="/dokument/regulamin-filmu#karta-oceny">karty oceny</a> - tej samej, z którą pracuje jury.</p>
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność trójki.</strong> Akademia przekazuje jury nie więcej niż dwadzieścia filmów, żeby nakład pracy dał się ustalić przed powołaniem składu. Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem, a oceniający wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
+<p><strong>Jury wybiera dziesięciu finalistów.</strong> Akademia przekazuje jury nie więcej niż dwadzieścia filmów. Składa się z profesjonalistów w branży filmowej; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem, a członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
 </article>
 </div>
 
@@ -139,19 +139,19 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Werdykt jury. Nagroda pieniężna i <strong>medal Nagrody Konstela</strong> z pieczęcią, grawerowany, wręczany osobiście - ten sam, który dostają zwycięzcy pozostałych plebiscytów.</p>
+<p>Nagroda pieniężna, <strong>medal Nagrody Konstela</strong> z pieczęcią, grawerowany, wręczany osobiście - ten sam, który dostają zwycięzcy pozostałych plebiscytów - dyplom i kwalifikacja do dystrybucji kinowej.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury, dyplomy i kwalifikacja do dystrybucji kinowej.</p>
+</article>
+<article>
+<h3>Siedem wyróżnień</h3>
+<p>Dla pozostałych finalistów: dyplom i kwalifikacja do dystrybucji kinowej. Z wyróżnieniem nie wiąże się nagroda pieniężna.</p>
 </article>
 <article>
 <h3>Nagroda Publiczności</h3>
 <p>Otwarte głosowanie, niezależne od werdyktu jury: jeden głos na numer telefonu, liczniki ukryte do gali.</p>
-</article>
-<article>
-<h3>Siedem wyróżnień</h3>
-<p>Dla pozostałych finalistów: dyplom oraz miejsce w zestawie filmów, który kierujemy do pokazów i dystrybucji - jeżeli pozyskamy partnera z salą. Z wyróżnieniem nie wiąże się nagroda pieniężna.</p>
 </article>
 <article>
 <h3>Zwiastun na gali</h3>
@@ -159,11 +159,11 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 </div>
 
-**Pełne pokazy filmów finałowych - jeżeli znajdziemy salę.** Chcemy pokazać finałową piątkę w całości, osobno od gali, ale nie obiecujemy tego w regulaminie, bo zależy to od pozyskania partnera z salą projekcyjną. Jeżeli się uda, pytamy autorów o zgodę; odmowa nie wpływa ani na ocenę, ani na nagrodę.
+**Kwalifikacja do dystrybucji kinowej znaczy tyle: wchodzisz do zestawu, który kierujemy do pokazów.** Dziesiątka finalistów składa się na zestaw filmów, z którym idziemy do partnerów dysponujących salami projekcyjnymi. Chcemy pokazać te filmy w całości, osobno od gali, ale **nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania takiego partnera. Jeżeli się uda, pytamy autorów o zgodę; odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
 <h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i archiwum</span></h2>
 
-Przez cały nabór prowadzimy **Projektornię** - publiczną listę zgłoszeń przyjętych do plebiscytu. Wpis pojawia się po przejściu oceny formalnej, a kolejność wyznacza wyłącznie data zgłoszenia: nie ma rankingu, liczników odsłon ani popularności.
+Przez cały nabór prowadzimy **Projektornię** - publiczną listę zgłoszeń przyjętych do plebiscytu. Wpis pojawia się po przejściu weryfikacji formalnej, a kolejność wyznacza wyłącznie data zgłoszenia: nie ma rankingu, liczników odsłon ani popularności.
 
 **Projektornia jest katalogiem, nie repozytorium.** Kopii filmów u siebie nie przechowujemy: we wpisie stoi tytuł, podpis, miniatura, zwiastun, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi i link do filmu. Film i zwiastun odtwarzają się z Twojego kanału, więc usunięcie ich stamtąd jest skuteczne natychmiast i nie wymaga niczyjej zgody.
 

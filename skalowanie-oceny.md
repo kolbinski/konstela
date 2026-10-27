@@ -12,7 +12,7 @@ Drugi problem: dzika karta przysługuje każdemu członkowi akademii, więc **ro
 
 Dziś: Akademia -> jury. Proponowane (tylko dla bardzo dużego naboru):
 
-**Stopień 0 - ocena formalna.** Mechaniczna, na `dialog.json`: liczba słów i wypowiedzi, język, ciągłość wątku, okno rozmów, duplikat rozmowy, jedno zgłoszenie na osobę. Narzędzia AI wyłącznie **oznaczają** podejrzenia z § 6 pkt 9-12; każde odrzucenie potwierdza człowiek. Przepustowość praktycznie nieograniczona.
+**Stopień 0 - weryfikacja formalna.** Mechaniczna, na `dialog.json`: liczba słów i wypowiedzi, język, ciągłość wątku, okno rozmów, duplikat rozmowy, jedno zgłoszenie na osobę. Narzędzia AI wyłącznie **oznaczają** podejrzenia z § 6 pkt 9-12; każde odrzucenie potwierdza człowiek. Przepustowość praktycznie nieograniczona.
 
 **Stopień 1 - odczyt wstępny.** Każde zgłoszenie czyta jeden członek akademii, przeciw jednemu pytaniu: czy jest w tej rozmowie moment, w którym człowiek doszedł do czegoś, czego nie wiedział na wejściu, i czy da się go wskazać. Około pięciu minut na rozmowę. **To jedyny stopień rosnący z liczbą zgłoszeń - i rośnie liczbą ludzi, nie czasem.** Zabezpieczenia jak dziś: pasmo pod progiem dostaje drugi odczyt, plus losowy audyt części odrzuconych.
 
@@ -32,7 +32,7 @@ Sprawdzian od strony pieniędzy: honoraria jury 69 500 zł, przy pięciu osobach
 
 ## Archiwum odcięte od jury
 
-**Nieaktualne od 26.10.2026:** archiwum obejmuje dziś wszystkie zgłoszenia po ocenie formalnej, więc nie równa się już rundzie drugiej i nie wymaga rozdzielania opisanego poniżej. Akapit zostaje jako zapis rozumowania. Dawniej: archiwum = runda druga = to, co czyta jury. Przy tej strukturze trzeba to rozdzielić: **do jury idzie 60, do archiwum wchodzi wszystko, co przeszło rundę zbieżności** (~400). Powód: archiwum z sześćdziesięcioma pozycjami nie jest publicznym zbiorem dokumentującym rok rozmów Polaków z AI, tylko długą listą finalistów. Każda rozmowa ze stopnia 2 ma dwa odczyty, więc warunek z § 11 ust. 11 lit. h jest spełniony z definicji.
+**Nieaktualne od 26.10.2026:** archiwum obejmuje dziś wszystkie zgłoszenia po weryfikacji formalnej, więc nie równa się już rundzie drugiej i nie wymaga rozdzielania opisanego poniżej. Akapit zostaje jako zapis rozumowania. Dawniej: archiwum = runda druga = to, co czyta jury. Przy tej strukturze trzeba to rozdzielić: **do jury idzie 60, do archiwum wchodzi wszystko, co przeszło rundę zbieżności** (~400). Powód: archiwum z sześćdziesięcioma pozycjami nie jest publicznym zbiorem dokumentującym rok rozmów Polaków z AI, tylko długą listą finalistów. Każda rozmowa ze stopnia 2 ma dwa odczyty, więc warunek z § 11 ust. 11 lit. h jest spełniony z definicji.
 
 ## Dwie rzeczy do rozstrzygnięcia
 

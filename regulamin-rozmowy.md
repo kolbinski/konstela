@@ -17,7 +17,7 @@
 
 4. **Miejsce tego plebiscytu wśród pozostałych.** Niniejszy regulamin dotyczy **plebiscytu na rozmowę ze sztuczną inteligencją**. Nagroda Konstela przyznawana jest również w plebiscytach na piosenkę, na plakat i na film o sztucznej inteligencji, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
 4. **Antologia** - publikacja zawierająca dziesięć najwyżej ocenionych rozmów edycji w całości, bez skrótów, wraz z komentarzami jury (§ 8 ust. 13a). Ukazuje się nieodpłatnie w postaci elektronicznej, a w razie wydania płatnego na zasadach z § 13 ust. 4.
-5. **Archiwum rozmów** - publicznie dostępny zbiór **wszystkich zgłoszeń, które przeszły ocenę formalną** (§ 6), utrwalony w dniu określonym w § 11 ust. 10a lit. g i udostępniany od dnia ogłoszenia wyników, publikowany odrębnie od antologii. Obejmuje kopię rozmowy sporządzoną przez Organizatora, link opublikowany przez Uczestnika oraz **jawną punktację** wystawioną przez akademię, jury i publiczność, bez komentarzy jury. Zasady określa § 11 ust. 11.
+5. **Archiwum rozmów** - publicznie dostępny zbiór **wszystkich zgłoszeń, które przeszły weryfikację formalną** (§ 6), utrwalony w dniu określonym w § 11 ust. 10a lit. g i udostępniany od dnia ogłoszenia wyników, publikowany odrębnie od antologii. Obejmuje kopię rozmowy sporządzoną przez Organizatora, link opublikowany przez Uczestnika oraz **jawną punktację** wystawioną przez akademię, jury i publiczność, bez komentarzy jury. Zasady określa § 11 ust. 11.
 6. **Kopia archiwalna** - zapis rozmowy sporządzany przez Organizatora niezwłocznie po wpłynięciu zgłoszenia, obejmujący treść, znacznik czasu i sumę kontrolną. Od chwili jej sporządzenia ocenie podlega kopia, a nie treść dostępna pod linkiem (§ 5 ust. 5 i 8).
 
 ## § 3. Uczestnicy
@@ -39,7 +39,7 @@
 |---|---|
 | Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 31 grudnia 2027 r.** |
 | Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **15 stycznia 2028 r., godz. 23:59** |
-| Ocena formalna | na bieżąco, w miarę wpływania zgłoszeń |
+| Weryfikacja formalna | na bieżąco, w miarę wpływania zgłoszeń |
 | Runda pierwsza (akademia) | na bieżąco, partiami, od lutego 2027 do stycznia 2028 |
 | Runda druga (jury) | styczeń i luty 2028 |
 | Rozmowy weryfikacyjne | pierwsza połowa lutego 2028 |
@@ -129,7 +129,7 @@ Terminy usunięcia danych z lit. a-c określa § 12.
 
    a) narzędzie **nie ocenia treści** i nie sprawdza podstaw odrzucenia z § 6 pkt 5 oraz 9-12, które wymagają oceny przez człowieka; brak zastrzeżeń ze strony narzędzia nie oznacza, że rozmowa tych podstaw nie narusza;
 
-   b) wynik ma charakter **informacyjny i niewiążący**; rozstrzygająca jest ocena formalna przeprowadzana po wpłynięciu zgłoszenia;
+   b) wynik ma charakter **informacyjny i niewiążący**; rozstrzygająca jest weryfikacja formalna przeprowadzana po wpłynięciu zgłoszenia;
 
    c) narzędzie **nie przechowuje sprawdzanych rozmów** ani ich fragmentów;
 
@@ -155,7 +155,7 @@ Terminy usunięcia danych z lit. a-c określa § 12.
 
 ## § 6. Wymogi formalne rozmowy
 
-Ocena formalna obejmuje wyłącznie czynności sprawdzające wymienione niżej i **nie obejmuje oceny treści rozmowy ani badania, czy została zainscenizowana**. Zgłoszenie podlega odrzuceniu na etapie oceny formalnej, jeżeli rozmowa:
+Weryfikacja formalna obejmuje wyłącznie czynności sprawdzające wymienione niżej i **nie obejmuje oceny treści rozmowy ani badania, czy została zainscenizowana**. Zgłoszenie podlega odrzuceniu na etapie weryfikacji formalnej, jeżeli rozmowa:
 
 1. zawiera **mniej niż 800 słów wypowiedzi Uczestnika** albo **mniej niż 12 jego kolejnych wypowiedzi** w wątku; liczone są wyłącznie wypowiedzi Uczestnika, bez wypowiedzi modelu, ponieważ to one są przedmiotem oceny. Dwa progi działają łącznie: pierwszy zapewnia materiał do oceny, drugi wyklucza zgłoszenie złożone z jednego rozbudowanego polecenia i jednej odpowiedzi, które nie jest rozmową. Próg słów jest celowo niski, aby nie premiować rozmów długich kosztem zwięzłych i gęstych. **Liczby słów i wypowiedzi ustala Organizator na kopii archiwalnej; Uczestnik nie podaje ich w zgłoszeniu i nie ma obowiązku ich liczyć.** Za słowo uznaje się ciąg znaków oddzielony spacją, z pominięciem cytowanych fragmentów kodu i komunikatów błędów wklejonych przez Uczestnika; za wypowiedź - pojedynczą wiadomość Uczestnika w wątku. W razie wyniku mieszczącego się w granicach pięciu procent poniżej progu rozstrzygnięcie zapada **na korzyść Uczestnika**;
 2. liczy **więcej niż 25 000 słów** łącznie (wypowiedzi Uczestnika i modelu razem); górny limit wynika z realnego czasu pracy oceniających i jest podany wprost, aby Uczestnik mógł się do niego zastosować;
@@ -179,7 +179,7 @@ Organizator nie publikuje treści odrzuconego zgłoszenia i informuje Uczestnika
 
 **Szczególna ostrożność przy ust. 11.** Jeżeli ze zgłoszenia wynika, że Uczestnik lub inna osoba może znajdować się w kryzysie, Organizator ogranicza korespondencję do krótkiej, życzliwej informacji o odrzuceniu wraz ze wskazaniem ogólnodostępnych numerów wsparcia, nie ocenia sytuacji Uczestnika, nie prowadzi z nim rozmowy o jego stanie i nie przekazuje treści zgłoszenia osobom trzecim, poza przypadkami wynikającymi z przepisów prawa. Ograniczenie to nie pozbawia Uczestnika możliwości wykazania, że temat rozmowy został błędnie zakwalifikowany jako jego osobisty kryzys; takie wyjaśnienie Organizator rozpoznaje w trybie określonym wyżej.
 
-Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupełnienia braków, nie poprawia zgłoszeń i nie przedłuża terminu w tym celu; zgłoszenie niekompletne odpada na etapie oceny formalnej. Do upływu terminu zgłoszeń Uczestnik może przesłać zgłoszenie poprawione, które zastępuje poprzednie.
+Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupełnienia braków, nie poprawia zgłoszeń i nie przedłuża terminu w tym celu; zgłoszenie niekompletne odpada na etapie weryfikacji formalnej. Do upływu terminu zgłoszeń Uczestnik może przesłać zgłoszenie poprawione, które zastępuje poprzednie.
 
 ## § 7. Kryteria oceny
 
@@ -213,7 +213,7 @@ Dodatkowo:
 12. W razie równej liczby punktów o kolejności rozstrzyga wyższa ocena w kryterium **Rozpiętość**, a następnie w kryterium **Plon**.
 13. **Kolejność czytania.** Oceniający zapoznaje się najpierw z opisem odkrycia sporządzonym przez Uczestnika (§ 5 ust. 2 lit. b), a dopiero potem z samą rozmową. Opis ma pokazać, czy Uczestnik potrafi własnymi słowami nazwać to, do czego doszedł. Rozbieżność między opisem odkrycia a treścią rozmowy jest sama w sobie informacją i powinna zostać odnotowana.
 
-13a. **Pola nieoceniane.** Tytuł rozmowy (§ 5 ust. 2 lit. a1), ilustracja rozmowy (§ 5 ust. 2 lit. a2) oraz uzasadnienie „dlaczego warte nagrody głównej" (§ 5 ust. 2 lit. b1) **nie podlegają punktacji w żadnym kryterium**. Wszystkie trzy są widoczne publicznie w czytelni zgłoszeń od chwili przejścia oceny formalnej (§ 11 ust. 10a), więc panel oceniającego ich nie zasłania - udawanie, że oceniający ich nie widzi, byłoby pozorne. Zabezpieczeniem nie jest tajemnica, lecz **wyłączenie tych pól z punktacji**.
+13a. **Pola nieoceniane.** Tytuł rozmowy (§ 5 ust. 2 lit. a1), ilustracja rozmowy (§ 5 ust. 2 lit. a2) oraz uzasadnienie „dlaczego warte nagrody głównej" (§ 5 ust. 2 lit. b1) **nie podlegają punktacji w żadnym kryterium**. Wszystkie trzy są widoczne publicznie w czytelni zgłoszeń od chwili przejścia weryfikacji formalnej (§ 11 ust. 10a), więc panel oceniającego ich nie zasłania - udawanie, że oceniający ich nie widzi, byłoby pozorne. Zabezpieczeniem nie jest tajemnica, lecz **wyłączenie tych pól z punktacji**.
 14. **Przygotowanie a inscenizacja.** Dozwolone jest przygotowanie się do rozmowy, w tym korzystanie z wcześniejszych konsultacji, notatek i planu wątków. Niedozwolone jest zgłoszenie rozmowy odtwarzającej z góry ustalony przebieg, której wynik był znany Uczestnikowi przed jej rozpoczęciem (§ 11 ust. 1 lit. c). Rozstrzygające jest to, czy odkrycie nastąpiło w rozmowie, czy zostało w niej odegrane.
 
 <span id="karta-oceny"></span>
@@ -359,7 +359,7 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 
    g) **liczba grup czytających w jednej szkole nie jest ograniczona**, lecz szkoła przedstawia **jedno wskazanie**, uzgodnione między swoimi grupami. Dzięki temu każda szkoła waży tyle samo niezależnie od wielkości, a liczba zgłoszonych grup nie wpływa na wynik.
 
-3. **Podział ról.** Oceny formalnej (§ 6) dokonuje Organizator lub wskazana przez niego osoba. **Oceny merytorycznej pierwszej rundy dokonuje akademia**, według tych samych kryteriów z § 7 i tej samej Karty oceny. **Rozstrzygnięcia, to jest ustalenia dziesiątki antologii i ostatecznej kolejności, dokonuje wyłącznie jury.** Organizator nie ocenia merytorycznie, nie dokonuje wstępnej selekcji i nie wskazuje jury zgłoszeń wyróżnionych.
+3. **Podział ról.** Weryfikacji formalnej (§ 6) dokonuje Organizator lub wskazana przez niego osoba. **Oceny merytorycznej pierwszej rundy dokonuje akademia**, według tych samych kryteriów z § 7 i tej samej Karty oceny. **Rozstrzygnięcia, to jest ustalenia dziesiątki antologii i ostatecznej kolejności, dokonuje wyłącznie jury.** Organizator nie ocenia merytorycznie, nie dokonuje wstępnej selekcji i nie wskazuje jury zgłoszeń wyróżnionych.
 3a. **Oznaczanie zastrzeżeń prawnych przez oceniających.** Oprócz oceny merytorycznej oceniający **oznacza w panelu zastrzeżenie**, jeżeli w rozmowie dostrzeże dane osobowe osoby trzeciej, przytoczenie całego cudzego utworu krótkiego albo cudzy materiał wgrany do rozmowy. Zasady:
 
    a) **oznaczenie jest sygnałem, nie rozstrzygnięciem.** Oceniający wskazuje miejsce i rodzaj zastrzeżenia; o nieopublikowaniu kopii rozmowy w archiwum rozstrzyga wyłącznie Organizator, w trybie z § 11 ust. 11 lit. e-f;
@@ -376,7 +376,7 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 
    d) zadanie to powierzono oceniającym dlatego, że **i tak czytają każde zgłoszenie**, a przegląd prowadzony osobno przez Organizatora nie skalowałby się wraz z liczbą zgłoszeń. **Rozstrzygnięcia Organizatora dotyczą zgłoszeń oznaczonych oraz innych przypadków, w których Organizator otrzymał konkretny sygnał albo sam powziął wiadomość o problemie.** Nie oznacza to obowiązku odrębnego przeglądania wszystkich zgłoszeń.
 
-4. **Panel oceny.** Zgłoszenia, które przeszły ocenę formalną, udostępniane są jury i akademii w zabezpieczonym hasłem panelu na stronie Nagrody. Przy każdym zgłoszeniu panel pokazuje: kopię rozmowy sporządzoną przez Organizatora (§ 5 ust. 5), link do rozmowy, opis odkrycia sporządzony przez Uczestnika, nazwę użytego modelu i datę rozmowy. **Organizator nie sporządza streszczeń zgłoszeń ani nie zleca ich sporządzenia narzędziom automatycznym**; jedynym streszczeniem, które widzi oceniający, jest opis odkrycia napisany przez samego Uczestnika.
+4. **Panel oceny.** Zgłoszenia, które przeszły weryfikację formalną, udostępniane są jury i akademii w zabezpieczonym hasłem panelu na stronie Nagrody. Przy każdym zgłoszeniu panel pokazuje: kopię rozmowy sporządzoną przez Organizatora (§ 5 ust. 5), link do rozmowy, opis odkrycia sporządzony przez Uczestnika, nazwę użytego modelu i datę rozmowy. **Organizator nie sporządza streszczeń zgłoszeń ani nie zleca ich sporządzenia narzędziom automatycznym**; jedynym streszczeniem, które widzi oceniający, jest opis odkrycia napisany przez samego Uczestnika.
 
 5. **Ograniczenie danych osobowych w ocenie.** Panel **nie ujawnia jury ani akademii imienia, nazwiska, adresu e-mail ani miejscowości Uczestnika**; zgłoszenia oznaczone są numerami. Organizator zastrzega jednak wyraźnie, że **ocena nie jest w pełni anonimowa**: przedmiotem oceny jest rzeczywista rozmowa, której treść może zawierać informacje pozwalające rozpoznać Uczestnika (zawód, miejsce pracy, prowadzone projekty), a niektóre interfejsy modeli wyświetlają w udostępnionej rozmowie imię lub awatar użytkownika. Zgłaszając rozmowę, Uczestnik przyjmuje to do wiadomości.
 
@@ -393,7 +393,7 @@ Wyłączenie dotyczy wyłącznie zgłoszenia, którego konflikt dotyczy; człone
 7. **Ujawnienie tożsamości.** Dane Uczestników ujawniane są jury dopiero po ustaleniu ostatecznej kolejności, przy okazji rozmów weryfikacyjnych i przygotowania antologii.
 8. **Udział narzędzi automatycznych.** Narzędzia oparte na modelach językowych wykorzystywane są wyłącznie do weryfikacji warunków formalnych: liczby słów, języka i ciągłości wątku. **Narzędzia te nie oceniają zgłoszeń, nie przyznają punktów, nie ustalają kolejności i nie sporządzają streszczeń.** Zgłoszenia nie są przekazywane dostawcom modeli w celu ich opracowania.
 9. **Kolejność prezentacji.** Zgłoszenia prezentowane są każdemu członkowi jury w kolejności losowej, odrębnej dla każdego z nich, aby wykluczyć wpływ kolejności na ocenę.
-10. **Tryb oceny zależny od liczby zgłoszeń.** Progi poniżej Organizator ogłasza **przed rozpoczęciem naboru** i liczy wyłącznie od **zgłoszeń, które przeszły ocenę formalną** (§ 6); zgłoszenia odrzucone formalnie nie są uwzględniane. Tryb obowiązujący w danym momencie wynika z liczby zgłoszeń, a nie z decyzji Organizatora podejmowanej po zamknięciu naboru; po zamknięciu naboru Organizator ogłasza w terminie 7 dni, który tryb został ostatecznie zastosowany:
+10. **Tryb oceny zależny od liczby zgłoszeń.** Progi poniżej Organizator ogłasza **przed rozpoczęciem naboru** i liczy wyłącznie od **zgłoszeń, które przeszły weryfikację formalną** (§ 6); zgłoszenia odrzucone formalnie nie są uwzględniane. Tryb obowiązujący w danym momencie wynika z liczby zgłoszeń, a nie z decyzji Organizatora podejmowanej po zamknięciu naboru; po zamknięciu naboru Organizator ogłasza w terminie 7 dni, który tryb został ostatecznie zastosowany:
 
    a) **do 20 zgłoszeń** - akademii nie powołuje się; każdy członek jury ocenia wszystkie zgłoszenia;
 
@@ -418,7 +418,7 @@ Tryb nie jest wybierany przez Organizatora: wynika z liczby zgłoszeń według p
 
    e) uprawnienie z ust. 11 przysługuje bez zmian, z zastrzeżeniem, że **nie zastępuje ono zabezpieczeń z lit. b-d**: dzika karta chroni zgłoszenie, które ktoś przeczytał i docenił, i nie chroni przed przeoczeniem przez jedynego czytelnika.
 
-10b. **Granica przepustowości.** Jeżeli liczba zgłoszeń, które przeszły ocenę formalną, przekroczy poziom pozwalający rzetelnie przeprowadzić pierwszą rundę w terminach z § 4 nawet w trybie z ust. 10 lit. e, Organizator **nie ogranicza liczby przyjmowanych zgłoszeń ani nie odstępuje od przeczytania któregokolwiek z nich**, lecz przesuwa dzień ogłoszenia wyników o czas niezbędny do zakończenia oceny, ogłaszając na stronie Nagrody nową datę wraz z uzasadnieniem i liczbą zgłoszeń, której to dotyczy. Przesunięcie z tej przyczyny nie podlega ograniczeniu z § 4; pozostałe terminy liczone od dnia ogłoszenia wyników biegną od daty nowej. Powód: antologia każdej edycji ma być zapisem rozmów z całego roku, a nie z tej ich części, którą zdążono przeczytać, zaś **żadne zgłoszenie nie może zostać odrzucone bez przeczytania przez człowieka**.
+10b. **Granica przepustowości.** Jeżeli liczba zgłoszeń, które przeszły weryfikację formalną, przekroczy poziom pozwalający rzetelnie przeprowadzić pierwszą rundę w terminach z § 4 nawet w trybie z ust. 10 lit. e, Organizator **nie ogranicza liczby przyjmowanych zgłoszeń ani nie odstępuje od przeczytania któregokolwiek z nich**, lecz przesuwa dzień ogłoszenia wyników o czas niezbędny do zakończenia oceny, ogłaszając na stronie Nagrody nową datę wraz z uzasadnieniem i liczbą zgłoszeń, której to dotyczy. Przesunięcie z tej przyczyny nie podlega ograniczeniu z § 4; pozostałe terminy liczone od dnia ogłoszenia wyników biegną od daty nowej. Powód: antologia każdej edycji ma być zapisem rozmów z całego roku, a nie z tej ich części, którą zdążono przeczytać, zaś **żadne zgłoszenie nie może zostać odrzucone bez przeczytania przez człowieka**.
 
 11. **Dzika karta.** Każdy członek akademii może raz w edycji skierować do oceny jury jedno zgłoszenie niezależnie od wyniku pierwszej rundy, uzasadniając to pisemnie. Zgłoszenie skierowane dziką kartą jest oceniane przez jury na równi z pozostałymi. Celem mechanizmu jest ochrona zgłoszeń nietypowych, które uśredniona ocena mogłaby odrzucić. Mechanizm działa wyłącznie wtedy, gdy zgłoszenie zostało przez kogoś przeczytane i docenione; ochronę przed przeoczeniem w trybie jednoosobowym zapewniają zabezpieczenia z ust. 10a.
 12. **Porównywalność ocen.** Przed rozpoczęciem oceny Organizator przeprowadza z jury i akademią próbę kalibracyjną na trzech rozmowach spoza edycji, reprezentujących różne poziomy i różne rodzaje wartości: wszyscy oceniają te same teksty niezależnie, a następnie omawiane są największe rozbieżności. Zgłoszenia dzielone są tak, aby każde otrzymało liczbę ocen przewidzianą dla trybu ustalonego zgodnie z ust. 10; przy rozbieżności przekraczającej **10 punktów w którymkolwiek kryterium** zarządza się ocenę trzecią.
@@ -461,7 +461,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 16. **Kontakt i termin.** Organizator kontaktuje się z Uczestnikiem co najmniej trzykrotnie, na podany adres e-mail oraz telefonicznie, w odstępie nie krótszym niż 3 dni, wskazując termin nie krótszy niż 14 dni na odbycie rozmowy. Na wniosek Uczestnika Organizator wskazuje termin dodatkowy albo zgadza się na inną formę weryfikacji, w szczególności odpowiedź pisemną na te same pytania.
 17. Dopiero bezskuteczny upływ terminu po wyczerpaniu trybu z ust. 16 oznacza rezygnację ze zgłoszenia; miejsce zajmuje kolejne zgłoszenie z rankingu.
 18. **Odrzucenie za inscenizację.** Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez jury. Może natomiast skutkować odrzuceniem zgłoszenia, jeżeli ujawni, że rozmowa została zainscenizowana w rozumieniu § 7 ust. 14.
-**Podstawą wszczęcia trybu jest wyłącznie sygnał pochodzący od osoby, która zgłoszenie przeczytała**: członka akademii albo jury na etapie oceny merytorycznej, albo ustalenie z rozmowy weryfikacyjnej. **Ocena formalna (§ 6) nie obejmuje badania inscenizacji, a Organizator nie prowadzi z urzędu przeglądu zgłoszeń pod tym kątem.** Po otrzymaniu sygnału Organizator wszczyna tryb:
+**Podstawą wszczęcia trybu jest wyłącznie sygnał pochodzący od osoby, która zgłoszenie przeczytała**: członka akademii albo jury na etapie oceny merytorycznej, albo ustalenie z rozmowy weryfikacyjnej. **Weryfikacja formalna (§ 6) nie obejmuje badania inscenizacji, a Organizator nie prowadzi z urzędu przeglądu zgłoszeń pod tym kątem.** Po otrzymaniu sygnału Organizator wszczyna tryb:
 
    a) Organizator sporządza pisemne uzasadnienie wskazujące **konkretne podstawy**: fragmenty zgłoszonej rozmowy albo wypowiedzi z rozmowy weryfikacyjnej, z których wynika, że przebieg został odtworzony, a wynik był znany przed rozpoczęciem;
 
@@ -496,7 +496,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
 8. **Nagroda Publiczności.** Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana Nagroda Publiczności. Zasady:
 
-   a) **głosowanie obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną.** Żaden Uczestnik nie jest wyłączony z tej nagrody wskutek decyzji podjętej przy zgłoszeniu, ponieważ obecność w czytelni jest warunkiem udziału;
+   a) **głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną.** Żaden Uczestnik nie jest wyłączony z tej nagrody wskutek decyzji podjętej przy zgłoszeniu, ponieważ obecność w czytelni jest warunkiem udziału;
 
    a1) **zgłoszenie, którego prezentację ograniczono z przyczyn prawnych** (§ 11 ust. 10a lit. f), pozostaje w głosowaniu i otrzymuje **kartę ograniczoną**: tytuł rozmowy, podpis Uczestnika i te spośród pozostałych elementów, których prezentacja nie była przedmiotem ograniczenia. Jeżeli ograniczenie obejmuje wszystkie elementy opisowe, karta zawiera tytuł, podpis oraz informację, że prezentacja została ograniczona z przyczyn prawnych, bez wskazywania ich treści. Organizator zawiadamia o tym Uczestnika i na jego żądanie **wyłącza zgłoszenie z głosowania**, jeżeli Uczestnik uzna, że karta ograniczona działa na jego niekorzyść;
 
@@ -569,11 +569,11 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
 10. Skorzystanie z uprawnień, o których mowa w ust. 9, nie wpływa na przyznaną nagrodę ani na wynik edycji; laureat pozostaje laureatem, a informacja o rozstrzygnięciu nie jest usuwana.
 10a. **Czytelnia zgłoszeń.** Przez cały okres przyjmowania zgłoszeń Organizator prowadzi na stronie Nagrody **czytelnię zgłoszeń** - publiczną, rosnącą listę zgłoszeń przyjętych do plebiscytu. Zasady:
 
-   a) **obecność w czytelni jest warunkiem udziału w plebiscycie**, a nie przedmiotem odrębnej zgody ani wyboru Uczestnika; podstawą jest licencja z ust. 3 wraz z ust. 3a, który obejmuje prezentację zgłoszenia w czytelni od chwili jego przyjęcia po ocenie formalnej, a więc przed dniem, od którego liczony jest pięcioletni okres licencji. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia: imieniem i nazwiskiem albo pseudonimem (§ 5 ust. 2 lit. g);
+   a) **obecność w czytelni jest warunkiem udziału w plebiscycie**, a nie przedmiotem odrębnej zgody ani wyboru Uczestnika; podstawą jest licencja z ust. 3 wraz z ust. 3a, który obejmuje prezentację zgłoszenia w czytelni od chwili jego przyjęcia po weryfikacji formalnej, a więc przed dniem, od którego liczony jest pięcioletni okres licencji. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia: imieniem i nazwiskiem albo pseudonimem (§ 5 ust. 2 lit. g);
 
    b) **czytelnia nie zawiera treści rozmowy**. Prezentowane są wyłącznie: tytuł rozmowy (§ 5 ust. 2 lit. a1), ilustracja rozmowy (§ 5 ust. 2 lit. a2), podpis Uczestnika, link do rozmowy opublikowany przez samego Uczestnika u dostawcy modelu (§ 5 ust. 2 lit. a), opis odkrycia (§ 5 ust. 2 lit. b) oraz uzasadnienie „dlaczego warte nagrody głównej" (§ 5 ust. 2 lit. b1). Organizator nie zwielokrotnia rozmowy na własnej stronie na tym etapie, a odpowiedzialność za treść udostępnioną pod linkiem pozostaje po stronie Uczestnika;
 
-   c) **wpis pojawia się po przejściu oceny formalnej (§ 6), a nie w chwili złożenia zgłoszenia.** Czytelnia zawiera zatem wyłącznie zgłoszenia ważne, a pola prezentowane publicznie zostały wcześniej sprawdzone;
+   c) **wpis pojawia się po przejściu weryfikacji formalnej (§ 6), a nie w chwili złożenia zgłoszenia.** Czytelnia zawiera zatem wyłącznie zgłoszenia ważne, a pola prezentowane publicznie zostały wcześniej sprawdzone;
 
    d) **kolejność w czytelni wyznacza wyłącznie data zgłoszenia.** Organizator nie prowadzi w czytelni rankingu, nie publikuje liczników odsłon, polubień ani popularności i nie wyróżnia żadnego zgłoszenia inaczej niż na zasadach ogłoszonych przed naborem;
 
@@ -581,11 +581,11 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
 
    f) Organizator może **zdjąć wpis z czytelni, z zachowaniem przez Uczestnika pełnego udziału w plebiscycie**, wyłącznie na podstawach i w trybie określonych w § 7a ust. 2, 5 i 6, to jest w razie realnego ryzyka prawnego związanego z prezentacją wpisu. Wymaga to wskazania fragmentu oraz prawa, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w rozmowie nie jest podstawą zdjęcia wpisu;
 
-   g) **po zamknięciu przyjmowania zgłoszeń do czytelni nie trafiają zgłoszenia złożone po terminie.** Utrwalenie listy następuje natomiast dopiero **po zakończeniu oceny formalnej wszystkich zgłoszeń złożonych w terminie** - zgłoszenie złożone w ostatnich dniach naboru wchodzi więc do czytelni także wtedy, gdy ocena formalna kończy się już po zamknięciu naboru. Dzień utrwalenia Organizator ogłasza na stronie Nagrody. Dalsze losy utrwalonego zbioru określa ust. 11;
+   g) **po zamknięciu przyjmowania zgłoszeń do czytelni nie trafiają zgłoszenia złożone po terminie.** Utrwalenie listy następuje natomiast dopiero **po zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie** - zgłoszenie złożone w ostatnich dniach naboru wchodzi więc do czytelni także wtedy, gdy weryfikacja formalna kończy się już po zamknięciu naboru. Dzień utrwalenia Organizator ogłasza na stronie Nagrody. Dalsze losy utrwalonego zbioru określa ust. 11;
 
    h) narzędzia, którymi czytelnik oznacza zgłoszenia dla siebie - w szczególności półka pozycji zapamiętanych do późniejszej lektury - działają **wyłącznie w przeglądarce czytelnika i nie są przekazywane Organizatorowi**. Nie są one głosem w rozumieniu § 9 i nie są przez Organizatora zliczane.
 
-11. **Archiwum rozmów.** Archiwum obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną** (§ 6) i były prezentowane w czytelni zgłoszeń. Powstaje z czytelni utrwalonej w dniu określonym w ust. 10a lit. g, to jest po zakończeniu oceny formalnej wszystkich zgłoszeń złożonych w terminie i jest udostępniane od dnia ogłoszenia wyników, bezpłatnie i bez ograniczeń dostępu. Zasady:
+11. **Archiwum rozmów.** Archiwum obejmuje **wszystkie zgłoszenia, które przeszły weryfikację formalną** (§ 6) i były prezentowane w czytelni zgłoszeń. Powstaje z czytelni utrwalonej w dniu określonym w ust. 10a lit. g, to jest po zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie i jest udostępniane od dnia ogłoszenia wyników, bezpłatnie i bez ograniczeń dostępu. Zasady:
 
    a) publikacja w archiwum odbywa się na podstawie licencji z ust. 3 i **nie wymaga odrębnej zgody**; Uczestnik nie składa w tym zakresie osobnego oświadczenia;
 
@@ -621,7 +621,7 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
 
    k) **Kolejność kontroli przy dziesiątce antologii.** Kontrolę z lit. e i j dla zgłoszeń zakwalifikowanych do dziesiątki Organizator przeprowadza **przed ustaleniem przez jury ostatecznej kolejności**, a jej wynik przekazuje jury **jako informację o stanie faktycznym, nie jako rekomendację**. jury nie jest nim związana przy ocenie. Celem jest wyłącznie to, aby o ewentualnej niemożności opublikowania rozmowy wiedziano przed przyznaniem nagrody, a nie po nim.
 
-Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość plebiscytu. Archiwum obejmuje wszystkie zgłoszenia, które przeszły ocenę formalną, ponieważ dopiero taki zbiór pokazuje, jak ludzie rzeczywiście rozmawiali, a nie wyłącznie to, co zostało wybrane. Ryzyko publikacji ogranicza oznaczanie zastrzeżeń prawnych przez oceniających (§ 8 ust. 3a) i rozstrzyganie przez Organizatora co do zgłoszeń oznaczonych (ust. 11 lit. e-f1).
+Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość plebiscytu. Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, ponieważ dopiero taki zbiór pokazuje, jak ludzie rzeczywiście rozmawiali, a nie wyłącznie to, co zostało wybrane. Ryzyko publikacji ogranicza oznaczanie zastrzeżeń prawnych przez oceniających (§ 8 ust. 3a) i rozstrzyganie przez Organizatora co do zgłoszeń oznaczonych (ust. 11 lit. e-f1).
 
 ## § 12. Dane osobowe
 
@@ -636,7 +636,7 @@ Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 
    c) **dokumentacja proceduralna** - karty oceny, historia oznaczeń z § 8 ust. 3a, rozstrzygnięcia publikacyjne i lista kontrolna - przechowywana jest przez **24 miesiące od ogłoszenia wyników**, w celu obrony przed roszczeniami i wykazania rzetelności naboru, po czym jest usuwana;
 
-   d) **dane Uczestników, których zgłoszenie odrzucono w ocenie formalnej, oraz kopie rozmów sporządzone na potrzeby oceny zgłoszeń niepublikowanych** - usuwane są w terminie 60 dni od ogłoszenia wyników;
+   d) **dane Uczestników, których zgłoszenie odrzucono w weryfikacji formalnej, oraz kopie rozmów sporządzone na potrzeby oceny zgłoszeń niepublikowanych** - usuwane są w terminie 60 dni od ogłoszenia wyników;
 
    e) dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi i o rachunkowości.
 
@@ -650,6 +650,6 @@ Celem archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 
 3a. **Błąd ujawniony dopiero w karcie oceny.** Uczestnik, który otrzymał kartę oceny swojego zgłoszenia (ust. 6), może zgłosić **błąd proceduralny albo rachunkowy** w terminie 14 dni od jej otrzymania, także po upływie terminu z ust. 3. Dotyczy to w szczególności przypisania oceny do niewłaściwego zgłoszenia, pominięcia kryterium, błędu w obliczeniu wyniku oraz niezastosowania trybu przewidzianego w Regulaminie. Organizator rozpatruje zgłoszenie w terminie 14 dni i, jeżeli błąd potwierdzi, prostuje wynik i publikowaną punktację. **Tryb ten nie otwiera odwołania od samego osądu oceniających**, który zgodnie z § 8 ust. 19 jest ostateczny.
 4. **Przeznaczenie przychodu z wydania książkowego.** Antologia udostępniana jest nieodpłatnie w postaci elektronicznej. Jeżeli ukaże się również wydanie płatne, **cały przychód Organizatora z jego sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji** i jest wykazywany w informacji, o której mowa w ust. 5. Organizator nie osiąga z wydania książkowego zysku i nie przeznacza tego przychodu na własne wynagrodzenie.
-5. **Jawność przebiegu edycji.** Wraz z ogłoszeniem wyników Organizator publikuje na stronie Nagrody: liczbę zgłoszeń otrzymanych i liczbę zgłoszeń, które przeszły ocenę formalną, z podziałem na podstawy odrzucenia; zastosowany tryb oceny wraz z progiem i pasmem, o których mowa w § 8 ust. 10a; liczbę wykonanych drugich odczytów, w tym odczytów z audytu losowego; liczbę wykorzystanych dzikich kart; liczbę zgłoszeń, wobec których zastosowano § 7 ust. 5 albo § 7a ust. 2.
+5. **Jawność przebiegu edycji.** Wraz z ogłoszeniem wyników Organizator publikuje na stronie Nagrody: liczbę zgłoszeń otrzymanych i liczbę zgłoszeń, które przeszły weryfikację formalną, z podziałem na podstawy odrzucenia; zastosowany tryb oceny wraz z progiem i pasmem, o których mowa w § 8 ust. 10a; liczbę wykonanych drugich odczytów, w tym odczytów z audytu losowego; liczbę wykorzystanych dzikich kart; liczbę zgłoszeń, wobec których zastosowano § 7 ust. 5 albo § 7a ust. 2.
 6. **Karta oceny dla Uczestnika.** Uczestnik może w terminie 30 dni od ogłoszenia wyników zażądać karty oceny swojego zgłoszenia wraz z uzasadnieniami wskazanymi przez oceniających. Organizator wydaje kartę **w terminie 14 dni od żądania**, **bez ujawnienia tożsamości oceniających**. Wydanie karty nie otwiera trybu odwoławczego od oceny merytorycznej, która zgodnie z § 8 ust. 19 jest ostateczna.
 7. W sprawach nieuregulowanych stosuje się przepisy prawa polskiego.
