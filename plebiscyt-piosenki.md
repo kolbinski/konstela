@@ -247,7 +247,7 @@ Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na ro
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniamy wersję dostępną pod linkiem tego dnia</small></dd></div>
 <div><dt>1 stycznia 2028</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, oceny publiczności są ukryte do dnia gali</small></dd></div>
-<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, trójka laureatów śpiewa na żywo</small></dd></div>
+<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, zwycięzcy pierwszych trzech miejsc plebiscytu piosenki śpiewają je na żywo</small></dd></div>
 <div><dt>Po gali</dt><dd>Nagrania studyjne finalistów<small>termin sesji i przekazania materiału podamy przed otwarciem naboru</small></dd></div>
 </dl>
 
