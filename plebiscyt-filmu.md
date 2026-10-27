@@ -15,8 +15,8 @@ Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
 - zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube**
 - wszystkie zgłoszenia ogląda **akademia filmu**, a wybranym zajmuje się dalej jury
-- jury wybiera **pięciu finalistów** i ustala kolejność trójki
-- na gali każdy z pięciu filmów dostaje **minutowy skrót**, a fragment wybiera sam autor
+- jury wybiera **dziesięciu finalistów** i ustala kolejność trójki
+- na gali pięć najwyżej ocenionych filmów dostaje **minutowy skrót**, a fragment wybiera sam autor
 - nabór zamykamy **30 listopada 2027**, bo obejrzenie wszystkiego zajmuje miesiące
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
@@ -97,7 +97,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera pięciu finalistów i ustala kolejność trójki.</strong> Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem, a oceniający wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
+<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność trójki.</strong> Akademia przekazuje jury nie więcej niż dwadzieścia filmów, żeby nakład pracy dał się ustalić przed powołaniem składu. Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem, a oceniający wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
 </article>
 </div>
 
@@ -112,15 +112,19 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury. Dyplomy odbiera cała piątka finalistów.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury.</p>
 </article>
 <article>
 <h3>Nagroda Publiczności</h3>
 <p>Otwarte głosowanie, niezależne od werdyktu jury: jeden głos na numer telefonu, liczniki ukryte do gali.</p>
 </article>
 <article>
+<h3>Siedem wyróżnień</h3>
+<p>Dla pozostałych finalistów: dyplom oraz miejsce w zestawie filmów, który kierujemy do pokazów i dystrybucji - jeżeli pozyskamy partnera z salą. Z wyróżnieniem nie wiąże się nagroda pieniężna.</p>
+</article>
+<article>
 <h3>Minutowy skrót na gali</h3>
-<p>Dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.</p>
+<p>Dla pięciu najwyżej ocenionych filmów. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia. Dyplomy odbiera cała dziesiątka finalistów.</p>
 </article>
 </div>
 
@@ -142,9 +146,9 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a każdy z pięciu filmów finałowych dostaje minutowy skrót z fragmentem wybranym przez autora.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a pięć najwyżej ocenionych filmów dostaje minutowy skrót z fragmentem wybranym przez autora.
 
-Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż pięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
+Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 

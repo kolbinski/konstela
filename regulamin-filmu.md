@@ -229,7 +229,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 4a. **Zasady pracy akademii** Organizator ogłasza przed otwarciem naboru i nie zmienia ich w trakcie: liczebność akademii, liczbę niezależnych obejrzeń przypadających na jeden film, sposób łączenia ocen w wynik zgłoszenia, liczebność listy węższej oraz sposób rozstrzygania równej liczby punktów na jej granicy.
 
-5. **Jury wybiera pięciu finalistów i ustala kolejność trzech najwyżej ocenionych filmów.**
+5. **Jury wybiera dziesięciu finalistów i ustala kolejność trzech najwyżej ocenionych filmów.**
+
+5a. **Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów**, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Górny limit jest podany po to, aby nakład pracy jury dał się ustalić przed powołaniem składu; jeżeli zgłoszeń spełniających wymogi formalne będzie mniej, jury ocenia wszystkie.
 
 6. Członek jury oraz członek akademii filmu wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
@@ -243,9 +245,11 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    a) nagrody pieniężne dla trzech najwyżej ocenionych filmów;
 
+   a1) **siedem wyróżnień** dla pozostałych finalistów. Wyróżnienie obejmuje dyplom oraz miejsce w zestawie filmów kierowanym przez Organizatora do pokazów i dystrybucji, jeżeli Organizator pozyska partnera dysponującego salą (§ 10 ust. 4); z wyróżnieniem nie wiąże się nagroda pieniężna;
+
    b) nagrodę publiczności, o której mowa w § 11a;
 
-   c) **medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich pięciu finalistów. Medalion jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
+   c) **medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów. Medal jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
 
    d) prezentację fragmentu filmu podczas gali, na zasadach z § 10.
 
@@ -263,7 +267,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Plebiscyt rozstrzyga się podczas gali Nagrody Konstela, w drugiej połowie kwietnia 2028 roku, razem z pozostałymi plebiscytami.
 
-2. **Podczas gali prezentowany jest minutowy fragment każdego z pięciu filmów finałowych.**
+2. **Podczas gali prezentowany jest minutowy fragment każdego z pięciu najwyżej ocenionych filmów.** Pozostali finaliści odbierają wyróżnienia bez prezentacji fragmentu, ponieważ jedna gala nie zmieści dziesięciu prezentacji.
 
 3. **Fragment wybiera Uczestnik**, w terminie i formacie wskazanym przez Organizatora, nie krótszym niż 14 dni od zawiadomienia o zakwalifikowaniu do finału. Jeżeli Uczestnik fragmentu nie wskaże, wybiera go Organizator w porozumieniu z jury; brak wskazania nie wpływa na ocenę ani na nagrodę.
 

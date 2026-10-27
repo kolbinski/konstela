@@ -239,7 +239,7 @@ Rozdzielenie to jest celowe i wynika wprost z tezy przedsięwzięcia. Konkurs o 
 | Nagroda za najlepsze uzasadnienie wyboru | 1 000 zł |
 | Profesjonalne nagranie studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Nagranie hymnu „Zapytaj inaczej" przez jurorów, wraz z teledyskiem | 60 000 - 100 000 zł |
-| Medalion zwycięzcy i dyplomy finalistów | 1 200 zł |
+| Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
 | **Razem, pozycje rozstrzygnięte w tej tabeli** | **150 200 - 240 200 zł** |
 
 Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora. **Arkusz budżetowy pierwszej edycji podaje dla plebiscytu piosenki 254 600 zł netto w wariancie bazowym** i składa się on z: 195 200 zł kosztów twardych przy środku widełek, 36 300 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń, skalowanej ich liczbą - oraz 23 100 zł rezerwy na nieprzewidziane. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
@@ -284,7 +284,7 @@ Cztery uwagi do tego kosztorysu, powiedziane wprost.
 |---|---|
 | Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
 | Nagroda publiczności | 3 000 zł |
-| Medalion zwycięzcy i dyplomy finalistów | 1 200 zł |
+| Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Transport oryginałów dziesiątki finalistów w obie strony | 8 000 zł |
 | Ubezpieczenie prac na czas wystawy | 3 000 zł |
@@ -310,13 +310,15 @@ Pięć uwag do tego kosztorysu, powiedzianych wprost.
 
 ## 10c. Plebiscyt na film
 
-Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo formie mieszanej. **Film trwa od 20 do 90 minut.** Dolna granica istnieje dlatego, że bez niej kilkuminutowa etiuda konkurowałaby z pełnym metrażem według tej samej karty oceny; górna - dlatego, że jury ma obejrzeć wszystkie zgłoszenia, a nie wybrane.
+Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo formie mieszanej. **Film trwa od 20 do 90 minut.** Dolna granica istnieje dlatego, że bez niej kilkuminutowa etiuda konkurowałaby z pełnym metrażem według tej samej karty oceny; górna - dlatego, że akademia filmu ma obejrzeć wszystkie zgłoszenia, a nie wybrane.
 
 **Zgłoszeniem jest odnośnik do filmu opublikowanego przez uczestnika na własnym kanale**, a nie przesłany plik. Organizator nie przechowuje kopii filmu: prowadzony przez niego katalog, nazwany Projektornią, zawiera tytuł, miniaturę, opis, deklarację użycia narzędzi i odnośnik. Rozwiązanie to daje uczestnikowi wbudowane wycofanie - usunięcie filmu z własnego kanału jest skuteczne natychmiast i nie wymaga niczyjej zgody - i zdejmuje z organizatora odpowiedzialność za przechowywanie kilkuset godzin materiału.
 
 **Film ma zostać zrealizowany na potrzeby plebiscytu** i ukończony w roku edycji, najpóźniej w dniu zgłoszenia. Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przeglądu i nie może otrzymać gdziekolwiek nagrody, wyróżnienia ani nominacji; wykluczona jest także przeróbka filmu ukończonego wcześniej. Zakaz nie obejmuje natomiast składników: zdjęć archiwalnych, materiałów stockowych, wcześniejszego scenariusza ani istniejącej muzyki. Po gali autor dysponuje filmem bez ograniczeń, a licencja jest niewyłączna. Regulamin zastrzega przy tym wprost, że publikacja wymagana do udziału może wykluczyć film z festiwali wymagających premiery - organizator nie obiecuje uczestnikowi czegoś, na co nie ma wpływu.
 
-**Jury wybiera pięciu finalistów i ustala kolejność trójki.** Podczas gali prezentowany jest minutowy fragment każdego z pięciu filmów finałowych, wybrany przez samego autora; pełne pokazy finałowej piątki są celem Organizatora, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania partnera dysponującego salą projekcyjną. Liczba pięciu finalistów odpowiada liczbie emisji, a nie została wzięta z analogii do pozostałych konkursów.
+**Jury wybiera dziesięciu finalistów i ustala kolejność trójki.** Nagrody pieniężne otrzymuje czołowa trójka; pozostałych siedmiu finalistów otrzymuje wyróżnienia, które obejmują dyplom oraz miejsce w zestawie filmów kierowanym do pokazów i dystrybucji, bez nagrody pieniężnej. Podczas gali prezentowany jest minutowy fragment każdego z pięciu najwyżej ocenionych filmów, wybrany przez samego autora - jedna gala nie zmieści dziesięciu prezentacji - a pozostali finaliści odbierają wyróżnienia bez prezentacji fragmentu. Pełne pokazy są celem Organizatora, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania partnera dysponującego salą projekcyjną. Liczba dziesięciu finalistów jest tu zgodna z pozostałymi plebiscytami, a liczba pięciu emisji wynika z czasu trwania gali.
+
+**Praca jury jest ograniczona co do rozmiaru, żeby dała się wycenić.** Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Dwadzieścia filmów po najwyżej 90 minut to 30 godzin oglądania; bez takiego limitu honorarium jury byłoby funkcją liczby zgłoszeń, a więc niemożliwe do przedstawienia w kosztorysie.
 
 **W tym jednym konkursie nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji.** Uczestnik opisuje, co w jego filmie zrobiły takie narzędzia; deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji, więc film wygenerowany w całości i film powstały bez tych narzędzi oceniane są według tej samej karty. Różnica wobec piosenki i plakatu jest celowa i wynika z przedmiotu oceny: przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem, więc w obu wypadkach da się wskazać, co musi pochodzić od człowieka, i sprawdzić to na jednym przedmiocie albo nagraniu. Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz generatywny jest dziś najszybciej zmieniającą się częścią tych narzędzi: zakaz postawiony dziś byłby w dniu gali arbitralny, a jego weryfikacja wymagałaby audytu produkcji, którego organizator nie jest w stanie przeprowadzić. Zamiast zakazu, którego nie dałoby się dotrzymać, regulamin wprowadza jawność, której dotrzymać można.
 
@@ -328,7 +330,7 @@ Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**, w do
 |---|---|
 | Nagrody dla trzech najwyżej ocenionych filmów: 100 tys. zł, 50 tys. zł, 30 tys. zł | 180 000 zł |
 | Nagroda publiczności | 3 000 zł |
-| Medalion zwycięzcy i dyplomy pięciu finalistów | 1 200 zł |
+| Medal zwycięzcy i dyplomy dziesięciu finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa akademii i jury, obsługa głosowania publiczności, zebranie fragmentów i przygotowanie emisji galowych, organizacja pełnych pokazów, prowadzenie Projektorni, dotarcie do szkół filmowych i festiwali - razem 290 godzin | 63 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 7 800 zł |
