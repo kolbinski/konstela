@@ -42,7 +42,7 @@ Zgłoszenia w plebiscycie mogą dokonać osoby pełnoletnie mieszkające w Polsc
 - **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości
 - **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne
 - **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji możesz pisać swobodnie
-- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien z różnymi czatami. W danej edycji możesz zrobić tylko jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu i nie przechowujemy go w postaci jawnej. Jeżeli jury wybierze Cię do finałowej dziesiątki, poprosimy o numer ponownie - na potrzeby rozmowy weryfikacyjnej
+- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien z różnymi czatami. W danej edycji możesz zrobić tylko jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu i nie przechowujemy go w postaci jawnej. Jeżeli jury wybierze Cię do finałowej dziesiątki, poprosimy o numer ponownie - na potrzeby rozmowy weryfikacyjnej. To krótka rozmowa, do 20 minut, telefoniczna albo wideo, o treści Twojego zgłoszenia: sprawdzamy w niej, czy rozumiesz wątek, który prowadziłeś, i potrafisz pociągnąć go dalej. Nie zmienia punktacji
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
