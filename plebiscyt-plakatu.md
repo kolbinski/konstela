@@ -162,7 +162,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.</strong> Werdykt należy do jury, nie do głosowania publiczności - Nagroda Publiczności jest nagrodą odrębną. Składu jeszcze nie ma i nie wymieniamy nikogo, dopóki nie potwierdzi udziału; zapowiadamy natomiast zasadę: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora. Członek jury i członek akademii wyłącza się od oceny pracy, której autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
+<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.</strong> Członek jury i członek akademii wyłącza się od oceny pracy, której autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
 </article>
 </div>
 
