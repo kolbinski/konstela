@@ -68,6 +68,8 @@ Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a 
 
 Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16, do 5 MB - szczegóły w regulaminie i w formularzu. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
 
+Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
+
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
 <div class="kafle jedna-kolumna">
@@ -221,7 +223,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
 </dl>
 
-## <!--ikona:koperta--><span>Kontakt</span>
+<h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
 Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.rozmowy@konstela.org**.
 

@@ -78,13 +78,11 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ### Pozostałe pola zgłoszenia
 
-Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie są punktowane.
+Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, pole tekstowe **„dlaczego warte nagrody głównej" do 700 znaków** oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis, pole „dlaczego warte nagrody głównej" i miniatura nie podlegają ocenie przez akademię i jury.
 
-### Dlaczego warte nagrody głównej
+Opis i pole „dlaczego warte nagrody głównej" są widoczne publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
-
-Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
+Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
 ## <!--ikona:zasady--><span>Zasady: deklaracja, nie zakaz</span>
 
@@ -225,7 +223,7 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć,
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
 
-## <!--ikona:koperta--><span>Kontakt</span>
+<h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
 Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.filmu@konstela.org**.
 

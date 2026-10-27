@@ -81,7 +81,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Dlaczego warte nagrody głównej.** W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Galerii w czasie naboru i w archiwum po gali.
 
-Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
+Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
 ## <!--ikona:zasady--><span>Zasady: ręka, nie generator</span>
 
@@ -194,7 +194,7 @@ Plebiscyt rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na
 
 Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania.
 
-## <!--ikona:koperta--><span>Kontakt</span>
+<h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
 Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.plakatu@konstela.org**.
 
