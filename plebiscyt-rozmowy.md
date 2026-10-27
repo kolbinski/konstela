@@ -30,8 +30,6 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 Plebiscyt i zgłoszenia planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokość nagród zależy od pozyskanych sponsorów i podamy ją przy ogłoszeniu naboru.
 
-Pełne zasady są w [regulaminie](/dokument/regulamin-rozmowy) wraz z [kartą oceny](/dokument/regulamin-rozmowy#karta-oceny).
-
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
 Zgłoszenia w plebiscycie mogą dokonać osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy - tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
@@ -52,11 +50,7 @@ Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a 
 
 ### Ilustracja rozmowy
 
-Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
-
-### Terminy
-
-Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Zgłoszenia przyjmujemy od 1 stycznia 2027 do 15 stycznia 2028 - te dodatkowe dwa tygodnie są dla rozmów z końca grudnia. Rozstrzygnięcie i premiera antologii w drugiej połowie kwietnia 2028.
+Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16, do 5 MB - szczegóły w regulaminie i w formularzu. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
 
 ## <!--ikona:kryteria--><span>Cztery kryteria oceny</span>
 
@@ -78,6 +72,8 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Z
 <p>Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.</p>
 </article>
 </div>
+
+**Jak to wygląda w praktyce.** „Streść mi tę książkę" to pytanie, po którym zostaje streszczenie. „Czy autor nie zaprzecza sobie w rozdziale o pamięci, skoro wcześniej pisał, że wspomnienia są rekonstrukcją?" to pytanie, po którym zostaje wątek - i miejsce, w którym można drążyć dalej. Nie szukamy jednak wzorca: równie dobrze punktuje rozmowa o naprawie pralki, jeżeli widać w niej, że ktoś sprawdzał, wracał i doszedł do czegoś, czego nie wiedział na wejściu.
 
 **Każde kryterium ma 25 punktów, razem 100.** [Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każde pasmo punktowe w każdym kryterium.
 
@@ -129,7 +125,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 <div class="kafle jedna-kolumna">
 <article>
-<h3 id="nagroda-uczniowska">Nagroda Uczniowska</h3>
+<h3 id="nagroda-uczniowska">Jak działa Nagroda Uczniowska</h3>
 <p><strong>Tę nagrodę rozstrzygają uczniowskie grupy czytające.</strong> Czytają i oceniają według <strong>tej samej jawnej karty oceny</strong> co akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.</p>
 <p><strong>Jedna szkoła - jedno wskazanie.</strong> Czytać może dowolnie wiele klas i uczniów. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej.</p>
 <p><strong>Zgłasza szkoła.</strong> Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.</p>
@@ -164,7 +160,7 @@ Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną
 
 ### Pseudonim nie anonimizuje treści
 
-**Pseudonim zastępuje podpis, ale nie anonimizuje treści.** Rozmowa, opis odkrycia albo strona u dostawcy mogą zawierać Twoje imię, nazwę firmy albo inne informacje pozwalające Cię rozpoznać, a my ich nie usuwamy.
+**Pseudonim zastępuje podpis, ale nie anonimizuje treści.** Rozmowa, opis odkrycia albo strona u dostawcy mogą zawierać Twoje imię, nazwę firmy albo inne informacje pozwalające Cię rozpoznać, a my ich nie usuwamy. Co zbieramy i jak długo trzymamy, opisuje [polityka prywatności](/dokument/polityka-prywatnosci).
 
 ### Zanim udostępnisz link
 
@@ -189,12 +185,33 @@ Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń.
 
 Zgłoszenia osób zainteresowanych udziałem w podcaście prosimy kierować na adres **podcast@konstela.org**. Zgłoszenia nastolatka dokonuje jego opiekun prawny.
 
-## <!--ikona:iskra--><span>Gala i terminy</span>
+## <!--ikona:iskra--><span>Gala</span>
 
 Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [nagrań finalistów plebiscytu piosenki](/plebiscyt-piosenki).
 
 Elementem gali jest **dialog czytany**: zwycięzca plebiscytu czyta ze sceny swoją część dialogu z AI, a odpowiedzi sztucznej inteligencji czyta narrator.
 
+## <!--ikona:harmonogram--><span>Harmonogram</span>
+
+Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
+
+- **1 stycznia 2027** - planowane otwarcie naboru, po zabezpieczeniu finansowania
+- **cały 2027 rok** - okno rozmów; zgłoszenia przyjmujemy na bieżąco, a czytelnia rośnie
+- **15 stycznia 2028** - zamknięcie zgłoszeń; dwa dodatkowe tygodnie są dla rozmów z końca grudnia
+- **29 lutego 2028** - ostatni dzień na wycofanie zgłoszenia, bo wtedy zamykamy treść antologii
+- **druga połowa kwietnia 2028** - gala, werdykty i premiera antologii
+
+Pełne zasady są w [regulaminie](/dokument/regulamin-rozmowy) wraz z [kartą oceny](/dokument/regulamin-rozmowy#karta-oceny).
+
 ## <!--ikona:koperta--><span>Kontakt</span>
 
 Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.rozmowy@konstela.org**.
+
+Napisz, jeśli:
+
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
+- **rozmawiasz z AI i masz pytanie** o zasady, terminy albo sposób zgłoszenia
+- **jesteś nauczycielem** i chcesz zgłosić uczniowską grupę czytającą do Nagrody Uczniowskiej
+- **reprezentujesz uczelnię, sponsora albo redakcję** i chcesz porozmawiać o współpracy
+
+Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
