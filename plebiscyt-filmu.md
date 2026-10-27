@@ -197,7 +197,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 </div>
 
-## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
+## <!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych filmów</span>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, przy samym głosie. Dwieście znaków to dwa, trzy zdania. Bez uzasadnienia głos nie zostaje oddany: głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową, a przy okazji trudno w ten sposób oddać tysiąc głosów z jednej piwnicy.
 

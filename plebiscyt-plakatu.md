@@ -165,7 +165,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Wystawa w galerii sztuki - jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem - już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycja idzie do finalistów w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć - nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
-## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
+## <!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych plakatów</span>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, przy samym głosie. Dwieście znaków to dwa, trzy zdania. Bez uzasadnienia głos nie zostaje oddany: głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową, a przy okazji trudno w ten sposób oddać tysiąc głosów z jednej piwnicy.
 

@@ -191,7 +191,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 
 **Płyta jest planem, nie obietnicą.** Chcemy wydać te nagrania na płycie, ale zależy to od pozyskania wydawnictwa i od osobnej umowy, którą zawrzesz z nim Ty, nie my. **Nagrania powstaną niezależnie od tego, czy wydawnictwo się znajdzie**, a odmowa umowy z nim nie odbiera Ci ani nagrania, ani praw do niego.
 
-## <!--ikona:tekst--><span>Nagroda za uzasadnienie wyboru</span>
+## <!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych piosenek</span>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, przy samym głosie. Dwieście znaków to dwa, trzy zdania. Bez uzasadnienia głos nie zostaje oddany: głosowanie ma być wyborem przemyślanym, a nie akcją zasięgową, a przy okazji trudno w ten sposób oddać tysiąc głosów z jednej piwnicy.
 
