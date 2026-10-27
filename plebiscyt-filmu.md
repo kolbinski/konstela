@@ -167,7 +167,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera dziesięciu finalistów.</strong> Akademia przekazuje jury nie więcej niż dwadzieścia filmów. Składa się z profesjonalistów w branży filmowej; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem, a członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
+<p><strong>Jury wybiera dziesięciu finalistów.</strong> Akademia przekazuje jury nie więcej niż dwadzieścia filmów. Składa się z profesjonalistów w branży filmowej. Skład ogłaszamy przed naborem, a członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
 </article>
 </div>
 

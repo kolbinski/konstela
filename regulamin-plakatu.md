@@ -172,7 +172,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 8. Jury i tryb oceny
 
-1. Prace ocenia jury złożone z praktyków plakatu, ilustracji i projektowania graficznego. Przedstawiciele Organizatora nie wchodzą w skład jury.
+1. Prace ocenia jury złożone z praktyków plakatu, ilustracji i projektowania graficznego.
 
 2. Skład jury Organizator ogłasza przed otwarciem naboru.
 

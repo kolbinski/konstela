@@ -223,7 +223,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 8. Jury, akademia filmu i tryb oceny
 
-1. Zgłoszenia ocenia jury złożone z praktyków filmu. Przedstawiciele Organizatora nie wchodzą w skład jury.
+1. Zgłoszenia ocenia jury złożone z praktyków filmu.
 
 2. Skład jury Organizator ogłasza przed otwarciem naboru.
 
