@@ -82,7 +82,7 @@ Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opi
 
 **Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w Projektorni i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
-**Publicznie, przy Twoim zgłoszeniu, pokazujemy:** tytuł, Twój podpis, miniaturę, link do zwiastuna, link do filmu, czas trwania, opis, pole „dlaczego warte nagrody głównej" deklarację użycia narzędzi sztucznej inteligencji oraz link do Twojej strony, jeżeli go podasz - w Projektorni w czasie naboru i w archiwum po werdykcie, gdzie dochodzą jeszcze rok edycji i punktacja.
+**Publicznie, przy Twoim zgłoszeniu, pokazujemy:** tytuł, Twój podpis, miniaturę, link do zwiastuna, link do filmu, czas trwania, opis, pole „dlaczego warte nagrody głównej", deklarację użycia narzędzi sztucznej inteligencji oraz link do Twojej strony, jeżeli go podasz - w Projektorni w czasie naboru i w archiwum po werdykcie, gdzie dochodzą jeszcze rok edycji i punktacja.
 
 **Nie pokazujemy** daty ukończenia filmu, Twojego adresu e-mail ani numeru telefonu. Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
 
