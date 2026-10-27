@@ -140,11 +140,19 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 <h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i archiwum</span></h2>
 
-**Po przejściu oceny formalnej każde zgłoszenie trafia na czytelnię**: listę, która rośnie przez cały rok naboru i którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora, link, opis odkrycia oraz uzasadnienie, dlaczego warto tę rozmowę przeczytać. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
+### Czytelnia
 
-**Czytelnik może oznaczyć rozmowę gwiazdką** i wrócić do niej później. Gwiazdki zostają w jego przeglądarce i nigdy nie trafiają do nas: nie zbieramy ich, nie liczymy i nie pokazujemy. W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytaniem, a przy ocenianiu właśnie tego unikamy. Półkę można wyeksportować i wczytać na innym urządzeniu; korzystanie z czytelni nie wymaga konta.
+Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każde zgłoszenie trafia na czytelnię: listę, która rośnie przez cały rok naboru i którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora, link, opis odkrycia oraz uzasadnienie, dlaczego zgłoszona rozmowa jest warta nagrody głównej. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
 
-**Po ogłoszeniu wyników czytelnia przechodzi w archiwum**, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, jury i publiczność.
+### Bez liczników i bez konta
+
+W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytaniem, a przy ocenianiu przez akademię, jury i publiczność właśnie tego chcemy uniknąć. Rozmowę można oznaczyć gwiazdką i wrócić do niej później; gwiazdki zostają w przeglądarce czytelnika i nigdy nie trafiają do nas. Listę rozmów oznaczonych gwiazdką można wyeksportować i wczytać na innym urządzeniu; korzystanie z czytelni nie wymaga konta.
+
+### Archiwum
+
+Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, jury i publiczność.
+
+### Jawność punktacji
 
 **Jawność punktacji dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału ogłaszanym przed naborem. Mówimy o tym wprost, bo trwale widoczna niska ocena jest realnym kosztem: dlatego zasada jest ogłoszona zawczasu, a nie wprowadzona w trakcie, a furtką pozostaje pseudonim.
 
