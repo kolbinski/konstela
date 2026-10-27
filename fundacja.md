@@ -2,7 +2,7 @@
 
 ---
 
-Nagrodę Konstela prowadzi **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu. Ta strona mówi, na jakim etapie jest fundacja, co ma w statucie i jak się z nią skontaktować.
+Nagrodę Konstela prowadzi **Fundacja Konstela**, powoływana wyłącznie w tym celu. Ta strona mówi, na jakim etapie jest fundacja, co ma w statucie i jak się z nią skontaktować.
 
 ## <!--ikona:etap--><span>Na jakim jest etapie</span>
 
