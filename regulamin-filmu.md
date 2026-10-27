@@ -14,7 +14,7 @@
 
 5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na rozmowę ze sztuczną inteligencją, na piosenkę o niej i na plakat o niej, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
 
-## § 2. Przedmiot konkursu
+## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem Plebiscytu jest **film o sztucznej inteligencji i jej roli w świecie**, dowolnej formy: fabularnej, dokumentalnej, eseju filmowego, animacji albo formy mieszanej.
 
@@ -33,7 +33,7 @@
 
 3. Zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**. Film powstaje zwykle w zespole; Uczestnikiem jest osoba zgłaszająca, która oświadcza, że jest uprawniona do dysponowania filmem w zakresie koniecznym do udziału w Plebiscycie i do udzielenia licencji z § 12.
 
-4. W Plebiscycie nie mogą brać udziału członkowie jury, członkowie Akademii filmu, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu Plebiscytu po stronie Organizatora.
+4. W Plebiscycie nie mogą brać udziału członkowie jury, członkowie akademii filmu, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu Plebiscytu po stronie Organizatora.
 
 5. Zgłoszenie złożone przez osobę najbliższą członka jury nie jest wyłączone. Członek jury wyłącza się wówczas od oceny tego zgłoszenia, na zasadach z § 8 ust. 6.
 
@@ -57,7 +57,7 @@
 
 4. **Po dniu gali Uczestnik dysponuje filmem bez ograniczeń**, w tym może zgłaszać go do innych konkursów, festiwali i przeglądów. Wyłączenie z ust. 2 obejmuje wyłącznie czas do dnia gali.
 
-5. Datę ukończenia oraz oświadczenie, że film spełnia warunki z ust. 1 i 2, Uczestnik podaje w zgłoszeniu i odpowiada za ich prawdziwość. Organizator weryfikuje je w zakresie, w jakim pozwalają na to środki techniczne, w szczególności na podstawie daty publikacji nagrania, materiałów produkcyjnych i publicznie dostępnych wyników konkursów; brak możliwości weryfikacji nie obciąża Uczestnika i sam w sobie nie jest podstawą odrzucenia. Wykazanie nieprawdy jest podstawą wykluczenia na zasadach z § 14.
+5. Datę ukończenia oraz oświadczenie, że film spełnia warunki z ust. 1 i 2, Uczestnik podaje w zgłoszeniu i odpowiada za ich prawdziwość. Organizator weryfikuje je w zakresie, w jakim pozwalają na to środki techniczne, w szczególności na podstawie daty publikacji nagrania, materiałów produkcyjnych i publicznie dostępnych wyników plebiscytów; brak możliwości weryfikacji nie obciąża Uczestnika i sam w sobie nie jest podstawą odrzucenia. Wykazanie nieprawdy jest podstawą wykluczenia na zasadach z § 14.
 
 ## § 4. Forma zgłoszenia
 
@@ -157,7 +157,7 @@
 
 ### Karta oceny: co znaczy każda liczba punktów
 
-Karta jest częścią niniejszego paragrafu. Obowiązuje Akademię filmu i jury, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
+Karta jest częścią niniejszego paragrafu. Obowiązuje akademię filmu i jury, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
 
 Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu.
 
@@ -217,7 +217,7 @@ Czy film pozostawia wyraźną myśl, obraz albo emocję - coś, co widz potrafi 
 
 Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklaracja z § 6 jest nieprawdziwa albo jeżeli film przedstawia jako fakt twierdzenie nieprawdziwe, na którym opiera się jego główna teza. Stosuje się wtedy tryb z § 14: Organizator wskazuje twierdzenie na piśmie, Uczestnik ma nie mniej niż 14 dni na stanowisko, a ciężar wykazania nieprawdy spoczywa na Organizatorze. W razie wątpliwości, której nie da się wyjaśnić, warunku nie stosuje się.
 
-## § 8. Jury, Akademia filmu i tryb oceny
+## § 8. Jury, akademia filmu i tryb oceny
 
 1. Zgłoszenia ocenia jury złożone z praktyków filmu. Przedstawiciele Organizatora nie wchodzą w skład jury.
 
@@ -225,13 +225,13 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń.
 
-4. **Pierwsze przejście oceny przeprowadza Akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły ocenę formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą.
+4. **Pierwsze przejście oceny przeprowadza akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły ocenę formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą.
 
-4a. **Zasady pracy Akademii** Organizator ogłasza przed otwarciem naboru i nie zmienia ich w trakcie: liczebność Akademii, liczbę niezależnych obejrzeń przypadających na jeden film, sposób łączenia ocen w wynik zgłoszenia, liczebność listy węższej oraz sposób rozstrzygania równej liczby punktów na jej granicy.
+4a. **Zasady pracy akademii** Organizator ogłasza przed otwarciem naboru i nie zmienia ich w trakcie: liczebność akademii, liczbę niezależnych obejrzeń przypadających na jeden film, sposób łączenia ocen w wynik zgłoszenia, liczebność listy węższej oraz sposób rozstrzygania równej liczby punktów na jej granicy.
 
 5. **Jury wybiera pięciu finalistów i ustala kolejność trzech najwyżej ocenionych filmów.**
 
-6. Członek jury oraz członek Akademii filmu wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
+6. Członek jury oraz członek akademii filmu wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
 7. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli w filmie dostrzeże dane pozwalające zidentyfikować osobę trzecią, dłuższe przytoczenie materiału wyglądającego na pochodzący od innego twórcy albo materiał wyglądający na cudzy, użyty jako znaczna część filmu. Oceniający opisuje to, co widzi, i nie ustala, czy Uczestnik ma uprawnienie do wykorzystania materiału ani czy zgoda osoby trzeciej została udzielona. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia; rozstrzyga Organizator, w trybie z § 11 ust. 5. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny. Oznaczenie nietrafne nie pozostawia publicznego śladu.
 
@@ -283,9 +283,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 5. Organizator może zdjąć wpis z Projektorni albo z archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 
-6. **Wersja konkursowa.** Ocenie podlega wersja filmu dostępna pod wskazanym odnośnikiem **w dniu zamknięcia naboru**. Uczestnik zobowiązuje się nie zmieniać jej do dnia ogłoszenia werdyktu; poprawki techniczne nienaruszające treści, w szczególności korekta napisów, są dopuszczalne.
+6. **Wersja plebiscytowa.** Ocenie podlega wersja filmu dostępna pod wskazanym odnośnikiem **w dniu zamknięcia naboru**. Uczestnik zobowiązuje się nie zmieniać jej do dnia ogłoszenia werdyktu; poprawki techniczne nienaruszające treści, w szczególności korekta napisów, są dopuszczalne.
 
-6a. **Jak Organizator ustala, co było wersją konkursową.** Organizator **nie przechowuje kopii filmu** i nie jest w stanie odtworzyć materiału sprzed zmiany. W dniu zamknięcia naboru sporządza natomiast **metrykę zgłoszenia**: czas trwania filmu co do sekundy, tytuł, miniaturę, datę publikacji podaną przez serwis oraz zapis wpisu w Projektorni, wraz z datą sporządzenia. Oceniający odnotowują czas trwania obejrzanego filmu.
+6a. **Jak Organizator ustala, co było wersją plebiscytową.** Organizator **nie przechowuje kopii filmu** i nie jest w stanie odtworzyć materiału sprzed zmiany. W dniu zamknięcia naboru sporządza natomiast **metrykę zgłoszenia**: czas trwania filmu co do sekundy, tytuł, miniaturę, datę publikacji podaną przez serwis oraz zapis wpisu w Projektorni, wraz z datą sporządzenia. Oceniający odnotowują czas trwania obejrzanego filmu.
 
 6b. **Skutki zmiany.** Rozbieżność z metryką albo z zapisem oceniających jest podstawą wszczęcia wyjaśnień, a nie wykluczenia. **Wykluczenie wymaga wykazania niedopuszczalnej zmiany treści filmu**, w trybie z § 14, a ciężar wykazania spoczywa na Organizatorze. Zmiana samego tytułu albo miniatury nie jest takim wykazaniem; różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z poprawki technicznej dopuszczonej w ust. 6.
 
@@ -371,7 +371,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 2. Organizator nie zmienia regulaminu w trakcie naboru w zakresie dotyczącym wymogów zgłoszenia, kryteriów oceny, wysokości nagród ani zasad wyłaniania finalistów.
 
-3. Terminy edycji pierwszej: otwarcie naboru na początku 2027 roku, **zamknięcie naboru 30 listopada 2027 roku**, pierwsze przejście oceny przez Akademię filmu do stycznia 2028, werdykt jury w lutym 2028, gala w drugiej połowie kwietnia 2028.
+3. Terminy edycji pierwszej: otwarcie naboru na początku 2027 roku, **zamknięcie naboru 30 listopada 2027 roku**, pierwsze przejście oceny przez akademię filmu do stycznia 2028, werdykt jury w lutym 2028, gala w drugiej połowie kwietnia 2028.
 
 4. W sprawach nieuregulowanych stosuje się przepisy prawa polskiego.
 
@@ -391,4 +391,4 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy odnośniku prezentowanym na stronie Nagrody.
 8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** - czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
 9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** - czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
-10. **Wersja konkursowa (§ 11 ust. 6-6b)** - czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.
+10. **Wersja plebiscytowa (§ 11 ust. 6-6b)** - czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.

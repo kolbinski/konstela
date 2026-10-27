@@ -4,7 +4,7 @@
 
 ## <!--ikona:plakat--><span>Co to za plebiscyt</span>
 
-Otwarty konkurs na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek odróżnia go od wszystkiego, co dziś można wygenerować w pół minuty - obraz ma powstać pod ludzką ręką.
+Otwarty plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek odróżnia go od wszystkiego, co dziś można wygenerować w pół minuty - obraz ma powstać pod ludzką ręką.
 
 **Zwycięski plakat zostaje twarzą edycji.** Za zgodą autora trafia na stronę, na zaproszenia, na galę, do mediów i **na okładkę antologii** - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
 
@@ -26,9 +26,9 @@ Rozmowa jest pierwszym miejscem, w którym to widać. Muzyka drugim - stąd [ple
 
 Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej: [konstela.org](/).
 
-## <!--ikona:etap--><span>Na jakim etapie jest ten konkurs</span>
+## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
-**Wcześniejszym niż pozostałe i mówimy to wprost.** Nie ma zabezpieczonych pieniędzy na nagrody, nie ma składu jury, a terminy poniżej są planem, nie zobowiązaniem. Konkursu z nagrodami, których nie ma, nie ogłaszamy - tak samo jak przy pozostałych częściach Nagrody.
+**Wcześniejszym niż pozostałe i mówimy to wprost.** Nie ma zabezpieczonych pieniędzy na nagrody, nie ma składu jury, a terminy poniżej są planem, nie zobowiązaniem. Plebiscytu z nagrodami, których nie ma, nie ogłaszamy - tak samo jak przy pozostałych częściach Nagrody.
 
 Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napiszesz, trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
@@ -75,7 +75,7 @@ Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
 Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - bo przy plakacie to właśnie obraz jest ocenianym wytworem, a nie jednym z kilku składników.
 
-**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem, Twoje oświadczenie i materiały z etapów, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
+**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem, Twoje oświadczenie i materiały z etapów, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
 **Narzędzia cyfrowe przy przygotowaniu pliku** - kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia - są dozwolone i oczywiste. Nie wolno nimi dodawać ani usuwać elementów obrazu.
 
@@ -100,11 +100,11 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 ## <!--ikona:jury--><span>Jury i tryb oceny</span>
 
-**Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo spośród listy zakwalifikowanej przez Akademię plakatu, zależnie od trybu ogłoszonego przed naborem - a spośród finalistów ustala kolejność trzech najwyżej ocenionych prac.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
+**Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo spośród listy zakwalifikowanej przez akademię plakatu, zależnie od trybu ogłoszonego przed naborem - a spośród finalistów ustala kolejność trzech najwyżej ocenionych prac.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
 
 **Składu jury jeszcze nie ma i nie wymieniamy nikogo, dopóki nie potwierdzi udziału.** Zapowiadamy natomiast zasadę: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora.
 
-**Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania Akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
+**Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
 
 ## <!--ikona:puchar--><span>Nagrody</span>
 
@@ -143,7 +143,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego plakatu</span>
 
-Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w konkursie.
+Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w plebiscycie.
 
 Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokazanie reprodukcji w Galerii i w archiwum - to jedyny zakres będący warunkiem udziału; pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę; pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej; a przy pracy zwycięskiej, za odrębną zgodą - reprodukcja na okładce antologii oraz w materiałach informacyjnych edycji.
 
@@ -155,11 +155,11 @@ Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączon�
 
 **Przy zgłoszeniu nie decydujesz o niczym.** Pytamy dopiero po zamknięciu ocen: wtedy dostajesz warunki - cenę minimalną, przewidywane potrącenia i sposób rozliczenia - i wtedy mówisz tak albo nie. Twoja odpowiedź nie trafia do jury przed ustaleniem werdyktu, więc nie może na niego wpłynąć. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
 
-Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z góry: **po odliczeniu zaakceptowanych wcześniej kosztów licytacji pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego konkursu**. Organizator nie zatrzymuje z tego nic na własną działalność i przedstawia Ci rozliczenie na piśmie.
+Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z góry: **po odliczeniu zaakceptowanych wcześniej kosztów licytacji pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**. Organizator nie zatrzymuje z tego nic na własną działalność i przedstawia Ci rozliczenie na piśmie.
 
 ## <!--ikona:iskra--><span>Gala i terminy</span>
 
-Konkurs rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Prace finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma na tej gali premierę** - z okładką opartą na zwycięskiej pracy, jeżeli jej autor się na to zgodzi.
+Plebiscyt rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją, **w drugiej połowie kwietnia 2028 roku**. Prace finalistów wiszą na wystawie, trójka odbiera nagrody, a **antologia ma na tej gali premierę** - z okładką opartą na zwycięskiej pracy, jeżeli jej autor się na to zgodzi.
 
 **Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę z AI**. Planowany przebieg, który potwierdzimy przy ogłoszeniu:
 
@@ -178,7 +178,7 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
-Wszystkie pytania i sprawy dotyczące konkursu proszę pisać na adres: **plebiscyt.plakatu@konstela.org**.
+Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.plakatu@konstela.org**.
 
 Napisz, jeśli:
 

@@ -14,7 +14,7 @@ Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzecz
 
 **Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz jury**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Planowane jest także wydanie drukowane.
 
-**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez Akademię, jury i publiczność.
+**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
 
 Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie około sześciuset stron, i w żadnej z nich nie znalazłem pełnego zapisu rzeczywistej rozmowy człowieka z modelem, opatrzonego komentarzem dydaktycznym. Antologia i archiwum są materiałem źródłowym, którego nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
@@ -81,7 +81,7 @@ Oprogramowanie powstaje na rzecz fundacji-organizatora, która nabywa do niego p
 
 Rozliczenie: w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy.
 
-Honoraria Akademii i jury, pula nagród, gala i jej oprawa są finansowane poza tą propozycją, przez fundatora nagrody.
+Honoraria akademii i jury, pula nagród, gala i jej oprawa są finansowane poza tą propozycją, przez fundatora nagrody.
 
 ## Kto odpowiada
 

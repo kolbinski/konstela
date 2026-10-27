@@ -85,7 +85,7 @@ Sprawdzone zostało jedno: czy dana osoba **wydaje własne utwory**, czy ma nad 
 
 Dla tych osób nie znalazłem publicznych dowodów komponowania. Nie znaczy to, że nie komponują, znaczy tylko, że nie da się tego potwierdzić bez zapytania. Zostawiam na wypadek, gdyby pierwsza fala nie przyniosła odpowiedzi.
 
-- [ ] **Kacper Andrzejewski** (sezon 15, 3. miejsce) - absolwent Akademii Muzycznej w Bydgoszczy, pracuje też w dubbingu. Warsztat pewny, autorstwo nieznane.
+- [ ] **Kacper Andrzejewski** (sezon 15, 3. miejsce) - absolwent akademii Muzycznej w Bydgoszczy, pracuje też w dubbingu. Warsztat pewny, autorstwo nieznane.
 - [ ] **Mikołaj Przybylski** (sezon 15, 2. miejsce) - młody wokalista, odwrócił cztery fotele.
 - [ ] **Antoni Zimnal** (sezon 14, 2. miejsce) - Sosnowiec, repertuar z polskiej klasyki estradowej.
 - [ ] Pozostali z sezonów 13-15 wymienieni niżej - niesprawdzeni.

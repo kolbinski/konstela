@@ -2,7 +2,7 @@ Szanowni Państwo,
 
 w załączeniu przekazuję pismo w sprawie Nagrody Konstela - corocznej, ogólnopolskiej nagrody przyznawanej osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi.
 
-Przedstawiam w nim dwie rzeczy i zadaję jedno pytanie: projekt scenariusza zajęć dla szkół ponadpodstawowych, przeznaczony do konsultacji i pilotażu, koncepcję Uczniowskiej Akademii i odrębnej Nagrody Uczniowskiej wzorowanej na francuskiej Prix Goncourt des lycéens, oraz pytanie o właściwą drogę, którą materiał mógłby trafić do zainteresowanych szkół.
+Przedstawiam w nim dwie rzeczy i zadaję jedno pytanie: projekt scenariusza zajęć dla szkół ponadpodstawowych, przeznaczony do konsultacji i pilotażu, koncepcję Uczniowskiej akademii i odrębnej Nagrody Uczniowskiej wzorowanej na francuskiej Prix Goncourt des lycéens, oraz pytanie o właściwą drogę, którą materiał mógłby trafić do zainteresowanych szkół.
 
 Nie wnoszę o środki finansowe ani o patronat honorowy; wniosek patronatowy złożę we właściwym trybie i terminie, przez formularz elektroniczny, już z ramienia fundacji, która będzie organizatorem Nagrody.
 

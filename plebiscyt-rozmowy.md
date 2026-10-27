@@ -16,7 +16,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
 - obok niej przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego
-- wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie do publicznego [archiwum](#czytelnia)
+- wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie jury do publicznego [archiwum](#czytelnia)
 
 ## <!--ikona:konstelacja--><span>Dlaczego nagradzamy człowieka</span>
 
@@ -86,7 +86,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Z
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia</h3>
-<p><strong>Pierwszą rundę oceny zgłoszenia prowadzi Akademia</strong> - grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury.</p>
+<p><strong>Pierwszą rundę oceny zgłoszenia prowadzi akademia</strong> - grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury.</p>
 </article>
 <article>
 <h3>Jury</h3>
@@ -150,7 +150,7 @@ W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytanie
 
 ### Archiwum
 
-Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy AI - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, jury i publiczność.
+Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy AI - i **da się je przeglądać**, w tym według ocen wystawionych przez akademię, jury i publiczność.
 
 ### Jawność punktacji
 

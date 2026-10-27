@@ -18,7 +18,7 @@ Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden 
 
 ## 2. Dwa konkursy
 
-**Nagroda Konstela.** Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył ze sztuczną inteligencją. Ocenia najpierw kilkunastoosobowa Akademia czytająca, potem kilkuosobowe jury, według **jawnej karty oceny** opublikowanej przed naborem: cztery kryteria o równej wadze, w tym wyłapywanie zmyśleń oraz to, co człowiek z rozmowy wyniósł. Nagradzany jest człowiek, nie program. Udział bezpłatny, jedno zgłoszenie na osobę potwierdzane kodem SMS.
+**Nagroda Konstela.** Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył ze sztuczną inteligencją. Ocenia najpierw kilkunastoosobowa akademia czytająca, potem kilkuosobowe jury, według **jawnej karty oceny** opublikowanej przed naborem: cztery kryteria o równej wadze, w tym wyłapywanie zmyśleń oraz to, co człowiek z rozmowy wyniósł. Nagradzany jest człowiek, nie program. Udział bezpłatny, jedno zgłoszenie na osobę potwierdzane kodem SMS.
 
 **Plebiscyt na piosenkę.** Otwarty konkurs na własny utwór o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie; zespoły i duety dopuszczone, ze wskazaniem reprezentanta składu. Adresat: wykonawcy półprofesjonalni. **Zgłasza się czytelne demo**, nie gotowy singiel, żeby koszt studia nie decydował o tym, kto weźmie udział; zgłoszeniem jest link do YouTube. Jedno zgłoszenie na osobę.
 
@@ -55,7 +55,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 **Półka z gwiazdkami.** Czytelnik oznacza rozmowy, do których chce wrócić, i w styczniu 2028 wybiera z własnej półki. **Gwiazdki zostają na urządzeniu i nigdy nie trafiają na serwer** - inaczej powstałby żywy licznik popularności. Potrzebny eksport i import półki, bo rok zbierania ginie przy wyczyszczeniu przeglądarki, a kont nie ma i nie będzie.
 
-**Głosowanie publiczności - 2028.** Jeden głos na numer telefonu potwierdzony kodem SMS, **liczniki ukryte do ogłoszenia na gali**. Na gali trzy werdykty obok siebie: jury, Uczniowskiej Akademii i publiczności.
+**Głosowanie publiczności - 2028.** Jeden głos na numer telefonu potwierdzony kodem SMS, **liczniki ukryte do ogłoszenia na gali**. Na gali trzy werdykty obok siebie: jury, Uczniowskiej akademii i publiczności.
 
 **Podstrona plebiscytu.** Zgłoszenia prezentowane na bieżąco przez cały rok, jawna karta oceny, dwie nagrody publiczności, hymn, tekst hymnu. Osobny, bardziej widowiskowy kierunek wizualny - przy zachowaniu rangi równorzędnej, nie podrzędnej.
 
@@ -75,7 +75,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 **Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do czytelni, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
 
-**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do oceny formalnej, panel pracy Akademii i jury, mechanizmy czytelni, półki i głosowania, publikowanie archiwum.
+**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do oceny formalnej, panel pracy akademii i jury, mechanizmy czytelni, półki i głosowania, publikowanie archiwum.
 
 **Kolejność przyjęta przez agencję:** branding przed stroną. Zdanie Piotra: „wynikiem naszej pracy będzie strona internetowa, ale wpierw musimy przejść przez branding". Ela przygotuje plan warsztatów i wyśle mailem przed pierwszym spotkaniem. Warsztaty najlepiej na żywo, w Warszawie.
 
@@ -90,9 +90,9 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 | [Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) | Nagroda i gala: pula nagród, honoraria jury, gala, promocja naboru, prowadzenie konkursu | **ok. 561,7 tys. zł** |
 | [Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) | Antologia i archiwum: redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 277,6 tys. zł** |
 | [Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 261,7 tys. zł** |
-| [Akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) | Pierwsza runda oceny: honoraria czytelników, vouchery rosnące z liczbą ocenionych rozmów, kalibracja | **ok. 49,3 tys. zł** |
+| [akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) | Pierwsza runda oceny: honoraria czytelników, vouchery rosnące z liczbą ocenionych rozmów, kalibracja | **ok. 49,3 tys. zł** |
 
-Wyliczenia pozycja po pozycji są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Nagrody, Budżet Antologii, Budżet Plebiscytu i Budżet Akademii; zakładka Wyjaśnienia opisuje, jak czytać każdą kolumnę.
+Wyliczenia pozycja po pozycji są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Nagrody, Budżet Antologii, Budżet Plebiscytu i Budżet akademii; zakładka Wyjaśnienia opisuje, jak czytać każdą kolumnę.
 
 Razem ok. 1 150,2 tys. zł netto przy 937 godzinach pracy organizatora. **Honoraria jury plebiscytu i realizacja części artystycznej gali stoją na zerze** i czekają na wycenę od Michała Sołtana, więc Budżet P jeszcze urośnie.
 
@@ -126,7 +126,7 @@ Razem ok. 1 150,2 tys. zł netto przy 937 godzinach pracy organizatora. **Honora
 
 **Akademia czytająca - emeryci i akademicy.** Emerytowani nauczyciele, doktoranci i profesorowie mają czas, warsztat i powód. Kanały w kolejności siły: Uniwersytety Trzeciego Wieku (kilkaset w Polsce, zacząć od 3-4 największych), biblioteki publiczne prowadzące zajęcia dla seniorów, Kluby Rozwoju Cyfrowego, sekcje emerytów przy ZNP, uczelnie.
 
-**Szkoły.** Uczniowska Akademia zgłaszana przez szkoły czyta zgłoszenia według tej samej karty oceny i przyznaje odrębną **Nagrodę Uczniowską**, niezależnie od werdyktu jury. Wzorem jest Prix Goncourt des lycéens. Udział uczniów jest nieodpłatny.
+**Szkoły.** Uczniowska akademia zgłaszana przez szkoły czyta zgłoszenia według tej samej karty oceny i przyznaje odrębną **Nagrodę Uczniowską**, niezależnie od werdyktu jury. Wzorem jest Prix Goncourt des lycéens. Udział uczniów jest nieodpłatny.
 
 **Wykonawcy plebiscytu.** Strona ich nie dosięga. Żyją w grupach muzyków na Facebooku, w szkołach muzycznych i na wydziałach wokalnych, na scenie coverowej YouTube i TikToka, w radiach lokalnych i studenckich, na open mikach i w rosterach małych wydawnictw. To praca ręczna albo płatna promocja w mediach muzycznych - raz czyjś czas, raz gotówka.
 
@@ -142,7 +142,7 @@ Razem ok. 1 150,2 tys. zł netto przy 937 godzinach pracy organizatora. **Honora
 
 **Ryzyko do zaadresowania w projekcie: odczytanie jako „dla dzieci".** Nagroda jest dla pełnoletnich, rysunek jest metaforą, nie adresem. Trzyma to dorosły głos lektora i poważny tekst. Agencja ma to dostać powiedziane wprost, bo sama estetyka ciągnie w drugą stronę.
 
-**Nierozstrzygnięte: czyje to rysunki.** Prawdziwe prace dzieci wymagają zgód rodziców, a przy szkole zgody na każde dziecko osobno. Alternatywą jest ilustrator rysujący „dziecięcą ręką" - czysto prawnie, ale traci autentyczność, którą ktoś może wyczuć. Przy Uczniowskiej Akademii prawdziwe rysunki byłyby natomiast pretekstem dla szkół, żeby się zaangażowały. Pytanie skierowane do kancelarii (sekcja Cv pkt 28 w [prawnik](/dokument/prawnik)).
+**Nierozstrzygnięte: czyje to rysunki.** Prawdziwe prace dzieci wymagają zgód rodziców, a przy szkole zgody na każde dziecko osobno. Alternatywą jest ilustrator rysujący „dziecięcą ręką" - czysto prawnie, ale traci autentyczność, którą ktoś może wyczuć. Przy Uczniowskiej akademii prawdziwe rysunki byłyby natomiast pretekstem dla szkół, żeby się zaangażowały. Pytanie skierowane do kancelarii (sekcja Cv pkt 28 w [prawnik](/dokument/prawnik)).
 
 ## 13. Reequest jako partner
 

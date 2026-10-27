@@ -12,7 +12,7 @@ Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 - **Hymn „Zapytaj inaczej" dwa razy: na rozpoczęcie i na zakończenie.** *Wariant roboczy przyjęty do wyceny: nagranie powstaje u zaproszonych wykonawców, a na gali utwór wykonuje skład jury. Obsada nie jest rozstrzygnięta (stan na 27.10.2026) i publicznie jej nie zapowiadamy.* Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
 - **Wręczenia:** nagroda główna, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień; medal dla laureata, dyplomy dla całej dziesiątki.
-- **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu jury.
+- **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej akademii, niezależny od werdyktu jury.
 - **Nagroda publiczności w plebiscycie** dla wykonawcy oraz nagroda za najlepsze uzasadnienie wyboru.
 - **Wystąpienia sponsorów.** Uwaga Piotra, słuszna: fundator i partner wydawniczy będą musieli powiedzieć, po co to robią. Lepiej zaplanować im na to miejsce, niż pozwolić, by zajęli je sami.
 - **Rejestracja wideo i bezpłatne udostępnienie zapisu.** Transmisja telewizyjna jest zamiarem, nie ustaleniem.
@@ -28,7 +28,7 @@ Policzone, żeby sprawdzić, czy program się mieści. Razem 104 minuty, czyli o
 | Słowo organizatora: czym jest Nagroda i po co | 5 |
 | Wystąpienie fundatora nagrody | 5 |
 | Wystąpienie partnera wydawniczego | 5 |
-| Nagroda Uczniowska: wręczenie i głos przedstawiciela Uczniowskiej Akademii | 8 |
+| Nagroda Uczniowska: wręczenie i głos przedstawiciela Uczniowskiej akademii | 8 |
 | Plebiscyt: trzy wykonania na żywo | 15 |
 | Plebiscyt: werdykt jury, nagroda publiczności, nagroda za uzasadnienie, wyczytanie pozostałej siódemki z płyty | 9 |
 | Materiał filmowy podsumowujący edycję | 5 |

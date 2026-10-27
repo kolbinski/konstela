@@ -8,8 +8,8 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 |---|---|---|
 | Warunki uruchomienia | Organizator | pula ma pokrycie w zobowiązaniu fundatora, co najmniej 3 osoby potwierdziły udział w jury, regulamin po konsultacji prawnej |
 | Ogłoszenie puli nagród | Organizator | od tego dnia przyrzeczenie publiczne wiąże; pula może już tylko rosnąć |
-| Powołanie Akademii i listy rezerwowej | Organizator | Akademia powoływana na jedną edycję |
-| Próba kalibracyjna | jury + Akademia | te same **trzy** rozmowy spoza edycji (§ 8 ust. 12), ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej; te same rozmowy wracają jako kotwice |
+| Powołanie akademii i listy rezerwowej | Organizator | akademia powoływana na jedną edycję |
+| Próba kalibracyjna | jury + akademia | te same **trzy** rozmowy spoza edycji (§ 8 ust. 12), ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej; te same rozmowy wracają jako kotwice |
 
 ## 1. Okno rozmów
 
@@ -37,14 +37,14 @@ Tryb nie jest wybierany po zamknięciu naboru, bo czytelnicy pracują od lutego.
 
 | Liczba zgłoszeń po ocenie formalnej | Runda pierwsza | Runda druga |
 |---|---|---|
-| do 20 | **nie ma**; Akademii się nie powołuje | jury czyta wszystkie |
-| 21-60 | Akademia, każde zgłoszenie czyta co najmniej 2 czytelników | jury czyta zakwalifikowane, nie mniej niż 20 |
+| do 20 | **nie ma**; akademii się nie powołuje | jury czyta wszystkie |
+| 21-60 | akademia, każde zgłoszenie czyta co najmniej 2 czytelników | jury czyta zakwalifikowane, nie mniej niż 20 |
 | 61-200 | jak wyżej, maksimum 20 zgłoszeń na czytelnika, w razie potrzeby lista rezerwowa | jak wyżej |
 | powyżej 200 | odczyt wstępny po jednym czytelniku, z obowiązkowym drugim odczytem poniżej progu i losowym audytem odrzuconych (§ 8 ust. 10a) | jak wyżej |
 
-**Runda pierwsza to odczyt wstępny wykonywany przez Akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi jury.
+**Runda pierwsza to odczyt wstępny wykonywany przez akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi jury.
 
-## 6. Runda pierwsza - Akademia
+## 6. Runda pierwsza - akademia
 
 Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). W trybach do 200 zgłoszeń każde zgłoszenie czytają 2 osoby; powyżej 200 obowiązuje odczyt jednoosobowy z zabezpieczeniami z § 8 ust. 10a, więc **obietnica dwóch czytelników nie jest bezwarunkowa i nigdzie nie jest tak formułowana**. Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
 
@@ -101,7 +101,7 @@ Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w termi
 | Etap | Ile rozmów | Dlaczego |
 |---|---:|---|
 | Ocena formalna | 0 | czynności mechaniczne, bez czytania treści |
-| Runda pierwsza | 0 | czyta Akademia |
+| Runda pierwsza | 0 | czyta akademia |
 | Runda druga | 0 | czyta jury; Organizator nie ocenia merytorycznie |
 | Postępowania szczególne | pojedyncze | tylko te, co do których przyszedł sygnał |
 | Antologia | 10 | redaguje komentarze jury i składa tom |

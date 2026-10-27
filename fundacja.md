@@ -14,7 +14,7 @@ Fundatorem jest **Krzysztof Olbiński** - inżynier oprogramowania z ponad dwudz
 
 ## <!--ikona:konstelacja--><span>Po co powstaje</span>
 
-Fundacja nie jest szyldem dodanym do konkursu. Powstaje dlatego, że **nagroda pieniężna wypłacana przez osobę prywatną zależy od jednej osoby**, a zbudowana po to, by trwać, musi mieć podmiot, który ją przetrwa.
+Fundacja nie jest szyldem dodanym do plebiscytu. Powstaje dlatego, że **nagroda pieniężna wypłacana przez osobę prywatną zależy od jednej osoby**, a zbudowana po to, by trwać, musi mieć podmiot, który ją przetrwa.
 
 Cele statutowe:
 
@@ -42,7 +42,7 @@ Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach - na roz
 
 **Nagrody i koszty edycji finansują partnerzy i sponsorzy**, a każdy z nich finansuje nazwany zakres: pulę nagród, antologię, pierwszą rundę oceny, konkretny plebiscyt. Wysokość nagród zależy od pozyskanych środków i ogłaszamy ją dopiero wtedy, gdy pieniądze są na rachunku - od tej chwili pula może już wyłącznie rosnąć.
 
-**Udział w plebiscytach jest bezpłatny.** Fundacja nie pobiera opłat od uczestników, nie sprzedaje antologii w wersji elektronicznej i nie uzależnia szans w konkursie od czegokolwiek poza oceną zgłoszenia.
+**Udział w plebiscytach jest bezpłatny.** Fundacja nie pobiera opłat od uczestników, nie sprzedaje antologii w wersji elektronicznej i nie uzależnia szans w plebiscycie od czegokolwiek poza oceną zgłoszenia.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 

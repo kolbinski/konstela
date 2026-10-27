@@ -1,12 +1,12 @@
 # Skalowanie oceny przy dużym naborze - szkic struktury
 
-Notatka robocza z 21.10.2026. **Nic z tego nie jest jeszcze w regulaminie.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością Akademii.
+Notatka robocza z 21.10.2026. **Nic z tego nie jest jeszcze w regulaminie.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
 
 ## Problem w jednym zdaniu
 
 Przy trzystu czytających punkty przestają być porównywalne - jeden daje dobrej rozmowie siedem, drugi dziewięć, i nie wynika to z rozmów, tylko z surowości czytelnika. Zwykłe posortowanie po punktach ustawiłoby w czołówce ludzi, którzy trafili na łagodnego oceniającego. Kalibracja i kotwice z § 8 ust. 12-13 to zmniejszają, ale przy takiej skali nie wystarczą.
 
-Drugi problem: dzika karta przysługuje każdemu członkowi Akademii, więc **rośnie liniowo z jej liczebnością**, podczas gdy jury ma stale 3-5 osób. Trzystu czytających to trzysta kart do pięciu ludzi, ponad zgłoszeniami zakwalifikowanymi punktowo. To samo zalewa archiwum, bo karta kwalifikuje do rundy drugiej, a archiwum to właśnie runda druga - i każda taka rozmowa wymaga jeszcze drugiego odczytu przed publikacją (§ 11 ust. 11 lit. h).
+Drugi problem: dzika karta przysługuje każdemu członkowi akademii, więc **rośnie liniowo z jej liczebnością**, podczas gdy jury ma stale 3-5 osób. Trzystu czytających to trzysta kart do pięciu ludzi, ponad zgłoszeniami zakwalifikowanymi punktowo. To samo zalewa archiwum, bo karta kwalifikuje do rundy drugiej, a archiwum to właśnie runda druga - i każda taka rozmowa wymaga jeszcze drugiego odczytu przed publikacją (§ 11 ust. 11 lit. h).
 
 ## Proponowana struktura: jeden stopień więcej
 
@@ -14,7 +14,7 @@ Dziś: Akademia -> jury. Proponowane (tylko dla bardzo dużego naboru):
 
 **Stopień 0 - ocena formalna.** Mechaniczna, na `dialog.json`: liczba słów i wypowiedzi, język, ciągłość wątku, okno rozmów, duplikat rozmowy, jedno zgłoszenie na osobę. Narzędzia AI wyłącznie **oznaczają** podejrzenia z § 6 pkt 9-12; każde odrzucenie potwierdza człowiek. Przepustowość praktycznie nieograniczona.
 
-**Stopień 1 - odczyt wstępny.** Każde zgłoszenie czyta jeden członek Akademii, przeciw jednemu pytaniu: czy jest w tej rozmowie moment, w którym człowiek doszedł do czegoś, czego nie wiedział na wejściu, i czy da się go wskazać. Około pięciu minut na rozmowę. **To jedyny stopień rosnący z liczbą zgłoszeń - i rośnie liczbą ludzi, nie czasem.** Zabezpieczenia jak dziś: pasmo pod progiem dostaje drugi odczyt, plus losowy audyt części odrzuconych.
+**Stopień 1 - odczyt wstępny.** Każde zgłoszenie czyta jeden członek akademii, przeciw jednemu pytaniu: czy jest w tej rozmowie moment, w którym człowiek doszedł do czegoś, czego nie wiedział na wejściu, i czy da się go wskazać. Około pięciu minut na rozmowę. **To jedyny stopień rosnący z liczbą zgłoszeń - i rośnie liczbą ludzi, nie czasem.** Zabezpieczenia jak dziś: pasmo pod progiem dostaje drugi odczyt, plus losowy audyt części odrzuconych.
 
 **Stopień 2 - runda zbieżności.** Wszystko, co przeszło odczyt wstępny, czyta **ten sam, stały zespół** (propozycja: 20 osób) pełną kartą oceny, po dwa odczyty na zgłoszenie. Oceny stają się porównywalne, bo wystawiają je te same osoby na tym samym materiale. To jest sedno całego układu.
 
@@ -51,8 +51,8 @@ To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Przy nab
 ## Czego ta notatka nie rozstrzyga
 
 - progu włączenia nowego trybu,
-- czy zespół zbieżności rekrutuje się z Akademii odczytu wstępnego, czy powoływany jest odrębnie,
+- czy zespół zbieżności rekrutuje się z akademii odczytu wstępnego, czy powoływany jest odrębnie,
 - jak zapewnić, by skład zespołu zbieżności był stały przez całą rundę (choroba, rezygnacja),
 - czy przy usunięciu dzikiej karty podnieść audyt losowy z 1/10 na więcej, i na ile.
 
-Powiązane: skalowanie Akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](/dokument/koncepcja), sekcja o MEN.
+Powiązane: skalowanie akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](/dokument/koncepcja), sekcja o MEN.

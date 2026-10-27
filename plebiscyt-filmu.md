@@ -6,7 +6,7 @@
 
 **Przygotowujemy pierwszą edycję. Nabór nie jest jeszcze otwarty** - możesz zgłosić zainteresowanie, a dowiesz się pierwszy, gdy ruszy.
 
-Otwarty konkurs na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą, czy ostrzeżeniem - to, co w nim powiesz, jest częścią tego, co oceniamy.
+Otwarty plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą, czy ostrzeżeniem - to, co w nim powiesz, jest częścią tego, co oceniamy.
 
 **Film trwa od 20 do 90 minut.**
 
@@ -75,13 +75,13 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 ## <!--ikona:uczestnik--><span>Kto ocenia</span>
 
-**Wszystkie zgłoszenia, które przeszły ocenę formalną, ogląda Akademia filmu** i przekazuje jury listę wyłonioną według zasad ogłoszonych przed naborem. Ocenia tą samą kartą oceny co jury.
+**Wszystkie zgłoszenia, które przeszły ocenę formalną, ogląda akademia filmu** i przekazuje jury listę wyłonioną według zasad ogłoszonych przed naborem. Ocenia tą samą kartą oceny co jury.
 
 **Jury wybiera pięciu finalistów i ustala kolejność trójki.** Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem. Oceniający wyłącza się od oceny zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę.
 
 ## <!--ikona:moneta--><span>Nagrody</span>
 
-**Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
+**Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy plebiscytu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
 
 <div class="kafle">
 <article>
@@ -122,7 +122,7 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 - **1 stycznia 2027** - planowane otwarcie naboru, po zabezpieczeniu finansowania
 - **30 listopada 2027** - zamknięcie naboru. Film musi być ukończony najpóźniej w dniu zgłoszenia.
-- **Styczeń 2028** - pierwsze przejście oceny przez Akademię filmu
+- **Styczeń 2028** - pierwsze przejście oceny przez akademię filmu
 - **Luty 2028** - werdykt jury. Finaliści dowiadują się wcześniej, bo wybierają fragment, ale kolejności trójki nie znają do gali.
 - **Druga połowa kwietnia 2028** - gala rozdania nagród, werdykty wszystkich plebiscytów
 

@@ -88,7 +88,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 
 **Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](/dokument/regulamin-rozmowy) - w sprawach konkursu, [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej) - w kwotach i nakładzie pracy, [oferta mecenatu](/dokument/oferta-mecenat-antologii) - w zakresie finansowania antologii i archiwum, [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
 
-**Terminy (zmienione 19.10.2026):** okno rozmów to **pełny rok kalendarzowy 2027**, zgłoszenia do 15 stycznia 2028, runda pierwsza prowadzona na bieżąco przez cały rok, jury w lutym 2028, rozstrzygnięcie i antologia w drugiej połowie marca 2028. Wzór: Oscary, gdzie okres kwalifikacyjny to rok kalendarzowy, a członkowie Akademii oglądają filmy na bieżąco, więc po terminie zostaje samo głosowanie. Poprzedni kalendarz (okno do września, gala w listopadzie 2027) nie spinał się z procedurami: od zamknięcia naboru do ogłoszenia potrzeba 11-12 tygodni, a mieliśmy 8. Ocena bezwzględna według pasm z Karty oceny pozwala czytać przez cały rok; ryzykiem jest dryf standardów, więc kalibracja powtarzana jest w połowie roku, a czytelnik może zmienić swoją wcześniejszą ocenę do zamknięcia naboru. Co było wcześniej, a przestało obowiązywać: rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
+**Terminy (zmienione 19.10.2026):** okno rozmów to **pełny rok kalendarzowy 2027**, zgłoszenia do 15 stycznia 2028, runda pierwsza prowadzona na bieżąco przez cały rok, jury w lutym 2028, rozstrzygnięcie i antologia w drugiej połowie marca 2028. Wzór: Oscary, gdzie okres kwalifikacyjny to rok kalendarzowy, a członkowie akademii oglądają filmy na bieżąco, więc po terminie zostaje samo głosowanie. Poprzedni kalendarz (okno do września, gala w listopadzie 2027) nie spinał się z procedurami: od zamknięcia naboru do ogłoszenia potrzeba 11-12 tygodni, a mieliśmy 8. Ocena bezwzględna według pasm z Karty oceny pozwala czytać przez cały rok; ryzykiem jest dryf standardów, więc kalibracja powtarzana jest w połowie roku, a czytelnik może zmienić swoją wcześniejszą ocenę do zamknięcia naboru. Co było wcześniej, a przestało obowiązywać: rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
 
 Powód przesunięcia pierwszej edycji na 2027: daje ponad dwa miesiące na patronat, jury i fundatora, a rok rozmów zgadza się z rokiem wydania i z tytułem tomu. Wariant z oknem przez cały 2027 odrzucony, bo rozstrzygnięcie wypadałoby w 2028 - czternaście miesięcy bez niczego do pokazania to za długo, by utrzymać uwagę partnerów przekonanych na starcie.
 
@@ -112,14 +112,14 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **Przesunięcie edycji na 2027 kupuje czas na sponsorów**: kilka miesięcy do wiosny, a zgłoszenia i tak otwierają się dopiero wtedy.
 
-**Budżet pierwszej edycji - cztery wnioski do czterech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia wszystkich trzech bloków są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Nagrody, Budżet Antologii, Budżet Plebiscytu i Budżet Akademii.
+**Budżet pierwszej edycji - cztery wnioski do czterech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia wszystkich trzech bloków są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Nagrody, Budżet Antologii, Budżet Plebiscytu i Budżet akademii.
 
 | Budżet | Przedmiot | Kwota | Źródło liczby |
 |---|---|---:|---|
 | Nagrody | Nagroda i gala - pula nagród, honoraria jury, gala, promocja naboru, prowadzenie konkursu | **ok. 561,7 tys. zł netto** | [arkusz, zakładka Budżet Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) |
 | Antologii | Antologia i archiwum - redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 277,6 tys. zł netto** | [arkusz, zakładka Budżet Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) |
 | Plebiscytu | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 261,7 tys. zł netto** | [arkusz, zakładka Budżet Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) |
-| Akademii | Pierwsza runda oceny - honoraria czytelników i vouchery rosnące z liczbą ocenionych rozmów, kalibracja, rozliczenie | **ok. 49,3 tys. zł netto** | [arkusz, zakładka Budżet Akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) |
+| akademii | Pierwsza runda oceny - honoraria czytelników i vouchery rosnące z liczbą ocenionych rozmów, kalibracja, rozliczenie | **ok. 49,3 tys. zł netto** | [arkusz, zakładka Budżet akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) |
 
 **Cztery zastrzeżenia, bez których tej tabeli nie wolno sumować.**
 
@@ -168,7 +168,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 **Ty: tylko sito formalne.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga konkurs, a jury tylko ustawia kolejność jego typów.
 
-**Kto co czyta.** Progi w § 8 regulaminu, liczone od zgłoszeń **po ocenie formalnej**: do 20 jury czyta wszystkie i Akademii się nie powołuje; 21-60 Akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; 61-200 to samo z przydziałem maksymalnie 20 zgłoszeń na czytającego i listą rezerwową; powyżej 200 odczyt wstępny po jednym czytającym, z obowiązkowym drugim odczytem na progu, powyżej niego i w paśmie bezpośrednio poniżej, plus losowy audyt odrzuconych (§ 8 ust. 10a). Do jury idzie **nie mniej niż dwadzieścia** zgłoszeń o najwyższej **średniej** ocen, powiększone o skierowane dziką kartą; dziesiątka antologii powstaje dopiero z pracy całego jury, a nie z odczytu wstępnego przed nią. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
+**Kto co czyta.** Progi w § 8 regulaminu, liczone od zgłoszeń **po ocenie formalnej**: do 20 jury czyta wszystkie i akademii się nie powołuje; 21-60 akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; 61-200 to samo z przydziałem maksymalnie 20 zgłoszeń na czytającego i listą rezerwową; powyżej 200 odczyt wstępny po jednym czytającym, z obowiązkowym drugim odczytem na progu, powyżej niego i w paśmie bezpośrednio poniżej, plus losowy audyt odrzuconych (§ 8 ust. 10a). Do jury idzie **nie mniej niż dwadzieścia** zgłoszeń o najwyższej **średniej** ocen, powiększone o skierowane dziką kartą; dziesiątka antologii powstaje dopiero z pracy całego jury, a nie z odczytu wstępnego przed nią. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
 
 **Panel za hasłem** na stronie Nagrody: link, opis odkrycia, metryczka, neutralne streszczenie tematu.
 
@@ -220,7 +220,7 @@ Czego nie zatrzymamy i nie chcemy zatrzymywać: człowieka, który zna temat, po
 
 **Publikacja rozłożona w czasie.** Archiwum i antologia rocznika udostępniane są od dnia ogłoszenia wyników, a potem poszczególne rozmowy ukazują się porcjami jako treść redakcyjna w ciągu roku następującego po ogłoszeniu, w rytmie około dwutygodniowym, z komentarzem. Powód: strona żyje przez cały rok, w którym trwa kolejny nabór, a rocznik poprzedni jest gotowym harmonogramem treści - materiał jest już przeczytany, oceniony i objęty zgodą. Kolejność udostępniania nie wynika z punktacji.
 
-**Czego świadomie nie robimy: publikacji zgłoszeń bieżącego rocznika na bieżąco.** Pomysł był rozważany 19.10.2026 i odrzucony z trzech powodów. Po pierwsze psuje harmonogram: kto zgłasza się w styczniu, oddaje konkurencji swój warsztat na jedenaście miesięcy, więc racjonalny uczestnik czeka do 15 stycznia, co odtwarza lawinę pod koniec terminu, przed którą miał chronić pełny rok naboru. Po drugie psuje anonimowość oceny - czytelnik dostaje w lutym rozmowę, którą w październiku widział w mediach społecznościowych z nazwiskiem autora. Po trzecie tworzy ryzyko publicznego odwoływania publikacji przy inscenizacji albo wycofaniu zgody po zaindeksowaniu. Treść na rok 2027, w którym nie ma jeszcze poprzedniego rocznika: rozmowy kalibracyjne z komentarzem (i tak powstają na próbę oceny), profile Gwiazd Jury i Akademii publikowane pojedynczo w miarę potwierdzania udziału, licznik zgłoszeń i komentarze o bieżącym etapie.
+**Czego świadomie nie robimy: publikacji zgłoszeń bieżącego rocznika na bieżąco.** Pomysł był rozważany 19.10.2026 i odrzucony z trzech powodów. Po pierwsze psuje harmonogram: kto zgłasza się w styczniu, oddaje konkurencji swój warsztat na jedenaście miesięcy, więc racjonalny uczestnik czeka do 15 stycznia, co odtwarza lawinę pod koniec terminu, przed którą miał chronić pełny rok naboru. Po drugie psuje anonimowość oceny - czytelnik dostaje w lutym rozmowę, którą w październiku widział w mediach społecznościowych z nazwiskiem autora. Po trzecie tworzy ryzyko publicznego odwoływania publikacji przy inscenizacji albo wycofaniu zgody po zaindeksowaniu. Treść na rok 2027, w którym nie ma jeszcze poprzedniego rocznika: rozmowy kalibracyjne z komentarzem (i tak powstają na próbę oceny), profile Gwiazd Jury i akademii publikowane pojedynczo w miarę potwierdzania udziału, licznik zgłoszeń i komentarze o bieżącym etapie.
 
 Dlaczego nie publikujemy automatycznie wszystkiego, co przeszło ocenę formalną:
 
@@ -306,13 +306,13 @@ Wniosek: nagroda i szukanie zarobku to dwa osobne tory. Łatwo wmówić sobie, �
 
 Zastrzeżenie: ta ścieżka prowadzi przez edycje 1-3. Milion dolarów można obiecać tylko instytucji, która już coś rozstrzygnęła.
 
-### Akademia i jury - model oceny (nazewnictwo ustalone 19.10.2026)
+### akademia i jury - model oceny (nazewnictwo ustalone 19.10.2026)
 
-Problem jest arytmetyczny: tysiąc zgłoszeń po 3000 słów to trzy miliony słów, czyli ponad trzydzieści powieści. jury prestiżowych nazwisk tego nie przeczyta, a ocena przez AI jest wykluczona. Jedyne wyjście to setki czytających, na wzór Akademii Filmowej.
+Problem jest arytmetyczny: tysiąc zgłoszeń po 3000 słów to trzy miliony słów, czyli ponad trzydzieści powieści. jury prestiżowych nazwisk tego nie przeczyta, a ocena przez AI jest wykluczona. Jedyne wyjście to setki czytających, na wzór akademii Filmowej.
 
-**Struktura dwustopniowa.** Akademia czyta i filtruje: każdy członek dostaje kilka losowo przydzielonych rozmów, ocenia je według tych samych czterech kryteriów i nie widzi ocen innych. jury czyta wyłącznie to, co przeszło filtr, czyli od dwudziestu do stu zgłoszeń powiększonych o dzikie karty, i wybiera z nich dziesiątkę antologii oraz laureata. Dla jury to kilkadziesiąt tekstów, czyli praca wykonalna. Finał na żywo zostaje na końcu jako weryfikacja dziesiątki.
+**Struktura dwustopniowa.** akademia czyta i filtruje: każdy członek dostaje kilka losowo przydzielonych rozmów, ocenia je według tych samych czterech kryteriów i nie widzi ocen innych. jury czyta wyłącznie to, co przeszło filtr, czyli od dwudziestu do stu zgłoszeń powiększonych o dzikie karty, i wybiera z nich dziesiątkę antologii oraz laureata. Dla jury to kilkadziesiąt tekstów, czyli praca wykonalna. Finał na żywo zostaje na końcu jako weryfikacja dziesiątki.
 
-**Członkostwo w akademii jako druga waluta.** Nic nie kosztuje, a jest realną nagrodą prestiżową i naturalnym kanałem promocji, bo każdy członek mówi o nagrodzie u siebie. Akademia może rosnąć z laureatów i finalistów poprzednich edycji: po trzech edycjach istnieje kilkudziesięciu ludzi, którzy sami prowadzili nagrodzoną rozmowę. Nagroda zaczyna wtedy produkować własny organ oceniający, zamiast szukać go co roku od zera. Warunkiem utrzymania członkostwa jest przeczytanie przydzielonej puli, tak jak w Akademii.
+**Członkostwo w akademii jako druga waluta.** Nic nie kosztuje, a jest realną nagrodą prestiżową i naturalnym kanałem promocji, bo każdy członek mówi o nagrodzie u siebie. Akademia może rosnąć z laureatów i finalistów poprzednich edycji: po trzech edycjach istnieje kilkudziesięciu ludzi, którzy sami prowadzili nagrodzoną rozmowę. Nagroda zaczyna wtedy produkować własny organ oceniający, zamiast szukać go co roku od zera. Warunkiem utrzymania członkostwa jest przeczytanie przydzielonej puli, tak jak w akademii.
 
 **Zagrożenie zasadnicze: uśrednienie.** Duże ciała głosujące wybierają konsensus, czyli to, czego nikt nie znienawidzi. Oscar idzie do filmu najbardziej akceptowalnego, nie najodważniejszego. My nagradzamy rzecz odwrotną, czyli połączenie, którego nikt wcześniej nie zrobił, więc średnia z trzystu ocen przepuści rozmowy porządne i zatrzyma osobliwe.
 
@@ -320,7 +320,7 @@ Problem jest arytmetyczny: tysiąc zgłoszeń po 3000 słów to trzy miliony sł
 
 **Zagrożenie drugie: kampanie.** Przy setkach głosujących lobbowanie staje się niewidoczne, a anonimizacja przecieka, bo styl jest rozpoznawalny i uczestnik może sam opublikować swój link przed rozstrzygnięciem. Potrzebny zapis: zakaz publicznego udostępniania zgłoszenia przed ogłoszeniem wyników, pod rygorem dyskwalifikacji. Dotyczy wersji międzynarodowej, nie obecnego regulaminu.
 
-**Koszt.** Akademia to rekrutacja, weryfikacja, oświadczenia o konflikcie interesów, umowy powierzenia danych, platforma do przydziału i ocen oraz obsługa rezygnacji. To już etat, nie praca jednej osoby po godzinach. Kolejny argument za fundacją albo konsorcjum przy tej skali.
+**Koszt.** akademia to rekrutacja, weryfikacja, oświadczenia o konflikcie interesów, umowy powierzenia danych, platforma do przydziału i ocen oraz obsługa rezygnacji. To już etat, nie praca jednej osoby po godzinach. Kolejny argument za fundacją albo konsorcjum przy tej skali.
 
 ### Dyktando a konkurs opisowy - rozstrzygnięcie sporu
 
@@ -344,7 +344,7 @@ Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nag
 
 **Jak to się wykrywa.** Tak samo jak inscenizacja: z sygnału od osoby, która zgłoszenie przeczytała, albo z opisu odkrycia. Organizator nie prowadzi przeglądu z urzędu, bo przy stu pięćdziesięciu zgłoszeniach nie jest to wykonalne.
 
-## Przepustowość oceny: kiedy potrzebna jest Akademia
+## Przepustowość oceny: kiedy potrzebna jest akademia
 
 **Nazewnictwo (ustalone 19.10.2026).** **jury** to 3-5 osób wybierających dziesiątkę antologii i laureata. **Akademia** to liczniejsza grupa czytelników przeprowadzająca pierwszą rundę; to do niej należy dzika karta. Odrzucono wariant "Gwiazdy Jury": po polsku gwiazda znaczy celebryta, co przeczy sensowi nagrody wyróżniającej myślenie osoby nieznanej, a dodatkowo przeciąża metaforę, w której gwiazdami są rozmowy i fakty, nie oceniający.
 
@@ -352,24 +352,24 @@ Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nag
 
 | Liczba zgłoszeń | Model "każdy czyta wszystko" | Wniosek                          |
 | --------------: | ---------------------------: | -------------------------------- |
-|              20 |                14 h na osobę | wykonalne, Akademia niepotrzebna |
+|              20 |                14 h na osobę | wykonalne, akademia niepotrzebna |
 |              50 |                35 h na osobę | koniec tego modelu               |
 |             150 |               100 h na osobę | niemożliwe                       |
 
-**Próg, przy którym potrzebna jest runda wstępna, leży około 50 zgłoszeń, nie przy tysiącach.** Wcześniejsze założenie, że Akademia to sprawa trzeciej edycji, było błędne: 150 zgłoszeń to umiarkowany sukces, a nie klęska urodzaju. Progi uruchamiania zapisane w § 8 regulaminu: do 20 bez Akademii, 21-60 pierwsza runda po dwóch czytających, 61-200 przydział maksymalnie 20 zgłoszeń na czytającego i lista rezerwowa, powyżej 200 odczyt wstępny po jednym czytającym.
+**Próg, przy którym potrzebna jest runda wstępna, leży około 50 zgłoszeń, nie przy tysiącach.** Wcześniejsze założenie, że akademia to sprawa trzeciej edycji, było błędne: 150 zgłoszeń to umiarkowany sukces, a nie klęska urodzaju. Progi uruchamiania zapisane w § 8 regulaminu: do 20 bez akademii, 21-60 pierwsza runda po dwóch czytających, 61-200 przydział maksymalnie 20 zgłoszeń na czytającego i lista rezerwowa, powyżej 200 odczyt wstępny po jednym czytającym.
 
 **Dlaczego rozdzielenie ról ułatwia rekrutację.** Jurora prosi się o nazwisko i odpowiedzialność, co wymaga prestiżu, którego pierwsza edycja nie ma. Czytelnika prosi się o przeczytanie do dwudziestu rozmów w ciągu roku, czyli o półtorej godziny miesięcznie, i taką prośbę można wypowiedzieć wobec ludzi, którzy nie znają organizatora.
 
-**Skąd brać Akademię w edycji pierwszej.** Doktoranci i studenci ostatnich lat filozofii, kognitywistyki, polonistyki i kierunków zajmujących się metodologią nauki; nauczyciele polskiego i filozofii; bibliotekarze z bibliotek wojewódzkich; redaktorzy pism piszących o AI. Zapłatą jest nazwisko w antologii w spisie czytelników edycji, zaświadczenie, zaproszenie na galę i wcześniejszy dostęp do archiwum rozmów.
+**Skąd brać akademię w edycji pierwszej.** Doktoranci i studenci ostatnich lat filozofii, kognitywistyki, polonistyki i kierunków zajmujących się metodologią nauki; nauczyciele polskiego i filozofii; bibliotekarze z bibliotek wojewódzkich; redaktorzy pism piszących o AI. Zapłatą jest nazwisko w antologii w spisie czytelników edycji, zaświadczenie, zaproszenie na galę i wcześniejszy dostęp do archiwum rozmów.
 
-**Pakiet uznania dla Akademii (ustalone 19.10.2026).** Do powyższego dochodzą dwie rzeczy, tanie i mocne:
+**Pakiet uznania dla akademii (ustalone 19.10.2026).** Do powyższego dochodzą dwie rzeczy, tanie i mocne:
 
-- **Egzemplarz drukowanej antologii z podpisami jury.** Ponieważ druk wchodzi jesienią, a gala jest w marcu, podpisy zbiera się na gali na osobnych kartach (ekslibrisach) wklejanych do egzemplarzy wysyłanych jesienią. Daje to drugi kontakt z Akademią pół roku po wydarzeniu, czyli dokładnie w momencie rekrutacji na kolejną edycję. Nakład na ten cel to Akademia, jury i dziesiątka finalistów, czyli około 30 egzemplarzy, koszt rzędu tysiąca złotych - kwota na tyle mała, że można ją obiecać przy zapraszaniu, niezależnie od losów wydania handlowego.
-- **Zdjęcie grupowe jury, laureatów i obecnej Akademii.** Warunki: pisemna zgoda na wizerunek zbierana przed galą razem z potwierdzeniem obecności, oraz uczciwy podpis, bo część Akademii to wolontariusze z całej Polski i nie wszyscy dojadą - zdjęcie obejmuje obecnych, nie "całą Akademię".
+- **Egzemplarz drukowanej antologii z podpisami jury.** Ponieważ druk wchodzi jesienią, a gala jest w marcu, podpisy zbiera się na gali na osobnych kartach (ekslibrisach) wklejanych do egzemplarzy wysyłanych jesienią. Daje to drugi kontakt z akademią pół roku po wydarzeniu, czyli dokładnie w momencie rekrutacji na kolejną edycję. Nakład na ten cel to akademia, jury i dziesiątka finalistów, czyli około 30 egzemplarzy, koszt rzędu tysiąca złotych - kwota na tyle mała, że można ją obiecać przy zapraszaniu, niezależnie od losów wydania handlowego.
+- **Zdjęcie grupowe jury, laureatów i obecnej akademii.** Warunki: pisemna zgoda na wizerunek zbierana przed galą razem z potwierdzeniem obecności, oraz uczciwy podpis, bo część akademii to wolontariusze z całej Polski i nie wszyscy dojadą - zdjęcie obejmuje obecnych, nie "całą akademię".
 
-Obie rzeczy wymieniamy już w zaproszeniu do Akademii, bo tam pełnią swoją funkcję, a nie wtedy, gdy praca jest już wykonana. Od drugiej edycji dochodzi najmocniejsza waluta: finaliści poprzedniej.
+Obie rzeczy wymieniamy już w zaproszeniu do akademii, bo tam pełnią swoją funkcję, a nie wtedy, gdy praca jest już wykonana. Od drugiej edycji dochodzi najmocniejsza waluta: finaliści poprzedniej.
 
-**Sekcja ludzi na stronie.** jury u góry, Akademia pod spodem, z profilami. Trzy warunki: publikacja wyłącznie za pisemną zgodą, opis pisany przez samą osobę, a sekcja powstaje dopiero wtedy, gdy są w niej prawdziwe nazwiska. Nazwisko na stronie tworzy zobowiązanie widoczne publicznie, więc utrata członkostwa przy nieprzeczytaniu przydziału musi być powiedziana przy zapraszaniu.
+**Sekcja ludzi na stronie.** jury u góry, akademia pod spodem, z profilami. Trzy warunki: publikacja wyłącznie za pisemną zgodą, opis pisany przez samą osobę, a sekcja powstaje dopiero wtedy, gdy są w niej prawdziwe nazwiska. Nazwisko na stronie tworzy zobowiązanie widoczne publicznie, więc utrata członkostwa przy nieprzeczytaniu przydziału musi być powiedziana przy zapraszaniu.
 
 **Narzędzie awaryjne - rozstrzygnięte 19.10.2026: bez limitu miejsc.** Rozważany był limit zamykający nabór po osiągnięciu ustalonej liczby zgłoszeń i został odrzucony. Nagroda stoi na zdaniu, że liczą się rozmowy z całego roku 2027, a limit miejsc znaczy, że autor najlepszej grudniowej rozmowy zastaje zamknięte drzwi; dla dziennikarza to gotowy akapit, a dla sponsora sygnał, że konkurs planowany jest jako mały. Jedna rzecz działała na korzyść limitu i warto o niej pamiętać: wymuszałby zgłaszanie się wcześnie, czego potrzebuje ocena na bieżąco - ale to osiągamy zachętą, nie zamykaniem naboru.
 
@@ -377,11 +377,11 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 
 **Poprawka wprowadzona po drugiej recenzji (19.10.2026).** Początkowo uzasadniałem ten tryb tym, że dzika karta zostaje nietknięta, więc pojedynczy czytelnik nie może sam zakopać rozmowy nietypowej. **To było nieprawdą.** Dzika karta działa tylko wtedy, gdy ktoś rozmowę przeczytał i docenił; przy jednym czytelniku, który jej nie docenił, nie ma nikogo, kto mógłby jej użyć. To jest najpoważniejsza słabość całej konstrukcji, bo rozmowa źle oceniona w finale może zostać obroniona przez pozostałych członków jury, a rozmowa niesłusznie zatrzymana w odczycie wstępnym znika, zanim ktokolwiek ją zobaczy. Zabezpieczenia wpisane do § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie bezpośrednio poniżej progu, losowy audyt co najmniej jednej dziesiątej pozostałych odrzuconych, rozszerzenie kontroli i powrót do trybu dwóch czytelników, jeżeli audyt ujawni systematyczny błąd, oraz próg ogłaszany przed pierwszym ocenianiem, a nie po obejrzeniu wyników.
 
-**Przepustowość przy 150 zgłoszeniach.** Przy dwóch czytających na zgłoszenie to 300 odczytów. Limit podniesiony z 10 na 20 zgłoszeń na czytającego (stare 10 było liczone pod dwumiesięczne okno oceny, nowy harmonogram rozkłada je na dwanaście miesięcy) daje **15 osób w Akademii**, czyli około 15-20 godzin na osobę w ciągu roku, półtorej godziny miesięcznie. To jest prośba, którą można wypowiedzieć wobec wolontariusza. Wąskim gardłem nie jest liczba 150, a liczba zebranych czytelników; realny kłopot zaczyna się powyżej 400 zgłoszeń.
+**Przepustowość przy 150 zgłoszeniach.** Przy dwóch czytających na zgłoszenie to 300 odczytów. Limit podniesiony z 10 na 20 zgłoszeń na czytającego (stare 10 było liczone pod dwumiesięczne okno oceny, nowy harmonogram rozkłada je na dwanaście miesięcy) daje **15 osób w akademii**, czyli około 15-20 godzin na osobę w ciągu roku, półtorej godziny miesięcznie. To jest prośba, którą można wypowiedzieć wobec wolontariusza. Wąskim gardłem nie jest liczba 150, a liczba zebranych czytelników; realny kłopot zaczyna się powyżej 400 zgłoszeń.
 
 ## Archiwum otwiera się dopiero z wynikami - wariant odrzucony 22.10.2026
 
-**Rozważany pomysł.** Otworzyć archiwum publicznie już w 2027 i pokazywać zgłoszone rozmowy na bieżąco. Trzy spodziewane korzyści: strona żyje przez cały rok naboru, publiczność ocenia rozmowy i ta ocena jest dodatkowym czynnikiem dla Akademii i jury, a napływ rozkłada się równomiernie, zamiast kumulować w grudniu.
+**Rozważany pomysł.** Otworzyć archiwum publicznie już w 2027 i pokazywać zgłoszone rozmowy na bieżąco. Trzy spodziewane korzyści: strona żyje przez cały rok naboru, publiczność ocenia rozmowy i ta ocena jest dodatkowym czynnikiem dla akademii i jury, a napływ rozkłada się równomiernie, zamiast kumulować w grudniu.
 
 **Odrzucone. Powody w kolejności wagi.**
 
@@ -426,7 +426,7 @@ Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](/dokument/plebiscy
 
 1. **Konflikt interesów.** Licealiści to naturalna pula uczestników; uczeń nie może oceniać konkursu, w którym startuje kolega z klasy albo on sam.
 2. **Dzika karta wymaga doświadczenia.** Prawo przepchnięcia rozmowy wbrew średniej ma ocalać rzecz osobliwą, ale działa tylko w rękach kogoś, kto odróżnia osobliwość od efekciarstwa, a przy kryterium Weryfikacji potrafi rozpoznać zmyślone źródło.
-3. **To rozwiązuje problem, którego w edycji pierwszej nie ma.** Akademia czytająca odpowiada na tysiące zgłoszeń; pierwsza edycja ma mieć kilkanaście i jury trzy- do pięcioosobowe.
+3. **To rozwiązuje problem, którego w edycji pierwszej nie ma.** akademia czytająca odpowiada na tysiące zgłoszeń; pierwsza edycja ma mieć kilkanaście i jury trzy- do pięcioosobowe.
 
 Przy nagrodzie równoległej wszystkie trzy znikają: uczniowie nie decydują o nagrodzie głównej, czytają materiał już przesiany, a mechanizm dokłada się do skali, zamiast jej wymagać.
 
@@ -436,9 +436,9 @@ Przy nagrodzie równoległej wszystkie trzy znikają: uczniowie nie decydują o 
 
 ## Ministerstwo Edukacji - drugi adresat instytucjonalny (ustalenia z 21.10.2026)
 
-**Czego patronat MEN nie da.** Pomysł, żeby resort dostarczył Akademię złożoną z nauczycieli i w ten sposób udźwignąć nabór liczony w setkach tysięcy, nie przechodzi rachunku. Milion zgłoszeń przy pięciominutowym odczycie wstępnym to 83 tys. godzin czytania, czyli ponad cztery tysiące osób po dwadzieścia godzin; nawet po tysiąc złotych na osobę daje to cztery miliony złotych przy budżecie B na 232 tys. Poza arytmetyką: **ministerstwo nie przydziela nauczycielom zadań na rzecz fundacji** i nie ma takiego trybu. Gdyby był, pierwszy komentarz brzmiałby „minister każe nauczycielom czytać za darmo dla prywatnej nagrody", a drugi przyszedłby od związków zawodowych. Rekrutacja i wynagrodzenie Akademii zostają po stronie organizatora - tak samo jak w [liście do FTIMS](/dokument/list-do-ftims).
+**Czego patronat MEN nie da.** Pomysł, żeby resort dostarczył akademię złożoną z nauczycieli i w ten sposób udźwignąć nabór liczony w setkach tysięcy, nie przechodzi rachunku. Milion zgłoszeń przy pięciominutowym odczycie wstępnym to 83 tys. godzin czytania, czyli ponad cztery tysiące osób po dwadzieścia godzin; nawet po tysiąc złotych na osobę daje to cztery miliony złotych przy budżecie B na 232 tys. Poza arytmetyką: **ministerstwo nie przydziela nauczycielom zadań na rzecz fundacji** i nie ma takiego trybu. Gdyby był, pierwszy komentarz brzmiałby „minister każe nauczycielom czytać za darmo dla prywatnej nagrody", a drugi przyszedłby od związków zawodowych. Rekrutacja i wynagrodzenie akademii zostają po stronie organizatora - tak samo jak w [liście do FTIMS](/dokument/list-do-ftims).
 
-**Czego patronat MEN da: dostęp, nie ludzi.** List do szkół, obecność w ofercie doskonalenia zawodowego i wiarygodność, dzięki której nauczyciel traktuje zaproszenie do Akademii poważnie, zamiast je skasować. Różnica praktyczna: z patronatem resortu piszesz do kilkudziesięciu tysięcy szkół naraz, bez niego do dziekana jednego wydziału.
+**Czego patronat MEN da: dostęp, nie ludzi.** List do szkół, obecność w ofercie doskonalenia zawodowego i wiarygodność, dzięki której nauczyciel traktuje zaproszenie do akademii poważnie, zamiast je skasować. Różnica praktyczna: z patronatem resortu piszesz do kilkudziesięciu tysięcy szkół naraz, bez niego do dziekana jednego wydziału.
 
 **Trzy powody, dla których to właśnie MEN.**
 
@@ -450,7 +450,7 @@ Przy nagrodzie równoległej wszystkie trzy znikają: uczniowie nie decydują o 
 
 **Zapalnik:** odpowiedź z Ministerstwa Cyfryzacji albo upływ dwóch tygodni od wysłania maila do Cezarego (21.10.2026), czyli **około 4 listopada 2026**. Powód czekania: dwa ministerstwa dowiadujące się o sobie nawzajem ze strony internetowej wyglądają gorzej niż jedno poinformowane o drugim, a zdanie „o wskazanie drogi patronatu zwróciłem się również do Ministerstwa Cyfryzacji" działa na naszą korzyść tylko wtedy, gdy jest prawdziwe i aktualne.
 
-**Co już mamy pod tę rozmowę.** Wyłączenie z § 3 ust. 5 regulaminu stanowi wprost, że patronat honorowy nie wyklucza z konkursu pracowników instytucji patronującej - nauczyciel może więc zgłosić własną rozmowę, o ile nie wejdzie do Akademii. Konkretny program edukacyjny opisuje sekcja o Konsteli Licealistów powyżej; memo MEN do szkół ma sens przy tamtej konstrukcji, a nie przy szukaniu darmowych czytelników.
+**Co już mamy pod tę rozmowę.** Wyłączenie z § 3 ust. 5 regulaminu stanowi wprost, że patronat honorowy nie wyklucza z konkursu pracowników instytucji patronującej - nauczyciel może więc zgłosić własną rozmowę, o ile nie wejdzie do akademii. Konkretny program edukacyjny opisuje sekcja o Konsteli Licealistów powyżej; memo MEN do szkół ma sens przy tamtej konstrukcji, a nie przy szukaniu darmowych czytelników.
 
 ## Na później: wyzwanie dla firm (wersja międzynarodowa)
 
@@ -505,7 +505,7 @@ Na każdą z dziesięciu rozmów składają się cztery elementy:
 
 **Nakład Organizatora:** redakcja, ujednolicenie stylu, uzupełnienie brakujących komentarzy, kontakt z uczestnikami dla uniknięcia nieścisłości, skład - około 45 godzin na całą antologię zamiast 120.
 
-**Dźwignia, którą trzeba uruchomić w formularzu oceny.** Regulamin wymaga, by każda ocena wskazywała fragment uzasadniający. Jeżeli formularz poprosi dodatkowo o **jedno zdanie komentarza przy tym fragmencie**, jury i Akademia wytwarzają gotowe kandydatury na komentarze marginesowe w trakcie normalnej pracy. Komentarz podpisana nazwiskiem jurora jest w antologii mocniejsza niż komentarz organizatora, a nakład własny spada z pisania do redagowania. Do wdrożenia przy budowie panelu oceny.
+**Dźwignia, którą trzeba uruchomić w formularzu oceny.** Regulamin wymaga, by każda ocena wskazywała fragment uzasadniający. Jeżeli formularz poprosi dodatkowo o **jedno zdanie komentarza przy tym fragmencie**, jury i akademia wytwarzają gotowe kandydatury na komentarze marginesowe w trakcie normalnej pracy. Komentarz podpisana nazwiskiem jurora jest w antologii mocniejsza niż komentarz organizatora, a nakład własny spada z pisania do redagowania. Do wdrożenia przy budowie panelu oceny.
 
 ## Kanał zgłoszeń: formularz, nie mail (ustalone 20.10.2026)
 
@@ -591,24 +591,24 @@ Pomysł: piosenkę nagrywa wspólnie kilkoro wykonawców jako ich bezpłatna ini
 **Kiedy wrócić.** Gdy utwór już istnieje w wersji finalnej i Nagroda ma rozpoznawalność. Wtedy wersja zbiorowa jako drugie wydanie albo jako wykonanie na gali: dołącza się do czegoś, co już brzmi, a nie do cudzego pomysłu na papierze.
 
 
-## Uczniowska Akademia - konstrukcja przyjęta 23.10.2026
+## Uczniowska akademia - konstrukcja przyjęta 23.10.2026
 
 Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesiątkę finalistów i wybierali spośród niej własnego laureata.
 
-**Jak działa.** Uczniowska Akademia czyta zgłoszenia konkursowe według tej samej karty oceny co Akademia dorosła. W pierwszej edycji **wszystkie grupy uczniowskie dostają ten sam, niewielki zestaw rozmów**, uprzednio sprawdzony pod kątem przydatności do pracy z młodzieżą - inaczej zwycięzca Nagrody Uczniowskiej zależałby od tego, której grupie przypadł dany tekst, a przy odrębnej nagrodzie jest to wada nie do obronienia. Przy większej skali zestaw można rozbudować, ale zasada wspólnego materiału dla wszystkich głosujących zostaje. Nagrodę Uczniowską otrzymuje rozmowa oceniona przez nich najwyżej. Werdykt powstaje niezależnie od jury i zwykle wskaże kogoś innego; jeżeli trafi na tę samą rozmowę, nosi ona obie nagrody. W antologii każda rozmowa dostaje adnotację, kto ją wyróżnił.
+**Jak działa.** Uczniowska akademia czyta zgłoszenia konkursowe według tej samej karty oceny co akademia dorosła. W pierwszej edycji **wszystkie grupy uczniowskie dostają ten sam, niewielki zestaw rozmów**, uprzednio sprawdzony pod kątem przydatności do pracy z młodzieżą - inaczej zwycięzca Nagrody Uczniowskiej zależałby od tego, której grupie przypadł dany tekst, a przy odrębnej nagrodzie jest to wada nie do obronienia. Przy większej skali zestaw można rozbudować, ale zasada wspólnego materiału dla wszystkich głosujących zostaje. Nagrodę Uczniowską otrzymuje rozmowa oceniona przez nich najwyżej. Werdykt powstaje niezależnie od jury i zwykle wskaże kogoś innego; jeżeli trafi na tę samą rozmowę, nosi ona obie nagrody. W antologii każda rozmowa dostaje adnotację, kto ją wyróżnił.
 
 **Dlaczego tak, a nie wybór z dziesiątki.** Uczniowie wykonują prawdziwą pracę oceniającą i wynik należy do nich, zamiast być drugim głosowaniem nad cudzym podium. Zbiór czytany jest ten sam, więc porównanie werdyktów zachowuje sens: z tej samej puli jury wybrało jedno, uczniowie co innego. To jest też jawny dowód tezy, że „najlepsza rozmowa" zależy od tego, kto ocenia - przy nagrodzie, która dopiero ustanawia przedmiot oceny, taka widoczna niezgoda jest zaletą.
 
-**Konflikt interesów nie występuje**, bo regulamin wymaga ukończenia 18 lat, więc uczniowie nie mogą startować w tym, co oceniają. To właśnie odróżnia ten pomysł od odrzuconego 19.10.2026 wariantu z uczniami w Akademii głównej.
+**Konflikt interesów nie występuje**, bo regulamin wymaga ukończenia 18 lat, więc uczniowie nie mogą startować w tym, co oceniają. To właśnie odróżnia ten pomysł od odrzuconego 19.10.2026 wariantu z uczniami w akademii głównej.
 
 **Cztery rzeczy do rozstrzygnięcia przed wpisaniem do regulaminu:**
 
-1. **Zgoda uczestników - pilne.** Zgłaszając rozmowę, uczestnik godzi się na jej przeczytanie przez Akademię i jury. Jeżeli czytać ją będą także uczniowie, w tym osoby niepełnoletnie, musi to stać w regulaminie i w polityce prywatności **przed otwarciem zgłoszeń**, nie zostać dopisane później. Pytanie dołożone do listy dla kancelarii.
+1. **Zgoda uczestników - pilne.** Zgłaszając rozmowę, uczestnik godzi się na jej przeczytanie przez akademię i jury. Jeżeli czytać ją będą także uczniowie, w tym osoby niepełnoletnie, musi to stać w regulaminie i w polityce prywatności **przed otwarciem zgłoszeń**, nie zostać dopisane później. Pytanie dołożone do listy dla kancelarii.
 2. **Obciążenie.** Przydział ograniczony na osobę; przy pierwszej edycji nieistotne, przy większej skali rozstrzygające.
 3. **Opieka.** Uczniowie zgłaszają się przez szkołę, więc po stronie szkoły stoi nauczyciel koordynujący. To zgłoszenie szkoły, a nie polecenie ministra - i tak trzeba to nazwać w piśmie do resortu, bo pytanie padnie.
 4. **Weryfikacja.** Zasada z § 7, że rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji, obowiązuje także Nagrodę Uczniowską: wskazana rozmowa przechodzi to samo sprawdzenie co dziesiątka, zanim werdykt zostanie ogłoszony.
 
-**Ścieżka dalsza.** Uczniowska Akademia jest naturalnym zapleczem Akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w konkursie jako uczestnik, albo czytanie jako członek Akademii. Obu ról naraz pełnić nie można.
+**Ścieżka dalsza.** Uczniowska akademia jest naturalnym zapleczem akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w konkursie jako uczestnik, albo czytanie jako członek akademii. Obu ról naraz pełnić nie można.
 
 
 ## Ministerstwo Edukacji - tryb patronatu, ustalenia z 23.10.2026
@@ -625,7 +625,7 @@ Notatki wyjęte z `me-pismo.md`, żeby ten plik zawierał wyłącznie treść pi
 
 **Wniosek:** o patronat występujemy później, przez formularz, **na galę rozstrzygnięcia jako wydarzenie wiodące**, co najmniej 60 dni wcześniej, już z ramienia Fundacji wpisanej do KRS.
 
-**Pierwsze pismo prosi więc o trzy rzeczy spoza reżimu patronatowego:** stanowisko wobec Uczniowskiej Akademii, wskazanie drogi do szkół dla scenariusza zajęć oraz rozważenie współtworzenia Nagrody Uczniowskiej. Pytanie o Ośrodek Rozwoju Edukacji jest w piśmie celowo - jeżeli właściwym adresatem materiału jest ORE, lepiej usłyszeć to od razu niż po dwóch miesiącach.
+**Pierwsze pismo prosi więc o trzy rzeczy spoza reżimu patronatowego:** stanowisko wobec Uczniowskiej akademii, wskazanie drogi do szkół dla scenariusza zajęć oraz rozważenie współtworzenia Nagrody Uczniowskiej. Pytanie o Ośrodek Rozwoju Edukacji jest w piśmie celowo - jeżeli właściwym adresatem materiału jest ORE, lepiej usłyszeć to od razu niż po dwóch miesiącach.
 
 **Wysłane 23.10.2026**, przez e-Doręczenia, z podpisem zaufanym, na kancelarię ogólną Ministerstwa Edukacji Narodowej. Temat: „Nagroda Konstela - propozycja programu dla szkół i prośba o wskazanie drogi". W treści wiadomości krótkie pismo przewodnie (`me-wiadomosc.md`), bo pole wiadomości ma limit 5000 znaków, a pismo w całości poszło jako załącznik. Załączniki: `me-pismo.pdf`, `mc-nota-koncepcyjna.pdf`, `me-scenariusz-lekcji.pdf`. Dowód wysłania zachowany. Bez reakcji do **20 listopada** telefon do kancelarii z pytaniem o znak sprawy.
 
@@ -654,11 +654,11 @@ Wspólny mianownik tych pomysłów: prosimy kogoś dobrego, żeby zrobił **swoj
 
 ### Handbook dla uczestników (pomysł z rozmowy z Reequest, 23.10.2026)
 
-Kilkanaście próbek rozmów przeprowadzonych przez prawdziwych ludzi, z **ocenami Akademii i komentarzami jury**. Pokazuje, jak wygląda ocenianie od środka: nie tylko co dostało ile punktów, ale dlaczego.
+Kilkanaście próbek rozmów przeprowadzonych przez prawdziwych ludzi, z **ocenami akademii i komentarzami jury**. Pokazuje, jak wygląda ocenianie od środka: nie tylko co dostało ile punktów, ale dlaczego.
 
 Odpowiada na zarzut Piotra Bylińskiego z tej samej rozmowy: uczestnik, który nie wie, czego się od niego oczekuje, zgłosi rozmowę, odpadnie i poczuje się oszukany, bo miał tylko jedno zgłoszenie w roku. Handbook jest jedyną rzeczą, która to naprawia przed naborem, a nie po.
 
-Materiał bierze się z próby kalibracyjnej, która i tak jest w budżecie: te same rozmowy służą do nauczenia Akademii i jury stosowania karty oceny. Jedna praca, trzy zastosowania - kalibracja, handbook i materiał do [scenariusza lekcji](/dokument/me-scenariusz-lekcji).
+Materiał bierze się z próby kalibracyjnej, która i tak jest w budżecie: te same rozmowy służą do nauczenia akademii i jury stosowania karty oceny. Jedna praca, trzy zastosowania - kalibracja, handbook i materiał do [scenariusza lekcji](/dokument/me-scenariusz-lekcji).
 
 Format drugorzędny: PDF, e-book albo podstrona. Powstaje **przed otwarciem naboru**.
 
@@ -682,7 +682,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 - **Film dokumentalny** o pierwszej edycji.
 - **Specjalne wydanie antologii jako obiekt** - numerowane, oprawione ręcznie, do licytacji obok plakatu z autografem.
 - **Ilustracje do każdej rozmowy w antologii** wraz z komentarzem artysty - dalszy ciąg wątku plakatu, nie przedmiot pierwszej prośby.
-- **Wyróżnienie dla nauczyciela** - niewielkim kosztem wzmacnia cały wątek edukacyjny i wiąże się z [Uczniowską Akademią](/dokument/koncepcja).
+- **Wyróżnienie dla nauczyciela** - niewielkim kosztem wzmacnia cały wątek edukacyjny i wiąże się z [Uczniowską akademią](/dokument/koncepcja).
 
 ## Czytelnia zgłoszeń i Nagroda Publiczności - zmiana decyzji z 24.10.2026
 
@@ -691,7 +691,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 **Co upadło z pierwotnych zarzutów:**
 
 - *Nakręcanie głosów* - rozwiązane bramką SMS z jednym głosem na numer telefonu, zaprojektowaną przy plebiscycie. Nie zatrzyma zdeterminowanego, zatrzyma kolegów i boty.
-- *Skażenie odczytów Akademii* - rozwiązane ukryciem liczników do ogłoszenia oraz przesunięciem głosowania za dzień zamrożenia punktacji.
+- *Skażenie odczytów akademii* - rozwiązane ukryciem liczników do ogłoszenia oraz przesunięciem głosowania za dzień zamrożenia punktacji.
 - *Nierówna ekspozycja* - rozwiązana tym, że głosowanie otwiera się dopiero po zamknięciu naboru, więc wszystkie zgłoszenia mają ten sam czas na ekranie.
 - *Odpowiedzialność za publikację przed oceną formalną* (§ 11 ust. 11) - rozwiązana dwojako: **nie republikujemy rozmów**, tylko pokazujemy link, który uczestnik sam opublikował, więc odpowiedzialność za treść zostaje po jego stronie; a wpis trafia na czytelnię **dopiero po przejściu oceny formalnej**, więc nic nie jest pokazywane przed sprawdzeniem.
 - *Zarzut „dwa werdykty obok siebie"* - **wycofany jako najsłabszy.** Dwa równoległe werdykty są standardem, a Nagroda ma już własny w postaci Nagrody Uczniowskiej, wzorowanej na Prix Goncourt des lycéens, gdzie o to właśnie chodzi.
@@ -726,7 +726,7 @@ Czytelnik oznacza gwiazdką rozmowy, do których chce wrócić. Po roku czytania
 
 ### Archiwum: ta sama czytelnia, sortowalna, z jawną punktacją
 
-Rozstrzygnięte 24.10.2026. **Archiwum zawiera dokładnie te same rozmowy co czytelnia**, utrwalone w dniu zamknięcia naboru. Różnica jest jedna: archiwum da się przeglądać - sortować po dacie, tytule, autorze i **po ocenach wystawionych przez Akademię, jury i publiczność**.
+Rozstrzygnięte 24.10.2026. **Archiwum zawiera dokładnie te same rozmowy co czytelnia**, utrwalone w dniu zamknięcia naboru. Różnica jest jedna: archiwum da się przeglądać - sortować po dacie, tytule, autorze i **po ocenach wystawionych przez akademię, jury i publiczność**.
 
 **Punktacja jest jawna dla wszystkich zgłoszeń, nie tylko dla dziesiątki**, i jest to **warunek udziału**, a nie wybór uczestnika. Uczestnik decyduje wyłącznie o podpisie: nazwisko albo pseudonim; ocena jest widoczna tak czy inaczej.
 
@@ -742,7 +742,7 @@ Otwiera się po dniu zamrożenia punktacji rundy pierwszej, czyli 14 dni po zamk
 
 Głosowanie obejmuje **wszystkie zgłoszenia, które przeszły ocenę formalną**, ponieważ czytelnia jest obowiązkowa - nikt nie jest poza tą nagrodą wskutek własnego niedopatrzenia przy zgłoszeniu.
 
-Na gali trzy werdykty obok siebie: **jury, Uczniowskiej Akademii i publiczności**, każdy wyraźnie nazwany.
+Na gali trzy werdykty obok siebie: **jury, Uczniowskiej akademii i publiczności**, każdy wyraźnie nazwany.
 
 **Nierozstrzygnięte:** nazwa tej nagrody oraz czy ma mieć gratyfikację pieniężną.
 
@@ -856,7 +856,7 @@ Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie r
   - **Pula nagród: 100, 50 i 30 tys. zł.**
   - **Jury: Krzysiek znajduje skład.**
   - **Na gali pięć najwyżej ocenionych filmów dostaje minutową emisję**, na wzór gali Oscarów (decyzja z 26.10.2026). Rozwiązuje to problem, który przy limicie 1,5 godziny wydawał się nierozwiązywalny: całego filmu nie da się pokazać na gali, która rozstrzyga kilka plebiscytów, a minutowy fragment pokazuje pięć prac zamiast jednej i działa jak zwiastun dla pełnego pokazu.
-  - Do rozstrzygnięcia przy pisaniu: pozycje budżetu poza nagrodami, próg i tryb Akademii filmu, zakres dla kancelarii (trzeci regulamin do wyceny, nie drugi).
+  - Do rozstrzygnięcia przy pisaniu: pozycje budżetu poza nagrodami, próg i tryb akademii filmu, zakres dla kancelarii (trzeci regulamin do wyceny, nie drugi).
 
 ## Konkurs na plakat o sztucznej inteligencji (pomysł z 26.10.2026, rozwijany)
 
@@ -1088,7 +1088,7 @@ W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest konkursem na rekla
 
 **Z zakazu filmu promocyjnego wypadł przykład**, który pozwalał odrzucić formalnie film za słabą argumentację: "przedstawiający jedno rozwiązanie jako lepsze bez pokazania podstaw". To jest sprawa oceny merytorycznej, nie oceny formalnej.
 
-Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwszym zdaniu), uzasadnienie powołania Akademii, uzasadnienie pełnych pokazów i powtórzenie o publikacji jako warunku udziału.
+Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwszym zdaniu), uzasadnienie powołania akademii, uzasadnienie pełnych pokazów i powtórzenie o publikacji jako warunku udziału.
 
 ### Kwot nagród nie podajemy publicznie (26.10.2026)
 
@@ -1148,7 +1148,7 @@ Pierwsza runda krytycznej recenzji podstrony, regulaminu, procedury moderacji i 
 
 **Dwie obietnice niepełne.** Niepełnoletni czytali, że żadna odmowa opiekuna nie wyklucza z konkursu, choć zgoda na obowiązkowe zakresy licencji i na przesłanie nagrania z twarzą jest warunkiem przyjęcia zgłoszenia. Wystawa oryginałów i okładka antologii były opisane jako pewne, choć regulamin dopuszcza odmowę wysłania oryginału i odmowę zgody na okładkę - wszędzie jest teraz "prace finalistów", "oryginały tych, którzy je przysłali, pozostałe w reprodukcji" i zgoda autora przy okładce.
 
-**Jury i punkty.** "Jury ogląda wszystkie zgłoszenia" przeczyło pierwszej rundzie Akademii - obie ścieżki są teraz wymienione, z trybem ogłaszanym przed naborem. Karta mówiła "każdego osobno, w skali stu punktów", co sugerowało 100 punktów za kryterium; jest "łącznie do 100 punktów, w podziale wskazanym w tabeli". Brakowało przepisu o tym, jak powstaje wynik z ocen kilku osób - **§ 7 ust. 1a**: średnia arytmetyczna, ocena wyłączonego członka pomijana. Banalne użycie motywu przeniesione z Ujęcia tematu do Pomysłu plastycznego, bo nakładało się na dwa kryteria naraz i ten sam zarzut obniżał dwa wyniki.
+**Jury i punkty.** "Jury ogląda wszystkie zgłoszenia" przeczyło pierwszej rundzie akademii - obie ścieżki są teraz wymienione, z trybem ogłaszanym przed naborem. Karta mówiła "każdego osobno, w skali stu punktów", co sugerowało 100 punktów za kryterium; jest "łącznie do 100 punktów, w podziale wskazanym w tabeli". Brakowało przepisu o tym, jak powstaje wynik z ocen kilku osób - **§ 7 ust. 1a**: średnia arytmetyczna, ocena wyłączonego członka pomijana. Banalne użycie motywu przeniesione z Ujęcia tematu do Pomysłu plastycznego, bo nakładało się na dwa kryteria naraz i ten sam zarzut obniżał dwa wyniki.
 
 **Kwoty nagród.** § 9 przestał odsyłać do załącznika, którego przy tym projekcie nie ma, i mówi to samo co regulaminy rozmowy i filmu: wysokość zależy od środków od sponsorów, ogłaszana w dniu otwarcia naboru, po ogłoszeniu może już tylko wzrosnąć. **Ten sam zapis o załączniku został w regulaminie piosenki i trzeba go tam wyrównać.**
 
@@ -1192,7 +1192,7 @@ Pierwsza runda krytycznej recenzji podstrony, regulaminu, procedury moderacji i 
 
 **Występ na gali: zaproszenie zamiast gwarancji.** § 14 ust. 1 obiecywał trzy wykonania na żywo, a ust. 5 dopuszczał odmowę. Laureaci są teraz zapraszani do wykonania, obecność uzgadniana jest zaraz po werdykcie, a odmowa nie pozbawia żadnej nagrody.
 
-**Jury, punkty i oznaczenia** - trzy poprawki wspólne z plakatem: „jury przesłuchuje wszystkie zgłoszenia" przeczyło pierwszej rundzie Akademii; brakowało przepisu o tym, jak z ocen kilku osób powstaje wynik (§ 9 ust. 1a: średnia, ocena wyłączonego pomijana; ust. 1b: remisy); oznaczenie zastrzeżenia kończyło się na „rozstrzyga Organizator" (§ 16 ust. 1a: zawiadomienie z fragmentem, 14 dni na wyjaśnienia, ograniczenie prezentacji tylko po wskazaniu uzasadnionego ryzyka, odrzucenie wyłącznie na podstawach regulaminowych). W procedurze moderacji poprawione wyłączenie okładki wygenerowanej: samo użycie AI nie jest podstawą oznaczenia, ale rozpoznawalną osobę czy przejęty znak oznacza się niezależnie od techniki - dotychczasowe brzmienie kazałoby przeoczyć dokładnie to, co S1 nakazuje oznaczać.
+**Jury, punkty i oznaczenia** - trzy poprawki wspólne z plakatem: „jury przesłuchuje wszystkie zgłoszenia" przeczyło pierwszej rundzie akademii; brakowało przepisu o tym, jak z ocen kilku osób powstaje wynik (§ 9 ust. 1a: średnia, ocena wyłączonego pomijana; ust. 1b: remisy); oznaczenie zastrzeżenia kończyło się na „rozstrzyga Organizator" (§ 16 ust. 1a: zawiadomienie z fragmentem, 14 dni na wyjaśnienia, ograniczenie prezentacji tylko po wskazaniu uzasadnionego ryzyka, odrzucenie wyłącznie na podstawach regulaminowych). W procedurze moderacji poprawione wyłączenie okładki wygenerowanej: samo użycie AI nie jest podstawą oznaczenia, ale rozpoznawalną osobę czy przejęty znak oznacza się niezależnie od techniki - dotychczasowe brzmienie kazałoby przeoczyć dokładnie to, co S1 nakazuje oznaczać.
 
 **Hymn ma własną podstronę - decyzja z 26.10.2026.** Opis procesu, dwie wersje AI, zapowiedź wersji jurorów i pełny tekst zajmowały czwartą część strony dla uczestnika, który nie potrzebuje tego do decyzji o zgłoszeniu. Na [stronie hymnu](/hymn) jest wszystko, na podstronie plebiscytu i na stronie głównej - akapit i odnośnik. Przy okazji zniknęło „wkrótce dojdzie trzecia wersja", sprzeczne z uzależnieniem nagrania od środków na produkcję.
 
@@ -1250,7 +1250,7 @@ Przy wstawianiu wiersza do arkusza trzeba było ręcznie poprawić sześć formu
 
 **Trzy daty otwarcia głosowania publiczności, wyprowadzone z regulaminów (27.10.2026).** Harmonogram na stronie głównej w ogóle nie pokazywał, kiedy rusza głosowanie, a przy okazji wyszło, że dwa regulaminy nie mówiły tego wcale: plakat i piosenka miały wyłącznie zdanie „terminy ogłasza Organizator razem z terminami naboru". Obie luki domknięte tą samą zasadą co przy rozmowie i filmie - **głosowanie otwiera się po zamknięciu naboru, a nie w jego trakcie**, bo inaczej zgłoszenie złożone w pierwszym tygodniu zbiera głosy przez rok, a złożone w ostatnim przez tydzień.
 
-Z regulaminów wychodzą trzy daty, nie jedna: **1 grudnia 2027** dla plakatu (dzień po zamknięciu naboru), **1 stycznia 2028** dla piosenki (tak samo), **koniec stycznia 2028** dla rozmowy i filmu - przy rozmowie 14 dni po zamknięciu naboru, bo tyle trwa możliwość poprawiania ocen pierwszej rundy, a przy filmie po zamknięciu pierwszego przejścia Akademii filmu, które nota przewiduje na styczeń. Film i rozmowa dzielą więc jedną pozycję w harmonogramie, choć każde z innego powodu.
+Z regulaminów wychodzą trzy daty, nie jedna: **1 grudnia 2027** dla plakatu (dzień po zamknięciu naboru), **1 stycznia 2028** dla piosenki (tak samo), **koniec stycznia 2028** dla rozmowy i filmu - przy rozmowie 14 dni po zamknięciu naboru, bo tyle trwa możliwość poprawiania ocen pierwszej rundy, a przy filmie po zamknięciu pierwszego przejścia akademii filmu, które nota przewiduje na styczeń. Film i rozmowa dzielą więc jedną pozycję w harmonogramie, choć każde z innego powodu.
 
 **Harmonogram jako oś czasu (27.10.2026).** Harmonogram edycji przestał być siatką kafli: biegnie pionowa linia, na niej pierścienie w kolorze mosiądzu - ten sam motyw co w rozdzielaczu sekcji - a przy nich daty i zdarzenia. Pierścień ostatniej pozycji, gali, jest wypełniony, bo nią oś się kończy; linia pod ostatnim zdarzeniem znika, żeby nie zwisała.
 

@@ -4,7 +4,7 @@
 
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
-Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga sekcja o zasadach - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.
+Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga sekcja o zasadach - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.
 
 **Zespoły i duety są jak najbardziej mile widziane.** „Własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa.
 
@@ -13,7 +13,7 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 **Jak to przebiega, w skrócie:**
 
 - zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą
-- jury wybiera **dziesięciu finalistów** - spośród wszystkich zgłoszeń albo z listy przygotowanej przez Akademię, zależnie od trybu ogłoszonego przed naborem
+- jury wybiera **dziesięciu finalistów** - spośród wszystkich zgłoszeń albo z listy przygotowanej przez akademię, zależnie od trybu ogłoszonego przed naborem
 - każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim
 - **trzy najwyżej ocenione utwory** dostają nagrody pieniężne, a ich autorzy są zapraszani do wykonania ich na żywo na gali
 - nabór planujemy na początek 2027 roku, po zabezpieczeniu finansowania
@@ -72,7 +72,7 @@ Narzędzi opartych na AI wolno też używać **na etapie produkcji i obróbki**:
 
 **Obróbka nie może zastąpić wykonania ani dopisać muzyki.** Nie wolno wygenerować partii wokalnej, chórków ani drugiego głosu, podmienić barwy głosu na wygenerowaną, ani kazać narzędziu wymyślić harmonii czy linii melodycznej, której nie skomponowałeś. Narzędzie może rozmnożyć Twój głos na dodatkowe partie, ale tylko takie, które sam wymyśliłeś - samo dobierać ich melodii ani harmonii nie może.
 
-**Jak to sprawdzamy.** Nie na zasadzie, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w konkursie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
+**Jak to sprawdzamy.** Nie na zasadzie, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
 ## <!--ikona:kryteria--><span>Co ocenia jury</span>
 
@@ -86,7 +86,7 @@ Cztery kryteria, łącznie do 100 punktów. **Wagi podaje regulamin i po otwarci
 | Wykonanie | 20 | Wokal i interpretacja |
 | **Razem** | **100** | |
 
-Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie. W kryterium Wykonanie oceniamy wokal i interpretację w zakresie, w jakim słychać je w czytelnym demie; jakość produkcji nie wpływa na punktację w żadnym kryterium.
+Tekst ma najwyższą wagę, bo to plebiscyt, w którym oceniamy również pisanie. W kryterium Wykonanie oceniamy wokal i interpretację w zakresie, w jakim słychać je w czytelnym demie; jakość produkcji nie wpływa na punktację w żadnym kryterium.
 
 **Jak liczymy wynik.** Punkty zgłoszenia to średnia ocen oceniających, którzy go słuchali; liczbę oceniających na jedno zgłoszenie podajemy przed otwarciem naboru. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce.
 
@@ -94,11 +94,11 @@ Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie.
 
 ## <!--ikona:jury--><span>Jury i tryb oceny</span>
 
-**Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo z listy przygotowanej przez Akademię, zależnie od trybu ogłoszonego przed naborem - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
+**Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo z listy przygotowanej przez akademię, zależnie od trybu ogłoszonego przed naborem - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
 
 **Skład jury kompletujemy** i ogłosimy go wraz z sylwetkami przed otwarciem naboru, a nie po rozstrzygnięciu.
 
-**Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Gdyby jednak zgłoszeń było tyle, że nie da się tego zrobić rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury. Czy Akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy przed otwarciem naboru**, nie po nim.
+**Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Gdyby jednak zgłoszeń było tyle, że nie da się tego zrobić rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury. Czy akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy przed otwarciem naboru**, nie po nim.
 
 ## <!--ikona:puchar--><span>Nagrody</span>
 

@@ -2,7 +2,7 @@
 
 ---
 
-Plebiscyt na piosenkę jest odrębnym konkursem prowadzonym przez Organizatora Nagrody Konstela i rozstrzyganym na tej samej gali. Regulamin Nagrody Konstela, dostępny pod adresem konstela.org/dokument/regulamin-rozmowy, nie stosuje się do plebiscytu, chyba że niniejszy regulamin wprost do niego odsyła.
+Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora Nagrody Konstela i rozstrzyganym na tej samej gali. Regulamin Nagrody Konstela, dostępny pod adresem konstela.org/dokument/regulamin-rozmowy, nie stosuje się do plebiscytu, chyba że niniejszy regulamin wprost do niego odsyła.
 
 Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogłoszony, a nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
 
@@ -46,7 +46,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4. W plebiscycie nie mogą brać udziału:
 
-   a) członkowie jury plebiscytu, a także członkowie Akademii plebiscytu, jeżeli zostanie powołana - ani jako zgłaszający, ani jako współautorzy lub wykonawcy w cudzym zgłoszeniu;
+   a) członkowie jury plebiscytu, a także członkowie akademii plebiscytu, jeżeli zostanie powołana - ani jako zgłaszający, ani jako współautorzy lub wykonawcy w cudzym zgłoszeniu;
 
    b) członkowie organów Organizatora oraz osoby, które brały udział w przygotowaniu plebiscytu po stronie Organizatora.
 
@@ -114,7 +114,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 7. Autorstwo utworu i użycie narzędzi sztucznej inteligencji
 
-1. Plebiscyt nie jest konkursem na powstrzymanie się od korzystania ze sztucznej inteligencji. Nagroda Konstela jest o świadomym życiu z nią. Granice wyznaczone w niniejszym paragrafie dotyczą pochodzenia zgłoszonego materiału, a nie inspiracji.
+1. Plebiscyt nie jest plebiscytem na powstrzymanie się od korzystania ze sztucznej inteligencji. Nagroda Konstela jest o świadomym życiu z nią. Granice wyznaczone w niniejszym paragrafie dotyczą pochodzenia zgłoszonego materiału, a nie inspiracji.
 
 2. Melodia, harmonia i partia wokalna pochodzą od człowieka. Niedopuszczalne jest zgłoszenie melodii lub harmonii przejętej z nagrania wygenerowanego przez narzędzie sztucznej inteligencji, w szczególności odsłuchanej i spisanej, przerobionej, przyspieszonej lub przeharmonizowanej. Partia wokalna jest w całości wykonana przez człowieka, bez wyjątków.
 
@@ -176,7 +176,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 | Wykonanie | 20 | Wokal i interpretacja |
 | Razem | 100 | |
 
-1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 10 ust. 7 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez Akademię (§ 10 ust. 5). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
+1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 10 ust. 7 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez akademię (§ 10 ust. 5). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
 
 1b. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Tekst, następnie w kryterium Ujęcie tematu, następnie w kryterium Muzyka, a w razie dalszej równości - głos przewodniczącego jury.
 
@@ -194,15 +194,15 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Honorarium za ocenę jest odrębne od ewentualnego honorarium za udział w nagraniu hymnu i za wykonanie na gali.
 
-4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły ocenę formalną, albo spośród listy zakwalifikowanej przez Akademię plebiscytu (ust. 5) - zależnie od trybu ogłoszonego przed otwarciem naboru - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
+4. Jury wybiera **dziesięciu finalistów** spośród wszystkich zgłoszeń, które przeszły ocenę formalną, albo spośród listy zakwalifikowanej przez akademię plebiscytu (ust. 5) - zależnie od trybu ogłoszonego przed otwarciem naboru - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
 
-5. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza Akademia plebiscytu - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
+5. Jeżeli liczba zgłoszeń przekroczy próg ogłoszony przed otwarciem naboru, pierwsze przejście oceny przeprowadza akademia plebiscytu - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
 
-6. Próg powołania Akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
+6. Próg powołania akademii, jej liczebność, liczbę oceniających przypadających na jedno zgłoszenie oraz sposób powstawania listy węższej Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru.
 
 6a. **Oznaczanie zastrzeżeń prawnych.** Oceniający oznacza w panelu zastrzeżenie, jeżeli dostrzeże na okładce zgłoszenia (§ 5 ust. 3 lit. c) podobiznę rozpoznawalnej osoby trzeciej albo przejęty cudzy obraz, znak lub postać. Zakres oznaczania jest w tym plebiscycie węższy niż w pozostałych, ponieważ Organizator nie publikuje nagrań: Słuchalnia prezentuje okładkę, podpis i odnośnik do nagrania pozostającego na kanale Uczestnika. Oznaczenie jest sygnałem, nie rozstrzygnięciem, **nie wpływa na punktację** i nie wstrzymuje samo z siebie prezentacji zgłoszenia w Słuchalni; rozstrzyga Organizator, w trybie z § 16 ust. 1a. Rodzaje rutynowych oznaczeń są zamknięte i opisane w [**procedurze moderacji zgłoszeń**](/dokument/procedura-moderacji), jawnej od dnia ogłoszenia naboru, która opisuje je przez to, co widać, a nie przez kwalifikację prawną, wraz z przykładami pozytywnymi i negatywnymi. Oceniający rozpoznaje podejrzenie, nie stan prawny. Oznaczenie nietrafne nie pozostawia publicznego śladu.
 
-7. Członek jury oraz członek Akademii wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny danego zgłoszenia.
+7. Członek jury oraz członek akademii wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny danego zgłoszenia.
 
 8. Werdykt jury jest ostateczny i nie podlega odwołaniu. Organizator nie wpływa na ocenę zgłoszeń i nie bierze udziału w głosowaniu jury.
 
@@ -403,7 +403,7 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
 14. **§ 15 ust. 5 zdanie drugie** - wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
 15. **§ 5 ust. 6 i 6a** - wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
-15a. **§ 11 ust. 2** - konkurs na uzasadnienie wyboru jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
+15a. **§ 11 ust. 2** - plebiscyt na uzasadnienie wyboru jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
 16. **§ 16 ust. 5** - żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
 17. **§ 17 ust. 1** - progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
 18. **§ 19 ust. 2-3** - przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.

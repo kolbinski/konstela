@@ -98,7 +98,7 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 
 **Ryzyko do przyjęcia świadomie:** po tej zmianie **cała część muzyczna poza hymnem zależy od wydawnictwa, którego jeszcze nie ma.** Wcześniej nagrania trójki zwycięzców były zabezpieczone z naszego budżetu. Bez partnera plebiscyt pozostaje konkursem z nagrodami pieniężnymi i bez żadnego nagrania. Wariant zapasowy, gdyby wydawnictwa nie było: wrócić do pozycji 30 tys. zł na nagranie trójki. Nie jest pozycją naszego budżetu i nie jest projektem produkcyjnym po naszej stronie. Wchodzi natomiast do rozmów z wydawnictwami jako konkretna propozycja - Michał wskazywał małe i średnie wydawnictwa jako partnerów naturalnych, a Warner Music i Universal jako wariant ambitny. Odrzucone zostało wzięcie płyty na siebie, z dwóch powodów produktowych i kosztowych: dziesięć utworów od półprofesjonalistów o bardzo różnym poziomie to na jednej płycie produkt słaby, bo ranking jury szereguje jakość, ale nie tworzy spójnego albumu; a produkcja płyty jest rzędem wielkości powyżej nagrania trzech utworów, razem z okładką, masteringiem i dystrybucją. *Trzeci argument, którym pierwotnie to odrzuciłem - że płyta przesuwa Konstelę w stronę wytwórni muzycznej - został wycofany po przeformułowaniu marki, patrz niżej.*
 
-**Jury plebiscytu jest płatne za ocenę zgłoszeń.** Rozstrzygnięte 24.10.2026, zmiana wobec zapisu „jury za darmo" z 23.10.2026. Uzasadnienie: skoro płacimy jury i Akademii za czytanie rozmów, płacenie jury za odsłuchiwanie kilkudziesięciu utworów przez rok jest konsekwencją, nie wyjątkiem - a rok pracy oparty na samej dobrej woli to cienki fundament i nie pozwala wymagać terminów. Honorarium za ocenę jest odrębne od honorarium za wykonanie hymnu na gali i od produkcji nagrania.
+**Jury plebiscytu jest płatne za ocenę zgłoszeń.** Rozstrzygnięte 24.10.2026, zmiana wobec zapisu „jury za darmo" z 23.10.2026. Uzasadnienie: skoro płacimy jury i akademii za czytanie rozmów, płacenie jury za odsłuchiwanie kilkudziesięciu utworów przez rok jest konsekwencją, nie wyjątkiem - a rok pracy oparty na samej dobrej woli to cienki fundament i nie pozwala wymagać terminów. Honorarium za ocenę jest odrębne od honorarium za wykonanie hymnu na gali i od produkcji nagrania.
 
 **Kwota nieustalona, świadomie.** Zależy od liczebności jury, która nie jest znana. Kotwicą jest nasza własna skala ze [skalowanie-oceny](/dokument/skalowanie-oceny): honoraria jury 69,5 tys. zł, przy pięciu osobach niecałe 14 tys. na osobę, czyli około 290 zł za godzinę przy 100 rozmowach. Praca jury plebiscytu jest znacznie lżejsza - przy 50 zgłoszeniach dwa przejścia odsłuchu plus shortlista i obrady to rzędu 15 godzin, nie 48 - co z tej samej stawki daje około 4,5 tys. zł na jurora i ok. 22 tys. zł przy pięciu osobach. **Do ustalenia po rozmowie z Michałem.**
 
@@ -118,9 +118,9 @@ Odpowiedź na jego pytanie "ok Michał, zgadzam się, ile za jurorowanie dostan�
 
 **Odrzucone przed wysyłką:** prośba do Michała o widełki honorariów dla nazwisk pierwszej wielkości. Nie rozmawiał nigdy z Cyganem ani z Markowskim, więc odpowiedź byłaby zgadywaniem, które i tak stałoby się kotwicą dla wszystkich kolejnych kwot.
 
-### Akademia plebiscytu - wraca do rozważenia, wbrew ustaleniu z 24.10.2026
+### akademia plebiscytu - wraca do rozważenia, wbrew ustaleniu z 24.10.2026
 
-W mailu padła propozycja: gdyby zgłoszeń były setki albo tysiące, powołać **akademię plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystko i wybiera dla jury węższą listę. Przedstawiona jako wariant do zaprojektowania osobno, z osobnym kosztem, z pytaniem do Michała.
+W mailu padła propozycja: gdyby zgłoszeń były setki albo tysiące, powołać **Akademię plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystko i wybiera dla jury węższą listę. Przedstawiona jako wariant do zaprojektowania osobno, z osobnym kosztem, z pytaniem do Michała.
 
 **To jest sprzeczne z decyzją zapisaną wyżej w sekcji "Preselekcja: bez akademii".** Tamta decyzja odrzuciła akademię z dwóch powodów: arytmetycznego (piosenka trwa 4 minuty, 300 zgłoszeń to około 17 godzin odsłuchu, czyli zasięg kilkuosobowego jury) oraz ustrojowego (zewnętrzny zespół decydujący, czego jury w ogóle wysłucha, jest drugim werdyktem, którego nikt nie widzi).
 
@@ -280,7 +280,7 @@ Numer prepaid kosztuje kilkanaście złotych, więc mechanizm zatrzymuje zwielok
 
 **Co z tego wynika.** Przy 300 zgłoszeniach to 20 godzin na jurora rozłożone na rok naboru - wykonalne. Przy 1000 zgłoszeń to już około 67 godzin na osobę i decyzja "bez akademii" przestaje się bronić. Pierwotne zdanie "17 godzin odsłuchu jest w zasięgu kilkuosobowego jury" sugerowało, że liczba jurorów zmniejsza obciążenie; to było błędne i nie może być podstawą ustalenia progu z Michałem.
 
-**Wniosek merytoryczny zostaje, zmienia się jego zasięg:** przy setkach zgłoszeń jury daje radę samo, przy tysiącach nie. Drugi argument przeciwko Akademii - ustrojowy, o drugim niewidocznym werdykcie - obowiązuje niezależnie od liczb i to on, a nie arytmetyka, jest tu rozstrzygający.
+**Wniosek merytoryczny zostaje, zmienia się jego zasięg:** przy setkach zgłoszeń jury daje radę samo, przy tysiącach nie. Drugi argument przeciwko akademii - ustrojowy, o drugim niewidocznym werdykcie - obowiązuje niezależnie od liczb i to on, a nie arytmetyka, jest tu rozstrzygający.
 
 **Rozdzielenie, które trzeba trzymać:**
 
@@ -452,7 +452,7 @@ Strona miała sekcję "Jak to ma działać" długą na czterdzieści trzy wiersz
 
 **Dopisane, bo było tylko w regulaminie:** granica 16 lat wraz ze zgodą opiekuna rozbitą na cztery zakresy, czas trwania 3-6 minut, tekst po polsku, brak wcześniejszego wydania komercyjnego.
 
-**Rozdzielone tematy:** zasady AI, karta oceny, jury i Akademia, nagrody - każde dostało własną sekcję zamiast siedzieć w jednym worku. Gala zebrana w jedno miejsce (było w dwóch), zgłoszenie też (co zgłaszasz i jak zgłaszasz były pięćdziesiąt wierszy od siebie), prawa do nagrania przestały być powtórzone w dwóch sekcjach.
+**Rozdzielone tematy:** zasady AI, karta oceny, jury i akademia, nagrody - każde dostało własną sekcję zamiast siedzieć w jednym worku. Gala zebrana w jedno miejsce (było w dwóch), zgłoszenie też (co zgłaszasz i jak zgłaszasz były pięćdziesiąt wierszy od siebie), prawa do nagrania przestały być powtórzone w dwóch sekcjach.
 
 **Przeniesione wyżej:** "O czym jest Nagroda Konstela" z przedostatniego miejsca na drugie, bo ktoś trafiający tu z grupy muzyków czytał dwieście wierszy, zanim dowiadywał się, czym to jest. Skrócone i z linkiem do strony głównej.
 

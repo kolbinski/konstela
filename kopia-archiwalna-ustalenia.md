@@ -92,7 +92,7 @@ Konsekwencja, której nie przewidzieliśmy przy pierwszym podejściu: skoro wtyc
 
 Wtyczka ma być **projektem otwartym fundacji**, możliwym do rozwijania przez społeczność. Materiał testowy przygotowywany specjalnie w tym celu - neutralne rozmowy, nie zapisy prywatnych rozmów kogokolwiek.
 
-**Dlaczego.** § 5 ust. 3b lit. e deklaruje, że uczestnik widzi to samo odczytanie co organizator; przy otwartym kodzie staje się to **sprawdzalne**, a nie tylko deklarowane. Przy puli 300 tys. zł ktoś zapyta, czy liczydło nie jest ustawione, i odpowiedź „proszę sprawdzić" waży więcej niż każde oświadczenie. Dodatkowo rozwiązuje największe ryzyko utrzymania: że selektory padną w środku naboru, a pilnuje ich jedna osoba. Współtwórcy to zresztą naturalni kandydaci do Akademii.
+**Dlaczego.** § 5 ust. 3b lit. e deklaruje, że uczestnik widzi to samo odczytanie co organizator; przy otwartym kodzie staje się to **sprawdzalne**, a nie tylko deklarowane. Przy puli 300 tys. zł ktoś zapyta, czy liczydło nie jest ustawione, i odpowiedź „proszę sprawdzić" waży więcej niż każde oświadczenie. Dodatkowo rozwiązuje największe ryzyko utrzymania: że selektory padną w środku naboru, a pilnuje ich jedna osoba. Współtwórcy to zresztą naturalni kandydaci do akademii.
 
 **Trzy warunki, ustalone od razu:**
 
@@ -173,7 +173,7 @@ Niezależnie od ścieżki: **walidacja kompletności z twardym odrzuceniem.** Sy
 - **Sprawdzenie dostępności linku w chwili zgłoszenia**, z natychmiastowym komunikatem zamiast odrzucenia po terminie (punkt 8).
 - **Ocena formalna** - próg znaków, naprzemienność, reguła z punktu 4 o kierowaniu do sprawdzenia ręcznego.
 - **Przechowywanie i retencja** - usuwanie danych nienagrodzonych w terminie z polityki prywatności, z kolizją przy pytaniach o oceny po gali opisaną w [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 1.
-- **Panel pracy dla Akademii i jury** - poza zakresem agencji, po stronie Krzyśka.
+- **Panel pracy dla akademii i jury** - poza zakresem agencji, po stronie Krzyśka.
 - Bez ciasteczek, bez zewnętrznej analityki, dane w EOG.
 
 ### Zależności i termin
