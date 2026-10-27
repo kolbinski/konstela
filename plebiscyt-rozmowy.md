@@ -66,15 +66,15 @@ Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa poprowadzi�
 
 ### II. Drążenie
 
-Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją. Czy kolejne pytania wykorzystują to, co już ustalone.
+Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją? Czy kolejne pytania wykorzystują to, co już ustalone?
 
 ### III. Weryfikacja
 
-Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności.
+Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności?
 
 ### IV. Plon
 
-Co z tego zostało: nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.
+Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.
 
 **Każde kryterium ma 25 punktów, razem 100.** [Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każde pasmo punktowe w każdym kryterium.
 
