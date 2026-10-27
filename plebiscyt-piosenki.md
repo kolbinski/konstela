@@ -145,7 +145,7 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 
 **Razem maksymalnie 100 punktów.**
 
-**Jak liczymy wynik.** Punkty zgłoszenia to średnia ocen oceniających, którzy go słuchali; liczbę oceniających na jedno zgłoszenie podajemy przed otwarciem naboru. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce.
+**Jak liczymy wynik.** Punkty zgłoszenia to średnia ocen oceniających osób w akademii i jury, które go słuchały. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce.
 
 **Czego nie oceniamy: okładki, jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
 
