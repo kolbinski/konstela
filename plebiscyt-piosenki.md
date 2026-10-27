@@ -2,7 +2,7 @@
 
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
-Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga sekcja o zasadach - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.
+Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga [sekcja o zasadach](#zasady) - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.
 
 **Zespoły i duety są jak najbardziej mile widziane.** „Własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa.
 
@@ -100,7 +100,7 @@ Zgłoszenie potwierdzamy kodem z SMS. **Limit dotyczy reprezentowania zgłoszeń
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
-## <!--ikona:zasady--><span>Zasady: melodia, tekst i AI</span>
+<h2 id="zasady"><!--ikona:zasady--><span>Zasady: melodia, tekst i AI</span></h2>
 
 **Melodia i głos są ludzkie, tekst wolno napisać z AI.** Granice poniżej dotyczą pochodzenia tego, co zgłaszasz, a nie tego, z czego korzystasz po drodze.
 
