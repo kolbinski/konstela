@@ -159,8 +159,6 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 </div>
 
-**Cała dziesiątka finalistów odbiera dyplomy.**
-
 **Kwalifikacja do dystrybucji kinowej znaczy tyle: wchodzisz do zestawu, który kierujemy do pokazów.** Dziesiątka finalistów składa się na zestaw filmów, z którym idziemy do partnerów dysponujących salami projekcyjnymi. Chcemy pokazać te filmy w całości, osobno od gali, ale **nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania takiego partnera. Jeżeli się uda, pytamy autorów o zgodę; odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
 <h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i archiwum</span></h2>

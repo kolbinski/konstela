@@ -135,7 +135,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 </div>
 
-**Wysokość puli nagród ogłaszamy w dniu otwarcia zgłoszeń** i od tej chwili może ona już tylko rosnąć. Cała dziesiątka finalistów odbiera dyplomy.
+**Wysokość puli nagród ogłaszamy w dniu otwarcia zgłoszeń** i od tej chwili może ona już tylko rosnąć.
 
 Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **mogą wskazać trzy różne rozmowy**. Ogłaszamy je na tej samej gali rozdania nagród.
 
