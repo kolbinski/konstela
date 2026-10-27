@@ -56,7 +56,7 @@ Spośród czterech dziedzin Nagrody ta jedna została uderzona przez sztuczną i
 
 **Nie rozstrzygamy tego sporu, tylko stawiamy po jednej stronie konkretną propozycję.** Zgłoszona praca ma powstać pod ludzką ręką: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co człowiek ma do powiedzenia o maszynie, której się boi albo której używa**, kiedy mówi to własną ręką.
 
-Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrzeżeniem, czy pochwałą. **Nie pytamy też o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys. Zwycięski plakat staje się twarzą całej edycji: idzie na okładkę antologii, na zaproszenia i na galę.
+Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrzeżeniem, czy pochwałą. **Nie pytamy też o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
