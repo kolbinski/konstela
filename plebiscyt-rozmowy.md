@@ -5,7 +5,7 @@
 
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
-Konkurs na **rozmowę z AI, po której zostaje coś więcej niż odpowiedź** - i co da się nazwać. Nagradzany jest człowiek, nie program, bo oceniane są pytania, a nie odpowiedzi.
+Plebiscyt na **rozmowę z AI, po której zostaje coś więcej niż odpowiedź** - i co da się nazwać. Nagradzany jest człowiek, nie program, bo oceniane są pytania, a nie odpowiedzi.
 
 Zgłaszasz rozmowę, którą sam odbyłeś: dowolną, którą da się udostępnić pod linkiem generowanym przez czat AI.
 
