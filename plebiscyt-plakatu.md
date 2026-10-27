@@ -16,7 +16,9 @@ Otwarty plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, 
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
 - zwycięska praca, za zgodą autora, idzie na okładkę antologii
-- nabór planujemy na 2027 rok, po zabezpieczeniu finansowania
+- wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#galeria)**
+- po ocenach możesz - ale nie musisz - wystawić oryginał na **[licytację](#licytacja)**; połowa ceny trafia do Ciebie, połowa do puli nagród kolejnej edycji
+- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż w pozostałych plebiscytach, bo antologia musi zdążyć do druku
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -47,6 +49,14 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 **Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć - plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
+
+## <!--ikona:konstelacja--><span>Dlaczego akurat plakat</span>
+
+Spośród czterech dziedzin Nagrody ta jedna została uderzona przez sztuczną inteligencję najmocniej i najszybciej. Ilustracja i plakat były pierwszymi zawodami, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić - i pierwszymi, w których ludzie zaczęli pytać, czy ich praca jeszcze ma sens. Spór o AI nigdzie nie jest tak głośny i tak osobisty jak tutaj.
+
+**Nie rozstrzygamy tego sporu, tylko stawiamy po jednej stronie konkretną propozycję.** Zgłoszona praca ma powstać pod ludzką ręką: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co człowiek ma do powiedzenia o maszynie, której się boi albo której używa**, kiedy mówi to własną ręką.
+
+Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrzeżeniem, czy pochwałą. **Nie pytamy też o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys. Zwycięski plakat staje się twarzą całej edycji: idzie na okładkę antologii, na zaproszenia i na galę.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
@@ -198,7 +208,11 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h2 id="galeria"><!--ikona:galeria--><span>Galeria i Archiwum</span></h2>
 
-**Prace, które przeszły sprawdzenie formalne, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
+### Galeria
+
+**Prace, które przeszły weryfikację formalną, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
+
+### Archiwum
 
 **Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję - oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
 
@@ -214,7 +228,7 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokaz
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
 
-## <!--ikona:licytacja--><span>Licytacja - dobrowolna</span>
+<h2 id="licytacja"><!--ikona:licytacja--><span>Licytacja - dobrowolna</span></h2>
 
 Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny. Może się odbyć jako cicha licytacja przy wystawie w galerii albo inaczej, w tym w serwisie aukcyjnym - od galerii nie zależy.
 
