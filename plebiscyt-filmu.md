@@ -81,7 +81,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 - **Nagrody pieniężne dla trzech najwyżej ocenionych filmów** oraz **Nagroda Publiczności**, przyznawana w otwartym głosowaniu: jeden głos na numer telefonu, liczniki ukryte do gali.
 - **Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
-- **Mosiężny medalion Nagrody Konstela** z pieczęcią, grawerowany, wręczany osobiście zwycięzcy - ten sam, który dostają zwycięzcy pozostałych plebiscytów - oraz tłoczone dyplomy dla wszystkich pięciu finalistów.
+- **Mosiężny medal Nagrody Konstela** z pieczęcią, grawerowany, wręczany osobiście zwycięzcy - ten sam, który dostają zwycięzcy pozostałych plebiscytów - oraz tłoczone dyplomy dla wszystkich pięciu finalistów.
 - **Minutowa emisja na gali** dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.
 
 Pełne pokazy filmów finałowych odbywają się osobno od gali, za zgodą autorów; brak zgody nie wpływa ani na ocenę, ani na nagrodę.

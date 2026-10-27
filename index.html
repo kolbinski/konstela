@@ -65,8 +65,8 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610261430" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610261430" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270550" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610270550" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
       @font-face {
@@ -783,7 +783,8 @@
         letter-spacing: 0.16em;
         text-transform: uppercase;
         color: var(--brass);
-        margin: 0 0 1rem;
+        /* Stoi pod zdaniem wiodącym, nie nad nim - stąd odstęp u góry. */
+        margin: 1rem 0 0;
       }
       .song {
         display: block;
@@ -917,12 +918,11 @@
             />
           </figure>
           <div class="hero-text">
-            <p class="tagline">Zapytaj inaczej</p>
             <p class="lede">
               Za to, co o współistnieniu ludzi i sztucznej inteligencji
               powiedział człowiek: w rozmowie, w filmie, w piosence, na plakacie.
             </p>
-            <p class="lede-sub">Nagradzamy ludzi, nie sztuczną inteligencję.</p>
+            <p class="tagline">Nagradzamy ludzi, nie sztuczną inteligencję.</p>
           </div>
         </div>
 
@@ -940,7 +940,7 @@
         <h2><!--ikona:medal--><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="9.5" r="5.5"/><path d="M9.6 14.4 8 21l4-2.2L16 21l-1.6-6.6"/><path d="m10.6 9.3 1 1.1 2-2.4"/></svg><!--/ikona--><span>Czym jest Nagroda Konstela</span></h2>
         <div class="prose">
           <p>
-            Konstela jest o <strong>życiu z AI</strong> - o współistnieniu
+            Nagroda Konstela jest o <strong>życiu z AI</strong> - o współistnieniu
             ludzi i sztucznej inteligencji w epoce, która już się zaczęła.
             Nagradzamy człowieka,
             nie program, i dlatego w każdym z plebiscytów oceniamy to, co
@@ -962,10 +962,11 @@
           <p>
             Z każdej edycji zostaje dorobek, który jest bezpłatny i zostaje na
             stałe: antologia najlepszych rozmów, publiczne archiwum zgłoszeń,
-            nagrania studyjne finalistów plebiscytu piosenki i galeria
-            plakatów. Zwycięzcy wszystkich plebiscytów odbierają ten sam
-            mosiężny medalion, bo to jedna nagroda przyznawana w kilku
-            dziedzinach, a nie kilka osobnych nagród.
+            archiwum filmów, nagrania studyjne finalistów plebiscytu piosenki
+            i galeria plakatów. Zwycięzcy wszystkich plebiscytów odbierają ten
+            sam mosiężny medal, a obok niego <strong>nagrodę pieniężną za
+            pierwsze miejsce</strong>; kolejne miejsca w każdym plebiscycie to
+            wyróżnienia, również pieniężne.
           </p>
         </div>
       </section>
@@ -982,9 +983,10 @@
         <h2><!--ikona:konstelacja--><svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="17" r="1.6"/><circle cx="11" cy="7" r="1.6"/><circle cx="19" cy="14" r="1.6"/><path d="M6.4 15.8 9.7 8.6M12.4 8.1l5.2 4.8"/></svg><!--/ikona--><span>Plebiscyty</span></h2>
         <div class="prose">
           <p>
-            Nagrodę Konstela przyznajemy w kilku plebiscytach, rozstrzyganych
-            na jednej gali. Każdy ma własny regulamin, własną pulę i własne
-            jury, a łączy je jedna zasada: <strong>oceniamy część ludzką</strong>.
+            Nagrodę Konstela przyznajemy w czterech plebiscytach,
+            rozstrzyganych na jednej gali. Każdy ma własny regulamin, własną
+            pulę nagród i własne jury, a łączy je jedna zasada:
+            <strong>oceniamy część ludzką</strong>.
           </p>
         </div>
         <div class="kafle">
@@ -997,6 +999,17 @@
               najlepszych trafia do bezpłatnej antologii.
             </p>
             <p><a href="/plebiscyt-rozmowy">Czytaj więcej</a></p>
+          </article>
+          <article>
+            <h3>Plebiscyt na film o sztucznej inteligencji</h3>
+            <p>
+              Film o sztucznej inteligencji, od 20 do 90 minut, stworzony od
+              zera na potrzeby plebiscytu. Zgłoszeniem jest odnośnik do filmu
+              na Twoim kanale. Tu nie ma zakazu użycia AI - jest obowiązek
+              deklaracji, co zrobiła. Pięć filmów finałowych dostaje minutową
+              emisję na gali.
+            </p>
+            <p><a href="/plebiscyt-filmu">Czytaj więcej</a></p>
           </article>
           <article>
             <h3>Plebiscyt na piosenkę o sztucznej inteligencji</h3>
@@ -1018,17 +1031,6 @@
             </p>
             <p><a href="/plebiscyt-plakatu">Czytaj więcej</a></p>
           </article>
-          <article>
-            <h3>Plebiscyt na film o sztucznej inteligencji</h3>
-            <p>
-              Film o sztucznej inteligencji, od 20 do 90 minut, stworzony od
-              zera na potrzeby plebiscytu. Zgłoszeniem jest odnośnik do filmu
-              na Twoim kanale. Tu nie ma zakazu użycia AI - jest obowiązek
-              deklaracji, co zrobiła. Pięć filmów finałowych dostaje minutową
-              emisję na gali.
-            </p>
-            <p><a href="/plebiscyt-filmu">Czytaj więcej</a></p>
-          </article>
         </div>
       </section>
 
@@ -1049,15 +1051,19 @@
           </div>
           <div>
             <dt>30 listopada 2027</dt>
-            <dd>Zamknięcie naboru w plebiscytach na plakat i na film<small>oba wcześniej niż nabór na rozmowę z AI: zwycięski plakat trafia na okładkę antologii, a filmy trzeba zdążyć obejrzeć</small></dd>
+            <dd>Zamknięcie naboru w plebiscytach na plakat i na film<small>oba wcześniej niż nabór na rozmowę z AI: zwycięski plakat trafia na okładkę antologii</small></dd>
           </div>
           <div>
             <dt>31 grudnia 2027</dt>
-            <dd>Zamknięcie naboru w plebiscycie na piosenkę<small>nagrania studyjne dziesiątki finalistów po rozstrzygnięciu</small></dd>
+            <dd>Zamknięcie naboru w plebiscycie na piosenkę<small>nagrania studyjne dziesiątki finalistów po rozstrzygnięciu plebiscytu</small></dd>
           </div>
           <div>
             <dt>15 stycznia 2028</dt>
-            <dd>Zamknięcie naboru w plebiscycie na rozmowę z AI<small>głosowanie publiczności otwiera się po zamrożeniu punktacji i trwa do gali</small></dd>
+            <dd>Zamknięcie naboru w plebiscycie na rozmowę z AI<small>od tego dnia zgłoszeń nie przyjmujemy; oceny z pierwszej rundy można jeszcze poprawiać przez 14 dni</small></dd>
+          </div>
+          <div>
+            <dt>Koniec stycznia 2028</dt>
+            <dd>Otwarcie głosowania publiczności we wszystkich czterech plebiscytach<small>trwa do gali; liczniki głosów są ukryte, a wynik ogłaszamy dopiero na sali</small></dd>
           </div>
           <div>
             <dt>Luty 2028</dt>
@@ -1129,6 +1135,23 @@
             </p>
           </article>
           <article>
+            <h3>Projektornia i archiwum filmów</h3>
+            <p>
+              Zgłoszone filmy rosną w <strong>Projektorni</strong> przez cały
+              nabór: tytuł, miniatura, opis, deklaracja użycia AI i odnośnik do
+              filmu na kanale autora. Kopii filmów nie trzymamy u siebie, więc
+              Projektornia jest katalogiem, a nie wideoteką. Po werdykcie
+              przechodzi do archiwum.
+            </p>
+            <p>
+              Na gali każdy z pięciu filmów finałowych dostaje
+              <strong>minutową emisję</strong>, z fragmentem wybranym przez
+              autora. <strong>Pełne pokazy</strong> organizujemy osobno od
+              gali, bo jeden wieczór nie zmieści czterech werdyktów i 90 minut
+              filmu.
+            </p>
+          </article>
+          <article>
             <h3>Słuchalnia i płyta z piosenkami</h3>
             <p>
               Zgłoszone piosenki pokazujemy na bieżąco w
@@ -1165,23 +1188,6 @@
               reprodukcji. Chcemy pokazać je jeszcze raz, po gali, na wystawie
               w galerii sztuki otwieranej wernisażem, i szukamy galerii, która
               ją przyjmie.
-            </p>
-          </article>
-          <article>
-            <h3>Projektornia i archiwum filmów</h3>
-            <p>
-              Zgłoszone filmy rosną w <strong>Projektorni</strong> przez cały
-              nabór: tytuł, miniatura, opis, deklaracja użycia AI i odnośnik do
-              filmu na kanale autora. Kopii filmów nie trzymamy u siebie, więc
-              Projektornia jest katalogiem, a nie wideoteką. Po werdykcie
-              przechodzi do archiwum.
-            </p>
-            <p>
-              Na gali każdy z pięciu filmów finałowych dostaje
-              <strong>minutową emisję</strong>, z fragmentem wybranym przez
-              autora. <strong>Pełne pokazy</strong> organizujemy osobno od
-              gali, bo jeden wieczór nie zmieści czterech werdyktów i 90 minut
-              filmu.
             </p>
           </article>
         </div>
@@ -1296,7 +1302,7 @@
           </p>
           <p>
             <strong>Laureaci wszystkich plebiscytów odbierają ten sam mosiężny
-            medalion</strong>, a finaliści tłoczone dyplomy. Laureatów trzech
+            medal</strong>, a finaliści tłoczone dyplomy. Laureatów trzech
             najwyżej ocenionych piosenek zapraszamy do wykonania ich na żywo, a
             hymn „Zapytaj inaczej"
             otwiera i zamyka wieczór. Oryginały dziesięciu finalistów plebiscytu
@@ -1383,18 +1389,18 @@
             </p>
           </article>
           <article>
-            <h3>Partner plebiscytu na piosenkę o sztucznej inteligencji</h3>
-            <p>
-              Nagrody dla wykonawców, profesjonalne nagranie dziesięciu
-              finalistów, hymn z teledyskiem, oprawa artystyczna gali.
-            </p>
-          </article>
-          <article>
             <h3>Partner plebiscytu na film o sztucznej inteligencji</h3>
             <p>
               Pula nagród dla trzech najwyżej ocenionych filmów, przygotowanie
               minutowych emisji na galę i pełne pokazy filmów finałowych poza
               galą. Filmów nie produkujemy - nagradzamy te, które powstały.
+            </p>
+          </article>
+          <article>
+            <h3>Partner plebiscytu na piosenkę o sztucznej inteligencji</h3>
+            <p>
+              Nagrody dla wykonawców, profesjonalne nagranie dziesięciu
+              finalistów, hymn z teledyskiem, oprawa artystyczna gali.
             </p>
           </article>
           <article>
@@ -1466,8 +1472,8 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=202610261430" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610261430" defer></script>
-    <script src="/assets/pasek.js?v=202610261430" defer></script>
+    <script src="/assets/stopka.js?v=202610270550" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610270550" defer></script>
+    <script src="/assets/pasek.js?v=202610270550" defer></script>
   </body>
 </html>

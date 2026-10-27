@@ -202,7 +202,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    b) nagroda publiczności;
 
-   c) **mosiężny medalion Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich dziesięciu finalistów;
+   c) **mosiężny medal Nagrody Konstela z pieczęcią, grawerowany, wręczany osobiście zwycięzcy** oraz tłoczone dyplomy dla wszystkich dziesięciu finalistów;
 
    d) wykorzystanie pracy zwycięskiej jako okładki antologii danej edycji.
 

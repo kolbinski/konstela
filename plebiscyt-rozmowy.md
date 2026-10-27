@@ -73,7 +73,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 **Nagroda główna i dziewięć wyróżnień.** Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć.
 
-Zwycięzca odbiera **mosiężny medalion Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy.
+Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy.
 
 **Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem Kapituły wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
@@ -111,7 +111,7 @@ Obok werdyktu Kapituły przyznawane są **dwie nagrody niezależne**, a wyniki w
 
 ## <!--ikona:iskra--><span>Gala i terminy</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureat odbiera medalion, dziesiątka finalistów dyplomy, a antologia ma tego wieczoru premierę - już ze zwycięskim plakatem na okładce.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureat odbiera medal, dziesiątka finalistów dyplomy, a antologia ma tego wieczoru premierę - już ze zwycięskim plakatem na okładce.
 
 Elementem wieczoru jest **dialog czytany**: finalista czyta ze sceny własne pytania, a odpowiedzi sztucznej inteligencji czyta aktor.
 

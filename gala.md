@@ -11,7 +11,7 @@ Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 - **Trzy najwyżej ocenione utwory plebiscytu wykonywane na żywo**, nie wszystkie zgłoszenia ([plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia), [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 5).
 - **Hymn „Zapytaj inaczej" w wykonaniu składu jury, dwa razy: na rozpoczęcie i na zakończenie.** Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
-- **Wręczenia:** nagroda główna oraz dziewięć wyróżnień; mosiężny medalion dla laureata, tłoczone dyplomy dla całej dziesiątki.
+- **Wręczenia:** nagroda główna oraz dziewięć wyróżnień; mosiężny medal dla laureata, tłoczone dyplomy dla całej dziesiątki.
 - **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu Kapituły.
 - **Nagroda publiczności w plebiscycie** dla wykonawcy oraz nagroda za najlepsze uzasadnienie wyboru.
 - **Wystąpienia sponsorów.** Uwaga Piotra, słuszna: fundator i partner wydawniczy będą musieli powiedzieć, po co to robią. Lepiej zaplanować im na to miejsce, niż pozwolić, by zajęli je sami.
@@ -69,7 +69,7 @@ Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzy
 - **Honorarium aktora** w dialodze czytanym.
 - **Prowadzenie gali.**
 - **Rejestracja wideo** i montaż zapisu.
-- **Statuetki, medalion, dyplomy.**
+- **Statuetki, medal, dyplomy.**
 - **Podróż i nocleg** laureatów i jurorów przyjeżdżających z innych miast. Przy nagrodzie ogólnopolskiej to nie jest pozycja marginalna.
 
 ## Decyzje otwarte
