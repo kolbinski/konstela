@@ -184,6 +184,7 @@ Napisz, jeśli:
 
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **rysujesz i masz pytanie** o zasady, terminy albo sposób zgłoszenia
-- **reprezentujesz uczelnię, galerię, sponsora albo redakcję** i chcesz porozmawiać o współpracy
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
+
+Jeśli reprezentujesz uczelnię, galerię, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.

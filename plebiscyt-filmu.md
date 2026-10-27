@@ -133,3 +133,5 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż pięć, mo�
 Pytania, wątpliwości, zgłoszenie zainteresowania naborem: **plebiscyt.filmu@konstela.org**.
 
 Jeśli prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury i widzisz tu coś dla swoich ludzi - też napisz.
+
+Jeśli reprezentujesz dystrybutora, sieć kin, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.

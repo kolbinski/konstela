@@ -180,6 +180,7 @@ Napisz, jeśli:
 
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adresy zapisane na tę listę trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem
 - **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia
-- **reprezentujesz wydawnictwo, sponsora albo redakcję** i chcesz porozmawiać o współpracy
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
+
+Jeśli reprezentujesz wydawnictwo, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
