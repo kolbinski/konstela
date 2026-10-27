@@ -135,7 +135,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 **Razem maksymalnie 100 punktów.**
 
-**Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą ocen, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
+**Czas trwania nie podlega ocenie:** film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą ocen, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
 
 Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta oceny](/dokument/regulamin-filmu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
