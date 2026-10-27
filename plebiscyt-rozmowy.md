@@ -146,7 +146,7 @@ Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń.
 
 ### Pierwszy raz z AI
 
-Rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć - i co z tego wyszło, gdy spróbowała zapytać.
+Odcinek podcastu z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Ważne są nie wrażenia, lecz to, co ta osoba naprawdę chciała wiedzieć - i co z tego wyszło, gdy spróbowała zapytać.
 
 ### NAIstolatek
 
