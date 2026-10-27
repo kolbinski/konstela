@@ -63,7 +63,7 @@
 
 1. Zgłoszenie składa się przez formularz na stronie Nagrody i obejmuje:
 
-   a) **odnośnik do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Odnośnik musi działać przez cały czas oceny; Organizator sprawdza go przy zgłoszeniu i informuje o problemie niezwłocznie;
+   a) **odnośnik do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. **Odnośnik musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas publiczny; Organizator sprawdza odnośnik przy zgłoszeniu i informuje o problemie niezwłocznie;
 
    a1) **odnośnik do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych - także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
 
@@ -301,9 +301,11 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    b) **między zamknięciem naboru a ogłoszeniem werdyktu** - zgłoszenie nie może być dalej oceniane i nie bierze udziału w dalszych etapach; nie rodzi to roszczeń wobec Organizatora;
 
-   c) **po ogłoszeniu werdyktu** - nie powoduje utraty nagrody ani zwrotu nagrody wypłaconej. Wpis w archiwum pozostaje bez działającego odnośnika, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
+   c) **między ogłoszeniem werdyktu a galą** - **nie powoduje utraty nagrody** ani zwrotu nagrody wypłaconej. Film przestaje natomiast brać udział w głosowaniu publiczności, które trwa do dnia gali, a Organizator oznacza wpis jako niedostępny;
 
-7a. **Usunięcie albo ukrycie zwiastuna** wywołuje te same skutki co usunięcie filmu, według dnia wskazanego w ust. 7, z dwoma wyjątkami: Organizator najpierw zawiadamia Uczestnika i wyznacza termin nie krótszy niż 14 dni na przywrócenie zwiastuna albo wskazanie innego, spełniającego wymogi z § 4 ust. 1 lit. a1, a po ogłoszeniu werdyktu usunięcie zwiastuna nie wywołuje żadnych skutków dla zgłoszenia.
+   d) **po gali** - nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w archiwum pozostaje bez działającego odnośnika, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
+
+7a. **Usunięcie albo ukrycie zwiastuna** wywołuje te same skutki co usunięcie filmu, według dnia wskazanego w ust. 7, z dwoma wyjątkami: Organizator najpierw zawiadamia Uczestnika i wyznacza termin nie krótszy niż 14 dni na przywrócenie zwiastuna albo wskazanie innego, spełniającego wymogi z § 4 ust. 1 lit. a1, a po gali usunięcie zwiastuna nie wywołuje żadnych skutków dla zgłoszenia.
 
 8. **Niedostępność niezawiniona przez Uczestnika.** Jeżeli film albo zwiastun przestaje być dostępny z przyczyn leżących po stronie serwisu - awarii, blokady, ograniczenia nałożonego przez dostawcę albo zgłoszenia naruszenia praw przez osobę trzecią - Organizator zawiadamia Uczestnika pocztą elektroniczną i wyznacza termin nie krótszy niż 14 dni na przywrócenie dostępności albo wskazanie odnośnika do tego samego filmu w innym serwisie. Zachowanie tego terminu oznacza, że zgłoszenie pozostaje w Plebiscycie bez utraty punktacji; ust. 7 nie stosuje się.
 
