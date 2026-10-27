@@ -60,13 +60,21 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok. Z
 
 ## <!--ikona:kryteria--><span>Cztery kryteria oceny</span>
 
-**I. Rozpiętość.** Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.
+### I. Rozpiętość
 
-**II. Drążenie.** Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją. Czy kolejne pytania wykorzystują to, co już ustalone.
+Jak nieoczywiste i jak uzasadnione jest połączenie mentalne w przestrzeni świata, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między dziedzinami: łuk poprowadzony wewnątrz jednej dziedziny liczy się tak samo, o ile jest uzasadniony i widać w nim Twój wkład.
 
-**III. Weryfikacja.** Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności.
+### II. Drążenie
 
-**IV. Plon.** Co z tego zostało: nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.
+Czy pytający dopytuje, kwestionuje, wraca do porzuconych wątków i nie zadowala się pierwszą wersją. Czy kolejne pytania wykorzystują to, co już ustalone.
+
+### III. Weryfikacja
+
+Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności.
+
+### IV. Plon
+
+Co z tego zostało: nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.
 
 **Każde kryterium ma 25 punktów, razem 100.** [Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każde pasmo punktowe w każdym kryterium.
 
