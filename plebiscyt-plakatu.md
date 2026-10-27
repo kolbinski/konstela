@@ -63,7 +63,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 - praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie
 - format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6
 - praca **nie była publikowana w wydawnictwie, wystawiana ani nagradzana w innym konkursie przed dniem zgłoszenia** - liczy się stan na ten dzień, a pokazanie pracy na własnym profilu niczego nie blokuje
-- zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków, **krótszy** bok nie mniejszy niż 2000 pikseli
+- zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków i bez widocznego rozmycia
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
