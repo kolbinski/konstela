@@ -86,15 +86,15 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    b) łączny czas liczony jest wyłącznie z fragmentów nagranych w czasie rzeczywistym. Nagranie przyspieszone jest dopuszczalnym dodatkiem, lecz nie wlicza się do wymaganych 5 minut;
 
-   c) fragmenty dokumentujące wykonywanie pracy pokazują w kadrze jednocześnie **pracę i rękę pracującego nad nią** wraz z narzędziem; wymóg ten nie dotyczy samego przejścia kadru określonego w lit. c1;
+   c) fragmenty dokumentujące wykonywanie pracy pokazują w kadrze jednocześnie **twarz Uczestnika, pracę oraz rękę pracującego nad nią** wraz z narzędziem. Twarz nie musi wypełniać kadru ani być widoczna w zbliżeniu; wystarczy, że pozwala rozpoznać, iż pracę wykonuje osoba zgłaszająca. Przy pracy wykonanej wspólnie wymóg ten odnosi się do każdego ze współautorów, którego praca jest nagrywana;
 
-   c1) **twarz Uczestnika jest w nagraniu widoczna**, a co najmniej jeden fragment zawiera **nieprzerwane przejście kadru od twarzy Uczestnika do pracy**, bez cięcia i bez przerwy w nagraniu, w sposób pozwalający stwierdzić, że osoba, której twarz widać, jest osobą pracującą nad plakatem. Przejście może prowadzić w obie strony i może zostać wykonane dowolnie: obrotem telefonu, odsunięciem kamery albo wejściem Uczestnika w kadr i pochyleniem się nad pracą;
+   c1) jeżeli ze względu na format pracy albo warunki nagrywania objęcie jednym kadrem twarzy, pracy i ręki nie jest możliwe, wymóg z lit. c spełnia również fragment zawierający **nieprzerwane przejście kadru od twarzy Uczestnika do pracy**, bez cięcia i bez przerwy w nagraniu. Przejście może prowadzić w obie strony i może zostać wykonane dowolnie: obrotem telefonu, odsunięciem kamery albo wejściem Uczestnika w kadr i pochyleniem się nad pracą;
 
    d) fragmenty pokazują pracę na **co najmniej dwóch różnych etapach**, w tym etap zaawansowany, na którym praca jest już rozpoznawalna jako ta sama, którą przedstawia reprodukcja z § 4 ust. 2 lit. a.
 
 4. **Czego nagranie nie musi zawierać.** Nie musi zawierać głosu Uczestnika, nie musi obejmować całego czasu powstawania pracy, nie musi być zmontowane, opatrzone dźwiękiem ani nagrane profesjonalnym sprzętem. Nie wymaga się profesjonalnego sprzętu; wystarczające jest każde nagranie spełniające warunki z ust. 3.
 
-4a. **Twarz w nagraniu a podpis zgłoszenia.** Wymóg z ust. 3 lit. c1 nie odbiera Uczestnikowi możliwości zgłoszenia pracy pod pseudonimem (§ 4 ust. 2 lit. c). Nagranie nie jest publikowane (ust. 6), więc twarz Uczestnika widzą wyłącznie Organizator, oceniający i jury; publicznie zgłoszenie podpisane jest tak, jak Uczestnik wskazał.
+4a. **Twarz w nagraniu a podpis zgłoszenia.** Wymóg z ust. 3 lit. c nie odbiera Uczestnikowi możliwości zgłoszenia pracy pod pseudonimem (§ 4 ust. 2 lit. c). Nagranie nie jest publikowane (ust. 6), więc twarz Uczestnika widzą wyłącznie Organizator, oceniający i jury; publicznie zgłoszenie podpisane jest tak, jak Uczestnik wskazał.
 
 5. **Nagranie nie podlega ocenie w żadnym kryterium z § 7.** Jury ocenia plakat, nie film z jego powstawania; jakość nagrania, jego długość ponad wymagane minimum i sposób zmontowania nie mają na ocenę żadnego wpływu.
 
@@ -102,7 +102,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 7. Jeżeli w nagraniu widoczne są osoby trzecie, Uczestnik odpowiada za ich zgodę na utrwalenie wizerunku w zakresie z ust. 6. Nagranie, na którym widoczne są dane osobowe osób trzecich albo wnętrze niebędące miejscem pracy Uczestnika, nie jest z tego powodu wadliwe; Uczestnik może je przed przesłaniem przyciąć albo zasłonić te fragmenty, o ile nie narusza to ust. 3. Zasłonięcie albo wycięcie własnej twarzy narusza ust. 3 lit. c1 i czyni nagranie niespełniającym wymogu.
 
-8. Przy pracy wykonanej wspólnie nagranie obejmuje pracę współautorów w zakresie pozwalającym stwierdzić, że pracę wykonał zgłoszony skład, a przejście z ust. 3 lit. c1 wykonuje się dla każdego ze współautorów, którego praca jest w nagraniu widoczna.
+8. Przy pracy wykonanej wspólnie nagranie obejmuje pracę współautorów w zakresie pozwalającym stwierdzić, że pracę wykonał zgłoszony skład, a wymóg z ust. 3 lit. c albo c1 spełnia się dla każdego ze współautorów, którego praca jest nagrywana.
 
 9. Nagranie przechowywane jest **do upływu 30 dni od dnia gali**, a następnie usuwane. Jeżeli przed upływem tego terminu wszczęto postępowanie z § 15, nagranie zgłoszenia, którego postępowanie dotyczy, przechowywane jest do jego zakończenia i usuwane w terminie 30 dni od tej chwili. Po upływie terminu Organizator usuwa posiadane kopie oraz link, a oceniający usuwają kopie robocze zgodnie z zawartymi z nimi umowami; nagranie pozostające na koncie Uczestnika w serwisie wideo pozostaje pod jego kontrolą. Zasady przetwarzania nagrania opisuje polityka prywatności.
 
