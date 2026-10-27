@@ -127,7 +127,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Werdykt jury. Nagroda pieniężna i <strong>medal Nagrody Konstela</strong> - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów.</p>
+<p>Nagroda pieniężna, medal i dyplom.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>

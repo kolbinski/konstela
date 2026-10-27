@@ -139,7 +139,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Nagroda pieniężna, <strong>medal Nagrody Konstela</strong> z pieczęcią, grawerowany, wręczany osobiście - ten sam, który dostają zwycięzcy pozostałych plebiscytów - dyplom i kwalifikacja do dystrybucji kinowej.</p>
+<p>Nagroda pieniężna, medal, dyplom i kwalifikacja do dystrybucji kinowej.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
