@@ -341,6 +341,8 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 
    a) grupę zgłasza szkoła, a opiekę nad nią sprawuje wskazany przez nią nauczyciel koordynujący; udział jest bezpłatny i dobrowolny;
 
+   a0) **zgłaszając grupę, szkoła przyjmuje do wiadomości i akceptuje, że przedstawione jej grupom zgłoszenia pochodzą z czytelni zgłoszeń** (§ 11 ust. 10a) i będą czytane oraz oceniane przez osoby niepełnoletnie, za co szkoła odpowiada wobec uczniów i ich opiekunów. Odrębna zgoda Uczestnika nie jest wymagana, ponieważ obecność zgłoszenia w czytelni jest warunkiem udziału w konkursie (§ 11 ust. 10a lit. a), a czytelnia jest dostępna publicznie. Szkoła nie wskazuje, które zgłoszenia są przedstawiane jej grupom;
+
    a1) **szkołę wskazuje się numerem w Rejestrze Szkół i Placówek Oświatowych**, a jednorazowy kod potwierdzający Organizator wysyła **na adres poczty elektronicznej tej szkoły wskazany w rejestrze**, a nie na adres wpisany w formularzu. Nauczyciel koordynujący przepisuje kod w formularzu. Jeżeli rejestr nie zawiera adresu szkoły albo adres okaże się nieaktualny, Organizator potwierdza zgłoszenie telefonicznie, pod numerem szkoły wskazanym w rejestrze;
 
    a2) **Organizator nie zbiera danych uczniów**: ani imion, ani adresów, ani numerów telefonu. Do Organizatora trafia werdykt grupy wraz z uzasadnieniem, a dane osób czytających pozostają w szkole;
@@ -544,9 +546,7 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 
    e) przysługują mu prawa do materiałów, które wgrał do rozmowy, albo dysponuje zgodą na ich wykorzystanie, a materiały te nie zawierają danych osobowych osób trzecich ani informacji objętych tajemnicą, do których ujawnienia Uczestnik nie jest uprawniony.
 
-   f) ukończył 18 lat;
-
-   g) **przyjmuje do wiadomości, że jego zgłoszenie może zostać skierowane do czytania przez grupy uczniowskie** (§ 8 ust. 2a), w tym przez osoby niepełnoletnie, i zgadza się na to. Zgoda ta jest **warunkiem udziału** i nie jest przedmiotem odrębnego oświadczenia; Uczestnik nie wskazuje, komu jego rozmowa ma być przedstawiona do oceny.
+   f) ukończył 18 lat.
 
 2. Uczestnik zachowuje autorskie prawa osobiste i majątkowe do swoich wypowiedzi. Nagroda nie nabywa ich ani w całości, ani w części.
 3. **Publikacja jest warunkiem udziału, a nie przedmiotem odrębnej zgody.** Zgłaszając rozmowę, Uczestnik udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** od dnia ogłoszenia wyników, obejmującej publikację rozmowy w antologii i w archiwum rozmów, jej udostępnianie w internecie, wydanie w postaci elektronicznej i drukowanej, w tym płatnej, oraz cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, a także udzielenie dalszej licencji wydawcy w tym zakresie. Licencja na czas oznaczony nie podlega wypowiedzeniu. Po upływie tego okresu przekształca się w licencję na czas nieoznaczony w tym samym zakresie.
