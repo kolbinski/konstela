@@ -96,7 +96,7 @@ Tekst ma najwyższą wagę, bo to konkurs, w którym oceniamy również pisanie.
 
 **Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo z listy przygotowanej przez Akademię, zależnie od trybu ogłoszonego przed naborem - a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
 
-W jury zasiądzie **Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent, półfinalista The Voice of Poland - który ten plebiscyt zaproponował. Pozostały skład kompletujemy i ogłosimy go wraz z sylwetkami przed otwarciem naboru.
+**Skład jury kompletujemy** i ogłosimy go wraz z sylwetkami przed otwarciem naboru, a nie po rozstrzygnięciu.
 
 **Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Gdyby jednak zgłoszeń było tyle, że nie da się tego zrobić rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury. Czy Akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy przed otwarciem naboru**, nie po nim.
 
