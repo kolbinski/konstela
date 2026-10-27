@@ -69,7 +69,7 @@ Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być ostrz
 
 ### Co możesz zgłosić
 
-Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą, czy ostrzeżeniem.
+Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą AI, czy zagrożeniem.
 
 ### Wymogi formalne
 
