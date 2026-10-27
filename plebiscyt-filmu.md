@@ -6,21 +6,29 @@
 
 Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą, czy ostrzeżeniem - to, co w nim powiesz, jest częścią tego, co oceniamy.
 
-Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
-
 **W skrócie:**
 
 - film musi trwać **od 20 do 90 minut**
+- zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
 - zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **odnośnik do zwiastuna** tego filmu, od 60 do 120 sekund
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
+- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym archiwum**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** - tych samych, które zgłosiłeś
 - nabór zamykamy **30 listopada 2027**
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
-Plebiscyt na film jest jednym z czterech plebiscytów Nagrody Konstela, rozstrzyganych na tej samej gali. Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
+**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali: na [rozmowę](/plebiscyt-rozmowy), [film](/plebiscyt-filmu), [piosenkę](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu).
+
+Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
+
+A to on decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy zestawił ze sobą wątki, które z pozoru do siebie nie pasują. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
+
+Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
+
+Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
@@ -48,15 +56,23 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
-**Zgłaszasz odnośnik do publicznie dostępnego filmu na YouTube.** Film musi być dostępny bez opłaty i bez zakładania konta, a odnośnik ma działać do końca oceny. Kopii filmu u siebie nie przechowujemy: w katalogu stoi tytuł, miniatura, zwiastun, opis, deklaracja i odnośnik.
+### Dwa linki: film i zwiastun
 
-**Drugim odnośnikiem jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun pracuje w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun. Prosimy o niego dlatego, że katalog kilkuset tytułów bez ruchomego obrazu nikogo nie zatrzymuje, a Ty wiesz lepiej od nas, co z Twojego filmu pokazać.
+**Zgłaszasz linki do publicznie dostępnego filmu i jego zwiastuna na YouTube.** Film musi być dostępny bez opłaty i bez zakładania konta, a link ma działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
+
+**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun pracuje w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun. Prosimy o niego dlatego, że katalog kilkuset tytułów bez ruchomego obrazu nikogo nie zatrzymuje, a Ty wiesz lepiej od nas, co z Twojego filmu pokazać.
+
+### Wersja plebiscytowa
 
 **Ocenie podlega wersja filmu dostępna pod odnośnikiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; po werdykcie nie odbiera nagrody. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego odnośnika.
 
+### Pozostałe pola zgłoszenia
+
 Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie są punktowane.
 
-**Dlaczego warte nagrody głównej.** Do 700 znaków o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
+### Dlaczego warte nagrody głównej
+
+Do 700 znaków o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
 
 Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
@@ -131,9 +147,11 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 **Pełne pokazy filmów finałowych - jeżeli znajdziemy salę.** Chcemy pokazać finałową piątkę w całości, osobno od gali, ale nie obiecujemy tego w regulaminie, bo zależy to od pozyskania partnera z salą projekcyjną. Jeżeli się uda, pytamy autorów o zgodę; odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
-## <!--ikona:projektornia--><span>Projektornia i archiwum</span>
+<h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i archiwum</span></h2>
 
 Przez cały nabór prowadzimy **Projektornię** - publiczną listę zgłoszeń przyjętych do plebiscytu. Wpis pojawia się po przejściu oceny formalnej, a kolejność wyznacza wyłącznie data zgłoszenia: nie ma rankingu, liczników odsłon ani popularności.
+
+**Projektornia jest katalogiem, nie repozytorium.** Kopii filmów u siebie nie przechowujemy: we wpisie stoi tytuł, podpis, miniatura, zwiastun, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi i link do filmu. Film i zwiastun odtwarzają się z Twojego kanału, więc usunięcie ich stamtąd jest skuteczne natychmiast i nie wymaga niczyjej zgody.
 
 Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępnego bezpłatnie i bez ograniczeń. Punktacja w archiwum jest jawna dla wszystkich zgłoszeń.
 

@@ -20,11 +20,15 @@ Otwarty plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, 
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
-Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła.
+**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali: na [rozmowę](/plebiscyt-rozmowy), [film](/plebiscyt-filmu), [piosenkę](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu).
 
-Rozmowa jest pierwszym miejscem, w którym to widać. Muzyka drugim - stąd [plebiscyt na piosenkę](/plebiscyt-piosenki). Plakat trzecim, i akurat w nim spór o sztuczną inteligencję toczy się najgłośniej.
+Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
 
-Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej: [konstela.org](/).
+A to on decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy zestawił ze sobą wątki, które z pozoru do siebie nie pasują. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
+
+Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
+
+Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
