@@ -10,11 +10,11 @@ Otwarty plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, 
 
 **W skrócie:**
 
+- **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione prace, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, z widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
-- **trzy najwyżej ocenione prace** dostają nagrody pieniężne
 - zwycięska praca, za zgodą autora, idzie na okładkę antologii
 - nabór planujemy na 2027 rok, po zabezpieczeniu finansowania
 
@@ -126,7 +126,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
 
-## <!--ikona:puchar--><span>Nagrody</span>
+<h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
 **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 
@@ -204,6 +204,7 @@ Napisz, jeśli:
 
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **rysujesz i masz pytanie** o zasady, terminy albo sposób zgłoszenia
+- **chcesz oglądać zgłoszenia w akademii plakatu** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

@@ -12,10 +12,11 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 
 **Jak to przebiega, w skrócie:**
 
+- **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione utwory, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
 - zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą
 - jury wybiera **dziesięciu finalistów** - spośród wszystkich zgłoszeń albo z listy przygotowanej przez akademię, zależnie od trybu ogłoszonego przed naborem
 - każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim
-- **trzy najwyżej ocenione utwory** dostają nagrody pieniężne, a ich autorzy są zapraszani do wykonania ich na żywo na gali
+- autorzy **trzech najwyżej ocenionych utworów** są zapraszani do wykonania ich na żywo na gali
 - nabór planujemy na początek 2027 roku, po zabezpieczeniu finansowania
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
@@ -123,7 +124,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 
 **Gdy zgłoszeń będzie bardzo dużo.** Zaczynamy od tego, że wszystkie utwory przesłuchuje samo jury. Gdyby jednak zgłoszeń było tyle, że nie da się tego zrobić rzetelnie, pierwsze przejście weźmie na siebie **Akademia plebiscytu** - grono kilkunastu muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie utwory i wybiera z nich węższą listę dla jury. Akademia oceniałaby **według tej samej jawnej karty oceny** co jury. Czy akademia zostanie powołana i od jakiego progu, ile osób ocenia jeden utwór i jak powstaje krótsza lista - **ogłosimy przed otwarciem naboru**, nie po nim.
 
-## <!--ikona:puchar--><span>Nagrody</span>
+<h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
 **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 
@@ -203,6 +204,7 @@ Napisz, jeśli:
 
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adresy zapisane na tę listę trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem
 - **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia
+- **chcesz słuchać zgłoszeń w akademii** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

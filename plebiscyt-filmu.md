@@ -8,6 +8,8 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 
 **W skrócie:**
 
+- **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury; cała dziesiątka finalistów dostaje **kwalifikację do dystrybucji kinowej**
+- obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
@@ -40,6 +42,22 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
 
+## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
+
+Nabór planujemy otworzyć **1 stycznia 2027 roku**, po zabezpieczeniu finansowania. Wysokość nagród zależy od pozyskanych sponsorów i podamy ją w dniu ogłoszenia naboru; od tej chwili pula może już tylko rosnąć. Skład jury i akademii filmu ogłaszamy przed naborem.
+
+Mówimy o tym z takim wyprzedzeniem dlatego, że film trwający od 20 do 90 minut planuje się z rokiem zapasu - a zgłoszony film ma powstać na potrzeby tego plebiscytu.
+
+Jeżeli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
+
+## <!--ikona:konstelacja--><span>Dlaczego w ogóle kręcić o AI</span>
+
+Sztuczna inteligencja weszła w ciągu kilku lat w pracę, w szkołę, w rozmowy prowadzone nocą przed ekranem - a w polskim kinie prawie jej nie widać. Jest za to w zagranicznej fantastyce, od dziesięcioleci, w jednej z dwóch ról: zagłady albo wybawienia. Obie są wygodne, bo obie zwalniają z patrzenia na to, co dzieje się teraz i obok.
+
+**Interesuje nas to, czego w tych dwóch rolach nie ma.** Człowiek, który zaczyna myśleć cudzym narzędziem. Praca, która przestała być potrzebna w pół roku. Rozmowa z maszyną, po której coś w kimś zostało. Nauczyciel, lekarz, tłumacz, rodzic - ktoś, kto musi dziś zdecydować, ile z siebie oddać. To są tematy filmowe, a nie publicystyczne, i nikt ich za nas nie opowie.
+
+Dlatego nie zawężamy tematu i nie mówimy, czy film ma być ostrzeżeniem, czy pochwałą. **Nie finansujemy też produkcji i nie oceniamy budżetu** - oceniamy film, nie sprzęt, którym go zrobiono. Telefon, jedna lokacja i dwie osoby na planie wystarczą, jeżeli masz co powiedzieć.
+
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
 ### Kto może zgłosić
@@ -64,6 +82,8 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 **Język.** Dialogi i narracja po polsku albo z polskimi napisami. Film bez warstwy słownej jest jak najbardziej dopuszczalny.
 
+**Czego nie oceniamy: Twojego dorobku, wykształcenia, budżetu produkcji, zasięgów ani tego, czy ktoś Cię już gdzieś pokazywał.**
+
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
 ### Dwa linki: film i zwiastun
@@ -82,9 +102,7 @@ Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opi
 
 **Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w Projektorni i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
-**Publicznie, przy Twoim zgłoszeniu, pokazujemy:** tytuł, Twój podpis, miniaturę, link do zwiastuna, link do filmu, czas trwania, opis, pole „dlaczego warte nagrody głównej", deklarację użycia narzędzi sztucznej inteligencji oraz link do Twojej strony, jeżeli go podasz - w Projektorni w czasie naboru i w archiwum po werdykcie, gdzie dochodzą jeszcze rok edycji i punktacja.
-
-**Nie pokazujemy** daty ukończenia filmu, Twojego adresu e-mail ani numeru telefonu. Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
+**Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i archiwum](#projektornia). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -121,7 +139,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta oceny](/dokument/regulamin-filmu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
-## <!--ikona:uczestnik--><span>Kto ocenia</span>
+## <!--ikona:jury--><span>Kto ocenia</span>
 
 <div class="kafle jedna-kolumna">
 <article>
@@ -134,7 +152,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 </div>
 
-## <!--ikona:moneta--><span>Nagrody</span>
+<h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
 **Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy plebiscytu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
 
@@ -215,14 +233,13 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, raz
 
 Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
 
-Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
-
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 
 <dl class="harmonogram">
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu</small></dd></div>
+<div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, liczniki są ukryte</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca z werdyktu jury</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
@@ -236,6 +253,7 @@ Napisz, jeśli:
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **jesteś twórcą filmowym i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
+- **chcesz oglądać zgłoszenia w akademii filmu** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
