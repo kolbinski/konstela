@@ -137,7 +137,27 @@
 
 ---
 
-## Lista decyzji do podjęcia przed notariuszem
+## Pytania do kancelarii
+
+Pytania wynikają wprost ze znaczników w tekście powyżej i są ułożone w kolejności paragrafów. Każde dotyczy brzmienia zapisu, a nie wyboru biznesowego - wybory biznesowe są w następnej sekcji.
+
+1. **§ 4 ust. 2 - działalność poza granicami kraju.** Czy brzmienie „może prowadzić działalność poza granicami kraju, zgodnie z prawem miejscowym" wystarczy pod planowaną międzynarodową odsłonę Nagrody, czy potrzebny jest zapis szerszy albo wskazanie formy (oddział, przedstawicielstwo)?
+2. **§ 5 - minister nadzoru.** Czy przy celach z § 8 właściwy jest minister do spraw informatyzacji, czy raczej minister do spraw oświaty i wychowania albo kultury? Czy przy celach mieszanych można wskazać jednego ministra bez ryzyka sporu kompetencyjnego przy rejestracji?
+3. **§ 12 - fundusz założycielski.** Czy wyodrębnienie części funduszu na działalność gospodarczą musi znaleźć się w samym statucie, czy wystarczy w oświadczeniu woli fundatora? Czy kwota poniżej 1000 zł na działalność gospodarczą jest podstawą odmowy wpisu do rejestru przedsiębiorców?
+4. **§ 14 ust. 2 - zabezpieczenie puli nagród.** Czy zapis „środki przekazane na pulę nagród konkretnej edycji przeznaczane są wyłącznie na ten cel" wystarczy, aby pula była chroniona przed wierzycielami Fundacji i przed przeznaczeniem jej na bieżącą działalność, czy potrzebny jest rachunek powierniczy albo odrębny rachunek z zastrzeżeniem celu?
+5. **§ 17 ust. 2 - następstwo uprawnień Fundatora.** Czy przejście uprawnień Fundatora na Radę Fundacji po jego śmierci jest skuteczne na podstawie samego statutu? Czy uprawnienia fundatora podlegają dziedziczeniu, jeżeli statut milczy, i czy trzeba to wyłączyć wprost?
+6. **§ 19 - reprezentacja.** Czy przy zarządzie wieloosobowym bezpieczniejsza jest reprezentacja łączna dwóch członków albo członka z prokurentem? Jakie są skutki samodzielnej reprezentacji przy umowach z partnerami finansującymi pulę nagród?
+7. **§ 20 ust. 2 - powoływanie Rady przez Fundatora.** Czy Fundator będący jednocześnie członkiem Zarządu może powoływać i odwoływać organ, który ma Zarząd kontrolować? Czy taka konstrukcja nie podważa nadzoru wewnętrznego w oczach sądu rejestrowego albo grantodawcy?
+8. **§ 23 ust. 3 - kody PKD.** Czy proponowany zakres (działalność wydawnicza, edukacyjna, reklama) wymaga doprecyzowania w statucie co do klas, czy wystarczy wskazanie przedmiotu działalności słowami?
+9. **§ 25 - zmiana Statutu i celów.** Czy zmiana celów Fundacji przez Fundatora jednoosobowo jest dopuszczalna, a jeżeli tak, czy wymaga zastrzeżenia w akcie fundacyjnym? Czy po śmierci Fundatora konstrukcja „Zarząd za zgodą Rady" jest wystarczająca?
+10. **§ 27 ust. 3 - przeznaczenie majątku po likwidacji.** Czy można wskazać cel ogólny („cele zbieżne z celami Fundacji"), czy sąd oczekuje wskazania konkretnego podmiotu albo sposobu jego wyboru?
+11. **Przyrzeczenie publiczne a fundacja.** Czy regulaminy plebiscytów, konstruowane jako przyrzeczenie publiczne (art. 919 k.c.), wymagają podstawy w statucie, czy wystarczy, że mieszczą się w celach statutowych?
+12. **Nagrody dla osób niepełnoletnich.** Czy wypłata nagrody pieniężnej osobie od 16. roku życia wymaga czegoś więcej niż zgody przedstawiciela ustawowego, i czy statut powinien to przewidywać?
+
+## Decyzje dla notariusza i księgowego
+
+To nie są pytania prawne, tylko wybory, które trzeba podjąć przed aktem notarialnym.
+
 
 1. Nazwa Fundacji - **rozstrzygnięte 22.10.2026: Fundacja Konstela.** Pozostaje do sprawdzenia dostępność w KRS i kolizja ze znakami towarowymi.
 2. Siedziba - **rozstrzygnięte 22.10.2026: Sieradz.**

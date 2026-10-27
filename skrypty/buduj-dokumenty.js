@@ -110,6 +110,7 @@ const DEDYKOWANE = {
   'plebiscyt-filmu': 'plebiscyt-filmu',
   hymn: 'hymn',
   fundacja: 'fundacja',
+  statut: 'statut',
 };
 
 /* Opisy stron publicznych pisane ręcznie. Dokumenty prawne zaczynają się od
