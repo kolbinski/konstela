@@ -50,7 +50,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli [nap
 
 Sztuczna inteligencja weszła w życie milionów ludzi - w pracę, w naukę, w rozmowy prowadzone nocą przed ekranem - a w muzyce popularnej prawie jej nie słychać. To, co jest, rozkłada się zwykle na dwa bieguny: strach przed maszyną albo zachwyt nad nią. Między nimi jest cała reszta: utracona robota, pierwszy raz, kiedy narzędzie okazało się mądrzejsze, spór o to, kto jest autorem, zazdrość, ulga, żart. Strach i zachwyt też są na miejscu - oceniamy to, jak temat został opracowany, a nie to, w którą stronę idą emocje.
 
-Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych słów. Interesuje nas, co o tym macie do powiedzenia, a nie dwadzieścia wersji jednego zdania.
+Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów piosenek. Interesuje nas, co o tym macie do powiedzenia, a nie dwadzieścia wersji jednej piosenki.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
