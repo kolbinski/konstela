@@ -29,7 +29,7 @@ Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym 
   </tr>
 </table>
 
-Dojdzie do nich **trzecia wersja: te same słowa z nową muzyką**, skomponowaną i nagraną przez jurorów plebiscytu. Melodia powstaje od zera, a nie z przejęcia tej z generatora - czyli dokładnie tak, jak wymagamy od zgłaszających. Termin nagrania zależy od zabezpieczenia środków na produkcję; gdy wersja powstanie, wszystkie trzy staną obok siebie na tej stronie.
+Dojdzie do nich **trzecia wersja: te same słowa z nową muzyką**, skomponowaną i nagraną przez jurorów plebiscytu. Melodia powstaje od zera, a nie z przejęcia tej z generatora - czyli dokładnie tak, jak wymagamy od zgłaszających. Termin nagrania zależy od pozyskania wykonawców; gdy wersja powstanie, wszystkie trzy staną obok siebie na tej stronie.
 
 I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rzeczach już nie jest. O to, żeby postawić obok siebie trzy opracowania tych samych słów i posłuchać, czym się różnią - bo różnić się będą nie tylko autorstwem melodii, ale też aranżacją, wykonaniem i nakładem pracy. Każdy oceni sam, co z tego wynika.
 
