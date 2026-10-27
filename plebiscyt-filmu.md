@@ -147,17 +147,19 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 <article>
 <h3>Siedem wyróżnień</h3>
-<p>Dla pozostałych finalistów: dyplom i kwalifikacja do dystrybucji kinowej. Z wyróżnieniem nie wiąże się nagroda pieniężna.</p>
-</article>
-<article>
-<h3>Nagroda Publiczności</h3>
-<p>Otwarte głosowanie, niezależne od werdyktu jury: jeden głos na numer telefonu, liczniki ukryte do gali.</p>
+<p>Dla pozostałych finalistów: dyplom i kwalifikacja do dystrybucji kinowej.</p>
 </article>
 <article>
 <h3>Zwiastun na gali</h3>
-<p>Dla pięciu najwyżej ocenionych filmów. Pokazujemy zwiastun, który zgłosiłeś, bez ingerencji w treść - my dokładamy tylko jakość emisyjną i planszę z tytułem. Dyplomy odbiera cała dziesiątka finalistów.</p>
+<p>Dla pięciu filmów najwyżej ocenionych przez jury. Pokazujemy zwiastun, który zgłosiłeś, bez ingerencji w treść.</p>
+</article>
+<article>
+<h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
+<p>Otwarte głosowanie dla wszystkich, jeden głos na numer telefonu. Głosowanie rozpoczyna się po pierwszym przejściu oceny (styczeń 2028), a jego wyniki są niewidoczne do gali plebiscytu.</p>
 </article>
 </div>
+
+**Cała dziesiątka finalistów odbiera dyplomy.**
 
 **Kwalifikacja do dystrybucji kinowej znaczy tyle: wchodzisz do zestawu, który kierujemy do pokazów.** Dziesiątka finalistów składa się na zestaw filmów, z którym idziemy do partnerów dysponujących salami projekcyjnymi. Chcemy pokazać te filmy w całości, osobno od gali, ale **nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania takiego partnera. Jeżeli się uda, pytamy autorów o zgodę; odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
