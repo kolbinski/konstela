@@ -28,21 +28,21 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
-**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru.
+Plebiscyt i zgłoszenia planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokość nagród zależy od pozyskanych sponsorów i podamy ją przy ogłoszeniu naboru.
 
-Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokość nagród zależy od pozyskanych sponsorów i podamy ją przy ogłoszeniu naboru.
+**Pełne zasady są w regulaminie:** [regulamin plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy), wraz z kartą oceny. Publikujemy go przed ogłoszeniem naboru.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
-**Kto.** Osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy - wpisujesz go tylko w metryczce rozmowy. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
+Osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy - tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
 
-**Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną:**
+**Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 
-- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy, bo tekst wklejony można wcześniej zredagować. Link pokazuje wersję, którą udostępniłeś; nie potwierdza pełnej historii powstawania rozmowy. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas oceny. Wyklucza to narzędzia bez funkcji udostępniania
-- **co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości. Liczenie jest po naszej stronie
+- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy (share link). Link pokazuje wersję, którą udostępniłeś; nie zawiera edytowanych poleceń ani dopisanego dialogu z AI. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas trwania edycji plebiscytu. Wyklucza to narzędzia bez funkcji udostępniania
+- **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości
 - **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne
-- **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji piszesz swobodnie
-- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien. Jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu.
+- **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji możesz pisać swobodnie
+- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien. W danej edycji możesz zrobić tylko jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
@@ -64,11 +64,15 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 **Każde kryterium ma 25 punktów, razem 100.** [Karta oceny](/dokument/regulamin-rozmowy#karta-oceny) pokazuje, co znaczy każde pasmo punktowe w każdym kryterium.
 
-## <!--ikona:jury--><span>Kto ocenia</span>
+<h2 id="kto-ocenia"><!--ikona:jury--><span>Kto ocenia</span></h2>
+
+### Akademia
 
 **Pierwszą rundę prowadzi Akademia** - grono czytelników powoływanych na jedną edycję, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury. Liczba czytelników zależy od liczby zgłoszeń; przy większym naborze regulamin przewiduje przesiew jednoosobowy, obowiązkowe drugie odczyty i losowy audyt.
 
-**Werdykt należy do jury**, która ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureacie. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
+### Jury
+
+**Werdykt należy do jury**, które ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureacie. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
 
 Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją archiwum.
 
