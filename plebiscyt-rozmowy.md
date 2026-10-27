@@ -172,7 +172,7 @@ Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną
 
 <h2 id="podcast"><!--ikona:fala--><span>Podcast</span></h2>
 
-**Nagrodzie towarzyszy podcast**, w którym przedmiotem odcinka nie są odpowiedzi AI, tylko to, co człowiek napisze w kolejnym pytaniu. Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne - czy na pewno chcesz zapytać o to, czy raczej poszukać połączenia z czymś, co pozornie do tematu nie należy. To jest na żywo to samo, co ocenia karta oceny wyżej: rozpiętość, drążenie, weryfikacja.
+**Nagrodzie towarzyszy podcast**, w którym przedmiotem odcinków nie są odpowiedzi AI, tylko to, co człowiek napisze w kolejnym pytaniu. Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne - czy na pewno chcesz zapytać o to, czy raczej poszukać połączenia z czymś, co pozornie do tematu nie należy. To jest na żywo to samo, co ocenia karta oceny wyżej: rozpiętość, drążenie, weryfikacja i plon.
 
 Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń.
 
