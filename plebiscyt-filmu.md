@@ -80,7 +80,7 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, pole tekstowe **„dlaczego warte nagrody głównej" do 700 znaków** oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis, pole „dlaczego warte nagrody głównej" i miniatura nie podlegają ocenie przez akademię i jury.
 
-**Publicznie, przy Twoim zgłoszeniu, pokazujemy:** tytuł, Twój podpis, miniaturę, zwiastun, link do filmu, czas trwania, opis, pole „dlaczego warte nagrody głównej" oraz deklarację użycia narzędzi sztucznej inteligencji - w Projektorni w czasie naboru i w archiwum po werdykcie, gdzie dochodzą jeszcze rok edycji i punktacja.
+**Publicznie, przy Twoim zgłoszeniu, pokazujemy:** tytuł, Twój podpis, miniaturę, link do zwiastuna, link do filmu, czas trwania, opis, pole „dlaczego warte nagrody głównej" oraz deklarację użycia narzędzi sztucznej inteligencji - w Projektorni w czasie naboru i w archiwum po werdykcie, gdzie dochodzą jeszcze rok edycji i punktacja.
 
 **Nie pokazujemy** daty ukończenia filmu, Twojego adresu e-mail ani numeru telefonu. Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
 
