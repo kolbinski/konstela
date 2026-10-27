@@ -15,7 +15,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
-- zwycięska praca trafia na okładkę **[antologii](/#antologia)**
+- zwycięska praca trafia na okładkę **[antologii](/#antologia)** - zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#galeria)**
 - po ocenach możesz - ale nie musisz - wystawić oryginał na **[licytację](#licytacja)**; połowa ceny trafia do Ciebie, połowa do puli nagród kolejnej edycji
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż w pozostałych plebiscytach, bo antologia musi zdążyć do druku
@@ -186,11 +186,13 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 </article>
 <article>
 <h3>Okładka antologii</h3>
-<p>Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej.</p>
+<p>Zwycięska praca ukazuje się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. <strong>Zgoda na to jest warunkiem udziału</strong> - formę okładki uzgadniamy z Tobą.</p>
 </article>
 </div>
 
-**O okładkę pytamy Cię zaraz po werdykcie, czyli przed galą**, i masz na odpowiedź 7 dni - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
+**Okładka jest zapowiedzianą częścią tego plebiscytu, więc zgoda na nią jest warunkiem udziału** - nie pytamy o nią osobno po werdykcie. Zgłaszając pracę, wiesz, że jeśli wygrasz, znajdzie się ona na okładce antologii, z Twoim nazwiskiem albo pseudonimem na stronie redakcyjnej. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
+
+**Formę okładki uzgadniamy z Tobą.** Zaraz po werdykcie, czyli przed galą, dostajesz propozycję kadru i typografii, a na uwagi masz 7 dni. Praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki, więc nie oczekujemy od Ciebie poprawek. **Jeżeli nie dojdziemy do porozumienia co do formy, okładką zostaje reprodukcja całej pracy bez kadrowania**, a typografia idzie poza pole obrazu - żeby żadna ze stron nie była zakładnikiem drugiej. Twoje autorskie prawa osobiste, w tym prawo do nienaruszalności formy, zostają przy Tobie.
 
 **Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a oryginałem dysponujemy nie dłużej niż 150 dni od jego odebrania.
 
