@@ -4,18 +4,18 @@
 
 ## <!--ikona:plakat--><span>Co to za plebiscyt</span>
 
-Otwarty plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek odróżnia go od wszystkiego, co dziś można wygenerować w pół minuty - obraz ma powstać pod ludzką ręką.
+Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek odróżnia go od wszystkiego, co dziś można wygenerować w pół minuty - obraz ma powstać pod ludzką ręką.
 
-**Zwycięski plakat zostaje twarzą edycji.** Za zgodą autora trafia na stronę, na zaproszenia, na galę, do mediów i **na okładkę antologii** - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
+**Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [antologii](/#antologia)** - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
 
 **W skrócie:**
 
 - **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione prace, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
-- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, z widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
+- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
-- zwycięska praca, za zgodą autora, idzie na okładkę antologii
+- zwycięska praca trafia na okładkę **[antologii](/#antologia)**
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#galeria)**
 - po ocenach możesz - ale nie musisz - wystawić oryginał na **[licytację](#licytacja)**; połowa ceny trafia do Ciebie, połowa do puli nagród kolejnej edycji
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż w pozostałych plebiscytach, bo antologia musi zdążyć do druku
