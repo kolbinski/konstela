@@ -10,13 +10,13 @@ Otwarty konkurs na **plakat o sztucznej inteligencji i jej roli w świecie**, wy
 
 **W skrócie:**
 
-- zgłaszasz **zdjęcie albo skan** pracy, nie oryginał;
-- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, z widoczną twarzą** - zaplanuj je, zanim zaczniesz malować;
-- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę;
-- **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali;
-- **trzy najwyżej ocenione prace** dostają nagrody pieniężne;
-- zwycięska praca, za zgodą autora, idzie na okładkę antologii;
-- nabór planujemy na 2027 rok, po zabezpieczeniu finansowania.
+- zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
+- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, z widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
+- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
+- **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
+- **trzy najwyżej ocenione prace** dostają nagrody pieniężne
+- zwycięska praca, za zgodą autora, idzie na okładkę antologii
+- nabór planujemy na 2027 rok, po zabezpieczeniu finansowania
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -44,10 +44,10 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną:**
 
-- praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie;
-- format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6;
-- praca **nie była publikowana w wydawnictwie, wystawiana ani nagradzana w innym konkursie przed dniem zgłoszenia** - liczy się stan na ten dzień, a pokazanie pracy na własnym profilu niczego nie blokuje;
-- zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków, **krótszy** bok nie mniejszy niż 2000 pikseli.
+- praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie
+- format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6
+- praca **nie była publikowana w wydawnictwie, wystawiana ani nagradzana w innym konkursie przed dniem zgłoszenia** - liczy się stan na ten dzień, a pokazanie pracy na własnym profilu niczego nie blokuje
+- zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków, **krótszy** bok nie mniejszy niż 2000 pikseli
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
@@ -182,8 +182,8 @@ Wszystkie pytania i sprawy dotyczące konkursu proszę pisać na adres: **plebis
 
 Napisz, jeśli:
 
-- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia;
-- **rysujesz i masz pytanie** o zasady, terminy albo sposób zgłoszenia;
-- **reprezentujesz uczelnię, galerię, sponsora albo redakcję** i chcesz porozmawiać o współpracy.
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
+- **rysujesz i masz pytanie** o zasady, terminy albo sposób zgłoszenia
+- **reprezentujesz uczelnię, galerię, sponsora albo redakcję** i chcesz porozmawiać o współpracy
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.

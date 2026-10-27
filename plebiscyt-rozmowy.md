@@ -38,10 +38,10 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 **Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną:**
 
-- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy, bo tekst wklejony można wcześniej zredagować. Link pokazuje wersję, którą udostępniłeś; nie potwierdza pełnej historii powstawania rozmowy. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas oceny. Wyklucza to narzędzia bez funkcji udostępniania;
-- **co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości. Liczenie jest po naszej stronie;
-- **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne;
-- **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji piszesz swobodnie;
+- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy, bo tekst wklejony można wcześniej zredagować. Link pokazuje wersję, którą udostępniłeś; nie potwierdza pełnej historii powstawania rozmowy. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas oceny. Wyklucza to narzędzia bez funkcji udostępniania
+- **co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości. Liczenie jest po naszej stronie
+- **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne
+- **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji piszesz swobodnie
 - **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien. Jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu.
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>

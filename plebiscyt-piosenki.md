@@ -12,11 +12,11 @@ Otwarty konkurs na **własną piosenkę o sztucznej inteligencji i jej roli w ś
 
 **Jak to przebiega, w skrócie:**
 
-- zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą;
-- jury wybiera **dziesięciu finalistów** - spośród wszystkich zgłoszeń albo z listy przygotowanej przez Akademię, zależnie od trybu ogłoszonego przed naborem;
-- każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim;
-- **trzy najwyżej ocenione utwory** dostają nagrody pieniężne, a ich autorzy są zapraszani do wykonania ich na żywo na gali;
-- nabór planujemy na początek 2027 roku, po zabezpieczeniu finansowania.
+- zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą
+- jury wybiera **dziesięciu finalistów** - spośród wszystkich zgłoszeń albo z listy przygotowanej przez Akademię, zależnie od trybu ogłoszonego przed naborem
+- każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim
+- **trzy najwyżej ocenione utwory** dostają nagrody pieniężne, a ich autorzy są zapraszani do wykonania ich na żywo na gali
+- nabór planujemy na początek 2027 roku, po zabezpieczeniu finansowania
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -40,11 +40,11 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Pięć wymogów, przez które zgłoszenie może odpaść jeszcze przed oceną:**
 
-- utwór trwa **od 3 do 6 minut**;
-- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i jury musi go rozumieć;
-- utwór **nie był wcześniej wydany komercyjnie** - publikacja na własnym kanale wydaniem nie jest i niczego nie blokuje, chodzi o rzeczy wydane przez wydawcę albo dystrybutora;
-- nagranie pod linkiem **jest dostępne przez cały czas trwania oceny i niezmienione od dnia zamknięcia naboru** - do tego dnia możesz je poprawić, zgłaszając nam to, a oceniamy wersję ostateczną;
-- **okładka jest dołączona** i masz do niej prawa.
+- utwór trwa **od 3 do 6 minut**
+- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i jury musi go rozumieć
+- utwór **nie był wcześniej wydany komercyjnie** - publikacja na własnym kanale wydaniem nie jest i niczego nie blokuje, chodzi o rzeczy wydane przez wydawcę albo dystrybutora
+- nagranie pod linkiem **jest dostępne przez cały czas trwania oceny i niezmienione od dnia zamknięcia naboru** - do tego dnia możesz je poprawić, zgłaszając nam to, a oceniamy wersję ostateczną
+- **okładka jest dołączona** i masz do niej prawa
 
 **Wystarczy czytelne demo.** Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze na studio, nie wiedząc, czy cokolwiek wygra. Głos i instrument to dość, byle dało się usłyszeć tekst, melodię i wykonanie. **Profesjonalne nagranie jest po stronie organizatora i dopiero dla finalistów** - za utwór odpowiada autor, za jakość nagrania organizator.
 
@@ -178,8 +178,8 @@ Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **pleb
 
 Napisz, jeśli:
 
-- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adresy zapisane na tę listę trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem;
-- **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia;
-- **reprezentujesz wydawnictwo, sponsora albo redakcję** i chcesz porozmawiać o współpracy.
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adresy zapisane na tę listę trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem
+- **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia
+- **reprezentujesz wydawnictwo, sponsora albo redakcję** i chcesz porozmawiać o współpracy
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.

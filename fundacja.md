@@ -18,13 +18,13 @@ Fundacja nie jest szyldem dodanym do konkursu. Powstaje dlatego, że **nagroda p
 
 Cele statutowe:
 
-- upowszechnianie umiejętności świadomego, krytycznego i twórczego korzystania ze sztucznej inteligencji;
-- dokumentowanie i udostępnianie zapisu rzeczywistych rozmów ludzi ze sztuczną inteligencją jako materiału edukacyjnego i badawczego;
-- wspieranie oświaty, wychowania i nauki w zakresie kompetencji cyfrowych;
-- działalność na rzecz kultury i sztuki słowa, w szczególności przez wydawanie publikacji;
-- wspieranie twórczości artystycznej podejmującej temat sztucznej inteligencji - w dziedzinie filmu, muzyki i sztuk plastycznych;
-- upowszechnianie dostępu do dóbr kultury powstałych w ten sposób, przede wszystkim przez ich nieodpłatne udostępnianie;
-- promowanie postawy dociekliwości i rzetelności poznawczej.
+- upowszechnianie umiejętności świadomego, krytycznego i twórczego korzystania ze sztucznej inteligencji
+- dokumentowanie i udostępnianie zapisu rzeczywistych rozmów ludzi ze sztuczną inteligencją jako materiału edukacyjnego i badawczego
+- wspieranie oświaty, wychowania i nauki w zakresie kompetencji cyfrowych
+- działalność na rzecz kultury i sztuki słowa, w szczególności przez wydawanie publikacji
+- wspieranie twórczości artystycznej podejmującej temat sztucznej inteligencji - w dziedzinie filmu, muzyki i sztuk plastycznych
+- upowszechnianie dostępu do dóbr kultury powstałych w ten sposób, przede wszystkim przez ich nieodpłatne udostępnianie
+- promowanie postawy dociekliwości i rzetelności poznawczej
 
 Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach - na rozmowę, film, piosenkę i plakat - wydawanie i bezpłatne udostępnianie antologii oraz nagrań finalistów, organizowanie wystaw, pokazów i koncertów prezentujących zgłoszone prace, prowadzenie publicznego archiwum zgłoszeń oraz działalność edukacyjną, w tym materiały dla szkół.
 

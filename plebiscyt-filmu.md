@@ -14,12 +14,12 @@ Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 
 **Jak to przebiega, w skrócie:**
 
-- film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia;
-- zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube**;
-- wszystkie zgłoszenia ogląda **Akademia filmu**, a wybranym zajmuje się dalej jury;
-- jury wybiera **pięciu finalistów** i ustala kolejność trójki;
-- na gali każdy z pięciu filmów dostaje **minutową emisję**, a fragment wybiera sam autor;
-- nabór zamykamy **30 listopada 2027**, bo obejrzenie wszystkiego zajmuje miesiące.
+- film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
+- zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube**
+- wszystkie zgłoszenia ogląda **Akademia filmu**, a wybranym zajmuje się dalej jury
+- jury wybiera **pięciu finalistów** i ustala kolejność trójki
+- na gali każdy z pięciu filmów dostaje **minutową emisję**, a fragment wybiera sam autor
+- nabór zamykamy **30 listopada 2027**, bo obejrzenie wszystkiego zajmuje miesiące
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -120,11 +120,11 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 ## <!--ikona:harmonogram--><span>Gala i terminy</span>
 
-- **1 stycznia 2027** - planowane otwarcie naboru, po zabezpieczeniu finansowania.
+- **1 stycznia 2027** - planowane otwarcie naboru, po zabezpieczeniu finansowania
 - **30 listopada 2027** - zamknięcie naboru. Film musi być ukończony najpóźniej w dniu zgłoszenia.
-- **Styczeń 2028** - pierwsze przejście oceny przez Akademię filmu.
+- **Styczeń 2028** - pierwsze przejście oceny przez Akademię filmu
 - **Luty 2028** - werdykt jury. Finaliści dowiadują się wcześniej, bo wybierają fragment, ale kolejności trójki nie znają do gali.
-- **Druga połowa kwietnia 2028** - gala rozdania nagród, werdykty wszystkich plebiscytów.
+- **Druga połowa kwietnia 2028** - gala rozdania nagród, werdykty wszystkich plebiscytów
 
 Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż pięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
