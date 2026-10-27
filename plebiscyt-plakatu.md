@@ -211,6 +211,7 @@ Plebiscyt rozstrzyga się na tej samej gali co Nagroda Konstela w plebiscycie na
 |---|---|
 | koniec listopada 2027 | zamknięcie naboru |
 | połowa grudnia 2027 | ogłoszenie dziesiątki finalistów |
+| 1 grudnia 2027 | otwarcie głosowania publiczności - trwa do dnia gali, oceny publiczności są ukryte do dnia gali |
 | 3-31 stycznia 2028 | okno dostarczenia oryginałów finalistów |
 | początek lutego 2028 | oględziny oryginałów i werdykt jury |
 | luty 2028 | uzgodnienie okładki ze zwycięzcą |

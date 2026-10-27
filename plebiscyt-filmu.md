@@ -267,7 +267,7 @@ Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszon
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu</small></dd></div>
-<div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, liczniki są ukryte</small></dd></div>
+<div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, oceny publiczności są ukryte do dnia gali</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca z werdyktu jury</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
