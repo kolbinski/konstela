@@ -98,12 +98,10 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
-**Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń**, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć. Zwycięzca odbiera **medal Nagrody Konstela**, ten sam, który otrzymują zwycięzcy pozostałych plebiscytów, a cała dziesiątka finalistów tłoczone dyplomy.
-
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Werdykt jury, według jawnej karty oceny. Nagroda pieniężna, medal i miejsce w antologii.</p>
+<p>Nagroda pieniężna, medal i miejsce w antologii.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
@@ -115,11 +113,11 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 <article>
 <h3>Nagroda Uczniowska</h3>
-<p>Wskazują ją uczniowskie grupy czytające, według tej samej karty oceny, niezależnie od jury. Jak to działa - niżej.</p>
+<p>Wskazują ją uczniowskie grupy oceniające według tej samej karty oceny, niezależnie od jury.</p>
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
-<p>Otwarte głosowanie, jeden głos na numer telefonu. Rusza po zamknięciu naboru, liczniki ukryte do gali.</p>
+<p>Otwarte głosowanie dla wszystkich, jeden głos na numer telefonu. Głosowanie rozpoczyna się po zakończeniu naboru (15 stycznia 2028), a jego wyniki są niewidoczne do gali plebiscytu.</p>
 </article>
 </div>
 
@@ -127,11 +125,9 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 **Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
-**Nagroda Publiczności - zasady.** Głosowanie otwiera się dopiero po zamknięciu naboru, żeby każda rozmowa miała tyle samo czasu na zbieranie głosów, a liczniki pozostają ukryte do ogłoszenia wyniku na gali.
-
 <h3 id="nagroda-uczniowska">Nagroda Uczniowska</h3>
 
-**Rozstrzygają o niej uczniowskie grupy czytające.** Czytają według **tej samej jawnej karty oceny** co jury i wskazują swoją rozmowę niezależnie od niego. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
+**Tę nagrodę rozstrzygają uczniowskie grupy czytające.** Czytają i oceniają według **tej samej jawnej karty oceny** co akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
 
 **Jedna szkoła - jedno wskazanie.** Czytać może dowolnie wiele klas, a im więcej, tym lepiej. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej. Dzięki temu duża szkoła nie waży więcej od małej.
 
