@@ -124,8 +124,6 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
-**Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
-
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Tekst - od 0 do 30 punktów</h3>
