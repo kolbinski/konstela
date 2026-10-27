@@ -93,7 +93,7 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - b
 
 **Narzędzia cyfrowe przy przygotowaniu pliku** - kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia - są dozwolone i oczywiste. Nie wolno nimi dodawać ani usuwać elementów obrazu.
 
-## <!--ikona:kryteria--><span>Co ocenia jury</span>
+## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
 Cztery kryteria, łącznie do 100 punktów. **To jest projekt - ostateczne brzmienie i wagi uzgadniamy z jury przed otwarciem naboru, a po jego otwarciu nic się w nich nie zmienia.**
 

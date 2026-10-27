@@ -68,7 +68,7 @@ Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a 
 
 Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16, do 5 MB - szczegóły w regulaminie i w formularzu. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
 
-## <!--ikona:kryteria--><span>Cztery kryteria oceny</span>
+## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
 <div class="kafle jedna-kolumna">
 <article>

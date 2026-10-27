@@ -90,7 +90,7 @@ Narzędzi opartych na AI wolno też używać **na etapie produkcji i obróbki**:
 
 **Jak to sprawdzamy.** Nie na zasadzie, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze - ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
-## <!--ikona:kryteria--><span>Co ocenia jury</span>
+## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
 Cztery kryteria, łącznie do 100 punktów. **Wagi podaje regulamin i po otwarciu naboru już się nie zmieniają.**
 

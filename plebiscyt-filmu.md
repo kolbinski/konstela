@@ -92,7 +92,7 @@ Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 
 Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regulaminy wskazują, co musi pochodzić od człowieka. **Nieprawdziwa deklaracja jest podstawą wykluczenia.**
 
-## <!--ikona:waga--><span>Cztery kryteria oceny</span>
+## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
 <div class="kafle jedna-kolumna">
 <article>
