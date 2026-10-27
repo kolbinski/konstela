@@ -11,13 +11,14 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 **W skrócie:**
 
 - **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione prace, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
-- zgłaszasz **jedną pracę w jednej edycji**, w postaci zdjęcia albo skanu, nie oryginału
+- zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
 - zwycięska praca trafia na okładkę **[antologii](/#antologia)** - zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#galeria)**
 - po ocenach możesz - ale nie musisz - wystawić oryginał na **[licytację](#licytacja)**; połowa ceny trafia do Ciebie, połowa do puli nagród kolejnej edycji
+- zgłaszasz **jedną pracę w jednej edycji**
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż w pozostałych plebiscytach, bo antologia musi zdążyć do druku
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>

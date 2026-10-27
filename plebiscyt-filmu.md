@@ -17,11 +17,12 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
-- zgłaszasz **jeden film w jednej edycji**: **link do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund
+- zgłaszasz **link do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
 - Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](#projektornia)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** - tych samych, które zgłosiłeś
+- zgłaszasz **jeden film w jednej edycji**
 - nabór zamykamy **30 listopada 2027**
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
