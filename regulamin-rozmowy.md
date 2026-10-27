@@ -412,8 +412,8 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 ## § 9. Nagrody
 
 1. W edycji pierwszej przewidziano:
-   - **nagrodę główną** dla jednego Uczestnika,
-   - **dziewięć wyróżnień** dla kolejnych Uczestników z rankingu,
+   - **nagrodę główną** dla jednego Uczestnika - nagrodę pieniężną,
+   - **dziewięć wyróżnień** dla kolejnych Uczestników z rankingu - również nagrody pieniężne,
    - publikację **dziesięciu najwyżej ocenionych rozmów** w antologii wydanej w postaci elektronicznej.
 1a. **Liczby są wiążące; wolne miejsce uzupełnia kolejny z rankingu.** Jeżeli Uczestnikowi, któremu przysługiwałaby nagroda główna albo wyróżnienie, nagroda ostatecznie nie przysługuje - wskutek wycofania zgłoszenia w terminie z § 11 ust. 6, odrzucenia zgłoszenia albo rezygnacji w rozumieniu § 8 ust. 17 - jego miejsce zajmuje **kolejny Uczestnik z rankingu**, na zasadzie z § 8 ust. 17. Zasadę stosuje się tylekroć, ile razy zajdzie taka potrzeba, tak aby przyznanych zostało dziewięć wyróżnień, a antologia objęła dziesięć rozmów.
 1b. **Odmowa publikacji nie pozbawia nagrody.** Zgodnie z § 7a ust. 1 Uczestnik, któremu Organizator odmówił publikacji rozmowy (§ 7a ust. 2), zachowuje nagrodę główną albo wyróżnienie. W antologii na miejsce nieopublikowanej rozmowy wchodzi **kolejna rozmowa z rankingu nadająca się do publikacji**, tak aby antologia objęła dziesięć rozmów. Lista nagrodzonych pozostaje w takim przypadku bez zmian, a antologia może objąć rozmowę Uczestnika, któremu nie przyznano nagrody ani wyróżnienia; Organizator zaznacza to przy tej rozmowie.

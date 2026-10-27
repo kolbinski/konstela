@@ -78,11 +78,11 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Werdykt jury, według jawnej karty oceny. Medal, nagroda pieniężna i miejsce w antologii.</p>
+<p>Werdykt jury, według jawnej karty oceny. Nagroda pieniężna, medal i miejsce w antologii.</p>
 </article>
 <article>
 <h3>Dziewięć wyróżnień</h3>
-<p>Pozostała dziewiątka finalistów: dyplom, nagroda pieniężna i miejsce w antologii.</p>
+<p>Pozostała dziewiątka finalistów: <strong>również nagrody pieniężne</strong>, a do tego dyplom i miejsce w antologii.</p>
 </article>
 <article>
 <h3>Nagroda Uczniowska</h3>
