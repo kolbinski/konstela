@@ -42,7 +42,10 @@
     '  color: var(--text, var(--fg, #241f18));',
     '  font-size: 1.0625rem; line-height: 1.65; font-weight: 400;',
     '}',
-    '.lewo p { margin: 0; }',
+    /* Lewa kolumna dostaje ten sam odstęp pionowy co lista po prawej,
+       żeby obie strony stopki czytały się jak jeden rytm. */
+    '.lewo { display: flex; flex-direction: column; align-items: flex-start; gap: 1.1rem; }',
+    '.lewo p { margin: 0; line-height: 1.25; }',
     /* Lista zawsze do lewej. Przy pełnych nazwach dokumentów kolumna linków
        i tak nie mieści się obok bloku kontaktowego i schodzi pod niego -
        wyrównanie do prawej zostawiało wtedy ragged left i pusty pas przy
@@ -60,7 +63,7 @@
     '  color: #000; font-size: 1.875rem; line-height: 1.5;',
     '  border-top-color: #000;',
     '}',
-    ':host([data-czytelnie]) nav { gap: 1.6rem; }',
+    ':host([data-czytelnie]) nav, :host([data-czytelnie]) .lewo { gap: 1.6rem; }',
     ':host([data-czytelnie]) a { color: #0000cc; text-decoration: underline; }',
     ':host([data-czytelnie]) a:visited { color: #0000cc; }',
     '@media print {',
@@ -79,6 +82,7 @@
       '<div class="belka">' +
       '<div class="lewo">' +
       '<p>Konstela &copy; 2026</p>' +
+      '<p><a href="/fundacja">Fundacja Konstela</a></p>' +
       '<p>Napisz do nas: <a href="mailto:kontakt@konstela.org">kontakt@konstela.org</a></p>' +
       '</div>' +
       '<nav aria-label="Dokumenty">' + pozycje + '</nav>' +
