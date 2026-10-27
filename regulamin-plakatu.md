@@ -78,7 +78,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 1. **Nagranie jest obowiązkowym elementem zgłoszenia.** Służy powiązaniu Uczestnika z wykonywaniem pracy, którego ręcznego charakteru wymaga § 6.
 
-2. Nagranie przekazuje się **w postaci pliku, drogą wskazaną przez Organizatora, albo jako link do nagrania w serwisie wideo**; wybór należy do Uczestnika. Nagranie przekazane linkiem może być niepubliczne i musi być dostępne do dnia gali. Przy przekazaniu linkiem dostęp do nagrania określają również zasady wybranego serwisu, nad którymi Organizator nie ma kontroli.
+2. Nagranie przekazuje się **jako link do nagrania w serwisie YouTube**. Nagranie może być niepubliczne i musi być dostępne do dnia gali. Organizator zwraca uwagę, że dostęp do nagrania niepublicznego określają zasady serwisu, nad którymi nie ma kontroli: nagranie takie może obejrzeć każdy, kto dysponuje linkiem.
 
 3. Nagranie trwa **co najmniej 5 minut** i spełnia następujące warunki:
 
