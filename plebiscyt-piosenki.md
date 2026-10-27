@@ -2,6 +2,10 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
+<img src="/assets/piosenka.jpg" srcset="/assets/piosenka-800.jpg 800w, /assets/piosenka.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Kobieta z gitarą siedzi na skale nad doliną o zachodzie słońca i śpiewa do mikrofonu; z jej strony biegną w rozgwieżdżone niebo złote wstęgi światła, układające się w sceny z ludzkiego życia, a z drugiej strony wychodzi im naprzeciw niebieski, świetlisty zarys twarzy sztucznej inteligencji.">
+
+<!--ikona:rozdzielacz-->
+
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
 Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga [sekcja o zasadach](#zasady) - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.
