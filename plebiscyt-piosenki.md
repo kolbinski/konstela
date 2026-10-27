@@ -58,7 +58,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów p
 
 ### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna na pokazanie zgłoszenia w Słuchalni i w archiwum - bez tego zgłoszenia nie da się przyjąć, bo prezentacja jest warunkiem udziału. Pozostałe zgody - na odbiór nagrody, udział w nagraniu studyjnym, udział w gali i wykonanie utworu - są rozpatrywane osobno i brak którejś wyklucza tylko z tej jednej rzeczy.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna na pokazanie zgłoszenia w [Słuchalni](#sluchalnia) i w [archiwum](#archiwum) - bez tego zgłoszenia nie da się przyjąć, bo prezentacja jest warunkiem udziału. Pozostałe zgody - na odbiór nagrody, udział w nagraniu studyjnym, udział w gali i wykonanie utworu - są rozpatrywane osobno i brak którejś wyklucza tylko z tej jednej rzeczy.
 
 ### Co możesz zgłosić
 
@@ -201,7 +201,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 
 **Płyta jest planem, nie obietnicą.** Chcemy wydać te nagrania na płycie, ale zależy to od pozyskania wydawnictwa i od osobnej umowy, którą zawrzesz z nim Ty, nie my. **Nagrania powstaną niezależnie od tego, czy wydawnictwo się znajdzie**, a odmowa umowy z nim nie odbiera Ci ani nagrania, ani praw do niego.
 
-## <!--ikona:sluchalnia--><span>Słuchalnia i archiwum</span>
+<h2 id="sluchalnia"><!--ikona:sluchalnia--><span>Słuchalnia i archiwum</span></h2>
 
 **Utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, deklarację użycia AI, link do nagrania oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał. Tekstu utworu nie publikujemy.
 
@@ -209,7 +209,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 
 **Nie trzymamy u siebie nagrań.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, link po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
 
-### Archiwum
+<h3 id="archiwum">Archiwum</h3>
 
 **Po gali Słuchalnia zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim okładka, tytuł, podpis, deklaracja, kontakt do autora, rok edycji i link - żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
 
