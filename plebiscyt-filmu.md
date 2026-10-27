@@ -98,7 +98,7 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ### Pozostałe pola zgłoszenia
 
-Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, pole tekstowe **„dlaczego warte nagrody głównej" do 700 znaków** oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis, pole „dlaczego warte nagrody głównej" i miniatura nie podlegają ocenie przez akademię i jury.
+Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, pole tekstowe **„dlaczego warte nagrody głównej" do 700 znaków** oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis, pole „dlaczego warte nagrody głównej" i miniatura nie podlegają ocenie.
 
 **Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w Projektorni i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
@@ -108,7 +108,7 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 
 ## <!--ikona:zasady--><span>Zasady: deklaracja, nie zakaz</span>
 
-**Użycie narzędzi sztucznej inteligencji przy filmie nie jest zakazane w żadnym zakresie** - ani przy obrazie, ani przy scenariuszu, ani przy montażu, dźwięku, muzyce, głosie czy napisach. **Opisujesz natomiast w zgłoszeniu, co takie narzędzia w Twoim filmie zrobiły.** Deklaracja jest publikowana razem ze zgłoszeniem i **nie jest punktowana**: film wygenerowany w całości i film zrobiony bez tych narzędzi oceniamy tą samą [kartą oceny](/dokument/regulamin-filmu#karta-oceny).
+**Użycie narzędzi sztucznej inteligencji przy filmie nie jest zakazane w żadnym zakresie** - ani przy obrazie, ani przy scenariuszu, ani przy montażu, dźwięku, muzyce, głosie czy napisach. **Opisujesz natomiast w zgłoszeniu, co takie narzędzia w Twoim filmie zrobiły.** Deklaracja jest publikowana razem ze zgłoszeniem i **nie podlega ocenie**: film wygenerowany w całości i film zrobiony bez tych narzędzi oceniamy tą samą [kartą oceny](/dokument/regulamin-filmu#karta-oceny).
 
 Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regulaminy wskazują, co musi pochodzić od człowieka. **Nieprawdziwa deklaracja jest podstawą wykluczenia.**
 
@@ -253,7 +253,7 @@ Napisz, jeśli:
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **jesteś twórcą filmowym i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
-- **chcesz oglądać zgłoszenia w akademii filmu** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz oglądać i oceniać zgłoszenia w akademii filmu** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

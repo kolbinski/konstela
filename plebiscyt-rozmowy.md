@@ -62,7 +62,7 @@ Zgłoszenia w plebiscycie mogą dokonać osoby pełnoletnie mieszkające w Polsc
 
 ### Tytuł i opis
 
-Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego pole **„dlaczego warte nagrody głównej"** - do 700 znaków o tym, dlaczego akurat ta rozmowa jest warta nagrody. Ani tytuł, ani opis, ani to uzasadnienie nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum.
+Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego pole **„dlaczego warte nagrody głównej"** - do 700 znaków o tym, dlaczego akurat ta rozmowa jest warta nagrody. Ani tytuł, ani opis, ani to uzasadnienie nie podlegają ocenie - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum.
 
 ### Ilustracja rozmowy
 
@@ -234,7 +234,7 @@ Napisz, jeśli:
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **rozmawiasz z AI i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **jesteś nauczycielem** i chcesz zgłosić uczniowską grupę czytającą do Nagrody Uczniowskiej
-- **chcesz czytać zgłoszenia w akademii** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz czytać i oceniać zgłoszenia w akademii** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
