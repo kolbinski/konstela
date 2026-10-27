@@ -159,7 +159,9 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 </div>
 
-**Kwalifikacja do dystrybucji kinowej znaczy tyle: wchodzisz do zestawu, który kierujemy do pokazów.** Dziesiątka finalistów składa się na zestaw filmów, z którym idziemy do partnerów dysponujących salami projekcyjnymi. Chcemy pokazać te filmy w całości, osobno od gali, ale **nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania takiego partnera. Jeżeli się uda, pytamy autorów o zgodę; odmowa nie wpływa ani na ocenę, ani na nagrodę.
+## <!--ikona:galeria--><span>Dystrybucja kinowa</span>
+
+Kwalifikacja do dystrybucji kinowej dziesięciu filmów najwyżej ocenionych przez jury oznacza, że zgłoszony film wchodzi do zestawu, który kierujemy do pokazów w kinach, **pod warunkiem znalezienia dystrybutora**. Jeżeli się uda, pytamy autorów o zgodę, a odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
 <h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i archiwum</span></h2>
 
