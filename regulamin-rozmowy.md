@@ -319,7 +319,8 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 - c) **w pierwszej edycji wszystkie grupy otrzymują ten sam zestaw zgłoszeń**, wyodrębniony przez Organizatora przed rozpoczęciem czytania i ogłoszony co do liczebności przed otwarciem naboru; zestaw nie jest tożsamy z pierwszą dziesiątką ustaloną przez Kapitułę;
 - d) ocena grup uczniowskich **nie wpływa na punktację Kapituły ani Akademii** i odwrotnie;
 - e) konflikt interesów nie powstaje, ponieważ Uczestnikiem może być wyłącznie osoba pełnoletnia (§ 3 ust. 1), a członkowie grup uczniowskich nie biorą udziału w konkursie;
-- f) członka grupy uczniowskiej obowiązuje poufność w tym samym zakresie co członka Akademii, a szkoła odpowiada za jej zapewnienie.
+- f) członka grupy uczniowskiej obowiązuje poufność w tym samym zakresie co członka Akademii, a szkoła odpowiada za jej zapewnienie;
+- g) **liczba grup czytających w jednej szkole nie jest ograniczona**, lecz szkoła przedstawia **jedno wskazanie**, uzgodnione między swoimi grupami. Dzięki temu każda szkoła waży tyle samo niezależnie od wielkości, a liczba zgłoszonych grup nie wpływa na wynik.
 
 3. **Podział ról.** Oceny formalnej (§ 6) dokonuje Organizator lub wskazana przez niego osoba. **Oceny merytorycznej pierwszej rundy dokonuje Akademia**, według tych samych kryteriów z § 7 i tej samej Karty oceny. **Rozstrzygnięcia, to jest ustalenia dziesiątki antologii i ostatecznej kolejności, dokonuje wyłącznie Kapituła.** Organizator nie ocenia merytorycznie, nie dokonuje wstępnej selekcji i nie wskazuje Kapitule zgłoszeń wyróżnionych.
 3a. **Oznaczanie zastrzeżeń prawnych przez oceniających.** Oprócz oceny merytorycznej oceniający **oznacza w panelu zastrzeżenie**, jeżeli w rozmowie dostrzeże dane osobowe osoby trzeciej, przytoczenie całego cudzego utworu krótkiego albo cudzy materiał wgrany do rozmowy. Zasady:
@@ -441,7 +442,8 @@ Do odczytu przez innego członka Akademii kierowany jest cały przydział, w kt�
 - a) nagroda jest **niezależna od werdyktu Kapituły i od Nagrody Publiczności** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki;
 - b) wskazana rozmowa przechodzi przed ogłoszeniem **to samo sprawdzenie rzetelności** co zgłoszenia z pierwszej dziesiątki (§ 7 ust. 13); rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji;
 - c) wynik ogłaszany jest podczas gali, razem z pozostałymi werdyktami;
-- d) jeżeli żadna szkoła nie zgłosi grupy albo zgłoszone grupy nie przedstawią wyniku, nagroda nie zostaje przyznana, a Organizator informuje o tym przy ogłoszeniu wyników.
+- d) **wynik ustala się przez zliczenie wskazań szkół: jedna szkoła - jedno wskazanie** (§ 8 ust. 2a lit. g). Nagrodę otrzymuje rozmowa wskazana przez największą liczbę szkół, a przy równej liczbie wskazań - ta wskazana wcześniej;
+- e) jeżeli żadna szkoła nie zgłosi grupy albo zgłoszone grupy nie przedstawią wskazania, nagroda nie zostaje przyznana, a Organizator informuje o tym przy ogłoszeniu wyników.
 
 ## § 10. Nierozstrzygnięcie edycji
 

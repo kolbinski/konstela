@@ -25,7 +25,7 @@ Przyjęte rozwiązanie: **pobieramy wykaz raz przed otwarciem naboru i trzymamy 
 2. **Wyszukiwarka szkoły w formularzu** - po nazwie i miejscowości, z numerem RSPO jako identyfikatorem. Zgłaszający nie wpisuje adresu poczty.
 3. **Wysyłka kodu** na adres z wykazu, ważność kodu ograniczona w czasie, limit prób.
 4. **Ścieżka ręczna** - gdy w rejestrze nie ma adresu albo wiadomość wraca: potwierdzenie telefoniczne pod numerem z rejestru, odnotowane przy zgłoszeniu grupy.
-5. **Lista szkół uczestniczących** - do kontaktu i do sprawozdania; bez danych uczniów.
+5. **Zestawienie szkół uczestniczących** - do kontaktu i do sprawozdania, wyłącznie na użytek Organizatora; bez danych uczniów i bez publikowania.
 
 ## Czego nie zbieramy
 
@@ -42,5 +42,6 @@ Przyjęte rozwiązanie: **pobieramy wykaz raz przed otwarciem naboru i trzymamy 
 ## Do rozstrzygnięcia
 
 - **Dane logowania do API**, jeżeli chcemy odświeżać wykaz automatycznie, a nie plikiem.
-- **Licencja zbioru.** Przy wykazie na dane.gov.pl nie podano warunków ponownego wykorzystania. Dla samej weryfikacji bez znaczenia; gdybyśmy chcieli opublikować listę szkół na stronie, do sprawdzenia.
-- **Ile grup z jednej szkoły** może zgłosić werdykt i czy werdykt jest jeden na szkołę, czy jeden na grupę.
+**Listy szkół nie publikujemy** (decyzja z 27.10.2026) - wykaz służy wyłącznie weryfikacji i zostaje u Organizatora. Odpada przy tym pytanie o warunki ponownego wykorzystania zbioru, bo niczego z niego nie udostępniamy dalej.
+
+**Liczba grup w szkole nie jest ograniczona, ale wskazanie jest jedno na szkołę** (decyzja z 27.10.2026, § 8 ust. 2a lit. g regulaminu). Formularz przyjmuje więc jedno wskazanie na numer RSPO; druga próba z tej samej szkoły wymaga kontaktu z Organizatorem.

@@ -75,6 +75,8 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 **Obok werdyktu Kapituły przyznawana jest Nagroda Uczniowska**, o której rozstrzygają uczniowskie grupy czytające. Czytają według **tej samej jawnej karty oceny** co Kapituła i wskazują swoją rozmowę niezależnie od niej - oba werdykty ogłaszamy tego samego wieczoru i mogą wskazać dwie różne rozmowy. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
 
+**Jedna szkoła - jedno wskazanie.** Czytać może dowolnie wiele klas, a im więcej, tym lepiej. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej. Dzięki temu duża szkoła nie waży więcej od małej.
+
 **To jest praca oceniająca, nie głosowanie nad cudzym podium.** Grupy nie wybierają spośród dziesiątki finalistów, tylko czytają własny zestaw zgłoszeń i same ustalają wynik. W pierwszej edycji wszystkie grupy dostają **ten sam zestaw rozmów**, żeby porównanie werdyktów miało sens: z tego samego materiału dorośli i uczniowie mogą wyjść na co innego, a to właśnie jest w tym ciekawe.
 
 **Zgłasza szkoła, nie uczeń z ulicy.** Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.
