@@ -318,6 +318,20 @@
   }
 }
 
+/* Kafle nagród: przy 30 px dwie kolumny dałyby po kilka słów w wierszu, więc
+   siatka się rozsypuje do bloków. Rozdzielenie kreską robiła przerwa w
+   siatce, która tu przestaje działać, dlatego każdy kafel dostaje własną
+   ramkę. */
+:root.czytelnie .kafle {
+  display: block !important;
+  background: none !important;
+  border: 0 !important;
+}
+:root.czytelnie .kafle article {
+  border: 1px solid #000000 !important;
+  margin-bottom: 1rem !important;
+}
+
 /* Ramki, linie i tła kart: czarna kreska na białym, bez wypełnień. */
 :root.czytelnie section,
 :root.czytelnie article,

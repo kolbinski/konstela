@@ -106,15 +106,30 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania Akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
 
-## <!--ikona:zespol--><span>Nagroda Publiczności</span>
+## <!--ikona:puchar--><span>Nagrody</span>
 
-Wybierana w otwartym głosowaniu, **niezależnie od werdyktu jury**. Głosowanie **otwiera się dzień po zamknięciu naboru i trwa do gali** - żeby każda praca miała tyle samo czasu na zebranie głosów.
+**Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 
-## <!--ikona:puchar--><span>Nagrody jury</span>
+<div class="kafle">
+<article>
+<h3>Nagroda główna</h3>
+<p>Werdykt jury. Nagroda pieniężna i <strong>mosiężny medal Nagrody Konstela</strong> - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów.</p>
+</article>
+<article>
+<h3>Wyróżnienia</h3>
+<p>Nagrody pieniężne dla dwóch kolejnych prac z werdyktu jury oraz tłoczone dyplomy dla całej dziesiątki finalistów.</p>
+</article>
+<article>
+<h3>Nagroda Publiczności</h3>
+<p>Otwarte głosowanie, niezależne od werdyktu jury. Rusza dzień po zamknięciu naboru i trwa do gali, żeby każda praca miała tyle samo czasu na zebranie głosów.</p>
+</article>
+<article>
+<h3>Okładka antologii</h3>
+<p>Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej.</p>
+</article>
+</div>
 
-**Nagrody pieniężne dla trzech najwyżej ocenionych prac.** Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
-
-**Okładka antologii.** Zwycięska praca może ukazać się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. **Pytamy Cię o zgodę zaraz po werdykcie, czyli przed galą**, i masz na odpowiedź 7 dni - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
+**O okładkę pytamy Cię zaraz po werdykcie, czyli przed galą**, i masz na odpowiedź 7 dni - odmowa nie zmienia ani wyniku, ani nagrody. Typografię i ewentualne kadrowanie uzgadniamy z Tobą; praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki. Antologia jest bezpłatna w wersji elektronicznej i rozsyłana do bibliotek.
 
 **Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a oryginałem dysponujemy nie dłużej niż 150 dni od jego odebrania.
 

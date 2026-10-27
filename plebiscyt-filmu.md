@@ -79,16 +79,28 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 **Jury wybiera pięciu finalistów i ustala kolejność trójki.** Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem. Oceniający wyłącza się od oceny zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę.
 
-## <!--ikona:zespol--><span>Nagroda Publiczności</span>
+## <!--ikona:moneta--><span>Nagrody</span>
 
-Przyznawana w otwartym głosowaniu, **niezależnie od werdyktu jury**: jeden głos na numer telefonu, liczniki ukryte do gali.
+**Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
 
-## <!--ikona:moneta--><span>Nagrody jury</span>
-
-- **Nagrody pieniężne dla trzech najwyżej ocenionych filmów**, przyznawane przez jury.
-- **Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
-- **Mosiężny medal Nagrody Konstela** z pieczęcią, grawerowany, wręczany osobiście zwycięzcy - ten sam, który dostają zwycięzcy pozostałych plebiscytów - oraz tłoczone dyplomy dla wszystkich pięciu finalistów.
-- **Minutowa emisja na gali** dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.
+<div class="kafle">
+<article>
+<h3>Nagroda główna</h3>
+<p>Werdykt jury. Nagroda pieniężna i <strong>mosiężny medal Nagrody Konstela</strong> z pieczęcią, grawerowany, wręczany osobiście - ten sam, który dostają zwycięzcy pozostałych plebiscytów.</p>
+</article>
+<article>
+<h3>Wyróżnienia</h3>
+<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury oraz tłoczone dyplomy dla wszystkich pięciu finalistów.</p>
+</article>
+<article>
+<h3>Nagroda Publiczności</h3>
+<p>Otwarte głosowanie, niezależne od werdyktu jury: jeden głos na numer telefonu, liczniki ukryte do gali.</p>
+</article>
+<article>
+<h3>Minutowa emisja na gali</h3>
+<p>Dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.</p>
+</article>
+</div>
 
 Pełne pokazy filmów finałowych odbywają się osobno od gali, za zgodą autorów; brak zgody nie wpływa ani na ocenę, ani na nagrodę.
 

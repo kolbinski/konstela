@@ -609,6 +609,39 @@
         }
       }
 
+      /* Kafle nagród na stronach plebiscytów. Markdown przepuszcza surowy
+         HTML, więc treść kafla pisze się w pliku strony, a tutaj jest sam
+         wygląd. Siatka ma jednopikselową przerwę i tło w kolorze linii, dzięki
+         czemu kafle rozdziela kreska bez rysowania ramek wewnętrznych. Na
+         telefonie jedna kolumna, bo przy dwóch nazwa nagrody łamie się co
+         słowo. */
+      #content .kafle {
+        display: grid;
+        gap: 1px;
+        background: var(--line);
+        border: 1px solid var(--line);
+        margin: 1.8rem 0;
+      }
+      #content .kafle article {
+        background: var(--surface);
+        padding: 1.4rem 1.3rem;
+      }
+      #content .kafle h3 {
+        margin: 0 0 0.6rem;
+        font-size: 1.1rem;
+      }
+      #content .kafle p {
+        margin: 0 0 0.7rem;
+      }
+      #content .kafle p:last-child {
+        margin-bottom: 0;
+      }
+      @media (min-width: 48rem) {
+        #content .kafle {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+
       @media (max-width: 600px) {
         body {
           font-size: 1rem;
