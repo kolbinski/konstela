@@ -173,8 +173,6 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
-**Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy plebiscytu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.
-
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>

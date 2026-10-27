@@ -168,8 +168,6 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
-**Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
-
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
