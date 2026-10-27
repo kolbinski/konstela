@@ -18,7 +18,7 @@ Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 - zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube**
 - wszystkie zgłoszenia ogląda **Akademia filmu**, a wybranym zajmuje się dalej jury
 - jury wybiera **pięciu finalistów** i ustala kolejność trójki
-- na gali każdy z pięciu filmów dostaje **minutową emisję**, a fragment wybiera sam autor
+- na gali każdy z pięciu filmów dostaje **minutowy skrót**, a fragment wybiera sam autor
 - nabór zamykamy **30 listopada 2027**, bo obejrzenie wszystkiego zajmuje miesiące
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
@@ -27,21 +27,27 @@ Plebiscyt na film jest jednym z czterech plebiscytów Nagrody Konstela, rozstrzy
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
-**Pełne zasady są w regulaminie:** [regulamin plebiscytu na film](/dokument/regulamin-filmu). Publikujemy go wraz z kartą oceny przed otwarciem naboru. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy, które to miejsca. Poniżej to, co najważniejsze.
+### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna. Zgoda na obowiązkowe zakresy licencji - prezentację zgłoszenia i emisję minutowego fragmentu na gali - jest warunkiem przyjęcia zgłoszenia. Pozostałe zgody dotyczą odrębnych działań: odbioru nagrody, udziału w gali i pełnego pokazu filmu.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna. Zgoda na obowiązkowe zakresy licencji - prezentację zgłoszenia i minutowy skrót na gali - jest warunkiem przyjęcia zgłoszenia. Pozostałe zgody dotyczą odrębnych działań: odbioru nagrody, udziału w gali i pełnego pokazu filmu.
 
-**Film powstaje dla tego plebiscytu.** Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przeglądu i nie może mieć nigdzie nagrody, wyróżnienia ani nominacji. Wykluczona jest też przeróbka filmu ukończonego wcześniej. Zakaz nie dotyczy natomiast **składników**: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza ani istniejącej muzyki.
+**Jedno zgłoszenie na numer telefonu**, potwierdzane kodem z SMS. Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 
-**Po gali masz z filmem pełną swobodę**, bo nasza licencja jest niewyłączna. Jedno zastrzeżenie, które powinieneś znać wcześniej: **część festiwali wymaga premiery albo tego, żeby film nie był wcześniej dostępny w internecie**, a u nas publikacja jest warunkiem udziału. Tego ryzyka nie usuwa żadna nasza zgoda i musisz ocenić je sam.
+### Film powstaje dla tego plebiscytu
+
+Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przeglądu i nie może mieć nigdzie nagrody, wyróżnienia ani nominacji. Wykluczona jest też przeróbka filmu ukończonego wcześniej. Zakaz nie dotyczy natomiast **składników**: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza ani istniejącej muzyki.
 
 **Opublikowanie filmu na własnym kanale nie jest zgłoszeniem gdzie indziej.** Pokaz dla współtwórców, pokaz w szkole albo na uczelni też niczego nie blokują.
 
+### Zanim zgłosisz: festiwale
+
+**Po gali masz z filmem pełną swobodę**, bo nasza licencja jest niewyłączna. Jedno zastrzeżenie musisz jednak znać wcześniej: **część festiwali wymaga premiery albo tego, żeby film nie był wcześniej dostępny w internecie**, a u nas publikacja jest warunkiem udziału. Tego ryzyka nie usuwa żadna nasza zgoda i musisz ocenić je sam.
+
+### Czego nie przyjmujemy
+
+**Reklam ani filmów będących wyłącznie instruktażem obsługi narzędzia.** Obecność produktu albo fragmentu instruktażowego w dokumencie czy eseju nie wyklucza udziału; wątpliwość rozstrzygamy na Twoją korzyść, a odrzucenie dostajesz na piśmie, z terminem na odpowiedź.
+
 **Język.** Dialogi i narracja po polsku albo z polskimi napisami. Film bez warstwy słownej jest jak najbardziej dopuszczalny.
-
-**Nie przyjmujemy reklam ani filmów będących wyłącznie instruktażem obsługi narzędzia.** Obecność produktu albo fragmentu instruktażowego w dokumencie czy eseju nie wyklucza udziału; wątpliwość rozstrzygamy na Twoją korzyść, a odrzucenie dostajesz na piśmie, z terminem na odpowiedź.
-
-**Jedno zgłoszenie na numer telefonu**, potwierdzane kodem z SMS.
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
@@ -63,21 +69,39 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 ## <!--ikona:waga--><span>Cztery kryteria oceny</span>
 
-| Kryterium | Punkty | Co to znaczy |
-|---|---:|---|
-| Teza | 30 | **Co film mówi** o sztucznej inteligencji: oryginalność ujęcia tematu. Oceniamy banalne ujęcie, nie sam temat - rzecz znana pokazana świeżo punktuje wysoko |
-| Forma | 30 | **Jak to pokazuje**: montaż, obraz, dźwięk, rytm i wykorzystanie czasu, który sobie wziąłeś |
-| Rzetelność | 20 | Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji liczy się tylko to, czy świat przedstawiony da się odróżnić od informacji podawanych jako rzeczywiste - sam zabieg fikcyjny nie obniża oceny |
-| Siła oddziaływania | 20 | Czy film zostawia wyraźną myśl, obraz albo emocję - coś, co po obejrzeniu potrafisz nazwać |
-| Razem | 100 | |
+<div class="kafle jedna-kolumna">
+<article>
+<h3>Teza - 30 punktów</h3>
+<p><strong>Co film mówi</strong> o sztucznej inteligencji: oryginalność ujęcia tematu. Oceniamy banalne ujęcie, nie sam temat - rzecz znana pokazana świeżo punktuje wysoko.</p>
+</article>
+<article>
+<h3>Forma - 30 punktów</h3>
+<p><strong>Jak to pokazuje</strong>: montaż, obraz, dźwięk, rytm i wykorzystanie czasu, który sobie wziąłeś.</p>
+</article>
+<article>
+<h3>Rzetelność - 20 punktów</h3>
+<p>Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji liczy się tylko to, czy świat przedstawiony da się odróżnić od informacji podawanych jako rzeczywiste - sam zabieg fantastyczny nie obniża oceny.</p>
+</article>
+<article>
+<h3>Siła oddziaływania - 20 punktów</h3>
+<p>Czy film zostawia wyraźną myśl, obraz albo emocję - coś, co po obejrzeniu potrafisz nazwać.</p>
+</article>
+</div>
 
-[Karta oceny](/dokument/regulamin-filmu#karta-oceny) w § 7 regulaminu mówi słownie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
+**Razem 100 punktów.** [Karta oceny](/dokument/regulamin-filmu#karta-oceny) w § 7 regulaminu mówi słownie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. **Czas trwania nie jest punktowany**: film dwudziestominutowy i dziewięćdziesięciominutowy oceniamy tą samą kartą, a Forma obejmuje to, czy czas trwania jest uzasadniony konstrukcją filmu. Przy równej liczbie punktów rozstrzyga Teza, potem Forma, a dalej głos przewodniczącego jury.
 
 ## <!--ikona:uczestnik--><span>Kto ocenia</span>
 
-**Wszystkie zgłoszenia, które przeszły ocenę formalną, ogląda akademia filmu** i przekazuje jury listę wyłonioną według zasad ogłoszonych przed naborem. Ocenia tą samą kartą oceny co jury.
-
-**Jury wybiera pięciu finalistów i ustala kolejność trójki.** Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem. Oceniający wyłącza się od oceny zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę.
+<div class="kafle jedna-kolumna">
+<article>
+<h3>Akademia filmu</h3>
+<p><strong>Wszystkie zgłoszenia, które przeszły ocenę formalną, ogląda akademia filmu</strong> i przekazuje jury listę wyłonioną według zasad ogłoszonych przed naborem. Ocenia tą samą kartą oceny co jury.</p>
+</article>
+<article>
+<h3>Jury</h3>
+<p><strong>Jury wybiera pięciu finalistów i ustala kolejność trójki.</strong> Składa się z praktyków filmu; nie ma w nim przedstawicieli organizatora. Skład ogłaszamy przed naborem, a oceniający wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
+</article>
+</div>
 
 ## <!--ikona:moneta--><span>Nagrody</span>
 
@@ -90,14 +114,14 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury. Tłoczone dyplomy odbiera cała piątka finalistów.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury. Dyplomy odbiera cała piątka finalistów.</p>
 </article>
 <article>
 <h3>Nagroda Publiczności</h3>
 <p>Otwarte głosowanie, niezależne od werdyktu jury: jeden głos na numer telefonu, liczniki ukryte do gali.</p>
 </article>
 <article>
-<h3>Minutowa emisja na gali</h3>
+<h3>Minutowy skrót na gali</h3>
 <p>Dla każdego z pięciu filmów finałowych. Fragment wybierasz sam, w terminie nie krótszym niż 14 dni od zawiadomienia.</p>
 </article>
 </div>
@@ -118,20 +142,34 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 **Zgłoszenie możesz wycofać** nie później niż 14 dni przed galą. Później nie jest to możliwe, bo fragmenty filmów finałowych są wtedy zmontowane w materiał galowy.
 
-## <!--ikona:harmonogram--><span>Gala i terminy</span>
+## <!--ikona:iskra--><span>Gala</span>
 
-- **1 stycznia 2027** - planowane otwarcie naboru, po zabezpieczeniu finansowania
-- **30 listopada 2027** - zamknięcie naboru. Film musi być ukończony najpóźniej w dniu zgłoszenia.
-- **Styczeń 2028** - pierwsze przejście oceny przez akademię filmu
-- **Luty 2028** - werdykt jury. Finaliści dowiadują się wcześniej, bo wybierają fragment, ale kolejności trójki nie znają do gali.
-- **Druga połowa kwietnia 2028** - gala rozdania nagród, werdykty wszystkich plebiscytów
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a każdy z pięciu filmów finałowych dostaje minutowy skrót z fragmentem wybranym przez autora.
 
 Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż pięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
+## <!--ikona:harmonogram--><span>Harmonogram</span>
+
+<dl class="harmonogram">
+<div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
+<div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
+<div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo wybierają fragment, ale kolejności trójki nie znają do gali</small></dd></div>
+<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
+</dl>
+
+Pełne zasady są w [regulaminie](/dokument/regulamin-filmu) wraz z kartą oceny. Dokument czeka na przegląd prawny, więc część zapisów może się jeszcze zmienić - na końcu wypisaliśmy, które to miejsca.
+
 ## <!--ikona:koperta--><span>Kontakt</span>
 
-Pytania, wątpliwości, zgłoszenie zainteresowania naborem: **plebiscyt.filmu@konstela.org**.
+Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.filmu@konstela.org**.
 
-Jeśli prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury i widzisz tu coś dla swoich ludzi - też napisz.
+Napisz, jeśli:
+
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
+- **kręcisz i masz pytanie** o zasady, terminy albo sposób zgłoszenia
+- **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
+
+Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
 Jeśli reprezentujesz dystrybutora, sieć kin, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.

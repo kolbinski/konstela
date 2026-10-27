@@ -111,7 +111,7 @@ Tekst ma najwyższą wagę, bo to plebiscyt, w którym oceniamy również pisani
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury. Tłoczone dyplomy odbiera cała dziesiątka finalistów.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury. Dyplomy odbiera cała dziesiątka finalistów.</p>
 </article>
 <article>
 <h3>Nagroda Publiczności</h3>

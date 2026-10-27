@@ -117,7 +117,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych prac z werdyktu jury. Tłoczone dyplomy odbiera cała dziesiątka finalistów.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych prac z werdyktu jury. Dyplomy odbiera cała dziesiątka finalistów.</p>
 </article>
 <article>
 <h3>Nagroda Publiczności</h3>
