@@ -179,7 +179,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samej rozmowie - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
-Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w razie przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
+Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
 <h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i archiwum</span></h2>
 
