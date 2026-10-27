@@ -9,14 +9,14 @@ Konkurs na **rozmowę z AI, po której zostaje coś więcej niż odpowiedź** - 
 
 Zgłaszasz rozmowę, którą sam odbyłeś: dowolną, którą da się udostępnić pod linkiem generowanym przez czat AI.
 
-Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego, czego dotyczyła rozmowa oraz dlaczego jest warta nagrody głównej.
+Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego, do czego w tej rozmowie doszedłeś, oraz dlaczego jest warta nagrody głównej.
 
 **W skrócie:**
 
-- **nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury;
-- obok niej przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury;
-- **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego;
-- wszystkie zgłoszenia trafiają do **czytelni**, a po werdykcie do publicznego archiwum.
+- **nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
+- obok niej przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
+- **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego
+- wszystkie zgłoszenia trafiają do **czytelni**, a po werdykcie do publicznego archiwum
 
 ## <!--ikona:konstelacja--><span>Dlaczego nagradzamy człowieka</span>
 
