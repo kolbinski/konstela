@@ -223,7 +223,7 @@ Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, 
 
 ### Nagranie studyjne też zostaje Twoje
 
-**Finansujemy je, ale nie zostawiamy sobie do niego praw** i nie bierzemy procentu od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody.
+**Finansujemy je, ale nie zostawiamy sobie do niego praw** i nie bierzemy prowizji od tego, co zarobisz na streamingu czy na sprzedaży. Prawa do nagrania przechodzą na Ciebie jako część nagrody.
 
 ### Czego potrzebujemy od Ciebie
 
