@@ -110,7 +110,7 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 
 ### Tekst wolno napisać z AI
 
-**Trzeba tylko powiedzieć jak.** Przegadałeś z AI temat, poprosiłeś o wersję tekstu i przepisałeś ją po swojemu - dozwolone. Wziąłeś wygenerowaną wersję bez zmian - też dozwolone, byle deklaracja tak mówiła. Nie ma progu własnej pracy, jest obowiązek prawdziwej deklaracji. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja służy jawności, nie punktacji. Tekst napisany z AI i tekst napisany bez niej idą do oceny na tych samych zasadach. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
+**Trzeba tylko powiedzieć jak.** Przegadałeś z AI temat, o jakim chcesz zaśpiewać, poprosiłeś o wersję tekstu i przepisałeś ją po swojemu - dozwolone. Wziąłeś wygenerowaną wersję bez zmian - też dozwolone, ważne, aby w zgłoszeniu była taka Twoja deklaracja. Nie ma progu własnej pracy, jest obowiązek prawdziwej deklaracji. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja służy jawności, nie punktacji. Tekst napisany z AI i tekst napisany bez niej idą do oceny na tych samych zasadach. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
 
 ### Produkcja i obróbka
 
