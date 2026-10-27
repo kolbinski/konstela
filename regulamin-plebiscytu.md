@@ -198,7 +198,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Honorarium za ocenę jest odrębne od ewentualnego honorarium za udział w nagraniu hymnu i za wykonanie na gali.
 
-4. Jury wybiera **dziesięciu finalistów** spośród listy przekazanej przez akademię plebiscytu (ust. 5), a spośród finalistów ustala kolejność trzech najwyżej ocenionych utworów.
+4. Jury wybiera **dziesięciu finalistów** spośród listy przekazanej przez akademię plebiscytu (ust. 5) i **ustala kolejność całej dziesiątki**. Nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w archiwum.
 
 5. **Pierwsze przejście oceny przeprowadza akademia plebiscytu, powoływana w każdej edycji** - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
 

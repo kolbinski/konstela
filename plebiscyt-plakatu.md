@@ -130,11 +130,11 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 <h2 id="kto-ocenia"><!--ikona:jury--><span>Jury i tryb oceny</span></h2>
 
-**Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo spośród listy zakwalifikowanej przez akademię plakatu, zależnie od trybu ogłoszonego przed naborem - a spośród finalistów ustala kolejność trzech najwyżej ocenionych prac.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
+**Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo spośród listy zakwalifikowanej przez akademię plakatu, zależnie od trybu ogłoszonego przed naborem - a następnie ustala kolejność całej dziesiątki.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
 
 **Składu jury jeszcze nie ma i nie wymieniamy nikogo, dopóki nie potwierdzi udziału.** Zapowiadamy natomiast zasadę: w jury zasiadają praktycy plakatu i ilustracji, a nie przedstawiciele organizatora.
 
-**Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i kolejność trójki ustala zawsze jury. Próg powołania akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
+**Akademię plakatu powołujemy, jeżeli zgłoszeń będzie bardzo dużo** - to szersze grono praktyków, które ogląda wszystkie zgłoszenia i przekazuje jury listę węższą, oceniając według tej samej karty oceny. Dziesiątkę finalistów i jej kolejność ustala zawsze jury. Próg powołania akademii podajemy przed otwarciem naboru i nie zmieniamy go w trakcie - tak samo jak w plebiscycie na rozmowę z AI i w plebiscycie piosenki.
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 

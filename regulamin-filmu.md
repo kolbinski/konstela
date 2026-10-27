@@ -233,7 +233,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 4a. **Zasady pracy akademii** Organizator ogłasza przed otwarciem naboru i nie zmienia ich w trakcie: liczebność akademii, liczbę niezależnych obejrzeń przypadających na jeden film, sposób łączenia ocen w wynik zgłoszenia, liczebność listy węższej oraz sposób rozstrzygania równej liczby punktów na jej granicy.
 
-5. **Jury wybiera dziesięciu finalistów i ustala kolejność trzech najwyżej ocenionych filmów.**
+5. **Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** Nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w archiwum.
 
 5a. **Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów**, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Górny limit jest podany po to, aby nakład pracy jury dał się ustalić przed powołaniem składu; jeżeli zgłoszeń spełniających wymogi formalne będzie mniej, jury ocenia wszystkie.
 
@@ -281,7 +281,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 4a. **Organizator nie uczestniczy w przychodach z pokazów kinowych.** Zestaw filmów składa Organizator, natomiast **umowę z dystrybutorem zawiera Uczestnik** i jemu przysługują wpływy z pokazów oraz z dalszej eksploatacji filmu; Organizator nie nabywa praw dystrybucyjnych (§ 12 ust. 3) i nie pobiera udziału w tych wpływach ani prowizji od ich pozyskania. Organizator może natomiast uzgodnić z dystrybutorem pokrycie kosztów przygotowania zestawu, w szczególności opracowania technicznego kopii, napisów i materiałów informacyjnych; uzgodnienie to nie obciąża Uczestnika i nie zmniejsza jego wpływów. Konstrukcja jest ta sama co przy płycie w plebiscycie na piosenkę: Organizator finansuje przygotowanie materiału, prawa i przychody pozostają przy twórcy, a wydanie albo pokaz jest rolą podmiotu zewnętrznego.
 
-5. Werdykt ogłaszany jest publicznie podczas gali. Finaliści dowiadują się o zakwalifikowaniu wcześniej, ponieważ Organizator zaprasza ich na galę i ustala z nimi dojazd, i zachowują wiedzę o tym w poufności; **kolejności trzech najwyżej ocenionych filmów Organizator nie ujawnia finalistom przed galą**.
+5. Werdykt ogłaszany jest publicznie podczas gali. Finaliści dowiadują się o zakwalifikowaniu wcześniej, ponieważ Organizator zaprasza ich na galę i ustala z nimi dojazd, i zachowują wiedzę o tym w poufności; **kolejności finalistów Organizator nie ujawnia nikomu przed galą**.
 
 ## § 11. Projektornia i archiwum
 

@@ -182,7 +182,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
 
-4b. Po oględzinach oryginałów jury ustala **pełny werdykt, w tym kolejność trzech najwyżej ocenionych prac**; pracę finalisty, który nie przesłał oryginału, jury ocenia na podstawie reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu.
+4b. Po oględzinach oryginałów jury ustala **pełny werdykt, w tym kolejność całej dziesiątki finalistów**; nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w archiwum; pracę finalisty, który nie przesłał oryginału, jury ocenia na podstawie reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu.
 
 4c. **Werdykt zapada przed galą**, w terminie pozwalającym na przygotowanie i wydrukowanie antologii z okładką opartą na pracy zwycięskiej. Organizator zawiadamia o nim laureatów niezwłocznie; laureaci zachowują werdykt w poufności do chwili jego publicznego ogłoszenia.
 
