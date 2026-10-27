@@ -211,7 +211,11 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h3 id="archiwum">Archiwum</h3>
 
-**Po gali rozdania nagród Słuchalnia zamienia się w Archiwum**, dostępne bezpłatnie i bez ograniczeń. Archiwum różni się od Słuchalni trzema rzeczami: **nie rośnie** - lista zgłoszeń zamyka się w dniu werdyktu i nic już do niej nie dochodzi; **zostaje na stałe**, bez planowanego terminu zamknięcia, podczas gdy Słuchalnia żyje tylko przez jedną edycję; i **ma przy wpisach rok edycji**, żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. Sama zawartość wpisu się nie zmienia: okładka, tytuł, podpis, deklaracja, kontakt do autora i link do nagrania. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
+**Po gali rozdania nagród Słuchalnia zamienia się w Archiwum**, dostępne bezpłatnie i bez ograniczeń. Archiwum różni się od Słuchalni trzema rzeczami: **nie rośnie** - lista zgłoszeń zamyka się w dniu werdyktu i nic już do niej nie dochodzi; **zostaje na stałe**, bez planowanego terminu zamknięcia, podczas gdy Słuchalnia żyje tylko przez jedną edycję; i **ma przy wpisach rok edycji**, żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. Do wpisu dochodzi też **punktacja** wystawiona przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
+
+### Jawność punktacji
+
+**Jawność ocen - wystawionych przez akademię, jury i publiczność - dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojej piosenki</span>
 

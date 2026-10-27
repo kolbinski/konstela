@@ -252,7 +252,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 
-3. Z chwilą publicznego ogłoszenia werdyktu podczas gali Galeria edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji.
+3. Z chwilą publicznego ogłoszenia werdyktu podczas gali Galeria edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
 4. Uczestnik może w każdej chwili żądać usunięcia swojego wpisu z Archiwum; Organizator usuwa go w terminie 14 dni od żądania.
 

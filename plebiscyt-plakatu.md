@@ -179,7 +179,11 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 **Prace, które przeszły sprawdzenie formalne, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
 
-**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
+**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję - oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
+
+### Jawność punktacji
+
+**Jawność ocen - wystawionych przez akademię, jury i publiczność - dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego plakatu</span>
 
