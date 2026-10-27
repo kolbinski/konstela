@@ -142,7 +142,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 ### Czytelnia
 
-Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każde zgłoszenie trafia na czytelnię: listę, która rośnie przez cały rok naboru i którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora, link, opis odkrycia oraz uzasadnienie, dlaczego zgłoszona rozmowa jest warta nagrody głównej. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
+Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każde zgłoszenie trafia do czytelni: listy, która rośnie przez cały rok naboru i którą może czytać każdy. Widać na niej tytuł rozmowy, podpis autora, link, opis odkrycia oraz uzasadnienie, dlaczego zgłoszona rozmowa jest warta nagrody głównej. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
 
 ### Bez liczników i bez konta
 
