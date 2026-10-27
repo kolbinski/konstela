@@ -163,17 +163,29 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 Kwalifikacja do dystrybucji kinowej dziesięciu filmów najwyżej ocenionych przez jury oznacza, że zgłoszony film wchodzi do zestawu, który kierujemy do pokazów w kinach, **pod warunkiem znalezienia dystrybutora**. Jeżeli się uda, pytamy autorów o zgodę, a odmowa nie wpływa ani na ocenę, ani na nagrodę.
 
-**Pieniądze z biletów są Twoje.** Rozwiązujemy to tak samo jak płytę w [plebiscycie na piosenkę](/plebiscyt-piosenki): zestaw składamy my, ale **umowę z dystrybutorem zawierasz Ty, nie my**, i Tobie przysługują wpływy z pokazów oraz z późniejszej eksploatacji filmu. Nie nabywamy praw dystrybucyjnych, nie bierzemy procentu od biletów i nie pobieramy prowizji za to, że dystrybutora znaleźliśmy.
-
-**Co możemy wziąć od dystrybutora.** Koszty przygotowania zestawu - opracowanie techniczne kopii, napisy, materiały informacyjne - ponosimy my, więc możemy uzgodnić z dystrybutorem ich pokrycie. To uzgodnienie jest między nami a nim: nie obciąża Cię i nie zmniejsza Twoich wpływów.
+**Pieniądze z biletów są Twoje.** Rozwiązujemy to tak samo jak płytę w [plebiscycie na piosenkę](/plebiscyt-piosenki): zestaw składamy my, ale **umowę z dystrybutorem zawierasz Ty, nie my**, i Tobie przysługują wpływy z pokazów oraz z późniejszej eksploatacji filmu. Nie nabywamy praw dystrybucyjnych, nie bierzemy prowizji od sprzedaży biletów i nie pobieramy prowizji za to, że dystrybutora znaleźliśmy.
 
 <h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i archiwum</span></h2>
 
-Przez cały nabór prowadzimy **Projektornię** - publiczną listę zgłoszeń przyjętych do plebiscytu. Wpis pojawia się po przejściu weryfikacji formalnej, a kolejność wyznacza wyłącznie data zgłoszenia: nie ma rankingu, liczników odsłon ani popularności.
+### Projektornia
 
-**Projektornia jest katalogiem, nie repozytorium.** Kopii filmów u siebie nie przechowujemy: we wpisie stoi tytuł, podpis, miniatura, zwiastun, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi i link do filmu. Film i zwiastun odtwarzają się z Twojego kanału, więc usunięcie ich stamtąd jest skuteczne natychmiast i nie wymaga niczyjej zgody.
+Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każdy film trafia do Projektorni: listy, która rośnie przez cały rok naboru i którą może przeglądać każdy. Każdy film w Projektorni ma tytuł, podpis autora, link do zwiastuna i do filmu, miniaturę, czas trwania, opis, uzasadnienie, dlaczego jest warty nagrody głównej, oraz deklarację użycia narzędzi sztucznej inteligencji. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
 
-Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępnego bezpłatnie i bez ograniczeń. Punktacja w archiwum jest jawna dla wszystkich zgłoszeń.
+### Katalog, nie repozytorium
+
+Film i zwiastun odtwarzają się z Twojego kanału, bo kopii u siebie nie przechowujemy. Usunięcie ich stamtąd jest więc skuteczne natychmiast i nie wymaga niczyjej zgody - ale ma skutki dla zgłoszenia: przed zamknięciem naboru oznacza wycofanie, między zamknięciem a werdyktem koniec oceny, a między werdyktem a galą wyłączenie z głosowania publiczności, bez utraty nagrody. Po gali usunięcie filmu nie zmienia już niczego.
+
+### Bez liczników i bez konta
+
+W Projektorni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona oglądaniem, a przy ocenianiu przez akademię, jury i publiczność właśnie tego chcemy uniknąć. Film można oznaczyć gwiazdką i wrócić do niego później; gwiazdki zostają w przeglądarce widza i nigdy nie trafiają do nas. Listę filmów oznaczonych gwiazdką można wyeksportować i wczytać na innym urządzeniu; korzystanie z Projektorni nie wymaga konta.
+
+### Archiwum
+
+Po ogłoszeniu wyników Projektornia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim wszystko to, co było we wpisie, wraz z rokiem edycji, a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
+
+### Jawność punktacji
+
+**Jawność ocen - wystawionych przez akademię, jury i publiczność - dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
