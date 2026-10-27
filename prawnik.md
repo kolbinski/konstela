@@ -116,6 +116,7 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 23. Czy objęcie wydania **płatnego** jedną nieodpłatną licencją udzielaną przy zgłoszeniu jest skuteczne wobec konsumenta, czy wymaga odrębnego zastrzeżenia albo osobnego dokumentu.
 24. Czy zapis o **udzieleniu dalszej licencji wydawcy** (sublicencji) w § 11 ust. 3 wystarczy, czy przy umowie z wydawcą konieczne będą odrębne umowy z każdym z dziesięciu uczestników.
 25. Czy przeznaczenie przychodu na pulę kolejnej edycji wymaga szczególnej konstrukcji księgowej albo prawnej po stronie fundacji.
+25a. **Pobieranie pojedynczych rozmow z archiwum (dodane 27.10.2026).** Strona plebiscytu zapowiada, że zgłoszone rozmowy będzie można czytać w wygodnym formacie - na stronie, jako e-book albo plik do wydruku. Licencja z § 11 ust. 3 obejmuje prezentację w czytelni, w archiwum i publikację w antologii, lecz nie wymienia udostępniania pojedynczych zgłoszeń do pobrania w postaci plików. Pytania: czy obecny zakres licencji to obejmuje; jeżeli nie, jak sformułować rozszerzenie, aby nie wymagało odrębnej zgody każdego uczestnika; czy udostępnienie pliku do pobrania zmienia ocenę pytania 39 o kopię archiwalną.
 26. Czy brak podziału tantiem między autorów jest dopuszczalny przy nieodpłatnej licencji, skoro wydanie jest płatne, i co trzeba powiedzieć uczestnikowi przy zgłoszeniu, żeby było to uczciwe i skuteczne.
 27. Jakie obowiązki wiążą się z wydaniem książkowym po stronie organizatora: ISBN, egzemplarz obowiązkowy, odpowiedzialność wydawcy za treść.
 
