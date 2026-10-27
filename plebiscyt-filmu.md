@@ -14,19 +14,29 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - zgłaszasz **link do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
-- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym archiwum**
+- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [archiwum](#projektornia)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** - tych samych, które zgłosiłeś
 - nabór zamykamy **30 listopada 2027**
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
+### Cztery plebiscyty, jedna Nagroda
+
 **Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali: na [rozmowę](/plebiscyt-rozmowy), [film](/plebiscyt-filmu), [piosenkę](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu).
+
+### Dotąd nagradzano maszyny
 
 Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
 
-A to on decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy zestawił ze sobą wątki, które z pozoru do siebie nie pasują. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
+### Cała trudność leży w pytaniu
+
+A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy zestawił ze sobą wątki, które z pozoru do siebie nie pasują. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
+
+### Skąd nazwa
 
 Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
+
+### Kto za tym stoi
 
 Organizatorem będzie Fundacja Konstela, powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
 
@@ -58,9 +68,9 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ### Dwa linki: film i zwiastun
 
-**Zgłaszasz linki do publicznie dostępnego filmu i jego zwiastuna na YouTube.** Film musi być dostępny bez opłaty i bez zakładania konta, a link ma działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
+**Zgłaszasz linki do publicznie dostępnego filmu i jego zwiastuna na YouTube.** Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a link ma działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
 
-**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun pracuje w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun. Prosimy o niego dlatego, że katalog kilkuset tytułów bez ruchomego obrazu nikogo nie zatrzymuje, a Ty wiesz lepiej od nas, co z Twojego filmu pokazać.
+**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
 ### Wersja plebiscytowa
 
