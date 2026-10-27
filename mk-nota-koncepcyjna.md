@@ -159,7 +159,7 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 | Rola | Kwota netto | Co finansuje |
 |---|---:|---|
 | Fundator puli nagród | 534 876,80 zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie konkursu |
-| Sponsor gali | 35 168,00 zł | gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo i prowadzenie gali pozostają bez kwoty do wyboru miejsca |
+| Sponsor gali | 35 168,00 zł | gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru |
 | Partner wydawniczy lub sponsor organizacyjny | 292 422,00 zł | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu |
 | Sponsor akademii | 160 160,00 zł | pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń |
 | **Razem, pozycje obecnie wycenione** | **1 022 626,80 zł** | |
@@ -193,7 +193,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 | Wystawa przy gali | dziesięć prac finałowych pokazanych publicznie | 2028 | do wyceny | mecenas konkursu plakatu | **tak** |
 | Wystawa w galerii sztuki, otwierana wernisażem | te same prace pokazane po gali, jeżeli galeria zostanie pozyskana | 2028 | do wyceny | partner galerii | nie |
 | Plebiscyt filmu: nabór, ocena, nagrody, prowadzenie | konkurs, pięć filmów finałowych, Projektornia i archiwum | 2027-2028 | 255 800,00 zł | sponsor plebiscytu filmu | **tak** |
-| Minutowe emisje na gali, a przy pozyskaniu sali także pełne pokazy filmów finałowych | pięć filmów pokazanych publicznie | 2028 | do wyceny | sponsor plebiscytu filmu | **tak** |
+| Zwiastuny piątki na gali, a przy pozyskaniu sali także pełne pokazy filmów finałowych | pięć filmów pokazanych publicznie | 2028 | do wyceny | sponsor plebiscytu filmu | **tak** |
 | Podcast, dwadzieścia cztery odcinki | bezpłatny materiał edukacyjny | 2027 | do wyceny | sponsor Antologii | nie |
 
 **Czym ten budżet jest, a czym nie jest.** Jest to budżet przygotowany dla partnerów prywatnych, a nie kosztorys wydatków kwalifikowanych programu: zawiera narzut wykonawcy i doliczany automatycznie VAT. Ewentualny wniosek zostanie opracowany według zasad właściwego programu, z uwzględnieniem statusu VAT wnioskodawcy. Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
