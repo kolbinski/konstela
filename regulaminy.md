@@ -37,4 +37,7 @@ Kiedy oceniający oznacza w zgłoszeniu zastrzeżenie prawne, czego nie oznacza 
 **[Polityka prywatności](/dokument/polityka-prywatnosci)**
 Jakie dane zbieramy w każdym z czterech plebiscytów i w głosowaniu publiczności, po co, jak długo je trzymamy i co uczestnik może zmienić po zgłoszeniu.
 
+**[Fundacja Konstela](/fundacja)**
+Podmiot prowadzący Nagrodę: na jakim jest etapie, jakie ma cele statutowe, jak jest zbudowana i skąd bierze pieniądze.
+
 Pytania o konkretny plebiscyt najlepiej kierować na jego własny adres, podany na jego podstronie. W sprawach całej Nagrody i w sprawach wymienionych w regulaminach: **kontakt@konstela.org**.

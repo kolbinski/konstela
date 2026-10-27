@@ -98,6 +98,7 @@ const PUBLICZNE = new Set([
   'procedura-moderacji',
   'regulaminy',
   'hymn',
+  'fundacja',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
@@ -108,6 +109,7 @@ const DEDYKOWANE = {
   'plebiscyt-plakatu': 'plebiscyt-plakatu',
   'plebiscyt-filmu': 'plebiscyt-filmu',
   hymn: 'hymn',
+  fundacja: 'fundacja',
 };
 
 /* Opisy stron publicznych pisane ręcznie. Dokumenty prawne zaczynają się od
@@ -144,6 +146,8 @@ const OPISY = {
     'Pełne zasady plebiscytu na film o sztucznej inteligencji: kto może zgłosić film, dlaczego nie ma tu zakazu użycia narzędzi AI, a jest obowiązek deklaracji, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do filmu.',
   hymn:
     'Hymn Nagrody Konstela „Zapytaj inaczej": pełny tekst, dwie wersje wygenerowane przez AI i zasada, której hymn podlega tak samo jak zgłoszenia - melodia pochodzi od człowieka.',
+  fundacja:
+    'Fundacja Konstela - podmiot prowadzący Nagrodę: na jakim jest etapie, jakie ma cele statutowe, jak jest zbudowana, skąd bierze pieniądze i jak się z nią skontaktować.',
   'regulamin-plakatu':
     'Pełne zasady konkursu na plakat o sztucznej inteligencji: kto może zgłosić pracę, na czym polega wymóg ręcznego wykonania, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do plakatu.',
 };
