@@ -225,6 +225,8 @@ Jeśli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć,
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
 </dl>
 
+Pełne zasady są w [regulaminie](/dokument/regulamin-filmu) wraz z [kartą oceny](/dokument/regulamin-filmu#karta-oceny).
+
 ## <!--ikona:koperta--><span>Kontakt</span>
 
 Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.filmu@konstela.org**.
