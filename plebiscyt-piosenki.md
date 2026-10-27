@@ -6,13 +6,11 @@
 
 Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje", rozstrzyga [sekcja o zasadach](#zasady) - melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła - to, co w tym powiesz, jest częścią tego, co oceniamy.
 
-**Zespoły i duety są jak najbardziej mile widziane.** „Własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa.
-
-**Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną działalność artystyczną - tych, którzy grają, śpiewają i piszą po swojemu. Nie pytamy o zasięgi, o dorobek ani o to, czy masz kontrakt.
-
-**Jak to przebiega, w skrócie:**
+**W skrócie:**
 
 - **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione utwory, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
+- **zespoły i duety są jak najbardziej mile widziane** - „własne" znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa
+- szczególnie zapraszamy **twórców rozwijających własną działalność artystyczną** - tych, którzy grają, śpiewają i piszą po swojemu; nie pytamy o zasięgi, o dorobek ani o to, czy masz kontrakt
 - zgłaszasz **czytelne demo**, nie gotowy singiel - głos i instrument wystarczą
 - wszystkich zgłoszeń słucha **akademia piosenki**, a najwyżej ocenione utwory przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
