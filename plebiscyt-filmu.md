@@ -49,9 +49,9 @@ Plebiscyt na film jest jednym z czterech plebiscytów Nagrody Konstela, rozstrzy
 
 **Ocenie podlega wersja filmu dostępna pod odnośnikiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; po werdykcie nie odbiera nagrody. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego odnośnika.
 
-Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 3 do 10 zdań** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie są punktowane.
+Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie są punktowane.
 
-**Dlaczego warte nagrody głównej.** Do 5 zdań o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
+**Dlaczego warte nagrody głównej.** Do 700 znaków o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Projektorni w czasie naboru i w archiwum po werdykcie.
 
 Formularz pojawi się na tej stronie w dniu ogłoszenia naboru.
 

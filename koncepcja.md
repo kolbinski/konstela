@@ -80,7 +80,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 - **Bez osób prywatnych** - zasada o temacie, nie o anonimizacji: rozmowa o kimś nieznanym publicznie odpada nawet pod inicjałem. Konsekwencja: odpadają rozmowy o relacjach, rodzinie i konfliktach w pracy, czyli spora część realnych zastosowań. Zostają tematy, które da się opublikować, co jest spójne z antologią jako produktem.
 - **Pełnoletni, mieszkający w Polsce.** Udział bezpłatny, jedno zgłoszenie na osobę, tylko własna rozmowa.
 - **Zgłoszenie musi być kompletne w chwili wpływu.** Brak wezwań do uzupełnienia; do upływu terminu można przysłać wersję poprawioną, która zastępuje poprzednią.
-- **Opis odkrycia (3-10 zdań)** jest obowiązkowy i czytany przez jury **przed** rozmową.
+- **Opis odkrycia (200-1500 znaków)** jest obowiązkowy i czytany przez jury **przed** rozmową.
 
 ## Edycja pierwsza - ustalenia operacyjne
 

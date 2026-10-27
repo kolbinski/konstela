@@ -78,7 +78,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    c) **okładkę** - jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
 
-   c1) **dlaczego warte nagrody głównej** - do 5 zdań własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
+   c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
    d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 

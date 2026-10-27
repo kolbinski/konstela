@@ -51,7 +51,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 **Co dochodzi i wymaga wyceny:**
 
-**Czytelnia zgłoszeń - cały 2027.** Lista, która rośnie przez rok: imię i nazwisko albo pseudonim, link do rozmowy opublikowany przez uczestnika, opis odkrycia (3-10 zdań). **Kolejność wyłącznie po dacie zgłoszenia, bez sortowania i bez wyróżniania.** Przeczytane oznaczane lokalnie. Obecność na czytelni jest warunkiem udziału; wpis pojawia się po przejściu oceny formalnej. **To jest odpowiedź na zarzut o rozwodnieniu rocznego okna** - strona ma wreszcie powód, by na nią wracać.
+**Czytelnia zgłoszeń - cały 2027.** Lista, która rośnie przez rok: imię i nazwisko albo pseudonim, link do rozmowy opublikowany przez uczestnika, opis odkrycia (200-1500 znaków). **Kolejność wyłącznie po dacie zgłoszenia, bez sortowania i bez wyróżniania.** Przeczytane oznaczane lokalnie. Obecność na czytelni jest warunkiem udziału; wpis pojawia się po przejściu oceny formalnej. **To jest odpowiedź na zarzut o rozwodnieniu rocznego okna** - strona ma wreszcie powód, by na nią wracać.
 
 **Półka z gwiazdkami.** Czytelnik oznacza rozmowy, do których chce wrócić, i w styczniu 2028 wybiera z własnej półki. **Gwiazdki zostają na urządzeniu i nigdy nie trafiają na serwer** - inaczej powstałby żywy licznik popularności. Potrzebny eksport i import półki, bo rok zbierania ginie przy wyczyszczeniu przeglądarki, a kont nie ma i nie będzie.
 

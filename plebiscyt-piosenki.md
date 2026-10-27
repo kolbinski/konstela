@@ -54,7 +54,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Do tego jedna okładka.** Kwadratowy obrazek, JPG albo PNG, bok od 800 do 3000 pikseli, do 5 MB. To on reprezentuje Twoją piosenkę w Słuchalni i w archiwum. Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładki nie oceniamy.**
 
-**Dlaczego warte nagrody głównej.** Do 5 zdań o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Słuchalni w czasie naboru i w archiwum po gali.
+**Dlaczego warte nagrody głównej.** Do 700 znaków o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną - obowiązkowe we wszystkich czterech plebiscytach Nagrody. Tekst **nie jest punktowany** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w Słuchalni w czasie naboru i w archiwum po gali.
 
 **Jedno zgłoszenie na osobę**, potwierdzane kodem z SMS. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń. Pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta.
 

@@ -54,7 +54,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłosz
 
    c) tytuł pracy oraz imię i nazwisko albo pseudonim, pod którym zgłoszenie ma być prezentowane;
 
-   c1) **dlaczego warte nagrody głównej** - do 5 zdań własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Galerii i w archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
+   c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Galerii i w archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
 
    d) technikę, wymiary oryginału i rok powstania;
 

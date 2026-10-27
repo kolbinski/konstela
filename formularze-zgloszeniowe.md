@@ -17,7 +17,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Oświadczenie o prawach do zgłoszonego materiału | obowiązkowe | zaznaczenie pola |
 | Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech |
 | Deklaracja pochodzenia materiału | obowiązkowe | treść jest inna w każdej kategorii - patrz niżej |
-| Dlaczego warte nagrody głównej: do 5 zdań | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (czytelnia, Projektornia, Słuchalnia, Galeria) i w archiwum; nie podlega punktacji w żadnym kryterium |
+| Dlaczego warte nagrody głównej: do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (czytelnia, Projektornia, Słuchalnia, Galeria) i w archiwum; nie podlega punktacji w żadnym kryterium |
 
 **Czego nie ma w żadnym formularzu:** numeru PESEL, adresu zamieszkania, danych bankowych, dokumentu tożsamości, pytań o dorobek, wykształcenie, zasięgi ani przynależność do organizacji twórczych.
 
@@ -29,7 +29,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 |---|---|
 | Link do udostępnionej rozmowy, wygenerowany po stronie dostawcy modelu | obowiązkowe |
 | Ilustracja rozmowy: JPG albo PNG, proporcje 9:16, krótszy bok 1080-2160 px, do 5 MB | obowiązkowe |
-| Opis odkrycia: 3-10 zdań o tym, do czego Uczestnik doszedł, ze wskazaniem miejsca w rozmowie | obowiązkowe |
+| Opis odkrycia: 200-1500 znaków o tym, do czego Uczestnik doszedł, ze wskazaniem miejsca w rozmowie | obowiązkowe |
 | Metryczka rozmowy: nazwa modelu i dostawcy, data pierwszej i ostatniej wypowiedzi | obowiązkowe |
 | Deklaracja załączników: czy w rozmowie wgrywano pliki, jakiego rodzaju i czy ich treść widać pod linkiem | obowiązkowe |
 | Miejscowość | obowiązkowe, niepublikowana |
@@ -46,7 +46,7 @@ Odrębności: wiek od 18 lat, więc nie ma zgody opiekuna. Nie ma zgłoszeń zes
 | Czas trwania | obowiązkowe |
 | Data ukończenia filmu | obowiązkowe |
 | Miniatura: JPG albo PNG, 16:9, dłuższy bok 1280-3840 px, do 5 MB | obowiązkowe |
-| Opis filmu: 3-10 zdań | obowiązkowe, bez punktacji |
+| Opis filmu: 200-1500 znaków | obowiązkowe, bez punktacji |
 | Deklaracja użycia narzędzi sztucznej inteligencji | obowiązkowe |
 | Nazwa składu twórczego | nieobowiązkowe |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat | warunkowe |
@@ -87,5 +87,4 @@ Odrębności: wiek od 16 lat. Nagranie jest jedynym polem w czterech formularzac
 - **Jedno pole podpisu czy dwa.** Dziś regulaminy mówią o imieniu i nazwisku oraz osobno o pseudonimie. W formularzu czytelniejszy jest wybór podpisu z dwóch opcji niż dwa pola tekstowe obok siebie.
 - **Zgoda opiekuna**: plik do wgrania czy oświadczenie z danymi opiekuna i jego potwierdzeniem - trzy regulaminy mówią o zgodzie pisemnej, nie przesądzając formy.
 - **Deklaracja AI**: pole opisowe czy zestaw pytań z polem na uzupełnienie. Przy filmie i piosence deklaracja jest publikowana, więc jej forma wpływa na wygląd katalogu.
-- **Limity znaków** dla opisów i deklaracji, dziś określone zdaniami, a nie liczbą znaków, poza tytułami.
 - **Pole „dlaczego warte nagrody głównej" jest publiczne**, więc formularz musi to powiedzieć przy samym polu, a nie w regulaminie. Przy rozmowie dochodzi druga rzecz do powiedzenia wprost: tekst nie jest punktowany, ale czyta go także oceniający, bo zasłanianie publicznego pola w panelu byłoby pozorne.

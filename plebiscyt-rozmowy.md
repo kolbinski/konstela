@@ -45,7 +45,7 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
-**Tytuł i kilka zdań o tym, co odkryłeś.** Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego **„dlaczego warte nagrody głównej"** - do 5 zdań o tym, dlaczego akurat ta rozmowa. Ani tytuł, ani opis, ani to uzasadnienie nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum. Bez nich zgłoszenie odpada na starcie.
+**Tytuł i krótki opis tego, co odkryłeś.** Rozmowę tytułujesz sam, a do zgłoszenia dołączasz opis: do czego doszedłeś i w którym jej miejscu to się stało. Dochodzi do tego **„dlaczego warte nagrody głównej"** - do 700 znaków o tym, dlaczego akurat ta rozmowa. Ani tytuł, ani opis, ani to uzasadnienie nie są punktowane - oceniana jest rozmowa, a nie umiejętność jej zareklamowania. Wszystkie trzy widać publicznie w czytelni i w archiwum. Bez nich zgłoszenie odpada na starcie.
 
 **Ilustracja rozmowy.** Do zgłoszenia dołączasz jeden pionowy obrazek w proporcjach 9:16 - JPG albo PNG, krótszy bok od 1080 do 2160 pikseli, do 5 MB. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Ilustracji nie oceniamy w żadnym kryterium.
 

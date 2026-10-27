@@ -71,9 +71,9 @@
 
    d) **miniaturę** - jeden plik graficzny w formacie JPG albo PNG, o proporcjach 16:9, o dłuższym boku nie mniejszym niż 1280 i nie większym niż 3840 pikseli, o objętości do 5 MB. Miniatura jest prezentowana w Projektorni i w archiwum. **Może zostać wygenerowana przez narzędzie sztucznej inteligencji i nie podlega ocenie**;
 
-   e) **opis filmu** - od 3 do 10 zdań o tym, czego film dotyczy i co Uczestnik chciał w nim powiedzieć - obowiązkowe. **Nie podlega punktacji** w żadnym kryterium;
+   e) **opis filmu** - od 200 do 1500 znaków o tym, czego film dotyczy i co Uczestnik chciał w nim powiedzieć - obowiązkowe. **Nie podlega punktacji** w żadnym kryterium;
 
-   e1) **dlaczego warte nagrody głównej** - do 5 zdań własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w archiwum i **nie podlega punktacji** w żadnym kryterium;
+   e1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w archiwum i **nie podlega punktacji** w żadnym kryterium;
 
    f) **deklarację użycia narzędzi sztucznej inteligencji**, o której mowa w § 6 - obowiązkowe;
 

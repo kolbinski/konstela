@@ -17,7 +17,7 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 
 ## 2. Zgłoszenie
 
-Uczestnik przesyła: link do udostępnionej rozmowy, opis odkrycia (3-10 zdań), metryczkę (model, data), oświadczenia, deklarację załączników oraz wskazanie, czy rozmowa ma być podpisana nazwiskiem, czy pseudonimem. **Publikacja nie wymaga odrębnej zgody**: zgłoszenie oznacza udzielenie licencji na pięć lat (§ 11 ust. 3). **Zgłoszenie musi być kompletne od razu** - Organizator nie wzywa do uzupełnienia. Przed terminem można przysłać wersję poprawioną, która zastępuje poprzednią.
+Uczestnik przesyła: link do udostępnionej rozmowy, opis odkrycia (200-1500 znaków), metryczkę (model, data), oświadczenia, deklarację załączników oraz wskazanie, czy rozmowa ma być podpisana nazwiskiem, czy pseudonimem. **Publikacja nie wymaga odrębnej zgody**: zgłoszenie oznacza udzielenie licencji na pięć lat (§ 11 ust. 3). **Zgłoszenie musi być kompletne od razu** - Organizator nie wzywa do uzupełnienia. Przed terminem można przysłać wersję poprawioną, która zastępuje poprzednią.
 
 ## 3. Kopia archiwalna - natychmiast
 
