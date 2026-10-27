@@ -66,7 +66,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów p
 
 ### Pięć wymogów formalnych
 
-Bez nich zgłoszenie odpada jeszcze przed oceną:
+Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):
 
 - utwór trwa **od 3 do 6 minut**
 - **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i jury musi go rozumieć
@@ -155,7 +155,7 @@ Nie na zasadzie, że jury rozpozna generator po odsłuchu, bo to byłoby zgadywa
 
 Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [karta oceny](/dokument/regulamin-plebiscytu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
-## <!--ikona:jury--><span>Kto ocenia</span>
+<h2 id="kto-ocenia"><!--ikona:jury--><span>Kto ocenia</span></h2>
 
 <div class="kafle jedna-kolumna">
 <article>

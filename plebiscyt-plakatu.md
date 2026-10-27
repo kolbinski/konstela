@@ -58,7 +58,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 **Jedna praca.** Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy ma być pochwałą, czy ostrzeżeniem.
 
-**Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną:**
+**Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 
 - praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie
 - format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6
@@ -120,7 +120,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
-## <!--ikona:jury--><span>Jury i tryb oceny</span>
+<h2 id="kto-ocenia"><!--ikona:jury--><span>Jury i tryb oceny</span></h2>
 
 **Jury wybiera dziesięciu finalistów - spośród wszystkich zgłoszeń albo spośród listy zakwalifikowanej przez akademię plakatu, zależnie od trybu ogłoszonego przed naborem - a spośród finalistów ustala kolejność trzech najwyżej ocenionych prac.** Werdykt należy do jury, nie do głosowania publiczności; nagroda publiczności jest nagrodą odrębną.
 

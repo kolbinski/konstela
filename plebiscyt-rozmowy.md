@@ -55,7 +55,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 Zgłoszenia w plebiscycie mogą dokonać osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy - tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
 
-**Wymogi, przez które zgłoszenie może odpaść jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
+**Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 
 - **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy (share link). Link pokazuje wersję, którą udostępniłeś; nie zawiera edytowanych poleceń ani dopisanego dialogu z AI. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas trwania edycji plebiscytu. Wyklucza to narzędzia bez funkcji udostępniania
 - **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości
