@@ -11,6 +11,7 @@
     <link rel="manifest" href="/manifest.json" />
     <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-title" content="Nagroda Konstela" />
+    <meta name="color-scheme" content="light dark" />
     <meta
       name="theme-color"
       content="#f6f2e9"
@@ -22,8 +23,8 @@
       media="(prefers-color-scheme: dark)"
     />
     <meta name="robots" content="noindex, follow" />
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270744" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610270744" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610270746" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610270746" />
     <style>
       @font-face {
         font-family: 'Literata';
@@ -230,6 +231,9 @@
         --bg: var(--paper);
         --surface: var(--paper-raised);
         --max-w: 46rem;
+        /* Patrz assets/view.css: deklaracja obu motywów wyłącza wymuszanie
+           ciemnego tła przez przeglądarkę. */
+        color-scheme: light dark;
       }
 
       @media (prefers-color-scheme: dark) {
@@ -904,9 +908,9 @@
           .catch(e => state('Nie udało się wczytać arkusza', e.message));
       }
     </script>
-    <script src="/assets/nawigacja.js?v=202610270744" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610270744" defer></script>
-    <script src="/assets/pasek.js?v=202610270744" defer></script>
-    <script src="/assets/stopka.js?v=202610270744" defer></script>
+    <script src="/assets/nawigacja.js?v=202610270746" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610270746" defer></script>
+    <script src="/assets/pasek.js?v=202610270746" defer></script>
+    <script src="/assets/stopka.js?v=202610270746" defer></script>
   </body>
 </html>

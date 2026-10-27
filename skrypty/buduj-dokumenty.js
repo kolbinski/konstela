@@ -264,6 +264,7 @@ function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tr
     <link rel="manifest" href="/manifest.json" />
     <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" />
     <meta name="apple-mobile-web-app-title" content="Nagroda Konstela" />
+    <meta name="color-scheme" content="light dark" />
     <meta name="theme-color" content="#f6f2e9" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#14120e" media="(prefers-color-scheme: dark)" />
     <meta property="og:type" content="article" />

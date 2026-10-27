@@ -203,6 +203,10 @@
         --bg: var(--paper);
         --surface: var(--paper-raised);
         --max-w: 46rem;
+        /* Deklaracja obu motywów wyłącza wymuszanie ciemnego tła przez
+           przeglądarkę: Android z opcją "ciemny motyw dla stron" przerabia
+           tylko te strony, które nie mówią, że same się tym zajmują. */
+        color-scheme: light dark;
       }
 
       @media (prefers-color-scheme: dark) {
