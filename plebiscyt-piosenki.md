@@ -251,8 +251,6 @@ Plebiscyt kończy się na tej samej gali co Nagroda Konstela w plebiscycie na ro
 <div><dt>Po gali</dt><dd>Nagrania studyjne finalistów<small>termin sesji i przekazania materiału podamy przed otwarciem naboru</small></dd></div>
 </dl>
 
-**Czego jeszcze nie rozstrzygnęliśmy:** harmonogramu sesji nagraniowych. Ustalimy go przed ogłoszeniem naboru i napiszemy tutaj, zanim poprosimy kogokolwiek o zgłoszenie.
-
 <h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
 Wszystkie pytania i sprawy dotyczące plebiscytu proszę pisać na adres: **plebiscyt.piosenki@konstela.org**.
