@@ -171,7 +171,7 @@ Kwalifikacja do dystrybucji kinowej dziesięciu filmów najwyżej ocenionych prz
 
 ### Projektornia
 
-Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każdy film trafia do Projektorni: listy, która rośnie przez cały rok naboru i którą może przeglądać każdy. Każdy film w Projektorni ma tytuł, podpis autora, link do zwiastuna i do filmu, miniaturę, czas trwania, opis, uzasadnienie, dlaczego jest warty nagrody głównej, oraz deklarację użycia narzędzi sztucznej inteligencji. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
+Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każdy film trafia do Projektorni: listy, która rośnie przez cały rok naboru i którą może przeglądać każdy. Każdy film w Projektorni ma tytuł, podpis autora, link do zwiastuna i do filmu, miniaturę, czas trwania, opis, uzasadnienie, dlaczego jest warty nagrody głównej, deklarację użycia narzędzi sztucznej inteligencji oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
 
 ### Katalog, nie repozytorium
 
