@@ -285,4 +285,4 @@ Napisz, jeśli:
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
-Jeśli reprezentujesz dystrybutora, sieć kin, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
+Jeśli reprezentujesz dystrybutora filmowego, sieć kin, festiwal albo szkołę filmową, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.

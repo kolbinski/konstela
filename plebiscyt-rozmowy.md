@@ -264,4 +264,4 @@ Napisz, jeśli:
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
-Jeśli reprezentujesz uczelnię, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
+Jeśli reprezentujesz uczelnię, wydawnictwo, szkołę, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.

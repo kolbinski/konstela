@@ -233,4 +233,4 @@ Napisz, jeśli:
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
-Jeśli reprezentujesz uczelnię, galerię, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
+Jeśli reprezentujesz galerię, uczelnię albo szkołę artystyczną, sponsora albo redakcję i chcesz porozmawiać o współpracy, napisz na adres **wspolpraca@konstela.org**.
