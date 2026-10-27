@@ -146,11 +146,11 @@ Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń.
 
 ### Pierwszy raz z AI
 
-Odcinek podcastu z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Ważne są nie wrażenia, lecz to, co ta osoba naprawdę chciała wiedzieć - i co z tego wyszło, gdy spróbowała zapytać.
+Odcinki podcastu z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji. Ważne są nie wrażenia, lecz to, co ta osoba naprawdę chciała wiedzieć - i co z tego wyszło, gdy spróbowała zapytać.
 
 ### NAIstolatek
 
-Rozmowy z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z osobami niepełnoletnimi powstają za pisemną zgodą opiekunów, z możliwością jej wycofania przed publikacją.
+Odcinki podcastu z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z osobami niepełnoletnimi powstają za pisemną zgodą opiekunów, z możliwością jej wycofania przed publikacją.
 
 ## <!--ikona:iskra--><span>Gala i terminy</span>
 
