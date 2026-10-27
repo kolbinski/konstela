@@ -6,7 +6,7 @@ Hymn jest osobny od [plebiscytu na piosenkę](/plebiscyt-piosenki) i nie bierze 
 
 ## <!--ikona:nuta--><span>Skąd się bierze hymn</span>
 
-Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują jurorzy i oni go nagrywają** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. Jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - wykonują utwór, który do konkursu nie wchodzi. Na gali hymn wykonywany jest na żywo.
+Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej". **Muzykę komponują i nagrywają zaproszeni piosenkarze** - nie jest to wykonanie melodii z generatora, lecz nowa kompozycja do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. **Na gali hymn wykonuje na żywo skład jury**, na otwarcie i na zakończenie. Ani wykonawcy nagrania, ani jurorzy nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami - hymn do konkursu nie wchodzi.
 
 **Dwie wersje AI, trzecia ludzka.** Zaczynamy od punktu, w którym dziś stoi każdy. Muzykę i wykonanie wygenerował suno.com. Tekst powstał tak, jak zasady tego plebiscytu dopuszczają: z wielogodzinnej rozmowy z AI zakończonej prośbą o wersję tekstu, a potem z naszych decyzji, co w niej zostaje, a co wypada. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywamy ich demem ani materiałem roboczym, bo nim nie są - to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
 

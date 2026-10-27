@@ -9,7 +9,7 @@ Powstał, ponieważ program gali rozrósł się przez kilka osobnych rozmów i n
 Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 
 - **Trzy najwyżej ocenione utwory plebiscytu wykonywane na żywo**, nie wszystkie zgłoszenia ([plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia), [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 5).
-- **Hymn „Zapytaj inaczej" w wykonaniu składu jury, dwa razy: na rozpoczęcie i na zakończenie.** Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
+- **Hymn „Zapytaj inaczej" w wykonaniu składu jury, dwa razy: na rozpoczęcie i na zakończenie.** Muzykę komponują i nagrywają zaproszeni piosenkarze; na gali ten sam utwór wykonują jurorzy. Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
 - **Wręczenia:** nagroda główna, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień; medal dla laureata, tłoczone dyplomy dla całej dziesiątki.
 - **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu jury.
@@ -64,7 +64,7 @@ Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzy
 
 - **Miejsce:** wynajem, czas na próby, dostępność techniki własnej miejsca.
 - **Technika:** nagłośnienie, światło, backline, obsługa.
-- **Honoraria za występ** dla trójki finałowej plebiscytu oraz dla składu jury wykonującego hymn na żywo - odrębne od nagród i odrębne od produkcji nagrania. Jurorzy wykonują hymn dwukrotnie i są obecni przez całą galę, co podnosi tę pozycję wobec wariantu z jednym wykonaniem na zakończenie.
+- **Honoraria za występ** dla trójki finałowej plebiscytu oraz dla składu jury wykonującego hymn na żywo - odrębne od nagród i odrębne od honorariów piosenkarzy, którzy hymn skomponowali i nagrali. Jurorzy wykonują hymn dwukrotnie i są obecni przez całą galę, co podnosi tę pozycję wobec wariantu z jednym wykonaniem na zakończenie.
 - **Scena mieszcząca około szesnastu osób** oraz czas na próbę techniczną przed wejściem publiczności, skoro gala otwiera się występem.
 - **Honorarium aktora** w dialodze czytanym.
 - **Prowadzenie gali.**
