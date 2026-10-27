@@ -160,7 +160,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność trzech najwyżej ocenionych utworów.</strong> Skład kompletujemy i ogłosimy go wraz z sylwetkami przed otwarciem naboru, a nie po rozstrzygnięciu. Członek jury i członek akademii wyłącza się od oceny utworu, którego autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
+<p><strong>Jury wybiera dziesięciu finalistów i ustala ich kolejność.</strong> Skład kompletujemy i ogłosimy wraz z sylwetkami przed otwarciem naboru. Członek jury i członek akademii wyłącza się od oceny utworu, którego autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
 </article>
 </div>
 
