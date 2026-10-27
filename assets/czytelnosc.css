@@ -36,7 +36,7 @@
 
   /* Mosiądz jest w serwisie kolorem akcentu: ikony przy nagłówkach, linie,
      pieczęć, wyróżnienia. W tym trybie staje się czarny, bo niebieski jest
-     zarezerwowany wyłącznie dla odnośników - inaczej kolor przestałby
+     zarezerwowany wyłącznie dla linków - inaczej kolor przestałby
      znaczyć "tu da się kliknąć". */
   --brass: #000000 !important;
   --brass-bright: #000000 !important;
@@ -302,7 +302,7 @@
   }
   :root.czytelnie td,
   :root.czytelnie th {
-    /* Adres poczty albo długi odnośnik w komórce nie może rozpychać wiersza. */
+    /* Adres poczty albo długi link w komórce nie może rozpychać wiersza. */
     overflow-wrap: anywhere !important;
   }
   :root.czytelnie td:empty {

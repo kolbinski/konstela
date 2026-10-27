@@ -237,7 +237,7 @@ function opis(md) {
   return (spacja > 120 ? uciety.slice(0, spacja) : uciety).replace(/[,;:.\-]+$/, '') + '...';
 }
 
-/* Odnośniki wychodzące poza serwis otwieramy w nowej karcie - tak samo, jak
+/* Linki wychodzące poza serwis otwieramy w nowej karcie - tak samo, jak
    robił to dotąd skrypt w przeglądarce. */
 function otworzObceWNowejKarcie(html) {
   return html.replace(/<a href="(https?:\/\/[^"]+)"([^>]*)>/g, (calosc, adres, reszta) => {

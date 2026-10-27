@@ -330,7 +330,7 @@
 }
 /* Pozycje podrzędne występują wyłącznie na stronie głównej: cztery podstrony
    plebiscytów pod pozycją sekcji. Odróżnia je samo wcięcie - stopień pisma i
-   kolor są te same co w pozostałych pozycjach, bo to pełnoprawne odnośniki do
+   kolor są te same co w pozostałych pozycjach, bo to pełnoprawne linki do
    osobnych stron, a nie przypisy. W dokumentach menu jest spisem paragrafów i
    pozycji podrzędnych nie ma w ogóle. */
 .menu a.pod {
