@@ -76,6 +76,8 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Zgłoszenie zespołowe wskazuje jedną osobę reprezentującą cały skład.** Ona składa zgłoszenie i prowadzi korespondencję, a sposób podziału nagrody pozostaje sprawą zgłaszających - organizator wypłaca ją w całości reprezentantowi i w podział się nie wtrąca.
 
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w Słuchalni i w archiwum. Nie wpływa on na ocenę, nie trafia do antologii ani do żadnego druku, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
 ## <!--ikona:zasady--><span>Zasady: melodia, tekst i AI</span>

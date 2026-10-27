@@ -83,6 +83,8 @@
 
    h) **pseudonim** albo **nazwę składu twórczego** - nieobowiązkowe; wypełniane wtedy, gdy Uczestnik woli, by zgłoszenie było podpisane inaczej niż imieniem i nazwiskiem;
 
+   h1) **link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Projektorni i w archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+
    i) **oświadczenia z § 12 ust. 1** - obowiązkowe, składane przez zaznaczenie pól w formularzu.
 
 2. Na jeden numer telefonu przypada jedno zgłoszenie w edycji; zgłoszenie potwierdzane jest jednorazowym kodem przesłanym na ten numer. Organizator nie przechowuje numeru w postaci jawnej.
@@ -283,13 +285,13 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 11. Projektornia i archiwum
 
-1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, **zwiastun**, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6 oraz link do filmu.
+1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, link do zwiastuna, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6, link do filmu oraz - jeżeli Uczestnik go podał - link z § 4 ust. 1 lit. h1.
 
 2. Wpis pojawia się po przejściu weryfikacji formalnej, a nie w chwili złożenia zgłoszenia. Kolejność w Projektorni wyznacza wyłącznie data zgłoszenia; Organizator nie prowadzi rankingu i nie publikuje liczników odsłon ani popularności.
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
-4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. W archiwum zostaje tytuł, podpis, miniatura, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link i rok edycji. **Punktacja w archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
+4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. W archiwum zostaje tytuł, podpis, miniatura, link do zwiastuna, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link do filmu, link z § 4 ust. 1 lit. h1 i rok edycji. **Punktacja w archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
 
 5. Organizator może zdjąć wpis z Projektorni albo z archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 

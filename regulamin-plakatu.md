@@ -56,6 +56,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Galerii i w archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
 
+   c2) **link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Galerii i w archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+
    d) technikę, wymiary oryginału i rok powstania;
 
    e) skład osobowy w przypadku pracy wykonanej wspólnie, wraz ze wskazaniem reprezentanta;
@@ -246,7 +248,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 ## § 11. Galeria i archiwum
 
-1. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Galerii** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w plebiscycie.
+1. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Galerii** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, link z § 4 ust. 2 lit. c2, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w plebiscycie.
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 
