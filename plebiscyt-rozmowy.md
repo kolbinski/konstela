@@ -52,7 +52,7 @@ Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a 
 
 ### Ilustracja rozmowy
 
-Do zgłoszenia dołączasz jeden pionowy obrazek w proporcjach 9:16 - JPG albo PNG, krótszy bok od 1080 do 2160 pikseli, do 5 MB. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
+Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
 
 ### Terminy
 
