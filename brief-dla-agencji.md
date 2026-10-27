@@ -8,7 +8,7 @@ Przebudowa strony konstela.org: projekt, wdrożenie i teksty. Dokument służy w
 
 Coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy. Nagradzany jest człowiek, nie model i nie firma, która model zbudowała. Oceniane są pytania, a nie odpowiedzi.
 
-Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmowy ocenia najpierw kilkunastoosobowe grono czytelników, potem kilkuosobowe jury. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, publikowanej jako e-book, a szerszy zbiór trafia do publicznego archiwum.
+Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmowy ocenia najpierw kilkunastoosobowe grono czytelników, potem kilkuosobowe jury. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, publikowanej jako e-book, a szerszy zbiór trafia do publicznego Archiwum.
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt - konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. To samo robi dobra rozmowa: pojedyncze fakty ma każdy, wartość powstaje z połączeń.
 
@@ -24,7 +24,7 @@ Strona ma trzy zadania, w tej kolejności ważności.
 
 **Doprowadzić uczestnika do zgłoszenia.** Od 1 stycznia 2027 strona musi tłumaczyć, co zgłaszać, jak to zrobić i czego się spodziewać, a potem przeprowadzić przez formularz bez pytań po drodze.
 
-**Udostępniać materiał.** Od kwietnia 2028 strona jest miejscem, z którego pobiera się antologię i czyta archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
+**Udostępniać materiał.** Od kwietnia 2028 strona jest miejscem, z którego pobiera się antologię i czyta Archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
 
 ## 3. Co jest dzisiaj
 
@@ -53,9 +53,9 @@ Poza zakresem, ponieważ realizuję to samodzielnie:
 - narzędzie archiwizujące zgłoszone rozmowy,
 - narzędzie do weryfikacji formalnej zgłoszeń,
 - panel pracy dla czytelników i jury,
-- mechanizm publikowania archiwum rozmów.
+- mechanizm publikowania Archiwum rozmów.
 
-Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych projektowych**: jak mają wyglądać strony pojedynczej rozmowy w archiwum i strona antologii, żeby były spójne z resztą. Samo wdrożenie zrobię po swojej stronie.
+Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych projektowych**: jak mają wyglądać strony pojedynczej rozmowy w Archiwum i strona antologii, żeby były spójne z resztą. Samo wdrożenie zrobię po swojej stronie.
 
 ## 5. Ograniczenia, o których trzeba wiedzieć
 
@@ -76,7 +76,7 @@ Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych p
 | Wycena i rozmowa o zakresie | listopad 2026 |
 | Projekt i wdrożenie | grudzień 2026 - luty 2027 |
 | **Strona musi działać w nowej wersji** | **przed 1 stycznia 2027 w zakresie informacji o naborze** |
-| Rozbudowa o antologię i archiwum | styczeń - kwiecień 2028 |
+| Rozbudowa o antologię i Archiwum | styczeń - kwiecień 2028 |
 
 Twardy termin dotyczy wyłącznie części informacyjnej: 1 stycznia 2027 otwiera się przyjmowanie zgłoszeń i od tego dnia strona musi tłumaczyć zasady i prowadzić do formularza. Warstwa publikacyjna ma czas do wiosny 2028.
 

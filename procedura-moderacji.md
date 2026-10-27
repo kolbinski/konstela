@@ -4,7 +4,7 @@
 
 ## 1. Do czego służy ta procedura
 
-To jest dokument dla **oceniających** - członków jury, jury i akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Dotyczy tego, co trafia do czytelni, Galerii, Projektorni i archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
+To jest dokument dla **oceniających** - członków jury, jury i akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Dotyczy tego, co trafia do czytelni, Galerii, Projektorni i Archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
 
 Oceniasz zgłoszenia w jednym z plebiscytów Nagrody Konstela. Obok oceny merytorycznej masz w panelu jeszcze jedno zadanie: **oznaczyć zastrzeżenie, jeżeli w zgłoszeniu zobaczysz coś, co może być problemem prawnym przy publikacji**. Niniejsza procedura mówi, kiedy to zrobić, i jest dokumentem, o którym mówią regulaminy: § 8 ust. 3a lit. c1 [regulaminu plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy), § 8 ust. 4h [regulaminu plebiscytu na plakat](/dokument/regulamin-plakatu) oraz § 8 ust. 7 [regulaminu plebiscytu na film](/dokument/regulamin-filmu) oraz § 10 ust. 6a [regulaminu plebiscytu na piosenkę](/dokument/regulamin-plebiscytu).
 
@@ -22,7 +22,7 @@ Zadanie to powierzono oceniającym z jednego powodu: **i tak czytasz albo ogląd
 
 4. **Opisujesz to, co widzisz, nie to, co z tego wynika prawnie.** Zamiast „naruszenie praw autorskich" pisz „fragment wyglądający na kompletny tekst piosenki innego autora". Zamiast „naruszenie RODO" - „podany pełny adres osoby trzeciej".
 
-5. **Oznaczenie nietrafne nie pozostawia publicznego śladu.** Historia sprawy jest zachowywana wewnętrznie, ale nic, co sugerowałoby naruszenie, nie pojawia się w czytelni ani w archiwum. Nie ryzykujesz więc krzywdy wobec uczestnika przez samo oznaczenie.
+5. **Oznaczenie nietrafne nie pozostawia publicznego śladu.** Historia sprawy jest zachowywana wewnętrznie, ale nic, co sugerowałoby naruszenie, nie pojawia się w czytelni ani w Archiwum. Nie ryzykujesz więc krzywdy wobec uczestnika przez samo oznaczenie.
 
 ## 3. Zamknięta lista rutynowych oznaczeń
 
@@ -173,7 +173,7 @@ Oceniasz dalej normalnie. Oznaczenie nie przerywa oceny i nie wymaga od Ciebie �
 
 ## 7. Co się dzieje po oznaczeniu
 
-Organizator rozstrzyga co do zgłoszeń oznaczonych przed dniem ogłoszenia wyników i potwierdza rozstrzygnięcie na liście kontrolnej. Możliwe wyniki: brak podstaw i wpis zostaje bez zmian; kontakt z uczestnikiem; ograniczenie prezentacji wskazanego fragmentu; odstąpienie od publikacji kopii w archiwum.
+Organizator rozstrzyga co do zgłoszeń oznaczonych przed dniem ogłoszenia wyników i potwierdza rozstrzygnięcie na liście kontrolnej. Możliwe wyniki: brak podstaw i wpis zostaje bez zmian; kontakt z uczestnikiem; ograniczenie prezentacji wskazanego fragmentu; odstąpienie od publikacji kopii w Archiwum.
 
 **Samo oznaczenie nie wpływa na punktację.** Ograniczenia publikacji oraz ewentualne odrzucenie zgłoszenia rozstrzyga się w trybie wskazanym w regulaminie danego plebiscytu, a odrzucenie - wyłącznie na wymienionych tam podstawach, niezależnie od oznaczenia. Oznaczenie może więc doprowadzić do tego, że organizator dostrzeże podstawę odrzucenia, ale nie zastępuje jej i samo w sobie nią nie jest.
 

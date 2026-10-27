@@ -58,7 +58,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów p
 
 ### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna na pokazanie zgłoszenia w [Słuchalni](#sluchalnia) i w [archiwum](#archiwum) - bez tego zgłoszenia nie da się przyjąć, bo prezentacja jest warunkiem udziału. Pozostałe zgody - na odbiór nagrody, udział w nagraniu studyjnym, udział w gali i wykonanie utworu - są rozpatrywane osobno i brak którejś wyklucza tylko z tej jednej rzeczy.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna na pokazanie zgłoszenia w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum) - bez tego zgłoszenia nie da się przyjąć, bo prezentacja jest warunkiem udziału. Pozostałe zgody - na odbiór nagrody, udział w nagraniu studyjnym, udział w gali i wykonanie utworu - są rozpatrywane osobno i brak którejś wyklucza tylko z tej jednej rzeczy.
 
 ### Co możesz zgłosić
 
@@ -86,17 +86,17 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Słuchalni](#sluchalnia) w czasie naboru i w archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Słuchalni](#sluchalnia) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia) i w [archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 ### Link do nagrania i okładka
 
 **Przesyłasz link do nagrania na YouTube, nie plik.**
 
-**Do tego jedna okładka** - kwadratowy obrazek. To on reprezentuje Twoją piosenkę w [Słuchalni](#sluchalnia) i w [archiwum](#archiwum). Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.**
+**Do tego jedna okładka** - kwadratowy obrazek. To on reprezentuje Twoją piosenkę w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum). Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.**
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -201,7 +201,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
-<h2 id="sluchalnia"><!--ikona:sluchalnia--><span>Słuchalnia i archiwum</span></h2>
+<h2 id="sluchalnia"><!--ikona:sluchalnia--><span>Słuchalnia i Archiwum</span></h2>
 
 **Utwory, które przeszły weryfikację formalną, umieszczamy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, deklarację użycia AI, link do nagrania oraz **kontakt do Ciebie**, czyli link do Twojej strony albo profilu, jeżeli go podałeś w zgłoszeniu. Tekstu utworu nie publikujemy.
 
@@ -211,7 +211,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h3 id="archiwum">Archiwum</h3>
 
-**Po gali Słuchalnia zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim okładka, tytuł, podpis, deklaracja, kontakt do autora, rok edycji i link - żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
+**Po gali rozdania nagród Słuchalnia zamienia się w Archiwum**, dostępne bezpłatnie i bez ograniczeń. Archiwum różni się od Słuchalni trzema rzeczami: **nie rośnie** - lista zgłoszeń zamyka się w dniu werdyktu i nic już do niej nie dochodzi; **zostaje na stałe**, bez planowanego terminu zamknięcia, podczas gdy Słuchalnia żyje tylko przez jedną edycję; i **ma przy wpisach rok edycji**, żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. Sama zawartość wpisu się nie zmienia: okładka, tytuł, podpis, deklaracja, kontakt do autora i link do nagrania. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojej piosenki</span>
 
@@ -223,7 +223,7 @@ Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, 
 
 ### Czego potrzebujemy od Ciebie
 
-Potrzebujemy prawa **niewyłącznego** i w wypisanych zakresach: pokazanie zgłoszenia w Słuchalni w czasie naboru i w archiwum po edycji - to jedyny zakres będący warunkiem udziału; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, zakres wydania jest osobną umową między Tobą a wydawnictwem; organizator nie jest jej stroną.
+Potrzebujemy prawa **niewyłącznego** i w wypisanych zakresach: pokazanie zgłoszenia w Słuchalni w czasie naboru i w Archiwum po edycji - to jedyny zakres będący warunkiem udziału; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, zakres wydania jest osobną umową między Tobą a wydawnictwem; organizator nie jest jej stroną.
 
 ### Zakres sesji studyjnej
 

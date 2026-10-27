@@ -51,7 +51,7 @@ Brzmienie, które nie zamyka jego własnego wątku: „zapiszę Twoją stawkę i
 
 Zadaj je szeroko i bez adresata: **jak w branży finansuje się takie rzeczy** - programy publiczne, fundacje korporacyjne, miejskie budżety kultury, marki. Nie „czy znasz kogoś, kto zapłaciłby za tę piosenkę", bo to robi z niego fundraisera i jest krępujące. Jeśli padnie nazwisko, padnie dlatego, że sam je wyciągnął.
 
-Prawdziwa wartość tego pytania nie dotyczy piosenki. Mówimy o 800 zł teraz i 3000 zł później, czyli o ułamku procenta puli - **nie otwieraj osobnego frontu zbierania pieniędzy na utwór**, bo ten sam czas włożony w fundatora puli jest wart sto razy więcej. Natomiast mecenat kultury to świat instytucji finansujących przedsięwzięcia kulturalne, a Nagroda z antologią i archiwum jest właśnie takim przedsięwzięciem. Trop, który może z tego wyjść, prowadzi do **całego projektu**, równolegle do ścieżki sponsorskiej i ministerialnej.
+Prawdziwa wartość tego pytania nie dotyczy piosenki. Mówimy o 800 zł teraz i 3000 zł później, czyli o ułamku procenta puli - **nie otwieraj osobnego frontu zbierania pieniędzy na utwór**, bo ten sam czas włożony w fundatora puli jest wart sto razy więcej. Natomiast mecenat kultury to świat instytucji finansujących przedsięwzięcia kulturalne, a Nagroda z antologią i Archiwum jest właśnie takim przedsięwzięciem. Trop, który może z tego wyjść, prowadzi do **całego projektu**, równolegle do ścieżki sponsorskiej i ministerialnej.
 
 ## Czego nie robić
 

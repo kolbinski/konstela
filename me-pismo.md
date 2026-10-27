@@ -6,7 +6,7 @@ Dotyczy: Nagrody Konstela - propozycja programu dla szkół i prośba o wskazani
 
 Szanowni Państwo,
 
-Zwracam się w sprawie Nagrody Konstela - corocznej, ogólnopolskiej nagrody przyznawanej osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Najlepsze rozmowy ukażą się w bezpłatnej antologii, a szerszy zbiór trafi do publicznego archiwum.
+Zwracam się w sprawie Nagrody Konstela - corocznej, ogólnopolskiej nagrody przyznawanej osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Najlepsze rozmowy ukażą się w bezpłatnej antologii, a szerszy zbiór trafi do publicznego Archiwum.
 
 Zacznę od rzeczy, która przy każdej inicjatywie dotyczącej szkół pada jako pierwsze pytanie. Program szkolny nie obejmuje zgłaszania rozmów do konkursu ani ubiegania się o nagrody pieniężne; szkoła jest w tej konstrukcji odbiorcą materiału i współoceniającym, a nie źródłem zgłoszeń. Osobną kwestią pozostaje indywidualny udział pełnoletnich uczniów na zasadach ogólnych regulaminu, który wymaga ukończenia 18 lat. Zastrzegam przy tym, że członkostwo w Uczniowskiej akademii wyklucza udział w konkursie w tej samej edycji - pełnoletni uczeń pozna ten skutek przed przystąpieniem i sam wybierze rolę.
 

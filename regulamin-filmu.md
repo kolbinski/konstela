@@ -65,17 +65,17 @@
 
    a) **link do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. **Link musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas publiczny; Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
 
-   a1) **link do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych - także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
+   a1) **link do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w Archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych - także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
 
    b) **tytuł filmu** - obowiązkowe, do 120 znaków;
 
    c) **czas trwania** oraz **datę ukończenia** - obowiązkowe;
 
-   d) **miniaturę** - jeden plik graficzny w formacie JPG albo PNG, o proporcjach 16:9, o dłuższym boku nie mniejszym niż 1280 i nie większym niż 3840 pikseli, o objętości do 5 MB. Miniatura jest prezentowana w Projektorni i w archiwum. **Może zostać wygenerowana przez narzędzie sztucznej inteligencji i nie podlega ocenie**;
+   d) **miniaturę** - jeden plik graficzny w formacie JPG albo PNG, o proporcjach 16:9, o dłuższym boku nie mniejszym niż 1280 i nie większym niż 3840 pikseli, o objętości do 5 MB. Miniatura jest prezentowana w Projektorni i w Archiwum. **Może zostać wygenerowana przez narzędzie sztucznej inteligencji i nie podlega ocenie**;
 
    e) **opis filmu** - od 200 do 1500 znaków o tym, czego film dotyczy i co Uczestnik chciał w nim powiedzieć - obowiązkowe. **Nie podlega punktacji** w żadnym kryterium;
 
-   e1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w archiwum i **nie podlega punktacji** w żadnym kryterium;
+   e1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w Archiwum i **nie podlega punktacji** w żadnym kryterium;
 
    f) **deklarację użycia narzędzi sztucznej inteligencji**, o której mowa w § 6 - obowiązkowe;
 
@@ -83,13 +83,13 @@
 
    h) **pseudonim** albo **nazwę składu twórczego** - nieobowiązkowe; wypełniane wtedy, gdy Uczestnik woli, by zgłoszenie było podpisane inaczej niż imieniem i nazwiskiem;
 
-   h1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Projektorni i w archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   h1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Projektorni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
    i) **oświadczenia z § 12 ust. 1** - obowiązkowe, składane przez zaznaczenie pól w formularzu.
 
 2. Na jeden numer telefonu przypada jedno zgłoszenie w edycji; zgłoszenie potwierdzane jest jednorazowym kodem przesłanym na ten numer. Organizator nie przechowuje numeru w postaci jawnej.
 
-3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
+3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i Archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
 
 ## § 5. Wymogi formalne
 
@@ -125,7 +125,7 @@
 
 1. **Posługiwanie się narzędziami sztucznej inteligencji przy powstawaniu filmu nie jest zakazane w żadnym zakresie.** Dotyczy to w szczególności generowania obrazu i ujęć, pisania scenariusza, montażu, dźwięku, muzyki, głosu, napisów i korekcji barwnej.
 
-2. **Uczestnik składa natomiast deklarację**, w której opisuje, co w jego filmie zrobiły takie narzędzia i w jakim zakresie. Deklaracja jest publikowana razem ze zgłoszeniem w Projektorni i w archiwum.
+2. **Uczestnik składa natomiast deklarację**, w której opisuje, co w jego filmie zrobiły takie narzędzia i w jakim zakresie. Deklaracja jest publikowana razem ze zgłoszeniem w Projektorni i w Archiwum.
 
 3. **Deklaracja nie podlega punktacji.** Jury ocenia film, a nie powstrzymywanie się od narzędzi; zgłoszenie w całości wygenerowane i zgłoszenie powstałe bez udziału takich narzędzi są oceniane według tej samej karty oceny.
 
@@ -233,7 +233,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 4a. **Zasady pracy akademii** Organizator ogłasza przed otwarciem naboru i nie zmienia ich w trakcie: liczebność akademii, liczbę niezależnych obejrzeń przypadających na jeden film, sposób łączenia ocen w wynik zgłoszenia, liczebność listy węższej oraz sposób rozstrzygania równej liczby punktów na jej granicy.
 
-5. **Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** Nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w archiwum.
+5. **Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** Nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w Archiwum.
 
 5a. **Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów**, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Górny limit jest podany po to, aby nakład pracy jury dał się ustalić przed powołaniem składu; jeżeli zgłoszeń spełniających wymogi formalne będzie mniej, jury ocenia wszystkie.
 
@@ -283,7 +283,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 5. Werdykt ogłaszany jest publicznie podczas gali. Finaliści dowiadują się o zakwalifikowaniu wcześniej, ponieważ Organizator zaprasza ich na galę i ustala z nimi dojazd, i zachowują wiedzę o tym w poufności; **kolejności finalistów Organizator nie ujawnia nikomu przed galą**.
 
-## § 11. Projektornia i archiwum
+## § 11. Projektornia i Archiwum
 
 1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, link do zwiastuna, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6, link do filmu oraz - jeżeli Uczestnik go podał - link z § 4 ust. 1 lit. h1.
 
@@ -291,9 +291,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
-4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. W archiwum zostaje tytuł, podpis, miniatura, link do zwiastuna, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link do filmu, link z § 4 ust. 1 lit. h1 i rok edycji. **Punktacja w archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
+4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do Archiwum**, dostępnego bezpłatnie i bez ograniczeń. W Archiwum zostaje tytuł, podpis, miniatura, link do zwiastuna, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link do filmu, link z § 4 ust. 1 lit. h1 i rok edycji. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
 
-5. Organizator może zdjąć wpis z Projektorni albo z archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
+5. Organizator może zdjąć wpis z Projektorni albo z Archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 
 6. **Wersja plebiscytowa.** Ocenie podlega wersja filmu dostępna pod wskazanym linkiem **w dniu zamknięcia naboru**. Uczestnik zobowiązuje się nie zmieniać jej do dnia ogłoszenia werdyktu; poprawki techniczne nienaruszające treści, w szczególności korekta napisów, są dopuszczalne.
 
@@ -309,7 +309,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    c) **między ogłoszeniem werdyktu a galą** - **nie powoduje utraty nagrody** ani zwrotu nagrody wypłaconej. Film przestaje natomiast brać udział w głosowaniu publiczności, które trwa do dnia gali, a Organizator oznacza wpis jako niedostępny;
 
-   d) **po gali** - nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w archiwum pozostaje bez działającego linku, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
+   d) **po gali** - nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w Archiwum pozostaje bez działającego linku, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
 
 7a. **Usunięcie albo ukrycie zwiastuna** wywołuje te same skutki co usunięcie filmu, według dnia wskazanego w ust. 7, z dwoma wyjątkami: Organizator najpierw zawiadamia Uczestnika i wyznacza termin nie krótszy niż 14 dni na przywrócenie zwiastuna albo wskazanie innego, spełniającego wymogi z § 4 ust. 1 lit. a1, a po gali usunięcie zwiastuna nie wywołuje żadnych skutków dla zgłoszenia.
 
@@ -359,7 +359,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 2. **Prawa do filmu pozostają w całości przy jego twórcach.** Uczestnik udziela Organizatorowi licencji **niewyłącznej**, nieodpłatnej, w następujących zakresach:
 
-   a) prezentacja wpisu w Projektorni i w archiwum, obejmująca tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link - **na czas nieoznaczony**;
+   a) prezentacja wpisu w Projektorni i w Archiwum, obejmująca tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link - **na czas nieoznaczony**;
 
    b) prezentacja **zwiastuna** podczas gali oraz w zapisie wideo gali udostępnianym następnie bezpłatnie, wraz z pobraniem i technicznym przygotowaniem zwiastuna do emisji w zakresie z § 10 ust. 3 - **na pięć lat** od dnia gali;
 
@@ -395,7 +395,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Organizator nie otwiera naboru, jeżeli środki na nagrody pieniężne nie zostały zabezpieczone (§ 9 ust. 2a).
 
-2. Jeżeli po otwarciu naboru liczba zgłoszeń spełniających wymogi formalne jest mniejsza niż pięć, Organizator może nie rozstrzygnąć edycji, ogłaszając to na stronie Nagrody wraz z uzasadnieniem. Nagrody nie są wówczas przyznawane, a zgłoszenia pozostają w archiwum, jeżeli Uczestnicy nie wycofali ich zgodnie z § 13.
+2. Jeżeli po otwarciu naboru liczba zgłoszeń spełniających wymogi formalne jest mniejsza niż pięć, Organizator może nie rozstrzygnąć edycji, ogłaszając to na stronie Nagrody wraz z uzasadnieniem. Nagrody nie są wówczas przyznawane, a zgłoszenia pozostają w Archiwum, jeżeli Uczestnicy nie wycofali ich zgodnie z § 13.
 
 ## § 16. Dane osobowe
 

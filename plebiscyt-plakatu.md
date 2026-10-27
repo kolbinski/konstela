@@ -73,11 +73,11 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Galerii](#galeria) w czasie naboru i w archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Galerii](#galeria) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [archiwum](#galeria). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#galeria). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 ### Zdjęcie pracy, nagranie i materiały
 
@@ -87,7 +87,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 
 **Twoja twarz musi być w nagraniu widoczna**, a w co najmniej jednym ujęciu kamera ma przejechać od Twojej twarzy do pracy jednym ruchem, bez cięcia. Przejście ma pozwolić powiązać osobę widoczną w nagraniu z wykonywaną czynnością. Ruch możesz wykonać dowolnie - obrócić telefon, odsunąć kamerę albo wejść w kadr i pochylić się nad plakatem. W samym przejściu praca i ręka nie muszą być widoczne jednocześnie.
 
-**Czego nagranie nie musi mieć.** Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Nie wymagamy profesjonalnego sprzętu. Nagranie nie jest oceniane w żadnym kryterium. Nie publikujemy go nigdzie - ani w Galerii, ani w archiwum - i udostępniamy je wyłącznie oceniającym i jury. Twarz na nagraniu nie odbiera Ci możliwości zgłoszenia pracy pod pseudonimem: publicznie podpisujemy pracę tak, jak wskażesz.
+**Czego nagranie nie musi mieć.** Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Nie wymagamy profesjonalnego sprzętu. Nagranie nie jest oceniane w żadnym kryterium. Nie publikujemy go nigdzie - ani w Galerii, ani w Archiwum - i udostępniamy je wyłącznie oceniającym i jury. Twarz na nagraniu nie odbiera Ci możliwości zgłoszenia pracy pod pseudonimem: publicznie podpisujemy pracę tak, jak wskażesz.
 
 **Jak je przesłać.** Możesz przesłać plik albo link do nagrania w serwisie wideo - wybór należy do Ciebie. Przy linku pamiętaj, że dostęp do nagrania zależy również od zasad wybranego serwisu: film „niepubliczny" w popularnych serwisach może obejrzeć każdy, kto ma do niego link. Jeśli wolisz tego uniknąć, prześlij plik.
 
@@ -175,17 +175,17 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
-<h2 id="galeria"><!--ikona:galeria--><span>Galeria i archiwum</span></h2>
+<h2 id="galeria"><!--ikona:galeria--><span>Galeria i Archiwum</span></h2>
 
 **Prace, które przeszły sprawdzenie formalne, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
 
-**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
+**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego plakatu</span>
 
 Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w plebiscycie.
 
-Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokazanie reprodukcji w Galerii i w archiwum - to jedyny zakres będący warunkiem udziału; pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę; pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej; a przy pracy zwycięskiej, za odrębną zgodą - reprodukcja na okładce antologii oraz w materiałach informacyjnych edycji.
+Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokazanie reprodukcji w Galerii i w Archiwum - to jedyny zakres będący warunkiem udziału; pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę; pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej; a przy pracy zwycięskiej, za odrębną zgodą - reprodukcja na okładce antologii oraz w materiałach informacyjnych edycji.
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
 

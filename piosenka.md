@@ -6,7 +6,7 @@ Szukam piosenkarki lub piosenkarza, który napisze własną muzykę do gotowego 
 
 ## Co to za piosenka
 
-Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie AI, bo oceniane są pytania, a nie odpowiedzi. Najlepsze rozmowy ukażą się w bezpłatnej antologii, a szerszy zbiór trafi do publicznego archiwum.
+Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie AI, bo oceniane są pytania, a nie odpowiedzi. Najlepsze rozmowy ukażą się w bezpłatnej antologii, a szerszy zbiór trafi do publicznego Archiwum.
 
 Napisałem do tego tekst piosenki pod tytułem "Zapytaj inaczej". Mówi o tym samym, o czym jest Nagroda: pojedyncze fakty ma dziś każdy, wartość powstaje z połączeń, których wcześniej nie było.
 

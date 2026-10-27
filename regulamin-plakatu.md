@@ -54,9 +54,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    c) tytuł pracy oraz imię i nazwisko albo pseudonim, pod którym zgłoszenie ma być prezentowane;
 
-   c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Galerii i w archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
+   c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Galerii i w Archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
 
-   c2) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Galerii i w archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   c2) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Galerii i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
    d) technikę, wymiary oryginału i rok powstania;
 
@@ -98,7 +98,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 5. **Nagranie nie podlega ocenie w żadnym kryterium z § 7.** Jury ocenia plakat, nie film z jego powstawania; jakość nagrania, jego długość ponad wymagane minimum i sposób zmontowania nie mają na ocenę żadnego wpływu.
 
-6. **Nagranie nie jest publikowane.** Służy wyłącznie weryfikacji formalnej i weryfikacji z § 6 ust. 6. Organizator nie publikuje nagrania i udostępnia otrzymany materiał wyłącznie oceniającym oraz jury; nagranie nie trafia ani do Galerii, ani do archiwum, ani do materiałów o Nagrodzie. Prezentacja nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, której brak nie wpływa na udział w plebiscycie, na ocenę ani na nagrodę.
+6. **Nagranie nie jest publikowane.** Służy wyłącznie weryfikacji formalnej i weryfikacji z § 6 ust. 6. Organizator nie publikuje nagrania i udostępnia otrzymany materiał wyłącznie oceniającym oraz jury; nagranie nie trafia ani do Galerii, ani do Archiwum, ani do materiałów o Nagrodzie. Prezentacja nagrania albo jego fragmentu w jakimkolwiek innym celu wymaga odrębnej, późniejszej zgody Uczestnika, której brak nie wpływa na udział w plebiscycie, na ocenę ani na nagrodę.
 
 7. Jeżeli w nagraniu widoczne są osoby trzecie, Uczestnik odpowiada za ich zgodę na utrwalenie wizerunku w zakresie z ust. 6. Nagranie, na którym widoczne są dane osobowe osób trzecich albo wnętrze niebędące miejscem pracy Uczestnika, nie jest z tego powodu wadliwe; Uczestnik może je przed przesłaniem przyciąć albo zasłonić te fragmenty, o ile nie narusza to ust. 3. Zasłonięcie albo wycięcie własnej twarzy narusza ust. 3 lit. c1 i czyni nagranie niespełniającym wymogu.
 
@@ -182,7 +182,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 4a. **Listę finalistów Organizator ogłasza publicznie przed galą**, w terminie pozwalającym na dostarczenie oryginałów, ich oględziny oraz przygotowanie wystawy. Finaliści otrzymują zawiadomienie pocztą elektroniczną.
 
-4b. Po oględzinach oryginałów jury ustala **pełny werdykt, w tym kolejność całej dziesiątki finalistów**; nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w archiwum; pracę finalisty, który nie przesłał oryginału, jury ocenia na podstawie reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu.
+4b. Po oględzinach oryginałów jury ustala **pełny werdykt, w tym kolejność całej dziesiątki finalistów**; nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w Archiwum; pracę finalisty, który nie przesłał oryginału, jury ocenia na podstawie reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu.
 
 4c. **Werdykt zapada przed galą**, w terminie pozwalającym na przygotowanie i wydrukowanie antologii z okładką opartą na pracy zwycięskiej. Organizator zawiadamia o nim laureatów niezwłocznie; laureaci zachowują werdykt w poufności do chwili jego publicznego ogłoszenia.
 
@@ -246,15 +246,15 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 5. Organizator odpowiada za pracę od chwili jej odebrania od przewoźnika do chwili nadania przesyłki zwrotnej, na zasadach ogólnych.
 
-## § 11. Galeria i archiwum
+## § 11. Galeria i Archiwum
 
 1. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Galerii** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, link z § 4 ust. 2 lit. c2, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w plebiscycie.
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 
-3. Z chwilą publicznego ogłoszenia werdyktu podczas gali Galeria edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji.
+3. Z chwilą publicznego ogłoszenia werdyktu podczas gali Galeria edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie, uzupełnionym o rok edycji.
 
-4. Uczestnik może w każdej chwili żądać usunięcia swojego wpisu z archiwum; Organizator usuwa go w terminie 14 dni od żądania.
+4. Uczestnik może w każdej chwili żądać usunięcia swojego wpisu z Archiwum; Organizator usuwa go w terminie 14 dni od żądania.
 
 ## § 12. Nagroda publiczności i głosowanie
 
@@ -294,7 +294,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    a) prezentacja reprodukcji pracy w Galerii w czasie trwania naboru i oceny;
 
-   b) prezentacja reprodukcji pracy w archiwum plebiscytu po zakończeniu edycji;
+   b) prezentacja reprodukcji pracy w Archiwum plebiscytu po zakończeniu edycji;
 
    c) prezentacja oryginału pracy na wystawie towarzyszącej gali oraz jego utrwalenie w zapisie wideo gali;
 
@@ -344,7 +344,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    b) do zakończenia postępowania zgłoszenie pozostaje w plebiscycie, a jego punktacja nie ulega zmianie;
 
-   c) Organizator może ograniczyć prezentację zgłoszenia w Galerii albo odstąpić od jego prezentacji w archiwum (§ 11) **wyłącznie po wskazaniu konkretnego fragmentu pracy oraz uzasadnionego ryzyka naruszenia prawa związanego z jego publikacją**. Samo potwierdzenie obecności elementu oznaczonego przez oceniającego nie wystarcza;
+   c) Organizator może ograniczyć prezentację zgłoszenia w Galerii albo odstąpić od jego prezentacji w Archiwum (§ 11) **wyłącznie po wskazaniu konkretnego fragmentu pracy oraz uzasadnionego ryzyka naruszenia prawa związanego z jego publikacją**. Samo potwierdzenie obecności elementu oznaczonego przez oceniającego nie wystarcza;
 
    d) odrzucenie zgłoszenia możliwe jest wyłącznie na podstawach z § 5 ust. 2 albo na podstawie ust. 5 niniejszego paragrafu; samo oznaczenie podstawy nie stanowi;
 

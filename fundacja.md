@@ -26,7 +26,7 @@ Cele statutowe:
 - upowszechnianie dostępu do dóbr kultury powstałych w ten sposób, przede wszystkim przez ich nieodpłatne udostępnianie
 - promowanie postawy dociekliwości i rzetelności poznawczej
 
-Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach - na rozmowę, film, piosenkę i plakat - wydawanie i bezpłatne udostępnianie antologii oraz nagrań finalistów, organizowanie wystaw, pokazów i koncertów prezentujących zgłoszone prace, prowadzenie publicznego archiwum zgłoszeń oraz działalność edukacyjną, w tym materiały dla szkół.
+Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach - na rozmowę, film, piosenkę i plakat - wydawanie i bezpłatne udostępnianie antologii oraz nagrań finalistów, organizowanie wystaw, pokazów i koncertów prezentujących zgłoszone prace, prowadzenie publicznego Archiwum zgłoszeń oraz działalność edukacyjną, w tym materiały dla szkół.
 
 ## <!--ikona:tarcza--><span>Jak jest zbudowana</span>
 

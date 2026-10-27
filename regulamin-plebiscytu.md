@@ -32,7 +32,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. Uczestnik, który nie ukończył 18 lat, dołącza do zgłoszenia pisemną zgodę przedstawiciela ustawowego. Zgoda obejmuje cztery odrębne zakresy, wymienione osobno:
 
-   a) udzielenie Organizatorowi licencji w zakresie prezentacji zgłoszenia w Słuchalni i w archiwum (§ 15 ust. 2 lit. a i d);
+   a) udzielenie Organizatorowi licencji w zakresie prezentacji zgłoszenia w Słuchalni i w Archiwum (§ 15 ust. 2 lit. a i d);
 
    a1) udzielenie licencji w pozostałych zakresach (§ 15 ust. 2 lit. b i c), związanych z galą;
 
@@ -74,13 +74,13 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    a) tytuł utworu oraz imię i nazwisko albo pseudonim, pod którym zgłoszenie ma być prezentowane;
 
-   a1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Słuchalni i w archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   a1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Słuchalni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
    b) skład osobowy w przypadku zgłoszenia zespołowego, zgodnie z § 6;
 
-   c) **okładkę** - jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
+   c) **okładkę** - jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w Archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
 
-   c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
+   c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
    d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 
@@ -98,7 +98,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 7. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
 
-8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
+8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
@@ -198,7 +198,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń. Honorarium za ocenę jest odrębne od ewentualnego honorarium za udział w nagraniu hymnu i za wykonanie na gali.
 
-4. Jury wybiera **dziesięciu finalistów** spośród listy przekazanej przez akademię plebiscytu (ust. 5) i **ustala kolejność całej dziesiątki**. Nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w archiwum.
+4. Jury wybiera **dziesięciu finalistów** spośród listy przekazanej przez akademię plebiscytu (ust. 5) i **ustala kolejność całej dziesiątki**. Nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w Archiwum.
 
 5. **Pierwsze przejście oceny przeprowadza akademia plebiscytu, powoływana w każdej edycji** - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
 
@@ -312,7 +312,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    c) utrwalenie gali na wideo oraz bezpłatne udostępnienie tego zapisu;
 
-   d) prezentacja zgłoszenia, wraz z okładką, w archiwum plebiscytu po zakończeniu edycji, w zakresie określonym w § 5 ust. 8.
+   d) prezentacja zgłoszenia, wraz z okładką, w Archiwum plebiscytu po zakończeniu edycji, w zakresie określonym w § 5 ust. 8.
 
 3. Czas trwania licencji jest różny dla poszczególnych zakresów:
 
@@ -322,7 +322,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    c) w zakresie ust. 2 lit. c - bezterminowo, przy czym dotyczy wyłącznie zapisu gali, a nie zgłoszonego nagrania;
 
-   d) w zakresie ust. 2 lit. d - bezterminowo, przy czym Uczestnik może w każdej chwili żądać usunięcia wpisu z archiwum, a Organizator usuwa go w terminie 14 dni od żądania.
+   d) w zakresie ust. 2 lit. d - bezterminowo, przy czym Uczestnik może w każdej chwili żądać usunięcia wpisu z Archiwum, a Organizator usuwa go w terminie 14 dni od żądania.
 
 4. **Warunkiem udziału w plebiscycie jest udzielenie licencji w zakresie ust. 2 lit. a i d**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału (§ 5 ust. 7). Zakresy lit. b i c dotyczą wyłącznie laureatów wykonujących utwór na gali i nie są warunkiem udziału. Przy zgłoszeniu zespołowym licencji udziela reprezentant składu w imieniu wszystkich współautorów i wykonawców.
 
@@ -340,7 +340,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    b) do zakończenia postępowania zgłoszenie pozostaje w plebiscycie, a jego punktacja nie ulega zmianie;
 
-   c) Organizator może ograniczyć prezentację okładki w Słuchalni albo odstąpić od jej prezentacji w archiwum **wyłącznie po wskazaniu konkretnego elementu oraz uzasadnionego ryzyka naruszenia prawa związanego z jego publikacją**. Samo potwierdzenie obecności elementu oznaczonego przez oceniającego nie wystarcza; zgłoszenie pozostaje wówczas w Słuchalni bez okładki;
+   c) Organizator może ograniczyć prezentację okładki w Słuchalni albo odstąpić od jej prezentacji w Archiwum **wyłącznie po wskazaniu konkretnego elementu oraz uzasadnionego ryzyka naruszenia prawa związanego z jego publikacją**. Samo potwierdzenie obecności elementu oznaczonego przez oceniającego nie wystarcza; zgłoszenie pozostaje wówczas w Słuchalni bez okładki;
 
    d) odrzucenie zgłoszenia możliwe jest wyłącznie na podstawach z § 8 ust. 2 albo na podstawie ust. 5 niniejszego paragrafu; samo oznaczenie podstawy nie stanowi;
 
@@ -406,7 +406,7 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 10. **§ 12 ust. 6** - podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu Nagrody.
 11. **§ 13 ust. 3** - przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
 12. **§ 14 ust. 2-3** - obowiązkowy udział laureatów w gali i zakres pokrycia kosztów.
-13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
+13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
 14. **§ 15 ust. 5 zdanie drugie** - wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
 15. **§ 5 ust. 6 i 6a** - wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
 15a. **§ 11 ust. 2** - Nagroda dla publicznych ocen zgłoszonych piosenek jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.

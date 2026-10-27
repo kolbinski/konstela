@@ -19,7 +19,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
 - obok niej przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego
-- wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie jury do publicznego [archiwum](#czytelnia)
+- wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia)
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -71,11 +71,11 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [czytelni](#czytelnia) w czasie naboru i w archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [czytelni](#czytelnia) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [czytelni](#czytelnia) i w [archiwum](#czytelnia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [czytelni](#czytelnia) i w [Archiwum](#czytelnia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 ### Tytuł i opis
 
@@ -83,7 +83,7 @@ Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a 
 
 ### Ilustracja rozmowy
 
-Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16 - pozostałe szczegóły podaje regulamin i formularz zgłoszeniowy. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
+Do zgłoszenia dołączasz jeden obrazek - ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w czytelni i w Archiwum, a jeśli rozmowa wygra - także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16 - pozostałe szczegóły podaje regulamin i formularz zgłoszeniowy. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -127,7 +127,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-rozmowy), a [kart
 </article>
 </div>
 
-Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją archiwum.
+Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją Archiwum.
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
@@ -181,7 +181,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
-<h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i archiwum</span></h2>
+<h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i Archiwum</span></h2>
 
 ### Czytelnia
 
@@ -193,7 +193,7 @@ W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytanie
 
 ### Archiwum
 
-Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się trzema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok linku do wersji opublikowanej przez Ciebie u dostawcy AI; zgłoszone rozmowy będzie można przeczytać **w wygodnym formacie** - na stronie, jako e-book albo plik do wydruku; a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
+Po ogłoszeniu wyników czytelnia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się trzema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok linku do wersji opublikowanej przez Ciebie u dostawcy AI; zgłoszone rozmowy będzie można przeczytać **w wygodnym formacie** - na stronie, jako e-book albo plik do wydruku; a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
 
 ### Jawność punktacji
 
@@ -203,7 +203,7 @@ Po ogłoszeniu wyników czytelnia zamienia się w archiwum, udostępniane bezpł
 
 ### Licencja i podpis
 
-Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 - po tym dniu książka antologii zostanie wydrukowana.
+Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 - po tym dniu książka antologii zostanie wydrukowana.
 
 ### Pseudonim nie anonimizuje treści
 

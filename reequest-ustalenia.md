@@ -1,6 +1,6 @@
 # Konstela - materiał warsztatowy dla Reequest
 
-> **Snapshot obecnego stanu wiedzy o projekcie, nie archiwum.** Plik jest podstawą warsztatów z agencją i ma być aktualizowany przy każdej decyzji dotyczącej Nagrody, plebiscytu, strony albo komunikacji. Rzeczy nieaktualne są z niego usuwane, a nie oznaczane jako historyczne - od tego są pozostałe pliki projektu.
+> **Snapshot obecnego stanu wiedzy o projekcie, nie Archiwum.** Plik jest podstawą warsztatów z agencją i ma być aktualizowany przy każdej decyzji dotyczącej Nagrody, plebiscytu, strony albo komunikacji. Rzeczy nieaktualne są z niego usuwane, a nie oznaczane jako historyczne - od tego są pozostałe pliki projektu.
 >
 > Stan na 24.10.2026.
 
@@ -29,7 +29,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 ## 3. Co z tego powstaje
 
 - **Antologia** - dziesięć najwyżej ocenionych rozmów każdej edycji, bezpłatnie, w całości, z komentarzem jury.
-- **Publiczne archiwum** wszystkich zgłoszeń: czytelnia rosnąca w trakcie naboru, utrwalona w dniu jego zamknięcia i przeglądalna także według jawnych ocen.
+- **Publiczne Archiwum** wszystkich zgłoszeń: czytelnia rosnąca w trakcie naboru, utrwalona w dniu jego zamknięcia i przeglądalna także według jawnych ocen.
 - **Płyta** z dziesięcioma najwyżej ocenionymi utworami plebiscytu - nagrania finansuje organizator, wydaje wydawnictwo-partner, którego jeszcze nie ma. Prawa do nagrań przechodzą na autorów jako część nagrody.
 - **Hymn „Zapytaj inaczej"** w wykonaniu jurorów, z teledyskiem.
 
@@ -59,7 +59,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 **Podstrona plebiscytu.** Zgłoszenia prezentowane na bieżąco przez cały rok, jawna karta oceny, dwie nagrody publiczności, hymn, tekst hymnu. Osobny, bardziej widowiskowy kierunek wizualny - przy zachowaniu rangi równorzędnej, nie podrzędnej.
 
-**Antologia i archiwum - 2028.** Docelowo kilkaset stron pojedynczych rozmów; układ, typografia i nawigacja muszą to unieść.
+**Antologia i Archiwum - 2028.** Docelowo kilkaset stron pojedynczych rozmów; układ, typografia i nawigacja muszą to unieść.
 
 ## 6. Ograniczenia, które nie podlegają negocjacji
 
@@ -73,9 +73,9 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 ## 7. Zakres zlecenia i granica
 
-**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do czytelni, półki, strony pojedynczej rozmowy w archiwum i strony antologii.
+**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do czytelni, półki, strony pojedynczej rozmowy w Archiwum i strony antologii.
 
-**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do weryfikacji formalnej, panel pracy akademii i jury, mechanizmy czytelni, półki i głosowania, publikowanie archiwum.
+**Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do weryfikacji formalnej, panel pracy akademii i jury, mechanizmy czytelni, półki i głosowania, publikowanie Archiwum.
 
 **Kolejność przyjęta przez agencję:** branding przed stroną. Zdanie Piotra: „wynikiem naszej pracy będzie strona internetowa, ale wpierw musimy przejść przez branding". Ela przygotuje plan warsztatów i wyśle mailem przed pierwszym spotkaniem. Warsztaty najlepiej na żywo, w Warszawie.
 
@@ -88,7 +88,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 | Budżet | Przedmiot | Kwota netto |
 |---|---|---:|
 | [Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) | Nagroda i gala: pula nagród, honoraria jury, gala, promocja naboru, prowadzenie konkursu | **ok. 561,7 tys. zł** |
-| [Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) | Antologia i archiwum: redakcja, korekta, skład, druk, utrzymanie archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 277,6 tys. zł** |
+| [Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) | Antologia i Archiwum: redakcja, korekta, skład, druk, utrzymanie Archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 277,6 tys. zł** |
 | [Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 261,7 tys. zł** |
 | [akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) | Pierwsza runda oceny: honoraria czytelników, vouchery rosnące z liczbą ocenionych rozmów, kalibracja | **ok. 49,3 tys. zł** |
 

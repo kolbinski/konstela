@@ -17,7 +17,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Oświadczenie o prawach do zgłoszonego materiału | obowiązkowe | zaznaczenie pola |
 | Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech |
 | Deklaracja pochodzenia materiału | obowiązkowe | treść jest inna w każdej kategorii - patrz niżej |
-| Dlaczego warte nagrody głównej: do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (czytelnia, Projektornia, Słuchalnia, Galeria) i w archiwum; nie podlega punktacji w żadnym kryterium |
+| Dlaczego warte nagrody głównej: do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (czytelnia, Projektornia, Słuchalnia, Galeria) i w Archiwum; nie podlega punktacji w żadnym kryterium |
 
 **Czego nie ma w żadnym formularzu:** numeru PESEL, adresu zamieszkania, danych bankowych, dokumentu tożsamości, pytań o dorobek, wykształcenie, zasięgi ani przynależność do organizacji twórczych.
 
@@ -34,7 +34,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Deklaracja załączników: czy w rozmowie wgrywano pliki, jakiego rodzaju i czy ich treść widać pod linkiem | obowiązkowe |
 | Miejscowość | obowiązkowe, niepublikowana |
 
-Ilustracja może zostać wygenerowana narzędziem sztucznej inteligencji i nie podlega punktacji; reprezentuje rozmowę w czytelni, w archiwum, a przy rozmowie nagrodzonej także w antologii.
+Ilustracja może zostać wygenerowana narzędziem sztucznej inteligencji i nie podlega punktacji; reprezentuje rozmowę w czytelni, w Archiwum, a przy rozmowie nagrodzonej także w antologii.
 
 Odrębności: wiek od 18 lat, więc nie ma zgody opiekuna. Nie ma zgłoszeń zespołowych. Przed wysłaniem formularza działa nieobowiązkowe narzędzie sprawdzające policzalne wymogi formalne. Po wpłynięciu zgłoszenia Organizator sporządza kopię archiwalną i udostępnia ją Uczestnikowi, który ma 7 dni na zgłoszenie błędu odwzorowania.
 

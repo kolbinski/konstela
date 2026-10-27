@@ -64,7 +64,7 @@ Pomysł: zamiast skryptu otwierającego stronę samodzielnie, rozszerzenie dzia�
 
 **Przeciw.** Selektory zostają takie same, więc roczne utrzymanie przy trzech dostawcach nie znika. Dochodzi człowiek w pętli: ktoś musi otworzyć każdy link - przy 300 zgłoszeniach jedno posiedzenie, przy 3000 dni pracy koordynatora, do policzenia w budżecie B. Archiwum zaczyna zależeć od jednego komputera z jedną zalogowaną przeglądarką, co przy jednoosobowym zarządzie jest pojedynczym punktem awarii.
 
-**Wirtualizacja listy.** Aplikacje dostawców usuwają z dokumentu wypowiedzi wyprzewijane poza ekran, więc pojedynczy zrzut na końcu daje przy rozmowie na 200 tur tylko tyle, ile akurat widać. Kolejność wejść od najpewniejszego: (1) odczyt danych, które aplikacja pobiera z serwera dostawcy - wirtualizacja przestaje mieć znaczenie, bo bierzemy dane, z których lista jest rysowana; (2) gromadzenie treści **w trakcie przewijania**, obserwatorem mutacji, z odróżnianiem powtórzeń po identyfikatorze wiadomości albo skrócie treści; (3) gdy jedno i drugie zawiedzie - zgłoszenie idzie do sprawdzenia ręcznego. Ten ostatni warunek jest ważniejszy, niż się wydaje: najgorszy możliwy wynik to archiwum z rozmowami uciętymi w połowie, o czym nikt się nie dowie przed publikacją antologii.
+**Wirtualizacja listy.** Aplikacje dostawców usuwają z dokumentu wypowiedzi wyprzewijane poza ekran, więc pojedynczy zrzut na końcu daje przy rozmowie na 200 tur tylko tyle, ile akurat widać. Kolejność wejść od najpewniejszego: (1) odczyt danych, które aplikacja pobiera z serwera dostawcy - wirtualizacja przestaje mieć znaczenie, bo bierzemy dane, z których lista jest rysowana; (2) gromadzenie treści **w trakcie przewijania**, obserwatorem mutacji, z odróżnianiem powtórzeń po identyfikatorze wiadomości albo skrócie treści; (3) gdy jedno i drugie zawiedzie - zgłoszenie idzie do sprawdzenia ręcznego. Ten ostatni warunek jest ważniejszy, niż się wydaje: najgorszy możliwy wynik to Archiwum z rozmowami uciętymi w połowie, o czym nikt się nie dowie przed publikacją antologii.
 
 **Zasada architektoniczna:** `dialog.json` zostaje kontraktem. Wtyczka jest alternatywnym sposobem pobrania, a nie nowym narzędziem - wypluwa ten sam plik, a generowanie HTML, PDF i EPUB oraz weryfikacja formalna zostają nietknięte. Skrypt obsługuje Gemini i ChatGPT bez nadzoru, wtyczka wchodzi tam, gdzie skrypt nie wchodzi.
 
@@ -119,13 +119,13 @@ Dwie warstwy, łatwe do pomylenia, bo obie nazywa się testami:
 
 ## 6. Eksport przez uczestnika - dlaczego w pierwotnej postaci odpada
 
-Wariant „uczestnik sam załącza eksport rozmowy" wydawał się odporny na wszystko, co psuje skraper. Ustalenie z 21.10.2026 go przewraca: dostawcy w większości **nie oferują eksportu pojedynczej rozmowy** - eksport obejmuje całe konto. ChatGPT wysyła archiwum wszystkich czatów, Gemini idzie przez Takeout, Claude eksportuje konto. Uczestnik, chcąc dostarczyć jedną rozmowę, przysyłałby fundacji kilkaset swoich prywatnych rozmów: korespondencję, sprawy zdrowotne, służbowe, cudze dane.
+Wariant „uczestnik sam załącza eksport rozmowy" wydawał się odporny na wszystko, co psuje skraper. Ustalenie z 21.10.2026 go przewraca: dostawcy w większości **nie oferują eksportu pojedynczej rozmowy** - eksport obejmuje całe konto. ChatGPT wysyła Archiwum wszystkich czatów, Gemini idzie przez Takeout, Claude eksportuje konto. Uczestnik, chcąc dostarczyć jedną rozmowę, przysyłałby fundacji kilkaset swoich prywatnych rozmów: korespondencję, sprawy zdrowotne, służbowe, cudze dane.
 
 Przyjęcie takiego pliku to zbieranie danych bez podstawy przetwarzania, wbrew zasadzie minimalizacji (art. 5 ust. 1 lit. c RODO) - w przedsięwzięciu, którego polityka prywatności podkreśla, że nie zbiera nawet numeru telefonu od wszystkich uczestników. **Regulamin i formularz mają to wprost zakazywać**, a nie przyjmować i usuwać później.
 
 Zostaje to, co jest u każdego dostawcy i obejmuje wyłącznie jedną rozmowę: **wydruk strony do PDF** z poziomu przeglądarki uczestnika. Cena: PDF nie niesie struktury, więc weryfikacja formalna na nim nie pojedzie - role i liczbę tur trzeba by odtwarzać heurystycznie albo czytać ręcznie.
 
-Wniosek zmieniający hierarchię: plik od uczestnika **nie jest drogą równoległą do skrapera, tylko zabezpieczeniem na wypadek zniknięcia linku** - czyli dokładnie tym, co obiecuje § 5 ust. 6. Weryfikacja formalna i archiwum opierają się na kopii pobranej przez organizatora; PDF od uczestnika leży obok jako dowód, że rozmowa istniała w zgłoszonym kształcie.
+Wniosek zmieniający hierarchię: plik od uczestnika **nie jest drogą równoległą do skrapera, tylko zabezpieczeniem na wypadek zniknięcia linku** - czyli dokładnie tym, co obiecuje § 5 ust. 6. Weryfikacja formalna i Archiwum opierają się na kopii pobranej przez organizatora; PDF od uczestnika leży obok jako dowód, że rozmowa istniała w zgłoszonym kształcie.
 
 ## 7. Wniosek operacyjny
 

@@ -20,7 +20,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - zgłaszasz **link do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
-- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [archiwum](#projektornia)**
+- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](#projektornia)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** - tych samych, które zgłosiłeś
 - nabór zamykamy **30 listopada 2027**
 
@@ -100,17 +100,17 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Projektorni](#projektornia) w czasie naboru i w archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Projektorni](#projektornia) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [archiwum](#projektornia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#projektornia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 ### Dwa linki: film i zwiastun
 
 **Zgłaszasz linki do publicznie dostępnego filmu i jego zwiastuna na YouTube.** Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a link ma działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
 
-**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
+**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
 ### Wersja plebiscytowa
 
@@ -120,7 +120,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 
 Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie podlegają ocenie.
 
-**Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i archiwum](#projektornia). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
+**Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i Archiwum](#projektornia). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -213,7 +213,7 @@ Kwalifikacja do dystrybucji kinowej dziesięciu filmów najwyżej ocenionych prz
 
 **Pieniądze z biletów są Twoje.** Rozwiązujemy to tak samo jak płytę w [plebiscycie na piosenkę](/plebiscyt-piosenki): zestaw składamy my, ale **umowę z dystrybutorem zawierasz Ty, nie my**, i Tobie przysługują wpływy z pokazów oraz z późniejszej eksploatacji filmu. Nie nabywamy praw dystrybucyjnych, nie bierzemy prowizji od sprzedaży biletów i nie pobieramy prowizji za to, że dystrybutora znaleźliśmy.
 
-<h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i archiwum</span></h2>
+<h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i Archiwum</span></h2>
 
 ### Projektornia
 
@@ -229,7 +229,7 @@ W Projektorni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona oglą
 
 ### Archiwum
 
-Po ogłoszeniu wyników Projektornia zamienia się w archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim wszystko to, co było we wpisie, wraz z rokiem edycji, a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
+Po ogłoszeniu wyników Projektornia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim wszystko to, co było we wpisie, wraz z rokiem edycji, a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
 
 ### Jawność punktacji
 
@@ -241,7 +241,7 @@ Po ogłoszeniu wyników Projektornia zamienia się w archiwum, udostępniane bez
 
 ### Licencja i podpis
 
-Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza linkiem.** Pokaz kinowy filmu finałowego wymaga osobnej zgody. Zgłoszenie podpisujemy publicznie tak, jak wskażesz - imieniem i nazwiskiem, pseudonimem albo nazwą składu twórczego.
+Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i Archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza linkiem.** Pokaz kinowy filmu finałowego wymaga osobnej zgody. Zgłoszenie podpisujemy publicznie tak, jak wskażesz - imieniem i nazwiskiem, pseudonimem albo nazwą składu twórczego.
 
 ### Prawa do muzyki
 

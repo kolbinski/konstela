@@ -63,7 +63,7 @@ Osobno: **nie ma uzasadnienia dla granicy, według której 100 tys. zł przycią
 
 **18. "List intencyjny nie powinien być warunkiem ruszenia projektu".** Nigdy nie był warunkiem, jest otwieraczem drzwi. Ryzyko zamrożenia inicjatywy na jednej korespondencji jest jednak realne, więc **równoległość kontaktów** (Ministerstwo, partner edukacyjny, fundator) przyjmujemy.
 
-**19. "Archiwum nie będzie reprezentatywnym zapisem, jak ludzie naprawdę rozmawiają".** To nie jest zarzut, tylko doprecyzowanie, które sami zapisaliśmy: archiwum jest opisowe wobec zgłoszeń, nie wobec populacji. Zgoda, że w materiałach zewnętrznych nie wolno obiecywać więcej.
+**19. "Archiwum nie będzie reprezentatywnym zapisem, jak ludzie naprawdę rozmawiają".** To nie jest zarzut, tylko doprecyzowanie, które sami zapisaliśmy: Archiwum jest opisowe wobec zgłoszeń, nie wobec populacji. Zgoda, że w materiałach zewnętrznych nie wolno obiecywać więcej.
 
 ## Kolejność prac
 
@@ -79,7 +79,7 @@ Osobno: **nie ma uzasadnienia dla granicy, według której 100 tys. zł przycią
 
 Recenzja maila do Cezarego i noty dla Ministerstwa. **Zielone światło dla wysłania pakietu.**
 
-Przyjęte i naprawione w nocie: przywrócona bezwarunkowa obietnica "każde zgłoszenie czyta co najmniej dwie osoby" (brakowało wyjątku dla wstępnego przesiewu powyżej 200 zgłoszeń); archiwum opisywane jako przeciwieństwo próbki wyselekcjonowanej, choć samo jest wyselekcjonowane przez zgłoszenie i kwalifikację; zdanie o tym, że publikacja, a nie przelew stanowi o atrakcyjności konkursu, nieaktualne przy puli 300 tys.; niejasność, czy bezpłatność obejmuje wydanie drukowane; fundacja opisana jako już powołana; "warunek wejścia do rozmów" w punkcie 12.
+Przyjęte i naprawione w nocie: przywrócona bezwarunkowa obietnica "każde zgłoszenie czyta co najmniej dwie osoby" (brakowało wyjątku dla wstępnego przesiewu powyżej 200 zgłoszeń); Archiwum opisywane jako przeciwieństwo próbki wyselekcjonowanej, choć samo jest wyselekcjonowane przez zgłoszenie i kwalifikację; zdanie o tym, że publikacja, a nie przelew stanowi o atrakcyjności konkursu, nieaktualne przy puli 300 tys.; niejasność, czy bezpłatność obejmuje wydanie drukowane; fundacja opisana jako już powołana; "warunek wejścia do rozmów" w punkcie 12.
 
 Przyjęte w mailu: prośba przeniesiona do pierwszego akapitu; diagnoza zawężona do siedmiu przejrzanych publikacji, bez twierdzeń o całej Polsce; argument przeformułowany po trafnej uwadze, że nauczyciel może wygenerować rozmowę na żywo przy klasie; usunięty ton recenzowania NauczAI; ujednolicone nazewnictwo na "list intencyjny" w temacie, treści i załączniku; skrócony akapit o autorze.
 

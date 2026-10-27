@@ -38,7 +38,7 @@
 
 **§ 9.** Fundacja realizuje swoje cele przez:
 1. organizowanie i prowadzenie **Nagrody Konstela** - corocznej nagrody przyznawanej w plebiscytach: na rozmowę ze sztuczną inteligencją, na film o sztucznej inteligencji, na piosenkę o sztucznej inteligencji i na plakat o sztucznej inteligencji - w tym składanie przyrzeczeń publicznych i wypłatę nagród;
-2. wydawanie i nieodpłatne udostępnianie antologii nagrodzonych rozmów oraz prowadzenie publicznego archiwum zgłoszeń we wszystkich plebiscytach;
+2. wydawanie i nieodpłatne udostępnianie antologii nagrodzonych rozmów oraz prowadzenie publicznego Archiwum zgłoszeń we wszystkich plebiscytach;
 3. prowadzenie działalności wydawniczej i fonograficznej, także we współpracy z wydawcami zewnętrznymi, w tym wydawanie nagrań utworów nagrodzonych i finałowych;
 3a. organizowanie wystaw, pokazów filmowych i koncertów prezentujących prace zgłoszone do plebiscytów;
 4. organizowanie konferencji, warsztatów, szkoleń i wydarzeń publicznych;

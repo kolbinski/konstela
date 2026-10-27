@@ -1,6 +1,6 @@
 # Nagroda Konstela - Nota koncepcyjna dla Ministerstwa Cyfryzacji
 
-**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne archiwum.
+**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
 
 **Proszę o list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłej decyzji w sprawie patronatu; odnosi się wyłącznie do zgodności tematyki z obszarem kompetencji resortu, bez oceny samego konkursu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. O patronat honorowy nad pierwszą edycją wystąpię odrębnym wnioskiem, po zabezpieczeniu finansowania. **Nie proszę o środki finansowe Ministerstwa.** Rozwinięcie w rozdziale 12.
 
@@ -26,9 +26,9 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu,
 
 **Antologia.** Dziesięć najwyżej ocenionych rozmów każdej edycji, publikowanych bezpłatnie jako e-book, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Planowane jest również wydanie książkowe, płatne i zależne od pozyskania partnera wydawniczego; przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
-**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
+**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; Archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
-Trzy funkcje, które antologia i archiwum pełnią jednocześnie:
+Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
 
 | Funkcja                                                             | Dla kogo                                                      |
 |---------------------------------------------------------------------|---------------------------------------------------------------|
@@ -95,7 +95,7 @@ Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia mo
 
 Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
-**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, która rozstrzyga o dziesiątce antologii i o laureacie; pozostałe zakwalifikowane przez akademię zasilają archiwum.
+**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, która rozstrzyga o dziesiątce antologii i o laureacie; pozostałe zakwalifikowane przez akademię zasilają Archiwum.
 
 **jury - profil składu.** Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron:
 
@@ -116,7 +116,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Fizyczne:** medal z pieczęcią konkursu, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów.
 
-**Trwały produkt:** antologia i archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego konkurs w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w archiwum. Uczestnik może wycofać swoje zgłoszenie z konkursu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść antologii jest już zamknięta, wycofanie nie jest możliwe.
+**Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego konkurs w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum. Uczestnik może wycofać swoje zgłoszenie z konkursu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść antologii jest już zamknięta, wycofanie nie jest możliwe.
 
 ## 9. Finansowanie
 
@@ -127,7 +127,7 @@ Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy fin
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
 | Fundator nagrody i gali | ok. 571 tys. zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), honoraria jury i akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
-| Partner wydawniczy | ok. 233 tys. zł **[do sprawdzenia: arkusz daje 271,7 tys. zł]** | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie archiwum i kopii rozmów, powołanie fundacji |
+| Partner wydawniczy | ok. 233 tys. zł **[do sprawdzenia: arkusz daje 271,7 tys. zł]** | produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie Archiwum i kopii rozmów, powołanie fundacji |
 | **Razem** | **ok. 837 tys. zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
 
