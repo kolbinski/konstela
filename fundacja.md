@@ -54,5 +54,3 @@ Sprawy konkretnego plebiscytu prosimy kierować na jego własny adres:
 - film o sztucznej inteligencji - **plebiscyt.filmu@konstela.org**
 - piosenka o sztucznej inteligencji - **plebiscyt.piosenki@konstela.org**
 - plakat o sztucznej inteligencji - **plebiscyt.plakatu@konstela.org**
-
-W sprawach całej Nagrody i w sprawach wymienionych w regulaminach: **kontakt@konstela.org**.
