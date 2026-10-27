@@ -195,11 +195,13 @@ Elementem gali jest **dialog czytany**: zwycięzca plebiscytu czyta ze sceny swo
 
 Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 
-- **1 stycznia 2027** - planowane otwarcie naboru, po zabezpieczeniu finansowania
-- **cały 2027 rok** - okno rozmów; zgłoszenia przyjmujemy na bieżąco, a czytelnia rośnie
-- **15 stycznia 2028** - zamknięcie zgłoszeń; dwa dodatkowe tygodnie są dla rozmów z końca grudnia
-- **29 lutego 2028** - ostatni dzień na wycofanie zgłoszenia, bo wtedy zamykamy treść antologii
-- **druga połowa kwietnia 2028** - gala, werdykty i premiera antologii
+<dl class="harmonogram">
+<div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
+<div><dt>Cały 2027</dt><dd>Okno rozmów<small>zgłoszenia przyjmujemy na bieżąco, a czytelnia rośnie</small></dd></div>
+<div><dt>15 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dwa dodatkowe tygodnie są dla rozmów z końca grudnia</small></dd></div>
+<div><dt>29 lutego 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
+<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
+</dl>
 
 Pełne zasady są w [regulaminie](/dokument/regulamin-rozmowy) wraz z [kartą oceny](/dokument/regulamin-rozmowy#karta-oceny).
 

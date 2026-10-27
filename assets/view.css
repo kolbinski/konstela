@@ -652,6 +652,98 @@
         }
       }
 
+      /* Harmonogram jako oś czasu - ten sam układ co w sekcji harmonogramu na
+         stronie głównej, przeniesiony na dokumenty. Na telefonie data stoi nad
+         zdarzeniem, od 48 rem przechodzi na lewo od osi i jest wyrównana do
+         prawej, żeby dało się przebiec wzrokiem samą oś. */
+      #content dl.harmonogram {
+        display: block;
+        margin: 1.8rem 0;
+      }
+      #content dl.harmonogram > div {
+        position: relative;
+        padding: 0 0 1.9rem 1.6rem;
+      }
+      #content dl.harmonogram > div:last-child {
+        padding-bottom: 0;
+      }
+      #content dl.harmonogram > div::before {
+        content: '';
+        position: absolute;
+        left: 4px;
+        top: 0.58rem;
+        bottom: 0;
+        width: 1px;
+        background: var(--line);
+      }
+      #content dl.harmonogram > div:last-child::before {
+        display: none;
+      }
+      #content dl.harmonogram > div::after {
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0.3rem;
+        width: 9px;
+        height: 9px;
+        box-sizing: border-box;
+        border: 1px solid var(--brass);
+        border-radius: 50%;
+        background: var(--bg);
+      }
+      /* Gala zamyka oś, więc jej pierścień jest wypełniony. */
+      #content dl.harmonogram > div:last-child::after {
+        background: var(--brass);
+      }
+      #content dl.harmonogram dt {
+        font-family: var(--mono);
+        font-size: 0.7rem;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        color: var(--brass);
+      }
+      #content dl.harmonogram dd {
+        margin: 0.35rem 0 0;
+        font-family: var(--display);
+        font-size: 1.3rem;
+        font-weight: 600;
+        font-variant-numeric: tabular-nums;
+        color: var(--text);
+        line-height: 1.15;
+      }
+      #content dl.harmonogram dd small {
+        font-family: var(--body);
+        font-size: 0.92rem;
+        font-weight: 400;
+        color: var(--muted);
+        display: block;
+        margin-top: 0.45rem;
+        line-height: 1.5;
+      }
+      @media (min-width: 48rem) {
+        #content dl.harmonogram > div {
+          display: grid;
+          grid-template-columns: 11rem 1fr;
+          column-gap: 2.4rem;
+          padding: 0 0 2.1rem;
+        }
+        #content dl.harmonogram > div::before {
+          left: calc(11rem + 1.2rem);
+          top: 0.78rem;
+        }
+        #content dl.harmonogram > div::after {
+          left: calc(11rem + 1.2rem - 4px);
+          top: 0.5rem;
+        }
+        #content dl.harmonogram dt {
+          text-align: right;
+          padding-top: 0.2rem;
+        }
+        #content dl.harmonogram dd {
+          margin-top: 0;
+        }
+      }
+
       @media (max-width: 600px) {
         body {
           font-size: 1.125rem;
