@@ -79,6 +79,8 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 **Zgłasza szkoła, nie uczeń z ulicy.** Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium - jest decyzją szkoły, a nie poleceniem ministerstwa.
 
+**Jak sprawdzamy, że to naprawdę szkoła.** Zgłoszenie grupy i jej werdykt przychodzą z **adresu szkoły**, a my sprawdzamy ten adres z danymi w Rejestrze Szkół i Placówek Oświatowych i wysyłamy na niego kod do przepisania w formularzu. Nie zbieramy przy tym żadnych danych uczniów - ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.
+
 **Uczniowie nie oceniają konkurencji.** W plebiscycie na rozmowę startują wyłącznie osoby pełnoletnie, więc czytający nie może trafić na zgłoszenie kolegi z klasy ani konkurować z tym, co ocenia. Rozmowa wskazana przez uczniów przechodzi przed ogłoszeniem to samo sprawdzenie rzetelności co dziesiątka Kapituły.
 
 **Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia.** Zgłaszając rozmowę, godzisz się na to, że może ona trafić do czytania przez grupy uczniowskie, w tym przez osoby niepełnoletnie - tak samo, jak godzisz się na przeczytanie jej przez Kapitułę i Akademię. Nie wskazujesz, komu Twoja rozmowa ma być przedstawiona do oceny. Zasady są w regulaminie (§ 8 ust. 2a i § 9 ust. 9), a szkoły zainteresowane zgłoszeniem grupy mogą napisać już teraz.
