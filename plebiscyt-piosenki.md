@@ -145,7 +145,7 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 
 **Razem maksymalnie 100 punktów.**
 
-**Jak liczymy wynik.** Punkty zgłoszenia to średnia ocen oceniających osób w akademii i jury, które go słuchały. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce.
+**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z akademii, które go słuchały - i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce.
 
 **Czego nie oceniamy: okładki, jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
 
@@ -156,7 +156,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia piosenki</h3>
-<p><strong>Wszystkich zgłoszeń, które przeszły weryfikację formalną, słucha akademia piosenki</strong> - grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plebiscytu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób słucha jednego utworu i jak powstaje lista, mówimy przed otwarciem naboru, nie po nim.</p>
+<p><strong>Wszystkich zgłoszeń, które przeszły weryfikację formalną, słucha akademia piosenki</strong> - grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plebiscytu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób słucha jednego utworu i jak powstaje lista, mówimy przed otwarciem naboru.</p>
 </article>
 <article>
 <h3>Jury</h3>
