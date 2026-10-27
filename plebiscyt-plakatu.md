@@ -65,7 +65,7 @@ Ta strona służy dziś jednej rzeczy: **zbieramy zainteresowanie**. Jeśli napi
 
 **Czego nagranie nie musi mieć.** Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Nie wymagamy profesjonalnego sprzętu. Nagranie nie jest oceniane w żadnym kryterium. Nie publikujemy go nigdzie - ani w Galerii, ani w archiwum - i udostępniamy je wyłącznie oceniającym i jury. Twarz na nagraniu nie odbiera Ci możliwości zgłoszenia pracy pod pseudonimem: publicznie podpisujemy pracę tak, jak wskażesz.
 
-**Jak je przesłać.** Możesz przesłać plik albo link do nagrania w serwisie wideo - wybór należy do Ciebie. Przy linku pamiętaj, że dostęp do nagrania zależy również od zasad wybranego serwisu: film „niepubliczny" w popularnych serwisach może obejrzeć każdy, kto ma do niego odnośnik. Jeśli wolisz tego uniknąć, prześlij plik.
+**Jak je przesłać.** Możesz przesłać plik albo link do nagrania w serwisie wideo - wybór należy do Ciebie. Przy linku pamiętaj, że dostęp do nagrania zależy również od zasad wybranego serwisu: film „niepubliczny" w popularnych serwisach może obejrzeć każdy, kto ma do niego link. Jeśli wolisz tego uniknąć, prześlij plik.
 
 **Pozostałe materiały z etapów pracy** - szkic, podmalówkę, zdjęcia w trakcie - możesz dołączyć, ale nie musisz. Jeśli istnieją, pomagają.
 

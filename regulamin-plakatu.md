@@ -76,7 +76,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 1. **Nagranie jest obowiązkowym elementem zgłoszenia.** Służy powiązaniu Uczestnika z wykonywaniem pracy, którego ręcznego charakteru wymaga § 6.
 
-2. Nagranie przekazuje się **w postaci pliku, drogą wskazaną przez Organizatora, albo jako odnośnik do nagrania w serwisie wideo**; wybór należy do Uczestnika. Nagranie przekazane odnośnikiem może być niepubliczne i musi być dostępne do dnia gali. Przy przekazaniu odnośnikiem dostęp do nagrania określają również zasady wybranego serwisu, nad którymi Organizator nie ma kontroli.
+2. Nagranie przekazuje się **w postaci pliku, drogą wskazaną przez Organizatora, albo jako link do nagrania w serwisie wideo**; wybór należy do Uczestnika. Nagranie przekazane linkiem może być niepubliczne i musi być dostępne do dnia gali. Przy przekazaniu linkiem dostęp do nagrania określają również zasady wybranego serwisu, nad którymi Organizator nie ma kontroli.
 
 3. Nagranie trwa **co najmniej 5 minut** i spełnia następujące warunki:
 
@@ -102,7 +102,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 8. Przy pracy wykonanej wspólnie nagranie obejmuje pracę współautorów w zakresie pozwalającym stwierdzić, że pracę wykonał zgłoszony skład, a przejście z ust. 3 lit. c1 wykonuje się dla każdego ze współautorów, którego praca jest w nagraniu widoczna.
 
-9. Nagranie przechowywane jest **do upływu 30 dni od dnia gali**, a następnie usuwane. Jeżeli przed upływem tego terminu wszczęto postępowanie z § 15, nagranie zgłoszenia, którego postępowanie dotyczy, przechowywane jest do jego zakończenia i usuwane w terminie 30 dni od tej chwili. Po upływie terminu Organizator usuwa posiadane kopie oraz odnośnik, a oceniający usuwają kopie robocze zgodnie z zawartymi z nimi umowami; nagranie pozostające na koncie Uczestnika w serwisie wideo pozostaje pod jego kontrolą. Zasady przetwarzania nagrania opisuje polityka prywatności.
+9. Nagranie przechowywane jest **do upływu 30 dni od dnia gali**, a następnie usuwane. Jeżeli przed upływem tego terminu wszczęto postępowanie z § 15, nagranie zgłoszenia, którego postępowanie dotyczy, przechowywane jest do jego zakończenia i usuwane w terminie 30 dni od tej chwili. Po upływie terminu Organizator usuwa posiadane kopie oraz link, a oceniający usuwają kopie robocze zgodnie z zawartymi z nimi umowami; nagranie pozostające na koncie Uczestnika w serwisie wideo pozostaje pod jego kontrolą. Zasady przetwarzania nagrania opisuje polityka prywatności.
 
 ## § 5. Wymogi formalne
 

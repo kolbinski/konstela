@@ -105,4 +105,4 @@ Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w termi
 | Runda druga | 0 | czyta jury; Organizator nie ocenia merytorycznie |
 | Postępowania szczególne | pojedyncze | tylko te, co do których przyszedł sygnał |
 | Antologia | 10 | redaguje komentarze jury i składa tom |
-| Archiwum rozmów | 0 | obejmuje wszystkie zgłoszenia po ocenie formalnej, z kopią rozmowy i odnośnikiem |
+| Archiwum rozmów | 0 | obejmuje wszystkie zgłoszenia po ocenie formalnej, z kopią rozmowy i linkiem |

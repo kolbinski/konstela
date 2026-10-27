@@ -137,11 +137,11 @@ Tekst ma najwyższą wagę, bo to plebiscyt, w którym oceniamy również pisani
 
 ## <!--ikona:sluchalnia--><span>Słuchalnia i archiwum</span>
 
-**Utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, deklarację użycia AI i odnośnik do nagrania. Tekstu utworu nie publikujemy.
+**Utwory, które przeszły sprawdzenie formalne, pokazujemy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, deklarację użycia AI i link do nagrania. Tekstu utworu nie publikujemy.
 
-**Nie trzymamy u siebie nagrań.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, odnośnik po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
+**Nie trzymamy u siebie nagrań.** Piosenka cały czas stoi na Twoim kanale i to Ty nią zarządzasz - Słuchalnia jest katalogiem, nie składem nagrań. Dlatego jeśli kiedyś usuniesz nagranie, link po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
 
-**Po gali Słuchalnia zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim okładka, tytuł, podpis, deklaracja, rok edycji i odnośnik - żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
+**Po gali Słuchalnia zamyka się i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. Zostaje w nim okładka, tytuł, podpis, deklaracja, rok edycji i link - żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. O usunięcie swojego wpisu możesz poprosić w każdej chwili.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojej piosenki</span>
 

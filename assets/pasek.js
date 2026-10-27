@@ -5,7 +5,7 @@
  *
  * Pozycje menu powstają z nagłówków strony, a nie z listy wpisanej ręcznie:
  * lista wpisana ręcznie rozjeżdża się z treścią przy każdej jej zmianie, a
- * rozjechanie widać dopiero wtedy, gdy ktoś kliknie odnośnik prowadzący w
+ * rozjechanie widać dopiero wtedy, gdy ktoś kliknie link prowadzący w
  * nieistniejące miejsce.
  *
  * Dwa układy, jedno zachowanie:
@@ -79,7 +79,7 @@
   }
 
   /* Wyłącznie strona główna: pod pozycją sekcji z plebiscytami wchodzą
-     wcięte odnośniki do czterech podstron. Nie powstają z nagłówków, bo w
+     wcięte linki do czterech podstron. Nie powstają z nagłówków, bo w
      sekcji ich nie ma - to są cztery osobne strony, a nie jej fragmenty. */
   var PODSTRONY = {
     plebiscyty: [

@@ -45,7 +45,7 @@ Przyjęta forma zgłoszenia to **link do utworu opublikowanego na YouTube**, nie
 
 ## 4a. Zwiastun jako obowiązkowy element zgłoszenia filmu
 
-Od 27.10.2026 zgłoszeniem w plebiscycie filmu jest odnośnik do filmu **oraz** odnośnik do jego zwiastuna (60-120 sekund). Zwiastun nie podlega ocenie, odtwarza się przy wpisie w Projektorni i w archiwum, a przy filmach z czołowej piątki jest tym, co prezentowane jest podczas gali. Organizator nie montuje już fragmentów cudzych filmów.
+Od 27.10.2026 zgłoszeniem w plebiscycie filmu jest link do filmu **oraz** link do jego zwiastuna (60-120 sekund). Zwiastun nie podlega ocenie, odtwarza się przy wpisie w Projektorni i w archiwum, a przy filmach z czołowej piątki jest tym, co prezentowane jest podczas gali. Organizator nie montuje już fragmentów cudzych filmów.
 
 - Czy wymóg dostarczenia utworu odrębnego od zgłaszanego dzieła, nieobjętego oceną, jest wobec konsumenta dopuszczalny jako warunek udziału.
 - Czy licencja na zwiastun obejmuje prawidłowo **pobranie i techniczne przygotowanie do emisji** (jakość emisyjna, dopasowanie formatu, normalizacja dźwięku, plansza z tytułem), czy potrzebny jest odrębny zakres.

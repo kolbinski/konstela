@@ -11,7 +11,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
-- zgłaszasz **odnośnik do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **odnośnik do zwiastuna** tego filmu, od 60 do 120 sekund
+- zgłaszasz **link do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
 - Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym archiwum**
@@ -64,7 +64,7 @@ Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przegl�
 
 ### Wersja plebiscytowa
 
-**Ocenie podlega wersja filmu dostępna pod odnośnikiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; między werdyktem a galą nie odbiera nagrody, ale wyłącza film z głosowania publiczności, które trwa do dnia gali; po gali jest już bez znaczenia dla zgłoszenia. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego odnośnika.
+**Ocenie podlega wersja filmu dostępna pod linkiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; między werdyktem a galą nie odbiera nagrody, ale wyłącza film z głosowania publiczności, które trwa do dnia gali; po gali jest już bez znaczenia dla zgłoszenia. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego linku.
 
 ### Pozostałe pola zgłoszenia
 
@@ -157,7 +157,7 @@ Po werdykcie Projektornia zostaje zamknięta i przechodzi do archiwum, dostępne
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
-**Prawa zostają w całości przy twórcach.** Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza odnośnikiem.** Pełny pokaz filmu finałowego wymaga osobnej zgody.
+**Prawa zostają w całości przy twórcach.** Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza linkiem.** Pełny pokaz filmu finałowego wymaga osobnej zgody.
 
 **Oświadczasz przy zgłoszeniu, że masz prawa do oprawy muzycznej zwiastuna i filmu** - albo licencję, która dopuszcza publiczne odtworzenie. Rozliczenie z organizacją zbiorowego zarządzania za muzykę odtworzoną na gali jest po naszej stronie i tego obowiązku na Ciebie nie przenosimy.
 

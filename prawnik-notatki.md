@@ -1,6 +1,6 @@
 # Konsultacja prawna - lista adresatów i notatki
 
-Zapytanie o wycenę wysłane **22.10.2026** do pięciu kancelarii. Temat: „Zapytanie o wycenę: regulamin, RODO i licencje nagrody ogólnopolskiej". Bez załączników - w treści dwa odnośniki, do [zakresu konsultacji](/dokument/prawnik) i do [regulaminu](/dokument/regulamin-rozmowy).
+Zapytanie o wycenę wysłane **22.10.2026** do pięciu kancelarii. Temat: „Zapytanie o wycenę: regulamin, RODO i licencje nagrody ogólnopolskiej". Bez załączników - w treści dwa linki, do [zakresu konsultacji](/dokument/prawnik) i do [regulaminu](/dokument/regulamin-rozmowy).
 
 O co poproszono: wycenę, wskazanie, które obszary rzeczywiście wymagają analizy, a które da się zamknąć jednym akapitem, oraz potwierdzenie, czy kancelaria podejmie się sprawy w terminie. Zaznaczono, że cztery obszary muszą zostać rozstrzygnięte do końca listopada, bo od nich zależy treść statutu fundacji i otwarcie naboru 1 stycznia 2027.
 

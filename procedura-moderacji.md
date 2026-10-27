@@ -99,7 +99,7 @@ Oznacz, gdy obejrzane nagranie nie przekonuje Cię, że pracę wykonuje osoba, k
 
 ### Plebiscyt na piosenkę o sztucznej inteligencji
 
-Zakres jest tu najwęższy ze wszystkich czterech, bo organizator nie publikuje nagrań: Słuchalnia pokazuje okładkę, podpis i odnośnik do nagrania. Oznaczasz więc to, co publikujemy, czyli okładkę.
+Zakres jest tu najwęższy ze wszystkich czterech, bo organizator nie publikuje nagrań: Słuchalnia pokazuje okładkę, podpis i link do nagrania. Oznaczasz więc to, co publikujemy, czyli okładkę.
 
 **S1. Okładka zgłoszenia.**
 

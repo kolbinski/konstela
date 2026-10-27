@@ -138,7 +138,7 @@ const OPISY = {
   'plebiscyt-plakatu':
     'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę antologii Nagrody Konstela.',
   'plebiscyt-filmu':
-    'Otwarty konkurs na film o sztucznej inteligencji, od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Zgłoszeniem jest odnośnik do filmu na Twoim kanale; nie ma zakazu użycia AI, jest obowiązek deklaracji.',
+    'Otwarty konkurs na film o sztucznej inteligencji, od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Zgłoszeniem jest link do filmu na Twoim kanale; nie ma zakazu użycia AI, jest obowiązek deklaracji.',
   'regulaminy':
     'Cztery regulaminy plebiscytów Nagrody Konstela w jednym miejscu: rozmowa, film, piosenka, plakat. Co je łączy i jakie dokumenty im towarzyszą.',
   'procedura-moderacji':
@@ -225,7 +225,7 @@ function opis(md) {
   if (!akapit) return 'Nagroda Konstela - coroczna nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.';
 
   let czysty = akapit
-    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')  // odnośniki
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')  // linki
     .replace(/<[^>]*>/g, '')                  // wstawki HTML
     .replace(/[*_`#]/g, '')
     .replace(/\s+/g, ' ')
@@ -242,7 +242,7 @@ function opis(md) {
 function otworzObceWNowejKarcie(html) {
   return html.replace(/<a href="(https?:\/\/[^"]+)"([^>]*)>/g, (calosc, adres, reszta) => {
     if (adres.indexOf('konstela.org') !== -1) return calosc;
-    /* Część dokumentów ma wpisane surowe odnośniki HTML z własnymi
+    /* Część dokumentów ma wpisane surowe linki HTML z własnymi
        atrybutami - takich nie dublujemy. */
     if (/target=/.test(reszta)) return calosc;
     return '<a href="' + adres + '" target="_blank" rel="noopener noreferrer"' + reszta + '>';

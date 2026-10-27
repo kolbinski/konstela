@@ -42,7 +42,7 @@ Odrębności: wiek od 18 lat, więc nie ma zgody opiekuna. Nie ma zgłoszeń zes
 
 | Pole | Status |
 |---|---|
-| Odnośnik do filmu opublikowanego przez Uczestnika w serwisie wideo | obowiązkowe |
+| Link do filmu opublikowanego przez Uczestnika w serwisie wideo | obowiązkowe |
 | Czas trwania | obowiązkowe |
 | Data ukończenia filmu | obowiązkowe |
 | Miniatura: JPG albo PNG, 16:9, dłuższy bok 1280-3840 px, do 5 MB | obowiązkowe |
@@ -71,7 +71,7 @@ Odrębności: wiek od 16 lat. Zgoda opiekuna na prezentację zgłoszenia jest wa
 | Pole | Status |
 |---|---|
 | Reprodukcja pracy: JPG albo PNG, cała praca w kadrze, krótszy bok od 2000 px, do 15 MB | obowiązkowe |
-| Nagranie z powstawania pracy, co najmniej 5 minut - plik albo odnośnik do serwisu wideo | obowiązkowe |
+| Nagranie z powstawania pracy, co najmniej 5 minut - plik albo link do serwisu wideo | obowiązkowe |
 | Technika | obowiązkowe |
 | Wymiary oryginału | obowiązkowe |
 | Rok powstania | obowiązkowe |

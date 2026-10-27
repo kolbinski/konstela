@@ -99,7 +99,7 @@ Dwie informacje przekazane od ręki:
 
 Polecone biuro rachunkowe: https://biuro-lex.pl/
 
-**Stan na 23.10.2026:** oba zgłoszenia przez formularz wysłane, projekt statutu przesłany mailem jako `statut.docx` wraz z odnośnikiem do wersji na stronie. Czekamy na kontakt doradcy prawnego i księgowego. Bez odpowiedzi do 28.10 dzwonimy na +48 451 225 034, bo notariusz planowany jest na początek listopada. Do Biuro-Lex piszemy równolegle, niezależnie od terminu konsultacji.
+**Stan na 23.10.2026:** oba zgłoszenia przez formularz wysłane, projekt statutu przesłany mailem jako `statut.docx` wraz z linkiem do wersji na stronie. Czekamy na kontakt doradcy prawnego i księgowego. Bez odpowiedzi do 28.10 dzwonimy na +48 451 225 034, bo notariusz planowany jest na początek listopada. Do Biuro-Lex piszemy równolegle, niezależnie od terminu konsultacji.
 
 **1. Działalność gospodarcza - potwierdzona.** Jeżeli fundacja będzie udzielać licencji w sposób ciągły i osiągać z tego dochód, jest to działalność gospodarcza. Decyzja z 21.10.2026 o wpisaniu jej do statutu od razu okazała się trafna i przestaje być zakładem - § 12 i rozdział o działalności gospodarczej w [statucie](/dokument/statut) zostają.
 

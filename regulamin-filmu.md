@@ -53,7 +53,7 @@
 
 2a. **Czego ust. 2 lit. c nie zakazuje.** Wykorzystania materiałów powstałych wcześniej jako składników nowego filmu: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza, istniejącej muzyki ani zdjęć zrealizowanych przed ogłoszeniem Plebiscytu. Warunek dotyczy **ukończonego filmu**, a nie jego części składowych; prawa do tych materiałów pozostają sprawą Uczestnika (§ 12 ust. 1 lit. a).
 
-3. **Opublikowanie filmu na kanale Uczestnika nie jest zgłoszeniem do innego konkursu ani pokazem festiwalowym.** Zgłoszenie w tym Plebiscycie polega na wskazaniu odnośnika do filmu opublikowanego przez Uczestnika (§ 4 ust. 1 lit. a), więc publikacja jest warunkiem udziału, a nie jego naruszeniem. Nie są też naruszeniem ust. 2: pokaz dla współtwórców, pokaz w szkole albo na uczelni Uczestnika oraz udostępnienie filmu bez zgłoszenia go do oceny.
+3. **Opublikowanie filmu na kanale Uczestnika nie jest zgłoszeniem do innego konkursu ani pokazem festiwalowym.** Zgłoszenie w tym Plebiscycie polega na wskazaniu linku do filmu opublikowanego przez Uczestnika (§ 4 ust. 1 lit. a), więc publikacja jest warunkiem udziału, a nie jego naruszeniem. Nie są też naruszeniem ust. 2: pokaz dla współtwórców, pokaz w szkole albo na uczelni Uczestnika oraz udostępnienie filmu bez zgłoszenia go do oceny.
 
 4. **Po dniu gali Uczestnik dysponuje filmem bez ograniczeń**, w tym może zgłaszać go do innych konkursów, festiwali i przeglądów. Wyłączenie z ust. 2 obejmuje wyłącznie czas do dnia gali.
 
@@ -63,9 +63,9 @@
 
 1. Zgłoszenie składa się przez formularz na stronie Nagrody i obejmuje:
 
-   a) **odnośnik do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. **Odnośnik musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas publiczny; Organizator sprawdza odnośnik przy zgłoszeniu i informuje o problemie niezwłocznie;
+   a) **link do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. **Link musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas publiczny; Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
 
-   a1) **odnośnik do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych - także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
+   a1) **link do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych - także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
 
    b) **tytuł filmu** - obowiązkowe, do 120 znaków;
 
@@ -87,7 +87,7 @@
 
 2. Na jeden numer telefonu przypada jedno zgłoszenie w edycji; zgłoszenie potwierdzane jest jednorazowym kodem przesłanym na ten numer. Organizator nie przechowuje numeru w postaci jawnej.
 
-3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, zwiastun, opis, deklarację i odnośnik. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
+3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
 
 ## § 5. Wymogi formalne
 
@@ -279,19 +279,19 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 11. Projektornia i archiwum
 
-1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, **zwiastun**, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6 oraz odnośnik do filmu.
+1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, **zwiastun**, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6 oraz link do filmu.
 
 2. Wpis pojawia się po przejściu oceny formalnej, a nie w chwili złożenia zgłoszenia. Kolejność w Projektorni wyznacza wyłącznie data zgłoszenia; Organizator nie prowadzi rankingu i nie publikuje liczników odsłon ani popularności.
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
-4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. W archiwum zostaje tytuł, podpis, miniatura, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, odnośnik i rok edycji. Punktacja w archiwum jest jawna, na zasadach ogłoszonych przed otwarciem naboru.
+4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do archiwum**, dostępnego bezpłatnie i bez ograniczeń. W archiwum zostaje tytuł, podpis, miniatura, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link i rok edycji. Punktacja w archiwum jest jawna, na zasadach ogłoszonych przed otwarciem naboru.
 
 5. Organizator może zdjąć wpis z Projektorni albo z archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 
-6. **Wersja plebiscytowa.** Ocenie podlega wersja filmu dostępna pod wskazanym odnośnikiem **w dniu zamknięcia naboru**. Uczestnik zobowiązuje się nie zmieniać jej do dnia ogłoszenia werdyktu; poprawki techniczne nienaruszające treści, w szczególności korekta napisów, są dopuszczalne.
+6. **Wersja plebiscytowa.** Ocenie podlega wersja filmu dostępna pod wskazanym linkiem **w dniu zamknięcia naboru**. Uczestnik zobowiązuje się nie zmieniać jej do dnia ogłoszenia werdyktu; poprawki techniczne nienaruszające treści, w szczególności korekta napisów, są dopuszczalne.
 
-6a. **Jak Organizator ustala, co było wersją plebiscytową.** Organizator **nie przechowuje kopii filmu** i nie jest w stanie odtworzyć materiału sprzed zmiany. W dniu zamknięcia naboru sporządza natomiast **metrykę zgłoszenia**: czas trwania filmu co do sekundy, tytuł, miniaturę, odnośnik i czas trwania zwiastuna, datę publikacji podaną przez serwis oraz zapis wpisu w Projektorni, wraz z datą sporządzenia. Zwiastun Organizator pobiera w jakości emisyjnej po zamknięciu naboru, wyłącznie w zakresie licencji z § 12 ust. 2 lit. b. Oceniający odnotowują czas trwania obejrzanego filmu.
+6a. **Jak Organizator ustala, co było wersją plebiscytową.** Organizator **nie przechowuje kopii filmu** i nie jest w stanie odtworzyć materiału sprzed zmiany. W dniu zamknięcia naboru sporządza natomiast **metrykę zgłoszenia**: czas trwania filmu co do sekundy, tytuł, miniaturę, link i czas trwania zwiastuna, datę publikacji podaną przez serwis oraz zapis wpisu w Projektorni, wraz z datą sporządzenia. Zwiastun Organizator pobiera w jakości emisyjnej po zamknięciu naboru, wyłącznie w zakresie licencji z § 12 ust. 2 lit. b. Oceniający odnotowują czas trwania obejrzanego filmu.
 
 6b. **Skutki zmiany.** Rozbieżność z metryką albo z zapisem oceniających jest podstawą wszczęcia wyjaśnień, a nie wykluczenia. **Wykluczenie wymaga wykazania niedopuszczalnej zmiany treści filmu**, w trybie z § 14, a ciężar wykazania spoczywa na Organizatorze. Zmiana samego tytułu albo miniatury nie jest takim wykazaniem; różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z poprawki technicznej dopuszczonej w ust. 6.
 
@@ -303,11 +303,11 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    c) **między ogłoszeniem werdyktu a galą** - **nie powoduje utraty nagrody** ani zwrotu nagrody wypłaconej. Film przestaje natomiast brać udział w głosowaniu publiczności, które trwa do dnia gali, a Organizator oznacza wpis jako niedostępny;
 
-   d) **po gali** - nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w archiwum pozostaje bez działającego odnośnika, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
+   d) **po gali** - nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w archiwum pozostaje bez działającego linku, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
 
 7a. **Usunięcie albo ukrycie zwiastuna** wywołuje te same skutki co usunięcie filmu, według dnia wskazanego w ust. 7, z dwoma wyjątkami: Organizator najpierw zawiadamia Uczestnika i wyznacza termin nie krótszy niż 14 dni na przywrócenie zwiastuna albo wskazanie innego, spełniającego wymogi z § 4 ust. 1 lit. a1, a po gali usunięcie zwiastuna nie wywołuje żadnych skutków dla zgłoszenia.
 
-8. **Niedostępność niezawiniona przez Uczestnika.** Jeżeli film albo zwiastun przestaje być dostępny z przyczyn leżących po stronie serwisu - awarii, blokady, ograniczenia nałożonego przez dostawcę albo zgłoszenia naruszenia praw przez osobę trzecią - Organizator zawiadamia Uczestnika pocztą elektroniczną i wyznacza termin nie krótszy niż 14 dni na przywrócenie dostępności albo wskazanie odnośnika do tego samego filmu w innym serwisie. Zachowanie tego terminu oznacza, że zgłoszenie pozostaje w Plebiscycie bez utraty punktacji; ust. 7 nie stosuje się.
+8. **Niedostępność niezawiniona przez Uczestnika.** Jeżeli film albo zwiastun przestaje być dostępny z przyczyn leżących po stronie serwisu - awarii, blokady, ograniczenia nałożonego przez dostawcę albo zgłoszenia naruszenia praw przez osobę trzecią - Organizator zawiadamia Uczestnika pocztą elektroniczną i wyznacza termin nie krótszy niż 14 dni na przywrócenie dostępności albo wskazanie linku do tego samego filmu w innym serwisie. Zachowanie tego terminu oznacza, że zgłoszenie pozostaje w Plebiscycie bez utraty punktacji; ust. 7 nie stosuje się.
 
 ## § 11a. Nagroda publiczności i głosowanie
 
@@ -335,7 +335,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 2. **Prawa do filmu pozostają w całości przy jego twórcach.** Uczestnik udziela Organizatorowi licencji **niewyłącznej**, nieodpłatnej, w następujących zakresach:
 
-   a) prezentacja wpisu w Projektorni i w archiwum, obejmująca tytuł, podpis, miniaturę, zwiastun, opis, deklarację i odnośnik - **na czas nieoznaczony**;
+   a) prezentacja wpisu w Projektorni i w archiwum, obejmująca tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link - **na czas nieoznaczony**;
 
    b) prezentacja **zwiastuna** podczas gali oraz w zapisie wideo gali udostępnianym następnie bezpłatnie, wraz z pobraniem i technicznym przygotowaniem zwiastuna do emisji w zakresie z § 10 ust. 3 - **na pięć lat** od dnia gali;
 
@@ -404,7 +404,7 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 5. **Wizerunek osób występujących** i wystarczalność oświadczenia Uczestnika z § 12 ust. 1 lit. d.
 6. **Termin wycofania zgłoszenia (§ 13)** - skuteczność wobec konsumenta.
 6a. **Wyłączenie z § 3a ust. 2** - czy wymóg niezgłaszania filmu do innych konkursów do dnia gali, przy jednoczesnym obowiązku jego publikacji, jest wobec konsumenta wystarczająco jednoznaczny i czy nie jest postanowieniem niedozwolonym; oraz jak traktować film zgłoszony gdzie indziej przed otwarciem naszego naboru.
-7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy odnośniku prezentowanym na stronie Nagrody.
+7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy linku prezentowanym na stronie Nagrody.
 8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** - czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
 9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** - czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
 10. **Wersja plebiscytowa (§ 11 ust. 6-6b)** - czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.
