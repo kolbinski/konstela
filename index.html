@@ -66,8 +66,8 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610271035" />
-    <link rel="stylesheet" href="/assets/pasek.css?v=202610271035" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=202610271037" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=202610271037" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
       @font-face {
@@ -584,6 +584,17 @@
       .prose > h3:first-child {
         margin-top: 0;
       }
+      /* Listy wewnątrz prozy. Wcięcie jest małe, bo kolumna tekstu jest
+         wąska, a punktor i tak wystarcza za sygnał, że to wyliczenie. */
+      .prose ul {
+        margin: 1rem 0;
+        padding-left: 1.1rem;
+        display: grid;
+        gap: 0.5rem;
+      }
+      .prose li {
+        padding-left: 0.2rem;
+      }
 
       blockquote {
         margin: 1.75rem 0;
@@ -1065,14 +1076,26 @@
             zrobił człowiek: jego pytania, jego melodię, jego rękę.
           </p>
           <h3>Cztery dziedziny, jedno pytanie</h3>
+          <p>Pytamy o to samo w czterech dziedzinach:</p>
+          <ul>
+            <li>
+              <strong>rozmowa ze sztuczną inteligencją</strong> - liczą się
+              pytania, a nie odpowiedzi;
+            </li>
+            <li>
+              <strong>film o sztucznej inteligencji</strong> - zrobiony od zera
+              na potrzeby naszego plebiscytu;
+            </li>
+            <li>
+              <strong>piosenka o sztucznej inteligencji</strong> - melodia,
+              harmonia i wokal pochodzą od człowieka;
+            </li>
+            <li>
+              <strong>plakat o sztucznej inteligencji</strong> - wykonany
+              ręcznie, bez generatora obrazu.
+            </li>
+          </ul>
           <p>
-            Pytamy o to samo w czterech dziedzinach. O <strong>rozmowę ze
-            sztuczną inteligencją</strong>, w której liczą się pytania, a nie
-            odpowiedzi. O <strong>film o sztucznej inteligencji</strong>,
-            zrobiony od zera na potrzeby naszego plebiscytu. O <strong>piosenkę o
-            sztucznej inteligencji</strong>, w której melodia, harmonia i wokal
-            pochodzą od człowieka. I o <strong>plakat o sztucznej
-            inteligencji</strong>, wykonany ręcznie, bez generatora obrazu.
             Cztery odpowiedzi na jedno pytanie: co robimy z tym, co się
             wydarzyło w świecie zdominowanym przez sztuczną inteligencję.
           </p>
@@ -1657,8 +1680,8 @@
       <konstela-stopka></konstela-stopka>
     </div>
 
-    <script src="/assets/stopka.js?v=202610271035" defer></script>
-    <script src="/assets/czytelnosc.js?v=202610271035" defer></script>
-    <script src="/assets/pasek.js?v=202610271035" defer></script>
+    <script src="/assets/stopka.js?v=202610271037" defer></script>
+    <script src="/assets/czytelnosc.js?v=202610271037" defer></script>
+    <script src="/assets/pasek.js?v=202610271037" defer></script>
   </body>
 </html>
