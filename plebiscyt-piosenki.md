@@ -46,7 +46,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 **Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć - plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
 
-**Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
+**Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
 ## <!--ikona:konstelacja--><span>Dlaczego w ogóle o tym śpiewać</span>
 
