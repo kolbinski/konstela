@@ -1,5 +1,7 @@
 # Regulamin plebiscytu na plakat o sztucznej inteligencji
 
+---
+
 Plebiscyt na plakat jest odrębnym konkursem prowadzonym przez Organizatora Nagrody Konstela i rozstrzyganym na tej samej gali. Regulamin Nagrody Konstela oraz regulamin plebiscytu na piosenkę nie stosują się do niniejszego konkursu, chyba że ten regulamin wprost do nich odsyła.
 
 Dokument w wersji przeznaczonej do przeglądu prawnego. Konkurs nie jest ogłoszony, a nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.

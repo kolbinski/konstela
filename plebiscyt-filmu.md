@@ -1,5 +1,7 @@
 # Plebiscyt na film o sztucznej inteligencji
 
+---
+
 ## <!--ikona:tasma-filmowa--><span>Co to za plebiscyt</span>
 
 **Przygotowujemy pierwszą edycję. Nabór nie jest jeszcze otwarty** - możesz zgłosić zainteresowanie, a dowiesz się pierwszy, gdy ruszy.

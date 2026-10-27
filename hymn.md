@@ -1,5 +1,7 @@
 # Hymn Nagrody Konstela „Zapytaj inaczej"
 
+---
+
 Hymn jest osobny od [plebiscytu na piosenkę](/plebiscyt-piosenki) i nie bierze w nim udziału. Ta strona zbiera w jednym miejscu tekst, wersje nagrań i zasadę, której hymn podlega tak samo jak zgłoszenia.
 
 ## <!--ikona:nuta--><span>Skąd się bierze hymn</span>
