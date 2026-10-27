@@ -89,8 +89,8 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 <p>Werdykt jury. Nagroda pieniężna i <strong>mosiężny medal Nagrody Konstela</strong> z pieczęcią, grawerowany, wręczany osobiście - ten sam, który dostają zwycięzcy pozostałych plebiscytów.</p>
 </article>
 <article>
-<h3>Wyróżnienia</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury oraz tłoczone dyplomy dla wszystkich pięciu finalistów.</p>
+<h3>Nagroda za drugie i trzecie miejsce</h3>
+<p>Nagrody pieniężne dla dwóch kolejnych filmów z werdyktu jury. Tłoczone dyplomy odbiera cała piątka finalistów.</p>
 </article>
 <article>
 <h3>Nagroda Publiczności</h3>

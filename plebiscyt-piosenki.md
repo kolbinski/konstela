@@ -110,8 +110,8 @@ Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitar
 <p>Werdykt jury. Nagroda pieniężna i <strong>mosiężny medal Nagrody Konstela</strong> - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów.</p>
 </article>
 <article>
-<h3>Wyróżnienia</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury oraz tłoczone dyplomy dla całej dziesiątki finalistów.</p>
+<h3>Nagroda za drugie i trzecie miejsce</h3>
+<p>Nagrody pieniężne dla dwóch kolejnych utworów z werdyktu jury. Tłoczone dyplomy odbiera cała dziesiątka finalistów.</p>
 </article>
 <article>
 <h3>Nagroda Publiczności</h3>
