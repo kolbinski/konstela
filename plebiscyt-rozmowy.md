@@ -7,15 +7,16 @@
 
 Konkurs na **rozmowę z AI, po której zostaje coś więcej niż odpowiedź** - i co da się nazwać. Nagradzany jest człowiek, nie program, bo oceniane są pytania, a nie odpowiedzi.
 
-Zgłaszasz rozmowę, którą sam odbyłeś: dowolną, byle dało się ją udostępnić pod linkiem, i po której coś zrozumiałeś inaczej niż przedtem. Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i kilka zdań o tym, co w tej rozmowie odkryłeś.
+Zgłaszasz rozmowę, którą sam odbyłeś: dowolną, którą da się udostępnić pod linkiem generowanym przez czat AI.
+
+Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego, czego dotyczyła rozmowa oraz dlaczego jest warta nagrody głównej.
 
 **W skrócie:**
 
 - **nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury;
-- obok niej przyznawane są **Nagroda Uczniowska** i **Nagroda Publiczności**, niezależnie od jej werdyktu;
-- **dziesięć najlepszych rozmów** składa się na antologię wydaną bezpłatnie;
-- wszystkie zgłoszenia trafiają do **czytelni**, a po werdykcie do publicznego archiwum;
-- nabór planujemy na 2027 rok, po zabezpieczeniu finansowania.
+- obok niej przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury;
+- **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego;
+- wszystkie zgłoszenia trafiają do **czytelni**, a po werdykcie do publicznego archiwum.
 
 ## <!--ikona:konstelacja--><span>Dlaczego nagradzamy człowieka</span>
 
@@ -93,7 +94,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 <p>Wskazują ją uczniowskie grupy czytające, według tej samej karty oceny, niezależnie od jury. Jak to działa - niżej.</p>
 </article>
 <article>
-<h3>Nagroda Publiczności</h3>
+<h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
 <p>Otwarte głosowanie, jeden głos na numer telefonu. Rusza po zamknięciu naboru, liczniki ukryte do gali.</p>
 </article>
 </div>
