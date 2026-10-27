@@ -82,11 +82,11 @@ Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona ksią�
 
 ### Akademia
 
-**Pierwszą rundę prowadzi Akademia** - grono czytelników powoływanych na jedną edycję, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury. Liczba czytelników zależy od liczby zgłoszeń; przy większym naborze regulamin przewiduje przesiew jednoosobowy, obowiązkowe drugie odczyty i losowy audyt.
+**Pierwszą rundę oceny zgłoszenia prowadzi Akademia** - grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury.
 
 ### Jury
 
-**Werdykt należy do jury**, które ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureacie. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
+**Werdykt plebiscytu i wybór najlepszych rozmów należy do jury**, które ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureatach nagród. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
 
 Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją archiwum.
 
