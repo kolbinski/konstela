@@ -32,12 +32,15 @@
 2. dokumentowanie i udostępnianie zapisu rzeczywistych rozmów ludzi z modelami sztucznej inteligencji jako materiału edukacyjnego i badawczego;
 3. wspieranie oświaty, wychowania i nauki w zakresie kompetencji cyfrowych;
 4. działalność na rzecz kultury i sztuki słowa, w szczególności przez wydawanie publikacji;
-5. promowanie postawy dociekliwości i rzetelności poznawczej.
+5. wspieranie twórczości artystycznej podejmującej temat sztucznej inteligencji i jej roli w życiu człowieka - w dziedzinie filmu, muzyki i sztuk plastycznych;
+6. upowszechnianie dostępu do dóbr kultury powstałych w ten sposób, w szczególności przez ich nieodpłatne udostępnianie;
+7. promowanie postawy dociekliwości i rzetelności poznawczej.
 
 **§ 9.** Fundacja realizuje swoje cele przez:
-1. organizowanie i prowadzenie **Nagrody Konstela** - corocznego konkursu dla osób prowadzących rozmowy ze sztuczną inteligencją - w tym składanie przyrzeczeń publicznych i wypłatę nagród;
-2. wydawanie i nieodpłatne udostępnianie antologii nagrodzonych rozmów oraz prowadzenie publicznego archiwum rozmów;
-3. prowadzenie działalności wydawniczej, także we współpracy z wydawcami zewnętrznymi;
+1. organizowanie i prowadzenie **Nagrody Konstela** - corocznej nagrody przyznawanej w plebiscytach: na rozmowę ze sztuczną inteligencją, na film o sztucznej inteligencji, na piosenkę o sztucznej inteligencji i na plakat o sztucznej inteligencji - w tym składanie przyrzeczeń publicznych i wypłatę nagród;
+2. wydawanie i nieodpłatne udostępnianie antologii nagrodzonych rozmów oraz prowadzenie publicznego archiwum zgłoszeń we wszystkich plebiscytach;
+3. prowadzenie działalności wydawniczej i fonograficznej, także we współpracy z wydawcami zewnętrznymi, w tym wydawanie nagrań utworów nagrodzonych i finałowych;
+3a. organizowanie wystaw, pokazów filmowych i koncertów prezentujących prace zgłoszone do plebiscytów;
 4. organizowanie konferencji, warsztatów, szkoleń i wydarzeń publicznych;
 5. prowadzenie działalności badawczej i analitycznej oraz publikowanie jej wyników;
 6. współpracę z uczelniami, szkołami, organami administracji publicznej, organizacjami pozarządowymi i przedsiębiorcami.
@@ -115,7 +118,7 @@
 **§ 23.** 
 1. Fundacja może prowadzić działalność gospodarczą w rozmiarach służących realizacji jej celów statutowych, jako działalność dodatkową w stosunku do działalności statutowej.
 2. Na działalność gospodarczą przeznacza się część funduszu założycielskiego w kwocie **[DO USTALENIA, nie mniej niż 1000 zł - art. 5 ust. 5 ustawy o fundacjach]**.
-3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności: **[DO USTALENIA: kody PKD - wydawanie książek, działalność wydawnicza, działalność edukacyjna, reklama]**. `[Kody wyłącznie z klasyfikacji PKD 2025 - część numeracji zmieniona, wzory krążące w internecie są nieaktualne (informacja GCOP, 23.10.2026). Do ustalenia na konsultacji prawnej w GCOP.]`
+3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności: **[DO USTALENIA: kody PKD - wydawanie książek, działalność wydawnicza, działalność w zakresie nagrań dźwiękowych i muzyczna, działalność związana z wystawianiem przedstawień i projekcją filmów, działalność edukacyjna, reklama]**. `[Kody wyłącznie z klasyfikacji PKD 2025 - część numeracji zmieniona, wzory krążące w internecie są nieaktualne (informacja GCOP, 23.10.2026). Do ustalenia na konsultacji prawnej w GCOP.]`
 4. Dochód z działalności gospodarczej przeznaczany jest wyłącznie na cele statutowe.
 
 **§ 24.** Fundacja prowadzi gospodarkę finansową i rachunkowość zgodnie z obowiązującymi przepisami.
@@ -142,13 +145,13 @@
 Pytania wynikają wprost ze znaczników w tekście powyżej i są ułożone w kolejności paragrafów. Każde dotyczy brzmienia zapisu, a nie wyboru biznesowego - wybory biznesowe są w następnej sekcji.
 
 1. **§ 4 ust. 2 - działalność poza granicami kraju.** Czy brzmienie „może prowadzić działalność poza granicami kraju, zgodnie z prawem miejscowym" wystarczy pod planowaną międzynarodową odsłonę Nagrody, czy potrzebny jest zapis szerszy albo wskazanie formy (oddział, przedstawicielstwo)?
-2. **§ 5 - minister nadzoru.** Czy przy celach z § 8 właściwy jest minister do spraw informatyzacji, czy raczej minister do spraw oświaty i wychowania albo kultury? Czy przy celach mieszanych można wskazać jednego ministra bez ryzyka sporu kompetencyjnego przy rejestracji?
+2. **§ 5 - minister nadzoru.** Cele z § 8 obejmują zarówno kompetencje cyfrowe, jak i twórczość artystyczną - film, muzykę i sztuki plastyczne. Czy przy takim zakresie właściwy jest minister do spraw informatyzacji, czy raczej minister do spraw kultury albo oświaty i wychowania? Czy przy celach mieszanych można wskazać jednego ministra bez ryzyka sporu kompetencyjnego przy rejestracji?
 3. **§ 12 - fundusz założycielski.** Czy wyodrębnienie części funduszu na działalność gospodarczą musi znaleźć się w samym statucie, czy wystarczy w oświadczeniu woli fundatora? Czy kwota poniżej 1000 zł na działalność gospodarczą jest podstawą odmowy wpisu do rejestru przedsiębiorców?
 4. **§ 14 ust. 2 - zabezpieczenie puli nagród.** Czy zapis „środki przekazane na pulę nagród konkretnej edycji przeznaczane są wyłącznie na ten cel" wystarczy, aby pula była chroniona przed wierzycielami Fundacji i przed przeznaczeniem jej na bieżącą działalność, czy potrzebny jest rachunek powierniczy albo odrębny rachunek z zastrzeżeniem celu?
 5. **§ 17 ust. 2 - następstwo uprawnień Fundatora.** Czy przejście uprawnień Fundatora na Radę Fundacji po jego śmierci jest skuteczne na podstawie samego statutu? Czy uprawnienia fundatora podlegają dziedziczeniu, jeżeli statut milczy, i czy trzeba to wyłączyć wprost?
 6. **§ 19 - reprezentacja.** Czy przy zarządzie wieloosobowym bezpieczniejsza jest reprezentacja łączna dwóch członków albo członka z prokurentem? Jakie są skutki samodzielnej reprezentacji przy umowach z partnerami finansującymi pulę nagród?
 7. **§ 20 ust. 2 - powoływanie Rady przez Fundatora.** Czy Fundator będący jednocześnie członkiem Zarządu może powoływać i odwoływać organ, który ma Zarząd kontrolować? Czy taka konstrukcja nie podważa nadzoru wewnętrznego w oczach sądu rejestrowego albo grantodawcy?
-8. **§ 23 ust. 3 - kody PKD.** Czy proponowany zakres (działalność wydawnicza, edukacyjna, reklama) wymaga doprecyzowania w statucie co do klas, czy wystarczy wskazanie przedmiotu działalności słowami?
+8. **§ 23 ust. 3 - kody PKD.** Czy proponowany zakres (działalność wydawnicza i fonograficzna, organizacja wystaw, pokazów i koncertów, działalność edukacyjna, reklama) wymaga doprecyzowania w statucie co do klas, czy wystarczy wskazanie przedmiotu działalności słowami?
 9. **§ 25 - zmiana Statutu i celów.** Czy zmiana celów Fundacji przez Fundatora jednoosobowo jest dopuszczalna, a jeżeli tak, czy wymaga zastrzeżenia w akcie fundacyjnym? Czy po śmierci Fundatora konstrukcja „Zarząd za zgodą Rady" jest wystarczająca?
 10. **§ 27 ust. 3 - przeznaczenie majątku po likwidacji.** Czy można wskazać cel ogólny („cele zbieżne z celami Fundacji"), czy sąd oczekuje wskazania konkretnego podmiotu albo sposobu jego wyboru?
 11. **Przyrzeczenie publiczne a fundacja.** Czy regulaminy plebiscytów, konstruowane jako przyrzeczenie publiczne (art. 919 k.c.), wymagają podstawy w statucie, czy wystarczy, że mieszczą się w celach statutowych?
