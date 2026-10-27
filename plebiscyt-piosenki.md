@@ -84,7 +84,7 @@ Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze 
 
 **Przesyłasz link do nagrania na YouTube, nie plik.**
 
-**Do tego jedna okładka.** Kwadratowy obrazek, JPG albo PNG, bok od 800 do 3000 pikseli, do 5 MB. To on reprezentuje Twoją piosenkę w Słuchalni i w archiwum. Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładki nie oceniamy.**
+**Do tego jedna okładka** - kwadratowy obrazek. To on reprezentuje Twoją piosenkę w Słuchalni i w archiwum. Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze - musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.** Format i rozmiar: JPG albo PNG, bok od 800 do 3000 pikseli, do 5 MB.
 
 ### Dlaczego warte nagrody głównej
 
