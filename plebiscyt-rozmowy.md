@@ -183,15 +183,15 @@ Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń.
 </article>
 <article>
 <h3>NAIstolatek</h3>
-<p>Odcinki podcastu z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z osobami niepełnoletnimi powstają za pisemną zgodą opiekunów, z możliwością jej wycofania przed publikacją.</p>
+<p>Odcinki podcastu z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną.</p>
 </article>
 </div>
 
 ## <!--ikona:iskra--><span>Gala i terminy</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureat odbiera medal, dziesiątka finalistów dyplomy, a antologia ma na tej gali premierę - już ze zwycięskim plakatem na okładce.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [płyty z piosenkami](/plebiscyt-piosenki).
 
-Elementem gali jest **dialog czytany**: finalista czyta ze sceny własne pytania, a odpowiedzi sztucznej inteligencji czyta aktor.
+Elementem gali jest **dialog czytany**: zwycięzca plebiscytu czyta ze sceny swoją część dialogu z AI, a odpowiedzi sztucznej inteligencji czyta narrator.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
