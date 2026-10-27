@@ -6,7 +6,7 @@ Trop z 23.10.2026: **Michał Sołtan zna dobrze Rafała Olbińskiego** i może p
 
 Rafał Olbiński to jeden z najbardziej rozpoznawalnych polskich plakacistów na świecie, z dorobkiem między innymi dla Metropolitan Opera. Plakat jego autorstwa rozwiązuje jednym ruchem problem, który Piotr Byliński z Reequest postawił tego samego dnia jako najważniejsze zagrożenie projektu: że Nagroda może zostać odebrana jako czyjeś hobby, a nazwa skojarzy się z ezoteryką. **Plakatu Olbińskiego nie robi się dla hobby** - sama jego zgoda jest komunikatem, którego nie da się kupić reklamą.
 
-Wobec sponsora działa to podobnie jak nazwiska w Kapitule: przestajesz opowiadać pomysł, a zaczynasz pokazywać projekt, w którym uczestniczą rozpoznawalni ludzie.
+Wobec sponsora działa to podobnie jak nazwiska w jury: przestajesz opowiadać pomysł, a zaczynasz pokazywać projekt, w którym uczestniczą rozpoznawalni ludzie.
 
 ## Skala: jeden plakat, nie dziesięć ilustracji
 

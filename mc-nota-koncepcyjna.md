@@ -26,7 +26,7 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu,
 
 **Antologia.** Dziesięć najwyżej ocenionych rozmów każdej edycji, publikowanych bezpłatnie jako e-book, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Planowane jest również wydanie książkowe, płatne i zależne od pozyskania partnera wydawniczego; przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
-**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez Akademię, Kapitułę i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
+**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły ocenę formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez Akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
 Trzy funkcje, które antologia i archiwum pełnią jednocześnie:
 
@@ -77,38 +77,38 @@ Cztery mechanizmy, wszystkie zapisane w regulaminie:
 
 **Ograniczona rola narzędzi automatycznych.** Organizator wykorzystuje modele językowe wyłącznie do weryfikacji warunków formalnych, takich jak liczba słów czy język rozmowy. Streszczenia pisze sam uczestnik w zgłoszeniu; streszczeń generowanych przez model nie używamy, bo zmieniłyby to, co jury faktycznie czyta. **Nie oceniają, nie punktują i nie ustalają kolejności.** Powód jest merytoryczny: modele oceniające premiują tekst długi, płynny i uporządkowany, czyli działają przeciwko naszemu kryterium o wartości ślepych uliczek. Powód drugi jest oczywisty: nagroda za rozmowy z AI rozstrzygana przez AI byłaby zaprzeczeniem własnej idei.
 
-**Wyłączenie powiązań.** W Nagrodzie nie mogą brać udziału organizator, członkowie organów fundacji, członkowie Kapituły i Akademii, osoby współpracujące przy obsłudze edycji, a także organy i pracownicy fundatora nagród oraz pozostałych partnerów wnoszących środki - wraz z osobami im najbliższymi. Patronat honorowy nie powoduje takiego wyłączenia: nie wiąże się z finansowaniem ani z wpływem na ocenę, więc pracownicy i studenci instytucji obejmującej Nagrodę patronatem mogą w niej startować. Niezależnie od tego oceniający nie ocenia zgłoszenia osoby, którą zna osobiście, i ma obowiązek taką okoliczność zgłosić; rozstrzyga to, czy bezstronność mogłaby zostać podważona, a nie czy w ocenie oceniającego została naruszona. Przed rozpoczęciem pracy każdy członek Akademii i Kapituły składa oświadczenie w tej sprawie, a ocena wydana z naruszeniem tej zasady jest nieważna i zostaje powtórzona.
+**Wyłączenie powiązań.** W Nagrodzie nie mogą brać udziału organizator, członkowie organów fundacji, członkowie jury i Akademii, osoby współpracujące przy obsłudze edycji, a także organy i pracownicy fundatora nagród oraz pozostałych partnerów wnoszących środki - wraz z osobami im najbliższymi. Patronat honorowy nie powoduje takiego wyłączenia: nie wiąże się z finansowaniem ani z wpływem na ocenę, więc pracownicy i studenci instytucji obejmującej Nagrodę patronatem mogą w niej startować. Niezależnie od tego oceniający nie ocenia zgłoszenia osoby, którą zna osobiście, i ma obowiązek taką okoliczność zgłosić; rozstrzyga to, czy bezstronność mogłaby zostać podważona, a nie czy w ocenie oceniającego została naruszona. Przed rozpoczęciem pracy każdy członek Akademii i jury składa oświadczenie w tej sprawie, a ocena wydana z naruszeniem tej zasady jest nieważna i zostaje powtórzona.
 
-**Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników organizator rozmawia z każdym z dziesięciu finalistów o treści jego zgłoszenia. Rozmowa sprawdza, czy uczestnik rozumie własne zgłoszenie, i nie zmienia punktacji przyznanej przez Kapitułę. Nie jest to moment wykrywania inscenizacji: osobne postępowanie w tej sprawie wszczyna się wyłącznie z sygnału, pisemnie, z ciężarem wykazania po stronie organizatora, a w razie wątpliwości zgłoszenie zostaje.
+**Rozmowa weryfikacyjna.** Przed ogłoszeniem wyników organizator rozmawia z każdym z dziesięciu finalistów o treści jego zgłoszenia. Rozmowa sprawdza, czy uczestnik rozumie własne zgłoszenie, i nie zmienia punktacji przyznanej przez jury. Nie jest to moment wykrywania inscenizacji: osobne postępowanie w tej sprawie wszczyna się wyłącznie z sygnału, pisemnie, z ciężarem wykazania po stronie organizatora, a w razie wątpliwości zgłoszenie zostaje.
 
 ## 6. Terminy edycji pierwszej
 
 - okno rozmów: 1 stycznia - 31 grudnia 2027 (pełny rok kalendarzowy)
 - zgłoszenia: do 15 stycznia 2028
 - ocena pierwszej rundy: na bieżąco przez cały rok, partiami
-- ocena Kapituły i rozmowy weryfikacyjne: luty i początek marca 2028
+- ocena jury i rozmowy weryfikacyjne: luty i początek marca 2028
 - rozstrzygnięcie i publikacja antologii: druga połowa marca 2028
 
 Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
 
-## 7. Kto ocenia: Akademia i Kapituła
+## 7. Kto ocenia: Akademia i jury
 
 Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
-**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowa Kapituła jest w stanie przeczytać, dlatego pierwszą rundę prowadzi Akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co Kapituła. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy Akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do Kapituły, która rozstrzyga o dziesiątce antologii i o laureacie; pozostałe zakwalifikowane przez Akademię zasilają archiwum.
+**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi Akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy Akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, która rozstrzyga o dziesiątce antologii i o laureacie; pozostałe zakwalifikowane przez Akademię zasilają archiwum.
 
-**Kapituła - profil składu.** Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron:
+**jury - profil składu.** Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron:
 
 - **literatura** - ocena prowadzenia narracji i jakości języka,
 - **nauka i metodologia** - ocena rzetelności i sposobu weryfikacji,
 - **praktyka** - osoba pracująca z modelami zawodowo,
 - **spoza branży** - sprawdzenie, czy rozmowa jest zrozumiała dla kogoś z zewnątrz.
 
-Kapituła rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antologii.
+jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antologii.
 
-*Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat Ministerstwa Cyfryzacji znacząco ułatwiłby ich pozyskanie - zarówno do Kapituły, jak i do Akademii - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
+*Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat Ministerstwa Cyfryzacji znacząco ułatwiłby ich pozyskanie - zarówno do jury, jak i do Akademii - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
 
-Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za ocenę formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie Akademia i Kapituła. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
+Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za ocenę formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie Akademia i jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
 
 ## 8. Nagrody
 
@@ -126,12 +126,12 @@ Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy fin
 
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
-| Fundator nagrody i gali | ok. 604 tys. zł | pula nagród 390 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł i dziewięć wyróżnień po 10 tys. zł), honoraria Kapituły i Akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
+| Fundator nagrody i gali | ok. 604 tys. zł | pula nagród 390 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł i dziewięć wyróżnień po 10 tys. zł), honoraria jury i Akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
 | Partner wydawniczy | ok. 233 tys. zł **[do sprawdzenia: arkusz daje 271,7 tys. zł]** | produkcja bezpłatnej antologii i publicznego archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie archiwum i kopii rozmów, powołanie fundacji |
 | **Razem** | **ok. 837 tys. zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
 
-Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; pierwsza edycja stoi albo upada na poziomie docelowym. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać Kapituły ani Akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny. Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
+Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; pierwsza edycja stoi albo upada na poziomie docelowym. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać jury ani Akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny. Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
 
 Poziom docelowy nie jest wzięty z sufitu, tylko policzony. Nagroda Nike przyznaje od 1997 roku **100 tys. zł i kwota ta nie była od tamtej pory zmieniana**. Według indeksu cen konsumpcyjnych te same 100 tys. zł z 1997 roku odpowiada dziś około **315 tys. zł**, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **Nagroda główna w wysokości 300 tys. zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu**. Regulamin przewiduje przy tym, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu zgłoszeń (§ 9 ust. 3). Przepis ten chroni uczestników danej edycji przed obniżeniem przyrzeczonej kwoty; utrzymanie realnej wartości nagrody między edycjami jest osobną sprawą i zależy od decyzji fundatora przy każdej kolejnej edycji.
 
@@ -179,4 +179,4 @@ olbinski@gmail.com
 
 Strona Nagrody (wersja robocza - finalną wykona agencja kreatywna): https://konstela.org
 
-*Koncepcja operacyjna, w tym plan antologii i tryb pracy Kapituły i Akademii, dostępna na życzenie.*
+*Koncepcja operacyjna, w tym plan antologii i tryb pracy jury i Akademii, dostępna na życzenie.*

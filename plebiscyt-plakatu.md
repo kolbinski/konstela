@@ -110,7 +110,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 Wybierana w otwartym głosowaniu, **niezależnie od werdyktu jury**. Głosowanie **otwiera się dzień po zamknięciu naboru i trwa do gali** - żeby każda praca miała tyle samo czasu na zebranie głosów.
 
-## <!--ikona:puchar--><span>Nagrody Kapituły</span>
+## <!--ikona:puchar--><span>Nagrody jury</span>
 
 **Nagrody pieniężne dla trzech najwyżej ocenionych prac.** Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 

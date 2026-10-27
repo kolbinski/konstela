@@ -4,7 +4,7 @@
 
 ## 1. Do czego służy ta procedura
 
-To jest dokument dla **oceniających** - członków jury, Kapituły i Akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Dotyczy tego, co trafia do czytelni, Galerii, Projektorni i archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
+To jest dokument dla **oceniających** - członków jury, jury i Akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Dotyczy tego, co trafia do czytelni, Galerii, Projektorni i archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
 
 Oceniasz zgłoszenia w jednym z plebiscytów Nagrody Konstela. Obok oceny merytorycznej masz w panelu jeszcze jedno zadanie: **oznaczyć zastrzeżenie, jeżeli w zgłoszeniu zobaczysz coś, co może być problemem prawnym przy publikacji**. Niniejsza procedura mówi, kiedy to zrobić, i jest dokumentem, o którym mówią regulaminy: § 8 ust. 3a lit. c1 [regulaminu plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy), § 8 ust. 4h [regulaminu plebiscytu na plakat](/dokument/regulamin-plakatu) oraz § 8 ust. 7 [regulaminu plebiscytu na film](/dokument/regulamin-filmu) oraz § 10 ust. 6a [regulaminu plebiscytu na piosenkę](/dokument/regulamin-plebiscytu).
 
@@ -14,7 +14,7 @@ Zadanie to powierzono oceniającym z jednego powodu: **i tak czytasz albo ogląd
 
 ## 2. Pięć zasad, które obowiązują zawsze
 
-1. **Oznaczenie jest sygnałem, nie rozstrzygnięciem.** Wskazujesz miejsce i rodzaj zastrzeżenia; dalsze postępowanie prowadzi organizator w trybie określonym w odpowiednim regulaminie, który przy części rozstrzygnięć wymaga udziału członka Kapituły albo jury.
+1. **Oznaczenie jest sygnałem, nie rozstrzygnięciem.** Wskazujesz miejsce i rodzaj zastrzeżenia; dalsze postępowanie prowadzi organizator w trybie określonym w odpowiednim regulaminie, który przy części rozstrzygnięć wymaga udziału członka jury albo jury.
 
 2. **Oznaczenie nie wpływa na punktację.** Nie obniżasz z tego powodu żadnego kryterium, nie odrzucasz zgłoszenia i nie używasz oznaczenia jako oceny ukrytej. Zgłoszenie oznaczone może wygrać.
 

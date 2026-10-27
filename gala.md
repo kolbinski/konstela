@@ -12,7 +12,7 @@ Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 - **Hymn „Zapytaj inaczej" w wykonaniu składu jury, dwa razy: na rozpoczęcie i na zakończenie.** Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
 - **Wręczenia:** nagroda główna oraz dziewięć wyróżnień; mosiężny medal dla laureata, tłoczone dyplomy dla całej dziesiątki.
-- **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu Kapituły.
+- **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu jury.
 - **Nagroda publiczności w plebiscycie** dla wykonawcy oraz nagroda za najlepsze uzasadnienie wyboru.
 - **Wystąpienia sponsorów.** Uwaga Piotra, słuszna: fundator i partner wydawniczy będą musieli powiedzieć, po co to robią. Lepiej zaplanować im na to miejsce, niż pozwolić, by zajęli je sami.
 - **Rejestracja wideo i bezpłatne udostępnienie zapisu.** Transmisja telewizyjna jest zamiarem, nie ustaleniem.
@@ -76,7 +76,7 @@ Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzy
 
 1. **Miejsce i miasto.** Warszawa jest oczywista dla mediów i sponsorów, ale nie jest jedyną opcją.
 2. **Kto prowadzi.** Prowadzący zawodowy czy organizator. Przy programie liczonym na sto minut bez zapasu to jest decyzja o tym, czy gala się nie rozjedzie.
-3. **Kto wręcza nagrodę główną.** Fundator, patron honorowy, przewodniczący Kapituły.
+3. **Kto wręcza nagrodę główną.** Fundator, patron honorowy, przewodniczący jury.
 4. **Czy laureat zna wynik przed galą.** Od tego zależy, czy jest napięcie, i czy laureat nie dowiaduje się o wygranej na scenie bez przygotowania.
 5. **Publiczność:** zaproszenia, wstęp wolny, rejestracja. Kto poza laureatami, jurorami i sponsorami.
 6. **Dostępność:** napisy w zapisie wideo, dostępność miejsca dla osób z niepełnosprawnościami.

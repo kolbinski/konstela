@@ -83,7 +83,7 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 Przyznawana w otwartym głosowaniu, **niezależnie od werdyktu jury**: jeden głos na numer telefonu, liczniki ukryte do gali.
 
-## <!--ikona:moneta--><span>Nagrody Kapituły</span>
+## <!--ikona:moneta--><span>Nagrody jury</span>
 
 - **Nagrody pieniężne dla trzech najwyżej ocenionych filmów**, przyznawane przez jury.
 - **Wysokość nagród zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru. Nie ogłaszamy konkursu, zanim pieniądze na nagrody nie są na rachunku, a od ogłoszenia wysokości nie można jej obniżyć.

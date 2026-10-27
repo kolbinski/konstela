@@ -94,7 +94,7 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 
 ### Obszar 4: przyrzeczenie publiczne, podatek, odpowiedzialność
 
-**Stan.** Pula nagród ogłaszana jest w dniu otwarcia zgłoszeń i od tej chwili wiąże; może być wyłącznie podwyższana. Edycja nie zostaje rozstrzygnięta, jeżeli wpłynie mniej niż 12 zgłoszeń spełniających wymogi formalne albo jeżeli Kapituła jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów. Fundatorem nagród jest podmiot zewnętrzny wskazany w ogłoszeniu.
+**Stan.** Pula nagród ogłaszana jest w dniu otwarcia zgłoszeń i od tej chwili wiąże; może być wyłącznie podwyższana. Edycja nie zostaje rozstrzygnięta, jeżeli wpłynie mniej niż 12 zgłoszeń spełniających wymogi formalne albo jeżeli jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów. Fundatorem nagród jest podmiot zewnętrzny wskazany w ogłoszeniu.
 
 **Pytania:**
 
@@ -183,10 +183,10 @@ Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do któ
 
 **W regulaminie:**
 
-1. **§ 1 ust. 3** - wyłączenie gry losowej. Czy sformułowanie „wynik zależy wyłącznie od oceny merytorycznej Kapituły, a udział jest bezpłatny" wystarczy, żeby nie była to gra hazardowa w rozumieniu ustawy z 19 listopada 2009 r.
+1. **§ 1 ust. 3** - wyłączenie gry losowej. Czy sformułowanie „wynik zależy wyłącznie od oceny merytorycznej jury, a udział jest bezpłatny" wystarczy, żeby nie była to gra hazardowa w rozumieniu ustawy z 19 listopada 2009 r.
 2. **§ 1 ust. 4** - wariant rozliczenia puli: wypłata przez Organizatora czy bezpośrednio przez fundatora. *Do ustalenia z księgowym.*
 3. **§ 3 ust. 4** - rozliczenie podatkowe laureatów niebędących polskimi rezydentami podatkowymi. *Księgowy odpowiedział 22.10.2026: zależy od umowy o unikaniu podwójnego opodatkowania z państwem rezydencji laureata, w większości wypadków zasady zbliżone do krajowych, ale dochodzą dokumenty i obowiązki sprawozdawcze. Pozostaje do zaprojektowania procedura: certyfikat rezydencji, IFT-1R.*
-4. **§ 3 ust. 5b** - oświadczenia członków Akademii i Kapituły: czy odesłanie do ust. 5 i 5a jest właściwe i wystarczające.
+4. **§ 3 ust. 5b** - oświadczenia członków Akademii i jury: czy odesłanie do ust. 5 i 5a jest właściwe i wystarczające.
 5. **§ 6 ust. 1** - progi formalne (800 słów, 12 wypowiedzi). Kalibracja na próbie oceny przed naborem; pytanie do prawnika wyłącznie takie, czy próg ogłoszony przed naborem może zostać później zmieniony i na jakich warunkach.
 6. **§ 8 ust. 11 lit. g** - próg rozbieżności ocen, do ustalenia po próbie kalibracyjnej.
 7. **§ 9 ust. 6** - czy pula zostaje ubruttowiona, tak aby laureat otrzymał pełną ogłoszoną kwotę. *Księgowy odpowiedział 22.10.2026: decyduje brzmienie ogłoszenia. Kwota opisana jako wypłacana laureatowi wymaga ubruttowienia; sama "kwota nagrody" jest kwotą brutto i laureat otrzymuje ją pomniejszoną o podatek. Decyzja Organizatora do podjęcia przed ogłoszeniem puli.*
@@ -230,7 +230,7 @@ Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach
 
 24. **Czytelnia zgłoszeń jako warunek udziału.** Każde zgłoszenie, które przeszło ocenę formalną, trafia na publiczną listę zawierającą tytuł rozmowy, podpis uczestnika (nazwisko albo pseudonim, jego wybór), link opublikowany przez uczestnika, opis odkrycia i jego uzasadnienie. Czy obowiązkowy charakter takiej publikacji w trakcie trwania konkursu jest dopuszczalny i jak go opisać w regulaminie oraz w polityce prywatności, skoro dotychczasowa zgoda na publikację dotyczyła antologii i archiwum po rozstrzygnięciu.
 
-25. **Jawna punktacja wszystkich zgłoszeń jako warunek udziału.** Archiwum ma pozostać dostępne na stałe i umożliwiać sortowanie po ocenach wystawionych przez Akademię, Kapitułę i publiczność - również przy zgłoszeniach ocenionych nisko i również pod nazwiskiem, jeżeli uczestnik nie wybrał pseudonimu. Pytania: czy zgodę na trwałą publikację własnej oceny można uczynić warunkiem udziału; jak ją sformułować, żeby była świadoma; czy uczestnik może później żądać usunięcia samej punktacji przy zachowaniu rozmowy; oraz czy ocena wystawiona konkretnej osobie i publikowana bezterminowo rodzi obowiązki szersze niż publikacja samej rozmowy.
+25. **Jawna punktacja wszystkich zgłoszeń jako warunek udziału.** Archiwum ma pozostać dostępne na stałe i umożliwiać sortowanie po ocenach wystawionych przez Akademię, jury i publiczność - również przy zgłoszeniach ocenionych nisko i również pod nazwiskiem, jeżeli uczestnik nie wybrał pseudonimu. Pytania: czy zgodę na trwałą publikację własnej oceny można uczynić warunkiem udziału; jak ją sformułować, żeby była świadoma; czy uczestnik może później żądać usunięcia samej punktacji przy zachowaniu rozmowy; oraz czy ocena wystawiona konkretnej osobie i publikowana bezterminowo rodzi obowiązki szersze niż publikacja samej rozmowy.
 
 26. **Retencja wobec trwałego archiwum.** Polityka prywatności przewiduje usunięcie danych uczestników nienagrodzonych w ciągu 60 dni od ogłoszenia wyników, a archiwum ma zawierać wszystkie zgłoszenia na stałe. Te dwa zapisy są ze sobą sprzeczne i wymagają rozstrzygnięcia, które z danych są usuwane, a które pozostają jako element publikacji.
 
@@ -240,7 +240,7 @@ Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach
 
 Luka wykryta przy sprawdzaniu scenariusza skrajnego: co się dzieje, gdy Akademia oceni wszystkie zgłoszenia jednakowo wysoko.
 
-**Na czym polegała.** § 8 ust. 14 w poprzednim brzmieniu wyznaczał wyłącznie dolną granicę drugiej rundy („nie mniej niż dwadzieścia"). Przy remisie na maksimum każde zgłoszenie ma najwyższą średnią, więc całość naboru kwalifikuje się do oceny przez Kapitułę. § 8 ust. 10b zakazuje przy tym ograniczania liczby przyjmowanych zgłoszeń i odstępowania od przeczytania któregokolwiek z nich, dopuszczając jedynie przesunięcie daty wyników - zawór bezpieczeństwa działa więc na czas, a nie na nakład pracy. Istniejące zabezpieczenia tej awarii nie wykrywają: kotwice z ust. 13 rozpoznają **zmianę** standardu oceniającego w czasie, a nie standard płaski od początku; obowiązkowy przegląd zgłoszeń granicznych zakłada istnienie granicy, której przy pełnym remisie nie ma.
+**Na czym polegała.** § 8 ust. 14 w poprzednim brzmieniu wyznaczał wyłącznie dolną granicę drugiej rundy („nie mniej niż dwadzieścia"). Przy remisie na maksimum każde zgłoszenie ma najwyższą średnią, więc całość naboru kwalifikuje się do oceny przez jury. § 8 ust. 10b zakazuje przy tym ograniczania liczby przyjmowanych zgłoszeń i odstępowania od przeczytania któregokolwiek z nich, dopuszczając jedynie przesunięcie daty wyników - zawór bezpieczeństwa działa więc na czas, a nie na nakład pracy. Istniejące zabezpieczenia tej awarii nie wykrywają: kotwice z ust. 13 rozpoznają **zmianę** standardu oceniającego w czasie, a nie standard płaski od początku; obowiązkowy przegląd zgłoszeń granicznych zakłada istnienie granicy, której przy pełnym remisie nie ma.
 
 **Co wprowadziliśmy.** Górną granicę drugiej rundy na poziomie stu zgłoszeń (ust. 14), ogłaszaną z góry kolejność rozstrzygania remisów (ust. 14a) oraz kontrolę rozkładu ocen kierującą partię ocenianą bez rozróżniania zgłoszeń do ponownego odczytu (ust. 14b), z mierzalnym progiem: odchylenie standardowe ocen łącznych poniżej 1,0 punktu albo cztery piąte zgłoszeń w tym samym paśmie czteropunktowym.
 
@@ -248,7 +248,7 @@ Luka wykryta przy sprawdzaniu scenariusza skrajnego: co się dzieje, gdy Akademi
 
 **Pytania do kancelarii:**
 
-- Czy górna granica drugiej rundy jest dopuszczalna w przyrzeczeniu publicznym, skoro zawęża krąg zgłoszeń ocenianych przez Kapitułę, i czy wystarczy jej ogłoszenie przed naborem.
+- Czy górna granica drugiej rundy jest dopuszczalna w przyrzeczeniu publicznym, skoro zawęża krąg zgłoszeń ocenianych przez jury, i czy wystarczy jej ogłoszenie przed naborem.
 - Czy sposób rozstrzygania remisów z ust. 14a jest wystarczająco jednoznaczny, by wykluczyć zarzut uznaniowości, w szczególności czy dopuszczalne jest losowanie jako ostatni człon.
 - Czy kontrola rozkładu z ust. 14b, która kieruje całą partię do ponownego odczytu po przekroczeniu mierzalnego progu, jest wobec oceniającego i uczestnika wystarczająco jednoznaczna, oraz czy rezygnacja z limitu najwyższego pasma była z punktu widzenia rzetelności oceny krokiem we właściwą stronę.
 - Czy skierowanie partii do ponownego odczytu wymaga poinformowania oceniającego i czy zachowanie pierwszej oceny w zapisie rodzi obowiązki wobec uczestnika, który zażąda wglądu we własne oceny.

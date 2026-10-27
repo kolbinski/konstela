@@ -106,7 +106,7 @@ Przewodniczącym jury będzie **Michał Sołtan** - kompozytor, wokalista, gitar
 
 **Nagroda za uzasadnienie wyboru.** Uzasadnienie jest nieobowiązkowe - dopisujesz je przy oddaniu głosu, do 1500 znaków. Ocenia je trzyosobowy zespół powołany spoza jury, którego skład podajemy przed rozpoczęciem głosowania, i liczy się to, co uzasadnienie mówi o samym utworze: trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości, ortografii ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie wygrywa uzasadnienie oddane wcześniej.
 
-## <!--ikona:puchar--><span>Nagrody Kapituły</span>
+## <!--ikona:puchar--><span>Nagrody jury</span>
 
 **Nagrody pieniężne dla trzech najwyżej ocenionych utworów.** Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy. **Wysokość nagród pieniężnych zależy od pozyskanych sponsorów** i podamy ją przy ogłoszeniu naboru; po ogłoszeniu kwota może już tylko wzrosnąć.
 

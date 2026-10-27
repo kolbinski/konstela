@@ -11,7 +11,7 @@ Zgłaszasz rozmowę, którą sam odbyłeś: dowolną, byle dało się ją udost�
 
 **W skrócie:**
 
-- **nagrodę główną i dziewięć wyróżnień** przyznaje Kapituła;
+- **nagrodę główną i dziewięć wyróżnień** przyznaje jury;
 - obok niej przyznawane są **Nagroda Uczniowska** i **Nagroda Publiczności**, niezależnie od jej werdyktu;
 - **dziesięć najlepszych rozmów** składa się na antologię wydaną bezpłatnie;
 - wszystkie zgłoszenia trafiają do **czytelni**, a po werdykcie do publicznego archiwum;
@@ -65,15 +65,15 @@ Nabór planujemy otworzyć w 2027 roku, po zabezpieczeniu finansowania. Wysokoś
 
 ## <!--ikona:jury--><span>Kto ocenia</span>
 
-**Pierwszą rundę prowadzi Akademia** - grono czytelników powoływanych na jedną edycję, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co Kapituła. Liczba czytelników zależy od liczby zgłoszeń; przy większym naborze regulamin przewiduje przesiew jednoosobowy, obowiązkowe drugie odczyty i losowy audyt.
+**Pierwszą rundę prowadzi Akademia** - grono czytelników powoływanych na jedną edycję, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury. Liczba czytelników zależy od liczby zgłoszeń; przy większym naborze regulamin przewiduje przesiew jednoosobowy, obowiązkowe drugie odczyty i losowy audyt.
 
-**Werdykt należy do Kapituły**, która ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureacie. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
+**Werdykt należy do jury**, która ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureacie. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.
 
 Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem - decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją archiwum.
 
 ## <!--ikona:ksiazka--><span>Nagroda Uczniowska</span>
 
-**Obok werdyktu Kapituły przyznawana jest Nagroda Uczniowska**, o której rozstrzygają uczniowskie grupy czytające. Czytają według **tej samej jawnej karty oceny** co Kapituła i wskazują swoją rozmowę niezależnie od niej - oba werdykty ogłaszamy na tej samej gali rozdania nagród i mogą wskazać dwie różne rozmowy. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
+**Obok werdyktu jury przyznawana jest Nagroda Uczniowska**, o której rozstrzygają uczniowskie grupy czytające. Czytają według **tej samej jawnej karty oceny** co jury i wskazują swoją rozmowę niezależnie od niej - oba werdykty ogłaszamy na tej samej gali rozdania nagród i mogą wskazać dwie różne rozmowy. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.
 
 **Jedna szkoła - jedno wskazanie.** Czytać może dowolnie wiele klas, a im więcej, tym lepiej. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami - to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej. Dzięki temu duża szkoła nie waży więcej od małej.
 
@@ -83,23 +83,23 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 **Jak sprawdzamy, że to naprawdę szkoła.** W formularzu wybiera się szkołę z rejestru państwowego, a kod potwierdzający wysyłamy **na adres tej szkoły zapisany w rejestrze** - nie na adres wpisany przez zgłaszającego. Nauczyciel przepisuje kod i tyle. Jeśli rejestr nie ma adresu albo adres nie działa, potwierdzamy telefonicznie, pod numerem szkoły z rejestru. Nie zbieramy przy tym żadnych danych uczniów - ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.
 
-**Uczniowie nie oceniają konkurencji.** W plebiscycie na rozmowę startują wyłącznie osoby pełnoletnie, więc czytający nie może trafić na zgłoszenie kolegi z klasy ani konkurować z tym, co ocenia. Rozmowa wskazana przez uczniów przechodzi przed ogłoszeniem to samo sprawdzenie rzetelności co dziesiątka Kapituły.
+**Uczniowie nie oceniają konkurencji.** W plebiscycie na rozmowę startują wyłącznie osoby pełnoletnie, więc czytający nie może trafić na zgłoszenie kolegi z klasy ani konkurować z tym, co ocenia. Rozmowa wskazana przez uczniów przechodzi przed ogłoszeniem to samo sprawdzenie rzetelności co dziesiątka jury.
 
-**Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia.** Zgłaszając rozmowę, godzisz się na to, że może ona trafić do czytania przez grupy uczniowskie, w tym przez osoby niepełnoletnie - tak samo, jak godzisz się na przeczytanie jej przez Kapitułę i Akademię. Nie wskazujesz, komu Twoja rozmowa ma być przedstawiona do oceny. Zasady są w regulaminie (§ 8 ust. 2a i § 9 ust. 9), a szkoły zainteresowane zgłoszeniem grupy mogą napisać już teraz.
+**Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia.** Zgłaszając rozmowę, godzisz się na to, że może ona trafić do czytania przez grupy uczniowskie, w tym przez osoby niepełnoletnie - tak samo, jak godzisz się na przeczytanie jej przez jury i Akademię. Nie wskazujesz, komu Twoja rozmowa ma być przedstawiona do oceny. Zasady są w regulaminie (§ 8 ust. 2a i § 9 ust. 9), a szkoły zainteresowane zgłoszeniem grupy mogą napisać już teraz.
 
 ## <!--ikona:zespol--><span>Nagroda Publiczności</span>
 
 **Wybierana w otwartym głosowaniu**, jeden głos na numer telefonu. Głosowanie otwiera się dopiero po zamknięciu naboru, żeby każda rozmowa miała tyle samo czasu na zbieranie głosów, a liczniki pozostają ukryte do ogłoszenia wyniku na gali.
 
-Nagroda Publiczności i Nagroda Uczniowska są **niezależne od werdyktu Kapituły**. Wyniki wszystkich trzech ogłaszamy na tej samej gali rozdania nagród i mogą wskazać trzy różne rozmowy.
+Nagroda Publiczności i Nagroda Uczniowska są **niezależne od werdyktu jury**. Wyniki wszystkich trzech ogłaszamy na tej samej gali rozdania nagród i mogą wskazać trzy różne rozmowy.
 
-## <!--ikona:puchar--><span>Nagrody Kapituły</span>
+## <!--ikona:puchar--><span>Nagrody jury</span>
 
 **Nagroda główna i dziewięć wyróżnień.** Wysokość puli ogłaszamy w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili nas wiąże - po ogłoszeniu pula może już wyłącznie rosnąć.
 
 Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzymują zwycięzcy pozostałych plebiscytów - a cała dziesiątka finalistów tłoczone dyplomy.
 
-**Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem Kapituły wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+**Dziesięć najwyżej ocenionych rozmów składa się na antologię**, publikowaną bezpłatnie jako e-book, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
 
 ## <!--ikona:sluchalnia--><span>Czytelnia i archiwum</span>
@@ -108,7 +108,7 @@ Zwycięzca odbiera **mosiężny medal Nagrody Konstela** - ten sam, który otrzy
 
 **Czytelnik może oznaczyć rozmowę gwiazdką** i wrócić do niej później. Gwiazdki zostają w jego przeglądarce i nigdy nie trafiają do nas: nie zbieramy ich, nie liczymy i nie pokazujemy. W czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytaniem, a przy ocenianiu właśnie tego unikamy. Półkę można wyeksportować i wczytać na innym urządzeniu; korzystanie z czytelni nie wymaga konta.
 
-**Po ogłoszeniu wyników czytelnia przechodzi w archiwum**, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, Kapitułę i publiczność.
+**Po ogłoszeniu wyników czytelnia przechodzi w archiwum**, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się dwiema rzeczami: pokazuje **treść rozmowy** - naszą kopię, zrobioną przy zgłoszeniu, obok odnośnika do wersji opublikowanej przez Ciebie u dostawcy - i **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, jury i publiczność.
 
 **Jawność punktacji dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału ogłaszanym przed naborem. Mówimy o tym wprost, bo trwale widoczna niska ocena jest realnym kosztem: dlatego zasada jest ogłoszona zawczasu, a nie wprowadzona w trakcie, a furtką pozostaje pseudonim.
 

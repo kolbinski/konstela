@@ -63,7 +63,7 @@ Mail do Cezarego i rozmowa z Wodzyńskim idą **równolegle**, jedno nie czeka n
 
 **Ilu.** Zarząd jedno- lub dwuosobowy plus **rada dwu-, trzyosobowa**; przy trzech łatwiej o kworum, gdy ktoś wypadnie.
 
-**Profil.** Osoba niezależna od fundatora, z doświadczeniem organizacyjnym i odpornością na sprawozdawczość. **Rada nie jest witryną** - nazwiska są potrzebne w Kapitule, a to inna rola. Kapituły nie mieszać z radą: koncentracja zarządzania i oceniania w tych samych rękach osłabia niezależność, którą sprzedajemy ministerstwu i sponsorowi.
+**Profil.** Osoba niezależna od fundatora, z doświadczeniem organizacyjnym i odpornością na sprawozdawczość. **Rada nie jest witryną** - nazwiska są potrzebne w jury, a to inna rola. jury nie mieszać z radą: koncentracja zarządzania i oceniania w tych samych rękach osłabia niezależność, którą sprzedajemy ministerstwu i sponsorowi.
 
 **Cena dla zapraszanego.** § 3 ust. 5 regulaminu wyłącza organy fundacji z udziału w konkursie - każdy członek rady traci prawo startu. Trzeba to powiedzieć wprost przed przyjęciem funkcji, tak samo jak dziekanowi przy patronacie. Funkcja jest nieodpłatna.
 
@@ -76,7 +76,7 @@ W obu wypadkach powiedziano wprost: fundacji jeszcze nie ma, fundatora puli nagr
 
 **Rozważany, decyzja odłożona (22.10.2026):**
 
-- **Marcin Albiniak** - wstrzymane do rozstrzygnięcia, w jakiej roli. Z własnej woli pisał szczegółowe uwagi do protokołu przy [[tesseract-protocol]], czyli jest z natury recenzentem, a nie członkiem organu. Rada to podpisywanie uchwał i odpowiedzialność formalna; jego mocna strona to czytanie i ocenianie. Ponieważ rady nie mieszamy z Kapitułą, **wejście do rady zamyka mu drogę do jury**, gdzie byłby prawdopodobnie cenniejszy. Decyzja: najpierw rozstrzygnąć rolę, potem zapraszać. Byłaby to też trzecia sprawa, z którą do niego piszemy - przy Tesseract dał uwagi, potem był pytany o mecenat pilotażu; planowana rozmowa wideo nigdy się nie odbyła.
+- **Marcin Albiniak** - wstrzymane do rozstrzygnięcia, w jakiej roli. Z własnej woli pisał szczegółowe uwagi do protokołu przy [[tesseract-protocol]], czyli jest z natury recenzentem, a nie członkiem organu. Rada to podpisywanie uchwał i odpowiedzialność formalna; jego mocna strona to czytanie i ocenianie. Ponieważ rady nie mieszamy z jury, **wejście do rady zamyka mu drogę do jury**, gdzie byłby prawdopodobnie cenniejszy. Decyzja: najpierw rozstrzygnąć rolę, potem zapraszać. Byłaby to też trzecia sprawa, z którą do niego piszemy - przy Tesseract dał uwagi, potem był pytany o mecenat pilotażu; planowana rozmowa wideo nigdy się nie odbyła.
 
 Potrzeba jeszcze co najmniej jednej osoby, a przy wariancie trzyosobowym dwóch.
 

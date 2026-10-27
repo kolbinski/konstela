@@ -64,7 +64,7 @@
 
 ## Uwagi dla nauczyciela
 
-**Materiał do omawiania.** Przykładowe rozmowy udostępnia organizator; pochodzą spoza konkursu i powstają na potrzeby kalibracji oceny. Zakres uprawnień do nich określa osobna informacja dołączana do pakietu - samo pochodzenie spoza konkursu nie przesądza, co wolno z nimi zrobić, a organizator musi mieć do tego prawa od uczestników tych rozmów. Rozmowy nadesłane na konkurs nie są materiałem lekcyjnym i nie są udostępniane przed publikacją antologii; dostęp do nich mają wyłącznie osoby uprawnione w procedurze konkursowej - obie akademie, Kapituła i obsługa edycji - a wszystkich obowiązuje poufność do czasu ogłoszenia wyników.
+**Materiał do omawiania.** Przykładowe rozmowy udostępnia organizator; pochodzą spoza konkursu i powstają na potrzeby kalibracji oceny. Zakres uprawnień do nich określa osobna informacja dołączana do pakietu - samo pochodzenie spoza konkursu nie przesądza, co wolno z nimi zrobić, a organizator musi mieć do tego prawa od uczestników tych rozmów. Rozmowy nadesłane na konkurs nie są materiałem lekcyjnym i nie są udostępniane przed publikacją antologii; dostęp do nich mają wyłącznie osoby uprawnione w procedurze konkursowej - obie akademie, jury i obsługa edycji - a wszystkich obowiązuje poufność do czasu ogłoszenia wyników.
 
 **Czego unikać.** Nie przedstawiać karty oceny jako algorytmu dającego jeden poprawny wynik. Nie wartościować narzędzi ani dostawców - Nagroda nie promuje żadnego z nich. Nie zapewniać uczniów, że sztuczna inteligencja się nie myli, ani że myli się zawsze; jedno z kryteriów dotyczy właśnie wyłapywania błędów, bo program potrafi mylić się pięknie i pewnie.
 

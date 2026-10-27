@@ -125,7 +125,7 @@ const OPISY = {
   'plebiscyt-rozmowy':
     'Plebiscyt na rozmowę ze sztuczną inteligencją: nagradzamy człowieka, nie program, bo oceniamy pytania, a nie odpowiedzi. Kto może zgłosić rozmowę, cztery kryteria oceny, nagrody, czytelnia i archiwum.',
   'regulamin-rozmowy':
-    'Pełne zasady plebiscytu na rozmowę ze sztuczną inteligencją: kto może się zgłosić, jak wygląda zgłoszenie, według czego ocenia Kapituła i jakie są nagrody. Wraz z kartą oceny.',
+    'Pełne zasady plebiscytu na rozmowę ze sztuczną inteligencją: kto może się zgłosić, jak wygląda zgłoszenie, według czego ocenia jury i jakie są nagrody. Wraz z kartą oceny.',
   'regulamin-plebiscytu':
     'Pełne zasady plebiscytu na piosenkę o sztucznej inteligencji: kto może zgłosić utwór, gdzie przebiega granica użycia AI, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do piosenki.',
   'polityka-prywatnosci':

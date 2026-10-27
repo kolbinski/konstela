@@ -6,10 +6,10 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 
 | Krok | Kto | Uwagi |
 |---|---|---|
-| Warunki uruchomienia | Organizator | pula ma pokrycie w zobowiązaniu fundatora, co najmniej 3 osoby potwierdziły udział w Kapitule, regulamin po konsultacji prawnej |
+| Warunki uruchomienia | Organizator | pula ma pokrycie w zobowiązaniu fundatora, co najmniej 3 osoby potwierdziły udział w jury, regulamin po konsultacji prawnej |
 | Ogłoszenie puli nagród | Organizator | od tego dnia przyrzeczenie publiczne wiąże; pula może już tylko rosnąć |
 | Powołanie Akademii i listy rezerwowej | Organizator | Akademia powoływana na jedną edycję |
-| Próba kalibracyjna | Kapituła + Akademia | te same **trzy** rozmowy spoza edycji (§ 8 ust. 12), ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej; te same rozmowy wracają jako kotwice |
+| Próba kalibracyjna | jury + Akademia | te same **trzy** rozmowy spoza edycji (§ 8 ust. 12), ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej; te same rozmowy wracają jako kotwice |
 
 ## 1. Okno rozmów
 
@@ -37,18 +37,18 @@ Tryb nie jest wybierany po zamknięciu naboru, bo czytelnicy pracują od lutego.
 
 | Liczba zgłoszeń po ocenie formalnej | Runda pierwsza | Runda druga |
 |---|---|---|
-| do 20 | **nie ma**; Akademii się nie powołuje | Kapituła czyta wszystkie |
-| 21-60 | Akademia, każde zgłoszenie czyta co najmniej 2 czytelników | Kapituła czyta zakwalifikowane, nie mniej niż 20 |
+| do 20 | **nie ma**; Akademii się nie powołuje | jury czyta wszystkie |
+| 21-60 | Akademia, każde zgłoszenie czyta co najmniej 2 czytelników | jury czyta zakwalifikowane, nie mniej niż 20 |
 | 61-200 | jak wyżej, maksimum 20 zgłoszeń na czytelnika, w razie potrzeby lista rezerwowa | jak wyżej |
 | powyżej 200 | odczyt wstępny po jednym czytelniku, z obowiązkowym drugim odczytem poniżej progu i losowym audytem odrzuconych (§ 8 ust. 10a) | jak wyżej |
 
-**Runda pierwsza to odczyt wstępny wykonywany przez Akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi Kapituły.
+**Runda pierwsza to odczyt wstępny wykonywany przez Akademię.** Jej celem nie jest wyłonienie zwycięzcy, tylko odsianie zgłoszeń oczywiście słabszych i wypchnięcie w górę tego, co warte uwagi jury.
 
 ## 6. Runda pierwsza - Akademia
 
 Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). W trybach do 200 zgłoszeń każde zgłoszenie czytają 2 osoby; powyżej 200 obowiązuje odczyt jednoosobowy z zabezpieczeniami z § 8 ust. 10a, więc **obietnica dwóch czytelników nie jest bezwarunkowa i nigdzie nie jest tak formułowana**. Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
 
-**Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do Kapituły niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić - ale tylko takie, które ktoś przeczytał i docenił. Przed przeoczeniem w trybie jednoosobowym (powyżej 200 zgłoszeń) chronią zabezpieczenia z § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie poniżej progu, losowy audyt co najmniej jednej dziesiątej odrzuconych i powrót do dwóch czytelników, jeśli audyt pokaże systematyczny błąd.
+**Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do jury niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić - ale tylko takie, które ktoś przeczytał i docenił. Przed przeoczeniem w trybie jednoosobowym (powyżej 200 zgłoszeń) chronią zabezpieczenia z § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie poniżej progu, losowy audyt co najmniej jednej dziesiątej odrzuconych i powrót do dwóch czytelników, jeśli audyt pokaże systematyczny błąd.
 
 **Kotwice przeciw dryfowi:** te same trzy rozmowy kalibracyjne oceniane ponownie w połowie naboru i po jego zamknięciu. Służą rozpoznaniu, czy czytelnik zmienił własny standard, a nie wyznaczeniu prawidłowej punktacji. Istotne przesunięcie uruchamia przegląd jego wcześniejszych ocen przy granicy kwalifikacji. Punktacja zamrażana jest 14 dni po zamknięciu naboru, każda zmiana oceny zachowuje datę i uzasadnienie.
 
@@ -56,11 +56,11 @@ Nakład: pełny przydział 20 rozmów to 15-20 godzin rozłożonych na dwanaści
 
 ## 7. Kwalifikacja do rundy drugiej
 
-Do Kapituły przechodzą zgłoszenia o najwyższej **średniej** ocen (nie sumie, bo liczba ocen może się różnić), **nie mniej niż 20**, powiększone o wszystkie skierowane dziką kartą. Między rundami nie ma żadnej innej selekcji: dziesiątka antologii powstaje dopiero z pracy całej Kapituły, a nie z odczytu wstępnego przed nią.
+Do jury przechodzą zgłoszenia o najwyższej **średniej** ocen (nie sumie, bo liczba ocen może się różnić), **nie mniej niż 20**, powiększone o wszystkie skierowane dziką kartą. Między rundami nie ma żadnej innej selekcji: dziesiątka antologii powstaje dopiero z pracy całej jury, a nie z odczytu wstępnego przed nią.
 
-## 8. Runda druga - Kapituła
+## 8. Runda druga - jury
 
-Kapituła czyta zakwalifikowane zgłoszenia w całości, ocenia je i ustala dziesiątkę antologii oraz kolejność. Przy rozbieżności ocen większej niż ustalony próg zarządzana jest ocena trzecia.
+jury czyta zakwalifikowane zgłoszenia w całości, ocenia je i ustala dziesiątkę antologii oraz kolejność. Przy rozbieżności ocen większej niż ustalony próg zarządzana jest ocena trzecia.
 
 Nakład przy 25 zgłoszeniach: około 17 godzin na osobę, rozłożone na miesiąc.
 
@@ -70,7 +70,7 @@ Do 20 minut, telefonicznie albo wideo, wyłącznie o treści zgłoszonej rozmowy
 
 ## 10. Postępowania szczególne, jeśli wystąpią
 
-**Inscenizacja (§ 8 ust. 18):** wszczynana wyłącznie z sygnału od osoby, która zgłoszenie przeczytała, albo z rozmowy weryfikacyjnej. Pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem Kapituły, ciężar wykazania po stronie Organizatora, w razie wątpliwości zgłoszenie zostaje.
+**Inscenizacja (§ 8 ust. 18):** wszczynana wyłącznie z sygnału od osoby, która zgłoszenie przeczytała, albo z rozmowy weryfikacyjnej. Pisemne uzasadnienie ze wskazaniem fragmentów, 7 dni dla Uczestnika na wyjaśnienia, decyzja wspólnie z członkiem jury, ciężar wykazania po stronie Organizatora, w razie wątpliwości zgłoszenie zostaje.
 
 **Odmowa publikacji (§ 7a):** nie wpływa na punktację ani nagrodę. Uczestnik może wskazać fragment do usunięcia albo wycofać rozmowę z publikacji, zachowując nagrodę.
 
@@ -80,9 +80,9 @@ Werdykt, wypłata nagród, rozliczenie podatku, wręczenie medalu i dyplomów.
 
 ## 12. Publikacja
 
-**Antologia:** 10 rozmów, pełny dialog bez montażu, z komentarzem wprowadzającym, komentarzami na marginesie w konkretnych momentach i komentarzem końcowym. **Komentarze pisze Kapituła**, każdy członek do przydzielonych sobie rozmów, podpisane nazwiskiem. Organizator redaguje, ujednolica i składa; czyta więc te 10 uważnie, ale nie tworzy komentarza od zera.
+**Antologia:** 10 rozmów, pełny dialog bez montażu, z komentarzem wprowadzającym, komentarzami na marginesie w konkretnych momentach i komentarzem końcowym. **Komentarze pisze jury**, każdy członek do przydzielonych sobie rozmów, podpisane nazwiskiem. Organizator redaguje, ujednolica i składa; czyta więc te 10 uważnie, ale nie tworzy komentarza od zera.
 
-**Archiwum rozmów:** wszystkie zgłoszenia, które przeszły ocenę formalną i były prezentowane w czytelni; zastrzeżenia prawne oznaczają oceniający przy czytaniu, a Organizator rozstrzyga wyłącznie co do oznaczonych. Dawny warunek dwóch odczytów przed publikacją nie obowiązuje. Dawniej: tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez Kapitułę. Odrębna zgoda nie jest potrzebna, bo publikacja wynika z licencji udzielonej przy zgłoszeniu. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
+**Archiwum rozmów:** wszystkie zgłoszenia, które przeszły ocenę formalną i były prezentowane w czytelni; zastrzeżenia prawne oznaczają oceniający przy czytaniu, a Organizator rozstrzyga wyłącznie co do oznaczonych. Dawny warunek dwóch odczytów przed publikacją nie obowiązuje. Dawniej: tylko zgłoszenia, które przeszły do rundy drugiej, czyli przeczytane przez co najmniej dwóch czytelników i przez jury. Odrębna zgoda nie jest potrzebna, bo publikacja wynika z licencji udzielonej przy zgłoszeniu. Nazywane publicznie zbiorem rozmów zakwalifikowanych do drugiej rundy, a nie przekrojem edycji. Warunek dwóch odczytów jest wyraźny: rozmowa wprowadzona dziką kartą po jednym odczycie dostaje brakujący odczyt przed publikacją. Przed publikacją ktoś potwierdza na liście kontrolnej prawa do materiałów, brak danych osób trzecich i brak materiałów cudzych; to nie jest ocena merytoryczna. Przy 150 zgłoszeniach to 25-30 rozmów. Organizator nie czyta dodatkowo niczego, bo każda pozycja była już czytana. Uczestnik, którego rozmowa do archiwum nie weszła, dostaje na żądanie swoją kopię archiwalną i może ją opublikować sam.
 
 **Rytm publikacji:** archiwum udostępniane w całości od dnia ogłoszenia wyników. Publikacja porcjami przez rok została wycofana razem z przepisaniem § 11 ust. 11.
 
@@ -102,7 +102,7 @@ Dane Uczestników nienagrodzonych i kopie archiwalne ich rozmów usuwane w termi
 |---|---:|---|
 | Ocena formalna | 0 | czynności mechaniczne, bez czytania treści |
 | Runda pierwsza | 0 | czyta Akademia |
-| Runda druga | 0 | czyta Kapituła; Organizator nie ocenia merytorycznie |
+| Runda druga | 0 | czyta jury; Organizator nie ocenia merytorycznie |
 | Postępowania szczególne | pojedyncze | tylko te, co do których przyszedł sygnał |
-| Antologia | 10 | redaguje komentarze Kapituły i składa tom |
+| Antologia | 10 | redaguje komentarze jury i składa tom |
 | Archiwum rozmów | 0 | obejmuje wszystkie zgłoszenia po ocenie formalnej, z kopią rozmowy i odnośnikiem |
