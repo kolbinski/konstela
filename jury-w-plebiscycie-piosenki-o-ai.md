@@ -1,4 +1,4 @@
-# Jury plebiscytu na piosenkę o sztucznej inteligencji
+# Poszukiwane jury plebiscytu na piosenkę o sztucznej inteligencji
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
