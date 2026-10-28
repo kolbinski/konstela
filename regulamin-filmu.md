@@ -422,6 +422,8 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    d) przy filmach finałowych: pokaz kinowy, o którym mowa w § 10 ust. 4 - **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa.
 
+2a. **Zapis wideo gali po upływie pięciu lat.** Zapis gali udostępniany jest bezterminowo, natomiast licencja na zwiastun w tym zapisie trwa pięć lat (ust. 2 lit. b). Przed upływem tego okresu Organizator **zwraca się do Uczestnika o przedłużenie uprawnienia**, a w razie jego braku **usuwa fragment zawierający zwiastun z publicznie dostępnego zapisu** albo wyłącza zapis z publicznego udostępniania. Ten sam tryb stosuje się do materiałów informacyjnych z ust. 2 lit. c.
+
 2a. **Rozliczenie publicznego wykonania muzyki na gali obciąża Organizatora.** Oświadczenie Uczestnika z ust. 1 lit. a1 dotyczy jego własnych uprawnień do zwiastuna i filmu i **nie zastępuje** rozliczenia Organizatora z organizacją zbiorowego zarządzania prawami autorskimi, jeżeli takie rozliczenie jest wymagane dla gali. Organizator nie przenosi tego obowiązku na Uczestnika.
 
 3. Organizator **nie nabywa** prawa do zwielokrotniania filmu w całości, do jego dystrybucji ani do udzielania dalszych licencji poza zakresem z ust. 2.
@@ -431,6 +433,8 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 5. Uczestnik zachowuje swobodę dysponowania filmem, z wyjątkiem zgłaszania go do innych konkursów, festiwali i przeglądów do dnia gali (§ 3a ust. 2). Po gali wyjątek ten ustaje, a licencja z ust. 2 jest niewyłączna i nie ogranicza późniejszych zgłoszeń ani dystrybucji.
 
 5a. **Zastrzeżenie dotyczące festiwali.** Udział w Plebiscycie wymaga publicznego opublikowania filmu przez Uczestnika (§ 4 ust. 1 lit. a). Organizator zwraca uwagę, że **część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie**, a publikacja może udział w nich wykluczyć niezależnie od zakresu licencji udzielonej Organizatorowi. Ocenę tego ryzyka Organizator pozostawia Uczestnikowi i nie zapewnia, że film zachowa kwalifikowalność festiwalową.
+
+2z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje - wyłącznie w celach i okresach w nim wskazanych - **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
 
 ## § 13. Wycofanie zgłoszenia
 
@@ -475,6 +479,8 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 ---
 
 ## Miejsca wymagające przeglądu prawnego
+
+**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
 
 Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które do takiej konsultacji trafiają:
 

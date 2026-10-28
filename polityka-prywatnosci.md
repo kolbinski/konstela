@@ -196,9 +196,17 @@ Rozdział ten opisuje najpierw plebiscyt na rozmowę ze sztuczną inteligencją,
 
 O zmianach Administrator informuje na stronie Nagrody. Do zgłoszeń złożonych przed zmianą stosuje się wersję obowiązującą w dniu zgłoszenia.
 
+**Zmiany dotyczące samego przetwarzania komunikujemy wprost osobom, których dotyczą** - pocztą elektroniczną na adres podany w zgłoszeniu - a nie wyłącznie przez podmianę tego dokumentu. Dotyczy to w szczególności zmiany administratora, nowego odbiorcy danych, nowego celu i wydłużenia okresu przechowywania.
+
+**Aktualizacja polityki nie stanowi samodzielnej podstawy rozszerzenia celów ani zakresu przetwarzania.** Rozszerzenie wymaga właściwej podstawy prawnej, a tam, gdzie opiera się na zgodzie - nowej zgody. Zasada stosowania wcześniejszej wersji do wcześniejszych zgłoszeń nie wyłącza obowiązku sprostowania informacji, która stała się nieprawdziwa.
+
+**Wersja dokumentu.** Każda wersja polityki oznaczana jest numerem i datą, widocznymi na jej końcu. Wersja obowiązująca w dniu otwarcia naboru jest wersją wiążącą dla tej edycji.
+
 ---
 
 ## Miejsca wymagające przeglądu prawnego
+
+**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
 
 Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które do takiej konsultacji trafiają:
 

@@ -450,6 +450,8 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 6. **Organizator nie sporządza kopii zgłoszonego nagrania.** Nagranie pozostaje na kanale Uczestnika, a Organizator przechowuje wyłącznie link, okładkę, dane zgłoszenia oraz metrykę nagrania (§ 5 ust. 6a). Skutki niedostępności nagrania określa § 8 ust. 4.
 
+2z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje - wyłącznie w celach i okresach w nim wskazanych - **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
+
 ## § 16. Tryb sporny i skutki nieprawdziwej deklaracji
 
 1. Zastrzeżenie co do autorstwa zgłoszonego utworu może zgłosić każdy, w terminie do dnia ogłoszenia werdyktu, na adres wskazany w § 1 ust. 4. Zastrzeżenie wymaga wskazania zgłoszenia, opisania podstawy oraz podania danych kontaktowych zgłaszającego zastrzeżenie.
@@ -526,6 +528,8 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 ## Miejsca wymagające potwierdzenia przez kancelarię
 
+**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
+
 Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/dokument/prawnik) i wskazuje konkretne jednostki redakcyjne, nie obszary. Pytania merytoryczne zebrane są w [prawnik-plebiscyt](/dokument/prawnik-plebiscyt).
 
 1. **§ 3 ust. 1-3** - granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy. Czy rozbicie jest skuteczne i czy zgoda w zakresie licencji wymaga formy szczególnej.
@@ -539,7 +543,7 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 9. **§ 12 ust. 3** - sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
 10. **§ 12 ust. 6** - podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu Nagrody.
 11. **§ 13 ust. 3** - przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
-12. **§ 14 ust. 2-3** - obowiązkowy udział laureatów w gali i zakres pokrycia kosztów.
+12. **§ 14 ust. 2-5** - oczekiwanie obecności laureatów czołowej trójki na gali przy jednoczesnym zastrzeżeniu, że nieobecność ani odmowa wykonania utworu na żywo nie pozbawiają nagrody pieniężnej, oraz zakres pokrycia kosztów dojazdu i noclegu całej dziesiątki.
 13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
 14. **§ 15 ust. 5 zdanie drugie** - wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
 15. **§ 5 ust. 6 i 6a** - wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.

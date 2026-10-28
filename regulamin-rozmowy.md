@@ -734,6 +734,8 @@ Celem Archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 
    d) laureat, który nie ukończył 18 lat, bierze udział w czytaniu za zgodą przedstawiciela ustawowego (§ 3 ust. 1a lit. d).
 
+3a. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje - wyłącznie w celach i okresach w nim wskazanych - **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
+
 ## § 12. Dane osobowe
 
 1. Administratorem danych osobowych Uczestników jest Organizator, czyli fundacja wskazana w § 1 ust. 1. Szczegółowe zasady przetwarzania określa Polityka prywatności dostępna na stronie Nagrody.

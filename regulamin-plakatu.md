@@ -435,6 +435,8 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 6. **Zbycie oryginału nie przenosi autorskich praw majątkowych ani nie wpływa na licencję udzieloną zgodnie z ust. 2.** Uczestnik, który sprzedaje pracę, informuje nabywcę o zakresie tej licencji.
 
+3z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje - wyłącznie w celach i okresach w nim wskazanych - **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
+
 ## § 14. Licytacja i sprzedaż pracy
 
 0. Paragraf ten reguluje **dwie odrębne rzeczy**: cichą licytację prowadzoną przez Organizatora przy wystawie w galerii sztuki (ust. 1-7) oraz **własną sprzedaż pracy przez Uczestnika**, której Organizator nie prowadzi i w której nie pośredniczy (ust. 8 i następne). Udział w jednej z nich nie jest warunkiem ani przeszkodą udziału w drugiej.
@@ -544,6 +546,8 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 ---
 
 ## Miejsca wymagające potwierdzenia przez kancelarię
+
+**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
 
 Lista wskazuje konkretne jednostki redakcyjne, nie obszary - tak samo jak przy regulaminie Nagrody i regulaminie plebiscytu piosenki.
 
