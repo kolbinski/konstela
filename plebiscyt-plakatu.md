@@ -87,9 +87,11 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 **Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie – oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie – jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
-**Dokumentacja procesu twórczego.** Nagranie pomaga potwierdzić sposób powstawania pracy i ogranicza ocenianie autorstwa na podstawie samego wyglądu plakatu. Ocena „czy to wygląda na wygenerowane” byłaby zgadywaniem i uderzałaby w tych, którzy malują gładko i precyzyjnie. Pomyśl o nagraniu **przed rozpoczęciem pracy**. Musi trwać co najmniej 3 minuty, ale nie wymagamy profesjonalnej jakości obrazu, dźwięku ani montażu. Nagrania nie publikujemy; udostępniamy je wyłącznie oceniającym i jury.
+### Dokumentacja procesu twórczego
 
-**Dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. **Jedno ujęcie musi być nieprzerwanym przejściem kamery od Twojej twarzy do wykonywanej pracy**, bez cięcia – to ono wiąże Ciebie z tą konkretną robotą. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 3 minut się nie liczą.
+Nagranie pomaga potwierdzić sposób powstawania pracy i ogranicza ocenianie autorstwa na podstawie samego wyglądu plakatu. Ocena „czy to wygląda na wygenerowane” byłaby zgadywaniem i uderzałaby w tych, którzy malują gładko i precyzyjnie. Pomyśl o nagraniu **przed rozpoczęciem pracy**. Musi trwać co najmniej 3 minuty, ale nie wymagamy profesjonalnej jakości obrazu, dźwięku ani montażu. Nagrania nie publikujemy; udostępniamy je wyłącznie oceniającym i jury.
+
+**Dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę oraz dłoń podczas jej wykonywania, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. **Jedno ujęcie musi być nieprzerwanym przejściem kamery od Twojej twarzy do wykonywanej pracy**, bez cięcia – to ono wiąże Ciebie z tą konkretną robotą. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 3 minut się nie liczą.
 
 **Najprościej ustawić telefon na statywie albo oprzeć go o coś z boku**, tak żeby w kadrze mieściły się naraz Twoja twarz, praca i ręka. Twarz nie musi być duża ani ostra – ma pozwolić rozpoznać, że pracuje ta sama osoba, która zgłasza pracę. Jeżeli pracujesz w dużym formacie i wszystko nie mieści się w jednym kadrze, odsuń kamerę albo nagraj z boku pod kątem.
 
@@ -200,7 +202,9 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania – inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
-**Wybór najlepszego uzasadnienia.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
+### Wybór najlepszego uzasadnienia
+
+Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym plakacie – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
