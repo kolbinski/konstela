@@ -19,7 +19,7 @@
 
 ### Co oceniasz
 
-Nie wszystkie zgłoszenia. **Pierwszą ocenę zgłoszonych piosenek wykonuje akademia piosenki** – grono muzyków z doświadczeniem w branży muzycznej, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
+Nie wszystkie zgłoszenia piosenek w plebiscycie. **Pierwszą ocenę tych piosenek wykonuje [akademia](/plebiscyt-piosenki#kto-ocenia)** – grono muzyków z doświadczeniem w branży muzycznej, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
 
 ### Według czego
 
