@@ -197,7 +197,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
-<p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza dzień po zamknięciu naboru i trwa do dnia gali.</p>
+<p><strong>Otwarte głosowanie, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS, od 16 lat; nie głosują autorzy zgłoszeń tego plebiscytu. Liczniki i uzasadnienia są ukryte do gali. Głosowanie rusza po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń i kończy się w dniu gali o 12:00.</p>
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych plakatów</h3>
@@ -222,6 +222,10 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
 **Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na który głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+
+**Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
+
+**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym plakacie - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
@@ -280,7 +284,7 @@ Oryginały całej dziesiątki finalistów wiszą na **wystawie towarzyszącej ga
 <dl class="harmonogram">
 <div><dt>2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie rozmowy, bo antologia musi zdążyć do druku</small></dd></div>
-<div><dt>1 grudnia 2027</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, oceny publiczności są ukryte do dnia gali</small></dd></div>
+<div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały</small></dd></div>
 <div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginałów<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
 <div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności</small></dd></div>

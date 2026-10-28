@@ -161,7 +161,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
-<p><strong>Otwarte głosowanie dla wszystkich, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS. Liczniki są ukryte przez cały czas głosowania, a wynik ogłaszamy na gali. Głosowanie rusza po zamknięciu naboru, 15 stycznia 2028 i trwa do dnia gali.</p>
+<p><strong>Otwarte głosowanie, niezależne od werdyktu jury</strong>, dla zgłoszenia z największą liczbą głosów. Jeden głos na numer telefonu, potwierdzony kodem z SMS, od 16 lat; nie głosują autorzy zgłoszeń tego plebiscytu. Liczniki i uzasadnienia są ukryte do gali. Głosowanie rusza po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń i kończy się w dniu gali o 12:00.</p>
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych rozmów</h3>
@@ -195,6 +195,10 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
 **Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na którą głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+
+**Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
+
+**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samej rozmowie - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
@@ -265,7 +269,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>Cały 2027</dt><dd>Okno rozmów<small>zgłoszenia przyjmujemy na bieżąco, a czytelnia rośnie</small></dd></div>
 <div><dt>15 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dwa dodatkowe tygodnie są dla rozmów z końca grudnia</small></dd></div>
-<div><dt>15 stycznia 2028</dt><dd>Otwarcie głosowania publiczności<small>trwa do dnia gali, oceny publiczności są ukryte do dnia gali</small></dd></div>
+<div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po zamrożeniu punktacji pierwszej rundy i ogłoszeniu ostatecznej listy zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>29 lutego 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
 </dl>
