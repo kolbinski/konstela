@@ -115,7 +115,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
-   c2) **tekst utworu** - pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i jest udostępniany wyłącznie akademii i jury; **nie jest publikowany** ani w Słuchalni, ani w Archiwum, ani w materiałach Nagrody. Tekst ma odpowiadać temu, co słychać w nagraniu; rozbieżność drobna, wynikająca z wykonania, nie jest podstawą odrzucenia;
+   c2) **tekst utworu** - pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i **jest prezentowany publicznie przy zgłoszeniu** - w Słuchalni i w Archiwum (ust. 7 i 8). Tekst ma odpowiadać temu, co słychać w nagraniu; drobna rozbieżność wynikająca z wykonania nie jest podstawą odrzucenia. Tekst nie jest natomiast publikowany w antologii ani w innych materiałach drukowanych Nagrody;
 
    d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 
@@ -132,9 +132,9 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 6a. Przy przyjęciu zgłoszenia Organizator utrwala **metrykę nagrania**: tytuł, czas trwania, datę publikacji i identyfikator nagrania w serwisie. Metryka nie jest kopią nagrania i nie jest publikowana. Metryka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; nie jest zapisem jego treści. Rozbieżność między metryką a nagraniem dostępnym pod linkiem w czasie oceny jest podstawą wszczęcia wyjaśnień w trybie z § 16, a nie samodzielną podstawą wyłączenia. **Uczestnik może poprawić nagranie do dnia zamknięcia naboru**, zgłaszając to Organizatorowi, który aktualizuje wówczas metrykę; oceniający pracują na wersji ostatecznej. Zmiana nagrania po zamknięciu naboru jest niedopuszczalna.
 
-7. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+7. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, **tekst utworu**, podpis Uczestnika, link z § 5 ust. 3 lit. a1, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
 
-8. Po **publicznym ogłoszeniu werdyktu na gali** (§ 1a ust. 1) Słuchalnia edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
+8. Po **publicznym ogłoszeniu werdyktu na gali** (§ 1a ust. 1) Słuchalnia edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, **tekst utworu**, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
@@ -426,13 +426,13 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 2. Uczestnik udziela Organizatorowi licencji niewyłącznej, nieodpłatnej, w czterech zakresach i wyłącznie w tych zakresach:
 
-   a) prezentacja zgłoszenia, wraz z okładką, na stronie Nagrody w czasie trwania naboru i oceny;
+   a) prezentacja zgłoszenia, wraz z okładką i tekstem utworu, na stronie Nagrody w czasie trwania naboru i oceny;
 
    b) wykonanie utworu na żywo podczas gali;
 
    c) utrwalenie gali na wideo oraz bezpłatne udostępnienie tego zapisu;
 
-   d) prezentacja zgłoszenia, wraz z okładką, w Archiwum plebiscytu po zakończeniu edycji, w zakresie określonym w § 5 ust. 8.
+   d) prezentacja zgłoszenia, wraz z okładką i tekstem utworu, w Archiwum plebiscytu po zakończeniu edycji, w zakresie określonym w § 5 ust. 8.
 
 3. Czas trwania licencji jest różny dla poszczególnych zakresów:
 

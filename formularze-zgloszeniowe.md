@@ -61,12 +61,12 @@ Odrębności: wiek od 16 lat. Film ma być zrealizowany na potrzeby tego plebisc
 | Link do nagrania w serwisie wideo (publiczne albo niepubliczne z dostępem przez link) | obowiązkowe |
 | Okładka: JPG albo PNG, kwadratowa, bok 800-3000 px, do 5 MB | obowiązkowe |
 | Skład osobowy przy zgłoszeniu zespołowym wraz ze wskazaniem reprezentanta | warunkowe |
-| Tekst utworu (pole tekstowe, nie jest publikowany) | obowiązkowe |
+| Tekst utworu (pole tekstowe, prezentowany w Słuchalni i w Archiwum) | obowiązkowe |
 | Deklaracja sposobu powstania tekstu | obowiązkowe |
 | Deklaracja narzędzi opartych na sztucznej inteligencji użytych w produkcji, wraz z celem użycia | obowiązkowe |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat, rozbita na zakresy | warunkowe |
 
-Odrębności: wiek od 16 lat. Zgoda opiekuna na prezentację zgłoszenia jest warunkiem przyjęcia, pozostałe zakresy rozpatrywane są osobno. Tekst utworu nie jest publikowany, deklaracja jest. Przy przyjęciu zgłoszenia Organizator utrwala metrykę nagrania - tytuł, czas trwania, datę publikacji i identyfikator w serwisie.
+Odrębności: wiek od 16 lat. Zgoda opiekuna na prezentację zgłoszenia jest warunkiem przyjęcia, pozostałe zakresy rozpatrywane są osobno. Tekst utworu i deklaracja są publikowane przy zgłoszeniu, deklaracja jest. Przy przyjęciu zgłoszenia Organizator utrwala metrykę nagrania - tytuł, czas trwania, datę publikacji i identyfikator w serwisie.
 
 ### Plakat o sztucznej inteligencji (§ 4 i 4a regulaminu plakatu)
 

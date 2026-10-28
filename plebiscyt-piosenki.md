@@ -229,7 +229,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h2 id="sluchalnia"><!--ikona:sluchalnia--><span>Słuchalnia i Archiwum</span></h2>
 
-**Utwory, które przeszły weryfikację formalną, umieszczamy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, podpis, uzasadnienie „dlaczego warte nagrody głównej", deklarację użycia AI, link do nagrania oraz **kontakt do Ciebie**, czyli link do Twojej strony albo profilu, jeżeli go podałeś w zgłoszeniu. Tekstu utworu nie publikujemy.
+**Utwory, które przeszły weryfikację formalną, umieszczamy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, **tekst utworu**, podpis, uzasadnienie „dlaczego warte nagrody głównej", deklarację użycia AI, link do nagrania oraz **kontakt do Ciebie**, czyli link do Twojej strony albo profilu, jeżeli go podałeś w zgłoszeniu.
 
 ### Katalog, nie skład nagrań
 
