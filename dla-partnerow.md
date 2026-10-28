@@ -6,8 +6,6 @@
 
 **Nagroda Konstela to cztery plebiscyty rozstrzygane na jednej gali**: na [rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy), [film](/plebiscyt-filmu), [piosenkę](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu) o niej. Nagradzamy człowieka, nie program, bo oceniamy pytania, a nie odpowiedzi.
 
-**Pierwsza edycja rusza po zabezpieczeniu finansowania.** Plebiscytu z nagrodami, których nie ma, nie ogłaszamy - dlatego ta strona jest listą konkretnych zakresów, a nie prośbą o wsparcie w ogólności. Do każdego z nich szukamy osobnego partnera i każdy można wziąć w całości albo w części.
-
 **Zakres, kosztorys i proponowane warunki współpracy wysyłamy na życzenie.** Budżet pierwszej edycji jest policzony pozycja po pozycji i pokazujemy go w całości, razem z tym, czego jeszcze nie wyceniliśmy.
 
 ## <!--ikona:puchar--><span>Nagrody i ocena w plebiscytach</span>
@@ -102,6 +100,10 @@
 
 <h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
-Napisz na adres **wspolpraca@konstela.org**. Odpowiadamy zakresem, kosztorysem i proponowanymi warunkami współpracy - bez zobowiązania po żadnej ze stron.
+Napisz na adres **wspolpraca@konstela.org**.
 
-Organizatorem jest [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej Nagrodzie: [konstela.org](/).
+Odpowiadamy zakresem, kosztorysem i proponowanymi warunkami współpracy - bez zobowiązania po żadnej ze stron.
+
+Organizatorem jest [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu.
+
+Więcej o Nagrodzie: [konstela.org](/).
