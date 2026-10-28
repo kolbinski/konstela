@@ -279,11 +279,15 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, raz
 
 Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
 
-## <!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span>
+<h2 id="wymagania"><!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span></h2>
 
 Nie ukrywamy, że to najdroższy plebiscyt z czterech dla osoby, która się zgłasza. Film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a my nie finansujemy produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało - a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
 
-Druga rzecz, o której trzeba powiedzieć wprost: **przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji**. To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie - z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zostaw adres](#kontakt): w dniu otwarcia naboru napiszemy, ile jest pieniędzy, kto zasiada w jury i co wiemy o zainteresowaniu. Dopiero wtedy warto podejmować decyzję o produkcji.
+Druga rzecz, o której trzeba powiedzieć wprost: **przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji**. To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie - z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zostaw adres](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
+
+**Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
+
+**Drugą w dniu, w którym edycja jest już pewna**: kiedy liczba zgłoszeń, które przeszły weryfikację formalną, przekroczy dziesięć, a jury ma co oceniać. Od tej chwili ryzyko nierozstrzygnięcia znika i zostaje Ci tylko to, na co masz wpływ - czyli własny film. Nabór trwa do 30 listopada 2027 roku, więc jeżeli ta wiadomość przyjdzie wcześniej, masz jeszcze czas na realizację.
 
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 
@@ -302,7 +306,7 @@ Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.filmu@konstela.org**
 
 Napisz, jeśli:
 
-- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz dwie wiadomości: w dniu otwarcia naboru oraz w dniu, w którym [edycja jest już pewna](#wymagania)
 - **jesteś twórcą filmowym i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
 - **chcesz oglądać i oceniać zgłoszenia w akademii filmu** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze

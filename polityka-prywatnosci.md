@@ -32,9 +32,9 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 
 **Jakie dane.** Adres e-mail, a także treść wiadomości i podpis, jeżeli piszący je poda. Zapis następuje wyłącznie przez napisanie wiadomości na adres w domenie konstela.org; na stronie nie ma formularza zapisu ani żadnego pola zbierającego dane.
 
-**Cel i podstawa.** Jednorazowe powiadomienie o otwarciu naboru we wskazanym plebiscycie oraz odpowiedź na zadane pytanie. Podstawą jest **zgoda** (art. 6 ust. 1 lit. a RODO) wyrażona przez samo napisanie w tej sprawie, a w zakresie prowadzenia korespondencji - **prawnie uzasadniony interes** polegający na udzieleniu odpowiedzi (art. 6 ust. 1 lit. f RODO).
+**Cel i podstawa.** Powiadomienie o otwarciu naboru we wskazanym plebiscycie, a w plebiscycie na film także **drugie powiadomienie o tym, że edycja zostanie rozstrzygnięta** (po przekroczeniu progu zgłoszeń), oraz odpowiedź na zadane pytanie. Podstawą jest **zgoda** (art. 6 ust. 1 lit. a RODO) wyrażona przez samo napisanie w tej sprawie, a w zakresie prowadzenia korespondencji - **prawnie uzasadniony interes** polegający na udzieleniu odpowiedzi (art. 6 ust. 1 lit. f RODO).
 
-**Jak długo.** Adres usuwamy po wysłaniu powiadomienia o otwarciu naboru albo wcześniej - od razu po rezygnacji, która wystarczy, by zgłosić ją jednym zdaniem na ten sam adres. Jeżeli nabór nie zostanie otwarty do końca 2028 roku, usuwamy listę w całości.
+**Jak długo.** Adres usuwamy po wysłaniu ostatniego z powiadomień, o których mowa wyżej, albo wcześniej - od razu po rezygnacji, która wystarczy, by zgłosić ją jednym zdaniem na ten sam adres. Jeżeli nabór nie zostanie otwarty do końca 2028 roku, usuwamy listę w całości.
 
 **Czego nie robimy.** Nie wysyłamy newslettera, nie profilujemy adresów, nie łączymy ich ze zgłoszeniami ani z głosami i nie przekazujemy ich nikomu poza fundacją, o której mowa w rozdziale 1.
 
