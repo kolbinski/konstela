@@ -36,7 +36,7 @@
 
 ### Co dostają finaliści
 
-**Wszyscy finaliści otrzymują nagrody pieniężne i miejsce w antologii**: jury przyznaje nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień, a z każdym wyróżnieniem również wiąże się nagroda pieniężna. W odróżnieniu od pozostałych kategorii także wyróżnienia obejmują nagrodę pieniężną. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
+**Wszyscy finaliści otrzymują nagrody pieniężne i miejsce w antologii.** Jury przyznaje nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
@@ -61,7 +61,7 @@ Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla ak
 - **plon** – maksymalnie 25 punktów  
   Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło, powstały tekst, zmieniona decyzja lub pogląd. Połączenie, którego nie da się nazwać, nie jest punktowane.
 
-Każdy przedział punktowy ma opis określający podstawy przyznania oceny. Dwie zasady warto znać z góry: **oceniany jest wyłącznie dialog, a nie wytwory powstałe przy okazji** – dokumenty, kod, obrazy – oraz **rozmowy z nieudanymi pytaniami i porzuconymi wątkami nie są z tego powodu oceniane niżej**, bo pokazują rzeczywisty przebieg pracy.
+Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykłady ich zastosowania. Dwie zasady warto znać z góry: **oceniany jest wyłącznie dialog, a nie wytwory powstałe przy okazji** – dokumenty, kod, obrazy – oraz **rozmowy z nieudanymi pytaniami i porzuconymi wątkami nie są z tego powodu oceniane niżej**, bo pokazują rzeczywisty przebieg pracy.
 
 ### Dodatkowy warunek dopuszczenia do nagrody
 
@@ -81,7 +81,7 @@ Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczeni
 
 ### Komentarze do antologii
 
-Dziesięć rozmów z antologii ukazuje się **z komentarzem jury** – kilka zdań o tym, co w każdej z nich było wartościowe. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie. Umowa określa wynagrodzenie za komentarz, sposób jego podpisania oraz zakres zmian redakcyjnych, na które autor komentarza się zgadza.
+Każda rozmowa w antologii zostanie opatrzona **komentarzem jury**: kilkoma zdaniami wyjaśniającymi jej wartość. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie. Umowa określa wynagrodzenie za komentarz, sposób jego podpisania oraz zakres zmian redakcyjnych, na które autor komentarza się zgadza.
 
 ### Czego jury nie robi
 

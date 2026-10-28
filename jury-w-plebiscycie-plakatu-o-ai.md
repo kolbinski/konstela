@@ -59,7 +59,7 @@ Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla ak
 - **działanie plakatu** – maksymalnie 20 punktów  
   Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w pomniejszeniu.
 
-Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
+Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykłady ich zastosowania – pomagają one porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
 ### Ile to czasu
 

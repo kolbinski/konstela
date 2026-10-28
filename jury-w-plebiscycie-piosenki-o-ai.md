@@ -59,7 +59,7 @@ Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla a
 - **wykonanie** – maksymalnie 20 punktów  
   Wokal i interpretacja.
 
-Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
+Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykłady ich zastosowania – pomagają one porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
 ### Ile to czasu
 

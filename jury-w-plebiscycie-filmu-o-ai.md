@@ -65,7 +65,7 @@ Według [karty oceny](/dokument/regulamin-filmu#karta-oceny), tej samej dla akad
 - **siła oddziaływania** – maksymalnie 20 punktów  
   Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potrafi po obejrzeniu nazwać.
 
-Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
+Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykłady ich zastosowania – pomagają one porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
 **Opisy kryteriów uwzględnią różnice między dokumentem, fabułą, animacją i esejem.** Film nie musi wygłaszać morału ani zajmować stanowiska wobec AI, ale jego ujęcie tematu ma być rozpoznawalne; niedopowiedzenie punktuje wysoko, jeżeli jest zamierzone i czytelne, a nie wynika z braku pomysłu. Rzetelność dotyczy informacji przedstawianych widzowi jako fakty o technologii, nie rozwiązań fantastycznych ani samej fikcji.
 ### Ile to czasu
