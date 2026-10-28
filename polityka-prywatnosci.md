@@ -168,7 +168,7 @@ Wszystkie powyższe sprawy załatwiane są pod adresem kontakt@konstela.org.
 
 Rozdział ten opisuje najpierw plebiscyt na rozmowę ze sztuczną inteligencją, a na końcu to, co różni się w pozostałych trzech.
 
-**Publikacja nie opiera się na zgodzie, więc nie ma zgody do wycofania.** Przystępując do Nagrody, Uczestnik udziela licencji na publikację swojego zgłoszenia w czytelni, w Archiwum rozmów i w antologii (Regulamin § 11 ust. 3), a publikacja jest warunkiem udziału. To, co Uczestnik rzeczywiście może zrobić, jest następujące.
+**Publikacja nie opiera się na zgodzie, więc nie ma zgody do wycofania.** Przystępując do Nagrody, Uczestnik udziela licencji na publikację swojego zgłoszenia w czytelni, w Archiwum rozmów i w antologii (Regulamin § 11 ust. 3), a publikacja jest warunkiem udziału. **Wyjątkiem są operacje oparte na odrębnej zgodzie** - przetwarzanie danych szczególnych kategorii na potrzeby oceny i na potrzeby publikacji (Regulamin § 6a), publikacja kontaktu do autora oraz publikacja uzasadnienia głosu. Każdą z tych zgód można wycofać na zasadach opisanych przy danym celu. To, co Uczestnik rzeczywiście może zrobić poza nimi, jest następujące.
 
 **Podpis.** Uczestnik wybiera przy zgłoszeniu, czy jego zgłoszenie jest podpisane imieniem i nazwiskiem, czy pseudonimem (§ 5 ust. 2 lit. g). Wybór ten obejmuje czytelnię, Archiwum, antologię i listę laureatów. Jest to podstawowe narzędzie ochrony prywatności w tym plebiscycie i działa od chwili zgłoszenia, bez potrzeby powoływania się na cokolwiek. Administrator zna tożsamość Uczestnika, ponieważ jest ona niezbędna do rozmowy weryfikacyjnej, wypłaty nagrody i rozliczenia podatkowego, i nie ujawnia jej nikomu poza przypadkami wynikającymi z przepisów prawa (§ 11 ust. 5a).
 
@@ -214,7 +214,7 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 
 1. **Nagranie z powstawania plakatu jako warunek udziału** (rozdział 6) - proporcjonalność wymogu, podstawa przetwarzania wizerunku twarzy, wystarczalność art. 6 ust. 1 lit. b RODO zamiast zgody, a także zakres zgody przedstawiciela ustawowego przy Uczestniku, który nie ukończył 18 lat.
 2. **Stanowisko, że wizerunek z nagrania nie jest przetwarzany biometrycznie** - czy przy ocenie prowadzonej wyłącznie przez człowieka, bez narzędzi automatycznych, art. 9 RODO rzeczywiście nie znajduje zastosowania.
-3. **Tryb wycofania zgłoszenia** (rozdział 13) - wprowadzony we wszystkich czterech plebiscytach, z granicą 14 dni przed galą i odrębnym terminem dla zwycięskiego plakatu. Prosimy o potwierdzenie, czy wobec konsumenta takie ograniczenie czasowe jest dopuszczalne i czy skutki wycofania opisano wystarczająco.
+3. **Tryb wycofania zgłoszenia** (rozdział 13) - w plebiscycie na rozmowę do dnia zamknięcia treści antologii, w pozostałych trzech do 14 dni przed galą, z odrębną zasadą dla zwycięskiego plakatu. Prosimy o potwierdzenie, czy wobec konsumenta takie ograniczenie czasowe jest dopuszczalne i czy skutki wycofania opisano wystarczająco.
 4. **Stanowisko, że publikacja treści przez Uczestnika na własnym kanale nie jest przekazaniem danych przez Administratora** (rozdział 11), przy jednoczesnym prezentowaniu linku na stronie Nagrody.
 5. **Publikacja punktacji wszystkich zgłoszeń** (rozdział 13) - utrzymana z poprzedniej wersji polityki i nadal wymagająca oceny.
 6. **Oznaczanie zastrzeżeń przez oceniających zamiast przeglądu przez Administratora** (rozdział 9) - czy przy publikacji wszystkich zgłoszeń, które przeszły weryfikację formalną, taki tryb jest wystarczającym zachowaniem należytej staranności.
