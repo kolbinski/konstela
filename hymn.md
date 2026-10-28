@@ -12,6 +12,8 @@ Osobno od plebiscytu powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj in
 
 Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym samym miejscu, w którym oni je napiszą. Hymn stoi poza plebiscytem, ale nie poza zasadami.
 
+## <!--ikona:sluchalnia--><span>Posłuchaj</span>
+
 <table class="thumbs">
   <tr>
     <td>
