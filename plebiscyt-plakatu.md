@@ -10,7 +10,8 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 
 **W skrócie:**
 
-- **[nagrody pieniężne](#nagrody)** dostają trzy najwyżej ocenione prace, pozostali finaliści **siedem wyróżnień**, a obok nich przyznawana jest **Nagroda Publiczności**, niezależnie od werdyktu jury
+- **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
+- obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
