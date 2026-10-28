@@ -303,7 +303,6 @@ Napisz, jeśli:
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adresy zapisane na tę listę trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem
 - **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **chcesz słuchać i oceniać zgłoszenia w akademii** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
-- **rozważasz udział w jury** – czego oczekujemy i co dajemy, opisuje osobna strona: [jury plebiscytu na piosenkę](/jury-w-plebiscycie-piosenki-o-ai)
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
