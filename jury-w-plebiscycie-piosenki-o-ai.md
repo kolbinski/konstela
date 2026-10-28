@@ -4,7 +4,12 @@
 
 ## <!--ikona:nuta--><span>O co chodzi</span>
 
-[Nagroda Konstela](/) to coroczna nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją. Obok plebiscytu na rozmowę stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji: [film](/plebiscyt-filmu), [plakat](/plebiscyt-plakatu) i [piosenka](/plebiscyt-piosenki).
+[Nagroda Konstela](/) to **nowa, coroczna nagroda przyznawana w czterech kategoriach**:
+
+1. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
+2. [Plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
+3. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
+4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
 **Plebiscyt na piosenkę jest otwarty dla każdego, kto napisze i nagra własny utwór o sztucznej inteligencji** – własny tekst, własna muzyka, własne wykonanie, po polsku. Zgłoszeniem jest demo: link do nagrania na własnym kanale, bez wymogu studia, wydawcy i zasięgów. Nie nagradzamy produkcji ani popularności, tylko piosenkę.
 
