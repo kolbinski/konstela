@@ -90,7 +90,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 **Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Film może być publiczny albo niepubliczny z dostępem przez link; zwiastun jest publiczny, bo pokazujemy go w Projektorni i na gali. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
 
-**W zgłoszeniu podajesz również link do zwiastuna filmu, od 60 do 120 sekund** – publicznie dostępnego na Twoim kanale i zmontowanego z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
+**W zgłoszeniu podajesz również link do zwiastuna filmu.** Zwiastun trwa od 60 do 120 sekund, jest publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
 ### Wersja plebiscytowa
 
