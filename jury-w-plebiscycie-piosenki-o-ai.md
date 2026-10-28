@@ -13,7 +13,7 @@
 
 **Plebiscyt na piosenkę jest otwarty dla każdego, kto napisze i nagra własny utwór o sztucznej inteligencji** – własny tekst, własna muzyka, własne wykonanie, po polsku. Zgłoszeniem jest demo: link do nagrania na własnym kanale, bez wymogu studia, wydawcy i zasięgów. Nie nagradzamy produkcji ani popularności, tylko piosenkę.
 
-**Dziesięciu finalistów dostaje nagranie studyjne na koszt organizatora, z prawami do nagrania przy autorach.** Trzy pierwsze miejsca dostają nagrody pieniężne i wykonują utwory na żywo podczas gali.
+**Dziesięciu finalistów dostaje nagranie studyjne na koszt organizatora, z prawami do nagrania przy autorach.** Trzy pierwsze miejsca dostają nagrody pieniężne i wykonują utwory na żywo podczas [gali rozdania nagród](/#gala).
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
