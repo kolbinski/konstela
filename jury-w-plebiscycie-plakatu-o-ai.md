@@ -53,7 +53,7 @@ Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla ak
 - ujęcie tematu – maksymalnie 30 punktów
 - pomysł plastyczny – maksymalnie 30 punktów
 - wykonanie – maksymalnie 20 punktów
-- działanie plakatu w różnych skalach – maksymalnie 20 punktów
+- działanie plakatu – maksymalnie 20 punktów
 
 Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
