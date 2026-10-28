@@ -29,7 +29,12 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 
 ### Cztery plebiscyty Nagrody Konstela
 
-**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali: na [rozmowę](/plebiscyt-rozmowy), [film](/plebiscyt-filmu), [piosenkę](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu).
+**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali:
+
+1. [Plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
+2. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
+3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
+4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
 ### Dotąd nagradzano maszyny
 
