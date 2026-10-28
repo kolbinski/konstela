@@ -219,7 +219,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 
 **Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na którą głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
-**Twoje nagranie ma działać do końca głosowania.** Jeśli zniknie, dostajesz co najmniej 14 dni na przywrócenie go albo wskazanie tego samego nagrania pod innym linkiem. Krótka awaria serwisu niczego Ci nie odbiera, ale jeśli nagranie było niedostępne nieprzerwanie dłużej niż 7 dni i nie wróci do zamknięcia głosowania, oddane na nie głosy nie liczą się do Nagrody Publiczności. Zgłoszenie zostaje wtedy w plebiscycie i w ocenie jury.
+**Twoje nagranie ma działać do końca głosowania.** Jeśli zniknie, dostajesz co najmniej 14 dni na przywrócenie go albo wskazanie tego samego nagrania pod innym linkiem. Krótka awaria serwisu niczego Ci nie odbiera, ale jeśli nagranie było niedostępne nieprzerwanie dłużej niż 7 dni i nie wróci do zamknięcia głosowania, oddane na nie głosy nie liczą się do Nagrody Publiczności. Samo pominięcie głosów nie wyklucza zgłoszenia z oceny jury - o dalszym udziale decyduje to, czy przywrócisz dostęp w wyznaczonym terminie naprawczym.
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
