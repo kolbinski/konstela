@@ -26,7 +26,7 @@
 
 ### Kto może zgłosić piosenkę
 
-**Plebiscyt na najlepszą piosenkę o sztucznej inteligencji jest otwarty dla każdego, kto napisze tekst i nagra własny utwór** – własny tekst, własna muzyka, własne wykonanie, po polsku.
+**Plebiscyt na najlepszą piosenkę o sztucznej inteligencji jest otwarty dla każdego.** Przyjmujemy autorskie piosenki po polsku, także zespołowe. Melodia, harmonia i wokal muszą pochodzić od ludzi; zasady korzystania z AI przy tekście opisujemy poniżej.
 
 ### Dlaczego akurat o sztucznej inteligencji
 
@@ -38,7 +38,7 @@ Zgłoszeniem w plebiscycie jest demo: link do nagrania na własnym kanale, bez w
 
 ### Co dostają finaliści
 
-**Dziesięciu finalistów nagrywa swój utwór w studiu na koszt organizatora, a gotowe nagranie zostaje przy autorze piosenki** – może je wydać, umieścić w serwisach i grać, a fundacja nie bierze z tego prowizji. Laureaci trzech pierwszych miejsc otrzymują nagrody pieniężne, a zwycięską trójkę zapraszamy do wykonania utworów na żywo podczas [gali rozdania nagród](/#gala).
+**Każdy z dziesięciu finalistów otrzymuje nagranie swojego utworu w studiu na koszt organizatora, a gotowe nagranie zostaje przy autorze piosenki** – może je wydać, umieścić w serwisach i grać, a fundacja nie bierze z tego prowizji. Laureaci trzech pierwszych miejsc otrzymują nagrody pieniężne, a zwycięską trójkę zapraszamy do wykonania utworów na żywo podczas [gali rozdania nagród](/#gala).
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
@@ -52,7 +52,9 @@ Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla a
 
 ### Ile to czasu
 
-Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów. Liczbę spotkań, zakres uzasadnień i zasady udziału w gali wpisujemy do umowy, razem z honorarium za ten zakres.
+Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+
+Osobno od tego stoi **etap przygotowania karty oceny i wag kryteriów**, który przypada przed naborem. Umowa określa, czy i jak jest on rozliczany, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
 ### Czego jury nie robi
 
@@ -74,14 +76,14 @@ Skład jury ogłaszamy przed otwarciem naboru, a wagi kryteriów i karta oceny p
 
 ### Widoczność
 
-Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, materiałom promocyjnym, werdyktowi i gali. **Udział jurorów buduje wiarygodność pierwszej edycji** i mówimy o tym otwarcie, bo bez niej nie pozyskamy ani sponsorów, ani zgłoszeń.
+Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, materiałom promocyjnym, werdyktowi i gali. **Udział jurorów buduje wiarygodność pierwszej edycji.**
 
 **Rozmowa o udziale nie oznacza zgody na publikację nazwiska.** Zakres komunikacji, warunki współpracy i moment ogłoszenia składu jury uzgadniamy indywidualnie.
 
 ## <!--ikona:zasady--><span>Zasady, które obowiązują jury</span>
 
-- **Wyłączenie przy konflikcie interesów** – członek jury nie ocenia zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę. Oświadczenie składa przed oceną, a po zapoznaniu się z listą autorów zgłasza powiązania i aktualizuje je w toku pracy.
-- **Ocena nie jest głosowaniem** – o nagrodach głównych decyduje jury według karty oceny; publiczność ma własną, osobną nagrodę.
+- **Wyłączenie przy konflikcie interesów** – członek jury nie ocenia zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę. Oświadczenie składa przed oceną. Po zapoznaniu się z listą autorów juror zgłasza ewentualne powiązania i w razie zmiany okoliczności aktualizuje oświadczenie.
+- **Niezależność od głosowania publiczności** – o nagrodach głównych decyduje jury według karty oceny; publiczność ma własną, osobną nagrodę.
 - **Poufność werdyktu do gali** – werdykt zapada przed galą, a publicznie ogłaszamy go dopiero na sali.
 - **Jury nie jest przedstawicielem organizatora** i nie odpowiada za jego zobowiązania wobec uczestników.
 
@@ -89,7 +91,7 @@ Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-piosenki), w wers
 
 ## <!--ikona:mikrofon--><span>Osobna propozycja: hymn Nagrody</span>
 
-Nagroda nie jest galą jednego wieczoru ani sporem o to, czy sztuczna inteligencja jest dobra. Jest o momencie, w którym ludzie uczą się z nią żyć – a taki moment zostaje w pamięci raczej w piosence, którą da się zanucić, niż w dokumencie, który da się przeczytać. Cztery plebiscyty potrzebują jednego zdania wspólnego dla wszystkich, i to zdanie już jest: **zapytaj inaczej**.
+Nagroda jest o momencie, w którym ludzie uczą się żyć ze sztuczną inteligencją – a taki moment zostaje w pamięci raczej w piosence niż w dokumencie. Cztery plebiscyty potrzebują jednego wspólnego zdania. Jest nim: **zapytaj inaczej**.
 
 Tekst [hymnu Nagrody Konstela](/hymn) „Zapytaj inaczej” jest napisany, a **do skomponowania i nagrania muzyki zaprosimy zainteresowanych członków jury**. Na stronie hymnu widnieją dwie wersje wygenerowane przez AI; trzecia ma być nowa i ludzka – melodia napisana od zera do tych samych słów, czyli dokładnie to, czego wymagamy od zgłaszających. Na gali hymn zabrzmi na żywo.
 
@@ -97,7 +99,7 @@ Tekst [hymnu Nagrody Konstela](/hymn) „Zapytaj inaczej” jest napisany, a **d
 
 ## <!--ikona:etap--><span>Na jakim etapie jesteśmy</span>
 
-**Nabór otwieramy dopiero po zabezpieczeniu finansowania.** Plebiscytu z nagrodami, których nie ma, nie ogłaszamy: ogłaszamy wyłącznie kwoty, które wpłynęły wcześniej na rachunek organizatora. Pracę jury rozpoczynamy po zabezpieczeniu środków na uzgodnione honoraria.
+**Nabór otwieramy dopiero po zabezpieczeniu finansowania.** Plebiscytu z nagrodami, których nie ma, nie ogłaszamy: ogłaszamy wyłącznie kwoty, które wpłynęły wcześniej na rachunek organizatora. Pracę jury rozpoczynamy po zabezpieczeniu środków na uzgodnione honoraria – dotyczy to także etapu przygotowania karty oceny, więc nie prosimy jury o tę pracę, zanim środki na nią będą zabezpieczone.
 
 Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt.
 
