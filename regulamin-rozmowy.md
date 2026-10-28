@@ -686,7 +686,9 @@ Celem Archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 
    c) **dokumentacja proceduralna** - karty oceny, historia oznaczeń z § 8 ust. 3a, rozstrzygnięcia publikacyjne i lista kontrolna - przechowywana jest przez **24 miesiące od ogłoszenia wyników**, w celu obrony przed roszczeniami i wykazania rzetelności naboru, po czym jest usuwana;
 
-   d) **dane Uczestników, których zgłoszenie odrzucono w weryfikacji formalnej, oraz kopie rozmów sporządzone na potrzeby oceny zgłoszeń niepublikowanych** - usuwane są w terminie 60 dni od ogłoszenia wyników;
+   d) **dane Uczestników, których zgłoszenie odrzucono w weryfikacji formalnej, wraz z kopią rozmowy** - usuwane są w terminie **14 dni od dnia, w którym decyzja o odrzuceniu stała się ostateczna** (§ 6); termin 60 dni nie ma do nich zastosowania. Wyjątkiem jest wyodrębniona dokumentacja niezbędna w prawnie uzasadnionym sporze, przechowywana wyłącznie przez czas jego trwania i 30 dni po jego zakończeniu;
+
+   d1) **kopie rozmów sporządzone na potrzeby oceny zgłoszeń, które przeszły weryfikację formalną, lecz nie są publikowane** - usuwane są w terminie 60 dni od ogłoszenia wyników;
 
    e) dane laureatów przechowywane są przez okres wymagany przepisami podatkowymi i o rachunkowości.
 
