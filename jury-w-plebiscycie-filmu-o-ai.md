@@ -4,7 +4,7 @@
 
 ## <!--ikona:zespol--><span>Kogo szukamy</span>
 
-**Reżyserów, operatorów, montażystów, scenarzystów, producentów, dokumentalistów i krytyków filmowych** – osób, które potrafią analizować film i rzeczowo uzasadniać oceny. Zależy nam na uzupełniających się kompetencjach w składzie: doświadczeniu w reżyserii i scenariuszu, w obrazie i montażu oraz w krytyce i programowaniu pokazów. Przy doborze jury uwzględniamy doświadczenie i przykłady pracy; rozpoznawalność medialna nie jest warunkiem.
+**Reżyserów, operatorów, montażystów, scenarzystów, producentów, aktorów, dokumentalistów i krytyków filmowych** – osób, które potrafią analizować film i rzeczowo uzasadniać oceny. Zależy nam na uzupełniających się kompetencjach w składzie: doświadczeniu w reżyserii i scenariuszu, w obrazie i montażu oraz w krytyce i programowaniu pokazów. Przy doborze jury uwzględniamy doświadczenie i przykłady pracy; rozpoznawalność medialna nie jest warunkiem.
 
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
