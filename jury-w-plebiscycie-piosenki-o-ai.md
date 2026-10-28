@@ -124,4 +124,8 @@ Odpowiemy na pytania i wyjaśnimy warunki współpracy – bez zobowiązania po 
 
 **Znasz kogoś, kto powinien o tym wiedzieć?** Ta strona jest po to, żeby dało się ją przesłać dalej jednym linkiem.
 
-**Poszukujemy jury również w pozostałych plebiscytach:** [na rozmowę ze sztuczną inteligencją](/jury-w-plebiscycie-rozmowy-z-ai), [na film o sztucznej inteligencji](/jury-w-plebiscycie-filmu-o-ai) i [na plakat o sztucznej inteligencji](/jury-w-plebiscycie-plakatu-o-ai).
+**Poszukujemy jury również w pozostałych plebiscytach:**
+
+- [na rozmowę ze sztuczną inteligencją](/jury-w-plebiscycie-rozmowy-z-ai)
+- [na film o sztucznej inteligencji](/jury-w-plebiscycie-filmu-o-ai)
+- [na plakat o sztucznej inteligencji](/jury-w-plebiscycie-plakatu-o-ai)
