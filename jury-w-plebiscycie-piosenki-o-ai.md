@@ -65,7 +65,9 @@ Każdy przedział punktowy ma opis określający podstawy przyznania oceny – o
 
 Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest przygotowanie karty oceny i wag kryteriów.** Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
+**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest opracowanie ostatecznych kryteriów, wag punktowych i opisów przedziałów ocen oraz przykładów ich zastosowania.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury opracowuje standard oceny, a organizator odpowiada za jego zgodność z zasadami plebiscytu i za warunki stosowania**; dzisiejsze propozycje kryteriów są punktem wyjścia do tej pracy.
+
+Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
 ### Czego jury nie robi
 
