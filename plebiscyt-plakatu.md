@@ -20,7 +20,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
-- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
+- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję - bez utraty nagrody i miejsca w werdykcie
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
 - zwycięska praca trafia na okładkę **[antologii](/#antologia)** - zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
@@ -38,7 +38,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 
 ## <!--ikona:konstelacja--><span>Dlaczego akurat plakat</span>
 
-Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić. Spór o to, co z tego wynika, toczy się w tym środowisku od dawna i nie nam go rozstrzygać - **stawiamy tylko po jednej stronie konkretną propozycję**: praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle, i nie po to, by kogokolwiek pocieszać - dlatego, że chcemy zobaczyć, **co masz do powiedzenia o tej maszynie**, kiedy mówisz to własną ręką. Jakie to będzie zdanie, zależy wyłącznie od Ciebie.
+Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić. Spór o to, co z tego wynika, toczy się w tym środowisku od dawna i nie nam go rozstrzygać - **stawiamy tylko po jednej stronie konkretną propozycję**: praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co masz do powiedzenia o tej maszynie**, kiedy mówisz to własną ręką. Temat i stanowisko wybierasz sam.
 
 **Nie pytamy o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
 

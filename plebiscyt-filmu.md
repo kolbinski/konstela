@@ -15,7 +15,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 **W skrócie:**
 
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
-- cała dziesiątka finalistów wchodzi do **zestawu proponowanego dystrybutorowi** - nie mamy jeszcze partnera ani zapewnionych pokażów
+- cała dziesiątka finalistów wchodzi do **zestawu proponowanego dystrybutorowi** - nie mamy jeszcze partnera ani zapewnionych pokazów
 - obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
@@ -60,11 +60,9 @@ Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma by
 
 **Możesz go równolegle zgłaszać gdzie indziej** - do festiwali, konkursów i przeglądów, w dowolnym czasie, bez pytania nas o zgodę; nagroda zdobyta gdzie indziej niczego u nas nie zmienia. Wykluczona jest natomiast przeróbka filmu ukończonego wcześniej. Zakaz nie dotyczy natomiast **składników**: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza ani istniejącej muzyki.
 
-**Opublikowanie filmu na własnym kanale nie jest zgłoszeniem gdzie indziej.** Pokaz dla współtwórców, pokaz w szkole albo na uczelni też niczego nie blokują.
-
 ### Zanim zgłosisz: festiwale
 
-**Film nie musi mieć publicznej premiery w internecie** - wystarczy link niepubliczny, widoczny dla tych, którzy go mają. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone, więc udział tutaj nie zamyka Ci drogi gdzie indziej. Dwie rzeczy musisz jednak wziąć pod uwagę sam: **zwiastun jest pokazywany publicznie**, a część festiwali inaczej traktuje materiał dostępny pod linkiem. Tego ryzyka nie usuwa żadna nasza zgoda.
+**Film nie musi być publiczny na YouTube** - wystarczy link niepubliczny. Powiedzmy jednak wprost, co to znaczy: **link pokazujemy w ogólnodostępnej [Projektorni](#projektornia), więc obejrzeć film będzie mógł każdy, kto na nią wejdzie**. Zmienia się to, że film nie jest wyszukiwalny w serwisie, a nie to, że jest niedostępny. Publicznie pokazujemy też zwiastun. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone - ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**, bo część z nich wymaga premiery albo wcześniejszej niedostępności w internecie. Tego ryzyka nie usuwa żadna nasza zgoda.
 
 ### Czego nie przyjmujemy
 
