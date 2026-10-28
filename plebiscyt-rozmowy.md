@@ -235,7 +235,7 @@ Zgłoszenia osób zainteresowanych udziałem w podcaście prosimy kierować na a
 
 ### Nagradzamy człowieka, nie maszynę
 
-**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Od tego zaczęła się cała Nagroda i to jest jej rdzeń - plebiscyt, którego dotyczy ta strona.
+**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Od tego zaczęła się cała Nagroda i to jest jej rdzeń: [plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy).
 
 ### Dotąd nagradzano maszyny
 
