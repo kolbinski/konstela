@@ -18,7 +18,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
-- zgłaszasz **link do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund
+- zgłaszasz **link do filmu na swoim kanale w YouTube** - publicznego albo niepublicznego, z dostępem przez link - oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, dostępnego publicznie
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
 - Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
@@ -83,13 +83,13 @@ Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma by
 
 ### Film powstaje dla tego plebiscytu
 
-Do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przeglądu i nie może mieć nigdzie nagrody, wyróżnienia ani nominacji. Wykluczona jest też przeróbka filmu ukończonego wcześniej. Zakaz nie dotyczy natomiast **składników**: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza ani istniejącej muzyki.
+**Możesz go równolegle zgłaszać gdzie indziej** - do festiwali, konkursów i przeglądów, w dowolnym czasie, bez pytania nas o zgodę; nagroda zdobyta gdzie indziej niczego u nas nie zmienia. Wykluczona jest natomiast przeróbka filmu ukończonego wcześniej. Zakaz nie dotyczy natomiast **składników**: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza ani istniejącej muzyki.
 
 **Opublikowanie filmu na własnym kanale nie jest zgłoszeniem gdzie indziej.** Pokaz dla współtwórców, pokaz w szkole albo na uczelni też niczego nie blokują.
 
 ### Zanim zgłosisz: festiwale
 
-**Po gali masz z filmem pełną swobodę**, bo nasza licencja jest niewyłączna. Jedno zastrzeżenie musisz jednak znać wcześniej: **część festiwali wymaga premiery albo tego, żeby film nie był wcześniej dostępny w internecie**, a u nas publikacja jest warunkiem udziału. Tego ryzyka nie usuwa żadna nasza zgoda i musisz ocenić je sam.
+**Film nie musi mieć publicznej premiery w internecie** - wystarczy link niepubliczny, widoczny dla tych, którzy go mają. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone, więc udział tutaj nie zamyka Ci drogi gdzie indziej. Dwie rzeczy musisz jednak wziąć pod uwagę sam: **zwiastun jest pokazywany publicznie**, a część festiwali inaczej traktuje materiał dostępny pod linkiem. Tego ryzyka nie usuwa żadna nasza zgoda.
 
 ### Czego nie przyjmujemy
 
@@ -115,7 +115,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 
 ### Dwa linki: film i zwiastun
 
-**Zgłaszasz linki do publicznie dostępnego filmu i jego zwiastuna na YouTube.** Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a link ma działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
+**Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Film może być publiczny albo niepubliczny z dostępem przez link; zwiastun jest publiczny, bo pokazujemy go w Projektorni i na gali. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
 
 **Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 

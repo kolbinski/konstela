@@ -86,13 +86,9 @@
 
 1. Zgłoszony film musi zostać **zrealizowany na potrzeby Plebiscytu** i **ukończony w roku edycji, najpóźniej w dniu zgłoszenia**. Rokiem edycji pierwszej jest 2027. Liczy się data ukończenia, a nie data publikacji.
 
-2. Zgłoszony być nie może film, który do dnia gali:
+2. **Zgłoszenie filmu do innych konkursów, festiwali i przeglądów jest dozwolone**, również w czasie trwania Plebiscytu, i nie wymaga zawiadomienia Organizatora. Nagroda, wyróżnienie albo nominacja otrzymane gdzie indziej nie wyłączają filmu z Plebiscytu ani nie wpływają na jego ocenę.
 
-   a) został zgłoszony do innego konkursu, festiwalu albo przeglądu, niezależnie od wyniku tego zgłoszenia;
-
-   b) otrzymał gdziekolwiek nagrodę, wyróżnienie albo nominację;
-
-   c) jest przeróbką filmu ukończonego wcześniej, w szczególności jego przemontowaniem, skróceniem, wersją reżyserską albo tym samym filmem z nową warstwą dźwiękową.
+2b. Zgłoszony być nie może film, który **jest przeróbką filmu ukończonego wcześniej**, w szczególności jego przemontowaniem, skróceniem, wersją reżyserską albo tym samym filmem z nową warstwą dźwiękową.
 
 2a. **Czego ust. 2 lit. c nie zakazuje.** Wykorzystania materiałów powstałych wcześniej jako składników nowego filmu: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza, istniejącej muzyki ani zdjęć zrealizowanych przed ogłoszeniem Plebiscytu. Warunek dotyczy **ukończonego filmu**, a nie jego części składowych; prawa do tych materiałów pozostają sprawą Uczestnika (§ 12 ust. 1 lit. a).
 
@@ -106,7 +102,7 @@
 
 1. Zgłoszenie składa się przez formularz na stronie Nagrody i obejmuje:
 
-   a) **link do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. **Link musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas publiczny; Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
+   a) **link do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Film może być **publiczny albo niepubliczny z dostępem przez link**; w obu wypadkach **link musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas dostępny. Organizator zwraca uwagę, że film niepubliczny w serwisie może obejrzeć każdy, kto dysponuje linkiem; Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
 
    a1) **link do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w Archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych - także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
 
@@ -410,7 +406,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    a1) **ma prawa do oprawy muzycznej zwiastuna oraz filmu** w zakresie koniecznym do udziału w Plebiscycie i do udzielenia licencji z ust. 2, albo że korzysta z utworów muzycznych na podstawie licencji dopuszczającej takie wykorzystanie; dotyczy to w szczególności publicznego odtworzenia zwiastuna podczas gali i w zapisie wideo gali;
 
-   b) film został stworzony od zera na potrzeby Plebiscytu i ukończony w roku edycji, a do dnia gali nie został zgłoszony do innego konkursu, festiwalu ani przeglądu i nie otrzymał gdziekolwiek nagrody, wyróżnienia ani nominacji (§ 3a);
+   b) film został stworzony od zera na potrzeby Plebiscytu i ukończony w roku edycji, a nie jest przeróbką filmu ukończonego wcześniej (§ 3a);
 
    c) deklaracja z § 6 jest zgodna z prawdą;
 
@@ -434,9 +430,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 4. **Warunkiem udziału są wyłącznie zakresy z ust. 2 lit. a oraz b.** Pozostałe wymagają odrębnej zgody, a jej brak nie wyłącza Uczestnika z Plebiscytu.
 
-5. Uczestnik zachowuje swobodę dysponowania filmem, z wyjątkiem zgłaszania go do innych konkursów, festiwali i przeglądów do dnia gali (§ 3a ust. 2). Po gali wyjątek ten ustaje, a licencja z ust. 2 jest niewyłączna i nie ogranicza późniejszych zgłoszeń ani dystrybucji.
+5. **Uczestnik zachowuje pełną swobodę dysponowania filmem**, w tym zgłaszania go do innych konkursów, festiwali i przeglądów w dowolnym czasie (§ 3a ust. 2). Licencja z ust. 2 jest niewyłączna i nie ogranicza późniejszych zgłoszeń ani dystrybucji.
 
-5a. **Zastrzeżenie dotyczące festiwali.** Udział w Plebiscycie wymaga publicznego opublikowania filmu przez Uczestnika (§ 4 ust. 1 lit. a). Organizator zwraca uwagę, że **część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie**, a publikacja może udział w nich wykluczyć niezależnie od zakresu licencji udzielonej Organizatorowi. Ocenę tego ryzyka Organizator pozostawia Uczestnikowi i nie zapewnia, że film zachowa kwalifikowalność festiwalową.
+5a. **Zastrzeżenie dotyczące festiwali.** Udział w Plebiscycie **nie wymaga publicznej premiery filmu w internecie**: wystarczy link niepubliczny (§ 4 ust. 1 lit. a). Organizator zwraca jednak uwagę, że część festiwali inaczej traktuje materiał dostępny pod linkiem, a zwiastun jest prezentowany publicznie. Ocenę tego ryzyka Organizator pozostawia Uczestnikowi i nie zapewnia, że film zachowa kwalifikowalność festiwalową.
 
 2z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje - wyłącznie w celach i okresach w nim wskazanych - **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
 
