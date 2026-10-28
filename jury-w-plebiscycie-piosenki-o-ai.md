@@ -91,7 +91,7 @@ Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-piosenki), w wers
 
 ## <!--ikona:mikrofon--><span>Osobna propozycja: hymn Nagrody</span>
 
-Nagroda koncentruje się na doświadczeniu życia ze sztuczną inteligencją – a taki moment zostaje w pamięci raczej w piosence niż w dokumencie. Cztery plebiscyty potrzebują jednego wspólnego zdania. Jest nim: **zapytaj inaczej**.
+Nagroda koncentruje się na doświadczeniu życia ze sztuczną inteligencją. Jej wspólnym motywem jest hasło: **zapytaj inaczej**.
 
 Tekst [hymnu Nagrody Konstela](/hymn) „Zapytaj inaczej” jest napisany, a **do skomponowania i nagrania muzyki zaprosimy zainteresowanych członków jury**. Na stronie hymnu widnieją dwie wersje wygenerowane przez AI; trzecia ma być nowa i ludzka – melodia napisana od zera do tych samych słów, czyli dokładnie to, czego wymagamy od zgłaszających. Na gali hymn zabrzmi na żywo.
 
