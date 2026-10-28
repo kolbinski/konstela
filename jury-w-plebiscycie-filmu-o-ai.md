@@ -50,7 +50,7 @@ Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozosta�
 
 ### Co ocenia jury
 
-**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia) – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Ostateczna liczba filmów zależy od wyników naboru; maksymalną liczbę filmów i ich łączny metraż uzgadniamy przed zawarciem umowy.
+**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia) – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Ostateczna liczba filmów zależy od wyników naboru.
 
 ### Jak jury ocenia zgłoszone filmy
 
