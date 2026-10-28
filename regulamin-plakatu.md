@@ -322,9 +322,9 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. **Po wyborze finalistów przez jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane prowizje i inne potrącenia, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
 
-2b. Licytacja może zostać przeprowadzona jako **cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) albo w inny sposób, w tym w serwisie aukcyjnym. **Licytacja nie zależy od pozyskania galerii**; brak galerii oznacza wyłącznie, że zmienia się forma i miejsce wskazane w warunkach z ust. 2.
+2a. Propozycję, o której mowa w ust. 2, Organizator kieruje do finalistów **dopiero po ustaleniu przez jury pełnego werdyktu, to jest wyboru dziesięciu finalistów i kolejności całej dziesiątki** (§ 8 ust. 4b). **Jury nie jest informowane o tym, czy autor przyjął warunki licytacji, ani o treści jego odpowiedzi.** Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik plebiscytu, na nagrody i na udział w wystawie.
 
-2a. **Decyzja autora nie jest udostępniana jury przed ustaleniem pełnego werdyktu** (§ 8 ust. 4b). Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik plebiscytu, na nagrody i na udział w wystawie.
+2b. Licytacja może zostać przeprowadzona jako **cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) albo w inny sposób, w tym w serwisie aukcyjnym. **Licytacja nie zależy od pozyskania galerii**; brak galerii oznacza wyłącznie, że zmienia się forma i miejsce wskazane w warunkach z ust. 2.
 
 3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego plebiscytu plakatu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
 
