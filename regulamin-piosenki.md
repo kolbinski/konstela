@@ -134,7 +134,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    c) **okładkę** - jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w Archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
 
-   c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
+   c1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto posłuchać tej piosenki** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
    c2) **tekst utworu** - pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i **jest prezentowany publicznie przy zgłoszeniu** - w Słuchalni i w Archiwum (ust. 7 i 8). Tekst ma odpowiadać temu, co słychać w nagraniu; drobna rozbieżność wynikająca z wykonania nie jest podstawą odrzucenia. Tekst nie jest natomiast publikowany w antologii ani w innych materiałach drukowanych Nagrody;
 

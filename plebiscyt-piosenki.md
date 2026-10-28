@@ -71,9 +71,9 @@ Nie wymagamy gotowego singla i nie chcemy, żeby ktokolwiek wydawał pieniądze 
 
 Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu przypada jedno zgłoszenie w edycji. Numeru nie przechowujemy w postaci jawnej i nie pokazujemy go nigdzie publicznie. **Limit dotyczy reprezentowania zgłoszeń, a nie liczby utworów jednego składu.** W cudzych zgłoszeniach możesz brać udział jako współautor albo wykonawca bez ograniczeń; pięcioosobowy zespół może więc zgłosić pięć różnych piosenek, każdą przez innego reprezentanta. **Zgłoszenie zespołowe wskazuje jedną osobę reprezentującą cały skład** - ona prowadzi korespondencję, a sposób podziału nagrody pozostaje sprawą zgłaszających, bo organizator wypłaca ją w całości reprezentantowi.
 
-### Dlaczego warte nagrody głównej
+### Dlaczego warte nagrody głównej, czyli co sprawia, że warto posłuchać tej piosenki
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Słuchalni](#sluchalnia) w czasie naboru i w Archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto posłuchać tej piosenki**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Słuchalni](#sluchalnia) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 

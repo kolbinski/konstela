@@ -17,7 +17,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Oświadczenie o prawach do zgłoszonego materiału | obowiązkowe | zaznaczenie pola |
 | Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech |
 | Deklaracja pochodzenia materiału | obowiązkowe | treść jest inna w każdej kategorii - patrz niżej |
-| Dlaczego warte nagrody głównej: do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (czytelnia, Projektornia, Słuchalnia, Galeria) i w Archiwum; nie podlega punktacji w żadnym kryterium |
+| Dlaczego warte nagrody głównej, czyli co sprawia, że warto przeczytać, obejrzeć, posłuchać albo zatrzymać się przy zgłoszeniu - do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (czytelnia, Projektornia, Słuchalnia, Galeria) i w Archiwum; nie podlega punktacji w żadnym kryterium |
 
 **Czego nie ma w żadnym formularzu:** numeru PESEL, adresu zamieszkania, danych bankowych, dokumentu tożsamości, pytań o dorobek, wykształcenie, zasięgi ani przynależność do organizacji twórczych.
 

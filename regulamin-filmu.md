@@ -114,7 +114,7 @@
 
    e) **opis filmu** - od 200 do 1500 znaków o tym, czego film dotyczy i co Uczestnik chciał w nim powiedzieć - obowiązkowe. **Nie podlega punktacji** w żadnym kryterium;
 
-   e1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w Archiwum i **nie podlega punktacji** w żadnym kryterium;
+   e1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto obejrzeć ten film** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w Archiwum i **nie podlega punktacji** w żadnym kryterium;
 
    f) **deklarację użycia narzędzi sztucznej inteligencji**, o której mowa w § 6 - obowiązkowe;
 
