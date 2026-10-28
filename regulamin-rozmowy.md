@@ -89,6 +89,8 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
    f) **oświadczenia z § 11 ust. 1** - **obowiązkowe**, składane przez zaznaczenie pól w formularzu;
 
+   f0) **oświadczenie o danych szczególnych kategorii wraz z ewentualną zgodą na ich publikację** (§ 6a) - **obowiązkowe co do samego oświadczenia**, przy czym zgoda jest dobrowolna i jej brak nie wyklucza zgłoszenia z oceny;
+
    f1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w czytelni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
    g) **pseudonim** - **nieobowiązkowe**; wypełniane tylko wtedy, gdy Uczestnik woli, by jego rozmowa była podpisana w antologii i w Archiwum pseudonimem zamiast imieniem i nazwiskiem (§ 11 ust. 5 i 5a). Publikacja jako taka jest warunkiem udziału i nie wymaga odrębnej zgody (§ 11 ust. 3); Uczestnik decyduje wyłącznie o sposobie podpisania rozmowy.
@@ -171,6 +173,8 @@ Weryfikacja formalna obejmuje wyłącznie czynności sprawdzające wymienione ni
 11. **dotyczy kryzysu psychicznego Uczestnika lub innej osoby**, w szczególności myśli samobójczych, samookaleczeń, zaburzeń odżywiania, uzależnienia, przemocy doznanej lub stosowanej, albo ma charakter terapeutyczny lub wsparciowy. Wyłączenie wynika z dwóch powodów: takie treści są szczególną kategorią danych w rozumieniu RODO i nie podlegają publikacji, a nagroda pieniężna nie może tworzyć zachęty do zgłaszania własnych najtrudniejszych doświadczeń;
 12. zawiera dane objęte tajemnicą zawodową, służbową albo przedsiębiorstwa, do których ujawnienia Uczestnik nie jest uprawniony.
 
+13. **zawiera dane szczególnych kategorii dotyczące osoby innej niż Uczestnik**, to jest dane ujawniające pochodzenie rasowe lub etniczne, poglądy polityczne, przekonania religijne lub światopoglądowe, przynależność do związków zawodowych, dane genetyczne, biometryczne, dane dotyczące zdrowia, seksualności lub orientacji seksualnej. Podstawa ta **nie obejmuje danych dotyczących samego Uczestnika** - tych rozmowa może dotyczyć, na zasadach z § 6a - ani osób publicznych w zakresie ich działalności publicznej, ani postaci historycznych i fikcyjnych.
+
 **Tryb odrzucenia z przyczyn, o których mowa w ust. 9-12.** Organizator **nie ma obowiązku przeglądania zgłoszeń z urzędu** w poszukiwaniu tych podstaw i nie prowadzi takiego przeglądu. Postępowanie wszczyna się na podstawie: sygnału od osoby, która zgłoszenie przeczytała w ramach oceny; okoliczności ujawnionej w rozmowie weryfikacyjnej; albo **okoliczności, którą Organizator powziął bezpośrednio** przy sporządzaniu kopii archiwalnej, czytaniu opisu odkrycia lub obsłudze zgłoszenia. Brak sygnału od oceniającego nie zobowiązuje Organizatora do udostępniania treści, o której już wie, że może być bezprawna. Sygnał nie wystarcza do odrzucenia: Organizator wskazuje pisemnie podstawę i fragment, którego dotyczy, daje Uczestnikowi 7 dni na wyjaśnienia i podejmuje decyzję wspólnie z co najmniej jednym członkiem jury. Ciężar wykazania podstawy obciąża Organizatora, a w razie nieusuniętych wątpliwości zgłoszenie zostaje. Jeżeli podstawa dotyczy wyodrębnionego fragmentu, Organizator w pierwszej kolejności rozważa zastosowanie § 7a zamiast odrzucenia zgłoszenia.
 
 **Zabezpieczenie na czas wyjaśnień.** Na czas postępowania Organizator może ograniczyć dostęp do zgłoszenia w panelu oceny, jeżeli dalsze jego udostępnianie oceniającym mogłoby samo w sobie naruszać prawo. Ograniczenie trwa nie dłużej niż do rozstrzygnięcia i nie przesądza wyniku postępowania; jeżeli zgłoszenie zostaje, Organizator przywraca dostęp i w razie potrzeby zapewnia brakujące odczyty.
@@ -180,6 +184,19 @@ Organizator nie publikuje treści odrzuconego zgłoszenia i informuje Uczestnika
 **Szczególna ostrożność przy ust. 11.** Jeżeli ze zgłoszenia wynika, że Uczestnik lub inna osoba może znajdować się w kryzysie, Organizator ogranicza korespondencję do krótkiej, życzliwej informacji o odrzuceniu wraz ze wskazaniem ogólnodostępnych numerów wsparcia, nie ocenia sytuacji Uczestnika, nie prowadzi z nim rozmowy o jego stanie i nie przekazuje treści zgłoszenia osobom trzecim, poza przypadkami wynikającymi z przepisów prawa. Ograniczenie to nie pozbawia Uczestnika możliwości wykazania, że temat rozmowy został błędnie zakwalifikowany jako jego osobisty kryzys; takie wyjaśnienie Organizator rozpoznaje w trybie określonym wyżej.
 
 Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupełnienia braków, nie poprawia zgłoszeń i nie przedłuża terminu w tym celu; zgłoszenie niekompletne odpada na etapie weryfikacji formalnej. Do upływu terminu zgłoszeń Uczestnik może przesłać zgłoszenie poprawione, które zastępuje poprzednie.
+
+
+## § 6a. Rozmowa o sprawach dotyczących samego Uczestnika
+
+1. **Rozmowa może dotyczyć spraw, które mówią coś o samym Uczestniku** - jego zdrowiu, przekonaniach religijnych lub światopoglądowych, poglądach politycznych, pochodzeniu albo seksualności. Takich rozmów Organizator nie wyklucza, ponieważ są wśród najgłębszych, jakie ludzie prowadzą ze sztuczną inteligencją, a ich wykluczenie zamknęłoby plebiscyt na całą warstwę ludzkiego doświadczenia. Odrębnie, z powodów opisanych w § 6 pkt 11, wyłączone pozostają rozmowy dotyczące kryzysu psychicznego i rozmowy o charakterze terapeutycznym.
+
+2. **Publikacja takiej rozmowy wymaga wyraźnej zgody Uczestnika.** Zgoda ta jest odrębna od licencji z § 11 ust. 3, dotyczy wyłącznie danych szczególnych kategorii zawartych w zgłoszonej rozmowie i stanowi podstawę z **art. 9 ust. 2 lit. a RODO**. Uczestnik oświadcza w zgłoszeniu, czy rozmowa takie dane zawiera, a jeżeli tak - czy zgody udziela.
+
+3. **Brak zgody nie wyklucza ze zgłoszenia, lecz z publikacji.** Rozmowa bez zgody jest oceniana na zwykłych zasadach, a jeżeli Uczestnik zostanie laureatem, Organizator uzgadnia z nim publikację wersji bez tych danych albo odstępuje od publikacji tej rozmowy, nie pozbawiając go nagrody ani miejsca w werdykcie. Zgodę można wycofać w każdej chwili; wycofanie wywołuje skutek na przyszłość, a Organizator usuwa rozmowę z Archiwum w terminie 14 dni.
+
+4. **Gdy właściwej przesłanki ustalić się nie da**, w szczególności gdy rozmowa zawiera dane szczególnych kategorii dotyczące osoby innej niż Uczestnik, Organizator ogranicza przetwarzanie i usuwa odpowiednią część materiału, zawiadamiając o tym Uczestnika. Zastosowanie ma wówczas § 6 pkt 13.
+
+5. **Ostrzeżenie.** Publikacja jest ujawnieniem trwałym (§ 5 ust. 2c). Uczestnik, który rozważa zgłoszenie rozmowy mówiącej coś o jego zdrowiu, przekonaniach albo seksualności, powinien wziąć pod uwagę, że Archiwum nie ma planowanego terminu zamknięcia, a podpisanie zgłoszenia pseudonimem nie usuwa treści, lecz jedynie oddziela ją od nazwiska.
 
 ## § 7. Kryteria oceny
 
@@ -605,7 +622,7 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
 
 11. **Archiwum rozmów.** Archiwum obejmuje **wszystkie zgłoszenia, które przeszły weryfikację formalną** (§ 6) i były prezentowane w czytelni zgłoszeń. Powstaje z czytelni utrwalonej w dniu określonym w ust. 10a lit. g, to jest po zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie i jest udostępniane od dnia ogłoszenia wyników, bezpłatnie i bez ograniczeń dostępu. Zasady:
 
-   a) publikacja w Archiwum odbywa się na podstawie licencji z ust. 3 i **nie wymaga odrębnej zgody**; Uczestnik nie składa w tym zakresie osobnego oświadczenia;
+   a) publikacja w Archiwum odbywa się na podstawie licencji z ust. 3 i **nie wymaga odrębnej zgody**; Uczestnik nie składa w tym zakresie osobnego oświadczenia. Wyjątkiem są dane szczególnych kategorii dotyczące samego Uczestnika, których publikacja wymaga wyraźnej zgody z § 6a ust. 2;
 
    b) **Archiwum prezentuje treść rozmowy, a nie tylko link do niej.** Wpis archiwalny obejmuje tytuł rozmowy, ilustrację rozmowy, podpis Uczestnika, opis odkrycia, uzasadnienie „dlaczego warte nagrody głównej", **kopię archiwalną rozmowy sporządzoną przez Organizatora**, link opublikowany przez Uczestnika u dostawcy modelu oraz - jeżeli Uczestnik go podał - link z § 5 ust. 2 lit. f1. Kopia stanowi treść wpisu, a link jej potwierdzenie - i z tego powodu publikowane są oba. Rozwiązanie to przyjęto dlatego, że Archiwum oparte wyłącznie na linkach traci wpisy, gdy Uczestnik usunie udostępnienie albo gdy dostawca modelu zmieni zasady udostępniania rozmów, a zapis z lukami przestaje być dokumentem;
 
