@@ -16,13 +16,13 @@ Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym 
   <tr>
     <td>
       <a href="https://www.youtube.com/watch?v=3_Yc4dDPB2c" target="_blank" rel="noopener">
-        <img src="/assets/thumbnail-1.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze" loading="lazy" />
+        <img src="/assets/hymn-1.jpg" srcset="/assets/hymn-1-400.jpg 400w, /assets/hymn-1.jpg 800w" sizes="(max-width: 48rem) 50vw, 23rem" width="800" height="450" loading="lazy" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście pierwsze" />
         <span class="cap">Wersja AI 1 &middot; YouTube</span>
       </a>
     </td>
     <td>
       <a href="https://www.youtube.com/watch?v=4qjqEl7EmoU" target="_blank" rel="noopener">
-        <img src="/assets/thumbnail-2.png" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie" loading="lazy" />
+        <img src="/assets/hymn-2.jpg" srcset="/assets/hymn-2-400.jpg 400w, /assets/hymn-2.jpg 800w" sizes="(max-width: 48rem) 50vw, 23rem" width="800" height="450" loading="lazy" alt="Hymn &bdquo;Zapytaj inaczej&rdquo; w wersji wygenerowanej przez AI - podejście drugie" />
         <span class="cap">Wersja AI 2 &middot; YouTube</span>
       </a>
     </td>
