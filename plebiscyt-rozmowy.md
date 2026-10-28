@@ -269,7 +269,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>Cały 2027</dt><dd>Okno rozmów<small>zgłoszenia przyjmujemy na bieżąco, a czytelnia rośnie</small></dd></div>
 <div><dt>15 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dwa dodatkowe tygodnie są dla rozmów z końca grudnia</small></dd></div>
-<div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po zamrożeniu punktacji pierwszej rundy i ogłoszeniu ostatecznej listy zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
+<div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>datę ogłaszamy osobno: zależy od zakończenia weryfikacji wszystkich zgłoszeń i zamrożenia punktacji pierwszej rundy; głosowanie trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>29 lutego 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
 </dl>

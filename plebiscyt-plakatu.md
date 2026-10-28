@@ -249,7 +249,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w plebiscycie.
 
-Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokazanie reprodukcji w Galerii i w Archiwum - to jedyny zakres będący warunkiem udziału; pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę; pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej; a przy pracy zwycięskiej - reprodukcja na okładce antologii oraz w materiałach informacyjnych edycji; zgody na to udzielasz już przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę okładki, a nie to, czy wolno jej użyć.
+Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach. **Warunkiem udziału są dwa**: pokazanie reprodukcji w Galerii i w Archiwum oraz - przy pracy zwycięskiej - reprodukcja na okładce antologii i w materiałach informacyjnych edycji; zgody na okładkę udzielasz przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę, a nie to, czy wolno jej użyć. **Pozostałe zakresy zależą od odrębnych uzgodnień**: pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę, oraz pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej.
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
 

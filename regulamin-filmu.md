@@ -34,7 +34,7 @@
 
 2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych - w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie - ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
 
-3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. Ogłoszenie takie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy - zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
@@ -360,7 +360,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności dla filmu z największą liczbą głosów.
 
-2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i otwiera się po utrwaleniu listy zgłoszeń oraz po zamknięciu oceny pierwszego przejścia, a nie w trakcie naboru. Trwa do dnia gali.
+2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i otwiera się po **łącznym** zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie, utrwaleniu listy zgłoszeń oraz zamknięciu oceny pierwszego przejścia - a nie w trakcie naboru. Termin zamknięcia określa ust. 5c.
 
 3. Jeden głos przypada na jeden numer telefonu, potwierdzany jednorazowym kodem. Liczniki głosów nie są publikowane w trakcie głosowania; wynik ogłaszany jest na gali.
 
@@ -388,7 +388,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 5b. **Wiek osoby głosującej.** Głosować może osoba, która ukończyła 16 lat. Nagrodę za uzasadnienie przyznaną osobie, która nie ukończyła 18 lat, Organizator wypłaca za zgodą jej przedstawiciela ustawowego.
 
-5c. **Otwarcie i zamknięcie głosowania.** Głosowanie otwiera się **po opublikowaniu ostatecznej listy zgłoszeń zakwalifikowanych**, to jest po zakończeniu weryfikacji formalnej i uzupełniania braków wszystkich zgłoszeń złożonych w terminie; wszystkie zakwalifikowane zgłoszenia biorą udział w głosowaniu od tej samej chwili. Dzień otwarcia Organizator ogłasza osobno na stronie Nagrody. Głosowanie zamyka się **w dniu gali o godzinie 12:00 czasu obowiązującego w Rzeczypospolitej Polskiej**.
+5c. **Otwarcie i zamknięcie głosowania.** Warunki otwarcia określa przepis wskazany wyżej w tym paragrafie i muszą być spełnione łącznie; wszystkie zakwalifikowane zgłoszenia biorą udział w głosowaniu od tej samej chwili. Dzień otwarcia Organizator ogłasza osobno na stronie Nagrody. Głosowanie zamyka się **w dniu gali o godzinie 12:00 czasu obowiązującego w Rzeczypospolitej Polskiej**.
 
 5d. **Remis, głosy nieważne i brak głosów.** Przy równej liczbie głosów nagrodę otrzymuje zgłoszenie, które osiągnęło ten wynik wcześniej. Głosy odrzucone jako nieważne wykazuje się w protokole z głosowania wraz ze wskazaniem podstawy odrzucenia. **Jeżeli nie oddano żadnego ważnego głosu, nagrody publiczności nie przyznaje się.**
 

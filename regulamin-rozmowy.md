@@ -29,7 +29,7 @@
 
 2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych - w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie - ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
 
-3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. Ogłoszenie takie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy - zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
@@ -140,7 +140,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
    f) **oświadczenia z § 11 ust. 1** - **obowiązkowe**, składane przez zaznaczenie pól w formularzu;
 
-   f0) **oświadczenie o danych szczególnych kategorii wraz z ewentualną zgodą na ich publikację** (§ 6a) - **obowiązkowe co do samego oświadczenia**, przy czym zgoda jest dobrowolna i jej brak nie wyklucza zgłoszenia z oceny;
+   f0) **oświadczenie o danych szczególnych kategorii wraz ze zgodami z § 6a** - **obowiązkowe co do samego oświadczenia**. Jeżeli rozmowa takie dane zawiera, zgoda na ich przetwarzanie **na potrzeby oceny** warunkuje przyjęcie zgłoszenia, a zgoda **na publikację** jest dobrowolna i jej brak nie wyklucza zgłoszenia z oceny ani z nagrody;
 
    f1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w czytelni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
@@ -241,9 +241,13 @@ Zgłoszenie musi być kompletne w chwili wpływu. Organizator nie wzywa do uzupe
 
 1. **Rozmowa może dotyczyć spraw, które mówią coś o samym Uczestniku** - jego zdrowiu, przekonaniach religijnych lub światopoglądowych, poglądach politycznych, pochodzeniu albo seksualności. Takich rozmów Organizator nie wyklucza, ponieważ są wśród najgłębszych, jakie ludzie prowadzą ze sztuczną inteligencją, a ich wykluczenie zamknęłoby plebiscyt na całą warstwę ludzkiego doświadczenia. Odrębnie, z powodów opisanych w § 6 pkt 11, wyłączone pozostają rozmowy dotyczące kryzysu psychicznego i rozmowy o charakterze terapeutycznym.
 
-2. **Publikacja takiej rozmowy wymaga wyraźnej zgody Uczestnika.** Zgoda ta jest odrębna od licencji z § 11 ust. 3, dotyczy wyłącznie danych szczególnych kategorii zawartych w zgłoszonej rozmowie i stanowi podstawę z **art. 9 ust. 2 lit. a RODO**. Uczestnik oświadcza w zgłoszeniu, czy rozmowa takie dane zawiera, a jeżeli tak - czy zgody udziela.
+2. **Przesłankę przetwarzania takich danych ustala się osobno dla dwóch etapów.** Pierwszym jest **ocena**: sporządzenie kopii rozmowy i udostępnienie jej akademii i jury. Drugim jest **publikacja**: pokazanie rozmowy w czytelni, w Archiwum i w antologii. Obie podstawy są od siebie niezależne i obie są odrębne od licencji z § 11 ust. 3.
 
-3. **Brak zgody nie wyklucza ze zgłoszenia, lecz z publikacji.** Rozmowa bez zgody jest oceniana na zwykłych zasadach, a jeżeli Uczestnik zostanie laureatem, Organizator uzgadnia z nim publikację wersji bez tych danych albo odstępuje od publikacji tej rozmowy, nie pozbawiając go nagrody ani miejsca w werdykcie. Zgodę można wycofać w każdej chwili; wycofanie wywołuje skutek na przyszłość, a Organizator usuwa rozmowę z Archiwum w terminie 14 dni.
+2a. **Ocena.** Uczestnik, którego rozmowa zawiera dane szczególnych kategorii jego dotyczące, udziela przy zgłoszeniu **wyraźnej zgody na ich przetwarzanie na potrzeby oceny** (art. 9 ust. 2 lit. a RODO). Bez tej zgody rozmowa **nie może zostać oceniona** i zgłoszenie nie jest przyjmowane - Organizator nie ma innej podstawy, by udostępnić taką treść oceniającym. Zgoda obejmuje wyłącznie Organizatora, członków akademii i jury zobowiązanych do poufności oraz czas trwania edycji.
+
+2b. **Publikacja.** Zgoda na publikację tych danych jest **odrębna i dobrowolna** (art. 9 ust. 2 lit. a RODO). Uczestnik oświadcza w zgłoszeniu, czy rozmowa takie dane zawiera, a jeżeli tak - czy udziela zgody na ocenę i czy udziela zgody na publikację.
+
+3. **Brak zgody na publikację nie wyklucza z oceny ani z nagrody.** Rozmowa z udzieloną zgodą na ocenę, lecz bez zgody na publikację, jest oceniana na zwykłych zasadach, a jeżeli Uczestnik zostanie laureatem, Organizator uzgadnia z nim publikację wersji bez tych danych albo odstępuje od publikacji tej rozmowy, nie pozbawiając go nagrody ani miejsca w werdykcie. Zgodę można wycofać w każdej chwili; wycofanie wywołuje skutek na przyszłość, a Organizator usuwa rozmowę z Archiwum w terminie 14 dni.
 
 4. **Gdy właściwej przesłanki ustalić się nie da**, w szczególności gdy rozmowa zawiera dane szczególnych kategorii dotyczące osoby innej niż Uczestnik, Organizator ogranicza przetwarzanie i usuwa odpowiednią część materiału, zawiadamiając o tym Uczestnika. Zastosowanie ma wówczas § 6 pkt 13.
 
@@ -568,7 +572,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
    a1) **zgłoszenie, którego prezentację ograniczono z przyczyn prawnych** (§ 11 ust. 10a lit. f), pozostaje w głosowaniu i otrzymuje **kartę ograniczoną**: tytuł rozmowy, podpis Uczestnika i te spośród pozostałych elementów, których prezentacja nie była przedmiotem ograniczenia. Jeżeli ograniczenie obejmuje wszystkie elementy opisowe, karta zawiera tytuł, podpis oraz informację, że prezentacja została ograniczona z przyczyn prawnych, bez wskazywania ich treści. Organizator zawiadamia o tym Uczestnika i na jego żądanie **wyłącza zgłoszenie z głosowania**, jeżeli Uczestnik uzna, że karta ograniczona działa na jego niekorzyść;
 
-   b) **głosowanie otwiera się po spełnieniu dwóch warunków: utrwaleniu listy zgłoszeń (§ 11 ust. 10a lit. g) oraz zamrożeniu punktacji rundy pierwszej (§ 8 ust. 13 lit. e)**, a nie w trakcie naboru, i trwa do dnia gali. Oba warunki są potrzebne: bez utrwalenia listy część zgłoszeń miałaby krótszy okres głosowania, a bez zamrożenia punktacji oceny powstawałyby z wiedzą o głosach. Dzień otwarcia głosowania Organizator ogłasza na stronie Nagrody. Powód jest podwójny: oceny rundy pierwszej powstają wtedy bez wiedzy o wynikach głosowania, a wszystkie zgłoszenia mają ten sam czas ekspozycji, niezależnie od tego, czy wpłynęły w styczniu, czy w grudniu;
+   b) **głosowanie otwiera się po łącznym spełnieniu trzech warunków: zakończeniu weryfikacji formalnej i uzupełniania braków wszystkich zgłoszeń złożonych w terminie, utrwaleniu listy zgłoszeń (§ 11 ust. 10a lit. g) oraz zamrożeniu punktacji rundy pierwszej (§ 8 ust. 13 lit. e)**, a nie w trakcie naboru. Termin zamknięcia określa ust. 8c. Oba warunki są potrzebne: bez utrwalenia listy część zgłoszeń miałaby krótszy okres głosowania, a bez zamrożenia punktacji oceny powstawałyby z wiedzą o głosach. Dzień otwarcia głosowania Organizator ogłasza na stronie Nagrody. Powód jest podwójny: oceny rundy pierwszej powstają wtedy bez wiedzy o wynikach głosowania, a wszystkie zgłoszenia mają ten sam czas ekspozycji, niezależnie od tego, czy wpłynęły w styczniu, czy w grudniu;
 
    c) **jeden głos przypada na jeden numer telefonu**, potwierdzany jednorazowym kodem. Organizator nie przechowuje numeru w postaci jawnej (§ 5 ust. 2e lit. b);
 
@@ -600,7 +604,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
 8b. **Wiek osoby głosującej.** Głosować może osoba, która ukończyła 16 lat. Nagrodę za uzasadnienie przyznaną osobie, która nie ukończyła 18 lat, Organizator wypłaca za zgodą jej przedstawiciela ustawowego.
 
-8c. **Otwarcie i zamknięcie głosowania.** Głosowanie otwiera się **po opublikowaniu ostatecznej listy zgłoszeń zakwalifikowanych**, to jest po zakończeniu weryfikacji formalnej i uzupełniania braków wszystkich zgłoszeń złożonych w terminie; wszystkie zakwalifikowane zgłoszenia biorą udział w głosowaniu od tej samej chwili. Dzień otwarcia Organizator ogłasza osobno na stronie Nagrody. Głosowanie zamyka się **w dniu gali o godzinie 12:00 czasu obowiązującego w Rzeczypospolitej Polskiej**.
+8c. **Otwarcie i zamknięcie głosowania.** Warunki otwarcia określa przepis wskazany wyżej w tym paragrafie i muszą być spełnione łącznie; wszystkie zakwalifikowane zgłoszenia biorą udział w głosowaniu od tej samej chwili. Dzień otwarcia Organizator ogłasza osobno na stronie Nagrody. Głosowanie zamyka się **w dniu gali o godzinie 12:00 czasu obowiązującego w Rzeczypospolitej Polskiej**.
 
 8d. **Remis, głosy nieważne i brak głosów.** Przy równej liczbie głosów nagrodę otrzymuje zgłoszenie, które osiągnęło ten wynik wcześniej. Głosy odrzucone jako nieważne wykazuje się w protokole z głosowania wraz ze wskazaniem podstawy odrzucenia. **Jeżeli nie oddano żadnego ważnego głosu, nagrody publiczności nie przyznaje się.**
 
@@ -724,13 +728,15 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
 Celem Archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość plebiscytu. Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, ponieważ dopiero taki zbiór pokazuje, jak ludzie rzeczywiście rozmawiali, a nie wyłącznie to, co zostało wybrane. Ryzyko publikacji ogranicza oznaczanie zastrzeżeń prawnych przez oceniających (§ 8 ust. 3a) i rozstrzyganie przez Organizatora co do zgłoszeń oznaczonych (ust. 11 lit. e-f1).
 
 
-12. **Czytanie sceniczne rozmowy zwycięskiej.** Elementem gali jest dialog czytany: **zwycięzca czyta ze sceny swoją część rozmowy, a wypowiedzi sztucznej inteligencji czyta narrator wskazany przez Organizatora**. Udział w czytaniu jest **obowiązkiem laureata nagrody głównej**, wynikającym z przyjęcia nagrody, na następujących zasadach:
+12. **Czytanie sceniczne rozmowy zwycięskiej.** Elementem gali jest dialog czytany: **zwycięzca czyta ze sceny swoją część rozmowy, a wypowiedzi sztucznej inteligencji czyta narrator wskazany przez Organizatora**. Udział w czytaniu jest **obowiązkiem laureata nagrody głównej**, wynikającym z przyjęcia nagrody, z trzema wyjątkami wskazanymi w lit. c1. Zasady są następujące:
 
    a) Organizator przekazuje laureatowi skrót rozmowy przeznaczony do czytania **nie później niż 14 dni przed galą** i uzgadnia z nim jego treść; laureat może żądać skreśleń, a Organizator je uwzględnia;
 
    b) laureat udziela Organizatorowi zgody na **utrwalenie i rozpowszechnianie zapisu wideo gali wraz z czytaniem oraz na wykorzystanie swojego wizerunku w tym zapisie i w materiałach informacyjnych o Nagrodzie, przez pięć lat od dnia gali**; prawa do samej rozmowy pozostają przy nim, zgodnie z ust. 1;
 
    c) jeżeli laureat nie może wziąć udziału w gali z przyczyn od niego niezależnych (§ 8 ust. 16-17), czytanie wykonuje za niego osoba przez niego wskazana albo narrator; **nie powoduje to utraty nagrody ani miejsca w werdykcie**;
+
+   c1) **obowiązek nie powstaje w trzech wypadkach**: gdy laureat wybrał zachowanie pseudonimu (§ 11 ust. 5b lit. b), gdy nie ukończył 18 lat i nie dysponuje zgodą przedstawiciela ustawowego w zakresie z § 3 ust. 1a lit. d, oraz gdy wystąpiła przyczyna od niego niezależna z lit. c. **W każdym z nich tekst czytają narratorzy, a laureat zachowuje nagrodę, miejsce w werdykcie i pseudonim**;
 
    d) laureat, który nie ukończył 18 lat, bierze udział w czytaniu za zgodą przedstawiciela ustawowego (§ 3 ust. 1a lit. d).
 
