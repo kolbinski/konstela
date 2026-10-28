@@ -43,7 +43,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 1. **Przed publicznym ogłoszeniem werdyktu** miejsce zwolnione wskutek wykluczenia zgłoszenia, jego wycofania albo rezygnacji Uczestnika zajmuje **kolejne uprawnione zgłoszenie z listy ustalonej przez jury**, tak aby liczba nagrodzonych pozostała zgodna z regulaminem.
 
-2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. Tak samo skutkuje śmierć Uczestnika po ustaleniu werdyktu.
+2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. **Śmierć Uczestnika nie jest odmową przyjęcia nagrody**; jej skutki określa przepis o śmierci i długotrwałej niedostępności w postanowieniach końcowych.
 
 3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** - rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
 
@@ -513,7 +513,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 3. **Granica dla pracy zwycięskiej.** Wycofanie zgłoszenia, które zajęło pierwsze miejsce, jest możliwe **nie później niż w dniu przekazania antologii do druku**, wskazanym w zawiadomieniu o werdykcie. Po tym dniu licencja na okładkę (§ 13 ust. 2 lit. d) pozostaje w mocy w granicach nakładu i wznowień antologii tej edycji, a wycofanie wywołuje skutek wyłącznie na przyszłość i w pozostałym zakresie.
 
-4. Wycofanie zgłoszenia finalisty nie powoduje przesunięcia pozostałych zgłoszeń w kolejności ustalonej przez jury ani wskazania zgłoszenia zastępczego. Nagroda pieniężna nie jest wówczas wypłacana.
+4. Wycofanie zgłoszenia finalisty powoduje **uzupełnienie zwolnionego miejsca zgodnie z § 1c ust. 1**, tak aby finał pozostał dziesięcioosobowy. Wycofującemu się Uczestnikowi nagroda pieniężna nie jest wypłacana.
 
 ## § 16. Nierozstrzygnięcie edycji
 

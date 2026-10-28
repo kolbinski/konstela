@@ -43,7 +43,7 @@
 
 1. **Przed publicznym ogłoszeniem werdyktu** miejsce zwolnione wskutek wykluczenia zgłoszenia, jego wycofania albo rezygnacji Uczestnika zajmuje **kolejne uprawnione zgłoszenie z listy ustalonej przez jury**, tak aby liczba nagrodzonych pozostała zgodna z regulaminem.
 
-2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. Tak samo skutkuje śmierć Uczestnika po ustaleniu werdyktu.
+2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. **Śmierć Uczestnika nie jest odmową przyjęcia nagrody**; jej skutki określa przepis o śmierci i długotrwałej niedostępności w postanowieniach końcowych.
 
 3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** - rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
 
@@ -422,7 +422,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    d) przy filmach finałowych: pokaz kinowy, o którym mowa w § 10 ust. 4 - **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa.
 
-2a. **Zapis wideo gali po upływie pięciu lat.** Zapis gali udostępniany jest bezterminowo, natomiast licencja na zwiastun w tym zapisie trwa pięć lat (ust. 2 lit. b). Przed upływem tego okresu Organizator **zwraca się do Uczestnika o przedłużenie uprawnienia**, a w razie jego braku **usuwa fragment zawierający zwiastun z publicznie dostępnego zapisu** albo wyłącza zapis z publicznego udostępniania. Ten sam tryb stosuje się do materiałów informacyjnych z ust. 2 lit. c.
+2b. **Zapis wideo gali po upływie pięciu lat.** Zapis gali udostępniany jest bezterminowo, natomiast licencja na zwiastun w tym zapisie trwa pięć lat (ust. 2 lit. b). Przed upływem tego okresu Organizator **zwraca się do Uczestnika o przedłużenie uprawnienia**, a w razie jego braku **usuwa fragment zawierający zwiastun z publicznie dostępnego zapisu** albo wyłącza zapis z publicznego udostępniania. Ten sam tryb stosuje się do materiałów informacyjnych z ust. 2 lit. c.
 
 2a. **Rozliczenie publicznego wykonania muzyki na gali obciąża Organizatora.** Oświadczenie Uczestnika z ust. 1 lit. a1 dotyczy jego własnych uprawnień do zwiastuna i filmu i **nie zastępuje** rozliczenia Organizatora z organizacją zbiorowego zarządzania prawami autorskimi, jeżeli takie rozliczenie jest wymagane dla gali. Organizator nie przenosi tego obowiązku na Uczestnika.
 
