@@ -23,7 +23,7 @@
     ['/dokument/procedura-moderacji', 'Procedura moderacji zgłoszeń'],
     ['/dokument/regulaminy', 'Regulaminy'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
-    ['/#partnerzy', 'Dla partnerów'],
+    ['/dla-partnerow', 'Dla partnerów'],
   ];
 
   var STYLE = [

@@ -99,6 +99,7 @@ const PUBLICZNE = new Set([
   'regulaminy',
   'hymn',
   'fundacja',
+  'dla-partnerow',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
@@ -110,6 +111,7 @@ const DEDYKOWANE = {
   'plebiscyt-filmu': 'plebiscyt-filmu',
   hymn: 'hymn',
   fundacja: 'fundacja',
+  'dla-partnerow': 'dla-partnerow',
   statut: 'statut',
 };
 
@@ -135,6 +137,8 @@ const OPISY = {
     'Jakie dane zbiera Nagroda Konstela w każdym z czterech plebiscytów i w głosowaniu publiczności, w jakim celu, jak długo je przechowuje i jakie prawa przysługują uczestnikom.',
   'plebiscyt-piosenki':
     'Otwarty konkurs na własną piosenkę o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie. Jury wybiera dziesięciu finalistów, a trzy najwyżej ocenione utwory dostają nagrody pieniężne.',
+  'dla-partnerow':
+    'Zakresy współpracy przy pierwszej edycji Nagrody Konstela: sponsorzy nagród w czterech plebiscytach, mecenasi antologii i sesji studyjnych, partnerzy wydawniczy, galeria, dystrybucja filmów, gala, podcast i patronat medialny.',
   'plebiscyt-plakatu':
     'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę antologii Nagrody Konstela.',
   'plebiscyt-filmu':
