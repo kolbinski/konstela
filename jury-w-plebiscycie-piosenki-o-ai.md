@@ -104,6 +104,8 @@ Nagroda koncentruje się na doświadczeniu życia ze sztuczną inteligencją. Je
 
 Tekst [hymnu Nagrody Konstela](/hymn) „Zapytaj inaczej” jest napisany, a **do skomponowania i nagrania muzyki zaprosimy zainteresowanych członków jury**. Na stronie hymnu widnieją dwie wersje wygenerowane przez AI; trzecia ma być nowa i ludzka – melodia napisana od zera do tych samych słów, czyli dokładnie to, czego wymagamy od zgłaszających. Na gali hymn zabrzmi na żywo.
 
+**Tekst nie jest zamknięty.** Wersja robocza stoi na stronie hymnu, a **ostateczne brzmienie opracuje skład jury** – tytuł i refren zostają, bo „zapytaj inaczej” jest hasłem całej Nagrody, reszta jest do pracy.
+
 **Udział jest dobrowolny i nie jest warunkiem pracy w jury.** Udział w tworzeniu hymnu nie wpływa na pełnienie funkcji jurora: hymn stoi poza plebiscytem, nie jest zgłoszeniem i nie konkuruje z ocenianymi utworami. Zakres, wynagrodzenie, autorstwo i zasady wykorzystania utworu ustalamy w osobnej umowie.
 
 ## <!--ikona:etap--><span>Na jakim etapie jesteśmy</span>

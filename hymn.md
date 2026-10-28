@@ -8,6 +8,8 @@ Osobno od plebiscytu na [najlepszą piosenkę o sztucznej inteligencji](/plebisc
 
 Deklarujemy to tym samym zdaniem, którego wymagamy od zgłaszających, i w tym samym miejscu, w którym oni je napiszą. Hymn stoi poza plebiscytem, ale nie poza zasadami.
 
+**Tekst nie jest zamknięty.** Poniższe słowa są wersją roboczą, a **ostateczne brzmienie opracuje skład jury plebiscytu piosenki**, który hymn skomponuje i nagra. Tytuł i refren zostają, bo „zapytaj inaczej” jest hasłem całej Nagrody; reszta jest do pracy.
+
 ## <!--ikona:sluchalnia--><span>Posłuchaj</span>
 
 <table class="thumbs">
