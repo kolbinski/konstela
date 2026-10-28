@@ -36,7 +36,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
-Mówimy o tym z takim wyprzedzeniem dlatego, że film trwający od 20 do 90 minut planuje się z wyprzedzeniem - a zgłoszony film ma powstać na potrzeby tego plebiscytu.
+Mówimy o tym z takim wyprzedzeniem dlatego, że film trwający od 20 do 90 minut planuje się wcześniej - a zgłoszony film ma powstać na potrzeby tego plebiscytu.
 
 Jeżeli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
 
