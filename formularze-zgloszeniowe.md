@@ -62,6 +62,7 @@ Odrębności: wiek od 16 lat. Film ma być zrealizowany na potrzeby tego plebisc
 | Okładka: JPG albo PNG, kwadratowa, bok 800-3000 px, do 5 MB | obowiązkowe |
 | Skład osobowy przy zgłoszeniu zespołowym wraz ze wskazaniem reprezentanta | warunkowe |
 | Tekst utworu (pole tekstowe, prezentowany w Słuchalni i w Archiwum) | obowiązkowe |
+| Moment publikacji tekstu: od razu albo po gali | obowiązkowe, domyślnie od razu |
 | Deklaracja sposobu powstania tekstu | obowiązkowe |
 | Deklaracja narzędzi opartych na sztucznej inteligencji użytych w produkcji, wraz z celem użycia | obowiązkowe |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat, rozbita na zakresy | warunkowe |

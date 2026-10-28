@@ -97,7 +97,7 @@ Oznacz, gdy obejrzane nagranie nie przekonuje Cię, że pracę wykonuje osoba, k
 
 ### Plebiscyt na piosenkę o sztucznej inteligencji
 
-Zakres jest tu najwęższy ze wszystkich czterech, bo organizator nie publikuje nagrań: Słuchalnia pokazuje okładkę, podpis i link do nagrania. Oznaczasz więc to, co publikujemy, czyli okładkę.
+Organizator nie publikuje nagrań: Słuchalnia pokazuje okładkę, tytuł, **tekst utworu**, podpis i link do nagrania. Oznaczasz więc to, co publikujemy - okładkę i tekst.
 
 **S1. Okładka zgłoszenia.**
 
@@ -108,6 +108,16 @@ Oznacz, gdy na okładce widzisz podobiznę rozpoznawalnej osoby trzeciej albo pr
 - **Nie oznaczaj:** samego użycia narzędzia sztucznej inteligencji do wykonania okładki - w tym plebiscycie okładka może być wygenerowana i nie podlega ocenie. Konkretne zastrzeżenia - rozpoznawalną osobę, przejęty obraz, znak albo postać - oznaczasz niezależnie od techniki wykonania okładki.
 - **Nie oznaczaj:** zdjęcia samego uczestnika ani zdjęcia zespołu.
 - **Nie oznaczaj:** nawiązania stylistycznego ani podobieństwa do znanego nurtu graficznego.
+
+**S2. Tekst utworu.**
+
+Oznacz, gdy w tekście rozpoznajesz **przytoczony w całości cudzy utwór** - zwrotkę albo refren znanej piosenki, cały wiersz - albo gdy tekst **wskazuje z imienia i nazwiska osobę prywatną** albo stawia konkretnej osobie zarzut przestępstwa lub poważnego nadużycia jako fakt.
+
+- **Oznacz:** wpleciona zwrotka cudzej piosenki, bez wskazania źródła i bez cudzysłowu.
+- **Oznacz:** imienny zarzut postawiony konkretnej, możliwej do zidentyfikowania osobie.
+- **Nie oznaczaj:** nawiązania, parafrazy ani cytatu kilku słów - to normalna praktyka pisania tekstów.
+- **Nie oznaczaj:** wulgaryzmu, ostrej emocji ani krytyki instytucji, firmy albo zjawiska.
+- **Nie oznaczaj:** tego, że tekst powstał przy udziale sztucznej inteligencji - w tym plebiscycie jest to dozwolone i zadeklarowane w zgłoszeniu.
 
 **Czego w tym plebiscycie nie oznaczasz.** Treści nagrania. Jeżeli jednak usłyszysz w utworze przytoczony w całości cudzy tekst - zwrotkę znanej piosenki, cały wiersz - możesz wskazać to w polu opisowym na zasadach z rozdziału 4. Granice użycia narzędzi sztucznej inteligencji przy melodii, harmonii i wokalu są sprawą regulaminu i trybu spornego, nie oznaczenia.
 

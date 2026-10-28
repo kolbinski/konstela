@@ -231,6 +231,8 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 **Utwory, które przeszły weryfikację formalną, umieszczamy w Słuchalni** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, **tekst utworu**, podpis, uzasadnienie „dlaczego warte nagrody głównej", deklarację użycia AI, link do nagrania oraz **kontakt do Ciebie**, czyli link do Twojej strony albo profilu, jeżeli go podałeś w zgłoszeniu.
 
+**Ty decydujesz, kiedy pokazujemy tekst.** W zgłoszeniu zaznaczasz, czy ma być widoczny od razu, czy dopiero po gali. Na ocenę nie ma to wpływu - akademia i jury czytają go od początku w obu wypadkach.
+
 ### Katalog, nie skład nagrań
 
 **Nie przechowujemy u siebie nagrań.** Piosenka cały czas jest dostępna na Twoim kanale YouTube i to Ty nią zarządzasz. Dlatego jeśli kiedyś usuniesz nagranie, link po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
