@@ -48,7 +48,7 @@ Nagroda Konstela ma już swoją piosenkę. Nazywa się „Zapytaj inaczej", teks
 
 Szukam teraz piosenkarza, który napisze do tego własną muzykę i nagra ją po swojemu. To zlecenie płatne, muzyka zostaje jego, bez wyłączności. Jeśli śpiewasz albo znasz kogoś, kto powinien to usłyszeć, napisz do mnie.
 
-Piosenka do posłuchania tutaj: https://www.youtube.com/watch?v=3_Yc4dDPB2c
+Piosenka do posłuchania tutaj: https://www.youtube.com/watch?v=OmSkNDHyfh4
 
 konstela.org
 
