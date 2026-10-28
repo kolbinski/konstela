@@ -87,7 +87,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 **Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie – oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie – jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
-**Dokumentacja procesu twórczego.** Nagranie pomaga potwierdzić sposób powstawania pracy i ogranicza ocenianie autorstwa na podstawie samego wyglądu plakatu. Ocena „czy to wygląda na wygenerowane” byłaby zgadywaniem i uderzałaby w tych, którzy malują gładko i precyzyjnie. Pomyśl o nagraniu **przed rozpoczęciem pracy**: trwa 3 minuty, nie wymaga jakości, dźwięku, montażu ani ciągłości, a nie publikujemy go nigdzie – widzą je wyłącznie oceniający i jury.
+**Dokumentacja procesu twórczego.** Nagranie pomaga potwierdzić sposób powstawania pracy i ogranicza ocenianie autorstwa na podstawie samego wyglądu plakatu. Ocena „czy to wygląda na wygenerowane” byłaby zgadywaniem i uderzałaby w tych, którzy malują gładko i precyzyjnie. Pomyśl o nagraniu **przed rozpoczęciem pracy**: trwa 3 minuty, a my nie wymagamy profesjonalnej jakości obrazu, dźwięku ani montażu, a nie publikujemy go nigdzie – widzą je wyłącznie oceniający i jury.
 
 **Dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. **Jedno ujęcie musi być nieprzerwanym przejściem kamery od Twojej twarzy do wykonywanej pracy**, bez cięcia – to ono wiąże Ciebie z tą konkretną robotą. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 3 minut się nie liczą.
 
@@ -190,7 +190,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a oryginałem dysponujemy nie dłużej niż 150 dni od jego odebrania.
 
-**Wystawa w galerii sztuki – jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem – już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć – nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
+**Wystawa w galerii sztuki – jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem – już z informacją o miejscach przyznanych przez jury. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć – nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
 <h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych plakatów</span></h2>
 
@@ -200,7 +200,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania – inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
-**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
+**Wybór najlepszego uzasadnienia.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym plakacie – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
@@ -262,7 +262,7 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 ### Film, piosenka i plakat
 
-Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na zagadnienie sztucznej inteligencji, rozstrzygane na tej samej gali:
+Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji, rozstrzygane na tej samej gali:
 
 1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) – film od 20 do 90 minut, stworzony dla tego plebiscytu.
 2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) – własny tekst, własna muzyka, własne wykonanie.

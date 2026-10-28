@@ -62,7 +62,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Co wpisać w tym polu
 
-Napisz, co w tej rozmowie było dla Ciebie ważne i w którym miejscu to się wydarzyło. **Nie oczekujemy porównania z innymi zgłoszeniami** – oceniający czyta kilkadziesiąt rozmów i nie zna Twojego kontekstu, więc jedno zdanie o tym, czego szukałeś i co znalazłeś, pomaga zrozumieć kontekst rozmowy. Oceniający czyta kilkadziesiąt rozmów i nie zna Twojego kontekstu; jedno zdanie o tym, czego szukałeś i co znalazłeś, pomaga zrozumieć kontekst rozmowy. Wystarczy napisać „nie umiałem zrozumieć, dlaczego kredyt na mieszkanie wychodzi mi dwa razy drożej, niż liczyłem, i dopiero w trzecim pytaniu zorientowałem się, że liczę nie to, co trzeba”. To jest kompletne uzasadnienie. Pole jest widoczne publicznie, bo Czytelnia bez niego byłaby ścianą surowych rozmów bez żadnego tropu – ale nie podlega ocenie w żadnym kryterium i nikt nie dostanie punktów za lepszą autoreklamę.
+Napisz, co w tej rozmowie było dla Ciebie ważne i w którym miejscu to się wydarzyło. **Nie oczekujemy porównania z innymi zgłoszeniami.** Krótki opis pomaga oceniającym zrozumieć, czego szukałeś i co znalazłeś w rozmowie. Oceniający czyta kilkadziesiąt rozmów i nie zna Twojego kontekstu; jedno zdanie o tym, czego szukałeś i co znalazłeś, pomaga zrozumieć kontekst rozmowy. Wystarczy napisać „nie umiałem zrozumieć, dlaczego kredyt na mieszkanie wychodzi mi dwa razy drożej, niż liczyłem, i dopiero w trzecim pytaniu zorientowałem się, że liczę nie to, co trzeba”. To jest kompletne uzasadnienie. Pole jest widoczne publicznie, bo Czytelnia bez niego byłaby ścianą surowych rozmów bez żadnego tropu – ale nie podlega ocenie w żadnym kryterium i nikt nie dostanie punktów za lepszą autoreklamę.
 
 ### Kontakt do autora
 
@@ -178,7 +178,7 @@ Trzy werdykty – jury, uczniów i publiczności – są od siebie niezależne i
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania – inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
-**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
+**Wybór najlepszego uzasadnienia.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samej rozmowie – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
@@ -206,7 +206,7 @@ Po ogłoszeniu wyników Czytelnia zamienia się w Archiwum, udostępniane bezpł
 
 ### Licencja i podpis
 
-Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 – po tym dniu książka antologii zostanie wydrukowana.
+Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 – po tym dniu antologia idzie do druku.
 
 ### Pseudonim nie anonimizuje treści
 
@@ -251,7 +251,7 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 ### Film, piosenka i plakat
 
-Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na zagadnienie sztucznej inteligencji, rozstrzygane na tej samej gali:
+Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji, rozstrzygane na tej samej gali:
 
 1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) – film od 20 do 90 minut, stworzony dla tego plebiscytu.
 2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) – własny tekst, własna muzyka, własne wykonanie.

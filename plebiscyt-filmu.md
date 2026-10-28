@@ -90,7 +90,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 **Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Film może być publiczny albo niepubliczny z dostępem przez link; zwiastun jest publiczny, bo pokazujemy go w Projektorni i na gali. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
 
-**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
+**W zgłoszeniu podajesz również link do zwiastuna filmu, od 60 do 120 sekund** – publicznie dostępnego na Twoim kanale i zmontowanego z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
 ### Wersja plebiscytowa
 
@@ -187,7 +187,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania – inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
-**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
+**Wybór najlepszego uzasadnienia.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym filmie – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
@@ -259,7 +259,7 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 ### Film, piosenka i plakat
 
-Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na zagadnienie sztucznej inteligencji, rozstrzygane na tej samej gali:
+Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji, rozstrzygane na tej samej gali:
 
 1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) – film od 20 do 90 minut, stworzony dla tego plebiscytu.
 2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) – własny tekst, własna muzyka, własne wykonanie.

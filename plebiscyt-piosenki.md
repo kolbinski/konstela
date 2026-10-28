@@ -202,7 +202,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania – inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
-**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
+**Wybór najlepszego uzasadnienia.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samej piosence – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
@@ -236,7 +236,7 @@ Jedna zasada dla wszystkich zgłaszających: **wszystko zostaje Twoje**. Tekst, 
 
 ### Czego potrzebujemy od Ciebie
 
-Potrzebujemy prawa **niewyłącznego** i w wypisanych zakresach: pokazanie zgłoszenia w Słuchalni w czasie naboru i w Archiwum po edycji – to jedyny zakres będący warunkiem udziału; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, zakres wydania jest osobną umową między Tobą a wydawnictwem; organizator nie jest jej stroną.
+Potrzebujemy prawa **niewyłącznego** i w wypisanych zakresach: pokazanie zgłoszenia w Słuchalni w czasie naboru i w Archiwum po edycji – to jedyny zakres będący warunkiem udziału; wykonanie utworu na żywo podczas gali; oraz **utrwalenie gali na wideo i bezpłatne udostępnienie tego zapisu**, bo galę rejestrujemy i zapis publikujemy. Przy utworach, które wejdą na płytę, warunki wydania określi osobna umowa między Tobą a wydawnictwem; organizator nie jest jej stroną.
 
 ### Zakres sesji studyjnej
 
@@ -258,7 +258,7 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 ### Film, piosenka i plakat
 
-Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na zagadnienie sztucznej inteligencji, rozstrzygane na tej samej gali:
+Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji, rozstrzygane na tej samej gali:
 
 1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) – film od 20 do 90 minut, stworzony dla tego plebiscytu.
 2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) – własny tekst, własna muzyka, własne wykonanie.
@@ -288,7 +288,7 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, raz
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniamy wersję dostępną pod linkiem tego dnia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, zwycięzcy pierwszych trzech miejsc plebiscytu piosenki śpiewają je na żywo</small></dd></div>
+<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, laureaci trzech pierwszych miejsc plebiscytu piosenki wykonują nagrodzone utwory na żywo</small></dd></div>
 <div><dt>Po gali</dt><dd>Nagrania studyjne finalistów<small>termin sesji i przekazania materiału podamy przed otwarciem naboru</small></dd></div>
 </dl>
 
