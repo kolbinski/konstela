@@ -36,7 +36,7 @@
 
 ### Co dostają finaliści
 
-**Wszyscy finaliści otrzymują nagrody pieniężne i miejsce w antologii**: jury przyznaje nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień, a z każdym wyróżnieniem również wiąże się nagroda pieniężna. W tej kategorii jest to inaczej niż w pozostałych trzech plebiscytach. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
+**Wszyscy finaliści otrzymują nagrody pieniężne i miejsce w antologii**: jury przyznaje nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień, a z każdym wyróżnieniem również wiąże się nagroda pieniężna. W odróżnieniu od pozostałych kategorii także wyróżnienia obejmują nagrodę pieniężną. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
@@ -44,18 +44,18 @@
 
 Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce antologii i o laureatach nagród.** Przed zawarciem umowy ustalamy maksymalną liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów oraz zakres uzasadnień, weryfikacji źródeł i obrad.
 
-**Rozmowę weryfikacyjną z każdym finalistą prowadzi organizator**, nie jury: do 20 minut, wyłącznie o treści zgłoszenia, już po ustaleniu werdyktu. Jej celem jest potwierdzenie, że autor rozumie wątek, który prowadził – nie zmienia ona ocen ani kolejności, a werdykt pozostaje przy jury. Jeżeli rozmowa ujawni rozbieżność, sprawę prowadzi organizator w trybie opisanym w regulaminie.
+**Rozmowę weryfikacyjną z każdym finalistą prowadzi organizator**, nie jury: do 20 minut, wyłącznie o treści zgłoszenia, już po ustaleniu werdyktu. Jej celem jest potwierdzenie, że autor rozumie wątek, który prowadził – nie zmienia ona ocen ani kolejności, a werdykt pozostaje przy jury. **Jeden skutek jest możliwy: odrzucenie zgłoszenia**, jeżeli rozmowa ujawni, że zgłoszony przebieg został odtworzony, a wynik był znany przed rozpoczęciem. Prowadzi to organizator, w pisemnym trybie wskazującym konkretne fragmenty, z prawem autora do wyjaśnień; **zwolnione miejsce zajmuje wtedy kolejne zgłoszenie z listy ustalonej przez jury**, więc dziesiątka pozostaje pełna i nie wymaga powtórnej oceny.
 
 ### Jak jury ocenia zgłoszone rozmowy
 
 Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria o równej wadze, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
 
 - **rozpiętość** – maksymalnie 25 punktów  
-  Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin; połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.
+  Jak nieoczywiste i jak uzasadnione jest połączenie między zagadnieniami wypracowane w toku rozmowy. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin; połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.
 - **drążenie** – maksymalnie 25 punktów  
   Czy autor dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi; czy późniejsze pytania wynikają z wcześniejszych odpowiedzi.
 - **weryfikacja** – maksymalnie 25 punktów  
-  Czy autor panuje nad rzetelnością rozmowy: sprawdza twierdzenia wymagające sprawdzenia, żąda uzasadnienia interpretacji, oznacza hipotezy jako niepewne i doprowadza wątpliwe wątki do rozstrzygnięcia. Oceniana jest kontrola jakości, a nie liczba przyłapań.
+  Czy autor panuje nad rzetelnością rozmowy: sprawdza twierdzenia wymagające sprawdzenia, żąda uzasadnienia interpretacji, oznacza hipotezy jako niepewne i doprowadza wątpliwe wątki do rozstrzygnięcia. Oceniana jest kontrola jakości, a nie liczba wykrytych błędów.
 - **plon** – maksymalnie 25 punktów  
   Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło, powstały tekst, zmieniona decyzja lub pogląd. Połączenie, którego nie da się nazwać, nie jest punktowane.
 
@@ -81,7 +81,7 @@ Dziesięć rozmów z antologii ukazuje się **z komentarzem jury** – kilka zda
 
 ### Czego jury nie robi
 
-Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrody głównej” – te trzy pola są widoczne publicznie, ale wyłączone z punktacji. Nie ocenia też wykształcenia ani doświadczenia autora. **Rezultat rozmowy oceniany jest w zakresie udokumentowanym w zgłoszonym dialogu**: dokumenty, kod, obrazy i inne materiały powstałe przy okazji nie podlegają osobnej ocenie, a skutki rozmowy powstałe poza nią nie podnoszą punktacji. Nie prowadzi rozmów weryfikacyjnych z finalistami, bo robi to organizator, i nie zajmuje się obsługą plebiscytu, moderacją ani korespondencją z uczestnikami. Jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo zgodności zgłoszenia z zasadami, przekazuje je organizatorowi do wyjaśnienia; **oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację**.
+Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrody głównej” – te trzy pola są widoczne publicznie, ale wyłączone z punktacji. Nie ocenia też wykształcenia ani doświadczenia autora. **Rezultat rozmowy oceniany jest w zakresie udokumentowanym w zgłoszonym dialogu**: dokumenty, kod, obrazy i inne materiały powstałe przy okazji nie podlegają osobnej ocenie, a skutki rozmowy powstałe poza nią nie podnoszą punktacji. Jury nie prowadzi rozmów weryfikacyjnych z finalistami, bo robi to organizator, i nie zajmuje się obsługą plebiscytu, moderacją ani korespondencją z uczestnikami. Jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo zgodności zgłoszenia z zasadami, przekazuje je organizatorowi do wyjaśnienia; **oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację**.
 
 ## <!--ikona:tarcza--><span>Warunki współpracy</span>
 
@@ -95,7 +95,7 @@ Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrod
 
 ### Antologia zostaje po edycji
 
-Wybór jury wyznaczy zawartość antologii: **antologia pokaże różne sposoby prowadzenia rozmów z AI i pozwoli prześledzić, co jury uznało w nich za wartościowe**. Dla jurora to inny rodzaj śladu niż protokół z obrad.
+**Wybrane przez jury rozmowy pokażą różne sposoby prowadzenia dialogu z AI, a komentarze pozwolą prześledzić, co zdecydowało o ich wyróżnieniu.** Dla jurora to inny rodzaj śladu niż protokół z obrad.
 
 ### Wpływ na kształt edycji
 
