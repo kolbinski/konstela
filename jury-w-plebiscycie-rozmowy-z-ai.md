@@ -44,7 +44,9 @@
 
 Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce antologii i o laureatach nagród.** Przed zawarciem umowy ustalamy maksymalną liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów oraz zakres uzasadnień, weryfikacji źródeł i obrad.
 
-**Rozmowę weryfikacyjną z każdym finalistą prowadzi organizator**, nie jury: do 20 minut, wyłącznie o treści zgłoszenia, już po ustaleniu werdyktu. Jej celem jest potwierdzenie, że autor rozumie wątek, który prowadził – nie zmienia ona ocen ani kolejności, a werdykt pozostaje przy jury. **Jeden skutek jest możliwy: odrzucenie zgłoszenia**, jeżeli rozmowa ujawni, że zgłoszony przebieg został odtworzony, a wynik był znany przed rozpoczęciem. Prowadzi to organizator, w pisemnym trybie wskazującym konkretne fragmenty, z prawem autora do wyjaśnień; **zwolnione miejsce zajmuje wtedy kolejne zgłoszenie z listy ustalonej przez jury**, więc dziesiątka pozostaje pełna i nie wymaga powtórnej oceny.
+**Rozmowę weryfikacyjną z każdym finalistą prowadzi organizator**, nie jury: do 20 minut, wyłącznie o treści zgłoszenia, już po ustaleniu werdyktu. Jej celem jest potwierdzenie, że autor rozumie wątek, który prowadził. **Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez jury**, a werdykt pozostaje przy jury; może jednak skutkować wykluczeniem zgłoszenia, jeżeli ujawni, że zgłoszony przebieg został odtworzony, a wynik był znany przed rozpoczęciem.
+
+Organizator prowadzi wtedy postępowanie wyjaśniające, pisemnie wskazuje podstawy ewentualnego wykluczenia i umożliwia autorowi złożenie wyjaśnień. **Zwolnione miejsce zajmuje kolejne kwalifikujące się zgłoszenie z rankingu jury**, więc lista nie wraca do powtórnej oceny; jeżeli takich zgłoszeń zabraknie, antologia może zawierać mniej niż dziesięć rozmów.
 
 ### Jak jury ocenia zgłoszone rozmowy
 
