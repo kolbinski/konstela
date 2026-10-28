@@ -33,7 +33,9 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 **Zakres, kosztorys i proponowane warunki współpracy wysyłamy na życzenie.** Budżet pierwszej edycji jest policzony pozycja po pozycji i pokazujemy go w całości, razem z tym, czego jeszcze nie wyceniliśmy.
 
-## <!--ikona:puchar--><span>Nagrody i ocena w plebiscytach</span>
+## <!--ikona:puchar--><span>Rodzaje partnerstw</span>
+
+### Nagrody i ocena w plebiscytach
 
 <div class="kafle">
 <article>
@@ -63,7 +65,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 </div>
 
-## <!--ikona:ksiazka--><span>Wydania, pokazy i wystawa</span>
+### Wydania, pokazy i wystawa
 
 <div class="kafle">
 <article>
@@ -98,7 +100,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 </div>
 
-## <!--ikona:iskra--><span>Gala, podcast i media</span>
+### Gala, podcast i media
 
 <div class="kafle">
 <article>
