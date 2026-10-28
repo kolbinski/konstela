@@ -54,7 +54,7 @@ Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla a
 
 Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-Osobno od tego stoi **etap przygotowania karty oceny i wag kryteriów**, który przypada przed naborem. Umowa określa, czy i jak jest on rozliczany, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
+**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest przygotowanie karty oceny i wag kryteriów.** Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
 ### Czego jury nie robi
 
@@ -91,7 +91,7 @@ Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-piosenki), w wers
 
 ## <!--ikona:mikrofon--><span>Osobna propozycja: hymn Nagrody</span>
 
-Nagroda jest o momencie, w którym ludzie uczą się żyć ze sztuczną inteligencją – a taki moment zostaje w pamięci raczej w piosence niż w dokumencie. Cztery plebiscyty potrzebują jednego wspólnego zdania. Jest nim: **zapytaj inaczej**.
+Nagroda koncentruje się na doświadczeniu życia ze sztuczną inteligencją – a taki moment zostaje w pamięci raczej w piosence niż w dokumencie. Cztery plebiscyty potrzebują jednego wspólnego zdania. Jest nim: **zapytaj inaczej**.
 
 Tekst [hymnu Nagrody Konstela](/hymn) „Zapytaj inaczej” jest napisany, a **do skomponowania i nagrania muzyki zaprosimy zainteresowanych członków jury**. Na stronie hymnu widnieją dwie wersje wygenerowane przez AI; trzecia ma być nowa i ludzka – melodia napisana od zera do tych samych słów, czyli dokładnie to, czego wymagamy od zgłaszających. Na gali hymn zabrzmi na żywo.
 
