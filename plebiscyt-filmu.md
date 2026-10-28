@@ -234,7 +234,9 @@ Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każdy film traf
 
 ### Katalog, nie repozytorium
 
-Film i zwiastun odtwarzają się z Twojego kanału, bo kopii u siebie nie przechowujemy. Usunięcie ich stamtąd jest więc skuteczne natychmiast i nie wymaga niczyjej zgody - ale ma skutki dla zgłoszenia: przed zamknięciem naboru oznacza wycofanie, między zamknięciem a werdyktem koniec oceny, a między werdyktem a galą wyłączenie z głosowania publiczności, bez utraty nagrody. Po gali usunięcie filmu nie zmienia już niczego.
+Film i zwiastun odtwarzają się z Twojego kanału, bo kopii u siebie nie przechowujemy. Usunięcie ich stamtąd jest więc skuteczne natychmiast i nie wymaga niczyjej zgody - ale ma skutki dla zgłoszenia: przed zamknięciem naboru oznacza wycofanie, między zamknięciem a ustaleniem werdyktu koniec oceny, a między ustaleniem werdyktu a galą wyłączenie z głosowania publiczności, bez utraty nagrody. Po gali usunięcie filmu nie zmienia już niczego.
+
+**Przy zwiastunie dostajesz dodatkowy termin.** Jeśli zwiastun zniknie - czy to dlatego, że go usunąłeś, czy wskutek awarii albo blokady serwisu - najpierw piszemy do Ciebie i dajemy co najmniej 14 dni na przywrócenie go albo wskazanie innego, spełniającego te same wymogi. Dopiero bezskuteczny upływ tego terminu wywołuje skutki opisane wyżej. Tak samo postępujemy, gdy film staje się niedostępny z przyczyn od Ciebie niezależnych.
 
 ### Bez liczników i bez konta
 

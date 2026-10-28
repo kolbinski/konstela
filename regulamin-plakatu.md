@@ -38,6 +38,17 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
+
+## § 1c. Zwolnione miejsce i korekta wyniku
+
+1. **Przed publicznym ogłoszeniem werdyktu** miejsce zwolnione wskutek wykluczenia zgłoszenia, jego wycofania albo rezygnacji Uczestnika zajmuje **kolejne uprawnione zgłoszenie z listy ustalonej przez jury**, tak aby liczba nagrodzonych pozostała zgodna z regulaminem.
+
+2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. Tak samo skutkuje śmierć Uczestnika po ustaleniu werdyktu.
+
+3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** - rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
+
+4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem plebiscytu jest **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie techniką tradycyjną.
@@ -107,7 +118,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 1. **Nagranie jest obowiązkowym elementem zgłoszenia.** Służy powiązaniu Uczestnika z wykonywaniem pracy, którego ręcznego charakteru wymaga § 6.
 
-2. Nagranie przekazuje się **jako link do nagrania w serwisie YouTube**. Nagranie może być niepubliczne i musi być dostępne do dnia gali. Organizator zwraca uwagę, że dostęp do nagrania niepublicznego określają zasady serwisu, nad którymi nie ma kontroli: nagranie takie może obejrzeć każdy, kto dysponuje linkiem.
+2. Nagranie przekazuje się **jako link do nagrania w serwisie YouTube**. Nagranie może być niepubliczne i musi być dostępne **do zamknięcia głosowania publiczności** (§ 12 ust. 5c). Jeżeli przestanie być dostępne z przyczyn niezależnych od Uczestnika - awarii, blokady albo ograniczenia nałożonego przez serwis - Organizator zawiadamia go i wyznacza termin **nie krótszy niż 14 dni** na przywrócenie dostępu albo wskazanie identycznego nagrania pod innym linkiem; dopiero bezskuteczny upływ tego terminu powoduje wyłączenie zgłoszenia. Głosy oddane wcześniej pozostają ważne. Organizator zwraca uwagę, że dostęp do nagrania niepublicznego określają zasady serwisu, nad którymi nie ma kontroli: nagranie takie może obejrzeć każdy, kto dysponuje linkiem.
 
 3. Nagranie trwa **co najmniej 5 minut** i spełnia następujące warunki:
 

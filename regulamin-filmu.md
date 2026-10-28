@@ -38,6 +38,17 @@
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
+
+## § 1c. Zwolnione miejsce i korekta wyniku
+
+1. **Przed publicznym ogłoszeniem werdyktu** miejsce zwolnione wskutek wykluczenia zgłoszenia, jego wycofania albo rezygnacji Uczestnika zajmuje **kolejne uprawnione zgłoszenie z listy ustalonej przez jury**, tak aby liczba nagrodzonych pozostała zgodna z regulaminem.
+
+2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. Tak samo skutkuje śmierć Uczestnika po ustaleniu werdyktu.
+
+3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** - rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
+
+4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem Plebiscytu jest **film o sztucznej inteligencji i jej roli w świecie**, dowolnej formy: fabularnej, dokumentalnej, eseju filmowego, animacji albo formy mieszanej.

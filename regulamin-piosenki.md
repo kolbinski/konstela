@@ -38,6 +38,17 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
+
+## § 1c. Zwolnione miejsce i korekta wyniku
+
+1. **Przed publicznym ogłoszeniem werdyktu** miejsce zwolnione wskutek wykluczenia zgłoszenia, jego wycofania albo rezygnacji Uczestnika zajmuje **kolejne uprawnione zgłoszenie z listy ustalonej przez jury**, tak aby liczba nagrodzonych pozostała zgodna z regulaminem.
+
+2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. Tak samo skutkuje śmierć Uczestnika po ustaleniu werdyktu.
+
+3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** - rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
+
+4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem plebiscytu jest własna piosenka o sztucznej inteligencji i jej roli w świecie: własny tekst, własna muzyka i własne wykonanie Uczestnika.
@@ -191,7 +202,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 3. Organizator informuje Uczestnika o brakach formalnych możliwych do uzupełnienia i wyznacza na ich uzupełnienie termin nie krótszy niż 7 dni. Braki nieuzupełnione w terminie powodują pozostawienie zgłoszenia bez rozpoznania.
 
-4. Jeżeli nagranie przestanie być dostępne po terminie zgłoszeń, a przed ogłoszeniem werdyktu, zgłoszenie zostaje wyłączone z oceny z powodu niedostępności materiału. Organizator wzywa uprzednio Uczestnika do przywrócenia dostępności w terminie 7 dni. Przepis stosuje się także wtedy, gdy niedostępność wynika z blokady nałożonej przez serwis w następstwie zgłoszenia naruszenia praw autorskich; wyłączenie następuje wówczas z powodu niedostępności materiału, a nie wskutek rozstrzygnięcia Organizatora o naruszeniu praw.
+4. **Nagranie pozostaje dostępne do zamknięcia głosowania publiczności** (§ 11 ust. 6c). Jeżeli przestanie być dostępne wcześniej, Organizator zawiadamia Uczestnika i wyznacza termin **nie krótszy niż 14 dni** na przywrócenie dostępu albo na wskazanie identycznego nagrania pod innym linkiem; dopiero bezskuteczny upływ tego terminu powoduje wyłączenie zgłoszenia z oceny z powodu niedostępności materiału. **Głosy oddane wcześniej pozostają ważne i są liczone**, a jeżeli zgłoszenie zostaje wyłączone - nie biorą udziału w ustaleniu nagrody publiczności. Jeżeli termin naprawczy kończyłby się po zamknięciu głosowania, Organizator skraca go tak, aby zakończył się najpóźniej w dniu zamknięcia. Przepis stosuje się także wtedy, gdy niedostępność wynika z blokady nałożonej przez serwis w następstwie zgłoszenia naruszenia praw autorskich; wyłączenie następuje wówczas z powodu niedostępności materiału, a nie wskutek rozstrzygnięcia Organizatora o naruszeniu praw.
 
 5. Jeżeli nagranie przestanie być dostępne **przed upływem terminu zgłoszeń**, Uczestnik może przywrócić jego dostępność albo wskazać nowy link do tego samego nagrania, w terminie z ust. 3. Zgłoszenie pozostaje wówczas w plebiscycie, a wskazanie nowego linku nie narusza zasady z § 5 ust. 5.
 
