@@ -200,7 +200,11 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [k
 </article>
 </div>
 
-**Nagranie studyjne dla każdego z dziesięciu finalistów.** Osobno od pieniędzy: wszystkie utwory finałowej dziesiątki zostaną nagrane profesjonalnie w studiu na koszt organizatora. Termin sesji i termin przekazania Ci gotowego materiału podajemy przed otwarciem naboru.
+### Nagranie studyjne
+
+**Dla każdego z dziesięciu finalistów.** Osobno od pieniędzy: wszystkie utwory finałowej dziesiątki zostaną nagrane profesjonalnie w studiu na koszt organizatora. Termin sesji i termin przekazania Ci gotowego materiału podajemy przed otwarciem naboru.
+
+### Płyta
 
 **Płyta jest planem, nie obietnicą.** Chcemy wydać te nagrania na płycie, ale zależy to od pozyskania wydawnictwa i od osobnej umowy, którą zawrzesz z nim Ty, nie my. **Nagrania powstaną niezależnie od tego, czy wydawnictwo się znajdzie**, a odmowa umowy z nim nie odbiera Ci ani nagrania, ani praw do niego.
 

@@ -164,9 +164,15 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 </div>
 
+### Trzy niezależne werdykty
+
 Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **mogą wskazać trzy różne rozmowy**. Ogłaszamy je na tej samej gali rozdania nagród.
 
+### Antologia
+
 **Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną jako **bezpłatny e-book**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+
+### Nagroda Uczniowska
 
 <div class="kafle jedna-kolumna">
 <article>
