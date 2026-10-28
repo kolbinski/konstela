@@ -2,7 +2,9 @@
 
 ## 1. Administrator danych
 
-Administratorem danych osobowych jest **fundacja powołana wyłącznie w celu prowadzenia Nagrody Konstela**, wpisana do Krajowego Rejestru Sądowego przed otwarciem przyjmowania zgłoszeń. Jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym miejscu w wersji ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński.
+**Do dnia przejęcia obsługi przez fundację administratorem danych jest SOURCE Krzysztof Olbiński, ul. 11 Listopada 12/1, 98-200 Sieradz, NIP 827-208-73-73.** Dotyczy to wszystkich danych zbieranych przed otwarciem naboru, czyli korespondencji kierowanej na adresy w domenie konstela.org oraz zapisów na powiadomienie o otwarciu naboru (rozdział 3a).
+
+**Po wpisaniu do Krajowego Rejestru Sądowego administratorem staje się fundacja powołana wyłącznie w celu prowadzenia Nagrody Konstela**, a nastąpi to przed otwarciem przyjmowania zgłoszeń. Jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym miejscu w wersji ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński. Dane zebrane przed powołaniem fundacji zostaną jej przekazane wyłącznie w zakresie niezbędnym do prowadzenia Nagrody, a informację o zmianie administratora otrzyma każdy, kto zapisał się na powiadomienie.
 
 Kontakt we wszystkich sprawach dotyczących danych osobowych: kontakt@konstela.org.
 
@@ -25,6 +27,16 @@ Strona nie wczytuje żadnych zasobów z serwerów innych podmiotów. Kroje pisma
 **Tryb czytelności.** Przycisk w pasku u góry strony włącza większe pismo i czarno-biały układ o wysokim kontraście. Aby wybór przetrwał przejście na kolejną stronę i następną wizytę, przeglądarka zapamiętuje pod kluczem `konstela-czytelnosc` jedną wartość: że tryb jest włączony. **Zapis ten zostaje na urządzeniu odwiedzającego, nie jest wysyłany na serwer i Administrator go nie widzi**; nie służy do rozpoznawania ani do liczenia odwiedzających. Wyłączenie trybu kasuje zapis. Nie są to pliki cookies i nie wymagają zgody, ponieważ zapis jest niezbędny do wykonania funkcji, o którą poprosił sam odwiedzający.
 
 **Linki do serwisów zewnętrznych.** W plebiscytach na piosenkę i na film zgłoszeniem jest link do nagrania pozostającego u dostawcy wybranego przez Uczestnika, a Słuchalnia i Projektornia prezentują ten link. **Administrator nie osadza na stronie odtwarzaczy ani żadnych elementów z tych serwisów**, więc samo wejście na stronę nie powoduje połączenia z nimi. Połączenie powstaje dopiero wtedy, gdy odwiedzający kliknie link - od tej chwili jego dane przetwarza ten serwis, na własnych zasadach, nad którymi Administrator nie ma kontroli.
+
+## 3a. Zapis na powiadomienie o otwarciu naboru
+
+**Jakie dane.** Adres e-mail, a także treść wiadomości i podpis, jeżeli piszący je poda. Zapis następuje wyłącznie przez napisanie wiadomości na adres w domenie konstela.org; na stronie nie ma formularza zapisu ani żadnego pola zbierającego dane.
+
+**Cel i podstawa.** Jednorazowe powiadomienie o otwarciu naboru we wskazanym plebiscycie oraz odpowiedź na zadane pytanie. Podstawą jest **zgoda** (art. 6 ust. 1 lit. a RODO) wyrażona przez samo napisanie w tej sprawie, a w zakresie prowadzenia korespondencji - **prawnie uzasadniony interes** polegający na udzieleniu odpowiedzi (art. 6 ust. 1 lit. f RODO).
+
+**Jak długo.** Adres usuwamy po wysłaniu powiadomienia o otwarciu naboru albo wcześniej - od razu po rezygnacji, która wystarczy, by zgłosić ją jednym zdaniem na ten sam adres. Jeżeli nabór nie zostanie otwarty do końca 2028 roku, usuwamy listę w całości.
+
+**Czego nie robimy.** Nie wysyłamy newslettera, nie profilujemy adresów, nie łączymy ich ze zgłoszeniami ani z głosami i nie przekazujemy ich nikomu poza fundacją, o której mowa w rozdziale 1.
 
 ## 4. Zgłoszenie rozmowy w plebiscycie na rozmowę ze sztuczną inteligencją
 
