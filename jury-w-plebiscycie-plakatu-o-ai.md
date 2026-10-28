@@ -50,10 +50,14 @@ Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [akadem
 
 Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
 
-- ujęcie tematu – maksymalnie 30 punktów
-- pomysł plastyczny – maksymalnie 30 punktów
-- wykonanie – maksymalnie 20 punktów
-- działanie plakatu – maksymalnie 20 punktów
+- **ujęcie tematu** – maksymalnie 30 punktów  
+  Co praca mówi o życiu ze sztuczną inteligencją: trafność, oryginalność i pogłębienie wypowiedzi.
+- **pomysł plastyczny** – maksymalnie 30 punktów  
+  Jak to pokazuje: przełożenie wypowiedzi na obraz, metaforę i relacje między elementami. Niżej punktowane jest banalne użycie motywu, a nie sam motyw – znany symbol użyty świeżo punktuje wysoko.
+- **wykonanie** – maksymalnie 20 punktów  
+  Świadome zastosowanie techniki, koloru i rysunku.
+- **działanie plakatu** – maksymalnie 20 punktów  
+  Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w pomniejszeniu.
 
 Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 

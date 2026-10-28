@@ -56,10 +56,14 @@ Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozosta�
 
 Według [karty oceny](/dokument/regulamin-filmu#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
 
-- teza – maksymalnie 30 punktów
-- forma – maksymalnie 30 punktów
-- rzetelność – maksymalnie 20 punktów
-- siła oddziaływania – maksymalnie 20 punktów
+- **teza** – maksymalnie 30 punktów  
+  Co film mówi o sztucznej inteligencji i jej roli w świecie: oryginalność ujęcia tematu. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat – rzecz znana pokazana świeżo punktuje wysoko.
+- **forma** – maksymalnie 30 punktów  
+  Jak to pokazuje: czy środki filmowe służą tezie – montaż, obraz, dźwięk, rytm i wykorzystanie czasu, którym film dysponuje.
+- **rzetelność** – maksymalnie 20 punktów  
+  Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii. W filmie fabularnym i animowanym oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny.
+- **siła oddziaływania** – maksymalnie 20 punktów  
+  Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potrafi po obejrzeniu nazwać.
 
 Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 

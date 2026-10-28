@@ -50,10 +50,14 @@ Nie wszystkie zgłoszenia piosenek w plebiscycie. **Wstępną ocenę zgłoszonyc
 
 Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
 
-- ujęcie tematu – maksymalnie 25 punktów
-- tekst – maksymalnie 30 punktów
-- muzyka – maksymalnie 25 punktów
-- wykonanie – maksymalnie 20 punktów
+- **ujęcie tematu** – maksymalnie 25 punktów  
+  Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat.
+- **tekst** – maksymalnie 30 punktów  
+  Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
+- **muzyka** – maksymalnie 25 punktów  
+  Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w pamięci.
+- **wykonanie** – maksymalnie 20 punktów  
+  Wokal i interpretacja.
 
 Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 

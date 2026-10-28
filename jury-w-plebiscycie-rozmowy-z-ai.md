@@ -46,10 +46,14 @@ Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](
 
 Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria o równej wadze, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
 
-- rozpiętość, czyli jak nieoczywiste i jak uzasadnione jest wykonane połączenie – maksymalnie 25 punktów
-- drążenie, czyli czy autor dopytuje, kwestionuje i wraca do porzuconych wątków – maksymalnie 25 punktów
-- weryfikacja, czyli czy panuje nad rzetelnością rozmowy – maksymalnie 25 punktów
-- plon, czyli co z rozmowy zostało – maksymalnie 25 punktów
+- **rozpiętość** – maksymalnie 25 punktów  
+  Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin; połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.
+- **drążenie** – maksymalnie 25 punktów  
+  Czy autor dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi; czy późniejsze pytania wynikają z wcześniejszych odpowiedzi.
+- **weryfikacja** – maksymalnie 25 punktów  
+  Czy autor panuje nad rzetelnością rozmowy: sprawdza twierdzenia wymagające sprawdzenia, żąda uzasadnienia interpretacji, oznacza hipotezy jako niepewne i doprowadza wątpliwe wątki do rozstrzygnięcia. Oceniana jest kontrola jakości, a nie liczba przyłapań.
+- **plon** – maksymalnie 25 punktów  
+  Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło, powstały tekst, zmieniona decyzja lub pogląd. Połączenie, którego nie da się nazwać, nie jest punktowane.
 
 Każdy przedział punktowy ma opis określający podstawy przyznania oceny. Dwie zasady warto znać z góry: **oceniany jest wyłącznie dialog, a nie wytwory powstałe przy okazji** – dokumenty, kod, obrazy – oraz **rozmowy z nieudanymi pytaniami i porzuconymi wątkami nie są z tego powodu oceniane niżej**, bo pokazują rzeczywisty przebieg pracy.
 
