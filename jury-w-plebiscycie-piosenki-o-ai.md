@@ -59,6 +59,12 @@ Nie ocenia jakości produkcji – zgłoszeniem jest demo i wszyscy są w tej sam
 
 **Praca w jury jest płatna.** Stawkę uzgadniamy indywidualnie i potwierdzamy umową, razem z zakresem i terminami.
 
+### Hymn Nagrody
+
+Do tekstu „Zapytaj inaczej” powstaje [hymn Nagrody Konstela](/hymn), a **komponuje go i nagrywa skład jury**. Na stronie stoją dziś dwie wersje wygenerowane przez AI; trzecia ma być nowa i ludzka – melodia napisana od zera do tych samych słów, czyli dokładnie to, czego wymagamy od zgłaszających. Na gali hymn zabrzmi na żywo.
+
+Hymn stoi poza plebiscytem, więc jury niczego sobie nim nie zamyka: nie jest zgłoszeniem i nie konkuruje z utworami, które jury ocenia. **Udział w nagraniu jest dobrowolny**, a jego zakres i rozliczenie uzgadniamy osobno od pracy w jury.
+
 ### Niezależność werdyktu
 
 **Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Ocena trafia do publicznego [Archiwum](/plebiscyt-piosenki#archiwum) razem ze zgłoszeniami – dla wszystkich zgłoszeń, nie tylko dla finałowej dziesiątki. To obowiązuje w obie strony: ocena jest widoczna, więc musi dać się obronić. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik, nie rozkład głosów.
