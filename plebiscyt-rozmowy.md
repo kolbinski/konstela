@@ -60,6 +60,10 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akurat to zgłoszenie zasługuje na nagrodę główną. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [czytelni](#czytelnia) w czasie naboru i w Archiwum po werdykcie.
 
+### To nie jest chwalenie się
+
+To pole bywa najtrudniejsze w całym zgłoszeniu, więc wyjaśnijmy, po co jest. Nie prosimy, żebyś udowodnił, że jesteś lepszy od innych - prosimy, żebyś wskazał, co w tej jednej rozmowie było dla Ciebie ważne i w którym miejscu to się wydarzyło. Oceniający czyta kilkadziesiąt rozmów i nie zna Twojego kontekstu; jedno zdanie o tym, czego szukałeś i co znalazłeś, ustawia mu lekturę. Wystarczy napisać „nie umiałem zrozumieć, dlaczego kredyt na mieszkanie wychodzi mi dwa razy drożej, niż liczyłem, i dopiero w trzecim pytaniu zorientowałem się, że liczę nie to, co trzeba". To jest kompletne uzasadnienie. Pole jest widoczne publicznie, bo czytelnia bez niego byłaby ścianą surowych rozmów bez żadnego tropu - ale nie podlega ocenie w żadnym kryterium i nikt nie dostanie punktów za lepszą autoreklamę.
+
 ### Kontakt do autora
 
 **Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [czytelni](#czytelnia) i w [Archiwum](#czytelnia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
