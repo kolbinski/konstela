@@ -307,6 +307,24 @@ Regulamin piosenki przyrzeka każdemu z dziesięciu finalistów **nagranie study
 
 **Blokuje:** ogłoszenie nagrody w postaci nagrania studyjnego, a więc otwarcie naboru w plebiscycie piosenki.
 
+## Cs3. Umowy z jury i akademią (dodane 28.10.2026)
+
+Strona z ofertą dla jury plebiscytu piosenki obiecuje, że **stawkę, zakres i terminy potwierdzamy umową przed przyjęciem zadania**. Wzór takiej umowy musi więc istnieć, zanim ruszy kompletowanie składu. Ta sama potrzeba dotyczy akademii, która w każdym plebiscycie liczy kilkanaście do kilkudziesięciu osób, więc jej umowa musi być prostsza i powtarzalna.
+
+Prosimy o rozstrzygnięcie i o dwa wzory - dla jurora i dla członka akademii - obejmujące:
+
+**Rodzaj umowy i rozliczenie.** Czy ocena zgłoszeń jest dziełem, czy zleceniem; jak rozliczyć honorarium wobec osoby prowadzącej działalność gospodarczą, a jak wobec osoby, która jej nie prowadzi; czy przy ocenie powstaje utwór (karta oceny wraz z uzasadnieniem), a jeżeli tak - komu przysługują do niej prawa, skoro punktacja i uzasadnienia są publikowane w Archiwum.
+
+**Wyłączenie przy konflikcie interesów.** Jak skonstruować oświadczenie składane przed oceną i skutki jego naruszenia, żeby nie podważały werdyktu wobec pozostałych uczestników.
+
+**Poufność.** Zakres i czas, w szczególności wobec werdyktu ustalonego przed galą oraz wobec materiałów nieopublikowanych - nagrań z pracy nad plakatem i tekstów piosenek.
+
+**Niezależność i odpowiedzialność.** Jak zapisać, że jury nie jest przedstawicielem Organizatora i nie odpowiada za jego zobowiązania wobec uczestników, nie osłabiając przy tym wiążącego charakteru werdyktu.
+
+**Rezygnacja i zastąpienie.** Co dzieje się z ocenami członka, który rezygnuje w trakcie edycji, i kto wchodzi na jego miejsce.
+
+**Blokuje:** kompletowanie składu jury, które trwa już teraz, oraz nabór do akademii.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
