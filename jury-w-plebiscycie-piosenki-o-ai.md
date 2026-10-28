@@ -17,7 +17,7 @@
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
-### Co oceniasz
+### Co ocenia jury
 
 Nie wszystkie zgłoszenia piosenek w plebiscycie. **Pierwszą ocenę tych piosenek wykonuje [akademia](/plebiscyt-piosenki#kto-ocenia)** – grono muzyków z doświadczeniem w branży muzycznej, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
 
