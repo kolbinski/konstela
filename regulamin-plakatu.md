@@ -322,7 +322,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 2. **Po wyborze finalistów przez jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane prowizje i inne potrącenia, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
 
-2a. Propozycję, o której mowa w ust. 2, Organizator kieruje do finalistów **dopiero po ustaleniu przez jury pełnego werdyktu, to jest wyboru dziesięciu finalistów i kolejności całej dziesiątki** (§ 8 ust. 4b). **Jury nie jest informowane o tym, czy autor przyjął warunki licytacji, ani o treści jego odpowiedzi.** Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik plebiscytu, na nagrody i na udział w wystawie.
+2a. Propozycję, o której mowa w ust. 2, Organizator kieruje do finalistów **po wyborze dziesięciu finalistów przez jury** (§ 8 ust. 4b), łącznie z zawiadomieniem o obowiązku dostarczenia oryginału (§ 10 ust. 2). **Jury nie jest informowane o tym, czy autor przyjął warunki licytacji, ani o treści jego odpowiedzi, ani przed ustaleniem kolejności całej dziesiątki, ani po nim.** Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik plebiscytu, na nagrody i na udział w wystawie.
 
 2b. Licytacja może zostać przeprowadzona jako **cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) albo w inny sposób, w tym w serwisie aukcyjnym. **Licytacja nie zależy od pozyskania galerii**; brak galerii oznacza wyłącznie, że zmienia się forma i miejsce wskazane w warunkach z ust. 2.
 

@@ -21,7 +21,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - zgłaszasz **link do publicznie dostępnego filmu na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
-- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](#projektornia)**
+- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** - tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
 - nabór zamykamy **30 listopada 2027**
@@ -106,7 +106,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#projektornia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 ### Dwa linki: film i zwiastun
 
@@ -231,7 +231,7 @@ Film i zwiastun odtwarzają się z Twojego kanału, bo kopii u siebie nie przech
 
 W Projektorni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona oglądaniem, a przy ocenianiu przez akademię, jury i publiczność właśnie tego chcemy uniknąć. Film można oznaczyć gwiazdką i wrócić do niego później; gwiazdki zostają w przeglądarce widza i nigdy nie trafiają do nas. Listę filmów oznaczonych gwiazdką można wyeksportować i wczytać na innym urządzeniu; korzystanie z Projektorni nie wymaga konta.
 
-### Archiwum
+<h3 id="archiwum">Archiwum</h3>
 
 Po ogłoszeniu wyników Projektornia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim wszystko to, co było we wpisie, wraz z rokiem edycji, a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
 

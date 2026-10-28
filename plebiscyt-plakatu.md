@@ -17,8 +17,8 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
 - zwycięska praca trafia na okładkę **[antologii](/#antologia)** - zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
-- wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#galeria)**
-- po ocenach możesz - ale nie musisz - wystawić oryginał na **[licytację](#licytacja)**; połowa ceny trafia do Ciebie, połowa do puli nagród kolejnej edycji
+- wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
+- finaliści mogą - ale nie muszą - wystawić oryginał na **[licytację](#licytacja)**; połowa ceny trafia do autora, połowa do puli nagród kolejnej edycji
 - zgłaszasz **jedną pracę w jednej edycji**
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż w pozostałych plebiscytach, bo antologia musi zdążyć do druku
 
@@ -56,9 +56,9 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 Spośród czterech dziedzin Nagrody ta jedna została uderzona przez sztuczną inteligencję najmocniej i najszybciej. Ilustracja i plakat były pierwszymi zawodami, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić - i pierwszymi, w których ludzie zaczęli pytać, czy ich praca jeszcze ma sens. Spór o AI nigdzie nie jest tak głośny i tak osobisty jak tutaj.
 
-**Nie rozstrzygamy tego sporu, tylko stawiamy po jednej stronie konkretną propozycję.** Zgłoszona praca ma powstać pod ludzką ręką: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co człowiek ma do powiedzenia o maszynie, której się boi albo której używa**, kiedy mówi to własną ręką.
+**Nie rozstrzygamy tego sporu, tylko stawiamy po jednej stronie konkretną propozycję.** Zgłoszona praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co człowiek ma do powiedzenia o maszynie, której się boi albo której używa**, kiedy mówi to własną ręką.
 
-Dlatego nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być pochwałą AI, czy ostrzeżeniem przed nią. **Nie pytamy też o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
+**Nie pytamy o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
@@ -95,11 +95,11 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#galeria). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
 
 ### Zdjęcie pracy, nagranie i materiały
 
-**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wówczas zostaniesz poinformowany o dostarczeniu w ciągu 21 dni oryginału. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
+**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie - oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
 **Dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 5 minut się nie liczą.
 
@@ -190,10 +190,6 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 <h3>Nagroda dla publicznych ocen zgłoszonych plakatów</h3>
 <p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#oceny-publicznosci">najlepszy według Ciebie plakat</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
 </article>
-<article>
-<h3>Okładka antologii</h3>
-<p>Zwycięska praca ukazuje się na okładce książki z najlepszymi rozmowami edycji, z nazwiskiem autora na stronie redakcyjnej. <strong>Zgoda na to jest warunkiem udziału</strong> - formę okładki uzgadniamy z Tobą.</p>
-</article>
 </div>
 
 ### Okładka antologii
@@ -224,7 +220,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 **Prace, które przeszły weryfikację formalną, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
 
-### Archiwum
+<h3 id="archiwum">Archiwum</h3>
 
 **Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję - oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
 
