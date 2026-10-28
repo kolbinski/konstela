@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/plakat.jpg" srcset="/assets/plakat-800.jpg 800w, /assets/plakat.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Malarka siedzi nocą na skale nad doliną i maluje na sztalugach plakat: złotą ludzką dłoń wyciągniętą do niebieskiej dłoni mechanicznej. Od miejsca, w którego dotyka pędzlem, biegnie w rozgwieżdżone niebo złota linia, która układa się w konstelację.">
 
@@ -77,7 +77,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość - decyzja należy do Ciebie.
 
 ### Link do własnej sprzedaży
 
@@ -184,19 +184,19 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Okładka jest zapowiedzianą częścią tego plebiscytu, więc zgoda na nią jest warunkiem udziału.** Zgłaszając pracę, wiesz, że jeśli wygrasz, znajdzie się ona na okładce antologii, z Twoim nazwiskiem albo pseudonimem na stronie redakcyjnej. Antologia jest bezpłatnym e-bookiem, a po pozyskaniu wydawnictwa także wydaniem książkowym; okładką jest Twoja praca w obu wersjach.
 
-**Formę okładki uzgadniamy z Tobą.** Zaraz po werdykcie, czyli przed galą, dostajesz propozycję kadru i typografii, a na uwagi masz 7 dni. Praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki, więc nie oczekujemy od Ciebie poprawek. **Jeżeli nie dojdziemy do porozumienia co do formy, okładką zostaje reprodukcja całej pracy bez kadrowania**, a typografia idzie poza pole obrazu - żeby żadna ze stron nie była zakładnikiem drugiej. Twoje autorskie prawa osobiste, w tym prawo do nienaruszalności formy, zostają przy Tobie.
+**Formę okładki uzgadniamy z Tobą.** Zaraz po werdykcie, czyli przed galą, dostajesz propozycję kadru i typografii, a na uwagi masz 7 dni. Praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki, więc nie oczekujemy od Ciebie poprawek. **Jeżeli nie dojdziemy do porozumienia co do formy, okładką zostaje reprodukcja całej pracy bez kadrowania**, a tytuł i pozostałe napisy umieszczamy poza polem obrazu - żeby żadna ze stron nie była zakładnikiem drugiej. Twoje autorskie prawa osobiste, w tym prawo do nienaruszalności formy, zostają przy Tobie.
 
 ### Wystawy
 
 **Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a oryginałem dysponujemy nie dłużej niż 150 dni od jego odebrania.
 
-**Wystawa w galerii sztuki - jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem - już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycja idzie do finalistów w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć - nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
+**Wystawa w galerii sztuki - jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem - już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć - nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
 <h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych plakatów</span></h2>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
-**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na który głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
@@ -244,7 +244,7 @@ Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwi
 
 **Nie jesteśmy stroną tej sprzedaży.** Nie pośredniczymy, nie przyjmujemy zapłaty, nie sprawdzamy ceny ani przebiegu transakcji i nie odpowiadamy za jej wykonanie. Datę przyjmujemy taką, jaką podasz. Link usuniemy albo zmienimy na Twoją prośbę w ciągu 14 dni, a nie opublikujemy takiego, który nie działa.
 
-**Dwie rzeczy warto wiedzieć z góry.** Sprzedaż niczego nie zmienia w sprawie oryginału: tak jak każdy finalista możesz go przysłać albo nie, bez utraty nagrody. Jeżeli go przyślesz - pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może rozpoznawalnie wskazać osobę podpisaną pseudonimem.
+**Dwie rzeczy warto wiedzieć z góry.** Sprzedaż niczego nie zmienia w sprawie oryginału: tak jak każdy finalista możesz go przysłać albo nie, bez utraty nagrody. Jeżeli go przyślesz - pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może pozwolić ustalić tożsamość osoby podpisanej pseudonimem.
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 

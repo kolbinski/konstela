@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - napiszemy w dniu otwarcia naboru, a potem jeszcze raz, gdy [edycja będzie już pewna](#wymagania). Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) - napiszemy w dniu otwarcia naboru, a potem jeszcze raz, gdy [edycja będzie już pewna](#wymagania). Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/film.jpg" srcset="/assets/film-800.jpg 800w, /assets/film.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji.">
 
@@ -84,7 +84,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość - decyzja należy do Ciebie.
 
 ### Dwa linki: film i zwiastun
 
@@ -183,7 +183,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
-**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na który głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
@@ -283,7 +283,7 @@ Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszon
 
 Nie ukrywamy, że to najdroższy plebiscyt z czterech dla osoby, która się zgłasza. Film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a my nie finansujemy produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało - a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
 
-Druga rzecz, o której trzeba powiedzieć wprost: **przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji**. To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie - z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zostaw adres](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
+Druga rzecz, o której trzeba powiedzieć wprost: **przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji**. To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie - z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
 
 **Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
 

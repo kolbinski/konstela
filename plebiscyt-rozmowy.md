@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/rozmowa.jpg" srcset="/assets/rozmowa-800.jpg 800w, /assets/rozmowa.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="941" alt="Kobieta z laptopem na skale nad doliną o zmierzchu rysuje palcem linie między gwiazdami; z konstelacji wyłaniają się obrazy - planeta, galaktyka, otwarta książka, muszla amonitu, rzeźba, góry - połączone świetlistymi liniami." />
 
@@ -62,11 +62,11 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### To nie jest chwalenie się
 
-To pole bywa najtrudniejsze w całym zgłoszeniu, więc powiedzmy wprost, czego w nim szukamy. **Nie porównania z innymi zgłoszeniami - tego nie jesteś w stanie zrobić i nikt tego od Ciebie nie oczekuje.** Napisz, co w tej jednej rozmowie było dla Ciebie ważne i w którym miejscu to się wydarzyło; to jest odpowiedź na pytanie, dlaczego warto tę rozmowę przeczytać. Oceniający czyta kilkadziesiąt rozmów i nie zna Twojego kontekstu; jedno zdanie o tym, czego szukałeś i co znalazłeś, ustawia mu lekturę. Wystarczy napisać „nie umiałem zrozumieć, dlaczego kredyt na mieszkanie wychodzi mi dwa razy drożej, niż liczyłem, i dopiero w trzecim pytaniu zorientowałem się, że liczę nie to, co trzeba". To jest kompletne uzasadnienie. Pole jest widoczne publicznie, bo czytelnia bez niego byłaby ścianą surowych rozmów bez żadnego tropu - ale nie podlega ocenie w żadnym kryterium i nikt nie dostanie punktów za lepszą autoreklamę.
+To pole bywa najtrudniejsze w całym zgłoszeniu, więc powiedzmy wprost, czego w nim szukamy. **Nie porównania z innymi zgłoszeniami - tego nie jesteś w stanie zrobić i nikt tego od Ciebie nie oczekuje.** Napisz, co w tej jednej rozmowie było dla Ciebie ważne i w którym miejscu to się wydarzyło; to jest odpowiedź na pytanie, dlaczego warto tę rozmowę przeczytać. Oceniający czyta kilkadziesiąt rozmów i nie zna Twojego kontekstu; jedno zdanie o tym, czego szukałeś i co znalazłeś, pomaga zrozumieć kontekst rozmowy. Wystarczy napisać „nie umiałem zrozumieć, dlaczego kredyt na mieszkanie wychodzi mi dwa razy drożej, niż liczyłem, i dopiero w trzecim pytaniu zorientowałem się, że liczę nie to, co trzeba". To jest kompletne uzasadnienie. Pole jest widoczne publicznie, bo czytelnia bez niego byłaby ścianą surowych rozmów bez żadnego tropu - ale nie podlega ocenie w żadnym kryterium i nikt nie dostanie punktów za lepszą autoreklamę.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [czytelni](#czytelnia) i w [Archiwum](#czytelnia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [czytelni](#czytelnia) i w [Archiwum](#czytelnia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość - decyzja należy do Ciebie.
 
 ### Tytuł i opis
 
@@ -133,7 +133,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 <article>
 <h3>Siedem wyróżnień</h3>
-<p>Reszta dziesiątki finalistów: <strong>również nagrody pieniężne</strong>, a do tego dyplom i miejsce w antologii.</p>
+<p>Pozostałych siedmioro finalistów: <strong>również nagrody pieniężne</strong>, a do tego dyplom i miejsce w antologii.</p>
 </article>
 <article>
 <h3>Nagroda Uczniowska</h3>
@@ -174,7 +174,7 @@ Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **m
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
-**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na którą głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 

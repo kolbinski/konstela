@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/piosenka.jpg" srcset="/assets/piosenka-800.jpg 800w, /assets/piosenka.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Kobieta z gitarą siedzi na skale nad doliną o zachodzie słońca i śpiewa do mikrofonu; z jej strony biegną w rozgwieżdżone niebo złote wstęgi światła, układające się w sceny z ludzkiego życia, a z drugiej strony wychodzi im naprzeciw niebieski, świetlisty zarys twarzy sztucznej inteligencji.">
 
@@ -77,7 +77,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość - decyzja należy do Ciebie.
 
 ### Link do nagrania i okładka
 
@@ -97,7 +97,7 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 
 ### Tekst wolno napisać z AI
 
-**Trzeba tylko powiedzieć jak.** Przegadałeś z AI temat, o jakim chcesz zaśpiewać, poprosiłeś o wersję tekstu i przepisałeś ją po swojemu - dozwolone. Wziąłeś wygenerowaną wersję bez zmian - też dozwolone, ważne, aby w zgłoszeniu była taka Twoja deklaracja. Nie ma progu własnej pracy, jest obowiązek prawdziwej deklaracji. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Nie pytamy o procenty, bo nikt nie umie ich uczciwie podać; pytamy o drogę. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja służy jawności, nie punktacji. Tekst napisany z AI i tekst napisany bez niej idą do oceny na tych samych zasadach. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
+**Trzeba tylko powiedzieć jak.** Przegadałeś z AI temat, o jakim chcesz zaśpiewać, poprosiłeś o wersję tekstu i przepisałeś ją po swojemu - dozwolone. Wziąłeś wygenerowaną wersję bez zmian - też dozwolone, ważne, aby w zgłoszeniu była taka Twoja deklaracja. Nie ma progu własnej pracy, jest obowiązek prawdziwej deklaracji. Przy zgłoszeniu opisujesz w kilku zdaniach, jak tekst powstał. Zamiast procentowego udziału AI prosimy o opis sposobu pracy, bo procentów nikt nie umie uczciwie podać. **Jury ocenia gotowy tekst, a nie sposób jego powstania** - deklaracja służy jawności, nie punktacji. Tekst napisany z AI i tekst napisany bez niej idą do oceny na tych samych zasadach. Tekst napisany w całości samodzielnie deklaruje się tak samo krótko.
 
 ### Produkcja i obróbka
 
@@ -196,7 +196,7 @@ Nagranie studyjne dla całej dziesiątki jest obietnicą kosztowną i dlatego wa
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
-**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na którą głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
 **Twoje nagranie ma działać do końca głosowania.** Jeśli zniknie, dostajesz co najmniej 14 dni na przywrócenie go albo wskazanie tego samego nagrania pod innym linkiem. Krótka awaria serwisu niczego Ci nie odbiera, ale jeśli nagranie było niedostępne nieprzerwanie dłużej niż 7 dni i nie wróci do zamknięcia głosowania, oddane na nie głosy nie liczą się do Nagrody Publiczności. Samo pominięcie głosów nie wyklucza zgłoszenia z oceny jury - o dalszym udziale decyduje to, czy przywrócisz dostęp w wyznaczonym terminie naprawczym.
 
@@ -216,7 +216,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 ### Katalog, nie skład nagrań
 
-**Nie przechowujemy u siebie nagrań.** Piosenka cały czas jest dostępna na Twoim kanale YouTube i to Ty nią zarządzasz. Dlatego jeśli kiedyś usuniesz nagranie, link po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. U nas leży wyłącznie okładka, którą sam przesyłasz, oraz metryczka nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
+**Nie przechowujemy u siebie nagrań.** Piosenka cały czas jest dostępna na Twoim kanale YouTube i to Ty nią zarządzasz. Dlatego jeśli kiedyś usuniesz nagranie, link po prostu przestanie działać, a my nie odtworzymy go z żadnego innego źródła. Przechowujemy wyłącznie okładkę, którą sam przesyłasz, oraz metryczkę nagrania - tytuł, czas trwania, data publikacji i identyfikator w serwisie. Metryczka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; zapisem brzmienia nie jest i nie zastępuje nagrania.
 
 <h3 id="archiwum">Archiwum</h3>
 
@@ -278,7 +278,7 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, raz
 
 **Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka galę. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 
-**[Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału.** Powstaje do jednego tekstu w trzech wersjach: dwóch wygenerowanych przez AI i trzeciej, którą napiszą i wykonają żywi muzycy - po to, żeby na gali dało się je usłyszeć obok siebie. Jeżeli zajmujesz się muzyką, strona hymnu mówi, czego do niego szukamy.
+**[Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału.** Powstaje do jednego tekstu w trzech wersjach: dwóch wygenerowanych przez AI i trzeciej, którą napiszą i wykonają muzycy - po to, żeby na gali dało się je usłyszeć obok siebie. Jeżeli zajmujesz się muzyką, strona hymnu mówi, czego do niego szukamy.
 
 **Na obecności czołowej trójki opiera się część artystyczna gali rozdania nagród**, więc udział uzgadniamy z laureatami zaraz po werdykcie. **Dojazd i nocleg całej dziesiątki finalistów pokrywa organizator.** Ani nieobecność z powodu choroby lub zdarzenia losowego, ani odmowa występu nie pozbawia nikogo nagrody - utwór nie jest wtedy wykonywany na żywo.
 
