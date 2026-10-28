@@ -180,7 +180,7 @@
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
 | Teza | 30 | **Co film mówi** o sztucznej inteligencji i jej roli w świecie: oryginalność ujęcia tematu. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat – rzecz znana pokazana świeżo punktuje wysoko |
-| Forma | 30 | **Jak to pokazuje**: czy środki filmowe służą tezie – montaż, obraz, dźwięk, rytm i wykorzystanie czasu, którym film dysponuje |
+| Forma | 30 | **Jak film to pokazuje**: jak wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza |
 | Rzetelność | 20 | Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii. W filmie fabularnym i animowanym oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny |
 | Siła oddziaływania | 20 | Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potrafi po obejrzeniu nazwać |
 | Razem | 100 | |
@@ -220,7 +220,7 @@ Co film mówi o sztucznej inteligencji i jej roli w świecie. Oceniana jest oryg
 
 #### Forma – 30 punktów
 
-Czy środki filmowe służą tezie: montaż, obraz, dźwięk, rytm i to, czy czas trwania jest uzasadniony konstrukcją filmu.
+Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza, w tym to, czy czas trwania jest uzasadniony konstrukcją filmu.
 
 | Pasmo | Co to znaczy |
 |---|---|
