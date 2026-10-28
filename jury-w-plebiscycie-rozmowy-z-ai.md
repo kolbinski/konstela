@@ -71,7 +71,7 @@ Dziesięć rozmów z antologii ukazuje się **z komentarzem jury** – kilka zda
 
 Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrody głównej” – te trzy pola są widoczne publicznie, ale wyłączone z punktacji. Nie ocenia też wykształcenia ani doświadczenia autora. Nie prowadzi rozmów weryfikacyjnych z finalistami, bo robi to organizator, i nie zajmuje się obsługą plebiscytu, moderacją ani korespondencją z uczestnikami. Jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo zgodności zgłoszenia z zasadami, przekazuje je organizatorowi do wyjaśnienia; **oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację**.
 
-## <!--ikona:tarcza--><span>Co dajemy</span>
+## <!--ikona:tarcza--><span>Warunki współpracy</span>
 
 ### Honorarium
 
@@ -79,7 +79,7 @@ Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrod
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Oceny trafiają do publicznego [Archiwum](/plebiscyt-rozmowy#czytelnia) razem ze zgłoszeniami, każda na swoim etapie: oceny akademii dla wszystkich zgłoszeń, oceny jury dla rozmów, które jury oceniało, i osobno głosy publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-rozmowy#czytelnia) publikujemy wyniki poszczególnych etapów: oceny akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla rozmów, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
 ### Antologia zostaje po edycji
 

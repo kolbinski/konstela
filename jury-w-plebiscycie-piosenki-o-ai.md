@@ -67,7 +67,7 @@ Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie styczn
 
 Nie ocenia jakości produkcji – zgłoszeniem jest demo, więc zasady oceny są dla wszystkich równe, choć warunki nagrania równe nie są: jeden ma domowe studio, drugi telefon. Nie szuka też w nagraniu śladów sztucznej inteligencji: **tekst wolno napisać przy jej udziale w dowolnym zakresie, aż do wersji wygenerowanej i przyjętej bez zmian**, pod warunkiem opisania tego w deklaracji dołączanej do zgłoszenia i publikowanej razem z nim; melodia, harmonia i wokal muszą być ludzkie, co weryfikujemy oświadczeniem, nie odsłuchem. Jury nie zajmuje się również obsługą plebiscytu, przydziałami ani korespondencją z uczestnikami – to praca organizatora.
 
-## <!--ikona:tarcza--><span>Co dajemy</span>
+## <!--ikona:tarcza--><span>Warunki współpracy</span>
 
 ### Honorarium
 
@@ -75,7 +75,7 @@ Nie ocenia jakości produkcji – zgłoszeniem jest demo, więc zasady oceny są
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Oceny trafiają do publicznego [Archiwum](/plebiscyt-piosenki#archiwum) razem ze zgłoszeniami, każda na swoim etapie: oceny akademii dla wszystkich zgłoszeń, oceny jury dla utworów, które jury oceniało, i osobno głosy publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-piosenki#archiwum) publikujemy wyniki poszczególnych etapów: oceny akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla utworów, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
 ### Wpływ na kształt edycji
 

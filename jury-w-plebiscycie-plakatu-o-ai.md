@@ -71,7 +71,7 @@ Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – 
 
 **Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; ewentualny udział członków jury w tych działaniach wymaga osobnego uzgodnienia zakresu pracy i wynagrodzenia. Nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
 
-## <!--ikona:tarcza--><span>Co dajemy</span>
+## <!--ikona:tarcza--><span>Warunki współpracy</span>
 
 ### Honorarium
 
@@ -79,7 +79,7 @@ Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – 
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Oceny trafiają do publicznego [Archiwum](/plebiscyt-plakatu#archiwum) razem ze zgłoszeniami, każda na swoim etapie: oceny akademii dla wszystkich zgłoszeń, oceny jury dla prac, które jury oceniało, i osobno głosy publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-plakatu#archiwum) publikujemy wyniki poszczególnych etapów: oceny akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla prac, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
 ### Oryginały, nie tylko pliki
 
