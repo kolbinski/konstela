@@ -22,6 +22,17 @@
 
 5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
 
+
+## § 1b. Gala i jej przesunięcie
+
+1. Gala jest **wspólna dla wszystkich plebiscytów Nagrody Konstela** i odbywa się w terminie ogłoszonym przy otwarciu naboru.
+
+2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych - w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie - ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
+
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. Ogłoszenie takie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+
+4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
+
 ## § 2. Przedmiot Nagrody
 
 1. Nagroda przyznawana jest osobom fizycznym za **rozmowę przeprowadzoną z modelem sztucznej inteligencji**, w której Uczestnik doszedł do wniosku, połączenia lub rozwiązania, którego nie znał przed jej rozpoczęciem.
@@ -700,6 +711,17 @@ Wybór ten nie wpływa na wynik, wysokość nagrody ani na miejsce w kolejności
    k) **Kolejność kontroli przy dziesiątce antologii.** Kontrolę z lit. e i j dla zgłoszeń zakwalifikowanych do dziesiątki Organizator przeprowadza **przed ustaleniem przez jury ostatecznej kolejności**, a jej wynik przekazuje jury **jako informację o stanie faktycznym, nie jako rekomendację**. jury nie jest nim związana przy ocenie. Celem jest wyłącznie to, aby o ewentualnej niemożności opublikowania rozmowy wiedziano przed przyznaniem nagrody, a nie po nim.
 
 Celem Archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjnego oraz przejrzystość plebiscytu. Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, ponieważ dopiero taki zbiór pokazuje, jak ludzie rzeczywiście rozmawiali, a nie wyłącznie to, co zostało wybrane. Ryzyko publikacji ogranicza oznaczanie zastrzeżeń prawnych przez oceniających (§ 8 ust. 3a) i rozstrzyganie przez Organizatora co do zgłoszeń oznaczonych (ust. 11 lit. e-f1).
+
+
+12. **Czytanie sceniczne rozmowy zwycięskiej.** Elementem gali jest dialog czytany: **zwycięzca czyta ze sceny swoją część rozmowy, a wypowiedzi sztucznej inteligencji czyta narrator wskazany przez Organizatora**. Udział w czytaniu jest **obowiązkiem laureata nagrody głównej**, wynikającym z przyjęcia nagrody, na następujących zasadach:
+
+   a) Organizator przekazuje laureatowi skrót rozmowy przeznaczony do czytania **nie później niż 14 dni przed galą** i uzgadnia z nim jego treść; laureat może żądać skreśleń, a Organizator je uwzględnia;
+
+   b) laureat udziela Organizatorowi zgody na **utrwalenie i rozpowszechnianie zapisu wideo gali wraz z czytaniem oraz na wykorzystanie swojego wizerunku w tym zapisie i w materiałach informacyjnych o Nagrodzie, przez pięć lat od dnia gali**; prawa do samej rozmowy pozostają przy nim, zgodnie z ust. 1;
+
+   c) jeżeli laureat nie może wziąć udziału w gali z przyczyn od niego niezależnych (§ 8 ust. 16-17), czytanie wykonuje za niego osoba przez niego wskazana albo narrator; **nie powoduje to utraty nagrody ani miejsca w werdykcie**;
+
+   d) laureat, który nie ukończył 18 lat, bierze udział w czytaniu za zgodą przedstawiciela ustawowego (§ 3 ust. 1a lit. d).
 
 ## § 12. Dane osobowe
 

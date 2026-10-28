@@ -257,7 +257,7 @@ Zgłoszenia osób zainteresowanych udziałem w podcaście prosimy kierować na a
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [nagrań finalistów plebiscytu piosenki](/plebiscyt-piosenki).
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych - z nagraniami studyjnymi.
 
 Elementem gali jest **dialog czytany**: zwycięzca plebiscytu czyta ze sceny swoją część dialogu z AI, a odpowiedzi sztucznej inteligencji czyta narrator.
 

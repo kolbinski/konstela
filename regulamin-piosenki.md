@@ -27,6 +27,17 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
 
+
+## § 1b. Gala i jej przesunięcie
+
+1. Gala jest **wspólna dla wszystkich plebiscytów Nagrody Konstela** i odbywa się w terminie ogłoszonym przy otwarciu naboru.
+
+2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych - w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie - ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
+
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. Ogłoszenie takie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+
+4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem plebiscytu jest własna piosenka o sztucznej inteligencji i jej roli w świecie: własny tekst, własna muzyka i własne wykonanie Uczestnika.
@@ -317,6 +328,9 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 6a. Odmowa zawarcia umowy z wydawnictwem nie pozbawia finalisty nagrania studyjnego, praw do niego ani żadnej innej nagrody.
 
 7. Organizator może zlecić produkcję nagrań jednemu producentowi dla wszystkich finalistów. Finalista, który ma własnego producenta albo zobowiązania wobec wydawnictwa, zgłasza to Organizatorowi; sposób postępowania uzgadniany jest indywidualnie.
+
+
+8. **Playlista finalistów i kod QR w antologii.** Organizator prowadzi **playlistę finalistów edycji**, do której kieruje kod QR umieszczony w antologii. Playlista zawiera **nagrania zgłoszone do plebiscytu**, a po przeprowadzeniu sesji studyjnych - **nagrania studyjne**, w każdym wypadku **wyłącznie te, na których umieszczenie finalista wyraził zgodę**. Zgoda jest odrębna od licencji z § 15 i można ją wycofać; wycofanie powoduje usunięcie nagrania z playlisty w terminie 14 dni i nie wpływa na nagrodę ani na miejsce w werdykcie. Kod QR prowadzi do playlisty, a nie do pojedynczego nagrania, więc jej zmiana nie wymaga zmiany antologii.
 
 ## § 14. Gala
 

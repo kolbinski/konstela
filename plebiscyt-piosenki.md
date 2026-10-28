@@ -261,7 +261,7 @@ Potrzebujemy prawa **niewyłącznego** i w wypisanych zakresach: pokazanie zgło
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [nagrań finalistów plebiscytu piosenki](/plebiscyt-piosenki).
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych - z nagraniami studyjnymi.
 
 **Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka galę. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 

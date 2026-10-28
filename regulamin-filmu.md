@@ -27,6 +27,17 @@
 
 5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
 
+
+## § 1b. Gala i jej przesunięcie
+
+1. Gala jest **wspólna dla wszystkich plebiscytów Nagrody Konstela** i odbywa się w terminie ogłoszonym przy otwarciu naboru.
+
+2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych - w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie - ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
+
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. Ogłoszenie takie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+
+4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem Plebiscytu jest **film o sztucznej inteligencji i jej roli w świecie**, dowolnej formy: fabularnej, dokumentalnej, eseju filmowego, animacji albo formy mieszanej.
