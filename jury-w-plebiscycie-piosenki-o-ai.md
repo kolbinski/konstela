@@ -17,7 +17,11 @@ Skład kompletujemy teraz, przed otwarciem naboru, bo **wagi kryteriów i karta 
 3. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
-**Plebiscyt na najlepszą piosenkę jest otwarty dla każdego, kto napisze tekst i nagra własny utwór o sztucznej inteligencji** – własny tekst, własna muzyka, własne wykonanie, po polsku. Zgłoszeniem jest demo: link do nagrania na własnym kanale, bez wymogu studia, wydawcy i zasięgów. Nie nagradzamy produkcji ani popularności, tylko piosenkę.
+**Plebiscyt na najlepszą piosenkę o sztucznej inteligencji jest otwarty dla każdego, kto napisze tekst i nagra własny utwór** – własny tekst, własna muzyka, własne wykonanie, po polsku.
+
+**Dlaczego akurat o sztucznej inteligencji.** Bo to pierwsza rzecz od czasu streamingu, która zmienia w tej branży wszystko naraz. Generatory produkują gotowe nagrania szybciej, niż da się je przesłuchać, serwisy zapełniają się utworami, za którymi nie stoi żaden człowiek, a klonowanie głosu stawia pytania, na które nie ma jeszcze ani prawa, ani zwyczaju. Plebiscyt niczego w tym sporze nie rozstrzyga – prosi muzyków, żeby powiedzieli o tym po swojemu, piosenką.
+
+Zgłoszeniem w plebiscycie jest demo: link do nagrania na własnym kanale, bez wymogu studia, wydawcy i zasięgów. Nie nagradzamy produkcji ani popularności, tylko piosenkę.
 
 **Dziesięciu finalistów nagrywa swój utwór w studiu na koszt organizatora, a gotowe nagranie zostaje przy autorze piosenki** – może je wydać, umieścić w serwisach i grać, a fundacja nie bierze z tego prowizji. Trzy pierwsze miejsca dostają nagrody pieniężne i wykonują utwory na żywo podczas [gali rozdania nagród](/#gala).
 
