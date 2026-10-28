@@ -281,6 +281,8 @@ Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszon
 
 <h2 id="wymagania"><!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span></h2>
 
+Mówimy o tym z takim wyprzedzeniem dlatego, że **film trwający od 20 do 90 minut planuje się z wyprzedzeniem** - a zgłoszony film ma powstać na potrzeby tego plebiscytu.
+
 Nie ukrywamy, że to najdroższy plebiscyt z czterech dla osoby, która się zgłasza. Film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a my nie finansujemy produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało - a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
 
 Druga rzecz, o której trzeba powiedzieć wprost: **przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji**. To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie - z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zostaw adres](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
