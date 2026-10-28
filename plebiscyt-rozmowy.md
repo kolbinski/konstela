@@ -265,7 +265,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:iskra--><span>Gala</span>
 

@@ -84,7 +84,7 @@ Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-piosenki), w wers
 
 **Nabór otwieramy dopiero po zabezpieczeniu finansowania.** Plebiscytu z nagrodami, których nie ma, nie ogłaszamy: ogłaszamy wyłącznie kwoty, które wpłynęły wcześniej na rachunek organizatora. Dotyczy to także honorariów jury.
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt.
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt.
 
 ## <!--ikona:koperta--><span>Jeżeli to brzmi sensownie</span>
 
