@@ -4,9 +4,14 @@
 
 ## <!--ikona:zespol--><span>Kogo szukamy</span>
 
-**Muzyków, wokalistów, autorów tekstów i producentów** – osób, które na co dzień pracują przy piosence i potrafią ocenić cudzą. Dorobek sceniczny, dyskografia ani rozpoznawalność nie są warunkiem; liczy się doświadczenie w robieniu piosenek i gotowość do uzasadnienia własnej oceny.
+**Kompozytorów, autorów tekstów, wokalistów i producentów z doświadczeniem w tworzeniu piosenek** – osób, które potrafią analizować piosenki i rzeczowo uzasadniać oceny. Zależy nam na uzupełniających się kompetencjach w składzie. Przy doborze jury patrzymy na doświadczenie i przykłady pracy; rozpoznawalność medialna nie jest warunkiem.
 
-Skład kompletujemy teraz, przed otwarciem naboru, bo **wagi kryteriów i karta oceny powstają z udziałem jury**.
+**Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
+
+- jury dostaje od akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki**;
+- **praca jest płatna** i potwierdzana umową;
+- **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę ocenianych utworów, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
+- **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
 ## <!--ikona:nuta--><span>O co chodzi</span>
 
@@ -25,7 +30,7 @@ Skład kompletujemy teraz, przed otwarciem naboru, bo **wagi kryteriów i karta 
 
 ### Dlaczego akurat o sztucznej inteligencji
 
-Bo to pierwsza rzecz od czasu streamingu, która zmienia w tej branży wszystko naraz. Generatory produkują gotowe nagrania szybciej, niż da się je przesłuchać, serwisy zapełniają się utworami, za którymi nie stoi żaden człowiek, a klonowanie głosu stawia pytania, na które nie ma jeszcze ani prawa, ani zwyczaju. Plebiscyt niczego w tym sporze nie rozstrzyga – prosi muzyków, żeby powiedzieli o tym po swojemu, piosenką.
+Generowanie muzyki i syntetyczne głosy zmieniają warunki tworzenia, publikowania i odbioru piosenek. Wywołują pytania o autorstwo, o zgodę na wykorzystanie głosu i o wartość pracy twórczej. Zapraszamy autorów do własnej wypowiedzi na ten temat – bez narzucania stanowiska wobec AI.
 
 ### Czym jest zgłoszenie
 
@@ -33,71 +38,73 @@ Zgłoszeniem w plebiscycie jest demo: link do nagrania na własnym kanale, bez w
 
 ### Co dostają finaliści
 
-**Dziesięciu finalistów nagrywa swój utwór w studiu na koszt organizatora, a gotowe nagranie zostaje przy autorze piosenki** – może je wydać, umieścić w serwisach i grać, a fundacja nie bierze z tego prowizji. Trzy pierwsze miejsca dostają nagrody pieniężne i wykonują utwory na żywo podczas [gali rozdania nagród](/#gala).
+**Dziesięciu finalistów nagrywa swój utwór w studiu na koszt organizatora, a gotowe nagranie zostaje przy autorze piosenki** – może je wydać, umieścić w serwisach i grać, a fundacja nie bierze z tego prowizji. Laureaci trzech pierwszych miejsc otrzymują nagrody pieniężne, a zwycięską trójkę zapraszamy do wykonania utworów na żywo podczas [gali rozdania nagród](/#gala).
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
 ### Co ocenia jury
 
-Nie wszystkie zgłoszenia piosenek w plebiscycie. **Pierwszą ocenę tych piosenek wykonuje [akademia](/plebiscyt-piosenki#kto-ocenia)** – grono muzyków z doświadczeniem w branży muzycznej, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
+Nie wszystkie zgłoszenia piosenek w plebiscycie. **Wstępną ocenę zgłoszonych piosenek przeprowadza [akademia](/plebiscyt-piosenki#kto-ocenia)** – grono muzyków z doświadczeniem w branży muzycznej, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha zakwalifikowanych utworów, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Maksymalną liczbę utworów ocenianych przez jury ustalamy wspólnie, przed zawarciem umowy.
 
 ### Jak jury ocenia zgłoszone piosenki
 
-Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów: ujęcie tematu, tekst, muzyka i wykonanie. Każde pasmo punktowe ma opisane znaczenie, więc ocena nie sprowadza się do wyczucia.
+Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów: ujęcie tematu, tekst, muzyka i wykonanie. Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
 ### Ile to czasu
 
-Realnie: **kilkanaście godzin pracy skupionej na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów. Liczbę spotkań, zakres uzasadnień i zasady udziału w gali wpisujemy do umowy, razem z honorarium za ten zakres.
 
 ### Czego jury nie robi
 
-Nie ocenia jakości produkcji – zgłoszeniem jest demo i wszyscy są w tej samej sytuacji. Nie szuka w nagraniu śladów sztucznej inteligencji: tekst wolno napisać przy jej udziale, pod warunkiem zadeklarowania tego w zgłoszeniu, a melodia, harmonia i wokal muszą być ludzkie, co weryfikujemy oświadczeniem, nie odsłuchem. Jury nie zajmuje się też obsługą plebiscytu, przydziałami ani korespondencją z uczestnikami – to praca organizatora.
+Nie ocenia jakości produkcji – zgłoszeniem jest demo, więc zasady oceny są dla wszystkich równe, choć warunki nagrania równe nie są: jeden ma domowe studio, drugi telefon. Nie szuka też w nagraniu śladów sztucznej inteligencji: **tekst wolno napisać przy jej udziale w dowolnym zakresie, aż do wersji wygenerowanej i przyjętej bez zmian**, pod warunkiem opisania tego w deklaracji dołączanej do zgłoszenia i publikowanej razem z nim; melodia, harmonia i wokal muszą być ludzkie, co weryfikujemy oświadczeniem, nie odsłuchem. Jury nie zajmuje się również obsługą plebiscytu, przydziałami ani korespondencją z uczestnikami – to praca organizatora.
 
 ## <!--ikona:tarcza--><span>Co dajemy</span>
 
 ### Honorarium
 
-**Praca w jury jest płatna.** Stawkę uzgadniamy indywidualnie i potwierdzamy umową, razem z zakresem i terminami.
-
-### Hymn Nagrody
-
-Nagroda nie jest galą jednego wieczoru ani sporem o to, czy sztuczna inteligencja jest dobra. Jest o momencie, w którym ludzie uczą się z nią żyć – i taki moment zostaje w pamięci w jednej formie: w piosence, którą da się zanucić, a nie w regulaminie, który da się przeczytać. Cztery plebiscyty potrzebują jednego zdania wspólnego dla wszystkich, i to zdanie już jest: **zapytaj inaczej**.
-
-Tekst [hymnu Nagrody Konstela](/hymn) „Zapytaj inaczej” jest już napisany, a **muzykę komponuje i nagrywa skład jury**. Na stronie hymnu widnieją dwie wersje wygenerowane przez AI; trzecia ma być nowa i ludzka – melodia napisana od zera do tych samych słów, czyli dokładnie to, czego wymagamy od zgłaszających. Na gali hymn zabrzmi na żywo.
-
-Hymn stoi poza plebiscytem, więc jury niczego sobie nim nie zamyka: nie jest zgłoszeniem i nie konkuruje z utworami, które jury ocenia. **Udział w nagraniu jest dobrowolny**, a jego zakres i rozliczenie uzgadniamy osobno od pracy w jury.
+**Praca w jury jest płatna.** Stawkę uzgadniamy indywidualnie i potwierdzamy umową, razem z zakresem i terminami. Honorarium obejmuje zakres pracy wskazany w umowie.
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Ocena trafia do publicznego [Archiwum](/plebiscyt-piosenki#archiwum) razem ze zgłoszeniami – dla wszystkich zgłoszeń, nie tylko dla finałowej dziesiątki. To obowiązuje w obie strony: ocena jest widoczna, więc musi dać się obronić. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik, nie rozkład głosów.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Oceny trafiają do publicznego [Archiwum](/plebiscyt-piosenki#archiwum) razem ze zgłoszeniami, każda na swoim etapie: oceny akademii dla wszystkich zgłoszeń, oceny jury dla utworów, które jury oceniało, i osobno głosy publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
 ### Wpływ na kształt edycji
 
-Skład jury ogłaszamy przed otwarciem naboru, a wagi kryteriów i karta oceny powstają z jego udziałem. Plebiscyt powstaje i ma pierwszą edycję – rzeczy, które dziś są projektem, da się jeszcze zmienić w porozumieniu z jury.
+Skład jury ogłaszamy przed otwarciem naboru, a wagi kryteriów i karta oceny powstają z jego udziałem. Przygotowujemy pierwszą edycję plebiscytu – rzeczy, które dziś są projektem, da się jeszcze zmienić w porozumieniu z jury.
 
 ### Widoczność
 
-Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, materiałom promocyjnym, werdyktowi i gali. Przy pierwszej edycji działa to w obie strony i mówimy o tym otwarcie: **nazwisko w jury jest dla nas wiarygodnością, bez której nie pozyskamy ani sponsorów, ani zgłoszeń.**
+Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, materiałom promocyjnym, werdyktowi i gali. **Udział jurorów buduje wiarygodność pierwszej edycji** i mówimy o tym otwarcie, bo bez niej nie pozyskamy ani sponsorów, ani zgłoszeń.
+
+**Rozmowa o udziale nie oznacza zgody na publikację nazwiska.** Zakres komunikacji, warunki współpracy i moment ogłoszenia składu jury uzgadniamy indywidualnie.
 
 ## <!--ikona:zasady--><span>Zasady, które obowiązują jury</span>
 
-- **Wyłączenie przy konflikcie interesów.** Członek jury nie ocenia zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę. Przed oceną składa oświadczenie o braku takich okoliczności.
-- **Ocena nie jest głosowaniem.** O nagrodach głównych decyduje jury według karty oceny; publiczność ma własną, osobną nagrodę.
-- **Poufność werdyktu do gali.** Werdykt zapada przed galą, a publicznie ogłaszamy go dopiero na sali.
+- **Wyłączenie przy konflikcie interesów** – członek jury nie ocenia zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę. Oświadczenie składa przed oceną, a po zapoznaniu się z listą autorów zgłasza powiązania i aktualizuje je w toku pracy.
+- **Ocena nie jest głosowaniem** – o nagrodach głównych decyduje jury według karty oceny; publiczność ma własną, osobną nagrodę.
+- **Poufność werdyktu do gali** – werdykt zapada przed galą, a publicznie ogłaszamy go dopiero na sali.
 - **Jury nie jest przedstawicielem organizatora** i nie odpowiada za jego zobowiązania wobec uczestników.
 
 Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-piosenki), w wersji przeznaczonej dziś do przeglądu prawnego.
 
+## <!--ikona:mikrofon--><span>Osobna propozycja: hymn Nagrody</span>
+
+Nagroda nie jest galą jednego wieczoru ani sporem o to, czy sztuczna inteligencja jest dobra. Jest o momencie, w którym ludzie uczą się z nią żyć – a taki moment zostaje w pamięci raczej w piosence, którą da się zanucić, niż w dokumencie, który da się przeczytać. Cztery plebiscyty potrzebują jednego zdania wspólnego dla wszystkich, i to zdanie już jest: **zapytaj inaczej**.
+
+Tekst [hymnu Nagrody Konstela](/hymn) „Zapytaj inaczej” jest napisany, a **do skomponowania i nagrania muzyki zaprosimy zainteresowanych członków jury**. Na stronie hymnu widnieją dwie wersje wygenerowane przez AI; trzecia ma być nowa i ludzka – melodia napisana od zera do tych samych słów, czyli dokładnie to, czego wymagamy od zgłaszających. Na gali hymn zabrzmi na żywo.
+
+**Udział jest dobrowolny i nie jest warunkiem pracy w jury.** Udział w tworzeniu hymnu nie wpływa na pełnienie funkcji jurora: hymn stoi poza plebiscytem, nie jest zgłoszeniem i nie konkuruje z ocenianymi utworami. Zakres, wynagrodzenie, autorstwo i zasady wykorzystania utworu ustalamy w osobnej umowie.
+
 ## <!--ikona:etap--><span>Na jakim etapie jesteśmy</span>
 
-**Nabór otwieramy dopiero po zabezpieczeniu finansowania.** Plebiscytu z nagrodami, których nie ma, nie ogłaszamy: ogłaszamy wyłącznie kwoty, które wpłynęły wcześniej na rachunek organizatora. Dotyczy to także honorariów jury.
+**Nabór otwieramy dopiero po zabezpieczeniu finansowania.** Plebiscytu z nagrodami, których nie ma, nie ogłaszamy: ogłaszamy wyłącznie kwoty, które wpłynęły wcześniej na rachunek organizatora. Pracę jury rozpoczynamy po zabezpieczeniu środków na uzgodnione honoraria.
 
 Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt.
 
-## <!--ikona:koperta--><span>Jeżeli to brzmi sensownie</span>
+## <!--ikona:koperta--><span>Porozmawiajmy o udziale w jury</span>
 
 Napisz na adres **jury@konstela.org** lub zadzwoń: **[+48 503 520 004](tel:+48503520004)**.
 
-Odpowiadamy na wszystkie pytania, niejasności i wątpliwości – bez zobowiązania po żadnej ze stron.
+Odpowiemy na pytania i wyjaśnimy warunki współpracy – bez zobowiązania po żadnej ze stron.
 
 **Znasz kogoś, kto powinien o tym wiedzieć?** Ta strona jest po to, żeby dało się ją przesłać dalej jednym linkiem.
