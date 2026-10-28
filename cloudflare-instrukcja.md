@@ -225,7 +225,7 @@ Plik `regulamin.md` nosi teraz nazwę `regulamin-rozmowy.md`, więc strona powst
 - Status code: **301**
 - Preserve query string: **włączone**
 
-Dlaczego `eq`, a nie `starts_with`: `starts_with("/dokument/regulamin")` złapałby również `/dokument/regulamin-plakatu` i `/dokument/regulamin-plebiscytu` i przekierował je w złe miejsce. Dwa warunki z `eq` obsługują wersję z ukośnikiem na końcu i bez.
+Dlaczego `eq`, a nie `starts_with`: `starts_with("/dokument/regulamin")` złapałby również `/dokument/regulamin-plakatu` i `/dokument/regulamin-piosenki` i przekierował je w złe miejsce. Dwa warunki z `eq` obsługują wersję z ukośnikiem na końcu i bez.
 
 Dlaczego 301, a nie strona pośrednia z przekierowaniem w JavaScripcie: **301 zachowuje oryginalnego odsyłającego**, a strona pośrednia podmienia go na nasz własny adres - wtedy w statystykach każdy, kto przyszedł z pisma albo z cudzej strony, wyglądałby, jakby przyszedł od nas. Ta sama zasada obowiązuje przy wszystkich naszych przekierowaniach.
 
@@ -234,5 +234,13 @@ Dlaczego 301, a nie strona pośrednia z przekierowaniem w JavaScripcie: **301 za
 `/dokument/karta-oceny` ma przekierowywać na `https://konstela.org/dokument/regulamin-rozmowy#karta-oceny`, bo karta oceny została scalona z regulaminem jako załącznik nr 1. Wyrażenie:
 ```
 (http.request.uri.path eq "/dokument/karta-oceny") or (http.request.uri.path eq "/dokument/karta-oceny/")
+```
+Reszta ustawień jak wyżej.
+
+### Trzecia reguła, nadal niezrobiona
+
+`/dokument/regulamin-plebiscytu` ma przekierowywać na `https://konstela.org/dokument/regulamin-piosenki`. Dokument został przemianowany 28.10.2026, bo dawna nazwa sugerowała regulamin ogólny Nagrody, a chodzi o regulamin jednego plebiscytu. **Stary adres jest w obiegu**: wysłaliśmy go w nocie koncepcyjnej do ministerstwa i w korespondencji, więc musi prowadzić do dokumentu, a nie do strony 404. Wyrażenie:
+```
+(http.request.uri.path eq "/dokument/regulamin-plebiscytu") or (http.request.uri.path eq "/dokument/regulamin-plebiscytu/")
 ```
 Reszta ustawień jak wyżej.

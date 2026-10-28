@@ -411,7 +411,7 @@ Strona Nagrody (wersja robocza - finalną wykona agencja kreatywna): https://kon
 
 Regulamin Nagrody wraz z kartą oceny: https://konstela.org/dokument/regulamin-rozmowy
 
-Regulamin plebiscytu na piosenkę: https://konstela.org/dokument/regulamin-plebiscytu
+Regulamin plebiscytu na piosenkę: https://konstela.org/dokument/regulamin-piosenki
 
 Regulamin plebiscytu na plakat: https://konstela.org/dokument/regulamin-plakatu
 

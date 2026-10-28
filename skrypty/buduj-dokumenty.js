@@ -100,7 +100,7 @@ const DOMENA = 'https://konstela.org';
    czego potrzebuje ktoś, kto chce się zgłosić, a notatki robocze nie. */
 const PUBLICZNE = new Set([
   'regulamin-rozmowy',
-  'regulamin-plebiscytu',
+  'regulamin-piosenki',
   'polityka-prywatnosci',
   'plebiscyt-piosenki',
   'plebiscyt-plakatu',
@@ -144,7 +144,7 @@ const OPISY = {
     'Plebiscyt na rozmowę ze sztuczną inteligencją: nagradzamy człowieka, nie program, bo oceniamy pytania, a nie odpowiedzi. Kto może zgłosić rozmowę, cztery kryteria oceny, nagrody, czytelnia i archiwum.',
   'regulamin-rozmowy':
     'Pełne zasady plebiscytu na rozmowę ze sztuczną inteligencją: kto może się zgłosić, jak wygląda zgłoszenie, według czego ocenia jury i jakie są nagrody. Wraz z kartą oceny.',
-  'regulamin-plebiscytu':
+  'regulamin-piosenki':
     'Pełne zasady plebiscytu na piosenkę o sztucznej inteligencji: kto może zgłosić utwór, gdzie przebiega granica użycia AI, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do piosenki.',
   'polityka-prywatnosci':
     'Jakie dane zbiera Nagroda Konstela w każdym z czterech plebiscytów i w głosowaniu publiczności, w jakim celu, jak długo je przechowuje i jakie prawa przysługują uczestnikom.',

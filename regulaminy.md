@@ -12,7 +12,7 @@ Nagroda główna i dziesiątka antologii. Zgłoszeniem jest link do rozmowy, oce
 **[Regulamin plebiscytu na film o sztucznej inteligencji](/dokument/regulamin-filmu)**
 Film od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Jedyny regulamin bez zakazu użycia narzędzi sztucznej inteligencji - z obowiązkiem deklaracji, co zrobiły.
 
-**[Regulamin plebiscytu na piosenkę o sztucznej inteligencji](/dokument/regulamin-plebiscytu)**
+**[Regulamin plebiscytu na piosenkę o sztucznej inteligencji](/dokument/regulamin-piosenki)**
 Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać z AI, byle powiedzieć jak. Zawiera zasady nagrań studyjnych dziesiątki finalistów.
 
 **[Regulamin plebiscytu na plakat o sztucznej inteligencji](/dokument/regulamin-plakatu)**

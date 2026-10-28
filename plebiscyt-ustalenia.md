@@ -381,7 +381,7 @@ Powód merytoryczny: szybkość zgłoszenia nie ma nic wspólnego z jakością u
 
 ## Regulamin plebiscytu - decyzje z 25.10.2026
 
-Powstał `regulamin-plebiscytu.md`: osobny dokument, nie aneks do regulaminu Nagrody. Dziewiętnaście paragrafów, na końcu lista osiemnastu miejsc wymagających potwierdzenia przez kancelarię, zbudowana tak jak sekcja Ca w pytaniach dla Nagrody.
+Powstał `regulamin-plebiscytu.md` (28.10.2026 przemianowany na `regulamin-piosenki.md`, bo nazwa sugerowała regulamin ogólny): osobny dokument, nie aneks do regulaminu Nagrody. Dziewiętnaście paragrafów, na końcu lista osiemnastu miejsc wymagających potwierdzenia przez kancelarię, zbudowana tak jak sekcja Ca w pytaniach dla Nagrody.
 
 **Rozstrzygnięte przez Organizatora:**
 
@@ -420,7 +420,7 @@ Prośba o wycenę przeglądu projektu regulaminu plebiscytu wraz z odpowiedziami
 
 **Zmieniony przedmiot wyceny.** Wcześniej: odpowiedzi na listę pytań. Teraz: przegląd gotowego dokumentu plus odpowiedzi - tańsze i konkretniejsze niż pisanie regulaminu od zera.
 
-**Wersja wiążąca to ta ze strony, z 25.10.2026.** Bez załączników, dwa linki: /dokument/regulamin-plebiscytu i /dokument/prawnik-plebiscyt. Każda późniejsza zmiana ma być zgłaszana odrębnie.
+**Wersja wiążąca to ta ze strony, z 25.10.2026.** Bez załączników, dwa linki: /dokument/regulamin-piosenki i /dokument/prawnik-plebiscyt. Każda późniejsza zmiana ma być zgłaszana odrębnie.
 
 **Punkt 1 listy pytań zostaje na liście mimo dezaktualizacji.** Pyta, czy regulamin plebiscytu ma być osobnym dokumentem, czy aneksem; odpowiedź zapadła na rzecz osobnego dokumentu. Mail to prostuje i wyjaśnia, że punkt zostaje wyłącznie po to, by nie rozsynchronizować numeracji używanej w korespondencji. Dzięki temu nie trzeba przepisywać `prawnik-plebiscyt.md` przed wysyłką.
 

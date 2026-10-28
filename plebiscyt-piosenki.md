@@ -161,14 +161,14 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 
 **Czego nie oceniamy: okładki, jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
 
-Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plebiscytu), a [karta oceny](/dokument/regulamin-plebiscytu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
+Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [karta oceny](/dokument/regulamin-piosenki#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
 <h2 id="kto-ocenia"><!--ikona:jury--><span>Kto ocenia</span></h2>
 
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia piosenki</h3>
-<p><strong>Wszystkich zgłoszeń, które przeszły weryfikację formalną, słucha akademia piosenki</strong> - grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plebiscytu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób słucha jednego utworu i jak powstaje lista, mówimy przed otwarciem naboru.</p>
+<p><strong>Wszystkich zgłoszeń, które przeszły weryfikację formalną, słucha akademia piosenki</strong> - grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-piosenki#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób słucha jednego utworu i jak powstaje lista, mówimy przed otwarciem naboru.</p>
 </article>
 <article>
 <h3>Jury</h3>
