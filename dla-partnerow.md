@@ -25,7 +25,11 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
 
-## <!--ikona:wspolpraca--><span>Czego szukamy</span>
+## <!--ikona:wspolpraca--><span>Kogo i czego szukamy</span>
+
+**Szukamy firm i instytucji, które wezmą na siebie jeden konkretny element pierwszej edycji** - nagrody w jednym z plebiscytów, druk antologii, sesje nagraniowe finalistów, salę na galę, przestrzeń na wystawę plakatów albo pokazy filmów w kinie. Szukamy też ludzi: osoby, która poprowadzi podcast, i tych, którzy zasiądą w akademii oceniającej zgłoszenia.
+
+**Poniższa lista to zamknięty zbiór zakresów, a nie prośba o wsparcie w ogólności.** Każdy z nich ma swój kosztorys i każdy można wziąć w całości albo w części - w pieniądzach, w usłudze albo w świadczeniu rzeczowym. Do każdego szukamy osobnego partnera, więc wzięcie jednego nie wiąże w niczym poza nim.
 
 **Zakres, kosztorys i proponowane warunki współpracy wysyłamy na życzenie.** Budżet pierwszej edycji jest policzony pozycja po pozycji i pokazujemy go w całości, razem z tym, czego jeszcze nie wyceniliśmy.
 
