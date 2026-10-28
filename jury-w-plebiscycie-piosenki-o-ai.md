@@ -8,8 +8,8 @@
 
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
-- jury dostaje od akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki**;
 - **praca jest płatna** i potwierdzana umową;
+- jury dostaje od akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki**;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę ocenianych utworów, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
