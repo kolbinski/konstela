@@ -123,3 +123,5 @@ Napisz na adres **jury@konstela.org** lub zadzwoń: **[+48 503 520 004](tel:+485
 Odpowiemy na pytania i wyjaśnimy warunki współpracy – bez zobowiązania po żadnej ze stron.
 
 **Znasz kogoś, kto powinien o tym wiedzieć?** Ta strona jest po to, żeby dało się ją przesłać dalej jednym linkiem.
+
+**Poszukujemy jury również w pozostałych plebiscytach:** [na rozmowę ze sztuczną inteligencją](/jury-w-plebiscycie-rozmowy-z-ai), [na film o sztucznej inteligencji](/jury-w-plebiscycie-filmu-o-ai) i [na plakat o sztucznej inteligencji](/jury-w-plebiscycie-plakatu-o-ai).
