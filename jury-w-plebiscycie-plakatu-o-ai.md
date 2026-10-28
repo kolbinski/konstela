@@ -59,7 +59,7 @@ Każdy przedział punktowy ma opis określający podstawy przyznania oceny – o
 
 ### Ile to czasu
 
-Realnie: **kilkanaście godzin pracy wymagającej skupienia, rozłożonych na dwa podejścia** – wybór dziesiątki w grudniu 2027 i oględziny oryginałów wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+Realnie: **kilkanaście godzin pracy wymagającej skupienia, rozłożonych na dwa podejścia** – wybór dziesiątki finalistów w grudniu 2027 i oględziny oryginałów wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
 **Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest przygotowanie karty oceny i wag kryteriów.** Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
