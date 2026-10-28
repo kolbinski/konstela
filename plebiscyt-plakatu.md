@@ -28,33 +28,6 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - zgłaszasz **jedną pracę w jednej edycji**
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo antologia musi zdążyć do druku
 
-## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
-
-### Cztery plebiscyty Nagrody Konstela
-
-**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali:
-
-1. [Plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
-2. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
-3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
-4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
-
-### Dotąd nagradzano maszyny
-
-Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
-
-### Cała trudność leży w pytaniu
-
-A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy zestawił ze sobą wątki, które z pozoru do siebie nie pasują. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
-
-### Skąd nazwa
-
-Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
-
-### Kto za tym stoi
-
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
-
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
@@ -270,6 +243,36 @@ Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwi
 **Nie jesteśmy stroną tej sprzedaży.** Nie pośredniczymy, nie przyjmujemy zapłaty, nie sprawdzamy ceny ani przebiegu transakcji i nie odpowiadamy za jej wykonanie. Datę przyjmujemy taką, jaką podasz. Link usuniemy albo zmienimy na Twoją prośbę w ciągu 14 dni, a nie opublikujemy takiego, który nie działa.
 
 **Dwie rzeczy warto wiedzieć z góry.** Sprzedaż niczego nie zmienia w sprawie oryginału: tak jak każdy finalista możesz go przysłać albo nie, bez utraty nagrody. Jeżeli go przyślesz - pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może rozpoznawalnie wskazać osobę podpisaną pseudonimem.
+
+## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
+
+### Nagradzamy człowieka, nie maszynę
+
+**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Od tego zaczęła się cała Nagroda i to jest jej rdzeń: [plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy).
+
+### Dotąd nagradzano maszyny
+
+Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
+
+### Cała trudność leży w pytaniu
+
+A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny; czy zestawił ze sobą wątki, które z pozoru do siebie nie pasują. Całe nasze zaproszenie mieści się w dwóch słowach: **zapytaj inaczej**.
+
+### Film, piosenka i plakat
+
+Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na wypowiedź o sztucznej inteligencji, rozstrzygane na tej samej gali:
+
+1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) - film od 20 do 90 minut, stworzony dla tego plebiscytu.
+2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) - własny tekst, własna muzyka, własne wykonanie.
+3. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu) - praca wykonana ręcznie, bez generatora obrazu.
+
+### Skąd nazwa
+
+Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
+
+### Kto za tym stoi
+
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:iskra--><span>Gala</span>
 
