@@ -15,6 +15,7 @@
  */
 
 const fs = require('fs');
+const crypto = require('crypto');
 const path = require('path');
 const { execFileSync } = require('child_process');
 const { marked } = require('marked');
@@ -167,14 +168,42 @@ const OBRAZKI = {
   'plebiscyt-plakatu': '/assets/plakat.jpg',
 };
 
-/* Znacznik zasobów ma rozróżniać kolejne budowania tego samego dnia. Sama
-   data tego nie robi: przy kilku poprawkach arkusza w ciągu jednego dnia
-   adres pliku się nie zmieniał, więc przeglądarka i pośrednik serwowały
-   wersję sprzed poprawki - a strona wyglądała, jakby poprawki nie było.
-   Stąd data z godziną i minutą budowania. */
-const ZNACZNIK_ZASOBOW =
-  process.env.ZNACZNIK_ZASOBOW ||
-  new Date().toISOString().slice(0, 16).replace(/[-:T]/g, '');
+/* Znacznik zasobu to odcisk JEGO treści, nie data budowania. Chodzi o to,
+   żeby adres pliku zmieniał się dokładnie wtedy, gdy zmienia się plik:
+   po poprawce w assets/pasek.css przeglądarka pobiera go na nowo, a obrazki
+   i arkusze, których nikt nie ruszył, zostają w pamięci podręcznej
+   przeglądarki i pośrednika. Znacznik z datą budowania unieważniał przy
+   każdym budowaniu wszystko naraz, łącznie z ilustracjami ważącymi setki
+   kilobajtów. */
+const ODCISKI = new Map();
+function odcisk(adresZasobu) {
+  const czysty = adresZasobu.split(/[?#]/)[0].replace(/^https?:\/\/[^/]+/, '');
+  if (ODCISKI.has(czysty)) return ODCISKI.get(czysty);
+  let znacznik = '';
+  try {
+    znacznik = crypto
+      .createHash('sha1')
+      .update(fs.readFileSync(path.join(KORZEN, czysty.replace(/^\//, ''))))
+      .digest('hex')
+      .slice(0, 10);
+  } catch (e) {
+    /* Pliku nie ma na dysku - zostawiamy adres bez znacznika, zamiast
+       przerywać budowanie. */
+  }
+  ODCISKI.set(czysty, znacznik);
+  return znacznik;
+}
+
+/* Dopisuje ?v=odcisk do każdego adresu w /assets, także w srcset i w
+   adresach bezwzględnych. Istniejący znacznik podmienia, więc wielokrotne
+   budowanie niczego nie mnoży. */
+const ZASOB = /((?:https?:\/\/[^/"'\s]+)?\/assets\/[A-Za-z0-9._/-]+?\.[A-Za-z0-9]+)(\?v=[A-Za-z0-9]+)?/g;
+function wersjonujZasoby(html) {
+  return html.replace(ZASOB, (dopasowanie, adres) => {
+    const znacznik = odcisk(adres);
+    return znacznik ? `${adres}?v=${znacznik}` : adres;
+  });
+}
 
 marked.setOptions({ gfm: true, breaks: true });
 
@@ -264,7 +293,6 @@ function pelnyTytul(naglowek) {
 
 function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tresc }) {
   const roboty = indeksowac ? 'index, follow, noai, noimageai' : 'noindex, follow';
-  const v = '?v=' + ZNACZNIK_ZASOBOW;
   return `<!doctype html>
 <html lang="pl">
   <head>
@@ -292,9 +320,9 @@ function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tr
     <meta name="twitter:title" content="${escapuj(naglowek)}" />
     <meta name="twitter:description" content="${escapuj(opisStrony)}" />
     <meta name="twitter:image" content="${DOMENA}${obrazek}" />
-    <link rel="stylesheet" href="/assets/czytelnosc.css${v}" />
-    <link rel="stylesheet" href="/assets/view.css${v}" />
-    <link rel="stylesheet" href="/assets/pasek.css${v}" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css" />
+    <link rel="stylesheet" href="/assets/view.css" />
+    <link rel="stylesheet" href="/assets/pasek.css" />
     <!-- Tryb czytelności ustawiamy przed pierwszym rysowaniem strony,
          inaczej mignęłaby w zwykłych kolorach. Patrz assets/czytelnosc.js. -->
     <script>
@@ -346,10 +374,10 @@ ${tresc}
     <button id="do-gory" class="do-gory" type="button" hidden aria-label="Wróć na górę strony">${IKONY['strzalka-gora'] || ''}</button>
     <konstela-stopka></konstela-stopka>
 
-    <script src="/assets/czytelnosc.js${v}" defer></script>
-    <script src="/assets/pasek.js${v}" defer></script>
-    <script src="/assets/nawigacja.js${v}" defer></script>
-    <script src="/assets/stopka.js${v}" defer></script>
+    <script src="/assets/czytelnosc.js" defer></script>
+    <script src="/assets/pasek.js" defer></script>
+    <script src="/assets/nawigacja.js" defer></script>
+    <script src="/assets/stopka.js" defer></script>
   </body>
 </html>
 `;
@@ -387,14 +415,16 @@ function main() {
       ? `${DOMENA}/${adresKrotki}/`
       : `${DOMENA}/dokument/${nazwa}/`;
 
-    const html = strona({
-      naglowek: tytul(md, nazwa),
-      opisStrony: OPISY[nazwa] || opis(md),
-      adresKanoniczny,
-      obrazek: OBRAZKI[nazwa] || OBRAZEK_DOMYSLNY,
-      indeksowac,
-      tresc: otworzObceWNowejKarcie(rozdzielSekcje(marked.parse(wstawIkony(md, false)))),
-    });
+    const html = wersjonujZasoby(
+      strona({
+        naglowek: tytul(md, nazwa),
+        opisStrony: OPISY[nazwa] || opis(md),
+        adresKanoniczny,
+        obrazek: OBRAZKI[nazwa] || OBRAZEK_DOMYSLNY,
+        indeksowac,
+        tresc: otworzObceWNowejKarcie(rozdzielSekcje(marked.parse(wstawIkony(md, false)))),
+      })
+    );
 
     zapisz(path.join(KORZEN, 'dokument', nazwa, 'index.html'), html);
     if (adresKrotki) zapisz(path.join(KORZEN, adresKrotki, 'index.html'), html);
@@ -431,10 +461,7 @@ function main() {
     const sciezka = path.join(KORZEN, nazwa);
     if (!fs.existsSync(sciezka)) return;
     const przed = fs.readFileSync(sciezka, 'utf8');
-    const po = wstawIkony(przed, true).replace(
-      /(\/assets\/[A-Za-z0-9._-]+)\?v=[0-9]+/g,
-      `$1?v=${ZNACZNIK_ZASOBOW}`
-    );
+    const po = wersjonujZasoby(wstawIkony(przed, true));
     if (po !== przed) {
       fs.writeFileSync(sciezka, po);
       podbite++;
