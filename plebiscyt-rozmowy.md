@@ -247,7 +247,7 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 ### Film, piosenka i plakat
 
-Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na wypowiedź o sztucznej inteligencji, rozstrzygane na tej samej gali:
+Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na zagadnienie sztucznej inteligencji, rozstrzygane na tej samej gali:
 
 1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) - film od 20 do 90 minut, stworzony dla tego plebiscytu.
 2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) - własny tekst, własna muzyka, własne wykonanie.
