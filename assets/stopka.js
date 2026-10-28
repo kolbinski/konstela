@@ -16,10 +16,10 @@
 
   var LINKI = [
     ['/', 'Strona główna'],
-    ['/plebiscyt-rozmowy', 'Nagroda Konstela w plebiscycie na rozmowę ze sztuczną inteligencją'],
-    ['/plebiscyt-filmu', 'Nagroda Konstela w plebiscycie na film o sztucznej inteligencji'],
-    ['/plebiscyt-piosenki', 'Nagroda Konstela w plebiscycie na piosenkę o sztucznej inteligencji'],
-    ['/plebiscyt-plakatu', 'Nagroda Konstela w plebiscycie na plakat o sztucznej inteligencji'],
+    ['/plebiscyt-rozmowy', 'Plebiscyt na rozmowę ze sztuczną inteligencją'],
+    ['/plebiscyt-filmu', 'Plebiscyt na film o sztucznej inteligencji'],
+    ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
+    ['/plebiscyt-plakatu', 'Plebiscyt na plakat o sztucznej inteligencji'],
     ['/hymn', 'Hymn Nagrody Konstela'],
     ['/dokument/procedura-moderacji', 'Procedura moderacji zgłoszeń'],
     ['/dokument/regulaminy', 'Regulaminy'],
