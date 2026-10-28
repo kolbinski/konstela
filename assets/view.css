@@ -738,8 +738,11 @@
         font-weight: 400;
         color: var(--muted);
         display: block;
-        margin-top: 0.35rem;
-        line-height: 1.5;
+        margin-top: 0.1rem;
+        line-height: 1.45;
+      }
+      #content li:has(> small) {
+        margin-bottom: 0.9rem;
       }
       @media (min-width: 48rem) {
         #content dl.harmonogram > div {
