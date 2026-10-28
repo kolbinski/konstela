@@ -203,6 +203,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 | Razem | 100 | |
 
 1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 8 ust. 5 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez akademię plakatu (§ 8 ust. 4f). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
+1b. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
 2. Karta oceny jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 

@@ -221,6 +221,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 | Razem | 100 | |
 
 1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 10 ust. 7 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez akademię (§ 10 ust. 5). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
+1b. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
 1b. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Tekst, następnie w kryterium Ujęcie tematu, następnie w kryterium Muzyka, a w razie dalszej równości - głos przewodniczącego jury.
 

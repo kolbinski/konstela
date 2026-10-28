@@ -268,6 +268,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 2. Skład jury Organizator ogłasza przed otwarciem naboru.
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń.
+3a. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
 4. **Pierwsze przejście oceny przeprowadza akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły weryfikację formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą.
 
