@@ -16,8 +16,8 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 
 **W skrócie:**
 
-- **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
-- obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
+- **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
+- **publiczność ma własną [Nagrodę Publiczności](#nagroda-publicznosci)**, niezależną od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** – zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję – bez utraty nagrody i miejsca w werdykcie

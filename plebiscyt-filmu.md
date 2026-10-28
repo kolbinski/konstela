@@ -14,9 +14,9 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 
 **W skrócie:**
 
-- **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
+- **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
 - cała dziesiątka finalistów wchodzi do **zestawu proponowanego dystrybutorowi** – nie mamy jeszcze partnera ani zapewnionych pokazów
-- obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
+- **publiczność ma własną [Nagrodę Publiczności](#nagroda-publicznosci)**, niezależną od werdyktu jury
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia

@@ -14,8 +14,8 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 
 **W skrócie:**
 
-- **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
-- obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
+- **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
+- **publiczność ma własną [Nagrodę Publiczności](#nagroda-publicznosci)**, niezależną od werdyktu jury
 - **zespoły i duety są jak najbardziej mile widziane** – „własne” znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa
 - szczególnie zapraszamy **twórców rozwijających własną działalność artystyczną** – tych, którzy grają, śpiewają i piszą po swojemu; nie pytamy o zasięgi, o dorobek ani o to, czy masz kontrakt
 - zgłaszasz **czytelne demo**, nie gotowy singiel – głos i instrument wystarczą

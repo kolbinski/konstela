@@ -18,8 +18,8 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 **W skrócie:**
 
-- **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
-- obok nich przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
+- **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
+- **publiczność ma własne nagrody**, niezależne od werdyktu jury: [Nagrodę Publiczności](#nagroda-publicznosci), a obok niej [Nagrodę Uczniowską](#nagroda-uczniowska) wskazywaną przez grupy szkolne
 - **dziesięć najlepszych rozmów** składa się na antologię – bezpłatny e-book, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie – rozmów w antologii może być mniej
 - wszystkie zgłoszenia trafiają do **[Czytelni](#Czytelnia)**, a po werdykcie jury do publicznego [Archiwum](#Czytelnia)
 - **nie musisz znać się na sztucznej inteligencji** – zgłoszona rozmowa może być Twoją pierwszą w życiu rozmową z AI; oceniamy tę jedną rozmowę, a nie Twoje doświadczenie
