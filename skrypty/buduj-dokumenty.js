@@ -160,6 +160,7 @@ const OBRAZKI = {
   'plebiscyt-rozmowy': '/assets/rozmowa.jpg',
   'plebiscyt-filmu': '/assets/film.jpg',
   'plebiscyt-piosenki': '/assets/piosenka.jpg',
+  'plebiscyt-plakatu': '/assets/plakat.jpg',
 };
 
 /* Znacznik zasobów ma rozróżniać kolejne budowania tego samego dnia. Sama

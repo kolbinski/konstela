@@ -2,6 +2,10 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
+<img src="/assets/plakat.jpg" srcset="/assets/plakat-800.jpg 800w, /assets/plakat.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Malarka siedzi nocą na skale nad doliną i maluje na sztalugach plakat: złotą ludzką dłoń wyciągniętą do niebieskiej dłoni mechanicznej. Od miejsca, w którego dotyka pędzlem, biegnie w rozgwieżdżone niebo złota linia, która układa się w konstelację.">
+
+<!--ikona:rozdzielacz-->
+
 ## <!--ikona:plakat--><span>Co to za plebiscyt</span>
 
 Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek odróżnia go od wszystkiego, co dziś można wygenerować w pół minuty - obraz ma powstać pod ludzką ręką.
