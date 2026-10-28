@@ -4,7 +4,14 @@
 
 ## <!--ikona:wspolpraca--><span>Czego szukamy</span>
 
-**Nagroda Konstela to cztery plebiscyty rozstrzygane na jednej gali**: na [rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy), [film](/plebiscyt-filmu), [piosenkę](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu) o niej. Nagradzamy człowieka, nie program, bo oceniamy pytania, a nie odpowiedzi.
+**Nagroda Konstela to cztery plebiscyty rozstrzygane na jednej gali:**
+
+1. [Plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
+2. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
+3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
+4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
+
+Nagradzamy człowieka, nie program, bo oceniamy pytania, a nie odpowiedzi.
 
 **Zakres, kosztorys i proponowane warunki współpracy wysyłamy na życzenie.** Budżet pierwszej edycji jest policzony pozycja po pozycji i pokazujemy go w całości, razem z tym, czego jeszcze nie wyceniliśmy.
 
