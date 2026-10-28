@@ -2,13 +2,15 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+
 <img src="/assets/plakat.jpg" srcset="/assets/plakat-800.jpg 800w, /assets/plakat.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Malarka siedzi nocą na skale nad doliną i maluje na sztalugach plakat: złotą ludzką dłoń wyciągniętą do niebieskiej dłoni mechanicznej. Od miejsca, w którego dotyka pędzlem, biegnie w rozgwieżdżone niebo złota linia, która układa się w konstelację.">
 
 <!--ikona:rozdzielacz-->
 
 ## <!--ikona:plakat--><span>Co to za plebiscyt</span>
 
-Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek odróżnia go od wszystkiego, co dziś można wygenerować w pół minuty - obraz ma powstać pod ludzką ręką.
+Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek: **obraz ma powstać pod ludzką ręką**.
 
 **Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [antologii](/#antologia)** - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
 
@@ -51,7 +53,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -63,9 +65,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:konstelacja--><span>Dlaczego akurat plakat</span>
 
-Spośród czterech dziedzin Nagrody ta jedna została uderzona przez sztuczną inteligencję najmocniej i najszybciej. Ilustracja i plakat były pierwszymi zawodami, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić - i pierwszymi, w których ludzie zaczęli pytać, czy ich praca jeszcze ma sens. Spór o AI nigdzie nie jest tak głośny i tak osobisty jak tutaj.
-
-**Nie rozstrzygamy tego sporu, tylko stawiamy po jednej stronie konkretną propozycję.** Zgłoszona praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co człowiek ma do powiedzenia o maszynie, której się boi albo której używa**, kiedy mówi to własną ręką.
+Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić. Spór o to, co z tego wynika, toczy się w tym środowisku od dawna i nie nam go rozstrzygać - **stawiamy tylko po jednej stronie konkretną propozycję**: praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle, i nie po to, by kogokolwiek pocieszać - dlatego, że chcemy zobaczyć, **co masz do powiedzenia o tej maszynie**, kiedy mówisz to własną ręką. Jakie to będzie zdanie, zależy wyłącznie od Ciebie.
 
 **Nie pytamy o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
 
@@ -259,7 +259,7 @@ Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwi
 
 ### Cicha licytacja przy wystawie w galerii - prowadzimy ją my
 
-**Dotyczy finalistów i tylko wtedy, gdy pozyskamy galerię sztuki.** Tam realnie dowozimy publiczność i kontekst, więc i podział jest wspólny: po odliczeniu zaakceptowanych wcześniej kosztów licytacji **pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**.
+**Dotyczy finalistów i tylko wtedy, gdy pozyskamy galerię sztuki** - a dziś jej nie mamy. Jeżeli się uda, to my organizujemy wydarzenie, wernisaż i obsługę sprzedaży, i stąd wspólny podział: po odliczeniu zaakceptowanych wcześniej kosztów licytacji **pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**.
 
 **Przy zgłoszeniu nie decydujesz o licytacji.** Pytamy dopiero po wyborze przez jury finalistów: wtedy dostajesz warunki - cenę minimalną, przewidywane prowizje i sposób rozliczenia - i wtedy decydujesz. Odmowa nie zmienia ani wyniku plebiscytu, ani nagrody, ani udziału w wystawie. Nie gwarantujemy ani sprzedaży, ani żadnej ceny, a jeżeli galeria się nie znajdzie, licytacji po naszej stronie po prostu nie ma.
 
@@ -269,7 +269,7 @@ Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwi
 
 **Nie jesteśmy stroną tej sprzedaży.** Nie pośredniczymy, nie przyjmujemy zapłaty, nie sprawdzamy ceny ani przebiegu transakcji i nie odpowiadamy za jej wykonanie. Datę przyjmujemy taką, jaką podasz. Link usuniemy albo zmienimy na Twoją prośbę w ciągu 14 dni, a nie opublikujemy takiego, który nie działa.
 
-**Dwie rzeczy warto wiedzieć z góry.** Jeżeli wejdziesz do dziesiątki, sprzedaż nie zwalnia Cię z przysłania oryginału na wystawę - pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może rozpoznawalnie wskazać osobę podpisaną pseudonimem.
+**Dwie rzeczy warto wiedzieć z góry.** Sprzedaż niczego nie zmienia w sprawie oryginału: tak jak każdy finalista możesz go przysłać albo nie, bez utraty nagrody. Jeżeli go przyślesz - pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może rozpoznawalnie wskazać osobę podpisaną pseudonimem.
 
 ## <!--ikona:iskra--><span>Gala</span>
 

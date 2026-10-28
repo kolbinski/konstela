@@ -2,6 +2,8 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+
 <img src="/assets/rozmowa.jpg" srcset="/assets/rozmowa-800.jpg 800w, /assets/rozmowa.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="941" alt="Kobieta z laptopem na skale nad doliną o zmierzchu rysuje palcem linie między gwiazdami; z konstelacji wyłaniają się obrazy - planeta, galaktyka, otwarta książka, muszla amonitu, rzeźba, góry - połączone świetlistymi liniami." />
 
 <!--ikona:rozdzielacz-->
@@ -20,6 +22,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 - obok nich przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - **dziesięć najlepszych rozmów** składa się na antologię - bezpłatny e-book, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie - rozmów w antologii może być mniej
 - wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia)
+- **nie musisz znać się na sztucznej inteligencji** - zgłoszona rozmowa może być Twoją pierwszą w życiu rozmową z AI; oceniamy tę jedną rozmowę, a nie Twoje doświadczenie
 - zgłaszasz **jedną rozmowę w jednej edycji**
 - nabór zamykamy **15 stycznia 2028**
 
@@ -48,7 +51,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -72,7 +75,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 - **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą; przy progu słów działa tolerancja 5 procent, którą opisuje regulamin. Górny limit to 25 tysięcy słów całości
 - **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne. Pojedyncza odpowiedź AI w innym języku nie przekreśla zgłoszenia, jeżeli rozmowę da się ocenić
 - **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia jako faktu bez wskazania podstawy; regulamin wylicza wyjątki, w tym przytoczenie sprawy opisanej wcześniej publicznie. O sobie i o publicznej działalności osób publicznych, firm i instytucji możesz pisać swobodnie
-- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien z różnymi czatami. W danej edycji jedna osoba może zgłosić jedną rozmowę; numer telefonu potwierdzany kodem z SMS służy wyłącznie weryfikacji i nie przechowujemy go w postaci jawnej. Jeżeli jury wybierze Cię do finałowej dziesiątki, poprosimy o numer ponownie - na potrzeby rozmowy weryfikacyjnej. To krótka rozmowa, do 20 minut, telefoniczna albo wideo, o treści Twojego zgłoszenia: sprawdzamy w niej, czy rozumiesz wątek, który prowadziłeś, i potrafisz pociągnąć go dalej. Nie zmienia punktacji
+- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien z różnymi czatami. W danej edycji jedna osoba może zgłosić jedną rozmowę; numer telefonu potwierdzany kodem z SMS służy wyłącznie weryfikacji i nie przechowujemy go w postaci jawnej. Jeżeli jury wybierze Cię do finałowej dziesiątki, poprosimy o numer ponownie - na potrzeby rozmowy weryfikacyjnej. To krótka rozmowa, do 20 minut, telefoniczna albo wideo, o treści Twojego zgłoszenia: pytamy w niej o samą rozmowę, który prowadziłeś, i potrafisz pociągnąć go dalej. Nie zmienia punktacji
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 

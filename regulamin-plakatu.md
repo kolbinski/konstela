@@ -479,7 +479,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 8b. Link, o którym mowa w ust. 8, podlega tym samym zasadom co kontakt do autora (§ 4 ust. 2 lit. c2): Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika, co nie wpływa ani na ocenę, ani na udział. **Link może ujawnić tożsamość Uczestnika podpisanego pseudonimem** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, wskazuje link wyłącznie za zgodą przedstawiciela ustawowego. Datę zakończenia oferty Organizator przyjmuje w brzmieniu podanym przez Uczestnika i jej nie weryfikuje.
 
-8c. **Praca finalisty.** Sprzedaż pracy nie zwalnia finalisty z obowiązku dostarczenia oryginału (§ 10 ust. 2) ani nie skraca okresu, w którym praca pozostaje u Organizatora (§ 10 ust. 3 i 3b). Wydanie pracy nabywcy następuje po jej zwrocie autorowi, a poinformowanie nabywcy o tym terminie obciąża autora. Organizator nie wydaje pracy osobie innej niż autor.
+8c. **Praca finalisty.** Sprzedaż pracy **nie zmienia zasad dotyczących oryginału**: finalista może go przysłać albo nie przysłać na zasadach z § 10 ust. 2 i 4, bez wpływu na nagrodę i punktację. **Jeżeli oryginał zostanie przysłany**, sprzedaż nie skraca okresu, w którym praca pozostaje u Organizatora (§ 10 ust. 3 i 3b) ani nie skraca okresu, w którym praca pozostaje u Organizatora (§ 10 ust. 3 i 3b). Wydanie pracy nabywcy następuje po jej zwrocie autorowi, a poinformowanie nabywcy o tym terminie obciąża autora. Organizator nie wydaje pracy osobie innej niż autor.
 
 8d. Wskazanie linku, o którym mowa w ust. 8, **nie jest publikacją ani prezentacją pracy** w rozumieniu § 5 ust. 2 lit. e i nie wyłącza zgłoszenia z plebiscytu.
 

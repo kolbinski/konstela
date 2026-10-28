@@ -2,6 +2,8 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+
 <img src="/assets/piosenka.jpg" srcset="/assets/piosenka-800.jpg 800w, /assets/piosenka.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Kobieta z gitarą siedzi na skale nad doliną o zachodzie słońca i śpiewa do mikrofonu; z jej strony biegną w rozgwieżdżone niebo złote wstęgi światła, układające się w sceny z ludzkiego życia, a z drugiej strony wychodzi im naprzeciw niebieski, świetlisty zarys twarzy sztucznej inteligencji.">
 
 <!--ikona:rozdzielacz-->
@@ -50,7 +52,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -81,7 +83,7 @@ Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi
 Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):
 
 - utwór trwa **od 2 do 6 minut**
-- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i każda osoba w akademii i jury musi go rozumieć
+- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i każda osoba w akademii i jury musi go rozumieć. Waży najwięcej jako **rezultat**: oceniamy to, co z tekstu wyszło, a nie to, czy wystukałeś go sam, czy doszedłeś do niego w rozmowie z AI - sposobu powstania jedynie wymagamy w deklaracji
 - **piosenka powstaje na potrzeby tego plebiscytu** i jest ukończona w roku edycji; nie może być wcześniej wydana ani wprowadzona do dystrybucji - także cyfrowej, także bezpłatnej. Opublikowanie własnego nagrania na swoim kanale wydaniem nie jest i niczego nie blokuje, bo na tym polega samo zgłoszenie. Granie utworu na żywo też nie przeszkadza, a zgłaszanie go równolegle do innych konkursów jest dozwolone
 - nagranie pod linkiem **jest dostępne przez cały czas trwania oceny i niezmienione od dnia zamknięcia naboru** - do tego dnia możesz je poprawić, zgłaszając nam to, a oceniamy wersję ostateczną
 - **okładka jest dołączona** i masz do niej prawa

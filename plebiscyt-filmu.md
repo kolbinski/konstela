@@ -2,6 +2,8 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+
 <img src="/assets/film.jpg" srcset="/assets/film-800.jpg 800w, /assets/film.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji.">
 
 <!--ikona:rozdzielacz-->
@@ -13,7 +15,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 **W skrócie:**
 
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
-- cała dziesiątka finalistów dostaje **kwalifikację do dystrybucji kinowej**
+- cała dziesiątka finalistów wchodzi do **zestawu proponowanego dystrybutorowi** - nie mamy jeszcze partnera ani zapewnionych pokażów
 - obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
@@ -51,7 +53,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **Krzysztof Olbiński**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
