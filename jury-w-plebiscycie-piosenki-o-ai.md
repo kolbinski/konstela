@@ -21,7 +21,7 @@
 
 Nie wszystkie zgłoszenia piosenek w plebiscycie. **Pierwszą ocenę tych piosenek wykonuje [akademia](/plebiscyt-piosenki#kto-ocenia)** – grono muzyków z doświadczeniem w branży muzycznej, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
 
-### Według czego
+### Jak jury ocenia zgłoszone piosenki
 
 Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów: ujęcie tematu, tekst, muzyka i wykonanie. Każde pasmo punktowe ma opisane znaczenie, więc ocena nie sprowadza się do wyczucia.
 
