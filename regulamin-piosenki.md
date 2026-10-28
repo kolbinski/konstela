@@ -377,6 +377,16 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 7. Roszczenie zgłoszone przez serwis YouTube w systemie identyfikacji treści nie przesądza o naruszeniu praw i samo przez się nie stanowi podstawy wyłączenia zgłoszenia. Skutki niedostępności nagrania reguluje § 8 ust. 4.
 
+## § 16a. Wycofanie zgłoszenia
+
+1. Uczestnik może wycofać zgłoszenie **wiadomością wysłaną z adresu poczty elektronicznej wskazanego w zgłoszeniu**, nie później niż **14 dni przed dniem gali**. Organizator potwierdza wycofanie, kończy dalszą ocenę i usuwa publiczny wpis ze Słuchalni w terminie 14 dni.
+
+2. **Skutki wycofania.** Licencja z § 15 ust. 2 wygasa w zakresie prezentacji zgłoszenia; głosy oddane na zgłoszenie w Nagrodzie Publiczności nie są dalej liczone; zgłoszenie nie wchodzi do Archiwum. Wycofanie nie rodzi roszczeń po żadnej ze stron.
+
+3. **Wycofanie po ustaleniu werdyktu.** Jeżeli zgłoszenie znalazło się w dziesiątce finalistów, wycofanie nie powoduje przesunięcia pozostałych zgłoszeń w kolejności ustalonej przez jury ani wskazania zgłoszenia zastępczego. Nagroda pieniężna nie jest wówczas wypłacana, a nagranie studyjne nie jest realizowane; jeżeli sesja już się odbyła, prawa do nagrania pozostają przy autorze zgodnie z § 12.
+
+4. **Po terminie z ust. 1** wycofanie nie jest możliwe, ponieważ nagrania finałowe są wówczas zestawione w materiał galowy, a werdykt ustalony. Uczestnikowi pozostaje żądanie usunięcia wpisu z Archiwum po gali.
+
 ## § 17. Nierozstrzygnięcie plebiscytu
 
 1. Organizator może nie rozstrzygnąć edycji plebiscytu, jeżeli liczba zgłoszeń spełniających wymogi formalne będzie mniejsza niż dziesięć albo jeżeli żadne ze zgłoszeń nie uzyska co najmniej 50 punktów według karty oceny.
@@ -398,6 +408,10 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 ## § 19. Postanowienia końcowe
 
 1. Regulamin wchodzi w życie z dniem otwarcia naboru i jest dostępny na stronie Nagrody przez cały czas trwania edycji.
+
+1a. **Reklamacja.** Ostateczność oceny i werdyktu dotyczy **wyłącznie osądu merytorycznego** jury i akademii. Nie wyłącza reklamacji dotyczącej kwalifikacji zgłoszenia, przebiegu procedury, obliczenia punktów, publikacji ani wypłaty nagrody. Reklamację składa się w terminie **14 dni** od otrzymania decyzji albo karty oceny, na adres wskazany w § 1; Organizator odpowiada z uzasadnieniem w terminie **14 dni** od jej otrzymania. Postępowanie reklamacyjne **nie ogranicza prawa do sądu ani innych uprawnień przysługujących z mocy prawa**, w tym uprawnień konsumenckich.
+
+1b. **Śmierć i długotrwała niedostępność.** Śmierć Uczestnika po ustaleniu werdyktu nie powoduje utraty przyznanego miejsca; wymagalne świadczenia majątkowe spełniane są na rzecz osób uprawnionych zgodnie z przepisami o dziedziczeniu, a świadczenia, których z natury nie da się spełnić wobec innej osoby, nie są realizowane. Przed uznaniem braku kontaktu za rezygnację Organizator podejmuje **co najmniej trzy próby kontaktu w okresie nie krótszym niż 14 dni**, na podany adres poczty elektronicznej oraz, jeżeli dysponuje numerem, telefonicznie. Milczenie w okresie krótszym nie jest rezygnacją.
 
 2. Ogłoszenie nagród stanowi przyrzeczenie publiczne w rozumieniu art. 919 Kodeksu cywilnego. Organizator ogłasza wyłącznie te nagrody, na które środki wpłynęły wcześniej na jego rachunek.
 

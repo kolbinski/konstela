@@ -424,6 +424,10 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Regulamin wchodzi w życie w dniu otwarcia naboru i jest publikowany na stronie Nagrody przed tym dniem.
 
+1a. **Reklamacja.** Ostateczność oceny i werdyktu dotyczy **wyłącznie osądu merytorycznego** jury i akademii. Nie wyłącza reklamacji dotyczącej kwalifikacji zgłoszenia, przebiegu procedury, obliczenia punktów, publikacji ani wypłaty nagrody. Reklamację składa się w terminie **14 dni** od otrzymania decyzji albo karty oceny, na adres wskazany w § 1; Organizator odpowiada z uzasadnieniem w terminie **14 dni** od jej otrzymania. Postępowanie reklamacyjne **nie ogranicza prawa do sądu ani innych uprawnień przysługujących z mocy prawa**, w tym uprawnień konsumenckich.
+
+1b. **Śmierć i długotrwała niedostępność.** Śmierć Uczestnika po ustaleniu werdyktu nie powoduje utraty przyznanego miejsca; wymagalne świadczenia majątkowe spełniane są na rzecz osób uprawnionych zgodnie z przepisami o dziedziczeniu, a świadczenia, których z natury nie da się spełnić wobec innej osoby, nie są realizowane. Przed uznaniem braku kontaktu za rezygnację Organizator podejmuje **co najmniej trzy próby kontaktu w okresie nie krótszym niż 14 dni**, na podany adres poczty elektronicznej oraz, jeżeli dysponuje numerem, telefonicznie. Milczenie w okresie krótszym nie jest rezygnacją.
+
 2. Organizator nie zmienia regulaminu w trakcie naboru w zakresie dotyczącym wymogów zgłoszenia, kryteriów oceny, wysokości nagród ani zasad wyłaniania finalistów.
 
 3. Terminy edycji pierwszej: otwarcie naboru na początku 2027 roku, **zamknięcie naboru 30 listopada 2027 roku**, pierwsze przejście oceny przez akademię filmu do stycznia 2028, werdykt jury w lutym 2028, gala w drugiej połowie kwietnia 2028.

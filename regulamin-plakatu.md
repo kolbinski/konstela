@@ -405,6 +405,16 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 6. Sama wątpliwość, której nie da się wyjaśnić, nie stanowi podstawy wyłączenia. Ciężar wykazania nieprawdziwości oświadczenia spoczywa na tym, kto się na nią powołuje.
 
+## § 15a. Wycofanie zgłoszenia
+
+1. Uczestnik może wycofać zgłoszenie **wiadomością wysłaną z adresu poczty elektronicznej wskazanego w zgłoszeniu**, nie później niż **14 dni przed dniem gali**. Organizator potwierdza wycofanie, kończy dalszą ocenę i usuwa publiczny wpis z Galerii w terminie 14 dni.
+
+2. **Skutki wycofania.** Licencja z § 13 ust. 2 wygasa w zakresie prezentacji zgłoszenia; głosy oddane na zgłoszenie w Nagrodzie Publiczności nie są dalej liczone; zgłoszenie nie wchodzi do Archiwum. Oryginał znajdujący się u Organizatora wraca do autora w terminie 30 dni od wycofania, a praca przekazana na licytację zostaje z niej wyłączona, jeżeli nie rozpoczęto jeszcze przyjmowania wiążących ofert.
+
+3. **Granica dla pracy zwycięskiej.** Wycofanie zgłoszenia, które zajęło pierwsze miejsce, jest możliwe **nie później niż w dniu przekazania antologii do druku**, wskazanym w zawiadomieniu o werdykcie. Po tym dniu licencja na okładkę (§ 13 ust. 2 lit. d) pozostaje w mocy w granicach nakładu i wznowień antologii tej edycji, a wycofanie wywołuje skutek wyłącznie na przyszłość i w pozostałym zakresie.
+
+4. Wycofanie zgłoszenia finalisty nie powoduje przesunięcia pozostałych zgłoszeń w kolejności ustalonej przez jury ani wskazania zgłoszenia zastępczego. Nagroda pieniężna nie jest wówczas wypłacana.
+
 ## § 16. Nierozstrzygnięcie edycji
 
 1. Organizator może nie rozstrzygnąć edycji, jeżeli liczba zgłoszeń spełniających wymogi formalne będzie mniejsza niż dziesięć albo jeżeli żadne ze zgłoszeń nie uzyska co najmniej 50 punktów.
@@ -422,6 +432,10 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 ## § 18. Postanowienia końcowe
 
 1. Regulamin wchodzi w życie z dniem otwarcia naboru i jest dostępny na stronie Nagrody przez cały czas trwania edycji.
+
+1a. **Reklamacja.** Ostateczność oceny i werdyktu dotyczy **wyłącznie osądu merytorycznego** jury i akademii. Nie wyłącza reklamacji dotyczącej kwalifikacji zgłoszenia, przebiegu procedury, obliczenia punktów, publikacji ani wypłaty nagrody. Reklamację składa się w terminie **14 dni** od otrzymania decyzji albo karty oceny, na adres wskazany w § 1; Organizator odpowiada z uzasadnieniem w terminie **14 dni** od jej otrzymania. Postępowanie reklamacyjne **nie ogranicza prawa do sądu ani innych uprawnień przysługujących z mocy prawa**, w tym uprawnień konsumenckich.
+
+1b. **Śmierć i długotrwała niedostępność.** Śmierć Uczestnika po ustaleniu werdyktu nie powoduje utraty przyznanego miejsca; wymagalne świadczenia majątkowe spełniane są na rzecz osób uprawnionych zgodnie z przepisami o dziedziczeniu, a świadczenia, których z natury nie da się spełnić wobec innej osoby, nie są realizowane. Przed uznaniem braku kontaktu za rezygnację Organizator podejmuje **co najmniej trzy próby kontaktu w okresie nie krótszym niż 14 dni**, na podany adres poczty elektronicznej oraz, jeżeli dysponuje numerem, telefonicznie. Milczenie w okresie krótszym nie jest rezygnacją.
 
 2. Ogłoszenie nagród stanowi przyrzeczenie publiczne w rozumieniu art. 919 Kodeksu cywilnego. Organizator ogłasza wyłącznie te nagrody, na które środki wpłynęły wcześniej na jego rachunek.
 
