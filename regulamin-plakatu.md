@@ -14,6 +14,19 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 4. Adresem do korespondencji w sprawach plebiscytu jest kontakt@konstela.org.
 
+
+## § 1a. Ustalenie werdyktu a jego publiczne ogłoszenie
+
+1. **Ustalenie werdyktu** oznacza przyjęcie przez jury ostatecznej kolejności zgłoszeń. **Publiczne ogłoszenie werdyktu** następuje podczas gali. **Zawiadomienie finalisty albo laureata o wyniku nie jest publicznym ogłoszeniem.**
+
+2. Ilekroć niniejszy regulamin wiąże skutek z ogłoszeniem werdyktu, rozumie się przez to **publiczne ogłoszenie na gali**, chyba że przepis wyraźnie odsyła do ustalenia werdyktu.
+
+3. **Poufność wyniku.** Osoba zawiadomiona o wyniku przed jego publicznym ogłoszeniem zachowuje go w poufności do chwili tego ogłoszenia, nie dłużej jednak niż **do upływu 30 dni od dnia gali wskazanego w ogłoszeniu o otwarciu naboru**; po tym terminie obowiązek poufności wygasa, choćby gala została przesunięta.
+
+4. Poufność nie obejmuje przekazania informacji **przedstawicielowi ustawowemu, współtwórcom zgłoszenia oraz doradcy** - prawnemu, podatkowemu albo księgowemu - zobowiązanym do zachowania jej w tajemnicy.
+
+5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem plebiscytu jest **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie techniką tradycyjną.
@@ -244,6 +257,10 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 1a. Organizator zapewnia finaliście opakowanie przystosowane do wymiarów i techniki pracy albo pokrywa jego koszt na podstawie przedstawionego rachunku. Uczestnik nie ponosi kosztów opakowania, przewozu ani ubezpieczenia na żadnym etapie.
 
+1b. **Wartość pracy i suma ubezpieczenia.** Przed wysyłką Organizator i autor uzgadniają na piśmie wartość pracy oraz sumę ubezpieczenia. Organizator przekazuje autorowi zakres ochrony, wyłączenia, wysokość udziału własnego oraz procedurę zgłoszenia szkody. **Odmowa wypłaty przez ubezpieczyciela nie wyłącza odpowiedzialności Organizatora wynikającej z przepisów prawa.**
+
+1c. **Czas ochrony.** Ubezpieczenie obejmuje cały uzgodniony okres: transport w obie strony, przechowywanie u Organizatora, wystawę towarzyszącą gali oraz wystawę w galerii sztuki, a przy pracy sprzedanej - również czas do jej wydania nabywcy.
+
 2. **Finalista dostarcza oryginał w terminie 21 dni od dnia zawiadomienia o zakwalifikowaniu do finału** (§ 8 ust. 4a). Razem z zawiadomieniem Organizator wskazuje sposób przygotowania pracy do wysyłki oraz adres dostarczenia. Termin z ust. 3b biegnie od dnia rzeczywistego odbioru pracy przez Organizatora. Na wniosek finalisty Organizator przedłuża termin dostarczenia, jeżeli nie zagraża to oględzinom i przygotowaniu wystawy.
 
 3. Organizator **nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru w terminie 30 dni od zakończenia wystawy towarzyszącej gali**. Terminu doręczenia przesyłki Organizator nie wyznacza, ponieważ zależy on od przewoźnika. Wyjątkiem są prace objęte propozycją z ust. 3a oraz prace przekazane na licytację zgodnie z § 14; w obu wypadkach termin zwrotu wynika z warunków przyjętych przez autora.
@@ -326,7 +343,9 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 1. Przekazanie pracy na licytację prowadzoną przez Organizatora jest **dobrowolne**. Zgłoszenie plebiscytowe nie zawiera w tej sprawie żadnej deklaracji.
 
-2. **Po wyborze finalistów przez jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane prowizje i inne potrącenia, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
+2. **Po wyborze finalistów przez jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, **zamknięty wykaz kosztów wraz z ich maksymalną łączną wysokością**, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
+
+2c. **Granica potrąceń.** Potrącenie kosztu nieujętego w wykazie z ust. 2 albo przekroczenie wskazanej w nim maksymalnej łącznej wysokości wymaga **uprzedniej zgody autora**. Podstawą podziału, o którym mowa w ust. 3, jest **cena faktycznie otrzymana od nabywcy, pomniejszona wyłącznie o koszty zaakceptowane przez autora**.
 
 2a. Propozycję, o której mowa w ust. 2, Organizator kieruje do finalistów **po wyborze dziesięciu finalistów przez jury** (§ 8 ust. 4b), łącznie z zawiadomieniem o obowiązku dostarczenia oryginału (§ 10 ust. 2). **Jury nie jest informowane o tym, czy autor przyjął warunki licytacji, ani o treści jego odpowiedzi, ani przed ustaleniem kolejności całej dziesiątki, ani po nim.** Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik plebiscytu, na nagrody i na udział w wystawie.
 
@@ -349,6 +368,8 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 7. Sposób przeprowadzenia cichej licytacji Organizator ogłasza przed otwarciem naboru, a jeżeli galeria zostanie pozyskana później - w propozycji, o której mowa w § 10 ust. 3a.
 
 8. **Własna sprzedaż pracy - link w Archiwum.** Uczestnik może, **nieobowiązkowo**, wskazać w zgłoszeniu link do własnej oferty sprzedaży albo aukcji swojej pracy w wybranym przez siebie serwisie oraz **datę zakończenia tej oferty**. Link prezentowany jest przy wpisie Uczestnika w Archiwum **do wskazanej przez niego daty**, po której Organizator go usuwa. Uczestnik może w każdej chwili żądać zmiany albo usunięcia linku i daty; Organizator wykonuje żądanie w terminie 14 dni.
+
+8z. **Zakaz dwóch sprzedaży tej samej pracy.** Autor nie może doprowadzić do zawarcia dwóch umów sprzedaży tego samego oryginału. Przed rozpoczęciem przyjmowania wiążących ofert w licytacji prowadzonej przez Organizatora autor **zamyka albo zawiesza własną ofertę i potwierdza to Organizatorowi**; wcześniejsza sprzedaż pracy wyłącza ją z licytacji Organizatora. Niewykonanie tego obowiązku nie wpływa na wynik plebiscytu, lecz obciąża autora wobec nabywców.
 
 8a. **Organizator nie jest stroną tej sprzedaży.** Nie pośredniczy w niej, nie przyjmuje zapłaty, nie weryfikuje ceny, przebiegu ani uczciwości transakcji, nie odpowiada za jej wykonanie przez którąkolwiek ze stron i **nie otrzymuje z niej żadnej części przychodu**. Podział, o którym mowa w ust. 3, nie dotyczy własnej sprzedaży.
 

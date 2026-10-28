@@ -14,6 +14,19 @@
 
 5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na rozmowę ze sztuczną inteligencją, na piosenkę o niej i na plakat o niej, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
 
+
+## § 1a. Ustalenie werdyktu a jego publiczne ogłoszenie
+
+1. **Ustalenie werdyktu** oznacza przyjęcie przez jury ostatecznej kolejności zgłoszeń. **Publiczne ogłoszenie werdyktu** następuje podczas gali. **Zawiadomienie finalisty albo laureata o wyniku nie jest publicznym ogłoszeniem.**
+
+2. Ilekroć niniejszy regulamin wiąże skutek z ogłoszeniem werdyktu, rozumie się przez to **publiczne ogłoszenie na gali**, chyba że przepis wyraźnie odsyła do ustalenia werdyktu.
+
+3. **Poufność wyniku.** Osoba zawiadomiona o wyniku przed jego publicznym ogłoszeniem zachowuje go w poufności do chwili tego ogłoszenia, nie dłużej jednak niż **do upływu 30 dni od dnia gali wskazanego w ogłoszeniu o otwarciu naboru**; po tym terminie obowiązek poufności wygasa, choćby gala została przesunięta.
+
+4. Poufność nie obejmuje przekazania informacji **przedstawicielowi ustawowemu, współtwórcom zgłoszenia oraz doradcy** - prawnemu, podatkowemu albo księgowemu - zobowiązanym do zachowania jej w tajemnicy.
+
+5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem Plebiscytu jest **film o sztucznej inteligencji i jej roli w świecie**, dowolnej formy: fabularnej, dokumentalnej, eseju filmowego, animacji albo formy mieszanej.
@@ -309,9 +322,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    a) **do dnia zamknięcia naboru** - zgłoszenie uznaje się za wycofane;
 
-   b) **między zamknięciem naboru a ogłoszeniem werdyktu** - zgłoszenie nie może być dalej oceniane i nie bierze udziału w dalszych etapach; nie rodzi to roszczeń wobec Organizatora;
+   b) **między zamknięciem naboru a ustaleniem werdyktu** (§ 1a ust. 1) - zgłoszenie nie może być dalej oceniane i nie bierze udziału w dalszych etapach; nie rodzi to roszczeń wobec Organizatora;
 
-   c) **między ogłoszeniem werdyktu a galą** - **nie powoduje utraty nagrody** ani zwrotu nagrody wypłaconej. Film przestaje natomiast brać udział w głosowaniu publiczności, które trwa do dnia gali, a Organizator oznacza wpis jako niedostępny;
+   c) **między ustaleniem werdyktu a jego publicznym ogłoszeniem na gali** - **nie powoduje utraty nagrody** ani zwrotu nagrody wypłaconej. Film przestaje natomiast brać udział w głosowaniu publiczności, które trwa do dnia gali, a Organizator oznacza wpis jako niedostępny;
 
    d) **po gali** - nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w Archiwum pozostaje bez działającego linku, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
 

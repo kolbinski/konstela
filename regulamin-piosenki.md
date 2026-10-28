@@ -14,6 +14,19 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 4. Adresem do korespondencji w sprawach plebiscytu jest kontakt@konstela.org.
 
+
+## § 1a. Ustalenie werdyktu a jego publiczne ogłoszenie
+
+1. **Ustalenie werdyktu** oznacza przyjęcie przez jury ostatecznej kolejności zgłoszeń. **Publiczne ogłoszenie werdyktu** następuje podczas gali. **Zawiadomienie finalisty albo laureata o wyniku nie jest publicznym ogłoszeniem.**
+
+2. Ilekroć niniejszy regulamin wiąże skutek z ogłoszeniem werdyktu, rozumie się przez to **publiczne ogłoszenie na gali**, chyba że przepis wyraźnie odsyła do ustalenia werdyktu.
+
+3. **Poufność wyniku.** Osoba zawiadomiona o wyniku przed jego publicznym ogłoszeniem zachowuje go w poufności do chwili tego ogłoszenia, nie dłużej jednak niż **do upływu 30 dni od dnia gali wskazanego w ogłoszeniu o otwarciu naboru**; po tym terminie obowiązek poufności wygasa, choćby gala została przesunięta.
+
+4. Poufność nie obejmuje przekazania informacji **przedstawicielowi ustawowemu, współtwórcom zgłoszenia oraz doradcy** - prawnemu, podatkowemu albo księgowemu - zobowiązanym do zachowania jej w tajemnicy.
+
+5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
+
 ## § 2. Przedmiot plebiscytu
 
 1. Przedmiotem plebiscytu jest własna piosenka o sztucznej inteligencji i jej roli w świecie: własny tekst, własna muzyka i własne wykonanie Uczestnika.
@@ -80,7 +93,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
-   c1) **tekst utworu** - pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i jest udostępniany wyłącznie akademii i jury; **nie jest publikowany** ani w Słuchalni, ani w Archiwum, ani w materiałach Nagrody. Tekst ma odpowiadać temu, co słychać w nagraniu; rozbieżność drobna, wynikająca z wykonania, nie jest podstawą odrzucenia;
+   c2) **tekst utworu** - pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i jest udostępniany wyłącznie akademii i jury; **nie jest publikowany** ani w Słuchalni, ani w Archiwum, ani w materiałach Nagrody. Tekst ma odpowiadać temu, co słychać w nagraniu; rozbieżność drobna, wynikająca z wykonania, nie jest podstawą odrzucenia;
 
    d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 
@@ -98,7 +111,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 7. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Tekst utworu nie jest publikowany. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
 
-8. Po ogłoszeniu werdyktu Słuchalnia edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
+8. Po **publicznym ogłoszeniu werdyktu na gali** (§ 1a ust. 1) Słuchalnia edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
