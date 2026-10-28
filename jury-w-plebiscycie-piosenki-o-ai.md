@@ -19,7 +19,7 @@
 
 ### Co oceniasz
 
-Nie wszystkie zgłoszenia. Pierwsze przejście wykonuje **akademia piosenki** – grono muzyków z doświadczeniem wykonawczym, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy ogłaszamy przed otwarciem naboru, żeby nakład pracy był znany przed przyjęciem zadania, a nie po.
+Nie wszystkie zgłoszenia. **Pierwszą ocenę zgłoszonych piosenek wykonuje akademia piosenki** – grono muzyków z doświadczeniem wykonawczym, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
 
 ### Według czego
 
