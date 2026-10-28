@@ -219,6 +219,8 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 
 **Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na którą głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
+**Twoje nagranie ma działać do końca głosowania.** Jeśli zniknie, dostajesz co najmniej 14 dni na przywrócenie go albo wskazanie tego samego nagrania pod innym linkiem. Krótka awaria serwisu niczego Ci nie odbiera, ale jeśli nagranie było niedostępne nieprzerwanie dłużej niż 7 dni i nie wróci do zamknięcia głosowania, oddane na nie głosy nie liczą się do Nagrody Publiczności. Zgłoszenie zostaje wtedy w plebiscycie i w ocenie jury.
+
 **Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
 **Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
