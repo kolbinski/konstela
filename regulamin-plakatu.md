@@ -203,13 +203,74 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 | Razem | 100 | |
 
 1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 8 ust. 5 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez akademię plakatu (§ 8 ust. 4f). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
-1b. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
-2. Karta oceny jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
+1c. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
+
+2. **Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu i stanowi jego część.** Obowiązuje akademię i jury w tej samej wersji. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
 3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia, wcześniejszych wystaw ani uzasadnienia „dlaczego warte nagrody głównej" (§ 4 ust. 2 lit. c1).
 
 4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Pomysł plastyczny, następnie w kryterium Ujęcie tematu, a w razie dalszej równości - głos przewodniczącego jury.
+
+### Karta oceny: co znaczy każda liczba punktów
+
+Karta jest częścią niniejszego paragrafu. Obowiązuje akademię plakatu i jury w tej samej wersji, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia. Jest jawna od dnia ogłoszenia naboru i nie zmienia się po jego otwarciu.
+
+Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać element pracy uzasadniający ocenę**.
+
+#### Ujęcie tematu - 30 punktów
+
+Co praca mówi o życiu ze sztuczną inteligencją. Oceniana jest trafność i oryginalność wypowiedzi, nie sam temat ani stanowisko autora.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-5** | Praca nie mówi nic o temacie: jest ilustracją hasła albo zbiorem rekwizytów. |
+| **6-11** | Wypowiedź obiegowa - powtarza to, co w tej sprawie mówi się powszechnie. |
+| **12-17** | Własna myśl jest, ale niedoprowadzona: praca sygnalizuje stanowisko, którego nie rozwija. |
+| **18-23** | Wypowiedź wyraźna i konsekwentna; widz potrafi powiedzieć, co praca twierdzi. |
+| **24-27** | Ujęcie, które przestawia patrzenie na rzecz znaną - widz sam by go nie znalazł, a po obejrzeniu uznaje za oczywiste. |
+| **28-30** | Wypowiedź na tyle własna, że praca staje się punktem odniesienia w rozmowie o tym temacie. |
+
+#### Pomysł plastyczny - 30 punktów
+
+Jak praca to pokazuje: przełożenie wypowiedzi na obraz, metaforę i relacje między elementami. **Niżej punktowane jest banalne użycie motywu, a nie sam motyw** - znany symbol użyty świeżo punktuje wysoko.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-5** | Brak pomysłu plastycznego: praca jest podpisem pod rysunkiem albo rysunkiem pod podpisem. |
+| **6-11** | Rozwiązanie ograne - motyw użyty tak, jak widzieliśmy go już wiele razy, bez przesunięcia. |
+| **12-17** | Pomysł jest, ale rozwiązany niekonsekwentnie: część elementów pracuje, część tylko wypełnia pole. |
+| **18-23** | Czytelna metafora prowadzona przez całą kompozycję; relacje między elementami mają znaczenie. |
+| **24-27** | Obraz mówi to, czego nie trzeba dopowiadać słowem; rozwiązanie zaskakuje i broni się przy drugim spojrzeniu. |
+| **28-30** | Pomysł i wypowiedź są nierozdzielne - tej myśli nie dałoby się pokazać inaczej bez utraty sensu. |
+
+#### Wykonanie - 20 punktów
+
+Świadome zastosowanie techniki, koloru i rysunku. Oceniana jest celowość decyzji warsztatowych, nie nakład pracy.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-3** | Wykonanie uniemożliwia odbiór pracy: przypadkowy kolor, niekontrolowany rysunek, brudna powierzchnia. |
+| **4-7** | Technika obojętna wobec treści - równie dobrze mogłaby służyć innej pracy. |
+| **8-11** | Warsztat poprawny, ale nierówny: obok rozwiązań trafnych stoją przypadkowe. |
+| **12-15** | Technika, kolor i rysunek dobrane świadomie i konsekwentnie. |
+| **16-18** | Materia pracy niesie znaczenie: faktura, ślad narzędzia albo zestawienie barw mówią coś same z siebie. |
+| **19-20** | Wykonanie, którego nie dałoby się zastąpić inną techniką bez zmiany wypowiedzi. |
+
+#### Działanie plakatu - 20 punktów
+
+Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w pomniejszeniu. Pytanie brzmi, czy to jest plakat, a nie obraz sztalugowy.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-3** | W pomniejszeniu praca rozpada się na plamy; z odległości nie widać niczego. |
+| **4-7** | Brak hierarchii: wszystkie elementy walczą o uwagę i żaden jej nie dostaje. |
+| **8-11** | Praca działa z bliska, ale w pomniejszeniu traci to, co w niej najważniejsze. |
+| **12-15** | Czytelna hierarchia i rozpoznawalny obraz w każdej skali. |
+| **16-18** | Praca zatrzymuje wzrok z odległości, a po podejściu daje coś więcej. |
+| **19-20** | Obraz, który zapamiętuje się po jednym spojrzeniu i rozpoznaje w znaczku na okładce. |
+
+**Razem: 100 punktów.**
 
 ## § 8. Jury i tryb oceny
 

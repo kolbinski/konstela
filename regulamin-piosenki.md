@@ -221,15 +221,76 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 | Razem | 100 | |
 
 1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 10 ust. 7 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez akademię (§ 10 ust. 5). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
-1b. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
+
+1c. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
 1b. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Tekst, następnie w kryterium Ujęcie tematu, następnie w kryterium Muzyka, a w razie dalszej równości - głos przewodniczącego jury.
 
-2. Karta oceny jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
+2. **Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu i stanowi jego część.** Obowiązuje akademię i jury w tej samej wersji. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
 3. W kryterium Wykonanie ocenia się wokal i interpretację w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium.**
 
 4. Oceniający nie bierze pod uwagę okładki zgłoszenia ani uzasadnienia „dlaczego warte nagrody głównej", liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
+
+### Karta oceny: co znaczy każda liczba punktów
+
+Karta jest częścią niniejszego paragrafu. Obowiązuje akademię piosenki i jury w tej samej wersji, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia. Jest jawna od dnia ogłoszenia naboru i nie zmienia się po jego otwarciu.
+
+Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać miejsce w utworze uzasadniające ocenę** - wers, fragment melodii albo moment nagrania.
+
+#### Ujęcie tematu - 25 punktów
+
+Co utwór mówi o życiu ze sztuczną inteligencją. Oceniana jest oryginalność i konkretność spojrzenia, nie sam temat.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-4** | Temat jest wspomniany, ale utwór nic o nim nie mówi: zostaje hasło albo rekwizyt. |
+| **5-9** | Ujęcie obiegowe - powtarza to, co w tej sprawie mówi się powszechnie, bez własnej obserwacji. |
+| **10-14** | Własna obserwacja jest, ale niekonsekwentna albo zasłonięta ogólnikami; utwór nie doprowadza myśli do końca. |
+| **15-19** | Wyraźne, własne spojrzenie, utrzymane przez cały utwór. Słuchacz potrafi po odsłuchu powiedzieć, co utwór twierdzi. |
+| **20-23** | Spojrzenie, które przestawia patrzenie na rzecz znaną - ujęcie, którego słuchacz sam by nie znalazł, a po odsłuchu uznaje za oczywiste. |
+| **24-25** | Ujęcie na tyle własne i tak poprowadzone, że utwór staje się punktem odniesienia w rozmowie o tym temacie. |
+
+#### Tekst - 30 punktów
+
+Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-5** | Tekst nie trzyma się kupy: rymy wymuszają treść, obrazy są przypadkowe, zdania nie układają się w całość. |
+| **6-11** | Tekst poprawny, lecz zbudowany z gotowych zwrotów; nic w nim nie zaskakuje. |
+| **12-17** | Są dobre pojedyncze miejsca - obraz, zwrot, pointa - ale reszta ich nie dorównuje albo konstrukcja się rozsypuje. |
+| **18-23** | Tekst spójny, z własnym językiem i czytelną konstrukcją; refren i zwrotki robią różne rzeczy i obie są potrzebne. |
+| **24-27** | Tekst, który działa także bez muzyki, a z muzyką zyskuje: frazowanie wynika z melodii, akcenty padają tam, gdzie trzeba. |
+| **28-30** | Tekst, który zostaje w głowie zdaniami, a nie tylko refrenem, i którego nie dałoby się napisać o niczym innym. |
+
+#### Muzyka - 25 punktów
+
+Melodia, harmonia i forma: spójność, pomysłowość oraz to, czy utwór zostaje w pamięci.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-4** | Melodia nie istnieje albo jest przypadkowa; harmonia przeszkadza tekstowi. |
+| **5-9** | Materiał całkowicie wtórny: schemat bez własnego pomysłu, forma rozsypana albo przeciągnięta. |
+| **10-14** | Melodia poprawna, forma czytelna, ale utwór nie ma momentu, który by się zapamiętało. |
+| **15-19** | Melodia własna i nośna, forma przemyślana, przejścia uzasadnione; utwór zostaje po jednym odsłuchu. |
+| **20-23** | Muzyka niesie znaczenie sama z siebie - rozwiązanie harmoniczne albo melodyczne mówi coś, czego nie powiedziano słowami. |
+| **24-25** | Muzyka i tekst są nierozdzielne: tej melodii nie dałoby się podłożyć pod inny tekst bez utraty sensu. |
+
+#### Wykonanie - 20 punktów
+
+Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium.**
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-3** | Wykonanie uniemożliwia ocenę utworu: tekstu nie da się zrozumieć, intonacja rozsypuje melodię. |
+| **4-7** | Wykonanie obojętne - poprawne technicznie albo nie, ale nieniosące żadnej interpretacji. |
+| **8-11** | Interpretacja pojawia się miejscami, lecz nie utrzymuje się przez cały utwór. |
+| **12-15** | Wykonanie konsekwentne i zgodne z tekstem: słychać, że ktoś wie, o czym śpiewa. |
+| **16-18** | Interpretacja dodaje utworowi znaczenia, którego nie ma w samym zapisie - frazowanie, oddech, cisza w dobrym miejscu. |
+| **19-20** | Wykonanie, bez którego ten utwór byłby inną piosenką. |
+
+**Razem: 100 punktów.**
 
 ## § 10. Jury i tryb oceny
 
