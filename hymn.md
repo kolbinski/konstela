@@ -2,7 +2,7 @@
 
 ## <!--ikona:nuta--><span>Skąd się bierze hymn</span>
 
-Osobno od plebiscytu na [najpopularniejszą piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej”. **Muzyka będzie nowa i ludzka** – nie jest to wykonanie melodii z generatora, lecz kompozycja napisana do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. **Kto ją skomponuje, nagra i wykona, ogłosimy, gdy będzie to ustalone.** Na gali hymn zabrzmi na żywo. Wykonawcy hymnu nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami – hymn do plebiscytu nie wchodzi.
+Osobno od plebiscytu na [najlepszą piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) powstanie **hymn Nagrody Konstela** do tekstu „Zapytaj inaczej”. **Muzyka będzie nowa i ludzka** – nie jest to wykonanie melodii z generatora, lecz kompozycja napisana do tych samych słów. Hymn podlega więc tej samej zasadzie, którą stawiamy zgłaszającym: melodia pochodzi od człowieka. **Kto ją skomponuje, nagra i wykona, ogłosimy, gdy będzie to ustalone.** Na gali hymn zabrzmi na żywo. Wykonawcy hymnu nie biorą udziału w plebiscycie i nie konkurują ze zgłoszeniami – hymn do plebiscytu nie wchodzi.
 
 **Dwie wersje AI, trzecia ludzka.** Zaczynamy od punktu, w którym dziś stoi każdy. Muzykę i wykonanie wygenerował suno.com. Tekst powstał tak, jak zasady tego plebiscytu dopuszczają: z wielogodzinnej rozmowy z AI zakończonej prośbą o wersję tekstu, a potem z naszych decyzji, co w niej zostaje, a co wypada. Dwie wersje, dwa podejścia do tych samych słów. Nie nazywamy ich demem ani materiałem roboczym, bo nim nie są – to jest dokładnie to, co dzisiaj potrafi AI, i to jest nasz punkt wyjścia.
 
@@ -61,9 +61,9 @@ I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rze
 > **[Zwrotka 3]**
 >
 > Była druga w nocy, nie było olśnienia,
-> było trzydzieści pytań i jedno "a gdyby".
-> I nagle wszystko, co wiedziałem wcześniej,
-> ułożyło się w kształt, którego nie było.
+> było sto podejść i jedno „a gdyby”.
+> Jeden kadr, jedna kreska, jeden takt ciszy
+> złożyły się w kształt, którego nie było.
 >
 > **[Most]**
 >
@@ -81,6 +81,6 @@ I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rze
 >
 > **[Zakończenie]**
 >
-> Zapisz tę rozmowę, zostaw po sobie ślad.
-> Ktoś za dziesięć lat przeczyta, jak myślał ten świat.
+> Zostaw po sobie ślad, nadaj mu własny kształt.
+> Ktoś za dziesięć lat zobaczy, jak myślał ten świat.
 
