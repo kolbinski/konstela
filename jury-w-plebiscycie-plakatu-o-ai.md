@@ -26,7 +26,7 @@
 
 ### Kto może zgłosić plakat
 
-**Plebiscyt jest otwarty dla każdego od 16 roku życia.** Przyjmujemy plakaty o sztucznej inteligencji wykonane ręcznie – farbą, tuszem, kolażem, dowolną techniką tradycyjną – także prace zespołowe. Jeden warunek: **obraz ma powstać pod ludzką ręką**, bez generatora obrazu.
+**Plebiscyt jest otwarty dla każdego od 16 roku życia.** Przyjmujemy plakaty podejmujące tematykę sztucznej inteligencji wykonane ręcznie – farbą, tuszem, kolażem, dowolną techniką tradycyjną – także prace zespołowe. Jeden warunek: **obraz ma powstać pod ludzką ręką**, bez generatora obrazu.
 
 ### Dlaczego akurat plakat
 
