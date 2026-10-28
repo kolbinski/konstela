@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zostaw nam adres](#kontakt) - napiszemy w dniu otwarcia naboru, a potem jeszcze raz, gdy [edycja będzie już pewna](#wymagania). Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/film.jpg" srcset="/assets/film-800.jpg 800w, /assets/film.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji.">
 
@@ -287,7 +287,7 @@ Druga rzecz, o której trzeba powiedzieć wprost: **przy mniej niż dziesięciu 
 
 **Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
 
-**Drugą w dniu, w którym edycja jest już pewna**: kiedy liczba zgłoszeń, które przeszły weryfikację formalną, przekroczy dziesięć, a jury ma co oceniać. Od tej chwili ryzyko nierozstrzygnięcia znika i zostaje Ci tylko to, na co masz wpływ - czyli własny film. Nabór trwa do 30 listopada 2027 roku, więc jeżeli ta wiadomość przyjdzie wcześniej, masz jeszcze czas na realizację.
+**Drugą wtedy, gdy co najmniej dziesięć zgłoszeń przejdzie weryfikację formalną i potwierdzimy rozstrzygnięcie edycji.** Od tej chwili ryzyko nierozstrzygnięcia znika i zostaje Ci tylko to, na co masz wpływ - czyli własny film. Nie wiemy dziś, kiedy ta wiadomość przyjdzie; nabór trwa do 30 listopada 2027 roku.
 
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 
