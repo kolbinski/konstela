@@ -235,7 +235,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 ### Galeria
 
-**Prace, które przeszły weryfikację formalną, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
+**Prace, które przeszły weryfikację formalną, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, uzasadnienie „dlaczego warte nagrody głównej", technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
 
 <h3 id="archiwum">Archiwum</h3>
 

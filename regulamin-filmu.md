@@ -129,7 +129,7 @@
 2. Zgłoszenie potwierdzane jest jednorazowym kodem przesłanym na podany numer telefonu. Organizator nie przechowuje numeru w postaci jawnej.
 2a. **Limit dotyczy osoby, nie numeru telefonu.** Jedna osoba może reprezentować **jedno zgłoszenie w tym plebiscycie i w tej edycji**; numer telefonu jest wyłącznie narzędziem weryfikacji, a nie definicją osoby. Osoba, która nie może odebrać wiadomości SMS albo korzysta z numeru wspólnego z inną osobą, zgłasza to na adres wskazany w § 1; Organizator ustala wówczas inny, równie wiarygodny sposób potwierdzenia zgłoszenia. **Brak własnego numeru telefonu nie może być powodem wykluczenia.** Limit nie przenosi się między plebiscytami: ta sama osoba może zgłosić po jednej pracy w każdym z czterech plebiscytów Nagrody.
 
-3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i Archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
+3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i Archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, czas trwania, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej", deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
 
 ## § 5. Wymogi formalne
 
@@ -332,7 +332,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
-4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do Archiwum**, dostępnego bezpłatnie i bez ograniczeń. W Archiwum zostaje tytuł, podpis, miniatura, link do zwiastuna, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link do filmu, link z § 4 ust. 1 lit. h1 i rok edycji. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
+4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do Archiwum**, dostępnego bezpłatnie i bez ograniczeń. W Archiwum zostaje tytuł, podpis, miniatura, **czas trwania filmu**, link do zwiastuna, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link do filmu, link z § 4 ust. 1 lit. h1 i rok edycji. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
 
 5. Organizator może zdjąć wpis z Projektorni albo z Archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 
@@ -414,7 +414,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 2. **Prawa do filmu pozostają w całości przy jego twórcach.** Uczestnik udziela Organizatorowi licencji **niewyłącznej**, nieodpłatnej, w następujących zakresach:
 
-   a) prezentacja wpisu w Projektorni i w Archiwum, obejmująca tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link - **na czas nieoznaczony**;
+   a) prezentacja wpisu w Projektorni i w Archiwum, obejmująca tytuł, podpis, miniaturę, czas trwania, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej", deklarację i link - **na czas nieoznaczony**;
 
    b) prezentacja **zwiastuna** podczas gali oraz w zapisie wideo gali udostępnianym następnie bezpłatnie, wraz z pobraniem i technicznym przygotowaniem zwiastuna do emisji w zakresie z § 10 ust. 3 - **na pięć lat** od dnia gali;
 

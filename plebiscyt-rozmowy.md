@@ -18,7 +18,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
 - obok nich przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
-- **dziesięć najlepszych rozmów** składa się na antologię - bezpłatny e-book, a po pozyskaniu wydawnictwa także wydanie książkowe
+- **dziesięć najlepszych rozmów** składa się na antologię - bezpłatny e-book, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie - rozmów w antologii może być mniej
 - wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia)
 - zgłaszasz **jedną rozmowę w jednej edycji**
 - nabór zamykamy **15 stycznia 2028**
@@ -68,11 +68,11 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 **Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 
-- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy (share link). Link pokazuje wersję, którą udostępniłeś; nie zawiera edytowanych poleceń ani dopisanego dialogu z AI. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas trwania edycji plebiscytu. Wyklucza to narzędzia bez funkcji udostępniania
-- **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą. Górny limit to 25 tysięcy słów całości
-- **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne
-- **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia. O sobie i o publicznej działalności osób publicznych, firm i instytucji możesz pisać swobodnie
-- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien z różnymi czatami. W danej edycji możesz zrobić tylko jedno zgłoszenie na numer telefonu, potwierdzane kodem z SMS; numer służy wyłącznie temu i nie przechowujemy go w postaci jawnej. Jeżeli jury wybierze Cię do finałowej dziesiątki, poprosimy o numer ponownie - na potrzeby rozmowy weryfikacyjnej. To krótka rozmowa, do 20 minut, telefoniczna albo wideo, o treści Twojego zgłoszenia: sprawdzamy w niej, czy rozumiesz wątek, który prowadziłeś, i potrafisz pociągnąć go dalej. Nie zmienia punktacji
+- **link do rozmowy, nie transkrypt** - zgłaszasz rozmowę udostępnioną po stronie dostawcy (share link). Link pokazuje udostępnioną wersję wątku, a nie całą historię jego powstawania; samo przeredagowanie wcześniejszego pytania nie jest więc inscenizacją ani powodem odrzucenia. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas trwania edycji plebiscytu. Wyklucza to narzędzia bez funkcji udostępniania
+- **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** - liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą; przy progu słów działa tolerancja 5 procent, którą opisuje regulamin. Górny limit to 25 tysięcy słów całości
+- **po polsku** - nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne. Pojedyncza odpowiedź AI w innym języku nie przekreśla zgłoszenia, jeżeli rozmowę da się ocenić
+- **bez osób prywatnych i bez oskarżeń** - rozmowa nie może dotyczyć osób nieznanych publicznie, nawet pod inicjałem, ani stawiać imiennych zarzutów przestępstwa czy nadużycia jako faktu bez wskazania podstawy; regulamin wylicza wyjątki, w tym przytoczenie sprawy opisanej wcześniej publicznie. O sobie i o publicznej działalności osób publicznych, firm i instytucji możesz pisać swobodnie
+- **jeden czat, jedno zgłoszenie** - rozmowa to jeden ciągły wątek, nie historia pocięta na kilkanaście okien z różnymi czatami. W danej edycji jedna osoba może zgłosić jedną rozmowę; numer telefonu potwierdzany kodem z SMS służy wyłącznie weryfikacji i nie przechowujemy go w postaci jawnej. Jeżeli jury wybierze Cię do finałowej dziesiątki, poprosimy o numer ponownie - na potrzeby rozmowy weryfikacyjnej. To krótka rozmowa, do 20 minut, telefoniczna albo wideo, o treści Twojego zgłoszenia: sprawdzamy w niej, czy rozumiesz wątek, który prowadziłeś, i potrafisz pociągnąć go dalej. Nie zmienia punktacji
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
 
