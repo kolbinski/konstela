@@ -50,7 +50,7 @@ Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozosta�
 
 ### Co ocenia jury
 
-**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia)** – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Tych liczb dziś nie znamy, bo zależą od naboru – ale juror poznaje je, zanim się zobowiąże.
+**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia) – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Ostateczna liczba filmów zależy od wyników naboru; maksymalną liczbę filmów i ich łączny metraż uzgadniamy przed zawarciem umowy.
 
 ### Jak jury ocenia zgłoszone filmy
 
@@ -59,7 +59,7 @@ Według [karty oceny](/dokument/regulamin-filmu#karta-oceny), tej samej dla akad
 - **teza** – maksymalnie 30 punktów  
   Co film mówi o sztucznej inteligencji i jej roli w świecie: oryginalność ujęcia tematu. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat – rzecz znana pokazana świeżo punktuje wysoko.
 - **forma** – maksymalnie 30 punktów  
-  Jak to pokazuje: czy środki filmowe służą tezie – montaż, obraz, dźwięk, rytm i wykorzystanie czasu, którym film dysponuje.
+  Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza.
 - **rzetelność** – maksymalnie 20 punktów  
   Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii. W filmie fabularnym i animowanym oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny.
 - **siła oddziaływania** – maksymalnie 20 punktów  
@@ -92,7 +92,7 @@ Nie ocenia budżetu produkcji, sprzętu ani dorobku autora – do plebiscytu zg�
 
 ### Rozliczenie, jeżeli edycja nie zostanie rozstrzygnięta
 
-Warunek dziesięciu zgłoszeń jest realny, więc mówimy o nim także po stronie jury. **Umowa określa rozliczenie pracy już wykonanej oraz zasady odwołania albo przesunięcia edycji, również przy niewystarczającej liczbie zgłoszeń.** Praca wykonana przed takim rozstrzygnięciem – w szczególności etap przygotowania karty oceny – jest rozliczana niezależnie od tego, czy edycja dojdzie do końca.
+Jeżeli wpłynie mniej niż dziesięć zgłoszeń spełniających wymogi, edycja może nie zostać rozstrzygnięta – mówimy o tym także po stronie jury. **Umowa określa rozliczenie pracy już wykonanej oraz zasady odwołania albo przesunięcia edycji, również przy niewystarczającej liczbie zgłoszeń.** Praca wykonana przed takim rozstrzygnięciem – w szczególności etap przygotowania karty oceny – jest rozliczana niezależnie od tego, czy edycja dojdzie do końca.
 
 ### Wpływ na kształt edycji
 
