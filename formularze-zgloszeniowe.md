@@ -74,7 +74,7 @@ Odrębności: wiek od 16 lat. Zgoda opiekuna na prezentację zgłoszenia jest wa
 | Pole | Status |
 |---|---|
 | Reprodukcja pracy: JPG albo PNG, cała praca w kadrze, krótszy bok od 2000 px, do 15 MB | obowiązkowe |
-| Nagranie z powstawania pracy, co najmniej 5 minut - plik albo link do serwisu wideo | obowiązkowe |
+| Nagranie z powstawania pracy, co najmniej 3 minuty, z jednym nieprzerwanym przejściem od twarzy do pracy - link do serwisu wideo | obowiązkowe |
 | Technika | obowiązkowe |
 | Wymiary oryginału | obowiązkowe |
 | Rok powstania | obowiązkowe |

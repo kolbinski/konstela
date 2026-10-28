@@ -101,6 +101,23 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 4. Zmiana terminów po otwarciu naboru następuje na zasadach określonych w § 19 ust. 3.
 
+
+## § 4b. Piosenka powstaje na potrzeby tego plebiscytu
+
+1. Zgłoszony utwór musi zostać **napisany i nagrany na potrzeby plebiscytu** oraz **ukończony w roku edycji, najpóźniej w dniu zgłoszenia**. Rokiem edycji pierwszej jest 2027. Liczy się data ukończenia, a nie data opublikowania nagrania.
+
+2. Zgłoszony być nie może utwór, który przed dniem zgłoszenia:
+
+   a) został **wydany albo wprowadzony do dystrybucji** - fonograficznej lub cyfrowej, odpłatnej lub nieodpłatnej, w tym w serwisach streamingowych;
+
+   b) jest **przeróbką utworu ukończonego wcześniej**, w szczególności nową aranżacją, skróceniem albo tym samym utworem z nowym tekstem.
+
+3. **Opublikowanie własnego nagrania na kanale Uczestnika nie jest wydaniem ani wprowadzeniem do dystrybucji.** Zgłoszenie polega na wskazaniu linku do takiego nagrania (§ 5 ust. 1), więc jego publikacja jest częścią zgłoszenia, a nie przeszkodą. Nie jest nią również wykonanie utworu na żywo, próba, nagranie z koncertu ani udostępnienie utworu wąskiemu gronu.
+
+4. **Zgłaszanie utworu do innych konkursów i przeglądów jest dozwolone**, również w czasie trwania plebiscytu, i nie wymaga zawiadomienia Organizatora.
+
+5. Czego ust. 2 lit. b **nie zakazuje**: wykorzystania wcześniej napisanych fragmentów, motywu muzycznego, szkicu tekstu ani materiału nagranego wcześniej jako składnika nowego utworu. Warunek dotyczy **ukończonego utworu**, a nie jego części składowych.
+
 ## § 5. Forma zgłoszenia
 
 1. Zgłoszeniem jest jedna piosenka, zgłaszana w postaci linku do nagrania opublikowanego w serwisie YouTube jako dostępne publicznie lub niepubliczne z dostępem przez link. Organizator nie przyjmuje plików dźwiękowych.
@@ -198,7 +215,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    d) tekst utworu nie jest w języku polskim;
 
-   e) utwór trwa krócej niż 3 minuty lub dłużej niż 6 minut;
+   e) utwór trwa krócej niż 2 minuty lub dłużej niż 6 minut;
 
    f) utwór został wcześniej wydany komercyjnie, to jest udostępniony odpłatnie lub w serwisach streamingowych za pośrednictwem wydawcy albo dystrybutora; publikacja na własnym kanale Uczestnika nie jest wydaniem komercyjnym i nie wyłącza zgłoszenia;
 

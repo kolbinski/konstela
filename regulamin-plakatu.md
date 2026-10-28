@@ -85,7 +85,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
    a) reprodukcję pracy - plik JPG albo PNG, cała praca w kadrze, krótszy bok nie mniejszy niż 2000 pikseli, objętość do 15 MB;
 
-   b) **nagranie z powstawania pracy, trwające co najmniej 5 minut** - obowiązkowe, na zasadach z § 4a. Nagranie ma pozwolić powiązać Uczestnika z wykonywaniem pracy;
+   b) **nagranie z powstawania pracy, trwające co najmniej 3 minuty** - obowiązkowe, na zasadach z § 4a. Nagranie ma pozwolić powiązać Uczestnika z wykonywaniem pracy;
 
    b1) **pozostałe posiadane materiały dokumentujące powstawanie pracy** - fotografie etapów, szkice, próby - nieobowiązkowe. Uczestnik dołącza to, czym dysponuje; brak materiałów tego rodzaju nie stanowi samodzielnej podstawy odrzucenia zgłoszenia;
 
@@ -124,15 +124,15 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. Nagranie przekazuje się **jako link do nagrania w serwisie YouTube**. Nagranie może być niepubliczne i musi być dostępne **do zamknięcia głosowania publiczności** (§ 12 ust. 5c). Jeżeli przestanie być dostępne z przyczyn niezależnych od Uczestnika - awarii, blokady albo ograniczenia nałożonego przez serwis - Organizator zawiadamia go i wyznacza termin **nie krótszy niż 14 dni** na przywrócenie dostępu albo wskazanie identycznego nagrania pod innym linkiem; dopiero bezskuteczny upływ tego terminu powoduje wyłączenie zgłoszenia. Głosy oddane wcześniej pozostają ważne. Organizator zwraca uwagę, że dostęp do nagrania niepublicznego określają zasady serwisu, nad którymi nie ma kontroli: nagranie takie może obejrzeć każdy, kto dysponuje linkiem.
 
-3. Nagranie trwa **co najmniej 5 minut** i spełnia następujące warunki:
+3. Nagranie trwa **co najmniej 3 minuty** i spełnia następujące warunki:
 
    a) może składać się z kilku fragmentów, ale każdy z nich trwa nie krócej niż 60 sekund i nie zawiera cięcia w obrębie kadru;
 
-   b) łączny czas liczony jest wyłącznie z fragmentów nagranych w czasie rzeczywistym. Nagranie przyspieszone jest dopuszczalnym dodatkiem, lecz nie wlicza się do wymaganych 5 minut;
+   b) łączny czas liczony jest wyłącznie z fragmentów nagranych w czasie rzeczywistym. Nagranie przyspieszone jest dopuszczalnym dodatkiem, lecz nie wlicza się do wymaganych 3 minut;
 
    c) fragmenty dokumentujące wykonywanie pracy pokazują w kadrze jednocześnie **twarz Uczestnika, pracę oraz rękę pracującego nad nią** wraz z narzędziem. Twarz nie musi wypełniać kadru ani być widoczna w zbliżeniu; wystarczy, że pozwala rozpoznać, iż pracę wykonuje osoba zgłaszająca. Przy pracy wykonanej wspólnie wymóg ten odnosi się do każdego ze współautorów, którego praca jest nagrywana;
 
-   c1) jeżeli ze względu na format pracy albo warunki nagrywania objęcie jednym kadrem twarzy, pracy i ręki nie jest możliwe, wymóg z lit. c spełnia również fragment zawierający **nieprzerwane przejście kadru od twarzy Uczestnika do pracy**, bez cięcia i bez przerwy w nagraniu. Przejście może prowadzić w obie strony i może zostać wykonane dowolnie: obrotem telefonu, odsunięciem kamery albo wejściem Uczestnika w kadr i pochyleniem się nad pracą;
+   c1) **niezależnie od lit. c nagranie zawiera co najmniej jeden fragment z nieprzerwanym przejściem kadru od twarzy Uczestnika do wykonywanej pracy**, bez cięcia i bez przerwy w nagraniu. Fragment ten jest obowiązkowy i spełnia jednocześnie wymóg z lit. c, jeżeli ze względu na format pracy albo warunki nagrywania objęcie jednym kadrem twarzy, pracy i ręki nie jest możliwe. Przejście może prowadzić w obie strony i może zostać wykonane dowolnie: obrotem telefonu, odsunięciem kamery albo wejściem Uczestnika w kadr i pochyleniem się nad pracą;
 
    d) fragmenty pokazują pracę na **co najmniej dwóch różnych etapach**, w tym etap zaawansowany, na którym praca jest już rozpoznawalna jako ta sama, którą przedstawia reprodukcja z § 4 ust. 2 lit. a.
 

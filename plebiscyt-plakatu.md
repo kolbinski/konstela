@@ -17,7 +17,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
 - obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
-- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
+- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy przysyłasz oryginał na wystawę
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
 - zwycięska praca trafia na okładkę **[antologii](/#antologia)** - zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
@@ -114,7 +114,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 
 **Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie - oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
-**Dołączasz nagranie z pracy nad plakatem, co najmniej 5 minut.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 5 minut się nie liczą.
+**Dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. **Jedno ujęcie musi być nieprzerwanym przejściem kamery od Twojej twarzy do wykonywanej pracy**, bez cięcia - to ono wiąże Ciebie z tą konkretną robotą. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 3 minut się nie liczą.
 
 **Najprościej ustawić telefon na statywie albo oprzeć go o coś z boku**, tak żeby w kadrze mieściły się naraz Twoja twarz, praca i ręka. Twarz nie musi być duża ani ostra - ma pozwolić rozpoznać, że pracuje ta sama osoba, która zgłasza pracę. Jeżeli pracujesz w dużym formacie i wszystko nie mieści się w jednym kadrze, odsuń kamerę albo nagraj z boku pod kątem.
 

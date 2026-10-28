@@ -80,9 +80,9 @@ Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi
 
 Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):
 
-- utwór trwa **od 3 do 6 minut**
+- utwór trwa **od 2 do 6 minut**
 - **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i każda osoba w akademii i jury musi go rozumieć
-- utwór **nie był wcześniej wydany komercyjnie** - publikacja na własnym kanale wydaniem nie jest i niczego nie blokuje, chodzi o rzeczy wydane przez wydawcę albo dystrybutora
+- **piosenka powstaje na potrzeby tego plebiscytu** i jest ukończona w roku edycji; nie może być wcześniej wydana ani wprowadzona do dystrybucji - także cyfrowej, także bezpłatnej. Opublikowanie własnego nagrania na swoim kanale wydaniem nie jest i niczego nie blokuje, bo na tym polega samo zgłoszenie. Granie utworu na żywo też nie przeszkadza, a zgłaszanie go równolegle do innych konkursów jest dozwolone
 - nagranie pod linkiem **jest dostępne przez cały czas trwania oceny i niezmienione od dnia zamknięcia naboru** - do tego dnia możesz je poprawić, zgłaszając nam to, a oceniamy wersję ostateczną
 - **okładka jest dołączona** i masz do niej prawa
 
