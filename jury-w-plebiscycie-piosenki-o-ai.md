@@ -2,8 +2,6 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył, a skład jury dopiero kompletujemy.** Ta strona mówi wprost, czego oczekujemy od osoby w jury i co dajemy w zamian – żeby decyzja wymagała jednej lektury, a nie trzech rozmów.
-
 ## <!--ikona:nuta--><span>O co chodzi</span>
 
 [Nagroda Konstela](/) to coroczna nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją. Obok plebiscytu na rozmowę stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji: [film](/plebiscyt-filmu), [plakat](/plebiscyt-plakatu) i [piosenka](/plebiscyt-piosenki).
