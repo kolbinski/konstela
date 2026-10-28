@@ -244,9 +244,9 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokaz
 
 Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny. Może się odbyć jako cicha licytacja przy wystawie w galerii albo inaczej, w tym w serwisie aukcyjnym - od galerii sztuki nie zależy.
 
-**Przy zgłoszeniu nie decydujesz o niczym.** Pytamy dopiero po zamknięciu ocen: wtedy dostajesz warunki - cenę minimalną, przewidywane potrącenia i sposób rozliczenia - i wtedy mówisz tak albo nie. Twoja odpowiedź nie trafia do jury przed ustaleniem werdyktu, więc nie może na niego wpłynąć. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
+**Przy zgłoszeniu nie decydujesz o licytacji.** Pytamy dopiero po wyborze przez jury finalistów: wtedy dostajesz warunki - cenę minimalną, przewidywane prowizje i sposób rozliczenia - i wtedy decydujesz. Odmowa nie zmienia ani wyniku plebiscytu, ani nagrody, ani udziału w wystawie.
 
-Jeżeli się zgodzisz, podział jest jednakowy dla wszystkich i ogłoszony z góry: **po odliczeniu zaakceptowanych wcześniej kosztów licytacji pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**. Organizator nie zatrzymuje z tego nic na własną działalność i przedstawia Ci rozliczenie na piśmie.
+Jeżeli się zgodzisz, po odliczeniu zaakceptowanych wcześniej kosztów licytacji **pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**.
 
 ## <!--ikona:iskra--><span>Gala</span>
 

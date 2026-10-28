@@ -320,7 +320,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 1. Przekazanie pracy na licytację jest **dobrowolne**. Zgłoszenie plebiscytowe nie zawiera w tej sprawie żadnej deklaracji.
 
-2. **Po zamknięciu ocen jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane potrącenia, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
+2. **Po wyborze finalistów przez jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane prowizje i inne potrącenia, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
 
 2b. Licytacja może zostać przeprowadzona jako **cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) albo w inny sposób, w tym w serwisie aukcyjnym. **Licytacja nie zależy od pozyskania galerii**; brak galerii oznacza wyłącznie, że zmienia się forma i miejsce wskazane w warunkach z ust. 2.
 
