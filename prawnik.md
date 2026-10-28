@@ -293,6 +293,20 @@ Komplet dokumentów - cztery strony plebiscytów, cztery regulaminy i polityka p
 
 **3. Czy fundacja może prowadzić aukcje prac wszystkich uczestników z podziałem przychodu po połowie.** Dziś regulamin plakatu przewiduje cichą licytację wyłącznie dla finalistów i wyłącznie przy wystawie w galerii, a pozostali uczestnicy mogą jedynie wskazać link do własnej aukcji, w której organizator nie pośredniczy i z której nic nie bierze. Rozważamy rozszerzenie: **aukcje wszystkich zgłoszonych prac, prowadzone przez fundację, z podziałem przychodu po połowie między autora a pulę nagród kolejnej edycji.** Prosimy o ocenę, czy taka działalność jest zbiórką publiczną, odpłatną działalnością pożytku publicznego czy działalnością gospodarczą wymagającą wpisu; czy wymaga umowy komisu albo pośrednictwa i jak skonstruować umocowanie; kto jest sprzedawcą wobec nabywcy i kto odpowiada za wady oraz za niewydanie pracy; jakie obowiązki konsumenckie i podatkowe powstają po obu stronach, także gdy sprzedającym jest osoba między 16 a 18 rokiem życia; oraz czy prowadzenie takich aukcji w serwisie aukcyjnym w programie dla organizacji dopuszcza podział przychodu z osobą prywatną, czy zakłada przekazanie całości na cel statutowy. **Blokuje:** kształt § 14 regulaminu plakatu i sekcję o sprzedaży pracy na stronie plakatu.
 
+## Cs2. Nagrania studyjne finalistów - jakie prawa i od kogo (dodane 28.10.2026)
+
+Regulamin piosenki przyrzeka każdemu z dziesięciu finalistów **nagranie studyjne finansowane przez Organizatora, z prawami przechodzącymi na autora**. Przepis mówi dziś, że prawa „przechodzą", i na tym poprzestaje - a fundacja nie przekaże praw, których sama wcześniej nie nabyła. Prosimy o **model do wpisania do regulaminu przed ogłoszeniem naboru**, obejmujący cztery rzeczy.
+
+**Co składa się na nagranie.** Prawa producenta fonogramu, prawa do artystycznych wykonań wszystkich wykonawców biorących udział w sesji, prawa do aranżacji powstałej w studiu oraz uprawnienia realizatora i producenta muzycznego. Prosimy o wskazanie, które z nich Organizator musi nabyć, a które wystarczy, by wykonawcy udzielili bezpośrednio finaliście.
+
+**Od kogo i kiedy.** Jakie umowy muszą być zawarte **przed sesją** między Organizatorem, studiem, producentem i muzykami sesyjnymi, w jakiej formie, oraz w której chwili prawa mają przechodzić na finalistę - przy przekazaniu mastera czy z chwilą ustalenia utworu.
+
+**Kto jest odbiorcą przy zgłoszeniu zespołowym.** Czy prawa nabywa reprezentant składu, czy wszyscy współuprawnieni łącznie, i jak to pogodzić z wypłatą nagrody do rąk reprezentanta (§ 6).
+
+**Granica swobody umownej.** Warunki uzgadniane ze studiem nie mogą ograniczać świadczenia przyrzeczonego przed naborem. Prosimy o wskazanie, jak to zabezpieczyć - czy wystarczy zastrzeżenie w regulaminie, czy potrzebny jest wzór umowy złożony jako załącznik.
+
+**Blokuje:** ogłoszenie nagrody w postaci nagrania studyjnego, a więc otwarcie naboru w plebiscycie piosenki.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
