@@ -1,5 +1,7 @@
 # Regulamin plebiscytu na film o sztucznej inteligencji
 
+**Dokument w wersji przeznaczonej do przeglądu prawnego - jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
+
 ## § 1. Organizator
 
 1. Organizatorem plebiscytu na film o sztucznej inteligencji ("Plebiscyt") jest fundacja powołana wyłącznie w celu prowadzenia Nagrody Konstela, wpisana do Krajowego Rejestru Sądowego ("Organizator"). Fundacja zostaje powołana i wpisana do rejestru przed otwarciem naboru.
@@ -393,7 +395,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Organizator nie otwiera naboru, jeżeli środki na nagrody pieniężne nie zostały zabezpieczone (§ 9 ust. 2a).
 
-2. Jeżeli po otwarciu naboru liczba zgłoszeń spełniających wymogi formalne jest mniejsza niż pięć, Organizator może nie rozstrzygnąć edycji, ogłaszając to na stronie Nagrody wraz z uzasadnieniem. Nagrody nie są wówczas przyznawane, a zgłoszenia pozostają w Archiwum, jeżeli Uczestnicy nie wycofali ich zgodnie z § 13.
+2. Jeżeli po zakończeniu weryfikacji formalnej oraz postępowań dotyczących kwalifikacji liczba zgłoszeń spełniających wymogi formalne jest mniejsza niż **dziesięć**, Organizator może nie rozstrzygnąć edycji, ogłaszając to na stronie Nagrody wraz z uzasadnieniem. Nagrody nie są wówczas przyznawane, a zgłoszenia pozostają w Archiwum, jeżeli Uczestnicy nie wycofali ich zgodnie z § 13.
 
 ## § 16. Dane osobowe
 

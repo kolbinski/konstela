@@ -2,7 +2,7 @@
 
 Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora Nagrody Konstela i rozstrzyganym na tej samej gali. Regulamin Nagrody Konstela, dostępny pod adresem konstela.org/dokument/regulamin-rozmowy, nie stosuje się do plebiscytu, chyba że niniejszy regulamin wprost do niego odsyła.
 
-Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogłoszony, a nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
+**Dokument w wersji przeznaczonej do przeglądu prawnego - jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
 
 ## § 1. Organizator
 

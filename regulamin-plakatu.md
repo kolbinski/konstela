@@ -2,7 +2,7 @@
 
 Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Nagrody Konstela i rozstrzyganym na tej samej gali. Regulamin Nagrody Konstela oraz regulamin plebiscytu na piosenkę nie stosują się do niniejszego plebiscytu, chyba że ten regulamin wprost do nich odsyła.
 
-Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogłoszony, a nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
+**Dokument w wersji przeznaczonej do przeglądu prawnego - jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
 
 ## § 1. Organizator
 
@@ -310,7 +310,7 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 3. Czas trwania licencji: w zakresie lit. a - do dnia ogłoszenia werdyktu; w zakresie lit. b - bezterminowo, z zastrzeżeniem § 11 ust. 4; w zakresie lit. c - bezterminowo w odniesieniu do zapisu gali; w zakresie lit. c1 - do dnia zakończenia wystawy w galerii, a bezterminowo w odniesieniu do jej dokumentacji; w zakresie lit. d - bezterminowo, w granicach nakładu i wznowień antologii danej edycji.
 
-4. **Warunkiem udziału w plebiscycie jest udzielenie licencji w zakresie ust. 2 lit. a, b i d.** Bez lit. a i b zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału; lit. d dotyczy wyłącznie pracy zwycięskiej i jest warunkiem udziału dlatego, że okładka antologii jest **zapowiedzianą z góry częścią tego plebiscytu**, a antologia ma ustalony termin druku. Zakres ten obejmuje samo wykorzystanie pracy na okładce; **o formie - kadrze, typografii i dostosowaniu do formatu wydania - rozstrzyga § 9 ust. 4a**, a autorskie prawa osobiste autora, w tym prawo do nienaruszalności formy utworu, pozostają przy nim i nie podlegają zrzeczeniu. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), zakres lit. c1 - wyłącznie finalistów, którzy przyjęli propozycję z § 10 ust. 3a, a zakres lit. d wymaga odrębnej zgody. Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
+4. **Warunkiem udziału w plebiscycie jest udzielenie licencji w zakresie ust. 2 lit. a, b i d.** Bez lit. a i b zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału; lit. d dotyczy wyłącznie pracy zwycięskiej i jest warunkiem udziału dlatego, że okładka antologii jest **zapowiedzianą z góry częścią tego plebiscytu**, a antologia ma ustalony termin druku. Zakres ten obejmuje samo wykorzystanie pracy na okładce; **o formie - kadrze, typografii i dostosowaniu do formatu wydania - rozstrzyga § 9 ust. 4a**, a autorskie prawa osobiste autora, w tym prawo do nienaruszalności formy utworu, pozostają przy nim i nie podlegają zrzeczeniu. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), zakres lit. c1 - wyłącznie finalistów, którzy przyjęli propozycję z § 10 ust. 3a, a **zakres lit. d jest udzielany już przy zgłoszeniu, pod warunkiem zajęcia pierwszego miejsca, i nie wymaga późniejszej zgody**; późniejsze uzgodnienie dotyczy wyłącznie formy wykorzystania pracy (§ 9 ust. 4a-4a2). Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
 
 5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do pracy w zakresie pozwalającym na udzielenie licencji określonej w ust. 2 oraz że praca nie narusza praw osób trzecich.
 
@@ -331,6 +331,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego plebiscytu plakatu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
 
 4. Podział, o którym mowa w ust. 3, jest jednakowy dla wszystkich uczestników licytacji i ogłoszony przed otwarciem naboru.
+
+4a. **Jeżeli kolejna edycja plebiscytu na plakat nie zostanie ogłoszona do dnia 31 grudnia drugiego roku następującego po roku gali**, część przychodu przeznaczona na pulę nagród kolejnej edycji **wypłacana jest autorowi pracy** w terminie 30 dni od upływu tego terminu. Organizator nie przeznacza jej na własną działalność, na inny plebiscyt ani na inny cel. Do dnia wypłaty albo przeznaczenia na pulę środki te Organizator wyodrębnia w ewidencji.
 
 5. Organizator rozlicza się z autorem w terminie 30 dni od otrzymania zapłaty od nabywcy. Obowiązki podatkowe po stronie autora w zakresie jego części przychodu obciążają autora.
 

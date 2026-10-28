@@ -1,5 +1,7 @@
 # Regulamin plebiscytu na rozmowę ze sztuczną inteligencją
 
+**Dokument w wersji przeznaczonej do przeglądu prawnego - jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
+
 ## § 1. Organizator
 
 1. Organizatorem Nagrody Konstela ("Nagroda") jest fundacja powołana wyłącznie w celu prowadzenia Nagrody, wpisana do Krajowego Rejestru Sądowego ("Organizator"). Fundacja zostaje powołana i wpisana do rejestru **przed otwarciem przyjmowania zgłoszeń**; jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym ustępie w wersji regulaminu ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński.
@@ -36,7 +38,7 @@
 | Etap | Termin |
 |---|---|
 | Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia - 31 grudnia 2027 r.** |
-| Przyjmowanie zgłoszeń | od dnia publikacji regulaminu do **15 stycznia 2028 r., godz. 23:59** |
+| Przyjmowanie zgłoszeń | od dnia otwarcia naboru do **15 stycznia 2028 r., godz. 23:59** |
 | Weryfikacja formalna | na bieżąco, w miarę wpływania zgłoszeń |
 | Runda pierwsza (akademia) | na bieżąco, partiami, od lutego 2027 do stycznia 2028 |
 | Runda druga (jury) | styczeń i luty 2028 |
@@ -563,7 +565,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 2. Edycja nie zostaje rozstrzygnięta również wtedy, gdy jury jednomyślnie uzna, że żadne ze zgłoszeń nie spełnia kryteriów merytorycznych z § 7.
 3. W obu przypadkach nagrody nie są przyznawane, a Organizator informuje o tym na stronie Nagrody i pocztą elektroniczną wszystkich Uczestników, w terminie przewidzianym na ogłoszenie wyników.
 4. Nierozstrzygnięcie edycji nie rodzi po stronie Uczestników żadnych roszczeń. Wyłączenie obniżenia puli z § 9 ust. 3 dotyczy edycji rozstrzyganej; w razie nierozstrzygnięcia edycji na podstawie ust. 1 albo 2 nagrody nie są przyznawane, co nie stanowi obniżenia ani odwołania nagród w rozumieniu § 9 ust. 3.
-5. **Warunki uruchomienia naboru.** Organizator otwiera przyjmowanie zgłoszeń dopiero po łącznym spełnieniu trzech warunków: pula nagród ma pokrycie w zobowiązaniu fundatora albo w środkach Organizatora; co najmniej trzy osoby potwierdziły udział w jury, a ich skład został ogłoszony; Regulamin przeszedł konsultację prawną, a klauzula informacyjna z § 12 jest kompletna. Spełnienie tych warunków Organizator stwierdza na stronie Nagrody w dniu otwarcia naboru.
+5. **Warunki uruchomienia naboru.** Organizator otwiera przyjmowanie zgłoszeń dopiero po łącznym spełnieniu trzech warunków: pula wszystkich ogłaszanych nagród pieniężnych ma pełne pokrycie w środkach, które **wpłynęły wcześniej na rachunek Organizatora** (§ 9 ust. 2a); samo zobowiązanie fundatora albo partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a ich skład został ogłoszony; Regulamin przeszedł konsultację prawną, a klauzula informacyjna z § 12 jest kompletna. Spełnienie tych warunków Organizator stwierdza na stronie Nagrody w dniu otwarcia naboru.
 
 ## § 11. Prawa autorskie i publikacja
 
@@ -679,7 +681,7 @@ Celem Archiwum rozmów jest udostępnienie materiału badawczego i dokumentacyjn
 6. Uczestnikowi przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, wniesienia sprzeciwu oraz skargi do Prezesa UODO.
 ## § 13. Postanowienia końcowe
 
-1. Regulamin obowiązuje od dnia publikacji na stronie Nagrody.
+1. Regulamin wchodzi w życie w dniu otwarcia naboru, wskazanym w odrębnym ogłoszeniu, i jest publikowany na stronie Nagrody przed tym dniem. Publikacja projektu regulaminu przed tym dniem nie otwiera naboru ani nie rodzi zobowiązań wobec zgłaszających.
 2. Organizator może zmienić Regulamin wyłącznie przed upływem terminu zgłoszeń i wyłącznie w zakresie, który nie pogarsza sytuacji Uczestników, którzy już dokonali zgłoszenia; o zmianie informuje na stronie Nagrody.
 3. Reklamacje dotyczące przebiegu Nagrody można składać pocztą elektroniczną w terminie 14 dni od ogłoszenia wyników. Organizator rozpatruje je w terminie 14 dni. Reklamacja nie może dotyczyć oceny merytorycznej jury.
 
