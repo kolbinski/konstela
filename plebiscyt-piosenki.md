@@ -180,9 +180,9 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 </article>
 </div>
 
-### Czego jeszcze nie wiesz o nagraniu
+### Co ustalimy przed naborem
 
-Nagranie studyjne dla całej dziesiątki jest obietnicą kosztowną i dlatego warto powiedzieć, czego jeszcze nie przesądziliśmy. Nie wiemy, w którym studiu, ile sesji przypadnie na utwór, ile poprawek, czy dostaniesz sam gotowy master, czy również ślady, i kto pokryje dojazd składu. To nie jest unik - to są rzeczy, które ustala się z konkretnym studiem i konkretnym producentem, a umowy podpisuje się po zabezpieczeniu środków. **Cały ten zakres ogłosimy przed otwarciem naboru**, żebyś decydował o zgłoszeniu, wiedząc, co dokładnie dostajesz. Jedno jest przesądzone już teraz: nagrania powstają niezależnie od tego, czy znajdzie się wydawca płyty, a prawa do nich zostają przy Tobie.
+**Studio, zakres sesji, liczbę poprawek, przekazywane materiały oraz zasady pokrywania kosztów dojazdu ogłosimy przed otwarciem naboru** - tak, żebyś decydował o zgłoszeniu, wiedząc, co dokładnie dostajesz. Nagrania finalistów powstaną niezależnie od pozyskania wydawcy płyty, a prawa do nich zostają przy Tobie.
 
 ### Nagranie studyjne
 

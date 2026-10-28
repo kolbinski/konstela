@@ -332,7 +332,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 4a. **Formę okładki - kadr, typografię i dostosowanie do formatu wydania - Organizator uzgadnia z autorem.** Organizator przedstawia propozycję niezwłocznie po zawiadomieniu o werdykcie (§ 8 ust. 4c), a więc przed galą, a autor zgłasza uwagi w terminie 7 dni. Praca jest oceniana jako samodzielny plakat, a nie jako projekt okładki, i Organizator nie oczekuje od autora wykonania poprawek.
 
-4a1. **Jeżeli porozumienia co do formy nie da się osiągnąć**, okładką zostaje **reprodukcja całej pracy, bez kadrowania**, a typografia umieszczana jest poza polem obrazu. Rozwiązanie to podano po to, by żadna ze stron nie była zakładnikiem drugiej: autor zna z góry postać, w jakiej jego praca ukaże się przy braku uzgodnienia, a Organizator ma okładkę w terminie druku.
+4a1. **Jeżeli porozumienia co do formy nie da się osiągnąć**, okładką zostaje **reprodukcja całej pracy, bez kadrowania**, a typografia umieszczana jest poza polem obrazu. Rozwiązanie to podano tak, aby autor znał z góry postać, w jakiej jego praca ukaże się przy braku uzgodnienia, a Organizator dysponował okładką w terminie druku.
 
 4a2. **Autorskie prawa osobiste pozostają przy autorze.** Organizator nie żąda zrzeczenia się prawa do nienaruszalności formy utworu ani zobowiązania do jego niewykonywania w zakresie szerszym niż uzgodniony według ust. 4a i 4a1.
 
