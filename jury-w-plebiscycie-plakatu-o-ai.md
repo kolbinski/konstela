@@ -30,7 +30,7 @@
 
 ### Dlaczego akurat plakat
 
-Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić. Sporu o to, co z tego wynika, plebiscyt nie rozstrzyga – stawia po jednej stronie konkretną propozycję: praca ma powstać pod ludzką ręką, bo chcemy zobaczyć, co autor ma do powiedzenia o tej maszynie, kiedy mówi to własną ręką. Temat i stanowisko wybiera sam, a dorobek, dyplomy i wystawy nie podlegają ocenie.
+Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się wygenerować w AI obraz zamiast go zlecić. Sporu o to, co z tego wynika, plebiscyt nie rozstrzyga – stawia po jednej stronie konkretną propozycję: praca ma powstać pod ludzką ręką, bo chcemy zobaczyć, co autor ma do powiedzenia o tej maszynie, kiedy mówi to własną ręką. Temat i stanowisko wybiera sam, a dorobek, dyplomy i wystawy nie podlegają ocenie.
 
 ### Czym jest zgłoszenie
 
