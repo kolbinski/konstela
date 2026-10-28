@@ -58,6 +58,8 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
    c2) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Galerii i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
+   c3) **link do własnej oferty sprzedaży pracy wraz z datą jej zakończenia** - **nieobowiązkowe**, na zasadach określonych w § 14 ust. 8 i następnych. Link i data prezentowane są publicznie przy wpisie w Archiwum, **nie podlegają ocenie** w żadnym kryterium i nie są publikowane w antologii ani w materiałach drukowanych;
+
    d) technikę, wymiary oryginału i rok powstania;
 
    e) skład osobowy w przypadku pracy wykonanej wspólnie, wraz ze wskazaniem reprezentanta;
@@ -316,15 +318,17 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 6. **Zbycie oryginału nie przenosi autorskich praw majątkowych ani nie wpływa na licencję udzieloną zgodnie z ust. 2.** Uczestnik, który sprzedaje pracę, informuje nabywcę o zakresie tej licencji.
 
-## § 14. Licytacja
+## § 14. Licytacja i sprzedaż pracy
 
-1. Przekazanie pracy na licytację jest **dobrowolne**. Zgłoszenie plebiscytowe nie zawiera w tej sprawie żadnej deklaracji.
+0. Paragraf ten reguluje **dwie odrębne rzeczy**: cichą licytację prowadzoną przez Organizatora przy wystawie w galerii sztuki (ust. 1-7) oraz **własną sprzedaż pracy przez Uczestnika**, której Organizator nie prowadzi i w której nie pośredniczy (ust. 8 i następne). Udział w jednej z nich nie jest warunkiem ani przeszkodą udziału w drugiej.
+
+1. Przekazanie pracy na licytację prowadzoną przez Organizatora jest **dobrowolne**. Zgłoszenie plebiscytowe nie zawiera w tej sprawie żadnej deklaracji.
 
 2. **Po wyborze finalistów przez jury** Organizator proponuje finalistom udział w licytacji i przedstawia jej **warunki**: cenę minimalną, przewidywane prowizje i inne potrącenia, sposób i termin rozliczenia, miejsce i formę przeprowadzenia licytacji oraz termin zapłaty obowiązujący nabywcę. Wystawienie pracy wymaga akceptacji tych warunków.
 
 2a. Propozycję, o której mowa w ust. 2, Organizator kieruje do finalistów **po wyborze dziesięciu finalistów przez jury** (§ 8 ust. 4b), łącznie z zawiadomieniem o obowiązku dostarczenia oryginału (§ 10 ust. 2). **Jury nie jest informowane o tym, czy autor przyjął warunki licytacji, ani o treści jego odpowiedzi, ani przed ustaleniem kolejności całej dziesiątki, ani po nim.** Brak akceptacji albo jej odmowa pozostaje bez wpływu na wynik plebiscytu, na nagrody i na udział w wystawie.
 
-2b. Licytacja może zostać przeprowadzona jako **cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) albo w inny sposób, w tym w serwisie aukcyjnym. **Licytacja nie zależy od pozyskania galerii**; brak galerii oznacza wyłącznie, że zmienia się forma i miejsce wskazane w warunkach z ust. 2.
+2b. Licytacja prowadzona przez Organizatora odbywa się **wyłącznie jako cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) i tylko wobec finalistów, którzy przyjęli propozycję udziału w tej wystawie. **Jeżeli galeria nie zostanie pozyskana, licytacja prowadzona przez Organizatora nie odbywa się**; nie zastępuje jej wówczas żadna inna forma, a Uczestnikom pozostaje własna sprzedaż na zasadach z ust. 8 i następnych.
 
 3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego plebiscytu plakatu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
 
@@ -338,7 +342,17 @@ Dokument w wersji przeznaczonej do przeglądu prawnego. Plebiscyt nie jest ogło
 
 6b. **Praca sprzedana i opłacona.** Termin i sposób wydania pracy nabywcy, miejsce jej przechowywania do chwili wydania, a także postępowanie w razie nieodebrania pracy przez nabywcę - w tym to, kto ją wówczas przechowuje i na czyj koszt - określają warunki z ust. 2, akceptowane przez autora przed wystawieniem pracy. Organizator zawiadamia autora o zapłacie i o wydaniu pracy nabywcy. Przechowywanie pracy po jej opłaceniu nie jest objęte terminem z § 10 ust. 3b, ponieważ praca nie podlega już zwrotowi autorowi.
 
-7. Sposób przeprowadzenia licytacji, w tym ewentualny udział serwisu aukcyjnego, Organizator ogłasza przed otwarciem naboru.
+7. Sposób przeprowadzenia cichej licytacji Organizator ogłasza przed otwarciem naboru, a jeżeli galeria zostanie pozyskana później - w propozycji, o której mowa w § 10 ust. 3a.
+
+8. **Własna sprzedaż pracy - link w Archiwum.** Uczestnik może, **nieobowiązkowo**, wskazać w zgłoszeniu link do własnej oferty sprzedaży albo aukcji swojej pracy w wybranym przez siebie serwisie oraz **datę zakończenia tej oferty**. Link prezentowany jest przy wpisie Uczestnika w Archiwum **do wskazanej przez niego daty**, po której Organizator go usuwa. Uczestnik może w każdej chwili żądać zmiany albo usunięcia linku i daty; Organizator wykonuje żądanie w terminie 14 dni.
+
+8a. **Organizator nie jest stroną tej sprzedaży.** Nie pośredniczy w niej, nie przyjmuje zapłaty, nie weryfikuje ceny, przebiegu ani uczciwości transakcji, nie odpowiada za jej wykonanie przez którąkolwiek ze stron i **nie otrzymuje z niej żadnej części przychodu**. Podział, o którym mowa w ust. 3, nie dotyczy własnej sprzedaży.
+
+8b. Link, o którym mowa w ust. 8, podlega tym samym zasadom co kontakt do autora (§ 5 ust. 2 lit. c2): Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika, co nie wpływa ani na ocenę, ani na udział. **Link może ujawnić tożsamość Uczestnika podpisanego pseudonimem** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, wskazuje link wyłącznie za zgodą przedstawiciela ustawowego. Datę zakończenia oferty Organizator przyjmuje w brzmieniu podanym przez Uczestnika i jej nie weryfikuje.
+
+8c. **Praca finalisty.** Sprzedaż pracy nie zwalnia finalisty z obowiązku dostarczenia oryginału (§ 10 ust. 2) ani nie skraca okresu, w którym praca pozostaje u Organizatora (§ 10 ust. 3 i 3b). Wydanie pracy nabywcy następuje po jej zwrocie autorowi, a poinformowanie nabywcy o tym terminie obciąża autora. Organizator nie wydaje pracy osobie innej niż autor.
+
+8d. Wskazanie linku, o którym mowa w ust. 8, **nie jest publikacją ani prezentacją pracy** w rozumieniu § 7 ust. 1 lit. e i nie wyłącza zgłoszenia z plebiscytu.
 
 ## § 15. Skutki nieprawdziwego oświadczenia i tryb sporny
 
@@ -405,7 +419,9 @@ Lista wskazuje konkretne jednostki redakcyjne, nie obszary - tak samo jak przy r
 7a. **§ 13 ust. 2 lit. d i ust. 4 w nowym brzmieniu** - czy uczynienie zgody na wykorzystanie pracy zwycięskiej na okładce antologii **warunkiem udziału** jest wobec konsumenta proporcjonalne, skoro dotyczy wyłącznie jednej osoby i jest ogłaszane przed naborem; oraz czy zapis awaryjny z § 9 ust. 4a1 - reprodukcja całej pracy bez kadrowania przy braku porozumienia co do formy - jest wystarczający wobec prawa do nienaruszalności formy utworu, którego nie da się zrzec.
 7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** - zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.
 8. **§ 13 ust. 6** - skuteczność zastrzeżenia, że zbycie oryginału nie wpływa na udzieloną licencję, wobec nabywcy, który nie jest stroną regulaminu.
-9. **§ 14** - **najcięższy punkt tej listy.** Czy licytacja prowadzona przez fundację na rzecz osoby prywatnej, z podziałem przychodu, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; jakie są obowiązki podatkowe po obu stronach; oraz czy przeprowadzenie licytacji w serwisie aukcyjnym w programie dla organizacji dopuszcza podział przychodu z osobą prywatną, czy zakłada przekazanie całości na cel. Odrębnie prosimy o ocenę **ust. 6 i 6a** - zwrotu pracy niesprzedanej po zakończeniu wystaw oraz postępowania z pracą sprzedaną, lecz nieopłaconą albo nieodebraną przez nabywcę, w tym granic przechowywania jej przez Organizatora.
+9. **§ 14 ust. 1-7** - **najcięższy punkt tej listy.** Czy cicha licytacja prowadzona przez fundację przy wystawie, na rzecz osoby prywatnej i z podziałem przychodu po połowie, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; oraz jakie są obowiązki podatkowe po obu stronach. Odrębnie prosimy o ocenę **ust. 6 i 6a** - zwrotu pracy niesprzedanej po zakończeniu wystaw oraz postępowania z pracą sprzedaną, lecz nieopłaconą albo nieodebraną przez nabywcę, w tym granic przechowywania jej przez Organizatora.
+9z. **§ 14 ust. 8-8d** - publikowanie w Archiwum linku do własnej aukcji Uczestnika wraz z datą jej zakończenia, przy wyraźnym wyłączeniu pośrednictwa i udziału w przychodzie. Prosimy o ocenę, czy taka prezentacja nie czyni Organizatora pośrednikiem albo reklamodawcą, jakie oznaczenie odróżnia ją od oferty własnej Organizatora, jaka jest jego odpowiedzialność za treść linku i za nieuczciwą transakcję osoby trzeciej, oraz czy wobec Uczestnika między 16 a 18 rokiem życia wystarcza zgoda przedstawiciela ustawowego na samo wskazanie linku, skoro stroną sprzedaży jest ta osoba, a nie Organizator.
+
 9a. **§ 8 ust. 4c-4d** - werdykt zapada przed galą, a laureaci zachowują go w poufności do publicznego ogłoszenia, ponieważ antologia z okładką musi zdążyć do druku. Prosimy o wskazanie, czy przy przyrzeczeniu publicznym dopuszczalne jest odroczenie ogłoszenia wyniku względem jego ustalenia i jak zapisać obowiązek poufności, żeby jego naruszenie nie pozbawiało laureata nagrody.
 
 9b. **§ 15 ust. 1a** - tryb rozpoznania zastrzeżenia oznaczonego przez oceniającego: czy wystarcza zawiadomienie, 14 dni na wyjaśnienia i rozstrzygnięcie Organizatora z uzasadnieniem, czy wobec konsumenta potrzebna jest droga odwoławcza, skoro § 8 ust. 6 czyni werdykt ostatecznym.

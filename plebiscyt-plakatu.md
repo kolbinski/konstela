@@ -18,7 +18,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
 - zwycięska praca trafia na okładkę **[antologii](/#antologia)** - zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
-- finaliści mogą - ale nie muszą - wystawić oryginał na **[licytację](#licytacja)**; połowa ceny trafia do autora, połowa do puli nagród kolejnej edycji
+- **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii - [obie drogi są dobrowolne](#licytacja)
 - zgłaszasz **jedną pracę w jednej edycji**
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż w pozostałych plebiscytach, bo antologia musi zdążyć do druku
 
@@ -96,6 +96,10 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków** o tym, dlaczego akura
 ### Kontakt do autora
 
 **Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może Cię rozpoznawalnie wskazać - decyzja należy do Ciebie.
+
+### Link do własnej sprzedaży
+
+**Link do aukcji albo oferty sprzedaży pracy i data jej zakończenia - nieobowiązkowo.** Jeżeli wystawiasz pracę na sprzedaż, podaj link i datę; pokażemy je przy Twoim wpisie w [Archiwum](#archiwum) do tej daty. Nie pośredniczymy w sprzedaży i nie bierzemy z niej nic - szczegóły opisuje sekcja o [sprzedaży pracy](#licytacja).
 
 ### Zdjęcie pracy, nagranie i materiały
 
@@ -222,7 +226,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h3 id="archiwum">Archiwum</h3>
 
-**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję - oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
+**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję - oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Jeżeli podałeś link do własnej aukcji, widać go tu do podanej przez Ciebie daty. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
 
 ### Jawność punktacji
 
@@ -236,13 +240,23 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokaz
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
 
-<h2 id="licytacja"><!--ikona:licytacja--><span>Licytacja - dobrowolna</span></h2>
+<h2 id="licytacja"><!--ikona:licytacja--><span>Sprzedaż pracy - dwie drogi, obie dobrowolne</span></h2>
 
-Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny. Może się odbyć jako cicha licytacja przy wystawie w galerii albo inaczej, w tym w serwisie aukcyjnym - od galerii sztuki nie zależy.
+Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwie osobne drogi i nic nie każe wybierać jednej z nich.
 
-**Przy zgłoszeniu nie decydujesz o licytacji.** Pytamy dopiero po wyborze przez jury finalistów: wtedy dostajesz warunki - cenę minimalną, przewidywane prowizje i sposób rozliczenia - i wtedy decydujesz. Odmowa nie zmienia ani wyniku plebiscytu, ani nagrody, ani udziału w wystawie.
+### Cicha licytacja przy wystawie w galerii - prowadzimy ją my
 
-Jeżeli się zgodzisz, po odliczeniu zaakceptowanych wcześniej kosztów licytacji **pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**.
+**Dotyczy finalistów i tylko wtedy, gdy pozyskamy galerię sztuki.** Tam realnie dowozimy publiczność i kontekst, więc i podział jest wspólny: po odliczeniu zaakceptowanych wcześniej kosztów licytacji **pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**.
+
+**Przy zgłoszeniu nie decydujesz o licytacji.** Pytamy dopiero po wyborze przez jury finalistów: wtedy dostajesz warunki - cenę minimalną, przewidywane prowizje i sposób rozliczenia - i wtedy decydujesz. Odmowa nie zmienia ani wyniku plebiscytu, ani nagrody, ani udziału w wystawie. Nie gwarantujemy ani sprzedaży, ani żadnej ceny, a jeżeli galeria się nie znajdzie, licytacji po naszej stronie po prostu nie ma.
+
+### Własna sprzedaż - link w Archiwum, dla wszystkich
+
+**W zgłoszeniu możesz nieobowiązkowo podać link do własnej aukcji albo oferty sprzedaży pracy i datę jej zakończenia.** Pokazujemy go przy Twoim wpisie w [Archiwum](#archiwum) do tej daty, a potem usuwamy. Dotyczy to wszystkich zgłoszeń, nie tylko finałowej dziesiątki, i nie ma tu żadnego podziału przychodu: **cała kwota zostaje u Ciebie**.
+
+**Nie jesteśmy stroną tej sprzedaży.** Nie pośredniczymy, nie przyjmujemy zapłaty, nie sprawdzamy ceny ani przebiegu transakcji i nie odpowiadamy za jej wykonanie. Datę przyjmujemy taką, jaką podasz. Link usuniemy albo zmienimy na Twoją prośbę w ciągu 14 dni, a nie opublikujemy takiego, który nie działa.
+
+**Dwie rzeczy warto wiedzieć z góry.** Jeżeli wejdziesz do dziesiątki, sprzedaż nie zwalnia Cię z przysłania oryginału na wystawę - pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może rozpoznawalnie wskazać osobę podpisaną pseudonimem.
 
 ## <!--ikona:iskra--><span>Gala</span>
 
