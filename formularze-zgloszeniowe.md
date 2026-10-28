@@ -1,8 +1,8 @@
 # Pola formularzy zgłoszeniowych w czterech plebiscytach
 
-Zestawienie wyprowadzone z regulaminów, nie odwrotnie: każde pole poniżej ma oparcie w konkretnej jednostce redakcyjnej i wszystkie cztery formularze trzeba czytać razem z § o formie zgłoszenia. Dokument roboczy - służy budowie formularzy i rozmowie z wykonawcą, nie jest publikowany jako zobowiązanie.
+Zestawienie wyprowadzone z regulaminów, nie odwrotnie: każde pole poniżej ma oparcie w konkretnej jednostce redakcyjnej i wszystkie cztery formularze trzeba czytać razem z § o formie zgłoszenia. Dokument roboczy – służy budowie formularzy i rozmowie z wykonawcą, nie jest publikowany jako zobowiązanie.
 
-Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera niczego ponad to, co wymienia regulamin**. Danych do wypłaty nagrody, adresu korespondencyjnego ani identyfikatora podatkowego nie ma na etapie zgłoszenia - zbierane są później i wyłącznie od osób, których dotyczą.
+Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera niczego ponad to, co wymienia regulamin**. Danych do wypłaty nagrody, adresu korespondencyjnego ani identyfikatora podatkowego nie ma na etapie zgłoszenia – zbierane są później i wyłącznie od osób, których dotyczą.
 
 ## Pola wspólne dla wszystkich czterech kategorii
 
@@ -16,8 +16,8 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Podpis publiczny: pseudonim zamiast imienia i nazwiska | nieobowiązkowe | przy filmie i piosence także nazwa składu twórczego |
 | Oświadczenie o prawach do zgłoszonego materiału | obowiązkowe | zaznaczenie pola |
 | Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech |
-| Deklaracja pochodzenia materiału | obowiązkowe | treść jest inna w każdej kategorii - patrz niżej |
-| Dlaczego warte nagrody głównej, czyli co sprawia, że warto przeczytać, obejrzeć, posłuchać albo zatrzymać się przy zgłoszeniu - do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (czytelnia, Projektornia, Słuchalnia, Galeria) i w Archiwum; nie podlega punktacji w żadnym kryterium |
+| Deklaracja pochodzenia materiału | obowiązkowe | treść jest inna w każdej kategorii – patrz niżej |
+| Dlaczego warte nagrody głównej, czyli co sprawia, że warto przeczytać, obejrzeć, posłuchać albo zatrzymać się przy zgłoszeniu – do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (Czytelnia, Projektornia, Słuchalnia, Galeria) i w Archiwum; nie podlega punktacji w żadnym kryterium |
 
 **Czego nie ma w żadnym formularzu:** numeru PESEL, adresu zamieszkania, danych bankowych, dokumentu tożsamości, pytań o dorobek, wykształcenie, zasięgi ani przynależność do organizacji twórczych.
 
@@ -35,7 +35,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Miejscowość | obowiązkowe, niepublikowana |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat, rozbita na zakresy | warunkowe |
 
-Ilustracja może zostać wygenerowana narzędziem sztucznej inteligencji i nie podlega punktacji; reprezentuje rozmowę w czytelni, w Archiwum, a przy rozmowie nagrodzonej także w antologii.
+Ilustracja może zostać wygenerowana narzędziem sztucznej inteligencji i nie podlega punktacji; reprezentuje rozmowę w Czytelni, w Archiwum, a przy rozmowie nagrodzonej także w antologii.
 
 Odrębności: wiek od 16 lat, a przy osobie poniżej 18 lat zgoda opiekuna rozbita na cztery zakresy. Nie ma zgłoszeń zespołowych. Przed wysłaniem formularza działa nieobowiązkowe narzędzie sprawdzające policzalne wymogi formalne. Po wpłynięciu zgłoszenia Organizator sporządza kopię archiwalną i udostępnia ją Uczestnikowi, który ma 7 dni na zgłoszenie błędu odwzorowania.
 
@@ -67,14 +67,14 @@ Odrębności: wiek od 16 lat. Film ma być zrealizowany na potrzeby tego plebisc
 | Deklaracja narzędzi opartych na sztucznej inteligencji użytych w produkcji, wraz z celem użycia | obowiązkowe |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat, rozbita na zakresy | warunkowe |
 
-Odrębności: wiek od 16 lat. Zgoda opiekuna na prezentację zgłoszenia jest warunkiem przyjęcia, pozostałe zakresy rozpatrywane są osobno. Tekst utworu i deklaracja są publikowane przy zgłoszeniu, deklaracja jest. Przy przyjęciu zgłoszenia Organizator utrwala metrykę nagrania - tytuł, czas trwania, datę publikacji i identyfikator w serwisie.
+Odrębności: wiek od 16 lat. Zgoda opiekuna na prezentację zgłoszenia jest warunkiem przyjęcia, pozostałe zakresy rozpatrywane są osobno. Tekst utworu i deklaracja są publikowane przy zgłoszeniu, deklaracja jest. Przy przyjęciu zgłoszenia Organizator utrwala metrykę nagrania – tytuł, czas trwania, datę publikacji i identyfikator w serwisie.
 
 ### Plakat o sztucznej inteligencji (§ 4 i 4a regulaminu plakatu)
 
 | Pole | Status |
 |---|---|
 | Reprodukcja pracy: JPG albo PNG, cała praca w kadrze, krótszy bok od 2000 px, do 15 MB | obowiązkowe |
-| Nagranie z powstawania pracy, co najmniej 3 minuty, z jednym nieprzerwanym przejściem od twarzy do pracy - link do serwisu wideo | obowiązkowe |
+| Nagranie z powstawania pracy, co najmniej 3 minuty, z jednym nieprzerwanym przejściem od twarzy do pracy – link do serwisu wideo | obowiązkowe |
 | Technika | obowiązkowe |
 | Wymiary oryginału | obowiązkowe |
 | Rok powstania | obowiązkowe |
@@ -88,6 +88,6 @@ Odrębności: wiek od 16 lat. Nagranie jest jedynym polem w czterech formularzac
 ## Rzeczy do rozstrzygnięcia przy budowie formularzy
 
 - **Jedno pole podpisu czy dwa.** Dziś regulaminy mówią o imieniu i nazwisku oraz osobno o pseudonimie. W formularzu czytelniejszy jest wybór podpisu z dwóch opcji niż dwa pola tekstowe obok siebie.
-- **Zgoda opiekuna**: plik do wgrania czy oświadczenie z danymi opiekuna i jego potwierdzeniem - trzy regulaminy mówią o zgodzie pisemnej, nie przesądzając formy.
+- **Zgoda opiekuna**: plik do wgrania czy oświadczenie z danymi opiekuna i jego potwierdzeniem – trzy regulaminy mówią o zgodzie pisemnej, nie przesądzając formy.
 - **Deklaracja AI**: pole opisowe czy zestaw pytań z polem na uzupełnienie. Przy filmie i piosence deklaracja jest publikowana, więc jej forma wpływa na wygląd katalogu.
-- **Pole „dlaczego warte nagrody głównej" jest publiczne**, więc formularz musi to powiedzieć przy samym polu, a nie w regulaminie. Przy rozmowie dochodzi druga rzecz do powiedzenia wprost: tekst nie jest punktowany, ale czyta go także oceniający, bo zasłanianie publicznego pola w panelu byłoby pozorne.
+- **Pole „dlaczego warte nagrody głównej” jest publiczne**, więc formularz musi to powiedzieć przy samym polu, a nie w regulaminie. Przy rozmowie dochodzi druga rzecz do powiedzenia wprost: tekst nie jest punktowany, ale czyta go także oceniający, bo zasłanianie publicznego pola w panelu byłoby pozorne.

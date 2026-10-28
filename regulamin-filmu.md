@@ -1,6 +1,6 @@
 # Regulamin plebiscytu na film o sztucznej inteligencji
 
-**Dokument w wersji przeznaczonej do przeglądu prawnego - jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
+**Dokument w wersji przeznaczonej do przeglądu prawnego – jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
 
 ## § 1. Organizator
 
@@ -23,7 +23,7 @@
 
 3. **Poufność wyniku.** Osoba zawiadomiona o wyniku przed jego publicznym ogłoszeniem zachowuje go w poufności do chwili tego ogłoszenia, nie dłużej jednak niż **do upływu 30 dni od dnia gali wskazanego w ogłoszeniu o otwarciu naboru**; po tym terminie obowiązek poufności wygasa, choćby gala została przesunięta.
 
-4. Poufność nie obejmuje przekazania informacji **przedstawicielowi ustawowemu, współtwórcom zgłoszenia oraz doradcy** - prawnemu, podatkowemu albo księgowemu - zobowiązanym do zachowania jej w tajemnicy.
+4. Poufność nie obejmuje przekazania informacji **przedstawicielowi ustawowemu, współtwórcom zgłoszenia oraz doradcy** – prawnemu, podatkowemu albo księgowemu – zobowiązanym do zachowania jej w tajemnicy.
 
 5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
 
@@ -32,13 +32,13 @@
 
 1. Gala jest **wspólna dla wszystkich plebiscytów Nagrody Konstela** i odbywa się w terminie ogłoszonym przy otwarciu naboru.
 
-2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych - w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie - ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
+2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych – w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie – ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
 
-2a. **Przesunięcie z przyczyn proceduralnych w innym plebiscycie.** Wspólna gala może zostać przesunięta również wskutek uruchomienia procedur oceny określonych w regulaminie plebiscytu na rozmowę ze sztuczną inteligencją - przesunięcia terminów oceny albo przekroczenia przepustowości rundy pierwszej. Każde takie przesunięcie podlega zasadom z ust. 2 i granicy z ust. 3.
+2a. **Przesunięcie z przyczyn proceduralnych w innym plebiscycie.** Wspólna gala może zostać przesunięta również wskutek uruchomienia procedur oceny określonych w regulaminie plebiscytu na rozmowę ze sztuczną inteligencją – przesunięcia terminów oceny albo przekroczenia przepustowości rundy pierwszej. Każde takie przesunięcie podlega zasadom z ust. 2 i granicy z ust. 3.
 
 2b. **Odrębność plebiscytów.** Nierozstrzygnięcie plebiscytu na rozmowę **nie powoduje nierozstrzygnięcia niniejszego plebiscytu**; jego wyniki ogłasza się wtedy na zasadach z ust. 3.
 
-3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy - zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy – zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą – wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca – nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
@@ -49,7 +49,7 @@
 
 2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. **Śmierć Uczestnika nie jest odmową przyjęcia nagrody**; jej skutki określa przepis o śmierci i długotrwałej niedostępności w postanowieniach końcowych.
 
-3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** - rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
+3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** – rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
 
 4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
 
@@ -59,7 +59,7 @@
 
 2. Temat jest szeroki i Organizator nie zawęża go bardziej. Nie wskazuje ani tezy, ani formy, ani tego, czy film ma być pochwałą, czy ostrzeżeniem.
 
-3. Oceniany jest film, a nie oświadczenie o sposobie jego powstania. Zasady posługiwania się narzędziami sztucznej inteligencji określa § 6 i **nie przewidują one zakazu** - przewidują obowiązek deklaracji.
+3. Oceniany jest film, a nie oświadczenie o sposobie jego powstania. Zasady posługiwania się narzędziami sztucznej inteligencji określa § 6 i **nie przewidują one zakazu** – przewidują obowiązek deklaracji.
 
 
 ## § 3. Uczestnicy
@@ -102,34 +102,34 @@
 
 1. Zgłoszenie składa się przez formularz na stronie Nagrody i obejmuje:
 
-   a) **link do filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Film może być **publiczny albo niepubliczny z dostępem przez link**; w obu wypadkach **link musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas dostępny. Organizator zwraca uwagę, że film niepubliczny w serwisie może obejrzeć każdy, kto dysponuje linkiem; Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
+   a) **link do filmu opublikowanego przez Uczestnika w serwisie YouTube** – obowiązkowe. Film może być **publiczny albo niepubliczny z dostępem przez link**; w obu wypadkach **link musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas dostępny. Organizator zwraca uwagę, że film niepubliczny w serwisie może obejrzeć każdy, kto dysponuje linkiem; Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
 
-   a1) **link do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** - obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w Archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych - także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
+   a1) **link do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** – obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest publicznie dostępny na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w Archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych – także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
 
-   b) **tytuł filmu** - obowiązkowe, do 120 znaków;
+   b) **tytuł filmu** – obowiązkowe, do 120 znaków;
 
-   c) **czas trwania** oraz **datę ukończenia** - obowiązkowe;
+   c) **czas trwania** oraz **datę ukończenia** – obowiązkowe;
 
-   d) **miniaturę** - jeden plik graficzny w formacie JPG albo PNG, o proporcjach 16:9, o dłuższym boku nie mniejszym niż 1280 i nie większym niż 3840 pikseli, o objętości do 5 MB. Miniatura jest prezentowana w Projektorni i w Archiwum. **Może zostać wygenerowana przez narzędzie sztucznej inteligencji i nie podlega ocenie**;
+   d) **miniaturę** – jeden plik graficzny w formacie JPG albo PNG, o proporcjach 16:9, o dłuższym boku nie mniejszym niż 1280 i nie większym niż 3840 pikseli, o objętości do 5 MB. Miniatura jest prezentowana w Projektorni i w Archiwum. **Może zostać wygenerowana przez narzędzie sztucznej inteligencji i nie podlega ocenie**;
 
-   e) **opis filmu** - od 200 do 1500 znaków o tym, czego film dotyczy i co Uczestnik chciał w nim powiedzieć - obowiązkowe. **Nie podlega punktacji** w żadnym kryterium;
+   e) **opis filmu** – od 200 do 1500 znaków o tym, czego film dotyczy i co Uczestnik chciał w nim powiedzieć – obowiązkowe. **Nie podlega punktacji** w żadnym kryterium;
 
-   e1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto obejrzeć ten film** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w Archiwum i **nie podlega punktacji** w żadnym kryterium;
+   e1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto obejrzeć ten film** – do 700 znaków własnego uzasadnienia – obowiązkowe. Pole jest prezentowane publicznie w Projektorni i w Archiwum i **nie podlega punktacji** w żadnym kryterium;
 
-   f) **deklarację użycia narzędzi sztucznej inteligencji**, o której mowa w § 6 - obowiązkowe;
+   f) **deklarację użycia narzędzi sztucznej inteligencji**, o której mowa w § 6 – obowiązkowe;
 
-   g) **imię i nazwisko** oraz **adres e-mail** osoby zgłaszającej - obowiązkowe;
+   g) **imię i nazwisko** oraz **adres e-mail** osoby zgłaszającej – obowiązkowe;
 
-   h) **pseudonim** albo **nazwę składu twórczego** - nieobowiązkowe; wypełniane wtedy, gdy Uczestnik woli, by zgłoszenie było podpisane inaczej niż imieniem i nazwiskiem;
+   h) **pseudonim** albo **nazwę składu twórczego** – nieobowiązkowe; wypełniane wtedy, gdy Uczestnik woli, by zgłoszenie było podpisane inaczej niż imieniem i nazwiskiem;
 
-   h1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Projektorni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   h1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Projektorni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
-   i) **oświadczenia z § 12 ust. 1** - obowiązkowe, składane przez zaznaczenie pól w formularzu.
+   i) **oświadczenia z § 12 ust. 1** – obowiązkowe, składane przez zaznaczenie pól w formularzu.
 
 2. Zgłoszenie potwierdzane jest jednorazowym kodem przesłanym na podany numer telefonu. Organizator nie przechowuje numeru w postaci jawnej.
 2a. **Limit dotyczy osoby, nie numeru telefonu.** Jedna osoba może reprezentować **jedno zgłoszenie w tym plebiscycie i w tej edycji**; numer telefonu jest wyłącznie narzędziem weryfikacji, a nie definicją osoby. Osoba, która nie może odebrać wiadomości SMS albo korzysta z numeru wspólnego z inną osobą, zgłasza to na adres wskazany w § 1; Organizator ustala wówczas inny, równie wiarygodny sposób potwierdzenia zgłoszenia. **Brak własnego numeru telefonu nie może być powodem wykluczenia.** Limit nie przenosi się między plebiscytami: ta sama osoba może zgłosić po jednej pracy w każdym z czterech plebiscytów Nagrody.
 
-3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i Archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, czas trwania, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej", deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
+3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i Archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, czas trwania, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej”, deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
 
 ## § 5. Wymogi formalne
 
@@ -141,9 +141,9 @@
 
 4. **Zgłoszeniem nie może być film promocyjny ani instruktaż.** Odrzuceniu podlega:
 
-   a) **film, którego celem jest promocja produktu, usługi, marki albo podmiotu** - w szczególności film zamówiony albo sfinansowany przez podmiot w nim promowany oraz film zakończony zachętą do skorzystania z produktu lub usługi;
+   a) **film, którego celem jest promocja produktu, usługi, marki albo podmiotu** – w szczególności film zamówiony albo sfinansowany przez podmiot w nim promowany oraz film zakończony zachętą do skorzystania z produktu lub usługi;
 
-   b) **film będący w całości instruktażem obsługi narzędzia** - pokazem, jak wykonać w nim czynności, bez tezy o sztucznej inteligencji i jej roli w świecie.
+   b) **film będący w całości instruktażem obsługi narzędzia** – pokazem, jak wykonać w nim czynności, bez tezy o sztucznej inteligencji i jej roli w świecie.
 
 4a. **Czego ust. 4 nie wyklucza**, i Organizator rozstrzyga wątpliwość na korzyść Uczestnika:
 
@@ -179,17 +179,17 @@
 
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
-| Teza | 30 | **Co film mówi** o sztucznej inteligencji i jej roli w świecie: oryginalność ujęcia tematu. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat - rzecz znana pokazana świeżo punktuje wysoko |
-| Forma | 30 | **Jak to pokazuje**: czy środki filmowe służą tezie - montaż, obraz, dźwięk, rytm i wykorzystanie czasu, którym film dysponuje |
+| Teza | 30 | **Co film mówi** o sztucznej inteligencji i jej roli w świecie: oryginalność ujęcia tematu. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat – rzecz znana pokazana świeżo punktuje wysoko |
+| Forma | 30 | **Jak to pokazuje**: czy środki filmowe służą tezie – montaż, obraz, dźwięk, rytm i wykorzystanie czasu, którym film dysponuje |
 | Rzetelność | 20 | Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii. W filmie fabularnym i animowanym oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny |
-| Siła oddziaływania | 20 | Czy film pozostawia wyraźną myśl, obraz albo emocję - coś, co widz potrafi po obejrzeniu nazwać |
+| Siła oddziaływania | 20 | Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potrafi po obejrzeniu nazwać |
 | Razem | 100 | |
 
 2. Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
-3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia, jego wcześniejszych filmów ani uzasadnienia „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1).
+3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia, jego wcześniejszych filmów ani uzasadnienia „dlaczego warte nagrody głównej” (§ 4 ust. 1 lit. e1).
 
-4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Teza, następnie w kryterium Forma, a w razie dalszej równości - głos przewodniczącego jury.
+4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Teza, następnie w kryterium Forma, a w razie dalszej równości – głos przewodniczącego jury.
 
 4a. Przewidywana aktualność filmu za kilka lat nie podlega ocenie. Film będący zapisem jednej chwili i film pomyślany jako ponadczasowy oceniane są tą samą kartą.
 
@@ -205,33 +205,33 @@ Karta jest częścią niniejszego paragrafu. Obowiązuje akademię filmu i jury,
 
 Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu.
 
-#### Teza - 30 punktów
+#### Teza – 30 punktów
 
 Co film mówi o sztucznej inteligencji i jej roli w świecie. Oceniana jest oryginalność ujęcia, nie sam temat.
 
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-5** | Film nie ma tezy: jest zbiorem obrazów albo wypowiedzi bez myśli, która je spina. |
-| **6-11** | Teza jest, ale podręcznikowa - powtarza to, co w tej sprawie mówi się powszechnie, bez własnego ujęcia. |
+| **6-11** | Teza jest, ale podręcznikowa – powtarza to, co w tej sprawie mówi się powszechnie, bez własnego ujęcia. |
 | **12-17** | Film nie rozwija własnego ujęcia konsekwentnie: zmiany stanowiska pozostają nieuzasadnione albo niezrozumiałe, a wniosek nie zostaje wyciągnięty. Świadome podważenie własnego założenia nie jest wadą, jeżeli film pokazuje, skąd ta zmiana. |
 | **18-23** | Teza wyraźna i konsekwentnie prowadzona do końca. Widz potrafi po seansie powiedzieć, co film twierdzi. |
-| **24-27** | Teza, która przestawia patrzenie na rzecz znaną - ujęcie, którego widz sam by nie znalazł, a po filmie uznaje za oczywiste. |
+| **24-27** | Teza, która przestawia patrzenie na rzecz znaną – ujęcie, którego widz sam by nie znalazł, a po filmie uznaje za oczywiste. |
 | **28-30** | Teza na tyle własna i tak poprowadzona, że film staje się punktem odniesienia w rozmowie o tym temacie. |
 
-#### Forma - 30 punktów
+#### Forma – 30 punktów
 
 Czy środki filmowe służą tezie: montaż, obraz, dźwięk, rytm i to, czy czas trwania jest uzasadniony konstrukcją filmu.
 
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-5** | Forma przeszkadza w odbiorze: film jest nieczytelny, niesłyszalny albo rozsypuje się na niepowiązane części. |
-| **6-11** | Forma poprawna technicznie, ale obojętna wobec tezy - równie dobrze mogłaby towarzyszyć innemu tematowi. |
+| **6-11** | Forma poprawna technicznie, ale obojętna wobec tezy – równie dobrze mogłaby towarzyszyć innemu tematowi. |
 | **12-17** | Forma wspiera tezę w pojedynczych miejscach, lecz film ma dłużyzny albo fragmenty rozwiązane rutynowo. |
 | **18-23** | Forma przemyślana i konsekwentna, czas trwania uzasadniony, rytm utrzymany do końca. |
 | **24-27** | Forma niesie znaczenie sama z siebie: montaż, obraz albo dźwięk mówią coś, czego nie powiedziano słowami. |
-| **28-30** | Forma i teza są nierozdzielne - tego filmu nie dałoby się opowiedzieć inaczej bez utraty sensu. |
+| **28-30** | Forma i teza są nierozdzielne – tego filmu nie dałoby się opowiedzieć inaczej bez utraty sensu. |
 
-#### Rzetelność - 20 punktów
+#### Rzetelność – 20 punktów
 
 Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny. **Brak twierdzeń faktograficznych również nie obniża oceny**: film, który niczego nie podaje jako faktu o technologii, może otrzymać w tym kryterium ocenę najwyższą.
 
@@ -244,14 +244,14 @@ Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i an
 | **16-18** | Film wyraźnie oznacza granice swojej wiedzy i nie udaje pewności tam, gdzie jej nie ma. |
 | **19-20** | Film nie wprowadza w błąd w żadnym miejscu: twierdzenia faktyczne są uzasadnione, a niepewność, interpretacja i fikcja rozróżnione wszędzie tam, gdzie ma to znaczenie dla widza. |
 
-#### Siła oddziaływania - 20 punktów
+#### Siła oddziaływania – 20 punktów
 
-Czy film pozostawia wyraźną myśl, obraz albo emocję - coś, co widz potrafi po obejrzeniu nazwać. Przewidywana aktualność filmu za kilka lat nie podlega ocenie.
+Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potrafi po obejrzeniu nazwać. Przewidywana aktualność filmu za kilka lat nie podlega ocenie.
 
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-3** | Po seansie nie zostaje nic, co dałoby się nazwać. |
-| **4-7** | Zostaje ogólne wrażenie, bez konkretu - widz pamięta temat, nie film. |
+| **4-7** | Zostaje ogólne wrażenie, bez konkretu – widz pamięta temat, nie film. |
 | **8-11** | Zostaje jedna rzecz: scena, zdanie albo obraz, choć reszta zaciera się szybko. |
 | **12-15** | Film zostaje w pamięci jako całość i da się o nim opowiedzieć komuś, kto go nie widział. |
 | **16-18** | Film zmienia sposób, w jaki widz patrzy na rzecz pozornie znaną, i wraca do niego po czasie. |
@@ -268,7 +268,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 2. Skład jury Organizator ogłasza przed otwarciem naboru.
 
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń.
-3a. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
+3a. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano” i nigdy nie liczy jak zero** – dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
 4. **Pierwsze przejście oceny przeprowadza akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły weryfikację formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą. Członkowie akademii otrzymują wynagrodzenie na zasadach określonych i ogłoszonych przed przyjęciem przez nich zadań, razem ze składem akademii.
 
@@ -292,7 +292,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    a1) **siedem wyróżnień** dla pozostałych finalistów. Wyróżnienie obejmuje dyplom oraz miejsce w zestawie, o którym mowa w lit. a2; z wyróżnieniem nie wiąże się nagroda pieniężna;
 
-   a2) **miejsce w zestawie filmów kierowanym przez Organizatora do pokazów kinowych - dla wszystkich dziesięciu finalistów**, jeżeli Organizator pozyska dystrybutora (§ 10 ust. 4). Pozyskanie dystrybutora nie jest zobowiązaniem Organizatora, a brak pokazów nie wpływa na nagrody pieniężne ani na pozostałe świadczenia z niniejszego paragrafu;
+   a2) **miejsce w zestawie filmów kierowanym przez Organizatora do pokazów kinowych – dla wszystkich dziesięciu finalistów**, jeżeli Organizator pozyska dystrybutora (§ 10 ust. 4). Pozyskanie dystrybutora nie jest zobowiązaniem Organizatora, a brak pokazów nie wpływa na nagrody pieniężne ani na pozostałe świadczenia z niniejszego paragrafu;
 
    b) nagrodę publiczności, o której mowa w § 11a;
 
@@ -314,7 +314,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Plebiscyt rozstrzyga się podczas gali Nagrody Konstela, w drugiej połowie kwietnia 2028 roku, razem z pozostałymi plebiscytami.
 
-2. **Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów** - ten sam, który Uczestnik zgłosił zgodnie z § 4 ust. 1 lit. a1. Pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna, ponieważ jedna gala nie zmieści dziesięciu prezentacji.
+2. **Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów** – ten sam, który Uczestnik zgłosił zgodnie z § 4 ust. 1 lit. a1. Pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna, ponieważ jedna gala nie zmieści dziesięciu prezentacji.
 
 3. **Zwiastun emitowany jest w postaci zgłoszonej.** Organizator nie wybiera fragmentu filmu i nie ingeruje w treść zwiastuna; przygotowanie do emisji obejmuje wyłącznie pobranie materiału w jakości emisyjnej, dopasowanie formatu, normalizację dźwięku oraz planszę z tytułem filmu i podpisem Uczestnika. Uczestnik może do dnia zamknięcia naboru wskazać inny zwiastun spełniający wymogi z § 4 ust. 1 lit. a1; po tym dniu emitowany jest zwiastun z metryki zgłoszenia (§ 11 ust. 6a).
 
@@ -326,13 +326,13 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 11. Projektornia i Archiwum
 
-1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** - publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, link do zwiastuna, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej" (§ 4 ust. 1 lit. e1), deklarację z § 6, link do filmu oraz - jeżeli Uczestnik go podał - link z § 4 ust. 1 lit. h1.
+1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** – publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, link do zwiastuna, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej” (§ 4 ust. 1 lit. e1), deklarację z § 6, link do filmu oraz – jeżeli Uczestnik go podał – link z § 4 ust. 1 lit. h1.
 
 2. Wpis pojawia się po przejściu weryfikacji formalnej, a nie w chwili złożenia zgłoszenia. Kolejność w Projektorni wyznacza wyłącznie data zgłoszenia; Organizator nie prowadzi rankingu i nie publikuje liczników odsłon ani popularności.
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
 
-4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do Archiwum**, dostępnego bezpłatnie i bez ograniczeń. W Archiwum zostaje tytuł, podpis, miniatura, **czas trwania filmu**, link do zwiastuna, opis, uzasadnienie „dlaczego warte nagrody głównej", deklaracja, link do filmu, link z § 4 ust. 1 lit. h1 i rok edycji. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
+4. **Po ogłoszeniu werdyktu Projektornia edycji zostaje zamknięta i przechodzi do Archiwum**, dostępnego bezpłatnie i bez ograniczeń. W Archiwum zostaje tytuł, podpis, miniatura, **czas trwania filmu**, link do zwiastuna, opis, uzasadnienie „dlaczego warte nagrody głównej”, deklaracja, link do filmu, link z § 4 ust. 1 lit. h1 i rok edycji. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię filmu, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia (§ 4 ust. 1 lit. h).
 
 5. Organizator może zdjąć wpis z Projektorni albo z Archiwum, z zachowaniem przez Uczestnika pełnego udziału w Plebiscycie, wyłącznie w razie realnego ryzyka prawnego związanego z prezentacją wpisu, wskazując fragment oraz prawo, które mogłoby zostać naruszone. Zdjęcie wpisu nie wpływa na ocenę, na nagrodę ani na udział w głosowaniu publiczności. Niezgoda Organizatora z poglądami wyrażonymi w filmie nie jest podstawą zdjęcia wpisu.
 
@@ -344,23 +344,23 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 7. **Usunięcie albo ukrycie filmu przez Uczestnika.** Film pozostaje w serwisie Uczestnika, więc Uczestnik może go w każdej chwili usunąć albo ukryć; nie zastępuje to wycofania zgłoszenia, które następuje w trybie z § 13. Skutki zależą od dnia:
 
-   a) **do dnia zamknięcia naboru** - zgłoszenie uznaje się za wycofane;
+   a) **do dnia zamknięcia naboru** – zgłoszenie uznaje się za wycofane;
 
-   b) **między zamknięciem naboru a ustaleniem werdyktu** (§ 1a ust. 1) - zgłoszenie nie może być dalej oceniane i nie bierze udziału w dalszych etapach; nie rodzi to roszczeń wobec Organizatora;
+   b) **między zamknięciem naboru a ustaleniem werdyktu** (§ 1a ust. 1) – zgłoszenie nie może być dalej oceniane i nie bierze udziału w dalszych etapach; nie rodzi to roszczeń wobec Organizatora;
 
-   c) **między ustaleniem werdyktu a jego publicznym ogłoszeniem na gali** - **nie powoduje utraty nagrody** ani zwrotu nagrody wypłaconej. Film przestaje natomiast brać udział w głosowaniu publiczności, które trwa do dnia gali, a Organizator oznacza wpis jako niedostępny;
+   c) **między ustaleniem werdyktu a jego publicznym ogłoszeniem na gali** – **nie powoduje utraty nagrody** ani zwrotu nagrody wypłaconej. Film przestaje natomiast brać udział w głosowaniu publiczności, które trwa do dnia gali, a Organizator oznacza wpis jako niedostępny;
 
-   d) **po gali** - nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w Archiwum pozostaje bez działającego linku, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
+   d) **po gali** – nie powoduje żadnych skutków dla zgłoszenia ani dla nagrody. Wpis w Archiwum pozostaje bez działającego linku, co Organizator oznacza, a licencja z § 12 ust. 2 w zakresie zwiastuna emitowanego na gali pozostaje w mocy.
 
 7a. **Usunięcie albo ukrycie zwiastuna** wywołuje te same skutki co usunięcie filmu, według dnia wskazanego w ust. 7, z dwoma wyjątkami: Organizator najpierw zawiadamia Uczestnika i wyznacza termin nie krótszy niż 14 dni na przywrócenie zwiastuna albo wskazanie innego, spełniającego wymogi z § 4 ust. 1 lit. a1, a po gali usunięcie zwiastuna nie wywołuje żadnych skutków dla zgłoszenia.
 
-8. **Niedostępność niezawiniona przez Uczestnika.** Jeżeli film albo zwiastun przestaje być dostępny z przyczyn leżących po stronie serwisu - awarii, blokady, ograniczenia nałożonego przez dostawcę albo zgłoszenia naruszenia praw przez osobę trzecią - Organizator zawiadamia Uczestnika pocztą elektroniczną i wyznacza termin nie krótszy niż 14 dni na przywrócenie dostępności albo wskazanie linku do tego samego filmu w innym serwisie. Zachowanie tego terminu oznacza, że zgłoszenie pozostaje w Plebiscycie bez utraty punktacji; ust. 7 nie stosuje się.
+8. **Niedostępność niezawiniona przez Uczestnika.** Jeżeli film albo zwiastun przestaje być dostępny z przyczyn leżących po stronie serwisu – awarii, blokady, ograniczenia nałożonego przez dostawcę albo zgłoszenia naruszenia praw przez osobę trzecią – Organizator zawiadamia Uczestnika pocztą elektroniczną i wyznacza termin nie krótszy niż 14 dni na przywrócenie dostępności albo wskazanie linku do tego samego filmu w innym serwisie. Zachowanie tego terminu oznacza, że zgłoszenie pozostaje w Plebiscycie bez utraty punktacji; ust. 7 nie stosuje się.
 
 ## § 11a. Nagroda publiczności i głosowanie
 
 1. Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności dla filmu z największą liczbą głosów.
 
-2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i otwiera się po **łącznym** zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie, utrwaleniu listy zgłoszeń oraz zamknięciu oceny pierwszego przejścia - a nie w trakcie naboru. Termin zamknięcia określa ust. 5c.
+2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i otwiera się po **łącznym** zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie, utrwaleniu listy zgłoszeń oraz zamknięciu oceny pierwszego przejścia – a nie w trakcie naboru. Termin zamknięcia określa ust. 5c.
 
 3. Jeden głos przypada na jeden numer telefonu, potwierdzany jednorazowym kodem. Liczniki głosów nie są publikowane w trakcie głosowania; wynik ogłaszany jest na gali.
 
@@ -394,9 +394,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 5e. **Ukrycie liczników i uzasadnień.** Liczniki głosów **oraz treść uzasadnień** pozostają niedostępne publicznie do chwili publicznego ogłoszenia werdyktu na gali. Uzasadnienia, na których publikację zgodzili się ich autorzy, publikowane są dopiero po gali, razem z wynikiem głosowania. Zapis ten istnieje dlatego, że liczba i treść widocznych uzasadnień wskazywałyby popularność zgłoszenia równie dobrze jak licznik.
 
-5f. **Ocena uzasadnień.** Każdy z trzech członków zespołu ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - w skali **od 0 do 10 punktów** za każde. Wynikiem uzasadnienia jest **suma ocen wszystkich członków zespołu**; przy równej sumie rozstrzyga uzasadnienie oddane wcześniej. Członek zespołu pozostający w konflikcie interesów wyłącza się od oceny danego uzasadnienia, a Organizator wskazuje na jego miejsce osobę zastępującą. **Wysokość nagrody i termin jej wypłaty Organizator ogłasza przed rozpoczęciem głosowania.**
+5f. **Ocena uzasadnień.** Każdy z trzech członków zespołu ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – w skali **od 0 do 10 punktów** za każde. Wynikiem uzasadnienia jest **suma ocen wszystkich członków zespołu**; przy równej sumie rozstrzyga uzasadnienie oddane wcześniej. Członek zespołu pozostający w konflikcie interesów wyłącza się od oceny danego uzasadnienia, a Organizator wskazuje na jego miejsce osobę zastępującą. **Wysokość nagrody i termin jej wypłaty Organizator ogłasza przed rozpoczęciem głosowania.**
 
-5g. **Uzasadnienie wadliwe.** Odmowa zgody na publikację uzasadnienia nie wpływa ani na ważność głosu, ani na ocenę uzasadnienia. Uzasadnienie **przepisane z cudzego tekstu albo z innego uzasadnienia** nie bierze udziału w ocenie, a głos pozostaje ważny. Uzasadnienie **pozorne** - niezwiązane ze zgłoszeniem, złożone ze znaków przypadkowych albo z powtórzeń - nie spełnia wymogu z przepisu o uzasadnieniu, więc głos nie zostaje oddany.
+5g. **Uzasadnienie wadliwe.** Odmowa zgody na publikację uzasadnienia nie wpływa ani na ważność głosu, ani na ocenę uzasadnienia. Uzasadnienie **przepisane z cudzego tekstu albo z innego uzasadnienia** nie bierze udziału w ocenie, a głos pozostaje ważny. Uzasadnienie **pozorne** – niezwiązane ze zgłoszeniem, złożone ze znaków przypadkowych albo z powtórzeń – nie spełnia wymogu z przepisu o uzasadnieniu, więc głos nie zostaje oddany.
 
 ## § 12. Prawa autorskie i licencja
 
@@ -414,13 +414,13 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 2. **Prawa do filmu pozostają w całości przy jego twórcach.** Uczestnik udziela Organizatorowi licencji **niewyłącznej**, nieodpłatnej, w następujących zakresach:
 
-   a) prezentacja wpisu w Projektorni i w Archiwum, obejmująca tytuł, podpis, miniaturę, czas trwania, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej", deklarację i link - **na czas nieoznaczony**;
+   a) prezentacja wpisu w Projektorni i w Archiwum, obejmująca tytuł, podpis, miniaturę, czas trwania, zwiastun, opis, uzasadnienie „dlaczego warte nagrody głównej”, deklarację i link – **na czas nieoznaczony**;
 
-   b) prezentacja **zwiastuna** podczas gali oraz w zapisie wideo gali udostępnianym następnie bezpłatnie, wraz z pobraniem i technicznym przygotowaniem zwiastuna do emisji w zakresie z § 10 ust. 3 - **na pięć lat** od dnia gali;
+   b) prezentacja **zwiastuna** podczas gali oraz w zapisie wideo gali udostępnianym następnie bezpłatnie, wraz z pobraniem i technicznym przygotowaniem zwiastuna do emisji w zakresie z § 10 ust. 3 – **na pięć lat** od dnia gali;
 
-   c) wykorzystanie zwiastuna oraz miniatury w materiałach informacyjnych o Nagrodzie, w tym w mediach - **na pięć lat** od dnia gali;
+   c) wykorzystanie zwiastuna oraz miniatury w materiałach informacyjnych o Nagrodzie, w tym w mediach – **na pięć lat** od dnia gali;
 
-   d) przy filmach finałowych: pokaz kinowy, o którym mowa w § 10 ust. 4 - **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa.
+   d) przy filmach finałowych: pokaz kinowy, o którym mowa w § 10 ust. 4 – **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa.
 
 2b. **Zapis wideo gali po upływie pięciu lat.** Zapis gali udostępniany jest bezterminowo, natomiast licencja na zwiastun w tym zapisie trwa pięć lat (ust. 2 lit. b). Przed upływem tego okresu Organizator **zwraca się do Uczestnika o przedłużenie uprawnienia**, a w razie jego braku **usuwa fragment zawierający zwiastun z publicznie dostępnego zapisu** albo wyłącza zapis z publicznego udostępniania. Ten sam tryb stosuje się do materiałów informacyjnych z ust. 2 lit. c.
 
@@ -434,7 +434,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 5a. **Zastrzeżenie dotyczące festiwali.** Udział w Plebiscycie **nie wymaga publicznej premiery filmu w internecie**: wystarczy link niepubliczny (§ 4 ust. 1 lit. a). Organizator zwraca jednak uwagę, że część festiwali inaczej traktuje materiał dostępny pod linkiem, a zwiastun jest prezentowany publicznie. Ocenę tego ryzyka Organizator pozostawia Uczestnikowi i nie zapewnia, że film zachowa kwalifikowalność festiwalową.
 
-2z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje - wyłącznie w celach i okresach w nim wskazanych - **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
+2z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje – wyłącznie w celach i okresach w nim wskazanych – **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
 
 ## § 13. Wycofanie zgłoszenia
 
@@ -444,7 +444,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 14. Skutki nieprawdziwego oświadczenia i tryb sporny
 
-1. Wykazanie, że oświadczenie z § 12 ust. 1 albo deklaracja z § 6 są nieprawdziwe, stanowi podstawę wykluczenia zgłoszenia na każdym etapie, a po przyznaniu nagrody - jej zwrotu.
+1. Wykazanie, że oświadczenie z § 12 ust. 1 albo deklaracja z § 6 są nieprawdziwe, stanowi podstawę wykluczenia zgłoszenia na każdym etapie, a po przyznaniu nagrody – jej zwrotu.
 
 2. **Wątpliwość, której nie da się wyjaśnić, nie wyklucza zgłoszenia.** Organizator nie orzeka o pochodzeniu materiału na podstawie wrażenia; podstawą wykluczenia jest wykazana nieprawda, nie podejrzenie.
 
@@ -460,7 +460,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Administratorem danych osobowych jest Organizator. Zasady przetwarzania określa polityka prywatności opublikowana na stronie Nagrody.
 
-2. Podstawą przetwarzania jest wykonanie stosunku prawnego powstałego ze zgłoszenia, a w zakresie rozliczenia nagród - obowiązek prawny.
+2. Podstawą przetwarzania jest wykonanie stosunku prawnego powstałego ze zgłoszenia, a w zakresie rozliczenia nagród – obowiązek prawny.
 
 ## § 17. Postanowienia końcowe
 
@@ -484,16 +484,16 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które do takiej konsultacji trafiają:
 
-1. **Zakres licencji z § 12 ust. 2** - w szczególności prezentacja zwiastuna w zapisie wideo gali udostępnianym bezterminowo, przy licencji na pięć lat.
-2. **Oświadczenie z § 12 ust. 1 lit. a** przy filmach zespołowych - czy oświadczenie osoby zgłaszającej wystarcza, czy potrzebne są zgody współtwórców i wykonawców.
-3. **Prawa do muzyki** użytej w zwiastunie i w filmie, w tym muzyki licencjonowanej na użytek internetowy, a odtwarzanej następnie publicznie podczas gali i w zapisie wideo - czy oświadczenie z § 12 ust. 1 lit. a1 jest tu wystarczającą konstrukcją.
-3a. **Rozliczenie z organizacją zbiorowego zarządzania (§ 12 ust. 2a)** - w jakim zakresie publiczne odtworzenie zwiastunów podczas gali wymaga rozliczenia niezależnie od uprawnień Uczestnika, oraz czy postanowienie o pozostawieniu tego obowiązku przy Organizatorze jest wystarczające; osobno, czy jakakolwiek klauzula przenosząca na Uczestnika-konsumenta odpowiedzialność wobec osób trzecich byłaby w tym regulaminie dopuszczalna.
-3b. **Zwiastun jako warunek zgłoszenia (§ 4 ust. 1 lit. a1)** - czy wymóg dostarczenia utworu odrębnego od zgłaszanego filmu, nieobjętego oceną, jest wobec konsumenta dopuszczalny, oraz czy zakres licencji z § 12 ust. 2 lit. b i c prawidłowo obejmuje pobranie i techniczne przygotowanie zwiastuna do emisji.
-4. **Brak zakazu użycia narzędzi sztucznej inteligencji (§ 6)** wobec stanu prawnego dotyczącego utworów generowanych - czy film wygenerowany w całości może być przedmiotem nagrody i czyim utworem jest.
+1. **Zakres licencji z § 12 ust. 2** – w szczególności prezentacja zwiastuna w zapisie wideo gali udostępnianym bezterminowo, przy licencji na pięć lat.
+2. **Oświadczenie z § 12 ust. 1 lit. a** przy filmach zespołowych – czy oświadczenie osoby zgłaszającej wystarcza, czy potrzebne są zgody współtwórców i wykonawców.
+3. **Prawa do muzyki** użytej w zwiastunie i w filmie, w tym muzyki licencjonowanej na użytek internetowy, a odtwarzanej następnie publicznie podczas gali i w zapisie wideo – czy oświadczenie z § 12 ust. 1 lit. a1 jest tu wystarczającą konstrukcją.
+3a. **Rozliczenie z organizacją zbiorowego zarządzania (§ 12 ust. 2a)** – w jakim zakresie publiczne odtworzenie zwiastunów podczas gali wymaga rozliczenia niezależnie od uprawnień Uczestnika, oraz czy postanowienie o pozostawieniu tego obowiązku przy Organizatorze jest wystarczające; osobno, czy jakakolwiek klauzula przenosząca na Uczestnika-konsumenta odpowiedzialność wobec osób trzecich byłaby w tym regulaminie dopuszczalna.
+3b. **Zwiastun jako warunek zgłoszenia (§ 4 ust. 1 lit. a1)** – czy wymóg dostarczenia utworu odrębnego od zgłaszanego filmu, nieobjętego oceną, jest wobec konsumenta dopuszczalny, oraz czy zakres licencji z § 12 ust. 2 lit. b i c prawidłowo obejmuje pobranie i techniczne przygotowanie zwiastuna do emisji.
+4. **Brak zakazu użycia narzędzi sztucznej inteligencji (§ 6)** wobec stanu prawnego dotyczącego utworów generowanych – czy film wygenerowany w całości może być przedmiotem nagrody i czyim utworem jest.
 5. **Wizerunek osób występujących** i wystarczalność oświadczenia Uczestnika z § 12 ust. 1 lit. d.
-6. **Termin wycofania zgłoszenia (§ 13)** - skuteczność wobec konsumenta.
-6a. **Wyłączenie z § 3a ust. 2** - czy wymóg niezgłaszania filmu do innych konkursów do dnia gali, przy jednoczesnym obowiązku jego publikacji, jest wobec konsumenta wystarczająco jednoznaczny i czy nie jest postanowieniem niedozwolonym; oraz jak traktować film zgłoszony gdzie indziej przed otwarciem naszego naboru.
+6. **Termin wycofania zgłoszenia (§ 13)** – skuteczność wobec konsumenta.
+6a. **Wyłączenie z § 3a ust. 2** – czy wymóg niezgłaszania filmu do innych konkursów do dnia gali, przy jednoczesnym obowiązku jego publikacji, jest wobec konsumenta wystarczająco jednoznaczny i czy nie jest postanowieniem niedozwolonym; oraz jak traktować film zgłoszony gdzie indziej przed otwarciem naszego naboru.
 7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy linku prezentowanym na stronie Nagrody.
-8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** - czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
-9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** - czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
-10. **Wersja plebiscytowa (§ 11 ust. 6-6b)** - czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.
+8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** – czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
+9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** – czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
+10. **Wersja plebiscytowa (§ 11 ust. 6-6b)** – czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.

@@ -23,13 +23,13 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 ### Skąd nazwa
 
-Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
+Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było – i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
 
 ## <!--ikona:wspolpraca--><span>Kogo i czego szukamy</span>
 
-**Szukamy firm i instytucji, które wezmą na siebie jeden konkretny element pierwszej edycji** - nagrody w jednym z plebiscytów, druk antologii, sesje nagraniowe finalistów, salę na galę, przestrzeń na wystawę plakatów albo pokazy filmów w kinie. Szukamy też ludzi: osoby, która poprowadzi podcast, i tych, którzy zasiądą w akademii oceniającej zgłoszenia.
+**Szukamy firm i instytucji, które wezmą na siebie jeden konkretny element pierwszej edycji** – nagrody w jednym z plebiscytów, druk antologii, sesje nagraniowe finalistów, salę na galę, przestrzeń na wystawę plakatów albo pokazy filmów w kinie. Szukamy też ludzi: osoby, która poprowadzi podcast, i tych, którzy zasiądą w akademii oceniającej zgłoszenia.
 
-**Poniższa lista to zamknięty zbiór zakresów, a nie prośba o wsparcie w ogólności.** Każdy z nich ma swój kosztorys i każdy można wziąć w całości albo w części - w pieniądzach, w usłudze albo w świadczeniu rzeczowym. Do każdego szukamy osobnego partnera, więc wzięcie jednego nie wiąże w niczym poza nim.
+**Poniższa lista to zamknięty zbiór zakresów, a nie prośba o wsparcie w ogólności.** Każdy z nich ma swój kosztorys i każdy można wziąć w całości albo w części – w pieniądzach, w usłudze albo w świadczeniu rzeczowym. Do każdego szukamy osobnego partnera, więc wzięcie jednego nie wiąże w niczym poza nim.
 
 **Zakres, kosztorys i proponowane warunki współpracy wysyłamy na życzenie.** Budżet pierwszej edycji jest policzony pozycja po pozycji i pokazujemy go w całości, razem z tym, czego jeszcze nie wyceniliśmy.
 
@@ -60,7 +60,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Sponsor akademii</h3>
-<p>Pierwsza runda oceny <strong>we wszystkich plebiscytach</strong>: ludzie, którzy czytają zgłoszone rozmowy, oglądają filmy, słuchają piosenek i oglądają plakaty, zanim werdykt trafi do jury. Koszt rośnie wprost z liczbą ocenionych zgłoszeń, więc finansowanie da się oprzeć na świadczeniu rzeczowym - na przykład voucherze zakupowym za każde sto ocenionych zgłoszeń.</p>
+<p>Pierwsza runda oceny <strong>we wszystkich plebiscytach</strong>: ludzie, którzy czytają zgłoszone rozmowy, oglądają filmy, słuchają piosenek i oglądają plakaty, zanim werdykt trafi do jury. Koszt rośnie wprost z liczbą ocenionych zgłoszeń, więc finansowanie da się oprzeć na świadczeniu rzeczowym – na przykład voucherze zakupowym za każde sto ocenionych zgłoszeń.</p>
 <p class="wiecej"><a href="/plebiscyt-rozmowy">Czytaj więcej</a></p>
 </article>
 </div>
@@ -115,7 +115,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Sponsor podcastu</h3>
-<p>Podcast towarzyszący Nagrodzie, w dwóch cyklach: „Pierwszy raz z AI" i „NAIstolatek". Produkcja, montaż i dystrybucja odcinków oraz honorarium prowadzącego.</p>
+<p>Podcast towarzyszący Nagrodzie, w dwóch cyklach: „Pierwszy raz z AI” i „NAIstolatek”. Produkcja, montaż i dystrybucja odcinków oraz honorarium prowadzącego.</p>
 <p class="wiecej"><a href="/plebiscyt-rozmowy#podcast">Czytaj więcej</a></p>
 </article>
 <article>
@@ -129,7 +129,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 Napisz na adres **wspolpraca@konstela.org**.
 
-Odpowiadamy zakresem, kosztorysem i proponowanymi warunkami współpracy - bez zobowiązania po żadnej ze stron.
+Odpowiadamy zakresem, kosztorysem i proponowanymi warunkami współpracy – bez zobowiązania po żadnej ze stron.
 
 Organizatorem jest [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu.
 

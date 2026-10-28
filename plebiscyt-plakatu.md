@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) - wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) – wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/plakat.jpg" srcset="/assets/plakat-800.jpg 800w, /assets/plakat.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Malarka siedzi nocą na skale nad doliną i maluje na sztalugach plakat: złotą ludzką dłoń wyciągniętą do niebieskiej dłoni mechanicznej. Od miejsca, w którego dotyka pędzlem, biegnie w rozgwieżdżone niebo złota linia, która układa się w konstelację.">
 
@@ -12,19 +12,19 @@
 
 Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek: **obraz ma powstać pod ludzką ręką**.
 
-**Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [antologii](/#antologia)** - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
+**Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [antologii](/#antologia)** – książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
 
 **W skrócie:**
 
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
 - obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
-- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** - zaplanuj je, zanim zaczniesz malować
-- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję - bez utraty nagrody i miejsca w werdykcie
+- **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** – zaplanuj je, zanim zaczniesz malować
+- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję – bez utraty nagrody i miejsca w werdykcie
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
-- zwycięska praca trafia na okładkę **[antologii](/#antologia)** - zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
+- zwycięska praca trafia na okładkę **[antologii](/#antologia)** – zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
-- **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii - [obie drogi są dobrowolne](#licytacja)
+- **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii – [obie drogi są dobrowolne](#licytacja)
 - zgłaszasz **jedną pracę w jednej edycji**
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo antologia musi zdążyć do druku
 
@@ -32,29 +32,29 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
 
-**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć - plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
+**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
 ## <!--ikona:konstelacja--><span>Dlaczego akurat plakat</span>
 
-Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić. Spór o to, co z tego wynika, toczy się w tym środowisku od dawna i nie nam go rozstrzygać - **stawiamy tylko po jednej stronie konkretną propozycję**: praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle - dlatego, że chcemy zobaczyć, **co masz do powiedzenia o tej maszynie**, kiedy mówisz to własną ręką. Temat i stanowisko wybierasz sam.
+Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić. Spór o to, co z tego wynika, toczy się w tym środowisku od dawna i nie nam go rozstrzygać – **stawiamy tylko po jednej stronie konkretną propozycję**: praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle – dlatego, że chcemy zobaczyć, **co masz do powiedzenia o tej maszynie**, kiedy mówisz to własną ręką. Temat i stanowisko wybierasz sam.
 
-**Nie pytamy o dorobek, dyplomy ani galerie** - zgłasza się zdjęcie pracy, nie życiorys.
+**Nie pytamy o dorobek, dyplomy ani galerie** – zgłasza się zdjęcie pracy, nie życiorys.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
 ### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna prawnego na udział, na przesłanie nagrania z widoczną twarzą oraz na obowiązkowe zakresy licencji. Zgody dotyczące pozostałych form wykorzystania pracy - odbioru nagrody, wysyłki oryginału, udziału w gali - rozpatrywane są osobno i ich brak wyklucza tylko z tej jednej rzeczy.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna prawnego na udział, na przesłanie nagrania z widoczną twarzą oraz na obowiązkowe zakresy licencji. Zgody dotyczące pozostałych form wykorzystania pracy – odbioru nagrody, wysyłki oryginału, udziału w gali – rozpatrywane są osobno i ich brak wyklucza tylko z tej jednej rzeczy.
 
-**Pracę wykonaną wspólnie zgłasza jedna osoba reprezentująca cały skład** - prowadzi korespondencję i odbiera nagrodę, a podział pozostaje sprawą autorów. Nagranie z pracy ma wtedy pokazać każdego ze współautorów.
+**Pracę wykonaną wspólnie zgłasza jedna osoba reprezentująca cały skład** – prowadzi korespondencję i odbiera nagrodę, a podział pozostaje sprawą autorów. Nagranie z pracy ma wtedy pokazać każdego ze współautorów.
 
-**Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną praktykę - ilustratorów, malarzy, studentów szkół artystycznych, projektantów. Dorobek nie jest oceniany.
+**Dla kogo.** Szczególnie zapraszamy twórców rozwijających własną praktykę – ilustratorów, malarzy, studentów szkół artystycznych, projektantów. Dorobek nie jest oceniany.
 
 ### Co możesz zgłosić
 
-Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi - i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być pochwałą AI, czy ostrzeżeniem przed nią.
+Temat jest szeroki – sztuczna inteligencja i to, co robi ze światem i z ludźmi – i celowo nie zawężamy go bardziej. Nie podajemy ani hasła, ani układu, ani tego, czy plakat ma być pochwałą AI, czy ostrzeżeniem przed nią.
 
 ### Wymogi formalne
 
@@ -62,7 +62,7 @@ Temat jest szeroki - sztuczna inteligencja i to, co robi ze światem i z ludźmi
 
 - praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie
 - format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6
-- praca **nie była publikowana w wydawnictwie, wystawiana ani nagradzana w innym konkursie przed dniem zgłoszenia** - liczy się stan na ten dzień, a pokazanie pracy na własnym profilu niczego nie blokuje
+- praca **nie była publikowana w wydawnictwie, wystawiana ani nagradzana w innym konkursie przed dniem zgłoszenia** – liczy się stan na ten dzień, a pokazanie pracy na własnym profilu niczego nie blokuje
 - zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków i bez widocznego rozmycia
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
@@ -77,68 +77,68 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Link do własnej sprzedaży
 
-**Link do aukcji albo oferty sprzedaży pracy i data jej zakończenia - nieobowiązkowo.** Jeżeli wystawiasz pracę na sprzedaż, podaj link i datę; pokażemy je przy Twoim wpisie w [Archiwum](#archiwum) do tej daty. Nie pośredniczymy w sprzedaży i nie bierzemy z niej nic - szczegóły opisuje sekcja o [sprzedaży pracy](#licytacja).
+**Link do aukcji albo oferty sprzedaży pracy i data jej zakończenia – nieobowiązkowo.** Jeżeli wystawiasz pracę na sprzedaż, podaj link i datę; pokażemy je przy Twoim wpisie w [Archiwum](#archiwum) do tej daty. Nie pośredniczymy w sprzedaży i nie bierzemy z niej nic – szczegóły opisuje sekcja o [sprzedaży pracy](#licytacja).
 
 ### Zdjęcie pracy, nagranie i materiały
 
-**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie - oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie - jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
+**Przesyłasz zdjęcie albo skan, nie oryginał. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie – oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie – jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
-**Dokumentacja procesu twórczego.** Nagranie pomaga potwierdzić sposób powstawania pracy i ogranicza ocenianie autorstwa na podstawie samego wyglądu plakatu. Ocena „czy to wygląda na wygenerowane" byłaby zgadywaniem i uderzałaby w tych, którzy malują gładko i precyzyjnie. Pomyśl o nagraniu **przed rozpoczęciem pracy**: trwa 3 minuty, nie wymaga jakości, dźwięku, montażu ani ciągłości, a nie publikujemy go nigdzie - widzą je wyłącznie oceniający i jury.
+**Dokumentacja procesu twórczego.** Nagranie pomaga potwierdzić sposób powstawania pracy i ogranicza ocenianie autorstwa na podstawie samego wyglądu plakatu. Ocena „czy to wygląda na wygenerowane” byłaby zgadywaniem i uderzałaby w tych, którzy malują gładko i precyzyjnie. Pomyśl o nagraniu **przed rozpoczęciem pracy**: trwa 3 minuty, nie wymaga jakości, dźwięku, montażu ani ciągłości, a nie publikujemy go nigdzie – widzą je wyłącznie oceniający i jury.
 
-**Dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. **Jedno ujęcie musi być nieprzerwanym przejściem kamery od Twojej twarzy do wykonywanej pracy**, bez cięcia - to ono wiąże Ciebie z tą konkretną robotą. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 3 minut się nie liczą.
+**Dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty.** Jest obowiązkowe. Fragmenty pokazujące pracę mają obejmować w jednym kadrze Twoją twarz, pracę i rękę, która nad nią pracuje, na co najmniej dwóch etapach, w tym takim, na którym plakat jest już rozpoznawalny. **Jedno ujęcie musi być nieprzerwanym przejściem kamery od Twojej twarzy do wykonywanej pracy**, bez cięcia – to ono wiąże Ciebie z tą konkretną robotą. Nagranie może składać się z kilku ujęć, byle każde trwało minutę i nie było w nim cięć. Przyspieszone ujęcia możesz dołączyć, ale do tych 3 minut się nie liczą.
 
-**Najprościej ustawić telefon na statywie albo oprzeć go o coś z boku**, tak żeby w kadrze mieściły się naraz Twoja twarz, praca i ręka. Twarz nie musi być duża ani ostra - ma pozwolić rozpoznać, że pracuje ta sama osoba, która zgłasza pracę. Jeżeli pracujesz w dużym formacie i wszystko nie mieści się w jednym kadrze, odsuń kamerę albo nagraj z boku pod kątem.
+**Najprościej ustawić telefon na statywie albo oprzeć go o coś z boku**, tak żeby w kadrze mieściły się naraz Twoja twarz, praca i ręka. Twarz nie musi być duża ani ostra – ma pozwolić rozpoznać, że pracuje ta sama osoba, która zgłasza pracę. Jeżeli pracujesz w dużym formacie i wszystko nie mieści się w jednym kadrze, odsuń kamerę albo nagraj z boku pod kątem.
 
-**Czego nagranie nie musi mieć.** Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Nie wymagamy profesjonalnego sprzętu. Nagranie nie jest oceniane w żadnym kryterium. Nie publikujemy go nigdzie - ani w Galerii, ani w Archiwum - i udostępniamy je wyłącznie oceniającym i jury. Twarz na nagraniu nie odbiera Ci możliwości zgłoszenia pracy pod pseudonimem: publicznie podpisujemy pracę tak, jak wskażesz.
+**Czego nagranie nie musi mieć.** Twojego głosu, montażu, dźwięku, dobrej kamery ani całego czasu pracy. Nie wymagamy profesjonalnego sprzętu. Nagranie nie jest oceniane w żadnym kryterium. Nie publikujemy go nigdzie – ani w Galerii, ani w Archiwum – i udostępniamy je wyłącznie oceniającym i jury. Twarz na nagraniu nie odbiera Ci możliwości zgłoszenia pracy pod pseudonimem: publicznie podpisujemy pracę tak, jak wskażesz.
 
-**Jak je przesłać.** Podajesz link do nagrania na YouTube - może być niepubliczny. Pamiętaj tylko, że film niepubliczny w YouTubie może obejrzeć każdy, kto ma do niego link.
+**Jak je przesłać.** Podajesz link do nagrania na YouTube – może być niepubliczny. Pamiętaj tylko, że film niepubliczny w YouTubie może obejrzeć każdy, kto ma do niego link.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
 ## <!--ikona:zasady--><span>Zasady: ręka, nie generator</span>
 
-**Obraz ma powstać pod ludzką ręką.** Możesz używać generatora do poszukiwań, zanim weźmiesz pędzel. Nie możesz natomiast odtwarzać wygenerowanego obrazu ani jego istotnej części - w tym charakterystycznej kompozycji - przez kalkowanie, przerysowanie, przemalowanie albo domalowanie na wydrukowanym podkładzie. Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.
+**Obraz ma powstać pod ludzką ręką.** Możesz używać generatora do poszukiwań, zanim weźmiesz pędzel. Nie możesz natomiast odtwarzać wygenerowanego obrazu ani jego istotnej części – w tym charakterystycznej kompozycji – przez kalkowanie, przerysowanie, przemalowanie albo domalowanie na wydrukowanym podkładzie. Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.
 
-Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI - bo przy plakacie to właśnie obraz jest ocenianym wytworem, a nie jednym z kilku składników.
+Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI – bo przy plakacie to właśnie obraz jest ocenianym wytworem, a nie jednym z kilku składników.
 
 **Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem i Twoje oświadczenie, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
-**Narzędzia cyfrowe przy przygotowaniu pliku** - kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia - są dozwolone i oczywiste. Nie wolno nimi dodawać ani usuwać elementów obrazu.
+**Narzędzia cyfrowe przy przygotowaniu pliku** – kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia – są dozwolone i oczywiste. Nie wolno nimi dodawać ani usuwać elementów obrazu.
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
 <div class="kafle jedna-kolumna">
 <article>
-<h3>Ujęcie tematu - od 0 do 30 punktów</h3>
+<h3>Ujęcie tematu – od 0 do 30 punktów</h3>
 <p><strong>Co mówisz</strong> o życiu z AI: trafność, oryginalność i głębia wypowiedzi.</p>
 </article>
 <article>
-<h3>Pomysł plastyczny - od 0 do 30 punktów</h3>
+<h3>Pomysł plastyczny – od 0 do 30 punktów</h3>
 <p><strong>Jak to pokazujesz</strong>: przełożenie myśli na obraz, metaforę i relacje między elementami. Niżej punktowane jest banalne użycie motywu, a nie sam motyw.</p>
 </article>
 <article>
-<h3>Wykonanie - od 0 do 20 punktów</h3>
+<h3>Wykonanie – od 0 do 20 punktów</h3>
 <p>Świadome użycie techniki, koloru i rysunku.</p>
 </article>
 <article>
-<h3>Działanie plakatu - od 0 do 20 punktów</h3>
+<h3>Działanie plakatu – od 0 do 20 punktów</h3>
 <p>Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym.</p>
 </article>
 </div>
 
 **Razem maksymalnie 100 punktów.**
 
-Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie tematu to „co mówisz", pomysł plastyczny to „jak to pokazujesz"**. Można mieć trafną myśl i rozwiązać ją nijak, albo olśniewająco pokazać coś, co nic nie wnosi. Wykonanie waży mniej celowo: nie szukamy najlepszego warsztatu, tylko najlepszego plakatu.
+Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie tematu to „co mówisz”, pomysł plastyczny to „jak to pokazujesz”**. Można mieć trafną myśl i rozwiązać ją nijak, albo olśniewająco pokazać coś, co nic nie wnosi. Wykonanie waży mniej celowo: nie szukamy najlepszego warsztatu, tylko najlepszego plakatu.
 
-**Znany motyw nie jest wadą.** Robot, oko, sieć połączeń - wszystkiego tego wolno użyć i da się użyć znakomicie. Ocenę obniża dopiero rozwiązanie ograne: motyw użyty tak, jak widzieliśmy go już sto razy.
+**Znany motyw nie jest wadą.** Robot, oko, sieć połączeń – wszystkiego tego wolno użyć i da się użyć znakomicie. Ocenę obniża dopiero rozwiązanie ograne: motyw użyty tak, jak widzieliśmy go już sto razy.
 
 **Czego nie oceniamy: Twojego dorobku, wykształcenia ani tego, czy ktoś Cię już wystawiał.**
 
-**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z akademii, które je oglądały - i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Jeżeli ktoś z jury wyłącza się od oceny Twojej pracy, bo Cię zna, jego ocena nie jest brana pod uwagę.
+**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z akademii, które je oglądały – i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Jeżeli ktoś z jury wyłącza się od oceny Twojej pracy, bo Cię zna, jego ocena nie jest brana pod uwagę.
 
 Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
@@ -147,7 +147,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia plakatu</h3>
-<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia plakatu</strong> - grono praktyków plakatu, ilustracji i projektowania graficznego, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plakatu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób ogląda jedno zgłoszenie i jak powstaje lista, mówimy przed otwarciem naboru.</p>
+<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia plakatu</strong> – grono praktyków plakatu, ilustracji i projektowania graficznego, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plakatu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób ogląda jedno zgłoszenie i jak powstaje lista, mówimy przed otwarciem naboru.</p>
 </article>
 <article>
 <h3>Jury</h3>
@@ -190,19 +190,19 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a oryginałem dysponujemy nie dłużej niż 150 dni od jego odebrania.
 
-**Wystawa w galerii sztuki - jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem - już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć - nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
+**Wystawa w galerii sztuki – jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem – już z zajętymi miejscami. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć – nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
 <h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych plakatów</span></h2>
 
-**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** – od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
-**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** – jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
-**Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
+**Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania – inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
-**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
+**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
-**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym plakacie - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
+**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym plakacie – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
@@ -210,41 +210,41 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 ### Galeria
 
-**Prace, które przeszły weryfikację formalną, pokazujemy w Galerii** - rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, uzasadnienie „dlaczego warte nagrody głównej", technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
+**Prace, które przeszły weryfikację formalną, pokazujemy w Galerii** – rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały czas naboru. Widać w niej reprodukcję pracy, tytuł, podpis, uzasadnienie „dlaczego warte nagrody głównej”, technikę i wymiary oryginału oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał.
 
 <h3 id="archiwum">Archiwum</h3>
 
-**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji - żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję - oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Jeżeli podałeś link do własnej aukcji, widać go tu do podanej przez Ciebie daty. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
+**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji – żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję – oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Jeżeli podałeś link do własnej aukcji, widać go tu do podanej przez Ciebie daty. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
 
 ### Jawność punktacji
 
-**Jawność ocen - wystawionych przez akademię, jury i publiczność - dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
+**Jawność ocen – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego plakatu</span>
 
 Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w plebiscycie.
 
-Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach. **Warunkiem udziału są dwa**: pokazanie reprodukcji w Galerii i w Archiwum oraz - przy pracy zwycięskiej - reprodukcja na okładce antologii i w materiałach informacyjnych edycji; zgody na okładkę udzielasz przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę, a nie to, czy wolno jej użyć. **Pozostałe zakresy zależą od odrębnych uzgodnień**: pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę, oraz pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej.
+Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach. **Warunkiem udziału są dwa**: pokazanie reprodukcji w Galerii i w Archiwum oraz – przy pracy zwycięskiej – reprodukcja na okładce antologii i w materiałach informacyjnych edycji; zgody na okładkę udzielasz przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę, a nie to, czy wolno jej użyć. **Pozostałe zakresy zależą od odrębnych uzgodnień**: pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę, oraz pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej.
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
 
-<h2 id="licytacja"><!--ikona:licytacja--><span>Sprzedaż pracy - dwie drogi, obie dobrowolne</span></h2>
+<h2 id="licytacja"><!--ikona:licytacja--><span>Sprzedaż pracy – dwie drogi, obie dobrowolne</span></h2>
 
 Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwie osobne drogi i nic nie każe wybierać jednej z nich.
 
-### Cicha licytacja przy wystawie w galerii - prowadzimy ją my
+### Cicha licytacja przy wystawie w galerii – prowadzimy ją my
 
-**Dotyczy finalistów i tylko wtedy, gdy pozyskamy galerię sztuki** - a dziś jej nie mamy. Jeżeli się uda, to my organizujemy wydarzenie, wernisaż i obsługę sprzedaży, i stąd wspólny podział: po odliczeniu zaakceptowanych wcześniej kosztów licytacji **pozostała kwota dzieli się po połowie - między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**.
+**Dotyczy finalistów i tylko wtedy, gdy pozyskamy galerię sztuki** – a dziś jej nie mamy. Jeżeli się uda, to my organizujemy wydarzenie, wernisaż i obsługę sprzedaży, i stąd wspólny podział: po odliczeniu zaakceptowanych wcześniej kosztów licytacji **pozostała kwota dzieli się po połowie – między Ciebie i pulę nagród kolejnej edycji tego plebiscytu**.
 
-**Przy zgłoszeniu nie decydujesz o licytacji.** Pytamy dopiero po wyborze przez jury finalistów: wtedy dostajesz warunki - cenę minimalną, przewidywane prowizje i sposób rozliczenia - i wtedy decydujesz. Odmowa nie zmienia ani wyniku plebiscytu, ani nagrody, ani udziału w wystawie. Nie gwarantujemy ani sprzedaży, ani żadnej ceny, a jeżeli galeria się nie znajdzie, licytacji po naszej stronie po prostu nie ma.
+**Przy zgłoszeniu nie decydujesz o licytacji.** Pytamy dopiero po wyborze przez jury finalistów: wtedy dostajesz warunki – cenę minimalną, przewidywane prowizje i sposób rozliczenia – i wtedy decydujesz. Odmowa nie zmienia ani wyniku plebiscytu, ani nagrody, ani udziału w wystawie. Nie gwarantujemy ani sprzedaży, ani żadnej ceny, a jeżeli galeria się nie znajdzie, licytacji po naszej stronie po prostu nie ma.
 
-### Własna sprzedaż - link w Archiwum, dla wszystkich
+### Własna sprzedaż – link w Archiwum, dla wszystkich
 
 **W zgłoszeniu możesz nieobowiązkowo podać link do własnej aukcji albo oferty sprzedaży pracy i datę jej zakończenia.** Pokazujemy go przy Twoim wpisie w [Archiwum](#archiwum) do tej daty, a potem usuwamy. Dotyczy to wszystkich zgłoszeń, nie tylko finałowej dziesiątki, i nie ma tu żadnego podziału przychodu: **cała kwota zostaje u Ciebie**.
 
 **Nie jesteśmy stroną tej sprzedaży.** Nie pośredniczymy, nie przyjmujemy zapłaty, nie sprawdzamy ceny ani przebiegu transakcji i nie odpowiadamy za jej wykonanie. Datę przyjmujemy taką, jaką podasz. Link usuniemy albo zmienimy na Twoją prośbę w ciągu 14 dni, a nie opublikujemy takiego, który nie działa.
 
-**Dwie rzeczy warto wiedzieć z góry.** Sprzedaż niczego nie zmienia w sprawie oryginału: tak jak każdy finalista możesz go przysłać albo nie, bez utraty nagrody. Jeżeli go przyślesz - pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może pozwolić ustalić tożsamość osoby podpisanej pseudonimem.
+**Dwie rzeczy warto wiedzieć z góry.** Sprzedaż niczego nie zmienia w sprawie oryginału: tak jak każdy finalista możesz go przysłać albo nie, bez utraty nagrody. Jeżeli go przyślesz – pracę wydajesz nabywcy po jej zwrocie, a o terminie uprzedzasz go sam; oryginału nie wydajemy nikomu poza autorem. I tak jak przy kontakcie do autora: link do aukcji pokazuje Twój profil sprzedającego, więc może pozwolić ustalić tożsamość osoby podpisanej pseudonimem.
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -264,13 +264,13 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na zagadnienie sztucznej inteligencji, rozstrzygane na tej samej gali:
 
-1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) - film od 20 do 90 minut, stworzony dla tego plebiscytu.
-2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) - własny tekst, własna muzyka, własne wykonanie.
-3. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu) - praca wykonana ręcznie, bez generatora obrazu.
+1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) – film od 20 do 90 minut, stworzony dla tego plebiscytu.
+2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) – własny tekst, własna muzyka, własne wykonanie.
+3. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu) – praca wykonana ręcznie, bez generatora obrazu.
 
 ### Skąd nazwa
 
-Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
+Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było – i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
 
 ### Kto za tym stoi
 
@@ -278,9 +278,9 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych - z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
-Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** - oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
+Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** – oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
 
 **Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór rozmów i piosenek**, bo antologia musi zdążyć do druku.
 
@@ -307,9 +307,9 @@ Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.plakatu@konstela.org
 
 Napisz, jeśli:
 
-- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **rysujesz i masz pytanie** o zasady, terminy albo sposób zgłoszenia
-- **chcesz oglądać i oceniać zgłoszenia w akademii plakatu** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz oglądać i oceniać zgłoszenia w akademii plakatu** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

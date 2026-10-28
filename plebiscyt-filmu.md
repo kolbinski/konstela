@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) - napiszemy w dniu otwarcia naboru, a potem jeszcze raz, gdy [edycja będzie już pewna](#wymagania). Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) – napiszemy w dniu otwarcia naboru, a potem jeszcze raz, gdy [edycja będzie już pewna](#wymagania). Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/film.jpg" srcset="/assets/film-800.jpg 800w, /assets/film.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji.">
 
@@ -10,21 +10,21 @@
 
 ## <!--ikona:tasma-filmowa--><span>Co to za plebiscyt</span>
 
-Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą AI, czy ostrzeżeniem przed nią - to, co w nim powiesz, jest częścią tego, co oceniamy.
+Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana. Nie dajemy tematu węższego i nie mówimy, czy film ma być pochwałą AI, czy ostrzeżeniem przed nią – to, co w nim powiesz, jest częścią tego, co oceniamy.
 
 **W skrócie:**
 
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
-- cała dziesiątka finalistów wchodzi do **zestawu proponowanego dystrybutorowi** - nie mamy jeszcze partnera ani zapewnionych pokazów
+- cała dziesiątka finalistów wchodzi do **zestawu proponowanego dystrybutorowi** – nie mamy jeszcze partnera ani zapewnionych pokazów
 - obok nich przyznawana jest **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
-- zgłaszasz **link do filmu na swoim kanale w YouTube** - publicznego albo niepublicznego, z dostępem przez link - oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, dostępnego publicznie
+- zgłaszasz **link do filmu na swoim kanale w YouTube** – publicznego albo niepublicznego, z dostępem przez link – oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, dostępnego publicznie
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
 - Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
-- na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** - tych samych, które zgłosiłeś
+- na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
 - nabór zamykamy **30 listopada 2027**
 
@@ -32,37 +32,37 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
 
-**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć - plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
+**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
 
-Mówimy o tym z takim wyprzedzeniem dlatego, że film trwający od 20 do 90 minut planuje się wcześniej - a zgłoszony film ma powstać na potrzeby tego plebiscytu.
+Mówimy o tym z takim wyprzedzeniem dlatego, że film trwający od 20 do 90 minut planuje się wcześniej – a zgłoszony film ma powstać na potrzeby tego plebiscytu.
 
-Jeżeli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć - ogłosimy to wtedy wprost, z uzasadnieniem.
+Jeżeli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć – ogłosimy to wtedy wprost, z uzasadnieniem.
 
 ## <!--ikona:konstelacja--><span>Dlaczego w ogóle kręcić o AI</span>
 
-Sztuczna inteligencja weszła w ciągu kilku lat w pracę, w szkołę, w rozmowy prowadzone nocą przed ekranem - a w polskim kinie prawie nie widać tej tematyki. Jest za to w zagranicznej fantastyce, od dziesięcioleci, w jednej z dwóch ról: zagłady albo wybawienia. Obie są wygodne, bo obie zwalniają z patrzenia na to, co dzieje się teraz i obok.
+Sztuczna inteligencja weszła w ciągu kilku lat w pracę, w szkołę, w rozmowy prowadzone nocą przed ekranem – a w polskim kinie prawie nie widać tej tematyki. Jest za to w zagranicznej fantastyce, od dziesięcioleci, w jednej z dwóch ról: zagłady albo wybawienia. Obie są wygodne, bo obie zwalniają z patrzenia na to, co dzieje się teraz i obok.
 
-**Interesuje nas to, czego w tych dwóch rolach nie ma.** Człowiek, który zaczyna myśleć cudzym narzędziem. Praca, która przestała być potrzebna w pół roku. Rozmowa z maszyną, po której coś w kimś zostało. Nauczyciel, lekarz, tłumacz, rodzic - ktoś, kto musi dziś zdecydować, ile z siebie oddać. To są tematy filmowe, a nie publicystyczne, i nikt ich za nas nie opowie.
+**Interesuje nas to, czego w tych dwóch rolach nie ma.** Człowiek, który zaczyna myśleć cudzym narzędziem. Praca, która przestała być potrzebna w pół roku. Rozmowa z maszyną, po której coś w kimś zostało. Nauczyciel, lekarz, tłumacz, rodzic – ktoś, kto musi dziś zdecydować, ile z siebie oddać. To są tematy filmowe, a nie publicystyczne, i nikt ich za nas nie opowie.
 
-Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma być pochwałą AI, czy ostrzeżeniem przed nią. **Nie finansujemy też produkcji i nie oceniamy budżetu** - oceniamy film, nie sprzęt, którym go zrobiono. Telefon, jedna lokacja i dwie osoby na planie wystarczą, jeżeli masz co powiedzieć.
+Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma być pochwałą AI, czy ostrzeżeniem przed nią. **Nie finansujemy też produkcji i nie oceniamy budżetu** – oceniamy film, nie sprzęt, którym go zrobiono. Telefon, jedna lokacja i dwie osoby na planie wystarczą, jeżeli masz co powiedzieć.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
 ### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna. Zgoda na obowiązkowe zakresy licencji - prezentację zgłoszenia i zwiastuna, w tym na gali - jest warunkiem przyjęcia zgłoszenia. Pozostałe zgody dotyczą odrębnych działań: odbioru nagrody, udziału w gali i pełnego pokazu filmu.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, dołącza pisemną zgodę opiekuna. Zgoda na obowiązkowe zakresy licencji – prezentację zgłoszenia i zwiastuna, w tym na gali – jest warunkiem przyjęcia zgłoszenia. Pozostałe zgody dotyczą odrębnych działań: odbioru nagrody, udziału w gali i pełnego pokazu filmu.
 
 **Jedno zgłoszenie na numer telefonu**, potwierdzane kodem z SMS. Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy.
 
 ### Film powstaje dla tego plebiscytu
 
-**Możesz go równolegle zgłaszać gdzie indziej** - do festiwali, konkursów i przeglądów, w dowolnym czasie, bez pytania nas o zgodę; nagroda zdobyta gdzie indziej niczego u nas nie zmienia. Wykluczona jest natomiast przeróbka filmu ukończonego wcześniej. Zakaz nie dotyczy natomiast **składników**: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza ani istniejącej muzyki.
+**Możesz go równolegle zgłaszać gdzie indziej** – do festiwali, konkursów i przeglądów, w dowolnym czasie, bez pytania nas o zgodę; nagroda zdobyta gdzie indziej niczego u nas nie zmienia. Wykluczona jest natomiast przeróbka filmu ukończonego wcześniej. Zakaz nie dotyczy natomiast **składników**: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza ani istniejącej muzyki.
 
 ### Zanim zgłosisz: festiwale
 
-**Film nie musi być publiczny na YouTube** - wystarczy link niepubliczny. Powiedzmy jednak wprost, co to znaczy: **link pokazujemy w ogólnodostępnej [Projektorni](#projektornia), więc obejrzeć film będzie mógł każdy, kto na nią wejdzie**. Zmienia się to, że film nie jest wyszukiwalny w serwisie, a nie to, że jest niedostępny. Publicznie pokazujemy też zwiastun. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone - ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**, bo część z nich wymaga premiery albo wcześniejszej niedostępności w internecie. Tego ryzyka nie usuwa żadna nasza zgoda.
+**Film nie musi być publiczny na YouTube** – wystarczy link niepubliczny. Powiedzmy jednak wprost, co to znaczy: **link pokazujemy w ogólnodostępnej [Projektorni](#projektornia), więc obejrzeć film będzie mógł każdy, kto na nią wejdzie**. Zmienia się to, że film nie jest wyszukiwalny w serwisie, a nie to, że jest niedostępny. Publicznie pokazujemy też zwiastun. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone – ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**, bo część z nich wymaga premiery albo wcześniejszej niedostępności w internecie. Tego ryzyka nie usuwa żadna nasza zgoda.
 
 ### Czego nie przyjmujemy
 
@@ -84,29 +84,29 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu - nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość - decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Dwa linki: film i zwiastun
 
 **Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Film może być publiczny albo niepubliczny z dostępem przez link; zwiastun jest publiczny, bo pokazujemy go w Projektorni i na gali. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
 
-**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i - jeżeli film trafi do piątki najwyżej ocenionych - jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
+**Drugim linkiem do podania w zgłoszeniu jest zwiastun filmu, od 60 do 120 sekund**, też publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
 ### Wersja plebiscytowa
 
-**Ocenie podlega wersja filmu dostępna pod linkiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany - w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem - koniec oceny; między werdyktem a galą nie odbiera nagrody, ale wyłącza film z głosowania publiczności, które trwa do dnia gali. Jeśli film zniknie nie z Twojej winy - awaria, blokada, cudze zgłoszenie naruszenia - dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego linku.
+**Ocenie podlega wersja filmu dostępna pod linkiem w dniu zamknięcia naboru** i zobowiązujesz się jej nie zmieniać do werdyktu; poprawki techniczne, na przykład w napisach, są w porządku. Kopii filmu u siebie nie trzymamy, więc nie odtworzymy wersji sprzed zmiany – w dniu zamknięcia naboru zapisujemy natomiast metrykę zgłoszenia: czas trwania co do sekundy, tytuł, miniaturę i datę publikacji. Wykazana zmiana filmu wyklucza zgłoszenie. Usunięcie filmu z kanału przed zamknięciem naboru oznacza wycofanie zgłoszenia; między zamknięciem naboru a werdyktem – koniec oceny; między werdyktem a galą nie odbiera nagrody, ale wyłącza film z głosowania publiczności, które trwa do dnia gali. Jeśli film zniknie nie z Twojej winy – awaria, blokada, cudze zgłoszenie naruszenia – dostaniesz od nas wiadomość i co najmniej 14 dni na przywrócenie dostępu albo wskazanie innego linku.
 
 ### Pozostałe pola zgłoszenia
 
 Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie podlegają ocenie.
 
-**Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i Archiwum](#projektornia). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis - możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
+**Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i Archiwum](#projektornia). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis – możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
 ## <!--ikona:zasady--><span>Zasady: deklaracja, nie zakaz</span>
 
-**Użycie narzędzi sztucznej inteligencji przy filmie nie jest zakazane w żadnym zakresie** - ani przy obrazie, ani przy scenariuszu, ani przy montażu, dźwięku, muzyce, głosie czy napisach. **Opisujesz natomiast w zgłoszeniu, co takie narzędzia w Twoim filmie zrobiły.** Deklaracja jest publikowana razem ze zgłoszeniem i **nie podlega ocenie**: film wygenerowany w całości i film zrobiony bez tych narzędzi oceniamy tą samą [kartą oceny](/dokument/regulamin-filmu#karta-oceny).
+**Użycie narzędzi sztucznej inteligencji przy filmie nie jest zakazane w żadnym zakresie** – ani przy obrazie, ani przy scenariuszu, ani przy montażu, dźwięku, muzyce, głosie czy napisach. **Opisujesz natomiast w zgłoszeniu, co takie narzędzia w Twoim filmie zrobiły.** Deklaracja jest publikowana razem ze zgłoszeniem i **nie podlega ocenie**: film wygenerowany w całości i film zrobiony bez tych narzędzi oceniamy tą samą [kartą oceny](/dokument/regulamin-filmu#karta-oceny).
 
 Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regulaminy wskazują, co musi pochodzić od człowieka. **Nieprawdziwa deklaracja jest podstawą wykluczenia.**
 
@@ -114,20 +114,20 @@ Zakres jest tu szerszy niż w plebiscytach na piosenkę i na plakat, gdzie regul
 
 <div class="kafle jedna-kolumna">
 <article>
-<h3>Teza - od 0 do 30 punktów</h3>
-<p><strong>Co film mówi</strong> o sztucznej inteligencji: oryginalność ujęcia tematu. Niżej punktujemy banalne ujęcie tematu, a nie sam temat - rzecz znana pokazana świeżo punktuje wysoko.</p>
+<h3>Teza – od 0 do 30 punktów</h3>
+<p><strong>Co film mówi</strong> o sztucznej inteligencji: oryginalność ujęcia tematu. Niżej punktujemy banalne ujęcie tematu, a nie sam temat – rzecz znana pokazana świeżo punktuje wysoko.</p>
 </article>
 <article>
-<h3>Forma - od 0 do 30 punktów</h3>
+<h3>Forma – od 0 do 30 punktów</h3>
 <p><strong>Jak to pokazuje</strong>: montaż, obraz, dźwięk, rytm i wykorzystanie czasu, który sobie przyjąłeś.</p>
 </article>
 <article>
-<h3>Rzetelność - od 0 do 20 punktów</h3>
-<p>Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji liczy się tylko to, czy świat przedstawiony da się odróżnić od informacji podawanych jako rzeczywiste - sam zabieg fantastyczny nie obniża oceny.</p>
+<h3>Rzetelność – od 0 do 20 punktów</h3>
+<p>Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji liczy się tylko to, czy świat przedstawiony da się odróżnić od informacji podawanych jako rzeczywiste – sam zabieg fantastyczny nie obniża oceny.</p>
 </article>
 <article>
-<h3>Siła oddziaływania - od 0 do 20 punktów</h3>
-<p>Czy film zostawia w widzu wyraźną myśl, obraz albo emocję - coś, co po obejrzeniu potrafisz nazwać.</p>
+<h3>Siła oddziaływania – od 0 do 20 punktów</h3>
+<p>Czy film zostawia w widzu wyraźną myśl, obraz albo emocję – coś, co po obejrzeniu potrafisz nazwać.</p>
 </article>
 </div>
 
@@ -142,7 +142,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia filmu</h3>
-<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia filmu</strong> i przekazuje jury listę wyłonioną według zasad <a href="/dokument/regulamin-filmu#karta-oceny">karty oceny</a> - tej samej, z którą pracuje jury.</p>
+<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia filmu</strong> i przekazuje jury listę wyłonioną według zasad <a href="/dokument/regulamin-filmu#karta-oceny">karty oceny</a> – tej samej, z którą pracuje jury.</p>
 </article>
 <article>
 <h3>Jury</h3>
@@ -181,15 +181,15 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 
 <h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych filmów</span></h2>
 
-**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** - od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
+**Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** – od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
-**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** - jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
+**Twoje uzasadnienie możemy pokazać przy zgłoszeniu, na które głosowałeś** – jeżeli się zgodzisz. Zgoda jest nieobowiązkowa, można ją wycofać, a jej brak nie wyłącza uzasadnienia z oceny ani głosu z liczenia. Podpisujemy je tak, jak wskażesz: imieniem albo pseudonimem.
 
-**Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania - inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
+**Uzasadnienia pokazujemy dopiero po gali**, razem z wynikiem głosowania – inaczej liczba komentarzy pod zgłoszeniem mówiłaby o jego popularności dokładnie tyle, co ukryty licznik.
 
-**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
+**Jak wybieramy najlepsze.** Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
-**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym filmie - trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
+**Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym filmie – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
@@ -203,13 +203,13 @@ Kwalifikacja do dystrybucji kinowej dziesięciu filmów najwyżej ocenionych prz
 
 ### Projektornia
 
-Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każdy film trafia do Projektorni: listy, która rośnie przez cały rok naboru i którą może przeglądać każdy. Każdy film w Projektorni ma tytuł, podpis autora, link do zwiastuna i do filmu, miniaturę, czas trwania, opis, uzasadnienie, dlaczego jest warty nagrody głównej, deklarację użycia narzędzi sztucznej inteligencji oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał. Kolejność jest wyłącznie według daty zgłoszenia - bez rankingu i bez wyróżniania czegokolwiek.
+Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każdy film trafia do Projektorni: listy, która rośnie przez cały rok naboru i którą może przeglądać każdy. Każdy film w Projektorni ma tytuł, podpis autora, link do zwiastuna i do filmu, miniaturę, czas trwania, opis, uzasadnienie, dlaczego jest warty nagrody głównej, deklarację użycia narzędzi sztucznej inteligencji oraz **kontakt do autora**, czyli link do jego strony albo profilu, jeżeli go podał. Kolejność jest wyłącznie według daty zgłoszenia – bez rankingu i bez wyróżniania czegokolwiek.
 
 ### Katalog, nie repozytorium
 
-Film i zwiastun odtwarzają się z Twojego kanału, bo kopii u siebie nie przechowujemy. Usunięcie ich stamtąd jest więc skuteczne natychmiast i nie wymaga niczyjej zgody - ale ma skutki dla zgłoszenia: przed zamknięciem naboru oznacza wycofanie, między zamknięciem a ustaleniem werdyktu koniec oceny, a między ustaleniem werdyktu a galą wyłączenie z głosowania publiczności, bez utraty nagrody. Po gali usunięcie filmu nie zmienia już niczego.
+Film i zwiastun odtwarzają się z Twojego kanału, bo kopii u siebie nie przechowujemy. Usunięcie ich stamtąd jest więc skuteczne natychmiast i nie wymaga niczyjej zgody – ale ma skutki dla zgłoszenia: przed zamknięciem naboru oznacza wycofanie, między zamknięciem a ustaleniem werdyktu koniec oceny, a między ustaleniem werdyktu a galą wyłączenie z głosowania publiczności, bez utraty nagrody. Po gali usunięcie filmu nie zmienia już niczego.
 
-**Przy zwiastunie dostajesz dodatkowy termin.** Jeśli zwiastun zniknie - czy to dlatego, że go usunąłeś, czy wskutek awarii albo blokady serwisu - najpierw piszemy do Ciebie i dajemy co najmniej 14 dni na przywrócenie go albo wskazanie innego, spełniającego te same wymogi. Dopiero bezskuteczny upływ tego terminu wywołuje skutki opisane wyżej. Tak samo postępujemy, gdy film staje się niedostępny z przyczyn od Ciebie niezależnych.
+**Przy zwiastunie dostajesz dodatkowy termin.** Jeśli zwiastun zniknie – czy to dlatego, że go usunąłeś, czy wskutek awarii albo blokady serwisu – najpierw piszemy do Ciebie i dajemy co najmniej 14 dni na przywrócenie go albo wskazanie innego, spełniającego te same wymogi. Dopiero bezskuteczny upływ tego terminu wywołuje skutki opisane wyżej. Tak samo postępujemy, gdy film staje się niedostępny z przyczyn od Ciebie niezależnych.
 
 ### Bez liczników i bez konta
 
@@ -221,7 +221,7 @@ Po ogłoszeniu wyników Projektornia zamienia się w Archiwum, udostępniane bez
 
 ### Jawność punktacji
 
-**Jawność ocen - wystawionych przez akademię, jury i publiczność - dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
+**Jawność ocen – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
@@ -229,11 +229,11 @@ Po ogłoszeniu wyników Projektornia zamienia się w Archiwum, udostępniane bez
 
 ### Licencja i podpis
 
-Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i Archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza linkiem.** Pokaz kinowy filmu finałowego wymaga osobnej zgody. Zgłoszenie podpisujemy publicznie tak, jak wskażesz - imieniem i nazwiskiem, pseudonimem albo nazwą składu twórczego.
+Potrzebujemy licencji **niewyłącznej** i tylko w wypisanych zakresach: prezentacja wpisu w Projektorni i Archiwum, razem ze zwiastunem; zwiastun na gali i w zapisie wideo gali, przez pięć lat; ten sam zwiastun i miniatura w materiałach informacyjnych o Nagrodzie, przez pięć lat. **Do samego filmu nie prosimy o nic poza linkiem.** Pokaz kinowy filmu finałowego wymaga osobnej zgody. Zgłoszenie podpisujemy publicznie tak, jak wskażesz – imieniem i nazwiskiem, pseudonimem albo nazwą składu twórczego.
 
 ### Prawa do muzyki
 
-**Oświadczasz przy zgłoszeniu, że masz prawa do oprawy muzycznej zwiastuna i filmu** - albo licencję, która dopuszcza publiczne odtworzenie. Rozliczenie z organizacją zbiorowego zarządzania za muzykę odtworzoną na gali jest po naszej stronie i tego obowiązku na Ciebie nie przenosimy.
+**Oświadczasz przy zgłoszeniu, że masz prawa do oprawy muzycznej zwiastuna i filmu** – albo licencję, która dopuszcza publiczne odtworzenie. Rozliczenie z organizacją zbiorowego zarządzania za muzykę odtworzoną na gali jest po naszej stronie i tego obowiązku na Ciebie nie przenosimy.
 
 ### Czego nie nabywamy
 
@@ -261,13 +261,13 @@ A to człowiek decyduje, czy z rozmowy coś wyniknie. AI odpowiada na to, o co j
 
 Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego obok rozmowy stoją trzy plebiscyty na zagadnienie sztucznej inteligencji, rozstrzygane na tej samej gali:
 
-1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) - film od 20 do 90 minut, stworzony dla tego plebiscytu.
-2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) - własny tekst, własna muzyka, własne wykonanie.
-3. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu) - praca wykonana ręcznie, bez generatora obrazu.
+1. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu) – film od 20 do 90 minut, stworzony dla tego plebiscytu.
+2. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki) – własny tekst, własna muzyka, własne wykonanie.
+3. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu) – praca wykonana ręcznie, bez generatora obrazu.
 
 ### Skąd nazwa
 
-Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było - i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
+Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było – i tego samego szukamy w każdej z czterech dziedzin: połączeń między tym, co na pozór nie ma ze sobą nic wspólnego, i takich, których nikt na świecie jeszcze nie wymyślił.
 
 ### Kto za tym stoi
 
@@ -275,19 +275,19 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych - z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
 Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
 
 <h2 id="wymagania"><!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span></h2>
 
-To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało - a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
+To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało – a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
 
-**Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie - z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
+**Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie – z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
 
 **Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
 
-**Drugą wtedy, gdy co najmniej dziesięć zgłoszeń przejdzie weryfikację formalną i potwierdzimy rozstrzygnięcie edycji.** Od tej chwili ryzyko nierozstrzygnięcia znika i zostaje Ci tylko to, na co masz wpływ - czyli własny film. Nie wiemy dziś, kiedy ta wiadomość przyjdzie; nabór trwa do 30 listopada 2027 roku.
+**Drugą wtedy, gdy co najmniej dziesięć zgłoszeń przejdzie weryfikację formalną i potwierdzimy rozstrzygnięcie edycji.** Od tej chwili ryzyko nierozstrzygnięcia znika i zostaje Ci tylko to, na co masz wpływ – czyli własny film. Nie wiemy dziś, kiedy ta wiadomość przyjdzie; nabór trwa do 30 listopada 2027 roku.
 
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 
@@ -306,10 +306,10 @@ Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.filmu@konstela.org**
 
 Napisz, jeśli:
 
-- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** - trafisz wtedy na listę i dostaniesz dwie wiadomości: w dniu otwarcia naboru oraz w dniu, w którym [edycja jest już pewna](#wymagania)
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz dwie wiadomości: w dniu otwarcia naboru oraz w dniu, w którym [edycja jest już pewna](#wymagania)
 - **jesteś twórcą filmowym i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
-- **chcesz oglądać i oceniać zgłoszenia w akademii filmu** - szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz oglądać i oceniać zgłoszenia w akademii filmu** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

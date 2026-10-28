@@ -2,7 +2,7 @@
 
 Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora Nagrody Konstela i rozstrzyganym na tej samej gali. Regulamin Nagrody Konstela, dostępny pod adresem konstela.org/dokument/regulamin-rozmowy, nie stosuje się do plebiscytu, chyba że niniejszy regulamin wprost do niego odsyła.
 
-**Dokument w wersji przeznaczonej do przeglądu prawnego - jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
+**Dokument w wersji przeznaczonej do przeglądu prawnego – jest to projekt i nie otwiera naboru.** Regulamin wchodzi w życie w dniu wskazanym w odrębnym ogłoszeniu o otwarciu naboru; ogłoszenie to określa ostateczny termin zgłoszeń, wysokość nagród i komplet załączników. Nabór nie zostanie otwarty przed zakończeniem konsultacji prawnej i przed wpłynięciem środków na nagrody na rachunek Organizatora.
 
 ## § 1. Organizator
 
@@ -23,7 +23,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 3. **Poufność wyniku.** Osoba zawiadomiona o wyniku przed jego publicznym ogłoszeniem zachowuje go w poufności do chwili tego ogłoszenia, nie dłużej jednak niż **do upływu 30 dni od dnia gali wskazanego w ogłoszeniu o otwarciu naboru**; po tym terminie obowiązek poufności wygasa, choćby gala została przesunięta.
 
-4. Poufność nie obejmuje przekazania informacji **przedstawicielowi ustawowemu, współtwórcom zgłoszenia oraz doradcy** - prawnemu, podatkowemu albo księgowemu - zobowiązanym do zachowania jej w tajemnicy.
+4. Poufność nie obejmuje przekazania informacji **przedstawicielowi ustawowemu, współtwórcom zgłoszenia oraz doradcy** – prawnemu, podatkowemu albo księgowemu – zobowiązanym do zachowania jej w tajemnicy.
 
 5. **Naruszenie obowiązku poufności nie powoduje utraty nagrody ani miejsca w werdykcie.** Organizator może natomiast przesunąć moment publicznego ogłoszenia albo ogłosić wynik wcześniej, jeżeli stał się on publicznie znany.
 
@@ -32,13 +32,13 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 1. Gala jest **wspólna dla wszystkich plebiscytów Nagrody Konstela** i odbywa się w terminie ogłoszonym przy otwarciu naboru.
 
-2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych - w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie - ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
+2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych – w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie – ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
 
-2a. **Przesunięcie z przyczyn proceduralnych w innym plebiscycie.** Wspólna gala może zostać przesunięta również wskutek uruchomienia procedur oceny określonych w regulaminie plebiscytu na rozmowę ze sztuczną inteligencją - przesunięcia terminów oceny albo przekroczenia przepustowości rundy pierwszej. Każde takie przesunięcie podlega zasadom z ust. 2 i granicy z ust. 3.
+2a. **Przesunięcie z przyczyn proceduralnych w innym plebiscycie.** Wspólna gala może zostać przesunięta również wskutek uruchomienia procedur oceny określonych w regulaminie plebiscytu na rozmowę ze sztuczną inteligencją – przesunięcia terminów oceny albo przekroczenia przepustowości rundy pierwszej. Każde takie przesunięcie podlega zasadom z ust. 2 i granicy z ust. 3.
 
 2b. **Odrębność plebiscytów.** Nierozstrzygnięcie plebiscytu na rozmowę **nie powoduje nierozstrzygnięcia niniejszego plebiscytu**; jego wyniki ogłasza się wtedy na zasadach z ust. 3.
 
-3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy - zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą - wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca - nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy – zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą – wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca – nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
@@ -49,7 +49,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 2. **Odmowa przyjęcia nagrody nie zwalnia miejsca.** Uczestnik, który odmawia przyjęcia nagrody albo nie odbiera jej mimo trybu z § 1a i przepisów o kontakcie, **zachowuje przyznane miejsce w werdykcie**; nagroda nie jest wypłacana i nie przechodzi na kolejne zgłoszenie. **Śmierć Uczestnika nie jest odmową przyjęcia nagrody**; jej skutki określa przepis o śmierci i długotrwałej niedostępności w postanowieniach końcowych.
 
-3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** - rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
+3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** – rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
 
 4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
 
@@ -83,7 +83,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 4. W plebiscycie nie mogą brać udziału:
 
-   a) członkowie jury plebiscytu, a także członkowie akademii plebiscytu - ani jako zgłaszający, ani jako współautorzy lub wykonawcy w cudzym zgłoszeniu;
+   a) członkowie jury plebiscytu, a także członkowie akademii plebiscytu – ani jako zgłaszający, ani jako współautorzy lub wykonawcy w cudzym zgłoszeniu;
 
    b) członkowie organów Organizatora oraz osoby, które brały udział w przygotowaniu plebiscytu po stronie Organizatora.
 
@@ -108,7 +108,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 2. Zgłoszony być nie może utwór, który przed dniem zgłoszenia:
 
-   a) został **wydany albo wprowadzony do dystrybucji** - fonograficznej lub cyfrowej, odpłatnej lub nieodpłatnej, w tym w serwisach streamingowych;
+   a) został **wydany albo wprowadzony do dystrybucji** – fonograficznej lub cyfrowej, odpłatnej lub nieodpłatnej, w tym w serwisach streamingowych;
 
    b) jest **przeróbką utworu ukończonego wcześniej**, w szczególności nową aranżacją, skróceniem albo tym samym utworem z nowym tekstem.
 
@@ -128,17 +128,17 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    a) tytuł utworu oraz imię i nazwisko albo pseudonim, pod którym zgłoszenie ma być prezentowane;
 
-   a1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** - **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://" albo „https://". Link jest prezentowany publicznie przy wpisie w Słuchalni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** - decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   a1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Słuchalni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
    b) skład osobowy w przypadku zgłoszenia zespołowego, zgodnie z § 6;
 
-   c) **okładkę** - jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w Archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
+   c) **okładkę** – jeden plik graficzny w formacie JPG albo PNG, kwadratowy, o boku nie mniejszym niż 800 i nie większym niż 3000 pikseli, o objętości do 5 MB. Okładka prezentowana jest w Słuchalni i w Archiwum (§ 5 ust. 7 i 8) i **nie podlega ocenie** (§ 9 ust. 4). Może zostać wykonana dowolną techniką, w tym wygenerowana narzędziem sztucznej inteligencji;
 
-   c1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto posłuchać tej piosenki** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
+   c1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto posłuchać tej piosenki** – do 700 znaków własnego uzasadnienia – obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
-   c2) **tekst utworu** - pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i **jest prezentowany publicznie przy zgłoszeniu** - w Słuchalni i w Archiwum (ust. 7 i 8). Tekst ma odpowiadać temu, co słychać w nagraniu; drobna rozbieżność wynikająca z wykonania nie jest podstawą odrzucenia. Tekst nie jest natomiast publikowany w antologii ani w innych materiałach drukowanych Nagrody;
+   c2) **tekst utworu** – pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i **jest prezentowany publicznie przy zgłoszeniu** – w Słuchalni i w Archiwum (ust. 7 i 8). Tekst ma odpowiadać temu, co słychać w nagraniu; drobna rozbieżność wynikająca z wykonania nie jest podstawą odrzucenia. Tekst nie jest natomiast publikowany w antologii ani w innych materiałach drukowanych Nagrody;
 
-   c3) **moment publikacji tekstu** - Uczestnik wskazuje w zgłoszeniu, czy tekst ma być widoczny **od chwili przyjęcia zgłoszenia**, czy **dopiero po publicznym ogłoszeniu werdyktu na gali**. Wybór drugiego wariantu nie wpływa na ocenę: akademia i jury widzą tekst niezależnie od niego, od początku oceny. Brak wskazania oznacza publikację od chwili przyjęcia zgłoszenia;
+   c3) **moment publikacji tekstu** – Uczestnik wskazuje w zgłoszeniu, czy tekst ma być widoczny **od chwili przyjęcia zgłoszenia**, czy **dopiero po publicznym ogłoszeniu werdyktu na gali**. Wybór drugiego wariantu nie wpływa na ocenę: akademia i jury widzą tekst niezależnie od niego, od początku oceny. Brak wskazania oznacza publikację od chwili przyjęcia zgłoszenia;
 
    d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 
@@ -155,9 +155,9 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 6a. Przy przyjęciu zgłoszenia Organizator utrwala **metrykę nagrania**: tytuł, czas trwania, datę publikacji i identyfikator nagrania w serwisie. Metryka nie jest kopią nagrania i nie jest publikowana. Metryka służy identyfikacji zgłoszonego materiału i wykryciu części zmian; nie jest zapisem jego treści. Rozbieżność między metryką a nagraniem dostępnym pod linkiem w czasie oceny jest podstawą wszczęcia wyjaśnień w trybie z § 16, a nie samodzielną podstawą wyłączenia. **Uczestnik może poprawić nagranie do dnia zamknięcia naboru**, zgłaszając to Organizatorowi, który aktualizuje wówczas metrykę; oceniający pracują na wersji ostatecznej. Zmiana nagrania po zamknięciu naboru jest niedopuszczalna.
 
-7. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Słuchalni** - zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, **tekst utworu** - z zastrzeżeniem wyboru z ust. 3 lit. c3 - podpis Uczestnika, link z § 5 ust. 3 lit. a1, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej" (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
+7. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Słuchalni** – zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje okładkę, tytuł utworu, **tekst utworu** – z zastrzeżeniem wyboru z ust. 3 lit. c3 – podpis Uczestnika, link z § 5 ust. 3 lit. a1, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej” (ust. 3 lit. c1), **deklarację użycia narzędzi sztucznej inteligencji** (§ 7 ust. 6) oraz link do nagrania w serwisie; Organizator nie przechowuje ani nie udostępnia samego nagrania. Prezentacja zgłoszenia w Słuchalni jest warunkiem udziału w plebiscycie.
 
-8. Po **publicznym ogłoszeniu werdyktu na gali** (§ 1a ust. 1) Słuchalnia edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, **tekst utworu**, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej", deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
+8. Po **publicznym ogłoszeniu werdyktu na gali** (§ 1a ust. 1) Słuchalnia edycji zostaje zamknięta i przechodzi do **Archiwum plebiscytu**, dostępnego publicznie i bezpłatnie, w tym samym zakresie: okładka, tytuł utworu, **tekst utworu**, podpis Uczestnika, link z § 5 ust. 3 lit. a1, uzasadnienie „dlaczego warte nagrody głównej”, deklaracja użycia narzędzi sztucznej inteligencji, rok edycji oraz link do nagrania. **Punktacja w Archiwum jest jawna.** Widoczne są oceny wystawione przez akademię, jury i publiczność, **dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki**, a Archiwum można przeglądać i porządkować według daty, tytułu, podpisu oraz ocen. **Jawność punktacji jest warunkiem udziału** i jest ogłaszana przed otwarciem naboru; Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia. Usunięcie nagrania przez Uczestnika z serwisu powoduje, że link przestaje działać; Organizator nie odtwarza wówczas treści z żadnego innego źródła.
 
 ## § 6. Zgłoszenia zespołowe
 
@@ -225,9 +225,9 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 3. Organizator informuje Uczestnika o brakach formalnych możliwych do uzupełnienia i wyznacza na ich uzupełnienie termin nie krótszy niż 7 dni. Braki nieuzupełnione w terminie powodują pozostawienie zgłoszenia bez rozpoznania.
 
-4. **Nagranie pozostaje dostępne do zamknięcia głosowania publiczności** (§ 11 ust. 6c). Jeżeli przestanie być dostępne wcześniej, Organizator zawiadamia Uczestnika i wyznacza termin **nie krótszy niż 14 dni** na przywrócenie dostępu albo na wskazanie identycznego nagrania pod innym linkiem; dopiero bezskuteczny upływ tego terminu powoduje wyłączenie zgłoszenia z oceny z powodu niedostępności materiału. **Głosy oddane wcześniej pozostają ważne i są liczone**, a jeżeli zgłoszenie zostaje wyłączone - nie biorą udziału w ustaleniu nagrody publiczności. **Terminu naprawczego nie skraca się poniżej 14 dni.** O udziale w Nagrodzie Publiczności rozstrzyga natomiast **stan z chwili zamknięcia głosowania, połączony z progiem czasu niedostępności**: głosy oddane na zgłoszenie **nie są liczone do tej nagrody tylko wtedy, gdy nagranie pozostawało niedostępne nieprzerwanie dłużej niż 7 dni w czasie głosowania i nie zostało przywrócone do chwili jego zamknięcia**. **Krótka awaria serwisu nie odbiera głosów.** Wynik ogłaszany jest na gali bez odraczania, a późniejsze przywrócenie dostępu w biegnącym terminie naprawczym **zachowuje zgłoszenie w plebiscycie i w ocenie jury**, lecz nie zmienia ogłoszonego już wyniku Nagrody Publiczności. **Pominięcie głosów nie jest samo w sobie wykluczeniem zgłoszenia** - o dalszym udziale rozstrzyga upływ terminu naprawczego.
+4. **Nagranie pozostaje dostępne do zamknięcia głosowania publiczności** (§ 11 ust. 6c). Jeżeli przestanie być dostępne wcześniej, Organizator zawiadamia Uczestnika i wyznacza termin **nie krótszy niż 14 dni** na przywrócenie dostępu albo na wskazanie identycznego nagrania pod innym linkiem; dopiero bezskuteczny upływ tego terminu powoduje wyłączenie zgłoszenia z oceny z powodu niedostępności materiału. **Głosy oddane wcześniej pozostają ważne i są liczone**, a jeżeli zgłoszenie zostaje wyłączone – nie biorą udziału w ustaleniu nagrody publiczności. **Terminu naprawczego nie skraca się poniżej 14 dni.** O udziale w Nagrodzie Publiczności rozstrzyga natomiast **stan z chwili zamknięcia głosowania, połączony z progiem czasu niedostępności**: głosy oddane na zgłoszenie **nie są liczone do tej nagrody tylko wtedy, gdy nagranie pozostawało niedostępne nieprzerwanie dłużej niż 7 dni w czasie głosowania i nie zostało przywrócone do chwili jego zamknięcia**. **Krótka awaria serwisu nie odbiera głosów.** Wynik ogłaszany jest na gali bez odraczania, a późniejsze przywrócenie dostępu w biegnącym terminie naprawczym **zachowuje zgłoszenie w plebiscycie i w ocenie jury**, lecz nie zmienia ogłoszonego już wyniku Nagrody Publiczności. **Pominięcie głosów nie jest samo w sobie wykluczeniem zgłoszenia** – o dalszym udziale rozstrzyga upływ terminu naprawczego.
 
-4a. **Jak dokumentujemy niedostępność.** Pominięcie głosów na podstawie ust. 4 wymaga **udokumentowania okresu niedostępności**: Organizator sprawdza dostępność linku **co najmniej raz dziennie przez cały czas głosowania** i zapisuje wynik każdego sprawdzenia wraz z datą i godziną. Przed pominięciem głosów zawiadamia Uczestnika, przedstawia mu zapis sprawdzeń i wyznacza termin nie krótszy niż 3 dni na wyjaśnienia. **Ciężar wykazania przesłanki spoczywa na Organizatorze, a wątpliwości nierozstrzygnięte rozstrzyga się na korzyść Uczestnika - głosy są wówczas liczone.** Zapis sprawdzeń dowodzi stanu w chwili każdego z nich; **przerwy między sprawdzeniami interpretuje się na korzyść Uczestnika**.
+4a. **Jak dokumentujemy niedostępność.** Pominięcie głosów na podstawie ust. 4 wymaga **udokumentowania okresu niedostępności**: Organizator sprawdza dostępność linku **co najmniej raz dziennie przez cały czas głosowania** i zapisuje wynik każdego sprawdzenia wraz z datą i godziną. Przed pominięciem głosów zawiadamia Uczestnika, przedstawia mu zapis sprawdzeń i wyznacza termin nie krótszy niż 3 dni na wyjaśnienia. **Ciężar wykazania przesłanki spoczywa na Organizatorze, a wątpliwości nierozstrzygnięte rozstrzyga się na korzyść Uczestnika – głosy są wówczas liczone.** Zapis sprawdzeń dowodzi stanu w chwili każdego z nich; **przerwy między sprawdzeniami interpretuje się na korzyść Uczestnika**.
 
 4b. **Wczesne zawiadomienie.** Organizator zawiadamia Uczestnika **niezwłocznie po trzecim z rzędu sprawdzeniu wykazującym niedostępność**, a nie dopiero przy zamknięciu głosowania, tak aby termin na wyjaśnienia i termin naprawczy biegną jeszcze przed galą.
 
@@ -251,36 +251,36 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 10 ust. 7 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez akademię (§ 10 ust. 5). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
 
-1c. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
+1c. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano” i nigdy nie liczy jak zero** – dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
-1b. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Tekst, następnie w kryterium Ujęcie tematu, następnie w kryterium Muzyka, a w razie dalszej równości - głos przewodniczącego jury.
+1b. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Tekst, następnie w kryterium Ujęcie tematu, następnie w kryterium Muzyka, a w razie dalszej równości – głos przewodniczącego jury.
 
 2. **Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu i stanowi jego część.** Obowiązuje akademię i jury w tej samej wersji. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
 3. W kryterium Wykonanie ocenia się wokal i interpretację w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium.**
 
-4. Oceniający nie bierze pod uwagę okładki zgłoszenia ani uzasadnienia „dlaczego warte nagrody głównej", liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
+4. Oceniający nie bierze pod uwagę okładki zgłoszenia ani uzasadnienia „dlaczego warte nagrody głównej”, liczby odtworzeń nagrania w serwisie, liczby obserwujących Uczestnika ani jego wcześniejszego dorobku.
 
 ### Karta oceny: co znaczy każda liczba punktów
 
 Karta jest częścią niniejszego paragrafu. Obowiązuje akademię piosenki i jury w tej samej wersji, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia. Jest jawna od dnia ogłoszenia naboru i nie zmienia się po jego otwarciu.
 
-Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać miejsce w utworze uzasadniające ocenę** - wers, fragment melodii albo moment nagrania.
+Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać miejsce w utworze uzasadniające ocenę** – wers, fragment melodii albo moment nagrania.
 
-#### Ujęcie tematu - 25 punktów
+#### Ujęcie tematu – 25 punktów
 
 Co utwór mówi o życiu ze sztuczną inteligencją. Oceniana jest oryginalność i konkretność spojrzenia, nie sam temat.
 
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-4** | Temat jest wspomniany, ale utwór nic o nim nie mówi: zostaje hasło albo rekwizyt. |
-| **5-9** | Ujęcie obiegowe - powtarza to, co w tej sprawie mówi się powszechnie, bez własnej obserwacji. |
+| **5-9** | Ujęcie obiegowe – powtarza to, co w tej sprawie mówi się powszechnie, bez własnej obserwacji. |
 | **10-14** | Własna obserwacja jest, ale niekonsekwentna albo zasłonięta ogólnikami; utwór nie doprowadza myśli do końca. |
 | **15-19** | Wyraźne, własne spojrzenie, utrzymane przez cały utwór. Słuchacz potrafi po odsłuchu powiedzieć, co utwór twierdzi. |
-| **20-23** | Spojrzenie, które przestawia patrzenie na rzecz znaną - ujęcie, którego słuchacz sam by nie znalazł, a po odsłuchu uznaje za oczywiste. |
+| **20-23** | Spojrzenie, które przestawia patrzenie na rzecz znaną – ujęcie, którego słuchacz sam by nie znalazł, a po odsłuchu uznaje za oczywiste. |
 | **24-25** | Ujęcie na tyle własne i tak poprowadzone, że utwór staje się punktem odniesienia w rozmowie o tym temacie. |
 
-#### Tekst - 30 punktów
+#### Tekst – 30 punktów
 
 Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
 
@@ -288,12 +288,12 @@ Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
 |---|---|
 | **0-5** | Tekst nie trzyma się kupy: rymy wymuszają treść, obrazy są przypadkowe, zdania nie układają się w całość. |
 | **6-11** | Tekst poprawny, lecz zbudowany z gotowych zwrotów; nic w nim nie zaskakuje. |
-| **12-17** | Są dobre pojedyncze miejsca - obraz, zwrot, pointa - ale reszta ich nie dorównuje albo konstrukcja się rozsypuje. |
+| **12-17** | Są dobre pojedyncze miejsca – obraz, zwrot, pointa – ale reszta ich nie dorównuje albo konstrukcja się rozsypuje. |
 | **18-23** | Tekst spójny, z własnym językiem i czytelną konstrukcją; refren i zwrotki robią różne rzeczy i obie są potrzebne. |
 | **24-27** | Tekst, który działa także bez muzyki, a z muzyką zyskuje: frazowanie wynika z melodii, akcenty padają tam, gdzie trzeba. |
 | **28-30** | Tekst, który zostaje w głowie zdaniami, a nie tylko refrenem, i którego nie dałoby się napisać o niczym innym. |
 
-#### Muzyka - 25 punktów
+#### Muzyka – 25 punktów
 
 Melodia, harmonia i forma: spójność, pomysłowość oraz to, czy utwór zostaje w pamięci.
 
@@ -303,20 +303,20 @@ Melodia, harmonia i forma: spójność, pomysłowość oraz to, czy utwór zosta
 | **5-9** | Materiał całkowicie wtórny: schemat bez własnego pomysłu, forma rozsypana albo przeciągnięta. |
 | **10-14** | Melodia poprawna, forma czytelna, ale utwór nie ma momentu, który by się zapamiętało. |
 | **15-19** | Melodia własna i nośna, forma przemyślana, przejścia uzasadnione; utwór zostaje po jednym odsłuchu. |
-| **20-23** | Muzyka niesie znaczenie sama z siebie - rozwiązanie harmoniczne albo melodyczne mówi coś, czego nie powiedziano słowami. |
+| **20-23** | Muzyka niesie znaczenie sama z siebie – rozwiązanie harmoniczne albo melodyczne mówi coś, czego nie powiedziano słowami. |
 | **24-25** | Muzyka i tekst są nierozdzielne: tej melodii nie dałoby się podłożyć pod inny tekst bez utraty sensu. |
 
-#### Wykonanie - 20 punktów
+#### Wykonanie – 20 punktów
 
 Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium.**
 
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-3** | Wykonanie uniemożliwia ocenę utworu: tekstu nie da się zrozumieć, intonacja rozsypuje melodię. |
-| **4-7** | Wykonanie obojętne - poprawne technicznie albo nie, ale nieniosące żadnej interpretacji. |
+| **4-7** | Wykonanie obojętne – poprawne technicznie albo nie, ale nieniosące żadnej interpretacji. |
 | **8-11** | Interpretacja pojawia się miejscami, lecz nie utrzymuje się przez cały utwór. |
 | **12-15** | Wykonanie konsekwentne i zgodne z tekstem: słychać, że ktoś wie, o czym śpiewa. |
-| **16-18** | Interpretacja dodaje utworowi znaczenia, którego nie ma w samym zapisie - frazowanie, oddech, cisza w dobrym miejscu. |
+| **16-18** | Interpretacja dodaje utworowi znaczenia, którego nie ma w samym zapisie – frazowanie, oddech, cisza w dobrym miejscu. |
 | **19-20** | Wykonanie, bez którego ten utwór byłby inną piosenką. |
 
 **Razem: 100 punktów.**
@@ -331,7 +331,7 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 4. Jury wybiera **dziesięciu finalistów** spośród listy przekazanej przez akademię plebiscytu (ust. 5) i **ustala kolejność całej dziesiątki**. Nagrody pieniężne wiążą się z trzema pierwszymi miejscami, a kolejność pozostałych finalistów jest ogłaszana razem z werdyktem i widoczna w Archiwum.
 
-5. **Pierwsze przejście oceny przeprowadza akademia plebiscytu, powoływana w każdej edycji** - grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
+5. **Pierwsze przejście oceny przeprowadza akademia plebiscytu, powoływana w każdej edycji** – grono muzyków z doświadczeniem wykonawczym, które przesłuchuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 9, bez stosowania jakichkolwiek innych kryteriów.
 
 6. Liczebność akademii, liczbę oceniających przypadających na jedno zgłoszenie, długość listy przekazywanej jury oraz sposób jej powstawania Organizator ogłasza przed otwarciem naboru. Zasady wyłaniania finalistów nie są ustalane ani zmieniane w trakcie trwania naboru. Członkowie akademii otrzymują wynagrodzenie na zasadach określonych i ogłoszonych przed przyjęciem przez nich zadań, razem ze składem akademii.
 
@@ -347,7 +347,7 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
    a) nagroda dla Uczestnika, którego zgłoszenie otrzymało największą liczbę głosów;
 
-   b) **Nagroda dla publicznych ocen zgłoszonych piosenek** - dla osoby głosującej, która najlepiej uzasadniła swój wybór.
+   b) **Nagroda dla publicznych ocen zgłoszonych piosenek** – dla osoby głosującej, która najlepiej uzasadniła swój wybór.
 
 2. Nagroda, o której mowa w ust. 1 lit. b, przyznawana jest w drodze oceny uzasadnień, na następujących zasadach:
 
@@ -381,9 +381,9 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 6e. **Ukrycie liczników i uzasadnień.** Liczniki głosów **oraz treść uzasadnień** pozostają niedostępne publicznie do chwili publicznego ogłoszenia werdyktu na gali. Uzasadnienia, na których publikację zgodzili się ich autorzy, publikowane są dopiero po gali, razem z wynikiem głosowania. Zapis ten istnieje dlatego, że liczba i treść widocznych uzasadnień wskazywałyby popularność zgłoszenia równie dobrze jak licznik.
 
-6f. **Ocena uzasadnień.** Każdy z trzech członków zespołu ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - w skali **od 0 do 10 punktów** za każde. Wynikiem uzasadnienia jest **suma ocen wszystkich członków zespołu**; przy równej sumie rozstrzyga uzasadnienie oddane wcześniej. Członek zespołu pozostający w konflikcie interesów wyłącza się od oceny danego uzasadnienia, a Organizator wskazuje na jego miejsce osobę zastępującą. **Wysokość nagrody i termin jej wypłaty Organizator ogłasza przed rozpoczęciem głosowania.**
+6f. **Ocena uzasadnień.** Każdy z trzech członków zespołu ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – w skali **od 0 do 10 punktów** za każde. Wynikiem uzasadnienia jest **suma ocen wszystkich członków zespołu**; przy równej sumie rozstrzyga uzasadnienie oddane wcześniej. Członek zespołu pozostający w konflikcie interesów wyłącza się od oceny danego uzasadnienia, a Organizator wskazuje na jego miejsce osobę zastępującą. **Wysokość nagrody i termin jej wypłaty Organizator ogłasza przed rozpoczęciem głosowania.**
 
-6g. **Uzasadnienie wadliwe.** Odmowa zgody na publikację uzasadnienia nie wpływa ani na ważność głosu, ani na ocenę uzasadnienia. Uzasadnienie **przepisane z cudzego tekstu albo z innego uzasadnienia** nie bierze udziału w ocenie, a głos pozostaje ważny. Uzasadnienie **pozorne** - niezwiązane ze zgłoszeniem, złożone ze znaków przypadkowych albo z powtórzeń - nie spełnia wymogu z przepisu o uzasadnieniu, więc głos nie zostaje oddany.
+6g. **Uzasadnienie wadliwe.** Odmowa zgody na publikację uzasadnienia nie wpływa ani na ważność głosu, ani na ocenę uzasadnienia. Uzasadnienie **przepisane z cudzego tekstu albo z innego uzasadnienia** nie bierze udziału w ocenie, a głos pozostaje ważny. Uzasadnienie **pozorne** – niezwiązane ze zgłoszeniem, złożone ze znaków przypadkowych albo z powtórzeń – nie spełnia wymogu z przepisu o uzasadnieniu, więc głos nie zostaje oddany.
 
 
 ## § 12. Nagrody
@@ -416,7 +416,7 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 1. Utwory dziesięciu finalistów zostają nagrane w studiu na koszt Organizatora. Koszt nagrań jest pozycją budżetu plebiscytu, zabezpieczaną razem z nagrodami.
 
-2. Zakres nagrania - liczbę sesji i poprawek, to, czy finalista otrzymuje sam gotowy master, czy również ślady, tryb zatwierdzania aranżacji, a także **termin przeprowadzenia sesji i termin przekazania finaliście gotowego materiału** - Organizator ogłasza przed otwarciem naboru i od tej chwili jest nim związany wobec finalisty.
+2. Zakres nagrania – liczbę sesji i poprawek, to, czy finalista otrzymuje sam gotowy master, czy również ślady, tryb zatwierdzania aranżacji, a także **termin przeprowadzenia sesji i termin przekazania finaliście gotowego materiału** – Organizator ogłasza przed otwarciem naboru i od tej chwili jest nim związany wobec finalisty.
 
 2a. Jeżeli producent wskazany przez Organizatora wycofa się albo nie dojdzie do porozumienia co do realizacji, Organizator zapewnia nagranie u innego producenta w terminie z ust. 2, przedłużonym nie więcej niż o 60 dni. Niedojście nagrania do skutku z przyczyn leżących po stronie Organizatora nie pozbawia finalisty pozostałych nagród.
 
@@ -433,7 +433,7 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 7. Organizator może zlecić produkcję nagrań jednemu producentowi dla wszystkich finalistów. Finalista, który ma własnego producenta albo zobowiązania wobec wydawnictwa, zgłasza to Organizatorowi; sposób postępowania uzgadniany jest indywidualnie.
 
 
-8. **Playlista finalistów i kod QR w antologii.** Organizator prowadzi **playlistę finalistów edycji**, do której kieruje kod QR umieszczony w antologii. Playlista zawiera **nagrania zgłoszone do plebiscytu**, a po przeprowadzeniu sesji studyjnych - **nagrania studyjne**, w każdym wypadku **wyłącznie te, na których umieszczenie finalista wyraził zgodę**. Zgoda jest odrębna od licencji z § 15 i można ją wycofać; wycofanie powoduje usunięcie nagrania z playlisty w terminie 14 dni i nie wpływa na nagrodę ani na miejsce w werdykcie. Kod QR prowadzi do playlisty, a nie do pojedynczego nagrania, więc jej zmiana nie wymaga zmiany antologii.
+8. **Playlista finalistów i kod QR w antologii.** Organizator prowadzi **playlistę finalistów edycji**, do której kieruje kod QR umieszczony w antologii. Playlista zawiera **nagrania zgłoszone do plebiscytu**, a po przeprowadzeniu sesji studyjnych – **nagrania studyjne**, w każdym wypadku **wyłącznie te, na których umieszczenie finalista wyraził zgodę**. Zgoda jest odrębna od licencji z § 15 i można ją wycofać; wycofanie powoduje usunięcie nagrania z playlisty w terminie 14 dni i nie wpływa na nagrodę ani na miejsce w werdykcie. Kod QR prowadzi do playlisty, a nie do pojedynczego nagrania, więc jej zmiana nie wymaga zmiany antologii.
 
 ## § 14. Gala
 
@@ -465,13 +465,13 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 3. Czas trwania licencji jest różny dla poszczególnych zakresów:
 
-   a) w zakresie ust. 2 lit. a - do dnia ogłoszenia werdyktu, z którym Słuchalnia edycji zostaje zamknięta;
+   a) w zakresie ust. 2 lit. a – do dnia ogłoszenia werdyktu, z którym Słuchalnia edycji zostaje zamknięta;
 
-   b) w zakresie ust. 2 lit. b - do zakończenia gali;
+   b) w zakresie ust. 2 lit. b – do zakończenia gali;
 
-   c) w zakresie ust. 2 lit. c - bezterminowo, przy czym dotyczy wyłącznie zapisu gali, a nie zgłoszonego nagrania;
+   c) w zakresie ust. 2 lit. c – bezterminowo, przy czym dotyczy wyłącznie zapisu gali, a nie zgłoszonego nagrania;
 
-   d) w zakresie ust. 2 lit. d - bezterminowo, przy czym Uczestnik może w każdej chwili żądać usunięcia wpisu z Archiwum, a Organizator usuwa go w terminie 14 dni od żądania.
+   d) w zakresie ust. 2 lit. d – bezterminowo, przy czym Uczestnik może w każdej chwili żądać usunięcia wpisu z Archiwum, a Organizator usuwa go w terminie 14 dni od żądania.
 
 4. **Warunkiem udziału w plebiscycie jest udzielenie licencji w zakresie ust. 2 lit. a i d**, bez których zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału (§ 5 ust. 7). Zakresy lit. b i c dotyczą wyłącznie laureatów wykonujących utwór na gali i nie są warunkiem udziału. Przy zgłoszeniu zespołowym licencji udziela reprezentant składu w imieniu wszystkich współautorów i wykonawców.
 
@@ -479,7 +479,7 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 6. **Organizator nie sporządza kopii zgłoszonego nagrania.** Nagranie pozostaje na kanale Uczestnika, a Organizator przechowuje wyłącznie link, okładkę, dane zgłoszenia oraz metrykę nagrania (§ 5 ust. 6a). Skutki niedostępności nagrania określa § 8 ust. 4.
 
-2z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje - wyłącznie w celach i okresach w nim wskazanych - **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
+2z. **Pola eksploatacji, terytorium i koniec korzystania.** Każda licencja udzielana na podstawie niniejszego paragrafu obejmuje – wyłącznie w celach i okresach w nim wskazanych – **utrwalanie i zwielokrotnianie techniką cyfrową, wprowadzanie do pamięci komputera i serwera oraz publiczne udostępnianie w taki sposób, aby każdy mógł mieć dostęp w miejscu i czasie przez siebie wybranym**, a przy materiałach drukowanych dodatkowo **zwielokrotnianie techniką drukarską i wprowadzanie egzemplarzy do obrotu**. Licencja obowiązuje **na terytorium całego świata** i jest **nieodpłatna oraz niewyłączna**. **Organizator nie udziela dalszych licencji** poza przypadkami wskazanymi wprost w regulaminie. **Z upływem okresu licencji Organizator zaprzestaje korzystania** z materiału w danym zakresie i usuwa go z miejsc, w których był udostępniany, albo uzyskuje od Uczestnika odrębne uprawnienie na dalszy okres.
 
 ## § 16. Tryb sporny i skutki nieprawdziwej deklaracji
 
@@ -499,7 +499,7 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 2. Organizator zwraca się do Uczestnika o ustosunkowanie się do zastrzeżenia w terminie 14 dni. Zgłoszenie pozostaje w plebiscycie do czasu zakończenia postępowania.
 
-3. Organizator może zwrócić się do finalisty o przedstawienie materiałów roboczych - w szczególności wcześniejszych wersji, zapisu pracy lub nagrań próbnych - w zakresie, jakim finalista dysponuje. Nieprzedstawienie materiałów, których finalista nie posiada, nie stanowi samodzielnej podstawy wyłączenia.
+3. Organizator może zwrócić się do finalisty o przedstawienie materiałów roboczych – w szczególności wcześniejszych wersji, zapisu pracy lub nagrań próbnych – w zakresie, jakim finalista dysponuje. Nieprzedstawienie materiałów, których finalista nie posiada, nie stanowi samodzielnej podstawy wyłączenia.
 
 4. Organizator nie rozstrzyga sporów o autorstwo między Uczestnikiem a osobami trzecimi i odsyła w tym zakresie do przepisów ogólnych. Niniejszy paragraf określa wyłącznie skutki po stronie Organizatora.
 
@@ -561,22 +561,22 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/dokument/prawnik) i wskazuje konkretne jednostki redakcyjne, nie obszary. Pytania merytoryczne zebrane są w [prawnik-plebiscyt](/dokument/prawnik-plebiscyt).
 
-1. **§ 3 ust. 1-3** - granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy. Czy rozbicie jest skuteczne i czy zgoda w zakresie licencji wymaga formy szczególnej.
-2. **§ 3 ust. 5 w związku z § 10 ust. 7** - dopuszczenie zgłoszeń osób najbliższych członkom jury przy jednoczesnym samowyłączeniu. Czy to wystarcza, czy potrzebne jest wyłączenie podmiotowe.
-3. **§ 5 ust. 1** - link jako forma zgłoszenia.
-4. **§ 6 ust. 2-4** - konstrukcja reprezentanta składu: czy oświadczenie wystarcza, czy potrzebne jest pełnomocnictwo, oraz skutki podatkowe wypłaty całości nagrody reprezentantowi.
-5. **§ 7 ust. 2** - sformułowanie zakazu przy melodii tak, by odróżniało przejęcie od inspiracji w sposób nadający się do zastosowania w sporze.
-6. **§ 7 ust. 4 i 6** - czy deklaracja sposobu powstania tekstu, bez podawania proporcji i bez progu własnej pracy, jest wystarczającą podstawą wyłączenia w razie wykazania jej nieprawdziwości. Tekst może pochodzić od narzędzia w całości, więc jedynym naruszeniem jest nieprawdziwa deklaracja; prosimy o ocenę, czy taka konstrukcja wystarcza przy przyrzeczeniu publicznym.
-7. **§ 8 ust. 2 lit. d-f** - trzy wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: język polski, czas trwania, brak wcześniejszego wydania komercyjnego. Czy którykolwiek rodzi ryzyko zarzutu nierównego traktowania.
-8. **§ 8 ust. 4** - wyłączenie z powodu niedostępności materiału jako podstawa odrębna od rozstrzygnięcia o naruszeniu praw.
-9. **§ 12 ust. 3** - sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
-10. **§ 12 ust. 6** - podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu Nagrody.
-11. **§ 13 ust. 3** - przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
-12. **§ 14 ust. 2-5** - oczekiwanie obecności laureatów czołowej trójki na gali przy jednoczesnym zastrzeżeniu, że nieobecność ani odmowa wykonania utworu na żywo nie pozbawiają nagrody pieniężnej, oraz zakres pokrycia kosztów dojazdu i noclegu całej dziesiątki.
-13. **§ 15 ust. 2-3** - brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
-14. **§ 15 ust. 5 zdanie drugie** - wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
-15. **§ 5 ust. 6 i 6a** - wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
-15a. **§ 11 ust. 2** - Nagroda dla publicznych ocen zgłoszonych piosenek jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
-16. **§ 16 ust. 5** - żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
-17. **§ 17 ust. 1** - progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
-18. **§ 19 ust. 2-3** - przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
+1. **§ 3 ust. 1-3** – granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy. Czy rozbicie jest skuteczne i czy zgoda w zakresie licencji wymaga formy szczególnej.
+2. **§ 3 ust. 5 w związku z § 10 ust. 7** – dopuszczenie zgłoszeń osób najbliższych członkom jury przy jednoczesnym samowyłączeniu. Czy to wystarcza, czy potrzebne jest wyłączenie podmiotowe.
+3. **§ 5 ust. 1** – link jako forma zgłoszenia.
+4. **§ 6 ust. 2-4** – konstrukcja reprezentanta składu: czy oświadczenie wystarcza, czy potrzebne jest pełnomocnictwo, oraz skutki podatkowe wypłaty całości nagrody reprezentantowi.
+5. **§ 7 ust. 2** – sformułowanie zakazu przy melodii tak, by odróżniało przejęcie od inspiracji w sposób nadający się do zastosowania w sporze.
+6. **§ 7 ust. 4 i 6** – czy deklaracja sposobu powstania tekstu, bez podawania proporcji i bez progu własnej pracy, jest wystarczającą podstawą wyłączenia w razie wykazania jej nieprawdziwości. Tekst może pochodzić od narzędzia w całości, więc jedynym naruszeniem jest nieprawdziwa deklaracja; prosimy o ocenę, czy taka konstrukcja wystarcza przy przyrzeczeniu publicznym.
+7. **§ 8 ust. 2 lit. d-f** – trzy wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: język polski, czas trwania, brak wcześniejszego wydania komercyjnego. Czy którykolwiek rodzi ryzyko zarzutu nierównego traktowania.
+8. **§ 8 ust. 4** – wyłączenie z powodu niedostępności materiału jako podstawa odrębna od rozstrzygnięcia o naruszeniu praw.
+9. **§ 12 ust. 3** – sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
+10. **§ 12 ust. 6** – podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu Nagrody.
+11. **§ 13 ust. 3** – przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
+12. **§ 14 ust. 2-5** – oczekiwanie obecności laureatów czołowej trójki na gali przy jednoczesnym zastrzeżeniu, że nieobecność ani odmowa wykonania utworu na żywo nie pozbawiają nagrody pieniężnej, oraz zakres pokrycia kosztów dojazdu i noclegu całej dziesiątki.
+13. **§ 15 ust. 2-3** – brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
+14. **§ 15 ust. 5 zdanie drugie** – wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
+15. **§ 5 ust. 6 i 6a** – wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
+15a. **§ 11 ust. 2** – Nagroda dla publicznych ocen zgłoszonych piosenek jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
+16. **§ 16 ust. 5** – żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
+17. **§ 17 ust. 1** – progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
+18. **§ 19 ust. 2-3** – przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
