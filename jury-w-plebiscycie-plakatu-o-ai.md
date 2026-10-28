@@ -48,7 +48,14 @@ Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [akadem
 
 ### Jak jury ocenia zgłoszone prace
 
-Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów: ujęcie tematu (30), pomysł plastyczny (30), wykonanie (20) i działanie plakatu w różnych skalach (20). Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
+Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów:
+
+- ujęcie tematu – maksymalnie 30 punktów
+- pomysł plastyczny – maksymalnie 30 punktów
+- wykonanie – maksymalnie 20 punktów
+- działanie plakatu w różnych skalach – maksymalnie 20 punktów
+
+Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
 ### Ile to czasu
 

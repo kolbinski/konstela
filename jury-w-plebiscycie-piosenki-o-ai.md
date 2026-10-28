@@ -48,7 +48,14 @@ Nie wszystkie zgłoszenia piosenek w plebiscycie. **Wstępną ocenę zgłoszonyc
 
 ### Jak jury ocenia zgłoszone piosenki
 
-Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów: ujęcie tematu, tekst, muzyka i wykonanie. Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
+Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów:
+
+- ujęcie tematu – maksymalnie 25 punktów
+- tekst – maksymalnie 30 punktów
+- muzyka – maksymalnie 25 punktów
+- wykonanie – maksymalnie 20 punktów
+
+Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
 ### Ile to czasu
 
