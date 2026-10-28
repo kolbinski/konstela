@@ -730,6 +730,17 @@
         margin-top: 0.45rem;
         line-height: 1.5;
       }
+      /* Opis pod pozycją listy - ten sam rejestr co dopowiedzenia
+         w harmonogramie: mniejszy, wyciszony, w nowej linii. */
+      #content li small {
+        font-family: var(--body);
+        font-size: 0.92rem;
+        font-weight: 400;
+        color: var(--muted);
+        display: block;
+        margin-top: 0.35rem;
+        line-height: 1.5;
+      }
       @media (min-width: 48rem) {
         #content dl.harmonogram > div {
           display: grid;
