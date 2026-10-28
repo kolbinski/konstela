@@ -88,6 +88,8 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:koperta--><span>Jeżeli to brzmi sensownie</span>
 
-Napisz na adres **jury@konstela.org**. Odpowiadamy zakresem zadania, terminami i proponowaną stawką – bez zobowiązania po żadnej ze stron.
+Napisz na adres **jury@konstela.org** lub zadzwoń: **+48 503 520 004**.
+
+Odpowiadamy na wszystkie pytania, niejasności i wątpliwości – bez zobowiązania po żadnej ze stron.
 
 **Znasz kogoś, kto powinien o tym wiedzieć?** Ta strona jest po to, żeby dało się ją przesłać dalej jednym linkiem.
