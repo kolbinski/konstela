@@ -113,6 +113,7 @@ const PUBLICZNE = new Set([
   'hymn',
   'fundacja',
   'dla-partnerow',
+  'jury-piosenki',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
@@ -125,6 +126,7 @@ const DEDYKOWANE = {
   hymn: 'hymn',
   fundacja: 'fundacja',
   'dla-partnerow': 'dla-partnerow',
+  'jury-piosenki': 'jury-piosenki',
   statut: 'statut',
 };
 
@@ -150,6 +152,8 @@ const OPISY = {
     'Jakie dane zbiera Nagroda Konstela w każdym z czterech plebiscytów i w głosowaniu publiczności, w jakim celu, jak długo je przechowuje i jakie prawa przysługują uczestnikom.',
   'plebiscyt-piosenki':
     'Otwarty konkurs na własną piosenkę o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie. Jury wybiera dziesięciu finalistów, a trzy najwyżej ocenione utwory dostają nagrody pieniężne.',
+  'jury-piosenki':
+    'Czego Nagroda Konstela oczekuje od jury plebiscytu na piosenkę o sztucznej inteligencji i co daje w zamian: zakres pracy, karta oceny, honorarium, niezależność werdyktu i terminy pierwszej edycji.',
   'dla-partnerow':
     'Zakresy współpracy przy pierwszej edycji Nagrody Konstela: sponsorzy nagród w czterech plebiscytach, mecenasi antologii i sesji studyjnych, partnerzy wydawniczy, galeria, dystrybucja filmów, gala, podcast i patronat medialny.',
   'plebiscyt-plakatu':
