@@ -33,10 +33,11 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Metryczka rozmowy: nazwa modelu i dostawcy, data pierwszej i ostatniej wypowiedzi | obowiązkowe |
 | Deklaracja załączników: czy w rozmowie wgrywano pliki, jakiego rodzaju i czy ich treść widać pod linkiem | obowiązkowe |
 | Miejscowość | obowiązkowe, niepublikowana |
+| Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat, rozbita na zakresy | warunkowe |
 
 Ilustracja może zostać wygenerowana narzędziem sztucznej inteligencji i nie podlega punktacji; reprezentuje rozmowę w czytelni, w Archiwum, a przy rozmowie nagrodzonej także w antologii.
 
-Odrębności: wiek od 18 lat, więc nie ma zgody opiekuna. Nie ma zgłoszeń zespołowych. Przed wysłaniem formularza działa nieobowiązkowe narzędzie sprawdzające policzalne wymogi formalne. Po wpłynięciu zgłoszenia Organizator sporządza kopię archiwalną i udostępnia ją Uczestnikowi, który ma 7 dni na zgłoszenie błędu odwzorowania.
+Odrębności: wiek od 16 lat, a przy osobie poniżej 18 lat zgoda opiekuna rozbita na cztery zakresy. Nie ma zgłoszeń zespołowych. Przed wysłaniem formularza działa nieobowiązkowe narzędzie sprawdzające policzalne wymogi formalne. Po wpłynięciu zgłoszenia Organizator sporządza kopię archiwalną i udostępnia ją Uczestnikowi, który ma 7 dni na zgłoszenie błędu odwzorowania.
 
 ### Film o sztucznej inteligencji (§ 4 regulaminu filmu)
 

@@ -35,7 +35,21 @@
 
 ## § 3. Uczestnicy
 
-1. Uczestnikiem może być osoba fizyczna, która ukończyła 18 lat i spełnia co najmniej jeden z warunków: posiada miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej albo posiada obywatelstwo polskie.
+1. Uczestnikiem może być osoba fizyczna, która **w dniu złożenia zgłoszenia ukończyła 16 lat** i spełnia co najmniej jeden z warunków: posiada miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej albo posiada obywatelstwo polskie.
+
+1a. **Uczestnik, który nie ukończył 18 lat, dołącza do zgłoszenia pisemną zgodę przedstawiciela ustawowego.** Zgoda obejmuje cztery odrębne zakresy, wymienione osobno:
+
+   a) udzielenie Organizatorowi licencji w zakresie publikacji rozmowy w czytelni zgłoszeń i w Archiwum (§ 11 ust. 3) - **brak zgody w tym zakresie uniemożliwia przyjęcie zgłoszenia**, ponieważ publikacja jest warunkiem udziału;
+
+   b) udzielenie licencji w zakresie publikacji rozmowy w antologii (§ 11 ust. 3);
+
+   c) przyjęcie nagrody pieniężnej, jeżeli zostanie przyznana;
+
+   d) udział w rozmowie weryfikacyjnej (§ 8 ust. 15) oraz w gali, w tym w czytaniu scenicznym rozmowy zwycięskiej (§ 11 ust. 12).
+
+1b. Brak zgody w zakresach z ust. 1a lit. b-d **nie wyklucza zgłoszenia z oceny**, lecz wyłącza Uczestnika z czynności objętej brakującą zgodą. Zgoda jest składana w postaci skanu albo zdjęcia dokumentu podpisanego przez przedstawiciela ustawowego; Organizator przechowuje ją do zakończenia edycji i usuwa w terminie 60 dni od publicznego ogłoszenia werdyktu.
+
+1c. **Dane szczególnych kategorii a wiek.** Zgoda na publikację danych szczególnych kategorii (§ 6a ust. 2) Uczestnika, który nie ukończył 18 lat, wymaga dodatkowo zgody przedstawiciela ustawowego.
 2. Udział jest dobrowolny i bezpłatny.
 3. Przed wypłatą nagrody laureat potwierdza tożsamość przez okazanie dokumentu tożsamości, w sposób wskazany przez Organizatora. Odmowa potwierdzenia tożsamości jest równoznaczna z rezygnacją z nagrody.
 4. Rozliczenie podatkowe nagrody następuje zgodnie z przepisami właściwymi dla rezydencji podatkowej laureata.
@@ -385,7 +399,7 @@ Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksim
 
    d) ocena grup uczniowskich **nie wpływa na punktację jury ani akademii** i odwrotnie;
 
-   e) konflikt interesów nie powstaje, ponieważ Uczestnikiem może być wyłącznie osoba pełnoletnia (§ 3 ust. 1), a członkowie grup uczniowskich nie biorą udziału w plebiscycie;
+   e) **osoba, która zgłosiła własną rozmowę do Nagrody, nie bierze udziału w ustalaniu wskazania swojej szkoły.** Szkoła zapewnia wyłączenie od wskazania każdej osoby pozostającej w konflikcie interesów - w szczególności uczestnika plebiscytu, osoby mu bliskiej oraz nauczyciela prowadzącego grupę, jeżeli sam zgłosił rozmowę - i potwierdza zastosowanie tej zasady przy przekazaniu wskazania;
 
    f) członka grupy uczniowskiej obowiązuje poufność w tym samym zakresie co członka akademii, a szkoła odpowiada za jej zapewnienie;
 
@@ -560,6 +574,20 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
    g) nagroda ta **nie jest przyznawana w drodze losowania** wśród głosujących ani w żadnym innym trybie losowym.
 
+8a. **Kto nie głosuje.** W głosowaniu nie biorą udziału: Uczestnik, który zgłosił rozmowę w tym plebiscycie, oraz wskazani w jego zgłoszeniu współautorzy i wykonawcy. Zakaz dotyczy wyłącznie tego plebiscytu; udział w głosowaniu w pozostałych plebiscytach Nagrody pozostaje otwarty.
+
+8b. **Wiek osoby głosującej.** Głosować może osoba, która ukończyła 16 lat. Nagrodę za uzasadnienie przyznaną osobie, która nie ukończyła 18 lat, Organizator wypłaca za zgodą jej przedstawiciela ustawowego.
+
+8c. **Otwarcie i zamknięcie głosowania.** Głosowanie otwiera się **po opublikowaniu ostatecznej listy zgłoszeń zakwalifikowanych**, to jest po zakończeniu weryfikacji formalnej i uzupełniania braków wszystkich zgłoszeń złożonych w terminie; wszystkie zakwalifikowane zgłoszenia biorą udział w głosowaniu od tej samej chwili. Dzień otwarcia Organizator ogłasza osobno na stronie Nagrody. Głosowanie zamyka się **w dniu gali o godzinie 12:00 czasu obowiązującego w Rzeczypospolitej Polskiej**.
+
+8d. **Remis, głosy nieważne i brak głosów.** Przy równej liczbie głosów nagrodę otrzymuje zgłoszenie, które osiągnęło ten wynik wcześniej. Głosy odrzucone jako nieważne wykazuje się w protokole z głosowania wraz ze wskazaniem podstawy odrzucenia. **Jeżeli nie oddano żadnego ważnego głosu, nagrody publiczności nie przyznaje się.**
+
+8e. **Ukrycie liczników i uzasadnień.** Liczniki głosów **oraz treść uzasadnień** pozostają niedostępne publicznie do chwili publicznego ogłoszenia werdyktu na gali. Uzasadnienia, na których publikację zgodzili się ich autorzy, publikowane są dopiero po gali, razem z wynikiem głosowania. Zapis ten istnieje dlatego, że liczba i treść widocznych uzasadnień wskazywałyby popularność zgłoszenia równie dobrze jak licznik.
+
+8f. **Ocena uzasadnień.** Każdy z trzech członków zespołu ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - w skali **od 0 do 10 punktów** za każde. Wynikiem uzasadnienia jest **suma ocen wszystkich członków zespołu**; przy równej sumie rozstrzyga uzasadnienie oddane wcześniej. Członek zespołu pozostający w konflikcie interesów wyłącza się od oceny danego uzasadnienia, a Organizator wskazuje na jego miejsce osobę zastępującą. **Wysokość nagrody i termin jej wypłaty Organizator ogłasza przed rozpoczęciem głosowania.**
+
+8g. **Uzasadnienie wadliwe.** Odmowa zgody na publikację uzasadnienia nie wpływa ani na ważność głosu, ani na ocenę uzasadnienia. Uzasadnienie **przepisane z cudzego tekstu albo z innego uzasadnienia** nie bierze udziału w ocenie, a głos pozostaje ważny. Uzasadnienie **pozorne** - niezwiązane ze zgłoszeniem, złożone ze znaków przypadkowych albo z powtórzeń - nie spełnia wymogu z przepisu o uzasadnieniu, więc głos nie zostaje oddany.
+
 9. **Nagroda Uczniowska.** Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana Nagroda Uczniowska, wskazywana przez grupy uczniowskie (§ 8 ust. 2a). Zasady:
 
    a) nagroda jest **niezależna od werdyktu jury i od Nagrody Publiczności** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki;
@@ -596,7 +624,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
    e) przysługują mu prawa do materiałów, które wgrał do rozmowy, albo dysponuje zgodą na ich wykorzystanie, a materiały te nie zawierają danych osobowych osób trzecich ani informacji objętych tajemnicą, do których ujawnienia Uczestnik nie jest uprawniony.
 
-   f) ukończył 18 lat.
+   f) ukończył 16 lat, a jeżeli nie ukończył 18 lat - dysponuje zgodą przedstawiciela ustawowego w zakresach wskazanych w § 3 ust. 1a.
 
 2. Uczestnik zachowuje autorskie prawa osobiste i majątkowe do swoich wypowiedzi. Nagroda nie nabywa ich ani w całości, ani w części.
 3. **Publikacja jest warunkiem udziału, a nie przedmiotem odrębnej zgody.** Zgłaszając rozmowę, Uczestnik udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** od dnia ogłoszenia wyników, obejmującej publikację rozmowy w antologii i w Archiwum rozmów, jej udostępnianie w internecie, wydanie w postaci elektronicznej i drukowanej, w tym płatnej, oraz cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, a także udzielenie dalszej licencji wydawcy w tym zakresie. Licencja na czas oznaczony nie podlega wypowiedzeniu. Po upływie tego okresu przekształca się w licencję na czas nieoznaczony w tym samym zakresie.

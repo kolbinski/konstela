@@ -121,7 +121,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 8. Przy pracy wykonanej wspólnie nagranie obejmuje pracę współautorów w zakresie pozwalającym stwierdzić, że pracę wykonał zgłoszony skład, a wymóg z ust. 3 lit. c albo c1 spełnia się dla każdego ze współautorów, którego praca jest nagrywana.
 
-9. Nagranie przechowywane jest **do upływu 30 dni od dnia gali**, a następnie usuwane. Jeżeli przed upływem tego terminu wszczęto postępowanie z § 15, nagranie zgłoszenia, którego postępowanie dotyczy, przechowywane jest do jego zakończenia i usuwane w terminie 30 dni od tej chwili. Po upływie terminu Organizator usuwa posiadane kopie oraz link, a oceniający usuwają kopie robocze zgodnie z zawartymi z nimi umowami; nagranie pozostające na koncie Uczestnika w serwisie wideo pozostaje pod jego kontrolą. Zasady przetwarzania nagrania opisuje polityka prywatności.
+9. **Organizator nie pobiera nagrania i nie sporządza jego kopii.** Oceniający i jury korzystają wyłącznie z linku podanego w zgłoszeniu; pobieranie nagrania jest im zakazane umową. Organizator przechowuje **sam link i dane dostępu** do upływu **30 dni od dnia gali**, a następnie je usuwa. Jeżeli przed upływem tego terminu wszczęto postępowanie z § 15, link do nagrania zgłoszenia, którego postępowanie dotyczy, przechowywany jest do jego zakończenia i usuwany w terminie 30 dni od tej chwili. Po upływie terminu oceniający usuwają wszelkie notatki zawierające ten link zgodnie z zawartymi z nimi umowami; nagranie pozostające na koncie Uczestnika w serwisie wideo pozostaje pod jego kontrolą. Zasady przetwarzania nagrania opisuje polityka prywatności.
 
 ## § 5. Wymogi formalne
 
@@ -289,11 +289,24 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. Głosowanie odbywa się na stronie Nagrody. Jeden głos przypada na jeden numer telefonu, potwierdzony kodem przesyłanym w wiadomości SMS.
 
-3. Uczestnik nie bierze udziału w głosowaniu w plebiscycie, w którym zgłosił pracę.
-
-4. **Głosowanie otwiera się pierwszego dnia po zamknięciu naboru i trwa do dnia gali.** Otwarcie po zamknięciu naboru, a nie w jego trakcie, zapewnia każdemu zgłoszeniu jednakowy czas na zebranie głosów: zgłoszenie złożone w pierwszym tygodniu naboru nie ma z tego powodu przewagi nad złożonym w ostatnim. Dzień otwarcia Organizator ogłasza razem z terminami naboru.
+3. Zasady otwarcia i zamknięcia głosowania określa ust. 5c.
 
 5. Wynik głosowania ogłaszany jest osobno od werdyktu jury i wyraźnie jako nagroda publiczności.
+
+5a. **Kto nie głosuje.** W głosowaniu nie biorą udziału: Uczestnik, który zgłosił pracę w tym plebiscycie, oraz wskazani w jego zgłoszeniu współautorzy i wykonawcy. Zakaz dotyczy wyłącznie tego plebiscytu; udział w głosowaniu w pozostałych plebiscytach Nagrody pozostaje otwarty.
+
+5b. **Wiek osoby głosującej.** Głosować może osoba, która ukończyła 16 lat. Nagrodę za uzasadnienie przyznaną osobie, która nie ukończyła 18 lat, Organizator wypłaca za zgodą jej przedstawiciela ustawowego.
+
+5c. **Otwarcie i zamknięcie głosowania.** Głosowanie otwiera się **po opublikowaniu ostatecznej listy zgłoszeń zakwalifikowanych**, to jest po zakończeniu weryfikacji formalnej i uzupełniania braków wszystkich zgłoszeń złożonych w terminie; wszystkie zakwalifikowane zgłoszenia biorą udział w głosowaniu od tej samej chwili. Dzień otwarcia Organizator ogłasza osobno na stronie Nagrody. Głosowanie zamyka się **w dniu gali o godzinie 12:00 czasu obowiązującego w Rzeczypospolitej Polskiej**.
+
+5d. **Remis, głosy nieważne i brak głosów.** Przy równej liczbie głosów nagrodę otrzymuje zgłoszenie, które osiągnęło ten wynik wcześniej. Głosy odrzucone jako nieważne wykazuje się w protokole z głosowania wraz ze wskazaniem podstawy odrzucenia. **Jeżeli nie oddano żadnego ważnego głosu, nagrody publiczności nie przyznaje się.**
+
+5e. **Ukrycie liczników i uzasadnień.** Liczniki głosów **oraz treść uzasadnień** pozostają niedostępne publicznie do chwili publicznego ogłoszenia werdyktu na gali. Uzasadnienia, na których publikację zgodzili się ich autorzy, publikowane są dopiero po gali, razem z wynikiem głosowania. Zapis ten istnieje dlatego, że liczba i treść widocznych uzasadnień wskazywałyby popularność zgłoszenia równie dobrze jak licznik.
+
+5f. **Ocena uzasadnień.** Każdy z trzech członków zespołu ocenia uzasadnienie w trzech kryteriach - trafność obserwacji, konkretność i samodzielność sądu - w skali **od 0 do 10 punktów** za każde. Wynikiem uzasadnienia jest **suma ocen wszystkich członków zespołu**; przy równej sumie rozstrzyga uzasadnienie oddane wcześniej. Członek zespołu pozostający w konflikcie interesów wyłącza się od oceny danego uzasadnienia, a Organizator wskazuje na jego miejsce osobę zastępującą. **Wysokość nagrody i termin jej wypłaty Organizator ogłasza przed rozpoczęciem głosowania.**
+
+5g. **Uzasadnienie wadliwe.** Odmowa zgody na publikację uzasadnienia nie wpływa ani na ważność głosu, ani na ocenę uzasadnienia. Uzasadnienie **przepisane z cudzego tekstu albo z innego uzasadnienia** nie bierze udziału w ocenie, a głos pozostaje ważny. Uzasadnienie **pozorne** - niezwiązane ze zgłoszeniem, złożone ze znaków przypadkowych albo z powtórzeń - nie spełnia wymogu z przepisu o uzasadnieniu, więc głos nie zostaje oddany.
+
 
 6. **Uzasadnienie wyboru i nagroda za nie.** Do głosowania stosuje się ponadto następujące zasady:
 

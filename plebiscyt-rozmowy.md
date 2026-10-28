@@ -62,7 +62,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ### Kto może zgłosić
 
-Zgłoszenia w plebiscycie mogą dokonać osoby pełnoletnie mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy - tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna prawnego na pokazanie rozmowy w czytelni zgłoszeń i w Archiwum - bez tego zgłoszenia nie przyjmujemy - a osobno na publikację w antologii, na przyjęcie nagrody pieniężnej oraz na udział w rozmowie weryfikacyjnej i w gali; brak którejś z tych trzech zgód wyklucza tylko z tej jednej rzeczy. Zgłaszać mogą osoby mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy - tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
 
 ### Wymogi formalne
 
