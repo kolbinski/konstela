@@ -33,49 +33,35 @@ I o to w tym chodzi. Nie o to, żeby wykazać, że AI jest gorsza, bo w paru rze
 
 > ## Zapytaj inaczej
 >
-> **[Zwrotka 1]**
->
 > Mam w kieszeni wszystkie fakty świata,
 > każdy z nas je ma od wielu lat.
 > Leżą luzem, nie układa ich nikt,
 > milion kropek i ani jednej nici.
->
-> **[Zwrotka 2]**
 >
 > Pytam źle, więc wraca gładka odpowiedź,
 > pytam lepiej i zaczyna się ruch.
 > Nie szukałem gotowej prawdy,
 > tylko miejsca, gdzie pęka mój słuch.
 >
-> **[Refren]**
->
 > Gwiazdy nie wiedzą, że są konstelacją,
 > dopóki ktoś nie poprowadzi linii.
 > Nie liczy się ten, kto odpowiada,
 > tylko ten, kto zapyta inaczej.
->
-> **[Zwrotka 3]**
 >
 > Była druga w nocy, nie było olśnienia,
 > było sto podejść i jedno „a gdyby”.
 > Jeden kadr, jedna kreska, jeden takt ciszy
 > złożyły się w kształt, którego nie było.
 >
-> **[Most]**
->
 > Maszyna mówi pięknie i pewnie,
 > pięknie i pewnie potrafi się mylić.
 > Więc sprawdzam, drążę, nie wierzę od razu,
 > bo to ja mam z tym zostać, nie ona.
 >
-> **[Refren]**
->
 > Gwiazdy nie wiedzą, że są konstelacją,
 > dopóki ktoś nie poprowadzi linii.
 > Nie liczy się ten, kto odpowiada,
 > tylko ten, kto zapyta inaczej.
->
-> **[Zakończenie]**
 >
 > Zostaw po sobie ślad, nadaj mu własny kształt.
 > Ktoś za dziesięć lat zobaczy, jak myślał ten świat.
