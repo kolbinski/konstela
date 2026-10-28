@@ -2,6 +2,12 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
+## <!--ikona:zespol--><span>Kogo szukamy</span>
+
+**Muzyków, wokalistów, autorów tekstów i producentów** – osób, które na co dzień pracują przy piosence i potrafią ocenić cudzą. Dorobek sceniczny, dyskografia ani rozpoznawalność nie są warunkiem; liczy się doświadczenie w robieniu piosenek i gotowość do uzasadnienia własnej oceny.
+
+Skład kompletujemy teraz, przed otwarciem naboru, bo **wagi kryteriów i karta oceny powstają z udziałem jury**, a nie po jego powołaniu.
+
 ## <!--ikona:nuta--><span>O co chodzi</span>
 
 [Nagroda Konstela](/) to **nowa, coroczna nagroda przyznawana w czterech kategoriach**:
@@ -29,9 +35,9 @@ Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla a
 
 Realnie: **kilkanaście godzin pracy skupionej na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-### Czego nie robisz
+### Czego jury nie robi
 
-Nie oceniasz jakości produkcji – zgłoszeniem jest demo i wszyscy są w tej samej sytuacji. Nie szukasz w nagraniu śladów sztucznej inteligencji: tekst wolno napisać przy jej udziale, pod warunkiem zadeklarowania tego w zgłoszeniu, a melodia, harmonia i wokal muszą być ludzkie, co weryfikujemy oświadczeniem, nie odsłuchem. Nie zajmujesz się też obsługą plebiscytu, przydziałami ani korespondencją z uczestnikami – to praca organizatora.
+Nie ocenia jakości produkcji – zgłoszeniem jest demo i wszyscy są w tej samej sytuacji. Nie szuka w nagraniu śladów sztucznej inteligencji: tekst wolno napisać przy jej udziale, pod warunkiem zadeklarowania tego w zgłoszeniu, a melodia, harmonia i wokal muszą być ludzkie, co weryfikujemy oświadczeniem, nie odsłuchem. Jury nie zajmuje się też obsługą plebiscytu, przydziałami ani korespondencją z uczestnikami – to praca organizatora.
 
 ## <!--ikona:tarcza--><span>Co dajemy</span>
 
@@ -70,4 +76,4 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 Napisz na adres **jury@konstela.org**. Odpowiadamy zakresem zadania, terminami i proponowaną stawką – bez zobowiązania po żadnej ze stron.
 
-**Znasz kogoś, kto powinien o tym wiedzieć?** Ta strona jest po to, żeby dało się ją przesłać dalej jednym linkiem. Szukamy muzyków, wokalistów, autorów tekstów i producentów, którzy chcą, żeby takie piosenki w ogóle powstały.
+**Znasz kogoś, kto powinien o tym wiedzieć?** Ta strona jest po to, żeby dało się ją przesłać dalej jednym linkiem.
