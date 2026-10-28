@@ -38,7 +38,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 
 ## <!--ikona:konstelacja--><span>Dlaczego akurat plakat</span>
 
-Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się zamówić obraz zamiast go zlecić. Spór o to, co z tego wynika, toczy się w tym środowisku od dawna i nie nam go rozstrzygać – **stawiamy tylko po jednej stronie konkretną propozycję**: praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle – dlatego, że chcemy zobaczyć, **co masz do powiedzenia o tej maszynie**, kiedy mówisz to własną ręką. Temat i stanowisko wybierasz sam.
+Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się wygenerować w AI obraz zamiast go zlecić. Spór o to, co z tego wynika, toczy się w tym środowisku od dawna i nie nam go rozstrzygać – **stawiamy tylko po jednej stronie konkretną propozycję**: praca ma powstać pod ludzką ręką. Nie dlatego, że generator rysuje źle – dlatego, że chcemy zobaczyć, **co masz do powiedzenia o tej maszynie**, kiedy mówisz to własną ręką. Temat i stanowisko wybierasz sam.
 
 **Nie pytamy o dorobek, dyplomy ani galerie** – zgłasza się zdjęcie pracy, nie życiorys.
 
