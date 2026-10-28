@@ -47,7 +47,7 @@ Nie ocenia jakości produkcji – zgłoszeniem jest demo i wszyscy są w tej sam
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Punktacja jest jawna i trafia do publicznego [Archiwum](/plebiscyt-piosenki#archiwum) razem ze zgłoszeniami – dla wszystkich zgłoszeń, nie tylko dla finałowej dziesiątki. To obowiązuje w obie strony: ocena jest widoczna, więc musi dać się obronić.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Ocena trafia do publicznego [Archiwum](/plebiscyt-piosenki#archiwum) razem ze zgłoszeniami – dla wszystkich zgłoszeń, nie tylko dla finałowej dziesiątki. To obowiązuje w obie strony: ocena jest widoczna, więc musi dać się obronić. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik, nie rozkład głosów.
 
 ### Wpływ na kształt edycji
 
