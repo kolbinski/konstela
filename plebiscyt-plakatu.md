@@ -196,7 +196,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 </article>
 </div>
 
-**Okładka jest zapowiedzianą częścią tego plebiscytu, więc zgoda na nią jest warunkiem udziału.** Zgłaszając pracę, wiesz, że jeśli wygrasz, znajdzie się ona na okładce antologii, z Twoim nazwiskiem albo pseudonimem na stronie redakcyjnej. Antologia jest bezpłatnym e-bookiem i wydaniem książkowym.
+**Okładka jest zapowiedzianą częścią tego plebiscytu, więc zgoda na nią jest warunkiem udziału.** Zgłaszając pracę, wiesz, że jeśli wygrasz, znajdzie się ona na okładce antologii, z Twoim nazwiskiem albo pseudonimem na stronie redakcyjnej. Antologia jest bezpłatnym e-bookiem, a po pozyskaniu wydawnictwa także wydaniem książkowym; okładką jest Twoja praca w obu wersjach.
 
 **Formę okładki uzgadniamy z Tobą.** Zaraz po werdykcie, czyli przed galą, dostajesz propozycję kadru i typografii, a na uwagi masz 7 dni. Praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki, więc nie oczekujemy od Ciebie poprawek. **Jeżeli nie dojdziemy do porozumienia co do formy, okładką zostaje reprodukcja całej pracy bez kadrowania**, a typografia idzie poza pole obrazu - żeby żadna ze stron nie była zakładnikiem drugiej. Twoje autorskie prawa osobiste, w tym prawo do nienaruszalności formy, zostają przy Tobie.
 

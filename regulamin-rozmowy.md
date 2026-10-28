@@ -104,7 +104,7 @@ O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organi
 
    a) **numer telefonu do kontaktu** - od Uczestników zakwalifikowanych do pierwszej dziesiątki, na potrzeby rozmowy weryfikacyjnej (§ 8 ust. 15); Organizator prosi o niego ponownie, ponieważ numeru podanego przy zgłoszeniu nie przechowuje w postaci jawnej (§ 5 ust. 2e lit. b); Uczestnik może zamiast tego wskazać łącze do rozmowy wideo;
 
-   b) **adres korespondencyjny** - od Uczestników z pierwszej dziesiątki, wyłącznie w celu wysyłki dyplomu, medalu i egzemplarza wydania drukowanego;
+   b) **adres korespondencyjny** - od Uczestników z pierwszej dziesiątki, wyłącznie w celu wysyłki dyplomu, medalu oraz egzemplarza wydania drukowanego, jeżeli wydanie takie się ukaże;
 
    c) **dane niezbędne do wypłaty nagrody i rozliczenia podatkowego**, w tym numer PESEL albo inny identyfikator podatkowy, właściwy urząd skarbowy i numer rachunku bankowego - **wyłącznie od laureatów nagród pieniężnych**, po ogłoszeniu wyników;
 

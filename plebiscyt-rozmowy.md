@@ -18,7 +18,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 - **[nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień** przyznaje jury
 - obok nich przyznawane są **[Nagroda Uczniowska](#nagroda-uczniowska)** i **[Nagroda Publiczności](#nagroda-publicznosci)**, niezależnie od werdyktu jury
-- **dziesięć najlepszych rozmów** składa się na antologię - w formie bezpłatnego e-booka oraz wydania książkowego
+- **dziesięć najlepszych rozmów** składa się na antologię - bezpłatny e-book, a po pozyskaniu wydawnictwa także wydanie książkowe
 - wszystkie zgłoszenia trafiają do **[czytelni](#czytelnia)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia)
 - zgłaszasz **jedną rozmowę w jednej edycji**
 - nabór zamykamy **15 stycznia 2028**
@@ -166,7 +166,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 Trzy werdykty - jury, uczniów i publiczności - są od siebie niezależne i **mogą wskazać trzy różne rozmowy**. Ogłaszamy je na tej samej gali rozdania nagród.
 
-**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną jako **bezpłatny e-book** oraz w wydaniu książkowym, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną jako **bezpłatny e-book**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
 <div class="kafle jedna-kolumna">
 <article>
