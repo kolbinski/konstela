@@ -63,8 +63,7 @@ Według [karty oceny](/dokument/regulamin-filmu#karta-oceny), tej samej dla akad
 
 Każdy przedział punktowy ma opis określający podstawy przyznania oceny – opisy pomagają porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
 
-**Opisy kryteriów uwzględnią różnice między dokumentem, fabułą, animacją i esejem.** Film nie musi formułować jednoznacznej tezy, a wieloznaczność i niedopowiedzenie nie są wadą. Rzetelność dotyczy informacji przedstawianych widzowi jako fakty o technologii, nie rozwiązań fantastycznych ani samej fikcji. Nazwa pierwszego kryterium – „teza” albo „ujęcie tematu” – jest jedną z rzeczy, które chcemy omówić z jury.
-
+**Opisy kryteriów uwzględnią różnice między dokumentem, fabułą, animacją i esejem.** Film nie musi formułować jednoznacznej tezy, a wieloznaczność i niedopowiedzenie nie są wadą. Rzetelność dotyczy informacji przedstawianych widzowi jako fakty o technologii, nie rozwiązań fantastycznych ani samej fikcji.
 ### Ile to czasu
 
 Najwięcej czasu zajmuje oglądanie filmów. **Łączny czas projekcji zależy od liczby i długości zakwalifikowanych filmów**, a każdy trwa od 20 do 90 minut; do tego dochodzą powroty do fragmentów, notatki, punktacja, uzasadnienia i obrady. Dlatego liczbę filmów i łączny metraż wpisujemy do umowy, zanim zaczniesz. Werdykt zapada w **lutym 2028**, a udział w gali przypada na drugą połowę kwietnia 2028; gala jest jedna dla wszystkich czterech plebiscytów.
