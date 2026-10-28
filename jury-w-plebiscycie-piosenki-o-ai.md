@@ -19,7 +19,7 @@
 
 ### Co oceniasz
 
-Nie wszystkie zgłoszenia. **Pierwszą ocenę zgłoszonych piosenek wykonuje akademia piosenki** – grono muzyków z doświadczeniem wykonawczym, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
+Nie wszystkie zgłoszenia. **Pierwszą ocenę zgłoszonych piosenek wykonuje akademia piosenki** – grono muzyków z doświadczeniem w branży muzycznej, które przesłuchuje każde zgłoszenie i przekazuje jury listę najwyżej ocenionych. Jury słucha tej listy, **wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki**. Długość listy piosenek ocenianych przez jury ustalamy wspólnie, gdy jury będzie skompletowane.
 
 ### Według czego
 
@@ -37,19 +37,19 @@ Nie oceniasz jakości produkcji – zgłoszeniem jest demo i wszyscy są w tej s
 
 ### Honorarium
 
-**Praca w jury jest płatna.** Stawkę uzgadniamy indywidualnie i potwierdzamy na piśmie przed przyjęciem zadania, razem z zakresem i terminami. Nie prosimy o pracę za widoczność.
+**Praca w jury jest płatna.** Stawkę uzgadniamy indywidualnie i potwierdzamy umową, razem z zakresem i terminami.
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia, nie waży i nie uzgadnia z partnerami. Punktacja jest jawna i trafia do publicznego Archiwum razem ze zgłoszeniami – dla wszystkich zgłoszeń, nie tylko dla finałowej dziesiątki. To obowiązuje w obie strony: ocena jest widoczna, więc musi dać się obronić.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. Punktacja jest jawna i trafia do publicznego [Archiwum](/plebiscyt-piosenki#archiwum) razem ze zgłoszeniami – dla wszystkich zgłoszeń, nie tylko dla finałowej dziesiątki. To obowiązuje w obie strony: ocena jest widoczna, więc musi dać się obronić.
 
 ### Wpływ na kształt edycji
 
-Skład jury ogłaszamy przed otwarciem naboru, a wagi kryteriów i karta oceny powstają z jego udziałem. Plebiscyt ma pierwszą edycję – rzeczy, które dziś są projektem, da się jeszcze zmienić.
+Skład jury ogłaszamy przed otwarciem naboru, a wagi kryteriów i karta oceny powstają z jego udziałem. Plebiscyt powstaje i ma pierwszą edycję – rzeczy, które dziś są projektem, da się jeszcze zmienić w porozumieniu z jury.
 
 ### Widoczność
 
-Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, werdyktowi i gali. Przy pierwszej edycji działa to w obie strony i mówimy o tym otwarcie: **nazwisko w jury jest dla nas wiarygodnością, bez której nie pozyskamy ani sponsorów, ani zgłoszeń.**
+Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, materiałom promocyjnym, werdyktowi i gali. Przy pierwszej edycji działa to w obie strony i mówimy o tym otwarcie: **nazwisko w jury jest dla nas wiarygodnością, bez której nie pozyskamy ani sponsorów, ani zgłoszeń.**
 
 ## <!--ikona:zasady--><span>Zasady, które obowiązują jury</span>
 
