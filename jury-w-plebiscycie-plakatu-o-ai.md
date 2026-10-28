@@ -4,12 +4,12 @@
 
 ## <!--ikona:zespol--><span>Kogo szukamy</span>
 
-**Plakacistów, ilustratorów, projektantów graficznych, malarzy i kuratorów z doświadczeniem w pracy z obrazem** – osób, które potrafią analizować plakat i rzeczowo uzasadniać oceny. Zależy nam na uzupełniających się kompetencjach w składzie: ktoś od rysunku i warsztatu, ktoś od projektowania i typografii, ktoś od wystawiania prac. Przy doborze jury patrzymy na doświadczenie i przykłady pracy; rozpoznawalność medialna nie jest warunkiem.
+**Plakacistów, ilustratorów, projektantów graficznych, malarzy i kuratorów z doświadczeniem w pracy z obrazem** – osób, które potrafią analizować plakat i rzeczowo uzasadniać oceny. Zależy nam na uzupełniających się kompetencjach w składzie: doświadczeniu w rysunku i technikach tradycyjnych, w projektowaniu i typografii oraz w kuratorstwie wystaw. Przy doborze jury uwzględniamy doświadczenie i przykłady pracy; rozpoznawalność medialna nie jest warunkiem.
 
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury dostaje od akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów, a po obejrzeniu oryginałów ustala kolejność dziesiątki**;
+- jury dostaje od akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki** – prace finałowe ogląda w oryginale, a te, których autorzy nie przyślą, w reprodukcji;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę ocenianych prac, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
@@ -26,29 +26,29 @@
 
 ### Kto może zgłosić plakat
 
-**Plebiscyt jest otwarty dla każdego od 16 roku życia.** Przyjmujemy plakaty podejmujące tematykę sztucznej inteligencji wykonane ręcznie – farbą, tuszem, kolażem, dowolną techniką tradycyjną – także prace zespołowe. Jeden warunek: **obraz ma powstać pod ludzką ręką**, bez generatora obrazu.
+**Plebiscyt jest otwarty dla osób, które ukończyły 16 lat.** Przyjmujemy plakaty poświęcone sztucznej inteligencji, wykonane tradycyjnymi technikami malarskimi, rysunkowymi lub kolażowymi, także prace zespołowe. Podstawowa zasada: **obraz ma powstać pod ludzką ręką**, bez generatora obrazu.
 
 ### Dlaczego akurat plakat
 
-Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się wygenerować w AI obraz zamiast go zlecić. Sporu o to, co z tego wynika, plebiscyt nie rozstrzyga – stawia po jednej stronie konkretną propozycję: praca ma powstać pod ludzką ręką, bo chcemy zobaczyć, co autor ma do powiedzenia o tej maszynie, kiedy mówi to własną ręką. Temat i stanowisko wybiera sam, a dorobek, dyplomy i wystawy nie podlegają ocenie.
+Generatory obrazu zmieniają warunki pracy ilustratorów i projektantów. Plebiscyt zaprasza do wypowiedzi o tych zmianach w formie plakatu wykonanego techniką tradycyjną i nie narzuca stanowiska wobec AI – temat i stanowisko autor wybiera sam. Ocenie podlega praca, nie dorobek autora.
 
 ### Czym jest zgłoszenie
 
-Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnieniem „dlaczego warte nagrody głównej" oraz **nagraniem z pracy nad plakatem, trwającym co najmniej 3 minuty, z widoczną twarzą autora**. Nagranie nie jest publikowane i nie podlega ocenie – służy weryfikacji tego, że pracę wykonał człowiek, który ją zgłasza. Oryginały przysyłają dopiero finaliści.
+Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnieniem „dlaczego warte nagrody głównej” oraz **nagraniem z pracy nad plakatem, trwającym co najmniej 3 minuty, z widoczną twarzą autora**. Nagranie pomaga potwierdzić sposób wykonania pracy, nie jest publikowane i nie podlega ocenie artystycznej; wątpliwości co do autorstwa rozpatruje organizator. Oryginały przysyłają dopiero finaliści.
 
 ### Co dostają finaliści
 
-Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a kolejnych siedmiu finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [antologii](/#antologia)**, książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku. Prace całej dziesiątki pokazujemy na wystawie przy gali: opakowanie, transport w obie strony, przechowywanie i ubezpieczenie oryginałów pokrywa organizator. Jeżeli uda się pozyskać galerię, po gali odbywa się druga wystawa, z wernisażem i cichą licytacją oryginałów – i to już na osobnych, pisemnych warunkach, których finalista nie musi przyjmować.
+Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [antologii](/#antologia)** najlepszych rozmów z AI, planowanej jako bezpłatny e-book, a po pozyskaniu wydawcy również w druku. Prace całej dziesiątki pokazujemy na wystawie przy gali: opakowanie, transport w obie strony, przechowywanie i ubezpieczenie oryginałów pokrywa organizator. Jeżeli uda się pozyskać galerię, po gali odbywa się druga wystawa, z wernisażem i cichą licytacją oryginałów – i to już na osobnych, pisemnych warunkach, których finalista nie musi przyjmować.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
 ### Co ocenia jury
 
-Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [akademia plakatu](/plebiscyt-plakatu#kto-ocenia)** – grono praktyków plakatu, ilustracji i projektowania graficznego, które ogląda każde zgłoszenie tą samą kartą oceny i przekazuje jury listę najwyżej ocenionych. **Jury pracuje dwa razy**: w grudniu 2027 wybiera z tej listy dziesięciu finalistów, a na początku lutego 2028, już po obejrzeniu nadesłanych oryginałów, ustala kolejność całej dziesiątki. Maksymalną liczbę prac ocenianych przez jury ustalamy wspólnie, przed zawarciem umowy.
+Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [akademia plakatu](/plebiscyt-plakatu#kto-ocenia)** – grono praktyków plakatu, ilustracji i projektowania graficznego, które ocenia każde zgłoszenie według tej samej karty oceny i przekazuje jury listę najwyżej ocenionych. **Ocena jury przebiega w dwóch etapach**: w grudniu 2027 jury wybiera z tej listy dziesięciu finalistów, a na początku lutego 2028, po obejrzeniu nadesłanych prac, ustala kolejność całej dziesiątki. Maksymalną liczbę prac ocenianych przez jury ustalamy wspólnie, przed zawarciem umowy.
 
 ### Jak jury ocenia zgłoszone prace
 
-Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów:
+Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
 
 - ujęcie tematu – maksymalnie 30 punktów
 - pomysł plastyczny – maksymalnie 30 punktów
@@ -59,13 +59,17 @@ Każdy przedział punktowy ma opis określający podstawy przyznania oceny – o
 
 ### Ile to czasu
 
-Realnie: **kilkanaście godzin pracy wymagającej skupienia, rozłożonych na dwa podejścia** – wybór dziesiątki finalistów w grudniu 2027 i oględziny oryginałów wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+Realnie: **kilkanaście godzin pracy wymagającej skupienia, podzielonych na dwa etapy** – wybór dziesiątki finalistów w grudniu 2027 i oględziny prac wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+
+Oględziny wymagają spotkania w jednym miejscu, bo oryginały są w jednym miejscu. **Miejsce i czas trwania oględzin oraz zasady pokrywania kosztów podróży ustalamy przed zawarciem umowy.**
 
 **Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest przygotowanie karty oceny i wag kryteriów.** Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
 ### Czego jury nie robi
 
-Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – zgłasza się zdjęcie pracy, nie życiorys. Nie prowadzi też dochodzenia w sprawie autorstwa: jeżeli nagranie z pracy nie przekonuje oceniającego albo widzi on w plakacie przejęty cudzy obraz czy podobiznę rozpoznawalnej osoby, zaznacza to jednym oznaczeniem w panelu. **Oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację** – sprawę prowadzi dalej organizator, według jawnej [procedury moderacji](/dokument/procedura-moderacji). Jury nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
+Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – zgłasza się zdjęcie pracy, nie życiorys. Nie prowadzi też dochodzenia w sprawie autorstwa: jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo co do uprawnień do wykorzystania elementów pracy, przekazuje je organizatorowi do wyjaśnienia jednym oznaczeniem w panelu. **Oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację** – sprawę prowadzi dalej organizator, według jawnej [procedury moderacji](/dokument/procedura-moderacji).
+
+**Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; gdyby miało w czymś z tego uczestniczyć, jest to osobno uzgadniany zakres pracy. Nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
 
 ## <!--ikona:tarcza--><span>Co dajemy</span>
 
@@ -79,7 +83,9 @@ Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – 
 
 ### Oryginały, nie tylko pliki
 
-Dziesiątkę finałową jury ogląda **w oryginale**, a nie na ekranie: prace finalistów przyjeżdżają do organizatora przed werdyktem, na jego koszt i ubezpieczenie. Przy plakacie malowanym ręcznie to różnica między oceną reprodukcji a oceną pracy.
+Finalistów zapraszamy do przesłania oryginałów **na koszt organizatora i z zapewnionym przez niego ubezpieczeniem**, więc prace finałowe jury ogląda z bliska, a nie na ekranie. Przy plakacie malowanym ręcznie to różnica między oceną reprodukcji a oceną pracy.
+
+**Przysłanie oryginału jest dobrowolne** i jego brak nie pozbawia autora ani nagrody, ani miejsca w werdykcie – takiej pracy jury nie zobaczy fizycznie i oceni ją z reprodukcji. **Zasady porównywania prac oglądanych w różny sposób ustalamy z jury przed otwarciem naboru**, razem z kartą oceny.
 
 ### Wpływ na kształt edycji
 
@@ -96,7 +102,7 @@ Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru
 - **Wyłączenie przy konflikcie interesów** – członek jury nie ocenia pracy osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę. Oświadczenie składa przed oceną. Po zapoznaniu się z listą autorów juror zgłasza ewentualne powiązania i w razie zmiany okoliczności aktualizuje oświadczenie.
 - **Niezależność od głosowania publiczności** – o nagrodach głównych decyduje jury według karty oceny; publiczność ma własną, osobną nagrodę.
 - **Poufność werdyktu do gali** – werdykt zapada przed galą, a publicznie ogłaszamy go dopiero na sali.
-- **Nagrania z pracy nad plakatem nie wolno pobierać ani kopiować** – jury korzysta wyłącznie z linku podanego w zgłoszeniu, a link jest usuwany w 30 dni po gali.
+- **Nagrania z pracy nad plakatem nie wolno pobierać ani kopiować** – jury korzysta wyłącznie z linku podanego w zgłoszeniu, a organizator usuwa link z panelu oceniających w ciągu 30 dni od zakończenia gali. Nie oznacza to usunięcia nagrania z konta autora w serwisie wideo.
 - **Jury nie jest przedstawicielem organizatora** i nie odpowiada za jego zobowiązania wobec uczestników.
 
 Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-plakatu), w wersji przeznaczonej dziś do przeglądu prawnego.
