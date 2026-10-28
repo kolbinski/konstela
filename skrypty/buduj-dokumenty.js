@@ -114,6 +114,7 @@ const PUBLICZNE = new Set([
   'fundacja',
   'dla-partnerow',
   'jury-w-plebiscycie-piosenki-o-ai',
+  'jury-w-plebiscycie-plakatu-o-ai',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
@@ -127,6 +128,7 @@ const DEDYKOWANE = {
   fundacja: 'fundacja',
   'dla-partnerow': 'dla-partnerow',
   'jury-w-plebiscycie-piosenki-o-ai': 'jury-w-plebiscycie-piosenki-o-ai',
+  'jury-w-plebiscycie-plakatu-o-ai': 'jury-w-plebiscycie-plakatu-o-ai',
   statut: 'statut',
 };
 
@@ -154,6 +156,8 @@ const OPISY = {
     'Otwarty konkurs na własną piosenkę o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie. Jury wybiera dziesięciu finalistów, a trzy najwyżej ocenione utwory dostają nagrody pieniężne.',
   'jury-w-plebiscycie-piosenki-o-ai':
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na piosenkę o sztucznej inteligencji i co daje w zamian: zakres pracy, karta oceny, honorarium, niezależność werdyktu i terminy pierwszej edycji.',
+  'jury-w-plebiscycie-plakatu-o-ai':
+    'Czego Nagroda Konstela oczekuje od jury plebiscytu na plakat o sztucznej inteligencji i co daje w zamian: zakres pracy, karta oceny, oględziny oryginałów, honorarium i niezależność werdyktu.',
   'dla-partnerow':
     'Zakresy współpracy przy pierwszej edycji Nagrody Konstela: sponsorzy nagród w czterech plebiscytach, mecenasi antologii i sesji studyjnych, partnerzy wydawniczy, galeria, dystrybucja filmów, gala, podcast i patronat medialny.',
   'plebiscyt-plakatu':
