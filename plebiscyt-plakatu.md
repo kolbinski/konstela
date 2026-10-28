@@ -242,7 +242,7 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i w wypisanych zakresach: pokaz
 
 <h2 id="licytacja"><!--ikona:licytacja--><span>Licytacja - dobrowolna</span></h2>
 
-Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny. Może się odbyć jako cicha licytacja przy wystawie w galerii albo inaczej, w tym w serwisie aukcyjnym - od galerii nie zależy.
+Licytacja jest **dobrowolną możliwością sprzedaży oryginału**, połączoną ze wsparciem kolejnej edycji. Nie gwarantujemy ani sprzedaży, ani żadnej ceny. Może się odbyć jako cicha licytacja przy wystawie w galerii albo inaczej, w tym w serwisie aukcyjnym - od galerii sztuki nie zależy.
 
 **Przy zgłoszeniu nie decydujesz o niczym.** Pytamy dopiero po zamknięciu ocen: wtedy dostajesz warunki - cenę minimalną, przewidywane potrącenia i sposób rozliczenia - i wtedy mówisz tak albo nie. Twoja odpowiedź nie trafia do jury przed ustaleniem werdyktu, więc nie może na niego wpłynąć. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
 
