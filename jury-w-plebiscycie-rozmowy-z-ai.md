@@ -4,13 +4,13 @@
 
 ## <!--ikona:zespol--><span>Kogo szukamy</span>
 
-**Ludzi, którzy zawodowo pracują myśleniem i tekstem**: badaczy, dziennikarzy, redaktorów, nauczycieli akademickich, pisarzy, a także praktyków pracujących z AI na co dzień. Liczy się umiejętność rozpoznania, czy rozmowa rzeczywiście do czegoś doszła, i rzeczowego uzasadnienia oceny. Zależy nam na uzupełniających się kompetencjach w składzie: ktoś z warsztatem badawczym, ktoś z warsztatem redakcyjnym, ktoś znający techniczną stronę narzędzi. Przy doborze jury uwzględniamy doświadczenie i przykłady pracy; rozpoznawalność medialna nie jest warunkiem.
+**Osób zawodowo zajmujących się badaniem, analizą i interpretacją tekstów oraz praktyków AI**: badaczy, dziennikarzy, redaktorów, nauczycieli akademickich i pisarzy. Liczy się umiejętność rozpoznania, czy rozmowa rzeczywiście do czegoś doszła, i rzeczowego uzasadnienia oceny. Zależy nam na połączeniu kompetencji badawczych, redakcyjnych i technicznych oraz doświadczenia w krytycznej analizie tekstu. Przy doborze jury uwzględniamy doświadczenie i przykłady pracy; rozpoznawalność medialna nie jest warunkiem.
 
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury dostaje od akademii listę najwyżej ocenionych rozmów, **wybiera z niej dziesiątkę antologii i ustala kolejność**, a finaliści przechodzą przed ogłoszeniem rozmowę weryfikacyjną;
-- **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę czytanych rozmów, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
+- jury otrzymuje od akademii listę najwyżej ocenionych rozmów, **wybiera dziesięć rozmów do antologii i ustala ich kolejność w rankingu**; przed ogłoszeniem wyników finaliści uczestniczą w rozmowie weryfikacyjnej, którą prowadzi organizator;
+- **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów, zakres uzasadnień, weryfikacji źródeł i obrad oraz zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
 ## <!--ikona:mikrofon--><span>O co chodzi</span>
@@ -30,17 +30,21 @@
 
 ### Dlaczego akurat rozmowa
 
-Nagradzamy człowieka, a nie program, bo oceniane są pytania, a nie odpowiedzi. Większość ludzi rozmawia z AI tak samo: jedno pytanie, jedna odpowiedź, wyjście. **Dziesięć najlepszych rozmów składa się na antologię** – bezpłatny e-book, a po pozyskaniu wydawnictwa również wydanie książkowe – razem z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. To jest właściwy produkt tej kategorii: nagroda jest pretekstem, antologia pozostaje.
+**Nagradzamy wkład człowieka w prowadzenie rozmowy**: pytania, doprecyzowania, sprawdzanie odpowiedzi i decyzje podejmowane w toku dialogu. Nie oceniamy możliwości samego modelu. Szukamy rozmów, w których autor rozwija temat, sprawdza odpowiedzi i dochodzi do rozpoznawalnego rezultatu.
+
+**Dziesięć najlepszych rozmów składa się na antologię** – bezpłatny e-book, a po pozyskaniu wydawnictwa również wydanie książkowe. Antologia będzie trwałym rezultatem edycji: zbiorem nagrodzonych rozmów wraz z komentarzami wyjaśniającymi decyzje jury.
 
 ### Co dostają finaliści
 
-Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. Dziesiątka wchodzi do antologii z komentarzem jury. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
+**Wszyscy finaliści otrzymują nagrody pieniężne i miejsce w antologii**: jury przyznaje nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień, a z każdym wyróżnieniem również wiąże się nagroda pieniężna. W tej kategorii jest to inaczej niż w pozostałych trzech plebiscytach. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
 ### Co ocenia jury
 
-Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce antologii i o laureatach nagród.** Przed ogłoszeniem wyników organizator przeprowadza z każdym finalistą **rozmowę weryfikacyjną** – do 20 minut, o treści zgłoszenia – żeby potwierdzić, że autor rozumie wątek, który prowadził. Maksymalną liczbę rozmów czytanych przez jury ustalamy wspólnie, przed zawarciem umowy.
+Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce antologii i o laureatach nagród.** Przed zawarciem umowy ustalamy maksymalną liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów oraz zakres uzasadnień, weryfikacji źródeł i obrad.
+
+**Rozmowę weryfikacyjną z każdym finalistą prowadzi organizator**, nie jury: do 20 minut, wyłącznie o treści zgłoszenia, już po ustaleniu werdyktu. Jej celem jest potwierdzenie, że autor rozumie wątek, który prowadził – nie zmienia ona ocen ani kolejności, a werdykt pozostaje przy jury. Jeżeli rozmowa ujawni rozbieżność, sprawę prowadzi organizator w trybie opisanym w regulaminie.
 
 ### Jak jury ocenia zgłoszone rozmowy
 
@@ -57,23 +61,27 @@ Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla ak
 
 Każdy przedział punktowy ma opis określający podstawy przyznania oceny. Dwie zasady warto znać z góry: **oceniany jest wyłącznie dialog, a nie wytwory powstałe przy okazji** – dokumenty, kod, obrazy – oraz **rozmowy z nieudanymi pytaniami i porzuconymi wątkami nie są z tego powodu oceniane niżej**, bo pokazują rzeczywisty przebieg pracy.
 
-### Rzetelność jako warunek nagrody
+### Dodatkowy warunek dopuszczenia do nagrody
 
-To jedyne kryterium, które działa jak próg, a nie jak punkty: **rozmowa nie może zostać nagrodzona ani wejść do antologii, jeżeli jej plon opiera się na twierdzeniu nieprawdziwym, nieistniejącym źródle albo na nierozpoznanym błędzie rozumowania.** Zastosowanie tego warunku wymaga zgodnej opinii co najmniej dwóch członków jury i pisemnego wskazania błędu, a autor ma 7 dni na wyjaśnienia. **Ciężar wykazania obciąża jury, a brak pewności jury nie jest wykazaniem fałszu** – w razie nieusuniętych wątpliwości warunku nie stosuje się.
+Poza oceną punktową obowiązuje jeden warunek progowy: **rozmowa nie może zostać nagrodzona ani wejść do antologii, jeżeli jej plon opiera się na twierdzeniu nieprawdziwym, nieistniejącym źródle albo na nierozpoznanym błędzie rozumowania.** Dotyczy to wyłącznie błędu istotnego dla głównego wniosku – pomyłka w wątku pobocznym ani nieścisłość w przykładzie nie są podstawą jego zastosowania.
+
+Zastosowanie warunku wymaga zgodnej opinii co najmniej dwóch członków jury i pisemnego wskazania błędu, a autor ma 7 dni na wyjaśnienia. **Obowiązek wykazania błędu spoczywa na jury; sama wątpliwość nie wystarcza do zastosowania tego warunku.**
+
+**Jury ocenia sposób dochodzenia do ustaleń i sprawdzania twierdzeń widoczny w rozmowie.** Nie oczekujemy od jurora wiedzy specjalistycznej we wszystkich dziedzinach: w kwestii specjalistycznej **organizator zasięga opinii osoby mającej odpowiednie kompetencje**, a opinia jest dokumentowana na piśmie. Zakres dodatkowej weryfikacji źródeł, konsultacji i rozpatrywania wyjaśnień autorów ustalamy przed zawarciem umowy i obejmuje go honorarium.
 
 ### Ile to czasu
 
-Czytanie rozmowy trwa dłużej niż obejrzenie plakatu i krócej niż obejrzenie filmu, ale wymaga największego skupienia, bo ocenia się przebieg myślenia, a nie gotowy wytwór. Jury pracuje w **styczniu i lutym 2028**, rozmowy weryfikacyjne przypadają na pierwszą połowę lutego, a udział w gali na drugą połowę kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+Nakład pracy zależy od długości zgłoszonych rozmów, dlatego do umowy wpisujemy nie tylko ich liczbę, ale i **łączną objętość**, a obok niej czas na punktację, sprawdzenie źródeł, uzasadnienia i obrady. Jury pracuje w **styczniu i lutym 2028**, rozmowy weryfikacyjne odbędą się w pierwszej połowie lutego, a udział w gali przypada na drugą połowę kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
 **Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest przygotowanie karty oceny i wag kryteriów.** Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
 ### Komentarze do antologii
 
-Dziesięć rozmów z antologii ukazuje się **z komentarzem jury** – kilka zdań o tym, co w każdej z nich było wartościowe. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie.
+Dziesięć rozmów z antologii ukazuje się **z komentarzem jury** – kilka zdań o tym, co w każdej z nich było wartościowe. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie. Umowa określa wynagrodzenie za komentarz, sposób jego podpisania oraz zakres zmian redakcyjnych, na które autor komentarza się zgadza.
 
 ### Czego jury nie robi
 
-Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrody głównej” – te trzy pola są widoczne publicznie, ale wyłączone z punktacji. Nie ocenia też wykształcenia ani doświadczenia autora. Nie prowadzi rozmów weryfikacyjnych z finalistami, bo robi to organizator, i nie zajmuje się obsługą plebiscytu, moderacją ani korespondencją z uczestnikami. Jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo zgodności zgłoszenia z zasadami, przekazuje je organizatorowi do wyjaśnienia; **oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację**.
+Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrody głównej” – te trzy pola są widoczne publicznie, ale wyłączone z punktacji. Nie ocenia też wykształcenia ani doświadczenia autora. **Rezultat rozmowy oceniany jest w zakresie udokumentowanym w zgłoszonym dialogu**: dokumenty, kod, obrazy i inne materiały powstałe przy okazji nie podlegają osobnej ocenie, a skutki rozmowy powstałe poza nią nie podnoszą punktacji. Nie prowadzi rozmów weryfikacyjnych z finalistami, bo robi to organizator, i nie zajmuje się obsługą plebiscytu, moderacją ani korespondencją z uczestnikami. Jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo zgodności zgłoszenia z zasadami, przekazuje je organizatorowi do wyjaśnienia; **oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację**.
 
 ## <!--ikona:tarcza--><span>Warunki współpracy</span>
 
@@ -87,7 +95,7 @@ Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrod
 
 ### Antologia zostaje po edycji
 
-Werdykt jury nie kończy się na liście nazwisk: składa się na książkę, która ma uczyć rozmawiania z AI i którą da się przeczytać za pięć lat. Dla jurora to inny rodzaj śladu niż protokół z obrad.
+Wybór jury wyznaczy zawartość antologii: **antologia pokaże różne sposoby prowadzenia rozmów z AI i pozwoli prześledzić, co jury uznało w nich za wartościowe**. Dla jurora to inny rodzaj śladu niż protokół z obrad.
 
 ### Wpływ na kształt edycji
 
@@ -104,7 +112,7 @@ Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru
 - **Wyłączenie przy konflikcie interesów** – członek jury nie ocenia zgłoszenia osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę. Oświadczenie składa przed oceną. Po zapoznaniu się z listą autorów juror zgłasza ewentualne powiązania i w razie zmiany okoliczności aktualizuje oświadczenie.
 - **Niezależność od głosowania publiczności** – o nagrodach głównych decyduje jury według karty oceny; publiczność ma własne, osobne nagrody, w tym Nagrodę Uczniowską wskazywaną przez grupy szkolne.
 - **Poufność werdyktu do gali** – werdykt zapada przed galą, a publicznie ogłaszamy go dopiero na sali.
-- **Treści zgłoszonych rozmów nie wolno rozpowszechniać** – zdarza się, że mówią o życiu prywatnym autora; jury korzysta z nich wyłącznie na potrzeby oceny.
+- **Materiały robocze oceny pozostają poufne** – noty, karty ocen i przebieg obrad. Same zgłoszenia są publiczne w Czytelni od chwili przejścia weryfikacji formalnej, więc zakaz nie dotyczy odesłania kogoś do publicznego wpisu; dotyczy ujawniania ocen, wniosków jury i korespondencji z autorami przed ogłoszeniem werdyktu.
 - **Jury nie jest przedstawicielem organizatora** i nie odpowiada za jego zobowiązania wobec uczestników.
 
 Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-rozmowy), w wersji przeznaczonej dziś do przeglądu prawnego.
