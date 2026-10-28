@@ -53,7 +53,8 @@ Poza zakresem, ponieważ realizuję to samodzielnie:
 - narzędzie archiwizujące zgłoszone rozmowy,
 - narzędzie do weryfikacji formalnej zgłoszeń,
 - panel pracy dla czytelników i jury,
-- mechanizm publikowania Archiwum rozmów.
+- mechanizm publikowania Archiwum rozmów,
+- **monitor dostępności linków zewnętrznych**: codzienne sprawdzanie, czy nagrania piosenek, filmy, zwiastuny i nagrania z pracy nad plakatem są wciąż dostępne pod podanymi adresami, z zapisem wyniku każdego sprawdzenia wraz z datą i godziną. Regulaminy wiążą z dłuższą niedostępnością konkretne skutki - termin naprawczy, pominięcie głosów, wyłączenie z oceny - a ciężar wykazania niedostępności spoczywa na organizatorze, więc ten zapis jest dowodem, a nie wygodą.
 
 Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych projektowych**: jak mają wyglądać strony pojedynczej rozmowy w Archiwum i strona antologii, żeby były spójne z resztą. Samo wdrożenie zrobię po swojej stronie.
 
