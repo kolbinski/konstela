@@ -63,12 +63,15 @@ function rozdzielSekcje(html) {
     );
   }
 
+  /* Nagłówek wewnątrz cytatu - na przykład tytuł utworu w zacytowanym
+     tekście hymnu - nie jest sekcją dokumentu i przerywnika nie dostaje. */
   let pierwszy = true;
-  return html.replace(/<h2(?=[ >])/g, (m) => {
-    if (pierwszy) {
+  return html.replace(/(<blockquote>\s*)?<h2(?=[ >])/g, (m, cytat) => {
+    if (pierwszy && !cytat) {
       pierwszy = false;
       return m;
     }
+    if (cytat) return m;
     return rysunek + m;
   });
 }
