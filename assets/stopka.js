@@ -20,6 +20,7 @@
     ['/plebiscyt-filmu', 'Nagroda Konstela w plebiscycie na film o sztucznej inteligencji'],
     ['/plebiscyt-piosenki', 'Nagroda Konstela w plebiscycie na piosenkę o sztucznej inteligencji'],
     ['/plebiscyt-plakatu', 'Nagroda Konstela w plebiscycie na plakat o sztucznej inteligencji'],
+    ['/hymn', 'Hymn Nagrody Konstela'],
     ['/dokument/procedura-moderacji', 'Procedura moderacji zgłoszeń'],
     ['/dokument/regulaminy', 'Regulaminy'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
@@ -66,6 +67,13 @@
     ':host([data-czytelnie]) nav, :host([data-czytelnie]) .lewo { gap: 1.6rem; }',
     ':host([data-czytelnie]) a { color: #0000cc; text-decoration: underline; }',
     ':host([data-czytelnie]) a:visited { color: #0000cc; }',
+    /* Na wąskim ekranie obie kolumny stoją jedna pod drugą, więc odstęp
+       MIĘDZY nimi ma być taki sam jak odstęp między pozycjami w środku -
+       inaczej stopka czyta się jak dwie osobne listy o różnym rytmie. */
+    '@media (max-width: 48rem) {',
+    '  .belka { gap: 1.1rem; }',
+    '  :host([data-czytelnie]) .belka { gap: 1.6rem; }',
+    '}',
     '@media print {',
     '  .belka { border-color: #ccc; color: #000; }',
     '  a { color: #000; }',
