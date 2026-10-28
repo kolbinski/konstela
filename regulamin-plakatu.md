@@ -74,6 +74,10 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 5. Przy pracy wykonanej wspólnie reprezentant składa zgłoszenie, składa oświadczenia przewidziane niniejszym regulaminem i prowadzi korespondencję, oświadczając, że działa za zgodą wszystkich współautorów. Organizator wypłaca nagrodę w całości reprezentantowi i nie uczestniczy w jej podziale.
 
+5a. **Potwierdzenia współuprawnionych.** Do zgłoszenia zespołowego dołącza się potwierdzenie każdej osoby wskazanej w składzie, złożone w postaci wiadomości z jej własnego adresu e-mail albo oświadczenia podpisanego jej imieniem i nazwiskiem, obejmujące: udział tej osoby w utworze, zgodę na zgłoszenie, zgodę na zakresy licencji będące warunkiem udziału, umocowanie reprezentanta oraz uzgodniony sposób odbioru nagrody. Zmiana reprezentanta wymaga potwierdzenia osób, których uprawnienia obejmuje.
+
+5b. **Spór wewnątrz składu.** Jeżeli przed wypłatą nagrody albo przed udzieleniem licencji którakolwiek ze wskazanych osób zakwestionuje zgłoszenie, Organizator **wstrzymuje sporną czynność** i wyznacza stronom termin nie krótszy niż 14 dni na przedstawienie stanowisk. Stanowisko reprezentanta nie jest w takim wypadku rozstrzygające. Wstrzymanie nie wpływa na ocenę zgłoszenia ani na miejsce w werdykcie.
+
 ## § 4a. Nagranie z powstawania pracy
 
 1. **Nagranie jest obowiązkowym elementem zgłoszenia.** Służy powiązaniu Uczestnika z wykonywaniem pracy, którego ręcznego charakteru wymaga § 6.

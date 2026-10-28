@@ -33,6 +33,10 @@
 
 3. Zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**. Film powstaje zwykle w zespole; Uczestnikiem jest osoba zgłaszająca, która oświadcza, że jest uprawniona do dysponowania filmem w zakresie koniecznym do udziału w Plebiscycie i do udzielenia licencji z § 12.
 
+3a. **Potwierdzenia współuprawnionych.** Do zgłoszenia zespołowego dołącza się potwierdzenie każdej osoby wskazanej w składzie, złożone w postaci wiadomości z jej własnego adresu e-mail albo oświadczenia podpisanego jej imieniem i nazwiskiem, obejmujące: udział tej osoby w utworze, zgodę na zgłoszenie, zgodę na zakresy licencji będące warunkiem udziału, umocowanie reprezentanta oraz uzgodniony sposób odbioru nagrody. Zmiana reprezentanta wymaga potwierdzenia osób, których uprawnienia obejmuje.
+
+3b. **Spór wewnątrz składu.** Jeżeli przed wypłatą nagrody albo przed udzieleniem licencji którakolwiek ze wskazanych osób zakwestionuje zgłoszenie, Organizator **wstrzymuje sporną czynność** i wyznacza stronom termin nie krótszy niż 14 dni na przedstawienie stanowisk. Stanowisko reprezentanta nie jest w takim wypadku rozstrzygające. Wstrzymanie nie wpływa na ocenę zgłoszenia ani na miejsce w werdykcie.
+
 4. W Plebiscycie nie mogą brać udziału członkowie jury, członkowie akademii filmu, członkowie organów Organizatora ani osoby, które brały udział w przygotowaniu Plebiscytu po stronie Organizatora.
 
 5. Zgłoszenie złożone przez osobę najbliższą członka jury nie jest wyłączone. Członek jury wyłącza się wówczas od oceny tego zgłoszenia, na zasadach z § 8 ust. 6.

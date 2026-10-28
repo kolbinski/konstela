@@ -60,6 +60,7 @@ Odrębności: wiek od 16 lat. Film ma być zrealizowany na potrzeby tego plebisc
 | Link do nagrania w serwisie wideo (publiczne albo niepubliczne z dostępem przez link) | obowiązkowe |
 | Okładka: JPG albo PNG, kwadratowa, bok 800-3000 px, do 5 MB | obowiązkowe |
 | Skład osobowy przy zgłoszeniu zespołowym wraz ze wskazaniem reprezentanta | warunkowe |
+| Tekst utworu (pole tekstowe, nie jest publikowany) | obowiązkowe |
 | Deklaracja sposobu powstania tekstu | obowiązkowe |
 | Deklaracja narzędzi opartych na sztucznej inteligencji użytych w produkcji, wraz z celem użycia | obowiązkowe |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat, rozbita na zakresy | warunkowe |

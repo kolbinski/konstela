@@ -80,6 +80,8 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    c1) **dlaczego warte nagrody głównej** - do 700 znaków własnego uzasadnienia - obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
+   c1) **tekst utworu** - pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i jest udostępniany wyłącznie akademii i jury; **nie jest publikowany** ani w Słuchalni, ani w Archiwum, ani w materiałach Nagrody. Tekst ma odpowiadać temu, co słychać w nagraniu; rozbieżność drobna, wynikająca z wykonania, nie jest podstawą odrzucenia;
+
    d) deklarację o użyciu narzędzi sztucznej inteligencji, zgodnie z § 7 ust. 6;
 
    e) oświadczenie o prawach do utworu, do nagrania i do okładki, zgodnie z § 15 ust. 5;
@@ -107,6 +109,10 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 3. Reprezentant oświadcza, że działa za zgodą wszystkich współautorów i wykonawców, oraz wskazuje ich imiennie w zgłoszeniu.
 
 4. Organizator wypłaca nagrodę w całości reprezentantowi składu. Podział nagrody wewnątrz składu jest sprawą zgłaszających i Organizator w nim nie uczestniczy.
+
+4a. **Potwierdzenia współuprawnionych.** Do zgłoszenia zespołowego dołącza się potwierdzenie każdej osoby wskazanej w składzie, złożone w postaci wiadomości z jej własnego adresu e-mail albo oświadczenia podpisanego jej imieniem i nazwiskiem, obejmujące: udział tej osoby w utworze, zgodę na zgłoszenie, zgodę na zakresy licencji będące warunkiem udziału, umocowanie reprezentanta oraz uzgodniony sposób odbioru nagrody. Zmiana reprezentanta wymaga potwierdzenia osób, których uprawnienia obejmuje.
+
+4b. **Spór wewnątrz składu.** Jeżeli przed wypłatą nagrody albo przed udzieleniem licencji którakolwiek ze wskazanych osób zakwestionuje zgłoszenie, Organizator **wstrzymuje sporną czynność** i wyznacza stronom termin nie krótszy niż 14 dni na przedstawienie stanowisk. Stanowisko reprezentanta nie jest w takim wypadku rozstrzygające. Wstrzymanie nie wpływa na ocenę zgłoszenia ani na miejsce w werdykcie.
 
 5. Jeżeli w składzie znajduje się osoba, która nie ukończyła 18 lat, do zgłoszenia dołącza się zgodę jej przedstawiciela ustawowego w zakresie, w jakim ta osoba bierze udział w utworze, w nagraniu studyjnym lub w występie na gali.
 
