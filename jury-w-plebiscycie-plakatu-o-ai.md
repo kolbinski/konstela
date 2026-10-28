@@ -61,7 +61,7 @@ Każdy przedział punktowy ma opis określający podstawy przyznania oceny – o
 
 Realnie: **kilkanaście godzin pracy wymagającej skupienia, podzielonych na dwa etapy** – wybór dziesiątki finalistów w grudniu 2027 i oględziny prac wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-Oględziny wymagają spotkania w jednym miejscu, bo oryginały są w jednym miejscu. **Miejsce i czas trwania oględzin oraz zasady pokrywania kosztów podróży ustalamy przed zawarciem umowy.**
+Oględziny nadesłanych oryginałów odbywają się podczas spotkania jury. **Miejsce i czas trwania oględzin oraz zasady pokrywania kosztów podróży ustalamy przed zawarciem umowy.**
 
 **Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest przygotowanie karty oceny i wag kryteriów.** Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
@@ -69,7 +69,7 @@ Oględziny wymagają spotkania w jednym miejscu, bo oryginały są w jednym miej
 
 Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – zgłasza się zdjęcie pracy, nie życiorys. Nie prowadzi też dochodzenia w sprawie autorstwa: jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo co do uprawnień do wykorzystania elementów pracy, przekazuje je organizatorowi do wyjaśnienia jednym oznaczeniem w panelu. **Oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację** – sprawę prowadzi dalej organizator, według jawnej [procedury moderacji](/dokument/procedura-moderacji).
 
-**Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; gdyby miało w czymś z tego uczestniczyć, jest to osobno uzgadniany zakres pracy. Nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
+**Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; ewentualny udział członków jury w tych działaniach wymaga osobnego uzgodnienia zakresu pracy i wynagrodzenia. Nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
 
 ## <!--ikona:tarcza--><span>Co dajemy</span>
 
@@ -83,7 +83,7 @@ Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – 
 
 ### Oryginały, nie tylko pliki
 
-Finalistów zapraszamy do przesłania oryginałów **na koszt organizatora i z zapewnionym przez niego ubezpieczeniem**, więc prace finałowe jury ogląda z bliska, a nie na ekranie. Przy plakacie malowanym ręcznie to różnica między oceną reprodukcji a oceną pracy.
+Finalistów zapraszamy do przesłania oryginałów **na koszt organizatora i z zapewnionym przez niego ubezpieczeniem**. Nadesłane oryginały jury ogląda bezpośrednio; pozostałe prace ocenia na podstawie reprodukcji. Przy plakacie malowanym ręcznie to różnica między oceną reprodukcji a oceną pracy.
 
 **Przysłanie oryginału jest dobrowolne** i jego brak nie pozbawia autora ani nagrody, ani miejsca w werdykcie – takiej pracy jury nie zobaczy fizycznie i oceni ją z reprodukcji. **Zasady porównywania prac oglądanych w różny sposób ustalamy z jury przed otwarciem naboru**, razem z kartą oceny.
 
