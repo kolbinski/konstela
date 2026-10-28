@@ -1,7 +1,5 @@
 # Regulamin plebiscytu na rozmowę ze sztuczną inteligencją
 
----
-
 ## § 1. Organizator
 
 1. Organizatorem Nagrody Konstela ("Nagroda") jest fundacja powołana wyłącznie w celu prowadzenia Nagrody, wpisana do Krajowego Rejestru Sądowego ("Organizator"). Fundacja zostaje powołana i wpisana do rejestru **przed otwarciem przyjmowania zgłoszeń**; jej nazwa, siedziba, numery KRS i NIP oraz dane kontaktowe zostaną wskazane w tym ustępie w wersji regulaminu ogłoszonej w dniu otwarcia naboru. Fundatorem jest Krzysztof Olbiński.

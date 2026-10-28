@@ -1,7 +1,5 @@
 # Regulamin plebiscytu na film o sztucznej inteligencji
 
----
-
 ## § 1. Organizator
 
 1. Organizatorem plebiscytu na film o sztucznej inteligencji ("Plebiscyt") jest fundacja powołana wyłącznie w celu prowadzenia Nagrody Konstela, wpisana do Krajowego Rejestru Sądowego ("Organizator"). Fundacja zostaje powołana i wpisana do rejestru przed otwarciem naboru.

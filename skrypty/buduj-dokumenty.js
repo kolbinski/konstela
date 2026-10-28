@@ -51,6 +51,18 @@ if (fs.existsSync(KATALOG_IKON)) {
 function rozdzielSekcje(html) {
   const rysunek = IKONY['rozdzielacz'];
   if (!rysunek) return html;
+
+  /* Ozdobny przerywnik stoi też pod tytułem dokumentu - tak samo jak między
+     sekcjami. Pomijamy strony, które mają pod tytułem ilustrację z własnym
+     przerywnikiem: tam drugi stałby tuż pod pierwszym. */
+  const glowaDoPierwszejSekcji = html.split(/<h2(?=[ >])/)[0];
+  if (!glowaDoPierwszejSekcji.includes('viewBox="0 0 288 22"')) {
+    html = html.replace(
+      /<\/h1>(\s*<p class="edition">[\s\S]*?<\/p>)?/,
+      (m) => m + rysunek
+    );
+  }
+
   let pierwszy = true;
   return html.replace(/<h2(?=[ >])/g, (m) => {
     if (pierwszy) {

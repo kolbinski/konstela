@@ -1,7 +1,5 @@
 # Mecenat Antologii Nagrody Konstela - propozycja współpracy
 
----
-
 ## Czym jest Nagroda Konstela
 
 Coroczna nagroda dla ludzi, którzy prowadzą z modelami sztucznej inteligencji najlepsze rozmowy. Nagradzany jest człowiek, nie model i nie firma, która model zbudowała. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, drążenie, weryfikacja tego, co model powiedział, i to, co człowiek z rozmowy wyniósł. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na marzec 2028. Udział jest bezpłatny i organizator nie pobiera od uczestników żadnych opłat.

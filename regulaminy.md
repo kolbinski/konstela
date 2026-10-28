@@ -1,7 +1,5 @@
 # Regulaminy Nagrody Konstela
 
----
-
 Nagrodę Konstela przyznajemy w czterech plebiscytach i każdy ma własny regulamin. Publikujemy je **przed ogłoszeniem naboru**, razem z kartami oceny, zamiast obiecywać zasady na później. Regulamin wchodzi w życie w dniu otwarcia naboru i od tej chwili nie zmieniamy w nim ani wymogów zgłoszenia, ani kryteriów oceny, ani wysokości nagród.
 
 Wszystkie cztery dokumenty czekają jeszcze na przegląd prawny, więc część zapisów może się zmienić. **Na końcu każdego z nich wypisaliśmy wprost, które to miejsca** - to nie jest lista ukryta w aneksie, a część dokumentu.

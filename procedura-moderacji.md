@@ -1,7 +1,5 @@
 # Procedura moderacji zgłoszeń
 
----
-
 ## 1. Do czego służy ta procedura
 
 To jest dokument dla **oceniających** - członków jury, jury i akademii - opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Dotyczy tego, co trafia do czytelni, Galerii, Projektorni i Archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny - uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.

@@ -1,7 +1,5 @@
 # Fundacja Konstela
 
----
-
 Nagrodę Konstela prowadzi **Fundacja Konstela**, powoływana wyłącznie w tym celu.
 
 ## <!--ikona:etap--><span>Na jakim jest etapie</span>
