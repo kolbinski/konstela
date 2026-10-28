@@ -114,7 +114,8 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 4. Zgłoszenie potwierdzane jest kodem przesyłanym w wiadomości SMS na numer telefonu wskazany przez Uczestnika. Numer nie jest przechowywany w postaci jawnej; sposób jego przetwarzania opisuje polityka prywatności.
 
-5. Jedna osoba może złożyć jedno zgłoszenie. Limit dotyczy reprezentowania zgłoszenia, a nie udziału w utworze: ta sama osoba może być współautorem lub wykonawcą w dowolnej liczbie zgłoszeń złożonych przez inne osoby.
+5. Jedna osoba może złożyć jedno zgłoszenie. Zasady z ust. 5a stosuje się odpowiednio. Limit dotyczy reprezentowania zgłoszenia, a nie udziału w utworze: ta sama osoba może być współautorem lub wykonawcą w dowolnej liczbie zgłoszeń złożonych przez inne osoby.
+5a. **Limit dotyczy osoby, nie numeru telefonu.** Jedna osoba może reprezentować **jedno zgłoszenie w tym plebiscycie i w tej edycji**; numer telefonu jest wyłącznie narzędziem weryfikacji, a nie definicją osoby. Osoba, która nie może odebrać wiadomości SMS albo korzysta z numeru wspólnego z inną osobą, zgłasza to na adres wskazany w § 1; Organizator ustala wówczas inny, równie wiarygodny sposób potwierdzenia zgłoszenia. **Brak własnego numeru telefonu nie może być powodem wykluczenia.** Limit nie przenosi się między plebiscytami: ta sama osoba może zgłosić po jednej pracy w każdym z czterech plebiscytów Nagrody.
 
 6. Nagranie wskazane linkiem pozostaje **dostępne** przez cały czas trwania oceny, to jest do dnia ogłoszenia werdyktu, i **niezmienione od dnia zamknięcia naboru**. Poprawienie nagrania przed zamknięciem naboru jest dopuszczalne na zasadach z ust. 6a. Ocenie podlega nagranie w wersji z dnia zamknięcia naboru. Skutki niedostępności nagrania określa § 8 ust. 4.
 

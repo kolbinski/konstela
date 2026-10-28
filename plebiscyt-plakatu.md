@@ -275,7 +275,7 @@ Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwi
 
 Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę - ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych - z nagraniami studyjnymi.
 
-Oryginały całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali**, a okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
+Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** - oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
 
 **Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę z AI**, bo antologia musi zdążyć do druku.
 

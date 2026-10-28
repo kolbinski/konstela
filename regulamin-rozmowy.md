@@ -154,7 +154,7 @@ Terminy usunięcia danych z lit. a-c określa § 12.
 
 2e. **Jedno zgłoszenie na osobę i weryfikacja numeru telefonu.** W jednej edycji Uczestnik może złożyć **jedno zgłoszenie**. Ograniczenie ma dwie przyczyny: chroni nabór przed zalaniem zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej, co przy nagrodzie tej wysokości jest realnym zagrożeniem, a przy tym zmusza Uczestnika do wyboru rozmowy, którą uważa za najlepszą - co odpowiada charakterowi Nagrody.
 
-   a) **Weryfikacja.** Po wypełnieniu formularza Organizator przesyła na podany numer telefonu jednorazowy kod, który Uczestnik przepisuje w formularzu. Zgłoszenie niepotwierdzone kodem nie zostaje złożone. Na jeden numer telefonu przypada jedno zgłoszenie w edycji.
+   a) **Weryfikacja.** Po wypełnieniu formularza Organizator przesyła na podany numer telefonu jednorazowy kod, który Uczestnik przepisuje w formularzu. Zgłoszenie niepotwierdzone kodem nie zostaje złożone. **Limit dotyczy osoby, a nie numeru telefonu**: jedna osoba może reprezentować jedno zgłoszenie w edycji, a numer jest wyłącznie narzędziem weryfikacji. Limit nie przenosi się między plebiscytami Nagrody.
 
    b) **Postępowanie z numerem.** Organizator **nie przechowuje numeru telefonu w postaci jawnej**. Po wysłaniu kodu numer zostaje zastąpiony wartością skrótu obliczoną z użyciem klucza tajnego przechowywanego odrębnie od bazy zgłoszeń, służącą wyłącznie do stwierdzenia, czy z tego numeru złożono już zgłoszenie. Wartość ta pozostaje danymi osobowymi w rozumieniu RODO i podlega zasadom z polityki prywatności, w tym terminowi usunięcia; skrót zostaje usunięty wraz z zamknięciem edycji.
 

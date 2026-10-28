@@ -94,7 +94,8 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 3. Zgłoszenie potwierdzane jest kodem przesyłanym w wiadomości SMS. Numer nie jest przechowywany w postaci jawnej; sposób jego przetwarzania opisuje polityka prywatności.
 
-4. Jedna osoba może złożyć jedno zgłoszenie. Limit dotyczy reprezentowania zgłoszenia, a nie udziału w pracy: ta sama osoba może być współautorem w zgłoszeniach złożonych przez inne osoby.
+4. Jedna osoba może złożyć jedno zgłoszenie. Zasady z ust. 4z stosuje się odpowiednio. Limit dotyczy reprezentowania zgłoszenia, a nie udziału w pracy: ta sama osoba może być współautorem w zgłoszeniach złożonych przez inne osoby.
+4z. **Limit dotyczy osoby, nie numeru telefonu.** Jedna osoba może reprezentować **jedno zgłoszenie w tym plebiscycie i w tej edycji**; numer telefonu jest wyłącznie narzędziem weryfikacji, a nie definicją osoby. Osoba, która nie może odebrać wiadomości SMS albo korzysta z numeru wspólnego z inną osobą, zgłasza to na adres wskazany w § 1; Organizator ustala wówczas inny, równie wiarygodny sposób potwierdzenia zgłoszenia. **Brak własnego numeru telefonu nie może być powodem wykluczenia.** Limit nie przenosi się między plebiscytami: ta sama osoba może zgłosić po jednej pracy w każdym z czterech plebiscytów Nagrody.
 
 5. Przy pracy wykonanej wspólnie reprezentant składa zgłoszenie, składa oświadczenia przewidziane niniejszym regulaminem i prowadzi korespondencję, oświadczając, że działa za zgodą wszystkich współautorów. Organizator wypłaca nagrodę w całości reprezentantowi i nie uczestniczy w jej podziale.
 
@@ -140,7 +141,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. Zgłoszenie nie spełnia wymogów formalnych, jeżeli:
 
-   a) nie zawiera elementów wymienionych w § 4 ust. 2 lit. a, b i c-h; brak materiałów, o których mowa w lit. b1, nie stanowi samodzielnej podstawy odrzucenia, lecz Organizator może zwrócić się o wyjaśnienia albo o oględziny oryginału;
+   a) nie zawiera elementów **oznaczonych w § 4 ust. 2 jako obowiązkowe**. Brakiem formalnym **nie jest** nieuzupełnienie pola wyraźnie oznaczonego jako nieobowiązkowe - w szczególności kontaktu do autora (lit. c2) i linku do własnej sprzedaży (lit. c3) - ani niepodanie składu osobowego przy pracy wykonanej samodzielnie (lit. e). Brak materiałów, o których mowa w lit. b1, nie stanowi samodzielnej podstawy odrzucenia, lecz Organizator może zwrócić się o wyjaśnienia albo o oględziny oryginału;
 
    a1) nagranie, o którym mowa w § 4 ust. 2 lit. b, nie spełnia wymogów z § 4a albo nie pozwala stwierdzić, że pracę wykonuje Uczestnik;
 
@@ -272,13 +273,13 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 1c. **Czas ochrony.** Ubezpieczenie obejmuje cały uzgodniony okres: transport w obie strony, przechowywanie u Organizatora, wystawę towarzyszącą gali oraz wystawę w galerii sztuki, a przy pracy sprzedanej - również czas do jej wydania nabywcy.
 
-2. **Finalista dostarcza oryginał w terminie 21 dni od dnia zawiadomienia o zakwalifikowaniu do finału** (§ 8 ust. 4a). Razem z zawiadomieniem Organizator wskazuje sposób przygotowania pracy do wysyłki oraz adres dostarczenia. Termin z ust. 3b biegnie od dnia rzeczywistego odbioru pracy przez Organizatora. Na wniosek finalisty Organizator przedłuża termin dostarczenia, jeżeli nie zagraża to oględzinom i przygotowaniu wystawy.
+2. **Finalista dostarcza oryginał w terminie 21 dni od dnia zawiadomienia o zakwalifikowaniu do finału** (§ 8 ust. 4a). **Niedostarczenie oryginału w terminie**, po co najmniej trzech próbach kontaktu podjętych w okresie nie krótszym niż 14 dni, wywołuje ten sam skutek co odmowa z ust. 4: praca jest prezentowana i oceniana na podstawie reprodukcji, bez utraty nagrody i bez obniżenia punktacji. Na wniosek finalisty Organizator przedłuża termin, jeżeli przyczyna jest od niego niezależna. Razem z zawiadomieniem Organizator wskazuje sposób przygotowania pracy do wysyłki oraz adres dostarczenia. Termin z ust. 3b biegnie od dnia rzeczywistego odbioru pracy przez Organizatora. Na wniosek finalisty Organizator przedłuża termin dostarczenia, jeżeli nie zagraża to oględzinom i przygotowaniu wystawy.
 
 3. Organizator **nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru w terminie 30 dni od zakończenia wystawy towarzyszącej gali**. Terminu doręczenia przesyłki Organizator nie wyznacza, ponieważ zależy on od przewoźnika. Wyjątkiem są prace objęte propozycją z ust. 3a oraz prace przekazane na licytację zgodnie z § 14; w obu wypadkach termin zwrotu wynika z warunków przyjętych przez autora.
 
 3a. **Wystawa w galerii sztuki - propozycja odrębna, nie element plebiscytu.** Organizator dąży do pokazania prac finałowych również na wystawie w galerii sztuki, otwieranej wernisażem, po gali - to jest po publicznym ogłoszeniu werdyktu, tak aby prace mogły być opisane wraz z zajętymi miejscami. **Wystawa ta nie jest jednak objęta przyrzeczeniem publicznym i zależy od pozyskania galerii.** Jeżeli galeria zostanie pozyskana, Organizator kieruje do finalistów **pisemną propozycję** - w kolejności wynikającej z werdyktu, a liczbę prac wyznacza przestrzeń wskazana w propozycji. Propozycja określa miejsce, termin wernisażu, termin zakończenia wystawy, czas pozostawania pracy u Organizatora, zakres ubezpieczenia, sposób i termin zwrotu oraz - jeżeli jest przewidziana - warunki cichej licytacji prowadzonej przy wystawie (§ 14). Przyjęcie propozycji jest dobrowolne; jej nieprzyjęcie albo brak odpowiedzi nie wpływa na werdykt, na nagrodę ani na udział w wystawie przy gali, a praca wraca wówczas do autora w terminie z ust. 3.
 
-3b. **Łączny czas, w którym Organizator dysponuje oryginałem w ramach plebiscytu, nie przekracza 150 dni od dnia odbioru pracy**; po upływie tego terminu praca wraca do autora. Czas pozostawania pracy u Organizatora na podstawie propozycji z ust. 3a liczy się odrębnie i wynika z tej propozycji.
+3b. **Organizator nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru najpóźniej w 150. dniu od dnia odbioru oryginału.** Termin ten dotyczy czynności Organizatora, a nie doręczenia przez przewoźnika. Dłuższe pozostawanie pracy u Organizatora - w szczególności na potrzeby wystawy w galerii sztuki (ust. 3a) albo wydania pracy nabywcy po sprzedaży (§ 14 ust. 6b) - wymaga **odrębnego uzgodnienia z autorem, określającego datę końcową, koszty i zakres ubezpieczenia**; bez takiego uzgodnienia termin 150 dni jest bezwzględny.
 
 4. Finalista, który nie wyraża zgody na przesłanie oryginału, nie traci z tego powodu nagrody pieniężnej ani miejsca w werdykcie. **Odmowa nie obniża punktacji: jury ocenia wówczas pracę na podstawie reprodukcji i dostępnych materiałów** (§ 8 ust. 4b). Praca jest prezentowana na wystawie w postaci reprodukcji.
 

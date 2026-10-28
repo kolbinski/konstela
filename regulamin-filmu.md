@@ -115,7 +115,8 @@
 
    i) **oświadczenia z § 12 ust. 1** - obowiązkowe, składane przez zaznaczenie pól w formularzu.
 
-2. Na jeden numer telefonu przypada jedno zgłoszenie w edycji; zgłoszenie potwierdzane jest jednorazowym kodem przesłanym na ten numer. Organizator nie przechowuje numeru w postaci jawnej.
+2. Zgłoszenie potwierdzane jest jednorazowym kodem przesłanym na podany numer telefonu. Organizator nie przechowuje numeru w postaci jawnej.
+2a. **Limit dotyczy osoby, nie numeru telefonu.** Jedna osoba może reprezentować **jedno zgłoszenie w tym plebiscycie i w tej edycji**; numer telefonu jest wyłącznie narzędziem weryfikacji, a nie definicją osoby. Osoba, która nie może odebrać wiadomości SMS albo korzysta z numeru wspólnego z inną osobą, zgłasza to na adres wskazany w § 1; Organizator ustala wówczas inny, równie wiarygodny sposób potwierdzenia zgłoszenia. **Brak własnego numeru telefonu nie może być powodem wykluczenia.** Limit nie przenosi się między plebiscytami: ta sama osoba może zgłosić po jednej pracy w każdym z czterech plebiscytów Nagrody.
 
 3. **Organizator nie przechowuje kopii filmu.** Film pozostaje w serwisie, w którym opublikował go Uczestnik, i to Uczestnik nim zarządza. Projektornia i Archiwum są katalogiem, nie repozytorium: zawierają tytuł, podpis, miniaturę, zwiastun, opis, deklarację i link. Zwiastun jest w nich odtwarzany z serwisu Uczestnika, a nie z kopii po stronie Organizatora.
 
