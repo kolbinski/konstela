@@ -24,7 +24,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
 - **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii - [obie drogi są dobrowolne](#licytacja)
 - zgłaszasz **jedną pracę w jednej edycji**
-- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż w pozostałych plebiscytach, bo antologia musi zdążyć do druku
+- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo antologia musi zdążyć do druku
 
 ## <!--ikona:medal--><span>O czym jest Nagroda Konstela</span>
 
@@ -277,7 +277,7 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, raz
 
 Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** - oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
 
-**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę z AI**, bo antologia musi zdążyć do druku.
+**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór rozmów i piosenek**, bo antologia musi zdążyć do druku.
 
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 

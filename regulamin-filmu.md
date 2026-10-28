@@ -175,7 +175,7 @@
 
 ## § 7. Kryteria oceny
 
-1. Filmy ocenia się według czterech kryteriów, każdego osobno, w skali stu punktów:
+1. Filmy ocenia się według czterech kryteriów, **łącznie do 100 punktów, w podziale wskazanym w tabeli**:
 
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
@@ -270,7 +270,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 3. Członkowie jury otrzymują honorarium za ocenę zgłoszeń.
 3a. **Jak liczy się wynik.** Wynikiem zgłoszenia na każdym etapie jest **średnia arytmetyczna ważnych ocen** wystawionych przez oceniających, którzy zgłoszenie oceniali. **Kolejność ustala się na podstawie wartości przed zaokrągleniem**; zaokrąglenie do jednego miejsca po przecinku służy wyłącznie prezentacji. **Brak oceny oznacza się jako „nie oceniano" i nigdy nie liczy jak zero** - dotyczy to w szczególności oceniającego wyłączonego od oceny danego zgłoszenia. **Liczby głosów publiczności nie dodaje się do punktów akademii ani jury**; nagroda publiczności jest ustalana odrębnie.
 
-4. **Pierwsze przejście oceny przeprowadza akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły weryfikację formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą.
+4. **Pierwsze przejście oceny przeprowadza akademia filmu**, powoływana w każdej edycji. Akademia ogląda wszystkie zgłoszenia, które przeszły weryfikację formalną, według karty oceny z § 7, bez stosowania jakichkolwiek innych kryteriów, i przekazuje jury listę węższą. Członkowie akademii otrzymują wynagrodzenie na zasadach określonych i ogłoszonych przed przyjęciem przez nich zadań, razem ze składem akademii.
 
 4a. **Zasady pracy akademii** Organizator ogłasza przed otwarciem naboru i nie zmienia ich w trakcie: liczebność akademii, liczbę niezależnych obejrzeń przypadających na jeden film, sposób łączenia ocen w wynik zgłoszenia, liczebność listy węższej oraz sposób rozstrzygania równej liczby punktów na jej granicy.
 

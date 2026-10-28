@@ -84,7 +84,7 @@ Uczestnik, który nie może odebrać wiadomości SMS, ustala z Administratorem i
 
 To jest w całej Nagrodzie dane najbardziej wrażliwe dla Uczestnika i dlatego opisujemy je osobno.
 
-**Co nagranie zawiera.** Obraz pracy, rąk pracującego nad nią, **twarzy Uczestnika** oraz tego, co znalazło się w kadrze - zwykle fragmentu pracowni albo mieszkania. Regulamin wymaga, by nagranie zawierało nieprzerwane przejście kadru od twarzy Uczestnika do pracy (§ 4a ust. 3 lit. c1).
+**Co nagranie zawiera.** Obraz pracy, rąk pracującego nad nią, **twarzy Uczestnika** oraz tego, co znalazło się w kadrze - zwykle fragmentu pracowni albo mieszkania. Regulamin wymaga, by nagranie spełniało jeden z dwóch wariantów: **twarz, pracę i rękę w jednym kadrze** albo **nieprzerwane przejście kadru od twarzy Uczestnika do pracy** (§ 4a ust. 3 lit. c i c1).
 
 **Po co.** Wyłącznie po to, by stwierdzić, że pracę wykonuje osoba, która ją zgłosiła. Plebiscyt stawia wymóg wykonania ręcznego, a bez nagrania wymóg ten opierałby się wyłącznie na oświadczeniu. Nagranie nie podlega ocenie w żadnym kryterium.
 
@@ -160,7 +160,7 @@ Hosting strony zapewnia GitHub, Inc., co może wiązać się z przekazaniem dany
 
 Przysługuje prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, przenoszenia, wniesienia sprzeciwu wobec przetwarzania opartego na prawnie uzasadnionym interesie oraz cofnięcia zgody w dowolnym momencie, bez wpływu na zgodność z prawem przetwarzania dokonanego przed jej cofnięciem.
 
-Przysługuje również prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, ul. Stawki 2, 00-193 Warszawa.
+Przysługuje również prawo wniesienia skargi do Prezesa Urzędu Ochrony Danych Osobowych, ul. Stanisława Moniuszki 1A, 00-014 Warszawa.
 
 Wszystkie powyższe sprawy załatwiane są pod adresem kontakt@konstela.org.
 
