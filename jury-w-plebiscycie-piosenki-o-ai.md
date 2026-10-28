@@ -6,7 +6,7 @@
 
 **Muzyków, wokalistów, autorów tekstów i producentów** – osób, które na co dzień pracują przy piosence i potrafią ocenić cudzą. Dorobek sceniczny, dyskografia ani rozpoznawalność nie są warunkiem; liczy się doświadczenie w robieniu piosenek i gotowość do uzasadnienia własnej oceny.
 
-Skład kompletujemy teraz, przed otwarciem naboru, bo **wagi kryteriów i karta oceny powstają z udziałem jury**, a nie po jego powołaniu.
+Skład kompletujemy teraz, przed otwarciem naboru, bo **wagi kryteriów i karta oceny powstają z udziałem jury**.
 
 ## <!--ikona:nuta--><span>O co chodzi</span>
 
