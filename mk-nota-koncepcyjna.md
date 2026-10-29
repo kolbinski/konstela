@@ -4,7 +4,13 @@
 
 **W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
 
-Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji, otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie, oraz otwarty plebiscyt na film o sztucznej inteligencji. Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w [rozdziale 2](#2-problem-ktory-adresujemy), a ich konstrukcja i kosztorysy w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film).
+Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali rozdania nagród:
+
+- otwarty plebiscyt na piosenkę o sztucznej inteligencji;
+- otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie;
+- otwarty plebiscyt na film o sztucznej inteligencji.
+
+Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w [rozdziale 2](#2-problem-ktory-adresujemy), a ich konstrukcja i kosztorysy w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film).
 
 **Proszę o dwie rzeczy, niezależne od siebie:**
 
@@ -143,7 +149,7 @@ Niezależnie od tego oceniający nie ocenia zgłoszenia osoby, którą zna osobi
 
 Przed ogłoszeniem wyników organizator rozmawia z każdym z dziesięciu finalistów o treści jego zgłoszenia. Rozmowa sprawdza, czy uczestnik rozumie własne zgłoszenie, i nie zmienia punktacji przyznanej przez jury. Nie jest to moment wykrywania inscenizacji: osobne postępowanie w tej sprawie wszczyna się wyłącznie z sygnału, pisemnie, z ciężarem wykazania po stronie organizatora, a w razie wątpliwości zgłoszenie zostaje.
 
-## 4. Kto ocenia: Akademia i jury
+## 4. Kto ocenia: akademia i jury
 
 Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
@@ -153,7 +159,7 @@ Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dl
 
 Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, która rozstrzyga o dziesiątce antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co akademia i jury rozstrzygają, decyduje o antologii i o nagrodach, a nie o obecności w Archiwum.
 
-### jury - profil składu
+### Jury - profil składu
 
 Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron:
 
@@ -170,7 +176,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 ## 5. Nagrody
 
-**Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł oraz siedem wyróżnień po 3 tys. zł**, czyli pula 371 tys. zł. Uzasadnienie kwoty w punkcie 9.
+**Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł oraz siedem wyróżnień po 3 tys. zł**, czyli pula 371 tys. zł. Uzasadnienie kwoty w rozdziale 6.
 
 **Fizyczne:** medal z pieczęcią Nagrody, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
@@ -306,7 +312,7 @@ Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich
 
 Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora. **Arkusz budżetowy pierwszej edycji podaje dla plebiscytu na piosenkę o sztucznej inteligencji 254 600 zł netto w wariancie bazowym** i składa się on z: 195 200 zł kosztów twardych przy środku widełek, 36 300 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń, skalowanej ich liczbą - oraz 23 100 zł rezerwy na nieprzewidziane. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
 
-Cztery uwagi do tego kosztorysu, powiedziane wprost.
+Pięć uwag do tego kosztorysu, powiedzianych wprost.
 
 ### Pozycje nierozstrzygnięte
 
@@ -423,7 +429,7 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Obsługa prawna regulaminu plebiscytu | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
 
-Pięć uwag do tego kosztorysu, powiedzianych wprost.
+Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
 ### Skąd biorą się te liczby
 
@@ -500,7 +506,7 @@ Cztery kryteria, łącznie 100 punktów, te same dla akademii filmu i dla jury. 
 | Dojazd i nocleg finalistów na galę | do wyceny |
 | Obsługa prawna regulaminu plebiscytu | do wyceny |
 
-Cztery uwagi do tego kosztorysu.
+Dwie uwagi do tego kosztorysu.
 
 ### Czego ten kosztorys nie obejmuje
 

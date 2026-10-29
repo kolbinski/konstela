@@ -64,7 +64,7 @@ Pierwszym działaniem jest otwarty plebiscyt na piosenkę o sztucznej inteligenc
 
 Elementem plebiscytu jest produkcja nagrań studyjnych dziesięciu najwyżej ocenionych utworów, finansowana przez organizatora, z prawami pozostającymi przy autorach. Udział w jury zadeklarował Michał Sołtan, wokalista, półfinalista 14. edycji programu The Voice of Poland; pozostałych członków nie wymieniam, dopóki nie potwierdzą udziału na piśmie.
 
-Reguły weryfikacji, zakres licencji, konstrukcję oceny i kosztorys opisuje **rozdział 7 załączonej noty koncepcyjnej, „Plebiscyt na piosenkę i gala"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke](https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke).
+Reguły weryfikacji, zakres licencji, konstrukcję oceny i kosztorys opisuje **rozdział 7 załączonej noty koncepcyjnej, „Plebiscyt na piosenkę"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke](https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke).
 
 ### Plebiscyt na plakat o sztucznej inteligencji
 
@@ -90,7 +90,7 @@ Czwartym działaniem jest nagranie piosenki - hymnu przedsięwzięcia do tekstu 
 
 Premierę planuję w 2027 roku, w czasie trwania naboru. Hymn wraz z trzema najwyżej ocenionymi utworami plebiscytu zostanie wykonany na żywo podczas gali rozstrzygnięcia pierwszej edycji, w drugiej połowie kwietnia 2028 roku.
 
-Obsadę, niezmienność tytułu i refrenu oraz kosztorys hymnu wraz z teledyskiem opisuje **rozdział 7 załączonej noty koncepcyjnej, „Plebiscyt na piosenkę i gala"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke](https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke). Tekst w wersji roboczej jest dostępny pod adresem [konstela.org/hymn](https://konstela.org/hymn/).
+Obsadę, niezmienność tytułu i refrenu oraz kosztorys hymnu wraz z teledyskiem opisuje **rozdział 7 załączonej noty koncepcyjnej, „Plebiscyt na piosenkę"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke](https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke). Tekst w wersji roboczej jest dostępny pod adresem [konstela.org/hymn](https://konstela.org/hymn/).
 
 ### Podcast towarzyszący Nagrodzie
 
@@ -141,7 +141,7 @@ Proszę również o wskazanie, czy plebiscyt na piosenkę o sztucznej inteligenc
 
 Proszę o potwierdzenie statusu wnioskodawcy. Specyfikacja programu Muzyka na rok 2026, podobnie jak specyfikacje Sztuk wizualnych i Edukacji kulturalnej na ten rok, wymienia osoby fizyczne prowadzące działalność gospodarczą wprost wśród uprawnionych wnioskodawców spoza sektora finansów publicznych i na tej podstawie przyjmuję, że prowadzona przeze mnie działalność wpisana do CEIDG byłaby wnioskodawcą uprawnionym.
 
-Jeżeli zasady naboru na rok 2027 nie zostały jeszcze ogłoszone, proszę o wskazanie, gdzie zostaną opublikowane warunki dotyczące uprawnionych wnioskodawców, oraz czy zasada ta obowiązuje analogicznie w pozostałych rozważanych programach. Proszę również o wskazanie, czy fundacja musi być wpisana do Krajowego Rejestru Sądowego najpóźniej w dniu złożenia wniosku i czy obowiązuje wymóg minimalnego okresu jej działalności.
+Jeżeli zasady naboru wniosków na rok 2027 nie zostały jeszcze ogłoszone, proszę o wskazanie, gdzie zostaną opublikowane warunki dotyczące uprawnionych wnioskodawców, oraz czy zasada ta obowiązuje analogicznie w pozostałych rozważanych programach. Proszę również o wskazanie, czy fundacja musi być wpisana do Krajowego Rejestru Sądowego najpóźniej w dniu złożenia wniosku i czy obowiązuje wymóg minimalnego okresu jej działalności.
 
 Dodam, że działalność gospodarczą i fundację rozważam jako **alternatywnych wnioskodawców**, a nie jako następstwo - nie zakładam dopuszczalności przejęcia przez fundację zadania rozpoczętego przez moją działalność i o taką możliwość nie wnoszę.
 
@@ -158,7 +158,7 @@ Rozkład kosztów na lata jest następujący:
 - **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
 - **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę kwietnia 2028 roku.
 
-Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: przesyłka oryginałów do Organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace mają dotrzeć przed oględzinami na początku lutego 2028, natomiast realizacja wystawy i przesyłki powrotne przypadają na 2028 rok.
+Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: przesyłka oryginałów do organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace mają dotrzeć przed oględzinami na początku lutego 2028, natomiast realizacja wystawy i przesyłki powrotne przypadają na 2028 rok.
 
 ## Pytanie 4: który nabór wniosków wybrać i wydatki sprzed zawarcia umowy
 
