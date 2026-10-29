@@ -144,11 +144,11 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 ## 8. Nagrody
 
-**Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł oraz siedem wyróżnień po 10 tys. zł**, czyli pula 395 tys. zł. Uzasadnienie kwoty w punkcie 9.
+**Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł oraz siedem wyróżnień po 3 tys. zł**, czyli pula 371 tys. zł. Uzasadnienie kwoty w punkcie 9.
 
 **Fizyczne:** medal z pieczęcią Nagrody, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
-Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach 10, 10a i 10c; nie wchodzą do puli 395 tys. zł i nie są z niej finansowane.
+Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach 10, 10a i 10c; nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
 
 **Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie. Uczestnik może wycofać swoje zgłoszenie z plebiscytu nie później niż do dnia zamknięcia treści antologii, to jest do 29 lutego 2028 roku; po tym dniu książka jest drukowana i wprowadzana do dystrybucji, więc wycofanie nie jest możliwe.
 
@@ -160,7 +160,7 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 
 | Rola | Kwota netto | Co finansuje |
 |---|---:|---|
-| Fundator puli nagród | 535 996,80 zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu |
+| Fundator puli nagród | 511 996,80 zł | pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu |
 | Sponsor gali | 35 168,00 zł | gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru |
 | Partner wydawniczy lub sponsor organizacyjny | 292 422,00 zł | produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie Archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu |
 | Sponsor akademii | 160 160,00 zł | pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń |
@@ -183,7 +183,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 | Działanie | Rezultat | Rok kosztu | Obecnie wyceniony koszt netto | Planowane źródło | Czy pytam MKiDN |
 |---|---|---|---:|---|---|
-| Plebiscyt na rozmowę: nabór, ocena, prowadzenie | laureat i dziesiątka finalistów | 2027-2028 | 535 996,80 zł | fundator puli nagród | nie |
+| Plebiscyt na rozmowę: nabór, ocena, prowadzenie | laureat i dziesiątka finalistów | 2027-2028 | 511 996,80 zł | fundator puli nagród | nie |
 | Gala rozstrzygnięcia czterech plebiscytów | wydarzenie publiczne wraz z zapisem wideo | 2028 | 35 168,00 zł | sponsor gali | nie |
 | Antologia i Archiwum, w tym krótki nakład na galę | e-book bezpłatny, Archiwum, egzemplarze dla laureatów | 2027-2028 | 292 422,00 zł | partner wydawniczy lub sponsor organizacyjny | nie |
 | Pierwsza runda oceny: Akademia rozmów i akademia filmu | przesiew zgłoszeń, dwa odczyty rozmowy i dwa obejrzenia filmu na zgłoszenie | 2027-2028 | 160 160,00 zł | sponsor akademii | nie |
@@ -202,7 +202,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 Prośba o wskazanie drogi finansowania dotyczy wyłącznie wierszy oznaczonych „tak". Pozostałe wymieniam, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
 
-Suma wierszy oznaczonych „tak" wynosi dziś **663 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. **Siedemnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
+Suma wierszy oznaczonych „tak" wynosi dziś **639 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. **Siedemnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
 
 - w plebiscycie na piosenkę: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów;
 - w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów, a warunkowo wystawa w galerii sztuki;

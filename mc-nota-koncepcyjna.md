@@ -112,7 +112,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 ## 8. Nagrody
 
-**Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł oraz siedem wyróżnień po 10 tys. zł**, czyli pula 395 tys. zł. Uzasadnienie kwoty w punkcie 9.
+**Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł oraz siedem wyróżnień po 3 tys. zł**, czyli pula 371 tys. zł. Uzasadnienie kwoty w punkcie 9.
 
 **Fizyczne:** medal z pieczęcią plebiscytu, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów.
 
@@ -126,7 +126,7 @@ Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy fin
 
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
-| Fundator nagrody i gali | ok. 571 tys. zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), honoraria jury i akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie plebiscytu |
+| Fundator nagrody i gali | ok. 547 tys. zł | pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), honoraria jury i akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie plebiscytu |
 | Partner wydawniczy | ok. 233 tys. zł **[do sprawdzenia: arkusz daje 271,7 tys. zł]** | produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie Archiwum i kopii rozmów, powołanie fundacji |
 | **Razem** | **ok. 837 tys. zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
