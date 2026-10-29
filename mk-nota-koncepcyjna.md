@@ -232,7 +232,7 @@ Jest to budżet przygotowany dla partnerów, jakich będę poszukiwał, a nie ko
 
 Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
-Pozycje objęte pytaniem sumują się dziś do **665 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną.
+Pozycje objęte pytaniem sumują się dziś do **660 952,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **157 360,00 zł na 2027 rok** i **503 592,00 zł na 2028 rok**.
 
 **Szesnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
 
