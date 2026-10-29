@@ -1,5 +1,7 @@
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-list-intencyjny/*
 
+**PROJEKT POMOCNICZY, DO SWOBODNEJ ZMIANY LUB ODRZUCENIA.** Treść poniższa jest propozycją wnioskodawcy, przygotowaną wyłącznie dla wygody Ministerstwa; o formie i zakresie ewentualnego stanowiska rozstrzyga Ministerstwo.
+
 [nagłówek Ministerstwa Kultury i Dziedzictwa Narodowego]
 
 
@@ -18,7 +20,7 @@ LIST INTENCYJNY
 
 Ministerstwo Kultury i Dziedzictwa Narodowego zapoznało się z przedstawioną koncepcją Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z systemami sztucznej inteligencji - oraz z towarzyszącymi jej wydawnictwami: antologią najwyżej ocenionych rozmów każdej edycji, publikowaną nieodpłatnie, i publicznym Archiwum szerszego zbioru rozmów.
 
-Ministerstwo stwierdza, że tematyka przedsięwzięcia wpisuje się w obszar upowszechniania kultury i czytelnictwa oraz dokumentowania dorobku polskojęzycznego. Powstający zbiór ma być zapisem tego, jak użytkownicy języka polskiego posługują się nowym narzędziem w okresie jego wchodzenia do powszechnego użytku, i jako taki może stanowić materiał źródłowy dla przyszłych badań nad językiem, kulturą i techniką. Ministerstwo odnotowuje również, że antologia i Archiwum mają być udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu.
+Ministerstwo stwierdza, że tematyka przedsięwzięcia wpisuje się w obszar upowszechniania kultury i czytelnictwa oraz dokumentowania dorobku polskojęzycznego. Powstający zbiór ma być zapisem tego, jak użytkownicy języka polskiego posługują się nowym narzędziem w okresie jego wchodzenia do powszechnego użytku. Ministerstwo odnotowuje również, że antologia i Archiwum mają być udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu.
 
 Niniejsze stanowisko odnosi się wyłącznie do zgodności tematyki przedsięwzięcia z obszarem działania Ministerstwa. Nie zawiera oceny jakości plebiscytu, jego regulaminu ani przyjętych kryteriów oceny, nie stanowi rekomendacji organizatora i nie jest zapewnieniem, że przedsięwzięcie zostanie zrealizowane.
 
