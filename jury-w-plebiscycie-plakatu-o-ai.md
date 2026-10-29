@@ -38,7 +38,7 @@ Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnien
 
 ### Co dostają finaliści
 
-Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [antologii](/#antologia)** najlepszych rozmów z AI, planowanej jako bezpłatny e-book, a po pozyskaniu wydawcy również w druku. Prace całej dziesiątki pokazujemy na wystawie przy gali: opakowanie, transport w obie strony, przechowywanie i ubezpieczenie oryginałów pokrywa organizator. Jeżeli uda się pozyskać galerię, po gali odbywa się druga wystawa, z wernisażem i cichą licytacją oryginałów – i to już na osobnych, pisemnych warunkach, których finalista nie musi przyjmować.
+Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [antologii](/#co-zostaje-po-edycji)** najlepszych rozmów z AI, planowanej jako bezpłatny e-book, a po pozyskaniu wydawcy również w druku. Prace całej dziesiątki pokazujemy na wystawie przy gali: opakowanie, transport w obie strony, przechowywanie i ubezpieczenie oryginałów pokrywa organizator. Jeżeli uda się pozyskać galerię, po gali odbywa się druga wystawa, z wernisażem i cichą licytacją oryginałów – i to już na osobnych, pisemnych warunkach, których finalista nie musi przyjmować.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 

@@ -10,7 +10,7 @@
 
 ## <!--ikona:mikrofon--><span>Co to za plebiscyt</span>
 
-Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje”, rozstrzyga [sekcja o zasadach](#zasady) – melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła – to, co w tym powiesz, jest częścią tego, co oceniamy.
+Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w świecie**: Twój tekst, Twoja muzyka, Twoje wykonanie. Co dokładnie znaczy tu „Twoje”, rozstrzyga [sekcja o zasadach](#zasady-melodia-tekst-i-ai) – melodia i głos są ludzkie bez wyjątków, przy tekście wolno posiłkować się AI, byle powiedzieć jak. Nie dajemy gotowych słów ani hasła – to, co w tym powiesz, jest częścią tego, co oceniamy.
 
 **W skrócie:**
 
@@ -23,7 +23,7 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 - jury wybiera **dziesięciu finalistów**
 - każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim
 - autorzy **trzech najwyżej ocenionych utworów** są zapraszani do wykonania ich na żywo na gali
-- Twoja piosenka jest dostępna **w [Słuchalni](#sluchalnia) przez cały nabór, a po gali w publicznym [Archiwum](#archiwum)**
+- Twoja piosenka jest dostępna **w [Słuchalni](#sluchalnia-i-archiwum) przez cały nabór, a po gali w publicznym [Archiwum](#archiwum)**
 - zgłaszasz **jedną piosenkę w jednej edycji**
 - nabór zamykamy **31 grudnia 2027**
 
@@ -45,7 +45,7 @@ Dlatego temat plebiscytu jest szeroki i dlatego nie podajemy gotowych tekstów p
 
 ### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna na pokazanie zgłoszenia w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum) – bez tego zgłoszenia nie da się przyjąć, bo prezentacja jest warunkiem udziału. Pozostałe zgody – na odbiór nagrody, udział w nagraniu studyjnym, udział w gali i wykonanie utworu – są rozpatrywane osobno i brak którejś wyklucza tylko z tej jednej rzeczy.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna na pokazanie zgłoszenia w [Słuchalni](#sluchalnia-i-archiwum) i w [Archiwum](#archiwum) – bez tego zgłoszenia nie da się przyjąć, bo prezentacja jest warunkiem udziału. Pozostałe zgody – na odbiór nagrody, udział w nagraniu studyjnym, udział w gali i wykonanie utworu – są rozpatrywane osobno i brak którejś wyklucza tylko z tej jednej rzeczy.
 
 ### Co możesz zgłosić
 
@@ -73,21 +73,21 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej, czyli co sprawia, że warto posłuchać tej piosenki
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto posłuchać tej piosenki**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Słuchalni](#sluchalnia) w czasie naboru i w Archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto posłuchać tej piosenki**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Słuchalni](#sluchalnia-i-archiwum) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Link do nagrania i okładka
 
 **Przesyłasz link do nagrania na YouTube, nie plik.**
 
-**Do tego jedna okładka** – kwadratowy obrazek. To on reprezentuje Twoją piosenkę w [Słuchalni](#sluchalnia) i w [Archiwum](#archiwum). Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze – musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.**
+**Do tego jedna okładka** – kwadratowy obrazek. To on reprezentuje Twoją piosenkę w [Słuchalni](#sluchalnia-i-archiwum) i w [Archiwum](#archiwum). Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze – musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.**
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
-<h2 id="zasady"><!--ikona:zasady--><span>Zasady: melodia, tekst i AI</span></h2>
+<h2 id="zasady-melodia-tekst-i-ai"><!--ikona:zasady--><span>Zasady: melodia, tekst i AI</span></h2>
 
 **Melodia i głos są ludzkie, tekst wolno napisać z AI.** Granice poniżej dotyczą pochodzenia tego, co zgłaszasz, a nie tego, z czego korzystasz po drodze.
 
@@ -172,7 +172,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych piosenek</h3>
-<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#oceny-publicznosci">najlepszą według Ciebie piosenkę</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#nagroda-dla-publicznych-ocen-zgloszonych-piosenek">najlepszą według Ciebie piosenkę</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
 </article>
 <article>
 <h3>Nagranie studyjne dla dziesiątki finalistów</h3>
@@ -192,7 +192,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 
 **Płyta jest planem, nie obietnicą.** Chcemy wydać te nagrania na płycie, ale zależy to od pozyskania wydawnictwa i od osobnej umowy, którą zawrzesz z nim Ty, nie my. **Nagrania powstaną niezależnie od tego, czy wydawnictwo się znajdzie**, a odmowa umowy z nim nie odbiera Ci ani nagrania, ani praw do niego.
 
-<h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych piosenek</span></h2>
+<h2 id="nagroda-dla-publicznych-ocen-zgloszonych-piosenek"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych piosenek</span></h2>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** – od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
@@ -210,7 +210,7 @@ Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – traf
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
-<h2 id="sluchalnia"><!--ikona:sluchalnia--><span>Słuchalnia i Archiwum</span></h2>
+<h2 id="sluchalnia-i-archiwum"><!--ikona:sluchalnia--><span>Słuchalnia i Archiwum</span></h2>
 
 **Utwory, które przeszły weryfikację formalną, umieszczamy w Słuchalni** – rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, **tekst utworu**, podpis, uzasadnienie „dlaczego warte nagrody głównej”, deklarację użycia AI, link do nagrania oraz **kontakt do Ciebie**, czyli link do Twojej strony albo profilu, jeżeli go podałeś w zgłoszeniu.
 

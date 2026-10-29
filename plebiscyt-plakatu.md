@@ -12,7 +12,7 @@
 
 Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek: **obraz ma powstać pod ludzką ręką**.
 
-**Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [antologii](/#antologia)** – książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
+**Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [antologii](/#co-zostaje-po-edycji)** – książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
 
 **W skrócie:**
 
@@ -22,9 +22,9 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** – zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję – bez utraty nagrody i miejsca w werdykcie
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
-- zwycięska praca trafia na okładkę **[antologii](/#antologia)** – zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
-- wszystkie zgłoszenia trafiają do **[Galerii](#galeria)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
-- **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii – [obie drogi są dobrowolne](#licytacja)
+- zwycięska praca trafia na okładkę **[antologii](/#co-zostaje-po-edycji)** – zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
+- wszystkie zgłoszenia trafiają do **[Galerii](#galeria-i-archiwum)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
+- **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii – [obie drogi są dobrowolne](#sprzedaz-pracy-dwie-drogi-obie-dobrowolne)
 - zgłaszasz **jedną pracę w jednej edycji**
 - nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo antologia musi zdążyć do druku
 
@@ -73,15 +73,15 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej, czyli co sprawia, że warto zatrzymać się przy tej pracy
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto zatrzymać się przy tej pracy**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Galerii](#galeria) w czasie naboru i w Archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto zatrzymać się przy tej pracy**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Galerii](#galeria-i-archiwum) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Link do własnej sprzedaży
 
-**Link do aukcji albo oferty sprzedaży pracy i data jej zakończenia – nieobowiązkowo.** Jeżeli wystawiasz pracę na sprzedaż, podaj link i datę; pokażemy je przy Twoim wpisie w [Archiwum](#archiwum) do tej daty. Nie pośredniczymy w sprzedaży i nie bierzemy z niej nic – szczegóły opisuje sekcja o [sprzedaży pracy](#licytacja).
+**Link do aukcji albo oferty sprzedaży pracy i data jej zakończenia – nieobowiązkowo.** Jeżeli wystawiasz pracę na sprzedaż, podaj link i datę; pokażemy je przy Twoim wpisie w [Archiwum](#archiwum) do tej daty. Nie pośredniczymy w sprzedaży i nie bierzemy z niej nic – szczegóły opisuje sekcja o [sprzedaży pracy](#sprzedaz-pracy-dwie-drogi-obie-dobrowolne).
 
 ### Zdjęcie pracy, nagranie i materiały
 
@@ -178,7 +178,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych plakatów</h3>
-<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#oceny-publicznosci">najlepszy według Ciebie plakat</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#nagroda-dla-publicznych-ocen-zgloszonych-plakatow">najlepszy według Ciebie plakat</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
 </article>
 </div>
 
@@ -194,7 +194,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 
 **Wystawa w galerii sztuki – jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem – już z informacją o miejscach przyznanych przez jury. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć – nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
-<h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych plakatów</span></h2>
+<h2 id="nagroda-dla-publicznych-ocen-zgloszonych-plakatow"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych plakatów</span></h2>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** – od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
@@ -210,7 +210,7 @@ Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – traf
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
-<h2 id="galeria"><!--ikona:galeria--><span>Galeria i Archiwum</span></h2>
+<h2 id="galeria-i-archiwum"><!--ikona:galeria--><span>Galeria i Archiwum</span></h2>
 
 ### Galeria
 
@@ -232,7 +232,7 @@ Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach.
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
 
-<h2 id="licytacja"><!--ikona:licytacja--><span>Sprzedaż pracy – dwie drogi, obie dobrowolne</span></h2>
+<h2 id="sprzedaz-pracy-dwie-drogi-obie-dobrowolne"><!--ikona:licytacja--><span>Sprzedaż pracy – dwie drogi, obie dobrowolne</span></h2>
 
 Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwie osobne drogi i nic nie każe wybierać jednej z nich.
 

@@ -58,9 +58,9 @@
       .replace(/^-+|-+$/g, '')
       .slice(0, 60);
     if (!slug) return '';
-    var kandydat = 'do-' + slug;
+    var kandydat = slug;
     var n = 2;
-    while (uzyte[kandydat]) kandydat = 'do-' + slug + '-' + n++;
+    while (uzyte[kandydat]) kandydat = slug + '-' + n++;
     uzyte[kandydat] = true;
     return kandydat;
   }

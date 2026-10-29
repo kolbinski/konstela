@@ -38,7 +38,7 @@ Zgłoszeniem w plebiscycie jest demo: link do nagrania na własnym kanale, bez w
 
 ### Co dostają finaliści
 
-**Każdy z dziesięciu finalistów otrzymuje nagranie swojego utworu w studiu na koszt organizatora, a gotowe nagranie zostaje przy autorze piosenki** – może je wydać, umieścić w serwisach i grać, a fundacja nie bierze z tego prowizji. Laureaci trzech pierwszych miejsc otrzymują nagrody pieniężne, a zwycięską trójkę zapraszamy do wykonania utworów na żywo podczas [gali rozdania nagród](/#gala).
+**Każdy z dziesięciu finalistów otrzymuje nagranie swojego utworu w studiu na koszt organizatora, a gotowe nagranie zostaje przy autorze piosenki** – może je wydać, umieścić w serwisach i grać, a fundacja nie bierze z tego prowizji. Laureaci trzech pierwszych miejsc otrzymują nagrody pieniężne, a zwycięską trójkę zapraszamy do wykonania utworów na żywo podczas [gali rozdania nagród](/#gala-rozdania-nagrod).
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 

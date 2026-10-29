@@ -19,9 +19,9 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 **W skrócie:**
 
 - **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
-- **publiczność ma własne nagrody**, niezależne od werdyktu jury: [Nagrodę Publiczności](#nagroda-publicznosci), a obok niej [Nagrodę Uczniowską](#nagroda-uczniowska) wskazywaną przez grupy szkolne
+- **publiczność ma własne nagrody**, niezależne od werdyktu jury: [Nagrodę Publiczności](#nagroda-publicznosci), a obok niej [Nagrodę Uczniowską](#jak-dziala-nagroda-uczniowska) wskazywaną przez grupy szkolne
 - **dziesięć najlepszych rozmów** składa się na antologię – bezpłatny e-book, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie – rozmów w antologii może być mniej
-- wszystkie zgłoszenia trafiają do **[Czytelni](#czytelnia)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia)
+- wszystkie zgłoszenia trafiają do **[Czytelni](#czytelnia-i-archiwum)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia-i-archiwum)
 - **nie musisz znać się na sztucznej inteligencji** – zgłoszona rozmowa może być Twoją pierwszą w życiu rozmową z AI; oceniamy tę jedną rozmowę, a nie Twoje doświadczenie
 - zgłaszasz **jedną rozmowę w jednej edycji**
 - nabór zamykamy **15 stycznia 2028**
@@ -58,7 +58,7 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej, czyli co sprawia, że warto przeczytać tę rozmowę
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto przeczytać tę rozmowę**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Czytelni](#czytelnia) w czasie naboru i w Archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto przeczytać tę rozmowę**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Czytelni](#czytelnia-i-archiwum) w czasie naboru i w Archiwum po werdykcie.
 
 ### Co wpisać w tym polu
 
@@ -66,7 +66,7 @@ Napisz, co w tej rozmowie było dla Ciebie ważne i w którym miejscu to się wy
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Czytelni](#czytelnia) i w [Archiwum](#czytelnia). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Czytelni](#czytelnia-i-archiwum) i w [Archiwum](#czytelnia-i-archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Tytuł i opis
 
@@ -145,7 +145,7 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych rozmów</h3>
-<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#oceny-publicznosci">najlepszą według Ciebie rozmowę</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#nagroda-dla-publicznych-ocen-zgloszonych-rozmow">najlepszą według Ciebie rozmowę</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
 </article>
 </div>
 
@@ -155,22 +155,22 @@ Trzy werdykty – jury, uczniów i publiczności – są od siebie niezależne i
 
 ### Antologia
 
-**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#antologia)**, publikowaną jako **bezpłatny e-book**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#co-zostaje-po-edycji)**, publikowaną jako **bezpłatny e-book**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
 ### Nagroda Uczniowska
 
 <div class="kafle jedna-kolumna">
 <article>
-<h3 id="nagroda-uczniowska">Jak działa Nagroda Uczniowska</h3>
+<h3 id="jak-dziala-nagroda-uczniowska">Jak działa Nagroda Uczniowska</h3>
 <p><strong>Tę nagrodę rozstrzygają uczniowskie grupy czytające.</strong> Czytają i oceniają według <strong>tej samej jawnej karty oceny</strong> co akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.</p>
 <p><strong>Jedna szkoła – jedno wskazanie.</strong> Czytać może dowolnie wiele klas i uczniów. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami – to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej.</p>
 <p><strong>Zgłasza szkoła.</strong> Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium – jest decyzją szkoły, a nie poleceniem ministerstwa.</p>
 <p><strong>Jak sprawdzamy, że to naprawdę szkoła.</strong> W formularzu wybiera się szkołę z rejestru państwowego, a kod potwierdzający wysyłamy <strong>na adres tej szkoły zapisany w rejestrze</strong> – nie na adres wpisany przez zgłaszającego. Nauczyciel przepisuje kod i potwierdza zgłoszoną ocenę. Jeśli rejestr nie ma adresu albo adres nie działa, potwierdzamy telefonicznie, pod numerem szkoły z rejestru. Nie zbieramy przy tym żadnych danych uczniów – ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.</p>
-<p><strong>Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia oceny przez szkołę.</strong> Zgłaszając wskazanie, szkoła zgadza się na to, że rozmowy z <a href="#czytelnia">Czytelni</a> trafiają do czytania i oceniania przez grupy uczniowskie, w tym przez osoby niepełnoletnie. Szkoła nie wskazuje, które rozmowy są przedstawiane jej grupom do czytania i oceniania.</p>
+<p><strong>Zgoda na czytanie przez uczniów jest warunkiem zgłoszenia oceny przez szkołę.</strong> Zgłaszając wskazanie, szkoła zgadza się na to, że rozmowy z <a href="#czytelnia-i-archiwum">Czytelni</a> trafiają do czytania i oceniania przez grupy uczniowskie, w tym przez osoby niepełnoletnie. Szkoła nie wskazuje, które rozmowy są przedstawiane jej grupom do czytania i oceniania.</p>
 </article>
 </div>
 
-<h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych rozmów</span></h2>
+<h2 id="nagroda-dla-publicznych-ocen-zgloszonych-rozmow"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych rozmów</span></h2>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** – od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
@@ -186,7 +186,7 @@ Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – traf
 
 Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się z Tobą skontaktować w przypadku przyznania nagrody. Dane do wypłaty zbieramy dopiero od laureata.
 
-<h2 id="czytelnia"><!--ikona:sluchalnia--><span>Czytelnia i Archiwum</span></h2>
+<h2 id="czytelnia-i-archiwum"><!--ikona:sluchalnia--><span>Czytelnia i Archiwum</span></h2>
 
 ### Czytelnia
 

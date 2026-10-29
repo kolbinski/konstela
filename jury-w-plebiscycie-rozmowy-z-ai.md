@@ -91,7 +91,7 @@ Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrod
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-rozmowy#czytelnia) publikujemy wyniki poszczególnych etapów: oceny akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla rozmów, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-rozmowy#czytelnia-i-archiwum) publikujemy wyniki poszczególnych etapów: oceny akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla rozmów, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
 ### Antologia zostaje po edycji
 

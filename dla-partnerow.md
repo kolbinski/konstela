@@ -71,12 +71,12 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <article>
 <h3>Mecenas antologii i Archiwum</h3>
 <p>Redakcja, skład i druk antologii oraz utrzymanie publicznego Archiwum.</p>
-<p class="wiecej"><a href="/#antologia">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/#co-zostaje-po-edycji">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Partner wydawniczy antologii</h3>
 <p>Wydanie książkowe antologii: skład, druk nakładu handlowego i wprowadzenie go do dystrybucji przed galą, tak aby książka była w księgarniach bezpośrednio po premierze.</p>
-<p class="wiecej"><a href="/#antologia">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/#co-zostaje-po-edycji">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Mecenas muzyczny</h3>
@@ -106,7 +106,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <article>
 <h3>Sponsor gali</h3>
 <p><strong>Gala rozstrzygnięcia pierwszej edycji</strong>, wspólna dla wszystkich czterech plebiscytów: sala, technika i obsługa, oprawa artystyczna oraz rejestracja wideo i bezpłatne udostępnienie zapisu.</p>
-<p class="wiecej"><a href="/#gala">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/#gala-rozdania-nagrod">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Prowadzący podcast</h3>

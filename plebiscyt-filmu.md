@@ -2,7 +2,7 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) – napiszemy w dniu otwarcia naboru, a potem jeszcze raz, gdy [edycja będzie już pewna](#wymagania). Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
+**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) – napiszemy w dniu otwarcia naboru, a potem jeszcze raz, gdy [edycja będzie już pewna](#czego-od-ciebie-wymagamy-i-dlaczego). Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
 
 <img src="/assets/film.jpg" srcset="/assets/film-800.jpg 800w, /assets/film.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji.">
 
@@ -23,7 +23,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - zgłaszasz **link do filmu na swoim kanale w YouTube** – publicznego albo niepublicznego, z dostępem przez link – oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, dostępnego publicznie
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
-- Twój film jest dostępny **w [Projektorni](#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
+- Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
 - nabór zamykamy **30 listopada 2027**
@@ -62,7 +62,7 @@ Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma by
 
 ### Zanim zgłosisz: festiwale
 
-**Film nie musi być publiczny na YouTube** – wystarczy link niepubliczny. Powiedzmy jednak wprost, co to znaczy: **link pokazujemy w ogólnodostępnej [Projektorni](#projektornia), więc obejrzeć film będzie mógł każdy, kto na nią wejdzie**. Zmienia się to, że film nie jest wyszukiwalny w serwisie, a nie to, że jest niedostępny. Publicznie pokazujemy też zwiastun. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone – ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**, bo część z nich wymaga premiery albo wcześniejszej niedostępności w internecie. Tego ryzyka nie usuwa żadna nasza zgoda.
+**Film nie musi być publiczny na YouTube** – wystarczy link niepubliczny. Powiedzmy jednak wprost, co to znaczy: **link pokazujemy w ogólnodostępnej [Projektorni](#projektornia-i-archiwum), więc obejrzeć film będzie mógł każdy, kto na nią wejdzie**. Zmienia się to, że film nie jest wyszukiwalny w serwisie, a nie to, że jest niedostępny. Publicznie pokazujemy też zwiastun. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone – ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**, bo część z nich wymaga premiery albo wcześniejszej niedostępności w internecie. Tego ryzyka nie usuwa żadna nasza zgoda.
 
 ### Czego nie przyjmujemy
 
@@ -80,11 +80,11 @@ Zgłoszenie potwierdzamy **jednorazowym kodem z SMS**: na jeden numer telefonu p
 
 ### Dlaczego warte nagrody głównej, czyli co sprawia, że warto obejrzeć ten film
 
-W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto obejrzeć ten film**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Projektorni](#projektornia) w czasie naboru i w Archiwum po werdykcie.
+W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że warto obejrzeć ten film**. Tekst ten **nie podlega ocenie** w żadnym kryterium, ale jest widoczny publicznie przy Twoim zgłoszeniu: w [Projektorni](#projektornia-i-archiwum) w czasie naboru i w Archiwum po werdykcie.
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Dwa linki: film i zwiastun
 
@@ -100,7 +100,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 Do zgłoszenia dochodzą: **tytuł**, **czas trwania i data ukończenia**, **opis od 200 do 1500 znaków** o tym, czego film dotyczy, oraz **miniatura** w proporcjach 16:9, która może być wygenerowana przez AI. Opis i miniatura nie podlegają ocenie.
 
-**Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i Archiwum](#projektornia). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis – możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
+**Wszystko, co podajesz, jest publiczne poza trzema rzeczami: datą ukończenia filmu, Twoim adresem e-mail i numerem telefonu.** Pełną zawartość wpisu wylicza sekcja [Projektornia i Archiwum](#projektornia-i-archiwum). Imię i nazwisko widać tylko wtedy, gdy wskażesz je jako podpis – możesz zamiast nich podać pseudonim albo nazwę składu twórczego.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -175,11 +175,11 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 <article>
 <h3>Nagroda dla publicznych ocen zgłoszonych filmów</h3>
-<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#oceny-publicznosci">najlepszy według Ciebie film</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
+<p>Nagroda nie dla zgłaszającego, lecz <strong>dla osoby głosującej</strong>. Przy każdym głosie na <a href="#nagroda-dla-publicznych-ocen-zgloszonych-filmow">najlepszy według Ciebie film</a> piszesz swoje uzasadnienie, a najlepsze wybiera zespół spoza jury.</p>
 </article>
 </div>
 
-<h2 id="oceny-publicznosci"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych filmów</span></h2>
+<h2 id="nagroda-dla-publicznych-ocen-zgloszonych-filmow"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych filmów</span></h2>
 
 **Oddając głos w Nagrodzie Publiczności, uzasadniasz swój wybór** – od 200 do 1500 znaków, czyli od dwóch zdań do krótkiego akapitu, przy samym głosie. Bez uzasadnienia głos nie zostaje oddany. Zależy nam, aby to głosowanie było wyborem przemyślanym, a nie akcją zasięgową.
 
@@ -201,7 +201,7 @@ Kwalifikacja do dystrybucji kinowej dziesięciu filmów najwyżej ocenionych prz
 
 **Pieniądze z biletów są Twoje.** Rozwiązujemy to tak samo jak płytę w [plebiscycie na piosenkę](/plebiscyt-piosenki): zestaw składamy my, ale **umowę z dystrybutorem zawierasz Ty, nie my**, i Tobie przysługują wpływy z pokazów oraz z późniejszej eksploatacji filmu. Nie nabywamy praw dystrybucyjnych, nie bierzemy prowizji od sprzedaży biletów i nie pobieramy prowizji za to, że dystrybutora znaleźliśmy.
 
-<h2 id="projektornia"><!--ikona:projektornia--><span>Projektornia i Archiwum</span></h2>
+<h2 id="projektornia-i-archiwum"><!--ikona:projektornia--><span>Projektornia i Archiwum</span></h2>
 
 ### Projektornia
 
@@ -281,7 +281,7 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, raz
 
 Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
 
-<h2 id="wymagania"><!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span></h2>
+<h2 id="czego-od-ciebie-wymagamy-i-dlaczego"><!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span></h2>
 
 To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało – a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
 
@@ -308,7 +308,7 @@ Pytania o plebiscyt prosimy kierować na adres: **plebiscyt.filmu@konstela.org**
 
 Napisz, jeśli:
 
-- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz dwie wiadomości: w dniu otwarcia naboru oraz w dniu, w którym [edycja jest już pewna](#wymagania)
+- **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz dwie wiadomości: w dniu otwarcia naboru oraz w dniu, w którym [edycja jest już pewna](#czego-od-ciebie-wymagamy-i-dlaczego)
 - **jesteś twórcą filmowym i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
 - **chcesz oglądać i oceniać zgłoszenia w akademii filmu** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze

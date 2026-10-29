@@ -40,7 +40,7 @@ Chcemy wspierać powstawanie nowych filmów o doświadczeniu życia ze sztuczną
 
 ### Czym jest zgłoszenie
 
-Link do filmu opublikowanego **na kanale autora w YouTube**; film może być publiczny albo niepubliczny, dostępny przez link. Do tego link do publicznego **zwiastuna trwającego od 60 do 120 sekund**. Organizator nie przechowuje kopii filmu; zgłoszenia są dostępne w [Projektorni](/plebiscyt-filmu#projektornia) przez cały nabór, a po werdykcie w publicznym [Archiwum](/plebiscyt-filmu#archiwum).
+Link do filmu opublikowanego **na kanale autora w YouTube**; film może być publiczny albo niepubliczny, dostępny przez link. Do tego link do publicznego **zwiastuna trwającego od 60 do 120 sekund**. Organizator nie przechowuje kopii filmu; zgłoszenia są dostępne w [Projektorni](/plebiscyt-filmu#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](/plebiscyt-filmu#archiwum).
 
 ### Co dostają finaliści
 
