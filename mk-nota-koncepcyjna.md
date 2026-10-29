@@ -539,7 +539,7 @@ Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam prz
 
 Gala rozdania nagród rozstrzyga cztery plebiscyty naraz. Trzy najwyżej ocenione piosenki plebiscytu oraz hymn zostaną wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie kwietnia 2028 roku; oryginały dziesiątki finalistów plebiscytu na plakat o sztucznej inteligencji wiszą na wystawie towarzyszącej, pięć najwyżej ocenionych filmów prezentowanych jest w zwiastunach, a laureaci wszystkich plebiscytów odbierają nagrody.
 
-Antologia ma na gali premierę, już ze zwycięskim plakatem na okładce. Zapis gali zamierzam zrealizować i udostępnić bezpłatnie niezależnie od pozyskania nadawcy; wymaga to jednak finansowania rejestracji i odpowiedniego zakresu umów z wykonawcami, więc nie przedstawiam tego jako rezultatu bezwarunkowego. O relację lub transmisję zamierzam zwrócić się do nadawcy publicznego, w szczególności do TVP Kultura, ale rozmów w tej sprawie nie podjąłem i niczego tu nie zapowiadam.
+Antologia ma na gali premierę, już ze zwycięskim plakatem na okładce. Zapis gali zamierzam zrealizować i udostępnić bezpłatnie niezależnie od pozyskania nadawcy; wymaga to jednak finansowania rejestracji i odpowiedniego zakresu umów z wykonawcami, więc nie przedstawiam tego jako rezultatu bezwarunkowego. O relację lub transmisję zamierzam zwrócić się do nadawcy publicznego, ale rozmów w tej sprawie nie podjąłem i niczego tu nie zapowiadam.
 
 Pozostałe zgłoszenia są prezentowane na stronie przez cały rok trwania naboru, bezpłatnie i bez ograniczeń dostępu. Elementem gali jest również dialog czytany: zwycięzca czyta ze sceny swoją część rozmowy, a wypowiedzi sztucznej inteligencji czyta narrator wskazany przez organizatora.
 
