@@ -127,9 +127,9 @@ Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzą
 
 Uprzejmie proszę o stanowisko w pięciu sprawach formalnych.
 
-## Pytanie 1: który Program Ministra jest właściwy dla tego zadania
+## Pytanie 1: który Program Ministra jest właściwy dla Nagrody Konstela
 
-Po pierwsze, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym. Dla plebiscytu na piosenkę o sztucznej inteligencji rozważam programy Muzyka, Edukacja kulturalna, Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży; dla plebiscytu na plakat o sztucznej inteligencji - program Sztuki wizualne, ponieważ zadanie obejmuje tam plebiscyt, wystawę oryginałów prac finałowych i publiczne Archiwum reprodukcji; dla plebiscytu na film o sztucznej inteligencji - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
+Proszę o wskazanie, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym. Dla plebiscytu na piosenkę o sztucznej inteligencji rozważam programy Muzyka, Edukacja kulturalna, Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży; dla plebiscytu na plakat o sztucznej inteligencji - program Sztuki wizualne, ponieważ zadanie obejmuje tam plebiscyt, wystawę oryginałów prac finałowych i publiczne Archiwum reprodukcji; dla plebiscytu na film o sztucznej inteligencji - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
 
 Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a wydatki to pula nagród, pierwsze przejście oceny, honoraria jury i pokazy.
 
@@ -139,15 +139,15 @@ Nie mam również pewności ani tego, czy plebiscyt kompozytorsko-wykonawczy po�
 
 ## Pytanie 2: status wnioskodawcy - działalność gospodarcza albo fundacja
 
-Po drugie, o potwierdzenie statusu wnioskodawcy. Specyfikacja programu Muzyka na rok 2026, podobnie jak specyfikacje Sztuk wizualnych i Edukacji kulturalnej na ten rok, wymienia osoby fizyczne prowadzące działalność gospodarczą wprost wśród uprawnionych wnioskodawców spoza sektora finansów publicznych i na tej podstawie przyjmuję, że prowadzona przeze mnie działalność wpisana do CEIDG byłaby wnioskodawcą uprawnionym.
+Proszę o potwierdzenie statusu wnioskodawcy. Specyfikacja programu Muzyka na rok 2026, podobnie jak specyfikacje Sztuk wizualnych i Edukacji kulturalnej na ten rok, wymienia osoby fizyczne prowadzące działalność gospodarczą wprost wśród uprawnionych wnioskodawców spoza sektora finansów publicznych i na tej podstawie przyjmuję, że prowadzona przeze mnie działalność wpisana do CEIDG byłaby wnioskodawcą uprawnionym.
 
 Proszę o wskazanie, czy zasada ta ma zostać utrzymana w naborze na rok 2027 oraz czy obowiązuje analogicznie w pozostałych rozważanych programach. Proszę również o wskazanie, czy fundacja musi być wpisana do Krajowego Rejestru Sądowego najpóźniej w dniu złożenia wniosku i czy obowiązuje wymóg minimalnego okresu jej działalności.
 
 Dodam, że działalność gospodarczą i fundację rozważam jako **alternatywnych wnioskodawców**, a nie jako następstwo - nie zakładam dopuszczalności przejęcia przez fundację zadania rozpoczętego przez moją działalność i o taką możliwość nie wnoszę.
 
-## Pytanie 3: czy ten zakres może być zadaniem dwuletnim w latach 2027-2028
+## Pytanie 3: czy Nagroda Konstela może być zadaniem dwuletnim w latach 2027-2028
 
-Po trzecie, o warunki realizacji tego konkretnego zakresu w latach 2027-2028. Wiem, że Programy Ministra przewidują zadania dwuletnie, więc nie pytam o samą dopuszczalność, lecz o to, czy przedstawiony tu zakres może być zadaniem dwuletnim i jakie warunki finansowania wieloletniego są przewidywane.
+Proszę o wskazanie warunków realizacji tego zakresu w latach 2027-2028. Wiem, że Programy Ministra przewidują zadania dwuletnie, więc nie pytam o samą dopuszczalność, lecz o to, czy przedstawiony tu zakres może być zadaniem dwuletnim i jakie warunki finansowania wieloletniego są przewidywane.
 
 Rozkład kosztów na lata jest następujący:
 
@@ -164,11 +164,11 @@ Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze
 
 ## Pytanie 4: wybór naboru i koszty ponoszone przed podpisaniem umowy
 
-Po czwarte, o warunki, które pozwolą mi wybrać nabór. Proszę o wskazanie, czy wsparcie w naborze na rok 2028 mogłoby objąć wyodrębniony finał przedsięwzięcia rozpoczętego w 2027 roku, jakie znaczenie dla oceny wniosku ma wcześniejsze rozpoczęcie całości, a także **od kiedy mogą być ponoszone koszty kwalifikowalne, w jakim terminie przekazywane są środki i czy dopuszczalne jest finansowanie wydatków poniesionych przed podpisaniem umowy**. To ostatnie jest dla mnie istotniejsze niż sama dopuszczalność zadania dwuletniego: pierwsze koszty przypadają na początek 2027 roku, a finansowania pomostowego nie mam.
+Proszę o wskazanie warunków, które pozwolą mi wybrać nabór: czy wsparcie w naborze na rok 2028 mogłoby objąć wyodrębniony finał przedsięwzięcia rozpoczętego w 2027 roku, jakie znaczenie dla oceny wniosku ma wcześniejsze rozpoczęcie całości, a także **od kiedy mogą być ponoszone koszty kwalifikowalne, w jakim terminie przekazywane są środki i czy dopuszczalne jest finansowanie wydatków poniesionych przed podpisaniem umowy**. To ostatnie jest dla mnie istotniejsze niż sama dopuszczalność zadania dwuletniego: pierwsze koszty przypadają na początek 2027 roku, a finansowania pomostowego nie mam.
 
 ## Pytanie 5: wymagany udział środków z innych źródeł
 
-Po piąte, o udział środków pochodzących z innych źródeł. Proszę o wskazanie, **jaki udział jest w rozważanych programach wymagany lub preferowany** oraz czy może on zostać pokryty ze środków sponsorów prywatnych. Pytam dlatego, że przedsięwzięcia nie finansuję ze środków własnych, a rozmowy ze sponsorami prowadzę równolegle - chcę wiedzieć, czy ich wkład może stanowić wymagany udział, zamiast wykluczać się z dotacją.
+Proszę o stanowisko w sprawie udziału środków pochodzących z innych źródeł: **jaki udział jest w rozważanych programach wymagany lub preferowany** oraz czy może on zostać pokryty ze środków sponsorów prywatnych. Pytam dlatego, że przedsięwzięcia nie finansuję ze środków własnych, a rozmowy ze sponsorami prowadzę równolegle - chcę wiedzieć, czy ich wkład może stanowić wymagany udział, zamiast wykluczać się z dotacją.
 
 Jestem również świadomy, że System Obsługi Programów został wyłączony z użytkowania po incydencie bezpieczeństwa z 6 października 2026 roku, a naborów do Programów Ministra na rok 2027 nie ogłoszono do dnia sporządzenia niniejszego pisma. Będę wdzięczny za informację, czy i w jakim zakresie wpływa to na terminy tych naborów.
 
