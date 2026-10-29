@@ -196,7 +196,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 | Wystawa w galerii sztuki, otwierana wernisażem | te same prace pokazane po gali, jeżeli galeria zostanie pozyskana | 2028 | do wyceny | partner galerii | nie |
 | Plebiscyt filmu: nabór, ocena, nagrody, prowadzenie | konkurs, pięć filmów finałowych, Projektornia i Archiwum | 2027-2028 | 256 800,00 zł | sponsor plebiscytu filmu | **tak** |
 | Zwiastuny piątki na gali, a przy pozyskaniu sali także pełne pokazy filmów finałowych | pięć filmów pokazanych publicznie | 2028 | do wyceny | sponsor plebiscytu filmu | **tak** |
-| Podcast, dwadzieścia cztery odcinki | bezpłatny materiał edukacyjny | 2027 | do wyceny | sponsor Antologii | nie |
+| Podcast towarzyszący Nagrodzie | bezpłatny materiał edukacyjny | 2027 | do wyceny | sponsor Antologii | nie |
 
 **Czym ten budżet jest, a czym nie jest.** Jest to budżet przygotowany dla partnerów prywatnych, a nie kosztorys wydatków kwalifikowanych programu: zawiera narzut wykonawcy i doliczany automatycznie VAT. Ewentualny wniosek zostanie opracowany według zasad właściwego programu, z uwzględnieniem statusu VAT wnioskodawcy. Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
@@ -354,7 +354,7 @@ Cztery uwagi do tego kosztorysu.
 
 ## 10b. Podcast towarzyszący
 
-Przez cały rok naboru ukazuje się podcast Nagrody: **dwadzieścia cztery odcinki co dwa tygodnie**, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, nie organizator - z tego samego powodu, dla którego jury plebiscytu tworzą muzycy, a nie my: nazwisko zmienia odbiór, a organizator mówiący o własnej nagrodzie jest wyłącznie jej reklamą.
+Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, nie organizator - z tego samego powodu, dla którego jury plebiscytu tworzą muzycy, a nie my: nazwisko zmienia odbiór, a organizator mówiący o własnej nagrodzie jest wyłącznie jej reklamą.
 
 **Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka.** Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne: czy na pewno chcesz zapytać o to, czy raczej poszukać nieoczywistego połączenia z czymś, co pozornie do tematu nie należy. To jest dokładnie ta praca, którą mierzy jawna karta oceny Nagrody - rozpiętość, drążenie i weryfikacja - pokazana na żywo, zamiast opisana w regulaminie. Podcast nie jest więc przeglądem możliwości narzędzi i świadomie nim nie będzie.
 
