@@ -129,7 +129,7 @@ Dla plebiscytu na plakat o sztucznej inteligencji - program Sztuki wizualne, pon
 
 Dla plebiscytu na film o sztucznej inteligencji - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
 
-Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a wydatki to pula nagród, pierwsze przejście oceny, honoraria jury i pokazy.
+Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a wydatki to pula nagród, pierwsze przejście oceny, honoraria jury i pokazy. Pierwsze przejście oceny, czyli obejrzenie każdego zgłoszonego filmu przez akademię filmu, wymieniam dla pełnego obrazu kosztów, lecz **nie wchodzi ono do zakresu niniejszego pytania**: jest finansowane odrębnie, przez sponsora akademii wspólnej dla wszystkich czterech plebiscytów.
 
 Proszę o wskazanie, czy plebiscyt na film o sztucznej inteligencji o takiej konstrukcji mieści się w programie Film, czy właściwym adresatem jest w tym zakresie Polski Instytut Sztuki Filmowej, czy też - wobec tego, że rezultatem jest publiczne Archiwum i pokazy, a nie nowe filmy - bliższy byłby program z zakresu edukacji kulturalnej lub kultury cyfrowej.
 
