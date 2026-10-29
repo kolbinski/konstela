@@ -21,7 +21,9 @@ Prośby i pytania stawiam po opisie przedsięwzięcia, ponieważ rozstrzygnięci
 
 ## Czego dotyczy pismo
 
-Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wyniki wszystkich czterech plebiscytów ogłaszane są podczas wspólnej gali.
+Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi.
+
+Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wyniki wszystkich czterech plebiscytów ogłaszane są podczas wspólnej gali.
 
 Zależy mi na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach; **nie jest to element obecnej prośby**.
 
