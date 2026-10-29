@@ -10,7 +10,11 @@ Szanowni Państwo,
 
 zwracam się w dwóch sprawach: z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej oraz z prośbą o wskazanie właściwej drogi finansowania jego części artystycznej. Obie sprawy są od siebie niezależne i proszę o rozpoznanie każdej z nich odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne. Niniejsze pismo nie jest wnioskiem o dotację ani o patronat honorowy.
 
+## Czego dotyczy pismo
+
 Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wszystkie cztery werdykty rozstrzyga jedna gala. Regulaminy wszystkich plebiscytów, karty oceny i polityka prywatności są jawne od pierwszego dnia i dostępne pod adresem [konstela.org/regulaminy](https://konstela.org/regulaminy/) (strona [konstela.org](https://konstela.org) jest obecnie w wersji roboczej, docelową przygotuje agencja kreatywna).
+
+## Co powstaje z Nagrody
 
 Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do resortu kultury. W każdej edycji powstaje:
 
@@ -23,15 +27,17 @@ Nie napotkałem dotąd polskojęzycznego, jawnego zbioru zapisów rzeczywistych 
 
 Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgłoszenia, które przeszły weryfikację formalną, zostają w nim razem z jawną punktacją akademii, jury i publiczności, bez planowanego terminu zamknięcia. Archiwa, antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
 
-Część pierwsza: prośba o list intencyjny.
+## Część pierwsza: prośba o list intencyjny
 
 Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu, jako propozycję do dowolnej zmiany lub odrzucenia.
 
 Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i instytucjami oraz opublikować go na stronie Nagrody. Wolę powiedzieć to otwarcie, niż zostawiać domysłom. Dla Ministerstwa dokument taki nie stanowi patronatu, nie zawiera zobowiązania finansowego, nie zawiera oceny konkursu ani rekomendacji organizatora, nie przesądza o późniejszym rozpoznaniu wniosku patronatowego ani dotacyjnego i nie gwarantuje realizacji przedsięwzięcia - zakres ten jest wpisany w sam projekt treści. Jeżeli Ministerstwo nie stosuje formy listu intencyjnego, w pełni wystarczy mi zwykła odpowiedź pisemna o wskazanej wyżej treści.
 
-Część druga: prośba o wskazanie drogi finansowania części artystycznej.
+## Część druga: prośba o wskazanie drogi finansowania części artystycznej
 
 Częścią artystyczną przedsięwzięcia są cztery powiązane działania - trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie hymnu [konstela.org/hymn](https://konstela.org/hymn/) - do których dochodzi piąte, o charakterze popularyzatorskim.
+
+### Plebiscyt na piosenkę o sztucznej inteligencji
 
 Pierwszym działaniem jest otwarty plebiscyt na piosenkę o sztucznej inteligencji i jej roli w świecie. Uczestnicy nadsyłają utwory własne: własny tekst, własną muzykę i własne wykonanie, przy czym dopuszczalne są zgłoszenia zespołowe, w których autor tekstu, kompozytor i wykonawca są różnymi osobami - zgłoszenie wskazuje wówczas osobę reprezentującą cały skład. Plebiscyt jest adresowany do wykonawców półprofesjonalnych, to jest osób, które piszą i grają, mają własną publiczność, ale nie są artystami o ustalonej pozycji rynkowej. Zgłasza się czytelne nagranie demonstracyjne, nie gotowy singiel, aby wysokość kosztów produkcji nie decydowała o tym, kto może wziąć udział. Zwycięzcę wybiera jury, nie głosowanie publiczności, a kryteria oceny są ogłaszane przed naborem.
 
@@ -41,6 +47,8 @@ Elementem tego konkursu jest produkcja nagrań studyjnych dziesięciu najwyżej 
 
 Udział w jury zadeklarował Michał Sołtan, wokalista, półfinalista 14. edycji programu The Voice of Poland. Pozostali członkowie jury są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
 
+### Plebiscyt na plakat o sztucznej inteligencji
+
 Drugim działaniem jest otwarty plebiscyt na plakat o sztucznej inteligencji i jej roli w świecie, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Adresatami są twórcy rozwijający własną praktykę - ilustratorzy, malarze, studenci szkół artystycznych, projektanci - i nie pytamy o wystawy ani dyplomy. Zgłasza się zdjęcie albo skan pracy, nie oryginał. Zgłoszenia ocenia jury, a pierwszą selekcję prowadzi akademia plakatu, powoływana w każdej edycji, według tej samej karty oceny; wybór dziesięciu finalistów i kolejność całej dziesiątki finalistów pozostają przy jury. Oryginały finalistów są pokazywane na wystawie towarzyszącej gali, a ich transport w obie strony pokrywa organizator. Zwycięska praca, za zgodą autora, ukazuje się na okładce antologii. W jury zasiadają praktycy plakatu i ilustracji; składu nie wymieniam, dopóki jego członkowie nie potwierdzą udziału na piśmie.
 
 Obowiązuje tu reguła ostrzejsza niż w konkursie piosenki: obraz ma powstać pod ludzką ręką. Niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wygenerowanego albo domalowanej na wydrukowanym podkładzie; dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu pomysłów, zanim autor weźmie pędzel. Różnica wobec piosenki, gdzie tekst wolno napisać przy udziale sztucznej inteligencji, wynika z tego, że przy plakacie ocenianym wytworem jest sam obraz, a nie jeden z kilku składników utworu. Weryfikacja opiera się na oświadczeniu zgłaszającego, na zdjęciach z etapów pracy oraz na oryginałach nadsyłanych przez finalistów, a nie na rozpoznawaniu narzędzia przez jury podczas oglądania reprodukcji. Prawa do zgłoszonych prac pozostają w całości przy ich autorach, w tym prawo do sprzedaży oryginału; organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach - galeria zgłoszeń i Archiwum na stronie, wystawa przy gali oraz, przy pracy zwycięskiej, reprodukcja na okładce antologii i w materiałach informacyjnych edycji.
@@ -49,13 +57,19 @@ Dwie konsekwencje praktyczne wymieniam, bo wpływają na harmonogram całego prz
 
 Konkurs plakatu wymieniam w piśmie do resortu kultury również z powodu, który jest od jego konstrukcji niezależny: plakat jest dziedziną o rozpoznawalnym polskim dorobku, a zestaw kilkudziesięciu prac o sztucznej inteligencji, wykonanych ręcznie w jednym roku i zachowanych w publicznym Archiwum, jest sam w sobie dokumentem tego, jak ten temat był wtedy widziany.
 
+### Plebiscyt na film o sztucznej inteligencji
+
 Trzecim działaniem jest otwarty plebiscyt na film o sztucznej inteligencji i jej roli w świecie, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo formie mieszanej. Film trwa od 20 do 90 minut. Zgłoszeniem jest link do filmu opublikowanego przez uczestnika w serwisie YouTube oraz link do zwiastuna tego filmu, trwającego od 60 do 120 sekund; organizator nie przechowuje kopii filmu, a prowadzony przez niego katalog zawiera tytuł, miniaturę, zwiastun, opis, deklarację i link. Zwiastun nie podlega ocenie, odtwarza się przy wpisie w katalogu i w Archiwum, a przy filmach z czołowej piątki jest tym, co prezentowane jest podczas gali. Film musi zostać zrealizowany na potrzeby plebiscytu i ukończony w roku edycji, najpóźniej w dniu zgłoszenia, a do dnia gali nie może być zgłoszony do innego konkursu, festiwalu ani przeglądu i nie może otrzymać gdziekolwiek nagrody, wyróżnienia ani nominacji; wyłączenie to obejmuje wyłącznie czas do gali, a licencja udzielana organizatorowi jest niewyłączna. Regulamin zwraca przy tym uwagę uczestnika, że część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie, a publikacja wymagana do udziału w plebiscycie może udział w nich wykluczyć niezależnie od zakresu tej licencji. Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki finalistów; nagrody pieniężne otrzymuje czołowa trójka, a pozostałych siedmiu finalistów otrzymuje wyróżnienia obejmujące dyplom, bez nagrody pieniężnej, a miejsce w zestawie filmów kierowanym do pokazów kinowych przysługuje wszystkim dziesięciu finalistom, jeżeli organizator pozyska dystrybutora; umowę z dystrybutorem zawiera wówczas uczestnik i jemu przysługują wpływy z biletów, a organizator nie nabywa praw dystrybucyjnych ani nie uczestniczy w tych wpływach. Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów, w postaci zgłoszonej przez autora, ponieważ jedna gala nie zmieści dziesięciu prezentacji; pokazy kinowe, odrębne od gali, są celem, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania dystrybutora. Pracę jury ogranicza przy tym liczba filmów przekazywanych mu przez akademię filmu, nie większa niż dwadzieścia.
 
 W tym jednym konkursie nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji. Uczestnik opisuje, co w jego filmie zrobiły takie narzędzia, deklaracja publikowana jest razem ze zgłoszeniem i nie podlega punktacji. Różnica wobec konkursów piosenki i plakatu jest celowa i wynika z przedmiotu oceny. Przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem - w obu wypadkach da się wskazać, co musi pochodzić od człowieka, i da się to sprawdzić na jednym przedmiocie albo na jednym nagraniu. Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz generatywny jest dziś najszybciej zmieniającą się częścią tych narzędzi: zakaz postawiony w regulaminie dziś byłby w dniu gali arbitralny, a jego weryfikacja wymagałaby audytu produkcji, którego organizator nie jest w stanie przeprowadzić. Zamiast zakazu, którego nie dałoby się dotrzymać, regulamin wprowadza jawność, której dotrzymać można.
 
 Pierwsze przejście oceny w tym konkursie prowadzi akademia filmu, powoływana od pierwszej edycji, a nie - jak przy plakacie - dopiero po przekroczeniu progu zgłoszeń. Wynika to z arytmetyki: filmy trwające do 90 minut, mnożone przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, dają pracę, której kilkuosobowe jury nie wykona. Jest to jednocześnie pozycja, która w tym przedsięwzięciu rośnie najszybciej wraz z liczbą zgłoszeń, i dlatego jest w załączonej nocie wyodrębniona wraz z tabelą pokazującą, przy jakim wolumenie ta konstrukcja przestaje być wykonalna.
 
+### Hymn Nagrody
+
 Czwartym działaniem jest nagranie hymnu przedsięwzięcia do tekstu „Zapytaj inaczej", w wykonaniu jurorów, poza konkursem; tekst jest dziś wersją roboczą, a jego ostateczne brzmienie opracuje skład jury plebiscytu piosenki, który hymn skomponuje i nagra. Premierę hymnu planuję w 2027 roku, w czasie trwania naboru; **otwarcie naboru nie jest od niej uzależnione**, ponieważ termin nagrania zależy od zabezpieczenia środków i od skompletowania jury. Trzy najwyżej ocenione utwory plebiscytu oraz hymn zostaną następnie wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie kwietnia 2028 roku. Wszystkie zgłoszone utwory będą prezentowane na stronie przez cały rok trwania naboru, bezpłatnie i bez ograniczeń dostępu.
+
+### Podcast towarzyszący Nagrodzie
 
 Piątym działaniem jest podcast towarzyszący Nagrodzie: dwadzieścia cztery odcinki publikowane co dwa tygodnie przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, a nie organizator, ponieważ nazwisko prowadzącego zmienia odbiór, a organizator prowadzący podcast o własnej nagrodzie byłby wyłącznie jej reklamą.
 
@@ -67,9 +81,13 @@ Planowanym modelem udostępniania jest nieodpłatne przekazywanie odcinków oraz
 
 Wymieniam podcast w tym miejscu, ponieważ wpływa on na pierwsze z moich pytań formalnych. Nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz działaniem z zakresu edukacji kulturalnej i upowszechniania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży. Może to oznaczać, że właściwy program jest inny niż dla trzech konkursów artystycznych, albo że zadanie wymaga podziału.
 
+## Na jakim etapie jest przedsięwzięcie
+
 Mówię otwarcie, na jakim etapie jest przedsięwzięcie, ponieważ przesądza to o treści moich pytań. Żadnego z plebiscytów nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników. Organizatorem ma być fundacja powoływana wyłącznie w tym celu; jej rejestracja jest w toku i do jej zakończenia jedynym możliwym wnioskodawcą jest prowadzona przeze mnie jednoosobowa działalność gospodarcza. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne nie wnioskowałem.
 
 Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzących: **tryb czytelności włączany jednym przyciskiem**, w którym pismo w całym serwisie ma wielkość 30 pikseli, a układ sprowadza się do czarnego tekstu na białym tle. **Regulaminy i karty oceny publikujemy jako tekst czytelny dla czytnika ekranu, a nie jako pliki do pobrania.** Rozwiązania te opisuje rozdział 3 załączonej noty.
+
+## Pytania formalne
 
 Uprzejmie proszę o stanowisko w pięciu sprawach formalnych.
 
@@ -84,6 +102,8 @@ Po czwarte, o warunki, które pozwolą mi wybrać nabór. Proszę o wskazanie, c
 Po piąte, o udział środków pochodzących z innych źródeł. Proszę o wskazanie, **jaki udział jest w rozważanych programach wymagany lub preferowany** oraz czy może on zostać pokryty ze środków sponsorów prywatnych. Pytam dlatego, że przedsięwzięcia nie finansuję ze środków własnych, a rozmowy ze sponsorami prowadzę równolegle - chcę wiedzieć, czy ich wkład może stanowić wymagany udział, zamiast wykluczać się z dotacją.
 
 Jestem również świadomy, że System Obsługi Programów został wyłączony z użytkowania po incydencie bezpieczeństwa z 6 października 2026 roku, a naborów do Programów Ministra na rok 2027 nie ogłoszono do dnia sporządzenia niniejszego pisma. Będę wdzięczny za informację, czy i w jakim zakresie wpływa to na terminy tych naborów.
+
+## Zakończenie
 
 Pozostaję do dyspozycji w razie pytań oraz gotowy do przedstawienia koncepcji na spotkaniu lub do przekazania pełnej dokumentacji przedsięwzięcia, w tym regulaminów wszystkich plebiscytów, w terminie dla Państwa dogodnym.
 
