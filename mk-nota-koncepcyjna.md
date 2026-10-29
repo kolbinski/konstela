@@ -187,8 +187,6 @@ Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligenc
 
 **Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie.
 
-Uczestnik może wycofać swoje zgłoszenie z plebiscytu nie później niż do dnia zamknięcia treści antologii, to jest do 29 lutego 2028 roku; po tym dniu książka jest drukowana i wprowadzana do dystrybucji, więc wycofanie nie jest możliwe.
-
 ## 6. Finansowanie
 
 Plebiscyt jest bezpłatny dla uczestników, a prowadzi go **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych.
@@ -335,7 +333,7 @@ Jurorzy plebiscytu otrzymują wynagrodzenie za ocenę zgłoszeń, tak jak jury i
 
 Nagranie studyjne dziesięciu najwyżej ocenionych utworów finansuje organizator - jest to osobna pozycja kosztorysu - a wydanie i dystrybucja płyty przewidziane są jako wkład wydawnictwa-partnera, tak samo jak antologię produkuje i wydaje partner wydawniczy. Podział jest celowy: nagrania powstaną niezależnie od tego, czy partner się znajdzie, a od wydawnictwa oczekujemy wydania gotowego materiału, nie sfinansowania dziesięciu sesji studyjnych.
 
-Sesja studyjna jest przy tym **ofertą dla każdego z dziesięciu finalistów, a nie rezultatem bezwarunkowym**: regulamin pozwala finaliście z niej nie skorzystać bez utraty nagrody ani miejsca w dziesiątce, więc liczba powstałych nagrań może być mniejsza. Ta sama uwaga dotyczy wystawy plakatów - komplet dziesięciu oryginałów jest ofertą, a nie gwarancją, bo finalista może oryginału nie przesłać i jury ocenia wtedy reprodukcję bez obniżania punktacji.
+Sesja studyjna jest przy tym **ofertą dla każdego z dziesięciu finalistów, a nie rezultatem bezwarunkowym**: regulamin pozwala finaliście z niej nie skorzystać bez utraty nagrody ani miejsca w dziesiątce, więc liczba powstałych nagrań może być mniejsza.
 
 Relacja między jednym i drugim jest ścisła: strona Nagrody prezentuje zgłoszenia w postaci, w jakiej napłynęły, i odpowiada Archiwum rozmów, a płyta odpowiada antologii, czyli porządnemu wydaniu tego samego materiału. Prawa do utworów i do nagrań pozostają przy ich autorach. **Płyta nie jest wklejana do wydania książkowego antologii**: na tyle okładki znajduje się kod QR prowadzący do nagrań, a płyta jest dystrybuowana cyfrowo i na streamingu.
 
@@ -368,7 +366,7 @@ Niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wyg
 
 Granica jest tu twardsza niż w plebiscycie na piosenkę, gdzie tekst wolno napisać przy udziale sztucznej inteligencji, i wynika to z tej samej zasady: ocenianym wytworem jest sam obraz, a nie jeden z kilku składników utworu. Weryfikacja opiera się na oświadczeniu zgłaszającego, na obowiązkowym nagraniu z powstawania pracy, trwającym co najmniej 3 minuty, na dobrowolnych materiałach dodatkowych oraz na oryginałach nadsyłanych przez finalistów; nie opiera się na rozpoznawaniu narzędzia przez jury podczas oglądania reprodukcji.
 
-Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w plebiscycie - wyklucza je dopiero wykazana nieprawda w oświadczeniu. Narzędzia cyfrowe przy przygotowaniu pliku, to jest kadrowanie, korekta kolorów do zgodności z oryginałem i usunięcie cienia, są dopuszczalne; nie wolno nimi dodawać ani usuwać elementów obrazu.
+Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w plebiscycie - wyklucza je dopiero wykazana nieprawda w oświadczeniu.
 
 ### Prawa
 
@@ -390,13 +388,13 @@ Zgłoszenia, które przeszły sprawdzenie formalne, są prezentowane na stronie 
 
 ### Gala, wystawa i harmonogram
 
-Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie kwietnia 2028 roku. Prace finałowe są pokazywane na wystawie towarzyszącej gali. Transport w obie strony, opakowanie, przechowywanie i ubezpieczenie przez cały czas pozostawania pracy u organizatora pokrywa organizator; oryginałem dysponuje nie dłużej niż 150 dni od jego odebrania, a przesyłkę zwrotną nadaje w ciągu 30 dni od zakończenia wystawy.
+Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie kwietnia 2028 roku. Prace finałowe są pokazywane na wystawie towarzyszącej gali. Transport w obie strony, opakowanie, przechowywanie i ubezpieczenie przez cały czas pozostawania pracy u organizatora pokrywa organizator.
 
 **Drugie pokazanie prac - na wystawie w galerii sztuki, otwieranej wernisażem po gali, a więc już z zajętymi miejscami - jest celem, nie obietnicą regulaminową**, ponieważ zależy od pozyskania galerii. Jeżeli galeria się znajdzie, finaliści otrzymują odrębną propozycję, określającą terminy, ubezpieczenie, czas pozostawania pracy u organizatora i zwrot, a przy wystawie może się odbyć cicha licytacja oryginałów. Nieprzyjęcie propozycji nie wpływa na werdykt ani na nagrodę.
 
 **Werdykt zapada przed galą**, ponieważ antologia ma na gali premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali. Konsekwencją jest to, że **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją**, a część kosztów tego plebiscytu przypada na 2027 rok.
 
-Przesyłka oryginałów do Organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu, a prace mają dotrzeć w ciągu 21 dni od zawiadomienia; wystawa i przesyłki powrotne przypadają na 2028.
+Przesyłka oryginałów do organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu; wystawa i przesyłki powrotne przypadają na 2028.
 
 ### Nagroda publiczności
 
@@ -404,7 +402,7 @@ Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczn
 
 ### Licytacja oryginałów
 
-Przewidziana jest dobrowolna licytacja oryginałów prac finałowych, połączona ze wsparciem kolejnej edycji. Licytację prowadzoną przez organizatora regulamin dopuszcza **wyłącznie jako cichą licytację przy wystawie w galerii sztuki**, a więc tylko wtedy, gdy galeria zostanie pozyskana i finalista przyjmie propozycję udziału w tej wystawie. Niezależnie od niej każdy uczestnik może podać przy swoim zgłoszeniu link do własnej sprzedaży; organizator w niej nie pośredniczy i nic z niej nie bierze.
+Przewidziana jest dobrowolna licytacja oryginałów prac finałowych, połączona ze wsparciem kolejnej edycji. Licytację prowadzoną przez organizatora regulamin dopuszcza **wyłącznie jako cichą licytację przy wystawie w galerii sztuki**, a więc tylko wtedy, gdy galeria zostanie pozyskana i finalista przyjmie propozycję udziału w tej wystawie.
 
 Propozycja trafia do autora dopiero po zamknięciu ocen, aby jego odpowiedź nie mogła wpłynąć na werdykt, i obejmuje konkretne warunki: cenę minimalną, przewidywane potrącenia i sposób rozliczenia. Jury nie jest informowane o odpowiedzi autora - jest to drugie, niezależne zabezpieczenie tej samej bezstronności. Odmowa nie zmienia ani wyniku, ani nagrody, ani udziału w wystawie.
 
