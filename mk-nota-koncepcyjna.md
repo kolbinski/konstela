@@ -2,7 +2,7 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-nota-koncepcyjna/*
 
-**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum. Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji, otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie, oraz otwarty plebiscyt na film o sztucznej inteligencji. Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w rozdziale 2, a ich konstrukcja i kosztorysy w rozdziałach 10, 10a i 10c.
+**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum. Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji, otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie, oraz otwarty plebiscyt na film o sztucznej inteligencji. Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w rozdziale 2, a ich konstrukcja i kosztorysy w rozdziałach 10, 11 i 12.
 
 **Proszę o dwie rzeczy, niezależne od siebie.** Pierwsza: **list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. Druga: **wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.** Obie prośby wraz z pytaniami formalnymi są postawione w piśmie przewodnim, do którego ta nota jest załącznikiem.
 
@@ -26,7 +26,7 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny plebiscyt
 
 **Rozmowa jest pierwszym miejscem, w którym to widać, ale nie jedynym.** Przedmiotem Nagrody nie są rozmowy z programem, lecz współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Rozmowa jest tym miejscem, w którym współistnienie daje się zapisać i ocenić najdokładniej, i dlatego stoi w centrum konstrukcji. Nie jest jednak miejscem jedynym ani najbardziej dotkniętym: rynek muzyczny jest jednym z obszarów, w których skutki narzędzi generatywnych są dziś najwyraźniej widoczne i najszerzej omawiane.
 
-Dlatego plebiscyt na piosenkę o sztucznej inteligencji, opisany w rozdziale 10, nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: plebiscyt, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu. To samo dotyczy plebiscytu na plakat o sztucznej inteligencji, opisanego w rozdziale 10a, w którym obraz ma powstać pod ludzką ręką, a oceniany jest właśnie obraz, oraz plebiscytu na film o sztucznej inteligencji, opisanego w rozdziale 10c, w którym zamiast zakazu obowiązuje jawna deklaracja użycia narzędzi. Wszystkie trzy plebiscyty odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
+Dlatego plebiscyt na piosenkę o sztucznej inteligencji, opisany w rozdziale 10, nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: plebiscyt, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu. To samo dotyczy plebiscytu na plakat o sztucznej inteligencji, opisanego w rozdziale 11, w którym obraz ma powstać pod ludzką ręką, a oceniany jest właśnie obraz, oraz plebiscytu na film o sztucznej inteligencji, opisanego w rozdziale 12, w którym zamiast zakazu obowiązuje jawna deklaracja użycia narzędzi. Wszystkie trzy plebiscyty odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
 
 ## 3. Co powstaje
 
@@ -148,7 +148,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Fizyczne:** medal z pieczęcią Nagrody, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
-Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach 10, 10a i 10c; nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
+Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach 10, 11 i 12; nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
 
 **Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie. Uczestnik może wycofać swoje zgłoszenie z plebiscytu nie później niż do dnia zamknięcia treści antologii, to jest do 29 lutego 2028 roku; po tym dniu książka jest drukowana i wprowadzana do dystrybucji, więc wycofanie nie jest możliwe.
 
@@ -177,7 +177,7 @@ Wysoka pula rodzi pytanie, czy nie przyciągnie osób liczących kryteria zamias
 
 Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe i ubezpieczeniowe (CSR i kompetencje cyfrowe), firmy technologiczne, uczelnie, fundacje korporacyjne. **Nie planuję przyjmować finansowania od dostawców modeli językowych w edycjach krajowych** - konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty.
 
-**Część artystyczna jest poza tym budżetem.** Powyższe 999 746,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach 10, 10a i 10c. Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania. Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa plebiscytu na plakat o sztucznej inteligencji i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję. Rozumiem, że programy wsparcia kultury przewidują określony udział środków własnych albo pochodzących z innych źródeł, i środki sponsorskie traktuję jako możliwe pokrycie tego udziału, a nie jako konkurencję dla dotacji.
+**Część artystyczna jest poza tym budżetem.** Powyższe 999 746,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach 10, 11 i 12. Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania. Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa plebiscytu na plakat o sztucznej inteligencji i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję. Rozumiem, że programy wsparcia kultury przewidują określony udział środków własnych albo pochodzących z innych źródeł, i środki sponsorskie traktuję jako możliwe pokrycie tego udziału, a nie jako konkurencję dla dotacji.
 
 ### Zestawienie zadania: co, w którym roku, z czego i o co pytam
 
@@ -208,7 +208,7 @@ Suma wierszy oznaczonych „tak" wynosi dziś **665 880,00 zł** i jest to suma 
 - w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów;
 - w plebiscycie na film: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, przygotowanie techniczne zwiastunów do emisji galowej, pełne pokazy filmów finałowych, obsługa prawna, dojazd i nocleg finalistów.
 
-Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach 10, 10a i 10c przy odpowiednich kosztorysach.
+Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach 10, 11 i 12 przy odpowiednich kosztorysach.
 
 ## 10. Plebiscyt na piosenkę i gala
 
@@ -258,7 +258,7 @@ Cztery uwagi do tego kosztorysu, powiedziane wprost.
 
 **Teledysk nie jest ozdobą.** Pierwsza edycja Nagrody trwa cały rok 2027, a jej rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Przez ten rok na stronie dzieją się trzy rzeczy: kolejne odcinki podcastu, napływające zgłoszenia plebiscytu prezentowane na bieżąco oraz hymn. Hymn z teledyskiem jest wśród nich **materiałem, którego termin ustala organizator**, w odróżnieniu od podcastu, który zależy od dostępności gości, i od zgłoszeń uczestników, które napływają wtedy, kiedy ktoś je nadeśle. Dlatego premiera hymnu przypada na czas trwania naboru, a nie na zamknięcie edycji; **nie warunkuje natomiast rozpoczęcia edycji** – nabór otwiera się niezależnie od tego, czy hymn jest już nagrany. Nie twierdzę przy tym, że jego zasięg będzie największy - to jest założenie do zweryfikowania z przewodniczącym jury, a nie fakt. Zastrzegam przy tym, że napływające zgłoszenia same nie gwarantują równomiernego ruchu: doświadczenie konkursów wskazuje, że zgłoszenia kumulują się pod koniec terminu, a dotarcie do odbiorców pozostaje odrębną pracą.
 
-## 10a. Plebiscyt na plakat
+## 11. Plebiscyt na plakat
 
 **Plebiscyt na plakat.** Otwarty plebiscyt na plakat o sztucznej inteligencji i jej roli w świecie, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Adresatami są twórcy rozwijający własną praktykę - ilustratorzy, malarze, studenci szkół artystycznych, projektanci - i nie pytamy o wystawy, dyplomy ani o przynależność do galerii. Zgłasza się zdjęcie albo skan pracy, nie oryginał, aby koszt wysyłki nie decydował o tym, kto weźmie udział. Format jest pionowy, dłuższy bok od 50 do 150 cm. Wszystkie zgłoszenia ogląda akademia plakatu, powoływana w każdej edycji, i przekazuje jury listę węższą według tej samej karty oceny; wybór dziesięciu finalistów i kolejność całej dziesiątki pozostają przy jury; kryteria oceny są ogłaszane przed naborem, tak samo jak w pozostałych plebiscytach.
 
@@ -310,7 +310,7 @@ Pięć uwag do tego kosztorysu, powiedzianych wprost.
 
 **Czego kosztorys nie obejmuje.** Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa plebiscytu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w rozdziale 10.
 
-## 10c. Plebiscyt na film
+## 12. Plebiscyt na film
 
 Otwarty plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo formie mieszanej. **Film trwa od 20 do 90 minut.** Dolna granica istnieje dlatego, że bez niej kilkuminutowa etiuda konkurowałaby z pełnym metrażem według tej samej karty oceny; górna - dlatego, że akademia filmu ma obejrzeć wszystkie zgłoszenia, a nie wybrane.
 
@@ -354,7 +354,7 @@ Cztery uwagi do tego kosztorysu.
 
 **Pozycje bez kwoty.** Opracowanie emisji galowych i pełne pokazy zależą od miejsca gali i od sali projekcyjnej, a żadne z nich nie jest wybrane. Dojazd i nocleg finalistów są niewycenione również w pozostałych plebiscytach i rozstrzygnięcie ich wyłącznie w jednym dałoby kosztorys niespójny. Honoraria jury pozostawiam do ustalenia ze składem, z tego samego powodu co przy plakacie. Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam przed zabezpieczeniem finansowania; regulamin filmu wypisuje na końcu siedem miejsc do przeglądu, z których najtrudniejsze jest pytanie, czy film wygenerowany w całości może być przedmiotem nagrody i czyim jest utworem.
 
-## 10d. Podcast towarzyszący
+## 13. Podcast towarzyszący
 
 Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, nie organizator - z tego samego powodu, dla którego jury plebiscytu tworzą muzycy, a nie my: nazwisko zmienia odbiór, a organizator mówiący o własnej nagrodzie jest wyłącznie jej reklamą.
 
@@ -372,7 +372,7 @@ Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezp
 
 **Dlaczego wymieniamy to Ministerstwu.** Podcast nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz działaniem z zakresu edukacji kulturalnej i upowszechniania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży. Może to oznaczać, że właściwy program jest inny niż dla trzech plebiscytów artystycznych, albo że zadanie wymaga podziału na odrębne części.
 
-## 11. Rozwój
+## 14. Rozwój
 
 - **Edycja 2-3:** kategorie tematyczne (m.in. debiut, dociekanie, weryfikacja), podział pracy jury, zwiększona pula.
 - **Nakład handlowy antologii i szersza dystrybucja** po pozyskaniu partnera wydawniczego; krótki nakład na galę powstaje już w pierwszej edycji i jest po stronie Organizatora.
@@ -380,7 +380,7 @@ Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezp
 - **Patronat medialny i obecność w mediach publicznych:** naturalnymi partnerami dla tej tematyki byłyby TVP Kultura i TVP Nauka - zarówno jako patroni medialni, jak i miejsce relacji z rozstrzygnięcia. *Rozmowy w tej sprawie nie zostały jeszcze podjęte; wymieniam to jako kierunek.*
 - **Umiędzynarodowienie kolejnych edycji.**
 
-## 12. O organizatorze
+## 15. O organizatorze
 
 Pomysłodawcą i organizatorem Nagrody jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej.
 
