@@ -101,7 +101,7 @@ Przewidziane są dwa stałe cykle:
 1.  **„Pierwszy raz z AI"** - z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji;
 2.  **„NAIstolatek"** - z nastolatkami, dla których te narzędzia są codziennością.
 
-Planowanym modelem udostępniania jest nieodpłatne przekazywanie odcinków oraz ich fragmentów mediom i instytucjom edukacyjnym do wykorzystania we własnych materiałach, bez konieczności uzyskiwania odrębnej zgody; prowadzący nie jest jeszcze wybrany, więc nie przedstawiam tego jako stanu dokonanego.
+Planowanym modelem udostępniania jest nieodpłatne przekazywanie odcinków oraz ich fragmentów mediom i instytucjom edukacyjnym do wykorzystania we własnych materiałach.
 
 Opis formatu, obu cykli i modelu udostępniania zawiera **rozdział 11 załączonej noty koncepcyjnej, „Podcast towarzyszący"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#11-podcast-towarzyszacy](https://konstela.org/dokument/mk-nota-koncepcyjna/#11-podcast-towarzyszacy).
 
