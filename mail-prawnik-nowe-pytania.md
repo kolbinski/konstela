@@ -2,7 +2,9 @@
 
 Adresat: Michał Nosowski, radca prawny, michal.nosowski@bytelaw.pl. Nawiązuje do korespondencji z 22-24.10.2026 i do wybranego wariantu 4000 zł netto plus 700 zł za weryfikację statutu.
 
-Temat: Nagroda Konstela - nowe pytania do zakresu i potwierdzenie terminu statutu
+Temat: Nagroda Konstela - nowe pytania do zakresu
+
+**Status: wstrzymany do czasu odpowiedzi ministerstw.** Decyzja z 29.10.2026. Wpis fundacji do rejestru następuje po zabezpieczeniu finansowania, to zależy od sponsora antologii, a ten od listów intencyjnych ministerstw - dopóki nie ma stanowisk, nie mam terminu u notariusza i nie ma po co naciskać kancelarii datą. List idzie razem z informacją o zabezpieczonym finansowaniu. **Przed wysłaniem uzupełnić: datę wizyty u notariusza i terminy zamknięcia obszarów, w miejscach oznaczonych nawiasami kwadratowymi.**
 
 ---
 
@@ -10,7 +12,7 @@ Panie Michale,
 
 wracam z dwiema sprawami: jedną pilną, dotyczącą statutu, i jedną porządkową, dotyczącą zakresu.
 
-Pilna jest kwestia statutu. Ustaliliśmy węższy zakres statutowy do końca października, przed wizytą u notariusza na początku listopada, i prosiłem o potwierdzenie tego terminu na piśmie - takiego potwierdzenia jeszcze nie mam, a wizyta jest już blisko. Otwarta zostaje też pojedyncza rzecz z Państwa bezpłatnej rady: po usunięciu ustępu 2 w § 11 ustęp 3 odwołuje się do "partnera w rozumieniu ust. 2" i traci punkt odniesienia. Treść ustępu 3 jest mi potrzebna, bo chroni udział pracowników, studentów i doktorantów instytucji patronujących, co ma znaczenie przy patronatach ministerstw. Wystarczy wskazanie, czy przeredagować ten ustęp jako samodzielny, czy przenieść tę treść do regulaminu - do tej pory § 11 zostawiam nietknięty.
+Najpierw statut. Terminu wizyty u notariusza na razie nie wyznaczam: wpis fundacji do rejestru następuje po zabezpieczeniu finansowania, a ono zależy od stanowisk ministerstw, o które występuję. O potwierdzenie terminu na piśmie poproszę wtedy, gdy data będzie znana - teraz uprzedzam tylko, że będzie to [termin do uzupełnienia]. Otwarta zostaje natomiast pojedyncza rzecz z Państwa bezpłatnej rady: po usunięciu ustępu 2 w § 11 ustęp 3 odwołuje się do "partnera w rozumieniu ust. 2" i traci punkt odniesienia. Treść ustępu 3 jest mi potrzebna, bo chroni udział pracowników, studentów i doktorantów instytucji patronujących, co ma znaczenie przy patronatach ministerstw. Wystarczy wskazanie, czy przeredagować ten ustęp jako samodzielny, czy przenieść tę treść do regulaminu - do tej pory § 11 zostawiam nietknięty.
 
 Sprawa porządkowa dotyczy zakresu i piszę o niej wprost, bo nie chcę, żeby rosła po cichu. Po 24.10 komplet dokumentów - cztery strony plebiscytów, cztery regulaminy i polityka prywatności - przeszedł zewnętrzną recenzję prawno-redakcyjną. Większość uwag wprowadziłem sam, ale sześć rzeczy wymaga Państwa stanowiska i wszystkie są dopisane do dokumentu zakresu pod adresem konstela.org/dokument/prawnik, w sekcjach Cr, Cs2 i Cs3.
 
@@ -28,7 +30,7 @@ Sprawa porządkowa dotyczy zakresu i piszę o niej wprost, bo nie chcę, żeby r
 
 Rozumiem, że to nie są "dodatkowe pytania" w rozmiarze, który mieści się w uzgodnionej kwocie przez samo przemilczenie, i nie udaję, że tak jest. Proszę o informację, co z tego wchodzi w uzgodniony zakres, a co wymaga odrębnej wyceny - z prośbą o ujęcie plebiscytów jako osobnej pozycji, bo mają własny harmonogram i własne źródło finansowania. Jeżeli wygodniej to omówić przez telefon, jestem dostępny w dowolnym terminie.
 
-Terminy po mojej stronie są bez zmian: statut przed notariuszem na początku listopada, obszary 1, 2, 6 i 7 zamknięte do końca listopada, otwarcie naboru 1 stycznia 2027.
+Terminy po mojej stronie wynikają z kolejności, nie z kalendarza: statut idzie do notariusza po zabezpieczeniu finansowania, obszary 1, 2, 6 i 7 zamykamy w ciągu [liczba] tygodni od tej chwili, a otwarcie naboru planowane jest na 1 stycznia 2027 roku i również zależy od zabezpieczenia środków. Gdy stanowiska ministerstw i rozmowa ze sponsorem antologii dadzą konkretne daty, przekażę je niezwłocznie.
 
 Pozdrawiam serdecznie,
 
