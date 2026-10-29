@@ -121,7 +121,13 @@ Uprzejmie proszę o stanowisko w pięciu sprawach formalnych. Pełny obraz przed
 
 ## Pytanie 1: który Program Ministra jest właściwy dla Nagrody Konstela
 
-Proszę o wskazanie, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym. Dla plebiscytu na piosenkę o sztucznej inteligencji rozważam programy Muzyka, Edukacja kulturalna, Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży; dla plebiscytu na plakat o sztucznej inteligencji - program Sztuki wizualne, ponieważ zadanie obejmuje tam plebiscyt, wystawę oryginałów prac finałowych i publiczne Archiwum reprodukcji; dla plebiscytu na film o sztucznej inteligencji - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
+Proszę o wskazanie, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym.
+
+Dla plebiscytu na piosenkę o sztucznej inteligencji rozważam programy Muzyka, Edukacja kulturalna, Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży.
+
+Dla plebiscytu na plakat o sztucznej inteligencji - program Sztuki wizualne, ponieważ zadanie obejmuje tam plebiscyt, wystawę oryginałów prac finałowych i publiczne Archiwum reprodukcji.
+
+Dla plebiscytu na film o sztucznej inteligencji - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
 
 Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a wydatki to pula nagród, pierwsze przejście oceny, honoraria jury i pokazy.
 
