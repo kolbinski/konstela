@@ -1,7 +1,5 @@
 # Antologia „Konstelacje 2027" - propozycja wydawnicza
 
-# Część pierwsza: budowa tomu
-
 ## Czym jest ten tom
 
 Antologia dziesięciu rozmów człowieka ze sztuczną inteligencją, które jury Nagrody Konstela oceniło najwyżej w danej edycji. Rozmowy publikowane są w całości, bez skrótów, z komentarzem jury. Rocznik pierwszy obejmuje rozmowy przeprowadzone w 2027 roku.
@@ -10,7 +8,7 @@ Tytuł serii: **Konstelacje**, z rocznikiem w nazwie tomu. Kolejne tomy co roku.
 
 ## Układ tomu
 
-1. **Wstęp organizatora** - skąd wzięła się Nagroda i jak czytać ten zbiór. Wersja robocza jest drugą częścią tego dokumentu.
+1. **Wstęp organizatora** - skąd wzięła się Nagroda i jak czytać ten zbiór. Wersja robocza jest w dalszej części tego dokumentu.
 2. **Nota o zasadach** - kto oceniał, według czego i w jakim trybie. Materiał źródłowy istnieje: regulamin i karta oceny są jawne i opublikowane przed otwarciem naboru.
 3. **Dziesięć rozmów w kolejności werdyktu.** Każda rozmowa jako osobny rozdział, w układzie:
    - metryczka: data rozmowy, podpis autora (imię i nazwisko albo pseudonim, zgodnie z jego decyzją), nazwa i wersja systemu, z którym rozmawiano, liczba wypowiedzi;
@@ -25,7 +23,7 @@ Tytuł serii: **Konstelacje**, z rocznikiem w nazwie tomu. Kolejne tomy co roku.
 
 | Element | Stan |
 |---|---|
-| Wstęp organizatora | wersja robocza gotowa, w części drugiej |
+| Wstęp organizatora | wersja robocza gotowa, dalej w tym dokumencie |
 | Zasady oceny i karta oceny | gotowe, jawne, opublikowane |
 | Regulamin plebiscytu | gotowy, jawny, opublikowany |
 | Dziesięć rozmów | powstaną z naboru 2027; dziś nie istnieją |
@@ -68,10 +66,6 @@ Niezależnie od wydania książkowego powstaje **bezpłatny e-book** oraz **publ
 - regulamin wraz z kartą oceny: [konstela.org/dokument/regulamin-rozmowy](https://konstela.org/dokument/regulamin-rozmowy/#karta-oceny)
 
 ---
-
-# Część druga: wstęp w wersji roboczej
-
-*Tekst roboczy. Napisany przed pierwszą edycją; po rozstrzygnięciu wymaga uzupełnienia o to, co w zgłoszeniach rzeczywiście się pojawi.*
 
 ## Pytanie o trzeciej nad ranem
 
