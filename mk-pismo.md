@@ -35,7 +35,7 @@ Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do
 
 W każdej edycji powstaje:
 
-1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury.
+1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury; bezpłatny e-book powstaje niezależnie od partnera wydawniczego, a zainteresowanie wydaniem książkowym wyraziły dotąd dwa wydawnictwa, z którymi rozmowy są na wczesnym etapie.
 2. **Film o sztucznej inteligencji** - dziesięć najlepszych filmów o długości od 20 do 90 minut, które bez Nagrody Konstela by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi kinowemu oraz stacji telewizyjnej lub serwisowi streamingowemu, przy czym partnerów takich jeszcze nie mam i piszę o tym wprost.
 3. **Piosenka o sztucznej inteligencji** - nagrania studyjne najlepszych piosenek stworzonych na potrzeby edycji, finansowane przez organizatora, z prawami pozostającymi przy autorach; wydanie płytowe zależy od pozyskania partnera wydawniczego.
 4. **Plakat o sztucznej inteligencji** - dziesięć prac wykonanych ręcznie, pokazywanych na wystawie towarzyszącej gali; praca zwycięska trafia na okładkę antologii. Prace finałowe chcę pokazać po gali po raz drugi, na wystawie w galerii sztuki otwieranej wernisażem - galerii jeszcze nie mam, więc tego nie obiecuję w regulaminie. Przy takiej wystawie odbywa się cicha licytacja oryginałów, dobrowolna dla autora, w której przychód po pokryciu ogłoszonych wcześniej kosztów dzieli się po połowie między autora i pulę nagród następnej edycji.
