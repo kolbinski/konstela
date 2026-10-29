@@ -79,11 +79,12 @@ Zainteresowanie wydaniem antologii wyraziły dotąd **dwa wydawnictwa**. Rozmowy
 
 Publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną, dostępny bezpłatnie na stałe. Przez cały czas naboru te same zgłoszenia rosną w **czytelni** - publicznej liście uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności.
 
-Obecność w czytelni jest warunkiem udziału, a nie wyborem uczestnika; uczestnik decyduje wyłącznie o tym, czy podpisuje się nazwiskiem, czy pseudonimem. Archiwum różni się od czytelni dwiema rzeczami. Pierwsza: **prezentuje treść rozmowy**, to jest kopię sporządzoną przez Organizatora przy zgłoszeniu, obok linku do wersji opublikowanej przez uczestnika - kopia jest treścią, link potwierdzeniem, a razem dają zapis, który nie znika, gdy uczestnik usunie udostępnienie albo gdy dostawca zmieni zasady udostępniania rozmów.
+Obecność w czytelni jest warunkiem udziału, a nie wyborem uczestnika; uczestnik decyduje wyłącznie o tym, czy podpisuje się nazwiskiem, czy pseudonimem. Archiwum różni się od czytelni dwiema rzeczami:
 
-Druga: **da się je przeglądać**, w tym według ocen wystawionych przez akademię, jury i publiczność. Zastrzeżenia prawne - dane osobowe osób trzecich, przytoczenia całych cudzych utworów, wgrane cudze materiały - oznaczają w panelu oceniający, którzy rozmowę i tak czytają w rundzie pierwszej, a Organizator rozstrzyga co do zgłoszeń oznaczonych oraz co do przypadków, w których otrzymał konkretny sygnał albo sam powziął wiadomość o problemie, i zawiadamia o tym uczestnika przed publikacją, z terminem na przedstawienie stanowiska.
+1.  **prezentuje treść rozmowy**, to jest kopię sporządzoną przez Organizatora przy zgłoszeniu, obok linku do wersji opublikowanej przez uczestnika - kopia jest treścią, link potwierdzeniem, a razem dają zapis, który nie znika, gdy uczestnik usunie udostępnienie albo gdy dostawca zmieni zasady udostępniania rozmów.
+2.  **da się je przeglądać**, w tym według ocen wystawionych przez akademię, jury i publiczność.
 
-Oznaczenie nie wpływa na punktację. Rozwiązanie jest podyktowane skalowalnością: przegląd każdego zgłoszenia prowadzony osobno przez Organizatora rośnie wprost z liczbą zgłoszeń i przy powodzeniu kampanii przestałby być wykonalny, a oznaczanie przez czytających rośnie razem z akademią, którą finansuje odrębny sponsor. **Jawność punktacji dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki, i jest warunkiem udziału ogłoszonym przed otwarciem naboru.**
+**Jawność punktacji dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki, i jest warunkiem udziału ogłoszonym przed otwarciem naboru.**
 
 Jest to rozstrzygnięcie świadome: całe przedsięwzięcie stoi na twierdzeniu, że takie rozmowy da się ocenić według jawnych kryteriów, więc jawność wyników jest konsekwencją tego, że karta oceny jest jawna od pierwszego dnia. Dopiero sortowalne Archiwum daje produkt edukacyjny, którego nie zastąpi nic innego - nauczyciel może postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium i pokazać, czym się różnią.
 
