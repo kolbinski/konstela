@@ -91,7 +91,7 @@ Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co czło
 Przewidziane są dwa stałe cykle:
 
 1. **„Pierwszy raz z AI"** - rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji; pytanie brzmi nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć.
-2. **„NAIstolatek"** - rozmowa z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną.
+2. **„NAIstolatek"** - rozmowa z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością.
 
 Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją odcinka.
 

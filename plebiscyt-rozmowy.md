@@ -229,7 +229,7 @@ Podcast nie jest częścią plebiscytu i nie wpływa na ocenę zgłoszeń.
 </article>
 <article>
 <h3>NAIstolatek</h3>
-<p>Odcinki podcastu z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną.</p>
+<p>Odcinki podcastu z nastolatkami o tym, jak formułują pytania ci, dla których te narzędzia są codziennością.</p>
 </article>
 </div>
 

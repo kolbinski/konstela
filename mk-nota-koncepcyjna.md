@@ -362,7 +362,7 @@ Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezp
 
 „**Pierwszy raz z AI**" - rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. Teza do sprawdzenia: najlepsze pytania zadają ludzie mający prawdziwy problem, a nie ci, którzy znają narzędzie.
 
-„**NAIstolatek**" - odcinki nagrywane z nastolatkami, o tym, jak formułują pytania ci, dla których te narzędzia są codziennością szkolną. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją.
+„**NAIstolatek**" - odcinki nagrywane z nastolatkami, o tym, jak formułują pytania ci, dla których te narzędzia są codziennością. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją.
 
 **Finansowanie, powiedziane jednoznacznie: o dofinansowanie podcastu nie wnoszę.** Produkcja wraz z honorarium prowadzącego jest pozycją budżetu Antologii, czyli obciąża sponsora tej części, i nie jest przedmiotem prośby skierowanej do Ministerstwa. Wymieniam podcast dlatego, że zmienia odpowiedź na pytanie o właściwy program dla całości zadania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży - nie dlatego, że szukam na niego środków publicznych. Kwota nie jest dziś ustalona: zależy od osoby prowadzącej, z którą rozmowy jeszcze się nie odbyły, a podawanie liczby przed tą rozmową uczyniłoby z niej kotwicę negocjacyjną. Pozycja jest w kosztorysie widoczna i oznaczona jako niewyceniona.
 
