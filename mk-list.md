@@ -21,6 +21,7 @@ Z wyrazami szacunku,
 Krzysztof Olbiński
 Fundator, Fundacja Konstela
 +48 503 520 004
+olbinski@gmail.com
 konstela.org
 
 **Załączniki:**
