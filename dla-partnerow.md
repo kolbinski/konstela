@@ -94,6 +94,11 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <p class="wiecej"><a href="/plebiscyt-filmu">Czytaj więcej</a></p>
 </article>
 <article>
+<h3>Partner telewizyjny lub streamingowy</h3>
+<p><strong>Emisja filmów finałowych po pokazach kinowych</strong>: antena albo miejsce w serwisie dla zestawu dziesięciu filmów nakręconych na potrzeby edycji. Organizator składa zestaw i przedstawia autorów, natomiast umowę zawiera autor filmu i jemu przysługują wpływy - fundacja nie bierze z tego prowizji, a emisja wymaga jego odrębnej zgody.</p>
+<p class="wiecej"><a href="/plebiscyt-filmu">Czytaj więcej</a></p>
+</article>
+<article>
 <h3>Partner galerii sztuki</h3>
 <p>Przestrzeń i obsługa <strong>wystawy najlepiej ocenionych plakatów</strong>, otwartej dla publiczności, a na jej otwarcie wernisaż. Wystawa odbywa się po gali, więc prace są pokazywane z zajętymi miejscami. Przy niej może się odbyć cicha licytacja oryginałów. Szukamy galerii, która zrobi z tego wydarzenie, a nie tylko udostępni ściany.</p>
 <p class="wiecej"><a href="/plebiscyt-plakatu">Czytaj więcej</a></p>

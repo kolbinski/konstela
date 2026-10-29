@@ -44,7 +44,7 @@ Link do filmu opublikowanego **na kanale autora w YouTube**; film może być pub
 
 ### Co dostają finaliści
 
-Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Cała dziesiątka wchodzi do zestawu proponowanego dystrybutorowi**, przy czym partnera ani zapewnionych pokazów jeszcze nie mamy i mówimy o tym wprost. Na gali pokazujemy **zwiastuny pięciu najwyżej ocenionych filmów** – te same, które autorzy zgłosili.
+Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Cała dziesiątka wchodzi do zestawu proponowanego dystrybutorowi**, a po pokazach kinowych także partnerowi telewizyjnemu albo streamingowemu - przy czym żadnego z nich jeszcze nie mamy i mówimy o tym wprost. W obu wypadkach umowę zawiera autor filmu i jemu przysługują wpływy; organizator składa zestaw, nie bierze prowizji i nie nabywa praw do dystrybucji. Na gali pokazujemy **zwiastuny pięciu najwyżej ocenionych filmów** – te same, które autorzy zgłosili.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
