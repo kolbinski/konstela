@@ -1,7 +1,5 @@
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-list-intencyjny/*
 
-**PROJEKT POMOCNICZY, DO SWOBODNEJ ZMIANY LUB ODRZUCENIA.** Treść poniższa jest propozycją wnioskodawcy; o formie i zakresie ewentualnego stanowiska rozstrzyga Ministerstwo.
-
 [nagłówek Ministerstwa Kultury i Dziedzictwa Narodowego]
 
 
@@ -38,3 +36,5 @@ podpis, imię i nazwisko, stanowisko
 
 Pismo może zostać opatrzone kwalifikowanym podpisem elektronicznym zamiast
 podpisu odręcznego i pieczęci.
+
+**PROJEKT POMOCNICZY, DO SWOBODNEJ ZMIANY LUB ODRZUCENIA.** Treść powyższa jest propozycją wnioskodawcy; o formie i zakresie ewentualnego stanowiska rozstrzyga Ministerstwo.
