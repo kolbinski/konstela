@@ -112,13 +112,13 @@ Cztery mechanizmy, wszystkie zapisane w regulaminie:
 - okno rozmów: 1 stycznia - 31 grudnia 2027 (pełny rok kalendarzowy)
 - zgłoszenia: do 15 stycznia 2028
 - ocena pierwszej rundy: na bieżąco przez cały rok, partiami
-- ocena jury: styczeń i luty 2028
+- ocena jury: styczeń 2028 i luty 2028
 - rozmowy weryfikacyjne: pierwsza połowa lutego 2028, tak aby między ich zakończeniem a zamknięciem treści antologii pozostały co najmniej dwa tygodnie na wejście uczestnika na zwolnione miejsce, komentarz jury i redakcję
 - nabór plakatów: zamknięcie na koniec listopada 2027, ogłoszenie finalistów w połowie grudnia 2027, oryginały w ciągu 21 dni od zawiadomienia, czyli do początku stycznia 2028, oględziny i werdykt na początku lutego 2028
 - nabór filmów: zamknięcie 30 listopada 2027, pierwsze przejście oceny przez akademię filmu w styczniu 2028, werdykt jury w lutym 2028, przy czym zwiastun emitowany na gali jest częścią zgłoszenia i po zamknięciu naboru nie podlega zmianie
 - nabór piosenek: zamknięcie 31 grudnia 2027, potem nagrania studyjne dziesiątki finalistów
 - **zamknięcie treści antologii i przekazanie do produkcji: 29 lutego 2028** - od tego dnia treści nie da się już zmienić
-- druk nakładu i dostarczenie go do dystrybutora: marzec i pierwsza połowa kwietnia 2028; publiczna prezentacja okładki i rozpoczęcie sprzedaży następują dopiero w dniu premiery, ponieważ regulamin plebiscytu na plakat o sztucznej inteligencji zakazuje udostępnienia okładki przed galą
+- druk nakładu i dostarczenie go do dystrybutora: marzec 2028 i pierwsza połowa kwietnia 2028; publiczna prezentacja okładki i rozpoczęcie sprzedaży następują dopiero w dniu premiery, ponieważ regulamin plebiscytu na plakat o sztucznej inteligencji zakazuje udostępnienia okładki przed galą
 - rozstrzygnięcie, gala i premiera antologii: **druga połowa kwietnia 2028**
 
 Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
