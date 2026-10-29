@@ -213,15 +213,15 @@ Rozumiem, że programy wsparcia kultury przewidują określony udział środków
 
 ### Zestawienie zadania: co, w którym roku, z czego i o co pytam
 
-Pełne zestawienie wszystkich czternastu działań - z rezultatem, rokiem kosztu, obecnie wycenioną kwotą netto, planowanym źródłem finansowania i wskazaniem, czy dotyczy go prośba do Ministerstwa - zawiera **załącznik „Zestawienie zadania"** w postaci arkusza kalkulacyjnego. Tabela nie mieści się w szerokości strony, dlatego została wydzielona do osobnego pliku; sumy przeliczają się w nim same.
+Pełne zestawienie wszystkich czternastu działań - z rezultatem, rokiem kosztu, obecnie wycenioną kwotą netto, planowanym źródłem finansowania i wskazaniem, czy pozycja należy do zakresu mojego pytania - zawiera **załącznik „Zestawienie zadania"** w postaci arkusza kalkulacyjnego. Tabela nie mieści się w szerokości strony, dlatego została wydzielona do osobnego pliku; sumy przeliczają się w nim same.
 
-W zestawieniu **prośba o wskazanie drogi finansowania dotyczy wyłącznie wierszy oznaczonych „tak"**. Pozostałe wymieniam, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
+Ostatnia kolumna zestawienia mówi, czy pozycja mieści się w zakresie mojego pytania, a nie czy proszę o jej sfinansowanie: **pytam o właściwy program i o tryb, nie o środki, i o żadną z wymienionych kwot nie wnoszę**. Wiersze oznaczone „nie" mają być finansowane ze źródeł prywatnych i wymieniam je po to, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
 
 ### Czym ten budżet jest, a czym nie jest
 
 Jest to budżet przygotowany dla partnerów prywatnych, a nie kosztorys wydatków kwalifikowanych programu: zawiera narzut wykonawcy i doliczany automatycznie VAT. Ewentualny wniosek zostanie opracowany według zasad właściwego programu, z uwzględnieniem statusu VAT wnioskodawcy. Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
-Suma wierszy oznaczonych „tak" wynosi dziś **665 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. **Szesnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
+Pozycje objęte pytaniem sumują się dziś do **665 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. **Szesnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
 
 - w plebiscycie na piosenkę: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów;
 - w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów;
