@@ -27,8 +27,6 @@ Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscy
 
 Zależy mi na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach; **nie jest to element obecnej prośby**.
 
-Regulaminy wszystkich plebiscytów, karty oceny i polityka prywatności są jawne od pierwszego dnia i dostępne pod adresem [konstela.org/regulaminy](https://konstela.org/regulaminy/) (strona [konstela.org](https://konstela.org) jest obecnie w wersji roboczej, docelową przygotuje agencja kreatywna).
-
 ## Co powstaje z Nagrody Konstela
 
 Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do resortu kultury. W każdej edycji powstaje:
