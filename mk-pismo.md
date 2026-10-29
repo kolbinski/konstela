@@ -1,3 +1,5 @@
+# Pismo do Ministerstwa Kultury i Dziedzictwa Narodowego
+
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-pismo/*
 
 Sieradz, dnia [data]
