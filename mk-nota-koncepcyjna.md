@@ -232,7 +232,9 @@ Jest to budżet przygotowany dla partnerów, jakich będę poszukiwał, a nie ko
 
 Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
-Pozycje objęte pytaniem sumują się dziś do **665 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. **Szesnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
+Pozycje objęte pytaniem sumują się dziś do **665 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną.
+
+**Szesnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
 
 - w plebiscycie na piosenkę: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów;
 - w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów;
