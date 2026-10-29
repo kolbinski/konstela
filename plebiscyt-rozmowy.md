@@ -243,9 +243,9 @@ Zgłoszenia osób zainteresowanych udziałem w podcaście prosimy kierować na a
 
 **Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Od tego zaczęła się cała Nagroda i to jest jej rdzeń: [plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy).
 
-### Dotąd nagradzano maszyny
+### Dotąd nagradzano maszyny w rozmowach z ludźmi
 
-Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
+Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z tych nagród.**
 
 ### Cała trudność leży w pytaniu
 

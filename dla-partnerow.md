@@ -13,9 +13,9 @@
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
-### Dotąd nagradzano maszyny
+### Dotąd nagradzano maszyny w rozmowach z ludźmi
 
-Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z nich.**
+Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka; Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z tych nagród.**
 
 ### Cała trudność leży w pytaniu
 
