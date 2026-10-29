@@ -187,7 +187,7 @@ Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligenc
 
 ## 6. Finansowanie
 
-Plebiscyt jest bezpłatny dla uczestników, a prowadzi go **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych.
+Plebiscyt jest bezpłatny dla uczestników, a prowadzić go będzie **Fundacja Konstela**, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych.
 
 Dokumentacja została przygotowana do konsultacji prawnej; zlecenie zostanie złożone po zabezpieczeniu finansowania, zgodnie z zasadą, że przed jego pozyskaniem nie podejmuję zobowiązań finansowych. Nie będzie wpisowego uczestników plebiscytu.
 
@@ -593,7 +593,7 @@ Mówię o tym wprost, ponieważ przy przedsięwzięciu adresowanym do wszystkich
 
 Pomysłodawcą i organizatorem Nagrody jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej.
 
-Organizatorem w sensie prawnym będzie Fundacja Konstela z siedzibą w Sieradzu, powołana wyłącznie do prowadzenia Nagrody i wpisana do Krajowego Rejestru Sądowego przed otwarciem zgłoszeń. Organem sprawującym nadzór nad Fundacją będzie minister właściwy ze względu na jej cele.
+Organizatorem w sensie prawnym będzie Fundacja Konstela, powołana wyłącznie do prowadzenia Nagrody i wpisana do Krajowego Rejestru Sądowego przed otwarciem zgłoszeń. Organem sprawującym nadzór nad Fundacją będzie minister właściwy ze względu na jej cele.
 
 Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat od uczestników.
 
