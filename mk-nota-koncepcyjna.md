@@ -489,8 +489,6 @@ Jest to ta sama konstrukcja co przy płycie w plebiscycie na piosenkę. Liczba d
 
 **Emisja u nadawcy albo na platformie streamingowej jest kolejnym celem**, następującym po pokazach kinowych, i prowadzoną w tym samym modelu: organizator składa zestaw filmów finałowych i przedstawia autorów, umowę zawiera uczestnik, jemu przysługują wpływy, a emisja wymaga jego odrębnej zgody. Takiego partnera również jeszcze nie mam i nie przedstawiam tego jako rezultatu edycji.
 
-**Praca jury jest ograniczona co do rozmiaru, żeby dała się wycenić.** Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Dwadzieścia filmów po najwyżej 90 minut to 30 godzin oglądania; bez takiego limitu honorarium jury byłoby funkcją liczby zgłoszeń, a więc niemożliwe do przedstawienia w kosztorysie.
-
 ### Deklaracja użycia narzędzi
 
 **W tym jednym plebiscycie nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji.** Uczestnik opisuje, co w jego filmie zrobiły takie narzędzia; deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji, więc film wygenerowany w całości i film powstały bez tych narzędzi oceniane są według tej samej karty.
@@ -502,6 +500,8 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 ### Pierwsze przejście oceny
 
 **Pierwsze przejście oceny prowadzi akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji.** Wynika to z arytmetyki: film do 90 minut, mnożony przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, daje pracę, której kilkuosobowe jury nie wykona. Koszt ten rośnie wprost z naborem i jest w budżecie wyodrębniony razem z pierwszą rundą oceny rozmów, u tego samego sponsora akademii.
+
+**Praca jury jest ograniczona co do rozmiaru, żeby dała się wycenić.** Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Dwadzieścia filmów po najwyżej 90 minut to 30 godzin oglądania; bez takiego limitu honorarium jury byłoby funkcją liczby zgłoszeń, a więc niemożliwe do przedstawienia w kosztorysie.
 
 ### Budżet plebiscytu na film o sztucznej inteligencji
 
