@@ -40,7 +40,7 @@ Przyjęta forma zgłoszenia to **link do utworu opublikowanego na YouTube**, nie
 - Czy link jest wystarczającą formą zgłoszenia w świetle regulaminu.
 - Co się dzieje, gdy zgłaszający **usunie film albo ustawi go jako prywatny** po terminie zgłoszeń, a przed werdyktem lub przed galą.
 - Czy organizator może i powinien sporządzić **kopię archiwalną** nagrania w chwili zgłoszenia, na jakiej podstawie prawnej i z jakim zakresem wykorzystania, analogicznie do kopii rozmów.
-- Co, gdy serwis wideo zablokuje film z powodu roszczenia praw autorskich już po zgłoszeniu. **Przyjęta konstrukcja: zgłoszenie odpada z powodu niedostępności materiału, a nie wskutek orzeczenia organizatora o naruszeniu praw** - czy taka podstawa odrzucenia jest wystarczająca i jak ją sformułować, skoro skutek dla uczestnika jest ten sam.
+- Co, gdy YouTube zablokuje film z powodu roszczenia praw autorskich już po zgłoszeniu. **Przyjęta konstrukcja: zgłoszenie odpada z powodu niedostępności materiału, a nie wskutek orzeczenia organizatora o naruszeniu praw** - czy taka podstawa odrzucenia jest wystarczająca i jak ją sformułować, skoro skutek dla uczestnika jest ten sam.
 - Czy uczestnik, któremu zablokowano film, może po wyjaśnieniu sprawy z serwisem zgłosić się ponownie w trakcie naboru, i jak to pogodzić z zasadą jednego zgłoszenia na osobę.
 
 ## 4a. Zwiastun jako obowiązkowy element zgłoszenia filmu
