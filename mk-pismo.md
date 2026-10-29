@@ -44,6 +44,8 @@ Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgł
 
 Archiwa, antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
 
+Patrzę na to także dłużej niż na jedną edycję. Pierwsze lata powszechnego użycia sztucznej inteligencji nie zostawiają po sobie prawie żadnego śladu: rozmowy znikają razem z kontem u dostawcy, a to, co o nich powstaje, rozprasza się w obiegu bieżącym. Nagroda Konstela gromadzi w jednym miejscu wytwory, które ten moment utrwalają - rozmowy wraz z komentarzem jury, filmy zrealizowane specjalnie na tę okoliczność, piosenki i wykonane ręcznie plakaty - i zachowuje je bezterminowo. **Zbiór ma być czytelny nie tylko dziś, lecz także za kilkadziesiąt lat: jako zapis tego, co ludzie w Polsce myśleli o sztucznej inteligencji wtedy, gdy wchodziła do ich życia.** Z każdą kolejną edycją przybywa jeden rocznik takiego zapisu.
+
 ## Część pierwsza: prośba o list intencyjny
 
 Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu, jako propozycję do dowolnej zmiany lub odrzucenia. Proszę przy tym o stanowisko w zakresie i formie właściwych dla Ministerstwa; jeżeli wydanie takiego dokumentu nie jest możliwe, proszę o informację o właściwej procedurze.
