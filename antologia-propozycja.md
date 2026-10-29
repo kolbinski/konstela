@@ -14,24 +14,10 @@ Tytuł serii: **Konstelacje**, z rocznikiem w nazwie tomu. Kolejne tomy co roku.
    - metryczka: data rozmowy, podpis autora (imię i nazwisko albo pseudonim, zgodnie z jego decyzją), nazwa i wersja systemu, z którym rozmawiano, liczba wypowiedzi;
    - opis odkrycia napisany przez autora, do 700 znaków - czego się dowiedział albo co z rozmowy wyniósł;
    - **pełny zapis rozmowy**, z wyraźnym rozróżnieniem wypowiedzi człowieka i systemu;
-   - **komentarz jurora** - wskazanie konkretnych momentów rozmowy, nie ocena ogólna. Komentarze powstaną, gdy będą już finałowe rozmowy; dziś ich nie ma i nie udaję, że są.
+   - **komentarz jurora** - wskazanie konkretnych momentów rozmowy, nie ocena ogólna.
 4. **Posłowie** - co ten rocznik mówi o roku, w którym powstał. Do napisania po werdykcie.
 5. **Karta oceny w całości** - jako aparat, który pozwala czytelnikowi ocenić rozmowy samodzielnie i nie zgodzić się z jury.
 6. **Nota o prawach** - prawa do rozmów pozostają przy autorach, antologia ukazuje się za ich zgodą.
-
-## Co w tym tomie jest, a czego nie ma
-
-| Element | Stan |
-|---|---|
-| Wstęp organizatora | wersja robocza gotowa, dalej w tym dokumencie |
-| Zasady oceny i karta oceny | gotowe, jawne, opublikowane |
-| Regulamin plebiscytu | gotowy, jawny, opublikowany |
-| Dziesięć rozmów | powstaną z naboru 2027; dziś nie istnieją |
-| Komentarze jury | powstaną, gdy będą już finałowe rozmowy |
-| Posłowie | po werdykcie |
-| Objętość tomu | nieznana; zależy od długości dziesięciu wybranych rozmów |
-
-Objętości nie podaję, ponieważ nie da się jej dziś uczciwie oszacować. Regulamin wyznacza granice zgłoszenia: od dołu co najmniej 800 słów wypowiedzi uczestnika i co najmniej 12 jego kolejnych wypowiedzi, od góry 25 000 słów całej rozmowy razem z wypowiedziami systemu. Rozpiętość między tymi progami jest jednak tak duża, że suma dziesięciu rozmów zależy wyłącznie od tego, co napłynie. Będzie znana po werdykcie, czyli przed zamknięciem treści tomu.
 
 ## Dlaczego taki układ
 
@@ -39,25 +25,9 @@ Objętości nie podaję, ponieważ nie da się jej dziś uczciwie oszacować. Re
 
 **Komentarz przy rozmowie, nie na końcu.** Czytelnik ma widzieć, co jury zauważyło, w miejscu, w którym to się stało.
 
-**Karta oceny w książce.** Czytelnik dostaje to samo narzędzie, którym pracowało jury, i może dojść do innego wniosku. To jest aparat krytyczny, nie ozdoba.
+**Karta oceny w tomie.** Czytelnik dostaje to samo narzędzie, którym pracowało jury, i może dojść do innego wniosku. To jest aparat krytyczny, nie ozdoba.
 
 **Opis odkrycia od autora.** Jedno akapitowe świadectwo osoby, która rozmowę prowadziła, odpowiada na pytanie, którego nie rozstrzyga sam zapis: po co to w ogóle robiła.
-
-## Kalendarz
-
-- nabór rozmów: cały 2027 rok, zgłoszenia do 15 stycznia 2028
-- ocena: pierwsza runda na bieżąco w trakcie naboru, jury w styczniu i lutym 2028
-- **zamknięcie treści tomu i przekazanie do produkcji: 29 lutego 2028**
-- druk i wprowadzenie do dystrybucji: marzec i pierwsza połowa kwietnia 2028
-- premiera: druga połowa kwietnia 2028, na gali rozstrzygnięcia pierwszej edycji
-
-Okładka tomu to zwycięska praca z plebiscytu na plakat o sztucznej inteligencji, rozstrzyganego w tej samej edycji. Z tego powodu nabór plakatów zamyka się wcześniej niż nabór rozmów, a okładka nie jest pokazywana publicznie przed galą.
-
-## Model współpracy
-
-Model licencyjny: wydawca wydaje antologię nakładem własnym, na swój koszt i swoje ryzyko, fundacja-organizator udziela licencji i otrzymuje honorarium od sprzedaży. Bez zaliczki, bez publikacji zleconej.
-
-Niezależnie od wydania książkowego powstaje **bezpłatny e-book** oraz **publiczne Archiwum** wszystkich zgłoszeń, które przeszły weryfikację formalną, wraz z jawną punktacją. Mówimy o tym otwarcie od początku, ponieważ dla wydawcy jest to istotna informacja, a nie szczegół: tom książkowy jest porządnym wydaniem materiału, który w podstawowej formie pozostaje dostępny bezpłatnie.
 
 ## Materiały źródłowe
 
