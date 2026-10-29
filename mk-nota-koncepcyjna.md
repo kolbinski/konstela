@@ -171,9 +171,7 @@ Grupa osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron
 - **praktyka** - osoba pracująca z modelami zawodowo,
 - **spoza branży** - sprawdzenie, czy rozmowa jest zrozumiała dla kogoś z zewnątrz.
 
-jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antologii.
-
-*Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Pisemne stanowisko instytucji publicznej znacząco ułatwiłoby ich pozyskanie - zarówno do jury, jak i do akademii - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
+Jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antologii.
 
 Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za weryfikację formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie akademia i jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
 
