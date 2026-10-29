@@ -13,7 +13,6 @@
 Sieradz, dnia [data]
 
 Ministerstwo Cyfryzacji
-[adres do doręczeń elektronicznych z BAE]
 
 **Dotyczy: Nagrody Konstela - prośba o list intencyjny**
 
