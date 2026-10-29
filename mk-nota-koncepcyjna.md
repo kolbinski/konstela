@@ -44,7 +44,11 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny plebiscyt
 
 Dlatego plebiscyt na piosenkę o sztucznej inteligencji, opisany w [rozdziale 7](#7-plebiscyt-na-piosenke), nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: plebiscyt, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu.
 
-To samo dotyczy plebiscytu na plakat o sztucznej inteligencji, opisanego w [rozdziale 8](#8-plebiscyt-na-plakat), w którym obraz ma powstać pod ludzką ręką, a oceniany jest właśnie obraz, oraz plebiscytu na film o sztucznej inteligencji, opisanego w [rozdziale 9](#9-plebiscyt-na-film), w którym zamiast zakazu obowiązuje jawna deklaracja użycia narzędzi. Wszystkie trzy plebiscyty odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
+To samo dotyczy plebiscytu na plakat o sztucznej inteligencji, opisanego w [rozdziale 8](#8-plebiscyt-na-plakat), w którym obraz ma powstać pod ludzką ręką, a oceniany jest właśnie obraz.
+
+Podobnie jest z plebiscytem na film o sztucznej inteligencji, opisanym w [rozdziale 9](#9-plebiscyt-na-film), w którym zamiast zakazu obowiązuje jawna deklaracja użycia narzędzi.
+
+Wszystkie trzy plebiscyty artystyczne odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
 
 ## 3. Plebiscyt na rozmowę z AI
 
