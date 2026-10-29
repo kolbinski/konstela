@@ -196,13 +196,12 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 - **Partner wydawniczy lub sponsor organizacyjny** - 292 422,00 zł<small>produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie Archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu</small>
 - **Sponsor akademii** - 160 160,00 zł<small>pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń</small>
 - **Razem, pozycje obecnie wycenione - 999 746,80 zł**
-- **Wariant wieloletni** - ok. 4 mln zł (1 mln USD)<small>zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody</small>
 
 Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej) i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą.
 
 Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli.
 
-Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny.
+Realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny.
 
 Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
 
