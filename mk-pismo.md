@@ -25,7 +25,7 @@ Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgł
 
 Część pierwsza: prośba o list intencyjny.
 
-Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu. Dołączam go wyłącznie dla wygody Państwa pracy i traktuję jako propozycję do dowolnej zmiany lub odrzucenia.
+Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu, jako propozycję do dowolnej zmiany lub odrzucenia.
 
 Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i instytucjami oraz opublikować go na stronie Nagrody. Wolę powiedzieć to otwarcie, niż zostawiać domysłom. Dla Ministerstwa dokument taki nie stanowi patronatu, nie zawiera zobowiązania finansowego, nie zawiera oceny konkursu ani rekomendacji organizatora, nie przesądza o późniejszym rozpoznaniu wniosku patronatowego ani dotacyjnego i nie gwarantuje realizacji przedsięwzięcia - zakres ten jest wpisany w sam projekt treści. Jeżeli Ministerstwo nie stosuje formy listu intencyjnego, w pełni wystarczy mi zwykła odpowiedź pisemna o wskazanej wyżej treści.
 
