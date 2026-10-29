@@ -1,10 +1,4 @@
-*Wersja online do przeczytania pod adresem https://konstela.org/dokument/antologia-propozycja/*
-
 # Antologia „Konstelacje 2027" - propozycja wydawnicza
-
-*Materiał dla wydawcy. Stan na 29 października 2026, przed pierwszą edycją. Część pierwsza opisuje budowę tomu i kalendarz, część druga jest wstępem w wersji roboczej. Wszystko, co zależy od treści zgłoszeń i od składu jury, jest wyraźnie oznaczone jako jeszcze nieistniejące.*
-
----
 
 # Część pierwsza: budowa tomu
 
@@ -99,9 +93,9 @@ Tak powstała Nagroda Konstela, a ta książka jest jej pierwszym rocznikiem.
 
 Dziesięć rozmów, które jury pierwszej edycji oceniło najwyżej. W całości, bez skrótów, bez poprawiania po fakcie.
 
-Każda z nich została przeprowadzona w 2027 roku przez człowieka, który nie wiedział, że będzie czytana przez kogokolwiek poza nim samym - a potem zdecydował się ją zgłosić. Każdej towarzyszy komentarz jurora, wskazujący konkretne momenty: miejsce, w którym rozmowa mogła się skończyć, a nie skończyła; pytanie, które zmieniło jej kierunek; zdanie, w którym model się pomylił i został na tym przyłapany.
+Każdej towarzyszy komentarz jurora, wskazujący konkretne momenty: miejsce, w którym rozmowa mogła się skończyć, a nie skończyła; pytanie, które zmieniło jej kierunek; zdanie, w którym model się pomylił i został na tym przyłapany.
 
-Nie jest to zbiór promptów ani poradnik. Nie znajdzie tu Pan sztuczek na obejście zabezpieczeń, szablonów do skopiowania ani listy stu zapytań, które rzekomo zmienią czyjeś życie. Rozmowy w tym tomie nie są wzorami do naśladowania - są zapisami cudzego myślenia, z całym jego błądzeniem.
+Nie jest to zbiór promptów ani poradnik. Nie znajdzie się tutaj sztuczek na obejście zabezpieczeń, szablonów do skopiowania ani listy stu zapytań, które rzekomo zmienią czyjeś życie. Rozmowy w tym tomie nie są wzorami do naśladowania - są zapisami cudzego myślenia, z całym jego błądzeniem.
 
 ## Czego w nich szukać
 
