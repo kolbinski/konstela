@@ -405,4 +405,3 @@ Regulamin plebiscytu na piosenkę o sztucznej inteligencji: https://konstela.org
 
 Regulamin plebiscytu na plakat o sztucznej inteligencji: https://konstela.org/dokument/regulamin-plakatu
 
-*Koncepcja operacyjna, w tym plan antologii i tryb pracy jury i akademii, dostępna na życzenie.*
