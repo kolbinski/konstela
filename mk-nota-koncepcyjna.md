@@ -4,7 +4,7 @@
 
 **W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Przyznawana jest w czterech równorzędnych plebiscytach, rozstrzyganych na tej samej gali rozdania nagród:
 
-- otwarty plebiscyt na rozmowę ze sztuczną inteligencją;
+- otwarty plebiscyt na najlepszą rozmowę ze sztuczną inteligencją;
 - otwarty plebiscyt na piosenkę o sztucznej inteligencji;
 - otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie;
 - otwarty plebiscyt na film o sztucznej inteligencji.
