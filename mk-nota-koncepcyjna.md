@@ -158,7 +158,7 @@ Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
 ### Akademia - pierwsza runda oceny
 
-Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem.
+Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem.
 
 Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, która rozstrzyga o dziesiątce antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co akademia i jury rozstrzygają, decyduje o antologii i o nagrodach, a nie o obecności w Archiwum.
 

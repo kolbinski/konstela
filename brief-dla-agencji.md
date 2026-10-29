@@ -8,7 +8,7 @@ Przebudowa strony konstela.org: projekt, wdrożenie i teksty. Dokument służy w
 
 Coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy. Nagradzany jest człowiek, nie model i nie firma, która model zbudowała. Oceniane są pytania, a nie odpowiedzi.
 
-Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmowy ocenia najpierw kilkunastoosobowe grono czytelników, potem kilkuosobowe jury. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, publikowanej jako e-book, a szerszy zbiór trafia do publicznego Archiwum.
+Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmowy ocenia najpierw grono czytelników, potem kilkuosobowe jury. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, publikowanej jako e-book, a szerszy zbiór trafia do publicznego Archiwum.
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt - konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. To samo robi dobra rozmowa: pojedyncze fakty ma każdy, wartość powstaje z połączeń.
 
