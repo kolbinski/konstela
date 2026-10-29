@@ -37,7 +37,7 @@ Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się ni
 
 ## Część druga: prośba o wskazanie drogi finansowania części artystycznej
 
-Częścią artystyczną przedsięwzięcia są cztery powiązane działania - trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie hymnu [konstela.org/hymn](https://konstela.org/hymn/) - do których dochodzi piąte, o charakterze popularyzatorskim.
+Częścią artystyczną przedsięwzięcia są powiązane działania - trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie hymnu [konstela.org/hymn](https://konstela.org/hymn/) - do których dochodzi piąte, o charakterze popularyzatorskim.
 
 ### Plebiscyt na piosenkę o sztucznej inteligencji
 
