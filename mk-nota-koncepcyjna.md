@@ -610,8 +610,6 @@ Strona Nagrody ma **tryb czytelności**, włączany jednym przyciskiem w pasku u
 
 Dokumenty - regulaminy, karty oceny, polityka prywatności, procedura moderacji - są publikowane jako **zwykły tekst w HTML, a nie jako pliki do pobrania**. Czyta je czytnik ekranu, da się je powiększyć bez utraty układu i działają na każdym telefonie. Antologia ukazuje się w formacie elektronicznym pozwalającym na powiększenie pisma, obok wydania drukowanego.
 
-Mówię o tym wprost, ponieważ przy przedsięwzięciu adresowanym do wszystkich dostępność bywa obiecywana na etapie wniosku i sprawdzana dopiero po realizacji. Tutaj jest wykonana przed ogłoszeniem naboru i można ją sprawdzić dzisiaj, pod adresem konstela.org.
-
 ## 14. O organizatorze
 
 Pomysłodawcą i organizatorem Nagrody jest Krzysztof Olbiński, inżynier oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej.
