@@ -2,7 +2,7 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-nota-koncepcyjna/*
 
-Nagroda Konstela to nowa, coroczna, ogólnopolska nagroda.
+Nagroda Konstela to nowa, coroczna, ogólnopolska nagroda. Nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi.
 
 Przyznawana jest w czterech równorzędnych plebiscytach, rozstrzyganych na tej samej gali rozdania nagród:
 
