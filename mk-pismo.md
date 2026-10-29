@@ -127,7 +127,7 @@ Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzą
 
 Uprzejmie proszę o stanowisko w pięciu sprawach formalnych.
 
-### Który program jest właściwy
+## Pytanie 1: który Program Ministra jest właściwy dla tego zadania
 
 Po pierwsze, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym. Dla plebiscytu na piosenkę o sztucznej inteligencji rozważam programy Muzyka, Edukacja kulturalna, Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży; dla plebiscytu na plakat o sztucznej inteligencji - program Sztuki wizualne, ponieważ zadanie obejmuje tam plebiscyt, wystawę oryginałów prac finałowych i publiczne Archiwum reprodukcji; dla plebiscytu na film o sztucznej inteligencji - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
 
@@ -137,7 +137,7 @@ Proszę o wskazanie, czy plebiscyt na film o sztucznej inteligencji o takiej kon
 
 Nie mam również pewności ani tego, czy plebiscyt kompozytorsko-wykonawczy połączony z nagraniem i koncertem finałowym mieści się w którymkolwiek z wymienionych programów, ani tego, czy przedsięwzięcie złożone z trzech plebiscytów w różnych dziedzinach należy podzielić na odrębne zadania. Proszę również o wskazanie, czy plebiscyt wraz z koncertem finałowym może stanowić odrębne zadanie, natomiast produkcja nagrań studyjnych finalistów oraz nagranie hymnu wraz z teledyskiem wymagają innej ścieżki finansowania - a jeżeli tak, czy wystarczy rozdzielenie budżetów w jednym zadaniu, czy konieczne jest wyodrębnienie osobnych zadań.
 
-### Status wnioskodawcy
+## Pytanie 2: status wnioskodawcy - działalność gospodarcza albo fundacja
 
 Po drugie, o potwierdzenie statusu wnioskodawcy. Specyfikacja programu Muzyka na rok 2026, podobnie jak specyfikacje Sztuk wizualnych i Edukacji kulturalnej na ten rok, wymienia osoby fizyczne prowadzące działalność gospodarczą wprost wśród uprawnionych wnioskodawców spoza sektora finansów publicznych i na tej podstawie przyjmuję, że prowadzona przeze mnie działalność wpisana do CEIDG byłaby wnioskodawcą uprawnionym.
 
@@ -145,7 +145,7 @@ Proszę o wskazanie, czy zasada ta ma zostać utrzymana w naborze na rok 2027 or
 
 Dodam, że działalność gospodarczą i fundację rozważam jako **alternatywnych wnioskodawców**, a nie jako następstwo - nie zakładam dopuszczalności przejęcia przez fundację zadania rozpoczętego przez moją działalność i o taką możliwość nie wnoszę.
 
-### Zadanie dwuletnie
+## Pytanie 3: czy ten zakres może być zadaniem dwuletnim w latach 2027-2028
 
 Po trzecie, o warunki realizacji tego konkretnego zakresu w latach 2027-2028. Wiem, że Programy Ministra przewidują zadania dwuletnie, więc nie pytam o samą dopuszczalność, lecz o to, czy przedstawiony tu zakres może być zadaniem dwuletnim i jakie warunki finansowania wieloletniego są przewidywane.
 
@@ -162,11 +162,11 @@ Termin gali został ustalony na kwiecień 2028, a nie na marzec 2028, właśnie 
 
 Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: przesyłka oryginałów do Organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace mają dotrzeć przed oględzinami na początku lutego 2028, natomiast realizacja wystawy i przesyłki powrotne przypadają na 2028 rok.
 
-### Wybór naboru i koszty kwalifikowalne
+## Pytanie 4: wybór naboru i koszty ponoszone przed podpisaniem umowy
 
 Po czwarte, o warunki, które pozwolą mi wybrać nabór. Proszę o wskazanie, czy wsparcie w naborze na rok 2028 mogłoby objąć wyodrębniony finał przedsięwzięcia rozpoczętego w 2027 roku, jakie znaczenie dla oceny wniosku ma wcześniejsze rozpoczęcie całości, a także **od kiedy mogą być ponoszone koszty kwalifikowalne, w jakim terminie przekazywane są środki i czy dopuszczalne jest finansowanie wydatków poniesionych przed podpisaniem umowy**. To ostatnie jest dla mnie istotniejsze niż sama dopuszczalność zadania dwuletniego: pierwsze koszty przypadają na początek 2027 roku, a finansowania pomostowego nie mam.
 
-### Udział środków z innych źródeł
+## Pytanie 5: wymagany udział środków z innych źródeł
 
 Po piąte, o udział środków pochodzących z innych źródeł. Proszę o wskazanie, **jaki udział jest w rozważanych programach wymagany lub preferowany** oraz czy może on zostać pokryty ze środków sponsorów prywatnych. Pytam dlatego, że przedsięwzięcia nie finansuję ze środków własnych, a rozmowy ze sponsorami prowadzę równolegle - chcę wiedzieć, czy ich wkład może stanowić wymagany udział, zamiast wykluczać się z dotacją.
 
