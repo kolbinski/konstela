@@ -153,12 +153,10 @@ Rozkład kosztów na lata jest następujący:
 
 - **nagranie hymnu i jego premiera** przypadają na 2027 rok, w czasie trwania naboru, bez warunkowania nim otwarcia edycji;
 - **nabór zgłoszeń** przypada na 2027 rok;
-- **praca przy ocenie** rozkłada się na oba lata: pierwsza runda prowadzona jest przez akademię na bieżąco od lutego 2027 do stycznia 2028, a ocena jury wraz z rozmowami weryfikacyjnymi przypada na styczeń 2028 i pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
+- **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata: pierwsza runda prowadzona jest przez akademię na bieżąco od lutego 2027 do stycznia 2028, a ocena jury wraz z rozmowami weryfikacyjnymi przypada na styczeń 2028 i pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
 - **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace mają dotrzeć w terminie 21 dni od zawiadomienia, czyli do początku stycznia 2028;
 - **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
-- **finał** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę kwietnia 2028 roku.
-
-Termin gali został ustalony na kwiecień 2028, a nie na marzec 2028, właśnie dlatego, że książkowe wydanie antologii z okładką opartą na zwycięskim plakacie musi być wydrukowane i wprowadzone do dystrybucji przed premierą.
+- **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę kwietnia 2028 roku.
 
 Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: przesyłka oryginałów do Organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace mają dotrzeć przed oględzinami na początku lutego 2028, natomiast realizacja wystawy i przesyłki powrotne przypadają na 2028 rok.
 
