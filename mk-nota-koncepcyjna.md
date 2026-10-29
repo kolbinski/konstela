@@ -2,13 +2,14 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-nota-koncepcyjna/*
 
-**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
+**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Przyznawana jest w czterech równorzędnych plebiscytach, rozstrzyganych na tej samej gali rozdania nagród:
 
-Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali rozdania nagród:
-
+- otwarty plebiscyt na rozmowę ze sztuczną inteligencją;
 - otwarty plebiscyt na piosenkę o sztucznej inteligencji;
 - otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie;
 - otwarty plebiscyt na film o sztucznej inteligencji.
+
+Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
 
 Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w [rozdziale 2](#2-problem-ktory-adresujemy), a ich konstrukcja i kosztorysy w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film).
 
