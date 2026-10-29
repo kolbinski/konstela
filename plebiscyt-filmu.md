@@ -275,7 +275,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
 Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
 
@@ -283,7 +283,7 @@ Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszon
 
 To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało – a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
 
-**Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie – z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby konkursem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
+**Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie – z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby plebiscytem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
 
 **Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
 

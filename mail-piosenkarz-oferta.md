@@ -1,6 +1,6 @@
 # Hymn „Zapytaj inaczej" - decyzje tekstowe i zasady kontaktu z wykonawcami
 
-**Czym jest ten plik po zmianie z 23.10.2026.** Powstał jako oferta zlecenia dla jednego wykonawcy: demo za 800 zł i nagranie finalne za 3000 zł. Ten model **nie obowiązuje** - hymn nagrywa skład jury plebiscytu, poza konkursem. Treść oferty, mail i wiadomość instagramowa zostały z tego pliku usunięte, żeby nikt ich przez pomyłkę nie wysłał. Sześć osób, które dostały propozycję 22.10.2026, otrzymało sprostowanie wiadomością prywatną na Instagramie 24.10.2026.
+**Czym jest ten plik po zmianie z 23.10.2026.** Powstał jako oferta zlecenia dla jednego wykonawcy: demo za 800 zł i nagranie finalne za 3000 zł. Ten model **nie obowiązuje** - hymn nagrywa skład jury plebiscytu, poza plebiscytem. Treść oferty, mail i wiadomość instagramowa zostały z tego pliku usunięte, żeby nikt ich przez pomyłkę nie wysłał. Sześć osób, które dostały propozycję 22.10.2026, otrzymało sprostowanie wiadomością prywatną na Instagramie 24.10.2026.
 
 **Co zostaje i po co.** Decyzje dotyczące tekstu, bo będą potrzebne jurorom przy nagraniu i przy każdej przyszłej rozmowie o aranżacji, oraz zasady pisania do wykonawców, bo zapraszanie do plebiscytu pójdzie tą samą drogą.
 

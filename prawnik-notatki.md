@@ -35,7 +35,7 @@ Oceny dopasowania pochodzą wyłącznie z tego, co kancelarie deklarują na wła
 
 **Termin:** węższy zakres statutowy do końca października, czyli przed wizytą u notariusza na początku listopada. Poproszono o potwierdzenie tego terminu na piśmie.
 
-**Zakres analizy statutu:** organy fundacji, reprezentacja, działalność gospodarcza, wyłączenia z udziału w konkursie. Kwota funduszu założycielskiego, jego część na działalność gospodarczą i kody PKD 2025 zostają po stronie GCOP, zgodnie z tym, co napisano w zapytaniu.
+**Zakres analizy statutu:** organy fundacji, reprezentacja, działalność gospodarcza, wyłączenia z udziału w plebiscycie. Kwota funduszu założycielskiego, jego część na działalność gospodarczą i kody PKD 2025 zostają po stronie GCOP, zgodnie z tym, co napisano w zapytaniu.
 
 **Rada udzielona od razu, bezpłatnie:** w § 11 zostawić ustępy 1 i 3, usunąć ustęp 2 jako zbędny.
 

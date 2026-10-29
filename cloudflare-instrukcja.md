@@ -206,7 +206,7 @@ Dziś są dwie takie strony: **`/view.html`** (adresy `/dokument/<nazwa>`) oraz 
 
 ## Zmiana sluga regulaminu rozmów (26.10.2026)
 
-Plik `regulamin.md` nosi teraz nazwę `regulamin-rozmowy.md`, więc strona powstaje pod adresem `konstela.org/dokument/regulamin-rozmowy`. Powód: nazwa `regulamin` pochodziła z czasów, gdy konkurs był jeden, a przy czterech plebiscytach nie mówiła, czego dotyczy.
+Plik `regulamin.md` nosi teraz nazwę `regulamin-rozmowy.md`, więc strona powstaje pod adresem `konstela.org/dokument/regulamin-rozmowy`. Powód: nazwa `regulamin` pochodziła z czasów, gdy plebiscyt był jeden, a przy czterech plebiscytach nie mówiła, czego dotyczy.
 
 **Stary adres poszedł już na zewnątrz** - jest w pismach do Ministerstwa Cyfryzacji i Ministerstwa Edukacji, w ofertach dla wydawnictw i w materiale dla kancelarii. Dlatego potrzebna jest reguła przekierowania, a nie tylko nowy plik.
 

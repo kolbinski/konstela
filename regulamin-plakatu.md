@@ -166,7 +166,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
    d) oryginał nie ma formatu pionowego, jego dłuższy bok jest krótszy niż 50 cm albo dłuższy niż 150 cm, albo proporcje boków wykraczają poza zakres od 1:1,2 do 1:1,6;
 
-   e) praca była **przed dniem złożenia zgłoszenia** publikowana w wydawnictwie, prezentowana na wystawie albo nagrodzona w innym konkursie; warunek ten bada się według stanu na dzień złożenia zgłoszenia, a późniejsza prezentacja pracy przez Uczestnika nie wyłącza zgłoszenia z plebiscytu; udostępnienie na własnym profilu Uczestnika nie jest publikacją w tym rozumieniu i nie wyłącza zgłoszenia;
+   e) praca była **przed dniem złożenia zgłoszenia** publikowana w wydawnictwie, prezentowana na wystawie albo nagrodzona w innym plebiscycie; warunek ten bada się według stanu na dzień złożenia zgłoszenia, a późniejsza prezentacja pracy przez Uczestnika nie wyłącza zgłoszenia z plebiscytu; udostępnienie na własnym profilu Uczestnika nie jest publikacją w tym rozumieniu i nie wyłącza zgłoszenia;
 
    f) reprodukcja nie spełnia wymogów technicznych z § 4 ust. 2 lit. a albo nie pozwala ocenić pracy;
 
@@ -294,7 +294,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 4d. **Publiczne ogłoszenie werdyktu następuje podczas gali**, razem z premierą antologii.
 
-4e. **Nabór w plebiscycie plakatu zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela.** Terminy obu naborów Organizator ogłasza przed otwarciem plebiscytu.
+4e. **Nabór w plebiscycie na plakat zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela.** Terminy obu naborów Organizator ogłasza przed otwarciem plebiscytu.
 
 4f. **Pierwsze przejście oceny przeprowadza akademia plakatu, powoływana w każdej edycji** – grono praktyków plakatu, ilustracji i projektowania graficznego, które ogląda wszystkie zgłoszenia, które przeszły weryfikację formalną, i przekazuje jury listę węższą. Akademia ocenia według karty oceny określonej w § 7, bez stosowania jakichkolwiek innych kryteriów. Wybór dziesięciu finalistów i pełny werdykt pozostają przy jury.
 
@@ -455,7 +455,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 2b. Licytacja prowadzona przez Organizatora odbywa się **wyłącznie jako cicha licytacja przy wystawie w galerii sztuki** (§ 10 ust. 3a) i tylko wobec finalistów, którzy przyjęli propozycję udziału w tej wystawie. **Jeżeli galeria nie zostanie pozyskana, licytacja prowadzona przez Organizatora nie odbywa się**; nie zastępuje jej wówczas żadna inna forma, a Uczestnikom pozostaje własna sprzedaż na zasadach z ust. 8 i następnych.
 
-3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego plebiscytu plakatu**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
+3. Przychód z licytacji, po pokryciu kosztów jej przeprowadzenia wskazanych w warunkach z ust. 2, dzieli się w stosunku **50 procent dla autora pracy i 50 procent na pulę nagród kolejnej edycji tego samego plebiscytu na plakat**. Organizator nie przeznacza tego przychodu na własną działalność ani na wynagrodzenie, a rozliczenie przedstawia autorowi na piśmie.
 
 4. Podział, o którym mowa w ust. 3, jest jednakowy dla wszystkich uczestników licytacji i ogłoszony przed otwarciem naboru.
 
@@ -553,13 +553,13 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 **Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
 
-Lista wskazuje konkretne jednostki redakcyjne, nie obszary – tak samo jak przy regulaminie Nagrody i regulaminie plebiscytu piosenki.
+Lista wskazuje konkretne jednostki redakcyjne, nie obszary – tak samo jak przy regulaminie Nagrody i regulaminie plebiscytu na piosenkę.
 
 1. **§ 3 ust. 1-2** – granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy, w tym zgody na wysyłkę oryginału pracy należącej do osoby niepełnoletniej.
 2. **§ 5 ust. 2 lit. d-e** – wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: format pionowy i minimalny wymiar oryginału oraz brak wcześniejszej publikacji. Czy rodzą ryzyko zarzutu nierównego traktowania.
 3. **§ 6 ust. 2** – sformułowanie zakazu tak, by odróżniało przejęcie obrazu wygenerowanego od inspiracji, w sposób nadający się do zastosowania w sporze.
 4. **§ 4a w związku z § 6 ust. 6 i § 15** – obowiązkowe nagranie z powstawania pracy. Prosimy o ocenę: czy wymóg przesłania nagrania, na którym widoczna jest ręka Uczestnika, jest proporcjonalny w rozumieniu RODO i wystarczająco jednoznaczny wobec konsumenta; jaka jest podstawa przetwarzania wizerunku utrwalonego w nagraniu, skoro nagranie jest warunkiem udziału, a nie przedmiotem zgody; czy zapewnienie z § 4a ust. 6 o niepublikowaniu nagrania wymaga odzwierciedlenia w polityce prywatności i w umowie z oceniającymi; oraz czy nagranie jest wystarczającą podstawą wykluczenia z § 15 ust. 5, gdy przeczy oświadczeniu z § 6 ust. 5. Odrębnie prosimy o ocenę wymogu z § 4a ust. 3 lit. c1 – nagranie musi zawierać nieprzerwane przejście od twarzy Uczestnika do pracy, więc wizerunek twarzy jest warunkiem udziału w plebiscycie, także wobec Uczestnika, który nie ukończył 18 lat (§ 3 ust. 2); prosimy o wskazanie, czy zgoda przedstawiciela ustawowego powinna obejmować ten zakres wyraźnie i odrębnie.
-5. **§ 9 ust. 3** – sposób rozliczenia podatku; decyzja wspólna z pulą nagrody głównej i z plebiscytem piosenki, dotąd niepodjęta.
+5. **§ 9 ust. 3** – sposób rozliczenia podatku; decyzja wspólna z pulą nagrody głównej i z plebiscytem na piosenkę, dotąd niepodjęta.
 6. **§ 10** – odpowiedzialność Organizatora za powierzony oryginał: zakres ubezpieczenia, podstawa odpowiedzialności przy uszkodzeniu lub utracie, a także to, czy potrzebna jest odrębna umowa przechowania z każdym finalistą.
 7a. **§ 13 ust. 2 lit. d i ust. 4 w nowym brzmieniu** – czy uczynienie zgody na wykorzystanie pracy zwycięskiej na okładce antologii **warunkiem udziału** jest wobec konsumenta proporcjonalne, skoro dotyczy wyłącznie jednej osoby i jest ogłaszane przed naborem; oraz czy zapis awaryjny z § 9 ust. 4a1 – reprodukcja całej pracy bez kadrowania przy braku porozumienia co do formy – jest wystarczający wobec prawa do nienaruszalności formy utworu, którego nie da się zrzec.
 7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** – zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.

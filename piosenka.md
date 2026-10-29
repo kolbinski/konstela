@@ -30,7 +30,7 @@ Dla wykonawcy to jest coś innego niż piosenka na zamówienie firmy. To zajęci
 
 **Mówię wprost, czego nie obiecuję.** Nie obiecuję, że nagranie finalne powstanie, bo zależy to od sponsora, którego jeszcze nie ma. Obiecuję dwie rzeczy: że demo opłacam od razu i bezwarunkowo, oraz że jeśli dojdzie do wersji finalnej, stawka będzie ta uzgodniona na początku.
 
-**Gala.** Jeśli konkurs ruszy, chciałbym, żeby piosenka zabrzmiała na żywo podczas gali wręczenia nagród w Twoim wykonaniu. To trzecie, osobne i również płatne zlecenie, nie warunek żadnego z poprzednich.
+**Gala.** Jeśli plebiscyt ruszy, chciałbym, żeby piosenka zabrzmiała na żywo podczas gali wręczenia nagród w Twoim wykonaniu. To trzecie, osobne i również płatne zlecenie, nie warunek żadnego z poprzednich.
 
 **Twarz piosenki.** Nie szukam kogoś, kto nagra utwór i zniknie. Jeśli Nagroda ruszy, piosenka będzie jej wizytówką, a Ty jej wykonawcą: w rozmowach z mediami, w radiu, w pasmach muzycznych i porannych programach, wszędzie tam, gdzie uda się ją wypromować. Niczego tu nie obiecuję, bo o tym decydują redakcje, a nie ja, i nie każdy ma na to ochotę. Piszę o tym, bo to działa w obie strony: jeśli lubisz tę część zawodu, jest to dla Ciebie kawałek widoczności przy temacie, o którym w 2027 roku będzie się mówić, a jeśli nie lubisz, lepiej, żebyś wiedział o tym teraz niż po nagraniu. Udział w promocji umawiamy osobno i osobno wynagradzam - samo pozwolenie na wydanie utworu nie jest zapłatą za dyspozycyjność.
 

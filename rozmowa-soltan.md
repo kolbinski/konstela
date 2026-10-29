@@ -25,7 +25,7 @@ Wniosek: ma własny warsztat produkcyjny, więc nie wynajmuje studia z zewnątrz
 
 ## Jedno zdanie, które trzeba powiedzieć
 
-Regulamin wyłącza z udziału w edycji osoby, które na zlecenie Organizatora stworzyły materiał własny Nagrody (§ 3 ust. 5c). Czyli jeżeli nagra tę piosenkę, nie może w tej edycji startować w konkursie. Wyłączenie dotyczy tylko jego, nie rodziny. Powiedz to zanim cokolwiek podpiszecie - koszt dla niego praktycznie zerowy, a dla Ciebie to dowód, że prowadzisz rzecz poważnie. Tak samo postąpiliśmy przy zaproszeniach do rady fundacji.
+Regulamin wyłącza z udziału w edycji osoby, które na zlecenie Organizatora stworzyły materiał własny Nagrody (§ 3 ust. 5c). Czyli jeżeli nagra tę piosenkę, nie może w tej edycji startować w plebiscycie. Wyłączenie dotyczy tylko jego, nie rodziny. Powiedz to zanim cokolwiek podpiszecie - koszt dla niego praktycznie zerowy, a dla Ciebie to dowód, że prowadzisz rzecz poważnie. Tak samo postąpiliśmy przy zaproszeniach do rady fundacji.
 
 ## Co powiedzieć o ofercie
 

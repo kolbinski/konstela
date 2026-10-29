@@ -33,7 +33,7 @@ Czas rejestracji w KRS potrafi wynieść od kilku tygodni do ponad dwóch miesi�
 
 Faktura za usługę, nie darowizna. Tubądzin dostaje świadczenie wzajemne (logo na stronie, pięć minut podczas gali), więc kupuje usługę i rozlicza ją w kosztach. Darowizna byłaby dla sponsora gorsza podatkowo, a przy odbiorcy będącym osobą fizyczną także dla organizatora.
 
-**Kwota: 271 700 zł netto, czyli 334 191 zł brutto do zapłaty** - cała zakładka [Budżet Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) arkusza budzet-edycji-pierwszej, obejmująca antologię i Archiwum. Na tę sumę składa się 88 000 zł pracy organizatora, 121 000 zł kosztów twardych i 62 700 zł marży. Rozstrzygnięte 25.10.2026: **Tubądzin jest sponsorem całego Budżetu A**, a nie sponsorem organizacyjnym z osobną, mniejszą kwotą. Założenie fundacji to w tym rząd wielkości kilku tysięcy złotych - pozycja, nie uzasadnienie całego bloku. Wobec sponsora nazywamy to tym, czym jest: prowadzeniem konkursu i wyprodukowaniem antologii.
+**Kwota: 271 700 zł netto, czyli 334 191 zł brutto do zapłaty** - cała zakładka [Budżet Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) arkusza budzet-edycji-pierwszej, obejmująca antologię i Archiwum. Na tę sumę składa się 88 000 zł pracy organizatora, 121 000 zł kosztów twardych i 62 700 zł marży. Rozstrzygnięte 25.10.2026: **Tubądzin jest sponsorem całego Budżetu A**, a nie sponsorem organizacyjnym z osobną, mniejszą kwotą. Założenie fundacji to w tym rząd wielkości kilku tysięcy złotych - pozycja, nie uzasadnienie całego bloku. Wobec sponsora nazywamy to tym, czym jest: prowadzeniem plebiscytu i wyprodukowaniem antologii.
 
 *Do 25.10.2026 stało w tym miejscu „67 tys. netto / 82 tys. brutto". Tych liczb nie ma w arkuszu ani w jego wersji z 19.10.2026; pochodziły z modelu sprzed podziału na trzy wnioski, gdy blok B znaczył co innego i był czterokrotnie mniejszy.*
 
@@ -65,14 +65,14 @@ Mail do Cezarego i rozmowa z Wodzyńskim idą **równolegle**, jedno nie czeka n
 
 **Profil.** Osoba niezależna od fundatora, z doświadczeniem organizacyjnym i odpornością na sprawozdawczość. **Rada nie jest witryną** - nazwiska są potrzebne w jury, a to inna rola. jury nie mieszać z radą: koncentracja zarządzania i oceniania w tych samych rękach osłabia niezależność, którą sprzedajemy ministerstwu i sponsorowi.
 
-**Cena dla zapraszanego.** § 3 ust. 5 regulaminu wyłącza organy fundacji z udziału w konkursie - każdy członek rady traci prawo startu. Trzeba to powiedzieć wprost przed przyjęciem funkcji, tak samo jak dziekanowi przy patronacie. Funkcja jest nieodpłatna.
+**Cena dla zapraszanego.** § 3 ust. 5 regulaminu wyłącza organy fundacji z udziału w plebiscycie - każdy członek rady traci prawo startu. Trzeba to powiedzieć wprost przed przyjęciem funkcji, tak samo jak dziekanowi przy patronacie. Funkcja jest nieodpłatna.
 
 **Wysłane 22.10.2026:**
 
 - [ ] **Kamil Tatol** - mailem. Dawny współpracownik z projektu w Norwegii. W treści uwzględnione, że na wcześniejsze wiadomości nie odpowiadał; odmowa ma kosztować jedno zdanie.
 - [ ] **Tomasz Turczynowicz** - wiadomością na LinkedIn. Dawny współpracownik z Sygnity.
 
-W obu wypadkach powiedziano wprost: fundacji jeszcze nie ma, fundatora puli nagród też nie, funkcja jest nieodpłatna, a członkostwo wyłącza z udziału w konkursie. **Bez odpowiedzi po dwóch tygodniach temat zamykamy i szukamy dalej** - przy funkcji wpisywanej do KRS wymuszanie zgody jest gorsze niż jej brak.
+W obu wypadkach powiedziano wprost: fundacji jeszcze nie ma, fundatora puli nagród też nie, funkcja jest nieodpłatna, a członkostwo wyłącza z udziału w plebiscycie. **Bez odpowiedzi po dwóch tygodniach temat zamykamy i szukamy dalej** - przy funkcji wpisywanej do KRS wymuszanie zgody jest gorsze niż jej brak.
 
 **Rozważany, decyzja odłożona (22.10.2026):**
 
@@ -109,7 +109,7 @@ Polecone biuro rachunkowe: https://biuro-lex.pl/
 
 **4. Płatnik zryczałtowanego podatku 10% - fundacja.** Płatnikiem jest organ wypłacający, więc fundacja, niezależnie od tego, skąd pochodzą środki. Konstrukcja umowy z fundatorem zewnętrznym: księgowy odsyła do prawnika, pytanie zostaje w [prawnik.md](/dokument/prawnik).
 
-**5. Ubruttowienie - zależy od brzmienia ogłoszenia, i to jest decyzja do podjęcia.** Jeżeli w ogłoszeniu konkursu podana jest kwota **wypłacana laureatowi**, pulę trzeba ubruttowić, żeby laureat dostał dokładnie tyle. Jeżeli podana jest po prostu kwota nagrody, przyjmuje się, że to kwota brutto i laureat otrzymuje ją pomniejszoną o podatek - tak działa na przykład Lotto. Dzisiejszy § regulaminu (pkt 6 w rozdziale o nagrodach) mówi tylko, że podatek jest pobierany, czyli domyślnie realizuje wariant drugi. **Do rozstrzygnięcia przed ogłoszeniem puli**, bo przy puli 30 000 zł różnica to 3 333 zł po stronie fundacji.
+**5. Ubruttowienie - zależy od brzmienia ogłoszenia, i to jest decyzja do podjęcia.** Jeżeli w ogłoszeniu plebiscytu podana jest kwota **wypłacana laureatowi**, pulę trzeba ubruttowić, żeby laureat dostał dokładnie tyle. Jeżeli podana jest po prostu kwota nagrody, przyjmuje się, że to kwota brutto i laureat otrzymuje ją pomniejszoną o podatek - tak działa na przykład Lotto. Dzisiejszy § regulaminu (pkt 6 w rozdziale o nagrodach) mówi tylko, że podatek jest pobierany, czyli domyślnie realizuje wariant drugi. **Do rozstrzygnięcia przed ogłoszeniem puli**, bo przy puli 30 000 zł różnica to 3 333 zł po stronie fundacji.
 
 **6. Laureat niebędący polskim rezydentem - zależy od umowy o unikaniu podwójnego opodatkowania** z państwem jego rezydencji. W większości wypadków zasady będą takie same lub zbliżone do krajowych, ale dochodzą dokumenty i obowiązki sprawozdawcze. To nie jest argument za ograniczeniem kręgu uczestników, tylko za przygotowaniem procedury: certyfikat rezydencji i IFT-1R.
 

@@ -58,5 +58,5 @@ Opublikowany 22.10.2026 w pierwotnej wersji, przed zmianą treści pozostałych 
 
 ## Uwagi do faktów
 
-- **Loebner Prize**: konkurs odbywał się od 1991 do 2019 roku, czyli dwadzieścia dziewięć edycji. „Przez trzydzieści lat" jest zaokrągleniem i w tekście wpisu jest do obrony, ale gdyby ktoś dopytał, właściwa odpowiedź brzmi: od 1991 do 2019.
+- **Loebner Prize**: plebiscyt odbywał się od 1991 do 2019 roku, czyli dwadzieścia dziewięć edycji. „Przez trzydzieści lat" jest zaokrągleniem i w tekście wpisu jest do obrony, ale gdyby ktoś dopytał, właściwa odpowiedź brzmi: od 1991 do 2019.
 - **Alexa Prize**: nagroda główna (Grand Challenge) była uzależniona od utrzymania spójnej, angażującej rozmowy przez dwadzieścia minut. Zapis we wpisie jest wierny.

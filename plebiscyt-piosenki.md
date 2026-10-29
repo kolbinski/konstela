@@ -274,7 +274,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
 **Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka galę. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 
@@ -288,7 +288,7 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, raz
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniamy wersję dostępną pod linkiem tego dnia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, laureaci trzech pierwszych miejsc plebiscytu piosenki wykonują nagrodzone utwory na żywo</small></dd></div>
+<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, laureaci trzech pierwszych miejsc plebiscytu na piosenkę wykonują nagrodzone utwory na żywo</small></dd></div>
 <div><dt>Po gali</dt><dd>Nagrania studyjne finalistów<small>termin sesji i przekazania materiału podamy przed otwarciem naboru</small></dd></div>
 </dl>
 

@@ -63,7 +63,7 @@ Zgłoszenia ocenia jury, a pierwszą selekcję prowadzi akademia plakatu, powoł
 
 Oryginały finalistów są pokazywane na wystawie towarzyszącej gali, a ich transport w obie strony pokrywa organizator. Zwycięska praca trafia na okładkę antologii - zgoda na to jest warunkiem udziału, a z autorem uzgadniana jest wyłącznie forma okładki. W jury zasiadają praktycy plakatu i ilustracji; składu nie wymieniam, dopóki jego członkowie nie potwierdzą udziału na piśmie.
 
-Obowiązuje tu reguła ostrzejsza niż w plebiscycie piosenki: obraz ma powstać pod ludzką ręką. Niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wygenerowanego albo domalowanej na wydrukowanym podkładzie; dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu pomysłów, zanim autor weźmie pędzel.
+Obowiązuje tu reguła ostrzejsza niż w plebiscycie na piosenkę: obraz ma powstać pod ludzką ręką. Niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wygenerowanego albo domalowanej na wydrukowanym podkładzie; dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu pomysłów, zanim autor weźmie pędzel.
 
 Różnica wobec piosenki, gdzie tekst wolno napisać przy udziale sztucznej inteligencji, wynika z tego, że przy plakacie ocenianym wytworem jest sam obraz, a nie jeden z kilku składników utworu. Weryfikacja opiera się na oświadczeniu zgłaszającego, na obowiązkowym nagraniu z powstawania pracy, trwającym co najmniej 3 minuty, oraz na oryginałach nadsyłanych przez finalistów, a nie na rozpoznawaniu narzędzia przez jury podczas oglądania reprodukcji.
 
@@ -76,7 +76,7 @@ Dwie konsekwencje praktyczne wymieniam, bo wpływają na harmonogram całego prz
 
 Przewidziana jest także licytacja oryginałów, dobrowolna, prowadzona wyłącznie jako cicha licytacja przy wystawie w galerii sztuki i proponowana finalistom razem z wezwaniem do przesłania oryginału, przy czym jury nie jest informowane o odpowiedzi autora; przy zgodzie autora przychód dzieli się po połowie między autora i pulę nagród kolejnej edycji tego plebiscytu, a organizator nie zatrzymuje z niego nic na własną działalność.
 
-Konkurs plakatu wymieniam w piśmie do resortu kultury również z powodu, który jest od jego konstrukcji niezależny: plakat jest dziedziną o rozpoznawalnym polskim dorobku, a zestaw kilkudziesięciu prac o sztucznej inteligencji, wykonanych ręcznie w jednym roku i zachowanych w publicznym Archiwum, jest sam w sobie dokumentem tego, jak ten temat był wtedy widziany.
+Plebiscyt na plakat wymieniam w piśmie do resortu kultury również z powodu, który jest od jego konstrukcji niezależny: plakat jest dziedziną o rozpoznawalnym polskim dorobku, a zestaw kilkudziesięciu prac o sztucznej inteligencji, wykonanych ręcznie w jednym roku i zachowanych w publicznym Archiwum, jest sam w sobie dokumentem tego, jak ten temat był wtedy widziany.
 
 ### Plebiscyt na film o sztucznej inteligencji
 
@@ -92,13 +92,13 @@ Pracę jury ogranicza przy tym liczba filmów przekazywanych mu przez akademię 
 
 W tym jednym plebiscycie nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji. Uczestnik opisuje, co w jego filmie zrobiły takie narzędzia, deklaracja publikowana jest razem ze zgłoszeniem i nie podlega punktacji.
 
-Różnica wobec plebiscytów piosenki i plakatu jest celowa i wynika z przedmiotu oceny. Przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem - w obu wypadkach da się wskazać, co musi pochodzić od człowieka, i da się to sprawdzić na jednym przedmiocie albo na jednym nagraniu. Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz generatywny jest dziś najszybciej zmieniającą się częścią tych narzędzi: zakaz postawiony w regulaminie dziś byłby w dniu gali arbitralny, a jego weryfikacja wymagałaby audytu produkcji, którego organizator nie jest w stanie przeprowadzić. Zamiast zakazu, którego nie dałoby się dotrzymać, regulamin wprowadza jawność, której dotrzymać można.
+Różnica wobec plebiscytów na piosenkę i na plakat jest celowa i wynika z przedmiotu oceny. Przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem - w obu wypadkach da się wskazać, co musi pochodzić od człowieka, i da się to sprawdzić na jednym przedmiocie albo na jednym nagraniu. Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz generatywny jest dziś najszybciej zmieniającą się częścią tych narzędzi: zakaz postawiony w regulaminie dziś byłby w dniu gali arbitralny, a jego weryfikacja wymagałaby audytu produkcji, którego organizator nie jest w stanie przeprowadzić. Zamiast zakazu, którego nie dałoby się dotrzymać, regulamin wprowadza jawność, której dotrzymać można.
 
 Pierwsze przejście oceny prowadzi akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji. Wynika to z arytmetyki: filmy trwające do 90 minut, mnożone przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, dają pracę, której kilkuosobowe jury nie wykona. Jest to jednocześnie pozycja, która w tym przedsięwzięciu rośnie najszybciej wraz z liczbą zgłoszeń, i dlatego jest w załączonej nocie wyodrębniona wraz z tabelą pokazującą, przy jakim wolumenie ta konstrukcja przestaje być wykonalna.
 
 ### Hymn Nagrody
 
-Czwartym działaniem jest nagranie hymnu przedsięwzięcia do tekstu „Zapytaj inaczej", w wykonaniu jurorów, poza plebiscytem; tekst jest dziś wersją roboczą, a jego ostateczne brzmienie opracuje skład jury plebiscytu piosenki, który hymn skomponuje i nagra. Premierę hymnu planuję w 2027 roku, w czasie trwania naboru; **otwarcie naboru nie jest od niej uzależnione**, ponieważ termin nagrania zależy od zabezpieczenia środków i od skompletowania jury. Trzy najwyżej ocenione utwory plebiscytu oraz hymn zostaną następnie wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie kwietnia 2028 roku. Wszystkie zgłoszone utwory będą prezentowane na stronie przez cały rok trwania naboru, bezpłatnie i bez ograniczeń dostępu.
+Czwartym działaniem jest nagranie hymnu przedsięwzięcia do tekstu „Zapytaj inaczej", w wykonaniu jurorów, poza plebiscytem; tekst jest dziś wersją roboczą, a jego ostateczne brzmienie opracuje skład jury plebiscytu na piosenkę, który hymn skomponuje i nagra. Premierę hymnu planuję w 2027 roku, w czasie trwania naboru; **otwarcie naboru nie jest od niej uzależnione**, ponieważ termin nagrania zależy od zabezpieczenia środków i od skompletowania jury. Trzy najwyżej ocenione utwory plebiscytu oraz hymn zostaną następnie wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie kwietnia 2028 roku. Wszystkie zgłoszone utwory będą prezentowane na stronie przez cały rok trwania naboru, bezpłatnie i bez ograniczeń dostępu.
 
 ### Podcast towarzyszący Nagrodzie
 
@@ -129,7 +129,7 @@ Uprzejmie proszę o stanowisko w pięciu sprawach formalnych.
 
 ### Który program jest właściwy
 
-Po pierwsze, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym. Dla plebiscytu piosenki rozważam programy Muzyka, Edukacja kulturalna, Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży; dla plebiscytu plakatu - program Sztuki wizualne, ponieważ zadanie obejmuje tam plebiscyt, wystawę oryginałów prac finałowych i publiczne Archiwum reprodukcji; dla plebiscytu filmu - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
+Po pierwsze, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym. Dla plebiscytu na piosenkę rozważam programy Muzyka, Edukacja kulturalna, Zamówienia kompozytorskie oraz Wydarzenia artystyczne dla dzieci i młodzieży; dla plebiscytu na plakat - program Sztuki wizualne, ponieważ zadanie obejmuje tam plebiscyt, wystawę oryginałów prac finałowych i publiczne Archiwum reprodukcji; dla plebiscytu na film - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
 
 Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a wydatki to pula nagród, pierwsze przejście oceny, honoraria jury i pokazy.
 

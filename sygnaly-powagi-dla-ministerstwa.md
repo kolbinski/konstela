@@ -28,7 +28,7 @@ Dowód, że istnieje podmiot prawny, a nie zapał. Koszt zerowy, bo działalnoś
 
 ## 6. Polityka prywatności i wskazany administrator danych na stronie
 
-Dla ministerstwa RODO jest testem lakmusowym. Konkurs zbierający zgłoszenia bez polityki prywatności to pierwsza rzecz, którą zauważy ich prawnik. Regulamin ma paragraf o danych, ale na stronie musi to być widoczne osobno.
+Dla ministerstwa RODO jest testem lakmusowym. Plebiscyt zbierający zgłoszenia bez polityki prywatności to pierwsza rzecz, którą zauważy ich prawnik. Regulamin ma paragraf o danych, ale na stronie musi to być widoczne osobno.
 
 ## 7. Drugie nazwisko obok organizatora
 

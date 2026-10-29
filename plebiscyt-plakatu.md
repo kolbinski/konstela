@@ -60,7 +60,7 @@ Temat jest szeroki – sztuczna inteligencja i to, co robi ze światem i z ludź
 
 - praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie
 - format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6
-- praca **nie była publikowana w wydawnictwie, wystawiana ani nagradzana w innym konkursie przed dniem zgłoszenia** – liczy się stan na ten dzień, a pokazanie pracy na własnym profilu niczego nie blokuje
+- praca **nie była publikowana w wydawnictwie, wystawiana ani nagradzana w innym plebiscycie przed dniem zgłoszenia** – liczy się stan na ten dzień, a pokazanie pracy na własnym profilu niczego nie blokuje
 - zdjęcie albo skan ma **czytelną jakość**: cała praca w kadrze, bez odblasków i bez widocznego rozmycia
 
 ## <!--ikona:ogniwo--><span>Jak możesz się zgłosić</span>
@@ -280,7 +280,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu piosenki](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
 Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** – oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
 
@@ -290,7 +290,7 @@ Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** 
 
 <dl class="harmonogram">
 <div><dt>2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
-<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie rozmowy, bo antologia musi zdążyć do druku</small></dd></div>
+<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na rozmowę, bo antologia musi zdążyć do druku</small></dd></div>
 <div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały</small></dd></div>
 <div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginałów<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>

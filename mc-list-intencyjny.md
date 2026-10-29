@@ -24,7 +24,7 @@ Ministerstwo Cyfryzacji zapoznało się z przedstawioną koncepcją Nagrody Kons
 
 Ministerstwo uznaje tematykę inicjatywy za wpisującą się w obszar rozwoju kompetencji cyfrowych, w szczególności w zakresie świadomego i krytycznego korzystania z narzędzi sztucznej inteligencji, oraz dostrzega wartość edukacyjną udostępnianych bezpłatnie materiałów źródłowych w języku polskim.
 
-Niniejsze stanowisko odnosi się wyłącznie do zgodności tematyki przedsięwzięcia z obszarem kompetencji Ministerstwa. Nie zawiera oceny jakości konkursu, jego regulaminu ani przyjętych kryteriów oceny, nie stanowi rekomendacji organizatora i nie jest zapewnieniem, że przedsięwzięcie zostanie zrealizowane.
+Niniejsze stanowisko odnosi się wyłącznie do zgodności tematyki przedsięwzięcia z obszarem kompetencji Ministerstwa. Nie zawiera oceny jakości plebiscytu, jego regulaminu ani przyjętych kryteriów oceny, nie stanowi rekomendacji organizatora i nie jest zapewnieniem, że przedsięwzięcie zostanie zrealizowane.
 
 Ewentualne objęcie pierwszej edycji Nagrody patronatem honorowym Ministra Cyfryzacji wymaga odrębnego wniosku, złożonego w trybie określonym w Regulaminie przyznawania patronatów Ministra Cyfryzacji; zgodnie z tym regulaminem patronat nad przedsięwzięciem cyklicznym przyznawany jest każdorazowo na jedną edycję i zwykle na okres nie dłuższy niż rok. Niniejsze pismo wskazuje tę ścieżkę i nie zawiera rozstrzygnięcia co do wniosku, który zostanie oceniony na zasadach ogólnych.
 

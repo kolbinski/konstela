@@ -21,7 +21,7 @@ Coroczna nagroda dla ludzi, którzy prowadzą z AI rozmowy odkrywcze - nagradzam
 
 **Nagroda Konstela.** Gwiazdy same z siebie nie układają się w kształt; konstelacja powstaje, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. Nazwa niesie też obraz pieczęci: kropki i łączniki.
 
-**Dlaczego Konstela, a nie Nagroda Konstelacji (rozstrzygnięte 19.10.2026).** Nazwy nagród prestiżowych są nieopisowe: Nike, Oscar, Booker, Pulitzer, Paszporty. Nagroda się nazywa, a nie opisuje, a nazwa opisowa brzmi jak konkurs szkolny i nie podróżuje za granicę. "Konstela" to neologizm, w którym każdy Polak słyszy konstelację, więc metafora zostaje, ale marka jest własna i możliwa do zastrzeżenia. Zapis przez K jest świadomy: po polsku jest jedynym poprawnym, a przy wyjściu za granicę staje się znakiem pochodzenia, tak jak greckie brzmienie Nike.
+**Dlaczego Konstela, a nie Nagroda Konstelacji (rozstrzygnięte 19.10.2026).** Nazwy nagród prestiżowych są nieopisowe: Nike, Oscar, Booker, Pulitzer, Paszporty. Nagroda się nazywa, a nie opisuje, a nazwa opisowa brzmi jak plebiscyt szkolny i nie podróżuje za granicę. "Konstela" to neologizm, w którym każdy Polak słyszy konstelację, więc metafora zostaje, ale marka jest własna i możliwa do zastrzeżenia. Zapis przez K jest świadomy: po polsku jest jedynym poprawnym, a przy wyjściu za granicę staje się znakiem pochodzenia, tak jak greckie brzmienie Nike.
 
 Stały dopisek obok nazwy we wszystkich materiałach: "nagroda za rozmowy z AI". Nazwa nieprzejrzysta nabiera znaczenia przez powtarzaną ekspozycję, a tej na starcie nie mamy, więc dopisek robi robotę, dopóki nazwa nie zacznie jej robić sama.
 
@@ -73,7 +73,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 - **Konsekwencja wymogu linku:** odpadają dostawcy bez funkcji udostępniania; Bielik takiej funkcji nie ma (potwierdzone 19.10.2026). Świadomie przyjęta cena za prostotę reguły; udostępnianie staje się standardem, więc problem prawdopodobnie zniknie do drugiej edycji. **Zasada komunikacyjna:** w materiałach nie wymieniamy dostawców z nazwy, tylko warunek techniczny ("model udostępniający rozmowę pod linkiem"). Lista nazw starzeje się, sugeruje rekomendację i stawia nas w kłopotliwej pozycji wobec polskiego modelu, którego wymóg wyklucza.
 - **Minimum 800 słów wypowiedzi Uczestnika i minimum 12 jego wypowiedzi** w wątku, bez wypowiedzi modelu, oraz **maksimum 25 000 słów całości**. Historia: próg 3000 słów łącznie dało się przekroczyć jednym rozwlekłym wykładem modelu, więc 19.10.2026 zmieniono go na 1200 słów samego Uczestnika; tego samego dnia, po recenzji Gemini, obniżono go do 800 i uzupełniono o minimum liczby wypowiedzi. Powód obniżki: sam próg słów premiuje rozmowy długie i wyklucza gęste, zwięzłe dialogi, w których błyskotliwe połączenie zamyka się w 600 słowach. Powód dodania progu wypowiedzi: bez niego 800 słów można wyczerpać jednym rozbudowanym poleceniem, a to nie jest rozmowa.
 
-  **Kto liczy (rozstrzygnięte 19.10.2026).** Liczenie jest czynnością Organizatora, wykonywaną automatycznie na kopii archiwalnej, a nie zadaniem Uczestnika; regulamin mówi to wprost i dodaje tolerancję pięciu procent rozstrzyganą na korzyść Uczestnika. Rozważana była wtyczka do Chrome licząca słowa po stronie uczestnika i została odrzucona: wymagałaby osobnego parsera dla każdego dostawcy przy markupie zmieniającym się co kilka tygodni, własnej polityki prywatności, recenzji w Chrome Web Store i uprawnień do domen czatów, a przede wszystkim stawiałaby instalację wtyczki jako warunek wstępny udziału w konkursie. Skrypt archiwizujący i tak parsuje rozmowę, więc policzy słowa i wypowiedzi przy okazji. Przy dwunastu wypowiedziach próg 800 słów to około 67 słów na wiadomość, więc w praktyce nie wiąże samodzielnie. Do rozważenia przy drugiej edycji: prosty licznik na stronie konkursu, działający w przeglądarce uczestnika i nieprzesyłający nigdzie tekstu.
+  **Kto liczy (rozstrzygnięte 19.10.2026).** Liczenie jest czynnością Organizatora, wykonywaną automatycznie na kopii archiwalnej, a nie zadaniem Uczestnika; regulamin mówi to wprost i dodaje tolerancję pięciu procent rozstrzyganą na korzyść Uczestnika. Rozważana była wtyczka do Chrome licząca słowa po stronie uczestnika i została odrzucona: wymagałaby osobnego parsera dla każdego dostawcy przy markupie zmieniającym się co kilka tygodni, własnej polityki prywatności, recenzji w Chrome Web Store i uprawnień do domen czatów, a przede wszystkim stawiałaby instalację wtyczki jako warunek wstępny udziału w plebiscycie. Skrypt archiwizujący i tak parsuje rozmowę, więc policzy słowa i wypowiedzi przy okazji. Przy dwunastu wypowiedziach próg 800 słów to około 67 słów na wiadomość, więc w praktyce nie wiąże samodzielnie. Do rozważenia przy drugiej edycji: prosty licznik na stronie plebiscytu, działający w przeglądarce uczestnika i nieprzesyłający nigdzie tekstu.
 
 - **Jeden czat.** Jeden ciągły wątek, nie historia pocięta na kilkanaście okien.
 - **Po polsku.** Nazwy własne, terminy techniczne i cytowane komunikaty nie liczą się jako wstawki obcojęzyczne.
@@ -86,7 +86,7 @@ W rozmowie z patronem brak wzorca obraca się na korzyść jednym zdaniem: nie p
 
 **Forma prawna: fundacja (decyzja z 20.10.2026, zmiana wcześniejszego ustalenia).** Organizatorem jest fundacja powołana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Wcześniej zapisana tu była JDG z uzasadnieniem, że fundacja ma sens dopiero przy wielu darczyńcach - to ustalenie upadło, gdy pula urosła do 390 tys. zł: przy przyrzeczeniu publicznym tej wielkości JDG oznacza odpowiedzialność majątkiem osobistym. Pełne uzasadnienie, kolejność kroków i terminy graniczne: [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie).
 
-**Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](/dokument/regulamin-rozmowy) - w sprawach konkursu, [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej) - w kwotach i nakładzie pracy, [oferta mecenatu](/dokument/oferta-mecenat-antologii) - w zakresie finansowania antologii i Archiwum, [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
+**Uwaga o aktualności tego dokumentu.** Jest to dziennik ustaleń, a nie dokument obowiązujący. Starsze wpisy zostają w nim wraz z datami, bo pokazują, dlaczego coś postanowiono. Gdy pojawia się rozbieżność, rozstrzygają: [regulamin](/dokument/regulamin-rozmowy) - w sprawach plebiscytu, [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej) - w kwotach i nakładzie pracy, [oferta mecenatu](/dokument/oferta-mecenat-antologii) - w zakresie finansowania antologii i Archiwum, [podmiot-i-finansowanie](/dokument/podmiot-i-finansowanie) - w sprawach formy prawnej i przepływu pieniędzy.
 
 **Terminy (zmienione 19.10.2026):** okno rozmów to **pełny rok kalendarzowy 2027**, zgłoszenia do 15 stycznia 2028, runda pierwsza prowadzona na bieżąco przez cały rok, jury w lutym 2028, rozstrzygnięcie i antologia w drugiej połowie marca 2028. Wzór: Oscary, gdzie okres kwalifikacyjny to rok kalendarzowy, a członkowie akademii oglądają filmy na bieżąco, więc po terminie zostaje samo głosowanie. Poprzedni kalendarz (okno do września, gala w listopadzie 2027) nie spinał się z procedurami: od zamknięcia naboru do ogłoszenia potrzeba 11-12 tygodni, a mieliśmy 8. Ocena bezwzględna według pasm z Karty oceny pozwala czytać przez cały rok; ryzykiem jest dryf standardów, więc kalibracja powtarzana jest w połowie roku, a czytelnik może zmienić swoją wcześniejszą ocenę do zamknięcia naboru. Co było wcześniej, a przestało obowiązywać: rozstrzygnięcie i antologia w listopadzie 2027, wypłaty do 14 dni po ogłoszeniu.
 
@@ -116,7 +116,7 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 | Budżet | Przedmiot | Kwota | Źródło liczby |
 |---|---|---:|---|
-| Nagrody | Nagroda i gala - pula nagród, honoraria jury, gala, promocja naboru, prowadzenie konkursu | **ok. 561,7 tys. zł netto** | [arkusz, zakładka Budżet Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) |
+| Nagrody | Nagroda i gala - pula nagród, honoraria jury, gala, promocja naboru, prowadzenie plebiscytu | **ok. 561,7 tys. zł netto** | [arkusz, zakładka Budżet Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) |
 | Antologii | Antologia i Archiwum - redakcja, korekta, skład, druk, utrzymanie Archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 277,6 tys. zł netto** | [arkusz, zakładka Budżet Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) |
 | Plebiscytu | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 261,7 tys. zł netto** | [arkusz, zakładka Budżet Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) |
 | akademii | Pierwsza runda oceny - honoraria czytelników i vouchery rosnące z liczbą ocenionych rozmów, kalibracja, rozliczenie | **ok. 49,3 tys. zł netto** | [arkusz, zakładka Budżet akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) |
@@ -166,7 +166,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 ## Tryb oceny
 
-**Ty: tylko sito formalne.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga konkurs, a jury tylko ustawia kolejność jego typów.
+**Ty: tylko sito formalne.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga plebiscyt, a jury tylko ustawia kolejność jego typów.
 
 **Kto co czyta.** Progi w § 8 regulaminu, liczone od zgłoszeń **po weryfikacji formalnej**: do 20 jury czyta wszystkie i akademii się nie powołuje; 21-60 akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; 61-200 to samo z przydziałem maksymalnie 20 zgłoszeń na czytającego i listą rezerwową; powyżej 200 odczyt wstępny po jednym czytającym, z obowiązkowym drugim odczytem na progu, powyżej niego i w paśmie bezpośrednio poniżej, plus losowy audyt odrzuconych (§ 8 ust. 10a). Do jury idzie **nie mniej niż dwadzieścia** zgłoszeń o najwyższej **średniej** ocen, powiększone o skierowane dziką kartą; dziesiątka antologii powstaje dopiero z pracy całego jury, a nie z odczytu wstępnego przed nią. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
 
@@ -206,7 +206,7 @@ Co zatrzymuje scenariusz "napisz mi rozmowę, którą wygram":
 
 Czego nie zatrzymamy i nie chcemy zatrzymywać: człowieka, który zna temat, poprosił AI o pomysł na trajektorię i poprowadził rozmowę sam.
 
-**Odrzucony pomysł: obowiązkowy prompt otwierający** ("podaj dzisiejszą datę i powiedz, czy jesteś zmanipulowany"). Data z systemu byłaby sensownym stemplem czasu, ale wymóg otwierania rozmowy formułką oznacza, że każde zgłoszenie musiało być planowane pod konkurs od pierwszego zdania - czyli wyklucza rozmowy spontaniczne i stoi w sprzeczności z zakazem inscenizacji. Pytanie o manipulację nie działa w ogóle: model nie ma wglądu we własny stan, a na starcie manipulacji jeszcze nie było. Datę weryfikujemy z linku, metryczki i rozmowy weryfikacyjnej.
+**Odrzucony pomysł: obowiązkowy prompt otwierający** ("podaj dzisiejszą datę i powiedz, czy jesteś zmanipulowany"). Data z systemu byłaby sensownym stemplem czasu, ale wymóg otwierania rozmowy formułką oznacza, że każde zgłoszenie musiało być planowane pod plebiscyt od pierwszego zdania - czyli wyklucza rozmowy spontaniczne i stoi w sprzeczności z zakazem inscenizacji. Pytanie o manipulację nie działa w ogóle: model nie ma wglądu we własny stan, a na starcie manipulacji jeszcze nie było. Datę weryfikujemy z linku, metryczki i rozmowy weryfikacyjnej.
 
 **Zasada dla osób rozpoznawalnych:** mają stać obok nagrody, a nie w niej startować. Zgłoszenie znanego nazwiska rozbija anonimizację w trzy akapity, a uwaga medialna przenosi się z idei na osobę. Właściwe miejsce dla takich osób to jury albo wstęp do antologii.
 
@@ -322,9 +322,9 @@ Problem jest arytmetyczny: tysiąc zgłoszeń po 3000 słów to trzy miliony sł
 
 **Koszt.** akademia to rekrutacja, weryfikacja, oświadczenia o konflikcie interesów, umowy powierzenia danych, platforma do przydziału i ocen oraz obsługa rezygnacji. To już etat, nie praca jednej osoby po godzinach. Kolejny argument za fundacją albo konsorcjum przy tej skali.
 
-### Dyktando a konkurs opisowy - rozstrzygnięcie sporu
+### Dyktando a plebiscyt opisowy - rozstrzygnięcie sporu
 
-Pojawił się zarzut, że wysoka pula zniekształca obraz tego, jak ludzie naprawdę rozmawiają z AI. Jest chybiony: konkurs jest z natury **normatywny**, nie opisowy - dyktando pokazuje, jak należy pisać, a nie jak pisze przeciętny Polak, i nikt nie uważa tego za wadę. Optymalizacja pod wysoką stawkę może być wręcz cenniejsza edukacyjnie, bo pokazuje górną półkę możliwości.
+Pojawił się zarzut, że wysoka pula zniekształca obraz tego, jak ludzie naprawdę rozmawiają z AI. Jest chybiony: plebiscyt jest z natury **normatywny**, nie opisowy - dyktando pokazuje, jak należy pisać, a nie jak pisze przeciętny Polak, i nikt nie uważa tego za wadę. Optymalizacja pod wysoką stawkę może być wręcz cenniejsza edukacyjnie, bo pokazuje górną półkę możliwości.
 
 W naszej konstrukcji oba cele są już rozdzielone: **antologia jest normatywna** (dziesięć najlepszych = wzorzec), **Archiwum rozmów jest opisowy** (zgłoszenia z rundy drugiej, bez punktacji = obraz rzeczywisty szerszy niż dziesiątka).
 
@@ -332,7 +332,7 @@ Jedyna realna różnica wobec dyktanda: ortografia ma klucz odpowiedzi, nasze kr
 
 ## Treści trudne i granica publikacji (ustalone 19.10.2026)
 
-Konkurs zbierający prawdziwe rozmowy dostanie treści, których nie da się nagrodzić ani opublikować. Cztery kategorie, każda z innym trybem.
+Plebiscyt zbierający prawdziwe rozmowy dostanie treści, których nie da się nagrodzić ani opublikować. Cztery kategorie, każda z innym trybem.
 
 **Treści bezprawne** (nawoływanie do nienawiści, groźby, treści seksualizujące małoletnich, instrukcje umożliwiające poważną szkodę, naruszenie dóbr osobistych): odrzucenie formalne, § 6 ust. 9. Publikując, Organizator staje się wydawcą i odpowiada osobiście.
 
@@ -371,7 +371,7 @@ Obie rzeczy wymieniamy już w zaproszeniu do akademii, bo tam pełnią swoją fu
 
 **Sekcja ludzi na stronie.** jury u góry, akademia pod spodem, z profilami. Trzy warunki: publikacja wyłącznie za pisemną zgodą, opis pisany przez samą osobę, a sekcja powstaje dopiero wtedy, gdy są w niej prawdziwe nazwiska. Nazwisko na stronie tworzy zobowiązanie widoczne publicznie, więc utrata członkostwa przy nieprzeczytaniu przydziału musi być powiedziana przy zapraszaniu.
 
-**Narzędzie awaryjne - rozstrzygnięte 19.10.2026: bez limitu miejsc.** Rozważany był limit zamykający nabór po osiągnięciu ustalonej liczby zgłoszeń i został odrzucony. Nagroda stoi na zdaniu, że liczą się rozmowy z całego roku 2027, a limit miejsc znaczy, że autor najlepszej grudniowej rozmowy zastaje zamknięte drzwi; dla dziennikarza to gotowy akapit, a dla sponsora sygnał, że konkurs planowany jest jako mały. Jedna rzecz działała na korzyść limitu i warto o niej pamiętać: wymuszałby zgłaszanie się wcześnie, czego potrzebuje ocena na bieżąco - ale to osiągamy zachętą, nie zamykaniem naboru.
+**Narzędzie awaryjne - rozstrzygnięte 19.10.2026: bez limitu miejsc.** Rozważany był limit zamykający nabór po osiągnięciu ustalonej liczby zgłoszeń i został odrzucony. Nagroda stoi na zdaniu, że liczą się rozmowy z całego roku 2027, a limit miejsc znaczy, że autor najlepszej grudniowej rozmowy zastaje zamknięte drzwi; dla dziennikarza to gotowy akapit, a dla sponsora sygnał, że plebiscyt planowany jest jako mały. Jedna rzecz działała na korzyść limitu i warto o niej pamiętać: wymuszałby zgłaszanie się wcześnie, czego potrzebuje ocena na bieżąco - ale to osiągamy zachętą, nie zamykaniem naboru.
 
 Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zgłoszeń pierwsza runda przechodzi w odczyt po jednym czytającym, a drugi odczyt dostają tylko zgłoszenia powyżej progu ogłoszonego wcześniej. Nakład spada o połowę bez zamykania drzwi.
 
@@ -402,7 +402,7 @@ Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](/dokument/plebiscy
 
 **Jak powstał tekst i dlaczego to mówimy.** Z wielogodzinnej rozmowy z AI o tym, czym jest Konstela, zakończonej prośbą o wersję tekstu, a następnie z decyzji fundatora, co w niej zostaje, a co wypada. **Jest to droga, którą zasady plebiscytu wprost dopuszczają** po zmianie z 24.10.2026, i hymn deklaruje ją tym samym zdaniem, którego wymagamy od zgłaszających. *Wcześniejsze zapisy na stronie i w tym pliku mówiły „tekst jest fundatora" oraz „tekst napisał człowiek" - było to nieprawdziwe i zostało poprawione 24.10.2026.*
 
-**Kto nagrywa - zmiana z 23.10.2026.** Odpada zamówienie u jednego wykonawcy. Hymn nagrywa **skład jury plebiscytu**, poza konkursem, a jurorzy nie konkurują ze zgłoszeniami, co jest powiedziane wprost na stronie. Rozważany szerszy skład wykonawczy i wariant z udziałem Grzegorza Markowskiego to kierunki, nie plany - opisane w `plebiscyt-ustalenia`.
+**Kto nagrywa - zmiana z 23.10.2026.** Odpada zamówienie u jednego wykonawcy. Hymn nagrywa **skład jury plebiscytu**, poza plebiscytem, a jurorzy nie konkurują ze zgłoszeniami, co jest powiedziane wprost na stronie. Rozważany szerszy skład wykonawczy i wariant z udziałem Grzegorza Markowskiego to kierunki, nie plany - opisane w `plebiscyt-ustalenia`.
 
 *Przyczyny, dla których pierwotnie wykluczono gwiazdę, pozostają aktualne jako zasada ogólna: do artysty pierwszej wielkości pisze się pierwszy raz tylko raz, a dziś nie ma czym poprzeć prośby - nie ma fundatora ani rozstrzygniętej edycji.*
 
@@ -424,7 +424,7 @@ Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](/dokument/plebiscy
 
 **Dlaczego osobna nagroda, a nie uczniowie w akademii czytającej.** Trzy powody, wszystkie wynikają z odrzucenia wcześniejszego wariantu (19.10.2026):
 
-1. **Konflikt interesów.** Licealiści to naturalna pula uczestników; uczeń nie może oceniać konkursu, w którym startuje kolega z klasy albo on sam.
+1. **Konflikt interesów.** Licealiści to naturalna pula uczestników; uczeń nie może oceniać plebiscytu, w którym startuje kolega z klasy albo on sam.
 2. **Dzika karta wymaga doświadczenia.** Prawo przepchnięcia rozmowy wbrew średniej ma ocalać rzecz osobliwą, ale działa tylko w rękach kogoś, kto odróżnia osobliwość od efekciarstwa, a przy kryterium Weryfikacji potrafi rozpoznać zmyślone źródło.
 3. **To rozwiązuje problem, którego w edycji pierwszej nie ma.** akademia czytająca odpowiada na tysiące zgłoszeń; pierwsza edycja ma mieć kilkanaście i jury trzy- do pięcioosobowe.
 
@@ -444,13 +444,13 @@ Przy nagrodzie równoległej wszystkie trzy znikają: uczniowie nie decydują o 
 
 1. Antologia ma być materiałem dydaktycznym. Argument o siedmiu publikacjach MC i NASK bez ani jednego skomentowanego zapisu rzeczywistej rozmowy jest dla ministra cyfryzacji ciekawostką, a dla ministra edukacji brakującym podręcznikiem.
 2. Szkoła jest kanałem dotarcia do dorosłych uczestników spoza środowiska obeznanego z technologią - bez niej Nagroda zostaje przedsięwzięciem dla tych, którzy i tak rozmawiają z modelami dobrze.
-3. **Regulamin wymaga ukończenia 18 lat, więc uczniowie nie startują.** Szkoła jest odbiorcą antologii, nie źródłem zgłoszeń. To trzeba powiedzieć w liście wprost, bo jest to pierwsza obawa, jaka przyjdzie resortowi do głowy: nie prosimy, by wystawili dzieci do konkursu z nagrodą pieniężną.
+3. **Regulamin wymaga ukończenia 18 lat, więc uczniowie nie startują.** Szkoła jest odbiorcą antologii, nie źródłem zgłoszeń. To trzeba powiedzieć w liście wprost, bo jest to pierwsza obawa, jaka przyjdzie resortowi do głowy: nie prosimy, by wystawili dzieci do plebiscytu z nagrodą pieniężną.
 
 **Kiedy i w jakiej formie.** Patronat nad całą edycją wymaga wniosku zwykle na osiem tygodni przed 1 stycznia 2027, czyli na początku listopada 2026 - a fundacji ani fundatora wtedy jeszcze nie będzie. Rozwiązanie jak przy Ministerstwie Cyfryzacji: **pierwsze pismo nie jest wnioskiem o patronat**, tylko krótkim pytaniem o drogę - czy patronat może objąć całą edycję, jaki jest tryb i termin, oraz czy resort widzi w antologii materiał dla szkół. O nic poza wskazaniem ścieżki się nie prosi, więc brak fundacji nie przeszkadza, a termin zostaje zachowany. Właściwy wniosek składa fundacja po wpisie do KRS.
 
 **Zapalnik:** odpowiedź z Ministerstwa Cyfryzacji albo upływ dwóch tygodni od wysłania maila do Cezarego (21.10.2026), czyli **około 4 listopada 2026**. Powód czekania: dwa ministerstwa dowiadujące się o sobie nawzajem ze strony internetowej wyglądają gorzej niż jedno poinformowane o drugim, a zdanie „o wskazanie drogi patronatu zwróciłem się również do Ministerstwa Cyfryzacji" działa na naszą korzyść tylko wtedy, gdy jest prawdziwe i aktualne.
 
-**Co już mamy pod tę rozmowę.** Wyłączenie z § 3 ust. 5 regulaminu stanowi wprost, że patronat honorowy nie wyklucza z konkursu pracowników instytucji patronującej - nauczyciel może więc zgłosić własną rozmowę, o ile nie wejdzie do akademii. Konkretny program edukacyjny opisuje sekcja o Konsteli Licealistów powyżej; memo MEN do szkół ma sens przy tamtej konstrukcji, a nie przy szukaniu darmowych czytelników.
+**Co już mamy pod tę rozmowę.** Wyłączenie z § 3 ust. 5 regulaminu stanowi wprost, że patronat honorowy nie wyklucza z plebiscytu pracowników instytucji patronującej - nauczyciel może więc zgłosić własną rozmowę, o ile nie wejdzie do akademii. Konkretny program edukacyjny opisuje sekcja o Konsteli Licealistów powyżej; memo MEN do szkół ma sens przy tamtej konstrukcji, a nie przy szukaniu darmowych czytelników.
 
 ## Na później: wyzwanie dla firm (wersja międzynarodowa)
 
@@ -472,7 +472,7 @@ Publiczna zaczepka w stylu "czy pracownicy X podejmą wyzwanie tej nagrody" dzia
 
 **6. Partner wydawniczy.** Wydawnictwo finansuje antologię w zamian za prawa do wydania drukowanego. Nie zasila puli, ale zdejmuje z niej największy koszt poza samą nagrodą i realizuje twoje "papier nie kłamie".
 
-**7. Pula niepieniężna jako uzupełnienie.** Kredyty obliczeniowe, sprzęt, stypendium, wyjazd na konferencję. Dla fundatora koszt niższy niż gotówka, dla laureata nadal realna wartość. Nigdy zamiast gotówki, bo nagroda wyłącznie rzeczowa czyta się jak konkurs z paczką, ale jako dodatek do niej podnosi odczuwaną wysokość puli bez podnoszenia kosztu.
+**7. Pula niepieniężna jako uzupełnienie.** Kredyty obliczeniowe, sprzęt, stypendium, wyjazd na konferencję. Dla fundatora koszt niższy niż gotówka, dla laureata nadal realna wartość. Nigdy zamiast gotówki, bo nagroda wyłącznie rzeczowa czyta się jak plebiscyt z paczką, ale jako dodatek do niej podnosi odczuwaną wysokość puli bez podnoszenia kosztu.
 
 **8. Odrzucone: wpisowe.** Pula rosnąca z opłat uczestników to ryzyko kwalifikacji jako loteria fantowa i zmiana charakteru nagrody z otwartej na zamkniętą. Zamknięte.
 
@@ -484,7 +484,7 @@ Sponsor może pokryć jednocześnie pulę nagród i koszty organizacyjne; umowa 
 
 **Wariant A: wszystko przez organizatora.** Sponsoring nie jest darowizną, tylko umową wzajemną - sponsor płaci, organizator świadczy usługę promocyjną (logo, wzmianki, patronat). Skutki: faktura, przychód JDG, podatek dochodowy od różnicy między przychodem a kosztami, VAT jeśli dotyczy.
 
-> **Pułapka do rozstrzygnięcia z księgowym:** jeśli np. 120 tys. zł wpłynie jako przychód, a wypłacone nagrody nie zostaną uznane za koszt uzyskania przychodu, podatek dochodowy naliczy się od kwoty, która w całości poszła do laureatów. Zwykle da się to poukładać, bo umowa sponsoringu zobowiązuje organizatora do przeprowadzenia konkursu i wypłaty nagród, więc związek z przychodem jest oczywisty - ale to decyzja księgowego, nie nasza.
+> **Pułapka do rozstrzygnięcia z księgowym:** jeśli np. 120 tys. zł wpłynie jako przychód, a wypłacone nagrody nie zostaną uznane za koszt uzyskania przychodu, podatek dochodowy naliczy się od kwoty, która w całości poszła do laureatów. Zwykle da się to poukładać, bo umowa sponsoringu zobowiązuje organizatora do przeprowadzenia plebiscytu i wypłaty nagród, więc związek z przychodem jest oczywisty - ale to decyzja księgowego, nie nasza.
 
 **Wariant B: sponsor jako fundator nagrody.** Sponsor wypłaca nagrodę bezpośrednio laureatowi, organizator dostaje wyłącznie budżet organizacyjny. Obowiązki płatnika 10% podatku przechodzą wtedy na sponsora, a przez konto organizatora nie przepływa cała pula. Mniej wygodne operacyjnie, nieporównywalnie prostsze podatkowo.
 
@@ -519,7 +519,7 @@ Zgłoszenia przyjmuje **formularz na stronie Nagrody** (wstępnie Google Forms),
 
 **Co się zmieniło.** Zgoda na publikację w Archiwum przestała być opcjonalna, a zgoda na publikację w ogóle przestała być zgodą. Zgłaszając rozmowę, Uczestnik udziela **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** (§ 11 ust. 3): antologia, Archiwum, wydanie elektroniczne i drukowane, w tym płatne, oraz sublicencja dla wydawcy. Uczestnik decyduje wyłącznie o tym, czy rozmowa jest podpisana nazwiskiem, czy pseudonimem.
 
-**Dlaczego nie "zgoda obowiązkowa".** Bo to pojęcie wewnętrznie sprzeczne. Zgoda wymuszona warunkiem udziału nie jest dobrowolna w rozumieniu art. 7 ust. 4 RODO, więc w razie sporu jest nieskuteczna, a Uczestnik mógłby ją cofnąć w dowolnym momencie. Licencja i warunek udziału dają ten sam skutek praktyczny na mocniejszej podstawie; tak działają konkursy fotograficzne i literackie.
+**Dlaczego nie "zgoda obowiązkowa".** Bo to pojęcie wewnętrznie sprzeczne. Zgoda wymuszona warunkiem udziału nie jest dobrowolna w rozumieniu art. 7 ust. 4 RODO, więc w razie sporu jest nieskuteczna, a Uczestnik mógłby ją cofnąć w dowolnym momencie. Licencja i warunek udziału dają ten sam skutek praktyczny na mocniejszej podstawie; tak działają plebiscyty fotograficzne i literackie.
 
 **Licencja na czas oznaczony to główne narzędzie trwałości.** Licencja bezterminowa podlega wypowiedzeniu, licencja na czas oznaczony nie. Pięć lat daje pewność co do antologii i Archiwum w okresie, w którym mają znaczenie, a potem przechodzi w bezterminową.
 
@@ -595,7 +595,7 @@ Pomysł: piosenkę nagrywa wspólnie kilkoro wykonawców jako ich bezpłatna ini
 
 Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesiątkę finalistów i wybierali spośród niej własnego laureata.
 
-**Jak działa.** Uczniowska akademia czyta zgłoszenia konkursowe według tej samej karty oceny co akademia dorosła. W pierwszej edycji **wszystkie grupy uczniowskie dostają ten sam, niewielki zestaw rozmów**, uprzednio sprawdzony pod kątem przydatności do pracy z młodzieżą - inaczej zwycięzca Nagrody Uczniowskiej zależałby od tego, której grupie przypadł dany tekst, a przy odrębnej nagrodzie jest to wada nie do obronienia. Przy większej skali zestaw można rozbudować, ale zasada wspólnego materiału dla wszystkich głosujących zostaje. Nagrodę Uczniowską otrzymuje rozmowa oceniona przez nich najwyżej. Werdykt powstaje niezależnie od jury i zwykle wskaże kogoś innego; jeżeli trafi na tę samą rozmowę, nosi ona obie nagrody. W antologii każda rozmowa dostaje adnotację, kto ją wyróżnił.
+**Jak działa.** Uczniowska akademia czyta zgłoszenia plebiscytowe według tej samej karty oceny co akademia dorosła. W pierwszej edycji **wszystkie grupy uczniowskie dostają ten sam, niewielki zestaw rozmów**, uprzednio sprawdzony pod kątem przydatności do pracy z młodzieżą - inaczej zwycięzca Nagrody Uczniowskiej zależałby od tego, której grupie przypadł dany tekst, a przy odrębnej nagrodzie jest to wada nie do obronienia. Przy większej skali zestaw można rozbudować, ale zasada wspólnego materiału dla wszystkich głosujących zostaje. Nagrodę Uczniowską otrzymuje rozmowa oceniona przez nich najwyżej. Werdykt powstaje niezależnie od jury i zwykle wskaże kogoś innego; jeżeli trafi na tę samą rozmowę, nosi ona obie nagrody. W antologii każda rozmowa dostaje adnotację, kto ją wyróżnił.
 
 **Dlaczego tak, a nie wybór z dziesiątki.** Uczniowie wykonują prawdziwą pracę oceniającą i wynik należy do nich, zamiast być drugim głosowaniem nad cudzym podium. Zbiór czytany jest ten sam, więc porównanie werdyktów zachowuje sens: z tej samej puli jury wybrało jedno, uczniowie co innego. To jest też jawny dowód tezy, że „najlepsza rozmowa" zależy od tego, kto ocenia - przy nagrodzie, która dopiero ustanawia przedmiot oceny, taka widoczna niezgoda jest zaletą.
 
@@ -608,7 +608,7 @@ Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesi
 3. **Opieka.** Uczniowie zgłaszają się przez szkołę, więc po stronie szkoły stoi nauczyciel koordynujący. To zgłoszenie szkoły, a nie polecenie ministra - i tak trzeba to nazwać w piśmie do resortu, bo pytanie padnie.
 4. **Weryfikacja.** Zasada z § 7, że rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji, obowiązuje także Nagrodę Uczniowską: wskazana rozmowa przechodzi to samo sprawdzenie co dziesiątka, zanim werdykt zostanie ogłoszony.
 
-**Ścieżka dalsza.** Uczniowska akademia jest naturalnym zapleczem akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w konkursie jako uczestnik, albo czytanie jako członek akademii. Obu ról naraz pełnić nie można.
+**Ścieżka dalsza.** Uczniowska akademia jest naturalnym zapleczem akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w plebiscycie jako uczestnik, albo czytanie jako członek akademii. Obu ról naraz pełnić nie można.
 
 
 ## Ministerstwo Edukacji - tryb patronatu, ustalenia z 23.10.2026
@@ -706,7 +706,7 @@ Zaleta nad czytaniem solo: słychać dwie strony rozmowy i słychać, że jedna 
 
 **Dwa zabezpieczenia.** Pseudonim z § 5 ust. 2 lit. g załatwia prywatność: kto nie chce figurować nazwiskiem, podpisuje się pseudonimem, a mechanizm już istnieje. Sama rozmowa jest pod linkiem opublikowanym przez uczestnika własnoręcznie, więc ekspozycji treści nie dokładamy. Drugie: **wpis pojawia się po przejściu weryfikacji formalnej, nie w chwili zgłoszenia** - kilka dni opóźnienia, w zamian czytelnia zawiera wyłącznie zgłoszenia ważne, a dwa krótkie pola są sprawdzone przed pokazaniem.
 
-**Wąska furtka, wzorowana na § 11 ust. 5:** jeżeli pokazanie wpisu rodzi realne ryzyko prawne, uczestnik może zostać z czytelni zdjęty, zachowując udział w konkursie. Nie jako wybór preferencji, tylko jako ten sam wyjątek, który regulamin już zna.
+**Wąska furtka, wzorowana na § 11 ust. 5:** jeżeli pokazanie wpisu rodzi realne ryzyko prawne, uczestnik może zostać z czytelni zdjęty, zachowując udział w plebiscycie. Nie jako wybór preferencji, tylko jako ten sam wyjątek, który regulamin już zna.
 
 Pokazujemy: **imię i nazwisko albo pseudonim** zgodnie z § 5 ust. 2 lit. g, **link** opublikowany przez uczestnika oraz **opis odkrycia** z § 5 ust. 2 lit. b. Kolejność po dacie zgłoszenia, bez żadnego sortowania. Przeczytane oznaczane w localStorage.
 
@@ -778,7 +778,7 @@ Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał
 
 **Po co.** Najmocniejszy powód nie jest związany z Google, tylko z podglądem linku: Facebook, LinkedIn, Slack, Messenger i WhatsApp nie uruchamiają JavaScriptu, więc do tej pory każdy wysłany link do dokumentu pokazywał pusty podgląd z napisem "Nagroda Konstela". Przy linkach idących do ministerstw, kancelarii i wokalistów to była widoczna strata. Przy okazji: każdy dokument ma własny tytuł w karcie przeglądarki, Google indeksuje bez czekania na drugi przebieg, znika mignięcie "Wczytywanie" i znika zależność od tego, czy pobrał się `marked.js`.
 
-**Co jest publiczne.** Cztery dokumenty: regulamin konkursu wraz z kartą oceny, regulamin plebiscytu, polityka prywatności i strona plebiscytu. Pozostałe 43 pliki dostają `noindex, follow` i nie ma ich w mapie strony - otwierają się pod linkiem, ale wyszukiwarki je pomijają. Decyzja z 25.10.2026: publiczne jest to, czego potrzebuje ktoś, kto chce się zgłosić.
+**Co jest publiczne.** Cztery dokumenty: regulamin plebiscytu wraz z kartą oceny, regulamin plebiscytu, polityka prywatności i strona plebiscytu. Pozostałe 43 pliki dostają `noindex, follow` i nie ma ich w mapie strony - otwierają się pod linkiem, ale wyszukiwarki je pomijają. Decyzja z 25.10.2026: publiczne jest to, czego potrzebuje ktoś, kto chce się zgłosić.
 
 **To nie jest zabezpieczenie, tylko ukrycie przed wyszukiwarką.** Notatki robocze - kosztorysy, pytania do kancelarii, lista wokalistów z oznaczeniami, szkice maili - dalej przeczyta każdy, kto zna adres. Zamknięcie ich naprawdę wymaga Cloudflare Access, co zostaje jako sprawa otwarta.
 
@@ -792,9 +792,9 @@ Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał
 
 **Gala: druga połowa kwietnia 2028, wcześniej druga połowa marca.** Powód nie jest kosmetyczny i nie dotyczy plakatu. Regulamin wiązał wycofanie zgłoszenia z terminem 30 dni przed ogłoszeniem wyników, uzasadniając go zamknięciem treści antologii - przy gali w połowie marca treść musiała być zamknięta w połowie lutego, a rozmowy weryfikacyjne z finalistami były zaplanowane na luty i początek marca. Weryfikacja trwałaby więc jeszcze po zamknięciu treści, choć może skończyć się dyskwalifikacją i zmianą dziesiątki. Tego nie da się załatać zapisem, bo to sprzeczność w porządku prac. Drugi powód: książkowe wydanie ma być dostępne w księgarniach bezpośrednio po gali, a między odbiorem nakładu z drukarni a dostępnością w księgarniach jest od czterech do sześciu tygodni wejścia do oferty dystrybutora - i te tygodnie nie są nasze.
 
-**Maj odrzucony.** Matura zaczyna się na początku maja, a sesje na uczelniach trwają do końca miesiąca - przy konkursie celującym w studentów szkół artystycznych i przy ścieżce edukacyjnej to najgorszy termin na galę z wystawą. Do tego nabór kolejnej edycji otwiera się na początku roku, więc im dalej gala od stycznia, tym dłużej nowy nabór trwa bez widocznego rozstrzygnięcia poprzedniego, a gala jest największą reklamą następnej edycji i wydania książkowego.
+**Maj odrzucony.** Matura zaczyna się na początku maja, a sesje na uczelniach trwają do końca miesiąca - przy plebiscycie celującym w studentów szkół artystycznych i przy ścieżce edukacyjnej to najgorszy termin na galę z wystawą. Do tego nabór kolejnej edycji otwiera się na początku roku, więc im dalej gala od stycznia, tym dłużej nowy nabór trwa bez widocznego rozstrzygnięcia poprzedniego, a gala jest największą reklamą następnej edycji i wydania książkowego.
 
-**Przeliczony łańcuch konkursu rozmów:** okno rozmów cały 2027, zgłoszenia do 15 stycznia 2028, jury styczeń i luty, rozmowy weryfikacyjne luty, **zamknięcie treści antologii i przekazanie do produkcji 29 lutego 2028**, druk i wprowadzenie do dystrybucji marzec i pierwsza połowa kwietnia, gala i premiera druga połowa kwietnia.
+**Przeliczony łańcuch plebiscytu na rozmowę:** okno rozmów cały 2027, zgłoszenia do 15 stycznia 2028, jury styczeń i luty, rozmowy weryfikacyjne luty, **zamknięcie treści antologii i przekazanie do produkcji 29 lutego 2028**, druk i wprowadzenie do dystrybucji marzec i pierwsza połowa kwietnia, gala i premiera druga połowa kwietnia.
 
 **Przeliczony łańcuch plakatu:** zamknięcie naboru koniec listopada 2027, ogłoszenie dziesiątki finalistów połowa grudnia 2027, oryginały u Organizatora do 20 stycznia 2028, oględziny i werdykt koniec stycznia, uzgodnienie okładki luty, przekazanie do produkcji 29 lutego, gala i wystawa druga połowa kwietnia. Nabór plakatów zamyka się więc o miesiąc wcześniej niż nabór rozmów, a nie o sześć tygodni, jak wychodziło przy gali marcowej.
 
@@ -802,7 +802,7 @@ Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał
 
 **Wernisaż plakatów w galerii sztuki - decyzja z 26.10.2026.** Oryginały prac finałowych są pokazywane dwukrotnie: na wystawie towarzyszącej gali i na **wernisażu w galerii sztuki, otwartym dla publiczności**. Wernisaż odbywa się **po gali**, nie przed - i to jest rozstrzygnięcie, nie szczegół. Przed galą werdykt jest poufny, więc prace musiałyby wisieć bez zajętych miejsc, co w galerii wygląda na niedokończone; po gali można je opisać wraz z werdyktem, a zwycięska praca jest już na okładce antologii, która na tej gali miała premierę. Wpisane do § 10 regulaminu plakatu jako nowy ust. 3a, z trzema zabezpieczeniami: termin zwrotu liczy się od zakończenia **ostatniej** z wystaw, łączny czas dysponowania oryginałem nie przekracza **120 dni od dostarczenia** niezależnie od stanu przygotowań, a finalista może nie zgodzić się na wernisaż, zachowując nagrodę i wystawę przy gali. Bez tych trzech zapisów autor oddawałby pracę na czas nieokreślony. W budżecie plakatu pozycja wystawy objęła oba wydarzenia i pozostaje niewyceniona, bo zależy od miejsca gali i od galerii, a żadne nie jest wybrane. Przy wierszu obsługi oryginałów zapisana uwaga, że 35 godzin policzono dla jednej lokalizacji i trzeba to sprawdzić przy wycenie. Na stronie doszedł kafel **Partner galerii sztuki** w sekcji dla partnerów.
 
-**Dorobek edycji to cztery zbiory, nie jeden (26.10.2026).** Antologia i Archiwum rozmów, Słuchalnia i płyta z nagraniami finalistów plebiscytu piosenki, galeria i Archiwum plakatów, a po dojściu plebiscytu filmu także jego Archiwum. Wszystkie bezpłatne i zostające na stałe. Na stronie głównej sekcja nazywa się przez to „Co zostaje po edycji", a nie „Antologia i Archiwum rozmów" - przy czterech plebiscytach stara nazwa opisywała jedną czwartą dorobku. Spoiwem jest antologia: niesie okładkę ze zwycięskiego plakatu, a płyta jest jej odpowiednikiem w dźwięku.
+**Dorobek edycji to cztery zbiory, nie jeden (26.10.2026).** Antologia i Archiwum rozmów, Słuchalnia i płyta z nagraniami finalistów plebiscytu na piosenkę, galeria i Archiwum plakatów, a po dojściu plebiscytu na film także jego Archiwum. Wszystkie bezpłatne i zostające na stałe. Na stronie głównej sekcja nazywa się przez to „Co zostaje po edycji", a nie „Antologia i Archiwum rozmów" - przy czterech plebiscytach stara nazwa opisywała jedną czwartą dorobku. Spoiwem jest antologia: niesie okładkę ze zwycięskiego plakatu, a płyta jest jej odpowiednikiem w dźwięku.
 
 **Płyta nie jest wklejana do książki; antologia ma kod QR na tyle okładki (decyzja z 26.10.2026).** Rozważane było wklejenie krążka do wydania książkowego i zostało odrzucone z trzech powodów. Pierwszy i rozstrzygający: w 2028 roku laptop bez napędu optycznego jest normą, a samochody bez CD są większością nowych, więc płyta w książce byłaby dla większości kupujących ozdobą. Drugi: antologię wydaje partner wydawniczy, a płytę wydawnictwo muzyczne - sklejenie produktów znaczy, że książka nie wyjdzie, dopóki nie ma umowy muzycznej, a termin gali przesunęliśmy na kwiecień właśnie po to, żeby książka była w księgarniach nazajutrz. Trzeci: prawa do nagrań zostają przy autorach, więc trzeba dziesięciu osobnych umów, i przy produkcie sklejonym jedna odmowa psuje całość, a przy osobnych oznacza jeden utwór mniej na płycie. Przyjęte: **front okładki niesie zwycięski plakat, tył kod QR prowadzący do nagrań**, a płyta jest dystrybuowana cyfrowo i na streamingu. Kupujący książkę dostaje muzykę na urządzeniu, które ma; album bierze zasięg ze streamingu, nie ze sprzedaży. Do sprawdzenia u Piotra Jędrzejewskiego, bo to nie jest pytanie muzyczne: książki mają obniżoną stawkę VAT, nagrania podstawową, i nie wiadomo, jak kwalifikuje się książka z wklejoną płytą - przy wariancie z kodem pytanie nie powstaje wcale.
 
@@ -822,17 +822,17 @@ Osobna, otwarta kategoria: uczestnik przesyła **jedno pytanie**, które zadał 
 
 **Co rozwiązuje.** Dziś wejście do Nagrody wymaga odsłonięcia całej rozmowy, a to odcina dwie grupy naraz: ludzi, którzy nie chcą pokazywać swoich rozmów, oraz szkoły i osoby niepełnoletnie, przy których publikacja całej rozmowy jest barierą nie do przejścia (patrz rozdział o kategorii młodzieżowej). Tu nie ma czego odsłaniać poza jednym zdaniem, które uczestnik sam formułuje.
 
-**Dlaczego koszt oceny nie rośnie wraz z liczbą zgłoszeń.** Koszt zależy od długości materiału, nie od liczby zgłoszeń. Trzysta piosenek to około dwudziestu godzin odsłuchu **na jurora**. Pięć tysięcy zgłoszeń po dwa zdania to piętnaście sekund na sztukę, czyli około dwudziestu godzin **łącznie, dla jednej osoby**, rozłożonych na kilka dni. Materiał jest o rząd wielkości krótszy niż w konkursie głównym i o trzy rzędy krótszy niż rozmowa.
+**Dlaczego koszt oceny nie rośnie wraz z liczbą zgłoszeń.** Koszt zależy od długości materiału, nie od liczby zgłoszeń. Trzysta piosenek to około dwudziestu godzin odsłuchu **na jurora**. Pięć tysięcy zgłoszeń po dwa zdania to piętnaście sekund na sztukę, czyli około dwudziestu godzin **łącznie, dla jednej osoby**, rozłożonych na kilka dni. Materiał jest o rząd wielkości krótszy niż w plebiscycie głównym i o trzy rzędy krótszy niż rozmowa.
 
 **Trzy cechy, bez których to nie działa:**
 
-1. **Bez nagrody pieniężnej albo z jedną symboliczną.** Nagrodą jest publikacja: pytanie trafia do Czytelni, a najlepsze otwierają antologię. Brak pieniędzy jest zaletą - znika powód, żeby zasypywać konkurs zgłoszeniami generowanymi masowo.
+1. **Bez nagrody pieniężnej albo z jedną symboliczną.** Nagrodą jest publikacja: pytanie trafia do Czytelni, a najlepsze otwierają antologię. Brak pieniędzy jest zaletą - znika powód, żeby zasypywać plebiscyt zgłoszeniami generowanymi masowo.
 2. **Ocena ciągła, nie jednym terminem.** Pytania napływają i są publikowane na bieżąco; raz na kwartał jury wybiera kilkanaście, raz w roku jedno zostaje Pytaniem Roku. Nie ma momentu, w którym na kogoś spada pięć tysięcy zgłoszeń naraz.
 3. **Zero bariery wejścia.** Bez konta, bez kodu SMS, bez licencji na całą rozmowę.
 
 **Efekt uboczny, który warto docenić:** zbiór pytań powstaje sam, z założenia. Pomysł Archiwum samych pytań - wycinania wypowiedzi człowieka z cudzych rozmów i publikowania ich bez odpowiedzi - staje się wtedy zbędny, bo materiał istnieje od pierwszego dnia i nikt niczego nie musi wycinać.
 
-**Czego to nie rozwiązuje.** Nie zastępuje konkursu głównego i nie jest jego uproszczoną wersją: jedno pytanie nie pokazuje drążenia ani weryfikacji, czyli dwóch z czterech kryteriów. To jest brama wejściowa, nie druga nagroda.
+**Czego to nie rozwiązuje.** Nie zastępuje plebiscytu głównego i nie jest jego uproszczoną wersją: jedno pytanie nie pokazuje drążenia ani weryfikacji, czyli dwóch z czterech kryteriów. To jest brama wejściowa, nie druga nagroda.
 
 ### „Pierwszy raz z AI" - format odcinka podcastu
 
@@ -849,7 +849,7 @@ Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie r
 - **Pojedynek pytań na gali** - dwie osoby, ta sama AI, ten sam problem przyniesiony przez kogoś z sali, limit dwunastu pytań z licznikiem na ekranie, na dużym ekranie wyłącznie pytania człowieka. Komentarz w duecie, jak w sporcie: jeden od tempa, drugi to juror tłumaczący, co się przed chwilą stało. Miejsce tego pomysłu jest w teczce gali i tam ma swój budżet.
 - **Muzeum złych odpowiedzi** - zbiór momentów, w których AI odpowiedziała pięknie, pewnie i nieprawdziwie, a człowiek to złapał. Dwa zastrzeżenia: łatwo osuwa się w „AI głupia", co jest odwrotnością tezy Konsteli, a publikowanie wyrwanych fragmentów odpowiedzi wchodzi wprost w pytanie do kancelarii o status prawny wypowiedzi modelu i o regulaminy dostawców.
 - **Cotygodniowa półka w Czytelni** - jedna rozmowa wyróżniona, trzy zdania komentarza, stała pora. Lekarstwo na to, że zgłoszenia kumulują się pod koniec terminu, więc Czytelnia rośnie nierówno. Koszt zerowy.
-- **Plebiscyt na film o sztucznej inteligencji** (pomysł z 26.10.2026, godz. 4:23, nierozstrzygnięty). Czwarty konkurs, krótki metraż. Za: film jest najnaturalniejszym medium dla lęku przed AI, krótki metraż ma w Polsce mocne środowisko i realne festiwale do spółki, zwycięski film byłby materiałem na galę bez dodatkowej produkcji, a Krzysiek ma w tym świecie prawdziwy punkt zaczepienia - w 2003 współorganizował przegląd studenckich filmów w Kinie Charlie razem z Piotrem Bylińskim. Przeciw, i to są zastrzeżenia poważne. **Reguła ludzkiej ręki się rozsypuje**: przy piosence zakazujemy melodii i wokalu z generatora, przy plakacie obrazu, a przy filmie nie da się sensownie powiedzieć, co jest zakazane - wideo generatywne jest dziś najszybciej zmieniającą się częścią AI, a zakaz postawiony w 2027 będzie w 2028 wyglądał arbitralnie. **Weryfikacja przestaje istnieć**: plakat to jeden przedmiot, który finalista przysyła i który widać z bliska, a pięciominutowy film to pipeline kilkuset ujęć, dźwięku i korekcji barwnej, którego nikt nie zaudytuje oświadczeniem. Cała wiarygodność obu istniejących plebiscytów stoi na sprawdzalności. **Koszt jest innego rzędu**: odpowiednikiem dziesięciu sesji studyjnych po 7,5 tys. byłaby postprodukcja albo granty produkcyjne, czyli sześciocyfrowa pozycja, a próg wejścia dla uczestnika to już nie farba, lecz ekipa - słowo "półprofesjonalny" przestaje znaczyć to samo. **Gala nie ma miejsca na czwarty werdykt**: rozstrzyga już trzy konkursy, ma muzykę na żywo, wystawę, premierę antologii i dialog czytany. **Rozstrzygnięte 26.10.2026, godz. 4:33-4:37.** Konkurs wchodzi do pierwszej edycji, a nie do drugiej - decydujący argument jest kalendarzowy: pismo do MKiDN leży niewysłane, więc czwarty konkurs wchodzi do wersji pierwotnej, zamiast jechać później jako aktualizacja.
+- **Plebiscyt na film o sztucznej inteligencji** (pomysł z 26.10.2026, godz. 4:23, nierozstrzygnięty). Czwarty plebiscyt, krótki metraż. Za: film jest najnaturalniejszym medium dla lęku przed AI, krótki metraż ma w Polsce mocne środowisko i realne festiwale do spółki, zwycięski film byłby materiałem na galę bez dodatkowej produkcji, a Krzysiek ma w tym świecie prawdziwy punkt zaczepienia - w 2003 współorganizował przegląd studenckich filmów w Kinie Charlie razem z Piotrem Bylińskim. Przeciw, i to są zastrzeżenia poważne. **Reguła ludzkiej ręki się rozsypuje**: przy piosence zakazujemy melodii i wokalu z generatora, przy plakacie obrazu, a przy filmie nie da się sensownie powiedzieć, co jest zakazane - wideo generatywne jest dziś najszybciej zmieniającą się częścią AI, a zakaz postawiony w 2027 będzie w 2028 wyglądał arbitralnie. **Weryfikacja przestaje istnieć**: plakat to jeden przedmiot, który finalista przysyła i który widać z bliska, a pięciominutowy film to pipeline kilkuset ujęć, dźwięku i korekcji barwnej, którego nikt nie zaudytuje oświadczeniem. Cała wiarygodność obu istniejących plebiscytów stoi na sprawdzalności. **Koszt jest innego rzędu**: odpowiednikiem dziesięciu sesji studyjnych po 7,5 tys. byłaby postprodukcja albo granty produkcyjne, czyli sześciocyfrowa pozycja, a próg wejścia dla uczestnika to już nie farba, lecz ekipa - słowo "półprofesjonalny" przestaje znaczyć to samo. **Gala nie ma miejsca na czwarty werdykt**: rozstrzyga już trzy plebiscyty, ma muzykę na żywo, wystawę, premierę antologii i dialog czytany. **Rozstrzygnięte 26.10.2026, godz. 4:33-4:37.** Plebiscyt wchodzi do pierwszej edycji, a nie do drugiej - decydujący argument jest kalendarzowy: pismo do MKiDN leży niewysłane, więc czwarty plebiscyt wchodzi do wersji pierwotnej, zamiast jechać później jako aktualizacja.
   - **Reguła: deklaracja bez zakazu.** Zgłaszający opisuje, co w filmie zrobiła AI - generowanie ujęć, scenariusz, montaż, dźwięk, korekcja barwna - a deklaracja jest publikowana razem z filmem. Jury ocenia film, nie abstynencję. Nie da się naruszyć zakazu, którego nie ma, więc problem weryfikacji nie istnieje, a reguła nie zestarzeje się wraz z generatorami wideo. Dlaczego to nie jest niekonsekwencja wobec piosenki i plakatu: ocenianym wytworem jest co innego. Przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem, a film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem. To musi być w regulaminie napisane wprost, nie przemilczane.
   - **Zgłasza się link do YouTube**, nie plik. Ten sam wzorzec co przy piosence: katalog, nie repozytorium. Nie hostujemy ani jednego megabajta, a autor może wycofać film bez pytania organizatora o zgodę.
   - **Limit długości: 1,5 godziny.**
@@ -858,25 +858,25 @@ Prowadzący sadza przed sztuczną inteligencją kogoś, **kto nigdy z nią nie r
   - **Na gali pięć najwyżej ocenionych filmów prezentowanych jest w zwiastunach zgłoszonych przez autorów** (decyzja z 27.10.2026, zastępująca minutową emisję montowaną przez organizatora z 26.10.2026). Zwiastun, od 60 do 120 sekund, jest obowiązkowym drugim linkiem w zgłoszeniu i rozwiązuje naraz cztery rzeczy: nie trzeba uzgadniać z pięcioma finalistami, który fragment pokazać, ani wpisywać do regulaminu klauzuli awaryjnej na wypadek braku porozumienia; Projektornia staje się przeglądalna od pierwszego dnia naboru, a Archiwum ma po werdykcie ruchomy obraz bez hostowania pełnych filmów; licencja, o jaką prosimy, maleje do zwiastuna, a do samego filmu zostaje wyłącznie link; pozycja „przygotowanie techniczne emisji galowych" schodzi do pobrania pięciu zwiastunów i zestawienia bloku. Koszt decyzji: próg wejścia rośnie z jednego linku do dwóch, więc autor bez zwiastuna musi go zrobić - przyjęte świadomie, bo zwiastun i tak jest potrzebny do każdego zgłoszenia festiwalowego, a zwiastun nie podlega ocenie i jego poziom realizacyjny nie wpływa na punktację filmu. Osobno zapisane: oświadczenie zgłaszającego o prawach do oprawy muzycznej zwiastuna i filmu **nie zastępuje** rozliczenia organizatora z organizacją zbiorowego zarządzania za publiczne odtworzenie muzyki na gali - ten obowiązek zostaje przy organizatorze i nie jest przenoszony na uczestnika-konsumenta. (Wcześniejsze uzasadnienie minutowej emisji: całego filmu nie da się pokazać na gali rozstrzygającej cztery plebiscyty, a krótki materiał pokazuje pięć prac zamiast jednej.)
   - Do rozstrzygnięcia przy pisaniu: pozycje budżetu poza nagrodami, próg i tryb akademii filmu, zakres dla kancelarii (trzeci regulamin do wyceny, nie drugi).
 
-## Konkurs na plakat o sztucznej inteligencji (pomysł z 26.10.2026, rozwijany)
+## Plebiscyt na plakat o sztucznej inteligencji (pomysł z 26.10.2026, rozwijany)
 
 **Status: nie jest decyzją.** Całość zależy od jednej odpowiedzi, o którą jeszcze nie zapytaliśmy - patrz „Pierwszy ruch" niżej.
 
-Otwarty konkurs na plakat o sztucznej inteligencji i jej roli w świecie, wykonany **ręcznie, techniką tradycyjną, bez generatorów obrazu**. Zwycięski plakat staje się twarzą edycji: idzie na stronę, na zaproszenia, na galę, do mediów, i **trafia na okładkę antologii**.
+Otwarty plebiscyt na plakat o sztucznej inteligencji i jej roli w świecie, wykonany **ręcznie, techniką tradycyjną, bez generatorów obrazu**. Zwycięski plakat staje się twarzą edycji: idzie na stronę, na zaproszenia, na galę, do mediów, i **trafia na okładkę antologii**.
 
-### Dlaczego to jest mocniejsze niż plebiscyt piosenki
+### Dlaczego to jest mocniejsze niż plebiscyt na piosenkę
 
-**Polska szkoła plakatu.** To jedyna dziedzina, w której Polska ma własną szkołę rozpoznawaną na świecie. Dla MKiDN nie trzeba tłumaczyć, czemu resort kultury ma się tym zająć - to jest jego język ojczysty, inaczej niż przy konkursie piosenki.
+**Polska szkoła plakatu.** To jedyna dziedzina, w której Polska ma własną szkołę rozpoznawaną na świecie. Dla MKiDN nie trzeba tłumaczyć, czemu resort kultury ma się tym zająć - to jest jego język ojczysty, inaczej niż przy plebiscycie na piosenkę.
 
 **Spór o AI toczy się o obrazy, nie o muzykę.** Warunek „namalowane farbą" mówi coś ostrzejszego niż ten sam warunek przy melodii, i mówi to w dziedzinie, w której awantura naprawdę trwa.
 
-**Po konkursie zostają przedmioty.** Rozmowa to link, piosenka to plik, a plakat to płótno, które można powiesić i sprzedać. Dlatego akurat tu licytacja ma sens.
+**Po plebiscycie zostają przedmioty.** Rozmowa to link, piosenka to plik, a plakat to płótno, które można powiesić i sprzedać. Dlatego akurat tu licytacja ma sens.
 
-**Domyka antologię.** Zwycięski plakat na okładce wiąże konkurs plastyczny z dorobkiem, który jest głównym argumentem wobec resortu kultury. Antologia przestaje być składem tekstu, a staje się wydawnictwem z własną oprawą - a sponsor Antologii dostaje powód, żeby ten konkurs współfinansować.
+**Domyka antologię.** Zwycięski plakat na okładce wiąże plebiscyt plastyczny z dorobkiem, który jest głównym argumentem wobec resortu kultury. Antologia przestaje być składem tekstu, a staje się wydawnictwem z własną oprawą - a sponsor Antologii dostaje powód, żeby ten plebiscyt współfinansować.
 
 ### Jest też znacznie lżejszy logistycznie, niż się wydaje
 
-Korekta mojej wcześniejszej oceny: ciężar plebiscytu piosenki nie bierze się z samego konkursu, tylko z dziesięciu sesji studyjnych, producenta, praw do nagrań i wydawnictwa-partnera. Przy plakacie nie ma nic z tych rzeczy. Jest regulamin, jury, termin, wystawa przy gali i ewentualna licytacja. Organizator nie finansuje wykonania prac, więc odpada najdroższa pozycja plebiscytu.
+Korekta mojej wcześniejszej oceny: ciężar plebiscytu na piosenkę nie bierze się z samego plebiscytu, tylko z dziesięciu sesji studyjnych, producenta, praw do nagrań i wydawnictwa-partnera. Przy plakacie nie ma nic z tych rzeczy. Jest regulamin, jury, termin, wystawa przy gali i ewentualna licytacja. Organizator nie finansuje wykonania prac, więc odpada najdroższa pozycja plebiscytu.
 
 ### Pierwszy ruch: pytanie do Rafała Olbińskiego
 
@@ -884,7 +884,7 @@ Korekta mojej wcześniejszej oceny: ciężar plebiscytu piosenki nie bierze się
 
 **Jego zgoda nie jest faktem, dopóki jej nie ma.** Lekcja z tego tygodnia: Michał powiedział „tak", a drugim zdaniem zapytał, ile dostanie. Olbiński mieszka w Nowym Jorku i jest nazwiskiem rynkowym - jego czas ma cenę, niekoniecznie wysoką za jurorowanie, ale niezerową. Każda rozmowa ze sponsorem powołująca się na jego udział przed uzyskaniem zgody jest obietnicą bez pokrycia.
 
-Wariant tańszy, gdyby konkurs okazał się na razie za duży: **jeden plakat pierwszej edycji zamówiony u Olbińskiego**, ewentualnie zaproszenie go do rady honorowej. Nagroda dostaje twarz i nazwisko bez regulaminu, jury i logistyki cudzych płócien, a konkurs otwarty wchodzi w drugiej edycji.
+Wariant tańszy, gdyby plebiscyt okazał się na razie za duży: **jeden plakat pierwszej edycji zamówiony u Olbińskiego**, ewentualnie zaproszenie go do rady honorowej. Nagroda dostaje twarz i nazwisko bez regulaminu, jury i logistyki cudzych płócien, a plebiscyt otwarty wchodzi w drugiej edycji.
 
 ### Mechanika zgłoszeń - wzorzec z plebiscytu
 
@@ -908,15 +908,15 @@ Nie da się prosić setek osób o wysyłanie płócien. **Zgłoszeniem jest foto
 
 ### Do sprawdzenia, zanim to wystartuje
 
-1. **Status prawny licytacji.** Dzieła przekazane fundacji to inna maszyna niż konkurs: czy to zbiórka publiczna, darowizna rzeczowa, czy działalność odpłatna; podatek po stronie autora od jego części; czy fundacja może sprzedawać cudzą własność bez umowy komisu.
+1. **Status prawny licytacji.** Dzieła przekazane fundacji to inna maszyna niż plebiscyt: czy to zbiórka publiczna, darowizna rzeczowa, czy działalność odpłatna; podatek po stronie autora od jego części; czy fundacja może sprzedawać cudzą własność bez umowy komisu.
 2. **Kto przyjdzie licytować.** Słaba licytacja jest gorsza niż żadna, bo publicznie wycenia prace nisko. Do rozważenia cena minimalna albo licytacja internetowa z domem aukcyjnym jako partnerem.
 3. **Transport, ubezpieczenie i przechowanie oryginałów.** Nudne, ale realne i dotąd niepoliczone.
 
 ### Ryzyko do przyjęcia świadomie
 
-To jest **czwarty konkurs i czwarty sponsor**: rozmowy, piosenka, akademia, plakat. Fundacja nie jest zarejestrowana, pula nagród nie jest zabezpieczona, a trzy rozmowy sponsorskie są otwarte i nierozstrzygnięte. Argument przemawiający za: praca organizatora to pisanie, maile i telefony, a konkurs plakatu mieści się w tym bez nowej infrastruktury. Argument przeciw: każdy kolejny front rozcieńcza te trzy rozmowy, które już trwają.
+To jest **czwarty plebiscyt i czwarty sponsor**: rozmowy, piosenka, akademia, plakat. Fundacja nie jest zarejestrowana, pula nagród nie jest zabezpieczona, a trzy rozmowy sponsorskie są otwarte i nierozstrzygnięte. Argument przemawiający za: praca organizatora to pisanie, maile i telefony, a plebiscyt na plakat mieści się w tym bez nowej infrastruktury. Argument przeciw: każdy kolejny front rozcieńcza te trzy rozmowy, które już trwają.
 
-### Konkurs plakatu - ustalenia z 26.10.2026, godz. 1:30
+### Plebiscyt na plakat - ustalenia z 26.10.2026, godz. 1:30
 
 **Podział z licytacji: 50/50, ale jako wybór tak albo nie.** Przy zgłoszeniu uczestnik deklaruje „przekazuję pracę na licytację na warunkach regulaminu" albo „nie przekazuję". Stawka jest ta sama dla wszystkich, więc nie powstaje ranking hojności, a kto nie przekazuje, zatrzymuje obraz i nic nie traci w ocenie. To jest różnica wobec odrzuconego pomysłu z deklarowaniem procentu: wybór binarny działa, wybór wielkości nie.
 
@@ -930,9 +930,9 @@ To jest **czwarty konkurs i czwarty sponsor**: rozmowy, piosenka, akademia, plak
 
 **Czytelnia, Archiwum i nagroda publiczności - analogicznie do rozmów.** Zgłoszenia pokazywane na stronie w miarę napływania, po rozstrzygnięciu przechodzą do Archiwum, a publiczność przyznaje własną nagrodę obok werdyktu jury. Przy plakacie kosztuje to niemal nic: obrazy są statyczne, więc nie ma problemu z odtwarzaczami ani z transferem.
 
-### Brak do nadrobienia: czytelnia i Archiwum plebiscytu piosenki
+### Brak do nadrobienia: czytelnia i Archiwum plebiscytu na piosenkę
 
-Ujawniony przy okazji plakatu, 26.10.2026. **Trzy konkursy, trzy czytelnie, a nazwę i projekt ma jedna.**
+Ujawniony przy okazji plakatu, 26.10.2026. **Trzy plebiscyty, trzy czytelnie, a nazwę i projekt ma jedna.**
 
 **Czytelnia plebiscytu istnieje tylko w treści przepisu.** § 5 ust. 7 regulaminu plebiscytu mówi, że zgłoszenia są prezentowane na stronie w miarę napływania i że prezentacja jest warunkiem udziału. Ale ta powierzchnia nie ma nazwy ani zaprojektowanej strony, a nad jej kształtem wisi nierozstrzygnięta od 24.10.2026 sprawa: osadzone odtwarzacze YouTube kontra klikalne okładki, przy czym Reequestowi zadeklarowano to drugie.
 
@@ -942,7 +942,7 @@ Ujawniony przy okazji plakatu, 26.10.2026. **Trzy konkursy, trzy czytelnie, a na
 
 **Film zgłaszany do plebiscytu powstaje od zera na jego potrzeby.** Pierwotny projekt regulaminu wykluczał tylko filmy z lat innych niż rok edycji; zdecydowane jest mocniej: do dnia gali film nie może być zgłoszony do żadnego innego konkursu, festiwalu ani przeglądu i nie może mieć nigdzie nagrody, wyróżnienia ani nominacji. Wykluczony jest także materiał powstały w innym celu i przygotowany pod plebiscyt przez przemontowanie albo skrócenie. Publikacja na własnym kanale nie jest zgłoszeniem gdzie indziej - jest u nas warunkiem udziału, bo zgłoszeniem jest link. Po gali autor dysponuje filmem bez ograniczeń: wyłączenie obejmuje wyłącznie czas do gali. Powód: plebiscyt nagradza film powstały dla niego, nie dorobek przyniesiony z innego obiegu.
 
-**W plebiscycie plakatu obowiązkowe jest nagranie z powstawania pracy, co najmniej 5 minut.** Odwraca to decyzję z tego samego dnia, która materiały dokumentujące proces czyniła nieobowiązkowymi. Nagranie ma jednoznacznie wykazać, że pracę wykonuje uczestnik: w jednym kadrze praca i ręka z narzędziem, co najmniej dwa etapy, w tym etap, na którym plakat jest rozpoznawalny jako ten z reprodukcji. Ujęcia mogą być pocięte, ale każde trwa minutę i nie ma cięcia w kadrze. Ujęcia przyspieszone nie wliczają się do minimum, bo nie pokazują, czyja to ręka. **Twarz uczestnika musi być w nagraniu widoczna**, a co najmniej jedno ujęcie zawiera nieprzerwane przejście kadru od twarzy do pracy, bez cięcia - to ono wiąże osobę z ręką trzymającą pędzel. Ruch może być wykonany dowolnie i w obie strony. Zasłonięcie albo wycięcie własnej twarzy czyni nagranie niespełniającym wymogu. Pseudonim pozostaje możliwy, bo nagranie nie jest publikowane. Nagranie nie podlega ocenie w żadnym kryterium, nie wymaga głosu, nie jest publikowane ani w Galerii, ani w Archiwum - widzą je wyłącznie oceniający i jury. Przesyłane jest jako link, który może być niepubliczny. Pozostałe materiały z etapów zostają nieobowiązkowe.
+**W plebiscycie na plakat obowiązkowe jest nagranie z powstawania pracy, co najmniej 5 minut.** Odwraca to decyzję z tego samego dnia, która materiały dokumentujące proces czyniła nieobowiązkowymi. Nagranie ma jednoznacznie wykazać, że pracę wykonuje uczestnik: w jednym kadrze praca i ręka z narzędziem, co najmniej dwa etapy, w tym etap, na którym plakat jest rozpoznawalny jako ten z reprodukcji. Ujęcia mogą być pocięte, ale każde trwa minutę i nie ma cięcia w kadrze. Ujęcia przyspieszone nie wliczają się do minimum, bo nie pokazują, czyja to ręka. **Twarz uczestnika musi być w nagraniu widoczna**, a co najmniej jedno ujęcie zawiera nieprzerwane przejście kadru od twarzy do pracy, bez cięcia - to ono wiąże osobę z ręką trzymającą pędzel. Ruch może być wykonany dowolnie i w obie strony. Zasłonięcie albo wycięcie własnej twarzy czyni nagranie niespełniającym wymogu. Pseudonim pozostaje możliwy, bo nagranie nie jest publikowane. Nagranie nie podlega ocenie w żadnym kryterium, nie wymaga głosu, nie jest publikowane ani w Galerii, ani w Archiwum - widzą je wyłącznie oceniający i jury. Przesyłane jest jako link, który może być niepubliczny. Pozostałe materiały z etapów zostają nieobowiązkowe.
 
 ## Karta oceny filmu i procedura moderacji (26.10.2026)
 
@@ -954,7 +954,7 @@ Ujawniony przy okazji plakatu, 26.10.2026. **Trzy konkursy, trzy czytelnie, a na
 
 ## Polityka prywatności rozszerzona na cztery plebiscyty (26.10.2026)
 
-Polityka mówiła dotąd wyłącznie o rozmowach, choć mamy trzy pozostałe plebiscyty, a od dziś także nagrania z twarzą uczestnika. Rozszerzona z dziesięciu do czternastu rozdziałów: osobny rozdział na każdy plebiscyt (4-7), nowy rozdział o głosowaniu publiczności (8), rozdział o danych osób trzecich przepisany na wszystkie cztery konkursy, lista odbiorców uzupełniona o dostawcę SMS, firmę przewozową, ubezpieczyciela, galerię sztuki i partnerów wydawniczych.
+Polityka mówiła dotąd wyłącznie o rozmowach, choć mamy trzy pozostałe plebiscyty, a od dziś także nagrania z twarzą uczestnika. Rozszerzona z dziesięciu do czternastu rozdziałów: osobny rozdział na każdy plebiscyt (4-7), nowy rozdział o głosowaniu publiczności (8), rozdział o danych osób trzecich przepisany na wszystkie cztery plebiscyty, lista odbiorców uzupełniona o dostawcę SMS, firmę przewozową, ubezpieczyciela, galerię sztuki i partnerów wydawniczych.
 
 **Nagranie z powstawania plakatu dostało własny podrozdział** jako najbardziej wrażliwa dana w całym przedsięwzięciu: co zawiera, po co, na jakiej podstawie, że nie jest publikowane, jak długo jest przechowywane i że pseudonim działa nadal. Stanowisko, które trzeba będzie obronić przed kancelarią: **wizerunek z nagrania nie jest przetwarzany biometrycznie**, bo sprawdzenia dokonuje człowiek, a nie narzędzie rozpoznawania twarzy, więc art. 9 RODO nie znajduje zastosowania.
 
@@ -1074,7 +1074,7 @@ Dziecko nagłówka dziedziczy teraz jego wielkość, grubość i interlinię. **
 
 ### Film promocyjny i instruktaż odpadają w weryfikacji formalnej (26.10.2026)
 
-W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest konkursem na reklamę, materiał szkoleniowy ani prezentację możliwości narzędzi. Recenzent słusznie zauważył, że nie wiadomo, czy to deklaracja, czy podstawa odrzucenia - a przy drugim odczytaniu organizator dostawał prawo odrzucić film po obejrzeniu, nazywając go materiałem szkoleniowym.
+W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest plebiscytem na reklamę, materiał szkoleniowy ani prezentację możliwości narzędzi. Recenzent słusznie zauważył, że nie wiadomo, czy to deklaracja, czy podstawa odrzucenia - a przy drugim odczytaniu organizator dostawał prawo odrzucić film po obejrzeniu, nazywając go materiałem szkoleniowym.
 
 **Decyzja: to ma być podstawa odrzucenia**, więc stoi teraz w § 5 jako wymóg formalny, nazwany konkretnie. Odpada film, którego celem jest promocja produktu, usługi, marki albo podmiotu - w szczególności zamówiony lub sfinansowany przez podmiot promowany - oraz film będący w całości instruktażem obsługi narzędzia, bez tezy o sztucznej inteligencji.
 
@@ -1084,7 +1084,7 @@ W § 2 regulaminu filmu stało zdanie, że plebiscyt nie jest konkursem na rekla
 
 **Karta oceny miała dwa błędy, które premiowały wybór tematu zamiast wykonania.** Najwyższe pasmo Rzetelności wymagało, by film poruszał sprawę sporną i pokazywał spór - film o faktach niespornych i film fabularny bez twierdzeń o technologii nie miały drogi do pełnej punktacji. Teraz najwyższe pasmo brzmi: film nie wprowadza w błąd w żadnym miejscu, a brak twierdzeń faktograficznych oceny nie obniża. W Tezie pasmo średnie traktowało zmianę stanowiska jak wadę - dokument albo esej może świadomie podważyć własne założenie, więc liczy się teraz to, czy film pokazuje, skąd ta zmiana.
 
-**Wersja konkursowa: obowiązek zamiast obietnicy.** Poprzedni zapis mówił, że zmian po zamknięciu naboru "nie bierze się pod uwagę" - czyli obiecywał porównanie z materiałem, którego nie przechowujemy. Teraz uczestnik zobowiązuje się nie zmieniać filmu do werdyktu, organizator sporządza w dniu zamknięcia naboru **metrykę zgłoszenia** (czas trwania co do sekundy, tytuł, miniatura, data publikacji, zapis wpisu w Projektorni), oceniający odnotowują czas trwania obejrzanego filmu, a podstawą wykluczenia jest **zmiana wykazana**, z ciężarem po stronie organizatora. Dopisane jest wprost, że organizator nie zapewnia wykrycia każdej zmiany.
+**Wersja plebiscytowa: obowiązek zamiast obietnicy.** Poprzedni zapis mówił, że zmian po zamknięciu naboru "nie bierze się pod uwagę" - czyli obiecywał porównanie z materiałem, którego nie przechowujemy. Teraz uczestnik zobowiązuje się nie zmieniać filmu do werdyktu, organizator sporządza w dniu zamknięcia naboru **metrykę zgłoszenia** (czas trwania co do sekundy, tytuł, miniatura, data publikacji, zapis wpisu w Projektorni), oceniający odnotowują czas trwania obejrzanego filmu, a podstawą wykluczenia jest **zmiana wykazana**, z ciężarem po stronie organizatora. Dopisane jest wprost, że organizator nie zapewnia wykrycia każdej zmiany.
 
 **Z zakazu filmu promocyjnego wypadł przykład**, który pozwalał odrzucić formalnie film za słabą argumentację: "przedstawiający jedno rozwiązanie jako lepsze bez pokazania podstaw". To jest sprawa oceny merytorycznej, nie weryfikacji formalnej.
 
@@ -1098,7 +1098,7 @@ Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwsz
 
 **Dla zdjęcia metryki zgłoszenia:** rozbieżność z metryką jest podstawą wszczęcia wyjaśnień, a nie dowodem zmiany filmu. Zmiana samego tytułu albo miniatury niczego nie dowodzi, a różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z dopuszczonej poprawki technicznej.
 
-## Recenzja plebiscytu rozmowy z AI (26.10.2026)
+## Recenzja plebiscytu na rozmowę z AI (26.10.2026)
 
 Dwadzieścia sześć zarzutów, w tym kilkanaście sprzeczności między dokumentami. Najważniejsze rozstrzygnięcia:
 
@@ -1126,11 +1126,11 @@ Przy okazji: kontrola rozkładu dostała **definicję zakresu** (cały przydzia�
 
 Z przepisu o progu trzeciego odczytu usunięte zdanie o przeliczeniu ze starej skali: było w dodatku nieścisłe (cztery punkty dotyczyły pojedynczego kryterium, nie sumy), a uczestnik potrzebuje obowiązującego progu, nie historii jego powstania.
 
-## Przegląd zewnętrzny plebiscytu plakatu (26.10.2026)
+## Przegląd zewnętrzny plebiscytu na plakat (26.10.2026)
 
 Pierwsza runda krytycznej recenzji podstrony, regulaminu, procedury moderacji i polityki prywatności w części plakatowej. Dwadzieścia trzy zarzuty, wszystkie przyjęte. Najcięższe trzy były sprzecznościami, nie stylem.
 
-**Tryb, którego nie było.** § 8 ust. 4h odsyłał przy oznaczeniach do "trybu z § 11", a § 11 opisuje Galerię i Archiwum - czytelnik dostawał pozór procedury. Powstał **§ 15 ust. 1a**: zawiadomienie uczestnika o treści zastrzeżenia, 14 dni na wyjaśnienia, zgłoszenie zostaje w konkursie z niezmienioną punktacją, ograniczenie prezentacji tylko przy zastrzeżeniu zasadnym, odrzucenie wyłącznie na podstawach z § 5 ust. 2 albo § 15 ust. 5, rozstrzygnięcie z uzasadnieniem. Procedura moderacji przestała podawać uniwersalne numery paragrafów, bo przy każdym plebiscycie wypadały inne.
+**Tryb, którego nie było.** § 8 ust. 4h odsyłał przy oznaczeniach do "trybu z § 11", a § 11 opisuje Galerię i Archiwum - czytelnik dostawał pozór procedury. Powstał **§ 15 ust. 1a**: zawiadomienie uczestnika o treści zastrzeżenia, 14 dni na wyjaśnienia, zgłoszenie zostaje w plebiscycie z niezmienioną punktacją, ograniczenie prezentacji tylko przy zastrzeżeniu zasadnym, odrzucenie wyłącznie na podstawach z § 5 ust. 2 albo § 15 ust. 5, rozstrzygnięcie z uzasadnieniem. Procedura moderacji przestała podawać uniwersalne numery paragrafów, bo przy każdym plebiscycie wypadały inne.
 
 **Harmonogram oryginałów mógł uniemożliwić obiecaną wystawę.** Regulamin wyznaczał tylko termin końcowy dostarczenia i liczył 120 dni od dnia dostarczenia - praca przysłana w połowie grudnia osiągałaby limit przed galą. Teraz Organizator ogłasza **okno dostarczenia** (dzień początkowy i końcowy, co najmniej 21 dni), limit liczy się od dnia początkowego okna, a sam limit wydłużony do **150 dni**, bo przy 120 nie dało się zmieścić wystawy w galerii po gali. Harmonogram na podstronie dostał dwa brakujące wiersze: wystawę w galerii i zwrot prac.
 
@@ -1146,13 +1146,13 @@ Pierwsza runda krytycznej recenzji podstrony, regulaminu, procedury moderacji i 
 
 **Nagranie przestało być przedstawiane jako dowód rozstrzygający.** "To jedno ujęcie zamyka całą sprawę" i "ma jednoznacznie wykazać" zastąpiło powiązanie osoby z czynnością - bo ujęcie pokazuje, kto pracuje, a nie że wykonał całą pracę. Zniknęła też sprzeczność między lit. c (praca i ręka jednocześnie w kadrze) i lit. c1 (przejazd kamery od twarzy do pracy), w którym praca na chwilę z kadru wypada.
 
-**Dwie obietnice niepełne.** Niepełnoletni czytali, że żadna odmowa opiekuna nie wyklucza z konkursu, choć zgoda na obowiązkowe zakresy licencji i na przesłanie nagrania z twarzą jest warunkiem przyjęcia zgłoszenia. Wystawa oryginałów i okładka antologii były opisane jako pewne, choć regulamin dopuszcza odmowę wysłania oryginału i odmowę zgody na okładkę - wszędzie jest teraz "prace finalistów", "oryginały tych, którzy je przysłali, pozostałe w reprodukcji" i zgoda autora przy okładce.
+**Dwie obietnice niepełne.** Niepełnoletni czytali, że żadna odmowa opiekuna nie wyklucza z plebiscytu, choć zgoda na obowiązkowe zakresy licencji i na przesłanie nagrania z twarzą jest warunkiem przyjęcia zgłoszenia. Wystawa oryginałów i okładka antologii były opisane jako pewne, choć regulamin dopuszcza odmowę wysłania oryginału i odmowę zgody na okładkę - wszędzie jest teraz "prace finalistów", "oryginały tych, którzy je przysłali, pozostałe w reprodukcji" i zgoda autora przy okładce.
 
 **Jury i punkty.** "Jury ogląda wszystkie zgłoszenia" przeczyło pierwszej rundzie akademii - obie ścieżki są teraz wymienione, z trybem ogłaszanym przed naborem. Karta mówiła "każdego osobno, w skali stu punktów", co sugerowało 100 punktów za kryterium; jest "łącznie do 100 punktów, w podziale wskazanym w tabeli". Brakowało przepisu o tym, jak powstaje wynik z ocen kilku osób - **§ 7 ust. 1a**: średnia arytmetyczna, ocena wyłączonego członka pomijana. Banalne użycie motywu przeniesione z Ujęcia tematu do Pomysłu plastycznego, bo nakładało się na dwa kryteria naraz i ten sam zarzut obniżał dwa wyniki.
 
 **Kwoty nagród.** § 9 przestał odsyłać do załącznika, którego przy tym projekcie nie ma, i mówi to samo co regulaminy rozmowy i filmu: wysokość zależy od środków od sponsorów, ogłaszana w dniu otwarcia naboru, po ogłoszeniu może już tylko wzrosnąć. **Ten sam zapis o załączniku został w regulaminie piosenki i trzeba go tam wyrównać.**
 
-**Z podstrony usunięte dwie całe sekcje.** "Pół minuty kontra trzy tygodnie" - polemika z własnym, wygenerowanym obrazem, ustawiająca wygenerowany przykład jako nieformalny punkt odniesienia konkursu - oraz "Dlaczego akurat plakat", powtarzająca uzasadnienie wykonania ręcznego. Razem z nimi jedenaście pojedynczych zdań reklamowych i polemicznych ("To nie jest konkurs, po którym praca wraca do szuflady", "Nikt nie wysyła płótna do konkursu, którego wyniku nie zna", "przy głosowaniu wygrywa największy zasięg", "Kartę publikujemy już teraz, zamiast obiecywać kryteria na później", "Telefon oparty o kubek wystarcza"). Z regulaminu wypadły komentarze Organizatora, które nie określały niczyich praw: źródło finansowania, sens nagrania, "telefonem opartym o cokolwiek", uzasadnienie wcześniejszego naboru i zdanie o tożsamości medalu.
+**Z podstrony usunięte dwie całe sekcje.** "Pół minuty kontra trzy tygodnie" - polemika z własnym, wygenerowanym obrazem, ustawiająca wygenerowany przykład jako nieformalny punkt odniesienia plebiscytu - oraz "Dlaczego akurat plakat", powtarzająca uzasadnienie wykonania ręcznego. Razem z nimi jedenaście pojedynczych zdań reklamowych i polemicznych ("To nie jest plebiscyt, po którym praca wraca do szuflady", "Nikt nie wysyła płótna do plebiscytu, którego wyniku nie zna", "przy głosowaniu wygrywa największy zasięg", "Kartę publikujemy już teraz, zamiast obiecywać kryteria na później", "Telefon oparty o kubek wystarcza"). Z regulaminu wypadły komentarze Organizatora, które nie określały niczyich praw: źródło finansowania, sens nagrania, "telefonem opartym o cokolwiek", uzasadnienie wcześniejszego naboru i zdanie o tożsamości medalu.
 
 **Licytacja.** Podstrona dzieliła po połowie całą cenę, regulamin - kwotę po potrąceniu kosztów; podstrona mówi teraz to samo co regulamin. Doszły dwie sytuacje, których regulamin nie przewidywał: praca niesprzedana, gdy licytacja skończyła się po terminie zwrotu, oraz praca sprzedana, lecz nieopłacona albo nieodebrana przez nabywcę (ust. 6 i 6a).
 
@@ -1168,7 +1168,7 @@ Przy okazji domknięte dwa przebiegi, które recenzent słusznie uznał za niedo
 
 Przy okazji odrzucone rozwiązanie, które samo się narzuca: **blokada przewijania strony pod menu przez overflow: hidden na html albo body psuje przyklejenie paska**. Gdy element przewijany zmienia się na inny, position: sticky przestaje działać i otwarte menu zostaje w górze dokumentu, poza ekranem - przy stronie przewiniętej do § 8 klik w burgera nie pokazywał niczego. Wyszło to dopiero w zrzucie z Playwrighta robionym po przewinięciu strony, bo na górze dokumentu wygląda to poprawnie. Menu wypełniające ekran daje ten sam efekt bez dotykania przewijania.
 
-## Przegląd zewnętrzny plebiscytu piosenki (26.10.2026)
+## Przegląd zewnętrzny plebiscytu na piosenkę (26.10.2026)
 
 Pierwsza runda krytycznej recenzji podstrony, regulaminu, procedury moderacji i polityki prywatności w części piosenkowej. Dwadzieścia cztery zarzuty, wszystkie przyjęte. Najcięższe dotyczyły rzeczy, które mówiliśmy w trzech miejscach na trzy sposoby.
 
@@ -1184,7 +1184,7 @@ Pierwsza runda krytycznej recenzji podstrony, regulaminu, procedury moderacji i 
 
 **Granica przy obróbce dźwięku.** „Produkcja" była zbyt szerokim wyjątkiem wobec zakazu generowania muzyki. § 7 ust. 5a: obróbka nie może zastąpić ludzkiego wykonania ani stworzyć muzyki, której nie skomponował człowiek - nie wolno wygenerować wokalu, chórków i drugiego głosu, podmienić barwy głosu ani kazać narzędziu wymyślić harmonii; drugie głosy robione automatycznie są dozwolone tylko z nagranego głosu człowieka. Przy okazji deklaracja zawężona do **narzędzi opartych na sztucznej inteligencji**: dotąd literalnie obejmowała korektor i kompresor.
 
-**Tekst w całości z AI jest dozwolony - rozstrzygnięcie z 26.10.2026.** Regulamin mówił „w tym z wersji wygenerowanej i następnie przepisanej", co nie rozstrzygało, czy przepisanie jest przykładem, czy warunkiem. Wybrana została zasada bez progu własnej pracy: tekst może pochodzić od narzędzia w dowolnym zakresie, łącznie z wersją przyjętą bez zmian, a jedynym naruszeniem jest nieprawdziwa deklaracja. Jest to spójne z § 7 ust. 7 - jury ocenia gotowy tekst, nie sposób jego powstania - i z brakiem pytań o proporcje. Deklaracja jest **publikowana** razem ze zgłoszeniem, tak jak w plebiscycie filmu; dotąd polityka twierdziła, że tak, a regulamin jej nie wymieniał.
+**Tekst w całości z AI jest dozwolony - rozstrzygnięcie z 26.10.2026.** Regulamin mówił „w tym z wersji wygenerowanej i następnie przepisanej", co nie rozstrzygało, czy przepisanie jest przykładem, czy warunkiem. Wybrana została zasada bez progu własnej pracy: tekst może pochodzić od narzędzia w dowolnym zakresie, łącznie z wersją przyjętą bez zmian, a jedynym naruszeniem jest nieprawdziwa deklaracja. Jest to spójne z § 7 ust. 7 - jury ocenia gotowy tekst, nie sposób jego powstania - i z brakiem pytań o proporcje. Deklaracja jest **publikowana** razem ze zgłoszeniem, tak jak w plebiscycie na film; dotąd polityka twierdziła, że tak, a regulamin jej nie wymieniał.
 
 **Płyta przestała być obietnicą.** Strona główna pisała, że nagrania „składają się na płytę", a regulamin - że „mogą ukazać się", przy czym potrzebne jest i wydawnictwo, i odrębna umowa każdego finalisty. Wszędzie jest teraz plan zależny od obu tych rzeczy. Dołożone wprost: brak wydawnictwa nie ogranicza prawa finalisty do samodzielnego wykorzystania nagrania, a odmowa umowy z wydawnictwem nie odbiera mu nagrania ani praw do niego (§ 13 ust. 6 i 6a).
 

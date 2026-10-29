@@ -165,7 +165,7 @@ Warunek jest jeden: **problem musi być konkretny i wskazany co do miejsca.** �
 - **Błędów sztucznej inteligencji.** Sam błąd AI nie jest podstawą oznaczenia, a rzetelność zgłoszenia ocenia się kryteriami. Oznacz go natomiast, jeżeli powoduje konkretny problem z publikacją – w szczególności gdy nieprawda dotyczy konkretnej, możliwej do rozpoznania osoby.
 - **Niskiej jakości.** Słaba rozmowa, słaby plakat, słaby film to sprawa punktacji.
 - **Języka.** Przekleństwo, dosadność, drwina ani ostry ton nie są zastrzeżeniem.
-- **Użycia narzędzi sztucznej inteligencji.** W plebiscycie filmu jest ono dopuszczalne bez ograniczeń, w plebiscytach piosenki i plakatu podlega regulaminowym granicom, które sprawdza się w weryfikacji formalnej i w trybie z regulaminu – nie oznaczeniem.
+- **Użycia narzędzi sztucznej inteligencji.** W plebiscycie na film jest ono dopuszczalne bez ograniczeń, w plebiscytach na piosenkę i na plakat podlega regulaminowym granicom, które sprawdza się w weryfikacji formalnej i w trybie z regulaminu – nie oznaczeniem.
 
 ## 6. Jak wypełnić oznaczenie
 

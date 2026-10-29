@@ -8,7 +8,7 @@ Zaplecze decyzyjne pisma `mk-pismo.md`. Wyjęte z samego pisma, żeby plik zawie
 
 **Dlaczego list intencyjny jest tu ważniejszy niż odpowiedź o program.** Odpowiedź na pytania formalne z dużym prawdopodobieństwem brzmi „nie w tym naborze, proszę czekać na 2028". List intencyjny działa od razu: przy fundatorze puli nagród, przy wydawnictwach muzycznych i przy kompletowaniu jury. W przeciwieństwie do patronatu honorowego nie ma tu regulaminowej przeszkody w postaci braku zabezpieczonego finansowania.
 
-**Dlaczego prosimy o list wobec całej Nagrody, nie wobec plebiscytu.** Gdyby przedmiotem prośby był konkurs piosenki, prosilibyśmy resort kultury o stanowisko wobec plebiscytu muzycznego - i tylko to by z tego zostało. Powodem, dla którego MKiDN ma się tym zainteresować, jest antologia i publiczne Archiwum: pierwszy polskojęzyczny zbiór zapisów rozmów człowieka ze sztuczną inteligencją, udostępniany bezpłatnie. To jest dorobek kulturowy, a plebiscyt jest jego częścią artystyczną.
+**Dlaczego prosimy o list wobec całej Nagrody, nie wobec plebiscytu.** Gdyby przedmiotem prośby był plebiscyt na piosenkę, prosilibyśmy resort kultury o stanowisko wobec plebiscytu muzycznego - i tylko to by z tego zostało. Powodem, dla którego MKiDN ma się tym zainteresować, jest antologia i publiczne Archiwum: pierwszy polskojęzyczny zbiór zapisów rozmów człowieka ze sztuczną inteligencją, udostępniany bezpłatnie. To jest dorobek kulturowy, a plebiscyt jest jego częścią artystyczną.
 
 **Ryzyko jednego pisma o dwóch przedmiotach.** Pytania o program i dopuszczalność wnioskodawcy to praca departamentu merytorycznego albo operatorów programów. Prośba o list intencyjny jest decyzją gabinetową. W jednym piśmie mogą rozjechać się na dwa biurka i jedno może pociągnąć drugie. Alternatywą są dwa osobne pisma, ale to dwa znaki sprawy i dwa oczekiwania przy niezarejestrowanej fundacji. Przyjęte: jedno pismo, z wyraźnym rozdzieleniem obu części i ze zdaniem, że nie są od siebie zależne.
 
@@ -23,7 +23,7 @@ Zaplecze decyzyjne pisma `mk-pismo.md`. Wyjęte z samego pisma, żeby plik zawie
 **Układ wysyłki (26.10.2026).** Trzy pliki, ta sama kolejność co przy Ministerstwie Cyfryzacji i Ministerstwie Edukacji:
 
 1. `mk-wiadomosc.md` - treść wiadomości w eDoręczeniach. Pigułka: czym jest Nagroda, dwie prośby, cztery pytania formalne jako numerowana lista, zastrzeżenie o braku wniosku dotacyjnego i patronatowego, spis załączników.
-2. `mk-pismo.md` - pełne pismo, załączane jako PDF. Tu jest całe uzasadnienie: trzy konkursy, podcast, stan przygotowań, rozwinięte pytania, akapit o zablokowanym SOP.
+2. `mk-pismo.md` - pełne pismo, załączane jako PDF. Tu jest całe uzasadnienie: trzy plebiscyty, podcast, stan przygotowań, rozwinięte pytania, akapit o zablokowanym SOP.
 3. `mk-nota-koncepcyjna.md` - aktualny stan projektu, załączany jako PDF.
 
 Pytania są świadomie w dwóch miejscach: w wiadomości jednym wierszem każde, w pismie z uzasadnieniem. Wiadomość bez pytań ryzykuje odpowiedź potwierdzającą zapoznanie się i nic więcej, bo urzędnik nie musi otwierać załącznika, żeby odpisać.

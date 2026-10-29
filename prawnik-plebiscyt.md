@@ -6,7 +6,7 @@ Stan na **24 października 2026 roku**.
 
 Stan konstrukcji, do którego odnoszą się pytania, jest opisany w [plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia). Lista uwzględnia decyzje z 24.10.2026: regułę AI w nowym brzmieniu, dopuszczenie zgłoszeń zespołowych, demo na wejściu oraz nagrania dziesięciu finalistów finansowane przez organizatora.
 
-**Cztery rzeczy, na których zależy nam najbardziej**, gdyby kancelaria chciała zacząć od części: punkt 5 (reguła AI, bo bez niej konkurs o sztucznej inteligencji może wygrać utwór wygenerowany), punkt 2 wraz z punktem 12 (prawa do nagrań finansowanych przez organizatora - to nowa i najdroższa pozycja budżetu), punkt 7 (dane głosujących, bo wchodzi do polityki prywatności pisanej od zera) oraz punkt 8 (wiek uczestników, bo musi być rozstrzygnięty przed ogłoszeniem, nie po).
+**Cztery rzeczy, na których zależy nam najbardziej**, gdyby kancelaria chciała zacząć od części: punkt 5 (reguła AI, bo bez niej plebiscyt o sztucznej inteligencji może wygrać utwór wygenerowany), punkt 2 wraz z punktem 12 (prawa do nagrań finansowanych przez organizatora - to nowa i najdroższa pozycja budżetu), punkt 7 (dane głosujących, bo wchodzi do polityki prywatności pisanej od zera) oraz punkt 8 (wiek uczestników, bo musi być rozstrzygnięty przed ogłoszeniem, nie po).
 
 ## 1. Regulamin plebiscytu
 
@@ -45,7 +45,7 @@ Przyjęta forma zgłoszenia to **link do utworu opublikowanego na YouTube**, nie
 
 ## 4a. Zwiastun jako obowiązkowy element zgłoszenia filmu
 
-Od 27.10.2026 zgłoszeniem w plebiscycie filmu jest link do filmu **oraz** link do jego zwiastuna (60-120 sekund). Zwiastun nie podlega ocenie, odtwarza się przy wpisie w Projektorni i w Archiwum, a przy filmach z czołowej piątki jest tym, co prezentowane jest podczas gali. Organizator nie montuje już fragmentów cudzych filmów.
+Od 27.10.2026 zgłoszeniem w plebiscycie na film jest link do filmu **oraz** link do jego zwiastuna (60-120 sekund). Zwiastun nie podlega ocenie, odtwarza się przy wpisie w Projektorni i w Archiwum, a przy filmach z czołowej piątki jest tym, co prezentowane jest podczas gali. Organizator nie montuje już fragmentów cudzych filmów.
 
 - Czy wymóg dostarczenia utworu odrębnego od zgłaszanego dzieła, nieobjętego oceną, jest wobec konsumenta dopuszczalny jako warunek udziału.
 - Czy licencja na zwiastun obejmuje prawidłowo **pobranie i techniczne przygotowanie do emisji** (jakość emisyjna, dopasowanie formatu, normalizacja dźwięku, plansza z tytułem), czy potrzebny jest odrębny zakres.
@@ -66,15 +66,15 @@ Przyjęty kierunek z 27.10.2026, analogiczny do płyty z pkt 12: **zestaw dziesi
 
 ## 5. Wymóg autorstwa ludzkiego
 
-Reguła w brzmieniu obowiązującym **od 24.10.2026, godz. 18**. Wcześniejsza wersja obejmowała jednym zakazem tekst, melodię, harmonię i wokal; została rozdzielona, bo obejmowała także pracę, którą Nagroda Konstela w swoim głównym konkursie wprost nagradza.
+Reguła w brzmieniu obowiązującym **od 24.10.2026, godz. 18**. Wcześniejsza wersja obejmowała jednym zakazem tekst, melodię, harmonię i wokal; została rozdzielona, bo obejmowała także pracę, którą Nagroda Konstela w swoim głównym plebiscycie wprost nagradza.
 
 **Melodia, harmonia i wokal - granica twarda.** Niedozwolone jest zgłoszenie melodii lub harmonii przejętej z wygenerowanego nagrania: odsłuchanej i spisanej, przerobionej, przyspieszonej czy przeharmonizowanej. Dozwolone i niewymagające deklaracji jest używanie generatora do szukania klimatu i sprawdzania pomysłów przed napisaniem własnej melodii. Zakaz dotyczy zatem **pochodzenia zgłoszonego materiału**, nie inspiracji. Partia wokalna w całości ludzka, bez wyjątków.
 
-**Tekst - dozwolony z AI, pod warunkiem deklaracji.** Wolno napisać tekst we współpracy z AI, w tym poprosić o wersję na zakończenie rozmowy i następnie ją przepisać. Zgłaszający opisuje w kilku zdaniach, jak tekst powstał. Świadomie **nie pytamy o proporcje ani o procent własnego wkładu**, bo takiej wielkości nikt nie potrafi podać zgodnie z prawdą; pytamy o drogę powstania. Uzasadnienie merytoryczne: główny konkurs Nagrody przyznaje nagrodę człowiekowi za rozmowę z AI, oceniając jego pytania i osąd, a nie odpowiedzi narzędzia. Zakaz posiłkowania się AI przy tekście piosenki byłby wobec tej tezy niespójny. Przy melodii jest inaczej, ponieważ to melodia jest ocenianym wytworem.
+**Tekst - dozwolony z AI, pod warunkiem deklaracji.** Wolno napisać tekst we współpracy z AI, w tym poprosić o wersję na zakończenie rozmowy i następnie ją przepisać. Zgłaszający opisuje w kilku zdaniach, jak tekst powstał. Świadomie **nie pytamy o proporcje ani o procent własnego wkładu**, bo takiej wielkości nikt nie potrafi podać zgodnie z prawdą; pytamy o drogę powstania. Uzasadnienie merytoryczne: główny plebiscyt Nagrody przyznaje nagrodę człowiekowi za rozmowę z AI, oceniając jego pytania i osąd, a nie odpowiedzi narzędzia. Zakaz posiłkowania się AI przy tekście piosenki byłby wobec tej tezy niespójny. Przy melodii jest inaczej, ponieważ to melodia jest ocenianym wytworem.
 
 **Produkcja i obróbka dźwięku** pozostają dozwolone bez zmian (korekta wysokości, usuwanie szumu, separacja śladów, mastering) i podlegają zadeklarowaniu przy zgłoszeniu.
 
-Weryfikacja opiera się na oświadczeniu zgłaszającego oraz na możliwości przedstawienia materiałów roboczych przez finalistów, nie na rozpoznaniu narzędzia przez jury podczas odsłuchu; przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w konkursie.
+Weryfikacja opiera się na oświadczeniu zgłaszającego oraz na możliwości przedstawienia materiałów roboczych przez finalistów, nie na rozpoznaniu narzędzia przez jury podczas odsłuchu; przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w plebiscycie.
 
 *Wersja z 23.10.2026 brzmiała „tekst, kompozycja i wokal mają być dziełem człowieka" obok „utwór wygenerowany w całości nie bierze udziału" - te dwa zdania przeczyły sobie, bo drugie dopuszczało wygenerowany refren. Wersja z 24.10.2026 rano usuwała tę sprzeczność zakazem obejmującym wszystkie cztery elementy i obowiązywała kilka godzin.*
 
@@ -119,7 +119,7 @@ Mechanizm głosowania: **numer telefonu i kod z SMS, jeden głos na numer**, tak
 
 ## 8. Wiek uczestników plebiscytu
 
-Regulamin Nagrody wymaga ukończenia 18 lat. Przy konkursie piosenki zgłoszenia niepełnoletnich są pewne i trzeba to rozstrzygnąć **przed ogłoszeniem**, nie po.
+Regulamin Nagrody wymaga ukończenia 18 lat. Przy plebiscycie na piosenkę zgłoszenia niepełnoletnich są pewne i trzeba to rozstrzygnąć **przed ogłoszeniem**, nie po.
 
 - Czy utrzymujemy granicę 18 lat, czy dopuszczamy niepełnoletnich za zgodą opiekuna.
 - Jeżeli dopuszczamy: skutki dla udzielenia licencji przez osobę niepełnoletnią, dla wypłaty nagrody pieniężnej, dla udziału w nagraniu studyjnym i dla występu na gali.
@@ -142,11 +142,11 @@ Decyzja z 24.10.2026: **zespoły i duety są dopuszczone.** „Własne" znaczy, 
 
 ## 10. Hymn „Zapytaj inaczej"
 
-Utwór powstaje do istniejącego tekstu i jest nagrywany przez jurorów, poza konkursem, wraz z teledyskiem. Termin nagrania i premiery zależy od zabezpieczenia środków i od skompletowania jury; otwarcie naboru nie jest od niego uzależnione.
+Utwór powstaje do istniejącego tekstu i jest nagrywany przez jurorów, poza plebiscytem, wraz z teledyskiem. Termin nagrania i premiery zależy od zabezpieczenia środków i od skompletowania jury; otwarcie naboru nie jest od niego uzależnione.
 
 - Umowy z wykonawcami: zakres przeniesienia praw albo licencji, prawa do nagrania i do teledysku.
 - Prawa do tekstu i ich relacja do praw kompozytora muzyki powstającej do tego tekstu. **Istotne:** tekst „Zapytaj inaczej" powstał z rozmowy z AI zakończonej prośbą o wersję tekstu, a następnie z redakcyjnych decyzji organizatora (zmiana wersu refrenu, odrzucenie wariantu zwrotki pierwszej, wybór tego, co zostaje). Pytanie o ochronę prawnoautorską takiego tekstu jest wspólne z sekcją 5 i rozstrzyga, co organizator może przenieść na wykonawców i na wydawnictwo oraz czy osoba trzecia może ten tekst wykorzystać bez zgody.
-- Czy jurorzy wykonujący hymn mogą jednocześnie oceniać zgłoszenia - naszym zdaniem tak, skoro hymn jest poza konkursem, ale warto to potwierdzić.
+- Czy jurorzy wykonujący hymn mogą jednocześnie oceniać zgłoszenia - naszym zdaniem tak, skoro hymn jest poza plebiscytem, ale warto to potwierdzić.
 - **Rozdzielenie nagrania od wykonania na gali (wariant rozważany, 27.10.2026).** Nagranie powstawałoby u zaproszonych wykonawców, a na gali ten sam utwór wykonywałby na żywo skład jury; obsada nie jest ustalona. Pytania: jakiego zakresu licencji od kompozytorów wymaga publiczne wykonanie utworu przez inne osoby, czy potrzebna jest odrębna zgoda na wykonanie przy rejestracji wideo i bezpłatnym udostępnieniu zapisu, oraz jak rozliczyć to wobec organizacji zbiorowego zarządzania, jeżeli kompozytorzy są jej członkami.
 - Jurorzy, którzy **nie biorą udziału w nagraniu** (autor tekstu, producent): czy regulamin powinien to w ogóle regulować, czy wystarczy, że hymn nagrywają ci, którzy wykonują.
 - Rozważany jest **szerszy skład wykonawczy** hymnu, obejmujący kilkunastu wykonawców spoza jury. Jakie to rodzi obowiązki umowne i czy artyści z kontraktami wyłącznymi wymagają zgody swoich wytwórni na udział w takim nagraniu. *Kierunek, nie plan - patrz [plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia).*
@@ -156,14 +156,14 @@ Utwór powstaje do istniejącego tekstu i jest nagrywany przez jurorów, poza ko
 - Zryczałtowany podatek 10% od nagród, organizator jako płatnik (art. 30 ust. 1 pkt 2 PIT) - potwierdzenie i obowiązki sprawozdawcze.
 - Czy podatek obciąża nagrodę, czy jest doliczany ponad nią. **Ta sama decyzja dotyczy puli nagrody głównej i powinna być podjęta raz, dla obu.**
 - **Świadczenie rzeczowe o niemałej wartości:** profesjonalne nagranie studyjne, finansowane przez organizatora dla każdego z dziesięciu finalistów. Czy stanowi przychód finalisty, jak je wycenić i kto odprowadza podatek. Dotyczy to całej dziesiątki, nie tylko laureatów nagród pieniężnych, więc może objąć osoby, które nie dostają od nas ani złotówki w gotówce - i wtedy pytanie, z czego potrącić podatek.
-- Czy wartość takiego świadczenia różni się podatkowo w zależności od tego, czy nagranie jest „nagrodą", czy „elementem realizacji konkursu" - i czy da się to drugie obronić.
+- Czy wartość takiego świadczenia różni się podatkowo w zależności od tego, czy nagranie jest „nagrodą", czy „elementem realizacji plebiscytu" - i czy da się to drugie obronić.
 
 ## 12. Płyta wydawana przez partnera
 
 Przyjęty kierunek po zmianie z 24.10.2026: **nagrania dziesięciu finalistów finansuje organizator**, a wkładem wydawnictwa-partnera jest **wydanie i dystrybucja** płyty, nie sfinansowanie sesji studyjnych.
 
 - Jakie zgody zgłaszających są do tego potrzebne i czy można je zebrać już na etapie zgłoszenia, czy dopiero po werdykcie.
-- Jak skonstruować zgodę, żeby nie wyglądała na przeniesienie praw na rzecz organizatora przy okazji udziału w konkursie - zgłaszający ma zachować wszystko.
+- Jak skonstruować zgodę, żeby nie wyglądała na przeniesienie praw na rzecz organizatora przy okazji udziału w plebiscycie - zgłaszający ma zachować wszystko.
 - Zakres umowy z wydawnictwem i czy organizator może być jej stroną, skoro nie jest właścicielem praw do utworów, ale jest finansującym nagrania.
 - Czy organizator, finansując nagrania, nabywa prawa producenta fonogramu, i jak je przekazać wydawnictwu albo autorom, żeby nie powstał stan, w którym organizator jest właścicielem fonogramów cudzych utworów.
 - **Przyjęty kierunek: prawa do nagrań przechodzą na autorów jako część nagrody.** Jak to skonstruować - przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje, i czy da się to zapisać już w regulaminie, tak aby nie wymagało odrębnej umowy z każdym z dziesięciu finalistów. Czy takie przysporzenie jest przy tym kolejnym świadczeniem podlegającym opodatkowaniu po stronie finalisty, obok samego nagrania.

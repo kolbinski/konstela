@@ -20,7 +20,7 @@ Ministerstwo Kultury i Dziedzictwa Narodowego zapoznało się z przedstawioną k
 
 Ministerstwo stwierdza, że tematyka przedsięwzięcia wpisuje się w obszar upowszechniania kultury i czytelnictwa oraz dokumentowania dorobku polskojęzycznego. Powstający zbiór ma być zapisem tego, jak użytkownicy języka polskiego posługują się nowym narzędziem w okresie jego wchodzenia do powszechnego użytku, i jako taki może stanowić materiał źródłowy dla przyszłych badań nad językiem, kulturą i techniką. Ministerstwo odnotowuje również, że antologia i Archiwum mają być udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu.
 
-Niniejsze stanowisko odnosi się wyłącznie do zgodności tematyki przedsięwzięcia z obszarem działania Ministerstwa. Nie zawiera oceny jakości konkursu, jego regulaminu ani przyjętych kryteriów oceny, nie stanowi rekomendacji organizatora i nie jest zapewnieniem, że przedsięwzięcie zostanie zrealizowane.
+Niniejsze stanowisko odnosi się wyłącznie do zgodności tematyki przedsięwzięcia z obszarem działania Ministerstwa. Nie zawiera oceny jakości plebiscytu, jego regulaminu ani przyjętych kryteriów oceny, nie stanowi rekomendacji organizatora i nie jest zapewnieniem, że przedsięwzięcie zostanie zrealizowane.
 
 Niniejsze pismo nie stanowi przyznania patronatu honorowego, zobowiązania finansowego ani zobowiązania do podjęcia innych działań po stronie Ministerstwa. Nie przesądza ono w szczególności o sposobie rozpoznania ewentualnego wniosku o dofinansowanie złożonego w ramach Programów Ministra ani wniosku o patronat honorowy; każdy taki wniosek zostanie oceniony na zasadach ogólnych, określonych w regulaminie właściwego programu lub w trybie patronatowym.
 

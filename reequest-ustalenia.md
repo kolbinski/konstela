@@ -12,19 +12,19 @@ Konstela nie jest nagrodą za rozmowy z komputerem. Jest o **życiu z AI - o wsp
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt - konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. To samo robi dobra rozmowa: pojedyncze fakty ma każdy, wartość powstaje z połączeń.
 
-**Z ramy współistnienia wynika hierarchia dwóch konkursów:** plebiscyt na piosenkę nie jest akcją towarzyszącą ani oprawą artystyczną gali, tylko **drugim konkursem o tej samej randze**. Konkurs, w którym AI nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu. Rynek muzyczny jest przy tym zmieniany przez narzędzia generatywne szybciej i boleśniej niż sposób, w jaki ludzie zadają pytania.
+**Z ramy współistnienia wynika hierarchia dwóch plebiscytów:** plebiscyt na piosenkę nie jest akcją towarzyszącą ani oprawą artystyczną gali, tylko **drugim plebiscytem o tej samej randze**. Plebiscyt, w którym AI nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu. Rynek muzyczny jest przy tym zmieniany przez narzędzia generatywne szybciej i boleśniej niż sposób, w jaki ludzie zadają pytania.
 
 **Dla warsztatów:** słowa „akcja towarzysząca", „dodatek", „część artystyczna" wypadają z języka projektu.
 
-## 2. Dwa konkursy
+## 2. Dwa plebiscyty
 
 **Nagroda Konstela.** Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył ze sztuczną inteligencją. Ocenia najpierw kilkunastoosobowa akademia czytająca, potem kilkuosobowe jury, według **jawnej karty oceny** opublikowanej przed naborem: cztery kryteria o równej wadze, w tym wyłapywanie zmyśleń oraz to, co człowiek z rozmowy wyniósł. Nagradzany jest człowiek, nie program. Udział bezpłatny, jedno zgłoszenie na osobę potwierdzane kodem SMS.
 
-**Plebiscyt na piosenkę.** Otwarty konkurs na własny utwór o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie; zespoły i duety dopuszczone, ze wskazaniem reprezentanta składu. Adresat: wykonawcy półprofesjonalni. **Zgłasza się czytelne demo**, nie gotowy singiel, żeby koszt studia nie decydował o tym, kto weźmie udział; zgłoszeniem jest link do YouTube. Jedno zgłoszenie na osobę.
+**Plebiscyt na piosenkę.** Otwarty plebiscyt na własny utwór o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie; zespoły i duety dopuszczone, ze wskazaniem reprezentanta składu. Adresat: wykonawcy półprofesjonalni. **Zgłasza się czytelne demo**, nie gotowy singiel, żeby koszt studia nie decydował o tym, kto weźmie udział; zgłoszeniem jest link do YouTube. Jedno zgłoszenie na osobę.
 
 Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od początku**: ujęcie tematu 25, tekst 30, muzyka 25, wykonanie 20 punktów, z wyraźnym zastrzeżeniem, że nie oceniamy jakości produkcji, zasięgów ani wcześniejszego dorobku.
 
-**Reguła wobec AI (brzmienie z 24.10.2026, godz. 18).** Melodia, harmonia i wokal muszą być własne - nie wolno zgłosić melodii przejętej z wygenerowanego nagrania, wolno natomiast szukać w generatorze klimatu i pomysłów przed napisaniem własnej. Tekst wolno napisać z AI, z opisem przy zgłoszeniu, jak powstał; o proporcje nie pytamy. Narzędzia na etapie produkcji i obróbki wolno stosować z deklaracją. **To jest treść komunikacyjna, nie tylko zapis regulaminowy:** konkurs nie żąda abstynencji od AI, tylko jawności co do tego, gdzie jej użyto - i hymn Nagrody deklaruje to samo co zgłaszający. Hasłem, które z tego wynika, warto zająć się na warsztatach.
+**Reguła wobec AI (brzmienie z 24.10.2026, godz. 18).** Melodia, harmonia i wokal muszą być własne - nie wolno zgłosić melodii przejętej z wygenerowanego nagrania, wolno natomiast szukać w generatorze klimatu i pomysłów przed napisaniem własnej. Tekst wolno napisać z AI, z opisem przy zgłoszeniu, jak powstał; o proporcje nie pytamy. Narzędzia na etapie produkcji i obróbki wolno stosować z deklaracją. **To jest treść komunikacyjna, nie tylko zapis regulaminowy:** plebiscyt nie żąda abstynencji od AI, tylko jawności co do tego, gdzie jej użyto - i hymn Nagrody deklaruje to samo co zgłaszający. Hasłem, które z tego wynika, warto zająć się na warsztatach.
 
 ## 3. Co z tego powstaje
 
@@ -87,7 +87,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 | Budżet | Przedmiot | Kwota netto |
 |---|---|---:|
-| [Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) | Nagroda i gala: pula nagród, honoraria jury, gala, promocja naboru, prowadzenie konkursu | **ok. 561,7 tys. zł** |
+| [Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) | Nagroda i gala: pula nagród, honoraria jury, gala, promocja naboru, prowadzenie plebiscytu | **ok. 561,7 tys. zł** |
 | [Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) | Antologia i Archiwum: redakcja, korekta, skład, druk, utrzymanie Archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 277,6 tys. zł** |
 | [Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 261,7 tys. zł** |
 | [akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) | Pierwsza runda oceny: honoraria czytelników, vouchery rosnące z liczbą ocenionych rozmów, kalibracja | **ok. 49,3 tys. zł** |
@@ -118,7 +118,7 @@ Razem ok. 1 150,2 tys. zł netto przy 937 godzinach pracy organizatora. **Honora
 
 **Deklaracja sposobu powstania tekstu - w formularzu plebiscytu (dodane 24.10.2026).** Po rozdzieleniu zasady wobec AI każde zgłoszenie opisuje, jak powstał tekst, również wtedy, gdy powstał w całości samodzielnie. Pole jest **obowiązkowe, swobodne i krótkie** - kilka zdań, nie formularz wyboru - bo pytamy o drogę, a nie o proporcje. Trzy rzeczy do rozstrzygnięcia przy projektowaniu: czy treść deklaracji jest **publiczna** razem ze zgłoszeniem, czy widzi ją wyłącznie organizator; czy trafia do jury przed oceną, po ocenie, czy wcale; oraz co widzi zgłaszający w podpowiedzi przy tym polu, żeby nie czytał go jako pytania podchwytliwego. Osobne, krótsze pole zostaje przy deklaracji narzędzi użytych na etapie produkcji dźwięku, bo to inne pytanie.
 
-**Lista powiadomień.** Dobrowolny zapis, **osobny od zgłoszenia**, z odrębną zgodą i odrębnym polem. Treścią mailingu są handbook i nowe odcinki podcastu, nie przypomnienia o konkursie - ludzie zapisują się po materiał, a przy okazji wiedzą, że nabór trwa.
+**Lista powiadomień.** Dobrowolny zapis, **osobny od zgłoszenia**, z odrębną zgodą i odrębnym polem. Treścią mailingu są handbook i nowe odcinki podcastu, nie przypomnienia o plebiscycie - ludzie zapisują się po materiał, a przy okazji wiedzą, że nabór trwa.
 
 **Komunikat o odrzuceniu.** Na żądanie, po gali, uczestnik może zapytać o powód niezakwalifikowania i otrzymuje własne oceny, bez wskazania oceniających. **Nierozwiązana kolizja:** polityka prywatności każe usuwać dane nienagrodzonych w ciągu 60 dni od ogłoszenia wyników, więc pytanie zadane w 70. dniu trafia w próżnię.
 
@@ -152,6 +152,6 @@ Piotr zasygnalizował, że jeśli to wypali, będą wkładem w rozpromowanie.
 
 ## 14. Ustalone i otwarte
 
-**Ustalone:** rama współistnienia; plebiscyt jako drugi równorzędny konkurs; jawne karty oceny obu konkursów; czytelnia jako warunek udziału; półka wyłącznie lokalna; głosowanie publiczności dopiero w 2028 z ukrytymi licznikami; demo na wejściu do plebiscytu; jedno zgłoszenie na osobę w obu konkursach; hymn jako materiał otwierający nabór; prawa zostają przy autorach; branding przed stroną.
+**Ustalone:** rama współistnienia; plebiscyt jako drugi równorzędny plebiscyt; jawne karty oceny obu plebiscytów; czytelnia jako warunek udziału; półka wyłącznie lokalna; głosowanie publiczności dopiero w 2028 z ukrytymi licznikami; demo na wejściu do plebiscytu; jedno zgłoszenie na osobę w obu plebiscytach; hymn jako materiał otwierający nabór; prawa zostają przy autorach; branding przed stroną.
 
 **Otwarte:** termin otwarcia naboru; YouTube jako okładki czy odtwarzacze; analityka; nazwa i gratyfikacja Nagrody Publiczności; kolizja terminu 60 dni z pytaniami o oceny po gali; kto wykonuje kontrolę formalną zgłoszeń plebiscytu przy dużych liczbach; skład jury plebiscytu poza przewodniczącym; honoraria jury plebiscytu i realizacja części artystycznej gali.

@@ -48,9 +48,9 @@
 **§ 10.** Fundacja nie działa w celu osiągnięcia zysku. Cały dochód Fundacji przeznaczany jest na realizację celów statutowych.
 
 **§ 11.**
-1. **Członkowie organów Fundacji nie mogą brać udziału w konkursach organizowanych przez Fundację ani otrzymywać w nich nagród.** Dotyczy to również Fundatora.
-2. Wyłączenie, o którym mowa w ust. 1, stanowi minimum; regulamin konkursu może określić szerszy krąg osób wyłączonych, w szczególności obejmujący osoby oceniające, współpracowników Fundacji, organy i pracowników fundatorów nagród, mecenasów i partnerów komercyjnych oraz osoby im najbliższe.
-3. Objęcie konkursu patronatem honorowym przez organ władzy publicznej, uczelnię albo inną instytucję nie czyni jej partnerem w rozumieniu ust. 2 i nie wyłącza z udziału jej pracowników, studentów ani doktorantów.
+1. **Członkowie organów Fundacji nie mogą brać udziału w plebiscytach organizowanych przez Fundację ani otrzymywać w nich nagród.** Dotyczy to również Fundatora.
+2. Wyłączenie, o którym mowa w ust. 1, stanowi minimum; regulamin plebiscytu może określić szerszy krąg osób wyłączonych, w szczególności obejmujący osoby oceniające, współpracowników Fundacji, organy i pracowników fundatorów nagród, mecenasów i partnerów komercyjnych oraz osoby im najbliższe.
+3. Objęcie plebiscytu patronatem honorowym przez organ władzy publicznej, uczelnię albo inną instytucję nie czyni jej partnerem w rozumieniu ust. 2 i nie wyłącza z udziału jej pracowników, studentów ani doktorantów.
 
 ## Rozdział III. Majątek i dochody
 
@@ -90,7 +90,7 @@
 3. zatrudnia pracowników i zawiera umowy;
 4. przyjmuje darowizny, spadki, zapisy, dotacje i środki od fundatorów nagród;
 5. sporządza sprawozdania z działalności Fundacji;
-6. ustala regulaminy konkursów prowadzonych przez Fundację, w tym regulamin Nagrody Konstela.
+6. ustala regulaminy plebiscytów prowadzonych przez Fundację, w tym regulamin Nagrody Konstela.
 
 **§ 19.** Do składania oświadczeń woli w imieniu Fundacji uprawniony jest **każdy członek Zarządu samodzielnie**. `[DO SPRAWDZENIA: przy zarządzie jednoosobowym bez znaczenia; przy wieloosobowym rozważyć reprezentację łączną dla czynności powyżej określonej wartości]`
 
@@ -170,4 +170,4 @@ To nie są pytania prawne, tylko wybory, które trzeba podjąć przed aktem nota
 6. Kadencja Zarządu - **rozstrzygnięte 22.10.2026: bezterminowa.**
 7. **Wpis do rejestru przedsiębiorców od razu** czy dopiero przy rozpoczęciu działalności gospodarczej - wpływa na opłatę sądową i sprawozdawczość (księgowy).
 8. **Minister nadzoru** - czy cyfryzacji przy tych celach (prawnik, pytanie 37).
-9. Wyłączenie członków organów z udziału w konkursach - **rozstrzygnięte 22.10.2026: wpisane do statutu jako § 11.**
+9. Wyłączenie członków organów z udziału w plebiscytach - **rozstrzygnięte 22.10.2026: wpisane do statutu jako § 11.**

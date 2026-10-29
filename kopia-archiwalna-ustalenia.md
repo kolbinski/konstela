@@ -100,7 +100,7 @@ Wtyczka ma być **projektem otwartym fundacji**, możliwym do rozwijania przez s
 2. **Decyzja o scaleniu zostaje przy fundacji.** Otwarty kod nie oznacza, że każdy może zmienić narzędzie rozstrzygające.
 3. **Minimalne uprawnienia i dyscyplina wydań.** Rozszerzenie z dostępem do stron, na których ludzie rozmawiają z modelami, jest celem dla kogoś, kto chciałby wypuścić zatrutą wersję. Żadnych połączeń sieciowych poza jawnym zgłoszeniem błędu; wydania podpisywane po przeglądzie.
 
-**Czego nie robimy:** nie wykluczamy współtwórców z udziału w konkursie. Progi i karta oceny są jawne, więc wgląd w kod nie daje przewagi, a wykluczenie zniechęciłoby dokładnie tych ludzi, na których nam zależy. Wyłączenie z § 3 ust. 5 dotyczy oceniających i partnerów.
+**Czego nie robimy:** nie wykluczamy współtwórców z udziału w plebiscycie. Progi i karta oceny są jawne, więc wgląd w kod nie daje przewagi, a wykluczenie zniechęciłoby dokładnie tych ludzi, na których nam zależy. Wyłączenie z § 3 ust. 5 dotyczy oceniających i partnerów.
 
 ### 5c. Testy i wykrywanie awarii (ustalenia z 22.10.2026)
 
@@ -138,7 +138,7 @@ Trzej dostawcy to trzy różne sposoby dobierania się do treści, a każdy z ni
 
 U Claude link udostępniania powstaje domyślnie z ustawieniem **„Who has access: Only people invited"**. Osoba otwierająca taki link trafia na ekran logowania i rozmowy nie widzi. Dopiero przełączenie na **„Anyone with the link"** daje link publiczny, otwierany bez logowania. Wykryte przypadkiem podczas rozmowy z agencją 23.10.2026, gdy Piotr Byliński próbował otworzyć własny link.
 
-**Dlaczego to jest ważne dla naboru.** Uczestnik, który nie przestawi tego ustawienia, zgłosi link, którego Organizator nie otworzy. Zgłoszenie odpadnie na weryfikacji formalnej, a uczestnik nie będzie wiedział dlaczego - z jego perspektywy link działa, bo sam jest zalogowany. To jest dokładnie ten rodzaj cichej porażki, który psuje zaufanie do konkursu.
+**Dlaczego to jest ważne dla naboru.** Uczestnik, który nie przestawi tego ustawienia, zgłosi link, którego Organizator nie otworzy. Zgłoszenie odpadnie na weryfikacji formalnej, a uczestnik nie będzie wiedział dlaczego - z jego perspektywy link działa, bo sam jest zalogowany. To jest dokładnie ten rodzaj cichej porażki, który psuje zaufanie do plebiscytu.
 
 **Co z tym robimy:**
 

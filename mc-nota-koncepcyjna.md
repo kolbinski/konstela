@@ -2,13 +2,13 @@
 
 **W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
 
-**Proszę o list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłej decyzji w sprawie patronatu; odnosi się wyłącznie do zgodności tematyki z obszarem kompetencji resortu, bez oceny samego konkursu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. O patronat honorowy nad pierwszą edycją wystąpię odrębnym wnioskiem, po zabezpieczeniu finansowania. **Nie proszę o środki finansowe Ministerstwa.** Rozwinięcie w rozdziale 12.
+**Proszę o list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłej decyzji w sprawie patronatu; odnosi się wyłącznie do zgodności tematyki z obszarem kompetencji resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. O patronat honorowy nad pierwszą edycją wystąpię odrębnym wnioskiem, po zabezpieczeniu finansowania. **Nie proszę o środki finansowe Ministerstwa.** Rozwinięcie w rozdziale 12.
 
 ---
 
 ## 1. Czym jest Nagroda Konstela
 
-Konkursem, w którym nagradzamy **nie sztuczną inteligencję, lecz człowieka, który z nią rozmawia**.
+Plebiscytem, w którym nagradzamy **nie sztuczną inteligencję, lecz człowieka, który z nią rozmawia**.
 
 Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy LLM. Nie przyjmujemy transkryptów w plikach, ponieważ tekst w pliku można dowolnie zredagować. Link jest zabezpieczeniem mocniejszym, choć nie rozstrzygającym: pokazuje zapis po stronie dostawcy, razem z pytaniami nieudanymi, ale sam w sobie nie dowodzi, w jakich okolicznościach rozmowa powstała - temu służą dalsze zabezpieczenia opisane w rozdziale 5.
 
@@ -20,13 +20,13 @@ Rozmowa z systemem sztucznej inteligencji bywa prowadzona jak zapytanie do wyszu
 
 Zapis rzeczywistej rozmowy może uzupełnić instrukcje i poradniki, pokazując cały przebieg dochodzenia do wyniku. Rada "zadawaj lepsze pytania" nabiera treści dopiero wtedy, gdy obok niej stoi zapis rozmowy, w której człowiek przyłapuje program na zmyśleniu, wraca do porzuconego wątku i dochodzi do wniosku, którego nie miał na wejściu.
 
-Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny konkursu, a nie jako zamówiony podręcznik.
+Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny plebiscytu, a nie jako zamówiony podręcznik.
 
 ## 3. Co powstaje
 
 **Antologia.** Dziesięć najwyżej ocenionych rozmów każdej edycji, publikowanych bezpłatnie jako e-book, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Planowane jest również wydanie książkowe, płatne i zależne od pozyskania partnera wydawniczego; przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
-**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; Archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do konkursu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
+**Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; Archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do plebiscytu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
 Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
 
@@ -36,7 +36,7 @@ Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
 | Dokument epoki - zapis tego, jak ludzie uczyli się nowego narzędzia | Badacze, historia techniki                                    |
 | Wzorzec postawy - weryfikowanie zamiast przyjmowania na wiarę       | Odbiorca masowy                                               |
 
-Trzecia funkcja jest najistotniejsza z perspektywy publicznej. Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach modelu**. Konkurs nagradza więc nieufność wobec AI, a nie zachwyt nad nią.
+Trzecia funkcja jest najistotniejsza z perspektywy publicznej. Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach modelu**. Plebiscyt nagradza więc nieufność wobec AI, a nie zachwyt nad nią.
 
 Czujność jest jednak tylko połową tego, co premiujemy. Czwarte kryterium - **Plon** - nagradza rozmowy, z których człowiek coś wyniósł: nazwaną ideę, rozwiązany problem, odnalezione źródło, zmienioną decyzję. Nie chodzi więc o samo kwestionowanie, lecz o dociekanie, które do czegoś prowadzi. Wzorzec, który antologia pokazuje, to postawa człowieka, który sprawdza odpowiedzi i jednocześnie dochodzi dzięki nim do czegoś, czego nie wiedział na wejściu.
 
@@ -69,7 +69,7 @@ Cztery, o równej wadze:
 
 Rozmowy zawierające pytania nieudane i wątki porzucone **nie są z tego powodu oceniane niżej**. Zapisano to wprost w regulaminie, ponieważ oceniający odruchowo karze bałagan, a to właśnie bałagan jest świadectwem rzeczywistej pracy.
 
-## 5. Uczciwość konkursu
+## 5. Uczciwość plebiscytu
 
 Cztery mechanizmy, wszystkie zapisane w regulaminie:
 
@@ -114,19 +114,19 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Pieniężne:** wysokość nagród zostanie ogłoszona w dniu otwarcia zgłoszeń, wraz z listą partnerów edycji, i od tej chwili będzie wiążąca; po ogłoszeniu pula może już wyłącznie rosnąć. Poziom docelowy: **nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł oraz siedem wyróżnień po 10 tys. zł**, czyli pula 395 tys. zł. Uzasadnienie kwoty w punkcie 9.
 
-**Fizyczne:** medal z pieczęcią konkursu, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów.
+**Fizyczne:** medal z pieczęcią plebiscytu, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów.
 
-**Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego konkurs w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum. Uczestnik może wycofać swoje zgłoszenie z konkursu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść antologii jest już zamknięta, wycofanie nie jest możliwe.
+**Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum. Uczestnik może wycofać swoje zgłoszenie z plebiscytu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść antologii jest już zamknięta, wycofanie nie jest możliwe.
 
 ## 9. Finansowanie
 
-Konkurs jest bezpłatny dla uczestników, a prowadzi go **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych. Konsultacja prawna całości dokumentacji jest zlecona kancelarii. Nie będzie wpisowego uczestników konkursu.
+Plebiscyt jest bezpłatny dla uczestników, a prowadzi go **Fundacja Konstela** z siedzibą w Sieradzu, powoływana wyłącznie w tym celu i wpisywana do rejestru przed otwarciem zgłoszeń. Projekt statutu jest gotowy; przewiduje on, obok działalności statutowej, działalność gospodarczą w zakresie wydawniczym i edukacyjnym, służącą wyłącznie finansowaniu celów statutowych. Konsultacja prawna całości dokumentacji jest zlecona kancelarii. Nie będzie wpisowego uczestników plebiscytu.
 
 Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: dwie mniejsze decyzje są łatwiejsze do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
-| Fundator nagrody i gali | ok. 571 tys. zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), honoraria jury i akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie konkursu |
+| Fundator nagrody i gali | ok. 571 tys. zł | pula nagród 395 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł i siedem wyróżnień po 10 tys. zł), honoraria jury i akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie plebiscytu |
 | Partner wydawniczy | ok. 233 tys. zł **[do sprawdzenia: arkusz daje 271,7 tys. zł]** | produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie Archiwum i kopii rozmów, powołanie fundacji |
 | **Razem** | **ok. 837 tys. zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
@@ -157,7 +157,7 @@ Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat o
 
 ## 12. O co proszę Ministerstwo
 
-1.  **List intencyjny** - stwierdzający, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujący ścieżkę ubiegania się o patronat. Dokument taki nie stanowi patronatu ani zobowiązania finansowego, nie przesądza przyszłej decyzji i nie zawiera oceny konkursu ani rekomendacji organizatora. To jest prośba zasadnicza. Zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować jego treść na stronie Nagrody - mówię o tym wprost, żeby cel prośby był jasny. Bez takiego dokumentu rozmowa z partnerem zaczyna się od budowania wiarygodności, z nim od meritum.
+1.  **List intencyjny** - stwierdzający, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujący ścieżkę ubiegania się o patronat. Dokument taki nie stanowi patronatu ani zobowiązania finansowego, nie przesądza przyszłej decyzji i nie zawiera oceny plebiscytu ani rekomendacji organizatora. To jest prośba zasadnicza. Zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować jego treść na stronie Nagrody - mówię o tym wprost, żeby cel prośby był jasny. Bez takiego dokumentu rozmowa z partnerem zaczyna się od budowania wiarygodności, z nim od meritum.
 2.  **Rozmowę** o tym, czy inicjatywa mieści się w obszarze obejmowanym patronatem, i wskazanie właściwej drogi formalnej.
 3.  **Patronat honorowy** nad pierwszą edycją, obejmującą nabór w 2027 roku i rozstrzygnięcie w marcu 2028 - na podstawie odrębnego wniosku, który złożę po zabezpieczeniu finansowania przedsięwzięcia.
 4.  **Wskazanie kontaktu** do potencjalnych partnerów finansujących, jeśli Ministerstwo uzna inicjatywę za wartą wsparcia.
