@@ -15,13 +15,6 @@ Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i public
 
 Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w [rozdziale 2](#2-problem-ktory-adresujemy), a ich konstrukcja i kosztorysy w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film).
 
-**Proszę o dwie rzeczy, niezależne od siebie:**
-
-1.  **List intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami.
-2.  **Wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.**
-
-Obie prośby wraz z pytaniami formalnymi są postawione w piśmie przewodnim, do którego ta nota jest załącznikiem.
-
 ---
 
 ## 1. Czym jest Nagroda Konstela
