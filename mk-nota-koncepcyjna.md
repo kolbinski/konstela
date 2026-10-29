@@ -94,11 +94,9 @@ Zastrzeżenie, które z tego wynika i które przyjmuję: trwale widoczna niska o
 
 Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
 
-| Funkcja                                                             | Dla kogo                                                      |
-|---------------------------------------------------------------------|---------------------------------------------------------------|
-| Materiał dydaktyczny - realne przykłady krytycznej pracy z AI       | Szkoły, uczelnie, biblioteki, szkolenia kompetencji cyfrowych |
-| Dokument epoki - zapis tego, jak ludzie uczyli się nowego narzędzia | Badacze, historia techniki                                    |
-| Wzorzec postawy - weryfikowanie zamiast przyjmowania na wiarę       | Odbiorca masowy                                               |
+- **Materiał dydaktyczny** - realne przykłady krytycznej pracy z AI<small>Dla kogo: szkoły, uczelnie, biblioteki, szkolenia kompetencji cyfrowych.</small>
+- **Dokument epoki** - zapis tego, jak ludzie uczyli się nowego narzędzia<small>Dla kogo: badacze, historia techniki.</small>
+- **Wzorzec postawy** - weryfikowanie zamiast przyjmowania na wiarę<small>Dla kogo: odbiorca masowy.</small>
 
 Trzecia funkcja jest najistotniejsza z perspektywy publicznej. Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach modelu**. Plebiscyt nagradza więc nieufność wobec AI, a nie zachwyt nad nią.
 
@@ -193,14 +191,12 @@ Dokumentacja została przygotowana do konsultacji prawnej; zlecenie zostanie zł
 
 Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: kilka mniejszych decyzji jest łatwiejszych do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
-| Rola | Kwota netto | Co finansuje |
-|---|---:|---|
-| Fundator puli nagród | 511 996,80 zł | pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu |
-| Sponsor gali | 35 168,00 zł | gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru |
-| Partner wydawniczy lub sponsor organizacyjny | 292 422,00 zł | produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie Archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu |
-| Sponsor akademii | 160 160,00 zł | pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń |
-| **Razem, pozycje obecnie wycenione** | **999 746,80 zł** | |
-| Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
+- **Fundator puli nagród** - 511 996,80 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), nagroda publiczności 3 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
+- **Sponsor gali** - 35 168,00 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
+- **Partner wydawniczy lub sponsor organizacyjny** - 292 422,00 zł<small>produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie Archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu</small>
+- **Sponsor akademii** - 160 160,00 zł<small>pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń</small>
+- **Razem, pozycje obecnie wycenione - 999 746,80 zł**
+- **Wariant wieloletni** - ok. 4 mln zł (1 mln USD)<small>zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody</small>
 
 Kwoty pochodzą z arkusza budżetowego pierwszej edycji i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą. Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli.
 
