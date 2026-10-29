@@ -479,7 +479,9 @@ Po gali autor dysponuje filmem bez ograniczeń, a licencja jest niewyłączna. F
 
 **Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** Nagrody pieniężne otrzymuje czołowa trójka; pozostałych siedmiu finalistów otrzymuje wyróżnienia, które obejmują dyplom, bez nagrody pieniężnej. Miejsce w zestawie filmów kierowanym do pokazów kinowych przysługuje wszystkim dziesięciu finalistom, jeżeli organizator pozyska dystrybutora.
 
-Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów - jedna gala nie zmieści dziesięciu prezentacji - a pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna. Pokazy kinowe są celem Organizatora, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania dystrybutora. Umowę z dystrybutorem zawiera uczestnik i jemu przysługują wpływy z biletów; organizator nie nabywa praw dystrybucyjnych i nie uczestniczy w tych wpływach, może natomiast uzgodnić z dystrybutorem pokrycie kosztów przygotowania zestawu.
+Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów - jedna gala nie zmieści dziesięciu prezentacji - a pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna.
+
+Pokazy kinowe są celem Organizatora, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania dystrybutora. Umowę z dystrybutorem zawiera uczestnik i jemu przysługują wpływy z biletów; organizator nie nabywa praw dystrybucyjnych i nie uczestniczy w tych wpływach, może natomiast uzgodnić z dystrybutorem pokrycie kosztów przygotowania zestawu.
 
 Jest to ta sama konstrukcja co przy płycie w plebiscycie na piosenkę. Liczba dziesięciu finalistów jest tu zgodna z pozostałymi plebiscytami, a liczba pięciu emisji wynika z czasu trwania gali.
 
