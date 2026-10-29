@@ -4,7 +4,7 @@
 
 **W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum. Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji, otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie, oraz otwarty plebiscyt na film o sztucznej inteligencji. Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w rozdziale 2, a ich konstrukcja i kosztorysy w rozdziałach 10, 10a i 10c.
 
-**Proszę o dwie rzeczy, niezależne od siebie.** Pierwsza: **list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. Druga: **wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.** Rozwinięcie w rozdziale 13.
+**Proszę o dwie rzeczy, niezależne od siebie.** Pierwsza: **list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. Druga: **wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.** Obie prośby wraz z pytaniami formalnymi są postawione w piśmie przewodnim, do którego ta nota jest załącznikiem.
 
 ---
 
@@ -388,28 +388,14 @@ Organizatorem w sensie prawnym będzie Fundacja Konstela z siedzibą w Sieradzu,
 
 Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat od uczestników.
 
-## 13. O co proszę Ministerstwo
-
-Dwie prośby, niezależne od siebie. Proszę o rozpoznanie każdej odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne.
-
-**Prośba pierwsza, zasadnicza: list intencyjny.** Pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Dokument taki nie stanowi patronatu ani zobowiązania finansowego, nie przesądza przyszłych decyzji i nie zawiera oceny plebiscytu ani rekomendacji organizatora. Zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i wydawnictwami oraz opublikować jego treść na stronie Nagrody - mówię o tym wprost, żeby cel prośby był jasny. Projekt treści dołączam do pisma przewodniego, wyłącznie dla wygody Państwa pracy i jako propozycję do dowolnej zmiany lub odrzucenia.
-
-**Prośba druga: wskazanie drogi finansowania części artystycznej.** Pytania formalne są postawione w piśmie przewodnim i dotyczą: właściwego programu wraz z kwalifikacją produkcji nagrań i hymnu, utrzymania statusu wnioskodawcy będącego osobą fizyczną prowadzącą działalność gospodarczą oraz wymaganego wpisu fundacji do rejestru, realizacji zadania w latach 2027-2028, terminów ponoszenia kosztów kwalifikowalnych i przekazywania środków, a także wymaganego udziału środków pochodzących z innych źródeł i możliwości pokrycia go wkładem sponsorów.
-
-Czego **nie** proszę na tym etapie: dotacji ani patronatu honorowego. O patronat nad pierwszą edycją zamierzam wystąpić odrębnym wnioskiem, w trybie regulaminowym, po zabezpieczeniu finansowania przedsięwzięcia.
-
-Takie stanowisko może ułatwić przedstawienie przedsięwzięcia potencjalnym partnerom i kandydatom do jury. Nie zastępuje ono ani patronatu, ani rekomendacji, a o udziale w jury rozstrzygają wyłącznie zaproszone osoby. Daje natomiast to, czego pojedyncza osoba nie zbuduje sama: wiarygodność wobec uczestników i punkt wyjścia do rozmowy z fundatorem.
-
----
-
-**Kontakt**
+## Kontakt
 
 Krzysztof Olbiński  
 ul. 11 Listopada 12/1, 98-200 Sieradz  
 olbinski@gmail.com  
 +48 503 520 004
 
-**Materiały**
+## Materiały
 
 Strona Nagrody (wersja robocza - finalną wykona agencja kreatywna): https://konstela.org
 
