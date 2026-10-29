@@ -333,9 +333,9 @@ Nagranie studyjne dziesięciu najwyżej ocenionych utworów finansuje organizato
 
 Sesja studyjna jest przy tym **ofertą dla każdego z dziesięciu finalistów, a nie rezultatem bezwarunkowym**: regulamin pozwala finaliście z niej nie skorzystać bez utraty nagrody ani miejsca w dziesiątce, więc liczba powstałych nagrań może być mniejsza.
 
-Relacja między jednym i drugim jest ścisła: strona Nagrody prezentuje zgłoszenia w postaci, w jakiej napłynęły, i odpowiada Archiwum rozmów, a płyta odpowiada antologii, czyli porządnemu wydaniu tego samego materiału. Prawa do utworów i do nagrań pozostają przy ich autorach. **Płyta nie jest wklejana do wydania książkowego antologii**: na tyle okładki znajduje się kod QR prowadzący do nagrań, a płyta jest dystrybuowana cyfrowo i na streamingu.
+Relacja między jednym i drugim jest ścisła: strona Nagrody prezentuje zgłoszenia w postaci, w jakiej napłynęły, i odpowiada Archiwum rozmów, a płyta odpowiada antologii, czyli porządnemu wydaniu tego samego materiału. Prawa do utworów i do nagrań pozostają przy ich autorach.
 
-Rozwiązanie to przyjąłem dlatego, że wklejony krążek wiązałby wydanie książki z umową z wydawnictwem muzycznym, a książka ma być dostępna w księgarniach bezpośrednio po gali. **Zastrzegam przy tym, że takiego partnera jeszcze nie ma** - bez niego powstają nagrania, lecz nie powstaje wydanie płytowe.
+**Zastrzegam przy tym, że partnera płytowego jeszcze nie ma** - bez niego powstają nagrania, lecz nie powstaje wydanie płytowe.
 
 ### Teledysk nie jest ozdobą
 
