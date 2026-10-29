@@ -575,7 +575,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 
 **2027 - rok naboru**
 
-- **okno rozmów, czyli okres, w którym musi zostać przeprowadzona zgłaszana rozmowa: 1 stycznia - 31 grudnia 2027.** Liczy się data rozmowy, a nie data zgłoszenia, i w oknie musi się zmieścić cała rozmowa - pierwsza i ostatnia wypowiedź. Ograniczenie to wynika z tego, że antologia każdej edycji jest zapisem rozmów z jednego roku kalendarzowego
+- **okno rozmów w plebiscycie na rozmowę ze sztuczną inteligencją, czyli okres, w którym musi zostać przeprowadzona zgłaszana rozmowa: 1 stycznia - 31 grudnia 2027.** Liczy się data rozmowy, a nie data zgłoszenia, i w oknie musi się zmieścić cała rozmowa - pierwsza i ostatnia wypowiedź. Ograniczenie to wynika z tego, że antologia każdej edycji jest zapisem rozmów z jednego roku kalendarzowego
 - zgłoszenia rozmów: przyjmowane od dnia otwarcia naboru do 15 stycznia 2028
 - pierwsza runda oceny rozmów: na bieżąco, partiami, przez cały rok naboru
 - premiera hymnu wraz z teledyskiem: 2027, w czasie trwania naboru
