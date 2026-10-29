@@ -77,7 +77,7 @@ Zainteresowanie wydaniem antologii wyraziły dotąd **dwa wydawnictwa**. Rozmowy
 
 #### Archiwum rozmów
 
-Publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną, dostępny bezpłatnie na stałe. Lista zostaje utrwalona po zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie, a nie w dniu zamknięcia naboru - inaczej zgłoszenie z ostatnich dni naboru wypadałoby ze zbioru tylko dlatego, że jego sprawdzenie kończy się kilka dni później. Przez cały czas naboru te same zgłoszenia rosną w **czytelni** - publicznej liście uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności.
+Publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną, dostępny bezpłatnie na stałe. Przez cały czas naboru te same zgłoszenia rosną w **czytelni** - publicznej liście uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności.
 
 Obecność w czytelni jest warunkiem udziału, a nie wyborem uczestnika; uczestnik decyduje wyłącznie o tym, czy podpisuje się nazwiskiem, czy pseudonimem. Archiwum różni się od czytelni dwiema rzeczami. Pierwsza: **prezentuje treść rozmowy**, to jest kopię sporządzoną przez Organizatora przy zgłoszeniu, obok linku do wersji opublikowanej przez uczestnika - kopia jest treścią, link potwierdzeniem, a razem dają zapis, który nie znika, gdy uczestnik usunie udostępnienie albo gdy dostawca zmieni zasady udostępniania rozmów.
 
