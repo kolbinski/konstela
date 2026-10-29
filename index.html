@@ -66,7 +66,7 @@
         "inLanguage": "pl"
       }
     </script>
-    <link rel="stylesheet" href="/assets/czytelnosc.css?v=420b141f40" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=c15bed619e" />
     <link rel="stylesheet" href="/assets/pasek.css?v=e2427fa4a7" />
     <style>
       /* Kroje serwowane z własnej domeny. Zakresy unicode: latin oraz latin-ext (polskie znaki). */
@@ -617,16 +617,21 @@
       .awards {
         margin-top: 1.6rem;
       }
+      /* Kreski między kaflami rysuje obrys każdego kafla, a nie tło siatki
+         prześwitujące przez przerwę. Przy nieparzystej liczbie kafli ostatnie
+         pole zostaje puste, a tło siatki świeciłoby w nim kolorem kreski -
+         puste pole ma wyglądać jak wypełnione. */
       .kafle {
         display: grid;
         gap: 1px;
-        background: var(--rule);
+        background: var(--surface);
         border: 1px solid var(--rule);
         margin-top: 1.6rem;
       }
       .kafle article {
         background: var(--surface);
         padding: 1.5rem 1.4rem;
+        outline: 1px solid var(--rule);
       }
       .kafle h3 {
         font-family: var(--display);
@@ -1222,7 +1227,7 @@
           <article>
             <h3>Plebiscyt na piosenkę o sztucznej inteligencji</h3>
             <p>
-              Otwarty konkurs na piosenkę o sztucznej inteligencji. Melodia,
+              Otwarty plebiscyt na piosenkę o sztucznej inteligencji. Melodia,
               harmonia i wokal muszą pochodzić od człowieka; użycie AI przy
               tekście deklaruje się przy zgłoszeniu. Dziesiątka finalistów
               dostaje sesję studyjną.

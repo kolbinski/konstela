@@ -329,6 +329,7 @@
 }
 :root.czytelnie .kafle article {
   border: 1px solid #000000 !important;
+  outline: 0 !important;
   margin-bottom: 1rem !important;
 }
 
