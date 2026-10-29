@@ -69,7 +69,7 @@ Rozmowy zawierające pytania nieudane i wątki porzucone **nie są z tego powodu
 
 Dziesięć najwyżej ocenionych rozmów każdej edycji, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Antologia ukazuje się w trzech postaciach o różnym stopniu pewności, i mówię to wprost, żeby nie obiecywać jednego, a dowieźć drugiego:
 
-- **Bezpłatny e-book - zobowiązanie organizatora po otwarciu edycji.** Powstaje niezależnie od czyjejkolwiek decyzji, pod warunkiem pozyskania finansowania części wydawniczej.
+- **Bezpłatny e-book - zobowiązanie organizatora po otwarciu edycji.** Po zabezpieczeniu finansowania części wydawniczej i otwarciu edycji organizator zobowiązuje się opublikować bezpłatny e-book, niezależnie od pozyskania partnera wydawniczego.
 - **Krótki nakład na galę - gwarantowany przez Organizatora.** Egzemplarze wręczane laureatom i przekazywane jury oraz mediom. Jest to odrębna pozycja kosztorysu, niezależna od partnera wydawniczego, ponieważ druk cyfrowy niewielkiej liczby egzemplarzy nie wymaga ani wydawcy, ani dystrybucji.
 - **Nakład handlowy, płatny - zależny od partnera wydawniczego.** Celem jest, aby książka była dostępna w księgarniach bezpośrednio po gali, co wymaga nie tylko druku, lecz także wejścia do oferty dystrybutora; dystrybucja jest kompetencją partnera, nie Organizatora. Nakład jest dostarczany do dystrybutora przed galą, natomiast publiczna prezentacja okładki i rozpoczęcie sprzedaży następują w dniu premiery - okładka niesie zwycięski plakat, a regulamin plebiscytu na plakat o sztucznej inteligencji zakazuje jej udostępnienia przed galą. Przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 

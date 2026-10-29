@@ -14,14 +14,13 @@ Zwracam się w kilku sprawach:
 
 - z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej;
 - z pytaniem, który z Programów Ministra jest właściwy dla tego zadania i czy trzy plebiscyty artystyczne wraz z podcastem mieszczą się w jednym programie, czy wymagają podziału na odrębne zadania;
-- z pytaniem o status wnioskodawcy: czy wnioskodawcą może być prowadzona przeze mnie jednoosobowa działalność gospodarcza, czy musi nim być fundacja, oraz czy wynagrodzenie organizatora może stanowić koszt zadania;
+- z pytaniem o warunki ubiegania się o dofinansowanie przez osobę fizyczną prowadzącą działalność gospodarczą albo przez fundację oraz o dopuszczalność wynagrodzenia organizatora jako kosztu zadania;
 - z pytaniem, czy przedstawiony zakres może być zadaniem dwuletnim, realizowanym w latach 2027 i 2028, i na jakich warunkach dotacja jest wtedy przyznawana i rozliczana w każdym z tych lat;
 - z pytaniem, który nabór wniosków wybrać oraz jak traktowane są wydatki poniesione przed zawarciem umowy;
 - z pytaniem o wymagany udział środków z innych źródeł i o to, czy mogą nim być środki sponsorów prywatnych.
 
 Wszystkie sprawy są od siebie niezależne i proszę o rozpoznanie każdej z nich odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne.
 
-Prośby i pytania stawiam po opisie przedsięwzięcia, ponieważ rozstrzygnięcie każdej z nich wymaga znajomości jego konstrukcji.
 
 ## Czego dotyczy pismo
 
