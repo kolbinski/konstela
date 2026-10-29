@@ -119,6 +119,8 @@ Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzą
 
 Uprzejmie proszę o stanowisko w pięciu sprawach formalnych. Pełny obraz przedsięwzięcia wraz z budżetem i harmonogramem zawiera załączona nota koncepcyjna. Jeżeli poszczególne pytania należą do właściwości różnych komórek lub instytucji, proszę o wskazanie właściwych adresatów.
 
+**Każde z pytań proszę rozstrzygnąć niezależnie od pozostałych.** Nie oczekuję jednej, całościowej oceny przedsięwzięcia ani odpowiedzi na wszystkie pytania naraz: odpowiedź choćby na jedno z nich jest dla mnie wartościowa i pozwala prowadzić przygotowania dalej. Jeżeli na część pytań odpowiedź na tym etapie nie jest możliwa, proszę o odpowiedź na pozostałe, bez wstrzymywania całości pisma.
+
 ## Pytanie 1: który Program Ministra jest właściwy dla Nagrody Konstela
 
 Proszę o wskazanie, który z Programów Ministra jest właściwy dla takiego zadania i czy trzy plebiscyty artystyczne mieszczą się w jednym.
