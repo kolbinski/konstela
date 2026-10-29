@@ -130,6 +130,19 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 </div>
 
+### Jury
+
+<div class="kafle jedna-kolumna">
+<article>
+<h3>Jury czterech plebiscytów</h3>
+<p>Kompletujemy składy jury na pierwszą edycję. Szukamy osób, które znają się na rzeczy w swojej dziedzinie i są gotowe ocenić zgłoszenia według jawnej karty oceny. Praca jest płatna, a jej zakres, terminy i stawkę ustalamy umową przed przyjęciem zadania.</p>
+<p class="wiecej"><a href="/jury-w-plebiscycie-rozmowy-z-ai">Jury plebiscytu na rozmowę ze sztuczną inteligencją</a></p>
+<p class="wiecej"><a href="/jury-w-plebiscycie-filmu-o-ai">Jury plebiscytu na film o sztucznej inteligencji</a></p>
+<p class="wiecej"><a href="/jury-w-plebiscycie-piosenki-o-ai">Jury plebiscytu na piosenkę o sztucznej inteligencji</a></p>
+<p class="wiecej"><a href="/jury-w-plebiscycie-plakatu-o-ai">Jury plebiscytu na plakat o sztucznej inteligencji</a></p>
+</article>
+</div>
+
 <h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>
 
 Napisz na adres **wspolpraca@konstela.org**.
