@@ -10,12 +10,16 @@ Szanowni Państwo,
 
 Niniejsze pismo nie jest wnioskiem o dotację ani o patronat honorowy.
 
-Zwracam się w dwóch sprawach:
+Zwracam się w kilku sprawach:
 
-1.  z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej;
-2.  z prośbą o wskazanie właściwej drogi finansowania jego części artystycznej.
+- z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej;
+- z pytaniem, który z Programów Ministra jest właściwy dla tego zadania i czy trzy plebiscyty artystyczne wraz z podcastem mieszczą się w jednym programie, czy wymagają podziału na odrębne zadania;
+- z pytaniem o status wnioskodawcy: czy wnioskodawcą może być prowadzona przeze mnie jednoosobowa działalność gospodarcza, czy musi nim być fundacja, oraz czy wynagrodzenie organizatora może stanowić koszt zadania;
+- z pytaniem, czy przedstawiony zakres może być zadaniem dwuletnim, realizowanym w latach 2027 i 2028, i na jakich warunkach dotacja jest wtedy przyznawana i rozliczana w każdym z tych lat;
+- z pytaniem, który nabór wniosków wybrać oraz jak traktowane są wydatki poniesione przed zawarciem umowy;
+- z pytaniem o wymagany udział środków z innych źródeł i o to, czy mogą nim być środki sponsorów prywatnych.
 
-Obie sprawy są od siebie niezależne i proszę o rozpoznanie każdej z nich odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne.
+Wszystkie sprawy są od siebie niezależne i proszę o rozpoznanie każdej z nich odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne.
 
 Prośby i pytania stawiam po opisie przedsięwzięcia, ponieważ rozstrzygnięcie każdej z nich wymaga znajomości jego konstrukcji.
 
@@ -161,7 +165,7 @@ Rozkład kosztów na lata jest następujący:
 
 - **nagranie hymnu i jego premiera** przypadają na 2027 rok, w czasie trwania naboru, bez warunkowania nim otwarcia edycji;
 - **nabór zgłoszeń** trwa przez cały 2027 rok, a przyjmowanie zgłoszeń zamyka się 15 stycznia 2028 roku;
-- **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata: pierwsza runda prowadzona jest przez akademię na bieżąco od lutego 2027 do stycznia 2028, ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
+- **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata, a terminy akademii są różne w zależności od plebiscytu: akademia rozmów ocenia zgłoszenia na bieżąco w czasie naboru, od lutego 2027 do stycznia 2028, akademie piosenki i plakatu pracują po zamknięciu swoich naborów, czyli na przełomie 2027 i 2028 roku, a akademia filmu przeprowadza pierwsze przejście oceny w styczniu 2028 roku. Ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
 - **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace docierają na początku stycznia 2028;
 - **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
 - **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę kwietnia 2028 roku.

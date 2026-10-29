@@ -69,7 +69,7 @@ Rozmowy zawierające pytania nieudane i wątki porzucone **nie są z tego powodu
 
 Dziesięć najwyżej ocenionych rozmów każdej edycji, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Antologia ukazuje się w trzech postaciach o różnym stopniu pewności, i mówię to wprost, żeby nie obiecywać jednego, a dowieźć drugiego:
 
-- **E-book, bezpłatny - gwarantowany.** Powstaje niezależnie od czyjejkolwiek decyzji poza pozyskaniem finansowania części wydawniczej.
+- **Bezpłatny e-book - zobowiązanie organizatora po otwarciu edycji.** Powstaje niezależnie od czyjejkolwiek decyzji, pod warunkiem pozyskania finansowania części wydawniczej.
 - **Krótki nakład na galę - gwarantowany przez Organizatora.** Egzemplarze wręczane laureatom i przekazywane jury oraz mediom. Jest to odrębna pozycja kosztorysu, niezależna od partnera wydawniczego, ponieważ druk cyfrowy niewielkiej liczby egzemplarzy nie wymaga ani wydawcy, ani dystrybucji.
 - **Nakład handlowy, płatny - zależny od partnera wydawniczego.** Celem jest, aby książka była dostępna w księgarniach bezpośrednio po gali, co wymaga nie tylko druku, lecz także wejścia do oferty dystrybutora; dystrybucja jest kompetencją partnera, nie Organizatora. Nakład jest dostarczany do dystrybutora przed galą, natomiast publiczna prezentacja okładki i rozpoczęcie sprzedaży następują w dniu premiery - okładka niesie zwycięski plakat, a regulamin plebiscytu na plakat o sztucznej inteligencji zakazuje jej udostępnienia przed galą. Przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
@@ -158,7 +158,7 @@ Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
 Zgłoszeń będzie więcej, niż jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem.
 
-Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, która rozstrzyga o dziesiątce antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co akademia i jury rozstrzygają, decyduje o antologii i o nagrodach, a nie o obecności w Archiwum.
+Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, które rozstrzyga o dziesiątce antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co akademia i jury rozstrzygają, decyduje o antologii i o nagrodach, a nie o obecności w Archiwum.
 
 ### Jury - profil składu
 
@@ -236,11 +236,12 @@ Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym o
 
 Pozycje objęte pytaniem sumują się dziś do **660 952,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **157 360,00 zł na 2027 rok** i **503 592,00 zł na 2028 rok**.
 
-**Szesnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
+Podana suma obejmuje wyłącznie pozycje obecnie wycenione. **Nie obejmuje kosztów oznaczonych w arkuszu jako „do wyceny" albo „do ustalenia"**, a te w zakresie pytania są następujące:
 
-- w plebiscycie na piosenkę: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów;
+- w plebiscycie na piosenkę: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów, zewnętrzne wydatki promocyjne, czyli zakup zasięgu, materiały i współpraca z mediami branżowymi;
 - w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów;
-- w plebiscycie na film: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, przygotowanie techniczne zwiastunów do emisji galowej, pełne pokazy filmów finałowych, obsługa prawna, dojazd i nocleg finalistów.
+- w plebiscycie na film: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, przygotowanie techniczne zwiastunów do emisji galowej, pełne pokazy filmów finałowych, obsługa prawna, dojazd i nocleg finalistów;
+- w podcaście: produkcja odcinków wraz z honorarium prowadzącego.
 
 Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film) przy odpowiednich kosztorysach.
 
@@ -323,7 +324,7 @@ Odróżniam je od **pracy przy dotarciu do wykonawców**, która jest wyceniona 
 
 ### Podatek
 
-Nagrody w plebiscytach są w rozumieniu ustawy o podatku dochodowym od osób fizycznych nagrodami w konkursach i podlegają zryczałtowanemu podatkowi w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2). Nie dotyczy to jednak każdej pozycji: przy nagrodach z dziedziny kultury i sztuki, których jednorazowa wartość nie przekracza 2 000 zł, w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68 tej ustawy - co obejmowałoby nagrody publiczności. Sposób opodatkowania każdej nagrody ustalę z księgowym przed otwarciem naboru, dla każdego świadczenia osobno, a nie jedną stawką dla całego budżetu. Kwoty w tabeli są kwotami nagród; decyzja, czy podatek obciąża nagrodę, czy jest doliczany ponad nią, nie została jeszcze podjęta i w drugim wariancie podnosi pozycje nagrodowe o około 4,3 tys. zł.
+Nagrody w plebiscytach są w rozumieniu ustawy o podatku dochodowym od osób fizycznych nagrodami w konkursach i podlegają zryczałtowanemu podatkowi w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2). Nie dotyczy to jednak każdej pozycji: przy nagrodach z dziedziny kultury i sztuki, których jednorazowa wartość nie przekracza 2 000 zł, w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68 tej ustawy - z wymienionych tu świadczeń dotyczyłoby to nagrody 1 000 zł za publiczne oceny zgłoszeń, a nie nagrody publiczności w wysokości 3 000 zł. Sposób opodatkowania każdego świadczenia ustali księgowy przed otwarciem naboru, osobno dla każdej pozycji, a nie jedną stawką dla całego budżetu. Kwoty w tabeli są kwotami nagród; decyzja, czy podatek obciąża nagrodę, czy jest doliczany ponad nią, nie została jeszcze podjęta i w drugim wariancie podnosi pozycje nagrodowe o około 4,3 tys. zł.
 
 ### Honoraria jury
 
@@ -430,17 +431,19 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Obsługa prawna regulaminu plebiscytu | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
 
+Z kwoty 154 480 zł zakres pytania do Ministerstwa obejmuje **149 552 zł**. Pozostałe 4 928 zł to obsługa cichej licytacji oryginałów wraz z przypisaną jej rezerwą; licytacja towarzyszy wystawie w galerii sztuki, jest finansowana odrębnie i pozostaje poza pytaniem. Tak samo pokazuje to załączone zestawienie zadania.
+
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
 ### Skąd biorą się te liczby
 
-Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we wszystkich budżetach przedsięwzięcia, Honoraria jury plakatu nie są natomiast wyceniane stawką godzinową i wymagają ustalenia z jury - powód wyjaśnia uwaga poniżej. Kontrola formalna jest skalowana liczbą zgłoszeń: w arkuszu jest to jeden parametr wspólny dla wszystkich budżetów, przyjęty na potrzeby kosztorysu na 150, i każda pozycja zależna od wolumenu przelicza się po jego zmianie.
+Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we wszystkich budżetach przedsięwzięcia. Honoraria jury plakatu nie są natomiast wyceniane stawką godzinową i wymagają ustalenia z jury - powód wyjaśnia uwaga poniżej. Kontrola formalna jest skalowana liczbą zgłoszeń: w arkuszu jest to jeden parametr wspólny dla wszystkich budżetów, przyjęty na potrzeby kosztorysu na 150, i każda pozycja zależna od wolumenu przelicza się po jego zmianie.
 
 Liczby zgłoszeń nie prognozuję - jest to pierwsza edycja plebiscytu, którego nikt wcześniej nie prowadził. Żadna z tych pozycji nie jest kwotą ryczałtową wziętą z oszacowania całości.
 
 **Cztery pozycje pozostają bez kwoty i nie jest to przeoczenie.** Realizacja wystawy przy gali zależy od miejsca gali, a wystawa w galerii sztuki od pozyskania galerii, i żadne z nich nie jest wybrane - z tego samego powodu niewyceniona jest realizacja części artystycznej gali w [rozdziale 7](#7-plebiscyt-na-piosenke). Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam przed zabezpieczeniem finansowania.
 
-Dojazd i nocleg finalistów są niewycenione również przy plebiscycie na piosenkę i filmu, a rozstrzygnięcie ich wyłącznie w jednym z trzech plebiscytów dałoby kosztorys niespójny. Honoraria jury pozostawiam do ustalenia z przewodniczącym składu: przy ocenie rozmów stawka godzinowa jest właściwą miarą, bo mierzy pracę, natomiast przy jurorze, którego udział sam jest wartością dla plebiscytu, iloczyn godzin i stawki nie jest tą miarą i nie chcę go przedstawiać jako kosztorysu. Wycena wszystkich czterech powstanie przed złożeniem jakiegokolwiek wniosku.
+Dojazd i nocleg finalistów są niewycenione również w plebiscytach na piosenkę i na film, a rozstrzygnięcie ich wyłącznie w jednym z trzech plebiscytów dałoby kosztorys niespójny. Honoraria jury pozostawiam do ustalenia z przewodniczącym składu: przy ocenie rozmów stawka godzinowa jest właściwą miarą, bo mierzy pracę, natomiast przy jurorze, którego udział sam jest wartością dla plebiscytu, iloczyn godzin i stawki nie jest tą miarą i nie chcę go przedstawiać jako kosztorysu. Wycena wszystkich czterech powstanie przed złożeniem jakiegokolwiek wniosku.
 
 ### Dwie pozycje są oszacowaniem, nie ofertą
 
@@ -450,7 +453,7 @@ Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu
 
 ### Czego kosztorys nie obejmuje
 
-Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa plebiscytu. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrody publiczności - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
+Druku antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: dwadzieścia godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 1 000 zł za publiczne oceny zgłoszeń - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
 
 ## 9. Plebiscyt na film
 
@@ -630,7 +633,7 @@ Przedsięwzięcia tej skali nie prowadzi się jednoosobowo i nie udaję, że bę
 - **koordynator wydania i moderacji** - osoba zatrudniona na pierwszy kwartał 2028 roku, od zamknięcia zgłoszeń do premiery. Bez niej terminy produkcji antologii przestają być realne i trzeba przesunąć galę.
 - **kancelaria** - regulaminy, licencje, archiwum, umowy z jury i wykonawcami. Bez konsultacji prawnej nie otwieram naboru; jest to warunek, nie preferencja.
 - **agencja kreatywna** - docelowa strona Nagrody. Bez niej nabór prowadzi strona w obecnej, roboczej postaci.
-- **studio nagraniowe i realizator** - nagrania dziesiątki finalistów oraz hymn z teledyskiem. Bez nich plebiscyt na piosenkę kończy się na werdykcie, bez nagrań.
+- **studio nagraniowe i realizator** - nagrania dziesiątki finalistów oraz hymn z teledyskiem. Przed otwarciem naboru zabezpieczę finansowanie i możliwość realizacji sesji dla wszystkich dziesięciu finalistów; każdy finalista może z sesji zrezygnować, bez utraty nagrody i miejsca w dziesiątce, więc nagrań może powstać mniej niż dziesięć.
 - **producent wykonawczy gali** - sala, technika, rejestracja, prowadzenie. Bez niego regulaminy przewidują ogłoszenie wyników na stronie i wykonanie wszystkich nagród bez gali.
 - **galeria sztuki** - druga wystawa prac finałowych wraz z wernisażem. Bez niej zostaje wystawa przy gali, a dalszego pokazania prac nie obiecuję.
 - **dystrybutor kinowy, nadawca lub serwis** - pokazy i emisja zestawu filmów finałowych. Bez nich filmy pozostają na kanałach autorów i w Archiwum, a pokazów nie zapowiadam.

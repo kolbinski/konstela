@@ -18,7 +18,7 @@ ul. 11 Listopada 12/1
 LIST INTENCYJNY
 
 
-Ministerstwo Kultury i Dziedzictwa Narodowego otrzymało opis koncepcji Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z systemami sztucznej inteligencji - oraz z towarzyszącymi jej wydawnictwami: antologią najwyżej ocenionych rozmów każdej edycji, publikowaną nieodpłatnie, i publicznym Archiwum szerszego zbioru rozmów.
+Ministerstwo Kultury i Dziedzictwa Narodowego otrzymało opis koncepcji Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z systemami sztucznej inteligencji - oraz towarzyszących jej publikacji: antologii najwyżej ocenionych rozmów każdej edycji, wydawanej nieodpłatnie, i publicznego Archiwum szerszego zbioru rozmów.
 
 Ministerstwo odnotowuje, że tematyka przedstawionego przedsięwzięcia dotyczy obszaru upowszechniania kultury i czytelnictwa oraz dokumentowania dorobku polskojęzycznego. Zgodnie z przedstawionymi założeniami powstający zbiór ma być zapisem tego, jak użytkownicy języka polskiego posługują się nowym narzędziem w okresie jego wchodzenia do powszechnego użytku, a antologia i Archiwum mają być udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu.
 
