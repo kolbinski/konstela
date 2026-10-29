@@ -978,7 +978,7 @@ Z menu wypadły trzy linki do podstron plebiscytów, których nie da się zbudow
 
 **Cztery adresy plebiscytowe tylko na podstronach**: plebiscyt.rozmowy@, plebiscyt.filmu@, plebiscyt.piosenki@, plebiscyt.plakatu@ w sekcjach Kontakt. **W regulaminach wszędzie kontakt@** - decyzja z 26.10.2026, po tym jak najpierw wpisałem tam adresy plebiscytowe. Powód jest praktyczny: regulamin wskazuje adres proceduralny, na który idzie wycofanie zgłoszenia, zgłoszenie błędu odwzorowania kopii i zgłoszenie braku dostępu do telefonu, a te sprawy mają trafiać w jedno miejsce niezależnie od plebiscytu.
 
-**Powstała strona [Regulaminy](/dokument/regulaminy)** z linkami do czterech regulaminów, z jednozdaniowym opisem każdego, z listą sześciu zasad wspólnych dla wszystkich plebiscytów i z linkami do procedury moderacji i polityki prywatności. W stopce nad polityką prywatności.
+**Powstała strona [Regulaminy](/regulaminy)** z linkami do czterech regulaminów, z jednozdaniowym opisem każdego, z listą sześciu zasad wspólnych dla wszystkich plebiscytów i z linkami do procedury moderacji i polityki prywatności. W stopce nad polityką prywatności.
 
 **Przycisk menu w pasku dokumentów pojawia się od jednej pozycji** (decyzja z 26.10.2026, po wypróbowaniu progu dwóch). Znika dopiero wtedy, gdy nie ma z czego zbudować menu w ogóle - na stronie 404 albo w dokumencie bez nagłówków. Próg dwóch pozycji usunięty: dokument z jednym paragrafem to wciąż dokument, a obecność przycisku ma zależeć od tego, czy strona ma spis treści, a nie od jego długości.
 

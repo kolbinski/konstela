@@ -22,7 +22,7 @@
     ['/plebiscyt-plakatu', 'Plebiscyt na plakat o sztucznej inteligencji'],
     ['/hymn', 'Hymn Nagrody Konstela'],
     ['/dokument/procedura-moderacji', 'Procedura moderacji zgłoszeń'],
-    ['/dokument/regulaminy', 'Regulaminy'],
+    ['/regulaminy', 'Regulaminy'],
     ['/dokument/polityka-prywatnosci', 'Polityka prywatności'],
     ['/dla-partnerow', 'Dla partnerów'],
   ];

@@ -137,6 +137,7 @@ const DEDYKOWANE = {
   'jury-w-plebiscycie-filmu-o-ai': 'jury-w-plebiscycie-filmu-o-ai',
   'jury-w-plebiscycie-rozmowy-z-ai': 'jury-w-plebiscycie-rozmowy-z-ai',
   statut: 'statut',
+  regulaminy: 'regulaminy',
 };
 
 /* Opisy stron publicznych pisane ręcznie. Dokumenty prawne zaczynają się od
