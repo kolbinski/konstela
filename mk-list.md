@@ -1,6 +1,6 @@
 # List do MKiDN
 
-**Temat:** Nagroda Konstela - prośba o list intencyjny i o wskazanie drogi finansowania części artystycznej
+**Temat:** Nagroda Konstela 2027-2028 - prośba o pisemne stanowisko i o wskazanie właściwego programu finansowania części artystycznej
 
 Szanowni Państwo,
 
@@ -19,10 +19,12 @@ Krzysztof Olbiński
 olbinski@gmail.com
 konstela.org
 
-**Załączniki:**
+**Załączniki** (nazwa pliku w nawiasie, wszystkie w wersji z dnia 2026-10-29):
 
-1. Pismo w sprawie Nagrody Konstela; wersja online: https://konstela.org/dokument/mk-pismo/
-2. Nagroda Konstela - nota koncepcyjna; wersja online: https://konstela.org/dokument/mk-nota-koncepcyjna/
-3. Zestawienie zadania: co, w którym roku, z czego i o co pytam - arkusz kalkulacyjny; wersja online: https://konstela.org/arkusz/zestawienie-zadania
-4. Budżet pierwszej edycji - arkusz kalkulacyjny; wersja online: https://konstela.org/arkusz/budzet-edycji-pierwszej
-5. Projekt listu intencyjnego; wersja online: https://konstela.org/dokument/mk-list-intencyjny/
+1. Pismo w sprawie Nagrody Konstela (`1-Konstela-pismo-2026-10-29.pdf`); wersja online: https://konstela.org/dokument/mk-pismo/
+2. Nagroda Konstela - nota koncepcyjna (`2-Konstela-nota-koncepcyjna-2026-10-29.pdf`); wersja online: https://konstela.org/dokument/mk-nota-koncepcyjna/
+3. Zestawienie zadania: co, w którym roku, z czego i o co pytam (`3-Konstela-zestawienie-zadania-2026-10-29.xlsx`); wersja online: https://konstela.org/arkusz/zestawienie-zadania
+4. Budżet pierwszej edycji (`4-Konstela-budzet-edycji-pierwszej-2026-10-29.xlsx`); wersja online: https://konstela.org/arkusz/budzet-edycji-pierwszej
+5. Projekt listu intencyjnego, do dowolnej zmiany lub odrzucenia (`5-Konstela-projekt-listu-intencyjnego-2026-10-29.docx`); wersja online: https://konstela.org/dokument/mk-list-intencyjny/
+
+Adresy internetowe podaję jako dodatkowy sposób dostępu; wiążąca jest treść załączonych plików.
