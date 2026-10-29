@@ -88,7 +88,7 @@ Pierwsze przejście oceny prowadzi akademia filmu, powoływana w każdej edycji,
 
 Czwartym działaniem jest nagranie piosenki - hymnu przedsięwzięcia do tekstu „Zapytaj inaczej", poza plebiscytem. Tekst tej piosenki jest dziś wersją roboczą; zainteresowanych członków jury plebiscytu na piosenkę o sztucznej inteligencji zaprosimy do opracowania jego ostatecznej wersji oraz skomponowania i nagrania hymnu, a udział jest dobrowolny i wymaga osobnych ustaleń.
 
-Premierę planuję w 2027 roku, w czasie trwania naboru; **otwarcie naboru nie jest od niej uzależnione**, ponieważ termin nagrania zależy od zabezpieczenia środków oraz od uzgodnienia składu kompozytorskiego i wykonawczego. Hymn wraz z trzema najwyżej ocenionymi utworami plebiscytu zostanie wykonany na żywo podczas gali rozstrzygnięcia pierwszej edycji, w drugiej połowie kwietnia 2028 roku.
+Premierę planuję w 2027 roku, w czasie trwania naboru. Hymn wraz z trzema najwyżej ocenionymi utworami plebiscytu zostanie wykonany na żywo podczas gali rozstrzygnięcia pierwszej edycji, w drugiej połowie kwietnia 2028 roku.
 
 Obsadę, niezmienność tytułu i refrenu oraz kosztorys hymnu wraz z teledyskiem opisuje **rozdział 7 załączonej noty koncepcyjnej, „Plebiscyt na piosenkę i gala"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke](https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke). Tekst w wersji roboczej jest dostępny pod adresem [konstela.org/hymn](https://konstela.org/hymn/).
 
