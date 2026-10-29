@@ -601,6 +601,17 @@
         @page {
           margin: 2cm 1.6cm;
         }
+        /* Elementy nawigacji nie mają sensu na papierze ani w pliku PDF
+           wysyłanym jako załącznik: pasek, menu, przycisk czytelności
+           i powrót na górę znikają, zostaje sama treść dokumentu. */
+        .topbar,
+        #menu,
+        #burger,
+        #czytelnosc,
+        #do-gory,
+        konstela-stopka {
+          display: none !important;
+        }
         body {
           background: #fff;
           color: #000;
@@ -614,6 +625,13 @@
           padding: 0;
           opacity: 1;
           transform: none;
+        }
+        /* Tytuł dokumentu w rozmiarze ekranowym zajmowałby jedną trzecią
+           pierwszej strony - na papierze i w załączniku PDF ma być
+           nagłówkiem pisma, a nie plakatem. */
+        #content h1 {
+          font-size: 20pt;
+          line-height: 1.2;
         }
         #content h2 {
           font-size: 14pt;
