@@ -515,6 +515,17 @@
     </style>
     <style>
       /* widok arkusza */
+      #content .pobierz {
+        margin: 0 0 1.1rem;
+      }
+      #content .pobierz a {
+        display: inline-block;
+        padding: 0.35rem 0.8rem;
+        border: 1px solid var(--line);
+        border-radius: 0.4rem;
+        font-size: 0.9rem;
+        text-decoration: none;
+      }
       .tabs {
         display: flex;
         flex-wrap: wrap;
@@ -818,6 +829,19 @@
         return i < 0 ? 0 : i;
       }
 
+      let adresPliku = '';
+
+      function pasekPobierania(rozszerzenie) {
+        const p = document.createElement('p');
+        p.className = 'pobierz';
+        const a = document.createElement('a');
+        a.href = adresPliku || '/' + raw + '.' + rozszerzenie;
+        a.setAttribute('download', '');
+        a.textContent = 'Pobierz plik ' + rozszerzenie;
+        p.appendChild(a);
+        return p;
+      }
+
       function render(arkusze) {
         const tabs = document.createElement('div');
         tabs.className = 'tabs';
@@ -886,6 +910,7 @@
           tabs.appendChild(b);
         });
         el.innerHTML = '';
+        el.appendChild(pasekPobierania('xlsx'));
         el.appendChild(tabs);
         el.appendChild(host);
         el.classList.add('loaded');
@@ -918,7 +943,12 @@
         const swiezo = '?t=' + Date.now();
         fetch('/' + raw + '.xlsx' + swiezo, { cache: 'reload' })
           .then(r => (r.ok ? r : fetch('/attachments/' + raw + '.xlsx' + swiezo, { cache: 'reload' })))
-          .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.arrayBuffer(); })
+          .then(r => {
+            if (!r.ok) throw new Error(r.status + ' ' + r.statusText);
+            // adres, pod którym plik rzeczywiście leży - do przycisku pobierania
+            adresPliku = r.url.split('?')[0];
+            return r.arrayBuffer();
+          })
           .then(unzip)
           .then(f => { const a = odczytaj(f); document.title = raw + ' - Nagroda Konstela'; render(a); })
           .catch(e => state('Nie udało się wczytać arkusza', e.message));

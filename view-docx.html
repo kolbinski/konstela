@@ -515,12 +515,16 @@
     </style>
     <style>
       /* widok dokumentu docx */
-      #content .zrodlo {
+      #content .pobierz {
+        margin: 0 0 1.4rem;
+      }
+      #content .pobierz a {
+        display: inline-block;
+        padding: 0.35rem 0.8rem;
+        border: 1px solid var(--line);
+        border-radius: 0.4rem;
         font-size: 0.9rem;
-        opacity: 0.75;
-        border-bottom: 1px solid var(--line);
-        padding-bottom: 0.9rem;
-        margin-bottom: 1.6rem;
+        text-decoration: none;
       }
       #content p.srodek {
         text-align: center;
@@ -631,6 +635,8 @@
         }
       }
       raw = raw.replace(/\.docx$/i, '');
+
+      let adresPliku = '';
 
       function state(t, d) {
         el.innerHTML = '<div class="state"><strong>' + t + '</strong>' + (d || '') + '</div>';
@@ -787,10 +793,9 @@
       }
 
       function render(html) {
+        const adres = adresPliku || '/attachments/' + encodeURIComponent(raw) + '.docx';
         el.innerHTML =
-          '<p class="zrodlo">Treść pliku <strong>' + esc(raw) + '.docx</strong>, ' +
-          'wyświetlona w przeglądarce. ' +
-          '<a href="/attachments/' + encodeURIComponent(raw) + '.docx" download>Pobierz plik</a></p>' +
+          '<p class="pobierz"><a href="' + adres + '" download>Pobierz plik docx</a></p>' +
           html;
         el.classList.add('loaded');
         document.dispatchEvent(new CustomEvent('konstela:tresc'));
@@ -803,7 +808,12 @@
         const swiezo = '?t=' + Date.now();
         fetch('/' + raw + '.docx' + swiezo, { cache: 'reload' })
           .then(r => (r.ok ? r : fetch('/attachments/' + raw + '.docx' + swiezo, { cache: 'reload' })))
-          .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.arrayBuffer(); })
+          .then(r => {
+            if (!r.ok) throw new Error(r.status + ' ' + r.statusText);
+            // adres, pod którym plik rzeczywiście leży - do przycisku pobierania
+            adresPliku = r.url.split('?')[0];
+            return r.arrayBuffer();
+          })
           .then(unzip)
           .then(f => { const h = odczytaj(f); document.title = raw + ' - Nagroda Konstela'; render(h); })
           .catch(e => state('Nie udało się wczytać dokumentu', e.message));
