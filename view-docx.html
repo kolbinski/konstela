@@ -1,0 +1,817 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, viewport-fit=cover"
+    />
+    <title>Dokument - Nagroda Konstela</title>
+    <link rel="icon" href="/assets/favicon.svg?v=f86c5c1dc8" type="image/svg+xml" />
+    <link rel="manifest" href="/manifest.json" />
+    <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png?v=e7cb88798c" />
+    <meta name="apple-mobile-web-app-title" content="Nagroda Konstela" />
+    <meta name="color-scheme" content="light dark" />
+    <meta
+      name="theme-color"
+      content="#f6f2e9"
+      media="(prefers-color-scheme: light)"
+    />
+    <meta
+      name="theme-color"
+      content="#14120e"
+      media="(prefers-color-scheme: dark)"
+    />
+    <meta name="robots" content="noindex, follow" />
+    <link rel="stylesheet" href="/assets/czytelnosc.css?v=c15bed619e" />
+    <link rel="stylesheet" href="/assets/pasek.css?v=e2427fa4a7" />
+    <style>
+      @font-face {
+        font-family: 'Literata';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-ext-400-normal.woff2?v=08c36cb1d9')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Literata';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-400-normal.woff2?v=8963aa5468')
+          format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Literata';
+        font-style: italic;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-ext-400-italic.woff2?v=9269185017')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Literata';
+        font-style: italic;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-400-italic.woff2?v=f59cd72382')
+          format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Literata';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-ext-600-normal.woff2?v=58d4df8b7d')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Literata';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-600-normal.woff2?v=21727540e7')
+          format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Literata';
+        font-style: italic;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-ext-600-italic.woff2?v=e3e9d58e4f')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Literata';
+        font-style: italic;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/assets/fonts/literata-latin-600-italic.woff2?v=47bf0706c7')
+          format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('/assets/fonts/source-sans-3-latin-ext-300-normal.woff2?v=1d80299e1f')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url('/assets/fonts/source-sans-3-latin-300-normal.woff2?v=892e7a6707') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/source-sans-3-latin-ext-400-normal.woff2?v=91bb2a8dde')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/source-sans-3-latin-400-normal.woff2?v=430012e873') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/assets/fonts/source-sans-3-latin-ext-600-normal.woff2?v=80ee57a500')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'Source Sans 3';
+        font-style: normal;
+        font-weight: 600;
+        font-display: swap;
+        src: url('/assets/fonts/source-sans-3-latin-600-normal.woff2?v=ada73f9a5d') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+      @font-face {
+        font-family: 'IBM Plex Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2?v=4af8cef522')
+          format('woff2');
+        unicode-range:
+          U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF,
+          U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020,
+          U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+      }
+      @font-face {
+        font-family: 'IBM Plex Mono';
+        font-style: normal;
+        font-weight: 400;
+        font-display: swap;
+        src: url('/assets/fonts/ibm-plex-mono-latin-400-normal.woff2?v=bb87500e32') format('woff2');
+        unicode-range:
+          U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC,
+          U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193,
+          U+2212, U+2215, U+FEFF, U+FFFD;
+      }
+
+      :root {
+        --display: 'Iowan Old Style', 'Literata', Georgia, serif;
+        --body: 'Source Sans 3', system-ui, sans-serif;
+        --mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+        --paper: #f6f2e9;
+        --paper-raised: #fffdf8;
+        --text: #231f18;
+        --muted: #6d665a;
+        --brass: #8a6a23;
+        --brass-bright: #b08b31;
+        --line: #ddd5c4;
+
+        --bg: var(--paper);
+        --surface: var(--paper-raised);
+        --max-w: 46rem;
+        /* Patrz assets/view.css: deklaracja obu motywów wyłącza wymuszanie
+           ciemnego tła przez przeglądarkę. */
+        color-scheme: light dark;
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root:not([data-theme='light']) {
+          --bg: #14120e;
+          --surface: #1c1a15;
+          --text: #ece7db;
+          --muted: #9b9484;
+          --brass: #b08b31;
+          --brass-bright: #d4ad54;
+          --line: #342f25;
+          color-scheme: dark;
+        }
+      }
+
+      :root[data-theme='dark'] {
+        --bg: #14120e;
+        --surface: #1c1a15;
+        --text: #ece7db;
+        --muted: #9b9484;
+        --brass: #b08b31;
+        --brass-bright: #d4ad54;
+        --line: #342f25;
+        color-scheme: dark;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      /* Pasek z menu ma tło przez całą szerokość strony, a body ma tu
+         dopełnienie boczne - podajemy mu, o ile ma z niego wyjść. Reguły
+         paska są w assets/pasek.css, wspólnym z resztą serwisu. */
+      :root {
+        --pasek-wyjscie-l: max(16px, env(safe-area-inset-left, 0px));
+        --pasek-wyjscie-r: max(16px, env(safe-area-inset-right, 0px));
+      }
+
+      body {
+        font-family: var(--body);
+        font-size: 1.2rem;
+        font-weight: 400;
+        line-height: 1.55;
+        color: var(--text);
+        background: var(--bg);
+        -webkit-font-smoothing: antialiased;
+        /* Bez dopełnienia u góry - tak samo jak w assets/view.css. Pasek jest
+           pierwszym elementem strony i dokłada swoje własne. */
+        padding: 0 max(16px, env(safe-area-inset-right))
+          max(16px, env(safe-area-inset-bottom))
+          max(16px, env(safe-area-inset-left));
+      }
+
+
+      #content {
+        /* Strona arkusza nie ma kolumny tekstu - tabela ma być szeroka. */
+        margin: 0 auto;
+        padding: 2.5rem 0 5rem;
+        opacity: 0;
+        transform: translateY(10px);
+        transition:
+          opacity 0.35s ease,
+          transform 0.35s ease;
+      }
+      #content.loaded {
+        opacity: 1;
+        transform: none;
+      }
+
+      #content h1 {
+        font-family: var(--display);
+        font-size: clamp(2rem, 5vw, 2.9rem);
+        font-weight: 600;
+        line-height: 1.12;
+        margin: 0 0 1.75rem;
+      }
+      #content h2 {
+        font-family: var(--display);
+        font-size: 1.65rem;
+        font-weight: 600;
+        line-height: 1.25;
+        margin: 2.75rem 0 0.85rem;
+        padding-bottom: 0.35rem;
+        border-bottom: 1px solid var(--line);
+      }
+      #content h3 {
+        font-family: var(--display);
+        font-size: 1.3rem;
+        font-weight: 600;
+        margin: 2rem 0 0.5rem;
+      }
+      #content h4,
+      #content h5,
+      #content h6 {
+        font-family: var(--mono);
+        font-size: 0.74rem;
+        letter-spacing: 0.15em;
+        text-transform: uppercase;
+        color: var(--muted);
+        margin: 1.75rem 0 0.5rem;
+      }
+
+      #content p {
+        margin: 0 0 1.2rem;
+      }
+      #content strong {
+        font-weight: 600;
+      }
+      #content em {
+        font-style: italic;
+      }
+
+      #content a {
+        color: var(--brass);
+        text-decoration: underline;
+        text-decoration-thickness: 1px;
+        text-underline-offset: 3px;
+        text-decoration-color: color-mix(
+          in srgb,
+          var(--brass) 45%,
+          transparent
+        );
+      }
+      #content a:hover {
+        color: var(--brass-bright);
+        text-decoration-color: currentColor;
+      }
+
+      #content ul,
+      #content ol {
+        margin: 0 0 1.2rem 1.4rem;
+      }
+      #content li {
+        margin-bottom: 0.4rem;
+      }
+      #content li::marker {
+        color: var(--brass);
+      }
+      #content li > ul,
+      #content li > ol {
+        margin-top: 0.4rem;
+        margin-bottom: 0;
+      }
+
+      #content blockquote {
+        margin: 1.75rem 0;
+        padding: 0.85rem 1.25rem;
+        border-left: 2px solid var(--brass);
+        background: var(--surface);
+        color: var(--muted);
+      }
+      #content blockquote p:last-child {
+        margin-bottom: 0;
+      }
+
+      #content code {
+        font-family: var(--mono);
+        font-size: 0.82em;
+        color: var(--brass);
+        background: var(--surface);
+        padding: 0.12em 0.4em;
+        border: 1px solid var(--line);
+        border-radius: 3px;
+      }
+      #content pre {
+        margin: 1.75rem 0;
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: 4px;
+        overflow: hidden;
+      }
+      #content pre code {
+        display: block;
+        padding: 1.1rem 1.25rem;
+        border: none;
+        color: var(--text);
+        font-size: 0.82rem;
+        line-height: 1.6;
+        overflow-x: auto;
+      }
+
+      #content table {
+        width: 100%;
+        margin: 1.75rem 0;
+        border-collapse: collapse;
+        font-size: 0.95rem;
+      }
+      #content th {
+        font-family: var(--mono);
+        font-size: 0.68rem;
+        letter-spacing: 0.13em;
+        text-transform: uppercase;
+        text-align: left;
+        color: var(--muted);
+        font-weight: 400;
+        padding: 0.55rem 0.85rem;
+        border-bottom: 1px solid var(--brass);
+      }
+      #content td {
+        padding: 0.6rem 0.85rem;
+        border-bottom: 1px solid var(--line);
+        vertical-align: top;
+      }
+
+      #content hr {
+        border: none;
+        border-top: 1px solid var(--line);
+        margin: 2.75rem 0;
+      }
+      #content img {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        margin: 1.75rem 0;
+      }
+
+      .state {
+        max-width: var(--max-w);
+        margin: 0 auto;
+        padding: 4rem 0;
+        text-align: center;
+        color: var(--muted);
+        font-family: var(--mono);
+        font-size: 0.8rem;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+      }
+      .state strong {
+        display: block;
+        font-family: var(--display);
+        font-size: 1.4rem;
+        letter-spacing: 0;
+        text-transform: none;
+        color: var(--text);
+        margin-bottom: 0.6rem;
+        font-weight: 600;
+      }
+
+      @media print {
+        @page {
+          margin: 2cm 1.6cm;
+        }
+        body {
+          background: #fff;
+          color: #000;
+          font-size: 11pt;
+          line-height: 1.5;
+          padding: 0;
+        }
+        .topbar,
+        #content {
+          max-width: 100%;
+          padding: 0;
+          opacity: 1;
+          transform: none;
+        }
+        #content h2 {
+          font-size: 14pt;
+        }
+        #content a {
+          color: #000;
+        }
+      }
+
+      @media (max-width: 600px) {
+        body {
+          font-size: 1rem;
+        }
+        #content {
+          padding: 2rem 0 3.5rem;
+        }
+        #content h2 {
+          font-size: 1.4rem;
+        }
+      }
+    </style>
+    <style>
+      /* widok dokumentu docx */
+      #content .zrodlo {
+        font-size: 0.9rem;
+        opacity: 0.75;
+        border-bottom: 1px solid var(--line);
+        padding-bottom: 0.9rem;
+        margin-bottom: 1.6rem;
+      }
+      #content p.srodek {
+        text-align: center;
+      }
+      #content p.prawo {
+        text-align: right;
+      }
+      #content p.lista {
+        padding-left: 1.4rem;
+        position: relative;
+      }
+      #content p.lista::before {
+        content: '\2022';
+        position: absolute;
+        left: 0.3rem;
+        opacity: 0.6;
+      }
+      #content p.pusty {
+        margin: 0;
+        height: 0.7rem;
+      }
+      #content table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 1.4rem 0;
+      }
+      #content td {
+        border: 1px solid var(--line);
+        padding: 0.5rem 0.7rem;
+        vertical-align: top;
+      }
+      #content td p {
+        margin: 0.2rem 0;
+      }
+    </style>
+
+    <!-- Tryb czytelności ustawiamy przed pierwszym rysowaniem strony,
+         inaczej mignęłaby w zwykłych kolorach. Patrz assets/czytelnosc.js. -->
+    <script>
+      try {
+        if (localStorage.getItem('konstela-czytelnosc')) {
+          document.documentElement.classList.add('czytelnie');
+        }
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div class="topbar">
+      <div class="topbar-in">
+        <span class="left">
+          <a class="back" href="/" aria-label="Wróć na stronę główną"><!--ikona:strzalka-wstecz--><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 12H5"/><path d="m11 6-6 6 6 6"/></svg><!--/ikona--></a>
+          <a class="brand" href="/">Nagroda Konstela</a>
+        </span>
+        <span class="prawa">
+          <span class="tag">dokument</span>
+          <button
+            id="czytelnosc"
+            class="czytelnosc"
+            type="button"
+            aria-pressed="false"
+            aria-label="Tryb czytelności: większe pismo i wysoki kontrast"
+          >
+            <!--ikona:czytelnosc--><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2.5 15 6 7.5 9.5 15"/><path d="M3.9 12.2h4.2"/><path d="M13 18.5 18 6.5l5 12"/><path d="M15 14h6"/></svg><!--/ikona-->
+          </button>
+          <button
+            id="burger"
+            class="burger"
+            type="button"
+            aria-expanded="false"
+            aria-controls="menu"
+            aria-label="Menu dokumentu"
+            hidden
+          >
+            <span class="burger-ikona" aria-hidden="true"></span>
+          </button>
+        </span>
+      </div>
+      <!-- Pozycje powstają z nagłówków w assets/pasek.js. -->
+      <nav id="menu" class="menu" aria-label="Sekcje strony" hidden></nav>
+    </div>
+
+    <main id="content">
+      <div class="state">Wczytywanie</div>
+    </main>
+
+    <button id="do-gory" class="do-gory" type="button" hidden aria-label="Wróć na górę strony"><!--ikona:strzalka-gora--><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V6"/><path d="m6 12 6-6 6 6"/></svg><!--/ikona--></button>
+    <konstela-stopka></konstela-stopka>
+
+
+    <script>
+      // Czytnik docx bez bibliotek zewnętrznych.
+      // docx to archiwum ZIP z plikami XML; ZIP rozpakowujemy natywnie
+      // przez DecompressionStream('deflate-raw'), XML przez DOMParser.
+      const el = document.getElementById('content');
+      // Dwie równoważne postacie adresu:
+      //   /doc/mk-list-intencyjny        - przepisywana regułą w Cloudflare
+      //   /view-docx.html?file=mk-list-intencyjny
+      const params = new URLSearchParams(location.search);
+      let raw = (params.get('file') || '').trim();
+      if (!raw) {
+        const fromPath = location.pathname.match(/^\/doc\/(.+?)\/?$/);
+        if (fromPath) {
+          try {
+            raw = decodeURIComponent(fromPath[1]).trim();
+          } catch (e) {
+            raw = fromPath[1].trim();
+          }
+        }
+      }
+      raw = raw.replace(/\.docx$/i, '');
+
+      function state(t, d) {
+        el.innerHTML = '<div class="state"><strong>' + t + '</strong>' + (d || '') + '</div>';
+        el.classList.add('loaded');
+      }
+
+      async function unzip(buf) {
+        const dv = new DataView(buf);
+        const bytes = new Uint8Array(buf);
+        // koniec centralnego katalogu
+        let eocd = -1;
+        for (let i = bytes.length - 22; i >= 0 && i > bytes.length - 66000; i--) {
+          if (dv.getUint32(i, true) === 0x06054b50) { eocd = i; break; }
+        }
+        if (eocd < 0) throw new Error('To nie jest poprawny plik xlsx');
+        const count = dv.getUint16(eocd + 10, true);
+        let p = dv.getUint32(eocd + 16, true);
+        const out = {};
+        const dec = new TextDecoder();
+        for (let i = 0; i < count; i++) {
+          const method = dv.getUint16(p + 10, true);
+          const csize = dv.getUint32(p + 20, true);
+          const nlen = dv.getUint16(p + 28, true);
+          const mlen = dv.getUint16(p + 30, true);
+          const klen = dv.getUint16(p + 32, true);
+          const lho = dv.getUint32(p + 42, true);
+          const name = dec.decode(bytes.subarray(p + 46, p + 46 + nlen));
+          const ln = dv.getUint16(lho + 26, true);
+          const le = dv.getUint16(lho + 28, true);
+          const start = lho + 30 + ln + le;
+          const raw = bytes.subarray(start, start + csize);
+          if (method === 0) {
+            out[name] = dec.decode(raw);
+          } else {
+            const ds = new DecompressionStream('deflate-raw');
+            const ab = await new Response(
+              new Blob([raw]).stream().pipeThrough(ds)
+            ).arrayBuffer();
+            out[name] = dec.decode(ab);
+          }
+          p += 46 + nlen + mlen + klen;
+        }
+        return out;
+      }
+
+      const X = s => new DOMParser().parseFromString(s, 'application/xml');
+      const W = 'http://schemas.openxmlformats.org/wordprocessingml/2006/main';
+      const esc = s => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+      const atrW = (n, nazwa) => (n ? (n.getAttributeNS(W, nazwa) || n.getAttribute('w:' + nazwa)) : null);
+      // w:val="0" albo "false" wyłącza własność; brak atrybutu oznacza włączoną
+      const wlaczone = n => {
+        if (!n) return false;
+        const v = n.getAttributeNS(W, 'val') || n.getAttribute('w:val');
+        return v === null || !['0', 'false', 'off'].includes(v);
+      };
+      const dziecko = (n, nazwa) => {
+        if (!n) return null;
+        for (const d of n.children) if (d.localName === nazwa) return d;
+        return null;
+      };
+
+      // Nazwy styli akapitowych z pliku styles.xml; po nich poznajemy nagłówki.
+      function styleNaglowkow(files) {
+        const mapa = {};
+        const st = files['word/styles.xml'];
+        if (!st) return mapa;
+        const d = X(st);
+        for (const s of d.getElementsByTagNameNS(W, 'style')) {
+          const id = atrW(s, 'styleId') || '';
+          const nazwa = atrW(dziecko(s, 'name'), 'val') || '';
+          const m = (id + ' ' + nazwa).match(/heading\s*([1-6])|Nagwek\s*([1-6])|Nagłówek\s*([1-6])/i);
+          if (m) mapa[id] = Number(m[1] || m[2] || m[3]);
+        }
+        return mapa;
+      }
+
+      function biegi(p) {
+        let html = '';
+        for (const r of p.children) {
+          if (r.localName === 'hyperlink') { html += biegi(r); continue; }
+          if (r.localName !== 'r') continue;
+          const rPr = dziecko(r, 'rPr');
+          let tekst = '';
+          for (const n of r.children) {
+            if (n.localName === 't') tekst += n.textContent;
+            else if (n.localName === 'br') tekst += '\n';
+            else if (n.localName === 'tab') tekst += '\t';
+          }
+          if (!tekst) continue;
+          let w = esc(tekst).replace(/\n/g, '<br />').replace(/\t/g, '&#9;');
+          if (rPr) {
+            if (wlaczone(dziecko(rPr, 'b'))) w = '<strong>' + w + '</strong>';
+            if (wlaczone(dziecko(rPr, 'i'))) w = '<em>' + w + '</em>';
+            const u = dziecko(rPr, 'u');
+            if (u && !['none', '0', 'false'].includes(atrW(u, 'val'))) w = '<u>' + w + '</u>';
+          }
+          html += w;
+        }
+        return html;
+      }
+
+      function akapit(p, naglowki) {
+        const pPr = dziecko(p, 'pPr');
+        const styl = atrW(dziecko(pPr, 'pStyle'), 'val') || '';
+        const tresc = biegi(p);
+        const poziom = naglowki[styl];
+        if (!tresc.trim()) return '<p class="pusty"></p>';
+        if (poziom) {
+          const h = Math.min(Math.max(poziom, 1), 4);
+          return '<h' + h + '>' + tresc + '</h' + h + '>';
+        }
+        const wyr = atrW(dziecko(pPr, 'jc'), 'val');
+        const klasy = [];
+        if (wyr === 'center') klasy.push('srodek');
+        if (wyr === 'right' || wyr === 'end') klasy.push('prawo');
+        if (dziecko(pPr, 'numPr')) klasy.push('lista');
+        return '<p' + (klasy.length ? ' class="' + klasy.join(' ') + '"' : '') + '>' + tresc + '</p>';
+      }
+
+      function tabela(t, naglowki) {
+        let html = '<table><tbody>';
+        for (const tr of t.children) {
+          if (tr.localName !== 'tr') continue;
+          html += '<tr>';
+          for (const tc of tr.children) {
+            if (tc.localName !== 'tc') continue;
+            const tcPr = dziecko(tc, 'tcPr');
+            const span = atrW(dziecko(tcPr, 'gridSpan'), 'val');
+            let w = '';
+            for (const n of tc.children) {
+              if (n.localName === 'p') w += akapit(n, naglowki);
+              else if (n.localName === 'tbl') w += tabela(n, naglowki);
+            }
+            html += '<td' + (span && span !== '1' ? ' colspan="' + span + '"' : '') + '>' + w + '</td>';
+          }
+          html += '</tr>';
+        }
+        return html + '</tbody></table>';
+      }
+
+      function odczytaj(files) {
+        const doc = files['word/document.xml'];
+        if (!doc) throw new Error('W archiwum nie ma pliku word/document.xml');
+        const naglowki = styleNaglowkow(files);
+        const d = X(doc);
+        const body = d.getElementsByTagNameNS(W, 'body')[0];
+        if (!body) throw new Error('Dokument nie ma treści');
+        let html = '';
+        for (const n of body.children) {
+          if (n.localName === 'p') html += akapit(n, naglowki);
+          else if (n.localName === 'tbl') html += tabela(n, naglowki);
+        }
+        return html;
+      }
+
+      function render(html) {
+        el.innerHTML =
+          '<p class="zrodlo">Treść pliku <strong>' + esc(raw) + '.docx</strong>, ' +
+          'wyświetlona w przeglądarce. ' +
+          '<a href="/attachments/' + encodeURIComponent(raw) + '.docx" download>Pobierz plik</a></p>' +
+          html;
+        el.classList.add('loaded');
+        document.dispatchEvent(new CustomEvent('konstela:tresc'));
+      }
+
+      if (!raw) {
+        state('Nie wskazano dokumentu', 'Adres ma postać /doc/nazwa-pliku');
+      } else {
+        state('Wczytywanie');
+        const swiezo = '?t=' + Date.now();
+        fetch('/' + raw + '.docx' + swiezo, { cache: 'reload' })
+          .then(r => (r.ok ? r : fetch('/attachments/' + raw + '.docx' + swiezo, { cache: 'reload' })))
+          .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.arrayBuffer(); })
+          .then(unzip)
+          .then(f => { const h = odczytaj(f); document.title = raw + ' - Nagroda Konstela'; render(h); })
+          .catch(e => state('Nie udało się wczytać dokumentu', e.message));
+      }
+    </script>
+    <script src="/assets/nawigacja.js?v=59b6cc213a" defer></script>
+    <script src="/assets/czytelnosc.js?v=26449de745" defer></script>
+    <script src="/assets/pasek.js?v=4a0bf5df32" defer></script>
+    <script src="/assets/stopka.js?v=fc5b37a787" defer></script>
+  </body>
+</html>

@@ -107,18 +107,6 @@ Sprawdzone lokalnie na symulacji reguły: `/arkusz/budzet-edycji-pierwszej` oraz
 **Uwaga o dwóch polach.** Zmiana członu adresu wymaga poprawienia **dwóch** miejsc w regule: pola `Request URL` oraz pola `Path → Target path`. Zmiana tylko pierwszego z nich powoduje, że wzorzec docelowy nie pasuje do przychodzącej ścieżki, przepisanie się nie wykonuje i serwer oddaje 404. Tak właśnie wyglądał błąd przy przejściu z `/xls/` na `/arkusz/` 25.10.2026. Trzecie miejsce jest poza Cloudflare - wyrażenie w pliku przeglądarki, które wyciąga nazwę ze ścieżki.
 
 
-## Wybór zakładki w adresie arkusza
-
-`view-xlsx.html` otwiera wskazaną zakładkę na dwa sposoby:
-
-- **parametr zapytania:** `/arkusz/budzet-edycji-pierwszej?tab=antologii`
-- **kotwica:** `/arkusz/budzet-edycji-pierwszej#antologii`
-
-Rozpoznawane są `nagrody`, `antologii`, `plebiscytu`, `akademii`, `wyjasnienia` oraz pełne nazwy zakładek w postaci uproszczonej (`budzet-nagrody`). Nieznana wartość otwiera pierwszą zakładkę zamiast pokazywać błąd. Kliknięcie zakładki wpisuje kotwicę do adresu, więc skopiowany adres odtwarza widok.
-
-**Dlaczego dwie postacie.** Kotwica nie dociera do serwera, więc działa niezależnie od reguł przepisujących. Parametr zapytania przechodzi przez regułę tylko wtedy, gdy ta go nie usuwa - w polu `Query → Rewrite to` pusta wartość oznacza według podpowiedzi panelu usunięcie zapytania, a zachowanie przy obu pustych polach nie jest w dokumentacji opisane. **Do sprawdzenia w praktyce:** jeżeli `?tab=antologii` na żywej stronie nie przełącza zakładki, linki w dokumentach należy przestawić na postać z kotwicą; sama przeglądarka arkusza nie wymaga wtedy żadnej zmiany.
-
-
 ## Reguła trzecia: adres dedykowany `/plebiscyt-piosenki`
 
 Utworzona 25.10.2026. Różni się od dwóch poprzednich tym, że nie obsługuje całej rodziny adresów, tylko jeden.
@@ -173,6 +161,36 @@ Utworzona 25.10.2026, zastępuje katalog `piosenka/` z plikiem HTML, który zost
 - W nagłówku strony plebiscytu widnieje **Nagroda Konstela**, a nie Powrót - to znaczy, że odsyłacz nie został podmieniony.
 
 **Limity.** Redirect Rules są liczone osobno od reguł typu Transform. Liczniki obu rodzajów widać w panelu przy tworzeniu reguły - warto tam zajrzeć zamiast ufać liczbie zapisanej w tym pliku.
+
+## Reguła piąta: dokumenty docx pod `/doc/`
+
+Utworzona 29.10.2026, tą samą metodą co reguła arkuszy.
+
+- **Rule name:** `Dokumenty docx - /doc/ na view-docx.html`
+- **If incoming requests match:** Wildcard pattern
+- **Request URL:** `https://konstela.org/doc/*`
+- **Path → Target path:** `doc/*`
+- **Path → Rewrite to:** `view-docx.html`
+- **Query → Target query:** puste
+- **Query → Rewrite to:** puste
+
+`view-docx.html` odczytuje nazwę pliku ze ścieżki `/doc/<nazwa>`, obcina ukośnik na końcu oraz końcówkę `.docx`, jeżeli ktoś ją wpisze, i pobiera plik najpierw od korzenia, a potem z `/attachments/`. Treść rozpakowuje tak samo jak przeglądarka arkuszy: docx to archiwum ZIP, więc `DecompressionStream('deflate-raw')` plus `DOMParser` wystarczają i nie ma tu żadnej biblioteki zewnętrznej. Renderowane są akapity, pogrubienia, kursywa, podkreślenia, wyrównanie, proste listy i tabele; nagłówki rozpoznawane są po stylach z `word/styles.xml`. Stara postać `view-docx.html?file=` działa tak samo.
+
+Sprawdzone lokalnie na symulacji reguły: `/doc/mk-list-intencyjny` i `/doc/antologia-list-intencyjny` pokazują treść pism wraz z odnośnikiem do pobrania pliku, a nieistniejąca nazwa - komunikat o błędzie wczytywania.
+
+**Pogrubienia w plikach z python-docx.** Biblioteka zapisuje `bold = False` jako `<w:b w:val="0"/>`, więc samo istnienie znacznika `w:b` nie oznacza pogrubienia. Przeglądarka sprawdza wartość atrybutu i traktuje `0`, `false` oraz `off` jako wyłączenie. Bez tego cały dokument renderował się pogrubiony.
+
+## Wybór zakładki w adresie arkusza
+
+`view-xlsx.html` otwiera wskazaną zakładkę na dwa sposoby:
+
+- **parametr zapytania:** `/arkusz/budzet-edycji-pierwszej?tab=antologii`
+- **kotwica:** `/arkusz/budzet-edycji-pierwszej#antologii`
+
+Rozpoznawane są `nagrody`, `antologii`, `plebiscytu`, `akademii`, `wyjasnienia` oraz pełne nazwy zakładek w postaci uproszczonej (`budzet-nagrody`). Nieznana wartość otwiera pierwszą zakładkę zamiast pokazywać błąd. Kliknięcie zakładki wpisuje kotwicę do adresu, więc skopiowany adres odtwarza widok.
+
+**Dlaczego dwie postacie.** Kotwica nie dociera do serwera, więc działa niezależnie od reguł przepisujących. Parametr zapytania przechodzi przez regułę tylko wtedy, gdy ta go nie usuwa - w polu `Query → Rewrite to` pusta wartość oznacza według podpowiedzi panelu usunięcie zapytania, a zachowanie przy obu pustych polach nie jest w dokumentacji opisane. **Do sprawdzenia w praktyce:** jeżeli `?tab=antologii` na żywej stronie nie przełącza zakładki, linki w dokumentach należy przestawić na postać z kotwicą; sama przeglądarka arkusza nie wymaga wtedy żadnej zmiany.
+
 
 ## Po wprowadzeniu stron generowanych: reguły pierwsza i trzecia do skasowania
 
