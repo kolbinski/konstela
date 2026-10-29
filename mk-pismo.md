@@ -111,7 +111,7 @@ Wymieniam podcast w tym miejscu, ponieważ wpływa on na pierwsze z moich pytań
 
 Obecnie przedsięwzięcie jest w fazie zalążkowej. Żadnego z plebiscytów nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników.
 
-Organizatorem ma być fundacja powoływana wyłącznie w tym celu. Projekt jej statutu jest gotowy, natomiast wizytę u notariusza i wpis do rejestru planuję po zabezpieczeniu finansowania, zgodnie z zasadą, że przed jego pozyskaniem nie podejmuję zobowiązań finansowych; do chwili wpisu jedynym możliwym wnioskodawcą jest prowadzona przeze mnie jednoosobowa działalność gospodarcza. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne nie wnioskowałem.
+Organizatorem ma być fundacja powoływana wyłącznie w tym celu. Projekt jej statutu jest gotowy, natomiast wizytę u notariusza i wpis do rejestru planuję po zabezpieczeniu finansowania. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne jeszcze nie wnioskowałem.
 
 Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzących: **tryb czytelności włączany jednym przyciskiem**, w którym pismo w całym serwisie ma wielkość wyraźnie czytelną, a układ sprowadza się do czarnego tekstu na białym tle. **Regulaminy i karty oceny publikujemy jako tekst czytelny dla czytnika ekranu, a nie jako pliki do pobrania.** Rozwiązania te opisuje rozdział 13 załączonej noty.
 
