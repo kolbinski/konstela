@@ -335,7 +335,7 @@ Sesja studyjna jest przy tym **ofertą dla każdego z dziesięciu finalistów, a
 
 Relacja między jednym i drugim jest ścisła: strona Nagrody prezentuje zgłoszenia w postaci, w jakiej napłynęły, i odpowiada Archiwum rozmów, a płyta odpowiada antologii, czyli porządnemu wydaniu tego samego materiału. Prawa do utworów i do nagrań pozostają przy ich autorach. **Płyta nie jest wklejana do wydania książkowego antologii**: na tyle okładki znajduje się kod QR prowadzący do nagrań, a płyta jest dystrybuowana cyfrowo i na streamingu.
 
-Rozwiązanie to przyjąłem dlatego, że wklejony krążek wiązałby wydanie książki z umową z wydawnictwem muzycznym, a książka ma być dostępna w księgarniach bezpośrednio po gali. **Zastrzegam przy tym, że takiego partnera jeszcze nie ma** - bez niego powstają nagrania, lecz nie powstaje wydanie płytowe. Podczas gali nagrody otrzymuje czołowa trójka, a nazwiska pozostałej siódemki zostają wyczytane - analogicznie do Nagrody, gdzie medal otrzymuje laureat, a dyplomy cała dziesiątka finalistów.
+Rozwiązanie to przyjąłem dlatego, że wklejony krążek wiązałby wydanie książki z umową z wydawnictwem muzycznym, a książka ma być dostępna w księgarniach bezpośrednio po gali. **Zastrzegam przy tym, że takiego partnera jeszcze nie ma** - bez niego powstają nagrania, lecz nie powstaje wydanie płytowe.
 
 ### Teledysk nie jest ozdobą
 
