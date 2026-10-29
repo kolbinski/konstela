@@ -113,7 +113,7 @@ def wydawca():
     akapit(d, 'Pan Krzysztof Olbiński')
     akapit(d, 'ul. 11 Listopada 12/1')
     akapit(d, '98-200 Sieradz', po=14)
-    akapit(d, '**OŚWIADCZENIE O WSTĘPNYM ZAINTERESOWANIU**',
+    akapit(d, '**LIST INTENCYJNY**',
            align=WD_ALIGN_PARAGRAPH.CENTER, po=14)
     J = WD_ALIGN_PARAGRAPH.JUSTIFY
     akapit(d, 'Wydawnictwo zapoznało się z przedstawioną propozycją wydawniczą antologii Nagrody '
@@ -123,10 +123,10 @@ def wydawca():
     akapit(d, 'Wydawnictwo stwierdza, że tematyka propozycji mieści się w obszarze jego '
               'zainteresowań wydawniczych, i deklaruje **wstępne zainteresowanie oraz gotowość '
               'rozważenia wydania tomu** po otrzymaniu kompletnego materiału.', align=J)
-    akapit(d, 'Niniejsze oświadczenie nie przesądza o decyzji wydawniczej. Wydawnictwo podejmie ją '
+    akapit(d, 'Niniejszy list nie przesądza o decyzji wydawniczej. Wydawnictwo podejmie ją '
               'po zapoznaniu się z pełnym maszynopisem, zgodnie z własnym trybem kwalifikowania '
               'tytułów, i nie jest zobowiązane do wydania tomu ani do zawarcia jakiejkolwiek umowy. '
-              'Oświadczenie nie zawiera zobowiązania finansowego, nie stanowi umowy wydawniczej ani '
+              'List nie zawiera zobowiązania finansowego, nie stanowi umowy wydawniczej ani '
               'przyrzeczenia jej zawarcia i nie ustala warunków ewentualnej współpracy.', align=J)
     akapit(d, 'Adresat może posługiwać się niniejszym pismem w kontaktach z potencjalnymi partnerami '
               'i fundatorami Nagrody oraz publikować jego treść w całości, bez cytowania fragmentów '
