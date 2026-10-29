@@ -31,7 +31,7 @@ Dla tej nagrody powstała dedykowana jej strona internetowa [konstela.org](https
 
 ## Co powstaje z Nagrody Konstela
 
-Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do resortu kultury. W każdej edycji powstaje:
+Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do Ministerstwa Kultury i Dziedzictwa Narodowego. W każdej edycji powstaje:
 
 1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury.
 2. **Film o sztucznej inteligencji** - dziesięć najlepszych filmów o długości od 20 do 90 minut, które bez Nagrody Konstela by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi kinowemu oraz stacji telewizyjnej lub serwisowi streamingowemu, przy czym partnerów takich jeszcze nie mam i piszę o tym wprost.
@@ -70,7 +70,7 @@ Drugim działaniem jest otwarty plebiscyt na plakat o sztucznej inteligencji, wy
 
 Zgłasza się zdjęcie albo skan pracy, oryginały nadsyłają dopiero finaliści, a prawa pozostają przy autorach. Praca zwycięska trafia na okładkę antologii, co jest zapowiedzianym z góry warunkiem udziału, a oryginały dziesiątki finałowej pokazywane są na wystawie towarzyszącej gali, z transportem w obie strony na koszt organizatora.
 
-Dwie konsekwencje dotyczą harmonogramu całego przedsięwzięcia: werdykt zapada przed galą, ponieważ antologia ma na niej premierę już ze zwycięską okładką, a nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją. Plakat wymieniam w piśmie do resortu kultury również dlatego, że jest dziedziną o rozpoznawalnym polskim dorobku.
+Dwie konsekwencje dotyczą harmonogramu całego przedsięwzięcia: werdykt zapada przed galą, ponieważ antologia ma na niej premierę już ze zwycięską okładką, a nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją. Plakat wymieniam w niniejszym piśmie również dlatego, że jest dziedziną o rozpoznawalnym polskim dorobku.
 
 Weryfikację ręcznego wykonania, zakresy licencji, zasady wystawy galeryjnej wraz z cichą licytacją oryginałów i kosztorys opisuje **rozdział 8 załączonej noty koncepcyjnej, „Plebiscyt na plakat"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#8-plebiscyt-na-plakat](https://konstela.org/dokument/mk-nota-koncepcyjna/#8-plebiscyt-na-plakat).
 
