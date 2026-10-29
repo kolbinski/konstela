@@ -242,6 +242,8 @@ Pozycje objęte pytaniem sumują się dziś do **665 880,00 zł** i jest to suma
 
 Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film) przy odpowiednich kosztorysach.
 
+Lista obejmuje wyłącznie pozycje objęte pytaniem. Plebiscyt na rozmowę ma własne pozycje czekające na wycenę - honoraria jury za ocenę, honoraria jury za etap przygotowawczy i ubezpieczenie OC organizatora - ale są one poza zakresem pytania i mają być finansowane z innych źródeł.
+
 ## 7. Plebiscyt na piosenkę
 
 To jest ta część przedsięwzięcia, w odniesieniu do której pytam o drogę finansowania. Dlaczego nie jest ona oprawą artystyczną plebiscytu na rozmowę ze sztuczną inteligencją, lecz drugim postawieniem tej samej tezy, wyjaśnia [rozdział 2](#2-problem-ktory-adresujemy).
