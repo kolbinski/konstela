@@ -1,4 +1,4 @@
-# Treść wiadomości do MKiDN w eDoręczeniach
+# List do MKiDN
 
 **Temat:** Nagroda Konstela - prośba o list intencyjny i o wskazanie drogi finansowania części artystycznej
 

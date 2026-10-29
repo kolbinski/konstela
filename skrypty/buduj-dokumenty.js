@@ -148,7 +148,7 @@ const DEDYKOWANE = {
    przeglądarki zostaje sama nazwa pliku. */
 const TYTULY = {
   'mk-pismo': 'Pismo do MKiDN',
-  'mk-list': 'Treść wiadomości do MKiDN',
+  'mk-list': 'List do MKiDN',
 };
 
 const OPISY = {
