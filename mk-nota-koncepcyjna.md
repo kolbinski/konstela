@@ -552,7 +552,7 @@ Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezp
 Podcast planowany jest z dwoma stałymi cyklami.
 
 - „**Pierwszy raz z AI**" - rozmowa z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji. Pytamy nie o wrażenia, lecz o to, co ta osoba naprawdę chciała wiedzieć. Teza do sprawdzenia: najlepsze pytania zadają ludzie mający prawdziwy problem, a nie ci, którzy znają narzędzie.
-- „**NAIstolatek**" - odcinki nagrywane z nastolatkami, o tym, jak formułują pytania ci, dla których te narzędzia są codziennością. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją.
+- „**NAIstolatek**" - odcinki nagrywane z nastolatkami, o tym, jak formułują pytania ci, dla których te narzędzia są codziennością.
 
 **Finansowanie.** Produkcja wraz z honorarium prowadzącego jest dziś pozycją budżetu Antologii, czyli obciąża sponsora tej części. Podcast mieści się jednak w zakresie pytania skierowanego do Ministerstwa: proszę o wskazanie właściwej drogi finansowania również dla niego, ponieważ dwa cykle mają dwóch różnych adresatów - osoby bez doświadczenia z czatami AI oraz młodzież - a to może oznaczać, że właściwy jest inny program niż dla trzech plebiscytów artystycznych albo że zadanie wymaga podziału. Jeżeli wskazana droga okaże się dostępna, wyłączę tę pozycję z rozmowy ze sponsorem Antologii, zgodnie z zasadą, że o tę samą pozycję nie zwracam się jednocześnie do dwóch źródeł.
 
