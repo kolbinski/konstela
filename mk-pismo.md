@@ -70,7 +70,7 @@ Reguły weryfikacji, zakres licencji, konstrukcję oceny i kosztorys opisuje **r
 
 Drugim działaniem jest otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie dowolną techniką tradycyjną, adresowany do twórców rozwijających własną praktykę, bez pytania o wystawy i dyplomy. Obowiązuje tu reguła ostrzejsza niż w plebiscycie na piosenkę: obraz ma powstać pod ludzką ręką, a niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wygenerowanego albo domalowanej na wydrukowanym podkładzie.
 
-Zgłasza się zdjęcie albo skan pracy, oryginały nadsyłają dopiero finaliści, a prawa pozostają przy autorach. Praca zwycięska trafia na okładkę antologii, co jest zapowiedzianym z góry warunkiem udziału, a oryginały dziesiątki finałowej pokazywane są na wystawie towarzyszącej gali, z transportem w obie strony na koszt organizatora.
+Zgłasza się zdjęcie albo skan pracy, oryginały nadsyłają dopiero finaliści, a prawa pozostają przy autorach. Praca zwycięska trafia na okładkę antologii, a oryginały dziesiątki finałowej pokazywane są na wystawie towarzyszącej gali.
 
 Dwie konsekwencje dotyczą harmonogramu całego przedsięwzięcia: werdykt zapada przed galą, ponieważ antologia ma na niej premierę już ze zwycięską okładką, a nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją. Plakat wymieniam w niniejszym piśmie również dlatego, że jest dziedziną o rozpoznawalnym polskim dorobku.
 
