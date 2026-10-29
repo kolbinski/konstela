@@ -73,7 +73,7 @@ Czwartym działaniem jest nagranie hymnu przedsięwzięcia do tekstu „Zapytaj 
 
 ### Podcast towarzyszący Nagrodzie
 
-Piątym działaniem jest podcast towarzyszący Nagrodzie: dwadzieścia cztery odcinki publikowane co dwa tygodnie przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, a nie organizator, ponieważ nazwisko prowadzącego zmienia odbiór, a organizator prowadzący podcast o własnej nagrodzie byłby wyłącznie jej reklamą.
+Piątym działaniem jest podcast towarzyszący Nagrodzie: cykliczne odcinki publikowane przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, a nie organizator, ponieważ nazwisko prowadzącego zmienia odbiór, a organizator prowadzący podcast o własnej nagrodzie byłby wyłącznie jej reklamą.
 
 Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co człowiek napisze w kolejnym pytaniu. Prowadzący kwestionuje samo pytanie gościa, zanim ten je wyśle, i proponuje inne: czy rzeczywiście chcesz zapytać o to, czy raczej poszukać nieoczywistego połączenia z czymś, co pozornie do tematu nie należy. Odcinek pokazuje więc na żywo to, co Nagroda ocenia w zgłoszeniach i co opisuje jawna karta oceny: rozpiętość skojarzeń, drążenie i weryfikowanie odpowiedzi. Jest to format edukacyjny ubrany w rozmowę, a nie przegląd możliwości narzędzi.
 
