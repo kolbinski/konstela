@@ -72,8 +72,6 @@ Drugim działaniem jest otwarty plebiscyt na plakat o sztucznej inteligencji, wy
 
 Zgłasza się zdjęcie albo skan pracy, oryginały nadsyłają dopiero finaliści, a prawa pozostają przy autorach. Praca zwycięska trafia na okładkę antologii, a oryginały dziesiątki finałowej pokazywane są na wystawie towarzyszącej gali.
 
-Dwie konsekwencje dotyczą harmonogramu całego przedsięwzięcia: werdykt zapada przed galą, ponieważ antologia ma na niej premierę już ze zwycięską okładką, a nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją. Plakat wymieniam w niniejszym piśmie również dlatego, że jest dziedziną o rozpoznawalnym polskim dorobku.
-
 Weryfikację ręcznego wykonania, zakresy licencji, zasady wystawy galeryjnej wraz z cichą licytacją oryginałów i kosztorys opisuje **rozdział 8 załączonej noty koncepcyjnej, „Plebiscyt na plakat"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#8-plebiscyt-na-plakat](https://konstela.org/dokument/mk-nota-koncepcyjna/#8-plebiscyt-na-plakat).
 
 ### Plebiscyt na film o sztucznej inteligencji
