@@ -230,6 +230,8 @@ Ostatnia kolumna zestawienia mówi, czy pozycja mieści się w zakresie mojego p
 
 Jest to budżet przygotowany dla partnerów, jakich będę poszukiwał, a nie kosztorys wydatków kwalifikowanych programu: zawiera narzut wykonawcy i doliczany automatycznie VAT. Ewentualny wniosek zostanie opracowany według zasad właściwego programu, z uwzględnieniem statusu VAT wnioskodawcy.
 
+VAT w arkuszu jest podatkiem doliczanym do faktur wystawianych sponsorom, a nie kosztem zadania. W kosztorysie wniosku VAT podlegający odliczeniu kosztem kwalifikowanym nie jest i tak zostanie w nim policzony.
+
 Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
 Pozycje objęte pytaniem sumują się dziś do **660 952,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **157 360,00 zł na 2027 rok** i **503 592,00 zł na 2028 rok**.
@@ -321,7 +323,7 @@ Odróżniam je od **pracy przy dotarciu do wykonawców**, która jest wyceniona 
 
 ### Podatek
 
-Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem (art. 30 ust. 1 pkt 2 ustawy o podatku dochodowym od osób fizycznych). Kwoty w tabeli są kwotami nagród; decyzja, czy podatek obciąża nagrodę, czy jest doliczany ponad nią, nie została jeszcze podjęta i w drugim wariancie podnosi pozycje nagrodowe o około 4,3 tys. zł.
+Nagrody w plebiscytach są w rozumieniu ustawy o podatku dochodowym od osób fizycznych nagrodami w konkursach i podlegają zryczałtowanemu podatkowi w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2). Nie dotyczy to jednak każdej pozycji: przy nagrodach z dziedziny kultury i sztuki, których jednorazowa wartość nie przekracza 2 000 zł, w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68 tej ustawy - co obejmowałoby nagrody publiczności. Sposób opodatkowania każdej nagrody ustalę z księgowym przed otwarciem naboru, dla każdego świadczenia osobno, a nie jedną stawką dla całego budżetu. Kwoty w tabeli są kwotami nagród; decyzja, czy podatek obciąża nagrodę, czy jest doliczany ponad nią, nie została jeszcze podjęta i w drugim wariancie podnosi pozycje nagrodowe o około 4,3 tys. zł.
 
 ### Honoraria jury
 
@@ -446,7 +448,7 @@ Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu
 
 ### Czego kosztorys nie obejmuje
 
-Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa plebiscytu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w [rozdziale 7](#7-plebiscyt-na-piosenke).
+Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa plebiscytu. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrody publiczności - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
 
 ## 9. Plebiscyt na film
 
@@ -617,6 +619,19 @@ Pomysłodawcą i organizatorem Nagrody jest Krzysztof Olbiński, inżynier oprog
 Organizatorem w sensie prawnym będzie Fundacja Konstela, powołana wyłącznie do prowadzenia Nagrody i wpisana do Krajowego Rejestru Sądowego przed otwarciem zgłoszeń. Organem sprawującym nadzór nad Fundacją będzie minister właściwy ze względu na jej cele.
 
 Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat od uczestników.
+
+### Kto wykona poszczególne części
+
+Przedsięwzięcia tej skali nie prowadzi się jednoosobowo i nie udaję, że będę je prowadził sam. Poniżej wymieniam role wykonawcze wraz ze skutkiem, jaki ma brak każdej z nich. Żadna z tych umów nie jest dziś zawarta.
+
+- **partner wydawniczy** - produkcja i dystrybucja antologii oraz wydanie płytowe. Bez niego powstaje bezpłatny e-book i krótki nakład na galę oraz nagrania studyjne, ale nie powstaje wydanie księgarskie ani płyta.
+- **koordynator wydania i moderacji** - osoba zatrudniona na pierwszy kwartał 2028 roku, od zamknięcia zgłoszeń do premiery. Bez niej terminy produkcji antologii przestają być realne i trzeba przesunąć galę.
+- **kancelaria** - regulaminy, licencje, archiwum, umowy z jury i wykonawcami. Bez konsultacji prawnej nie otwieram naboru; jest to warunek, nie preferencja.
+- **agencja kreatywna** - docelowa strona Nagrody. Bez niej nabór prowadzi strona w obecnej, roboczej postaci.
+- **studio nagraniowe i realizator** - nagrania dziesiątki finalistów oraz hymn z teledyskiem. Bez nich plebiscyt na piosenkę kończy się na werdykcie, bez nagrań.
+- **producent wykonawczy gali** - sala, technika, rejestracja, prowadzenie. Bez niego regulaminy przewidują ogłoszenie wyników na stronie i wykonanie wszystkich nagród bez gali.
+- **galeria sztuki** - druga wystawa prac finałowych wraz z wernisażem. Bez niej zostaje wystawa przy gali, a dalszego pokazania prac nie obiecuję.
+- **dystrybutor kinowy, nadawca lub serwis** - pokazy i emisja zestawu filmów finałowych. Bez nich filmy pozostają na kanałach autorów i w Archiwum, a pokazów nie zapowiadam.
 
 ## Kontakt
 

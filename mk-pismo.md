@@ -35,7 +35,7 @@ Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do
 
 W każdej edycji powstaje:
 
-1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury; bezpłatny e-book powstaje niezależnie od partnera wydawniczego, a zainteresowanie wydaniem książkowym wyraziły dotąd dwa wydawnictwa, z którymi rozmowy są na wczesnym etapie.
+1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury; bezpłatny e-book powstaje niezależnie od partnera wydawniczego, a zainteresowanie wydaniem książkowym wyraziły dotąd dwa wydawnictwa, z którymi rozmowy są na wczesnym etapie. E-book i krótki nakład na galę są zobowiązaniem organizatora od chwili otwarcia edycji, a dziś - jak cała część wydawnicza - nie mają jeszcze zabezpieczonego finansowania.
 2. **Film o sztucznej inteligencji** - dziesięć najlepszych filmów o długości od 20 do 90 minut, które bez Nagrody Konstela by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi kinowemu oraz stacji telewizyjnej lub serwisowi streamingowemu, przy czym partnerów takich jeszcze nie mam i piszę o tym wprost.
 3. **Piosenka o sztucznej inteligencji** - nagrania studyjne najlepszych piosenek stworzonych na potrzeby edycji, finansowane przez organizatora, z prawami pozostającymi przy autorach; wydanie płytowe zależy od pozyskania partnera wydawniczego.
 4. **Plakat o sztucznej inteligencji** - dziesięć prac wykonanych ręcznie, pokazywanych na wystawie towarzyszącej gali; praca zwycięska trafia na okładkę antologii. Prace finałowe chcę pokazać po gali po raz drugi, na wystawie w galerii sztuki otwieranej wernisażem - galerii jeszcze nie mam, więc tego nie obiecuję w regulaminie.
@@ -46,7 +46,9 @@ Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgł
 
 Archiwa, antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
 
-Patrzę na to także dłużej niż na jedną edycję. Pierwsze lata powszechnego użycia sztucznej inteligencji nie zostawiają po sobie prawie żadnego śladu: rozmowy znikają razem z kontem u dostawcy, a to, co o nich powstaje, rozprasza się w obiegu bieżącym. Nagroda Konstela gromadzi w jednym miejscu wytwory, które ten moment utrwalają - rozmowy warte publikacji wraz z komentarzem jury, filmy zrealizowane specjalnie na tę okoliczność, piosenki i wykonane ręcznie plakaty - i zachowuje je bezterminowo. **Zbiór ma być czytelny nie tylko dziś, lecz także za kilkadziesiąt lat: jako zapis tego, co ludzie w Polsce myśleli o sztucznej inteligencji wtedy, gdy wchodziła do ich życia.** Z każdą kolejną edycją przybywa jeden rocznik takiego zapisu.
+Patrzę na to także dłużej niż na jedną edycję. Pierwsze lata powszechnego użycia sztucznej inteligencji nie zostawiają po sobie prawie żadnego śladu: rozmowy znikają razem z kontem u dostawcy, a to, co o nich powstaje, rozprasza się w obiegu bieżącym. Nagroda Konstela gromadzi w jednym miejscu wytwory, które ten moment utrwalają - rozmowy warte publikacji wraz z komentarzem jury, filmy zrealizowane specjalnie na tę okoliczność, piosenki i wykonane ręcznie plakaty. **Zbiór ma być czytelny nie tylko dziś, lecz także za kilkadziesiąt lat: jako zapis tego, co ludzie w Polsce myśleli o sztucznej inteligencji wtedy, gdy wchodziła do ich życia.**
+
+Mówię przy tym wprost, czego trwałość dotyczy. Bezterminowo zachowuję to, co jest u organizatora: zapisy zgłoszonych rozmów wraz z komentarzem jury, antologię, reprodukcje plakatów i nagrania studyjne finalistów - w zakresie udzielonych licencji. Filmy i piosenki pozostają natomiast na kanałach swoich autorów, którzy mogą je w każdej chwili usunąć; Archiwum zachowuje wtedy wpis, opis i punktację, a nie samo dzieło. Jest to świadomy wybór: organizator nie przechowuje kopii cudzych filmów i nie odbiera autorom kontroli nad nimi. Z każdą kolejną edycją przybywa jeden rocznik takiego zapisu.
 
 ## Część pierwsza: prośba o list intencyjny
 
@@ -56,7 +58,9 @@ Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się ni
 
 ## Część druga: prośba o wskazanie drogi finansowania części artystycznej
 
-Częścią artystyczną przedsięwzięcia są powiązane działania - trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie hymnu [konstela.org/hymn](https://konstela.org/hymn/) - do których dochodzi piąte, o charakterze popularyzatorskim.
+Częścią artystyczną przedsięwzięcia są cztery powiązane działania: trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie hymnu [konstela.org/hymn](https://konstela.org/hymn/). Dochodzi do nich piąte działanie, o charakterze popularyzatorskim - podcast - które wymieniam osobno właśnie dlatego, że artystyczne nie jest.
+
+Do zakresu mojego pytania należą także te elementy gali, które są rezultatem tych działań: koncert finałowy, wystawa prac finałowych i emisja zwiastunów filmów. **Poza zakresem pytania są: plebiscyt na najlepszą rozmowę ze sztuczną inteligencją wraz z pulą nagród, antologia i Archiwum, pierwsze przejście oceny prowadzone przez akademię, sama gala jako wydarzenie oraz wystawa w galerii sztuki wraz z cichą licytacją.** Te pozycje mają własne źródła finansowania i wymieniam je, aby było widoczne, że o te same koszty nie zwracam się jednocześnie do dwóch źródeł. Przypisanie każdej pozycji - wraz z rokiem kosztu i podziałem kwot na 2027 i 2028 - pokazuje kolumna „W zakresie pytania do MKiDN" w załączonym zestawieniu zadania.
 
 ### Plebiscyt na piosenkę o sztucznej inteligencji
 
@@ -146,6 +150,8 @@ Proszę o potwierdzenie statusu wnioskodawcy. Specyfikacja programu Muzyka na ro
 Jeżeli zasady naboru wniosków na rok 2027 nie zostały jeszcze ogłoszone, proszę o wskazanie, gdzie zostaną opublikowane warunki dotyczące uprawnionych wnioskodawców, oraz czy zasada ta obowiązuje analogicznie w pozostałych rozważanych programach. Proszę również o wskazanie, czy fundacja musi być wpisana do Krajowego Rejestru Sądowego najpóźniej w dniu złożenia wniosku i czy obowiązuje wymóg minimalnego okresu jej działalności.
 
 Dodam, że działalność gospodarczą i fundację rozważam jako **alternatywnych wnioskodawców**, a nie jako następstwo - nie zakładam dopuszczalności przejęcia przez fundację zadania rozpoczętego przez moją działalność i o taką możliwość nie wnoszę.
+
+Proszę przy tym o stanowisko w sprawie, która dla wyboru wnioskodawcy jest rozstrzygająca. Specyfikacje programów na rok 2026 wyłączają z finansowania ze środków Ministra honoraria i wynagrodzenia osoby prowadzącej działalność gospodarczą, która sama jest beneficjentem. W kosztorysie przedsięwzięcia praca organizatora jest pozycją istotną - przy niej leży obsługa naboru, akademii i jury. **Proszę o wskazanie, czy przy wnioskodawcy będącym jednoosobową działalnością gospodarczą wynagrodzenie organizatora może stanowić koszt zadania, a jeżeli nie - czy przy wnioskodawcy będącym fundacją wynagrodzenie osoby wykonującej te czynności na jej rzecz jest kosztem dopuszczalnym.** Odpowiedź na to pytanie decyduje o formie, w jakiej będę składał ewentualny wniosek.
 
 ## Pytanie 3: czy Nagroda Konstela może być zadaniem dwuletnim w latach 2027-2028
 
