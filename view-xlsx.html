@@ -905,8 +905,13 @@
         // załącznikami pism i trzymamy je osobno, żeby było widać, co
         // fizycznie idzie do urzędu. Adres pozostaje krótki: szukamy
         // najpierw w korzeniu, a gdy go tam nie ma, w załącznikach.
-        fetch('/' + raw + '.xlsx')
-          .then(r => (r.ok ? r : fetch('/attachments/' + raw + '.xlsx')))
+        // `cache: 'reload'` pomija pamięć podręczną przeglądarki i wymusza
+        // sprawdzenie u serwera. Bez tego arkusz poprawiony na serwerze
+        // pokazywał się w starej postaci, bo adres pliku nie ma znacznika
+        // wersji - a znacznika nie da się tu dopisać, skoro nazwę arkusza
+        // podaje adres strony.
+        fetch('/' + raw + '.xlsx', { cache: 'reload' })
+          .then(r => (r.ok ? r : fetch('/attachments/' + raw + '.xlsx', { cache: 'reload' })))
           .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.arrayBuffer(); })
           .then(unzip)
           .then(f => { const a = odczytaj(f); document.title = raw + ' - Nagroda Konstela'; render(a); })
