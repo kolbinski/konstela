@@ -200,8 +200,6 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 
 Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej) i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą. Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli.
 
-Od 26 października 2026 roku zakres sponsora akademii obejmuje pierwsze przejście oceny we wszystkich kategoriach, a nie tylko czytanie rozmów; doszło do niego oglądanie filmów, które jest w tej pozycji kosztem największym i najszybciej rosnącym.
-
 Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny.
 
 Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
