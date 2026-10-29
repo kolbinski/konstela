@@ -139,5 +139,5 @@ konstela.org
 
 ## Załączniki
 1. Nagroda Konstela - nota koncepcyjna; wersja online: https://konstela.org/dokument/mk-nota-koncepcyjna/
-2. Zestawienie zadania: co, w którym roku, z czego i o co pytam - arkusz kalkulacyjny
+2. Zestawienie zadania: co, w którym roku, z czego i o co pytam - arkusz kalkulacyjny; wersja online: https://konstela.org/arkusz/zestawienie-zadania
 3. Projekt listu intencyjnego; wersja online: https://konstela.org/dokument/mk-list-intencyjny/
