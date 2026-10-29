@@ -6,9 +6,12 @@
 
 Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji, otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie, oraz otwarty plebiscyt na film o sztucznej inteligencji. Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w rozdziale 2, a ich konstrukcja i kosztorysy w rozdziałach 7, 8 i 9.
 
-**Proszę o dwie rzeczy, niezależne od siebie.** Pierwsza: **list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora.
+**Proszę o dwie rzeczy, niezależne od siebie:**
 
-Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. Druga: **wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.** Obie prośby wraz z pytaniami formalnymi są postawione w piśmie przewodnim, do którego ta nota jest załącznikiem.
+1.  **List intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody.
+2.  **Wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.**
+
+Obie prośby wraz z pytaniami formalnymi są postawione w piśmie przewodnim, do którego ta nota jest załącznikiem.
 
 ---
 
