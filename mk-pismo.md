@@ -109,7 +109,7 @@ Wymieniam podcast w tym miejscu, ponieważ wpływa on na pierwsze z moich pytań
 
 ## Na jakim etapie jest przedsięwzięcie
 
-Mówię otwarcie, na jakim etapie jest przedsięwzięcie, ponieważ przesądza to o treści moich pytań. Żadnego z plebiscytów nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników.
+Obecnie przedsięwzięcie jest w fazie zalążkowej. Żadnego z plebiscytów nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników.
 
 Organizatorem ma być fundacja powoływana wyłącznie w tym celu. Projekt jej statutu jest gotowy, natomiast wizytę u notariusza i wpis do rejestru planuję po zabezpieczeniu finansowania, zgodnie z zasadą, że przed jego pozyskaniem nie podejmuję zobowiązań finansowych; do chwili wpisu jedynym możliwym wnioskodawcą jest prowadzona przeze mnie jednoosobowa działalność gospodarcza. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne nie wnioskowałem.
 
