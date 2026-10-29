@@ -545,7 +545,7 @@ Pozostałe zgłoszenia są prezentowane na stronie przez cały rok trwania nabor
 
 ## 11. Podcast towarzyszący
 
-Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, nie organizator - z tego samego powodu, dla którego jury plebiscytu tworzą muzycy, a nie my: nazwisko zmienia odbiór, a organizator mówiący o własnej nagrodzie jest wyłącznie jej reklamą.
+Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezpłatnie i bez ograniczeń dostępu. Prowadzi go autor popularyzatorski, nie organizator.
 
 **Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka.** Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne: czy na pewno chcesz zapytać o to, czy raczej poszukać nieoczywistego połączenia z czymś, co pozornie do tematu nie należy. To jest dokładnie ta praca, którą mierzy jawna karta oceny Nagrody - rozpiętość, drążenie i weryfikacja - pokazana na żywo, zamiast opisana w regulaminie. Podcast nie jest więc przeglądem możliwości narzędzi i świadomie nim nie będzie.
 
