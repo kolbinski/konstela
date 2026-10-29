@@ -31,7 +31,7 @@ Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się ni
 
 Część druga: prośba o wskazanie drogi finansowania części artystycznej.
 
-Częścią artystyczną przedsięwzięcia są cztery powiązane działania - trzy otwarte konkursy oraz nagranie hymnu - do których dochodzi piąte, o charakterze popularyzatorskim.
+Częścią artystyczną przedsięwzięcia są cztery powiązane działania - trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie [hymnu](https://konstela.org/hymn/) - do których dochodzi piąte, o charakterze popularyzatorskim.
 
 Pierwszym działaniem jest otwarty plebiscyt na piosenkę o sztucznej inteligencji i jej roli w świecie. Uczestnicy nadsyłają utwory własne: własny tekst, własną muzykę i własne wykonanie, przy czym dopuszczalne są zgłoszenia zespołowe, w których autor tekstu, kompozytor i wykonawca są różnymi osobami - zgłoszenie wskazuje wówczas osobę reprezentującą cały skład. Plebiscyt jest adresowany do wykonawców półprofesjonalnych, to jest osób, które piszą i grają, mają własną publiczność, ale nie są artystami o ustalonej pozycji rynkowej. Zgłasza się czytelne nagranie demonstracyjne, nie gotowy singiel, aby wysokość kosztów produkcji nie decydowała o tym, kto może wziąć udział. Zwycięzcę wybiera jury, nie głosowanie publiczności, a kryteria oceny są ogłaszane przed naborem.
 
