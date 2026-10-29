@@ -296,7 +296,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    b) nagrodę publiczności, o której mowa w § 11a;
 
-   c) **medal Nagrody Konstela z pieczęcią, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów. Medal jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
+   c) **medal Nagrody Konstela, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów. Medal jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
 
    d) prezentację zwiastuna filmu podczas gali, na zasadach z § 10.
 

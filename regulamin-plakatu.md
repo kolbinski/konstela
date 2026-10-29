@@ -316,7 +316,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
    b) nagroda publiczności;
 
-   c) **medal Nagrody Konstela z pieczęcią, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów;
+   c) **medal Nagrody Konstela, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów;
 
    d) wykorzystanie pracy zwycięskiej jako okładki antologii danej edycji.
 

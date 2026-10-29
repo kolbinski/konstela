@@ -396,7 +396,7 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
    b) dwie nagrody publiczności, o których mowa w § 11 ust. 1;
 
-   c) **medal Nagrody Konstela z pieczęcią, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów. Medal jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
+   c) **medal Nagrody Konstela, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów. Medal jest tą samą nagrodą fizyczną, którą otrzymują zwycięzcy pozostałych plebiscytów Nagrody Konstela;
 
    d) nagranie studyjne, o którym mowa w § 13, dla każdego z dziesięciu finalistów.
 
