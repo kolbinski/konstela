@@ -40,7 +40,9 @@ Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do
 
 Nie napotkałem dotąd polskojęzycznego, jawnego zbioru zapisów rzeczywistych rozmów człowieka ze sztuczną inteligencją, opatrzonego komentarzem wyjaśniającym, co w nich było wartościowe; zastrzegam przy tym, że nie prowadziłem pełnego przeglądu rynku wydawniczego i twierdzę tylko tyle, ile sprawdziłem.
 
-Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgłoszenia, które przeszły weryfikację formalną, zostają w nim razem z jawną punktacją akademii, jury i publiczności, bez planowanego terminu zamknięcia. Archiwa, antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
+Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgłoszenia, które przeszły weryfikację formalną, zostają w nim razem z jawną punktacją akademii, jury i publiczności, bez planowanego terminu zamknięcia.
+
+Archiwa, antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
 
 ## Część pierwsza: prośba o list intencyjny
 
