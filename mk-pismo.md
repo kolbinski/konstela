@@ -50,7 +50,7 @@ Patrzę na to także dłużej niż na jedną edycję. Pierwsze lata powszechnego
 
 Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu, jako propozycję do dowolnej zmiany lub odrzucenia. Proszę przy tym o stanowisko w zakresie i formie właściwych dla Ministerstwa; jeżeli wydanie takiego dokumentu nie jest możliwe, proszę o informację o właściwej procedurze.
 
-Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i instytucjami oraz opublikować go na stronie Nagrody. Nie występuję na tym etapie o patronat ani o zobowiązanie finansowe. Zakres ewentualnego stanowiska pozostawiam Ministerstwu; załączony projekt jest wyłącznie propozycją pomocniczą, do swobodnej zmiany lub odrzucenia. Jeżeli Ministerstwo nie stosuje formy listu intencyjnego, w pełni wystarczy mi zwykła odpowiedź pisemna o wskazanej wyżej treści.
+Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i instytucjami. Nie występuję na tym etapie o patronat ani o zobowiązanie finansowe. Zakres ewentualnego stanowiska pozostawiam Ministerstwu; załączony projekt jest wyłącznie propozycją pomocniczą, do swobodnej zmiany lub odrzucenia. Jeżeli Ministerstwo nie stosuje formy listu intencyjnego, w pełni wystarczy mi zwykła odpowiedź pisemna o wskazanej wyżej treści.
 
 ## Część druga: prośba o wskazanie drogi finansowania części artystycznej
 
