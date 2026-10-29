@@ -24,4 +24,5 @@ konstela.org
 1. Pismo w sprawie Nagrody Konstela; wersja online: https://konstela.org/dokument/mk-pismo/
 2. Nagroda Konstela - nota koncepcyjna; wersja online: https://konstela.org/dokument/mk-nota-koncepcyjna/
 3. Zestawienie zadania: co, w którym roku, z czego i o co pytam - arkusz kalkulacyjny; wersja online: https://konstela.org/arkusz/zestawienie-zadania
-4. Projekt listu intencyjnego; wersja online: https://konstela.org/dokument/mk-list-intencyjny/
+4. Budżet pierwszej edycji - arkusz kalkulacyjny; wersja online: https://konstela.org/arkusz/budzet-edycji-pierwszej
+5. Projekt listu intencyjnego; wersja online: https://konstela.org/dokument/mk-list-intencyjny/
