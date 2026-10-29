@@ -55,7 +55,7 @@ Okładka tomu to zwycięska praca z plebiscytu na plakat o sztucznej inteligencj
 
 ## Model współpracy
 
-Model licencyjny: wydawca wydaje książkę nakładem własnym, na swój koszt i swoje ryzyko, fundacja-organizator udziela licencji i otrzymuje honorarium od sprzedaży. Bez zaliczki, bez publikacji zleconej.
+Model licencyjny: wydawca wydaje antologię nakładem własnym, na swój koszt i swoje ryzyko, fundacja-organizator udziela licencji i otrzymuje honorarium od sprzedaży. Bez zaliczki, bez publikacji zleconej.
 
 Niezależnie od wydania książkowego powstaje **bezpłatny e-book** oraz **publiczne Archiwum** wszystkich zgłoszeń, które przeszły weryfikację formalną, wraz z jawną punktacją. Mówimy o tym otwarcie od początku, ponieważ dla wydawcy jest to istotna informacja, a nie szczegół: tom książkowy jest porządnym wydaniem materiału, który w podstawowej formie pozostaje dostępny bezpłatnie.
 
@@ -69,7 +69,7 @@ Niezależnie od wydania książkowego powstaje **bezpłatny e-book** oraz **publ
 
 ## Pytanie o trzeciej nad ranem
 
-Ta książka zaczęła się od pytania zadanego o trzeciej w nocy.
+Ta antologia zaczęła się od pytania zadanego o trzeciej w nocy.
 
 Rozmawiałem ze sztuczną inteligencją. Nie testowałem jej, nie sprawdzałem, czy się pomyli, nie szukałem gotowej odpowiedzi do skopiowania. Rozmowa wciągnęła mnie tak, jak wciągają rozmowy z ludźmi, przy których traci się poczucie czasu: jedno pytanie wynikało z poprzedniej odpowiedzi, wątek odchodził w bok i wracał, a po kilku godzinach doszedłem do czegoś, czego nie wiedziałem, kiedy zaczynałem. Pamiętam moment, w którym podniosłem wzrok na zegar i zdziwiłem się, która jest godzina.
 
@@ -81,9 +81,9 @@ Nie wpadł.
 
 Okazało się, że nagrody w tej dziedzinie dostawały dotąd maszyny. Loebner Prize przez trzydzieści lat sprawdzał, czy program potrafi udawać człowieka. Alexa Prize płacił za bota, który utrzyma rozmowę przez dwadzieścia minut. Nagradzano program za to, jak mówi. Człowieka siedzącego po drugiej stronie ekranu nie nagradzał nikt - choć to on wymyśla pytania, on decyduje, kiedy nie wierzyć, i on jest jedyną stroną tej rozmowy, która może z niej cokolwiek wynieść.
 
-Tak powstała Nagroda Konstela, a ta książka jest jej pierwszym rocznikiem.
+Tak powstała Nagroda Konstela, a ta antologia jest jej pierwszym rocznikiem.
 
-## Co jest w tej książce
+## Co jest w tym tomie
 
 Dziesięć rozmów, które jury pierwszej edycji oceniło najwyżej. W całości, bez skrótów, bez poprawiania po fakcie.
 
@@ -93,7 +93,7 @@ Nie jest to zbiór promptów ani poradnik. Nie znajdzie się tutaj sztuczek na o
 
 ## Czego w nich szukać
 
-Oceniane były cztery rzeczy, te same, które proponuję jako sposób czytania tej książki.
+Oceniane były cztery rzeczy, te same, które proponuję jako sposób czytania tej antologii.
 
 **Rozpiętość** - jak nieoczywiste jest połączenie, które rozmowa wykonała, i czy zostało uzasadnione. Efektowne zestawienie dwóch odległych dziedzin bywa łatwiejsze niż nieoczywisty zwrot wewnątrz jednej.
 
@@ -115,7 +115,7 @@ Ten tom jest próbą zachowania choćby części. Dlatego każdy rocznik nosi da
 
 ## Jedna uwaga o autorach
 
-Każda rozmowa w tej książce ma człowieka, który ją prowadził, i to on jest tu autorem - nie program. Prawa do rozmów pozostają przy ich autorach, a antologia ukazuje się za ich zgodą. Obok wydania książkowego powstaje bezpłatny e-book, bez rejestracji i bez ograniczeń dostępu, oraz publiczne Archiwum obejmujące wszystkie zgłoszenia, także te, które do dziesiątki nie weszły, wraz z jawną punktacją.
+Każda rozmowa w tej antologii ma człowieka, który ją prowadził, i to on jest tu autorem - nie program. Prawa do rozmów pozostają przy ich autorach, a antologia ukazuje się za ich zgodą. Obok wydania książkowego powstaje bezpłatny e-book, bez rejestracji i bez ograniczeń dostępu, oraz publiczne Archiwum obejmujące wszystkie zgłoszenia, także te, które do dziesiątki nie weszły, wraz z jawną punktacją.
 
 Nagradzamy człowieka. Wydaje się to oczywiste dopiero wtedy, gdy ktoś to powie.
 
