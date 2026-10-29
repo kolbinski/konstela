@@ -390,8 +390,7 @@ Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie kwiet
 
 **Drugie pokazanie prac - na wystawie w galerii sztuki, otwieranej wernisażem po gali, a więc już z zajętymi miejscami - jest celem, nie obietnicą regulaminową**, ponieważ zależy od pozyskania galerii. Jeżeli galeria się znajdzie, finaliści otrzymują odrębną propozycję, określającą terminy, ubezpieczenie, czas pozostawania pracy u organizatora i zwrot, a przy wystawie może się odbyć cicha licytacja oryginałów. Nieprzyjęcie propozycji nie wpływa na werdykt ani na nagrodę.
 
-**Werdykt zapada przed galą**, ponieważ antologia ma na gali premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali. Konsekwencją jest to, że **nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją**, a część kosztów tego plebiscytu przypada na 2027 rok.
-
+**Werdykt zapada przed galą**, ponieważ antologia ma na gali premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali.
 Przesyłka oryginałów do organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu; wystawa i przesyłki powrotne przypadają na 2028.
 
 ### Nagroda publiczności
