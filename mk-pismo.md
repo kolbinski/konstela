@@ -3,7 +3,6 @@
 Sieradz, dnia [data]
 
 Ministerstwo Kultury i Dziedzictwa Narodowego
-[adres do doręczeń elektronicznych z BAE]
 
 **Dotyczy: Nagrody Konstela - prośba o list intencyjny oraz o wskazanie drogi finansowania części artystycznej**
 
