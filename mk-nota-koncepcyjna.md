@@ -254,7 +254,7 @@ Otwarty plebiscyt na utwór o sztucznej inteligencji i jej roli w świecie. Ucze
 
 Zgłasza się czytelne nagranie demonstracyjne, nie gotowy singiel, aby wysokość kosztów produkcji nie decydowała o tym, kto może wziąć udział. Zwycięzcę wybiera jury, nie głosowanie publiczności, a kryteria oceny są ogłaszane przed naborem - ta sama zasada, na której stoi cała Nagroda.
 
-Obowiązuje przy tym reguła dla tego plebiscytu zasadnicza, rozdzielająca warstwę muzyczną od tekstowej. **Melodia, harmonia i wokal muszą pochodzić od człowieka:** niedopuszczalne jest zgłoszenie melodii lub harmonii przejętej z nagrania wygenerowanego przez narzędzie sztucznej inteligencji - odsłuchanej i spisanej, przerobionej czy przeharmonizowanej - dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu nastroju i sprawdzaniu pomysłów przed napisaniem własnej melodii.
+Obowiązuje przy tym reguła dla tego plebiscytu zasadnicza, rozdzielająca warstwę muzyczną od tekstowej. **Melodia, harmonia i wokal muszą pochodzić od człowieka:** niedopuszczalne jest zgłoszenie melodii lub harmonii przejętej z nagrania wygenerowanego przez narzędzie sztucznej inteligencji - odsłuchanej i spisanej, przerobionej czy przeharmonizowanej - dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu nastroju i sprawdzaniu pomysłów przed napisaniem własnej melodii, z obowiązkiem zadeklarowania takiego użycia.
 
 **Tekst wolno napisać przy udziale sztucznej inteligencji**, pod warunkiem opisania przy zgłoszeniu, w jaki sposób powstał; procentowego określania wkładu sztucznej inteligencji nie wymagamy; prosimy o opis sposobu pracy. Użycie narzędzi na etapie produkcji i obróbki dźwięku pozostaje dopuszczalne i również podlega zadeklarowaniu.
 

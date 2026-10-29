@@ -183,7 +183,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 2. Melodia, harmonia i partia wokalna pochodzą od człowieka. Niedopuszczalne jest zgłoszenie melodii lub harmonii przejętej z nagrania wygenerowanego przez narzędzie sztucznej inteligencji, w szczególności odsłuchanej i spisanej, przerobionej, przyspieszonej lub przeharmonizowanej. Partia wokalna jest w całości wykonana przez człowieka, bez wyjątków.
 
-3. Dozwolone i niewymagające deklaracji jest korzystanie z narzędzi generatywnych w celu szukania klimatu i sprawdzania pomysłów przed napisaniem własnej melodii.
+3. Dozwolone jest korzystanie z narzędzi generatywnych w celu szukania klimatu i sprawdzania pomysłów przed napisaniem własnej melodii. **Użycie takich narzędzi na tym etapie podlega deklaracji**; nie wpływa ono na dopuszczenie zgłoszenia ani na punktację, a zakaz z ust. 2 pozostaje nienaruszony: żadne poszukiwania nie uprawniają do przejęcia wygenerowanej melodii ani harmonii.
 
 4. **Tekst utworu może powstać przy udziale narzędzi sztucznej inteligencji w dowolnym zakresie**, od pojedynczych poprawek po wersję przyjętą bez zmian. Uczestnik opisuje w deklaracji, w kilku zdaniach, jak tekst powstał. Organizator nie pyta o proporcje ani o procentowy udział własnej pracy i nie wymaga, by Uczestnik wprowadził do wygenerowanej wersji jakiekolwiek zmiany; wymaga wyłącznie, by deklaracja odpowiadała prawdzie.
 
@@ -191,7 +191,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 5a. **Obróbka nie może zastąpić ludzkiego wykonania ani stworzyć muzyki, której nie skomponował człowiek.** Niedopuszczalne jest w szczególności wygenerowanie partii wokalnej, chórków albo drugiego głosu, zastąpienie barwy głosu barwą wygenerowaną oraz wytworzenie narzędziem harmonii albo linii melodycznej, której Uczestnik nie skomponował. Automatyczne wytworzenie dodatkowych głosów z nagrania człowieka jest dopuszczalne wyłącznie jako realizacja partii skomponowanych przez człowieka; narzędzie nie może samodzielnie dobierać ich melodii ani harmonii.
 
-6. Deklaracja, o której mowa w ust. 4 i 5, składana jest przy zgłoszeniu i obejmuje sposób powstania tekstu oraz wskazanie narzędzi opartych na sztucznej inteligencji użytych na etapie produkcji wraz z celem ich użycia. Tekst napisany w całości samodzielnie deklaruje się w ten sam sposób.
+6. Deklaracja, o której mowa w ust. 3, 4 i 5, składana jest przy zgłoszeniu i obejmuje: sposób powstania tekstu, wskazanie narzędzi generatywnych użytych przy szukaniu klimatu i sprawdzaniu pomysłów przed napisaniem melodii oraz wskazanie narzędzi opartych na sztucznej inteligencji użytych na etapie produkcji – w każdym wypadku wraz z celem ich użycia. Tekst napisany w całości samodzielnie i utwór powstały bez żadnego z tych narzędzi deklaruje się w ten sam sposób.
 
 7. Jury ocenia gotowy tekst, a nie sposób jego powstania. Deklaracja jest publikowana razem ze zgłoszeniem (§ 5 ust. 7) i służy jawności oraz weryfikacji, a nie punktacji. Tekst napisany przy udziale narzędzi i tekst napisany bez nich podlegają ocenie na tych samych zasadach.
 
