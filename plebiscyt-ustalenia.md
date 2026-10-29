@@ -100,7 +100,7 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 
 **Jury plebiscytu jest płatne za ocenę zgłoszeń.** Rozstrzygnięte 24.10.2026, zmiana wobec zapisu „jury za darmo" z 23.10.2026. Uzasadnienie: skoro płacimy jury i akademii za czytanie rozmów, płacenie jury za odsłuchiwanie kilkudziesięciu utworów przez rok jest konsekwencją, nie wyjątkiem - a rok pracy oparty na samej dobrej woli to cienki fundament i nie pozwala wymagać terminów. Honorarium za ocenę jest odrębne od honorarium za wykonanie hymnu na gali i od produkcji nagrania.
 
-**Kwota nieustalona, świadomie.** Zależy od liczebności jury, która nie jest znana. Kotwicą jest nasza własna skala ze [skalowanie-oceny](/dokument/skalowanie-oceny): honoraria jury 69,5 tys. zł, przy pięciu osobach niecałe 14 tys. na osobę, czyli około 290 zł za godzinę przy 100 rozmowach. Praca jury plebiscytu jest znacznie lżejsza - przy 50 zgłoszeniach dwa przejścia odsłuchu plus shortlista i obrady to rzędu 15 godzin, nie 48 - co z tej samej stawki daje około 4,5 tys. zł na jurora i ok. 22 tys. zł przy pięciu osobach. **Do ustalenia po rozmowie z Michałem.**
+**Kwota nieustalona, świadomie.** Zależy od liczebności jury, które nie jest znane. Kotwicą jest nasza własna skala ze [skalowanie-oceny](/dokument/skalowanie-oceny): honoraria jury 69,5 tys. zł, przy pięciu osobach niecałe 14 tys. na osobę, czyli około 290 zł za godzinę przy 100 rozmowach. Praca jury plebiscytu jest znacznie lżejsza - przy 50 zgłoszeniach dwa przejścia odsłuchu plus shortlista i obrady to rzędu 15 godzin, nie 48 - co z tej samej stawki daje około 4,5 tys. zł na jurora i ok. 22 tys. zł przy pięciu osobach. **Do ustalenia po rozmowie z Michałem.**
 
 ## Mail do Michała Sołtana - wysłany 25.10.2026
 
