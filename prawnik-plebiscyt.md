@@ -42,6 +42,7 @@ Przyjęta forma zgłoszenia to **link do utworu opublikowanego na YouTube**, nie
 - Czy organizator może i powinien sporządzić **kopię archiwalną** nagrania w chwili zgłoszenia, na jakiej podstawie prawnej i z jakim zakresem wykorzystania, analogicznie do kopii rozmów.
 - Co, gdy YouTube zablokuje film z powodu roszczenia praw autorskich już po zgłoszeniu. **Przyjęta konstrukcja: zgłoszenie odpada z powodu niedostępności materiału, a nie wskutek orzeczenia organizatora o naruszeniu praw** - czy taka podstawa odrzucenia jest wystarczająca i jak ją sformułować, skoro skutek dla uczestnika jest ten sam.
 - Czy uczestnik, któremu zablokowano film, może po wyjaśnieniu sprawy z serwisem zgłosić się ponownie w trakcie naboru, i jak to pogodzić z zasadą jednego zgłoszenia na osobę.
+- **Playlisty organizatora.** Rozważamy prowadzenie na kanale Nagrody playlisty edycji, playlisty dziesiątki finałowej i playlisty zwycięzców kolejnych lat. Dzisiejsza licencja obejmuje prezentację wpisu i linku na stronie Nagrody (§ 12 ust. 2 lit. a regulaminu filmu), a nie umieszczenie filmu w prowadzonej przez organizatora playliście w serwisie. Prosimy o wskazanie, czy do playlisty potrzebny jest odrębny zakres licencji, czy wystarczy zgoda wyrażona przy zgłoszeniu, oraz jak opisać obowiązki organizatora po wycofaniu zgłoszenia i po usunięciu filmu przez autora, gdy wpis w playliście jest po stronie serwisu, nie naszej strony.
 
 ## 4a. Zwiastun jako obowiązkowy element zgłoszenia filmu
 
