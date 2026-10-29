@@ -47,7 +47,7 @@ Zapis rzeczywistej rozmowy może uzupełnić instrukcje i poradniki, pokazując 
 
 Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny plebiscytu, a nie jako zamówiony podręcznik.
 
-**Rozmowa jest pierwszym miejscem, w którym to widać, ale nie jedynym.** Przedmiotem Nagrody nie są rozmowy z programem, lecz współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Rozmowa jest tym miejscem, w którym współistnienie daje się zapisać i ocenić najdokładniej, i dlatego stoi w centrum konstrukcji. Nie jest jednak miejscem jedynym ani najbardziej dotkniętym: rynek muzyczny jest jednym z obszarów, w których skutki narzędzi generatywnych są dziś najwyraźniej widoczne i najszerzej omawiane.
+**Rozmowa z AI jest pierwszym miejscem, w którym to widać, ale nie jedynym.** Przedmiotem Nagrody nie są rozmowy z programem, lecz współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Rozmowa jest tym miejscem, w którym współistnienie daje się zapisać i ocenić najdokładniej, i dlatego stoi w centrum konstrukcji. Nie jest jednak miejscem jedynym ani najbardziej dotkniętym: rynek muzyczny i grafika komputerowa są jednymi z obszarów, w których skutki narzędzi generatywnych są dziś najwyraźniej widoczne i najszerzej omawiane.
 
 Dlatego plebiscyt na piosenkę o sztucznej inteligencji, opisany w [rozdziale 7](#7-plebiscyt-na-piosenke), nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: plebiscyt, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu.
 
