@@ -2,8 +2,6 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) – wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
-
 <img src="/assets/piosenka.jpg" srcset="/assets/piosenka-800.jpg 800w, /assets/piosenka.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="940" alt="Kobieta z gitarą siedzi na skale nad doliną o zachodzie słońca i śpiewa do mikrofonu; z jej strony biegną w rozgwieżdżone niebo złote wstęgi światła, układające się w sceny z ludzkiego życia, a z drugiej strony wychodzi im naprzeciw niebieski, świetlisty zarys twarzy sztucznej inteligencji.">
 
 <!--ikona:rozdzielacz-->
@@ -33,7 +31,7 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 
 **Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
 
-**Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
+**Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron; **dziś nie przesyłasz ani pracy, ani danych do zgłoszenia**.
 
 ## <!--ikona:konstelacja--><span>Dlaczego w ogóle o tym śpiewać</span>
 

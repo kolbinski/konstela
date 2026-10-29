@@ -2,8 +2,6 @@
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-**Nabór jeszcze nie ruszył.** Przygotowujemy pierwszą edycję na 2027 rok. Jeśli chcesz wiedzieć pierwszy, [zapisz się na powiadomienie o otwarciu naboru](#kontakt) – wyślemy jedną wiadomość w dniu otwarcia. Dziś nie przesyłasz ani pracy, ani danych do zgłoszenia.
-
 <img src="/assets/rozmowa.jpg" srcset="/assets/rozmowa-800.jpg 800w, /assets/rozmowa.jpg 1671w" sizes="(max-width: 48rem) 100vw, 46rem" width="1671" height="941" alt="Kobieta z laptopem na skale nad doliną o zmierzchu rysuje palcem linie między gwiazdami; z konstelacji wyłaniają się obrazy – planeta, galaktyka, otwarta książka, muszla amonitu, rzeźba, góry – połączone świetlistymi liniami." />
 
 <!--ikona:rozdzielacz-->
@@ -32,7 +30,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 **Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
 
-**Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron.
+**Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron; **dziś nie przesyłasz ani pracy, ani danych do zgłoszenia**.
 
 ## <!--ikona:uczestnik--><span>Kto i co może zgłosić</span>
 
