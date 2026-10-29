@@ -15,7 +15,8 @@ ul. 11 Listopada 12/1
 98-200 Sieradz
 
 
-LIST INTENCYJNY
+LIST INTENCYJNY / STANOWISKO DOTYCZĄCE KONCEPCJI NAGRODY KONSTELA
+(tytuł do wyboru przez Ministerstwo, zależnie od przyjętej formy)
 
 
 Ministerstwo Kultury i Dziedzictwa Narodowego otrzymało opis koncepcji Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z systemami sztucznej inteligencji - oraz towarzyszących jej publikacji: antologii najwyżej ocenionych rozmów każdej edycji, wydawanej nieodpłatnie, i publicznego Archiwum szerszego zbioru rozmów.
