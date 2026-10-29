@@ -18,7 +18,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
-- zgłaszasz **link do filmu na swoim kanale w YouTube** – publicznego albo niepublicznego, z dostępem przez link – oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, dostępnego publicznie
+- zgłaszasz **link do filmu dostępnego publicznie** w dowolnym serwisie wideo oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, też dostępnego publicznie
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
@@ -60,7 +60,7 @@ Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma by
 
 ### Zanim zgłosisz: festiwale
 
-**Film nie musi być publiczny na YouTube** – wystarczy link niepubliczny. Powiedzmy jednak wprost, co to znaczy: **link pokazujemy w ogólnodostępnej [Projektorni](#projektornia-i-archiwum), więc obejrzeć film będzie mógł każdy, kto na nią wejdzie**. Zmienia się to, że film nie jest wyszukiwalny w serwisie, a nie to, że jest niedostępny. Publicznie pokazujemy też zwiastun. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są dozwolone – ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**, bo część z nich wymaga premiery albo wcześniejszej niedostępności w internecie. Tego ryzyka nie usuwa żadna nasza zgoda.
+**Film i zwiastun muszą być dostępne publicznie** – każdy ma móc je obejrzeć z [Projektorni](#projektornia-i-archiwum), bez opłaty i bez konta. Powiedzmy wprost, co z tego wynika: **część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie, więc zgłoszenie do nas może zamknąć ci tę drogę** – i nie da się tego potem odwrócić. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są z naszej strony dozwolone, ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**. Tego ryzyka nie usuwa żadna nasza zgoda.
 
 ### Czego nie przyjmujemy
 
@@ -86,7 +86,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Dwa linki: film i zwiastun
 
-**Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Film może być publiczny albo niepubliczny z dostępem przez link; zwiastun jest publiczny, bo pokazujemy go w Projektorni i na gali. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
+**Zgłaszasz linki do filmu i jego zwiastuna.** Serwis wybierasz sam; wymagamy tylko, aby oba materiały były dostępne publicznie, a serwis ze zwiastunem pozwalał odtwarzać go na naszej stronie, bo zwiastun odtwarza się przy wpisie w Projektorni i jest pokazywany na gali. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
 
 **W zgłoszeniu podajesz również link do zwiastuna filmu.** Zwiastun trwa od 60 do 120 sekund, jest publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 

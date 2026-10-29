@@ -42,7 +42,7 @@ Chcemy wspierać powstawanie nowych filmów o doświadczeniu życia ze sztuczną
 
 ### Czym jest zgłoszenie
 
-Link do filmu opublikowanego **na kanale autora w YouTube**; film może być publiczny albo niepubliczny, dostępny przez link. Do tego link do publicznego **zwiastuna trwającego od 60 do 120 sekund**. Organizator nie przechowuje kopii filmu; zgłoszenia są dostępne w [Projektorni](/plebiscyt-filmu#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](/plebiscyt-filmu#archiwum).
+Link do **filmu dostępnego publicznie** w wybranym przez autora serwisie wideo oraz link do **zwiastuna trwającego od 60 do 120 sekund**, również dostępnego publicznie. Organizator nie przechowuje kopii filmu; zgłoszenia są dostępne w [Projektorni](/plebiscyt-filmu#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](/plebiscyt-filmu#archiwum).
 
 ### Co dostają finaliści
 
@@ -109,7 +109,7 @@ Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru
 - **Wyłączenie przy konflikcie interesów** – członek jury nie ocenia filmu osoby, którą zna na tyle, że mogłoby to wpłynąć na ocenę. Oświadczenie składa przed oceną. Po zapoznaniu się z listą autorów juror zgłasza ewentualne powiązania i w razie zmiany okoliczności aktualizuje oświadczenie.
 - **Niezależność od głosowania publiczności** – o nagrodach głównych decyduje jury według karty oceny; publiczność ma własną, osobną nagrodę.
 - **Poufność werdyktu do gali** – werdykt zapada przed galą, a publicznie ogłaszamy go dopiero na sali.
-- **Filmów niepublicznych nie wolno pobierać ani udostępniać dalej** – jury korzysta wyłącznie z linków podanych w zgłoszeniach.
+- **Zgłoszonych filmów nie wolno pobierać ani udostępniać dalej** – jury korzysta wyłącznie z linków podanych w zgłoszeniach.
 - **Jury nie jest przedstawicielem organizatora** i nie odpowiada za jego zobowiązania wobec uczestników.
 
 Wszystko to opisuje [regulamin plebiscytu](/dokument/regulamin-filmu), w wersji przeznaczonej dziś do przeglądu prawnego.
