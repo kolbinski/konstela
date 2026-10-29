@@ -133,7 +133,9 @@ Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie wspó�
 
 Proszę o wskazanie, czy plebiscyt na film o sztucznej inteligencji o takiej konstrukcji mieści się w programie Film, czy właściwym adresatem jest w tym zakresie Polski Instytut Sztuki Filmowej, czy też - wobec tego, że rezultatem jest publiczne Archiwum i pokazy, a nie nowe filmy - bliższy byłby program z zakresu edukacji kulturalnej lub kultury cyfrowej.
 
-Nie mam również pewności ani tego, czy plebiscyt kompozytorsko-wykonawczy połączony z nagraniem i koncertem finałowym mieści się w którymkolwiek z wymienionych programów, ani tego, czy przedsięwzięcie złożone z trzech plebiscytów w różnych dziedzinach należy podzielić na odrębne zadania. Proszę również o wskazanie, czy plebiscyt wraz z koncertem finałowym może stanowić odrębne zadanie, natomiast produkcja nagrań studyjnych finalistów oraz nagranie hymnu wraz z teledyskiem wymagają innej ścieżki finansowania - a jeżeli tak, czy wystarczy rozdzielenie budżetów w jednym zadaniu, czy konieczne jest wyodrębnienie osobnych zadań.
+Nie mam również pewności ani tego, czy plebiscyt kompozytorsko-wykonawczy połączony z nagraniem i koncertem finałowym mieści się w którymkolwiek z wymienionych programów, ani tego, czy przedsięwzięcie złożone z trzech plebiscytów w różnych dziedzinach należy podzielić na odrębne zadania.
+
+Proszę również o wskazanie, czy plebiscyt na piosenkę o sztucznej inteligencji wraz z koncertem finałowym może stanowić odrębne zadanie, natomiast produkcja nagrań studyjnych finalistów oraz nagranie hymnu wraz z teledyskiem wymagają innej ścieżki finansowania - a jeżeli tak, czy wystarczy rozdzielenie budżetów w jednym zadaniu, czy konieczne jest wyodrębnienie osobnych zadań.
 
 ## Pytanie 2: status wnioskodawcy - działalność gospodarcza albo fundacja
 
