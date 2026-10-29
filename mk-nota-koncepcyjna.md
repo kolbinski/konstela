@@ -542,7 +542,7 @@ Przez cały rok naboru ukazuje się podcast Nagrody: **cykliczne odcinki**, bezp
 
 „**NAIstolatek**" - odcinki nagrywane z nastolatkami, o tym, jak formułują pytania ci, dla których te narzędzia są codziennością. Odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, obejmującą udział w nagraniu i jego publikację, a uczestnik może wycofać zgodę przed publikacją.
 
-**Finansowanie, powiedziane jednoznacznie: o dofinansowanie podcastu nie wnoszę.** Produkcja wraz z honorarium prowadzącego jest pozycją budżetu Antologii, czyli obciąża sponsora tej części, i nie jest przedmiotem prośby skierowanej do Ministerstwa. Wymieniam podcast dlatego, że zmienia odpowiedź na pytanie o właściwy program dla całości zadania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży - nie dlatego, że szukam na niego środków publicznych.
+**Finansowanie.** Produkcja wraz z honorarium prowadzącego jest dziś pozycją budżetu Antologii, czyli obciąża sponsora tej części. Podcast mieści się jednak w zakresie pytania skierowanego do Ministerstwa: proszę o wskazanie właściwej drogi finansowania również dla niego, ponieważ dwa cykle mają dwóch różnych adresatów - osoby bez doświadczenia z czatami AI oraz młodzież - a to może oznaczać, że właściwy jest inny program niż dla trzech plebiscytów artystycznych albo że zadanie wymaga podziału. Jeżeli wskazana droga okaże się dostępna, wyłączę tę pozycję z rozmowy ze sponsorem Antologii, zgodnie z zasadą, że o tę samą pozycję nie zwracam się jednocześnie do dwóch źródeł.
 
 Kwota nie jest dziś ustalona: zależy od osoby prowadzącej, z którą rozmowy jeszcze się nie odbyły, a podawanie liczby przed tą rozmową uczyniłoby z niej kotwicę negocjacyjną. Pozycja jest w kosztorysie widoczna i oznaczona jako niewyceniona.
 
