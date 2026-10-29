@@ -1,9 +1,5 @@
 # Treść wiadomości do MKiDN w eDoręczeniach
 
-Krótki list przewodni wpisywany w treść wiadomości w systemie eDoręczenia. Pełne pismo, nota koncepcyjna i projekt listu intencyjnego idą jako załączniki; każdy z nich zaczyna się od adresu swojej wersji online.
-
----
-
 **Temat:** Nagroda Konstela - prośba o list intencyjny i o wskazanie drogi finansowania części artystycznej
 
 Szanowni Państwo,
@@ -19,7 +15,6 @@ Pozostaję do dyspozycji w razie pytań, a także gotowy do przedstawienia konce
 Z wyrazami szacunku,
 
 Krzysztof Olbiński
-Fundator, Fundacja Konstela
 +48 503 520 004
 olbinski@gmail.com
 konstela.org
