@@ -31,7 +31,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 - **Antologia** - dziesięć najwyżej ocenionych rozmów każdej edycji, bezpłatnie, w całości, z komentarzem jury.
 - **Publiczne Archiwum** wszystkich zgłoszeń: czytelnia rosnąca w trakcie naboru, utrwalona w dniu jego zamknięcia i przeglądalna także według jawnych ocen.
 - **Płyta** z dziesięcioma najwyżej ocenionymi utworami plebiscytu - nagrania finansuje organizator, wydaje wydawnictwo-partner, którego jeszcze nie ma. Prawa do nagrań przechodzą na autorów jako część nagrody.
-- **Hymn „Zapytaj inaczej"** w wykonaniu jurorów, z teledyskiem.
+- **Hymn „Zapytaj inaczej"** z teledyskiem; obsada nie jest jeszcze ustalona.
 
 ## 4. Harmonogram i jedno pytanie, które blokuje resztę
 
