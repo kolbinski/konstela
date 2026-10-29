@@ -55,6 +55,17 @@ To samo dotyczy plebiscytu na plakat o sztucznej inteligencji, opisanego w [rozd
 
 ## 3. Plebiscyt na rozmowę z AI
 
+### Kryteria oceny
+
+Cztery kryteria o równej wadze, po 25 punktów każde, łącznie 100 punktów, te same dla akademii i dla jury. **Opisy przedziałów ocen wraz z przykładami ich zastosowania powstaną z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostają niezmienne do rozstrzygnięcia edycji.
+
+1.  **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między nazwami dziedzin; wartościowe połączenie może przebiegać również wewnątrz jednej dziedziny, jeżeli przed rozmową nie było widoczne.
+2.  **Drążenie** - czy uczestnik dopytuje, kwestionuje i wraca do porzuconych wątków, zamiast przyjmować pierwszą odpowiedź.
+3.  **Weryfikacja** - czy sprawdza twierdzenia modelu i prostuje jego błędy.
+4.  **Plon** - co z rozmowy realnie zostało: nazwana idea, rozwiązany problem, odnalezione źródło, zmieniona decyzja.
+
+Rozmowy zawierające pytania nieudane i wątki porzucone **nie są z tego powodu oceniane niżej**. Zapisano to wprost w regulaminie, ponieważ oceniający odruchowo karze bałagan, a to właśnie bałagan jest świadectwem rzeczywistej pracy.
+
 ### Co powstaje
 
 #### Antologia
@@ -118,17 +129,6 @@ Czego w nich nie ma: **ani jednego zapisu rzeczywistej rozmowy z modelem**. Są 
 Antologia byłaby materiałem źródłowym tego brakującego rodzaju: darmowym, autentycznym i opatrzonym komentarzem jurorów. Zastrzegam zakres tego twierdzenia: przeanalizowałem publikacje dwóch instytucji i nie prowadziłem pełnego przeglądu polskiego rynku wydawniczego. Twierdzę, że nie napotkałem takiego zbioru, nie że nie istnieje.
 
 Jest w tym również wartość, która nie jest dydaktyczna. Zapis rozmowy człowieka z nowym narzędziem, sporządzony w chwili, gdy to narzędzie dopiero wchodzi do powszechnego użytku, jest dokumentem epoki i materiałem dla przyszłych badaczy języka, kultury i techniki. Nie zidentyfikowałem dotąd publicznego, polskojęzycznego zbioru tego rodzaju, a zapisy takie powstają masowo i znikają razem z historią czatu.
-
-### Kryteria oceny
-
-Cztery kryteria o równej wadze, po 25 punktów każde, łącznie 100 punktów, te same dla akademii i dla jury. **Opisy przedziałów ocen wraz z przykładami ich zastosowania powstaną z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostają niezmienne do rozstrzygnięcia edycji.
-
-1.  **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między nazwami dziedzin; wartościowe połączenie może przebiegać również wewnątrz jednej dziedziny, jeżeli przed rozmową nie było widoczne.
-2.  **Drążenie** - czy uczestnik dopytuje, kwestionuje i wraca do porzuconych wątków, zamiast przyjmować pierwszą odpowiedź.
-3.  **Weryfikacja** - czy sprawdza twierdzenia modelu i prostuje jego błędy.
-4.  **Plon** - co z rozmowy realnie zostało: nazwana idea, rozwiązany problem, odnalezione źródło, zmieniona decyzja.
-
-Rozmowy zawierające pytania nieudane i wątki porzucone **nie są z tego powodu oceniane niżej**. Zapisano to wprost w regulaminie, ponieważ oceniający odruchowo karze bałagan, a to właśnie bałagan jest świadectwem rzeczywistej pracy.
 
 ### Uczciwość plebiscytu
 
