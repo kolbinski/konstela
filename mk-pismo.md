@@ -179,7 +179,7 @@ Jestem również świadomy, że System Obsługi Programów został wyłączony z
 
 ## Kontakt
 
-Pozostaję do dyspozycji w razie pytań oraz gotowy do przedstawienia koncepcji na spotkaniu lub do przekazania pełnej dokumentacji przedsięwzięcia, w tym regulaminów wszystkich plebiscytów, w terminie dla Państwa dogodnym.
+Pozostaję do dyspozycji w razie pytań oraz gotowy do przedstawienia koncepcji na spotkaniu lub do przekazania pełnej dokumentacji przedsięwzięcia w terminie dla Państwa dogodnym.
 
 Z wyrazami szacunku,
 
