@@ -19,10 +19,10 @@
 
 [Nagroda Konstela](/) to **nowa, coroczna nagroda przyznawana w czterech kategoriach**:
 
-1. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
-2. [Plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
-3. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
-4. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
+1. [Plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
+2. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
+3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
+4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
 ### Kto może zgłosić plakat
 
