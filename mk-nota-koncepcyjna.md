@@ -295,7 +295,7 @@ Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczn
 
 ### Stan przygotowań, powiedziany wprost
 
-Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich wysokości publicznie, zanim nie będą zabezpieczone. Ogłoszenie plebiscytu z nagrodami, których nie ma, byłoby tym samym błędem, którego unikam przy nagrodzie głównej. Do czasu pozyskania finansowania strona zapowiada plebiscyt i zbiera zainteresowanie wykonawców, bez obietnicy kwot. Kwoty podane niżej są kosztorysem przedstawianym Ministerstwu, nie ogłoszeniem wobec uczestników.
+Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich wysokości publicznie, zanim nie będą zabezpieczone. Kwoty podane niżej są kosztorysem przedstawianym Ministerstwu, nie ogłoszeniem wobec uczestników.
 
 ### Budżet części artystycznej
 
