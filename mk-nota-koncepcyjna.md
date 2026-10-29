@@ -198,7 +198,7 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 - **Razem, pozycje obecnie wycenione - 999 746,80 zł**
 - **Wariant wieloletni** - ok. 4 mln zł (1 mln USD)<small>zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody</small>
 
-Kwoty pochodzą z arkusza budżetowego pierwszej edycji i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą. Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli.
+Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej) i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą. Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli.
 
 Od 26 października 2026 roku zakres sponsora akademii obejmuje pierwsze przejście oceny we wszystkich kategoriach, a nie tylko czytanie rozmów; doszło do niego oglądanie filmów, które jest w tej pozycji kosztem największym i najszybciej rosnącym.
 
@@ -519,7 +519,7 @@ Dwie uwagi do tego kosztorysu.
 
 Produkcji filmów - organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a to jest dla oceny wniosku rozstrzygające: wydatki to pula nagród, ocena, honoraria jury i pokazy. Nie obejmuje też pierwszego przejścia oceny, które stoi w budżecie akademii, żeby nie liczyć go dwa razy.
 
-**Akademia filmu jest w tym przedsięwzięciu pozycją najszybciej rosnącą.** Przy 150 zgłoszeniach i dwóch obejrzeniach to 300 obejrzeń po około 2 godziny każde, czyli 90 tys. zł honorariów przy stawce 300 zł za obejrzenie z wypełnieniem karty oceny. Budżet akademii rośnie z tego powodu z 49 280 zł do 160 160 zł. Tabela w arkuszu budżetowym, który przekazuję na życzenie, pokazuje, co się dzieje przy kolejnych wolumenach, i wniosek z niej jest jednoznaczny: przy kilkuset zgłoszeniach trzeba zmienić konstrukcję pierwszego przejścia, a nie mnożyć stawkę. Mówię to wprost, zamiast przedstawiać kosztorys, który działa tylko przy jednej liczbie zgłoszeń.
+**Akademia filmu jest w tym przedsięwzięciu pozycją najszybciej rosnącą.** Przy 150 zgłoszeniach i dwóch obejrzeniach to 300 obejrzeń po około 2 godziny każde, czyli 90 tys. zł honorariów przy stawce 300 zł za obejrzenie z wypełnieniem karty oceny. Budżet akademii rośnie z tego powodu z 49 280 zł do 160 160 zł. Tabela w [arkuszu budżetowym](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=akademii) pokazuje, co się dzieje przy kolejnych wolumenach, i wniosek z niej jest jednoznaczny: przy kilkuset zgłoszeniach trzeba zmienić konstrukcję pierwszego przejścia, a nie mnożyć stawkę. Mówię to wprost, zamiast przedstawiać kosztorys, który działa tylko przy jednej liczbie zgłoszeń.
 
 **Dlaczego pula jest tu najwyższa ze wszystkich trzech plebiscytów artystycznych.** Zgłoszeniem jest film trwający co najmniej 20 minut, zwykle powstały w zespole, i to jedyny z tych plebiscytów, w którym uczestnik ponosi realne koszty produkcji - a organizator nie zwraca ich ani przed, ani po plebiscycie. Nagroda jest więc jedynym świadczeniem po jego stronie.
 
