@@ -19,7 +19,7 @@ Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w [
 
 ## 1. Czym jest Nagroda Konstela
 
-Nagroda Konstela to cztery plebiscyty, w których nagradzamy **nie sztuczną inteligencję, lecz człowieka, który z niej korzysta**.
+Nagroda Konstela to cztery plebiscyty, w których nagradzamy **nie sztuczną inteligencję, lecz człowieka, który z nią obcuje**.
 
 Nagroda przyznawana będzie w czterech kategoriach:
 
