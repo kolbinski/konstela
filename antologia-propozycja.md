@@ -88,7 +88,3 @@ Ten tom jest próbą zachowania choćby części. Dlatego każdy rocznik nosi da
 Każda rozmowa w tej antologii ma człowieka, który ją prowadził, i to on jest tu autorem - nie program. Prawa do rozmów pozostają przy ich autorach, a antologia ukazuje się za ich zgodą. Obok wydania książkowego powstaje bezpłatny e-book, bez rejestracji i bez ograniczeń dostępu, oraz publiczne Archiwum obejmujące wszystkie zgłoszenia, także te, które do dziesiątki nie weszły, wraz z jawną punktacją.
 
 Nagradzamy człowieka. Wydaje się to oczywiste dopiero wtedy, gdy ktoś to powie.
-
----
-
-*Krzysztof Olbiński, organizator Nagrody Konstela*
