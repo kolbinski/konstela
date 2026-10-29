@@ -225,7 +225,7 @@ Rozumiem, że programy wsparcia kultury przewidują określony udział środków
 
 Pełne zestawienie wszystkich czternastu działań - z rezultatem, rokiem kosztu, obecnie wycenioną kwotą netto, planowanym źródłem finansowania i wskazaniem, czy pozycja należy do zakresu mojego pytania - zawiera **załącznik „Zestawienie zadania"** w postaci arkusza kalkulacyjnego. Tabela nie mieści się w szerokości strony, dlatego została wydzielona do osobnego pliku; sumy przeliczają się w nim same.
 
-Ostatnia kolumna zestawienia mówi, czy pozycja mieści się w zakresie mojego pytania, a nie czy proszę o jej sfinansowanie: **pytam o właściwy program i o tryb, nie o środki, i o żadną z wymienionych kwot nie wnoszę**. Wiersze oznaczone „nie" mają być finansowane ze źródeł prywatnych i wymieniam je po to, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
+Ostatnia kolumna zestawienia mówi, czy pozycja mieści się w zakresie mojego pytania, a nie czy proszę o jej sfinansowanie: **pytam o właściwy program i o tryb, nie o środki, i o żadną z wymienionych kwot nie wnoszę**. Wiersze oznaczone „nie" mają być finansowane z innych źródeł i wymieniam je po to, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
 
 ### Czym ten budżet jest, a czym nie jest
 
