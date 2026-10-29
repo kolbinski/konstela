@@ -910,8 +910,14 @@
         // pokazywał się w starej postaci, bo adres pliku nie ma znacznika
         // wersji - a znacznika nie da się tu dopisać, skoro nazwę arkusza
         // podaje adres strony.
-        fetch('/' + raw + '.xlsx', { cache: 'reload' })
-          .then(r => (r.ok ? r : fetch('/attachments/' + raw + '.xlsx', { cache: 'reload' })))
+        // Do adresu pliku dokładamy znacznik czasu. Sam `cache: 'reload'`
+        // omija pamięć przeglądarki, ale nie pośredników po drodze, a plik
+        // arkusza nie ma w adresie nic, co zmieniałoby się przy poprawce -
+        // inaczej niż pliki z katalogu assets, którym budowanie dokleja
+        // odcisk treści. Arkusze są małe, więc nic na tym nie tracimy.
+        const swiezo = '?t=' + Date.now();
+        fetch('/' + raw + '.xlsx' + swiezo, { cache: 'reload' })
+          .then(r => (r.ok ? r : fetch('/attachments/' + raw + '.xlsx' + swiezo, { cache: 'reload' })))
           .then(r => { if (!r.ok) throw new Error(r.status + ' ' + r.statusText); return r.arrayBuffer(); })
           .then(unzip)
           .then(f => { const a = odczytaj(f); document.title = raw + ' - Nagroda Konstela'; render(a); })
