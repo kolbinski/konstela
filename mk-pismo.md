@@ -38,7 +38,7 @@ W każdej edycji powstaje:
 1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury; bezpłatny e-book powstaje niezależnie od partnera wydawniczego, a zainteresowanie wydaniem książkowym wyraziły dotąd dwa wydawnictwa, z którymi rozmowy są na wczesnym etapie.
 2. **Film o sztucznej inteligencji** - dziesięć najlepszych filmów o długości od 20 do 90 minut, które bez Nagrody Konstela by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi kinowemu oraz stacji telewizyjnej lub serwisowi streamingowemu, przy czym partnerów takich jeszcze nie mam i piszę o tym wprost.
 3. **Piosenka o sztucznej inteligencji** - nagrania studyjne najlepszych piosenek stworzonych na potrzeby edycji, finansowane przez organizatora, z prawami pozostającymi przy autorach; wydanie płytowe zależy od pozyskania partnera wydawniczego.
-4. **Plakat o sztucznej inteligencji** - dziesięć prac wykonanych ręcznie, pokazywanych na wystawie towarzyszącej gali; praca zwycięska trafia na okładkę antologii. Prace finałowe chcę pokazać po gali po raz drugi, na wystawie w galerii sztuki otwieranej wernisażem - galerii jeszcze nie mam, więc tego nie obiecuję w regulaminie. Przy takiej wystawie odbywa się cicha licytacja oryginałów, dobrowolna dla autora, w której przychód po pokryciu ogłoszonych wcześniej kosztów dzieli się po połowie między autora i pulę nagród następnej edycji.
+4. **Plakat o sztucznej inteligencji** - dziesięć prac wykonanych ręcznie, pokazywanych na wystawie towarzyszącej gali; praca zwycięska trafia na okładkę antologii. Prace finałowe chcę pokazać po gali po raz drugi, na wystawie w galerii sztuki otwieranej wernisażem - galerii jeszcze nie mam, więc tego nie obiecuję w regulaminie.
 
 Nie napotkałem dotąd polskojęzycznego, jawnego zbioru zapisów rzeczywistych rozmów człowieka ze sztuczną inteligencją, opatrzonego komentarzem wyjaśniającym, co w nich było wartościowe; zastrzegam przy tym, że nie prowadziłem pełnego przeglądu rynku wydawniczego i twierdzę tylko tyle, ile sprawdziłem.
 
@@ -154,7 +154,7 @@ Rozkład kosztów na lata jest następujący:
 - **nagranie hymnu i jego premiera** przypadają na 2027 rok, w czasie trwania naboru, bez warunkowania nim otwarcia edycji;
 - **nabór zgłoszeń** trwa przez cały 2027 rok, a przyjmowanie zgłoszeń zamyka się 15 stycznia 2028 roku;
 - **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata: pierwsza runda prowadzona jest przez akademię na bieżąco od lutego 2027 do stycznia 2028, ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
-- **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace mają dotrzeć w terminie 21 dni od zawiadomienia, czyli do początku stycznia 2028;
+- **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace docierają na początku stycznia 2028;
 - **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
 - **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę kwietnia 2028 roku.
 
