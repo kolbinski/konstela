@@ -94,9 +94,12 @@ Obsadę, niezmienność tytułu i refrenu oraz kosztorys hymnu wraz z teledyskie
 
 ### Podcast towarzyszący Nagrodzie
 
-Piątym działaniem jest podcast towarzyszący Nagrodzie: cykliczne odcinki publikowane przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, prowadzone przez rozpoznawalnego autora popularyzatorskiego, a nie przez organizatora. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co człowiek napisze w kolejnym pytaniu: prowadzący kwestionuje samo pytanie gościa, zanim ten je wyśle, i proponuje inne.
+Piątym działaniem jest podcast towarzyszący Nagrodzie: cykliczne odcinki publikowane przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, prowadzone przez autora popularyzatorskiego, a nie przez organizatora. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co człowiek napisze w kolejnym pytaniu: prowadzący kwestionuje samo pytanie gościa, zanim ten je wyśle, i proponuje inne.
 
-Przewidziane są dwa stałe cykle - „Pierwszy raz z AI", z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji, oraz „NAIstolatek", z nastolatkami, dla których te narzędzia są codziennością; odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, którą można wycofać przed publikacją.
+Przewidziane są dwa stałe cykle:
+
+1.  **„Pierwszy raz z AI"** - z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji;
+2.  **„NAIstolatek"** - z nastolatkami, dla których te narzędzia są codziennością; odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, którą można wycofać przed publikacją.
 
 Planowanym modelem udostępniania jest nieodpłatne przekazywanie odcinków oraz ich fragmentów mediom i instytucjom edukacyjnym do wykorzystania we własnych materiałach, bez konieczności uzyskiwania odrębnej zgody; prowadzący nie jest jeszcze wybrany, więc nie przedstawiam tego jako stanu dokonanego.
 
