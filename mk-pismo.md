@@ -16,7 +16,7 @@ zwracam się w dwóch sprawach: z prośbą o wydanie listu intencyjnego wobec pr
 
 Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wyniki wszystkich czterech plebiscytów ogłaszane są podczas wspólnej gali.
 
-Zależy mi na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach.
+Zależy mi na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach; **jest to zamiar uzależniony od przebiegu pierwszej edycji w 2027 roku**, a nie element obecnej prośby.
 
 Regulaminy wszystkich plebiscytów, karty oceny i polityka prywatności są jawne od pierwszego dnia i dostępne pod adresem [konstela.org/regulaminy](https://konstela.org/regulaminy/) (strona [konstela.org](https://konstela.org) jest obecnie w wersji roboczej, docelową przygotuje agencja kreatywna).
 
@@ -35,7 +35,7 @@ Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgł
 
 ## Część pierwsza: prośba o list intencyjny
 
-Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu, jako propozycję do dowolnej zmiany lub odrzucenia.
+Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu, jako propozycję do dowolnej zmiany lub odrzucenia. Proszę przy tym o stanowisko w zakresie i formie właściwych dla Ministerstwa; jeżeli wydanie takiego dokumentu nie jest możliwe, proszę o informację o właściwej procedurze.
 
 Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i instytucjami oraz opublikować go na stronie Nagrody. Dla Ministerstwa dokument taki nie stanowi patronatu, nie zawiera zobowiązania finansowego, nie zawiera oceny plebiscytów ani rekomendacji organizatora, nie przesądza o późniejszym rozpoznaniu wniosku patronatowego ani dotacyjnego i nie gwarantuje realizacji przedsięwzięcia - zakres ten jest wpisany w sam projekt treści. Jeżeli Ministerstwo nie stosuje formy listu intencyjnego, w pełni wystarczy mi zwykła odpowiedź pisemna o wskazanej wyżej treści.
 
@@ -129,7 +129,7 @@ Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzą
 
 ## Pytania formalne
 
-Uprzejmie proszę o stanowisko w pięciu sprawach formalnych.
+Uprzejmie proszę o stanowisko w pięciu sprawach formalnych. Odpowiedź na każde z nich wymaga znajomości konstrukcji przedsięwzięcia, dlatego opisałem ją wyżej, a pełny obraz wraz z budżetem i harmonogramem zawiera załączona nota koncepcyjna. Jeżeli poszczególne pytania należą do właściwości różnych komórek lub instytucji, proszę o wskazanie właściwych adresatów.
 
 ## Pytanie 1: który Program Ministra jest właściwy dla Nagrody Konstela
 
@@ -145,7 +145,7 @@ Nie mam również pewności ani tego, czy plebiscyt kompozytorsko-wykonawczy po�
 
 Proszę o potwierdzenie statusu wnioskodawcy. Specyfikacja programu Muzyka na rok 2026, podobnie jak specyfikacje Sztuk wizualnych i Edukacji kulturalnej na ten rok, wymienia osoby fizyczne prowadzące działalność gospodarczą wprost wśród uprawnionych wnioskodawców spoza sektora finansów publicznych i na tej podstawie przyjmuję, że prowadzona przeze mnie działalność wpisana do CEIDG byłaby wnioskodawcą uprawnionym.
 
-Proszę o wskazanie, czy zasada ta ma zostać utrzymana w naborze na rok 2027 oraz czy obowiązuje analogicznie w pozostałych rozważanych programach. Proszę również o wskazanie, czy fundacja musi być wpisana do Krajowego Rejestru Sądowego najpóźniej w dniu złożenia wniosku i czy obowiązuje wymóg minimalnego okresu jej działalności.
+Jeżeli zasady naboru na rok 2027 nie zostały jeszcze ogłoszone, proszę o wskazanie, gdzie zostaną opublikowane warunki dotyczące uprawnionych wnioskodawców, oraz czy zasada ta obowiązuje analogicznie w pozostałych rozważanych programach. Proszę również o wskazanie, czy fundacja musi być wpisana do Krajowego Rejestru Sądowego najpóźniej w dniu złożenia wniosku i czy obowiązuje wymóg minimalnego okresu jej działalności.
 
 Dodam, że działalność gospodarczą i fundację rozważam jako **alternatywnych wnioskodawców**, a nie jako następstwo - nie zakładam dopuszczalności przejęcia przez fundację zadania rozpoczętego przez moją działalność i o taką możliwość nie wnoszę.
 
