@@ -10,7 +10,13 @@ Ministerstwo Kultury i Dziedzictwa Narodowego
 
 Szanowni Państwo,
 
-zwracam się w dwóch sprawach: z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej oraz z prośbą o wskazanie właściwej drogi finansowania jego części artystycznej. Obie sprawy są od siebie niezależne i proszę o rozpoznanie każdej z nich odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne. Niniejsze pismo nie jest wnioskiem o dotację ani o patronat honorowy.
+zwracam się w dwóch sprawach: z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej oraz z prośbą o wskazanie właściwej drogi finansowania jego części artystycznej.
+
+Obie sprawy są od siebie niezależne i proszę o rozpoznanie każdej z nich odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne.
+
+Niniejsze pismo nie jest wnioskiem o dotację ani o patronat honorowy.
+
+Prośby i pytania stawiam po opisie przedsięwzięcia, ponieważ rozstrzygnięcie każdej z nich wymaga znajomości jego konstrukcji.
 
 ## Czego dotyczy pismo
 
@@ -129,7 +135,7 @@ Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzą
 
 ## Pytania formalne
 
-Uprzejmie proszę o stanowisko w pięciu sprawach formalnych. Odpowiedź na każde z nich wymaga znajomości konstrukcji przedsięwzięcia, dlatego opisałem ją wyżej, a pełny obraz wraz z budżetem i harmonogramem zawiera załączona nota koncepcyjna. Jeżeli poszczególne pytania należą do właściwości różnych komórek lub instytucji, proszę o wskazanie właściwych adresatów.
+Uprzejmie proszę o stanowisko w pięciu sprawach formalnych. Pełny obraz przedsięwzięcia wraz z budżetem i harmonogramem zawiera załączona nota koncepcyjna. Jeżeli poszczególne pytania należą do właściwości różnych komórek lub instytucji, proszę o wskazanie właściwych adresatów.
 
 ## Pytanie 1: który Program Ministra jest właściwy dla Nagrody Konstela
 
