@@ -465,6 +465,8 @@ Cztery kryteria, łącznie 100 punktów, te same dla akademii filmu i dla jury. 
 
 **Zgłoszeniem jest link do filmu opublikowanego publicznie przez uczestnika w serwisie YouTube oraz link do zwiastuna tego filmu**, trwającego od 60 do 120 sekund, a nie przesłany plik. Zwiastun nie podlega ocenie i prosimy o niego z dwóch powodów: katalog kilkuset tytułów bez ruchomego obrazu nie jest przeglądalny, a emisja galowa przestaje wymagać montowania fragmentów cudzych filmów przez organizatora - materiał dostarcza autor, który wie, co z filmu pokazać.
 
+**Serwis jest wskazany z nazwy, a nie pozostawiony do wyboru**, ponieważ działający w nim system Content ID wykonuje pierwszy przesiew praw, zanim ktokolwiek u organizatora film obejrzy: kopia komercyjnego nagrania zostaje oflagowana albo zablokowana przez serwis, a zablokowany film jest sygnałem sam w sobie. Nie orzekamy przy tym o naruszeniu prawa - film niedostępny do pokazania po prostu nie nadaje się do prezentacji w przeglądzie zgłoszeń ani do emisji galowej. Playlisty serwisu dają przy tym gotową formę katalogu zgłoszeń i zestawu finałowego.
+
 Rozwiązanie to zawęża jednocześnie licencję, o jaką organizator prosi: do samego filmu nie potrzebuje niczego poza linkiem. Organizator nie przechowuje kopii filmu: prowadzony przez niego katalog, nazwany Projektornią, zawiera tytuł, miniaturę, zwiastun, opis, deklarację użycia narzędzi i link. Rozwiązanie to daje uczestnikowi wbudowane wycofanie - usunięcie filmu z własnego kanału jest skuteczne natychmiast i nie wymaga niczyjej zgody - i zdejmuje z organizatora odpowiedzialność za przechowywanie kilkuset godzin materiału.
 
 ### Film powstaje na potrzeby plebiscytu
