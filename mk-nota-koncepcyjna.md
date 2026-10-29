@@ -566,17 +566,39 @@ Podcast nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz dz
 
 ## 12. Terminy edycji pierwszej
 
-- okno rozmów: 1 stycznia - 31 grudnia 2027 (pełny rok kalendarzowy)
-- zgłoszenia: do 15 stycznia 2028
-- ocena pierwszej rundy: na bieżąco przez cały rok, partiami
-- ocena jury: styczeń 2028 i luty 2028
-- rozmowy weryfikacyjne: pierwsza połowa lutego 2028, tak aby między ich zakończeniem a zamknięciem treści antologii pozostały co najmniej dwa tygodnie na wejście uczestnika na zwolnione miejsce, komentarz jury i redakcję
-- nabór plakatów: zamknięcie na koniec listopada 2027, ogłoszenie finalistów w połowie grudnia 2027, oryginały w ciągu 21 dni od zawiadomienia, czyli do początku stycznia 2028, oględziny i werdykt na początku lutego 2028
-- nabór filmów: zamknięcie 30 listopada 2027, pierwsze przejście oceny przez akademię filmu w styczniu 2028, werdykt jury w lutym 2028, przy czym zwiastun emitowany na gali jest częścią zgłoszenia i po zamknięciu naboru nie podlega zmianie
-- nabór piosenek: zamknięcie 31 grudnia 2027, potem nagrania studyjne dziesiątki finalistów
+Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena, produkcja antologii i gala**. Rok, na który przypada każdy koszt, wskazuje kolumna „Rok kosztu" w załączonym zestawieniu zadania.
+
+**Przed otwarciem naboru**
+
+- publikacja regulaminów wszystkich czterech plebiscytów wraz z kartami oceny - przed dniem otwarcia naboru, tak aby zasady były znane, zanim ktokolwiek zgłosi pracę
+- otwarcie naboru: początek 2027 roku; naboru nie otwieram, dopóki środki na nagrody nie wpłyną na rachunek
+
+**2027 - rok naboru**
+
+- **okno rozmów, czyli okres, w którym musi zostać przeprowadzona zgłaszana rozmowa: 1 stycznia - 31 grudnia 2027.** Liczy się data rozmowy, a nie data zgłoszenia, i w oknie musi się zmieścić cała rozmowa - pierwsza i ostatnia wypowiedź. Ograniczenie to wynika z tego, że antologia każdej edycji jest zapisem rozmów z jednego roku kalendarzowego
+- zgłoszenia rozmów: przyjmowane od dnia otwarcia naboru do 15 stycznia 2028
+- pierwsza runda oceny rozmów: na bieżąco, partiami, przez cały rok naboru
+- premiera hymnu wraz z teledyskiem: 2027, w czasie trwania naboru
+- odcinki podcastu: przez cały rok naboru
+- zamknięcie naboru plakatów: 30 listopada 2027; ogłoszenie dziesięciu finalistów: połowa grudnia 2027, a oryginały prac docierają do organizatora do początku stycznia 2028
+- zamknięcie naboru filmów: 30 listopada 2027
+- zamknięcie naboru piosenek: 31 grudnia 2027; po nim nagrania studyjne dziesiątki finalistów
+
+**2028 - ocena, antologia i gala**
+
+- zamknięcie zgłoszeń rozmów: 15 stycznia 2028
+- ocena jury w plebiscycie na rozmowę: styczeń i luty 2028
+- rozmowy weryfikacyjne z autorami najwyżej ocenionych rozmów: pierwsza połowa lutego 2028
+- pierwsze przejście oceny filmów przez akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
+- oględziny oryginałów i werdykt jury plakatu: początek lutego 2028
+- werdykt jury piosenki: luty 2028
 - **zamknięcie treści antologii i przekazanie do produkcji: 29 lutego 2028** - od tego dnia treści nie da się już zmienić
-- druk nakładu i dostarczenie go do dystrybutora: marzec 2028 i pierwsza połowa kwietnia 2028; publiczna prezentacja okładki i rozpoczęcie sprzedaży następują dopiero w dniu premiery, ponieważ regulamin plebiscytu na plakat o sztucznej inteligencji zakazuje udostępnienia okładki przed galą
-- rozstrzygnięcie, gala i premiera antologii: **druga połowa kwietnia 2028**
+- druk nakładu i dostarczenie go do dystrybutora: marzec i pierwsza połowa kwietnia 2028; okładkę pokazujemy publicznie i zaczynamy sprzedaż dopiero w dniu premiery, ponieważ zwycięski plakat nie może zostać ujawniony przed galą
+- zamknięcie głosowania publiczności we wszystkich trzech plebiscytach artystycznych: w dniu gali, w południe
+- **rozstrzygnięcie, gala i premiera antologii: druga połowa kwietnia 2028**
+- wypłata nagród pieniężnych: do 14 dni od ogłoszenia wyników
+
+Regulaminy przewidują przy tym datę graniczną: jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, wyniki ogłaszam publicznie na stronie Nagrody i wykonuję wszystkie nagrody bez gali.
 
 Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
 
