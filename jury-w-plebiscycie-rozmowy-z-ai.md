@@ -24,6 +24,8 @@
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
+Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach; jest to zamiar uzależniony od przebiegu pierwszej edycji w 2027 roku.
+
 ### Co można zgłosić
 
 **Własną rozmowę z AI, po której zostaje coś więcej niż odpowiedź** – i co da się nazwać. Udział jest bezpłatny, a całe zgłoszenie to link do rozmowy udostępnionej przez czat, tytuł, krótki opis tego, do czego autor doszedł, i uzasadnienie, dlaczego rozmowa jest warta nagrody głównej. Zgłaszający nie musi znać się na sztucznej inteligencji: oceniana jest ta jedna rozmowa, a nie jego doświadczenie.

@@ -24,6 +24,8 @@
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
+Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach; jest to zamiar uzależniony od przebiegu pierwszej edycji w 2027 roku.
+
 ### Co można zgłosić
 
 **Film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana, trwający **od 20 do 90 minut**. Film ma powstać na potrzeby tego plebiscytu i zostać ukończony w 2027 roku. Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy. Nie narzucamy szczegółowego tematu ani stanowiska wobec AI.

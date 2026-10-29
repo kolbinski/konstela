@@ -24,6 +24,8 @@
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
+Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach; jest to zamiar uzależniony od przebiegu pierwszej edycji w 2027 roku.
+
 ### Kto może zgłosić piosenkę
 
 **Plebiscyt na najlepszą piosenkę o sztucznej inteligencji jest otwarty dla każdego.** Przyjmujemy autorskie piosenki po polsku, także zespołowe. Melodia, harmonia i wokal muszą pochodzić od ludzi; zasady korzystania z AI przy tekście opisujemy poniżej.

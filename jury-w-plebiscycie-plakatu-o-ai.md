@@ -24,6 +24,8 @@
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
+Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach; jest to zamiar uzależniony od przebiegu pierwszej edycji w 2027 roku.
+
 ### Kto może zgłosić plakat
 
 **Plebiscyt jest otwarty dla osób, które ukończyły 16 lat.** Przyjmujemy plakaty poświęcone sztucznej inteligencji, wykonane tradycyjnymi technikami malarskimi, rysunkowymi lub kolażowymi, także prace zespołowe. Podstawowa zasada: **obraz ma powstać pod ludzką ręką**, bez generatora obrazu.
