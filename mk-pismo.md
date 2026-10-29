@@ -8,7 +8,10 @@ Ministerstwo Kultury i Dziedzictwa Narodowego
 
 Szanowni Państwo,
 
-zwracam się w dwóch sprawach: z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej oraz z prośbą o wskazanie właściwej drogi finansowania jego części artystycznej.
+zwracam się w dwóch sprawach:
+
+1.  z prośbą o wydanie listu intencyjnego wobec przedsięwzięcia opisanego poniżej;
+2.  z prośbą o wskazanie właściwej drogi finansowania jego części artystycznej.
 
 Obie sprawy są od siebie niezależne i proszę o rozpoznanie każdej z nich odrębnie, również wtedy, gdy stanowisko w jednej z nich byłoby odmowne.
 
