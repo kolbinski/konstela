@@ -1,3 +1,5 @@
+*Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-list-intencyjny/*
+
 [nagłówek Ministerstwa Kultury i Dziedzictwa Narodowego]
 
 

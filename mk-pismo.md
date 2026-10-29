@@ -1,3 +1,5 @@
+*Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-pismo/*
+
 Sieradz, dnia [data]
 
 Ministerstwo Kultury i Dziedzictwa Narodowego
@@ -83,5 +85,5 @@ olbinski@gmail.com
 konstela.org
 
 **Załączniki:**
-1. Nagroda Konstela - nota koncepcyjna
-2. Projekt listu intencyjnego
+1. Nagroda Konstela - nota koncepcyjna; wersja online: https://konstela.org/dokument/mk-nota-koncepcyjna/
+2. Projekt listu intencyjnego; wersja online: https://konstela.org/dokument/mk-list-intencyjny/
