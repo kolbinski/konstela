@@ -101,7 +101,9 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 
 ## <!--ikona:zasady--><span>Zasady: ręka, nie generator</span>
 
-**Obraz ma powstać pod ludzką ręką.** Możesz używać generatora do poszukiwań, zanim weźmiesz pędzel. Nie możesz natomiast odtwarzać wygenerowanego obrazu ani jego istotnej części – w tym charakterystycznej kompozycji – przez kalkowanie, przerysowanie, przemalowanie albo domalowanie na wydrukowanym podkładzie. Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.
+**Obraz ma powstać pod ludzką ręką.** Możesz używać generatora do poszukiwań, zanim weźmiesz pędzel – napisz tylko w zgłoszeniu, do czego go użyłeś. Nie możesz natomiast odtwarzać wygenerowanego obrazu ani jego istotnej części – w tym charakterystycznej kompozycji – przez kalkowanie, przerysowanie, przemalowanie albo domalowanie na wydrukowanym podkładzie. Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.
+
+**Deklaracja zamiast zakazu na etapie poszukiwań.** Każde zgłoszenie zawiera krótką deklarację: z jakich narzędzi generatywnych korzystałeś, szukając odniesień, układu albo nastroju – albo że nie korzystałeś z żadnych. Deklaracja jest publikowana razem z pracą i **nie wpływa na ocenę**: jury nie dostaje za nią ani punktu więcej, ani mniej. Pytamy dlatego, że zakaz, którego nie dałoby się sprawdzić, karałby wyłącznie tych, którzy mówią prawdę.
 
 Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI – bo przy plakacie to właśnie obraz jest ocenianym wytworem, a nie jednym z kilku składników.
 

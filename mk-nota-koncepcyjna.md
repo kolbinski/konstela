@@ -349,6 +349,8 @@ Dlatego premiera hymnu przypada na czas trwania naboru, a nie na zamknięcie edy
 
 Otwarty plebiscyt na plakat o sztucznej inteligencji i jej roli w świecie, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Adresatami są twórcy rozwijający własną praktykę - ilustratorzy, malarze, studenci szkół artystycznych, projektanci - i nie pytamy o wystawy, dyplomy ani o przynależność do galerii. Zgłasza się zdjęcie albo skan pracy, nie oryginał, aby koszt wysyłki nie decydował o tym, kto weźmie udział.
 
+Praca nie może być wygenerowana, przemalowana z obrazu wygenerowanego ani domalowana na wydrukowanym podkładzie - i to jest zakaz sprawdzalny, bo opiera się na nagraniu z powstawania pracy i na oględzinach oryginałów finalistów. Natomiast **korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy, nie jest zakazane, lecz objęte obowiązkiem deklaracji**: uczestnik opisuje, do czego ich użył, deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji. Zakaz obejmujący etap poszukiwań byłby niesprawdzalny - nikt nie jest w stanie ustalić, czego ktoś szukał, zanim wziął pędzel - więc karałby wyłącznie uczciwych. Jest to ta sama konstrukcja co w plebiscycie na film, przy mocniejszym zakazie dotyczącym samego wykonania pracy.
+
 Format jest pionowy, dłuższy bok od 50 do 150 cm. Wszystkie zgłoszenia ogląda akademia plakatu, powoływana w każdej edycji, i przekazuje jury listę węższą według tej samej karty oceny; wybór dziesięciu finalistów i kolejność całej dziesiątki pozostają przy jury; kryteria oceny są ogłaszane przed naborem, tak samo jak w pozostałych plebiscytach.
 
 ### Kryteria oceny

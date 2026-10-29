@@ -103,6 +103,8 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
    f) oświadczenie o wykonaniu pracy ręcznie, zgodnie z § 6 ust. 5;
 
+   f1) **deklarację użycia narzędzi generatywnych na etapie poszukiwań**, zgodnie z § 6 ust. 3 – obowiązkowa, również wtedy, gdy Uczestnik z takich narzędzi nie korzystał. Deklaracja jest prezentowana publicznie w Galerii i w Archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
+
    g) oświadczenie o prawach, zgodnie z § 13 ust. 5;
 
    h) adres poczty elektronicznej do korespondencji.
@@ -182,11 +184,15 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. Niedopuszczalne jest wykorzystanie obrazu wygenerowanego narzędziem sztucznej inteligencji jako bezpośredniego wzorca całej pracy albo jej istotnego elementu – przez kalkowanie, przerysowanie, przemalowanie albo odtworzenie rozpoznawalnego rozwiązania obrazowego, w tym charakterystycznej kompozycji – a także domalowanie na wydrukowanym podkładzie pochodzącym z takiego narzędzia. **Samo podobieństwo tematu, stylu albo palety barw nie przesądza o naruszeniu.**
 
-3. Dozwolone i niewymagające deklaracji jest korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy.
+3. **Korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy, jest dozwolone i wymaga deklaracji.** Uczestnik opisuje w niej, z jakich narzędzi korzystał i w jakim zakresie – na przykład przy szukaniu odniesień, układu albo nastroju. Uczestnik, który z takich narzędzi nie korzystał, zaznacza to w deklaracji.
+
+3a. **Deklaracja jest publikowana razem ze zgłoszeniem** w Galerii i w Archiwum (§ 11) i **nie podlega ocenie w żadnym kryterium z § 7**. Jej treść nie wpływa na dopuszczenie pracy do plebiscytu ani na punktację; brak deklaracji jest brakiem formalnym podlegającym uzupełnieniu na zasadach z § 5.
+
+3b. Deklaracja nie zmienia zakazu z ust. 2: żadne użycie narzędzi generatywnych na etapie poszukiwań nie uprawnia do odtworzenia wygenerowanego obrazu ani jego istotnego elementu w pracy.
 
 4. Dozwolone jest użycie narzędzi cyfrowych wyłącznie przy przygotowaniu reprodukcji: kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia i odblasku. Niedopuszczalne jest dodawanie, usuwanie ani przekształcanie elementów obrazu.
 
-5. Uczestnik składa przy zgłoszeniu oświadczenie, że praca została wykonana zgodnie z ust. 1-4.
+5. Uczestnik składa przy zgłoszeniu oświadczenie, że praca została wykonana zgodnie z ust. 1-4 oraz że deklaracja z ust. 3 jest zgodna z prawdą.
 
 6. Weryfikacja opiera się na oświadczeniu, na nagraniu z § 4a, na pozostałych materiałach dokumentujących powstawanie pracy oraz na oględzinach oryginałów prac finałowych, a nie na rozpoznaniu narzędzia przez jury na podstawie reprodukcji. Materiały dokumentujące proces wykazują ręczne wykonanie, nie zaś samodzielność pomysłu. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w plebiscycie.
 
@@ -212,7 +218,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. **Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu i stanowi jego część.** Obowiązuje akademię i jury w tej samej wersji. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
-3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia, wcześniejszych wystaw ani uzasadnienia „dlaczego warte nagrody głównej” (§ 4 ust. 2 lit. c1).
+3. Oceniający nie bierze pod uwagę dorobku Uczestnika, jego wykształcenia, wcześniejszych wystaw, uzasadnienia „dlaczego warte nagrody głównej” (§ 4 ust. 2 lit. c1) ani deklaracji użycia narzędzi generatywnych (§ 6 ust. 3).
 
 4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Pomysł plastyczny, następnie w kryterium Ujęcie tematu, a w razie dalszej równości – głos przewodniczącego jury.
 
@@ -364,7 +370,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 ## § 11. Galeria i Archiwum
 
-1. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Galerii** – zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, link z § 4 ust. 2 lit. c2, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej” (§ 4 ust. 2 lit. c1) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w plebiscycie.
+1. Zgłoszenia, które przeszły weryfikację formalną, prezentowane są na stronie Nagrody w **Galerii** – zestawieniu wszystkich zgłoszeń edycji, uzupełnianym w miarę ich napływania. Prezentacja obejmuje reprodukcję pracy, tytuł, podpis Uczestnika, link z § 4 ust. 2 lit. c2, jeżeli Uczestnik go podał, uzasadnienie „dlaczego warte nagrody głównej” (§ 4 ust. 2 lit. c1), deklarację użycia narzędzi generatywnych (§ 6 ust. 3) oraz technikę i wymiary. Prezentacja w Galerii jest warunkiem udziału w plebiscycie.
 
 2. Fotografie z etapów powstawania pracy nie są publikowane i służą wyłącznie weryfikacji.
 
