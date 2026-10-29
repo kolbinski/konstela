@@ -147,7 +147,7 @@ Dodam, że działalność gospodarczą i fundację rozważam jako **alternatywny
 
 ## Pytanie 3: czy Nagroda Konstela może być zadaniem dwuletnim w latach 2027-2028
 
-Proszę o wskazanie warunków realizacji tego zakresu w latach 2027-2028. Wiem, że Programy Ministra przewidują zadania dwuletnie, więc nie pytam o samą dopuszczalność, lecz o to, czy przedstawiony tu zakres może być zadaniem dwuletnim i jakie warunki finansowania wieloletniego są przewidywane.
+Proszę o wskazanie warunków realizacji tego zakresu w latach 2027-2028. Wiem, że Programy Ministra przewidują zadania dwuletnie, to jest realizowane w dwóch następujących po sobie latach budżetowych, więc nie pytam o samą dopuszczalność, lecz o to, czy przedstawiony tu zakres może być takim zadaniem i na jakich warunkach dotacja jest wtedy przyznawana i rozliczana w każdym z dwóch lat.
 
 Rozkład kosztów na lata jest następujący:
 
@@ -160,9 +160,16 @@ Rozkład kosztów na lata jest następujący:
 
 Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: przesyłka oryginałów do Organizatora wypada na przełomie 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace mają dotrzeć przed oględzinami na początku lutego 2028, natomiast realizacja wystawy i przesyłki powrotne przypadają na 2028 rok.
 
-## Pytanie 4: wybór naboru i koszty ponoszone przed podpisaniem umowy
+## Pytanie 4: który nabór wniosków wybrać i wydatki sprzed zawarcia umowy
 
-Proszę o wskazanie warunków, które pozwolą mi wybrać nabór: czy wsparcie w naborze na rok 2028 mogłoby objąć wyodrębniony finał przedsięwzięcia rozpoczętego w 2027 roku, jakie znaczenie dla oceny wniosku ma wcześniejsze rozpoczęcie całości, a także **od kiedy mogą być ponoszone koszty kwalifikowalne, w jakim terminie przekazywane są środki i czy dopuszczalne jest finansowanie wydatków poniesionych przed podpisaniem umowy**. To ostatnie jest dla mnie istotniejsze niż sama dopuszczalność zadania dwuletniego: pierwsze koszty przypadają na początek 2027 roku, a finansowania pomostowego nie mam.
+Proszę o wskazanie warunków, które pozwolą mi wybrać nabór wniosków o dofinansowanie. Chodzi o cztery rzeczy:
+
+1.  czy dofinansowanie przyznane w naborze wniosków na rok 2028 mogłoby objąć wyodrębniony finał przedsięwzięcia rozpoczętego w 2027 roku;
+2.  jakie znaczenie dla oceny wniosku ma to, że całość rozpoczęła się wcześniej;
+3.  **od którego dnia wydatki mogą zostać uznane za kwalifikowalne**, to jest możliwe do pokrycia z przyznanej dotacji;
+4.  **w jakim terminie dotacja jest przekazywana** i czy wolno nią pokryć wydatki poniesione przed zawarciem umowy o dofinansowanie.
+
+Dwie ostatnie sprawy są dla mnie istotniejsze niż sama dopuszczalność zadania dwuletniego. Pierwsze wydatki przypadają na początek 2027 roku, a nie dysponuję finansowaniem pomostowym, czyli środkami, które pozwoliłyby je ponieść przed wypłatą dotacji i rozliczyć po jej otrzymaniu.
 
 ## Pytanie 5: wymagany udział środków z innych źródeł
 
