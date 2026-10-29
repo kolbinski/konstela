@@ -48,6 +48,44 @@ if (fs.existsSync(KATALOG_IKON)) {
 /* Rozdzielacz sekcji w dokumencie: ten sam ornament co na stronie głównej,
    przed każdym nagłówkiem paragrafu poza pierwszym. Pierwszy go nie dostaje,
    bo stoi zaraz pod tytułem dokumentu i kreską, która już rozdziela. */
+/* Kotwice nagłówków nadawane już przy budowaniu. Pasek nawigacyjny umie
+   je policzyć sam, ale robi to po załadowaniu strony - czyli po chwili, w
+   której przeglądarka próbowała przewinąć do fragmentu z adresu. Odesłanie
+   z innego dokumentu prowadziłoby wtedy na początek strony. Reguła slugu
+   jest ta sama co w `assets/pasek.js`, żeby adresy z obu źródeł się
+   zgadzały; pasek zastanego `id` nie nadpisuje. */
+const POLSKIE = { ą: 'a', ć: 'c', ę: 'e', ł: 'l', ń: 'n', ó: 'o', ś: 's', ź: 'z', ż: 'z' };
+
+function naSlug(tekst) {
+  return tekst
+    .toLowerCase()
+    .replace(/[ąćęłńóśźż]/g, (z) => POLSKIE[z])
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 60);
+}
+
+function nadajKotwice(html) {
+  const uzyte = new Set();
+  return html.replace(/<h2([^>]*)>([\s\S]*?)<\/h2>/g, (calosc, atrybuty, wnetrze) => {
+    if (/\sid=/.test(atrybuty)) return calosc;
+    /* Nagłówek ma zwykle postać ikona + <span>tytuł</span> - tak samo jak
+       w pasku bierzemy sam tytuł, bez ścieżek rysunku. */
+    const dopasowanie = wnetrze.match(/<span[^>]*>([\s\S]*?)<\/span>/);
+    const tytulNaglowka = (dopasowanie ? dopasowanie[1] : wnetrze)
+      .replace(/<[^>]+>/g, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    const slug = naSlug(tytulNaglowka);
+    if (!slug) return calosc;
+    let kandydat = slug;
+    let n = 2;
+    while (uzyte.has(kandydat)) kandydat = `${slug}-${n++}`;
+    uzyte.add(kandydat);
+    return `<h2${atrybuty} id="${kandydat}">${wnetrze}</h2>`;
+  });
+}
+
 function rozdzielSekcje(html) {
   const rysunek = IKONY['rozdzielacz'];
   if (!rysunek) return html;
@@ -455,7 +493,9 @@ function main() {
         adresKanoniczny,
         obrazek: OBRAZKI[nazwa] || OBRAZEK_DOMYSLNY,
         indeksowac,
-        tresc: otworzObceWNowejKarcie(rozdzielSekcje(marked.parse(wstawIkony(md, false)))),
+        tresc: otworzObceWNowejKarcie(
+          rozdzielSekcje(nadajKotwice(marked.parse(wstawIkony(md, false))))
+        ),
       })
     );
 
