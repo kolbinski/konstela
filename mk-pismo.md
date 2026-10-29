@@ -24,7 +24,7 @@ Zależy mi na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wy
 
 Regulaminy wszystkich plebiscytów, karty oceny i polityka prywatności są jawne od pierwszego dnia i dostępne pod adresem [konstela.org/regulaminy](https://konstela.org/regulaminy/) (strona [konstela.org](https://konstela.org) jest obecnie w wersji roboczej, docelową przygotuje agencja kreatywna).
 
-## Co powstaje z Nagrody
+## Co powstaje z Nagrody Konstela
 
 Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do resortu kultury. W każdej edycji powstaje:
 
@@ -67,13 +67,15 @@ Czwartym działaniem jest nagranie hymnu przedsięwzięcia do tekstu „Zapytaj 
 
 Piątym działaniem jest podcast towarzyszący Nagrodzie: cykliczne odcinki publikowane przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, prowadzone przez rozpoznawalnego autora popularyzatorskiego, a nie przez organizatora. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co człowiek napisze w kolejnym pytaniu: prowadzący kwestionuje samo pytanie gościa, zanim ten je wyśle, i proponuje inne. Przewidziane są dwa stałe cykle - „Pierwszy raz z AI", z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji, oraz „NAIstolatek", z nastolatkami, dla których te narzędzia są codziennością; odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, którą można wycofać przed publikacją. Planowanym modelem udostępniania jest nieodpłatne przekazywanie odcinków oraz ich fragmentów mediom i instytucjom edukacyjnym do wykorzystania we własnych materiałach, bez konieczności uzyskiwania odrębnej zgody; prowadzący nie jest jeszcze wybrany, więc nie przedstawiam tego jako stanu dokonanego. Opis formatu, obu cykli i modelu udostępniania zawiera **rozdział 11 załączonej noty koncepcyjnej, „Podcast towarzyszący"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#11-podcast-towarzyszacy](https://konstela.org/dokument/mk-nota-koncepcyjna/#11-podcast-towarzyszacy).
 
-Wymieniam podcast w tym miejscu, ponieważ wpływa on na pierwsze z moich pytań formalnych. Nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz działaniem z zakresu edukacji kulturalnej i upowszechniania, a cykl „NAIstolatek" adresowany jest wprost do młodzieży. Może to oznaczać, że właściwy program jest inny niż dla trzech plebiscytów artystycznych, albo że zadanie wymaga podziału.
+Wymieniam podcast w tym miejscu, ponieważ wpływa on na pierwsze z moich pytań formalnych. Nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz działaniem z zakresu edukacji kulturalnej i upowszechniania. Cykl „Pierwszy raz z AI" dedykowany jest szczególnie osobom starszym oraz osobom bez doświadczenia z czatami AI. Cykl „NAIstolatek" adresowany jest wprost do młodzieży. Może to oznaczać, że właściwy program jest inny niż dla trzech plebiscytów artystycznych, albo że zadanie wymaga podziału.
 
 ## Na jakim etapie jest przedsięwzięcie
 
-Mówię otwarcie, na jakim etapie jest przedsięwzięcie, ponieważ przesądza to o treści moich pytań. Żadnego z plebiscytów nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników. Organizatorem ma być fundacja powoływana wyłącznie w tym celu. Projekt jej statutu jest gotowy, natomiast wizytę u notariusza i wpis do rejestru planuję po zabezpieczeniu finansowania, zgodnie z zasadą, że przed jego pozyskaniem nie podejmuję zobowiązań finansowych; do chwili wpisu jedynym możliwym wnioskodawcą jest prowadzona przeze mnie jednoosobowa działalność gospodarcza. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne nie wnioskowałem.
+Mówię otwarcie, na jakim etapie jest przedsięwzięcie, ponieważ przesądza to o treści moich pytań. Żadnego z plebiscytów nie ogłaszam publicznie, dopóki nie ma środków na nagrody; kosztorys przedstawiony w załączonej nocie jest zestawieniem potrzeb, a nie ogłoszeniem wobec uczestników.
 
-Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzących: **tryb czytelności włączany jednym przyciskiem**, w którym pismo w całym serwisie ma wielkość 30 pikseli, a układ sprowadza się do czarnego tekstu na białym tle. **Regulaminy i karty oceny publikujemy jako tekst czytelny dla czytnika ekranu, a nie jako pliki do pobrania.** Rozwiązania te opisuje rozdział 13 załączonej noty.
+Organizatorem ma być fundacja powoływana wyłącznie w tym celu. Projekt jej statutu jest gotowy, natomiast wizytę u notariusza i wpis do rejestru planuję po zabezpieczeniu finansowania, zgodnie z zasadą, że przed jego pozyskaniem nie podejmuję zobowiązań finansowych; do chwili wpisu jedynym możliwym wnioskodawcą jest prowadzona przeze mnie jednoosobowa działalność gospodarcza. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne nie wnioskowałem.
+
+Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzących: **tryb czytelności włączany jednym przyciskiem**, w którym pismo w całym serwisie ma wielkość wyraźnie czytelną, a układ sprowadza się do czarnego tekstu na białym tle. **Regulaminy i karty oceny publikujemy jako tekst czytelny dla czytnika ekranu, a nie jako pliki do pobrania.** Rozwiązania te opisuje rozdział 13 załączonej noty.
 
 ## Pytania formalne
 
