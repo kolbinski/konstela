@@ -458,32 +458,6 @@ Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytac
 
 Otwarty plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo formie mieszanej. **Film trwa od 20 do 90 minut.** Dolna granica istnieje dlatego, że bez niej kilkuminutowa etiuda konkurowałaby z pełnym metrażem według tej samej karty oceny; górna - dlatego, że akademia filmu ma obejrzeć wszystkie zgłoszenia, a nie wybrane.
 
-**Zgłoszeniem jest link do filmu opublikowanego publicznie przez uczestnika w serwisie YouTube oraz link do zwiastuna tego filmu**, trwającego od 60 do 120 sekund, a nie przesłany plik. Zwiastun nie podlega ocenie i prosimy o niego z dwóch powodów: katalog kilkuset tytułów bez ruchomego obrazu nie jest przeglądalny, a emisja galowa przestaje wymagać montowania fragmentów cudzych filmów przez organizatora - materiał dostarcza autor, który wie, co z filmu pokazać.
-
-Rozwiązanie to zawęża jednocześnie licencję, o jaką organizator prosi: do samego filmu nie potrzebuje niczego poza linkiem. Organizator nie przechowuje kopii filmu: prowadzony przez niego katalog, nazwany Projektornią, zawiera tytuł, miniaturę, zwiastun, opis, deklarację użycia narzędzi i link. Rozwiązanie to daje uczestnikowi wbudowane wycofanie - usunięcie filmu z własnego kanału jest skuteczne natychmiast i nie wymaga niczyjej zgody - i zdejmuje z organizatora odpowiedzialność za przechowywanie kilkuset godzin materiału.
-
-**Film ma zostać zrealizowany na potrzeby plebiscytu** i ukończony w roku edycji, najpóźniej w dniu zgłoszenia. Zgłaszanie go równolegle do innych konkursów, festiwali i przeglądów jest dozwolone, a nagroda albo nominacja otrzymana gdzie indziej niczego nie wyklucza; wykluczona jest natomiast przeróbka filmu ukończonego wcześniej. Zakaz nie obejmuje natomiast składników: zdjęć archiwalnych, materiałów stockowych, wcześniejszego scenariusza ani istniejącej muzyki.
-
-Po gali autor dysponuje filmem bez ograniczeń, a licencja jest niewyłączna. Film i zwiastun muszą być publicznie dostępne w serwisie YouTube, bez opłaty i bez zakładania konta; status niepubliczny nie spełnia tego wymogu. Regulamin zwraca przy tym uwagę, że część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie, więc zgłoszenie może zamknąć tę drogę - organizator pozostawia ocenę tego ryzyka uczestnikowi i nie obiecuje mu czegoś, na co nie ma wpływu.
-
-**Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** Nagrody pieniężne otrzymuje czołowa trójka; pozostałych siedmiu finalistów otrzymuje wyróżnienia, które obejmują dyplom, bez nagrody pieniężnej. Miejsce w zestawie filmów kierowanym do pokazów kinowych przysługuje wszystkim dziesięciu finalistom, jeżeli organizator pozyska dystrybutora.
-
-Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów - jedna gala nie zmieści dziesięciu prezentacji - a pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna. Pokazy kinowe są celem Organizatora, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania dystrybutora. Umowę z dystrybutorem zawiera uczestnik i jemu przysługują wpływy z biletów; organizator nie nabywa praw dystrybucyjnych i nie uczestniczy w tych wpływach, może natomiast uzgodnić z dystrybutorem pokrycie kosztów przygotowania zestawu.
-
-Jest to ta sama konstrukcja co przy płycie w plebiscycie na piosenkę. Liczba dziesięciu finalistów jest tu zgodna z pozostałymi plebiscytami, a liczba pięciu emisji wynika z czasu trwania gali.
-
-**Emisja u nadawcy albo na platformie streamingowej jest kolejnym celem**, następującym po pokazach kinowych, i prowadzoną w tym samym modelu: organizator składa zestaw filmów finałowych i przedstawia autorów, umowę zawiera uczestnik, jemu przysługują wpływy, a emisja wymaga jego odrębnej zgody. Takiego partnera również jeszcze nie mam i nie przedstawiam tego jako rezultatu edycji.
-
-**Praca jury jest ograniczona co do rozmiaru, żeby dała się wycenić.** Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Dwadzieścia filmów po najwyżej 90 minut to 30 godzin oglądania; bez takiego limitu honorarium jury byłoby funkcją liczby zgłoszeń, a więc niemożliwe do przedstawienia w kosztorysie.
-
-**W tym jednym plebiscycie nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji.** Uczestnik opisuje, co w jego filmie zrobiły takie narzędzia; deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji, więc film wygenerowany w całości i film powstały bez tych narzędzi oceniane są według tej samej karty.
-
-Różnica wobec piosenki i plakatu jest celowa i wynika z przedmiotu oceny: przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem, więc w obu wypadkach da się wskazać, co musi pochodzić od człowieka, i sprawdzić to na jednym przedmiocie albo nagraniu.
-
-Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz generatywny jest dziś najszybciej zmieniającą się częścią tych narzędzi: zakaz postawiony dziś byłby w dniu gali arbitralny, a jego weryfikacja wymagałaby audytu produkcji, którego organizator nie jest w stanie przeprowadzić. Zamiast zakazu, którego nie dałoby się dotrzymać, regulamin wprowadza jawność, której dotrzymać można.
-
-**Pierwsze przejście oceny prowadzi akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji.** Wynika to z arytmetyki: film do 90 minut, mnożony przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, daje pracę, której kilkuosobowe jury nie wykona. Koszt ten rośnie wprost z naborem i jest w budżecie wyodrębniony razem z pierwszą rundą oceny rozmów, u tego samego sponsora akademii.
-
 ### Kryteria oceny
 
 Cztery kryteria, łącznie 100 punktów, te same dla akademii filmu i dla jury. Punktacja poniżej jest propozycją organizatora. **Ostateczny kształt kryteriów, wag punktowych oraz opisów przedziałów ocen wraz z przykładami ich zastosowania powstanie z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostaje niezmienny do rozstrzygnięcia edycji. Opisy kryteriów uwzględnią przy tym różnice między dokumentem, fabułą, animacją i esejem filmowym.
@@ -492,6 +466,44 @@ Cztery kryteria, łącznie 100 punktów, te same dla akademii filmu i dla jury. 
 2.  **Forma** - maksymalnie 30 punktów. Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza.
 3.  **Rzetelność** - maksymalnie 20 punktów. Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii. W filmie fabularnym i animowanym oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od twierdzeń o rzeczywistości.
 4.  **Siła oddziaływania** - maksymalnie 20 punktów. Czy film pozostawia wyraźną myśl, obraz albo emocję, którą widz potrafi po obejrzeniu nazwać.
+
+### Zgłoszenie
+
+**Zgłoszeniem jest link do filmu opublikowanego publicznie przez uczestnika w serwisie YouTube oraz link do zwiastuna tego filmu**, trwającego od 60 do 120 sekund, a nie przesłany plik. Zwiastun nie podlega ocenie i prosimy o niego z dwóch powodów: katalog kilkuset tytułów bez ruchomego obrazu nie jest przeglądalny, a emisja galowa przestaje wymagać montowania fragmentów cudzych filmów przez organizatora - materiał dostarcza autor, który wie, co z filmu pokazać.
+
+Rozwiązanie to zawęża jednocześnie licencję, o jaką organizator prosi: do samego filmu nie potrzebuje niczego poza linkiem. Organizator nie przechowuje kopii filmu: prowadzony przez niego katalog, nazwany Projektornią, zawiera tytuł, miniaturę, zwiastun, opis, deklarację użycia narzędzi i link. Rozwiązanie to daje uczestnikowi wbudowane wycofanie - usunięcie filmu z własnego kanału jest skuteczne natychmiast i nie wymaga niczyjej zgody - i zdejmuje z organizatora odpowiedzialność za przechowywanie kilkuset godzin materiału.
+
+### Film powstaje na potrzeby plebiscytu
+
+**Film ma zostać zrealizowany na potrzeby plebiscytu** i ukończony w roku edycji, najpóźniej w dniu zgłoszenia. Zgłaszanie go równolegle do innych konkursów, festiwali i przeglądów jest dozwolone, a nagroda albo nominacja otrzymana gdzie indziej niczego nie wyklucza; wykluczona jest natomiast przeróbka filmu ukończonego wcześniej. Zakaz nie obejmuje natomiast składników: zdjęć archiwalnych, materiałów stockowych, wcześniejszego scenariusza ani istniejącej muzyki.
+
+Po gali autor dysponuje filmem bez ograniczeń, a licencja jest niewyłączna. Film i zwiastun muszą być publicznie dostępne w serwisie YouTube, bez opłaty i bez zakładania konta; status niepubliczny nie spełnia tego wymogu. Regulamin zwraca przy tym uwagę, że część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie, więc zgłoszenie może zamknąć tę drogę - organizator pozostawia ocenę tego ryzyka uczestnikowi i nie obiecuje mu czegoś, na co nie ma wpływu.
+
+### Werdykt i nagrody
+
+**Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** Nagrody pieniężne otrzymuje czołowa trójka; pozostałych siedmiu finalistów otrzymuje wyróżnienia, które obejmują dyplom, bez nagrody pieniężnej. Miejsce w zestawie filmów kierowanym do pokazów kinowych przysługuje wszystkim dziesięciu finalistom, jeżeli organizator pozyska dystrybutora.
+
+Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów - jedna gala nie zmieści dziesięciu prezentacji - a pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna. Pokazy kinowe są celem Organizatora, a nie zobowiązaniem regulaminowym, ponieważ zależą od pozyskania dystrybutora. Umowę z dystrybutorem zawiera uczestnik i jemu przysługują wpływy z biletów; organizator nie nabywa praw dystrybucyjnych i nie uczestniczy w tych wpływach, może natomiast uzgodnić z dystrybutorem pokrycie kosztów przygotowania zestawu.
+
+Jest to ta sama konstrukcja co przy płycie w plebiscycie na piosenkę. Liczba dziesięciu finalistów jest tu zgodna z pozostałymi plebiscytami, a liczba pięciu emisji wynika z czasu trwania gali.
+
+### Pokazy kinowe i emisja
+
+**Emisja u nadawcy albo na platformie streamingowej jest kolejnym celem**, następującym po pokazach kinowych, i prowadzoną w tym samym modelu: organizator składa zestaw filmów finałowych i przedstawia autorów, umowę zawiera uczestnik, jemu przysługują wpływy, a emisja wymaga jego odrębnej zgody. Takiego partnera również jeszcze nie mam i nie przedstawiam tego jako rezultatu edycji.
+
+**Praca jury jest ograniczona co do rozmiaru, żeby dała się wycenić.** Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Dwadzieścia filmów po najwyżej 90 minut to 30 godzin oglądania; bez takiego limitu honorarium jury byłoby funkcją liczby zgłoszeń, a więc niemożliwe do przedstawienia w kosztorysie.
+
+### Deklaracja użycia narzędzi
+
+**W tym jednym plebiscycie nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji.** Uczestnik opisuje, co w jego filmie zrobiły takie narzędzia; deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji, więc film wygenerowany w całości i film powstały bez tych narzędzi oceniane są według tej samej karty.
+
+Różnica wobec piosenki i plakatu jest celowa i wynika z przedmiotu oceny: przy plakacie obraz jest całym dziełem, przy piosence melodia i głos są jego rdzeniem, więc w obu wypadkach da się wskazać, co musi pochodzić od człowieka, i sprawdzić to na jednym przedmiocie albo nagraniu.
+
+Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz generatywny jest dziś najszybciej zmieniającą się częścią tych narzędzi: zakaz postawiony dziś byłby w dniu gali arbitralny, a jego weryfikacja wymagałaby audytu produkcji, którego organizator nie jest w stanie przeprowadzić. Zamiast zakazu, którego nie dałoby się dotrzymać, regulamin wprowadza jawność, której dotrzymać można.
+
+### Pierwsze przejście oceny
+
+**Pierwsze przejście oceny prowadzi akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji.** Wynika to z arytmetyki: film do 90 minut, mnożony przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, daje pracę, której kilkuosobowe jury nie wykona. Koszt ten rośnie wprost z naborem i jest w budżecie wyodrębniony razem z pierwszą rundą oceny rozmów, u tego samego sponsora akademii.
 
 ### Budżet plebiscytu na film o sztucznej inteligencji
 
