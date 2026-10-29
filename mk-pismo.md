@@ -14,7 +14,11 @@ zwracam się w dwóch sprawach: z prośbą o wydanie listu intencyjnego wobec pr
 
 ## Czego dotyczy pismo
 
-Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wszystkie cztery werdykty rozstrzyga jedna gala. Regulaminy wszystkich plebiscytów, karty oceny i polityka prywatności są jawne od pierwszego dnia i dostępne pod adresem [konstela.org/regulaminy](https://konstela.org/regulaminy/) (strona [konstela.org](https://konstela.org) jest obecnie w wersji roboczej, docelową przygotuje agencja kreatywna).
+Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wszystkie cztery werdykty rozstrzyga jedna gala.
+
+Zależy mi na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach.
+
+Regulaminy wszystkich plebiscytów, karty oceny i polityka prywatności są jawne od pierwszego dnia i dostępne pod adresem [konstela.org/regulaminy](https://konstela.org/regulaminy/) (strona [konstela.org](https://konstela.org) jest obecnie w wersji roboczej, docelową przygotuje agencja kreatywna).
 
 ## Co powstaje z Nagrody
 
