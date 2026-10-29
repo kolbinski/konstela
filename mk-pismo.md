@@ -99,7 +99,7 @@ Piątym działaniem jest podcast towarzyszący Nagrodzie: cykliczne odcinki publ
 Przewidziane są dwa stałe cykle:
 
 1.  **„Pierwszy raz z AI"** - z osobą, która nigdy wcześniej nie korzystała ze sztucznej inteligencji;
-2.  **„NAIstolatek"** - z nastolatkami, dla których te narzędzia są codziennością; odcinki z udziałem osób niepełnoletnich powstają za pisemną zgodą opiekunów, którą można wycofać przed publikacją.
+2.  **„NAIstolatek"** - z nastolatkami, dla których te narzędzia są codziennością.
 
 Planowanym modelem udostępniania jest nieodpłatne przekazywanie odcinków oraz ich fragmentów mediom i instytucjom edukacyjnym do wykorzystania we własnych materiałach, bez konieczności uzyskiwania odrębnej zgody; prowadzący nie jest jeszcze wybrany, więc nie przedstawiam tego jako stanu dokonanego.
 
