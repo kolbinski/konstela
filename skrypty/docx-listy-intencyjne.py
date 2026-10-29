@@ -48,13 +48,14 @@ def nota_projektu(d, tresc):
     akapit(d, tresc, po=10, rozmiar=8.5)
 
 
-def stopka_podpisu(d, pieczec):
+def stopka_podpisu(d, pieczec, nota_o_podpisie=False):
     akapit(d, pieczec, przed=10, po=20)
     akapit(d, '..........................................')
     akapit(d, 'podpis, imię i nazwisko, stanowisko', po=14)
-    akapit(d,
-           'Pismo może zostać opatrzone kwalifikowanym podpisem elektronicznym zamiast '
-           'podpisu odręcznego i pieczęci.', rozmiar=8.5)
+    if nota_o_podpisie:
+        akapit(d,
+               'Pismo może zostać opatrzone kwalifikowanym podpisem elektronicznym zamiast '
+               'podpisu odręcznego i pieczęci.', rozmiar=8.5)
 
 
 def mkidn():
@@ -98,7 +99,7 @@ def mkidn():
     akapit(d, 'Adresat może posługiwać się niniejszym pismem w kontaktach z potencjalnymi partnerami '
               'i fundatorami Nagrody oraz publikować jego treść w całości, bez cytowania fragmentów '
               'w oderwaniu od pozostałych postanowień.', align=J)
-    stopka_podpisu(d, '(pieczęć urzędowa)')
+    stopka_podpisu(d, '(pieczęć urzędowa)', nota_o_podpisie=True)
     d.save(KATALOG + '/mk-list-intencyjny.docx')
 
 

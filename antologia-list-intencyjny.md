@@ -33,5 +33,3 @@ Adresat może posługiwać się niniejszym pismem w kontaktach z potencjalnymi p
 ..........................................
 podpis, imię i nazwisko, stanowisko
 
-
-Pismo może zostać opatrzone kwalifikowanym podpisem elektronicznym zamiast podpisu odręcznego i pieczęci.
