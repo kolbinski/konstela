@@ -126,7 +126,7 @@ Proszę o stanowisko w sprawie udziału środków pochodzących z innych źróde
 
 Jestem również świadomy, że System Obsługi Programów został wyłączony z użytkowania po incydencie bezpieczeństwa z 6 października 2026 roku, a naborów do Programów Ministra na rok 2027 nie ogłoszono do dnia sporządzenia niniejszego pisma. Będę wdzięczny za informację, czy i w jakim zakresie wpływa to na terminy tych naborów.
 
-## Zakończenie
+## Kontakt
 
 Pozostaję do dyspozycji w razie pytań oraz gotowy do przedstawienia koncepcji na spotkaniu lub do przekazania pełnej dokumentacji przedsięwzięcia, w tym regulaminów wszystkich plebiscytów, w terminie dla Państwa dogodnym.
 
@@ -137,6 +137,6 @@ Krzysztof Olbiński
 olbinski@gmail.com
 konstela.org
 
-**Załączniki:**
+## Załączniki
 1. Nagroda Konstela - nota koncepcyjna; wersja online: https://konstela.org/dokument/mk-nota-koncepcyjna/
 2. Projekt listu intencyjnego; wersja online: https://konstela.org/dokument/mk-list-intencyjny/
