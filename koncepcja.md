@@ -406,7 +406,7 @@ Szczegóły plebiscytu i hymnu prowadzi [plebiscyt-ustalenia](/dokument/plebiscy
 
 *Przyczyny, dla których pierwotnie wykluczono gwiazdę, pozostają aktualne jako zasada ogólna: do artysty pierwszej wielkości pisze się pierwszy raz tylko raz, a dziś nie ma czym poprzeć prośby - nie ma fundatora ani rozstrzygniętej edycji.*
 
-**Koszt.** Nie mieści się już w 15 tys. zł z wariantu B. Hymn wraz z teledyskiem ma w kosztorysie plebiscytu widełki **60-100 tys. zł** i jest pozycją, na którą środki potrzebne są najwcześniej ze wszystkich, bo premiera otwiera nabór na początku 2027 roku.
+**Koszt.** Nie mieści się już w 15 tys. zł z wariantu B. Hymn wraz z teledyskiem ma w kosztorysie plebiscytu widełki **60-100 tys. zł** a termin nagrania i premiery zależy od zabezpieczenia środków oraz od skompletowania jury; premierę planujemy w czasie trwania naboru w 2027 roku, ale otwarcie edycji nie jest od niej uzależnione.
 
 **Wersje wygenerowane przez AI zostają na stronie i mają tam zadanie.** Nie są demem ani materiałem roboczym: pokazują punkt wyjścia, a po nagraniu hymnu przez jurorów staną obok wersji ludzkiej do porównania i oceny przez publiczność. To jest ta sama teza, którą mierzy karta oceny głównej Nagrody, postawiona w dźwięku.
 

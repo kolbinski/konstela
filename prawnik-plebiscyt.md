@@ -142,7 +142,7 @@ Decyzja z 24.10.2026: **zespoły i duety są dopuszczone.** „Własne" znaczy, 
 
 ## 10. Hymn „Zapytaj inaczej"
 
-Utwór powstaje do istniejącego tekstu i jest nagrywany przez jurorów, poza konkursem, wraz z teledyskiem. Nagranie i premiera przypadają na początek 2027 roku, przed otwarciem naboru.
+Utwór powstaje do istniejącego tekstu i jest nagrywany przez jurorów, poza konkursem, wraz z teledyskiem. Termin nagrania i premiery zależy od zabezpieczenia środków i od skompletowania jury; otwarcie naboru nie jest od niego uzależnione.
 
 - Umowy z wykonawcami: zakres przeniesienia praw albo licencji, prawa do nagrania i do teledysku.
 - Prawa do tekstu i ich relacja do praw kompozytora muzyki powstającej do tego tekstu. **Istotne:** tekst „Zapytaj inaczej" powstał z rozmowy z AI zakończonej prośbą o wersję tekstu, a następnie z redakcyjnych decyzji organizatora (zmiana wersu refrenu, odrzucenie wariantu zwrotki pierwszej, wybór tego, co zostaje). Pytanie o ochronę prawnoautorską takiego tekstu jest wspólne z sekcją 5 i rozstrzyga, co organizator może przenieść na wykonawców i na wydawnictwo oraz czy osoba trzecia może ten tekst wykorzystać bez zgody.
