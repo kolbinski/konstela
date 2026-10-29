@@ -14,7 +14,7 @@ zwracam się w dwóch sprawach: z prośbą o wydanie listu intencyjnego wobec pr
 
 ## Czego dotyczy pismo
 
-Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wszystkie cztery werdykty rozstrzyga jedna gala.
+Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawaną osobom, które prowadzą pogłębione rozmowy z systemami sztucznej inteligencji. Nagradzany jest człowiek, a nie program, ponieważ oceniane są pytania, a nie odpowiedzi. Obok nagrody przyznawanej za rozmowę z AI są jeszcze nagrody w trzech plebiscytach na prace poświęcone sztucznej inteligencji: na film, na piosenkę i na plakat; wyniki wszystkich czterech plebiscytów ogłaszane są podczas wspólnej gali.
 
 Zależy mi na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Gdy uda się ją zorganizować w naszym kraju, planowana jest organizacja jej w innych krajach.
 
@@ -37,7 +37,7 @@ Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgł
 
 Uprzejmie proszę o pisemne stanowisko stwierdzające, że Ministerstwo zapoznało się z koncepcją Nagrody i uznaje jej tematykę za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. W załączeniu przekazuję projekt treści takiego listu, jako propozycję do dowolnej zmiany lub odrzucenia.
 
-Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i instytucjami oraz opublikować go na stronie Nagrody. Wolę powiedzieć to otwarcie, niż zostawiać domysłom. Dla Ministerstwa dokument taki nie stanowi patronatu, nie zawiera zobowiązania finansowego, nie zawiera oceny plebiscytów ani rekomendacji organizatora, nie przesądza o późniejszym rozpoznaniu wniosku patronatowego ani dotacyjnego i nie gwarantuje realizacji przedsięwzięcia - zakres ten jest wpisany w sam projekt treści. Jeżeli Ministerstwo nie stosuje formy listu intencyjnego, w pełni wystarczy mi zwykła odpowiedź pisemna o wskazanej wyżej treści.
+Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami, partnerami i instytucjami oraz opublikować go na stronie Nagrody. Dla Ministerstwa dokument taki nie stanowi patronatu, nie zawiera zobowiązania finansowego, nie zawiera oceny plebiscytów ani rekomendacji organizatora, nie przesądza o późniejszym rozpoznaniu wniosku patronatowego ani dotacyjnego i nie gwarantuje realizacji przedsięwzięcia - zakres ten jest wpisany w sam projekt treści. Jeżeli Ministerstwo nie stosuje formy listu intencyjnego, w pełni wystarczy mi zwykła odpowiedź pisemna o wskazanej wyżej treści.
 
 ## Część druga: prośba o wskazanie drogi finansowania części artystycznej
 
@@ -50,12 +50,12 @@ Pierwszym działaniem jest otwarty plebiscyt na piosenkę o sztucznej inteligenc
 Obowiązują przy tym trzy reguły, które są dla tego plebiscytu istotne:
 
 - **melodia, harmonia i wokal muszą pochodzić od człowieka** - niedopuszczalne jest zgłoszenie melodii lub harmonii przejętej z nagrania wygenerowanego przez narzędzie sztucznej inteligencji, dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu nastroju i sprawdzaniu pomysłów przed napisaniem własnej melodii;
-- **tekst wolno napisać przy udziale sztucznej inteligencji**, pod warunkiem opisania przy zgłoszeniu, w jaki sposób powstał; nie wymagamy podania proporcji wkładu, ponieważ wielkości takiej nikt nie poda zgodnie z prawdą;
+- **tekst wolno napisać przy udziale sztucznej inteligencji**, pod warunkiem opisania przy zgłoszeniu, w jaki sposób powstał; nie wymagamy procentowego określania wkładu sztucznej inteligencji, lecz opisu sposobu pracy;
 - **użycie narzędzi na etapie produkcji i obróbki dźwięku jest dopuszczalne** i również podlega zadeklarowaniu.
 
 Weryfikacja opiera się na oświadczeniu zgłaszającego oraz na możliwości przedstawienia materiałów roboczych przez finalistów, nie na rozpoznaniu narzędzia przez jury podczas odsłuchu. Rozdzielenie to jest celowe: plebiscyt o sztucznej inteligencji, w którym skomponować i zaśpiewać mogłaby sztuczna inteligencja, nie miałby sensu, natomiast zakaz posługiwania się nią przy pisaniu tekstu byłby sprzeczny z tezą całego przedsięwzięcia, które premiuje świadome korzystanie z tych narzędzi, a nie powstrzymywanie się od nich. Prawa do zgłoszonych utworów pozostają w całości przy ich autorach; organizator otrzymuje wyłącznie prawo niewyłączne do prezentacji zgłoszeń na stronie, podczas gali oraz w zapisie wideo gali udostępnianym następnie bezpłatnie.
 
-Elementem tego plebiscytu jest produkcja nagrań studyjnych dziesięciu najwyżej ocenionych utworów, finansowana przez organizatora. Jest to świadomie wybrany rezultat plebiscytu: ma z niego zostać nie tylko werdykt, lecz także porządnie nagrane piosenki. Organizator zapewnia możliwość profesjonalnego nagrania wszystkim dziesięciu finalistom; faktyczna liczba nagrań zależy od tego, ilu z nich z tej możliwości skorzysta, ponieważ regulamin pozwala z sesji nie korzystać bez utraty nagrody ani miejsca w dziesiątce. Nagrania mają następnie ukazać się na płycie wydanej przez wydawnictwo-partnera; takiego partnera jeszcze nie ma, a nagrania powstaną niezależnie od tego, czy się znajdzie.
+Elementem tego plebiscytu jest produkcja nagrań studyjnych dziesięciu najwyżej ocenionych utworów, finansowana przez organizatora. Jest to świadomie wybrany rezultat plebiscytu: ma z niego zostać nie tylko werdykt, lecz także profesjonalne nagrania studyjne. Organizator zapewnia możliwość profesjonalnego nagrania wszystkim dziesięciu finalistom; faktyczna liczba nagrań zależy od tego, ilu z nich z tej możliwości skorzysta, ponieważ regulamin pozwala z sesji nie korzystać bez utraty nagrody ani miejsca w dziesiątce. Nagrania mają następnie ukazać się na płycie wydanej przez wydawnictwo-partnera; takiego partnera jeszcze nie ma, a nagrania powstaną niezależnie od tego, czy się znajdzie.
 
 Udział w jury zadeklarował Michał Sołtan, wokalista, półfinalista 14. edycji programu The Voice of Poland. Pozostali członkowie jury są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
 
@@ -106,7 +106,7 @@ Czwartym działaniem jest nagranie hymnu przedsięwzięcia do tekstu „Zapytaj 
 
 ### Podcast towarzyszący Nagrodzie
 
-Piątym działaniem jest podcast towarzyszący Nagrodzie: cykliczne odcinki publikowane przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, a nie organizator, ponieważ nazwisko prowadzącego zmienia odbiór, a organizator prowadzący podcast o własnej nagrodzie byłby wyłącznie jej reklamą.
+Piątym działaniem jest podcast towarzyszący Nagrodzie: cykliczne odcinki publikowane przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu. Prowadzi go rozpoznawalny autor popularyzatorski, a nie organizator, ponieważ nazwisko prowadzącego zmienia odbiór, a organizator prowadzący podcast o własnej nagrodzie nie dawałby tej gwarancji.
 
 Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz to, co człowiek napisze w kolejnym pytaniu. Prowadzący kwestionuje samo pytanie gościa, zanim ten je wyśle, i proponuje inne: czy rzeczywiście chcesz zapytać o to, czy raczej poszukać nieoczywistego połączenia z czymś, co pozornie do tematu nie należy. Odcinek pokazuje więc na żywo to, co Nagroda ocenia w zgłoszeniach i co opisuje jawna karta oceny: rozpiętość skojarzeń, drążenie i weryfikowanie odpowiedzi. Jest to format edukacyjny ubrany w rozmowę, a nie przegląd możliwości narzędzi.
 
