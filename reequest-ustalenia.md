@@ -18,7 +18,7 @@ Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden 
 
 ## 2. Dwa plebiscyty
 
-**Nagroda Konstela.** Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył ze sztuczną inteligencją. Ocenia najpierw akademia czytająca, potem kilkuosobowe jury, według **jawnej karty oceny** opublikowanej przed naborem: cztery kryteria o równej wadze, w tym wyłapywanie zmyśleń oraz to, co człowiek z rozmowy wyniósł. Nagradzany jest człowiek, nie program. Udział bezpłatny, jedno zgłoszenie na osobę potwierdzane kodem SMS.
+**Nagroda Konstela.** Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył ze sztuczną inteligencją. Ocenia najpierw akademia czytająca, potem jury, według **jawnej karty oceny** opublikowanej przed naborem: cztery kryteria o równej wadze, w tym wyłapywanie zmyśleń oraz to, co człowiek z rozmowy wyniósł. Nagradzany jest człowiek, nie program. Udział bezpłatny, jedno zgłoszenie na osobę potwierdzane kodem SMS.
 
 **Plebiscyt na piosenkę.** Otwarty plebiscyt na własny utwór o sztucznej inteligencji: własny tekst, własna muzyka, własne wykonanie; zespoły i duety dopuszczone, ze wskazaniem reprezentanta składu. Adresat: każdy, niezależnie od dorobku. **Zgłasza się czytelne demo**, nie gotowy singiel, żeby koszt studia nie decydował o tym, kto weźmie udział; zgłoszeniem jest link do YouTube. Jedno zgłoszenie na osobę.
 
