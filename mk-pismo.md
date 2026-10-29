@@ -15,7 +15,7 @@ Przygotowuję Nagrodę Konstela - coroczną, ogólnopolską nagrodę przyznawan�
 Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do resortu kultury. W każdej edycji powstaje:
 
 1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury.
-2. **Film o sztucznej inteligencji** - dziesięć filmów o długości od 20 do 90 minut, które bez tej edycji by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi, przy czym partnera takiego jeszcze nie mam i piszę o tym wprost.
+2. **Film o sztucznej inteligencji** - dziesięć filmów o długości od 20 do 90 minut, które bez Nagrody Konstela by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi, przy czym partnera takiego jeszcze nie mam i piszę o tym wprost.
 3. **Piosenka o sztucznej inteligencji** - dziesięć nagrań studyjnych utworów napisanych na potrzeby edycji, finansowanych przez organizatora, z prawami pozostającymi przy autorach; wydanie płytowe zależy od pozyskania partnera wydawniczego.
 4. **Plakat o sztucznej inteligencji** - dziesięć prac wykonanych ręcznie, pokazywanych na wystawie towarzyszącej gali; praca zwycięska trafia na okładkę antologii.
 
