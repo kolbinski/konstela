@@ -28,7 +28,7 @@ Zaplecze decyzyjne pisma `mk-pismo.md`. Wyjęte z samego pisma, żeby plik zawie
 
 Pytania są świadomie w dwóch miejscach: w wiadomości jednym wierszem każde, w pismie z uzasadnieniem. Wiadomość bez pytań ryzykuje odpowiedź potwierdzającą zapoznanie się i nic więcej, bo urzędnik nie musi otwierać załącznika, żeby odpisać.
 
-**Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziałach 10 i 11; w pozycjach rozstrzygniętych wynosi od 152 do 272 tys. zł dla piosenki i hymnu oraz 153 480 zł dla plakatu; w plakacie czekają na wycenę pozycje: honoraria jury, realizacja wystawy przy gali, wystawa w galerii, obsługa prawna i dojazdy finalistów. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
+**Czego w piśmie nie ma.** Kosztorysu - jest w nocie, w rozdziałach 7 i 8; w pozycjach rozstrzygniętych wynosi od 152 do 272 tys. zł dla piosenki i hymnu oraz 153 480 zł dla plakatu; w plakacie czekają na wycenę pozycje: honoraria jury, realizacja wystawy przy gali, wystawa w galerii, obsługa prawna i dojazdy finalistów. Składu jury poza Michałem Sołtanem, bo reszta nie jest potwierdzona - do dopisania, gdy będzie. Wniosku o patronat honorowy; to osobna ścieżka i osobny czas.
 
 **Dwie kwoty zatwierdzone 26.10.2026:** 3 tys. zł nagrody publiczności dla wykonawcy - tyle samo, ile w plakacie i w filmie - oraz 1 tys. zł za najlepsze uzasadnienie wyboru, które występuje wyłącznie przy piosence.
 

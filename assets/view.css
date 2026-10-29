@@ -486,16 +486,37 @@
          trzykolumnowych, czyli karty oceny i podobnych. W tabeli
          dwukolumnowej obie kolumny niosą tyle samo i podział zostaje
          przeglądarce: zwężenie pierwszej łamałoby daty co słowo. */
+      /* Kolumny poza ostatnią zwężają się do swojej treści, ale wolno im
+         złamać wiersz: przy zakazie łamania jedna długa nazwa roli
+         zabierała ponad jedną trzecią tabeli i spychała opis do wąskiego
+         paska. Dolna granica pilnuje, by nie zwęziły się do jednego słowa.
+         Kolumny liczbowe łamania i tak nie mają - rozstrzyga o tym reguła
+         dla wyrównania do prawej. */
       #content table:has(th:nth-child(3)) th:not(:last-child),
       #content table:has(th:nth-child(3)) td:not(:last-child) {
         width: 1%;
-        white-space: nowrap;
+        min-width: 8rem;
       }
+      /* Kolumnie opisowej dajemy 100%, a nie auto: przy układzie
+         automatycznym "auto" oznacza dla przeglądarki podział wolnego
+         miejsca między wszystkie kolumny, więc kolumna z nazwą roli
+         puchła, a opis łamał się co trzy słowa. Sto procent sprowadza
+         pozostałe kolumny do szerokości ich treści. */
       #content table:has(th:nth-child(3)) th:last-child,
       #content table:has(th:nth-child(3)) td:last-child {
-        width: auto;
+        width: 100%;
         white-space: normal;
       }
+      /* Kolumna wyrównana do prawej niesie kwotę albo liczbę, a te mają
+         stać w jednym wierszu: "154 480 zł" złamane po spacji przestaje
+         być jedną liczbą. Przy okazji kolumna zwęża się do swojej
+         zawartości, więc całą wolną szerokość dostaje kolumna opisowa. */
+      #content th[align='right'],
+      #content td[align='right'] {
+        white-space: nowrap;
+        width: 1%;
+      }
+
       /* Tabela dwukolumnowa: pierwsza kolumna dostaje dolną granicę
          szerokości. Przeglądarka, licząc sama, zwężała ją do najdłuższego
          słowa i „koniec listopada 2027" łamało się na trzy wiersze, choć
