@@ -86,7 +86,7 @@ Pierwsze przejście oceny prowadzi akademia filmu, powoływana w każdej edycji,
 
 ### Hymn Nagrody
 
-Czwartym działaniem jest nagranie hymnu przedsięwzięcia do tekstu „Zapytaj inaczej", poza plebiscytem. Tekst jest dziś wersją roboczą; zainteresowanych członków jury plebiscytu na piosenkę o sztucznej inteligencji zaprosimy do opracowania jego ostatecznej wersji oraz skomponowania i nagrania hymnu, a udział jest dobrowolny i wymaga osobnych ustaleń.
+Czwartym działaniem jest nagranie piosenki - hymnu przedsięwzięcia do tekstu „Zapytaj inaczej", poza plebiscytem. Tekst tej piosenki jest dziś wersją roboczą; zainteresowanych członków jury plebiscytu na piosenkę o sztucznej inteligencji zaprosimy do opracowania jego ostatecznej wersji oraz skomponowania i nagrania hymnu, a udział jest dobrowolny i wymaga osobnych ustaleń.
 
 Premierę planuję w 2027 roku, w czasie trwania naboru; **otwarcie naboru nie jest od niej uzależnione**, ponieważ termin nagrania zależy od zabezpieczenia środków oraz od uzgodnienia składu kompozytorskiego i wykonawczego. Hymn wraz z trzema najwyżej ocenionymi utworami plebiscytu zostanie wykonany na żywo podczas gali rozstrzygnięcia pierwszej edycji, w drugiej połowie kwietnia 2028 roku.
 
