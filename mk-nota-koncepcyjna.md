@@ -228,7 +228,9 @@ Ostatnia kolumna zestawienia mówi, czy pozycja mieści się w zakresie mojego p
 
 ### Czym ten budżet jest, a czym nie jest
 
-Jest to budżet przygotowany dla partnerów prywatnych, a nie kosztorys wydatków kwalifikowanych programu: zawiera narzut wykonawcy i doliczany automatycznie VAT. Ewentualny wniosek zostanie opracowany według zasad właściwego programu, z uwzględnieniem statusu VAT wnioskodawcy. Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
+Jest to budżet przygotowany dla partnerów, jakich będę poszukiwał, a nie kosztorys wydatków kwalifikowanych programu: zawiera narzut wykonawcy i doliczany automatycznie VAT. Ewentualny wniosek zostanie opracowany według zasad właściwego programu, z uwzględnieniem statusu VAT wnioskodawcy.
+
+Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
 Pozycje objęte pytaniem sumują się dziś do **665 880,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. **Szesnaście pozycji w tej grupie czeka na wycenę** i wymieniam je, aby liczba powyżej nie była czytana jako całość:
 
