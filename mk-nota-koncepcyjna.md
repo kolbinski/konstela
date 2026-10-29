@@ -4,7 +4,7 @@
 
 **W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
 
-Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji, otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie, oraz otwarty plebiscyt na film o sztucznej inteligencji. Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w rozdziale 2, a ich konstrukcja i kosztorysy w rozdziałach 7, 8 i 9.
+Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej samej gali: otwarty plebiscyt na piosenkę o sztucznej inteligencji, otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie, oraz otwarty plebiscyt na film o sztucznej inteligencji. Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w [rozdziale 2](#2-problem-ktory-adresujemy), a ich konstrukcja i kosztorysy w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film).
 
 **Proszę o dwie rzeczy, niezależne od siebie:**
 
@@ -21,10 +21,10 @@ Plebiscytem, w którym nagradzamy **nie sztuczną inteligencję, lecz człowieka
 
 Nagroda przyznawana będzie w czterech kategoriach:
 
-1.  **Rozmowa z AI** - uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy LLM. Nie przyjmujemy transkryptów w plikach, ponieważ tekst w pliku można dowolnie zredagować. Link jest zabezpieczeniem mocniejszym, choć nie rozstrzygającym: pokazuje zapis po stronie dostawcy, razem z pytaniami nieudanymi, ale sam w sobie nie dowodzi, w jakich okolicznościach rozmowa powstała - temu służą dalsze zabezpieczenia opisane w rozdziale 3, w podrozdziale „Uczciwość plebiscytu".
-2.  **Film o sztucznej inteligencji** - otwarty plebiscyt na film trwający od 20 do 90 minut, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo mieszanej. Film ma powstać na potrzeby plebiscytu i zostać ukończony w roku edycji. Zgłoszeniem jest link do filmu i do zwiastuna, publicznie dostępnych w serwisie YouTube; organizator nie przechowuje kopii. W tej jednej kategorii nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji, publikowanej razem ze zgłoszeniem i niepodlegającej punktacji. Opisuje ją rozdział 9.
-3.  **Piosenka o sztucznej inteligencji** - otwarty plebiscyt na utwór autorski, adresowany do wykonawców półprofesjonalnych. Zgłoszeniem jest czytelne nagranie demonstracyjne, nie gotowy singiel, żeby o udziale nie decydowała wysokość kosztów produkcji. Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać przy udziale sztucznej inteligencji pod warunkiem opisania sposobu pracy. Dziesięciu finalistów otrzymuje nagranie studyjne na koszt organizatora, z prawami pozostającymi przy autorach. Opisuje ją rozdział 7.
-4.  **Plakat o sztucznej inteligencji** - otwarty plebiscyt na plakat wykonany ręcznie dowolną techniką tradycyjną: farbą, tuszem, kolażem. Obowiązuje tu reguła ostrzejsza niż przy piosence, bo ocenianym wytworem jest sam obraz: niedopuszczalna jest praca wygenerowana, przemalowana z obrazu wygenerowanego albo domalowana na wydrukowanym podkładzie. Zgłasza się zdjęcie albo skan, oryginały nadsyłają dopiero finaliści, a praca zwycięska trafia na okładkę antologii. Opisuje ją rozdział 8.
+1.  **Rozmowa z AI** - uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy LLM. Nie przyjmujemy transkryptów w plikach, ponieważ tekst w pliku można dowolnie zredagować. Link jest zabezpieczeniem mocniejszym, choć nie rozstrzygającym: pokazuje zapis po stronie dostawcy, razem z pytaniami nieudanymi, ale sam w sobie nie dowodzi, w jakich okolicznościach rozmowa powstała - temu służą dalsze zabezpieczenia opisane w [rozdziale 3](#3-plebiscyt-na-rozmowe-z-ai), w podrozdziale „Uczciwość plebiscytu".
+2.  **Film o sztucznej inteligencji** - otwarty plebiscyt na film trwający od 20 do 90 minut, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo mieszanej. Film ma powstać na potrzeby plebiscytu i zostać ukończony w roku edycji. Zgłoszeniem jest link do filmu i do zwiastuna, publicznie dostępnych w serwisie YouTube; organizator nie przechowuje kopii. W tej jednej kategorii nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji, publikowanej razem ze zgłoszeniem i niepodlegającej punktacji. Opisuje ją [rozdział 9](#9-plebiscyt-na-film).
+3.  **Piosenka o sztucznej inteligencji** - otwarty plebiscyt na utwór autorski, adresowany do wykonawców półprofesjonalnych. Zgłoszeniem jest czytelne nagranie demonstracyjne, nie gotowy singiel, żeby o udziale nie decydowała wysokość kosztów produkcji. Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać przy udziale sztucznej inteligencji pod warunkiem opisania sposobu pracy. Dziesięciu finalistów otrzymuje nagranie studyjne na koszt organizatora, z prawami pozostającymi przy autorach. Opisuje ją [rozdział 7](#7-plebiscyt-na-piosenke).
+4.  **Plakat o sztucznej inteligencji** - otwarty plebiscyt na plakat wykonany ręcznie dowolną techniką tradycyjną: farbą, tuszem, kolażem. Obowiązuje tu reguła ostrzejsza niż przy piosence, bo ocenianym wytworem jest sam obraz: niedopuszczalna jest praca wygenerowana, przemalowana z obrazu wygenerowanego albo domalowana na wydrukowanym podkładzie. Zgłasza się zdjęcie albo skan, oryginały nadsyłają dopiero finaliści, a praca zwycięska trafia na okładkę antologii. Opisuje ją [rozdział 8](#8-plebiscyt-na-plakat).
 
 Wyniki wszystkich czterech kategorii ogłaszane są podczas wspólnej gali.
 
@@ -40,9 +40,9 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny plebiscyt
 
 **Rozmowa jest pierwszym miejscem, w którym to widać, ale nie jedynym.** Przedmiotem Nagrody nie są rozmowy z programem, lecz współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Rozmowa jest tym miejscem, w którym współistnienie daje się zapisać i ocenić najdokładniej, i dlatego stoi w centrum konstrukcji. Nie jest jednak miejscem jedynym ani najbardziej dotkniętym: rynek muzyczny jest jednym z obszarów, w których skutki narzędzi generatywnych są dziś najwyraźniej widoczne i najszerzej omawiane.
 
-Dlatego plebiscyt na piosenkę o sztucznej inteligencji, opisany w rozdziale 7, nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: plebiscyt, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu.
+Dlatego plebiscyt na piosenkę o sztucznej inteligencji, opisany w [rozdziale 7](#7-plebiscyt-na-piosenke), nie jest dodatkiem o innej tematyce ani oprawą artystyczną gali. Jest **tą samą tezą postawioną w drugim miejscu**: plebiscyt, w którym sztucznej inteligencji nie wolno skomponować ani zaśpiewać, mierzy ludzką część dokładnie tak, jak karta oceny mierzy pytania człowieka, a nie odpowiedzi programu.
 
-To samo dotyczy plebiscytu na plakat o sztucznej inteligencji, opisanego w rozdziale 8, w którym obraz ma powstać pod ludzką ręką, a oceniany jest właśnie obraz, oraz plebiscytu na film o sztucznej inteligencji, opisanego w rozdziale 9, w którym zamiast zakazu obowiązuje jawna deklaracja użycia narzędzi. Wszystkie trzy plebiscyty odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
+To samo dotyczy plebiscytu na plakat o sztucznej inteligencji, opisanego w [rozdziale 8](#8-plebiscyt-na-plakat), w którym obraz ma powstać pod ludzką ręką, a oceniany jest właśnie obraz, oraz plebiscytu na film o sztucznej inteligencji, opisanego w [rozdziale 9](#9-plebiscyt-na-film), w którym zamiast zakazu obowiązuje jawna deklaracja użycia narzędzi. Wszystkie trzy plebiscyty odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
 
 ## 3. Plebiscyt na rozmowę z AI
 
@@ -174,7 +174,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Fizyczne:** medal z pieczęcią Nagrody, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
-Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach 7, 8 i 9; nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
+Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film); nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
 
 **Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie.
 
@@ -215,7 +215,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 ### Część artystyczna jest poza tym budżetem
 
-Powyższe 999 746,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach 7, 8 i 9. Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
+Powyższe 999 746,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film). Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
 
 Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa plebiscytu na plakat o sztucznej inteligencji i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję.
 
@@ -237,11 +237,11 @@ Pozycje objęte pytaniem sumują się dziś do **665 880,00 zł** i jest to suma
 - w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów;
 - w plebiscycie na film: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, przygotowanie techniczne zwiastunów do emisji galowej, pełne pokazy filmów finałowych, obsługa prawna, dojazd i nocleg finalistów.
 
-Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach 7, 8 i 9 przy odpowiednich kosztorysach.
+Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film) przy odpowiednich kosztorysach.
 
 ## 7. Plebiscyt na piosenkę
 
-To jest ta część przedsięwzięcia, w odniesieniu do której pytam o drogę finansowania. Dlaczego nie jest ona oprawą artystyczną plebiscytu na rozmowę ze sztuczną inteligencją, lecz drugim postawieniem tej samej tezy, wyjaśnia rozdział 2.
+To jest ta część przedsięwzięcia, w odniesieniu do której pytam o drogę finansowania. Dlaczego nie jest ona oprawą artystyczną plebiscytu na rozmowę ze sztuczną inteligencją, lecz drugim postawieniem tej samej tezy, wyjaśnia [rozdział 2](#2-problem-ktory-adresujemy).
 
 Otwarty plebiscyt na utwór o sztucznej inteligencji i jej roli w świecie. Uczestnicy nadsyłają utwory własne: własny tekst, własną muzykę i własne wykonanie, przy czym dopuszczalne są zgłoszenia zespołowe, w których autor tekstu, kompozytor i wykonawca są różnymi osobami - zgłoszenie wskazuje wówczas osobę reprezentującą cały skład. Adresatami są wykonawcy półprofesjonalni, to jest osoby, które piszą i grają, mają własną publiczność, ale nie są artystami o ustalonej pozycji rynkowej.
 
@@ -431,7 +431,7 @@ Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we 
 
 Liczby zgłoszeń nie prognozuję - jest to pierwsza edycja plebiscytu, którego nikt wcześniej nie prowadził. Żadna z tych pozycji nie jest kwotą ryczałtową wziętą z oszacowania całości.
 
-**Cztery pozycje pozostają bez kwoty i nie jest to przeoczenie.** Realizacja wystawy przy gali zależy od miejsca gali, a wystawa w galerii sztuki od pozyskania galerii, i żadne z nich nie jest wybrane - z tego samego powodu niewyceniona jest realizacja części artystycznej gali w rozdziale 7. Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam przed zabezpieczeniem finansowania.
+**Cztery pozycje pozostają bez kwoty i nie jest to przeoczenie.** Realizacja wystawy przy gali zależy od miejsca gali, a wystawa w galerii sztuki od pozyskania galerii, i żadne z nich nie jest wybrane - z tego samego powodu niewyceniona jest realizacja części artystycznej gali w [rozdziale 7](#7-plebiscyt-na-piosenke). Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam przed zabezpieczeniem finansowania.
 
 Dojazd i nocleg finalistów są niewycenione również przy plebiscycie na piosenkę i filmu, a rozstrzygnięcie ich wyłącznie w jednym z trzech plebiscytów dałoby kosztorys niespójny. Honoraria jury pozostawiam do ustalenia z przewodniczącym składu: przy ocenie rozmów stawka godzinowa jest właściwą miarą, bo mierzy pracę, natomiast przy jurorze, którego udział sam jest wartością dla plebiscytu, iloczyn godzin i stawki nie jest tą miarą i nie chcę go przedstawiać jako kosztorysu. Wycena wszystkich czterech powstanie przed złożeniem jakiegokolwiek wniosku.
 
@@ -439,11 +439,11 @@ Dojazd i nocleg finalistów są niewycenione również przy plebiscycie na piose
 
 Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu pracach, zastrzegając, że format do 150 cm dłuższego boku przekracza standardowe limity przesyłek i może wymagać transportu dedykowanego. Ubezpieczenie przyjąłem przy sumie deklarowanej rzędu 100 tys. zł dla całej dziesiątki.
 
-**Dlaczego pula nagród jest tu wyższa niż w plebiscycie na piosenkę.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w plebiscycie na piosenkę jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z rozdziału 7. Zgłoszeniem w plebiscycie na plakat jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po plebiscycie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym plebiscycie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu.
+**Dlaczego pula nagród jest tu wyższa niż w plebiscycie na piosenkę.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w plebiscycie na piosenkę jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z [rozdziału 7](#7-plebiscyt-na-piosenke). Zgłoszeniem w plebiscycie na plakat jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po plebiscycie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym plebiscycie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu.
 
 ### Czego kosztorys nie obejmuje
 
-Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa plebiscytu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w rozdziale 7.
+Druku antologii, który jest pozycją części wydawniczej, ani kosztów licytacji, prowadzonej przez mecenasa plebiscytu. Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, a organizator jest jego płatnikiem - ta sama uwaga co w [rozdziale 7](#7-plebiscyt-na-piosenke).
 
 ## 9. Plebiscyt na film
 
