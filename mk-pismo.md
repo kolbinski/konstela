@@ -31,7 +31,9 @@ Dla tej nagrody powstała dedykowana jej strona internetowa [konstela.org](https
 
 ## Co powstaje z Nagrody Konstela
 
-Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do Ministerstwa Kultury i Dziedzictwa Narodowego. W każdej edycji powstaje:
+Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do Ministerstwa Kultury i Dziedzictwa Narodowego.
+
+W każdej edycji powstaje:
 
 1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury.
 2. **Film o sztucznej inteligencji** - dziesięć najlepszych filmów o długości od 20 do 90 minut, które bez Nagrody Konstela by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi kinowemu oraz stacji telewizyjnej lub serwisowi streamingowemu, przy czym partnerów takich jeszcze nie mam i piszę o tym wprost.

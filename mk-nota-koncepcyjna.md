@@ -8,7 +8,7 @@ Towarzyszą jej trzy równorzędne plebiscyty artystyczne, rozstrzygane na tej s
 
 **Proszę o dwie rzeczy, niezależne od siebie:**
 
-1.  **List intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody.
+1.  **List intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje ją za wpisującą się w upowszechnianie kultury, czytelnictwa i dorobku polskojęzycznego. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłych decyzji; odnosi się wyłącznie do zgodności tematyki z obszarem działania resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami.
 2.  **Wskazanie właściwej drogi finansowania części artystycznej** i odpowiedź na pytania formalne postawione w piśmie przewodnim. **Niniejsza nota nie jest wnioskiem o dotację ani o patronat honorowy.**
 
 Obie prośby wraz z pytaniami formalnymi są postawione w piśmie przewodnim, do którego ta nota jest załącznikiem.
