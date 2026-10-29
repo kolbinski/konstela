@@ -2,8 +2,6 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-pismo/*
 
-Sieradz, dnia [data]
-
 Ministerstwo Kultury i Dziedzictwa Narodowego
 
 **Dotyczy: Nagrody Konstela - prośba o list intencyjny oraz o wskazanie drogi finansowania części artystycznej**
