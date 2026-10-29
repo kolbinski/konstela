@@ -210,8 +210,6 @@ Poziom docelowy wynika z przedstawionych założeń, a nie z uznania. Nagroda Ni
 
 **Nagroda główna w wysokości 300 tys. zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu**. Regulamin przewiduje przy tym, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu zgłoszeń (§ 9 ust. 3). Przepis ten chroni uczestników danej edycji przed obniżeniem przyrzeczonej kwoty; utrzymanie realnej wartości nagrody między edycjami jest osobną sprawą i zależy od decyzji fundatora przy każdej kolejnej edycji.
 
-Wysoka pula rodzi pytanie, czy nie przyciągnie osób liczących kryteria zamiast prowadzących rozmowy. Odpowiedzią nie jest niska kwota, lecz konstrukcja oceny: cztery kryteria premiują przebieg pracy, a nie efekt końcowy, ślepe uliczki i nieudane pytania nie obniżają oceny, a zgłoszenie oparte na twierdzeniu nieprawdziwym nie może zostać nagrodzone niezależnie od punktacji (§ 7 ust. 5-8).
-
 Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe i ubezpieczeniowe (CSR i kompetencje cyfrowe), firmy technologiczne, uczelnie, fundacje korporacyjne. **Nie planuję przyjmować finansowania od dostawców modeli językowych w edycjach krajowych** - konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty.
 
 ### Część artystyczna jest poza tym budżetem
