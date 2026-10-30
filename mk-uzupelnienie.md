@@ -20,7 +20,7 @@ Rozstrzygnięcie to wynika z jednej zasady: głos publiczności ma ważyć tyle 
 
 Odnotowuję przy tym dwie zmiany **poza zakresem pytania**, dla pełności obrazu: Nagroda Uczniowska w plebiscycie na rozmowę otrzymała kwotę 10 000,00 zł brutto, a część wydawnicza rozszerzyła się o wydanie dźwiękowe antologii, opisane niżej. Obie mieszczą się w budżetach finansowanych z innych źródeł i nie wchodzą do kwoty, o którą pytam.
 
-Suma wszystkich pozycji obecnie wycenionych w całym przedsięwzięciu wynosi dziś **1 759 146,80 zł** wobec 1 665 626,80 zł podanych w piśmie. Aktualne liczby w każdej chwili pokazuje [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej), do którego pismo się odwołuje, oraz załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania).
+Suma wszystkich pozycji obecnie wycenionych w całym przedsięwzięciu wynosi dziś **1 793 466,80 zł** wobec 1 665 626,80 zł podanych w piśmie. Wzrost poza zakresem pytania obejmuje także instalowalną wersję mobilną strony, opisaną niżej. Aktualne liczby w każdej chwili pokazuje [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej), do którego pismo się odwołuje, oraz załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania).
 
 ## Antologia także jako audiobook
 
@@ -33,6 +33,12 @@ Wydanie dźwiękowe poszerza krąg odbiorców o osoby niewidome i słabowidzące
 Rozszerzenie wymagało zmiany regulaminu przed otwarciem naboru. Licencja udzielana przez uczestników wymieniała pola eksploatacji bez zapisu dźwiękowego, a wydanie elektroniczne go nie obejmuje; § 11 ust. 3 regulaminu plebiscytu na rozmowę wymienia obecnie utrwalenie i zwielokrotnienie techniką zapisu dźwiękowego wraz z rozpowszechnianiem nagrania. Zgoda przedstawiciela ustawowego, wymagana przy uczestnikach niepełnoletnich, obejmuje wydanie dźwiękowe w zakresie dotyczącym antologii.
 
 Produkcję wyceniam na 40 000,00 zł netto przy około dziesięciu godzinach gotowego nagrania. Pozycja ta należy do budżetu części wydawniczej, finansowanej przez mecenasa antologii, i **nie wchodzi do kwoty objętej moim pytaniem**.
+
+## Dwie zmiany w konstrukcji finansowania
+
+**Koszty wspólne przedsięwzięcia mają własną rolę.** Powołanie fundacji i jej obsługa, konsultacja prawna regulaminu, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty - skraper, weryfikacja formalna i panel oceny - zostały wydzielone z budżetu części wydawniczej do osobnego budżetu uruchomienia, finansowanego przez odrębnego partnera. Obciążanie nimi jednego sponsora oznaczało, że finansuje on infrastrukturę, z której korzystają wszystkie pozostałe zakresy. Podział nie zmienia sumy, tylko przypisanie.
+
+**Strona Nagrody otrzyma instalowalną wersję mobilną**, czyli możliwość dodania jej do ekranu telefonu, działania bez połączenia z siecią, pobrania e-booka i audiobooka antologii do czytania oraz słuchania offline, a także powiadomień o nowych zgłoszeniach. Rozwiązanie to wybrano zamiast osobnej aplikacji w sklepach, ponieważ nie dubluje treści ani kosztów utrzymania. Koszt 26 400,00 zł netto należy do budżetu uruchomienia i również nie wchodzi do kwoty objętej moim pytaniem.
 
 ## Pozostałe sprawy bez zmian
 
