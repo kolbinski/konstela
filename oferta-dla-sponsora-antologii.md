@@ -27,7 +27,10 @@ Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej
 
 Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
-Ocena przebiega w dwóch rundach. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Każde zgłoszenie czytają co najmniej dwie osoby. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera **dziesiątkę antologii** - dziesięć rozmów, które zostaną w niej wydane.
+Ocena przebiega w dwóch rundach.
+
+1. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Każde zgłoszenie czytają co najmniej dwie osoby.
+2. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera **dziesiątkę antologii** - dziesięć rozmów, które zostaną w niej wydane.
 
 Do każdej z tych dziesięciu rozmów juror pisze **komentarz jury**: krótki tekst wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Komentarze są tym, co odróżnia antologię od zwykłego zbioru zapisów, i dlatego wracają niżej w tej propozycji. Mecenas nie ma wpływu ani na skład jury, ani na wyniki, ani na treść komentarzy.
 
