@@ -41,7 +41,7 @@ Trzy rzeczy dzieją się tylko w tym plebiscycie i tylko w tej ofercie.
 
 **Zwycięski plakat zostaje na trwałe.** Trafia na okładkę [antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku. Okładką jest praca zwycięzcy w wydaniu elektronicznym i książkowym, a zgoda na to jest warunkiem udziału, więc po werdykcie uzgadniamy z autorem samą formę kadru i typografii, a nie to, czy wolno pracy użyć. Nagrody w pozostałych plebiscytach kończą się wypłatą i galą. Ta zostaje na półce.
 
-**Oryginały prac finałowych jadą na wystawę.** Uczestnik zgłasza zdjęcie albo skan, a oryginał przysyła dopiero wtedy, gdy jury wybierze go do dziesiątki. Prace finalistów wiszą na **wystawie towarzyszącej gali** - oryginały tych, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie stronę, przechowywanie i ubezpieczenie pokrywa organizator, a praca wraca do autora po wystawach. Kto nie chce wysyłać oryginału, nie traci ani nagrody, ani miejsca w werdykcie.
+**Oryginały prac finałowych jadą na wystawę.** Uczestnik zgłasza zdjęcie albo skan, a oryginał przysyła dopiero wtedy, gdy jury wybierze go do dziesiątki. Prace finalistów wiszą na **wystawie towarzyszącej gali** - oryginały tych, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator, a praca wraca do autora po wystawach. Kto nie chce wysyłać oryginału, nie traci ani nagrody, ani miejsca w werdykcie.
 
 **Po gali wystawa w galerii sztuki, jeżeli galerię pozyskamy.** Prace finałowe pokazywane są jeszcze raz, na wystawie otwieranej wernisażem, już z informacją o miejscach przyznanych przez jury. Przy tej wystawie może się odbyć **cicha licytacja**: po odliczeniu zaakceptowanych wcześniej kosztów pozostała kwota dzieli się po połowie między autora i pulę nagród kolejnej edycji tego plebiscytu. Udział w licytacji jest dobrowolny, a decyzję finalista podejmuje po werdykcie, znając cenę minimalną i sposób rozliczenia. **Nie obiecujemy tej wystawy w regulaminie, bo galerii dziś nie mamy** - przestrzeń galerii jest osobną rolą partnerską i nie wchodzi do tej oferty.
 
@@ -67,9 +67,9 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 | **Nagrody plakatu dla laureatów** (brutto, bez VAT)          |    **90 000 zł** |
 | Nagrody publiczności (brutto)                                |      12 000 zł |
 | Medal zwycięzcy i dyplomy finalistów                         |       1 200 zł |
-| Transport oryginałów w obie strony (800 zł za pracę × 10)    |       8 000 zł |
+| Transport oryginałów w obie strony (800 zł za pracę razy 10)  |       8 000 zł |
 | Ubezpieczenie prac na czas wystawy                           |       3 000 zł |
-| Praca organizatora (190 godz. × 220 zł)                      |      41 800 zł |
+| Praca organizatora (190 godz. po 220 zł)                     |      41 800 zł |
 | Honoraria jury plakatu za ocenę                              |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                        |    do ustalenia |
 | Realizacja wystawy przy gali                                 |      do wyceny |
@@ -220,7 +220,7 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 **Kto tę umowę zawiera i kto odbiera pracę.** Nie Organizator sam ze sobą. Statut powierza umowy z członkami Zarządu **Radzie Fundacji** - organowi, w którym nie może zasiadać żaden członek Zarządu. To Rada podejmuje uchwałę o zawarciu umowy z działalnością Organizatora, Rada przyjmuje raporty etapów i Rada zatwierdza rozliczenie godzin. **Mecenas może wskazać osobę, która otrzymuje te raporty.** Godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
 
-**Transport i ubezpieczenie wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu.** Dotyczy to także medalu, dyplomów oraz pozycji, które dziś czekają na wycenę. Organizator nie dolicza do nich marży i nie zarabia na ich pośredniczeniu.
+**Transport i ubezpieczenie wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu.** Dotyczy to także medalu, dyplomów oraz pozycji, które dziś czekają na wycenę. Organizator nie dolicza do nich marży i nie zarabia na ich pośrednictwie.
 
 Dokumenty, o które może zapytać dział prawny, są jawne:
 
