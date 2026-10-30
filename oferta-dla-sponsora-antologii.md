@@ -90,7 +90,12 @@ Skala ma też znaczenie praktyczne: nagroda, o której warto napisać, przyciąg
 
 ## <!--ikona:dokument--><span>Przedmiot mecenatu</span>
 
-**Antologia** ukazuje się w dwóch postaciach. Pierwszą jest **bezpłatny e-book**, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat; to jest zobowiązanie Organizatora, niezależne od tego, czy znajdzie się wydawca. Drugą jest **wydanie książkowe**, które ma trafić do księgarń na dzień gali i nosić na okładce zwycięski plakat z plebiscytu na plakat o sztucznej inteligencji; przychód z jego sprzedaży w całości zasila pulę nagród kolejnej edycji. Obie zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury.
+**Antologia** ukazuje się w dwóch postaciach:
+
+1. **Bezpłatny e-book**, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat; to jest zobowiązanie Organizatora, niezależne od tego, czy znajdzie się wydawca.
+2. **Wydanie książkowe**, które ma trafić do księgarń na dzień gali i nosić na okładce zwycięski plakat z plebiscytu na plakat o sztucznej inteligencji; przychód z jego sprzedaży w całości zasila pulę nagród kolejnej edycji.
+
+Obie zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury.
 
 Granica przy wydaniu książkowym przebiega tak: **mecenat finansuje powstanie treści** - redakcję, korektę, skład, przygotowanie do druku i bezpłatny e-book, czyli wszystko to, z czego książka jest zrobiona. **Nakład handlowy i wprowadzenie go do księgarń bierze na siebie partner wydawniczy**, osobna rola osobnego podmiotu, z którym rozmowy są w toku. W kosztorysie poniżej jest tylko krótki nakład na galę i tylko warunkowo: drukujemy go, jeżeli wydanie księgarskie nie będzie gotowe na dzień premiery. Mecenas jest wymieniony w każdym wydaniu niezależnie od tego, kto je wydrukował.
 
