@@ -15,7 +15,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Kod z wiadomości SMS | obowiązkowe | zgłoszenie niepotwierdzone kodem nie zostaje złożone |
 | Podpis publiczny: pseudonim zamiast imienia i nazwiska | nieobowiązkowe | przy filmie i piosence także nazwa składu twórczego |
 | Oświadczenie o prawach do zgłoszonego materiału | obowiązkowe | zaznaczenie pola |
-| Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech |
+| Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech; w plebiscycie na rozmowę obejmuje także **wydanie dźwiękowe antologii** |
 | Deklaracja pochodzenia materiału | obowiązkowe | treść jest inna w każdej kategorii – patrz niżej |
 | Dlaczego warte nagrody głównej, czyli co sprawia, że warto przeczytać, obejrzeć, posłuchać albo zatrzymać się przy zgłoszeniu – do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (Czytelnia, Projektornia, Słuchalnia, Galeria) i w Archiwum; nie podlega punktacji w żadnym kryterium |
 
@@ -37,7 +37,9 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 
 Ilustracja może zostać wygenerowana narzędziem sztucznej inteligencji i nie podlega punktacji; reprezentuje rozmowę w Czytelni, w Archiwum, a przy rozmowie nagrodzonej także w antologii.
 
-Odrębności: wiek od 16 lat, a przy osobie poniżej 18 lat zgoda opiekuna rozbita na cztery zakresy. Nie ma zgłoszeń zespołowych. Przed wysłaniem formularza działa nieobowiązkowe narzędzie sprawdzające policzalne wymogi formalne. Po wpłynięciu zgłoszenia Organizator sporządza kopię archiwalną i udostępnia ją Uczestnikowi, który ma 7 dni na zgłoszenie błędu odwzorowania.
+Odrębności: wiek od 16 lat, a przy osobie poniżej 18 lat zgoda opiekuna rozbita na cztery zakresy; zakres dotyczący antologii obejmuje jej wydanie dźwiękowe.
+
+**Audiobook jest objęty tą samą licencją co e-book, więc jest warunkiem udziału, a nie osobnym polem do odznaczenia** (§ 11 ust. 3 regulaminu wymienia zapis dźwiękowy obok wydania elektronicznego i drukowanego). Formularz musi to powiedzieć wprost przy oświadczeniu o publikacji, w jednym zdaniu: rozmowa może zostać odczytana przez lektora w bezpłatnym audiobooku, a Uczestnik niczego nie nagrywa. Rozstrzygnięcie jest świadome: gdyby odczytanie było do wyboru, audiobook powstawałby dziurawy - bez części rozmów z dziesiątki, czyli bez tych, które antologia ma pokazać. Nie zwiększa to ekspozycji Uczestnika ponad to, na co i tak się godzi: tekst rozmowy jest publikowany w całości, a podpisem może być pseudonim, którego głos lektora nie ujawnia. Nie ma zgłoszeń zespołowych. Przed wysłaniem formularza działa nieobowiązkowe narzędzie sprawdzające policzalne wymogi formalne. Po wpłynięciu zgłoszenia Organizator sporządza kopię archiwalną i udostępnia ją Uczestnikowi, który ma 7 dni na zgłoszenie błędu odwzorowania.
 
 ### Film o sztucznej inteligencji (§ 4 regulaminu filmu)
 
