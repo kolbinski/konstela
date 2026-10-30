@@ -284,6 +284,8 @@
         --bg: var(--paper);
         --surface: var(--paper-raised);
         --muted: #5e5648;
+        /* Tło zdjęcia w pasie powitalnym - dobrane do ciemnego otoczenia medalu. */
+        --hero-dark: #2a2724;
         /* Pasek z menu: złote tło, kontrastowy znak. */
         --bar-bg: #8a6a23;
         --bar-fg: #faf7f1;
@@ -402,7 +404,9 @@
         }
         .hero::before {
           right: 100%;
-          background: var(--surface);
+          /* Lewy margines pasa dostawia ciemne tło zdjęcia, a nie jasne tło
+             kolumny z tekstem: zdjęcie ma dochodzić do krawędzi okna. */
+          background: var(--hero-dark);
         }
         .hero::after {
           left: 100%;
@@ -410,8 +414,9 @@
         }
       }
       .hero-medal {
-        /* to samo tlo co czesc z tekstem – obrazek nie wypelnia calego kafla */
-        background: var(--surface);
+        /* Zdjęcie medalu ma przezroczyste brzegi, więc tło kafla jest tym,
+           co widać dookoła pudełka: ciemne, jak otoczenie medalu na zdjęciu. */
+        background: var(--hero-dark);
         margin: 0;
         min-width: 0;
         aspect-ratio: 4 / 3;
