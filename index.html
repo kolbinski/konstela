@@ -665,9 +665,10 @@
         }
       }
       /* Dorobek edycji czyta się jak listę, a nie jak zestawienie do
-         porównywania: cztery kafle jeden pod drugim, niezależnie od
-         szerokości ekranu. */
-      #antologia .kafle {
+         porównywania: kafle jeden pod drugim, niezależnie od szerokości
+         ekranu. Klasa, a nie identyfikator sekcji: nazwy sekcji powstają
+         z nagłówków i zmieniają się razem z nimi. */
+      .kafle.jedna-kolumna {
         grid-template-columns: 1fr;
       }
       .awards article {
@@ -817,28 +818,29 @@
         line-height: 1.5;
       }
 
-      /* Harmonogram jako oś czasu, na każdej szerokości. Pionowa linia z
+      /* Harmonogram jako oś czasu, na każdej szerokości. Selektor po klasie,
+         nie po identyfikatorze sekcji - nazwy sekcji powstają z nagłówków. Pionowa linia z
          pierścieniami w kolorze mosiądzu – ten sam motyw co w rozdzielaczu
          sekcji. Na telefonie data stoi nad zdarzeniem, bo osobna kolumna
          zjadałaby połowę ekranu; od 48 rem przechodzi na lewo od osi i jest
          wyrównana do prawej, żeby dało się przebiec wzrokiem samą oś bez
          czytania treści. */
-      #harmonogram .purse.harmonogram {
+      .purse.harmonogram {
         display: block;
         background: none;
         border: 0;
       }
-      #harmonogram .purse.harmonogram > div {
+      .purse.harmonogram > div {
         position: relative;
         background: none;
         padding: 0 0 1.9rem 1.6rem;
       }
-      #harmonogram .purse.harmonogram > div:last-child {
+      .purse.harmonogram > div:last-child {
         padding-bottom: 0;
       }
       /* Linia kończy się na ostatnim pierścieniu, żeby oś nie zwisała pod
          ostatnim zdarzeniem. */
-      #harmonogram .purse.harmonogram > div::before {
+      .purse.harmonogram > div::before {
         content: '';
         position: absolute;
         left: 4px;
@@ -850,10 +852,10 @@
         width: 1px;
         background: var(--rule);
       }
-      #harmonogram .purse.harmonogram > div:last-child::before {
+      .purse.harmonogram > div:last-child::before {
         display: none;
       }
-      #harmonogram .purse.harmonogram > div::after {
+      .purse.harmonogram > div::after {
         content: '';
         position: absolute;
         left: 0;
@@ -866,33 +868,33 @@
         background: var(--bg);
       }
       /* Gala zamyka oś, więc jej pierścień jest wypełniony. */
-      #harmonogram .purse.harmonogram > div:last-child::after {
+      .purse.harmonogram > div:last-child::after {
         background: var(--brass);
       }
-      #harmonogram .purse.harmonogram dd {
+      .purse.harmonogram dd {
         margin-top: 0.35rem;
         font-size: 1.3rem;
       }
       @media (min-width: 48rem) {
-        #harmonogram .purse.harmonogram > div {
+        .purse.harmonogram > div {
           display: grid;
           grid-template-columns: 11rem 1fr;
           column-gap: 2.4rem;
           padding: 0 0 2.1rem;
         }
-        #harmonogram .purse.harmonogram > div::before {
+        .purse.harmonogram > div::before {
           left: calc(11rem + 1.2rem);
           top: 0.78rem;
         }
-        #harmonogram .purse.harmonogram > div::after {
+        .purse.harmonogram > div::after {
           left: calc(11rem + 1.2rem - 4px);
           top: 0.5rem;
         }
-        #harmonogram .purse.harmonogram dt {
+        .purse.harmonogram dt {
           text-align: right;
           padding-top: 0.2rem;
         }
-        #harmonogram .purse.harmonogram dd {
+        .purse.harmonogram dd {
           margin-top: 0;
         }
       }
@@ -1348,7 +1350,7 @@
             rok w kilku językach naraz: słowem, filmem, dźwiękiem i obrazem.
           </p>
         </div>
-        <div class="kafle">
+        <div class="kafle jedna-kolumna">
           <article>
             <h3>Antologia rozmów</h3>
             <p>
