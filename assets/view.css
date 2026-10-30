@@ -621,26 +621,31 @@
       /* Pasek nad nagłówkiem oferty: zapis do PDF i wydruk. Stoi nad tytułem,
          bo jest narzędziem do obsługi dokumentu, a nie jego częścią - i z tego
          samego powodu znika przy wydruku. */
+      /* Pasek nad nagłówkiem oferty: zapis do PDF i wydruk. Zapisany tym
+         samym krojem i w tej samej skali co wiersz edycji pod tytułem, żeby
+         czytał się jako oznaczenie dokumentu, a nie jako ozdoba. Przy wydruku
+         znika razem z nawigacją. */
       #content .akcje {
         display: flex;
-        gap: 0.6rem;
-        margin: 0 0 1.4rem;
+        gap: 1.6rem;
+        margin: 0 0 1.6rem;
       }
       #content .akcje .akcja {
-        font: inherit;
-        font-size: 0.92rem;
-        letter-spacing: 0.02em;
-        color: var(--ink);
-        background: transparent;
-        border: 1px solid var(--line);
-        border-radius: 999px;
-        padding: 0.45rem 1.05rem;
+        font-family: var(--mono);
+        font-size: 0.74rem;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        color: var(--brass);
+        background: none;
+        border: 0;
+        border-bottom: 1px solid currentColor;
+        border-radius: 0;
+        padding: 0 0 0.2rem;
         cursor: pointer;
       }
       #content .akcje .akcja:hover,
       #content .akcje .akcja:focus-visible {
-        border-color: currentColor;
-        background: var(--surface);
+        color: var(--ink);
       }
 
       @media print {
