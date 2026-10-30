@@ -10,9 +10,15 @@ Mecenat jest jedną z dwóch osobnych ról finansujących pierwszą edycję. **F
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
-Coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy. Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, drążenie, weryfikacja tego, co AI powiedziała, i to, co człowiek z rozmowy wyniósł. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
+**Nagroda Konstela to nowa, coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy.**
 
-Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: kilkuosobowe grono osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Mecenas nie ma wpływu na jego skład ani na wyniki.
+Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, drążenie, weryfikacja tego, co AI powiedziała, i to, co człowiek z rozmowy wyniósł.
+
+Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
+
+Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: grono osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Mecenas nie ma wpływu na jego skład ani na wyniki.
+
+Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Pierwsza edycja jest więc budowana jak pierwsza z wielu, a nie jak jednorazowe wydarzenie: narzędzia, Archiwum i konstrukcja regulaminu powstają raz i służą każdemu kolejnemu rocznikowi.
 
 ## <!--ikona:dokument--><span>Przedmiot mecenatu</span>
 
