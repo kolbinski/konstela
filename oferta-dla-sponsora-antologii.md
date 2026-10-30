@@ -12,7 +12,14 @@ Mecenat jest jedną z dwóch osobnych ról finansujących pierwszą edycję. **F
 
 **Nagroda Konstela to nowa, coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy.**
 
-Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi, według **czterech kryteriów o równej wadze**: rozpiętość, czyli jak nieoczywiste połączenie rozmowa wykonała; drążenie, czyli czy uczestnik dopytuje i wraca do porzuconych wątków, zamiast przyjmować pierwszą odpowiedź; weryfikacja, czyli czy sprawdza twierdzenia AI i prostuje jej błędy; oraz plon, czyli co z rozmowy realnie zostało - nazwana idea, rozwiązany problem, odnalezione źródło, zmieniona decyzja. Karta oceny jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
+Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi, według **czterech kryteriów o równej wadze**:
+
+- **Rozpiętość** - jak nieoczywiste połączenie rozmowa wykonała.
+- **Drążenie** - czy uczestnik dopytuje i wraca do porzuconych wątków, zamiast przyjmować pierwszą odpowiedź.
+- **Weryfikacja** - czy sprawdza twierdzenia AI i prostuje jej błędy.
+- **Plon** - co z rozmowy realnie zostało: nazwana idea, rozwiązany problem, odnalezione źródło, zmieniona decyzja.
+
+Karta oceny jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
 
 Rozmowa jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą filmu, piosenki i plakatu o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na rozmowę.
 
