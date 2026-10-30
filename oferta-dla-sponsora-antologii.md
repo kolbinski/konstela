@@ -115,7 +115,18 @@ Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwsz
 
 **W toku.** Jury nie jest jeszcze skompletowane. Nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Zainteresowanie wydaniem antologii wyraziły dwa wydawnictwa; żadnej umowy jeszcze nie ma i nie wymieniamy nazw, dopóki zainteresowanie nie zostanie potwierdzone na piśmie. Tak samo postępujemy z jurorami.
 
-**Przed nami.** Powołanie fundacji, konsultacja prawna regulaminu, budowa czterech narzędzi i przebudowa strony. To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy i nie zależą od pozostałych partnerów.
+**Przed nami:**
+
+- **Powołanie fundacji** - notariusz, wpis do KRS, fundusz założycielski.
+- **Konsultacja prawna regulaminu** - przed otwarciem naboru, bo regulamin jest przyrzeczeniem publicznym i po otwarciu nie można go zmienić.
+- **Budowa czterech narzędzi:**
+    - **skraper**, który w chwili wpłynięcia zgłoszenia sporządza kopię archiwalną rozmowy - dzięki niej zapis nie znika, gdy uczestnik usunie udostępnienie albo dostawca zmieni zasady;
+    - **narzędzie do weryfikacji formalnej**, liczące słowa i wypowiedzi uczestnika, sprawdzające język i kompletność zgłoszenia;
+    - **panel oceny** dla kilkunastu czytelników akademii i dla jury, z przydziałami, kartą oceny i śladem audytowym każdej wystawionej oceny;
+    - **mechanizm publikowania Archiwum** na stronie, z przeglądaniem według daty, tytułu, autora i ocen.
+- **Przebudowa strony** - UI, UX i teksty, agencja zewnętrzna.
+
+To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy i nie zależą od pozostałych partnerów.
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
