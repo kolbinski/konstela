@@ -2,11 +2,11 @@
 
 ## Czym jest Nagroda Konstela
 
-Coroczna nagroda dla ludzi, którzy prowadzą z modelami sztucznej inteligencji najlepsze rozmowy. Nagradzany jest człowiek, nie model i nie firma, która model zbudowała. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, drążenie, weryfikacja tego, co model powiedział, i to, co człowiek z rozmowy wyniósł. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na marzec 2028. Udział jest bezpłatny i organizator nie pobiera od uczestników żadnych opłat.
+Coroczna nagroda dla ludzi, którzy prowadzą z modelami sztucznej inteligencji najlepsze rozmowy. Nagradzany jest człowiek, nie model i nie firma, która model zbudowała. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, drążenie, weryfikacja tego, co model powiedział, i to, co człowiek z rozmowy wyniósł. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i organizator nie pobiera od uczestników żadnych opłat.
 
 Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: kilkuosobowe grono osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Mecenas nie ma wpływu na jego skład ani na wyniki.
 
-Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzeczy. **Fundator nagrody** finansuje pulę nagród i galę. **Mecenas Antologii** finansuje to, co z nagrody zostaje: bezpłatną antologię i publiczne Archiwum rozmów. Ta propozycja dotyczy wyłącznie drugiej roli. Obie role są rozdzielne i nie konkurują o to samo miejsce.
+Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzeczy. **Fundator nagrody** finansuje pulę nagród i galę. **Mecenas Antologii** finansuje to, co z nagrody zostaje: bezpłatną antologię, publiczne Archiwum rozmów i podcast towarzyszący. Ta propozycja dotyczy wyłącznie drugiej roli. Obie role są rozdzielne i nie konkurują o to samo miejsce.
 
 ## Przedmiot mecenatu
 
@@ -14,11 +14,13 @@ Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzecz
 
 **Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
 
+**Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty przekazujemy nieodpłatnie mediom i instytucjom edukacyjnym.
+
 Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie około sześciuset stron, i w żadnej z nich nie znalazłem pełnego zapisu rzeczywistej rozmowy człowieka z modelem, opatrzonego komentarzem dydaktycznym. Antologia i Archiwum są materiałem źródłowym, którego nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
 ## Kwota
 
-**232 700 zł netto** (286 221 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej zawieranej z Grupą Tubądzin.
+**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej zawieranej z Grupą Tubądzin.
 
 **Co, jeżeli edycja nie ruszy.** Przedsięwzięcie ma dwóch partnerów i pula nagród zależy od drugiego z nich. Regulamin przewiduje, że nabór nie zostanie otwarty, jeżeli warunki nie będą spełnione. Umowa będzie więc zawierać klauzulę rozliczenia: jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję. Prace, które mogą ruszyć od razu i niezależnie od drugiego partnera, to powołanie fundacji, konsultacja prawna, przebudowa strony i budowa narzędzi; pozostałe pozycje uruchamiają się dopiero po otwarciu naboru.
 
@@ -28,22 +30,25 @@ Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie ok
 | Konsultacja prawna przed otwarciem naboru                         |       6 000 zł |
 | Obsługa fundacji za pierwszy rok (księgowość, sprawozdania)       |       6 000 zł |
 | Domeny, poczta, hosting, magazyn kopii archiwalnych               |      10 000 zł |
+| Narzędzia sztucznej inteligencji i licencje oprogramowania (rok)  |      30 000 zł |
+| Rejestracja znaku towarowego Konstela w EUIPO                     |       4 500 zł |
 | Przebudowa strony Nagrody: UI/UX i teksty (agencja zewnętrzna)    |      15 000 zł |
-| Koordynator wydania i moderacji, I-III 2028 (B2B)                 |      40 000 zł |
+| Koordynator wydania i moderacji, I-IV 2028 (B2B)                  |      40 000 zł |
 | Korekta językowa antologii                                        |       4 000 zł |
 | Skład i przygotowanie do druku (DTP)                              |       3 000 zł |
-| Druk pierwszego nakładu antologii (100 egz.)                      |       4 000 zł |
+| Krótki nakład antologii na galę (100 egz.)                        |       4 000 zł |
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
-| **Koszty bezpośrednie razem**                                     |  **91 000 zł** |
-| Redakcja, skład treści, publikacja Archiwum przez rok (115 godz.) |      25 300 zł |
+| Produkcja podcastu wraz z honorarium prowadzącego (24 odcinki)    |       do wyceny |
+| **Koszty bezpośrednie razem**                                     | **125 500 zł** |
+| Redakcja i skład treści antologii, obsługa zgłoszeń oznaczonych (95 godz.) |      20 900 zł |
+| Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
 | Oprogramowanie: archiwizacja zgłoszeń, weryfikacja formalna, panel oceny, Archiwum na stronie (285 godz.) |      62 700 zł |
-| Prowadzenie projektu i pozyskiwanie partnerów (20%)               |      35 800 zł |
-| Rezerwa na przekroczenia (10%)                                    |      17 900 zł |
-| **Razem netto**                                                   | **232 700 zł** |
-| VAT 23%                                                           |   53 521,00 zł |
-| **Do zapłaty brutto**                                             |   **286 221 zł** |
+| Prowadzenie projektu, pozyskiwanie partnerów i rezerwa (30%)      |      67 482 zł |
+| **Razem netto**                                                   | **292 422 zł** |
+| VAT 23%                                                           |   67 257,06 zł |
+| **Do zapłaty brutto**                                             | **359 679,06 zł** |
 
-**Wariant podstawowy: 145 990 zł netto (179 567,70 zł brutto).** Jeżeli Mecenas nie jest zainteresowany sfinansowaniem całej platformy Nagrody, propozycję można zawęzić do antologii i Archiwum. Odpadają wtedy **trzy z czterech narzędzi** - skraper, narzędzie do weryfikacji formalnej i panel oceny, łącznie 235 godzin - oraz przebudowa strony. **Zostaje mechanizm publikowania Archiwum (50 godzin)**, ponieważ bez niego Archiwum, które jest przedmiotem tej propozycji, nie powstanie. Rachunek: koszty bezpośrednie 76 000 zł, praca 36 300 zł, razem 112 300 zł, po doliczeniu 30% - 145 990 zł netto. Trzy pozostałe narzędzia musiałyby wówczas znaleźć innego fundatora, a bez nich plebiscyt nie ruszy w ogóle.
+**Wariant podstawowy: 205 712 zł netto (253 025,76 zł brutto).** Jeżeli Mecenas nie jest zainteresowany sfinansowaniem całej platformy Nagrody, propozycję można zawęzić do antologii, Archiwum i podcastu. Odpadają wtedy **trzy z czterech narzędzi** - skraper, narzędzie do weryfikacji formalnej i panel oceny, łącznie 235 godzin - oraz przebudowa strony. **Zostaje mechanizm publikowania Archiwum (50 godzin)**, ponieważ bez niego Archiwum, które jest przedmiotem tej propozycji, nie powstanie. Rachunek: koszty bezpośrednie 110 500 zł, praca 47 740 zł, razem 158 240 zł, po doliczeniu 30% - 205 712 zł netto. Trzy pozostałe narzędzia musiałyby wówczas znaleźć innego fundatora, a bez nich plebiscyt nie ruszy w ogóle.
 
 Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla kilkunastu czytelników i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
 
@@ -76,6 +81,8 @@ Antologia w formatach EPUB i PDF, do pobrania ze strony konstela.org bez rejestr
 Archiwum obejmuje wszystkie rozmowy zakwalifikowane do drugiej rundy oceny, które spełniają warunki publikacji określone w regulaminie. Liczby nie gwarantujemy, bo zależy ona od liczby i jakości zgłoszeń.
 
 Oprogramowanie powstaje na rzecz fundacji-organizatora, która nabywa do niego prawa i odpowiada za jego utrzymanie w kolejnych edycjach. Mecenas nie nabywa praw do oprogramowania ani nie ponosi kosztów jego utrzymania po pierwszej edycji.
+
+Krótki nakład na galę drukujemy wyłącznie wtedy, gdy wydanie księgarskie nie będzie gotowe na dzień gali; jeżeli partner wydawniczy dostarczy książkę na premierę, egzemplarze dla laureatów i jury pochodzą z jego nakładu, a ta pozycja nie jest ponoszona.
 
 Rozliczenie: w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy.
 
