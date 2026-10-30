@@ -249,7 +249,12 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism. Jeżeli zakres w tej postaci jest dla Państwa za szeroki, powiedzcie, którą jego część widzicie u siebie; antologię, Archiwum i podcast da się rozdzielić między partnerów.
 
-Dokumenty, o które zapyta dział prawny, są jawne i dostępne od ręki: [statut fundacji](/statut), [polityka prywatności](/dokument/polityka-prywatnosci), [regulaminy czterech plebiscytów](/regulaminy) oraz [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej).
+Dokumenty, o które może zapytać dział prawny, są jawne:
+
+- [statut fundacji](/statut)
+- [polityka prywatności](/dokument/polityka-prywatnosci)
+- [regulaminy czterech plebiscytów](/regulaminy)
+- [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej)
 
 Krzysztof Olbiński  
 +48 503 520 004  
