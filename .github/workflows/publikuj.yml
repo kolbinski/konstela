@@ -6,6 +6,14 @@
 #
 # Jednorazowe ustawienie, bez którego to nie zadziała:
 # Settings → Pages → Build and deployment → Source: "GitHub Actions".
+#
+# GDY WDROŻENIE SIĘ WYWALI: uruchom ponownie CAŁY przebieg ("Re-run all jobs"),
+# nigdy samo nieudane zadanie. Budowanie i wdrażanie siedzą w jednym zadaniu,
+# więc ponowienie wrzuca drugą paczkę o nazwie "github-pages", a wdrożenie
+# odmawia wtedy pracy: "Multiple artifacts named github-pages". Wariant
+# odporny na ponawianie, z budowaniem i wdrażaniem jako osobnymi zadaniami,
+# leży w skrypty/deploy-warianty/publikuj-dwa-zadania.yml - jest o jakieś
+# 20 sekund wolniejszy, bo wdrożenie czeka na drugą maszynę.
 
 name: Publikuj stronę
 
@@ -24,13 +32,12 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
-# Budowanie i wdrażanie są osobnymi zadaniami z jednego powodu: gdy wdrożenie
-# wywali się na chwilowym błędzie GitHuba, "Re-run failed jobs" ponawia samo
-# wdrożenie. Przy jednym zadaniu ponowienie wrzucałoby drugą paczkę o tej samej
-# nazwie, a wdrożenie odmawia pracy, gdy znajdzie dwie.
 jobs:
-  zbuduj:
+  publikuj:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.wdrozenie.outputs.page_url }}
 
     steps:
       - name: Pobierz repozytorium
@@ -64,14 +71,6 @@ jobs:
         with:
           path: .
 
-  publikuj:
-    needs: zbuduj
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.wdrozenie.outputs.page_url }}
-
-    steps:
       - name: Opublikuj
         id: wdrozenie
         uses: actions/deploy-pages@v4

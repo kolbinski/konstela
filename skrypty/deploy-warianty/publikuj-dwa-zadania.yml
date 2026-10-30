@@ -1,0 +1,77 @@
+# Publikowanie strony konstela.org
+#
+# Przy każdym wrzuceniu plików na gałąź główną: generuje strony dokumentów
+# z plików .md i publikuje całość na GitHub Pages. Dzięki temu nie trzeba
+# pamiętać o żadnym kroku budowania - wrzucasz .md i tyle.
+#
+# Jednorazowe ustawienie, bez którego to nie zadziała:
+# Settings → Pages → Build and deployment → Source: "GitHub Actions".
+
+name: Publikuj stronę
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Jeśli wrzucisz kilka zmian pod rząd, liczy się ostatnia.
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+# Budowanie i wdrażanie są osobnymi zadaniami z jednego powodu: gdy wdrożenie
+# wywali się na chwilowym błędzie GitHuba, "Re-run failed jobs" ponawia samo
+# wdrożenie. Przy jednym zadaniu ponowienie wrzucałoby drugą paczkę o tej samej
+# nazwie, a wdrożenie odmawia pracy, gdy znajdzie dwie.
+jobs:
+  zbuduj:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Pobierz repozytorium
+        uses: actions/checkout@v4
+        with:
+          # Pełna historia, bo daty w mapie strony biorą się z historii Git,
+          # a nie z czasu modyfikacji pliku na dysku.
+          fetch-depth: 0
+
+      - name: Przygotuj Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Zainstaluj bibliotekę do markdown
+        run: npm install --no-save --no-audit --no-fund marked@12.0.2
+
+      - name: Zbuduj strony dokumentów
+        env:
+          # Znacznik przy adresach plików w assets, wymuszający pobranie
+          # świeżej wersji zamiast tej z pamięci przeglądarki. Skrót numeru
+          # zmiany zmienia się sam, więc nie trzeba go podbijać ręcznie.
+          ZNACZNIK_ZASOBOW: ${{ github.sha }}
+        run: node skrypty/buduj-dokumenty.js
+
+      - name: Usuń rzeczy, których nie publikujemy
+        run: rm -rf node_modules .github skrypty
+
+      - name: Przygotuj paczkę
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+  publikuj:
+    needs: zbuduj
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.wdrozenie.outputs.page_url }}
+
+    steps:
+      - name: Opublikuj
+        id: wdrozenie
+        uses: actions/deploy-pages@v4
