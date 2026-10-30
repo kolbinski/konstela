@@ -1,8 +1,8 @@
-# Mecenat Antologii Nagrody Konstela
+# Oferta Mecenatu Antologii Nagrody Konstela
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
-## <!--ikona:ksiazka--><span>Dla kogo jest ta propozycja</span>
+## <!--ikona:ksiazka--><span>Dla kogo jest ta oferta</span>
 
 **Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela:**
 
