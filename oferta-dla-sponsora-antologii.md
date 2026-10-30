@@ -36,28 +36,6 @@ Do każdej z tych dziesięciu rozmów juror pisze **komentarz jury**: krótki te
 
 Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Pierwsza edycja jest więc budowana jak pierwsza z wielu, a nie jak jednorazowe wydarzenie: narzędzia, Archiwum i konstrukcja regulaminu powstają raz i służą każdemu kolejnemu rocznikowi.
 
-### Nagrody i kto je finansuje
-
-Pula nagród w plebiscycie na rozmowę z AI wynosi **371 000 zł brutto**:
-
-- **Nagroda główna** - 300 000 zł
-- **Drugie miejsce** - 40 000 zł
-- **Trzecie miejsce** - 10 000 zł
-- **Siedem wyróżnień** - po 3 000 zł
-
-Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.
-
-Obok tej puli są również:
-
-- **Nagrody publiczności: 12 000 zł brutto.** Dzielą się na 10 000 zł dla rozmowy z największą liczbą głosów i 2 000 zł dla głosującego, który najlepiej uzasadnił swój głos - uzasadnienia ocenia się za trafność obserwacji, konkretność i samodzielność sądu, a nie losuje. Stoją poza pulą jury, bo rozstrzyga o nich kto inny i według innej miary.
-- **Nagroda Uczniowska: 10 000 zł brutto.** Wskazywana przez grupy uczniowskie zgłoszone przez szkoły: jedna szkoła, jedno wskazanie. Może przypaść rozmowie spoza dziesiątki i kumuluje się z werdyktem jury. Wzorem jest Prix Goncourt des lycéens, z tą różnicą, że u nas werdykt uczniów niesie realne pieniądze, a nie samo wyróżnienie.
-
-Wysokość nagrody głównej nie wzięła się z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana. Te same 100 000 zł z 1997 roku odpowiada dziś około **315 000 zł** według indeksu cen konsumpcyjnych, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **300 000 zł przywraca skalę, którą polskie nagrody miały trzydzieści lat temu** - i to jest jedyny powód, dla którego kwota jest tak wysoka.
-
-Skala ma też znaczenie praktyczne: nagroda, o której warto napisać, przyciąga zgłoszenia, a bez zgłoszeń nie ma ani antologii, ani Archiwum. Materiał, który Mecenas finansuje, powstaje z tego, co ludzie przyślą.
-
-**Puli nagród nie finansuje Mecenas Antologii.** Szukamy do niej osobnego partnera - fundatora nagrody - wśród instytucji finansowych i ubezpieczeniowych, firm technologicznych, uczelni i fundacji korporacyjnych. Nie planujemy natomiast przyjmować finansowania od dostawców modeli sztucznej inteligencji, bo konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty. Żadna złotówka z mecenatu antologii nie trafia do laureatów, a żadna złotówka fundatora nagrody nie pokrywa kosztów wydania.
-
 ### Dotąd nagradzano maszyny za rozmowy z ludźmi
 
 Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka. Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z tych nagród** - był materiałem testowym, na którym sprawdzano maszynę.
@@ -87,6 +65,28 @@ Czujność jest jednak tylko połową. Czwarte kryterium, **plon**, nagradza roz
 **Wzorzec postawy** - weryfikowanie zamiast przyjmowania na wiarę, pokazane na przykładach, a nie w formie przestrogi.
 
 To jest to, co Mecenas finansuje: nie wydarzenie, tylko materiał, który po wydarzeniu zostaje.
+
+### Nagrody i kto je finansuje
+
+Pula nagród w plebiscycie na rozmowę z AI wynosi **371 000 zł brutto**:
+
+- **Nagroda główna** - 300 000 zł
+- **Drugie miejsce** - 40 000 zł
+- **Trzecie miejsce** - 10 000 zł
+- **Siedem wyróżnień** - po 3 000 zł
+
+Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.
+
+Obok tej puli są również:
+
+- **Nagrody publiczności: 12 000 zł brutto.** Dzielą się na 10 000 zł dla rozmowy z największą liczbą głosów i 2 000 zł dla głosującego, który najlepiej uzasadnił swój głos - uzasadnienia ocenia się za trafność obserwacji, konkretność i samodzielność sądu, a nie losuje. Stoją poza pulą jury, bo rozstrzyga o nich kto inny i według innej miary.
+- **Nagroda Uczniowska: 10 000 zł brutto.** Wskazywana przez grupy uczniowskie zgłoszone przez szkoły: jedna szkoła, jedno wskazanie. Może przypaść rozmowie spoza dziesiątki i kumuluje się z werdyktem jury. Wzorem jest Prix Goncourt des lycéens, z tą różnicą, że u nas werdykt uczniów niesie realne pieniądze, a nie samo wyróżnienie.
+
+Wysokość nagrody głównej nie wzięła się z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana. Te same 100 000 zł z 1997 roku odpowiada dziś około **315 000 zł** według indeksu cen konsumpcyjnych, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **300 000 zł przywraca skalę, którą polskie nagrody miały trzydzieści lat temu** - i to jest jedyny powód, dla którego kwota jest tak wysoka.
+
+Skala ma też znaczenie praktyczne: nagroda, o której warto napisać, przyciąga zgłoszenia, a bez zgłoszeń nie ma ani antologii, ani Archiwum. Materiał, który Mecenas finansuje, powstaje z tego, co ludzie przyślą.
+
+**Puli nagród nie finansuje Mecenas Antologii.** Szukamy do niej osobnego partnera - fundatora nagrody - wśród instytucji finansowych i ubezpieczeniowych, firm technologicznych, uczelni i fundacji korporacyjnych. Nie planujemy natomiast przyjmować finansowania od dostawców modeli sztucznej inteligencji, bo konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty. Żadna złotówka z mecenatu antologii nie trafia do laureatów, a żadna złotówka fundatora nagrody nie pokrywa kosztów wydania.
 
 ## <!--ikona:dokument--><span>Przedmiot mecenatu</span>
 
