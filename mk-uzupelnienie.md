@@ -14,13 +14,13 @@ uzupełniam pismo złożone 30 października 2026 roku. Uzupełnienie nie zmieni
 
 W piśmie podałem, że pozycje objęte pytaniem sumują się do **660 952,00 zł**, w tym 157 360,00 zł na 2027 rok i 503 592,00 zł na 2028 rok, zaznaczając, że jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej.
 
-Po złożeniu pisma podniosłem nagrody publiczności z 4 000,00 zł do 12 000,00 zł brutto w każdym z czterech plebiscytów, w podziale na 10 000,00 zł dla zgłoszenia z największą liczbą głosów i 2 000,00 zł za najlepsze uzasadnienie oddanego głosu. Trzy plebiscyty artystyczne mieszczą się w zakresie mojego pytania, więc suma rośnie o 24 000,00 zł i wynosi dziś **684 952,00 zł**, w tym 157 360,00 zł na 2027 rok i **527 592,00 zł** na 2028 rok.
+Po złożeniu pisma podniosłem nagrody publiczności z 4 000,00 zł do 12 000,00 zł brutto w każdym z czterech plebiscytów, w podziale na 10 000,00 zł dla zgłoszenia z największą liczbą głosów i 2 000,00 zł za najlepsze uzasadnienie oddanego głosu. Trzy plebiscyty artystyczne mieszczą się w zakresie mojego pytania, więc suma rośnie o 24 000,00 zł. Doszła do tego jedna pozycja, której wcześniej nie wyceniłem: honorarium trzyosobowego zespołu, który czyta uzasadnienia oddanych głosów i wybiera nagrodzone, po 3 000,00 zł w każdym plebiscycie. Nagroda za uzasadnienie była w budżecie od początku, praca osób ją przyznających nie. Łącznie pozycje objęte pytaniem wynoszą dziś **695 032,00 zł**, w tym 157 360,00 zł na 2027 rok i **537 672,00 zł** na 2028 rok.
 
 Rozstrzygnięcie to wynika z jednej zasady: głos publiczności ma ważyć tyle samo niezależnie od dziedziny. Nagrody publiczności finansuje w każdym plebiscycie jego własny sponsor, co zachowuje niezależność poszczególnych plebiscytów od siebie.
 
 Odnotowuję przy tym dwie zmiany **poza zakresem pytania**, dla pełności obrazu: Nagroda Uczniowska w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją otrzymała kwotę 10 000,00 zł brutto, a część wydawnicza rozszerzyła się o wydanie dźwiękowe antologii, opisane niżej. Obie mieszczą się w budżetach finansowanych z innych źródeł i nie wchodzą do kwoty, o którą pytam.
 
-Suma wszystkich pozycji obecnie wycenionych w całym przedsięwzięciu wynosi dziś **1 775 299,76 zł** wobec 1 665 626,80 zł podanych w piśmie. Wzrost poza zakresem pytania obejmuje także instalowalną wersję mobilną strony, opisaną niżej. Aktualne liczby w każdej chwili pokazuje [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej), do którego pismo się odwołuje, oraz załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania).
+Suma wszystkich pozycji obecnie wycenionych w całym przedsięwzięciu wynosi dziś **1 815 619,76 zł** wobec 1 665 626,80 zł podanych w piśmie. Wzrost poza zakresem pytania obejmuje także instalowalną wersję mobilną strony, opisaną niżej. Aktualne liczby w każdej chwili pokazuje [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej), do którego pismo się odwołuje, oraz załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania).
 
 ## Antologia także jako audiobook
 

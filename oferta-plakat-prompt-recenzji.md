@@ -18,7 +18,7 @@ Po pierwsze: czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzj�
 
 Po drugie: oferta zakłada, że producent wzornictwa zainteresuje się plebiscytem na plakat. Czy ten związek jest prawdziwy, czy naciągany? Czy to jest dla Ciebie wydatek marketingowy, wydatek wizerunkowy, darowizna, czy nic z tych rzeczy - i czy z któregokolwiek z tych budżetów dałbyś na to pieniądze?
 
-Po trzecie: wydajesz 162 480 zł netto. Wymień trzy rzeczy, które za te same pieniądze kupiłbyś w marketingu, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza. Bądź konkretny: stoisko, kampania, współpraca z projektantem, własny konkurs.
+Po trzecie: wydajesz 165 840 zł netto. Wymień trzy rzeczy, które za te same pieniądze kupiłbyś w marketingu, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza. Bądź konkretny: stoisko, kampania, współpraca z projektantem, własny konkurs.
 
 Po czwarte: osią plebiscytu jest warunek, że plakat ma powstać pod ludzką ręką, bez generatora obrazu. Czy to jest mocna idea, czy chwyt? Czy ten warunek przyciągnie dobrych twórców, czy odetnie połowę środowiska, które pracuje dziś cyfrowo? Oceniaj to jako osoba, która zamawia projekty, a nie jako obserwator sporu.
 

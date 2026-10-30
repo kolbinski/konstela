@@ -198,12 +198,12 @@ Dokumentacja została przygotowana do konsultacji prawnej; zlecenie zostanie zł
 
 Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: kilka mniejszych decyzji jest łatwiejszych do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
-- **Fundator puli nagród** - 544 449,76 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
-- **Sponsor gali** - 35 168,00 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
+- **Fundator puli nagród** - 547 809,76 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
+- **Sponsor gali** - 62 048,00 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
 - **Partner wydawniczy lub sponsor organizacyjny** - 162 162,00 zł<small>produkcja bezpłatnej antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
 - **Mecenas Założycielski** - 183 480,00 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, konsultacja prawna regulaminu, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
 - **Sponsor akademii** - 160 160,00 zł<small>pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń</small>
-- **Razem, pozycje obecnie wycenione - 1 085 419,76 zł**
+- **Razem, pozycje obecnie wycenione - 1 115 659,76 zł**
 
 Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej) i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą.
 
@@ -241,7 +241,7 @@ VAT w arkuszu jest podatkiem doliczanym do faktur wystawianych sponsorom, a nie 
 
 Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
-Pozycje objęte pytaniem sumują się dziś do **684 952,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **157 360,00 zł na 2027 rok** i **527 592,00 zł na 2028 rok**.
+Pozycje objęte pytaniem sumują się dziś do **695 032,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **157 360,00 zł na 2027 rok** i **537 672,00 zł na 2028 rok**.
 
 Podana suma obejmuje wyłącznie pozycje obecnie wycenione. **Nie obejmuje kosztów oznaczonych w arkuszu jako „do wyceny" albo „do ustalenia"**, a te w zakresie pytania są następujące:
 
@@ -423,13 +423,13 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Ubezpieczenie prac na czas wystawy | 3 000 zł |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przyjęcie i zwrot oryginałów, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji - razem 190 godzin | 41 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 6 480 zł |
-| **Razem, pozycje rozstrzygnięte** | **162 480 zł** |
+| **Razem, pozycje rozstrzygnięte** | **165 840 zł** |
 | Realizacja wystawy przy gali | do wyceny |
 | Wystawa w galerii sztuki, jeżeli zostanie pozyskana | do wyceny |
 | Obsługa prawna regulaminu plebiscytu | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
 
-Z kwoty 162 480 zł zakres pytania do Ministerstwa obejmuje **157 552 zł**. Pozostałe 4 928 zł to obsługa cichej licytacji oryginałów wraz z przypisaną jej rezerwą; licytacja towarzyszy wystawie w galerii sztuki, jest finansowana odrębnie i pozostaje poza pytaniem. Tak samo pokazuje to załączone zestawienie zadania.
+Z kwoty 165 840 zł zakres pytania do Ministerstwa obejmuje **157 552 zł**. Pozostałe 4 928 zł to obsługa cichej licytacji oryginałów wraz z przypisaną jej rezerwą; licytacja towarzyszy wystawie w galerii sztuki, jest finansowana odrębnie i pozostaje poza pytaniem. Tak samo pokazuje to załączone zestawienie zadania.
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
@@ -518,7 +518,7 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, prowadzenie Projektorni, dotarcie do szkół filmowych i festiwali - razem 290 godzin | 63 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 7 800 zł |
-| **Razem, pozycje rozstrzygnięte** | **264 800 zł** |
+| **Razem, pozycje rozstrzygnięte** | **268 160 zł** |
 | Przygotowanie techniczne zwiastunów do emisji galowej | do wyceny |
 | Pokazy kinowe filmów finałowych, jeżeli dojdą do skutku | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |

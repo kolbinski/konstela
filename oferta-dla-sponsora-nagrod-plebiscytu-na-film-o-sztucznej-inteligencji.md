@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który ufunduje pulę nagród w plebiscycie na film o sztucznej inteligencji - 180 000 zł brutto dla laureatów - wraz z oceną zgłoszeń, dotarciem do twórców i prowadzeniem plebiscytu przez cały rok naboru.**
 
-**Kosztuje to 264 800 zł netto** (325 704 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 268 160 zł netto** (329 836,80 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to rola, po której zostaje dziesięć filmów, których bez niej by nie było. Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, więc pula nagród nie jest tu tylko gratyfikacją dla zwycięzcy - jest powodem, dla którego ktoś w ogóle siada do scenariusza.
 
@@ -85,7 +85,7 @@ Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa tr
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**264 800 zł netto** (325 704 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet plebiscytu na film" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu), który jest jawny i dostępny bez żadnych warunków.
+**268 160 zł netto** (329 836,80 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet plebiscytu na film" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -97,12 +97,13 @@ Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa tr
 | Honoraria jury za etap przygotowawczy                          |    do ustalenia |
 | Przygotowanie techniczne zwiastunów do emisji galowej          |    do ustalenia |
 | Pokazy kinowe filmów finałowych                                |    do ustalenia |
-| Dojazd i nocleg finalistów na galę                             |    do ustalenia |
+| Dojazd i nocleg finalistów na galę - w budżecie gali           |             0 zł |
 | Obsługa prawna regulaminu filmu                                |    do ustalenia |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |       7 800 zł |
-| **Razem netto**                                                | **264 800 zł** |
+| Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |       8 160 zł |
+| **Razem netto**                                                | **268 160 zł** |
 | VAT 23%                                                        |      60 904 zł |
-| **Do zapłaty brutto**                                          | **325 704 zł** |
+| **Do zapłaty brutto**                                          | **329 836,80 zł** |
 
 ### Z czego składa się praca organizatora: 290 godzin
 
@@ -260,13 +261,13 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 544 449,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 262 600 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 162 480 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 165 840 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 35 168 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 62 048 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Partner wydawniczy antologii, mecenas sesji studyjnych, partner galerii sztuki, partner dystrybucji filmów, sponsor podcastu i patronat medialny nie mają jeszcze osobnych ofert, bo opierają się na świadczeniu rzeczowym albo czekają na wycenę; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.
 

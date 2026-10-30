@@ -30,7 +30,7 @@ Do tego dwa szkice umów opisanych w ofercie: **umowa przedwstępna z zadatkiem*
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
-- **27 listopada** - telefon do MKiDN oraz wysłanie gotowego pisma `mk-uzupelnienie.md`. Uzupełnienie podaje nową kwotę objętą pytaniem (684 952,00 zł zamiast 660 952,00 zł) i odnotowuje audiobook. Wysyłane razem z przypomnieniem, nie osobno.
+- **27 listopada** - telefon do MKiDN oraz wysłanie gotowego pisma `mk-uzupelnienie.md`. Uzupełnienie podaje nową kwotę objętą pytaniem (695 032,00 zł zamiast 660 952,00 zł) i odnotowuje audiobook. Wysyłane razem z przypomnieniem, nie osobno.
 - **Do 31 grudnia 2026** - umowa z mecenasem antologii, rejestracja fundacji w KRS, konsultacja prawna regulaminu. Kolejność: deklaracja mecenasa, rejestracja fundacji, umowa z nią, faktura.
 - **1 stycznia 2027** - otwarcie naboru, o ile spełnione są trzy warunki z regulaminu: pula nagród pokryta środkami na rachunku, co najmniej trzy osoby potwierdziły udział w jury i skład ogłoszony, regulamin po konsultacji prawnej.
 

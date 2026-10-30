@@ -4,7 +4,7 @@
 
 ## <!--ikona:plakat--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 162 480 zł netto** (199 850,40 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 165 840 zł netto** (203 983,20 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 **Rola nazywa się mecenasem, a nie sponsorem, i to nie jest kwestia uprzejmości.** Sponsor finansuje pulę nagród. Tutaj pieniądze idą także na rzeczy, których w puli nie ma: na przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów dziesięciu prac finałowych, na wystawę przy gali i na dotarcie do szkół artystycznych oraz środowiska ilustratorów. To jest opieka nad obiegiem prac, nie wypłata nagrody.
 
@@ -62,7 +62,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**162 480 zł netto** (199 850,40 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plakatu), który jest jawny i dostępny bez żadnych warunków.
+**165 840 zł netto** (203 983,20 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plakatu), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                      |             Netto |
 | -------------------------------------------------------------- | ------------------: |
@@ -76,12 +76,13 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 | Honoraria jury za etap przygotowawczy                        |    do ustalenia |
 | Realizacja wystawy przy gali                                 |      do wyceny |
 | Obsługa prawna regulaminu plakatu                            |      do wyceny |
-| Dojazd i nocleg finalistów na galę                           |      do wyceny |
+| Dojazd i nocleg finalistów na galę - w budżecie gali          |             0 zł |
 | Polisa obejmująca wycenę prac, przechowywanie i okres po sprzedaży |      do wyceny |
-| Rezerwa na przekroczenia (12%, bez nagród)                   |       6 480 zł |
-| **Razem netto**                                              | **162 480 zł** |
+| Honoraria zespołu wybierającego najlepsze uzasadnienie głosu |       3 000 zł |
+| Rezerwa na przekroczenia (12%, bez nagród)                   |       6 840 zł |
+| **Razem netto**                                              | **165 840 zł** |
 | VAT 23%                                                      |   37 370,40 zł |
-| **Do zapłaty brutto**                                        | **199 850,40 zł** |
+| **Do zapłaty brutto**                                        | **203 983,20 zł** |
 
 **Praca organizatora to 190 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
 
@@ -95,15 +96,20 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 
 **Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje proporcjonalnie.
 
-**Sześć pozycji czeka na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 162 480 zł:
+**Cztery pozycje czekają na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 165 840 zł:
 
 - **honoraria jury plakatu za ocenę** oraz **honoraria za etap przygotowawczy**, czyli za przygotowanie karty oceny przed otwarciem naboru - do ustalenia po skompletowaniu jury;
 - **realizacja wystawy przy gali**: zawieszenie, oświetlenie, opisy prac i obsługa sali;
 - **obsługa prawna regulaminu plakatu** - jeden z trzech warunków otwarcia naboru;
-- **dojazd i nocleg finalistów na galę**;
 - **polisa obejmująca wycenę prac, przechowywanie i okres po sprzedaży** - szersza niż ubezpieczenie samego transportu i czasu wystawy.
 
 Każdą z nich uzgadniamy osobno, aneksem, po przedstawieniu Mecenasowi oferty dostawcy. **Oferta w tej postaci nie zawiera ich kosztu i nie udajemy, że zawiera.**
+
+**Górny limit zobowiązania.** Żeby otwarte pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 200 000 zł netto**. Powyżej niej Mecenas nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Odmowa podpisania aneksu nie jest więc ryzykiem dla Mecenasa - jest po prostu decyzją, po której Organizator szuka innego rozwiązania.
+
+**Dojazd i nocleg finalistów pokrywa [sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)**, a nie ta oferta. Gala jest wspólna dla czterech plebiscytów i przyjeżdża na nią czterdziestu finalistów, więc jeden partner organizuje i rozlicza cały przyjazd. Pozycja zostaje w zestawieniu z kwotą zero, żeby było widać, że koszt istnieje i kto go ponosi.
+
+**Co skaluje się z liczbą zgłoszeń, a co nie.** Kontrola formalna rozliczana jest **według faktycznej liczby zgłoszeń**, po 8 minut na zgłoszenie - przy 15 zgłoszeniach Mecenas nie płaci za kontrolę 150. Tak samo transport i ubezpieczenie rozliczają się według liczby przysłanych oryginałów. Pozostałe godziny - dotarcie do szkół, obsługa jury, uzgodnienie okładki, obsługa licytacji - są ryczałtem, bo ich nakład nie zależy od frekwencji: do szkoły trzeba napisać niezależnie od tego, ilu uczniów odpowie. Różnica wraca do Mecenasa przy rozliczeniu.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów twardych, bez nagród** - od 54 000 zł, czyli 41 800 zł pracy oraz 12 200 zł medalu, dyplomów, transportu i ubezpieczenia. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Mecenasa albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -238,13 +244,13 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 544 449,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Sponsor nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 264 800 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
-- **[Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 262 600 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Sponsor nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 268 160 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
+- **[Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 35 168 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 62 048 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Partner wydawniczy antologii, mecenas sesji studyjnych, partner galerii sztuki, partner dystrybucji filmów, sponsor podcastu i patronat medialny nie mają jeszcze osobnych ofert, bo opierają się na świadczeniu rzeczowym albo czekają na wycenę; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.
 
