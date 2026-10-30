@@ -49,8 +49,8 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 | Pozycja | Kwota |
 |---|---|
 | Nagrody w plebiscycie: 20 tys. zł, 10 tys. zł, 5 tys. zł | 35 000 zł |
-| Nagroda publiczności dla wykonawcy *(propozycja, do potwierdzenia)* | 3 000 zł |
-| Nagroda za najlepsze uzasadnienie wyboru *(propozycja, do potwierdzenia)* | 1 000 zł |
+| Nagroda publiczności dla wykonawcy | 10 000 zł |
+| Nagroda za najlepsze uzasadnienie wyboru | 2 000 zł |
 | Nagranie hymnu przez jurorów wraz z teledyskiem | 60 000 - 100 000 zł |
 | Nagrania studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Statuetki i dyplomy dla laureatów plebiscytu *(propozycja, do potwierdzenia)* | 3 000 zł |

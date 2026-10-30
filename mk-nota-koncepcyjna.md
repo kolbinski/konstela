@@ -197,11 +197,11 @@ Dokumentacja została przygotowana do konsultacji prawnej; zlecenie zostanie zł
 
 Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: kilka mniejszych decyzji jest łatwiejszych do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
-- **Fundator puli nagród** - 523 196,80 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 4 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
+- **Fundator puli nagród** - 532 156,80 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
 - **Sponsor gali** - 35 168,00 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
 - **Partner wydawniczy lub sponsor organizacyjny** - 292 422,00 zł<small>produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, krótki nakład na galę, utrzymanie Archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu</small>
 - **Sponsor akademii** - 160 160,00 zł<small>pierwsza runda oceny we wszystkich kategoriach: honoraria i vouchery czytelników rozmów, honoraria oceniających filmy, materiały kalibracyjne, panel oceniających, obsługa rozliczeń</small>
-- **Razem, pozycje obecnie wycenione - 1 010 946,80 zł**
+- **Razem, pozycje obecnie wycenione - 1 019 906,80 zł**
 
 Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej) i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą.
 
@@ -219,7 +219,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 ### Część artystyczna jest poza tym budżetem
 
-Powyższe 1 010 946,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film). Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
+Powyższe 1 019 906,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film). Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
 
 Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa plebiscytu na plakat o sztucznej inteligencji i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję.
 
@@ -239,7 +239,7 @@ VAT w arkuszu jest podatkiem doliczanym do faktur wystawianych sponsorom, a nie 
 
 Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
-Pozycje objęte pytaniem sumują się dziś do **660 952,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **157 360,00 zł na 2027 rok** i **503 592,00 zł na 2028 rok**.
+Pozycje objęte pytaniem sumują się dziś do **684 952,00 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **157 360,00 zł na 2027 rok** i **527 592,00 zł na 2028 rok**.
 
 Podana suma obejmuje wyłącznie pozycje obecnie wycenione. **Nie obejmuje kosztów oznaczonych w arkuszu jako „do wyceny" albo „do ustalenia"**, a te w zakresie pytania są następujące:
 
@@ -306,8 +306,7 @@ Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich
 | Pozycja | Kwota |
 |---|---:|
 | Nagrody w plebiscycie: 20 tys. zł, 10 tys. zł, 5 tys. zł | 35 000 zł |
-| Nagroda publiczności dla wykonawcy | 3 000 zł |
-| Nagroda dla publicznych ocen zgłoszonych piosenek | 1 000 zł |
+| Nagrody publiczności: 10 000 zł dla zgłoszenia z największą liczbą głosów i 2 000 zł za najlepsze uzasadnienie głosu | 12 000 zł |
 | Profesjonalne nagranie studyjne utworów dziesięciu finalistów | 50 000 - 100 000 zł |
 | Nagranie hymnu „Zapytaj inaczej" przez jurorów, wraz z teledyskiem | 60 000 - 100 000 zł |
 | Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
@@ -325,7 +324,7 @@ Odróżniam je od **pracy przy dotarciu do wykonawców**, która jest wyceniona 
 
 ### Podatek
 
-Nagrody w plebiscytach są w rozumieniu ustawy o podatku dochodowym od osób fizycznych nagrodami w konkursach i podlegają zryczałtowanemu podatkowi w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2). Nie dotyczy to jednak każdej pozycji: przy nagrodach z dziedziny kultury i sztuki, których jednorazowa wartość nie przekracza 2 000 zł, w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68 tej ustawy - z wymienionych tu świadczeń dotyczyłoby to nagrody 1 000 zł za publiczne oceny zgłoszeń, a nie nagrody publiczności w wysokości 3 000 zł. Sposób opodatkowania każdego świadczenia ustali księgowy przed otwarciem naboru, osobno dla każdej pozycji, a nie jedną stawką dla całego budżetu. Kwoty w tabeli są kwotami nagród; decyzja, czy podatek obciąża nagrodę, czy jest doliczany ponad nią, nie została jeszcze podjęta i w drugim wariancie podnosi pozycje nagrodowe o około 4,3 tys. zł.
+Nagrody w plebiscytach są w rozumieniu ustawy o podatku dochodowym od osób fizycznych nagrodami w konkursach i podlegają zryczałtowanemu podatkowi w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2). Nie dotyczy to jednak każdej pozycji: przy nagrodach z dziedziny kultury i sztuki, których jednorazowa wartość nie przekracza 2 000 zł, w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68 tej ustawy - z wymienionych tu świadczeń dotyczyłoby to nagrody 2 000 zł za najlepsze uzasadnienie głosu, a nie nagrody publiczności w wysokości 10 000 zł. Sposób opodatkowania każdego świadczenia ustali księgowy przed otwarciem naboru, osobno dla każdej pozycji, a nie jedną stawką dla całego budżetu. Kwoty w tabeli są kwotami nagród; decyzja, czy podatek obciąża nagrodę, czy jest doliczany ponad nią, nie została jeszcze podjęta i w drugim wariancie podnosi pozycje nagrodowe o około 4,3 tys. zł.
 
 ### Honoraria jury
 
@@ -415,20 +414,20 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Pozycja | Kwota |
 |---|---:|
 | Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
-| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł jako nagroda dla publicznych ocen zgłoszeń | 4 000 zł |
+| Nagrody publiczności: 10 000 zł dla zgłoszenia z największą liczbą głosów i 2 000 zł za najlepsze uzasadnienie głosu | 12 000 zł |
 | Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Transport oryginałów dziesiątki finalistów w obie strony | 8 000 zł |
 | Ubezpieczenie prac na czas wystawy | 3 000 zł |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przyjęcie i zwrot oryginałów, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji - razem 190 godzin | 41 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 6 480 zł |
-| **Razem, pozycje rozstrzygnięte** | **154 480 zł** |
+| **Razem, pozycje rozstrzygnięte** | **162 480 zł** |
 | Realizacja wystawy przy gali | do wyceny |
 | Wystawa w galerii sztuki, jeżeli zostanie pozyskana | do wyceny |
 | Obsługa prawna regulaminu plebiscytu | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
 
-Z kwoty 154 480 zł zakres pytania do Ministerstwa obejmuje **149 552 zł**. Pozostałe 4 928 zł to obsługa cichej licytacji oryginałów wraz z przypisaną jej rezerwą; licytacja towarzyszy wystawie w galerii sztuki, jest finansowana odrębnie i pozostaje poza pytaniem. Tak samo pokazuje to załączone zestawienie zadania.
+Z kwoty 162 480 zł zakres pytania do Ministerstwa obejmuje **157 552 zł**. Pozostałe 4 928 zł to obsługa cichej licytacji oryginałów wraz z przypisaną jej rezerwą; licytacja towarzyszy wystawie w galerii sztuki, jest finansowana odrębnie i pozostaje poza pytaniem. Tak samo pokazuje to załączone zestawienie zadania.
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
@@ -450,7 +449,7 @@ Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu
 
 ### Czego kosztorys nie obejmuje
 
-Druku antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: dwadzieścia godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 1 000 zł za publiczne oceny zgłoszeń - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
+Druku antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: dwadzieścia godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 2 000 zł za najlepsze uzasadnienie głosu - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
 
 ## 9. Plebiscyt na film
 
@@ -512,12 +511,12 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 | Pozycja | Kwota |
 |---|---:|
 | Nagrody dla trzech najwyżej ocenionych filmów: 100 tys. zł, 50 tys. zł, 30 tys. zł | 180 000 zł |
-| Nagrody publiczności: 3 000 zł dla laureata głosowania i 1 000 zł jako nagroda dla publicznych ocen zgłoszeń | 4 000 zł |
+| Nagrody publiczności: 10 000 zł dla zgłoszenia z największą liczbą głosów i 2 000 zł za najlepsze uzasadnienie głosu | 12 000 zł |
 | Medal zwycięzcy i dyplomy dziesięciu finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, prowadzenie Projektorni, dotarcie do szkół filmowych i festiwali - razem 290 godzin | 63 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 7 800 zł |
-| **Razem, pozycje rozstrzygnięte** | **256 800 zł** |
+| **Razem, pozycje rozstrzygnięte** | **264 800 zł** |
 | Przygotowanie techniczne zwiastunów do emisji galowej | do wyceny |
 | Pokazy kinowe filmów finałowych, jeżeli dojdą do skutku | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
