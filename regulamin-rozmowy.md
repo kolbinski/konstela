@@ -628,6 +628,8 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
    a) nagroda jest **niezależna od werdyktu jury i od Nagrody Publiczności** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki;
 
+   a1) **Nagroda Uczniowska jest nagrodą pieniężną** i wynosi 10 000 zł brutto. Kumuluje się z nagrodą albo wyróżnieniem przyznanym przez jury, jeżeli wskazana rozmowa taką otrzymała. Do jej ogłoszenia stosuje się ust. 2a: wysokość ogłaszana jest wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora;
+
    b) wskazana rozmowa przechodzi przed ogłoszeniem **to samo sprawdzenie rzetelności** co zgłoszenia z pierwszej dziesiątki (§ 7 ust. 13); rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji;
 
    c) wynik ogłaszany jest podczas gali, razem z pozostałymi werdyktami;

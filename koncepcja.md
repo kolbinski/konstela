@@ -625,7 +625,7 @@ Pięć załączników, w nazwach bez dat, bo numeracja porządkuje je sama, a da
 
 **O co pismo pyta.** Dwie sprawy rozstrzygane niezależnie: wydanie listu intencyjnego oraz wskazanie właściwego programu dla części artystycznej. W ramach drugiej pięć pytań formalnych: właściwy program, status wnioskodawcy wraz z dopuszczalnością wynagrodzenia organizatora, zadanie dwuletnie 2027-2028, wybór naboru i wydatki sprzed umowy, wymagany udział środków z innych źródeł. Pismo prosi wprost o rozstrzyganie każdej sprawy osobno, bez zasady wszystko albo nic.
 
-**Kwoty w pakiecie.** Zakres objęty pytaniem: 660 952,00 zł, w tym 157 360,00 zł na 2027 i 503 592,00 zł na 2028. Wszystkie pozycje obecnie wycenione: 1 665 626,80 zł. Pozycje oznaczone jako „do wyceny" i „do ustalenia" są wypisane w nocie i nie wchodzą do tych sum.
+**Kwoty w pakiecie.** Zakres objęty pytaniem: 660 952,00 zł, w tym 157 360,00 zł na 2027 i 503 592,00 zł na 2028. Wszystkie pozycje obecnie wycenione: 1 676 826,80 zł (w pakiecie wysłanym do MKiDN było 1 665 626,80 zł; różnica to Nagroda Uczniowska 10 000 zł wraz z rezerwą, dopisana 30.10.2026 po wysyłce). Pozycje oznaczone jako „do wyceny" i „do ustalenia" są wypisane w nocie i nie wchodzą do tych sum.
 
 **Czego w piśmie świadomie nie ma.** Informacji, że analogiczne prośby poszły wcześniej do Ministerstwa Cyfryzacji i Ministerstwa Edukacji Narodowej - zdanie „nie otrzymałem odpowiedzi" działałoby przeciwko nam. Wracamy do tego przy pierwszej przychylnej odpowiedzi któregokolwiek z resortów, bo wtedy zdanie brzmi odwrotnie.
 
