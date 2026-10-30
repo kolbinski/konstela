@@ -159,7 +159,7 @@ Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat o
 
 1.  **List intencyjny** - stwierdzający, że tematyka Nagrody wpisuje się w obszar rozwoju kompetencji cyfrowych, i wskazujący ścieżkę ubiegania się o patronat. Dokument taki nie stanowi patronatu ani zobowiązania finansowego, nie przesądza przyszłej decyzji i nie zawiera oceny plebiscytu ani rekomendacji organizatora. To jest prośba zasadnicza. Zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować jego treść na stronie Nagrody - mówię o tym wprost, żeby cel prośby był jasny. Bez takiego dokumentu rozmowa z partnerem zaczyna się od budowania wiarygodności, z nim od meritum.
 2.  **Rozmowę** o tym, czy inicjatywa mieści się w obszarze obejmowanym patronatem, i wskazanie właściwej drogi formalnej.
-3.  **Patronat honorowy** nad pierwszą edycją, obejmującą nabór w 2027 roku i rozstrzygnięcie w marcu 2028 - na podstawie odrębnego wniosku, który złożę po zabezpieczeniu finansowania przedsięwzięcia.
+3.  **Patronat honorowy** nad pierwszą edycją, obejmującą nabór w 2027 roku i rozstrzygnięcie w drugiej połowie kwietnia 2028 - na podstawie odrębnego wniosku, który złożę po zabezpieczeniu finansowania przedsięwzięcia.
 4.  **Wskazanie kontaktu** do potencjalnych partnerów finansujących, jeśli Ministerstwo uzna inicjatywę za wartą wsparcia.
 
 Czego **nie** proszę: finansowania ze środków Ministerstwa.
