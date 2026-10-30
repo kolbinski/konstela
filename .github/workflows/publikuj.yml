@@ -53,7 +53,7 @@ jobs:
           node-version: '20'
 
       - name: Zainstaluj bibliotekę do markdown
-        run: npm install --no-save --no-audit --no-fund marked@12.0.2
+        run: npm install --no-save --no-audit --no-fund marked@12.0.2 hyphen@1.14.1
 
       - name: Zbuduj strony dokumentów
         env:

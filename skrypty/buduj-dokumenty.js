@@ -7,7 +7,7 @@
  *
  * Uruchamiany automatycznie przy każdym wrzuceniu plików na GitHub, przez
  * `.github/workflows/publikuj.yml`. Lokalnie: `node skrypty/buduj-dokumenty.js`
- * po `npm install marked@12.0.2`.
+ * po `npm install marked@12.0.2 hyphen@1.14.1`.
  *
  * Czego ten skrypt NIE robi: nie dotyka `view.html` ani `view-xlsx.html`.
  * Pierwszy obsługuje dawną postać adresu `?file=`, która poszła w świat;
@@ -19,6 +19,7 @@ const crypto = require('crypto');
 const path = require('path');
 const { execFileSync } = require('child_process');
 const { marked } = require('marked');
+const { hyphenateSync } = require('hyphen/pl');
 
 const KORZEN = path.resolve(__dirname, '..');
 
@@ -304,6 +305,48 @@ function odcisk(adresZasobu) {
    adresach bezwzględnych. Istniejący znacznik podmienia, więc wielokrotne
    budowanie niczego nie mnoży. */
 const ZASOB = /((?:https?:\/\/[^/"'\s]+)?\/assets\/[A-Za-z0-9._/-]+?\.[A-Za-z0-9]+)(\?v=[A-Za-z0-9]+)?/g;
+/* Dzielenie wyrazów w tytule dokumentu.
+
+   Tytuł jest składany dużym stopniem pisma, więc na wąskim ekranie długi
+   wyraz potrafi nie zmieścić się w linii i zostaje przełamany bez kreski.
+   Wstawiamy więc miękkie łączniki (U+00AD) w miejscach, w których wyraz
+   wolno podzielić po polsku. Miękki łącznik jest niewidoczny dopóki wyraz
+   mieści się w linii - kreska pojawia się wyłącznie wtedy, gdy przeglądarka
+   musi wyraz przełamać. Nie polegamy na `hyphens: auto`, bo część
+   przeglądarek nie ma słownika polskiego i nie zrobiłaby nic.
+
+   Dzielimy tylko wyrazy od dziesięciu liter i tylko w miejscach oddalonych
+   o co najmniej cztery litery od początku i od końca wyrazu. Krótsze wyrazy
+   mieszczą się w linii nawet na wąskim telefonie, a przy ciaśniejszych
+   progach przeglądarka dzieliłaby tytuł częściej, niż trzeba. */
+const MIEKKI_LACZNIK = '­';
+
+function podzielWyraz(wyraz) {
+  if (wyraz.length < 10) return wyraz;
+  const czesci = hyphenateSync(wyraz, { hyphenChar: '\u0001' }).split('\u0001');
+  if (czesci.length < 2) return wyraz;
+
+  let wynik = czesci[0];
+  for (let i = 1; i < czesci.length; i++) {
+    const przed = wynik.length;
+    const po = wyraz.length - przed;
+    wynik += (przed >= 4 && po >= 4 ? MIEKKI_LACZNIK : '') + czesci[i];
+  }
+  return wynik;
+}
+
+function dzielWyrazyWTytule(html) {
+  return html.replace(/(<h1\b[^>]*>)([\s\S]*?)(<\/h1>)/g, (m, otwarcie, wnetrze, zamkniecie) => {
+    /* Znaczniki i encje zostawiamy nietknięte - dzielimy wyłącznie tekst. */
+    const tresc = wnetrze.replace(/<[^>]*>|&[^;\s]+;|[^<&]+/g, (kawalek) =>
+      kawalek.startsWith('<') || kawalek.startsWith('&')
+        ? kawalek
+        : kawalek.replace(/[A-Za-zĄąĆćĘꣳŃńÓóŚśŹźŻż]{10,}/g, podzielWyraz)
+    );
+    return otwarcie + tresc + zamkniecie;
+  });
+}
+
 function wersjonujZasoby(html) {
   return html.replace(ZASOB, (dopasowanie, adres) => {
     const znacznik = odcisk(adres);
@@ -522,7 +565,7 @@ function main() {
       ? `${DOMENA}/${adresKrotki}/`
       : `${DOMENA}/dokument/${nazwa}/`;
 
-    const html = wersjonujZasoby(
+    const html = dzielWyrazyWTytule(wersjonujZasoby(
       strona({
         naglowek: tytul(md, nazwa),
         opisStrony: OPISY[nazwa] || opis(md),
@@ -536,7 +579,7 @@ function main() {
             rozdzielSekcje(nadajKotwice(marked.parse(wstawIkony(md, false))))
           ),
       })
-    );
+    ));
 
     zapisz(path.join(KORZEN, 'dokument', nazwa, 'index.html'), html);
     if (adresKrotki) zapisz(path.join(KORZEN, adresKrotki, 'index.html'), html);
@@ -573,7 +616,7 @@ function main() {
     const sciezka = path.join(KORZEN, nazwa);
     if (!fs.existsSync(sciezka)) return;
     const przed = fs.readFileSync(sciezka, 'utf8');
-    const po = wersjonujZasoby(wstawIkony(przed, true));
+    const po = dzielWyrazyWTytule(wersjonujZasoby(wstawIkony(przed, true)));
     if (po !== przed) {
       fs.writeFileSync(sciezka, po);
       podbite++;

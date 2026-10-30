@@ -289,6 +289,13 @@
         letter-spacing: 0.01em;
         text-wrap: balance;
         overflow-wrap: break-word;
+        /* Tytuł wolno dzielić wyłącznie w miejscach, które wyznaczył skrypt
+           budujący - wstawia tam miękkie łączniki według polskich reguł.
+           Kreska pojawia się tylko wtedy, gdy wyraz nie mieści się w linii.
+           Celowo nie `auto`: słownik polski ma część przeglądarek, a część
+           nie, więc podział byłby różny na różnych urządzeniach. */
+        -webkit-hyphens: manual;
+        hyphens: manual;
         margin: 0 0 1.75rem;
       }
       /* Nadtytuł edycji pod tytułem strony - ten sam krój i rytm co na
