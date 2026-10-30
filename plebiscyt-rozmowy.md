@@ -18,7 +18,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 - **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
 - **publiczność ma własne nagrody**, niezależne od werdyktu jury: [Nagrodę Publiczności](#nagroda-publicznosci), a obok niej [Nagrodę Uczniowską](#jak-dziala-nagroda-uczniowska) wskazywaną przez grupy szkolne
-- **dziesięć najlepszych rozmów** składa się na antologię – bezpłatny e-book, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie – rozmów w antologii może być mniej
+- **dziesięć najlepszych rozmów** składa się na antologię – bezpłatny e-book, bezpłatny audiobook, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie – rozmów w antologii może być mniej
 - wszystkie zgłoszenia trafiają do **[Czytelni](#czytelnia-i-archiwum)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia-i-archiwum)
 - **nie musisz znać się na sztucznej inteligencji** – zgłoszona rozmowa może być Twoją pierwszą w życiu rozmową z AI; oceniamy tę jedną rozmowę, a nie Twoje doświadczenie
 - zgłaszasz **jedną rozmowę w jednej edycji**
@@ -153,7 +153,7 @@ Trzy werdykty – jury, uczniów i publiczności – są od siebie niezależne i
 
 ### Antologia
 
-**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#co-zostaje-po-edycji)**, publikowaną jako **bezpłatny e-book**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#co-zostaje-po-edycji)**, publikowaną jako **bezpłatny e-book i bezpłatny audiobook**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. W audiobooku rozmowę czyta trzech lektorów – osobny głos Twój, osobny sztucznej inteligencji i osobny dla komentarza jury – a Ty nie musisz nic nagrywać. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
 ### Nagroda Uczniowska
 

@@ -34,7 +34,7 @@ Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu w
 
 **Nagradzamy wkład człowieka w prowadzenie rozmowy**: pytania, doprecyzowania, sprawdzanie odpowiedzi i decyzje podejmowane w toku dialogu. Nie oceniamy możliwości samego modelu. Szukamy rozmów, w których autor rozwija temat, sprawdza odpowiedzi i dochodzi do rozpoznawalnego rezultatu.
 
-**Dziesięć najlepszych rozmów składa się na antologię** – bezpłatny e-book, a po pozyskaniu wydawnictwa również wydanie książkowe. Antologia będzie trwałym rezultatem edycji: zbiorem nagrodzonych rozmów wraz z komentarzami wyjaśniającymi decyzje jury.
+**Dziesięć najlepszych rozmów składa się na antologię** – bezpłatny e-book, bezpłatny audiobook, a po pozyskaniu wydawnictwa również wydanie książkowe. Antologia będzie trwałym rezultatem edycji: zbiorem nagrodzonych rozmów wraz z komentarzami wyjaśniającymi decyzje jury.
 
 ### Co dostają finaliści
 
@@ -79,7 +79,7 @@ Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczeni
 
 ### Komentarze do antologii
 
-Każda rozmowa w antologii zostanie opatrzona **komentarzem jury**: kilkoma zdaniami wyjaśniającymi jej wartość. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie. Umowa określa wynagrodzenie za komentarz, sposób jego podpisania oraz zakres zmian redakcyjnych, na które autor komentarza się zgadza.
+Każda rozmowa w antologii zostanie opatrzona **komentarzem jury**: kilkoma zdaniami wyjaśniającymi jej wartość. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie. Umowa określa wynagrodzenie za komentarz, sposób jego podpisania oraz zakres zmian redakcyjnych, na które autor komentarza się zgadza. Antologia ukazuje się także jako audiobook, w którym komentarze jury czyta osobny lektor – zgodę na odczytanie komentarza obejmuje ta sama umowa, a juror nie jest proszony o nagranie własnym głosem.
 
 ### Czego jury nie robi
 

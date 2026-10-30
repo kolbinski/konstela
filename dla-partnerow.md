@@ -70,7 +70,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <div class="kafle">
 <article>
 <h3>Mecenas antologii i Archiwum</h3>
-<p>Redakcja, skład i druk antologii, utrzymanie publicznego Archiwum oraz podcast towarzyszący Nagrodzie. <strong>Pełna propozycja wraz z kwotą i kosztorysem jest opisana osobno.</strong></p>
+<p>Redakcja, skład i druk antologii, jej wydanie dźwiękowe, utrzymanie publicznego Archiwum oraz podcast towarzyszący Nagrodzie. <strong>Pełna propozycja wraz z kwotą i kosztorysem jest opisana osobno.</strong></p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-antologii">Czytaj więcej</a></p>
 </article>
 <article>
