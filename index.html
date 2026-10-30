@@ -641,17 +641,25 @@
       /* Ilustracja wypełnia górę kafla: wychodzi poza jego wyściółkę, więc
          dotyka krawędzi, a proporcja 16:9 jest ta sama co na stronach
          plebiscytów. */
+      .kafle .ilustracja-link {
+        display: block;
+        margin: -1.5rem -1.4rem 1.2rem;
+      }
       .kafle .ilustracja {
         display: block;
-        width: calc(100% + 2.8rem);
-        margin: -1.5rem -1.4rem 1.2rem;
+        width: 100%;
         height: auto;
         aspect-ratio: 16 / 9;
         object-fit: cover;
       }
+      /* Zdjęcie prowadzi tam, gdzie odnośnik pod spodem, więc przy najechaniu
+         daje ten sam znak. */
+      .kafle .ilustracja-link:hover .ilustracja {
+        filter: brightness(1.08);
+      }
       .kafle h3 {
         font-family: var(--display);
-        font-size: 1.15rem;
+        font-size: 1.45rem;
         font-weight: 600;
         margin: 0 0 0.7rem;
       }
@@ -1222,17 +1230,19 @@
         </div>
         <div class="kafle">
           <article>
-            <img
-              class="ilustracja"
-              src="/assets/rozmowa-800.jpg?v=2287235e47"
-              srcset="/assets/rozmowa-800.jpg?v=2287235e47 800w, /assets/rozmowa.jpg?v=543656efb1 1671w"
-              sizes="(max-width: 48rem) 100vw, 23rem"
-              width="1671"
-              height="941"
-              loading="lazy"
-              decoding="async"
-              alt="Kobieta z laptopem na skale nad doliną o zmierzchu rysuje palcem linie między gwiazdami; z konstelacji wyłaniają się obrazy - planeta, galaktyka, otwarta książka, muszla amonitu, rzeźba, góry - połączone świetlistymi liniami."
-            />
+            <a class="ilustracja-link" href="/plebiscyt-rozmowy" tabindex="-1" aria-hidden="true">
+              <img
+                class="ilustracja"
+                src="/assets/rozmowa-800.jpg?v=2287235e47"
+                srcset="/assets/rozmowa-800.jpg?v=2287235e47 800w, /assets/rozmowa.jpg?v=543656efb1 1671w"
+                sizes="(max-width: 48rem) 100vw, 23rem"
+                width="1671"
+                height="941"
+                loading="lazy"
+                decoding="async"
+                alt="Kobieta z laptopem na skale nad doliną o zmierzchu rysuje palcem linie między gwiazdami; z konstelacji wyłaniają się obrazy - planeta, galaktyka, otwarta książka, muszla amonitu, rzeźba, góry - połączone świetlistymi liniami."
+              />
+            </a>
             <h3>Plebiscyt na rozmowę ze sztuczną inteligencją</h3>
             <p>
               Zgłaszasz rozmowę z AI, po której coś zrozumiałeś inaczej niż
@@ -1243,17 +1253,19 @@
             <p><a href="/plebiscyt-rozmowy">Czytaj więcej</a></p>
           </article>
           <article>
-            <img
-              class="ilustracja"
-              src="/assets/film-800.jpg?v=ff58a1ce76"
-              srcset="/assets/film-800.jpg?v=ff58a1ce76 800w, /assets/film.jpg?v=11628e8347 1671w"
-              sizes="(max-width: 48rem) 100vw, 23rem"
-              width="1671"
-              height="940"
-              loading="lazy"
-              decoding="async"
-              alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji."
-            />
+            <a class="ilustracja-link" href="/plebiscyt-filmu" tabindex="-1" aria-hidden="true">
+              <img
+                class="ilustracja"
+                src="/assets/film-800.jpg?v=ff58a1ce76"
+                srcset="/assets/film-800.jpg?v=ff58a1ce76 800w, /assets/film.jpg?v=11628e8347 1671w"
+                sizes="(max-width: 48rem) 100vw, 23rem"
+                width="1671"
+                height="940"
+                loading="lazy"
+                decoding="async"
+                alt="Filmowiec z kamerą na statywie stoi na skale nad doliną o zachodzie słońca; nad nim wije się przez rozgwieżdżone niebo wstęga taśmy filmowej z kadrami, a z gwiazd układa się zarys ludzkiej głowy połączonej liniami konstelacji."
+              />
+            </a>
             <h3>Plebiscyt na film o sztucznej inteligencji</h3>
             <p>
               Film o sztucznej inteligencji, od 20 do 90 minut, stworzony od
@@ -1265,17 +1277,19 @@
             <p><a href="/plebiscyt-filmu">Czytaj więcej</a></p>
           </article>
           <article>
-            <img
-              class="ilustracja"
-              src="/assets/piosenka-800.jpg?v=610214ca4b"
-              srcset="/assets/piosenka-800.jpg?v=610214ca4b 800w, /assets/piosenka.jpg?v=5497daac27 1671w"
-              sizes="(max-width: 48rem) 100vw, 23rem"
-              width="1671"
-              height="940"
-              loading="lazy"
-              decoding="async"
-              alt="Kobieta z gitarą siedzi na skale nad doliną o zachodzie słońca i śpiewa do mikrofonu; z jej strony biegną w rozgwieżdżone niebo złote wstęgi światła, układające się w sceny z ludzkiego życia, a z drugiej strony wychodzi im naprzeciw niebieski, świetlisty zarys twarzy sztucznej inteligencji."
-            />
+            <a class="ilustracja-link" href="/plebiscyt-piosenki" tabindex="-1" aria-hidden="true">
+              <img
+                class="ilustracja"
+                src="/assets/piosenka-800.jpg?v=610214ca4b"
+                srcset="/assets/piosenka-800.jpg?v=610214ca4b 800w, /assets/piosenka.jpg?v=5497daac27 1671w"
+                sizes="(max-width: 48rem) 100vw, 23rem"
+                width="1671"
+                height="940"
+                loading="lazy"
+                decoding="async"
+                alt="Kobieta z gitarą siedzi na skale nad doliną o zachodzie słońca i śpiewa do mikrofonu; z jej strony biegną w rozgwieżdżone niebo złote wstęgi światła, układające się w sceny z ludzkiego życia, a z drugiej strony wychodzi im naprzeciw niebieski, świetlisty zarys twarzy sztucznej inteligencji."
+              />
+            </a>
             <h3>Plebiscyt na piosenkę o sztucznej inteligencji</h3>
             <p>
               Otwarty plebiscyt na piosenkę o sztucznej inteligencji. Melodia,
@@ -1286,17 +1300,19 @@
             <p><a href="/plebiscyt-piosenki">Czytaj więcej</a></p>
           </article>
           <article>
-            <img
-              class="ilustracja"
-              src="/assets/plakat-800.jpg?v=56de772125"
-              srcset="/assets/plakat-800.jpg?v=56de772125 800w, /assets/plakat.jpg?v=f9c39a98ea 1671w"
-              sizes="(max-width: 48rem) 100vw, 23rem"
-              width="1671"
-              height="940"
-              loading="lazy"
-              decoding="async"
-              alt="Malarka siedzi nocą na skale nad doliną i maluje na sztalugach plakat: złotą ludzką dłoń wyciągniętą do niebieskiej dłoni mechanicznej. Od miejsca, w którego dotyka pędzlem, biegnie w rozgwieżdżone niebo złota linia, która układa się w konstelację."
-            />
+            <a class="ilustracja-link" href="/plebiscyt-plakatu" tabindex="-1" aria-hidden="true">
+              <img
+                class="ilustracja"
+                src="/assets/plakat-800.jpg?v=56de772125"
+                srcset="/assets/plakat-800.jpg?v=56de772125 800w, /assets/plakat.jpg?v=f9c39a98ea 1671w"
+                sizes="(max-width: 48rem) 100vw, 23rem"
+                width="1671"
+                height="940"
+                loading="lazy"
+                decoding="async"
+                alt="Malarka siedzi nocą na skale nad doliną i maluje na sztalugach plakat: złotą ludzką dłoń wyciągniętą do niebieskiej dłoni mechanicznej. Od miejsca, w którego dotyka pędzlem, biegnie w rozgwieżdżone niebo złota linia, która układa się w konstelację."
+              />
+            </a>
             <h3>Plebiscyt na plakat o sztucznej inteligencji</h3>
             <p>
               Plakat o sztucznej inteligencji, wykonany ręcznie: farbą, tuszem,
