@@ -159,7 +159,14 @@ Honoraria akademii i jury, pula nagród, gala i jej oprawa są finansowane poza 
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
-Umowa do podpisania przed 1 stycznia 2027, czyli przed otwarciem naboru, ponieważ od tego dnia obowiązuje ogłoszony regulamin. Nabór trwa cały rok 2027. Prace redakcyjne nad antologią: styczeń i luty 2028, z zamknięciem treści 29 lutego 2028. Druk i wprowadzenie do dystrybucji: marzec i pierwsza połowa kwietnia 2028. Gala i premiera wydania elektronicznego: druga połowa kwietnia 2028. Archiwum publikowane porcjami od kwietnia 2028 do kwietnia 2029.
+<dl class="harmonogram">
+<div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy mecenatu<small>przed otwarciem naboru, bo od 1 stycznia obowiązuje ogłoszony regulamin i pula nagród nie może już zostać obniżona</small></dd></div>
+<div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 15 stycznia 2028, a zakwalifikowane rosną w publicznej czytelni przez cały rok</small></dd></div>
+<div><dt>Styczeń - luty 2028</dt><dd>Prace redakcyjne nad antologią<small>redakcja, komentarze jury, korekta i skład; treść zamykamy 29 lutego 2028</small></dd></div>
+<div><dt>Marzec - pierwsza połowa kwietnia 2028</dt><dd>Druk i wprowadzenie do dystrybucji<small>nakład trafia do dystrybutora przed galą, ale okładka pozostaje nieujawniona, bo niesie zwycięski plakat</small></dd></div>
+<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala i premiera antologii<small>rozstrzygnięcie czterech plebiscytów, premiera e-booka i początek sprzedaży wydania książkowego</small></dd></div>
+<div><dt>Kwiecień 2028 - kwiecień 2029</dt><dd>Publikacja Archiwum<small>zgłoszenia udostępniane porcjami przez rok po gali</small></dd></div>
+</dl>
 
 Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telewizyjny; rozmowy w tej sprawie są planowane na 2027 rok.
 
