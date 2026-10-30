@@ -325,6 +325,26 @@ Prosimy o rozstrzygnięcie i o dwa wzory - dla jurora i dla członka akademii - 
 
 **Blokuje:** kompletowanie składu jury, które trwa już teraz, oraz nabór do akademii.
 
+## Cm. Mecenat antologii - pytania z przeglądu oferty (dodane 30.10.2026)
+
+Pytania powstały przy sprawdzaniu [oferty mecenatu](/oferta-dla-sponsora-antologii) pod kątem zgodności z regulaminem. Dotyczą umowy sponsorskiej na kwotę rzędu 292 tys. zł netto i konstrukcji, która ma tę umowę unieść.
+
+1. **Licencja bez prawa sublicencji a wydanie książkowe.** § 11 regulaminu daje licencję wyłącznie Organizatorowi i wyłącza wykorzystanie komercyjne przez osoby trzecie. Jednocześnie planowane jest wydanie książkowe, które drukuje i sprzedaje partner wydawniczy, czyli osoba trzecia. Czy przy obecnym brzmieniu wydawca może legalnie wydrukować i sprzedać antologię? Jeżeli nie - jak zapisać prawo udzielania dalszych licencji w zakresie niezbędnym do wydania i dystrybucji, nie rozszerzając uprawnień Organizatora ponad to, co konieczne?
+
+2. **Sprzeczność wewnątrz § 11.** Ustęp 3 mówi, że po pięciu latach licencja przekształca się w licencję na czas nieoznaczony w tym samym zakresie. Ustęp 3b mówi, że z upływem okresu licencji Organizator zaprzestaje korzystania albo uzyskuje odrębne uprawnienie na dalszy okres. Oba zapisy nie mogą obowiązywać naraz. Który zostaje i jak brzmi przepis przejściowy?
+
+3. **Strona umowy przed rejestracją fundacji.** Umowa mecenatu ma być podpisana przed otwarciem naboru, a fundacja wpisana do KRS wcześniej. Koszt jej powołania jest pozycją w tej samej umowie. Czy bezpieczniejsze jest: umowa zawarta przez fundację po wpisie, czy umowa z działalnością gospodarczą fundatora z przeniesieniem praw i obowiązków na fundację? Jakie zabezpieczenie środków sponsora jest w pierwszym wariancie standardem - rachunek wyodrębniony, zakaz finansowania z nich innych zakresów edycji, tryb na wypadek niezarejestrowania fundacji?
+
+4. **Trzy formy płatnika.** Oferta adresowana jest do firmy, fundacji korporacyjnej i instytucji publicznej, a przewiduje jeden instrument: umowę sponsorską i fakturę z VAT. Jak powinny brzmieć dwa pozostałe warianty - darowizna albo dotacja celowa od fundacji korporacyjnej, ze świadczeniami ograniczonymi do informacyjnych, oraz zamówienie publiczne przy instytucji? Przy jakiej konstrukcji świadczenia wzajemne nie podważają charakteru darowizny?
+
+5. **Odpowiedzialność za treści uczestników przy oznaczeniu sponsora.** Logo Mecenasa stoi na stronie, na której publikowane są cudze rozmowy. Jakich zapisów wymaga ochrona sponsora: termin usunięcia treści na jego zgłoszenie, prawo do zdjęcia oznaczeń z konkretnego kontekstu bez utraty pozostałych świadczeń, zwolnienie z odpowiedzialności wobec osób trzecich, granice odpowiedzialności obu stron?
+
+6. **Dane osobowe w relacji ze sponsorem.** Czy wystarczy oświadczenie, że administratorem jest wyłącznie fundacja, a Mecenas nie otrzymuje danych i nie jest podmiotem przetwarzającym, czy potrzebne są dalsze zapisy? Dotyczy to zwłaszcza uczniowskiej akademii i podcastu z udziałem nastolatków.
+
+7. **Aparat umowny, którego w ofercie nie ma.** Kary umowne za niedostarczenie e-booka, Archiwum i oznaczeń; odstąpienie i wypowiedzenie wraz ze skutkami; siła wyższa; poufność; zakaz cesji; zmiana kontroli; oświadczenia antykorupcyjne i sankcyjne; zatwierdzanie użycia znaków towarowych sponsora. Czy warto przygotować wzór umowy sponsorskiej jako załącznik do oferty - i ile to kosztuje?
+
+8. **Zwolnienie podatkowe przy nagrodzie za uzasadnienie głosu.** Nagroda wynosi 2 000 zł, a art. 21 ust. 1 pkt 68 ustawy o PIT zwalnia nagrody z dziedziny kultury i sztuki o wartości nieprzekraczającej 2 000 zł. Czy kwota równa progowi mieści się w zwolnieniu?
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca

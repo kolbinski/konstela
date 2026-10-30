@@ -611,6 +611,20 @@ Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesi
 **Ścieżka dalsza.** Uczniowska akademia jest naturalnym zapleczem akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w plebiscycie jako uczestnik, albo czytanie jako członek akademii. Obu ról naraz pełnić nie można.
 
 
+## Przegląd oferty mecenatu - 30.10.2026
+
+Dwa niezależne przeglądy oferty: jeden na zgodność z regulaminem i arkuszem, drugi oczami prawnika i dyrektora finansowego sponsora. Poprawki opisane w commitach; tutaj zostaje to, co wymaga dalszej pracy.
+
+**Koszt narzędzi AI zostaje w całości w Budżecie Antologii - świadomie, na razie.** Narzędzia obsługują 1469 godzin pracy we wszystkich zakresach, a obciążają jeden budżet. Rozdzielenie proporcjonalne (452 z 1469 godzin, czyli 9 231 zł na antologię) wymaga wstawienia wiersza w sześciu zakładkach, a dwie próby zrobienia tego skryptem dały błędne sumy - formuły podsumowań nie przesuwają się same. Do zrobienia przy najbliższej większej przebudowie arkusza, nie doraźnie. W ofercie jest to opisane wprost jako koszt wspólny pierwszej edycji, pokrywany przez mecenasa, który uruchamia przedsięwzięcie.
+
+**Harmonogram od 15 stycznia do 29 lutego 2028 jest ciasny.** Rachunek: 150 zgłoszeń po dwa odczyty po 30 minut to 150 godzin pracy akademii, przy 15 czytelnikach i limicie 20 zgłoszeń na osobę. Ocena biegnie jednak przez cały rok naboru, a nie dopiero po jego zamknięciu, więc w styczniu zostaje ostatnia partia zgłoszeń, nie całość. Wąskim gardłem jest runda jury i dziesięć komentarzy pisanych przez ludzi spoza organizacji. Regulamin ma na to zawór: przesunięcie przesuwa cały łańcuch razem z galą, z buforem dwóch tygodni. **Do rozstrzygnięcia przed otwarciem naboru:** czy zamknięcie treści zostaje 29 lutego, czy przesuwamy je na połowę marca i galę na maj. Decyzja wymaga rozpisania harmonogramu tydzień po tygodniu z obsadą.
+
+**Okładka a tajność werdyktu plakatu.** Druk w marcu oznacza, że zwycięzcę plebiscytu plakatu znają wcześniej jury tego plebiscytu, Organizator, drukarnia i wydawca. Druk nie jest publikacją, więc regulaminu to nie narusza, ale krąg wtajemniczonych trzeba objąć poufnością na piśmie i tak jest to teraz opisane w ofercie. Alternatywa na później: neutralna okładka i zwycięski plakat na obwolucie zakładanej po gali.
+
+**Osiem pytań do prawnika** dopisanych do `prawnik.md` w sekcji Cm: brak prawa sublicencji wobec wydania książkowego, sprzeczność w § 11 między licencją bezterminową a zaprzestaniem po pięciu latach, strona umowy przed rejestracją fundacji, trzy formy płatnika, odpowiedzialność za treści uczestników przy oznaczeniu sponsora, dane osobowe w relacji ze sponsorem, aparat umowny i zwolnienie podatkowe przy nagrodzie równej progowi 2 000 zł.
+
+**Niezrobione, do rozważenia:** liczby o zasięgu w ofercie (prognoza pobrań, nakład, liczba instytucji) - dziś nie ma żadnej, więc sponsor nie ma czym podzielić kwoty; list poparcia od instytucji edukacyjnej, który byłby wart więcej niż cała sekcja o Loebner Prize; wzór umowy sponsorskiej jako załącznik.
+
 ## Ministerstwo Kultury i Dziedzictwa Narodowego - pakiet wysłany 30.10.2026
 
 **Wysłane 30 października 2026 roku, przez e-Doręczenia.** Temat: „Nagroda Konstela 2027-2028 - prośba o pisemne stanowisko i o wskazanie właściwego programu finansowania części artystycznej". Treść wiadomości przewodniej w `mk-list.md`, pismo w `mk-pismo.md`.

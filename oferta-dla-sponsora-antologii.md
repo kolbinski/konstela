@@ -8,7 +8,7 @@
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** finansuje pulę nagród i ocenę zgłoszeń, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie, Archiwum i podcast. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** finansuje pulę nagród i pracę jury, **sponsor akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie, Archiwum i podcast. Partnerów jest w sumie siedmiu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -29,7 +29,7 @@ Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane s�
 
 Ocena przebiega w dwóch rundach.
 
-1. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Każde zgłoszenie czytają co najmniej dwie osoby.
+1. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Przy spodziewanej skali naboru każde zgłoszenie czytają co najmniej dwie osoby; regulamin wiąże liczbę odczytów z liczbą zgłoszeń i przy kilkuset zgłoszeniach przewiduje inny tryb pierwszego przejścia.
 2. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera **dziesiątkę antologii** - dziesięć rozmów, które zostaną w niej wydane.
 
 Do każdej z tych dziesięciu rozmów juror pisze **komentarz jury**: krótki tekst wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Komentarze są tym, co odróżnia antologię od zwykłego zbioru zapisów: bez nich byłaby zbiorem zapisów, z nimi jest materiałem, z którego da się uczyć. Mecenas nie ma wpływu ani na skład jury, ani na wyniki, ani na treść komentarzy.
@@ -82,7 +82,7 @@ Obok tej puli są również:
 - **Nagrody publiczności: 12 000 zł brutto.** Dzielą się na 10 000 zł dla rozmowy z największą liczbą głosów i 2 000 zł dla głosującego, który najlepiej uzasadnił swój głos - uzasadnienia ocenia się za trafność obserwacji, konkretność i samodzielność sądu, a nie losuje. Stoją poza pulą jury, bo rozstrzyga o nich kto inny i według innej miary.
 - **Nagroda Uczniowska: 10 000 zł brutto.** Wskazywana przez grupy uczniowskie zgłoszone przez szkoły: jedna szkoła, jedno wskazanie. Może przypaść rozmowie spoza dziesiątki i kumuluje się z werdyktem jury. Wzorem jest Prix Goncourt des lycéens, z tą różnicą, że u nas werdykt uczniów niesie realne pieniądze, a nie samo wyróżnienie.
 
-Wysokość nagrody głównej nie wzięła się z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana. Te same 100 000 zł z 1997 roku odpowiada dziś około **315 000 zł** według indeksu cen konsumpcyjnych, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **300 000 zł przywraca skalę, którą polskie nagrody miały trzydzieści lat temu** - i to jest jedyny powód, dla którego kwota jest tak wysoka.
+Wysokość nagrody głównej nie wzięła się z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana; według indeksu cen konsumpcyjnych odpowiada to dziś około **315 000 zł**. **300 000 zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu** - i to jest jedyny powód, dla którego kwota jest tak wysoka.
 
 Skala ma też znaczenie praktyczne: nagroda, o której warto napisać, przyciąga zgłoszenia, a bez zgłoszeń nie ma ani antologii, ani Archiwum. Materiał, który Mecenas finansuje, powstaje z tego, co ludzie przyślą.
 
@@ -93,15 +93,19 @@ Skala ma też znaczenie praktyczne: nagroda, o której warto napisać, przyciąg
 **Antologia** ukazuje się w dwóch postaciach:
 
 1. **Bezpłatny e-book**, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat; to jest zobowiązanie Organizatora, niezależne od tego, czy znajdzie się wydawca.
-2. **Wydanie książkowe**, które ma trafić do księgarń na dzień gali i nosić na okładce zwycięski plakat z plebiscytu na plakat o sztucznej inteligencji; przychód z jego sprzedaży w całości zasila pulę nagród kolejnej edycji.
+2. **Wydanie książkowe**, które ma trafić do księgarń na dzień gali i nosić na okładce zwycięski plakat z plebiscytu na plakat o sztucznej inteligencji; przychód Organizatora z jego sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji.
 
-Obie zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury.
+Obie zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury. Regulamin wiąże tę liczbę do wyczerpania rozmów nadających się do publikacji: przy bardzo małej liczbie zgłoszeń antologia może objąć ich mniej, a Organizator podaje wtedy liczbę faktyczną.
 
 Granica przy wydaniu książkowym przebiega tak: **mecenas antologii finansuje powstanie treści** - redakcję, korektę, skład, przygotowanie do druku i bezpłatny e-book, czyli wszystko to, z czego książka jest zrobiona. **Nakład handlowy i wprowadzenie go do księgarń bierze na siebie partner wydawniczy**, osobna rola osobnego podmiotu, z którym rozmowy są w toku. W kosztorysie poniżej jest tylko krótki nakład na galę i tylko warunkowo: drukujemy go, jeżeli wydanie księgarskie nie będzie gotowe na dzień premiery. Mecenas antologii jest wymieniony w każdym wydaniu niezależnie od tego, kto je wydrukował.
 
-**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną - sprawdzenie liczby słów, języka i kompletności, za które odpowiada Organizator i które nie jest oceną treści. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
+**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną - sprawdzenie liczby słów, języka i kompletności, za które odpowiada Organizator i które nie jest oceną treści.
 
-**Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty przekazujemy nieodpłatnie mediom i instytucjom edukacyjnym.
+Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgłoszenia rosną w publicznej **czytelni**, uporządkowanej wyłącznie według daty, bez rankingu i bez liczników popularności. Czytelnia **nie zawiera treści rozmów**: widać w niej tytuł, ilustrację, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia i link, który uczestnik sam opublikował u dostawcy modelu. Organizator nie zwielokrotnia cudzych rozmów na swojej stronie, zanim przejdą pełną ocenę i moderację.
+
+**Archiwum** powstaje z czytelni utrwalonej po zakończeniu weryfikacji wszystkich zgłoszeń i jest udostępniane **od dnia ogłoszenia wyników**. Dopiero ono prezentuje kopie archiwalne rozmów wraz z jawną punktacją wszystkich etapów oceny, z przeglądaniem według daty, tytułu, podpisu oraz ocen. Materiał dydaktyczny, o którym mowa wyżej, powstaje więc w kwietniu 2028, a nie w trakcie naboru.
+
+**Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty mają być przekazywane nieodpłatnie mediom i instytucjom edukacyjnym; zabezpieczą to umowy z prowadzącym i z gośćmi. Nie przedstawiamy tego jako stanu dokonanego, bo prowadzący nie jest jeszcze wybrany.
 
 Przy podcaście mówimy od razu, czego kwota z tej oferty nie obejmuje. Mieści się w niej **koordynacja podcastu** - pozyskiwanie gości, terminy i publikacja, 72 godziny pracy - natomiast **produkcja odcinków nie jest jeszcze wyceniona**. Zależy od decyzji o formacie: sam dźwięk czy także wersja wideo, studio czy nagrania zdalne, wysokość honorarium prowadzącego. W kosztorysie poniżej pozycja ta figuruje jako „do wyceny" i zostanie policzona po ustaleniu formatu, a kwota wymaga wtedy osobnego uzgodnienia. Wolimy powiedzieć to wprost, niż wpisać liczbę wziętą z sufitu.
 
@@ -148,26 +152,33 @@ To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy 
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
 | Produkcja podcastu wraz z honorarium prowadzącego (24 odcinki)    |       do wyceny |
 | **Koszty bezpośrednie razem**                                     | **125 500 zł** |
-| Redakcja i skład treści antologii, obsługa zgłoszeń oznaczonych w moderacji (95 godz.) |      20 900 zł |
+| Redakcja i skład treści antologii, rozstrzyganie zgłoszeń oznaczonych przez oceniających (95 godz.) |      20 900 zł |
 | Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
 | Oprogramowanie: archiwizacja zgłoszeń, weryfikacja formalna, panel oceny, Archiwum na stronie (285 godz.) |      62 700 zł |
-| Prowadzenie projektu, pozyskiwanie partnerów i rezerwa (30%)      |      67 482 zł |
+| Wynagrodzenie wykonawcy części wydawniczej (20%)                  |      44 988 zł |
+| Rezerwa na przekroczenia (10%)                                    |      22 494 zł |
 | **Razem netto**                                                   | **292 422 zł** |
 | VAT 23%                                                           |   67 257,06 zł |
 | **Do zapłaty brutto**                                             | **359 679,06 zł** |
 
+**Siedem pozycji w tej tabeli to koszty wspólne całego przedsięwzięcia**, a nie samej antologii: powołanie fundacji, konsultacja prawna, obsługa księgowa, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy i przebudowa strony - razem 74 500 zł. Służą czterem plebiscytom, akademii, gali i wystawie, a w pierwszej edycji pokrywa je w całości Mecenas Antologii, bo uruchamiają się najwcześniej i bez nich nie rusza nic. To jest realna treść tytułu **Mecenasa Założycielskiego**: w kolejnych edycjach koszty te rozkładają się na wszystkich partnerów, a powstałe za te pieniądze narzędzia, znak i strona służą każdemu następnemu rocznikowi. Mówimy o tym wprost, zamiast ukrywać te pozycje wśród kosztów wydania.
+
 Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla czytelników akademii i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
 
-Ostatnia pozycja tabeli obejmuje dwie różne rzeczy:
+Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 
-- **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością od podpisania umowy do rozliczenia edycji.
-- **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji.
+- **Wynagrodzenie wykonawcy** to zapłata za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością od podpisania umowy do rozliczenia edycji. Nie jest to rezerwa i nie wraca do nikogo.
+- **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń.
 
-Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
+**Co się dzieje z niewykorzystaną rezerwą i z pozycjami, których nie poniesiono** - na przykład z krótkim nakładem na galę, jeżeli wydawca dostarczy książkę na premierę. Kwota wraca do Mecenasa albo, na jego pisemny wybór, przechodzi na antologię kolejnej edycji. **Nigdy na pulę nagród**, bo z mecenatu antologii nie finansujemy laureatów.
 
-Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury i publikację Archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
+Przychód Organizatora ze sprzedaży wydania drukowanego, po pokryciu kosztów wydania, idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
-**Co, jeżeli edycja nie ruszy.** Pula nagród zależy od innego partnera, a regulamin wymienia trzy warunki, które muszą być spełnione łącznie, żeby nabór w ogóle się otworzył: cała ogłaszana pula nagród ma pokrycie w środkach, które wpłynęły już na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a jego skład został ogłoszony; regulamin przeszedł konsultację prawną. Osobno regulamin przewiduje próg po stronie uczestników: jeżeli w terminie wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane. Próg ogłaszany jest w dniu otwarcia naboru i później nie może zostać zmieniony. Umowa zawiera więc klauzulę rozliczenia: jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję. Prace, które mogą ruszyć od razu i niezależnie od drugiego partnera, to powołanie fundacji, konsultacja prawna, przebudowa strony i budowa narzędzi; pozostałe pozycje uruchamiają się dopiero po otwarciu naboru.
+Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury oraz prowadzenie i moderację Archiwum przez rok po gali. Te zakresy się nie pokrywają i nie są liczone dwa razy.
+
+**Co, jeżeli edycja nie ruszy.** Pula nagród zależy od innego partnera, a regulamin wymienia trzy warunki, które muszą być spełnione łącznie, żeby nabór w ogóle się otworzył: cała ogłaszana pula nagród ma pokrycie w środkach, które wpłynęły już na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a jego skład został ogłoszony; regulamin przeszedł konsultację prawną. Osobno regulamin przewiduje próg po stronie uczestników: jeżeli w terminie wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane. Próg ogłaszany jest w dniu otwarcia naboru i później nie może zostać zmieniony. Umowa zawiera więc klauzulę rozliczenia: jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję. Prace, które mogą ruszyć od razu i niezależnie od pozostałych partnerów, to powołanie fundacji, konsultacja prawna, przebudowa strony i budowa narzędzi; pozostałe pozycje uruchamiają się dopiero po otwarciu naboru.
+
+**Co, jeżeli zgłoszeń będzie mało.** Nabór może się otworzyć, a mimo to przynieść wynik poniżej oczekiwań - i wtedy klauzula powyżej nie działa, bo edycja ruszyła. Umowa przewiduje na to osobny zapis: **jeżeli liczba zgłoszeń spełniających wymogi formalne nie przekroczy czterdziestu**, Mecenas wybiera jedno z trzech rozwiązań - zwrot środków niewykorzystanych do tego dnia, przeniesienie całości na kolejną edycję bez dopłaty albo wykonanie w węższym zakresie z odpowiednim obniżeniem kwoty. Budżet jest policzony na sto pięćdziesiąt zgłoszeń i to jest liczba, na którą pracujemy; czterdzieści to granica, poniżej której przedsięwzięcie nie daje tego, po co powstało.
 
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
@@ -179,29 +190,36 @@ Poza tytułem Mecenas otrzymuje:
 - **Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia** - o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię - oraz ogłoszenie premiery wydania elektronicznego.
 - **Egzemplarze autorskie wydania drukowanego**, z podpisami jury, w liczbie do uzgodnienia.
 - **Wymienienie w materiałach prasowych** i w sprawozdaniu z edycji.
+- **Prawo używania tytułu we własnej komunikacji** - w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych - wraz z pakietem gotowych materiałów: znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
+- **Udział pracowników Mecenasa**: miejsca w akademii oceniającej dla chętnych z firmy, na tych samych zasadach co dla pozostałych czytelników, oraz spotkanie zespołu z laureatami albo z prowadzącym podcast.
+- **Wcześniejszy dostęp do antologii** przed publicznym udostępnieniem i udział we wspólnej informacji prasowej o premierze.
 
 Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają książkę na scenie, a podpisy jury zbierane są tego samego wieczoru na egzemplarzach. Gdyby wydanie księgarskie nie zdążyło na premierę, laureaci otrzymują podpisane na gali ekslibrisy - osobne karty wklejane do egzemplarza, który dociera do nich pocztą.
 
-Nazwa Mecenasa pozostaje w antologii trwale: w każdym wydanym egzemplarzu i w każdym pobranym pliku, bez względu na to, jak długo Organizator będzie ją udostępniał na swojej stronie. Uczestnicy udzielają Organizatorowi licencji na pięć lat, więc udostępnianie przez stronę Nagrody planowane jest na ten okres, z zamiarem przedłużenia; egzemplarzy już wydanych i plików już pobranych nie dotyczy to w żadnym stopniu. To jest różnica między sponsoringiem wydarzenia a mecenatem publikacji: wydarzenie się kończy, a wydana książka zostaje.
+Nazwa Mecenasa pozostaje w antologii trwale: w każdym wydanym egzemplarzu i w każdym pobranym pliku, bez względu na to, jak długo Organizator będzie ją udostępniał na swojej stronie. Uczestnicy udzielają Organizatorowi licencji na pięć lat; udostępnianie przez stronę Nagrody gwarantujemy na ten okres, a dalsze zależy od brzmienia licencji po konsultacji prawnej. Egzemplarzy już wydanych i plików już pobranych nie dotyczy to w żadnym stopniu. To jest różnica między sponsoringiem wydarzenia a mecenatem publikacji: wydarzenie się kończy, a wydana książka zostaje.
 
-Propozycja dotyczy pierwszej edycji. Nagroda jest przedsięwzięciem corocznym i zależy nam na współpracy wieloletniej, a rozmowę o kolejnej edycji chcielibyśmy rozpocząć od Mecenasa pierwszej - po jej rozstrzygnięciu, gdy obie strony widzą efekt, a nie zapowiedź.
+**Wyłączność w kategorii.** Przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej - ani fundatora puli nagród, ani sponsora gali, ani mecenasa pozostałych plebiscytów. Żaden inny partner nie otrzyma też tytułu zawierającego słowo „Mecenas".
+
+**Pierwszeństwo przy drugiej edycji.** Propozycja dotyczy pierwszej edycji, ale zależy nam na współpracy wieloletniej. Mecenas ma sześćdziesiąt dni od rozliczenia pierwszej edycji na decyzję o drugiej, zanim rozmawiamy o tej roli z kimkolwiek innym - po rozstrzygnięciu, gdy obie strony widzą efekt, a nie zapowiedź.
 
 ## <!--ikona:tarcza--><span>Czego propozycja nie obejmuje</span>
 
 Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść komentarzy jury; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
-Honoraria akademii i jury oraz pula nagród są finansowane poza tą propozycją, przez fundatora nagrody i sponsora akademii; gala wraz z oprawą ma własnego sponsora.
+Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundatora nagrody; pierwsza runda oceny przez sponsora akademii, a gala wraz z oprawą przez sponsora gali.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
 <dl class="harmonogram">
-<div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy mecenatu<small>przed otwarciem naboru, bo od 1 stycznia obowiązuje ogłoszony regulamin i pula nagród nie może już zostać obniżona</small></dd></div>
+<div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy mecenatu<small>narzędzia, strona i fundacja muszą powstać przed otwarciem naboru, a od dnia jego otwarcia obowiązuje ogłoszony regulamin, którego już się nie zmienia</small></dd></div>
 <div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 15 stycznia 2028, a zakwalifikowane rosną w publicznej czytelni przez cały rok</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Prace redakcyjne nad antologią<small>redakcja, komentarze jury, korekta i skład; treść zamykamy 29 lutego 2028</small></dd></div>
-<div><dt>Marzec - pierwsza połowa kwietnia 2028</dt><dd>Druk i wprowadzenie do dystrybucji<small>nakład trafia do dystrybutora przed galą, ale okładka pozostaje nieujawniona, bo niesie zwycięski plakat</small></dd></div>
+<div><dt>Marzec - pierwsza połowa kwietnia 2028</dt><dd>Druk i wprowadzenie do dystrybucji<small>nakład trafia do dystrybutora przed galą; okładka niesie zwycięski plakat, więc werdykt plebiscytu plakatu znają wcześniej wyłącznie jury tego plebiscytu, Organizator, drukarnia i wydawca - wszyscy objęci poufnością do chwili ogłoszenia na gali</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala i premiera antologii<small>rozstrzygnięcie czterech plebiscytów, premiera e-booka i początek sprzedaży wydania książkowego</small></dd></div>
-<div><dt>Kwiecień 2028 - kwiecień 2029</dt><dd>Publikacja Archiwum<small>zgłoszenia udostępniane porcjami przez rok po gali</small></dd></div>
+<div><dt>Od dnia ogłoszenia wyników</dt><dd>Udostępnienie Archiwum<small>kopie archiwalne wszystkich zakwalifikowanych rozmów wraz z punktacją; moderacja i uzupełnienia trwają jeszcze przez rok po gali</small></dd></div>
 </dl>
+
+Harmonogram ma w regulaminie zawór bezpieczeństwa: jeżeli ocena się przeciągnie, przesunięciu podlega cały łańcuch naraz - zamknięcie treści, produkcja, premiera i gala - tak aby między zakończeniem weryfikacji a zamknięciem treści zostały co najmniej dwa tygodnie. Terminy nie domykają się więc kosztem redakcji.
 
 Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telewizyjny; rozmowy w tej sprawie są planowane na 2027 rok.
 
@@ -227,6 +245,10 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism. Jeżeli zakres w tej postaci jest dla Państwa za szeroki, powiedzcie, którą jego część widzicie u siebie; antologię, Archiwum i podcast da się rozdzielić między partnerów.
 
+Dokumenty, o które zapyta dział prawny, są jawne i dostępne od ręki: [statut fundacji](/statut), [polityka prywatności](/dokument/polityka-prywatnosci), [regulaminy czterech plebiscytów](/regulaminy) oraz [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej).
+
 Krzysztof Olbiński  
 +48 503 520 004  
-olbinski@gmail.com
+wspolpraca@konstela.org
+
+<p class="edition">Wersja z 30 października 2026</p>
