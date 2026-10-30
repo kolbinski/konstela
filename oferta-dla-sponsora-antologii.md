@@ -100,7 +100,7 @@ Skala ma też znaczenie praktyczne: nagroda, o której warto napisać, przyciąg
 2. **Wydanie książkowe**, które ma trafić do księgarń na dzień gali i nosić na okładce zwycięski plakat z plebiscytu na plakat o sztucznej inteligencji; przychód Organizatora z jego sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji.
 3. **Audiobook**, czytany przez trzech lektorów: osobny głos dla uczestnika, osobny dla sztucznej inteligencji i osobny dla komentarzy jury. Rozmowa jest dialogiem, więc w nagraniu brzmi jak dialog, a nie jak odczytany zapis. Audiobook udostępniamy bezpłatnie na tych samych zasadach co e-book.
 
-Wszystkie trzy zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury. Regulamin wiąże tę liczbę do wyczerpania rozmów nadających się do publikacji: przy bardzo małej liczbie zgłoszeń antologia może objąć ich mniej, a Organizator podaje wtedy liczbę faktyczną.
+Wszystkie trzy zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury. E-book wydajemy w formatach EPUB i PDF, audiobook w MP3, oba do pobrania ze strony konstela.org bez rejestracji i bez opłat. Regulamin wiąże tę liczbę do wyczerpania rozmów nadających się do publikacji: przy bardzo małej liczbie zgłoszeń antologia może objąć ich mniej, a Organizator podaje wtedy liczbę faktyczną.
 
 **Audiobook nie jest dodatkiem, tylko drugim sposobem dotarcia.** Bezpłatne nagranie otwiera antologię dla osób niewidomych i słabowidzących, dla osób z dysleksją i dla wszystkich, którzy czytają uszami - w drodze do pracy, przy prowadzeniu samochodu. Dla szkoły jest materiałem, który da się puścić na lekcji. Prawo do wydania dźwiękowego jest zapisane w regulaminie wśród pól licencji udzielanej przez uczestników, osobno od wydania elektronicznego, bo bez tego nagranie byłoby niedopuszczalne.
 
@@ -110,7 +110,7 @@ Granica przy wydaniu książkowym przebiega tak: **mecenas antologii finansuje p
 
 Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgłoszenia rosną w publicznej **czytelni**, uporządkowanej wyłącznie według daty, bez rankingu i bez liczników popularności. Czytelnia **nie zawiera treści rozmów**: widać w niej tytuł, ilustrację, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia i link, który uczestnik sam opublikował u dostawcy modelu. Organizator nie zwielokrotnia cudzych rozmów na swojej stronie, zanim przejdą pełną ocenę i moderację.
 
-**Archiwum** powstaje z czytelni utrwalonej po zakończeniu weryfikacji wszystkich zgłoszeń i jest udostępniane **od dnia ogłoszenia wyników**. Dopiero ono prezentuje kopie archiwalne rozmów wraz z jawną punktacją wszystkich etapów oceny, z przeglądaniem według daty, tytułu, podpisu oraz ocen. Materiał dydaktyczny, o którym mowa wyżej, powstaje więc w kwietniu 2028, a nie w trakcie naboru.
+**Archiwum** powstaje z czytelni utrwalonej po zakończeniu weryfikacji wszystkich zgłoszeń i jest udostępniane **od dnia ogłoszenia wyników**. Dopiero ono prezentuje kopie archiwalne rozmów wraz z jawną punktacją wszystkich etapów oceny, z przeglądaniem według daty, tytułu, podpisu oraz ocen. Obejmuje wszystkie rozmowy, które przeszły weryfikację formalną i spełniają warunki publikacji z regulaminu - nie tylko te ocenione wysoko. Liczby nie gwarantujemy, bo zależy ona od liczby zgłoszeń. Materiał dydaktyczny, o którym mowa wyżej, powstaje więc w kwietniu 2028, a nie w trakcie naboru.
 
 **Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty mają być przekazywane nieodpłatnie mediom i instytucjom edukacyjnym; zabezpieczą to umowy z prowadzącym i z gośćmi. Nie przedstawiamy tego jako stanu dokonanego, bo prowadzący nie jest jeszcze wybrany.
 
@@ -182,6 +182,8 @@ Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 
 **Co się dzieje z niewykorzystaną rezerwą i z pozycjami, których nie poniesiono** - na przykład z krótkim nakładem na galę, jeżeli wydawca dostarczy książkę na premierę. Kwota wraca do Mecenasa albo, na jego pisemny wybór, przechodzi na antologię kolejnej edycji. **Nigdy na pulę nagród**, bo z mecenatu antologii nie finansujemy laureatów.
 
+**Rozliczenie:** w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy.
+
 Przychód Organizatora ze sprzedaży wydania drukowanego, po pokryciu kosztów wydania, idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
 Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury oraz prowadzenie i moderację Archiwum przez rok po gali. Te zakresy się nie pokrywają i nie są liczone dwa razy.
@@ -216,6 +218,8 @@ Nazwa Mecenasa pozostaje w antologii trwale: w każdym wydanym egzemplarzu i w k
 
 Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść komentarzy jury; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
+Mecenas nie nabywa praw do oprogramowania. Powstaje ono na rzecz fundacji-organizatora, która te prawa nabywa i odpowiada za jego utrzymanie w kolejnych edycjach; Mecenas nie ponosi kosztów utrzymania po pierwszej edycji.
+
 Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundatora nagrody; pierwsza runda oceny przez sponsora akademii, a gala wraz z oprawą przez sponsora gali.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
@@ -232,18 +236,6 @@ Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundat
 Harmonogram ma w regulaminie zawór bezpieczeństwa: jeżeli ocena się przeciągnie, przesunięciu podlega cały łańcuch naraz - zamknięcie treści, produkcja, premiera i gala - tak aby między zakończeniem weryfikacji a zamknięciem treści zostały co najmniej dwa tygodnie. Terminy nie domykają się więc kosztem redakcji.
 
 Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telewizyjny; rozmowy w tej sprawie są planowane na 2027 rok.
-
-## <!--ikona:waga--><span>Co dokładnie dostarczamy</span>
-
-Antologia w formatach EPUB i PDF oraz audiobook w formacie MP3, do pobrania ze strony konstela.org bez rejestracji i bez opłat. Do tego wydanie drukowane: z nakładu partnera wydawniczego, a gdyby ten nie zdążył na premierę - krótki nakład stu egzemplarzy wydrukowany przez Organizatora.
-
-Archiwum obejmuje wszystkie rozmowy, które przeszły weryfikację formalną i spełniają warunki publikacji określone w regulaminie - nie tylko te ocenione wysoko. Liczby nie gwarantujemy, bo zależy ona od liczby zgłoszeń.
-
-Oprogramowanie powstaje na rzecz fundacji-organizatora, która nabywa do niego prawa i odpowiada za jego utrzymanie w kolejnych edycjach. Mecenas nie nabywa praw do oprogramowania ani nie ponosi kosztów jego utrzymania po pierwszej edycji.
-
-Krótki nakład na galę drukujemy wyłącznie wtedy, gdy wydanie księgarskie nie będzie gotowe na dzień gali; jeżeli partner wydawniczy dostarczy książkę na premierę, egzemplarze dla laureatów i jury pochodzą z jego nakładu, a ta pozycja nie jest ponoszona.
-
-Rozliczenie: w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy.
 
 ## <!--ikona:zasady--><span>Kto odpowiada</span>
 
