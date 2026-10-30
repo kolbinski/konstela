@@ -179,9 +179,15 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Fizyczne:** medal wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
-Rozdział ten dotyczy wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film); nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
+Kwoty wymienione wyżej dotyczą wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film); nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
 
 **Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie.
+
+### Nagroda publiczności
+
+**We wszystkich czterech plebiscytach obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności** - dla zgłoszenia z największą liczbą głosów - a także nagroda dla głosującego, który najlepiej uzasadnił swój wybór. Druga z nich przyznawana jest w drodze oceny uzasadnień, nie losowania. Jest to rozstrzygnięcie świadome: nagroda losowana wśród głosujących byłaby loterią promocyjną w rozumieniu ustawy o grach hazardowych, wymagającą zezwolenia i zatwierdzenia regulaminu, i z tej konstrukcji zrezygnowałem.
+
+Nagroda publiczności nie wpływa na werdykt jury i jest od niego niezależna. Głosowanie otwiera się po opublikowaniu ostatecznej listy zgłoszeń zakwalifikowanych i zamyka w dniu gali w południe, a liczniki głosów pozostają ukryte do ogłoszenia wyniku.
 
 ## 6. Finansowanie
 
@@ -291,10 +297,6 @@ Do tekstu „Zapytaj inaczej" powstanie nowa kompozycja i jej nagranie, poza ple
 
 Obsada - kompozytor, wykonawcy nagrania i wykonawcy galowi - nie jest jeszcze ustalona i zostanie ogłoszona po zawarciu umów. Wykonawcy hymnu nie konkurują ze zgłoszeniami i jest to powiedziane wprost na stronie. **Termin nagrania i premiery zależy od zabezpieczenia środków oraz od uzgodnienia składu kompozytorskiego i wykonawczego; otwarcie naboru nie jest od niego uzależnione.** Premierę planujemy w 2027 roku, w czasie trwania naboru, a na gali w 2028 roku hymn jest wykonywany na żywo, na otwarcie i na zakończenie gali.
 
-### Nagroda publiczności
-
-Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności dla utworu z największą liczbą głosów, a także nagroda dla głosującego, który najlepiej uzasadnił swój wybór. Druga z nich jest przyznawana w drodze oceny uzasadnień, nie losowania. Jest to rozstrzygnięcie świadome: nagroda losowana wśród głosujących byłaby loterią promocyjną w rozumieniu ustawy o grach hazardowych, wymagającą zezwolenia i zatwierdzenia regulaminu, i z tej konstrukcji zrezygnowałem.
-
 ### Stan przygotowań, powiedziany wprost
 
 Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich wysokości publicznie, zanim nie będą zabezpieczone. Kwoty podane niżej są kosztorysem przedstawianym Ministerstwu, nie ogłoszeniem wobec uczestników.
@@ -395,10 +397,6 @@ Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie kwiet
 **Drugie pokazanie prac - na wystawie w galerii sztuki, otwieranej wernisażem po gali, a więc już z zajętymi miejscami - jest celem, nie obietnicą regulaminową**, ponieważ zależy od pozyskania galerii. Jeżeli galeria się znajdzie, finaliści otrzymują odrębną propozycję, określającą terminy, ubezpieczenie, czas pozostawania pracy u organizatora i zwrot, a przy wystawie może się odbyć cicha licytacja oryginałów. Nieprzyjęcie propozycji nie wpływa na werdykt ani na nagrodę.
 
 **Werdykt zapada przed galą**, ponieważ antologia ma na gali premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali.
-
-### Nagroda publiczności
-
-Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności dla pracy z największą liczbą głosów. Konstrukcja jest ta sama co w plebiscycie na piosenkę, wraz z rezygnacją z nagrody losowanej wśród głosujących, która byłaby loterią promocyjną w rozumieniu ustawy o grach hazardowych.
 
 ### Licytacja oryginałów
 
