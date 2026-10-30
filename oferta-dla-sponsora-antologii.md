@@ -12,11 +12,15 @@ Mecenat jest jedną z dwóch osobnych ról finansujących pierwszą edycję. **F
 
 **Nagroda Konstela to nowa, coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy.**
 
-Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, drążenie, weryfikacja tego, co AI powiedziała, i to, co człowiek z rozmowy wyniósł.
+Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi, według **czterech kryteriów o równej wadze**: rozpiętość, czyli jak nieoczywiste połączenie rozmowa wykonała; drążenie, czyli czy uczestnik dopytuje i wraca do porzuconych wątków, zamiast przyjmować pierwszą odpowiedź; weryfikacja, czyli czy sprawdza twierdzenia AI i prostuje jej błędy; oraz plon, czyli co z rozmowy realnie zostało - nazwana idea, rozwiązany problem, odnalezione źródło, zmieniona decyzja. Karta oceny jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
+
+Rozmowa jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą filmu, piosenki i plakatu o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na rozmowę.
 
 Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
-Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: grono osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Mecenas nie ma wpływu na jego skład ani na wyniki.
+Ocena przebiega w dwóch rundach. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Każde zgłoszenie czytają co najmniej dwie osoby. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera **dziesiątkę antologii** - dziesięć rozmów, które zostaną w niej wydane.
+
+Do każdej z tych dziesięciu rozmów juror pisze **komentarz jury**: krótki tekst wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Komentarze są tym, co odróżnia antologię od zwykłego zbioru zapisów, i dlatego wracają niżej w tej propozycji. Mecenas nie ma wpływu ani na skład jury, ani na wyniki, ani na treść komentarzy.
 
 Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Pierwsza edycja jest więc budowana jak pierwsza z wielu, a nie jak jednorazowe wydarzenie: narzędzia, Archiwum i konstrukcja regulaminu powstają raz i służą każdemu kolejnemu rocznikowi.
 
@@ -52,11 +56,11 @@ To jest to, co Mecenas finansuje: nie wydarzenie, tylko materiał, który po wyd
 
 ## <!--ikona:dokument--><span>Przedmiot mecenatu</span>
 
-**Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz jury**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze.
+**Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury.
 
 Granica przy wydaniu książkowym przebiega tak: **mecenat finansuje powstanie treści** - redakcję, korektę, skład, przygotowanie do druku i bezpłatny e-book, czyli wszystko to, z czego książka jest zrobiona. **Nakład handlowy i wprowadzenie go do księgarń bierze na siebie partner wydawniczy**, osobna rola osobnego podmiotu, z którym rozmowy są w toku. W kosztorysie poniżej jest tylko krótki nakład na galę i tylko warunkowo: drukujemy go, jeżeli wydanie księgarskie nie będzie gotowe na dzień premiery. Mecenas jest wymieniony w każdym wydaniu niezależnie od tego, kto je wydrukował.
 
-**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
+**Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną - sprawdzenie liczby słów, języka i kompletności, za które odpowiada Organizator i które nie jest oceną treści. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
 
 **Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty przekazujemy nieodpłatnie mediom i instytucjom edukacyjnym.
 
@@ -82,7 +86,7 @@ Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokaz
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
 | Produkcja podcastu wraz z honorarium prowadzącego (24 odcinki)    |       do wyceny |
 | **Koszty bezpośrednie razem**                                     | **125 500 zł** |
-| Redakcja i skład treści antologii, obsługa zgłoszeń oznaczonych (95 godz.) |      20 900 zł |
+| Redakcja i skład treści antologii, obsługa zgłoszeń oznaczonych w moderacji (95 godz.) |      20 900 zł |
 | Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
 | Oprogramowanie: archiwizacja zgłoszeń, weryfikacja formalna, panel oceny, Archiwum na stronie (285 godz.) |      62 700 zł |
 | Prowadzenie projektu, pozyskiwanie partnerów i rezerwa (30%)      |      67 482 zł |
@@ -94,7 +98,7 @@ Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Arch
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone. **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy. **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji. Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
-Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z finalistami, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury i publikację Archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
+Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury i publikację Archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
 
 **Co, jeżeli edycja nie ruszy.** Przedsięwzięcie ma dwóch partnerów i pula nagród zależy od drugiego z nich. Regulamin przewiduje, że nabór nie zostanie otwarty, jeżeli warunki nie będą spełnione. Umowa zawiera więc klauzulę rozliczenia: jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję. Prace, które mogą ruszyć od razu i niezależnie od drugiego partnera, to powołanie fundacji, konsultacja prawna, przebudowa strony i budowa narzędzi; pozostałe pozycje uruchamiają się dopiero po otwarciu naboru.
 
@@ -102,7 +106,7 @@ Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynato
 
 Tytuł **Mecenasa Antologii** we wszystkich wydaniach antologii pierwszej edycji - elektronicznym, drukowanym i każdym późniejszym dodruku. Ponieważ narzędzia powstałe za te pieniądze będą służyć wszystkim przyszłym edycjom, Mecenasowi przysługuje dodatkowo tytuł **Mecenasa Założycielskiego**, wymieniany w prologu każdej kolejnej antologii, również w edycjach następnych. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody.
 
-Logo na stronie konstela.org przez cały okres edycji oraz na stronie redakcyjnej antologii. Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia: kilka słów o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię, oraz ogłoszenie premiery jej wydania elektronicznego. Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają na scenie książkę, a podpisy jury zbierane są tego samego wieczoru na egzemplarzach. Gdyby wydanie księgarskie nie zdążyło na premierę, laureaci otrzymują podpisane na gali ekslibrisy, a egzemplarze docierają do nich później. Egzemplarze autorskie wydania drukowanego, z podpisami jury, w liczbie do uzgodnienia. Wymienienie w materiałach prasowych i w sprawozdaniu z edycji.
+Logo na stronie konstela.org przez cały okres edycji oraz na stronie redakcyjnej antologii. Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia: kilka słów o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię, oraz ogłoszenie premiery jej wydania elektronicznego. Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają na scenie książkę, a podpisy jury zbierane są tego samego wieczoru na egzemplarzach. Gdyby wydanie księgarskie nie zdążyło na premierę, laureaci otrzymują podpisane na gali ekslibrisy, czyli osobne karty wklejane później do egzemplarza, a egzemplarze docierają do nich później. Egzemplarze autorskie wydania drukowanego, z podpisami jury, w liczbie do uzgodnienia. Wymienienie w materiałach prasowych i w sprawozdaniu z edycji.
 
 Nazwa Mecenasa pozostaje w antologii trwale: w każdym wydanym egzemplarzu i w każdym pobranym pliku, bez względu na to, jak długo Organizator będzie ją udostępniał na swojej stronie. Uczestnicy udzielają Organizatorowi licencji na pięć lat, więc udostępnianie przez stronę Nagrody planowane jest na ten okres, z zamiarem przedłużenia; egzemplarzy już wydanych i plików już pobranych nie dotyczy to w żadnym stopniu. To jest różnica między sponsoringiem wydarzenia a mecenatem publikacji: wydarzenie się kończy, a wydana książka zostaje.
 
@@ -110,7 +114,7 @@ Propozycja dotyczy pierwszej edycji. Nagroda jest przedsięwzięciem corocznym i
 
 ## <!--ikona:tarcza--><span>Czego propozycja nie obejmuje</span>
 
-Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść komentarzy; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
+Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść komentarzy jury dla najlepszych rozmów ze sztuczną inteligencją; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
 Honoraria akademii i jury, pula nagród, gala i jej oprawa są finansowane poza tą propozycją, przez fundatora nagrody.
 
@@ -124,7 +128,7 @@ Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telew
 
 Antologia w formatach EPUB i PDF, do pobrania ze strony konstela.org bez rejestracji i bez opłat, plus wydanie drukowane w nakładzie stu egzemplarzy.
 
-Archiwum obejmuje wszystkie rozmowy zakwalifikowane do drugiej rundy oceny, które spełniają warunki publikacji określone w regulaminie. Liczby nie gwarantujemy, bo zależy ona od liczby i jakości zgłoszeń.
+Archiwum obejmuje wszystkie rozmowy zakwalifikowane do drugiej rundy oceny, czyli do oceny jury, które spełniają warunki publikacji określone w regulaminie. Liczby nie gwarantujemy, bo zależy ona od liczby i jakości zgłoszeń.
 
 Oprogramowanie powstaje na rzecz fundacji-organizatora, która nabywa do niego prawa i odpowiada za jego utrzymanie w kolejnych edycjach. Mecenas nie nabywa praw do oprogramowania ani nie ponosi kosztów jego utrzymania po pierwszej edycji.
 
