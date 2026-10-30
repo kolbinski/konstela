@@ -4,7 +4,7 @@
 
 ## <!--ikona:ksiazka--><span>Dla kogo jest ta propozycja</span>
 
-**Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela: antologię w formie bezpłatnego e-booka i wydanie książkowe, publiczne Archiwum zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją i podcast towarzyszący.**
+**Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela: antologię - bezpłatny e-book i treść wydania książkowego - publiczne Archiwum zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją i podcast towarzyszący.**
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
@@ -32,7 +32,7 @@ Ocena przebiega w dwóch rundach.
 1. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Każde zgłoszenie czytają co najmniej dwie osoby.
 2. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera **dziesiątkę antologii** - dziesięć rozmów, które zostaną w niej wydane.
 
-Do każdej z tych dziesięciu rozmów juror pisze **komentarz jury**: krótki tekst wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Komentarze są tym, co odróżnia antologię od zwykłego zbioru zapisów, i dlatego wracają niżej w tej propozycji. Mecenas nie ma wpływu ani na skład jury, ani na wyniki, ani na treść komentarzy.
+Do każdej z tych dziesięciu rozmów juror pisze **komentarz jury**: krótki tekst wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Komentarze są tym, co odróżnia antologię od zwykłego zbioru zapisów: bez nich byłaby zbiorem zapisów, z nimi jest materiałem, z którego da się uczyć. Mecenas nie ma wpływu ani na skład jury, ani na wyniki, ani na treść komentarzy.
 
 Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Pierwsza edycja jest więc budowana jak pierwsza z wielu, a nie jak jednorazowe wydarzenie: narzędzia, Archiwum i konstrukcja regulaminu powstają raz i służą każdemu kolejnemu rocznikowi.
 
@@ -109,7 +109,7 @@ Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokaz
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Kwota obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyna pozycja bez ceny to produkcja podcastu, opisana wyżej. Kwota pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
+**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -152,7 +152,14 @@ Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynato
 
 Tytuł **Mecenasa Antologii** we wszystkich wydaniach antologii pierwszej edycji - elektronicznym, drukowanym i każdym późniejszym dodruku. Ponieważ narzędzia powstałe za te pieniądze będą służyć wszystkim przyszłym edycjom, Mecenasowi przysługuje dodatkowo tytuł **Mecenasa Założycielskiego**, wymieniany w prologu każdej kolejnej antologii, również w edycjach następnych. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody.
 
-Logo na stronie konstela.org przez cały okres edycji oraz na stronie redakcyjnej antologii. Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia: o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię, oraz ogłoszenie premiery jej wydania elektronicznego. Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają na scenie książkę, a podpisy jury zbierane są tego samego wieczoru na egzemplarzach. Gdyby wydanie księgarskie nie zdążyło na premierę, laureaci otrzymują podpisane na gali ekslibrisy, czyli osobne karty wklejane później do egzemplarza, a egzemplarze docierają do nich później. Egzemplarze autorskie wydania drukowanego, z podpisami jury, w liczbie do uzgodnienia. Wymienienie w materiałach prasowych i w sprawozdaniu z edycji.
+Poza tytułem Mecenas otrzymuje:
+
+- **Logo** na stronie konstela.org przez cały okres edycji oraz na stronie redakcyjnej antologii.
+- **Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia** - o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię - oraz ogłoszenie premiery wydania elektronicznego.
+- **Egzemplarze autorskie wydania drukowanego**, z podpisami jury, w liczbie do uzgodnienia.
+- **Wymienienie w materiałach prasowych** i w sprawozdaniu z edycji.
+
+Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają książkę na scenie, a podpisy jury zbierane są tego samego wieczoru na egzemplarzach. Gdyby wydanie księgarskie nie zdążyło na premierę, laureaci otrzymują podpisane na gali ekslibrisy - osobne karty wklejane do egzemplarza, który dociera do nich pocztą.
 
 Nazwa Mecenasa pozostaje w antologii trwale: w każdym wydanym egzemplarzu i w każdym pobranym pliku, bez względu na to, jak długo Organizator będzie ją udostępniał na swojej stronie. Uczestnicy udzielają Organizatorowi licencji na pięć lat, więc udostępnianie przez stronę Nagrody planowane jest na ten okres, z zamiarem przedłużenia; egzemplarzy już wydanych i plików już pobranych nie dotyczy to w żadnym stopniu. To jest różnica między sponsoringiem wydarzenia a mecenatem publikacji: wydarzenie się kończy, a wydana książka zostaje.
 
@@ -160,7 +167,7 @@ Propozycja dotyczy pierwszej edycji. Nagroda jest przedsięwzięciem corocznym i
 
 ## <!--ikona:tarcza--><span>Czego propozycja nie obejmuje</span>
 
-Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść komentarzy jury dla najlepszych rozmów ze sztuczną inteligencją; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
+Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść komentarzy jury; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
 Honoraria akademii i jury oraz pula nagród są finansowane poza tą propozycją, przez fundatora nagrody i sponsora akademii; gala wraz z oprawą ma własnego sponsora.
 
