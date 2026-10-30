@@ -69,7 +69,7 @@
 
    a) udzielenie Organizatorowi licencji w zakresie publikacji rozmowy w Czytelni zgłoszeń i w Archiwum (§ 11 ust. 3) – **brak zgody w tym zakresie uniemożliwia przyjęcie zgłoszenia**, ponieważ publikacja jest warunkiem udziału;
 
-   b) udzielenie licencji w zakresie publikacji rozmowy w antologii (§ 11 ust. 3);
+   b) udzielenie licencji w zakresie publikacji rozmowy w antologii, w tym w jej wydaniu dźwiękowym (§ 11 ust. 3);
 
    c) przyjęcie nagrody pieniężnej, jeżeli zostanie przyznana;
 
@@ -665,7 +665,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
    f) ukończył 16 lat, a jeżeli nie ukończył 18 lat – dysponuje zgodą przedstawiciela ustawowego w zakresach wskazanych w § 3 ust. 1a.
 
 2. Uczestnik zachowuje autorskie prawa osobiste i majątkowe do swoich wypowiedzi. Nagroda nie nabywa ich ani w całości, ani w części.
-3. **Publikacja jest warunkiem udziału, a nie przedmiotem odrębnej zgody.** Zgłaszając rozmowę, Uczestnik udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** od dnia ogłoszenia wyników, obejmującej publikację rozmowy w antologii i w Archiwum rozmów, jej udostępnianie w internecie, wydanie w postaci elektronicznej i drukowanej, w tym płatnej, oraz cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, a także udzielenie dalszej licencji wydawcy w tym zakresie. Licencja na czas oznaczony nie podlega wypowiedzeniu. Po upływie tego okresu przekształca się w licencję na czas nieoznaczony w tym samym zakresie.
+3. **Publikacja jest warunkiem udziału, a nie przedmiotem odrębnej zgody.** Zgłaszając rozmowę, Uczestnik udziela Organizatorowi **nieodpłatnej, niewyłącznej licencji na czas oznaczony pięciu lat** od dnia ogłoszenia wyników, obejmującej publikację rozmowy w antologii i w Archiwum rozmów, jej udostępnianie w internecie, wydanie w postaci elektronicznej i drukowanej, w tym płatnej, **utrwalenie i zwielokrotnienie techniką zapisu dźwiękowego oraz rozpowszechnianie nagrania w postaci audiobooka, w tym odpłatne**, oraz cytowanie we fragmentach w materiałach informacyjnych o Nagrodzie, a także udzielenie dalszej licencji wydawcy w tym zakresie. Pole zapisu dźwiękowego wymieniono osobno, ponieważ wydanie elektroniczne go nie obejmuje; rozmowę czytają lektorzy, a Uczestnik nie jest zobowiązany do udziału w nagraniu. Licencja na czas oznaczony nie podlega wypowiedzeniu. Po upływie tego okresu przekształca się w licencję na czas nieoznaczony w tym samym zakresie.
 
 3a. **Uprawnienia potrzebne przed dniem ogłoszenia wyników.** Licencja z ust. 3 obejmuje również czynności podejmowane przed dniem, od którego liczony jest jej okres: prezentację zgłoszenia w Czytelni przez czas naboru (ust. 10a), sporządzenie i przechowanie kopii archiwalnej, przygotowanie wydania, wykonanie nakładu oraz dostarczenie go dystrybutorowi. Rozpowszechnianie antologii i Archiwum rozpoczyna się natomiast nie wcześniej niż w dniu ogłoszenia wyników. **Konstrukcja tego rozdzielenia jest przedmiotem trwającej konsultacji prawnej (§ 10 ust. 5) i może zostać zmieniona przed otwarciem przyjmowania zgłoszeń**; Organizator nie przedstawia jej jako rozstrzygniętej.
 4. Udzielenie licencji nie zobowiązuje Organizatora do publikacji. O tym, co i kiedy zostaje opublikowane, rozstrzyga Organizator w granicach § 7a; odmowa publikacji nie wpływa na ocenę ani na nagrodę.

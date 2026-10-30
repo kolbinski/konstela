@@ -6,7 +6,7 @@
 
 **Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela:**
 
-- **antologię** - bezpłatny e-book i treść wydania książkowego;
+- **antologię** - bezpłatny e-book, treść wydania książkowego i audiobook;
 - **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją;
 - **podcast towarzyszący** Nagrodzie.
 
@@ -94,12 +94,15 @@ Skala ma też znaczenie praktyczne: nagroda, o której warto napisać, przyciąg
 
 ## <!--ikona:dokument--><span>Przedmiot mecenatu</span>
 
-**Antologia** ukazuje się w dwóch postaciach:
+**Antologia** ukazuje się w trzech postaciach:
 
 1. **Bezpłatny e-book**, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat; to jest zobowiązanie Organizatora, niezależne od tego, czy znajdzie się wydawca.
 2. **Wydanie książkowe**, które ma trafić do księgarń na dzień gali i nosić na okładce zwycięski plakat z plebiscytu na plakat o sztucznej inteligencji; przychód Organizatora z jego sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji.
+3. **Audiobook**, czytany przez trzech lektorów: osobny głos dla uczestnika, osobny dla sztucznej inteligencji i osobny dla komentarzy jury. Rozmowa jest dialogiem, więc w nagraniu brzmi jak dialog, a nie jak odczytany zapis. Audiobook udostępniamy bezpłatnie na tych samych zasadach co e-book.
 
-Obie zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury. Regulamin wiąże tę liczbę do wyczerpania rozmów nadających się do publikacji: przy bardzo małej liczbie zgłoszeń antologia może objąć ich mniej, a Organizator podaje wtedy liczbę faktyczną.
+Wszystkie trzy zawierają dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich opisany wyżej komentarz jury. Regulamin wiąże tę liczbę do wyczerpania rozmów nadających się do publikacji: przy bardzo małej liczbie zgłoszeń antologia może objąć ich mniej, a Organizator podaje wtedy liczbę faktyczną.
+
+**Audiobook nie jest dodatkiem, tylko drugim sposobem dotarcia.** Bezpłatne nagranie otwiera antologię dla osób niewidomych i słabowidzących, dla osób z dysleksją i dla wszystkich, którzy czytają uszami - w drodze do pracy, przy prowadzeniu samochodu. Dla szkoły jest materiałem, który da się puścić na lekcji. Prawo do wydania dźwiękowego jest zapisane w regulaminie wśród pól licencji udzielanej przez uczestników, osobno od wydania elektronicznego, bo bez tego nagranie byłoby niedopuszczalne.
 
 Granica przy wydaniu książkowym przebiega tak: **mecenas antologii finansuje powstanie treści** - redakcję, korektę, skład, przygotowanie do druku i bezpłatny e-book, czyli wszystko to, z czego książka jest zrobiona. **Nakład handlowy i wprowadzenie go do księgarń bierze na siebie partner wydawniczy**, osobna rola osobnego podmiotu, z którym rozmowy są w toku. W kosztorysie poniżej jest tylko krótki nakład na galę i tylko warunkowo: drukujemy go, jeżeli wydanie księgarskie nie będzie gotowe na dzień premiery. Mecenas antologii jest wymieniony w każdym wydaniu niezależnie od tego, kto je wydrukował.
 
@@ -138,7 +141,7 @@ To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy 
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
+**344 422 zł netto** (423 639,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -155,15 +158,16 @@ To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy 
 | Krótki nakład antologii na galę (100 egz.)                        |       4 000 zł |
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
 | Produkcja podcastu wraz z honorarium prowadzącego (24 odcinki)    |       do wyceny |
-| **Koszty bezpośrednie razem**                                     | **125 500 zł** |
+| Produkcja audiobooka antologii: trzej lektorzy, studio, montaż dialogowy |      40 000 zł |
+| **Koszty bezpośrednie razem**                                     | **165 500 zł** |
 | Redakcja i skład treści antologii, rozstrzyganie zgłoszeń oznaczonych przez oceniających (95 godz.) |      20 900 zł |
 | Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
 | Oprogramowanie: archiwizacja zgłoszeń, weryfikacja formalna, panel oceny, Archiwum na stronie (285 godz.) |      62 700 zł |
-| Wynagrodzenie wykonawcy części wydawniczej (20%)                  |      44 988 zł |
-| Rezerwa na przekroczenia (10%)                                    |      22 494 zł |
-| **Razem netto**                                                   | **292 422 zł** |
-| VAT 23%                                                           |   67 257,06 zł |
-| **Do zapłaty brutto**                                             | **359 679,06 zł** |
+| Wynagrodzenie wykonawcy części wydawniczej (20%)                  |      52 988 zł |
+| Rezerwa na przekroczenia (10%)                                    |      26 494 zł |
+| **Razem netto**                                                   | **344 422 zł** |
+| VAT 23%                                                           |   79 217,06 zł |
+| **Do zapłaty brutto**                                             | **423 639,06 zł** |
 
 **Siedem pozycji w tej tabeli to koszty wspólne całego przedsięwzięcia**, a nie samej antologii: powołanie fundacji, konsultacja prawna, obsługa księgowa, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy i przebudowa strony - razem 74 500 zł. Służą czterem plebiscytom, akademii, gali i wystawie, a w pierwszej edycji pokrywa je w całości Mecenas Antologii, bo uruchamiają się najwcześniej i bez nich nie rusza nic. To jest realna treść tytułu **Mecenasa Założycielskiego**: w kolejnych edycjach koszty te rozkładają się na wszystkich partnerów, a powstałe za te pieniądze narzędzia, znak i strona służą każdemu następnemu rocznikowi. Mówimy o tym wprost, zamiast ukrywać te pozycje wśród kosztów wydania.
 
@@ -229,7 +233,7 @@ Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telew
 
 ## <!--ikona:waga--><span>Co dokładnie dostarczamy</span>
 
-Antologia w formatach EPUB i PDF, do pobrania ze strony konstela.org bez rejestracji i bez opłat. Do tego wydanie drukowane: z nakładu partnera wydawniczego, a gdyby ten nie zdążył na premierę - krótki nakład stu egzemplarzy wydrukowany przez Organizatora.
+Antologia w formatach EPUB i PDF oraz audiobook w formacie MP3, do pobrania ze strony konstela.org bez rejestracji i bez opłat. Do tego wydanie drukowane: z nakładu partnera wydawniczego, a gdyby ten nie zdążył na premierę - krótki nakład stu egzemplarzy wydrukowany przez Organizatora.
 
 Archiwum obejmuje wszystkie rozmowy, które przeszły weryfikację formalną i spełniają warunki publikacji określone w regulaminie - nie tylko te ocenione wysoko. Liczby nie gwarantujemy, bo zależy ona od liczby zgłoszeń.
 

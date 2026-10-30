@@ -611,6 +611,16 @@ Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesi
 **Ścieżka dalsza.** Uczniowska akademia jest naturalnym zapleczem akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w plebiscycie jako uczestnik, albo czytanie jako członek akademii. Obu ról naraz pełnić nie można.
 
 
+## Audiobook antologii - decyzja z 30.10.2026
+
+Antologia ukazuje się także jako **bezpłatny audiobook**, czytany przez **trzech lektorów**: osobny głos dla uczestnika, osobny dla sztucznej inteligencji, osobny dla komentarzy jury. Finansuje go Mecenas Antologii w ramach tej samej roli, a nie osobny partner.
+
+**Rzecz najpilniejsza była regulaminowa i jest zrobiona.** § 11 ust. 3 wymieniał pola licencji bez zapisu dźwiękowego, a prawo autorskie wymaga wymienienia pól wprost - „postać elektroniczna" audiobooka nie obejmuje. Bez zmiany nie wolno byłoby nagrać ani jednej rozmowy, a po otwarciu naboru regulaminu już się nie zmienia. Dopisane: utrwalenie i zwielokrotnienie techniką zapisu dźwiękowego oraz rozpowszechnianie nagrania, w tym odpłatne, wraz z dalszą licencją dla wydawcy. Zgoda przedstawiciela ustawowego przy uczestnikach niepełnoletnich obejmuje teraz wydanie dźwiękowe.
+
+**Koszt: 40 000 zł netto**, przyjęte przy założeniu około dziesięciu godzin gotowego nagrania i trzech sesji lektorskich ze studiem, montażem dialogowym i masteringiem. Budżet Antologii rośnie z 292 422 zł do **344 422 zł** netto, czyli 423 639,06 zł brutto; suma wszystkich wycenionych pozycji z 1 707 146,80 zł do **1 759 146,80 zł**. Zakres objęty pytaniem do MKiDN bez zmian, bo antologia do niego nie należy.
+
+**Do zrobienia:** umowy z lektorami muszą obejmować prawa artysty wykonawcy; umowy z jurorami - zgodę na odczytanie ich komentarzy w nagraniu. Jedno i drugie dopisane do listy dla prawnika. Do rozstrzygnięcia przy produkcji: czy audiobook wchodzi do dystrybucji płatnej (Audioteka, Storytel, Legimi) obok wersji bezpłatnej, czy zostaje wyłącznie na stronie Nagrody.
+
 ## Przegląd oferty mecenatu - 30.10.2026
 
 Dwa niezależne przeglądy oferty: jeden na zgodność z regulaminem i arkuszem, drugi oczami prawnika i dyrektora finansowego sponsora. Poprawki opisane w commitach; tutaj zostaje to, co wymaga dalszej pracy.

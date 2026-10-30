@@ -343,7 +343,9 @@ Pytania powstały przy sprawdzaniu [oferty mecenatu](/oferta-dla-sponsora-antolo
 
 7. **Aparat umowny, którego w ofercie nie ma.** Kary umowne za niedostarczenie e-booka, Archiwum i oznaczeń; odstąpienie i wypowiedzenie wraz ze skutkami; siła wyższa; poufność; zakaz cesji; zmiana kontroli; oświadczenia antykorupcyjne i sankcyjne; zatwierdzanie użycia znaków towarowych sponsora. Czy warto przygotować wzór umowy sponsorskiej jako załącznik do oferty - i ile to kosztuje?
 
-8. **Zwolnienie podatkowe przy nagrodzie za uzasadnienie głosu.** Nagroda wynosi 2 000 zł, a art. 21 ust. 1 pkt 68 ustawy o PIT zwalnia nagrody z dziedziny kultury i sztuki o wartości nieprzekraczającej 2 000 zł. Czy kwota równa progowi mieści się w zwolnieniu?
+8. **Audiobook antologii.** Regulamin został uzupełniony o pole zapisu dźwiękowego w licencji od uczestników (§ 11 ust. 3). Prosimy o sprawdzenie, czy brzmienie jest wystarczające dla produkcji i rozpowszechniania audiobooka, w tym odpłatnego i przez wydawcę zewnętrznego. Osobno: jakie zapisy muszą znaleźć się w umowach z lektorami w zakresie praw artysty wykonawcy, a w umowach z jurorami - w zakresie odczytania ich komentarzy w nagraniu. Czy status wypowiedzi modelu zmienia się, gdy zostaje odczytana przez lektora.
+
+9. **Zwolnienie podatkowe przy nagrodzie za uzasadnienie głosu.** Nagroda wynosi 2 000 zł, a art. 21 ust. 1 pkt 68 ustawy o PIT zwalnia nagrody z dziedziny kultury i sztuki o wartości nieprzekraczającej 2 000 zł. Czy kwota równa progowi mieści się w zwolnieniu?
 
 ## D. Załączniki
 
