@@ -199,21 +199,28 @@ Wszystkie cztery przygotowujemy na prośbę, bez zobowiązania po stronie Mecena
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).
 
-Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. **Umowę podpisuje już ta fundacja, nie osoba prywatna**: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Dzięki temu Mecenas przelewa środki podmiotowi, który istnieje, ma numer w rejestrze i statut ograniczający go do prowadzenia Nagrody.
+Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. **Umowę na 183 480 zł podpisuje już ta fundacja, nie osoba prywatna**: zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura, więc Mecenas przelewa pieniądze podmiotowi, który istnieje, ma numer w rejestrze i statut ograniczający go do prowadzenia Nagrody.
 
-**Jak jest pokryty koszt startu, skoro fundacji jeszcze nie ma.** Powołanie fundacji kosztuje około 3 000 zł - taksa notarialna z wypisami, opłaty za wpis do rejestru stowarzyszeń i do rejestru przedsiębiorców wraz z ogłoszeniem w Monitorze Sądowym i Gospodarczym oraz fundusz założycielski w wysokości 2 000 zł, z czego 1 000 zł ustawa przeznacza na działalność gospodarczą. Ten wydatek wypada przed powstaniem fundacji, więc nie ma komu wystawić faktury. Zamiast finansować go z prywatnych środków Organizatora, który przy wycofaniu się Mecenasa zostałby z tym sam, w dniu decyzji podpisywane są dwa krótkie dokumenty:
+Jeden wyjątek od tego zdania istnieje i nie chcemy go chować: **pierwszy podpis i pierwszy przelew wypadają przed powstaniem fundacji**, bo powołanie trzeba czymś opłacić. Dotyczy to umowy przedwstępnej i kwoty około 3 000 zł, opisanych niżej. Wszystko ponad tę kwotę, czyli ponad 98 procent wartości umowy, trafia już do zarejestrowanej fundacji.
+
+**Jak jest pokryty koszt startu, skoro fundacji jeszcze nie ma.** Powołanie fundacji wymaga około 3 000 zł i są to **dwie różne rzeczy, których nie wolno mylić**:
+
+- **około 1 000 zł opłat za usługi**: taksa notarialna z wypisami oraz opłaty za wpis do rejestru stowarzyszeń i do rejestru przedsiębiorców wraz z ogłoszeniem w Monitorze Sądowym i Gospodarczym. To jest pieniądz wydany bezpowrotnie, niezależnie od wyniku;
+- **2 000 zł funduszu założycielskiego**, z czego 1 000 zł ustawa przeznacza na działalność gospodarczą. To **nie jest koszt usługi, tylko majątek wnoszony do fundacji**: po wpisie staje się jej majątkiem i służy prowadzeniu Nagrody, a jeżeli do wpisu nie dojdzie, nie zostaje wniesiony i wraca.
+
+Ten wydatek wypada przed powstaniem fundacji, więc nie ma komu wystawić faktury. Zamiast finansować go z prywatnych środków Organizatora, który przy wycofaniu się Mecenasa zostałby z tym sam, w dniu decyzji podpisywane są dwa krótkie dokumenty:
 
 1. **Umowa przedwstępna** - Mecenas zobowiązuje się zawrzeć umowę właściwą z fundacją w ciągu czternastu dni od jej wpisu, na warunkach, które są jej załącznikiem i które widział wcześniej; Organizator zobowiązuje się doprowadzić do wpisu w ciągu sześćdziesięciu dni. Umowie towarzyszy **zadatek równy kosztowi powołania**, czyli około 3 000 zł, w rozumieniu art. 394 Kodeksu cywilnego.
 2. **Umowa na czynności przygotowawcze** - obejmuje wyłącznie wizytę u notariusza, wnioski rejestrowe, opłaty i wniesienie funduszu założycielskiego. Rozliczana jest **zwrotem udokumentowanych kosztów co do złotówki, bez wynagrodzenia i bez narzutu**: nikt na niej nie zarabia, a każda złotówka ma fakturę albo dowód opłaty.
 
-**Cztery możliwe zakończenia i ostateczny rachunek każdego z nich.** W przykładzie poniżej zadatek wynosi 3 000 zł, a faktyczne opłaty u notariusza i w sądzie 2 500 zł; kwoty netto.
+**Cztery możliwe zakończenia i ostateczny rachunek każdego z nich.** W przykładzie zadatek wynosi 3 000 zł i dzieli się na 1 000 zł opłat oraz 2 000 zł funduszu założycielskiego; kwoty netto.
 
-1. **Fundacja wpisana, umowa właściwa zawarta.** Mecenas płaci **183 480 zł za całość**, czyli dokładnie tyle, ile mówi oferta. Zadatek pokrywa 2 500 zł opłat, pierwsza faktura fundacji opiewa na 6 500 zł zamiast 9 000 zł, a 500 zł niewykorzystane wraca.
-2. **Mecenas rezygnuje przed umową właściwą.** Jego koszt to **3 000 zł**. Zadatek zostaje u Organizatora i pokrywa 2 500 zł poniesionych opłat; fundacja, jeżeli już powstała, zostaje przy Organizatorze wraz z obowiązkami jej prowadzenia.
-3. **Organizator rezygnuje przed umową właściwą.** Mecenas dostaje **zwrot 6 000 zł**, czyli wychodzi 3 000 zł na plus. Organizator zwraca dwukrotność zadatku i sam ponosi 2 500 zł opłat.
-4. **Sąd odmawia wpisu bez winy stron.** Koszt Mecenasa to **2 500 zł**, czyli faktyczne opłaty. Wraca do niego 500 zł, to jest zadatek pomniejszony o udokumentowane wydatki.
+1. **Fundacja wpisana, umowa właściwa zawarta.** Mecenas płaci **183 480 zł za całość**, czyli dokładnie tyle, ile mówi oferta. Zadatek pokrywa 1 000 zł opłat i 2 000 zł funduszu, który jest już majątkiem fundacji, więc pierwsza faktura fundacji opiewa na 6 000 zł zamiast 9 000 zł.
+2. **Mecenas rezygnuje przed umową właściwą.** Jego koszt to **3 000 zł**: 1 000 zł opłat przepada, a 2 000 zł funduszu zostaje w fundacji, jeżeli ta zdążyła powstać, albo pokrywa zerwane zobowiązanie, jeżeli nie powstała. Fundacja wraz z obowiązkami jej prowadzenia zostaje przy Organizatorze.
+3. **Organizator rezygnuje przed umową właściwą.** Mecenas dostaje **zwrot 6 000 zł**, czyli wychodzi 3 000 zł na plus. Organizator zwraca dwukrotność zadatku i sam ponosi 1 000 zł opłat.
+4. **Sąd odmawia wpisu bez winy stron.** Koszt Mecenasa to **1 000 zł**, czyli same opłaty. Fundusz założycielski nie został wniesiony, bo nie było komu, więc **2 000 zł wraca** razem z niewykorzystaną resztą zadatku.
 
-Ostatni przypadek wymaga jednego zdania wprost: **przy odmowie wpisu niezawinionej przez nikogo koszt nieudanej próby ponosi Mecenas**, bo są to te same opłaty, które zapłaciłby przy powodzeniu. Jeżeli odmowa wynika z błędu Organizatora - wadliwego wniosku, braków w dokumentach - zadatek wraca w pełnej wysokości, a opłaty obciążają Organizatora.
+Ostatni przypadek wymaga jednego zdania wprost: **przy odmowie wpisu niezawinionej przez nikogo koszt nieudanej próby ponosi Mecenas**, bo jest to ten sam tysiąc złotych opłat, który zapłaciłby przy powodzeniu. Jeżeli odmowa wynika z błędu Organizatora - wadliwego wniosku, braków w dokumentach - zadatek wraca w pełnej wysokości, a opłaty obciążają Organizatora.
 
 **Suma, którą Mecenas płaci za całość, nie zmienia się przez ten mechanizm i wynosi 183 480 zł netto.** Zadatek nie jest dodatkową opłatą, tylko wcześniej zapłaconą częścią pierwszej transzy.
 
