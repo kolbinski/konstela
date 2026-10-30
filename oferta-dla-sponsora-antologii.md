@@ -44,9 +44,10 @@ Pula nagród w plebiscycie na rozmowę z AI wynosi **371 000 zł brutto**:
 - **Drugie miejsce** - 40 000 zł
 - **Trzecie miejsce** - 10 000 zł
 - **Siedem wyróżnień** - po 3 000 zł
-- **Nagroda publiczności** - 3 000 zł, poza pulą powyżej
 
 Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.
+
+Obok tej puli stoją **nagrody publiczności: 4 000 zł brutto**. Nie są jej częścią, bo trafiają nie do autorów rozmów, lecz do głosujących - nagradzane jest uzasadnienie oddanego głosu, oceniane za trafność obserwacji, konkretność i samodzielność sądu. Nagroda ta nie jest losowana. Osobno przyznawana jest **Nagroda Uczniowska**, wskazywana przez grupy uczniowskie zgłoszone przez szkoły: jedna szkoła, jedno wskazanie. Może przypaść rozmowie spoza dziesiątki i jest nagrodą honorową.
 
 Wysokość nagrody głównej nie wzięła się z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana. Te same 100 000 zł z 1997 roku odpowiada dziś około **315 000 zł** według indeksu cen konsumpcyjnych, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **300 000 zł przywraca skalę, którą polskie nagrody miały trzydzieści lat temu** - i to jest jedyny powód, dla którego kwota jest tak wysoka.
 
