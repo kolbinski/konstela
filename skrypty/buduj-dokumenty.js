@@ -235,7 +235,7 @@ const OPISY = {
   'jury-w-plebiscycie-rozmowy-z-ai':
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na rozmowę ze sztuczną inteligencją i co daje w zamian: zakres pracy, karta oceny, komentarze do antologii, honorarium i niezależność werdyktu.',
   'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela':
-    'Oferta dla Mecenasa Założycielskiego Nagrody Konstela: fundacja, znak towarowy, strona z wersją mobilną i trzy narzędzia obsługujące wszystkie plebiscyty. 198 380 zł netto, kosztorys i warunki.',
+    'Oferta dla Mecenasa Założycielskiego Nagrody Konstela: fundacja, znak towarowy, strona z wersją mobilną i trzy narzędzia obsługujące wszystkie plebiscyty. 183 480 zł netto, kosztorys i warunki.',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja':
     'Oferta dla fundatora puli nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu. Kwota, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-antologii-nagrody-konstela':
