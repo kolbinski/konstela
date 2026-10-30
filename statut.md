@@ -52,6 +52,13 @@
 2. Wyłączenie, o którym mowa w ust. 1, stanowi minimum; regulamin plebiscytu może określić szerszy krąg osób wyłączonych, w szczególności obejmujący osoby oceniające, współpracowników Fundacji, organy i pracowników fundatorów nagród, mecenasów i partnerów komercyjnych oraz osoby im najbliższe.
 3. Objęcie plebiscytu patronatem honorowym przez organ władzy publicznej, uczelnię albo inną instytucję nie czyni jej partnerem w rozumieniu ust. 2 i nie wyłącza z udziału jej pracowników, studentów ani doktorantów.
 
+**§ 11a.**
+1. Majątek Fundacji nie może być przekazywany na rzecz Fundatora, członków organów Fundacji ani osób im najbliższych, w szczególności w drodze darowizny, pożyczki, zabezpieczenia zobowiązań ani nieodpłatnego korzystania z majątku Fundacji.
+2. Wyłączenie, o którym mowa w ust. 1, nie dotyczy **wynagrodzenia za pracę albo świadczenia faktycznie wykonane** na podstawie umowy zawartej z zachowaniem § 21 pkt 1, na warunkach nie mniej korzystnych dla Fundacji niż rynkowe, ani zwrotu udokumentowanych wydatków poniesionych na rzecz Fundacji.
+3. Umowa, o której mowa w ust. 2, zawierana jest w formie pisemnej, a jej wykonanie stwierdza protokół odbioru przyjmowany przez Radę Fundacji. Zestawienie takich umów wraz z kwotami wchodzi do rocznego sprawozdania Zarządu.
+
+`[Przepis dopisany 30.10.2026, bo oferty dla partnerów powołują się na ten zakaz wprost. Do potwierdzenia przy dopracowaniu statutu przed aktem notarialnym; wzorowany na art. 20 ust. 1 pkt 6 ustawy o działalności pożytku publicznego, choć Fundacja nie ubiega się dziś o status organizacji pożytku publicznego.]`
+
 ## Rozdział III. Majątek i dochody
 
 **§ 12.** Majątek Fundacji stanowi fundusz założycielski w kwocie **2 000** zł, w tym **1 000** zł przeznaczone na działalność gospodarczą, oraz środki nabyte w toku działania. `[Kwoty zaproponowane przez kancelarię 30.10.2026; 1 000 zł na działalność gospodarczą to minimum z art. 5 ust. 5 ustawy o fundacjach, a dla łącznej wysokości funduszu ustawa minimum nie przewiduje. Do potwierdzenia przy dopracowaniu statutu przed aktem notarialnym.]`
