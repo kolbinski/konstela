@@ -14,24 +14,30 @@ i w kwadratowym.
 Medal jest ten sam co w nagłówku strony głównej: `assets/medal-512.png`, czyli zdjęcie
 medalu w pudełku, na przezroczystym tle.
 
+## Pięć kart
+
+Z jednego szablonu powstaje pięć plików:
+
+| plik | gdzie użyty |
+|---|---|
+| `assets/og.png` | strona główna i wszystkie strony bez własnego obrazka |
+| `assets/og-rozmowy.png` | plebiscyt na rozmowę i jego strona jury |
+| `assets/og-filmu.png` | plebiscyt na film i jego strona jury |
+| `assets/og-piosenki.png` | plebiscyt na piosenkę, jego strona jury oraz hymn |
+| `assets/og-plakatu.png` | plebiscyt na plakat i jego strona jury |
+
+Przypisanie stron do plików jest w `skrypty/buduj-dokumenty.js`, w mapie `OBRAZKI`.
+
 ## Jak przegenerować
 
 ```bash
-cp skrypty/og/og.html ./og-podglad.html
 python3 -m http.server 8777 &
-node - <<'JS'
-const { chromium } = require('playwright');
-(async () => {
-  const b = await chromium.launch();
-  const p = await b.newPage({ viewport: { width: 1200, height: 630 }, deviceScaleFactor: 2 });
-  await p.goto('http://localhost:8777/og-podglad.html', { waitUntil: 'networkidle' });
-  await p.screenshot({ path: '/tmp/og-2x.png' });
-  await b.close();
-})();
-JS
-python3 -c "from PIL import Image; Image.open('/tmp/og-2x.png').resize((1200,630), Image.LANCZOS).save('assets/og.png')"
-rm og-podglad.html
+node skrypty/og/generuj.js
+pkill -f "http.server 8777"
 ```
+
+Teksty poszczególnych kart - nadtytuł i podtytuł - są na początku `skrypty/og/generuj.js`,
+w tablicy `KARTY`. Tytuł „Nagroda Konstela", medal i adres są wspólne dla wszystkich.
 
 Po podmianie uruchom `node skrypty/buduj-dokumenty.js` - znacznik wersji pliku policzy
 się z jego treści i strony wskażą nowy adres, więc pośrednicy nie oddadzą starego obrazka.

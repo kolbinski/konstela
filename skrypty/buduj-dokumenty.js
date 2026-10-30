@@ -233,10 +233,15 @@ const OPISY = {
    wszystkie podstrony dzielą jeden obrazek serwisu. */
 const OBRAZEK_DOMYSLNY = '/assets/og.png';
 const OBRAZKI = {
-  'plebiscyt-rozmowy': '/assets/rozmowa.jpg',
-  'plebiscyt-filmu': '/assets/film.jpg',
-  'plebiscyt-piosenki': '/assets/piosenka.jpg',
-  'plebiscyt-plakatu': '/assets/plakat.jpg',
+  'plebiscyt-rozmowy': '/assets/og-rozmowy.png',
+  'plebiscyt-filmu': '/assets/og-filmu.png',
+  'plebiscyt-piosenki': '/assets/og-piosenki.png',
+  'plebiscyt-plakatu': '/assets/og-plakatu.png',
+  'jury-w-plebiscycie-rozmowy-z-ai': '/assets/og-rozmowy.png',
+  'jury-w-plebiscycie-filmu-o-ai': '/assets/og-filmu.png',
+  'jury-w-plebiscycie-piosenki-o-ai': '/assets/og-piosenki.png',
+  'jury-w-plebiscycie-plakatu-o-ai': '/assets/og-plakatu.png',
+  'hymn': '/assets/og-piosenki.png',
 };
 
 /* Znacznik zasobu to odcisk JEGO treści, nie data budowania. Chodzi o to,
