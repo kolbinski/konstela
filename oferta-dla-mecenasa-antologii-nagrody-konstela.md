@@ -10,6 +10,8 @@
 - **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją;
 - **podcast towarzyszący** Nagrodzie.
 
+**Kosztuje to 344 422 zł netto** (423 639,06 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** finansuje pulę nagród i pracę jury, **sponsor akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie, Archiwum i podcast. Partnerów jest w sumie siedmiu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
