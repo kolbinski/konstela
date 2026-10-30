@@ -575,7 +575,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 **Przed otwarciem naboru**
 
 - publikacja regulaminów wszystkich czterech plebiscytów wraz z kartami oceny - przed dniem otwarcia naboru, tak aby zasady były znane, zanim ktokolwiek zgłosi pracę
-- otwarcie naboru: początek 2027 roku; naboru nie otwieram, dopóki środki na nagrody nie wpłyną na rachunek
+- **otwarcie naboru we wszystkich czterech plebiscytach: początek 2027 roku, tego samego dnia**; naboru nie otwieram, dopóki środki na nagrody nie wpłyną na rachunek, a w plebiscycie na piosenkę również środki na nagrania studyjne finalistów
 
 **2027 - rok naboru**
 
@@ -584,9 +584,9 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - pierwsza runda oceny rozmów: na bieżąco, partiami, przez cały rok naboru
 - premiera hymnu wraz z teledyskiem: 2027, w czasie trwania naboru
 - odcinki podcastu: przez cały rok naboru
-- zamknięcie naboru plakatów: 30 listopada 2027; ogłoszenie dziesięciu finalistów: połowa grudnia 2027, a oryginały prac docierają do organizatora do początku stycznia 2028
-- zamknięcie naboru filmów: 30 listopada 2027
-- zamknięcie naboru piosenek: 31 grudnia 2027; po nim nagrania studyjne dziesiątki finalistów
+- nabór plakatów: od otwarcia naboru do 30 listopada 2027; ogłoszenie dziesięciu finalistów: połowa grudnia 2027, a oryginały prac docierają do organizatora do początku stycznia 2028
+- nabór filmów: od otwarcia naboru do 30 listopada 2027
+- nabór piosenek: od otwarcia naboru do 31 grudnia 2027; po nim nagrania studyjne dziesiątki finalistów
 
 **2028 - ocena, antologia i gala**
 
