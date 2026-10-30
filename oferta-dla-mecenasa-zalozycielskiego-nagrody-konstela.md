@@ -208,14 +208,12 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. **Um
 
 **Cztery możliwe zakończenia i ostateczny rachunek każdego z nich.** W przykładzie poniżej zadatek wynosi 3 000 zł, a faktyczne opłaty u notariusza i w sądzie 2 500 zł; kwoty netto.
 
-| Co się dzieje                                   | Ostateczny koszt Mecenasa | Co zostaje u Organizatora |
-| ----------------------------------------------- | -------------------------: | ------------------------- |
-| Fundacja wpisana, umowa właściwa zawarta        |             183 480 zł za całość | nic ponad zwrot 2 500 zł opłat; pierwsza faktura fundacji opiewa na 6 500 zł zamiast 9 000 zł, a 500 zł niewykorzystane wraca |
-| Mecenas rezygnuje przed umową właściwą          |                   3 000 zł | zadatek 3 000 zł, z czego 2 500 zł pokrywa poniesione opłaty; fundacja, jeżeli już powstała, zostaje przy Organizatorze wraz z obowiązkami jej prowadzenia |
-| Organizator rezygnuje przed umową właściwą      |      zwrot 6 000 zł, czyli 3 000 zł na plus | nic; zwraca dwukrotność zadatku i sam ponosi 2 500 zł opłat |
-| Sąd odmawia wpisu bez winy stron                |                   2 500 zł | zwrot opłat; do Mecenasa wraca 500 zł, czyli zadatek pomniejszony o udokumentowane wydatki |
+1. **Fundacja wpisana, umowa właściwa zawarta.** Mecenas płaci **183 480 zł za całość**, czyli dokładnie tyle, ile mówi oferta. Zadatek pokrywa 2 500 zł opłat, pierwsza faktura fundacji opiewa na 6 500 zł zamiast 9 000 zł, a 500 zł niewykorzystane wraca.
+2. **Mecenas rezygnuje przed umową właściwą.** Jego koszt to **3 000 zł**. Zadatek zostaje u Organizatora i pokrywa 2 500 zł poniesionych opłat; fundacja, jeżeli już powstała, zostaje przy Organizatorze wraz z obowiązkami jej prowadzenia.
+3. **Organizator rezygnuje przed umową właściwą.** Mecenas dostaje **zwrot 6 000 zł**, czyli wychodzi 3 000 zł na plus. Organizator zwraca dwukrotność zadatku i sam ponosi 2 500 zł opłat.
+4. **Sąd odmawia wpisu bez winy stron.** Koszt Mecenasa to **2 500 zł**, czyli faktyczne opłaty. Wraca do niego 500 zł, to jest zadatek pomniejszony o udokumentowane wydatki.
 
-Ostatni wiersz wymaga jednego zdania wprost: **przy odmowie wpisu niezawinionej przez nikogo koszt nieudanej próby ponosi Mecenas**, bo są to te same opłaty, które zapłaciłby przy powodzeniu. Jeżeli odmowa wynika z błędu Organizatora - wadliwego wniosku, braków w dokumentach - zadatek wraca w pełnej wysokości, a opłaty obciążają Organizatora.
+Ostatni przypadek wymaga jednego zdania wprost: **przy odmowie wpisu niezawinionej przez nikogo koszt nieudanej próby ponosi Mecenas**, bo są to te same opłaty, które zapłaciłby przy powodzeniu. Jeżeli odmowa wynika z błędu Organizatora - wadliwego wniosku, braków w dokumentach - zadatek wraca w pełnej wysokości, a opłaty obciążają Organizatora.
 
 **Suma, którą Mecenas płaci za całość, nie zmienia się przez ten mechanizm i wynosi 183 480 zł netto.** Zadatek nie jest dodatkową opłatą, tylko wcześniej zapłaconą częścią pierwszej transzy.
 
