@@ -22,7 +22,7 @@
       body {
         width: 1200px;
         height: 630px;
-        background: #2b2a27;
+        background: #16150f;
         color: #f6f2e9;
         font-family: 'Literata', serif;
         overflow: hidden;
@@ -48,11 +48,18 @@
         text-align: center;
         padding: 48px 30px;
       }
+      .medal-ramka {
+        padding: 12px;
+        border: 2px solid #b8893c;
+        border-radius: 12px;
+        background: #1f1e18;
+        margin-bottom: 24px;
+        display: flex;
+      }
       .medal {
-        width: 215px;
-        height: 215px;
+        width: 196px;
+        height: 196px;
         object-fit: contain;
-        margin-bottom: 22px;
       }
       .nad {
         font-family: 'IBM Plex Mono', monospace;
@@ -85,7 +92,7 @@
   <body>
     <div class="ramka"></div>
     <div class="srodek">
-      <img class="medal" src="/assets/medal-512.png" alt="" />
+      <div class="medal-ramka"><img class="medal" src="/assets/medal-512.png" alt="" /></div>
       <div class="nad">Nagroda za rozmowy z AI</div>
       <h1>Nagroda Konstela</h1>
       <div class="pod">Oceniamy pytania, nie odpowiedzi</div>
