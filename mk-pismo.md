@@ -120,7 +120,7 @@ Obecnie przedsięwzięcie jest w fazie zalążkowej. Żadnego z plebiscytów nie
 
 Organizatorem ma być fundacja powoływana wyłącznie w tym celu. Projekt jej statutu jest gotowy, natomiast wizytę u notariusza i wpis do rejestru planuję po zabezpieczeniu finansowania. Finansowania ze środków publicznych dotychczas nie otrzymałem i o żadne jeszcze nie wnioskowałem.
 
-Działa natomiast strona Nagrody i to, co w niej zrobiono dla osób słabowidzących: **tryb czytelności włączany jednym przyciskiem**, w którym pismo w całym serwisie ma wielkość wyraźnie czytelną, a układ sprowadza się do czarnego tekstu na białym tle. **Regulaminy i karty oceny publikujemy jako tekst czytelny dla czytnika ekranu, a nie jako pliki do pobrania.** Rozwiązania te opisuje rozdział 13 załączonej noty.
+Działa natomiast strona Nagrody wraz z rozwiązaniami przygotowanymi dla osób słabowidzących; opisuje je **rozdział 13 załączonej noty koncepcyjnej, „Dostępność"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#13-dostepnosc](https://konstela.org/dokument/mk-nota-koncepcyjna/#13-dostepnosc).
 
 ## Pytania formalne
 
