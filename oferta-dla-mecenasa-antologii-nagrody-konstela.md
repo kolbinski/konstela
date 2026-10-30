@@ -14,7 +14,7 @@
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** finansuje pulę nagród i pracę jury, **sponsor akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie, Archiwum i podcast. Partnerów jest w sumie siedmiu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **[Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** finansuje pulę nagród i pracę jury, **sponsor akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie, Archiwum i podcast. Partnerów jest w sumie siedmiu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
