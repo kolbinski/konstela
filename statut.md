@@ -54,7 +54,7 @@
 
 ## Rozdział III. Majątek i dochody
 
-**§ 12.** Majątek Fundacji stanowi fundusz założycielski w kwocie **[DO USTALENIA: kwota]** zł, w tym **[DO USTALENIA]** zł przeznaczone na działalność gospodarczą, oraz środki nabyte w toku działania. `[Księgowy odpowiedział 22.10.2026, że kwoty nie podpowie; pytanie przechodzi do biura obsługującego organizacje pozarządowe]`
+**§ 12.** Majątek Fundacji stanowi fundusz założycielski w kwocie **2 000** zł, w tym **1 000** zł przeznaczone na działalność gospodarczą, oraz środki nabyte w toku działania. `[Kwoty zaproponowane przez kancelarię 30.10.2026; 1 000 zł na działalność gospodarczą to minimum z art. 5 ust. 5 ustawy o fundacjach, a dla łącznej wysokości funduszu ustawa minimum nie przewiduje. Do potwierdzenia przy dopracowaniu statutu przed aktem notarialnym.]`
 
 **§ 13.** Dochody Fundacji pochodzą w szczególności z:
 1. darowizn, spadków i zapisów;
@@ -117,8 +117,18 @@
 
 **§ 23.** 
 1. Fundacja może prowadzić działalność gospodarczą w rozmiarach służących realizacji jej celów statutowych, jako działalność dodatkową w stosunku do działalności statutowej.
-2. Na działalność gospodarczą przeznacza się część funduszu założycielskiego w kwocie **[DO USTALENIA, nie mniej niż 1000 zł - art. 5 ust. 5 ustawy o fundacjach]**.
-3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności: **[DO USTALENIA: kody PKD - wydawanie książek, działalność wydawnicza, działalność w zakresie nagrań dźwiękowych i muzyczna, działalność związana z wystawianiem przedstawień i projekcją filmów, działalność edukacyjna, reklama]**. `[Kody wyłącznie z klasyfikacji PKD 2025 - część numeracji zmieniona, wzory krążące w internecie są nieaktualne (informacja GCOP, 23.10.2026). Do ustalenia na konsultacji prawnej w GCOP.]`
+2. Na działalność gospodarczą przeznacza się część funduszu założycielskiego w kwocie **1 000** zł.
+3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności:
+   1. **58.11.Z** - wydawanie książek, w tym antologii w wydaniu elektronicznym i drukowanym;
+   2. **58.19.Z** - pozostała działalność wydawnicza: publikacje, plakaty, katalogi i materiały towarzyszące;
+   3. **59.11.Z** - działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych;
+   4. **59.20.Z** - działalność w zakresie nagrań dźwiękowych i muzycznych;
+   5. **73.11.Z** - działalność agencji reklamowych, w zakresie odpłatnych świadczeń promocyjnych na rzecz sponsorów;
+   6. **82.30.Z** - działalność związana z organizacją targów, wystaw i kongresów;
+   7. **90.39.Z** - pozostała działalność wspomagająca działalność twórczą oraz związaną z wystawianiem przedstawień artystycznych;
+   8. **85.59.D** - pozostałe formy edukacji, gdzie indziej niesklasyfikowane, w zakresie warsztatów i zajęć o sztucznej inteligencji.
+
+   `[Kody z klasyfikacji PKD 2025, zaproponowane przez kancelarię 30.10.2026. Przychody sponsorskie kwalifikowane są jako działalność gospodarcza Fundacji, nie jako odpłatna działalność statutowa, co oznacza wpis także do rejestru przedsiębiorców.]`
 4. Dochód z działalności gospodarczej przeznaczany jest wyłącznie na cele statutowe.
 
 **§ 24.** Fundacja prowadzi gospodarkę finansową i rachunkowość zgodnie z obowiązującymi przepisami.
