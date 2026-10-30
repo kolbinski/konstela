@@ -155,7 +155,7 @@ Rola nie obejmuje czterech rzeczy, z których każda ma własny budżet i własn
 - **antologia** - e-book, audiobook, Archiwum i podcast;
 - **infrastruktura wspólna** - fundacja, znak towarowy, strona i narzędzia obsługujące wszystkie plebiscyty, w tym sam panel oceny jako program. Ta oferta finansuje jego utrzymanie w czasie oceny, nie jego wytworzenie.
 
-**Nie przyjmujemy finansowania od dostawców sztucznej inteligencji** w edycjach krajowych - konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty.
+**Nie przyjmujemy finansowania od dostawców modeli sztucznej inteligencji** w edycjach krajowych - konflikt interesów byłby zbyt oczywisty, skoro w zgłoszeniach pojawiają się ich produkty.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy</span>
 
@@ -163,7 +163,7 @@ Regulamin wymienia **trzy warunki, które muszą być spełnione łącznie**, ż
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Sponsora albo - według jego wyboru - przechodzi na kolejną edycję.
 
-Osobno regulamin przewiduje **próg po stronie uczestników**: jeżeli w terminie wpłynie mniej niż 12 zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane. Praca Akademii wykonana do tego dnia jest płatna, bo oceniający ją wykonali; reszta kwoty wraca.
+Osobno regulamin przewiduje **próg po stronie uczestników**: przy mniej niż 12 zgłoszeniach w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją i przy mniej niż 10 w pozostałych trzech edycja danego plebiscytu nie zostaje rozstrzygnięta, a nagrody nie są przyznawane. Praca Akademii wykonana do tego dnia jest płatna, bo oceniający ją wykonali; reszta kwoty wraca.
 
 **Ta rola ma przy tym zabezpieczenie, którego pozostałe nie mają: jeżeli zgłoszeń będzie mniej, niższa będzie też kwota.** Honoraria za obejrzenia i vouchery liczone są za wykonaną ocenę, nie za gotowość do niej. Sponsor, który obawia się, że przedsięwzięcie nie zbierze zapowiadanej liczby zgłoszeń, ponosi to ryzyko w swojej części automatycznie - i dlatego proponujemy wariant umowy ze stawkami jednostkowymi.
 

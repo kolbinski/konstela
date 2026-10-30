@@ -136,7 +136,7 @@ Regulamin wymienia 3 warunki, które muszą być spełnione łącznie, żeby nab
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Sponsora** albo, według jego wyboru, przechodzi na kolejną edycję.
 
-Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli w terminie wpłynie mniej niż 12 zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Sponsora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
+Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli po weryfikacji formalnej liczba zgłoszeń spełniających wymogi okaże się mniejsza niż 10, Organizator może nie rozstrzygnąć edycji; to samo dotyczy sytuacji, w której żadne zgłoszenie nie uzyska co najmniej 50 punktów według karty oceny, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Sponsora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
 Dwie pozycje mają tu własny los i mówimy o nim wprost. **Nagrania studyjne finansowane są dla finalistów, więc bez rozstrzygnięcia edycji nie powstają** i pozycja wraca do Sponsora w całości. **Hymn jest odwrotnie: powstaje i zostaje**, bo jego premiera wypada w czasie naboru, a nagranie i teledysk istnieją niezależnie od tego, ile zgłoszeń wpłynie.
 
@@ -179,7 +179,7 @@ Rola nie obejmuje:
 
 **Gotowe.** Regulaminy wszystkich 4 plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; regulamin plebiscytu piosenki rozstrzyga między innymi o granicach użycia AI i o obowiązkowym udziale czołowej trójki w gali. Strona plebiscytu działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plebiscytu), a statut fundacji gotowy w projekcie.
 
-**W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej 3 osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. **Udział w jury plebiscytu piosenki potwierdził Michał Sołtan** - kompozytor, wokalista, gitarzysta i producent - który zgodził się objąć przewodnictwo jury; potwierdzenie na piśmie uzgadniamy i do tego czasu podajemy tę informację z takim właśnie zastrzeżeniem. Pozostałych nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona.
+**W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej 3 osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. **Przewodnictwo jury plebiscytu piosenki jest uzgodnione z muzykiem, który zgodził się je objąć**; nazwiska nie podajemy, dopóki nie mamy pisemnego potwierdzenia, i ta sama zasada dotyczy pozostałych członków jury.
 
 **Przed nami.** Powołanie fundacji, konsultacja prawna regulaminu, wybór studia nagraniowego i ogłoszenie zakresu sesji, ustalenie honorariów jury oraz produkcja hymnu. Pozycje infrastrukturalne należą do budżetu uruchomienia i nie obciążają tej oferty.
 

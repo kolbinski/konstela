@@ -157,7 +157,7 @@ Regulamin wymienia **trzy warunki, które muszą być spełnione łącznie**, ż
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Sponsora** albo, według jego wyboru, przechodzi na kolejną edycję.
 
-Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli w terminie wpłynie mniej niż dziesięć zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Sponsora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
+Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli w terminie wpłynie mniej niż 10 zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Sponsora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
 Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: dziesiątka finalistów jest tu zarazem całą stawką, więc przy mniejszej liczbie zgłoszeń nie byłoby czego rozstrzygać. Mówimy o tym wprost również uczestnikom, na [stronie plebiscytu](/plebiscyt-filmu#czego-od-ciebie-wymagamy-i-dlaczego), razem z zapowiedzią dwóch wiadomości: w dniu otwarcia naboru oraz w dniu, w którym dziesięć zgłoszeń przechodzi weryfikację i rozstrzygnięcie edycji jest pewne.
 

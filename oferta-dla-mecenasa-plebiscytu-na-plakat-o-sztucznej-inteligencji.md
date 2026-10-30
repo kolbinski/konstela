@@ -131,7 +131,7 @@ Regulamin wymienia **trzy warunki, które muszą być spełnione łącznie, żeb
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję.
 
-Osobno regulamin przewiduje **próg po stronie uczestników: jeżeli w terminie wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Mecenasa albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
+Osobno regulamin przewiduje **próg po stronie uczestników: jeżeli w terminie wpłynie mniej niż 10 zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Mecenasa albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
 Umowa zawiera **klauzulę rozliczenia**: jeżeli prace nie zostaną wykonane w całości albo w części, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych, a kwota niewykorzystana wraca do Mecenasa albo przechodzi na kolejną edycję, według jego wyboru. Dotyczy to także pozycji transportu i ubezpieczenia przy mniejszej liczbie przysłanych oryginałów.
 

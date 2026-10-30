@@ -88,7 +88,7 @@ Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, 
 
 Warunki, od których zależy cała edycja, są trzy i muszą być spełnione łącznie, żeby nabór się otworzył: cała ogłaszana pula nagród ma pokrycie w środkach na rachunku Organizatora, co najmniej trzy osoby potwierdziły udział w jury i skład został ogłoszony, a regulamin przeszedł konsultację prawną.
 
-Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli w terminie wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta.** Gala wtedy się nie odbywa.
+Osobno regulamin przewiduje próg po stronie uczestników: **przy mniej niż 12 zgłoszeniach w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją i przy mniej niż 10 w pozostałych trzech dany plebiscyt nie zostaje rozstrzygnięty.** Plebiscyty są od siebie niezależne, więc gala odbywa się, dopóki rozstrzygnięty zostaje choć jeden z nich; nie odbywa się dopiero wtedy, gdy nie zostaje rozstrzygnięty żaden.
 
 W każdym z tych przypadków działa ta sama klauzula rozliczenia: Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Sponsora** albo - według jego wyboru - przechodzi na galę kolejnej edycji.
 

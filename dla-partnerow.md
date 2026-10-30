@@ -6,7 +6,7 @@
 
 ### Cztery plebiscyty Nagrody Konstela
 
-**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali:
+**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali:
 
 1. [Plebiscyt na najlepszą rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
 2. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
@@ -45,23 +45,23 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Sponsor nagród w plebiscycie na film o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów i honoraria jury.</p>
-<p class="wiecej"><a href="/plebiscyt-filmu">Czytaj więcej</a></p>
+<p>Nagrody dla laureatów, honoraria jury, Projektornia i zwiastuny finałowej piątki na gali.</p>
+<p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury, hymn z teledyskiem.</p>
-<p class="wiecej"><a href="/plebiscyt-piosenki">Czytaj więcej</a></p>
+<p>Nagrody dla laureatów, honoraria jury, sesje studyjne dziesiątki finalistów i hymn z teledyskiem.</p>
+<p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
-<h3>Sponsor nagród w plebiscycie na plakat o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury, transport i ubezpieczenie oryginałów prac finałowych.</p>
-<p class="wiecej"><a href="/plebiscyt-plakatu">Czytaj więcej</a></p>
+<h3>Mecenas plebiscytu na plakat o sztucznej inteligencji</h3>
+<p>Nagrody dla laureatów, honoraria jury, transport i ubezpieczenie oryginałów prac finałowych, wystawa przy gali oraz okładka antologii.</p>
+<p class="wiecej"><a href="/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Sponsor akademii</h3>
 <p>Pierwsza runda oceny <strong>we wszystkich plebiscytach</strong>: ludzie, którzy czytają zgłoszone rozmowy, oglądają filmy, słuchają piosenek i oglądają plakaty, zanim werdykt trafi do jury. Koszt rośnie wprost z liczbą ocenionych zgłoszeń, więc finansowanie da się oprzeć na świadczeniu rzeczowym – na przykład voucherze zakupowym za każde sto ocenionych zgłoszeń.</p>
-<p class="wiecej"><a href="/plebiscyt-rozmowy">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/oferta-dla-sponsora-akademii-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 </div>
 
@@ -116,7 +116,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <article>
 <h3>Sponsor gali</h3>
 <p><strong>Gala rozstrzygnięcia pierwszej edycji</strong>, wspólna dla wszystkich czterech plebiscytów: sala, technika i obsługa, oprawa artystyczna oraz rejestracja wideo i bezpłatne udostępnienie zapisu.</p>
-<p class="wiecej"><a href="/#gala-rozdania-nagrod">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/oferta-dla-sponsora-gali-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Prowadzący podcast</h3>
