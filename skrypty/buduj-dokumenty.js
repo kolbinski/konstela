@@ -236,7 +236,7 @@ const OPISY = {
   'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela':
     'Oferta dla Mecenasa Założycielskiego Nagrody Konstela: fundacja, znak towarowy, strona z wersją mobilną i trzy narzędzia obsługujące wszystkie plebiscyty. 198 380 zł netto, kosztorys i warunki.',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja':
-    'Oferta dla fundatora puli nagród w plebiscycie na rozmowę ze sztuczną inteligencją: 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu. Kwota, kosztorys, świadczenia i warunki.',
+    'Oferta dla fundatora puli nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu. Kwota, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-antologii-nagrody-konstela':
     'Mecenat Antologii Nagrody Konstela: kto finansuje bezpłatną antologię, publiczne Archiwum rozmów i podcast, ile to kosztuje, co Mecenas otrzymuje w zamian i czego propozycja nie obejmuje.',
   'dla-partnerow':

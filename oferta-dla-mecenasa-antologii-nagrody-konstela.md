@@ -29,7 +29,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 [Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
 
-Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na rozmowę z AI.
+Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na najlepszą rozmowę ze sztuczną inteligencją.
 
 Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
@@ -74,7 +74,7 @@ To jest to, co Mecenas finansuje: nie wydarzenie, tylko materiał, który po wyd
 
 ### Nagrody i kto je finansuje
 
-Pula nagród w plebiscycie na rozmowę z AI wynosi **371 000 zł brutto**:
+Pula nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją wynosi **371 000 zł brutto**:
 
 - **Nagroda główna** - 300 000 zł
 - **Drugie miejsce** - 40 000 zł
@@ -241,7 +241,7 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na rozmowę z AI](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 529 516,80 zł netto<small>pula 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 529 516,80 zł netto<small>pula 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 198 380 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 
 Sponsor akademii, sponsor gali, partner wydawniczy, partner galerii, partner dystrybucji filmów i patronat medialny nie mają jeszcze osobnych ofert; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.

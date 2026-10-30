@@ -859,7 +859,7 @@ Do tej pory `/dokument/<nazwa>` to był jeden plik `view.html`, który pobierał
 
 **Maj odrzucony.** Matura zaczyna się na początku maja, a sesje na uczelniach trwają do końca miesiąca - przy plebiscycie celującym w studentów szkół artystycznych i przy ścieżce edukacyjnej to najgorszy termin na galę z wystawą. Do tego nabór kolejnej edycji otwiera się na początku roku, więc im dalej gala od stycznia, tym dłużej nowy nabór trwa bez widocznego rozstrzygnięcia poprzedniego, a gala jest największą reklamą następnej edycji i wydania książkowego.
 
-**Przeliczony łańcuch plebiscytu na rozmowę:** okno rozmów cały 2027, zgłoszenia do 15 stycznia 2028, jury styczeń i luty, rozmowy weryfikacyjne luty, **zamknięcie treści antologii i przekazanie do produkcji 29 lutego 2028**, druk i wprowadzenie do dystrybucji marzec i pierwsza połowa kwietnia, gala i premiera druga połowa kwietnia.
+**Przeliczony łańcuch plebiscytu na najlepszą rozmowę ze sztuczną inteligencją:** okno rozmów cały 2027, zgłoszenia do 15 stycznia 2028, jury styczeń i luty, rozmowy weryfikacyjne luty, **zamknięcie treści antologii i przekazanie do produkcji 29 lutego 2028**, druk i wprowadzenie do dystrybucji marzec i pierwsza połowa kwietnia, gala i premiera druga połowa kwietnia.
 
 **Przeliczony łańcuch plakatu:** zamknięcie naboru koniec listopada 2027, ogłoszenie dziesiątki finalistów połowa grudnia 2027, oryginały u Organizatora do 20 stycznia 2028, oględziny i werdykt koniec stycznia, uzgodnienie okładki luty, przekazanie do produkcji 29 lutego, gala i wystawa druga połowa kwietnia. Nabór plakatów zamyka się więc o miesiąc wcześniej niż nabór rozmów, a nie o sześć tygodni, jak wychodziło przy gali marcowej.
 
@@ -1164,7 +1164,7 @@ Z podstrony zniknęła sekcja o etapie naboru (powtarzała to, co stoi w pierwsz
 
 **Dla zdjęcia metryki zgłoszenia:** rozbieżność z metryką jest podstawą wszczęcia wyjaśnień, a nie dowodem zmiany filmu. Zmiana samego tytułu albo miniatury niczego nie dowodzi, a różnica czasu trwania wymaga ustalenia, czy wynika ze zmiany treści, czy z dopuszczonej poprawki technicznej.
 
-## Recenzja plebiscytu na rozmowę z AI (26.10.2026)
+## Recenzja plebiscytu na najlepszą rozmowę ze sztuczną inteligencją (26.10.2026)
 
 Dwadzieścia sześć zarzutów, w tym kilkanaście sprzeczności między dokumentami. Najważniejsze rozstrzygnięcia:
 

@@ -4,7 +4,7 @@
 
 To jest dokument dla **oceniających** – członków jury, jury i akademii – opisujący, jak postępować ze zgłoszeniem, które może być problemem prawnym przy publikacji. Dotyczy tego, co trafia do Czytelni, Galerii, Projektorni i Archiwum, i na jakiej podstawie. Jest jawny z tego samego powodu, z którego jawne są karty oceny – uczestnik ma prawo wiedzieć, według czego jego zgłoszenie jest oglądane.
 
-Oceniasz zgłoszenia w jednym z plebiscytów Nagrody Konstela. Obok oceny merytorycznej masz w panelu jeszcze jedno zadanie: **oznaczyć zastrzeżenie, jeżeli w zgłoszeniu zobaczysz coś, co może być problemem prawnym przy publikacji**. Niniejsza procedura mówi, kiedy to zrobić, i jest dokumentem, o którym mówią regulaminy: § 8 ust. 3a lit. c1 [regulaminu plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy), § 8 ust. 4h [regulaminu plebiscytu na plakat](/dokument/regulamin-plakatu) oraz § 8 ust. 7 [regulaminu plebiscytu na film](/dokument/regulamin-filmu) oraz § 10 ust. 6a [regulaminu plebiscytu na piosenkę](/dokument/regulamin-piosenki).
+Oceniasz zgłoszenia w jednym z plebiscytów Nagrody Konstela. Obok oceny merytorycznej masz w panelu jeszcze jedno zadanie: **oznaczyć zastrzeżenie, jeżeli w zgłoszeniu zobaczysz coś, co może być problemem prawnym przy publikacji**. Niniejsza procedura mówi, kiedy to zrobić, i jest dokumentem, o którym mówią regulaminy: § 8 ust. 3a lit. c1 [regulaminu plebiscytu na najlepszą rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy), § 8 ust. 4h [regulaminu plebiscytu na plakat](/dokument/regulamin-plakatu) oraz § 8 ust. 7 [regulaminu plebiscytu na film](/dokument/regulamin-filmu) oraz § 10 ust. 6a [regulaminu plebiscytu na piosenkę](/dokument/regulamin-piosenki).
 
 Zadanie to powierzono oceniającym z jednego powodu: **i tak czytasz albo oglądasz każde zgłoszenie**. Przegląd prowadzony osobno przez organizatora nie skalowałby się wraz z liczbą zgłoszeń, a oznaczanie przez osoby, które zgłoszenie i tak mają przed sobą, rośnie razem z naborem.
 
@@ -26,7 +26,7 @@ Zadanie to powierzono oceniającym z jednego powodu: **i tak czytasz albo ogląd
 
 Lista jest **zamknięta**: to są wszystkie rutynowe rodzaje oznaczeń. Poza nimi możesz wskazać inny konkretny problem, na zasadach z rozdziału 4.
 
-### Plebiscyt na rozmowę ze sztuczną inteligencją
+### Plebiscyt na najlepszą rozmowę ze sztuczną inteligencją
 
 **R1. Dane osobowe osoby trzeciej.**
 

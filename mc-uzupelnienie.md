@@ -22,7 +22,7 @@ Szanowni Państwo,
 
 uzupełniam pismo z dnia 23 października 2026 roku o informację o zmianie kwot podanych w załączonej do niego nocie koncepcyjnej. Nie zmienia się ani przedmiot sprawy, ani treść prośby.
 
-Zmieniła się struktura nagród w plebiscycie na rozmowę ze sztuczną inteligencją. Nota wysłana w październiku podawała nagrodę główną 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł oraz siedem wyróżnień po 10 tys. zł, czyli pulę 395 tys. zł. Obecna drabinka to nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł oraz siedem wyróżnień po 3 tys. zł, czyli pula 371 tys. zł. Powód jest porządkowy: w poprzedniej wersji wyróżnienie było dwukrotnie wyższe od nagrody za trzecie miejsce, co odwracało kolejność nagród.
+Zmieniła się struktura nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją. Nota wysłana w październiku podawała nagrodę główną 300 tys. zł, drugie miejsce 20 tys. zł, trzecie 5 tys. zł oraz siedem wyróżnień po 10 tys. zł, czyli pulę 395 tys. zł. Obecna drabinka to nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł oraz siedem wyróżnień po 3 tys. zł, czyli pula 371 tys. zł. Powód jest porządkowy: w poprzedniej wersji wyróżnienie było dwukrotnie wyższe od nagrody za trzecie miejsce, co odwracało kolejność nagród.
 
 Poprawiłem również kwotę zakresu partnera wydawniczego, doprowadzając ją do zgodności z arkuszem budżetowym: zamiast ok. 233 tys. zł jest to ok. 292 tys. zł. Suma zakresów finansowania wynosi wobec tego ok. 839 tys. zł, wobec ok. 837 tys. zł podanych w październiku.
 

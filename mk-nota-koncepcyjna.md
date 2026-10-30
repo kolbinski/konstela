@@ -50,7 +50,7 @@ Podobnie jest z plebiscytem na film o sztucznej inteligencji, opisanym w [rozdzi
 
 Wszystkie trzy plebiscyty artystyczne odpowiadają na jedno pytanie - co w tej współpracy należy do człowieka i jak to rozpoznać - i wszystkie trzy traktuję jako równie potrzebne.
 
-## 3. Plebiscyt na rozmowę z AI
+## 3. Plebiscyt na najlepszą rozmowę ze sztuczną inteligencją
 
 ### Kryteria oceny
 
@@ -180,7 +180,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Fizyczne:** medal wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów. **Ten sam medal otrzymują zwycięzcy wszystkich plebiscytów Nagrody Konstela**, ponieważ jest to jedna nagroda przyznawana w kilku dziedzinach, a nie kilka osobnych nagród.
 
-Kwoty wymienione wyżej dotyczą wyłącznie plebiscytu na rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film); nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
+Kwoty wymienione wyżej dotyczą wyłącznie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film); nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
 
 **Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie.
 
@@ -252,11 +252,11 @@ Podana suma obejmuje wyłącznie pozycje obecnie wycenione. **Nie obejmuje koszt
 
 Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film) przy odpowiednich kosztorysach.
 
-Lista obejmuje wyłącznie pozycje objęte pytaniem. Plebiscyt na rozmowę ma własne pozycje czekające na wycenę - honoraria jury za ocenę, honoraria jury za etap przygotowawczy i ubezpieczenie OC organizatora - ale są one poza zakresem pytania i mają być finansowane z innych źródeł.
+Lista obejmuje wyłącznie pozycje objęte pytaniem. Plebiscyt na najlepszą rozmowę ze sztuczną inteligencją ma własne pozycje czekające na wycenę - honoraria jury za ocenę, honoraria jury za etap przygotowawczy i ubezpieczenie OC organizatora - ale są one poza zakresem pytania i mają być finansowane z innych źródeł.
 
 ## 7. Plebiscyt na piosenkę
 
-To jest ta część przedsięwzięcia, w odniesieniu do której pytam o drogę finansowania. Dlaczego nie jest ona oprawą artystyczną plebiscytu na rozmowę ze sztuczną inteligencją, lecz drugim postawieniem tej samej tezy, wyjaśnia [rozdział 2](#2-problem-ktory-adresujemy).
+To jest ta część przedsięwzięcia, w odniesieniu do której pytam o drogę finansowania. Dlaczego nie jest ona oprawą artystyczną plebiscytu na najlepszą rozmowę ze sztuczną inteligencją, lecz drugim postawieniem tej samej tezy, wyjaśnia [rozdział 2](#2-problem-ktory-adresujemy).
 
 Otwarty plebiscyt na utwór o sztucznej inteligencji i jej roli w świecie. Uczestnicy nadsyłają utwory własne: własny tekst, własną muzykę i własne wykonanie, przy czym dopuszczalne są zgłoszenia zespołowe, w których autor tekstu, kompozytor i wykonawca są różnymi osobami - zgłoszenie wskazuje wówczas osobę reprezentującą cały skład. Plebiscyt jest otwarty dla każdego, niezależnie od dorobku i pozycji rynkowej: oceniany jest utwór, a nie nazwisko.
 
@@ -268,7 +268,7 @@ Obowiązuje przy tym reguła dla tego plebiscytu zasadnicza, rozdzielająca wars
 
 Weryfikacja opiera się na oświadczeniu zgłaszającego oraz na możliwości przedstawienia materiałów roboczych przez finalistów, a nie na rozpoznaniu narzędzia przez jury podczas odsłuchu; przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w plebiscycie.
 
-Rozdzielenie to jest celowe i wynika wprost z tezy przedsięwzięcia. Plebiscyt o sztucznej inteligencji, w którym skomponować i zaśpiewać mogłaby sztuczna inteligencja, nie miałby sensu, ponieważ ocenianym wytworem jest sama piosenka. Zakaz posługiwania się nią przy pisaniu tekstu byłby natomiast sprzeczny z plebiscytem na rozmowę ze sztuczną inteligencją, w którym nagradzamy człowieka właśnie za rozmowę z takim narzędziem - za jego pytania i jego osąd, a nie za odpowiedzi programu.
+Rozdzielenie to jest celowe i wynika wprost z tezy przedsięwzięcia. Plebiscyt o sztucznej inteligencji, w którym skomponować i zaśpiewać mogłaby sztuczna inteligencja, nie miałby sensu, ponieważ ocenianym wytworem jest sama piosenka. Zakaz posługiwania się nią przy pisaniu tekstu byłby natomiast sprzeczny z plebiscytem na najlepszą rozmowę ze sztuczną inteligencją, w którym nagradzamy człowieka właśnie za rozmowę z takim narzędziem - za jego pytania i jego osąd, a nie za odpowiedzi programu.
 
 Nagroda premiuje świadome korzystanie z tych narzędzi, nie powstrzymywanie się od nich. Hymn przedsięwzięcia powstał tą samą drogą i jest to na stronie zadeklarowane tym samym zdaniem, którego wymagamy od zgłaszających.
 
@@ -592,7 +592,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 **2028 - ocena, antologia i gala**
 
 - zamknięcie zgłoszeń rozmów: 15 stycznia 2028
-- ocena jury w plebiscycie na rozmowę: styczeń i luty 2028
+- ocena jury w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: styczeń i luty 2028
 - rozmowy weryfikacyjne z autorami najwyżej ocenionych rozmów: pierwsza połowa lutego 2028
 - pierwsze przejście oceny filmów przez akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
 - oględziny oryginałów i werdykt jury plakatu: początek lutego 2028

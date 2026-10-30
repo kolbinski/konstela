@@ -15,7 +15,7 @@ Zasada nadrzędna, wspólna dla czterech plebiscytów: **formularz nie zbiera ni
 | Kod z wiadomości SMS | obowiązkowe | zgłoszenie niepotwierdzone kodem nie zostaje złożone |
 | Podpis publiczny: pseudonim zamiast imienia i nazwiska | nieobowiązkowe | przy filmie i piosence także nazwa składu twórczego |
 | Oświadczenie o prawach do zgłoszonego materiału | obowiązkowe | zaznaczenie pola |
-| Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech; w plebiscycie na rozmowę obejmuje także **wydanie dźwiękowe antologii** |
+| Oświadczenie o zapoznaniu się z regulaminem i zgoda na publikację zgłoszenia | obowiązkowe | publikacja jest warunkiem udziału we wszystkich czterech; w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją obejmuje także **wydanie dźwiękowe antologii** |
 | Deklaracja pochodzenia materiału | obowiązkowe | treść jest inna w każdej kategorii – patrz niżej |
 | Dlaczego warte nagrody głównej, czyli co sprawia, że warto przeczytać, obejrzeć, posłuchać albo zatrzymać się przy zgłoszeniu – do 700 znaków | obowiązkowe | **prezentowane publicznie** na ścianie kategorii (Czytelnia, Projektornia, Słuchalnia, Galeria) i w Archiwum; nie podlega punktacji w żadnym kryterium |
 

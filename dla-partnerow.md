@@ -8,7 +8,7 @@
 
 **Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI, o współistnienie ludzi i sztucznej inteligencji w epoce, która już się zaczęła. Dlatego Dlatego Nagroda ma cztery plebiscyty, rozstrzygane na tej samej gali:
 
-1. [Plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
+1. [Plebiscyt na najlepszą rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy)
 2. [Plebiscyt na film o sztucznej inteligencji](/plebiscyt-filmu)
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
@@ -39,7 +39,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 <div class="kafle">
 <article>
-<h3>Sponsor nagród w plebiscycie na rozmowę ze sztuczną inteligencją</h3>
+<h3>Sponsor nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją</h3>
 <p>Nagrody dla laureatów i honoraria jury.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja">Czytaj więcej</a></p>
 </article>

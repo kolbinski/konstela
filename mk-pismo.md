@@ -169,7 +169,7 @@ Rozkład kosztów na lata jest następujący:
 - **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
 - **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę kwietnia 2028 roku.
 
-Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: wysyłka oryginałów przypada na przełom 2027 i 2028 roku, a realizacja wystawy i przesyłki powrotne na 2028 rok.
+Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: wysyłka oryginałów przypada na przełom 2027 i 2028 roku, a realizacja wystawy i przesyłki powrotne na 2028 rok.
 
 ## Pytanie 4: który nabór wniosków wybrać i wydatki sprzed zawarcia umowy
 

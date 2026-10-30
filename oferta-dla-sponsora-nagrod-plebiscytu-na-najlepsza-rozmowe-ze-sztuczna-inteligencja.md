@@ -1,10 +1,10 @@
-# Oferta dla Sponsora nagród w plebiscycie na rozmowę ze sztuczną inteligencją
+# Oferta dla Sponsora nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
 ## <!--ikona:puchar--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który ufunduje pulę nagród w plebiscycie na rozmowę ze sztuczną inteligencją - 371 000 zł brutto dla laureatów - wraz z oceną zgłoszeń i promocją naboru.**
+**Szukamy partnera, który ufunduje pulę nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją - 371 000 zł brutto dla laureatów - wraz z oceną zgłoszeń i promocją naboru.**
 
 Jest to rola najbardziej widoczna w całym przedsięwzięciu. O nagrodzie piszą media, nagrodę wymienia się w każdej wzmiance o plebiscycie, a wysokość puli jest tym, co decyduje, czy w ogóle napiszą.
 
@@ -23,7 +23,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 [Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających. Pełne zasady opisuje [strona plebiscytu](/plebiscyt-rozmowy) i [regulamin](/dokument/regulamin-rozmowy).
 
-Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta oferta dotyczy wyłącznie plebiscytu na rozmowę.
+Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta oferta dotyczy wyłącznie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją.
 
 Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 

@@ -254,7 +254,7 @@ Pracę wolno sprzedać i udział w plebiscycie tego nie ogranicza. Są na to dwi
 
 ### Nagradzamy człowieka, nie maszynę
 
-**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Od tego zaczęła się cała Nagroda i to jest jej rdzeń: [plebiscyt na rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy).
+**Coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją.** Nagradzany jest człowiek, a nie AI, bo oceniane są pytania, a nie odpowiedzi. Od tego zaczęła się cała Nagroda i to jest jej rdzeń: [plebiscyt na najlepszą rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy).
 
 ### Dotąd nagradzano maszyny w rozmowach z ludźmi
 
@@ -292,7 +292,7 @@ Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** 
 
 <dl class="harmonogram">
 <div><dt>2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
-<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na rozmowę, bo antologia musi zdążyć do druku</small></dd></div>
+<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, bo antologia musi zdążyć do druku</small></dd></div>
 <div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały</small></dd></div>
 <div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginałów<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>

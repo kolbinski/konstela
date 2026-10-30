@@ -21,7 +21,7 @@ Z jednego szablonu powstaje pięć plików:
 | plik | gdzie użyty |
 |---|---|
 | `assets/og.png` | strona główna i wszystkie strony bez własnego obrazka |
-| `assets/og-rozmowy.png` | plebiscyt na rozmowę i jego strona jury |
+| `assets/og-rozmowy.png` | plebiscyt na najlepszą rozmowę ze sztuczną inteligencją i jego strona jury |
 | `assets/og-filmu.png` | plebiscyt na film i jego strona jury |
 | `assets/og-piosenki.png` | plebiscyt na piosenkę, jego strona jury oraz hymn |
 | `assets/og-plakatu.png` | plebiscyt na plakat i jego strona jury |

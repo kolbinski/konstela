@@ -6,7 +6,7 @@ Wszystkie cztery dokumenty czekają jeszcze na przegląd prawny, więc część 
 
 ## <!--ikona:dokument--><span>Cztery regulaminy</span>
 
-**[Regulamin plebiscytu na rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy)**
+**[Regulamin plebiscytu na najlepszą rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy)**
 Nagroda główna i dziesiątka antologii. Zgłoszeniem jest link do rozmowy, oceniane są pytania, a nie odpowiedzi. Zawiera kartę oceny jako załącznik oraz zasady Czytelni i Archiwum.
 
 **[Regulamin plebiscytu na film o sztucznej inteligencji](/dokument/regulamin-filmu)**

@@ -32,7 +32,7 @@ Tytuł serii: **Konstelacje**, z rocznikiem w nazwie tomu. Kolejne tomy co roku.
 ## Materiały źródłowe
 
 - Nagroda Konstela: [konstela.org](https://konstela.org)
-- plebiscyt na najlepszą rozmowę: [konstela.org/plebiscyt-rozmowy](https://konstela.org/plebiscyt-rozmowy/)
+- plebiscyt na najlepszą rozmowę ze sztuczną inteligencją: [konstela.org/plebiscyt-rozmowy](https://konstela.org/plebiscyt-rozmowy/)
 - regulamin wraz z kartą oceny: [konstela.org/dokument/regulamin-rozmowy](https://konstela.org/dokument/regulamin-rozmowy/#karta-oceny)
 
 ---

@@ -12,7 +12,7 @@
 
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu naboru. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat.
 
-5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na rozmowę ze sztuczną inteligencją, na piosenkę o niej i na plakat o niej, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
+5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na najlepszą rozmowę ze sztuczną inteligencją, na piosenkę o niej i na plakat o niej, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
 
 
 ## § 1a. Ustalenie werdyktu a jego publiczne ogłoszenie
@@ -34,9 +34,9 @@
 
 2. **Przesunięcie gali.** Organizator może przesunąć galę wyłącznie z przyczyn od siebie niezależnych – w szczególności niedostępności miejsca, decyzji organu władzy publicznej albo zdarzenia losowego uniemożliwiającego jej przeprowadzenie – ogłaszając to na stronie Nagrody wraz z nową datą. Komunikat wskazuje skutki przesunięcia dla: zamknięcia głosowania publiczności, terminów wypłaty nagród, czasu pozostawania materiałów i oryginałów u Organizatora oraz obowiązku poufności (§ 1a ust. 3).
 
-2a. **Przesunięcie z przyczyn proceduralnych w innym plebiscycie.** Wspólna gala może zostać przesunięta również wskutek uruchomienia procedur oceny określonych w regulaminie plebiscytu na rozmowę ze sztuczną inteligencją – przesunięcia terminów oceny albo przekroczenia przepustowości rundy pierwszej. Każde takie przesunięcie podlega zasadom z ust. 2 i granicy z ust. 3.
+2a. **Przesunięcie z przyczyn proceduralnych w innym plebiscycie.** Wspólna gala może zostać przesunięta również wskutek uruchomienia procedur oceny określonych w regulaminie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją – przesunięcia terminów oceny albo przekroczenia przepustowości rundy pierwszej. Każde takie przesunięcie podlega zasadom z ust. 2 i granicy z ust. 3.
 
-2b. **Odrębność plebiscytów.** Nierozstrzygnięcie plebiscytu na rozmowę **nie powoduje nierozstrzygnięcia niniejszego plebiscytu**; jego wyniki ogłasza się wtedy na zasadach z ust. 3.
+2b. **Odrębność plebiscytów.** Nierozstrzygnięcie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją **nie powoduje nierozstrzygnięcia niniejszego plebiscytu**; jego wyniki ogłasza się wtedy na zasadach z ust. 3.
 
 3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy – zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą – wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca – nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
 

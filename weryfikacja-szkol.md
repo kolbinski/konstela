@@ -1,6 +1,6 @@
 # Weryfikacja szkół przy Nagrodzie Uczniowskiej
 
-Dokument roboczy: jak działa potwierdzanie, że grupę czytającą zgłasza naprawdę szkoła, i co trzeba zbudować, żeby działało to od pierwszej edycji. Zasada jest w regulaminie plebiscytu na rozmowę (§ 8 ust. 2a lit. a1); tutaj jest wykonanie.
+Dokument roboczy: jak działa potwierdzanie, że grupę czytającą zgłasza naprawdę szkoła, i co trzeba zbudować, żeby działało to od pierwszej edycji. Zasada jest w regulaminie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją (§ 8 ust. 2a lit. a1); tutaj jest wykonanie.
 
 ## Zasada
 

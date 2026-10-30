@@ -18,7 +18,7 @@ Po złożeniu pisma podniosłem nagrody publiczności z 4 000,00 zł do 12 000,0
 
 Rozstrzygnięcie to wynika z jednej zasady: głos publiczności ma ważyć tyle samo niezależnie od dziedziny. Nagrody publiczności finansuje w każdym plebiscycie jego własny sponsor, co zachowuje niezależność poszczególnych plebiscytów od siebie.
 
-Odnotowuję przy tym dwie zmiany **poza zakresem pytania**, dla pełności obrazu: Nagroda Uczniowska w plebiscycie na rozmowę otrzymała kwotę 10 000,00 zł brutto, a część wydawnicza rozszerzyła się o wydanie dźwiękowe antologii, opisane niżej. Obie mieszczą się w budżetach finansowanych z innych źródeł i nie wchodzą do kwoty, o którą pytam.
+Odnotowuję przy tym dwie zmiany **poza zakresem pytania**, dla pełności obrazu: Nagroda Uczniowska w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją otrzymała kwotę 10 000,00 zł brutto, a część wydawnicza rozszerzyła się o wydanie dźwiękowe antologii, opisane niżej. Obie mieszczą się w budżetach finansowanych z innych źródeł i nie wchodzą do kwoty, o którą pytam.
 
 Suma wszystkich pozycji obecnie wycenionych w całym przedsięwzięciu wynosi dziś **1 793 466,80 zł** wobec 1 665 626,80 zł podanych w piśmie. Wzrost poza zakresem pytania obejmuje także instalowalną wersję mobilną strony, opisaną niżej. Aktualne liczby w każdej chwili pokazuje [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej), do którego pismo się odwołuje, oraz załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania).
 
@@ -30,7 +30,7 @@ Nagranie czyta trzech lektorów: osobny głos przypada wypowiedziom uczestnika, 
 
 Wydanie dźwiękowe poszerza krąg odbiorców o osoby niewidome i słabowidzące oraz osoby z trudnościami w czytaniu, a nauczycielowi daje materiał, który można odtworzyć na zajęciach. Uzupełnia to rozwiązania opisane w rozdziale 13 noty koncepcyjnej.
 
-Rozszerzenie wymagało zmiany regulaminu przed otwarciem naboru. Licencja udzielana przez uczestników wymieniała pola eksploatacji bez zapisu dźwiękowego, a wydanie elektroniczne go nie obejmuje; § 11 ust. 3 regulaminu plebiscytu na rozmowę wymienia obecnie utrwalenie i zwielokrotnienie techniką zapisu dźwiękowego wraz z rozpowszechnianiem nagrania. Zgoda przedstawiciela ustawowego, wymagana przy uczestnikach niepełnoletnich, obejmuje wydanie dźwiękowe w zakresie dotyczącym antologii.
+Rozszerzenie wymagało zmiany regulaminu przed otwarciem naboru. Licencja udzielana przez uczestników wymieniała pola eksploatacji bez zapisu dźwiękowego, a wydanie elektroniczne go nie obejmuje; § 11 ust. 3 regulaminu plebiscytu na najlepszą rozmowę ze sztuczną inteligencją wymienia obecnie utrwalenie i zwielokrotnienie techniką zapisu dźwiękowego wraz z rozpowszechnianiem nagrania. Zgoda przedstawiciela ustawowego, wymagana przy uczestnikach niepełnoletnich, obejmuje wydanie dźwiękowe w zakresie dotyczącym antologii.
 
 Produkcję wyceniam na 40 000,00 zł netto przy około dziesięciu godzinach gotowego nagrania. Pozycja ta należy do budżetu części wydawniczej, finansowanej przez mecenasa antologii, i **nie wchodzi do kwoty objętej moim pytaniem**.
 
