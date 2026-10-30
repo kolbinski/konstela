@@ -7,6 +7,18 @@ Lista robocza, nie dokument do wysłania. Rozstrzygnięcia merytoryczne są w `k
 - [ ] **Wysłać list do Andrzeja Wodzyńskiego (Grupa Tubądzin).** List na papierze firmowym, do koperty wydruk strony [oferta dla sponsora antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela), przesyłka polecona. Oferta jest skończona: przeszła dwa przeglądy, ma kwotę 162 162 zł netto (koszty wspólne wyszły do Budżetu Uruchomienia), płatność etapami po odbiorze, jawność wykonawcy prac, klauzulę frekwencyjną, wyłączność w kategorii, stan przygotowań i podpisany list intencyjny wydawcy. Szczegóły w `list-do-wodzynskiego-notatki.md`. **To jedyny żywy trop sponsorski; każda dalsza poprawka oferty jest szlifowaniem czegoś, czego nikt nie przeczytał.**
 - [ ] **Odpowiedzieć Universitas** na podpisany list intencyjny. Treść przygotowana w rozmowie z 30.10. Zawiera zastrzeżenie, że prawa do wydania dźwiękowego zostają przy fundacji - im wcześniej padnie, tym mniej kosztuje przy negocjacjach w 2028.
 - [ ] **Wysłać DM do Matyldy Damięckiej** w sprawie jury plebiscytu plakatu. Treść przygotowana 28.10, wysyłka obsuwa się trzeci dzień.
+- [ ] **Wysłać odpowiedź do kancelarii (Marcin Mickun).** Sześć pytań, z czego dwa blokują kosztorys: wycena dopracowania statutu, dziś bez żadnej pozycji, oraz wycena konsultacji regulaminu, dziś 6 000 zł bez potwierdzenia. Treść przygotowana 30.10.
+
+## Dług, który zaciągnęły oferty
+
+Oferta założycielska obiecuje cztery dokumenty **przed jakimkolwiek zobowiązaniem** partnera. Żaden z nich nie istnieje. Dopóki nikt nie poprosi, nie trzeba ich pisać - ale od chwili, gdy ktoś odpowie na ofertę, są one drogą krytyczną, więc lepiej wiedzieć, co jest do zrobienia:
+
+- [ ] **Projekt umowy właściwej** wraz z etapami, odbiorem, datą graniczną 31 grudnia 2027, trybem zamknięcia i publikacją kodu na licencji MIT.
+- [ ] **Specyfikacja odbiorowa** - lista sprawdzeń dla skrapera, weryfikacji formalnej, panelu oceny i wersji mobilnej, napisana tak, by dało się ją przejść bez znajomości kodu.
+- [ ] **Kalkulacja zakupów** - imienna lista dostawców infrastruktury i narzędzi AI z cenami, okresami i pojemnościami. Powiązana z `dostawcy-uslug.md`, która czeka na te same decyzje.
+- [ ] **Skład Rady Fundacji z nazwiskami**, w tym co najmniej jedna osoba z kompetencjami technicznymi. Jedyna rozmowa w tej sprawie to Tomasz Turczynowicz, 22.10.
+
+Do tego dwa szkice umów opisanych w ofercie: **umowa przedwstępna z zadatkiem** i **umowa na czynności przygotowawcze**. Obie są pytaniem numer cztery do kancelarii.
 
 ## Przyszły tydzień
 
