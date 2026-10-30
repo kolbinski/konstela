@@ -684,6 +684,38 @@
         /* Tytuł dokumentu w rozmiarze ekranowym zajmowałby jedną trzecią
            pierwszej strony - na papierze i w załączniku PDF ma być
            nagłówkiem pisma, a nie plakatem. */
+        /* Łamanie stron. Nagłówek nie zostaje sam na dole strony, wiersz
+           tabeli nie pęka w połowie, a akapit nie zostawia pojedynczej linii
+           po drugiej stronie łamania. */
+        #content h1,
+        #content h2,
+        #content h3 {
+          break-after: avoid;
+          page-break-after: avoid;
+          break-inside: avoid;
+        }
+        #content p,
+        #content li {
+          orphans: 3;
+          widows: 3;
+        }
+        /* Lista zostaje przy zapowiadającym ją akapicie: bez tego strona
+           potrafi skończyć się wierszem "Przed nami:", a wyliczenie zaczyna
+           się dopiero po łamaniu. */
+        #content ul,
+        #content ol,
+        #content dl.harmonogram,
+        #content table {
+          break-before: avoid;
+          page-break-before: avoid;
+        }
+        #content tr,
+        #content li,
+        #content dl.harmonogram > div {
+          break-inside: avoid;
+          page-break-inside: avoid;
+        }
+
         #content h1 {
           font-size: 20pt;
           line-height: 1.2;
