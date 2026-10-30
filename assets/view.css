@@ -661,6 +661,9 @@
         #czytelnosc,
         #do-gory,
         #content .akcje,
+        /* Przerywniki rozdzielające sekcje są ozdobą ekranową; na papierze
+           i w PDF-ie rolę rozdzielacza pełni sam nagłówek i światło nad nim. */
+        #content .divider,
         konstela-stopka {
           display: none !important;
         }
