@@ -16,7 +16,9 @@ Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: k
 
 ## <!--ikona:dokument--><span>Przedmiot mecenatu</span>
 
-**Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz jury**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Planowane jest także wydanie drukowane.
+**Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz jury**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze.
+
+Granica przy wydaniu książkowym przebiega tak: **mecenat finansuje powstanie treści** - redakcję, korektę, skład, przygotowanie do druku i bezpłatny e-book, czyli wszystko to, z czego książka jest zrobiona. **Nakład handlowy i wprowadzenie go do księgarń bierze na siebie partner wydawniczy**, osobna rola osobnego podmiotu, z którym rozmowy są w toku. W kosztorysie poniżej jest tylko krótki nakład na galę i tylko warunkowo: drukujemy go, jeżeli wydanie księgarskie nie będzie gotowe na dzień premiery. Mecenas jest wymieniony w każdym wydaniu niezależnie od tego, kto je wydrukował.
 
 **Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z przeglądaniem według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność.
 
