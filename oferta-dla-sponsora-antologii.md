@@ -8,7 +8,7 @@
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
-Mecenat jest jedną z dwóch osobnych ról finansujących pierwszą edycję. **Fundator nagrody** finansuje pulę nagród i galę. **Mecenas Antologii** finansuje wydanie i Archiwum. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** finansuje pulę nagród i ocenę zgłoszeń, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie, Archiwum i podcast. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -103,7 +103,7 @@ Granica przy wydaniu książkowym przebiega tak: **mecenas antologii finansuje p
 
 **Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty przekazujemy nieodpłatnie mediom i instytucjom edukacyjnym.
 
-Przy podcaście mówimy od razu, czego kwota z tej oferty nie obejmuje. Mieści się w niej **koordynacja podcastu** - pozyskiwanie gości, terminy i publikacja, 72 godziny pracy - natomiast **produkcja odcinków nie jest jeszcze wyceniona**. Zależy od decyzji o formacie: sam dźwięk czy także wersja wideo, studio czy nagrania zdalne, wysokość honorarium prowadzącego. W kosztorysie poniżej pozycja ta figuruje jako "do wyceny" i zostanie policzona po ustaleniu formatu, a kwota wymaga wtedy osobnego uzgodnienia. Wolimy powiedzieć to wprost, niż wpisać liczbę wziętą z sufitu.
+Przy podcaście mówimy od razu, czego kwota z tej oferty nie obejmuje. Mieści się w niej **koordynacja podcastu** - pozyskiwanie gości, terminy i publikacja, 72 godziny pracy - natomiast **produkcja odcinków nie jest jeszcze wyceniona**. Zależy od decyzji o formacie: sam dźwięk czy także wersja wideo, studio czy nagrania zdalne, wysokość honorarium prowadzącego. W kosztorysie poniżej pozycja ta figuruje jako „do wyceny" i zostanie policzona po ustaleniu formatu, a kwota wymaga wtedy osobnego uzgodnienia. Wolimy powiedzieć to wprost, niż wpisać liczbę wziętą z sufitu.
 
 Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokazuje przegląd opracowań opisany wyżej - nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
@@ -162,7 +162,7 @@ Propozycja dotyczy pierwszej edycji. Nagroda jest przedsięwzięciem corocznym i
 
 Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść komentarzy jury dla najlepszych rozmów ze sztuczną inteligencją; niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji. Mecenat nie obejmuje puli nagród ani gali - to odrębna rola odrębnego partnera. Mecenas nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
-Honoraria akademii i jury, pula nagród, gala i jej oprawa są finansowane poza tą propozycją, przez fundatora nagrody.
+Honoraria akademii i jury oraz pula nagród są finansowane poza tą propozycją, przez fundatora nagrody i sponsora akademii; gala wraz z oprawą ma własnego sponsora.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
@@ -179,9 +179,9 @@ Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telew
 
 ## <!--ikona:waga--><span>Co dokładnie dostarczamy</span>
 
-Antologia w formatach EPUB i PDF, do pobrania ze strony konstela.org bez rejestracji i bez opłat, plus wydanie drukowane w nakładzie stu egzemplarzy.
+Antologia w formatach EPUB i PDF, do pobrania ze strony konstela.org bez rejestracji i bez opłat. Do tego wydanie drukowane: z nakładu partnera wydawniczego, a gdyby ten nie zdążył na premierę - krótki nakład stu egzemplarzy wydrukowany przez Organizatora.
 
-Archiwum obejmuje wszystkie rozmowy zakwalifikowane do drugiej rundy oceny, czyli do oceny jury, które spełniają warunki publikacji określone w regulaminie. Liczby nie gwarantujemy, bo zależy ona od liczby i jakości zgłoszeń.
+Archiwum obejmuje wszystkie rozmowy, które przeszły weryfikację formalną i spełniają warunki publikacji określone w regulaminie - nie tylko te ocenione wysoko. Liczby nie gwarantujemy, bo zależy ona od liczby zgłoszeń.
 
 Oprogramowanie powstaje na rzecz fundacji-organizatora, która nabywa do niego prawa i odpowiada za jego utrzymanie w kolejnych edycjach. Mecenas nie nabywa praw do oprogramowania ani nie ponosi kosztów jego utrzymania po pierwszej edycji.
 
