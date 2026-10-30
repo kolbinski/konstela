@@ -125,6 +125,15 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 - [regulaminy czterech plebiscytów](/regulaminy)
 - [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej)
 
+## <!--ikona:wspolpraca--><span>Pozostałe role przy pierwszej edycji</span>
+
+Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
+
+- **[Fundator nagród w plebiscycie na rozmowę z AI](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 529 516,80 zł netto<small>pula 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 180 362 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+
+Sponsor akademii, sponsor gali, partner wydawniczy, partner galerii, partner dystrybucji filmów i patronat medialny nie mają jeszcze osobnych ofert; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.
+
 ## <!--ikona:koperta--><span>Kontakt</span>
 
 Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism.

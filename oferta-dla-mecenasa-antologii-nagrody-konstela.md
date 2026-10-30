@@ -237,6 +237,15 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 **Umowę mecenatu podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Koszt powołania fundacji jest pierwszą pozycją kosztorysu i do czasu podpisania umowy ponosi go Organizator z własnych środków; rozliczany jest po jej zawarciu. Dzięki temu Mecenas przelewa środki podmiotowi, który istnieje, ma numer KRS i statut ograniczający go do prowadzenia Nagrody. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
 
+## <!--ikona:wspolpraca--><span>Pozostałe role przy pierwszej edycji</span>
+
+Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
+
+- **[Fundator nagród w plebiscycie na rozmowę z AI](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 529 516,80 zł netto<small>pula 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 198 380 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+
+Sponsor akademii, sponsor gali, partner wydawniczy, partner galerii, partner dystrybucji filmów i patronat medialny nie mają jeszcze osobnych ofert; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.
+
 ## <!--ikona:koperta--><span>Kontakt</span>
 
 Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism. Jeżeli zakres w tej postaci jest dla Państwa za szeroki, powiedzcie, którą jego część widzicie u siebie; antologię, Archiwum i podcast da się rozdzielić między partnerów.
