@@ -38,7 +38,15 @@ Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu w
 
 ### Nagrody i kto je finansuje
 
-Pula nagród w plebiscycie na rozmowę z AI wynosi **371 000 zł brutto**: nagroda główna 300 000 zł, drugie miejsce 40 000 zł, trzecie 10 000 zł oraz siedem wyróżnień po 3 000 zł. Osobno stoi nagroda publiczności w wysokości 3 000 zł. Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.
+Pula nagród w plebiscycie na rozmowę z AI wynosi **371 000 zł brutto**:
+
+- **Nagroda główna** - 300 000 zł
+- **Drugie miejsce** - 40 000 zł
+- **Trzecie miejsce** - 10 000 zł
+- **Siedem wyróżnień** - po 3 000 zł
+- **Nagroda publiczności** - 3 000 zł, poza pulą powyżej
+
+Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.
 
 Wysokość nagrody głównej nie wzięła się z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana. Te same 100 000 zł z 1997 roku odpowiada dziś około **315 000 zł** według indeksu cen konsumpcyjnych, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **300 000 zł przywraca skalę, którą polskie nagrody miały trzydzieści lat temu** - i to jest jedyny powód, dla którego kwota jest tak wysoka.
 
