@@ -184,7 +184,7 @@ Rozliczenie: w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otr
 
 ## <!--ikona:zasady--><span>Kto odpowiada</span>
 
-Organizatorem jest fundacja powołana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
+Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
 
 ## <!--ikona:koperta--><span>Rozmowa</span>
 
