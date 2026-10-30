@@ -251,5 +251,3 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 Krzysztof Olbiński  
 +48 503 520 004  
 wspolpraca@konstela.org
-
-<p class="edition">Wersja z 30 października 2026</p>
