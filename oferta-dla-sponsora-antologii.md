@@ -194,12 +194,12 @@ Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynato
 
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
-Tytuł **Mecenasa Antologii** we wszystkich wydaniach antologii pierwszej edycji - elektronicznym, drukowanym i każdym późniejszym dodruku. Ponieważ narzędzia powstałe za te pieniądze będą służyć wszystkim przyszłym edycjom, Mecenasowi przysługuje dodatkowo tytuł **Mecenasa Założycielskiego**, wymieniany w prologu każdej kolejnej antologii, również w edycjach następnych. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody.
+Tytuł **Mecenasa Antologii** we wszystkich wydaniach antologii pierwszej edycji - elektronicznym, drukowanym, dźwiękowym i każdym późniejszym dodruku. W audiobooku oznacza to odczytanie nazwy Mecenasa w zapowiedzi otwierającej nagranie oraz jej umieszczenie w opisie pliku, bo strony redakcyjnej nagranie nie ma. Ponieważ narzędzia powstałe za te pieniądze będą służyć wszystkim przyszłym edycjom, Mecenasowi przysługuje dodatkowo tytuł **Mecenasa Założycielskiego**, wymieniany w prologu każdej kolejnej antologii, również w edycjach następnych i również w nagraniu. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody.
 
 Poza tytułem Mecenas otrzymuje:
 
 - **Logo** na stronie konstela.org przez cały okres edycji oraz na stronie redakcyjnej antologii.
-- **Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia** - o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię - oraz ogłoszenie premiery wydania elektronicznego.
+- **Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia** - o tym, dlaczego firma postanowiła sfinansować bezpłatną antologię - oraz ogłoszenie premiery wydania elektronicznego i audiobooka.
 - **Egzemplarze autorskie wydania drukowanego**, z podpisami jury, w liczbie do uzgodnienia.
 - **Wymienienie w materiałach prasowych** i w sprawozdaniu z edycji.
 - **Prawo używania tytułu we własnej komunikacji** - w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych - wraz z pakietem gotowych materiałów: znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
@@ -208,7 +208,7 @@ Poza tytułem Mecenas otrzymuje:
 
 Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają książkę na scenie, a podpisy jury zbierane są tego samego wieczoru na egzemplarzach. Gdyby wydanie księgarskie nie zdążyło na premierę, laureaci otrzymują podpisane na gali ekslibrisy - osobne karty wklejane do egzemplarza, który dociera do nich pocztą.
 
-Nazwa Mecenasa pozostaje w antologii trwale: w każdym wydanym egzemplarzu i w każdym pobranym pliku, bez względu na to, jak długo Organizator będzie ją udostępniał na swojej stronie. Uczestnicy udzielają Organizatorowi licencji na pięć lat; udostępnianie przez stronę Nagrody gwarantujemy na ten okres, a dalsze zależy od brzmienia licencji po konsultacji prawnej. Egzemplarzy już wydanych i plików już pobranych nie dotyczy to w żadnym stopniu. To jest różnica między sponsoringiem wydarzenia a mecenatem publikacji: wydarzenie się kończy, a wydana książka zostaje.
+Nazwa Mecenasa pozostaje w antologii trwale: w każdym wydanym egzemplarzu, w każdym pobranym pliku i w każdym odsłuchanym nagraniu, bez względu na to, jak długo Organizator będzie ją udostępniał na swojej stronie. Uczestnicy udzielają Organizatorowi licencji na pięć lat; udostępnianie przez stronę Nagrody gwarantujemy na ten okres, a dalsze zależy od brzmienia licencji po konsultacji prawnej. Egzemplarzy już wydanych i plików już pobranych nie dotyczy to w żadnym stopniu. To jest różnica między sponsoringiem wydarzenia a mecenatem publikacji: wydarzenie się kończy, a wydana książka zostaje.
 
 **Wyłączność w kategorii.** Przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej - ani fundatora puli nagród, ani sponsora gali, ani mecenasa pozostałych plebiscytów. Żaden inny partner nie otrzyma też tytułu zawierającego słowo „Mecenas".
 
