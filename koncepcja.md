@@ -611,6 +611,27 @@ Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesi
 **Ścieżka dalsza.** Uczniowska akademia jest naturalnym zapleczem akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w plebiscycie jako uczestnik, albo czytanie jako członek akademii. Obu ról naraz pełnić nie można.
 
 
+## Ministerstwo Kultury i Dziedzictwa Narodowego - pakiet wysłany 30.10.2026
+
+**Wysłane 30 października 2026 roku, przez e-Doręczenia.** Temat: „Nagroda Konstela 2027-2028 - prośba o pisemne stanowisko i o wskazanie właściwego programu finansowania części artystycznej". Treść wiadomości przewodniej w `mk-list.md`, pismo w `mk-pismo.md`.
+
+Pięć załączników, w nazwach bez dat, bo numeracja porządkuje je sama, a data wysyłki jest w potwierdzeniu e-Doręczeń:
+
+1. `1-Konstela-pismo.pdf` - 10 stron
+2. `2-Konstela-nota-koncepcyjna.pdf` - 31 stron
+3. `3-Konstela-zestawienie-zadania.xlsx` - z kolumnami „Koszt 2027" i „Koszt 2028"
+4. `4-Konstela-budzet-edycji-pierwszej.xlsx` - siedem zakładek, każda pozycja z rokiem kosztu
+5. `5-Konstela-projekt-listu-intencyjnego.docx` - jedna strona, do swobodnej zmiany
+
+**O co pismo pyta.** Dwie sprawy rozstrzygane niezależnie: wydanie listu intencyjnego oraz wskazanie właściwego programu dla części artystycznej. W ramach drugiej pięć pytań formalnych: właściwy program, status wnioskodawcy wraz z dopuszczalnością wynagrodzenia organizatora, zadanie dwuletnie 2027-2028, wybór naboru i wydatki sprzed umowy, wymagany udział środków z innych źródeł. Pismo prosi wprost o rozstrzyganie każdej sprawy osobno, bez zasady wszystko albo nic.
+
+**Kwoty w pakiecie.** Zakres objęty pytaniem: 660 952,00 zł, w tym 157 360,00 zł na 2027 i 503 592,00 zł na 2028. Wszystkie pozycje obecnie wycenione: 1 665 626,80 zł. Pozycje oznaczone jako „do wyceny" i „do ustalenia" są wypisane w nocie i nie wchodzą do tych sum.
+
+**Czego w piśmie świadomie nie ma.** Informacji, że analogiczne prośby poszły wcześniej do Ministerstwa Cyfryzacji i Ministerstwa Edukacji Narodowej - zdanie „nie otrzymałem odpowiedzi" działałoby przeciwko nam. Wracamy do tego przy pierwszej przychylnej odpowiedzi któregokolwiek z resortów, bo wtedy zdanie brzmi odwrotnie.
+
+**Co dalej.** Bez reakcji do **27 listopada 2026** telefon do kancelarii z pytaniem o znak sprawy i o właściwy departament. Przy pierwszym kontakcie zwrotnym warto pamiętać, że naborów do Programów Ministra na 2027 rok nie ogłoszono, a System Obsługi Programów pozostaje wyłączony po incydencie z 6 października 2026 - pismo o to pyta w pytaniu piątym.
+
+
 ## Ministerstwo Edukacji - tryb patronatu, ustalenia z 23.10.2026
 
 Notatki wyjęte z `me-pismo.md`, żeby ten plik zawierał wyłącznie treść pisma do wysłania.
