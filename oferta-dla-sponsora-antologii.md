@@ -103,11 +103,13 @@ Granica przy wydaniu książkowym przebiega tak: **mecenas antologii finansuje p
 
 **Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty przekazujemy nieodpłatnie mediom i instytucjom edukacyjnym.
 
+Przy podcaście mówimy od razu, czego kwota z tej oferty nie obejmuje. Mieści się w niej **koordynacja podcastu** - pozyskiwanie gości, terminy i publikacja, 72 godziny pracy - natomiast **produkcja odcinków nie jest jeszcze wyceniona**. Zależy od decyzji o formacie: sam dźwięk czy także wersja wideo, studio czy nagrania zdalne, wysokość honorarium prowadzącego. W kosztorysie poniżej pozycja ta figuruje jako "do wyceny" i zostanie policzona po ustaleniu formatu, a kwota wymaga wtedy osobnego uzgodnienia. Wolimy powiedzieć to wprost, niż wpisać liczbę wziętą z sufitu.
+
 Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokazuje przegląd opracowań opisany wyżej - nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków. Kosztorys jest jawny z tego samego powodu, dla którego jawny jest regulamin: Mecenas ma wiedzieć, za co płaci, zanim zapyta.
+**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Kwota obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyna pozycja bez ceny to produkcja podcastu, opisana wyżej. Kwota pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków. Kosztorys jest jawny z tego samego powodu, dla którego jawny jest regulamin: Mecenas ma wiedzieć, za co płaci, zanim zapyta.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
