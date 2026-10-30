@@ -4,7 +4,9 @@
 
 ## <!--ikona:ksiazka--><span>Dla kogo jest ta propozycja</span>
 
-**Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela: antologię w formie bezpłatnego e-booka i wydanie książkowe, publiczne Archiwum zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją i podcast towarzyszący.** Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
+**Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela: antologię w formie bezpłatnego e-booka i wydanie książkowe, publiczne Archiwum zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją i podcast towarzyszący.**
+
+Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
 Mecenat jest jedną z dwóch osobnych ról finansujących pierwszą edycję. **Fundator nagrody** finansuje pulę nagród i galę. **Mecenas Antologii** finansuje wydanie i Archiwum. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
 
