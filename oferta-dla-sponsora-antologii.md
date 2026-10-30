@@ -22,7 +22,7 @@ Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu w
 
 ### Dotąd nagradzano maszyny za rozmowy z ludźmi
 
-Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka. Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po drugiej stronie ekranu nie był przedmiotem żadnej z tych nagród** - był materiałem testowym, na którym sprawdzano maszynę.
+Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka. Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z tych nagród** - był materiałem testowym, na którym sprawdzano maszynę.
 
 Tymczasem to on decyduje, czy z rozmowy cokolwiek wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny. Jakość pracy z AI jest dziś kompetencją rozstrzygającą o tym, co człowiek z tego narzędzia wyciągnie, a nagradzana nie była ani razu.
 
