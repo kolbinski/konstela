@@ -23,7 +23,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 [Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
 
-Rozmowa jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na rozmowę.
+Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na rozmowę z AI.
 
 Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
@@ -35,7 +35,7 @@ Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu w
 
 ### Nagrody i kto je finansuje
 
-Pula nagród w plebiscycie na rozmowę wynosi **371 000 zł brutto**: nagroda główna 300 000 zł, drugie miejsce 40 000 zł, trzecie 10 000 zł oraz siedem wyróżnień po 3 000 zł. Osobno stoi nagroda publiczności w wysokości 3 000 zł. Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.
+Pula nagród w plebiscycie na rozmowę z AI wynosi **371 000 zł brutto**: nagroda główna 300 000 zł, drugie miejsce 40 000 zł, trzecie 10 000 zł oraz siedem wyróżnień po 3 000 zł. Osobno stoi nagroda publiczności w wysokości 3 000 zł. Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.
 
 Wysokość nagrody głównej nie wzięła się z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana. Te same 100 000 zł z 1997 roku odpowiada dziś około **315 000 zł** według indeksu cen konsumpcyjnych, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **300 000 zł przywraca skalę, którą polskie nagrody miały trzydzieści lat temu** - i to jest jedyny powód, dla którego kwota jest tak wysoka.
 
