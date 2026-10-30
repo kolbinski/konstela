@@ -198,12 +198,3 @@ Krzysztof Olbiński
 +48 503 520 004
 olbinski@gmail.com
 konstela.org
-
-## Załączniki
-
-Wszystkie załączniki w wersji z dnia 29 października 2026 roku; w nawiasie nazwa pliku.
-
-1. Nagroda Konstela - nota koncepcyjna (`2-Konstela-nota-koncepcyjna-2026-10-29.pdf`); wersja online: https://konstela.org/dokument/mk-nota-koncepcyjna/
-2. Zestawienie zadania: co, w którym roku, z czego i o co pytam (`3-Konstela-zestawienie-zadania-2026-10-29.xlsx`); wersja online: https://konstela.org/arkusz/zestawienie-zadania
-3. Budżet pierwszej edycji (`4-Konstela-budzet-edycji-pierwszej-2026-10-29.xlsx`); wersja online: https://konstela.org/arkusz/budzet-edycji-pierwszej
-4. Projekt listu intencyjnego, do dowolnej zmiany lub odrzucenia (`5-Konstela-projekt-listu-intencyjnego-2026-10-29.docx`); wersja online: https://konstela.org/doc/mk-list-intencyjny
