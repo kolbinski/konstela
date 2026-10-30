@@ -611,6 +611,20 @@ Zastępuje wcześniejszy pomysł, w którym uczniowie czytali wyłącznie dziesi
 **Ścieżka dalsza.** Uczniowska akademia jest naturalnym zapleczem akademii dorosłej: po maturze czytelnik przechodzi do niej z gotowym warsztatem i znajomością karty oceny. Jedno zastrzeżenie do zapisania w regulaminie: **po ukończeniu 18 lat trzeba wybrać** - albo udział w plebiscycie jako uczestnik, albo czytanie jako członek akademii. Obu ról naraz pełnić nie można.
 
 
+## Universitas - list intencyjny podpisany 30.10.2026
+
+**Pierwsze pismo od instytucji zewnętrznej.** TAiWPN Universitas podpisało list intencyjny w sprawie antologii; podpis złożył dyrektor, dr Andrzej Nowakowski, wicedyrektor Jan Sadkiewicz przysłał go mailem. Plik: `wspolpraca/2026-10-30-universitas-list-intencyjny.pdf`.
+
+**Co list mówi.** Tematyka mieści się w obszarze zainteresowań wydawniczych; wydawnictwo deklaruje wstępne zainteresowanie i gotowość rozważenia wydania po ocenie kompletnego materiału.
+
+**Czego nie mówi, i to trzeba powtarzać dokładnie.** Nie przesądza decyzji wydawniczej. Nie jest umową ani przyrzeczeniem jej zawarcia. Ewentualne wydanie może zależeć od pozyskania dofinansowania, a wydawnictwo nie zobowiązuje się ani o nie wystąpić, ani go zapewnić, ani ponosić kosztów. Wicedyrektor napisał to wprost w mailu: asekuracyjna forma wynika z ostrożności na tym etapie, a dofinansowanie może być potrzebne również po ich stronie.
+
+**Czego list wyraźnie pozwala.** Posługiwać się nim **w całości** w kontaktach z potencjalnymi partnerami i fundatorami, wyłącznie dla przedstawienia wstępnego zainteresowania. Wykorzystanie nie może sugerować decyzji o wydaniu ani zobowiązania do finansowania. Stąd na stronie oferty mecenatu fakt jest podany wraz z tymi zastrzeżeniami, a sam plik udostępniamy na życzenie, zamiast wieszać go publicznie - publiczna strona to szersze grono niż „potencjalni partnerzy i fundatorzy".
+
+**Drobiazg do odnotowania:** w liście jest „antologii Nagrody Konstel" zamiast „Konstela". Nie prosimy o korektę - pismo jest podpisane kwalifikowanym podpisem, a literówka w nazwie nie zmienia jego treści.
+
+**Następny krok po naszej stronie.** Odpowiedź z podziękowaniem i jedną rzeczą do ustalenia na przyszłość: **prawa do wydania dźwiękowego zostają przy fundacji**. Wydawcy standardowo biorą audio razem z książką, a audiobook jest u nas bezpłatny i finansowany przez mecenasa antologii, więc nie może trafić do kalkulacji wydawcy. Materiał do oceny - kompletny maszynopis - powstaje w marcu 2028 i wtedy wracamy do rozmowy.
+
 ## Audiobook antologii - decyzja z 30.10.2026
 
 Antologia ukazuje się także jako **bezpłatny audiobook**, czytany przez **trzech lektorów**: osobny głos dla uczestnika, osobny dla sztucznej inteligencji, osobny dla komentarzy jury. Finansuje go Mecenas Antologii w ramach tej samej roli, a nie osobny partner.

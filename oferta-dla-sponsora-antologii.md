@@ -124,7 +124,9 @@ Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwsz
 
 **Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny. Strona Nagrody działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a statut fundacji jest gotowy w projekcie. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
 
-**W toku.** Jury nie jest jeszcze skompletowane. Nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Zainteresowanie wydaniem antologii wyraziły dwa wydawnictwa; żadnej umowy jeszcze nie ma i nie wymieniamy nazw, dopóki zainteresowanie nie zostanie potwierdzone na piśmie. Tak samo postępujemy z jurorami.
+**W toku.** Jury nie jest jeszcze skompletowane. Nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony; nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie.
+
+**Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny** w sprawie antologii. Stwierdza w nim, że tematyka mieści się w obszarze jego zainteresowań wydawniczych, i deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Podajemy to dokładnie w granicach, jakie sam list wyznacza: **nie przesądza on decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.** Zainteresowanie wyraziło także drugie wydawnictwo, bez pisma. List intencyjny udostępniamy na życzenie.
 
 **Przed nami:**
 
