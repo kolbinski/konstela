@@ -4,7 +4,11 @@
 
 ## <!--ikona:ksiazka--><span>Dla kogo jest ta propozycja</span>
 
-**Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela: antologię - bezpłatny e-book i treść wydania książkowego - publiczne Archiwum zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją i podcast towarzyszący.**
+**Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela:**
+
+- **antologię** - bezpłatny e-book i treść wydania książkowego;
+- **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją;
+- **podcast towarzyszący** Nagrodzie.
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
