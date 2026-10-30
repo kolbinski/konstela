@@ -68,10 +68,6 @@ Praca programistyczna to **355 godzin po 220 zł** - stawka taka sama we wszystk
 
 **Rozliczenie:** w ciągu sześćdziesięciu dni od zakończenia prac Mecenas otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy oraz z dokumentami rejestrowymi fundacji i potwierdzeniem zgłoszenia znaku towarowego.
 
-### Dlaczego to jest osobna rola
-
-Do 30 października 2026 wszystkie te pozycje siedziały w budżecie części wydawniczej. Oznaczało to, że jeden partner finansuje infrastrukturę, z której korzystają wszystkie pozostałe zakresy, nie otrzymuje do niej praw i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona. Rozdzieliliśmy to, ponieważ taka konstrukcja była nie do obrony przed zarządem jakiejkolwiek firmy - i mówimy o tym wprost, zamiast przedstawiać obecny podział jako odwieczny.
-
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy</span>
 
 **Ta rola jest jedyną, która dowozi rezultat niezależnie od powodzenia naboru.** Fundacja zostaje w rejestrze, znak towarowy w EUIPO, strona i narzędzia działają. Jeżeli pierwsza edycja nie ruszy w 2027 roku, wszystko to czeka na drugą, a Mecenas pozostaje Mecenasem Założycielskim - bo założenie już nastąpiło.
