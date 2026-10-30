@@ -24,12 +24,13 @@ concurrency:
   group: pages
   cancel-in-progress: true
 
+# Budowanie i wdrażanie są osobnymi zadaniami z jednego powodu: gdy wdrożenie
+# wywali się na chwilowym błędzie GitHuba, "Re-run failed jobs" ponawia samo
+# wdrożenie. Przy jednym zadaniu ponowienie wrzucałoby drugą paczkę o tej samej
+# nazwie, a wdrożenie odmawia pracy, gdy znajdzie dwie.
 jobs:
-  publikuj:
+  zbuduj:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.wdrozenie.outputs.page_url }}
 
     steps:
       - name: Pobierz repozytorium
@@ -63,6 +64,14 @@ jobs:
         with:
           path: .
 
+  publikuj:
+    needs: zbuduj
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.wdrozenie.outputs.page_url }}
+
+    steps:
       - name: Opublikuj
         id: wdrozenie
         uses: actions/deploy-pages@v4
