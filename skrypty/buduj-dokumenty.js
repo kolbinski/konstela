@@ -159,6 +159,7 @@ const PUBLICZNE = new Set([
   'jury-w-plebiscycie-filmu-o-ai',
   'jury-w-plebiscycie-rozmowy-z-ai',
   'oferta-dla-sponsora-antologii',
+  'oferta-dla-sponsora-nagrod',
 ]);
 
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
@@ -178,6 +179,7 @@ const DEDYKOWANE = {
   statut: 'statut',
   regulaminy: 'regulaminy',
   'oferta-dla-sponsora-antologii': 'oferta-dla-sponsora-antologii',
+  'oferta-dla-sponsora-nagrod': 'oferta-dla-sponsora-nagrod',
 };
 
 /* Opisy stron publicznych pisane ręcznie. Dokumenty prawne zaczynają się od
@@ -211,6 +213,8 @@ const OPISY = {
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na film o sztucznej inteligencji i co daje w zamian: zakres pracy, karta oceny, honorarium, niezależność werdyktu i terminy pierwszej edycji.',
   'jury-w-plebiscycie-rozmowy-z-ai':
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na rozmowę ze sztuczną inteligencją i co daje w zamian: zakres pracy, karta oceny, komentarze do antologii, honorarium i niezależność werdyktu.',
+  'oferta-dla-sponsora-nagrod':
+    'Oferta dla fundatora puli nagród w plebiscycie na rozmowę ze sztuczną inteligencją: 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu. Kwota, kosztorys, świadczenia i warunki.',
   'oferta-dla-sponsora-antologii':
     'Mecenat Antologii Nagrody Konstela: kto finansuje bezpłatną antologię, publiczne Archiwum rozmów i podcast, ile to kosztuje, co Mecenas otrzymuje w zamian i czego propozycja nie obejmuje.',
   'dla-partnerow':

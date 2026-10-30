@@ -41,7 +41,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <article>
 <h3>Sponsor nagród w plebiscycie na rozmowę ze sztuczną inteligencją</h3>
 <p>Nagrody dla laureatów i honoraria jury.</p>
-<p class="wiecej"><a href="/plebiscyt-rozmowy">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/oferta-dla-sponsora-nagrod">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Sponsor nagród w plebiscycie na film o sztucznej inteligencji</h3>
