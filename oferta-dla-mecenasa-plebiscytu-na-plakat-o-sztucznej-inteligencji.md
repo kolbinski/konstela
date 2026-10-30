@@ -135,7 +135,7 @@ Osobno regulamin przewiduje **próg po stronie uczestników: jeżeli w terminie 
 
 Umowa zawiera **klauzulę rozliczenia**: jeżeli prace nie zostaną wykonane w całości albo w części, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych, a kwota niewykorzystana wraca do Mecenasa albo przechodzi na kolejną edycję, według jego wyboru. Dotyczy to także pozycji transportu i ubezpieczenia przy mniejszej liczbie przysłanych oryginałów.
 
-Budżet policzony jest na sto zgłoszeń plakatów i to jest liczba, na którą pracujemy. Pięćdziesiąt godzin dotarcia do szkół artystycznych i środowiska ilustratorów jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
+Budżet policzony jest na **150 zgłoszeń plakatów** i to jest liczba, na którą pracujemy: 20 godzin kontroli formalnej to 8 minut na zgłoszenie razy 150. Pięćdziesiąt godzin dotarcia do szkół artystycznych i środowiska ilustratorów jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
 
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
@@ -167,7 +167,7 @@ Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. N
 - **infrastruktura wspólna** - fundacja, strona, znak towarowy i narzędzia obsługujące wszystkie cztery plebiscyty, w tym panel oceny używany również przez akademię plakatu;
 - **przestrzeń galerii** - wystawa po gali zależy od pozyskania partnera galerii i nie jest w tej ofercie ani obiecana, ani wyceniona.
 
-Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością autora, który udziela Organizatorowi licencji niewyłącznej w wypisanych zakresach; jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania sztucznej inteligencji. Mecenas nie nabywa też prawa pierwokupu prac ani udziału we wpływach z licytacji - te dzielą się po połowie między autora i pulę nagród kolejnej edycji.
+Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością autora, który udziela Organizatorowi licencji niewyłącznej w zakresach wymienionych w regulaminie; jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania sztucznej inteligencji. Mecenas nie nabywa też prawa pierwokupu prac ani udziału we wpływach z licytacji - te dzielą się po połowie między autora i pulę nagród kolejnej edycji.
 
 **Nie przyjmujemy finansowania od dostawców modeli sztucznej inteligencji** w edycjach krajowych - konflikt interesów byłby zbyt oczywisty, skoro plebiscyt dotyczy właśnie ich produktów.
 
@@ -214,7 +214,7 @@ Wszystkie cztery przygotowujemy na prośbę, bez zobowiązania po stronie Mecena
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną.
 
-**Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
+**Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Jeżeli w chwili decyzji fundacja nie jest jeszcze wpisana do rejestru, podpisujemy **umowę przedwstępną**: Mecenas zobowiązuje się zawrzeć umowę właściwą z fundacją w ciągu czternastu dni od jej wpisu, na warunkach, które są jej załącznikiem i które widział wcześniej. **Przed rejestracją nie przyjmujemy od niego żadnej wpłaty** - koszt powołania fundacji należy do [Budżetu Uruchomienia](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela), nie do tej oferty.
 
 **Kto wykonuje prace, za które Mecenas płaci.** Pozycję „praca organizatora", czyli 190 godzin po 220 zł, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
 
