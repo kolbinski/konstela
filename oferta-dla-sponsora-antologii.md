@@ -19,9 +19,9 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 - **Weryfikacja** - czy sprawdza twierdzenia AI i prostuje jej błędy.
 - **Plon** - co z rozmowy realnie zostało: nazwana idea, rozwiązany problem, odnalezione źródło, zmieniona decyzja.
 
-Karta oceny jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
+[Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
 
-Rozmowa jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą filmu, piosenki i plakatu o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na rozmowę.
+Rozmowa jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na rozmowę.
 
 Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
