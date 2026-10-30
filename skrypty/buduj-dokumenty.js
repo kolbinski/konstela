@@ -162,6 +162,23 @@ const PUBLICZNE = new Set([
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja',
 ]);
 
+/* Oferty partnerskie. Dostają nad nagłówkiem pasek z dwoma przyciskami:
+   wydrukiem i zapisem do PDF. Jedno i drugie korzysta z silnika wydruku
+   przeglądarki, więc plik powstaje w locie z aktualnej strony i nie trzeba
+   trzymać osobnego PDF-a w repozytorium ani pilnować, czy się nie rozjechał
+   z treścią. Arkusz stylów ma już sekcję @media print, która zdejmuje
+   nawigację. */
+const OFERTY = new Set([
+  'oferta-dla-mecenasa-antologii-nagrody-konstela',
+  'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja',
+]);
+
+const PASEK_OFERTY = `<nav class="akcje" aria-label="Zapis i wydruk">
+<button type="button" class="akcja" data-pdf>${IKONY['strzalka-gora'] ? '' : ''}Pobierz PDF</button>
+<button type="button" class="akcja" data-druk>Drukuj</button>
+</nav>
+`;
+
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
    Strona powstaje wtedy w obu miejscach, a adresem kanonicznym jest krótszy. */
 const DEDYKOWANE = {
@@ -375,7 +392,7 @@ function pelnyTytul(naglowek) {
   return /konstel/i.test(naglowek) ? naglowek : naglowek + ' - Nagroda Konstela';
 }
 
-function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tresc }) {
+function strona({ naglowek, opisStrony, adresKanoniczny, obrazek, indeksowac, tresc, oferta }) {
   const roboty = indeksowac ? 'index, follow, noai, noimageai' : 'noindex, follow';
   return `<!doctype html>
 <html lang="pl">
@@ -460,6 +477,7 @@ ${tresc}
 
     <script src="/assets/czytelnosc.js" defer></script>
     <script src="/assets/pasek.js" defer></script>
+${oferta ? '    <script src="/assets/oferta.js" defer></script>\n' : ''}
     <script src="/assets/nawigacja.js" defer></script>
     <script src="/assets/stopka.js" defer></script>
   </body>
@@ -506,9 +524,12 @@ function main() {
         adresKanoniczny,
         obrazek: OBRAZKI[nazwa] || OBRAZEK_DOMYSLNY,
         indeksowac,
-        tresc: otworzObceWNowejKarcie(
-          rozdzielSekcje(nadajKotwice(marked.parse(wstawIkony(md, false))))
-        ),
+        oferta: OFERTY.has(nazwa),
+        tresc:
+          (OFERTY.has(nazwa) ? PASEK_OFERTY : '') +
+          otworzObceWNowejKarcie(
+            rozdzielSekcje(nadajKotwice(marked.parse(wstawIkony(md, false))))
+          ),
       })
     );
 

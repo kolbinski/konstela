@@ -618,6 +618,31 @@
         font-weight: 600;
       }
 
+      /* Pasek nad nagłówkiem oferty: zapis do PDF i wydruk. Stoi nad tytułem,
+         bo jest narzędziem do obsługi dokumentu, a nie jego częścią - i z tego
+         samego powodu znika przy wydruku. */
+      #content .akcje {
+        display: flex;
+        gap: 0.6rem;
+        margin: 0 0 1.4rem;
+      }
+      #content .akcje .akcja {
+        font: inherit;
+        font-size: 0.92rem;
+        letter-spacing: 0.02em;
+        color: var(--ink);
+        background: transparent;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 0.45rem 1.05rem;
+        cursor: pointer;
+      }
+      #content .akcje .akcja:hover,
+      #content .akcje .akcja:focus-visible {
+        border-color: currentColor;
+        background: var(--surface);
+      }
+
       @media print {
         @page {
           margin: 2cm 1.6cm;
@@ -630,6 +655,7 @@
         #burger,
         #czytelnosc,
         #do-gory,
+        #content .akcje,
         konstela-stopka {
           display: none !important;
         }
