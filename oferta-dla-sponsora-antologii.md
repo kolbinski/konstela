@@ -20,6 +20,36 @@ Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: g
 
 Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu wydarzeń kulturalnych w Polsce. Pierwsza edycja jest więc budowana jak pierwsza z wielu, a nie jak jednorazowe wydarzenie: narzędzia, Archiwum i konstrukcja regulaminu powstają raz i służą każdemu kolejnemu rocznikowi.
 
+### Dotąd nagradzano maszyny za rozmowy z ludźmi
+
+Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka. Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po drugiej stronie ekranu nie był przedmiotem żadnej z tych nagród** - był materiałem testowym, na którym sprawdzano maszynę.
+
+Tymczasem to on decyduje, czy z rozmowy cokolwiek wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu: w tym, czy ktoś drąży, czy przyjmuje pierwszą wersję; czy sprawdza, czy wierzy; czy wraca po godzinie do wątku, który wtedy wydawał się nieważny. Jakość pracy z AI jest dziś kompetencją rozstrzygającą o tym, co człowiek z tego narzędzia wyciągnie, a nagradzana nie była ani razu.
+
+### Nikt nie pokazuje, jak taka rozmowa wygląda od środka
+
+Rozmowa z AI bywa prowadzona jak zapytanie do wyszukiwarki: jedno pytanie, jedna odpowiedź, koniec. Nie twierdzimy, że tak robi większość, bo nie ma badań, które by to rozstrzygały. Twierdzimy natomiast, że **trudno nauczyć się czegoś innego, nie zobaczywszy, jak to wygląda** - a takiego materiału w języku polskim brakuje.
+
+Przeanalizowaliśmy siedem opracowań Ministerstwa Cyfryzacji i NASK poświęconych sztucznej inteligencji, łącznie około sześciuset stron: przewodnik dla nauczycieli, badania nad generatywną AI w szkole, analizę rynku pracy, ewaluację programu szkoleń, broszurę dla seniorów i raport o potrzebach urzędników. **Nie ma w nich ani jednego zapisu rzeczywistej rozmowy z AI.** Są przykładowe polecenia, opisy metody i scenariusze zajęć; są transkrypcje, ale wywiadów z nauczycielami o sztucznej inteligencji, nie rozmów z nią. Wzór jest spójny: badamy, co ludzie mówią o AI, i instruujemy, jak jej używać, ale nie zapisujemy tego, co dzieje się w środku rozmowy.
+
+Rada „zadawaj lepsze pytania" nabiera treści dopiero wtedy, gdy obok niej stoi zapis rozmowy, w której człowiek przyłapuje program na zmyśleniu, wraca do porzuconego wątku i dochodzi do wniosku, którego nie miał na wejściu. **Nagroda wytwarza dokładnie ten materiał - i to jako produkt uboczny plebiscytu, a nie jako zamówiony podręcznik.** Materiał powstaje dlatego, że ludzie chcieli wygrać, więc pokazuje, jak naprawdę pracują, a nie jak wygląda przykład napisany pod tezę.
+
+### Nagradzamy nieufność, nie zachwyt
+
+Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach AI**. Plebiscyt nagradza więc sprawdzanie maszyny, a nie zachwyt nad nią - i to jest ta część, która ma znaczenie publiczne.
+
+Czujność jest jednak tylko połową. Czwarte kryterium, **plon**, nagradza rozmowy, z których człowiek coś wyniósł: nazwaną ideę, rozwiązany problem, odnalezione źródło, zmienioną decyzję. Nie chodzi o samo kwestionowanie, lecz o dociekanie, które do czegoś prowadzi. Wzorzec, który antologia pokazuje, to postawa człowieka, który sprawdza odpowiedzi i jednocześnie dochodzi dzięki nim do czegoś, czego nie wiedział na wejściu.
+
+### Trzy rzeczy, które z tego zostają
+
+**Materiał dydaktyczny** - realne przykłady krytycznej pracy z AI, do użycia w szkołach, na uczelniach, w bibliotekach i na szkoleniach kompetencji cyfrowych. Ponieważ Archiwum daje się przeglądać według ocen, nauczyciel może postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium i pokazać, czym się różnią.
+
+**Dokument epoki** - zapis tego, jak ludzie uczyli się nowego narzędzia, rocznik po roczniku, każdy z metryką pokolenia modeli, z którymi rozmawiano. Za dziesięć lat nie będzie już skąd go odtworzyć, bo rozmowy znikają razem z kontami i zmianami zasad u dostawców.
+
+**Wzorzec postawy** - weryfikowanie zamiast przyjmowania na wiarę, pokazane na przykładach, a nie w formie przestrogi.
+
+To jest to, co Mecenas finansuje: nie wydarzenie, tylko materiał, który po wydarzeniu zostaje.
+
 ## <!--ikona:dokument--><span>Przedmiot mecenatu</span>
 
 **Antologia** to bezpłatny e-book, wydawany po każdej edycji i dostępny dla każdego bez rejestracji i bez opłat. Zawiera dziesięć najwyżej ocenionych rozmów w całości, bez skrótów, a przy każdej z nich **komentarz jury**: krótki komentarz jurora wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze.
@@ -30,7 +60,7 @@ Granica przy wydaniu książkowym przebiega tak: **mecenat finansuje powstanie t
 
 **Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty przekazujemy nieodpłatnie mediom i instytucjom edukacyjnym.
 
-W siedmiu publikacjach Ministerstwa Cyfryzacji i NASK, łącznie około sześciuset stron, nie ma ani jednego pełnego zapisu rzeczywistej rozmowy człowieka ze sztuczną inteligencją, opatrzonego komentarzem dydaktycznym. Antologia i Archiwum są materiałem źródłowym, którego nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
+Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokazuje przegląd opracowań opisany wyżej - nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
