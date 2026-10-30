@@ -11,8 +11,8 @@ i adres mieszczą się w **środkowym kwadracie 630 x 630**, a na bokach zostaje
 z ramką. Ten sam plik czyta się poprawnie w kadrze szerokim (Facebook, LinkedIn, Slack)
 i w kwadratowym.
 
-Medal jest wycięty z `assets/medal.jpg` do `assets/medal-kolo.png` - koło o środku
-(512, 462) i promieniu 330 pikseli, przeskalowane do 600 x 600 z maską przezroczystości.
+Medal jest ten sam co w nagłówku strony głównej: `assets/medal-512.png`, czyli zdjęcie
+medalu w pudełku, na przezroczystym tle.
 
 ## Jak przegenerować
 
