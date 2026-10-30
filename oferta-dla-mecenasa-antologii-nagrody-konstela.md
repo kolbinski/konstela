@@ -10,7 +10,7 @@
 - **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją;
 - **podcast towarzyszący** Nagrodzie.
 
-**Kosztuje to 180 362 zł netto** (221 845,26 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 162 162 zł netto** (199 459,26 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
@@ -142,7 +142,7 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu 
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**180 362 zł netto** (221 845,26 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
+**162 162 zł netto** (199 459,26 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -157,11 +157,11 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu 
 | Redakcja i skład treści antologii, rozstrzyganie zgłoszeń oznaczonych przez oceniających (95 godz.) |      20 900 zł |
 | Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
 | Mechanizm publikowania Archiwum na stronie (50 godz.)             |      11 000 zł |
-| Wynagrodzenie wykonawcy części wydawniczej (20%)                  |      27 748 zł |
-| Rezerwa na przekroczenia (10%)                                    |      13 874 zł |
-| **Razem netto**                                                   | **180 362 zł** |
-| VAT 23%                                                           |   41 483,26 zł |
-| **Do zapłaty brutto**                                             | **221 845,26 zł** |
+| Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |       9 548 zł |
+| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |      13 874 zł |
+| **Razem netto**                                                   | **162 162 zł** |
+| VAT 23%                                                           |   37 297,26 zł |
+| **Do zapłaty brutto**                                             | **199 459,26 zł** |
 
 **W tej tabeli nie ma kosztów wspólnych całego przedsięwzięcia.** Powołanie fundacji i jej obsługa, konsultacja prawna, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty mają osobny budżet i osobną rolę - **Mecenasa Założycielskiego**. Wydzieliliśmy je, bo obciążanie nimi mecenasa antologii znaczyło, że jeden partner finansuje infrastrukturę, z której korzystają wszyscy pozostali, i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona.
 
@@ -171,10 +171,20 @@ Pozycja oprogramowania obejmuje jedno narzędzie: mechanizm publikowania Archiwu
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 
-- **Wynagrodzenie wykonawcy** to zapłata za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością od podpisania umowy do rozliczenia edycji. Nie jest to rezerwa i nie wraca do nikogo.
+- **Wynagrodzenie wykonawcy** to zapłata za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością od podpisania umowy do rozliczenia edycji. Liczone jest **wyłącznie od pracy własnej**; koszty zewnętrzne - korekta, skład, druk, studio nagraniowe, koordynator - wchodzą do budżetu w kwotach, jakie wystawi dostawca, bez narzutu. Nie jest to rezerwa i nie wraca do nikogo.
 - **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń.
 
 **Co się dzieje z niewykorzystaną rezerwą i z pozycjami, których nie poniesiono** - na przykład z krótkim nakładem na galę, jeżeli wydawca dostarczy książkę na premierę. Kwota wraca do Mecenasa albo, na jego pisemny wybór, przechodzi na antologię kolejnej edycji. **Nigdy na pulę nagród**, bo z mecenatu antologii nie finansujemy laureatów.
+
+**Płatność etapami, każdy etap po odbiorze.** Mecenas nie przelewa całości przy podpisaniu umowy. Kwota dzieli się na transze wymagalne po przedstawieniu rezultatu, który da się sprawdzić:
+
+1. **Mechanizm Archiwum** - 11 000 zł netto, po udostępnieniu publicznego Archiwum na stronie.
+2. **Koordynacja podcastu** - 15 840 zł netto, w dwóch częściach po 7 920 zł: po dwunastym i po dwudziestym czwartym odcinku.
+3. **Redakcja, skład i druk** - 71 900 zł netto, w dwóch częściach: połowa po przyjęciu złożonego tomu, połowa po premierze bezpłatnego e-booka.
+4. **Audiobook** - 40 000 zł netto, po odbiorze gotowego nagrania.
+5. **Rozliczenie końcowe** - 23 422 zł netto, obejmujące wynagrodzenie wykonawcy i rezerwę, po przyjęciu sprawozdania.
+
+Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Jeżeli edycja zostaje przerwana, Mecenas zapłacił dotąd wyłącznie za to, co istnieje.
 
 **Rozliczenie:** w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy.
 
@@ -235,6 +245,8 @@ Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telew
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru.
 
+**Kto wykonuje prace, za które Mecenas płaci.** Redakcję i skład treści antologii, koordynację podcastu oraz mechanizm publikowania Archiwum wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po. Zabezpieczenia są trzy: stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu, godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną. Pozycje zewnętrzne - koordynator wydania, korekta, skład, druk, studio nagraniowe i lektorzy - wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu, a wynagrodzenie wykonawcy liczone jest wyłącznie od pracy własnej.
+
 **Umowę mecenatu podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Koszt powołania fundacji jest pierwszą pozycją kosztorysu i do czasu podpisania umowy ponosi go Organizator z własnych środków; rozliczany jest po jej zawarciu. Dzięki temu Mecenas przelewa środki podmiotowi, który istnieje, ma numer KRS i statut ograniczający go do prowadzenia Nagrody. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
 
 ## <!--ikona:wspolpraca--><span>Pozostałe role przy pierwszej edycji</span>
@@ -242,7 +254,7 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 529 516,80 zł netto<small>pula 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 198 380 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 
 Sponsor akademii, sponsor gali, partner wydawniczy, partner galerii, partner dystrybucji filmów i patronat medialny nie mają jeszcze osobnych ofert; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.
 

@@ -99,6 +99,8 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno: honoraria jury za
 
 **Płatność przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań.
 
+Dotyczy to jednak **wyłącznie puli nagród i kosztów ponoszonych przed naborem** - promocji, medalu i dyplomów, domen i obsługi księgowej. **Prowadzenie plebiscytu i rezerwa, czyli 86 566,80 zł netto, płatne są etapami po odbiorze**, w trzech częściach: po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej, po zamknięciu naboru i zakończeniu weryfikacji formalnej zgłoszeń, oraz po przyjęciu sprawozdania z rozliczenia edycji. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
+
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
 Regulamin wymienia trzy warunki, które muszą być spełnione łącznie, żeby nabór się otworzył: cała ogłaszana pula ma pokrycie w środkach na rachunku Organizatora, co najmniej trzy osoby potwierdziły udział w jury i skład został ogłoszony, a regulamin przeszedł konsultację prawną.
@@ -159,6 +161,8 @@ Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencj
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną.
 
+**Kto wykonuje prace, za które Fundator płaci.** Pozycję „prowadzenie plebiscytu przez rok" wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę - stawkę jednakową we wszystkich budżetach Nagrody i jawną w arkuszu. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po. Godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną. Nagrody, promocja, medal, księgowość i ubezpieczenie wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu.
+
 **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Fundator składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
 
 Dokumenty, o które może zapytać dział prawny, są jawne:
@@ -172,8 +176,8 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 180 362 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 198 380 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 
 Sponsor akademii, sponsor gali, partner wydawniczy, partner galerii, partner dystrybucji filmów i patronat medialny nie mają jeszcze osobnych ofert; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.
 

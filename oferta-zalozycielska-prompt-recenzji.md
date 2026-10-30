@@ -16,7 +16,7 @@ Po pierwsze: czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzj�
 
 Po drugie: oferta twierdzi, że ta rola jako jedyna dowozi rezultat niezależnie od powodzenia pierwszej edycji, bo fundacja zostaje w rejestrze, znak towarowy w urzędzie, a narzędzia i strona działają. Czy to twierdzenie się broni? Co się stanie z tymi rzeczami, jeżeli nagroda nigdy nie wystartuje albo skończy się po jednej edycji, i czy wtedy Twoje pieniądze do czegokolwiek posłużyły?
 
-Po trzecie: płacisz 198 380 zł netto za powstanie majątku, który należy do fundacji, nie do Ciebie. Oferta mówi o tym wprost. Czy to jest dla Ciebie do przyjęcia i pod jakimi warunkami? Czego brakuje, żebyś uznał ten układ za uczciwy - czy chodzi o prawa, o zabezpieczenie, o wpływ na dalsze losy tych rzeczy, czy o coś jeszcze?
+Po trzecie: płacisz 183 480 zł netto za powstanie majątku, który należy do fundacji, nie do Ciebie. Oferta mówi o tym wprost. Czy to jest dla Ciebie do przyjęcia i pod jakimi warunkami? Czego brakuje, żebyś uznał ten układ za uczciwy - czy chodzi o prawa, o zabezpieczenie, o wpływ na dalsze losy tych rzeczy, czy o coś jeszcze?
 
 Po czwarte: które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno, czy wyceny prac programistycznych są wiarygodne przy podanych godzinach.
 
