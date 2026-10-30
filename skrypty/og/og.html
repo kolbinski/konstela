@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pl">
+  <head>
+    <meta charset="utf-8" />
+    <style>
+      @font-face {
+        font-family: 'Literata';
+        src: url('/assets/fonts/literata-latin-ext-600-normal.woff2') format('woff2');
+        font-weight: 600;
+      }
+      @font-face {
+        font-family: 'Literata';
+        src: url('/assets/fonts/literata-latin-ext-400-normal.woff2') format('woff2');
+        font-weight: 400;
+      }
+      @font-face {
+        font-family: 'IBM Plex Mono';
+        src: url('/assets/fonts/ibm-plex-mono-latin-ext-400-normal.woff2') format('woff2');
+        font-weight: 400;
+      }
+      * { margin: 0; padding: 0; box-sizing: border-box; }
+      body {
+        width: 1200px;
+        height: 630px;
+        background: #2b2a27;
+        color: #f6f2e9;
+        font-family: 'Literata', serif;
+        overflow: hidden;
+      }
+      .ramka {
+        position: absolute;
+        inset: 26px;
+        border: 2px solid #b8893c;
+      }
+      /* wszystko istotne mieści się w środkowym kwadracie 630 x 630,
+         bo Instagram i Messenger przycinają zajawkę do kwadratu */
+      .srodek {
+        position: absolute;
+        left: 50%;
+        top: 0;
+        width: 630px;
+        height: 630px;
+        transform: translateX(-50%);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 48px 30px;
+      }
+      .medal {
+        width: 190px;
+        height: 190px;
+        border-radius: 50%;
+        object-fit: contain;
+        margin-bottom: 26px;
+      }
+      .nad {
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 19px;
+        letter-spacing: 0.22em;
+        color: #d8a44f;
+        text-transform: uppercase;
+        margin-bottom: 14px;
+      }
+      h1 {
+        font-size: 62px;
+        font-weight: 600;
+        line-height: 1.05;
+        letter-spacing: -0.015em;
+      }
+      .pod {
+        font-size: 25px;
+        color: #e8c98a;
+        margin-top: 16px;
+      }
+      .adres {
+        font-family: 'IBM Plex Mono', monospace;
+        font-size: 18px;
+        letter-spacing: 0.18em;
+        color: #b8893c;
+        margin-top: 30px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="ramka"></div>
+    <div class="srodek">
+      <img class="medal" src="/assets/medal-kolo.png" alt="" />
+      <div class="nad">Nagroda za rozmowy z AI</div>
+      <h1>Nagroda Konstela</h1>
+      <div class="pod">Oceniamy pytania, nie odpowiedzi</div>
+      <div class="adres">konstela.org</div>
+    </div>
+  </body>
+</html>
