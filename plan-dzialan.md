@@ -1,0 +1,35 @@
+# Plan działań - stan na 30 października 2026
+
+Lista robocza, nie dokument do wysłania. Rozstrzygnięcia merytoryczne są w `koncepcja.md`, ta lista mówi wyłącznie, co zrobić i w jakiej kolejności. Nabór otwiera się 1 stycznia 2027, czyli za dwa miesiące.
+
+## Dziś
+
+- [ ] **Wysłać list do Andrzeja Wodzyńskiego (Grupa Tubądzin).** List na papierze firmowym, do koperty wydruk strony [oferta dla sponsora antologii](/oferta-dla-sponsora-antologii), przesyłka polecona. Oferta jest skończona: przeszła dwa przeglądy, ma kwotę 344 422 zł netto, klauzulę frekwencyjną, wyłączność w kategorii, stan przygotowań i podpisany list intencyjny wydawcy. Szczegóły w `list-do-wodzynskiego-notatki.md`. **To jedyny żywy trop sponsorski; każda dalsza poprawka oferty jest szlifowaniem czegoś, czego nikt nie przeczytał.**
+- [ ] **Odpowiedzieć Universitas** na podpisany list intencyjny. Treść przygotowana w rozmowie z 30.10. Zawiera zastrzeżenie, że prawa do wydania dźwiękowego zostają przy fundacji - im wcześniej padnie, tym mniej kosztuje przy negocjacjach w 2028.
+- [ ] **Wysłać DM do Matyldy Damięckiej** w sprawie jury plebiscytu plakatu. Treść przygotowana 28.10, wysyłka obsuwa się trzeci dzień.
+
+## Przyszły tydzień
+
+- [ ] **Poprosić o listy poparcia od instytucji edukacyjnych.** Universitas potwierdził, że widzi w antologii książkę; brakuje potwierdzenia, że szkoła widzi w niej pomoc dydaktyczną. Jedna strona stwierdzająca, że taki materiał byłby użyteczny, wzmacnia jednocześnie ofertę dla sponsora i rozmowy z ministerstwami.
+  - Zacząć od **Łódzkiego Centrum Doskonalenia Nauczycieli i Kształcenia Praktycznego** oraz **Wojewódzkiej Biblioteki Publicznej w Łodzi** - mniejsze, decydują szybciej, teren własny.
+  - **Ośrodek Rozwoju Edukacji** dopiero w drugim kroku, już z tymi listami w ręku: prośba brzmi wtedy „dwie instytucje w województwie już to potwierdziły, czy ORE widzi w tym materiał ogólnopolski". ORE podlega Ministerstwu Edukacji, do którego pismo poszło 23.10 - wspomnieć o nim, żeby nie wyglądało na obchodzenie resortu bokiem.
+  - Krajowego kuratorium nie ma; kuratoria są wojewódzkie i wypowiadają się wyłącznie za swój teren.
+
+## Terminy
+
+- **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
+- **27 listopada** - telefon do MKiDN oraz wysłanie gotowego pisma `mk-uzupelnienie.md`. Uzupełnienie podaje nową kwotę objętą pytaniem (684 952,00 zł zamiast 660 952,00 zł) i odnotowuje audiobook. Wysyłane razem z przypomnieniem, nie osobno.
+- **Do 31 grudnia 2026** - umowa z mecenasem antologii, rejestracja fundacji w KRS, konsultacja prawna regulaminu. Kolejność: deklaracja mecenasa, rejestracja fundacji, umowa z nią, faktura.
+- **1 stycznia 2027** - otwarcie naboru, o ile spełnione są trzy warunki z regulaminu: pula nagród pokryta środkami na rachunku, co najmniej trzy osoby potwierdziły udział w jury i skład ogłoszony, regulamin po konsultacji prawnej.
+
+## Czego teraz nie ruszać
+
+Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
+
+## Otwarte, bez terminu
+
+- **Liczby o zasięgu w ofercie** - prognoza pobrań, nakład, liczba instytucji, do których materiał trafi. Dziś nie ma żadnej, więc sponsor nie ma czym podzielić kwoty i policzyć kosztu dotarcia.
+- **Wzór umowy sponsorskiej** jako załącznik do oferty. Skraca cykl decyzyjny po stronie działu prawnego; wycena do zapytania przy okazji konsultacji prawnej.
+- **Harmonogram produkcji antologii tydzień po tygodniu**, od 15 stycznia do zamknięcia treści. Do rozstrzygnięcia, czy zamknięcie zostaje 29 lutego, czy przesuwa się na połowę marca wraz z galą na maj. Rachunek i argumenty w `koncepcja.md`.
+- **Rozdzielenie kosztu narzędzi AI** między siedem budżetów proporcjonalnie do godzin. Wymaga przebudowy arkusza, bo wiersze „Razem koszty twarde" są scalone przez sześć kolumn i zapis do kolumny D przepada bez błędu. Obniżyłoby ofertę o około 27 tys. zł.
+- **Dystrybucja audiobooka** poza stroną Nagrody. Decyzja przy produkcji, nie teraz: bezpłatne nagranie na Spotify, YouTube i w katalogach podcastowych daje zasięg bez sprzeczności z obietnicą bezpłatności; Legimi dla bibliotek to osobny kanał niż Legimi konsumenckie. Płatne platformy abonamentowe tej obietnicy nie udźwigną.
