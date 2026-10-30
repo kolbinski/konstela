@@ -109,7 +109,7 @@ Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokaz
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Kwota obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyna pozycja bez ceny to produkcja podcastu, opisana wyżej. Kwota pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków. Kosztorys jest jawny z tego samego powodu, dla którego jawny jest regulamin: Mecenas ma wiedzieć, za co płaci, zanim zapyta.
+**292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Kwota obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyna pozycja bez ceny to produkcja podcastu, opisana wyżej. Kwota pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -137,7 +137,12 @@ Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokaz
 
 Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla kilkunastu czytelników i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
 
-Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone. **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy. **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji. Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
+Ostatnia pozycja tabeli obejmuje dwie różne rzeczy:
+
+- **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy.
+- **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji.
+
+Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
 Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury i publikację Archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
 
@@ -188,10 +193,10 @@ Rozliczenie: w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otr
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
 
-## <!--ikona:koperta--><span>Rozmowa</span>
+## <!--ikona:koperta--><span>Kontakt</span>
 
 Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism. Jeżeli zakres w tej postaci jest dla Państwa za szeroki, powiedzcie, którą jego część widzicie u siebie; antologię, Archiwum i podcast da się rozdzielić między partnerów.
 
-Krzysztof Olbiński, organizator Nagrody Konstela  
+Krzysztof Olbiński  
 +48 503 520 004  
-kontakt@konstela.org
+olbinski@gmail.com
