@@ -10,7 +10,7 @@
 - **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją;
 - **podcast towarzyszący** Nagrodzie.
 
-**Kosztuje to 344 422 zł netto** (423 639,06 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 180 362 zł netto** (221 845,26 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
@@ -130,32 +130,22 @@ Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwsz
 
 **Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny** (do wglądu na życzenie) w sprawie antologii. Stwierdza w nim, że tematyka mieści się w obszarze jego zainteresowań wydawniczych, i deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Podajemy to dokładnie w granicach, jakie sam list wyznacza: **nie przesądza on decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.**
 
-**Przed nami:**
+**Przed nami, w tej roli:**
 
-- **Powołanie fundacji** - notariusz, wpis do KRS, fundusz założycielski.
-- **Konsultacja prawna regulaminu** - przed otwarciem naboru, bo regulamin jest przyrzeczeniem publicznym i po otwarciu nie można go zmienić.
-- **Budowa czterech narzędzi:**
-    - **skraper**, który w chwili wpłynięcia zgłoszenia sporządza kopię archiwalną rozmowy - dzięki niej zapis nie znika, gdy uczestnik usunie udostępnienie albo dostawca zmieni zasady;
-    - **narzędzie do weryfikacji formalnej**, liczące słowa i wypowiedzi uczestnika, sprawdzające język i kompletność zgłoszenia;
-    - **panel oceny** dla czytelników akademii i dla jury, z przydziałami, kartą oceny i śladem audytowym każdej wystawionej oceny;
-    - **mechanizm publikowania Archiwum** na stronie, z przeglądaniem według daty, tytułu, autora i ocen.
-- **Przebudowa strony** - UI, UX i teksty, agencja zewnętrzna.
+- **Mechanizm publikowania Archiwum** na stronie, z przeglądaniem według daty, tytułu, podpisu i ocen.
+- **Redakcja i skład antologii** oraz jej wydanie dźwiękowe - praca zaczyna się po werdykcie jury, w styczniu 2028.
+- **Koordynacja podcastu** przez cały rok naboru.
 
-To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy i nie zależą od pozostałych partnerów.
+**Przed nami, poza tą rolą, ale przed otwarciem naboru:** powołanie fundacji, konsultacja prawna regulaminu, trzy narzędzia obsługujące wszystkie plebiscyty i przebudowa strony. Należą do roli Mecenasa Założycielskiego i mają własny budżet; opisujemy je tutaj, bo bez nich nabór się nie otworzy, a bez naboru nie ma antologii.
+
+Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu i mechanizm Archiwum od razu po podpisaniu umowy, produkcja wydania dopiero po werdykcie jury.
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**344 422 zł netto** (423 639,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
+**180 362 zł netto** (221 845,26 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
-| Powołanie fundacji-organizatora (notariusz, KRS, fundusz)         |       3 000 zł |
-| Konsultacja prawna przed otwarciem naboru                         |       6 000 zł |
-| Obsługa fundacji za pierwszy rok (księgowość, sprawozdania)       |       6 000 zł |
-| Domeny, poczta, hosting, magazyn kopii archiwalnych               |      10 000 zł |
-| Narzędzia sztucznej inteligencji i licencje oprogramowania (rok)  |      30 000 zł |
-| Rejestracja znaku towarowego Konstela w EUIPO                     |       4 500 zł |
-| Przebudowa strony Nagrody: UI/UX i teksty (agencja zewnętrzna)    |      15 000 zł |
 | Koordynator wydania i moderacji, I-IV 2028 (B2B)                  |      40 000 zł |
 | Korekta językowa antologii                                        |       4 000 zł |
 | Skład i przygotowanie do druku (DTP)                              |       3 000 zł |
@@ -163,19 +153,21 @@ To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy 
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
 | Produkcja podcastu wraz z honorarium prowadzącego (24 odcinki)    |       do wyceny |
 | Produkcja audiobooka antologii: trzej lektorzy, studio, montaż dialogowy |      40 000 zł |
-| **Koszty bezpośrednie razem**                                     | **165 500 zł** |
+| **Koszty bezpośrednie razem**                                     |  **91 000 zł** |
 | Redakcja i skład treści antologii, rozstrzyganie zgłoszeń oznaczonych przez oceniających (95 godz.) |      20 900 zł |
 | Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
-| Oprogramowanie: archiwizacja zgłoszeń, weryfikacja formalna, panel oceny, Archiwum na stronie (285 godz.) |      62 700 zł |
-| Wynagrodzenie wykonawcy części wydawniczej (20%)                  |      52 988 zł |
-| Rezerwa na przekroczenia (10%)                                    |      26 494 zł |
-| **Razem netto**                                                   | **344 422 zł** |
-| VAT 23%                                                           |   79 217,06 zł |
-| **Do zapłaty brutto**                                             | **423 639,06 zł** |
+| Mechanizm publikowania Archiwum na stronie (50 godz.)             |      11 000 zł |
+| Wynagrodzenie wykonawcy części wydawniczej (20%)                  |      27 748 zł |
+| Rezerwa na przekroczenia (10%)                                    |      13 874 zł |
+| **Razem netto**                                                   | **180 362 zł** |
+| VAT 23%                                                           |   41 483,26 zł |
+| **Do zapłaty brutto**                                             | **221 845,26 zł** |
 
-**Siedem pozycji w tej tabeli to koszty wspólne całego przedsięwzięcia**, a nie samej antologii: powołanie fundacji, konsultacja prawna, obsługa księgowa, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy i przebudowa strony - razem 74 500 zł. Służą czterem plebiscytom, akademii, gali i wystawie, a w pierwszej edycji pokrywa je w całości Mecenas Antologii, bo uruchamiają się najwcześniej i bez nich nie rusza nic. To jest realna treść tytułu **Mecenasa Założycielskiego**: w kolejnych edycjach koszty te rozkładają się na wszystkich partnerów, a powstałe za te pieniądze narzędzia, znak i strona służą każdemu następnemu rocznikowi. Mówimy o tym wprost, zamiast ukrywać te pozycje wśród kosztów wydania.
+**W tej tabeli nie ma kosztów wspólnych całego przedsięwzięcia.** Powołanie fundacji i jej obsługa, konsultacja prawna, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty mają osobny budżet i osobną rolę - **Mecenasa Założycielskiego**. Wydzieliliśmy je, bo obciążanie nimi mecenasa antologii znaczyło, że jeden partner finansuje infrastrukturę, z której korzystają wszyscy pozostali, i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona.
 
-Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla czytelników akademii i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
+Tu zostaje wyłącznie to, co jest produktem tej roli: redakcja i skład antologii, jej wydanie dźwiękowe, koordynacja podcastu oraz mechanizm publikowania Archiwum, bez którego Archiwum nie powstanie.
+
+Pozycja oprogramowania obejmuje jedno narzędzie: mechanizm publikowania Archiwum na stronie, z przeglądaniem według daty, tytułu, podpisu i ocen. Trzy pozostałe - skraper sporządzający kopię archiwalną zgłoszenia, narzędzie do weryfikacji formalnej i panel pracy dla akademii i jury - obsługują wszystkie cztery plebiscyty i należą do Budżetu Uruchomienia. Nadanie ISBN jest bezpłatne; pozycja została wymieniona, żeby lista była pełna.
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 
@@ -196,7 +188,7 @@ Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynato
 
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
-Tytuł **Mecenasa Antologii** we wszystkich wydaniach antologii pierwszej edycji - elektronicznym, drukowanym, dźwiękowym i każdym późniejszym dodruku. W audiobooku oznacza to odczytanie nazwy Mecenasa w zapowiedzi otwierającej nagranie oraz jej umieszczenie w opisie pliku, bo strony redakcyjnej nagranie nie ma. Ponieważ narzędzia powstałe za te pieniądze będą służyć wszystkim przyszłym edycjom, Mecenasowi przysługuje dodatkowo tytuł **Mecenasa Założycielskiego**, wymieniany w prologu każdej kolejnej antologii, również w edycjach następnych i również w nagraniu. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody.
+Tytuł **Mecenasa Antologii** we wszystkich wydaniach antologii pierwszej edycji - elektronicznym, drukowanym, dźwiękowym i każdym późniejszym dodruku. W audiobooku oznacza to odczytanie nazwy Mecenasa w zapowiedzi otwierającej nagranie oraz jej umieszczenie w opisie pliku, bo strony redakcyjnej nagranie nie ma. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody. Odrębny tytuł **Mecenasa Założycielskiego** przysługuje partnerowi, który sfinansuje powstanie fundacji, narzędzi i znaku towarowego - jest to osobna rola i osobna oferta.
 
 Poza tytułem Mecenas otrzymuje:
 
