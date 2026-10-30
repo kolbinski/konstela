@@ -93,9 +93,9 @@ Bez tych narzędzi 1 469 godzin pracy rozpisanych we wszystkich budżetach Nagro
 
 **Zasady, na jakich te zakupy są robione.** Imienna lista dostawców z cenami jest **załącznikiem do umowy**, nie niespodzianką w sprawozdaniu; przed podpisaniem Mecenas dostaje ją w postaci kalkulacji zakupów. Nazwy dostawców nie są dziś przesądzone, bo wybór zapada razem z polityką prywatności - decyduje o tym, co i komu powierzamy - ale kategorie i kwoty powyżej są wiążące. **Przesunięcie powyżej dziesiątej części którejkolwiek z tych dwóch pozycji wymaga pisemnej zgody Mecenasa**, a faktury wchodzą do sprawozdania. Obie pozycje rozliczane są co do złotówki: niewykorzystana część wraca do Mecenasa.
 
-**Kto finansuje te narzędzia po pierwszym roku.** Rok opłacony z tej oferty kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają w pierwszych miesiącach 2028. Ta luka jest zamknięta i nie obciąża Mecenasa Założycielskiego: **cztery miesiące domykające edycję, od stycznia do kwietnia 2028, są osobną pozycją w [budżecie fundatora nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - tego samego, który finansuje prowadzenie plebiscytu przez piętnaście miesięcy. Dalej, czyli od maja 2028, hosting i licencje są kosztem fundacji i pozycją budżetu kolejnej edycji.
+**Kto finansuje te narzędzia po pierwszym roku.** Rok opłacony z tej oferty kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają w pierwszych miesiącach 2028. **Cztery miesiące domykające edycję, od stycznia do kwietnia 2028, są osobną pozycją w [budżecie fundatora nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)**, tego samego, który finansuje prowadzenie plebiscytu przez piętnaście miesięcy. Nazywamy rzecz po imieniu: na dziś jest to **pozycja w kosztorysie, a nie przelew** - fundator nagród nie jest jeszcze pozyskany. Pokrycie pojawia się wraz z jego umową, a ta jest warunkiem otwarcia naboru, więc w dniu, w którym rusza nabór, te cztery miesiące mają umowę; przelew następuje po fakturach dostawców w 2028 roku. Od maja 2028 hosting i licencje są kosztem fundacji i pozycją budżetu kolejnej edycji.
 
-**Archiwum ma finansowanie na pięć lat.** Retencja pięcioletnia jest kupiona w pozycji infrastruktury i obejmuje magazyn kopii archiwalnych wraz z kopią zapasową. Po tym okresie Archiwum zostaje jako **statyczna kopia na bezpłatnym hostingu** - zachowuje treści i adresy, traci wyszukiwanie po ocenach i podpisach - a jedynym kosztem pozostaje domena. Nie obiecujemy dostępności bez wskazania, z czego jest opłacona.
+**Archiwum ma na pięć lat zaplanowane finansowanie**, co znaczy mniej niż „ma finansowanie": pozycja infrastruktury przewiduje magazyn kopii archiwalnych z kopią zapasową i retencją pięcioletnią, ale oferta dostawcy nie jest jeszcze podpisana. Wchodzi ona do kalkulacji zakupów, którą Mecenas dostaje przed decyzją, wraz z okresem, pojemnością i opłatami za udostępnianie - i to ją należy sprawdzić, nie nasze zdanie o niej. Po pięciu latach Archiwum zostaje jako **statyczna kopia** - zachowuje treści i adresy, traci wyszukiwanie po ocenach i podpisach - utrzymywana na bezpłatnym hostingu, którego warunki zależą od dostawcy zewnętrznego i których nikt nie może zagwarantować na dekadę. Pewny jest tylko koszt domeny i to, że kopia da się przenieść gdzie indziej.
 
 **Płatność etapami, każdy etap po odbiorze.** Mecenas nie przelewa całości z góry. Kwota dzieli się na sześć transz, a **każda z nich równa się kwotom z tabeli za to, co w danym etapie zostaje odebrane** - żadna transza nie finansuje prac odbieranych później:
 
@@ -173,15 +173,16 @@ Rola nie obejmuje puli nagród, honorariów jury i akademii, gali, antologii, Ar
 
 **Przed nami, czyli przedmiot tej oferty.** Fundacja, konsultacja prawna, zgłoszenie znaku, strona z wersją mobilną i trzy narzędzia. **Budowa nie zależy od żadnego innego partnera** i może ruszyć natychmiast po podpisaniu umowy - to jest różnica między tą rolą a pozostałymi. To, czy narzędzia się przydadzą, zależy już od tego, czy edycja się odbędzie, i tego nie ukrywamy.
 
-## <!--ikona:dokument--><span>Co Mecenas dostaje przed podpisaniem umowy</span>
+## <!--ikona:dokument--><span>Co Mecenas dostaje przed jakimkolwiek zobowiązaniem</span>
 
-Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Trzy dokumenty idą do Mecenasa przed decyzją, a nie po niej:
+Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Cztery dokumenty idą do Mecenasa **przed umową przedwstępną**, czyli zanim cokolwiek podpisze i zanim weźmie na siebie jakiekolwiek zobowiązanie:
 
-1. **Projekt umowy** wraz z zapisami o etapach, odbiorze, dacie granicznej i zamknięciu, opisanymi wyżej.
+1. **Projekt umowy właściwej** w ostatecznym brzmieniu, wraz z zapisami o etapach, odbiorze, dacie granicznej i zamknięciu, opisanymi wyżej.
 2. **Specyfikacja odbiorowa** - lista sprawdzeń dla każdego z czterech narzędzi, po której widać, co znaczy „odebrane", bez znajomości kodu.
-3. **Kalkulacja zakupów** - imienna lista dostawców infrastruktury i narzędzi AI wraz z cenami, stanowiąca załącznik do umowy.
+3. **Kalkulacja zakupów** - imienna lista dostawców infrastruktury i narzędzi AI wraz z cenami, okresami i pojemnościami.
+4. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 
-Wszystkie trzy przygotowujemy na prośbę, bez zobowiązania po stronie Mecenasa i bez opłaty.
+Wszystkie cztery przygotowujemy na prośbę, bez zobowiązania po stronie Mecenasa i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, specyfikacja i kalkulacja stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Mecenas jeszcze nie widział.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
@@ -202,16 +203,27 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. **Um
 
 **Jak jest pokryty koszt startu, skoro fundacji jeszcze nie ma.** Powołanie fundacji kosztuje około 3 000 zł - taksa notarialna z wypisami, opłaty za wpis do rejestru stowarzyszeń i do rejestru przedsiębiorców wraz z ogłoszeniem w Monitorze Sądowym i Gospodarczym oraz fundusz założycielski w wysokości 2 000 zł, z czego 1 000 zł ustawa przeznacza na działalność gospodarczą. Ten wydatek wypada przed powstaniem fundacji, więc nie ma komu wystawić faktury. Zamiast finansować go z prywatnych środków Organizatora, który przy wycofaniu się Mecenasa zostałby z tym sam, w dniu decyzji podpisywane są dwa krótkie dokumenty:
 
-1. **Umowa przedwstępna** - Mecenas zobowiązuje się zawrzeć umowę właściwą z fundacją w ciągu czternastu dni od jej wpisu, a Organizator zobowiązuje się doprowadzić do wpisu w ciągu sześćdziesięciu dni. Umowie towarzyszy **zadatek równy kosztowi powołania**, czyli około 3 000 zł, w rozumieniu art. 394 Kodeksu cywilnego: jeżeli wycofa się Mecenas, zadatek zostaje i pokrywa poniesione opłaty; jeżeli wycofa się Organizator, zwraca go w dwukrotnej wysokości. Zobowiązanie jest symetryczne i kosztuje obie strony tyle samo.
+1. **Umowa przedwstępna** - Mecenas zobowiązuje się zawrzeć umowę właściwą z fundacją w ciągu czternastu dni od jej wpisu, na warunkach, które są jej załącznikiem i które widział wcześniej; Organizator zobowiązuje się doprowadzić do wpisu w ciągu sześćdziesięciu dni. Umowie towarzyszy **zadatek równy kosztowi powołania**, czyli około 3 000 zł, w rozumieniu art. 394 Kodeksu cywilnego.
 2. **Umowa na czynności przygotowawcze** - obejmuje wyłącznie wizytę u notariusza, wnioski rejestrowe, opłaty i wniesienie funduszu założycielskiego. Rozliczana jest **zwrotem udokumentowanych kosztów co do złotówki, bez wynagrodzenia i bez narzutu**: nikt na niej nie zarabia, a każda złotówka ma fakturę albo dowód opłaty.
 
-Kiedy fundacja jest już w rejestrze, kwota rozliczona w ten sposób **zalicza się na poczet pierwszej transzy**, a część niewykorzystana wraca do Mecenasa. Jeżeli powołanie kosztuje 2 500 zł, pierwsza faktura fundacji opiewa na 6 500 zł zamiast 9 000 zł. **Suma, którą Mecenas płaci za całość, pozostaje ta sama i wynosi 183 480 zł netto** - nic nie jest płacone dwa razy. Osobno umowa przedwstępna rozstrzyga przypadek, w którym sąd odmawia wpisu: zadatek wraca w kwocie pojedynczej, a poniesione opłaty rozliczane są z faktur, bo winy nie ponosi żadna ze stron.
+**Cztery możliwe zakończenia i ostateczny rachunek każdego z nich.** W przykładzie poniżej zadatek wynosi 3 000 zł, a faktyczne opłaty u notariusza i w sądzie 2 500 zł; kwoty netto.
+
+| Co się dzieje                                   | Ostateczny koszt Mecenasa | Co zostaje u Organizatora |
+| ----------------------------------------------- | -------------------------: | ------------------------- |
+| Fundacja wpisana, umowa właściwa zawarta        |             183 480 zł za całość | nic ponad zwrot 2 500 zł opłat; pierwsza faktura fundacji opiewa na 6 500 zł zamiast 9 000 zł, a 500 zł niewykorzystane wraca |
+| Mecenas rezygnuje przed umową właściwą          |                   3 000 zł | zadatek 3 000 zł, z czego 2 500 zł pokrywa poniesione opłaty; fundacja, jeżeli już powstała, zostaje przy Organizatorze wraz z obowiązkami jej prowadzenia |
+| Organizator rezygnuje przed umową właściwą      |      zwrot 6 000 zł, czyli 3 000 zł na plus | nic; zwraca dwukrotność zadatku i sam ponosi 2 500 zł opłat |
+| Sąd odmawia wpisu bez winy stron                |                   2 500 zł | zwrot opłat; do Mecenasa wraca 500 zł, czyli zadatek pomniejszony o udokumentowane wydatki |
+
+Ostatni wiersz wymaga jednego zdania wprost: **przy odmowie wpisu niezawinionej przez nikogo koszt nieudanej próby ponosi Mecenas**, bo są to te same opłaty, które zapłaciłby przy powodzeniu. Jeżeli odmowa wynika z błędu Organizatora - wadliwego wniosku, braków w dokumentach - zadatek wraca w pełnej wysokości, a opłaty obciążają Organizatora.
+
+**Suma, którą Mecenas płaci za całość, nie zmienia się przez ten mechanizm i wynosi 183 480 zł netto.** Zadatek nie jest dodatkową opłatą, tylko wcześniej zapłaconą częścią pierwszej transzy.
 
 **Kto wykonuje prace, za które Mecenas płaci.** Prace programistyczne - skraper, weryfikacja formalna, panel oceny i wersja mobilna - wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu: 220 zł za godzinę i wynagrodzenie wykonawcy liczone wyłącznie od pracy własnej. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po. **Kto tę umowę zawiera i kto odbiera pracę.** Nie Organizator sam ze sobą. Statut fundacji powierza zawieranie, zmianę i rozwiązywanie umów z członkami Zarządu **Radzie Fundacji** - organowi, w którym nie może zasiadać żaden członek Zarządu. To Rada podejmuje uchwałę o zawarciu umowy z działalnością Organizatora, Rada przyjmuje protokół odbioru każdego z sześciu etapów i Rada zatwierdza rozliczenie godzin. Odbiór następuje według warunków opisanych wyżej przy każdym narzędziu, a nie według uznania. **Mecenas może ponadto wskazać osobę, która uczestniczy w odbiorze etapów i otrzymuje protokoły.**
 
 Co do kompetencji technicznej mówimy wprost: sprawdzenie, czy powiadomienie przychodzi i audiobook się odtwarza, nie wymaga programisty, ale ocena bezpieczeństwa, kompletności archiwizacji i tego, czy system da się przejąć innemu wykonawcy - już tak. Dlatego:
 
-- **co najmniej jedna osoba w Radzie Fundacji ma kompetencje techniczne**, a skład Rady wraz z nazwiskami Mecenas poznaje przed podpisaniem umowy, nie po;
+- **co najmniej jedna osoba w Radzie Fundacji ma kompetencje techniczne**, a skład Rady wraz z nazwiskami Mecenas poznaje przed umową przedwstępną, czyli przed jakimkolwiek zobowiązaniem;
 - **Mecenas może wskazać niezależnego programistę do odbioru etapów narzędziowych**; jego honorarium do 5 000 zł pokrywa rezerwa budżetu, więc sprawdzenie nie podnosi kwoty oferty i nie obciąża tego, kto już zapłacił za prace;
 - opinia takiego programisty jest **wiążąca dla odbioru**: etap uznany za niewykonany nie zostaje odebrany, a transza nie staje się wymagalna.
 
