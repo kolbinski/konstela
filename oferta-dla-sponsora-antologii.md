@@ -107,6 +107,16 @@ Przy podcaście mówimy od razu, czego kwota z tej oferty nie obejmuje. Mieści 
 
 Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokazuje przegląd opracowań opisany wyżej - nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
+## <!--ikona:etap--><span>Stan przygotowań</span>
+
+Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwszą edycję, która dopiero powstaje.
+
+**Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny. Strona Nagrody działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a statut fundacji jest gotowy w projekcie. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
+
+**W toku.** Jury nie jest jeszcze skompletowane. Nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Zainteresowanie wydaniem antologii wyraziły dwa wydawnictwa; żadnej umowy jeszcze nie ma i nie wymieniamy nazw, dopóki zainteresowanie nie zostanie potwierdzone na piśmie. Tak samo postępujemy z jurorami.
+
+**Przed nami.** Powołanie fundacji, konsultacja prawna regulaminu, budowa czterech narzędzi i przebudowa strony. To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy i nie zależą od pozostałych partnerów.
+
 ## <!--ikona:moneta--><span>Kwota</span>
 
 **292 422 zł netto** (359 679,06 zł brutto z VAT 23%) za pierwszą edycję, płatne jednorazowo przy podpisaniu umowy, fakturą za usługę, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
@@ -139,14 +149,14 @@ Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Arch
 
 Ostatnia pozycja tabeli obejmuje dwie różne rzeczy:
 
-- **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy.
+- **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością od podpisania umowy do rozliczenia edycji.
 - **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji.
 
 Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
 Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury i publikację Archiwum przez pozostałą część roku. Te zakresy się nie pokrywają i nie są liczone dwa razy.
 
-**Co, jeżeli edycja nie ruszy.** Przedsięwzięcie ma dwóch partnerów i pula nagród zależy od drugiego z nich. Regulamin przewiduje, że nabór nie zostanie otwarty, jeżeli warunki nie będą spełnione. Umowa zawiera więc klauzulę rozliczenia: jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję. Prace, które mogą ruszyć od razu i niezależnie od drugiego partnera, to powołanie fundacji, konsultacja prawna, przebudowa strony i budowa narzędzi; pozostałe pozycje uruchamiają się dopiero po otwarciu naboru.
+**Co, jeżeli edycja nie ruszy.** Pula nagród zależy od innego partnera, a regulamin wymienia trzy warunki, które muszą być spełnione łącznie, żeby nabór w ogóle się otworzył: cała ogłaszana pula nagród ma pokrycie w środkach, które wpłynęły już na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a jego skład został ogłoszony; regulamin przeszedł konsultację prawną. Osobno regulamin przewiduje próg po stronie uczestników: jeżeli w terminie wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane. Próg ogłaszany jest w dniu otwarcia naboru i później nie może zostać zmieniony. Umowa zawiera więc klauzulę rozliczenia: jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję. Prace, które mogą ruszyć od razu i niezależnie od drugiego partnera, to powołanie fundacji, konsultacja prawna, przebudowa strony i budowa narzędzi; pozostałe pozycje uruchamiają się dopiero po otwarciu naboru.
 
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
@@ -198,7 +208,9 @@ Rozliczenie: w ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otr
 
 ## <!--ikona:zasady--><span>Kto odpowiada</span>
 
-Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
+Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru.
+
+**Umowę mecenatu podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Koszt powołania fundacji jest pierwszą pozycją kosztorysu i do czasu podpisania umowy ponosi go Organizator z własnych środków; rozliczany jest po jej zawarciu. Dzięki temu Mecenas przelewa środki podmiotowi, który istnieje, ma numer KRS i statut ograniczający go do prowadzenia Nagrody. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
