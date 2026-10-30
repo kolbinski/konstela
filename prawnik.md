@@ -327,7 +327,7 @@ Prosimy o rozstrzygnięcie i o dwa wzory - dla jurora i dla członka akademii - 
 
 ## Cm. Mecenat antologii - pytania z przeglądu oferty (dodane 30.10.2026)
 
-Pytania powstały przy sprawdzaniu [oferty mecenatu](/oferta-dla-sponsora-antologii) pod kątem zgodności z regulaminem. Dotyczą umowy sponsorskiej na kwotę rzędu 292 tys. zł netto i konstrukcji, która ma tę umowę unieść.
+Pytania powstały przy sprawdzaniu [oferty mecenatu](/oferta-dla-mecenasa-antologii-nagrody-konstela) pod kątem zgodności z regulaminem. Dotyczą umowy sponsorskiej na kwotę rzędu 292 tys. zł netto i konstrukcji, która ma tę umowę unieść.
 
 1. **Licencja bez prawa sublicencji a wydanie książkowe.** § 11 regulaminu daje licencję wyłącznie Organizatorowi i wyłącza wykorzystanie komercyjne przez osoby trzecie. Jednocześnie planowane jest wydanie książkowe, które drukuje i sprzedaje partner wydawniczy, czyli osoba trzecia. Czy przy obecnym brzmieniu wydawca może legalnie wydrukować i sprzedać antologię? Jeżeli nie - jak zapisać prawo udzielania dalszych licencji w zakresie niezbędnym do wydania i dystrybucji, nie rozszerzając uprawnień Organizatora ponad to, co konieczne?
 

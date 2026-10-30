@@ -71,7 +71,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <article>
 <h3>Mecenas antologii i Archiwum</h3>
 <p>Redakcja, skład i druk antologii, bezpłatny audiobook czytany przez trzech lektorów, utrzymanie publicznego Archiwum oraz podcast towarzyszący Nagrodzie. <strong>Pełna propozycja wraz z kwotą i kosztorysem jest opisana osobno.</strong></p>
-<p class="wiecej"><a href="/oferta-dla-sponsora-antologii">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/oferta-dla-mecenasa-antologii-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Partner wydawniczy antologii</h3>

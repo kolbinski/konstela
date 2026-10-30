@@ -3,7 +3,7 @@
 Notatki wyjęte z `list-do-wodzynskiego.md`, żeby ten plik był gotowy do konwersji na PDF bez wycinania czegokolwiek.
 
 - Wysyłamy pocztą, listem poleconym, na adres podany na tubadzin.pl. Nie przez formularz kontaktowy i nie z prośbą o przekazanie adresu mailowego prezesa - sekretariat nie ma uprawnień, żeby taki adres wydać, a prośba o kontakt wygląda jak pierwszy ruch sprzedażowy.
-- W kopercie dwie rzeczy: list i wydruk propozycji mecenatu ze strony [konstela.org/oferta-dla-sponsora-antologii](https://konstela.org/oferta-dla-sponsora-antologii). Bez dodatków. Książki nie dołączamy.
+- W kopercie dwie rzeczy: list i wydruk propozycji mecenatu ze strony [konstela.org/oferta-dla-mecenasa-antologii-nagrody-konstela](https://konstela.org/oferta-dla-mecenasa-antologii-nagrody-konstela). Bez dodatków. Książki nie dołączamy.
 - **Osobnej oferty dla Tubądzina już nie ma** (skasowana 30.10.2026). Była kopią tej samej treści i zaczęła się rozjeżdżać z wersją publiczną; jedyną różnicą było zdanie o umowie z Grupą Tubądzin, które i tak należy do listu przewodniego, nie do oferty. Przed drukiem sprawdzić, czy strona publiczna jest aktualna.
 - List drukowany na papierze firmowym; miejscowość i data z nagłówka papieru, dlatego w pliku ich nie ma.
 - List ma zmieścić się na jednej stronie. Jeżeli po wydruku wychodzi na dwie, skracamy akapit o Ministerstwie.

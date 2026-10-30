@@ -4,7 +4,7 @@ Lista robocza, nie dokument do wysłania. Rozstrzygnięcia merytoryczne są w `k
 
 ## Dziś
 
-- [ ] **Wysłać list do Andrzeja Wodzyńskiego (Grupa Tubądzin).** List na papierze firmowym, do koperty wydruk strony [oferta dla sponsora antologii](/oferta-dla-sponsora-antologii), przesyłka polecona. Oferta jest skończona: przeszła dwa przeglądy, ma kwotę 344 422 zł netto, klauzulę frekwencyjną, wyłączność w kategorii, stan przygotowań i podpisany list intencyjny wydawcy. Szczegóły w `list-do-wodzynskiego-notatki.md`. **To jedyny żywy trop sponsorski; każda dalsza poprawka oferty jest szlifowaniem czegoś, czego nikt nie przeczytał.**
+- [ ] **Wysłać list do Andrzeja Wodzyńskiego (Grupa Tubądzin).** List na papierze firmowym, do koperty wydruk strony [oferta dla sponsora antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela), przesyłka polecona. Oferta jest skończona: przeszła dwa przeglądy, ma kwotę 344 422 zł netto, klauzulę frekwencyjną, wyłączność w kategorii, stan przygotowań i podpisany list intencyjny wydawcy. Szczegóły w `list-do-wodzynskiego-notatki.md`. **To jedyny żywy trop sponsorski; każda dalsza poprawka oferty jest szlifowaniem czegoś, czego nikt nie przeczytał.**
 - [ ] **Odpowiedzieć Universitas** na podpisany list intencyjny. Treść przygotowana w rozmowie z 30.10. Zawiera zastrzeżenie, że prawa do wydania dźwiękowego zostają przy fundacji - im wcześniej padnie, tym mniej kosztuje przy negocjacjach w 2028.
 - [ ] **Wysłać DM do Matyldy Damięckiej** w sprawie jury plebiscytu plakatu. Treść przygotowana 28.10, wysyłka obsuwa się trzeci dzień.
 

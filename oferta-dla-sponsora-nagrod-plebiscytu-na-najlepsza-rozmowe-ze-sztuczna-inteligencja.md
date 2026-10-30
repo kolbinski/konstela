@@ -8,7 +8,7 @@
 
 Jest to rola najbardziej widoczna w całym przedsięwzięciu. O nagrodzie piszą media, nagrodę wymienia się w każdej wzmiance o plebiscycie, a wysokość puli jest tym, co decyduje, czy w ogóle napiszą.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** - rola opisana na tej stronie - finansuje pulę i pracę jury. **Sponsor akademii** pierwszą rundę oceny we wszystkich czterech plebiscytach, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: [antologię, Archiwum i podcast](/oferta-dla-sponsora-antologii). Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** - rola opisana na tej stronie - finansuje pulę i pracę jury. **Sponsor akademii** pierwszą rundę oceny we wszystkich czterech plebiscytach, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: [antologię, Archiwum i podcast](/oferta-dla-mecenasa-antologii-nagrody-konstela). Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
