@@ -124,7 +124,7 @@ Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokaz
 
 Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwszą edycję, która dopiero powstaje.
 
-**Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny. Strona Nagrody działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a statut fundacji jest gotowy w projekcie. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
+**Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny. Strona Nagrody działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a statut fundacji jest gotowy w projekcie. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
 
 **W toku.** Jury nie jest jeszcze skompletowane. Nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony; nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie.
 
@@ -259,7 +259,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Sponsor nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 268 160 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
 - **[Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 165 840 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 167 072 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 62 048 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>

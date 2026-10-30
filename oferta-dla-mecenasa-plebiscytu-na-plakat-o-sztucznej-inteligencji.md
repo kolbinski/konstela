@@ -4,7 +4,7 @@
 
 ## <!--ikona:plakat--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 165 840 zł netto** (203 983,20 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 167 072 zł netto** (205 498,56 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 **Rola nazywa się mecenasem, a nie sponsorem, i to nie jest kwestia uprzejmości.** Sponsor finansuje pulę nagród. Tutaj pieniądze idą także na rzeczy, których w puli nie ma: na przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów dziesięciu prac finałowych, na wystawę przy gali i na dotarcie do szkół artystycznych oraz środowiska ilustratorów. To jest opieka nad obiegiem prac, nie wypłata nagrody.
 
@@ -62,7 +62,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**165 840 zł netto** (203 983,20 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plakatu), który jest jawny i dostępny bez żadnych warunków.
+**167 072 zł netto** (205 498,56 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plakatu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |             Netto |
 | -------------------------------------------------------------- | ------------------: |
@@ -71,7 +71,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 | Medal zwycięzcy i dyplomy finalistów                         |       1 200 zł |
 | Transport oryginałów w obie strony (800 zł za pracę razy 10)  |       8 000 zł |
 | Ubezpieczenie prac na czas wystawy                           |       3 000 zł |
-| Praca organizatora (190 godz. po 220 zł)                     |      41 800 zł |
+| Praca organizatora (195 godz. po 220 zł)                     |      42 900 zł |
 | Honoraria jury plakatu za ocenę                              |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                        |    do ustalenia |
 | Realizacja wystawy przy gali                                 |      do wyceny |
@@ -79,14 +79,14 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 | Dojazd i nocleg finalistów na galę - w budżecie gali          |             0 zł |
 | Polisa obejmująca wycenę prac, przechowywanie i okres po sprzedaży |      do wyceny |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu |       3 000 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                   |       6 840 zł |
-| **Razem netto**                                              | **165 840 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                   |       6 972 zł |
+| **Razem netto**                                              | **167 072 zł** |
 | VAT 23%                                                      |   37 370,40 zł |
-| **Do zapłaty brutto**                                        | **203 983,20 zł** |
+| **Do zapłaty brutto**                                        | **205 498,56 zł** |
 
-**Praca organizatora to 190 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
+**Praca organizatora to 195 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
 
-- **kontrola formalna zgłoszeń plakatów - 20 godzin**: format, proporcje, jakość zdjęcia, deklaracja narzędzi, kompletność nagrania z pracy;
+- **kontrola formalna zgłoszeń plakatów - 25 godzin**: format, proporcje, jakość zdjęcia, deklaracja narzędzi oraz obejrzenie nagrania z pracy; 10 minut na zgłoszenie, bo samo nagranie trwa co najmniej 3 minuty;
 - **obsługa jury - 30 godzin**: przydziały, kalibracja ocen, wyłączenia od oceny, zebranie werdyktu dziesiątki;
 - **obsługa głosowania publiczności - 20 godzin**: uruchomienie głosowania, weryfikacja głosów, zebranie i ocena uzasadnień;
 - **przyjęcie, ewidencja i zwrot oryginałów finalistów - 35 godzin**: korespondencja z dziesiątką, protokoły stanu prac, nadzór nad przesyłkami w obie strony;
@@ -96,7 +96,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 
 **Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje proporcjonalnie.
 
-**Cztery pozycje czekają na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 165 840 zł:
+**Cztery pozycje czekają na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 167 072 zł:
 
 - **honoraria jury plakatu za ocenę** oraz **honoraria za etap przygotowawczy**, czyli za przygotowanie karty oceny przed otwarciem naboru - do ustalenia po skompletowaniu jury;
 - **realizacja wystawy przy gali**: zawieszenie, oświetlenie, opisy prac i obsługa sali;
@@ -109,9 +109,9 @@ Każdą z nich uzgadniamy osobno, aneksem, po przedstawieniu Mecenasowi oferty d
 
 **Dojazd i nocleg finalistów pokrywa [sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)**, a nie ta oferta. Gala jest wspólna dla czterech plebiscytów i przyjeżdża na nią czterdziestu finalistów, więc jeden partner organizuje i rozlicza cały przyjazd. Pozycja zostaje w zestawieniu z kwotą zero, żeby było widać, że koszt istnieje i kto go ponosi.
 
-**Co skaluje się z liczbą zgłoszeń, a co nie.** Kontrola formalna rozliczana jest **według faktycznej liczby zgłoszeń**, po 8 minut na zgłoszenie - przy 15 zgłoszeniach Mecenas nie płaci za kontrolę 150. Tak samo transport i ubezpieczenie rozliczają się według liczby przysłanych oryginałów. Pozostałe godziny - dotarcie do szkół, obsługa jury, uzgodnienie okładki, obsługa licytacji - są ryczałtem, bo ich nakład nie zależy od frekwencji: do szkoły trzeba napisać niezależnie od tego, ilu uczniów odpowie. Różnica wraca do Mecenasa przy rozliczeniu.
+**Co skaluje się z liczbą zgłoszeń, a co nie.** Kontrola formalna rozliczana jest **według faktycznej liczby zgłoszeń**, po 10 minut na zgłoszenie - przy 15 zgłoszeniach Mecenas nie płaci za kontrolę 150. Tak samo transport i ubezpieczenie rozliczają się według liczby przysłanych oryginałów. Pozostałe godziny - dotarcie do szkół, obsługa jury, uzgodnienie okładki, obsługa licytacji - są ryczałtem, bo ich nakład nie zależy od frekwencji: do szkoły trzeba napisać niezależnie od tego, ilu uczniów odpowie. Różnica wraca do Mecenasa przy rozliczeniu.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów twardych, bez nagród** - od 54 000 zł, czyli 41 800 zł pracy oraz 12 200 zł medalu, dyplomów, transportu i ubezpieczenia. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Mecenasa albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów twardych, bez nagród** - od 58 100 zł, czyli 42 900 zł pracy oraz 15 200 zł medalu, dyplomów, transportu, ubezpieczenia i honorariów zespołu wybierającego najlepsze uzasadnienie. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Mecenasa albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród, a podatek odprowadza Organizator, nie laureat. Sposób rozliczenia przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
@@ -145,7 +145,7 @@ Osobno regulamin przewiduje **dwie przesłanki nierozstrzygnięcia edycji** (§ 
 
 Umowa zawiera **klauzulę rozliczenia**: jeżeli prace nie zostaną wykonane w całości albo w części, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych, a kwota niewykorzystana wraca do Mecenasa albo przechodzi na kolejną edycję, według jego wyboru. Dotyczy to także pozycji transportu i ubezpieczenia przy mniejszej liczbie przysłanych oryginałów.
 
-Budżet policzony jest na **150 zgłoszeń plakatów** i to jest liczba, na którą pracujemy: 20 godzin kontroli formalnej to 8 minut na zgłoszenie razy 150. Pięćdziesiąt godzin dotarcia do szkół artystycznych i środowiska ilustratorów jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
+Budżet policzony jest na **150 zgłoszeń plakatów** i to jest liczba, na którą pracujemy: 25 godzin kontroli formalnej to 10 minut na zgłoszenie razy 150. Pięćdziesiąt godzin dotarcia do szkół artystycznych i środowiska ilustratorów jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
 
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
