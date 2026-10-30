@@ -176,13 +176,14 @@ Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 
 **Co się dzieje z niewykorzystaną rezerwą i z pozycjami, których nie poniesiono** - na przykład z krótkim nakładem na galę, jeżeli wydawca dostarczy książkę na premierę. Kwota wraca do Mecenasa albo, na jego pisemny wybór, przechodzi na antologię kolejnej edycji. **Nigdy na pulę nagród**, bo z mecenatu antologii nie finansujemy laureatów.
 
-**Płatność etapami, każdy etap po odbiorze.** Mecenas nie przelewa całości przy podpisaniu umowy. Kwota dzieli się na transze wymagalne po przedstawieniu rezultatu, który da się sprawdzić:
+**Płatność etapami, każdy etap po odbiorze.** Mecenas nie przelewa całości przy podpisaniu umowy. Kwota dzieli się na transze wymagalne po przedstawieniu rezultatu, który da się sprawdzić, a **każda z nich równa się kwotom z tabeli za to, co w danym etapie zostaje odebrane**:
 
 1. **Mechanizm Archiwum** - 11 000 zł netto, po udostępnieniu publicznego Archiwum na stronie.
 2. **Koordynacja podcastu** - 15 840 zł netto, w dwóch częściach po 7 920 zł: po dwunastym i po dwudziestym czwartym odcinku.
-3. **Redakcja, skład i druk** - 71 900 zł netto, w dwóch częściach: połowa po przyjęciu złożonego tomu, połowa po premierze bezpłatnego e-booka.
-4. **Audiobook** - 40 000 zł netto, po odbiorze gotowego nagrania.
-5. **Rozliczenie końcowe** - 23 422 zł netto, obejmujące wynagrodzenie wykonawcy i rezerwę, po przyjęciu sprawozdania.
+3. **Redakcja i skład** - 67 900 zł netto, po przyjęciu złożonego tomu i premierze bezpłatnego e-booka; składają się na to koordynator wydania, redakcja, korekta i skład.
+4. **Krótki nakład na galę** - 4 000 zł netto, po dostarczeniu egzemplarzy; pozycja warunkowa, odpada, jeżeli wydawca dostarczy książkę na premierę.
+5. **Audiobook** - 40 000 zł netto, po odbiorze gotowego nagrania.
+6. **Rozliczenie końcowe** - 23 422 zł netto, obejmujące wynagrodzenie wykonawcy i rezerwę, po przyjęciu sprawozdania.
 
 Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Jeżeli edycja zostaje przerwana, Mecenas zapłacił dotąd wyłącznie za to, co istnieje.
 
@@ -247,7 +248,7 @@ Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telew
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru.
 
-**Kto wykonuje prace, za które Mecenas płaci.** Redakcję i skład treści antologii, koordynację podcastu oraz mechanizm publikowania Archiwum wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po. Zabezpieczenia są trzy: stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu, godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną. Pozycje zewnętrzne - koordynator wydania, korekta, skład, druk, studio nagraniowe i lektorzy - wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu, a wynagrodzenie wykonawcy liczone jest wyłącznie od pracy własnej.
+**Kto wykonuje prace, za które Mecenas płaci.** Redakcję i skład treści antologii, koordynację podcastu oraz mechanizm publikowania Archiwum wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po. Umowę z tą działalnością zawiera nie Organizator sam ze sobą: statut powierza umowy z członkami Zarządu **Radzie Fundacji**, organowi, w którym nie może zasiadać żaden członek Zarządu, i to Rada przyjmuje protokół odbioru każdego etapu oraz zatwierdza rozliczenie godzin. Mecenas może wskazać osobę, która uczestniczy w odbiorze i otrzymuje protokoły. Pozostałe zabezpieczenia są trzy: stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu, godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną. Pozycje zewnętrzne - koordynator wydania, korekta, skład, druk, studio nagraniowe i lektorzy - wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu, a wynagrodzenie wykonawcy liczone jest wyłącznie od pracy własnej.
 
 **Umowę mecenatu podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Koszt powołania fundacji jest pierwszą pozycją kosztorysu i do czasu podpisania umowy ponosi go Organizator z własnych środków; rozliczany jest po jej zawarciu. Dzięki temu Mecenas przelewa środki podmiotowi, który istnieje, ma numer KRS i statut ograniczający go do prowadzenia Nagrody. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. Pełne [regulaminy](/regulaminy) wszystkich czterech plebiscytów są jawne.
 
