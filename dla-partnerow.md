@@ -71,7 +71,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <article>
 <h3>Mecenas Założycielski</h3>
 <p>Powołanie fundacji i jej obsługa, konsultacja prawna regulaminu, przebudowa strony, znak towarowy oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny. <strong>Wszystko powstaje raz i służy każdej kolejnej edycji</strong>, a tytuł Mecenasa Założycielskiego wymieniany jest w prologu każdej następnej antologii.</p>
-<p class="wiecej"><a href="/dla-partnerow#wydania-pokazy-i-wystawa">Czytaj więcej</a></p>
+<p class="wiecej"><a href="/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Mecenas antologii i Archiwum</h3>

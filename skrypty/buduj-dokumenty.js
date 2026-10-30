@@ -160,6 +160,7 @@ const PUBLICZNE = new Set([
   'jury-w-plebiscycie-rozmowy-z-ai',
   'oferta-dla-mecenasa-antologii-nagrody-konstela',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja',
+  'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela',
 ]);
 
 /* Oferty partnerskie. Dostają nad nagłówkiem pasek z dwoma przyciskami:
@@ -169,6 +170,7 @@ const PUBLICZNE = new Set([
    z treścią. Arkusz stylów ma już sekcję @media print, która zdejmuje
    nawigację. */
 const OFERTY = new Set([
+  'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela',
   'oferta-dla-mecenasa-antologii-nagrody-konstela',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja',
 ]);
@@ -197,6 +199,7 @@ const DEDYKOWANE = {
   regulaminy: 'regulaminy',
   'oferta-dla-mecenasa-antologii-nagrody-konstela': 'oferta-dla-mecenasa-antologii-nagrody-konstela',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja': 'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja',
+  'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela': 'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela',
 };
 
 /* Opisy stron publicznych pisane ręcznie. Dokumenty prawne zaczynają się od
@@ -230,6 +233,8 @@ const OPISY = {
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na film o sztucznej inteligencji i co daje w zamian: zakres pracy, karta oceny, honorarium, niezależność werdyktu i terminy pierwszej edycji.',
   'jury-w-plebiscycie-rozmowy-z-ai':
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na rozmowę ze sztuczną inteligencją i co daje w zamian: zakres pracy, karta oceny, komentarze do antologii, honorarium i niezależność werdyktu.',
+  'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela':
+    'Oferta dla Mecenasa Założycielskiego Nagrody Konstela: fundacja, znak towarowy, strona z wersją mobilną i trzy narzędzia obsługujące wszystkie plebiscyty. 198 380 zł netto, kosztorys i warunki.',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja':
     'Oferta dla fundatora puli nagród w plebiscycie na rozmowę ze sztuczną inteligencją: 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu. Kwota, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-antologii-nagrody-konstela':
