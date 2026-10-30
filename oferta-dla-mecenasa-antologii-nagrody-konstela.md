@@ -243,7 +243,7 @@ Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telew
 
 ## <!--ikona:zasady--><span>Kto odpowiada</span>
 
-**Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej, autor książki „365 pytań, które zmieniły wszystko". Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski) i można go sprawdzić przed podpisaniem umowy. Narzędzia opisane w tej ofercie buduje osobiście; to samo doświadczenie odpowiada za to, że zapisy o sztucznej inteligencji w regulaminach nie są napisane z zewnątrz.
+**Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru.
 
