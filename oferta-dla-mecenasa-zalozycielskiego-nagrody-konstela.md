@@ -66,11 +66,36 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 
 Praca programistyczna to **355 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody. Godziny obejmują wyłącznie wytworzenie czterech narzędzi: analizę, projekt, napisanie kodu, testy, wdrożenie i dokumentację wdrożeniową. Nie ma w nich niczego innego.
 
-**Wynagrodzenie wykonawcy to zapłata za pracę, której nie da się rozliczyć godzinowo**, i dotyczy czynności, których w tych 355 godzinach nie ma: prowadzenia rozmów z partnerami i instytucjami, przygotowania i negocjacji umów, wyboru dostawców oraz nadzoru nad notariuszem, kancelarią, agencją i księgowością, sprawozdawczości wobec Mecenasa, a także prowadzenia fundacji od podpisania umowy do rozliczenia. Zakresy się nie nakładają: godzina spędzona przy kodzie jest rozliczana godzinowo i nie wchodzi do tej pozycji, a czynność z powyższej listy nie jest doliczana do godzin. Wynagrodzenie liczone jest **wyłącznie od pracy własnej**: notariusz, opłaty w EUIPO, księgowość i faktura agencji wchodzą do budżetu w kwotach, jakie wystawi dostawca, bez narzutu. Rezerwa to środki na przekroczenia, liczone od pracy i kosztów razem, bo przekroczenie może wystąpić po obu stronach. **Niewykorzystana rezerwa i pozycje, których nie poniesiono, wracają do Mecenasa albo, na jego pisemny wybór, przechodzą na kolejną edycję.**
+**Wynagrodzenie wykonawcy to zapłata za pracę, której nie da się rozliczyć godzinowo**, i dotyczy czynności, których w tych 355 godzinach nie ma:
 
-**Co kupują dwie największe pozycje zewnętrzne.** Kwota 10 000 zł na infrastrukturę to magazyn obiektowy w Unii Europejskiej na kopie archiwalne zgłoszeń, z kopią zapasową i retencją co najmniej pięcioletnią, w czterech postaciach zapisu - PDF, HTML, zrzuty ekranu i EPUB - a obok tego domeny konstela.org i konstela.pl oraz skrzynka pocztowa w domenie wraz z aliasami. Kwota 30 000 zł to roczny dostęp do narzędzi sztucznej inteligencji i licencje oprogramowania, rzędu 2 500 zł miesięcznie, bez których 1 469 godzin pracy rozpisanych we wszystkich budżetach Nagrody nie jest wykonalne. Dostawcy nie są jeszcze wybrani, bo wybór zapada razem z polityką prywatności - decyduje o tym, co i komu powierzamy. **Imienna lista dostawców wraz z fakturami wchodzi do sprawozdania**, a obie pozycje rozliczane są co do złotówki: niewykorzystana część wraca do Mecenasa.
+- rozmowy z partnerami i instytucjami oraz pozyskiwanie finansowania pozostałych zakresów;
+- przygotowanie i negocjowanie umów;
+- wybór dostawców oraz nadzór nad notariuszem, kancelarią, agencją i księgowością;
+- sprawozdawczość wobec Mecenasa;
+- prowadzenie fundacji od podpisania umowy do rozliczenia.
 
-**Kto finansuje te narzędzia po pierwszym roku.** Nie Mecenas Założycielski - jego rola kończy się wraz z rozliczeniem. Hosting, licencje i obsługa księgowa w kolejnych latach są kosztem fundacji i pozycją budżetu kolejnej edycji, a jeżeli kolejna edycja się nie odbędzie, fundacja ogranicza je do utrzymania Archiwum, które zostaje publicznie dostępne.
+Zakresy się nie nakładają: godzina spędzona przy kodzie jest rozliczana godzinowo i nie wchodzi do tej pozycji, a czynność z powyższej listy nie jest doliczana do godzin. Wynagrodzenie liczone jest **wyłącznie od pracy własnej**: notariusz, opłaty w EUIPO, księgowość i faktura agencji wchodzą do budżetu w kwotach, jakie wystawi dostawca, bez narzutu. Rezerwa to środki na przekroczenia, liczone od pracy i kosztów razem, bo przekroczenie może wystąpić po obu stronach. **Niewykorzystana rezerwa i pozycje, których nie poniesiono, wracają do Mecenasa albo, na jego pisemny wybór, przechodzą na kolejną edycję.**
+
+**Co kupuje pozycja infrastruktury, 10 000 zł.**
+
+- magazyn obiektowy w Unii Europejskiej na kopie archiwalne zgłoszeń, z kopią zapasową i retencją co najmniej pięcioletnią, w czterech postaciach zapisu: PDF, HTML, zrzuty ekranu i EPUB;
+- domeny konstela.org i konstela.pl;
+- skrzynka pocztowa w domenie wraz z aliasami.
+
+**Co kupuje pozycja narzędzi AI i licencji, 30 000 zł**, czyli 2 500 zł miesięcznie:
+
+- dostęp do narzędzi sztucznej inteligencji używanych przy budowie narzędzi, redakcji dokumentów i obsłudze zgłoszeń - około 1 400 zł miesięcznie;
+- narzędzia programistyczne: środowisko pracy, repozytorium, automatyczne publikowanie - około 500 zł miesięcznie;
+- usługi przetwarzania zgłoszeń: konwersje, transkrypcje, wyszukiwanie w Archiwum - około 450 zł miesięcznie;
+- zapas na zmianę cennika dostawcy w trakcie roku - 1 800 zł rocznie.
+
+Bez tych narzędzi 1 469 godzin pracy rozpisanych we wszystkich budżetach Nagrody nie jest wykonalne jednoosobowo.
+
+**Zasady, na jakich te zakupy są robione.** Imienna lista dostawców z cenami jest **załącznikiem do umowy**, nie niespodzianką w sprawozdaniu; przed podpisaniem Mecenas dostaje ją w postaci kalkulacji zakupów. Nazwy dostawców nie są dziś przesądzone, bo wybór zapada razem z polityką prywatności - decyduje o tym, co i komu powierzamy - ale kategorie i kwoty powyżej są wiążące. **Przesunięcie powyżej dziesiątej części którejkolwiek z tych dwóch pozycji wymaga pisemnej zgody Mecenasa**, a faktury wchodzą do sprawozdania. Obie pozycje rozliczane są co do złotówki: niewykorzystana część wraca do Mecenasa.
+
+**Kto finansuje te narzędzia po pierwszym roku.** Rok opłacony z tej oferty kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają w pierwszych miesiącach 2028. Ta luka jest zamknięta i nie obciąża Mecenasa Założycielskiego: **cztery miesiące domykające edycję, od stycznia do kwietnia 2028, są osobną pozycją w [budżecie fundatora nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - tego samego, który finansuje prowadzenie plebiscytu przez piętnaście miesięcy. Dalej, czyli od maja 2028, hosting i licencje są kosztem fundacji i pozycją budżetu kolejnej edycji.
+
+**Archiwum ma finansowanie na pięć lat.** Retencja pięcioletnia jest kupiona w pozycji infrastruktury i obejmuje magazyn kopii archiwalnych wraz z kopią zapasową. Po tym okresie Archiwum zostaje jako **statyczna kopia na bezpłatnym hostingu** - zachowuje treści i adresy, traci wyszukiwanie po ocenach i podpisach - a jedynym kosztem pozostaje domena. Nie obiecujemy dostępności bez wskazania, z czego jest opłacona.
 
 **Płatność etapami, każdy etap po odbiorze.** Mecenas nie przelewa całości z góry. Kwota dzieli się na sześć transz, a **każda z nich równa się kwotom z tabeli za to, co w danym etapie zostaje odebrane** - żadna transza nie finansuje prac odbieranych później:
 
@@ -83,9 +108,19 @@ Praca programistyczna to **355 godzin po 220 zł** - stawka taka sama we wszystk
 
 Faktura wychodzi osobno do każdego etapu. Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna; jeżeli prace zostają przerwane, Mecenas zapłacił dotąd wyłącznie za to, co istnieje.
 
-**Co znaczy, że narzędzie działa.** Odbiór nie jest uznaniowy; każde narzędzie ma warunek, który da się sprawdzić w dniu odbioru. **Skraper** sporządza kompletną kopię archiwalną zgłoszenia z serwisów wymienionych w regulaminie, w postaci pliku PDF, zapisu HTML i zrzutów ekranu, a przy pobraniu niekompletnym oznacza zgłoszenie do trybu poprawkowego zamiast przyjmować kopię uszkodzoną. **Weryfikacja formalna** sprawdza każdy wymóg formalny wymieniony w regulaminie i zwraca listę braków, nie samo „odrzucone". **Panel oceny** przyjmuje przydziały, karty oceny i uzasadnienia dla czterech plebiscytów, pilnuje kworum ocen i eksportuje wyniki do pliku. **Wersja mobilna** instaluje się na iOS i Androidzie z poziomu przeglądarki, działa bez połączenia z siecią w zakresie czytania e-booka i słuchania audiobooka, a powiadomienia docierają na oba systemy. Każde narzędzie zostaje przekazane wraz z dokumentacją wdrożeniową i procedurą zgłaszania błędów; usunięcie błędu zgłoszonego w ciągu dwunastu miesięcy od odbioru należy do wykonawcy i nie jest płatne osobno.
+**Co znaczy, że narzędzie działa.** Odbiór nie jest uznaniowy; każde narzędzie ma warunek sprawdzalny w dniu odbioru:
 
-**Rozliczenie:** w ciągu sześćdziesięciu dni od zakończenia prac Mecenas otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy oraz z dokumentami rejestrowymi fundacji i potwierdzeniem zgłoszenia znaku towarowego.
+- **Skraper** sporządza kompletną kopię archiwalną zgłoszenia z serwisów wymienionych w regulaminie, w postaci pliku PDF, zapisu HTML i zrzutów ekranu, a przy pobraniu niekompletnym oznacza zgłoszenie do trybu poprawkowego, zamiast przyjmować kopię uszkodzoną.
+- **Weryfikacja formalna** sprawdza każdy wymóg formalny wymieniony w regulaminie i zwraca listę braków, nie samo „odrzucone".
+- **Panel oceny** przyjmuje przydziały, karty oceny i uzasadnienia dla czterech plebiscytów, pilnuje kworum ocen i eksportuje wyniki do pliku.
+- **Wersja mobilna** instaluje się na iOS i Androidzie z poziomu przeglądarki, działa bez połączenia z siecią w zakresie czytania e-booka i słuchania audiobooka, a powiadomienia docierają na oba systemy.
+
+Ponad to każde narzędzie zostaje przekazane wraz z dokumentacją wdrożeniową, opisem kopii zapasowych i procedurą zgłaszania błędów, w zakresie pozwalającym przejąć utrzymanie innemu wykonawcy. Usunięcie błędu zgłoszonego w ciągu dwunastu miesięcy od odbioru należy do wykonawcy i nie jest płatne osobno. Pełna specyfikacja odbiorowa, z listą sprawdzeń dla każdego narzędzia, jest **załącznikiem do umowy** i Mecenas dostaje ją przed podpisaniem.
+
+**Rozliczenie następuje dwa razy**, bo prace kończą się wcześniej niż opłacony rok usług:
+
+1. **Sprawozdanie z prac** - w ciągu sześćdziesięciu dni od odbioru ostatniego narzędzia. Obejmuje wykonanie budżetu w podziale na pozycje z tabeli powyżej, wykorzystanie rezerwy, dokumenty rejestrowe fundacji i potwierdzenie zgłoszenia znaku. Po jego przyjęciu wymagalna jest ostatnia transza.
+2. **Rozliczenie roku usług** - w ciągu sześćdziesięciu dni po upływie opłaconego roku, czyli do końca lutego 2028. Obejmuje faktury za hosting, licencje i obsługę księgową miesiąc po miesiącu, ostateczne rozliczenie rezerwy i zwrot kwoty niewykorzystanej. Usługi rozliczane miesięcznie wykazywane są w tym sprawozdaniu, a nie szacowane z góry.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy</span>
 
@@ -93,7 +128,15 @@ Faktura wychodzi osobno do każdego etapu. Jeżeli etap nie zostaje odebrany, tr
 
 Dlatego umowa zawiera **datę graniczną i rozstrzygnięcie na wypadek sporu**: jeżeli do 31 grudnia 2027 roku nabór nie zostanie otwarty, **pisemne żądanie Mecenasa zamyka przedsięwzięcie i jest dla Organizatora wiążące** - zdanie Organizatora nie przeważa nad zdaniem tego, kto wyłożył pieniądze. Do czasu takiego żądania Organizator prowadzi wyłącznie prace już rozpoczęte i nie zaciąga nowych zobowiązań obciążających budżet.
 
-Zamknięcie ma termin i kształt: w ciągu sześćdziesięciu dni Organizator przedstawia rozliczenie, zwraca kwotę niewykorzystaną i **publikuje kod czterech narzędzi wraz z dokumentacją wdrożeniową w publicznym repozytorium, na licencji MIT**. Licencja MIT znaczy, że z narzędzi może skorzystać każdy, także sam Mecenas i każda organizacja, która zechce poprowadzić podobne przedsięwzięcie - publikacja bez licencji i bez dokumentacji nie dałaby nikomu użytecznego rezultatu, więc umowa wymienia jedno i drugie. Majątek nie zostaje w uśpionej fundacji.
+Zamknięcie ma termin i kształt: w ciągu sześćdziesięciu dni Organizator przedstawia rozliczenie, zwraca kwotę niewykorzystaną i **publikuje kod czterech narzędzi wraz z dokumentacją wdrożeniową w publicznym repozytorium, na licencji MIT**. Licencja MIT znaczy, że z narzędzi może skorzystać każdy, także sam Mecenas i każda organizacja, która zechce poprowadzić podobne przedsięwzięcie - publikacja bez licencji i bez dokumentacji nie dałaby nikomu użytecznego rezultatu, więc umowa wymienia jedno i drugie.
+
+Kod to nie cały majątek, więc umowa rozstrzyga też o reszcie:
+
+- **znak towarowy, domeny i prawa do materiałów** przechodzą na organizację realizującą podobny cel, wskazaną wspólnie z Mecenasem;
+- jeżeli taka organizacja się nie znajdzie, **znak wygasa** - nie chcemy, żeby nazwą firmowano coś innego - a domeny są utrzymywane przez pięć lat wyłącznie po to, żeby Archiwum pozostało pod swoimi adresami;
+- **środki niewykorzystane** wracają do Mecenasa, nie zasilają innych celów fundacji.
+
+Majątek nie zostaje w uśpionej fundacji.
 
 Ten sam tryb obowiązuje, **jeżeli nabór zostanie otwarty, ale edycja nie dojdzie do rozstrzygnięcia** - czyli gdy nie zbierze się wymagany regulaminem próg zgłoszeń albo warunki rozstrzygnięcia nie zostaną spełnione - **oraz jeżeli działalność ustanie po pierwszym finale**, bez otwarcia naboru do drugiej edycji w ciągu dwunastu miesięcy od gali. Rozliczenie, zwrot kwoty niewykorzystanej i publikacja kodu wyglądają wtedy tak samo.
 
@@ -130,6 +173,16 @@ Rola nie obejmuje puli nagród, honorariów jury i akademii, gali, antologii, Ar
 
 **Przed nami, czyli przedmiot tej oferty.** Fundacja, konsultacja prawna, zgłoszenie znaku, strona z wersją mobilną i trzy narzędzia. **Budowa nie zależy od żadnego innego partnera** i może ruszyć natychmiast po podpisaniu umowy - to jest różnica między tą rolą a pozostałymi. To, czy narzędzia się przydadzą, zależy już od tego, czy edycja się odbędzie, i tego nie ukrywamy.
 
+## <!--ikona:dokument--><span>Co Mecenas dostaje przed podpisaniem umowy</span>
+
+Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Trzy dokumenty idą do Mecenasa przed decyzją, a nie po niej:
+
+1. **Projekt umowy** wraz z zapisami o etapach, odbiorze, dacie granicznej i zamknięciu, opisanymi wyżej.
+2. **Specyfikacja odbiorowa** - lista sprawdzeń dla każdego z czterech narzędzi, po której widać, co znaczy „odebrane", bez znajomości kodu.
+3. **Kalkulacja zakupów** - imienna lista dostawców infrastruktury i narzędzi AI wraz z cenami, stanowiąca załącznik do umowy.
+
+Wszystkie trzy przygotowujemy na prośbę, bez zobowiązania po stronie Mecenasa i bez opłaty.
+
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
 <dl class="harmonogram">
@@ -147,7 +200,13 @@ Rola nie obejmuje puli nagród, honorariów jury i akademii, gali, antologii, Ar
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. **Umowę podpisuje już ta fundacja, nie osoba prywatna**: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Koszt powołania fundacji do czasu podpisania umowy ponosi Organizator z własnych środków i rozlicza po jej zawarciu.
 
-**Kto wykonuje prace, za które Mecenas płaci.** Prace programistyczne - skraper, weryfikacja formalna, panel oceny i wersja mobilna - wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu: 220 zł za godzinę i wynagrodzenie wykonawcy liczone wyłącznie od pracy własnej. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po. **Kto tę umowę zawiera i kto odbiera pracę.** Nie Organizator sam ze sobą. Statut fundacji powierza zawieranie, zmianę i rozwiązywanie umów z członkami Zarządu **Radzie Fundacji** - organowi, w którym nie może zasiadać żaden członek Zarządu. To Rada podejmuje uchwałę o zawarciu umowy z działalnością Organizatora, Rada przyjmuje protokół odbioru każdego z sześciu etapów i Rada zatwierdza rozliczenie godzin. Odbiór następuje według warunków opisanych wyżej przy każdym narzędziu, a nie według uznania. **Mecenas może ponadto wskazać osobę, która uczestniczy w odbiorze etapów i otrzymuje protokoły** - nie musi nią być programista, bo warunki odbioru są tak sformułowane, żeby dało się je sprawdzić bez znajomości kodu.
+**Kto wykonuje prace, za które Mecenas płaci.** Prace programistyczne - skraper, weryfikacja formalna, panel oceny i wersja mobilna - wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu: 220 zł za godzinę i wynagrodzenie wykonawcy liczone wyłącznie od pracy własnej. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po. **Kto tę umowę zawiera i kto odbiera pracę.** Nie Organizator sam ze sobą. Statut fundacji powierza zawieranie, zmianę i rozwiązywanie umów z członkami Zarządu **Radzie Fundacji** - organowi, w którym nie może zasiadać żaden członek Zarządu. To Rada podejmuje uchwałę o zawarciu umowy z działalnością Organizatora, Rada przyjmuje protokół odbioru każdego z sześciu etapów i Rada zatwierdza rozliczenie godzin. Odbiór następuje według warunków opisanych wyżej przy każdym narzędziu, a nie według uznania. **Mecenas może ponadto wskazać osobę, która uczestniczy w odbiorze etapów i otrzymuje protokoły.**
+
+Co do kompetencji technicznej mówimy wprost: sprawdzenie, czy powiadomienie przychodzi i audiobook się odtwarza, nie wymaga programisty, ale ocena bezpieczeństwa, kompletności archiwizacji i tego, czy system da się przejąć innemu wykonawcy - już tak. Dlatego:
+
+- **co najmniej jedna osoba w Radzie Fundacji ma kompetencje techniczne**, a skład Rady wraz z nazwiskami Mecenas poznaje przed podpisaniem umowy, nie po;
+- **Mecenas może wskazać niezależnego programistę do odbioru etapów narzędziowych**; jego honorarium do 5 000 zł pokrywa rezerwa budżetu, więc sprawdzenie nie podnosi kwoty oferty i nie obciąża tego, kto już zapłacił za prace;
+- opinia takiego programisty jest **wiążąca dla odbioru**: etap uznany za niewykonany nie zostaje odebrany, a transza nie staje się wymagalna.
 
 Pozostałe zabezpieczenia są trzy: stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu, godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną. Pozycje zewnętrzne - notariusz, EUIPO, księgowość, agencja od strony - wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu.
 
@@ -162,7 +221,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 529 516,80 zł netto<small>pula 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 544 449,76 zł netto<small>pula 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 
 Sponsor akademii, sponsor gali, partner wydawniczy, partner galerii, partner dystrybucji filmów i patronat medialny nie mają jeszcze osobnych ofert; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.

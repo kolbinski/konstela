@@ -69,7 +69,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**529 516,80 zł netto** (651 305,66 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Nagrody" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=nagrody), który jest jawny i dostępny bez żadnych warunków.
+**544 449,76 zł netto** (669 673,20 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Nagrody" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=nagrody), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -83,11 +83,14 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Obsługa księgowa projektu                                      |       1 500 zł |
 | Domeny konstela.org i konstela.pl                              |         250 zł |
 | Ubezpieczenie OC organizatora                                  |    do ustalenia |
+| Infrastruktura i narzędzia AI na rozstrzygnięcie edycji, I-IV 2028 |      13 333 zł |
 | Prowadzenie plebiscytu przez rok (327 godz.)                   |      71 940 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      14 626,80 zł |
-| **Razem netto**                                                | **529 516,80 zł** |
-| VAT 23%                                                        |  121 788,86 zł |
-| **Do zapłaty brutto**                                          | **651 305,66 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      16 226,76 zł |
+| **Razem netto**                                                | **544 449,76 zł** |
+| VAT 23%                                                        |  125 223,44 zł |
+| **Do zapłaty brutto**                                          | **669 673,20 zł** |
+
+**Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.
 
 Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno: honoraria jury za przygotowanie karty oceny przed otwarciem naboru oraz ubezpieczenie odpowiedzialności cywilnej organizatora, którego zakres wskaże konsultacja prawna.
 
@@ -99,7 +102,7 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno: honoraria jury za
 
 **Płatność przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań.
 
-Dotyczy to jednak **wyłącznie puli nagród i kosztów ponoszonych przed naborem** - promocji, medalu i dyplomów, domen i obsługi księgowej. **Prowadzenie plebiscytu i rezerwa, czyli 86 566,80 zł netto, płatne są etapami po odbiorze**, w trzech częściach: po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej, po zamknięciu naboru i zakończeniu weryfikacji formalnej zgłoszeń, oraz po przyjęciu sprawozdania z rozliczenia edycji. Dwie pierwsze transze odpowiadają godzinom faktycznie przepracowanym i wykazanym w raporcie etapu, trzecia obejmuje resztę godzin oraz rezerwę - żadna nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
+Dotyczy to jednak **wyłącznie puli nagród i kosztów ponoszonych przed naborem** - promocji, medalu i dyplomów, domen i obsługi księgowej. **Prowadzenie plebiscytu, infrastruktura na pierwsze miesiące 2028 i rezerwa, czyli 101 499,76 zł netto, płatne są etapami po odbiorze albo po fakturach dostawców**, w trzech częściach: po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej, po zamknięciu naboru i zakończeniu weryfikacji formalnej zgłoszeń, oraz po przyjęciu sprawozdania z rozliczenia edycji. Dwie pierwsze transze odpowiadają godzinom faktycznie przepracowanym i wykazanym w raporcie etapu, trzecia obejmuje resztę godzin oraz rezerwę - żadna nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
