@@ -185,7 +185,7 @@ Kwoty wymienione wyżej dotyczą wyłącznie plebiscytu na rozmowę ze sztuczną
 
 ### Nagroda publiczności
 
-**We wszystkich czterech plebiscytach obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności** - dla zgłoszenia z największą liczbą głosów - a także nagroda dla głosującego, który najlepiej uzasadnił swój wybór. Druga z nich przyznawana jest w drodze oceny uzasadnień, nie losowania. Jest to rozstrzygnięcie świadome: nagroda losowana wśród głosujących byłaby loterią promocyjną w rozumieniu ustawy o grach hazardowych, wymagającą zezwolenia i zatwierdzenia regulaminu, i z tej konstrukcji zrezygnowałem.
+**We wszystkich czterech plebiscytach obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności** - dla zgłoszenia z największą liczbą głosów - a także nagroda dla głosującego, który najlepiej uzasadnił swój wybór. Druga z nich przyznawana jest w drodze oceny uzasadnień, nie losowania.
 
 Nagroda publiczności nie wpływa na werdykt jury i jest od niego niezależna. Głosowanie otwiera się po opublikowaniu ostatecznej listy zgłoszeń zakwalifikowanych i zamyka w dniu gali w południe, a liczniki głosów pozostają ukryte do ogłoszenia wyniku.
 
