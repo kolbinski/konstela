@@ -4,7 +4,7 @@
 
 Coroczna nagroda dla ludzi, którzy prowadzą z modelami sztucznej inteligencji najlepsze rozmowy. Nagradzany jest człowiek, nie model i nie firma, która model zbudowała. Oceniane są pytania, a nie odpowiedzi: rozpiętość wątków, drążenie, weryfikacja tego, co model powiedział, i to, co człowiek z rozmowy wyniósł. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i organizator nie pobiera od uczestników żadnych opłat.
 
-Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: kilkuosobowe grono osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Mecenas nie ma wpływu na jego skład ani na wyniki.
+Zgłoszenia czytają niezależni czytelnicy, a o wynikach rozstrzyga **jury**: grono osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Mecenas nie ma wpływu na jego skład ani na wyniki.
 
 Przedsięwzięcie ma dwóch osobnych partnerów finansujących dwie osobne rzeczy. **Fundator nagrody** finansuje pulę nagród i galę. **Mecenas Antologii** finansuje to, co z nagrody zostaje: bezpłatną antologię, publiczne Archiwum rozmów i podcast towarzyszący. Ta propozycja dotyczy wyłącznie drugiej roli. Obie role są rozdzielne i nie konkurują o to samo miejsce.
 
@@ -48,7 +48,7 @@ Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie ok
 | VAT 23%                                                           |   67 257,06 zł |
 | **Do zapłaty brutto**                                             | **359 679,06 zł** |
 
-Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla kilkunastu czytelników i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
+Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla czytelników akademii i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone. **Prowadzenie projektu** to wynagrodzenie za pracę nierozliczaną godzinowo: pozyskiwanie i obsługa partnerów, umowy, sprawozdawczość wobec Mecenasa, zarządzanie całością przez piętnaście miesięcy. **Rezerwa** to środki na przekroczenia - korekta dłuższa, niż zakładano, wyższy koszt druku, dodatkowa praca przy dużym napływie zgłoszeń. Niewykorzystana rezerwa zasila pulę nagród kolejnej edycji. Przychód ze sprzedaży wydania drukowanego w całości idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 

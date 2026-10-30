@@ -122,7 +122,7 @@ Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwsz
 - **Budowa czterech narzędzi:**
     - **skraper**, który w chwili wpłynięcia zgłoszenia sporządza kopię archiwalną rozmowy - dzięki niej zapis nie znika, gdy uczestnik usunie udostępnienie albo dostawca zmieni zasady;
     - **narzędzie do weryfikacji formalnej**, liczące słowa i wypowiedzi uczestnika, sprawdzające język i kompletność zgłoszenia;
-    - **panel oceny** dla kilkunastu czytelników akademii i dla jury, z przydziałami, kartą oceny i śladem audytowym każdej wystawionej oceny;
+    - **panel oceny** dla czytelników akademii i dla jury, z przydziałami, kartą oceny i śladem audytowym każdej wystawionej oceny;
     - **mechanizm publikowania Archiwum** na stronie, z przeglądaniem według daty, tytułu, autora i ocen.
 - **Przebudowa strony** - UI, UX i teksty, agencja zewnętrzna.
 
@@ -156,7 +156,7 @@ To są pozycje kosztorysu, które uruchamiają się od razu po podpisaniu umowy 
 | VAT 23%                                                           |   67 257,06 zł |
 | **Do zapłaty brutto**                                             | **359 679,06 zł** |
 
-Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla kilkunastu czytelników i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
+Pozycja oprogramowania obejmuje cztery narzędzia, bez których antologia i Archiwum nie powstaną: skraper sporządzający kopię archiwalną każdej zgłoszonej rozmowy w chwili jej wpłynięcia, narzędzie do weryfikacji formalnej, panel pracy dla czytelników akademii i jury wraz ze śladem audytowym, oraz mechanizm publikowania Archiwum na stronie. Wszystko powstaje raz i służy także kolejnym edycjom. Nadanie ISBN jest bezpłatne - pozycja została wymieniona, żeby lista była pełna.
 
 Ostatnia pozycja tabeli obejmuje dwie różne rzeczy:
 
