@@ -43,9 +43,9 @@ Nigdy treści.
 
 ## <!--ikona:dokument--><span>Rozmowy, które już się toczą</span>
 
-**Wydawnictwo Universitas podpisało 30 października 2026 roku list intencyjny w sprawie antologii.** Mówimy o tym w pierwszej kolejności, bo wydawca ma prawo wiedzieć, z kim jeszcze rozmawiamy, zanim zacznie czytać propozycję.
+**Wydawnictwo Universitas podpisało 30 października 2026 roku list intencyjny w sprawie antologii** - [pełny skan pisma](https://konstela.org/attachments/universitas-list-intencyjny.pdf), podpisany przez dyrektora dr. Andrzeja Nowakowskiego. Mówimy o tym w pierwszej kolejności, bo wydawca ma prawo wiedzieć, z kim jeszcze rozmawiamy, zanim zacznie czytać propozycję.
 
-Co ten list mówi: tematyka mieści się w obszarze zainteresowań wydawniczych Universitas, a wydawnictwo deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Co mówi równie wyraźnie: **nie przesądza decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.** Powtarzamy te zastrzeżenia dokładnie w granicach, jakie list sam sobie wyznacza, i nie przedstawiamy go jako czegokolwiek więcej.
+Co ten list mówi: tematyka mieści się w obszarze zainteresowań wydawniczych Universitas, a wydawnictwo deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Co mówi równie wyraźnie: **nie przesądza decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.** Powtarzamy te zastrzeżenia dokładnie w granicach, jakie list sam sobie wyznacza, i nie przedstawiamy go jako czegokolwiek więcej. Sam list zresztą pozwala posługiwać się nim w całości wobec partnerów i fundatorów, wyłącznie dla przedstawienia wstępnego zainteresowania - dlatego publikujemy go w całości, zamiast cytować fragmenty.
 
 Co z tego wynika dla Państwa. Rola partnera wydawniczego **nie jest obsadzona** i rozmawiamy o niej otwarcie: list intencyjny jest wstępnym zainteresowaniem jednego wydawnictwa, a nie pierwszeństwem ani wyłącznością. Decyzja o wydawcy zapada po werdykcie jury, kiedy istnieje maszynopis - wtedy, kiedy każdy wydawca ocenia tytuł na tych samych danych.
 

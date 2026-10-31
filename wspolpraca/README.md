@@ -1,7 +1,7 @@
 # Dokumenty od partnerów
 
 Podpisane pisma, które przyszły z zewnątrz. Nazwy plików: data, nadawca, rodzaj.
-Pliki w tym folderze **nie są publikowane na stronie** - generator ich nie dotyka.
+Pliki w tym folderze **nie są publikowane na stronie**: generator ich nie dotyka, a od 31.10.2026 folder jest usuwany przed wysyłką strony (krok `rm -rf` w `.github/workflows/publikuj.yml`). Do 31.10.2026 ten drugi warunek nie był spełniony - publikowana była cała zawartość repozytorium poza `node_modules`, `.github` i `skrypty` - więc wszystko, co leżało tutaj wcześniej, trzeba traktować jako materiał, który był dostępny pod adresem `konstela.org/wspolpraca/...`. Jeżeli coś z tego folderu ma być jawne, kopia idzie do `attachments/`, tak jak list intencyjny Universitas.
 
 | Plik | Co to jest | Czy wolno się tym posługiwać |
 |---|---|---|

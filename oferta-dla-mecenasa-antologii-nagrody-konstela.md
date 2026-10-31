@@ -131,7 +131,7 @@ Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwsz
 
 **W toku.** Jury nie jest jeszcze skompletowane. Nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony; nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie.
 
-**Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny** (do wglądu na życzenie) w sprawie antologii. Stwierdza w nim, że tematyka mieści się w obszarze jego zainteresowań wydawniczych, i deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Podajemy to dokładnie w granicach, jakie sam list wyznacza: **nie przesądza on decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.**
+**Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny** w sprawie antologii - [pełny skan pisma](https://konstela.org/attachments/universitas-list-intencyjny.pdf), podpisany przez dyrektora dr. Andrzeja Nowakowskiego. Stwierdza w nim, że tematyka mieści się w obszarze jego zainteresowań wydawniczych, i deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Podajemy to dokładnie w granicach, jakie sam list wyznacza: **nie przesądza on decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.**
 
 **Przed nami, w tej roli:**
 

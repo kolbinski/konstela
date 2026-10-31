@@ -70,7 +70,7 @@ jobs:
         run: node skrypty/buduj-arkusze.js
 
       - name: Usuń rzeczy, których nie publikujemy
-        run: rm -rf node_modules .github skrypty
+        run: rm -rf node_modules .github skrypty wspolpraca
 
       - name: Przygotuj paczkę
         uses: actions/upload-pages-artifact@v3

@@ -75,6 +75,14 @@ Każda z siedemnastu ofert ma własny prompt recenzencki z osobną personą - do
 
 **Czego brakuje do końca punktu o Universitas.** Oferta dla partnera wydawniczego ma już sekcję opisującą list intencyjny i jego granice, ale w repozytorium jest tylko nasz projekt pisma (`attachments/antologia-list-intencyjny.docx`), nie skan podpisanego listu. Żeby go podlinkować i pokazać, potrzebny jest plik PDF od Krzyśka; wtedy trafia pod `/attachments/`, a oba dokumenty - oferta antologijna i oferta wydawnicza - dostają odnośnik w miejsce zdania "do wglądu na życzenie". Sam projekt pisma nie nadaje się do publikacji, bo nie jest tym, co wydawnictwo podpisało.
 
+## Folder wspolpraca był publikowany razem ze stroną (31.10.2026)
+
+README tego folderu mówi, że jego zawartość nie trafia na stronę, bo nie dotyka jej generator. To było prawdą tylko w połowie: wdrożenie wysyła całą zawartość repozytorium poza `node_modules`, `.github` i `skrypty`, więc pliki z `wspolpraca/` były dostępne pod `konstela.org/wspolpraca/...` - w tym `2026-10-30-mickun-odpowiedzi.txt`, czyli korespondencja z kancelarią razem z nazwiskami i poleconym biurem rachunkowym. Od dziś krok wdrożenia usuwa ten folder przed wysyłką.
+
+**Do sprawdzenia przez Krzyśka po najbliższym wdrożeniu:** czy `konstela.org/wspolpraca/2026-10-30-mickun-odpowiedzi.txt` zwraca 404. Jeżeli ten plik był indeksowany, trzeba będzie dodatkowo poprosić o usunięcie z wyszukiwarki.
+
+List intencyjny Universitas, który jako jedyny z tego folderu ma być jawny, leży od dziś w `attachments/universitas-list-intencyjny.pdf` i jest podlinkowany w ofercie antologijnej oraz w ofercie dla partnera wydawniczego.
+
 ## Dokumenty do MKiDN czekają na przeliczenie
 
 Decyzja o kopii archiwalnej podniosła Budżet Filmu, a film jest w zakresie pytania do MKiDN, więc załącznik „Zestawienie zadania" i oba pisma mają dziś liczby starsze niż arkusz. Przy przeliczaniu trzeba naprawić także dwie rzeczy, które były nieaktualne już wcześniej:
