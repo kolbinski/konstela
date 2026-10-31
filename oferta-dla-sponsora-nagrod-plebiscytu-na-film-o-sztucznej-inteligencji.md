@@ -24,7 +24,11 @@ Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje
 
 **Nagroda Konstela to nowa, coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy.**
 
-Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Rdzeniem Nagrody jest [plebiscyt na najlepszą rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy), w którym oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy, bo chodzi o życie z AI - dlatego obok rozmowy stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji, rozstrzygane na tej samej gali: [film](/plebiscyt-filmu), [piosenka](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu).
+Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Rdzeniem Nagrody jest [plebiscyt na najlepszą rozmowę ze sztuczną inteligencją](/plebiscyt-rozmowy), w którym oceniane są pytania, a nie odpowiedzi. Rzecz jest jednak szersza niż same rozmowy, bo chodzi o życie z AI - dlatego obok rozmowy stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji, rozstrzygane na tej samej gali:
+
+- [film](/plebiscyt-filmu);
+- [piosenka](/plebiscyt-piosenki);
+- [plakat](/plebiscyt-plakatu).
 
 **Ta oferta dotyczy wyłącznie plebiscytu na film o sztucznej inteligencji.**
 
@@ -60,7 +64,11 @@ Karta oceny jest jawna przed naborem i taka sama dla wszystkich oceniających.
 
 Sztuczna inteligencja weszła w ciągu kilku lat w pracę, w szkołę i w rozmowy prowadzone nocą przed ekranem - a w polskim kinie prawie nie widać tej tematyki. Jest za to w zagranicznej fantastyce, od dziesięcioleci, w jednej z dwóch ról: zagłady albo wybawienia. Obie zwalniają z patrzenia na to, co dzieje się teraz i obok.
 
-Interesuje nas to, czego w tych dwóch rolach nie ma: człowiek, który zaczyna myśleć cudzym narzędziem; praca, która przestała być potrzebna w pół roku; nauczyciel, lekarz, tłumacz albo rodzic, który musi dziś zdecydować, ile z siebie oddać. **Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało.** Zamiast tego po tej edycji ma istnieć dziesięć filmów, których bez niej by nie było - i to jest rzecz, którą Fundator finansuje.
+Interesuje nas to, czego w tych dwóch rolach nie ma:
+
+- człowiek, który zaczyna myśleć cudzym narzędziem;
+- praca, która przestała być potrzebna w pół roku;
+- nauczyciel, lekarz, tłumacz albo rodzic, który musi dziś zdecydować, ile z siebie oddać. **Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało.** Zamiast tego po tej edycji ma istnieć dziesięć filmów, których bez niej by nie było - i to jest rzecz, którą Fundator finansuje.
 
 ### Zasady: deklaracja, nie zakaz
 
@@ -77,7 +85,10 @@ To jest zdanie, które Fundator może powtórzyć na zarządzie, gdy ktoś zapyt
 - **Trzecie miejsce** - 30 000 zł, dyplom i miejsce w zestawie
 - **Siedem wyróżnień** - dyplom i miejsce w zestawie, bez nagrody pieniężnej
 
-Obok puli: **nagrody publiczności 12 000 zł brutto** w podziale na 10 000 zł dla zgłoszenia z największą liczbą głosów oraz 2 000 zł za najlepsze uzasadnienie oddanego głosu, wybierane przez trzyosobowy zespół powołany spoza jury.
+Obok puli **nagrody publiczności 12 000 zł brutto**:
+
+- **10 000 zł** dla zgłoszenia z największą liczbą głosów;
+- **2 000 zł** za najlepsze uzasadnienie oddanego głosu, wybierane przez trzyosobowy zespół powołany spoza jury.
 
 Poza nagrodami rola obejmuje **prowadzenie plebiscytu przez cały rok naboru**:
 
@@ -165,7 +176,11 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 
 **Po co magazyn kopii archiwalnych.** Film leży na kanale autora, a kanał może zniknąć razem z nim - i wtedy Archiwum zostaje z martwym linkiem, a pokazu kuratorskiego nie ma z czego zrobić. Dlatego po zamknięciu naboru Organizator pobiera kopię każdego zgłoszonego filmu i przechowuje ją w magazynie obiektowym w Unii Europejskiej, z kopią zapasową, przez pięć lat.
 
-**Kopia nie jest udostępniana publicznie**: służy dokumentacji edycji, ustaleniu, co było wersją plebiscytową, oraz projekcji na pokazie kuratorskim, na którą uczestnik zgadza się osobno. Przy wycofaniu zgłoszenia kopia jest usuwana, podobnie jak przy skutecznym zarzucie naruszenia praw osób trzecich.
+**Kopia nie jest udostępniana publicznie.** Służy trzem rzeczom:
+
+1. dokumentacji edycji;
+2. ustaleniu, co było wersją plebiscytową;
+3. projekcji na pokazie kuratorskim, na którą uczestnik zgadza się osobno. Przy wycofaniu zgłoszenia kopia jest usuwana, podobnie jak przy skutecznym zarzucie naruszenia praw osób trzecich.
 
 **Organizator nie publikuje filmów z tej kopii na własnym kanale z urzędu** - duplikat dzieliłby wyświetlenia autora, wchodziłby w spór o prawa do muzyki licencjonowanej na kanał autora i przenosiłby na Organizatora odpowiedzialność wydawcy. Publikacja z kopii wymaga odrębnej, odwoływalnej zgody autora, o którą Organizator zwraca się przede wszystkim wtedy, gdy film przestaje być dostępny u niego; bez zgody wpis zostaje oznaczony jako niedostępny.
 

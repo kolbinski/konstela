@@ -58,9 +58,19 @@ Trzy rzeczy dzieją się tylko w tym plebiscycie i tylko w tej ofercie.
 - **Trzecie miejsce** - 15 000 zł, dyplom i miejsce na wystawie
 - **Siedem wyróżnień** - dyplom i miejsce na wystawie towarzyszącej gali, bez nagrody pieniężnej
 
-Obok puli **nagrody publiczności 12 000 zł brutto**: 10 000 zł dla zgłoszenia z największą liczbą głosów oraz 2 000 zł za najlepsze uzasadnienie oddanego głosu, wybierane przez trzyosobowy zespół powołany spoza jury. Głosowanie jest otwarte i niezależne od werdyktu jury, jeden głos na numer telefonu potwierdzony kodem z SMS, a liczniki i uzasadnienia pozostają ukryte do gali.
+Obok puli **nagrody publiczności 12 000 zł brutto**:
 
-Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę formalną zgłoszeń, obsługę akademii i jury, obsługę głosowania publiczności, przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów finalistów, uzgodnienie okładki antologii ze zwycięzcą, obsługę licytacji oraz dotarcie do szkół artystycznych i środowiska ilustratorów.
+- **10 000 zł** dla zgłoszenia z największą liczbą głosów;
+- **2 000 zł** za najlepsze uzasadnienie oddanego głosu, wybierane przez trzyosobowy zespół powołany spoza jury. Głosowanie jest otwarte i niezależne od werdyktu jury, jeden głos na numer telefonu potwierdzony kodem z SMS, a liczniki i uzasadnienia pozostają ukryte do gali.
+
+Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
+
+- kontrolę formalną zgłoszeń;
+- obsługę akademii i jury oraz obsługę głosowania publiczności;
+- przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów finalistów;
+- uzgodnienie okładki antologii ze zwycięzcą;
+- obsługę licytacji;
+- dotarcie do szkół artystycznych i środowiska ilustratorów.
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 

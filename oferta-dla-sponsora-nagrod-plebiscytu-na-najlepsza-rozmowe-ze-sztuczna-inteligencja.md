@@ -55,9 +55,18 @@ To jest zdanie, które Fundator może powtórzyć na zarządzie, gdy ktoś zapyt
 - **Trzecie miejsce** - 10 000 zł
 - **Siedem wyróżnień** - po 3 000 zł
 
-Obok puli: **nagrody publiczności 12 000 zł brutto** w podziale na 10 000 zł dla rozmowy z największą liczbą głosów i 2 000 zł dla głosującego, który najlepiej uzasadnił swój głos, oraz **Nagroda Uczniowska 10 000 zł brutto**, wskazywana przez grupy uczniowskie zgłaszane przez szkoły.
+Obok puli:
 
-Poza nagrodami rola obejmuje **honoraria jury**, **promocję naboru** i **prowadzenie plebiscytu przez cały rok**: rekrutację jury i akademii, kalibrację ocen, obsługę panelu, weryfikację formalną zgłoszeń, rozmowy weryfikacyjne z finalistami, rozliczenia i sprawozdawczość.
+- **nagrody publiczności 12 000 zł brutto** - 10 000 zł dla rozmowy z największą liczbą głosów i 2 000 zł dla głosującego, który najlepiej uzasadnił swój głos;
+- **Nagroda Uczniowska 10 000 zł brutto** - wskazywana przez grupy uczniowskie zgłaszane przez szkoły.
+
+Poza nagrodami rola obejmuje **honoraria jury**, **promocję naboru** i **prowadzenie plebiscytu przez cały rok**:
+
+- rekrutację jury i akademii oraz kalibrację ocen;
+- obsługę panelu oceny;
+- weryfikację formalną zgłoszeń;
+- rozmowy weryfikacyjne z finalistami;
+- rozliczenia i sprawozdawczość.
 
 ### Dlaczego nagroda główna wynosi 300 000 zł
 
@@ -93,7 +102,10 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 
 **Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.
 
-Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno: honoraria jury za przygotowanie karty oceny przed otwarciem naboru oraz ubezpieczenie odpowiedzialności cywilnej organizatora, którego zakres wskaże konsultacja prawna.
+Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
+
+- **honoraria jury za przygotowanie karty oceny** przed otwarciem naboru;
+- **ubezpieczenie odpowiedzialności cywilnej organizatora**, którego zakres wskaże konsultacja prawna.
 
 **Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media.
 

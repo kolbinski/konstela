@@ -8,7 +8,10 @@
 
 **Kosztuje to 265 960 zł netto** (327 130,80 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
-Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę: 10 profesjonalnych nagrań utworów, które bez tej oferty nie powstałyby, oraz hymn, który otwiera i zamyka galę. Nagrania zostają własnością autorów, nie sponsora i nie organizatora.
+Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
+
+- **10 profesjonalnych nagrań** utworów, które bez tej oferty nie powstałyby;
+- **hymn**, który otwiera i zamyka galę. Nagrania zostają własnością autorów, nie sponsora i nie organizatora.
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. [Fundator nagród w plebiscycie na rozmowę](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę i pracę jury tamtego plebiscytu, [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia wspólne dla wszystkich plebiscytów, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania, a sponsor gali wieczór rozstrzygnięcia. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
@@ -186,7 +189,11 @@ Poza tytułem:
 
 Fundator nie ma wpływu na wybór laureatów, skład jury i akademii ani treść werdyktu. Nie otrzymuje dostępu do wyników przed galą ani wglądu w zgłoszenia poza tym, co widzi każdy w Słuchalni.
 
-Fundator nie nabywa praw do zgłoszonych utworów ani do nagrań studyjnych. **Tekst, muzyka i nagranie zostają własnością autora**; organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: prezentacja w Słuchalni i Archiwum, wykonanie na gali oraz utrwalenie gali na wideo i bezpłatne udostępnienie zapisu.
+Fundator nie nabywa praw do zgłoszonych utworów ani do nagrań studyjnych. **Tekst, muzyka i nagranie zostają własnością autora**; organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach:
+
+- prezentacja w Słuchalni i Archiwum;
+- wykonanie na gali;
+- utrwalenie gali na wideo i bezpłatne udostępnienie zapisu.
 
 Rola nie obejmuje:
 

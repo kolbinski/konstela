@@ -23,7 +23,10 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 
 Przedmiotem odcinka nie są odpowiedzi AI, tylko **to, co gość napisze w kolejnym pytaniu**. Prowadzący kwestionuje pytanie gościa, **zanim ten je wyśle**, i proponuje inne - czy na pewno chcesz zapytać o to, czy raczej poszukać połączenia z czymś, co pozornie do tematu nie należy. To jest praca na żywo nad tym samym, co w plebiscycie ocenia karta oceny: nad rozpiętością, drążeniem, weryfikacją i tym, co z rozmowy zostaje.
 
-Dwa cykle: **„Pierwszy raz z AI"** - z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz **„NAIstolatek"** - z nastolatkami. W pierwszym liczy się cierpliwość wobec kogoś, kto nie wie, od czego zacząć; w drugim - brak protekcjonalności wobec kogoś, kto używa tych narzędzi lepiej od dorosłych.
+Dwa cykle:
+
+- **„Pierwszy raz z AI"** - z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji. Liczy się tu cierpliwość wobec kogoś, kto nie wie, od czego zacząć.
+- **„NAIstolatek"** - z nastolatkami. Liczy się tu brak protekcjonalności wobec kogoś, kto używa tych narzędzi lepiej od dorosłych.
 
 ## <!--ikona:uczestnik--><span>Czego szukamy, a czego nie</span>
 

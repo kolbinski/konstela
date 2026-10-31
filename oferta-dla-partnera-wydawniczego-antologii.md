@@ -33,7 +33,13 @@ Odbiorcy poza stałym kręgiem każdej oficyny: nauczyciele i wykładowcy szukaj
 
 Mówimy o tym w pierwszej kolejności, bo inaczej postawiliby to Państwo w pierwszym zdaniu odpowiedzi. Nasze zdanie jest takie: wydawca nie sprzedaje tu treści, tylko książkę. Czytelnik, który chce mieć ten tom na półce, podarować go albo zaznaczać w nim fragmenty, kupi go mimo istnienia bezpłatnego pliku, a biblioteki kupują druk.
 
-**Wyłączność, jaką możemy zaproponować, dotyczy formy i kanału**: projektu, formatu, oprawy, wydania specjalnego oraz płatnej dystrybucji elektronicznej w kanałach księgarskich. Nigdy treści.
+**Wyłączność, jaką możemy zaproponować, dotyczy formy i kanału:**
+
+- projektu, formatu i oprawy;
+- wydania specjalnego;
+- płatnej dystrybucji elektronicznej w kanałach księgarskich.
+
+Nigdy treści.
 
 ## <!--ikona:wspolpraca--><span>Co wnosi wydawca, a co fundacja</span>
 

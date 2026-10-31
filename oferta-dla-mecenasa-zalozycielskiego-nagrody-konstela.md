@@ -16,7 +16,14 @@ Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie
 
 **Nagroda Konstela to nowa, coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy.**
 
-Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi, według czterech kryteriów o równej wadze: **rozpiętości** połączenia, którego rozmowa dokonała, **drążenia** zamiast przyjmowania pierwszej odpowiedzi, **weryfikacji** twierdzeń AI oraz **plonu**, czyli tego, co z rozmowy realnie zostało. [Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru.
+Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane są pytania, a nie odpowiedzi, według czterech kryteriów o równej wadze:
+
+- **rozpiętość** połączenia, którego rozmowa dokonała;
+- **drążenie** zamiast przyjmowania pierwszej odpowiedzi;
+- **weryfikacja** twierdzeń AI;
+- **plon**, czyli to, co z rozmowy realnie zostało.
+
+[Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru.
 
 Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny.
 
@@ -30,7 +37,12 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 
 **Zgłoszenie znaku towarowego Konstela** w Urzędzie Unii Europejskiej do spraw Własności Intelektualnej, wraz z badaniem dostępności nazwy i obsługą postępowania. Rejestracja chroni nazwę w całej Unii przez dziesięć lat, z możliwością przedłużania - ale o jej udzieleniu rozstrzyga urząd, nie Organizator, więc zobowiązanie dotyczy rzetelnego przeprowadzenia zgłoszenia, nie jego wyniku. Jeżeli ochrona nie zostanie udzielona, Organizator przedstawia rozliczenie i uzgadnia z Mecenasem, czy podejmuje kolejną próbę pod inną nazwą, czy pozycja zostaje zamknięta.
 
-**Strona Nagrody wraz z wersją mobilną.** Przebudowa strony - układ, nawigacja i teksty - oraz jej **instalowalna wersja mobilna**: dodanie do ekranu telefonu, działanie bez połączenia z siecią, pobranie e-booka i audiobooka antologii do czytania oraz słuchania offline, powiadomienia o nowych zgłoszeniach. Wybraliśmy to zamiast osobnej aplikacji w sklepach, ponieważ nie dubluje treści ani kosztów utrzymania, a daje dokładnie te dwie rzeczy, których strona sama nie potrafi.
+**Strona Nagrody wraz z wersją mobilną.** Przebudowa strony - układ, nawigacja i teksty - oraz jej **instalowalna wersja mobilna**:
+
+- dodanie do ekranu telefonu;
+- działanie bez połączenia z siecią;
+- pobranie e-booka i audiobooka antologii do czytania oraz słuchania offline;
+- powiadomienia o nowych zgłoszeniach. Wybraliśmy to zamiast osobnej aplikacji w sklepach, ponieważ nie dubluje treści ani kosztów utrzymania, a daje dokładnie te dwie rzeczy, których strona sama nie potrafi.
 
 **Trzy narzędzia obsługujące wszystkie plebiscyty:**
 
@@ -273,7 +285,11 @@ Co do kompetencji technicznej mówimy wprost: sprawdzenie, czy powiadomienie prz
 - **Mecenas może wskazać niezależnego programistę do odbioru etapów narzędziowych**; jego honorarium do 5 000 zł pokrywa rezerwa budżetu, więc sprawdzenie nie podnosi kwoty oferty i nie obciąża tego, kto już zapłacił za prace;
 - opinia takiego programisty jest **wiążąca dla odbioru**: etap uznany za niewykonany nie zostaje odebrany, a transza nie staje się wymagalna.
 
-Pozostałe zabezpieczenia są trzy: stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu, godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną. Pozycje zewnętrzne - notariusz, EUIPO, księgowość, agencja od strony - wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu.
+Pozostałe zabezpieczenia są trzy:
+
+1. stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu;
+2. godziny rozliczane są w sprawozdaniu etapami;
+3. statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną. Pozycje zewnętrzne - notariusz, EUIPO, księgowość, agencja od strony - wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu.
 
 Dokumenty, o które może zapytać dział prawny, są jawne:
 

@@ -25,7 +25,12 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 
 Przedmiotem odcinka nie są odpowiedzi AI, tylko **to, co człowiek napisze w kolejnym pytaniu**. Prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne - czy na pewno chcesz zapytać o to, czy raczej poszukać połączenia z czymś, co pozornie do tematu nie należy. Na żywo dzieje się to samo, co ocenia karta oceny plebiscytu: rozpiętość, drążenie, weryfikacja i to, co z rozmowy zostaje.
 
-Dwa cykle: **„Pierwszy raz z AI"** - z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz **„NAIstolatek"** - z nastolatkami, dla których te narzędzia są codziennością. Zgłoszenia uczestników już przyjmujemy pod adresem podcast@konstela.org.
+Dwa cykle:
+
+- **„Pierwszy raz z AI"** - z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji;
+- **„NAIstolatek"** - z nastolatkami, dla których te narzędzia są codziennością.
+
+Zgłoszenia uczestników już przyjmujemy pod adresem podcast@konstela.org.
 
 ## <!--ikona:wspolpraca--><span>Co obejmuje ta rola</span>
 

@@ -114,7 +114,10 @@ Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgło
 
 **Archiwum** powstaje z czytelni utrwalonej po zakończeniu weryfikacji wszystkich zgłoszeń i jest udostępniane **od dnia ogłoszenia wyników**. Dopiero ono prezentuje kopie archiwalne rozmów wraz z jawną punktacją wszystkich etapów oceny, z przeglądaniem według daty, tytułu, podpisu oraz ocen. Obejmuje wszystkie rozmowy, które przeszły weryfikację formalną i spełniają warunki publikacji z regulaminu - nie tylko te ocenione wysoko. Liczby nie gwarantujemy, bo zależy ona od liczby zgłoszeń. Materiał dydaktyczny, o którym mowa wyżej, powstaje więc w kwietniu 2028, a nie w trakcie naboru.
 
-**Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle: rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty mają być przekazywane nieodpłatnie mediom i instytucjom edukacyjnym; zabezpieczą to umowy z prowadzącym i z gośćmi. Nie przedstawiamy tego jako stanu dokonanego, bo prowadzący nie jest jeszcze wybrany.
+**Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle:
+
+- rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji;
+- odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty mają być przekazywane nieodpłatnie mediom i instytucjom edukacyjnym; zabezpieczą to umowy z prowadzącym i z gośćmi. Nie przedstawiamy tego jako stanu dokonanego, bo prowadzący nie jest jeszcze wybrany.
 
 Przy podcaście mówimy od razu, czego kwota z tej oferty nie obejmuje. Mieści się w niej **koordynacja podcastu** - pozyskiwanie gości, terminy i publikacja, 72 godziny pracy - natomiast **produkcja odcinków nie jest jeszcze wyceniona**. Zależy od decyzji o formacie: sam dźwięk czy także wersja wideo, studio czy nagrania zdalne, wysokość honorarium prowadzącego. W kosztorysie poniżej pozycja ta figuruje jako „do wyceny" i zostanie policzona po ustaleniu formatu, a kwota wymaga wtedy osobnego uzgodnienia. Wolimy powiedzieć to wprost, niż wpisać liczbę wziętą z sufitu.
 
@@ -165,7 +168,12 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu 
 
 **W tej tabeli nie ma kosztów wspólnych całego przedsięwzięcia.** Powołanie fundacji i jej obsługa, konsultacja prawna, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty mają osobny budżet i osobną rolę - **Mecenasa Założycielskiego**. Wydzieliliśmy je, bo obciążanie nimi mecenasa antologii znaczyło, że jeden partner finansuje infrastrukturę, z której korzystają wszyscy pozostali, i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona.
 
-Tu zostaje wyłącznie to, co jest produktem tej roli: redakcja i skład antologii, jej wydanie dźwiękowe, koordynacja podcastu oraz mechanizm publikowania Archiwum, bez którego Archiwum nie powstanie.
+Tu zostaje wyłącznie to, co jest produktem tej roli:
+
+- redakcja i skład antologii;
+- jej wydanie dźwiękowe;
+- koordynacja podcastu;
+- mechanizm publikowania Archiwum, bez którego Archiwum nie powstanie.
 
 Pozycja oprogramowania obejmuje jedno narzędzie: mechanizm publikowania Archiwum na stronie, z przeglądaniem według daty, tytułu, podpisu i ocen. Trzy pozostałe - skraper sporządzający kopię archiwalną zgłoszenia, narzędzie do weryfikacji formalnej i panel pracy dla akademii i jury - obsługują wszystkie cztery plebiscyty i należą do Budżetu Uruchomienia. Nadanie ISBN jest bezpłatne; pozycja została wymieniona, żeby lista była pełna.
 
@@ -289,7 +297,11 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 Umowę z tą działalnością zawiera nie Organizator sam ze sobą: statut powierza umowy z członkami Zarządu **Radzie Fundacji**, organowi, w którym nie może zasiadać żaden członek Zarządu, i to Rada przyjmuje protokół odbioru każdego etapu oraz zatwierdza rozliczenie godzin. Mecenas może wskazać osobę, która uczestniczy w odbiorze i otrzymuje protokoły.
 
-Pozostałe zabezpieczenia są trzy: stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu, godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
+Pozostałe zabezpieczenia są trzy:
+
+1. stawka godzinowa jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu;
+2. godziny rozliczane są w sprawozdaniu etapami;
+3. statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
 
 Pozycje zewnętrzne - koordynator wydania, korekta, skład, druk, studio nagraniowe i lektorzy - wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu, a wynagrodzenie wykonawcy liczone jest wyłącznie od pracy własnej.
 
