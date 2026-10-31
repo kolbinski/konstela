@@ -214,6 +214,18 @@ Limity miały dotąd dwie oferty, a po dzisiejszych zmianach kwot obie były za 
 
 Przy okazji naprawione trzy rzeczy, które zepsuły dzisiejsze zmiany: oferta rozmowy wymieniała Archiwum wśród rzeczy, których nie obejmuje, choć sama je finansuje, a oferty plakatu i filmu twierdziły, że przyjazd finalistów pokrywa sponsor gali.
 
+## Druga recenzja oferty rozmowy - co z niej weszło (31.10.2026)
+
+Pięć spraw konstrukcyjnych, rozstrzygniętych po kolei tego samego dnia.
+
+1. **Co wiąże jury przy ustalaniu kolejności** - dopisane do czterech regulaminów. Kolejność ustala jury w dyskusji, ale odstępstwo od kolejności punktowej musi być nazwane w uzasadnieniu werdyktu i opublikowane; punktacja wszystkich etapów jawna, narada protokołowana dla Rady Fundacji. Jury nie może pominąć zgłoszenia zakwalifikowanego do oceny końcowej ani wprowadzić do dziesiątki zgłoszenia spoza niej.
+2. **Kto uruchamia rezerwę** - dopisane do ośmiu ofert. Rezerwa pokrywa wyłącznie przekroczenia pozycji z tabeli; użycie na dodatkową pracę działalności Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji, pojedyncze użycie powyżej 5 000 zł - zgody Rady niezależnie od wykonawcy; partner dowiaduje się przed wydaniem pieniędzy.
+3. **Trwałość Archiwum** - rozdzielona na zabezpieczone konstrukcją (statyczne strony, koszt domeny, nie pracy), zabezpieczone decyzją ogłaszaną przed upływem pięciu lat i postępowanie przy likwidacji fundacji. Pytanie o złożenie migawki w otwartym repozytorium weszło do zakresu konsultacji prawnej, bo wykracza poza licencję uczestników.
+4. **Promocja naboru** rozpisana na cztery części plus punkt kontrolny 30 czerwca 2027, z przekierowaniem niewydanego płatnego dotarcia na kanały, które dowiozły zgłoszenia.
+5. **Zależność od pozostałych partnerów** - zarzut powtórzony przez drugiego recenzenta z rzędu, więc rozstrzygnięty konstrukcyjnie, nie redakcyjnie. Do regulaminu rozmowy doszedł **czwarty warunek otwarcia naboru: pierwsza runda oceny ma mieć zapewnione finansowanie**. Oferta ma nową sekcję rozpisującą zależności po kolei - fundacja, pierwsza runda, gala, narzędzia - wraz z prawem Fundatora do objęcia bloku Akademii rozmowy aneksem za 51 520 zł (kwota rośnie do 657 822,88, limit do 700 000). Teza o rezultacie niezależnym od innych partnerów zawężona do tego, co jest prawdą: niezależne są Czytelnia, Archiwum i kopie archiwalne.
+
+**Zostaje do rozstrzygnięcia:** regulaminy piosenki, plakatu i filmu nie mają w ogóle warunków otwarcia naboru - ani pokrycia puli, ani ogłoszonego jury, ani konsultacji prawnej, ani pokrycia pierwszej rundy. Rozmowa ma je wszystkie. Trzeba zdecydować, czy przenieść tam ten sam zestaw.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.

@@ -133,7 +133,7 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 34 000 zł, czyli tyle, ile 
 
 **Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
 
-**Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Fundator tej roli finansuje więc rzecz, która powstaje i działa niezależnie od tego, ilu innych partnerów uda się pozyskać.
+**Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Trwały rezultat tej roli - Czytelnia, Archiwum i kopie archiwalne - nie zależy więc od żadnego innego partnera. Nie znaczy to, że cały plebiscyt jest samowystarczalny, i poniżej mówimy dokładnie, co od kogo zależy.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród.** Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -148,6 +148,24 @@ Dotyczy to jednak **wyłącznie puli nagród i kosztów ponoszonych przed nabore
 Dwie pierwsze transze odpowiadają godzinom faktycznie przepracowanym i wykazanym w raporcie etapu, trzecia obejmuje resztę godzin oraz rezerwę - żadna nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
 **Honoraria jury, 32 000 zł, rozliczane są osobno od pracy organizatora**: po zakończeniu oceny i na podstawie umów z jurorami, w kwotach z tych umów i bez narzutu. Pieniądze te nie przechodzą przez wykonawcę pracy organizatora. Honorarium za etap przygotowawczy, czyli ustalenie karty oceny i wag kryteriów, jest dziś pozycją bez kwoty; po jej uzgodnieniu rozlicza się przed otwarciem naboru, bo ta praca wykonywana jest przed naborem.
+
+## <!--ikona:ogniwo--><span>Co zależy od innych partnerów, a co nie</span>
+
+Dwóch recenzentów po kolei zarzuciło tej ofercie to samo: że obiecuje rezultat niezależny od pozostałych ról, choć plebiscytu nie da się przeprowadzić w pojedynkę. Zarzut jest słuszny, więc zamiast go łagodzić, rozpisujemy zależności po kolei.
+
+**Fundacja - zależność bezwzględna, ale nie Państwa ryzyko.** Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody i to ona podpisuje umowę. Jej powołanie, obsługa i weryfikacja statutu należą do roli [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela). Jeżeli fundacji nie będzie, **nie ma z kim podpisać umowy i nie ma żadnej wpłaty** - ryzykiem jest to, że przedsięwzięcie nie ruszy, a nie to, że Państwa pieniądze są w nim uwięzione.
+
+**Pierwsza runda oceny - zależność realna i to ona jest sednem zarzutu.** Przy dwudziestu i mniej zgłoszeniach regulamin akademii nie powołuje: każdy juror czyta wszystko, a honoraria jury są w tej ofercie. Powyżej dwudziestu zgłoszeń potrzebna jest Akademia, której rozmowowa część kosztuje **51 520 zł** i należy do roli [Sponsora Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela). Rozwiązujemy to trzema zapisami:
+
+1. **Nabór nie otwiera się bez pokrycia pierwszej rundy.** Od 31 października 2026 jest to czwarty warunek otwarcia naboru w regulaminie, obok pokrytej puli nagród, ogłoszonego jury i konsultacji prawnej. Bez niego nabór mógłby ruszyć z opłaconą pulą i bez środków na przeczytanie zgłoszeń.
+2. **Fundator może objąć ten blok sam**, aneksem do umowy: kwota rośnie wtedy o 51 520 zł do **657 822,88 zł netto**, a górny limit zobowiązania do 700 000 zł. Jest to prawo, nie obowiązek, i nie korzystając z niego Fundator niczego nie traci.
+3. **Jeżeli nie stanie się ani jedno, ani drugie**, nabór się nie otwiera, a wpłacone środki wracają w całości - tak samo jak przy każdym innym niespełnionym warunku otwarcia.
+
+**Gala - zależność pozorna.** Regulamin przewiduje ogłoszenie wyników bez gali, jeżeli gali nie da się przeprowadzić do 30 czerwca 2028. Werdykt, nagrody i Archiwum nie zależą od obsadzenia roli sponsora gali; zależy od niej wieczór, nie wynik.
+
+**Narzędzia - zależność częściowa i możliwa do obejścia.** Panel oceny i narzędzie weryfikacji formalnej należą do roli Mecenasa Założycielskiego i ułatwiają pracę przy dużej liczbie zgłoszeń. Nie są jednak warunkiem przeprowadzenia plebiscytu: zgłoszenia przyjmuje formularz, karty oceny dają się prowadzić w arkuszu, a Czytelnia, Archiwum i skraper są finansowane w tej ofercie. Przy stu pięćdziesięciu zgłoszeniach brak panelu oznacza więcej godzin pracy, a nie brak oceny.
+
+**Czego z tego nie da się usunąć.** Zostaje jedna rzecz: plebiscyt jest częścią większego przedsięwzięcia i przy pełnej skali potrzebuje więcej niż jednego partnera. Mówimy to wprost, zamiast obiecywać samowystarczalność, której nie ma - a trzy zapisy powyżej sprawiają, że **brak pozostałych partnerów zatrzymuje nabór, zanim pieniądze Fundatora zostaną wydane**, zamiast psuć edycję w trakcie.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
