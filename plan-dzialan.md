@@ -197,7 +197,7 @@ Jedna oferta opisywała dwie zupełnie różne rzeczy. **Partner streamingowy** 
 
 W obu rolach nie ma przepływu pieniędzy. Przy telewizji trzeba było przy tym postawić granicę wobec patronatu medialnego i jest ona zapisana w ofercie wprost: **patron medialny nie zobowiązuje się do niczego i patronów może być kilku, partner telewizyjny umawia się na nazwane elementy anteny i jest jeden.** Bez tego zdania obie oferty konkurowałyby o tego samego adresata.
 
-Stary adres `oferta-dla-partnera-telewizyjnego-lub-streamingowego` zostaje jako strona przekierowująca, bo mógł już pójść w świat; wyjaśnia podział i prowadzi do obu ról. Prompt recenzencki też rozdzielony: telewizyjny pyta o policzenie oddawanego czasu antenowego i o granicę wobec patronatu, streamingowy został przy pytaniach o katalog i brak wyłączności. Kolejka recenzji ma teraz osiemnaście pozycji.
+Stary adres `oferta-dla-partnera-telewizyjnego-lub-streamingowego` usunięty bez przekierowania - żadna oferta nie poszła jeszcze do nikogo, więc nie ma linku, który mógłby się zepsuć. Prompt recenzencki też rozdzielony: telewizyjny pyta o policzenie oddawanego czasu antenowego i o granicę wobec patronatu, streamingowy został przy pytaniach o katalog i brak wyłączności. Kolejka recenzji ma teraz osiemnaście pozycji.
 
 ## Terminy
 
