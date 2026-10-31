@@ -9,7 +9,7 @@ Pliki w tym folderze **nie są publikowane na stronie**: generator ich nie dotyk
 
 ## 2026-10-30 - odpowiedzi Marcina Mickuna (Fundacja RC)
 
-`2026-10-30-mickun-odpowiedzi.txt` - korespondencja przed spotkaniem. Cztery rozstrzygnięcia do wykorzystania:
+Sama korespondencja została usunięta z repozytorium 31.10.2026, bo jest prywatna, a repozytorium jest publiczne. Zostają cztery rozstrzygnięcia, które z niej wynikły i które i tak weszły do statutu oraz do planu działań:
 
 1. **Fundusz założycielski: 2 000 zł**, w tym 1 000 zł na działalność gospodarczą (ustawowe minimum z art. 5 ust. 5 ustawy o fundacjach) i 1 000 zł na statutową. Zamyka pozycję `[DO USTALENIA]` w § 12 projektu statutu.
 2. **Przychody od sponsorów to działalność gospodarcza fundacji**, nie odpłatna działalność statutowa - fundacja musi więc trafić także do rejestru przedsiębiorców, a faktury sponsorskie wychodzą z VAT. Pytanie otwarte po jego stronie: czy licencjonowanie antologii wydawcy ma być komisem.
