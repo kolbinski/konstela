@@ -82,6 +82,24 @@ Suma całości: **1 942 449,76 zł**. W zakresie pytania do MKiDN: **798 800,00 
 
 **Zostaje z recenzji rozmowy** - do zrobienia przy najbliższym podejściu do tej oferty: opisany minimalny trwały rezultat (co jest w Archiwum, od kiedy działa, jak długo je utrzymujemy, jak wygląda dostęp, jak oznaczony jest fundator), górny limit zobowiązania, rozróżnienie progu dwunastu zgłoszeń od założenia stu pięćdziesięciu i od postępowania przy naborze znacznie niższym, zakres spotkania pracowników z laureatami oraz decyzja o próbie oceniania na rzeczywistych rozmowach przed podpisaniem umowy.
 
+## Akademia rozdzielona między plebiscyty (31.10.2026)
+
+Ta sama zasada co przy ścianach i archiwach, ale zastosowana inaczej, bo Akademia ma jedną pozycję naprawdę wspólną. **Budżet Akademii rozpadł się na cztery nazwane bloki - rozmowa, film, piosenka, plakat - każdy z własną rezerwą i własną sumą.** Sponsor może objąć jeden albo wszystkie cztery; rezygnacja z któregokolwiek plebiscytu zabiera z budżetu dokładnie jego blok.
+
+Podział kosztów:
+
+- **Akademia rozmowy - 51 520 zł**: honorarium czytelników 37 500, vouchery 1 500, obsługa voucherów 2 000, kalibracja 3 000, udział w panelu 2 000, rezerwa 12% - 5 520.
+- **Akademia filmu - 108 640 zł**: honoraria za 300 obejrzeń 90 000, kalibracja 5 000, udział w panelu 2 000, rezerwa 11 640.
+- **Akademia piosenki i plakatu** - bloki gotowe, stoją na zerze do czasu ustalenia stawki za jeden odsłuch i za jedną ocenę. Po wpisaniu stawki policzą się same i same wejdą do podsumowania.
+
+Dwie reguły, które to rozstrzygnęły. **Panel oceniających (4 000 zł) jest jeden dla czterech plebiscytów** i dzieli się proporcjonalnie do liczby ocen - przy 300 odczytach i 300 obejrzeniach wypada po 2 000 zł. Klucz jest formułą, nie liczbą: kategoria wchodzi do niego dopiero wtedy, gdy ma wpisaną stawkę, więc dziś panel dzieli się między rozmowę i film, a po wycenie piosenki rozłoży się na trzy. **Obsługa voucherów kosztem wspólnym nie jest** - vouchery dostają wyłącznie czytelnicy rozmów, więc cała pozycja stoi przy rozmowie.
+
+Rozdzielone zostały pieniądze, nie metoda: jedna karta oceny, kalibracja przed pierwszą oceną i dwa niezależne przejścia zostają wspólne dla czterech plebiscytów, bo inaczej werdykty z jednej gali przestają być porównywalne.
+
+Sumy bez zmian: Akademia **160 160 zł**, całość **1 942 449,76 zł**, zakres pytania do MKiDN **798 800,00 zł**. W załączniku dla ministerstwa wiersz Akademii rozpadł się na dwa - rozmów (51 520, cały 2027) i filmów (108 640, z czego 7 840 w 2027).
+
+**Do rozstrzygnięcia:** czy Akademia filmu ma w załączniku dla MKiDN zostać przy „nie", skoro cały plebiscyt filmu jest oznaczony „tak". Dziś oba wiersze Akademii stoją przy „nie", tak jak stał wiersz wspólny.
+
 ## Recenzje ofert: siedemnaście promptów, kolejność i jedna brakująca rzecz (31.10.2026)
 
 Każda z siedemnastu ofert ma własny prompt recenzencki z osobną personą - dotąd były cztery. Nowe trzynaście:

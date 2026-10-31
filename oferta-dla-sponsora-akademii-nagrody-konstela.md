@@ -6,6 +6,14 @@
 
 **Szukamy partnera, który sfinansuje pracę Akademii, czyli pierwszą rundę oceny zgłoszeń - 160 160 zł netto** (196 996,80 zł brutto z VAT 23%). Kwota policzona jest przy **150 zgłoszeniach rozmów i 150 zgłoszeniach filmów**, a przy innej liczbie zgłoszeń zmienia się wprost proporcjonalnie w części honorariów za obejrzenia filmów i w części voucherów. Umowa może wiązać kwotę z liczbą faktycznie ocenionych zgłoszeń zamiast z ryczałtem - i mówimy to w pierwszym akapicie, bo to jest główna cecha tej roli.
 
+**Rola jest podzielna na plebiscyty.** Każdy ma w kosztorysie własny blok, własną rezerwę i własną sumę, więc można objąć pierwsze przejście oceny jednej kategorii zamiast wszystkich:
+
+- **Akademia rozmowy - 51 520 zł netto**: 300 odczytów, grono czytelników, kalibracja, vouchery wraz z ich rozliczeniem;
+- **Akademia filmu - 108 640 zł netto**: 300 obejrzeń filmów do 90 minut, każde z wypełnioną kartą oceny;
+- **Akademia piosenki i Akademia plakatu** - czekają na ustalenie stawki za jeden odsłuch i za jedną ocenę, więc dziś nie mają ceny i nie wchodzą do powyższej kwoty.
+
+Rozdzielone są pieniądze, nie metoda: karta oceny, kalibracja przed pierwszą oceną i zasada dwóch niezależnych przejść są wspólne dla wszystkich czterech plebiscytów, bo inaczej werdykty z jednej gali przestałyby być porównywalne.
+
 **Koszt tej roli rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody.** Partner, który funduje pulę nagród, kupuje skalę i widoczność. Partner, który finansuje Akademię, kupuje liczbę przeczytanych rozmów i obejrzanych filmów - czyli rzecz policzalną w sztukach, nie w rozgłosie. Jeżeli zgłoszeń będzie dwa razy mniej, ta oferta kosztuje odpowiednio mniej, bo honoraria liczone są za wykonaną ocenę.
 
 **Część świadczenia może mieć postać rzeczową** - na przykład voucherów zakupowych dla oceniających zamiast części gotówki. Otwiera to rozmowę z innym rodzajem partnera niż fundator puli nagród: z firmą, która ma produkt albo sieć sprzedaży, a nie wyłącznie budżet marketingowy.
@@ -56,6 +64,8 @@ To jest zdanie, które Sponsor może powtórzyć na zarządzie: **firma zapłaci
 - **150 zgłoszeń rozmów razy 2 odczyty = 300 odczytów.** Czyta je grono czytelników rozmów, każdy z własnym przydziałem, na bieżąco przez cały rok naboru.
 - **150 zgłoszeń filmów razy 2 obejrzenia = 300 obejrzeń.** Każde obejrzenie to film do 90 minut plus wypełniona karta oceny, czyli **około 2 godzin pracy**.
 
+**Pierwsze przejście oceny piosenek i plakatów należy do tego samego zakresu**, ale nie ma jeszcze ustalonej stawki za jeden odsłuch i za jedną ocenę, więc stoi w kosztorysie jako osobne bloki bez ceny. Nie podajemy ich kwoty, dopóki nie wynika z ustalonej stawki; nie chcemy, żeby ktokolwiek liczył budżet na podstawie liczby, którą sami nazwalibyśmy szacunkiem.
+
 **Rola obejmuje:**
 
 - honoraria czytelników rozmów i oceniających filmy w pierwszej rundzie;
@@ -67,21 +77,27 @@ To jest zdanie, które Sponsor może powtórzyć na zarządzie: **firma zapłaci
 
 **160 160 zł netto** (196 996,80 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu Akademii w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-akademii), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
-| Pozycja                                                                 |             Netto |
-| ------------------------------------------------------------------------- | ------------------: |
-| Honorarium podstawowe czytelników rozmów (2 500 zł razy 15 osób)        |       37 500 zł |
-| Vouchery za oceniane rozmowy (500 zł razy 3)                            |        1 500 zł |
-| Honoraria oceniających filmy (300 zł razy 300 obejrzeń)                  |       90 000 zł |
-| **Wynagrodzenie oceniających razem**                                    |  **129 000 zł** |
-| Obsługa i rozliczenie voucherów                                         |        2 000 zł |
-| Materiały kalibracyjne i szkolenie czytelników rozmów                   |        3 000 zł |
-| Materiały kalibracyjne i szkolenie oceniających filmy                    |        5 000 zł |
-| Panel oceniających: hosting, konta, obsługa odnośników                   |        4 000 zł |
-| **Koszty twarde razem**                                                 |   **14 000 zł** |
-| Rezerwa na przekroczenia                                                |       17 160 zł |
-| **Razem netto**                                                         | **160 160 zł** |
-| VAT 23%                                                                 |    36 836,80 zł |
-| **Do zapłaty brutto**                                                   | **196 996,80 zł** |
+| Pozycja                                                                  |               Netto |
+| ------------------------------------------------------------------------ | ------------------: |
+| **Akademia rozmowy**                                                     |                     |
+| Honorarium podstawowe czytelników rozmów (2 500 zł razy 15 osób)         |          37 500 zł |
+| Vouchery za oceniane rozmowy (500 zł razy 3)                             |           1 500 zł |
+| Obsługa i rozliczenie voucherów                                          |           2 000 zł |
+| Materiały kalibracyjne i szkolenie czytelników rozmów                    |           3 000 zł |
+| Udział w panelu oceniających                                             |           2 000 zł |
+| Rezerwa na przekroczenia                                                 |           5 520 zł |
+| **Razem Akademia rozmowy**                                               |      **51 520 zł** |
+| **Akademia filmu**                                                       |                     |
+| Honoraria oceniających filmy (300 zł razy 300 obejrzeń)                  |          90 000 zł |
+| Materiały kalibracyjne i szkolenie oceniających filmy                    |           5 000 zł |
+| Udział w panelu oceniających                                             |           2 000 zł |
+| Rezerwa na przekroczenia                                                 |          11 640 zł |
+| **Razem Akademia filmu**                                                 |     **108 640 zł** |
+| **Razem netto**                                                          |     **160 160 zł** |
+| VAT 23%                                                                  |        36 836,80 zł |
+| **Do zapłaty brutto**                                                    |  **196 996,80 zł** |
+
+**Panel oceniających kosztuje 4 000 zł i jest jeden dla czterech plebiscytów**, więc jako jedyna pozycja tego kosztorysu nie należy do żadnej kategorii osobno. Dzielimy go proporcjonalnie do liczby ocen - przy 300 odczytach rozmów i 300 obejrzeniach filmów wypada po 2 000 zł na blok. Klucz przelicza się sam, więc objęcie jednej kategorii zamiast dwóch nie zostawia w kosztorysie niczyjej reszty. Obsługa voucherów kosztem wspólnym nie jest: vouchery dostają wyłącznie czytelnicy rozmów, więc ta pozycja stoi w całości przy rozmowie.
 
 **Co stoi za trzema pozycjami wynagrodzenia:**
 
@@ -91,7 +107,7 @@ To jest zdanie, które Sponsor może powtórzyć na zarządzie: **firma zapłaci
 
 **Materiały kalibracyjne to osobna pozycja, bo powstają raz i obowiązują wszystkich.** Dla rozmów to trzy rozmowy kotwiczne, instrukcja i spotkanie wprowadzające - 3 000 zł. Dla filmów to trzy filmy kotwiczne z rozpisaną punktacją, instrukcja oznaczania zastrzeżeń i spotkanie - 5 000 zł, czyli drożej, bo oceniający film ma na kotwicę poświęcić te same dwie godziny co na zgłoszenie.
 
-**Rezerwa liczona jest od wynagrodzeń i kosztów twardych razem**, bo przekroczenie może wystąpić po obu stronach: zgłoszeń może być więcej, niż założono, albo rozbieżność ocen wymusi trzecie odczyty. **Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Sponsora albo, na jego pisemny wybór, przechodzą na kolejną edycję.**
+**Rezerwa jest osobna dla każdego plebiscytu i liczona od wynagrodzeń i kosztów twardych razem** - 12% w obu blokach - bo przekroczenie może wystąpić po obu stronach: zgłoszeń może być więcej, niż założono, albo rozbieżność ocen wymusi trzecie odczyty. **Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Sponsora albo, na jego pisemny wybór, przechodzą na kolejną edycję.**
 
 ### Jak kwota zmienia się przy innej liczbie zgłoszeń
 
