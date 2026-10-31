@@ -622,15 +622,13 @@
       .awards {
         margin-top: 1.6rem;
       }
-      /* Kreski między kaflami rysuje obrys każdego kafla, a nie tło siatki
-         prześwitujące przez przerwę. Przy nieparzystej liczbie kafli ostatnie
-         pole zostaje puste, a tło siatki świeciłoby w nim kolorem kreski -
-         puste pole ma wyglądać jak wypełnione. */
+      /* Kafle stoją osobno, z dwunastopikselową przerwą na telefonie i na
+         ekranie. Siatka nie ma własnego obramowania ani tła, bo przy widocznej
+         przerwie byłyby ramką wokół pustego miejsca - przy nieparzystej liczbie
+         kafli ostatnie pole zostaje puste. Kreskę rysuje obrys każdego kafla. */
       .kafle {
         display: grid;
-        gap: 1px;
-        background: var(--surface);
-        border: 1px solid var(--rule);
+        gap: 12px;
         margin-top: 1.6rem;
       }
       .kafle article {
