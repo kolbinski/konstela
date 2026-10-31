@@ -27,7 +27,10 @@ Osobno i wcześniej odbywa się wystawa przy gali, w postaci gwarantowanej za 8 
 
 ## <!--ikona:waga--><span>Jak to wygląda w kosztorysie</span>
 
-W [Budżecie Plakatu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu) ta wystawa ma własny blok, wyraźnie **poza sumą oferty plakatowej**. Stoją w nim dwie pozycje: realizacja wernisażu i wystawy - zawieszenie, oświetlenie, opisy prac, obsługa wernisażu i przewóz między miejscami - która **czeka na wycenę**, oraz obsługa cichej licytacji po stronie organizatora, czyli warunki, zgody i rozliczenia, policzona na 20 godzin, 4 400 zł netto.
+W [Budżecie Plakatu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu) ta wystawa ma własny blok, wyraźnie **poza sumą oferty plakatowej**. Stoją w nim dwie pozycje:
+
+- **realizacja wernisażu i wystawy** - zawieszenie, oświetlenie, opisy prac, obsługa wernisażu i przewóz między miejscami - która **czeka na wycenę**;
+- **obsługa cichej licytacji** po stronie organizatora, czyli warunki, zgody i rozliczenia, policzona na 20 godzin, 4 400 zł netto.
 
 Mówimy wprost, czego oczekujemy: realizację wystawy bierze na siebie galeria, w swoim standardzie i w swoim budżecie. Fundacja wnosi prace, ich ubezpieczenie na czas wystawy oraz obsługę licytacji i rozliczeń z autorami.
 

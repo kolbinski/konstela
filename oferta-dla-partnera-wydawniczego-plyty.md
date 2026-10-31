@@ -27,7 +27,11 @@ Premiera naturalnie wiąże się z galą rozstrzygnięcia w drugiej połowie kwi
 
 ## <!--ikona:zasady--><span>Czego jeszcze nie ma i co trzeba uzgodnić</span>
 
-Nie udajemy, że to jest gotowy pakiet. Do uzgodnienia zostają trzy rzeczy: **prawa do nagrań** i ich podział między wykonawców, realizatora i fundację, co jest osobnym punktem na liście pytań do kancelarii; **podział wpływów** ze sprzedaży i ze streamingu; oraz **zakres wyłączności**, przy czym jedna rzecz jest przesądzona - utwory konkursowe pozostają dostępne publicznie tam, gdzie wymaga tego regulamin plebiscytu.
+Nie udajemy, że to jest gotowy pakiet. Do uzgodnienia zostają trzy rzeczy:
+
+- **prawa do nagrań** i ich podział między wykonawców, realizatora i fundację, co jest osobnym punktem na liście pytań do kancelarii;
+- **podział wpływów** ze sprzedaży i ze streamingu;
+- **zakres wyłączności**, przy czym jedna rzecz jest przesądzona: utwory konkursowe pozostają dostępne publicznie tam, gdzie wymaga tego regulamin plebiscytu.
 
 Nie obiecujemy sprzedaży ani zainteresowania mediów. Obiecujemy to, co mamy: materiał, nazwiska jury, galę i stronę, na której płyta stoi obok wszystkiego innego, co z tej edycji zostaje.
 

@@ -8,9 +8,17 @@
 
 **Kosztuje to 296 776 zł netto** (365 034,48 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
-Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**. Piszemy „ma być", a nie „jest", świadomie: tego, że powstaną filmy, które bez tego plebiscytu by nie powstały, nikt dziś nie może obiecać, bo zależy to od decyzji twórców, a nie od Organizatora. Regulamin wymaga ukończenia filmu w roku edycji i zakazuje zgłaszania przeróbek wcześniejszych filmów, ale dopuszcza użycie wcześniej napisanego scenariusza i wcześniej zrealizowanych zdjęć jako składników nowego filmu. **To jest najbardziej niepewne założenie całego plebiscytu i nie ukrywamy go w drobnym druku.**
+Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagród plebiscytu na film** - rola opisana na tej stronie - finansuje pulę, ocenę i nabór w jednym z czterech plebiscytów. [Fundator nagród plebiscytu na rozmowę](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje rdzeń Nagrody, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania, a [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia wspólne dla wszystkich plebiscytów. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
+Piszemy „ma być", a nie „jest", świadomie: tego, że powstaną filmy, które bez tego plebiscytu by nie powstały, nikt dziś nie może obiecać, bo zależy to od decyzji twórców, a nie od Organizatora.
+
+Regulamin wymaga ukończenia filmu w roku edycji i zakazuje zgłaszania przeróbek wcześniejszych filmów, ale dopuszcza użycie wcześniej napisanego scenariusza i wcześniej zrealizowanych zdjęć jako składników nowego filmu. **To jest najbardziej niepewne założenie całego plebiscytu i nie ukrywamy go w drobnym druku.**
+
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagród plebiscytu na film** - rola opisana na tej stronie - finansuje pulę, ocenę i nabór w jednym z czterech plebiscytów.
+
+[Fundator nagród plebiscytu na rozmowę](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje rdzeń Nagrody, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania, a [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia wspólne dla wszystkich plebiscytów.
+
+Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -37,7 +45,14 @@ Nie zawężamy tematu i nie mówimy, czy film ma być pochwałą AI, czy ostrze�
 1. **Akademia filmu** - grono niezależnych widzów, które ogląda wszystkie zgłoszenia przeszłe przez weryfikację formalną i przekazuje jury listę wyłonioną według [karty oceny](/dokument/regulamin-filmu#karta-oceny), tej samej, z którą pracuje jury. Do jury trafia nie więcej niż 20 filmów.
 2. **Jury** - grono profesjonalistów branży filmowej, którego skład ogłaszany jest przed otwarciem naboru. Jury wybiera dziesięciu finalistów oraz rozstrzyga o czołowej trójce. Członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.
 
-Ocena odbywa się według czterech kryteriów o łącznej wartości 100 punktów: **teza** - co film mówi o sztucznej inteligencji, od 0 do 30 punktów; **forma** - montaż, obraz, dźwięk i rytm, od 0 do 30 punktów; **rzetelność** tego, co film podaje widzowi jako fakt o technologii, od 0 do 20 punktów; **siła oddziaływania**, od 0 do 20 punktów. Karta oceny jest jawna przed naborem i taka sama dla wszystkich oceniających.
+Ocena odbywa się według czterech kryteriów o łącznej wartości 100 punktów:
+
+- **teza** - co film mówi o sztucznej inteligencji, od 0 do 30 punktów;
+- **forma** - montaż, obraz, dźwięk i rytm, od 0 do 30 punktów;
+- **rzetelność** tego, co film podaje widzowi jako fakt o technologii, od 0 do 20 punktów;
+- **siła oddziaływania**, od 0 do 20 punktów.
+
+Karta oceny jest jawna przed naborem i taka sama dla wszystkich oceniających.
 
 **Fundator nie ma wpływu ani na skład jury, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
 
@@ -83,7 +98,9 @@ Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa tr
 
 **Jak to wygląda na tle polskich nagród filmowych.** Odniesienie, które da się sprawdzić: w Koszalińskim Festiwalu Debiutów Filmowych „Młodzi i Film", czyli najważniejszym polskim przeglądzie debiutów, regulamin na 2026 rok przewiduje **20 000 zł za debiut pełnometrażowy i po 10 000 zł w konkursie krótkometrażowym** - osobno dla fabuły, dokumentu i animacji. Nagroda główna tego plebiscytu jest zatem pięć razy wyższa niż nagroda za pełnometrażowy debiut i dziesięć razy wyższa niż nagroda za film krótkometrażowy na festiwalu, który te filmy od czterdziestu lat ogląda.
 
-Powód tej różnicy nie leży w ambicji, tylko w konstrukcji. **Festiwal nagradza film, który już istnieje i został za coś nakręcony** - najczęściej za dotację Polskiego Instytutu Sztuki Filmowej, za pieniądze szkoły filmowej, telewizji albo producenta. Nagroda festiwalowa jest premią do produkcji, która i tak została sfinansowana. **Tutaj jest odwrotnie: film ma dopiero powstać, na potrzeby plebiscytu, a Organizator nie daje na produkcję ani złotówki.** Jedynymi pieniędzmi w całym równaniu są nagrody, i to one muszą unieść rok pracy, sprzęt, ekipę i ryzyko, że dziesiątka finalistów się nie uda. Nagroda na poziomie dwudziestu tysięcy nie przesunęłaby niczyjej decyzji o wejściu w taki projekt; stu tysięcy - przesuwa.
+Powód tej różnicy nie leży w ambicji, tylko w konstrukcji. **Festiwal nagradza film, który już istnieje i został za coś nakręcony** - najczęściej za dotację Polskiego Instytutu Sztuki Filmowej, za pieniądze szkoły filmowej, telewizji albo producenta. Nagroda festiwalowa jest premią do produkcji, która i tak została sfinansowana.
+
+**Tutaj jest odwrotnie: film ma dopiero powstać, na potrzeby plebiscytu, a Organizator nie daje na produkcję ani złotówki.** Jedynymi pieniędzmi w całym równaniu są nagrody, i to one muszą unieść rok pracy, sprzęt, ekipę i ryzyko, że dziesiątka finalistów się nie uda. Nagroda na poziomie dwudziestu tysięcy nie przesunęłaby niczyjej decyzji o wejściu w taki projekt; stu tysięcy - przesuwa.
 
 To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć równych części. Dziesięć razy po osiemnaście tysięcy daje dziesięciu zadowolonych finalistów i zero filmów, które ktoś by dla tej nagrody zrobił.
 
@@ -112,7 +129,9 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | VAT 23%                                                        |      68 258,48 zł |
 | **Do zapłaty brutto**                                          | **365 034,48 zł** |
 
-**Dlaczego dojazd finalistów na galę stoi na zerze.** Przejazd i nocleg finalistów wszystkich czterech plebiscytów to jedna pozycja w [Budżecie Gali](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali) za 32 000 zł, finansowana przez sponsora gali; wpisanie jej równolegle tutaj znaczyłoby policzenie tych samych pieniędzy dwa razy. Ta rola nie jest jeszcze obsadzona, więc mówimy wprost, co się dzieje przy jej braku: jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, regulamin przewiduje ogłoszenie wyników bez gali, a wtedy nie ma ani przyjazdu finalistów, ani bloku zwiastunów - i jest to jedno ze zdarzeń pozwalających Fundatorowi wycofać nazwę. **Fundator nie dopłaca wtedy niczego, bo w jego kosztorysie ta pozycja nigdy nie stała po stronie wydatków.**
+**Dlaczego dojazd finalistów na galę stoi na zerze.** Przejazd i nocleg finalistów wszystkich czterech plebiscytów to jedna pozycja w [Budżecie Gali](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali) za 32 000 zł, finansowana przez sponsora gali; wpisanie jej równolegle tutaj znaczyłoby policzenie tych samych pieniędzy dwa razy.
+
+Ta rola nie jest jeszcze obsadzona, więc mówimy wprost, co się dzieje przy jej braku: jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, regulamin przewiduje ogłoszenie wyników bez gali, a wtedy nie ma ani przyjazdu finalistów, ani bloku zwiastunów - i jest to jedno ze zdarzeń pozwalających Fundatorowi wycofać nazwę. **Fundator nie dopłaca wtedy niczego, bo w jego kosztorysie ta pozycja nigdy nie stała po stronie wydatków.**
 
 Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów pokazanych na pokazie kuratorskim pokrywa ta oferta, w pozycji gwarantowanej za 12 000 zł. Film finalisty trafia więc przed publiczność z opłaconym przyjazdem autora także wtedy, gdy gala się nie odbędzie.
 
@@ -144,7 +163,13 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 93 550 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu, pokazu kuratorskiego oraz magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
-**Po co magazyn kopii archiwalnych.** Film leży na kanale autora, a kanał może zniknąć razem z nim - i wtedy Archiwum zostaje z martwym linkiem, a pokazu kuratorskiego nie ma z czego zrobić. Dlatego po zamknięciu naboru Organizator pobiera kopię każdego zgłoszonego filmu i przechowuje ją w magazynie obiektowym w Unii Europejskiej, z kopią zapasową, przez pięć lat. **Kopia nie jest udostępniana publicznie**: służy dokumentacji edycji, ustaleniu, co było wersją plebiscytową, oraz projekcji na pokazie kuratorskim, na którą uczestnik zgadza się osobno. Przy wycofaniu zgłoszenia kopia jest usuwana, podobnie jak przy skutecznym zarzucie naruszenia praw osób trzecich. **Organizator nie publikuje filmów z tej kopii na własnym kanale z urzędu** - duplikat dzieliłby wyświetlenia autora, wchodziłby w spór o prawa do muzyki licencjonowanej na kanał autora i przenosiłby na Organizatora odpowiedzialność wydawcy. Publikacja z kopii wymaga odrębnej, odwoływalnej zgody autora, o którą Organizator zwraca się przede wszystkim wtedy, gdy film przestaje być dostępny u niego; bez zgody wpis zostaje oznaczony jako niedostępny. Archiwum zbierane jest natomiast w publiczną playlistę odsyłającą do kanałów autorów, co nie generuje kosztu emisji ani sporu o prawa. O przechowywaniu po upływie pięciu lat rozstrzyga Rada Fundacji. W plebiscycie na rozmowę Organizator robi to samo od początku; przy filmach jest to zmiana wprowadzona 31 października 2026 roku, bo poprzednia konstrukcja opierała trwałość Archiwum wyłącznie na tym, co autor zostawi w internecie.
+**Po co magazyn kopii archiwalnych.** Film leży na kanale autora, a kanał może zniknąć razem z nim - i wtedy Archiwum zostaje z martwym linkiem, a pokazu kuratorskiego nie ma z czego zrobić. Dlatego po zamknięciu naboru Organizator pobiera kopię każdego zgłoszonego filmu i przechowuje ją w magazynie obiektowym w Unii Europejskiej, z kopią zapasową, przez pięć lat.
+
+**Kopia nie jest udostępniana publicznie**: służy dokumentacji edycji, ustaleniu, co było wersją plebiscytową, oraz projekcji na pokazie kuratorskim, na którą uczestnik zgadza się osobno. Przy wycofaniu zgłoszenia kopia jest usuwana, podobnie jak przy skutecznym zarzucie naruszenia praw osób trzecich.
+
+**Organizator nie publikuje filmów z tej kopii na własnym kanale z urzędu** - duplikat dzieliłby wyświetlenia autora, wchodziłby w spór o prawa do muzyki licencjonowanej na kanał autora i przenosiłby na Organizatora odpowiedzialność wydawcy. Publikacja z kopii wymaga odrębnej, odwoływalnej zgody autora, o którą Organizator zwraca się przede wszystkim wtedy, gdy film przestaje być dostępny u niego; bez zgody wpis zostaje oznaczony jako niedostępny.
+
+Archiwum zbierane jest natomiast w publiczną playlistę odsyłającą do kanałów autorów, co nie generuje kosztu emisji ani sporu o prawa. O przechowywaniu po upływie pięciu lat rozstrzyga Rada Fundacji. W plebiscycie na rozmowę Organizator robi to samo od początku; przy filmach jest to zmiana wprowadzona 31 października 2026 roku, bo poprzednia konstrukcja opierała trwałość Archiwum wyłącznie na tym, co autor zostawi w internecie.
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
@@ -160,7 +185,11 @@ Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 19
 
 **Pokaz kuratorski, 12 000 zł, rozliczany jest po pokazie**, na podstawie faktur kina albo instytucji kultury, rachunków za przejazd i nocleg twórców oraz raportu z wydarzenia. Jest to jedyna pozycja tej oferty rozliczana po gali, bo wtedy się odbywa.
 
-**Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły, a dwie pozycje zależne od frekwencji - kontrola formalna i weryfikacja historii zgłoszonego filmu - według rzeczywistej liczby zgłoszeń: po 12 minut na zgłoszenie przy kontroli oraz 5 godzin na metodę i narzędzie plus 8 minut na zgłoszenie przy weryfikacji historii. Przy 15 zgłoszeniach Fundator płaci za sprawdzenie 15 filmów, nie 150: te dwie pozycje schodzą z 55 godzin do 10. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
+**Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły, a dwie pozycje zależne od frekwencji - kontrola formalna i weryfikacja historii zgłoszonego filmu - według rzeczywistej liczby zgłoszeń: po 12 minut na zgłoszenie przy kontroli oraz 5 godzin na metodę i narzędzie plus 8 minut na zgłoszenie przy weryfikacji historii.
+
+Przy 15 zgłoszeniach Fundator płaci za sprawdzenie 15 filmów, nie 150: te dwie pozycje schodzą z 55 godzin do 10. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota.
+
+Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
@@ -178,7 +207,9 @@ Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: dziesiątka finali
 
 Budżet policzony jest na **150 zgłoszeń filmów**. Jest to założenie przepustowości, a nie próg ani prognoza: regulamin wymaga wyłącznie tego, żeby zgłoszeń było co najmniej 10, a kontrola formalna rozliczana jest według faktycznej liczby, więc przy mniejszym naborze pozycja maleje. Skąd 150: 30 godzin kontroli formalnej to 12 minut na zgłoszenie razy 150. Tyle samo zakłada [budżet Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela), która wykonuje pierwsze przejście oceny. Pięćdziesiąt godzin dotarcia do szkół filmowych, kół filmowych i festiwali jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
 
-**Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze. Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpada wtedy przygotowanie techniczne zwiastunów, a jeżeli zostało już opłacone, kwota wraca; przyjazd finalistów na galę jest w Budżecie Gali, nie tutaj, więc po stronie Fundatora nie ma z tego tytułu ani wydatku, ani zwrotu. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
+**Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze.
+
+Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpada wtedy przygotowanie techniczne zwiastunów, a jeżeli zostało już opłacone, kwota wraca; przyjazd finalistów na galę jest w Budżecie Gali, nie tutaj, więc po stronie Fundatora nie ma z tego tytułu ani wydatku, ani zwrotu. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
 
 ## <!--ikona:projektornia--><span>Co dostaje uczestnik, który nie wygrał</span>
 
@@ -285,7 +316,11 @@ Kto tę umowę zawiera i kto odbiera pracę:
 
 Nagrody, medal, dyplomy, honoraria jury i pozycje zewnętrzne wchodzą do budżetu w kwotach z faktur dostawców albo w kwotach wypłaconych laureatom, **bez narzutu**.
 
-**Co, jeżeli jedyny wykonawca będzie dłużej niedostępny.** Pracę z tego kosztorysu wykonuje jedna osoba, więc pytanie o chorobę albo wypadek jest uzasadnione i nie zostawiamy go bez odpowiedzi. Zobowiązanie bierze na siebie fundacja, nie człowiek: jeżeli niedostępność przekroczy trzydzieści dni na którymkolwiek etapie, Rada Fundacji zawiadamia o tym Fundatora w ciągu siedmiu dni i zleca wykonanie pozostałych zadań innemu podmiotowi, w granicach kwot z kosztorysu; różnicę, jeżeli wystąpi, pokrywa rezerwa, a nie dopłata Fundatora. Do przejęcia pracy nie jest potrzebna wiedza, której nie ma na piśmie: regulaminy, karty oceny, kosztorys i terminarz są jawne i opublikowane, a dostępy do domen, poczty, hostingu i magazynu kopii archiwalnych należą do fundacji, nie do osoby prywatnej, i ich kopia zostaje złożona u Rady Fundacji przed otwarciem naboru. Jeżeli i to nie wystarczy, nie udajemy, że umowa działa dalej: świadczenie niewykonane jest świadczeniem niewykonanym, więc Fundator odzyskuje odpowiadającą mu kwotę i może wycofać nazwę na zasadach opisanych wyżej.
+**Co, jeżeli jedyny wykonawca będzie dłużej niedostępny.** Pracę z tego kosztorysu wykonuje jedna osoba, więc pytanie o chorobę albo wypadek jest uzasadnione i nie zostawiamy go bez odpowiedzi.
+
+- **Zastępstwo.** Zobowiązanie bierze na siebie fundacja, nie człowiek: jeżeli niedostępność przekroczy trzydzieści dni na którymkolwiek etapie, Rada Fundacji zawiadamia o tym Fundatora w ciągu siedmiu dni i zleca wykonanie pozostałych zadań innemu podmiotowi, w granicach kwot z kosztorysu; różnicę, jeżeli wystąpi, pokrywa rezerwa, a nie dopłata Fundatora.
+- **Przejęcie pracy.** Do przejęcia pracy nie jest potrzebna wiedza, której nie ma na piśmie: regulaminy, karty oceny, kosztorys i terminarz są jawne i opublikowane, a dostępy do domen, poczty, hostingu i magazynu kopii archiwalnych należą do fundacji, nie do osoby prywatnej, i ich kopia zostaje złożona u Rady Fundacji przed otwarciem naboru.
+- **Granica tej obietnicy.** Jeżeli i to nie wystarczy, nie udajemy, że umowa działa dalej: świadczenie niewykonane jest świadczeniem niewykonanym, więc Fundator odzyskuje odpowiadającą mu kwotę i może wycofać nazwę na zasadach opisanych wyżej.
 
 **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Fundator składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
 

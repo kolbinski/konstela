@@ -39,7 +39,12 @@ Mówimy o tym w pierwszej kolejności, bo inaczej postawiliby to Państwo w pier
 
 Wydawca bierze na siebie skład, projekt, druk nakładu handlowego, dystrybucję i sprzedaż oraz promocję tytułu w swoich kanałach.
 
-Fundacja daje: **gotowy, zredagowany maszynopis** przekazany po werdykcie jury, czyli w pierwszym kwartale 2028 roku; licencję na czas oznaczony, z terytorium i polami eksploatacji do uzgodnienia; brak honorariów autorskich, ponieważ nagrodą za udział jest nagroda pieniężna i publikacja, a autorzy wiedzą o tym w chwili zgłoszenia; galę premierową z udziałem jury i laureatów, w drugiej połowie kwietnia 2028, z obsługą prasową po stronie fundacji.
+Fundacja daje:
+
+- **gotowy, zredagowany maszynopis** przekazany po werdykcie jury, czyli w pierwszym kwartale 2028 roku;
+- **licencję na czas oznaczony**, z terytorium i polami eksploatacji do uzgodnienia;
+- **brak honorariów autorskich**, ponieważ nagrodą za udział jest nagroda pieniężna i publikacja, a autorzy wiedzą o tym w chwili zgłoszenia;
+- **galę premierową** z udziałem jury i laureatów, w drugiej połowie kwietnia 2028, z obsługą prasową po stronie fundacji.
 
 I rzecz, która w tej konfiguracji waży najwięcej: **link do zakupu książki stoi na stronie Nagrody obok przycisku bezpłatnego pobrania**, w tym samym miejscu i równie widocznie. Cały ruch, który przyjdzie po darmowy plik, zobaczy jednocześnie, że istnieje wydanie drukowane i kto je wydał.
 
