@@ -1,4 +1,4 @@
-# Oferta dla Sponsora nagród w plebiscycie na piosenkę o sztucznej inteligencji
+# Oferta dla Fundatora nagród w plebiscycie na piosenkę o sztucznej inteligencji
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
@@ -33,7 +33,7 @@ Ocena idzie według 4 kryteriów o jawnych wagach, w sumie do 100 punktów:
 
 ### Melodia i głos są ludzkie, przy tekście wolno posiłkować się AI
 
-Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a partia wokalna musi być w całości ludzka, bez wyjątków. Tekst wolno napisać z udziałem sztucznej inteligencji, trzeba tylko w zgłoszeniu opisać, jak powstał; deklaracja jest publikowana razem ze zgłoszeniem i **nie wpływa na ocenę**. To jest zdanie, które Sponsor może powtórzyć na zarządzie: plebiscyt nie jest konkursem dla generatorów, a jednocześnie nie udaje, że nikt z AI nie pracuje.
+Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a partia wokalna musi być w całości ludzka, bez wyjątków. Tekst wolno napisać z udziałem sztucznej inteligencji, trzeba tylko w zgłoszeniu opisać, jak powstał; deklaracja jest publikowana razem ze zgłoszeniem i **nie wpływa na ocenę**. To jest zdanie, które Fundator może powtórzyć na zarządzie: plebiscyt nie jest konkursem dla generatorów, a jednocześnie nie udaje, że nikt z AI nie pracuje.
 
 ### Jak przebiega ocena
 
@@ -41,7 +41,7 @@ Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a part
 2. **Jury** wybiera 10 finalistów i ustala ich kolejność: nagrodę główną, drugie i trzecie miejsce oraz 7 wyróżnień. Skład ogłaszamy wraz z sylwetkami przed otwarciem naboru.
 3. **Publiczność głosuje osobno**, w głosowaniu niezależnym od werdyktu jury. Przy głosie trzeba napisać uzasadnienie od 200 do 1500 znaków; bez uzasadnienia głos nie zostaje oddany. Liczniki i uzasadnienia są ukryte do gali.
 
-**Sponsor nie ma wpływu ani na skład jury i akademii, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
+**Fundator nie ma wpływu ani na skład jury i akademii, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
 
 ## <!--ikona:moneta--><span>Co obejmuje ta rola, czyli 3 rzeczy osobne</span>
 
@@ -52,7 +52,7 @@ Ta rola finansuje 3 rzeczy, które warto rozpatrywać oddzielnie, bo oddzielnie 
 - **Nagrody plebiscytu - 35 000 zł brutto** dla czołowej trójki werdyktu jury. Z 7 wyróżnieniami nie wiąże się nagroda pieniężna; wyróżnieni otrzymują dyplom i nagranie studyjne.
 - **Nagrody publiczności - 12 000 zł brutto**, w podziale na 10 000 zł dla zgłoszenia z największą liczbą głosów i 2 000 zł za najlepsze uzasadnienie oddanego głosu, wybierane przez 3-osobowy zespół powołany spoza jury.
 
-Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru. Chroni to uczestników danej edycji, a Sponsorowi daje pewność, że ogłoszona kwota jest kwotą ostateczną w dół.
+Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru. Chroni to uczestników danej edycji, a Fundatorowi daje pewność, że ogłoszona kwota jest kwotą ostateczną w dół.
 
 ### 2. Nagrania studyjne 10 finalistów - 75 000 zł netto
 
@@ -60,7 +60,7 @@ Każdy z 10 finalistów dostaje **profesjonalne nagranie swojego utworu w studiu
 
 Trzy rzeczy, które do tej pozycji należą i których nie zmieniamy:
 
-- **Prawa do nagrania przechodzą na autora** jako część nagrody. Organizator nie zostawia sobie praw, nie kupuje wyłączności i nie bierze prowizji od tego, co autor zarobi na streamingu czy sprzedaży. Sponsor również nie nabywa do nagrań żadnych praw.
+- **Prawa do nagrania przechodzą na autora** jako część nagrody. Organizator nie zostawia sobie praw, nie kupuje wyłączności i nie bierze prowizji od tego, co autor zarobi na streamingu czy sprzedaży. Fundator również nie nabywa do nagrań żadnych praw.
 - **Nagrania powstają niezależnie od tego, czy znajdzie się wydawca płyty.** Płyta jest planem, nie obietnicą, i zależy od osobnej umowy, którą autor zawiera z wydawnictwem, a nie z nami. Odmowa takiej umowy nie odbiera autorowi ani nagrania, ani praw do niego.
 - **Zakres sesji ogłaszamy przed otwarciem naboru**: studio, liczba sesji i poprawek, przekazywane materiały, kto zatwierdza aranżację oraz zasady pokrywania kosztów dojazdu. Uczestnik ma wiedzieć, co dokładnie dostaje, zanim zdecyduje się zgłosić.
 
@@ -72,9 +72,9 @@ To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 u
 
 **Premiera hymnu wypada w czasie trwania naboru w 2027 roku**, bo hymn jest także zaproszeniem do zgłoszeń. Jedno zastrzeżenie wprost: **otwarcie edycji nie jest od hymnu uzależnione.** Warunki otwarcia naboru są 3 i hymnu wśród nich nie ma, więc opóźnienie produkcji nie wstrzymuje plebiscytu, a plebiscyt nie wstrzymuje hymnu.
 
-### Sponsor może sfinansować tylko część
+### Fundator może sfinansować tylko część
 
-Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjne i hymn są trzema osobnymi pozycjami, które dają się objąć pojedynczo albo parami, a przy każdej z nich zakres świadczeń dla Sponsora ustalamy proporcjonalnie do kwoty. **Kwota w tej ofercie dotyczy jednak całości** i to ona jest przedmiotem rozmowy, dopóki nie powiedzą Państwo inaczej. Jeżeli zakres w tej postaci jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
+Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjne i hymn są trzema osobnymi pozycjami, które dają się objąć pojedynczo albo parami, a przy każdej z nich zakres świadczeń dla Fundatora ustalamy proporcjonalnie do kwoty. **Kwota w tej ofercie dotyczy jednak całości** i to ona jest przedmiotem rozmowy, dopóki nie powiedzą Państwo inaczej. Jeżeli zakres w tej postaci jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
@@ -115,9 +115,9 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 - **obsługa prawna plebiscytu** - do wyceny; zakres wskaże konsultacja prawna regulaminu;
 - **dojazd i nocleg 10 finalistów na galę** - do wyceny; udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 192 500 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Sponsora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 192 500 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
-**Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród, a podatek odprowadza organizator, nie laureat i nie Sponsor. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru.
+**Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród, a podatek odprowadza organizator, nie laureat i nie Fundator. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru.
 
 ### Płatność
 
@@ -135,17 +135,17 @@ Faktura wychodzi osobno do każdego etapu.
 
 Regulamin wymienia 3 warunki, które muszą być spełnione łącznie, żeby nabór się otworzył: cała ogłaszana pula ma pokrycie w środkach na rachunku Organizatora, co najmniej 3 osoby potwierdziły udział w jury i skład został ogłoszony, a regulamin przeszedł konsultację prawną.
 
-Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Sponsora** albo, według jego wyboru, przechodzi na kolejną edycję.
+Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Fundatora** albo, według jego wyboru, przechodzi na kolejną edycję.
 
-Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli po weryfikacji formalnej liczba zgłoszeń spełniających wymogi okaże się mniejsza niż 10, Organizator może nie rozstrzygnąć edycji; to samo dotyczy sytuacji, w której żadne zgłoszenie nie uzyska co najmniej 50 punktów według karty oceny, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Sponsora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
+Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli po weryfikacji formalnej liczba zgłoszeń spełniających wymogi okaże się mniejsza niż 10, Organizator może nie rozstrzygnąć edycji; to samo dotyczy sytuacji, w której żadne zgłoszenie nie uzyska co najmniej 50 punktów według karty oceny, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Fundatora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
-Dwie pozycje mają tu własny los i mówimy o nim wprost. **Nagrania studyjne finansowane są dla finalistów, więc bez rozstrzygnięcia edycji nie powstają** i pozycja wraca do Sponsora w całości. **Hymn jest odwrotnie: powstaje i zostaje**, bo jego premiera wypada w czasie naboru, a nagranie i teledysk istnieją niezależnie od tego, ile zgłoszeń wpłynie.
+Dwie pozycje mają tu własny los i mówimy o nim wprost. **Nagrania studyjne finansowane są dla finalistów, więc bez rozstrzygnięcia edycji nie powstają** i pozycja wraca do Fundatora w całości. **Hymn jest odwrotnie: powstaje i zostaje**, bo jego premiera wypada w czasie naboru, a nagranie i teledysk istnieją niezależnie od tego, ile zgłoszeń wpłynie.
 
 Budżet policzony jest na skalę, przy której dziesiątka finalistów ma z czego powstać, i to jest liczba, na którą pracujemy.
 
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 
-Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Sponsor otrzymuje:**
+Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Fundator otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
 - **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu;
@@ -155,7 +155,7 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 
 **Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne, czyli zwrot wszystkiego, co nam powierzono, oraz rozliczenie, a środki przeznaczone na rzeczy, które się nie odbyły, wracają w całości. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
 
-**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Sponsorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Sponsor ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Sponsor otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
+**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
 1. **gala się nie odbywa** i werdykt zostaje ogłoszony na stronie;
 2. **hymn z teledyskiem nie powstaje** w roku naboru;
@@ -164,29 +164,29 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 
 Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 
-## <!--ikona:puchar--><span>Co otrzymuje Sponsor</span>
+## <!--ikona:puchar--><span>Co otrzymuje Fundator</span>
 
-Tytuł **Sponsora nagród plebiscytu na piosenkę o sztucznej inteligencji** we wszystkich materiałach pierwszej edycji: na stronie plebiscytu, w komunikatach prasowych, w czołówce zapisu wideo z gali i w sprawozdaniu z edycji.
+Tytuł **Fundatora nagród plebiscytu na piosenkę o sztucznej inteligencji** we wszystkich materiałach pierwszej edycji: na stronie plebiscytu, w komunikatach prasowych, w czołówce zapisu wideo z gali i w sprawozdaniu z edycji.
 
 Poza tytułem:
 
 - **Logo** na stronie konstela.org przez cały okres edycji oraz na scenie podczas gali rozstrzygnięcia.
 - **Obecność w komunikacji plebiscytu**: wymienienie przy każdej wzmiance o nagrodach i o nagraniach studyjnych w materiałach Organizatora, w Słuchalni w czasie naboru i w Archiwum po gali.
-- **Wystąpienie przedstawiciela Sponsora na gali** oraz wręczenie nagrody głównej plebiscytu, wraz z kilkoma zdaniami o tym, dlaczego firma postanowiła sfinansować piosenki o sztucznej inteligencji.
+- **Wystąpienie przedstawiciela Fundatora na gali** oraz wręczenie nagrody głównej plebiscytu, wraz z kilkoma zdaniami o tym, dlaczego firma postanowiła sfinansować piosenki o sztucznej inteligencji.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
-- **Udział pracowników Sponsora** w akademii piosenki, na tych samych zasadach co pozostali oceniający.
-- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Sponsora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
+- **Udział pracowników Fundatora** w akademii piosenki, na tych samych zasadach co pozostali oceniający.
+- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: 60 dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
-**Rozliczenie:** w ciągu 60 dni od ogłoszenia wyników Sponsor otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy, listą wypłaconych nagród i potwierdzeniem przeprowadzenia sesji studyjnych.
+**Rozliczenie:** w ciągu 60 dni od ogłoszenia wyników Fundator otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy, listą wypłaconych nagród i potwierdzeniem przeprowadzenia sesji studyjnych.
 
 ## <!--ikona:zasady--><span>Czego oferta nie obejmuje</span>
 
-**Nazwa Nagrody nie podlega negocjacji.** Nie zmieniamy jej ani nie rozszerzamy o nazwę Sponsora; Nagroda Konstela ma pozostać Nagrodą Konstela w każdej kolejnej edycji, niezależnie od tego, kto ją finansuje. Tytuł Sponsora odnosi się do nagród plebiscytu piosenki, a nie do Nagrody jako całości.
+**Nazwa Nagrody nie podlega negocjacji.** Nie zmieniamy jej ani nie rozszerzamy o nazwę Fundatora; Nagroda Konstela ma pozostać Nagrodą Konstela w każdej kolejnej edycji, niezależnie od tego, kto ją finansuje. Tytuł Fundatora odnosi się do nagród plebiscytu piosenki, a nie do Nagrody jako całości.
 
-Sponsor nie ma wpływu na wybór laureatów, skład jury i akademii ani treść werdyktu. Nie otrzymuje dostępu do wyników przed galą ani wglądu w zgłoszenia poza tym, co widzi każdy w Słuchalni.
+Fundator nie ma wpływu na wybór laureatów, skład jury i akademii ani treść werdyktu. Nie otrzymuje dostępu do wyników przed galą ani wglądu w zgłoszenia poza tym, co widzi każdy w Słuchalni.
 
-Sponsor nie nabywa praw do zgłoszonych utworów ani do nagrań studyjnych. **Tekst, muzyka i nagranie zostają własnością autora**; organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: prezentacja w Słuchalni i Archiwum, wykonanie na gali oraz utrwalenie gali na wideo i bezpłatne udostępnienie zapisu.
+Fundator nie nabywa praw do zgłoszonych utworów ani do nagrań studyjnych. **Tekst, muzyka i nagranie zostają własnością autora**; organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: prezentacja w Słuchalni i Archiwum, wykonanie na gali oraz utrwalenie gali na wideo i bezpłatne udostępnienie zapisu.
 
 Rola nie obejmuje:
 
@@ -216,32 +216,32 @@ Rola nie obejmuje:
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty 4 plebiscytów, czołowa trójka plebiscytu piosenki wykonuje nagrodzone utwory na żywo, hymn otwiera i zamyka wieczór</small></dd></div>
 <div><dt>Po gali</dt><dd>Nagrania studyjne 10 finalistów<small>rozliczane po sesjach; prawa do nagrań przechodzą na autorów</small></dd></div>
-<div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Sponsora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>
+<div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>
 </dl>
 
 ## <!--ikona:zespol--><span>Kto odpowiada</span>
 
 **Przedsięwzięcie prowadzi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).
 
-Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Sponsor składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
+Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Fundator składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
 
-**Kto wykonuje prace, za które Sponsor płaci.** Pozycję „praca organizatora", czyli 165 godzin, wykonuje **jednoosobowa działalność gospodarcza Organizatora**, to znaczy ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to **transakcja z podmiotem powiązanym** i Sponsor ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
+**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 165 godzin, wykonuje **jednoosobowa działalność gospodarcza Organizatora**, to znaczy ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to **transakcja z podmiotem powiązanym** i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
 
 - Umowę z tą działalnością zawiera **Rada Fundacji**, bo statut powierza jej umowy z członkami Zarządu i nie może w niej zasiadać żaden członek Zarządu.
-- Rada przyjmuje też raporty etapów i zatwierdza rozliczenie godzin. **Sponsor może wskazać osobę, która otrzymuje te raporty.**
+- Rada przyjmuje też raporty etapów i zatwierdza rozliczenie godzin. **Fundator może wskazać osobę, która otrzymuje te raporty.**
 - Statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
 - Pozycje zewnętrzne - studio nagraniowe, produkcja hymnu i teledysku, medal i dyplomy, honoraria jury, obsługa prawna - wchodzą do budżetu **w kwotach z faktur dostawców, bez narzutu**.
 
-## <!--ikona:dokument--><span>Co Sponsor dostaje przed jakimkolwiek zobowiązaniem</span>
+## <!--ikona:dokument--><span>Co Fundator dostaje przed jakimkolwiek zobowiązaniem</span>
 
-Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Przed umową przedwstępną, czyli zanim Sponsor cokolwiek podpisze i zanim weźmie na siebie jakiekolwiek zobowiązanie, przygotowujemy 4 dokumenty:
+Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Przed umową przedwstępną, czyli zanim Fundator cokolwiek podpisze i zanim weźmie na siebie jakiekolwiek zobowiązanie, przygotowujemy 4 dokumenty:
 
 1. **Projekt umowy właściwej** w ostatecznym brzmieniu, wraz z zapisami o etapach, odbiorze, zwrocie kwoty niewykorzystanej i zakończeniu bez otwarcia naboru.
 2. **Zakres sesji studyjnej** w brzmieniu, w jakim zostanie ogłoszony uczestnikom: studio, liczba sesji i poprawek, przekazywane materiały, kto zatwierdza aranżację, zasady pokrywania dojazdu.
 3. **Kalkulacja kosztów hymnu i teledysku** wraz z ofertami wykonawców, bo to pojedyncza pozycja o największej wartości spośród pozycji wycenionych.
 4. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 
-Wszystkie 4 przygotowujemy na prośbę, bez zobowiązania po stronie Sponsora i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, zakres sesji i kalkulacja stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Sponsor jeszcze nie widział.
+Wszystkie 4 przygotowujemy na prośbę, bez zobowiązania po stronie Fundatora i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, zakres sesji i kalkulacja stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Fundator jeszcze nie widział.
 
 Dokumenty, o które może zapytać dział prawny, są jawne:
 
@@ -256,7 +256,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Sponsor nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 268 160 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 268 160 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 176 032 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>

@@ -39,17 +39,17 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 <div class="kafle">
 <article>
-<h3>Sponsor nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją</h3>
+<h3>Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją</h3>
 <p>Nagrody dla laureatów i honoraria jury.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja">Czytaj więcej</a></p>
 </article>
 <article>
-<h3>Sponsor nagród w plebiscycie na film o sztucznej inteligencji</h3>
+<h3>Fundator nagród w plebiscycie na film o sztucznej inteligencji</h3>
 <p>Nagrody dla laureatów, honoraria jury, Projektornia i zwiastuny finałowej piątki na gali.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
-<h3>Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji</h3>
+<h3>Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji</h3>
 <p>Nagrody dla laureatów, honoraria jury, sesje studyjne dziesiątki finalistów i hymn z teledyskiem.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
