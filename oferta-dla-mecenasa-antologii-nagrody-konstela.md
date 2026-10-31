@@ -7,14 +7,13 @@
 **Szukamy jednego partnera, który sfinansuje to, co zostaje po edycji Nagrody Konstela:**
 
 - **antologię** - bezpłatny e-book, treść wydania książkowego i audiobook;
-- **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją;
-- **podcast towarzyszący** Nagrodzie.
+- **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją.
 
-**Kosztuje to 147 862 zł netto** (181 870,26 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 128 940,90 zł netto** (158 597,31 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **[Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** finansuje pulę nagród i pracę jury, **sponsor akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie, Archiwum i podcast. Partnerów jest w sumie siedmiu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **[Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** finansuje pulę nagród i pracę jury, **sponsor akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie i Archiwum. Partnerów jest w sumie dziewięciu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -121,7 +120,7 @@ Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgło
 - rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji;
 - odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty mają być przekazywane nieodpłatnie mediom i instytucjom edukacyjnym; zabezpieczą to umowy z prowadzącym i z gośćmi. Nie przedstawiamy tego jako stanu dokonanego, bo prowadzący nie jest jeszcze wybrany.
 
-Przy podcaście mówimy od razu, czego kwota z tej oferty nie obejmuje. Mieści się w niej **koordynacja podcastu** - pozyskiwanie gości, terminy i publikacja, 72 godziny pracy - natomiast **produkcja odcinków nie jest jeszcze wyceniona**. Zależy od decyzji o formacie: sam dźwięk czy także wersja wideo, studio czy nagrania zdalne, wysokość honorarium prowadzącego. W kosztorysie poniżej pozycja ta figuruje jako „do wyceny" i zostanie policzona po ustaleniu formatu, a kwota wymaga wtedy osobnego uzgodnienia. Wolimy powiedzieć to wprost, niż wpisać liczbę wziętą z sufitu.
+**Podcast ma od 31 października 2026 własny budżet i własną rolę** - [Sponsora podcastu](/oferta-dla-sponsora-podcastu) - i nie jest finansowany z tej oferty. Wcześniej jego koordynacja stała w tym kosztorysie, a sam podcast był jednocześnie obiecywany w osobnej ofercie, czyli jeden partner płaciłby za rzecz sprzedawaną drugiemu. Opisujemy go tutaj nadal, bo powstaje przy tej samej edycji i korzysta z tego samego materiału, ale kwota z tej strony go nie obejmuje.
 
 Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokazuje przegląd opracowań opisany wyżej - nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
@@ -139,15 +138,14 @@ Mówimy wprost, co jest zrobione, a co jeszcze nie - bo mecenat obejmuje pierwsz
 
 - **Mechanizm publikowania Archiwum** na stronie, z przeglądaniem według daty, tytułu, podpisu i ocen.
 - **Redakcja i skład antologii** oraz jej wydanie dźwiękowe - praca zaczyna się po werdykcie jury, w styczniu 2028.
-- **Koordynacja podcastu** przez cały rok naboru.
 
 **Przed nami, poza tą rolą, ale przed otwarciem naboru:** powołanie fundacji, konsultacja prawna regulaminu, trzy narzędzia obsługujące wszystkie plebiscyty i przebudowa strony. Należą do roli Mecenasa Założycielskiego i mają własny budżet; opisujemy je tutaj, bo bez nich nabór się nie otworzy, a bez naboru nie ma antologii.
 
-Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu i mechanizm Archiwum od razu po podpisaniu umowy, produkcja wydania dopiero po werdykcie jury.
+Pozycje z tej oferty uruchamiają się w dwóch momentach: mechanizm Archiwum od razu po podpisaniu umowy, produkcja wydania dopiero po werdykcie jury.
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**147 862 zł netto** (181 870,26 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-antologii), który jest jawny i dostępny bez żadnych warunków.
+**128 940,90 zł netto** (158 597,31 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -156,16 +154,15 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu 
 | Skład i przygotowanie do druku (DTP)                              |       3 000 zł |
 | Krótki nakład antologii na galę (100 egz.)                        |       4 000 zł |
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
-| Produkcja podcastu wraz z honorarium prowadzącego (24 odcinki)    |       do wyceny |
 | Produkcja audiobooka antologii: trzej lektorzy, studio, montaż dialogowy |      40 000 zł |
-| **Koszty bezpośrednie razem**                                     |  **91 000 zł** |
+| Narzędzia AI i licencje - udział tego budżetu                     |       1 519 zł |
+| **Koszty bezpośrednie razem**                                     |  **92 519 zł** |
 | Redakcja i skład treści antologii, rozstrzyganie zgłoszeń oznaczonych przez oceniających (95 godz.) |      20 900 zł |
-| Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
-| Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |       7 348 zł |
-| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |      12 774 zł |
-| **Razem netto**                                                   | **147 862 zł** |
-| VAT 23%                                                           |   34 008,26 zł |
-| **Do zapłaty brutto**                                             | **181 870,26 zł** |
+| Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |       4 180 zł |
+| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   11 341,90 zł |
+| **Razem netto**                                                   | **128 940,90 zł** |
+| VAT 23%                                                           |   29 656,41 zł |
+| **Do zapłaty brutto**                                             | **158 597,31 zł** |
 
 **W tej tabeli nie ma kosztów wspólnych całego przedsięwzięcia.** Powołanie fundacji i jej obsługa, konsultacja prawna, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty mają osobny budżet i osobną rolę - **Mecenasa Założycielskiego**. Wydzieliliśmy je, bo obciążanie nimi mecenasa antologii znaczyło, że jeden partner finansuje infrastrukturę, z której korzystają wszyscy pozostali, i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona.
 
@@ -173,7 +170,6 @@ Tu zostaje wyłącznie to, co jest produktem tej roli:
 
 - redakcja i skład antologii;
 - jej wydanie dźwiękowe;
-- koordynacja podcastu;
 - mechanizm publikowania Archiwum, bez którego Archiwum nie powstanie.
 
 Pozycja oprogramowania obejmuje jedno narzędzie: mechanizm publikowania Archiwum na stronie, z przeglądaniem według daty, tytułu, podpisu i ocen. Trzy pozostałe - skraper sporządzający kopię archiwalną zgłoszenia, narzędzie do weryfikacji formalnej i panel pracy dla akademii i jury - obsługują wszystkie cztery plebiscyty i należą do Budżetu Uruchomienia. Nadanie ISBN jest bezpłatne; pozycja została wymieniona, żeby lista była pełna.
@@ -187,12 +183,10 @@ Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 
 **Płatność etapami, każdy etap po odbiorze.** Mecenas nie przelewa całości przy podpisaniu umowy. Kwota dzieli się na transze wymagalne po przedstawieniu rezultatu, który da się sprawdzić, a **każda z nich równa się kwotom z tabeli za to, co w danym etapie zostaje odebrane**:
 
-1. **Mechanizm Archiwum** - 11 000 zł netto, po udostępnieniu publicznego Archiwum na stronie.
-2. **Koordynacja podcastu** - 15 840 zł netto, w dwóch częściach po 7 920 zł: po dwunastym i po dwudziestym czwartym odcinku.
-3. **Redakcja i skład** - 67 900 zł netto, po przyjęciu złożonego tomu i premierze bezpłatnego e-booka; składają się na to koordynator wydania, redakcja, korekta i skład.
-4. **Krótki nakład na galę** - 4 000 zł netto, po dostarczeniu egzemplarzy; pozycja warunkowa, odpada, jeżeli wydawca dostarczy książkę na premierę.
-5. **Audiobook** - 40 000 zł netto, po odbiorze gotowego nagrania.
-6. **Rozliczenie końcowe** - 23 422 zł netto, obejmujące wynagrodzenie wykonawcy i rezerwę, po przyjęciu sprawozdania.
+1. **Redakcja i skład** - 67 900 zł netto, po przyjęciu złożonego tomu i premierze bezpłatnego e-booka; składają się na to koordynator wydania, redakcja, korekta i skład.
+2. **Krótki nakład na galę** - 4 000 zł netto, po dostarczeniu egzemplarzy; pozycja warunkowa, odpada, jeżeli wydawca dostarczy książkę na premierę.
+3. **Audiobook** - 40 000 zł netto, po odbiorze gotowego nagrania.
+4. **Rozliczenie końcowe** - 17 040,90 zł netto, obejmujące wynagrodzenie wykonawcy, udział w kosztach narzędzi i rezerwę, po przyjęciu sprawozdania.
 
 Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Jeżeli edycja zostaje przerwana, Mecenas zapłacił dotąd wyłącznie za to, co istnieje.
 
@@ -294,7 +288,7 @@ Do gali poszukiwany jest partner medialny, w pierwszej kolejności nadawca telew
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru.
 
-**Kto wykonuje prace, za które Mecenas płaci.** Redakcję i skład treści antologii, koordynację podcastu oraz mechanizm publikowania Archiwum wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
+**Kto wykonuje prace, za które Mecenas płaci.** Redakcję i skład treści antologii oraz mechanizm publikowania Archiwum wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
 
 Umowę z tą działalnością zawiera nie Organizator sam ze sobą: statut powierza umowy z członkami Zarządu **Radzie Fundacji**, organowi, w którym nie może zasiadać żaden członek Zarządu, i to Rada przyjmuje protokół odbioru każdego etapu oraz zatwierdza rozliczenie godzin. Mecenas może wskazać osobę, która uczestniczy w odbiorze i otrzymuje protokoły.
 
@@ -316,13 +310,13 @@ Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu c
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 580 289,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 309 096 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 289 816 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 199 888 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 597 342,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 324 636 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 303 342,24 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 213 950,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 167 530 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 87 808 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 139 894,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 773,28 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 

@@ -13,7 +13,7 @@ Przeczytaj ją w całości. Możesz zajrzeć do stron, do których odsyła, w ty
 Odpowiedz na pytania, w tej kolejności:
 
 1. Czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzję.
-2. Oferta podaje 87 808 zł netto za pozycje wycenione i wprost mówi, że dwie pozycje czekają na wycenę: oprawa artystyczna i tantiemy. Czy taka konstrukcja jest dla Ciebie do przyjęcia, czy wymagasz kwoty zamkniętej? Ile w Twojej praktyce wynosi w takim wydarzeniu oprawa artystyczna?
+2. Oferta podaje 52 773,28 zł netto za pozycje wycenione i wprost mówi, że dwie pozycje czekają na wycenę: oprawa artystyczna i tantiemy. Czy taka konstrukcja jest dla Ciebie do przyjęcia, czy wymagasz kwoty zamkniętej? Ile w Twojej praktyce wynosi w takim wydarzeniu oprawa artystyczna?
 3. Największą pozycją są przejazdy i noclegi czterdziestu finalistów za 32 000 zł. Czy to jest koszt, który sponsor gali powinien ponosić, czy raczej należy do budżetów plebiscytów? Oceń uzasadnienie podane w ofercie.
 4. Prowadzenie gali wycenione jest na 8 000 zł, a rejestracja wideo z czterema krótkimi materiałami na 15 000 zł. Czy te kwoty są realne w Polsce w 2028 roku? Co byś w nich zmienił?
 5. Gala obejmuje werdykty czterech plebiscytów, występy i blok zwiastunów filmowych. Czy to jest wieczór, który chcesz mieć pod swoją nazwą? Co zrobisz, jeżeli trwa trzy godziny i nikt z nazwisk nie przyjdzie?

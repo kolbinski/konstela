@@ -160,6 +160,22 @@ Do tego dwa szkice umów opisanych w ofercie: **umowa przedwstępna z zadatkiem*
   - **Ośrodek Rozwoju Edukacji** dopiero w drugim kroku, już z tymi listami w ręku: prośba brzmi wtedy „dwie instytucje w województwie już to potwierdziły, czy ORE widzi w tym materiał ogólnopolski". ORE podlega Ministerstwu Edukacji, do którego pismo poszło 23.10 - wspomnieć o nim, żeby nie wyglądało na obchodzenie resortu bokiem.
   - Krajowego kuratorium nie ma; kuratoria są wojewódzkie i wypowiadają się wyłącznie za swój teren.
 
+## Trzy kolejne rozdzielenia: podcast, przejazdy, narzędzia (31.10.2026)
+
+Ten sam test co przy ścianach i Akademii, zastosowany do pozostałych budżetów: czy rezygnacja jednego partnera zabiera coś, co obiecał ktoś inny. Oblały go trzy pozycje.
+
+**Podcast dostał własny budżet.** Koordynacja, 72 godziny, stała w Budżecie Antologii, a sam podcast był równocześnie sprzedawany w osobnej ofercie dla sponsora podcastu - czyli jeden partner finansowałby rzecz obiecaną drugiemu. Nowa zakładka Budżet Podcastu: 21 858,10 zł netto za koordynację wraz z udziałem w narzędziach; produkcja i honorarium prowadzącego nadal bez ceny. Antologia spadła o 18 921,10 zł i przestała obiecywać podcast.
+
+**Przejazdy finalistów wyszły z gali do plebiscytów**, po 8 000 zł na plebiscyt. Powód: ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich będzie. Gala spadła z 87 808 do 52 773,28 zł, czyli o 40%, i jest dziś ofertą o wyraźnie mniejszym progu wejścia.
+
+**Roczny koszt narzędzi AI (30 000 zł) rozdzielony między osiem budżetów** proporcjonalnie do pracy organizatora w każdym z nich: rozmowa 7 226, film 5 875, plakat 4 556, piosenka 4 077, antologia 1 519, podcast 1 151, gala 719, uruchomienie 4 877 wraz z resztą z zaokrągleń. Uruchomienie spadło ze 167 530 do 139 894,70 zł - oferta założycielska staniała o 27 635,30 zł, czyli mniej więcej tyle, ile szacowałem, gdy ta pozycja była jeszcze na liście otwartych.
+
+Nowe kwoty: rozmowa **597 342,88**, piosenka **303 342,24**, plakat **213 950,72**, film **324 636**, Akademia **160 160**, antologia **128 940,90**, gala **52 773,28**, uruchomienie **139 894,70**, podcast **21 858,10**. Razem **1 942 898,82 zł**, czyli o 449,06 zł więcej niż przed zmianą - różnica bierze się stąd, że udziały w narzędziach przeszły z budżetu o rezerwie 10% do budżetów o rezerwie 12%.
+
+W zakresie pytania do MKiDN: **863 787,06 zł** (233 659,06 na 2027 i 630 128 na 2028) wobec 798 800 zł wcześniej. Wzrost nie jest nowym kosztem: do zakresu weszły przejazdy finalistów trzech plebiscytów artystycznych, ich udziały w narzędziach i koordynacja podcastu - pozycje, które wcześniej stały w budżetach oznaczonych jako poza pytaniem.
+
+**Czego nie rozdzieliłem i dlaczego.** Panel oceny wyglądał na kandydata, ale nim nie jest: to jedno narzędzie budowane raz, a nie cztery ściany, i przy jednym plebiscycie kosztowałoby prawie tyle samo, co przy czterech. Klucz dawałby liczbę wyglądającą na dokładną i nic nieznaczącą. Zostaje w Uruchomieniu razem z fundacją, znakiem towarowym, konsultacją prawną i hostingiem - z wyboru, nie przez przeoczenie, i to zdanie weszło do oferty założycielskiej.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
@@ -176,5 +192,4 @@ Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wsz
 - **Liczby o zasięgu w ofercie** - prognoza pobrań, nakład, liczba instytucji, do których materiał trafi. Dziś nie ma żadnej, więc sponsor nie ma czym podzielić kwoty i policzyć kosztu dotarcia.
 - **Wzór umowy sponsorskiej** jako załącznik do oferty. Skraca cykl decyzyjny po stronie działu prawnego; wycena do zapytania przy okazji konsultacji prawnej.
 - **Harmonogram produkcji antologii tydzień po tygodniu**, od 15 stycznia do zamknięcia treści. Do rozstrzygnięcia, czy zamknięcie zostaje 29 lutego, czy przesuwa się na połowę marca wraz z galą na maj. Rachunek i argumenty w `koncepcja.md`.
-- **Rozdzielenie kosztu narzędzi AI** (dziś cała pozycja 30 tys. zł siedzi w Budżecie Uruchomienia, czyli w ofercie dla Mecenasa Założycielskiego) między siedem budżetów proporcjonalnie do godzin. Wymaga przebudowy arkusza, bo wiersze „Razem koszty twarde" są scalone przez sześć kolumn i zapis do kolumny D przepada bez błędu. Obniżyłoby ofertę o około 27 tys. zł.
 - **Dystrybucja audiobooka** poza stroną Nagrody. Decyzja przy produkcji, nie teraz: bezpłatne nagranie na Spotify, YouTube i w katalogach podcastowych daje zasięg bez sprzeczności z obietnicą bezpłatności; Legimi dla bibliotek to osobny kanał niż Legimi konsumenckie. Płatne platformy abonamentowe tej obietnicy nie udźwigną.

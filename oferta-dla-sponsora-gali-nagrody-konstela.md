@@ -4,9 +4,9 @@
 
 ## <!--ikona:puchar--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który weźmie na siebie galę rozstrzygnięcia pierwszej edycji - wieczór, na którym ogłaszane są werdykty wszystkich czterech plebiscytów.** Kwota pozycji wycenionych wynosi **87 808 zł netto**.
+**Szukamy partnera, który weźmie na siebie galę rozstrzygnięcia pierwszej edycji - wieczór, na którym ogłaszane są werdykty wszystkich czterech plebiscytów.** Kwota pozycji wycenionych wynosi **52 773,28 zł netto**.
 
-Zastrzeżenie piszemy od razu, bo inaczej liczba byłaby nieuczciwa: **87 808 zł nie jest pełnym kosztem gali.** Dwie pozycje czekają na wycenę - oprawa artystyczna oraz tantiemy dla organizacji zbiorowego zarządzania - i kwota podniesie się, gdy miejsce gali zostanie wybrane, a repertuar wieczoru będzie znany. Nie chcemy pokazywać niskiej liczby i dopisywać reszty po podpisaniu umowy, więc mówimy wprost, czego jeszcze nie policzyliśmy i dlaczego.
+Zastrzeżenie piszemy od razu, bo inaczej liczba byłaby nieuczciwa: **52 773,28 zł nie jest pełnym kosztem gali.** Dwie pozycje czekają na wycenę - oprawa artystyczna oraz tantiemy dla organizacji zbiorowego zarządzania - i kwota podniesie się, gdy miejsce gali zostanie wybrane, a repertuar wieczoru będzie znany. Nie chcemy pokazywać niskiej liczby i dopisywać reszty po podpisaniu umowy, więc mówimy wprost, czego jeszcze nie policzyliśmy i dlaczego.
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Sponsor gali** - rola opisana na tej stronie - finansuje wieczór rozstrzygnięcia. [Fundator nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę i pracę jury, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje, a [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
@@ -30,7 +30,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 **Gala jest wspólna dla wszystkich czterech plebiscytów.** To daje tej roli dwie cechy, których nie ma żadna inna:
 
 - **Jeden partner jest widoczny przy czterech werdyktach naraz** - przy rozmowie, filmie, piosence i plakacie. Partner, który finansuje nagrody w jednym plebiscycie, jest widoczny przy jednym z nich.
-- **Kwota wejścia jest najniższa ze wszystkich rół** w pierwszej edycji. Pozostałe mieszczą się w przedziale od 147 862 zł do 580 289,76 zł netto.
+- **Kwota wejścia jest najniższa ze wszystkich rół** w pierwszej edycji. Pozostałe mieszczą się w przedziale od 128 940,90 zł do 597 342,88 zł netto.
 
 Jest to także **jedyny moment, w którym całe przedsięwzięcie dzieje się w jednym miejscu i o jednej porze**. Przez piętnaście miesięcy Nagroda jest rozproszona: zgłoszenia przychodzą zdalnie, akademia czyta u siebie, jury obraduje osobno. Na jeden wieczór w kwietniu 2028 roku laureaci, jurorzy, finaliści czterech dziedzin, media i partnerzy są w jednej sali.
 
@@ -48,7 +48,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**87 808 zł netto** (108 003,84 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**52 773,28 zł netto** (64 911,13 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |            Netto |
 | ------------------------------------------------------------ | ---------------: |
@@ -56,16 +56,18 @@ Program jednego wieczoru, liczony na około dwie godziny:
 | Sala, obsługa i poczęstunek                                  |       8 000 zł |
 | Fotograf na gali                                             |       1 500 zł |
 | Przejazdy i noclegi jury                                     |       4 000 zł |
-| Przejazdy i noclegi finalistów czterech plebiscytów na galę  |      32 000 zł |
 | Rejestracja wideo i bezpłatne udostępnienie zapisu           |      15 000 zł |
 | Prowadzenie gali                                             |       8 000 zł |
-| **Razem koszty twarde**                                      |  **68 500 zł** |
-| Rezerwa na przekroczenia (12% od pracy i kosztów)            |       9 408 zł |
-| **Razem netto**                                              |  **87 808 zł** |
-| VAT 23%                                                      |    20 195,84 zł |
-| **Do zapłaty brutto**                                        | **108 003,84 zł** |
+| Narzędzia AI i licencje - udział tego budżetu                |         719 zł |
+| **Razem koszty twarde**                                      |  **37 219 zł** |
+| Rezerwa na przekroczenia (12% od pracy i kosztów)            |    5 654,28 zł |
+| **Razem netto**                                              |  **52 773,28 zł** |
+| VAT 23%                                                      |    12 137,85 zł |
+| **Do zapłaty brutto**                                        | **64 911,13 zł** |
 
-**Przejazdy finalistów obejmują wszystkie cztery plebiscyty.** Na galę przyjeżdża czterdziestu finalistów, po dziesięciu z każdego plebiscytu, i to ta oferta finansuje ich przejazd oraz nocleg - nie budżety poszczególnych plebiscytów. Jeden partner, jeden przewoźnik, jedno rozliczenie. W kosztorysach plebiscytów pozycja ta figuruje z kwotą zero wraz z odesłaniem tutaj, żeby nikt nie policzył jej dwa razy.
+**Przejazdy finalistów nie obciążają tej oferty.** Na galę przyjeżdża czterdziestu finalistów, po dziesięciu z każdego plebiscytu, a ich przejazd i nocleg - 8 000 zł na plebiscyt - pokrywa budżet tego plebiscytu, nie sponsor gali. Powód jest prosty: koszt rośnie z liczbą plebiscytów, a Sponsor gali nie decyduje o tym, ile ich się odbędzie. Gdyby doszedł piąty plebiscyt, ta oferta nie zdrożeje; gdyby któryś nie ruszył, nie zostanie w niej kwota bez przeznaczenia. Organizacja przejazdów i tak jest wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.
+
+**Narzędzia AI i licencje wchodzą tu jako udział, nie jako cała pozycja.** Roczny koszt narzędzi obsługuje wszystkie budżety Nagrody i dzieli się między nie proporcjonalnie do pracy organizatora; na galę przypada z tego 719 zł. Cała pozycja i klucz podziału są widoczne w arkuszu.
 
 **Co obejmują prowadzenie gali i rejestracja wideo.** Prowadzenie, 8 000 zł, to honorarium osoby rozpoznawalnej z radia, podcastów albo mediów zajmujących się technologią. Wieczór obejmuje werdykty czterech plebiscytów, występy czołowej trójki plebiscytu na piosenkę i blok zwiastunów filmowych, więc prowadzenie jest tu pracą nad rytmem całości, a nie odczytaniem kopert. Rejestracja, 15 000 zł, to trzy kamery, własny operator dźwięku, montaż całości, trzyminutowy skrót oraz **cztery krótkie materiały, po jednym na każdy plebiscyt** - te ostatnie dlatego, że każdy plebiscyt ma własnego partnera i własną stronę, na której taki materiał zostaje.
 
@@ -209,13 +211,13 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 580 289,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 309 096 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 289 816 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 199 888 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 597 342,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 324 636 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 303 342,24 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 213 950,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 147 862 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 167 530 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 940,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 139 894,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
