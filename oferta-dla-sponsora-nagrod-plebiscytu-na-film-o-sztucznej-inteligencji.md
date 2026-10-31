@@ -279,6 +279,8 @@ Kto tę umowę zawiera i kto odbiera pracę:
 
 Nagrody, medal, dyplomy, honoraria jury i pozycje zewnętrzne wchodzą do budżetu w kwotach z faktur dostawców albo w kwotach wypłaconych laureatom, **bez narzutu**.
 
+**Co, jeżeli jedyny wykonawca będzie dłużej niedostępny.** Pracę z tego kosztorysu wykonuje jedna osoba, więc pytanie o chorobę albo wypadek jest uzasadnione i nie zostawiamy go bez odpowiedzi. Zobowiązanie bierze na siebie fundacja, nie człowiek: jeżeli niedostępność przekroczy trzydzieści dni na którymkolwiek etapie, Rada Fundacji zawiadamia o tym Fundatora w ciągu siedmiu dni i zleca wykonanie pozostałych zadań innemu podmiotowi, w granicach kwot z kosztorysu; różnicę, jeżeli wystąpi, pokrywa rezerwa, a nie dopłata Fundatora. Do przejęcia pracy nie jest potrzebna wiedza, której nie ma na piśmie: regulaminy, karty oceny, kosztorys i terminarz są jawne i opublikowane, a dostępy do domen, poczty, hostingu i magazynu kopii archiwalnych należą do fundacji, nie do osoby prywatnej, i ich kopia zostaje złożona u Rady Fundacji przed otwarciem naboru. Jeżeli i to nie wystarczy, nie udajemy, że umowa działa dalej: świadczenie niewykonane jest świadczeniem niewykonanym, więc Fundator odzyskuje odpowiadającą mu kwotę i może wycofać nazwę na zasadach opisanych wyżej.
+
 **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Fundator składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
 
 ## <!--ikona:dokument--><span>Co Fundator dostaje przed jakimkolwiek zobowiązaniem</span>
