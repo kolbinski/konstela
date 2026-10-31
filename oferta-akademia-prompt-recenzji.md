@@ -14,11 +14,12 @@ Odpowiedz na pytania, w tej kolejności:
 
 1. Czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzję.
 2. Rola polega na finansowaniu pierwszej rundy oceny we wszystkich czterech plebiscytach: honorariów ludzi, którzy czytają rozmowy, oglądają filmy, słuchają piosenek i oglądają plakaty. Czy to jest rola, którą da się opowiedzieć publicznie, czy kupujesz niewidzialny tył sceny? Odpowiedz jako osoba, która musi to uzasadnić zarządowi.
-3. Oferta proponuje finansowanie w części świadczeniem rzeczowym, voucherem za każde sto ocenionych zgłoszeń. Czy ta konstrukcja jest dla Ciebie wygodna, czy kłopotliwa? Co trzeba w niej doprecyzować, żeby przeszła przez Twoją księgowość?
-4. Które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód.
-5. Oferta opiera skalowanie kosztu na liczbie zgłoszeń. Czy widzisz w tym ryzyko dla siebie: co jeżeli zgłoszeń będzie dwa razy więcej, niż zakłada budżet?
-6. Co w tym dokumencie podważa zaufanie. Cytuj zdania.
-7. Co napisałbyś w odpowiedzi, jednym zdaniem.
+3. Rola jest podzielna: kosztorys ma osobny blok na każdy plebiscyt, więc można objąć pierwsze przejście oceny jednej kategorii zamiast wszystkich - rozmowa 51 520 zł, film 108 640 zł, piosenka i plakat bez ceny do czasu ustalenia stawki. Czy ta podzielność jest dla Ciebie zaletą, czy sygnałem, że przedsięwzięcie nie ma domkniętego finansowania? Czy dwie kategorie bez ceny w kosztorysie, który masz podpisać, są do przyjęcia?
+4. Oferta proponuje finansowanie w części świadczeniem rzeczowym, voucherem za każde sto ocenionych zgłoszeń. Czy ta konstrukcja jest dla Ciebie wygodna, czy kłopotliwa? Co trzeba w niej doprecyzować, żeby przeszła przez Twoją księgowość?
+5. Które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód.
+6. Oferta opiera skalowanie kosztu na liczbie zgłoszeń. Czy widzisz w tym ryzyko dla siebie: co jeżeli zgłoszeń będzie dwa razy więcej, niż zakłada budżet?
+7. Co w tym dokumencie podważa zaufanie. Cytuj zdania.
+8. Co napisałbyś w odpowiedzi, jednym zdaniem.
 
 Zasady odpowiedzi. Nie chwal; jeśli coś jest dobre, wystarczy jedno zdanie na końcu. Nie streszczaj dokumentu. Cytuj fragmenty zamiast opisywać wrażenia. Nie proponuj przeredagowania zdań - pisz, co jest nie tak z rzeczą, którą zdanie opisuje. Jeżeli czegoś nie rozumiesz, napisz o tym wprost; niezrozumiałość jest wadą dokumentu, nie Twoją.
 
