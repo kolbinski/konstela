@@ -199,6 +199,21 @@ W obu rolach nie ma przepływu pieniędzy. Przy telewizji trzeba było przy tym 
 
 Stary adres `oferta-dla-partnera-telewizyjnego-lub-streamingowego` usunięty bez przekierowania - żadna oferta nie poszła jeszcze do nikogo, więc nie ma linku, który mógłby się zepsuć. Prompt recenzencki też rozdzielony: telewizyjny pyta o policzenie oddawanego czasu antenowego i o granicę wobec patronatu, streamingowy został przy pytaniach o katalog i brak wyłączności. Kolejka recenzji ma teraz osiemnaście pozycji.
 
+## Górne limity zobowiązania we wszystkich czterech plebiscytach (31.10.2026)
+
+Limity miały dotąd dwie oferty, a po dzisiejszych zmianach kwot obie były za niskie: w rozmowie limit 610 000 zostawiał nad kosztorysem 3 697 zł, w plakacie 225 000 zostawiało 2 089 zł. Teraz limit ma każdy plebiscyt i każdy jest policzony od swoich pozycji bez ceny, powiększonych o rezerwę:
+
+| Plebiscyt | Kosztorys | Limit | Co ma pokryć zapas |
+|---|---:|---:|---|
+| Rozmowa | 606 302,88 | **640 000** | etap przygotowawczy jury, OC organizatora |
+| Film | 333 596 | **430 000** | jury za ocenę 58 000 z kotwic arkusza, etap przygotowawczy, zwiastuny |
+| Piosenka | 312 302,24 | **370 000** | jury za ocenę około 29 000, etap przygotowawczy |
+| Plakat | 222 910,72 | **285 000** | jury 14 500, etap przygotowawczy, bogatsza oprawa wystawy, polisa |
+
+**Realizacja części artystycznej gali stoi poza limitem piosenki** i jest uzgadniana osobnym aneksem. Koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie; limit obejmujący tę pozycję albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. W ofercie dopisane, że Fundator nie musi tej pozycji obejmować.
+
+Przy okazji naprawione trzy rzeczy, które zepsuły dzisiejsze zmiany: oferta rozmowy wymieniała Archiwum wśród rzeczy, których nie obejmuje, choć sama je finansuje, a oferty plakatu i filmu twierdziły, że przyjazd finalistów pokrywa sponsor gali.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
