@@ -111,6 +111,10 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
 - **honoraria jury za przygotowanie karty oceny** przed otwarciem naboru;
 - **ubezpieczenie odpowiedzialności cywilnej organizatora**, którego zakres wskaże konsultacja prawna.
 
+**Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 610 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. 
+
+Limit zostawia nad dzisiejszym kosztorysem niecałe 30 000 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
+
 **Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
 
 **Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Fundator tej roli finansuje więc rzecz, która powstaje i działa niezależnie od tego, ilu innych partnerów uda się pozyskać.
@@ -135,7 +139,13 @@ Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozlicz
 
 Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli w terminie wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Fundatora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
-Budżet policzony jest na sto pięćdziesiąt zgłoszeń i to jest liczba, na którą pracujemy.
+**Trzy różne liczby, które łatwo pomylić.** Mówimy o nich osobno, bo każda znaczy co innego:
+
+1. **Dwanaście zgłoszeń to próg regulaminowy**, poniżej którego edycja nie zostaje rozstrzygnięta. Jest minimum pozwalającym przeprowadzić konkurs, a nie celem.
+2. **Sto pięćdziesiąt zgłoszeń to założenie, na którym policzony jest kosztorys** i liczba, na którą pracujemy. Nie jest prognozą ani obietnicą.
+3. **Postępowanie przy naborze znacznie niższym od założenia** - powiedzmy czterdziestu zgłoszeniach - wygląda tak: pula nagród **nie zostaje obniżona**, bo regulamin na to nie pozwala po otwarciu naboru; pozycje skalowane liczbą zgłoszeń maleją i wracają do Fundatora w rozliczeniu; promocja naboru przesuwa się na kanały, które dowiozły zgłoszenia, a nie na nowe; a Fundator widzi to na bieżąco, bo **czytelnia rośnie publicznie przez cały rok naboru** i liczbę zakwalifikowanych zgłoszeń widać w niej każdego dnia, bez pytania nas o raport.
+
+Czego w takim przypadku nie zrobimy: nie przedłużymy naboru poza termin z regulaminu i nie obniżymy progu, bo oba te ruchy zmieniałyby zasady w trakcie gry wobec ludzi, którzy już się zgłosili.
 
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 
@@ -143,7 +153,15 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 - **wypłatę ogłoszonej puli nagród** wraz z Nagrodą Uczniowską i nagrodami publiczności, bo ogłoszona pula jest przyrzeczeniem publicznym;
 - **przeprowadzenie dwóch rund oceny i ogłoszenie werdyktu** w terminie z regulaminu, wraz z uzasadnieniami jury;
-- **publiczne Archiwum zgłoszeń**, w którym zapis każdej zakwalifikowanej rozmowy pozostaje dostępny.
+- **publiczne Archiwum zgłoszeń**, opisane niżej co do zawartości, terminu i okresu utrzymania.
+
+**Minimalny trwały rezultat, pięć rzeczy wprost.** Nazwa Fundatora stoi przy rzeczy, która ma zostać po edycji, więc mówimy dokładnie, czym ona jest:
+
+1. **Co zawiera.** Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną - nie samą dziesiątkę antologii. Przy każdym: tytuł, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia, kopia archiwalna rozmowy sporządzona przez skraper w chwili zgłoszenia oraz jawna punktacja wszystkich etapów oceny.
+2. **Od kiedy działa.** Czytelnia rośnie publicznie przez cały rok naboru, od jego pierwszego dnia; Archiwum z jawną punktacją otwiera się **w dniu ogłoszenia werdyktu**, czyli w drugiej połowie kwietnia 2028 roku.
+3. **Jak długo je utrzymujemy.** Kopie archiwalne zgłoszeń przechowujemy **pięć lat** w magazynie opłaconym z tej oferty z góry. Po tym okresie o dalszym przechowywaniu rozstrzyga Rada Fundacji i ogłasza to przed jego upływem; samo Archiwum zostaje wtedy co najmniej jako kopia statyczna pod tymi samymi adresami.
+4. **Jak wygląda dostęp.** Bezpłatnie, bez rejestracji i bez konta, z przeglądaniem i sortowaniem według daty, tytułu, podpisu i ocen. Adresy wpisów są trwałe, więc da się do nich odesłać z zewnątrz.
+5. **Jak oznaczony jest Fundator.** Nazwa i znak na stronie Archiwum przez cały okres jego utrzymania, w tej samej postaci co na stronie plebiscytu, a w sprawozdaniu z edycji - zdanie o tym, że Archiwum powstało z tej roli.
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
@@ -168,7 +186,8 @@ Poza tytułem:
 - **Wręczenie nagrody głównej przez przedstawiciela Fundatora** na gali, wraz z wystąpieniem o tym, dlaczego firma postanowiła ufundować nagrodę za rozmowy z AI.
 - **Wymienienie przy każdej wzmiance o puli nagród** w materiałach Organizatora - a pula jest tym, co media cytują najczęściej.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
-- **Udział pracowników Fundatora** w akademii oceniającej, na tych samych zasadach co pozostali czytelnicy, oraz spotkanie zespołu z laureatami.
+- **Udział pracowników Fundatora** w akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
+- **Jedno spotkanie zespołu Fundatora z laureatami** - do dwóch godzin, w siedzibie Fundatora albo zdalnie, w ciągu sześciu miesięcy od ogłoszenia werdyktu, z udziałem laureata i jednego jurora; organizację i koszt przyjazdu pokrywa ta oferta. **Spotkanie nie zależy od gali** i odbywa się także wtedy, gdy gali nie będzie. Jedno zastrzeżenie, bo inaczej obiecywalibyśmy cudzą obecność: udział laureata jest dobrowolny i jeżeli odmówi, proponujemy spotkanie z jurorem oraz z autorem innej rozmowy z dziesiątki.
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
