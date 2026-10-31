@@ -263,6 +263,16 @@ Dwie rzeczy rozstrzygnięte decyzją, nie redakcją:
 
 **Granica czasowa: 30 kwietnia 2029**, rok po planowanym terminie - po niej Sponsor może wypowiedzieć umowę i dostaje rozliczenie pracy wykonanej. Regulamin przesunięcia nie ogranicza, bo chroni uczestników; Sponsor uczestnikiem nie jest. Drugi zapis jest ważniejszy w praktyce: **rozliczenie bloku następuje po zamknięciu pierwszej rundy w tej kategorii, nie po gali** - inaczej przeciążony nabór filmu wstrzymywałby rozliczenie Akademii rozmowy, która swoją pracę skończyła.
 
+## Akademia: stała pula honorariów zamiast stałej stawki (31.10.2026)
+
+Druga tura recenzji trafiła w rzecz, której nie mieliśmy rozstrzygniętej: **przy nieograniczonym naborze i ograniczonym budżecie obietnica, że każde zgłoszenie czyta człowiek, nie bilansuje się z żadnym pułapem sponsora.** Wybrany wariant z trzech: **pula honorariów jest stała, a stawka za jedną ocenę wynika z liczby zgłoszeń** - stawka równa się puli podzielonej przez liczbę ocen, nie mniej niż 100 zł za odczyt rozmowy i 200 zł za obejrzenie filmu. Przy założeniu z kosztorysu daje to dzisiejsze 125 zł i 300 zł.
+
+Gdyby stawka miała spaść poniżej minimum, **zmienia się tryb, a nie stawka**: regulamin przechodzi na odczyt wstępny jednoosobowy z zabezpieczeniami, co zmniejsza liczbę ocen o połowę. Gdyby i to nie wystarczyło - aneks, a bez aneksu przesunięcie terminu i szukanie środków gdzie indziej; przy ich braku edycja nie zostaje rozstrzygnięta. Obietnica wobec uczestników zostaje nienaruszona: nie ograniczamy liczby zgłoszeń i nie pomijamy żadnego, zmienia się liczba ocen na zgłoszenie - ogłaszana z góry.
+
+Pozostałe sześć poprawek: pierwsza transza spadła z 51 500 do **26 500 zł** i opłaca wyłącznie przygotowanie i gotowość, a nie roczne honoraria czytelników; sprawozdanie bloku przychodzi w 60 dni od zamknięcia rundy w tej kategorii i to ono zamyka rozliczenie; vouchery dzielą się proporcjonalnie, z resztą w gotówce zamiast losowania; granica obciążenia czytelnika to dwadzieścia zgłoszeń, a powyżej dochodzi kolejny czytelnik po 2 500 zł; trzy mierniki dostały **progi odbioru etapu** (100% w trybie, 98% kompletnych kart, 100% rozbieżności rozpatrzonych); pierwsza wpłata jest wymagalna dopiero po potwierdzeniu, że koordynacja i panel mają finansowanie.
+
+Dopisane też, czego próba oceniania nie sprawdza: pięć rozmów i trzy osoby nie zweryfikują kilkudziesięcioosobowego grona oceniającego filmy ani przepustowości przy dużym naborze.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
