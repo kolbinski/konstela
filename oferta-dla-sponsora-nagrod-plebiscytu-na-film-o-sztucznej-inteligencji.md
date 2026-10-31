@@ -148,7 +148,7 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 
 **Pula nagród i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. W plebiscycie filmowym ma to wagę większą niż gdziekolwiek indziej, bo uczestnik podejmuje na tej podstawie decyzję o produkcji filmu.
 
-Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów. **Praca organizatora, honoraria zespołu oceniającego uzasadnienia i rezerwa, czyli 74 960 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
+Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów. **Praca organizatora, honoraria zespołu oceniającego uzasadnienia i rezerwa, czyli 76 400 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
 
 1. **Po ogłoszeniu składu jury i akademii oraz uruchomieniu Projektorni.**
 2. **Po zamknięciu naboru oraz zakończeniu weryfikacji formalnej i weryfikacji historii zgłoszonych filmów.**

@@ -125,7 +125,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 
 Pozostałe pozycje rozliczane są po wykonaniu:
 
-- **praca organizatora i rezerwa, czyli 59 400 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
+- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 62 760 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
 - **nagrania studyjne rozliczane są po sesjach**, sesja po sesji, po fakturach studia;
 - **hymn z teledyskiem rozliczany jest po premierze.**
 
