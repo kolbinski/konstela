@@ -43,7 +43,7 @@ Trzy rzeczy dzieją się tylko w tym plebiscycie i tylko w tej ofercie.
 
 **Oryginały prac finałowych jadą na wystawę.** Uczestnik zgłasza zdjęcie albo skan, a oryginał przysyła dopiero wtedy, gdy jury wybierze go do dziesiątki. Prace finalistów wiszą na **wystawie towarzyszącej gali** - oryginały tych, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator, a praca wraca do autora po wystawach. Kto nie chce wysyłać oryginału, nie traci ani nagrody, ani miejsca w werdykcie.
 
-**Wystawa towarzysząca zależy od tego, czy gala się odbędzie.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali - a świadczenia związane wyłącznie z galą, w tym wystawa towarzysząca, nie są wówczas realizowane i nie podlegają zamianie na pieniądze. Piszemy to tutaj, bo wystawa jest jednym z głównych powodów, dla których ta rola ma sens: w takim przypadku odpadają koszty wystawy, transportu i ubezpieczenia, a odpowiadające im kwoty wracają do Mecenasa, ale sam pokaz prac się nie odbywa.
+**Gala może się nie odbyć, ale wystawa odbędzie się tak czy inaczej.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą nie są wówczas realizowane. Wystawę wyjmujemy spod tej zasady w umowie z Mecenasem: **pokaz prac finałowych w postaci gwarantowanej odbywa się także bez gali**, w osobnym terminie do trzech miesięcy po ogłoszeniu wyników, i jest wymieniony niżej wśród świadczeń nienaruszalnych. Bez gali odpada wtedy wyłącznie bogatsza oprawa wieczoru, nie sam pokaz.
 
 **Po gali wystawa w galerii sztuki, jeżeli galerię pozyskamy.** Prace finałowe pokazywane są jeszcze raz, na wystawie otwieranej wernisażem, już z informacją o miejscach przyznanych przez jury. Przy tej wystawie może się odbyć **cicha licytacja**: po odliczeniu zaakceptowanych wcześniej kosztów pozostała kwota dzieli się po połowie między autora i pulę nagród kolejnej edycji tego plebiscytu. Udział w licytacji jest dobrowolny, a decyzję finalista podejmuje po werdykcie, znając cenę minimalną i sposób rozliczenia. **Nie obiecujemy tej wystawy w regulaminie, bo galerii dziś nie mamy** - przestrzeń galerii jest osobną rolą partnerską i nie wchodzi do tej oferty.
 
@@ -74,7 +74,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 | Praca organizatora (195 godz. po 220 zł)                     |      42 900 zł |
 | Honoraria jury plakatu za ocenę                              |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                        |    do ustalenia |
-| Realizacja wystawy przy gali                                 |      do wyceny |
+| Bogatsza oprawa wystawy ponad postać gwarantowaną            |      do wyceny |
 | Obsługa prawna regulaminu plakatu                            |      do wyceny |
 | Dojazd i nocleg finalistów na galę - w budżecie gali          |             0 zł |
 | Polisa obejmująca wycenę prac, przechowywanie i okres po sprzedaży |      do wyceny |
@@ -106,7 +106,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 
 Każdą z nich uzgadniamy osobno, aneksem, po przedstawieniu Mecenasowi oferty dostawcy. **Oferta w tej postaci nie zawiera ich kosztu i nie udajemy, że zawiera.**
 
-**Górny limit zobowiązania.** Żeby otwarte pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 200 000 zł netto**. Powyżej niej Mecenas nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Odmowa podpisania aneksu nie jest więc ryzykiem dla Mecenasa - jest po prostu decyzją, po której Organizator szuka innego rozwiązania.
+**Górny limit zobowiązania.** Żeby otwarte pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 200 000 zł netto**. Powyżej niej Mecenas nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Odmowa podpisania aneksu nie naraża Mecenasa na dopłatę - ale może oznaczać, że przedsięwzięcie zostanie zrealizowane w węższym zakresie, i to jest realne ryzyko, którego nie zamierzamy nazywać inaczej. Chroni przed nim rdzeń świadczeń opisany niżej: ograniczenie nie może go naruszyć, a gdyby naruszyło, Mecenasowi przysługuje prawo wycofania nazwy.
 
 **Dojazd i nocleg finalistów pokrywa [sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)**, a nie ta oferta. Gala jest wspólna dla czterech plebiscytów i przyjeżdża na nią czterdziestu finalistów, więc jeden partner organizuje i rozlicza cały przyjazd. Pozycja zostaje w zestawieniu z kwotą zero, żeby było widać, że koszt istnieje i kto go ponosi.
 
@@ -130,7 +130,7 @@ Każdą z nich uzgadniamy osobno, aneksem, po przedstawieniu Mecenasowi oferty d
 2. po ogłoszeniu dziesiątki finalistów i przyjęciu oryginałów, czyli po fakturach za transport i polisę w pierwszą stronę;
 3. po przyjęciu sprawozdania z rozliczenia edycji, czyli po zwrocie oryginałów autorom i po rozliczeniu licytacji.
 
-Dwie pierwsze transze odpowiadają godzinom faktycznie przepracowanym i wykazanym w raporcie etapu, trzecia obejmuje resztę godzin oraz rezerwę. **Żadna nie jest zapłatą z góry za pracę wykonywaną później.** Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
+**Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe - w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły; zadania skalowane, czyli kontrolę formalną, transport i ubezpieczenie - według rzeczywistej liczby zgłoszeń i przysłanych oryginałów. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz te dwie liczby; nie rozlicza czasu pracy, bo nie czas jest tu przedmiotem zakupu. Godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota. **Żadna transza nie jest zapłatą z góry za pracę wykonywaną później.** Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
@@ -152,7 +152,7 @@ Budżet policzony jest na **150 zgłoszeń plakatów** i to jest liczba, na któ
 
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 
-Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać i jak wypadnie frekwencja, Mecenas otrzymuje:**
+Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Mecenas otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności, bo ogłoszona pula jest przyrzeczeniem publicznym i wiąże Organizatora niezależnie od wszystkiego;
 - **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu;
@@ -161,11 +161,14 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
-**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Mecenasa rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z trzech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Mecenas ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Mecenas otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są trzy:
+**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne, czyli zwrot wszystkiego, co nam powierzono, oraz rozliczenie, a środki przeznaczone na rzeczy, które się nie odbyły, wracają w całości. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
+
+**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Mecenasowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Mecenas ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Mecenas otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
 1. **gala się nie odbywa** i wystawa odbywa się w postaci gwarantowanej zamiast przy gali;
 2. **antologia nie powstaje**, więc zwycięski plakat nie trafia na okładkę;
-3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane.
+3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
+4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
 
 Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 
@@ -251,7 +254,7 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 **Kto wykonuje prace, za które Mecenas płaci.** Pozycję „praca organizatora", czyli 195 godzin po 220 zł, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
 
-**Kto tę umowę zawiera i kto odbiera pracę.** Nie Organizator sam ze sobą. Statut powierza umowy z członkami Zarządu **Radzie Fundacji** - organowi, w którym nie może zasiadać żaden członek Zarządu. To Rada podejmuje uchwałę o zawarciu umowy z działalnością Organizatora, Rada przyjmuje raporty etapów i Rada zatwierdza rozliczenie godzin. **Mecenas może wskazać osobę, która otrzymuje te raporty.** Godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
+**Kto tę umowę zawiera i kto odbiera pracę.** Nie Organizator sam ze sobą. Statut powierza umowy z członkami Zarządu **Radzie Fundacji** - organowi, w którym nie może zasiadać żaden członek Zarządu. To Rada podejmuje uchwałę o zawarciu umowy z działalnością Organizatora, Rada przyjmuje raporty etapów i Rada zatwierdza wykonanie zadań wraz z liczbami, od których zależą pozycje skalowane. **Mecenas może wskazać osobę, która otrzymuje te raporty.** Wykonanie rozliczane jest etapami w sprawozdaniu, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
 
 **Transport i ubezpieczenie wchodzą do budżetu w kwotach z faktur dostawców, bez narzutu.** Dotyczy to także medalu, dyplomów oraz pozycji, które dziś czekają na wycenę. Organizator nie dolicza do nich marży i nie zarabia na ich pośrednictwie.
 

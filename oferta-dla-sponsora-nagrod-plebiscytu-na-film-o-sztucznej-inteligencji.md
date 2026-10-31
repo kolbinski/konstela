@@ -166,7 +166,7 @@ Budżet policzony jest na 40 zgłoszeń i to jest liczba, na którą pracujemy.
 
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 
-Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać i jak wypadnie frekwencja, Sponsor otrzymuje:**
+Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Sponsor otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
 - **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu;
@@ -174,11 +174,14 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
-**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Sponsora rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z trzech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Sponsor ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Sponsor otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są trzy:
+**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne, czyli zwrot wszystkiego, co nam powierzono, oraz rozliczenie, a środki przeznaczone na rzeczy, które się nie odbyły, wracają w całości. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
+
+**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Sponsorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Sponsor ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Sponsor otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
 1. **gala się nie odbywa** i zwiastuny finałowej piątki nie zostają pokazane publiczności;
 2. **zestaw dziesiątki nie trafia do żadnego dystrybutora** mimo przeprowadzonych rozmów;
-3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane.
+3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
+4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
 
 Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 
