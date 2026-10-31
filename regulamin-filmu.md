@@ -422,7 +422,15 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    c) wykorzystanie zwiastuna oraz miniatury w materiałach informacyjnych o Nagrodzie, w tym w mediach – **na pięć lat** od dnia gali;
 
-   d) przy filmach finałowych: pokaz kinowy, o którym mowa w § 10 ust. 4 – **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa.
+   d) przy filmach finałowych: pokaz kinowy, o którym mowa w § 10 ust. 4 – **za odrębną zgodą Uczestnika**, bez której pokaz się nie odbywa;
+
+   e) **publikacja filmu z kopii archiwalnej na kanale Nagrody** – **za odrębną zgodą Uczestnika**, odwoływalną w każdym czasie ze skutkiem usunięcia publikacji w ciągu 14 dni. Publikacja zawiera oznaczenie autorstwa oraz link do kanału Uczestnika, a Organizator **nie włącza zarabiania** na tak opublikowanych filmach; nie ma natomiast wpływu na reklamy wstawiane przez serwis z własnej inicjatywy i mówi o tym wprost przed odebraniem zgody.
+
+2c. **Zgody z ust. 2 lit. d i e nie są warunkiem udziału.** Ich brak nie wpływa na ocenę zgłoszenia, na nagrodę ani na miejsce w werdykcie, a Organizator nie zwraca się o nie powtórnie po odmowie w tej samej edycji.
+
+2d. **Gdy film przestaje być dostępny u Uczestnika.** Jeżeli po ogłoszeniu werdyktu film staje się niedostępny pod wskazanym linkiem, Organizator zwraca się do Uczestnika – a w razie jego śmierci do osób uprawnionych – o zgodę z ust. 2 lit. e, wskazując, że dysponuje kopią archiwalną. **Bez tej zgody Organizator filmu nie publikuje**; wpis w Archiwum pozostaje wówczas bez działającego linku i jest tak oznaczony.
+
+2e. **Playlista Archiwum.** Organizator prowadzi w serwisie, w którym publikują Uczestnicy, playlistę zbierającą filmy **z kanałów Uczestników**, aby Archiwum dało się przeglądać w jednym miejscu. Playlista odsyła do materiałów Uczestników i nie jest publikacją kopii Organizatora; usunięcie filmu przez Uczestnika usuwa go z playlisty.
 
 2b. **Zapis wideo gali po upływie pięciu lat.** Zapis gali udostępniany jest bezterminowo, natomiast licencja na zwiastun w tym zapisie trwa pięć lat (ust. 2 lit. b). Przed upływem tego okresu Organizator **zwraca się do Uczestnika o przedłużenie uprawnienia**, a w razie jego braku **usuwa fragment zawierający zwiastun z publicznie dostępnego zapisu** albo wyłącza zapis z publicznego udostępniania. Ten sam tryb stosuje się do materiałów informacyjnych z ust. 2 lit. c.
 

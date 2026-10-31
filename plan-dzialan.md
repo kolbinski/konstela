@@ -39,6 +39,12 @@ Recenzja zapisana w `recenzje/2026-10-31-oferta-film-oczami-firmy-medialnej.md`.
 
 **Pytanie większe niż ta oferta: kto płaci warstwę oceniającą.** Budżet Akademii finansuje pierwsze przejście oceny we wszystkich kategoriach, jury jest drugim przejściem i nie ma właściciela w żadnej z czterech ról. Najbardziej spójne wyjście to rozszerzenie roli sponsora Akademii na całą warstwę oceny w czterech plebiscytach, zamiast rozsypywania honorariów po czterech ofertach. Decyzja wielkości tamtej oferty, do podjęcia po rozpoznaniu filmowym i przed rozmową ze sponsorem Akademii.
 
+## Publikacja filmów na naszym kanale: zgoda, nie warunek (31.10.2026)
+
+Rozważany był warunek zgłoszenia pozwalający fundacji wgrywać zakwalifikowane filmy na własny kanał, z argumentem o koszcie emisji przy dużej oglądalności. Odrzucony, bo tego kosztu nie ponosimy: kopia archiwalna jest ciemna, a publiczne odtwarzanie zostaje na kanale autora. Powody przeciw: nieodpłatna licencja na komercyjne pole eksploatacji postawiona jako warunek udziału w konkursie dla konsumentów jest wprost abuzywna i kłóci się z obietnicą z oferty, że prawa i wpływy zostają przy autorze; duplikat dzieli wyświetlenia i psuje status premiery u ludzi, dla których kanał jest kapitałem zawodowym; muzyka licencjonowana autorowi na jego kanał rodzi przy naszym uploadzie roszczenia Content ID, a ostrzeżenia spadają na kanał, na którym stoi całe Archiwum.
+
+Wprowadzone zamiast tego, w regulaminie filmu: litera e w § 12 ust. 2 (publikacja z kopii za odrębną, odwoływalną zgodą, z oznaczeniem autorstwa, linkiem do kanału autora i bez włączania zarabiania), ust. 2c (zgody z lit. d i e nie są warunkiem udziału, odmowa bez skutków i bez ponawiania pytania w tej edycji), ust. 2d (gdy film przestaje być dostępny u autora, pytamy jego albo osoby uprawnione po nim, a bez zgody nie publikujemy) oraz ust. 2e (playlista Archiwum odsyłająca do kanałów autorów). Playlista jest tym, co realizuje pierwotną intencję bez kosztu i bez przenoszenia na nas roli wydawcy.
+
 ## Dokumenty do MKiDN czekają na przeliczenie
 
 Decyzja o kopii archiwalnej podniosła Budżet Filmu, a film jest w zakresie pytania do MKiDN, więc załącznik „Zestawienie zadania" i oba pisma mają dziś liczby starsze niż arkusz. Przy przeliczaniu trzeba naprawić także dwie rzeczy, które były nieaktualne już wcześniej:
