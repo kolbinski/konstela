@@ -4,7 +4,7 @@
 
 ## <!--ikona:plakat--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 213 950,72 zł netto** (263 159,39 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 222 910,72 zł netto** (274 180,19 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 **Rola nazywa się mecenasem, a nie sponsorem, i to nie jest kwestia uprzejmości.** Sponsor finansuje pulę nagród. Tutaj pieniądze idą także na rzeczy, których w puli nie ma: na przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów dziesięciu prac finałowych, na wystawę przy gali i na dotarcie do szkół artystycznych oraz środowiska ilustratorów. To jest opieka nad obiegiem prac, nie wypłata nagrody.
 
@@ -74,7 +74,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**213 950,72 zł netto** (263 159,39 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**222 910,72 zł netto** (274 180,19 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |             Netto |
 | -------------------------------------------------------------- | ------------------: |
@@ -87,17 +87,17 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 | Honoraria jury plakatu za ocenę                              |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                        |    do ustalenia |
 | Bogatsza oprawa wystawy ponad postać gwarantowaną            |      do wyceny |
-| Obsługa prawna regulaminu plakatu                            |      do wyceny |
+| Obsługa prawna regulaminu plakatu                            |       8 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę                 |       8 000 zł |
 | Narzędzia AI i licencje - udział tego budżetu                 |       4 556 zł |
 | Polisa obejmująca wycenę prac, przechowywanie i okres po sprzedaży |      do wyceny |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu |       3 000 zł |
 | Wystawa prac finałowych w postaci gwarantowanej               |       8 000 zł |
 | Magazyn kopii archiwalnych plakatów, 5 lat retencji           |       1 500 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                   |   11 994,72 zł |
-| **Razem netto**                                              | **213 950,72 zł** |
-| VAT 23%                                                      |   49 208,67 zł |
-| **Do zapłaty brutto**                                        | **263 159,39 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                   |   12 954,72 zł |
+| **Razem netto**                                              | **222 910,72 zł** |
+| VAT 23%                                                      |   51 269,47 zł |
+| **Do zapłaty brutto**                                        | **274 180,19 zł** |
 
 **Praca organizatora to 285 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
 
@@ -116,7 +116,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 
 **Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje proporcjonalnie.
 
-**Pięć pozycji czeka na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 213 950,72 zł:
+**Pięć pozycji czeka na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 222 910,72 zł:
 
 - **honoraria jury plakatu za ocenę** oraz **honoraria za etap przygotowawczy**, czyli za przygotowanie karty oceny przed otwarciem naboru - do ustalenia po skompletowaniu jury;
 - **bogatsza oprawa wystawy**: zawieszenie, oświetlenie sceniczne i obsługa sali ponad postać gwarantowaną opisaną niżej;
@@ -303,12 +303,12 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 597 342,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 324 636 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 303 342,24 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 606 302,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 596 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 312 302,24 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 940,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 139 894,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 135 494,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 773,28 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:

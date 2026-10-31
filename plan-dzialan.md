@@ -176,6 +176,21 @@ W zakresie pytania do MKiDN: **863 787,06 zł** (233 659,06 na 2027 i 630 128 na
 
 **Czego nie rozdzieliłem i dlaczego.** Panel oceny wyglądał na kandydata, ale nim nie jest: to jedno narzędzie budowane raz, a nie cztery ściany, i przy jednym plebiscycie kosztowałoby prawie tyle samo, co przy czterech. Klucz dawałby liczbę wyglądającą na dokładną i nic nieznaczącą. Zostaje w Uruchomieniu razem z fundacją, znakiem towarowym, konsultacją prawną i hostingiem - z wyboru, nie przez przeoczenie, i to zdanie weszło do oferty założycielskiej.
 
+## Koszt prawnika rozdzielony: statut do fundacji, regulaminy do plebiscytów (31.10.2026)
+
+Dotąd konsultacja prawna regulaminu stała w całości w Budżecie Uruchomienia, czyli fundator rozmowy dostawał skonsultowany regulamin za pieniądze Mecenasa Założycielskiego, a trzej pozostali fundatorzy nie dostawali nic. Zasada przyjęta dzisiaj: **statut i polityka prywatności służą fundacji i całemu serwisowi, więc zostają u Mecenasa; regulamin służy jednemu plebiscytowi, więc płaci za niego jego fundator.**
+
+Kotwicą jest jedyna wycena, jaką mamy: ByteLaw, 22.10.2026, **4 000 zł netto** za zakres plebiscytu rozmowy (siedem obszarów wraz z polityką prywatności) plus **700 zł** za weryfikację statutu. Przyjęty dwukrotny zapas, bo listy plebiscytowe są dłuższe - piosenka ma dwanaście obszarów, film siedem wypisanych miejsc - a wyceny trzech plebiscytów nie ma jeszcze na piśmie.
+
+- Każdy z czterech plebiscytów: **obsługa prawna regulaminu 8 000 zł netto**.
+- Uruchomienie: pozycja „konsultacja prawna regulaminu" 6 000 zł zamieniona na **„weryfikacja statutu, polityka prywatności i klauzula RODO" 2 000 zł**.
+
+Nowe kwoty: rozmowa **606 302,88**, piosenka **312 302,24**, plakat **222 910,72**, film **333 596**, uruchomienie **135 494,70**. Razem **1 974 338,82 zł**. W zakresie pytania do MKiDN **999 307,06 zł** (268 379,06 na 2027 i 730 928 na 2028) - obsługa prawna trzech plebiscytów artystycznych jest kosztem 2027 roku, bo musi poprzedzić otwarcie naboru.
+
+Przy okazji z not koncepcyjnych znikły trzy pozycje „do wyceny", które mają już kwoty, a w tabelach plakatu i filmu doszły wiersze przejazdów i udziału w narzędziach, których tam wcześniej nie było.
+
+**Stan pokrycia prawnego na dziś:** zamówiona jest wyłącznie część dotycząca rozmowy i statutu. Piosenka ma gotową listę pytań bez wyceny, plakat i film nie mają nawet listy. Trzy zlecenia trzeba złożyć rozdzielnie, każde ze swojego budżetu.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.

@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, nagrania studyjne dla 10 finalistów oraz hymn Nagrody z teledyskiem.**
 
-**Kosztuje to 303 342,24 zł netto** (373 110,96 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 312 302,24 zł netto** (384 131,76 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
@@ -81,7 +81,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**303 342,24 zł netto** (373 110,96 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**312 302,24 zł netto** (384 131,76 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -94,15 +94,15 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 | Honoraria jury za ocenę                                        |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                          |    do ustalenia |
 | Realizacja części artystycznej gali                            |      do wyceny |
-| Obsługa prawna plebiscytu                                      |      do wyceny |
+| Obsługa prawna plebiscytu                                      |       8 000 zł |
 | Dojazd i nocleg 10 finalistów na galę                          |       8 000 zł |
 | Narzędzia AI i licencje - udział tego budżetu                  |       4 077 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych piosenek, 5 lat retencji            |       1 500 zł |
-| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   27 465,24 zł |
-| **Razem netto**                                                | **303 342,24 zł** |
-| VAT 23%                                                        |      69 768,72 zł |
-| **Do zapłaty brutto**                                          | **373 110,96 zł** |
+| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   28 425,24 zł |
+| **Razem netto**                                                | **312 302,24 zł** |
+| VAT 23%                                                        |      71 829,52 zł |
+| **Do zapłaty brutto**                                          | **384 131,76 zł** |
 
 **Praca organizatora to 255 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się na 8 nazwanych zakresów:
 
@@ -122,8 +122,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 - **honoraria jury za ocenę** - do ustalenia, bo zależą od liczby zgłoszeń i od liczby osób w jury;
 - **honoraria jury za etap przygotowawczy** - do ustalenia; dotyczą pracy nad kartą oceny i wagami kryteriów przed otwarciem naboru;
 - **realizacja części artystycznej gali** - do wyceny, bo zależy od miejsca gali: nagłośnienie, backline i próby znaczą co innego w sali teatralnej, a co innego w klubie;
-- **obsługa prawna plebiscytu** - do wyceny; zakres wskaże konsultacja prawna regulaminu;
-- **dojazd i nocleg 10 finalistów na galę** - do wyceny; udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
+- **dojazd i nocleg 10 finalistów na galę** - 8 000 zł, pozycja wyceniona; udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 216 800 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -275,12 +274,12 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 597 342,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 324 636 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 213 950,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 606 302,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 596 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 222 910,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 940,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 139 894,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 135 494,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 773,28 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
