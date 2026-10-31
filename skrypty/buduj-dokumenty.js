@@ -163,6 +163,15 @@ const PUBLICZNE = new Set([
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja',
   'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji',
+  'oferta-dla-partnera-wydawniczego-antologii',
+  'oferta-dla-mecenasa-muzycznego',
+  'oferta-dla-partnera-wydawniczego-plyty',
+  'oferta-dla-partnera-galerii-sztuki',
+  'oferta-dla-partnera-dystrybucji-filmow',
+  'oferta-dla-partnera-telewizyjnego-lub-streamingowego',
+  'oferta-dla-sponsora-podcastu',
+  'oferta-dla-prowadzacego-podcast',
+  'oferta-dla-patrona-medialnego',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji',
   'oferta-dla-sponsora-akademii-nagrody-konstela',
@@ -184,6 +193,15 @@ const OFERTY = new Set([
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji',
   'oferta-dla-sponsora-akademii-nagrody-konstela',
   'oferta-dla-sponsora-gali-nagrody-konstela',
+  'oferta-dla-partnera-wydawniczego-antologii',
+  'oferta-dla-mecenasa-muzycznego',
+  'oferta-dla-partnera-wydawniczego-plyty',
+  'oferta-dla-partnera-galerii-sztuki',
+  'oferta-dla-partnera-dystrybucji-filmow',
+  'oferta-dla-partnera-telewizyjnego-lub-streamingowego',
+  'oferta-dla-sponsora-podcastu',
+  'oferta-dla-prowadzacego-podcast',
+  'oferta-dla-patrona-medialnego',
 ]);
 
 const PASEK_OFERTY = `<nav class="akcje" aria-label="Zapis i wydruk">
@@ -195,6 +213,15 @@ const PASEK_OFERTY = `<nav class="akcje" aria-label="Zapis i wydruk">
 /* Dokumenty mające własny, krótszy adres poza członem /dokument/.
    Strona powstaje wtedy w obu miejscach, a adresem kanonicznym jest krótszy. */
 const DEDYKOWANE = {
+  'oferta-dla-partnera-wydawniczego-antologii': 'oferta-dla-partnera-wydawniczego-antologii',
+  'oferta-dla-mecenasa-muzycznego': 'oferta-dla-mecenasa-muzycznego',
+  'oferta-dla-partnera-wydawniczego-plyty': 'oferta-dla-partnera-wydawniczego-plyty',
+  'oferta-dla-partnera-galerii-sztuki': 'oferta-dla-partnera-galerii-sztuki',
+  'oferta-dla-partnera-dystrybucji-filmow': 'oferta-dla-partnera-dystrybucji-filmow',
+  'oferta-dla-partnera-telewizyjnego-lub-streamingowego': 'oferta-dla-partnera-telewizyjnego-lub-streamingowego',
+  'oferta-dla-sponsora-podcastu': 'oferta-dla-sponsora-podcastu',
+  'oferta-dla-prowadzacego-podcast': 'oferta-dla-prowadzacego-podcast',
+  'oferta-dla-patrona-medialnego': 'oferta-dla-patrona-medialnego',
   'plebiscyt-rozmowy': 'plebiscyt-rozmowy',
   'plebiscyt-piosenki': 'plebiscyt-piosenki',
   'plebiscyt-plakatu': 'plebiscyt-plakatu',
@@ -236,6 +263,24 @@ const TYTULY = {
 };
 
 const OPISY = {
+  'oferta-dla-partnera-wydawniczego-antologii':
+    'Wydanie książkowe antologii Nagrody Konstela nakładem własnym wydawcy, na licencji od fundacji: co zawiera tom, na czym polega bezpłatne wydanie elektroniczne i jakie są warunki rozmowy.',
+  'oferta-dla-mecenasa-muzycznego':
+    'Sesje studyjne dziesiątki finalistów plebiscytu na piosenkę o sztucznej inteligencji: 75 000 zł netto, co obejmuje rola i jak zmienia ofertę fundatora nagród tego plebiscytu.',
+  'oferta-dla-partnera-wydawniczego-plyty':
+    'Wydanie i dystrybucja płyty z nagraniami dziesiątki finalistów plebiscytu na piosenkę: co dostaje wydawca, co trzeba uzgodnić i od czego ta rola zależy.',
+  'oferta-dla-partnera-galerii-sztuki':
+    'Wystawa dziesięciu plakatów finałowych po gali, z wernisażem i cichą licytacją oryginałów: co wnosi galeria, co fundacja i czego nie obiecujemy.',
+  'oferta-dla-partnera-dystrybucji-filmow':
+    'Sala i publiczność dla filmów finałowych plebiscytu na film o sztucznej inteligencji: co to za filmy, kto z kim podpisuje umowę i co dostaje partner.',
+  'oferta-dla-partnera-telewizyjnego-lub-streamingowego':
+    'Emisja filmów finałowych plebiscytu na film o sztucznej inteligencji: co to za materiał, dlaczego umowę zawiera autor i czego nie obiecujemy.',
+  'oferta-dla-sponsora-podcastu':
+    'Produkcja 24 odcinków podcastu towarzyszącego Nagrodzie Konstela wraz z honorarium prowadzącego: o czym jest podcast, co obejmuje rola i co otrzymuje sponsor.',
+  'oferta-dla-prowadzacego-podcast':
+    'Rola prowadzącego podcast Nagrody Konstela: na czym polega kwestionowanie pytań gościa, czego szukamy, a czego nie, i jak wygląda sprawa honorarium.',
+  'oferta-dla-patrona-medialnego':
+    'Patronat medialny nad pierwszą edycją Nagrody Konstela: co dostaje redakcja, czego oczekujemy w zamian i dlaczego nie prosimy o przychylność.',
   'plebiscyt-rozmowy':
     'Plebiscyt na rozmowę ze sztuczną inteligencją: nagradzamy człowieka, nie program, bo oceniamy pytania, a nie odpowiedzi. Kto może zgłosić rozmowę, cztery kryteria oceny, nagrody, czytelnia i archiwum.',
   'regulamin-rozmowy':

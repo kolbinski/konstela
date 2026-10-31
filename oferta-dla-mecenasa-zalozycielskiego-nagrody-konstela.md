@@ -276,7 +276,19 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 62 048 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
-Partner wydawniczy antologii, mecenas sesji studyjnych, partner galerii sztuki, partner dystrybucji filmów, sponsor podcastu i patronat medialny nie mają jeszcze osobnych ofert, bo opierają się na świadczeniu rzeczowym albo czekają na wycenę; ich zakresy opisuje strona [Dla partnerów](/dla-partnerow). Role są rozdzielne i można objąć więcej niż jedną.
+Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
+
+- **[Partner wydawniczy antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
+- **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
+- **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
+- **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów
+- **[Partner dystrybucji filmów](/oferta-dla-partnera-dystrybucji-filmow)** - sala i publiczność dla pokazów filmów finałowych
+- **[Partner telewizyjny lub streamingowy](/oferta-dla-partnera-telewizyjnego-lub-streamingowego)** - emisja filmów finałowych po pokazach
+- **[Sponsor podcastu](/oferta-dla-sponsora-podcastu)** - produkcja podcastu towarzyszącego Nagrodzie wraz z honorarium prowadzącego
+- **[Prowadzący podcast](/oferta-dla-prowadzacego-podcast)** - rola dla osoby, nie dla firmy
+- **[Patronat medialny](/oferta-dla-patrona-medialnego)** - towarzyszenie pierwszej edycji
+
+Role są rozdzielne i można objąć więcej niż jedną. Wszystkie zakresy zbiera strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
