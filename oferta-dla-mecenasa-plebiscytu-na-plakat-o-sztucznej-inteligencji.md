@@ -116,6 +116,8 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 
 **Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje proporcjonalnie.
 
+**Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Mecenas jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
+
 **Pięć pozycji czeka na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 222 910,72 zł:
 
 - **honoraria jury plakatu za ocenę** oraz **honoraria za etap przygotowawczy**, czyli za przygotowanie karty oceny przed otwarciem naboru - do ustalenia po skompletowaniu jury;

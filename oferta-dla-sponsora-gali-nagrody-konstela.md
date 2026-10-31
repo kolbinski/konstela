@@ -80,6 +80,8 @@ Od czego zależą, mówimy wprost: **oprawa od wyboru miejsca.** Sala z własną
 
 **Rezerwa liczona jest od pracy i kosztów twardych.** Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Sponsora albo, na jego pisemny wybór, przechodzą na galę kolejnej edycji.
 
+**Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Sponsor jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
+
 **Płatność etapami po odbiorze**, w trzech częściach:
 
 1. **Po podpisaniu umowy i rezerwacji sali** - tyle, ile wymaga zabezpieczenie terminu w wybranym miejscu.

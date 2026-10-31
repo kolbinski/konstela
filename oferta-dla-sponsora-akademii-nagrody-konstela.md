@@ -109,6 +109,8 @@ To jest zdanie, które Sponsor może powtórzyć na zarządzie: **firma zapłaci
 
 **Rezerwa jest osobna dla każdego plebiscytu i liczona od wynagrodzeń i kosztów twardych razem** - 12% w obu blokach - bo przekroczenie może wystąpić po obu stronach: zgłoszeń może być więcej, niż założono, albo rozbieżność ocen wymusi trzecie odczyty. **Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Sponsora albo, na jego pisemny wybór, przechodzą na kolejną edycję.**
 
+**Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Sponsor jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
+
 ### Jak kwota zmienia się przy innej liczbie zgłoszeń
 
 **Kosztorys nie jest ryczałtem za nieokreśloną pracę.** Trzy pozycje skalują się wprost z liczbą zgłoszeń, a pozostałe nie:

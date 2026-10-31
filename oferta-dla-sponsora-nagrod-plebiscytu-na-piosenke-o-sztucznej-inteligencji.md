@@ -132,6 +132,8 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 58 000 zł i jest policzony:
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 216 800 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
+**Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
+
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród, a podatek odprowadza organizator, nie laureat i nie Fundator. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru.
 
 ### Płatność
