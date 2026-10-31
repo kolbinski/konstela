@@ -226,9 +226,9 @@ Pięć spraw konstrukcyjnych, rozstrzygniętych po kolei tego samego dnia.
 
 **Zostaje do rozstrzygnięcia:** regulaminy piosenki, plakatu i filmu nie mają w ogóle warunków otwarcia naboru - ani pokrycia puli, ani ogłoszonego jury, ani konsultacji prawnej, ani pokrycia pierwszej rundy. Rozmowa ma je wszystkie. Trzeba zdecydować, czy przenieść tam ten sam zestaw.
 
-## Oferta rozmowy po pięciu turach recenzji (31.10.2026)
+## Oferta rozmowy po siedmiu turach recenzji (31.10.2026)
 
-Pięć tur w jeden dzień, ta sama persona - prezes firmy technologicznej wydający własne pieniądze. **Werdykt końcowy: rozmowa umówiona, finansowania jeszcze nie ma, a dalsze warunki dotyczą wykonania, nie tekstu**: poznania Rady Fundacji, zakontraktowanego jury, potwierdzonego finansowania akademii i umowy zgodnej z ofertą.
+Siedem tur w jeden dzień, ta sama persona - prezes firmy technologicznej wydający własne pieniądze. **Po siódmej turze: oferta gotowa do przedstawienia sponsorowi.** **Werdykt końcowy: rozmowa umówiona, finansowania jeszcze nie ma, a dalsze warunki dotyczą wykonania, nie tekstu**: poznania Rady Fundacji, zakontraktowanego jury, potwierdzonego finansowania akademii i umowy zgodnej z ofertą.
 
 Rzecz do zapamiętania na przyszłe tury, bo powtórzyła się dwa razy: **większość zarzutów tury trzeciej i czwartej powstała przy naprawianiu tury poprzedniej.** Gwarancja dwóch odczytów załatała jedną sprzeczność i zrobiła drugą, nowy harmonogram płatności zostawił w tekście stare odwołanie do drugiej transzy, a granica pięciu punktów dała się obejść seriami zamian. Po każdej rundzie poprawek trzeba czytać całość dokumentu, nie poprawiony akapit.
 
