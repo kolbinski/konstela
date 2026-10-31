@@ -88,15 +88,15 @@
 
 2. **Zgłoszenie filmu do innych konkursów, festiwali i przeglądów jest dozwolone**, również w czasie trwania Plebiscytu, i nie wymaga zawiadomienia Organizatora. Nagroda, wyróżnienie albo nominacja otrzymane gdzie indziej nie wyłączają filmu z Plebiscytu ani nie wpływają na jego ocenę.
 
-2a. **Czego zakaz przeróbek nie obejmuje.** Wykorzystania materiałów powstałych wcześniej jako składników nowego filmu: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza, istniejącej muzyki ani zdjęć zrealizowanych przed ogłoszeniem Plebiscytu. Warunek dotyczy **ukończonego filmu**, a nie jego części składowych; prawa do tych materiałów pozostają sprawą Uczestnika (§ 12 ust. 1 lit. a).
+2a. **Zakaz przeróbek.** Zgłoszony być nie może film, który **jest przeróbką filmu ukończonego wcześniej**, w szczególności jego przemontowaniem, skróceniem, wersją reżyserską albo tym samym filmem z nową warstwą dźwiękową.
 
-2b. Zgłoszony być nie może film, który **jest przeróbką filmu ukończonego wcześniej**, w szczególności jego przemontowaniem, skróceniem, wersją reżyserską albo tym samym filmem z nową warstwą dźwiękową.
+2b. **Czego zakaz z ust. 2a nie obejmuje.** Wykorzystania materiałów powstałych wcześniej jako składników nowego filmu: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza, istniejącej muzyki ani zdjęć zrealizowanych przed ogłoszeniem Plebiscytu. Warunek dotyczy **ukończonego filmu**, a nie jego części składowych; prawa do tych materiałów pozostają sprawą Uczestnika (§ 12 ust. 1 lit. a).
 
 3. **Opublikowanie filmu na kanale Uczestnika nie jest zgłoszeniem do innego konkursu ani pokazem festiwalowym.** Zgłoszenie w tym Plebiscycie polega na wskazaniu linku do filmu opublikowanego przez Uczestnika (§ 4 ust. 1 lit. a), więc publikacja jest warunkiem udziału, a nie jego naruszeniem. Nie są też naruszeniem ust. 2: pokaz dla współtwórców, pokaz w szkole albo na uczelni Uczestnika oraz udostępnienie filmu bez zgłoszenia go do oceny.
 
 4. **Plebiscyt nie zastrzega wyłączności w żadnym okresie.** Uczestnik dysponuje filmem swobodnie przed zgłoszeniem, w czasie trwania Plebiscytu i po gali. Jedynym ograniczeniem jest obowiązek utrzymania filmu dostępnego publicznie w serwisie, w którym został zgłoszony, do zamknięcia głosowania publiczności.
 
-5. Datę ukończenia oraz oświadczenie, że film spełnia warunki z ust. 1 i 2b, Uczestnik podaje w zgłoszeniu i odpowiada za ich prawdziwość. Organizator weryfikuje je w zakresie, w jakim pozwalają na to środki techniczne, w szczególności na podstawie daty publikacji nagrania, materiałów produkcyjnych i publicznie dostępnych wyników plebiscytów; brak możliwości weryfikacji nie obciąża Uczestnika i sam w sobie nie jest podstawą odrzucenia. Wykazanie nieprawdy jest podstawą wykluczenia na zasadach z § 14.
+5. Datę ukończenia oraz oświadczenie, że film spełnia warunki z ust. 1 i 2a, Uczestnik podaje w zgłoszeniu i odpowiada za ich prawdziwość. Organizator weryfikuje je w zakresie, w jakim pozwalają na to środki techniczne, w szczególności na podstawie daty publikacji nagrania, materiałów produkcyjnych i publicznie dostępnych wyników plebiscytów; brak możliwości weryfikacji nie obciąża Uczestnika i sam w sobie nie jest podstawą odrzucenia. Wykazanie nieprawdy jest podstawą wykluczenia na zasadach z § 14.
 
 ## § 4. Forma zgłoszenia
 
@@ -159,7 +159,7 @@
 
 4b. Odrzucenie na podstawie ust. 4 wymaga **pisemnego wskazania, która z podstaw zachodzi i z czego to wynika**; Uczestnik może przedstawić stanowisko w terminie nie krótszym niż 7 dni. Podstawy tej nie stosuje się dlatego, że film podoba się Organizatorowi mniej niż inne, ani dlatego, że jest przychylny albo nieprzychylny wobec sztucznej inteligencji.
 
-5. Zgłoszenie zostaje odrzucone w weryfikacji formalnej, jeżeli nie spełnia wymogów z ust. 1-4, z § 3a ust. 1 i 2b albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni. Podstawy z ust. 4 nie da się uzupełnić.
+5. Zgłoszenie zostaje odrzucone w weryfikacji formalnej, jeżeli nie spełnia wymogów z ust. 1-4, z § 3a ust. 1 i 2a albo z § 4 ust. 1, a brak nie zostanie uzupełniony w terminie wskazanym przez Organizatora, nie krótszym niż 7 dni. Podstawy z ust. 4 nie da się uzupełnić.
 
 ## § 6. Narzędzia sztucznej inteligencji: deklaracja bez zakazu
 
