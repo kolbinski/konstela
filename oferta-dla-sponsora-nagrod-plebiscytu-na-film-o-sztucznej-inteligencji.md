@@ -85,7 +85,7 @@ Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa tr
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**268 160 zł netto** (329 836,80 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet plebiscytu na film" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**268 160 zł netto** (329 836,80 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -121,7 +121,7 @@ Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa tr
 
 Stawka 220 zł za godzinę jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu. Najcięższa pozycja po stronie pracy to **obsługa akademii i jury, 60 godzin**: w plebiscycie filmowym ocena jednego zgłoszenia zajmuje tyle, ile trwa film, więc przydziały trzeba rozpisać tak, żeby żaden oceniający nie dostał dwudziestu godzin materiału.
 
-### Sześć pozycji czeka na wycenę albo ustalenie
+### Pięć pozycji czeka na wycenę albo ustalenie
 
 Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnione osobno i żadna z nich nie jest dziś pokryta kwotą z tabeli:
 
@@ -129,10 +129,9 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 - **honoraria jury za etap przygotowawczy** - za ustalenie karty oceny i wag kryteriów przed otwarciem naboru;
 - **przygotowanie techniczne zwiastunów do emisji galowej** - normalizacja formatu, dźwięku i napisów piątki zwiastunów, bez ingerencji w treść;
 - **pokazy kinowe filmów finałowych** - zależą od tego, czy i na jakich warunkach znajdzie się dystrybutor;
-- **dojazd i nocleg finalistów na galę** - zależą od tego, skąd przyjadą, a tego nie wiemy przed zamknięciem naboru;
 - **obsługa prawna regulaminu filmu** - zakres wskaże konsultacja prawna; regulamin filmu jest najbardziej złożony z czterech ze względu na prawa do muzyki i warstwę licencyjną.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 65 000 zł, czyli od pracy organizatora oraz medalu i dyplomów. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 68 000 zł, czyli od pracy organizatora, medalu i dyplomów oraz honorariów zespołu wybierającego najlepsze uzasadnienie głosu. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
@@ -140,13 +139,13 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 
 **Pula nagród i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. W plebiscycie filmowym ma to wagę większą niż gdziekolwiek indziej, bo uczestnik podejmuje na tej podstawie decyzję o produkcji filmu.
 
-Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów. **Praca organizatora i rezerwa, czyli 71 600 zł netto, płatne są etapami po odbiorze, w trzech częściach odpowiadających godzinom faktycznie przepracowanym:**
+Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów. **Praca organizatora, honoraria zespołu oceniającego uzasadnienia i rezerwa, czyli 74 960 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
 
-1. **Po ogłoszeniu składu jury i akademii oraz uruchomieniu Projektorni** - za godziny wykazane w raporcie pierwszego etapu.
-2. **Po zamknięciu naboru i zakończeniu weryfikacji formalnej oraz weryfikacji historii zgłoszonych filmów** - za godziny wykazane w raporcie drugiego etapu.
-3. **Po przyjęciu sprawozdania z rozliczenia edycji** - reszta godzin oraz rezerwa.
+1. **Po ogłoszeniu składu jury i akademii oraz uruchomieniu Projektorni.**
+2. **Po zamknięciu naboru oraz zakończeniu weryfikacji formalnej i weryfikacji historii zgłoszonych filmów.**
+3. **Po przyjęciu sprawozdania z rozliczenia edycji** - reszta zadań oraz rezerwa.
 
-Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
+**Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły, a kontrola formalna - jedyna pozycja zależna od frekwencji - według rzeczywistej liczby zgłoszeń, po 12 minut na zgłoszenie. Przy 15 zgłoszeniach Fundator nie płaci za kontrolę 150. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
@@ -158,11 +157,13 @@ Regulamin wymienia **trzy warunki, które muszą być spełnione łącznie**, ż
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Fundatora** albo, według jego wyboru, przechodzi na kolejną edycję.
 
-Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli w terminie wpłynie mniej niż 10 zgłoszeń spełniających wymogi formalne, edycja nie zostaje rozstrzygnięta, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Fundatora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
+Osobno regulamin przewiduje próg po stronie uczestników (§ 15 ust. 2): **jeżeli po zakończeniu weryfikacji formalnej liczba zgłoszeń spełniających wymogi okaże się mniejsza niż 10, Organizator może nie rozstrzygnąć edycji**, ogłaszając to wraz z uzasadnieniem; nagrody nie są wtedy przyznawane. Oddajemy brzmienie regulaminu wiernie: jest to możliwość po stronie Organizatora, a nie automat. Środki przeznaczone na nagrody wracają wtedy do Fundatora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
 Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: dziesiątka finalistów jest tu zarazem całą stawką, więc przy mniejszej liczbie zgłoszeń nie byłoby czego rozstrzygać. Mówimy o tym wprost również uczestnikom, na [stronie plebiscytu](/plebiscyt-filmu#czego-od-ciebie-wymagamy-i-dlaczego), razem z zapowiedzią dwóch wiadomości: w dniu otwarcia naboru oraz w dniu, w którym dziesięć zgłoszeń przechodzi weryfikację i rozstrzygnięcie edycji jest pewne.
 
-Budżet policzony jest na 40 zgłoszeń i to jest liczba, na którą pracujemy.
+Budżet policzony jest na **150 zgłoszeń filmów** i to jest liczba, na którą pracujemy: 30 godzin kontroli formalnej to 12 minut na zgłoszenie razy 150. Tyle samo zakłada [budżet Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela), która wykonuje pierwsze przejście oceny. Pięćdziesiąt godzin dotarcia do szkół filmowych, kół filmowych i festiwali jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
+
+**Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze. Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpadają wtedy koszty przygotowania technicznego zwiastunów i dojazdu finalistów, odpowiadające im kwoty wracają, ale sam pokaz się nie odbywa. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
 
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 
@@ -174,7 +175,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
-**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne, czyli zwrot wszystkiego, co nam powierzono, oraz rozliczenie, a środki przeznaczone na rzeczy, które się nie odbyły, wracają w całości. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
+**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie mniej niż 10 zgłoszeń spełniających wymogi formalne - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne, czyli zwrot wszystkiego, co nam powierzono, oraz rozliczenie, a środki przeznaczone na rzeczy, które się nie odbyły, wracają w całości. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
