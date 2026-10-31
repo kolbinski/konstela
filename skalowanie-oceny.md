@@ -1,6 +1,6 @@
 # Skalowanie oceny przy dużym naborze - szkic struktury
 
-Notatka robocza z 21.10.2026. **Nic z tego nie jest jeszcze w regulaminie.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
+Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga - sito uczestników - weszła 31.10.2026 do regulaminu plebiscytu rozmowy jako mechanizm włączany ogłoszeniem przed otwarciem naboru; w pierwszej edycji pozostaje wyłączony. Część pierwsza, poniżej, jest nadal szkicem.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
 
 ## Problem w jednym zdaniu
 

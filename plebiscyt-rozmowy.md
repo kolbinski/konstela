@@ -118,6 +118,23 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-rozmowy), a [kart
 
 Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zobaczą dane osoby trzeciej albo cudzy materiał. **Oznaczenie nie wpływa na punktację** i nie jest rozstrzygnięciem – decyduje organizator, a Ty dowiadujesz się o tym mailem przed publikacją Archiwum.
 
+### Co, jeżeli zgłoszeń będzie bardzo dużo
+
+Akademia to opłacani czytelnicy, a ich liczba ma granicę. Dlatego regulamin przewiduje **sito uczestników**: mechanizm, który wchodzi w życie tylko wtedy, gdy zgłoszeń jest więcej, niż akademia może przeczytać. **W pierwszej edycji sito jest wyłączone** – jeżeli miałoby działać, powiemy o tym **w dniu ogłoszenia naboru**, razem z wszystkimi jego parametrami. Nie wprowadzamy go i nie wycofujemy w trakcie naboru.
+
+Gdyby sito działało, wyglądałoby to tak:
+
+- **Warunkiem rozpatrzenia Twojego zgłoszenia jest przeczytanie i ocenienie trzech cudzych rozmów** w rundzie, do której trafiło. Zgłoszenia przydzielamy losowo i ślepo – nie wybierasz, co oceniasz, i nie wiesz, kto to napisał
+- oceniasz **tą samą jawną kartą oceny**, co akademia i jury; nie ma osobnych, tajnych kryteriów
+- na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu – dostaniesz inne
+- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe) przywracamy termin
+- oceny uczestników **nie przyznają nagród i nie są werdyktem**. Służą tylko do tego, żeby ustalić, które rozmowy trafią do opłacanej akademii – a akademia czyta je **od nowa, nie znając Twoich ocen**
+- jakość ocen pilnujemy trzema narzędziami: **kotwicą** (częścią przydziału są rozmowy już ocenione przez akademię, więc widzimy, jak Twoja ocena wypada wobec oceny zawodowej), **normalizacją** (surowość i hojność wyrównujemy statystycznie, więc zaniżanie cudzych ocen nie podnosi Twojej pozycji) i **automatycznym sprawdzeniem spójności** oceny z treścią rozmowy. To sprawdzenie **nie ocenia rozmowy i niczego nie rozstrzyga** – kieruje tylko uwagę człowieka na oceny odstające od uzasadnienia
+- skutek nietrafionej albo niestarannej oceny spada na **tę ocenę**, nie na Twoje zgłoszenie: ocena traci wagę albo zostaje odrzucona, Twoja rozmowa nie jest za to karana
+- rundy powtarzamy, dopóki pole nie zmieści się w opłacanej akademii, a **jeden uczestnik nie przeczyta więcej niż dwanaście rozmów** w całej edycji
+
+Całą konstrukcję, wraz z uzasadnieniem, opisuje [dokument o skalowaniu oceny](/dokument/skalowanie-oceny); wiążące brzmienie jest w [regulaminie](/dokument/regulamin-rozmowy), w § 8 ust. 10c.
+
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
 <div class="kafle">

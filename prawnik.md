@@ -375,6 +375,24 @@ Trzy pytania powstałe przy zmianie konstrukcji Archiwum filmów. Do 30 paździe
    - Jaki okres przechowywania da się obronić wobec zasady ograniczenia przechowywania z RODO i jak powiązać go z pięcioletnim przechowywaniem danych laureatów liczonym od zatwierdzenia sprawozdania.
    - Czy depozyt migawki w repozytorium zewnętrznym (punkt 4) da się pogodzić z żądaniem usunięcia danych i z zakazem publikacji pojedynczej rozmowy - to jest pytanie o wykonalność, nie o samą podstawę prawną.
 
+## Cg. Sito uczestników - ocena wzajemna jako warunek rozpatrzenia zgłoszenia (dodane 31.10.2026)
+
+Dwa pytania powstałe 31.10.2026 przy projektowaniu mechanizmu, który ma pozwolić pierwszej rundzie oceny urosnąć ponad liczbę zgłoszeń opłaconych w kosztorysie. Konstrukcję opisuje § 8 ust. 10c regulaminu rozmowy oraz [dokument o skalowaniu oceny](/dokument/skalowanie-oceny). W pierwszej edycji sito pozostaje wyłączone; wchodzi do regulaminu jako mechanizm ogłaszany przed otwarciem naboru.
+
+1. **Ocena cudzych zgłoszeń jako warunek rozpatrzenia własnego.** W edycji, w której Organizator ogłosi sito przed otwarciem naboru, warunkiem rozpatrzenia zgłoszenia jest przeczytanie i ocenienie trzech cudzych rozmów przydzielonych losowo i ślepo, w terminie 14 dni, tą samą jawną kartą oceny co akademia. Niewykonanie tego obowiązku nie powoduje odrzucenia zgłoszenia jako niespełniającego wymogów formalnych, lecz jego nieprzejście do dalszych rund.
+
+   - Czy taki warunek da się pogodzić z konstrukcją przyrzeczenia publicznego (art. 919 KC): przyrzekający określa warunki uzyskania nagrody, ale tu warunkiem jest świadczenie pracy na rzecz Organizatora, nieodpłatne i nieoznaczone co do wartości. Czy nie przekształca to relacji w umowę wzajemną albo w świadczenie, od którego należne byłoby wynagrodzenie.
+   - Czy przy uczestniku będącym konsumentem warunek ten nie jest postanowieniem niedozwolonym (art. 385[1] KC), a jeżeli ryzyko istnieje - jakie elementy je zmniejszają: jawność parametrów przed naborem, prawo odrzucenia jednego przydziału, przywrócenie terminu w zdarzeniach losowych, górny limit dwunastu odczytów na edycję, brak wpływu oceny na pozycję własnego zgłoszenia.
+   - Czy wobec uczestników od 16 do 18 lat obowiązek oceniania wymaga odrębnej zgody opiekuna, obok zgód już przewidzianych w § 6.
+   - Czy warunek nie prowadzi do nierównego traktowania osób, które z przyczyn obiektywnych nie mogą czytać cudzych zgłoszeń (niepełnosprawność, bariera technologiczna), i jaka forma zastępcza byłaby wystarczająca.
+   - W jakiej roli występuje uczestnik oceniający cudze zgłoszenie w rozumieniu RODO: czy jest to przetwarzanie przez Organizatora z udziałem osoby upoważnionej, czy powierzenie przetwarzania, i jakie oświadczenie o poufności jest tu konieczne. Zgłoszenia w sicie są pokazywane bez danych identyfikujących autora, ale treść rozmowy może go ujawniać.
+
+2. **Automatyczne sprawdzenie spójności oceny z treścią rozmowy.** Jakość ocen uczestników kontrolujemy trzema narzędziami: kotwicą (część przydziału to rozmowy ocenione już przez akademię), normalizacją statystyczną surowości oceniających i automatycznym sprawdzeniem, czy wystawiona ocena jest spójna z treścią rozmowy i z uzasadnieniem. Narzędzie **nie ocenia rozmowy i nie rozstrzyga o awansie** - kieruje uwagę człowieka na oceny odstające; skutek spada na ocenę (utrata wagi albo odrzucenie), nie na zgłoszenie oceniającego.
+
+   - Czy przy takim ograniczeniu roli mechanizm pozostaje poza art. 22 RODO (decyzje wyłącznie zautomatyzowane), a jeżeli nie - jakiego poziomu udziału człowieka wymaga, żeby nim nie był, i jaką informację należy podać uczestnikowi przed naborem.
+   - Jaka podstawa prawna obejmuje przekazanie treści zgłoszonej rozmowy do zewnętrznego dostawcy modelu w tym celu; czy mieści się to w licencji z § 11 i w celach przetwarzania z § 12, czy wymaga ich rozszerzenia, oraz jaka umowa powierzenia i jakie warunki transferu poza EOG są tu konieczne.
+   - Czy odrzucenie oceny na tej podstawie wymaga trybu odwoławczego dla oceniającego, skoro nie dotyka jego własnego zgłoszenia.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca

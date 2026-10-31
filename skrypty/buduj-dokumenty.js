@@ -151,6 +151,7 @@ const PUBLICZNE = new Set([
   'plebiscyt-rozmowy',
   'plebiscyt-filmu',
   'procedura-moderacji',
+  'skalowanie-oceny',
   'regulaminy',
   'hymn',
   'fundacja',
@@ -330,6 +331,8 @@ const OPISY = {
     'Cztery regulaminy plebiscytów Nagrody Konstela w jednym miejscu: rozmowa, film, piosenka, plakat. Co je łączy i jakie dokumenty im towarzyszą.',
   'procedura-moderacji':
     'Jawna procedura moderacji zgłoszeń w plebiscytach Nagrody Konstela: kiedy oceniający oznacza zastrzeżenie prawne, zamknięta lista rodzajów oznaczeń z przykładami pozytywnymi i negatywnymi, czego nie oznaczamy nigdy i co dzieje się po oznaczeniu.',
+  'skalowanie-oceny':
+    'Co się dzieje z oceną, gdy zgłoszeń jest sto tysięcy: sito uczestników, rundy, kotwice, normalizacja ocen i granice tej konstrukcji.',
   'regulamin-filmu':
     'Pełne zasady plebiscytu na film o sztucznej inteligencji: kto może zgłosić film, dlaczego nie ma tu zakazu użycia narzędzi AI, a jest obowiązek deklaracji, według czego ocenia jury, jakie są nagrody i co dzieje się z prawami do filmu.',
   hymn:

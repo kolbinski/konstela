@@ -273,12 +273,24 @@ Pozostałe sześć poprawek: pierwsza transza spadła z 51 500 do **26 500 zł**
 
 Dopisane też, czego próba oceniania nie sprawdza: pięć rozmów i trzy osoby nie zweryfikują kilkudziesięcioosobowego grona oceniającego filmy ani przepustowości przy dużym naborze.
 
+## Sito uczestników: jak akademia rozmów może urosnąć bez podnoszenia ceny (31.10.2026)
+
+Stała pula honorariów rozwiązała bilans sponsora, ale nie zdjęła ściany: **grono czytelników ma granicę kadrową, nie finansową.** Przy 160 160 zł akademia czyta około 425 rozmów w trybie dwóch odczytów i około 740 w trybie jednoosobowym. Dla stu tysięcy zgłoszeń to nie wystarcza przy żadnej stawce.
+
+Rozstrzygnięte rozwiązanie: **sito uczestników** - rundowa ocena wzajemna jako warunek rozpatrzenia zgłoszenia. Każdy uczestnik czyta trzy cudze rozmowy przydzielone losowo i ślepo, tą samą jawną kartą oceny, w 14 dni, z prawem odrzucenia jednego przydziału i z przywróceniem terminu w zdarzeniach losowych. Rundy powtarzają się, dopóki pole nie zmieści się w opłacanej akademii; górna granica to dwanaście odczytów na uczestnika w edycji.
+
+Zarzut, który trzeba było rozbroić: **zgłaszający nie jest bezstronny wobec konkurencji.** Trzy narzędzia, nie jedno. **Kotwica** - w przydziale są rozmowy już ocenione przez akademię, więc widać odchylenie od oceny zawodowej. **Normalizacja** - surowość i hojność wyrównuje się statystycznie, więc zaniżanie cudzych ocen nie podnosi własnej pozycji. **Automatyczne sprawdzenie spójności** oceny z treścią rozmowy, które *nie ocenia rozmowy i niczego nie rozstrzyga* - kieruje tylko uwagę człowieka na oceny odstające. Skutek spada na ocenę, nie na zgłoszenie oceniającego: ocena traci wagę albo zostaje odrzucona.
+
+**W pierwszej edycji sito jest wyłączone.** W regulaminie siedzi jako mechanizm, który Organizator ogłasza - albo nie - w dniu otwarcia naboru, razem z czterema parametrami: proporcją awansu w rundzie, progiem zgodności z kotwicą, wielkością losowej próbki kontrolnej i progiem błędnych odrzuceń. Po otwarciu naboru sita nie wprowadza się ani nie znosi. Parametry zostają nierozstrzygnięte do próby oceniania - bez pięciu rozmów ocenionych przez trzy osoby każda liczba byłaby wzięta z powietrza.
+
+Weszło do: § 8 ust. 10c regulaminu rozmowy (lit. a-j), warunek piąty uruchomienia naboru, oferta Akademii (sekcja o tym, co pozwala roli urosnąć), strona plebiscytu rozmowy (sekcja „Co, jeżeli zgłoszeń będzie bardzo dużo"), `skalowanie-oceny.md` opublikowane pod `/dokument/skalowanie-oceny`, pytania do kancelarii w sekcji Cg.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
 - **27 listopada** - telefon do MKiDN oraz wysłanie gotowego pisma `mk-uzupelnienie.md`. Uzupełnienie podaje nową kwotę objętą pytaniem (695 032,00 zł zamiast 660 952,00 zł) i odnotowuje audiobook. Wysyłane razem z przypomnieniem, nie osobno.
 - **Do 31 grudnia 2026** - umowa z mecenasem antologii, rejestracja fundacji w KRS, konsultacja prawna regulaminu. Kolejność: deklaracja mecenasa, rejestracja fundacji, umowa z nią, faktura.
-- **1 stycznia 2027** - otwarcie naboru, o ile spełnione są trzy warunki z regulaminu: pula nagród pokryta środkami na rachunku, co najmniej trzy osoby potwierdziły udział w jury i skład ogłoszony, regulamin po konsultacji prawnej.
+- **1 stycznia 2027** - otwarcie naboru, o ile spełnione są cztery warunki z regulaminu: pula nagród pokryta środkami na rachunku, co najmniej trzy osoby potwierdziły udział w jury i skład ogłoszony, regulamin po konsultacji prawnej, pierwsza runda oceny z zapewnionym finansowaniem.
 
 ## Czego teraz nie ruszać
 
