@@ -27,7 +27,7 @@ Oferta obiecuje te dokumenty **przed jakimkolwiek zobowiązaniem** partnera, czy
 - **Fundusz założycielski** - 2 000 zł, w tym 1 000 zł na działalność gospodarczą (Marcin Mickun, Fundacja RC, 30.10). Wcześniej Globico odmówiło wskazania kwoty 22.10, a GCOP miał ją domknąć - pytanie zamknął Marcin Mickun.
 - **Kody PKD** - osiem pozycji w § 23 ust. 3 statutu (Marcin Mickun, Fundacja RC, 30.10), w klasyfikacji PKD 2025, o której aktualność ostrzegał GCOP 23.10.
 - **Zakaz wypłat na rzecz Fundatora** - oferty powoływały się na przepis, którego w statucie nie było. Dopisany jako § 11a, z wyjątkiem dla wynagrodzenia za pracę faktycznie wykonaną na podstawie umowy zawartej przez Radę Fundacji.
-- **Luka finansowania stycznia-kwietnia 2028** - osobna pozycja 13 333 zł w Budżecie rozmowy z AI.
+- **Luka finansowania stycznia-kwietnia 2028** - osobna pozycja 13 333 zł w Budżecie Rozmowy z AI.
 
 ## Czego nie da się odblokować
 

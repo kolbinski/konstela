@@ -386,7 +386,7 @@ Powstał `regulamin-plebiscytu.md` (28.10.2026 przemianowany na `regulamin-piose
 **Rozstrzygnięte przez Organizatora:**
 
 - **Wiek: od 16 lat, za pisemną zgodą przedstawiciela ustawowego** (§ 3). Zgoda rozbita na cztery odrębne zakresy: licencja, przyjęcie nagrody, udział w nagraniu studyjnym, udział w gali. Brak zgody w jednym zakresie nie wyłącza z plebiscytu, tylko z tego zakresu.
-- **Udział w gali: obowiązek dla laureatów trzech nagród pieniężnych, bo ich obecność jest warunkiem części artystycznej** (§ 14 ust. 2). Nieobecność z przyczyn niezależnych nie pozbawia nagrody. Organizator pokrywa dojazd i nocleg **całej dziesiątki finalistów**, nie tylko trójki - nowa pozycja do Budżetu piosenki.
+- **Udział w gali: obowiązek dla laureatów trzech nagród pieniężnych, bo ich obecność jest warunkiem części artystycznej** (§ 14 ust. 2). Nieobecność z przyczyn niezależnych nie pozbawia nagrody. Organizator pokrywa dojazd i nocleg **całej dziesiątki finalistów**, nie tylko trójki - nowa pozycja do Budżetu Piosenki.
 - **Osoby najbliższe jurorów nie są wyłączone ze zgłaszania**, ale juror wyłącza się od oceny takiego zgłoszenia (§ 3 ust. 5 i § 10 ust. 7). Inaczej niż przy Nagrodzie, gdzie wyłączenia podmiotowego też świadomie nie wprowadzono.
 
 **Przyjęte przy braku preferencji, łatwe do odwrócenia:**
@@ -402,13 +402,13 @@ Powstał `regulamin-plebiscytu.md` (28.10.2026 przemianowany na `regulamin-piose
 
 **Otwarte w samym dokumencie:** termin wygaśnięcia licencji (§ 15 ust. 3) zostawiony jako miejsce do uzupełnienia - nie umiem go wskazać bez kancelarii.
 
-### Budżet piosenki - korekta z 25.10.2026
+### Budżet Piosenki - korekta z 25.10.2026
 
 Pozycja "Obsługa prawna plebiscytu" miała wpisane 4 500 zł. **Ta kwota nie pochodziła od nikogo** - wymyśliłem ją przy tworzeniu zakładki. Wycena ByteLaw z 22.10.2026 zakresu plebiscytowego nie obejmowała, a osobne zlecenie nie zostało jeszcze wycenione. Kwota wyzerowana i oznaczona jako DO WYCENY, tak jak honoraria jury i część artystyczna gali.
 
 Dopisana nowa pozycja: **dojazd i nocleg dziesięciu finalistów na galę**, konsekwencja § 14 regulaminu plebiscytu. Również wyzerowana, bo miejsce gali nie jest wybrane, a bez niego nie da się policzyć ani noclegu, ani dojazdu.
 
-Budżet piosenki spadł z 261 656 zł do **256 616 zł** netto (zdjęte 4 500 zł plus 12% rezerwy od tej kwoty). Suma czterech budżetów: **1 145 130,80 zł** netto.
+Budżet Piosenki spadł z 261 656 zł do **256 616 zł** netto (zdjęte 4 500 zł plus 12% rezerwy od tej kwoty). Suma czterech budżetów: **1 145 130,80 zł** netto.
 
 Przy okazji poprawione odesłanie w zakładce Wyjaśnienia: po wstawieniu wiersza wskazywało na Rezerwę zamiast na RAZEM NETTO.
 

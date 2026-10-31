@@ -87,12 +87,12 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 | Budżet | Przedmiot | Kwota netto |
 |---|---|---:|
-| [rozmowy z AI](/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai) | Nagroda i gala: pula nagród, honoraria jury, gala, promocja naboru, prowadzenie plebiscytu | **ok. 561,7 tys. zł** |
+| [Rozmowy z AI](/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai) | Nagroda i gala: pula nagród, honoraria jury, gala, promocja naboru, prowadzenie plebiscytu | **ok. 561,7 tys. zł** |
 | [Antologii](/arkusz/budzet-edycji-pierwszej#budzet-antologii) | Antologia i Archiwum: redakcja, korekta, skład, druk, utrzymanie Archiwum, powołanie fundacji, **przebudowa strony**, narzędzia AI | **ok. 277,6 tys. zł** |
-| [piosenki](/arkusz/budzet-edycji-pierwszej#budzet-piosenki) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 261,7 tys. zł** |
+| [Piosenki](/arkusz/budzet-edycji-pierwszej#budzet-piosenki) | Plebiscyt: nagrody, nagrania dziesiątki finalistów, hymn z teledyskiem, statuetki, prowadzenie | **ok. 261,7 tys. zł** |
 | [akademii](/arkusz/budzet-edycji-pierwszej#budzet-akademii) | Pierwsza runda oceny: honoraria czytelników, vouchery rosnące z liczbą ocenionych rozmów, kalibracja | **ok. 49,3 tys. zł** |
 
-Wyliczenia pozycja po pozycji są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet rozmowy z AI, Budżet Antologii, Budżet piosenki i Budżet akademii; zakładka Wyjaśnienia opisuje, jak czytać każdą kolumnę.
+Wyliczenia pozycja po pozycji są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Rozmowy z AI, Budżet Antologii, Budżet Piosenki i Budżet akademii; zakładka Wyjaśnienia opisuje, jak czytać każdą kolumnę.
 
 Razem ok. 1 150,2 tys. zł netto przy 937 godzinach pracy organizatora. **Honoraria jury plebiscytu i realizacja części artystycznej gali stoją na zerze** i czekają na wycenę od Michała Sołtana, więc Budżet P jeszcze urośnie.
 
