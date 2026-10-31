@@ -81,6 +81,12 @@ Nie wzięło się to z ambicji, tylko z rachunku kosztu po stronie uczestnika. *
 
 Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa trójka bierze wszystko, a siedem wyróżnień jest honorowe.** Wyróżnienie w plebiscycie filmowym ma wartość, której nie da się wypłacić - miejsce w dziesiątce finalistów, wpis w Archiwum z jawną punktacją i miejsce w zestawie kierowanym do dystrybutora. Rozproszenie puli na dziesięć równych części obniżyłoby pierwszą nagrodę do poziomu, przy którym nikt nie podejmie się produkcji.
 
+**Jak to wygląda na tle polskich nagród filmowych.** Odniesienie, które da się sprawdzić: w Koszalińskim Festiwalu Debiutów Filmowych „Młodzi i Film", czyli najważniejszym polskim przeglądzie debiutów, regulamin na 2026 rok przewiduje **20 000 zł za debiut pełnometrażowy i po 10 000 zł w konkursie krótkometrażowym** - osobno dla fabuły, dokumentu i animacji. Nagroda główna tego plebiscytu jest zatem pięć razy wyższa niż nagroda za pełnometrażowy debiut i dziesięć razy wyższa niż nagroda za film krótkometrażowy na festiwalu, który te filmy od czterdziestu lat ogląda.
+
+Powód tej różnicy nie leży w ambicji, tylko w konstrukcji. **Festiwal nagradza film, który już istnieje i został za coś nakręcony** - najczęściej za dotację Polskiego Instytutu Sztuki Filmowej, za pieniądze szkoły filmowej, telewizji albo producenta. Nagroda festiwalowa jest premią do produkcji, która i tak została sfinansowana. **Tutaj jest odwrotnie: film ma dopiero powstać, na potrzeby plebiscytu, a Organizator nie daje na produkcję ani złotówki.** Jedynymi pieniędzmi w całym równaniu są nagrody, i to one muszą unieść rok pracy, sprzęt, ekipę i ryzyko, że dziesiątka finalistów się nie uda. Nagroda na poziomie dwudziestu tysięcy nie przesunęłaby niczyjej decyzji o wejściu w taki projekt; stu tysięcy - przesuwa.
+
+To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć równych części. Dziesięć razy po osiemnaście tysięcy daje dziesięciu zadowolonych finalistów i zero filmów, które ktoś by dla tej nagrody zrobił.
+
 **Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.** Chroni to uczestników danej edycji, a Fundatorowi daje pewność, że ogłoszona kwota jest kwotą ostateczną w dół.
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
