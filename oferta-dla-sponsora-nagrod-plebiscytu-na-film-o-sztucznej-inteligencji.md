@@ -283,7 +283,7 @@ Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Cztery d
 
 1. **Projekt umowy właściwej** w ostatecznym brzmieniu, wraz z zapisami o trzech transzach, odbiorze etapów, progu zgłoszeń i klauzuli rozliczenia, opisanymi wyżej.
 2. **Rozpis 290 godzin na zakresy i miesiące**, po którym widać, co znaczy „odebrany etap", bez znajomości organizacji plebiscytu.
-3. **Wycena sześciu pozycji otwartych** - honorariów jury za ocenę i za etap przygotowawczy, przygotowania zwiastunów, pokazów kinowych, dojazdu finalistów i obsługi prawnej - w postaci kalkulacji z wariantami, nie kwoty wpisanej z góry.
+3. **Wycena czterech pozycji otwartych** - honorariów jury za ocenę i za etap przygotowawczy, przygotowania technicznego zwiastunów oraz obsługi prawnej regulaminu - czyli dokładnie tych czterech, które w kosztorysie stoją jako „do ustalenia", w postaci kalkulacji z wariantami, nie kwoty wpisanej z góry.
 4. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 
 Wszystkie cztery przygotowujemy na prośbę, bez zobowiązania po stronie Fundatora i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, rozpis godzin i wycena pozycji otwartych stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Fundator jeszcze nie widział.
