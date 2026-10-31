@@ -111,6 +111,10 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | VAT 23%                                                        |      64 768,00 zł |
 | **Do zapłaty brutto**                                          | **346 368,00 zł** |
 
+**Dlaczego dojazd finalistów na galę stoi na zerze.** Przejazd i nocleg finalistów wszystkich czterech plebiscytów to jedna pozycja w [Budżecie Gali](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali) za 32 000 zł, finansowana przez sponsora gali; wpisanie jej równolegle tutaj znaczyłoby policzenie tych samych pieniędzy dwa razy. Ta rola nie jest jeszcze obsadzona, więc mówimy wprost, co się dzieje przy jej braku: jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, regulamin przewiduje ogłoszenie wyników bez gali, a wtedy nie ma ani przyjazdu finalistów, ani bloku zwiastunów - i jest to jedno ze zdarzeń pozwalających Fundatorowi wycofać nazwę. **Fundator nie dopłaca wtedy niczego, bo w jego kosztorysie ta pozycja nigdy nie stała po stronie wydatków.**
+
+Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów pokazanych na pokazie kuratorskim pokrywa ta oferta, w pozycji gwarantowanej za 12 000 zł. Film finalisty trafia więc przed publiczność z opłaconym przyjazdem autora także wtedy, gdy gala się nie odbędzie.
+
 ### Z czego składa się praca organizatora: 290 godzin
 
 | Zakres                                                         |           Godziny |
@@ -168,7 +172,7 @@ Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: dziesiątka finali
 
 Budżet policzony jest na **150 zgłoszeń filmów**. Jest to założenie przepustowości, a nie próg ani prognoza: regulamin wymaga wyłącznie tego, żeby zgłoszeń było co najmniej 10, a kontrola formalna rozliczana jest według faktycznej liczby, więc przy mniejszym naborze pozycja maleje. Skąd 150: 30 godzin kontroli formalnej to 12 minut na zgłoszenie razy 150. Tyle samo zakłada [budżet Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela), która wykonuje pierwsze przejście oceny. Pięćdziesiąt godzin dotarcia do szkół filmowych, kół filmowych i festiwali jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
 
-**Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze. Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpadają wtedy koszty przygotowania technicznego zwiastunów i dojazdu finalistów, odpowiadające im kwoty wracają, ale sam pokaz się nie odbywa. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
+**Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze. Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpada wtedy przygotowanie techniczne zwiastunów, a jeżeli zostało już opłacone, kwota wraca; przyjazd finalistów na galę jest w Budżecie Gali, nie tutaj, więc po stronie Fundatora nie ma z tego tytułu ani wydatku, ani zwrotu. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
 
 ## <!--ikona:projektornia--><span>Co dostaje uczestnik, który nie wygrał</span>
 
