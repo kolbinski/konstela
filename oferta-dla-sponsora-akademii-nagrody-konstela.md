@@ -130,7 +130,9 @@ To jest zdanie, które Sponsor może powtórzyć na zarządzie: **firma zapłaci
 
 **Próg przebudowy jest inny dla każdej kategorii, bo wynika z regulaminu, a nie z okrągłej liczby.** Przy rozmowach to **200 zgłoszeń**: powyżej tej liczby regulamin przechodzi na odczyt wstępny jednoosobowy wraz z obowiązkowym drugim odczytem dla wszystkiego przy progu punktowym i dla losowo wybranej co najmniej jednej dziesiątej odrzuconych, a powyżej 3 000 zgłoszeń przewiduje kolejną konstrukcję. Przy filmach to **300 zgłoszeń**, i tu granica jest twardsza niż w regulaminie: 150 filmów to 300 obejrzeń i co najmniej 30 oceniających, 300 filmów to już 60 osób, a przy kilku tysiącach żadne honorarium nie kupi takiej liczby godzin. **Przekroczenie progu uruchamia rozmowę o aneksie**, w której pokazujemy nową konstrukcję i jej koszt. Sponsor nie musi go podpisać: bez aneksu płaci do pułapu, a pierwsze przejście prowadzimy w trybie, który da się za te pieniądze wykonać rzetelnie - i mówimy publicznie, jak ono wygląda, bo tryb oceny jest ogłaszany przed naborem.
 
-**Przeciążenie przesuwa terminy, nie obniża jakości.** Jeżeli zgłoszeń będzie więcej, niż da się rzetelnie ocenić w terminach z regulaminu, Organizator **nie ogranicza liczby przyjmowanych zgłoszeń i nie odstępuje od przeczytania któregokolwiek z nich** - przesuwa dzień ogłoszenia wyników, ogłaszając nową datę wraz z liczbą zgłoszeń, której to dotyczy. Dla Sponsora znaczy to, że jego edycja może potrwać dłużej, niż zakłada terminarz; raporty etapów i rozliczenie końcowe przesuwają się razem z nią, a za samo przesunięcie nikt nie dopłaca. Piszemy to tutaj, bo jest to realne ryzyko tej roli, a nie przypis w regulaminie.
+**Przeciążenie przesuwa terminy, nie obniża jakości.** Jeżeli zgłoszeń będzie więcej, niż da się rzetelnie ocenić w terminach z regulaminu, Organizator **nie ogranicza liczby przyjmowanych zgłoszeń i nie odstępuje od przeczytania któregokolwiek z nich** - przesuwa dzień ogłoszenia wyników, ogłaszając nową datę wraz z liczbą zgłoszeń, której to dotyczy. Dla Sponsora znaczy to, że jego edycja może potrwać dłużej, niż zakłada terminarz; raporty etapów i rozliczenie końcowe przesuwają się razem z nią, a za samo przesunięcie nikt nie dopłaca. Piszemy to tutaj, bo jest to realne ryzyko tej roli, a nie przypis w regulaminie. **Oczekiwanie Sponsora ma jednak koniec, osobny od regulaminu:** jeżeli wyniki nie zostaną ogłoszone do **30 kwietnia 2029 roku**, czyli rok po terminie planowanym, Sponsor może wypowiedzieć umowę i otrzymuje rozliczenie pracy wykonanej do tego dnia wraz ze zwrotem reszty. Regulamin przesunięcia nie ogranicza, bo chroni uczestników - ale Sponsor nie jest uczestnikiem i nie ma powodu, żeby czekał bez końca.
+
+**Rozliczenie idzie za kategorią, nie za galą.** Blok rozliczamy po zamknięciu pierwszej rundy **w tej kategorii**, a nie po gali ani po zakończeniu oceny w pozostałych plebiscytach. Bez tego zapisu przeciążony nabór filmu wstrzymywałby rozliczenie Akademii rozmowy, która swoją pracę już skończyła - a to byłaby wada konstrukcji, nie tylko dokumentu.
 
 ### Świadczenie rzeczowe zamiast części gotówki
 
@@ -181,6 +183,25 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
 
 Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
+## <!--ikona:waga--><span>Jaki cel społeczny finansuje ta rola i po czym poznać, że został osiągnięty</span>
+
+**Cel jest jeden i wąski: uczciwe warunki oceny.** Akademia nie uczy nikogo korzystania z AI i nie daje dostępu do kultury - to robią inne role przy tej samej Nagrodzie. Robi jedną rzecz, której nie robi nikt inny: sprawia, że **każde zgłoszenie czyta człowiek, a werdykt da się sprawdzić**. Piszemy to tak wąsko, bo cel dobrany pod zarząd jest łatwiejszy do opowiedzenia i trudniejszy do wykazania.
+
+**Odbiorcy są trzej i każdego da się nazwać.** Uczestnicy, których praca zostaje przeczytana, a nie posortowana algorytmem. Oceniający, dla których jest to płatna praca na jawnych stawkach, a nie wolontariat w cudzym przedsięwzięciu. Publiczność, która dostaje punktację przy każdym zgłoszeniu, także nienagrodzonym, i może sprawdzić, czy werdykt z niej wynika.
+
+**Mierniki, które Sponsor dostaje w sprawozdaniu.** Wszystkie liczone z dokumentacji, którą i tak musimy prowadzić, więc żaden nie wymaga osobnego badania:
+
+- odsetek zgłoszeń ocenionych w **pełnym trybie ogłoszonym przed naborem** - wartość oczekiwana 100%, a każde odstępstwo wymienione z przyczyną;
+- **kompletność kart oceny**: odsetek kart wypełnionych we wszystkich czterech kryteriach wraz z uzasadnieniem;
+- **rozbieżności**: odsetek zgłoszeń, w których oceny różniły się o więcej niż dziesięć punktów w którymkolwiek kryterium, i odsetek rozpatrzonych trzecią oceną;
+- **wynik kontroli losowej** w trybie jednoosobowym: jak często drugi odczyt zmienił kwalifikację zgłoszenia;
+- **skuteczność kalibracji**: rozrzut ocen na zgłoszeniach kotwicznych przed próbą kalibracyjną i po niej;
+- **reklamacje uczestników**: liczba zgłoszonych błędów proceduralnych i rachunkowych oraz odsetek rozpatrzonych w terminie z regulaminu.
+
+Do tego **publiczne podsumowanie edycji**: ile osób czytało, ile godzin, ile zgłoszeń, co z tego wyszło. Jest publiczne, więc Sponsor nie musi nikogo przekonywać, że liczby są prawdziwe - każdy może je sprawdzić przy zgłoszeniach.
+
+**Dowód przed pieniędzmi, nie po nich.** Przed podpisaniem umowy przeprowadzamy **próbę oceniania na pięciu rzeczywistych rozmowach, ocenionych niezależnie przez trzy osoby**, i pokazujemy Sponsorowi wyniki wraz z rozrzutem ocen oraz tym, jak rozstrzygnęliśmy największe rozbieżności. Jeżeli rozrzut okaże się za duży, znaczy to, że kryteria są opisane źle - i poprawiamy opis przed naborem, a nie tłumaczymy się z niego po werdykcie. Liczba czynności nie dowodzi jakości; ta próba jest jedyną rzeczą, która w tej roli dowodzi czegokolwiek przed wydaniem pierwszej złotówki.
 
 ## <!--ikona:puchar--><span>Co otrzymuje Sponsor</span>
 

@@ -253,6 +253,16 @@ Oferta rozmowy rośnie z 606 302,88 do **622 229,28 zł**, górny limit zobowią
 
 To jest jedyne ryzyko, które recenzent zgodził się przyjąć jako ujawnione i nieusunięte - a po tej zmianie jest usunięte w części, którą da się kupić, i nazwane w części, której kupić się nie da.
 
+## Oferta Akademii po pierwszej recenzji (31.10.2026)
+
+Persona: dyrektor komunikacji dużej sieci handlowej. **Dwa zarzuty rachunkowe potwierdziły się co do złotówki** - część stała to 51 500 zł, nie 49 500 (pomijana obsługa voucherów), a blok rozmowy objęty samodzielnie kosztuje 53 760 zł, nie 51 520, bo panel nie tanieje przez to, że druga kategoria nie ma sponsora. To drugie wynikło z klucza podziału panelu wprowadzonego tego samego dnia rano: w arkuszu wszystko się zgadza, ale sponsor jednej kategorii płaciłby połowę panelu, a druga połowa nie miałaby skąd przyjść.
+
+Dwie rzeczy rozstrzygnięte decyzją, nie redakcją:
+
+**Cel społeczny tej roli to uczciwe warunki oceny** - wąsko, bo kompetencji Akademia nie uczy, a dostępu do kultury nie daje. Odbiorcy: uczestnicy, których praca zostaje przeczytana; oceniający, dla których to płatna praca na jawnych stawkach; publiczność dostająca punktację przy każdym zgłoszeniu. Do tego sześć mierników liczonych z dokumentacji, którą i tak prowadzimy, publiczne podsumowanie edycji i **próba oceniania przed podpisaniem umowy** jako dowód wykonawczy przed pieniędzmi.
+
+**Granica czasowa: 30 kwietnia 2029**, rok po planowanym terminie - po niej Sponsor może wypowiedzieć umowę i dostaje rozliczenie pracy wykonanej. Regulamin przesunięcia nie ogranicza, bo chroni uczestników; Sponsor uczestnikiem nie jest. Drugi zapis jest ważniejszy w praktyce: **rozliczenie bloku następuje po zamknięciu pierwszej rundy w tej kategorii, nie po gali** - inaczej przeciążony nabór filmu wstrzymywałby rozliczenie Akademii rozmowy, która swoją pracę skończyła.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
