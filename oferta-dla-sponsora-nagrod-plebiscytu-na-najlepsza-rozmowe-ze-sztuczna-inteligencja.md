@@ -155,6 +155,7 @@ Czego w takim przypadku nie zrobimy: nie przedłużymy naboru poza termin z regu
 Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Fundator otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z Nagrodą Uczniowską i nagrodami publiczności, bo ogłoszona pula jest przyrzeczeniem publicznym;
+- **jawna punktacja każdego etapu oceny przy każdym zgłoszeniu** oraz uzasadnienie werdyktu wskazujące, w których miejscach ostateczna kolejność odbiega od kolejności wynikającej z punktów i dlaczego. Kolejność ustala jury w dyskusji, a nie średnia arytmetyczna - ale odstępstwo od punktów musi być nazwane i opublikowane, więc werdykt da się sprawdzić, nie tylko przyjąć na słowo;
 - **przeprowadzenie oceny w trybie przewidzianym regulaminem i ogłoszenie werdyktu** w terminie z regulaminu, wraz z uzasadnieniami jury. Tryb zależy od liczby zgłoszeń i jest ogłoszony przed naborem: przy więcej niż dwudziestu zgłoszeniach są dwie rundy, akademia i jury; przy dwudziestu i mniej akademii się nie powołuje, a każdy juror ocenia wszystkie zgłoszenia. Nienaruszalne jest to, że **każde zgłoszenie czytają co najmniej dwie osoby według tej samej jawnej karty oceny**, a nie liczba rund;
 - **publiczne Archiwum zgłoszeń**, opisane niżej co do zawartości, terminu i okresu utrzymania.
 
