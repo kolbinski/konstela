@@ -83,15 +83,17 @@ README tego folderu mówi, że jego zawartość nie trafia na stronę, bo nie do
 
 List intencyjny Universitas, który jako jedyny z tego folderu ma być jawny, leży od dziś w `attachments/universitas-list-intencyjny.pdf` i jest podlinkowany w ofercie antologijnej oraz w ofercie dla partnera wydawniczego.
 
-## Dokumenty do MKiDN czekają na przeliczenie
+## Dokumenty do MKiDN przeliczone (31.10.2026)
 
-Decyzja o kopii archiwalnej podniosła Budżet Filmu, a film jest w zakresie pytania do MKiDN, więc załącznik „Zestawienie zadania" i oba pisma mają dziś liczby starsze niż arkusz. Przy przeliczaniu trzeba naprawić także dwie rzeczy, które były nieaktualne już wcześniej:
+Załącznik „Zestawienie zadania" przebudowany wprost z arkusza, według jednej reguły zapisanej też w samym pliku: wiersz to nazwany zakres, kwota to suma jego pozycji powiększona o przypadającą na nie część rezerwy i narzutu wykonawcy, nagrody rezerwy nie generują i jej nie dostają, a podział na lata bierze się z kolumny „Rok kosztu". Każda zakładka rozlicza się co do grosza.
 
-- `attachments/zestawienie-zadania.xlsx`, wiersz plebiscytu filmu, pokazuje 268 160 zł, czyli kwotę bez pokazu kuratorskiego (12 000 zł) i bez jego udziału w rezerwie (1 440 zł) - pokaz jest tam dalej traktowany jako pozycja „do wyceny", choć od 30.10 jest świadczeniem gwarantowanym. Suma „wszystkie wycenione pozycje" w tym załączniku (1 815 619,76 zł) z tego samego powodu nie zgadza się z arkuszem.
-- `mk-nota-koncepcyjna.md`, tabela plebiscytu filmu, podaje rezerwę 7 800 zł i 290 godzin pracy, a jej wiersze nie sumują się do podanego razem.
-- `mk-uzupelnienie.md` podaje 695 032,00 zł w zakresie pytania i 1 839 251,76 zł w całości. Nowa suma całości to 1 854 427,76 zł; sumę w zakresie pytania trzeba przeliczyć po poprawieniu załącznika, nie w głowie.
+- **W zakresie pytania: 738 768,00 zł**, w tym 158 592,00 zł na 2027 rok i 580 176,00 zł na 2028 (było 695 032,00).
+- **Wszystkie wycenione pozycje: 1 885 115,76 zł** w załączniku - to suma arkusza 1 880 187,76 zł plus wystawa w galerii sztuki za 4 928 zł, która stoi w aneksie Budżetu Plakatu poza jego sumą.
+- Doszły wiersze, których wcześniej nie było: pokaz kuratorski filmów finałowych, kopie archiwalne filmów wraz z magazynem oraz wystawa prac finałowych przy gali. Pokaz i wystawa były dotąd liczone jako „do wyceny", choć od 30.10 mają kwoty.
+- W nocie koncepcyjnej poprawione: suma pięciu ról spoza pytania (1 141 419,76 zł zamiast 1 115 659,76), tabela plebiscytu na film, tabela plebiscytu na plakat, która nie sumowała się do własnego razem, oraz liczby plebiscytu piosenki sprzed podniesienia nagród publiczności.
+- W uzupełnieniu dopisane dwie decyzje z 31.10: pokaz kuratorski i własne kopie archiwalne filmów, a także wzrost gali poza zakresem pytania.
 
-Pismo ma wyjść 27 listopada, więc czas jest, ale kolejność jest jedna: najpierw załącznik, potem nota, potem pismo.
+**Zostaje do zrobienia przed 27 listopada:** przeczytać całą notę jeszcze raz pod kątem liczb, bo przy tej poprawce wyszło, że stare kwoty potrafią siedzieć w zdaniach, a nie tylko w tabelach.
 
 ## Dług, który zaciągnęły oferty
 
