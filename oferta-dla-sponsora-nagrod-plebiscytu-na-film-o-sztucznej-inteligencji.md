@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który ufunduje pulę nagród w plebiscycie na film o sztucznej inteligencji - 180 000 zł brutto dla laureatów - wraz z oceną zgłoszeń, dotarciem do twórców i prowadzeniem plebiscytu przez cały rok naboru.**
 
-**Kosztuje to 281 600 zł netto** (346 368,00 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 296 776 zł netto** (365 034,48 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**. Piszemy „ma być", a nie „jest", świadomie: tego, że powstaną filmy, które bez tego plebiscytu by nie powstały, nikt dziś nie może obiecać, bo zależy to od decyzji twórców, a nie od Organizatora. Regulamin wymaga ukończenia filmu w roku edycji i zakazuje zgłaszania przeróbek wcześniejszych filmów, ale dopuszcza użycie wcześniej napisanego scenariusza i wcześniej zrealizowanych zdjęć jako składników nowego filmu. **To jest najbardziej niepewne założenie całego plebiscytu i nie ukrywamy go w drobnym druku.**
 
@@ -91,14 +91,14 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**281 600 zł netto** (346 368,00 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**296 776 zł netto** (365 034,48 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
 | **Nagrody filmu dla laureatów** (brutto, bez VAT)              | **180 000 zł** |
 | Nagrody publiczności (brutto)                                  |      12 000 zł |
 | Medal zwycięzcy i dyplomy finalistów                           |       1 200 zł |
-| Praca organizatora (290 godz. po 220 zł)                       |      63 800 zł |
+| Praca organizatora (317,5 godz. po 220 zł)                     |      69 850 zł |
 | Honoraria jury filmu za ocenę                                  |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                          |    do ustalenia |
 | Przygotowanie techniczne zwiastunów do emisji galowej          |    do ustalenia |
@@ -106,16 +106,17 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Dojazd i nocleg finalistów na galę - w budżecie gali           |             0 zł |
 | Obsługa prawna regulaminu filmu                                |    do ustalenia |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |       9 600 zł |
-| **Razem netto**                                                | **281 600 zł** |
-| VAT 23%                                                        |      64 768,00 zł |
-| **Do zapłaty brutto**                                          | **346 368,00 zł** |
+| Magazyn kopii archiwalnych filmów (5 lat retencji)             |       7 500 zł |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      11 226 zł |
+| **Razem netto**                                                | **296 776 zł** |
+| VAT 23%                                                        |      68 258,48 zł |
+| **Do zapłaty brutto**                                          | **365 034,48 zł** |
 
 **Dlaczego dojazd finalistów na galę stoi na zerze.** Przejazd i nocleg finalistów wszystkich czterech plebiscytów to jedna pozycja w [Budżecie Gali](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali) za 32 000 zł, finansowana przez sponsora gali; wpisanie jej równolegle tutaj znaczyłoby policzenie tych samych pieniędzy dwa razy. Ta rola nie jest jeszcze obsadzona, więc mówimy wprost, co się dzieje przy jej braku: jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, regulamin przewiduje ogłoszenie wyników bez gali, a wtedy nie ma ani przyjazdu finalistów, ani bloku zwiastunów - i jest to jedno ze zdarzeń pozwalających Fundatorowi wycofać nazwę. **Fundator nie dopłaca wtedy niczego, bo w jego kosztorysie ta pozycja nigdy nie stała po stronie wydatków.**
 
 Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów pokazanych na pokazie kuratorskim pokrywa ta oferta, w pozycji gwarantowanej za 12 000 zł. Film finalisty trafia więc przed publiczność z opłaconym przyjazdem autora także wtedy, gdy gala się nie odbędzie.
 
-### Z czego składa się praca organizatora: 290 godzin
+### Z czego składa się praca organizatora: 317,5 godziny
 
 | Zakres                                                         |           Godziny |
 | ---------------------------------------------------------------- | ------------------: |
@@ -126,8 +127,9 @@ Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów poka
 | Zebranie zwiastunów piątki i blok galowy                       |            40 |
 | Złożenie zestawu dziesiątki i rozmowy z dystrybutorami         |            40 |
 | Prowadzenie Projektorni i archiwum filmów                      |            25 |
+| Kopie archiwalne filmów (20 godz. + 3 min na zgłoszenie)       |          27,5 |
 | Dotarcie do szkół filmowych i festiwali                        |            50 |
-| **Razem**                                                      |       **290** |
+| **Razem**                                                      |     **317,5** |
 
 Stawka 220 zł za godzinę jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu. Najcięższa pozycja po stronie pracy to **obsługa akademii i jury, 60 godzin**: w plebiscycie filmowym ocena jednego zgłoszenia zajmuje tyle, ile trwa film, więc przydziały trzeba rozpisać tak, żeby żaden oceniający nie dostał dwudziestu godzin materiału.
 
@@ -140,7 +142,9 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 - **przygotowanie techniczne zwiastunów do emisji galowej** - normalizacja formatu, dźwięku i napisów piątki zwiastunów, bez ingerencji w treść;
 - **obsługa prawna regulaminu filmu** - zakres wskaże konsultacja prawna; regulamin filmu jest najbardziej złożony z czterech ze względu na prawa do muzyki i warstwę licencyjną.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 80 000 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu oraz pokazu kuratorskiego. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 93 550 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu, pokazu kuratorskiego oraz magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+
+**Po co magazyn kopii archiwalnych.** Film leży na kanale autora, a kanał może zniknąć razem z nim - i wtedy Archiwum zostaje z martwym linkiem, a pokazu kuratorskiego nie ma z czego zrobić. Dlatego po zamknięciu naboru Organizator pobiera kopię każdego zgłoszonego filmu i przechowuje ją w magazynie obiektowym w Unii Europejskiej, z kopią zapasową, przez pięć lat. **Kopia nie jest udostępniana publicznie**: służy dokumentacji edycji, ustaleniu, co było wersją plebiscytową, oraz projekcji na pokazie kuratorskim, na którą uczestnik zgadza się osobno. Przy wycofaniu zgłoszenia kopia jest usuwana, podobnie jak przy skutecznym zarzucie naruszenia praw osób trzecich. O przechowywaniu po upływie pięciu lat rozstrzyga Rada Fundacji. W plebiscycie na rozmowę Organizator robi to samo od początku; przy filmach jest to zmiana wprowadzona 31 października 2026 roku, bo poprzednia konstrukcja opierała trwałość Archiwum wyłącznie na tym, co autor zostawi w internecie.
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
@@ -148,11 +152,13 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 
 **Pula nagród i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. W plebiscycie filmowym ma to wagę większą niż gdziekolwiek indziej, bo uczestnik podejmuje na tej podstawie decyzję o produkcji filmu.
 
-Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów. **Praca organizatora, honoraria zespołu oceniającego uzasadnienia i rezerwa, czyli 76 400 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
+Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 193 200 zł. **Praca organizatora, honorarium zespołu oceniającego uzasadnienia, magazyn kopii archiwalnych i rezerwa, czyli 91 576 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
 
 1. **Po ogłoszeniu składu jury i akademii oraz uruchomieniu Projektorni.**
 2. **Po zamknięciu naboru oraz zakończeniu weryfikacji formalnej i weryfikacji historii zgłoszonych filmów.**
 3. **Po przyjęciu sprawozdania z rozliczenia edycji** - reszta zadań oraz rezerwa.
+
+**Pokaz kuratorski, 12 000 zł, rozliczany jest po pokazie**, na podstawie faktur kina albo instytucji kultury, rachunków za przejazd i nocleg twórców oraz raportu z wydarzenia. Jest to jedyna pozycja tej oferty rozliczana po gali, bo wtedy się odbywa.
 
 **Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły, a dwie pozycje zależne od frekwencji - kontrola formalna i weryfikacja historii zgłoszonego filmu - według rzeczywistej liczby zgłoszeń: po 12 minut na zgłoszenie przy kontroli oraz 5 godzin na metodę i narzędzie plus 8 minut na zgłoszenie przy weryfikacji historii. Przy 15 zgłoszeniach Fundator płaci za sprawdzenie 15 filmów, nie 150: te dwie pozycje schodzą z 55 godzin do 10. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
@@ -191,7 +197,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
 - **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu. Trzeba przy tym powiedzieć, czego ta kwota nie obejmuje: pierwsze przejście oceny wykonuje Akademia, finansowana przez osobnego sponsora, a honoraria jury są w tym kosztorysie pozycją otwartą. Nie jest to jednak ryzyko przerzucone na Fundatora. Potwierdzony i ogłoszony skład jury jest jednym z trzech warunków otwarcia naboru, więc jeżeli jury nie zostanie skompletowane, nabór się nie otwiera, a środki wracają w całości wraz z rozliczeniem. Nie gwarantujemy oceny za cudze pieniądze - gwarantujemy, że bez jury nie ruszy nabór, na który wystawiona jest pula Fundatora;
-- **Projektornię i archiwum filmów**, czyli publicznie dostępny zestaw zakwalifikowanych zgłoszeń, w zakresie, w jakim ich autorzy utrzymują filmy dostępnymi - Organizator nie przechowuje kopii i nie może tego zagwarantować za nich;
+- **Projektornię i Archiwum filmów**, czyli publicznie dostępny zestaw zakwalifikowanych zgłoszeń, oraz **kopię archiwalną każdego zgłoszonego filmu przechowywaną przez Organizatora przez pięć lat**. Publiczne odtwarzanie filmu pozostaje po stronie autora, więc jeżeli usunie go z serwisu, wpis w Archiwum zostaje bez działającego linku i Organizator to oznacza - sam film jednak nie przepada, bo kopia zostaje u Organizatora i z niej odbywa się pokaz kuratorski;
 - **pokaz kuratorski filmów finałowych** w postaci gwarantowanej: jeden seans blokowy z wyboru dziesiątki w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami, których przejazd i nocleg pokrywa ta oferta.
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
@@ -268,7 +274,7 @@ Fundator nie nabywa praw do zgłoszonych filmów. Prawa zostają w całości prz
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną.
 
-**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 290 godzin z tabeli powyżej, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę, czyli po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
+**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 317,5 godziny z tabeli powyżej, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę, czyli po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
 
 Kto tę umowę zawiera i kto odbiera pracę:
 
@@ -288,7 +294,7 @@ Nagrody, medal, dyplomy, honoraria jury i pozycje zewnętrzne wchodzą do budże
 Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Cztery dokumenty idą do Fundatora **przed umową przedwstępną**, czyli zanim cokolwiek podpisze i zanim weźmie na siebie jakiekolwiek zobowiązanie:
 
 1. **Projekt umowy właściwej** w ostatecznym brzmieniu, wraz z zapisami o trzech transzach, odbiorze etapów, progu zgłoszeń i klauzuli rozliczenia, opisanymi wyżej.
-2. **Rozpis 290 godzin na zakresy i miesiące**, po którym widać, co znaczy „odebrany etap", bez znajomości organizacji plebiscytu.
+2. **Rozpis 317,5 godziny na zakresy i miesiące**, po którym widać, co znaczy „odebrany etap", bez znajomości organizacji plebiscytu.
 3. **Wycena czterech pozycji otwartych** - honorariów jury za ocenę i za etap przygotowawczy, przygotowania technicznego zwiastunów oraz obsługi prawnej regulaminu - czyli dokładnie tych czterech, które w kosztorysie stoją jako „do ustalenia", w postaci kalkulacji z wariantami, nie kwoty wpisanej z góry.
 4. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 

@@ -347,6 +347,16 @@ Pytania powstały przy sprawdzaniu [oferty mecenatu](/oferta-dla-mecenasa-antolo
 
 9. **Zwolnienie podatkowe przy nagrodzie za uzasadnienie głosu.** Nagroda wynosi 2 000 zł, a art. 21 ust. 1 pkt 68 ustawy o PIT zwalnia nagrody z dziedziny kultury i sztuki o wartości nieprzekraczającej 2 000 zł. Czy kwota równa progowi mieści się w zwolnieniu?
 
+## Cf. Plebiscyt na film - kopia archiwalna, pola eksploatacji i następcy prawni (dodane 31.10.2026)
+
+Trzy pytania powstałe przy zmianie konstrukcji Archiwum filmów. Do 30 października Organizator nie przechowywał kopii zgłoszonych filmów i Archiwum opierało się na linkach do kanałów autorów; od 31 października regulamin filmu przewiduje własną kopię archiwalną (§ 12 ust. 2 lit. a1), nieudostępnianą publicznie, przechowywaną pięć lat.
+
+1. **Muzyka w kopii archiwalnej.** Oświadczenie Uczestnika z § 12 ust. 1 lit. a1 dotyczy praw do oprawy muzycznej filmu i zwiastuna „w zakresie koniecznym do udziału w Plebiscycie i do udzielenia licencji z ust. 2". Przechowując kopię, Organizator zwielokrotnia również muzykę zawartą w filmie. Czy oświadczenie w tym brzmieniu wystarcza, czy kopia archiwalna wymaga odrębnego oświadczenia albo odrębnej podstawy - zwłaszcza gdy Uczestnik korzysta z muzyki licencjonowanej na użytek internetowy.
+
+2. **Pola eksploatacji przy projekcji.** Do 31 października § 12 ust. 2z wyliczał wyłącznie utrwalanie, zwielokrotnianie cyfrowe, wprowadzanie do pamięci i publiczne udostępnianie w sieci, a regulamin przewidywał przy tym emisję zwiastuna na gali i pokaz kinowy filmów finałowych, czyli publiczne wyświetlanie. Dopisałem wyświetlanie i odtwarzanie, ograniczone do tych dwóch sytuacji. Czy takie ograniczenie zakresem celu jest wystarczająco określone, czy pola trzeba rozpisać osobno dla każdej litery ust. 2.
+
+3. **Śmierć i następcy prawni Uczestnika.** Regulamin mówi dziś, że śmierć po ustaleniu werdyktu nie powoduje utraty miejsca, a świadczenia pieniężne spełnia się według przepisów o dziedziczeniu (§ 16 ust. 1b). Trzy luki: nie ma przepisu o śmierci przed werdyktem, choć ocenie podlega film, a nie osoba; nie ma trybu na wypadek nieznanych albo milczących spadkobierców - czy właściwą drogą jest złożenie nagrody do depozytu sądowego (art. 467 KC) po bezskutecznym wezwaniu; i nie jest powiedziane, czy zgoda na pokaz kuratorski z § 12 ust. 2 lit. d wiąże spadkobierców, a także czy licencja z lit. a i a1, udzielona na czas nieoznaczony i na pięć lat, podlega wypowiedzeniu przez spadkobierców w trybie art. 68 ust. 1 prawa autorskiego.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca

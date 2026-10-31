@@ -86,7 +86,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Dwa linki: film i zwiastun
 
-**Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Oba materiały muszą być publicznie dostępne: zwiastun odtwarza się przy wpisie w Projektorni i jest pokazywany na gali, a film ma móc obejrzeć każdy, kto wejdzie do Projektorni. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Kopii filmu u siebie nie przechowujemy.
+**Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Oba materiały muszą być publicznie dostępne: zwiastun odtwarza się przy wpisie w Projektorni i jest pokazywany na gali, a film ma móc obejrzeć każdy, kto wejdzie do Projektorni. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie kwietnia 2028 roku. Po zamknięciu naboru pobieramy kopię archiwalną filmu i zwiastuna - nie publikujemy jej i nie odtwarzamy z niej filmu, o czym niżej.
 
 **W zgłoszeniu podajesz również link do zwiastuna filmu.** Zwiastun trwa od 60 do 120 sekund, jest publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
@@ -218,6 +218,12 @@ W Projektorni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona oglą
 <h3 id="archiwum">Archiwum</h3>
 
 Po ogłoszeniu wyników Projektornia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim wszystko to, co było we wpisie, wraz z rokiem edycji, a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
+
+### Kopia archiwalna u nas
+
+Po zamknięciu naboru **pobieramy kopię Twojego filmu i zwiastuna i trzymamy ją u siebie przez pięć lat** - w magazynie w Unii Europejskiej, z kopią zapasową i z dostępem ograniczonym do organizatora. **Kopii nie publikujemy i nikomu jej nie udostępniamy.** Służy trzem rzeczom: dokumentacji edycji, ustaleniu, co było wersją plebiscytową, jeżeli pojawi się spór, oraz projekcji na pokazie kuratorskim filmów finałowych - a na tę ostatnią zgadzasz się osobno i bez Twojej zgody pokaz się nie odbywa. Film w Projektorni i w Archiwum odtwarza się dalej z Twojego kanału, nie z naszej kopii.
+
+Po co to robimy, powiedzmy wprost: kanał może zniknąć, a wtedy wpis w Archiwum zostaje z martwym linkiem. Kopia nie przywróci filmu publiczności, bo jej nie publikujemy, ale zachowuje go dla dokumentacji i dla pokazu. **Usuwamy ją**, jeżeli wycofasz zgłoszenie, jeżeli zgłoszenie zostanie wykluczone, a także na Twoje żądanie złożone po ogłoszeniu werdyktu - takie żądanie nie wpływa ani na nagrodę, ani na Twoje miejsce w werdykcie. O przechowywaniu po pięciu latach decyduje Rada Fundacji i ogłasza to wcześniej na stronie Nagrody.
 
 ### Jawność punktacji
 

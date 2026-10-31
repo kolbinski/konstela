@@ -16,13 +16,13 @@ Odpowiedz na dziewięć pytań, w tej kolejności:
 
 Po pierwsze: czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzję. Jeżeli przestałeś czytać, napisz dokładnie gdzie.
 
-Po drugie: z którego budżetu miałoby to iść - treści czy marki - i czy w ogóle znajdujesz dla tego miejsce. Wymień trzy rzeczy, które kupiłbyś za te same 281 600 zł netto, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
+Po drugie: z którego budżetu miałoby to iść - treści czy marki - i czy w ogóle znajdujesz dla tego miejsce. Wymień trzy rzeczy, które kupiłbyś za te same 296 776 zł netto, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
 
 Po trzecie: oferta uzasadnia nagrodę główną 100 000 zł porównaniem z festiwalem debiutów, gdzie debiut pełnometrażowy dostaje 20 000 zł, a film krótkometrażowy 10 000 zł, i argumentem, że tutaj film ma dopiero powstać bez finansowania produkcji. Czy to uzasadnienie się broni? Czy kwota przyciągnie filmy, które chciałbyś obejrzeć, czy ludzi liczących na łatwy pieniądz?
 
 Po czwarte: regulamin wymaga filmu trwającego od 20 do 90 minut, nakręconego na potrzeby plebiscytu, przy czym Organizator nie finansuje produkcji. Regulamin nie stawia żadnego wymogu co do liczby zgłoszeń poza progiem 10, poniżej którego edycja może nie zostać rozstrzygnięta; niezależnie od tego kosztorys policzony jest na 150 zgłoszeń jako założenie robocze. Czy ta liczba jest realna w polskich warunkach? Oceń to jako osoba, która wie, ilu ludzi w Polsce jest w stanie zrobić taki film w rok.
 
-Po piąte: które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno 290 godzin pracy organizatora oraz to, że pięć pozycji nie ma kwoty, w tym honoraria jury i przygotowanie techniczne zwiastunów.
+Po piąte: które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno 317,5 godziny pracy organizatora oraz to, że cztery pozycje nie mają kwoty, w tym honoraria jury i przygotowanie techniczne zwiastunów.
 
 Po szóste: oferta obiecuje złożenie zestawu dziesiątki filmów i rozmowy z dystrybutorami, a pokazy kinowe wymienia jako pozycję bez wyceny. Jako osoba z branży oceń, jaka jest realna szansa, że taki zestaw kogokolwiek zainteresuje, i czy to jest wartość dla fundatora, czy obietnica bez pokrycia.
 
