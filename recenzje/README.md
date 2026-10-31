@@ -10,7 +10,7 @@ Kolejność ustalona 31.10.2026, od największej stawki do najmniejszej. Jedna o
 
 | # | Oferta | Prompt | Stan |
 |---|---|---|---|
-| 1 | Fundator nagród plebiscytu rozmowy - 606 302,88 zł | `oferta-rozmowa-prompt-recenzji.md` | przeszła 31.10, do powtórzenia po zmianach |
+| 1 | Fundator nagród plebiscytu rozmowy - 606 302,88 zł | `oferta-rozmowa-prompt-recenzji.md` | dwie tury 31.10, druga rozliczona |
 | 2 | Fundator nagród plebiscytu filmu - 333 596 zł | `oferta-film-prompt-recenzji.md` | przeszła 31.10, do powtórzenia po zmianach |
 | 3 | Fundator nagród plebiscytu piosenki - 312 302,24 zł | `oferta-piosenka-prompt-recenzji.md` | nie przechodziła |
 | 4 | Mecenas plebiscytu plakatu - 222 910,72 zł | `oferta-plakat-prompt-recenzji.md` | przeszła 30.10, do powtórzenia po zmianach |
@@ -35,3 +35,4 @@ Recenzje sprzed 31.10.2026 dotyczą wersji sprzed rozdzielenia ścian, Akademii,
 |---|---|---|
 | `2026-10-30-oferta-zalozycielska-oczami-wlasciciela.md` | Oferta dla Mecenasa Założycielskiego, czytana przez właściciela firmy rodzinnej wydającego własne pieniądze | Odpowiedź tak, ale wyłącznie rozpoznawcza. Teza o rezultacie niezależnym od powodzenia edycji broni się tylko w ograniczonym sensie: przy zerowej liczbie edycji zostaje gotowość, której nikt nie wykorzystał. Żąda etapów odbioru i płatności, jawnego wskazania wykonawców oraz zasad postępowania z majątkiem przy zamknięciu. |
 | `2026-10-30-oferta-mecenatu-oczami-sponsora.md` | Oferta mecenatu antologii, czytana z perspektywy członka zarządu firmy, do której zostałaby wysłana | Odmowa skierowania oferty do zarządu. Decyzja zapadła przy akapicie o siedmiu partnerach: sponsor finansuje koszty wspólne całego przedsięwzięcia i ponosi ryzyko, że pozostałe role nie zostaną obsadzone. Zarzut konstrukcyjny, nie redakcyjny. |
+| `2026-10-31-oferta-rozmowa-druga-tura.md` | Ta sama oferta po dniu zmian, ta sama persona: prezes firmy technologicznej | Odpowiedź tak, finansowanie nie - powrót po rejestracji fundacji, składzie Rady, zakontraktowanym jury i umowie z limitem. Zarzuty konstrukcyjne: rdzeń obiecywał dwie rundy oceny, których regulamin przy małym naborze nie przewiduje; Archiwum opisane bez wariantu awaryjnego z regulaminu; sprzeczny opis kosztów prawnych; limit zamyka wydatek, ale nie zamyka finansowania wykonania. Wprowadzone tego samego dnia. |
