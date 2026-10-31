@@ -1,10 +1,12 @@
-# Oferta dla Partnera telewizyjnego lub streamingowego Nagrody Konstela
+# Oferta dla Partnera streamingowego Nagrody Konstela
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
 ## <!--ikona:fala--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy nadawcy albo serwisu streamingowego, który pokaże filmy finałowe plebiscytu na film o sztucznej inteligencji** - antenę albo miejsce w katalogu dla zestawu dziesięciu filmów nakręconych na potrzeby pierwszej edycji.
+**Szukamy serwisu streamingowego, który doda filmy finałowe plebiscytu na film o sztucznej inteligencji do swojego katalogu** - miejsce w bibliotece dla zestawu dziesięciu filmów nakręconych na potrzeby pierwszej edycji.
+
+Rola jest wąska z rozmysłu i obejmuje jedną rzecz: **obecność dziesiątki w katalogu**, jako zestawu, z opisami i punktacją. Nie prosimy o promocję edycji, o kampanię ani o obecność przy naborze - to jest zakres [Partnera telewizyjnego](/oferta-dla-partnera-telewizyjnego), rola osobna i niezależna od tej. Można objąć obie, ale żadna nie jest warunkiem drugiej.
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -33,7 +35,7 @@ Co robi fundacja: składa zestaw, przedstawia twórców, pomaga uzgodnić warunk
 
 ## <!--ikona:zespol--><span>Co otrzymuje partner</span>
 
-Tytuł **Partnera telewizyjnego lub streamingowego pierwszej edycji** na stronie Nagrody, na stronie plebiscytu, w materiałach prasowych i w czołówce zapisu wideo z gali, wraz z linkiem do miejsca emisji. Zestaw gotowy do zaprogramowania jako cykl, wraz z opisami, punktacją i dostępem do twórców.
+Tytuł **Partnera streamingowego pierwszej edycji** na stronie Nagrody, na stronie plebiscytu, w materiałach prasowych i w czołówce zapisu wideo z gali, wraz z linkiem do katalogu. Zestaw gotowy do wystawienia jako kolekcja, wraz z opisami, punktacją i dostępem do twórców.
 
 ## <!--ikona:tarcza--><span>Czego nie obiecujemy</span>
 
@@ -47,7 +49,7 @@ Trzy rzeczy mogą sprawić, że zestawu nie będzie, i żadna nie zależy od par
 2. **autorzy nie zgodzą się na emisję** - każdy film wymaga odrębnej zgody, a umowę i tak zawiera autor, nie fundacja;
 3. **zestaw nie spełni Państwa progu jakościowego** - mówimy wprost, że go nie znamy, bo nie znamy jeszcze zgłoszeń.
 
-Dlatego proponujemy rozmowę o ramówce dopiero po werdykcie jury w lutym 2028, a wcześniej wyłącznie wstępne zainteresowanie bez zobowiązań po żadnej stronie.
+Dlatego proponujemy rozmowę o wystawieniu kolekcji dopiero po werdykcie jury w lutym 2028, a wcześniej wyłącznie wstępne zainteresowanie bez zobowiązań po żadnej stronie.
 
 **Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Partner ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 

@@ -24,9 +24,10 @@ Kolejność ustalona 31.10.2026, od największej stawki do najmniejszej. Jedna o
 | 12 | Partner wydawniczy płyty | `oferta-wydawca-plyty-prompt-recenzji.md` | nie przechodziła |
 | 13 | Partner galerii sztuki | `oferta-galeria-prompt-recenzji.md` | nie przechodziła |
 | 14 | Partner dystrybucji filmów | `oferta-dystrybucja-filmow-prompt-recenzji.md` | nie przechodziła |
-| 15 | Partner telewizyjny lub streamingowy | `oferta-telewizja-streaming-prompt-recenzji.md` | nie przechodziła |
-| 16 | Patron medialny | `oferta-patronat-medialny-prompt-recenzji.md` | nie przechodziła |
-| 17 | Prowadzący podcast | `oferta-prowadzacy-podcast-prompt-recenzji.md` | nie przechodziła |
+| 15 | Partner telewizyjny | `oferta-telewizja-prompt-recenzji.md` | nie przechodziła |
+| 16 | Partner streamingowy | `oferta-streaming-prompt-recenzji.md` | nie przechodziła |
+| 17 | Patron medialny | `oferta-patronat-medialny-prompt-recenzji.md` | nie przechodziła |
+| 18 | Prowadzący podcast | `oferta-prowadzacy-podcast-prompt-recenzji.md` | nie przechodziła |
 
 Recenzje sprzed 31.10.2026 dotyczą wersji sprzed rozdzielenia ścian, Akademii, podcastu, przejazdów i kosztu prawnika - ich wnioski redakcyjne zostają aktualne, ale wszystkie kwoty w nich są nieaktualne. Dlatego oferty już recenzowane wracają do kolejki.
 

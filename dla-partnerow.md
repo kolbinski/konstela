@@ -99,9 +99,14 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <p class="wiecej"><a href="/oferta-dla-partnera-dystrybucji-filmow">Czytaj więcej</a></p>
 </article>
 <article>
-<h3>Partner telewizyjny lub streamingowy</h3>
-<p><strong>Emisja filmów finałowych po pokazach kinowych</strong>: antena albo miejsce w serwisie dla zestawu dziesięciu filmów nakręconych na potrzeby edycji. Organizator składa zestaw i przedstawia autorów, natomiast umowę zawiera autor filmu i jemu przysługują wpływy - fundacja nie bierze z tego prowizji, a emisja wymaga jego odrębnej zgody.</p>
-<p class="wiecej"><a href="/oferta-dla-partnera-telewizyjnego-lub-streamingowego">Czytaj więcej</a></p>
+<h3>Partner streamingowy</h3>
+<p><strong>Dziesięć filmów finałowych w katalogu serwisu</strong>, jako zestaw, z opisami i jawną punktacją. Rola obejmuje tylko to: nie prosimy o promocję edycji ani o obecność przy naborze. Organizator składa zestaw i przedstawia autorów, natomiast umowę zawiera autor filmu i jemu przysługują wpływy - fundacja nie bierze z tego prowizji, a wystawienie wymaga jego odrębnej zgody.</p>
+<p class="wiecej"><a href="/oferta-dla-partnera-streamingowego">Czytaj więcej</a></p>
+</article>
+<article>
+<h3>Partner telewizyjny</h3>
+<p><strong>Jedna stacja towarzysząca całej edycji na antenie</strong>, od otwarcia naboru do gali: cykl w programie porannym, informacje w serwisach przy kamieniach milowych, czas antenowy na zapowiedzi naboru i relacja z gali. W żadną stronę nie płyną pieniądze - stacja wnosi antenę i pracę redakcji, my dostęp, materiał i wyłączność tej roli. Od patronatu medialnego różni się tym, że zakres antenowy jest nazwany w umowie, a partner jest jeden.</p>
+<p class="wiecej"><a href="/oferta-dla-partnera-telewizyjnego">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Partner galerii sztuki</h3>

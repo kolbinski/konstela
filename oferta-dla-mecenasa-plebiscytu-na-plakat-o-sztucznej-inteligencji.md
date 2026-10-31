@@ -318,7 +318,7 @@ Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów
 - **[Partner dystrybucji filmów](/oferta-dla-partnera-dystrybucji-filmow)** - sala i publiczność dla pokazów filmów finałowych
-- **[Partner telewizyjny lub streamingowy](/oferta-dla-partnera-telewizyjnego-lub-streamingowego)** - emisja filmów finałowych po pokazach
+- **[Partner streamingowy](/oferta-dla-partnera-streamingowego)** - emisja filmów finałowych po pokazach
 - **[Sponsor podcastu](/oferta-dla-sponsora-podcastu)** - produkcja podcastu towarzyszącego Nagrodzie wraz z honorarium prowadzącego
 - **[Prowadzący podcast](/oferta-dla-prowadzacego-podcast)** - rola dla osoby, nie dla firmy
 - **[Patronat medialny](/oferta-dla-patrona-medialnego)** - towarzyszenie pierwszej edycji

@@ -239,7 +239,7 @@ W pozostałych plebiscytach koszt wejścia jest niewielki: rozmowę się przepro
 - **wpis w Projektorni** z jawną punktacją, czyli publiczny ślad udziału;
 - **złożenie zestawu dziesiątki i rozmowy z dystrybutorami** - usługa, nie rezultat, o czym niżej.
 
-**Czego nie obiecujemy, choć do tego dążymy.** Szersza dystrybucja kinowa i emisja w serwisie streamingowym są celem Nagrody i rozmawiamy o nich z partnerami, ale **zależą od cudzej decyzji i nie są w tej ofercie ani obiecane, ani wycenione**. Umowę z dystrybutorem albo platformą zawiera autor filmu, nie Organizator, i jemu przysługują wpływy; Organizator składa zestaw, przedstawia twórców i nie bierze prowizji. Rolę partnera dystrybucji filmów oraz partnera telewizyjnego lub streamingowego opisuje strona [Dla partnerów](/dla-partnerow) i obie czekają na obsadzenie.
+**Czego nie obiecujemy, choć do tego dążymy.** Szersza dystrybucja kinowa i emisja w serwisie streamingowym są celem Nagrody i rozmawiamy o nich z partnerami, ale **zależą od cudzej decyzji i nie są w tej ofercie ani obiecane, ani wycenione**. Umowę z dystrybutorem albo platformą zawiera autor filmu, nie Organizator, i jemu przysługują wpływy; Organizator składa zestaw, przedstawia twórców i nie bierze prowizji. Role partnera dystrybucji filmów, partnera telewizyjnego i partnera streamingowego opisuje strona [Dla partnerów](/dla-partnerow) i wszystkie trzy czekają na obsadzenie.
 
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 
@@ -381,7 +381,7 @@ Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów
 - **[Partner dystrybucji filmów](/oferta-dla-partnera-dystrybucji-filmow)** - sala i publiczność dla pokazów filmów finałowych
-- **[Partner telewizyjny lub streamingowy](/oferta-dla-partnera-telewizyjnego-lub-streamingowego)** - emisja filmów finałowych po pokazach
+- **[Partner streamingowy](/oferta-dla-partnera-streamingowego)** - emisja filmów finałowych po pokazach
 - **[Sponsor podcastu](/oferta-dla-sponsora-podcastu)** - produkcja podcastu towarzyszącego Nagrodzie wraz z honorarium prowadzącego
 - **[Prowadzący podcast](/oferta-dla-prowadzacego-podcast)** - rola dla osoby, nie dla firmy
 - **[Patronat medialny](/oferta-dla-patrona-medialnego)** - towarzyszenie pierwszej edycji

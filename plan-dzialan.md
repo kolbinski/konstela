@@ -191,6 +191,14 @@ Przy okazji z not koncepcyjnych znikły trzy pozycje „do wyceny", które mają
 
 **Stan pokrycia prawnego na dziś:** zamówiona jest wyłącznie część dotycząca rozmowy i statutu. Piosenka ma gotową listę pytań bez wyceny, plakat i film nie mają nawet listy. Trzy zlecenia trzeba złożyć rozdzielnie, każde ze swojego budżetu.
 
+## Oferta telewizyjna rozbita na dwie role (31.10.2026)
+
+Jedna oferta opisywała dwie zupełnie różne rzeczy. **Partner streamingowy** dodaje dziesięć filmów finałowych do katalogu i tyle - nie prosimy go o promocję edycji ani o obecność przy naborze. **Partner telewizyjny** towarzyszy całej edycji na antenie: cykl w paśmie porannym przez rok naboru, wejścia w serwisach przy kamieniach milowych, czas antenowy na zapowiedzi, relacja z gali, opcjonalnie prowadzący wieczór. Zupełnie inny adresat, inna skala, inna rozmowa - sklejone razem nie trafiały w żadnego z nich.
+
+W obu rolach nie ma przepływu pieniędzy. Przy telewizji trzeba było przy tym postawić granicę wobec patronatu medialnego i jest ona zapisana w ofercie wprost: **patron medialny nie zobowiązuje się do niczego i patronów może być kilku, partner telewizyjny umawia się na nazwane elementy anteny i jest jeden.** Bez tego zdania obie oferty konkurowałyby o tego samego adresata.
+
+Stary adres `oferta-dla-partnera-telewizyjnego-lub-streamingowego` zostaje jako strona przekierowująca, bo mógł już pójść w świat; wyjaśnia podział i prowadzi do obu ról. Prompt recenzencki też rozdzielony: telewizyjny pyta o policzenie oddawanego czasu antenowego i o granicę wobec patronatu, streamingowy został przy pytaniach o katalog i brak wyłączności. Kolejka recenzji ma teraz osiemnaście pozycji.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.

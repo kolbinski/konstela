@@ -168,7 +168,8 @@ const PUBLICZNE = new Set([
   'oferta-dla-partnera-wydawniczego-plyty',
   'oferta-dla-partnera-galerii-sztuki',
   'oferta-dla-partnera-dystrybucji-filmow',
-  'oferta-dla-partnera-telewizyjnego-lub-streamingowego',
+  'oferta-dla-partnera-telewizyjnego',
+  'oferta-dla-partnera-streamingowego',
   'oferta-dla-sponsora-podcastu',
   'oferta-dla-prowadzacego-podcast',
   'oferta-dla-patrona-medialnego',
@@ -198,7 +199,8 @@ const OFERTY = new Set([
   'oferta-dla-partnera-wydawniczego-plyty',
   'oferta-dla-partnera-galerii-sztuki',
   'oferta-dla-partnera-dystrybucji-filmow',
-  'oferta-dla-partnera-telewizyjnego-lub-streamingowego',
+  'oferta-dla-partnera-telewizyjnego',
+  'oferta-dla-partnera-streamingowego',
   'oferta-dla-sponsora-podcastu',
   'oferta-dla-prowadzacego-podcast',
   'oferta-dla-patrona-medialnego',
@@ -218,7 +220,8 @@ const DEDYKOWANE = {
   'oferta-dla-partnera-wydawniczego-plyty': 'oferta-dla-partnera-wydawniczego-plyty',
   'oferta-dla-partnera-galerii-sztuki': 'oferta-dla-partnera-galerii-sztuki',
   'oferta-dla-partnera-dystrybucji-filmow': 'oferta-dla-partnera-dystrybucji-filmow',
-  'oferta-dla-partnera-telewizyjnego-lub-streamingowego': 'oferta-dla-partnera-telewizyjnego-lub-streamingowego',
+  'oferta-dla-partnera-telewizyjnego': 'oferta-dla-partnera-telewizyjnego',
+  'oferta-dla-partnera-streamingowego': 'oferta-dla-partnera-streamingowego',
   'oferta-dla-sponsora-podcastu': 'oferta-dla-sponsora-podcastu',
   'oferta-dla-prowadzacego-podcast': 'oferta-dla-prowadzacego-podcast',
   'oferta-dla-patrona-medialnego': 'oferta-dla-patrona-medialnego',
@@ -273,8 +276,10 @@ const OPISY = {
     'Wystawa dziesięciu plakatów finałowych po gali, z wernisażem i cichą licytacją oryginałów: co wnosi galeria, co fundacja i czego nie obiecujemy.',
   'oferta-dla-partnera-dystrybucji-filmow':
     'Sala i publiczność dla filmów finałowych plebiscytu na film o sztucznej inteligencji: co to za filmy, kto z kim podpisuje umowę i co dostaje partner.',
-  'oferta-dla-partnera-telewizyjnego-lub-streamingowego':
-    'Emisja filmów finałowych plebiscytu na film o sztucznej inteligencji: co to za materiał, dlaczego umowę zawiera autor i czego nie obiecujemy.',
+  'oferta-dla-partnera-telewizyjnego':
+    'Stacja telewizyjna towarzysząca całej pierwszej edycji na antenie: cykl w programie porannym, serwisy, relacja z gali, czym to się różni od patronatu medialnego i czego nie obiecujemy.',
+  'oferta-dla-partnera-streamingowego':
+    'Dziesięć filmów finałowych plebiscytu na film o sztucznej inteligencji w katalogu serwisu: co to za materiał, dlaczego umowę zawiera autor i czego nie obiecujemy.',
   'oferta-dla-sponsora-podcastu':
     'Produkcja 24 odcinków podcastu towarzyszącego Nagrodzie Konstela wraz z honorarium prowadzącego: o czym jest podcast, co obejmuje rola i co otrzymuje sponsor.',
   'oferta-dla-prowadzacego-podcast':
