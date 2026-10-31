@@ -226,6 +226,16 @@ Pięć spraw konstrukcyjnych, rozstrzygniętych po kolei tego samego dnia.
 
 **Zostaje do rozstrzygnięcia:** regulaminy piosenki, plakatu i filmu nie mają w ogóle warunków otwarcia naboru - ani pokrycia puli, ani ogłoszonego jury, ani konsultacji prawnej, ani pokrycia pierwszej rundy. Rozmowa ma je wszystkie. Trzeba zdecydować, czy przenieść tam ten sam zestaw.
 
+## Oferta rozmowy po pięciu turach recenzji (31.10.2026)
+
+Pięć tur w jeden dzień, ta sama persona - prezes firmy technologicznej wydający własne pieniądze. **Werdykt końcowy: rozmowa umówiona, finansowania jeszcze nie ma, a dalsze warunki dotyczą wykonania, nie tekstu**: poznania Rady Fundacji, zakontraktowanego jury, potwierdzonego finansowania akademii i umowy zgodnej z ofertą.
+
+Rzecz do zapamiętania na przyszłe tury, bo powtórzyła się dwa razy: **większość zarzutów tury trzeciej i czwartej powstała przy naprawianiu tury poprzedniej.** Gwarancja dwóch odczytów załatała jedną sprzeczność i zrobiła drugą, nowy harmonogram płatności zostawił w tekście stare odwołanie do drugiej transzy, a granica pięciu punktów dała się obejść seriami zamian. Po każdej rundzie poprawek trzeba czytać całość dokumentu, nie poprawiony akapit.
+
+Co zostało w ofercie na stałe: tabela płatności na całe 606 302,88 zł z wierszem sumy; pierwsza wpłata wymagalna dopiero po konsultacji prawnej **i** po potwierdzeniu finansowania pierwszej rundy, z prawem bezkosztowego odstąpienia w ciągu czternastu dni; rozpisane 25 godzin prowadzenia Archiwum wraz z przyznaniem, że po ich wyczerpaniu finansowania nie ma; granica odstępstwa jury liczona względem kolejności punktowej, w czterech regulaminach.
+
+**Jedyne ryzyko przyjęte świadomie i nieusunięte:** obsługa Archiwum po pierwszym roku od gali nie ma finansowania i zależy od kondycji fundacji. Recenzent przyjął to do wiadomości, zaznaczając, że musi je przedstawić swojej radzie nadzorczej. Jeżeli kiedyś znajdzie się na to pozycja budżetowa, warto wrócić do tego zdania.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
