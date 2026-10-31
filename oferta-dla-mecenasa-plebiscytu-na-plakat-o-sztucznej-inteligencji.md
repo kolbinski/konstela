@@ -187,7 +187,7 @@ Poza tytułem:
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
-**Rozliczenie następuje dwa razy**, bo obieg prac kończy się później niż edycja. W ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje **sprawozdanie z wykonania budżetu** w podziale na pozycje z tabeli powyżej, wraz z wykorzystaniem rezerwy, listą wypłaconych nagród i rozliczeniem transportu oraz polisy w zakresie dotychczas zafakturowanym. **Rozliczenie obiegu prac** - protokoły zwrotu albo wydania nabywcom **wszystkich powierzonych oryginałów**, rozliczenie wystawy w galerii i licytacji, jeżeli się odbyły, oraz końcowe rozliczenie polisy - następuje w ciągu trzydziestu dni od dnia, w którym ostatnia powierzona praca wróciła do autora albo została wydana nabywcy po licytacji. Odpowiedzialność Organizatora za każdy powierzony oryginał kończy się dopiero z tym dniem, a nie z dniem gali. Niewykorzystane kwoty wracają przy tym drugim rozliczeniu.
+**Rozliczenie następuje dwa razy**, bo obieg prac kończy się później niż edycja. W ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje **sprawozdanie z wykonania budżetu** w podziale na pozycje z tabeli powyżej, wraz z wykorzystaniem rezerwy, listą wypłaconych nagród i rozliczeniem transportu oraz polisy w zakresie dotychczas zafakturowanym. **Rozliczenie obiegu prac** - protokoły zwrotu albo wydania nabywcom **wszystkich powierzonych oryginałów**, rozliczenie wystawy w galerii i licytacji, jeżeli się odbyły, oraz końcowe rozliczenie polisy - następuje w ciągu trzydziestu dni od dnia, w którym ostatnia powierzona praca wróciła do autora albo została wydana nabywcy po licytacji. Odpowiedzialność Organizatora za **pojedynczy** oryginał kończy się w dniu, w którym ta konkretna praca wróciła do autora albo została wydana nabywcy - każda ma więc własną datę i własny protokół, a nie wspólny termin. Powyższy termin trzydziestu dni dotyczy wyłącznie sporządzenia rozliczenia zbiorczego i liczy się od ostatniej z tych dat. Niewykorzystane kwoty wracają przy tym drugim rozliczeniu.
 
 ## <!--ikona:zasady--><span>Czego oferta nie obejmuje</span>
 
@@ -197,7 +197,7 @@ Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. N
 
 **Rola nie obejmuje czterech rzeczy, z których każda ma własny budżet i własnego partnera:**
 
-- **gala** - sala, obsługa i realizacja wieczoru rozstrzygnięcia; w tej ofercie jest wyłącznie wystawa prac finałowych przy gali, i to jako pozycja do wyceny;
+- **gala** - sala, obsługa i realizacja wieczoru rozstrzygnięcia; w tej ofercie jest wyłącznie wystawa prac finałowych, wyceniona na 8 000 zł w postaci gwarantowanej i odbywająca się przy gali albo, gdyby gali nie było, w osobnym terminie. Bogatsza oprawa wystawy pozostaje pozycją do wyceny;
 - **antologia** - e-book, wydanie książkowe, audiobook i podcast; w tej ofercie jest wyłącznie uzgodnienie okładki ze zwycięzcą, nie wydanie książki;
 - **infrastruktura wspólna** - fundacja, strona, znak towarowy i narzędzia obsługujące wszystkie cztery plebiscyty, w tym panel oceny używany również przez akademię plakatu;
 - **przestrzeń galerii** - wystawa po gali zależy od pozyskania partnera galerii i nie jest w tej ofercie ani obiecana, ani wyceniona.
@@ -214,7 +214,7 @@ Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością a
 
 **Nie mamy galerii.** Wystawa po gali, wernisaż i cicha licytacja zależą od pozyskania galerii sztuki i dlatego nie są obiecane w regulaminie. Piszemy to w ofercie tak samo wprost jak na stronie dla twórców.
 
-**Przed nami.** Konsultacja prawna regulaminu plakatu, wycena wystawy przy gali i polisy obejmującej wycenę prac, uzgodnienie honorariów jury oraz pozyskanie galerii.
+**Przed nami.** Konsultacja prawna regulaminu plakatu, uzgodnienie honorariów jury, wycena polisy obejmującej wycenę prac oraz pozyskanie galerii. Wystawa w postaci gwarantowanej jest wyceniona i wchodzi do kwoty oferty; wyceny czeka wyłącznie bogatsza oprawa, a wraz z nią wybór miejsca, sposobu prezentacji i planu dotarcia do publiczności - to są rzeczy, które uzgadniamy z Mecenasem przed podpisaniem umowy, bo czternaście dni w publicznie dostępnym miejscu opisuje wykonanie wystawy, a nie jej wartość.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
