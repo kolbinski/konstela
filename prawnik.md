@@ -369,6 +369,12 @@ Trzy pytania powstałe przy zmianie konstrukcji Archiwum filmów. Do 30 paździe
    - Jak traktować tytuł rozmowy i opis odkrycia, które mogą być utworami samodzielnymi.
    - Czy dane osobowe laureatów mogą pozostać przy tym zapisie po pięciu latach i na jakiej podstawie; przyjęte dziś pięcioletnie przechowywanie danych laureatów liczone jest od zatwierdzenia sprawozdania.
 
+6. **Przechowywanie kopii dłużej niż trwa licencja na publikację.** Kopia archiwalna rozmowy sporządzana jest przy zgłoszeniu, a licencja na jej publikację trwa pięć lat. Chcielibyśmy zachować kopie dłużej, już bez udostępniania ich publicznie, żeby wynik edycji dało się zweryfikować także po tym terminie.
+
+   - Czy dalsze, niepubliczne przechowywanie kopii wymaga odrębnej zgody Uczestnika, czy mieści się w uzasadnionym interesie Organizatora, a jeżeli wymaga zgody - jak ją skonstruować, żeby jej brak nie wykluczał z plebiscytu.
+   - Jaki okres przechowywania da się obronić wobec zasady ograniczenia przechowywania z RODO i jak powiązać go z pięcioletnim przechowywaniem danych laureatów liczonym od zatwierdzenia sprawozdania.
+   - Czy depozyt migawki w repozytorium zewnętrznym (punkt 4) da się pogodzić z żądaniem usunięcia danych i z zakazem publikacji pojedynczej rozmowy - to jest pytanie o wykonalność, nie o samą podstawę prawną.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca

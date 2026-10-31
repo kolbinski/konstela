@@ -247,7 +247,9 @@ Wybrany wariant trzeci z trzech, **16 600 zł netto**, w czterech pozycjach Bud�
 - **fundusz celowy na utrzymanie Archiwum przez dziewięć kolejnych lat - 8 800 zł**, cztery godziny rocznie, odkładane w fundacji z przeznaczeniem wskazanym w umowie; przy likwidacji fundacji niewykorzystana część idzie razem z Archiwum do instytucji przejmującej;
 - **przygotowanie i złożenie migawki Archiwum w repozytorium instytucjonalnym - 3 550 zł**, pozycja warunkowa: wykracza poza dzisiejszą licencję uczestników, więc zależy od odpowiedzi kancelarii, a przy odpowiedzi odmownej kwota wraca do Fundatora.
 
-Oferta rozmowy rośnie z 606 302,88 do **624 894,88 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 430 726 zł, część etapowa do 162 168,88. Całość przedsięwzięcia: **1 995 130,82 zł**. Zakres pytania do MKiDN bez zmian, bo rozmowa stoi poza nim.
+Oferta rozmowy rośnie z 606 302,88 do **622 229,28 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 429 226 zł, część etapowa do 161 003,28. Całość przedsięwzięcia: **1 992 465,22 zł**.
+
+**Wydłużenia retencji kopii nie kupiliśmy**, choć było w wariancie. Kolejna tura recenzji wytknęła, że magazyn na dziesięć lat nie daje podstawy do przechowywania kopii dłużej, niż trwa pięcioletnia licencja; dopóki kancelaria tego nie potwierdzi, nie kupujemy magazynu, którego nie wolno nam używać. Pytanie weszło do zakresu konsultacji jako szósty punkt. Poprawiony też rachunek funduszu celowego - 7 920 zł zamiast 8 800, bo dziewięć lat po cztery godziny po 220 zł daje tyle, a rok pierwszy jest już w godzinach prowadzenia Archiwum. Zakres pytania do MKiDN bez zmian, bo rozmowa stoi poza nim.
 
 To jest jedyne ryzyko, które recenzent zgodził się przyjąć jako ujawnione i nieusunięte - a po tej zmianie jest usunięte w części, którą da się kupić, i nazwane w części, której kupić się nie da.
 
