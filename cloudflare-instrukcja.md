@@ -190,10 +190,10 @@ Sprawdzone lokalnie na symulacji reguły: `/doc/mk-list-intencyjny` i `/doc/anto
 
 `view-xlsx.html` otwiera wskazaną zakładkę na dwa sposoby:
 
-- **parametr zapytania:** `/arkusz/budzet-edycji-pierwszej?tab=antologii`
-- **kotwica:** `/arkusz/budzet-edycji-pierwszej#antologii`
+- **parametr zapytania:** `/arkusz/budzet-edycji-pierwszej#budzet-antologii`
+- **kotwica:** `/arkusz/budzet-edycji-pierwszej#budzet-antologii`
 
-Rozpoznawane są `nagrody`, `antologii`, `plebiscytu`, `akademii`, `wyjasnienia` oraz pełne nazwy zakładek w postaci uproszczonej (`budzet-nagrody`). Nieznana wartość otwiera pierwszą zakładkę zamiast pokazywać błąd. Kliknięcie zakładki wpisuje kotwicę do adresu, więc skopiowany adres odtwarza widok.
+Rozpoznawana jest pełna nazwa zakładki w postaci uproszczonej (`budzet-piosenki`, `budzet-rozmowy-z-ai`, `wyjasnienia`) oraz jej końcówka (`piosenki`). Nieznana wartość otwiera pierwszą zakładkę zamiast pokazywać błąd. W dokumentach używamy postaci z kotwicą i pełnej nazwy, bo kotwica trafia też w identyfikator sekcji na stronie bez JavaScriptu, gdzie wszystkie zakładki stoją jedna pod drugą, a skrócona końcówka przestaje działać po każdej zmianie nazwy zakładki. Kliknięcie zakładki wpisuje kotwicę do adresu, więc skopiowany adres odtwarza widok.
 
 **Dlaczego dwie postacie.** Kotwica nie dociera do serwera, więc działa niezależnie od reguł przepisujących. Parametr zapytania przechodzi przez regułę tylko wtedy, gdy ta go nie usuwa - w polu `Query → Rewrite to` pusta wartość oznacza według podpowiedzi panelu usunięcie zapytania, a zachowanie przy obu pustych polach nie jest w dokumentacji opisane. **Do sprawdzenia w praktyce:** jeżeli `?tab=antologii` na żywej stronie nie przełącza zakładki, linki w dokumentach należy przestawić na postać z kotwicą; sama przeglądarka arkusza nie wymaga wtedy żadnej zmiany.
 

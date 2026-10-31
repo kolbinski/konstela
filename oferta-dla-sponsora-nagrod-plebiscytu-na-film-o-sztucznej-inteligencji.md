@@ -91,7 +91,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**281 600 zł netto** (346 368,00 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**281 600 zł netto** (346 368,00 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -294,7 +294,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 - [polityka prywatności](/dokument/polityka-prywatnosci)
 - [regulamin plebiscytu na film](/dokument/regulamin-filmu)
 - [regulaminy czterech plebiscytów](/regulaminy)
-- [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu)
+- [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu)
 
 ## <!--ikona:wspolpraca--><span>Pozostałe role przy pierwszej edycji</span>
 

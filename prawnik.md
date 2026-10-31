@@ -267,7 +267,7 @@ Luka wykryta przy sprawdzaniu scenariusza skrajnego: co się dzieje, gdy akademi
 
 ## Cy. Sponsor akademii i vouchery dla czytelników (dodane 25.10.2026)
 
-Rozważamy osobnego sponsora pierwszej rundy oceny - najprawdopodobniej sieć handlową - który finansowałby pracę czytelników akademii **świadczeniem rzeczowym**: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii).
+Rozważamy osobnego sponsora pierwszej rundy oceny - najprawdopodobniej sieć handlową - który finansowałby pracę czytelników akademii **świadczeniem rzeczowym**: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet akademii](/arkusz/budzet-edycji-pierwszej#budzet-akademii).
 
 29. **Charakter świadczenia i podatek po stronie czytelnika.** Voucher otrzymywany przez czytelnika akademii - jak go zakwalifikować? Jeżeli czytelnik pracuje na podstawie umowy zlecenia, czy voucher stanowi część wynagrodzenia z tej umowy, czy odrębne świadczenie? Jeżeli czytelnik działa nieodpłatnie albo na podstawie porozumienia wolontariackiego, czy powstaje przychód z innych źródeł i obowiązek wystawienia PIT-11? Czy zastosowanie ma zwolnienie z art. 21 ustawy o PIT, a jeżeli tak, do jakiej kwoty? Jak to wygląda po stronie składek ZUS.
 

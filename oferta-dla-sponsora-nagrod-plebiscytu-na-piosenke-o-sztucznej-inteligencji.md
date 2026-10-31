@@ -78,7 +78,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**265 960 zł netto** (327 130,80 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plebiscytu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**265 960 zł netto** (327 130,80 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -199,7 +199,7 @@ Rola nie obejmuje:
 
 ## <!--ikona:etap--><span>Stan przygotowań</span>
 
-**Gotowe.** Regulaminy wszystkich 4 plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; regulamin plebiscytu piosenki rozstrzyga między innymi o granicach użycia AI i o obowiązkowym udziale czołowej trójki w gali. Strona plebiscytu działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plebiscytu), a statut fundacji gotowy w projekcie.
+**Gotowe.** Regulaminy wszystkich 4 plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; regulamin plebiscytu piosenki rozstrzyga między innymi o granicach użycia AI i o obowiązkowym udziale czołowej trójki w gali. Strona plebiscytu działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), a statut fundacji gotowy w projekcie.
 
 **W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej 3 osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. **Przewodnictwo jury plebiscytu piosenki jest uzgodnione z muzykiem, który zgodził się je objąć**; nazwiska nie podajemy, dopóki nie mamy pisemnego potwierdzenia, i ta sama zasada dotyczy pozostałych członków jury.
 
@@ -249,7 +249,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 - [polityka prywatności](/dokument/polityka-prywatnosci)
 - [regulamin plebiscytu piosenki](/dokument/regulamin-piosenki)
 - [regulaminy czterech plebiscytów](/regulaminy)
-- [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plebiscytu)
+- [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki)
 
 ## <!--ikona:wspolpraca--><span>Pozostałe role przy pierwszej edycji</span>
 

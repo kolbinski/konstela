@@ -62,7 +62,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**176 032 zł netto** (216 519,36 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plakatu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**176 032 zł netto** (216 519,36 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |             Netto |
 | -------------------------------------------------------------- | ------------------: |
@@ -208,7 +208,7 @@ Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością a
 
 ## <!--ikona:etap--><span>Stan przygotowań</span>
 
-**Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; regulamin plakatu wraz z kartą oceny jest w tym komplecie. Strona Nagrody i [strona plebiscytu plakatu](/plebiscyt-plakatu) działają. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plakatu).
+**Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; regulamin plakatu wraz z kartą oceny jest w tym komplecie. Strona Nagrody i [strona plebiscytu plakatu](/plebiscyt-plakatu) działają. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu).
 
 **W toku.** [Statut fundacji](/statut) jest gotowy w projekcie, ale fundacja nie jest jeszcze wpisana do rejestru. Jury nie jest skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie. Akademia plakatu jest w naborze.
 
@@ -264,7 +264,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 - [polityka prywatności](/dokument/polityka-prywatnosci)
 - [regulamin plakatu wraz z kartą oceny](/dokument/regulamin-plakatu)
 - [regulaminy czterech plebiscytów](/regulaminy)
-- [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=plakatu)
+- [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu)
 
 ## <!--ikona:wspolpraca--><span>Pozostałe role przy pierwszej edycji</span>
 

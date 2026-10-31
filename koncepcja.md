@@ -114,20 +114,20 @@ Dlaczego tak, a nie "minimum 5000 zł" na stronie:
 
 **Przesunięcie edycji na 2027 kupuje czas na sponsorów**: kilka miesięcy do wiosny, a zgłoszenia i tak otwierają się dopiero wtedy.
 
-**Budżet pierwszej edycji - cztery wnioski do czterech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia wszystkich trzech bloków są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet Nagrody, Budżet Antologii, Budżet Plebiscytu i Budżet akademii.
+**Budżet pierwszej edycji - cztery wnioski do czterech sponsorów.** Tabela poniżej jest **jedynym aktualnym zestawieniem zbiorczym** i ma być aktualizowana przy każdej zmianie kwot. Szczegółowe wyliczenia wszystkich trzech bloków są w arkuszu [budzet-edycji-pierwszej](/arkusz/budzet-edycji-pierwszej), w zakładkach Budżet rozmowy z AI, Budżet Antologii, Budżet piosenki i Budżet akademii.
 
 | Budżet | Przedmiot | Kwota | Źródło liczby |
 |---|---|---:|---|
-| Nagrody | Nagroda i gala - pula nagród, honoraria jury, gala, promocja naboru, prowadzenie plebiscytu | **ok. 561,7 tys. zł netto** | [arkusz, zakładka Budżet Nagrody](/arkusz/budzet-edycji-pierwszej?tab=nagrody) |
-| Antologii | Antologia i Archiwum - redakcja, korekta, skład, druk, utrzymanie Archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 277,6 tys. zł netto** | [arkusz, zakładka Budżet Antologii](/arkusz/budzet-edycji-pierwszej?tab=antologii) |
-| Plebiscytu | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 261,7 tys. zł netto** | [arkusz, zakładka Budżet Plebiscytu](/arkusz/budzet-edycji-pierwszej?tab=plebiscytu) |
-| akademii | Pierwsza runda oceny - honoraria czytelników i vouchery rosnące z liczbą ocenionych rozmów, kalibracja, rozliczenie | **ok. 49,3 tys. zł netto** | [arkusz, zakładka Budżet akademii](/arkusz/budzet-edycji-pierwszej?tab=akademii) |
+| rozmowy z AI | Nagroda i gala - pula nagród, honoraria jury, gala, promocja naboru, prowadzenie plebiscytu | **ok. 561,7 tys. zł netto** | [arkusz, zakładka Budżet rozmowy z AI](/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai) |
+| Antologii | Antologia i Archiwum - redakcja, korekta, skład, druk, utrzymanie Archiwum, powołanie fundacji, przebudowa strony, narzędzia AI | **ok. 277,6 tys. zł netto** | [arkusz, zakładka Budżet Antologii](/arkusz/budzet-edycji-pierwszej#budzet-antologii) |
+| piosenki | Plebiscyt na piosenkę - nagrody, nagrania dziesięciu finalistów, hymn z teledyskiem, statuetki, prowadzenie plebiscytu | **ok. 261,7 tys. zł netto** | [arkusz, zakładka Budżet piosenki](/arkusz/budzet-edycji-pierwszej#budzet-piosenki) |
+| akademii | Pierwsza runda oceny - honoraria czytelników i vouchery rosnące z liczbą ocenionych rozmów, kalibracja, rozliczenie | **ok. 49,3 tys. zł netto** | [arkusz, zakładka Budżet akademii](/arkusz/budzet-edycji-pierwszej#budzet-akademii) |
 
 **Cztery zastrzeżenia, bez których tej tabeli nie wolno sumować.**
 
 1. **Wszystkie cztery kwoty są netto i obejmują pracę organizatora oraz rezerwę**, a nie same koszty twarde. Nagrody wchodzą w nie jako kwoty brutto dla laureatów, bez VAT - tak jak w arkuszu.
-2. **Budżet Plebiscytu nie zawiera honorariów jury plebiscytu ani realizacji części artystycznej gali** - obie pozycje stoją w arkuszu na zerze i czekają na wycenę od Michała Sołtana. Po ich wpisaniu kwota Budżetu P wzrośnie.
-3. **Budżet Nagrody obejmuje galę**, a część artystyczna gali należy do Budżetu Plebiscytu. Granicę trzeba przeciąć raz i wyraźnie, zanim któraś z tych kwot pójdzie do sponsora.
+2. **Budżet piosenki nie zawiera honorariów jury plebiscytu ani realizacji części artystycznej gali** - obie pozycje stoją w arkuszu na zerze i czekają na wycenę od Michała Sołtana. Po ich wpisaniu kwota Budżetu P wzrośnie.
+3. **Budżet rozmowy z AI obejmuje galę**, a część artystyczna gali należy do Budżetu piosenki. Granicę trzeba przeciąć raz i wyraźnie, zanim któraś z tych kwot pójdzie do sponsora.
 4. **Łącznie cztery wnioski to ok. 1 150,2 tys. zł netto przy 937 godzinach pracy.** Stawka rzeczywista wychodzi 224,20 zł za godzinę wobec założonych 220, co jest sprawdzianem, że model się nie rozjeżdża.
 
 **Historia dla porządku:** pierwszy szacunek z 19.10.2026 mówił o 1,5-2,5 tys. zł i obejmował wyłącznie wydatki gotówkowe, przez co zaniżał koszt projektu kilkunastokrotnie. Rachunek uczciwy musi wyceniać pracę organizatora, nawet jeżeli pozostaje ona wkładem nieodpłatnym - edycja pierwsza to 772 godziny.
@@ -1310,7 +1310,7 @@ W trybie czytelności przycisk zostaje widoczny, bo jest narzędziem, a nie ozdo
 
 Decyzja o terminie: **nie teraz, lecz po zebraniu jury**. Powód jest praktyczny - demonstracja „oto co robi maszyna sama" mówi coś dopiero wtedy, gdy obok stoją nazwiska ludzi, którzy będą to oceniać; bez nich jest wyłącznie efektowna. Do tego czasu podstrony zostają czystymi instrukcjami dla zgłaszających, zgodnie z tym, co wyszło z przeglądu redakcyjnego. Plik `assets/plakat-ai-1.jpg` zostaje w repozytorium.
 
-**Nagroda publiczności była w regulaminie rozmowy, ale nie w jej budżecie (26.10.2026).** § 9 ust. 8 regulaminu przewiduje ją od początku, natomiast arkusz budżetowy i nota dla ministerstwa wymieniały ją tylko przy piosence, plakacie i filmie. Do „Budżetu Nagrody" doszła pozycja **3 000 zł**, tyle samo co w pozostałych trzech kategoriach; budżet rozmowy rośnie z 561 684,80 zł do **565 044,80 zł** (3 000 zł plus 12% rezerwy liczonej od pracy i kosztów), a suma wszystkich budżetów z 1 678 146,80 zł do **1 681 506,80 zł**. W nocie poprawione trzy miejsca: wiersz fundatora, suma pozycji wycenionych i tabela działań.
+**Nagroda publiczności była w regulaminie rozmowy, ale nie w jej budżecie (26.10.2026).** § 9 ust. 8 regulaminu przewiduje ją od początku, natomiast arkusz budżetowy i nota dla ministerstwa wymieniały ją tylko przy piosence, plakacie i filmie. Do „Budżetu rozmowy z AI" doszła pozycja **3 000 zł**, tyle samo co w pozostałych trzech kategoriach; budżet rozmowy rośnie z 561 684,80 zł do **565 044,80 zł** (3 000 zł plus 12% rezerwy liczonej od pracy i kosztów), a suma wszystkich budżetów z 1 678 146,80 zł do **1 681 506,80 zł**. W nocie poprawione trzy miejsca: wiersz fundatora, suma pozycji wycenionych i tabela działań.
 
 Przy wstawianiu wiersza do arkusza trzeba było ręcznie poprawić sześć formuł i dwa odwołania z zakładki „Wyjaśnienia" - `openpyxl` przy `insert_rows` nie przesuwa ani formuł, ani odwołań między arkuszami. Wartości przeliczone LibreOffice'em, żeby przeglądarka arkusza na stronie pokazywała liczby, a nie puste pola.
 

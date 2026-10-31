@@ -142,7 +142,7 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu 
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**162 162 zł netto** (199 459,26 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=antologii), który jest jawny i dostępny bez żadnych warunków.
+**162 162 zł netto** (199 459,26 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |

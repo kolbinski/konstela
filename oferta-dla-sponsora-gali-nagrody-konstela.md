@@ -48,7 +48,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**62 048 zł netto** (76 319,04 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**62 048 zł netto** (76 319,04 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |            Netto |
 | ------------------------------------------------------------ | ---------------: |
