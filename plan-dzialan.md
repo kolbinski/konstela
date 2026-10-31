@@ -9,6 +9,18 @@ Lista robocza, nie dokument do wysłania. Rozstrzygnięcia merytoryczne są w `k
 - [ ] **Wysłać DM do Matyldy Damięckiej** w sprawie jury plebiscytu plakatu. Treść przygotowana 28.10, wysyłka obsuwa się trzeci dzień.
 - [ ] **Wysłać odpowiedź do kancelarii (Marcin Mickun).** Sześć pytań, z czego dwa blokują kosztorys: wycena dopracowania statutu, dziś bez żadnej pozycji, oraz wycena konsultacji regulaminu, dziś 6 000 zł bez potwierdzenia. Treść przygotowana 30.10.
 
+## Plebiscyt filmu: najpierw dowody, potem oferta
+
+Recenzja z 31.10 z perspektywy firmy medialnej zakończyła się odmową, a jej sedno nie dotyczy dokumentu: **nie ma dowodu, że ktokolwiek nakręci dwudziestominutowy film za własne pieniądze dla szansy na nagrodę.** Pula 180 000 zł przy 150 zgłoszeniach to średnio 1 200 zł na zgłoszenie. Recenzent nie podał liczby zastępczej, ale dwanaście zgłoszeń uznał za scenariusz, do którego trzeba być przygotowanym.
+
+**Decyzja: oferty dla fundatora nagród plebiscytu filmu nie wysyłamy, dopóki nie mamy rozpoznania.** Strona zostaje dostępna, bo jest spójna i nikt jej nie dostaje na papierze.
+
+- [ ] **Rozmowa z dwiema szkołami filmowymi** - najbliżej jest PWSFTviT w Łodzi, druga do wyboru. Pytanie jedno i konkretne: czy przy nagrodzie głównej 100 000 zł i wymogu filmu od 20 minut nakręconego na potrzeby plebiscytu zgłosiłby się ktoś z ich studentów albo absolwentów i ilu.
+- [ ] **Rozmowa z jednym festiwalem krótkiego metrażu** o tym, ile filmów rocznie powstaje poza obiegiem dotacyjnym i ile z nich mieści się w przedziale 20-90 minut.
+- [ ] **Wynik wpisać do oferty jako rozpoznanie**, a nie jako założenie. Jeżeli odpowiedzi będą ostrożne, rozważyć obniżenie progu długości filmu albo przesunięcie części puli na granty produkcyjne - obie zmiany wymagają zmiany regulaminu przed otwarciem naboru.
+
+Recenzja zapisana w `recenzje/2026-10-31-oferta-film-oczami-firmy-medialnej.md`. Zarzuty wobec samego dokumentu, które zostają do naprawienia: nienaruszalny rdzeń obiecuje przeprowadzenie oceny, choć finansuje ją sponsor Akademii, a honoraria jury nie mieszczą się w cenie; dojazd finalistów przeniesiony do nieobsadzonej roli bez wskazania, kto zapłaci przy jej braku; weryfikacja historii filmu rozliczana ryczałtem, choć skaluje się z liczbą zgłoszeń; Archiwum obiecane jako trwałe, choć film może zniknąć, a Organizator nie trzyma kopii; brak odpowiedzi, co się dzieje przy dłuższej niedostępności jedynego wykonawcy.
+
 ## Dług, który zaciągnęły oferty
 
 Oferta założycielska obiecuje cztery dokumenty **przed jakimkolwiek zobowiązaniem** partnera. Żaden z nich nie istnieje. Dopóki nikt nie poprosi, nie trzeba ich pisać - ale od chwili, gdy ktoś odpowie na ofertę, są one drogą krytyczną, więc lepiej wiedzieć, co jest do zrobienia:
