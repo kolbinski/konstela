@@ -56,3 +56,68 @@ To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Przy nab
 - czy przy usunięciu dzikiej karty podnieść audyt losowy z 1/10 na więcej, i na ile.
 
 Powiązane: skalowanie akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](/dokument/koncepcja), sekcja o MEN.
+
+---
+
+# Sito uczestników - konstrukcja rundowa (31.10.2026)
+
+Nowsza propozycja niż szkic powyżej, powstała z pytania, co zrobić, gdy zgłoszeń będzie milion. Szkic z 21.10 dokłada stopnie oceny po naszej stronie i dlatego kończy się tam, gdzie kończą się pieniądze i ludzie. Ta konstrukcja przenosi pierwsze przejście na samych uczestników, więc **zdolność czytania rośnie dokładnie tak szybko jak liczba zgłoszeń**.
+
+## Dlaczego w ogóle
+
+Opłacona Akademia ma przepustowość rzędu **425 zgłoszeń** przy dwóch odczytach i minimalnej stawce - tyle wynika z puli honorariów przy górnym pułapie zobowiązania sponsora. Przy milionie zgłoszeń potrzeba 57 500 czytelników po dwadzieścia zgłoszeń każdy; nie da się ich zrekrutować i skalibrować w rok, choćby były pieniądze. Ściana jest kadrowa, nie finansowa.
+
+## Zasada
+
+**Warunkiem rozpatrzenia zgłoszenia jest przeczytanie i ocenienie trzech cudzych rozmów w rundzie.** Przydział jest losowy i ślepy, według tej samej jawnej karty oceny. Rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii; **w kolejnych rundach czytają ci, których zgłoszenia przeszły rundę poprzednią**.
+
+Konstrukcja bilansuje się sama: w każdej rundzie liczba czytających równa się liczbie zgłoszeń, bo czyta ten, czyje zgłoszenie zostało. Trzy odczyty na uczestnika to zawsze trzy odczyty na zgłoszenie, bez względu na skalę i bez administrowania.
+
+## Przebieg jednej rundy
+
+1. **Przydział.** Każdy uczestnik rundy dostaje trzy zgłoszenia i jedną **kotwicę** - zgłoszenie z punktacją rozpisaną przez nas z góry, nieoznaczone jako kotwica. Przydział jest losowy, ślepy (bez podpisu autora), z wykluczeniem własnego zgłoszenia i zgłoszeń osób powiązanych według oświadczenia.
+2. **Ocena.** Ta sama karta co w dalszych etapach: cztery kryteria po 25 punktów, uzasadnienie przy każdym.
+3. **Okno.** Czternaście dni, dwa przypomnienia. Prawo odmowy jednego przydziału bez podawania powodu, z przydziałem zastępczym.
+4. **Kontrola jakości ocen**, trzema niezależnymi narzędziami:
+   - **kotwica** - odchylenie od rozpisanej punktacji powyżej progu oznacza, że oceny tej osoby tracą wagę i trafiają do przeglądu;
+   - **normalizacja** - oceny przeliczane na odchylenie od średniej danego oceniającego, co kasuje systematyczne zaniżanie i zawyżanie; zaniżanie wszystkim przestaje cokolwiek dawać, bo obniża własny punkt odniesienia;
+   - **sprawdzenie spójności uzasadnienia z rozmową** - modelem, wyłącznie jako sygnał dla człowieka; model nie ocenia rozmowy i niczego nie rozstrzyga.
+5. **Skutki kontroli.** Zakwestionowana ocena przepada i nie liczy się do niczego; zgłoszenie, które ją straciło, dostaje odczyt uzupełniający. **Konsekwencja spada na ocenę, nie na zgłoszenie oceniającego** - inaczej powstałoby narzędzie do eliminowania konkurenta przez podrzucenie mu złego przydziału.
+6. **Wynik rundy.** Mediana znormalizowanych ocen. Awans: górna część rankingu w proporcji ustalonej przed naborem, powiększona o **dzikie karty** i o **losową próbkę kontrolną z odrzuconych**, czytaną przez opłaconą Akademię. Jeżeli próbka pokaże, że sito wycina zbyt wiele dobrych zgłoszeń, runda jest powtarzana szerzej.
+
+## Rachunek przy milionie zgłoszeń
+
+| Runda | Zgłoszeń | Odczytów | Awans |
+|---|---:|---:|---:|
+| 1 | 1 000 000 | 3 000 000 | 100 000 |
+| 2 | 100 000 | 300 000 | 10 000 |
+| 3 | 10 000 | 30 000 | 1 000 |
+| 4 | 1 000 | 3 000 | ~400 |
+
+Razem 3,33 mln odczytów, z czego 90% w pierwszej rundzie. Uczestnik, który dochodzi do końca, czyta dwanaście rozmów; uczestnik odpadający w pierwszej rundzie - trzy. **Pracy więcej ma ten, komu idzie lepiej.**
+
+Przy pięciu tysiącach zgłoszeń wystarcza jedna runda, przy pięćdziesięciu - dwie.
+
+## Trzy liczby do regulaminu
+
+- **trzy odczyty na rundę** - minimum pozwalające wziąć medianę i rozpoznać ocenę odstającą;
+- **rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii** - reguła, nie stała, więc nie trzeba zmieniać regulaminu, gdy wolumen skoczy;
+- **najwyżej dwanaście odczytów na uczestnika w całej edycji** - przy milionie wystarczają cztery rundy.
+
+## Czego ta konstrukcja nie rusza
+
+Oceny z sita **nie przyznają żadnej nagrody**. Decydują wyłącznie o awansie do płatnego etapu, a opłacona Akademia czyta zakwalifikowane zgłoszenia **od nowa, nie widząc wyników sita**. Jury pracuje jak dotąd. Nie ograniczamy liczby przyjmowanych zgłoszeń i nie pomijamy żadnego.
+
+## Co to kosztuje i czego wymaga
+
+- **Zmiany w regulaminie**: warunek rozpatrzenia zgłoszenia, zasady przydziału, kontrola jakości ocen, zwolnienia.
+- **Parametr edycji, nie przełącznik w trakcie.** Obowiązku nałożonego na uczestników nie wolno wprowadzać po tym, jak ktoś już się zgłosił, więc sito ogłaszane jest przed otwarciem naboru na podstawie wolumenu poprzedniej edycji. W pierwszej edycji wyłączone.
+- **Terminy.** Runda to około trzech tygodni: czternaście dni okna plus przydział, normalizacja i kontrola. Cztery rundy to trzy miesiące, więc przy bardzo dużym naborze wyniki przesuwają się - regulamin już to przewiduje i jest to kolejny powód tego samego przesunięcia.
+- **Panel.** Przydziały, zbieranie ocen, normalizacja i kontrola przy milionach odczytów to praca oprogramowania, tania w przeliczeniu na zgłoszenie, ale niezerowa.
+- **Weryfikacja formalna musi być automatyczna.** Sześć minut na zgłoszenie daje przy milionie sto tysięcy godzin; człowiek wchodzi wyłącznie do wyjątków.
+- **Sprawdzenie spójności modelem skaluje się liniowo**: trzy miliony sprawdzeń po dwa grosze to 60 000 zł, więc potrzebny jest limit i działanie na próbce plus na sygnałach.
+- **Pytanie do kancelarii**: przesłanie cudzej rozmowy do modelu dostawcy to powierzenie przetwarzania i wymaga podstawy w licencji uczestnika.
+
+## Zostaje do rozstrzygnięcia
+
+Proporcja awansu w rundzie (dziesiąta część to propozycja, nie wyliczenie), próg odchylenia od kotwicy, wielkość losowej próbki kontrolnej i próg błędu, przy którym rundę trzeba powtórzyć szerzej. Wszystkie cztery są parametrami jakości sita i żadnego nie wyliczymy bez próby oceniania.
