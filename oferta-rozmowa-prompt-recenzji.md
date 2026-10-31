@@ -21,7 +21,7 @@ Odpowiedz na dziewięć pytań, w tej kolejności:
 5. Które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno 327 godzin pracy organizatora oraz honoraria jury za 32 000 zł.
 6. Oferta mówi, że edycja nie zostaje rozstrzygnięta, jeżeli wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne. Czy ten próg Cię niepokoi, czy uspokaja? Co robisz, jeżeli wpłynie czternaście zgłoszeń?
 7. Co w tym dokumencie podważa zaufanie. Szukaj obietnic, których autor nie może dotrzymać, bo nie zależą od niego, liczb bez podstawy, sprzeczności i miejsc, gdzie ryzyko jest przemilczane. Cytuj zdania.
-8. Oferta daje prawo wycofania nazwy i nienaruszalny rdzeń świadczeń. Oceń, czy te zabezpieczenia są warte tyle, ile obiecują, przy kwocie tej wielkości.
+8. Oferta daje trzy zabezpieczenia: prawo wycofania nazwy, nienaruszalny rdzeń świadczeń oraz górny limit zobowiązania 640 000 zł netto, powyżej którego nie dopłacasz nic, nawet gdy wyceny dwóch pozycji bez ceny okażą się wyższe. Oceń, czy są warte tyle, ile obiecują, przy kwocie tej wielkości - i czy limit zamyka cenę na tyle, żeby dało się ją przedstawić radzie nadzorczej jako jedną liczbę.
 9. Co napisałbyś w odpowiedzi, jednym zdaniem.
 
 Zasady odpowiedzi. Nie chwal; jeśli coś jest dobre, wystarczy jedno zdanie na końcu. Nie streszczaj dokumentu. Cytuj fragmenty zamiast opisywać wrażenia. Nie proponuj przeredagowania zdań - pisz, co jest nie tak z rzeczą, którą zdanie opisuje. Jeżeli czegoś nie rozumiesz, napisz o tym wprost; niezrozumiałość jest wadą dokumentu, nie Twoją.
