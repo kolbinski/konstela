@@ -363,6 +363,12 @@ Trzy pytania powstałe przy zmianie konstrukcji Archiwum filmów. Do 30 paździe
    - Jeżeli wymaga zgody: czy może być zgodą opcjonalną przy zgłoszeniu, tak żeby jej brak nie wykluczał z plebiscytu, i jak wtedy oznaczać zgłoszenia nieobjęte migawką.
    - Czy przekazanie Archiwum innej instytucji w razie likwidacji fundacji wymaga tej samej konstrukcji, czy jest następstwem prawnym, do którego licencja przechodzi z mocy prawa.
 
+5. **Co wolno publikować po wygaśnięciu licencji.** Licencja na publikację rozmowy trwa pięć lat od ogłoszenia wyników (§ 11 ust. 3). Zakładamy, że po tym terminie kopia rozmowy przestaje być publicznie dostępna, natomiast wynik edycji zostaje: tytuł rozmowy, podpis Uczestnika, punktacja wszystkich etapów, uzasadnienie werdyktu i adres wpisu.
+
+   - Czy ta część rzeczywiście nie wymaga licencji do utworu, a jeżeli wymaga - w jakim zakresie i na jakiej podstawie może zostać utrzymana.
+   - Jak traktować tytuł rozmowy i opis odkrycia, które mogą być utworami samodzielnymi.
+   - Czy dane osobowe laureatów mogą pozostać przy tym zapisie po pięciu latach i na jakiej podstawie; przyjęte dziś pięcioletnie przechowywanie danych laureatów liczone jest od zatwierdzenia sprawozdania.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
