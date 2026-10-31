@@ -15,13 +15,13 @@ Przeczytaj ją w całości. Możesz zajrzeć do stron, do których odsyła, w ty
 Odpowiedz na dziewięć pytań, w tej kolejności:
 
 1. Czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzję. Jeżeli przestałeś czytać, napisz dokładnie gdzie.
-2. To najdroższa rola w całym przedsięwzięciu: 606 302,88 zł netto, z czego 371 000 zł to pula nagród dla laureatów. Wymień trzy rzeczy, które kupiłbyś za te pieniądze, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
+2. To najdroższa rola w całym przedsięwzięciu: 624 894,88 zł netto, z czego 371 000 zł to pula nagród dla laureatów. Wymień trzy rzeczy, które kupiłbyś za te pieniądze, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
 3. Nagroda główna wynosi 300 000 zł brutto za rozmowę z AI. Czy ta kwota przyciągnie ludzi, którzy prowadzą takie rozmowy na poważnie, czy ludzi liczących na łatwy pieniądz? Oceń też, co ta kwota mówi o Twojej firmie, gdy stoi przy jej nazwie.
 4. Ocena opiera się na czterech kryteriach o równej wadze: rozpiętość, drążenie, weryfikacja i plon. Czy da się na tej podstawie rozstrzygnąć konkurs tak, żeby wynik dał się obronić publicznie? Gdzie widzisz miejsce na zarzut uznaniowości?
 5. Które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno 327 godzin pracy organizatora oraz honoraria jury za 32 000 zł.
 6. Oferta mówi, że edycja nie zostaje rozstrzygnięta, jeżeli wpłynie mniej niż dwanaście zgłoszeń spełniających wymogi formalne. Czy ten próg Cię niepokoi, czy uspokaja? Co robisz, jeżeli wpłynie czternaście zgłoszeń?
 7. Co w tym dokumencie podważa zaufanie. Szukaj obietnic, których autor nie może dotrzymać, bo nie zależą od niego, liczb bez podstawy, sprzeczności i miejsc, gdzie ryzyko jest przemilczane. Cytuj zdania.
-8. Oferta daje trzy zabezpieczenia: prawo wycofania nazwy, nienaruszalny rdzeń świadczeń oraz górny limit zobowiązania 640 000 zł netto, powyżej którego nie dopłacasz nic, nawet gdy wyceny dwóch pozycji bez ceny okażą się wyższe. Oceń, czy są warte tyle, ile obiecują, przy kwocie tej wielkości - i czy limit zamyka cenę na tyle, żeby dało się ją przedstawić radzie nadzorczej jako jedną liczbę.
+8. Oferta daje trzy zabezpieczenia: prawo wycofania nazwy, nienaruszalny rdzeń świadczeń oraz górny limit zobowiązania 660 000 zł netto, powyżej którego nie dopłacasz nic, nawet gdy wyceny dwóch pozycji bez ceny okażą się wyższe. Oceń, czy są warte tyle, ile obiecują, przy kwocie tej wielkości - i czy limit zamyka cenę na tyle, żeby dało się ją przedstawić radzie nadzorczej jako jedną liczbę.
 9. Co napisałbyś w odpowiedzi, jednym zdaniem.
 
 Zasady odpowiedzi. Nie chwal; jeśli coś jest dobre, wystarczy jedno zdanie na końcu. Nie streszczaj dokumentu. Cytuj fragmenty zamiast opisywać wrażenia. Nie proponuj przeredagowania zdań - pisz, co jest nie tak z rzeczą, którą zdanie opisuje. Jeżeli czegoś nie rozumiesz, napisz o tym wprost; niezrozumiałość jest wadą dokumentu, nie Twoją.

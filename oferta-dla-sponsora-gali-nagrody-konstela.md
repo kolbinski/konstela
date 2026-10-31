@@ -30,7 +30,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 **Gala jest wspólna dla wszystkich czterech plebiscytów.** To daje tej roli dwie cechy, których nie ma żadna inna:
 
 - **Jeden partner jest widoczny przy czterech werdyktach naraz** - przy rozmowie, filmie, piosence i plakacie. Partner, który finansuje nagrody w jednym plebiscycie, jest widoczny przy jednym z nich.
-- **Kwota wejścia jest najniższa ze wszystkich rół** w pierwszej edycji. Pozostałe mieszczą się w przedziale od 128 940,90 zł do 606 302,88 zł netto.
+- **Kwota wejścia jest najniższa ze wszystkich rół** w pierwszej edycji. Pozostałe mieszczą się w przedziale od 128 940,90 zł do 624 894,88 zł netto.
 
 Jest to także **jedyny moment, w którym całe przedsięwzięcie dzieje się w jednym miejscu i o jednej porze**. Przez piętnaście miesięcy Nagroda jest rozproszona: zgłoszenia przychodzą zdalnie, akademia czyta u siebie, jury obraduje osobno. Na jeden wieczór w kwietniu 2028 roku laureaci, jurorzy, finaliści czterech dziedzin, media i partnerzy są w jednej sali.
 
@@ -213,7 +213,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 606 302,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 624 894,88 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 596 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 312 302,24 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 222 910,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>

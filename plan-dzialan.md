@@ -236,6 +236,21 @@ Co zostało w ofercie na stałe: tabela płatności na całe 606 302,88 zł z wi
 
 **Jedyne ryzyko przyjęte świadomie i nieusunięte:** obsługa Archiwum po pierwszym roku od gali nie ma finansowania i zależy od kondycji fundacji. Recenzent przyjął to do wiadomości, zaznaczając, że musi je przedstawić swojej radzie nadzorczej. Jeżeli kiedyś znajdzie się na to pozycja budżetowa, warto wrócić do tego zdania.
 
+## Archiwum zabezpieczone na dziesięć lat i depozyt poza fundacją (31.10.2026)
+
+Pytanie brzmiało, czy nie dopisać po prostu domeny i hostingu na trzydzieści lat. Odpowiedź: nie da się i nie o to chodzi. **Domeny mają twarde maksimum dziesięciu lat** narzucone przez ICANN, hostingu na trzydzieści lat nikt nie sprzedaje, a Archiwum i tak jest zbiorem stron statycznych, więc serwer nie jest tu kosztem. Pieniądze załatwiają najmniejszą część ryzyka: zostaje pięcioletnia licencja uczestnika i to, że ktoś musi odbierać żądania usunięcia danych.
+
+Wybrany wariant trzeci z trzech, **16 600 zł netto**, w czterech pozycjach Budżetu Rozmowy z AI:
+
+- domeny przedpłacone na dziesięć lat - 3 000 zł zamiast 250 zł za rok;
+- magazyn kopii archiwalnych wydłużony z pięciu lat do dziesięciu - 3 000 zł zamiast 1 500;
+- **fundusz celowy na utrzymanie Archiwum przez dziewięć kolejnych lat - 8 800 zł**, cztery godziny rocznie, odkładane w fundacji z przeznaczeniem wskazanym w umowie; przy likwidacji fundacji niewykorzystana część idzie razem z Archiwum do instytucji przejmującej;
+- **przygotowanie i złożenie migawki Archiwum w repozytorium instytucjonalnym - 3 550 zł**, pozycja warunkowa: wykracza poza dzisiejszą licencję uczestników, więc zależy od odpowiedzi kancelarii, a przy odpowiedzi odmownej kwota wraca do Fundatora.
+
+Oferta rozmowy rośnie z 606 302,88 do **624 894,88 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 430 726 zł, część etapowa do 162 168,88. Całość przedsięwzięcia: **1 995 130,82 zł**. Zakres pytania do MKiDN bez zmian, bo rozmowa stoi poza nim.
+
+To jest jedyne ryzyko, które recenzent zgodził się przyjąć jako ujawnione i nieusunięte - a po tej zmianie jest usunięte w części, którą da się kupić, i nazwane w części, której kupić się nie da.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
