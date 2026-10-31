@@ -10,7 +10,7 @@
 - **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją;
 - **podcast towarzyszący** Nagrodzie.
 
-**Kosztuje to 162 162 zł netto** (199 459,26 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 147 862 zł netto** (181 870,26 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
@@ -108,6 +108,8 @@ Wszystkie trzy zawierają dziesięć najwyżej ocenionych rozmów w całości, b
 
 Granica przy wydaniu książkowym przebiega tak: **mecenas antologii finansuje powstanie treści** - redakcję, korektę, skład, przygotowanie do druku i bezpłatny e-book, czyli wszystko to, z czego książka jest zrobiona. **Nakład handlowy i wprowadzenie go do księgarń bierze na siebie partner wydawniczy**, osobna rola osobnego podmiotu, z którym rozmowy są w toku. W kosztorysie poniżej jest tylko krótki nakład na galę i tylko warunkowo: drukujemy go, jeżeli wydanie księgarskie nie będzie gotowe na dzień premiery. Mecenas antologii jest wymieniony w każdym wydaniu niezależnie od tego, kto je wydrukował.
 
+**Archiwum rozmów finansuje od 31 października 2026 roku [fundator nagród plebiscytu rozmowy](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja), a nie ta rola.** Opisujemy je tutaj, bo antologia z niego wyrasta i bez niego nie miałaby z czego powstać, ale jego budowa i utrzymanie należą do tamtego kosztorysu. Zasada jest od tej daty jedna dla wszystkich czterech plebiscytów: każdy buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych.
+
 **Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną - sprawdzenie liczby słów, języka i kompletności, za które odpowiada Organizator i które nie jest oceną treści.
 
 Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgłoszenia rosną w publicznej **czytelni**, uporządkowanej wyłącznie według daty, bez rankingu i bez liczników popularności. Czytelnia **nie zawiera treści rozmów**: widać w niej tytuł, ilustrację, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia i link, który uczestnik sam opublikował u dostawcy modelu. Organizator nie zwielokrotnia cudzych rozmów na swojej stronie, zanim przejdą pełną ocenę i moderację.
@@ -145,7 +147,7 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu 
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**162 162 zł netto** (199 459,26 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-antologii), który jest jawny i dostępny bez żadnych warunków.
+**147 862 zł netto** (181 870,26 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -159,12 +161,11 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: koordynacja podcastu 
 | **Koszty bezpośrednie razem**                                     |  **91 000 zł** |
 | Redakcja i skład treści antologii, rozstrzyganie zgłoszeń oznaczonych przez oceniających (95 godz.) |      20 900 zł |
 | Koordynacja podcastu: goście, terminy, publikacja (72 godz.)      |      15 840 zł |
-| Mechanizm publikowania Archiwum na stronie (50 godz.)             |      11 000 zł |
-| Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |       9 548 zł |
-| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |      13 874 zł |
-| **Razem netto**                                                   | **162 162 zł** |
-| VAT 23%                                                           |   37 297,26 zł |
-| **Do zapłaty brutto**                                             | **199 459,26 zł** |
+| Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |       7 348 zł |
+| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |      12 774 zł |
+| **Razem netto**                                                   | **147 862 zł** |
+| VAT 23%                                                           |   34 008,26 zł |
+| **Do zapłaty brutto**                                             | **181 870,26 zł** |
 
 **W tej tabeli nie ma kosztów wspólnych całego przedsięwzięcia.** Powołanie fundacji i jej obsługa, konsultacja prawna, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty mają osobny budżet i osobną rolę - **Mecenasa Założycielskiego**. Wydzieliliśmy je, bo obciążanie nimi mecenasa antologii znaczyło, że jeden partner finansuje infrastrukturę, z której korzystają wszyscy pozostali, i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona.
 
@@ -221,7 +222,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 - **bezpłatny e-book antologii**, dostępny bez rejestracji i bez opłat, niezależnie od tego, czy znajdzie się wydawca książki;
 - **bezpłatny audiobook** czytany przez trzech lektorów, na tych samych zasadach;
-- **publiczne Archiwum rozmów** uruchomione i dostępne.
+- **antologia w wersji do druku** przekazana partnerowi wydawniczemu, jeżeli się znajdzie, bez dodatkowej opłaty.
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
@@ -315,12 +316,12 @@ Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu c
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 296 776 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 176 032 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 580 289,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 309 096 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 289 816 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 199 888 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 167 530 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 87 808 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:

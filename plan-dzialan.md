@@ -53,6 +53,25 @@ Oferta gali rośnie z 62 048 do **87 808 zł netto** (108 003,84 zł brutto), re
 
 Przy okazji poprawiony błąd w tabeli oferty gali: wiersz „Razem koszty twarde" pokazywał 21 500 zł, choć koszty twarde wynosiły 45 500 zł - liczba została z czasów przed konsolidacją przejazdów finalistów.
 
+## Ściany i archiwa rozdzielone między plebiscyty (31.10.2026)
+
+Decyzja po recenzji oferty dla fundatora nagród plebiscytu rozmowy: **każdy plebiscyt buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat.** Powód wprost z recenzji: rdzeń świadczeń obiecywał Archiwum, którego ta rola nie finansowała, bo archiwum rozmów stało w Budżecie Antologii, a skraper w Budżecie Uruchomienia. Partner ma finansować rzecz, która istnieje niezależnie od tego, czy znajdą się inni partnerzy.
+
+Co weszło do każdego z czterech plebiscytów: budowa ściany i Archiwum (50 godzin, 11 000 zł), ich prowadzenie (25 godzin, 5 500 zł), pobranie i opis kopii archiwalnych zgłoszeń oraz magazyn na pięć lat. Przy filmie budowa doszła do istniejącego prowadzenia i kopii; przy rozmowie wrócił też skraper z Budżetu Uruchomienia i magazyn wydzielony z pozycji domen i hostingu.
+
+| Budżet | Było | Jest |
+|---|---:|---:|
+| Rozmowa z AI | 547 809,76 | **580 289,76** |
+| Piosenka | 265 960 | **289 816** |
+| Plakat | 176 032 | **199 888** |
+| Film | 296 776 | **309 096** |
+| Antologia | 162 162 | **147 862** |
+| Uruchomienie | 183 480 | **167 530** |
+
+Suma całości: **1 942 449,76 zł**. W zakresie pytania do MKiDN: **798 800,00 zł** (195 552 na 2027 i 603 248 na 2028). Górny limit zobowiązania w ofercie plakatu podniesiony z 200 000 do 225 000 zł netto.
+
+**Zostaje z recenzji rozmowy** - do zrobienia przy najbliższym podejściu do tej oferty: opisany minimalny trwały rezultat (co jest w Archiwum, od kiedy działa, jak długo je utrzymujemy, jak wygląda dostęp, jak oznaczony jest fundator), górny limit zobowiązania, rozróżnienie progu dwunastu zgłoszeń od założenia stu pięćdziesięciu i od postępowania przy naborze znacznie niższym, zakres spotkania pracowników z laureatami oraz decyzja o próbie oceniania na rzeczywistych rozmowach przed podpisaniem umowy.
+
 ## Recenzje ofert: siedemnaście promptów, kolejność i jedna brakująca rzecz (31.10.2026)
 
 Każda z siedemnastu ofert ma własny prompt recenzencki z osobną personą - dotąd były cztery. Nowe trzynaście:

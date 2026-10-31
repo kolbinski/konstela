@@ -78,7 +78,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**547 809,76 zł netto** (673 806,00 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**580 289,76 zł netto** (713 756,40 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -94,11 +94,15 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Ubezpieczenie OC organizatora                                  |    do ustalenia |
 | Infrastruktura i narzędzia AI na rozstrzygnięcie edycji, I-IV 2028 |      13 333 zł |
 | Prowadzenie plebiscytu przez rok (327 godz.)                   |      71 940 zł |
+| Budowa Czytelni i Archiwum rozmów (50 godz.)                   |      11 000 zł |
+| Prowadzenie Czytelni i Archiwum rozmów (25 godz.)              |       5 500 zł |
+| Skraper i kopia archiwalna zgłoszenia (50 godz.)               |      11 000 zł |
+| Magazyn kopii archiwalnych rozmów, 5 lat retencji              |       1 500 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      16 586,76 zł |
-| **Razem netto**                                                | **547 809,76 zł** |
-| VAT 23%                                                        |  125 996,24 zł |
-| **Do zapłaty brutto**                                          | **673 806,00 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      20 066,76 zł |
+| **Razem netto**                                                | **580 289,76 zł** |
+| VAT 23%                                                        |  133 466,64 zł |
+| **Do zapłaty brutto**                                          | **713 756,40 zł** |
 
 **Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.
 
@@ -107,7 +111,9 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
 - **honoraria jury za przygotowanie karty oceny** przed otwarciem naboru;
 - **ubezpieczenie odpowiedzialności cywilnej organizatora**, którego zakres wskaże konsultacja prawna.
 
-**Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media.
+**Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
+
+**Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Fundator tej roli finansuje więc rzecz, która powstaje i działa niezależnie od tego, ilu innych partnerów uda się pozyskać.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród.** Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -229,12 +235,12 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 296 776 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 176 032 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 309 096 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 289 816 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 199 888 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 147 862 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 167 530 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 87 808 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:

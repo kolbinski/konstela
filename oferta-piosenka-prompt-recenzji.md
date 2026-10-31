@@ -13,7 +13,7 @@ Przeczytaj ją w całości. Możesz zajrzeć do stron, do których odsyła, w ty
 Odpowiedz na pytania, w tej kolejności:
 
 1. Czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzję. Jeżeli przestałeś czytać, napisz dokładnie gdzie.
-2. Wymień trzy rzeczy, które kupiłbyś za te same 265 960 zł netto w sponsoringu muzycznym, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
+2. Wymień trzy rzeczy, które kupiłbyś za te same 289 816 zł netto w sponsoringu muzycznym, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
 3. Oferta zawiera hymn Nagrody z teledyskiem za 80 000 zł netto i dziesięć sesji studyjnych po 7 500 zł. Czy te dwie pozycje kupujesz jako sponsor, czy jako mecenas? Co z nich zostaje dla Twojej marki, a co wyłącznie dla uczestników?
 4. Oferta mówi, że nagrania i prawa do utworów zostają przy autorach, a sponsor nie nabywa do nich żadnych praw. Czy przy tej kwocie jest to dla Ciebie akceptowalne? Co byś chciał w zamian i czego nie dostajesz?
 5. Które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno pracę organizatora oraz pozycje, które nie mają kwoty.

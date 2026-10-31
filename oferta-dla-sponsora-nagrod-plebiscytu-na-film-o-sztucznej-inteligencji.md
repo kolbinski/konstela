@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który ufunduje pulę nagród w plebiscycie na film o sztucznej inteligencji - 180 000 zł brutto dla laureatów - wraz z oceną zgłoszeń, dotarciem do twórców i prowadzeniem plebiscytu przez cały rok naboru.**
 
-**Kosztuje to 296 776 zł netto** (365 034,48 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 309 096 zł netto** (380 188,08 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**.
 
@@ -119,14 +119,14 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**296 776 zł netto** (365 034,48 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**309 096 zł netto** (380 188,08 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
 | **Nagrody filmu dla laureatów** (brutto, bez VAT)              | **180 000 zł** |
 | Nagrody publiczności (brutto)                                  |      12 000 zł |
 | Medal zwycięzcy i dyplomy finalistów                           |       1 200 zł |
-| Praca organizatora (317,5 godz. po 220 zł)                     |      69 850 zł |
+| Praca organizatora (367,5 godz. po 220 zł)                     |      80 850 zł |
 | Honoraria jury filmu za ocenę                                  |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                          |    do ustalenia |
 | Przygotowanie techniczne zwiastunów do emisji galowej          |    do ustalenia |
@@ -135,10 +135,10 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Obsługa prawna regulaminu filmu                                |    do ustalenia |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych filmów (5 lat retencji)             |       7 500 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      11 226 zł |
-| **Razem netto**                                                | **296 776 zł** |
-| VAT 23%                                                        |      68 258,48 zł |
-| **Do zapłaty brutto**                                          | **365 034,48 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      12 546 zł |
+| **Razem netto**                                                | **309 096 zł** |
+| VAT 23%                                                        |      71 092,08 zł |
+| **Do zapłaty brutto**                                          | **380 188,08 zł** |
 
 **Dlaczego dojazd finalistów na galę stoi na zerze.** Przejazd i nocleg finalistów wszystkich czterech plebiscytów to jedna pozycja w [Budżecie Gali](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali) za 32 000 zł, finansowana przez sponsora gali; wpisanie jej równolegle tutaj znaczyłoby policzenie tych samych pieniędzy dwa razy.
 
@@ -146,7 +146,7 @@ Ta rola nie jest jeszcze obsadzona, więc mówimy wprost, co się dzieje przy je
 
 Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów pokazanych na pokazie kuratorskim pokrywa ta oferta, w pozycji gwarantowanej za 12 000 zł. Film finalisty trafia więc przed publiczność z opłaconym przyjazdem autora także wtedy, gdy gala się nie odbędzie.
 
-### Z czego składa się praca organizatora: 317,5 godziny
+### Z czego składa się praca organizatora: 367,5 godziny
 
 | Zakres                                                         |           Godziny |
 | ---------------------------------------------------------------- | ------------------: |
@@ -158,8 +158,9 @@ Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów poka
 | Złożenie zestawu dziesiątki i rozmowy z dystrybutorami         |            40 |
 | Prowadzenie Projektorni i archiwum filmów                      |            25 |
 | Kopie archiwalne filmów (20 godz. + 3 min na zgłoszenie)       |          27,5 |
+| Budowa Projektorni i Archiwum filmów                           |            50 |
 | Dotarcie do szkół filmowych i festiwali                        |            50 |
-| **Razem**                                                      |     **317,5** |
+| **Razem**                                                      |     **367,5** |
 
 Stawka 220 zł za godzinę jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu. Najcięższa pozycja po stronie pracy to **obsługa akademii i jury, 60 godzin**: w plebiscycie filmowym ocena jednego zgłoszenia zajmuje tyle, ile trwa film, więc przydziały trzeba rozpisać tak, żeby żaden oceniający nie dostał dwudziestu godzin materiału.
 
@@ -172,7 +173,9 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 - **przygotowanie techniczne zwiastunów do emisji galowej** - normalizacja formatu, dźwięku i napisów piątki zwiastunów, bez ingerencji w treść;
 - **obsługa prawna regulaminu filmu** - zakres wskaże konsultacja prawna; regulamin filmu jest najbardziej złożony z czterech ze względu na prawa do muzyki i warstwę licencyjną.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 93 550 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu, pokazu kuratorskiego oraz magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 104 550 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu, pokazu kuratorskiego oraz magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+
+**Projektornia, Archiwum i magazyn kopii należą do tego plebiscytu.** Od 31 października 2026 roku każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych; w tym kosztorysie jest więc nie tylko ich prowadzenie, ale i budowa.
 
 **Po co magazyn kopii archiwalnych.** Film leży na kanale autora, a kanał może zniknąć razem z nim - i wtedy Archiwum zostaje z martwym linkiem, a pokazu kuratorskiego nie ma z czego zrobić. Dlatego po zamknięciu naboru Organizator pobiera kopię każdego zgłoszonego filmu i przechowuje ją w magazynie obiektowym w Unii Europejskiej, z kopią zapasową, przez pięć lat.
 
@@ -192,7 +195,7 @@ Archiwum zbierane jest natomiast w publiczną playlistę odsyłającą do kanał
 
 **Pula nagród i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. W plebiscycie filmowym ma to wagę większą niż gdziekolwiek indziej, bo uczestnik podejmuje na tej podstawie decyzję o produkcji filmu.
 
-Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 193 200 zł. **Praca organizatora, honorarium zespołu oceniającego uzasadnienia, magazyn kopii archiwalnych i rezerwa, czyli 91 576 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
+Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 193 200 zł. **Praca organizatora, honorarium zespołu oceniającego uzasadnienia, magazyn kopii archiwalnych i rezerwa, czyli 103 896 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
 
 1. **Po ogłoszeniu składu jury i akademii oraz uruchomieniu Projektorni.**
 2. **Po zamknięciu naboru oraz zakończeniu weryfikacji formalnej i weryfikacji historii zgłoszonych filmów.**
@@ -320,7 +323,7 @@ Fundator nie nabywa praw do zgłoszonych filmów. Prawa zostają w całości prz
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną.
 
-**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 317,5 godziny z tabeli powyżej, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę, czyli po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
+**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 367,5 godziny z tabeli powyżej, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę, czyli po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
 
 Kto tę umowę zawiera i kto odbiera pracę:
 
@@ -344,7 +347,7 @@ Nagrody, medal, dyplomy, honoraria jury i pozycje zewnętrzne wchodzą do budże
 Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Cztery dokumenty idą do Fundatora **przed umową przedwstępną**, czyli zanim cokolwiek podpisze i zanim weźmie na siebie jakiekolwiek zobowiązanie:
 
 1. **Projekt umowy właściwej** w ostatecznym brzmieniu, wraz z zapisami o trzech transzach, odbiorze etapów, progu zgłoszeń i klauzuli rozliczenia, opisanymi wyżej.
-2. **Rozpis 317,5 godziny na zakresy i miesiące**, po którym widać, co znaczy „odebrany etap", bez znajomości organizacji plebiscytu.
+2. **Rozpis 367,5 godziny na zakresy i miesiące**, po którym widać, co znaczy „odebrany etap", bez znajomości organizacji plebiscytu.
 3. **Wycena czterech pozycji otwartych** - honorariów jury za ocenę i za etap przygotowawczy, przygotowania technicznego zwiastunów oraz obsługi prawnej regulaminu - czyli dokładnie tych czterech, które w kosztorysie stoją jako „do ustalenia", w postaci kalkulacji z wariantami, nie kwoty wpisanej z góry.
 4. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 
@@ -362,12 +365,12 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 176 032 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 580 289,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 289 816 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 199 888 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 147 862 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 167 530 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 87 808 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
