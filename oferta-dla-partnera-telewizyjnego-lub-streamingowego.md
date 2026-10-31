@@ -39,6 +39,18 @@ Tytuł **Partnera telewizyjnego lub streamingowego pierwszej edycji** na stronie
 
 Nie obiecujemy poziomu filmów ani kompletu zgód autorów, nie obiecujemy wyłączności i nie obiecujemy, że dziesiątka powstanie - przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może nie rozstrzygnąć edycji. Mówimy to wprost, bo oferta, która tego nie mówi, jest w tej roli po prostu nieprawdziwa.
 
+## <!--ikona:tarcza--><span>Co, jeżeli nie będzie co emitować</span>
+
+Trzy rzeczy mogą sprawić, że zestawu nie będzie, i żadna nie zależy od partnera:
+
+1. **edycja nie zostaje rozstrzygnięta** - przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może jej nie rozstrzygnąć;
+2. **autorzy nie zgodzą się na emisję** - każdy film wymaga odrębnej zgody, a umowę i tak zawiera autor, nie fundacja;
+3. **zestaw nie spełni Państwa progu jakościowego** - mówimy wprost, że go nie znamy, bo nie znamy jeszcze zgłoszeń.
+
+Dlatego proponujemy rozmowę o ramówce dopiero po werdykcie jury w lutym 2028, a wcześniej wyłącznie wstępne zainteresowanie bez zobowiązań po żadnej stronie.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Partner ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

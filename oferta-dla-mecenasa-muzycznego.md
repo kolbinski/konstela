@@ -48,6 +48,16 @@ Tytuł **Mecenasa muzycznego pierwszej edycji** na stronie Nagrody, na stronie p
 
 Nie obiecujemy wydania płyty, bo to zależy od [partnera wydawniczego płyty](/oferta-dla-partnera-wydawniczego-plyty), którego jeszcze nie ma. Nie obiecujemy też liczby zgłoszeń ani tego, że edycja zostanie rozstrzygnięta - jeżeli nie zostanie, sesje się nie odbywają, a środki wracają do mecenasa albo, na jego pisemny wybór, przechodzą na kolejną edycję.
 
+## <!--ikona:tarcza--><span>Co, jeżeli edycja nie zostanie rozstrzygnięta</span>
+
+Regulamin plebiscytu na piosenkę przewiduje, że Organizator **może nie rozstrzygnąć edycji**, jeżeli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć albo jeżeli żadne nie uzyska co najmniej 50 punktów według karty oceny. Nie ma wtedy dziesiątki finalistów, więc nie ma dla kogo rezerwować studia.
+
+- **Sesje się nie odbywają**, a środki wracają do Mecenasa albo, na jego pisemny wybór, przechodzą na kolejną edycję.
+- **Nie przesuwamy sesji na zgłoszenia poza dziesiątką** i nie zapełniamy studia, żeby pozycja została wykorzystana.
+- Przy świadczeniu rzeczowym, czyli własnym studiu Mecenasa, nic nie jest należne: rezerwacje terminów są odwoływane, a sprzęt i czas realizatora zostają u niego.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Mecenas ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

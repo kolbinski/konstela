@@ -42,6 +42,12 @@ Odcinki pozostają bezpłatne i dostępne publicznie. Nagrania powstają zdalnie
 
 Fundacja jeszcze nie istnieje - wpis do KRS ma nastąpić przed 1 stycznia 2027. Podcast rusza po uruchomieniu naboru, a jego pełna postać zależy od finansowania, którego dziś nie ma. Jeżeli ta rola brzmi interesująco, najlepszym pierwszym krokiem jest rozmowa, a nie zgłoszenie - napisz, co chciałbyś w tym podcaście robić inaczej, niż to opisujemy.
 
+## <!--ikona:tarcza--><span>Co, jeżeli podcast nie ruszy</span>
+
+Uczciwie: może nie ruszyć w zaplanowanej postaci. Finansowanie produkcji i honorarium zależą od [sponsora podcastu](/oferta-dla-sponsora-podcastu), którego dziś nie ma, a nabór do plebiscytów otwiera się po spełnieniu trzech warunków regulaminowych.
+
+Co z tego wynika dla osoby, która tę rolę obejmie: **nie prosimy o wyłączność ani o zarezerwowanie kalendarza przed umową**, a rozmowę zaczynamy od tego, czego nie wiemy, nie od zaproszenia na pokład. Jeżeli cykl zostanie skrócony, rozliczamy odcinki, które powstały.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

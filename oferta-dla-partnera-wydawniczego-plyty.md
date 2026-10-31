@@ -43,6 +43,17 @@ Tytuł **Partnera wydawniczego płyty pierwszej edycji** na stronie Nagrody i st
 
 Ta rola ma sens dopiero wtedy, gdy nagrania powstaną, a te zależą od [mecenasa muzycznego](/oferta-dla-mecenasa-muzycznego) albo od fundatora nagród plebiscytu, w którego ofercie sesje dziś stoją. Rozmowę można prowadzić równolegle, ale umowa wydawnicza po naszej stronie ma sens dopiero po werdykcie jury, czyli po lutym 2028.
 
+## <!--ikona:tarcza--><span>Co, jeżeli nagrania nie powstaną</span>
+
+Płyta stoi na dwóch rzeczach, które muszą się zdarzyć wcześniej, i żadna nie zależy od wydawcy:
+
+1. **edycja zostaje rozstrzygnięta** - regulamin pozwala Organizatorowi nie rozstrzygnąć jej przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne albo gdy żadne nie uzyska 50 punktów;
+2. **sesje studyjne mają finansowanie** - dziś jest to pozycja w ofercie fundatora nagród plebiscytu piosenki albo osobna rola [mecenasa muzycznego](/oferta-dla-mecenasa-muzycznego), która nie jest obsadzona.
+
+Jeżeli którakolwiek z tych rzeczy nie zdarzy się, materiału po prostu nie ma i rozmowa o płycie wygasa bez skutków po stronie wydawcy. Dlatego nie proponujemy umowy wydawniczej przed werdyktem jury.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Partner ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

@@ -50,6 +50,17 @@ Tytuł **Sponsora podcastu pierwszej edycji** w opisie każdego odcinka, na stro
 
 Nie obiecujemy liczby odsłuchań ani miejsc na listach. Nie obiecujemy także, że przy braku sponsora podcast powstanie w pełnej postaci: dziś jest pozycją bez finansowania i mówimy to wprost, zamiast pokazywać go jako rzecz pewną.
 
+## <!--ikona:tarcza--><span>Co, jeżeli podcast nie powstanie w pełnej postaci</span>
+
+Podcast nie zależy od wyniku plebiscytu - może istnieć niezależnie od tego, ile rozmów wpłynie - ale zależy od dwóch rzeczy, których dziś nie mamy:
+
+1. **prowadzącego**, którego szukamy osobno i który nie jest jeszcze wybrany;
+2. **pełnego finansowania produkcji**, czyli tej oferty.
+
+Jeżeli cykl zostanie skrócony albo przerwany, Sponsor płaci za odcinki, które powstały, a kwoty odpowiadające odcinkom niewykonanym wracają. Rozliczenie następuje po odcinkach, a nie z góry za rok. Jeżeli nabór nie otworzy się w 2027 roku, przedstawiamy rozliczenie wydatków faktycznie poniesionych, a kwota niewykorzystana wraca albo przechodzi na kolejną edycję.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Sponsor ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

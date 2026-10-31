@@ -44,6 +44,18 @@ Przy cichej licytacji: udział w ustaleniu jej warunków i zasad podziału wpły
 
 Nie obiecujemy, że wszyscy autorzy zgodzą się na licytację ani że oryginały będą dostępne w każdym formacie - zgłoszenie plakatu nie wymaga pracy fizycznej, więc liczba oryginałów zależy od tego, co faktycznie wpłynie. Nie obiecujemy frekwencji. Nie obiecujemy też, że edycja zostanie rozstrzygnięta: jeżeli zgłoszeń będzie za mało, nie ma dziesiątki finałowej i nie ma czego wystawiać.
 
+## <!--ikona:tarcza--><span>Co, jeżeli nie będzie czego wystawiać</span>
+
+Wystawa zależy od wyniku plebiscytu i od zgód autorów. Trzy przypadki, w których się nie odbywa:
+
+1. **edycja nie zostaje rozstrzygnięta** - regulamin plebiscytu na plakat pozwala Organizatorowi nie rozstrzygnąć edycji przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne albo gdy żadne nie uzyska 50 punktów;
+2. **autorzy nie przyślą oryginałów** - zgłoszenie plakatu nie wymaga pracy fizycznej, więc liczba oryginałów zależy od tego, co faktycznie wpłynie;
+3. **autorzy nie zgodzą się na licytację** - wtedy wystawa może się odbyć, ale bez licytacji, bo zgoda na nią jest osobna i dobrowolna.
+
+Umowa z galerią obejmuje więc warunek: wystawa odbywa się, jeżeli powstanie dziesiątka finałowa i jeżeli co najmniej jej część przyśle oryginały. Nie zobowiązujemy galerii do rezerwowania terminu, dopóki nie jest znany werdykt.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Partner ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

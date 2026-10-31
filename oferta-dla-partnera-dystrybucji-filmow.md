@@ -45,6 +45,18 @@ Tytuł **Partnera dystrybucji filmów pierwszej edycji** na stronie Nagrody, na 
 
 Nie obiecujemy poziomu filmów, bo nie znamy jeszcze zgłoszeń, ani kompletu zgód autorów. Nie obiecujemy frekwencji. Nie obiecujemy też, że dziesiątka w ogóle powstanie: przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może nie rozstrzygnąć edycji.
 
+## <!--ikona:tarcza--><span>Co, jeżeli nie będzie co pokazywać</span>
+
+Pokazy zależą od wyniku plebiscytu i od zgody każdego autora osobno:
+
+1. **edycja nie zostaje rozstrzygnięta** - przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może jej nie rozstrzygnąć, a wtedy nie ma dziesiątki finałowej;
+2. **autorzy nie zgodzą się na pokaz** - licencja z regulaminu nie obejmuje projekcji bez odrębnej zgody, a tej nie wymuszamy;
+3. **dziesiątka jest słabsza, niż zakładamy** - nie znamy jeszcze ani jednego zgłoszenia i nie obiecujemy poziomu.
+
+Dlatego nie prosimy partnera o rezerwację sal przed werdyktem jury i nie podpisujemy umowy, która zobowiązuje go do pokazu filmów, których nikt jeszcze nie widział.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Partner ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

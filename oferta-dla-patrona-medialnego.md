@@ -37,6 +37,14 @@ Jedyna rzecz, o którą prosimy, to **poszanowanie embarga** na werdykty do chwi
 
 Nie obiecujemy wyłączności, bo patronów może być kilku, ani tego, że pierwsza edycja zostanie rozstrzygnięta w każdym plebiscycie - regulaminy przewidują progi, poniżej których edycja może nie zostać rozstrzygnięta. Nie obiecujemy też nazwisk jury przed ich ogłoszeniem: skład jest kompletowany, a ogłoszenie składu jest jednym z warunków otwarcia naboru.
 
+## <!--ikona:tarcza--><span>Co, jeżeli edycja nie zostanie rozstrzygnięta</span>
+
+Każdy z czterech plebiscytów ma własny próg: w plebiscycie na rozmowę edycja nie zostaje rozstrzygnięta przy mniej niż dwunastu zgłoszeniach spełniających wymogi formalne, a w plebiscytach na film, piosenkę i plakat Organizator może jej nie rozstrzygnąć przy mniej niż dziesięciu albo gdy żadne zgłoszenie nie uzyska 50 punktów według karty oceny.
+
+Co w takim przypadku dostaje patron: **informację, a nie milczenie.** Ogłaszamy to publicznie wraz z uzasadnieniem i mówimy o tym patronom, zanim ogłosimy to komukolwiek innemu. Materiału z werdyktów nie ma, bo werdyktów nie ma; akredytacja i dostęp do laureatów tracą wtedy przedmiot.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Patron ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
 **Za przedsięwzięciem stoi Krzysztof Olbiński.** Programista z dwudziestoletnim doświadczeniem, absolwent Wydziału Fizyki Technicznej, Informatyki i Matematyki Stosowanej Politechniki Łódzkiej. Pracował dla klientów w Polsce, Europie i Stanach Zjednoczonych, między innymi przez Toptal, gdzie [życiorys zawodowy jest jawny](https://www.toptal.com/developers/resume/krzysztof-olbinski).

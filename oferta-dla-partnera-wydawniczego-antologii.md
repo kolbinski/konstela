@@ -41,6 +41,14 @@ Mówimy o tym w pierwszej kolejności, bo inaczej postawiliby to Państwo w pier
 
 Nigdy treści.
 
+## <!--ikona:dokument--><span>Rozmowy, które już się toczą</span>
+
+**Wydawnictwo Universitas podpisało 30 października 2026 roku list intencyjny w sprawie antologii.** Mówimy o tym w pierwszej kolejności, bo wydawca ma prawo wiedzieć, z kim jeszcze rozmawiamy, zanim zacznie czytać propozycję.
+
+Co ten list mówi: tematyka mieści się w obszarze zainteresowań wydawniczych Universitas, a wydawnictwo deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Co mówi równie wyraźnie: **nie przesądza decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.** Powtarzamy te zastrzeżenia dokładnie w granicach, jakie list sam sobie wyznacza, i nie przedstawiamy go jako czegokolwiek więcej.
+
+Co z tego wynika dla Państwa. Rola partnera wydawniczego **nie jest obsadzona** i rozmawiamy o niej otwarcie: list intencyjny jest wstępnym zainteresowaniem jednego wydawnictwa, a nie pierwszeństwem ani wyłącznością. Decyzja o wydawcy zapada po werdykcie jury, kiedy istnieje maszynopis - wtedy, kiedy każdy wydawca ocenia tytuł na tych samych danych.
+
 ## <!--ikona:wspolpraca--><span>Co wnosi wydawca, a co fundacja</span>
 
 Wydawca bierze na siebie skład, projekt, druk nakładu handlowego, dystrybucję i sprzedaż oraz promocję tytułu w swoich kanałach.
@@ -65,6 +73,18 @@ Prawo do bezpłatnego udostępniania wydania elektronicznego na stronie Nagrody 
 Fundacja jeszcze nie istnieje: wpis do KRS ma nastąpić przed otwarciem naboru, 1 stycznia 2027. Umowa wydawnicza i tak podpisywana byłaby znacznie później, bo maszynopis powstaje w 2028 roku - dziś prosimy wyłącznie o decyzję kierunkową.
 
 Czego nie obiecujemy: nakładu, sprzedaży ani miejsca w planie wydawniczym kolejnych lat. Nie obiecujemy też, ile rozmów wpłynie - regulamin plebiscytu przewiduje, że przy mniej niż dwunastu zgłoszeniach spełniających wymogi edycja nie zostaje rozstrzygnięta, a wtedy nie ma antologii.
+
+## <!--ikona:tarcza--><span>Co, jeżeli antologia nie powstanie</span>
+
+Antologia jest wynikiem plebiscytu, a nie planem wydawniczym, więc może nie powstać. Trzy przypadki, w których tak się stanie:
+
+1. **edycja nie zostaje rozstrzygnięta** - regulamin plebiscytu na rozmowę przewiduje, że przy mniej niż dwunastu zgłoszeniach spełniających wymogi formalne nagrody nie są przyznawane; wtedy nie ma dziesiątki i nie ma tomu;
+2. **jury jednomyślnie uznaje, że żadne zgłoszenie nie spełnia kryteriów merytorycznych** - skutek jest ten sam;
+3. **nabór nie otwiera się w 2027 roku**, bo nie zostaną spełnione trzy warunki regulaminowe: pokrycie puli nagród w środkach na rachunku, ogłoszony skład jury i konsultacja prawna regulaminu.
+
+W każdym z tych przypadków po stronie wydawcy nie powstaje żadne zobowiązanie, bo umowa wydawnicza podpisywana jest po werdykcie, na gotowym maszynopisie. Mówimy o tym teraz, żeby rozmowa o planie wydawniczym na 2028 rok nie opierała się na założeniu, którego nie możemy zagwarantować.
+
+**Prawo wycofania nazwy.** Jeżeli zdarzy się którekolwiek z wymienionych wyżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Wydawca ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
