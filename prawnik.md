@@ -357,6 +357,12 @@ Trzy pytania powstałe przy zmianie konstrukcji Archiwum filmów. Do 30 paździe
 
 3. **Śmierć i następcy prawni Uczestnika.** Regulamin mówi dziś, że śmierć po ustaleniu werdyktu nie powoduje utraty miejsca, a świadczenia pieniężne spełnia się według przepisów o dziedziczeniu (§ 16 ust. 1b). Trzy luki: nie ma przepisu o śmierci przed werdyktem, choć ocenie podlega film, a nie osoba; nie ma trybu na wypadek nieznanych albo milczących spadkobierców - czy właściwą drogą jest złożenie nagrody do depozytu sądowego (art. 467 KC) po bezskutecznym wezwaniu; i nie jest powiedziane, czy zgoda na pokaz kuratorski z § 12 ust. 2 lit. d wiąże spadkobierców, a także czy licencja z lit. a i a1, udzielona na czas nieoznaczony i na pięć lat, podlega wypowiedzeniu przez spadkobierców w trybie art. 68 ust. 1 prawa autorskiego.
 
+4. **Złożenie migawki Archiwum w otwartym repozytorium danych.** Pytanie powstałe 31.10.2026 z recenzji oferty dla fundatora nagród. Archiwum ma przetrwać dłużej niż fundacja, a najmocniejszym zabezpieczeniem byłaby pełna migawka złożona w otwartym repozytorium prowadzonym przez instytucję trzecią - uczelnię, bibliotekę cyfrową albo repozytorium danych badawczych. Licencja z § 11 obejmuje publikację w Archiwum prowadzonym przez Organizatora i nie wypowiada się o zwielokrotnieniu u podmiotu trzeciego.
+
+   - Czy złożenie takiej migawki mieści się w udzielonej licencji, czy wymaga odrębnej zgody Uczestnika.
+   - Jeżeli wymaga zgody: czy może być zgodą opcjonalną przy zgłoszeniu, tak żeby jej brak nie wykluczał z plebiscytu, i jak wtedy oznaczać zgłoszenia nieobjęte migawką.
+   - Czy przekazanie Archiwum innej instytucji w razie likwidacji fundacji wymaga tej samej konstrukcji, czy jest następstwem prawnym, do którego licencja przechodzi z mocy prawa.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
