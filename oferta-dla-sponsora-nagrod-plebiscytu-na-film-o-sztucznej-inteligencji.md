@@ -119,8 +119,8 @@ Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów poka
 
 | Zakres                                                         |           Godziny |
 | ---------------------------------------------------------------- | ------------------: |
-| Kontrola formalna zgłoszeń filmów                              |            30 |
-| Weryfikacja historii zgłoszonego filmu                         |            25 |
+| Kontrola formalna zgłoszeń filmów (12 min na zgłoszenie)       |            30 |
+| Weryfikacja historii zgłoszonego filmu (5 godz. + 8 min na zgłoszenie) |            25 |
 | Obsługa Akademii filmu i jury                                  |            60 |
 | Obsługa głosowania publiczności                                |            20 |
 | Zebranie zwiastunów piątki i blok galowy                       |            40 |
@@ -154,7 +154,7 @@ Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów. **Praca 
 2. **Po zamknięciu naboru oraz zakończeniu weryfikacji formalnej i weryfikacji historii zgłoszonych filmów.**
 3. **Po przyjęciu sprawozdania z rozliczenia edycji** - reszta zadań oraz rezerwa.
 
-**Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły, a kontrola formalna - jedyna pozycja zależna od frekwencji - według rzeczywistej liczby zgłoszeń, po 12 minut na zgłoszenie. Przy 15 zgłoszeniach Fundator nie płaci za kontrolę 150. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
+**Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły, a dwie pozycje zależne od frekwencji - kontrola formalna i weryfikacja historii zgłoszonego filmu - według rzeczywistej liczby zgłoszeń: po 12 minut na zgłoszenie przy kontroli oraz 5 godzin na metodę i narzędzie plus 8 minut na zgłoszenie przy weryfikacji historii. Przy 15 zgłoszeniach Fundator płaci za sprawdzenie 15 filmów, nie 150: te dwie pozycje schodzą z 55 godzin do 10. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
