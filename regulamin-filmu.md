@@ -464,7 +464,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 15. Nierozstrzygnięcie edycji
 
-1. Organizator nie otwiera naboru, jeżeli środki na nagrody pieniężne nie zostały zabezpieczone (§ 9 ust. 2a).
+**Warunki uruchomienia naboru.** Organizator otwiera przyjmowanie zgłoszeń dopiero po łącznym spełnieniu czterech warunków: pula wszystkich ogłaszanych nagród pieniężnych ma pełne pokrycie w środkach, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie fundatora albo partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a ich skład został ogłoszony; Regulamin przeszedł konsultację prawną, a klauzula informacyjna jest kompletna; **pierwsza runda oceny ma zapewnione finansowanie** w zakresie odpowiadającym liczbie zgłoszeń przyjętej w kosztorysie edycji. Spełnienie tych warunków Organizator stwierdza na stronie plebiscytu w dniu otwarcia naboru. Ustęp dodany 31.10.2026, dla zrównania z regulaminem plebiscytu rozmowy: bez niego nabór mógłby ruszyć z nieopłaconą pulą, bez ogłoszonego jury i bez środków na przeczytanie zgłoszeń.
+
+1. Organizator nie otwiera naboru, jeżeli środki na nagrody pieniężne nie zostały zabezpieczone (§ 9 ust. 2a); pozostałe warunki otwarcia naboru wymienia ustęp wprowadzający powyżej.
 
 2. Jeżeli po zakończeniu weryfikacji formalnej oraz postępowań dotyczących kwalifikacji liczba zgłoszeń spełniających wymogi formalne jest mniejsza niż **dziesięć**, Organizator może nie rozstrzygnąć edycji, ogłaszając to na stronie Nagrody wraz z uzasadnieniem. Nagrody nie są wówczas przyznawane, a zgłoszenia pozostają w Archiwum, jeżeli Uczestnicy nie wycofali ich zgodnie z § 13.
 

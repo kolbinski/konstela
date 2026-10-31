@@ -523,6 +523,8 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 
 ## § 17. Nierozstrzygnięcie plebiscytu
 
+**Warunki uruchomienia naboru.** Organizator otwiera przyjmowanie zgłoszeń dopiero po łącznym spełnieniu czterech warunków: pula wszystkich ogłaszanych nagród pieniężnych ma pełne pokrycie w środkach, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie fundatora albo partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a ich skład został ogłoszony; Regulamin przeszedł konsultację prawną, a klauzula informacyjna jest kompletna; **pierwsza runda oceny ma zapewnione finansowanie** w zakresie odpowiadającym liczbie zgłoszeń przyjętej w kosztorysie edycji. Spełnienie tych warunków Organizator stwierdza na stronie plebiscytu w dniu otwarcia naboru. Ustęp dodany 31.10.2026, dla zrównania z regulaminem plebiscytu rozmowy: bez niego nabór mógłby ruszyć z nieopłaconą pulą, bez ogłoszonego jury i bez środków na przeczytanie zgłoszeń.
+
 1. Organizator może nie rozstrzygnąć edycji plebiscytu, jeżeli liczba zgłoszeń spełniających wymogi formalne będzie mniejsza niż dziesięć albo jeżeli żadne ze zgłoszeń nie uzyska co najmniej 50 punktów według karty oceny.
 
 2. O nierozstrzygnięciu edycji Organizator informuje publicznie, z podaniem przyczyny.
