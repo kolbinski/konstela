@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który ufunduje pulę nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją - 371 000 zł brutto dla laureatów - wraz z oceną zgłoszeń i promocją naboru.**
 
-Jest to rola najbardziej widoczna w całym przedsięwzięciu. O nagrodzie piszą media, nagrodę wymienia się w każdej wzmiance o plebiscycie, a wysokość puli jest tym, co decyduje, czy w ogóle napiszą.
+Jest to rola najbardziej widoczna w całym przedsięwzięciu, bo nagrodę wymienia się w każdej wzmiance o plebiscycie, a wysokość puli jest tym, co decyduje, czy w ogóle napiszą.
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** - rola opisana na tej stronie - finansuje pulę i pracę jury. **Fundator akademii** pierwszą rundę oceny we wszystkich czterech plebiscytach, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: [antologię, Archiwum i podcast](/oferta-dla-mecenasa-antologii-nagrody-konstela). Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
@@ -38,7 +38,7 @@ Ocena przebiega w dwóch rundach.
 
 Nagrody w dziedzinie sztucznej inteligencji dostawały dotąd maszyny. Loebner Prize przez 30 lat sprawdzał, czy program potrafi udawać człowieka. Alexa Prize płacił za bota, który utrzyma rozmowę przez 20 minut. **Człowiek siedzący po naszej stronie ekranu nie był przedmiotem żadnej z tych nagród** - był materiałem testowym, na którym sprawdzano maszynę.
 
-Tymczasem to on decyduje, czy z rozmowy cokolwiek wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu. Jakość pracy z AI jest dziś kompetencją rozstrzygającą o tym, co człowiek z tego narzędzia wyciągnie, a nagradzana nie była ani razu.
+Tymczasem to on decyduje, czy z rozmowy cokolwiek wyniknie. AI odpowiada na to, o co ją zapytano, więc cała trudność leży w pytaniu. Jakość pracy z AI jest dziś kompetencją rozstrzygającą o tym, co człowiek z tego narzędzia wyciągnie, a nie znamy w Polsce nagrody, która oceniałaby samo prowadzenie rozmowy z modelem - przeglądu konkursów nie prowadziliśmy jednak w sposób, który pozwalałby twierdzić, że takiej nagrody nie ma nigdzie.
 
 ### Nagradzamy nieufność, nie zachwyt
 
@@ -114,7 +114,7 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
 - **honoraria jury za przygotowanie karty oceny** przed otwarciem naboru;
 - **ubezpieczenie odpowiedzialności cywilnej organizatora**, którego zakres wskaże konsultacja prawna.
 
-**Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 640 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. 
+**Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 640 000 zł netto, czyli 787 200 zł brutto**. Jest to maksimum całego wypływu po stronie Fundatora: obejmuje kwotę z tabeli, obie pozycje bez ceny, rezerwę i każdą ewentualną dopłatę. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Mówimy przy tym wprost, czym limit nie jest: **ogranicza zobowiązanie Fundatora, a nie gwarantuje, że pieniądze na wykonanie się znajdą.** Gdyby ich zabrakło, Fundatorowi zostaje prawo wycofania nazwy i zwrot za świadczenia niewykonane - a nie Archiwum i werdykt, których za te brakujące pieniądze nikt nie wykona. 
 
 Limit zostawia nad dzisiejszym kosztorysem niecałe 34 000 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść wraz z rezerwą, która je obejmie: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
@@ -155,12 +155,12 @@ Czego w takim przypadku nie zrobimy: nie przedłużymy naboru poza termin z regu
 Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Fundator otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z Nagrodą Uczniowską i nagrodami publiczności, bo ogłoszona pula jest przyrzeczeniem publicznym;
-- **przeprowadzenie dwóch rund oceny i ogłoszenie werdyktu** w terminie z regulaminu, wraz z uzasadnieniami jury;
+- **przeprowadzenie oceny w trybie przewidzianym regulaminem i ogłoszenie werdyktu** w terminie z regulaminu, wraz z uzasadnieniami jury. Tryb zależy od liczby zgłoszeń i jest ogłoszony przed naborem: przy więcej niż dwudziestu zgłoszeniach są dwie rundy, akademia i jury; przy dwudziestu i mniej akademii się nie powołuje, a każdy juror ocenia wszystkie zgłoszenia. Nienaruszalne jest to, że **każde zgłoszenie czytają co najmniej dwie osoby według tej samej jawnej karty oceny**, a nie liczba rund;
 - **publiczne Archiwum zgłoszeń**, opisane niżej co do zawartości, terminu i okresu utrzymania.
 
 **Minimalny trwały rezultat, pięć rzeczy wprost.** Nazwa Fundatora stoi przy rzeczy, która ma zostać po edycji, więc mówimy dokładnie, czym ona jest:
 
-1. **Co zawiera.** Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną - nie samą dziesiątkę antologii. Przy każdym: tytuł, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia, kopia archiwalna rozmowy sporządzona przez skraper w chwili zgłoszenia oraz jawna punktacja wszystkich etapów oceny.
+1. **Co zawiera.** Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną - nie samą dziesiątkę antologii. Przy każdym: tytuł, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia, kopia archiwalna rozmowy sporządzona przez skraper w chwili zgłoszenia oraz jawna punktacja wszystkich etapów oceny. **Jedno zastrzeżenie, bo dotyczy tego, co Fundator kupuje:** regulamin przewiduje wariant awaryjny na wypadek, gdyby konsultacja prawna uznała publikowanie kopii rozmów za niedopuszczalne albo obciążone ryzykiem, którego nie wolno nam przyjąć - Archiwum ogranicza się wtedy do tytułu, podpisu, opisu odkrycia, linku i ocen. Konsultacja odbywa się przed otwarciem naboru, czyli **przed terminem wpłaty drugiej transzy**, więc Fundator pozna rozstrzygnięcie, zanim wyłoży większą część kwoty. Regulamin dopuszcza też niepublikowanie pojedynczej rozmowy na żądanie jej autora albo z powodu treści, których opublikować nie wolno; dotyczy to pojedynczych przypadków, nie zbioru.
 2. **Od kiedy działa.** Czytelnia rośnie publicznie przez cały rok naboru, od jego pierwszego dnia; Archiwum z jawną punktacją otwiera się **w dniu ogłoszenia werdyktu**, czyli w drugiej połowie kwietnia 2028 roku.
 3. **Jak długo je utrzymujemy.** Kopie archiwalne zgłoszeń przechowujemy **pięć lat** w magazynie opłaconym z tej oferty z góry. Po tym okresie o dalszym przechowywaniu rozstrzyga Rada Fundacji i ogłasza to przed jego upływem; samo Archiwum zostaje wtedy co najmniej jako kopia statyczna pod tymi samymi adresami.
 4. **Jak wygląda dostęp.** Bezpłatnie, bez rejestracji i bez konta, z przeglądaniem i sortowaniem według daty, tytułu, podpisu i ocen. Adresy wpisów są trwałe, więc da się do nich odesłać z zewnątrz.
@@ -168,7 +168,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
-**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne, czyli zwrot wszystkiego, co nam powierzono, oraz rozliczenie, a środki przeznaczone na rzeczy, które się nie odbyły, wracają w całości. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
+**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne: zwrot środków niewykorzystanych wraz z całą pulą nagród, która nie została wypłacona, oraz zwrot materiałów i oznaczeń powierzonych nam przez Fundatora. **Nie wracają koszty faktycznie poniesione** - praca wykonana do tego dnia, zamówienia opłacone u dostawców - i mówimy to wprost, zamiast obiecywać zwrot całej wpłaty, którego nie bylibyśmy w stanie wykonać. Rozliczenie pokazuje każdą z tych pozycji osobno. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
@@ -214,7 +214,7 @@ Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencj
 
 **W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie. Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny w sprawie antologii (do wglądu na życzenie), zastrzegając, że nie przesądza on decyzji wydawniczej.
 
-**Przed nami.** Powołanie fundacji, konsultacja prawna regulaminu, budowa narzędzi do obsługi zgłoszeń i oceny oraz przebudowa strony. Te pozycje należą do budżetu części wydawniczej i nie obciążają tej oferty.
+**Przed nami.** Powołanie fundacji, weryfikacja statutu, polityka prywatności, budowa narzędzi do obsługi zgłoszeń i oceny oraz przebudowa strony. Te pozycje należą do budżetu [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) i nie obciążają tej oferty. **Konsultacja prawna samego regulaminu rozmowy jest natomiast w tej ofercie** - 8 000 zł w tabeli powyżej, przeniesione tutaj 31 października 2026, bo regulamin służy temu jednemu plebiscytowi, a nie całemu przedsięwzięciu.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
