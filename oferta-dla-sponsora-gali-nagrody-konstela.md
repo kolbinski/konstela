@@ -94,6 +94,24 @@ Osobno regulamin przewiduje próg po stronie uczestników: **przy mniej niż 12 
 
 W każdym z tych przypadków działa ta sama klauzula rozliczenia: Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Sponsora** albo - według jego wyboru - przechodzi na galę kolejnej edycji.
 
+## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
+
+Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać i jak wypadnie frekwencja, Sponsor otrzymuje:**
+
+- **wieczór, na którym zostają ogłoszone werdykty rozstrzygniętych plebiscytów**, z udziałem finalistów;
+- **przejazd i nocleg dla finalistów**, którzy przyjadą;
+- **zapis wideo udostępniony bezpłatnie**, czyli materiał, który zostaje dłużej niż wieczór.
+
+Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
+
+**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Sponsora rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z trzech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Sponsor ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Sponsor otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są trzy:
+
+1. **gala nie odbywa się do 30 czerwca 2028 roku** i wyniki zostają ogłoszone na stronie;
+2. **żaden z czterech plebiscytów nie zostaje rozstrzygnięty**;
+3. **zapis wideo nie powstaje albo nie zostaje udostępniony bezpłatnie**.
+
+Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:zespol--><span>Co otrzymuje Sponsor gali</span>
 
 Tytuł **Sponsora gali Nagrody Konstela** w materiałach pierwszej edycji dotyczących wieczoru rozstrzygnięcia: na stronie Nagrody, w zaproszeniach, w komunikatach prasowych o werdyktach i w sprawozdaniu z edycji.
@@ -182,7 +200,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Sponsor nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 268 160 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
 - **[Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 167 072 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 176 032 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>

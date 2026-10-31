@@ -143,6 +143,24 @@ Dwie pozycje mają tu własny los i mówimy o nim wprost. **Nagrania studyjne fi
 
 Budżet policzony jest na skalę, przy której dziesiątka finalistów ma z czego powstać, i to jest liczba, na którą pracujemy.
 
+## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
+
+Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać i jak wypadnie frekwencja, Sponsor otrzymuje:**
+
+- **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
+- **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu;
+- **sesje studyjne dla całej dziesiątki finalistów**, z prawami pozostającymi przy autorach, niezależnie od tego, czy znajdzie się wydawca płyty.
+
+Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
+
+**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Sponsora rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z trzech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Sponsor ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Sponsor otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są trzy:
+
+1. **gala się nie odbywa** i werdykt zostaje ogłoszony na stronie;
+2. **hymn z teledyskiem nie powstaje** w roku naboru;
+3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane.
+
+Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:puchar--><span>Co otrzymuje Sponsor</span>
 
 Tytuł **Sponsora nagród plebiscytu na piosenkę o sztucznej inteligencji** we wszystkich materiałach pierwszej edycji: na stronie plebiscytu, w komunikatach prasowych, w czołówce zapisu wideo z gali i w sprawozdaniu z edycji.
@@ -236,7 +254,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Sponsor nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 268 160 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 167 072 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 176 032 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 162 162 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>

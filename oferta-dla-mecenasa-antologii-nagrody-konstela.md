@@ -197,6 +197,24 @@ Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynato
 
 **Co, jeżeli zgłoszeń będzie mało.** Nabór może się otworzyć, a mimo to przynieść wynik poniżej oczekiwań - i wtedy klauzula powyżej nie działa, bo edycja ruszyła. Umowa przewiduje na to osobny zapis: **jeżeli liczba zgłoszeń spełniających wymogi formalne nie przekroczy czterdziestu**, Mecenas wybiera jedno z trzech rozwiązań - zwrot środków niewykorzystanych do tego dnia, przeniesienie całości na kolejną edycję bez dopłaty albo wykonanie w węższym zakresie z odpowiednim obniżeniem kwoty. Budżet jest policzony na sto pięćdziesiąt zgłoszeń i to jest liczba, na którą pracujemy; czterdzieści to granica, poniżej której przedsięwzięcie nie daje tego, po co powstało.
 
+## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
+
+Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać i jak wypadnie frekwencja, Mecenas otrzymuje:**
+
+- **bezpłatny e-book antologii**, dostępny bez rejestracji i bez opłat, niezależnie od tego, czy znajdzie się wydawca książki;
+- **bezpłatny audiobook** czytany przez trzech lektorów, na tych samych zasadach;
+- **publiczne Archiwum rozmów** uruchomione i dostępne.
+
+Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
+
+**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Mecenasa rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z trzech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Mecenas ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Mecenas otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są trzy:
+
+1. **wydanie książkowe nie powstaje**, bo nie znajdzie się wydawca;
+2. **gala się nie odbywa**, więc nie ma premiery antologii;
+3. **podcast nie zostaje wyprodukowany**, bo nie znajdzie się jego sponsor albo prowadzący.
+
+Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
+
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
 Tytuł **Mecenasa Antologii** we wszystkich wydaniach antologii pierwszej edycji - elektronicznym, drukowanym, dźwiękowym i każdym późniejszym dodruku. W audiobooku oznacza to odczytanie nazwy Mecenasa w zapowiedzi otwierającej nagranie oraz jej umieszczenie w opisie pliku, bo strony redakcyjnej nagranie nie ma. Tytuł ma charakter honorowy i nie wiąże się z udziałem w decyzjach dotyczących Nagrody. Odrębny tytuł **Mecenasa Założycielskiego** przysługuje partnerowi, który sfinansuje powstanie fundacji, narzędzi i znaku towarowego - jest to osobna rola i osobna oferta.
@@ -259,7 +277,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 547 809,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Sponsor nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 268 160 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia i zwiastuny finałowej piątki na gali</small>
 - **[Sponsor nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 265 960 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 167 072 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 176 032 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 183 480 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 62 048 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>

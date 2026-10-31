@@ -259,7 +259,7 @@ const OPISY = {
   'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji':
     'Oferta dla sponsora plebiscytu na piosenkę o sztucznej inteligencji: nagrody, sesje studyjne dziesiątki finalistów i hymn z teledyskiem. 265 960 zł netto, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji':
-    'Oferta dla mecenasa plebiscytu na plakat o sztucznej inteligencji: nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii. 167 072 zł netto, kosztorys i warunki.',
+    'Oferta dla mecenasa plebiscytu na plakat o sztucznej inteligencji: nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii. 176 032 zł netto, kosztorys i warunki.',
   'oferta-dla-sponsora-akademii-nagrody-konstela':
     'Oferta dla sponsora Akademii Nagrody Konstela: pierwsza runda oceny rozmów i filmów, honoraria oceniających, kalibracja i panel. 160 160 zł netto, kwota skalująca się z liczbą zgłoszeń.',
   'oferta-dla-sponsora-gali-nagrody-konstela':

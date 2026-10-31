@@ -423,13 +423,13 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Ubezpieczenie prac na czas wystawy | 3 000 zł |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przyjęcie i zwrot oryginałów, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji - razem 190 godzin | 41 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 6 480 zł |
-| **Razem, pozycje rozstrzygnięte** | **167 072 zł** |
+| **Razem, pozycje rozstrzygnięte** | **176 032 zł** |
 | Realizacja wystawy przy gali | do wyceny |
 | Wystawa w galerii sztuki, jeżeli zostanie pozyskana | do wyceny |
 | Obsługa prawna regulaminu plebiscytu | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |
 
-Z kwoty 167 072 zł zakres pytania do Ministerstwa obejmuje **157 552 zł**. Pozostałe 4 928 zł to obsługa cichej licytacji oryginałów wraz z przypisaną jej rezerwą; licytacja towarzyszy wystawie w galerii sztuki, jest finansowana odrębnie i pozostaje poza pytaniem. Tak samo pokazuje to załączone zestawienie zadania.
+Z kwoty 176 032 zł zakres pytania do Ministerstwa obejmuje **157 552 zł**. Pozostałe 4 928 zł to obsługa cichej licytacji oryginałów wraz z przypisaną jej rezerwą; licytacja towarzyszy wystawie w galerii sztuki, jest finansowana odrębnie i pozostaje poza pytaniem. Tak samo pokazuje to załączone zestawienie zadania.
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 

@@ -20,7 +20,7 @@ Rozstrzygnięcie to wynika z jednej zasady: głos publiczności ma ważyć tyle 
 
 Odnotowuję przy tym dwie zmiany **poza zakresem pytania**, dla pełności obrazu: Nagroda Uczniowska w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją otrzymała kwotę 10 000,00 zł brutto, a część wydawnicza rozszerzyła się o wydanie dźwiękowe antologii, opisane niżej. Obie mieszczą się w budżetach finansowanych z innych źródeł i nie wchodzą do kwoty, o którą pytam.
 
-Suma wszystkich pozycji obecnie wycenionych w całym przedsięwzięciu wynosi dziś **1 816 851,76 zł** wobec 1 665 626,80 zł podanych w piśmie. Wzrost poza zakresem pytania obejmuje także instalowalną wersję mobilną strony, opisaną niżej. Aktualne liczby w każdej chwili pokazuje [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej), do którego pismo się odwołuje, oraz załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania).
+Suma wszystkich pozycji obecnie wycenionych w całym przedsięwzięciu wynosi dziś **1 825 811,76 zł** wobec 1 665 626,80 zł podanych w piśmie. Wzrost poza zakresem pytania obejmuje także instalowalną wersję mobilną strony, opisaną niżej. Aktualne liczby w każdej chwili pokazuje [arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej), do którego pismo się odwołuje, oraz załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania).
 
 ## Antologia także jako audiobook
 
