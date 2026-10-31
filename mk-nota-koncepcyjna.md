@@ -518,7 +518,7 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, prowadzenie Projektorni, dotarcie do szkół filmowych i festiwali - razem 290 godzin | 63 800 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 7 800 zł |
-| **Razem, pozycje rozstrzygnięte** | **268 160 zł** |
+| **Razem, pozycje rozstrzygnięte** | **281 600 zł** |
 | Przygotowanie techniczne zwiastunów do emisji galowej | do wyceny |
 | Pokazy kinowe filmów finałowych, jeżeli dojdą do skutku | do wyceny |
 | Dojazd i nocleg finalistów na galę | do wyceny |

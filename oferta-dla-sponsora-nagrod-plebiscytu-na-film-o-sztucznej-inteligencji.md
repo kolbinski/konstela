@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który ufunduje pulę nagród w plebiscycie na film o sztucznej inteligencji - 180 000 zł brutto dla laureatów - wraz z oceną zgłoszeń, dotarciem do twórców i prowadzeniem plebiscytu przez cały rok naboru.**
 
-**Kosztuje to 268 160 zł netto** (329 836,80 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 281 600 zł netto** (346 368,00 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**. Piszemy „ma być", a nie „jest", świadomie: tego, że powstaną filmy, które bez tego plebiscytu by nie powstały, nikt dziś nie może obiecać, bo zależy to od decyzji twórców, a nie od Organizatora. Regulamin wymaga ukończenia filmu w roku edycji i zakazuje zgłaszania przeróbek wcześniejszych filmów, ale dopuszcza użycie wcześniej napisanego scenariusza i wcześniej zrealizowanych zdjęć jako składników nowego filmu. **To jest najbardziej niepewne założenie całego plebiscytu i nie ukrywamy go w drobnym druku.**
 
@@ -91,7 +91,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**268 160 zł netto** (329 836,80 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**281 600 zł netto** (346 368,00 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej?tab=filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -102,14 +102,14 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Honoraria jury filmu za ocenę                                  |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                          |    do ustalenia |
 | Przygotowanie techniczne zwiastunów do emisji galowej          |    do ustalenia |
-| Pokazy kinowe filmów finałowych                                |    do ustalenia |
+| Pokaz kuratorski filmów finałowych w postaci gwarantowanej     |      12 000 zł |
 | Dojazd i nocleg finalistów na galę - w budżecie gali           |             0 zł |
 | Obsługa prawna regulaminu filmu                                |    do ustalenia |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |       8 160 zł |
-| **Razem netto**                                                | **268 160 zł** |
-| VAT 23%                                                        |      61 676,80 zł |
-| **Do zapłaty brutto**                                          | **329 836,80 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |       9 600 zł |
+| **Razem netto**                                                | **281 600 zł** |
+| VAT 23%                                                        |      64 768,00 zł |
+| **Do zapłaty brutto**                                          | **346 368,00 zł** |
 
 ### Z czego składa się praca organizatora: 290 godzin
 
@@ -127,17 +127,16 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 Stawka 220 zł za godzinę jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu. Najcięższa pozycja po stronie pracy to **obsługa akademii i jury, 60 godzin**: w plebiscycie filmowym ocena jednego zgłoszenia zajmuje tyle, ile trwa film, więc przydziały trzeba rozpisać tak, żeby żaden oceniający nie dostał dwudziestu godzin materiału.
 
-### Pięć pozycji czeka na wycenę albo ustalenie
+### Cztery pozycje czekają na wycenę albo ustalenie
 
 Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnione osobno i żadna z nich nie jest dziś pokryta kwotą z tabeli:
 
 - **honoraria jury filmu za ocenę** - zależą od liczby członków jury i liczby filmów, które do niego trafią;
 - **honoraria jury za etap przygotowawczy** - za ustalenie karty oceny i wag kryteriów przed otwarciem naboru;
 - **przygotowanie techniczne zwiastunów do emisji galowej** - normalizacja formatu, dźwięku i napisów piątki zwiastunów, bez ingerencji w treść;
-- **pokazy kinowe filmów finałowych** - zależą od tego, czy i na jakich warunkach znajdzie się dystrybutor;
 - **obsługa prawna regulaminu filmu** - zakres wskaże konsultacja prawna; regulamin filmu jest najbardziej złożony z czterech ze względu na prawa do muzyki i warstwę licencyjną.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 68 000 zł, czyli od pracy organizatora, medalu i dyplomów oraz honorariów zespołu wybierającego najlepsze uzasadnienie głosu. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 80 000 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu oraz pokazu kuratorskiego. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
@@ -171,13 +170,25 @@ Budżet policzony jest na **150 zgłoszeń filmów**. Jest to założenie przepu
 
 **Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze. Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpadają wtedy koszty przygotowania technicznego zwiastunów i dojazdu finalistów, odpowiadające im kwoty wracają, ale sam pokaz się nie odbywa. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
 
+## <!--ikona:projektornia--><span>Co dostaje uczestnik, który nie wygrał</span>
+
+W pozostałych plebiscytach koszt wejścia jest niewielki: rozmowę się przeprowadza, plakat maluje. **Film trwający od 20 do 90 minut to ekipa, sprzęt, lokacje, montaż i dźwięk, a Organizator nie finansuje produkcji.** Dlatego ta rola finansuje także rzeczy, które trafiają do finalistów niezależnie od miejsca w werdykcie:
+
+- **pokaz kuratorski filmów finałowych** - jeden seans blokowy w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami. Przejazd i nocleg twórców prezentowanych filmów pokrywa ta oferta, więc udział nie zależy od tego, czy kogoś na to stać. Dziesięć tytułów po 20-90 minut to od trzech do piętnastu godzin materiału, więc seans jest wyborem kuratorskim, nie przeglądem wszystkiego;
+- **zwiastun na gali** dla piątki najwyżej ocenionych;
+- **wpis w Projektorni** z jawną punktacją, czyli publiczny ślad udziału;
+- **złożenie zestawu dziesiątki i rozmowy z dystrybutorami** - usługa, nie rezultat, o czym niżej.
+
+**Czego nie obiecujemy, choć do tego dążymy.** Szersza dystrybucja kinowa i emisja w serwisie streamingowym są celem Nagrody i rozmawiamy o nich z partnerami, ale **zależą od cudzej decyzji i nie są w tej ofercie ani obiecane, ani wycenione**. Umowę z dystrybutorem albo platformą zawiera autor filmu, nie Organizator, i jemu przysługują wpływy; Organizator składa zestaw, przedstawia twórców i nie bierze prowizji. Rolę partnera dystrybucji filmów oraz partnera telewizyjnego lub streamingowego opisuje strona [Dla partnerów](/dla-partnerow) i obie czekają na obsadzenie.
+
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 
 Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Fundator otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
 - **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu;
-- **Projektornię i archiwum filmów**, czyli publicznie dostępny zestaw zakwalifikowanych zgłoszeń.
+- **Projektornię i archiwum filmów**, czyli publicznie dostępny zestaw zakwalifikowanych zgłoszeń, w zakresie, w jakim ich autorzy utrzymują filmy dostępnymi - Organizator nie przechowuje kopii i nie może tego zagwarantować za nich;
+- **pokaz kuratorski filmów finałowych** w postaci gwarantowanej: jeden seans blokowy z wyboru dziesiątki w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami, których przejazd i nocleg pokrywa ta oferta.
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 

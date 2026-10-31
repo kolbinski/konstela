@@ -255,7 +255,7 @@ const OPISY = {
   'jury-w-plebiscycie-rozmowy-z-ai':
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na rozmowę ze sztuczną inteligencją i co daje w zamian: zakres pracy, karta oceny, komentarze do antologii, honorarium i niezależność werdyktu.',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji':
-    'Oferta dla sponsora nagród w plebiscycie na film o sztucznej inteligencji: 180 000 zł dla laureatów, Projektornia, zwiastuny finałowej piątki na gali i prowadzenie plebiscytu. 268 160 zł netto, kosztorys i warunki.',
+    'Oferta dla sponsora nagród w plebiscycie na film o sztucznej inteligencji: 180 000 zł dla laureatów, Projektornia, zwiastuny finałowej piątki na gali i prowadzenie plebiscytu. 281 600 zł netto, kosztorys i warunki.',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji':
     'Oferta dla sponsora plebiscytu na piosenkę o sztucznej inteligencji: nagrody, sesje studyjne dziesiątki finalistów i hymn z teledyskiem. 265 960 zł netto, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji':

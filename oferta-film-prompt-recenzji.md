@@ -16,7 +16,7 @@ Odpowiedz na dziewięć pytań, w tej kolejności:
 
 Po pierwsze: czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzję. Jeżeli przestałeś czytać, napisz dokładnie gdzie.
 
-Po drugie: z którego budżetu miałoby to iść - treści czy marki - i czy w ogóle znajdujesz dla tego miejsce. Wymień trzy rzeczy, które kupiłbyś za te same 268 160 zł netto, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
+Po drugie: z którego budżetu miałoby to iść - treści czy marki - i czy w ogóle znajdujesz dla tego miejsce. Wymień trzy rzeczy, które kupiłbyś za te same 281 600 zł netto, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
 
 Po trzecie: oferta uzasadnia nagrodę główną 100 000 zł porównaniem z festiwalem debiutów, gdzie debiut pełnometrażowy dostaje 20 000 zł, a film krótkometrażowy 10 000 zł, i argumentem, że tutaj film ma dopiero powstać bez finansowania produkcji. Czy to uzasadnienie się broni? Czy kwota przyciągnie filmy, które chciałbyś obejrzeć, czy ludzi liczących na łatwy pieniądz?
 
