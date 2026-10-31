@@ -394,14 +394,49 @@ const ZASOB = /((?:https?:\/\/[^/"'\s]+)?\/assets\/[A-Za-z0-9._/-]+?\.[A-Za-z0-9
    musi wyraz przełamać. Nie polegamy na `hyphens: auto`, bo część
    przeglądarek nie ma słownika polskiego i nie zrobiłaby nic.
 
-   Dzielimy tylko wyrazy od dziesięciu liter i tylko w miejscach oddalonych
-   o co najmniej cztery litery od początku i od końca wyrazu. Krótsze wyrazy
-   mieszczą się w linii nawet na wąskim telefonie, a przy ciaśniejszych
-   progach przeglądarka dzieliłaby tytuł częściej, niż trzeba. */
+   Dzielimy wyłącznie wyrazy, które nie mieszczą się w linii - a nie te,
+   które akurat nie mieszczą się w resztce linii. Sam miękki łącznik tego nie
+   załatwia: dla przeglądarki jest zwyczajnym miejscem podziału, więc dopycha
+   nim wiersz do końca i „inteligencją" pękało, choć w osobnej linii mieściło
+   się w całości. Dlatego przed wstawieniem łączników mierzymy wyraz.
+
+   Mierzymy prawdziwym krojem tytułu: tabela szerokości znaków Literaty 600
+   leży w `metryka-tytulu.json` (powstała z plików woff2 w assets/fonts).
+   Porównujemy z najwęższą kolumną, jaka nam się zdarza: telefon 320 px bez
+   16 px dopełnienia z każdej strony, stopień pisma 2,9 rem - czyli dolna
+   granica `clamp()` w `#content h1`. Wyraz węższy niż ta kolumna zmieści się
+   w linii na każdym ekranie i zostaje bez łączników; szerszy dostaje je
+   w miejscach, w których wolno go podzielić po polsku. Nie polegamy na
+   `hyphens: auto`, bo część przeglądarek nie ma słownika polskiego.
+
+   Dzielimy w miejscach oddalonych o co najmniej cztery litery od początku
+   i od końca wyrazu - przy ciaśniejszych progach podział wypadałby po
+   jednej sylabie. */
 const MIEKKI_LACZNIK = '­';
 
+const METRYKA = JSON.parse(
+  fs.readFileSync(path.join(__dirname, 'metryka-tytulu.json'), 'utf8'),
+);
+const STOPIEN_PISMA = 2.9 * 16; /* clamp(2.9rem, 10vw, 4.6rem) - dolna granica */
+const SWIATLO_MIEDZYLITEROWE = 0.01 * STOPIEN_PISMA; /* letter-spacing: 0.01em */
+const NAJWEZSZA_KOLUMNA = 320 - 2 * 16; /* telefon 320 px, padding body 16 px */
+
+/* Szerokość wyrazu w pikselach przy stopniu pisma tytułu. Znaku spoza tabeli
+   (nie powinno go w tytule być) nie zgadujemy w dół - przyjmujemy firet. */
+function szerokoscWyrazu(wyraz) {
+  let jednostki = 0;
+  for (const znak of wyraz) {
+    const w = METRYKA.szerokosci[znak.codePointAt(0)];
+    jednostki += w === undefined ? METRYKA.jednostekNaFiret : w;
+  }
+  return (
+    (jednostki / METRYKA.jednostekNaFiret) * STOPIEN_PISMA +
+    [...wyraz].length * SWIATLO_MIEDZYLITEROWE
+  );
+}
+
 function podzielWyraz(wyraz) {
-  if (wyraz.length < 10) return wyraz;
+  if (szerokoscWyrazu(wyraz) <= NAJWEZSZA_KOLUMNA) return wyraz;
   const czesci = hyphenateSync(wyraz, { hyphenChar: '\u0001' }).split('\u0001');
   if (czesci.length < 2) return wyraz;
 
