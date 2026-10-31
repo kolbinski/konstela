@@ -46,16 +46,19 @@ function slug(s) {
     .replace(/^-|-$/g, '');
 }
 
-/* Formatowanie liczb jak w przeglądarce: całości poniżej dziesięciu tysięcy
-   bez separatora, ułamki poniżej jedności jako procent, reszta po polsku. */
+/* Formatowanie liczb jak w przeglądarce: ułamki poniżej jedności jako procent,
+   reszta po polsku z odstępem w każdym rzędzie tysięcy. Odstęp wymuszamy, bo
+   polska reguła domyślna nie grupuje liczb czterocyfrowych i w jednej kolumnie
+   wychodziło „5500" obok „11 000". Lata zapisane są w arkuszu jako tekst, więc
+   ta funkcja ich nie dotyka. */
 function fmt(v) {
   const n = Number(v);
   if (!isFinite(n)) return String(v);
-  if (Number.isInteger(n) && Math.abs(n) < 10000) return String(n);
   if (Math.abs(n) > 0 && Math.abs(n) < 1) return (n * 100).toFixed(0) + '%';
   return n.toLocaleString('pl-PL', {
     minimumFractionDigits: Number.isInteger(n) ? 0 : 2,
     maximumFractionDigits: 2,
+    useGrouping: 'always',
   });
 }
 
