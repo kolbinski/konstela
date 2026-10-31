@@ -228,7 +228,7 @@ Budżet policzony jest na **150 zgłoszeń filmów**. Jest to założenie przepu
 
 **Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze.
 
-Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpada wtedy przygotowanie techniczne zwiastunów, a jeżeli zostało już opłacone, kwota wraca; przyjazd finalistów na galę jest w Budżecie Gali, nie tutaj, więc po stronie Fundatora nie ma z tego tytułu ani wydatku, ani zwrotu. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
+Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpada wtedy przygotowanie techniczne zwiastunów, a jeżeli zostało już opłacone, kwota wraca; przyjazd dziesięciu finalistów na galę jest w tej ofercie i gdyby gala się nie odbyła, te 8 000 zł wraca do Fundatora w rozliczeniu. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
 
 ## <!--ikona:projektornia--><span>Co dostaje uczestnik, który nie wygrał</span>
 

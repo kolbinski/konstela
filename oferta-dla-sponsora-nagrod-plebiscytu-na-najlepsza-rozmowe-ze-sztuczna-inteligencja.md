@@ -114,9 +114,9 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
 - **honoraria jury za przygotowanie karty oceny** przed otwarciem naboru;
 - **ubezpieczenie odpowiedzialności cywilnej organizatora**, którego zakres wskaże konsultacja prawna.
 
-**Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 610 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. 
+**Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 640 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. 
 
-Limit zostawia nad dzisiejszym kosztorysem niecałe 30 000 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
+Limit zostawia nad dzisiejszym kosztorysem niecałe 34 000 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść wraz z rezerwą, która je obejmie: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
 **Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
 
@@ -202,7 +202,7 @@ Poza tytułem:
 
 Fundator nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. Nie otrzymuje wglądu w zgłoszenia przed ich publicznym udostępnieniem ani informacji o wynikach przed galą.
 
-Rola nie obejmuje trzech pozostałych plebiscytów, antologii, Archiwum, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Nie obejmuje też pierwszej rundy oceny, którą finansuje sponsor akademii; honoraria jury za ocenę w rundzie drugiej są natomiast w tej ofercie.
+Rola nie obejmuje trzech pozostałych plebiscytów, antologii, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Archiwum i Czytelnia **rozmów** są natomiast w tej ofercie, opisane wyżej co do zawartości, terminu i okresu utrzymania; osobne są Archiwa pozostałych trzech plebiscytów, każde przy swoim plebiscycie. Nie obejmuje też pierwszej rundy oceny, którą finansuje sponsor akademii; honoraria jury za ocenę w rundzie drugiej są natomiast w tej ofercie.
 
 Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
