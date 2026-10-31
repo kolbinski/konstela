@@ -53,6 +53,28 @@ Oferta gali rośnie z 62 048 do **87 808 zł netto** (108 003,84 zł brutto), re
 
 Przy okazji poprawiony błąd w tabeli oferty gali: wiersz „Razem koszty twarde" pokazywał 21 500 zł, choć koszty twarde wynosiły 45 500 zł - liczba została z czasów przed konsolidacją przejazdów finalistów.
 
+## Recenzje ofert: siedemnaście promptów, kolejność i jedna brakująca rzecz (31.10.2026)
+
+Każda z siedemnastu ofert ma własny prompt recenzencki z osobną personą - dotąd były cztery. Nowe trzynaście:
+
+- `oferta-rozmowa-prompt-recenzji.md` - prezes firmy technologicznej, najdroższa rola
+- `oferta-piosenka-prompt-recenzji.md` - dyrektor marketingu marki konsumenckiej
+- `oferta-akademia-prompt-recenzji.md` - dyrektor komunikacji sieci handlowej (vouchery)
+- `oferta-gala-prompt-recenzji.md` - dyrektor komunikacji firmy sponsorującej wydarzenia
+- `oferta-wydawca-antologii-prompt-recenzji.md` - redaktor naczelny oficyny
+- `oferta-mecenas-muzyczny-prompt-recenzji.md` - właściciel studia nagraniowego
+- `oferta-wydawca-plyty-prompt-recenzji.md` - dyrektor wydawniczy wytwórni
+- `oferta-galeria-prompt-recenzji.md` - dyrektor galerii sztuki współczesnej
+- `oferta-dystrybucja-filmow-prompt-recenzji.md` - kierownik programowy sieci kin studyjnych
+- `oferta-telewizja-streaming-prompt-recenzji.md` - dyrektor programowy platformy
+- `oferta-sponsor-podcastu-prompt-recenzji.md` - dyrektor marketingu firmy technologicznej
+- `oferta-prowadzacy-podcast-prompt-recenzji.md` - podcaster oceniający własną pracę
+- `oferta-patronat-medialny-prompt-recenzji.md` - redaktor naczelny serwisu o technologii
+
+**Kolejność recenzji.** Najpierw role, które mają iść do ludzi najszybciej: plakat (recenzja zrobiona, oferta dojrzała), założycielska (recenzja zrobiona), rozmowa i gala. Potem piosenka i akademia. Film dopiero po odpowiedziach ze szkół i festiwali. Dziewięć ról bez pieniędzy na końcu, bo ich recenzje zmienią najmniej, a przy kinach, platformie i wytwórni realna odpowiedź przyjdzie i tak dopiero po werdykcie jury.
+
+**Czego brakuje do końca punktu o Universitas.** Oferta dla partnera wydawniczego ma już sekcję opisującą list intencyjny i jego granice, ale w repozytorium jest tylko nasz projekt pisma (`attachments/antologia-list-intencyjny.docx`), nie skan podpisanego listu. Żeby go podlinkować i pokazać, potrzebny jest plik PDF od Krzyśka; wtedy trafia pod `/attachments/`, a oba dokumenty - oferta antologijna i oferta wydawnicza - dostają odnośnik w miejsce zdania "do wglądu na życzenie". Sam projekt pisma nie nadaje się do publikacji, bo nie jest tym, co wydawnictwo podpisało.
+
 ## Dokumenty do MKiDN czekają na przeliczenie
 
 Decyzja o kopii archiwalnej podniosła Budżet Filmu, a film jest w zakresie pytania do MKiDN, więc załącznik „Zestawienie zadania" i oba pisma mają dziś liczby starsze niż arkusz. Przy przeliczaniu trzeba naprawić także dwie rzeczy, które były nieaktualne już wcześniej:
