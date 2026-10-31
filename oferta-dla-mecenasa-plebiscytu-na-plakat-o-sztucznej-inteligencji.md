@@ -148,7 +148,7 @@ Osobno regulamin przewiduje **dwie przesłanki nierozstrzygnięcia edycji** (§ 
 
 Umowa zawiera **klauzulę rozliczenia**: jeżeli prace nie zostaną wykonane w całości albo w części, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych, a kwota niewykorzystana wraca do Mecenasa albo przechodzi na kolejną edycję, według jego wyboru. Dotyczy to także pozycji transportu i ubezpieczenia przy mniejszej liczbie przysłanych oryginałów.
 
-Budżet policzony jest na **150 zgłoszeń plakatów** i to jest liczba, na którą pracujemy: 25 godzin kontroli formalnej to 10 minut na zgłoszenie razy 150. Pięćdziesiąt godzin dotarcia do szkół artystycznych i środowiska ilustratorów jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
+Budżet policzony jest na **150 zgłoszeń plakatów**. Jest to założenie przepustowości, a nie próg ani prognoza: regulamin wymaga wyłącznie tego, żeby zgłoszeń było co najmniej 10, a kontrola formalna rozliczana jest według faktycznej liczby, więc przy mniejszym naborze pozycja maleje. Skąd 150: 25 godzin kontroli formalnej to 10 minut na zgłoszenie razy 150. Pięćdziesiąt godzin dotarcia do szkół artystycznych i środowiska ilustratorów jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
 
 ## <!--ikona:tarcza--><span>Co jest nienaruszalne</span>
 

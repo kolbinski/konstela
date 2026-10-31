@@ -20,7 +20,7 @@ Po drugie: z którego budżetu miałoby to iść - treści czy marki - i czy w o
 
 Po trzecie: oferta uzasadnia nagrodę główną 100 000 zł porównaniem z festiwalem debiutów, gdzie debiut pełnometrażowy dostaje 20 000 zł, a film krótkometrażowy 10 000 zł, i argumentem, że tutaj film ma dopiero powstać bez finansowania produkcji. Czy to uzasadnienie się broni? Czy kwota przyciągnie filmy, które chciałbyś obejrzeć, czy ludzi liczących na łatwy pieniądz?
 
-Po czwarte: regulamin wymaga filmu trwającego od 20 do 90 minut, nakręconego na potrzeby plebiscytu, przy czym Organizator nie finansuje produkcji. Budżet policzony jest na 150 zgłoszeń. Czy ta liczba jest realna w polskich warunkach? Oceń to jako osoba, która wie, ilu ludzi w Polsce jest w stanie zrobić taki film w rok.
+Po czwarte: regulamin wymaga filmu trwającego od 20 do 90 minut, nakręconego na potrzeby plebiscytu, przy czym Organizator nie finansuje produkcji. Regulamin nie stawia żadnego wymogu co do liczby zgłoszeń poza progiem 10, poniżej którego edycja może nie zostać rozstrzygnięta; niezależnie od tego kosztorys policzony jest na 150 zgłoszeń jako założenie robocze. Czy ta liczba jest realna w polskich warunkach? Oceń to jako osoba, która wie, ilu ludzi w Polsce jest w stanie zrobić taki film w rok.
 
 Po piąte: które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno 290 godzin pracy organizatora oraz to, że pięć pozycji nie ma kwoty, w tym honoraria jury i przygotowanie techniczne zwiastunów.
 
