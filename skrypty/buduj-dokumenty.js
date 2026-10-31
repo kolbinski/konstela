@@ -667,7 +667,8 @@ function main() {
      adresat korespondencji może je znaleźć, bo działają pod linkiem.
      koncepcja.md zostaje, bo linkują do niej inne dokumenty i jest czytana
      z telefonu - jej adres nie trafia natomiast do korespondencji. */
-  const niePublikowane = (nazwa) => nazwa.endsWith('-notatki');
+  // CLAUDE.md to instrukcja pracy nad repozytorium, nie dokument przedsięwzięcia.
+  const niePublikowane = (nazwa) => nazwa.endsWith('-notatki') || nazwa === 'CLAUDE';
 
   const pliki = fs
     .readdirSync(KORZEN)

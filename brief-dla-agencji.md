@@ -68,7 +68,7 @@ Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych p
 
 **Archiwum będzie duże.** Docelowo kilkaset stron pojedynczych rozmów, z których każda jest długim dialogiem. Układ i typografia muszą to unieść, a nawigacja musi działać przy takiej liczbie wpisów.
 
-**Nie znam jeszcze skali ruchu.** Przy nagrodzie głównej 300 tys. zł liczba zgłoszeń może wynieść sto pięćdziesiąt albo tysiąc, a ruch w dniu ogłoszenia wyników jest nieprzewidywalny. Rozwiązanie ma to znieść bez przebudowy.
+**Nie znam jeszcze skali ruchu.** Przy nagrodzie głównej 300 tys. zł liczba zgłoszeń może wynieść kilkadziesiąt albo kilka tysięcy, a ruch w dniu ogłoszenia wyników jest nieprzewidywalny. Rozwiązanie ma to znieść bez przebudowy.
 
 ## 6. Harmonogram
 

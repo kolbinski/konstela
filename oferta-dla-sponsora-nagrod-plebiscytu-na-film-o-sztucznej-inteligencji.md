@@ -212,7 +212,7 @@ Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 19
 
 **Transze nie są zakupem godzin.** Każda obejmuje zadania odebrane w danym etapie: zadania ryczałtowe w pełnej kwocie, jeżeli zostały wykonane, i w kwocie zero, jeżeli nie wystąpiły, a dwie pozycje zależne od frekwencji - kontrola formalna i weryfikacja historii zgłoszonego filmu - według rzeczywistej liczby zgłoszeń: po 12 minut na zgłoszenie przy kontroli oraz 5 godzin na metodę i narzędzie plus 8 minut na zgłoszenie przy weryfikacji historii.
 
-Przy 15 zgłoszeniach Fundator płaci za sprawdzenie 15 filmów, nie 150: te dwie pozycje schodzą z 55 godzin do 10. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota.
+Przy 15 zgłoszeniach Fundator płaci za sprawdzenie 15 filmów, a nie za przepustowość objętą kosztorysem: te dwie pozycje schodzą z 55 godzin do 10. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz tę liczbę; godziny w kosztorysie służą wyłącznie pokazaniu, skąd wzięła się kwota.
 
 Żadna transza nie jest zapłatą z góry za pracę wykonywaną później. Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
@@ -230,7 +230,7 @@ Osobno regulamin przewiduje próg po stronie uczestników (§ 15 ust. 2): **jeż
 
 Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: dziesiątka finalistów jest tu zarazem całą stawką, więc przy mniejszej liczbie zgłoszeń nie byłoby czego rozstrzygać. Mówimy o tym wprost również uczestnikom, na [stronie plebiscytu](/plebiscyt-filmu#czego-od-ciebie-wymagamy-i-dlaczego), razem z zapowiedzią dwóch wiadomości: w dniu otwarcia naboru oraz w dniu, w którym dziesięć zgłoszeń przechodzi weryfikację i rozstrzygnięcie edycji jest pewne.
 
-Budżet policzony jest na **150 zgłoszeń filmów**. Jest to założenie przepustowości, a nie próg ani prognoza: regulamin wymaga wyłącznie tego, żeby zgłoszeń było co najmniej 10, a kontrola formalna rozliczana jest według faktycznej liczby, więc przy mniejszym naborze pozycja maleje. Skąd 150: 30 godzin kontroli formalnej to 12 minut na zgłoszenie razy 150. Tyle samo zakłada [budżet Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela), która wykonuje pierwsze przejście oceny. Pięćdziesiąt godzin dotarcia do szkół filmowych, kół filmowych i festiwali jest w kosztorysie właśnie dlatego, że ta liczba nie weźmie się sama.
+**Nie podajemy prognozy, ile filmów wpłynie - nie mamy na to podstawy i nie będziemy jej udawać.** Kosztorys kupuje określoną przepustowość: **30 godzin kontroli formalnej, czyli 12 minut na zgłoszenie**. Regulamin wymaga wyłącznie tego, żeby zgłoszeń było co najmniej 10, a pozycje rozliczane od liczby zgłoszeń maleją przy mniejszym naborze - Fundator płaci za filmy sprawdzone, nie za założone. Tę samą przepustowość obejmuje [budżet Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela), która wykonuje pierwsze przejście oceny. Pięćdziesiąt godzin dotarcia do szkół filmowych, kół filmowych i festiwali jest w kosztorysie właśnie dlatego, że zgłoszenia nie wezmą się same.
 
 **Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze.
 

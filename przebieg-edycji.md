@@ -1,6 +1,6 @@
 # Przebieg edycji - kto, co i kiedy
 
-Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby przykładowe dla 150 zgłoszeń, czyli dla umiarkowanego sukcesu frekwencyjnego.
+Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby przykładowe dla przepustowości objętej kosztorysem, czyli 300 odczytów rozmów. Nie jest to prognoza frekwencji - takiej nie mamy.
 
 ## 0. Przed otwarciem naboru
 
@@ -46,7 +46,7 @@ Tryb nie jest wybierany po zamknięciu naboru, bo czytelnicy pracują od lutego.
 
 ## 6. Runda pierwsza - akademia
 
-Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (przy 150 zgłoszeniach wystarcza 15 czytelników, przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). W trybach do 200 zgłoszeń każde zgłoszenie czytają 2 osoby; powyżej 200 obowiązuje odczyt jednoosobowy z zabezpieczeniami z § 8 ust. 10a, więc **obietnica dwóch czytelników nie jest bezwarunkowa i nigdzie nie jest tak formułowana**. Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
+Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (300 odczytów objętych kosztorysem rozkłada się na 15 czytelników, a przy 50 zgłoszeniach i 12 czytelnikach wypada po 8-9 rozmów). W trybach do 200 zgłoszeń każde zgłoszenie czytają 2 osoby; powyżej 200 obowiązuje odczyt jednoosobowy z zabezpieczeniami z § 8 ust. 10a, więc **obietnica dwóch czytelników nie jest bezwarunkowa i nigdzie nie jest tak formułowana**. Ocenia 4 kryteria według Karty oceny, przy każdej ocenie wskazuje fragment uzasadniający. Zgłoszenia prezentowane są w kolejności losowej, odrębnej dla każdego czytelnika, bez danych osobowych Uczestnika.
 
 **Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do jury niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić - ale tylko takie, które ktoś przeczytał i docenił. Przed przeoczeniem w trybie jednoosobowym (powyżej 200 zgłoszeń) chronią zabezpieczenia z § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie poniżej progu, losowy audyt co najmniej jednej dziesiątej odrzuconych i powrót do dwóch czytelników, jeśli audyt pokaże systematyczny błąd.
 

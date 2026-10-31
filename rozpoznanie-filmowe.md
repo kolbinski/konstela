@@ -71,4 +71,4 @@ Nie pytamy o patronat, nie prosimy o rozesłanie informacji i nie proponujemy ws
 
 ## Co z odpowiedziami
 
-Trafiają do oferty jako rozpoznanie, z nazwą źródła, w miejsce dzisiejszego zdania o 150 zgłoszeniach jako założeniu przepustowości. Jeżeli odpowiedzi będą ostrożne, rozważamy dwie zmiany wymagające poprawki regulaminu przed otwarciem naboru: obniżenie progu długości filmu albo przesunięcie części puli na wsparcie produkcyjne dla dziesiątki finalistów, na wzór sesji studyjnych w plebiscycie piosenki.
+Trafiają do oferty jako rozpoznanie, z nazwą źródła, w miejsce samego stwierdzenia o przepustowości objętej kosztorysem. Jeżeli odpowiedzi będą ostrożne, rozważamy dwie zmiany wymagające poprawki regulaminu przed otwarciem naboru: obniżenie progu długości filmu albo przesunięcie części puli na wsparcie produkcyjne dla dziesiątki finalistów, na wzór sesji studyjnych w plebiscycie piosenki.

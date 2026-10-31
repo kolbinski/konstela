@@ -46,7 +46,7 @@ Sprawdzian od strony pieniędzy: honoraria jury 69 500 zł, przy pięciu osobach
 
 ## Zakres zmiany w regulaminie
 
-To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Przy naborze rzędu stu pięćdziesięciu zgłoszeń - realnym scenariuszu pierwszej edycji - stopnie 1 i 2 zlewają się w jedno i obowiązuje dzisiejszy tryb. Nowy układ włącza się dopiero powyżej progu, który trzeba ustalić (rząd wielkości: kilkaset zgłoszeń).
+To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Dopóki nabór mieści się w przepustowości objętej kosztorysem, stopnie 1 i 2 zlewają się w jedno i obowiązuje dzisiejszy tryb. Nowy układ włącza się dopiero powyżej progu, który trzeba ustalić (rząd wielkości: kilkaset zgłoszeń).
 
 ## Czego ta notatka nie rozstrzyga
 

@@ -46,7 +46,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 
 **Pierwsze przejście decyduje o tym, co w ogóle zobaczy jury.** Zgłoszenie, które w rundzie pierwszej zostanie ocenione nisko, nie trafia dalej - i nikt go już nie przeczyta. Jeżeli pierwsza runda jest zrobiona byle jak, werdykt jury jest wiarygodny tylko pozornie, bo jury rozstrzyga o zbiorze, który ktoś inny wybrał.
 
-Bez Akademii jury musiałoby przeczytać wszystko, co wpłynęło. Przy 150 zgłoszeniach rozmów i 150 zgłoszeniach filmów to jest praca, której żadne jury złożone z osób rozpoznawalnych w nauce, edukacji i kulturze nie wykona rzetelnie - a nierzetelnie wykonana przez jury wygląda dokładnie tak samo jak wykonana dobrze, tylko że nikt już tego nie sprawdzi.
+Bez Akademii jury musiałoby przeczytać wszystko, co wpłynęło. Już przy naborze liczonym w setkach zgłoszeń to jest praca, której żadne jury złożone z osób rozpoznawalnych w nauce, edukacji i kulturze nie wykona rzetelnie - a nierzetelnie wykonana przez jury wygląda dokładnie tak samo jak wykonana dobrze, tylko że nikt już tego nie sprawdzi.
 
 **Za co konkretnie płaci ten partner:**
 
@@ -61,8 +61,10 @@ To jest zdanie, które Sponsor może powtórzyć na zarządzie: **firma zapłaci
 
 **Skala pracy przy założeniu z kosztorysu:**
 
-- **150 zgłoszeń rozmów razy 2 odczyty = 300 odczytów.** Czyta je grono czytelników rozmów, każdy z własnym przydziałem, na bieżąco przez cały rok naboru.
-- **150 zgłoszeń filmów razy 2 obejrzenia = 300 obejrzeń.** Każde obejrzenie to film do 90 minut plus wypełniona karta oceny, czyli **około 2 godzin pracy**.
+- **300 odczytów rozmów.** Czyta je grono czytelników rozmów, każdy z własnym przydziałem, na bieżąco przez cały rok naboru.
+- **300 obejrzeń filmów.** Każde obejrzenie to film do 90 minut plus wypełniona karta oceny, czyli **około 2 godzin pracy**.
+
+**Nie podajemy, ile zgłoszeń wpłynie - nie mamy na to podstawy.** Kwota kupuje odczyty i obejrzenia, a nie prognozę frekwencji; ile zgłoszeń się w tej liczbie zmieści, wynika z trybu oceny przewidzianego regulaminem. Co dzieje się powyżej opłaconej przepustowości, opisują dwie sekcje niżej: zmiana trybu oceny i sito uczestników.
 
 **Pierwsze przejście oceny piosenek i plakatów należy do tego samego zakresu**, ale nie ma jeszcze ustalonej stawki za jeden odsłuch i za jedną ocenę, więc stoi w kosztorysie jako osobne bloki bez ceny. Nie podajemy ich kwoty, dopóki nie wynika z ustalonej stawki; nie chcemy, żeby ktokolwiek liczył budżet na podstawie liczby, którą sami nazwalibyśmy szacunkiem.
 
@@ -151,7 +153,7 @@ Jakość sita pilnują trzy niezależne rzeczy, wszystkie w regulaminie: **kotwi
 
 **I zastrzeżenie, bez którego cała ta konstrukcja byłaby nieuczciwa:** oceny wystawione w sicie nie przyznają żadnej nagrody i nie wiążą ani Akademii, ani jury. Rozstrzygają wyłącznie o awansie, a zgłoszenia zakwalifikowane **opłacona Akademia czyta od nowa, bez dostępu do wyników sita**. Sponsor nadal finansuje ocenę wykonaną przez ludzi, którym za to płacimy - sito decyduje tylko o tym, co trafia na ich biurko.
 
-**W pierwszej edycji sito jest wyłączone.** Przy stu pięćdziesięciu zgłoszeniach jest zbędne i tylko komplikowałoby start; mechanizm siedzi w regulaminie gotowy do ogłoszenia, gdyby kolejna edycja miała inny rozmiar. Konstrukcję wraz z rachunkiem opisuje osobny dokument: [skalowanie oceny przy dużym naborze](/dokument/skalowanie-oceny).
+**W pierwszej edycji sito jest wyłączone.** Dopóki nabór mieści się w opłaconej przepustowości, jest zbędne i tylko komplikowałoby start; mechanizm siedzi w regulaminie gotowy do ogłoszenia, gdyby kolejna edycja miała inny rozmiar. Konstrukcję wraz z rachunkiem opisuje osobny dokument: [skalowanie oceny przy dużym naborze](/dokument/skalowanie-oceny).
 
 **Przeciążenie przesuwa terminy, nie obniża jakości.** Jeżeli zgłoszeń będzie więcej, niż da się rzetelnie ocenić w terminach z regulaminu, Organizator **nie ogranicza liczby przyjmowanych zgłoszeń i nie odstępuje od przeczytania któregokolwiek z nich** - przesuwa dzień ogłoszenia wyników, ogłaszając nową datę wraz z liczbą zgłoszeń, której to dotyczy. Dla Sponsora znaczy to, że jego edycja może potrwać dłużej, niż zakłada terminarz; raporty etapów i rozliczenie końcowe przesuwają się razem z nią, a za samo przesunięcie nikt nie dopłaca. Piszemy to tutaj, bo jest to realne ryzyko tej roli, a nie przypis w regulaminie. **Oczekiwanie Sponsora ma jednak koniec, osobny od regulaminu:** jeżeli wyniki nie zostaną ogłoszone do **30 kwietnia 2029 roku**, czyli rok po terminie planowanym, Sponsor może wypowiedzieć umowę i otrzymuje rozliczenie pracy wykonanej do tego dnia wraz ze zwrotem reszty. Regulamin przesunięcia nie ogranicza, bo chroni uczestników - ale Sponsor nie jest uczestnikiem i nie ma powodu, żeby czekał bez końca.
 
