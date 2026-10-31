@@ -53,7 +53,7 @@ jobs:
           node-version: '20'
 
       - name: Zainstaluj bibliotekę do markdown
-        run: npm install --no-save --no-audit --no-fund marked@12.0.2 hyphen@1.14.1
+        run: npm install --no-save --no-audit --no-fund marked@12.0.2 hyphen@1.14.1 exceljs@4.4.0
 
       - name: Zbuduj strony dokumentów
         env:
@@ -62,6 +62,12 @@ jobs:
           # zmiany zmienia się sam, więc nie trzeba go podbijać ręcznie.
           ZNACZNIK_ZASOBOW: ${{ github.sha }}
         run: node skrypty/buduj-dokumenty.js
+
+      - name: Zbuduj strony arkuszy
+        # Arkusze trafiają na stronę jako gotowy HTML, żeby kosztorys dało się
+        # przeczytać bez JavaScriptu. Skrypt strony, jeżeli się wykona,
+        # zastępuje wersję statyczną układem z zakładkami.
+        run: node skrypty/buduj-arkusze.js
 
       - name: Usuń rzeczy, których nie publikujemy
         run: rm -rf node_modules .github skrypty

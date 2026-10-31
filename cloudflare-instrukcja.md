@@ -88,7 +88,13 @@ Otwórz w trybie prywatnym:
 - **Always Use HTTPS**, jeżeli nie jest już włączone po stronie GitHuba.
 
 
-## Reguła druga: arkusze pod `/arkusz/`
+## Reguła druga: arkusze pod `/arkusz/` - **do usunięcia po 31.10.2026**
+
+**Stan po zmianie z 31 października 2026.** Strony arkuszy powstają teraz przy budowaniu jako gotowy HTML pod `/arkusz/<nazwa>/index.html`, żeby kosztorys dało się przeczytać bez JavaScriptu. Reguła przepisująca `/arkusz/*` na `view-xlsx.html` **przykrywa te pliki** i trzeba ją w panelu Cloudflare wyłączyć albo skasować. Nic przez to nie przestanie działać: adres `/arkusz/budzet-edycji-pierwszej` trafi wtedy wprost na wygenerowaną stronę, która po wczytaniu skryptu i tak przechodzi w układ z zakładkami, a stara postać `view-xlsx.html?file=` działa dalej. Do czasu usunięcia reguły strona wygląda tak jak przedtem, więc nie ma tu pośpiechu - jest tylko różnica między „widać kosztorys bez skryptu" a „nie widać".
+
+Opis poniżej zostaje jako zapis tego, jak reguła była zbudowana.
+
+### Jak była zbudowana
 
 Utworzona 25.10.2026, tą samą metodą co reguła dokumentów.
 

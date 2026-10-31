@@ -17,3 +17,17 @@ Kontrola, czy plik nadaje się do commitu:
     python3 -c "import zipfile,re;d=zipfile.ZipFile('plik.xlsx').read('xl/worksheets/sheet2.xml').decode();print(len(re.findall(r'<f[^>]*>[^<]*</f><v></v>',d)))"
 
 Wynik musi być zerem.
+
+## Arkusze jako gotowe strony
+
+`node skrypty/buduj-arkusze.js` zapisuje `/arkusz/<nazwa>/index.html` z pełną
+treścią wszystkich zakładek. Szablonem jest `view-xlsx.html`, więc układ i style
+są jedne. Skrypt strony, jeżeli się wykona, zastępuje wersję statyczną układem z
+zakładkami - prerendering jest wzmocnieniem, nie zamiennikiem.
+
+Wymaga `npm install exceljs`. Nowy arkusz dodaje się w stałej `ARKUSZE` w tym
+skrypcie. Katalog `/arkusz/` jest poza repozytorium; powstaje przy budowaniu,
+tak samo jak `/dokument/`.
+
+Formuł skrypt nie liczy - bierze wyniki zapisane w pliku, więc obowiązuje
+zasada z poprzedniego rozdziału.

@@ -7,6 +7,10 @@ node_modules/
 __pycache__/
 .DS_Store
 
+# Strony arkuszy powstają przy budowaniu z plików .xlsx - patrz
+# skrypty/buduj-arkusze.js. W repozytorium zostaje sam plik źródłowy.
+/arkusz/
+
 # Adres dedykowany plebiscytu oraz mapa strony też powstają przy budowaniu
 /plebiscyt-piosenki/index.html
 /sitemap.xml

@@ -545,6 +545,33 @@
         border: 1px solid var(--rule);
         cursor: pointer;
       }
+      /* Wersja prerenderowana: zakładki są odnośnikami do kotwic, a każda
+         zakładka stoi jedna pod drugą. Skrypt, jeżeli działa, zastępuje to
+         układem z przyciskami - style poniżej dotyczą obu postaci. */
+      .tabs a {
+        font-family: var(--mono);
+        font-size: 0.86rem;
+        letter-spacing: 0.04em;
+        text-transform: uppercase;
+        color: var(--brass);
+        text-decoration: none;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 0.42rem 0.9rem;
+        background: var(--surface);
+      }
+      .tabs a:hover {
+        border-color: var(--brass);
+      }
+      section.zakladka {
+        margin: 2.4rem 0;
+        scroll-margin-top: 5rem;
+      }
+      section.zakladka h2 {
+        font-family: var(--display);
+        font-size: 1.5rem;
+        margin: 0 0 0.9rem;
+      }
       .tabs button[aria-current='true'] {
         color: var(--brass);
         border-color: var(--brass);
