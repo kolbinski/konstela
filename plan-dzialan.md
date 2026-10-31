@@ -15,8 +15,12 @@ Recenzja z 31.10 z perspektywy firmy medialnej zakończyła się odmową, a jej 
 
 **Decyzja: oferty dla fundatora nagród plebiscytu filmu nie wysyłamy, dopóki nie mamy rozpoznania.** Strona zostaje dostępna, bo jest spójna i nikt jej nie dostaje na papierze.
 
+Lista adresatów, treść pytania i to, czego świadomie nie pytamy, jest w `rozpoznanie-filmowe.md`.
+
 - [ ] **Rozmowa z dwiema szkołami filmowymi** - najbliżej jest PWSFTviT w Łodzi, druga do wyboru. Pytanie jedno i konkretne: czy przy nagrodzie głównej 100 000 zł i wymogu filmu od 20 minut nakręconego na potrzeby plebiscytu zgłosiłby się ktoś z ich studentów albo absolwentów i ilu.
 - [ ] **Rozmowa z jednym festiwalem krótkiego metrażu** o tym, ile filmów rocznie powstaje poza obiegiem dotacyjnym i ile z nich mieści się w przedziale 20-90 minut.
+- [ ] **Pytanie do Studia Munka-SFP**, które prowadzi programy „30 minut" i „Sześćdziesiąt Minut" - czy nasz plebiscyt koliduje z nimi, czy je uzupełnia.
+- [ ] **Wiadomości do pięciu twórców wideoesejów** publikujących na YouTube długie formy o technologii. To jest grupa najbliższa temu, czego plebiscyt wymaga, i nie ma jej dotąd w żadnym naszym dokumencie.
 - [x] **Pokaz kuratorski filmów finałowych wszedł do kosztorysu** jako pozycja gwarantowana za 12 000 zł, wraz z przejazdami twórców i spotkaniem z publicznością; oferta rośnie do 281 600 zł netto. Odpowiada to na pytanie, co dostaje finalista, który nie wygrał, bo wcześniej w tym plebiscycie nie było ani jednej pozycji trafiającej do uczestnika przed werdyktem.
 - [ ] **Wynik wpisać do oferty jako rozpoznanie**, a nie jako założenie. Jeżeli odpowiedzi będą ostrożne, rozważyć obniżenie progu długości filmu albo przesunięcie części puli na granty produkcyjne - obie zmiany wymagają zmiany regulaminu przed otwarciem naboru.
 
