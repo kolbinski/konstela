@@ -186,7 +186,7 @@ W pozostałych plebiscytach koszt wejścia jest niewielki: rozmowę się przepro
 Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Fundator otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
-- **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu;
+- **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu. Trzeba przy tym powiedzieć, czego ta kwota nie obejmuje: pierwsze przejście oceny wykonuje Akademia, finansowana przez osobnego sponsora, a honoraria jury są w tym kosztorysie pozycją otwartą. Nie jest to jednak ryzyko przerzucone na Fundatora. Potwierdzony i ogłoszony skład jury jest jednym z trzech warunków otwarcia naboru, więc jeżeli jury nie zostanie skompletowane, nabór się nie otwiera, a środki wracają w całości wraz z rozliczeniem. Nie gwarantujemy oceny za cudze pieniądze - gwarantujemy, że bez jury nie ruszy nabór, na który wystawiona jest pula Fundatora;
 - **Projektornię i archiwum filmów**, czyli publicznie dostępny zestaw zakwalifikowanych zgłoszeń, w zakresie, w jakim ich autorzy utrzymują filmy dostępnymi - Organizator nie przechowuje kopii i nie może tego zagwarantować za nich;
 - **pokaz kuratorski filmów finałowych** w postaci gwarantowanej: jeden seans blokowy z wyboru dziesiątki w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami, których przejazd i nocleg pokrywa ta oferta.
 
