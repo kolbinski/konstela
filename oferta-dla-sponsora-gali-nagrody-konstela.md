@@ -4,9 +4,9 @@
 
 ## <!--ikona:puchar--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który weźmie na siebie galę rozstrzygnięcia pierwszej edycji - wieczór, na którym ogłaszane są werdykty wszystkich czterech plebiscytów.** Kwota pozycji wycenionych wynosi **62 048 zł netto**.
+**Szukamy partnera, który weźmie na siebie galę rozstrzygnięcia pierwszej edycji - wieczór, na którym ogłaszane są werdykty wszystkich czterech plebiscytów.** Kwota pozycji wycenionych wynosi **87 808 zł netto**.
 
-Zastrzeżenie piszemy od razu, bo inaczej liczba byłaby nieuczciwa: **62 048 zł nie jest pełnym kosztem gali.** Cztery pozycje czekają na wycenę - oprawa artystyczna, rejestracja wideo z udostępnieniem zapisu, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania - i kwota podniesie się, gdy miejsce gali zostanie wybrane. Nie chcemy pokazywać niskiej liczby i dopisywać reszty po podpisaniu umowy, więc mówimy wprost, czego jeszcze nie policzyliśmy i dlaczego.
+Zastrzeżenie piszemy od razu, bo inaczej liczba byłaby nieuczciwa: **87 808 zł nie jest pełnym kosztem gali.** Dwie pozycje czekają na wycenę - oprawa artystyczna oraz tantiemy dla organizacji zbiorowego zarządzania - i kwota podniesie się, gdy miejsce gali zostanie wybrane, a repertuar wieczoru będzie znany. Nie chcemy pokazywać niskiej liczby i dopisywać reszty po podpisaniu umowy, więc mówimy wprost, czego jeszcze nie policzyliśmy i dlaczego.
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Sponsor gali** - rola opisana na tej stronie - finansuje wieczór rozstrzygnięcia. [Fundator nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę i pracę jury, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje, a [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
@@ -48,7 +48,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**62 048 zł netto** (76 319,04 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**87 808 zł netto** (108 003,84 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |            Netto |
 | ------------------------------------------------------------ | ---------------: |
@@ -57,22 +57,24 @@ Program jednego wieczoru, liczony na około dwie godziny:
 | Fotograf na gali                                             |       1 500 zł |
 | Przejazdy i noclegi jury                                     |       4 000 zł |
 | Przejazdy i noclegi finalistów czterech plebiscytów na galę  |      32 000 zł |
-| **Razem koszty twarde**                                      |  **21 500 zł** |
-| Rezerwa na przekroczenia (12% od pracy i kosztów)            |       6 648 zł |
-| **Razem netto**                                              |  **62 048 zł** |
-| VAT 23%                                                      |    14 271,04 zł |
-| **Do zapłaty brutto**                                        | **76 319,04 zł** |
+| Rejestracja wideo i bezpłatne udostępnienie zapisu           |      15 000 zł |
+| Prowadzenie gali                                             |       8 000 zł |
+| **Razem koszty twarde**                                      |  **68 500 zł** |
+| Rezerwa na przekroczenia (12% od pracy i kosztów)            |       9 408 zł |
+| **Razem netto**                                              |  **87 808 zł** |
+| VAT 23%                                                      |    20 195,84 zł |
+| **Do zapłaty brutto**                                        | **108 003,84 zł** |
 
 **Przejazdy finalistów obejmują wszystkie cztery plebiscyty.** Na galę przyjeżdża czterdziestu finalistów, po dziesięciu z każdego plebiscytu, i to ta oferta finansuje ich przejazd oraz nocleg - nie budżety poszczególnych plebiscytów. Jeden partner, jeden przewoźnik, jedno rozliczenie. W kosztorysach plebiscytów pozycja ta figuruje z kwotą zero wraz z odesłaniem tutaj, żeby nikt nie policzył jej dwa razy.
 
-**Cztery pozycje czekają na wycenę** i zostaną uzgodnione osobno, zanim Sponsor cokolwiek podpisze:
+**Co obejmują prowadzenie gali i rejestracja wideo.** Prowadzenie, 8 000 zł, to honorarium osoby rozpoznawalnej z radia, podcastów albo mediów zajmujących się technologią. Wieczór obejmuje werdykty czterech plebiscytów, występy czołowej trójki plebiscytu na piosenkę i blok zwiastunów filmowych, więc prowadzenie jest tu pracą nad rytmem całości, a nie odczytaniem kopert. Rejestracja, 15 000 zł, to trzy kamery, własny operator dźwięku, montaż całości, trzyminutowy skrót oraz **cztery krótkie materiały, po jednym na każdy plebiscyt** - te ostatnie dlatego, że każdy plebiscyt ma własnego partnera i własną stronę, na której taki materiał zostaje.
+
+**Dwie pozycje czekają na wycenę** i zostaną uzgodnione osobno, zanim Sponsor cokolwiek podpisze:
 
 - **oprawa artystyczna gali** - scena, nagłośnienie, światło i obsługa techniczna wieczoru;
-- **rejestracja wideo i bezpłatne udostępnienie zapisu** - zdjęcia, montaż i publikacja nagrania;
-- **prowadzenie gali** - honorarium osoby prowadzącej;
 - **tantiemy dla organizacji zbiorowego zarządzania** - za wykonania utworów na żywo.
 
-Od czego zależy ich wycena, mówimy wprost: **pierwsze trzy od wyboru miejsca.** Sala z własną techniką, obsługą i możliwością rejestracji daje zupełnie inną liczbę niż sala, do której trzeba wszystko dowieźć; nie da się tego rzetelnie policzyć przed wyborem miejsca i nie chcemy podawać kwoty, którą musielibyśmy potem podnieść. **Tantiemy zależą od repertuaru** - od tego, jakie utwory i czyjego autorstwa wybrzmią na scenie, a to wiadomo po werdyktach plebiscytu na piosenkę.
+Od czego zależą, mówimy wprost: **oprawa od wyboru miejsca.** Sala z własną techniką i obsługą daje zupełnie inną liczbę niż sala, do której trzeba wszystko dowieźć; nie da się tego rzetelnie policzyć przed wyborem miejsca i nie chcemy podawać kwoty, którą musielibyśmy potem podnieść. **Tantiemy zależą od repertuaru** - od tego, jakie utwory i czyjego autorstwa wybrzmią na scenie, a to wiadomo po werdyktach plebiscytu na piosenkę.
 
 **Rezerwa liczona jest od pracy i kosztów twardych.** Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Sponsora albo, na jego pisemny wybór, przechodzą na galę kolejnej edycji.
 
@@ -100,7 +102,8 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 - **wieczór, na którym zostają ogłoszone werdykty rozstrzygniętych plebiscytów**, z udziałem finalistów;
 - **przejazd i nocleg dla finalistów**, którzy przyjadą;
-- **zapis wideo udostępniony bezpłatnie**, czyli materiał, który zostaje dłużej niż wieczór.
+- **prowadzenie gali przez osobę zawodowo to robiącą**, w kwocie z kosztorysu;
+- **rejestrację wideo w postaci opisanej w kosztorysie i zapis udostępniony bezpłatnie**, czyli materiał, który zostaje dłużej niż wieczór.
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 

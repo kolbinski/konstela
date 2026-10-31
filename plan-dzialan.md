@@ -45,6 +45,14 @@ Rozważany był warunek zgłoszenia pozwalający fundacji wgrywać zakwalifikowa
 
 Wprowadzone zamiast tego, w regulaminie filmu: litera e w § 12 ust. 2 (publikacja z kopii za odrębną, odwoływalną zgodą, z oznaczeniem autorstwa, linkiem do kanału autora i bez włączania zarabiania), ust. 2c (zgody z lit. d i e nie są warunkiem udziału, odmowa bez skutków i bez ponawiania pytania w tej edycji), ust. 2d (gdy film przestaje być dostępny u autora, pytamy jego albo osoby uprawnione po nim, a bez zgody nie publikujemy) oraz ust. 2e (playlista Archiwum odsyłająca do kanałów autorów). Playlista jest tym, co realizuje pierwotną intencję bez kosztu i bez przenoszenia na nas roli wydawcy.
 
+## Gala: konferansjer i rejestracja wideo weszły do roli (31.10.2026)
+
+Prowadzenie gali i rejestracja wideo stały w Budżecie Gali na zerze jako pozycje „do wyceny", czyli formalnie należały do roli sponsora, ale nic nie gwarantowały. Wybrane warianty średnie: **prowadzenie 8 000 zł** (osoba rozpoznawalna z radia, podcastów albo mediów o technologii) i **rejestracja 15 000 zł** (trzy kamery, operator dźwięku, montaż całości, skrót oraz cztery krótkie materiały, po jednym na plebiscyt - bo każdy plebiscyt ma własnego partnera i własną stronę). Transmisja na żywo odrzucona na pierwszą edycję: publiczność internetowa dla gali bez nazwy jest hipotezą, a zapis działa tak samo dzień później.
+
+Oferta gali rośnie z 62 048 do **87 808 zł netto** (108 003,84 zł brutto), rezerwa z 6 648 do 9 408 zł, suma całości do 1 880 187,76 zł. Obie pozycje przesunięte do nienaruszalnego rdzenia, bo bez tego gwarancja byłaby pozorna. Pozycji czekających na wycenę zostały w tej ofercie dwie: oprawa artystyczna i tantiemy.
+
+Przy okazji poprawiony błąd w tabeli oferty gali: wiersz „Razem koszty twarde" pokazywał 21 500 zł, choć koszty twarde wynosiły 45 500 zł - liczba została z czasów przed konsolidacją przejazdów finalistów.
+
 ## Dokumenty do MKiDN czekają na przeliczenie
 
 Decyzja o kopii archiwalnej podniosła Budżet Filmu, a film jest w zakresie pytania do MKiDN, więc załącznik „Zestawienie zadania" i oba pisma mają dziś liczby starsze niż arkusz. Przy przeliczaniu trzeba naprawić także dwie rzeczy, które były nieaktualne już wcześniej:
