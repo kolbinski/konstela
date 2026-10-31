@@ -88,7 +88,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Rezerwa na przekroczenia (12%, bez nagród)                     |      16 586,76 zł |
 | **Razem netto**                                                | **547 809,76 zł** |
-| VAT 23%                                                        |  125 223,44 zł |
+| VAT 23%                                                        |  125 996,24 zł |
 | **Do zapłaty brutto**                                          | **673 806,00 zł** |
 
 **Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.

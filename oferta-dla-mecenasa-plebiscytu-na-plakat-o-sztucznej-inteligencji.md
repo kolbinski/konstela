@@ -81,7 +81,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu |       3 000 zł |
 | Rezerwa na przekroczenia (12%, bez nagród)                   |       6 972 zł |
 | **Razem netto**                                              | **167 072 zł** |
-| VAT 23%                                                      |   37 370,40 zł |
+| VAT 23%                                                      |   38 426,56 zł |
 | **Do zapłaty brutto**                                        | **205 498,56 zł** |
 
 **Praca organizatora to 195 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
@@ -96,7 +96,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**: kontrolę forma
 
 **Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje proporcjonalnie.
 
-**Cztery pozycje czekają na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 167 072 zł:
+**Pięć pozycji czeka na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 167 072 zł:
 
 - **honoraria jury plakatu za ocenę** oraz **honoraria za etap przygotowawczy**, czyli za przygotowanie karty oceny przed otwarciem naboru - do ustalenia po skompletowaniu jury;
 - **realizacja wystawy przy gali**: zawieszenie, oświetlenie, opisy prac i obsługa sali;
@@ -109,7 +109,9 @@ Każdą z nich uzgadniamy osobno, aneksem, po przedstawieniu Mecenasowi oferty d
 
 **Dojazd i nocleg finalistów pokrywa [sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)**, a nie ta oferta. Gala jest wspólna dla czterech plebiscytów i przyjeżdża na nią czterdziestu finalistów, więc jeden partner organizuje i rozlicza cały przyjazd. Pozycja zostaje w zestawieniu z kwotą zero, żeby było widać, że koszt istnieje i kto go ponosi.
 
-**Co skaluje się z liczbą zgłoszeń, a co nie.** Kontrola formalna rozliczana jest **według faktycznej liczby zgłoszeń**, po 10 minut na zgłoszenie - przy 15 zgłoszeniach Mecenas nie płaci za kontrolę 150. Tak samo transport i ubezpieczenie rozliczają się według liczby przysłanych oryginałów. Pozostałe godziny - dotarcie do szkół, obsługa jury, uzgodnienie okładki, obsługa licytacji - są ryczałtem, bo ich nakład nie zależy od frekwencji: do szkoły trzeba napisać niezależnie od tego, ilu uczniów odpowie. Różnica wraca do Mecenasa przy rozliczeniu.
+**Co skaluje się z liczbą zgłoszeń, a co nie.** Kontrola formalna rozliczana jest **według faktycznej liczby zgłoszeń**, po 10 minut na zgłoszenie - przy 15 zgłoszeniach Mecenas nie płaci za kontrolę 150. Tak samo transport i ubezpieczenie rozliczają się według liczby przysłanych oryginałów. Pozostałe godziny są **ryczałtem za wykonanie zadania, a nie zakupem godzin**: Mecenas kupuje rezultat - przeprowadzoną ocenę, uzgodnioną okładkę, przeprowadzoną licytację - i płaci za niego umówioną kwotę niezależnie od tego, czy zajęła ona więcej czy mniej czasu. Nakład tych zadań nie zależy od frekwencji: do szkoły trzeba napisać niezależnie od tego, ilu uczniów odpowie.
+
+**Ryczałt za zadanie, które nie wystąpi, nie jest należny.** Jeżeli nie będzie galerii i licytacji, odpada 4 400 zł obsługi licytacji; jeżeli antologia nie powstanie, odpada 3 300 zł uzgodnienia okładki. Kwoty te wracają do Mecenasa tak samo jak niewykorzystana rezerwa. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, a przy pozycjach skalowanych - ile zgłoszeń i ile oryginałów rzeczywiście przez nie przeszło.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów twardych, bez nagród** - od 58 100 zł, czyli 42 900 zł pracy oraz 15 200 zł medalu, dyplomów, transportu, ubezpieczenia i honorariów zespołu wybierającego najlepsze uzasadnienie. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Mecenasa albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -162,7 +164,7 @@ Poza tytułem:
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
-**Rozliczenie następuje dwa razy**, bo obieg prac kończy się później niż edycja. W ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje **sprawozdanie z wykonania budżetu** w podziale na pozycje z tabeli powyżej, wraz z wykorzystaniem rezerwy, listą wypłaconych nagród i rozliczeniem transportu oraz polisy w zakresie dotychczas zafakturowanym. **Rozliczenie obiegu prac** - protokoły zwrotu wszystkich oryginałów, rozliczenie wystawy w galerii i licytacji, jeżeli się odbyły, oraz końcowe rozliczenie polisy - następuje w ciągu trzydziestu dni od zwrotu ostatniej pracy autorowi. Niewykorzystane kwoty wracają przy tym drugim rozliczeniu.
+**Rozliczenie następuje dwa razy**, bo obieg prac kończy się później niż edycja. W ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje **sprawozdanie z wykonania budżetu** w podziale na pozycje z tabeli powyżej, wraz z wykorzystaniem rezerwy, listą wypłaconych nagród i rozliczeniem transportu oraz polisy w zakresie dotychczas zafakturowanym. **Rozliczenie obiegu prac** - protokoły zwrotu albo wydania nabywcom **wszystkich powierzonych oryginałów**, rozliczenie wystawy w galerii i licytacji, jeżeli się odbyły, oraz końcowe rozliczenie polisy - następuje w ciągu trzydziestu dni od dnia, w którym ostatnia powierzona praca wróciła do autora albo została wydana nabywcy po licytacji. Odpowiedzialność Organizatora za każdy powierzony oryginał kończy się dopiero z tym dniem, a nie z dniem gali. Niewykorzystane kwoty wracają przy tym drugim rozliczeniu.
 
 ## <!--ikona:zasady--><span>Czego oferta nie obejmuje</span>
 
@@ -204,7 +206,8 @@ Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością a
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wystawa prac finałowych, premiera antologii ze zwycięskim plakatem na okładce</small></dd></div>
 <div><dt>Maj 2028</dt><dd>Zwrot oryginałów autorom<small>przesyłka zwrotna w ciągu 30 dni od zakończenia wystawy</small></dd></div>
 <div><dt>Maj albo czerwiec 2028</dt><dd>Wystawa w galerii sztuki i cicha licytacja<small>wyłącznie jeżeli galeria zostanie pozyskana; nie jest to obiecane w regulaminie</small></dd></div>
-<div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Mecenasa<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród, rozliczenie transportu i polisy, protokoły zwrotu oryginałów</small></dd></div>
+<div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie z wykonania budżetu<small>pozycja po pozycji, wykorzystanie rezerwy, lista wypłaconych nagród oraz rozliczenie transportu i polisy w zakresie dotychczas zafakturowanym</small></dd></div>
+<div><dt>Do 30 dni po zamknięciu obiegu ostatniej pracy</dt><dd>Rozliczenie obiegu oryginałów<small>protokoły zwrotu albo wydania nabywcom wszystkich powierzonych prac, rozliczenie wystawy w galerii i licytacji, końcowe rozliczenie polisy i zwrot kwot niewykorzystanych</small></dd></div>
 </dl>
 
 ## <!--ikona:dokument--><span>Co Mecenas dostaje przed jakimkolwiek zobowiązaniem</span>
@@ -226,7 +229,7 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 
 **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Mecenas składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura. Jeżeli w chwili decyzji fundacja nie jest jeszcze wpisana do rejestru, podpisujemy **umowę przedwstępną**: Mecenas zobowiązuje się zawrzeć umowę właściwą z fundacją w ciągu czternastu dni od jej wpisu, na warunkach, które są jej załącznikiem i które widział wcześniej. **Przed rejestracją nie przyjmujemy od niego żadnej wpłaty** - koszt powołania fundacji należy do [Budżetu Uruchomienia](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela), nie do tej oferty.
 
-**Kto wykonuje prace, za które Mecenas płaci.** Pozycję „praca organizatora", czyli 190 godzin po 220 zł, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
+**Kto wykonuje prace, za które Mecenas płaci.** Pozycję „praca organizatora", czyli 195 godzin po 220 zł, wykonuje **jednoosobowa działalność gospodarcza Organizatora** - ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po stawce jednakowej we wszystkich budżetach Nagrody i jawnej w arkuszu. **Piszemy to wprost, bo jest to transakcja z podmiotem powiązanym i Mecenas ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.**
 
 **Kto tę umowę zawiera i kto odbiera pracę.** Nie Organizator sam ze sobą. Statut powierza umowy z członkami Zarządu **Radzie Fundacji** - organowi, w którym nie może zasiadać żaden członek Zarządu. To Rada podejmuje uchwałę o zawarciu umowy z działalnością Organizatora, Rada przyjmuje raporty etapów i Rada zatwierdza rozliczenie godzin. **Mecenas może wskazać osobę, która otrzymuje te raporty.** Godziny rozliczane są w sprawozdaniu etapami, a statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
 

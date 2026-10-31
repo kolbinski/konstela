@@ -102,7 +102,7 @@ Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa tr
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Rezerwa na przekroczenia (12%, bez nagród)                     |       8 160 zł |
 | **Razem netto**                                                | **268 160 zł** |
-| VAT 23%                                                        |      60 904 zł |
+| VAT 23%                                                        |      61 676,80 zł |
 | **Do zapłaty brutto**                                          | **329 836,80 zł** |
 
 ### Z czego składa się praca organizatora: 290 godzin

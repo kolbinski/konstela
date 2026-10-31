@@ -60,7 +60,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 | **Razem koszty twarde**                                      |  **21 500 zł** |
 | Rezerwa na przekroczenia (12% od pracy i kosztów)            |       6 648 zł |
 | **Razem netto**                                              |  **62 048 zł** |
-| VAT 23%                                                      |    8 088,64 zł |
+| VAT 23%                                                      |    14 271,04 zł |
 | **Do zapłaty brutto**                                        | **76 319,04 zł** |
 
 **Przejazdy finalistów obejmują wszystkie cztery plebiscyty.** Na galę przyjeżdża czterdziestu finalistów, po dziesięciu z każdego plebiscytu, i to ta oferta finansuje ich przejazd oraz nocleg - nie budżety poszczególnych plebiscytów. Jeden partner, jeden przewoźnik, jedno rozliczenie. W kosztorysach plebiscytów pozycja ta figuruje z kwotą zero wraz z odesłaniem tutaj, żeby nikt nie policzył jej dwa razy.

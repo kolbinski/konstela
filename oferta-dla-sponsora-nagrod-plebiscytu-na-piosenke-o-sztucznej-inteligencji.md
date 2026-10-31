@@ -96,7 +96,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |      23 460 zł |
 | **Razem netto**                                                | **265 960 zł** |
-| VAT 23%                                                        |      60 398 zł |
+| VAT 23%                                                        |      61 170,80 zł |
 | **Do zapłaty brutto**                                          | **327 130,80 zł** |
 
 **Praca organizatora to 165 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się na 5 nazwanych zakresów:
