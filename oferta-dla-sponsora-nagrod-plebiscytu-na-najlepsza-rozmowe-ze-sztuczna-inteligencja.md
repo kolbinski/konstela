@@ -146,7 +146,7 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 34 000 zł, czyli tyle, ile 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
 | Po konsultacji prawnej i po potwierdzeniu finansowania pierwszej rundy, przed otwarciem naboru | 426 476 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 7 226, magazyn kopii 1 500, księgowość 1 500, domeny 250 |
-| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; trzy transze po tym wierszu dają łącznie **147 826,88 zł** |
+| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **147 826,88 zł** |
 | Po zamknięciu naboru i zakończeniu pierwszej rundy | według godzin | kolejna część pracy organizatora, na tych samych zasadach |
 | Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta ze 147 826,88 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień - oraz rezerwa w części wykorzystanej |
 | Osobno, po zakończeniu oceny | 32 000 zł | honoraria jury, na podstawie umów z jurorami, w kwotach z tych umów i bez narzutu; pieniądze nie przechodzą przez wykonawcę pracy organizatora |
