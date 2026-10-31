@@ -9,7 +9,7 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 | Warunki uruchomienia | Organizator | pula ma pokrycie w zobowiązaniu fundatora, co najmniej 3 osoby potwierdziły udział w jury, regulamin po konsultacji prawnej |
 | Ogłoszenie puli nagród | Organizator | od tego dnia przyrzeczenie publiczne wiąże; pula może już tylko rosnąć |
 | Powołanie akademii i listy rezerwowej | Organizator | akademia powoływana na jedną edycję |
-| Próba kalibracyjna | jury + akademia | te same **trzy** rozmowy spoza edycji (§ 8 ust. 12), ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej; te same rozmowy wracają jako kotwice |
+| Próba kalibracyjna | jury + akademia | te same **trzy** rozmowy spoza edycji (§ 8 ust. 12), ocena niezależna, omówienie rozbieżności, ustalenie progu oceny trzeciej; te same rozmowy wracają w połowie naboru i po jego zamknięciu |
 
 ## 1. Okno rozmów
 
@@ -50,7 +50,7 @@ Każdy czytelnik dostaje losowy przydział, maksymalnie 20 zgłoszeń (300 odczy
 
 **Dzika karta:** każdy czytelnik może raz w edycji skierować jedno zgłoszenie do jury niezależnie od wyniku rundy, z pisemnym uzasadnieniem. Mechanizm chroni rozmowy nietypowe, które uśredniona ocena mogłaby odrzucić - ale tylko takie, które ktoś przeczytał i docenił. Przed przeoczeniem w trybie jednoosobowym (powyżej 200 zgłoszeń) chronią zabezpieczenia z § 8 ust. 10a: obowiązkowy drugi odczyt w paśmie poniżej progu, losowy audyt co najmniej jednej dziesiątej odrzuconych i powrót do dwóch czytelników, jeśli audyt pokaże systematyczny błąd.
 
-**Kotwice przeciw dryfowi:** te same trzy rozmowy kalibracyjne oceniane ponownie w połowie naboru i po jego zamknięciu. Służą rozpoznaniu, czy czytelnik zmienił własny standard, a nie wyznaczeniu prawidłowej punktacji. Istotne przesunięcie uruchamia przegląd jego wcześniejszych ocen przy granicy kwalifikacji. Punktacja zamrażana jest 14 dni po zamknięciu naboru, każda zmiana oceny zachowuje datę i uzasadnienie.
+**Rozmowy kalibracyjne przeciw dryfowi:** te same trzy rozmowy kalibracyjne oceniane ponownie w połowie naboru i po jego zamknięciu. Służą rozpoznaniu, czy czytelnik zmienił własny standard, a nie wyznaczeniu prawidłowej punktacji. Istotne przesunięcie uruchamia przegląd jego wcześniejszych ocen przy granicy kwalifikacji. Punktacja zamrażana jest 14 dni po zamknięciu naboru, każda zmiana oceny zachowuje datę i uzasadnienie.
 
 Nakład: pełny przydział 20 rozmów to 15-20 godzin rozłożonych na dwanaście miesięcy, czyli około półtorej godziny miesięcznie. Ocena idzie na bieżąco, w miarę spływania zgłoszeń, a nie w jednej serii po zamknięciu naboru.
 

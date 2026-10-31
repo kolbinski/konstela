@@ -15,6 +15,17 @@ Wyjątek: liczby w tabelach pokazujących **koszt przy kolejnych wolumenach** (2
 
 Dokumenty w `recenzje/` są zapisem tego, co powiedział recenzent, i nie podlegają temu porządkowaniu - jedna z recenzji atakuje właśnie tę liczbę.
 
+## Nazwy mechanizmów
+
+Rejestr ma być urzędowy, ale nie sztywny; potoczne przezwiska mechanizmów nie wchodzą do regulaminu ani do ofert. Ustalone 31.10.2026:
+
+- **runda uczestników** (nie „sito") - pierwsza kwalifikacja zgłoszeń przeprowadzana przez samych Uczestników, § 8 ust. 10c regulaminu rozmowy. Rund przeprowadza się tyle, ile potrzeba, więc w liczbie mnogiej: „rundy uczestników". Funkcję opisuje zwrot „pierwsza kwalifikacja zgłoszeń";
+- **zgłoszenie wzorcowe** (nie „kotwica") - zgłoszenie z punktacją ustaloną wcześniej, dołączane do przydziału w rundzie uczestników, po to by zmierzyć odchylenie oceniającego;
+- **rozmowy kalibracyjne** (nie „kotwice") - trzy rozmowy spoza edycji oceniane ponownie w połowie naboru i po jego zamknięciu, § 8 ust. 12-13. To osobny mechanizm od zgłoszenia wzorcowego i nazwa musi je rozróżniać: rozmowy kalibracyjne **nie** wyznaczają prawidłowej punktacji, tylko pokazują zmianę standardu oceniającego;
+- **dzika karta** zostaje - jest terminem o ustalonym znaczeniu.
+
+Drabina ocen nazywa się: **runda uczestników → runda akademii → runda jury**.
+
 ## Opisy commitów
 
 Z polskimi znakami diakrytycznymi. Nazywają zmianę i jej rzeczową przyczynę; nie wspominają o recenzencie ani o recenzji zewnętrznej.

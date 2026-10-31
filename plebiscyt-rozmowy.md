@@ -120,9 +120,9 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 ### Co, jeżeli zgłoszeń będzie bardzo dużo
 
-Akademia to opłacani czytelnicy, a ich liczba ma granicę. Dlatego regulamin przewiduje **sito uczestników**: mechanizm, który wchodzi w życie tylko wtedy, gdy zgłoszeń jest więcej, niż akademia może przeczytać. **W pierwszej edycji sito jest wyłączone** – jeżeli miałoby działać, powiemy o tym **w dniu ogłoszenia naboru**, razem z wszystkimi jego parametrami – w tym z budżetem słów przydziału. Nie wprowadzamy go i nie wycofujemy w trakcie naboru.
+Akademia to opłacani czytelnicy, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko wtedy, gdy zgłoszeń jest więcej, niż akademia może przeczytać. **W pierwszej edycji rund uczestników nie będzie** – a jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru**, razem z wszystkimi parametrami, w tym z budżetem słów przydziału. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru.
 
-Gdyby sito działało, wyglądałoby to tak:
+Gdyby runda uczestników się odbywała, wyglądałoby to tak:
 
 - **Warunkiem rozpatrzenia Twojego zgłoszenia jest przeczytanie i ocenienie do pięciu cudzych rozmów** w rundzie, do której trafiło. Zgłoszenia przydzielamy losowo i ślepo – nie wybierasz, co oceniasz, i nie wiesz, kto to napisał
 - **przydział liczymy w słowach, nie w sztukach.** Rozmowa może mieć od 3 tysięcy do 25 tysięcy słów, czyli od pół godziny do dwóch i pół godziny czytania. Gdybyśmy liczyli w sztukach, jeden uczestnik dostałby za ten sam obowiązek kilka razy więcej pracy niż drugi. Dlatego przydział obejmuje pięć rozmów **albo ustaloną liczbę słów – co wyczerpie się pierwsze**. Jeżeli trafią Ci się dwie bardzo długie rozmowy, przeczytasz dwie i to koniec
@@ -131,9 +131,9 @@ Gdyby sito działało, wyglądałoby to tak:
 - na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu – dostaniesz inne
 - jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe) przywracamy termin
 - oceny uczestników **nie przyznają nagród i nie są werdyktem**. Służą tylko do tego, żeby ustalić, które rozmowy trafią do opłacanej akademii – a akademia czyta je **od nowa, nie znając Twoich ocen**
-- jakość ocen pilnujemy trzema narzędziami: **kotwicą** (częścią przydziału są rozmowy już ocenione przez akademię, więc widzimy, jak Twoja ocena wypada wobec oceny zawodowej), **normalizacją** (surowość i hojność wyrównujemy statystycznie, więc zaniżanie cudzych ocen nie podnosi Twojej pozycji) i **automatycznym sprawdzeniem spójności** oceny z treścią rozmowy. To sprawdzenie **nie ocenia rozmowy i niczego nie rozstrzyga** – kieruje tylko uwagę człowieka na oceny odstające od uzasadnienia
+- jakość ocen pilnujemy trzema narzędziami: **zgłoszeniem wzorcowym** (częścią przydziału jest rozmowa już oceniona przez akademię, więc widzimy, jak Twoja ocena wypada wobec oceny zawodowej), **normalizacją** (surowość i hojność wyrównujemy statystycznie, więc zaniżanie cudzych ocen nie podnosi Twojej pozycji) i **automatycznym sprawdzeniem spójności** oceny z treścią rozmowy. To sprawdzenie **nie ocenia rozmowy i niczego nie rozstrzyga** – kieruje tylko uwagę człowieka na oceny odstające od uzasadnienia
 - skutek nietrafionej albo niestarannej oceny spada na **tę ocenę**, nie na Twoje zgłoszenie: ocena traci wagę albo zostaje odrzucona, Twoja rozmowa nie jest za to karana
-- rundy powtarzamy, dopóki pole nie zmieści się w opłacanej akademii, a **w całej edycji nie przeczytasz więcej niż dwudziestu rozmów ani więcej niż czterokrotności budżetu słów** – po przekroczeniu tej granicy Twoje odczyty przejmuje akademia, a zgłoszenie idzie dalej
+- rundy uczestników powtarzamy, dopóki pole nie zmieści się w opłacanej akademii, a **w całej edycji nie przeczytasz więcej niż dwudziestu rozmów ani więcej niż czterokrotności budżetu słów** – po przekroczeniu tej granicy Twoje odczyty przejmuje akademia, a zgłoszenie idzie dalej
 
 Całą konstrukcję, wraz z uzasadnieniem, opisuje [dokument o skalowaniu oceny](/dokument/skalowanie-oceny); wiążące brzmienie jest w [regulaminie](/dokument/regulamin-rozmowy), w § 8 ust. 10c.
 

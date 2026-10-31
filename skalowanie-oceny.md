@@ -1,10 +1,10 @@
 # Skalowanie oceny przy dużym naborze - szkic struktury
 
-Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga - sito uczestników - weszła 31.10.2026 do regulaminu plebiscytu rozmowy jako mechanizm włączany ogłoszeniem przed otwarciem naboru; w pierwszej edycji pozostaje wyłączony. Część pierwsza, poniżej, jest nadal szkicem.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
+Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga - rundy uczestników - weszła 31.10.2026 do regulaminu plebiscytu rozmowy jako mechanizm włączany ogłoszeniem przed otwarciem naboru; w pierwszej edycji pozostaje wyłączona. Część pierwsza, poniżej, jest nadal szkicem.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
 
 ## Problem w jednym zdaniu
 
-Przy trzystu czytających punkty przestają być porównywalne - jeden daje dobrej rozmowie siedem, drugi dziewięć, i nie wynika to z rozmów, tylko z surowości czytelnika. Zwykłe posortowanie po punktach ustawiłoby w czołówce ludzi, którzy trafili na łagodnego oceniającego. Kalibracja i kotwice z § 8 ust. 12-13 to zmniejszają, ale przy takiej skali nie wystarczą.
+Przy trzystu czytających punkty przestają być porównywalne - jeden daje dobrej rozmowie siedem, drugi dziewięć, i nie wynika to z rozmów, tylko z surowości czytelnika. Zwykłe posortowanie po punktach ustawiłoby w czołówce ludzi, którzy trafili na łagodnego oceniającego. Kalibracja i rozmowy kalibracyjne z § 8 ust. 12-13 to zmniejszają, ale przy takiej skali nie wystarczą.
 
 Drugi problem: dzika karta przysługuje każdemu członkowi akademii, więc **rośnie liniowo z jej liczebnością**, podczas gdy jury ma stale 3-5 osób. Trzystu czytających to trzysta kart do pięciu ludzi, ponad zgłoszeniami zakwalifikowanymi punktowo. To samo zalewa Archiwum, bo karta kwalifikuje do rundy drugiej, a Archiwum to właśnie runda druga - i każda taka rozmowa wymaga jeszcze drugiego odczytu przed publikacją (§ 11 ust. 11 lit. h).
 
@@ -59,7 +59,7 @@ Powiązane: skalowanie akademii przez Ministerstwo Edukacji, uczelnie i emerytow
 
 ---
 
-# Sito uczestników - konstrukcja rundowa (31.10.2026)
+# Runda uczestników - konstrukcja rundowa (31.10.2026)
 
 Nowsza propozycja niż szkic powyżej, powstała z pytania, co zrobić, gdy zgłoszeń będzie milion. Szkic z 21.10 dokłada stopnie oceny po naszej stronie i dlatego kończy się tam, gdzie kończą się pieniądze i ludzie. Ta konstrukcja przenosi pierwsze przejście na samych uczestników, więc **zdolność czytania rośnie dokładnie tak szybko jak liczba zgłoszeń**.
 
@@ -75,7 +75,7 @@ Konstrukcja bilansuje się sama: w każdej rundzie liczba czytających równa si
 
 ## Dlaczego pięć, a nie trzy
 
-**Przy trzech odczytach zgłoszenie dostaje dwie oceny, nie trzy.** Jedna pozycja w przydziale to kotwica, która służy sprawdzeniu oceniającego, a nie ocenieniu tej rozmowy. Mediana z dwóch liczb to ich średnia - nie ma czego odrzucić, więc jedna ocena odstająca przesuwa wynik o połowę swojego błędu. Przy pięciu odczytach zostają cztery oceny i mediana zaczyna działać jak mediana.
+**Przy trzech odczytach zgłoszenie dostaje dwie oceny, nie trzy.** Jedna pozycja w przydziale to zgłoszenie wzorcowe, które służy sprawdzeniu oceniającego, a nie ocenieniu tej rozmowy. Mediana z dwóch liczb to ich średnia - nie ma czego odrzucić, więc jedna ocena odstająca przesuwa wynik o połowę swojego błędu. Przy pięciu odczytach zostają cztery oceny i mediana zaczyna działać jak mediana.
 
 Ma to następstwo ważniejsze niż sama precyzja: **im więcej ocen na zgłoszenie, tym ostrzej wolno ciąć pole w jednej rundzie.** Przy dwóch ocenach proporcja awansu rzędu dziesiątej części jest trudna do obrony, bo pojedynczy nietrafiony odczyt decyduje o odpadnięciu; przy czterech ocenach jest obronna. Łagodniejsze cięcie oznacza więcej rund, a więcej rund to więcej odczytów dla tych, którzy dochodzą najdalej - więc trzy odczyty na rundę nie są tańsze dla uczestnika, tylko gorsze dla oceny.
 
@@ -91,21 +91,21 @@ Regulamin dopuszcza rozmowy od progu z § 5 do dwudziestu pięciu tysięcy słó
 
 Przedział jest dziewięciokrotny. Przy przydziale liczonym w sztukach ten sam obowiązek regulaminowy oznacza dla jednego uczestnika półtorej godziny, a dla drugiego osiem - i to jest zarzut nierównego traktowania, nie drobiazg redakcyjny.
 
-Dlatego **przydział obejmuje pięć rozmów albo ustalony budżet słów, co wyczerpie się pierwsze**, a do budżetu wlicza się także kotwicę. Przy budżecie rzędu trzydziestu tysięcy słów uczestnik z typowym losowaniem czyta pięć rozmów w niespełna cztery godziny, a uczestnik, któremu trafią się dwie maksymalne, czyta dwie i kończy po trzech godzinach dwudziestu. **Sufit spada z ośmiu godzin do około czterech** - czyli pięć odczytów z budżetem słów jest w najgorszym przypadku dwa razy tańsze dla uczestnika niż trzy odczyty liczone w sztukach, przy dwukrotnie większej liczbie ocen na zgłoszenie.
+Dlatego **przydział obejmuje pięć rozmów albo ustalony budżet słów, co wyczerpie się pierwsze**, a do budżetu wlicza się także zgłoszenie wzorcowe. Przy budżecie rzędu trzydziestu tysięcy słów uczestnik z typowym losowaniem czyta pięć rozmów w niespełna cztery godziny, a uczestnik, któremu trafią się dwie maksymalne, czyta dwie i kończy po trzech godzinach dwudziestu. **Sufit spada z ośmiu godzin do około czterech** - czyli pięć odczytów z budżetem słów jest w najgorszym przypadku dwa razy tańsze dla uczestnika niż trzy odczyty liczone w sztukach, przy dwukrotnie większej liczbie ocen na zgłoszenie.
 
 Cena tej konstrukcji: **liczba ocen na zgłoszenie przestaje być równa.** Długie rozmowy zbierają mniej oceniających niż krótkie. Domyka to gwarancja **minimum trzech ocen uczestników na każde zgłoszenie**: brakujące odczyty dobierają się w kolejnych przydziałach, a gdyby i to nie wystarczyło - wykonuje je Akademia. Mediana radzi sobie ze zmienną liczbą ocen, normalizacja również; żadne zgłoszenie nie może odpaść z powodu niedobrania oceniających.
 
 ## Przebieg jednej rundy
 
-1. **Przydział.** Każdy uczestnik rundy dostaje do pięciu zgłoszeń, w tym jedną **kotwicę** - zgłoszenie z punktacją rozpisaną przez nas z góry, nieoznaczone jako kotwica - przy czym przydział zamyka się na ostatniej rozmowie mieszczącej się w budżecie słów. Przydział jest losowy, ślepy (bez podpisu autora), z wykluczeniem własnego zgłoszenia i zgłoszeń osób powiązanych według oświadczenia.
+1. **Przydział.** Każdy uczestnik rundy dostaje do pięciu zgłoszeń, w tym jedno **zgłoszenie wzorcowe** - z punktacją rozpisaną przez nas z góry, nieoznaczone jako wzorcowe - przy czym przydział zamyka się na ostatniej rozmowie mieszczącej się w budżecie słów. Przydział jest losowy, ślepy (bez podpisu autora), z wykluczeniem własnego zgłoszenia i zgłoszeń osób powiązanych według oświadczenia.
 2. **Ocena.** Ta sama karta co w dalszych etapach: cztery kryteria po 25 punktów, uzasadnienie przy każdym.
 3. **Okno.** Czternaście dni, dwa przypomnienia. Prawo odmowy jednego przydziału bez podawania powodu, z przydziałem zastępczym.
 4. **Kontrola jakości ocen**, trzema niezależnymi narzędziami:
-   - **kotwica** - odchylenie od rozpisanej punktacji powyżej progu oznacza, że oceny tej osoby tracą wagę i trafiają do przeglądu;
+   - **zgłoszenie wzorcowe** - odchylenie od rozpisanej punktacji powyżej progu oznacza, że oceny tej osoby tracą wagę i trafiają do przeglądu;
    - **normalizacja** - oceny przeliczane na odchylenie od średniej danego oceniającego, co kasuje systematyczne zaniżanie i zawyżanie; zaniżanie wszystkim przestaje cokolwiek dawać, bo obniża własny punkt odniesienia;
    - **sprawdzenie spójności uzasadnienia z rozmową** - modelem, wyłącznie jako sygnał dla człowieka; model nie ocenia rozmowy i niczego nie rozstrzyga.
 5. **Skutki kontroli.** Zakwestionowana ocena przepada i nie liczy się do niczego; zgłoszenie, które ją straciło, dostaje odczyt uzupełniający. **Konsekwencja spada na ocenę, nie na zgłoszenie oceniającego** - inaczej powstałoby narzędzie do eliminowania konkurenta przez podrzucenie mu złego przydziału.
-6. **Wynik rundy.** Mediana znormalizowanych ocen. Awans: górna część rankingu w proporcji ustalonej przed naborem, powiększona o **dzikie karty** i o **losową próbkę kontrolną z odrzuconych**, czytaną przez opłaconą Akademię. Jeżeli próbka pokaże, że sito wycina zbyt wiele dobrych zgłoszeń, runda jest powtarzana szerzej.
+6. **Wynik rundy.** Mediana znormalizowanych ocen. Awans: górna część rankingu w proporcji ustalonej przed naborem, powiększona o **dzikie karty** i o **losową próbkę kontrolną z odrzuconych**, czytaną przez opłaconą Akademię. Jeżeli próbka pokaże, że runda wycina zbyt wiele dobrych zgłoszeń, jest powtarzana szerzej.
 
 ## Rachunek przy milionie zgłoszeń
 
@@ -128,12 +128,12 @@ Przy pięciu tysiącach zgłoszeń wystarcza jedna runda, przy pięćdziesięciu
 
 ## Czego ta konstrukcja nie rusza
 
-Oceny z sita **nie przyznają żadnej nagrody**. Decydują wyłącznie o awansie do płatnego etapu, a opłacona Akademia czyta zakwalifikowane zgłoszenia **od nowa, nie widząc wyników sita**. Jury pracuje jak dotąd. Nie ograniczamy liczby przyjmowanych zgłoszeń i nie pomijamy żadnego.
+Oceny z rund uczestników **nie przyznają żadnej nagrody**. Decydują wyłącznie o awansie do płatnego etapu, a opłacona Akademia czyta zakwalifikowane zgłoszenia **od nowa, nie widząc ich wyników**. Jury pracuje jak dotąd. Nie ograniczamy liczby przyjmowanych zgłoszeń i nie pomijamy żadnego.
 
 ## Co to kosztuje i czego wymaga
 
 - **Zmiany w regulaminie**: warunek rozpatrzenia zgłoszenia, zasady przydziału, kontrola jakości ocen, zwolnienia.
-- **Parametr edycji, nie przełącznik w trakcie.** Obowiązku nałożonego na uczestników nie wolno wprowadzać po tym, jak ktoś już się zgłosił, więc sito ogłaszane jest przed otwarciem naboru na podstawie wolumenu poprzedniej edycji. W pierwszej edycji wyłączone.
+- **Parametr edycji, nie przełącznik w trakcie.** Obowiązku nałożonego na uczestników nie wolno wprowadzać po tym, jak ktoś już się zgłosił, więc rundy uczestników ogłaszane są przed otwarciem naboru na podstawie wolumenu poprzedniej edycji. W pierwszej edycji wyłączone.
 - **Terminy.** Runda to około trzech tygodni: czternaście dni okna plus przydział, normalizacja i kontrola. Cztery rundy to trzy miesiące, więc przy bardzo dużym naborze wyniki przesuwają się - regulamin już to przewiduje i jest to kolejny powód tego samego przesunięcia.
 - **Panel.** Przydziały, zbieranie ocen, normalizacja i kontrola przy milionach odczytów to praca oprogramowania, tania w przeliczeniu na zgłoszenie, ale niezerowa.
 - **Weryfikacja formalna musi być automatyczna.** Sześć minut na zgłoszenie daje przy milionie sto tysięcy godzin; człowiek wchodzi wyłącznie do wyjątków.
@@ -142,4 +142,4 @@ Oceny z sita **nie przyznają żadnej nagrody**. Decydują wyłącznie o awansie
 
 ## Zostaje do rozstrzygnięcia
 
-Budżet słów przydziału (trzydzieści tysięcy to propozycja wyliczona z typowej długości zgłoszenia, a typowej długości jeszcze nie znamy), proporcja awansu w rundzie (dziesiąta część to propozycja, nie wyliczenie), próg odchylenia od kotwicy, wielkość losowej próbki kontrolnej i próg błędu, przy którym rundę trzeba powtórzyć szerzej. Wszystkie pięć to parametry jakości sita i żadnego nie wyliczymy bez próby oceniania.
+Budżet słów przydziału (trzydzieści tysięcy to propozycja wyliczona z typowej długości zgłoszenia, a typowej długości jeszcze nie znamy), proporcja awansu w rundzie (dziesiąta część to propozycja, nie wyliczenie), próg odchylenia od zgłoszenia wzorcowego, wielkość losowej próbki kontrolnej i próg błędu, przy którym rundę trzeba powtórzyć szerzej. Wszystkie pięć to parametry jakości rundy uczestników i żadnego nie wyliczymy bez próby oceniania.

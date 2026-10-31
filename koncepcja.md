@@ -168,7 +168,7 @@ Obniżony z 25 po recenzji z 19.10.2026. Zarzut był trafny w jednej części: p
 
 ## Tryb oceny
 
-**Ty: tylko sito formalne.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga plebiscyt, a jury tylko ustawia kolejność jego typów.
+**Ty: tylko weryfikacja formalna.** Liczba słów, język, ciągłość wątku, kompletność, brak osób prywatnych. To sprawdzanie warunków, nie ocenianie - nikt nie zarzuci stronniczości przy liczeniu słów. Organizator **nie** robi wstępnej selekcji merytorycznej: inaczej to on rozstrzyga plebiscyt, a jury tylko ustawia kolejność jego typów.
 
 **Kto co czyta.** Progi w § 8 regulaminu, liczone od zgłoszeń **po weryfikacji formalnej**: do 20 jury czyta wszystkie i akademii się nie powołuje; 21-60 akademia robi pierwszą rundę po dwóch czytających na zgłoszenie; 61-200 to samo z przydziałem maksymalnie 20 zgłoszeń na czytającego i listą rezerwową; powyżej 200 odczyt wstępny po jednym czytającym, z obowiązkowym drugim odczytem na progu, powyżej niego i w paśmie bezpośrednio poniżej, plus losowy audyt odrzuconych (§ 8 ust. 10a). Do jury idzie **nie mniej niż dwadzieścia** zgłoszeń o najwyższej **średniej** ocen, powiększone o skierowane dziką kartą; dziesiątka antologii powstaje dopiero z pracy całego jury, a nie z odczytu wstępnego przed nią. Średnia, nie suma, bo zgłoszenia mogą otrzymać różną liczbę ocen.
 
@@ -227,7 +227,7 @@ Czego nie zatrzymamy i nie chcemy zatrzymywać: człowieka, który zna temat, po
 Dlaczego nie publikujemy automatycznie wszystkiego, co przeszło weryfikację formalną:
 
 - licencja obejmuje antologię; szersza zgoda wymuszona na wszystkich odstraszyłaby część zgłaszających,
-- przy publikacji organizator odpowiada za treść, a sito formalne sprawdza warunki, nie zawartość,
+- przy publikacji organizator odpowiada za treść, a weryfikacja formalna sprawdza warunki, nie zawartość,
 - wartość antologii bierze się z kuratorskiego wyboru; trzydzieści przeciętnych rozmów obok dziesiątki rozmywa przekaz,
 - publiczna lista "zgłoszone, niewybrane" jest dla wielu osób nieprzyjemna.
 
@@ -260,7 +260,7 @@ Skład mieszany, 3-5 osób: literatura (prowadzenie narracji), nauka i metodolog
 **Jak przekonywać:**
 
 - Policzyć im czas uczciwie i podać w wiadomości. **Poprzedni szacunek 3-4 godzin był nierealny** (recenzja 19.10.2026): przy 30 zgłoszeniach po 3000 słów juror czytał 90 tys. słów, czyli około 7,5 godziny samego czytania. Po wprowadzeniu górnego limitu długości i podziale zgłoszeń między jurorów szacunek trzeba policzyć od nowa, z czasu czytania plus sprawdzania i notowania, i podać z zapasem. "Zapraszam do jury" to prośba nieokreślona, na którą odpowiada się ciszą, ale zaniżony szacunek jest gorszy: juror zorientuje się po pierwszej edycji i nie wróci.
-- Zdjąć z nich wszystko poza czytaniem: sito, kontakt, rozmowy weryfikacyjne, protokoły, wysyłka - po stronie organizatora. Napisać to wprost; każdy, kto był w jakimkolwiek jury, boi się administracji.
+- Zdjąć z nich wszystko poza czytaniem: weryfikację formalną, kontakt, rozmowy weryfikacyjne, protokoły, wysyłka - po stronie organizatora. Napisać to wprost; każdy, kto był w jakimkolwiek jury, boi się administracji.
 - Dać materiał, którego nie mają: dziesięć realnych transkryptów pracy ludzi z modelami, przed publikacją.
 - Zaproponować wstęp do antologii - współautorstwo książki zamiast recenzowania cudzej pracy. Koszt zero.
 - Nie prosić o nazwisko na zapas: powiedzieć wprost, że poniżej 12 zgłoszeń nagroda nie zostaje przyznana i jury nie ma nic do roboty.
@@ -389,7 +389,7 @@ Zamiast limitu działa **czwarty próg w § 8 ust. 10 lit. d**: powyżej 200 zg�
 
 1. **Głos publiczności mierzy co innego niż Nagroda.** Rozmowa zabawna, szokująca albo o modnym temacie zbierze poklask; ta, w której ktoś cicho przestawił sobie rozumienie własnego problemu, nie zbierze nic. Dopuszczenie tego jako czynnika zamienia nagrodę w plebiscyt i podważa jury, któremu płaci się honoraria właśnie za wzięcie odpowiedzialności za werdykt.
 2. **Otwiera drugą, słabszą bramę obok tej uszczelnionej 21.10.2026.** Przy puli 300 tys. zł głosowanie publiczne zaprasza do nakręcania głosów przez znajomych, grupy i boty - a atak nie kosztuje nawet napisania rozmowy, wystarczy kliknąć.
-3. **Publiczne reakcje w trakcie oceniania skażą ocenę.** Cały § 8 stoi na niezależnych odczytach, kalibracji i kotwicach. Czytelnik widzący, że rozmowa ma pięćset polubień, nie czyta jej już niezależnie, choćby szczerze próbował.
+3. **Publiczne reakcje w trakcie oceniania skażą ocenę.** Cały § 8 stoi na niezależnych odczytach, kalibracji i rozmowach kalibracyjnych. Czytelnik widzący, że rozmowa ma pięćset polubień, nie czyta jej już niezależnie, choćby szczerze próbował.
 4. **Przeszkoda prawna, nie estetyczna.** § 11 ust. 11 lit. h i lit. i wymagają przed publikacją dwóch odczytów oraz potwierdzonej listy kontrolnej: prawa do materiałów, brak danych osób trzecich, brak cudzych treści. Publikacja na bieżąco oznacza publikowanie **przed weryfikacją formalną**, czyli zanim ktokolwiek sprawdził, czy w rozmowie nie ma treści bezprawnych z § 6 pkt 9-12. To odpowiedzialność fundacji za każdą taką rozmowę w dniu, w którym nikt jej jeszcze nie przeczytał.
 5. **Nierówność ekspozycji.** Rozmowa zgłoszona w styczniu wisi dwanaście miesięcy, grudniowa zero. Jeżeli widoczność cokolwiek znaczy, wcześni zgłaszający są uprzywilejowani bez związku z jakością.
 6. **Fali grudniowej to nie zmniejsza, a może ją zwiększyć.** Pokazywanie na bieżąco, co się zgłasza, jest instrukcją, jak zgłosić coś podobnego; grudzień wypełniłby się naśladownictwem. Na falę jest już narzędzie: § 8 ust. 11 lit. f, jednorazowe przesunięcie dnia zamrożenia o 30 dni.
