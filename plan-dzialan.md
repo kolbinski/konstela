@@ -53,6 +53,16 @@ Oferta gali rośnie z 62 048 do **87 808 zł netto** (108 003,84 zł brutto), re
 
 Przy okazji poprawiony błąd w tabeli oferty gali: wiersz „Razem koszty twarde" pokazywał 21 500 zł, choć koszty twarde wynosiły 45 500 zł - liczba została z czasów przed konsolidacją przejazdów finalistów.
 
+## Próba oceniania przed podpisaniem umowy (31.10.2026)
+
+Z recenzji oferty dla fundatora nagród plebiscytu rozmowy: przed decyzją o finansowaniu recenzent prosi o małą próbę - kilka rzeczywistych rozmów ocenionych niezależnie przez kilka osób, porównanie wyników i przykładową publikację. Decyzja: robimy. Opis przebiegu i tego, czego próba nie rozstrzygnie, jest w `proba-oceniania.md`, instrukcja dla oceniających w `proba-oceniania-instrukcja.md`, a arkusz do wypełnienia w `attachments/proba-oceniania-arkusz.xlsx` - po jednym pliku na osobę.
+
+- [ ] **Wybrać pięć rozmów** - rzeczywistych, każda z opisem odkrycia napisanym przez uczestnika.
+- [ ] **Zaprosić trzy osoby oceniające**; mogą zostać anonimowe w publikacji.
+- [ ] **Uzyskać zgodę autora jednej rozmowy** na publikację jej wraz z punktacją.
+- [ ] **Zestawić wyniki i rozrzut**, a przy rozrzucie powyżej 15 punktów na sto poprawić opis kryterium w karcie oceny przed otwarciem naboru.
+- [ ] **Wpisać wynik do ofert** jako dowód wykonawczy; pytanie o uznaniowość pada przy każdej z ośmiu ról.
+
 ## Ściany i archiwa rozdzielone między plebiscyty (31.10.2026)
 
 Decyzja po recenzji oferty dla fundatora nagród plebiscytu rozmowy: **każdy plebiscyt buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat.** Powód wprost z recenzji: rdzeń świadczeń obiecywał Archiwum, którego ta rola nie finansowała, bo archiwum rozmów stało w Budżecie Antologii, a skraper w Budżecie Uruchomienia. Partner ma finansować rzecz, która istnieje niezależnie od tego, czy znajdą się inni partnerzy.
