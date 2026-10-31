@@ -98,7 +98,7 @@ Rozdzielone zostały pieniądze, nie metoda: jedna karta oceny, kalibracja przed
 
 Sumy bez zmian: Akademia **160 160 zł**, całość **1 942 449,76 zł**, zakres pytania do MKiDN **798 800,00 zł**. W załączniku dla ministerstwa wiersz Akademii rozpadł się na dwa - rozmów (51 520, cały 2027) i filmów (108 640, z czego 7 840 w 2027).
 
-**Do rozstrzygnięcia:** czy Akademia filmu ma w załączniku dla MKiDN zostać przy „nie", skoro cały plebiscyt filmu jest oznaczony „tak". Dziś oba wiersze Akademii stoją przy „nie", tak jak stał wiersz wspólny.
+**Rozstrzygnięte tego samego dnia:** Akademia filmu przeszła w załączniku dla MKiDN na „tak", z regułą - **blok Akademii dziedziczy oznaczenie po plebiscycie, któremu służy**. Akademia rozmowy zostaje przy „nie", Akademia piosenki i plakatu dostaną „tak" w dniu, w którym dostaną cenę. Powód: wiersz plebiscytu filmu nazywa się „nabór, ocena, nagrody i prowadzenie" i stoi przy „tak", więc bez tej zmiany druga runda oceny byłaby objęta pytaniem, a pierwsza nie. Kwota objęta pytaniem: **972 427,06 zł** (241 499,06 na 2027 i 730 928 na 2028). Reguła dopisana do legendy pod tabelą, uzasadnienie do `mk-uzupelnienie.md`.
 
 ## Recenzje ofert: siedemnaście promptów, kolejność i jedna brakująca rzecz (31.10.2026)
 

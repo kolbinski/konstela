@@ -242,7 +242,7 @@ VAT w arkuszu jest podatkiem doliczanym do faktur wystawianych sponsorom, a nie 
 
 Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
-Pozycje objęte pytaniem sumują się dziś do **863 787,06 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **233 659,06 zł na 2027 rok** i **630 128,00 zł na 2028 rok**.
+Pozycje objęte pytaniem sumują się dziś do **972 427,06 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **241 499,06 zł na 2027 rok** i **730 928,00 zł na 2028 rok**.
 
 Podana suma obejmuje wyłącznie pozycje obecnie wycenione. **Nie obejmuje kosztów oznaczonych w arkuszu jako „do wyceny" albo „do ustalenia"**, a te w zakresie pytania są następujące:
 
