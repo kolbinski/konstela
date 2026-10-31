@@ -118,6 +118,19 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
 
 Limit zostawia nad dzisiejszym kosztorysem niecałe 34 000 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść wraz z rezerwą, która je obejmie: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
+**Na co idzie 15 000 zł promocji naboru.** To jedyna pozycja, od której zależy, czy zgłoszeń będzie dwanaście, czy sto pięćdziesiąt, więc nie zostawiamy jej jako jednej kwoty:
+
+| Część | Netto | Co to znaczy |
+| --- | ---: | --- |
+| Materiały naboru | 4 000 zł | przykładowe transkrypty z komentarzem, po których widać, czym jest dobra rozmowa; grafiki i krótkie formy wideo |
+| Obsługa prasowa w dwóch momentach | 4 000 zł | otwarcie naboru i rozstrzygnięcie; redakcje technologiczne piszą o wynikach, nie o zapowiedziach, więc drugi moment jest ważniejszy od pierwszego |
+| Płatne dotarcie | 5 000 zł | wąsko kierowane, do nauczycieli, bibliotekarzy, doktorantów i społeczności pracujących z modelami - nie pod zasięg ogólny |
+| Dotarcie do instytucji | 2 000 zł | wysyłki do bibliotek wojewódzkich, szkół i uczelni, druk krótkiej informacji, koperty i znaczki |
+
+**Kolejność jest ważniejsza od kanałów.** Typowy użytkownik AI nie zgłosi rozmowy, bo nie wie, czy jego rozmowy są odkrywcze - dlatego materiały naboru pokazują cudze transkrypty, zanim poproszą o własne. Nie obiecujemy przy tym żadnej liczby odbiorców ani zgłoszeń i nie mamy podstaw, żeby taką liczbę podać.
+
+**Punkt kontrolny w połowie naboru.** Do 30 czerwca 2027 Fundator dostaje informację o liczbie zgłoszeń zakwalifikowanych do tego dnia. Jeżeli nabór wyraźnie odstaje od założenia, **niewydana część płatnego dotarcia zostaje przekierowana** na kanały, które zgłoszenia faktycznie dowiozły, i piszemy o tym Fundatorowi przed wydaniem pieniędzy. Liczbę zakwalifikowanych zgłoszeń widać zresztą codziennie w czytelni, bez pytania nas o raport.
+
 **Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
 
 **Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Fundator tej roli finansuje więc rzecz, która powstaje i działa niezależnie od tego, ilu innych partnerów uda się pozyskać.
