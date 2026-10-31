@@ -642,6 +642,7 @@ ${tresc}
 ${oferta ? '    <script src="/assets/oferta.js" defer></script>\n' : ''}
     <script src="/assets/nawigacja.js" defer></script>
     <script src="/assets/stopka.js" defer></script>
+    <script src="/assets/tytul.js" defer></script>
   </body>
 </html>
 `;
