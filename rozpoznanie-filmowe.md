@@ -45,6 +45,26 @@ Festiwal wie, ile filmów rocznie wpływa i skąd.
 
 Pytamy pięciu albo dziesięciu takich twórców wprost, w wiadomości prywatnej. Odpowiedź od nich jest warta więcej niż uprzejmy list z dziekanatu, bo oni odpowiadają za siebie, a nie za instytucję.
 
+## Adresy, potwierdzone na stronach i w regulaminach
+
+Sprawdzone 31 października 2026. Każdy adres pochodzi ze strony kontaktowej instytucji albo z jej własnego regulaminu, nie z pamięci ani z pośredników.
+
+| Adresat | Adres | Skąd |
+| --- | --- | --- |
+| Szkoła Filmowa w Łodzi, dziekanat Wydziału Reżyserii | rezyseria@filmschool.lodz.pl | strona kontaktowa uczelni |
+| Szkoła Filmowa w Łodzi, Wydział Organizacji Sztuki Filmowej | produkcja@filmschool.lodz.pl | strona kontaktowa uczelni |
+| Szkoła Filmowa im. Krzysztofa Kieślowskiego UŚ, dziekanat | dziekanat.sf@us.edu.pl | strona kontaktowa wydziału |
+| Szkoła Filmowa im. Krzysztofa Kieślowskiego UŚ, sekretariat | sf@us.edu.pl | strona kontaktowa wydziału |
+| Warszawska Szkoła Filmowa, dziekanat | info@szkolafilmowa.pl | strona kontaktowa uczelni |
+| Warszawska Szkoła Filmowa, kierownik dziekanatu | alicjaczapkowska@szkolafilmowa.pl | strona kontaktowa uczelni |
+| Gdyńska Szkoła Filmowa | info@gsf.pl | regulamin rekrutacji szkoły |
+| Studio Munka-SFP, program „30 minut" | 30minut@sfp.org.pl | regulamin programu |
+| Krakowski Festiwal Filmowy, selekcja | selekcja@kff.com.pl | regulamin festiwalu |
+| Koszalin, „Młodzi i Film", biuro programowe | program@mlodziifilm.pl | regulamin festiwalu |
+| Koszalin, Centrum Kultury 105 | sekretariat@ck105.koszalin.pl | regulamin festiwalu |
+
+Dwie uwagi do tej tabeli. Adres Gdyńskiej Szkoły Filmowej pochodzi z regulaminu rekrutacji sprzed kilku lat i jest adresem ogólnym, więc warto go sprawdzić przed wysyłką. Regulamin koszalińskiego festiwalu zapisuje adres biura programowego raz z polskimi znakami w domenie, co jest literówką w dokumencie; wysyłamy na wersję bez znaków diakrytycznych.
+
 ## Czego nie robimy
 
 Nie pytamy o patronat, nie prosimy o rozesłanie informacji i nie proponujemy współpracy. To jest rozpoznanie, nie nabór partnerów. Pytanie o zainteresowanie zadane razem z prośbą o przysługę dostaje odpowiedź grzecznościową, czyli bezużyteczną.
