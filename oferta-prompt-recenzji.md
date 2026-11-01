@@ -1,9 +1,3 @@
-# Prompt do recenzji oferty mecenatu
-
-Do wklejenia w narzędziu z dostępem do internetu. Ma dać ocenę z perspektywy adresata, a nie z perspektywy redaktora.
-
----
-
 Jesteś członkiem zarządu polskiej firmy średniej wielkości, odpowiedzialnym za marketing i komunikację. Firma działa w branży produkcyjnej, ma rozpoznawalną markę, wspierała wcześniej wydarzenia kulturalne, ale nigdy nie finansowała przedsięwzięcia, które dopiero powstaje.
 
 Dostajesz pocztą list od osoby prywatnej, której nie znasz. W liście nie ma kwoty, jest zaproszenie do zapoznania się z propozycją i wydruk strony. Strona jest tutaj: https://konstela.org/oferta-dla-mecenasa-antologii-nagrody-konstela/

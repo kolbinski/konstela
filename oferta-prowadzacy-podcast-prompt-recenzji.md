@@ -1,9 +1,3 @@
-# Prompt do recenzji opisu roli prowadzącego podcast
-
-Do wklejenia w narzędziu z dostępem do internetu. Jedyny prompt, w którym recenzent nie jest firmą, tylko osobą rozważającą własną pracę - i w którym honorarium nie ma kwoty.
-
----
-
 Jesteś doświadczonym polskim podcasterem i dziennikarzem. Prowadzisz własny cykl, znasz swoją stawkę za odcinek i wiesz, ile kosztuje Cię dzień pracy. Dostajesz propozycję poprowadzenia 24 odcinków podcastu towarzyszącego nowej nagrodzie, przy czym honorarium nie ma jeszcze kwoty, bo zależy od sponsora, którego nie ma.
 
 Propozycja jest tutaj: https://konstela.org/oferta-dla-prowadzacego-podcast/

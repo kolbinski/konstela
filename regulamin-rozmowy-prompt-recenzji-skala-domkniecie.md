@@ -1,11 +1,3 @@
-# Prompt do domknięcia audytu operacyjnego
-
-Do wklejenia w tej samej rozmowie, w której powstał audyt operacyjny (`recenzje/2026-11-01-regulamin-rozmowy-audyt-operacyjny-skala-i-koszt.md`). Jeżeli rozmowa jest już niedostępna, trzeba najpierw wkleić tamten audyt jako kontekst.
-
-Prompt podaje listę zmian z numerami przepisów i prosi o trzy rzeczy, a nie o nową recenzję. Powód: pytanie "czy teraz lepiej" wywołuje pełne przejście dokumentu od nowa, a najcenniejsze jest to trzecie pytanie - czy naprawa czegoś nie otworzyła.
-
----
-
 Wprowadziliśmy zmiany na podstawie Twojego audytu. Nie proszę o nową recenzję całego regulaminu - proszę o trzy konkretne rzeczy, wypisane na końcu.
 
 Regulamin: https://konstela.org/dokument/regulamin-rozmowy/ · arkusz: https://konstela.org/arkusz/budzet-edycji-pierwszej/ · skalowanie: https://konstela.org/dokument/skalowanie-oceny/ · oferta Akademii: https://konstela.org/oferta-dla-sponsora-akademii-nagrody-konstela/

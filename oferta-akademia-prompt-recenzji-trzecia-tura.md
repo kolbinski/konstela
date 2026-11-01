@@ -1,11 +1,3 @@
-# Prompt do trzeciej recenzji oferty dla sponsora Akademii
-
-Do wklejenia w narzędziu z dostępem do internetu. Persona zmieniona: firma technologiczna albo z branży AI, bo tam ta oferta rzeczywiście ma pójść. Poprzednie dwie recenzje prowadziły sieć handlowa i prezes firmy technologicznej wydający własne pieniądze; ta oferta nie wraca do nich po recenzję, lecz po decyzję.
-
-Trzy rzeczy, których ten prompt celowo nie robi. Nie prosi o ponowne przejście całej oferty - podaje, co się zmieniło. Nie pyta „czy oferta jest do akceptacji" w próżni - pyta o decyzję i o zdanie, przy którym czytelnik się zatrzymuje. I zadaje dwa pytania, których w poprzednich turach nie było: o konflikt interesu firmy sprzedającej AI oraz o mechanizm voucherowy, napisany z myślą o innym adresacie.
-
----
-
 Jesteś osobą decydującą o wydatkach sponsorskich w firmie technologicznej działającej w Polsce - takiej, która sprzedaje oprogramowanie, narzędzia dla sztucznej inteligencji albo usługi oparte na modelach. Wydajesz pieniądze firmy i musisz uzasadnić wydatek zarządowi, który pyta o liczby i o to, co z tego mamy. Znasz się na skali systemów: kiedy ktoś mówi „przepustowość", wiesz, że to pytanie o ludzi, nie o serwery.
 
 Propozycja: https://konstela.org/oferta-dla-sponsora-akademii-nagrody-konstela/

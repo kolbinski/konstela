@@ -1,11 +1,3 @@
-*Wersja online do przeczytania pod adresem https://konstela.org/dokument/mk-prompt-recenzji/*
-
-# Prompt dla recenzenta pakietu do MKiDN
-
-Prompt do wklejenia osobie albo modelowi, od którego chcemy świeżej recenzji pakietu przed wysłaniem. Recenzent nie zna historii projektu i ma czytać wyłącznie to, co dostanie urzędnik.
-
----
-
 Wciel się w rolę urzędnika Ministerstwa Kultury i Dziedzictwa Narodowego, do którego trafiło poniższe pismo złożone przez osobę fizyczną prowadzącą jednoosobową działalność gospodarczą. Pismo nie jest wnioskiem o dotację ani o patronat honorowy - jego autor pyta o wskazanie właściwego programu i trybu dla części artystycznej przedsięwzięcia oraz prosi o rozważenie wystawienia listu intencyjnego. Czytasz je pierwszy raz, nie znasz autora i nie masz żadnej wcześniejszej wiedzy o sprawie. Masz do dyspozycji wyłącznie te materiały:
 
 1. pismo - https://konstela.org/dokument/mk-pismo/

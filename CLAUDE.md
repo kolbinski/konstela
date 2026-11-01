@@ -29,3 +29,9 @@ Drabina ocen nazywa się: **runda uczestników → runda akademii → runda jury
 ## Opisy commitów
 
 Z polskimi znakami diakrytycznymi. Nazywają zmianę i jej rzeczową przyczynę; nie wspominają o recenzencie ani o recenzji zewnętrznej.
+
+## Prompty recenzji
+
+Pliki `*-prompt-recenzji.md` oraz wszystkie inne teksty przeznaczone do skopiowania i wklejenia zawierają **wyłącznie treść do wklejenia**. Żadnego nagłówka, żadnej notatki o doborze persony, żadnej linii poziomej oddzielającej komentarz od treści - komentarz utrudnia skopiowanie, bo trzeba go za każdym razem ręcznie pominąć. Plik zaczyna się od pierwszego zdania promptu.
+
+Uzasadnienie doboru persony, tego, czego prompt celowo nie robi, i tego, co zmieniło się od poprzedniej tury, należy do **opisu commitu**, nie do pliku. Zasada ustalona 1.11.2026; wtedy też usunięto komentarze z dwudziestu czterech istniejących plików.

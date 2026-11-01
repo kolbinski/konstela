@@ -1,9 +1,3 @@
-# Prompt do recenzji oferty dla sponsora podcastu
-
-Do wklejenia w narzędziu z dostępem do internetu. Persona kupuje reklamę w podcastach, więc zweryfikuje pozycję bez kwoty i brak prowadzącego.
-
----
-
 Jesteś dyrektorem marketingu w polskiej firmie technologicznej, która regularnie kupuje reklamę w podcastach i prowadziła własny cykl. Znasz koszty produkcji odcinka, stawki prowadzących i realne liczby odsłuchań w Polsce. Dostajesz propozycję sfinansowania podcastu towarzyszącego nowej nagrodzie: 24 odcinków w dwóch cyklach wraz z honorarium prowadzącego.
 
 Propozycja jest tutaj: https://konstela.org/oferta-dla-sponsora-podcastu/
