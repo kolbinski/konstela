@@ -21,7 +21,7 @@ Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI. Dlatego Nagro
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
-Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
+Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
 
 **Sponsor gali nie ma wpływu ani na skład jury, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
 
@@ -30,9 +30,9 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 **Gala jest wspólna dla wszystkich czterech plebiscytów.** To daje tej roli dwie cechy, których nie ma żadna inna:
 
 - **Jeden partner jest widoczny przy czterech werdyktach naraz** - przy rozmowie, filmie, piosence i plakacie. Partner, który finansuje nagrody w jednym plebiscycie, jest widoczny przy jednym z nich.
-- **Kwota wejścia jest najniższa ze wszystkich rół** w pierwszej edycji. Pozostałe mieszczą się w przedziale od 128 824,30 zł do 621 668,16 zł netto.
+- **Kwota wejścia jest najniższa ze wszystkich rół** w pierwszej edycji. Pozostałe mieszczą się w przedziale od 128 824,30 zł do 629 135,20 zł netto.
 
-Jest to także **jedyny moment, w którym całe przedsięwzięcie dzieje się w jednym miejscu i o jednej porze**. Przez piętnaście miesięcy Nagroda jest rozproszona: zgłoszenia przychodzą zdalnie, akademia czyta u siebie, jury obraduje osobno. Na jeden wieczór w kwietniu 2028 roku laureaci, jurorzy, finaliści czterech dziedzin, media i partnerzy są w jednej sali.
+Jest to także **jedyny moment, w którym całe przedsięwzięcie dzieje się w jednym miejscu i o jednej porze**. Przez piętnaście miesięcy Nagroda jest rozproszona: zgłoszenia przychodzą zdalnie, akademia czyta u siebie, jury obraduje osobno. Na jeden wieczór w czerwcu 2028 roku laureaci, jurorzy, finaliści czterech dziedzin, media i partnerzy są w jednej sali.
 
 ## <!--ikona:mikrofon--><span>Co się na gali dzieje</span>
 
@@ -156,7 +156,7 @@ Rola nie obejmuje czterech rzeczy, bo każda ma własny budżet i własnego part
 
 **Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny. Strona Nagrody działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a program gali policzony co do minuty, więc wiadomo, że mieści się w dwóch godzinach.
 
-**W toku.** **Miejsce gali nie jest wybrane** i to jest pozycja, od której zależy wycena trzech pozostałych. Termin ustalony jest na drugą połowę kwietnia 2028. Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony.
+**W toku.** **Miejsce gali nie jest wybrane** i to jest pozycja, od której zależy wycena trzech pozostałych. Termin ustalony jest na drugą połowę czerwca 2028. Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony.
 
 **Przed nami.** Powołanie fundacji i konsultacja prawna regulaminu; **statut jest gotowy w projekcie**. Te pozycje należą do budżetu roli założycielskiej i nie obciążają tej oferty.
 
@@ -213,7 +213,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 621 668,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 629 135,20 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 139,04 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 985,28 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 222 556,80 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>

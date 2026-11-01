@@ -68,7 +68,7 @@ Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykła
 **Opisy kryteriów uwzględnią różnice między dokumentem, fabułą, animacją i esejem.** Film nie musi wygłaszać morału ani zajmować stanowiska wobec AI, ale jego ujęcie tematu ma być rozpoznawalne; niedopowiedzenie punktuje wysoko, jeżeli jest zamierzone i czytelne, a nie wynika z braku pomysłu. Rzetelność dotyczy informacji przedstawianych widzowi jako fakty o technologii, nie rozwiązań fantastycznych ani samej fikcji.
 ### Ile to czasu
 
-Najwięcej czasu zajmuje oglądanie filmów. **Łączny czas projekcji zależy od liczby i długości zakwalifikowanych filmów**, a każdy trwa od 20 do 90 minut; do tego dochodzą powroty do fragmentów, notatki, punktacja, uzasadnienia i obrady. Dlatego liczbę filmów i łączny metraż wpisujemy do umowy, zanim zaczniesz. Werdykt zapada w **lutym 2028**, a udział w gali przypada na drugą połowę kwietnia 2028; gala jest jedna dla wszystkich czterech plebiscytów.
+Najwięcej czasu zajmuje oglądanie filmów. **Łączny czas projekcji zależy od liczby i długości zakwalifikowanych filmów**, a każdy trwa od 20 do 90 minut; do tego dochodzą powroty do fragmentów, notatki, punktacja, uzasadnienia i obrady. Dlatego liczbę filmów i łączny metraż wpisujemy do umowy, zanim zaczniesz. Werdykt zapada w **lutym 2028**, a udział w gali przypada na drugą połowę czerwca 2028; gala jest jedna dla wszystkich czterech plebiscytów.
 
 **Filmy jury ogląda samodzielnie, z linków podanych w zgłoszeniach**, w terminie ustalonym w umowie; materiał niedostępny albo wadliwy zgłasza organizatorowi, który odpowiada za jego dostępność. Wspólne projekcje nie są obowiązkiem jurora – jeżeli skład uzna je za potrzebne, umawiamy je osobno.
 

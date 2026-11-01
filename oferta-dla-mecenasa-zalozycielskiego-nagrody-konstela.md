@@ -25,7 +25,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 [Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru.
 
-Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny.
+Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Pierwsza edycja obejmuje rozmowy z całego 2027 roku, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny.
 
 **Narzędzia, o których mowa w tej ofercie, obsługują wszystkie cztery plebiscyty naraz** - i to jest powód, dla którego mają własnego partnera.
 
@@ -116,7 +116,7 @@ Bez tych narzędzi 2 016,5 godziny pracy rozpisanych we wszystkich budżetach Na
 
 **Zasady, na jakich te zakupy są robione.** Imienna lista dostawców z cenami jest **załącznikiem do umowy**, nie niespodzianką w sprawozdaniu; przed podpisaniem Mecenas dostaje ją w postaci kalkulacji zakupów. Nazwy dostawców nie są dziś przesądzone, bo wybór zapada razem z polityką prywatności - decyduje o tym, co i komu powierzamy - ale kategorie i kwoty powyżej są wiążące. **Przesunięcie powyżej dziesiątej części którejkolwiek z tych dwóch pozycji wymaga pisemnej zgody Mecenasa**, a faktury wchodzą do sprawozdania. Obie pozycje rozliczane są co do złotówki: niewykorzystana część wraca do Mecenasa.
 
-**Kto finansuje te narzędzia po pierwszym roku.** Rok opłacony z tej oferty kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają w pierwszych miesiącach 2028. **Cztery miesiące domykające edycję, od stycznia do kwietnia 2028, są osobną pozycją w [budżecie fundatora nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)**, tego samego, który finansuje prowadzenie plebiscytu przez piętnaście miesięcy.
+**Kto finansuje te narzędzia po pierwszym roku.** Rok opłacony z tej oferty kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają w pierwszych miesiącach 2028. **Cztery miesiące domykające edycję, od stycznia do czerwca 2028, są osobną pozycją w [budżecie fundatora nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)**, tego samego, który finansuje prowadzenie plebiscytu przez piętnaście miesięcy.
 
 Nazywamy rzecz po imieniu: na dziś jest to **pozycja w kosztorysie, a nie przelew** - fundator nagród nie jest jeszcze pozyskany. Pokrycie pojawia się wraz z jego umową, a ta jest warunkiem otwarcia naboru, więc w dniu, w którym rusza nabór, te cztery miesiące mają umowę; przelew następuje po fakturach dostawców w 2028 roku.
 
@@ -313,7 +313,7 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 621 668,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 629 135,20 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 139,04 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 985,28 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 222 556,80 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>

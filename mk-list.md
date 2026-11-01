@@ -4,7 +4,7 @@
 
 Szanowni Państwo,
 
-zwracam się w dwóch sprawach dotyczących Nagrody Konstela - corocznej, ogólnopolskiej nagrody dla osób, które prowadzą pogłębione rozmowy ze sztuczną inteligencją, wraz z trzema plebiscytami na film, piosenkę i plakat o sztucznej inteligencji oraz coroczną antologią najlepszych rozmów. Pierwsza edycja obejmuje rok 2027, a jej rozstrzygnięcie przypada na drugą połowę kwietnia 2028 roku.
+zwracam się w dwóch sprawach dotyczących Nagrody Konstela - corocznej, ogólnopolskiej nagrody dla osób, które prowadzą pogłębione rozmowy ze sztuczną inteligencją, wraz z trzema plebiscytami na film, piosenkę i plakat o sztucznej inteligencji oraz coroczną antologią najlepszych rozmów. Pierwsza edycja obejmuje rok 2027, a jej rozstrzygnięcie przypada na drugą połowę czerwca 2028 roku.
 
 Proszę o wydanie listu intencyjnego wobec tego przedsięwzięcia oraz o wskazanie właściwej drogi finansowania jego części artystycznej; w ramach drugiej z tych spraw stawiam pięć pytań formalnych. Szczegóły i uzasadnienie zawiera pismo w załączeniu, które każdą z tych spraw opisuje osobno i prosi o rozstrzygnięcie każdej niezależnie od pozostałych. Nota koncepcyjna opisuje przedsięwzięcie w całości, razem z budżetem pierwszej edycji i harmonogramem; projekt listu intencyjnego jest wyłącznie propozycją do dowolnej zmiany.
 

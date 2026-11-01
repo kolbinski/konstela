@@ -17,13 +17,13 @@ Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI. Dlatego Nagro
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
-Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
+Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
 
 ## <!--ikona:nuta--><span>Co dostaje wydawca</span>
 
 **Dziesięć utworów nagranych w studiu**, zrealizowanych, zmiksowanych i zmasterowanych - sesje finansuje [mecenas muzyczny](/oferta-dla-mecenasa-muzycznego), a w kosztorysie stoją na 75 000 zł netto. Do tego historia, której płyta zwykle nie ma: każdy utwór pochodzi z ogólnopolskiego plebiscytu, ma jawną punktację jury i publiczności oraz autora, który wygrał nim miejsce w dziesiątce.
 
-Premiera naturalnie wiąże się z galą rozstrzygnięcia w drugiej połowie kwietnia 2028, na której czołowa trójka plebiscytu występuje na żywo, a wieczór jest rejestrowany i udostępniany bezpłatnie.
+Premiera naturalnie wiąże się z galą rozstrzygnięcia w drugiej połowie czerwca 2028, na której czołowa trójka plebiscytu występuje na żywo, a wieczór jest rejestrowany i udostępniany bezpłatnie.
 
 ## <!--ikona:zasady--><span>Czego jeszcze nie ma i co trzeba uzgodnić</span>
 
@@ -66,7 +66,7 @@ Cały kosztorys pierwszej edycji jest jawny: [arkusz budżetowy](https://konstel
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 621 668,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 629 135,20 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 139,04 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 985,28 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 222 556,80 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>

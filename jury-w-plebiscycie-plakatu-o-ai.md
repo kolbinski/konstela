@@ -61,7 +61,7 @@ Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykła
 
 ### Ile to czasu
 
-Realnie: **kilkanaście godzin pracy wymagającej skupienia, podzielonych na dwa etapy** – wybór dziesiątki finalistów w grudniu 2027 i oględziny prac wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+Realnie: **kilkanaście godzin pracy wymagającej skupienia, podzielonych na dwa etapy** – wybór dziesiątki finalistów w grudniu 2027 i oględziny prac wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie czerwca 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
 Oględziny nadesłanych oryginałów odbywają się podczas spotkania jury. **Miejsce i czas trwania oględzin oraz zasady pokrywania kosztów podróży ustalamy przed zawarciem umowy.**
 

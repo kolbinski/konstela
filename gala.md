@@ -84,4 +84,4 @@ Lista służy wycenie części artystycznej gali, pozostawionej jako nierozstrzy
 
 ## Kolejność, w jakiej to ma sens robić
 
-Nic z tego nie jest pilne - gala jest w kwietniu 2028. Kolejność naturalna: najpierw fundator puli, bo bez niego nie ma gali; potem miejsce, bo od niego zależy wycena; potem wycena części artystycznej; potem rozmowy z aktorem i z prowadzącym, bo terminy osób tej rangi rezerwuje się na kilka miesięcy wprzód. Rozmowy z nadawcą publicznym mają sens dopiero z listem intencyjnym w ręku.
+Nic z tego nie jest pilne - gala jest w czerwcu 2028. Kolejność naturalna: najpierw fundator puli, bo bez niego nie ma gali; potem miejsce, bo od niego zależy wycena; potem wycena części artystycznej; potem rozmowy z aktorem i z prowadzącym, bo terminy osób tej rangi rezerwuje się na kilka miesięcy wprzód. Rozmowy z nadawcą publicznym mają sens dopiero z listem intencyjnym w ręku.

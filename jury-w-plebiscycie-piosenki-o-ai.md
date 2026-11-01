@@ -61,7 +61,7 @@ Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykła
 
 ### Ile to czasu
 
-Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie kwietnia 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie czerwca 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
 **Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest opracowanie ostatecznych kryteriów, wag punktowych i opisów przedziałów ocen oraz przykładów ich zastosowania.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury opracowuje standard oceny, a organizator odpowiada za jego zgodność z zasadami plebiscytu i za warunki stosowania**; dzisiejsze propozycje kryteriów są punktem wyjścia do tej pracy.
 

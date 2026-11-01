@@ -314,7 +314,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 ## § 10. Gala i pokaz filmów
 
-1. Plebiscyt rozstrzyga się podczas gali Nagrody Konstela, w drugiej połowie kwietnia 2028 roku, razem z pozostałymi plebiscytami.
+1. Plebiscyt rozstrzyga się podczas gali Nagrody Konstela, w drugiej połowie czerwca 2028 roku, razem z pozostałymi plebiscytami.
 
 2. **Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów** – ten sam, który Uczestnik zgłosił zgodnie z § 4 ust. 1 lit. a1. Pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna, ponieważ jedna gala nie zmieści dziesięciu prezentacji.
 
@@ -486,7 +486,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 2. Organizator nie zmienia regulaminu w trakcie naboru w zakresie dotyczącym wymogów zgłoszenia, kryteriów oceny, wysokości nagród ani zasad wyłaniania finalistów.
 
-3. Terminy edycji pierwszej: otwarcie naboru na początku 2027 roku, **zamknięcie naboru 30 listopada 2027 roku**, pierwsze przejście oceny przez akademię filmu do stycznia 2028, werdykt jury w lutym 2028, gala w drugiej połowie kwietnia 2028.
+3. Terminy edycji pierwszej: otwarcie naboru na początku 2027 roku, **zamknięcie naboru 30 listopada 2027 roku**, pierwsze przejście oceny przez akademię filmu do stycznia 2028, werdykt jury w lutym 2028, gala w drugiej połowie czerwca 2028.
 
 4. W sprawach nieuregulowanych stosuje się przepisy prawa polskiego.
 

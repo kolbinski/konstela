@@ -198,7 +198,7 @@ Dokumentacja została przygotowana do konsultacji prawnej; zlecenie zostanie zł
 
 Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: kilka mniejszych decyzji jest łatwiejszych do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
-- **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 621 668,16 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
+- **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 629 135,20 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
 - **Sponsor gali** - 52 717,28 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
 - **Partner wydawniczy lub sponsor organizacyjny** - 128 824,30 zł<small>produkcja bezpłatnej antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
 - **Mecenas Założycielski** - 179 653,10 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
@@ -347,7 +347,7 @@ Relacja między jednym i drugim jest ścisła: strona Nagrody prezentuje zgłosz
 
 ### Teledysk nie jest ozdobą
 
-Pierwsza edycja Nagrody trwa cały rok 2027, a jej rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Przez ten rok na stronie dzieją się trzy rzeczy: kolejne odcinki podcastu, napływające zgłoszenia plebiscytu prezentowane na bieżąco oraz hymn. Hymn z teledyskiem jest wśród nich **materiałem, którego termin ustala organizator**, w odróżnieniu od podcastu, który zależy od dostępności gości, i od zgłoszeń uczestników, które napływają wtedy, kiedy ktoś je nadeśle.
+Pierwsza edycja Nagrody trwa cały rok 2027, a jej rozstrzygnięcie przypada na drugą połowę czerwca 2028. Przez ten rok na stronie dzieją się trzy rzeczy: kolejne odcinki podcastu, napływające zgłoszenia plebiscytu prezentowane na bieżąco oraz hymn. Hymn z teledyskiem jest wśród nich **materiałem, którego termin ustala organizator**, w odróżnieniu od podcastu, który zależy od dostępności gości, i od zgłoszeń uczestników, które napływają wtedy, kiedy ktoś je nadeśle.
 
 Dlatego premiera hymnu przypada na czas trwania naboru, a nie na zamknięcie edycji; **nie warunkuje natomiast rozpoczęcia edycji** – nabór otwiera się niezależnie od tego, czy hymn jest już nagrany. Nie twierdzę przy tym, że jego zasięg będzie największy - to jest założenie do zweryfikowania z przewodniczącym jury, a nie fakt. Zastrzegam przy tym, że napływające zgłoszenia same nie gwarantują równomiernego ruchu: doświadczenie konkursów wskazuje, że zgłoszenia kumulują się pod koniec terminu, a dotarcie do odbiorców pozostaje odrębną pracą.
 
@@ -396,7 +396,7 @@ Zgłoszenia, które przeszły sprawdzenie formalne, są prezentowane na stronie 
 
 ### Gala, wystawa i harmonogram
 
-Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie kwietnia 2028 roku. Prace finałowe są pokazywane na wystawie towarzyszącej gali. Transport w obie strony, opakowanie, przechowywanie i ubezpieczenie przez cały czas pozostawania pracy u organizatora pokrywa organizator.
+Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie czerwca 2028 roku. Prace finałowe są pokazywane na wystawie towarzyszącej gali. Transport w obie strony, opakowanie, przechowywanie i ubezpieczenie przez cały czas pozostawania pracy u organizatora pokrywa organizator.
 
 **Drugie pokazanie prac - na wystawie w galerii sztuki, otwieranej wernisażem po gali, a więc już z zajętymi miejscami - jest celem, nie obietnicą regulaminową**, ponieważ zależy od pozyskania galerii. Jeżeli galeria się znajdzie, finaliści otrzymują odrębną propozycję, określającą terminy, ubezpieczenie, czas pozostawania pracy u organizatora i zwrot, a przy wystawie może się odbyć cicha licytacja oryginałów. Nieprzyjęcie propozycji nie wpływa na werdykt ani na nagrodę.
 
@@ -551,7 +551,7 @@ Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam prz
 
 ## 10. Gala
 
-Gala rozdania nagród rozstrzyga cztery plebiscyty naraz. Trzy najwyżej ocenione piosenki plebiscytu oraz hymn zostaną wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie kwietnia 2028 roku; oryginały dziesiątki finalistów plebiscytu na plakat o sztucznej inteligencji wiszą na wystawie towarzyszącej, pięć najwyżej ocenionych filmów prezentowanych jest w zwiastunach, a laureaci wszystkich plebiscytów odbierają nagrody.
+Gala rozdania nagród rozstrzyga cztery plebiscyty naraz. Trzy najwyżej ocenione piosenki plebiscytu oraz hymn zostaną wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie czerwca 2028 roku; oryginały dziesiątki finalistów plebiscytu na plakat o sztucznej inteligencji wiszą na wystawie towarzyszącej, pięć najwyżej ocenionych filmów prezentowanych jest w zwiastunach, a laureaci wszystkich plebiscytów odbierają nagrody.
 
 Antologia ma na gali premierę, już ze zwycięskim plakatem na okładce. Zapis gali zamierzam zrealizować i udostępnić bezpłatnie niezależnie od pozyskania nadawcy; wymaga to jednak finansowania rejestracji i odpowiedniego zakresu umów z wykonawcami, więc nie przedstawiam tego jako rezultatu bezwarunkowego. O relację lub transmisję zamierzam zwrócić się do nadawcy publicznego, ale rozmów w tej sprawie nie podjąłem i niczego tu nie zapowiadam.
 
@@ -606,10 +606,10 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - pierwsze przejście oceny filmów przez akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
 - oględziny oryginałów i werdykt jury plakatu: początek lutego 2028
 - werdykt jury piosenki: luty 2028
-- **zamknięcie treści antologii i przekazanie do produkcji: 29 lutego 2028** - od tego dnia treści nie da się już zmienić
-- druk nakładu i dostarczenie go do dystrybutora: marzec i pierwsza połowa kwietnia 2028; okładkę pokazujemy publicznie i zaczynamy sprzedaż dopiero w dniu premiery, ponieważ zwycięski plakat nie może zostać ujawniony przed galą
+- **zamknięcie treści antologii i przekazanie do produkcji: 15 maja 2028** - od tego dnia treści nie da się już zmienić
+- produkcja e-booka i audiobooka: od 16 maja do 10 czerwca 2028, a druk nakładu, jeżeli dojdzie do wydania książkowego, po gali w terminie uzgodnionym z wydawcą; okładkę pokazujemy publicznie i zaczynamy sprzedaż dopiero w dniu premiery, ponieważ zwycięski plakat nie może zostać ujawniony przed galą
 - zamknięcie głosowania publiczności we wszystkich trzech plebiscytach artystycznych: w dniu gali, w południe
-- **rozstrzygnięcie, gala i premiera antologii: druga połowa kwietnia 2028**
+- **rozstrzygnięcie, gala i premiera antologii: druga połowa czerwca 2028**
 - wypłata nagród pieniężnych: do 14 dni od ogłoszenia wyników
 
 Regulaminy przewidują przy tym datę graniczną: jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, wyniki ogłaszam publicznie na stronie Nagrody i wykonuję wszystkie nagrody bez gali.

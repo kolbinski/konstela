@@ -15,7 +15,7 @@ Przeczytaj ją w całości. Możesz zajrzeć do stron, do których odsyła, w ty
 Odpowiedz na dziewięć pytań, w tej kolejności:
 
 1. Czy odpowiadasz na ten list i w którym miejscu podjąłeś decyzję. Jeżeli przestałeś czytać, napisz dokładnie gdzie.
-2. To najdroższa rola w całym przedsięwzięciu: 621 668,16 zł netto, z czego 371 000 zł to pula nagród dla laureatów. Wymień trzy rzeczy, które kupiłbyś za te pieniądze, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
+2. To najdroższa rola w całym przedsięwzięciu: 629 135,20 zł netto, z czego 371 000 zł to pula nagród dla laureatów. Wymień trzy rzeczy, które kupiłbyś za te pieniądze, i powiedz, w czym ta propozycja jest od nich lepsza albo gorsza.
 3. Nagroda główna wynosi 300 000 zł brutto za rozmowę z AI. Czy ta kwota przyciągnie ludzi, którzy prowadzą takie rozmowy na poważnie, czy ludzi liczących na łatwy pieniądz? Oceń też, co ta kwota mówi o Twojej firmie, gdy stoi przy jej nazwie.
 4. Ocena opiera się na czterech kryteriach o równej wadze: rozpiętość, drążenie, weryfikacja i plon. Czy da się na tej podstawie rozstrzygnąć konkurs tak, żeby wynik dał się obronić publicznie? Gdzie widzisz miejsce na zarzut uznaniowości?
 5. Które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno 327 godzin pracy organizatora oraz honoraria jury za 32 000 zł.
@@ -26,4 +26,4 @@ Odpowiedz na dziewięć pytań, w tej kolejności:
 
 Zasady odpowiedzi. Nie chwal; jeśli coś jest dobre, wystarczy jedno zdanie na końcu. Nie streszczaj dokumentu. Cytuj fragmenty zamiast opisywać wrażenia. Nie proponuj przeredagowania zdań - pisz, co jest nie tak z rzeczą, którą zdanie opisuje. Jeżeli czegoś nie rozumiesz, napisz o tym wprost; niezrozumiałość jest wadą dokumentu, nie Twoją.
 
-Kontekst do uwzględnienia: fundacja, która ma być organizatorem, jeszcze nie istnieje i ma zostać wpisana do KRS przed otwarciem naboru; jury nie jest skompletowane; Rada Fundacji nie ma jeszcze nazwisk; pozostałe role partnerskie w większości nie są obsadzone; nabór ma ruszyć w 2027 roku, a rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Autor pisze o tych brakach w dokumencie.
+Kontekst do uwzględnienia: fundacja, która ma być organizatorem, jeszcze nie istnieje i ma zostać wpisana do KRS przed otwarciem naboru; jury nie jest skompletowane; Rada Fundacji nie ma jeszcze nazwisk; pozostałe role partnerskie w większości nie są obsadzone; nabór ma ruszyć w 2027 roku, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Autor pisze o tych brakach w dokumencie.

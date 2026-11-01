@@ -30,7 +30,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na najlepszą rozmowę ze sztuczną inteligencją.
 
-Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
+Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
 Ocena przebiega w dwóch rundach.
 
@@ -113,7 +113,7 @@ Granica przy wydaniu książkowym przebiega tak: **mecenas antologii finansuje p
 
 Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgłoszenia rosną w publicznej **czytelni**, uporządkowanej wyłącznie według daty, bez rankingu i bez liczników popularności. Czytelnia **nie zawiera treści rozmów**: widać w niej tytuł, ilustrację, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia i link, który uczestnik sam opublikował u dostawcy modelu. Organizator nie zwielokrotnia cudzych rozmów na swojej stronie, zanim przejdą pełną ocenę i moderację.
 
-**Archiwum** powstaje z czytelni utrwalonej po zakończeniu weryfikacji wszystkich zgłoszeń i jest udostępniane **od dnia ogłoszenia wyników**. Dopiero ono prezentuje kopie archiwalne rozmów wraz z jawną punktacją wszystkich etapów oceny, z przeglądaniem według daty, tytułu, podpisu oraz ocen. Obejmuje wszystkie rozmowy, które przeszły weryfikację formalną i spełniają warunki publikacji z regulaminu - nie tylko te ocenione wysoko. Liczby nie gwarantujemy, bo zależy ona od liczby zgłoszeń. Materiał dydaktyczny, o którym mowa wyżej, powstaje więc w kwietniu 2028, a nie w trakcie naboru.
+**Archiwum** powstaje z czytelni utrwalonej po zakończeniu weryfikacji wszystkich zgłoszeń i jest udostępniane **od dnia ogłoszenia wyników**. Dopiero ono prezentuje kopie archiwalne rozmów wraz z jawną punktacją wszystkich etapów oceny, z przeglądaniem według daty, tytułu, podpisu oraz ocen. Obejmuje wszystkie rozmowy, które przeszły weryfikację formalną i spełniają warunki publikacji z regulaminu - nie tylko te ocenione wysoko. Liczby nie gwarantujemy, bo zależy ona od liczby zgłoszeń. Materiał dydaktyczny, o którym mowa wyżej, powstaje więc w czerwcu 2028, a nie w trakcie naboru.
 
 **Podcast towarzyszący Nagrodzie** ukazuje się przez cały rok naboru, bezpłatnie i bez ograniczeń dostępu, a prowadzi go autor popularyzatorski, nie Organizator. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz kolejne pytanie człowieka. Dwa stałe cykle:
 
@@ -196,7 +196,7 @@ Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Jeżeli edycja zo
 
 Przychód Organizatora ze sprzedaży wydania drukowanego, po pokryciu kosztów wydania, idzie na nagrody kolejnej edycji; na samym wydaniu Organizator nie zarabia.
 
-Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do kwietnia 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury oraz prowadzenie i moderację Archiwum przez rok po gali. Te zakresy się nie pokrywają i nie są liczone dwa razy.
+Granica między pracą Organizatora a pracą koordynatora jest ostra. Koordynator pracuje od stycznia do czerwca 2028 nad produkcją wydania i moderacją Archiwum: zbiera komentarze, prowadzi harmonogram z drukarnią i korektą, obsługuje korespondencję z autorami dziesiątki antologii, czyta rozmowy przed publikacją w Archiwum. Organizator odpowiada za redakcję treści, ostateczny kształt antologii, kontakt z jury oraz prowadzenie i moderację Archiwum przez rok po gali. Te zakresy się nie pokrywają i nie są liczone dwa razy.
 
 **Co, jeżeli edycja nie ruszy.** Pula nagród zależy od innego partnera, a regulamin wymienia trzy warunki, które muszą być spełnione łącznie, żeby nabór w ogóle się otworzył:
 
@@ -268,8 +268,8 @@ Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundat
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy mecenatu<small>narzędzia, strona i fundacja muszą powstać przed otwarciem naboru, a od dnia jego otwarcia obowiązuje ogłoszony regulamin, którego już się nie zmienia</small></dd></div>
 <div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 15 stycznia 2028, a zakwalifikowane rosną w publicznej czytelni przez cały rok</small></dd></div>
-<div><dt>Styczeń - luty 2028</dt><dd>Prace redakcyjne nad antologią<small>redakcja, komentarze jury, korekta i skład; treść zamykamy 29 lutego 2028</small></dd></div>
-<div><dt>Marzec - pierwsza połowa kwietnia 2028</dt><dd>Druk i wprowadzenie do dystrybucji<small>nakład trafia do dystrybutora przed galą; okładka niesie zwycięski plakat, więc werdykt plebiscytu plakatu znają wcześniej wyłącznie jury tego plebiscytu, Organizator, drukarnia i wydawca - wszyscy objęci poufnością do chwili ogłoszenia na gali</small></dd></div>
+<div><dt>Styczeń - luty 2028</dt><dd>Prace redakcyjne nad antologią<small>redakcja, komentarze jury, korekta i skład; treść zamykamy 15 maja 2028</small></dd></div>
+<div><dt>16 maja - 10 czerwca 2028</dt><dd>Produkcja e-booka i audiobooka; druk nakładu, jeżeli dojdzie do wydania książkowego, następuje po gali w terminie uzgodnionym z wydawcą<small>nakład trafia do dystrybutora przed galą; okładka niesie zwycięski plakat, więc werdykt plebiscytu plakatu znają wcześniej wyłącznie jury tego plebiscytu, Organizator, drukarnia i wydawca - wszyscy objęci poufnością do chwili ogłoszenia na gali</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala i premiera antologii<small>rozstrzygnięcie czterech plebiscytów, premiera e-booka i początek sprzedaży wydania książkowego</small></dd></div>
 <div><dt>Od dnia ogłoszenia wyników</dt><dd>Udostępnienie Archiwum<small>kopie archiwalne wszystkich zakwalifikowanych rozmów wraz z punktacją; moderacja i uzupełnienia trwają jeszcze przez rok po gali</small></dd></div>
 </dl>
@@ -312,7 +312,7 @@ Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu c
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 621 668,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 629 135,20 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 139,04 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 985,28 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 222 556,80 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>

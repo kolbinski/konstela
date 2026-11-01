@@ -12,7 +12,7 @@ Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmo
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt - konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. To samo robi dobra rozmowa: pojedyncze fakty ma każdy, wartość powstaje z połączeń.
 
-**Pierwsza edycja:** rozmowy przeprowadzone w 2027 roku, zgłoszenia do 15 stycznia 2028, rozstrzygnięcie i gala w drugiej połowie kwietnia 2028. Kolejne edycje co roku, w tym samym rytmie.
+**Pierwsza edycja:** rozmowy przeprowadzone w 2027 roku, zgłoszenia do 15 stycznia 2028, rozstrzygnięcie i gala w drugiej połowie czerwca 2028. Kolejne edycje co roku, w tym samym rytmie.
 
 Organizatorem będzie fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem zgłoszeń. Udział jest bezpłatny. Pula nagród pochodzi od fundatora zewnętrznego; poziom docelowy to nagroda główna 300 tys. zł.
 

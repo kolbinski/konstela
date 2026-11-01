@@ -95,7 +95,7 @@ Pierwsze przejście oceny prowadzi akademia filmu, powoływana w każdej edycji,
 
 Czwartym działaniem jest nagranie piosenki - hymnu przedsięwzięcia do tekstu „Zapytaj inaczej", poza plebiscytem. Tekst tej piosenki jest dziś wersją roboczą; zainteresowanych członków jury plebiscytu na piosenkę o sztucznej inteligencji zaprosimy do opracowania jego ostatecznej wersji oraz skomponowania i nagrania hymnu, a udział jest dobrowolny i wymaga osobnych ustaleń.
 
-Premierę planuję w 2027 roku, w czasie trwania naboru. Hymn wraz z trzema najwyżej ocenionymi utworami plebiscytu zostanie wykonany na żywo podczas gali rozstrzygnięcia pierwszej edycji, w drugiej połowie kwietnia 2028 roku.
+Premierę planuję w 2027 roku, w czasie trwania naboru. Hymn wraz z trzema najwyżej ocenionymi utworami plebiscytu zostanie wykonany na żywo podczas gali rozstrzygnięcia pierwszej edycji, w drugiej połowie czerwca 2028 roku.
 
 Obsadę, niezmienność tytułu i refrenu oraz kosztorys hymnu wraz z teledyskiem opisuje **rozdział 7 załączonej noty koncepcyjnej, „Plebiscyt na piosenkę"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke](https://konstela.org/dokument/mk-nota-koncepcyjna/#7-plebiscyt-na-piosenke). Tekst w wersji roboczej jest dostępny pod adresem [konstela.org/hymn](https://konstela.org/hymn/).
 
@@ -167,7 +167,7 @@ Rozkład kosztów na lata jest następujący:
 - **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata, a terminy akademii są różne w zależności od plebiscytu: akademia rozmów ocenia zgłoszenia na bieżąco w czasie naboru, od lutego 2027 do stycznia 2028, akademie piosenki i plakatu pracują po zamknięciu swoich naborów, czyli na przełomie 2027 i 2028 roku, a akademia filmu przeprowadza pierwsze przejście oceny w styczniu 2028 roku. Ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
 - **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace docierają na początku stycznia 2028;
 - **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
-- **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę kwietnia 2028 roku.
+- **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę czerwca 2028 roku.
 
 Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: wysyłka oryginałów przypada na przełom 2027 i 2028 roku, a realizacja wystawy i przesyłki powrotne na 2028 rok.
 

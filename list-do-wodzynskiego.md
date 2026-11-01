@@ -2,7 +2,7 @@ Szanowny Panie Prezesie,
 
 nazywam się Krzysztof Olbiński, mieszkam w Sieradzu. Jestem inżynierem oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwentem Politechniki Łódzkiej.
 
-Buduję Nagrodę Konstela: coroczną nagrodę rozstrzyganą w czterech plebiscytach, poświęconych rozmowie z AI, filmowi, piosence i plakatowi o sztucznej inteligencji. Pierwsza edycja obejmuje cały 2027 rok, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny, a wszystkie regulaminy i cały kosztorys są jawne pod adresem konstela.org.
+Buduję Nagrodę Konstela: coroczną nagrodę rozstrzyganą w czterech plebiscytach, poświęconych rozmowie z AI, filmowi, piosence i plakatowi o sztucznej inteligencji. Pierwsza edycja obejmuje cały 2027 rok, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny, a wszystkie regulaminy i cały kosztorys są jawne pod adresem konstela.org.
 
 Piszę do Pana w sprawie plebiscytu na plakat, bo ma on jeden warunek, który czyni go niepodobnym do niczego innego: **plakat o sztucznej inteligencji ma powstać pod ludzką ręką** - farbą, tuszem, kolażem, dowolną techniką tradycyjną, bez generatora obrazu. Ilustracja i plakat to pierwsze zawody, w których z dnia na dzień dało się wygenerować obraz zamiast go zlecić. Nie rozstrzygam tego sporu, stawiam w nim tylko konkretną propozycję: chcę zobaczyć, co człowiek ma do powiedzenia o tej maszynie, kiedy mówi to własną ręką.
 

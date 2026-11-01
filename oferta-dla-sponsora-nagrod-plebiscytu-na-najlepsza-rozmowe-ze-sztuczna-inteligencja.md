@@ -25,7 +25,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta oferta dotyczy wyłącznie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją.
 
-Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
+Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
 Ocena przebiega w dwóch rundach.
 
@@ -78,7 +78,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**621 668,16 zł netto** (764 651,84 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**629 135,20 zł netto** (773 836,30 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -105,9 +105,9 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Fundusz celowy na utrzymanie Archiwum przez dziewięć lat       |       7 920 zł |
 | Przygotowanie i złożenie migawki Archiwum w repozytorium       |       3 550 zł |
 | Rezerwa na przekroczenia (12%, bez nagród)                     |      24 560,28 zł |
-| **Razem netto**                                                | **621 668,16 zł** |
+| **Razem netto**                                                | **629 135,20 zł** |
 | VAT 23%                                                        |  143 112,73 zł |
-| **Do zapłaty brutto**                                          | **764 651,84 zł** |
+| **Do zapłaty brutto**                                          | **773 836,30 zł** |
 
 **Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.
 
@@ -143,16 +143,16 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile 
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
-**Kiedy i za co Fundator płaci - cała cena, nie jej część.** Harmonogram obejmuje wszystkie 621 668,16 zł, żeby nie trzeba było składać go z kilku akapitów:
+**Kiedy i za co Fundator płaci - cała cena, nie jej część.** Harmonogram obejmuje wszystkie 629 135,20 zł, żeby nie trzeba było składać go z kilku akapitów:
 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
 | Po konsultacji prawnej i po potwierdzeniu finansowania pierwszej rundy, przed otwarciem naboru | 429 226 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 7 226, domeny na dziesięć lat 3 000, magazyn kopii 1 500, księgowość 1 500 |
-| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **160 442,16 zł** |
+| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **167 909,20 zł** |
 | Po zamknięciu naboru i zakończeniu pierwszej rundy | według godzin | kolejna część pracy organizatora, na tych samych zasadach |
-| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta ze 160 442,16 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
+| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta ze 167 909,20 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
 | Osobno, po zakończeniu oceny | 32 000 zł | honoraria jury, na podstawie umów z jurorami, w kwotach z tych umów i bez narzutu; pieniądze nie przechodzą przez wykonawcę pracy organizatora |
-| **Razem** | **621 668,16 zł** | 429 226 + 160 442,16 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
+| **Razem** | **629 135,20 zł** | 429 226 + 167 909,20 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
 
 **Dlaczego pula idzie przed naborem.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner się wywiąże.
 
@@ -206,7 +206,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 **Minimalny trwały rezultat, pięć rzeczy wprost.** Nazwa Fundatora stoi przy rzeczy, która ma zostać po edycji, więc mówimy dokładnie, czym ona jest:
 
 1. **Co zawiera.** Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną - nie samą dziesiątkę antologii. Przy każdym: tytuł, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia, kopia archiwalna rozmowy sporządzona przez skraper w chwili zgłoszenia oraz jawna punktacja wszystkich etapów oceny. **Jedno zastrzeżenie, bo dotyczy tego, co Fundator kupuje:** regulamin przewiduje wariant awaryjny na wypadek, gdyby konsultacja prawna uznała publikowanie kopii rozmów za niedopuszczalne albo obciążone ryzykiem, którego nie wolno nam przyjąć - Archiwum ogranicza się wtedy do tytułu, podpisu, opisu odkrycia, linku i ocen. Konsultacja odbywa się przed otwarciem naboru, czyli **przed terminem pierwszej wpłaty**, więc Fundator pozna rozstrzygnięcie, zanim wyłoży cokolwiek; harmonogram i prawo odstąpienia opisuje sekcja o kwocie. Regulamin dopuszcza też niepublikowanie pojedynczej rozmowy na żądanie jej autora albo z powodu treści, których opublikować nie wolno; dotyczy to pojedynczych przypadków, nie zbioru.
-2. **Od kiedy działa.** Czytelnia rośnie publicznie przez cały rok naboru, od jego pierwszego dnia; Archiwum z jawną punktacją otwiera się **w dniu ogłoszenia werdyktu**, czyli w drugiej połowie kwietnia 2028 roku.
+2. **Od kiedy działa.** Czytelnia rośnie publicznie przez cały rok naboru, od jego pierwszego dnia; Archiwum z jawną punktacją otwiera się **w dniu ogłoszenia werdyktu**, czyli w drugiej połowie czerwca 2028 roku.
 3. **Jak długo je utrzymujemy i z czego.** Kopie archiwalne zgłoszeń przechowujemy **pięć lat** w magazynie opłaconym z tej oferty z góry - tyle, ile trwa licencja na publikację. Dłuższe, już niepubliczne przechowywanie kopii wymagałoby osobnej podstawy w regulaminie i w polityce prywatności; pytanie o to poszło do kancelarii i **do czasu odpowiedzi nie kupujemy magazynu, którego nie wolno nam używać**. Adresy Archiwum mają natomiast opłacone domeny na **dziesięć lat** - tyle wynosi maksimum dopuszczane przez ICANN, dłużej nie da się przedpłacić żadnej domeny i nie udajemy, że się da. Dalej rozdzielamy to, co zabezpieczone pieniędzmi, od tego, co zależy od decyzji, bo uchwała Rady Fundacji pieniędzy nie tworzy.
    - **Zabezpieczone konstrukcją:** Archiwum jest zbiorem stron statycznych, a nie aplikacją z bazą danych, więc jego **utrzymanie techniczne** kosztuje domenę i hosting plików - rzędu kilkuset złotych rocznie - a nie czyjąkolwiek pracę. Nie znaczy to, że nie wymaga nikogo: żądania usunięcia danych, zgłoszenia naruszeń i sprostowania punktacji trzeba rozpatrzyć, a odpowiada za to **Zarząd fundacji pod nadzorem Rady**, tak jak za każdą inną publikację fundacji. W kosztorysie jest na to **25 godzin prowadzenia Czytelni i Archiwum**, rozłożonych tak: około dziesięciu na publikowanie wpisów przez rok naboru, około pięciu na uzupełnienie Archiwum punktacją po werdykcie i około dziesięciu na rok po gali. **Na kolejne dziewięć lat jest osobny fundusz celowy: 7 920 zł**, czyli dziewięć lat po cztery godziny rocznie po stawce 220 zł; rok pierwszy po gali jest już w tych dwudziestu pięciu godzinach, więc fundusz go nie dubluje. Są to środki związane celem, odkładane w fundacji, a nie wypłata z góry za pracę niewykonaną. **Granica odpowiedzialności, powiedziana wprost: fundusz finansuje liczbę godzin, a nie załatwienie każdej sprawy.** Jeżeli żądań i sprostowań będzie więcej, niż się w tych godzinach mieści, obowiązek zostaje przy fundacji i nie ma na niego finansowania z tej oferty - nie obiecujemy czegoś przeciwnego, bo nie potrafilibyśmy tego dotrzymać. Gdyby fundacja uległa likwidacji przed upływem tego okresu, niewykorzystana część funduszu idzie razem z Archiwum do instytucji, która zgodzi się je prowadzić.
    - **Zabezpieczone decyzją, ogłoszoną zawczasu:** o przedłużeniu retencji kopii rozstrzyga Rada Fundacji i ogłasza to **przed** upływem pięciu lat, nie po.

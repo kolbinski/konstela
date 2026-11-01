@@ -4,7 +4,7 @@
 
 ## <!--ikona:fala--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy jednej stacji telewizyjnej, która będzie towarzyszyć całej pierwszej edycji na antenie** - od otwarcia naboru w styczniu 2027 do gali rozstrzygnięcia w kwietniu 2028.
+**Szukamy jednej stacji telewizyjnej, która będzie towarzyszyć całej pierwszej edycji na antenie** - od otwarcia naboru w styczniu 2027 do gali rozstrzygnięcia w czerwcu 2028.
 
 Rola obejmuje całą edycję, a nie jedno wydarzenie: cykl w programie porannym przez rok naboru, informacje w serwisach przy kamieniach milowych, czas antenowy na zapowiedzi naboru i relację z gali. **W żadną stronę nie płyną pieniądze** - stacja wnosi antenę i czas pracy redakcji, fundacja wnosi dostęp, materiał i wyłączność tej roli.
 
@@ -21,7 +21,7 @@ Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI. Dlatego Nagro
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
-Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę kwietnia 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
+Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
 
 ## <!--ikona:fala--><span>Czym to się różni od patronatu medialnego</span>
 
@@ -36,7 +36,7 @@ Lista jest propozycją wyjściową, nie żądaniem. Zakres ustala się przed pod
 1. **Cykl w programie porannym** przez rok naboru - rozmowy o życiu z AI prowadzone na materiale, którego nie ma gdzie indziej: zgłoszonych rozmowach człowieka z modelem, z autorami i z członkami Akademii.
 2. **Informacje w serwisach przy kamieniach milowych** - otwarcie naboru, ogłoszenie składu jury, zamknięcie naboru, werdykt.
 3. **Czas antenowy na zapowiedzi naboru** - z czasu niesprzedanego, w wymiarze, który stacja uzna za możliwy.
-4. **Relacja z gali** w drugiej połowie kwietnia 2028, w postaci uzgodnionej: wejścia na żywo, materiał w serwisie, retransmisja albo transmisja całości.
+4. **Relacja z gali** w drugiej połowie czerwca 2028, w postaci uzgodnionej: wejścia na żywo, materiał w serwisie, retransmisja albo transmisja całości.
 5. **Udział w gali od strony anteny** - jeżeli stacja chce wskazać prowadzącego wieczór, jest to do uzgodnienia; honorarium prowadzącego jest wtedy po stronie stacji i o tę kwotę spada [budżet gali](/oferta-dla-sponsora-gali-nagrody-konstela).
 6. **Emisja filmów finałowych** - możliwa, ale na osobnych zasadach: prawa zostają przy twórcach, więc umowę o emisję zawiera autor filmu, nie fundacja, i każdy film wymaga jego odrębnej zgody.
 
@@ -85,7 +85,7 @@ Cały kosztorys pierwszej edycji jest jawny: [arkusz budżetowy](https://konstel
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 621 668,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 629 135,20 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 333 139,04 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 985,28 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 222 556,80 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>

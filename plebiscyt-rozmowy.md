@@ -231,7 +231,7 @@ Po ogłoszeniu wyników Czytelnia zamienia się w Archiwum, udostępniane bezpł
 
 ### Licencja i podpis
 
-Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 29 lutego 2028 – po tym dniu antologia idzie do druku.
+Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 15 maja 2028 – po tym dniu antologia idzie do druku.
 
 ### Pseudonim nie anonimizuje treści
 
@@ -292,7 +292,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie kwietnia 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
 Elementem gali jest **dialog czytany**: zwycięzca plebiscytu czyta ze sceny swoją część dialogu z AI, a odpowiedzi sztucznej inteligencji czyta narrator.
 
@@ -305,7 +305,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <div><dt>Cały 2027</dt><dd>Okno rozmów<small>zgłoszenia przyjmujemy na bieżąco, a Czytelnia rośnie</small></dd></div>
 <div><dt>15 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dwa dodatkowe tygodnie są dla rozmów z końca grudnia</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>datę ogłaszamy osobno: zależy od zakończenia weryfikacji wszystkich zgłoszeń i zamrożenia punktacji pierwszej rundy; głosowanie trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>29 lutego 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
+<div><dt>15 maja 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
 <div><dt>Druga połowa kwietnia 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
 </dl>
 
