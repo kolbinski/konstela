@@ -382,6 +382,14 @@ Po naprawieniu osiemnastu pozycji z szóstego czytania puściłem sprawdzenie **
 
 **Trzeci wniosek dotyczy tego, kiedy przestać.** Każda runda kończy się podobną liczbą pozycji, bo każda poprawka ma własny promień. To nie znaczy, że regulamin jest w złym stanie - znaczy, że **dokument o tej gęstości odeszłań nie zbiega się przez czytanie przez autora**. Praktyczny wniosek: dalsze rundy wewnętrzne mają sens tylko jako sprawdzenie ostatniej partii zmian, a nie jako szukanie defektów w całości - to ostatnie należy do recenzenta i do kancelarii, którzy czytają bez pamięci o intencji.
 
+### Wynik testu zbieżności i rekomendacja
+
+Na końcu puściłem sprawdzenie **trzynastu przepisów z ostatniej partii napraw** - wąskie, celowane, bez szukania defektów w całości. Wróciło **dziewięć**. Dwie były sprzecznościami co do skutku, nie potknięciami: definicja rankingu kazała uzupełniać dziesiątkę zgłoszeniem spoza rundy drugiej, czego § 8 ust. 14 zabrania, a nowe rozgraniczenie katalogu usunięć uczyniło **zakazanymi po publikacji Archiwum czynności nakazane innym przepisem**. Trzecia: jedna litera była tego dnia poprawiana **trzy razy** i za każdym razem pomyłka przesuwała się o jeden krok, nie znikała - wszystkie trzy wersje są w niej wypisane, bo to jest najlepszy opis mechanizmu, jaki mamy.
+
+**Rekomendacja, którą trzeba podjąć świadomie.** Regulamin rozmowy przeszedł sześć czytań i dwa sprawdzenia celowane. Siedemnastu defektów nie udało się wyeliminować szybciej, niż pojawiały się nowe, ale **wszystkie znalezione zostały zamknięte**, a każda kolejna runda dotyczy coraz węższych i coraz mniej dotkliwych rzeczy: ostatnia przyniosła dwie sprzeczności co do skutku wobec pięciu w pierwszej. **Dalsze własne czytanie nie jest najlepszym użyciem czasu** - recenzent i kancelaria czytają bez pamięci o intencji autora i to jest dokładnie ten rodzaj czytania, który te defekty znajduje. Oferta akademii jest gotowa od wczoraj i nic na nią nie czeka.
+
+**Czego nie wolno przy tym powiedzieć recenzentowi.** Że regulamin jest sprawdzony. Jest **domknięty co do wszystkiego, co znależiono**, a to nie to samo - i trzy pytania z sekcji Ch oraz dwa z Ci pozostają otwarte niezależnie od redakcji.
+
 ### Czego to nie rozstrzyga
 
 Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie wyliczymy bez próby oceniania przeprowadzonej osobno dla każdego rodzaju zgłoszenia** - czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu. Próba oceniania zostaje więc pozycją otwartą w czterech wariantach, nie w jednym.
