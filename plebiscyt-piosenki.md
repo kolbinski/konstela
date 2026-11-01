@@ -149,6 +149,28 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 </article>
 </div>
 
+### Co, jeżeli zgłoszeń będzie bardzo dużo
+
+Akademia to opłacani słuchacze, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż akademia może przesłuchać. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
+
+Gdyby runda uczestników się odbywała, wyglądałoby to tak:
+
+- **warunkiem rozpatrzenia Twojego zgłoszenia jest przesłuchanie i ocenienie do czterech cudzych utworów** w rundzie, do której trafiło. W przydziale są jeszcze **zgłoszenia wzorcowe** ocenione wcześniej – nie wiesz które – po to, żeby dało się zmierzyć, jak oceniasz. Przydziały są losowe i ślepe: nie wybierasz, co oceniasz, i nie wiesz, kto to zrobił
+- **przydział liczymy w sztukach, nie w minutach** – utwór trwa od dwóch do sześciu minut, więc rozrzut jest niewielki i cztery zgłoszenia to dla każdego podobna praca. Inaczej jest przy rozmowach, które mogą mieć od 3 do 25 tysięcy słów, i przy filmach, które trwają od 20 do 90 minut – tam przydział liczy się w słowach i w minutach
+- **każde zgłoszenie dostaje co najmniej trzy oceny**, a te, którym zabrakło oceniających, dobierają ich w kolejnym przydziale. Żadne zgłoszenie nie wypada z powodu braku oceniających
+- oceniasz **tą samą jawną kartą oceny**, co akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
+- na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu; zastępcze ma zbliżoną długość, żeby odmowa nie służyła do dobierania sobie przydziału
+- **przydzielonych zgłoszeń nie wolno kopiować, publikować ani udostępniać** – ani w czasie edycji, ani potem
+- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) przesłuchania przejmuje akademia, a zgłoszenie idzie dalej
+- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża akademia własnym trybem
+- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej akademii – a akademia ocenia je **od nowa, nie znając Twoich ocen**
+
+Reguły są wspólne dla wszystkich czterech plebiscytów i opisane w jednym miejscu, żeby nie rozeszły się ze sobą: w [regulaminie rozmowy](/dokument/regulamin-rozmowy), w § 8 ust. 10c, wraz z [wyjaśnieniem całej konstrukcji](/dokument/skalowanie-oceny). Tutejsze odrębności i parametry są w [regulaminie](/dokument/regulamin-piosenki), w § 10 ust. 6f i 6g.
+
+### Dzika karta
+
+Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego przesłuchania**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to przesłuchanie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
+
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
 <div class="kafle">

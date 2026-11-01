@@ -148,6 +148,28 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 </div>
 
+### Co, jeżeli zgłoszeń będzie bardzo dużo
+
+Akademia to opłacani widzowie, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż akademia może obejrzeć. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
+
+Gdyby runda uczestników się odbywała, wyglądałoby to tak:
+
+- **warunkiem rozpatrzenia Twojego zgłoszenia jest obejrzenie i ocenienie cudzych filmów w granicach ogłoszonego budżetu minut, nie więcej niż czterech** w rundzie, do której trafiło. W przydziale są jeszcze **zgłoszenia wzorcowe** ocenione wcześniej – nie wiesz które – po to, żeby dało się zmierzyć, jak oceniasz. Przydziały są losowe i ślepe: nie wybierasz, co oceniasz, i nie wiesz, kto to zrobił
+- **przydział liczymy w minutach, nie w sztukach.** Film trwa od 20 do 90 minut, więc gdybyśmy liczyli w sztukach, jeden uczestnik dostałby za ten sam obowiązek ponad cztery razy więcej pracy niż drugi. Przydział obejmuje więc cztery filmy **albo ustaloną liczbę minut – co wyczerpie się pierwsze**. Zgłoszenia wzorcowe są poza tym budżetem i dobieramy do niego wyłącznie krótsze filmy, żeby w przydziale zostało miejsce na choć jeden cudzy
+- **każde zgłoszenie dostaje co najmniej trzy oceny**, a te, którym zabrakło oceniających, dobierają ich w kolejnym przydziale. Żadne zgłoszenie nie wypada z powodu braku oceniających
+- oceniasz **tą samą jawną kartą oceny**, co akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
+- na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu; zastępcze ma zbliżoną długość, żeby odmowa nie służyła do dobierania sobie przydziału
+- **przydzielonych zgłoszeń nie wolno kopiować, publikować ani udostępniać** – ani w czasie edycji, ani potem
+- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) obejrzenia przejmuje akademia, a zgłoszenie idzie dalej
+- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża akademia własnym trybem
+- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej akademii – a akademia ocenia je **od nowa, nie znając Twoich ocen**
+
+Reguły są wspólne dla wszystkich czterech plebiscytów i opisane w jednym miejscu, żeby nie rozeszły się ze sobą: w [regulaminie rozmowy](/dokument/regulamin-rozmowy), w § 8 ust. 10c, wraz z [wyjaśnieniem całej konstrukcji](/dokument/skalowanie-oceny). Tutejsze odrębności i parametry są w [regulaminie](/dokument/regulamin-filmu), w § 8 ust. 4f i 4g.
+
+### Dzika karta
+
+Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego obejrzenia**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to obejrzenie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem **w minutach, nie w sztukach** – bo dwadzieścia filmów po półtorej godziny to już górna granica tego, co jury zdąży obejrzeć. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
+
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
 <div class="kafle">
