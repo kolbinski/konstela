@@ -19,6 +19,16 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 1. **Ustalenie werdyktu** oznacza przyjęcie przez jury ostatecznej kolejności zgłoszeń. **Publiczne ogłoszenie werdyktu** następuje podczas gali. **Zawiadomienie finalisty albo laureata o wyniku nie jest publicznym ogłoszeniem.**
 
+1a. **Lista rankingowa, finalista, laureat.** Ilekroć Regulamin posługuje się tymi pojęciami, rozumie się przez nie:
+
+   - **lista rankingowa** - kolejność całej dziesiątki finalistów ustalona przez jury, a po jej wyczerpaniu kolejność według wyniku oceny akademii piosenki (§ 10 ust. 5) wśród pozostałych zgłoszeń, które przeszły weryfikację formalną; podstawienie kolejnego zgłoszenia na zwolnione miejsce następuje w tej właśnie kolejności, a sięgnięcie poza listę węższą przekazaną jury wymaga uprzedniego zapoznania się ze zgłoszeniem przez cały skład jury;
+
+   - **finalista** - Uczestnik, którego zgłoszenie weszło do dziesiątki finalistów;
+
+   - **laureat** - finalista, któremu przyznano nagrodę pieniężną.
+
+   Pojęcia określono 1.11.2026, bo wiązały skutki w kilku paragrafach, a żaden ich nie definiował; rozstrzygnięcia wymagało zwłaszcza to, co dzieje się po wyczerpaniu dziesiątki. Brzmienie odpowiada § 1a ust. 1a regulaminu plebiscytu na rozmowę i ma być z nim zgodne.
+
 2. Ilekroć niniejszy regulamin wiąże skutek z ogłoszeniem werdyktu, rozumie się przez to **publiczne ogłoszenie na gali**, chyba że przepis wyraźnie odsyła do ustalenia werdyktu.
 
 3. **Poufność wyniku.** Osoba zawiadomiona o wyniku przed jego publicznym ogłoszeniem zachowuje go w poufności do chwili tego ogłoszenia, nie dłużej jednak niż **do upływu 30 dni od dnia gali wskazanego w ogłoszeniu o otwarciu naboru**; po tym terminie obowiązek poufności wygasa, choćby gala została przesunięta.
@@ -603,7 +613,7 @@ Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/doku
 7. **§ 8 ust. 2 lit. d-f** – trzy wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: język polski, czas trwania, brak wcześniejszego wydania komercyjnego. Czy którykolwiek rodzi ryzyko zarzutu nierównego traktowania.
 8. **§ 8 ust. 4** – wyłączenie z powodu niedostępności materiału jako podstawa odrębna od rozstrzygnięcia o naruszeniu praw.
 9. **§ 12 ust. 3** – sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
-10. **§ 12 ust. 6** – podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu Nagrody.
+10. **§ 12 ust. 6** – podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu plebiscytu na rozmowę.
 11. **§ 13 ust. 3** – przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
 12. **§ 14 ust. 2-5** – oczekiwanie obecności laureatów czołowej trójki na gali przy jednoczesnym zastrzeżeniu, że nieobecność ani odmowa wykonania utworu na żywo nie pozbawiają nagrody pieniężnej, oraz zakres pokrycia kosztów dojazdu i noclegu całej dziesiątki.
 13. **§ 15 ust. 2-3** – brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
