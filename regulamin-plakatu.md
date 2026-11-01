@@ -27,7 +27,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
    - **laureat** - finalista, któremu przyznano nagrodę pieniężną.
 
-   Pojęcia określono 1.11.2026, bo wiązały skutki w kilku paragrafach, a żaden ich nie definiował; rozstrzygnięcia wymagało zwłaszcza to, co dzieje się po wyczerpaniu dziesiątki. Trzeci szczebel listy dopisano 1.11.2026 razem z rundami uczestników: zgłoszenia, które przeszły weryfikację formalną, lecz odpadły w rundach, nie mają żadnej oceny akademii, więc bez niego definicja nie dawała dla nich kolejności. Konstrukcja odpowiada § 1a ust. 1a regulaminu plebiscytu na rozmowę; różnica dotyczy wyłącznie tego, że w tym plebiscycie dziesiątka finalistów jest zarazem dziesiątką werdyktu.
+   Konstrukcja odpowiada § 1a ust. 1a regulaminu plebiscytu na rozmowę; różnica dotyczy wyłącznie tego, że w tym plebiscycie dziesiątka finalistów jest zarazem dziesiątką werdyktu.
 
 2. Ilekroć niniejszy regulamin wiąże skutek z ogłoszeniem werdyktu, rozumie się przez to **publiczne ogłoszenie na gali**, chyba że przepis wyraźnie odsyła do ustalenia werdyktu.
 
@@ -349,7 +349,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
    e) w podsumowaniu edycji Organizator podaje **liczbę złożonych kart oraz liczbę zgłoszeń, które dzięki nim awansowały**.
 
-   **Granica puli jest tu granicą wystawy, nie tylko czasu jury.** Praca z puli dzikich kart, która wejdzie do dziesiątki finalistów, wymaga dostarczenia oryginału, oględzin i miejsca na wystawie, więc **pula nie powiększa liczby finalistów**: zgłoszenia z puli jury ocenia na równi z pozostałymi, a dziesiątka pozostaje dziesiątką. Karta działa wyłącznie wtedy, gdy praca została przez kogoś obejrzana i doceniona; ochronę przed przeoczeniem w trybie jednoosobowym zapewniają zabezpieczenia z ust. 4j, a w rundach uczestników - losowa próbka odrzuconych z § 8 ust. 10c lit. h regulaminu plebiscytu na rozmowę, bo tam akademia zgłoszeń nie ocenia i nie ma kto karty użyć. Mechanizm dopisano 1.11.2026 wraz z rundami uczestników: wcześniej plebiscyt nie miał żadnego trybu ratowania pracy nietypowej, która wypadła ze względu na średnią.
+   **Granica puli jest tu granicą wystawy, nie tylko czasu jury.** Praca z puli dzikich kart, która wejdzie do dziesiątki finalistów, wymaga dostarczenia oryginału, oględzin i miejsca na wystawie, więc **pula nie powiększa liczby finalistów**: zgłoszenia z puli jury ocenia na równi z pozostałymi, a dziesiątka pozostaje dziesiątką. Karta działa wyłącznie wtedy, gdy praca została przez kogoś obejrzana i doceniona; ochronę przed przeoczeniem w trybie jednoosobowym zapewniają zabezpieczenia z ust. 4j, a w rundach uczestników - losowa próbka odrzuconych z § 8 ust. 10c lit. h regulaminu plebiscytu na rozmowę, bo tam akademia zgłoszeń nie ocenia i nie ma kto karty użyć.
 
 5. Członek jury oraz członek akademii wyłącza się od oceny zgłoszenia, jeżeli zna Uczestnika na tyle, że mogłoby to wpłynąć na ocenę, w szczególności gdy Uczestnik jest osobą mu najbliższą, współpracuje z nim zawodowo, jest albo był jego studentem, albo pozostaje z nim w sporze. Wyłączenie zgłasza się przewodniczącemu jury przed rozpoczęciem oceny.
 
@@ -570,7 +570,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 ## § 16. Nierozstrzygnięcie edycji
 
-**Warunki uruchomienia naboru.** Organizator otwiera przyjmowanie zgłoszeń dopiero po łącznym spełnieniu czterech warunków: pula wszystkich ogłaszanych nagród pieniężnych ma pełne pokrycie w środkach, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie fundatora albo partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a ich skład został ogłoszony; Regulamin przeszedł konsultację prawną, a klauzula informacyjna jest kompletna; **pierwsza runda oceny ma zapewnione finansowanie** w zakresie odpowiadającym liczbie zgłoszeń przyjętej w kosztorysie edycji. Spełnienie tych warunków Organizator stwierdza na stronie plebiscytu w dniu otwarcia naboru. Ustęp dodany 31.10.2026, dla zrównania z regulaminem plebiscytu rozmowy: bez niego nabór mógłby ruszyć z nieopłaconą pulą, bez ogłoszonego jury i bez środków na przeczytanie zgłoszeń.
+**Warunki uruchomienia naboru.** Organizator otwiera przyjmowanie zgłoszeń dopiero po łącznym spełnieniu czterech warunków: pula wszystkich ogłaszanych nagród pieniężnych ma pełne pokrycie w środkach, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie fundatora albo partnera nie wystarcza; co najmniej trzy osoby potwierdziły udział w jury, a ich skład został ogłoszony; Regulamin przeszedł konsultację prawną, a klauzula informacyjna jest kompletna; **pierwsza runda oceny ma zapewnione finansowanie** w zakresie odpowiadającym liczbie zgłoszeń przyjętej w kosztorysie edycji. Spełnienie tych warunków Organizator stwierdza na stronie plebiscytu w dniu otwarcia naboru. Warunki te istnieją dlatego, że bez nich nabór mógłby ruszyć z nieopłaconą pulą, bez ogłoszonego jury i bez środków na przeczytanie zgłoszeń; odpowiadają one warunkom z regulaminu plebiscytu na rozmowę.
 
 1. Organizator może nie rozstrzygnąć edycji, jeżeli liczba zgłoszeń spełniających wymogi formalne będzie mniejsza niż dziesięć albo jeżeli żadne ze zgłoszeń nie uzyska co najmniej 50 punktów.
 
