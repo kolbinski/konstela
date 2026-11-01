@@ -6,7 +6,7 @@ Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga
 
 Przy trzystu czytających punkty przestają być porównywalne - jeden daje dobrej rozmowie siedem, drugi dziewięć, i nie wynika to z rozmów, tylko z surowości czytelnika. Zwykłe posortowanie po punktach ustawiłoby w czołówce ludzi, którzy trafili na łagodnego oceniającego. Kalibracja i rozmowy kalibracyjne z § 8 ust. 12-13 to zmniejszają, ale przy takiej skali nie wystarczą.
 
-Drugi problem: dzika karta przysługuje każdemu członkowi akademii, więc **rośnie liniowo z jej liczebnością**, podczas gdy jury ma stale 3-5 osób. Trzystu czytających to trzysta kart do pięciu ludzi, ponad zgłoszeniami zakwalifikowanymi punktowo. To samo zalewa Archiwum, bo karta kwalifikuje do rundy drugiej, a Archiwum to właśnie runda druga - i każda taka rozmowa wymaga jeszcze drugiego odczytu przed publikacją (§ 11 ust. 11 lit. h).
+Drugi problem, **rozstrzygnięty 1.11.2026**: dzika karta przysługiwała każdemu członkowi akademii i kierowała zgłoszenie wprost do jury ponad limit, więc **rosła liniowo z liczebnością akademii**, podczas gdy jury ma stale 3-5 osób. Dziś jest prawem do niezależnego drugiego odczytu w akademii, a do jury wchodzi wyłącznie pula o wielkości ogłoszonej przed naborem (§ 8 ust. 11). Opis poniżej zachowuję, bo pokazuje, skąd wzięła się zmiana. Trzystu czytających to trzysta kart do pięciu ludzi, ponad zgłoszeniami zakwalifikowanymi punktowo. To samo zalewa Archiwum, bo karta kwalifikuje do rundy drugiej, a Archiwum to właśnie runda druga - i każda taka rozmowa wymaga jeszcze drugiego odczytu przed publikacją (§ 11 ust. 11 lit. h).
 
 ## Proponowana struktura: jeden stopień więcej
 
@@ -53,7 +53,7 @@ To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Dopóki 
 - progu włączenia nowego trybu,
 - czy zespół zbieżności rekrutuje się z akademii odczytu wstępnego, czy powoływany jest odrębnie,
 - jak zapewnić, by skład zespołu zbieżności był stały przez całą rundę (choroba, rezygnacja),
-- czy przy usunięciu dzikiej karty podnieść audyt losowy z 1/10 na więcej, i na ile.
+- czy przy przebudowie dzikiej karty na prawo do drugiego odczytu podnieść audyt losowy z 1/10 na więcej, i na ile.
 
 Powiązane: skalowanie akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](/dokument/koncepcja), sekcja o MEN.
 
@@ -109,7 +109,7 @@ Cena tej konstrukcji: **liczba ocen na zgłoszenie przestaje być równa.** Dłu
 5. **Skutki kontroli.** Zakwestionowana ocena przepada i nie liczy się do niczego; zgłoszenie, które ją straciło, dostaje odczyt uzupełniający. **Konsekwencja spada na ocenę, nie na zgłoszenie oceniającego** - inaczej powstałoby narzędzie do eliminowania konkurenta przez podrzucenie mu złego przydziału.
 
    Od tego jest jeden wyjątek i bez niego cała konstrukcja byłaby do obejścia w dwie minuty: **ocena pozorna, czyli taka, przy której widać, że rozmowy nie przeczytano, oznacza odczyt niewykonany**, a nie tylko ocenę odrzuconą. Inaczej najtańszym sposobem spełnienia warunku rozpatrzenia zgłoszenia byłoby wypełnienie kart zerami albo losowymi liczbami: obowiązek formalnie wykonany, oceny odrzucone, zgłoszenie idzie dalej. Przesłanki muszą być zamknięte i mierzalne - jednakowa punktacja we wszystkich kryteriach przy rozbieżności ze wzorcem, karta niekompletna, rozbieżność z obydwoma wzorcami - bo ocenianie intencji nie jest rzeczą, którą regulamin może robić. Skutkiem jest przydział zastępczy, a dopiero przy powtórzeniu wyłączenie z dalszych rund.
-6. **Wynik rundy.** Mediana znormalizowanych ocen. Awans: górna część rankingu w proporcji ustalonej przed naborem, powiększona o **dzikie karty** i o **losową próbkę kontrolną z odrzuconych**, czytaną przez opłaconą Akademię. Jeżeli próbka pokaże, że runda wycina zbyt wiele dobrych zgłoszeń, jest powtarzana szerzej.
+6. **Wynik rundy.** Mediana znormalizowanych ocen. Awans: górna część rankingu w proporcji ustalonej przed naborem, powiększona o **losową próbkę kontrolną z odrzuconych**, czytaną przez opłaconą Akademię. Jeżeli próbka pokaże, że runda wycina zbyt wiele dobrych zgłoszeń, jest powtarzana szerzej.
 
 ## Rachunek przy milionie zgłoszeń
 
