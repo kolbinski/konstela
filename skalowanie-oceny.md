@@ -69,15 +69,15 @@ Opłacona Akademia ma przepustowość rzędu **425 zgłoszeń** przy dwóch odcz
 
 ## Zasada
 
-**Warunkiem rozpatrzenia zgłoszenia jest przeczytanie i ocenienie do pięciu cudzych rozmów w rundzie - albo tylu, ile obejmuje budżet słów przydziału.** Przydział jest losowy i ślepy, według tej samej jawnej karty oceny. Rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii; **w kolejnych rundach czytają ci, których zgłoszenia przeszły rundę poprzednią**.
+**Warunkiem rozpatrzenia zgłoszenia jest przeczytanie i ocenienie do czterech cudzych rozmów w rundzie - albo tylu, ile obejmuje budżet słów przydziału - obok dwóch zgłoszeń wzorcowych w tym samym przydziale.** Przydział jest losowy i ślepy, według tej samej jawnej karty oceny. Rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii; **w kolejnych rundach czytają ci, których zgłoszenia przeszły rundę poprzednią**.
 
-Konstrukcja bilansuje się sama: w każdej rundzie liczba czytających równa się liczbie zgłoszeń, bo czyta ten, czyje zgłoszenie zostało. Pięć odczytów na uczestnika to w przybliżeniu pięć odczytów na zgłoszenie, bez względu na skalę i bez administrowania.
+Konstrukcja bilansuje się sama: w każdej rundzie liczba czytających równa się liczbie zgłoszeń, bo czyta ten, czyje zgłoszenie zostało. Cztery oceniane zgłoszenia na uczestnika to w przybliżeniu cztery oceny na zgłoszenie, bez względu na skalę i bez administrowania.
 
-## Dlaczego pięć, a nie trzy
+## Dlaczego cztery oceny, a nie dwie
 
-**Przy trzech odczytach zgłoszenie dostaje dwie oceny, nie trzy.** Jedna pozycja w przydziale to zgłoszenie wzorcowe, które służy sprawdzeniu oceniającego, a nie ocenieniu tej rozmowy. Mediana z dwóch liczb to ich średnia - nie ma czego odrzucić, więc jedna ocena odstająca przesuwa wynik o połowę swojego błędu. Przy pięciu odczytach zostają cztery oceny i mediana zaczyna działać jak mediana.
+**Przy trzech odczytach zgłoszenie dostaje dwie oceny, nie trzy.** Część przydziału to zgłoszenia wzorcowe, które służą sprawdzeniu oceniającego, a nie ocenieniu tych rozmów. Mediana z dwóch liczb to ich średnia - nie ma czego odrzucić, więc jedna ocena odstająca przesuwa wynik o połowę swojego błędu. Przy przydziale sześciu rozmów, z których dwie są wzorcowe, zostają cztery oceny i mediana zaczyna działać jak mediana.
 
-Ma to następstwo ważniejsze niż sama precyzja: **im więcej ocen na zgłoszenie, tym ostrzej wolno ciąć pole w jednej rundzie.** Przy dwóch ocenach proporcja awansu rzędu dziesiątej części jest trudna do obrony, bo pojedynczy nietrafiony odczyt decyduje o odpadnięciu; przy czterech ocenach jest obronna. Łagodniejsze cięcie oznacza więcej rund, a więcej rund to więcej odczytów dla tych, którzy dochodzą najdalej - więc trzy odczyty na rundę nie są tańsze dla uczestnika, tylko gorsze dla oceny.
+Ma to następstwo ważniejsze niż sama precyzja: **im więcej ocen na zgłoszenie, tym ostrzej wolno ciąć pole w jednej rundzie.** Przy dwóch ocenach proporcja awansu rzędu dziesiątej części jest trudna do obrony, bo pojedynczy nietrafiony odczyt decyduje o odpadnięciu; przy czterech ocenach jest obronna. Łagodniejsze cięcie oznacza więcej rund, a więcej rund to więcej odczytów dla tych, którzy dochodzą najdalej - więc mniejszy przydział nie jest tańszy dla uczestnika, tylko gorszy dla oceny.
 
 ## Dlaczego przydział liczony w słowach
 
@@ -91,40 +91,42 @@ Regulamin dopuszcza rozmowy od progu z § 5 do dwudziestu pięciu tysięcy słó
 
 Przedział jest dziewięciokrotny. Przy przydziale liczonym w sztukach ten sam obowiązek regulaminowy oznacza dla jednego uczestnika półtorej godziny, a dla drugiego osiem - i to jest zarzut nierównego traktowania, nie drobiazg redakcyjny.
 
-Dlatego **przydział obejmuje pięć rozmów albo ustalony budżet słów, co wyczerpie się pierwsze**, a do budżetu wlicza się także zgłoszenie wzorcowe. Przy budżecie rzędu trzydziestu tysięcy słów uczestnik z typowym losowaniem czyta pięć rozmów w niespełna cztery godziny, a uczestnik, któremu trafią się dwie maksymalne, czyta dwie i kończy po trzech godzinach dwudziestu. **Sufit spada z ośmiu godzin do około czterech** - czyli pięć odczytów z budżetem słów jest w najgorszym przypadku dwa razy tańsze dla uczestnika niż trzy odczyty liczone w sztukach, przy dwukrotnie większej liczbie ocen na zgłoszenie.
+Dlatego **przydział obejmuje sześć rozmów albo ustalony budżet słów, co wyczerpie się pierwsze**, a do budżetu wlicza się całą objętość przydziału, w tym zgłoszenia wzorcowe. Przy budżecie rzędu trzydziestu tysięcy słów uczestnik z typowym losowaniem przeczyta ich pięć albo sześć w niespełna cztery godziny, a uczestnik, któremu trafią się dwie maksymalne, czyta dwie i kończy po trzech godzinach dwudziestu. **Sufit spada z ośmiu godzin do około czterech** - czyli przydział z budżetem słów jest w najgorszym przypadku dwa razy tańszy dla uczestnika niż trzy odczyty liczone w sztukach, przy dwukrotnie większej liczbie ocen na zgłoszenie.
 
 Cena tej konstrukcji: **liczba ocen na zgłoszenie przestaje być równa.** Długie rozmowy zbierają mniej oceniających niż krótkie. Domyka to gwarancja **minimum trzech ocen uczestników na każde zgłoszenie**: brakujące odczyty dobierają się w kolejnych przydziałach, a gdyby i to nie wystarczyło - wykonuje je Akademia. Mediana radzi sobie ze zmienną liczbą ocen, normalizacja również; żadne zgłoszenie nie może odpaść z powodu niedobrania oceniających.
 
 ## Przebieg jednej rundy
 
-1. **Przydział.** Każdy uczestnik rundy dostaje do pięciu zgłoszeń, w tym jedno **zgłoszenie wzorcowe** - z punktacją rozpisaną przez nas z góry, nieoznaczone jako wzorcowe - przy czym przydział zamyka się na ostatniej rozmowie mieszczącej się w budżecie słów. Przydział jest losowy, ślepy (bez podpisu autora), z wykluczeniem własnego zgłoszenia i zgłoszeń osób powiązanych według oświadczenia.
+1. **Przydział.** Każdy uczestnik rundy dostaje do sześciu zgłoszeń, w tym **dwa zgłoszenia wzorcowe** - z punktacją rozpisaną przez nas z góry, nieoznaczone jako wzorcowe - czyli do czterech zgłoszeń podlegających jego ocenie, przy czym przydział zamyka się na ostatniej rozmowie mieszczącej się w budżecie słów. Przydział jest losowy, ślepy (bez podpisu autora), z wykluczeniem własnego zgłoszenia i zgłoszeń osób powiązanych według oświadczenia.
 2. **Ocena.** Ta sama karta co w dalszych etapach: cztery kryteria po 25 punktów, uzasadnienie przy każdym.
 3. **Okno.** Czternaście dni, dwa przypomnienia. Prawo odmowy jednego przydziału bez podawania powodu, z przydziałem zastępczym.
 4. **Kontrola jakości ocen**, trzema niezależnymi narzędziami:
-   - **zgłoszenie wzorcowe** - odchylenie od rozpisanej punktacji powyżej progu oznacza, że oceny tej osoby tracą wagę i trafiają do przeglądu;
-   - **normalizacja** - oceny przeliczane na odchylenie od średniej danego oceniającego, co kasuje systematyczne zaniżanie i zawyżanie; zaniżanie wszystkim przestaje cokolwiek dawać, bo obniża własny punkt odniesienia;
+   - **dwa zgłoszenia wzorcowe** - odchylenie od rozpisanej punktacji powyżej progu oznacza, że oceny tej osoby tracą wagę i trafiają do przeglądu; dwa, bo przy jednym przypadkowa punktacja ma szansę przejść;
+   - **normalizacja** - oceny przeliczane na odchylenie od punktacji ustalonej dla zgłoszeń wzorcowych, co kasuje systematyczne zaniżanie i zawyżanie; przy jednakowej punktacji całego przydziału oceny są pomijane, bo nie ma czym dzielić. Normalizacja względem własnej średniej oceniającego, z czterech liczb, byłaby pozorem precyzji - dlatego punktem odniesienia są zgłoszenia wzorcowe;
    - **sprawdzenie spójności uzasadnienia z rozmową** - modelem, wyłącznie jako sygnał dla człowieka; model nie ocenia rozmowy i niczego nie rozstrzyga.
 5. **Skutki kontroli.** Zakwestionowana ocena przepada i nie liczy się do niczego; zgłoszenie, które ją straciło, dostaje odczyt uzupełniający. **Konsekwencja spada na ocenę, nie na zgłoszenie oceniającego** - inaczej powstałoby narzędzie do eliminowania konkurenta przez podrzucenie mu złego przydziału.
+
+   Od tego jest jeden wyjątek i bez niego cała konstrukcja byłaby do obejścia w dwie minuty: **ocena pozorna, czyli taka, przy której widać, że rozmowy nie przeczytano, oznacza odczyt niewykonany**, a nie tylko ocenę odrzuconą. Inaczej najtańszym sposobem spełnienia warunku rozpatrzenia zgłoszenia byłoby wypełnienie kart zerami albo losowymi liczbami: obowiązek formalnie wykonany, oceny odrzucone, zgłoszenie idzie dalej. Przesłanki muszą być zamknięte i mierzalne - jednakowa punktacja we wszystkich kryteriach przy rozbieżności ze wzorcem, karta niekompletna, rozbieżność z obydwoma wzorcami - bo ocenianie intencji nie jest rzeczą, którą regulamin może robić. Skutkiem jest przydział zastępczy, a dopiero przy powtórzeniu wyłączenie z dalszych rund.
 6. **Wynik rundy.** Mediana znormalizowanych ocen. Awans: górna część rankingu w proporcji ustalonej przed naborem, powiększona o **dzikie karty** i o **losową próbkę kontrolną z odrzuconych**, czytaną przez opłaconą Akademię. Jeżeli próbka pokaże, że runda wycina zbyt wiele dobrych zgłoszeń, jest powtarzana szerzej.
 
 ## Rachunek przy milionie zgłoszeń
 
-| Runda | Zgłoszeń | Odczytów | Awans |
-|---|---:|---:|---:|
-| 1 | 1 000 000 | 5 000 000 | 100 000 |
-| 2 | 100 000 | 500 000 | 10 000 |
-| 3 | 10 000 | 50 000 | 1 000 |
-| 4 | 1 000 | 5 000 | ~400 |
+| Runda | Zgłoszeń | Odczytów | Ocen zgłoszeń | Awans |
+|---|---:|---:|---:|---:|
+| 1 | 1 000 000 | 6 000 000 | 4 000 000 | 100 000 |
+| 2 | 100 000 | 600 000 | 400 000 | 10 000 |
+| 3 | 10 000 | 60 000 | 40 000 | 1 000 |
+| 4 | 1 000 | 6 000 | 4 000 | ~400 |
 
-Razem 5,55 mln odczytów, z czego 90% w pierwszej rundzie. Uczestnik, który dochodzi do końca, czyta dwadzieścia rozmów; uczestnik odpadający w pierwszej rundzie - pięć, a przy długich rozmowach mniej. **Pracy więcej ma ten, komu idzie lepiej.**
+Razem 6,67 mln odczytów, z czego 4,44 mln to oceny zgłoszeń, a reszta zgłoszenia wzorcowe; 90% przypada na pierwszą rundę. Uczestnik, który dochodzi do końca, czyta dwadzieścia cztery rozmowy; uczestnik odpadający w pierwszej rundzie - sześć, a przy długich rozmowach mniej. **Pracy więcej ma ten, komu idzie lepiej.**
 
 Przy pięciu tysiącach zgłoszeń wystarcza jedna runda, przy pięćdziesięciu - dwie.
 
 ## Trzy liczby do regulaminu
 
-- **do pięciu odczytów na rundę, ograniczonych budżetem słów** - pięć daje cztery oceny na zgłoszenie, czyli medianę, z której da się odrzucić ocenę odstającą, a budżet słów wyrównuje obciążenie i obniża jego sufit;
+- **do sześciu odczytów na rundę, z czego dwa wzorcowe, ograniczonych budżetem słów** - cztery oceniane zgłoszenia dają cztery oceny na zgłoszenie, czyli medianę, z której da się odrzucić ocenę odstającą, dwa wzorce domykają kontrolę jakości, a budżet słów wyrównuje obciążenie i obniża jego sufit;
 - **rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii** - reguła, nie stała, więc nie trzeba zmieniać regulaminu, gdy wolumen skoczy;
-- **najwyżej dwadzieścia odczytów i czterokrotność budżetu słów na uczestnika w całej edycji** - przy milionie wystarczają cztery rundy, a po przekroczeniu granicy odczyty przejmuje Akademia.
+- **najwyżej dwadzieścia cztery odczyty i czterokrotność budżetu słów na uczestnika w całej edycji** - przy milionie wystarczają cztery rundy, a po przekroczeniu granicy odczyty przejmuje Akademia.
 
 ## Czego ta konstrukcja nie rusza
 
@@ -137,7 +139,7 @@ Oceny z rund uczestników **nie przyznają żadnej nagrody**. Decydują wyłącz
 - **Terminy.** Runda to około trzech tygodni: czternaście dni okna plus przydział, normalizacja i kontrola. Cztery rundy to trzy miesiące, więc przy bardzo dużym naborze wyniki przesuwają się - regulamin już to przewiduje i jest to kolejny powód tego samego przesunięcia.
 - **Panel.** Przydziały, zbieranie ocen, normalizacja i kontrola przy milionach odczytów to praca oprogramowania, tania w przeliczeniu na zgłoszenie, ale niezerowa.
 - **Weryfikacja formalna musi być automatyczna.** Sześć minut na zgłoszenie daje przy milionie sto tysięcy godzin; człowiek wchodzi wyłącznie do wyjątków.
-- **Sprawdzenie spójności modelem skaluje się liniowo**: pięć i pół miliona sprawdzeń po dwa grosze to ponad 110 000 zł, więc potrzebny jest limit i działanie na próbce plus na sygnałach.
+- **Sprawdzenie spójności modelem skaluje się liniowo**: cztery i pół miliona sprawdzeń po dwa grosze to blisko 90 000 zł, więc potrzebny jest limit i działanie na próbce plus na sygnałach.
 - **Pytanie do kancelarii**: przesłanie cudzej rozmowy do modelu dostawcy to powierzenie przetwarzania i wymaga podstawy w licencji uczestnika.
 
 ## Zostaje do rozstrzygnięcia
