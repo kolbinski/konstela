@@ -606,7 +606,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - pierwsze przejście oceny filmów przez akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
 - oględziny oryginałów i werdykt jury plakatu: początek lutego 2028
 - werdykt jury piosenki: luty 2028
-- **zamknięcie treści antologii i przekazanie do produkcji: 15 maja 2028** - od tego dnia treści nie da się już zmienić
+- **zamknięcie treści antologii i przekazanie do produkcji: 31 maja 2028** - od tego dnia treści nie da się już zmienić
 - produkcja e-booka i audiobooka: od 16 maja do 10 czerwca 2028, a druk nakładu, jeżeli dojdzie do wydania książkowego, po gali w terminie uzgodnionym z wydawcą; okładkę pokazujemy publicznie i zaczynamy sprzedaż dopiero w dniu premiery, ponieważ zwycięski plakat nie może zostać ujawniony przed galą
 - zamknięcie głosowania publiczności we wszystkich trzech plebiscytach artystycznych: w dniu gali, w południe
 - **rozstrzygnięcie, gala i premiera antologii: druga połowa czerwca 2028**
