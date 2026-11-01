@@ -142,7 +142,7 @@ Razem ok. 1 150,2 tys. zł netto przy 937 godzinach pracy organizatora. **Honora
 
 **Ryzyko do zaadresowania w projekcie: odczytanie jako „dla dzieci".** Nagroda jest dla pełnoletnich, rysunek jest metaforą, nie adresem. Trzyma to dorosły głos lektora i poważny tekst. Agencja ma to dostać powiedziane wprost, bo sama estetyka ciągnie w drugą stronę.
 
-**Nierozstrzygnięte: czyje to rysunki.** Prawdziwe prace dzieci wymagają zgód rodziców, a przy szkole zgody na każde dziecko osobno. Alternatywą jest ilustrator rysujący „dziecięcą ręką" - czysto prawnie, ale traci autentyczność, którą ktoś może wyczuć. Przy Uczniowskiej akademii prawdziwe rysunki byłyby natomiast pretekstem dla szkół, żeby się zaangażowały. Pytanie skierowane do kancelarii (sekcja Cv pkt 28 w [prawnik](/dokument/prawnik)).
+**Nierozstrzygnięte: czyje to rysunki.** Prawdziwe prace dzieci wymagają zgód rodziców, a przy szkole zgody na każde dziecko osobno. Alternatywą jest ilustrator rysujący „dziecięcą ręką" - czysto prawnie, ale traci autentyczność, którą ktoś może wyczuć. Przy Uczniowskiej akademii prawdziwe rysunki byłyby natomiast pretekstem dla szkół, żeby się zaangażowały. Pytanie skierowane do kancelarii (sekcja L w [pytaniach wspólnych](/dokument/prawnik)).
 
 ## 13. Reequest jako partner
 

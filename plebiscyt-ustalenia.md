@@ -85,7 +85,7 @@ Powstał na potrzeby noty dla MKiDN i jest **kosztorysem, nie ogłoszeniem** - k
 
 **Głosowanie publiczności: numer telefonu i kod z SMS, jeden głos na numer.** Ten sam mechanizm co przy zgłaszaniu rozmów, więc nie wprowadza nowej kategorii danych ani nowego narzędzia. Rozwiązuje problem, którego wcześniej nie było jak rozwiązać: głosowanie bez identyfikacji, przy jednoczesnym braku kont, ciasteczek i zewnętrznej analityki, zaprasza do nabijania głosów jednym skryptem - wykonawca z zasięgami i znajomym programistą wygrywałby nagrodę publiczności w jedno popołudnie. SMS nie zatrzyma kogoś zdeterminowanego, kto kupi numery wirtualne, ale zatrzymuje nabijanie okazjonalne, a to jest proporcjonalne do stawki.
 
-**Zgłoszenie to link do utworu na YouTube, nie plik.** Rozwiązuje hosting i transfer w całości. Cztery konsekwencje, z których żadna nie jest blokerem, ale trzy wymagają decyzji i wszystkie trafiły do [prawnik-plebiscyt](/dokument/prawnik-plebiscyt) pkt 4:
+**Zgłoszenie to link do utworu na YouTube, nie plik.** Rozwiązuje hosting i transfer w całości. Cztery konsekwencje, z których żadna nie jest blokerem, ale trzy wymagają decyzji i wszystkie trafiły do [pytania o plebiscyt na piosenkę](/dokument/prawnik-piosenki) pkt 4:
 
 1. **Autor może usunąć film albo ustawić go jako prywatny** po terminie zgłoszeń. Dokładnie ten problem, który przy rozmowach rozwiązała kopia archiwalna - tu potrzebny jest odpowiednik.
 2. **Zgłoszenia są publiczne przed werdyktem**, razem z licznikiem odtworzeń. Jury widzi popularność utworu, zanim go oceni. Przy Nagrodzie unikamy tego konsekwentnie i tu warto wiedzieć, że tej szczelności nie ma.
@@ -381,7 +381,7 @@ Powód merytoryczny: szybkość zgłoszenia nie ma nic wspólnego z jakością u
 
 ## Regulamin plebiscytu - decyzje z 25.10.2026
 
-Powstał `regulamin-plebiscytu.md` (28.10.2026 przemianowany na `regulamin-piosenki.md`, bo nazwa sugerowała regulamin ogólny): osobny dokument, nie aneks do regulaminu Nagrody. Dziewiętnaście paragrafów, na końcu lista osiemnastu miejsc wymagających potwierdzenia przez kancelarię, zbudowana tak jak sekcja Ca w pytaniach dla Nagrody.
+Powstał `regulamin-plebiscytu.md` (28.10.2026 przemianowany na `regulamin-piosenki.md`, bo nazwa sugerowała regulamin ogólny): osobny dokument, nie aneks do regulaminu Nagrody. Dziewiętnaście paragrafów, na końcu lista osiemnastu miejsc wymagających potwierdzenia przez kancelarię, zbudowana tak jak wykaz miejsc oznaczonych do sprawdzenia w pytaniach dla Nagrody.
 
 **Rozstrzygnięte przez Organizatora:**
 
@@ -420,9 +420,9 @@ Prośba o wycenę przeglądu projektu regulaminu plebiscytu wraz z odpowiedziami
 
 **Zmieniony przedmiot wyceny.** Wcześniej: odpowiedzi na listę pytań. Teraz: przegląd gotowego dokumentu plus odpowiedzi - tańsze i konkretniejsze niż pisanie regulaminu od zera.
 
-**Wersja wiążąca to ta ze strony, z 25.10.2026.** Bez załączników, dwa linki: /dokument/regulamin-piosenki i /dokument/prawnik-plebiscyt. Każda późniejsza zmiana ma być zgłaszana odrębnie.
+**Wersja wiążąca to ta ze strony, z 25.10.2026.** Bez załączników, dwa linki: /dokument/regulamin-piosenki i /dokument/prawnik-piosenki. Każda późniejsza zmiana ma być zgłaszana odrębnie.
 
-**Punkt 1 listy pytań zostaje na liście mimo dezaktualizacji.** Pyta, czy regulamin plebiscytu ma być osobnym dokumentem, czy aneksem; odpowiedź zapadła na rzecz osobnego dokumentu. Mail to prostuje i wyjaśnia, że punkt zostaje wyłącznie po to, by nie rozsynchronizować numeracji używanej w korespondencji. Dzięki temu nie trzeba przepisywać `prawnik-plebiscyt.md` przed wysyłką.
+**Punkt 1 listy pytań zostaje na liście mimo dezaktualizacji.** Pyta, czy regulamin plebiscytu ma być osobnym dokumentem, czy aneksem; odpowiedź zapadła na rzecz osobnego dokumentu. Mail to prostuje i wyjaśnia, że punkt zostaje wyłącznie po to, by nie rozsynchronizować numeracji używanej w korespondencji. Dzięki temu nie trzeba przepisywać `prawnik-piosenki.md` przed wysyłką.
 
 **Usunięte przed wysłaniem:** akapit o braku presji czasu wraz z propozycją rozmowy. Powód: mówienie kancelarii, że sprawa może poczekać, oddaje pozycję w jej kolejce za darmo, a o termin mail prosi akapit wyżej. Gotowość do rozmowy stoi już na końcu listy pytań.
 

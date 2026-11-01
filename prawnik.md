@@ -2,7 +2,9 @@
 
 Krzysztof Olbiński · olbinski@gmail.com · +48 503 520 004
 
-Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Opisuje konstrukcję, wskazuje siedem obszarów do rozstrzygnięcia oraz listę pojedynczych miejsc wymagających sprawdzenia (część Ca), i cytuje konkretne przepisy regulaminu, których każde pytanie dotyczy. **Nie trzeba czytać całego regulaminu, żeby odpowiedzieć na pytania z części B.** Pełny tekst regulaminu jest dostępny pod adresem konstela.org/dokument/regulamin-rozmowy.
+Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Zawiera pytania **wspólne dla wszystkich czterech plebiscytów** - konstrukcję stosunku prawnego, podatek, formę organizatora, dane osobowe i umowy z oceniającymi - oraz wskazuje, gdzie są pytania dotyczące poszczególnych plebiscytów. Każde pytanie cytuje przepis, którego dotyczy, więc **nie trzeba czytać całego regulaminu, żeby na nie odpowiedzieć**. Pełny tekst regulaminu jest dostępny pod adresem konstela.org/dokument/regulamin-rozmowy.
+
+**Numeracja pytań jest ta sama, którą kancelaria otrzymała 22 października 2026 roku**, także w plikach dotyczących poszczególnych plebiscytów - numery nie są więc ciągłe w obrębie żadnego z nich, ale odesłania w dotychczasowej korespondencji nadal się zgadzają.
 
 ---
 
@@ -12,87 +14,24 @@ Coroczny plebiscyt dla osób, które prowadzą pogłębione rozmowy z modelami s
 
 Konstrukcja prawna przyjęta w dokumencie: **przyrzeczenie publiczne** (art. 919 i nast. k.c.), z wyraźnym wyłączeniem gry losowej, zryczałtowanym podatkiem 10% od nagród i organizatorem jako płatnikiem.
 
-## B. Siedem obszarów do rozstrzygnięcia
+## Gdzie są pozostałe pytania
 
-Obszary 1, 2, 6 i 7 **blokują otwarcie naboru**. Obszary 3, 4 i 5 są potrzebne przed publikacją antologii, czyli mają czas do początku 2028 - z zastrzeżeniem, że pytania 23 oraz 29-33 dotyczą treści zobowiązania zaciąganego już przy zgłoszeniu, więc ich rozstrzygnięcie jest potrzebne przed naborem.
+Pytania dotyczące poszczególnych plebiscytów są w czterech osobnych plikach, bo każdy plebiscyt ma własny regulamin, własny harmonogram i własne źródło finansowania. Proszę o wycenę każdego z nich jako odrębnej pozycji.
 
----
+| Plik | Co obejmuje | Co blokuje |
+| --- | --- | --- |
+| [plebiscyt na rozmowę i antologia](/dokument/prawnik-rozmowy) | podstawy przetwarzania i klauzula informacyjna, wycofanie zgody po publikacji, status wypowiedzi modelu, licencja i wydanie płatne, kopia archiwalna, czytelnia i jawna punktacja, rundy uczestników, mecenat antologii | otwarcie naboru i ostateczne brzmienie polityki prywatności |
+| [plebiscyt na piosenkę](/dokument/prawnik-piosenki) | utwory muzyczne i artystyczne wykonania, nagrania studyjne finalistów, głosowanie publiczności i loteria promocyjna, umowa z wykonawcą piosenki Nagrody | ogłoszenie nagrody w postaci nagrania studyjnego |
+| [plebiscyt na plakat](/dokument/prawnik-plakatu) | aukcje prac uczestników prowadzone przez fundację, okładka antologii | kształt § 14 regulaminu plakatu |
+| [plebiscyt na film](/dokument/prawnik-filmu) | muzyka w kopii archiwalnej, pola eksploatacji przy projekcji publicznej, następcy prawni uczestnika | otwarcie naboru w plebiscycie na film |
 
-### Obszar 1 (pilny): klauzula informacyjna i podstawy przetwarzania
+Klauzula informacyjna, model podatkowy, forma organizatora i wzory umów z oceniającymi powstają raz i obowiązują we wszystkich czterech - dlatego są w tym pliku, a nie w czterech kopiach.
 
-**Stan:** § 12 regulaminu opisuje administratora, cel, zakres danych, terminy usuwania i prawa uczestnika, ale **pełnej klauzuli informacyjnej nie ma**, a polityka prywatności na stronie jest wersją roboczą napisaną przeze mnie.
+## B. Obszary wspólne dla wszystkich czterech plebiscytów
 
-**Zmiana konstrukcji z 20.10.2026.** Początkowo publikacja opierała się na zgodzie, a włączenie rozmowy do Archiwum było zgodą opcjonalną. Zrezygnowałem z tego: **publikacja jest warunkiem udziału**, a Uczestnik przy zgłoszeniu udziela nieodpłatnej, niewyłącznej **licencji na czas oznaczony pięciu lat** (§ 11 ust. 3), obejmującej antologię, Archiwum, wydanie elektroniczne i drukowane oraz sublicencję dla wydawcy. Podstawą przetwarzania w § 12 ust. 2 jest wykonanie stosunku prawnego powstałego ze zgłoszenia, a nie zgoda. Powód: zgoda wymuszona warunkiem udziału nie jest dobrowolna w rozumieniu art. 7 ust. 4 RODO, a plebiscyt potrzebuje podstawy, której uczestnik nie może jednostronnie cofnąć po publikacji. Wycofanie zgłoszenia z plebiscytu jest możliwe wyłącznie **do czternastu dni przed dniem zamknięcia treści antologii, to jest do 17 maja 2028 r.** (§ 11 ust. 6). Termin przestał być liczony wstecz od ogłoszenia wyników, bo przy gali w drugiej połowie kwietnia wypadałby po wydrukowaniu nakładu.
+Oba obszary poniżej **blokują otwarcie naboru** we wszystkich plebiscytach naraz, bo dotyczą konstrukcji stosunku prawnego i podmiotu, który go zaciąga.
 
-**Zmiana zakresu z 26.10.2026, istotna dla wyceny.** Archiwum opiera się teraz na **kopii rozmowy sporządzanej przez Organizatora**, a nie wyłącznie na linku. Oznacza to, że pytanie o status prawny wypowiedzi modelu oraz o warunki korzystania ustalone przez dostawców dotyczy **wszystkich zgłoszeń danej edycji publikowanych na naszej stronie**, a nie tylko dziesięciu rozmów w antologii. Liczby zgłoszeń nie znam i nie zakładam: przy pierwszej edycji może to być kilkadziesiąt, a przy powodzeniu kampanii dziesiątki tysięcy, dlatego proszę o ocenę, która nie zależy od skali, oraz o wskazanie, czy przy pewnej skali ryzyko zmienia charakter. Regulamin przewiduje w § 11 ust. 11 lit. h wariant awaryjny: jeżeli odpowiedź wypadnie niekorzystnie, Archiwum ogranicza się do tytułu, podpisu, opisu odkrycia, linku i ocen, bez kopii. Proszę o ocenę, który wariant jest dopuszczalny, a jeżeli ten z kopią - jakich zapisów wymaga.
-
-**Pytanie do rozstrzygnięcia: od kiedy biegnie licencja, jeżeli druk następuje przed ogłoszeniem wyników.** § 11 ust. 3 określa licencję na pięć lat **od dnia ogłoszenia wyników**, a produkcja e-booka i audiobooka przypada na okres od 16 maja do 10 czerwca 2028, czyli przed tym dniem. Po przeliczeniu kalendarza 1.11.2026 druk nakładu, jeżeli dojdzie do wydania książkowego, następuje już **po** gali, więc pytanie dotyczy dziś wydania bezpłatnego, a przy wydaniu drukowanym pozostaje aktualne tylko wtedy, gdy wydawca zażąda druku przed premierą. Potrzebuję oceny, czy uprawnienie do przygotowania, wykonania i dostarczenia nakładu przed ogłoszeniem wyników powinno być w licencji wskazane wyraźnie, oraz jak to zapisać, żeby nie przesuwać początku pięcioletniego okresu. Sprzedaż i publiczna prezentacja okładki rozpoczynają się dopiero w dniu premiery, bo okładka niesie zwycięski plakat, a regulamin plebiscytu na plakat zakazuje jej udostępnienia przed galą.
-
-Przetwarzanie ma kilka warstw, które chciałbym poprawnie rozdzielić co do podstawy:
-
-| Warstwa            | Co obejmuje                                                                            |
-| ------------------ | -------------------------------------------------------------------------------------- |
-| Udział w plebiscycie | imię i nazwisko, miejscowość, adres e-mail                              |
-| Treść rozmowy      | kopia archiwalna sporządzana przez organizatora, czytana przez jurorów                 |
-| Wypłata i podatek  | dane do przelewu i rozliczenia, przechowywane przez okres podatkowy                    |
-| Publikacja         | antologia i Archiwum rozmów, jako warunek udziału, na podstawie licencji z § 11 ust. 3 |
-| Dane osób trzecich | wzmiankowane w rozmowie mimo zakazu zgłaszania rozmów o osobach prywatnych             |
-
-**Pytania:**
-
-1. Czy wskazana w § 12 ust. 2 podstawa, to jest wykonanie stosunku prawnego powstałego ze zgłoszenia, jest prawidłowa dla wszystkich pięciu warstw, czy któraś z nich wymaga jednak zgody albo prawnie uzasadnionego interesu; jakie są konsekwencje dla prawa do usunięcia danych.
-2. Jak sformułować klauzulę informacyjną przy konstrukcji, w której publikacja jest warunkiem udziału, a nie odrębną zgodą; co dokładnie trzeba powiedzieć uczestnikowi w chwili zgłoszenia, żeby ta konstrukcja była skuteczna, w tym wobec konsumenta.
-3. Czy treść rozmowy wymaga odrębnej podstawy od danych rejestracyjnych i czy przy kopii archiwalnej potrzebne jest coś więcej niż informacja o jej sporządzeniu.
-4. Czy przyjęte terminy retencji są prawidłowe: 60 dni od ogłoszenia wyników dla nienagrodzonych, okres podatkowy dla laureatów, do 24 miesięcy dla materiału zakwalifikowanego do Archiwum, lecz jeszcze nieopublikowanego.
-5. Czy potrzebna jest umowa powierzenia wobec osób oceniających, które czytają rozmowy w panelu, czy wystarczy upoważnienie do przetwarzania.
-5a. **Weryfikacja zgłoszenia kodem SMS (decyzja z 21.10.2026).** Regulamin wprowadza zasadę jednego zgłoszenia na osobę, egzekwowaną numerem telefonu: po wysłaniu kodu numer nie jest przechowywany w postaci jawnej, lecz zastępowany skrótem z kluczem tajnym trzymanym odrębnie od bazy, służącym wyłącznie do stwierdzenia, czy z tego numeru już zgłaszano. Powód wprowadzenia: przy puli docelowo 300 tys. zł nabór bez takiego zabezpieczenia może zostać zalany zgłoszeniami składanymi masowo z wielu adresów poczty elektronicznej. Przyjęliśmy, że **skrót pozostaje daną osobową** (motyw 26 RODO) i opisaliśmy go tak w polityce prywatności, nie nazywając anonimizacją. Pytania: czy prawnie uzasadniony interes (art. 6 ust. 1 lit. f) jest tu właściwą podstawą, czy raczej wykonanie stosunku ze zgłoszenia; czy wymóg podania numeru nie narusza zasady minimalizacji przy tym celu i czy wystarczającą przeciwwagą jest tryb zastępczy dla osób bez telefonu; czy termin usunięcia skrótu z chwilą zamknięcia edycji jest prawidłowy; czy dostawca bramki SMS wymaga umowy powierzenia i czy jego wybór trzeba ograniczyć do EOG.
-   5a. Zgłoszenia przyjmowane będą przez **zewnętrzny formularz (Google Forms)**, a kopie archiwalne przechowywane w prywatnym magazynie. Jakie to rodzi obowiązki: umowa powierzenia, informacja o odbiorcach danych, przekazanie poza EOG, i czy przy tej skali rozsądniej zbudować formularz własny na stronie Nagrody.
-
-**Oczekiwany produkt:** gotowa klauzula informacyjna do § 12 i do polityki prywatności oraz wskazanie podstaw przetwarzania dla każdej warstwy.
-
----
-
-### Obszar 2 (pilny): wycofanie zgody po publikacji a skuteczna anonimizacja
-
-**To jest najpoważniejsza wątpliwość w całym dokumencie** i jedyna, którą zewnętrzny recenzent ocenił jako wykluczającą otwarcie naboru w obecnym brzmieniu.
-
-**Stan.** Po publikacji rozmowa pozostaje opublikowana na podstawie licencji z § 11 ust. 3, a żądanie usunięcia danych złożone po publikacji jest rozpatrywane indywidualnie (§ 11 ust. 9), z możliwością usunięcia podpisu i wskazanych fragmentów identyfikujących. Jako przesłankę pozostawienia treści wskazuje licencję udzieloną przez uczestnika oraz art. 17 ust. 3 lit. a RODO, wyłączający prawo do usunięcia w zakresie niezbędnym do korzystania z wolności wypowiedzi i informacji.
-
-**Problem.** Rozmowa może identyfikować autora niezależnie od podpisu: przez zawód, nazwę projektu, opisaną sytuację, miejsce. Usunięcie podpisu nie czyni wtedy danych anonimowymi, a dane pozwalające na ponowną identyfikację pozostają danymi osobowymi. Obietnica, że rozmowa zawsze pozostanie opublikowana, może więc być obietnicą niedotrzymywalną.
-
-**Co już zrobiłem.** Oparłem trwałość publikacji na prawie autorskim, a nie wyłącznie na ochronie danych: licencja na czas oznaczony nie podlega wypowiedzeniu. Niezależnie od tego: § 11 ust. 9 przewiduje usunięcie podpisu oraz wskazanych przez uczestnika fragmentów identyfikujących i mówi wprost, że organizator nie zapewnia z góry, iż rozmowa pozostanie opublikowana w każdym przypadku, a żądanie usunięcia rozpatrywane jest indywidualnie. To wciąż przerzuca część niepewności na uczestnika i dlatego potrzebuję rozstrzygnięcia.
-
-**Pytania:**
-
-6. Czy art. 17 ust. 3 lit. a RODO może stanowić podstawę odmowy usunięcia w tej konfiguracji, a jeśli tak, to pod jakimi warunkami i jak je udokumentować w momencie publikacji, a nie dopiero przy żądaniu.
-7. Czy antologia publikowana nieodpłatnie przez osobę fizyczną prowadzącą działalność gospodarczą korzysta z wyłączenia dla celów dziennikarskich, artystycznych lub literackich, i czy zmieniłoby to sytuację wydanie jej przez wydawcę albo fundację.
-8. Jak sformułować wobec uczestnika obietnicę, która będzie jednocześnie uczciwa i dotrzymywalna: co dokładnie mogę zagwarantować w chwili, gdy przyjmuję zgłoszenie i licencję.
-9. Czy przyjęta konstrukcja **licencji na czas oznaczony pięciu lat**, niepodlegającej wypowiedzeniu, jest wobec osoby fizycznej dopuszczalna i skuteczna, czy nie wchodzi w kolizję z RODO i czy pięć lat jest właściwym okresem.
-   9a. Czy ograniczenie wycofania zgłoszenia do czternastu dni przed dniem zamknięcia treści antologii (17 maja 2028 r.) jest skuteczne wobec konsumenta i czy nie stanowi klauzuli niedozwolonej. Przy ocenie istotne jest, że termin nie jest liczony od ogłoszenia wyników, lecz od przekazania książki do produkcji, oraz że regulamin przewiduje przesunięcie tego dnia razem z przesunięciem oceny (§ 4).
-10. Co z egzemplarzami drukowanymi wprowadzonymi do obrotu i z kopiami rozpowszechnionymi przez osoby trzecie, których organizator nie kontroluje.
-
-**Oczekiwany produkt:** brzmienie § 11 ust. 3 oraz ust. 6-9, zgodne z tym, co faktycznie da się dotrzymać.
-
----
-
-### Obszar 3: status prawny wypowiedzi modelu
-
-**Stan.** Przyjmuję, że wypowiedzi modelu nie są utworem w rozumieniu prawa autorskiego, ponieważ utworem jest przejaw działalności twórczej człowieka. W antologii jako autor rozmowy figuruje wyłącznie uczestnik, a model wymieniany jest w metryczce jako użyte narzędzie, nigdy jako współautor. Uczestnik udziela licencji do swoich wypowiedzi oraz do rozmowy jako całości w zakresie doboru i układu, a także oświadcza, że publiczne udostępnienie rozmowy jest zgodne z regulaminem dostawcy modelu.
-
-Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-AI i Nagrody Akutagawy 2024, jest w osobnym załączniku [prawa do wypowiedzi modelu](/dokument/prawa-do-wypowiedzi-modelu).
-
-**Pytania:**
-
-11. Czy opisana konstrukcja licencji jest wystarczająca, czy potrzebne jest odrębne oświadczenie co do wypowiedzi modelu.
-12. Czy dobór i układ rozmowy może być chroniony jako całość, skoro część wypowiedzi nie jest utworem.
-13. Jak traktować sytuację, w której wkład uczestnika w konkretną wypowiedź modelu był na tyle duży, że mógłby czynić ją utworem.
-14. Czy w wydaniu drukowanym potrzebny jest szerszy zakres licencji niż w publikacji internetowej.
-15. Czy wystarczy oświadczenie uczestnika o zgodności z regulaminem dostawcy modelu, czy organizator powinien to weryfikować samodzielnie; jeżeli weryfikować, to w jakim zakresie przy kilkudziesięciu dostawcach.
-16. Jak postąpić z cytatami z cudzych utworów przytoczonymi przez model wewnątrz rozmowy: czy publikacja mieści się w prawie cytatu.
-
----
-
-### Obszar 4: przyrzeczenie publiczne, podatek, odpowiedzialność
+### Przyrzeczenie publiczne, podatek, odpowiedzialność
 
 **Stan.** Pula nagród ogłaszana jest w dniu otwarcia zgłoszeń i od tej chwili wiąże; może być wyłącznie podwyższana. Edycja nie zostaje rozstrzygnięta, jeżeli wpłynie mniej niż 12 zgłoszeń spełniających wymogi formalne albo jeżeli jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów. Fundatorem nagród jest podmiot zewnętrzny wskazany w ogłoszeniu.
 
@@ -103,35 +42,11 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 19. Czy uczestnik spoza Polski rodzi inne obowiązki podatkowe i czy regulamin powinien ograniczyć krąg uczestników.
 20. Czy możliwość nierozstrzygnięcia edycji jest skuteczna wobec osób, które już się zgłosiły, skoro przyrzeczenie publiczne wiąże od ogłoszenia.
 21. Jaka jest odpowiedzialność organizatora za treść rozmowy opublikowanej w antologii, jeżeli mimo procedur zawiera ona treść naruszającą czyjeś dobra osobiste; czy sensowne jest ubezpieczenie i jakiego rodzaju.
-22. Organizatorem będzie fundacja (decyzja z 20.10.2026, obszar 6). Czy zmienia to którąkolwiek z powyższych odpowiedzi, w szczególności co do płatnika podatku i odpowiedzialności za treść antologii.
+22. Organizatorem będzie fundacja (decyzja z 20.10.2026, opisana niżej w tej samej części). Czy zmienia to którąkolwiek z powyższych odpowiedzi, w szczególności co do płatnika podatku i odpowiedzialności za treść antologii.
 
 ---
 
-### Obszar 5: wydanie płatne i zakres licencji
-
-**Stan.** Antologia ukazuje się nieodpłatnie w postaci elektronicznej (§ 9 ust. 1). Planowane jest również wydanie płatne, w pierwszej kolejności w druku na żądanie, docelowo u wydawcy. § 11 ust. 3 obejmuje już wprost wydanie drukowane, w tym płatne, oraz udzielenie dalszej licencji wydawcy - pytania niżej dotyczą tego, czy to brzmienie jest skuteczne. Decyzją organizatora (19.10.2026), wpisaną do § 13 ust. 4, **cały przychód ze sprzedaży, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji**; organizator nie osiąga z tego zysku.
-
-**Pytania:**
-
-23. Czy objęcie wydania **płatnego** jedną nieodpłatną licencją udzielaną przy zgłoszeniu jest skuteczne wobec konsumenta, czy wymaga odrębnego zastrzeżenia albo osobnego dokumentu.
-24. Czy zapis o **udzieleniu dalszej licencji wydawcy** (sublicencji) w § 11 ust. 3 wystarczy, czy przy umowie z wydawcą konieczne będą odrębne umowy z każdym z dziesięciu uczestników.
-25. Czy przeznaczenie przychodu na pulę kolejnej edycji wymaga szczególnej konstrukcji księgowej albo prawnej po stronie fundacji.
-25a. **Pobieranie pojedynczych rozmow z Archiwum (dodane 27.10.2026).** Strona plebiscytu zapowiada, że zgłoszone rozmowy będzie można czytać w wygodnym formacie - na stronie, jako e-book albo plik do wydruku. Licencja z § 11 ust. 3 obejmuje prezentację w czytelni, w Archiwum i publikację w antologii, lecz nie wymienia udostępniania pojedynczych zgłoszeń do pobrania w postaci plików. Pytania: czy obecny zakres licencji to obejmuje; jeżeli nie, jak sformułować rozszerzenie, aby nie wymagało odrębnej zgody każdego uczestnika; czy udostępnienie pliku do pobrania zmienia ocenę pytania 39 o kopię archiwalną.
-26. Czy brak podziału tantiem między autorów jest dopuszczalny przy nieodpłatnej licencji, skoro wydanie jest płatne, i co trzeba powiedzieć uczestnikowi przy zgłoszeniu, żeby było to uczciwe i skuteczne.
-27. Jakie obowiązki wiążą się z wydaniem książkowym po stronie organizatora: ISBN, egzemplarz obowiązkowy, odpowiedzialność wydawcy za treść.
-
-**Trwałość publikacji po upływie pięciu lat.** Termin pięciu lat przyjąłem dlatego, że licencję udzieloną na okres dłuższy uważa się po upływie tego okresu za udzieloną na czas nieoznaczony, a taka podlega wypowiedzeniu (art. 68 pr. aut.). Oznacza to jednak, że po pięciu latach dalsze udostępnianie antologii i Archiwum wymaga odnowienia zgody. Przy antologii to dziesięć osób rocznie, z którymi organizator miał kontakt osobisty; przy Archiwum - kilkadziesiąt osób rocznie, a po pięciu latach kilkaset, w większości nieosiągalnych. Tymczasem wobec Ministerstwa i wobec partnerów projekt jest opisywany jako dokument epoki, a antologia jako pozostająca w sieci bezterminowo.
-
-28. Czy da się skutecznie zapewnić trwałość publikacji dłuższą niż pięć lat, nie narażając się na wypowiedzenie licencji - a jeżeli tak, to jaką konstrukcją.
-29. **Licencje Creative Commons dla warstwy publicznej.** Rozważane jest udostępnianie antologii i Archiwum na licencji CC BY-NC-ND 4.0, obok licencji udzielanej organizatorowi przez uczestnika. Czy deklarowana w CC 4.0 nieodwołalność i udzielenie na czas trwania praw autorskich są skuteczne na gruncie prawa polskiego wobec art. 68 pr. aut., czy też po pięciu latach licencja i tak staje się wypowiadalna.
-30. Czy człon NC (zakaz wykorzystania komercyjnego) w licencji publicznej daje się pogodzić z płatnym wydaniem książkowym prowadzonym przez samego organizatora - i czy rozwiązaniem jest podwójne licencjonowanie: CC BY-NC-ND dla ogółu oraz odrębna licencja dla organizatora na wydanie płatne.
-31. Czy człon ND (zakaz opracowań) blokuje tłumaczenie rozmów na potrzeby planowanej edycji międzynarodowej, i czy warto zamiast niego zastrzec coś węższego.
-32. Czy alternatywą wartą rozważenia jest **przeniesienie autorskich praw majątkowych** do zgłoszonej rozmowy zamiast licencji - przy świadomości, że wymaga ono formy pisemnej pod rygorem nieważności, co przy zgłoszeniu przez formularz oznacza osobny obieg dokumentów. Czy przy dziesiątce finalistów jest to wykonalne, a przy Archiwum nie, czy raczej odradza Pan tę drogę w całości.
-33. Czy do zgłoszenia warto dodać odrębną zgodę na kontakt w sprawie przedłużenia licencji po upływie okresu, i jak ją sformułować, żeby była skuteczna i nie naruszała zasady dobrowolności.
-
----
-
-### Obszar 6 (pilny): forma prawna organizatora i zabezpieczenie puli
+### Forma prawna organizatora i zabezpieczenie puli
 
 **Stan.** Decyzja z 20.10.2026: organizatorem pierwszej edycji będzie **fundacja**, powołana przeze mnie ze środków własnych i wpisana do KRS przed otwarciem naboru, czyli przed 1 stycznia 2027. Jednoosobowa działalność gospodarcza, którą prowadzę, nie jest organizatorem i nie przyjmuje środków sponsorskich. Powody: przyrzeczenie publiczne na docelowo 300 tys. zł obciążałoby przy JDG mój majątek osobisty; regulamin, polityka prywatności i umowa sponsorska mają wskazywać jeden podmiot od pierwszego dnia naboru; budżet sponsora łatwiej trafia do fundacji.
 
@@ -145,145 +60,13 @@ Szczegółowy przegląd doktryny i precedensów publikacyjnych, w tym Pharmako-A
 37. Czy wskazanie Ministra Cyfryzacji jako organu nadzoru w statucie jest przy tych celach właściwe i czy rodzi jakiekolwiek obowiązki sprawozdawcze wykraczające poza standardowe.
 38. Czy fundacja, której fundatorem, a prawdopodobnie też jedynym członkiem zarządu, jestem ja, rodzi problem przy wypłacie wynagrodzenia za prowadzenie plebiscytu - a jeśli tak, jaka konstrukcja organów to rozwiązuje.
 
----
-
-### Obszar 7 (pilny): sporządzanie kopii archiwalnej a regulaminy dostawców modeli
-
-**Stan.** Regulamin zakłada w § 5, że organizator sporządza **kopię archiwalną** zgłoszonej rozmowy, i opiera na niej ocenę w razie zniknięcia linku (§ 5 ust. 6). Kopia ma powstawać automatycznie, skryptem otwierającym stronę udostępnionej rozmowy. 21 października 2026 sprawdziłem to na rzeczywistych linkach u trzech dostawców i wynik jest następujący:
-
-- **Gemini** - kopia powstaje bez przeszkód ze strony publicznej.
-- **ChatGPT** - strona nie wyświetla rozmowy automatowi, ale jej treść jest zawarta w danych samej strony i daje się z nich odczytać.
-- **Claude** - dostęp zatrzymuje zabezpieczenie antybotowe Cloudflare (zarządzane wyzwanie Turnstile). Automatyczne pobranie nie jest możliwe bez obejścia tego zabezpieczenia.
-
-Rozmowy zgłasza uczestnik, który ma prawo je udostępnić, a odbiorcą kopii jest wyłącznie organizator i oceniający. Nie zmienia to jednak faktu, że sporządzanie kopii odbywa się wbrew mechanizmowi, który dostawca postawił właśnie po to, by ruch automatyczny zatrzymać, a regulaminy dostawców zwykle zakazują zarówno automatycznego pobierania treści, jak i omijania zabezpieczeń technicznych. Skala docelowa to od kilkuset do kilku tysięcy pobrań rocznie, prowadzonych przez fundację publicznie opisującą tę procedurę we własnym regulaminie.
-
-Rozważane warianty: (a) rezygnacja z automatycznego pobierania u dostawców, którzy je blokują, i żądanie od uczestnika **własnego pliku z rozmową** obok linku; (b) pobieranie ręczne przez koordynatora; (c) wystąpienie do dostawcy o zgodę; (d) **wtyczka do przeglądarki organizatora** - opis niżej.
-
-**Wariant (d): wtyczka do przeglądarki organizatora.** Zamiast skryptu otwierającego stronę samodzielnie, rozszerzenie działające w zwykłej przeglądarce organizatora, w której **człowiek sam otwiera stronę i sam przechodzi weryfikację Cloudflare**; wtyczka odczytuje dopiero stronę już wyświetloną. Technicznie usuwa to element omijania zabezpieczenia - wyzwanie rozwiązuje człowiek, a nie program - pozostawiając wyłącznie kwestię automatycznego kopiowania treści wbrew regulaminowi dostawcy. Z tą różnicą wiąże się pytanie 39a. Uwaga techniczna: aplikacje dostawców usuwają z dokumentu wypowiedzi wyprzewijane poza ekran (wirtualizacja listy), więc wtyczka musiałaby gromadzić treść w trakcie przewijania albo odczytywać dane pobierane przez aplikację z serwera dostawcy - ta druga droga jest pewniejsza, ale dalej idąca, i też wymaga oceny.
-
-**Ograniczenie wariantu (a), ustalone 21.10.2026.** Dostawcy w większości **nie oferują eksportu pojedynczej rozmowy** - eksport obejmuje całe konto użytkownika. Przyjmowanie takiego pliku oznaczałoby wejście w posiadanie kilkuset prywatnych rozmów uczestnika, do których organizator nie ma żadnej podstawy przetwarzania, wbrew zasadzie minimalizacji (art. 5 ust. 1 lit. c RODO). Wariant (a) został więc zawężony do **wydruku pojedynczej rozmowy do PDF** z poziomu przeglądarki uczestnika, który jest dostępny u każdego dostawcy i obejmuje wyłącznie zgłoszoną rozmowę. PDF nie niesie jednak struktury rozmowy (ról, liczby tur), więc nie zastąpi kopii pobranej przez organizatora przy weryfikacji formalnej - może pełnić wyłącznie funkcję zabezpieczenia na wypadek zniknięcia linku (§ 5 ust. 6).
-
-**Pytania:**
-
-39. Czy automatyczne sporządzanie kopii archiwalnej ze strony udostępnionej rozmowy - przy zgodzie uczestnika, lecz bez zgody dostawcy modelu - jest dopuszczalne, i czy odpowiedź zmienia się, gdy wymaga ono ominięcia zabezpieczenia antybotowego. Jakie jest ryzyko z art. 267 i nast. k.k. oraz z tytułu naruszenia regulaminu dostawcy, i kto je ponosi: fundacja, zarząd, czy osoba uruchamiająca narzędzie.
-39a. Czy wariant (d) zmienia ocenę prawną: strona jest otwierana przez człowieka, który samodzielnie przechodzi weryfikację antybotową, a program odczytuje wyłącznie stronę już wyświetloną w jego przeglądarce. Czy odpowiedź jest inna dla odczytu samego dokumentu, a inna dla odczytu danych, które aplikacja dostawcy pobiera z jego serwera.
-40. Czy zgoda uczestnika na sporządzenie kopii jego rozmowy sanuje cokolwiek wobec dostawcy, który nie jest stroną tej zgody.
-41. Czy wariant (a) w zawężonej postaci - uczestnik załącza **wydruk pojedynczej rozmowy do PDF** - jest dopuszczalny i czy organizator, prosząc o taki plik, nie nakłania uczestnika do naruszenia regulaminu dostawcy. Co organizator powinien w tej sprawie oświadczyć w regulaminie.
-41a. Czy regulamin i formularz powinny **wprost zakazywać** przesyłania eksportu całego konta u dostawcy, skoro jego przyjęcie oznaczałoby przetwarzanie danych bez podstawy; czy wystarczy zakaz i odrzucanie takich plików, czy potrzebne są dodatkowe zabezpieczenia proceduralne na wypadek, gdy uczestnik prześle taki plik mimo zakazu.
-42. Jak powinien brzmieć § 5 w części o kopii archiwalnej, jeżeli dla części dostawców kopia będzie powstawać automatycznie, a dla części wyłącznie z pliku dostarczonego przez uczestnika. W szczególności: czy można uzależnić sposób zgłoszenia od tego, z którego modelu uczestnik korzystał, nie naruszając równego traktowania uczestników.
-
----
-
 ## C. Co jest już rozstrzygnięte i czego nie trzeba analizować
 
 Żeby nie płacić za pracę, która została wykonana: regulamin przeszedł dwie niezależne recenzje proceduralne i jest spójny wewnętrznie, z przeliczoną numeracją i sprawdzonymi odesłaniami. Rozstrzygnięte zostały: tryb oceny i jego progi, procedura dyskwalifikacji za inscenizację, rozdzielenie oceny od publikacji, podstawy odrzucenia treści trudnych wraz z trybem postępowania przy kryzysie psychicznym, warunek rzetelności, zakres Archiwum i tryb wycofania udziału. Te części proszę traktować jako zamknięte, chyba że naruszają prawo.
 
-## Ca. Miejsca oznaczone do sprawdzenia
+## D. Konstrukcja stosunku prawnego i podatek
 
-Poza obszarami opisanymi wyżej są w dokumentach pojedyncze miejsca, co do których sam nie mam pewności. Nie składają się na osobny obszar i część z nich dotyczy księgowego, nie prawnika - wypisuję je, żeby nie przepadły i żeby nie trzeba było czytać dokumentów pod kątem „co autor chciał zaznaczyć".
-
-**W regulaminie:**
-
-1. **§ 1 ust. 3** - wyłączenie gry losowej. Czy sformułowanie „wynik zależy wyłącznie od oceny merytorycznej jury, a udział jest bezpłatny" wystarczy, żeby nie była to gra hazardowa w rozumieniu ustawy z 19 listopada 2009 r.
-2. **§ 1 ust. 4** - wariant rozliczenia puli: wypłata przez Organizatora czy bezpośrednio przez fundatora. *Do ustalenia z księgowym.*
-3. **§ 3 ust. 4** - rozliczenie podatkowe laureatów niebędących polskimi rezydentami podatkowymi. *Księgowy odpowiedział 22.10.2026: zależy od umowy o unikaniu podwójnego opodatkowania z państwem rezydencji laureata, w większości wypadków zasady zbliżone do krajowych, ale dochodzą dokumenty i obowiązki sprawozdawcze. Pozostaje do zaprojektowania procedura: certyfikat rezydencji, IFT-1R.*
-4. **§ 3 ust. 5b** - oświadczenia członków akademii i jury: czy odesłanie do ust. 5 i 5a jest właściwe i wystarczające.
-5. **§ 6 ust. 1** - progi formalne (800 słów, 12 wypowiedzi). Kalibracja na próbie oceny przed naborem; pytanie do prawnika wyłącznie takie, czy próg ogłoszony przed naborem może zostać później zmieniony i na jakich warunkach.
-6. **§ 8 ust. 11 lit. g** - próg rozbieżności ocen, do ustalenia po próbie kalibracyjnej.
-7. **§ 9 ust. 6** - czy pula zostaje ubruttowiona, tak aby laureat otrzymał pełną ogłoszoną kwotę. *Księgowy odpowiedział 22.10.2026: decyduje brzmienie ogłoszenia. Kwota opisana jako wypłacana laureatowi wymaga ubruttowienia; sama "kwota nagrody" jest kwotą brutto i laureat otrzymuje ją pomniejszoną o podatek. Decyzja Organizatora do podjęcia przed ogłoszeniem puli.*
-8. **§ 10 ust. 1** - próg nierozstrzygnięcia edycji (12 zgłoszeń). Liczba do potwierdzenia po pierwszym tygodniu naboru; pytanie prawne jak w punkcie 5.
-9. **§ 11 ust. 12** - status prawny wypowiedzi modelu oraz to, czy regulaminy dostawców dopuszczają publikację udostępnionych rozmów. **Pokrywa się z obszarem 3 i z obszarem 7** - tam jest rozwinięte.
-10. **§ 13 ust. 2** - zmiana regulaminu wyłącznie przed upływem terminu zgłoszeń i wyłącznie na korzyść Uczestników, którzy już się zgłosili. Czy ta konstrukcja jest skuteczna przy przyrzeczeniu publicznym.
-
-**W polityce prywatności:**
-
-11. **Pkt 4, „Jak długo"** - *Rozstrzygnięte 22.10.2026 przez księgowego: co najmniej 5 lat, licząc od początku roku następującego po roku obrotowym, w którym zatwierdzono sprawozdanie finansowe. Wpisane do polityki prywatności.*
-12. **Pkt 5** - dane osób trzecich w treści rozmowy: czy przerzucenie odpowiedzialności na Uczestnika wraz z odrzuceniem zgłoszenia na etapie formalnym jest wystarczające. **Wiąże się z obszarem 1.**
-13. **Pkt 7** - aktualna podstawa przekazywania danych do Stanów Zjednoczonych przy hostingu u GitHub, Inc.
-
-**W umowie z wykonawcą piosenki** (poza regulaminem, ale w tej samej konsultacji):
-
-14. **Konstrukcja dwustopniowa.** Demo zamawiane i opłacane z JDG bezwarunkowo, nagranie finalne jako osobne zlecenie po stawce uzgodnionej z góry, uruchamiane dopiero po znalezieniu sponsora i przez fundację, której jeszcze nie ma. Pytanie: jak zapisać drugi etap, żeby nie był zobowiązaniem do zawarcia umowy przyrzeczonej w rozumieniu umowy przedwstępnej, a jednocześnie żeby uzgodniona stawka wiązała, gdyby do niego doszło.
-15. **Autorstwo poprawek tekstu.** Strona oferty zaprasza wykonawcę do zgłaszania zmian w warstwie słownej. Jeżeli zmiany wejdą do nagrania, powstaje pytanie o współautorstwo tekstu i o to, co z tym zrobić: oświadczenie o przeniesieniu praw do poprawek, czy uznanie współautorstwa z odpowiednim zapisem o korzystaniu z utworu przez Nagrodę.
-16. **Prawa do dema.** Demo nie jest publikowane, ale ma być pokazywane sponsorom i partnerom. Potrzebny zapis pozwalający na takie wykorzystanie i rozstrzygający, co dzieje się z demem, jeżeli do wersji finalnej nie dochodzi albo dochodzi z inną osobą.
-17. **Udział w promocji.** Jeżeli wykonawca ma być twarzą piosenki w mediach, czy i jak uczynić to częścią zlecenia finalnego, zamiast liczyć na dobrą wolę.
-
-**W relacjach fundacja - fundator:**
-
-18. **Zlecanie usług informatycznych przez fundację jednoosobowej działalności fundatora.** Fundator jest jednocześnie prezesem zarządu fundacji i prowadzi JDG świadczącą usługi informatyczne; znaczna część prac przy Nagrodzie (panel oceny, narzędzie do weryfikacji formalnej, kopia archiwalna, publiczne Archiwum) to właśnie takie usługi. Pytania: czy reprezentacja przez Radę Fundacji na podstawie § 21 pkt 1 statutu jest wystarczająca do zawarcia takiej umowy i czy wymaga uchwały; jakie wymogi wynikają z powiązania podmiotów w zakresie ceny rynkowej przy tej skali; czy i jak ujawniać to w sprawozdaniu rocznym oraz wobec sponsorów; czy taka praktyka zamyka albo utrudnia późniejsze uzyskanie statusu organizacji pożytku publicznego.
-
-19. **§ 3 ust. 5c - wyłączenie twórców materiałów Nagrody.** Przepis dodany 22.10.2026 po tym, jak pojawił się pierwszy realny wykonawca piosenki Nagrody. Pytania: czy wyłączenie osoby, z którą zawiera się odpłatną umowę o dzieło, wymaga jej zgody albo wzmianki w tej umowie; czy zawężenie wyłączenia wyłącznie do twórcy, bez osób najbliższych, jest w tym wypadku obronialne na tle ust. 5; czy sformułowanie "materiał własny Nagrody" jest dość określone.
-
-20. **Uczniowska akademia a zgoda uczestnika i dane osobowe.** Planowana jest druga, uczniowska akademia czytająca te same zgłoszenia co akademia dorosła, złożona w większości z osób niepełnoletnich, zgłaszanych przez szkoły. Pytania: czy wystarczy opisanie tego w regulaminie i w polityce prywatności przed otwarciem naboru, czy potrzebna jest odrębna zgoda uczestnika na udostępnienie jego rozmowy osobom niepełnoletnim; jakie obowiązki rodzi po stronie Organizatora przetwarzanie danych przez niepełnoletnich czytelników i czy potrzebne są zgody ich opiekunów; czy szkoła zgłaszająca uczniów powinna być w tym układzie podmiotem przetwarzającym, czy wystarczy porozumienie o współpracy. Prosimy też o ocenę przyjętego trybu weryfikacji: grupę zgłasza szkoła wskazana numerem w Rejestrze Szkół i Placówek Oświatowych, a kod potwierdzający Organizator wysyła na adres tej szkoły z rejestru; Organizator nie zbiera żadnych danych uczniów, a lista osób czytających pozostaje w szkole. Czy przy takiej konstrukcji po stronie Organizatora powstaje w ogóle przetwarzanie danych uczniów i czy potrzebna jest umowa powierzenia ze szkołą.
-
-**W plebiscycie na piosenkę Nagrody** (konstrukcja przyjęta 23.10.2026, opis w `plebiscyt-ustalenia.md`):
-
-21. **Loteria promocyjna.** Planowany jest otwarty konkurs na muzykę do gotowego tekstu, z głosowaniem publiczności obok werdyktu jury. Pytania: czy nagroda losowana wśród głosujących czyni z tego loterię promocyjną w rozumieniu ustawy o grach hazardowych, a jeżeli tak, to jakie są obowiązki (zezwolenie, opłata, zatwierdzenie regulaminu, zabezpieczenie wypłat); czy nagroda przyznawana za uzasadnienie wyboru, a nie losowo, wychodzi poza ten reżim; czy sam plebiscyt na piosenkę, rozstrzygany przez jury, jest przyrzeczeniem publicznym na tych samych zasadach co Nagroda główna.
-22. **Prawa do zgłoszeń w plebiscycie.** Po zmianie konstrukcji (23.10.2026) każdy zgłaszający jest autorem całości: własny tekst, własna muzyka, własne nagranie; utwory zależne nie powstają. Pytania: czy do prezentowania zgłoszeń na stronie i na gali wystarcza oświadczenie licencyjne składane przy zgłoszeniu, czy potrzebna jest odrębna umowa; jak sformułować zakres tej licencji; co dzieje się z prawami, jeżeli zwycięski utwór ma zostać wydany przez wydawnictwo-partnera; oraz czy wymóg, by kompozycja, tekst i wokal pochodziły od człowieka, a użycie narzędzi generatywnych podlegało deklaracji, da się skutecznie zapisać i egzekwować.
-
-**W sprawie analityki strony:**
-
-23. **Analityka bezcookiesowa.** Strona nie ma dziś żadnej analityki ani komunikatu o ciasteczkach i chcę to utrzymać, ale potrzebuję podstawowych danych o ruchu, żeby móc ocenić skuteczność kampanii przed naborem. Rozważane narzędzia nie zapisują niczego na urządzeniu odwiedzającego: **Plausible** (serwery w UE, usługa płatna), **Umami** (otwarty kod, hostowany samodzielnie), **GoatCounter** oraz **Cloudflare Web Analytics**. Pytania: czy przy takich narzędziach odpada obowiązek uzyskania zgody na przechowywanie informacji w urządzeniu końcowym; jaka podstawa prawna właściwa jest dla przetwarzania adresu IP i danych o wizycie i jak opisać to w polityce prywatności; czy przy **Cloudflare Web Analytics**, wobec amerykańskiej przynależności dostawcy, da się utrzymać deklarację, że dane nie opuszczają Europejskiego Obszaru Gospodarczego, a jeżeli nie, to na jakiej podstawie mogłyby być przekazywane - pytanie wiąże się z pkt 13 powyżej, dotyczącym hostingu u GitHub, Inc.
-
-## Cv. Czytelnia zgłoszeń, Archiwum i jawna punktacja (dodane 24.10.2026)
-
-Konstrukcja przyjęta tego dnia, nieujęta w przesłanych wcześniej dokumentach i wymagająca sprawdzenia przed naborem.
-
-24. **Czytelnia zgłoszeń jako warunek udziału.** Każde zgłoszenie, które przeszło weryfikację formalną, trafia na publiczną listę zawierającą tytuł rozmowy, podpis uczestnika (nazwisko albo pseudonim, jego wybór), link opublikowany przez uczestnika, opis odkrycia i jego uzasadnienie. Czy obowiązkowy charakter takiej publikacji w trakcie trwania plebiscytu jest dopuszczalny i jak go opisać w regulaminie oraz w polityce prywatności, skoro dotychczasowa zgoda na publikację dotyczyła antologii i Archiwum po rozstrzygnięciu.
-
-25. **Jawna punktacja wszystkich zgłoszeń jako warunek udziału.** Archiwum ma pozostać dostępne na stałe i umożliwiać sortowanie po ocenach wystawionych przez akademię, jury i publiczność - również przy zgłoszeniach ocenionych nisko i również pod nazwiskiem, jeżeli uczestnik nie wybrał pseudonimu. Pytania: czy zgodę na trwałą publikację własnej oceny można uczynić warunkiem udziału; jak ją sformułować, żeby była świadoma; czy uczestnik może później żądać usunięcia samej punktacji przy zachowaniu rozmowy; oraz czy ocena wystawiona konkretnej osobie i publikowana bezterminowo rodzi obowiązki szersze niż publikacja samej rozmowy.
-
-26. **Retencja wobec trwałego Archiwum.** Polityka prywatności przewiduje usunięcie danych uczestników nienagrodzonych w ciągu 60 dni od ogłoszenia wyników, a Archiwum ma zawierać wszystkie zgłoszenia na stałe. Te dwa zapisy są ze sobą sprzeczne i wymagają rozstrzygnięcia, które z danych są usuwane, a które pozostają jako element publikacji.
-
-27. **Prywatna półka czytelnika.** Oznaczanie rozmów gwiazdką zapisywane jest wyłącznie w przeglądarce czytelnika, bez wysyłania czegokolwiek na serwer, z możliwością eksportu i importu pliku. Czy taki mechanizm wymaga zgody, wzmianki w polityce prywatności albo jakiejkolwiek informacji poza zdaniem wyjaśniającym.
-
-## Cw. Przepustowość drugiej rundy i rozkład ocen (dodane 25.10.2026)
-
-Luka wykryta przy sprawdzaniu scenariusza skrajnego: co się dzieje, gdy akademia oceni wszystkie zgłoszenia jednakowo wysoko.
-
-**Na czym polegała.** § 8 ust. 14 w poprzednim brzmieniu wyznaczał wyłącznie dolną granicę drugiej rundy („nie mniej niż dwadzieścia"). Przy remisie na maksimum każde zgłoszenie ma najwyższą średnią, więc całość naboru kwalifikuje się do oceny przez jury. § 8 ust. 10b zakazuje przy tym ograniczania liczby przyjmowanych zgłoszeń i odstępowania od przeczytania któregokolwiek z nich, dopuszczając jedynie przesunięcie daty wyników - zawór bezpieczeństwa działa więc na czas, a nie na nakład pracy. Istniejące zabezpieczenia tej awarii nie wykrywają: rozmowy kalibracyjne z ust. 13 rozpoznają **zmianę** standardu oceniającego w czasie, a nie standard płaski od początku; obowiązkowy przegląd zgłoszeń granicznych zakłada istnienie granicy, której przy pełnym remisie nie ma.
-
-**Co wprowadziliśmy.** Górną granicę drugiej rundy na poziomie stu zgłoszeń (ust. 14), ogłaszaną z góry kolejność rozstrzygania remisów (ust. 14a) oraz kontrolę rozkładu ocen kierującą partię ocenianą bez rozróżniania zgłoszeń do ponownego odczytu (ust. 14b), z mierzalnym progiem: odchylenie standardowe ocen łącznych poniżej 1,0 punktu albo cztery piąte zgłoszeń w tym samym paśmie czteropunktowym.
-
-**Czego nie wprowadziliśmy.** Rozważaliśmy ograniczenie udziału najwyższego pasma do jednej piątej partii oceniającego i **wycofaliśmy je 26 października 2026 roku**, ponieważ uzależniałoby ocenę zgłoszenia od jakości przypadkowo przydzielonych konkurentów, a przy jawnej punktacji przedstawiałoby pozycję w partii jako ocenę jakości rozmowy.
-
-**Pytania do kancelarii:**
-
-- Czy górna granica drugiej rundy jest dopuszczalna w przyrzeczeniu publicznym, skoro zawęża krąg zgłoszeń ocenianych przez jury, i czy wystarczy jej ogłoszenie przed naborem.
-- Czy sposób rozstrzygania remisów z ust. 14a jest wystarczająco jednoznaczny, by wykluczyć zarzut uznaniowości, w szczególności czy dopuszczalne jest losowanie jako ostatni człon.
-- Czy kontrola rozkładu z ust. 14b, która kieruje całą partię do ponownego odczytu po przekroczeniu mierzalnego progu, jest wobec oceniającego i uczestnika wystarczająco jednoznaczna, oraz czy rezygnacja z limitu najwyższego pasma była z punktu widzenia rzetelności oceny krokiem we właściwą stronę.
-- Czy skierowanie partii do ponownego odczytu wymaga poinformowania oceniającego i czy zachowanie pierwszej oceny w zapisie rodzi obowiązki wobec uczestnika, który zażąda wglądu we własne oceny.
-- Jak te przepisy mają się do § 8 ust. 10b: czy przy bardzo dużej liczbie zgłoszeń Organizator nadal nie może ograniczyć naboru, a jedynie przesuwać termin.
-
-## Cx. Materiały promocyjne (dodane 24.10.2026)
-
-28. **Rysunki dzieci w materiałach promocyjnych.** Filmy reklamujące Nagrodę i plebiscyt mają być animowaną wycinanką z rysunków dzieci. Pytania: jakiej zgody wymaga wykorzystanie pracy plastycznej dziecka w materiale promocyjnym podmiotu organizującego plebiscyt i czy wystarcza zgoda jednego rodzica; czy zakres takiej zgody musi obejmować rozpowszechnianie bez ograniczenia czasowego oraz emisję płatną w mediach społecznościowych; czy sytuacja zmienia się, gdy rysunki pochodzą ze szkoły biorącej udział w Uczniowskiej akademii, a zbiera je nauczyciel; oraz czy należy podpisywać autorów rysunków imieniem, skoro są to osoby niepełnoletnie. Wariantem rozważanym alternatywnie jest ilustrator dorosły rysujący stylizowaną „dziecięcą ręką" - prosimy o wskazanie, czy ten wariant zdejmuje problem w całości.
-
-## Cs. Statut i ciągłość organizatora (dodane 25.10.2026)
-
-33. **Niezdolność albo śmierć fundatora.** Nagroda zaciąga zobowiązania rozciągnięte na dwa lata: przyrzeczenie publiczne co do puli nagród, licencje od uczestników, obietnica utrzymania Archiwum. Dziś cała wiedza, dostępy i reprezentacja skupiają się na jednej osobie. Jakie zapisy w statucie fundacji zabezpieczają ciągłość na wypadek długotrwałej choroby albo śmierci fundatora - w szczególności: sposób powoływania i odwoływania zarządu bez udziału fundatora, reprezentacja przy wakacie w zarządzie, organ uprawniony do zmiany statutu i do rozstrzygnięcia o dalszym losie fundacji, oraz tryb wykonania zobowiązań wobec uczestników, gdyby edycja była w toku. Czy przy fundacji jednoosobowego fundatora rekomendują Państwo radę fundacji jako organ nadzoru, czy inne rozwiązanie.
-
-34. **Zabezpieczenie puli nagród.** Przyjęta zasada: ogłaszamy wyłącznie te kwoty, które wpłynęły wcześniej na rachunek Organizatora (§ 9 ust. 2a regulaminu). Czy ten zapis wystarczy, żeby wyłączyć odpowiedzialność Organizatora za część puli przyrzeczoną przez partnera, lecz niewpłaconą. Jakie postanowienia umowy sponsorskiej są potrzebne, żeby termin wpłaty wyprzedzał dzień otwarcia naboru i żeby niewpłacenie nie rodziło roszczeń uczestników.
-
-## Cy. Sponsor akademii i vouchery dla czytelników (dodane 25.10.2026)
-
-Rozważamy osobnego sponsora pierwszej rundy oceny - najprawdopodobniej sieć handlową - który finansowałby pracę czytelników akademii **świadczeniem rzeczowym**: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet akademii](/arkusz/budzet-edycji-pierwszej#budzet-akademii).
-
-29. **Charakter świadczenia i podatek po stronie czytelnika.** Voucher otrzymywany przez czytelnika akademii - jak go zakwalifikować? Jeżeli czytelnik pracuje na podstawie umowy zlecenia, czy voucher stanowi część wynagrodzenia z tej umowy, czy odrębne świadczenie? Jeżeli czytelnik działa nieodpłatnie albo na podstawie porozumienia wolontariackiego, czy powstaje przychód z innych źródeł i obowiązek wystawienia PIT-11? Czy zastosowanie ma zwolnienie z art. 21 ustawy o PIT, a jeżeli tak, do jakiej kwoty? Jak to wygląda po stronie składek ZUS.
-
-30. **Rozliczenie między fundacją a sponsorem rzeczowym.** Sponsor przekazuje vouchery, a nie pieniądze. Czy po stronie Organizatora to darowizna rzeczowa, czy świadczenie wzajemne rozliczane fakturą za usługę promocyjną - tak jak zakładamy przy pozostałych budżetach? Jak ustalić podstawę opodatkowania VAT, skoro voucher ma nominał, a koszt wystawcy jest od niego niższy. Czy przekazanie voucherów dalej, czytelnikom, rodzi po stronie fundacji obowiązek w VAT.
-
-31. **Niezależność oceny wobec sponsora komercyjnego.** Sponsor finansuje ciało, które jako pierwsze punktuje zgłoszenia. Zamierzamy zapisać, że sponsor nie ma kontaktu z czytelnikami, dostępu do zgłoszeń przed ogłoszeniem wyników ani wpływu na przydziały, a jego udział jest jawny na stronie Nagrody i w antologii. Pytania: czy ten zestaw wystarczy, żeby wykluczyć zarzut wpływu na wynik plebiscytu; czy takie zastrzeżenie należy umieścić w regulaminie, czy wystarczy umowa sponsorska; czy fakt, że wysokość świadczenia zależy od liczby ocenionych rozmów, a nie od ich wyniku, ma tu znaczenie prawne.
-
-32. **Bodziec ilościowy a rzetelność oceny.** Świadczenie naliczane od liczby przeczytanych rozmów premiuje tempo. Rozważamy przestawienie jednostki na **ukończony przydział czytelnika** zamiast na liczbę rozmów. Czy z punktu widzenia odpowiedzialności Organizatora za rzetelność rozstrzygnięcia któraś z tych konstrukcji jest wyraźnie bezpieczniejsza.
-
-## Cz. Plebiscyt na piosenkę - lista odrębna
-
-Pytania dotyczące plebiscytu zebrane są w osobnym dokumencie: [prawnik-plebiscyt](/dokument/prawnik-plebiscyt). Powód rozdzielenia jest praktyczny - to inny materiał prawny (utwory muzyczne, wykonanie publiczne, organizacje zbiorowego zarządzania, głosowanie publiczności), a wycena z 22.10.2026 go nie obejmowała, więc wymaga odrębnego potwierdzenia zakresu i ceny.
-
-Trzy pytania z tamtej listy wiążą się z tą bezpośrednio i nie powinny zostać rozstrzygnięte osobno: nagroda publiczności wobec loterii promocyjnej (pkt 21 powyżej), przetwarzanie numerów telefonu głosujących wobec polityki prywatności pisanej od zera (obszar 2) oraz decyzja, czy podatek od nagród obciąża nagrodę, czy jest doliczany ponad nią - ta ostatnia dotyczy puli nagrody głównej i plebiscytu jednocześnie i powinna być podjęta raz, dla obu.
-
-## Cr. Trzy pytania z recenzji zewnętrznej (dodane 28.10.2026)
+Dwa pytania poniżej są ostrzejszą postacią pytań 17-19 z części B i powstały po przeglądzie kompletu dokumentów; proszę traktować je jako wiążące brzmienie tamtych, a nie jako pytania dodatkowe.
 
 Komplet dokumentów - cztery strony plebiscytów, cztery regulaminy i polityka prywatności - przeszedł recenzję prawno-redakcyjną. Większość uwag to poprawki redakcyjne, które wprowadzam sam. Trzy wymagają stanowiska kancelarii i każde z nich blokuje coś konkretnego.
 
@@ -291,23 +74,7 @@ Komplet dokumentów - cztery strony plebiscytów, cztery regulaminy i polityka p
 
 **2. Podatek od nagród i od świadczeń niepieniężnych.** Wszystkie cztery regulaminy przewidują bezwarunkowe potrącenie 10 procent. Prosimy o potwierdzenie modelu i o cztery rzeczy, których dokumenty dziś nie rozstrzygają: czy ogłaszane kwoty są brutto; czy i kiedy stosuje się zwolnienie z ustawy o PIT dla konkursów; jak traktować laureata niebędącego polskim rezydentem; oraz jak wycenić i rozliczyć świadczenia niepieniężne, których wartość nie jest mała - **nagranie studyjne dla dziesięciu finalistów piosenki, przygotowanie zestawu dystrybucyjnego w filmie i miejsce na wystawie w plakacie**. Osobno prosimy o model przy zgłoszeniu zespołowym: kto jest wierzycielem nagrody i czy wypłata reprezentantowi zwalnia wobec pozostałych. **Blokuje:** ogłoszenie puli nagród, bo bez tego nie wiadomo, jaką kwotę laureat faktycznie dostanie.
 
-**3. Czy fundacja może prowadzić aukcje prac wszystkich uczestników z podziałem przychodu po połowie.** Dziś regulamin plakatu przewiduje cichą licytację wyłącznie dla finalistów i wyłącznie przy wystawie w galerii, a pozostali uczestnicy mogą jedynie wskazać link do własnej aukcji, w której organizator nie pośredniczy i z której nic nie bierze. Rozważamy rozszerzenie: **aukcje wszystkich zgłoszonych prac, prowadzone przez fundację, z podziałem przychodu po połowie między autora a pulę nagród kolejnej edycji.** Prosimy o ocenę, czy taka działalność jest zbiórką publiczną, odpłatną działalnością pożytku publicznego czy działalnością gospodarczą wymagającą wpisu; czy wymaga umowy komisu albo pośrednictwa i jak skonstruować umocowanie; kto jest sprzedawcą wobec nabywcy i kto odpowiada za wady oraz za niewydanie pracy; jakie obowiązki konsumenckie i podatkowe powstają po obu stronach, także gdy sprzedającym jest osoba między 16 a 18 rokiem życia; oraz czy prowadzenie takich aukcji w serwisie aukcyjnym w programie dla organizacji dopuszcza podział przychodu z osobą prywatną, czy zakłada przekazanie całości na cel statutowy. **Blokuje:** kształt § 14 regulaminu plakatu i sekcję o sprzedaży pracy na stronie plakatu.
-
-## Cs2. Nagrania studyjne finalistów - jakie prawa i od kogo (dodane 28.10.2026)
-
-Regulamin piosenki przyrzeka każdemu z dziesięciu finalistów **nagranie studyjne finansowane przez Organizatora, z prawami przechodzącymi na autora**. Przepis mówi dziś, że prawa „przechodzą", i na tym poprzestaje - a fundacja nie przekaże praw, których sama wcześniej nie nabyła. Prosimy o **model do wpisania do regulaminu przed ogłoszeniem naboru**, obejmujący cztery rzeczy.
-
-**Co składa się na nagranie.** Prawa producenta fonogramu, prawa do artystycznych wykonań wszystkich wykonawców biorących udział w sesji, prawa do aranżacji powstałej w studiu oraz uprawnienia realizatora i producenta muzycznego. Prosimy o wskazanie, które z nich Organizator musi nabyć, a które wystarczy, by wykonawcy udzielili bezpośrednio finaliście.
-
-**Od kogo i kiedy.** Jakie umowy muszą być zawarte **przed sesją** między Organizatorem, studiem, producentem i muzykami sesyjnymi, w jakiej formie, oraz w której chwili prawa mają przechodzić na finalistę - przy przekazaniu mastera czy z chwilą ustalenia utworu.
-
-**Kto jest odbiorcą przy zgłoszeniu zespołowym.** Czy prawa nabywa reprezentant składu, czy wszyscy współuprawnieni łącznie, i jak to pogodzić z wypłatą nagrody do rąk reprezentanta (§ 6).
-
-**Granica swobody umownej.** Warunki uzgadniane ze studiem nie mogą ograniczać świadczenia przyrzeczonego przed naborem. Prosimy o wskazanie, jak to zabezpieczyć - czy wystarczy zastrzeżenie w regulaminie, czy potrzebny jest wzór umowy złożony jako załącznik.
-
-**Blokuje:** ogłoszenie nagrody w postaci nagrania studyjnego, a więc otwarcie naboru w plebiscycie na piosenkę.
-
-## Cs3. Umowy z jury i akademią (dodane 28.10.2026)
+## E. Umowy z jury i akademią
 
 Strona z ofertą dla jury plebiscytu na piosenkę obiecuje, że **stawkę, zakres i terminy potwierdzamy umową przed przyjęciem zadania**. Wzór takiej umowy musi więc istnieć, zanim ruszy kompletowanie składu. Ta sama potrzeba dotyczy akademii, która w każdym plebiscycie liczy kilkanaście do kilkudziesięciu osób, więc jej umowa musi być prostsza i powtarzalna.
 
@@ -325,226 +92,9 @@ Prosimy o rozstrzygnięcie i o dwa wzory - dla jurora i dla członka akademii - 
 
 **Blokuje:** kompletowanie składu jury, które trwa już teraz, oraz nabór do akademii.
 
-## Cm. Mecenat antologii - pytania z przeglądu oferty (dodane 30.10.2026)
+## F. Udział członków akademii w postępowaniach o odrzucenie zgłoszenia
 
-Pytania powstały przy sprawdzaniu [oferty mecenatu](/oferta-dla-mecenasa-antologii-nagrody-konstela) pod kątem zgodności z regulaminem. Dotyczą umowy sponsorskiej na kwotę rzędu 292 tys. zł netto i konstrukcji, która ma tę umowę unieść.
-
-1. **Licencja bez prawa sublicencji a wydanie książkowe.** § 11 regulaminu daje licencję wyłącznie Organizatorowi i wyłącza wykorzystanie komercyjne przez osoby trzecie. Jednocześnie planowane jest wydanie książkowe, które drukuje i sprzedaje partner wydawniczy, czyli osoba trzecia. Czy przy obecnym brzmieniu wydawca może legalnie wydrukować i sprzedać antologię? Jeżeli nie - jak zapisać prawo udzielania dalszych licencji w zakresie niezbędnym do wydania i dystrybucji, nie rozszerzając uprawnień Organizatora ponad to, co konieczne?
-
-2. **Sprzeczność wewnątrz § 11.** Ustęp 3 mówi, że po pięciu latach licencja przekształca się w licencję na czas nieoznaczony w tym samym zakresie. Ustęp 3b mówi, że z upływem okresu licencji Organizator zaprzestaje korzystania albo uzyskuje odrębne uprawnienie na dalszy okres. Oba zapisy nie mogą obowiązywać naraz. Który zostaje i jak brzmi przepis przejściowy?
-
-3. **Strona umowy przed rejestracją fundacji.** Umowa mecenatu ma być podpisana przed otwarciem naboru, a fundacja wpisana do KRS wcześniej. Koszt jej powołania jest pozycją w tej samej umowie. Czy bezpieczniejsze jest: umowa zawarta przez fundację po wpisie, czy umowa z działalnością gospodarczą fundatora z przeniesieniem praw i obowiązków na fundację? Jakie zabezpieczenie środków sponsora jest w pierwszym wariancie standardem - rachunek wyodrębniony, zakaz finansowania z nich innych zakresów edycji, tryb na wypadek niezarejestrowania fundacji?
-
-4. **Trzy formy płatnika.** Oferta adresowana jest do firmy, fundacji korporacyjnej i instytucji publicznej, a przewiduje jeden instrument: umowę sponsorską i fakturę z VAT. Jak powinny brzmieć dwa pozostałe warianty - darowizna albo dotacja celowa od fundacji korporacyjnej, ze świadczeniami ograniczonymi do informacyjnych, oraz zamówienie publiczne przy instytucji? Przy jakiej konstrukcji świadczenia wzajemne nie podważają charakteru darowizny?
-
-5. **Odpowiedzialność za treści uczestników przy oznaczeniu sponsora.** Logo Mecenasa stoi na stronie, na której publikowane są cudze rozmowy. Jakich zapisów wymaga ochrona sponsora: termin usunięcia treści na jego zgłoszenie, prawo do zdjęcia oznaczeń z konkretnego kontekstu bez utraty pozostałych świadczeń, zwolnienie z odpowiedzialności wobec osób trzecich, granice odpowiedzialności obu stron?
-
-6. **Dane osobowe w relacji ze sponsorem.** Czy wystarczy oświadczenie, że administratorem jest wyłącznie fundacja, a Mecenas nie otrzymuje danych i nie jest podmiotem przetwarzającym, czy potrzebne są dalsze zapisy? Dotyczy to zwłaszcza uczniowskiej akademii i podcastu z udziałem nastolatków.
-
-7. **Aparat umowny, którego w ofercie nie ma.** Kary umowne za niedostarczenie e-booka, Archiwum i oznaczeń; odstąpienie i wypowiedzenie wraz ze skutkami; siła wyższa; poufność; zakaz cesji; zmiana kontroli; oświadczenia antykorupcyjne i sankcyjne; zatwierdzanie użycia znaków towarowych sponsora. Czy warto przygotować wzór umowy sponsorskiej jako załącznik do oferty - i ile to kosztuje?
-
-8. **Audiobook antologii.** Regulamin został uzupełniony o pole zapisu dźwiękowego w licencji od uczestników (§ 11 ust. 3). Prosimy o sprawdzenie, czy brzmienie jest wystarczające dla produkcji i rozpowszechniania audiobooka, w tym odpłatnego i przez wydawcę zewnętrznego. Osobno: jakie zapisy muszą znaleźć się w umowach z lektorami w zakresie praw artysty wykonawcy, a w umowach z jurorami - w zakresie odczytania ich komentarzy w nagraniu. Czy status wypowiedzi modelu zmienia się, gdy zostaje odczytana przez lektora.
-
-9. **Zwolnienie podatkowe przy nagrodzie za uzasadnienie głosu.** Nagroda wynosi 2 000 zł, a art. 21 ust. 1 pkt 68 ustawy o PIT zwalnia nagrody z dziedziny kultury i sztuki o wartości nieprzekraczającej 2 000 zł. Czy kwota równa progowi mieści się w zwolnieniu?
-
-## Cf. Plebiscyt na film - kopia archiwalna, pola eksploatacji i następcy prawni (dodane 31.10.2026)
-
-Trzy pytania powstałe przy zmianie konstrukcji Archiwum filmów. Do 30 października Organizator nie przechowywał kopii zgłoszonych filmów i Archiwum opierało się na linkach do kanałów autorów; od 31 października regulamin filmu przewiduje własną kopię archiwalną (§ 12 ust. 2 lit. a1), nieudostępnianą publicznie, przechowywaną pięć lat.
-
-1. **Muzyka w kopii archiwalnej.** Oświadczenie Uczestnika z § 12 ust. 1 lit. a1 dotyczy praw do oprawy muzycznej filmu i zwiastuna „w zakresie koniecznym do udziału w Plebiscycie i do udzielenia licencji z ust. 2". Przechowując kopię, Organizator zwielokrotnia również muzykę zawartą w filmie. Czy oświadczenie w tym brzmieniu wystarcza, czy kopia archiwalna wymaga odrębnego oświadczenia albo odrębnej podstawy - zwłaszcza gdy Uczestnik korzysta z muzyki licencjonowanej na użytek internetowy.
-
-2. **Pola eksploatacji przy projekcji.** Do 31 października § 12 ust. 2z wyliczał wyłącznie utrwalanie, zwielokrotnianie cyfrowe, wprowadzanie do pamięci i publiczne udostępnianie w sieci, a regulamin przewidywał przy tym emisję zwiastuna na gali i pokaz kinowy filmów finałowych, czyli publiczne wyświetlanie. Dopisałem wyświetlanie i odtwarzanie, ograniczone do tych dwóch sytuacji. Czy takie ograniczenie zakresem celu jest wystarczająco określone, czy pola trzeba rozpisać osobno dla każdej litery ust. 2.
-
-3. **Śmierć i następcy prawni Uczestnika.** Regulamin mówi dziś, że śmierć po ustaleniu werdyktu nie powoduje utraty miejsca, a świadczenia pieniężne spełnia się według przepisów o dziedziczeniu (§ 16 ust. 1b). Trzy luki: nie ma przepisu o śmierci przed werdyktem, choć ocenie podlega film, a nie osoba; nie ma trybu na wypadek nieznanych albo milczących spadkobierców - czy właściwą drogą jest złożenie nagrody do depozytu sądowego (art. 467 KC) po bezskutecznym wezwaniu; i nie jest powiedziane, czy zgoda na pokaz kuratorski z § 12 ust. 2 lit. d wiąże spadkobierców, a także czy licencja z lit. a i a1, udzielona na czas nieoznaczony i na pięć lat, podlega wypowiedzeniu przez spadkobierców w trybie art. 68 ust. 1 prawa autorskiego.
-
-4. **Złożenie migawki Archiwum w otwartym repozytorium danych.** Pytanie powstałe 31.10.2026 z recenzji oferty dla fundatora nagród. Archiwum ma przetrwać dłużej niż fundacja, a najmocniejszym zabezpieczeniem byłaby pełna migawka złożona w otwartym repozytorium prowadzonym przez instytucję trzecią - uczelnię, bibliotekę cyfrową albo repozytorium danych badawczych. Licencja z § 11 obejmuje publikację w Archiwum prowadzonym przez Organizatora i nie wypowiada się o zwielokrotnieniu u podmiotu trzeciego.
-
-   - Czy złożenie takiej migawki mieści się w udzielonej licencji, czy wymaga odrębnej zgody Uczestnika.
-   - Jeżeli wymaga zgody: czy może być zgodą opcjonalną przy zgłoszeniu, tak żeby jej brak nie wykluczał z plebiscytu, i jak wtedy oznaczać zgłoszenia nieobjęte migawką.
-   - Czy przekazanie Archiwum innej instytucji w razie likwidacji fundacji wymaga tej samej konstrukcji, czy jest następstwem prawnym, do którego licencja przechodzi z mocy prawa.
-
-5. **Co wolno publikować po wygaśnięciu licencji.** Licencja na publikację rozmowy trwa pięć lat od ogłoszenia wyników (§ 11 ust. 3). Zakładamy, że po tym terminie kopia rozmowy przestaje być publicznie dostępna, natomiast wynik edycji zostaje: tytuł rozmowy, podpis Uczestnika, punktacja wszystkich etapów, uzasadnienie werdyktu i adres wpisu.
-
-   - Czy ta część rzeczywiście nie wymaga licencji do utworu, a jeżeli wymaga - w jakim zakresie i na jakiej podstawie może zostać utrzymana.
-   - Jak traktować tytuł rozmowy i opis odkrycia, które mogą być utworami samodzielnymi.
-   - Czy dane osobowe laureatów mogą pozostać przy tym zapisie po pięciu latach i na jakiej podstawie; przyjęte dziś pięcioletnie przechowywanie danych laureatów liczone jest od zatwierdzenia sprawozdania.
-
-6. **Przechowywanie kopii dłużej niż trwa licencja na publikację.** Kopia archiwalna rozmowy sporządzana jest przy zgłoszeniu, a licencja na jej publikację trwa pięć lat. Chcielibyśmy zachować kopie dłużej, już bez udostępniania ich publicznie, żeby wynik edycji dało się zweryfikować także po tym terminie.
-
-   - Czy dalsze, niepubliczne przechowywanie kopii wymaga odrębnej zgody Uczestnika, czy mieści się w uzasadnionym interesie Organizatora, a jeżeli wymaga zgody - jak ją skonstruować, żeby jej brak nie wykluczał z plebiscytu.
-   - Jaki okres przechowywania da się obronić wobec zasady ograniczenia przechowywania z RODO i jak powiązać go z pięcioletnim przechowywaniem danych laureatów liczonym od zatwierdzenia sprawozdania.
-   - Czy depozyt migawki w repozytorium zewnętrznym (punkt 4) da się pogodzić z żądaniem usunięcia danych i z zakazem publikacji pojedynczej rozmowy - to jest pytanie o wykonalność, nie o samą podstawę prawną.
-
-## Cg. Sito uczestników - ocena wzajemna jako warunek rozpatrzenia zgłoszenia (dodane 31.10.2026)
-
-Dwa pytania powstałe 31.10.2026 przy projektowaniu mechanizmu, który ma pozwolić pierwszej rundzie oceny urosnąć ponad liczbę zgłoszeń opłaconych w kosztorysie. Konstrukcję opisuje § 8 ust. 10c regulaminu rozmowy oraz [dokument o skalowaniu oceny](/dokument/skalowanie-oceny). W pierwszej edycji rundy uczestników pozostają wyłączone; wchodzą do regulaminu jako mechanizm ogłaszany przed otwarciem naboru.
-
-1. **Ocena cudzych zgłoszeń jako warunek rozpatrzenia własnego.** W edycji, w której Organizator ogłosi rundy uczestników przed otwarciem naboru, warunkiem rozpatrzenia zgłoszenia jest przeczytanie i ocenienie do czterech cudzych rozmów przydzielonych losowo i ślepo, w terminie 14 dni, tą samą jawną kartą oceny co akademia, obok dwóch rozmów wzorcowych ocenionych wcześniej przez akademię. Rozmiar przydziału ograniczony jest budżetem słów ogłaszanym przed naborem, a nie wyłącznie liczbą rozmów - przy rozpiętości od 3 do 25 tysięcy słów liczenie w sztukach dawałoby jednemu uczestnikowi kilkakrotnie większe obciążenie niż drugiemu za ten sam obowiązek. Niewykonanie tego obowiązku nie powoduje odrzucenia zgłoszenia jako niespełniającego wymogów formalnych, lecz jego nieprzejście do dalszych rund.
-
-   - Czy taki warunek da się pogodzić z konstrukcją przyrzeczenia publicznego (art. 919 KC): przyrzekający określa warunki uzyskania nagrody, ale tu warunkiem jest świadczenie pracy na rzecz Organizatora, nieodpłatne i nieoznaczone co do wartości. Czy nie przekształca to relacji w umowę wzajemną albo w świadczenie, od którego należne byłoby wynagrodzenie.
-   - Czy przy uczestniku będącym konsumentem warunek ten nie jest postanowieniem niedozwolonym (art. 385[1] KC), a jeżeli ryzyko istnieje - jakie elementy je zmniejszają: jawność parametrów przed naborem, prawo odrzucenia jednego przydziału, przywrócenie terminu w zdarzeniach losowych, budżet słów wyrównujący obciążenie i ograniczający je do około czterech godzin na rundę w najgorszym losowaniu, górny limit szesnastu ocenianych zgłoszeń i czterokrotności budżetu słów na edycję, brak wpływu oceny na pozycję własnego zgłoszenia.
-   - Czy wobec uczestników od 16 do 18 lat obowiązek oceniania wymaga odrębnej zgody opiekuna, obok zgód już przewidzianych w § 6.
-   - Czy warunek nie prowadzi do nierównego traktowania osób, które z przyczyn obiektywnych nie mogą czytać cudzych zgłoszeń (niepełnosprawność, bariera technologiczna), i jaka forma zastępcza byłaby wystarczająca.
-   - W jakiej roli występuje uczestnik oceniający cudze zgłoszenie w rozumieniu RODO: czy jest to przetwarzanie przez Organizatora z udziałem osoby upoważnionej, czy powierzenie przetwarzania, i jakie oświadczenie o poufności jest tu konieczne. Zgłoszenia w sicie są pokazywane bez danych identyfikujących autora, ale treść rozmowy może go ujawniać.
-
-2. **Automatyczne sprawdzenie spójności oceny z treścią rozmowy - narzędzie wyjęte z regulaminu 1.11.2026 i czekające na tę odpowiedź.** Pierwotnie było trzecim narzędziem kontroli jakości. Wyjęliśmy je, ponieważ § 8 ust. 8 Regulaminu stanowi, że narzędzia oparte na modelach językowych wykorzystywane są wyłącznie do weryfikacji warunków formalnych i że zgłoszenia nie są przekazywane dostawcom modeli - a sprawdzanie spójności uzasadnienia z treścią cudzej rozmowy to przetwarzanie merytoryczne. Nie chcieliśmy otwierać tego ustępu wyjątkiem przed uzyskaniem odpowiedzi. Jego miejsce zajęła zgodność z pozostałymi ocenami tego samego zgłoszenia, która nie wymaga modelu. Pytanie dotyczy więc tego, czy i w jakiej postaci narzędzie może wrócić. Dla kontekstu: jakość ocen uczestników kontrolujemy dziś trzema narzędziami - zgłoszeniami wzorcowymi (częścią przydziału są rozmowy ocenione już przez akademię), normalizacją względem ich punktacji oraz zgodnością oceny z pozostałymi ocenami tego samego zgłoszenia. Gdyby narzędzie modelowe wróciło, **nie oceniałoby rozmowy i nie rozstrzygało o awansie** - kierowałoby uwagę człowieka na oceny odstające, a skutek spadałby na ocenę (utrata wagi albo odrzucenie), nie na zgłoszenie oceniającego.
-
-   - Czy przy takim ograniczeniu roli mechanizm pozostaje poza art. 22 RODO (decyzje wyłącznie zautomatyzowane), a jeżeli nie - jakiego poziomu udziału człowieka wymaga, żeby nim nie był, i jaką informację należy podać uczestnikowi przed naborem.
-   - Jaka podstawa prawna obejmuje przekazanie treści zgłoszonej rozmowy do zewnętrznego dostawcy modelu w tym celu; czy mieści się to w licencji z § 11 i w celach przetwarzania z § 12, czy wymaga ich rozszerzenia, oraz jaka umowa powierzenia i jakie warunki transferu poza EOG są tu konieczne.
-   - Czy odrzucenie oceny na tej podstawie wymaga trybu odwoławczego dla oceniającego, skoro nie dotyka jego własnego zgłoszenia.
-
-3. **Ocena pozorna jako niewykonanie obowiązku.** Regulamin rozdziela dwie sytuacje. Omyłka w ocenianiu nie ma dla Uczestnika żadnych następstw - ocena przepada, zgłoszenie jest rozpatrywane dalej (§ 8 ust. 10c lit. g). Ocena pozorna, czyli taka, przy której zachodzi jedna z trzech wyliczonych przesłanek - jednakowa punktacja we wszystkich czterech kryteriach przy odchyleniu od zgłoszenia wzorcowego powyżej progu, karta niekompletna w rozumieniu lit. a1, albo odchylenie od obu zgłoszeń wzorcowych powyżej progu - oznacza **odczyt niewykonany**: Uczestnik otrzymuje przydział zastępczy, a przy powtórzeniu w tej samej edycji jego zgłoszenie nie przechodzi do dalszych rund (lit. g1). Przepis powstał dlatego, że bez niego najtańszym sposobem spełnienia warunku rozpatrzenia zgłoszenia byłoby wypełnienie kart dowolnymi liczbami.
-
-   - Czy rozróżnienie oparte na zamkniętych, mierzalnych przesłankach jest wystarczające, żeby skutek nie był uznaniowy - przy założeniu, że Organizator nie bada słuszności ocen ani intencji oceniającego, a progi ogłaszane są przed naborem.
-   - Czy wymóg kompletności karty (punkty i uzasadnienie przy każdym z czterech kryteriów, uzasadnienie niebędące puste, powtórzone ani przepisane z ocenianej rozmowy) da się postawić jako warunek formalny, czy jest to już ocena jakości świadczenia - zwłaszcza wobec Uczestnika będącego konsumentem.
-   - Czy przed skutkiem z lit. g1 należy przewidzieć wysłuchanie albo tryb odwoławczy, skoro skutek dotyczy tu już własnego zgłoszenia Uczestnika, a nie tylko wystawionej przez niego oceny.
-   - Czy przy Uczestnikach od 16 do 18 lat skutek ten wymaga odrębnego poinformowania opiekuna prawnego.
-
-## Ch. Trzy pytania do rozstrzygnięcia niezależnie od dalszej redakcji (dodane 1.11.2026)
-
-Te trzy pytania wyszły z czterech wewnętrznych czytań regulaminu i **nie zależą od kolejnych poprawek redakcyjnych** - dopóki nie będzie na nie odpowiedzi, odpowiednie przepisy stoją w regulaminie w wersji ostrożnej, czyli zawężonej. Proszę o nie w pierwszej kolejności.
-
-1. **Podstawa przetwarzania danych szczególnych kategorii w rundzie uczestników.** Zgoda z § 6a ust. 2a obejmuje przetwarzanie danych szczególnych kategorii na potrzeby oceny przez Organizatora, akademię i jury (art. 9 ust. 2 lit. a RODO). Runda uczestników (§ 8 ust. 10c) powierza pierwszą kwalifikację samym Uczestnikom, czyli osobom postronnym, a udział w niej jest warunkiem rozpatrzenia zgłoszenia. Do 1.11.2026 regulamin tego nie rozstrzygał; dziś takie zgłoszenia **pomijają rundy uczestników i idą wprost do akademii** (§ 6a ust. 3a1).
-
-   - Czy to wyłączenie jest wystarczające, czy też sam fakt, że rozmowa zawiera dane szczególnych kategorii, może wynikać dopiero z jej treści - a wtedy wyłączenie trzeba oprzeć na oświadczeniu Uczestnika, które może być nieprawdziwe albo niepełne.
-   - Czy alternatywą dopuszczalną byłoby rozszerzenie zgody z ust. 2a na Uczestników oceniających, przy obowiązku poufności z § 8 ust. 10c lit. b3 - i jak taką zgodę skonstruować, żeby nie była zgodą wymuszoną warunkiem udziału.
-   - Czy wyłączenie części zgłoszeń z rund uczestników nie tworzy nierównego traktowania w ramach tego samego plebiscytu, skoro ich autorzy nadal mają obowiązek oceniania cudzych rozmów.
-
-2. **Licencja na czas nieoznaczony udzielona przez osobę, która nie ukończyła 18 lat.** Po zmianie z 1.11.2026 licencja z § 11 ust. 3 trwa po pięciu latach bezterminowo w dwóch zakresach: utrzymania wpisu w Archiwum i dalszego udostępniania bezpłatnej antologii w wydanej postaci. Licencja na czas oznaczony nie podlega wypowiedzeniu, a granicą trwałości jest wniosek o usunięcie wpisu z Archiwum, który osoba niepełnoletnia i jej przedstawiciel mogą złożyć bez wskazania przyczyny do ukończenia 19 lat.
-
-   - Czy taka konstrukcja jest skuteczna wobec Uczestnika od 16 do 18 lat, działającego za zgodą przedstawiciela ustawowego, i czy nie wymaga zgody sądu opiekuńczego jako czynność przekraczająca zwykły zarząd.
-   - Czy część bezterminowa podlega wypowiedzeniu w trybie art. 68 ust. 1 prawa autorskiego, a jeżeli tak - jak pogodzić to z obietnicą trwałości Archiwum złożoną fundatorowi i z niewykonalnością wycofania pliku już pobranego.
-   - Czy prawo złożenia wniosku o usunięcie wpisu do ukończenia 19 lat jest wystarczającym zabezpieczeniem interesu osoby, która zgłosiła rozmowę jako szesnastolatek, czy należy je przedłużyć albo uczynić bezterminowym.
-
-3. **Obowiązek nieodpłatnego oceniania jako warunek rozpatrzenia zgłoszenia** - pytanie postawione już w sekcji Cg, które powtarzam tutaj, bo po czterech czytaniach jest jasne, że od niego zależy, czy mechanizm rund uczestników ma sens. Przy odpowiedzi przeczącej cała konstrukcja wypada z regulaminu i wracamy do zmiany trybu oceny przy dużym naborze, a wtedy przepustowość pierwszego przejścia ogranicza budżet, nie liczba zgłoszeń. Proszę o rozstrzygnięcie tego pytania **przed** analizą pozostałych szczegółów tego mechanizmu, żeby nie płacić za opinię o konstrukcji, która może nie przejść testu z art. 385[1] KC.
-
-## Ci. Dwa pytania z przejścia scalającego (dodane 1.11.2026, po szóstym czytaniu)
-
-Oba powstały z napraw wprowadzonych 1.11.2026 i oba dotyczą przepisów, które stoją w regulaminie w wersji działającej, ale o niesprawdzonej dopuszczalności.
-
-1. **Zastąpienie członków jury członkami akademii w składzie decydującym o odrzuceniu zgłoszenia.** Decyzje o odrzuceniu zgłoszenia z § 6 wymagają zgodnej opinii co najmniej dwóch członków jury. Liczba takich spraw rośnie wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób, więc przy bardzo dużym naborze etap ten nie domyka się w żadnym terminie. Dlatego powyżej liczby postępowań ogłoszonej przed naborem dwóch jurorów zastępuje dwóch wskazanych wcześniej członków akademii, z wyłączeniem decyzji rozstrzygających o dziesiątce antologii.
-
-   - Czy przy przyrzeczeniu publicznym (art. 919 KC) można przenieść na inny organ decyzję o odrzuceniu zgłoszenia, jeżeli ogłoszenie o otwarciu naboru podaje z góry zarówno próg, jak i skład zastępczy.
-   - Czy nie jest to postanowienie niedozwolone w rozumieniu art. 385(1) KC przez to, że o najcięższym skutku rozstrzyga organ o słabszej pozycji niż ten wskazany jako podstawowy - i czy wystarczającym zabezpieczeniem jest pozostawienie przy jury decyzji dotyczących zgłoszeń będących w rundzie drugiej.
-   - Czy zbiorcze rozpoznanie spraw dotyczących tej samej kwestii, z osobnym zawiadomieniem każdego Uczestnika, spełnia wymóg indywidualnego rozpoznania sprawy.
-
-2. **Obowiązek oceniania obciążający Uczestnika, którego własne zgłoszenie rund nie przechodzi.** Zgłoszenie zawierające dane szczególnych kategorii pomija rundy uczestników (§ 6a ust. 3a1), bo zgoda z art. 9 ust. 2 lit. a RODO nie obejmuje osób postronnych. Jego autor bierze jednak w rundach udział jako oceniający, a niewykonanie odczytów powoduje, że jego zgłoszenie nie jest rozpatrywane dalej również na ścieżce akademii. Alternatywą byłoby zwolnienie go z obowiązku - odrzucone, bo tworzyłoby jedyną w regulaminie ścieżkę zwalniającą z oceniania, uruchamianą oświadczeniem samego Uczestnika.
-
-   - Czy obowiązek świadczenia nieodpłatnego może być warunkiem rozpatrzenia zgłoszenia, które samo z tego świadczenia nie korzysta, skoro nikt inny go nie ocenia w tej rundzie.
-   - Czy odwrotnie - zwolnienie tej grupy z obowiązku nie byłoby uprzywilejowaniem ze względu na cechę chronioną, skoro przesłanką pominięcia rund jest treść rozmowy dotycząca zdrowia, poglądów, wyznania albo innej takiej cechy.
-
-   To pytanie jest wariantem pytania 3 z sekcji Ch i ma sens tylko przy odpowiedzi twierdzącej na tamto.
-
-## Cj. Trzy kwestie wskazane przez recenzenta jako pierwszorzędne (dodane 1.11.2026)
-
-Regulamin przeczytał niezależny recenzent w roli pełnomocnika uczestnika, który szuka podstaw do podważenia rozstrzygnięcia. Jego wniosek końcowy: **największe ryzyko prawne nie tkwi w tym, jak jury wybierze zwycięzcę, lecz w tym, co stanie się z uczestnikami, jeżeli edycja nie zostanie rozstrzygnięta.** Pełna recenzja w `recenzje/2026-11-01-regulamin-rozmowy-oczami-pelnomocnika-uczestnika.md`. Trzy kwestie wskazał jako wymagające szczególnie dokładnej pracy kancelarii; wszystkie trzy zostały w regulaminie zmienione jeszcze tego samego dnia, ale **żadna z tych zmian nie zastępuje odpowiedzi prawnej**.
-
-1. **Wyłączenie roszczeń przy nierozstrzygnięciu edycji (§ 10 ust. 4).** Przepis wyłączał wszelkie roszczenia przy każdej podstawie nierozstrzygnięcia, w tym przy nieustaleniu werdyktu do daty granicznej, które jest ryzykiem organizacyjnym, a nie oceną jakości zgłoszeń. Został zawężony: dziś wyłącza roszczenie o nagrodę, a nie odpowiedzialność za niewykonanie własnych obowiązków, z wyraźnym odesłaniem do art. 471 i art. 473 § 2 KC.
-
-   - Czy zawężone brzmienie jest wystarczające, czy klauzula w jakimkolwiek kształcie pozostaje zarzutem z art. 385(1) w związku z art. 385(3) pkt 2 KC.
-   - Czy fundacja prowadząca Nagrodę jest w tym stosunku przedsiębiorcą w rozumieniu KC, a uczestnik konsumentem - recenzent wprost odmówił przesądzenia tego i uznał za kwestię wymagającą oceny rzeczywistej działalności.
-   - Czy rozgraniczenie podstaw (ust. 1 i 2 bez roszczenia odszkodowawczego, ust. 2a z zachowaniem odpowiedzialności) daje się obronić, czy również przy zbyt małej liczbie zgłoszeń odpowiedzialności wyłączyć nie można.
-
-2. **Przesunięcie nieograniczone w dniach wobec daty granicznej (§ 8 ust. 10b w związku z § 1b ust. 3).** Nabór nie ma limitu, nadmiaru zgłoszeń odrzucić nie wolno, czas oceny może zostać przesunięty, a granicą jest 31 sierpnia 2028 r. Recenzent zwraca uwagę, że uczestnik może przez znaczną część 2028 roku nie wiedzieć, kiedy edycja się skończy, bo regulamin nie wyznacza terminu na podanie przewidywanego czasu oceny.
-
-   - Czy przy przyrzeczeniu publicznym dopuszczalne jest przesunięcie nieograniczone w dniach, jeżeli jego przesłanka jest mierzalna i ogłoszona z góry.
-   - Czy należy wprowadzić obowiązek podania przewidywanego terminu zakończenia oceny, a jeżeli tak - z jaką sankcją za jego niedochowanie.
-   - Czy otwarcie naboru bez limitu przy znanej z góry przepustowości jest samo w sobie zaniedbaniem organizatora, czy przeciwnie - brak limitu jest wymogiem uczciwości przyrzeczenia.
-
-3. **Zgodność bezterminowego Archiwum z RODO (§ 11 ust. 3 i § 12).** Podstawa „wykonanie stosunku prawnego powstałego ze zgłoszenia” obejmowała wszystkie operacje, od przyjęcia zgłoszenia do bezterminowej publikacji pełnych rozmów i jawnych ocen wszystkich uczestników. Podstawy zostały rozdzielone na cztery grupy, a dwie z nich oparte na art. 6 ust. 1 lit. f, z obowiązkiem przeprowadzenia i udokumentowania testu przed otwarciem naboru.
-
-   - Czy test z art. 6 ust. 1 lit. f da się dla tych dwóch operacji przeprowadzić z wynikiem pozytywnym, a jeżeli tak - jakiego zakresu danych dotyczy.
-   - Jak pogodzić bezterminowość wpisu z zasadą ograniczenia przechowywania z art. 5 ust. 1 lit. e RODO; czy wyjątek archiwizacyjny z art. 89 jest tu dostępny dla fundacji i jakich zabezpieczeń wymaga.
-   - Jeżeli odpowiedź jest przecząca: czy wystarczy wariant awaryjny z § 11 ust. 11 lit. h (Archiwum bez kopii rozmów), czy należy ogłosić skończony okres przechowywania - i jaki.
-   - Czy jawna punktacja **wszystkich** zgłoszeń, także nienagrodzonych, utrzymuje się przy tym teście, czy należy ją ograniczyć do zgłoszeń nagrodzonych albo do postaci nieidentyfikującej.
-
-**Czwarte pytanie, którego recenzent nie postawił jako osobnego, a które z jego analizy wynika.** Uczestnik nie może udzielić zgody na przetwarzanie danych szczególnych kategorii dotyczących innej osoby, a rozmowa może je zawierać, zanim ktokolwiek ją przeczyta. Regulamin reaguje na to po wpływie zgłoszenia (§ 6a ust. 4, § 6 pkt 13). Czy ta konstrukcja wystarcza, czy wymagane jest ograniczenie przetwarzania **od chwili wpływu**, przed pierwszym odczytem - co przy każdym zgłoszeniu oznaczałoby wstępny przegląd treści przez Organizatora, czyli dokładnie to, czego § 8 ust. 3a lit. d nie przewiduje, bo nie skaluje się z liczbą zgłoszeń.
-
-## Ck. Pytania przeniesione z regulaminów piosenki, plakatu i filmu (1.11.2026)
-
-Trzy regulaminy miały na końcu, po ostatnim paragrafie, własne wykazy miejsc wymagających potwierdzenia przez kancelarię. Wykazy te były częścią publikowanego dokumentu, mimo że nie są normą i wskazują wprost, które postanowienia uważamy za niepewne. Przeniesiono je tutaj w całości, bez skrótów; **numeracja punktów jest numeracją z tych wykazów**, a odesłania do paragrafów dotyczą odpowiedniego regulaminu, nie regulaminu rozmowy.
-
-### Regulamin plebiscytu na piosenki
-
-## Miejsca wymagające potwierdzenia przez kancelarię
-
-**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
-
-Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/dokument/prawnik) i wskazuje konkretne jednostki redakcyjne, nie obszary. Pytania merytoryczne zebrane są w [prawnik-plebiscyt](/dokument/prawnik-plebiscyt).
-
-1. **§ 3 ust. 1-3** – granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy. Czy rozbicie jest skuteczne i czy zgoda w zakresie licencji wymaga formy szczególnej.
-2. **§ 3 ust. 5 w związku z § 10 ust. 7** – dopuszczenie zgłoszeń osób najbliższych członkom jury przy jednoczesnym samowyłączeniu. Czy to wystarcza, czy potrzebne jest wyłączenie podmiotowe.
-3. **§ 5 ust. 1** – link jako forma zgłoszenia.
-4. **§ 6 ust. 2-4** – konstrukcja reprezentanta składu: czy oświadczenie wystarcza, czy potrzebne jest pełnomocnictwo, oraz skutki podatkowe wypłaty całości nagrody reprezentantowi.
-5. **§ 7 ust. 2** – sformułowanie zakazu przy melodii tak, by odróżniało przejęcie od inspiracji w sposób nadający się do zastosowania w sporze.
-6. **§ 7 ust. 4 i 6** – czy deklaracja sposobu powstania tekstu, bez podawania proporcji i bez progu własnej pracy, jest wystarczającą podstawą wyłączenia w razie wykazania jej nieprawdziwości. Tekst może pochodzić od narzędzia w całości, więc jedynym naruszeniem jest nieprawdziwa deklaracja; prosimy o ocenę, czy taka konstrukcja wystarcza przy przyrzeczeniu publicznym.
-7. **§ 8 ust. 2 lit. d-f** – trzy wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: język polski, czas trwania, brak wcześniejszego wydania komercyjnego. Czy którykolwiek rodzi ryzyko zarzutu nierównego traktowania.
-8. **§ 8 ust. 4** – wyłączenie z powodu niedostępności materiału jako podstawa odrębna od rozstrzygnięcia o naruszeniu praw.
-9. **§ 12 ust. 3** – sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
-10. **§ 12 ust. 6** – podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu plebiscytu na rozmowę.
-11. **§ 13 ust. 3** – przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
-12. **§ 14 ust. 2-5** – oczekiwanie obecności laureatów czołowej trójki na gali przy jednoczesnym zastrzeżeniu, że nieobecność ani odmowa wykonania utworu na żywo nie pozbawiają nagrody pieniężnej, oraz zakres pokrycia kosztów dojazdu i noclegu całej dziesiątki.
-13. **§ 15 ust. 2-3** – brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
-14. **§ 15 ust. 5 zdanie drugie** – wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
-15. **§ 5 ust. 6 i 6a** – wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
-15a. **§ 11 ust. 2** – Nagroda dla publicznych ocen zgłoszonych piosenek jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
-16. **§ 16 ust. 5** – żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
-17. **§ 17 ust. 1** – progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
-18. **§ 19 ust. 2-3** – przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
-
-### Regulamin plebiscytu na plakatu
-
-## Miejsca wymagające potwierdzenia przez kancelarię
-
-**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
-
-Lista wskazuje konkretne jednostki redakcyjne, nie obszary – tak samo jak przy regulaminie Nagrody i regulaminie plebiscytu na piosenkę.
-
-1. **§ 3 ust. 1-2** – granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy, w tym zgody na wysyłkę oryginału pracy należącej do osoby niepełnoletniej.
-2. **§ 5 ust. 2 lit. d-e** – wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: format pionowy i minimalny wymiar oryginału oraz brak wcześniejszej publikacji. Czy rodzą ryzyko zarzutu nierównego traktowania.
-3. **§ 6 ust. 2** – sformułowanie zakazu tak, by odróżniało przejęcie obrazu wygenerowanego od inspiracji, w sposób nadający się do zastosowania w sporze.
-4. **§ 4a w związku z § 6 ust. 6 i § 15** – obowiązkowe nagranie z powstawania pracy. Prosimy o ocenę: czy wymóg przesłania nagrania, na którym widoczna jest ręka Uczestnika, jest proporcjonalny w rozumieniu RODO i wystarczająco jednoznaczny wobec konsumenta; jaka jest podstawa przetwarzania wizerunku utrwalonego w nagraniu, skoro nagranie jest warunkiem udziału, a nie przedmiotem zgody; czy zapewnienie z § 4a ust. 6 o niepublikowaniu nagrania wymaga odzwierciedlenia w polityce prywatności i w umowie z oceniającymi; oraz czy nagranie jest wystarczającą podstawą wykluczenia z § 15 ust. 5, gdy przeczy oświadczeniu z § 6 ust. 5. Odrębnie prosimy o ocenę wymogu z § 4a ust. 3 lit. c1 – nagranie musi zawierać nieprzerwane przejście od twarzy Uczestnika do pracy, więc wizerunek twarzy jest warunkiem udziału w plebiscycie, także wobec Uczestnika, który nie ukończył 18 lat (§ 3 ust. 2); prosimy o wskazanie, czy zgoda przedstawiciela ustawowego powinna obejmować ten zakres wyraźnie i odrębnie.
-5. **§ 9 ust. 3** – sposób rozliczenia podatku; decyzja wspólna z pulą nagrody głównej i z plebiscytem na piosenkę, dotąd niepodjęta.
-6. **§ 10** – odpowiedzialność Organizatora za powierzony oryginał: zakres ubezpieczenia, podstawa odpowiedzialności przy uszkodzeniu lub utracie, a także to, czy potrzebna jest odrębna umowa przechowania z każdym finalistą.
-7a. **§ 13 ust. 2 lit. d i ust. 4 w nowym brzmieniu** – czy uczynienie zgody na wykorzystanie pracy zwycięskiej na okładce antologii **warunkiem udziału** jest wobec konsumenta proporcjonalne, skoro dotyczy wyłącznie jednej osoby i jest ogłaszane przed naborem; oraz czy zapis awaryjny z § 9 ust. 4a1 – reprodukcja całej pracy bez kadrowania przy braku porozumienia co do formy – jest wystarczający wobec prawa do nienaruszalności formy utworu, którego nie da się zrzec.
-7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** – zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.
-8. **§ 13 ust. 6** – skuteczność zastrzeżenia, że zbycie oryginału nie wpływa na udzieloną licencję, wobec nabywcy, który nie jest stroną regulaminu.
-9. **§ 14 ust. 1-7** – **najcięższy punkt tej listy.** Czy cicha licytacja prowadzona przez fundację przy wystawie, na rzecz osoby prywatnej i z podziałem przychodu po połowie, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; oraz jakie są obowiązki podatkowe po obu stronach. Odrębnie prosimy o ocenę **ust. 6 i 6a** – zwrotu pracy niesprzedanej po zakończeniu wystaw oraz postępowania z pracą sprzedaną, lecz nieopłaconą albo nieodebraną przez nabywcę, w tym granic przechowywania jej przez Organizatora.
-9z. **§ 14 ust. 8-8d** – publikowanie w Archiwum linku do własnej aukcji Uczestnika wraz z datą jej zakończenia, przy wyraźnym wyłączeniu pośrednictwa i udziału w przychodzie. Prosimy o ocenę, czy taka prezentacja nie czyni Organizatora pośrednikiem albo reklamodawcą, jakie oznaczenie odróżnia ją od oferty własnej Organizatora, jaka jest jego odpowiedzialność za treść linku i za nieuczciwą transakcję osoby trzeciej, oraz czy wobec Uczestnika między 16 a 18 rokiem życia wystarcza zgoda przedstawiciela ustawowego na samo wskazanie linku, skoro stroną sprzedaży jest ta osoba, a nie Organizator.
-
-9a. **§ 8 ust. 4c-4d** – werdykt zapada przed galą, a laureaci zachowują go w poufności do publicznego ogłoszenia, ponieważ antologia z okładką musi zdążyć do druku. Prosimy o wskazanie, czy przy przyrzeczeniu publicznym dopuszczalne jest odroczenie ogłoszenia wyniku względem jego ustalenia i jak zapisać obowiązek poufności, żeby jego naruszenie nie pozbawiało laureata nagrody.
-
-9b. **§ 15 ust. 1a** – tryb rozpoznania zastrzeżenia oznaczonego przez oceniającego: czy wystarcza zawiadomienie, 14 dni na wyjaśnienia i rozstrzygnięcie Organizatora z uzasadnieniem, czy wobec konsumenta potrzebna jest droga odwoławcza, skoro § 8 ust. 6 czyni werdykt ostatecznym.
-9c. **§ 10 ust. 1-3b** – ubezpieczenie i odpowiedzialność za cały czas, w którym praca pozostaje u Organizatora, w tym za kilkumiesięczne przechowywanie między przyjęciem pracy i galą; termin nadania przesyłki zwrotnej zamiast terminu doręczenia; limit 150 dni liczony od dnia odbioru pracy oraz obowiązek zapewnienia opakowania. Odrębnie prosimy o ocenę **ust. 3a** – wystawa w galerii sztuki jest wyłączona z przyrzeczenia publicznego i oferowana finalistom odrębną propozycją, w której określa się czas pozostawania pracy u Organizatora, ubezpieczenie i zwrot. Prosimy o wskazanie, czy taka propozycja powinna mieć postać odrębnej umowy z finalistą i czy wyłączenie jej z regulaminu nie rodzi ryzyka zarzutu, że część świadczenia plebiscytowego została wyprowadzona poza przyrzeczenie.
-
-10. **§ 16 ust. 1** – progi nierozstrzygnięcia edycji przyjęte bez podstawy prawnej.
-11. **§ 18 ust. 2-3** – przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
-
-### Regulamin plebiscytu na filmu
-
-## Miejsca wymagające przeglądu prawnego
-
-**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
-
-Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które do takiej konsultacji trafiają:
-
-1. **Zakres licencji z § 12 ust. 2** – w szczególności prezentacja zwiastuna w zapisie wideo gali udostępnianym bezterminowo, przy licencji na pięć lat.
-2. **Oświadczenie z § 12 ust. 1 lit. a** przy filmach zespołowych – czy oświadczenie osoby zgłaszającej wystarcza, czy potrzebne są zgody współtwórców i wykonawców.
-3. **Prawa do muzyki** użytej w zwiastunie i w filmie, w tym muzyki licencjonowanej na użytek internetowy, a odtwarzanej następnie publicznie podczas gali i w zapisie wideo – czy oświadczenie z § 12 ust. 1 lit. a1 jest tu wystarczającą konstrukcją.
-3a. **Rozliczenie z organizacją zbiorowego zarządzania (§ 12 ust. 2a)** – w jakim zakresie publiczne odtworzenie zwiastunów podczas gali wymaga rozliczenia niezależnie od uprawnień Uczestnika, oraz czy postanowienie o pozostawieniu tego obowiązku przy Organizatorze jest wystarczające; osobno, czy jakakolwiek klauzula przenosząca na Uczestnika-konsumenta odpowiedzialność wobec osób trzecich byłaby w tym regulaminie dopuszczalna.
-3b. **Zwiastun jako warunek zgłoszenia (§ 4 ust. 1 lit. a1)** – czy wymóg dostarczenia utworu odrębnego od zgłaszanego filmu, nieobjętego oceną, jest wobec konsumenta dopuszczalny, oraz czy zakres licencji z § 12 ust. 2 lit. b i c prawidłowo obejmuje pobranie i techniczne przygotowanie zwiastuna do emisji.
-4. **Brak zakazu użycia narzędzi sztucznej inteligencji (§ 6)** wobec stanu prawnego dotyczącego utworów generowanych – czy film wygenerowany w całości może być przedmiotem nagrody i czyim utworem jest.
-5. **Wizerunek osób występujących** i wystarczalność oświadczenia Uczestnika z § 12 ust. 1 lit. d.
-6. **Termin wycofania zgłoszenia (§ 13)** – skuteczność wobec konsumenta.
-6a. **Brak wyłączności (§ 3a ust. 2 i 4)** - czy zezwolenie na równoległe zgłaszanie filmu do innych konkursów, przy jednoczesnym obowiązku publikacji filmu w serwisie wideo i utrzymania jego dostępności do zamknięcia głosowania publiczności, jest wobec konsumenta wystarczająco jednoznaczne.
-7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy linku prezentowanym na stronie Nagrody.
-8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** – czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
-9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** – czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
-10. **Wersja plebiscytowa (§ 11 ust. 6-6b)** – czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.
-
-## Cl. Udział członków akademii w postępowaniach o odrzucenie zgłoszenia - pytania sponsora pierwszej rundy
-
-Konstrukcja: decyzję o odrzuceniu zgłoszenia za treści bezprawne, zarzuty wobec osób trzecich albo dane osoby postronnej podejmuje Organizator wspólnie z co najmniej dwoma członkami jury (§ 6 regulaminu rozmowy). Powyżej liczby postępowań ogłoszonej przed naborem miejsce dwojga jurorów zajmuje dwoje wskazanych wcześniej członków akademii. Dopuszczalność samego zastąpienia pytam w sekcji Ci; poniżej cztery pytania, które postawił podmiot mający finansować honoraria akademii, i które wiążą się z tym, że **finansujący ocenę finansuje wtedy także udział w postępowaniu o charakterze prawnym**.
+Konstrukcja: decyzję o odrzuceniu zgłoszenia za treści bezprawne, zarzuty wobec osób trzecich albo dane osoby postronnej podejmuje Organizator wspólnie z co najmniej dwoma członkami jury (§ 6 regulaminu rozmowy). Powyżej liczby postępowań ogłoszonej przed naborem miejsce dwojga jurorów zajmuje dwoje wskazanych wcześniej członków akademii. Dopuszczalność samego zastąpienia jest pytaniem podstawowym, postawionym na końcu tej części; poniżej cztery pytania, które postawił podmiot mający finansować honoraria akademii, i które wiążą się z tym, że **finansujący ocenę finansuje wtedy także udział w postępowaniu o charakterze prawnym**.
 
 1. **Kwalifikacje.** Czy członek akademii dobrany według kompetencji do oceniania rozmowy (karta oceny, kryteria merytoryczne) może brać udział w decyzji o bezprawności treści, naruszeniu dóbr osobistych osoby trzeciej albo przetwarzaniu danych osoby postronnej - bez kwalifikacji, których karta oceny nie wymaga? Jeżeli nie, czy wystarczy wymóg regulaminowy, by wskazani z góry członkowie akademii mieli takie kwalifikacje, czy konieczne jest powołanie osób spoza akademii?
 2. **Wyłączenia.** Jakie zasady wyłączenia stosuje się przy konflikcie interesów w tych postępowaniach i czy są szersze niż wyłączenie z oceniania? Pytanie ma dodatkowy wymiar, bo honoraria akademii finansuje sponsor, którego pracownicy mogą być członkami akademii: czy udział pracownika sponsora w decyzji o odrzuceniu zgłoszenia wymaga wyłączenia z mocy samego stosunku pracy, niezależnie od relacji ze zgłaszającym.
@@ -553,15 +103,63 @@ Konstrukcja: decyzję o odrzuceniu zgłoszenia za treści bezprawne, zarzuty wob
 
 Osobne pytanie z tej samej rozmowy, dotyczące już nie akademii, lecz sponsora: **czy regulamin albo umowa sponsorska powinny zawierać zamkniętą definicję podmiotu, który nie może finansować oceny.** Oferta rozdziela dziś dostawcę modelu (nie może) od dostawcy narzędzi, warstwy aplikacyjnej i usług opartych na cudzych modelach (może, przy ujawnieniu działalności i wyłączeniu osób w konflikcie). Pytanie jest o to, czy taka definicja jest potrzebna w regulaminie - a więc wiążąca wobec uczestników - czy wystarcza w umowie, i czy jej brak może być podstawą zarzutu wobec werdyktu.
 
-## D. Załączniki
+**Pytanie podstawowe, od którego zależą cztery powyższe.**
 
-- [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
-- [Prawa do wypowiedzi modelu](/dokument/prawa-do-wypowiedzi-modelu) - przegląd doktryny i precedensów do obszaru 3
+1. **Zastąpienie członków jury członkami akademii w składzie decydującym o odrzuceniu zgłoszenia.** Decyzje o odrzuceniu zgłoszenia z § 6 wymagają zgodnej opinii co najmniej dwóch członków jury. Liczba takich spraw rośnie wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób, więc przy bardzo dużym naborze etap ten nie domyka się w żadnym terminie. Dlatego powyżej liczby postępowań ogłoszonej przed naborem dwóch jurorów zastępuje dwóch wskazanych wcześniej członków akademii, z wyłączeniem decyzji rozstrzygających o dziesiątce antologii.
+
+   - Czy przy przyrzeczeniu publicznym (art. 919 KC) można przenieść na inny organ decyzję o odrzuceniu zgłoszenia, jeżeli ogłoszenie o otwarciu naboru podaje z góry zarówno próg, jak i skład zastępczy.
+   - Czy nie jest to postanowienie niedozwolone w rozumieniu art. 385(1) KC przez to, że o najcięższym skutku rozstrzyga organ o słabszej pozycji niż ten wskazany jako podstawowy - i czy wystarczającym zabezpieczeniem jest pozostawienie przy jury decyzji dotyczących zgłoszeń będących w rundzie drugiej.
+   - Czy zbiorcze rozpoznanie spraw dotyczących tej samej kwestii, z osobnym zawiadomieniem każdego Uczestnika, spełnia wymóg indywidualnego rozpoznania sprawy.
+
+## G. Sponsor akademii i vouchery dla oceniających
+
+Rozważamy osobnego sponsora pierwszej rundy oceny - najprawdopodobniej sieć handlową - który finansowałby pracę czytelników akademii **świadczeniem rzeczowym**: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet akademii](/arkusz/budzet-edycji-pierwszej#budzet-akademii).
+
+29. **Charakter świadczenia i podatek po stronie czytelnika.** Voucher otrzymywany przez czytelnika akademii - jak go zakwalifikować? Jeżeli czytelnik pracuje na podstawie umowy zlecenia, czy voucher stanowi część wynagrodzenia z tej umowy, czy odrębne świadczenie? Jeżeli czytelnik działa nieodpłatnie albo na podstawie porozumienia wolontariackiego, czy powstaje przychód z innych źródeł i obowiązek wystawienia PIT-11? Czy zastosowanie ma zwolnienie z art. 21 ustawy o PIT, a jeżeli tak, do jakiej kwoty? Jak to wygląda po stronie składek ZUS.
+
+30. **Rozliczenie między fundacją a sponsorem rzeczowym.** Sponsor przekazuje vouchery, a nie pieniądze. Czy po stronie Organizatora to darowizna rzeczowa, czy świadczenie wzajemne rozliczane fakturą za usługę promocyjną - tak jak zakładamy przy pozostałych budżetach? Jak ustalić podstawę opodatkowania VAT, skoro voucher ma nominał, a koszt wystawcy jest od niego niższy. Czy przekazanie voucherów dalej, czytelnikom, rodzi po stronie fundacji obowiązek w VAT.
+
+31. **Niezależność oceny wobec sponsora komercyjnego.** Sponsor finansuje ciało, które jako pierwsze punktuje zgłoszenia. Zamierzamy zapisać, że sponsor nie ma kontaktu z czytelnikami, dostępu do zgłoszeń przed ogłoszeniem wyników ani wpływu na przydziały, a jego udział jest jawny na stronie Nagrody i w antologii. Pytania: czy ten zestaw wystarczy, żeby wykluczyć zarzut wpływu na wynik plebiscytu; czy takie zastrzeżenie należy umieścić w regulaminie, czy wystarczy umowa sponsorska; czy fakt, że wysokość świadczenia zależy od liczby ocenionych rozmów, a nie od ich wyniku, ma tu znaczenie prawne.
+
+32. **Bodziec ilościowy a rzetelność oceny.** Świadczenie naliczane od liczby przeczytanych rozmów premiuje tempo. Rozważamy przestawienie jednostki na **ukończony przydział czytelnika** zamiast na liczbę rozmów. Czy z punktu widzenia odpowiedzialności Organizatora za rzetelność rozstrzygnięcia któraś z tych konstrukcji jest wyraźnie bezpieczniejsza.
+
+## H. Statut i ciągłość organizatora
+
+33. **Niezdolność albo śmierć fundatora.** Nagroda zaciąga zobowiązania rozciągnięte na dwa lata: przyrzeczenie publiczne co do puli nagród, licencje od uczestników, obietnica utrzymania Archiwum. Dziś cała wiedza, dostępy i reprezentacja skupiają się na jednej osobie. Jakie zapisy w statucie fundacji zabezpieczają ciągłość na wypadek długotrwałej choroby albo śmierci fundatora - w szczególności: sposób powoływania i odwoływania zarządu bez udziału fundatora, reprezentacja przy wakacie w zarządzie, organ uprawniony do zmiany statutu i do rozstrzygnięcia o dalszym losie fundacji, oraz tryb wykonania zobowiązań wobec uczestników, gdyby edycja była w toku. Czy przy fundacji jednoosobowego fundatora rekomendują Państwo radę fundacji jako organ nadzoru, czy inne rozwiązanie.
+
+34. **Zabezpieczenie puli nagród.** Przyjęta zasada: ogłaszamy wyłącznie te kwoty, które wpłynęły wcześniej na rachunek Organizatora (§ 9 ust. 2a regulaminu). Czy ten zapis wystarczy, żeby wyłączyć odpowiedzialność Organizatora za część puli przyrzeczoną przez partnera, lecz niewpłaconą. Jakie postanowienia umowy sponsorskiej są potrzebne, żeby termin wpłaty wyprzedzał dzień otwarcia naboru i żeby niewpłacenie nie rodziło roszczeń uczestników.
+
+## I. Relacje fundacja - fundator, uczniowska akademia
+
+18. **Zlecanie usług informatycznych przez fundację jednoosobowej działalności fundatora.** Fundator jest jednocześnie prezesem zarządu fundacji i prowadzi JDG świadczącą usługi informatyczne; znaczna część prac przy Nagrodzie (panel oceny, narzędzie do weryfikacji formalnej, kopia archiwalna, publiczne Archiwum) to właśnie takie usługi. Pytania: czy reprezentacja przez Radę Fundacji na podstawie § 21 pkt 1 statutu jest wystarczająca do zawarcia takiej umowy i czy wymaga uchwały; jakie wymogi wynikają z powiązania podmiotów w zakresie ceny rynkowej przy tej skali; czy i jak ujawniać to w sprawozdaniu rocznym oraz wobec sponsorów; czy taka praktyka zamyka albo utrudnia późniejsze uzyskanie statusu organizacji pożytku publicznego.
+
+19. **§ 3 ust. 5c - wyłączenie twórców materiałów Nagrody.** Przepis dodany 22.10.2026 po tym, jak pojawił się pierwszy realny wykonawca piosenki Nagrody. Pytania: czy wyłączenie osoby, z którą zawiera się odpłatną umowę o dzieło, wymaga jej zgody albo wzmianki w tej umowie; czy zawężenie wyłączenia wyłącznie do twórcy, bez osób najbliższych, jest w tym wypadku obronialne na tle ust. 5; czy sformułowanie "materiał własny Nagrody" jest dość określone.
+
+20. **Uczniowska akademia a zgoda uczestnika i dane osobowe.** Planowana jest druga, uczniowska akademia czytająca te same zgłoszenia co akademia dorosła, złożona w większości z osób niepełnoletnich, zgłaszanych przez szkoły. Pytania: czy wystarczy opisanie tego w regulaminie i w polityce prywatności przed otwarciem naboru, czy potrzebna jest odrębna zgoda uczestnika na udostępnienie jego rozmowy osobom niepełnoletnim; jakie obowiązki rodzi po stronie Organizatora przetwarzanie danych przez niepełnoletnich czytelników i czy potrzebne są zgody ich opiekunów; czy szkoła zgłaszająca uczniów powinna być w tym układzie podmiotem przetwarzającym, czy wystarczy porozumienie o współpracy. Prosimy też o ocenę przyjętego trybu weryfikacji: grupę zgłasza szkoła wskazana numerem w Rejestrze Szkół i Placówek Oświatowych, a kod potwierdzający Organizator wysyła na adres tej szkoły z rejestru; Organizator nie zbiera żadnych danych uczniów, a lista osób czytających pozostaje w szkole. Czy przy takiej konstrukcji po stronie Organizatora powstaje w ogóle przetwarzanie danych uczniów i czy potrzebna jest umowa powierzenia ze szkołą.
+
+## J. Polityka prywatności
+
+11. **Pkt 4, „Jak długo"** - *Rozstrzygnięte 22.10.2026 przez księgowego: co najmniej 5 lat, licząc od początku roku następującego po roku obrotowym, w którym zatwierdzono sprawozdanie finansowe. Wpisane do polityki prywatności.*
+12. **Pkt 5** - dane osób trzecich w treści rozmowy: czy przerzucenie odpowiedzialności na Uczestnika wraz z odrzuceniem zgłoszenia na etapie formalnym jest wystarczające. **Wiąże się z obszarem 1.**
+13. **Pkt 7** - aktualna podstawa przekazywania danych do Stanów Zjednoczonych przy hostingu u GitHub, Inc.
+
+## K. Analityka strony
+
+23. **Analityka bezcookiesowa.** Strona nie ma dziś żadnej analityki ani komunikatu o ciasteczkach i chcę to utrzymać, ale potrzebuję podstawowych danych o ruchu, żeby móc ocenić skuteczność kampanii przed naborem. Rozważane narzędzia nie zapisują niczego na urządzeniu odwiedzającego: **Plausible** (serwery w UE, usługa płatna), **Umami** (otwarty kod, hostowany samodzielnie), **GoatCounter** oraz **Cloudflare Web Analytics**. Pytania: czy przy takich narzędziach odpada obowiązek uzyskania zgody na przechowywanie informacji w urządzeniu końcowym; jaka podstawa prawna właściwa jest dla przetwarzania adresu IP i danych o wizycie i jak opisać to w polityce prywatności; czy przy **Cloudflare Web Analytics**, wobec amerykańskiej przynależności dostawcy, da się utrzymać deklarację, że dane nie opuszczają Europejskiego Obszaru Gospodarczego, a jeżeli nie, to na jakiej podstawie mogłyby być przekazywane - pytanie wiąże się z pkt 13 powyżej, dotyczącym hostingu u GitHub, Inc.
+
+## L. Materiały promocyjne
+
+28. **Rysunki dzieci w materiałach promocyjnych.** Filmy reklamujące Nagrodę i plebiscyt mają być animowaną wycinanką z rysunków dzieci. Pytania: jakiej zgody wymaga wykorzystanie pracy plastycznej dziecka w materiale promocyjnym podmiotu organizującego plebiscyt i czy wystarcza zgoda jednego rodzica; czy zakres takiej zgody musi obejmować rozpowszechnianie bez ograniczenia czasowego oraz emisję płatną w mediach społecznościowych; czy sytuacja zmienia się, gdy rysunki pochodzą ze szkoły biorącej udział w Uczniowskiej akademii, a zbiera je nauczyciel; oraz czy należy podpisywać autorów rysunków imieniem, skoro są to osoby niepełnoletnie. Wariantem rozważanym alternatywnie jest ilustrator dorosły rysujący stylizowaną „dziecięcą ręką" - prosimy o wskazanie, czy ten wariant zdejmuje problem w całości.
+
+## M. Załączniki
+
+- [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w [pytaniach o plebiscyt na rozmowę](/dokument/prawnik-rozmowy)
+- [Prawa do wypowiedzi modelu](/dokument/prawa-do-wypowiedzi-modelu) - przegląd doktryny i precedensów do pytań o status wypowiedzi modelu
 - [Polityka prywatności](/dokument/polityka-prywatnosci) - polityka prywatności do przepisania
 - [Przebieg edycji](/dokument/przebieg-edycji) - przebieg edycji krok po kroku, jeżeli pomocny jest kontekst operacyjny
 
-## E. O co proszę na początek
+## N. O co proszę na początek
 
-Nie o pełną opinię. O **wycenę i wskazanie, które z siedmiu obszarów wymagają analizy, a które da się zamknąć jednym akapitem**. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
+Nie o pełną opinię. O **wycenę i wskazanie, które części wymagają analizy, a które da się zamknąć jednym akapitem** - z osobną kwotą dla każdego z czterech plebiscytów, bo każdy ma własny harmonogram i własne źródło finansowania. Jeżeli wygodniej zacząć od rozmowy, jestem dostępny w dowolnym terminie.
 
-Zależy mi szczególnie na obszarach 1 i 2, ponieważ do czasu ich zamknięcia nie otwieram przyjmowania zgłoszeń, a więc nie przyjmuję żadnych danych osobowych, oraz na obszarze 6, ponieważ fundacja musi być wpisana do KRS przed otwarciem naboru, a termin rejestracji nie zależy ode mnie.
+Zależy mi szczególnie na dwóch pierwszych częściach pytań o plebiscyt na rozmowę - podstawach przetwarzania i wycofaniu zgody po publikacji - ponieważ do czasu ich zamknięcia nie otwieram przyjmowania zgłoszeń, a więc nie przyjmuję żadnych danych osobowych, oraz na części B tego pliku, ponieważ fundacja musi być wpisana do KRS przed otwarciem naboru, a termin rejestracji nie zależy ode mnie.
