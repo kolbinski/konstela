@@ -460,6 +460,88 @@ Regulamin przeczytał niezależny recenzent w roli pełnomocnika uczestnika, kt�
 
 **Czwarte pytanie, którego recenzent nie postawił jako osobnego, a które z jego analizy wynika.** Uczestnik nie może udzielić zgody na przetwarzanie danych szczególnych kategorii dotyczących innej osoby, a rozmowa może je zawierać, zanim ktokolwiek ją przeczyta. Regulamin reaguje na to po wpływie zgłoszenia (§ 6a ust. 4, § 6 pkt 13). Czy ta konstrukcja wystarcza, czy wymagane jest ograniczenie przetwarzania **od chwili wpływu**, przed pierwszym odczytem - co przy każdym zgłoszeniu oznaczałoby wstępny przegląd treści przez Organizatora, czyli dokładnie to, czego § 8 ust. 3a lit. d nie przewiduje, bo nie skaluje się z liczbą zgłoszeń.
 
+## Ck. Pytania przeniesione z regulaminów piosenki, plakatu i filmu (1.11.2026)
+
+Trzy regulaminy miały na końcu, po ostatnim paragrafie, własne wykazy miejsc wymagających potwierdzenia przez kancelarię. Wykazy te były częścią publikowanego dokumentu, mimo że nie są normą i wskazują wprost, które postanowienia uważamy za niepewne. Przeniesiono je tutaj w całości, bez skrótów; **numeracja punktów jest numeracją z tych wykazów**, a odesłania do paragrafów dotyczą odpowiedniego regulaminu, nie regulaminu rozmowy.
+
+### Regulamin plebiscytu na piosenki
+
+## Miejsca wymagające potwierdzenia przez kancelarię
+
+**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
+
+Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/dokument/prawnik) i wskazuje konkretne jednostki redakcyjne, nie obszary. Pytania merytoryczne zebrane są w [prawnik-plebiscyt](/dokument/prawnik-plebiscyt).
+
+1. **§ 3 ust. 1-3** – granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy. Czy rozbicie jest skuteczne i czy zgoda w zakresie licencji wymaga formy szczególnej.
+2. **§ 3 ust. 5 w związku z § 10 ust. 7** – dopuszczenie zgłoszeń osób najbliższych członkom jury przy jednoczesnym samowyłączeniu. Czy to wystarcza, czy potrzebne jest wyłączenie podmiotowe.
+3. **§ 5 ust. 1** – link jako forma zgłoszenia.
+4. **§ 6 ust. 2-4** – konstrukcja reprezentanta składu: czy oświadczenie wystarcza, czy potrzebne jest pełnomocnictwo, oraz skutki podatkowe wypłaty całości nagrody reprezentantowi.
+5. **§ 7 ust. 2** – sformułowanie zakazu przy melodii tak, by odróżniało przejęcie od inspiracji w sposób nadający się do zastosowania w sporze.
+6. **§ 7 ust. 4 i 6** – czy deklaracja sposobu powstania tekstu, bez podawania proporcji i bez progu własnej pracy, jest wystarczającą podstawą wyłączenia w razie wykazania jej nieprawdziwości. Tekst może pochodzić od narzędzia w całości, więc jedynym naruszeniem jest nieprawdziwa deklaracja; prosimy o ocenę, czy taka konstrukcja wystarcza przy przyrzeczeniu publicznym.
+7. **§ 8 ust. 2 lit. d-f** – trzy wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: język polski, czas trwania, brak wcześniejszego wydania komercyjnego. Czy którykolwiek rodzi ryzyko zarzutu nierównego traktowania.
+8. **§ 8 ust. 4** – wyłączenie z powodu niedostępności materiału jako podstawa odrębna od rozstrzygnięcia o naruszeniu praw.
+9. **§ 12 ust. 3** – sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
+10. **§ 12 ust. 6** – podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu plebiscytu na rozmowę.
+11. **§ 13 ust. 3** – przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
+12. **§ 14 ust. 2-5** – oczekiwanie obecności laureatów czołowej trójki na gali przy jednoczesnym zastrzeżeniu, że nieobecność ani odmowa wykonania utworu na żywo nie pozbawiają nagrody pieniężnej, oraz zakres pokrycia kosztów dojazdu i noclegu całej dziesiątki.
+13. **§ 15 ust. 2-3** – brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
+14. **§ 15 ust. 5 zdanie drugie** – wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
+15. **§ 5 ust. 6 i 6a** – wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
+15a. **§ 11 ust. 2** – Nagroda dla publicznych ocen zgłoszonych piosenek jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
+16. **§ 16 ust. 5** – żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
+17. **§ 17 ust. 1** – progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
+18. **§ 19 ust. 2-3** – przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
+
+### Regulamin plebiscytu na plakatu
+
+## Miejsca wymagające potwierdzenia przez kancelarię
+
+**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
+
+Lista wskazuje konkretne jednostki redakcyjne, nie obszary – tak samo jak przy regulaminie Nagrody i regulaminie plebiscytu na piosenkę.
+
+1. **§ 3 ust. 1-2** – granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy, w tym zgody na wysyłkę oryginału pracy należącej do osoby niepełnoletniej.
+2. **§ 5 ust. 2 lit. d-e** – wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: format pionowy i minimalny wymiar oryginału oraz brak wcześniejszej publikacji. Czy rodzą ryzyko zarzutu nierównego traktowania.
+3. **§ 6 ust. 2** – sformułowanie zakazu tak, by odróżniało przejęcie obrazu wygenerowanego od inspiracji, w sposób nadający się do zastosowania w sporze.
+4. **§ 4a w związku z § 6 ust. 6 i § 15** – obowiązkowe nagranie z powstawania pracy. Prosimy o ocenę: czy wymóg przesłania nagrania, na którym widoczna jest ręka Uczestnika, jest proporcjonalny w rozumieniu RODO i wystarczająco jednoznaczny wobec konsumenta; jaka jest podstawa przetwarzania wizerunku utrwalonego w nagraniu, skoro nagranie jest warunkiem udziału, a nie przedmiotem zgody; czy zapewnienie z § 4a ust. 6 o niepublikowaniu nagrania wymaga odzwierciedlenia w polityce prywatności i w umowie z oceniającymi; oraz czy nagranie jest wystarczającą podstawą wykluczenia z § 15 ust. 5, gdy przeczy oświadczeniu z § 6 ust. 5. Odrębnie prosimy o ocenę wymogu z § 4a ust. 3 lit. c1 – nagranie musi zawierać nieprzerwane przejście od twarzy Uczestnika do pracy, więc wizerunek twarzy jest warunkiem udziału w plebiscycie, także wobec Uczestnika, który nie ukończył 18 lat (§ 3 ust. 2); prosimy o wskazanie, czy zgoda przedstawiciela ustawowego powinna obejmować ten zakres wyraźnie i odrębnie.
+5. **§ 9 ust. 3** – sposób rozliczenia podatku; decyzja wspólna z pulą nagrody głównej i z plebiscytem na piosenkę, dotąd niepodjęta.
+6. **§ 10** – odpowiedzialność Organizatora za powierzony oryginał: zakres ubezpieczenia, podstawa odpowiedzialności przy uszkodzeniu lub utracie, a także to, czy potrzebna jest odrębna umowa przechowania z każdym finalistą.
+7a. **§ 13 ust. 2 lit. d i ust. 4 w nowym brzmieniu** – czy uczynienie zgody na wykorzystanie pracy zwycięskiej na okładce antologii **warunkiem udziału** jest wobec konsumenta proporcjonalne, skoro dotyczy wyłącznie jednej osoby i jest ogłaszane przed naborem; oraz czy zapis awaryjny z § 9 ust. 4a1 – reprodukcja całej pracy bez kadrowania przy braku porozumienia co do formy – jest wystarczający wobec prawa do nienaruszalności formy utworu, którego nie da się zrzec.
+7. **§ 13 ust. 2 lit. d, ust. 3 i ust. 4** – zakres i czas licencji na okładkę antologii, w tym przy wznowieniach i przy wydaniu płatnym, a także rozdzielenie zakresów na te, które są warunkiem udziału, i te, które wymagają odrębnej zgody. Rozdzielenie wprowadzono, ponieważ § 3 ust. 2 dopuszcza udział osoby niepełnoletniej bez zgody opiekuna na wybrane zakresy.
+8. **§ 13 ust. 6** – skuteczność zastrzeżenia, że zbycie oryginału nie wpływa na udzieloną licencję, wobec nabywcy, który nie jest stroną regulaminu.
+9. **§ 14 ust. 1-7** – **najcięższy punkt tej listy.** Czy cicha licytacja prowadzona przez fundację przy wystawie, na rzecz osoby prywatnej i z podziałem przychodu po połowie, jest zbiórką publiczną, działalnością odpłatną pożytku publicznego czy działalnością gospodarczą; czy wymaga umowy komisu albo pośrednictwa; oraz jakie są obowiązki podatkowe po obu stronach. Odrębnie prosimy o ocenę **ust. 6 i 6a** – zwrotu pracy niesprzedanej po zakończeniu wystaw oraz postępowania z pracą sprzedaną, lecz nieopłaconą albo nieodebraną przez nabywcę, w tym granic przechowywania jej przez Organizatora.
+9z. **§ 14 ust. 8-8d** – publikowanie w Archiwum linku do własnej aukcji Uczestnika wraz z datą jej zakończenia, przy wyraźnym wyłączeniu pośrednictwa i udziału w przychodzie. Prosimy o ocenę, czy taka prezentacja nie czyni Organizatora pośrednikiem albo reklamodawcą, jakie oznaczenie odróżnia ją od oferty własnej Organizatora, jaka jest jego odpowiedzialność za treść linku i za nieuczciwą transakcję osoby trzeciej, oraz czy wobec Uczestnika między 16 a 18 rokiem życia wystarcza zgoda przedstawiciela ustawowego na samo wskazanie linku, skoro stroną sprzedaży jest ta osoba, a nie Organizator.
+
+9a. **§ 8 ust. 4c-4d** – werdykt zapada przed galą, a laureaci zachowują go w poufności do publicznego ogłoszenia, ponieważ antologia z okładką musi zdążyć do druku. Prosimy o wskazanie, czy przy przyrzeczeniu publicznym dopuszczalne jest odroczenie ogłoszenia wyniku względem jego ustalenia i jak zapisać obowiązek poufności, żeby jego naruszenie nie pozbawiało laureata nagrody.
+
+9b. **§ 15 ust. 1a** – tryb rozpoznania zastrzeżenia oznaczonego przez oceniającego: czy wystarcza zawiadomienie, 14 dni na wyjaśnienia i rozstrzygnięcie Organizatora z uzasadnieniem, czy wobec konsumenta potrzebna jest droga odwoławcza, skoro § 8 ust. 6 czyni werdykt ostatecznym.
+9c. **§ 10 ust. 1-3b** – ubezpieczenie i odpowiedzialność za cały czas, w którym praca pozostaje u Organizatora, w tym za kilkumiesięczne przechowywanie między przyjęciem pracy i galą; termin nadania przesyłki zwrotnej zamiast terminu doręczenia; limit 150 dni liczony od dnia odbioru pracy oraz obowiązek zapewnienia opakowania. Odrębnie prosimy o ocenę **ust. 3a** – wystawa w galerii sztuki jest wyłączona z przyrzeczenia publicznego i oferowana finalistom odrębną propozycją, w której określa się czas pozostawania pracy u Organizatora, ubezpieczenie i zwrot. Prosimy o wskazanie, czy taka propozycja powinna mieć postać odrębnej umowy z finalistą i czy wyłączenie jej z regulaminu nie rodzi ryzyka zarzutu, że część świadczenia plebiscytowego została wyprowadzona poza przyrzeczenie.
+
+10. **§ 16 ust. 1** – progi nierozstrzygnięcia edycji przyjęte bez podstawy prawnej.
+11. **§ 18 ust. 2-3** – przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
+
+### Regulamin plebiscytu na filmu
+
+## Miejsca wymagające przeglądu prawnego
+
+**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
+
+Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które do takiej konsultacji trafiają:
+
+1. **Zakres licencji z § 12 ust. 2** – w szczególności prezentacja zwiastuna w zapisie wideo gali udostępnianym bezterminowo, przy licencji na pięć lat.
+2. **Oświadczenie z § 12 ust. 1 lit. a** przy filmach zespołowych – czy oświadczenie osoby zgłaszającej wystarcza, czy potrzebne są zgody współtwórców i wykonawców.
+3. **Prawa do muzyki** użytej w zwiastunie i w filmie, w tym muzyki licencjonowanej na użytek internetowy, a odtwarzanej następnie publicznie podczas gali i w zapisie wideo – czy oświadczenie z § 12 ust. 1 lit. a1 jest tu wystarczającą konstrukcją.
+3a. **Rozliczenie z organizacją zbiorowego zarządzania (§ 12 ust. 2a)** – w jakim zakresie publiczne odtworzenie zwiastunów podczas gali wymaga rozliczenia niezależnie od uprawnień Uczestnika, oraz czy postanowienie o pozostawieniu tego obowiązku przy Organizatorze jest wystarczające; osobno, czy jakakolwiek klauzula przenosząca na Uczestnika-konsumenta odpowiedzialność wobec osób trzecich byłaby w tym regulaminie dopuszczalna.
+3b. **Zwiastun jako warunek zgłoszenia (§ 4 ust. 1 lit. a1)** – czy wymóg dostarczenia utworu odrębnego od zgłaszanego filmu, nieobjętego oceną, jest wobec konsumenta dopuszczalny, oraz czy zakres licencji z § 12 ust. 2 lit. b i c prawidłowo obejmuje pobranie i techniczne przygotowanie zwiastuna do emisji.
+4. **Brak zakazu użycia narzędzi sztucznej inteligencji (§ 6)** wobec stanu prawnego dotyczącego utworów generowanych – czy film wygenerowany w całości może być przedmiotem nagrody i czyim utworem jest.
+5. **Wizerunek osób występujących** i wystarczalność oświadczenia Uczestnika z § 12 ust. 1 lit. d.
+6. **Termin wycofania zgłoszenia (§ 13)** – skuteczność wobec konsumenta.
+6a. **Brak wyłączności (§ 3a ust. 2 i 4)** - czy zezwolenie na równoległe zgłaszanie filmu do innych konkursów, przy jednoczesnym obowiązku publikacji filmu w serwisie wideo i utrzymania jego dostępności do zamknięcia głosowania publiczności, jest wobec konsumenta wystarczająco jednoznaczne.
+7. **Odpowiedzialność za treść filmu** pozostającego w serwisie Uczestnika, przy linku prezentowanym na stronie Nagrody.
+8. **Odrzucenie filmu promocyjnego i instruktażu (§ 5 ust. 4)** – czy granica jest wobec konsumenta wystarczająco jednoznaczna, skoro rozstrzyga się po obejrzeniu filmu, oraz czy wyliczenie z ust. 4a dostatecznie ogranicza swobodę oceny Organizatora.
+9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** – czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
+10. **Wersja plebiscytowa (§ 11 ust. 6-6b)** – czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca

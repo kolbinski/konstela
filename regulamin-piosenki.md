@@ -595,31 +595,3 @@ Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **
 4. W sprawach nieuregulowanych stosuje się przepisy prawa polskiego.
 
 5. Regulamin Nagrody Konstela stosuje się do plebiscytu wyłącznie w zakresie, w jakim niniejszy regulamin wprost do niego odsyła.
-
----
-
-## Miejsca wymagające potwierdzenia przez kancelarię
-
-**Lista poniżej jest częścią wersji roboczej, przeznaczonej do przeglądu prawnego.** W wersji ogłoszonej razem z naborem zostaje usunięta w całości, a rozstrzygnięcia z niej wynikające są wpisane do treści dokumentu.
-
-Lista odpowiada sekcji Ca w [pytaniach do kancelarii dotyczących Nagrody](/dokument/prawnik) i wskazuje konkretne jednostki redakcyjne, nie obszary. Pytania merytoryczne zebrane są w [prawnik-plebiscyt](/dokument/prawnik-plebiscyt).
-
-1. **§ 3 ust. 1-3** – granica 16 lat i konstrukcja zgody przedstawiciela ustawowego rozbitej na cztery zakresy. Czy rozbicie jest skuteczne i czy zgoda w zakresie licencji wymaga formy szczególnej.
-2. **§ 3 ust. 5 w związku z § 10 ust. 7** – dopuszczenie zgłoszeń osób najbliższych członkom jury przy jednoczesnym samowyłączeniu. Czy to wystarcza, czy potrzebne jest wyłączenie podmiotowe.
-3. **§ 5 ust. 1** – link jako forma zgłoszenia.
-4. **§ 6 ust. 2-4** – konstrukcja reprezentanta składu: czy oświadczenie wystarcza, czy potrzebne jest pełnomocnictwo, oraz skutki podatkowe wypłaty całości nagrody reprezentantowi.
-5. **§ 7 ust. 2** – sformułowanie zakazu przy melodii tak, by odróżniało przejęcie od inspiracji w sposób nadający się do zastosowania w sporze.
-6. **§ 7 ust. 4 i 6** – czy deklaracja sposobu powstania tekstu, bez podawania proporcji i bez progu własnej pracy, jest wystarczającą podstawą wyłączenia w razie wykazania jej nieprawdziwości. Tekst może pochodzić od narzędzia w całości, więc jedynym naruszeniem jest nieprawdziwa deklaracja; prosimy o ocenę, czy taka konstrukcja wystarcza przy przyrzeczeniu publicznym.
-7. **§ 8 ust. 2 lit. d-f** – trzy wymogi formalne przyjęte przez Organizatora bez podstawy prawnej: język polski, czas trwania, brak wcześniejszego wydania komercyjnego. Czy którykolwiek rodzi ryzyko zarzutu nierównego traktowania.
-8. **§ 8 ust. 4** – wyłączenie z powodu niedostępności materiału jako podstawa odrębna od rozstrzygnięcia o naruszeniu praw.
-9. **§ 12 ust. 3** – sposób rozliczenia podatku. Decyzja wspólna z pulą nagrody głównej, dotąd niepodjęta.
-10. **§ 12 ust. 6** – podstawienie kolejnego zgłoszenia z listy rankingowej, analogicznie do § 9 ust. 1a regulaminu plebiscytu na rozmowę.
-11. **§ 13 ust. 3** – przejście praw do nagrania na finalistę jako część nagrody: przeniesienie praw producenta fonogramu czy licencja wyłączna, w którym momencie następuje i czy da się to zapisać w regulaminie bez odrębnej umowy z każdym finalistą. Czy stanowi to kolejne świadczenie podlegające opodatkowaniu.
-12. **§ 14 ust. 2-5** – oczekiwanie obecności laureatów czołowej trójki na gali przy jednoczesnym zastrzeżeniu, że nieobecność ani odmowa wykonania utworu na żywo nie pozbawiają nagrody pieniężnej, oraz zakres pokrycia kosztów dojazdu i noclegu całej dziesiątki.
-13. **§ 15 ust. 2-3** – brzmienie licencji w czterech zakresach oraz zróżnicowane terminy ich trwania. Zakres dotyczący Archiwum obejmuje wyłącznie dane katalogowe, bo Organizator nie przechowuje nagrań; prosimy o potwierdzenie, czy przy takim zakresie licencja bezterminowa jest właściwą konstrukcją, czy wystarczy zgoda odwoływalna.
-14. **§ 15 ust. 5 zdanie drugie** – wyłączenie z oświadczenia zapewnień dotyczących kwalifikacji prawnej tekstu powstałego przy udziale sztucznej inteligencji.
-15. **§ 5 ust. 6 i 6a** – wymóg niezmienności nagrania w czasie oceny i metryka nagrania zamiast kopii. Czy utrwalenie metryki jest wystarczającym sposobem wykazania, która wersja podlegała ocenie, skoro Organizator nie przechowuje nagrania, oraz czy zakaz zmiany nagrania po zamknięciu naboru da się skutecznie zastrzec wobec konsumenta.
-15a. **§ 11 ust. 2** – Nagroda dla publicznych ocen zgłoszonych piosenek jako odrębne przyrzeczenie publiczne: skład oceniający spoza jury, kryteria, remisy i zakres danych pobieranych od osoby głosującej.
-16. **§ 16 ust. 5** – żądanie zwrotu nagrody po jej wypłacie. Bez tej klauzuli Organizator nie ma podstawy żądania nawet w sprawie oczywistej.
-17. **§ 17 ust. 1** – progi nierozstrzygnięcia edycji przyjęte przez Organizatora bez podstawy prawnej.
-18. **§ 19 ust. 2-3** – przyrzeczenie publiczne i dopuszczalność zmiany regulaminu po jego ogłoszeniu.
