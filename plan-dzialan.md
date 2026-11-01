@@ -372,6 +372,16 @@ Po przejściu scalającym regulamin przeczytał ktoś, kto nie znał historii do
 
 **Cztery nowe defekty własne, dla zapisu, bo wzorzec jest poznawalny.** Wszystkie cztery to **skutki uboczne zawężania**: podniesienie progu składu do dwóch członków nie objęło jednego przepisu, który sam odsyłał do podniesionego; ograniczenie dzikiej karty pułapem puli nie objęło jednej z dwóch dróg wejścia; dopisanie przepustowości akademii do parametrów ogłaszanych umieściło ją w liście warunkowej, więc w pierwszej edycji nie byłaby ogłaszana wcale; a naprawa ścieżki dla danych szczególnych kategorii nałożyła obowiązek, którego przesłanka nigdy by się nie spełniła. **Za każdym razem poprawka była dobra tam, gdzie ją zrobiono, i tworzyła dziurę jedno odesłanie dalej.** Stąd reguła na dalszą pracę: po każdej zmianie zasady przekrojowej sprawdzamy **wszystkie** przepisy, które się do niej odsyłają, a nie tylko ten naprawiany.
 
+### Weryfikacja dzisiejszych zmian i co z niej wynika dla metody
+
+Po naprawieniu osiemnastu pozycji z szóstego czytania puściłem sprawdzenie **wyłącznie przepisów zmienionych 1.11.2026** - czterdziestu czterech miejsc. Wróciło **dwanaście defektów i prawie wszystkie pochodziły z tych właśnie zmian**. To trzecie potwierdzenie wzorca w jednej dobie.
+
+**Najgorsze były definicje, czyli dokładnie to, co miało porządkować.** Finalista zdefiniowany przez wejście do antologii odbierał ten status nagrodzonemu, którego rozmowy nie opublikowano, i nadawał go Uczestnikowi bez nagrody wstawionemu do antologii na zwolnione miejsce - a za statusem idzie obowiązek podania adresu i telefonu. Ranking nie dawał kolejności zgłoszeniom, które odpadły w rundach uczestników. Oba przepisy dopisano kilka godzin wcześniej **po to, żeby usunąć niedookreślenie** - i oba wprowadziły sprzeczność tam, gdzie wcześniej była tylko luka.
+
+**Stąd drugi wniosek, mocniejszy od pierwszego.** Dopisanie definicji pojęcia używanego w kilkudziesięciu miejscach jest **zmianą o największym promieniu, jaką można w tym dokumencie zrobić** - większym niż zmiana pojedynczego trybu. Definicja wiąże wszystkie miejsca naraz, a sprawdzić trzeba każde z nich osobno. Reguła: po dopisaniu albo zmianie definicji przechodzimy **wszystkie** wystąpienia zdefiniowanego pojęcia, nie tylko te, które przyszły do głowy przy pisaniu.
+
+**Trzeci wniosek dotyczy tego, kiedy przestać.** Każda runda kończy się podobną liczbą pozycji, bo każda poprawka ma własny promień. To nie znaczy, że regulamin jest w złym stanie - znaczy, że **dokument o tej gęstości odeszłań nie zbiega się przez czytanie przez autora**. Praktyczny wniosek: dalsze rundy wewnętrzne mają sens tylko jako sprawdzenie ostatniej partii zmian, a nie jako szukanie defektów w całości - to ostatnie należy do recenzenta i do kancelarii, którzy czytają bez pamięci o intencji.
+
 ### Czego to nie rozstrzyga
 
 Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie wyliczymy bez próby oceniania przeprowadzonej osobno dla każdego rodzaju zgłoszenia** - czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu. Próba oceniania zostaje więc pozycją otwartą w czterech wariantach, nie w jednym.
