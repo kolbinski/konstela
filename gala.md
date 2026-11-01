@@ -1,6 +1,6 @@
 # Gala rozstrzygnięcia - dokument roboczy
 
-Druga połowa kwietnia 2028. Dokument **wewnętrzny**: służy wycenie, rozmowie z miejscem i briefowi dla agencji. Nie jest załącznikiem do pism do ministerstw - szczegółowy scenariusz imprezy odległej o siedemnaście miesięcy, bez wybranego miejsca i bez zabezpieczonego finansowania, czyta się jako fantazja, nie jako staranność.
+Druga połowa czerwca 2028. Dokument **wewnętrzny**: służy wycenie, rozmowie z miejscem i briefowi dla agencji. Nie jest załącznikiem do pism do ministerstw - szczegółowy scenariusz imprezy odległej o siedemnaście miesięcy, bez wybranego miejsca i bez zabezpieczonego finansowania, czyta się jako fantazja, nie jako staranność.
 
 Powstał, ponieważ program gali rozrósł się przez kilka osobnych rozmów i nie był dotąd nigdzie zebrany. Pytanie Piotra Bylińskiego z 23.10.2026 - czym wypełnić dwie godziny - nie miało dotąd policzonej odpowiedzi.
 

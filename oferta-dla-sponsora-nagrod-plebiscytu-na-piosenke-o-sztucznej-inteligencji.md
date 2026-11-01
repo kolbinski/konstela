@@ -235,7 +235,7 @@ Rola nie obejmuje:
 <div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>3 wersje jednego tekstu: 2 wygenerowane przez sztuczną inteligencję i trzecia napisana oraz wykonana przez muzyków; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniana jest wersja dostępna pod linkiem tego dnia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty 4 plebiscytów, czołowa trójka plebiscytu piosenki wykonuje nagrodzone utwory na żywo, hymn otwiera i zamyka wieczór</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty 4 plebiscytów, czołowa trójka plebiscytu piosenki wykonuje nagrodzone utwory na żywo, hymn otwiera i zamyka wieczór</small></dd></div>
 <div><dt>Po gali</dt><dd>Nagrania studyjne 10 finalistów<small>rozliczane po sesjach; prawa do nagrań przechodzą na autorów</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>
 </dl>

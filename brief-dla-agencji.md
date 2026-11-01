@@ -24,7 +24,7 @@ Strona ma trzy zadania, w tej kolejności ważności.
 
 **Doprowadzić uczestnika do zgłoszenia.** Od 1 stycznia 2027 strona musi tłumaczyć, co zgłaszać, jak to zrobić i czego się spodziewać, a potem przeprowadzić przez formularz bez pytań po drodze.
 
-**Udostępniać materiał.** Od kwietnia 2028 strona jest miejscem, z którego pobiera się antologię i czyta Archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
+**Udostępniać materiał.** Od czerwca 2028 strona jest miejscem, z którego pobiera się antologię i czyta Archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
 
 ## 3. Co jest dzisiaj
 

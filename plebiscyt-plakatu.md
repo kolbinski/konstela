@@ -298,7 +298,7 @@ Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** 
 <div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginałów<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
 <div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Uzgodnienie okładki antologii ze zwycięzcą</dd></div>
-<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa oryginałów i premiera antologii</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa oryginałów i premiera antologii</small></dd></div>
 <div><dt>Maj 2028</dt><dd>Zwrot oryginałów autorom</dd></div>
 <div><dt>Maj albo czerwiec 2028</dt><dd>Wystawa w galerii sztuki<small>jeżeli galeria zostanie pozyskana; prace objęte propozycją wracają po jej zakończeniu</small></dd></div>
 </dl>

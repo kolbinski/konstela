@@ -272,7 +272,7 @@ Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencj
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły</small></dd></div>
 <div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 15 stycznia 2028</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykt<small>pierwsza runda akademii, następnie jury; rozmowy weryfikacyjne z dziesiątką finalistów</small></dd></div>
-<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera antologii</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera antologii</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>
 </dl>
 

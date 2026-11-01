@@ -166,7 +166,7 @@ Rola nie obejmuje czterech rzeczy, bo każda ma własny budżet i własnego part
 <div><dt>Po deklaracji Sponsora</dt><dd>Wybór miejsca i wycena czterech pozycji otwartych<small>oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy; dopiero wtedy znana jest kwota ostateczna i dopiero wtedy podpisujemy umowę</small></dd></div>
 <div><dt>Do 6 miesięcy przed galą</dt><dd>Podpisanie umowy i rezerwacja sali<small>pierwsza transza obejmuje wyłącznie to, czego wymaga zabezpieczenie terminu w wybranym miejscu</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykty czterech plebiscytów<small>pierwsza runda akademii, następnie jury; gala odbywa się tylko wtedy, gdy edycja zostaje rozstrzygnięta</small></dd></div>
-<div><dt>Druga połowa kwietnia 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, zwiastuny piątki filmów finałowych, wystawa plakatów, premiera antologii w wydaniu elektronicznym i dźwiękowym, wystąpienia partnerów; druga transza wymagalna po gali</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, zwiastuny piątki filmów finałowych, wystawa plakatów, premiera antologii w wydaniu elektronicznym i dźwiękowym, wystąpienia partnerów; druga transza wymagalna po gali</small></dd></div>
 <div><dt>Do 60 dni po gali</dt><dd>Sprawozdanie dla Sponsora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, dokumentacja fotograficzna i zapis wideo; po jego przyjęciu wymagalna jest transza ostatnia</small></dd></div>
 </dl>
 
