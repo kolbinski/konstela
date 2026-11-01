@@ -317,6 +317,12 @@ Poza § 8: podstawa przesunięcia w § 1b ust. 2a i w wąskim przesunięciu z §
 
 Zdjęte ze strony plebiscytu zdanie, które było nieprawdziwe: „zaniżanie cudzych ocen nie podnosi Twojej pozycji". Normalizacja znosi zaniżanie systematyczne, nie każde.
 
+**Druga weryfikacja: osiem nowych luk z naprawiania pierwszych (1.11.2026).** Przepisany ustęp przeszedł drugie niezależne czytanie. Z piętnastu luk jedenaście zamknięte, cztery częściowo, osiem nowych - i jedna z nich wywracała mechanizm: **wzorce miały być zgłoszeniami ocenionymi przez akademię, a akademia w tej edycji ocenia dopiero to, co przeszło rundy.** Błąd kołowy, którego nie widział ani ja, ani pierwsze czytanie. Dziś wzorcem jest rozmowa spoza edycji oceniona przed naborem albo zgłoszenie ocenione w czasie naboru w tym celu, zbiór liczy co najmniej dwadzieścia rozmów i jest odświeżany w każdej rundzie.
+
+Reszta: odesłanie do ogłoszenia wskazywało § 9 ust. 5, czyli przepis o kategoriach, a nie § 10 ust. 5 - warunki naboru siedzą w § 10, nie w § 9, i to jest samo w sobie warte poprawienia przy porządkowaniu numeracji. § 4 nie miał ani jednego dnia na rundy. Rundy mogły zawęzić pole do progu, przy którym akademii się nie powołuje. Mediana nie przyjmuje wag, więc „utrata wagi oceny" była niewykonalna - dziś ocena jest pomijana, z odczytem uzupełniającym. Uczestnik miał oznaczać zastrzeżenia w panelu, do którego nie miał dostępu. Przepis o ubyciu zgłoszenia odsyłał do wycofania możliwego tylko do zamknięcia naboru. Karta do głosowania publiczności wymagała podpisu, który Czytelnia w tej edycji zataja.
+
+**Wniosek, który trzeba zapamiętać:** przy mechanizmie wplecionym w kilkanaście przepisów naprawianie luk tworzy nowe w tempie zbliżonym do ich zamykania. Miarą gotowości jest liczba tur, po których czytający przestaje znajdować pozycje tej wagi - nie to, ile razy tekst był poprawiany. Trzecie czytanie jest potrzebne przed wysłaniem regulaminu do kancelarii.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
