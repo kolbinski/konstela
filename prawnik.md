@@ -418,6 +418,23 @@ Te trzy pytania wyszły z czterech wewnętrznych czytań regulaminu i **nie zale
 
 3. **Obowiązek nieodpłatnego oceniania jako warunek rozpatrzenia zgłoszenia** - pytanie postawione już w sekcji Cg, które powtarzam tutaj, bo po czterech czytaniach jest jasne, że od niego zależy, czy mechanizm rund uczestników ma sens. Przy odpowiedzi przeczącej cała konstrukcja wypada z regulaminu i wracamy do zmiany trybu oceny przy dużym naborze, a wtedy przepustowość pierwszego przejścia ogranicza budżet, nie liczba zgłoszeń. Proszę o rozstrzygnięcie tego pytania **przed** analizą pozostałych szczegółów tego mechanizmu, żeby nie płacić za opinię o konstrukcji, która może nie przejść testu z art. 385[1] KC.
 
+## Ci. Dwa pytania z przejścia scalającego (dodane 1.11.2026, po szóstym czytaniu)
+
+Oba powstały z napraw wprowadzonych 1.11.2026 i oba dotyczą przepisów, które stoją w regulaminie w wersji działającej, ale o niesprawdzonej dopuszczalności.
+
+1. **Zastąpienie członków jury członkami akademii w składzie decydującym o odrzuceniu zgłoszenia.** Decyzje o odrzuceniu zgłoszenia z § 6 wymagają zgodnej opinii co najmniej dwóch członków jury. Liczba takich spraw rośnie wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób, więc przy bardzo dużym naborze etap ten nie domyka się w żadnym terminie. Dlatego powyżej liczby postępowań ogłoszonej przed naborem dwóch jurorów zastępuje dwóch wskazanych wcześniej członków akademii, z wyłączeniem decyzji rozstrzygających o dziesiątce antologii.
+
+   - Czy przy przyrzeczeniu publicznym (art. 919 KC) można przenieść na inny organ decyzję o odrzuceniu zgłoszenia, jeżeli ogłoszenie o otwarciu naboru podaje z góry zarówno próg, jak i skład zastępczy.
+   - Czy nie jest to postanowienie niedozwolone w rozumieniu art. 385(1) KC przez to, że o najcięższym skutku rozstrzyga organ o słabszej pozycji niż ten wskazany jako podstawowy - i czy wystarczającym zabezpieczeniem jest pozostawienie przy jury decyzji dotyczących zgłoszeń będących w rundzie drugiej.
+   - Czy zbiorcze rozpoznanie spraw dotyczących tej samej kwestii, z osobnym zawiadomieniem każdego Uczestnika, spełnia wymóg indywidualnego rozpoznania sprawy.
+
+2. **Obowiązek oceniania obciążający Uczestnika, którego własne zgłoszenie rund nie przechodzi.** Zgłoszenie zawierające dane szczególnych kategorii pomija rundy uczestników (§ 6a ust. 3a1), bo zgoda z art. 9 ust. 2 lit. a RODO nie obejmuje osób postronnych. Jego autor bierze jednak w rundach udział jako oceniający, a niewykonanie odczytów powoduje, że jego zgłoszenie nie jest rozpatrywane dalej również na ścieżce akademii. Alternatywą byłoby zwolnienie go z obowiązku - odrzucone, bo tworzyłoby jedyną w regulaminie ścieżkę zwalniającą z oceniania, uruchamianą oświadczeniem samego Uczestnika.
+
+   - Czy obowiązek świadczenia nieodpłatnego może być warunkiem rozpatrzenia zgłoszenia, które samo z tego świadczenia nie korzysta, skoro nikt inny go nie ocenia w tej rundzie.
+   - Czy odwrotnie - zwolnienie tej grupy z obowiązku nie byłoby uprzywilejowaniem ze względu na cechę chronioną, skoro przesłanką pominięcia rund jest treść rozmowy dotycząca zdrowia, poglądów, wyznania albo innej takiej cechy.
+
+   To pytanie jest wariantem pytania 3 z sekcji Ch i ma sens tylko przy odpowiedzi twierdzącej na tamto.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
