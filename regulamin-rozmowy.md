@@ -442,7 +442,7 @@ Niezależnie od punktacji zgłoszenie **nie może zostać nagrodzone ani włącz
 
 **Czym nierzetelność nie jest.** Sporem interpretacyjnym, w którym stanowisko Uczestnika jest jednym z możliwych. Ustaleniem oznaczonym w rozmowie jako niepewne. Hipotezą przedstawioną jako hipoteza. Wnioskiem, którego nie potrafisz potwierdzić – **brak pewności oceniającego nie jest wykazaniem fałszu**, a w kwestii specjalistycznej można zasięgnąć opinii eksperta.
 
-**Tryb.** Zgodna opinia dwóch członków jury plus pisemne wskazanie twierdzenia, podstaw uznania go za błędne i związku z plonem. Uczestnik dostaje to wskazanie i ma 7 dni na wyjaśnienia; może wykazać, że odczytaliśmy rozmowę błędnie, ale nie może naprawić błędu po terminie. Ciężar wykazania jest po stronie jury, a w razie wątpliwości warunku nie stosujemy. § 7 ust. 5-8.
+**Tryb.** Decyzja w składzie z § 6, czyli zgodna opinia **co najmniej dwóch** członków jury, plus pisemne wskazanie twierdzenia, podstaw uznania go za błędne i związku z plonem. Uczestnik dostaje to wskazanie i ma 7 dni na wyjaśnienia; może wykazać, że odczytaliśmy rozmowę błędnie, ale nie może naprawić błędu po terminie. Ciężar wykazania jest po stronie jury, a w razie wątpliwości warunku nie stosujemy. § 7 ust. 5-8.
 
 Powód: przy czterech równych kryteriach rozmowa z zerem w Weryfikacji i maksimum w pozostałych dostaje 75 na 100 punktów i mogłaby wygrać, choć jej odkrycie jest nieprawdziwe. Nagroda za rozmowy z AI nie może premiować efektownej nieprawdy.
 
