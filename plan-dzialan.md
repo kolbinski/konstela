@@ -164,13 +164,13 @@ Do tego dwa szkice umów opisanych w ofercie: **umowa przedwstępna z zadatkiem*
 
 Ten sam test co przy ścianach i Akademii, zastosowany do pozostałych budżetów: czy rezygnacja jednego partnera zabiera coś, co obiecał ktoś inny. Oblały go trzy pozycje.
 
-**Podcast dostał własny budżet.** Koordynacja, 72 godziny, stała w Budżecie Antologii, a sam podcast był równocześnie sprzedawany w osobnej ofercie dla sponsora podcastu - czyli jeden partner finansowałby rzecz obiecaną drugiemu. Nowa zakładka Budżet Podcastu: 21 858,10 zł netto za koordynację wraz z udziałem w narzędziach; produkcja i honorarium prowadzącego nadal bez ceny. Antologia spadła o 18 921,10 zł i przestała obiecywać podcast.
+**Podcast dostał własny budżet.** Koordynacja, 72 godziny, stała w Budżecie Antologii, a sam podcast był równocześnie sprzedawany w osobnej ofercie dla sponsora podcastu - czyli jeden partner finansowałby rzecz obiecaną drugiemu. Nowa zakładka Budżet Podcastu: 21 770,10 zł netto za koordynację wraz z udziałem w narzędziach; produkcja i honorarium prowadzącego nadal bez ceny. Antologia spadła o 18 921,10 zł i przestała obiecywać podcast.
 
-**Przejazdy finalistów wyszły z gali do plebiscytów**, po 8 000 zł na plebiscyt. Powód: ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich będzie. Gala spadła z 87 808 do 52 773,28 zł, czyli o 40%, i jest dziś ofertą o wyraźnie mniejszym progu wejścia.
+**Przejazdy finalistów wyszły z gali do plebiscytów**, po 8 000 zł na plebiscyt. Powód: ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich będzie. Gala spadła z 87 808 do 52 717,28 zł, czyli o 40%, i jest dziś ofertą o wyraźnie mniejszym progu wejścia.
 
 **Roczny koszt narzędzi AI (30 000 zł) rozdzielony między osiem budżetów** proporcjonalnie do pracy organizatora w każdym z nich: rozmowa 7 226, film 5 875, plakat 4 556, piosenka 4 077, antologia 1 519, podcast 1 151, gala 719, uruchomienie 4 877 wraz z resztą z zaokrągleń. Uruchomienie spadło ze 167 530 do 139 894,70 zł - oferta założycielska staniała o 27 635,30 zł, czyli mniej więcej tyle, ile szacowałem, gdy ta pozycja była jeszcze na liście otwartych.
 
-Nowe kwoty: rozmowa **597 342,88**, piosenka **303 342,24**, plakat **213 950,72**, film **324 636**, Akademia **160 160**, antologia **128 940,90**, gala **52 773,28**, uruchomienie **139 894,70**, podcast **21 858,10**. Razem **1 942 898,82 zł**, czyli o 449,06 zł więcej niż przed zmianą - różnica bierze się stąd, że udziały w narzędziach przeszły z budżetu o rezerwie 10% do budżetów o rezerwie 12%.
+Nowe kwoty: rozmowa **597 342,88**, piosenka **303 342,24**, plakat **213 950,72**, film **324 636**, Akademia **160 160**, antologia **128 824,30**, gala **52 717,28**, uruchomienie **139 894,70**, podcast **21 770,10**. Razem **1 942 898,82 zł**, czyli o 449,06 zł więcej niż przed zmianą - różnica bierze się stąd, że udziały w narzędziach przeszły z budżetu o rezerwie 10% do budżetów o rezerwie 12%.
 
 W zakresie pytania do MKiDN: **863 787,06 zł** (233 659,06 na 2027 i 630 128 na 2028) wobec 798 800 zł wcześniej. Wzrost nie jest nowym kosztem: do zakresu weszły przejazdy finalistów trzech plebiscytów artystycznych, ich udziały w narzędziach i koordynacja podcastu - pozycje, które wcześniej stały w budżetach oznaczonych jako poza pytaniem.
 
@@ -185,7 +185,7 @@ Kotwicą jest jedyna wycena, jaką mamy: ByteLaw, 22.10.2026, **4 000 zł netto*
 - Każdy z czterech plebiscytów: **obsługa prawna regulaminu 8 000 zł netto**.
 - Uruchomienie: pozycja „konsultacja prawna regulaminu" 6 000 zł zamieniona na **„weryfikacja statutu, polityka prywatności i klauzula RODO" 4 000 zł**. Statut to realne 700 zł z wyceny ByteLaw; reszta na politykę prywatności z zapasem, bo w tamtej wycenie powstawała w pakiecie i nie ma własnej ceny, a zamawiana oddzielnie może kosztować więcej.
 
-Nowe kwoty: rozmowa **606 302,88**, piosenka **312 302,24**, plakat **222 910,72**, film **333 596**, uruchomienie **137 694,70**. Razem **1 976 538,82 zł**. W zakresie pytania do MKiDN **999 307,06 zł** (268 379,06 na 2027 i 730 928 na 2028) - obsługa prawna trzech plebiscytów artystycznych jest kosztem 2027 roku, bo musi poprzedzić otwarcie naboru.
+Nowe kwoty: rozmowa **606 302,88**, piosenka **311 985,28**, plakat **222 556,80**, film **333 139,04**, uruchomienie **179 653,10**. Razem **1 976 538,82 zł**. W zakresie pytania do MKiDN **998 091,22 zł** (267 163,22 na 2027 i 730 928 na 2028) - obsługa prawna trzech plebiscytów artystycznych jest kosztem 2027 roku, bo musi poprzedzić otwarcie naboru.
 
 Przy okazji z not koncepcyjnych znikły trzy pozycje „do wyceny", które mają już kwoty, a w tabelach plakatu i filmu doszły wiersze przejazdów i udziału w narzędziach, których tam wcześniej nie było.
 
@@ -206,9 +206,9 @@ Limity miały dotąd dwie oferty, a po dzisiejszych zmianach kwot obie były za 
 | Plebiscyt | Kosztorys | Limit | Co ma pokryć zapas |
 |---|---:|---:|---|
 | Rozmowa | 606 302,88 | **640 000** | etap przygotowawczy jury, OC organizatora |
-| Film | 333 596 | **430 000** | jury za ocenę 58 000 z wyliczeń arkusza, etap przygotowawczy, zwiastuny |
-| Piosenka | 312 302,24 | **370 000** | jury za ocenę około 29 000, etap przygotowawczy |
-| Plakat | 222 910,72 | **285 000** | jury 14 500, etap przygotowawczy, bogatsza oprawa wystawy, polisa |
+| Film | 333 139,04 | **430 000** | jury za ocenę 58 000 z wyliczeń arkusza, etap przygotowawczy, zwiastuny |
+| Piosenka | 311 985,28 | **370 000** | jury za ocenę około 29 000, etap przygotowawczy |
+| Plakat | 222 556,80 | **285 000** | jury 14 500, etap przygotowawczy, bogatsza oprawa wystawy, polisa |
 
 **Realizacja części artystycznej gali stoi poza limitem piosenki** i jest uzgadniana osobnym aneksem. Koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie; limit obejmujący tę pozycję albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. W ofercie dopisane, że Fundator nie musi tej pozycji obejmować.
 
@@ -247,7 +247,7 @@ Wybrany wariant trzeci z trzech, **16 600 zł netto**, w czterech pozycjach Bud�
 - **fundusz celowy na utrzymanie Archiwum przez dziewięć kolejnych lat - 8 800 zł**, cztery godziny rocznie, odkładane w fundacji z przeznaczeniem wskazanym w umowie; przy likwidacji fundacji niewykorzystana część idzie razem z Archiwum do instytucji przejmującej;
 - **przygotowanie i złożenie migawki Archiwum w repozytorium instytucjonalnym - 3 550 zł**, pozycja warunkowa: wykracza poza dzisiejszą licencję uczestników, więc zależy od odpowiedzi kancelarii, a przy odpowiedzi odmownej kwota wraca do Fundatora.
 
-Oferta rozmowy rośnie z 606 302,88 do **622 229,28 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 429 226 zł, część etapowa do 161 003,28. Całość przedsięwzięcia: **1 992 465,22 zł**.
+Oferta rozmowy rośnie z 606 302,88 do **621 668,16 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 429 226 zł, część etapowa do 160 442,16. Całość przedsięwzięcia: **2 032 474,06 zł**.
 
 **Wydłużenia retencji kopii nie kupiliśmy**, choć było w wariancie. Kolejna tura recenzji wytknęła, że magazyn na dziesięć lat nie daje podstawy do przechowywania kopii dłużej, niż trwa pięcioletnia licencja; dopóki kancelaria tego nie potwierdzi, nie kupujemy magazynu, którego nie wolno nam używać. Pytanie weszło do zakresu konsultacji jako szósty punkt. Poprawiony też rachunek funduszu celowego - 7 920 zł zamiast 8 800, bo dziewięć lat po cztery godziny po 220 zł daje tyle, a rok pierwszy jest już w godzinach prowadzenia Archiwum. Zakres pytania do MKiDN bez zmian, bo rozmowa stoi poza nim.
 
