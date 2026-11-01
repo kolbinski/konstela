@@ -31,3 +31,13 @@ tak samo jak `/dokument/`.
 
 Formuł skrypt nie liczy - bierze wyniki zapisane w pliku, więc obowiązuje
 zasada z poprzedniego rozdziału.
+
+## sprawdz-kwoty.js
+
+Kontrola spójności kwot między kosztorysem a dokumentami: pary netto/brutto wobec stawki VAT, obecność aktualnych sum budżetów w dokumentach oraz suma udziałów w rocznym koszcie licencji AI. Kod wyjścia 1 przy niespójności.
+
+Uruchamiać **po każdej zmianie kwoty w arkuszu i po jej przepisaniu do dokumentów** - zmiana jednej kwoty netto unieważnia brutto, sumy roczne i udziały, a niespójność nie powoduje żadnego błędu: dokument po prostu kłamie.
+
+```
+node skrypty/sprawdz-kwoty.js
+```

@@ -450,6 +450,16 @@ Osiem budżetów **zmalało**, bo ich udział w kosztach licencji AI się zmniej
 
 **Trzy pułapki arkusza, które przy tym wyszły i warto je zapisać.** `insert_rows` w openpyxl nie poprawia **ani formuł w przesuniętych wierszach**, ani **scaleń komórek**, ani **odwołań z innych zakładek**. Przy pierwszym podejściu każdy wiersz kosztów twardych liczył po zmianie kwotę wiersza poprzedniego, scalenie nagłówka „PODSUMOWANIE" wylądowało na wierszu sumy kosztów i blokowało zapis do niej, a `Wyjaśnienia` dalej odsyłały do starych adresów. Reguła na przyszłość: po każdym `insert_rows` przepisać jawnie formuły wszystkich przesuniętych wierszy, przenieść scalenia i poprawić odwołania międzyzakładkowe - a potem sprawdzić tożsamość kontrolną, tutaj sumę udziałów licencji równą 30 000 zł.
 
+### Reguła na kwoty pochodne i kontrola, która jej pilnuje
+
+Trzeci raz w jednej dobie naprawa jednej warstwy zostawiła niespójność w warstwie pochodnej. W regulaminie były to odesłania między paragrafami, w arkuszu formuły w przesuniętych wierszach, a tu **liczby wyliczane z innych liczb**: podmieniłem 184 kwoty netto w 30 plikach i zostawiłem brutto, więc oferta dla Mecenasa Założycielskiego podawała 223 428,70 zł netto obok 220 973,31 zł brutto - brutto **mniejsze** od netto, czyli rzecz, którą sponsor zauważy w pierwszej minucie.
+
+**Reguła.** Po każdej zmianie kwoty netto w kosztorysie przejść wszystkie wartości z niej pochodne: brutto, sumy roczne, udziały procentowe, kwoty w załącznikach do pism. Kwot podanych w piśmie **już wysłanym** się nie zmienia, bo opisują stan na dzień wysłania - to jedyny wyjątek.
+
+**Reguła zapisana w notatce jest słabsza od reguły wykonywalnej**, więc powstał `skrypty/sprawdz-kwoty.js`. Sprawdza trzy rzeczy: każdą parę „X zł netto (Y zł brutto" w dokumentach wobec stawki 23%, obecność aktualnych sum budżetów w dokumentach wraz z liczbą plików, w których każda występuje, oraz to, czy udziały w rocznym koszcie licencji AI sumują się dokładnie do całej pozycji. To trzecie jest kontrolą klucza podziału, który rusza się przy **każdej** zmianie liczby godzin pracy organizatora w dowolnym budżecie i właśnie on wyłapał błąd przy wstawianiu wierszy.
+
+Skrypt zwraca kod 1 przy niespójności, więc nadaje się do hooka albo do CI. **Sprawdzony na celowo zepsutej kwocie**, bo kontrola, która nigdy nie zawodzi, nie jest kontrolą: po podstawieniu starego brutto wskazała plik, obie kwoty i wartość prawidłową. Czego nie sprawdza: nie czyta formuł i nie przelicza budżetów - zakłada, że po ostatniej zmianie wykonano konwersję przez LibreOffice.
+
 ### Czego to nie rozstrzyga
 
 Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie wyliczymy bez próby oceniania przeprowadzonej osobno dla każdego rodzaju zgłoszenia** - czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu. Próba oceniania zostaje więc pozycją otwartą w czterech wariantach, nie w jednym.
