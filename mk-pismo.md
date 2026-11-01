@@ -163,7 +163,7 @@ Proszę o wskazanie warunków realizacji tego zakresu w latach 2027-2028. Wiem, 
 Rozkład kosztów na lata jest następujący:
 
 - **nagranie hymnu i jego premiera** przypadają na 2027 rok, w czasie trwania naboru, bez warunkowania nim otwarcia edycji;
-- **nabór zgłoszeń** trwa przez cały 2027 rok, a przyjmowanie zgłoszeń zamyka się 15 stycznia 2028 roku;
+- **nabór zgłoszeń** trwa przez cały 2027 rok, a przyjmowanie zgłoszeń zamyka się 10 stycznia 2028 roku;
 - **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata, a terminy akademii są różne w zależności od plebiscytu: akademia rozmów ocenia zgłoszenia na bieżąco w czasie naboru, od lutego 2027 do stycznia 2028, akademie piosenki i plakatu pracują po zamknięciu swoich naborów, czyli na przełomie 2027 i 2028 roku, a akademia filmu przeprowadza pierwsze przejście oceny w styczniu 2028 roku. Ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
 - **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace docierają na początku stycznia 2028;
 - **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;

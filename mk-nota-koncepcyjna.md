@@ -590,7 +590,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 **2027 - rok naboru**
 
 - **okno rozmów w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, czyli okres, w którym musi zostać przeprowadzona zgłaszana rozmowa: 1 stycznia - 31 grudnia 2027.** Liczy się data rozmowy, a nie data zgłoszenia, i w oknie musi się zmieścić cała rozmowa - pierwsza i ostatnia wypowiedź. Ograniczenie to wynika z tego, że antologia każdej edycji jest zapisem rozmów z jednego roku kalendarzowego
-- zgłoszenia rozmów: przyjmowane od dnia otwarcia naboru do 15 stycznia 2028
+- zgłoszenia rozmów: przyjmowane od dnia otwarcia naboru do 10 stycznia 2028
 - pierwsza runda oceny rozmów: na bieżąco, partiami, przez cały rok naboru
 - premiera hymnu wraz z teledyskiem: 2027, w czasie trwania naboru
 - odcinki podcastu: przez cały rok naboru
@@ -600,7 +600,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 
 **2028 - ocena, antologia i gala**
 
-- zamknięcie zgłoszeń rozmów: 15 stycznia 2028
+- zamknięcie zgłoszeń rozmów: 10 stycznia 2028
 - ocena jury w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: styczeń i luty 2028
 - rozmowy weryfikacyjne z autorami najwyżej ocenionych rozmów: pierwsza połowa lutego 2028
 - pierwsze przejście oceny filmów przez akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028

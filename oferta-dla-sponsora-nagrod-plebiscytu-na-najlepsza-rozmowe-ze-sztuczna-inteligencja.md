@@ -25,7 +25,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta oferta dotyczy wyłącznie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją.
 
-Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
+Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 10 stycznia 2028, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
 Ocena przebiega w dwóch rundach.
 
@@ -270,7 +270,7 @@ Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencj
 
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły</small></dd></div>
-<div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 15 stycznia 2028</small></dd></div>
+<div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 10 stycznia 2028</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykt<small>pierwsza runda akademii, następnie jury; rozmowy weryfikacyjne z dziesiątką finalistów</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera antologii</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>

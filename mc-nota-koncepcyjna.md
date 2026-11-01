@@ -84,7 +84,7 @@ Cztery mechanizmy, wszystkie zapisane w regulaminie:
 ## 6. Terminy edycji pierwszej
 
 - okno rozmów: 1 stycznia - 31 grudnia 2027 (pełny rok kalendarzowy)
-- zgłoszenia: do 15 stycznia 2028
+- zgłoszenia: do 10 stycznia 2028
 - ocena pierwszej rundy: na bieżąco przez cały rok, partiami
 - ocena jury i rozmowy weryfikacyjne: luty i początek marca 2028
 - rozstrzygnięcie i publikacja antologii: druga połowa marca 2028

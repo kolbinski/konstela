@@ -13,7 +13,7 @@ Dokument roboczy porządkujący to, co rozsypane jest po regulaminie. Liczby prz
 
 ## 1. Okno rozmów
 
-**1 stycznia - 31 grudnia 2027**, czyli pełny rok kalendarzowy. Rozmowa musi zostać przeprowadzona w tym okresie; rozmowa z 2026 roku nie kwalifikuje się, nawet jeśli jest znakomita. **Zgłoszenia przyjmowane są do 15 stycznia 2028**, żeby rozmowa z końca grudnia miała kiedy zostać zgłoszona.
+**1 stycznia - 31 grudnia 2027**, czyli pełny rok kalendarzowy. Rozmowa musi zostać przeprowadzona w tym okresie; rozmowa z 2026 roku nie kwalifikuje się, nawet jeśli jest znakomita. **Zgłoszenia przyjmowane są do 10 stycznia 2028**, żeby rozmowa z końca grudnia miała kiedy zostać zgłoszona.
 
 ## 2. Zgłoszenie
 

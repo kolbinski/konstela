@@ -39,7 +39,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 |---|---|
 | początek 2027 | premiera hymnu z teledyskiem - **otwiera kampanię naboru** |
 | cały 2027 | nabór, czytelnia zgłoszeń rośnie, zgłoszenia plebiscytu napływają, odcinki podcastu |
-| 15 stycznia 2028 | zamknięcie naboru; 14 dni później zamrożenie punktacji rundy pierwszej |
+| 10 stycznia 2028 | zamknięcie naboru; 14 dni później zamrożenie punktacji rundy pierwszej |
 | I kwartał 2028 | głosowanie publiczności |
 | druga połowa czerwca 2028 | gala: werdykty, koncert, dialog czytany |
 

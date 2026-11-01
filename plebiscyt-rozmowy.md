@@ -22,7 +22,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 - wszystkie zgłoszenia trafiają do **[Czytelni](#czytelnia-i-archiwum)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia-i-archiwum)
 - **nie musisz znać się na sztucznej inteligencji** – zgłoszona rozmowa może być Twoją pierwszą w życiu rozmową z AI; oceniamy tę jedną rozmowę, a nie Twoje doświadczenie
 - zgłaszasz **jedną rozmowę w jednej edycji**
-- nabór zamykamy **15 stycznia 2028**
+- nabór zamykamy **10 stycznia 2028**
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -303,7 +303,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <dl class="harmonogram">
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>Cały 2027</dt><dd>Okno rozmów<small>zgłoszenia przyjmujemy na bieżąco, a Czytelnia rośnie</small></dd></div>
-<div><dt>15 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dwa dodatkowe tygodnie są dla rozmów z końca grudnia</small></dd></div>
+<div><dt>10 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dziesięć dni po zamknięciu okna rozmów, żeby szczyt zgłoszeń nie wypadł w okresie świątecznym</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>datę ogłaszamy osobno: zależy od zakończenia weryfikacji wszystkich zgłoszeń i zamrożenia punktacji pierwszej rundy; głosowanie trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>31 maja 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>

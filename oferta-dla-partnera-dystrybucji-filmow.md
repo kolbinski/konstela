@@ -17,7 +17,7 @@ Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI. Dlatego Nagro
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
-Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
+Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 10 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
 
 ## <!--ikona:projektornia--><span>Co to za filmy</span>
 

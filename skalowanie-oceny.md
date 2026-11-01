@@ -22,7 +22,7 @@ Dziś: Akademia -> jury. Proponowane (tylko dla bardzo dużego naboru):
 
 ## Skąd te liczby
 
-**jury: 60 rozmów.** Każdy członek musi przeczytać wszystko, co do niej trafi, inaczej nie ma wspólnej podstawy do rozmowy o dziesiątce. Uważna lektura z notatką i punktacją to realnie pół godziny, czyli 30 godzin czytania. Do tego powtórna lektura czołówki (~10 h), obrady i ustalenie kolejności (5-8 h) oraz komentarze do antologii. Razem **45-50 godzin na osobę**. Okno od zamknięcia naboru (15 stycznia 2028) do rozstrzygnięcia (druga połowa marca) to dziewięć tygodni, czyli około pięciu godzin tygodniowo - tyle da się wziąć od człowieka mającego własną pracę.
+**jury: 60 rozmów.** Każdy członek musi przeczytać wszystko, co do niej trafi, inaczej nie ma wspólnej podstawy do rozmowy o dziesiątce. Uważna lektura z notatką i punktacją to realnie pół godziny, czyli 30 godzin czytania. Do tego powtórna lektura czołówki (~10 h), obrady i ustalenie kolejności (5-8 h) oraz komentarze do antologii. Razem **45-50 godzin na osobę**. Okno od zamknięcia naboru (10 stycznia 2028) do rozstrzygnięcia (druga połowa marca) to dziewięć tygodni, czyli około pięciu godzin tygodniowo - tyle da się wziąć od człowieka mającego własną pracę.
 
 Sprawdzian od strony pieniędzy: honoraria jury 69 500 zł, przy pięciu osobach to niecałe 14 000 na osobę, czyli ~290 zł/h. Dla osoby o nazwisku mającym uwiarygodnić nagrodę to stawka na granicy przyzwoitości. Przy 120 rozmowach spadłaby do ~140 zł/h i byłaby nieuczciwa. **100 to sufit techniczny, 150 łamie i czas, i stawkę.**
 

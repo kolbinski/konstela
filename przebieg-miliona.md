@@ -73,9 +73,9 @@ Do jury przechodzą zgłoszenia o najwyższej średniej, **nie mniej niż dwadzi
 
 Propozycja naprawy, nierozstrzygnięta na 1.11.2026: dzika karta przestaje być biletem do jury, a staje się **prawem do niezależnego drugiego odczytu** przez innego członka akademii, który nie zna ani wyniku, ani uzasadnienia karty. Jeżeli po tym odczycie zgłoszenie mieści się w granicy kwalifikacji - awansuje normalnie. Jeżeli nie, ale oba odczyty dały ocenę w górnym pasmie - trafia do **puli dzikich kart o wielkości ogłoszonej przed naborem**, proponowane pięć miejsc ponad limit. Koszt jednej karty spada wtedy do jednego dodatkowego odczytu, a obciążenie jury rośnie najwyżej o wielkość puli.
 
-## 7. Rozmowy weryfikacyjne - 1 kwietnia do 15 maja
+## 7. Rozmowy weryfikacyjne - 27 marca do 15 maja
 
-Każdy z dziesięciu finalistów przechodzi krótką rozmowę do 20 minut o treści swojego zgłoszenia. Nie zmienia punktacji; może natomiast ujawnić inscenizację i prowadzić do odrzucenia w osobnym trybie. Przy braku kontaktu: trzy próby w odstępach nie krótszych niż trzy dni i termin nie krótszy niż czternaście dni; przy bezskutecznym upływie miejsce zajmuje kolejne zgłoszenie z rankingu, wobec którego cały ten tryb biegnie od nowa - dlatego okno obejmuje sześć i pół tygodnia.
+Każdy z dziesięciu finalistów przechodzi krótką rozmowę do 20 minut o treści swojego zgłoszenia. Nie zmienia punktacji; może natomiast ujawnić inscenizację i prowadzić do odrzucenia w osobnym trybie. Przy braku kontaktu: trzy próby w odstępach nie krótszych niż trzy dni i termin nie krótszy niż czternaście dni; przy bezskutecznym upływie miejsce zajmuje kolejne zgłoszenie z rankingu, wobec którego cały ten tryb biegnie od nowa - dlatego okno obejmuje siedem tygodni.
 
 ## 8. Werdykt, gala, publikacja
 

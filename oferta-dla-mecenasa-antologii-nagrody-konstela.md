@@ -30,7 +30,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 Rozmowa z AI jest jednym z **czterech plebiscytów** rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Ta propozycja dotyczy wyłącznie tego, co powstaje wokół plebiscytu na najlepszą rozmowę ze sztuczną inteligencją.
 
-Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 15 stycznia 2028, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
+Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 10 stycznia 2028, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
 Ocena przebiega w dwóch rundach.
 
@@ -267,7 +267,7 @@ Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundat
 
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy mecenatu<small>narzędzia, strona i fundacja muszą powstać przed otwarciem naboru, a od dnia jego otwarcia obowiązuje ogłoszony regulamin, którego już się nie zmienia</small></dd></div>
-<div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 15 stycznia 2028, a zakwalifikowane rosną w publicznej czytelni przez cały rok</small></dd></div>
+<div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 10 stycznia 2028, a zakwalifikowane rosną w publicznej czytelni przez cały rok</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Prace redakcyjne nad antologią<small>redakcja, komentarze jury, korekta i skład; treść zamykamy 31 maja 2028</small></dd></div>
 <div><dt>16 maja - 10 czerwca 2028</dt><dd>Produkcja e-booka i audiobooka; druk nakładu, jeżeli dojdzie do wydania książkowego, następuje po gali w terminie uzgodnionym z wydawcą<small>nakład trafia do dystrybutora przed galą; okładka niesie zwycięski plakat, więc werdykt plebiscytu plakatu znają wcześniej wyłącznie jury tego plebiscytu, Organizator, drukarnia i wydawca - wszyscy objęci poufnością do chwili ogłoszenia na gali</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala i premiera antologii<small>rozstrzygnięcie czterech plebiscytów, premiera e-booka i początek sprzedaży wydania książkowego</small></dd></div>

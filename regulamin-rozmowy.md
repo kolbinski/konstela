@@ -95,12 +95,12 @@
 | Etap | Termin |
 |---|---|
 | Okno rozmów (data przeprowadzenia rozmowy) | **1 stycznia – 31 grudnia 2027 r.** |
-| Przyjmowanie zgłoszeń | od dnia otwarcia naboru do **15 stycznia 2028 r., godz. 23:59** |
+| Przyjmowanie zgłoszeń | od dnia otwarcia naboru do **10 stycznia 2028 r., godz. 23:59** |
 | Weryfikacja formalna | na bieżąco, w miarę wpływania zgłoszeń |
 | Runda pierwsza (akademia) | na bieżąco, partiami, od lutego 2027 do stycznia 2028 |
-| Przegląd zgłoszeń granicznych (§ 8 ust. 13 lit. d) | 30 stycznia – 13 lutego 2028 |
-| Runda druga (jury) | 14 lutego – 31 marca 2028 |
-| Rozmowy weryfikacyjne | 1 kwietnia – 15 maja 2028, z zachowaniem terminów z § 8 ust. 16-17, także wobec Uczestnika wchodzącego na zwolnione miejsce |
+| Przegląd zgłoszeń granicznych (§ 8 ust. 13 lit. d) | 25 stycznia – 8 lutego 2028 |
+| Runda druga (jury) | 9 lutego – 26 marca 2028 |
+| Rozmowy weryfikacyjne | 27 marca – 15 maja 2028, z zachowaniem terminów z § 8 ust. 16-17, także wobec Uczestnika wchodzącego na zwolnione miejsce |
 | Zamknięcie treści antologii i przekazanie do produkcji | **31 maja 2028 r.** |
 | Produkcja e-booka i audiobooka | 1 – 20 czerwca 2028 |
 | Druk nakładu, jeżeli dojdzie do wydania książkowego | po gali, w terminie uzgodnionym z wydawcą |
@@ -110,9 +110,9 @@
 
 O zachowaniu terminu decyduje data i godzina wpływu wiadomości na adres Organizatora.
 
-**Dlaczego kalendarz wygląda tak, a nie inaczej (przeliczony 1.11.2026).** Okno rozmów to cały rok 2027, więc nabór musi być otwarty jeszcze w styczniu 2028 - inaczej rozmowy z grudnia nie mogłyby zostać zgłoszone. Od zamknięcia naboru łańcuch jest wymuszony przez sam Regulamin: zamrożenie punktacji 14 dni później (§ 8 ust. 13 lit. e), obowiązkowy przegląd zgłoszeń granicznych po zamknięciu naboru (§ 8 ust. 13 lit. d), runda jury, a potem rozmowy weryfikacyjne, które wymagają trzech prób kontaktu w odstępach nie krótszych niż 3 dni i terminu nie krótszego niż 14 dni na odbycie rozmowy (§ 8 ust. 16), z możliwością wejścia kolejnego Uczestnika, który ma własne terminy (§ 8 ust. 17). Wcześniejsze brzmienie mieściło to wszystko między 15 stycznia a 29 lutego, co było niewykonalne.
+**Dlaczego kalendarz wygląda tak, a nie inaczej (przeliczony 1.11.2026).** Okno rozmów to cały rok 2027, więc nabór musi być otwarty jeszcze w styczniu 2028 - inaczej rozmowy z grudnia nie mogłyby zostać zgłoszone. Dziesięciodniowy ogon wyznaczono 1.11.2026 nie dla samego przygotowania zgłoszenia, lecz po to, **żeby szczyt wpływu zgłoszeń nie wypadł w okresie świątecznym**: przy zamknięciu 4 stycznia przypadłby na 2-4 stycznia, a przy 10 stycznia przypada po powrocie do pracy. Skrócenie z 15 na 10 stycznia przesunęło wszystkie etapy oceny o pięć dni wcześniej, a zyskany zapas trafił do okna rozmów weryfikacyjnych. Od zamknięcia naboru łańcuch jest wymuszony przez sam Regulamin: zamrożenie punktacji 14 dni później (§ 8 ust. 13 lit. e), obowiązkowy przegląd zgłoszeń granicznych po zamknięciu naboru (§ 8 ust. 13 lit. d), runda jury, a potem rozmowy weryfikacyjne, które wymagają trzech prób kontaktu w odstępach nie krótszych niż 3 dni i terminu nie krótszego niż 14 dni na odbycie rozmowy (§ 8 ust. 16), z możliwością wejścia kolejnego Uczestnika, który ma własne terminy (§ 8 ust. 17). Wcześniejsze brzmienie mieściło to wszystko między 15 stycznia a 29 lutego, co było niewykonalne.
 
-**Zapas na wejście zastępcy.** Okno rozmów weryfikacyjnych obejmuje sześć i pół tygodnia, a nie dwa, ponieważ przy nieodbyciu rozmowy przez finalistę trzeba powtórzyć cały tryb z § 8 ust. 16 wobec Uczestnika wchodzącego na zwolnione miejsce: trzy próby kontaktu w odstępach nie krótszych niż 3 dni i termin nie krótszy niż 14 dni na odbycie rozmowy. Gdyby i to nie wystarczyło, podstawą przesunięcia dnia ogłoszenia wyników jest wąskie przesunięcie z niniejszego paragrafu, które od 1.11.2026 obejmuje wprost rezygnację z § 8 ust. 17.
+**Zapas na wejście zastępcy.** Okno rozmów weryfikacyjnych obejmuje siedem tygodni, a nie dwa, ponieważ przy nieodbyciu rozmowy przez finalistę trzeba powtórzyć cały tryb z § 8 ust. 16 wobec Uczestnika wchodzącego na zwolnione miejsce: trzy próby kontaktu w odstępach nie krótszych niż 3 dni i termin nie krótszy niż 14 dni na odbycie rozmowy. Gdyby i to nie wystarczyło, podstawą przesunięcia dnia ogłoszenia wyników jest wąskie przesunięcie z niniejszego paragrafu, które od 1.11.2026 obejmuje wprost rezygnację z § 8 ust. 17.
 
 **Premierą na gali jest wydanie bezpłatne.** E-book i audiobook nie wymagają druku, więc nie blokują łańcucha. Wydanie książkowe, jeżeli dojdzie do skutku, ukazuje się po gali w terminie uzgodnionym z wydawcą; Regulamin nigdzie go nie obiecuje, a przeznaczenie przychodu z wydania płatnego określa § 11 ust. 4.
 
