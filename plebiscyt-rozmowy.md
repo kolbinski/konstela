@@ -305,7 +305,7 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <div><dt>Cały 2027</dt><dd>Okno rozmów<small>zgłoszenia przyjmujemy na bieżąco, a Czytelnia rośnie</small></dd></div>
 <div><dt>10 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dziesięć dni po zamknięciu okna rozmów, żeby szczyt zgłoszeń nie wypadł w okresie świątecznym</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>datę ogłaszamy osobno: zależy od zakończenia weryfikacji wszystkich zgłoszeń i zamrożenia punktacji pierwszej rundy; głosowanie trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>31 maja 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>wtedy zamykamy treść antologii</small></dd></div>
+<div><dt>17 maja 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>czternaście dni przed zamknięciem treści antologii, żeby kolejna osoba z rankingu zdążyła odbyć rozmowę weryfikacyjną</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
 </dl>
 

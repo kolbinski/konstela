@@ -1174,7 +1174,7 @@ Dwadzieścia sześć zarzutów, w tym kilkanaście sprzeczności między dokumen
 
 **Miejscowość przestała być publikowana.** Była obowiązkowa i publikowana przy rozmowie, ale nie występowała w żadnym opisie zakresu publikacji ani w polityce prywatności - uczestnik wybierający pseudonim mógł nie wiedzieć, że dopiszemy mu miejscowość.
 
-**Dezaktywacja linku pozwalała obejść termin wycofania.** Do 31 maja 2028 wycofanie jest możliwe wiadomością, a po tym dniu nie - ale usunięcie linku działało jak wycofanie w każdej chwili. Teraz skutek zależy od dnia, a po terminie ocena i publikacja opierają się na kopii archiwalnej.
+**Dezaktywacja linku pozwalała obejść termin wycofania.** Do 17 maja 2028 wycofanie jest możliwe wiadomością, a po tym dniu nie - ale usunięcie linku działało jak wycofanie w każdej chwili. Teraz skutek zależy od dnia, a po terminie ocena i publikacja opierają się na kopii archiwalnej.
 
 **Trzy obietnice bez pokrycia**, ten sam wzór co przy filmie: że link pokazuje rzeczywisty przebieg rozmowy razem z nieudanymi pytaniami (regulamin sam dopuszcza udostępnienie wybranej wersji wątku), że link u każdego dostawcy zamraża rozmowę (zależy od dostawcy i rodzaju konta), i że Archiwum zostaje "na stałe" (zostaje bez planowanego terminu zamknięcia).
 
