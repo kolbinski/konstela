@@ -362,6 +362,16 @@ Mechanizm objął piosenkę, plakat i film, ale **nie przez przepisanie go czter
 
 **W pierwszej edycji rundy pozostają wyłączone we wszystkich czterech plebiscytach.**
 
+### Szóste czytanie, prowadzone bez wiedzy o naprawach
+
+Po przejściu scalającym regulamin przeczytał ktoś, kto nie znał historii dokumentu i nie dostał listy wcześniejszych uwag. Wynik: **trzynaście defektów pewnych i pięć do sprawdzenia**, z czego **cztery powstały tego samego dnia**, przy naprawianiu czegoś innego. Wszystkie osiemnaście zamknięte.
+
+**Metoda działa i to jest główny wniosek.** Pięć czytań prowadzonych ze znajomością dokumentu nie wyłapało ani pętli w § 8 ust. 14, ani tego, że przegląd zgłoszeń granicznych jest niewykonalny w edycji liczącej od dwunastu do dwudziestu zgłoszeń - a jest to scenariusz, który regulamin przewiduje wprost w innym miejscu. Czytanie przez kogoś, kto nie wie, co autor miał na myśli, znajduje to, czego czytanie z pamięcią o intencji nie znajdzie nigdy.
+
+**Najpoważniejszy defekt nie był redakcyjny.** Decyzje zastrzeżone dla jury - odrzucenie za treści bezprawne, zarzut wobec osoby trzeciej, dane osoby postronnej - rosły wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób i każda sprawa wymagała zgodnej opinii dwojga z nich. Ocena miała na skalę pięć trybów, reklamacje rozpoznanie zbiorcze, a **ten etap nie miał ani jednego, ani drugiego** - był jedynym w regulaminie, który przy bardzo dużym naborze nie domyka się w żadnym terminie. Zawór: sprawy o tej samej kwestii idą zbiorczo, powyżej ogłoszonej liczby postępowań miejsce dwojga jurorów zajmuje dwoje wskazanych wcześniej członków akademii, z wyłączeniem decyzji rozstrzygających o dziesiątce. **Dopuszczalność samego zastąpienia poszła do kancelarii** (sekcja Ci), a obowiązek dopisano ofercie akademii, bo zmienia to, co sponsor finansuje.
+
+**Cztery nowe defekty własne, dla zapisu, bo wzorzec jest poznawalny.** Wszystkie cztery to **skutki uboczne zawężania**: podniesienie progu składu do dwóch członków nie objęło jednego przepisu, który sam odsyłał do podniesionego; ograniczenie dzikiej karty pułapem puli nie objęło jednej z dwóch dróg wejścia; dopisanie przepustowości akademii do parametrów ogłaszanych umieściło ją w liście warunkowej, więc w pierwszej edycji nie byłaby ogłaszana wcale; a naprawa ścieżki dla danych szczególnych kategorii nałożyła obowiązek, którego przesłanka nigdy by się nie spełniła. **Za każdym razem poprawka była dobra tam, gdzie ją zrobiono, i tworzyła dziurę jedno odesłanie dalej.** Stąd reguła na dalszą pracę: po każdej zmianie zasady przekrojowej sprawdzamy **wszystkie** przepisy, które się do niej odsyłają, a nie tylko ten naprawiany.
+
 ### Czego to nie rozstrzyga
 
 Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie wyliczymy bez próby oceniania przeprowadzonej osobno dla każdego rodzaju zgłoszenia** - czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu. Próba oceniania zostaje więc pozycją otwartą w czterech wariantach, nie w jednym.
