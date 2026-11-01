@@ -390,6 +390,26 @@ Na końcu puściłem sprawdzenie **trzynastu przepisów z ostatniej partii napra
 
 **Czego nie wolno przy tym powiedzieć recenzentowi.** Że regulamin jest sprawdzony. Jest **domknięty co do wszystkiego, co znależiono**, a to nie to samo - i trzy pytania z sekcji Ch oraz dwa z Ci pozostają otwarte niezależnie od redakcji.
 
+### Audyt operacyjny: błąd w moim własnym arkuszu
+
+Trzecia recenzja, tym razem operacyjno-rozliczeniowa, **znalazła błąd w kosztorysie, nie w regulaminie**. Zakładka „Sufit przepustowości” liczyła koszt akademii jako wolumen razy dwa odczyty razy 125 zł **we wszystkich kolumnach**, a dwa odczyty na zgłoszenie obowiązują wyłącznie do 200 zgłoszeń. Powyżej regulamin przewiduje jeden odczyt wstępny, a powyżej 3 000 odczyt wstępny rozdzielony na pytanie o moment odkrycia i rundę zbieżności. Przy milionie dawało to **250 mln zł za tryb, którego regulamin przy tej skali nie stosuje**.
+
+Poprawione: wiersz liczy teraz liczbę odczytów zależnie od trybu i podaje 125 mln zł jako dolną granicę pierwszego przejścia, a osobny wiersz - 12,5 mln zł na obowiązkowy losowy audyt odrzuconych, też jako dolną granicę. Drugich odczytów w paśmie wokół progu kwalifikacji i rundy zbieżności **nie da się wyliczyć, dopóki próg i pasmo nie zostaną ogłoszone**, i arkusz mówi to teraz wprost.
+
+**Ważne co do wzorca.** Dokument `skalowanie-oceny.md` opisywał tryb poprawnie - dwudziestoosobowy zespół zbieżności, 400 zgłoszeń. Błąd był **wyłącznie w arkuszu**, czyli dwa artefakty tego samego projektu mówiły co innego o tej samej rzeczy. To ten sam defekt, który przez cały dzień usuwałem z regulaminu, tylko między plikami, a nie między paragrafami. Wniosek na dalszą pracę: **sprawdzanie spójności musi objąć arkusz, nie tylko dokumenty.**
+
+### Najważniejsze, czego nie było w żadnym dokumencie
+
+Recenzent nazwał brak, którego nie miałem na żadnej liście: **nic nie wiązało ogłoszonej przepustowości akademii z zabezpieczonym finansowaniem**. Organizator mógł ogłosić przepustowość większą, niż opłacił, a § 8 ust. 10b zabrania mu pominąć choćby jednego zgłoszenia - więc różnica spadała na kogoś, a regulamin nie mówił na kogo. Dopisane: ogłoszona przepustowość nie może przewyżzać liczby opłaconych odczytów wraz z kontrolnymi i rezerwą, Organizator podaje liczbę opłaconych odczytów i źródło finansowania, a powyżej tej liczby **pozyskuje finansowanie albo przesuwa termin - i nie przenosi zobowiązania na sponsora pierwszej rundy bez jego zgody**.
+
+Do parametrów ogłaszanych bezwarunkowo dopisany też **próg kwalifikacji i pasmo wokół niego**, bo od nich zależy liczba obowiązkowych drugich odczytów, czyli pozycja kosztowa, której sponsor bez tego nie policzy.
+
+### Co recenzent potwierdził, a nie zakwestionował
+
+Kolejność ścian: **pierwszą jest obsługa formalna, nie ocena** - to samo, co wylicza arkusz. Rundy uczestników przenoszą ścianę oceniania i nie dotykają pozostałych. Jury trzy- do pięcioosobowe przy ograniczonej puli jest wykonalne. Data graniczna 31 sierpnia 2028 nie jest sama w sobie wadą, **ale nie wolno jej traktować jako rezerwy na dowolny wolumen**.
+
+Czego nie podpisałby dziś: gotowości do uruchomienia oraz nieograniczonego zobowiązania sponsora akademii. Pięć warunków, które stawia - fundacja z obsadą, zakończona próba oceniania z wyliczonymi parametrami, przetestowane narzędzia, zakontraktowana przepustowość, zamknięte finansowanie każdego obowiązku - pokrywają się z czterema warunkami z § 10 ust. 5 poza jednym: **zakontraktowaną przepustowością zespołu operacyjnego**, której regulamin nie wymaga.
+
 ### Czego to nie rozstrzyga
 
 Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie wyliczymy bez próby oceniania przeprowadzonej osobno dla każdego rodzaju zgłoszenia** - czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu. Próba oceniania zostaje więc pozycją otwartą w czterech wariantach, nie w jednym.

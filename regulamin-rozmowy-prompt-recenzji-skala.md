@@ -24,7 +24,7 @@ Odpowiedz na pytania, w tej kolejności:
 
 3. **Pierwsza ściana przy milionie zgłoszeń.** Przejdź łańcuch od wpływu zgłoszenia do werdyktu jury i wskaż, co pęka **pierwsze**. Nie najdroższe, pierwsze. Potem wskaż, co pęka drugie i trzecie. Jeżeli uważasz, że wąskim gardłem nie jest ocena, powiedz to wprost i podaj, co nim jest.
 
-4. **Koszt sponsora Akademii przy milionie zgłoszeń.** Zakładka "Sufit przepustowości" podaje nasze stawki i nasz rachunek: 220 zł za godzinę pracy organizatora, 125 zł za jeden odczyt Akademii, dwa odczyty na zgłoszenie w trybie podstawowym, a przy milionie zgłoszeń bez rund uczestników - 250 000 000 zł na samą pierwszą rundę oceny. Sprawdź ten rachunek i odpowiedz na trzy rzeczy osobno:
+4. **Koszt sponsora Akademii przy milionie zgłoszeń.** Zakładka "Sufit przepustowości" podaje nasze stawki i nasz rachunek: 220 zł za godzinę pracy organizatora i 125 zł za jeden odczyt Akademii, przy czym **liczba odczytów na zgłoszenie nie jest stała** - wynika z trybu oceny z § 8 ust. 10 i do 200 zgłoszeń wynosi dwa, a powyżej jeden odczyt wstępny plus odczyty kontrolne i runda zbieżności. Przy milionie zgłoszeń bez rund uczestników arkusz podaje jako dolną granicę 125 000 000 zł na pierwsze przejście oceny i 12 500 000 zł na obowiązkowy losowy audyt odrzuconych. Sprawdź ten rachunek i odpowiedz na trzy rzeczy osobno:
 
    - czy liczby się zgadzają i czego w nich nie ma; wymień pominięte pozycje kosztowe, których sami nie policzyliśmy;
    - ile **naprawdę** zapłaci sponsor Akademii przy milionie zgłoszeń, jeżeli rundy uczestników zostaną ogłoszone przed naborem; wskaż, który parametr regulaminu rozstrzyga o tej kwocie;
