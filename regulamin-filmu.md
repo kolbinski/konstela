@@ -21,13 +21,13 @@
 
 1a. **Lista rankingowa, finalista, laureat.** Ilekroć Regulamin posługuje się tymi pojęciami, rozumie się przez nie:
 
-   - **lista rankingowa** - kolejność całej dziesiątki finalistów ustalona przez jury, a po jej wyczerpaniu kolejność według wyniku oceny akademii filmu (§ 8 ust. 4) wśród pozostałych zgłoszeń, które przeszły weryfikację formalną; podstawienie kolejnego zgłoszenia na zwolnione miejsce następuje w tej właśnie kolejności, a sięgnięcie poza listę przekazaną jury (§ 8 ust. 5a) wymaga uprzedniego zapoznania się ze zgłoszeniem przez cały skład jury;
+   - **lista rankingowa** - kolejność całej dziesiątki finalistów ustalona przez jury; **po jej wyczerpaniu** - kolejność według wyniku oceny akademii filmu (§ 8 ust. 4) wśród pozostałych zgłoszeń, które ocenę akademii otrzymały, a **po wyczerpaniu i tych** - w edycji z rundami uczestników (§ 8 ust. 4f) kolejność według wyniku ostatniej rundy, którą dane zgłoszenie przeszło, przy czym oceny te **nie stają się przez to werdyktem ani nie wiążą jury** i służą wyłącznie ustaleniu kolejności podstawiania. Podstawienie kolejnego zgłoszenia na zwolnione miejsce następuje w tej właśnie kolejności, a sięgnięcie poza listę przekazaną jury (§ 8 ust. 5a) wymaga uprzedniego zapoznania się ze zgłoszeniem przez cały skład jury;
 
    - **finalista** - Uczestnik, którego zgłoszenie weszło do dziesiątki finalistów;
 
    - **laureat** - finalista, któremu przyznano nagrodę pieniężną.
 
-   Pojęcia określono 1.11.2026, bo wiązały skutki w kilku paragrafach, a żaden ich nie definiował; rozstrzygnięcia wymagało zwłaszcza to, co dzieje się po wyczerpaniu dziesiątki. Brzmienie odpowiada § 1a ust. 1a regulaminu plebiscytu na rozmowę i ma być z nim zgodne.
+   Pojęcia określono 1.11.2026, bo wiązały skutki w kilku paragrafach, a żaden ich nie definiował; rozstrzygnięcia wymagało zwłaszcza to, co dzieje się po wyczerpaniu dziesiątki. Trzeci szczebel listy dopisano 1.11.2026 razem z rundami uczestników: zgłoszenia, które przeszły weryfikację formalną, lecz odpadły w rundach, nie mają żadnej oceny akademii, więc bez niego definicja nie dawała dla nich kolejności. Konstrukcja odpowiada § 1a ust. 1a regulaminu plebiscytu na rozmowę; różnica dotyczy wyłącznie tego, że w tym plebiscycie dziesiątka finalistów jest zarazem dziesiątką werdyktu.
 
 2. Ilekroć niniejszy regulamin wiąże skutek z ogłoszeniem werdyktu, rozumie się przez to **publiczne ogłoszenie na gali**, chyba że przepis wyraźnie odsyła do ustalenia werdyktu.
 
