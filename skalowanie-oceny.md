@@ -69,7 +69,7 @@ Opłacona Akademia ma przepustowość rzędu **425 zgłoszeń** przy dwóch odcz
 
 ## Zasada
 
-**Warunkiem rozpatrzenia zgłoszenia jest przeczytanie i ocenienie do czterech cudzych rozmów w rundzie - albo tylu, ile obejmuje budżet słów przydziału - obok dwóch zgłoszeń wzorcowych w tym samym przydziale.** Przydział jest losowy i ślepy, według tej samej jawnej karty oceny. Rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii; **w kolejnych rundach czytają ci, których zgłoszenia przeszły rundę poprzednią**.
+**Warunkiem rozpatrzenia zgłoszenia jest przeczytanie i ocenienie do czterech cudzych rozmów w rundzie - albo tylu, ile obejmuje budżet słów przydziału - obok dwóch zgłoszeń wzorcowych, które stoją poza tym budżetem.** Przydział jest losowy i ślepy, według tej samej jawnej karty oceny. Rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii; **w kolejnych rundach czytają ci, których zgłoszenia przeszły rundę poprzednią**.
 
 Konstrukcja bilansuje się sama: w każdej rundzie liczba czytających równa się liczbie zgłoszeń, bo czyta ten, czyje zgłoszenie zostało. Cztery oceniane zgłoszenia na uczestnika to w przybliżeniu cztery oceny na zgłoszenie, bez względu na skalę i bez administrowania.
 
@@ -103,7 +103,9 @@ Cena tej konstrukcji: **liczba ocen na zgłoszenie przestaje być równa.** Dłu
 4. **Kontrola jakości ocen**, trzema niezależnymi narzędziami:
    - **dwa zgłoszenia wzorcowe** - odchylenie od rozpisanej punktacji powyżej progu oznacza, że oceny tej osoby tracą wagę i trafiają do przeglądu; dwa, bo przy jednym przypadkowa punktacja ma szansę przejść;
    - **normalizacja** - oceny przeliczane na odchylenie od punktacji ustalonej dla zgłoszeń wzorcowych, co kasuje systematyczne zaniżanie i zawyżanie; przy jednakowej punktacji całego przydziału oceny są pomijane, bo nie ma czym dzielić. Normalizacja względem własnej średniej oceniającego, z czterech liczb, byłaby pozorem precyzji - dlatego punktem odniesienia są zgłoszenia wzorcowe;
-   - **sprawdzenie spójności uzasadnienia z rozmową** - modelem, wyłącznie jako sygnał dla człowieka; model nie ocenia rozmowy i niczego nie rozstrzyga.
+   - **zgodność z pozostałymi ocenami tego samego zgłoszenia** - każde zgłoszenie zbiera co najmniej trzy oceny, więc ocena odstająca od pozostałych trafia do przeglądu, a oceniający odstający systematycznie traci wagę ocen. To narzędzie **nie wymaga modelu** i działa także wtedy, gdy ktoś rozpozna zgłoszenia wzorcowe.
+
+   Sprawdzanie spójności uzasadnienia z rozmową **modelem** - pierwotnie trzecie narzędzie - zostało z regulaminu wyjęte 1.11.2026. Powód: § 8 ust. 8 obiecuje, że narzędzia oparte na modelach językowych służą wyłącznie weryfikacji warunków formalnych i że zgłoszenia nie są przekazywane dostawcom modeli. Żeby model mógł sprawdzać spójność, trzeba otworzyć ten ustęp wyjątkiem, a wcześniej dostać od kancelarii odpowiedź, czy licencja Uczestnika to obejmuje i jakie powierzenie przetwarzania jest konieczne. Narzędzie wraca, gdy ta odpowiedź będzie - jako czwarte, nie jako podstawa.
 5. **Skutki kontroli.** Zakwestionowana ocena przepada i nie liczy się do niczego; zgłoszenie, które ją straciło, dostaje odczyt uzupełniający. **Konsekwencja spada na ocenę, nie na zgłoszenie oceniającego** - inaczej powstałoby narzędzie do eliminowania konkurenta przez podrzucenie mu złego przydziału.
 
    Od tego jest jeden wyjątek i bez niego cała konstrukcja byłaby do obejścia w dwie minuty: **ocena pozorna, czyli taka, przy której widać, że rozmowy nie przeczytano, oznacza odczyt niewykonany**, a nie tylko ocenę odrzuconą. Inaczej najtańszym sposobem spełnienia warunku rozpatrzenia zgłoszenia byłoby wypełnienie kart zerami albo losowymi liczbami: obowiązek formalnie wykonany, oceny odrzucone, zgłoszenie idzie dalej. Przesłanki muszą być zamknięte i mierzalne - jednakowa punktacja we wszystkich kryteriach przy rozbieżności ze wzorcem, karta niekompletna, rozbieżność z obydwoma wzorcami - bo ocenianie intencji nie jest rzeczą, którą regulamin może robić. Skutkiem jest przydział zastępczy, a dopiero przy powtórzeniu wyłączenie z dalszych rund.
@@ -118,7 +120,7 @@ Cena tej konstrukcji: **liczba ocen na zgłoszenie przestaje być równa.** Dłu
 | 3 | 10 000 | 60 000 | 40 000 | 1 000 |
 | 4 | 1 000 | 6 000 | 4 000 | ~400 |
 
-Razem 6,67 mln odczytów, z czego 4,44 mln to oceny zgłoszeń, a reszta zgłoszenia wzorcowe; 90% przypada na pierwszą rundę. Uczestnik, który dochodzi do końca, czyta dwadzieścia cztery rozmowy; uczestnik odpadający w pierwszej rundzie - sześć, a przy długich rozmowach mniej. **Pracy więcej ma ten, komu idzie lepiej.**
+Razem 6,67 mln odczytów, z czego 4,44 mln to oceny zgłoszeń, a reszta zgłoszenia wzorcowe; 90% przypada na pierwszą rundę. Uczestnik, który dochodzi do końca, ocenia szesnaście cudzych rozmów i czyta do ośmiu wzorcowych; uczestnik odpadający w pierwszej rundzie - cztery i dwie, a przy długich rozmowach mniej. **Pracy więcej ma ten, komu idzie lepiej.**
 
 Przy pięciu tysiącach zgłoszeń wystarcza jedna runda, przy pięćdziesięciu - dwie.
 
@@ -126,7 +128,7 @@ Przy pięciu tysiącach zgłoszeń wystarcza jedna runda, przy pięćdziesięciu
 
 - **do sześciu odczytów na rundę, z czego dwa wzorcowe, ograniczonych budżetem słów** - cztery oceniane zgłoszenia dają cztery oceny na zgłoszenie, czyli medianę, z której da się odrzucić ocenę odstającą, dwa wzorce domykają kontrolę jakości, a budżet słów wyrównuje obciążenie i obniża jego sufit;
 - **rundy powtarzają się, aż liczba zgłoszeń zejdzie do przepustowości opłaconej Akademii** - reguła, nie stała, więc nie trzeba zmieniać regulaminu, gdy wolumen skoczy;
-- **najwyżej dwadzieścia cztery odczyty i czterokrotność budżetu słów na uczestnika w całej edycji** - przy milionie wystarczają cztery rundy, a po przekroczeniu granicy odczyty przejmuje Akademia.
+- **najwyżej szesnaście ocenianych zgłoszeń i czterokrotność budżetu słów na uczestnika w całej edycji** - przy milionie wystarczają cztery rundy, a po przekroczeniu granicy odczyty przejmuje Akademia.
 
 ## Czego ta konstrukcja nie rusza
 
@@ -142,6 +144,38 @@ Oceny z rund uczestników **nie przyznają żadnej nagrody**. Decydują wyłącz
 - **Sprawdzenie spójności modelem skaluje się liniowo**: cztery i pół miliona sprawdzeń po dwa grosze to blisko 90 000 zł, więc potrzebny jest limit i działanie na próbce plus na sygnałach.
 - **Pytanie do kancelarii**: przesłanie cudzej rozmowy do modelu dostawcy to powierzenie przetwarzania i wymaga podstawy w licencji uczestnika.
 
+## Co znalazł audyt z 1.11.2026
+
+Po wpisaniu rundy uczestników do regulaminu przeszedłem ją pod kątem oszustw, a niezależnie przeczytał ją ktoś, kto jej nie pisał. Razem **szesnaście pozycji**, z czego trzy były sprzecznościami z innymi przepisami tego samego regulaminu, a jedna groziła nierozstrzygnięciem edycji. Wszystkie zostały zamknięte w brzmieniu z 1.11.2026 - zapis poniżej jest po to, żeby przy kolejnych zmianach nie odtworzyć ich z powrotem.
+
+**Sprzeczności.** Automatyczne sprawdzanie spójności łamało § 8 ust. 8 (patrz wyżej). Warunek zakończenia rund „aż pole zejdzie do przepustowości akademii" łamał § 8 ust. 10, bo przepustowość zależy od decyzji Organizatora, a ustęp 10 zabrania wiązać tryb oceny z taką decyzją - dziś ogłaszana jest **liczba zgłoszeń kończąca rundy**. Odesłanie do „§ 8 ust. 5a" wskazywało przepis, którego w § 8 nie ma; zastąpił je **obowiązek odstąpienia od oceny po rozpoznaniu autora**, wzorowany na ust. 6 i jedyny wykonalny przy przydziale ślepym.
+
+**Terminy.** Rundy ruszają po zamknięciu naboru i zajmują około trzech miesięcy, a § 1b ust. 2a wylicza podstawy przesunięcia zamknięcie - rund tam nie było, więc ich włączenie prowadziło wprost do nierozstrzygnięcia edycji. Dziś: ogłoszenie rund podaje **terminy edycji uwzględniające czas ich przeprowadzenia**, dzień zamrożenia punktacji liczy się od zakończenia ostatniej rundy, jedna runda więcej mieści się w wąskim przesunięciu z § 4, a większa potrzeba uruchamia ust. 10b.
+
+**Arytmetyka.** Dwa wzorce po 25 tysięcy słów wyczerpywały budżet 30 tysięcy same, więc uczestnik wykonywał obowiązek, nie oceniwszy ani jednego cudzego zgłoszenia - a nadal podlegał przesłance odchylenia od obu wzorców. Dziś wzorce stoją **poza budżetem słów** i dobierane są wyłącznie z krótszych zgłoszeń. Gwarancja minimum trzech ocen przy milionie zgłoszeń i pięcioprocentowym niedoborze oznaczała 50 tysięcy odczytów do wykonania przez akademię o przepustowości 425; dziś brakujące oceny dobierają się **w kolejnych przydziałach uczestników**, a gdyby to nie wystarczyło, wchodzi próg wykonania rundy.
+
+**Czego w ogóle nie było.** Poufności po stronie oceniającego. Oznaczania zastrzeżeń prawnych i prawa sygnału o inscenizacji - oba przysługiwały tylko członkom akademii i jury, więc przy rundach uczestników organizator tracił jedyne źródło wiedzy o zastrzeżeniach w zgłoszeniach, których akademia nie przeczyta, choć wszystkie wchodzą do Czytelni. Reguły remisowej na granicy awansu. Trybu odwoławczego. Przepisów o wycofaniu, odrzuceniu i wykluczeniu zgłoszenia w trakcie rundy. Zgody przedstawiciela ustawowego dla uczestników od 16 do 18 lat - katalog w § 3 ust. 1a był zamknięty i czytania cudzych rozmów nie obejmował.
+
+**Progu wykonania rundy**, bez którego pole zawężałoby się przez niewykonanie obowiązku, a nie przez wartość zgłoszeń. To była najpoważniejsza pozycja merytoryczna: finalistami zostaliby sumienni, nie najlepsi, a próbka kontrolna tego nie wyłapie, bo takie odrzucenia są formalnie prawidłowe.
+
+**I rzecz, którą trzeba było odwołać, a nie naprawić.** Strona plebiscytu obiecywała, że „zaniżanie cudzych ocen nie podnosi Twojej pozycji". Normalizacja znosi zaniżanie **systematyczne**, więc strategią dominującą zostawało: ocenić trafnie wzorce i zaniżyć cudze rozmowy z porządnym uzasadnieniem. Nie uruchamiało to żadnej kontroli. Zgodność z pozostałymi ocenami tego samego zgłoszenia to łapie - ale obietnicy ze strony i tak nie da się utrzymać w tej postaci i została zdjęta.
+
+## Dzika karta w rundach uczestników nie przysługuje
+
+Przysługuje członkowi akademii, a akademia w tych rundach czyta wyłącznie próbkę kontrolną i odczyty uzupełniające - nie ma kto jej użyć. Ochronę zgłoszeń nietypowych pełni w tych rundach sama próbka kontrolna. Zapisane w lit. h, żeby nie trzeba było tego wnioskować.
+
 ## Zostaje do rozstrzygnięcia
 
-Budżet słów przydziału (trzydzieści tysięcy to propozycja wyliczona z typowej długości zgłoszenia, a typowej długości jeszcze nie znamy), proporcja awansu w rundzie (dziesiąta część to propozycja, nie wyliczenie), próg odchylenia od zgłoszenia wzorcowego, wielkość losowej próbki kontrolnej i próg błędu, przy którym rundę trzeba powtórzyć szerzej. Wszystkie pięć to parametry jakości rundy uczestników i żadnego nie wyliczymy bez próby oceniania.
+Dziewięć parametrów, wszystkie ogłaszane przed naborem i żadnego nie wyliczymy bez próby oceniania:
+
+- **budżet słów przydziału** - nie niższy niż górna granica objętości rozmowy; trzydzieści tysięcy to propozycja wyliczona z typowej długości zgłoszenia, a typowej długości jeszcze nie znamy;
+- **pasmo objętości** przydziału zastępczego przy odmowie;
+- **granica objętości** zgłoszeń dobieranych jako wzorcowe oraz **limit powtórzeń** jednego wzorca;
+- **proporcja awansu w rundzie** - dziesiąta część to propozycja, nie wyliczenie;
+- **liczba zgłoszeń kończąca rundy**;
+- **próg zgodności ze zgłoszeniami wzorcowymi**;
+- **próg odstawania od pozostałych ocen** tego samego zgłoszenia;
+- **wielkość próbki kontrolnej i próg błędnych odrzuceń**;
+- **próg wykonania rundy**, poniżej którego runda nie zawęża pola.
+
+Wpisanie teraz dowolnej z tych liczb byłoby tym samym błędem co liczba zgłoszeń wzięta z iloczynu w kosztorysie.
