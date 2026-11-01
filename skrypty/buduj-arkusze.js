@@ -51,9 +51,11 @@ function slug(s) {
    polska reguła domyślna nie grupuje liczb czterocyfrowych i w jednej kolumnie
    wychodziło „5500" obok „11 000". Lata zapisane są w arkuszu jako tekst, więc
    ta funkcja ich nie dotyka. */
-function fmt(v) {
+function fmt(v, dziesietny) {
   const n = Number(v);
   if (!isFinite(n)) return String(v);
+  if (dziesietny)
+    return n.toLocaleString('pl-PL', { minimumFractionDigits: 3, maximumFractionDigits: 3 });
   if (Math.abs(n) > 0 && Math.abs(n) < 1) return (n * 100).toFixed(0) + '%';
   return n.toLocaleString('pl-PL', {
     minimumFractionDigits: Number.isInteger(n) ? 0 : 2,
@@ -84,7 +86,11 @@ function komorka(c) {
   }
   if (v === null || v === undefined) v = '';
   const liczba = v !== '' && typeof v === 'number';
-  return { tekst: liczba ? fmt(v) : String(v), liczba, formula };
+  /* Komórka z jawnym formatem trzech miejsc po kropce jest mnożnikiem, nie
+     udziałem: 0,25 odczytu na zgłoszenie to nie „25%". Taki format wyłącza
+     przeliczanie ułamków na procenty. */
+  const dziesietny = String(c.numFmt || '') === '0.000';
+  return { tekst: liczba ? fmt(v, dziesietny) : String(v), liczba, formula };
 }
 
 function tabela(ws) {

@@ -542,6 +542,17 @@ Dokument nie był jeszcze konsultowany z kancelarią. Poniżej miejsca, które d
 9. **Skutki usunięcia filmu przez Uczestnika (§ 11 ust. 7)** – czy stopniowanie skutków w czasie jest wobec konsumenta dopuszczalne i czy lit. b nie wymaga wskazania terminu zamiast odesłania do etapu oceny.
 10. **Wersja plebiscytowa (§ 11 ust. 6-6b)** – czy zobowiązanie Uczestnika do niezmieniania filmu oraz metryka zgłoszenia są wystarczającą podstawą wykluczenia przy braku kopii po stronie Organizatora, i czy sporządzanie metryki wymaga odrębnej podstawy w polityce prywatności.
 
+## Cl. Udział członków akademii w postępowaniach o odrzucenie zgłoszenia - pytania sponsora pierwszej rundy
+
+Konstrukcja: decyzję o odrzuceniu zgłoszenia za treści bezprawne, zarzuty wobec osób trzecich albo dane osoby postronnej podejmuje Organizator wspólnie z co najmniej dwoma członkami jury (§ 6 regulaminu rozmowy). Powyżej liczby postępowań ogłoszonej przed naborem miejsce dwojga jurorów zajmuje dwoje wskazanych wcześniej członków akademii. Dopuszczalność samego zastąpienia pytam w sekcji Ci; poniżej cztery pytania, które postawił podmiot mający finansować honoraria akademii, i które wiążą się z tym, że **finansujący ocenę finansuje wtedy także udział w postępowaniu o charakterze prawnym**.
+
+1. **Kwalifikacje.** Czy członek akademii dobrany według kompetencji do oceniania rozmowy (karta oceny, kryteria merytoryczne) może brać udział w decyzji o bezprawności treści, naruszeniu dóbr osobistych osoby trzeciej albo przetwarzaniu danych osoby postronnej - bez kwalifikacji, których karta oceny nie wymaga? Jeżeli nie, czy wystarczy wymóg regulaminowy, by wskazani z góry członkowie akademii mieli takie kwalifikacje, czy konieczne jest powołanie osób spoza akademii?
+2. **Wyłączenia.** Jakie zasady wyłączenia stosuje się przy konflikcie interesów w tych postępowaniach i czy są szersze niż wyłączenie z oceniania? Pytanie ma dodatkowy wymiar, bo honoraria akademii finansuje sponsor, którego pracownicy mogą być członkami akademii: czy udział pracownika sponsora w decyzji o odrzuceniu zgłoszenia wymaga wyłączenia z mocy samego stosunku pracy, niezależnie od relacji ze zgłaszającym.
+3. **Odpowiedzialność.** Kto ponosi odpowiedzialność za decyzję i jej uzasadnienie: Organizator, osoby w składzie decydującym, czy jedno i drugie - i czy rozdzielenie kompetencji na piśmie oraz protokołowanie decyzji zmienia ten rozkład?
+4. **Ponowne rozpoznanie.** Czy uczestnikowi, którego zgłoszenie odrzucono w takim składzie, musi przysługiwać ponowne rozpoznanie sprawy w składzie innym niż ten, który decydował, i czy siedmiodniowy tryb zastrzeżeń z regulaminu to wyczerpuje.
+
+Osobne pytanie z tej samej rozmowy, dotyczące już nie akademii, lecz sponsora: **czy regulamin albo umowa sponsorska powinny zawierać zamkniętą definicję podmiotu, który nie może finansować oceny.** Oferta rozdziela dziś dostawcę modelu (nie może) od dostawcy narzędzi, warstwy aplikacyjnej i usług opartych na cudzych modelach (może, przy ujawnieniu działalności i wyłączeniu osób w konflikcie). Pytanie jest o to, czy taka definicja jest potrzebna w regulaminie - a więc wiążąca wobec uczestników - czy wystarcza w umowie, i czy jej brak może być podstawą zarzutu wobec werdyktu.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
