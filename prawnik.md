@@ -435,6 +435,31 @@ Oba powstały z napraw wprowadzonych 1.11.2026 i oba dotyczą przepisów, które
 
    To pytanie jest wariantem pytania 3 z sekcji Ch i ma sens tylko przy odpowiedzi twierdzącej na tamto.
 
+## Cj. Trzy kwestie wskazane przez recenzenta jako pierwszorzędne (dodane 1.11.2026)
+
+Regulamin przeczytał niezależny recenzent w roli pełnomocnika uczestnika, który szuka podstaw do podważenia rozstrzygnięcia. Jego wniosek końcowy: **największe ryzyko prawne nie tkwi w tym, jak jury wybierze zwycięzcę, lecz w tym, co stanie się z uczestnikami, jeżeli edycja nie zostanie rozstrzygnięta.** Pełna recenzja w `recenzje/2026-11-01-regulamin-rozmowy-oczami-pelnomocnika-uczestnika.md`. Trzy kwestie wskazał jako wymagające szczególnie dokładnej pracy kancelarii; wszystkie trzy zostały w regulaminie zmienione jeszcze tego samego dnia, ale **żadna z tych zmian nie zastępuje odpowiedzi prawnej**.
+
+1. **Wyłączenie roszczeń przy nierozstrzygnięciu edycji (§ 10 ust. 4).** Przepis wyłączał wszelkie roszczenia przy każdej podstawie nierozstrzygnięcia, w tym przy nieustaleniu werdyktu do daty granicznej, które jest ryzykiem organizacyjnym, a nie oceną jakości zgłoszeń. Został zawężony: dziś wyłącza roszczenie o nagrodę, a nie odpowiedzialność za niewykonanie własnych obowiązków, z wyraźnym odesłaniem do art. 471 i art. 473 § 2 KC.
+
+   - Czy zawężone brzmienie jest wystarczające, czy klauzula w jakimkolwiek kształcie pozostaje zarzutem z art. 385(1) w związku z art. 385(3) pkt 2 KC.
+   - Czy fundacja prowadząca Nagrodę jest w tym stosunku przedsiębiorcą w rozumieniu KC, a uczestnik konsumentem - recenzent wprost odmówił przesądzenia tego i uznał za kwestię wymagającą oceny rzeczywistej działalności.
+   - Czy rozgraniczenie podstaw (ust. 1 i 2 bez roszczenia odszkodowawczego, ust. 2a z zachowaniem odpowiedzialności) daje się obronić, czy również przy zbyt małej liczbie zgłoszeń odpowiedzialności wyłączyć nie można.
+
+2. **Przesunięcie nieograniczone w dniach wobec daty granicznej (§ 8 ust. 10b w związku z § 1b ust. 3).** Nabór nie ma limitu, nadmiaru zgłoszeń odrzucić nie wolno, czas oceny może zostać przesunięty, a granicą jest 31 sierpnia 2028 r. Recenzent zwraca uwagę, że uczestnik może przez znaczną część 2028 roku nie wiedzieć, kiedy edycja się skończy, bo regulamin nie wyznacza terminu na podanie przewidywanego czasu oceny.
+
+   - Czy przy przyrzeczeniu publicznym dopuszczalne jest przesunięcie nieograniczone w dniach, jeżeli jego przesłanka jest mierzalna i ogłoszona z góry.
+   - Czy należy wprowadzić obowiązek podania przewidywanego terminu zakończenia oceny, a jeżeli tak - z jaką sankcją za jego niedochowanie.
+   - Czy otwarcie naboru bez limitu przy znanej z góry przepustowości jest samo w sobie zaniedbaniem organizatora, czy przeciwnie - brak limitu jest wymogiem uczciwości przyrzeczenia.
+
+3. **Zgodność bezterminowego Archiwum z RODO (§ 11 ust. 3 i § 12).** Podstawa „wykonanie stosunku prawnego powstałego ze zgłoszenia” obejmowała wszystkie operacje, od przyjęcia zgłoszenia do bezterminowej publikacji pełnych rozmów i jawnych ocen wszystkich uczestników. Podstawy zostały rozdzielone na cztery grupy, a dwie z nich oparte na art. 6 ust. 1 lit. f, z obowiązkiem przeprowadzenia i udokumentowania testu przed otwarciem naboru.
+
+   - Czy test z art. 6 ust. 1 lit. f da się dla tych dwóch operacji przeprowadzić z wynikiem pozytywnym, a jeżeli tak - jakiego zakresu danych dotyczy.
+   - Jak pogodzić bezterminowość wpisu z zasadą ograniczenia przechowywania z art. 5 ust. 1 lit. e RODO; czy wyjątek archiwizacyjny z art. 89 jest tu dostępny dla fundacji i jakich zabezpieczeń wymaga.
+   - Jeżeli odpowiedź jest przecząca: czy wystarczy wariant awaryjny z § 11 ust. 11 lit. h (Archiwum bez kopii rozmów), czy należy ogłosić skończony okres przechowywania - i jaki.
+   - Czy jawna punktacja **wszystkich** zgłoszeń, także nienagrodzonych, utrzymuje się przy tym teście, czy należy ją ograniczyć do zgłoszeń nagrodzonych albo do postaci nieidentyfikującej.
+
+**Czwarte pytanie, którego recenzent nie postawił jako osobnego, a które z jego analizy wynika.** Uczestnik nie może udzielić zgody na przetwarzanie danych szczególnych kategorii dotyczących innej osoby, a rozmowa może je zawierać, zanim ktokolwiek ją przeczyta. Regulamin reaguje na to po wpływie zgłoszenia (§ 6a ust. 4, § 6 pkt 13). Czy ta konstrukcja wystarcza, czy wymagane jest ograniczenie przetwarzania **od chwili wpływu**, przed pierwszym odczytem - co przy każdym zgłoszeniu oznaczałoby wstępny przegląd treści przez Organizatora, czyli dokładnie to, czego § 8 ust. 3a lit. d nie przewiduje, bo nie skaluje się z liczbą zgłoszeń.
+
 ## D. Załączniki
 
 - [Regulamin](/dokument/regulamin-rozmowy) - regulamin w wersji przeznaczonej do publikacji; miejsca wymagające sprawdzenia wypisane w sekcji Ca
