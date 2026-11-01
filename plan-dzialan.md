@@ -323,6 +323,20 @@ Reszta: odesłanie do ogłoszenia wskazywało § 9 ust. 5, czyli przepis o kateg
 
 **Wniosek, który trzeba zapamiętać:** przy mechanizmie wplecionym w kilkanaście przepisów naprawianie luk tworzy nowe w tempie zbliżonym do ich zamykania. Miarą gotowości jest liczba tur, po których czytający przestaje znajdować pozycje tej wagi - nie to, ile razy tekst był poprawiany. Trzecie czytanie jest potrzebne przed wysłaniem regulaminu do kancelarii.
 
+**Sufit przepustowości policzony (1.11.2026).** Rundy uczestników przeniosły ścianę oceniania i nie dotknęły żadnej innej - a inne stoją niżej. Nowa zakładka **Sufit przepustowości** w arkuszu budżetu liczy to na stawkach z kosztorysu.
+
+Wynik trzyma jedna liczba: **dziesięć minut pracy organizatora na zgłoszenie** (6 minut archiwizacji i oceny formalnej, 4 minuty korespondencji - wiersze 10 i 11 Budżetu Rozmowy z AI), czyli 36,67 zł przy stawce 220 zł. To trzysta razy więcej niż SMS i blisko dwa tysiące razy więcej niż magazyn.
+
+**Ściana jest kadrowa i stoi przy kilku tysiącach zgłoszeń.** Dziesięć tysięcy zgłoszeń to 1 667 godzin, czyli osiem dziesiątych etatu przez rok - obok wszystkiego innego, co w tej edycji robię. Sto tysięcy to ponad osiem etatów, milion - osiemdziesiąt trzy. Po automatyzacji (1,5 minuty na zgłoszenie) milion to nadal ponad dwanaście etatów.
+
+Trzy rzeczy, których **nie trzeba rozwiązywać**, bo nie są ścianą: przy milionie zgłoszeń SMS-y to 120 tys. zł, magazyn kopii i ilustracji za pięć lat 18 tys. zł, automatyczna kontrola formalna 30 tys. zł - razem mniej niż jedna dziesiąta pracy ludzkiej z tego samego wiersza.
+
+**Zmiana kolejności prac:** narzędzie do automatycznej kontroli formalnej i samoobsługa statusu zgłoszenia przestają być udogodnieniem, a stają się **warunkiem przyjęcia naboru większego niż kilka tysięcy zgłoszeń**. Nie ma go, Budżet Uruchomienia go nie obejmuje, a regulamin dopuszcza je wprost w § 8 ust. 8. Do wyceny przy najbliższym podejściu do roli Mecenasa Założycielskiego.
+
+Do policzenia osobno przy dużym naborze: moderacja ilustracji (przy milionie to milion obrazków, których nikt nie oglądał, bo ilustracja nie wpływa na punktację), wnioski z RODO, rozstrzyganie oznaczonych zastrzeżeń prawnych i liczba wiadomości w głosowaniu publiczności.
+
+**Przy okazji poprawione:** pole założeń w zakładce Wyjaśnienia nazywało się „Liczba zgłoszeń do Nagrody" i trzymało liczbę, której zakazaliśmy 31.10. Audyt jej nie wyłapał, bo to goła liczba w komórce, a nie tekst. Pole nazywa się teraz **„Przepustowość objęta kosztorysem"**, z uwagą, że prognozy nie mamy.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.

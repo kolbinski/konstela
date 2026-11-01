@@ -174,6 +174,31 @@ Z czterech pozycji zamkniętych częściowo: odmowa skierowana na zgłoszenie wz
 
 Przysługuje członkowi akademii, a akademia w tych rundach czyta wyłącznie próbkę kontrolną i odczyty uzupełniające - nie ma kto jej użyć. Ochronę zgłoszeń nietypowych pełni w tych rundach sama próbka kontrolna. Zapisane w lit. h, żeby nie trzeba było tego wnioskować.
 
+## Sufit poza ocenianiem: policzony 1.11.2026
+
+Rundy uczestników przenoszą ścianę oceniania. Nie przenoszą ani jednej z pozostałych - a te stoją **niżej**. Rachunek w [zakładce Sufit przepustowości](https://konstela.org/arkusz/budzet-edycji-pierwszej#sufit-przepustowosci), na stawkach z kosztorysu, nie na szacunkach.
+
+Jedna liczba trzyma cały wynik: **dziesięć minut pracy organizatora na jedno zgłoszenie.** Sześć minut to archiwizacja i ocena formalna, cztery to korespondencja - obie pozycje stoją w Budżecie Rozmowy z AI, w wierszach 10 i 11. Przy stawce 220 zł daje to **36,67 zł na zgłoszenie**: trzysta razy więcej niż SMS potwierdzający i blisko dwa tysiące razy więcej niż magazyn kopii.
+
+| Zgłoszeń | Praca organizatora | Osobolata | Po automatyzacji | Osobolata | SMS | Magazyn 5 lat |
+|---:|---:|---:|---:|---:|---:|---:|
+| 150 | 25 h / 5 500 zł | 0,0 | 4 h / 825 zł | 0,0 | 18 zł | 3 zł |
+| 1 000 | 167 h / 36 667 zł | 0,1 | 25 h / 5 500 zł | 0,0 | 120 zł | 18 zł |
+| 10 000 | 1 667 h / 366 667 zł | 0,8 | 250 h / 55 000 zł | 0,1 | 1 200 zł | 183 zł |
+| 50 000 | 8 333 h / 1 833 333 zł | 4,2 | 1 250 h / 275 000 zł | 0,6 | 6 000 zł | 916 zł |
+| 100 000 | 16 667 h / 3 666 667 zł | 8,3 | 2 500 h / 550 000 zł | 1,3 | 12 000 zł | 1 831 zł |
+| 1 000 000 | 166 667 h / 36 666 667 zł | 83,3 | 25 000 h / 5 500 000 zł | 12,5 | 120 000 zł | 18 311 zł |
+
+Liczby w pierwszej kolumnie są punktami na krzywej kosztu, nie prognozą frekwencji.
+
+**Ściana jest kadrowa i stoi przy kilku tysiącach zgłoszeń, nie przy milionie.** Przy dziesięciu tysiącach sama kontrola formalna i korespondencja zajmują osiem dziesiątych etatu przez rok - obok wszystkiego innego, co organizator w tej edycji robi. Przy stu tysiącach to ponad osiem etatów, przy milionie osiemdziesiąt trzy. Automatyzacja przesuwa ścianę, ale jej nie znosi: przy półtorej minuty na zgłoszenie milion to nadal **ponad dwanaście etatów**, bo pozostaje korespondencja z ludźmi i obsługa wyjątków.
+
+Trzy pozycje, które **nie są ścianą**, warto odnotować, żeby ich nie rozwiązywać: SMS-y przy milionie zgłoszeń to 120 tysięcy złotych, magazyn kopii i ilustracji za pięć lat - 18 tysięcy, a automatyczna kontrola formalna - 30 tysięcy. Razem mniej niż jedna dziesiąta pracy ludzkiej z tego samego wiersza.
+
+**Wniosek, który zmienia kolejność prac:** narzędzie do automatycznej kontroli formalnej i samoobsługa statusu zgłoszenia nie są udogodnieniem, lecz **warunkiem przyjęcia naboru większego niż kilka tysięcy zgłoszeń**. Dziś tego narzędzia nie ma, Budżet Uruchomienia go nie obejmuje, a regulamin dopuszcza je wprost w § 8 ust. 8, bo kontrola warunków formalnych to jedyne zastosowanie modeli, na które się tam zgadzamy.
+
+Czego ten rachunek **nie** obejmuje, a co przy dużym naborze trzeba policzyć osobno: moderację ilustracji pod kątem treści bezprawnych (przy milionie zgłoszeń to milion obrazków, których nikt dziś nie oglądał, bo ilustracja nie wpływa na punktację), obsługę wniosków z RODO, rozstrzyganie zastrzeżeń prawnych oznaczanych przez oceniających oraz liczbę wiadomości w głosowaniu publiczności.
+
 ## Zostaje do rozstrzygnięcia
 
 Dziewięć parametrów, wszystkie ogłaszane przed naborem i żadnego nie wyliczymy bez próby oceniania:
