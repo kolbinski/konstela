@@ -419,7 +419,7 @@ Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
 - **27 listopada** - telefon do MKiDN oraz wysłanie gotowego pisma `mk-uzupelnienie.md`. Uzupełnienie podaje nową kwotę objętą pytaniem (695 032,00 zł zamiast 660 952,00 zł) i odnotowuje audiobook. Wysyłane razem z przypomnieniem, nie osobno.
 - **Do 31 grudnia 2026** - umowa z mecenasem antologii, rejestracja fundacji w KRS, konsultacja prawna regulaminu. Kolejność: deklaracja mecenasa, rejestracja fundacji, umowa z nią, faktura.
-- **1 stycznia 2027** - otwarcie naboru, o ile spełnione są cztery warunki z regulaminu: pula nagród pokryta środkami na rachunku, co najmniej trzy osoby potwierdziły udział w jury i skład ogłoszony, regulamin po konsultacji prawnej, pierwsza runda oceny z zapewnionym finansowaniem.
+- **1 stycznia 2027** - otwarcie naboru, o ile spełnione są **pięć** warunków z regulaminu: pula nagród pokryta środkami na rachunku, co najmniej trzy osoby potwierdziły udział w jury i skład ogłoszony, regulamin po konsultacji prawnej, pierwsza runda oceny z zapewnionym finansowaniem oraz - dopisany po audycie operacyjnym - obsługa zgłoszeń ma zabezpieczonych ludzi i narzędzia - przyjęcie zgłoszenia, kontrolę formalną, korespondencję i rozpoznawanie reklamacji.
 
 ## Czego teraz nie ruszać
 

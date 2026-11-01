@@ -180,7 +180,7 @@ Dwóch recenzentów po kolei zarzuciło tej ofercie to samo: że obiecuje rezult
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
-Regulamin wymienia cztery warunki, które muszą być spełnione łącznie, żeby nabór się otworzył: cała ogłaszana pula ma pokrycie w środkach na rachunku Organizatora, pierwsza runda oceny ma zapewnione finansowanie, co najmniej trzy osoby potwierdziły udział w jury i skład został ogłoszony, a regulamin przeszedł konsultację prawną.
+Regulamin wymienia pięć warunków, które muszą być spełnione łącznie, żeby nabór się otworzył: cała ogłaszana pula ma pokrycie w środkach na rachunku Organizatora, pierwsza runda oceny ma zapewnione finansowanie, co najmniej trzy osoby potwierdziły udział w jury i skład został ogłoszony, regulamin przeszedł konsultację prawną, a obsługa zgłoszeń ma zabezpieczonych ludzi i narzędzia - przyjęcie zgłoszenia, kontrolę formalną, korespondencję i rozpoznawanie reklamacji.
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Fundatora albo - według jego wyboru - przechodzi na kolejną edycję.
 
