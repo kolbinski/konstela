@@ -31,4 +31,4 @@ Oferta obiecuje te dokumenty **przed jakimkolwiek zobowiązaniem** partnera, czy
 
 ## Czego nie da się odblokować
 
-Ryzyko, że partner zapłaci 179 653,10 zł, dostanie uzgodnione rezultaty, a Nagroda nie wystartuje. Oferta nazywa je wprost i opisuje, co się wtedy dzieje z pieniędzmi, kodem, znakiem i domenami. Żadna poprawka go nie usunie; usuwa je wyłącznie pozyskanie fundatora nagród.
+Ryzyko, że partner zapłaci 223 428,70 zł, dostanie uzgodnione rezultaty, a Nagroda nie wystartuje. Oferta nazywa je wprost i opisuje, co się wtedy dzieje z pieniędzmi, kodem, znakiem i domenami. Żadna poprawka go nie usunie; usuwa je wyłącznie pozyskanie fundatora nagród.
