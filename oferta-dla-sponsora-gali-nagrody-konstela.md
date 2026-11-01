@@ -48,7 +48,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**52 691,52 zł netto** (64 842,25 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**52 691,52 zł netto** (64 810,57 zł brutto z VAT 23%) za pozycje obecnie wycenione, na podstawie umowy sponsorskiej. Kwoty pochodzą wprost z [zakładki gali w arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-gali), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |            Netto |
 | ------------------------------------------------------------ | ---------------: |
@@ -63,7 +63,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 | Rezerwa na przekroczenia (12% od pracy i kosztów)            |    5 654,28 zł |
 | **Razem netto**                                              |  **52 691,52 zł** |
 | VAT 23%                                                      |    12 137,85 zł |
-| **Do zapłaty brutto**                                        | **64 842,25 zł** |
+| **Do zapłaty brutto**                                        | **64 810,57 zł** |
 
 **Przejazdy finalistów nie obciążają tej oferty.** Na galę przyjeżdża czterdziestu finalistów, po dziesięciu z każdego plebiscytu, a ich przejazd i nocleg - 8 000 zł na plebiscyt - pokrywa budżet tego plebiscytu, nie sponsor gali. Powód jest prosty: koszt rośnie z liczbą plebiscytów, a Sponsor gali nie decyduje o tym, ile ich się odbędzie. Gdyby doszedł piąty plebiscyt, ta oferta nie zdrożeje; gdyby któryś nie ruszył, nie zostanie w niej kwota bez przeznaczenia. Organizacja przejazdów i tak jest wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.
 

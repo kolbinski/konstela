@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który ufunduje pulę nagród w plebiscycie na film o sztucznej inteligencji - 180 000 zł brutto dla laureatów - wraz z oceną zgłoszeń, dotarciem do twórców i prowadzeniem plebiscytu przez cały rok naboru.**
 
-**Kosztuje to 332 925,12 zł netto** (409 761,02 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 332 925,12 zł netto** (409 497,90 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**.
 
@@ -119,7 +119,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**332 925,12 zł netto** (409 761,02 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**332 925,12 zł netto** (409 497,90 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -139,7 +139,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Rezerwa na przekroczenia (12%, bez nagród)                     |      15 171 zł |
 | **Razem netto**                                                | **332 925,12 zł** |
 | VAT 23%                                                        |      76 727,08 zł |
-| **Do zapłaty brutto**                                          | **409 761,02 zł** |
+| **Do zapłaty brutto**                                          | **409 497,90 zł** |
 
 **Górny limit zobowiązania.** Trzy pozycje w tabeli nie mają jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 430 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 

@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który sfinansuje to, co powstaje raz i działa w każdej kolejnej edycji:** fundację prowadzącą Nagrodę, znak towarowy, stronę wraz z jej wersją mobilną oraz narzędzia obsługujące wszystkie cztery plebiscyty.
 
-**Kosztuje to 223 428,70 zł netto** (220 973,31 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 223 428,70 zł netto** (274 817,30 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w całym przedsięwzięciu, której **wykonanie nie zależy od powodzenia pierwszej edycji**. Fundacja zostaje wpisana do rejestru, znak towarowy zostaje zgłoszony do ochrony, strona i narzędzia zostają zbudowane i działają niezależnie od tego, ilu partnerów uda się pozyskać do pozostałych zakresów i czy nabór otworzy się w styczniu 2027, czy rok później.
 
@@ -54,7 +54,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**223 428,70 zł netto** (220 973,31 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Uruchomienia" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**223 428,70 zł netto** (274 817,30 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Uruchomienia" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -73,7 +73,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 | Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   14 552,10 zł |
 | **Razem netto**                                                   | **223 428,70 zł** |
 | VAT 23%                                                           |   41 320,21 zł |
-| **Do zapłaty brutto**                                             | **220 973,31 zł** |
+| **Do zapłaty brutto**                                             | **274 817,30 zł** |
 
 **Co zostaje w tej roli wspólne i dlaczego z wyboru.** Powołanie fundacji, weryfikacja statutu, polityka prywatności, znak towarowy, domeny z hostingiem oraz trzy narzędzia obsługujące cztery plebiscyty nie dzielą się między budżety i nie mają się dzielić. Każda z tych rzeczy powstaje raz i działa niezależnie od tego, ile plebiscytów się odbędzie: statut sprawdza się jeden i politykę prywatności pisze się jedną, a znak towarowy zgłasza się raz. Dzielenie ich kluczem dawałoby liczby wyglądające na dokładne i nic nieznaczące. Dzielimy natomiast to, czego zużycie faktycznie rośnie z liczbą zadań - roczny koszt narzędzi AI - i to rozdzielenie zostało zrobione 31 października 2026.
 
@@ -145,6 +145,13 @@ Faktura wychodzi osobno do każdego etapu. Jeżeli etap nie zostaje odebrany, tr
 - **Weryfikacja formalna** sprawdza każdy wymóg formalny wymieniony w regulaminie i zwraca listę braków, nie samo „odrzucone".
 - **Panel oceny** przyjmuje przydziały, karty oceny i uzasadnienia dla czterech plebiscytów, pilnuje kworum ocen i eksportuje wyniki do pliku.
 - **Wersja mobilna** instaluje się na iOS i Androidzie z poziomu przeglądarki, działa bez połączenia z siecią w zakresie czytania e-booka i słuchania audiobooka, a powiadomienia docierają na oba systemy.
+
+**Dwie pozycje poza narzędziami też mają warunki odbioru, bo inaczej nie dałoby się ich sprawdzić.** Bezpieczeństwo i raportowanie są w kosztorysie rozpisane na dziewięć pozycji, a każda z nich ma przypisany **konkretny rezultat do przekazania**:
+
+- **bezpieczeństwo** - mapa przepływu danych z wykazem miejsc przechowywania kopii rozmów i listą osób oraz systemów z dostępem; zestawienie ról i uprawnień w panelu wraz z próbką rejestru operacji pokazującą, że oceniający widzi wyłącznie przydzielone zgłoszenia; protokół testu odtworzenia kopii z datą, zakresem, czasem i wynikiem; raport podmiotu zewnętrznego z listą ustaleń i statusem każdego; procedura incydentu w jednym dokumencie wraz z protokołem próby na sucho i czasami zawiadomień;
+- **raportowanie** - wykaz mierników z podaniem źródła, momentu zapisu i sposobu wyliczenia każdego; działające eksporty z panelu wraz z przykładowym zestawieniem; pięć raportów etapowych, każdy odbierany osobno; protokoły odbioru etapów oraz zestawienie uzgodnienia liczb z dokumentacją źródłową, docelowo z zerową rozbieżnością.
+
+**Zasada jest jedna i warto ją nazwać wprost: odbiór potwierdza rezultat, nie poniesienie kosztu.** Faktura za pozycję, której rezultatu nie przekazano, nie jest podstawą odbioru. Warunek ten postawił audyt operacyjny i przyjęliśmy go bez zmian, bo bez niego pozycja „bezpieczeństwo, 20 000 zł" jest dla Mecenasa nieweryfikowalna.
 
 Ponad to każde narzędzie zostaje przekazane wraz z dokumentacją wdrożeniową, opisem kopii zapasowych i procedurą zgłaszania błędów, w zakresie pozwalającym przejąć utrzymanie innemu wykonawcy. Usunięcie błędu zgłoszonego w ciągu dwunastu miesięcy od odbioru należy do wykonawcy i nie jest płatne osobno. Pełna specyfikacja odbiorowa, z listą sprawdzeń dla każdego narzędzia, jest **załącznikiem do umowy** i Mecenas dostaje ją przed podpisaniem.
 

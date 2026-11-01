@@ -4,7 +4,7 @@
 
 ## <!--ikona:plakat--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 222 391,04 zł netto** (273 744,86 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Szukamy partnera, który obejmie plebiscyt na plakat o sztucznej inteligencji: pulę 90 000 zł brutto dla laureatów, nagrody publiczności, obieg oryginałów prac finałowych i wystawę przy gali. Kosztuje to 222 391,04 zł netto** (273 540,98 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 **Rola nazywa się mecenasem, a nie sponsorem, i to nie jest kwestia uprzejmości.** Sponsor finansuje pulę nagród. Tutaj pieniądze idą także na rzeczy, których w puli nie ma: na przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów dziesięciu prac finałowych, na wystawę przy gali i na dotarcie do szkół artystycznych oraz środowiska ilustratorów. To jest opieka nad obiegiem prac, nie wypłata nagrody.
 
@@ -74,7 +74,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**222 391,04 zł netto** (273 744,86 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**222 391,04 zł netto** (273 540,98 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plakatu w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                      |             Netto |
 | -------------------------------------------------------------- | ------------------: |
@@ -97,7 +97,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 | Rezerwa na przekroczenia (12%, bez nagród)                   |   12 954,72 zł |
 | **Razem netto**                                              | **222 391,04 zł** |
 | VAT 23%                                                      |   51 269,47 zł |
-| **Do zapłaty brutto**                                        | **273 744,86 zł** |
+| **Do zapłaty brutto**                                        | **273 540,98 zł** |
 
 **Praca organizatora to 285 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
 

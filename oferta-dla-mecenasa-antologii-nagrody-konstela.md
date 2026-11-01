@@ -9,7 +9,7 @@
 - **antologię** - bezpłatny e-book, treść wydania książkowego i audiobook;
 - **publiczne Archiwum** zgłoszonych w plebiscycie rozmów ze sztuczną inteligencją.
 
-**Kosztuje to 128 770,40 zł netto** (158 453,89 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 128 770,40 zł netto** (158 387,59 zł brutto z VAT 23%) za pierwszą edycję. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
@@ -145,7 +145,7 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: mechanizm Archiwum od
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**128 770,40 zł netto** (158 453,89 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-antologii), który jest jawny i dostępny bez żadnych warunków.
+**128 770,40 zł netto** (158 387,59 zł brutto z VAT 23%) za pierwszą edycję, **płatne etapami po odbiorze**, fakturą do każdego etapu, na podstawie umowy sponsorskiej. Obejmuje wszystko, co wymieniono w tabeli poniżej z ceną; jedyną pozycją bez ceny jest produkcja podcastu, opisana wyżej. Liczba pochodzi wprost z zakładki „Budżet Antologii" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-antologii), który jest jawny i dostępny bez żadnych warunków.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -162,7 +162,7 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: mechanizm Archiwum od
 | Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   11 341,90 zł |
 | **Razem netto**                                                   | **128 770,40 zł** |
 | VAT 23%                                                           |   29 656,41 zł |
-| **Do zapłaty brutto**                                             | **158 453,89 zł** |
+| **Do zapłaty brutto**                                             | **158 387,59 zł** |
 
 **W tej tabeli nie ma kosztów wspólnych całego przedsięwzięcia.** Powołanie fundacji i jej obsługa, konsultacja prawna, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty mają osobny budżet i osobną rolę - **Mecenasa Założycielskiego**. Wydzieliliśmy je, bo obciążanie nimi mecenasa antologii znaczyło, że jeden partner finansuje infrastrukturę, z której korzystają wszyscy pozostali, i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona.
 

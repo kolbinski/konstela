@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, nagrania studyjne dla 10 finalistów oraz hymn Nagrody z teledyskiem.**
 
-**Kosztuje to 311 836,32 zł netto** (383 741,89 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 311 836,32 zł netto** (383 558,67 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
@@ -81,7 +81,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**311 836,32 zł netto** (383 741,89 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**311 836,32 zł netto** (383 558,67 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -102,7 +102,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 | Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   28 425,24 zł |
 | **Razem netto**                                                | **311 836,32 zł** |
 | VAT 23%                                                        |      71 829,52 zł |
-| **Do zapłaty brutto**                                          | **383 741,89 zł** |
+| **Do zapłaty brutto**                                          | **383 558,67 zł** |
 
 **Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 370 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
