@@ -115,7 +115,7 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Sponsorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Sponsor ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Sponsor otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
-1. **gala nie odbywa się do 30 czerwca 2028 roku** i wyniki zostają ogłoszone na stronie;
+1. **gala nie odbywa się do 31 sierpnia 2028 roku** i wyniki zostają ogłoszone na stronie;
 2. **żaden z czterech plebiscytów nie zostaje rozstrzygnięty**;
 3. **zapis wideo nie powstaje albo nie zostaje udostępniony bezpłatnie**;
 4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.

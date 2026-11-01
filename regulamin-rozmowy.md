@@ -35,7 +35,7 @@
 
 2b. **Gdy ocena nie kończy się do daty granicznej.** Jeżeli do dnia wskazanego w ust. 3 jury ustaliło werdykt, Organizator ogłasza wyniki bez gali. Jeżeli werdyktu nie da się ustalić do tego dnia, **edycja nie zostaje rozstrzygnięta** na zasadach z § 10, a Organizator ogłasza to wraz z uzasadnieniem.
 
-3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 30 czerwca 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy – zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą – wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca – nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 31 sierpnia 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy – zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą – wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca – nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
@@ -702,7 +702,7 @@ Do odczytu przez innego członka akademii kierowany jest cały przydział, w kt�
 
    a) nagroda jest **niezależna od werdyktu jury i od Nagrody Publiczności** i może przypaść zgłoszeniu, które nie weszło do pierwszej dziesiątki;
 
-   a1) **Nagroda Uczniowska jest nagrodą pieniężną** i wynosi 10 000 zł brutto. Kumuluje się z nagrodą albo wyróżnieniem przyznanym przez jury, jeżeli wskazana rozmowa taką otrzymała. Do jej ogłoszenia stosuje się ust. 2a: wysokość ogłaszana jest wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora;
+   a1) **Nagroda Uczniowska jest nagrodą pieniężną** w wysokości ogłoszonej w dniu otwarcia naboru, **nie wyższej niż 10 000 zł brutto**. Kwoty tej Regulamin nie przyrzeka: wiąże kwota ogłoszona, a górna granica wskazana jest po to, żeby Uczestnik wiedział, o jakim rzędzie wielkości mowa. Kumuluje się z nagrodą albo wyróżnieniem przyznanym przez jury, jeżeli wskazana rozmowa taką otrzymała. Do jej ogłoszenia stosuje się ust. 2a: wysokość ogłaszana jest wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora;
 
    b) wskazana rozmowa przechodzi przed ogłoszeniem **to samo sprawdzenie rzetelności** co zgłoszenia z pierwszej dziesiątki (§ 7 ust. 5-8); rozmowa oparta na twierdzeniu nieprawdziwym nie może zostać nagrodzona niezależnie od punktacji;
 

@@ -612,7 +612,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - **rozstrzygnięcie, gala i premiera antologii: druga połowa czerwca 2028**
 - wypłata nagród pieniężnych: do 14 dni od ogłoszenia wyników
 
-Regulaminy przewidują przy tym datę graniczną: jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, wyniki ogłaszam publicznie na stronie Nagrody i wykonuję wszystkie nagrody bez gali.
+Regulaminy przewidują przy tym datę graniczną: jeżeli gali nie da się przeprowadzić do 31 sierpnia 2028 roku, wyniki ogłaszam publicznie na stronie Nagrody i wykonuję wszystkie nagrody bez gali.
 
 Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
 

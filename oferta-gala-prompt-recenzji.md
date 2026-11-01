@@ -18,7 +18,7 @@ Odpowiedz na pytania, w tej kolejności:
 4. Prowadzenie gali wycenione jest na 8 000 zł, a rejestracja wideo z czterema krótkimi materiałami na 15 000 zł. Czy te kwoty są realne w Polsce w 2028 roku? Co byś w nich zmienił?
 5. Gala obejmuje werdykty czterech plebiscytów, występy i blok zwiastunów filmowych. Czy to jest wieczór, który chcesz mieć pod swoją nazwą? Co zrobisz, jeżeli trwa trzy godziny i nikt z nazwisk nie przyjdzie?
 6. Co w tym dokumencie podważa zaufanie. Cytuj zdania.
-7. Oferta przewiduje, że jeżeli gali nie da się przeprowadzić do 30 czerwca 2028 roku, wyniki ogłaszane są na stronie, a świadczenia galowe nie są realizowane. Oceń, czy zabezpieczenia w takim przypadku są wystarczające.
+7. Oferta przewiduje, że jeżeli gali nie da się przeprowadzić do 31 sierpnia 2028 roku, wyniki ogłaszane są na stronie, a świadczenia galowe nie są realizowane. Oceń, czy zabezpieczenia w takim przypadku są wystarczające.
 8. Co napisałbyś w odpowiedzi, jednym zdaniem.
 
 Zasady odpowiedzi. Nie chwal; jeśli coś jest dobre, wystarczy jedno zdanie na końcu. Nie streszczaj dokumentu. Cytuj fragmenty zamiast opisywać wrażenia. Nie proponuj przeredagowania zdań - pisz, co jest nie tak z rzeczą, którą zdanie opisuje. Jeżeli czegoś nie rozumiesz, napisz o tym wprost; niezrozumiałość jest wadą dokumentu, nie Twoją.
