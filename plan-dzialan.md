@@ -337,6 +337,35 @@ Do policzenia osobno przy dużym naborze: moderacja ilustracji (przy milionie to
 
 **Przy okazji poprawione:** pole założeń w zakładce Wyjaśnienia nazywało się „Liczba zgłoszeń do Nagrody" i trzymało liczbę, której zakazaliśmy 31.10. Audyt jej nie wyłapał, bo to goła liczba w komórce, a nie tekst. Pole nazywa się teraz **„Przepustowość objęta kosztorysem"**, z uwagą, że prognozy nie mamy.
 
+## Decyzje z 1 listopada 2026
+
+### Przejście scalające w regulaminie rozmowy
+
+Po piątym czytaniu wyszło, że połowa każdej rundy poprawek powstaje z poprawek rundy poprzedniej. Przyczyna nie była w uważności czytania, lecz w konstrukcji: **zasada przekrojowa była zapisana w kilku paragrafach po kilka razy**, a każda naprawa dotykała jednej kopii. Mapa szesciu takich zasad pokazała, że **w pięciu z nich brzmienia rozchodziły się co do skutku**, nie tylko co do słów - i że trzy z tych rozbieżności powstały tego samego dnia, przy naprawianiu czegoś innego.
+
+Każda z sześciu dostała jeden dom i jedno brzmienie:
+
+| Zasada | Dom | Co było nie tak |
+|---|---|---|
+| Tryb kontaktu | § 13 ust. 1b | dwa różne odstępy prób, dwa znaczenia czternastu dni, telefon raz obowiązkowy, raz warunkowy |
+| Usunięcia z Archiwum | § 11 ust. 3 | dwa zamknięte katalogi po trzy różne przypadki; wniosek po gali miał dwa przeciwne skutki |
+| Wycofanie zgłoszenia | § 11 ust. 6 i osobno § 7a ust. 5 | dwie instytucje o tej samej nazwie i przeciwnych skutkach dla miejsca w werdykcie |
+| Przesunięcia terminów | § 4 | „wyłączone z innej przyczyny" wobec dwóch przepisów wprost wyłączających tę granicę; brak reguły kumulacji dwu pułapów |
+| Skład decydujący | § 6 | odrzucenie zgłoszenia wymagało **mniejszego** składu niż skutek łagodniejszy z § 7 ust. 8 |
+| Podstawa liczenia progów | § 8 ust. 10 | dwie różne podstawy; nieokreślona „przepustowość akademii", którą posługiwały się trzy przepisy |
+
+Przy okazji dwie podstawy odrzucenia - rozbieżność kopii z treścią pod linkiem i brak artefaktu - weszły do zamkniętego katalogu z § 6 pkt 8 wraz z trybem pisemnym i terminem na wyjaśnienia; dotąd dawały najcięższy skutek z przepisów położonych poza katalogiem. Próg składu decydującego **podniesiono z jednego czlonka jury do dwóch**.
+
+### Rundy uczestników i dzika karta w trzech pozostałych plebiscytach
+
+Mechanizm objął piosenkę, plakat i film, ale **nie przez przepisanie go cztery razy**: dom zostaje jeden (§ 8 ust. 10c regulaminu rozmowy), a trzy regulaminy odsyłają do niego i podają u siebie to, co Uczestnik musi wiedzieć bez drugiego dokumentu, oraz odrębności własne. Decyzja jest wnioskiem z przejścia scalającego: cztery kopie dwudziestoliterowego mechanizmu to czterokrotne pole na tę samą awarię. Piosenka i plakat dostały też drabinę trybów oceny, zabezpieczenia trybu jednoosobowego, granicę przepustowości i regułę stawki - to, co film miał już wcześniej. Rozpisanie odrębności i pułapów puli w `skalowanie-oceny.md`.
+
+**W pierwszej edycji rundy pozostają wyłączone we wszystkich czterech plebiscytach.**
+
+### Czego to nie rozstrzyga
+
+Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie wyliczymy bez próby oceniania przeprowadzonej osobno dla każdego rodzaju zgłoszenia** - czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu. Próba oceniania zostaje więc pozycją otwartą w czterech wariantach, nie w jednym.
+
 ## Terminy
 
 - **20 listopada** - telefon do Ministerstwa Cyfryzacji (Cezary Wujciński) i do kancelarii Ministerstwa Edukacji z pytaniem o znak sprawy.
@@ -352,5 +381,5 @@ Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wsz
 
 - **Liczby o zasięgu w ofercie** - prognoza pobrań, nakład, liczba instytucji, do których materiał trafi. Dziś nie ma żadnej, więc sponsor nie ma czym podzielić kwoty i policzyć kosztu dotarcia.
 - **Wzór umowy sponsorskiej** jako załącznik do oferty. Skraca cykl decyzyjny po stronie działu prawnego; wycena do zapytania przy okazji konsultacji prawnej.
-- **Harmonogram produkcji antologii tydzień po tygodniu**, od 15 stycznia do zamknięcia treści. Do rozstrzygnięcia, czy zamknięcie zostaje 29 lutego, czy przesuwa się na połowę marca wraz z galą na maj. Rachunek i argumenty w `koncepcja.md`.
+- **Harmonogram produkcji antologii tydzień po tygodniu**, od zamknięcia naboru do zamknięcia treści. Pozycja przestarzała w części datowej i poprawiona 1.11.2026: po przeliczeniu kalendarza zamknięcie treści antologii wypada **31 maja 2028**, a nie 29 lutego, bo nabór zamyka się 10 stycznia 2028 i cały łańcuch oceny przesunął się za nim. Do rozstrzygnięcia zostaje sam harmonogram produkcji w oknie 1-20 czerwca 2028. Rachunek i argumenty w `koncepcja.md`.
 - **Dystrybucja audiobooka** poza stroną Nagrody. Decyzja przy produkcji, nie teraz: bezpłatne nagranie na Spotify, YouTube i w katalogach podcastowych daje zasięg bez sprzeczności z obietnicą bezpłatności; Legimi dla bibliotek to osobny kanał niż Legimi konsumenckie. Płatne platformy abonamentowe tej obietnicy nie udźwigną.

@@ -1,6 +1,6 @@
 # Skalowanie oceny przy dużym naborze - szkic struktury
 
-Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga - rundy uczestników - weszła 31.10.2026 do regulaminu plebiscytu rozmowy jako mechanizm włączany ogłoszeniem przed otwarciem naboru; w pierwszej edycji pozostaje wyłączona. Część pierwsza, poniżej, jest nadal szkicem.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
+Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga - rundy uczestników - weszła 31.10.2026 do regulaminu plebiscytu rozmowy, a 1.11.2026 do pozostałych trzech, jako mechanizm włączany ogłoszeniem przed otwarciem naboru; w pierwszej edycji pozostaje wyłączona we wszystkich czterech. Część pierwsza, poniżej, jest nadal szkicem.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
 
 ## Problem w jednym zdaniu
 
@@ -214,3 +214,22 @@ Dziewięć parametrów, wszystkie ogłaszane przed naborem i żadnego nie wylicz
 - **próg wykonania rundy**, poniżej którego runda nie zawęża pola.
 
 Wpisanie teraz dowolnej z tych liczb byłoby tym samym błędem co liczba zgłoszeń wzięta z iloczynu w kosztorysie.
+
+## Cztery plebiscyty, jeden mechanizm (1.11.2026)
+
+Rundy uczestników i dzika karta objęły 1.11.2026 również piosenkę, plakat i film. Powodów dwa. **Ściana jest wspólna**: w każdym z czterech plebiscytów pierwsze przejście oceny wykonuje stały, opłacany skład, który nie rośnie razem z naborem, a każdy Uczestnik przynosi własną przepustowość. **I brak jest wspólny**: żaden z trzech nie miał trybu ratowania zgłoszenia nietypowego, które wypadło ze względu na średnią.
+
+Mechanizm nie został jednak przepisany cztery razy. **Dom ma jeden** - § 8 ust. 10c regulaminu plebiscytu na rozmowę - a trzy pozostałe regulaminy odsyłają do niego i podają u siebie dwie rzeczy: to, co Uczestnik musi wiedzieć bez sięgania do drugiego dokumentu, oraz odrębności własnego plebiscytu. Decyzja wzięła się z tego, co wyszło z pięciu czytań regulaminu rozmowy: zasada przekrojowa zapisana w kilku miejscach **rozchodzi się co do skutku**, nie tylko co do słów. Cztery kopie dwudziestoliterowego mechanizmu byłyby czterokrotnym polem na tę samą awarię.
+
+**Odrębności wynikają z rozrzutu objętości, nie z gustu.**
+
+| Plebiscyt | Jednostka przydziału | Rozrzut | Dlaczego tak |
+|---|---|---|---|
+| Rozmowa | budżet słów, do 4 zgłoszeń | 800-25 000 słów, ponad trzydziestokrotny | liczenie w sztukach dałoby jednemu kilka razy więcej pracy niż drugiemu |
+| Film | budżet minut, do 4 zgłoszeń | 20-90 minut, ponadczterokrotny | ten sam powód; wzorce wyłącznie z krótszych, dopuszczalny jeden zamiast dwóch |
+| Piosenka | 4 zgłoszenia | 2-6 minut, trzykrotny | rozrzut na tyle mały, że sztuki wystarczą; pasmo długości zostaje przy przydziale zastępczym |
+| Plakat | 8 prac | obejrzenie trwa ułamek czasu pozostałych | większy przydział daje każdej pracy więcej niezależnych ocen przy tym samym obciążeniu |
+
+**Pułap puli dzikich kart też jest różny**, bo różne jest to, co przy każdym plebiscycie jest zasobem stałym. Przy rozmowie i piosence pula to miejsca ponad ogłoszoną długość listy dla jury. Przy filmie liczona jest **w minutach**, bo dwadzieścia filmów po dziewięćdziesiąt minut to już górna granica tego, co jury zdąży obejrzeć. Przy plakacie pula **nie powiększa dziesiątki finalistów** - zgłoszenie z puli jury ocenia na równi z pozostałymi, ale finał oznacza dostarczony oryginał, oględziny i miejsce na wystawie, a tego nie da się skalować razem z liczbą zgłoszeń. W tym jednym plebiscycie ściana nie stoi przy ocenie.
+
+**Parametrów nie ubywa, przybywa.** Dziewięć pozycji z listy poniżej dotyczy rozmowy; każdy z trzech pozostałych plebiscytów ma własny zestaw tych samych pozycji i żadnej z nich również nie wyliczymy bez próby oceniania - przeprowadzonej osobno dla każdego rodzaju zgłoszenia, bo czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu.
