@@ -495,6 +495,14 @@ Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie
 
 **Co z tego zostaje do zrobienia.** Numeracja pytań pozostaje ta z 22.10.2026, bo kancelaria już ją ma; sekcje dostały numerację tematyczną. Adres `/dokument/prawnik-plebiscyt` zostaje jako wskazanie nowego miejsca, bo poszedł mailem 25.10. Do dopisania przy wysyłce: indeks „paragraf → numer pytania" w `uzasadnieniu-zmian-regulaminu.md`, żeby od przepisu dało się dojść do pytania bez publikowania wątpliwości w samym regulaminie.
 
+## Przepustowość podawana jako widełki, nie jako jedna liczba
+
+**Mnożnik trybu jednoosobowego zależy od parametru, którego nie wyznacza żaden inny parametr.** Pasmo wokół progu kwalifikacji ustala rozkład ocen, nie kosztorys: przy 15 procentach zgłoszeń w paśmie mnożnik wynosi 1,235, przy 25 procentach 1,325, przy 40 procentach 1,46. Przepustowość objęta pułapem waha się więc od 458 do 542 zgłoszeń rozmów i od 431 do 510 filmów, a nie wynosi 504 i 475. Arkusz ma osobną tabelę wrażliwości, a oferta podaje widełki w miejscu, gdzie stały pojedyncze liczby; kolumna tabeli głównej nazywa teraz wprost, że dotyczy pasma 25 procent.
+
+**Zaokrąglanie w dół jest regułą, nie szczegółem rachunkowym.** 87 000 zł przy stawce 130 zł za odczyt daje 669,23 odczytu, a przy stawce minimalnej 105 zł - 828,57. Zaokrąglenie w górę dałoby liczbę zgłoszeń, dla której brakuje pieniędzy na ostatni odczyt, więc idzie zawsze na niekorzyść ogłaszanej przepustowości. Przy filmie oba wyniki są dokładne.
+
+**Do umowy wchodzi obowiązek, nie liczba.** Przed otwarciem naboru Organizator zatwierdza próg, pasmo i pozostałe parametry, przedstawia rachunek wszystkich czynności obowiązkowych w trybie wynikającym z tych parametrów wraz z rezerwą na odchylenia i wskazuje źródło finansowania każdej pozycji. Podawanie ostatecznej liczby zgłoszeń dziś byłoby pozorne, skoro parametry ustalamy przed naborem - to jest rozstrzygnięcie na przyszłe tury, bo wraca przy każdej rozmowie o skali.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
