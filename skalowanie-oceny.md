@@ -65,7 +65,7 @@ Nowsza propozycja niż szkic powyżej, powstała z pytania, co zrobić, gdy zgł
 
 ## Dlaczego w ogóle
 
-Opłacona Akademia ma przepustowość rzędu **425 zgłoszeń** przy dwóch odczytach i minimalnej stawce - tyle wynika z puli honorariów przy górnym pułapie zobowiązania sponsora. Przy milionie zgłoszeń potrzeba 57 500 czytelników po dwadzieścia zgłoszeń każdy; nie da się ich zrekrutować i skalibrować w rok, choćby były pieniądze. Ściana jest kadrowa, nie finansowa.
+Opłacona Akademia ma przepustowość rzędu **340 zgłoszeń** przy dwóch odczytach i stawce z kosztorysu, a przy umownym minimum stawki - do 425; tyle wynika z puli honorariów przy górnym pułapie zobowiązania sponsora. Przy milionie zgłoszeń potrzeba 57 500 czytelników po dwadzieścia zgłoszeń każdy; nie da się ich zrekrutować i skalibrować w rok, choćby były pieniądze. Ściana jest kadrowa, nie finansowa.
 
 ## Zasada
 
@@ -195,7 +195,7 @@ Liczby w pierwszej kolumnie są punktami na krzywej kosztu, nie prognozą frekwe
 
 Trzy pozycje, które **nie są ścianą**, warto odnotować, żeby ich nie rozwiązywać: SMS-y przy milionie zgłoszeń to 120 tysięcy złotych, magazyn kopii i ilustracji za pięć lat - 18 tysięcy, a automatyczna kontrola formalna - 30 tysięcy. Razem mniej niż jedna dziesiąta pracy ludzkiej z tego samego wiersza.
 
-**Wniosek, który zmienia kolejność prac:** narzędzie do automatycznej kontroli formalnej i samoobsługa statusu zgłoszenia nie są udogodnieniem, lecz **warunkiem przyjęcia naboru większego niż kilka tysięcy zgłoszeń**. Dziś tego narzędzia nie ma, Budżet Uruchomienia go nie obejmuje, a regulamin dopuszcza je wprost w § 8 ust. 8, bo kontrola warunków formalnych to jedyne zastosowanie modeli, na które się tam zgadzamy.
+**Wniosek, który zmienia kolejność prac:** narzędzie do automatycznej kontroli formalnej i samoobsługa statusu zgłoszenia nie są udogodnieniem, lecz **warunkiem przyjęcia naboru większego niż kilka tysięcy zgłoszeń**. Narzędzie weszło 1.11.2026 do Budżetu Uruchomienia jako 165 godzin pracy (36 300 zł); regulamin dopuszcza je wprost w § 8 ust. 8, bo kontrola warunków formalnych to jedyne zastosowanie modeli, na które się tam zgadzamy.
 
 Czego ten rachunek **nie** obejmuje, a co przy dużym naborze trzeba policzyć osobno: moderację ilustracji pod kątem treści bezprawnych (przy milionie zgłoszeń to milion obrazków, których nikt dziś nie oglądał, bo ilustracja nie wpływa na punktację), obsługę wniosków z RODO, rozstrzyganie zastrzeżeń prawnych oznaczanych przez oceniających oraz liczbę wiadomości w głosowaniu publiczności.
 
