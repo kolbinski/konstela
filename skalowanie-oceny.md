@@ -199,6 +199,24 @@ Trzy pozycje, które **nie są ścianą**, warto odnotować, żeby ich nie rozwi
 
 Czego ten rachunek **nie** obejmuje, a co przy dużym naborze trzeba policzyć osobno: moderację ilustracji pod kątem treści bezprawnych (przy milionie zgłoszeń to milion obrazków, których nikt dziś nie oglądał, bo ilustracja nie wpływa na punktację), obsługę wniosków z RODO, rozstrzyganie zastrzeżeń prawnych oznaczanych przez oceniających oraz liczbę wiadomości w głosowaniu publiczności.
 
+## Czego nie wyliczą żadne progi - stawki empiryczne (audyt operacyjny, 1.11.2026)
+
+Jedenastu ogłaszanych parametrów nie da się wyliczyć bez próby oceniania. **Ale nawet po ich wyliczeniu nie da się skosztorysować rund uczestników**, bo liczba dodatkowych odczytów kontrolnych zależy od pięciu stawek, które nie są parametrami do ogłoszenia, lecz **wynikami obserwacji**:
+
+- odsetek **odmów** przydzielonego zgłoszenia (lit. d) - każda odmowa to przydział zastępczy;
+- odsetek **niewykonanych kart** (lit. e) - każda przechodzi na akademię albo uruchamia lit. e1;
+- odsetek **ocen zakwestionowanych** w trybie zastrzeżeń (lit. g2);
+- odsetek **rozpoznań autora**, przy których oceniający ma obowiązek odstąpić (lit. b2);
+- odsetek zgłoszeń, które nie zbiorą **trzech ocen** i wracają do kolejnych przydziałów (lit. b4).
+
+Każda z tych stawek mnoży się przez wolumen i przez liczbę rund. Przy milionie zgłoszeń różnica między odsetkiem odmów 2% i 10% to **różnica setek tysięcy przydziałów zastępczych**. Dopóki nie znamy tych liczb, mechanizm **może się domykać albo generować narastający dług operacyjny**, i nie da się z góry powiedzieć, które z dwojga. Próba oceniania musi więc mierzyć nie tylko zgodność ocen, ale też wszystkie pięć tych odsetków.
+
+## Granica, której zabezpieczenia nie przekraczają
+
+Trzy narzędzia kontroli jakości - zgodność ze wzorcami, normalizacja i zgodność z pozostałymi ocenami tego samego zgłoszenia - mierzą **zgodność oceniającego z innymi oceniającymi**, a nie zgodność z wartością zgłoszenia. To dwie różne rzeczy i trzeba to nazwać wprost, bo jest to **wbudowane ograniczenie mechanizmu, a nie usterka do naprawienia**: jeżeli większość oceniających popełnia podobny błąd - preferuje określony styl, nie rozumie dziedziny rozmowy, nagradza efektowną odpowiedź modelu zamiast wkładu człowieka - mechanizm ten błąd **utrwali**, a ocena odstająca, która była trafna, trafi do przeglądu jako rozbieżna.
+
+Przeciw temu działają trzy rzeczy i żadna nie jest pełnym zabezpieczeniem: zgłoszenia wzorcowe z punktacją ustaloną przez akademię, czyli punkt odniesienia spoza grona uczestników; losowa próbka odrzuconych czytana przez akademię, czyli kontrola wyniku rundy, a nie pojedynczej oceny; oraz to, że **oceny uczestników nie są werdyktem i nie wiążą akademii ani jury** - akademia czyta od nowa, nie znając tych ocen. Rundy uczestników rozstrzygają więc o tym, **co zostanie przeczytane przez opłaconego czytelnika**, a nie o tym, co wygra. To jest najmocniejsze, co da się o tej konstrukcji uczciwie powiedzieć.
+
 ## Zostaje do rozstrzygnięcia
 
 Dziewięć parametrów, wszystkie ogłaszane przed naborem i żadnego nie wyliczymy bez próby oceniania:

@@ -246,6 +246,18 @@ Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wy
 
 **Progi odbioru etapu, uzgodnione przed podpisaniem.** Żeby raport z liczbami nie zostawiał Sponsora z pytaniem, czy etap wolno odebrać, trzy z tych mierników mają wartości progowe: **100% zgłoszeń ocenionych w ogłoszonym trybie**, **100% kart kompletnych** we wszystkich czterech kryteriach i **100% rozbieżności powyżej dziesięciu punktów rozpatrzonych trzecią oceną**. Przy kompletności kart obowiązuje jedna tolerancja, ale dotyczy ona **momentu pierwszego raportu, nie odbioru**: jeżeli w raporcie etapu kompletnych jest co najmniej 98% kart, Organizator ma 30 dni na uzupełnienie pozostałych na własny koszt, a odbiór następuje przy 100%. Niżej niż 98% etap nie zostaje odebrany bez tej drogi. Dwuprocentowej tolerancji nie dawało się pogodzić z rozliczeniem co do jednego odczytu, które jest w tej ofercie świadczeniem nienaruszalnym, a karta niekompletna oznacza w regulaminie odczyt niewykonany. Pozostałe mierniki są opisowe - pokazują, jak poszło, a nie warunkują wypłaty.
 
+**Pięć progów odbioru, które dopisaliśmy po audycie operacyjnym.** Audyt wskazał, że trzy progi wyżej mierzą **wykonanie oceny**, a nie to, czy da się ją odtworzyć i rozliczyć. Dochodzą więc:
+
+- **100% zgłoszeń ma identyfikator i zapisany status** - bez tego nie da się wykazać, że żadne nie zginęło;
+- **100% zgłoszeń dopuszczonych do oceny ma kopię archiwalną** z potwierdzeniem i znacznikiem czasu;
+- **100% odczytów dodatkowych ma udokumentowaną podstawę** - drugi odczyt, audyt losowy albo odczyt uzupełniający, z podaniem, który to przypadek; to jest zarazem ochrona Sponsora przed płaceniem za odczyty, których nikt nie zamówił;
+- **0 nieudokumentowanych zmian parametrów oceny** - parametry ogłaszane są w dniu otwarcia naboru i od tego dnia niezmienne, więc każda zmiana jest albo błędem, albo naruszeniem regulaminu;
+- **0 nierozpoznanych spraw proceduralnych, które mogłyby zmienić wynik** na dzień odbioru.
+
+To są progi **dokumentacyjne i proceduralne**, nie gwarancja, że każda ocena merytoryczna jest trafna - i tego drugiego nie obiecujemy, bo obiecać się nie da.
+
+**Rozliczenie liczby odczytów, czyli to, za co Sponsor płaci.** W raporcie etapu podajemy osobno: liczbę odczytów opłaconych, liczbę wykonanych, liczbę odczytów dodatkowych wraz z przyczyną każdego, liczbę powtórzonych oraz koszt jednostkowy każdego rodzaju. Bez tego rozbicia **„przeprowadzono pierwszą rundę oceny" nie jest raportem, który da się odebrać** - i audyt operacyjny powiedział to wprost: nie podpisałby takiego protokołu.
+
 **Czego próba oceniania nie sprawdza.** Pięć rozmów i trzy osoby pokazują, czy kryteria znaczą to samo dla różnych ludzi. **Nie sprawdzają działania kilkudziesięcioosobowego grona oceniającego filmy** ani przepustowości przy dużym naborze; tego nie da się sprawdzić przed naborem i nie twierdzimy inaczej. Dla filmu odpowiednikiem próby jest kalibracja na trzech filmach z rozpisaną punktacją, opisana w kosztorysie, a jej wyniki Sponsor dostaje tak samo.
 
 Do tego **publiczne podsumowanie edycji**: ile osób czytało, ile godzin, ile zgłoszeń, co z tego wyszło. Jest publiczne, więc Sponsor nie musi nikogo przekonywać, że liczby są prawdziwe - każdy może je sprawdzić przy zgłoszeniach.

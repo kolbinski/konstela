@@ -410,6 +410,23 @@ Kolejność ścian: **pierwszą jest obsługa formalna, nie ocena** - to samo, c
 
 Czego nie podpisałby dziś: gotowości do uruchomienia oraz nieograniczonego zobowiązania sponsora akademii. Pięć warunków, które stawia - fundacja z obsadą, zakończona próba oceniania z wyliczonymi parametrami, przetestowane narzędzia, zakontraktowana przepustowość, zamknięte finansowanie każdego obowiązku - pokrywają się z czterema warunkami z § 10 ust. 5 poza jednym: **zakontraktowaną przepustowością zespołu operacyjnego**, której regulamin nie wymaga.
 
+### Z audytu operacyjnego: co zamknięte, co zostaje
+
+Przejście recenzji punkt po punkcie, bo pierwsze podsumowanie było za optymistyczne - wziąłem z niej dwie rzeczy duże i zostawiłem pięć.
+
+**Zamknięte.** Tryb oceny w kosztorysie. Przepustowość wiązana z zabezpieczonym finansowaniem. Piąty warunek otwarcia naboru we wszystkich czterech regulaminach. Próg i pasmo z § 8 ust. 10a do parametrów ogłaszanych. Pięć stawek empirycznych i granica zabezpieczeń jakości - dopisane do `skalowanie-oceny.md`. Pięć progiów odbioru i rozliczenie liczby odczytów - dopisane do oferty Akademii. Pytanie o zastępowanie jurorów członkami akademii było w `prawnik.md` już wcześniej.
+
+**Dwanaście brakujących pozycji kosztowych: dziewięć było w budżecie.** Rekrutacja Akademii, zarządzanie, kontrola odczytów, obsługa rund, reklamacje i postępowania, obsługa prawna, infrastruktura, moderacja i rezerwa - wszystkie mają własne wiersze. Recenzent ich nie znalazł, bo czytał zakładkę „Sufit przepustowości", która liczy tylko to, co skaluje się z wolumenem, a nie cały kosztorys. **To jest zarzut do czytelności arkusza, nie do kompletności budżetu** - i trafny, bo sponsor przeczyta właśnie tę zakładkę.
+
+**Realnie brakuje dwóch pozycji, obie wymagają decyzji o kwocie:**
+
+- **bezpieczeństwo** - ochrona dostępu do kopii rozmów i danych, osobno od samego magazynu i kopii zapasowej, które w arkuszu są;
+- **raportowanie** - ślady audytowe i raporty etapowe. **Ta pozycja jest najpilniejsza**, bo oferta Akademii obiecuje Sponsorowi raporty i progi odbioru, a praca nad nimi nie jest nigdzie wyceniona; po dzisiejszym dopisaniu pięciu progiów obiecuje ich jeszcze więcej.
+
+Trzecia pozycja - **przygotowanie zgłoszeń wzorcowych**, około 400 opłaconych odczytów - w budżecie edycji pierwszej **nie powinna się znaleźć**: wzorce istnieją tylko w edycji z rundami uczestników, a pierwsza ich nie stosuje. Pozycja wchodzi do kosztorysu dopiero w edycji, w której rundy zostaną ogłoszone, i tak trzeba to powiedzieć sponsorowi, zamiast dopisywać ją teraz.
+
+**Uwaga na pułapkę przy dopisywaniu tych dwóch pozycji.** Każda godzina pracy organizatora dodana do dowolnego budżetu zmienia klucz podziału licencji AI (`Wyjaśnienia!$B$86`), a przez niego **wszystkie dziewięć budżetów i oba arkusze zestawieniowe**, a za nimi kwoty w trzydziestu dokumentach. Nie jest to zmiana jednego wiersza i trzeba ją zrobić raz, po ustaleniu obu kwot naraz.
+
 ### Czego to nie rozstrzyga
 
 Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie wyliczymy bez próby oceniania przeprowadzonej osobno dla każdego rodzaju zgłoszenia** - czas przeczytania rozmowy nic nie mówi o czasie obejrzenia plakatu. Próba oceniania zostaje więc pozycją otwartą w czterech wariantach, nie w jednym.
