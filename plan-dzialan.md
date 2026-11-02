@@ -727,6 +727,20 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Dobór trzech filmów do kalibracji, podany przez recenzenta według sporów, które mają ujawnić:** dokument z twierdzeniami, najlepiej animowany, z wcześniej sprawdzonymi podstawami faktograficznymi - na rozróżnienie fałszu, braku uzasadnienia i niepewności oraz na zgodność wysokości potrąceń; fikcja bez twierdzeń, **jawnie prowadząca emocje** - na sprawdzenie, czy muzyka i konwencja gatunkowa rzeczywiście niczego nie obniżają i czy Forma z Siłą dostają różne uzasadnienia; esej albo film obserwacyjny o konstrukcji powtórzeniowej - na odróżnienie niejednoznaczności od braku konstrukcji i nawarstwiania od dłużyzny. **Nie wybierać bezspornych arcydzieł** - potrzebne są filmy zawierające rzeczywiste granice między sąsiednimi pasmami. Po dyskusji te same filmy ocenia się ponownie niezależnie: jeżeli różnice zostają, problem leży w narzędziu.
 
+## Karta filmu zamknięta po trzech turach, a protokół próby dostał z niej ostrzeżenie (2.11.2026)
+
+**Trzecia tura zamknęła kartę: „gotowa do przekazania akademii filmu do kalibracji".** Trzy karty dopuszczone do oceniania tego samego dnia - rozmowa po pięciu turach, piosenka po ośmiu, film po trzech. Nierecenzowana zostaje jedna: plakatu.
+
+**Film wystarczyły trzy tury, a piosence osiem - i warto wiedzieć dlaczego.** Przy filmie przeszedłem drabinę dwoma pytaniami **przed** wysłaniem promptu i przepisałem najwyższe pasma trzech kryteriów, zanim recenzent je zobaczył. Przy piosence każda tura naprawiała to, co poprzednia zepsuła. Dwa pytania zadane samemu sobie - czy pasmo wymaga jednej konkretnej metody i czy wymaga wykazania czegoś niewykazywalnego - zaoszczędziły mniej więcej cztery tury.
+
+**Do kalibracji zostaje jedna granica wskazana przez recenzenta: Siła 18-23 wobec 28-30.** Oba pasma odnoszą się do całego filmu, a kumulatywność wymaga od najwyższego także przesunięcia stawki z pasma 24-27, więc oceniający musi wykazać nie tylko podtrzymywanie doświadczenia przez cały seans, ale i zależność jego przemiany od całości. To rzecz do sprawdzenia na materiale, nie powód do przebudowy.
+
+**Ważniejsza jest korekta protokołu, która dotyczy wszystkich czterech plebiscytów.** Recenzent wycofał własne zalecenie z poprzedniej tury: **różnice utrzymujące się po ponownej ocenie nie dowodzą automatycznie wady narzędzia.** Rozstrzyga, co je powoduje. Jeżeli oceniający inaczej **rozumieją warunek pasma** - wada jest w karcie albo w instrukcji. Jeżeli rozumieją go jednakowo, a inaczej oceniają **znaczenie tych samych miejsc** - jest to uprawniona różnica zawodowego osądu i karta zadanie wykonała. Bez tego rozróżnienia próba mogłaby uznać za wadę coś, co jest sednem oceniania, i ciągnąć przebudowy bez końca.
+
+**Warunek wszedł do `proba-oceniania.md` jako punkt 7**, razem z zastrzeżeniem, że zgodność osiągnięta uzgodnieniem w dyskusji nie jest dowodem zgodności początkowej. To drugi warunek przeniesiony do protokołu z recenzji kart w ciągu jednego dnia - po rozdzieleniu porównania sum i kryteriów. **Protokół próby dojrzewa na recenzjach kart, nie na własnych przemyśleniach**, i warto go czytać po każdej zamkniętej karcie.
+
+**Trzy razy w ciągu jednego dnia recenzent wycofał własne wcześniejsze zalecenie** - kumulatywność przy piosence, „dodawanie znaczenia" w Wykonaniu i teraz protokół ponownej oceny. Przy przyjmowaniu rekomendacji z recenzji to argument za sprawdzaniem jej skutków, a nie za wdrażaniem jej dosłownie: zalecenie recenzenta też jest hipotezą.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
