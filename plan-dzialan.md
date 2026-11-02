@@ -599,6 +599,18 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Co recenzent zamknął:** kumulatywność, celową repetycję, muzyczny komentarz jako nieobowiązkowy szczebel i wpływ pojedynczego odstępstwa na kwalifikację. Zgodności do 15 punktów nadal nie deklaruje, ale po tych poprawkach uznaje, że **jest sens ją sprawdzić** - próbie zostawia rzeczywisty rozrzut ocen, nie sprzeczne instrukcje.
 
+## Czwarta tura karty piosenki: dwa progi, w których reguła nie sięgała w górę (2.11.2026)
+
+**Znowu obie wady z własnych poprawek - i obie tego samego rodzaju.** Reguła dopisana do jednego pasma nie została przeprowadzona przez pasma wyższe, więc karta uznawała coś niżej i cofała to wyżej.
+
+**Muzyka uznawała pomysł konstrukcyjny tylko do 19 punktów.** Pasmo 6-12 mówi, że pomysł może tkwić w materiale albo w konstrukcji, ale 20-26 otwierało się słowami „Materiał własny i prowadzony". Piosenka ze zwyczajnego materiału, której indywidualność polega na znakomitej konstrukcji, nie miała więc gdzie wejść: do 20-26 nie spełniała warunku, a 13-19 opisuje pomysł **nieprowadzony**, czyli co innego. Dziś warunkiem jest prowadzony **pomysł kompozytorski**, z wprost powtórzonym zdaniem, że może tkwić w materiale albo w konstrukcji; to samo poprawione w paśmie 27-31, gdzie druga droga mówiła o „samym materiale".
+
+**Najwyższe Ujęcie mierzyło zasięg zamiast funkcji.** Zdanie odróżniające pasmo 19-20 - „czy perspektywa jest cechą wskazanych miejsc, czy całości" - powtarzało wymaganie pasma 12-15, które żąda perspektywy utrzymanej przez cały utwór. Różnica, o którą chodzi, jest inna: **perspektywa obecna przez cały utwór to nie to samo, co perspektywa organizująca jego konstrukcję**. Dziś pasmo wymaga funkcji organizującej - z perspektywy wynikają kolejność scen, to, czego utwór nie mówi od razu, i zakończenie - i wprost zastrzega, że o zasięg tu nie chodzi.
+
+**Dwie rzeczy recenzent przestał kwestionować.** Muzyka 32-35 z testem przestawienia części: to porównanie da się przeprowadzić na utworze, a nie przez spekulację o utworach, których nie ma; sprawdzi je próba. Wykonanie 14-15: trafność, kontrola i siła słyszalnych decyzji wymagają zawodowego osądu, ale dotyczą tego, co jest w nagraniu.
+
+**Karta jest gotowa do próby oceniania.** Recenzent nie deklaruje zgodności do 15 punktów - uznaje ją za hipotezę do sprawdzenia i odradza dokładanie kolejnych objaśnień abstrakcyjnych zamiast niezależnych ocen konkretnych dem. **Dalsze rozróżnianie stopni jakości przenosi się z karty na próbę.**
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
