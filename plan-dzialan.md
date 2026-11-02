@@ -611,6 +611,16 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Karta jest gotowa do próby oceniania.** Recenzent nie deklaruje zgodności do 15 punktów - uznaje ją za hipotezę do sprawdzenia i odradza dokładanie kolejnych objaśnień abstrakcyjnych zamiast niezależnych ocen konkretnych dem. **Dalsze rozróżnianie stopni jakości przenosi się z karty na próbę.**
 
+## Karta piosenki zamknięta: pierwsze zielone światło bez nowych uwag (2.11.2026)
+
+**Piąta tura nie przyniosła żadnego nowego zarzutu** - „tę wersję przekazałbym już do niezależnej próby punktowania". Oba progi z czwartej tury zamknięte: pomysł konstrukcyjny wystarcza w pasmach 20-26 i 27-31, a najwyższe Ujęcie rozstrzyga się przez współtworzenie konstrukcji - kolejność scen, dawkowanie informacji, zakończenie - nie przez zasięg perspektywy.
+
+**Pięć tur dało jeden wniosek o metodzie.** Każda tura znajdowała wady wprowadzone poprawkami poprzedniej i wszystkie były tego samego rodzaju: reguła dopisana do jednego pasma nie obowiązywała w pasmach wyższych. Przy kartach plakatu i filmu każdą nową regułę trzeba przeprowadzić przez całą drabinę, zanim karta pójdzie do recenzenta - inaczej tury będą się mnożyć na błędach, które da się znaleźć samemu.
+
+**Cztery rzeczy przeszły z tekstu karty na próbę oceniania:** granica między dobrą a wyjątkową kompozycją (26/27), granica między wyjątkowymi rozwiązaniami a jakością całej konstrukcji (31/32), rozróżnienie siły interpretacji w najwyższych pasmach Wykonania i rzeczywisty rozrzut punktów między jurorami. Dalszych objaśnień abstrakcyjnych recenzent odradza: **dalsze rozróżnianie stopni jakości wymaga nagrań, nie zdań.**
+
+**Protokół próby dla piosenki, podany przez recenzenta:** pięć zróżnicowanych dem, ocena niezależna bez wcześniejszej narady, od każdego oceniającego pasmo, punkty i fragmenty uzasadniające wynik, a potem porównanie **sum i kryteriów osobno** - bo zgodne sumy mogą ukrywać przeciwstawne oceny. Ten ostatni warunek jest mocniejszy niż w próbie dla rozmowy i trzeba go do niej przenieść. Zgodność do 15 punktów pozostaje hipotezą, nie ustaleniem.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
