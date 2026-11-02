@@ -246,7 +246,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 Karta jest częścią niniejszego paragrafu. Obowiązuje akademię plakatu i jury w tej samej wersji, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia. Jest jawna od dnia ogłoszenia naboru i nie zmienia się po jego otwarciu.
 
-Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać element pracy uzasadniający ocenę**.
+Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać element pracy uzasadniający ocenę**. **Punkt w obrębie pasma wyznacza liczba miejsc, w których cecha pasma występuje**: dolny koniec oznacza wystąpienie w jednym miejscu, górny - wielokrotne i bez zastrzeżeń, środek stan pośredni. Różnicy, której nie da się w ten sposób wskazać, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
 
 #### Ujęcie tematu – 30 punktów
 

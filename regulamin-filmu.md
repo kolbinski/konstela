@@ -213,7 +213,7 @@
 
 Karta jest częścią niniejszego paragrafu. Obowiązuje akademię filmu i jury, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
 
-Pasma są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu.
+Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu. **Punkt w obrębie pasma wyznacza liczba miejsc, w których cecha pasma występuje**: dolny koniec oznacza wystąpienie w jednym miejscu, górny - wielokrotne i bez zastrzeżeń, środek stan pośredni. Różnicy, której nie da się w ten sposób wskazać, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
 
 #### Teza – 30 punktów
 

@@ -350,7 +350,7 @@ Dodatkowo:
 
 Karta oceny jest częścią niniejszego paragrafu. Obowiązuje jury i akademię, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
 
-Każde z czterech kryteriów punktowane jest od 0 do 25, co daje łącznie do 100 punktów. Pasma poniżej są punktem odniesienia, nie automatem: oceniający przyznaje punkt w ramach pasma według własnego osądu, ale **musi umieć wskazać fragment rozmowy uzasadniający ocenę**.
+Każde z czterech kryteriów punktowane jest od 0 do 25, co daje łącznie do 100 punktów. Pasma poniżej są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać fragment rozmowy uzasadniający ocenę**. **Punkt w obrębie pasma wyznacza liczba miejsc, w których cecha pasma występuje**: dolny koniec oznacza wystąpienie w jednym miejscu, górny - wielokrotne i bez zastrzeżeń, środek stan pośredni. Różnicy, której nie da się w ten sposób wskazać, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
 
 **Kryterium operacyjne.** Zanim przejdziesz do czterech kryteriów, sprawdź, czy rozmowa w ogóle spełnia to, czego szukamy:
 
@@ -368,18 +368,28 @@ Nie znaczy to, że takie zgłoszenie dostaje zero. Wkład Uczestnika bywa doskon
 
 ---
 
+**Zasady dowodowe karty.** Pięć reguł poniżej obowiązuje przy każdym kryterium i rozstrzyga rzeczy, których opis pasma sam nie rozstrzyga. Bez nich ta sama rozmowa dostaje różne oceny nie dlatego, że oceniający różnią się osądem, lecz dlatego, że mierzą różne rzeczy.
+
+1. **Punkt odniesienia: uważny czytelnik zapisu.** Gdziekolwiek karta mówi, że coś jest nieoczywiste, że czegoś nie było widać albo że coś zmienia sposób patrzenia, miarą jest **uważny czytelnik zapisu, bez wiedzy dziedzinowej** - nie wrażenie oceniającego i nie stan wiedzy Uczestnika. Jeżeli rozstrzygnięcie pasma wymaga wiedzy, którą oceniający ma, a inny oceniający mieć nie musi, pasmo nie jest spełnione: **uzasadnienie musi stać w rozmowie**. Rozmowa z dziedziny specjalistycznej nie jest przez to oceniana niżej - jest oceniana według tego, czy zapis zawiera uzasadnienie, a nie czy czytający je zna.
+2. **Sprawstwo: od pasma 11 w górę czynność musi dać się przypisać Uczestnikowi.** Gdziekolwiek pasmo opisuje czynność - połączenie rzeczy, rozwiązanie problemu, naprawienie błędu, żądanie źródła - wymaga ono, by **zapis pokazywał, że zrobił to albo wywołał Uczestnik**. Jeżeli zapis pokazuje, że zrobił to model, a Uczestnik to przyjął, pasmo kończy się na 10 punktach **niezależnie od jakości wyniku**. Zasada nadrzędna nie jest tu deklaracją, lecz ogranicznikiem.
+3. **Punktowanie wewnątrz pasma.** Dolny koniec pasma oznacza, że cecha pasma występuje **w jednym miejscu rozmowy**; górny - że występuje **wielokrotnie i bez zastrzeżeń**; środek - stan pośredni. Oceniający musi umieć wskazać fragment uzasadniający pasmo **oraz liczbę miejsc** uzasadniającą pozycję w jego obrębie. Różnicy, której nie da się w ten sposób wskazać, nie stawia się.
+4. **Niewidoczny stan początkowy.** Jeżeli zapis nie ujawnia, co Uczestnik wiedział na wejściu, **Plon oceniany jest najwyżej na 15 punktów**: pasma od 16 w górę wymagają pokazania różnicy między stanem przed rozmową i po niej. Oceniający **nie odgaduje wcześniejszej wiedzy** Uczestnika i nie pyta go o nią.
+5. **Karta mierzy zapis, nie szczerość przeżycia.** Czy odkrycie nastąpiło w rozmowie, czy zostało w niej odegrane, **nie rozstrzyga się punktami**: rozstrzyga to § 7 ust. 14 i tryb z § 7 ust. 18, uruchamiany sygnałem osoby, która zgłoszenie przeczytała. Oceniający, który podejrzewa inscenizację, **zgłasza sygnał, a nie obniża oceny** - inaczej to samo zastrzeżenie raz obniżałoby punktację, a raz prowadziło do odrzucenia, w zależności od tego, kto czytał.
+
+---
+
 #### I. Rozpiętość
 
-Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między nazwami dziedzin.
+Jak nieoczywiste i jak ugruntowane w zapisie jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między nazwami dziedzin. **Pasmo wyznacza jakość połączenia**; wkład Uczestnika mierzą Drążenie i Weryfikacja, a tutaj działa wyłącznie jako ogranicznik z reguły 2.
 
 | Pasmo    | Co to znaczy                                                                                                                                                                           |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **0**      | Rozmowa nie łączy niczego; jest ciągiem pytań o niezwiązane sprawy albo pojedynczym tematem bez ruchu.                                                                                 |
-| **1-5**    | Połączenie istnieje, ale jest podręcznikowe: zestawienie, które padłoby w pierwszym akapicie dowolnego artykułu o tym temacie.                                                         |
-| **6-10**   | Połączenie sensowne, ale wkład Uczestnika ogranicza się do przyjęcia propozycji modelu, bez jej rozwinięcia ani uzasadnienia.                           |
-| **11-15**  | Połączenie, którego Uczestnik musiał poszukać: wymagało zmiany kąta patrzenia albo wprowadzenia materiału spoza wątku. Jest uzasadnione, choć niekoniecznie zaskakujące.               |
-| **16-20**  | Połączenie nieoczywiste i dobrze ugruntowane: widać, dlaczego dwie rzeczy mają ze sobą coś wspólnego, a przed rozmową nie było to widoczne. Może przebiegać wewnątrz jednej dziedziny. |
-| **21-25**  | Połączenie, które zmienia sposób patrzenia na obie łączone rzeczy i zostaje uzasadnione w rozmowie, a nie tylko ogłoszone. Po przeczytaniu trudno wrócić do poprzedniego układu.       |
+| **1-5**    | Połączenie zostaje wymienione, ale nie uzasadnione: pada jako nazwa albo metafora i nic z niego nie wynika w dalszej części rozmowy.                                                   |
+| **6-10**   | Połączenie uzasadnione w jednym miejscu, bez rozwinięcia. **Tutaj trafia także połączenie dowolnej jakości, jeżeli zapis pokazuje wyłącznie przyjęcie propozycji modelu** (reguła 2). |
+| **11-15**  | Połączenie uzasadnione i rozwinięte: w zapisie widać, co z niego wynika dla dalszego toku rozmowy, a uważny czytelnik rozpoznaje, na czym polega.                                      |
+| **16-20**  | Uzasadnienie połączenia opiera się na przesłankach wprowadzonych w rozmowie, a nie na samym zestawieniu nazw: w zapisie da się sprawdzić, dlaczego dwie rzeczy mają ze sobą coś wspólnego. Połączenie może przebiegać wewnątrz jednej dziedziny. |
+| **21-25**  | Po połączeniu **obie łączone rzeczy wracają w zapisie opisane inaczej** niż przed nim, a ta zmiana jest w nim wskazywalna. Nie wystarcza ogłoszenie, że połączenie jest ważne.         |
 
 **Nie daje punktów:** zestawienie efektowne, lecz nieuzasadnione; metafora podana zamiast argumentu; wyliczanie dziedzin bez pokazania, co je łączy.
 
@@ -387,16 +397,16 @@ Jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. 
 
 #### II. Drążenie
 
-Czy Uczestnik dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi.
+Czy Uczestnik dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi. **Liczy się następstwo, a nie liczba razy.**
 
 | Pasmo    | Co to znaczy                                                                                                                                                                    |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **0**      | Jedno pytanie, jedna odpowiedź, koniec. Albo ciąg pytań bez związku z tym, co model odpowiedział.                                                                               |
 | **1-5**    | Uczestnik pyta dalej, ale pytania są równoległe, a nie następcze: każde mogłoby paść na początku rozmowy.                                                                       |
 | **6-10**   | Widać reakcję na odpowiedzi, głównie w postaci prośby o rozwinięcie. Uczestnik przyjmuje to, co dostaje.                                                                        |
-| **11-15**  | Uczestnik dopytuje o rzeczy niejasne, czasem kwestionuje, raz albo dwa razy zmienia kierunek na podstawie tego, co przeczytał.                                                  |
-| **16-20**  | Pytania wyraźnie wynikają z wcześniejszych odpowiedzi, Uczestnik wraca do wątków porzuconych i nie przyjmuje pierwszej wersji. Widać prowadzenie rozmowy, a nie jej odbieranie. |
-| **21-25**  | Kolejne pytania wykorzystują wcześniejsze ustalenia do sprawdzania i rozwijania rozumowania, a zmiany kierunku mają rozpoznawalne uzasadnienie.                   |
+| **11-15**  | Uczestnik dopytuje o rzeczy niejasne i kwestionuje twierdzenia, a **co najmniej jedno zakwestionowanie ma w zapisie następstwo**: dalsza część rozmowy biegnie inaczej, niż biegła przed nim. Zastrzeżenie, po którym rozmowa wraca na ten sam tor, do tego pasma nie wystarcza. |
+| **16-20**  | Pytania wynikają z wcześniejszych odpowiedzi, Uczestnik wraca do wątków porzuconych i nie przyjmuje pierwszej wersji. Ocenia się **następstwo pytań widoczne w zapisie**, a nie wrażenie, że ktoś rozmowę prowadzi. |
+| **21-25**  | Kolejne pytania wykorzystują wcześniejsze ustalenia do sprawdzania i rozwijania rozumowania, a **każda zmiana kierunku ma w zapisie zarówno uzasadnienie, jak i następstwo**.    |
 
 **Nie obniża oceny:** pytania nieudane, pomyłki, ślepe uliczki i wątki porzucone. Są świadectwem rzeczywistego przebiegu pracy.
 
@@ -412,8 +422,8 @@ Czy Uczestnik panuje nad rzetelnością rozmowy. Oceniana jest kontrola jakości
 | **1-5**    | Pojedynczy odruch nieufności, bez konsekwencji: pytanie "czy to na pewno prawda" i powrót do przyjmowania odpowiedzi.                                                                                     |
 | **6-10**   | Uczestnik sprawdza rzeczy łatwo sprawdzalne, ale nie odróżnia twierdzeń wymagających weryfikacji od interpretacji i hipotez.                                                                              |
 | **11-15**  | Sprawdza fakty, żąda uzasadnień, zauważa niespójności. Część wątpliwych miejsc zostaje jednak bez rozstrzygnięcia.                                                                                        |
-| **16-20**  | Systematyczna kontrola: Uczestnik rozróżnia fakt, interpretację i hipotezę, domaga się źródeł tam, gdzie są potrzebne, a niepewne ustalenia oznacza jako niepewne.                                        |
-| **21-25**  | Uczestnik prowadzi rozmowę tak, że na końcu wiadomo, co jest ustalone, co prawdopodobne, a co otwarte. Jeżeli model mylił się, zostało to naprawione; jeżeli nie mylił się, kontrola i tak jest widoczna. |
+| **16-20**  | Systematyczna kontrola: Uczestnik rozróżnia fakt, interpretację i hipotezę oraz **żąda źródła dla każdej przesłanki, na której opiera się główny wniosek rozmowy** - poboczne przykłady do tego standardu nie wchodzą - a niepewne ustalenia oznacza jako niepewne. |
+| **21-25**  | Kontrola **wykonana, a nie zamówiona**: Uczestnik nie poprzestaje na prośbie o źródło, lecz w zapisie widać, **co z tego źródła wynika dla twierdzenia, którego dotyczyło**. Na końcu wiadomo, co jest ustalone, co prawdopodobne, a co otwarte. Jeżeli model się mylił, zapis pokazuje, że błąd **zauważył albo wywołał Uczestnik**; naprawienie błędu przez sam model bez jego udziału do tego pasma nie wystarcza. |
 
 **Uwaga:** poprawnie odpowiadający model nie obniża oceny w tym kryterium. Punktuje się czujność, nie okazję.
 
@@ -421,16 +431,16 @@ Czy Uczestnik panuje nad rzetelnością rozmowy. Oceniana jest kontrola jakości
 
 #### IV. Plon
 
-Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło, powstały tekst, zmieniona decyzja lub pogląd.
+Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło, powstały tekst, zmieniona decyzja lub pogląd. **Ocenia się to, co ujawnia zapis**, a nie to, co oceniający domyśla się o wcześniejszej wiedzy Uczestnika (reguła 4).
 
 | Pasmo    | Co to znaczy                                                                                                                              |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
 | **0**      | Nic nie zostało. Rozmowa kończy się tam, gdzie się zaczęła, albo rozchodzi się w zbiór ciekawostek.                                       |
 | **1-5**    | Zostało wrażenie: Uczestnik deklaruje, że coś zrozumiał, ale nie potrafi tego nazwać.                                                     |
-| **6-10**   | Zostało uporządkowanie czegoś, co Uczestnik już wiedział. Wartość realna, ale niewielka.                                                  |
-| **11-15**  | Zostało coś nazwanego: ustalenie, odnalezione źródło albo uporządkowanie problemu – ale bliżej temu do podsumowania tego, co Uczestnik już wiedział, niż do rozwiązania. |
-| **16-20**  | Problem zostaje rozwiązany albo rozstrzygnięty, a nie tylko nazwany. Da się wskazać, co Uczestnik wiedział przed rozmową i co wie po niej.                        |
-| **21-25**  | W rozmowie widać istotną zmianę rozumienia problemu albo uzasadnioną zmianę stanowiska. Uczestnik potrafi powiedzieć, co ją spowodowało, i widzi granice tego, co ustalił.      |
+| **6-10**   | Zostało uporządkowanie tego, co **zapis pokazuje jako wiedzę Uczestnika z początku rozmowy**. Wartość realna, ale niewielka.               |
+| **11-15**  | Zostało coś nazwanego: ustalenie, odnalezione źródło albo uporządkowany problem. **Tutaj trafia także rozmowa, której początek nie ujawnia stanu wyjściowego**, niezależnie od tego, jak rozbudowany jest wynik (reguła 4). |
+| **16-20**  | Problem zostaje rozwiązany albo rozstrzygnięty, a zapis pokazuje stan wiedzy Uczestnika przed rozmową i po niej. Rozwiązanie podane przez model wystarcza do tego pasma **tylko wtedy, gdy zapis pokazuje, że Uczestnik je sprawdził albo zastosował**; samo przyjęcie rozwiązania nie wystarcza. |
+| **21-25**  | Uczestnik **używa nowego rozumienia w rozmowie**: stosuje je do innego przypadku, wyprowadza z niego następstwo albo wskazuje decyzję, która się przez nie zmienia - a nie tylko opowiada, że coś się zmieniło. Widzi przy tym granice tego, co ustalił. |
 
 **Mierzy się to, co wyniósł człowiek, nie to, co wyprodukował model.** Rozmowa, w której powstał dopracowany projekt, a Uczestnik jedynie przyjmował kolejne propozycje, oceniana jest niżej niż rozmowa, w której nie powstało nic poza zrozumieniem.
 

@@ -529,6 +529,24 @@ Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie
 
 **Zasada wprowadzona 2.11.2026.** Trzy pozycje z listy „Dziś" były wykonane, a stały jako niewykonane, więc dwa razy zostały przedstawione jako zaległość. Lista „Dziś" starzeje się szybciej niż jakikolwiek inny plik w tym repozytorium i **nie jest dowodem na to, że czegoś nie zrobiono** - jest dowodem na to, że nikt jej nie odhaczył. Przy pytaniu „co teraz" wysyłki i telefony potwierdzamy, zanim zostaną nazwane zaległością; niewykonane zostaje tylko to, co potwierdzone jako niewykonane.
 
+## Karta oceny po recenzji: cztery decyzje i przebudowa pasm (2.11.2026)
+
+**Werdykt recenzji: nie.** Dwie uważne osoby nie utrzymałyby różnicy do 15 punktów na tej samej rozmowie w czterech z pięciu przypadków. Rozrzut 20-30 punktów łącznie recenzent uznał za wiarygodny scenariusz. Najgorsza była Rozpiętość, potem Plon.
+
+**Najmocniejszy zarzut: Rozpiętość nie była drabiną.** Pasmo 1-5 mówiło o jakości połączenia („podręcznikowe"), a pasmo 6-10 o wkładzie Uczestnika („ogranicza się do przyjęcia propozycji modelu"). Dwie różne osie w jednej skali: uczestnik, który sam wyprowadził połączenie podręcznikowe, trafiał niżej niż ten, który biernie przyjął olśniewającą propozycję modelu.
+
+**Cztery decyzje podjęte 2.11.2026.** Pasmo Rozpiętości wyznacza **jakość połączenia**, a bierne przyjęcie propozycji modelu ogranicza ocenę do 10 punktów niezależnie od jakości - wkład mierzą Drążenie i Weryfikacja, więc nie liczymy go dwa razy. Punktem odniesienia dla „nieoczywiste" i „nie było widoczne" jest **uważny czytelnik zapisu bez wiedzy dziedzinowej**, bo tylko to da się sprawdzić ze zgłoszenia i tylko to znosi rozrzut między specjalistą a niespecjalistą. Rozdzielczość zostaje przy 0-25, ale dochodzi reguła punktowania wewnątrz pasma. Próba oceniania odbywa się **po** poprawkach karty, nie przed nimi.
+
+**Pięć zasad dowodowych dopisanych do karty.** Punkt odniesienia; sprawstwo - od pasma 11 w górę czynność musi dać się przypisać Uczestnikowi, a jeżeli zapis pokazuje, że zrobił to model, pasmo kończy się na 10 niezależnie od jakości wyniku; punktowanie wewnątrz pasma według liczby miejsc, w których cecha występuje; niewidoczny stan początkowy ogranicza Plon do 15 punktów; oraz zasada, że karta mierzy zapis, a nie szczerość przeżycia - podejrzenie inscenizacji zgłasza się sygnałem z § 7 ust. 18, a nie obniżeniem oceny.
+
+**Usunięte sformułowania, które wyglądały na sprawdzalne, a nie były:** „padłoby w pierwszym akapicie dowolnego artykułu o tym temacie" (odwołanie do nieokreślonego zbioru artykułów), „połączenie, którego Uczestnik musiał poszukać" (konieczność niewidoczna w zapisie), „trudno wrócić do poprzedniego układu" (opis skutku u czytelnika), „raz albo dwa razy zmienia kierunek" (częstotliwość zamiast następstwa), „zostało to naprawione" w stronie biernej (sprawstwo otwarte), „według własnego osądu" w czterech kartach.
+
+**Czego recenzent nie trafił.** Napisał, że remisy rozstrzyga Rozpiętość, czyli kryterium najbardziej zależne od przygotowania czytelnika. § 8 ust. 14a ustala kolejność: Weryfikacja, Drążenie, Rozpiętość, Plon - więc pierwsza jest najmocniejsza, a nie najsłabsza. Kolejności nie zmieniamy.
+
+**Protokół próby rozszerzony.** Każdy oceniający zapisuje przy każdym kryterium fragment, na który wskazuje, i powód; porównujemy rozrzut punktów **oraz** zgodność podstaw. Zgodność liczb przy różnych interpretacjach tego samego pasma nie dowodzi stabilności narzędzia.
+
+**Co zostaje otwarte: trzy karty artystyczne.** Reguła punktowania wewnątrz pasma weszła do wszystkich czterech regulaminów, ale pozostałych zasad dowodowych nie przenosiliśmy do piosenki, plakatu i filmu. Powód: te karty oceniają utwór, nie rozmowę, a kryteria **Siła oddziaływania** w filmie i **Działanie plakatu** z nazwy opisują skutek u odbiorcy - co przy pracy plastycznej jest uprawnionym kryterium zawodowym, a nie wadą. Potrzebują własnej recenzji z personą z tej dziedziny; przepisywanie ich z perspektywy karty rozmowy byłoby błędem.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
