@@ -1,0 +1,11 @@
+Obie niejasności w progach poprawione. Obie były tego samego rodzaju: reguła dopisana do jednego pasma nie została przeprowadzona przez pasma wyższe, więc karta uznawała coś niżej i cofała to wyżej.
+
+Muzyka. Warunkiem pasma 20-26 nie jest już własny materiał, lecz prowadzony pomysł kompozytorski, z wprost powtórzonym zdaniem o tym, gdzie ten pomysł może tkwić. Pasmo brzmi teraz: "Własny pomysł kompozytorski jest prowadzony: napięcie ma przebieg, przejścia są uzasadnione, a czas trwania wynika z konstrukcji. Pomysł może tkwić w materiale albo w konstrukcji tak samo jak w pasmach niższych - utwór ze zwyczajnego materiału, którego indywidualność polega na konstrukcji, spełnia warunek tego pasma, a nie zatrzymuje się na paśmie niższym. Prowadzenie może polegać na przekształcaniu motywu albo na celowej stałości, która napięcie organizuje; obie drogi są równoważne."
+
+Ten sam błąd był o jedno pasmo wyżej, w miejscu, którego Pan nie wskazał: druga droga w paśmie 27-31 mówiła o "samym materiale, jego prowadzeniu, formie i rytmie", więc przy dosłownej lekturze znów domagała się materiału. Dziś mówi o "samym prowadzeniu pomysłu - materiału albo konstrukcji". Pomysł konstrukcyjny wystarcza w każdym paśmie, nie tylko do 19 punktów.
+
+Ujęcie tematu. Przedmiotem najwyższej oceny jest funkcja organizująca, a zasięg występowania perspektywy jest z niej wprost wyłączony. Pasmo 19-20 brzmi teraz: "Perspektywa pełni funkcję organizującą: z niej wynikają kolejność scen, to, czego utwór nie mówi od razu, i zakończenie - a nie tylko towarzyszy utworowi od początku do końca. Nie da się jej przy tym sprowadzić do obiegowego hasła. Różnica wobec pasm niższych nie polega na zasięgu występowania perspektywy - obecności przez cały utwór wymaga już pasmo 12-15 - lecz na tym, czy perspektywa współtworzy konstrukcję utworu."
+
+Muzyki 32-35 i Wykonania 14-15 nie ruszałem, zgodnie z Pana stanowiskiem z tej tury.
+
+Pytanie jest jedno: czy po tych dwóch poprawkach zostaje w karcie coś, co przed próbą trzeba jeszcze zmienić? Jeżeli nie, przechodzimy do niezależnego punktowania konkretnych dem i to próba, nie kolejne objaśnienie, ma pokazać, czy jurorzy różnią się osądem jakości, czy stosowaniem reguł.
