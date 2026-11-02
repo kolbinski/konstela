@@ -17,7 +17,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
 - **publiczność ma własną [Nagrodę Publiczności](#nagroda-publicznosci)**, niezależną od werdyktu jury
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
-- **zgłaszasz dwa pliki: zdjęcie całej pracy i zdjęcie jednego fragmentu w zbliżeniu** - zbliżenie nie jest osobno oceniane, ale bez niego najwyższe pasma Wykonania zostają niedostępne
+- **zgłaszasz dwa pliki: zdjęcie całej pracy i zdjęcie jednego fragmentu w zbliżeniu** - zbliżenie nie jest osobno oceniane; jest po to, żeby dało się zobaczyć materię pracy, której ze zdjęcia całości widać nie sposób
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** – zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję – bez utraty nagrody i miejsca w werdykcie
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
@@ -84,7 +84,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Zdjęcie pracy, nagranie i materiały
 
-**Przesyłasz dwa pliki: zdjęcie albo skan całej pracy oraz zdjęcie jednego fragmentu w zbliżeniu.** Fragment wybierasz sam - nie więcej niż jedna czwarta dłuższego boku pracy, prostopadle do powierzchni, w świetle rozproszonym, bez wyostrzania i bez obróbki zmieniającej fakturę albo barwę. Zbliżenie nie jest osobno oceniane i nie oglądamy go jako kompozycji: jest po to, żeby w kryterium Wykonanie dało się zobaczyć materię pracy - prześwit, krawędź, ślad narzędzia - czego ze zdjęcia całości zobaczyć nie sposób. Bez niego najwyższe pasma Wykonania zostają dla pracy niedostępne, ale **brak zbliżenia nie odrzuca zgłoszenia** - poprosimy o uzupełnienie.
+**Przesyłasz dwa pliki: zdjęcie albo skan całej pracy oraz zdjęcie jednego fragmentu w zbliżeniu.** Fragment wybierasz sam - nie więcej niż jedna czwarta dłuższego boku pracy, prostopadle do powierzchni, w świetle rozproszonym, bez wyostrzania i bez obróbki zmieniającej fakturę albo barwę. Zbliżenie nie jest osobno oceniane i nie oglądamy go jako kompozycji: jest po to, żeby w kryterium Wykonanie dało się zobaczyć materię pracy - prześwit, krawędź, ślad narzędzia - czego ze zdjęcia całości zobaczyć nie sposób. Jeżeli to, co w materii pracy niesie znaczenie, widać już na zdjęciu całości, najwyższe pasma Wykonania są osiągalne także bez zbliżenia - **zbliżenie służy wykazaniu, nie dopuszczeniu**. I **brak zbliżenia nie odrzuca zgłoszenia**: poprosimy o uzupełnienie.
 
 **Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie – oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie – jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
@@ -127,11 +127,11 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI –
 </article>
 <article>
 <h3>Wykonanie – od 0 do 20 punktów</h3>
-<p>Świadome użycie techniki, koloru i rysunku. Najwyższe pasma dotyczą tego, czy materia pracy <strong>wnosi do wypowiedzi znaczenie, którego nie wnosi sam układ</strong> – i dlatego prosimy o zdjęcie fragmentu w zbliżeniu.</p>
+<p>Świadome użycie techniki, koloru i rysunku. Najwyższe pasma dotyczą tego, czy materia pracy <strong>wnosi do wypowiedzi znaczenie, którego nie wnosi sam układ</strong> – na przykład czy sposób, w jaki farba wchodzi w podłoże, czyni z zatarcia twarzy proces, a nie stan. Dlatego prosimy o zdjęcie fragmentu w zbliżeniu.</p>
 </article>
 <article>
 <h3>Działanie plakatu – od 0 do 20 punktów</h3>
-<p>Czy wypowiedź pracy jest nośna z odległości i w pomniejszeniu – sprawdzamy to na pomniejszeniu Twojej reprodukcji do 18 milimetrów dłuższego boku, czyli do skali miniatury w Galerii i znaczka na okładce. <strong>To jedyne kryterium z progiem</strong>: praca, która go nie osiągnie, nie wchodzi do dziesiątki finalistów, bo to plebiscyt na plakat. Próg ogłaszamy w dniu otwarcia naboru i nie będzie niższy niż 12 na 20 punktów.</p>
+<p>Czy wypowiedź pracy jest nośna z odległości i w pomniejszeniu – sprawdzamy to na pomniejszeniu Twojej reprodukcji do 18 milimetrów dłuższego boku, czyli do skali miniatury w Galerii i znaczka na okładce. Oceniamy je <strong>zaczynając od miniatury</strong>, przed obejrzeniem dużego zdjęcia – inaczej wypowiedź odczytuje się z pamięci dużego obrazu, a nie z samej miniatury. <strong>To jedyne kryterium z progiem</strong>: praca, która go nie osiągnie, nie wchodzi do dziesiątki finalistów, bo to plebiscyt na plakat. Próg ogłaszamy w dniu otwarcia naboru i nie będzie niższy niż 12 na 20 punktów.</p>
 </article>
 </div>
 

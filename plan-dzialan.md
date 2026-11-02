@@ -777,6 +777,18 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Przy tej okazji zepsułem formułę w arkuszu** - notatkę o dwóch plikach wpisałem do kolumny E zakładki Budżet Plakatu, która w tej zakładce jest kwotą, nie uwagami, i wszystkie udziały licencji poszły na #N/A. **`sprawdz-kwoty.js` wyłapał to natychmiast**; to drugi raz, kiedy ta kontrola znalazła błąd, którego sam bym nie zauważył. Kolumna uwag to F, nie E - w Budżecie Filmu układ jest inny i to mnie zmyliło.
 
+## Karta plakatu zamknięta: wszystkie cztery karty dopuszczone do próby (2.11.2026)
+
+**Oba zarzuty trzeciej tury wynikały z poprawek drugiej, i obie sprzeczności dało się zobaczyć bez eksperymentu.** Recenzent zaznaczył to wprost: „nie trzeba sprawdzać eksperymentalnie - wynikają z samych warunków punktowania". To jest rozróżnienie, które warto zapamiętać przy planowaniu prób: **część wad karty jest sprzecznościami logicznymi, a część różnicami w stosowaniu** - pierwsze naprawia się przy biurku, drugich nie naprawi żadna redakcja.
+
+**Nowa droga w Działaniu 16-18 weszła w zakres pasma wyższego.** Wczorajsza naprawa dopuściła nośność tym samym środkiem w obu skalach, „gdy w miniaturze nie traci nic istotnego" - a praca, która nie traci nic istotnego, tym samym zachowuje nośnik wypowiedzi, czyli spełnia warunek 19-20. Przy jednym tylko teście pomniejszenia (18 mm) nie było czym tych pasm rozdzielić. Dziś **19-20 wymaga czytelności samej wypowiedzi z pomniejszenia**, a nie rozpoznawalności obrazu: różnicą nie jest inna skala, lecz to, czy w miniaturze zostaje rozpoznawalny obraz, czy czytelna wypowiedź.
+
+**Żeby ten warunek dał się sprawdzić, kryterium dostało kolejność oglądania.** Działanie ocenia się **zaczynając od miniatury**, zanim oceniający zobaczy dużą skalę - bo kto zna już duży obraz, odczytuje wypowiedź z miniatury z pamięci, nie z niej samej. To pierwsza reguła proceduralna w którejkolwiek z czterech kart: wcześniej wszystkie mówiły, **co** ocenia się, żadna nie mówiła **w jakiej kolejności**.
+
+**Druga sprzeczność była między dwoma miejscami, które napisałem w tej samej godzinie.** Wymóg zgłoszenia mówił, że bez zbliżenia najwyższe pasma Wykonania są nieosiągalne, a reguła dowodowa - że pasmo zamyka się dopiero wtedy, gdy cechy nie ujawnia **żaden** z dwóch plików. Pierwsze karało za brak dokumentacji, drugie za brak dowodu. Praca, w której znaczeniotwórcze zestawienie barw widać już na zdjęciu całości, traciłaby pasma za niedostarczenie pliku, mimo widocznego spełnienia warunku artystycznego. Dziś **zbliżenie jest materiałem służącym wykazaniu warunku, nie warunkiem dostępu do pasma** - przy środku widocznym w reprodukcji całości najwyższe pasma pozostają osiągalne.
+
+**Wszystkie cztery karty są dopuszczone do próby albo kalibracji**, w sumie po dziewiętnastu turach recenzji: rozmowa 5, piosenka 8, film 3, plakat 3. Dalej nie idzie już redakcja, tylko oceny konkretnych zgłoszeń.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
