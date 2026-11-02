@@ -273,9 +273,9 @@ Co praca mówi o życiu ze sztuczną inteligencją. Oceniana jest trafność i o
 | **0-5** | Praca nie mówi nic o temacie: jest ilustracją hasła albo zbiorem rekwizytów. |
 | **6-11** | Wypowiedź obiegowa – powtarza to, co w tej sprawie mówi się powszechnie. |
 | **12-17** | Własna myśl jest, ale niedoprowadzona: praca sygnalizuje stanowisko, którego nie rozwija. |
-| **18-23** | Wypowiedź wyraźna i konsekwentna; widz potrafi powiedzieć, co praca twierdzi. |
-| **24-27** | Ujęcie, które przestawia patrzenie na rzecz znaną – widz sam by go nie znalazł, a po obejrzeniu uznaje za oczywiste. |
-| **28-30** | Wypowiedź na tyle własna, że praca staje się punktem odniesienia w rozmowie o tym temacie. |
+| **18-23** | Wypowiedź wyraźna i konsekwentna: **da się wskazać, co praca twierdzi i które jej elementy to twierdzą**. Przedmiotem oceny jest konstrukcja wypowiedzi, nie zdolność konkretnego widza do jej odtworzenia. |
+| **24-27** | Praca ustanawia **nieoczywistą relację** między rzeczami, które zestawia, i **ugruntowuje ją w samym obrazie**, zamiast jej ogłaszać. Różnicę wobec pasma niższego stanowi **odkrywczość samej relacji**, a nie to, czego widz wcześniej nie dostrzegał ani czego nie było w dotychczasowym plakacie - pierwszeństwa historycznego nie da się wykazać na pracy i nie jest ono przedmiotem oceny. |
+| **28-30** | Najwyższa jakość wypowiedzi, osiągnięta **jedną z dwóch równoważnych dróg**: albo praca **przeformułowuje samo pytanie** w swojej sprawie - pokazuje założenie, na którym stoi obiegowe ujęcie, i stawia w jego miejsce inne - albo **wyczerpuje następstwa relacji z pasma niższego**, w tym wskazuje jej granicę. **Zmiana pytania nie jest szczeblem ponad odkrywczą odpowiedzią**; obie drogi są warunkami tego pasma, nie stopniami pasma niższego. |
 
 #### Pomysł plastyczny – 30 punktów
 
@@ -284,11 +284,11 @@ Jak praca to pokazuje: przełożenie wypowiedzi na obraz, metaforę i relacje mi
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-5** | Brak pomysłu plastycznego: praca jest podpisem pod rysunkiem albo rysunkiem pod podpisem. |
-| **6-11** | Rozwiązanie ograne – motyw użyty tak, jak widzieliśmy go już wiele razy, bez przesunięcia. |
+| **6-11** | Rozwiązanie ograne – motyw użyty **w swojej gotowej funkcji, bez przesunięcia**: w pracy nie ma miejsca, w którym robi coś innego, niż zwykł robić. Oceniający wskazuje tę funkcję na samej pracy, a nie liczbę plakatów, w których motyw widział. |
 | **12-17** | Pomysł jest, ale rozwiązany niekonsekwentnie: część elementów pracuje, część tylko wypełnia pole. |
 | **18-23** | Czytelna metafora prowadzona przez całą kompozycję; relacje między elementami mają znaczenie. |
-| **24-27** | Obraz mówi to, czego nie trzeba dopowiadać słowem; rozwiązanie zaskakuje i broni się przy drugim spojrzeniu. |
-| **28-30** | Pomysł i wypowiedź są nierozdzielne – tej myśli nie dałoby się pokazać inaczej bez utraty sensu. |
+| **24-27** | Obraz mówi to, czego nie trzeba dopowiadać słowem, a rozwiązanie **odkrywa się stopniowo**: przy pierwszym spojrzeniu działa jedna relacja, przy dokładniejszym widoczna jest następna, której pierwsza nie zapowiadała. Oceniający wskazuje oba poziomy. |
+| **28-30** | Pomysł **organizuje całą kompozycję**: znaczenie każdego elementu powstaje z jego miejsca wobec pozostałych - z tego, co sąsiaduje, co dominuje i czego brakuje - a nie z niego samego. **Różnicą wobec pasma niższego nie jest to, czego nie dałoby się pokazać inaczej, lecz zasięg tej zależności**: w paśmie niższym nośne są wskazane relacje, tutaj cała konstrukcja. |
 
 #### Wykonanie – 20 punktów
 
@@ -301,7 +301,7 @@ Jak praca to pokazuje: przełożenie wypowiedzi na obraz, metaforę i relacje mi
 | **8-11** | Warsztat poprawny, ale nierówny: obok rozwiązań trafnych stoją przypadkowe. |
 | **12-15** | Technika, kolor i rysunek dobrane świadomie i konsekwentnie. |
 | **16-18** | Materia pracy niesie znaczenie: faktura, ślad narzędzia albo zestawienie barw mówią coś same z siebie. |
-| **19-20** | Wykonanie, którego nie dałoby się zastąpić inną techniką bez zmiany wypowiedzi. |
+| **19-20** | **Trafność, kontrola i konsekwencja decyzji warsztatowych w najwyższym stopniu**: każda da się uzasadnić funkcją, jaką pełni w pracy, a materia pracy niesie znaczenie nie w jednym miejscu, lecz w całej powierzchni. **Nie wymaga się wykazania, że żadna inna technika nie zadałaby tego samego** - wskazuje się funkcję użytych środków, nie ich wyłączność. Powstrzymanie się od efektu spełnia ten warunek tak samo jak środek wyrazisty. |
 
 #### Działanie plakatu – 20 punktów
 
@@ -313,8 +313,8 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 | **4-7** | Brak hierarchii: wszystkie elementy walczą o uwagę i żaden jej nie dostaje. |
 | **8-11** | Praca działa z bliska, ale w pomniejszeniu traci to, co w niej najważniejsze. |
 | **12-15** | Czytelna hierarchia i rozpoznawalny obraz w każdej skali. |
-| **16-18** | Praca zatrzymuje wzrok z odległości, a po podejściu daje coś więcej. |
-| **19-20** | Obraz, który zapamiętuje się po jednym spojrzeniu i rozpoznaje w znaczku na okładce. |
+| **16-18** | Praca **działa w dwóch skalach różnymi środkami**: w pomniejszeniu nośna jest jedna, rozpoznawalna rzecz - plama, układ, kontrast - a z bliska widoczne jest to, czego w pomniejszeniu nie było. Oceniający wskazuje, co działa w której skali; sprawdza się to na pomniejszeniu pracy, nie na własnej reakcji. |
+| **19-20** | Praca **zachowuje rozpoznawalność do skali znaczka**: zredukowana do kilkunastu milimetrów nadal jest tym samym obrazem, a nie plamą po nim, przy czym to, co w tej skali zostaje, **jest nośnikiem wypowiedzi, a nie samym jej śladem**. Sprawdza się to przez pomniejszenie pracy; **przewidywanie, czy widz ją zapamięta, nie jest przedmiotem oceny**. |
 
 **Razem: 100 punktów.**
 
