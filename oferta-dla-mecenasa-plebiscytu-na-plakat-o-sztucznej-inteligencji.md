@@ -114,14 +114,14 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 
 **Galeria prac i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat. Mecenas finansuje więc rzecz, która powstaje i działa niezależnie od tego, ilu innych partnerów uda się pozyskać.
 
-**Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje proporcjonalnie.
+**Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje - ale **nie wprost proporcjonalnie**: zostają koszty podstawienia, minimalnej trasy i przejazdu zbiorczego, które nie zależą od tego, czy w samochodzie jedzie osiem prac czy dziesięć. Rozliczenie idzie po fakturach, nie po przeliczniku na pracę.
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Mecenas jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
 **Pięć pozycji czeka na ustalenie albo wycenę** i żadna z nich nie jest ukryta w kwocie 222 391,04 zł:
 
 - **honoraria jury plakatu za ocenę** oraz **honoraria za etap przygotowawczy**, czyli za przygotowanie karty oceny przed otwarciem naboru - do ustalenia po skompletowaniu jury;
-- **bogatsza oprawa wystawy**: zawieszenie, oświetlenie sceniczne i obsługa sali ponad postać gwarantowaną opisaną niżej;
+- **bogatsza oprawa wystawy**: oświetlenie sceniczne, system ekspozycyjny, wernisaż i obsługa sali ponad postać gwarantowaną opisaną niżej. **Bezpieczne zamocowanie pracy na czas ekspozycji nie należy do tej pozycji, lecz do postaci gwarantowanej** - bez niego oryginału nie da się pokazać, więc nie może zależeć od tego, czy aneks znajdzie finansowanie;
 - **obsługa prawna regulaminu plakatu** - jeden z trzech warunków otwarcia naboru;
 - **polisa obejmująca wycenę prac, przechowywanie i okres po sprzedaży** - szersza niż ubezpieczenie samego transportu i czasu wystawy.
 
@@ -157,14 +157,27 @@ Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz te dwie 
 
 **Żadna transza nie jest zapłatą z góry za pracę wykonywaną później.** Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
-**Po czym poznać, że etap wolno odebrać.** Zdanie „etap nie zostaje odebrany" jest warte tyle, ile kryteria, według których się to stwierdza - więc podajemy je z góry, a nie zostawiamy do uznania. Sześć progów, wszystkich liczonych z dokumentacji, którą i tak musimy prowadzić:
+**Po czym poznać, że etap wolno odebrać.** Zdanie „etap nie zostaje odebrany" jest warte tyle, ile kryteria, według których się to stwierdza - więc podajemy je z góry i **przypisujemy do etapów**, bo powrót wszystkich prac nie może być warunkiem odbioru etapu ich przyjęcia. Wszystkie liczone są z dokumentacji, którą i tak musimy prowadzić.
+
+**Etap pierwszy, po zamknięciu naboru i kontroli formalnej:**
 
 - **100% zgłoszeń ma identyfikator i zapisany status** - bez tego nie da się wykazać, że żadne nie zginęło;
-- **100% przyjętych oryginałów ma protokół stanu pracy wraz z dokumentacją zdjęciową**, sporządzony przy przyjęciu i powtórzony przy zwrocie, tak aby uszkodzenie dało się przypisać do odcinka drogi, a nie do domysłu;
-- **100% powierzonych oryginałów wróciło do autora albo zostało wydanych nabywcy**, każdy z własną datą i własnym protokołem;
-- **polisa obejmuje cały okres bez luki** - od przyjęcia pierwszej pracy do zwrotu ostatniej, wraz z czasem wystawy, jeżeli się odbyła;
-- **100% kart oceny jest kompletnych** we wszystkich kryteriach wraz z uzasadnieniem;
 - **zero nieudokumentowanych zmian parametrów oceny** - parametry ogłaszane są w dniu otwarcia naboru i od tego dnia niezmienne, więc każda zmiana jest albo błędem, albo naruszeniem regulaminu.
+
+**Etap drugi, po ogłoszeniu dziesiątki i przyjęciu oryginałów:**
+
+- **każdy przysłany oryginał ma dokumentację stanu sporządzoną przed pierwszym transportem** - zdjęcia u autora i instrukcję pakowania - oraz protokół stanu przy przyjęciu wraz z dokumentacją zdjęciową; protokół sporządzony dopiero po dostarczeniu nie odtworzy stanu początkowego;
+- **ubezpieczenie obowiązuje od chwili odebrania pracy od autora**, a nie od jej przyjęcia u Organizatora, i obejmuje załadunek oraz wyładunek;
+- **każdy autor, który przysłał oryginał, ma pisemne uzgodnienie okresu** przechowywania wraz z datą końcową, kosztami i zakresem ubezpieczenia - albo jego praca wraca przed galą, a na wystawie staje reprodukcja.
+
+**Etap trzeci, po sprawozdaniu i zamknięciu obiegu:**
+
+- **100% kart oceny jest kompletnych** we wszystkich kryteriach wraz z uzasadnieniem;
+- **każde przekazanie pracy między miejscami ma własny protokół** - magazyn, wystawa przy gali, galeria, powrót - bo stan może zmienić się w drodze albo przy demontażu, a nie tylko przy przyjęciu i zwrocie;
+- **100% powierzonych oryginałów wróciło do autora albo zostało wydanych nabywcy**, każdy z własną datą i własnym protokołem; przy wydaniu nabywcy protokół zawiera potwierdzenie zapłaty, dyspozycję wydania i podpis odbiorcy albo jego pełnomocnika;
+- **polisa obejmuje cały przebytą drogę każdej pracy bez luki** - adresy, transporty, przechowywanie, obie wystawy, sprzedaż i przedłużenia muszą odpowiadać temu, co faktycznie się stało, a nie ciągowi dat na dokumencie;
+- **wykazana jest każda rozbieżność stanu i każda szkoda nierozliczona** na dzień odbioru; sam dowód doręczenia nie zamyka obiegu, jeżeli praca wróciła uszkodzona;
+- **wystawa gwarantowana została wykonana** - daty, dziesięć pozycji, opisy, publiczna dostępność i dokumentacja ekspozycji.
 
 **Odbiór potwierdza rezultat, nie poniesienie kosztu.** Przy każdej pozycji tego kosztorysu wskazujemy rzecz do przekazania i sprawdzenia - protokół, polisę, zestawienie, raport albo wykonaną przesyłkę - i etap odbieramy po tej rzeczy, a nie po fakturze, która za nią zapłaciła. **Wszystkie sześć progów wraz z górnym limitem wchodzi do umowy albo do jej wiążącego załącznika**, a nie zostaje na tej stronie.
 
@@ -238,6 +251,10 @@ Poza tytułem:
 
 **Rozliczenie obiegu prac** - protokoły zwrotu albo wydania nabywcom **wszystkich powierzonych oryginałów**, rozliczenie wystawy w galerii i licytacji, jeżeli się odbyły, oraz końcowe rozliczenie polisy - następuje w ciągu trzydziestu dni od dnia, w którym ostatnia powierzona praca wróciła do autora albo została wydana nabywcy po licytacji.
 
+**Ile czasu praca jest u nas i dlaczego wymaga to zgody autora przy każdej pracy osobno.** Regulamin stawia granicę bezwzględną: Organizator nadaje przesyłkę zwrotną albo przekazuje pracę do odbioru najpóźniej w **150. dniu od dnia odebrania oryginału**, a dłuższe pozostawanie pracy wymaga **odrębnego uzgodnienia z autorem**, określającego datę końcową, koszty i zakres ubezpieczenia. Termin biegnie osobno dla każdej pracy, od dnia jej odebrania - nie od zamknięcia naboru i nie od werdyktu.
+
+Z terminarza wynika z tego rzecz, którą Mecenas ma znać przed podpisaniem, a nie odkryć po przyjęciu prac: oryginały wpływają w styczniu 2028, a gala wypada w drugiej połowie czerwca, czyli **około 170 dni później**. Praca przechowywana nieprzerwanie od stycznia do gali przekracza więc granicę 150 dni, zanim jeszcze zacznie się wystawa w galerii. Dlatego prośba o oryginał idzie do finalisty **razem z uzgodnieniem okresu** - datą końcową, kosztami i zakresem ubezpieczenia - i dopiero jego przyjęcie pozwala pokazać pracę przy gali. Przyjęcie jest dobrowolne i jego brak nie wpływa ani na werdykt, ani na nagrodę: wtedy praca wraca do autora przed galą, a na wystawie staje jej reprodukcja. **Nie obiecujemy więc wystawy dziesięciu oryginałów - obiecujemy wystawę dziesięciu prac finałowych**, z których część może być pokazana w reprodukcji, jeżeli autor nie zgodzi się na dłuższy okres.
+
 Odpowiedzialność Organizatora za **pojedynczy** oryginał kończy się w dniu, w którym ta konkretna praca wróciła do autora albo została wydana nabywcy - każda ma więc własną datę i własny protokół, a nie wspólny termin. Powyższy termin trzydziestu dni dotyczy wyłącznie sporządzenia rozliczenia zbiorczego i liczy się od ostatniej z tych dat. Niewykorzystane kwoty wracają przy tym drugim rozliczeniu.
 
 ## <!--ikona:zasady--><span>Czego oferta nie obejmuje</span>
@@ -271,15 +288,15 @@ Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością a
 
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
-<div><dt>2027</dt><dd>Otwarcie naboru<small>po spełnieniu trzech warunków łącznie: pula pokryta środkami, ogłoszony skład jury, regulamin po konsultacji prawnej</small></dd></div>
-<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru plakatów<small>wcześniej niż nabór rozmów i piosenek, bo antologia musi zdążyć do druku</small></dd></div>
+<div><dt>2027</dt><dd>Otwarcie naboru<small>po spełnieniu pięciu warunków łącznie: pula pokryta środkami na rachunku, ogłoszony skład jury, regulamin po konsultacji prawnej, zapewnione finansowanie pierwszej rundy oceny oraz zabezpieczona obsługa zgłoszeń</small></dd></div>
+<div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru plakatów<small>wcześniej niż nabór rozmów i piosenek, bo praca z pierwszego miejsca trafia na okładkę antologii, a antologia musi zdążyć do druku</small></dd></div>
 <div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały; dostarczenie w ciągu 21 dni, transport i ubezpieczenie po stronie organizatora</small></dd></div>
+<div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały, a razem z prośbą idzie uzgodnienie okresu, w którym praca pozostaje u Organizatora: data końcowa, koszty i zakres ubezpieczenia; dostarczenie w ciągu 21 dni, transport i ubezpieczenie po stronie Organizatora</small></dd></div>
 <div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności do gali</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Uzgodnienie okładki antologii ze zwycięzcą<small>propozycja kadru i typografii, 7 dni na uwagi autora</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wystawa prac finałowych, premiera antologii ze zwycięskim plakatem na okładce</small></dd></div>
-<div><dt>Maj 2028</dt><dd>Zwrot oryginałów autorom<small>przesyłka zwrotna w ciągu 30 dni od zakończenia wystawy</small></dd></div>
-<div><dt>Maj albo czerwiec 2028</dt><dd>Wystawa w galerii sztuki i cicha licytacja<small>wyłącznie jeżeli galeria zostanie pozyskana; nie jest to obiecane w regulaminie</small></dd></div>
+<div><dt>Lipiec - wrzesień 2028</dt><dd>Wystawa w galerii sztuki i cicha licytacja<small>po gali, żeby prace dało się opisać wraz z zajętymi miejscami; wyłącznie jeżeli galeria zostanie pozyskana i wyłącznie dla finalistów, którzy przyjmą pisemną propozycję - nie jest to obiecane w regulaminie</small></dd></div>
+<div><dt>Do 30 dni od zakończenia ostatniej wystawy, w której praca brała udział</dt><dd>Zwrot oryginałów autorom albo wydanie nabywcom<small>każda praca ma własną datę zwrotu, liczoną od zakończenia tej wystawy, w której brała udział; praca sprzedana na licytacji idzie do nabywcy na warunkach przyjętych wcześniej przez autora</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie z wykonania budżetu<small>pozycja po pozycji, wykorzystanie rezerwy, lista wypłaconych nagród oraz rozliczenie transportu i polisy w zakresie dotychczas zafakturowanym</small></dd></div>
 <div><dt>Do 30 dni po zamknięciu obiegu ostatniej pracy</dt><dd>Rozliczenie obiegu oryginałów<small>protokoły zwrotu albo wydania nabywcom wszystkich powierzonych prac, rozliczenie wystawy w galerii i licytacji, końcowe rozliczenie polisy i zwrot kwot niewykorzystanych</small></dd></div>
 </dl>
@@ -304,6 +321,7 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 **Co, jeżeli jedyny wykonawca będzie dłużej niedostępny.** Pracę z tego kosztorysu wykonuje jedna osoba, więc pytanie o chorobę albo wypadek jest uzasadnione i nie zostawiamy go bez odpowiedzi.
 
 - **Zastępstwo.** Zobowiązanie bierze na siebie fundacja, nie człowiek: jeżeli niedostępność przekroczy trzydzieści dni na którymkolwiek etapie, Rada Fundacji zawiadamia o tym Mecenasa w ciągu siedmiu dni i zleca wykonanie pozostałych zadań innemu podmiotowi, w granicach kwot z kosztorysu; różnicę, jeżeli wystąpi, pokrywa rezerwa, a nie dopłata Mecenasa.
+- **Zastępstwo w sprawach, które nie czekają trzydziestu dni.** Powierzony oryginał wymaga reakcji w godzinach, nie w miesiącu: odebrania przesyłki, zgłoszenia szkody przewoźnikowi i ubezpieczycielowi w terminie z polisy, zabezpieczenia pracy. **Dlatego od dnia pierwszego odbioru oryginału do dnia zamknięcia obiegu ostatniej pracy wskazujemy Mecenasowi z nazwiska opiekuna prac i jego zastępcę**, obu umocowanych do tych czynności i obu dostępnych pod podanym numerem. Lista idzie do umowy jako załącznik i jej zmiana wymaga zawiadomienia Mecenasa.
 - **Przejęcie pracy.** Do przejęcia pracy nie jest potrzebna wiedza, której nie ma na piśmie: regulaminy, karty oceny, kosztorys i terminarz są jawne i opublikowane, a dostępy do domen, poczty, hostingu i magazynu kopii archiwalnych należą do fundacji, nie do osoby prywatnej, i ich kopia zostaje złożona u Rady Fundacji przed otwarciem naboru.
 - **Granica tej obietnicy.** Jeżeli i to nie wystarczy, nie udajemy, że umowa działa dalej: świadczenie niewykonane jest świadczeniem niewykonanym, więc Mecenas odzyskuje odpowiadającą mu kwotę i może wycofać nazwę na zasadach opisanych wyżej.
 

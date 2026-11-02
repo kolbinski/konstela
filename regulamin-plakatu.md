@@ -87,6 +87,16 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 5. Organizator nie pyta o wykształcenie, dorobek wystawienniczy ani przynależność do organizacji twórczych.
 
+## § 3a. Terminy edycji pierwszej
+
+1. Terminy edycji pierwszej Organizator ogłasza na stronie plebiscytu w dniu otwarcia naboru i od tej chwili jest nimi związany.
+
+2. Plan, na podstawie którego Organizator prowadzi przygotowania i który nie stanowi zobowiązania wobec kogokolwiek, przewiduje otwarcie naboru na początku 2027 roku, **zamknięcie naboru 30 listopada 2027 roku**, ogłoszenie dziesiątki finalistów w połowie grudnia 2027 roku, oględziny oryginałów i werdykt jury na początku lutego 2028 roku oraz rozstrzygnięcie i galę w drugiej połowie czerwca 2028 roku.
+
+3. **Nabór w tym plebiscycie zamyka się wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją**, ponieważ praca, która zajmie pierwsze miejsce, trafia na okładkę antologii tej edycji, a antologia musi zdążyć do druku.
+
+4. Terminy obiegu oryginałów prac finałowych wyznacza § 10, niezależnie od terminów wymienionych w ust. 2; biegną one od dnia odebrania konkretnej pracy, a nie od zamknięcia naboru ani od dnia ustalenia werdyktu.
+
 ## § 4. Forma zgłoszenia
 
 1. Zgłoszeniem jest **jedna praca**, zgłaszana w postaci fotografii albo skanu. Oryginałów nie przesyła się na etapie zgłoszenia.
@@ -409,7 +419,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 4. Finalista, który nie wyraża zgody na przesłanie oryginału, nie traci z tego powodu nagrody pieniężnej ani miejsca w werdykcie. **Odmowa nie obniża punktacji: jury ocenia wówczas pracę na podstawie reprodukcji i dostępnych materiałów** (§ 8 ust. 4b). Praca jest prezentowana na wystawie w postaci reprodukcji.
 
-5. Organizator odpowiada za pracę od chwili jej odebrania od przewoźnika do chwili nadania przesyłki zwrotnej, na zasadach ogólnych.
+5. **Organizator odpowiada za pracę od chwili jej odebrania od autora przez przewoźnika, któremu Organizator zlecił przewóz, do chwili rzeczywistego powrotu pracy do autora albo wydania jej nabywcy** – nie do chwili nadania przesyłki zwrotnej. Odpowiedzialność obejmuje więc także drogę powrotną i czas przechowywania między wystawami, a ubezpieczenie zawarte przez Organizatora obejmuje **cały ten okres bez przerwy**, wraz z załadunkiem i wyładunkiem, przechowywaniem, obiema wystawami oraz – przy pracy sprzedanej – czasem do jej wydania nabywcy. Jeżeli przesyłka zwrotna nie zostanie doręczona, praca wraca pod pieczę Organizatora i jest przechowywana na jego koszt do czasu skutecznego zwrotu; **autor nie ponosi kosztów powtórnej wysyłki ani przechowywania**.
 
 ## § 11. Galeria i Archiwum
 
@@ -516,7 +526,7 @@ Hierarchia, czytelność i skuteczność przekazu w różnych skalach, w tym w p
 
 6a. **Praca nieopłacona.** Jeżeli nabywca nie zapłaci ceny w terminie wskazanym w warunkach z ust. 2, Organizator zawiadamia o tym autora i **nadaje przesyłkę zwrotną w terminie 30 dni od bezskutecznego upływu terminu zapłaty**. Termin ten biegnie niezależnie od terminu z ust. 6 i od tego, czy wcześniej upłynął.
 
-6b. **Praca sprzedana i opłacona.** Termin i sposób wydania pracy nabywcy, miejsce jej przechowywania do chwili wydania, a także postępowanie w razie nieodebrania pracy przez nabywcę – w tym to, kto ją wówczas przechowuje i na czyj koszt – określają warunki z ust. 2, akceptowane przez autora przed wystawieniem pracy. Organizator zawiadamia autora o zapłacie i o wydaniu pracy nabywcy. Przechowywanie pracy po jej opłaceniu nie jest objęte terminem z § 10 ust. 3b, ponieważ praca nie podlega już zwrotowi autorowi.
+6b. **Praca sprzedana i opłacona.** Termin i sposób wydania pracy nabywcy, miejsce jej przechowywania do chwili wydania, a także postępowanie w razie nieodebrania pracy przez nabywcę – w tym to, kto ją wówczas przechowuje i na czyj koszt – określają warunki z ust. 2, akceptowane przez autora przed wystawieniem pracy. Organizator zawiadamia autora o zapłacie i o wydaniu pracy nabywcy. Warunki te stanowią uzgodnienie, o którym mowa w § 10 ust. 3b, **wyłącznie jeżeli określają datę końcową przechowywania, jego koszty i zakres ubezpieczenia**; w braku któregokolwiek z tych trzech elementów termin 150 dni z § 10 ust. 3b stosuje się także do pracy opłaconej, a Organizator wydaje ją nabywcy albo przekazuje do odbioru przed jego upływem. **Przechowywanie pracy po zapłacie nie jest pozostawione uznaniu Organizatora**: praca przestaje podlegać zwrotowi autorowi, lecz nie przestaje podlegać terminowi, na który autor się zgodził.
 
 7. Sposób przeprowadzenia cichej licytacji Organizator ogłasza przed otwarciem naboru, a jeżeli galeria zostanie pozyskana później – w propozycji, o której mowa w § 10 ust. 3a.
 

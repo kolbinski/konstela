@@ -33,7 +33,7 @@ Nagradzany jest człowiek, nie AI i nie firma, która ją zbudowała. Oceniane s
 
 [Karta oceny](/dokument/regulamin-rozmowy/#karta-oceny) jest jawna od dnia otwarcia naboru i taka sama dla wszystkich oceniających.
 
-Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Pierwsza edycja obejmuje prace z całego 2027 roku, zgłoszenia rozmów, piosenek i plakatów przyjmowane są do 10 stycznia 2028, a filmów do 30 listopada 2027, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny.
+Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gali; pozostałe trzy dotyczą [filmu](/plebiscyt-filmu), [piosenki](/plebiscyt-piosenki) i [plakatu](/plebiscyt-plakatu) o sztucznej inteligencji. Pierwsza edycja obejmuje prace z całego 2027 roku, zgłoszenia przyjmowane są do 30 listopada 2027 w plebiscytach filmu i plakatu, do 31 grudnia 2027 w plebiscycie piosenki i do 10 stycznia 2028 w plebiscycie rozmowy, rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny.
 
 **Ocena przebiega w dwóch rundach i ta oferta dotyczy pierwszej z nich.**
 
