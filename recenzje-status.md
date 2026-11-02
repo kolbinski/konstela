@@ -4,7 +4,7 @@
 
 Jedno miejsce na odpowiedź na pytanie „które oferty przeszły już przez recenzenta i z jakim statusem". Plik jest aktualizowany po **każdej** turze recenzji, w tym samym commicie co zmiany w ofercie - zasada zapisana w `CLAUDE.md`. Pełne teksty recenzji leżą w `recenzje/`, prompty w plikach `*-prompt-recenzji*.md`.
 
-Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobną personą. Recenzję przeszło **sześć** ofert, w sumie w **dwudziestu jeden turach**.
+Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobną personą. Recenzję przeszło **siedem** ofert, w sumie w **dwudziestu dwóch turach**.
 
 ## Przeszły recenzję
 
@@ -13,6 +13,7 @@ Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobn
 | **Rozmowa** - fundator nagród | 7 | prezes firmy technologicznej decydujący sam o kwotach powyżej pół miliona | **Gotowa do przedstawienia sponsorowi.** „Odpowiadam i umawiam spotkanie"; deklaracja finansowania zależy wyłącznie od rzeczy spoza dokumentu: Rady Fundacji, zakontraktowanego jury i umowy z limitem | `2026-10-31-oferta-rozmowa-*` (5 plików) |
 | **Akademia** - sponsor pierwszej rundy oceny | 4 | dyrektor komunikacji sieci handlowej, potem osoba od budżetu sponsoringowego firmy technologicznej | **Konstrukcja finansowa zamknięta.** „Rozmowę handlową bym rozpoczął, przelewu jeszcze nie"; jedyny otwarty warunek to opinia prawna o udziale akademii w postępowaniach o odrzucenie, nie tekst oferty | `2026-10-31-oferta-akademia-*`, `2026-11-01-oferta-akademii-oczami-sponsora-technologicznego.md` |
 | **Plakat** - mecenas plebiscytu | 6 + 1 | prezes firmy rodzinnej produkującej płytki ceramiczne, budującej markę wzornictwem; osobno osoba odpowiadająca za fizyczny obieg cudzych prac | **Odpowiada na list i prosi o dokumenty**, bez deklaracji finansowania. Po turze obiegu oryginałów: podpisałby przyjęcie pierwszej pracy, warunek kolejności wykonany (§ 10 ust. 1b) | `2026-10-30-oferta-plakat-oczami-producenta.md`, `2026-11-02-oferta-plakat-obieg-oryginalow.md` |
+| **Piosenka** - fundator nagród | 1 | dyrektor marketingu marki konsumenckiej | **Odpowiada, ale odmawia zakupu z budżetu marketingowego**: „nie sfinansujemy przedstawionego pakietu, ponieważ nie określa zakresu dotarcia i wykorzystania treści przez markę, a kosztorys zawiera sprzeczne kwoty". Dopuszcza osobne finansowanie sesji studyjnych po zamkniętej kalkulacji. **Zarzut najważniejszy nie dotyczył pieniędzy**: oferta powoływała się na „osiem tur niezależnej recenzji praktyka", co przypisywało krytycznemu czytaniu przez model doświadczenie i niezależność, których nie ma - ujawnienie weszło do wszystkich dokumentów. Sześć zarzutów rachunkowych potwierdzonych na arkuszu i naprawionych; z nich wziął się czwarty test `sprawdz-kwoty.js`, który znalazł ten sam błąd w pięciu kolejnych ofertach. Po recenzji oferta dostała **minimalny pakiet publikacji i praw do treści** ze zdaniem, że zobowiązujemy się do działań, nie do zasięgów | `2026-11-02-oferta-piosenka-oczami-dyrektora-marketingu.md` |
 | **Mecenas założycielski** | 4 | właściciel firmy rodzinnej wydający własne pieniądze | „Rozmowa tak, **zobowiązanie finansowe po sprawdzeniu dokumentów i zakupów**" | `2026-10-30-oferta-zalozycielska-*` (4 pliki) |
 | **Mecenat Antologii** | 1 | członek zarządu firmy produkcyjnej, od marketingu i komunikacji | „Tak, ale odpowiedź jest **prośbą o wyjaśnienia, nie deklaracją zainteresowania finansowaniem**" | `2026-10-30-oferta-mecenatu-oczami-sponsora.md` |
 | **Film** - fundator nagród | 1 | firma medialna | **Najsurowszy ze wszystkich.** „Odpowiadam na list, ale nie kieruję tej propozycji do zatwierdzenia budżetu" - zarzut główny: nie wykazano zdolności przyciągnięcia dobrych filmów | `2026-10-31-oferta-film-oczami-firmy-medialnej.md` |
@@ -48,7 +49,6 @@ Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobn
 
 Mają gotowy prompt, nie mają jeszcze recenzji:
 
-- **piosenka** (fundator nagród) - dyrektor marketingu marki konsumenckiej
 - **gala** - dyrektor komunikacji firmy sponsorującej wydarzenia
 - **galeria sztuki** - dyrektor galerii sztuki współczesnej
 - **mecenas muzyczny** - właściciel studia nagraniowego

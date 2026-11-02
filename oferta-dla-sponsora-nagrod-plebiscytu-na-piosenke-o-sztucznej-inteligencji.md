@@ -82,7 +82,7 @@ Trzy rzeczy, które do tej pozycji należą i których nie zmieniamy:
 - **Nagrania powstają niezależnie od tego, czy znajdzie się wydawca płyty.** Płyta jest planem, nie obietnicą, i zależy od osobnej umowy, którą autor zawiera z wydawnictwem, a nie z nami. Odmowa takiej umowy nie odbiera autorowi ani nagrania, ani praw do niego.
 - **Zakres sesji ogłaszamy przed otwarciem naboru**: studio, liczba sesji i poprawek, przekazywane materiały, kto zatwierdza aranżację oraz zasady pokrywania kosztów dojazdu. Uczestnik ma wiedzieć, co dokładnie dostaje, zanim zdecyduje się zgłosić.
 
-To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 utworów nagranych porządnie, których autorzy w innym razie nagrać by nie mogli.
+To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 utworów nagranych porządnie, w studiu, na koszt który nie obciąża autorów. **Nie twierdzimy, że bez tej oferty nie nagraliby ich wcale** - nie znamy przyszłych finalistów ani ich możliwości. Twierdzimy to, co jest nasze: że sesja jest zapewniona i opłacona z góry, niezależnie od tego, czy autor mógłby za nią zapłacić sam.
 
 ### 3. Hymn Nagrody z teledyskiem - 80 000 zł netto
 
@@ -185,7 +185,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
-**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku wykonujemy to, co pozostaje wykonalne, czyli zwrot wszystkiego, co nam powierzono, oraz rozliczenie, a środki przeznaczone na rzeczy, które się nie odbyły, wracają w całości. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
+**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku **wracają w całości środki przeznaczone na rzeczy, które się nie odbyły** - nagrody, sesje studyjne, dojazdy, medal - a Fundator dostaje rozliczenie co do pozycji. **Nie jest to zwrot wszystkiego**, i trzeba to powiedzieć wprost: hymn ma premierę w czasie naboru, czyli przed rozstrzygnięciem, więc jego koszt zostaje poniesiony i rozliczony niezależnie od wyniku edycji; to samo dotyczy pracy organizatora wykonanej i odebranej przed tą chwilą oraz kosztów już zaciągniętych wobec osób trzecich. Roszczenie Fundatora obejmuje więc **środki niewydane i pozycje niewykonane**, nie całość wpłaty. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
@@ -210,7 +210,23 @@ Poza tytułem:
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: 60 dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
-**Rozliczenie:** w ciągu 60 dni od ogłoszenia wyników Fundator otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy, listą wypłaconych nagród i potwierdzeniem przeprowadzenia sesji studyjnych.
+### Minimalny pakiet publikacji i materiałów, zapisany w umowie
+
+Dotąd świadczenia wyżej mówiły, **gdzie marka będzie widoczna**, a nie **ile tego będzie i co marka może z tym zrobić**. To dwie różne rzeczy i druga daje się zakontraktować, więc poniżej jest liczbowo. Zobowiązujemy się wyłącznie do tego, co kontrolujemy: **do działań, nie do zasięgów**.
+
+- **10 publikacji o finalistach** na stronie plebiscytu i w kanałach Nagrody, po jednej na finalistę, każda z oznaczeniem Fundatora, publikowane w oknie od ogłoszenia dziesiątki do trzech miesięcy po gali.
+- **4 publikacje o nagraniach studyjnych**: zapowiedź, dwa materiały z sesji i podsumowanie, każda z oznaczeniem Fundatora.
+- **Materiały z realizacji sesji**: zdjęcia i surowe nagrania wideo z dnia zdjęciowego, przekazywane Fundatorowi w ciągu 30 dni od ostatniej sesji, **z prawem publikacji we własnych kanałach marki** - bez opłat i bez terminu końcowego, w zakresie niekomercyjnej komunikacji marki.
+- **Fragmenty nagrań do użycia w kampanii**: pozyskujemy dla Fundatora zgody autorów na wykorzystanie do 30 sekund z każdego nagrania. **Zgoda jest dobrowolna i autor może odmówić** - gwarantujemy wystąpienie o nią do każdego z dziesięciu i przekazanie odpowiedzi, nie jej treść. Prawa do nagrań zostają przy autorach i to się nie zmienia.
+- **Oznaczenie w teledysku hymnu**: plansza z tytułem Fundatora w czołówce albo na końcu, do uzgodnienia; **hymn wraz z teledyskiem dostajecie w pliku z prawem publikacji we własnych kanałach** na tych samych zasadach co materiały z sesji.
+- **Pakiet z gali**: zdjęcia, zapis wideo werdyktu plebiscytu piosenki i wystąpienia przedstawiciela Fundatora oraz zapis wykonań na żywo - w zakresie, na jaki zgodzą się wykonawcy, o co również występujemy.
+- **Raport wykonania** przy rozliczeniu: lista wykonanych publikacji z datami i odnośnikami, liczba przekazanych materiałów, liczba uzyskanych i odmówionych zgód autorskich. **Raport mówi, co zrobiliśmy, a nie ilu ludzi to zobaczyło** - statystyk serwisów, w których publikujemy, nie kontrolujemy i nie będziemy ich podawać jako własnego wyniku.
+
+**Czego w tym pakiecie nie ma i nie będzie.** Płatnej promocji i budżetu mediowego - w kosztorysie nie ma takiej pozycji, a godziny komunikacji organizatora to praca nad treścią i dotarciem do wykonawców, **nie zakup publiczności**. Gwarancji zasięgów, liczby odsłuchań ani miejsc na listach. Wpływu na werdykt. Praw do nagrań, które zostają przy autorach. Jeżeli Fundator potrzebuje mierzalnego dotarcia, **to jest zakup, którego ta oferta nie zawiera** i który trzeba policzyć osobno - powiedzmy to przed podpisaniem, nie po pierwszym raporcie.
+
+**Niewykonanie pakietu jest podstawą do żądania zwrotu części ceny.** Każda z wymienionych pozycji ma liczbę albo termin, więc jej niewykonanie daje się stwierdzić. Jeżeli Organizator nie wykona którejkolwiek, Fundator może żądać **proporcjonalnego obniżenia ceny roli o wartość niewykonanego świadczenia**, ustalonej w umowie, albo jej wykonania w terminie dodatkowym. To samo zdarzenie wchodzi na listę zdarzeń pozwalających wycofać nazwę.
+
+**Rozliczenie w dwóch krokach, bo sesje kończą się po gali.** W ciągu **60 dni od ogłoszenia wyników** Fundator otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy i listą wypłaconych nagród. **Sesje studyjne rozliczane są osobno**: ostatnia odbywa się nie później niż **cztery miesiące po gali**, a potwierdzenie ich przeprowadzenia wraz z rozliczeniem tej pozycji Fundator dostaje w ciągu **30 dni od ostatniej sesji**. Jeżeli któryś z finalistów z sesji nie skorzysta, niewykorzystana kwota wraca do Fundatora w tym samym rozliczeniu.
 
 ## <!--ikona:zasady--><span>Czego oferta nie obejmuje</span>
 
@@ -227,7 +243,7 @@ Fundator nie nabywa praw do zgłoszonych utworów ani do nagrań studyjnych. **T
 Rola nie obejmuje:
 
 - **gali** - sala, obsługa i realizacja wieczoru mają osobnego partnera; w tej ofercie jest wyłącznie część artystyczna plebiscytu piosenki, i to jako pozycja do wyceny;
-- **Antologii, Archiwum i podcastu** - [osobna rola Mecenasa Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela);
+- **Antologii, Archiwum rozmów i podcastu** - [osobna rola Mecenasa Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela). **Rozgraniczenie, które trzeba nazwać**, bo w tabeli powyżej są pozycje na Słuchalnię i Archiwum piosenek: **ta oferta finansuje Słuchalnię i Archiwum tego plebiscytu** - stronę ze zgłoszonymi utworami i ich zapisem - i one powstają niezależnie od tego, czy Mecenas Antologii się znajdzie. Rola Mecenasa Antologii dotyczy **Antologii rozmów, Archiwum rozmów i podcastu**, czyli innego materiału. Gdyby Mecenasa Antologii nie było, Słuchalnia i Archiwum piosenek i tak działają;
 - **infrastruktury wspólnej** - fundacja, strona, znak towarowy i narzędzia obsługujące wszystkie 4 plebiscyty należą do [roli Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela);
 - **wydania płyty** - to osobna rola partnera wydawniczego i osobna umowa, której stroną jest autor nagrania, a nie organizator. Nagrania studyjne powstają niezależnie od tego, czy wydawca się znajdzie.
 
@@ -308,7 +324,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
 - **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
-- **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
+- **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę. **Te same sesje są pozycją w tabeli powyżej, dlatego obowiązuje reguła pomniejszenia**: jeżeli studio zapewni nagrania rzeczowo, kwota Fundatora **maleje o faktyczną wartość zapewnionych sesji**, a świadczenia przy nagraniach - oznaczenie, materiały, pierwszeństwo przy kolejnej edycji - dzielą się między obie role według wkładu. Fundator nie płaci dwa razy za tę samą rzecz i nie traci za nią świadczeń w całości
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów
 - **[Partner dystrybucji filmów](/oferta-dla-partnera-dystrybucji-filmow)** - sala i publiczność dla pokazów filmów finałowych

@@ -23,7 +23,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 
 ## <!--ikona:moneta--><span>Skąd ta rola się bierze</span>
 
-Dziś sesje studyjne są **wewnątrz** oferty dla [fundatora nagród plebiscytu na piosenkę](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji), która zamyka się kwotą 311 769,12 zł netto. Jeżeli mecenas muzyczny weźmie tę pozycję osobno, **oferta piosenkowa zmniejsza się o 75 000 zł wraz z przypadającą na nie rezerwą, czyli o 84 000 zł, do 205 816 zł netto**.
+Dziś sesje studyjne są **wewnątrz** oferty dla [fundatora nagród plebiscytu na piosenkę](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji), która zamyka się kwotą 311 769,12 zł netto. Jeżeli mecenas muzyczny weźmie tę pozycję osobno, **oferta piosenkowa zmniejsza się o 75 000 zł wraz z przypadającą na nią rezerwą 12%, czyli o 84 000 zł - do 227 769,12 zł netto**. Koordynacja sesji zostaje po stronie organizatora i w jego budżecie, bo ktoś musi umówić studio z dziesięciorgiem autorów niezależnie od tego, kto płaci za nagrania. Działa to także częściowo: **jeżeli studio zapewni nagrania rzeczowo albo pokryje część sesji, kwota Fundatora maleje o faktyczną wartość tego, co zapewniono**, a świadczenia przy nagraniach dzielą się między obie role według wkładu.
 
 Piszemy to wprost z dwóch powodów:
 
