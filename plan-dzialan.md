@@ -917,6 +917,22 @@ Koszt tej decyzji: drugi transport przy każdej pracy, dwa razy więcej protoko�
 
 **Przy okazji dwa błędy własne.** Pisząc notę do wiersza pracy w Budżecie Plakatu, wpisałem ją do kolumny E, która w bloku pracy jest kolumną Kwota - i skasowałem formułę, co natychmiast zaniżyło pracę do 58 300 zł i udziały AI. Jest to **piąty raz** w tym arkuszu i w zakładkach budżetowych kolumna uwag jest różna w blokach: w pracy to F, w kosztach twardych E. Drugi błąd: skrypt podmieniający udziały AI dopasowywał budżet po dowolnym wystąpieniu kwoty w pliku, więc wpisał udział rozmowy do ośmiu tabel; naprawione dopasowaniem po nazwie pliku.
 
+## Trzecia tura fundacji: koniec poprawiania tekstu, początek pakietu (2.11.2026)
+
+Recenzentka powiedziała wprost, że nie potrzebuje kolejnej rundy deklaracji - potrzebuje dokumentów. **To zamyka recenzję redakcyjną oferty plakatu** i przenosi pracę w inne miejsce: `pakiet-mecenas-plakatu.md` wymienia jedenaście pozycji, ich wykonawców i to, co każdą blokuje. Cztery z nich - kwalifikacja VAT u księgowego, oferta przewoźnika, oferta ubezpieczyciela i porównanie rynkowe cen - można zlecić od razu i odblokowują trzy następne.
+
+**Trzy rzeczy w samym tekście były jednak wadliwe i te poprawiłem.**
+
+**Twierdzenie bez podstawy, postawione przeze mnie w akapicie o uczciwości.** Napisałem, że każdy transport jest najczęstszym momentem uszkodzenia pracy. Nie wiem tego, nie mam na to źródła, a użyłem tego zdania do uzasadnienia własnego wyboru. Porównanie dwóch wariantów pieczy - jednej ciągłej i dwóch krótkich, z uwzględnieniem technik wykonania - zamawiamy u przewoźnika i ubezpieczyciela, i **jeżeli wypadnie na rzecz pieczy ciągłej, wracamy do niej**. Wybór autora też nie jest dowodem: finalista dostaje opis obu wariantów z tym porównaniem, zanim zdecyduje. Zostaje jedno zdanie, które ekspertyzy nie wymaga: czteromiesięcznego przechowywania bez żadnej czynności nie umiem obronić.
+
+**Ekspozycja opisana jako jedna kwota.** Pula nagród plus rezerwa to tylko środki niewykorzystane przy prawidłowo odebranych etapach. Sprawozdanie pokazuje teraz trzy osobne pozycje: środki na rachunku, koszty już zaakceptowane oraz **potencjalne roszczenia - jawnie jako kwotę niezamkniętą**, z granicą w całości wypłat danej edycji. Pula nagród jest wyraźnie wyłączona z limitu jednej nierozliczonej transzy, bo poprzedni opis dawał się odczytać dwojako.
+
+**Płynność, czyli pytanie, którego sam sobie nie zadałem.** Przywracając płatność po odbiorze, zostawiłem fundację bez środków na zapłatę przewoźnikowi i ubezpieczycielowi przed refundacją - nowa fundacja nie ma z czego kredytować cudzych faktur. Rozstrzygnięcie: **koszty zewnętrzne są kosztami przenoszonymi**, finansowanymi z rachunku wyodrębnionego przed etapem i rozliczanymi po fakturach dostawców, a **praca własna fakturowana po odbiorze**. Mecenas nie finansuje niczyjej pracy z wyprzedzeniem, a fundacja nie kredytuje dostawców. W umowie dwa warianty zamienne: zapłata dostawcy bezpośrednio przez Mecenasa albo terminy płatności uzgodnione z dostawcami.
+
+Do tego dwie rzeczy przestały udawać pewność: liczby VAT-owskie nie są nazywane górną granicą kosztu do czasu kwalifikacji pozycja po pozycji, a podniesienie limitu do 320 000 zł jest opisane jako **nowy zakres decyzji**, nie jako następstwo przyjęcia czyjejś uwagi.
+
+**Wniosek metodyczny z czterech tur tej persony.** Trzy z czterech jej uwag w dwóch ostatnich turach dotyczyły wad, które sam wprowadziłem, naprawiając poprzednie - ten wzorzec zapisaliśmy już w CLAUDE.md przy ofercie piosenki i wraca dokładnie w tej postaci. Nowe: **przy każdym zdaniu uzasadniającym wybór sprawdzać, czy nie jest twierdzeniem o świecie, którego nie da się poprzeć** - „transport jest najczęstszym momentem uszkodzenia" brzmiało jak wiedza branżowa, a było moim domysłem użytym jako argument.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
