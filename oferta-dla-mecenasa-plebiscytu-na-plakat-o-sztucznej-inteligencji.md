@@ -112,7 +112,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 - **prowadzenie galerii prac i Archiwum - 25 godzin**: wpisy po ocenie formalnej, publikacja ocen po werdykcie;
 - **kopie archiwalne zgłoszonych plakatów - 15 godzin**: pobranie, opis i sprawdzenie kompletności.
 
-**Galeria prac i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Od 31 października 2026 roku każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat. Mecenas finansuje więc rzecz, która powstaje i działa niezależnie od tego, ilu innych partnerów uda się pozyskać.
+**Galeria prac i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat. Mecenas finansuje więc rzecz, która powstaje i działa niezależnie od tego, ilu innych partnerów uda się pozyskać.
 
 **Transport 8 000 zł i ubezpieczenie 3 000 zł to szacunki, a nie oferty.** Transport policzony jest jako 800 zł za pracę w obie strony razy dziesięć prac finałowych; ubezpieczenie przy sumie deklarowanej rzędu 100 000 zł. Żadna z tych kwot nie jest dziś potwierdzona ofertą przewoźnika ani ubezpieczyciela. **Obie rozliczane są co do złotówki po fakturach dostawców: nadwyżkę pokrywa rezerwa, a kwota niewykorzystana wraca do Mecenasa.** Jeżeli mniej niż dziesięć osób zdecyduje się przysłać oryginał, pozycja transportu maleje proporcjonalnie.
 
@@ -129,7 +129,7 @@ Każdą z nich uzgadniamy osobno, aneksem, po przedstawieniu Mecenasowi oferty d
 
 **Górny limit zobowiązania.** Żeby otwarte pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 285 000 zł netto**. Powyżej niej Mecenas nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Odmowa podpisania aneksu nie naraża Mecenasa na dopłatę - ale może oznaczać, że przedsięwzięcie zostanie zrealizowane w węższym zakresie, i to jest realne ryzyko, którego nie zamierzamy nazywać inaczej. Chroni przed nim rdzeń świadczeń opisany niżej: ograniczenie nie może go naruszyć, a gdyby naruszyło, Mecenasowi przysługuje prawo wycofania nazwy.
 
-**Dojazd i nocleg dziesięciu finalistów na galę - 8 000 zł - są w tej ofercie**, a nie u [sponsora gali](/oferta-dla-sponsora-gali-nagrody-konstela). Przeniesione tam 31 października 2026: gala jest wspólna dla czterech plebiscytów, więc ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich się odbędzie. Organizacja przyjazdu zostaje wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.
+**Dojazd i nocleg dziesięciu finalistów na galę - 8 000 zł - są w tej ofercie**, a nie u [sponsora gali](/oferta-dla-sponsora-gali-nagrody-konstela). Powód: gala jest wspólna dla czterech plebiscytów, więc ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich się odbędzie. Organizacja przyjazdu zostaje wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.
 
 **Co skaluje się z liczbą zgłoszeń, a co nie.** Kontrola formalna rozliczana jest **według faktycznej liczby zgłoszeń**, po 10 minut na zgłoszenie - przy 15 zgłoszeniach Mecenas nie płaci za kontrolę 150. Tak samo transport i ubezpieczenie rozliczają się według liczby przysłanych oryginałów. Pozostałe godziny są **ryczałtem za wykonanie zadania, a nie zakupem godzin**: Mecenas kupuje rezultat - przeprowadzoną ocenę, uzgodnioną okładkę, przeprowadzoną licytację - i płaci za niego umówioną kwotę niezależnie od tego, czy zajęła ona więcej czy mniej czasu. Nakład tych zadań nie zależy od frekwencji: do szkoły trzeba napisać niezależnie od tego, ilu uczniów odpowie.
 
@@ -157,13 +157,35 @@ Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, oraz te dwie 
 
 **Żadna transza nie jest zapłatą z góry za pracę wykonywaną później.** Faktura wychodzi osobno do każdego etapu, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna.
 
+**Po czym poznać, że etap wolno odebrać.** Zdanie „etap nie zostaje odebrany" jest warte tyle, ile kryteria, według których się to stwierdza - więc podajemy je z góry, a nie zostawiamy do uznania. Sześć progów, wszystkich liczonych z dokumentacji, którą i tak musimy prowadzić:
+
+- **100% zgłoszeń ma identyfikator i zapisany status** - bez tego nie da się wykazać, że żadne nie zginęło;
+- **100% przyjętych oryginałów ma protokół stanu pracy wraz z dokumentacją zdjęciową**, sporządzony przy przyjęciu i powtórzony przy zwrocie, tak aby uszkodzenie dało się przypisać do odcinka drogi, a nie do domysłu;
+- **100% powierzonych oryginałów wróciło do autora albo zostało wydanych nabywcy**, każdy z własną datą i własnym protokołem;
+- **polisa obejmuje cały okres bez luki** - od przyjęcia pierwszej pracy do zwrotu ostatniej, wraz z czasem wystawy, jeżeli się odbyła;
+- **100% kart oceny jest kompletnych** we wszystkich kryteriach wraz z uzasadnieniem;
+- **zero nieudokumentowanych zmian parametrów oceny** - parametry ogłaszane są w dniu otwarcia naboru i od tego dnia niezmienne, więc każda zmiana jest albo błędem, albo naruszeniem regulaminu.
+
+**Odbiór potwierdza rezultat, nie poniesienie kosztu.** Przy każdej pozycji tego kosztorysu wskazujemy rzecz do przekazania i sprawdzenia - protokół, polisę, zestawienie, raport albo wykonaną przesyłkę - i etap odbieramy po tej rzeczy, a nie po fakturze, która za nią zapłaciła. **Wszystkie sześć progów wraz z górnym limitem wchodzi do umowy albo do jej wiążącego załącznika**, a nie zostaje na tej stronie.
+
+**Cztery warunki, bez których górny limit nie jest limitem.** Zapisujemy je wprost, bo kwota maksymalna bez nich jest ozdobą:
+
+1. **Limit jest kwotą całkowitą**, a nie limitem samej pracy: obejmuje pulę nagród, pracę, transport, ubezpieczenie, oprawę wystawy i rezerwę.
+2. **Nie rośnie automatycznie** przy większej liczbie zgłoszeń, większej liczbie przysłanych oryginałów ani dłuższym czasie realizacji.
+3. **Każde zwiększenie zobowiązania wymaga aneksu podpisanego przed wykonaniem dodatkowej pracy.** Praca wykonana bez aneksu nie jest podstawą faktury i jej koszt ponosi Organizator.
+4. **Brak dodatkowego finansowania oznacza węższy zakres albo przesunięcie terminu, a ostatecznie nierozstrzygnięcie edycji** - bez przeniesienia kosztu na Mecenasa, który nie jest gwarantem wypłacalności przedsięwzięcia i którego umowa nie czyni nim pośrednio.
+
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
-Regulamin wymienia **trzy warunki, które muszą być spełnione łącznie, żeby nabór się otworzył**:
+Regulamin wymienia **pięć warunków, które muszą być spełnione łącznie, żeby nabór się otworzył** (§ 16):
 
-1. cała ogłaszana pula ma pokrycie w środkach na rachunku Organizatora;
+1. cała ogłaszana pula ma pokrycie w środkach, które **wpłynęły wcześniej na rachunek** Organizatora - samo zobowiązanie partnera nie wystarcza;
 2. co najmniej trzy osoby potwierdziły udział w jury i skład został ogłoszony;
-3. regulamin przeszedł konsultację prawną.
+3. regulamin przeszedł konsultację prawną, a klauzula informacyjna jest kompletna;
+4. **pierwsza runda oceny ma zapewnione finansowanie** w zakresie odpowiadającym liczbie zgłoszeń przyjętej w kosztorysie;
+5. **obsługa zgłoszeń ma zabezpieczonych ludzi i narzędzia** - przyjęcie zgłoszenia i kopia archiwalna, weryfikacja formalna, korespondencja, reklamacje i postępowania sporne.
+
+**Dwa ostatnie warunki dotyczą tej roli pośrednio i warto powiedzieć, dlaczego je wymieniamy.** Praca przy jednym zgłoszeniu poza ocenianiem jest stała i rośnie wprost proporcjonalnie do liczby zgłoszeń, więc wyczerpuje się wcześniej niż przepustowość oceny: edycja, która ma opłacone nagrody i nie ma kto przyjąć prac ani odpowiedzieć ich autorom, nie domknie się w ogłoszonych terminach. Pieniądze Mecenasa nie kupiłyby wtedy rezultatu, za który płaci. Przepustowości tej obsługi nie ogłaszamy jako zobowiązania wobec Uczestników, ale przedstawiamy ją Mecenasowi na żądanie wraz ze sposobem wyliczenia.
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a kwota niewykorzystana wraca do Mecenasa albo - według jego wyboru - przechodzi na kolejną edycję.
 
