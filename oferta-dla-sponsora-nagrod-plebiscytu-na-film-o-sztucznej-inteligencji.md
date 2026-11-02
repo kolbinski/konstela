@@ -284,6 +284,8 @@ Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wy
 
 Tytuł **Fundatora nagród plebiscytu na film o sztucznej inteligencji** we wszystkich materiałach pierwszej edycji: na stronie Nagrody, na stronie plebiscytu, w komunikatach prasowych, w czołówce zapisu wideo z gali i w sprawozdaniu z edycji.
 
+**Kiedy wolno użyć Państwa nazwy.** Reguła jest u nas jedna dla wszystkich partnerów: **nazwy nie używamy publicznie przed podpisaniem umowy właściwej i bez pisemnej zgody na konkretny komunikat**. Prowadzenie rozmów, przyjęcie dokumentów ani podpisanie umowy przedwstępnej nie uprawniają do ogłoszenia partnerstwa - ani w komunikacie, ani na stronie, ani w rozmowie z innym partnerem. Zgoda dotyczy treści komunikatu, nie samego faktu, i można ją ograniczyć do jednego kanału albo jednej daty.
+
 Poza tytułem:
 
 - **Logo** na stronie konstela.org i na stronie plebiscytu przez cały okres edycji oraz na scenie podczas gali rozstrzygnięcia.

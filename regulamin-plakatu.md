@@ -489,6 +489,18 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 5f1. **Jeżeli uzasadnień będzie więcej, niż zespół jest w stanie przeczytać, ocenie podlega próba losowa i Uczestnik głosujący wie o tym przed oddaniem głosu.** Liczbę uzasadnień objętą oceną Organizator ogłasza **przed otwarciem głosowania** razem z regulaminem głosowania; przy tej liczbie i niżej ocenie podlegają wszystkie uzasadnienia. Powyżej niej **nagradzane jest najlepsze uzasadnienie spośród wylosowanych, a część tekstów nie zostanie przeczytana** - zdanie to widnieje przy polu uzasadnienia, nie tylko w regulaminie, bo dotyczy decyzji osoby głosującej.
 
+5f3. **Czym sprawdza się kompletność zbioru, bo sam skrót jej nie dowodzi.** Skrót z ust. 5f2 lit. b pozwala stwierdzić, że przedstawiony zbiór jest tym samym, który zadeklarowano - i nic więcej; nie wyklucza pominięcia uzasadnienia przed jego wyliczeniem. Dlatego:
+
+   a) **osoba głosująca otrzymuje w chwili oddania głosu potwierdzenie zawierające skrót jej uzasadnienia** oraz jego numer porządkowy, w panelu głosowania i w wiadomości potwierdzającej głos;
+
+   b) razem ze skrótem zbioru Organizator publikuje **korzeń drzewa skrótów (Merkle root)** oraz narzędzie pozwalające każdej osobie głosującej sprawdzić, że **jej uzasadnienie znajduje się w opublikowanym zbiorze** - na podstawie potwierdzenia z lit. a i ścieżki dowodowej, bez ujawniania cudzych treści;
+
+   c) **liczba uzasadnień musi być równa liczbie głosów ważnych** i obie liczby wykazuje protokół z głosowania (ust. 5d) wraz z liczbą głosów odrzuconych i powodem odrzucenia; rozbieżność między tymi liczbami jest brakiem, który Organizator opisuje w protokole, a nie zaokrągla;
+
+   d) **procedura weryfikacji zbioru** - treść potwierdzenia, sposób liczenia skrótów, budowa drzewa, narzędzie sprawdzające i postępowanie przy zgłoszeniu rozbieżności - jest **jawna od dnia otwarcia głosowania** i stanowi załącznik do regulaminu głosowania. Zgłoszenie rozbieżności rozpatruje się przed ogłoszeniem nagrody za uzasadnienie, a nie po nim.
+
+   **Czego ta procedura nie daje**: nie dowodzi, że ktoś nie został powstrzymany od oddania głosu, i nie zastępuje protokołu z głosowania. Pozwala natomiast każdej osobie głosującej sprawdzić własny głos, a każdemu - powtórzyć losowanie.
+
 5f2. **Losowanie próby: zbiór zamknięty przed ziarnem, wynik odtwarzalny.** Kolejność czynności jest następująca i nie może być inna:
 
    a) **zamknięcie głosowania** przerywa przyjmowanie uzasadnień;

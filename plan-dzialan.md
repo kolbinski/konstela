@@ -961,6 +961,16 @@ Recenzentka zamknęła uwagi o płatnościach, magazynowaniu, transporcie i liś
 
 **Wniosek metodyczny.** Przy każdym mechanizmie losowym, głosowaniu i progu sprawdzać, **czy jawność parametru nie jest zarazem instrukcją jego obejścia**. Jawność liczby, algorytmu i źródła pomaga; jawność wartości ziarna przed zamknięciem zbioru służy wyłącznie temu, kto chce ją wykorzystać.
 
+## Szósta tura fundacji zamyka recenzję oferty plakatu (2.11.2026)
+
+Siedem tur z tą personą, licząc od pierwszej recenzji producenta wzornictwa - trzynaście tur w całej historii tej oferty. Sprawa jest przyjęta do dalszej oceny; dalej liczą się dokumenty, nie zdania.
+
+**Skrót nie dowodzi kompletności i to jest różnica, której sam nie dopowiedziałem.** SHA-256 zbioru uzasadnień pokazuje, że przedstawiony zbiór jest tym zadeklarowanym - nie wyklucza pominięcia uzasadnienia przed wyliczeniem skrótu. Procedura (§ 11a ust. 5f3) daje więc trzy rzeczy, których skrót nie daje: **potwierdzenie ze skrótem własnego uzasadnienia w chwili oddania głosu**, **korzeń drzewa skrótów i narzędzie pozwalające sprawdzić, że dane uzasadnienie jest w zbiorze**, oraz **zgodność liczby uzasadnień z liczbą głosów ważnych wykazaną w protokole**. Do tego jawny tryb zgłaszania rozbieżności, rozpatrywany przed ogłoszeniem nagrody, i zdanie o tym, czego ta procedura nie daje: nie dowodzi, że ktoś nie został powstrzymany od oddania głosu.
+
+**Reguła użycia nazwy partnera, przyjęta dla wszystkich ofert, nie tylko dla tej.** Nazwy nie używamy publicznie przed podpisaniem umowy właściwej i bez pisemnej zgody na konkretny komunikat; rozmowy, przyjęcie dokumentów ani umowa przedwstępna do ogłoszenia partnerstwa nie uprawniają. Zgoda dotyczy treści komunikatu, nie samego faktu, i można ją ograniczyć do kanału albo daty. Wpisane w pięć ofert, w których partner jest nazywany w materiałach edycji.
+
+**Co z tego zostaje na trwałe.** Trzy wnioski metodyczne z tej serii weszły do planu i są wszystkie tego samego rodzaju: sprawdzać, czy zdanie uzasadniające wybór nie jest niepopartym twierdzeniem o świecie; po zmianie terminu albo zakresu przeliczać pozycje od nich zależne; przy mechanizmie losowym sprawdzać, czy jawność parametru nie jest instrukcją jego obejścia. Czwarty dopisuję teraz: **nie przedstawiać dowodu technicznego jako mocniejszego, niż jest** - skrót, podpis i protokół dowodzą każdy czegoś innego i trzeba nazwać, czego nie dowodzą.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
