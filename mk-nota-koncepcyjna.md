@@ -432,10 +432,10 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Obsługa prawna regulaminu plebiscytu | 8 000 zł |
 | Narzędzia AI i licencje, udział tego budżetu | 6 323zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 12 954,72 zł |
-| **Razem, pozycje rozstrzygnięte** | **270 286,72 zł** |
+| **Razem, pozycje rozstrzygnięte** | **268 046,72 zł** |
 | Wystawa w galerii sztuki po gali, jeżeli zostanie pozyskana - poza sumą powyżej | 4 928 zł |
 
-Kwota **270 286,72 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi wystawa w galerii sztuki wraz z cichą licytacją oryginałów - 4 928 zł w aneksie Budżetu Plakatu, finansowana przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
+Kwota **268 046,72 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi wystawa w galerii sztuki wraz z cichą licytacją oryginałów - 4 928 zł w aneksie Budżetu Plakatu, finansowana przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 

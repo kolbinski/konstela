@@ -10,7 +10,7 @@ Odpowiedz na dziewięć pytań, w tej kolejności:
 
 Po pierwsze: czy ten wniosek trafia na posiedzenie rady, czy odkładasz go bez dalszych rozmów. Jeżeli przestałaś czytać, napisz dokładnie gdzie.
 
-Po drugie: proporcja pieniędzy. Z kwoty 270 286,72 zł netto nagrody dla autorów to 90 000 zł brutto w puli oraz 12 000 zł nagród publiczności, a 70 400 zł to praca organizatora - 320 godzin po 220 zł, wykonywanych przez jednoosobową działalność gospodarczą tego samego człowieka, który prowadzi Nagrodę. Powiedz wprost, czy ta proporcja przechodzi u Ciebie, i co odpowiadasz radzie, która zapyta, dlaczego do twórców idzie mniej niż połowa kwoty.
+Po drugie: proporcja pieniędzy. Z kwoty 268 046,72 zł netto nagrody dla autorów to 90 000 zł brutto w puli oraz 12 000 zł nagród publiczności, a 70 400 zł to praca organizatora - 320 godzin po 220 zł, wykonywanych przez jednoosobową działalność gospodarczą tego samego człowieka, który prowadzi Nagrodę. Powiedz wprost, czy ta proporcja przechodzi u Ciebie, i co odpowiadasz radzie, która zapyta, dlaczego do twórców idzie mniej niż połowa kwoty.
 
 Po trzecie: transakcja z podmiotem powiązanym. Organizator pisze o niej sam i wskazuje, że umowy z członkami Zarządu należą do Rady Fundacji, a użycie rezerwy powyżej 5 000 zł wymaga jej zgody. Oceń to zabezpieczenie jako osoba, która sama podpisuje takie wnioski: wystarcza, czy wymagasz czegoś więcej, i czego dokładnie.
 
