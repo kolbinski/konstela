@@ -835,6 +835,18 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Wniosek z trzech tur tej oferty.** Pierwsza tura znalazła sześć błędów rachunkowych i jedno nadużycie co do recenzji. Druga - sześć wad w pakiecie dopisanym po pierwszej. Trzecia - trzy wady w rozliczeniu dopisanym po drugiej. **Każda naprawa była wiarygodna dopiero po sprawdzeniu jej skutków**, a sprawdzał je recenzent, nie ja. Przy ofertach obowiązuje więc to samo, co przy kartach: po każdej zmianie przeczytać całość, nie tylko zmienione miejsce - a przy obietnicach zapytać osobno o trzy rzeczy, **kto to wykona, z czego to zapłacimy i czyje prawa są do tego potrzebne**.
 
+## Oferta piosenki zamknięta po czterech turach: granica leży poza tekstem (2.11.2026)
+
+**Czwarta tura nie przyniosła nowych zastrzeżeń** - „nie dokładam kolejnej rundy hipotetycznych zastrzeżeń". Trzy ostatnie uwagi zamknięte, podstawy utraty zaufania usunięte.
+
+**Status końcowy jest jednak inny niż przy pozostałych siedmiu ofertach i trzeba to zapisać uczciwie: pełnego pakietu recenzent nie zatwierdza.** Nie z powodu tekstu - z powodu tego, czego w ofercie nie ma i nie będzie: budżetu dotarcia i gwarancji zasięgów. To pierwsza oferta, przy której granica nie leży w dokumencie ani w czterech rzeczach spoza niego (KRS, Rada, jury, umowa), lecz w **naturze zakupu**: 311 769,12 zł, które po dopisaniu dokumentacji stało się 325 209,12 zł, jest finansowaniem powstania przedsięwzięcia, a nie zakupem publiczności. Recenzent nazwał to trafniej ode mnie i oferta mówi to teraz jego słowami.
+
+**Następnym krokiem nie jest redakcja, lecz wyceny.** Recenzent czeka na osobną kalkulację sesji studyjnych: czas studia, zakres aranżacji, realizacja, miks, mastering, poprawki, koszty wykonawców, dokumentacja, a do tego wykaz gotowych materiałów dla marki i zakres praw do każdego z nich. To wymaga rozmów z co najmniej dwoma studiami i jednym wykonawcą dokumentacji, i **do czasu ich uzyskania nie wolno tych liczb dopisywać** - 7 500 zł za sesję i 12 000 zł za dokumentację są oznaczone jako oszacowania.
+
+**Pięć pytań przed dopisaniem świadczenia weszło do `CLAUDE.md`.** Trzy sformułowałem sam - kto to wykona, z czego to zapłacimy, czyje prawa są potrzebne - a recenzent dopisał dwa, wskazując, że moje nie objęłyby wszystkich znalezionych wad: **kiedy i po czym stwierdzimy wykonanie** oraz **co otrzyma sponsor, jeżeli świadczenie nie powstanie**. Miał rację: terminu „w trakcie trwania sesji", braku minimów materiałów i policzenia tych samych 90 godzin dwa razy nie wychwytują pierwsze trzy pytania.
+
+**Dwadzieścia pięć tur recenzji na ośmiu ofertach i dwadzieścia na czterech kartach, w jednym dniu.** Wniosek jest jeden i powtarza się w obu grupach dokumentów: **naprawa jest wiarygodna dopiero po sprawdzeniu jej skutków, a sprawdzenie musi objąć całość, nie zmienione miejsce.** Przy kartach kosztowało to po kilka tur na każdą, przy ofercie piosenki trzy. Pięć pytań z `CLAUDE.md` i dwa pytania z drabiny kart są zapisem tego, co z tych tur zostało.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

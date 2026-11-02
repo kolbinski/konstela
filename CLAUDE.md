@@ -36,6 +36,18 @@ Pliki `*-prompt-recenzji.md` oraz wszystkie inne teksty przeznaczone do skopiowa
 
 Uzasadnienie doboru persony, tego, czego prompt celowo nie robi, i tego, co zmieniło się od poprzedniej tury, należy do **opisu commitu**, nie do pliku. Zasada ustalona 1.11.2026; wtedy też usunięto komentarze z dwudziestu czterech istniejących plików.
 
+## Obietnice w ofertach: pięć pytań przed dopisaniem świadczenia
+
+Każde nowe świadczenie w ofercie partnerskiej sprawdza się pięcioma pytaniami, zanim trafi do dokumentu. Zasada ustalona 2.11.2026 po trzech turach recenzji oferty piosenki, w których **każda naprawa wprowadzała własne wady**: pakiet dopisany po pierwszej turze dał sześć nowych zarzutów, a rozliczenie dopisane po drugiej - trzy kolejne.
+
+1. **Kto to wykona.** Dokumentacja zdjęciowa i filmowa dziesięciu sesji była obiecana, choć nie miał jej kto zrobić: nie wchodziła w stawkę studia ani w godziny organizatora.
+2. **Z czego to zapłacimy.** Jeżeli nie ma pozycji w kosztorysie, świadczenie albo nie powstanie, albo zje pieniądze przeznaczone na coś innego.
+3. **Czyje prawa są do tego potrzebne.** Film z sesji zawiera słyszalny utwór, jego wykonanie i nagranie; zgoda na publikację wizerunku tego nie obejmuje, a oferta obiecywała płatną promocję.
+4. **Kiedy i po czym stwierdzimy wykonanie.** „W trakcie trwania sesji" nie jest terminem, jeżeli sesje mogą być równoległe. Świadczenie bez daty i bez miary - liczby zdjęć, długości materiału, liczby publikacji - nie daje się odebrać ani zakwestionować.
+5. **Co otrzyma sponsor, jeżeli świadczenie nie powstanie.** Umowna wartość liczona od kosztu wykonania, nie od ułamka ceny roli. **Godzin przypisanych innym zadaniom nie wolno policzyć jako wartości pakietu** - te same 90 godzin były raz pracą nad naborem, a raz wartością czternastu publikacji.
+
+Pytania 4 i 5 dopisał recenzent, wskazując, że pierwsze trzy nie objęłyby wszystkich znalezionych wad, bo problemów terminów, odbioru i wartości zwrotu nie wychwytują.
+
 ## Stan recenzji ofert
 
 Plik `recenzje-status.md` jest jedynym miejscem, w którym stoi odpowiedź na pytanie, które oferty przeszły recenzję i z jakim statusem. **Aktualizuje się go po każdej turze recenzji, w tym samym commicie co poprawki w ofercie** - nie później i nie osobno. Zasada ustalona 2.11.2026, kiedy okazało się, że ta odpowiedź wymagała przeszukania folderu recenzji, promptów i trzech sekcji planu działań.
