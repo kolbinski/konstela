@@ -20,7 +20,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
 - zgłaszasz **link do filmu publicznie dostępnego na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, też publicznie dostępnego
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
-- jury wybiera **finalistów - nie więcej niż dziesięciu i nie więcej niż połowę zgłoszeń**, bo przy małym naborze wskazanie dziesiątki nie byłoby wyborem
+- jury wybiera **finalistów, a ilu ich jest, wynika z rachunku**: połowa zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech - bo przy małym naborze wskazanie dziesiątki nie byłoby wyborem
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
@@ -144,7 +144,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera finalistów.</strong> Jest ich nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń spełniających wymogi formalne; liczbę ogłaszamy razem z liczbą tych zgłoszeń, przed przekazaniem filmów jury. Akademia przekazuje jury nie więcej niż dwadzieścia filmów. Składa się z profesjonalistów w branży filmowej. Skład ogłaszamy przed naborem, a członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
+<p><strong>Jury wybiera finalistów.</strong> Ilu ich jest, nie wybieramy: jest to połowa liczby zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech. Dwanaście zgłoszeń daje sześciu finalistów, dwadzieścia - dziesięciu. Ogłaszamy wynik tego rachunku razem z liczbą zgłoszeń, przed przekazaniem filmów jury, żeby każdy mógł go sprawdzić. Akademia przekazuje jury nie więcej niż dwadzieścia filmów. Składa się z profesjonalistów w branży filmowej. Skład ogłaszamy przed naborem, a członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
 </article>
 </div>
 

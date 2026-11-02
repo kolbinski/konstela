@@ -9,7 +9,7 @@
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury otrzymuje od akademii listę najwyżej ocenionych filmów, **wybiera z niej finalistów - nie więcej niż dziesięciu i nie więcej niż połowę zgłoszeń - i ustala kolejność całej ich grupy**;
+- jury otrzymuje od akademii listę najwyżej ocenionych filmów, **wybiera z niej finalistów i ustala kolejność całej ich grupy**; ilu ich jest, wynika z rachunku - połowa zgłoszeń formalnie poprawnych, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę filmów i ich łączny metraż, termin udostępnienia materiałów i czas na ocenę, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
@@ -52,7 +52,7 @@ Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostal
 
 ### Co ocenia jury
 
-**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia) – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera finalistów i ustala kolejność całej ich grupy**; finalistów jest nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń spełniających wymogi formalne. **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Ostateczna liczba filmów zależy od wyników naboru.
+**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia) – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera finalistów i ustala kolejność całej ich grupy**; liczba finalistów nie jest przy tym przedmiotem niczyjego wyboru: to połowa zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech. **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Ostateczna liczba filmów zależy od wyników naboru.
 
 ### Jak jury ocenia zgłoszone filmy
 

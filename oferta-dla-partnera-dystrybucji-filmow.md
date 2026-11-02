@@ -43,7 +43,7 @@ Tytuł **Partnera dystrybucji filmów pierwszej edycji** na stronie Nagrody, na 
 
 ## <!--ikona:tarcza--><span>Czego nie obiecujemy</span>
 
-Nie obiecujemy poziomu filmów, bo nie znamy jeszcze zgłoszeń, ani kompletu zgód autorów. Nie obiecujemy frekwencji. Nie obiecujemy też, że zestaw w ogóle powstanie: przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może nie rozstrzygnąć edycji. Liczba filmów w zestawie zależy przy tym od naboru - finalistów jest nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń spełniających wymogi formalne.
+Nie obiecujemy poziomu filmów, bo nie znamy jeszcze zgłoszeń, ani kompletu zgód autorów. Nie obiecujemy frekwencji. Nie obiecujemy też, że zestaw w ogóle powstanie: przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może nie rozstrzygnąć edycji. Liczba filmów w zestawie zależy przy tym od naboru i wynika z rachunku, nie z czyjegoś wyboru: finalistów jest tylu, ile wynosi połowa zgłoszeń spełniających wymogi formalne zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech. Dwanaście zgłoszeń daje zestaw sześciu filmów, dwadzieścia - dziesięciu.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli nie będzie co pokazywać</span>
 

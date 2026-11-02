@@ -877,6 +877,14 @@ Werdykt po raz pierwszy przestał być odmowny: **rola warta rozmowy przy wiaryg
 
 **Kolejność prac wskazana przez recenzenta jest odwrotna do naszej.** Najpierw rozpoznanie zainteresowania z dwoma wariantami, równolegle osoba odpowiedzialna zawodowo za stronę filmową, **dopiero potem** ustalanie puli i zakresu oferty. Drugi punkt jest tym samym otwartym pytaniem co po drugiej turze i nadal nie jest kwestią zapisu: 367,5 godziny w jednej osobie.
 
+## Czwarta tura oferty filmu: granica nie jest regułą (2.11.2026)
+
+Recenzja redakcyjna oferty filmu zamknięta po czterech turach; decyzja budżetowa wstrzymana do wyniku rozpoznania i obsadzenia odpowiedzialności filmowej. Jedna uwaga i jest to wada tego samego rodzaju, który wychodzi w tym projekcie najczęściej: **zapis, który wygląda na regułę, a jest tylko granicą**. „Nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń" przy dwudziestu zgłoszeniach pozwalało ogłosić od trzech do dziesięciu finalistów, a wybierałby Organizator - ten, kto zgłoszenia obsługuje i widzi je przed jury. Ogłoszenie liczby przed przekazaniem filmów jury ograniczało swobodę, ale jej nie usuwało.
+
+Liczba finalistów jest więc teraz **funkcją liczby zgłoszeń**: połowa zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech. Dwanaście zgłoszeń daje sześciu finalistów, dwadzieścia - dziesięciu. Organizator liczby nie ustala, lecz **ogłasza wynik rachunku razem z liczbą zgłoszeń**, i każdy może go sprawdzić.
+
+**Wniosek do następnych zapisów:** przy każdym nowym przepisie sprawdzać, czy wyznacza wynik, czy tylko jego dopuszczalny przedział. Przedział zostawiony tam, gdzie zapis miał usunąć uznaniowość, jest uznaniowością z pozorem reguły.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
