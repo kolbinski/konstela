@@ -15,6 +15,17 @@ Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobn
 | **Mecenat antologii** | 1 | członek zarządu firmy produkcyjnej, od marketingu i komunikacji | „Tak, ale odpowiedź jest **prośbą o wyjaśnienia, nie deklaracją zainteresowania finansowaniem**" | `2026-10-30-oferta-mecenatu-oczami-sponsora.md` |
 | **Film** - fundator nagród | 1 | firma medialna | **Najsurowszy ze wszystkich.** „Odpowiadam na list, ale nie kieruję tej propozycji do zatwierdzenia budżetu" - zarzut główny: nie wykazano zdolności przyciągnięcia dobrych filmów | `2026-10-31-oferta-film-oczami-firmy-medialnej.md` |
 
+## Recenzje dokumentów innych niż oferty
+
+| Dokument | Tury | Persona | Status końcowy | Recenzje |
+| --- | --- | --- | --- | --- |
+| **Regulamin rozmowy** | 1 | pełnomocnik uczestnika szukający podstaw do podważenia rozstrzygnięcia | **Największe ryzyko prawne nie tkwi w tym, jak jury wybierze zwycięzcę, lecz w tym, co stanie się z uczestnikami, jeżeli edycja nie zostanie rozstrzygnięta.** Trzy kwestie pierwszorzędne poszły do kancelarii, wszystkie trzy zmienione w regulaminie tego samego dnia | `2026-11-01-regulamin-rozmowy-oczami-pelnomocnika-uczestnika.md` |
+| **Regulamin rozmowy** - redakcja | 1 | czytelnik oceniający tekst jako dokument wiążący | **Regulamin zawierał komentarz redakcyjny i daty zmian.** Usunięte: 72 datowane fragmenty w rozmowie, po 4-5 w pozostałych trzech oraz wykazy pytań do kancelarii z trzech opublikowanych regulaminów | `2026-11-01-regulamin-rozmowy-druga-tura-komentarze-redakcyjne.md` |
+| **Regulamin rozmowy** - skala i koszt | 2 | dyrektor operacyjny prowadzący nabory i oceny w skali krajowej, rozliczający ich koszt | **Pierwszą ścianą przy dużym naborze nie jest ocenianie, lecz obsługa zgłoszeń.** Z audytu wziął się piąty warunek otwarcia naboru, przepustowość wiązana z zabezpieczonym finansowaniem i wycena dwóch brakujących pozycji; druga tura potwierdziła zamknięcie czterech kwestii dokumentowych | `2026-11-01-regulamin-rozmowy-audyt-operacyjny-skala-i-koszt.md`, `2026-11-01-kontrola-zmian-po-audycie-operacyjnym.md` |
+| **Pismo do MKiDN** | 1 | urzędnik ministerstwa, do którego trafiło pismo | Recenzja przeprowadzona, **tekst nie zarchiwizowany** - prompt jest w `mk-prompt-recenzji.md`, wnioski weszły do pisma i noty koncepcyjnej | brak pliku |
+
+**Nierecenzowane dotąd, choć na nich wszystko stoi:** Karta oceny (§ 8 regulaminu rozmowy i odpowiedniki w trzech pozostałych), statut fundacji i polityka prywatności. Karta oceny jest dokumentem, według którego pracuje jury i akademia, i jedyną rzeczą, którą próba oceniania ma sprawdzić przed naborem.
+
 ## Wzór, który powtarza się w każdej z sześciu
 
 **Żaden recenzent nie odmówił rozmowy i żaden nie zadeklarował pieniędzy.** Granica nie leży w tekście ofert, lecz w czterech rzeczach, których w dokumencie być nie może: fundacja wpisana do KRS, nazwiska w Radzie Fundacji, zakontraktowane jury i podpisana umowa z górnym limitem. Kolejne tury recenzji tej granicy nie przesuną - i to jest powód, dla którego dalsze recenzje tych sześciu ofert mają malejącą wartość.
