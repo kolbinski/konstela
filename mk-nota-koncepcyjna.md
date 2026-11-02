@@ -317,7 +317,7 @@ Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich
 | Magazyn kopii archiwalnych piosenek, pięć lat retencji | 1 500 zł |
 | **Razem, pozycje rozstrzygnięte w tej tabeli** | **162 700 - 252 700 zł** |
 
-Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora. **Arkusz budżetowy pierwszej edycji podaje dla plebiscytu na piosenkę o sztucznej inteligencji 311 769,12 zł netto w wariancie bazowym** i składa się on z: 207 700 zł kosztów twardych przy środku widełek, 56 100 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń skalowanej ich liczbą oraz 19 800 zł budowy i prowadzenia Słuchalni wraz z Archiwum piosenek - a także 26 016 zł rezerwy na nieprzewidziane. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
+Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora. **Arkusz budżetowy pierwszej edycji podaje dla plebiscytu na piosenkę o sztucznej inteligencji 325 209,12 zł netto w wariancie bazowym** i składa się on z: 207 700 zł kosztów twardych przy środku widełek, 56 100 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń skalowanej ich liczbą oraz 19 800 zł budowy i prowadzenia Słuchalni wraz z Archiwum piosenek - a także 26 016 zł rezerwy na nieprzewidziane. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
 
 Pięć uwag do tego kosztorysu, powiedzianych wprost.
 

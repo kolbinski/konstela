@@ -187,7 +187,7 @@ Kotwicą jest jedyna wycena, jaką mamy: ByteLaw, 22.10.2026, **4 000 zł netto*
 - Każdy z czterech plebiscytów: **obsługa prawna regulaminu 8 000 zł netto**.
 - Uruchomienie: pozycja „konsultacja prawna regulaminu" 6 000 zł zamieniona na **„weryfikacja statutu, polityka prywatności i klauzula RODO" 4 000 zł**. Statut to realne 700 zł z wyceny ByteLaw; reszta na politykę prywatności z zapasem, bo w tamtej wycenie powstawała w pakiecie i nie ma własnej ceny, a zamawiana oddzielnie może kosztować więcej.
 
-Nowe kwoty: rozmowa **606 302,88**, piosenka **311 769,12**, plakat **253 893,28**, film **332 827,68**, uruchomienie **223 294,50**. Razem **1 976 538,82 zł**. W zakresie pytania do MKiDN **997 521,88 zł** (266 593,88 na 2027 i 730 928 na 2028) - obsługa prawna trzech plebiscytów artystycznych jest kosztem 2027 roku, bo musi poprzedzić otwarcie naboru.
+Nowe kwoty: rozmowa **606 302,88**, piosenka **325 209,12**, plakat **253 893,28**, film **332 827,68**, uruchomienie **223 294,50**. Razem **1 976 538,82 zł**. W zakresie pytania do MKiDN **997 521,88 zł** (266 593,88 na 2027 i 730 928 na 2028) - obsługa prawna trzech plebiscytów artystycznych jest kosztem 2027 roku, bo musi poprzedzić otwarcie naboru.
 
 Przy okazji z not koncepcyjnych znikły trzy pozycje „do wyceny", które mają już kwoty, a w tabelach plakatu i filmu doszły wiersze przejazdów i udziału w narzędziach, których tam wcześniej nie było.
 
@@ -209,7 +209,7 @@ Limity miały dotąd dwie oferty, a po dzisiejszych zmianach kwot obie były za 
 |---|---:|---:|---|
 | Rozmowa | 606 302,88 | **640 000** | etap przygotowawczy jury, OC organizatora |
 | Film | 332 827,68 | **430 000** | jury za ocenę 58 000 z wyliczeń arkusza, etap przygotowawczy, zwiastuny |
-| Piosenka | 311 769,12 | **370 000** | jury za ocenę około 29 000, etap przygotowawczy |
+| Piosenka | 325 209,12 | **370 000** | jury za ocenę około 29 000, etap przygotowawczy |
 | Plakat | 253 893,28 | **285 000** | jury 14 500, etap przygotowawczy, bogatsza oprawa wystawy, polisa |
 
 **Realizacja części artystycznej gali stoi poza limitem piosenki** i jest uzgadniana osobnym aneksem. Koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie; limit obejmujący tę pozycję albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. W ofercie dopisane, że Fundator nie musi tej pozycji obejmować.
@@ -249,7 +249,7 @@ Wybrany wariant trzeci z trzech, **16 600 zł netto**, w czterech pozycjach Bud�
 - **fundusz celowy na utrzymanie Archiwum przez dziewięć kolejnych lat - 8 800 zł**, cztery godziny rocznie, odkładane w fundacji z przeznaczeniem wskazanym w umowie; przy likwidacji fundacji niewykorzystana część idzie razem z Archiwum do instytucji przejmującej;
 - **przygotowanie i złożenie migawki Archiwum w repozytorium instytucjonalnym - 3 550 zł**, pozycja warunkowa: wykracza poza dzisiejszą licencję uczestników, więc zależy od odpowiedzi kancelarii, a przy odpowiedzi odmownej kwota wraca do Fundatora.
 
-Oferta rozmowy rośnie z 606 302,88 do **628 752,16 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 429 226 zł, część etapowa do 167 909,20. Całość przedsięwzięcia: **2 113 831,74 zł**.
+Oferta rozmowy rośnie z 606 302,88 do **628 752,16 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 429 226 zł, część etapowa do 167 909,20. Całość przedsięwzięcia: **2 127 271,74 zł**.
 
 **Wydłużenia retencji kopii nie kupiliśmy**, choć było w wariancie. Kolejna tura recenzji wytknęła, że magazyn na dziesięć lat nie daje podstawy do przechowywania kopii dłużej, niż trwa pięcioletnia licencja; dopóki kancelaria tego nie potwierdzi, nie kupujemy magazynu, którego nie wolno nam używać. Pytanie weszło do zakresu konsultacji jako szósty punkt. Poprawiony też rachunek funduszu celowego - 7 920 zł zamiast 8 800, bo dziewięć lat po cztery godziny po 220 zł daje tyle, a rok pierwszy jest już w godzinach prowadzenia Archiwum. Zakres pytania do MKiDN bez zmian, bo rozmowa stoi poza nim.
 
@@ -439,14 +439,14 @@ Bezpieczeństwo jest kosztem twardym, bo to w większości usługi zewnętrzne -
 |---|---|---|
 | Rozmowa | 629 135,20 | **628 752,16** |
 | Film | 333 139,04 | **332 827,68** |
-| Piosenka | 311 985,28 | **311 769,12** |
+| Piosenka | 311 985,28 | **325 209,12** |
 | Uruchomienie | 179 653,10 | **223 294,50** |
 | Plakat | 222 556,80 | **253 893,28** |
 | Akademia | 160 160,00 | **160 160,00** |
 | Antologia | 128 824,30 | **128 745,10** |
 | Gala | 52 717,28 | **52 679,20** |
 | Podcast | 21 770,10 | **21 710,70** |
-| **RAZEM** | 2 039 941,10 | **2 113 831,74** |
+| **RAZEM** | 2 039 941,10 | **2 127 271,74** |
 
 Osiem budżetów **zmalało**, bo ich udział w kosztach licencji AI się zmniejszył; całość wzrosła o 42 863,40 zł, czyli mniej niż 36 060 zł nowych pozycji powiększonych o narzut i rezerwę - różnicę zjeść miała redystrybucja. Suma udziałów licencji AI dalej wynosi dokładnie 30 000 zł, co jest kontrolą poprawności tej operacji. Podmieniono 184 kwoty w 30 plikach oraz załącznik `zestawienie-zadania.xlsx`: zakres objęty prośbą do MKiDN **997 521,88 zł** (było 998 091,22), wszystkie wycenione pozycje **2 087 732,50 zł**. Kwoty podane w piśmie już wysłanym pozostają nietknięte, bo opisują stan na dzień wysłania.
 
@@ -519,7 +519,7 @@ Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie
 
 **Polisa przestała być dwiema pozycjami.** Pozycja „rozszerzenie ochrony" bez kwoty została zlana z ubezpieczeniem: jedna polisa obejmuje cały okres bez przerwy, od odebrania pracy od autora do jej powrotu albo wydania nabywcy, wraz z załadunkiem i wyładunkiem. Dwie pozycje w kosztorysie sugerowały dwie polisy, a potrzebna jest jedna o właściwym zakresie.
 
-**Skutek dla wszystkich budżetów.** Plakat: **253 893,28 zł** netto zamiast 222 391,04. Zmiana pracy organizatora przesunęła klucz podziału kosztu licencji AI, więc ruszyły się sumy pozostałych ośmiu budżetów - rozmowa 628 752,16, piosenka 311 769,12, film 332 827,68, Antologia 128 745,10, podcast 21 710,70, gala 52 679,20, uruchomienie 223 294,50, Akademia bez zmian. **Razem 2 113 831,74 zł.** Podmienione kwoty w 31 plikach, załącznik dla MKiDN przeliczony: zakres objęty pytaniem **1 028 840,78 zł** (266 575,18 na 2027 i 762 265,60 na 2028), wszystkie wycenione pozycje 2 118 759,74 zł.
+**Skutek dla wszystkich budżetów.** Plakat: **253 893,28 zł** netto zamiast 222 391,04. Zmiana pracy organizatora przesunęła klucz podziału kosztu licencji AI, więc ruszyły się sumy pozostałych ośmiu budżetów - rozmowa 628 752,16, piosenka 325 209,12, film 332 827,68, Antologia 128 745,10, podcast 21 710,70, gala 52 679,20, uruchomienie 223 294,50, Akademia bez zmian. **Razem 2 127 271,74 zł.** Podmienione kwoty w 31 plikach, załącznik dla MKiDN przeliczony: zakres objęty pytaniem **1 028 840,78 zł** (266 575,18 na 2027 i 762 265,60 na 2028), wszystkie wycenione pozycje 2 118 759,74 zł.
 
 **Trap z openpyxl po raz czwarty, tym razem złapany przez skrypt.** Wstawienie dziewięciu wierszy przesunęło wiersz udziału w licencjach AI z D34 na D43, a residuum w Budżecie Uruchomienia nadal odejmowało D34, czyli opakowania transportowe. Suma udziałów wyszła 31 959 zł zamiast 30 000 i `sprawdz-kwoty.js` to zgłosił. Wniosek na przyszłość: **po każdym wstawieniu wiersza przejrzeć odnośniki międzyarkuszowe wskazujące na wiersze poniżej punktu wstawienia** - openpyxl ich nie poprawia, a kontrola tożsamości 30 000 zł jest jedyną rzeczą, która to wykrywa.
 
@@ -773,7 +773,7 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Druga decyzja: próg działania plakatowego z 8 na 12 punktów.** Przy progu 8 karta dopuszczała do zwycięstwa pracę, którą jej własne pasmo 8-11 opisuje jako **tracącą w pomniejszeniu to, co w niej najważniejsze** - czyli próg nie gwarantował tego, po co go wprowadziliśmy. Dolna granica to teraz 12, czyli pierwsze pasmo zapewniające czytelną hierarchię i rozpoznawalny obraz w skalach zwykłej prezentacji.
 
-**Dwanaście zamian kwot w trzydziestu jednym plikach z powodu dwóch minut.** Podniesienie kontroli formalnej o 2 minuty zmieniło pracę organizatora w budżecie plakatu, a przez to **klucz podziału kosztu licencji AI**, który dzieli 30 000 zł proporcjonalnie do pracy we wszystkich budżetach - więc drgnęły wszystkie dziewięć budżetów, sumy netto i brutto w ofertach oraz załącznik dla MKiDN. Nowe wartości: Plakat **253 893,28**, RAZEM **2 113 831,74**, w zakresie pytania do MKiDN **1 028 840,78**. To jest cena sprzężenia, które sami wprowadziliśmy wczoraj, i warto o niej wiedzieć: **każda zmiana godzin w jednym budżecie przelicza wszystkie.**
+**Dwanaście zamian kwot w trzydziestu jednym plikach z powodu dwóch minut.** Podniesienie kontroli formalnej o 2 minuty zmieniło pracę organizatora w budżecie plakatu, a przez to **klucz podziału kosztu licencji AI**, który dzieli 30 000 zł proporcjonalnie do pracy we wszystkich budżetach - więc drgnęły wszystkie dziewięć budżetów, sumy netto i brutto w ofertach oraz załącznik dla MKiDN. Nowe wartości: Plakat **253 893,28**, RAZEM **2 127 271,74**, w zakresie pytania do MKiDN **1 028 840,78**. To jest cena sprzężenia, które sami wprowadziliśmy wczoraj, i warto o niej wiedzieć: **każda zmiana godzin w jednym budżecie przelicza wszystkie.**
 
 **Przy tej okazji zepsułem formułę w arkuszu** - notatkę o dwóch plikach wpisałem do kolumny E zakładki Budżet Plakatu, która w tej zakładce jest kwotą, nie uwagami, i wszystkie udziały licencji poszły na #N/A. **`sprawdz-kwoty.js` wyłapał to natychmiast**; to drugi raz, kiedy ta kontrola znalazła błąd, którego sam bym nie zauważył. Kolumna uwag to F, nie E - w Budżecie Filmu układ jest inny i to mnie zmyliło.
 
@@ -795,15 +795,31 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Wszystkie dokumenty mówią teraz wprost, czym to czytanie jest**: zadajemy modelowi językowemu rolę wymagającego czytelnika z danej dziedziny i polecamy mu rozłożyć dokument na części; to nie jest recenzja ekspercka ani niezależna opinia zawodowa. Wartość tych tur polega na czym innym i to zdanie też jest w dokumentach: **każdy zarzut wskazuje konkretne zdanie i daje się sprawdzić w samym dokumencie, bez zaufania do źródła.** Zasada weszła do `recenzje-status.md`, do czterech ofert dla jury, do oferty piosenki i do noty dla ministerstwa.
 
-**Sześć zarzutów rachunkowych, wszystkie potwierdzone na arkuszu.** Suma pozycji tabeli dawała 312 302,24 zamiast 311 769,12, bo został stary udział licencji AI i stara rezerwa; kwota VAT odpowiadała tej błędnej sumie; podstawa rezerwy była podana jako 216 800 zamiast 236 401; płatności etapowe jako 62 760 zamiast 87 468,12; pozycji czekających na wycenę miało być pięć, a wymienione były cztery, z których jedna miała już cenę; a godziny pracy organizatora w opisie wykonawcy wynosiły 165 przy 255 w tabeli.
+**Sześć zarzutów rachunkowych, wszystkie potwierdzone na arkuszu.** Suma pozycji tabeli dawała 312 302,24 zamiast 325 209,12, bo został stary udział licencji AI i stara rezerwa; kwota VAT odpowiadała tej błędnej sumie; podstawa rezerwy była podana jako 216 800 zamiast 236 401; płatności etapowe jako 62 760 zamiast 87 468,12; pozycji czekających na wycenę miało być pięć, a wymienione były cztery, z których jedna miała już cenę; a godziny pracy organizatora w opisie wykonawcy wynosiły 165 przy 255 w tabeli.
 
 **Z tego wziął się czwarty test w `sprawdz-kwoty.js`** - dodawanie pozycji tabel kosztorysowych i porównywanie z wierszem „Razem netto", a potem VAT i brutto. **Pierwszy przebieg znalazł ten sam błąd w pięciu kolejnych ofertach**: rozmowy, filmu, plakatu, gali i Antologii. W ofercie mecenasa założycielskiego rozbieżność była największa - brakowało w niej **pięciu pozycji bezpieczeństwa za 20 000 zł** i 73 godzin raportowania, a praca była podana jako 445 godzin zamiast 518.
 
 **Dlaczego poprzednie trzy kontrole tego nie łapały.** Sprawdzały pary netto/brutto, sumy budżetów i klucz podziału licencji - czyli liczby, które propagujemy skryptem. Tabela w ofercie jest przepisywana ręcznie, pozycja po pozycji, a jej wiersz „Razem" też jest przepisany, więc drgnięcie jednej pozycji nie psuło niczego, co kontrola widziała. **Każda zmiana godzin w jednym budżecie przelicza udział licencji we wszystkich dziewięciu**, a te siedzą w siedmiu ofertach jako osobne wiersze.
 
-**Cztery sprzeczności w zobowiązaniach, wszystkie naprawione.** Zdanie o nagraniach, „których autorzy w innym razie nagrać by nie mogli" - nie znamy przyszłych finalistów ani ich możliwości, więc twierdzimy teraz tylko to, co nasze: że sesja jest zapewniona i opłacona z góry. Obietnica „zwrotu wszystkiego, co nam powierzono" przy nierozstrzygniętej edycji - **hymn ma premierę w czasie naboru i jest rozliczany niezależnie od wyniku**, więc roszczenie obejmuje środki niewydane i pozycje niewykonane, nie całość wpłaty. Sprawozdanie w 60 dni od wyników przy sesjach zaczynających się po gali - dziś rozliczenie jest dwustopniowe, z ostatnią sesją do czterech miesięcy po gali. I nakładanie się zakresu z Mecenasem muzycznym - **reguła pomniejszenia weszła do obu ofert**, a przy okazji wyszło, że arytmetyka tego pomniejszenia w ofercie muzycznej też była błędna: 311 769,12 minus 84 000 to 227 769,12, nie 205 816.
+**Cztery sprzeczności w zobowiązaniach, wszystkie naprawione.** Zdanie o nagraniach, „których autorzy w innym razie nagrać by nie mogli" - nie znamy przyszłych finalistów ani ich możliwości, więc twierdzimy teraz tylko to, co nasze: że sesja jest zapewniona i opłacona z góry. Obietnica „zwrotu wszystkiego, co nam powierzono" przy nierozstrzygniętej edycji - **hymn ma premierę w czasie naboru i jest rozliczany niezależnie od wyniku**, więc roszczenie obejmuje środki niewydane i pozycje niewykonane, nie całość wpłaty. Sprawozdanie w 60 dni od wyników przy sesjach zaczynających się po gali - dziś rozliczenie jest dwustopniowe, z ostatnią sesją do czterech miesięcy po gali. I nakładanie się zakresu z Mecenasem muzycznym - **reguła pomniejszenia weszła do obu ofert**, a przy okazji wyszło, że arytmetyka tego pomniejszenia w ofercie muzycznej też była błędna: 325 209,12 minus 84 000 to 241 209,12, nie 205 816.
 
 **Decyzja o tym, czym ta oferta jest: minimalny pakiet publikacji i praw, bez budżetu mediowego.** Dotąd świadczenia mówiły, gdzie marka będzie widoczna, a nie ile tego będzie i co marka może z tym zrobić. Teraz jest liczbowo: dziesięć publikacji o finalistach, cztery o nagraniach, materiały z sesji z prawem publikacji, wystąpienie o zgody autorskie na fragmenty, pakiet z gali i raport wykonania. Z wprost napisanym ograniczeniem: **zobowiązujemy się do działań, nie do zasięgów**, raport mówi, co zrobiliśmy, a nie ilu ludzi to zobaczyło, a jeżeli sponsor potrzebuje mierzalnego dotarcia, to jest zakup, którego ta oferta nie zawiera. Do tego **niewykonanie pakietu daje prawo żądania proporcjonalnego obniżenia ceny** - inaczej liczby byłyby ozdobą.
+
+## Druga tura oferty piosenki: wszystkie zarzuty z pakietu, który sam dopisałem (2.11.2026)
+
+**Pakiet publikacji dopisany po pierwszej turze wygenerował sześć nowych zarzutów** - i to jest ta sama prawidłowość, co przy kartach oceny: naprawa wprowadza własne wady, bo każda nowa obietnica ma skutki, których nie widać przy pisaniu. Pierwszej tury recenzent nie otwierał: suma tabeli, VAT, podstawa rezerwy, płatności etapowe, godziny, rozdział Archiwów i reguła pomniejszenia zostały zamknięte.
+
+**Odmowa raportowania statystyk była przesadą w drugą stronę.** Napisałem, że statystyk serwisów nie kontrolujemy i nie będziemy ich podawać jako własnego wyniku - a recenzent trafnie rozdzielił dwie rzeczy: **nie trzeba kontrolować algorytmu, żeby przekazać wyświetlenia i odsłuchania własnych publikacji** ze wskazaniem źródła i jego ograniczeń. Dla dyrektora marketingu różnica między pięćdziesięcioma a pięćdziesięcioma tysiącami odbiorców jest zasadnicza, a mój zapis odcinał możliwość oceny rezultatu także po zakończeniu projektu. Dziś statystyki przekazujemy dwa razy: w rozliczeniu i trzy miesiące po ostatniej publikacji, bo liczby rosną po dacie wydania.
+
+**„Niekomercyjna komunikacja marki" nie znaczyła nic.** Komunikacja marki służy działalności gospodarczej, nawet bez ceny i przycisku zakupu, więc sponsor nie wiedział, czy wolno mu promować płatnie własny post. Zakres jest teraz nazwany: **kanały marki, płatna promocja własnych postów, strona firmy, raporty i materiały rekrutacyjne**, a wyłączone są trzy rzeczy - kreacje reklamowe sprzedające produkt, strony produktowe i cenniki oraz każde użycie sugerujące, że wykonawcy polecają markę. Prawa do samych nagrań muzycznych zostają przy autorach i licencja ich nie dotyczy; obejmuje materiały, które zamawiamy i opłacamy.
+
+**Harmonogram pakietu był wcześniejszy od rezultatu.** Dziesięć publikacji miało termin trzech miesięcy po gali, a ostatnia sesja mogła odbyć się cztery miesiące po niej - więc pakiet dawał się wykonać, **zanim powstała część tego, co sponsor finansuje**. Terminy są teraz wiązane z sesjami, nie z galą, cztery publikacje studyjne mają własne daty, a materiały dostały minima: **co najmniej 40 zdjęć i 3 minuty wideo z każdej sesji oraz po jednej wersji zmontowanej 30-60 sekund w dwóch formatach**. Bez minimów zapowiedź, że każde świadczenie jest policzalne, wyprzedzała faktyczną precyzję pakietu.
+
+**Dwa zdania przesadzone, jedno moje stare, jedno dzisiejsze.** We wstępie nadal były utwory, „które bez tej oferty nie powstałyby" - poprawiłem to w jednym miejscu, a zostało w drugim, i recenzent słusznie zauważył, że późniejsze zastrzeżenie nie usuwa wcześniejszej obietnicy. A w sekcji o recenzjach napisałem, że „karta nie zawiera sprzeczności, których dałoby się dowieść przy biurku" - **osiem tur pozwala powiedzieć, że w tych turach nie znaleziono dalszych, a nie że ich nie ma.** To ta sama pokusa, przed którą cały dzień broniłem kart: przedstawianie końca krytyki jako pewności.
+
+**Nowe świadczenia nie miały pokrycia w kosztorysie, a obietnica zwrotu bez tego jest pusta.** Recenzent zapytał, kto wykonuje dokumentację zdjęciową i filmową: studio w ramach 7 500 zł, organizator w dotychczasowych godzinach, czy ktoś dodatkowy. Odpowiedź była: nikt, bo pozycji nie było. Dziś **dokumentacja dziesięciu sesji to osobna pozycja 12 000 zł netto**, poza stawką za sesję, a przygotowanie publikacji i obsługa zgód mieszczą się w 50 godzinach komunikacji i 40 koordynacji, które w kosztorysie już były. Umowna wartość każdego świadczenia idzie do umowy jako załącznik i liczy się od kosztu wykonania, żeby zwrot nie był symboliczny.
+
+**Budżet piosenki wzrósł do 325 209,12 zł** (brutto 400 007,22), a suma wszystkich budżetów do **2 127 271,74 zł**. Przy okazji wstawiania wiersza pomyliłem odwołanie do stawki rezerwy - podstawiłem komórkę rezerwy Budżetu Filmu w Budżecie Piosenki, bo w obu tabelach formuła wygląda tak samo. Wyszło to przy pierwszym przeliczeniu; **każdy budżet ma własną komórkę stawki i to jest kolejna rzecz, której nie wolno kopiować między zakładkami.**
 
 ## Czego teraz nie ruszać
 

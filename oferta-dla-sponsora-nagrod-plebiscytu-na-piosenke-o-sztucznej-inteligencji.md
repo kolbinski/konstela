@@ -6,11 +6,11 @@
 
 **Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, nagrania studyjne dla 10 finalistów oraz hymn Nagrody z teledyskiem.**
 
-**Kosztuje to 311 769,12 zł netto** (383 476,02 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 325 209,12 zł netto** (400 007,22 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
-- **10 profesjonalnych nagrań** utworów, które bez tej oferty nie powstałyby;
+- **10 profesjonalnych nagrań** utworów dziesiątki finalistów, w studiu i na koszt, który nie obciąża autorów;
 - **hymn**, który otwiera i zamyka galę. Nagrania zostają własnością autorów, nie sponsora i nie organizatora.
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. [Fundator nagród w plebiscycie na rozmowę](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę i pracę jury tamtego plebiscytu, [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia wspólne dla wszystkich plebiscytów, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania, a sponsor gali wieczór rozstrzygnięcia. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
@@ -42,7 +42,7 @@ Karta oceny nie jest zapowiedzią. **Jest napisana, opublikowana i opisuje każd
 
 **Dlaczego mimo to o tym piszemy.** Bo wartość tych tur nie zależy od kwalifikacji źródła: każdy zarzut wskazywał konkretne zdanie karty i pokazywał, jak dwie osoby mogą je przeczytać inaczej, a to **da się sprawdzić w samym dokumencie**. Pierwszy przebieg wykazał, że trzy najwyższe pasma Muzyki opisywały trzy różne właściwości ustawione jak stopnie jednej - to jest sprawdzalne przez przeczytanie tych pasm obok siebie, niezależnie od tego, kto to napisał. Po ośmiu turach zmieniły się wagi kryteriów, pasma wszystkich czterech zostały przepisane, a z karty wypadły wszystkie miejsca, w których jeden sposób osiągnięcia jakości stał jako warunek: obowiązkowy rozwój materiału, obowiązkowy komentarz muzyczny, wymóg kondensacji w tekście i test porównania z wykonaniami, których nie ma. **Historia tych tur jest jawna** i leży w [stanie recenzji](/dokument/recenzje-status) razem z tekstami wszystkich przebiegów.
 
-**Czego to nie dowodzi.** Ani zgodności ocen, ani tego, że karta jest dobra - **krytyczne czytanie wyklucza wyłącznie sprzeczności, które widać w tekście**. To znaczy: wiemy, że karta nie zawiera sprzeczności, których dałoby się dowieść przy biurku, i nie wiemy jeszcze, czy trzy osoby zastosują ją podobnie do tych samych utworów.
+**Czego to nie dowodzi.** Ani zgodności ocen, ani tego, że karta jest dobra - **krytyczne czytanie wyklucza wyłącznie sprzeczności, które widać w tekście**. I nawet tego nie wiemy do końca: **osiem tur pozwala powiedzieć, że w tych turach nie znaleziono dalszych sprzeczności, a nie że ich nie ma**. Próba z ludzkimi oceniającymi też nie ustanowi bezbłędności karty - sprawdzi jej stosowanie na pięciu konkretnych utworach. To wszystko, co o tym dokumencie wiemy, i wolimy to powiedzieć tak, zamiast przedstawiać koniec krytyki jako pewność.
 
 **Co to sprawdzi.** Próba na pięciu zróżnicowanych demach, ocenionych niezależnie, bez wcześniejszej narady, z uzasadnieniem przy każdym kryterium. Porównujemy osobno sumy i osobno kryteria, bo zgodne sumy mogą ukrywać przeciwstawne oceny - 68 punktów od dwóch osób, z których jedna widzi wysoką Muzykę i niski Tekst, a druga odwrotnie, pokazuje zgodność, której nie ma. Granicą, którą chcemy utrzymać, jest **15 punktów na sto** między dwiema uważnymi osobami; przy większym rozrzucie wracamy do karty, nie do oceniających. Wynik próby przedstawimy przed otwarciem naboru, razem z rozrzutem i wnioskami - także jeżeli będzie niekorzystny.
 
@@ -96,7 +96,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**311 769,12 zł netto** (383 476,02 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**325 209,12 zł netto** (400 007,22 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -114,10 +114,11 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 | Narzędzia AI i licencje - udział tego budżetu                  |       3 601 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych piosenek, 5 lat retencji            |       1 500 zł |
-| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   28 368,12 zł |
-| **Razem netto**                                                | **311 769,12 zł** |
-| VAT 23%                                                        |      71 706,90 zł |
-| **Do zapłaty brutto**                                          | **383 476,02 zł** |
+| Dokumentacja sesji studyjnych: zdjęcia, wideo, montaż          |      12 000 zł |
+| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   29 808,12 zł |
+| **Razem netto**                                                | **325 209,12 zł** |
+| VAT 23%                                                        |      74 798,10 zł |
+| **Do zapłaty brutto**                                          | **400 007,22 zł** |
 
 **Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 370 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
@@ -145,7 +146,7 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 58 000 zł i jest policzony:
 - **realizacja części artystycznej gali** - do wyceny, bo zależy od miejsca gali: nagłośnienie, backline i próby znaczą co innego w sali teatralnej, a co innego w klubie;
 Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się w kwocie powyżej**: dojazd i nocleg 10 finalistów na galę - 8 000 zł. Udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 236 401 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 248 401 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
@@ -157,7 +158,7 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 Pozostałe pozycje rozliczane są po wykonaniu:
 
-- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 87 468,12 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
+- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 88 908,12 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
 - **nagrania studyjne rozliczane są po sesjach**, sesja po sesji, po fakturach studia;
 - **hymn z teledyskiem rozliczany jest po premierze.**
 
@@ -214,15 +215,18 @@ Poza tytułem:
 
 Dotąd świadczenia wyżej mówiły, **gdzie marka będzie widoczna**, a nie **ile tego będzie i co marka może z tym zrobić**. To dwie różne rzeczy i druga daje się zakontraktować, więc poniżej jest liczbowo. Zobowiązujemy się wyłącznie do tego, co kontrolujemy: **do działań, nie do zasięgów**.
 
-- **10 publikacji o finalistach** na stronie plebiscytu i w kanałach Nagrody, po jednej na finalistę, każda z oznaczeniem Fundatora, publikowane w oknie od ogłoszenia dziesiątki do trzech miesięcy po gali.
-- **4 publikacje o nagraniach studyjnych**: zapowiedź, dwa materiały z sesji i podsumowanie, każda z oznaczeniem Fundatora.
-- **Materiały z realizacji sesji**: zdjęcia i surowe nagrania wideo z dnia zdjęciowego, przekazywane Fundatorowi w ciągu 30 dni od ostatniej sesji, **z prawem publikacji we własnych kanałach marki** - bez opłat i bez terminu końcowego, w zakresie niekomercyjnej komunikacji marki.
+- **10 publikacji o finalistach** na stronie plebiscytu i w kanałach Nagrody, po jednej na finalistę, każda z oznaczeniem Fundatora, publikowane w oknie od ogłoszenia dziesiątki **do mniej niż miesiąca po ostatniej sesji studyjnej**. Termin jest wiązany z sesjami, nie z galą, bo inaczej pakiet mógłby zostać wykonany przed powstaniem rezultatu, który Fundator finansuje.
+- **4 publikacje o nagraniach studyjnych**, każda z oznaczeniem Fundatora i z terminem: **zapowiedź** w ciągu 14 dni od pierwszej sesji, **dwa materiały z sesji** w trakcie ich trwania i **podsumowanie** w ciągu 30 dni od ostatniej sesji.
+- **Materiały z realizacji sesji**, z minimum, które da się sprawdzić: **dokumentacja z każdej z dziesięciu sesji**, z każdej **nie mniej niż 40 zdjęć** w rozdzielczości nadającej się do druku i **nie mniej niż 3 minuty materiału wideo**, w tym ujęcia z pracy w studiu, a nadto **po jednej wersji zmontowanej z każdej sesji, od 30 do 60 sekund, w formacie pionowym i poziomym**. Materiał przekazywany jest Fundatorowi w ciągu 30 dni od ostatniej sesji, **z prawem publikacji we własnych kanałach marki** - bez opłat i bez terminu końcowego. **Zakres jest nazwany wprost**, bo „niekomercyjna komunikacja" niczego nie rozstrzyga: Fundator może publikować te materiały w swoich kanałach i w serwisach społecznościowych, **promować płatnie własne posty, które je zawierają**, umieszczać je na stronie firmy, w raportach, materiałach wewnętrznych i rekrutacyjnych. **Wyłączone są trzy rzeczy**: kreacje reklamowe sprzedające produkt albo usługę, strony produktowe i cenniki oraz każde użycie sugerujące, że wykonawcy polecają markę albo jej produkty. Prawa do samych **nagrań muzycznych** zostają przy autorach i tego ta licencja nie dotyczy - obejmuje materiały, które zamawiamy i opłacamy, czyli zdjęcia i wideo z sesji.
 - **Fragmenty nagrań do użycia w kampanii**: pozyskujemy dla Fundatora zgody autorów na wykorzystanie do 30 sekund z każdego nagrania. **Zgoda jest dobrowolna i autor może odmówić** - gwarantujemy wystąpienie o nią do każdego z dziesięciu i przekazanie odpowiedzi, nie jej treść. Prawa do nagrań zostają przy autorach i to się nie zmienia.
 - **Oznaczenie w teledysku hymnu**: plansza z tytułem Fundatora w czołówce albo na końcu, do uzgodnienia; **hymn wraz z teledyskiem dostajecie w pliku z prawem publikacji we własnych kanałach** na tych samych zasadach co materiały z sesji.
 - **Pakiet z gali**: zdjęcia, zapis wideo werdyktu plebiscytu piosenki i wystąpienia przedstawiciela Fundatora oraz zapis wykonań na żywo - w zakresie, na jaki zgodzą się wykonawcy, o co również występujemy.
-- **Raport wykonania** przy rozliczeniu: lista wykonanych publikacji z datami i odnośnikami, liczba przekazanych materiałów, liczba uzyskanych i odmówionych zgód autorskich. **Raport mówi, co zrobiliśmy, a nie ilu ludzi to zobaczyło** - statystyk serwisów, w których publikujemy, nie kontrolujemy i nie będziemy ich podawać jako własnego wyniku.
+- **Raport wykonania** przy rozliczeniu: lista wykonanych publikacji z datami i odnośnikami, liczba przekazanych materiałów, liczba uzyskanych i odmówionych zgód autorskich.
+- **Statystyki własnych publikacji**, jakie udostępnia nam dany serwis: wyświetlenia albo odsłony, odsłuchania, obejrzenia i kliknięcia, osobno dla każdej publikacji, **ze wskazaniem źródła i jego ograniczeń**. Przekazujemy je dwa razy: w rozliczeniu i **trzy miesiące po ostatniej publikacji**, bo liczby rosną po dacie wydania. Nie gwarantujemy żadnej ich wysokości i nie ręczymy za metodologię serwisów - podajemy to, co sami widzimy w panelach, w takiej postaci, w jakiej to widzimy.
 
 **Czego w tym pakiecie nie ma i nie będzie.** Płatnej promocji i budżetu mediowego - w kosztorysie nie ma takiej pozycji, a godziny komunikacji organizatora to praca nad treścią i dotarciem do wykonawców, **nie zakup publiczności**. Gwarancji zasięgów, liczby odsłuchań ani miejsc na listach. Wpływu na werdykt. Praw do nagrań, które zostają przy autorach. Jeżeli Fundator potrzebuje mierzalnego dotarcia, **to jest zakup, którego ta oferta nie zawiera** i który trzeba policzyć osobno - powiedzmy to przed podpisaniem, nie po pierwszym raporcie.
+
+**Co ten pakiet kosztuje i kto go wykonuje.** Żądanie recenzenta, żeby obok obietnicy obniżenia ceny stał koszt wykonania, jest zasadne, więc pozycje są w tabeli i w arkuszu. **Dokumentacja zdjęciowa i filmowa dziesięciu sesji wraz z montażem to osobna pozycja kosztorysu, 12 000 zł netto** - fotograf i operator na sesjach oraz montaż wersji gotowych do publikacji. Nie wchodzi ona w stawkę 7 500 zł za sesję, która pokrywa studio, realizację, miks i mastering. **Przygotowanie publikacji i obsługa zgód autorskich mieszczą się w 50 godzinach komunikacji i 40 godzinach koordynacji nagrań** po stronie organizatora, które w kosztorysie były już wcześniej. **Umowna wartość każdego świadczenia idzie do umowy jako załącznik**, a punktem wyjścia jest koszt jego wykonania: dokumentacja 12 000 zł, czternastu publikacji - 90 godzin pracy po 220 zł, czyli 19 800 zł. **Zwrot nie jest symboliczny**: liczy się go od tych kwot, a nie od ułamka ceny roli.
 
 **Niewykonanie pakietu jest podstawą do żądania zwrotu części ceny.** Każda z wymienionych pozycji ma liczbę albo termin, więc jej niewykonanie daje się stwierdzić. Jeżeli Organizator nie wykona którejkolwiek, Fundator może żądać **proporcjonalnego obniżenia ceny roli o wartość niewykonanego świadczenia**, ustalonej w umowie, albo jej wykonania w terminie dodatkowym. To samo zdarzenie wchodzi na listę zdarzeń pozwalających wycofać nazwę.
 
