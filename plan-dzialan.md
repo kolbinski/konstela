@@ -667,6 +667,16 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Recenzent zaznaczył, że problem pasma 12-13 przeoczył**, uznając wcześniej całe Wykonanie za sprawne. To warto zapamiętać przy liczeniu, ile tur wystarcza: zamknięcie recenzji znaczy, że recenzent nie widzi już wady, nie że wady nie ma. **Dopuszczenie do próby pozostaje utrzymane**, a granice 26/27 i 31/32 w Muzyce recenzent zostawia wspólnym przykładom poziomu jakości, nie kolejnym objaśnieniom.
 
+## Siódma tura karty piosenki: test wyłączności wrócił w mojej własnej poprawce (2.11.2026)
+
+**Godzinę po usunięciu testu hipotetycznej alternatywy z pasma 14-15 Wykonania wpisałem go do pasma 28-30 Tekstu.** Naprawiając zarzut o premiowaniu kondensacji, dopuściłem rozgadanie i zwrot obiegowy „jeżeli pełnią w konstrukcji funkcję, **której inne sformułowanie nie pełniłoby**". Przy ostrzejszym czytaniu to wymóg wykazania, że żadne inne sformułowanie nie zadziałałoby równie dobrze - czyli dokładnie ten test, który tego samego dnia usuwałem dwa razy: z Wykonania karty piosenki i z Rozpiętości karty rozmowy.
+
+**Dziś oceniający wskazuje funkcję, jaką ten właśnie wybór językowy pełni w konstrukcji**, z wprost dopisanym zdaniem, że wykazania wyłączności się nie wymaga. Recenzent nie uznał tego za powód zatrzymania próby, ale skoro wzór jest rozpoznany trzeci raz w jednym dniu, nie ma sensu oddawać tego jurorom do sprawdzenia.
+
+**Trzy poprzednie uwagi zamknięte** - ryzyko ocenia się przez rezultat, miarą Tekstu jest celność, a dodanie znaczenia nie jest warunkiem najwyższego Wykonania. **Karta jest gotowa do niezależnej próby: pięć zróżnicowanych dem, oceny niezależne, uzasadnienia przy każdym kryterium.**
+
+**Wniosek z siedmiu tur, który trzeba zapamiętać osobno.** Dwie ostatnie tury znalazły wady wprowadzone poprawkami z tur poprzednich, a jedna z nich była powrotem reguły usuniętej wcześniej tego samego dnia. **Liczba tur nie zbiega się sama** - zbiega się dopiero wtedy, gdy przestaje się dopisywać reguły. Przy kartach plakatu i filmu oznacza to jedno: po każdej zmianie przeczytać wszystkie pasma pod kątem pytania „czy to zdanie wymaga jednej metody albo wykazania czegoś niewykazywalnego", a nie tylko pasmo poprawiane.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
