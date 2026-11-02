@@ -26,7 +26,11 @@ Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobn
 
 **Nierecenzowane dotąd:** statut fundacji i polityka prywatności.
 
-**Karta oceny plebiscytu rozmowy jest po dwóch turach recenzji i po przebudowie** - wiersz w tabeli wyżej. Nierecenzowane zostają **trzy karty artystyczne**: piosenki, plakatu i filmu. Reguła punktowania wewnątrz pasma weszła do wszystkich czterech, ale pozostałych zasad dowodowych nie przenosiliśmy, bo te karty oceniają utwór, nie rozmowę, a kryteria „Siła oddziaływania” w filmie i „Działanie plakatu” z nazwy opisują skutek u odbiorcy - przy pracy plastycznej jest to uprawnione kryterium zawodowe, nie wada tego samego rodzaju. Każda z nich potrzebuje recenzji z personą ze swojej dziedziny.
+**Karta oceny plebiscytu rozmowy jest po dwóch turach recenzji i po przebudowie** - wiersz w tabeli wyżej.
+
+**Trzy karty artystyczne mają prompty od 2.11.2026** (`karta-piosenki-prompt-recenzji.md`, `karta-plakatu-prompt-recenzji.md`, `karta-filmu-prompt-recenzji.md`) i czekają na recenzję. Przed ich wysłaniem naprawiony został defekt wspólny, widoczny bez recenzenta: trzy karty powstały z jednego szablonu i miały te same cztery kształty zdań, których nie da się sprawdzić w chwili oceniania - przewidywanie, że praca „stanie się punktem odniesienia w rozmowie o tym temacie", odwołanie do odbiorcy, który „sam by tego nie znalazł", oraz dwa zdania o świecie, który nie zaistniał: że czegoś „nie dałoby się pokazać inaczej" i „nie dałoby się zastąpić inną techniką". W karcie filmu była z tego powodu **sprzeczność wprost**: kryterium Siła oddziaływania zakazywało oceniania przewidywanej aktualności filmu, a kryterium Teza w najwyższym paśmie przewidzenia odbioru wymagało. Wszystkie trzy karty mają dziś regułę wspólną: oceniający nie przewiduje skutku u odbiorcy, lecz wskazuje cechę pracy, która go wywołuje, a przewidywanie przyszłego odbioru nie podlega ocenie w żadnym kryterium. **Pasm nie przepisywaliśmy** - to należy do recenzentów z tych dziedzin, bo przy utworze skutek u odbiorcy bywa uprawnionym kryterium zawodowym, a nie wadą.
+
+**Kolejność wysyłki:** piosenka pierwsza, bo jej jury jest kompletowane teraz i będzie pracować tą kartą; potem film, bo ma do tego osobny dług - jedną recenzję oferty z najgorszym statusem; plakat ostatni, bo jego oferta jest po siedmiu turach i leży gotowa do koperty.
 
 ## Wzór, który powtarza się w każdej z sześciu
 

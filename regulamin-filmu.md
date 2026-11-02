@@ -201,7 +201,7 @@
 
 4. W razie równej liczby punktów rozstrzyga wyższa ocena w kryterium Teza, następnie w kryterium Forma, a w razie dalszej równości – głos przewodniczącego jury.
 
-4a. Przewidywana aktualność filmu za kilka lat nie podlega ocenie. Film będący zapisem jednej chwili i film pomyślany jako ponadczasowy oceniane są tą samą kartą.
+4a. Film będący zapisem jednej chwili i film pomyślany jako ponadczasowy oceniane są tą samą kartą.
 
 5. Czas trwania filmu nie podlega punktacji. Film dwudziestominutowy i dziewięćdziesięciominutowy oceniane są według tej samej karty; kryterium Forma obejmuje natomiast to, czy czas trwania jest uzasadniony konstrukcją filmu.
 
@@ -214,6 +214,8 @@
 Karta jest częścią niniejszego paragrafu. Obowiązuje akademię filmu i jury, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
 
 Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu. **Punkt w obrębie pasma wyznacza liczba miejsc, w których cecha pasma występuje**: dolny koniec oznacza wystąpienie w jednym miejscu, górny - wielokrotne i bez zastrzeżeń, środek stan pośredni. Różnicy, której nie da się w ten sposób wskazać, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
+
+**Ocena dotyczy pracy, nie jej przyszłego odbioru.** Gdziekolwiek pasmo wspomina skutek u odbiorcy - że czegoś sam by nie znalazł, że coś zapamięta, że praca stanie się punktem odniesienia albo że czegoś nie dałoby się zrobić inaczej - **oceniający nie przewiduje tego skutku, lecz wskazuje cechę pracy, która go wywołuje**, i musi umieć ją pokazać. Przewidywanie, jak praca zostanie przyjęta, ilu ludzi ją zapamięta i czy będzie aktualna za kilka lat, **nie podlega ocenie w żadnym kryterium**: w chwili oceniania praca nie jest jeszcze opublikowana, więc takiego zdania nie da się sprawdzić ani obronić przy jawnej punktacji.
 
 #### Teza – 30 punktów
 

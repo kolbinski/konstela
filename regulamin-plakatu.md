@@ -248,6 +248,8 @@ Karta jest częścią niniejszego paragrafu. Obowiązuje akademię plakatu i jur
 
 Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać element pracy uzasadniający ocenę**. **Punkt w obrębie pasma wyznacza liczba miejsc, w których cecha pasma występuje**: dolny koniec oznacza wystąpienie w jednym miejscu, górny - wielokrotne i bez zastrzeżeń, środek stan pośredni. Różnicy, której nie da się w ten sposób wskazać, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
 
+**Ocena dotyczy pracy, nie jej przyszłego odbioru.** Gdziekolwiek pasmo wspomina skutek u odbiorcy - że czegoś sam by nie znalazł, że coś zapamięta, że praca stanie się punktem odniesienia albo że czegoś nie dałoby się zrobić inaczej - **oceniający nie przewiduje tego skutku, lecz wskazuje cechę pracy, która go wywołuje**, i musi umieć ją pokazać. Przewidywanie, jak praca zostanie przyjęta, ilu ludzi ją zapamięta i czy będzie aktualna za kilka lat, **nie podlega ocenie w żadnym kryterium**: w chwili oceniania praca nie jest jeszcze opublikowana, więc takiego zdania nie da się sprawdzić ani obronić przy jawnej punktacji.
+
 #### Ujęcie tematu – 30 punktów
 
 Co praca mówi o życiu ze sztuczną inteligencją. Oceniana jest trafność i oryginalność wypowiedzi, nie sam temat ani stanowisko autora.
