@@ -24,8 +24,9 @@ To nie jest próba kalibracyjna z kosztorysu. Tamta ma 24 godziny, odbywa się p
 2. **Trzy osoby oceniające.** Nie muszą być nazwiskami i mogą zostać anonimowe w publikacji. Każda dostaje ten sam komplet: instrukcję, kartę oceny z regulaminu i arkusz do wypełnienia.
 3. **Ocena niezależna.** Każdy ocenia osobno, nie widząc ocen pozostałych, w czterech kryteriach po 0-25 punktów: rozpiętość, drążenie, weryfikacja, plon. Przy każdym kryterium pisze dwa zdania uzasadnienia.
 4. **Zestawienie.** Liczymy rozrzut: różnicę między najwyższą a najniższą oceną łączną każdej rozmowy oraz to samo w rozbiciu na kryteria. Rozrzut powyżej 15 punktów na sto traktujemy jako sygnał, że kryterium jest źle opisane, a nie że oceniający się pomylił.
-5. **Rozmowa o różnicach.** Tam, gdzie rozrzut jest duży, pytamy oceniających o uzasadnienie i sprawdzamy, czy różnica da się obronić publicznie. To jest właściwy test karty.
-6. **Publikacja jednego wpisu.** Rozmowa, trzy punktacje, komentarz. Za zgodą autora rozmowy.
+5. **Sumy i kryteria sprawdzane osobno.** Zgodne sumy mogą ukrywać przeciwstawne oceny: dwoje oceniających daje tej samej rozmowie 68 punktów, przy czym jedno z nich widzi wysokie drążenie i niski plon, a drugie odwrotnie. Suma pokazuje wtedy zgodność, której nie ma, a wniosek „karta działa" byłby fałszywy. Dlatego **mała różnica sum nie zwalnia z porównania kryteriów**, a rozmowa, w której sumy są zgodne, a oceny kryteriów rozbieżne o więcej niż 8 punktów, trafia do punktu 6 tak samo jak rozmowa z dużym rozrzutem sum. Warunek pochodzi z zamknięcia recenzji karty piosenki i obowiązuje w próbach wszystkich czterech plebiscytów.
+6. **Rozmowa o różnicach.** Tam, gdzie rozrzut jest duży, pytamy oceniających o uzasadnienie i sprawdzamy, czy różnica da się obronić publicznie. To jest właściwy test karty.
+7. **Publikacja jednego wpisu.** Rozmowa, trzy punktacje, komentarz. Za zgodą autora rozmowy.
 
 ## Czego potrzebuję od Krzyśka
 
@@ -39,7 +40,7 @@ Kalendarzowo: dwa do trzech tygodni, bo wąskim gardłem jest czas oceniających
 
 - instrukcję dla oceniających, czyli `proba-oceniania-instrukcja.md`;
 - arkusz do wypełnienia, jeden plik na osobę;
-- zestawienie wyników z rozrzutem i wnioskami dla karty oceny;
+- zestawienie wyników z rozrzutem sum **oraz osobnym rozrzutem w każdym kryterium** i wnioskami dla karty oceny;
 - projekt przykładowego wpisu w postaci archiwalnej.
 
 ## Czego próba nie rozstrzygnie
