@@ -637,6 +637,16 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Jedna rzecz zostaje otwarta i nie da się jej zamknąć opisem:** różnica między 17 a 19 punktem. Recenzent odsyła ją do wspólnie omówionych przykładów ocen, czyli do próby oceniania. Zasada sprawstwa z poprzedniej tury pozostaje zamknięta i nie była ponownie otwierana.
 
+## Czwarta tura karty rozmowy: naprawa Weryfikacji powtórzona w Rozpiętości (2.11.2026)
+
+**Ten sam błąd popełniłem dwa razy w jednym dniu, w dwóch kryteriach.** Z Weryfikacji usunąłem obowiązek źródła, bo premiował jedną technikę zamiast kontroli rzetelności - i w tej samej turze wpisałem do Rozpiętości test sprawdzalności przez obalenie, który jest dokładnie tym samym: jedną metodą podaną jako miara.
+
+**Test obalenia działa dla twierdzeń o świecie i nie jest neutralny dla pozostałych.** Połączenie matematyczne albo definicyjne może mieć jawne przesłanki i ścisłe uzasadnienie, a jego sprawdzianem jest poprawność wyprowadzenia, nie wskazanie przesłanki odbierającej podstawę. Przy połączeniu interpretacyjnym sprawdzianem jest adekwatność do materiału. Do tego **połączenie o kilku niezależnych podstawach nie upada po zakwestionowaniu jednej z nich** - czyli spełniałoby test tym trudniej, im lepiej jest ugruntowane. Karta obniżałaby oceny ze względu na rodzaj rozumowania.
+
+**Pasmo wymaga teraz metody sprawdzenia właściwej rodzajowi połączenia**, z nazwanymi trzema rodzajami: przy twierdzeniach o świecie - co odbiera połączeniu podstawę; przy wyprowadzeniu matematycznym albo definicyjnym - kroki, które da się przejść i w których da się wskazać błąd; przy interpretacji - czego w interpretowanej rzeczy trzeba, żeby się trzymała. Przy kilku niezależnych podstawach metodą jest przejście podstaw osobno. Zdanie rozstrzygające brzmi: **rodzaj rozumowania nie ogranicza wysokości oceny; ogranicza ją brak sprawdzianu, nie jego inność.**
+
+**Trzy pozostałe uwagi recenzent zamknął**: kumulatywność nie wymusza historii dialogu, Weryfikacja dopuszcza różne rodzaje uzasadnienia, odstępstwa ocenia się udziałem i wagą, a Plon obejmuje wykazaną nierozstrzygalność problemu. Punkty wewnątrz pasm zostawia próbie z porównaniem uzasadnień - **dalsze dopisywanie reguł ogólnych nie zastąpi sprawdzenia, czy trzy osoby stosują je podobnie do tych samych rozmów.**
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
