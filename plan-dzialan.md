@@ -4,7 +4,7 @@ Lista robocza, nie dokument do wysłania. Rozstrzygnięcia merytoryczne są w `k
 
 ## Dziś
 
-- [ ] **Wysłać list do Andrzeja Wodzyńskiego (Grupa Tubądzin).** List na papierze firmowym, do koperty wydruk strony [oferta dla mecenasa plebiscytu na plakat](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji), przesyłka polecona. **Rola zmieniona 30.10 z antologii na plakat**, bo firma buduje markę wzornictwem, a plebiscyt plakatu jest o obrazie robionym ręką; antologia wymieniona w liście jednym zdaniem jako alternatywa. Oferta przeszła sześć tur recenzji z perspektywy producenta wzornictwa i zamyka się kwotą **222 391,04 zł netto przy górnym limicie zobowiązania 285 000 zł netto** - kwoty podniesione po dopisaniu honorariów jury, etapu przygotowawczego, bogatszej oprawy wystawy i polisy. Sam list nie podaje żadnej kwoty, więc wymiana kosztorysu go nie dotyczy. Ma nienaruszalny rdzeń świadczeń, gwarantowaną wystawę za 8 000 zł odbywającą się także bez gali, prawo wycofania nazwy przy czterech nazwanych zdarzeniach, płatność etapami, jawność wykonawcy prac i odbiór przez Radę Fundacji. Szczegóły w `list-do-wodzynskiego-notatki.md`. **Czego zapyta po odpowiedzi:** skład jury z nazwiskami, koszt pracy jury, miejsce i plan promocji wystawy, oferty przewoźnika i ubezpieczyciela, projekt umowy i specyfikacja odbiorowa. Karta na rozmowę, nie do listu: ceramiczna tablica pamiątkowa wypalana w jego fabryce.
+- [ ] **Wysłać list do Andrzeja Wodzyńskiego (Grupa Tubądzin).** List na papierze firmowym, do koperty wydruk strony [oferta dla mecenasa plebiscytu na plakat](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji), przesyłka polecona. **Rola zmieniona 30.10 z antologii na plakat**, bo firma buduje markę wzornictwem, a plebiscyt plakatu jest o obrazie robionym ręką; antologia wymieniona w liście jednym zdaniem jako alternatywa. Oferta przeszła sześć tur recenzji z perspektywy producenta wzornictwa i zamyka się kwotą **252 594,08 zł netto przy górnym limicie zobowiązania 285 000 zł netto** - kwoty podniesione po dopisaniu honorariów jury, etapu przygotowawczego, bogatszej oprawy wystawy i polisy. Sam list nie podaje żadnej kwoty, więc wymiana kosztorysu go nie dotyczy. Ma nienaruszalny rdzeń świadczeń, gwarantowaną wystawę za 8 000 zł odbywającą się także bez gali, prawo wycofania nazwy przy czterech nazwanych zdarzeniach, płatność etapami, jawność wykonawcy prac i odbiór przez Radę Fundacji. Szczegóły w `list-do-wodzynskiego-notatki.md`. **Czego zapyta po odpowiedzi:** skład jury z nazwiskami, koszt pracy jury, miejsce i plan promocji wystawy, oferty przewoźnika i ubezpieczyciela, projekt umowy i specyfikacja odbiorowa. Karta na rozmowę, nie do listu: ceramiczna tablica pamiątkowa wypalana w jego fabryce.
 - [x] **Odpowiedzieć Universitas** na podpisany list intencyjny - wysłane 31.10.2026. Treść przygotowana w rozmowie z 30.10. Zawiera zastrzeżenie, że prawa do wydania dźwiękowego zostają przy fundacji - im wcześniej padnie, tym mniej kosztuje przy negocjacjach w 2028.
 - [ ] **Wysłać DM do Matyldy Damięckiej** w sprawie jury plebiscytu plakatu. Treść przygotowana 28.10, wysyłka obsuwa się trzeci dzień.
 - [x] **Wysłane 2.11.2026: pismo do kancelarii z jednym pytaniem o rundy uczestników.** Dopuszczalność nieodpłatnego ocenienia do czterech cudzych zgłoszeń jako warunku rozpatrzenia własnego, w konstrukcji przyrzeczenia publicznego i wobec konsumenta - dwie osie oceny, art. 919 i art. 385[1] KC. Treść w `mail-prawnik-jedno-pytanie.md`. **Co wisi na odpowiedzi:** przy przeczącej § 8 ust. 10c wypada z czterech regulaminów, sufitem przedsięwzięcia staje się opłacona przepustowość akademii (458-542 zgłoszeń), a `skalowanie-oceny.md`, `przebieg-miliona.md` i sekcja oferty Akademii o rundach wymagają przepisania. Przy twierdzącej dochodzą trzy dalsze pytania o ten mechanizm, zadane celowo dopiero po tej odpowiedzi. **Termin, który z tego wynika:** mechanizm da się ogłosić wyłącznie przed otwarciem naboru, więc odpowiedź jest potrzebna przed 1 stycznia 2027.
@@ -165,13 +165,13 @@ Do tego dwa szkice umów opisanych w ofercie: **umowa przedwstępna z zadatkiem*
 
 Ten sam test co przy ścianach i Akademii, zastosowany do pozostałych budżetów: czy rezygnacja jednego partnera zabiera coś, co obiecał ktoś inny. Oblały go trzy pozycje.
 
-**Podcast dostał własny budżet.** Koordynacja, 72 godziny, stała w Budżecie Antologii, a sam podcast był równocześnie sprzedawany w osobnej ofercie dla sponsora podcastu - czyli jeden partner finansowałby rzecz obiecaną drugiemu. Nowa zakładka Budżet Podcastu: 21 729,40 zł netto za koordynację wraz z udziałem w narzędziach; produkcja i honorarium prowadzącego nadal bez ceny. Antologia spadła o 18 921,10 zł i przestała obiecywać podcast.
+**Podcast dostał własny budżet.** Koordynacja, 72 godziny, stała w Budżecie Antologii, a sam podcast był równocześnie sprzedawany w osobnej ofercie dla sponsora podcastu - czyli jeden partner finansowałby rzecz obiecaną drugiemu. Nowa zakładka Budżet Podcastu: 21 712,90 zł netto za koordynację wraz z udziałem w narzędziach; produkcja i honorarium prowadzącego nadal bez ceny. Antologia spadła o 18 921,10 zł i przestała obiecywać podcast.
 
-**Przejazdy finalistów wyszły z gali do plebiscytów**, po 8 000 zł na plebiscyt. Powód: ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich będzie. Gala spadła z 87 808 do 52 691,52 zł, czyli o 40%, i jest dziś ofertą o wyraźnie mniejszym progu wejścia.
+**Przejazdy finalistów wyszły z gali do plebiscytów**, po 8 000 zł na plebiscyt. Powód: ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich będzie. Gala spadła z 87 808 do 52 681,44 zł, czyli o 40%, i jest dziś ofertą o wyraźnie mniejszym progu wejścia.
 
 **Roczny koszt narzędzi AI (30 000 zł) rozdzielony między osiem budżetów** proporcjonalnie do pracy organizatora w każdym z nich: rozmowa 7 226, film 5 875, plakat 4 556, piosenka 4 077, antologia 1 519, podcast 1 151, gala 719, uruchomienie 4 877 wraz z resztą z zaokrągleń. Uruchomienie spadło ze 167 530 do 139 894,70 zł - oferta założycielska staniała o 27 635,30 zł, czyli mniej więcej tyle, ile szacowałem, gdy ta pozycja była jeszcze na liście otwartych.
 
-Nowe kwoty: rozmowa **597 342,88**, piosenka **303 342,24**, plakat **213 950,72**, film **324 636**, Akademia **160 160**, antologia **128 770,40**, gala **52 691,52**, uruchomienie **139 894,70**, podcast **21 729,40**. Razem **1 942 898,82 zł**, czyli o 449,06 zł więcej niż przed zmianą - różnica bierze się stąd, że udziały w narzędziach przeszły z budżetu o rezerwie 10% do budżetów o rezerwie 12%.
+Nowe kwoty: rozmowa **597 342,88**, piosenka **303 342,24**, plakat **213 950,72**, film **324 636**, Akademia **160 160**, antologia **128 749,50**, gala **52 681,44**, uruchomienie **139 894,70**, podcast **21 712,90**. Razem **1 942 898,82 zł**, czyli o 449,06 zł więcej niż przed zmianą - różnica bierze się stąd, że udziały w narzędziach przeszły z budżetu o rezerwie 10% do budżetów o rezerwie 12%.
 
 W zakresie pytania do MKiDN: **863 787,06 zł** (233 659,06 na 2027 i 630 128 na 2028) wobec 798 800 zł wcześniej. Wzrost nie jest nowym kosztem: do zakresu weszły przejazdy finalistów trzech plebiscytów artystycznych, ich udziały w narzędziach i koordynacja podcastu - pozycje, które wcześniej stały w budżetach oznaczonych jako poza pytaniem.
 
@@ -186,7 +186,7 @@ Kotwicą jest jedyna wycena, jaką mamy: ByteLaw, 22.10.2026, **4 000 zł netto*
 - Każdy z czterech plebiscytów: **obsługa prawna regulaminu 8 000 zł netto**.
 - Uruchomienie: pozycja „konsultacja prawna regulaminu" 6 000 zł zamieniona na **„weryfikacja statutu, polityka prywatności i klauzula RODO" 4 000 zł**. Statut to realne 700 zł z wyceny ByteLaw; reszta na politykę prywatności z zapasem, bo w tamtej wycenie powstawała w pakiecie i nie ma własnej ceny, a zamawiana oddzielnie może kosztować więcej.
 
-Nowe kwoty: rozmowa **606 302,88**, piosenka **311 836,32**, plakat **222 391,04**, film **332 925,12**, uruchomienie **223 428,70**. Razem **1 976 538,82 zł**. W zakresie pytania do MKiDN **997 521,88 zł** (266 593,88 na 2027 i 730 928 na 2028) - obsługa prawna trzech plebiscytów artystycznych jest kosztem 2027 roku, bo musi poprzedzić otwarcie naboru.
+Nowe kwoty: rozmowa **606 302,88**, piosenka **311 778,08**, plakat **252 594,08**, film **332 842,24**, uruchomienie **223 312,10**. Razem **1 976 538,82 zł**. W zakresie pytania do MKiDN **997 521,88 zł** (266 593,88 na 2027 i 730 928 na 2028) - obsługa prawna trzech plebiscytów artystycznych jest kosztem 2027 roku, bo musi poprzedzić otwarcie naboru.
 
 Przy okazji z not koncepcyjnych znikły trzy pozycje „do wyceny", które mają już kwoty, a w tabelach plakatu i filmu doszły wiersze przejazdów i udziału w narzędziach, których tam wcześniej nie było.
 
@@ -207,9 +207,9 @@ Limity miały dotąd dwie oferty, a po dzisiejszych zmianach kwot obie były za 
 | Plebiscyt | Kosztorys | Limit | Co ma pokryć zapas |
 |---|---:|---:|---|
 | Rozmowa | 606 302,88 | **640 000** | etap przygotowawczy jury, OC organizatora |
-| Film | 332 925,12 | **430 000** | jury za ocenę 58 000 z wyliczeń arkusza, etap przygotowawczy, zwiastuny |
-| Piosenka | 311 836,32 | **370 000** | jury za ocenę około 29 000, etap przygotowawczy |
-| Plakat | 222 391,04 | **285 000** | jury 14 500, etap przygotowawczy, bogatsza oprawa wystawy, polisa |
+| Film | 332 842,24 | **430 000** | jury za ocenę 58 000 z wyliczeń arkusza, etap przygotowawczy, zwiastuny |
+| Piosenka | 311 778,08 | **370 000** | jury za ocenę około 29 000, etap przygotowawczy |
+| Plakat | 252 594,08 | **285 000** | jury 14 500, etap przygotowawczy, bogatsza oprawa wystawy, polisa |
 
 **Realizacja części artystycznej gali stoi poza limitem piosenki** i jest uzgadniana osobnym aneksem. Koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie; limit obejmujący tę pozycję albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. W ofercie dopisane, że Fundator nie musi tej pozycji obejmować.
 
@@ -248,7 +248,7 @@ Wybrany wariant trzeci z trzech, **16 600 zł netto**, w czterech pozycjach Bud�
 - **fundusz celowy na utrzymanie Archiwum przez dziewięć kolejnych lat - 8 800 zł**, cztery godziny rocznie, odkładane w fundacji z przeznaczeniem wskazanym w umowie; przy likwidacji fundacji niewykorzystana część idzie razem z Archiwum do instytucji przejmującej;
 - **przygotowanie i złożenie migawki Archiwum w repozytorium instytucjonalnym - 3 550 zł**, pozycja warunkowa: wykracza poza dzisiejszą licencję uczestników, więc zależy od odpowiedzi kancelarii, a przy odpowiedzi odmownej kwota wraca do Fundatora.
 
-Oferta rozmowy rośnie z 606 302,88 do **628 872,00 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 429 226 zł, część etapowa do 167 909,20. Całość przedsięwzięcia: **2 082 804,50 zł**.
+Oferta rozmowy rośnie z 606 302,88 do **628 768,96 zł**, górny limit zobowiązania z 640 000 do **660 000 zł** (811 800 brutto). Pierwsza wpłata rośnie do 429 226 zł, część etapowa do 167 909,20. Całość przedsięwzięcia: **2 112 599,30 zł**.
 
 **Wydłużenia retencji kopii nie kupiliśmy**, choć było w wariancie. Kolejna tura recenzji wytknęła, że magazyn na dziesięć lat nie daje podstawy do przechowywania kopii dłużej, niż trwa pięcioletnia licencja; dopóki kancelaria tego nie potwierdzi, nie kupujemy magazynu, którego nie wolno nam używać. Pytanie weszło do zakresu konsultacji jako szósty punkt. Poprawiony też rachunek funduszu celowego - 7 920 zł zamiast 8 800, bo dziewięć lat po cztery godziny po 220 zł daje tyle, a rok pierwszy jest już w godzinach prowadzenia Archiwum. Zakres pytania do MKiDN bez zmian, bo rozmowa stoi poza nim.
 
@@ -436,16 +436,16 @@ Bezpieczeństwo jest kosztem twardym, bo to w większości usługi zewnętrzne -
 
 | Budżet | Było | Jest |
 |---|---|---|
-| Rozmowa | 629 135,20 | **628 872,00** |
-| Film | 333 139,04 | **332 925,12** |
-| Piosenka | 311 985,28 | **311 836,32** |
-| Uruchomienie | 179 653,10 | **223 428,70** |
-| Plakat | 222 556,80 | **222 391,04** |
+| Rozmowa | 629 135,20 | **628 768,96** |
+| Film | 333 139,04 | **332 842,24** |
+| Piosenka | 311 985,28 | **311 778,08** |
+| Uruchomienie | 179 653,10 | **223 312,10** |
+| Plakat | 222 556,80 | **252 594,08** |
 | Akademia | 160 160,00 | **160 160,00** |
-| Antologia | 128 824,30 | **128 770,40** |
-| Gala | 52 717,28 | **52 691,52** |
-| Podcast | 21 770,10 | **21 729,40** |
-| **RAZEM** | 2 039 941,10 | **2 082 804,50** |
+| Antologia | 128 824,30 | **128 749,50** |
+| Gala | 52 717,28 | **52 681,44** |
+| Podcast | 21 770,10 | **21 712,90** |
+| **RAZEM** | 2 039 941,10 | **2 112 599,30** |
 
 Osiem budżetów **zmalało**, bo ich udział w kosztach licencji AI się zmniejszył; całość wzrosła o 42 863,40 zł, czyli mniej niż 36 060 zł nowych pozycji powiększonych o narzut i rezerwę - różnicę zjeść miała redystrybucja. Suma udziałów licencji AI dalej wynosi dokładnie 30 000 zł, co jest kontrolą poprawności tej operacji. Podmieniono 184 kwoty w 30 plikach oraz załącznik `zestawienie-zadania.xlsx`: zakres objęty prośbą do MKiDN **997 521,88 zł** (było 998 091,22), wszystkie wycenione pozycje **2 087 732,50 zł**. Kwoty podane w piśmie już wysłanym pozostają nietknięte, bo opisują stan na dzień wysłania.
 
@@ -453,7 +453,7 @@ Osiem budżetów **zmalało**, bo ich udział w kosztach licencji AI się zmniej
 
 ### Reguła na kwoty pochodne i kontrola, która jej pilnuje
 
-Trzeci raz w jednej dobie naprawa jednej warstwy zostawiła niespójność w warstwie pochodnej. W regulaminie były to odesłania między paragrafami, w arkuszu formuły w przesuniętych wierszach, a tu **liczby wyliczane z innych liczb**: podmieniłem 184 kwoty netto w 30 plikach i zostawiłem brutto, więc oferta dla Mecenasa Założycielskiego podawała 223 428,70 zł netto obok 220 973,31 zł brutto - brutto **mniejsze** od netto, czyli rzecz, którą sponsor zauważy w pierwszej minucie.
+Trzeci raz w jednej dobie naprawa jednej warstwy zostawiła niespójność w warstwie pochodnej. W regulaminie były to odesłania między paragrafami, w arkuszu formuły w przesuniętych wierszach, a tu **liczby wyliczane z innych liczb**: podmieniłem 184 kwoty netto w 30 plikach i zostawiłem brutto, więc oferta dla Mecenasa Założycielskiego podawała 223 312,10 zł netto obok 220 973,31 zł brutto - brutto **mniejsze** od netto, czyli rzecz, którą sponsor zauważy w pierwszej minucie.
 
 **Reguła.** Po każdej zmianie kwoty netto w kosztorysie przejść wszystkie wartości z niej pochodne: brutto, sumy roczne, udziały procentowe, kwoty w załącznikach do pism. Kwot podanych w piśmie **już wysłanym** się nie zmienia, bo opisują stan na dzień wysłania - to jedyny wyjątek.
 
@@ -503,6 +503,18 @@ Parametrów rund jest teraz nie dziewięć, a cztery razy tyle, i **żadnego nie
 **Zaokrąglanie w dół jest regułą, nie szczegółem rachunkowym.** 87 000 zł przy stawce 130 zł za odczyt daje 669,23 odczytu, a przy stawce minimalnej 105 zł - 828,57. Zaokrąglenie w górę dałoby liczbę zgłoszeń, dla której brakuje pieniędzy na ostatni odczyt, więc idzie zawsze na niekorzyść ogłaszanej przepustowości. Przy filmie oba wyniki są dokładne.
 
 **Do umowy wchodzi obowiązek, nie liczba.** Przed otwarciem naboru Organizator zatwierdza próg, pasmo i pozostałe parametry, przedstawia rachunek wszystkich czynności obowiązkowych w trybie wynikającym z tych parametrów wraz z rezerwą na odchylenia i wskazuje źródło finansowania każdej pozycji. Podawanie ostatecznej liczby zgłoszeń dziś byłoby pozorne, skoro parametry ustalamy przed naborem - to jest rozstrzygnięcie na przyszłe tury, bo wraca przy każdej rozmowie o skali.
+
+## Obieg oryginałów po recenzji: co kosztuje i czego w tym nie było
+
+**Decyzje o kwotach, podjęte 2.11.2026.** Przyjęcie, ewidencja, przekazania i zwrot oryginałów: **55 godzin** zamiast 35, czyli dolna granica widełek recenzenta - 35 godzin wystarcza na obieg z jedną lokalizacją, a tu są dwie wystawy i przekazania między nimi. Obsługa licytacji: **30 godzin** zamiast 20, też dolna granica, bo licytacja dotyczy dziś wyłącznie finalistów i wyłącznie przy galerii. Dziewięć pozycji twardych obiegu: **20 000 zł**, środek widełek, rozpisane na opakowania 2 500, mocowanie 4 000, przechowywanie 4 500, przewóz między miejscami 3 000, dojazdy opiekuna 1 200, udział własny polisy 1 500, drobne szkody 2 000, powtórna wysyłka 800 i przedłużenie ochrony 500, każda z rezultatem do odbioru. Dwie z nich są rezerwami na zdarzenie, nie wydatkami planowanymi.
+
+**Polisa przestała być dwiema pozycjami.** Pozycja „rozszerzenie ochrony" bez kwoty została zlana z ubezpieczeniem: jedna polisa obejmuje cały okres bez przerwy, od odebrania pracy od autora do jej powrotu albo wydania nabywcy, wraz z załadunkiem i wyładunkiem. Dwie pozycje w kosztorysie sugerowały dwie polisy, a potrzebna jest jedna o właściwym zakresie.
+
+**Skutek dla wszystkich budżetów.** Plakat: **252 594,08 zł** netto zamiast 222 391,04. Zmiana pracy organizatora przesunęła klucz podziału kosztu licencji AI, więc ruszyły się sumy pozostałych ośmiu budżetów - rozmowa 628 768,96, piosenka 311 778,08, film 332 842,24, antologia 128 749,50, podcast 21 712,90, gala 52 681,44, uruchomienie 223 312,10, Akademia bez zmian. **Razem 2 112 599,30 zł.** Podmienione kwoty w 31 plikach, załącznik dla MKiDN przeliczony: zakres objęty pytaniem **1 027 567,30 zł** (266 577,38 na 2027 i 760 989,92 na 2028), wszystkie wycenione pozycje 2 117 527,30 zł.
+
+**Trap z openpyxl po raz czwarty, tym razem złapany przez skrypt.** Wstawienie dziewięciu wierszy przesunęło wiersz udziału w licencjach AI z D34 na D43, a residuum w Budżecie Uruchomienia nadal odejmowało D34, czyli opakowania transportowe. Suma udziałów wyszła 31 959 zł zamiast 30 000 i `sprawdz-kwoty.js` to zgłosił. Wniosek na przyszłość: **po każdym wstawieniu wiersza przejrzeć odnośniki międzyarkuszowe wskazujące na wiersze poniżej punktu wstawienia** - openpyxl ich nie poprawia, a kontrola tożsamości 30 000 zł jest jedyną rzeczą, która to wykrywa.
+
+**Czego nie zmieniliśmy, a trzeba mieć na oku.** Górny limit zobowiązania zostaje **285 000 zł netto**, ale zapas nad kosztorysem zmalał z 62 609 zł do **32 406 zł**, czyli z 28 do 13 procent. Przy pierwszym poważnym aneksie - bogatsza oprawa wystawy albo polisa droższa od szacunku - limit trzeba będzie podnieść albo zakres zawęzić. Decyzja do podjęcia przy odpowiedzi mecenasa, nie teraz.
 
 ## Czego teraz nie ruszać
 

@@ -10,7 +10,7 @@ Po pierwsze: czy w ogóle odpowiadasz na ten list, a jeśli tak, to po ilu akapi
 
 Po drugie: co w tej ofercie jest dla Ciebie realną wartością, a co jest wartością wyłącznie dla nadawcy. Rozdziel to bezlitośnie. Przy każdej pozycji z listy świadczeń napisz, czy obroniłbyś jej przed zarządem, czy nie.
 
-Po trzecie: kwota to 128 770,40 zł netto. Czy wiesz, za co płacisz, i czy potrafisz policzyć, co firma z tego ma. Jeżeli nie potrafisz, napisz, jakiej liczby albo jakiego porównania brakuje Ci w dokumencie, żeby to policzyć.
+Po trzecie: kwota to 128 749,50 zł netto. Czy wiesz, za co płacisz, i czy potrafisz policzyć, co firma z tego ma. Jeżeli nie potrafisz, napisz, jakiej liczby albo jakiego porównania brakuje Ci w dokumencie, żeby to policzyć.
 
 Po czwarte: które pozycje kosztorysu wzbudzają Twój opór i o które dopytasz w pierwszym mailu. Podaj konkretne wiersze tabeli i powód.
 
