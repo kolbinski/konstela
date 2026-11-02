@@ -487,6 +487,20 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 5e. **Ukrycie liczników i uzasadnień.** Liczniki głosów **oraz treść uzasadnień** pozostają niedostępne publicznie do chwili publicznego ogłoszenia werdyktu na gali. Uzasadnienia, na których publikację zgodzili się ich autorzy, publikowane są dopiero po gali, razem z wynikiem głosowania. Zapis ten istnieje dlatego, że liczba i treść widocznych uzasadnień wskazywałyby popularność zgłoszenia równie dobrze jak licznik.
 
+5f1. **Jeżeli uzasadnień będzie więcej, niż zespół jest w stanie przeczytać, ocenie podlega próba losowa i Uczestnik głosujący wie o tym przed oddaniem głosu.** Liczbę uzasadnień objętą oceną Organizator ogłasza **przed otwarciem głosowania** razem z regulaminem głosowania; przy tej liczbie i niżej ocenie podlegają wszystkie uzasadnienia. Powyżej niej **nagradzane jest najlepsze uzasadnienie spośród wylosowanych, a część tekstów nie zostanie przeczytana** - zdanie to widnieje przy polu uzasadnienia, nie tylko w regulaminie, bo dotyczy decyzji osoby głosującej.
+
+5f2. **Losowanie próby: zbiór zamknięty przed ziarnem, wynik odtwarzalny.** Kolejność czynności jest następująca i nie może być inna:
+
+   a) **zamknięcie głosowania** przerywa przyjmowanie uzasadnień;
+
+   b) Organizator **publikuje skrót kryptograficzny (SHA-256) uporządkowanego zbioru wszystkich uzasadnień** wraz z ich liczbą, w ciągu 24 godzin od zamknięcia głosowania. Skrót dowodzi, że zbiór nie zmieni się po tej chwili, a nie ujawnia treści;
+
+   c) **ziarno losowania pochodzi z publicznego źródła, którego wartość powstaje po opublikowaniu skrótu** i nie zależy od Organizatora ani od osób głosujących - Organizator wskazuje to źródło i dzień przed otwarciem głosowania;
+
+   d) **losowanie przeprowadza się jawnym, opublikowanym algorytmem**, a Organizator publikuje ziarno, listę wylosowanych numerów oraz skrót z lit. b, tak aby **każdy mógł losowanie powtórzyć i sprawdzić**.
+
+   **Ziarna nie ogłasza się przed zamknięciem zbioru**, bo znając je wcześniej dałoby się dobierać moment albo liczbę głosów tak, by zwiększyć szansę trafienia do próby. Ogłoszone z góry jest źródło ziarna i algorytm, nie wartość.
+
 5f. **Ocena uzasadnień.** Każdy z trzech członków zespołu ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – w skali **od 0 do 10 punktów** za każde. Wynikiem uzasadnienia jest **suma ocen wszystkich członków zespołu**; przy równej sumie rozstrzyga uzasadnienie oddane wcześniej. Członek zespołu pozostający w konflikcie interesów wyłącza się od oceny danego uzasadnienia, a Organizator wskazuje na jego miejsce osobę zastępującą. **Wysokość nagrody i termin jej wypłaty Organizator ogłasza przed rozpoczęciem głosowania.**
 
 5g. **Uzasadnienie wadliwe.** Odmowa zgody na publikację uzasadnienia nie wpływa ani na ważność głosu, ani na ocenę uzasadnienia. Uzasadnienie **przepisane z cudzego tekstu albo z innego uzasadnienia** nie bierze udziału w ocenie, a głos pozostaje ważny. Uzasadnienie **pozorne** – niezwiązane ze zgłoszeniem, złożone ze znaków przypadkowych albo z powtórzeń – nie spełnia wymogu z przepisu o uzasadnieniu, więc głos nie zostaje oddany.

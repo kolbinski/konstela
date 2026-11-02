@@ -229,6 +229,10 @@ Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które czę
 
 ### Wybór najlepszego uzasadnienia
 
+**Jeżeli uzasadnień będzie bardzo dużo, zespół przeczyta wylosowaną próbę - i mówimy o tym, zanim zagłosujesz, a nie po.** Liczbę uzasadnień objętą oceną ogłaszamy przed otwarciem głosowania; przy tej liczbie i niżej czytane są wszystkie. Powyżej niej nagradzane jest najlepsze uzasadnienie **spośród wylosowanych**, co znaczy, że część tekstów nie zostanie przeczytana. Każde uzasadnienie ma w losowaniu **jednakową szansę** - nie zależy ona od tego, na który plakat zagłosowałeś ani kiedy.
+
+**Losowania nie da się ustawić i każdy może je powtórzić.** Najpierw zamykamy głosowanie, potem w ciągu 24 godzin publikujemy skrót kryptograficzny całego zbioru uzasadnień wraz z ich liczbą - dowód, że zbiór się już nie zmieni - i tylko wtedy pobieramy ziarno losowania z publicznego źródła, którego wartość powstaje później i nie zależy od nas. Na koniec publikujemy ziarno, algorytm i wylosowane numery. Źródło ziarna i algorytm znasz przed głosowaniem, samej wartości nie zna nikt, bo jeszcze nie istnieje.
+
 Każda z trzech osób w zespole ocenia uzasadnienie w trzech kryteriach – trafność obserwacji, konkretność i samodzielność sądu – od 0 do 10 punktów za każde; liczy się suma. Przy równej sumie wygrywa uzasadnienie oddane wcześniej.
 
 **Najlepsze uzasadnienie dostaje własną nagrodę pieniężną.** Nie jest to losowanie: wybiera je **trzyosobowy zespół powołany spoza jury**, którego skład ogłaszamy przed rozpoczęciem głosowania. Liczy się to, co uzasadnienie mówi o samym plakacie – trafność obserwacji, konkretność i samodzielność sądu. Nie oceniamy długości wypowiedzi, poprawności zapisu ani tego, czy Twój wybór zgadza się z werdyktem jury. Przy równej ocenie rozstrzyga uzasadnienie oddane wcześniej.

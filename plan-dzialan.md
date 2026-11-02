@@ -949,6 +949,18 @@ Tura, w której recenzentka nie dodała ani jednego nowego wymagania, a znalazł
 
 **Wniosek metodyczny, trzeci z tej persony i najkonkretniejszy.** Po każdej zmianie, która dotyka terminu albo zakresu, przeliczyć **pozycje zależne od tego terminu** - tu były to magazynowanie, transport i dojazdy - zamiast poprawiać tylko to zdanie, które recenzent wskazał. Trzy z sześciu uwag tej tury to pozycje, których nie przeliczyłem po własnej zmianie z poprzedniej.
 
+## Piąta tura fundacji: zamknięte zarzuty i dwie rzeczy o uczciwości losowania (2.11.2026)
+
+Recenzentka zamknęła uwagi o płatnościach, magazynowaniu, transporcie i liście dokumentów. **Brak rekomendacji wynika od tej chwili z nieuzgodnionych honorariów jury i otwartego budżetu, a nie z wad dokumentu** - i to jest pierwszy raz w tej serii, kiedy przeszkoda leży poza tekstem.
+
+**Jawne ziarno losowania było wadą, której sam nie zobaczyłem.** Napisałem, że sposób losowania i jego ziarno ogłaszamy przed otwarciem głosowania - brzmiało jak jawność, a dawało się wykorzystać: znając ziarno, da się dobierać moment albo liczbę głosów tak, by zwiększyć szansę trafienia uzasadnienia do próby. Regulamin ma teraz kolejność odwrotną (§ 11a ust. 5f2): **zamknięcie głosowania → publikacja skrótu SHA-256 uporządkowanego zbioru uzasadnień wraz z ich liczbą w ciągu 24 godzin → ziarno z publicznego źródła, którego wartość powstaje po tej publikacji → jawny algorytm i publikacja ziarna oraz wylosowanych numerów**. Przed głosowaniem znane są źródło i algorytm, nie wartość - bo ona jeszcze nie istnieje. Każdy może losowanie powtórzyć.
+
+**Decyzja programowa, którą trzeba podać przed oddaniem głosu, nie po nim.** Przy liczbie uzasadnień powyżej objętej budżetem nagradzane jest najlepsze **spośród wylosowanych**, a część tekstów nie zostanie przeczytana. Zdanie to stoi teraz w regulaminie, na stronie plebiscytu i **przy samym polu uzasadnienia**, bo dotyczy decyzji osoby głosującej, a nie naszej organizacji pracy.
+
+**Pełna ekspozycja fundatora jedną liczbą.** Limit zaliczek 34 650 zł nie był limitem całości: przy niewypłaconej puli 102 000 zł powierzonych i nierozliczonych środków jest **136 650 zł**, powiększone o przekazaną część rezerwy. Oferta podaje teraz tę liczbę obok limitu zaliczek, bo to ona idzie na posiedzenie rady, i nazywa ją tym, czym jest - kwotą powierzoną, nie stratą. Koszty zaakceptowane i potencjalne roszczenia zostają osobno.
+
+**Wniosek metodyczny.** Przy każdym mechanizmie losowym, głosowaniu i progu sprawdzać, **czy jawność parametru nie jest zarazem instrukcją jego obejścia**. Jawność liczby, algorytmu i źródła pomaga; jawność wartości ziarna przed zamknięciem zbioru służy wyłącznie temu, kto chce ją wykorzystać.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
