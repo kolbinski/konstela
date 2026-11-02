@@ -8,7 +8,7 @@ Prawa do dźwięku. Tego nie przewidziałem i obietnica była wadliwa: obiecywa�
 
 Harmonogram dwóch materiałów. "W trakcie trwania sesji" nie jest terminem, jeżeli sesje mogą być równoległe. Oba materiały mają teraz termin liczony od sesji, z której pochodzą - 14 dni - a jeżeli kalendarz nie pozwoli wydać ich osobno, oba ukazują się w ciągu 14 dni od ostatniej sesji. Kalendarz ustalamy z wykonawcą dokumentacji przed pierwszą sesją, bo to on wie, ile czasu zajmuje przygotowanie materiału.
 
-Dziękuję za przeliczenie podwyżki. Potwierdzam: 12 000 zł kosztu i 1 440 zł rezerwy daje 325 209,12 zł netto oraz 400 007,22 zł brutto, a stawka za dokumentację jest oszacowaniem i będzie w ofercie tak oznaczona do czasu uzyskania wyceny wykonawcy.
+Dziękuję za przeliczenie podwyżki. Potwierdzam: 12 000 zł kosztu i 1 440 zł rezerwy daje 325 171,04 zł netto oraz 399 960,38 zł brutto, a stawka za dokumentację jest oszacowaniem i będzie w ofercie tak oznaczona do czasu uzyskania wyceny wykonawcy.
 
 Przyjmuję Pana odpowiedź jako zadanie i tak ją wykonam. Przygotuję osobną kalkulację sesji studyjnych: czas studia, zakres aranżacji, realizację, miks, mastering, poprawki, koszty wykonawców i dokumentację, wraz z wykazem gotowych materiałów dla marki i zakresem praw do każdego z nich. Przy przedstawieniu rozdzielę, które liczby są ofertami wykonawców na piśmie, a które moim oszacowaniem - bo po trzech turach tej recenzji wiem, że to rozróżnienie jest u Pana warunkiem, nie uprzejmością.
 

@@ -12,7 +12,7 @@ Minima materiałów. Słusznie Pan zauważył, że zapowiedź policzalności wyp
 
 Pokrycie w kosztorysie. Pana pytanie, kto wykonuje dokumentację - studio w ramach 7 500 zł, organizator w dotychczasowych godzinach, czy ktoś dodatkowy - miało odpowiedź: nikt, bo pozycji nie było. Dopisałem ją: dokumentacja zdjęciowa i filmowa dziesięciu sesji wraz z montażem to 12 000 zł netto, czyli około 1 000 zł na sesję plus 2 000 zł na montaż. Nie wchodzi w stawkę za sesję, która pokrywa studio, realizację, miks i mastering. Przygotowanie publikacji i obsługa zgód autorskich mieszczą się w 50 godzinach komunikacji i 40 godzinach koordynacji nagrań, które w kosztorysie były już wcześniej.
 
-To podnosi kwotę roli do 325 209,12 zł netto, czyli 400 007,22 zł brutto. Podaję to wprost, bo nowe świadczenia nie mogą być darmowe - w przeciwnym razie albo nie zostałyby wykonane, albo zostałyby wykonane z czegoś, co jest przeznaczone na coś innego.
+To podnosi kwotę roli do 325 171,04 zł netto, czyli 399 960,38 zł brutto. Podaję to wprost, bo nowe świadczenia nie mogą być darmowe - w przeciwnym razie albo nie zostałyby wykonane, albo zostałyby wykonane z czegoś, co jest przeznaczone na coś innego.
 
 Umowna wartość świadczeń. Idzie do umowy jako załącznik, a punktem wyjścia jest koszt wykonania: dokumentacja 12 000 zł, czternaście publikacji - 90 godzin pracy po 220 zł, czyli 19 800 zł. Zwrot przy niewykonaniu liczy się od tych kwot, nie od ułamka ceny roli.
 

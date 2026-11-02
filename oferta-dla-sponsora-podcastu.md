@@ -4,7 +4,7 @@
 
 ## <!--ikona:fala--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy sponsora podcastu towarzyszącego Nagrodzie: 24 odcinków w dwóch cyklach, wraz z honorarium prowadzącego.** Podcast ma od 31 października 2026 **własny budżet** - [Budżet Podcastu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-podcastu) - wydzielony z Budżetu Antologii, żeby ta sama rzecz nie była jednocześnie finansowana przez jednego partnera i sprzedawana drugiemu. Wyceniona jest w nim koordynacja: 21 710,70 zł netto za pozyskiwanie gości, terminy i publikację dwudziestu czterech odcinków wraz z udziałem w kosztach narzędzi. **Produkcja i honorarium prowadzącego czekają na wycenę** - nagranie, montaż, dźwięk, wersja wideo i dystrybucja - i nie wpisujemy w nie kwoty, której nie znamy.
+**Szukamy sponsora podcastu towarzyszącego Nagrodzie: 24 odcinków w dwóch cyklach, wraz z honorarium prowadzącego.** Podcast ma od 31 października 2026 **własny budżet** - [Budżet Podcastu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-podcastu) - wydzielony z Budżetu Antologii, żeby ta sama rzecz nie była jednocześnie finansowana przez jednego partnera i sprzedawana drugiemu. Wyceniona jest w nim koordynacja: 21 699,70 zł netto za pozyskiwanie gości, terminy i publikację dwudziestu czterech odcinków wraz z udziałem w kosztach narzędzi. **Produkcja i honorarium prowadzącego czekają na wycenę** - nagranie, montaż, dźwięk, wersja wideo i dystrybucja - i nie wpisujemy w nie kwoty, której nie znamy.
 
 Koordynacja po stronie organizatora jest natomiast policzona: goście, terminy i publikacja to 72 godziny pracy, 15 840 zł netto, i są one w kosztorysie [Mecenasa Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela), nie w tej ofercie.
 
@@ -73,14 +73,14 @@ Cały kosztorys pierwszej edycji jest jawny: [arkusz budżetowy](https://konstel
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 628 752,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 827,68 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 325 209,12 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 628 684,96 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 773,92 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 325 171,04 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 270 286,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 745,10 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 679,20 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 223 294,50 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 731,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 673,60 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 223 219,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
