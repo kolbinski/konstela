@@ -787,7 +787,7 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Druga sprzeczność była między dwoma miejscami, które napisałem w tej samej godzinie.** Wymóg zgłoszenia mówił, że bez zbliżenia najwyższe pasma Wykonania są nieosiągalne, a reguła dowodowa - że pasmo zamyka się dopiero wtedy, gdy cechy nie ujawnia **żaden** z dwóch plików. Pierwsze karało za brak dokumentacji, drugie za brak dowodu. Praca, w której znaczeniotwórcze zestawienie barw widać już na zdjęciu całości, traciłaby pasma za niedostarczenie pliku, mimo widocznego spełnienia warunku artystycznego. Dziś **zbliżenie jest materiałem służącym wykazaniu warunku, nie warunkiem dostępu do pasma** - przy środku widocznym w reprodukcji całości najwyższe pasma pozostają osiągalne.
 
-**Wszystkie cztery karty są dopuszczone do próby albo kalibracji**, w sumie po dziewiętnastu turach recenzji: rozmowa 5, piosenka 8, film 3, plakat 3. Dalej nie idzie już redakcja, tylko oceny konkretnych zgłoszeń.
+**Wszystkie cztery karty mają zamkniętą recenzję redakcyjną**, w sumie po dwudziestu turach: rozmowa 5, piosenka 8, film 3, plakat 4. Dalej nie idzie już redakcja, tylko oceny konkretnych zgłoszeń. Żaden z recenzentów nie potwierdził przy tym zgodności ocen do 15 punktów - wszyscy czterej zostawili ją jako **hipotezę do sprawdzenia próbą**, i tak należy ją przedstawiać partnerom.
 
 ## Czego teraz nie ruszać
 
