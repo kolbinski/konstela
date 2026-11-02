@@ -128,7 +128,7 @@ Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI –
 </article>
 <article>
 <h3>Działanie plakatu – od 0 do 20 punktów</h3>
-<p>Czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym.</p>
+<p>Czy wypowiedź pracy jest nośna z odległości i w pomniejszeniu – sprawdzamy to na pomniejszeniu Twojej reprodukcji do 18 milimetrów dłuższego boku, czyli do skali miniatury w Galerii i znaczka na okładce. <strong>To jedyne kryterium z progiem</strong>: praca, która go nie osiągnie, nie wchodzi do dziesiątki finalistów, bo to plebiscyt na plakat. Próg ogłaszamy w dniu otwarcia naboru i nie będzie niższy niż 8 na 20 punktów.</p>
 </article>
 </div>
 

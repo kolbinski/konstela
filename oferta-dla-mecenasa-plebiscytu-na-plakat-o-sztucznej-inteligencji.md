@@ -31,7 +31,7 @@ Ocena przebiega według **czterech kryteriów, razem 100 punktów**:
 - **Ujęcie tematu, 0-30 punktów** - co autor mówi o życiu z AI: trafność, oryginalność i głębia wypowiedzi.
 - **Pomysł plastyczny, 0-30 punktów** - jak to pokazuje: przełożenie myśli na obraz, metaforę i relacje między elementami.
 - **Wykonanie, 0-20 punktów** - świadome użycie techniki, koloru i rysunku.
-- **Działanie plakatu, 0-20 punktów** - czy działa z odległości i w pomniejszeniu, czyli czy jest plakatem, a nie obrazem sztalugowym.
+- **Działanie plakatu, 0-20 punktów** - czy wypowiedź pracy jest nośna z odległości i w pomniejszeniu, sprawdzane na pomniejszeniu reprodukcji do 18 milimetrów dłuższego boku. Jedyne kryterium z progiem: praca, która go nie osiągnie, nie wchodzi do dziesiątki finalistów, bo to plebiscyt na plakat.
 
 [Karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. Pierwszą rundę prowadzi **akademia plakatu** - grono praktyków plakatu, ilustracji i projektowania graficznego - a **jury** wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki. Pełne zasady opisuje [strona plebiscytu](/plebiscyt-plakatu) i [regulamin](/dokument/regulamin-plakatu).
 
