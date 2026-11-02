@@ -821,6 +821,20 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Budżet piosenki wzrósł do 325 209,12 zł** (brutto 400 007,22), a suma wszystkich budżetów do **2 127 271,74 zł**. Przy okazji wstawiania wiersza pomyliłem odwołanie do stawki rezerwy - podstawiłem komórkę rezerwy Budżetu Filmu w Budżecie Piosenki, bo w obu tabelach formuła wygląda tak samo. Wyszło to przy pierwszym przeliczeniu; **każdy budżet ma własną komórkę stawki i to jest kolejna rzecz, której nie wolno kopiować między zakładkami.**
 
+## Trzecia tura oferty piosenki: te same godziny policzone dwa razy (2.11.2026)
+
+**Przypisałem te same 90 godzin dwóm rzeczom naraz.** Najpierw napisałem, że przygotowanie publikacji i obsługa zgód mieszczą się w 50 godzinach komunikacji i 40 koordynacji - czyli w godzinach, które już były w kosztorysie i miały inne zadania. Potem **całą ich wartość, 19 800 zł, podałem jako umowną wartość czternastu publikacji**. Gdyby publikacje nie powstały, sponsor miałby prawo do zwrotu obejmującego także dotarcie do wykonawców i umówienie studia, czyli pracę wykonaną.
+
+**Podział, który to naprawia, nie podnosi budżetu.** Z 50 godzin komunikacji na pakiet idzie **28 godzin** - czternaście publikacji po dwie, licząc napisanie, materiały i wydanie - a pozostałe 22 to dotarcie do wykonawców i komunikacja etapów naboru. Z 40 godzin koordynacji na pakiet idzie **10 godzin** na wystąpienie o zgody i przekazanie materiałów, a 30 zostaje na umówienie studia z dziesięciorgiem autorów i obsługę sesji. **Umowna wartość pakietu to 20 360 zł**, nie 19 800: 8 360 zł pracy plus 12 000 zł dokumentacji, z rozkładem na pozycje - publikacja 440 zł, dokumentacja jednej sesji 1 200 zł, obsługa zgód 2 200 zł. Godziny są te same; zmienia się to, czego wartością są w umowie.
+
+**Drugi zarzut dotyczył prawa, o którym nie pomyślałem.** Film z sesji zawiera **słyszalny utwór, jego wykonanie i nagranie**, a zgoda na publikację wizerunku i wypowiedzi tego nie rozstrzyga - więc obiecywałem sponsorowi materiały z prawem do płatnej promocji, nie mając prawa do dźwięku w nich. Dziś **wystąpienie o zgodę na dźwięk jest częścią umówienia sesji**, przed jej terminem, i obejmuje ten sam zakres, który dostaje Fundator. Przy odmowie dostarczamy materiał w wersji, która tej zgody nie wymaga - bez dźwięku albo bez fragmentu muzycznego - i nazywamy to w raporcie. Zgody na fragmenty gotowych nagrań zostają osobną, dobrowolną sprawą.
+
+**Trzeci: termin „w trakcie trwania sesji" nie jest terminem.** Przy sesjach równoległych albo w kilkudniowym odstępie nie ma między czym publikować. Dwa materiały mają teraz termin liczony **od sesji, z której pochodzą** - 14 dni - a jeżeli kalendarz nie pozwoli wydać ich osobno, oba ukazują się w 14 dni od ostatniej sesji; kalendarz ustalamy z wykonawcą dokumentacji przed pierwszą z nich.
+
+**Recenzent przeliczył podwyżkę i potwierdził ją samodzielnie**: 12 000 zł kosztu plus 1 440 zł rezerwy daje 325 209,12 zł netto i 400 007,22 zł brutto. Zamknął też podstawy utraty zaufania - **zostaje ocena konkretnego zakupu, nie wiarygodności dokumentu**. Odpowiedź adresata, jaką podał, jest konkretnym zadaniem: przesłać osobną kalkulację sesji po uzyskaniu wycen, wraz z gotowymi materiałami dla marki i zakresem praw.
+
+**Wniosek z trzech tur tej oferty.** Pierwsza tura znalazła sześć błędów rachunkowych i jedno nadużycie co do recenzji. Druga - sześć wad w pakiecie dopisanym po pierwszej. Trzecia - trzy wady w rozliczeniu dopisanym po drugiej. **Każda naprawa była wiarygodna dopiero po sprawdzeniu jej skutków**, a sprawdzał je recenzent, nie ja. Przy ofertach obowiązuje więc to samo, co przy kartach: po każdej zmianie przeczytać całość, nie tylko zmienione miejsce - a przy obietnicach zapytać osobno o trzy rzeczy, **kto to wykona, z czego to zapłacimy i czyje prawa są do tego potrzebne**.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
