@@ -241,8 +241,8 @@ Co film mówi o sztucznej inteligencji i jej roli w świecie. Oceniana jest oryg
 | **6-11** | Teza jest, ale podręcznikowa – powtarza to, co w tej sprawie mówi się powszechnie, bez własnego ujęcia. |
 | **12-17** | Film nie rozwija własnego ujęcia konsekwentnie: zmiany stanowiska pozostają nieuzasadnione albo niezrozumiałe, a wniosek nie zostaje wyciągnięty. Świadome podważenie własnego założenia nie jest wadą, jeżeli film pokazuje, skąd ta zmiana. |
 | **18-23** | Teza wyraźna i konsekwentnie prowadzona do końca. Widz potrafi po seansie powiedzieć, co film twierdzi. |
-| **24-27** | Teza, która przestawia patrzenie na rzecz znaną – ujęcie, którego widz sam by nie znalazł, a po filmie uznaje za oczywiste. |
-| **28-30** | Teza na tyle własna i tak poprowadzona, że film staje się punktem odniesienia w rozmowie o tym temacie. |
+| **24-27** | Teza pokazuje rzecz znaną w relacji, której w niej nie widziano, i **doprowadza do niej krokami wskazanymi w filmie**: przestawienie patrzenia jest ugruntowane w materiale, a nie ogłoszone. Oceniający wskazuje miejsca, w których film to przestawienie buduje. |
+| **28-30** | Teza **przeformułowuje samo pytanie** w swojej sprawie, a nie tylko odpowiada na pytanie już stawiane: po filmie inaczej brzmi to, o co w tej rzeczy należy pytać. **Różnica wobec pasma niższego nie polega na sile wrażenia, lecz na tym, czy przestawienie dotyczy odpowiedzi, czy pytania** - i jest prowadzone przez cały film, nie przez jego część. |
 
 #### Forma – 30 punktów
 
@@ -255,7 +255,7 @@ Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania
 | **12-17** | Forma wspiera tezę w pojedynczych miejscach, lecz film ma dłużyzny albo fragmenty rozwiązane rutynowo. |
 | **18-23** | Forma przemyślana i konsekwentna, czas trwania uzasadniony, rytm utrzymany do końca. |
 | **24-27** | Forma niesie znaczenie sama z siebie: montaż, obraz albo dźwięk mówią coś, czego nie powiedziano słowami. |
-| **28-30** | Forma i teza są nierozdzielne – tego filmu nie dałoby się opowiedzieć inaczej bez utraty sensu. |
+| **28-30** | Forma **organizuje cały film**, a nie pojedyncze rozwiązania: decyzje montażowe, obrazowe i dźwiękowe niosą części tezy, których w filmie nikt nie wypowiada, a ich porządek buduje jej przebieg. **Różnica wobec pasma niższego nie polega na tym, czego nie dałoby się zrobić inaczej, lecz na tym, czy znaczenie niesie forma we wskazanych miejscach, czy cała konstrukcja.** |
 
 #### Rzetelność – 20 punktów
 
@@ -268,7 +268,7 @@ Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i an
 | **8-11** | Film miesza fakty z założeniami, ale błędy dotyczą spraw pobocznych i nie podważają tezy. |
 | **12-15** | Film jest rzetelny: podaje to, co wie, jako wiedzę, a to, co zakłada, jako założenie. |
 | **16-18** | Film wyraźnie oznacza granice swojej wiedzy i nie udaje pewności tam, gdzie jej nie ma. |
-| **19-20** | Film nie wprowadza w błąd w żadnym miejscu: twierdzenia faktyczne są uzasadnione, a niepewność, interpretacja i fikcja rozróżnione wszędzie tam, gdzie ma to znaczenie dla widza. |
+| **19-20** | Film **uzasadnia twierdzenia faktyczne w samym filmie** - pokazuje, skąd wie - a rozróżnienie wiedzy, niepewności, interpretacji i fikcji jest **cechą całej konstrukcji**, nie pojedynczych zastrzeżeń. **Różnica wobec pasma niższego nie polega na braku wyłomów, lecz na tym, czy rozróżnienie jest wprowadzane tam, gdzie staje się potrzebne, czy prowadzone od początku.** |
 
 #### Siła oddziaływania – 20 punktów
 
@@ -280,8 +280,8 @@ Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potraf
 | **4-7** | Zostaje ogólne wrażenie, bez konkretu – widz pamięta temat, nie film. |
 | **8-11** | Zostaje jedna rzecz: scena, zdanie albo obraz, choć reszta zaciera się szybko. |
 | **12-15** | Film zostaje w pamięci jako całość i da się o nim opowiedzieć komuś, kto go nie widział. |
-| **16-18** | Film zmienia sposób, w jaki widz patrzy na rzecz pozornie znaną, i wraca do niego po czasie. |
-| **19-20** | Film robi to na tyle mocno, że widz opowiada go dalej z własnej potrzeby. |
+| **16-18** | Film pokazuje rzecz pozornie znaną tak, że **po seansie da się nazwać, co w patrzeniu na nią się przesunęło**, a przesunięcie to film pokazuje, zamiast je zapowiadać albo objaśniać. Oceniający wskazuje miejsca, które je wytwarzają. |
+| **19-20** | To przesunięcie jest **skutkiem konstrukcji całego filmu**, a nie jednej sceny, i film **nie żąda reakcji, lecz ją wytwarza**: nie mówi widzowi, co ma czuć ani co ma zapamiętać, i obywa się bez nacisku - podkreślającej muzyki, pointy wygłoszonej wprost, powtórzenia tezy na koniec. |
 
 #### Warunek nadrzędny
 
