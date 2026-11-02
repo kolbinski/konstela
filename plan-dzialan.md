@@ -647,6 +647,16 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Trzy pozostałe uwagi recenzent zamknął**: kumulatywność nie wymusza historii dialogu, Weryfikacja dopuszcza różne rodzaje uzasadnienia, odstępstwa ocenia się udziałem i wagą, a Plon obejmuje wykazaną nierozstrzygalność problemu. Punkty wewnątrz pasm zostawia próbie z porównaniem uzasadnień - **dalsze dopisywanie reguł ogólnych nie zastąpi sprawdzenia, czy trzy osoby stosują je podobnie do tych samych rozmów.**
 
+## Obie karty zamknięte: dalej nie redakcja, lecz próba (2.11.2026)
+
+**Karta rozmowy i karta piosenki zamknięte tego samego dnia, każda po pięciu turach.** Przy rozmowie zielone światło brzmi: „można przejść do próby oceniania. Nie mam kolejnej uwagi wymagającej zmiany tekstu przed próbą". Przy piosence: „tę wersję przekazałbym już do niezależnej próby punktowania".
+
+**To jest moment, w którym kończy się to, co da się zrobić zdaniami.** Oba zamknięcia mówią to samo o tej samej rzeczy: pasma i warunki wejścia są rozstrzygnięte, a **różnicy między 17 a 19 punktem nie wyznaczy żaden opis**. Dopisywanie kolejnych reguł ogólnych od tego momentu nie podnosi zgodności, tylko wydłuża dokument - obie karty mają już po kilka reguł, które powstały z naprawiania poprzednich reguł.
+
+**Dziewięć tur recenzji na dwóch kartach dało jeden powtarzalny wniosek.** Prawie każda wada pochodziła z poprawki poprzedniej tury, a najczęstszy jej kształt to **jedna metoda podana jako miara jakości**: obowiązek źródła w Weryfikacji, test obalenia w Rozpiętości, rozwój materiału w Muzyce, nieoczywiste zestawienie w Ujęciu, test hipotetycznej alternatywy w Wykonaniu. Za każdym razem naprawa polegała na tym samym: nazwać kilka równoważnych dróg i powiedzieć, że ocenia się spełnienie warunku, nie wybór drogi. **Przy kartach plakatu i filmu tego szukać od początku, zanim pójdą do recenzenta.**
+
+**Czego próba potrzebuje, a czego nie mamy.** Dla rozmowy: pięciu rzeczywistych rozmów z opisem odkrycia i trojga oceniających. Dla piosenki: pięciu zróżnicowanych dem. Obie próby mają protokół gotowy, w obu porównujemy sumy i kryteria osobno. **To jedyna rzecz w całym projekcie, która nie zależy od pieniędzy** - a jednocześnie ta, od której recenzent fundatora uzależnił poważną rozmowę o finansowaniu.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
