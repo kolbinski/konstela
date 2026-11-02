@@ -24,7 +24,9 @@ Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobn
 | **Regulamin rozmowy** - skala i koszt | 2 | dyrektor operacyjny prowadzący nabory i oceny w skali krajowej, rozliczający ich koszt | **Pierwszą ścianą przy dużym naborze nie jest ocenianie, lecz obsługa zgłoszeń.** Z audytu wziął się piąty warunek otwarcia naboru, przepustowość wiązana z zabezpieczonym finansowaniem i wycena dwóch brakujących pozycji; druga tura potwierdziła zamknięcie czterech kwestii dokumentowych | `2026-11-01-regulamin-rozmowy-audyt-operacyjny-skala-i-koszt.md`, `2026-11-01-kontrola-zmian-po-audycie-operacyjnym.md` |
 | **Pismo do MKiDN** | 1 | urzędnik ministerstwa, do którego trafiło pismo | Recenzja przeprowadzona, **tekst nie zarchiwizowany** - prompt jest w `mk-prompt-recenzji.md`, wnioski weszły do pisma i noty koncepcyjnej | brak pliku |
 
-**Nierecenzowane dotąd, choć na nich wszystko stoi:** Karta oceny (§ 8 regulaminu rozmowy i odpowiedniki w trzech pozostałych), statut fundacji i polityka prywatności. Karta oceny jest dokumentem, według którego pracuje jury i akademia, i jedyną rzeczą, którą próba oceniania ma sprawdzić przed naborem.
+**Nierecenzowane dotąd:** statut fundacji i polityka prywatności.
+
+**Karta oceny ma prompt od 2.11.2026** (`karta-oceny-prompt-recenzji.md`) i stoi pierwsza w kolejce. Powód pierwszeństwa: jest to jedyna recenzja niezablokowana niczyją odpowiedzią, a jej wynik decyduje o tym, czy próba oceniania na pięciu rozmowach ma sens w obecnym brzmieniu karty. Z próby wychodzi jedenaście parametrów ogłaszanych w dniu otwarcia naboru, więc wada karty wykryta po próbie oznacza próbę powtórzoną.
 
 ## Wzór, który powtarza się w każdej z sześciu
 
