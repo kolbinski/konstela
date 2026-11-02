@@ -185,15 +185,26 @@
 
 ## § 7. Kryteria oceny
 
-1. Filmy ocenia się według czterech kryteriów, **łącznie do 100 punktów, w podziale wskazanym w tabeli**:
+1. Filmy ocenia się według trzech kryteriów, **łącznie do 100 punktów, w podziale wskazanym w tabeli**:
 
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
-| Teza | 30 | **Co film mówi** o sztucznej inteligencji i jej roli w świecie: oryginalność ujęcia tematu. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat – rzecz znana pokazana świeżo punktuje wysoko |
-| Forma | 30 | **Jak film to pokazuje**: jak wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza |
-| Rzetelność | 20 | Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii. W filmie fabularnym i animowanym oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny |
-| Siła oddziaływania | 20 | Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potrafi po obejrzeniu nazwać |
+| Teza | 35 | **Co film mówi** o sztucznej inteligencji i jej roli w świecie: oryginalność ujęcia tematu. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat – rzecz znana pokazana świeżo punktuje wysoko |
+| Forma | 35 | **Jak film to pokazuje**: jak wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza |
+| Siła oddziaływania | 30 | **Jak film ustanawia i prowadzi stawkę doświadczenia**: napięcie, relację z postacią, konflikt, niepokój, komizm albo inną organizację emocjonalną. Odkrywczość poznawcza oceniana jest w Tezie i tutaj punktów nie daje |
 | Razem | 100 | |
+
+1a. **Rzetelność nie jest kryterium punktowanym dodatnio, lecz podstawą potrąceń.** Za każde **wykazane uchybienie rzetelności** odejmuje się od wyniku łącznego:
+
+   a) **do 10 punktów** - gdy film podaje widzowi jako fakt o technologii twierdzenie nieprawdziwe albo nieuzasadnione, a twierdzenie to niesie którąś z myśli filmu;
+
+   b) **do 20 punktów** - gdy takie twierdzenie niesie **główny wniosek** filmu;
+
+   c) **do 10 punktów** - gdy film zaciera granicę między tym, co podaje jako wiedzę, co jako założenie, a co jako fikcję, w miejscu, w którym ma to znaczenie dla widza.
+
+   **Powodów potrącenia nie sumuje się za to samo twierdzenie**, a łączne potrącenie nie przekracza 20 punktów. Potrącenie wymaga **wskazania twierdzenia, miejsca w filmie wraz ze znacznikiem czasu i podstawy uznania go za nierzetelne**; wynik przed potrąceniem i po nim publikuje się osobno. Film, który żadnych twierdzeń faktograficznych nie podaje, **nie otrzymuje z tego powodu ani punktów, ani potrąceń**: brak okazji do błędu nie jest zasługą. **Sam zabieg fikcyjny nie jest uchybieniem**, a film fabularny i animowany odpowiadają wyłącznie za to, co podają widzowi jako informację o rzeczywistości; **dokument animowany odpowiada za swoje twierdzenia tak samo jak dokument zdjęciowy**, bo animacja jest techniką, a nie rodzajem stosunku do prawdy.
+
+1b. Potrącenia z ust. 1a nie zastępują **warunku nadrzędnego rzetelności** z końca niniejszego paragrafu: film, którego główny wniosek stoi na nieprawdzie nierozpoznanej w filmie, **nie może zostać nagrodzony niezależnie od punktacji**, a potrącenie nie jest dla tego warunku ani przesłanką, ani przeszkodą.
 
 2. Karta oceny, czyli słowny opis pasm punktowych w każdym kryterium, zamieszczona jest na końcu niniejszego paragrafu. Jest jawna od dnia ogłoszenia naboru i nie podlega zmianie po jego otwarciu.
 
@@ -231,57 +242,60 @@ Oceniający musi umieć wskazać miejsce uzasadniające pasmo **oraz powiedzieć
 
 **Ocena dotyczy pracy, nie jej przyszłego odbioru.** Gdziekolwiek pasmo wspomina skutek u odbiorcy - że czegoś sam by nie znalazł, że coś zapamięta, że praca stanie się punktem odniesienia albo że czegoś nie dałoby się zrobić inaczej - **oceniający nie przewiduje tego skutku, lecz wskazuje cechę pracy, która go wywołuje**, i musi umieć ją pokazać. Przewidywanie, jak praca zostanie przyjęta, ilu ludzi ją zapamięta i czy będzie aktualna za kilka lat, **nie podlega ocenie w żadnym kryterium**: w chwili oceniania praca nie jest jeszcze opublikowana, więc takiego zdania nie da się sprawdzić ani obronić przy jawnej punktacji.
 
-#### Teza – 30 punktów
+#### Teza – 35 punktów
 
 Co film mówi o sztucznej inteligencji i jej roli w świecie. Oceniana jest oryginalność ujęcia, nie sam temat.
 
 | Pasmo | Co to znaczy |
 |---|---|
-| **0-5** | Film nie ma tezy: jest zbiorem obrazów albo wypowiedzi bez myśli, która je spina. |
-| **6-11** | Teza jest, ale podręcznikowa – powtarza to, co w tej sprawie mówi się powszechnie, bez własnego ujęcia. |
-| **12-17** | Film nie rozwija własnego ujęcia konsekwentnie: zmiany stanowiska pozostają nieuzasadnione albo niezrozumiałe, a wniosek nie zostaje wyciągnięty. Świadome podważenie własnego założenia nie jest wadą, jeżeli film pokazuje, skąd ta zmiana. |
-| **18-23** | Teza wyraźna i konsekwentnie prowadzona do końca. Widz potrafi po seansie powiedzieć, co film twierdzi. |
-| **24-27** | Teza pokazuje rzecz znaną w relacji, której w niej nie widziano, i **doprowadza do niej krokami wskazanymi w filmie**: przestawienie patrzenia jest ugruntowane w materiale, a nie ogłoszone. Oceniający wskazuje miejsca, w których film to przestawienie buduje. |
-| **28-30** | Teza **przeformułowuje samo pytanie** w swojej sprawie, a nie tylko odpowiada na pytanie już stawiane: po filmie inaczej brzmi to, o co w tej rzeczy należy pytać. **Różnica wobec pasma niższego nie polega na sile wrażenia, lecz na tym, czy przestawienie dotyczy odpowiedzi, czy pytania** - i jest prowadzone przez cały film, nie przez jego część. |
+| **0-6** | Film nie ma tezy: jest zbiorem obrazów albo wypowiedzi bez myśli, która je spina. |
+| **7-13** | Teza jest, ale podręcznikowa – powtarza to, co w tej sprawie mówi się powszechnie, bez własnego ujęcia. **Schematyczność wykazuje się na samym filmie** - na tym, że argument albo przedstawienie przebiega utartym torem - a nie porównaniem z wcześniejszymi filmami, których znajomość u każdego oceniającego jest inna. |
+| **14-20** | Film nie rozwija własnego ujęcia konsekwentnie: zmiany stanowiska pozostają nieuzasadnione albo niezrozumiałe, a wniosek nie zostaje wyciągnięty. Świadome podważenie własnego założenia nie jest wadą, jeżeli film pokazuje, skąd ta zmiana; **niejednoznaczność też nie jest brakiem uzasadnienia**, jeżeli materiał ją przygotowuje. |
+| **21-27** | Teza wyraźna i konsekwentnie prowadzona do końca: **da się wskazać, jakie stanowisko film ustanawia i czym je prowadzi** - które sceny je zakładają, które rozwijają, które domykają. Przedmiotem oceny jest konstrukcja stanowiska, nie zdolność konkretnego widza do jego odtworzenia. |
+| **28-32** | Film ustanawia **nieoczywistą relację** między rzeczami, które w tej sprawie zestawia, i **uzasadnia ją materiałem**, zamiast ją ogłaszać. Różnicę wobec pasma niższego stanowi **odkrywczość samej relacji**, a nie to, czego widz wcześniej nie dostrzegał ani czego nie było w dotychczasowej debacie - pierwszeństwa historycznego żaden znacznik czasu nie potwierdzi i nie jest ono przedmiotem oceny. |
+| **33-35** | Najwyższa jakość tezy, osiągnięta **jedną z dwóch równoważnych dróg**: albo film **przeformułowuje samo pytanie** - wskazuje założenie, na którym stoi dotychczasowy problem, materiał, który je podważa, i problem wyłaniający się z tej konfrontacji - albo **odpowiada na pytanie już stawiane z wyjątkową odkrywczością**, drożąc relację z pasma niższego do końca. **Zmiana pytania nie jest szczeblem ponad odkrywczą odpowiedzią**; pasma różnią się stopniem, nie rodzajem operacji. Jedna z dróg jest prowadzona przez cały film, nie przez jego część. |
 
-#### Forma – 30 punktów
+#### Forma – 35 punktów
 
 Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza, w tym to, czy czas trwania jest uzasadniony konstrukcją filmu.
 
 | Pasmo | Co to znaczy |
 |---|---|
-| **0-5** | Forma przeszkadza w odbiorze: film jest nieczytelny, niesłyszalny albo rozsypuje się na niepowiązane części. |
-| **6-11** | Forma poprawna technicznie, ale obojętna wobec tezy – równie dobrze mogłaby towarzyszyć innemu tematowi. |
-| **12-17** | Forma wspiera tezę w pojedynczych miejscach, lecz film ma dłużyzny albo fragmenty rozwiązane rutynowo. |
-| **18-23** | Forma przemyślana i konsekwentna, czas trwania uzasadniony, rytm utrzymany do końca. |
-| **24-27** | Forma niesie znaczenie sama z siebie: montaż, obraz albo dźwięk mówią coś, czego nie powiedziano słowami. |
-| **28-30** | Forma **organizuje cały film**, a nie pojedyncze rozwiązania: decyzje montażowe, obrazowe i dźwiękowe niosą części tezy, których w filmie nikt nie wypowiada, a ich porządek buduje jej przebieg. **Różnica wobec pasma niższego nie polega na tym, czego nie dałoby się zrobić inaczej, lecz na tym, czy znaczenie niesie forma we wskazanych miejscach, czy cała konstrukcja.** |
+| **0-6** | Forma przeszkadza w odbiorze: film jest nieczytelny, niesłyszalny albo rozsypuje się na niepowiązane części. |
+| **7-13** | Forma poprawna technicznie, ale obojętna wobec tezy – równie dobrze mogłaby towarzyszyć innemu tematowi. |
+| **14-20** | Forma wspiera tezę w pojedynczych miejscach, lecz film ma dłużyzny albo fragmenty rozwiązane rutynowo. **Dłużyznę wykazuje się odcinkiem, którego trwanie nie rozwija relacji, napięcia, obserwacji ani doświadczenia** - własna nuda oceniającego nie wystarcza. |
+| **21-27** | Forma przemyślana i konsekwentna, czas trwania uzasadniony, rytm utrzymany do końca. **Rytm ocenia się relacjami długości ujęć, zmian intensywności, powrotów i pauz**; utrzymanie rytmu nie oznacza tempa jednostajnego, a zwolnienie albo cisza mogą być jego częścią. |
+| **28-32** | Forma niesie znaczenie sama z siebie: montaż, obraz albo dźwięk mówią coś, czego nie powiedziano słowami, we wskazanych miejscach filmu. |
+| **33-35** | Forma ustanawia **nową relację między częściami filmu**: znaczenie sceny powstaje z jej miejsca wobec innych - z tego, co ją przygotowało i co po niej następuje - a nie z niej samej. **Różnicą wobec pasma niższego nie jest większa konsekwencja tego samego rozwiązania, lecz istnienie takiej relacji**; sama powtarzalność trafnego chwytu wyznacza górny koniec pasma niższego, nie wejście do tego. |
 
-#### Rzetelność – 20 punktów
+#### Rzetelność – podstawa potrąceń, nie punktów
 
-Rzetelność tego, co film podaje widzowi jako fakt o technologii. W fabule i animacji oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od informacji podawanych jako rzeczywiste; sam zabieg fikcyjny nie obniża oceny. **Brak twierdzeń faktograficznych również nie obniża oceny**: film, który niczego nie podaje jako faktu o technologii, może otrzymać w tym kryterium ocenę najwyższą.
+Rzetelność nie daje punktów w żadnym kryterium. Za wykazane uchybienia odejmuje się punkty od wyniku łącznego na zasadach z ust. 1a, a **brak twierdzeń faktograficznych nie jest ani zasługą, ani uchybieniem**. Powodem zmiany była premia za brak zadania: przy puli dodatniej film unikający twierdzeń o technologii dostawał maksimum bez wykonania czegokolwiek, a dokument, który twierdzenia sprawdzalne podejmuje, miał dodatkowe okazje do straty punktów.
 
-| Pasmo | Co to znaczy |
-|---|---|
-| **0-3** | Film opiera się na twierdzeniach nieprawdziwych o technologii, a nieprawda niesie jego główny wniosek. |
-| **4-7** | Twierdzenia w większości nieścisłe albo przedstawione tak, że widz nie odróżni faktu od domysłu autora. |
-| **8-11** | Film miesza fakty z założeniami, ale błędy dotyczą spraw pobocznych i nie podważają tezy. |
-| **12-15** | Film jest rzetelny: podaje to, co wie, jako wiedzę, a to, co zakłada, jako założenie. |
-| **16-18** | Film wyraźnie oznacza granice swojej wiedzy i nie udaje pewności tam, gdzie jej nie ma. |
-| **19-20** | Film **uzasadnia twierdzenia faktyczne w samym filmie** - pokazuje, skąd wie - a rozróżnienie wiedzy, niepewności, interpretacji i fikcji jest **cechą całej konstrukcji**, nie pojedynczych zastrzeżeń. **Różnica wobec pasma niższego nie polega na braku wyłomów, lecz na tym, czy rozróżnienie jest wprowadzane tam, gdzie staje się potrzebne, czy prowadzone od początku.** |
+**Co jest wykazanym uchybieniem.** Twierdzenie podane widzowi **jako fakt o technologii**, które jest nieprawdziwe albo nieuzasadnione, oraz zatarcie granicy między wiedzą, założeniem i fikcją tam, gdzie ma to znaczenie dla widza. Oceniający wskazuje twierdzenie, znacznik czasu i podstawę uznania go za nierzetelne; **sama obecność źródła w filmie nie przesądza, że twierdzenie jest uzasadnione** - rozstrzyga to, czy wskazany dowód rzeczywiście je wspiera.
 
-#### Siła oddziaływania – 20 punktów
+**Czym uchybienie nie jest.** Zabiegiem fikcyjnym. Sporem interpretacyjnym, w którym stanowisko autora jest jednym z możliwych. Twierdzeniem oznaczonym w filmie jako niepewne. Hipotezą przedstawioną jako hipoteza. Twierdzeniem, którego oceniający nie potrafi potwierdzić - **brak pewności oceniającego nie jest wykazaniem fałszu**, a w kwestii specjalistycznej można zasięgnąć opinii eksperta.
 
-Czy film pozostawia wyraźną myśl, obraz albo emocję – coś, co widz potrafi po obejrzeniu nazwać. Przewidywana aktualność filmu za kilka lat nie podlega ocenie.
+---
+
+#### Siła oddziaływania – 30 punktów
+
+Jak film **ustanawia i prowadzi stawkę doświadczenia**: napięcie, relację z postacią, konflikt, niepokój, komizm albo inną organizację emocjonalną. **Odkrywczość poznawcza należy do Tezy i tutaj punktów nie daje.** Oceniane jest to, czym film stawkę buduje, a nie to, co oceniający po seansie pamięta: **stan pamięci oceniającego nie jest przedmiotem oceny w żadnym paśmie**, bo nie ma wspólnego momentu pomiaru ani zawodowej podstawy do rozstrzygnięcia, jak szybko wspomnienie powinno zanikać.
 
 | Pasmo | Co to znaczy |
 |---|---|
-| **0-3** | Po seansie nie zostaje nic, co dałoby się nazwać. |
-| **4-7** | Zostaje ogólne wrażenie, bez konkretu – widz pamięta temat, nie film. |
-| **8-11** | Zostaje jedna rzecz: scena, zdanie albo obraz, choć reszta zaciera się szybko. |
-| **12-15** | Film zostaje w pamięci jako całość i da się o nim opowiedzieć komuś, kto go nie widział. |
-| **16-18** | Film pokazuje rzecz pozornie znaną tak, że **po seansie da się nazwać, co w patrzeniu na nią się przesunęło**, a przesunięcie to film pokazuje, zamiast je zapowiadać albo objaśniać. Oceniający wskazuje miejsca, które je wytwarzają. |
-| **19-20** | To przesunięcie jest **skutkiem konstrukcji całego filmu**, a nie jednej sceny, i film **nie żąda reakcji, lecz ją wytwarza**: nie mówi widzowi, co ma czuć ani co ma zapamiętać, i obywa się bez nacisku - podkreślającej muzyki, pointy wygłoszonej wprost, powtórzenia tezy na koniec. |
+| **0-5** | Film niczego nie stawia: nie ma napięcia, konfliktu, relacji ani innej organizacji doświadczenia, którą dałoby się wskazać. |
+| **6-11** | Stawka jest zapowiedziana, ale nieprowadzona: film oznajmia, że coś jest ważne albo groźne, i nie buduje tego żadnymi środkami poza oznajmieniem. |
+| **12-17** | Stawka jest budowana w pojedynczych miejscach - scena, która napina, postać, której coś się chce - ale między nimi film jej nie podtrzymuje. |
+| **18-23** | Stawka prowadzona przez cały film: **da się wskazać, co ją ustanawia, co podnosi i czym się rozstrzyga**, a kolejne sceny nie zaczynają od nowa. |
+| **24-27** | Znaczenie sceny jest **przygotowane i przekształcone przez wcześniejsze relacje, oczekiwania i następstwa**: ta sama rzecz pokazana później znaczy co innego, a oceniający wskazuje, co tę zmianę przygotowało. |
+| **28-30** | Ten efekt **zależy od przebiegu całego filmu**, a nie od pojedynczych przygotowań: usunięcie dowolnej z części, które go budują, zmienia znaczenie pozostałych. **Różnicą wobec pasma niższego nie jest rezygnacja z określonych środków, lecz zasięg zależności.** |
+
+**Środki nie są punktowane ani karane same w sobie.** Podkreślająca muzyka, pointa wygłoszona wprost, powrót tezy na koniec i jawne prowadzenie emocji **nie obniżają oceny w żadnym paśmie**: bywają integralnym rozwiązaniem musicalu, satyry, eseju albo melodramatu. Ich brak też nie dowodzi samodzielnej pracy konstrukcji. Oceniana jest **praca środka w przebiegu filmu**, nie jego rodzaj.
+
+**Ten sam fragment, dwie różne właściwości.** Ten sam znacznik czasu może uzasadniać ocenę w Tezie i w Sile oddziaływania, ale **każda z nich musi dotyczyć innej właściwości**: relacja poznawcza, którą film ustanawia, należy do Tezy, a to, jak ta scena buduje stawkę doświadczenia, do Siły. **Powtarzanie tego samego uzasadnienia pod inną nazwą jest niedopuszczalne** - oceniający, który tym samym argumentem uzasadnia dwie oceny, podnosi wynik dwukrotnie za jedną rzecz.
+
+---
 
 #### Warunek nadrzędny
 

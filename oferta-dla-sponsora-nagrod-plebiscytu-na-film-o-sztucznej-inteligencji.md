@@ -49,12 +49,13 @@ Nie zawężamy tematu i nie mówimy, czy film ma być pochwałą AI, czy ostrze�
 1. **Akademia filmu** - grono niezależnych widzów, które ogląda wszystkie zgłoszenia przeszłe przez weryfikację formalną i przekazuje jury listę wyłonioną według [karty oceny](/dokument/regulamin-filmu#karta-oceny), tej samej, z którą pracuje jury. Do jury trafia nie więcej niż 20 filmów.
 2. **Jury** - grono profesjonalistów branży filmowej, którego skład ogłaszany jest przed otwarciem naboru. Jury wybiera dziesięciu finalistów oraz rozstrzyga o czołowej trójce. Członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.
 
-Ocena odbywa się według czterech kryteriów o łącznej wartości 100 punktów:
+Ocena odbywa się według trzech kryteriów o łącznej wartości 100 punktów:
 
-- **teza** - co film mówi o sztucznej inteligencji, od 0 do 30 punktów;
-- **forma** - montaż, obraz, dźwięk i rytm, od 0 do 30 punktów;
-- **rzetelność** tego, co film podaje widzowi jako fakt o technologii, od 0 do 20 punktów;
-- **siła oddziaływania**, od 0 do 20 punktów.
+- **teza** - co film mówi o sztucznej inteligencji, od 0 do 35 punktów;
+- **forma** - montaż, obraz, dźwięk i rytm, od 0 do 35 punktów;
+- **siła oddziaływania** - jak film ustanawia i prowadzi stawkę doświadczenia, od 0 do 30 punktów.
+
+Rzetelność tego, co film podaje widzowi jako fakt o technologii, **nie jest kryterium punktowanym dodatnio, lecz podstawą potrąceń** za wykazane uchybienia. Powodem jest to, że pula dodatnia nagradzała brak zadania: film unikający twierdzeń o technologii dostawał maksimum bez wykonania czegokolwiek, a dokument podejmujący twierdzenia sprawdzalne miał dodatkowe okazje do straty punktów. Potrącenie wymaga wskazania twierdzenia, znacznika czasu i podstawy uznania go za nierzetelne, a wynik przed potrąceniem i po nim publikujemy osobno.
 
 Karta oceny jest jawna przed naborem i taka sama dla wszystkich oceniających.
 
@@ -305,7 +306,7 @@ Fundator nie nabywa praw do zgłoszonych filmów. Prawa zostają w całości prz
 
 ## <!--ikona:etap--><span>Stan przygotowań</span>
 
-**Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; [regulamin filmu](/dokument/regulamin-filmu) zawiera kartę oceny z opisem każdego pasma punktowego w czterech kryteriach. Strona Nagrody i [strona plebiscytu filmu](/plebiscyt-filmu) działają. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a statut fundacji gotowy w projekcie. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
+**Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; [regulamin filmu](/dokument/regulamin-filmu) zawiera kartę oceny z opisem każdego pasma punktowego w każdym kryterium. Strona Nagrody i [strona plebiscytu filmu](/plebiscyt-filmu) działają. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a statut fundacji gotowy w projekcie. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
 
 **W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie. Nie mamy jeszcze partnera dystrybucji filmów ani zapewnionych pokazów kinowych i piszemy to tak samo wprost uczestnikom.
 
