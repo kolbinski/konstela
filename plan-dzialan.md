@@ -885,6 +885,22 @@ Liczba finalistów jest więc teraz **funkcją liczby zgłoszeń**: połowa zgł
 
 **Wniosek do następnych zapisów:** przy każdym nowym przepisie sprawdzać, czy wyznacza wynik, czy tylko jego dopuszczalny przedział. Przedział zostawiony tam, gdzie zapis miał usunąć uznaniowość, jest uznaniowością z pozorem reguły.
 
+## Oferta plakatu oczami fundacji korporacyjnej: najcięższa tura dotąd (2.11.2026)
+
+Nowa persona czytała ofertę jako **wniosek o finansowanie**, nie jako propozycję marketingową, i to przesunięcie wydobyło klasę wad, której sześć poprzednich tur nie ruszyło. Werdykt: nie do rady z rekomendacją, do uzupełnienia.
+
+**Błąd w arkuszu, którego żaden z czterech testów nie widział.** Podsumowanie „ILE I OD KOGO" w zakładce Wyjaśnienia pokazywało dla Budżetu Plakatu **500 zł** zamiast 253 893,28 zł, dla Piosenki 29 808,12 zł i dla Filmu 15 088,68 zł, a RAZEM 1 260 738,46 zł zamiast 2 127 271,74 zł. Przyczyna jest szósta z kolei tego samego rodzaju: **odwołania do wiersza „Razem netto" nie przesuwają się po wstawieniu wiersza w zakładce budżetowej**, więc wskazywały wiersze przypadkowe. Dokument przedstawiany jako podstawa finansowania podawał więc trzy kwoty nieprawdziwe. `sprawdz-kwoty.js` ma teraz **piąty test**: porównuje każdy wiersz podsumowania i RAZEM z sumami zakładek.
+
+**Wady rachunkowe w samej ofercie**: podstawa rezerwy opisana jako 134 459 zł wobec 135 619 zł w arkuszu, zwrot za niewykonaną licytację podany jako 4 400 zł przy koszcie 6 600 zł, „wszystkie sześć progów" przy jedenastu wymienionych.
+
+**Trzy decyzje, które zmieniają konstrukcję, nie brzmienie.** Pierwsza: **dwie ścieżki finansowania** - sponsoring z fakturą VAT albo dotacja celowa - bo fundacja VAT-u nie odlicza, więc jej decyzja dotyczyła nie 253 893,28 zł, a 312 288,73 zł, i limit 285 000 zł netto to dla niej 350 550 zł. Druga: **granica pobytu oryginału podniesiona z 150 do 240 dni**, policzona z kalendarza edycji, bo nasz własny terminarz dawał 170 dni jeszcze przed wystawą w galerii - granica przekraczana w każdej edycji nie jest granicą, a pisemne uzgodnienie z autorem zostaje dla wystawy po gali. Trzecia: **wyodrębniony rachunek projektu i transze wpłacane przed etapami**, bo nowa fundacja mogła mieć obowiązek zwrotu i nie mieć na niego środków.
+
+**Cztery zarzuty o charakterze konstrukcyjnym, przyjęte w całości.** Ochrona całego obiegu była jednocześnie opisana jako obowiązkowa w jednym wierszu arkusza i jako pozycja otwarta w drugim - **obowiązkowy koszt nie może być opcją czekającą na aneks**; w pozycji otwartej została wyłącznie wycena rzeczoznawcy i suma wyższa od deklarowanej. Ryczałt miał dwa wyniki, wykonano albo nie wystąpiło, i **premiował zadanie zrobione byle jak**; ma teraz trzeci - wykonanie częściowe rozliczane po przekazanych rezultatach. Próg 5 000 zł na zgodę Rady dotyczył pojedynczego użycia, więc **dawał się obejść serią mniejszych wypłat**; działa teraz zbiorczo, a zwiększenie wynagrodzenia podmiotu powiązanego wymaga uprzedniej zgody Mecenasa, nie zawiadomienia. Oferta twierdziła, że nakład zadań nie zależy od frekwencji, choć **arkusz sam liczy dwie minuty na zgłoszenie przy kopiach archiwalnych**.
+
+**Sprostowanie recenzentki, które przyjmujemy jako nasz błąd w drugim miejscu.** Dziesięć zgłoszeń nie jest bezwzględnym minimum rozstrzygnięcia: § 16 daje Organizatorowi możliwość nierozstrzygnięcia, nie automatyczny zakaz. Ten sam błąd był naprawiany po pierwszej turze w innym akapicie tej samej oferty.
+
+**Otwarte, bo to dokumenty do wytworzenia, nie zdania do poprawienia**: porównanie rynkowe cen zadań zlecalnych na rynku, specyfikacja Galerii i Archiwum wraz z granicą wobec infrastruktury wspólnej i prawami do narzędzi, lista narzędzi AI z okresami licencji i kluczem podziału, zakres zlecenia prawnego wraz z ofertą kancelarii, rozdzielenie zakresu wystawy i zamocowania prac, trasy transportu wobec przewozów między miejscami, powiązanie dziewięciu miesięcy magazynowania z datami konkretnych prac.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

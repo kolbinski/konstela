@@ -206,6 +206,51 @@ function sprawdzTabele(pliki) {
 /* ---------- ---------- */
 
 
+/* ---------- 5. podsumowanie w zakładce Wyjaśnienia ---------- */
+
+// Zakładka Wyjaśnienia ma tabelę "ILE I OD KOGO" z odwołaniem do wiersza
+// "Razem netto" każdej zakładki. Odwołania te nie przesuwają się same po
+// wstawieniu wiersza w zakładce budżetowej, więc po każdej takiej zmianie
+// podsumowanie może cicho pokazywać kwotę z przypadkowego wiersza.
+function sprawdzPodsumowanie(sumy) {
+  console.log('5. Podsumowanie w zakładce Wyjaśnienia');
+  const kod = `
+import openpyxl, json
+w = openpyxl.load_workbook('budzet-edycji-pierwszej.xlsx', data_only=True)
+sh = w['Wyjaśnienia']
+out = {'wiersze': {}, 'razem': None}
+for r in range(1, sh.max_row + 1):
+    nazwa = sh.cell(r, 1).value
+    kwota = sh.cell(r, 3).value
+    if not isinstance(nazwa, str) or not isinstance(kwota, (int, float)):
+        continue
+    if nazwa.strip().upper() == 'RAZEM':
+        out['razem'] = round(kwota, 2)
+    elif nazwa.startswith('Budżet '):
+        out['wiersze'][nazwa.split(' - ')[0].strip()] = round(kwota, 2)
+print(json.dumps(out, ensure_ascii=False))
+`;
+  const dane = JSON.parse(execFileSync('python3', ['-I', '-c', kod], { cwd: KORZEN, encoding: 'utf8' }));
+  let razem = 0;
+  for (const [nazwa, kwota] of Object.entries(sumy)) {
+    razem += kwota;
+    const wPodsumowaniu = dane.wiersze[nazwa];
+    if (wPodsumowaniu === undefined) {
+      zglos(`zakładka ${nazwa} nie ma wiersza w podsumowaniu "ILE I OD KOGO"`);
+    } else if (Math.abs(wPodsumowaniu - kwota) > TOLERANCJA) {
+      zglos(`podsumowanie podaje dla ${nazwa} ${formatuj(wPodsumowaniu)}, a zakładka ${formatuj(kwota)} - odwołanie wskazuje zły wiersz`);
+    }
+  }
+  razem = Math.round(razem * 100) / 100;
+  if (dane.razem === null) {
+    zglos('podsumowanie nie ma wiersza RAZEM');
+  } else if (Math.abs(dane.razem - razem) > TOLERANCJA) {
+    zglos(`podsumowanie podaje RAZEM ${formatuj(dane.razem)}, a suma zakładek wynosi ${formatuj(razem)}`);
+  } else {
+    console.log(`   sprawdzono wierszy: ${Object.keys(dane.wiersze).length}, RAZEM ${formatuj(dane.razem)}`);
+  }
+}
+
 const pliki = plikiMd();
 console.log(`Kontrola kwot: ${pliki.length} dokumentów .md\n`);
 sprawdzPary(pliki);
@@ -215,6 +260,8 @@ console.log('');
 sprawdzLicencje();
 console.log('');
 sprawdzTabele(pliki);
+console.log('');
+sprawdzPodsumowanie(sumyZArkusza());
 console.log('');
 
 if (bledy) {
