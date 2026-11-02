@@ -35,3 +35,11 @@ Z polskimi znakami diakrytycznymi. Nazywają zmianę i jej rzeczową przyczynę;
 Pliki `*-prompt-recenzji.md` oraz wszystkie inne teksty przeznaczone do skopiowania i wklejenia zawierają **wyłącznie treść do wklejenia**. Żadnego nagłówka, żadnej notatki o doborze persony, żadnej linii poziomej oddzielającej komentarz od treści - komentarz utrudnia skopiowanie, bo trzeba go za każdym razem ręcznie pominąć. Plik zaczyna się od pierwszego zdania promptu.
 
 Uzasadnienie doboru persony, tego, czego prompt celowo nie robi, i tego, co zmieniło się od poprzedniej tury, należy do **opisu commitu**, nie do pliku. Zasada ustalona 1.11.2026; wtedy też usunięto komentarze z dwudziestu czterech istniejących plików.
+
+## Stan recenzji ofert
+
+Plik `recenzje-status.md` jest jedynym miejscem, w którym stoi odpowiedź na pytanie, które oferty przeszły recenzję i z jakim statusem. **Aktualizuje się go po każdej turze recenzji, w tym samym commicie co poprawki w ofercie** - nie później i nie osobno. Zasada ustalona 2.11.2026, kiedy okazało się, że ta odpowiedź wymagała przeszukania folderu recenzji, promptów i trzech sekcji planu działań.
+
+Przy każdej turze: recenzja idzie do `recenzje/` jako `RRRR-MM-DD-<oferta>-<persona albo tura>.md` z nagłówkiem opisującym personę i werdykt, a w `recenzje-status.md` rośnie liczba tur i zmienia się status końcowy. Oferta recenzowana po raz pierwszy przenosi się z listy oczekujących do tabeli.
+
+Lista „Dziś" w `plan-dzialan.md` nie jest dowodem na to, że czegoś nie zrobiono - jest dowodem na to, że nikt jej nie odhaczył. Wysyłki i telefony potwierdza się, zanim zostaną nazwane zaległością.
