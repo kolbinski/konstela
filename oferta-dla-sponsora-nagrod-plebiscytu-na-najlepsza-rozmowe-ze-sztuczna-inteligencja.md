@@ -92,7 +92,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Obsługa księgowa projektu                                      |       1 500 zł |
 | Domeny konstela.org i konstela.pl - przedpłata na dziesięć lat |       3 000 zł |
 | Ubezpieczenie OC organizatora                                  |    do ustalenia |
-| Infrastruktura i narzędzia AI na rozstrzygnięcie edycji, I-IV 2028 |      13 333 zł |
+| Infrastruktura i narzędzia AI na rozstrzygnięcie edycji, I-IV 2028 |      20 000 zł |
 | Prowadzenie plebiscytu przez rok (327 godz.)                   |      71 940 zł |
 | Budowa Czytelni i Archiwum rozmów (50 godz.)                   |      11 000 zł |
 | Prowadzenie Czytelni i Archiwum rozmów (25 godz.)              |       5 500 zł |
@@ -100,13 +100,13 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Magazyn kopii archiwalnych rozmów, 5 lat retencji              |       1 500 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę                  |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |       7 226 zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |       6 383 zł |
 | Obsługa prawna regulaminu rozmowy                              |       8 000 zł |
 | Fundusz celowy na utrzymanie Archiwum przez dziewięć lat       |       7 920 zł |
 | Przygotowanie i złożenie migawki Archiwum w repozytorium       |       3 550 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      24 560,28 zł |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      25 259,16 zł |
 | **Razem netto**                                                | **628 752,16 zł** |
-| VAT 23%                                                        |  143 112,73 zł |
+| VAT 23%                                                        |  144 613,00 zł |
 | **Do zapłaty brutto**                                          | **773 365,16 zł** |
 
 **Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.

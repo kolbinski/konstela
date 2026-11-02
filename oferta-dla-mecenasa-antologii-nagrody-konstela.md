@@ -155,13 +155,13 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: mechanizm Archiwum od
 | Krótki nakład Antologii na galę (100 egz.)                        |       4 000 zł |
 | Nadanie ISBN i egzemplarz obowiązkowy                             |           0 zł |
 | Produkcja audiobooka Antologii: trzej lektorzy, studio, montaż dialogowy |      40 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                     |       1 519 zł |
-| **Koszty bezpośrednie razem**                                     |  **92 519 zł** |
+| Narzędzia AI i licencje - udział tego budżetu                     |       1 341 zł |
+| **Razem koszty bezpośrednie**                                     |  **92 341 zł** |
 | Redakcja i skład treści Antologii, rozstrzyganie zgłoszeń oznaczonych przez oceniających (95 godz.) |      20 900 zł |
 | Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |       4 180 zł |
-| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   11 341,90 zł |
+| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   11 324,10 zł |
 | **Razem netto**                                                   | **128 745,10 zł** |
-| VAT 23%                                                           |   29 656,41 zł |
+| VAT 23%                                                           |   29 611,37 zł |
 | **Do zapłaty brutto**                                             | **158 356,47 zł** |
 
 **W tej tabeli nie ma kosztów wspólnych całego przedsięwzięcia.** Powołanie fundacji i jej obsługa, konsultacja prawna, domeny i hosting, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty mają osobny budżet i osobną rolę - **Mecenasa Założycielskiego**. Wydzieliliśmy je, bo obciążanie nimi mecenasa Antologii znaczyło, że jeden partner finansuje infrastrukturę, z której korzystają wszyscy pozostali, i jako jedyny ponosi ryzyko, że reszta ról nie zostanie obsadzona.

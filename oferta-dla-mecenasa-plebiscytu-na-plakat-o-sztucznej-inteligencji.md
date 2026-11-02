@@ -83,13 +83,13 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 | Medal zwycięzcy i dyplomy finalistów                         |       1 200 zł |
 | Transport oryginałów w obie strony (800 zł za pracę razy 10)  |       8 000 zł |
 | Ubezpieczenie prac na cały okres obiegu                      |       3 000 zł |
-| Praca organizatora (315 godz. po 220 zł)                     |      69 300 zł |
+| Praca organizatora (320 godz. po 220 zł)                     |      70 400 zł |
 | Honoraria jury plakatu za ocenę                              |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                        |    do ustalenia |
 | Bogatsza oprawa wystawy ponad postać gwarantowaną            |      do wyceny |
 | Obsługa prawna regulaminu plakatu                            |       8 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę                 |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                 |       4 459 zł |
+| Narzędzia AI i licencje - udział tego budżetu                 |       4 519 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu |       3 000 zł |
 | Wystawa prac finałowych w postaci gwarantowanej               |       8 000 zł |
 | Magazyn kopii archiwalnych plakatów, 5 lat retencji           |       1 500 zł |
@@ -102,14 +102,14 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 | Drobne szkody i konsultacja konserwatora                     |       2 000 zł |
 | Powtórna wysyłka przy nieudanym doręczeniu                   |         800 zł |
 | Przedłużenie ochrony ubezpieczeniowej i magazynowania        |         500 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                   |   16 135,08 zł |
+| Rezerwa na przekroczenia (12%, bez nagród)                   |   16 274,28 zł |
 | **Razem netto**                                              | **253 893,28 zł** |
-| VAT 23%                                                      |   58 096,64 zł |
+| VAT 23%                                                      |   58 395,45 zł |
 | **Do zapłaty brutto**                                        | **312 288,73 zł** |
 
-**Praca organizatora to 315 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
+**Praca organizatora to 320 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się tak:
 
-- **kontrola formalna zgłoszeń plakatów - 25 godzin**: format, proporcje, jakość zdjęcia, deklaracja narzędzi oraz obejrzenie nagrania z pracy; 10 minut na zgłoszenie, bo samo nagranie trwa co najmniej 3 minuty;
+- **kontrola formalna zgłoszeń plakatów - 30 godzin**: format, proporcje, jakość zdjęcia, deklaracja narzędzi oraz obejrzenie nagrania z pracy; 10 minut na zgłoszenie, bo samo nagranie trwa co najmniej 3 minuty;
 - **obsługa jury - 30 godzin**: przydziały, kalibracja ocen, wyłączenia od oceny, zebranie werdyktu dziesiątki;
 - **obsługa głosowania publiczności - 20 godzin**: uruchomienie głosowania, weryfikacja głosów, zebranie i ocena uzasadnień;
 - **przyjęcie, ewidencja, przekazania między wystawami i zwrot oryginałów finalistów - 55 godzin**: uzgodnienia okresu z każdym autorem, protokoły stanu przy przyjęciu i przy zwrocie, dokumentacja zdjęciowa, protokół każdego przekazania między miejscami oraz nadzór nad przesyłkami w obie strony. Trzydzieści pięć godzin wystarcza na obieg z jedną lokalizacją; dwie wystawy i przekazania między nimi wymagają więcej, a tyle ta rola przewiduje;

@@ -58,11 +58,11 @@ Program jednego wieczoru, liczony na około dwie godziny:
 | Przejazdy i noclegi jury                                     |       4 000 zł |
 | Rejestracja wideo i bezpłatne udostępnienie zapisu           |      15 000 zł |
 | Prowadzenie gali                                             |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                |         719 zł |
-| **Razem koszty twarde**                                      |  **37 219 zł** |
-| Rezerwa na przekroczenia (12% od pracy i kosztów)            |    5 654,28 zł |
+| Narzędzia AI i licencje - udział tego budżetu                |         635 zł |
+| **Razem koszty twarde**                                      |  **37 135 zł** |
+| Rezerwa na przekroczenia (12% od pracy i kosztów)            |    5 644,20 zł |
 | **Razem netto**                                              |  **52 679,20 zł** |
-| VAT 23%                                                      |    12 137,85 zł |
+| VAT 23%                                                      |    12 116,22 zł |
 | **Do zapłaty brutto**                                        | **64 795,42 zł** |
 
 **Przejazdy finalistów nie obciążają tej oferty.** Na galę przyjeżdża czterdziestu finalistów, po dziesięciu z każdego plebiscytu, a ich przejazd i nocleg - 8 000 zł na plebiscyt - pokrywa budżet tego plebiscytu, nie sponsor gali. Powód jest prosty: koszt rośnie z liczbą plebiscytów, a Sponsor gali nie decyduje o tym, ile ich się odbędzie. Gdyby doszedł piąty plebiscyt, ta oferta nie zdrożeje; gdyby któryś nie ruszył, nie zostanie w niej kwota bez przeznaczenia. Organizacja przejazdów i tak jest wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.

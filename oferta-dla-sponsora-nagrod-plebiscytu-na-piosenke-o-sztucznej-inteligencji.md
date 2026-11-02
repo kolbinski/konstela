@@ -38,9 +38,11 @@ Ocena idzie według 4 kryteriów o jawnych wagach, w sumie do 100 punktów:
 
 Karta oceny nie jest zapowiedzią. **Jest napisana, opublikowana i opisuje każde pasmo punktowe**, a nad pasmami stoją reguły rozstrzygające, co wolno przyjąć za dowód oceny: że punkt odniesienia jest w utworze, a nie we wrażeniu; że pozycję w paśmie wyznacza waga i konsekwencja, nie liczba miejsc; że przewidywanie przyszłej popularności nie podlega ocenie w żadnym kryterium.
 
-**Karta przeszła osiem tur niezależnej recenzji** przeprowadzonej przez praktyka zasiadającego w jury konkursów muzycznych, który dostał zadanie rozłożenia jej na części. Pierwszy werdykt był odmowny: rozrzut ocen między dwiema uważnymi osobami oszacował na 18-25 punktów na sto i wskazał, że trzy najwyższe pasma Muzyki opisywały trzy różne właściwości ustawione jak stopnie jednej. Po przebudowie zmieniły się wagi kryteriów, pasma wszystkich czterech zostały przepisane, a z karty wypadły wszystkie miejsca, w których jeden sposób osiągnięcia jakości stał jako warunek - obowiązkowy rozwój materiału, obowiązkowy komentarz muzyczny, wymóg kondensacji w tekście i test porównania z wykonaniami, których nie ma. **Po ósmej turze recenzent nie zgłasza już uwag do tekstu karty.**
+**Karta przeszła osiem tur krytycznego czytania i trzeba jasno powiedzieć, czym to czytanie jest.** Zadajemy modelowi językowemu rolę wymagającego czytelnika z danej dziedziny - tutaj praktyka konkursów muzycznych - i polecamy mu rozłożyć kartę na części: wskazać pasma, których nie da się rozstrzygnąć żadną kompetencją, i oszacować rozrzut ocen. **Nie jest to recenzja ekspercka ani niezależna opinia zawodowa.** Model nie zasiadał w jury, nie firmuje niczego nazwiskiem i nie ponosi za swoje zdanie odpowiedzialności zawodowej.
 
-**Czego to nie dowodzi.** Recenzent nie potwierdził zgodności ocen i wprost odmówił jej deklarowania bez wyniku próby. To znaczy: wiemy, że karta nie zawiera sprzeczności, których dałoby się dowieść przy biurku, i nie wiemy jeszcze, czy trzy osoby zastosują ją podobnie do tych samych utworów.
+**Dlaczego mimo to o tym piszemy.** Bo wartość tych tur nie zależy od kwalifikacji źródła: każdy zarzut wskazywał konkretne zdanie karty i pokazywał, jak dwie osoby mogą je przeczytać inaczej, a to **da się sprawdzić w samym dokumencie**. Pierwszy przebieg wykazał, że trzy najwyższe pasma Muzyki opisywały trzy różne właściwości ustawione jak stopnie jednej - to jest sprawdzalne przez przeczytanie tych pasm obok siebie, niezależnie od tego, kto to napisał. Po ośmiu turach zmieniły się wagi kryteriów, pasma wszystkich czterech zostały przepisane, a z karty wypadły wszystkie miejsca, w których jeden sposób osiągnięcia jakości stał jako warunek: obowiązkowy rozwój materiału, obowiązkowy komentarz muzyczny, wymóg kondensacji w tekście i test porównania z wykonaniami, których nie ma. **Historia tych tur jest jawna** i leży w [stanie recenzji](/dokument/recenzje-status) razem z tekstami wszystkich przebiegów.
+
+**Czego to nie dowodzi.** Ani zgodności ocen, ani tego, że karta jest dobra - **krytyczne czytanie wyklucza wyłącznie sprzeczności, które widać w tekście**. To znaczy: wiemy, że karta nie zawiera sprzeczności, których dałoby się dowieść przy biurku, i nie wiemy jeszcze, czy trzy osoby zastosują ją podobnie do tych samych utworów.
 
 **Co to sprawdzi.** Próba na pięciu zróżnicowanych demach, ocenionych niezależnie, bez wcześniejszej narady, z uzasadnieniem przy każdym kryterium. Porównujemy osobno sumy i osobno kryteria, bo zgodne sumy mogą ukrywać przeciwstawne oceny - 68 punktów od dwóch osób, z których jedna widzi wysoką Muzykę i niski Tekst, a druga odwrotnie, pokazuje zgodność, której nie ma. Granicą, którą chcemy utrzymać, jest **15 punktów na sto** między dwiema uważnymi osobami; przy większym rozrzucie wracamy do karty, nie do oceniających. Wynik próby przedstawimy przed otwarciem naboru, razem z rozrzutem i wnioskami - także jeżeli będzie niekorzystny.
 
@@ -109,12 +111,12 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 | Realizacja części artystycznej gali                            |      do wyceny |
 | Obsługa prawna plebiscytu                                      |       8 000 zł |
 | Dojazd i nocleg 10 finalistów na galę                          |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |       4 077 zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |       3 601 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych piosenek, 5 lat retencji            |       1 500 zł |
-| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   28 425,24 zł |
+| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   28 368,12 zł |
 | **Razem netto**                                                | **311 769,12 zł** |
-| VAT 23%                                                        |      71 829,52 zł |
+| VAT 23%                                                        |      71 706,90 zł |
 | **Do zapłaty brutto**                                          | **383 476,02 zł** |
 
 **Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 370 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
@@ -136,14 +138,14 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 58 000 zł i jest policzony:
 
 **Słuchalnia i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat. Kopia nie jest udostępniana publicznie: utwór odtwarza się dalej z serwisu wykonawcy, a kopia służy dokumentacji edycji i ustaleniu, która wersja brała w niej udział. Zmiana weszła 31 października 2026 roku, bo wcześniej trwały rezultat plebiscytu zależałby od tego, czy znajdą się partnerzy pozostałych ról.
 
-**5 pozycji czeka na wycenę i zostanie uzgodnionych osobno**, a żadna z nich nie jest ukryta w kwocie powyżej:
+**3 pozycje czekają na wycenę i zostaną uzgodnione osobno**, a żadna z nich nie jest ukryta w kwocie powyżej:
 
 - **honoraria jury za ocenę** - do ustalenia, bo zależą od liczby zgłoszeń i od liczby osób w jury;
 - **honoraria jury za etap przygotowawczy** - do ustalenia; dotyczą pracy nad kartą oceny i wagami kryteriów przed otwarciem naboru;
 - **realizacja części artystycznej gali** - do wyceny, bo zależy od miejsca gali: nagłośnienie, backline i próby znaczą co innego w sali teatralnej, a co innego w klubie;
-- **dojazd i nocleg 10 finalistów na galę** - 8 000 zł, pozycja wyceniona; udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
+Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się w kwocie powyżej**: dojazd i nocleg 10 finalistów na galę - 8 000 zł. Udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 216 800 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 236 401 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
@@ -155,7 +157,7 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 58 000 zł i jest policzony:
 
 Pozostałe pozycje rozliczane są po wykonaniu:
 
-- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 62 760 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
+- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 87 468,12 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
 - **nagrania studyjne rozliczane są po sesjach**, sesja po sesji, po fakturach studia;
 - **hymn z teledyskiem rozliczany jest po premierze.**
 
@@ -265,7 +267,7 @@ Rola nie obejmuje:
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Fundator składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
 
-**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 165 godzin, wykonuje **jednoosobowa działalność gospodarcza Organizatora**, to znaczy ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to **transakcja z podmiotem powiązanym** i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
+**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 255 godzin, wykonuje **jednoosobowa działalność gospodarcza Organizatora**, to znaczy ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to **transakcja z podmiotem powiązanym** i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
 
 - Umowę z tą działalnością zawiera **Rada Fundacji**, bo statut powierza jej umowy z członkami Zarządu i nie może w niej zasiadać żaden członek Zarządu.
 - Rada przyjmuje też raporty etapów i zatwierdza rozliczenie godzin. **Fundator może wskazać osobę, która otrzymuje te raporty.**

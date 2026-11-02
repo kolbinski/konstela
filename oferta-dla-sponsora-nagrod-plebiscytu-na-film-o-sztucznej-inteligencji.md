@@ -133,16 +133,17 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Przygotowanie techniczne zwiastunów do emisji galowej          |    do ustalenia |
 | Pokaz kuratorski filmów finałowych w postaci gwarantowanej     |      12 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę                  |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |       5 875 zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |       5 189 zł |
 | Obsługa prawna regulaminu filmu                                |       8 000 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych filmów (5 lat retencji)             |       7 500 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      15 171 zł |
+| Sprawdzenia twierdzeń i powroty do materiału (150 zł/godz., do 2 godz. na film) |    rozliczane z wykonania |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      15 088,68 zł |
 | **Razem netto**                                                | **332 827,68 zł** |
-| VAT 23%                                                        |      76 727,08 zł |
+| VAT 23%                                                        |      76 550,37 zł |
 | **Do zapłaty brutto**                                          | **409 378,05 zł** |
 
-**Górny limit zobowiązania.** Trzy pozycje w tabeli nie mają jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 430 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
+**Górny limit zobowiązania.** Cztery pozycje w tabeli nie mają jeszcze ceny - trzy czekają na wycenę, a sprawdzenia twierdzeń rozliczane są ze stawki godzinowej po wykonaniu, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 430 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
 Limit zostawia nad dzisiejszym kosztorysem niecałe 97 000 zł i jest policzony, a nie wzięty z sufitu: honoraria jury za ocenę to przy wyliczeniach z arkusza 58 000 zł (pięciu jurorów po 40 godzin przy 290 zł za godzinę), etap przygotowawczy karty oceny rzędu 10 000 zł, przygotowanie techniczne zwiastunów rzędu 10 000 zł, a rezerwa obejmie je tak samo jak resztę kosztorysu.
 

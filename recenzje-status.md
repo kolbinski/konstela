@@ -1,5 +1,7 @@
 # Stan recenzji ofert partnerskich
 
+**Czym są te recenzje.** Prowadzimy je, zadając modelowi językowemu rolę wymagającego czytelnika z danej dziedziny - prezesa firmy technologicznej, selekcjonera festiwalowego, praktyka plakatu - i polecając mu rozłożyć dokument na części. **Nie są to recenzje eksperckie ani niezależne opinie zawodowe**: model nie ma doświadczenia, które persona opisuje, i nie firmuje niczego nazwiskiem. Ich wartość polega na tym, że zarzuty wskazują konkretne zdania i **dają się sprawdzić w samym dokumencie**, bez zaufania do źródła - i tak należy o nich mówić na zewnątrz. Opisywanie ich jako recenzji zawodowej przypisuje tej pracy kwalifikacje, których nie ma; zasada ustalona 2.11.2026, kiedy takie sformułowanie trafiło do oferty i zostało w niej wyłapane.
+
 Jedno miejsce na odpowiedź na pytanie „które oferty przeszły już przez recenzenta i z jakim statusem". Plik jest aktualizowany po **każdej** turze recenzji, w tym samym commicie co zmiany w ofercie - zasada zapisana w `CLAUDE.md`. Pełne teksty recenzji leżą w `recenzje/`, prompty w plikach `*-prompt-recenzji*.md`.
 
 Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobną personą. Recenzję przeszło **sześć** ofert, w sumie w **dwudziestu jeden turach**.

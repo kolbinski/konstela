@@ -62,22 +62,28 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 | Weryfikacja statutu, polityka prywatności i klauzula RODO         |       4 000 zł |
 | Obsługa fundacji za pierwszy rok (księgowość, sprawozdania)       |       6 000 zł |
 | Domeny, poczta i hosting strony                                   |       8 500 zł |
-| Narzędzia AI i licencje oprogramowania - udział tego budżetu      |       6 621 zł |
+| Narzędzia AI i licencje oprogramowania - udział tego budżetu      |       7 315 zł |
 | Zgłoszenie znaku towarowego Konstela w EUIPO (opłaty i obsługa)   |       4 500 zł |
 | Przebudowa strony Nagrody: UI/UX i teksty (agencja zewnętrzna)    |      15 000 zł |
-| **Koszty bezpośrednie razem**                                     |  **47 621 zł** |
+| Bezpieczeństwo: przegląd architektury i przepływów danych         |       3 000 zł |
+| Bezpieczeństwo: konfiguracja dostępów i uprawnień                 |       5 000 zł |
+| Bezpieczeństwo: szyfrowanie i test odtworzenia kopii              |       3 000 zł |
+| Bezpieczeństwo: zewnętrzny przegląd podatności                    |       5 000 zł |
+| Bezpieczeństwo: procedura incydentu i test organizacyjny          |       4 000 zł |
+| **Razem koszty bezpośrednie**                                     |  **68 315 zł** |
 | Narzędzie automatycznej kontroli formalnej i samoobsługi statusu (165 godz.) |      36 300 zł |
 | Panel oceny dla akademii i jury (160 godz.)                       |      35 200 zł |
 | Instalowalna wersja mobilna strony (120 godz.)                    |      26 400 zł |
-| Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |      19 580 zł |
-| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   14 552,10 zł |
+| Raportowanie dla Mecenasa: mierniki, zestawienia, pięć raportów etapowych, kontrola danych (73 godz.) |      16 060 zł |
+| Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |      22 792 zł |
+| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   18 227,50 zł |
 | **Razem netto**                                                   | **223 294,50 zł** |
-| VAT 23%                                                           |   41 320,21 zł |
+| VAT 23%                                                           |   51 357,74 zł |
 | **Do zapłaty brutto**                                             | **274 652,24 zł** |
 
 **Co zostaje w tej roli wspólne i dlaczego z wyboru.** Powołanie fundacji, weryfikacja statutu, polityka prywatności, znak towarowy, domeny z hostingiem oraz trzy narzędzia obsługujące cztery plebiscyty nie dzielą się między budżety i nie mają się dzielić. Każda z tych rzeczy powstaje raz i działa niezależnie od tego, ile plebiscytów się odbędzie: statut sprawdza się jeden i politykę prywatności pisze się jedną, a znak towarowy zgłasza się raz. Dzielenie ich kluczem dawałoby liczby wyglądające na dokładne i nic nieznaczące. Dzielimy natomiast to, czego zużycie faktycznie rośnie z liczbą zadań - roczny koszt narzędzi AI - i to rozdzielenie zostało zrobione 31 października 2026.
 
-Praca programistyczna to **445 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody. Godziny obejmują wyłącznie wytworzenie trzech narzędzi: analizę, projekt, napisanie kodu, testy, wdrożenie i dokumentację wdrożeniową. Nie ma w nich niczego innego.
+Praca programistyczna i raportowa to **518 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody. Godziny obejmują wyłącznie wytworzenie trzech narzędzi: analizę, projekt, napisanie kodu, testy, wdrożenie i dokumentację wdrożeniową. Nie ma w nich niczego innego.
 
 **Dlaczego narzędzie kontroli formalnej jest największą pozycją pracy, a nie skryptem.** Do 1 listopada 2026 pozycja wynosiła 25 godzin, bo zakładała skrypt pobierający rozmowę i odkładający kopię. Policzyliśmy wtedy, ile kosztuje ręczna obsługa jednego zgłoszenia: sześć minut kontroli formalnej i cztery minuty korespondencji, czyli **36,67 zł na zgłoszenie** przy stawce z kosztorysu. Przy tysiącu zgłoszeń to 167 godzin, przy dziesięciu tysiącach 1 667 godzin, czyli osiem dziesiątych etatu przez rok. **Ściana jest kadrowa, nie pieniężna, i przy obsłudze ręcznej stoi na kilku tysiącach zgłoszeń** - niezależnie od tego, ile pieniędzy jest w budżetach oceniania. Rachunek jest jawny w [zakładce Sufit przepustowości](https://konstela.org/arkusz/budzet-edycji-pierwszej#sufit-przepustowosci).
 

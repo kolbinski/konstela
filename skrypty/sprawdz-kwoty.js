@@ -147,7 +147,64 @@ print(json.dumps({'calosc': calosc, 'suma': round(suma, 2)}))
   }
 }
 
+/* ---------- 4. tabele kosztorysowe w ofertach ---------- */
+
+/* Oferta podaje kosztorys jako tabelę markdown, której wiersze przepisuje się
+   z arkusza ręcznie. Przy zmianie jednej pozycji łatwo zostawić starą liczbę w
+   innym wierszu - suma nadal wygląda wiarygodnie, bo wiersz "Razem" też jest
+   przepisany. Ta kontrola dodaje pozycje i porównuje z wierszem "Razem netto",
+   a potem sprawdza VAT i brutto. Wyłapała to, czego nie wyłapują kontrole 1-3:
+   drgnięcie pojedynczej pozycji wewnątrz poprawnie wyglądającej tabeli. */
+
+function sprawdzTabele(pliki) {
+  console.log('4. Tabele kosztorysowe');
+  let tabel = 0;
+  for (const plik of pliki) {
+    const linie = fs.readFileSync(plik, 'utf8').split('\n');
+    let pozycje = [], razem = null, vat = null, brutto = null, start = -1;
+    for (let i = 0; i < linie.length; i++) {
+      const l = linie[i];
+      if (!l.startsWith('|')) {
+        if (razem !== null) { ocen(); }
+        pozycje = []; razem = null; vat = null; brutto = null; start = -1;
+        continue;
+      }
+      const kom = l.split('|').map((x) => x.trim());
+      if (kom.length < 3) continue;
+      const opis = kom[1].replace(/\*/g, '').toLowerCase();
+      const m = kom[2].match(/([\d][\d  ]*(?:,\d\d)?)\s*zł/);
+      if (!m) continue;
+      const kwota = liczba(m[1]);
+      if (start < 0) start = i + 1;
+      if (/^razem netto/.test(opis)) razem = kwota;
+      else if (/^vat/.test(opis)) vat = kwota;
+      else if (/^do zapłaty brutto/.test(opis)) brutto = kwota;
+      else if (/^(razem|suma|w tym|łącznie)/.test(opis)) { /* wiersz zbiorczy - nie pozycja */ }
+      else if (razem === null) pozycje.push([opis, kwota]);
+    }
+    if (razem !== null) ocen();
+
+    function ocen() {
+      if (razem === null || pozycje.length < 4) return;
+      tabel++;
+      const suma = pozycje.reduce((a, [, k]) => a + k, 0);
+      const gdzie = `${path.basename(plik)}, tabela w wierszu ${start}`;
+      if (Math.abs(suma - razem) > TOLERANCJA) {
+        zglos(`${gdzie}: pozycje dają ${formatuj(suma)}, a wiersz "Razem netto" mówi ${formatuj(razem)} - różnica ${formatuj(Math.abs(suma - razem))}`);
+      }
+      if (vat !== null && Math.abs(vat - razem * VAT) > TOLERANCJA) {
+        zglos(`${gdzie}: VAT ${formatuj(vat)}, a 23% od ${formatuj(razem)} to ${formatuj(razem * VAT)}`);
+      }
+      if (brutto !== null && Math.abs(brutto - razem * (1 + VAT)) > TOLERANCJA) {
+        zglos(`${gdzie}: brutto ${formatuj(brutto)}, a ${formatuj(razem)} z VAT to ${formatuj(razem * (1 + VAT))}`);
+      }
+    }
+  }
+  console.log(`   sprawdzono tabel: ${tabel}`);
+}
+
 /* ---------- ---------- */
+
 
 const pliki = plikiMd();
 console.log(`Kontrola kwot: ${pliki.length} dokumentów .md\n`);
@@ -156,6 +213,8 @@ console.log('');
 sprawdzSumy(pliki, sumyZArkusza());
 console.log('');
 sprawdzLicencje();
+console.log('');
+sprawdzTabele(pliki);
 console.log('');
 
 if (bledy) {
