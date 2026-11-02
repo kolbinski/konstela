@@ -573,6 +573,20 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Czego nie przyjąłem.** Recenzent proponował zastąpić cztery niepoznawalne testy właściwościami, które wymienił, i to zrobiłem - ale w karcie rozmowy analogicznych zmian nie powtarzałem, bo ta karta przeszła własne dwie tury i jej najwyższe pasma zostały już przepisane na cechy wskazywalne w zapisie. Obie reguły wspólne weszły natomiast do wszystkich czterech kart.
 
+## Druga tura karty piosenki: kumulatywność cofnięta do wymagań jakościowych (2.11.2026)
+
+**Recenzent wycofał własną rekomendację z poprzedniej tury i miał rację.** Reguła „wejście do pasma wyższego wymaga, żeby warunki pasm niższych pozostawały spełnione" była sprzeczna z opisami pasm, bo **pasma niższe zawierają wady, które pasma wyższe zastępują, a nie zachowują**: tekst za 18-23 ma być spójny, a pasmo niższe mówi „konstrukcja się rozsypuje"; materiał nie może być jednocześnie całkowicie wtórny i własny. Reguła weszła rano do wszystkich czterech kart, więc sprzeczność była w czterech dokumentach naraz.
+
+**Dziś kumulatywność dotyczy wymagań jakościowych, nie opisów.** Zachowane zostają spójność, konsekwencja i czytelność konstrukcji; wady wymienione w pasmach niższych warunkiem nie są. Do tego doszła reguła rozstrzygająca granicę, której brakowało: **pojedyncze odstępstwo nie obala kwalifikacji do pasma**, jeżeli cecha nadal charakteryzuje pracę jako całość, i wyznacza wtedy dolny koniec pasma; odstępstwa powtarzające się obalają kwalifikację i praca spada do pasma niższego. Bez tego zdanie „o wejściu rozstrzyga spełnienie warunku" kłóciło się ze zdaniem „dolny koniec oznacza spełnienie z wyłomami".
+
+**Drugi zarzut dotyczył drożności ścieżek w Muzyce i był rachunkowy, nie estetyczny.** Pasmo 27-31 wymagało relacji muzyki ze słowami, a 32-35 dopuszczało jakość bez takiego komentarza - przy kumulatywności znakomita kompozycja bez komentarza zatrzymywała się na 26 punktach, a dwóch jurorów mogło dać temu samemu utworowi 26 albo 33 punkty wyłącznie z różnej lektury instrukcji. **Decyzja: komentarz muzyczny jest jedną z dwóch równoważnych dróg, nie szczeblem ponad dobrą kompozycją.** Oba najwyższe pasma dopuszczają obie drogi i różnią się stopniem, nie rodzajem. Decyzja wynika z wyboru wag z tej samej sesji: Muzyka dostała 35 punktów właśnie po to, żeby samodzielna jakość kompozycji nie miała sufitu.
+
+**Trzy rzeczy, w których karta narzucała estetykę zamiast mierzyć jakość.** Rozwój materiału jako obowiązek - dziś pasmo niższe mówi o powtarzaniu **bez celu**, a celowa stałość (niezmienny motyw, groove, uporczywy nawrót frazy) jest jedną z dwóch równoważnych dróg prowadzenia materiału. Wtórność zlana ze sprawnością formy w jednym paśmie - dziś rozdzielone, z regułą przypadku mieszanego: rozstrzyga istnienie własnego pomysłu muzycznego. Nieoczywiste zestawienie jako warunek wysokiego Ujęcia - dziś drugą równoważną drogą jest precyzja jednej sceny i konsekwencja obserwacji.
+
+**Wykonanie mierzyło zależność, nie jakość.** Najwyższe pasmo wymagało decyzji, „bez których konstrukcja piosenki nie działałaby tak, jak działa" - a charakterystyczne przeciąganie fraz może rozstrzygać o kształcie nagrania i jednocześnie utworowi szkodzić. Dziś najwyższe pasmo mierzy trafność i siłę decyzji, z wprost zapisanym zdaniem, że **konstrukcyjna niezbędność nie jest warunkiem**, a interpretacja powściągliwa spełnia go tak samo jak wyrazista.
+
+**Czego recenzent nie podtrzymał:** wszystkich pozostałych zarzutów z pierwszej tury. Wagi 30/20/35/15 podtrzymał jako uzasadniony wybór, nie jako warunek naprawy. Zgodności do 15 punktów nadal nie deklaruje - dopiero niezależna próba ma pokazać, czy jurorzy różnią się osądem jakości, czy nadal stosują różne zasady.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

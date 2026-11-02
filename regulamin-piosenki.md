@@ -285,7 +285,9 @@ Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać
 
 Oceniający musi umieć wskazać miejsce uzasadniające pasmo **oraz powiedzieć, która z powyższych rzeczy wyznaczyła pozycję w jego obrębie**. Różnicy, której nie da się w ten sposób uzasadnić, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
 
-**Pasma są kumulatywne.** Wejście do pasma wyższego wymaga, żeby warunki pasm niższych **pozostawały spełnione**, chyba że karta wprost stanowi inaczej. Efektowne rozwiązanie nie otwiera pasma wyższego, jeżeli praca przestała spełniać warunek niższego - spójność, konsekwencję albo czytelność konstrukcji.
+**Pasma są kumulatywne w zakresie wymagań jakościowych, nie opisów.** Wejście do pasma wyższego wymaga, żeby pozostawały spełnione **wymagania jakościowe** pasm niższych - spójność, konsekwencja i czytelność konstrukcji. **Wady wymienione w pasmach niższych nie są natomiast warunkiem**: pasma wyższe je zastępują, a nie zachowują, bo praca nie może być jednocześnie wtórna i własna ani jednocześnie rozsypana i konsekwentna. Efektowne rozwiązanie nie otwiera pasma wyższego, jeżeli praca przestała spełniać wymaganie jakościowe niższego.
+
+**Wyłom a kwalifikacja do pasma.** Przy warunku dotyczącym całości pracy **pojedyncze odstępstwo nie obala kwalifikacji**, jeżeli cecha nadal charakteryzuje pracę jako całość - wyznacza wtedy dolny koniec pasma. Odstępstwa powtarzające się albo takie, po których cechy nie da się już przypisać całości, **obalają kwalifikację** i praca należy do pasma niższego.
 
 **Ocena dotyczy pracy, nie jej przyszłego odbioru.** Gdziekolwiek pasmo wspomina skutek u odbiorcy - że czegoś sam by nie znalazł, że coś zapamięta, że praca stanie się punktem odniesienia albo że czegoś nie dałoby się zrobić inaczej - **oceniający nie przewiduje tego skutku, lecz wskazuje cechę pracy, która go wywołuje**, i musi umieć ją pokazać. Przewidywanie, jak praca zostanie przyjęta, ilu ludzi ją zapamięta i czy będzie aktualna za kilka lat, **nie podlega ocenie w żadnym kryterium**: w chwili oceniania praca nie jest jeszcze opublikowana, więc takiego zdania nie da się sprawdzić ani obronić przy jawnej punktacji.
 
@@ -299,8 +301,8 @@ Co utwór mówi o życiu ze sztuczną inteligencją. Oceniana jest oryginalnoś�
 | **4-7** | Ujęcie obiegowe – powtarza to, co w tej sprawie mówi się powszechnie, bez własnej obserwacji. |
 | **8-11** | Własna obserwacja jest, ale zasłonięta ogólnikami albo porzucona w połowie: konstrukcja utworu nie pokazuje, że tak miało być. |
 | **12-15** | Wyraźna, własna perspektywa, utrzymana przez cały utwór: po odsłuchu da się powiedzieć, czego ten utwór dotyczy i z jakiego miejsca patrzy. |
-| **16-18** | Perspektywa opiera się na **nieoczywistej relacji między elementami utworu**, a tekst tę relację uzasadnia, zamiast ogłaszać efektowny paradoks. |
-| **19-20** | Ujęcie wyraziste i konsekwentne na tyle, że konkretne obrazy, sceny i rozwój utworu składają się na **perspektywę, której nie da się sprowadzić do obiegowego hasła**. |
+| **16-18** | Perspektywa wyrazista ponad to, co daje pasmo niższe, osiągnięta **jedną z dwóch równoważnych dróg**: albo opiera się na nieoczywistej relacji między elementami utworu, którą tekst uzasadnia, zamiast ogłaszać efektowny paradoks, albo na **precyzji jednej sceny i konsekwencji obserwacji**. Nieoczywiste zestawienie nie jest obowiązkiem. |
+| **19-20** | Wybrana droga doprowadzona do końca i prowadzona bez wyłomów: konkretne obrazy, sceny i rozwój utworu składają się na perspektywę, **której nie da się ani sprowadzić do obiegowego hasła, ani streścić bez utraty tego, co w niej własne**. |
 
 #### Tekst – 30 punktów
 
@@ -322,11 +324,11 @@ Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materi
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-5** | Materiał muzyczny nie niesie niczego: przebieg jest przypadkowy, a harmonia przeszkadza tekstowi. |
-| **6-12** | Materiał całkowicie wtórny: schemat bez własnego pomysłu, forma rozsypana albo przeciągnięta. |
-| **13-19** | Przebieg poprawny i forma czytelna, ale materiał nie rozwija się: utwór powtarza to, co pokazał na początku. |
-| **20-26** | Materiał własny i rozwijany: motyw wraca przekształcony, napięcie ma przebieg, przejścia są uzasadnione, a czas trwania wynika z konstrukcji. |
-| **27-31** | Rozwiązanie muzyczne **niesie znaczenie samo z siebie** – wskazana relacja między muzyką a słowami robi coś, czego słowa nie mówią: podważa deklarowaną pewność, opóźnia rozstrzygnięcie, stawia kontrast. |
-| **32-35** | Najwyższa jakość kompozytorska, osiągnięta **jedną z dwóch dróg**: przez konkretne zależności między muzyką a znaczeniem – prozodię, zmianę motywu, napięcie, rozwiązanie frazy – albo przez sam rozwój materiału, formę i rytm, bez obowiązku komentowania słów muzyką. |
+| **6-12** | Materiał wtórny albo forma rozsypana - jedno z dwojga wystarcza do tego pasma. **Przy przypadku mieszanym rozstrzyga istnienie własnego pomysłu muzycznego**: konwencjonalny materiał o znakomitej konstrukcji zostaje tutaj, bo pomysłu nie ma; własny materiał rozwleczony należy do pasma wyższego z pozycją obniżoną przez wadę formy. |
+| **13-19** | Przebieg poprawny i forma czytelna, ale materiał jest **powtarzany bez celu**: nawroty nie organizują napięcia ani nie niosą znaczenia. **Celowa stałość - niezmienny motyw, groove albo uporczywy nawrót tej samej frazy - nie jest brakiem rozwoju** i oceniana jest w pasmach wyższych. |
+| **20-26** | Materiał własny i **prowadzony**: napięcie ma przebieg, przejścia są uzasadnione, a czas trwania wynika z konstrukcji. **Prowadzenie może polegać na przekształcaniu motywu albo na celowej stałości**, która napięcie organizuje; obie drogi są równoważne. |
+| **27-31** | Wyjątkowa jakość kompozytorska, osiągnięta **jedną z dwóch równoważnych dróg**: albo wskazana relacja między muzyką a słowami robi coś, czego słowa nie mówią - podważa deklarowaną pewność, opóźnia rozstrzygnięcie, stawia kontrast - albo sam materiał, jego prowadzenie, forma i rytm niosą znaczenie bez komentowania słów. **Komentarz muzyczny nie jest szczeblem ponad dobrą kompozycją, lecz jedną z dróg do tego pasma.** |
+| **32-35** | Ta sama jakość w najwyższym stopniu: **wybrana droga prowadzona jest bez wyłomów przez cały utwór**, a rozwiązania dają się wskazać wraz z zależnością, która je uzasadnia - prozodią, zmianą motywu, napięciem, rozwiązaniem frazy albo konsekwencją celowej stałości. |
 
 #### Wykonanie – 15 punktów
 
@@ -339,7 +341,7 @@ Decyzje interpretacyjne słyszalne w nagraniu, w zakresie możliwym do rozpoznan
 | **6-8** | Interpretacja pojawia się miejscami, lecz nie utrzymuje się przez cały utwór. |
 | **9-11** | Decyzje interpretacyjne są konsekwentne i zgodne z tekstem przez cały utwór. |
 | **12-13** | Interpretacja dodaje znaczenia, którego nie ma w zapisie ani w tekście – frazowanie, oddech, cisza albo zmiana barwy we wskazanym miejscu. |
-| **14-15** | Decyzje wykonawcze **rozstrzygają o kształcie utworu**: da się wskazać te, bez których konstrukcja piosenki nie działałaby tak, jak działa. |
+| **14-15** | Trafność i siła decyzji interpretacyjnych w najwyższym stopniu: wskazane decyzje realizują utwór tak, że **żadna inna z rozpoznawalnych możliwości nie służyłaby mu lepiej**. Interpretacja powściągliwa spełnia ten warunek tak samo jak wyrazista, a **konstrukcyjna niezbędność decyzji nie jest tu warunkiem** - decyzja może rozstrzygać o kształcie nagrania i jednocześnie utworowi szkodzić. |
 
 **Razem: 100 punktów.**
 
