@@ -104,7 +104,9 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu przez cały rok naboru**:
 
 ### Dlaczego nagroda główna wynosi 100 000 zł
 
-Nie wzięło się to z ambicji, tylko z rachunku kosztu po stronie uczestnika. **To najdroższy z czterech plebiscytów dla osoby, która się zgłasza**: film ma powstać na potrzeby plebiscytu, trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Nagroda musi więc być kwotą, przy której decyzja o rocznej pracy nad filmem ma sens - inaczej zgłoszeń będzie kilka, a nie kilkadziesiąt.
+Nie wzięło się to z ambicji, tylko z rachunku kosztu po stronie uczestnika. **To najdroższy z czterech plebiscytów dla osoby, która się zgłasza**: film ma powstać na potrzeby plebiscytu, trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Nagroda ma dawać **realną szansę odzyskania kosztów produkcji** - i tyle da się o niej powiedzieć uczciwie. **Nie twierdzimy, że ta kwota uruchomi produkcje, a niższa nie uruchomiłaby żadnej**: danych o tym nie mamy, a w innym miejscu tej oferty piszemy wprost, że powstanie filmów jest najbardziej niepewnym założeniem całego przedsięwzięcia. Dwa zdania obok siebie: wysokość nagrody wynika z rachunku kosztu po stronie uczestnika, a jej **skutek dla decyzji produkcyjnych pozostaje niesprawdzony**.
+
+**Rzecz, którą trzeba policzyć razem z tą kwotą: szansę wygranej.** Przy dwudziestu równorzędnych zgłoszeniach przeciętna wartość udziału w puli 180 000 zł wynosi 9 000 zł na film, przy pięćdziesięciu - 3 600 zł. **To nie prognoza szans konkretnego autora, lecz ilustracja mechanizmu**: nagroda główna nie zastępuje finansowania produkcji i nie powinna być tak przedstawiana nikomu - ani Fundatorowi, ani twórcom.
 
 Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa trójka bierze wszystko, a siedem wyróżnień jest honorowe.** Wyróżnienie w plebiscycie filmowym ma wartość, której nie da się wypłacić - miejsce w dziesiątce finalistów, wpis w Archiwum z jawną punktacją i miejsce w zestawie kierowanym do dystrybutora. Rozproszenie puli na dziesięć równych części obniżyłoby pierwszą nagrodę do poziomu, przy którym nikt nie podejmie się produkcji.
 
@@ -137,13 +139,15 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Obsługa prawna regulaminu filmu                                |       8 000 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych filmów (5 lat retencji)             |       7 500 zł |
-| Sprawdzenia twierdzeń i powroty do materiału (150 zł/godz., do 2 godz. na film) |    rozliczane z wykonania |
+| Sprawdzenia twierdzeń i powroty do materiału (150 zł/godz., do 2 godz. na film) | rozliczane z wykonania, **z pułapem opisanym niżej** |
 | Rezerwa na przekroczenia (12%, bez nagród)                     |      15 088,68 zł |
 | **Razem netto**                                                | **332 827,68 zł** |
 | VAT 23%                                                        |      76 550,37 zł |
 | **Do zapłaty brutto**                                          | **409 378,05 zł** |
 
 **Górny limit zobowiązania.** Cztery pozycje w tabeli nie mają jeszcze ceny - trzy czekają na wycenę, a sprawdzenia twierdzeń rozliczane są ze stawki godzinowej po wykonaniu, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 430 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
+
+**Pozycja sprawdzeń twierdzeń ma własny pułap: 10 000 zł**, czyli około 66 godzin. Bez pułapu limit by się nie domykał i trzeba to pokazać rachunkiem: 430 000 minus kosztorys 332 827,68 daje 97 172,32 zł wolnego limitu, a trzy pozycje czekające na wycenę to około 78 000 zł plus 9 360 zł rezerwy od nich - zostaje więc **9 812,32 zł**. Dwie godziny sprawdzeń przy każdym filmie, przy przepustowości objętej kosztorysem, kosztowałyby 45 000 zł, czyli pięć razy więcej niż limit zostawia. **Dlatego pozycja ma pułap, a nie otwartą stawkę**: do jego wyczerpania sprawdzenia rozliczane są z wykonania, a po wyczerpaniu Organizator sprawdza dalej **w ramach własnych godzin**, pierwszeństwo dając filmom przy granicy kwalifikacji i tym, których twierdzenia faktograficzne ważą na wyniku. Granica dwóch godzin na film pozostaje przy tym **do przekroczenia za zgodą Organizatora**, ale wyłącznie wewnątrz pułapu - zgoda nie otwiera limitu.
 
 Limit zostawia nad dzisiejszym kosztorysem niecałe 97 000 zł i jest policzony, a nie wzięty z sufitu: honoraria jury za ocenę to przy wyliczeniach z arkusza 58 000 zł (pięciu jurorów po 40 godzin przy 290 zł za godzinę), etap przygotowawczy karty oceny rzędu 10 000 zł, przygotowanie techniczne zwiastunów rzędu 10 000 zł, a rezerwa obejmie je tak samo jak resztę kosztorysu.
 
@@ -178,9 +182,9 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 - **honoraria jury filmu za ocenę** - zależą od liczby członków jury i liczby filmów, które do niego trafią;
 - **honoraria jury za etap przygotowawczy** - za ustalenie karty oceny i wag kryteriów przed otwarciem naboru;
 - **przygotowanie techniczne zwiastunów do emisji galowej** - normalizacja formatu, dźwięku i napisów piątki zwiastunów, bez ingerencji w treść;
-- **obsługa prawna regulaminu filmu** - zakres wskaże konsultacja prawna; regulamin filmu jest najbardziej złożony z czterech ze względu na prawa do muzyki i warstwę licencyjną.
+Obsługa prawna regulaminu filmu **nie jest pozycją otwartą**: ma w tabeli kwotę 8 000 zł, przyjętą jako dwukrotność wyceny, którą kancelaria dała na piśmie dla zakresu plebiscytu rozmowy. Zakres szczegółowy wskaże konsultacja, bo regulamin filmu jest najbardziej złożony z czterech ze względu na prawa do muzyki i warstwę licencyjną - **ale kwota jest w kosztorysie i w limicie, nie poza nimi**.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 104 550 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu, pokazu kuratorskiego oraz magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 125 739 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu, pokazu kuratorskiego oraz magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
@@ -204,7 +208,7 @@ Archiwum zbierane jest natomiast w publiczną playlistę odsyłającą do kanał
 
 **Pula nagród i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. W plebiscycie filmowym ma to wagę większą niż gdziekolwiek indziej, bo uczestnik podejmuje na tej podstawie decyzję o produkcji filmu.
 
-Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 193 200 zł. **Praca organizatora, honorarium zespołu oceniającego uzasadnienia, magazyn kopii archiwalnych i rezerwa, czyli 103 896 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
+Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 193 200 zł. **Praca organizatora, honorarium zespołu oceniającego uzasadnienia, magazyn kopii archiwalnych i rezerwa, czyli 106 438,68 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
 
 1. **Po ogłoszeniu składu jury i akademii oraz uruchomieniu Projektorni.**
 2. **Po zamknięciu naboru oraz zakończeniu weryfikacji formalnej i weryfikacji historii zgłoszonych filmów.**
@@ -220,11 +224,15 @@ Przy 15 zgłoszeniach Fundator płaci za sprawdzenie 15 filmów, a nie za przepu
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
-Regulamin wymienia **trzy warunki, które muszą być spełnione łącznie**, żeby nabór się otworzył:
+Regulamin wymienia **pięć warunków, które muszą być spełnione łącznie** (§ 15), żeby nabór się otworzył:
 
-1. cała ogłaszana pula ma pokrycie w środkach na rachunku Organizatora;
+1. cała ogłaszana pula ma pełne pokrycie w środkach, które **wpłynęły wcześniej na rachunek** Organizatora - samo zobowiązanie nie wystarcza;
 2. co najmniej trzy osoby potwierdziły udział w jury i skład został ogłoszony;
-3. regulamin przeszedł konsultację prawną.
+3. regulamin przeszedł konsultację prawną, a klauzula informacyjna jest kompletna;
+4. **pierwsza runda oceny ma zapewnione finansowanie** w zakresie odpowiadającym przepustowości przyjętej w kosztorysie edycji;
+5. **obsługa naboru jest pokryta** w tym samym zakresie.
+
+Czwarty i piąty warunek doszły po audycie operacyjnym 1 listopada 2026 i to one odpowiadają za rzecz, którą Fundator kupuje najbardziej: że zgłoszenia zostaną obejrzane. Wyliczenie przepustowości Organizator przedstawia na żądanie sponsorowi pierwszej rundy oceny, Radzie Fundacji **oraz Fundatorowi puli nagród**, przed podpisaniem umowy.
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Fundatora** albo, według jego wyboru, przechodzi na kolejną edycję.
 
@@ -254,9 +262,9 @@ W pozostałych plebiscytach koszt wejścia jest niewielki: rozmowę się przepro
 Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **Niezależnie od tego, ilu partnerów uda się pozyskać, Fundator otrzymuje:**
 
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
-- **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu. Trzeba przy tym powiedzieć, czego ta kwota nie obejmuje: pierwsze przejście oceny wykonuje Akademia, finansowana przez osobnego sponsora, a honoraria jury są w tym kosztorysie pozycją otwartą. Nie jest to jednak ryzyko przerzucone na Fundatora. Potwierdzony i ogłoszony skład jury jest jednym z trzech warunków otwarcia naboru, więc jeżeli jury nie zostanie skompletowane, nabór się nie otwiera, a środki wracają w całości wraz z rozliczeniem. Nie gwarantujemy oceny za cudze pieniądze - gwarantujemy, że bez jury nie ruszy nabór, na który wystawiona jest pula Fundatora;
+- **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu. Trzeba przy tym powiedzieć, czego ta kwota nie obejmuje: pierwsze przejście oceny wykonuje Akademia, finansowana przez osobnego sponsora, a honoraria jury są w tym kosztorysie pozycją otwartą. Nie jest to jednak ryzyko przerzucone na Fundatora. Potwierdzony i ogłoszony skład jury jest jednym z **pięciu** warunków otwarcia naboru, więc jeżeli jury nie zostanie skompletowane, nabór się nie otwiera. **Wraca wtedy kwota niewykorzystana, a nie całość wpłaty**, i trzeba to powiedzieć w tych słowach: pula nagród nie została ruszona, więc wraca w całości, ale praca wykonana i odebrana przed tą chwilą oraz koszty zaciągnięte wobec osób trzecich są rozliczane - tak samo jak przy nieotwarciu naboru z innego powodu. Fundator kupuje zatem **zwrot środków niewydanych wraz z rozliczeniem co do pozycji**, nie zwrot bezwarunkowy. Nie gwarantujemy oceny za cudze pieniądze - gwarantujemy, że bez jury nie ruszy nabór, na który wystawiona jest pula Fundatora;
 - **Projektornię i Archiwum filmów**, czyli publicznie dostępny zestaw zakwalifikowanych zgłoszeń, oraz **kopię archiwalną każdego zgłoszonego filmu przechowywaną przez Organizatora przez pięć lat**. Publiczne odtwarzanie filmu pozostaje po stronie autora, więc jeżeli usunie go z serwisu, wpis w Archiwum zostaje bez działającego linku i Organizator to oznacza - sam film jednak nie przepada, bo kopia zostaje u Organizatora i z niej odbywa się pokaz kuratorski;
-- **pokaz kuratorski filmów finałowych** w postaci gwarantowanej: jeden seans blokowy z wyboru dziesiątki w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami, których przejazd i nocleg pokrywa ta oferta.
+- **pokaz kuratorski filmów finałowych** w postaci gwarantowanej: jeden seans blokowy z wyboru dziesiątki w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami, których przejazd i nocleg pokrywa ta oferta. **a co w nim nie jest po naszej stronie**: posiadanie kopii archiwalnej nie daje prawa do publicznego wyświetlenia, więc zgoda na projekcję jest osobna i dobrowolna. **Wystąpienie o nią do dziesiątki finalistów jest naszym obowiązkiem**, a gwarancja obejmuje seans **z filmów, których autorzy zgody udzielą**, nie z wszystkich dziesięciu. Jeżeli zgody udzieli mniej niż trzech autorów, pokaz nie odbywa się i **kwota 12 000 zł wraca do Fundatora** zamiast być wydana na seans, którego nie da się obronić programowo.
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
@@ -268,6 +276,7 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 2. **zestaw dziesiątki nie trafia do żadnego dystrybutora** mimo przeprowadzonych rozmów;
 3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
 4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
+5. **poziom nagrodzonych filmów nie odpowiada temu, czego Fundator chciałby firmować** - i to jest zdarzenie dopisane po uwadze, że cztery poprzednie chronią wykonanie procedury, nie wartość rezultatu. Fundator ocenia to **sam i bez uzasadniania**, w ciągu 30 dni od publicznego ogłoszenia werdyktu, a skutkiem jest wycofanie nazwy na zasadach jak wyżej. **Nie jest to podstawa do żądania zwrotu**: nagrody są wtedy wypłacone, praca wykonana, a filmów nikt nie obiecywał dobrych - obiecane było ich uczciwe ocenienie. **Prawo do wycofania nazwy jest więc jedynym zabezpieczeniem jakości rezultatu i trzeba powiedzieć wprost, że nie zwraca ani pieniędzy, ani wcześniejszego skojarzenia marki** - ogranicza dalsze używanie nazwy od dnia oświadczenia.
 
 Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 
@@ -283,10 +292,10 @@ Poza tytułem:
 - **Wymienienie przy każdej wzmiance o puli nagród plebiscytu** w materiałach Organizatora.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
 - **Udział pracowników Fundatora** w akademii filmu, na tych samych zasadach co pozostali widzowie, oraz spotkanie zespołu z finalistami.
-- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
+- **Wyłączność w kategorii, ograniczona do ról finansujących**: przez całą edycję żadna firma z branży Fundatora nie obejmie roli, która wnosi pieniądze. **Partnerstwa niepieniężne są z wyłączności wyłączone** - emisja, dystrybucja i patronat medialny - bo Nagroda zabiega o partnera telewizyjnego i platformę, a pełna wyłączność dla operatora telewizji z własną platformą **zablokowałaby właśnie te role**. W zamian Fundator ma **prawo pierwszej odmowy**: zanim zaproponujemy takie partnerstwo firmie z jego branży, pytamy jego, czy nie chce go objąć sam.
 - **Pierwszeństwo przy drugiej edycji**: 60 dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
-**Rozliczenie:** w ciągu 60 dni od ogłoszenia wyników Fundator otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy, rozliczeniem godzin i listą wypłaconych nagród.
+**Rozliczenie w dwóch krokach, bo pokaz wypada po sprawozdaniu.** W ciągu 60 dni od ogłoszenia wyników Fundator otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy, rozliczeniem godzin i listą wypłaconych nagród. **Pokaz kuratorski rozliczany jest osobno**: odbywa się w ciągu trzech miesięcy po gali, a jego rozliczenie wraz z fakturami kina, rachunkami przejazdów i potwierdzeniem zgod autorskich Fundator dostaje **w ciągu 30 dni po pokazie**. Jeżeli pokaz się nie odbywa, w tym samym terminie wraca kwota na niego przeznaczona.
 
 ## <!--ikona:zasady--><span>Czego oferta nie obejmuje</span>
 
@@ -317,7 +326,7 @@ Fundator nie nabywa praw do zgłoszonych filmów. Prawa zostają w całości prz
 
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
-<div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu trzech warunków regulaminowych; od tego dnia Projektornia rośnie o każde zgłoszenie, które przeszło weryfikację formalną</small></dd></div>
+<div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu pięciu warunków regulaminowych z § 15; od tego dnia Projektornia rośnie o każde zgłoszenie, które przeszło weryfikację formalną</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia; w dniu zamknięcia zapisywana jest metryka każdego zgłoszenia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu i przekazuje jury nie więcej niż 20 filmów</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>trwa do godziny 12:00 w dniu gali; liczniki i uzasadnienia są ukryte do gali</small></dd></div>
@@ -353,14 +362,15 @@ Nagrody, medal, dyplomy, honoraria jury i pozycje zewnętrzne wchodzą do budże
 
 ## <!--ikona:dokument--><span>Co Fundator dostaje przed jakimkolwiek zobowiązaniem</span>
 
-Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Cztery dokumenty idą do Fundatora **przed umową przedwstępną**, czyli zanim cokolwiek podpisze i zanim weźmie na siebie jakiekolwiek zobowiązanie:
+Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Pięć dokumentów idzie do Fundatora **przed umową przedwstępną**, czyli zanim cokolwiek podpisze i zanim weźmie na siebie jakiekolwiek zobowiązanie:
 
 1. **Projekt umowy właściwej** w ostatecznym brzmieniu, wraz z zapisami o trzech transzach, odbiorze etapów, progu zgłoszeń i klauzuli rozliczenia, opisanymi wyżej.
 2. **Rozpis 367,5 godziny na zakresy i miesiące**, po którym widać, co znaczy „odebrany etap", bez znajomości organizacji plebiscytu.
-3. **Wycena czterech pozycji otwartych** - honorariów jury za ocenę i za etap przygotowawczy, przygotowania technicznego zwiastunów oraz obsługi prawnej regulaminu - czyli dokładnie tych czterech, które w kosztorysie stoją jako „do ustalenia", w postaci kalkulacji z wariantami, nie kwoty wpisanej z góry.
-4. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
+3. **Wycena trzech pozycji otwartych** - honorariów jury za ocenę i za etap przygotowawczy oraz przygotowania technicznego zwiastunów - czyli dokładnie tych czterech, które w kosztorysie stoją jako „do ustalenia", w postaci kalkulacji z wariantami, nie kwoty wpisanej z góry.
+4. **Wyniki rozpoznania zainteresowania twórców** - i to jest pozycja dopisana jako najważniejsza, bo dotyczy założenia, którego ta oferta dotychczas nie sprawdzała. Pięćdziesiąt godzin przyszłego dotarcia do szkół i środowisk nie zastępuje odpowiedzi na pytanie, **czy ktoś konkretny chce w tę konstrukcję wejść**. Przed umową przedwstępną Fundator dostaje więc zapis rozmów z co najmniej **dwudziestoma adresatami** - szkołami filmowymi, kołami, producentami i autorami - z czterema rzeczami przy każdym: kto rozważa udział, z jakim projektem, przy jakim koszcie produkcji i **co go powstrzymuje**. Zapis obejmuje także odmowy i ich powody, bo one mówią więcej niż zgody. **Jeżeli z tego rozpoznania wyjdzie, że filmów nie będzie, powiemy to Fundatorowi przed umową, a nie po naborze.**
+5. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 
-Wszystkie cztery przygotowujemy na prośbę, bez zobowiązania po stronie Fundatora i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, rozpis godzin i wycena pozycji otwartych stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Fundator jeszcze nie widział.
+Wszystkie pięć przygotowujemy na prośbę, bez zobowiązania po stronie Fundatora i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, rozpis godzin i wycena pozycji otwartych stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Fundator jeszcze nie widział.
 
 Dokumenty, o które może zapytać dział prawny, są jawne:
 
