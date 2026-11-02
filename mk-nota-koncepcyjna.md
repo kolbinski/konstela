@@ -275,7 +275,7 @@ Nagroda premiuje świadome korzystanie z tych narzędzi, nie powstrzymywanie si�
 
 ### Kryteria oceny
 
-Cztery kryteria, łącznie 100 punktów, te same dla akademii i dla jury. Punktacja poniżej jest propozycją organizatora. **Ostateczny kształt kryteriów, wag punktowych oraz opisów przedziałów ocen wraz z przykładami ich zastosowania powstanie z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostaje niezmienny do rozstrzygnięcia edycji.
+Cztery kryteria, łącznie 100 punktów, te same dla akademii i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła niezależną recenzję zawodową. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji**, a do tego dnia może zostać zmieniona na wniosek jury. Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis.
 
 1.  **Ujęcie tematu** - maksymalnie 20 punktów. Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją: czy za emocją kryje się konkretna obserwacja albo przekonująca historia, czy gotowy schemat.
 2.  **Tekst** - maksymalnie 30 punktów. Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
@@ -361,12 +361,12 @@ Format jest pionowy, dłuższy bok od 50 do 150 cm. Wszystkie zgłoszenia ogląd
 
 ### Kryteria oceny
 
-Cztery kryteria, łącznie 100 punktów, te same dla akademii i dla jury. Punktacja poniżej jest propozycją organizatora. **Ostateczny kształt kryteriów, wag punktowych oraz opisów przedziałów ocen wraz z przykładami ich zastosowania powstanie z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostaje niezmienny do rozstrzygnięcia edycji.
+Cztery kryteria, łącznie 100 punktów, te same dla akademii i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła niezależną recenzję zawodową. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji**, a do tego dnia może zostać zmieniona na wniosek jury. Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis.
 
 1.  **Ujęcie tematu** - maksymalnie 30 punktów. Co praca mówi o życiu ze sztuczną inteligencją: trafność, oryginalność i pogłębienie wypowiedzi.
 2.  **Pomysł plastyczny** - maksymalnie 30 punktów. Przełożenie wypowiedzi na obraz, metaforę i relacje między elementami. Niżej punktowane jest banalne użycie motywu, a nie sam motyw: znany symbol użyty świeżo punktuje wysoko.
 3.  **Wykonanie** - maksymalnie 20 punktów. Świadome zastosowanie techniki, koloru i rysunku.
-4.  **Działanie plakatu** - maksymalnie 20 punktów. Hierarchia, czytelność i skuteczność przekazu.
+4.  **Działanie plakatu** - maksymalnie 20 punktów. Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, sprawdzane na pomniejszeniu pracy. **To jedyne kryterium objęte progiem**: praca, której wynik nie sięga progu ogłaszanego przed naborem i nie niższego niż 12 punktów, nie wchodzi do dziesiątki finalistów ani nie może zostać nagrodzona, bo jest to plebiscyt na plakat.
 
 ### Obraz ma powstać pod ludzką ręką
 
@@ -465,12 +465,13 @@ Otwarty plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**, w 
 
 ### Kryteria oceny
 
-Cztery kryteria, łącznie 100 punktów, te same dla akademii filmu i dla jury. Punktacja poniżej jest propozycją organizatora. **Ostateczny kształt kryteriów, wag punktowych oraz opisów przedziałów ocen wraz z przykładami ich zastosowania powstanie z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostaje niezmienny do rozstrzygnięcia edycji. Opisy kryteriów uwzględnią przy tym różnice między dokumentem, fabułą, animacją i esejem filmowym.
+Trzy kryteria punktowane dodatnio, łącznie 100 punktów, te same dla akademii filmu i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła niezależną recenzję zawodową. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji**, a do tego dnia może zostać zmieniona na wniosek jury. Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis. Opisy kryteriów uwzględnią przy tym różnice między dokumentem, fabułą, animacją i esejem filmowym.
 
-1.  **Teza** - maksymalnie 30 punktów. Co film mówi o sztucznej inteligencji i jej roli w świecie. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat: rzecz znana pokazana świeżo punktuje wysoko.
-2.  **Forma** - maksymalnie 30 punktów. Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza.
-3.  **Rzetelność** - maksymalnie 20 punktów. Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii. W filmie fabularnym i animowanym oceniane jest wyłącznie to, czy świat przedstawiony daje się odróżnić od twierdzeń o rzeczywistości.
-4.  **Siła oddziaływania** - maksymalnie 20 punktów. Czy film pozostawia wyraźną myśl, obraz albo emocję, którą widz potrafi po obejrzeniu nazwać.
+1.  **Teza** - maksymalnie 35 punktów. Co film mówi o sztucznej inteligencji i jej roli w świecie. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat.
+2.  **Forma** - maksymalnie 35 punktów. Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza.
+3.  **Siła oddziaływania** - maksymalnie 30 punktów. Jak film ustanawia i prowadzi stawkę doświadczenia: napięcie, relację z postacią, konflikt, komizm albo inną organizację emocjonalną. Odkrywczość poznawcza oceniana jest w kryterium Teza i tutaj punktów nie daje.
+
+**Rzetelność twierdzeń przedstawianych widzowi jako fakty o technologii nie jest kryterium punktowanym dodatnio, lecz podstawą potrąceń** do 20 punktów od wyniku łącznego. Pula dodatnia nagradzała brak zadania: film, który o technologii nic nie twierdzi, otrzymywałby maksimum bez wykonania czegokolwiek, a dokument podejmujący twierdzenia sprawdzalne miałby dodatkowe okazje do straty punktów. Potrącenie wymaga wskazania twierdzenia, znacznika czasu i podstawy uznania go za nierzetelne. Sam zabieg fikcyjny uchybieniem nie jest, a dokument animowany odpowiada za swoje twierdzenia tak samo jak zdjęciowy.
 
 ### Zgłoszenie
 

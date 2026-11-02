@@ -34,6 +34,19 @@ Ocena idzie według 4 kryteriów o jawnych wagach, w sumie do 100 punktów:
 
 **Jakości produkcji, okładki, zasięgów ani wcześniejszego dorobku nie oceniamy w żadnym kryterium.** [Karta oceny](/dokument/regulamin-piosenki#karta-oceny) jest jawna przed naborem i taka sama dla wszystkich oceniających.
 
+### Czym to jest sprawdzone, a czym jeszcze nie
+
+Karta oceny nie jest zapowiedzią. **Jest napisana, opublikowana i opisuje każde pasmo punktowe**, a nad pasmami stoją reguły rozstrzygające, co wolno przyjąć za dowód oceny: że punkt odniesienia jest w utworze, a nie we wrażeniu; że pozycję w paśmie wyznacza waga i konsekwencja, nie liczba miejsc; że przewidywanie przyszłej popularności nie podlega ocenie w żadnym kryterium.
+
+**Karta przeszła osiem tur niezależnej recenzji** przeprowadzonej przez praktyka zasiadającego w jury konkursów muzycznych, który dostał zadanie rozłożenia jej na części. Pierwszy werdykt był odmowny: rozrzut ocen między dwiema uważnymi osobami oszacował na 18-25 punktów na sto i wskazał, że trzy najwyższe pasma Muzyki opisywały trzy różne właściwości ustawione jak stopnie jednej. Po przebudowie zmieniły się wagi kryteriów, pasma wszystkich czterech zostały przepisane, a z karty wypadły wszystkie miejsca, w których jeden sposób osiągnięcia jakości stał jako warunek - obowiązkowy rozwój materiału, obowiązkowy komentarz muzyczny, wymóg kondensacji w tekście i test porównania z wykonaniami, których nie ma. **Po ósmej turze recenzent nie zgłasza już uwag do tekstu karty.**
+
+**Czego to nie dowodzi.** Recenzent nie potwierdził zgodności ocen i wprost odmówił jej deklarowania bez wyniku próby. To znaczy: wiemy, że karta nie zawiera sprzeczności, których dałoby się dowieść przy biurku, i nie wiemy jeszcze, czy trzy osoby zastosują ją podobnie do tych samych utworów.
+
+**Co to sprawdzi.** Próba na pięciu zróżnicowanych demach, ocenionych niezależnie, bez wcześniejszej narady, z uzasadnieniem przy każdym kryterium. Porównujemy osobno sumy i osobno kryteria, bo zgodne sumy mogą ukrywać przeciwstawne oceny - 68 punktów od dwóch osób, z których jedna widzi wysoką Muzykę i niski Tekst, a druga odwrotnie, pokazuje zgodność, której nie ma. Granicą, którą chcemy utrzymać, jest **15 punktów na sto** między dwiema uważnymi osobami; przy większym rozrzucie wracamy do karty, nie do oceniających. Wynik próby przedstawimy przed otwarciem naboru, razem z rozrzutem i wnioskami - także jeżeli będzie niekorzystny.
+
+Mówimy o tym w ofercie, bo sponsor nagrody w plebiscycie kupuje wiarygodność werdyktu, a nie samą pulę. **Werdykt, którego nie da się obronić, jest kosztem dla tego, kto go sfinansował** - dlatego punktacja wszystkich etapów jest jawna przy każdym zgłoszeniu, także przy nienagrodzonych, a każda ocena wymaga wskazania miejsca w utworze.
+
+
 ### Melodia i głos są ludzkie, przy tekście wolno posiłkować się AI
 
 Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a partia wokalna musi być w całości ludzka, bez wyjątków. Tekst wolno napisać z udziałem sztucznej inteligencji, trzeba tylko w zgłoszeniu opisać, jak powstał; deklaracja jest publikowana razem ze zgłoszeniem i **nie wpływa na ocenę**. To jest zdanie, które Fundator może powtórzyć na zarządzie: plebiscyt nie jest konkursem dla generatorów, a jednocześnie nie udaje, że nikt z AI nie pracuje.

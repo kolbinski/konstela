@@ -89,11 +89,11 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 </article>
 <article>
 <h3>III. Weryfikacja – od 0 do 25 punktów</h3>
-<p>Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności?</p>
+<p>Czy sprawdzasz, prostujesz i wyłapujesz zmyślenia oraz niespójności? <strong>Nie chodzi o żądanie źródła do wszystkiego</strong>: dla założenia, definicji albo kroku rozumowania właściwym sprawdzeniem jest kontrprzykład, przejście kolejnych kroków albo wskazanie warunku, przy którym przesłanka przestaje obowiązywać – i to punktuje tak samo jak źródło tam, gdzie źródło jest potrzebne.</p>
 </article>
 <article>
 <h3>IV. Plon – od 0 do 25 punktów</h3>
-<p>Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd.</p>
+<p>Co z tej rozmowy zostało? Nazwana idea, rozwiązany problem, odnaleziona książka, powstały tekst, zmieniony pogląd. <strong>Problem, który został otwarty, też się liczy</strong>, jeżeli z rozmowy widać, które możliwości sprawdziłeś i co blokuje rozstrzygnięcie – rozpoznanie, dlaczego czegoś nie da się rozstrzygnąć, bywa większym przyrostem niż odpowiedź. <strong>Pokaż, co wiedziałeś na wejściu</strong>: jeżeli zapis tego nie ujawnia, Plon oceniamy najwyżej na 15 punktów, bo nie da się pokazać różnicy między stanem przed rozmową i po niej – a oceniający nie odgaduje Twojej wcześniejszej wiedzy i nie pyta o nią.</p>
 </article>
 </div>
 

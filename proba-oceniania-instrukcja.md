@@ -19,6 +19,19 @@ Dziękuję za zgodę na udział. To jest przedbieg konkursu, nie konkurs: ocenia
 
 Pełne pasma punktowe dla każdego kryterium są w karcie oceny: <https://konstela.org/dokument/regulamin-rozmowy#karta-oceny>. Pasma są punktem odniesienia, nie automatem.
 
+## Sześć zasad, które rozstrzygają to, czego opis pasma nie rozstrzyga
+
+Te zasady stoją w karcie nad pasmami i w próbie liczą się tak samo jak opisy pasm. Jeżeli któraś wyda Ci się niejasna albo nie do zastosowania, **zapisz to** - to jest dokładnie ten rodzaj informacji, po który robimy próbę.
+
+1. **Punkt odniesienia: uważny czytelnik zapisu, bez wiedzy dziedzinowej.** Jeżeli rozstrzygnięcie pasma wymaga wiedzy, którą masz, a inny oceniający mieć nie musi, pasmo nie jest spełnione: uzasadnienie musi stać w rozmowie.
+2. **Sprawstwo: od 11 punktów w górę czynność oceniana w danym kryterium musi dać się przypisać Uczestnikowi.** Samo zamówienie czynności nie wystarcza; wystarcza wskazywalny wkład w treść rozumowania. Wskazujesz **parę**: wkład i miejsce jego wykorzystania. Nie badasz, czy model sam by na to wpadł.
+3. **Punktowanie wewnątrz pasma.** O wejściu rozstrzyga spełnienie warunku, o pozycji - siła i konsekwencja spełnienia, **nie liczba miejsc**. Jedno zakwestionowanie, które przestawiło tok rozmowy, daje więcej niż pięć drobnych.
+4. **Niewidoczny stan początkowy.** Jeżeli zapis nie ujawnia, co Uczestnik wiedział na wejściu, **Plon oceniasz najwyżej na 15 punktów** i nie odgadujesz jego wcześniejszej wiedzy.
+5. **Pasma są kumulatywne co do wymagań jakościowych, nie opisów.** W górę przenoszą się trzy rzeczy: ugruntowanie oceny w zapisie, następstwo czynności Uczestnika i rozróżnienie statusu twierdzeń. **Zachowania wymienione w pasmach niższych nie są warunkami pasm wyższych**: rozmowa, która nie miała powodu wracać do porzuconego wątku, nie traci przez to wysokiego pasma.
+6. **Karta mierzy zapis, nie szczerość przeżycia.** Jeżeli podejrzewasz, że odkrycie zostało odegrane, **zapisz to osobno, a nie obniżaj punktów** - to inna ścieżka.
+
+Dwie rzeczy, które w karcie zmieniły się po recenzjach i warto je znać wprost. **Weryfikacja nie wymaga źródła do wszystkiego**: dla założenia, definicji, danych podanych przez Uczestnika i przesłanki wyprowadzonej w rozmowie właściwym uzasadnieniem jest rozumowanie - kontrprzykład, przejście kroków, wskazanie warunku granicznego. **Plon obejmuje wykazaną nierozstrzygalność**: jeżeli rozmowa pokazuje, dlaczego problem zostaje otwarty, i widać, co sprawdzono, to jest plon, a nie jego brak.
+
 **Test czytelności przed punktowaniem.** Jeżeli po przeczytaniu nie potrafisz jednym zdaniem powiedzieć, do czego ten człowiek doszedł, to jest informacja sama w sobie - zanotuj ją w uwagach.
 
 ## Jak wypełnić arkusz

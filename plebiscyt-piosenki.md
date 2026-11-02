@@ -112,7 +112,7 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Muzyka – od 0 do 35 punktów</h3>
-<p>Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materiału. <strong>Muzyka ma najwyższą wagę</strong>, bo to plebiscyt na piosenkę, a nie na wypowiedź o AI z muzyką w tle. Melorecytacja i rap nie są brakiem melodii.</p>
+<p>Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materiału. <strong>Muzyka ma najwyższą wagę</strong>, bo to plebiscyt na piosenkę, a nie na wypowiedź o AI z muzyką w tle. Melorecytacja i rap nie są brakiem melodii. <strong>Pomysł kompozytorski może tkwić w materiale albo w konstrukcji</strong> – utwór ze znanych środków, ale o własnych proporcjach, rozmieszczeniu powrotów i gospodarowaniu napięciem punktuje wysoko. Celowa stałość – niezmienny motyw, groove, uporczywy nawrót tej samej frazy – jest równoważna przekształcaniu motywu i nie jest brakiem rozwoju.</p>
 </article>
 <article>
 <h3>Ujęcie tematu – od 0 do 20 punktów</h3>
@@ -120,11 +120,11 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 </article>
 <article>
 <h3>Tekst – od 0 do 30 punktów</h3>
-<p>Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką. Samodzielność literacka nie jest warunkiem – tekst może osiągać pełną wartość właśnie w śpiewaniu.</p>
+<p>Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką. Samodzielność literacka nie jest warunkiem – tekst może osiągać pełną wartość właśnie w śpiewaniu. <strong>Miarą jest celność języka, nie jego zwięzłość</strong>: potok mowy, niezręczne powtórzenie bohatera albo zwrot obiegowy umieszczony w działającym kontekście punktują tak samo jak kondensacja.</p>
 </article>
 <article>
 <h3>Wykonanie – od 0 do 15 punktów</h3>
-<p>Decyzje interpretacyjne słyszalne w czytelnym demie. Jakość produkcji nie wpływa na punktację w żadnym kryterium, a oceniamy to, co słychać, nie wiedzę ani szczerość wykonawcy.</p>
+<p>Decyzje interpretacyjne słyszalne w czytelnym demie. Jakość produkcji nie wpływa na punktację w żadnym kryterium, a oceniamy to, co słychać, nie wiedzę ani szczerość wykonawcy. <strong>Dodanie znaczenia nie jest warunkiem najwyższej oceny</strong>: wykonanie, które ujawnia i urzeczywistnia sens już zawarty w piosence, punktuje tak samo jak dopisujące sens nowy, a interpretacja powściągliwa tak samo jak wyrazista.</p>
 </article>
 </div>
 

@@ -50,20 +50,20 @@ Nie wszystkie zgłoszenia piosenek w plebiscycie. **Wstępną ocenę zgłoszonyc
 
 ### Jak jury ocenia zgłoszone piosenki
 
-Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
+Według [karty oceny](/dokument/regulamin-piosenki#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. **Karta jest napisana i opublikowana**, wraz z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; przeszła też osiem tur niezależnej recenzji zawodowej, po której recenzent nie zgłasza już uwag do jej tekstu. Cztery kryteria, łącznie 100 punktów:
 
-- **ujęcie tematu** – maksymalnie 25 punktów<small>Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat.</small>
-- **tekst** – maksymalnie 30 punktów<small>Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.</small>
-- **muzyka** – maksymalnie 25 punktów<small>Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w pamięci.</small>
-- **wykonanie** – maksymalnie 20 punktów<small>Wokal i interpretacja.</small>
+- **muzyka** – maksymalnie 35 punktów<small>Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz prowadzenie materiału. Pomysł kompozytorski może tkwić w samym materiale albo w konstrukcji, a celowa stałość - niezmienny motyw, groove, uporczywy nawrót frazy - jest równoważna przekształcaniu motywu.</small>
+- **tekst** – maksymalnie 30 punktów<small>Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką. Miarą jest celność języka, nie jego zwięzłość: potok mowy albo zwrot obiegowy w działającym kontekście punktują tak samo jak kondensacja.</small>
+- **ujęcie tematu** – maksymalnie 20 punktów<small>Co utwór mówi o życiu ze sztuczną inteligencją. Utwór nie musi stawiać tezy; najwyższe pasmo wymaga, by perspektywa współtworzyła konstrukcję utworu, a nie tylko towarzyszyła mu od początku do końca.</small>
+- **wykonanie** – maksymalnie 15 punktów<small>Decyzje interpretacyjne słyszalne w czytelnym demie. Oceniana jest trafność, kontrola i siła tych decyzji; **dodanie znaczenia nie jest warunkiem najwyższego pasma** - wykonanie ujawniające sens już zawarty w kompozycji spełnia je tak samo.</small>
 
-Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykłady ich zastosowania – pomagają one porównywać oceny i uzasadniać werdykt, pozostawiając miejsce na niezależny osąd artystyczny.
+Czego karcie brakuje: **przykładów zastosowania pasm na konkretnych pracach**. Opisy pasm rozstrzygają, co oceniamy i czego nie wolno przyjąć za dowód, ale różnicy między sąsiednimi liczbami w obrębie pasma żadne zdanie nie wyznaczy - to robi się na pracach, wspólnie. Karta zostawia przy tym miejsce na niezależny osąd artystyczny i **nie wymaga jednakowych liczb**: różnica wynikająca z odmiennej oceny tych samych rozwiązań jest uprawniona, a naprawę wymaga tylko różnica wynikająca z odmiennego rozumienia warunku.
 
 ### Ile to czasu
 
 Realnie: **kilkanaście godzin pracy wymagającej skupienia na przełomie stycznia i lutego 2028**, plus obrady i udział w gali w drugiej połowie czerwca 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest opracowanie ostatecznych kryteriów, wag punktowych i opisów przedziałów ocen oraz przykładów ich zastosowania.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury opracowuje standard oceny, a organizator odpowiada za jego zgodność z zasadami plebiscytu i za warunki stosowania**; dzisiejsze propozycje kryteriów są punktem wyjścia do tej pracy.
+**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest kalibracja karty: wspólne omówienie przykładowych prac z rozpisaną punktacją i uzgodnienie, jak stosować pasma.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury rozstrzyga o stosowaniu standardu oceny, a organizator odpowiada za jego tekst, zgodność z zasadami plebiscytu i warunki stosowania**. Karta jest napisana i zamknięta redakcyjnie, ale **do dnia otwarcia naboru może się jeszcze zmienić na wniosek jury** - po tym dniu nie zmienia się wcale, bo Uczestnicy zgłaszają prace, znając jej treść.
 
 Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 

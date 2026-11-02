@@ -52,14 +52,14 @@ Organizator prowadzi wtedy postępowanie wyjaśniające, pisemnie wskazuje podst
 
 ### Jak jury ocenia zgłoszone rozmowy
 
-Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. Cztery kryteria o równej wadze, łącznie 100 punktów – **poniższy podział jest propozycją do omówienia z jury**, a ostateczne kryteria i wagi ogłaszamy przed otwarciem naboru:
+Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla akademii i dla jury, jawnej od dnia ogłoszenia naboru i niezmiennej po jego otwarciu. **Karta jest napisana i opublikowana**, wraz z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; przeszła też pięć tur niezależnej recenzji zawodowej, po której recenzent nie zgłasza już uwag do jej tekstu. Cztery kryteria o równej wadze, łącznie 100 punktów:
 
 - **rozpiętość** – maksymalnie 25 punktów<small>Jak nieoczywiste i jak uzasadnione jest połączenie między zagadnieniami wypracowane w toku rozmowy. Oceniana jest trudność połączenia, a nie odległość między nazwami dziedzin; połączenie efektowne, lecz nieuzasadnione, nie jest punktowane.</small>
 - **drążenie** – maksymalnie 25 punktów<small>Czy autor dopytuje, kwestionuje, wraca do porzuconych wątków i nie poprzestaje na pierwszej odpowiedzi; czy późniejsze pytania wynikają z wcześniejszych odpowiedzi.</small>
 - **weryfikacja** – maksymalnie 25 punktów<small>Czy autor panuje nad rzetelnością rozmowy: sprawdza twierdzenia wymagające sprawdzenia, żąda uzasadnienia interpretacji, oznacza hipotezy jako niepewne i doprowadza wątpliwe wątki do rozstrzygnięcia. Oceniana jest kontrola jakości, a nie liczba wykrytych błędów.</small>
 - **plon** – maksymalnie 25 punktów<small>Co z rozmowy zostało: nazwana idea, rozwiązany problem, odnalezione źródło, powstały tekst, zmieniona decyzja lub pogląd. Połączenie, którego nie da się nazwać, nie jest punktowane.</small>
 
-Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykłady ich zastosowania. Dwie zasady warto znać z góry: **oceniany jest wyłącznie dialog, a nie wytwory powstałe przy okazji** – dokumenty, kod, obrazy – oraz **rozmowy z nieudanymi pytaniami i porzuconymi wątkami nie są z tego powodu oceniane niżej**, bo pokazują rzeczywisty przebieg pracy.
+Czego karcie brakuje: **przykładów zastosowania pasm na konkretnych rozmowach**. Opisy pasm i sześć zasad dowodowych rozstrzygają, co oceniamy i czego nie wolno przyjąć za dowód, ale różnicy między sąsiednimi liczbami w obrębie pasma żadne zdanie nie wyznaczy - to robi się na rozmowach, wspólnie. Dwie zasady warto znać z góry: **oceniany jest wyłącznie dialog, a nie wytwory powstałe przy okazji** – dokumenty, kod, obrazy – oraz **rozmowy z nieudanymi pytaniami i porzuconymi wątkami nie są z tego powodu oceniane niżej**, bo pokazują rzeczywisty przebieg pracy.
 
 ### Dodatkowy warunek dopuszczenia do nagrody
 
@@ -73,7 +73,7 @@ Zastosowanie warunku wymaga zgodnej opinii co najmniej dwóch członków jury i 
 
 Nakład pracy zależy od długości zgłoszonych rozmów, dlatego do umowy wpisujemy nie tylko ich liczbę, ale i **łączną objętość**, a obok niej czas na punktację, sprawdzenie źródeł, uzasadnienia i obrady. Jury pracuje w **styczniu i lutym 2028**, rozmowy weryfikacyjne odbędą się w pierwszej połowie lutego, a udział w gali przypada na drugą połowę czerwca 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest opracowanie ostatecznych kryteriów, wag punktowych i opisów przedziałów ocen oraz przykładów ich zastosowania.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury opracowuje standard oceny, a organizator odpowiada za jego zgodność z zasadami plebiscytu i za warunki stosowania**; dzisiejsze propozycje kryteriów są punktem wyjścia do tej pracy.
+**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest kalibracja karty: wspólne omówienie przykładowych prac z rozpisaną punktacją i uzgodnienie, jak stosować pasma.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury rozstrzyga o stosowaniu standardu oceny, a organizator odpowiada za jego tekst, zgodność z zasadami plebiscytu i warunki stosowania**. Karta jest napisana i zamknięta redakcyjnie, ale **do dnia otwarcia naboru może się jeszcze zmienić na wniosek jury** - po tym dniu nie zmienia się wcale, bo Uczestnicy zgłaszają prace, znając jej treść.
 
 Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
