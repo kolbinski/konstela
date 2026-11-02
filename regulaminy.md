@@ -7,7 +7,7 @@ Wszystkie cztery dokumenty czekają jeszcze na przegląd prawny, więc część 
 ## <!--ikona:dokument--><span>Cztery regulaminy</span>
 
 **[Regulamin plebiscytu na najlepszą rozmowę ze sztuczną inteligencją](/dokument/regulamin-rozmowy)**
-Nagroda główna i dziesiątka antologii. Zgłoszeniem jest link do rozmowy, oceniane są pytania, a nie odpowiedzi. Zawiera kartę oceny jako załącznik oraz zasady Czytelni i Archiwum.
+Nagroda główna i dziesiątka Antologii. Zgłoszeniem jest link do rozmowy, oceniane są pytania, a nie odpowiedzi. Zawiera kartę oceny jako załącznik oraz zasady Czytelni i Archiwum.
 
 **[Regulamin plebiscytu na film o sztucznej inteligencji](/dokument/regulamin-filmu)**
 Film od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Jedyny regulamin bez zakazu użycia narzędzi sztucznej inteligencji – z obowiązkiem deklaracji, co zrobiły.

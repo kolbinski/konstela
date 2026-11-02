@@ -1,10 +1,10 @@
-# Oferta dla Partnera wydawniczego antologii Nagrody Konstela
+# Oferta dla Partnera wydawniczego Antologii Nagrody Konstela
 
 <p class="edition">Edycja pierwsza &middot; 2027</p>
 
 ## <!--ikona:ksiazka--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy wydawcy, który wyda antologię pierwszej edycji nakładem własnym, na swój koszt i swoje ryzyko.** To nie jest prośba o pieniądze dla fundacji ani propozycja publikacji zleconej: fundacja udziela licencji i otrzymuje honorarium od sprzedaży, a wydawca robi to, co umie - skład, druk, dystrybucję i sprzedaż.
+**Szukamy wydawcy, który wyda Antologię pierwszej edycji nakładem własnym, na swój koszt i swoje ryzyko.** To nie jest prośba o pieniądze dla fundacji ani propozycja publikacji zleconej: fundacja udziela licencji i otrzymuje honorarium od sprzedaży, a wydawca robi to, co umie - skład, druk, dystrybucję i sprzedaż.
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -43,7 +43,7 @@ Nigdy treści.
 
 ## <!--ikona:dokument--><span>Rozmowy, które już się toczą</span>
 
-**Wydawnictwo Universitas podpisało 30 października 2026 roku list intencyjny w sprawie antologii** - [pełny skan pisma](https://konstela.org/attachments/universitas-list-intencyjny.pdf), podpisany przez dyrektora dr. Andrzeja Nowakowskiego. Mówimy o tym w pierwszej kolejności, bo wydawca ma prawo wiedzieć, z kim jeszcze rozmawiamy, zanim zacznie czytać propozycję.
+**Wydawnictwo Universitas podpisało 30 października 2026 roku list intencyjny w sprawie Antologii** - [pełny skan pisma](https://konstela.org/attachments/universitas-list-intencyjny.pdf), podpisany przez dyrektora dr. Andrzeja Nowakowskiego. Mówimy o tym w pierwszej kolejności, bo wydawca ma prawo wiedzieć, z kim jeszcze rozmawiamy, zanim zacznie czytać propozycję.
 
 Co ten list mówi: tematyka mieści się w obszarze zainteresowań wydawniczych Universitas, a wydawnictwo deklaruje gotowość rozważenia wydania tomu po otrzymaniu i ocenie kompletnego materiału. Co mówi równie wyraźnie: **nie przesądza decyzji wydawniczej, nie jest umową ani przyrzeczeniem jej zawarcia, a ewentualne wydanie może zależeć od pozyskania dofinansowania, do którego wydawnictwo się nie zobowiązuje.** Powtarzamy te zastrzeżenia dokładnie w granicach, jakie list sam sobie wyznacza, i nie przedstawiamy go jako czegokolwiek więcej. Sam list zresztą pozwala posługiwać się nim w całości wobec partnerów i fundatorów, wyłącznie dla przedstawienia wstępnego zainteresowania - dlatego publikujemy go w całości, zamiast cytować fragmenty.
 
@@ -72,9 +72,9 @@ Prawo do bezpłatnego udostępniania wydania elektronicznego na stronie Nagrody 
 
 Fundacja jeszcze nie istnieje: wpis do KRS ma nastąpić przed otwarciem naboru, 1 stycznia 2027. Umowa wydawnicza i tak podpisywana byłaby znacznie później, bo maszynopis powstaje w 2028 roku - dziś prosimy wyłącznie o decyzję kierunkową.
 
-Czego nie obiecujemy: nakładu, sprzedaży ani miejsca w planie wydawniczym kolejnych lat. Nie obiecujemy też, ile rozmów wpłynie - regulamin plebiscytu przewiduje, że przy mniej niż dwunastu zgłoszeniach spełniających wymogi edycja nie zostaje rozstrzygnięta, a wtedy nie ma antologii.
+Czego nie obiecujemy: nakładu, sprzedaży ani miejsca w planie wydawniczym kolejnych lat. Nie obiecujemy też, ile rozmów wpłynie - regulamin plebiscytu przewiduje, że przy mniej niż dwunastu zgłoszeniach spełniających wymogi edycja nie zostaje rozstrzygnięta, a wtedy nie ma Antologii.
 
-## <!--ikona:tarcza--><span>Co, jeżeli antologia nie powstanie</span>
+## <!--ikona:tarcza--><span>Co, jeżeli Antologia nie powstanie</span>
 
 Antologia jest wynikiem plebiscytu, a nie planem wydawniczym, więc może nie powstać. Trzy przypadki, w których tak się stanie:
 
@@ -101,7 +101,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 628 752,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 827,68 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 769,12 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 745,10 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 679,20 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>

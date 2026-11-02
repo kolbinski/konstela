@@ -38,20 +38,20 @@ Z Nagrody powstaje dorobek, który jest właściwym powodem, by zwracać się do
 
 W każdej edycji powstaje:
 
-1. **Rozmowa ze sztuczną inteligencją** - antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury; bezpłatny e-book powstaje niezależnie od partnera wydawniczego, a zainteresowanie wydaniem książkowym wyraziły dotąd dwa wydawnictwa, z którymi rozmowy są na wczesnym etapie. E-book i krótki nakład na galę są zobowiązaniem organizatora od chwili otwarcia edycji, a dziś - jak cała część wydawnicza - nie mają jeszcze zabezpieczonego finansowania.
+1. **Rozmowa ze sztuczną inteligencją** - Antologia dziesięciu najwyżej ocenionych rozmów, publikowana w całości wraz z komentarzem jury; bezpłatny e-book powstaje niezależnie od partnera wydawniczego, a zainteresowanie wydaniem książkowym wyraziły dotąd dwa wydawnictwa, z którymi rozmowy są na wczesnym etapie. E-book i krótki nakład na galę są zobowiązaniem organizatora od chwili otwarcia edycji, a dziś - jak cała część wydawnicza - nie mają jeszcze zabezpieczonego finansowania.
 2. **Film o sztucznej inteligencji** - dziesięć najlepszych filmów o długości od 20 do 90 minut, które bez Nagrody Konstela by nie powstały, ponieważ warunkiem udziału jest realizacja na jej potrzeby; dziesiątka finałowa tworzy zestaw proponowany dystrybutorowi kinowemu oraz stacji telewizyjnej lub serwisowi streamingowemu, przy czym partnerów takich jeszcze nie mam i piszę o tym wprost.
 3. **Piosenka o sztucznej inteligencji** - nagrania studyjne najlepszych piosenek stworzonych na potrzeby edycji, finansowane przez organizatora, z prawami pozostającymi przy autorach; wydanie płytowe zależy od pozyskania partnera wydawniczego.
-4. **Plakat o sztucznej inteligencji** - dziesięć prac wykonanych ręcznie, pokazywanych na wystawie towarzyszącej gali; praca zwycięska trafia na okładkę antologii. Prace finałowe chcę pokazać po gali po raz drugi, na wystawie w galerii sztuki otwieranej wernisażem - galerii jeszcze nie mam, więc tego nie obiecuję w regulaminie.
+4. **Plakat o sztucznej inteligencji** - dziesięć prac wykonanych ręcznie, pokazywanych na wystawie towarzyszącej gali; praca zwycięska trafia na okładkę Antologii. Prace finałowe chcę pokazać po gali po raz drugi, na wystawie w galerii sztuki otwieranej wernisażem - galerii jeszcze nie mam, więc tego nie obiecuję w regulaminie.
 
 Nie napotkałem dotąd polskojęzycznego, jawnego zbioru zapisów rzeczywistych rozmów człowieka ze sztuczną inteligencją, opatrzonego komentarzem wyjaśniającym, co w nich było wartościowe; zastrzegam przy tym, że nie prowadziłem pełnego przeglądu rynku wydawniczego i twierdzę tylko tyle, ile sprawdziłem.
 
 Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgłoszenia, które przeszły weryfikację formalną, zostają w nim razem z jawną punktacją akademii, jury i publiczności, bez planowanego terminu zamknięcia.
 
-Archiwa, antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
+Archiwa, Antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
 
 Patrzę na to także dłużej niż na jedną edycję. Pierwsze lata powszechnego użycia sztucznej inteligencji nie zostawiają po sobie prawie żadnego śladu: rozmowy znikają razem z kontem u dostawcy, a to, co o nich powstaje, rozprasza się w obiegu bieżącym. Nagroda Konstela gromadzi w jednym miejscu wytwory, które ten moment utrwalają - rozmowy warte publikacji wraz z komentarzem jury, filmy zrealizowane specjalnie na tę okoliczność, piosenki i wykonane ręcznie plakaty. **Zbiór ma być czytelny nie tylko dziś, lecz także za kilkadziesiąt lat: jako zapis tego, co ludzie w Polsce myśleli o sztucznej inteligencji wtedy, gdy wchodziła do ich życia.**
 
-Mówię przy tym wprost, czego trwałość dotyczy. Bezterminowo zachowuję to, co jest u organizatora: zapisy zgłoszonych rozmów wraz z komentarzem jury, antologię, reprodukcje plakatów i nagrania studyjne finalistów - w zakresie udzielonych licencji. Filmy i piosenki pozostają natomiast na kanałach swoich autorów, którzy mogą je w każdej chwili usunąć; Archiwum zachowuje wtedy wpis, opis i punktację, a nie samo dzieło. Jest to świadomy wybór: organizator nie przechowuje kopii cudzych filmów i nie odbiera autorom kontroli nad nimi. Z każdą kolejną edycją przybywa jeden rocznik takiego zapisu.
+Mówię przy tym wprost, czego trwałość dotyczy. Bezterminowo zachowuję to, co jest u organizatora: zapisy zgłoszonych rozmów wraz z komentarzem jury, Antologię, reprodukcje plakatów i nagrania studyjne finalistów - w zakresie udzielonych licencji. Filmy i piosenki pozostają natomiast na kanałach swoich autorów, którzy mogą je w każdej chwili usunąć; Archiwum zachowuje wtedy wpis, opis i punktację, a nie samo dzieło. Jest to świadomy wybór: organizator nie przechowuje kopii cudzych filmów i nie odbiera autorom kontroli nad nimi. Z każdą kolejną edycją przybywa jeden rocznik takiego zapisu.
 
 ## Część pierwsza: prośba o list intencyjny
 
@@ -63,7 +63,7 @@ Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się ni
 
 Częścią artystyczną przedsięwzięcia są cztery powiązane działania: trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie hymnu [konstela.org/hymn](https://konstela.org/hymn/). Dochodzi do nich piąte działanie, o charakterze popularyzatorskim - podcast - które wymieniam osobno właśnie dlatego, że artystyczne nie jest.
 
-Do zakresu mojego pytania należą także te elementy gali, które są rezultatem tych działań: koncert finałowy, wystawa prac finałowych i emisja zwiastunów filmów. **Poza zakresem pytania są: plebiscyt na najlepszą rozmowę ze sztuczną inteligencją wraz z pulą nagród, antologia i Archiwum, pierwsze przejście oceny prowadzone przez akademię, sama gala jako wydarzenie oraz wystawa w galerii sztuki wraz z cichą licytacją.** Te pozycje mają własne źródła finansowania i wymieniam je, aby było widoczne, że o te same koszty nie zwracam się jednocześnie do dwóch źródeł. Przypisanie każdej pozycji - wraz z rokiem kosztu i podziałem kwot na 2027 i 2028 - pokazuje kolumna „W zakresie pytania do MKiDN" w załączonym zestawieniu zadania.
+Do zakresu mojego pytania należą także te elementy gali, które są rezultatem tych działań: koncert finałowy, wystawa prac finałowych i emisja zwiastunów filmów. **Poza zakresem pytania są: plebiscyt na najlepszą rozmowę ze sztuczną inteligencją wraz z pulą nagród, Antologia i Archiwum, pierwsze przejście oceny prowadzone przez akademię, sama gala jako wydarzenie oraz wystawa w galerii sztuki wraz z cichą licytacją.** Te pozycje mają własne źródła finansowania i wymieniam je, aby było widoczne, że o te same koszty nie zwracam się jednocześnie do dwóch źródeł. Przypisanie każdej pozycji - wraz z rokiem kosztu i podziałem kwot na 2027 i 2028 - pokazuje kolumna „W zakresie pytania do MKiDN" w załączonym zestawieniu zadania.
 
 ### Plebiscyt na piosenkę o sztucznej inteligencji
 
@@ -77,7 +77,7 @@ Reguły weryfikacji, zakres licencji, konstrukcję oceny i kosztorys opisuje **r
 
 Drugim działaniem jest otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie dowolną techniką tradycyjną, adresowany do twórców rozwijających własną praktykę, bez pytania o wystawy i dyplomy. Obowiązuje tu reguła ostrzejsza niż w plebiscycie na piosenkę: obraz ma powstać pod ludzką ręką, a niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wygenerowanego albo domalowanej na wydrukowanym podkładzie.
 
-Zgłasza się zdjęcie albo skan pracy, oryginały nadsyłają dopiero finaliści, a prawa pozostają przy autorach. Praca zwycięska trafia na okładkę antologii, a oryginały dziesiątki finałowej pokazywane są na wystawie towarzyszącej gali.
+Zgłasza się zdjęcie albo skan pracy, oryginały nadsyłają dopiero finaliści, a prawa pozostają przy autorach. Praca zwycięska trafia na okładkę Antologii, a oryginały dziesiątki finałowej pokazywane są na wystawie towarzyszącej gali.
 
 Weryfikację ręcznego wykonania, zakresy licencji, zasady wystawy galeryjnej wraz z cichą licytacją oryginałów i kosztorys opisuje **rozdział 8 załączonej noty koncepcyjnej, „Plebiscyt na plakat"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#8-plebiscyt-na-plakat](https://konstela.org/dokument/mk-nota-koncepcyjna/#8-plebiscyt-na-plakat).
 
@@ -166,10 +166,10 @@ Rozkład kosztów na lata jest następujący:
 - **nabór zgłoszeń** trwa przez cały 2027 rok, a przyjmowanie zgłoszeń zamyka się 10 stycznia 2028 roku;
 - **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata, a terminy akademii są różne w zależności od plebiscytu: akademia rozmów ocenia zgłoszenia na bieżąco w czasie naboru, od lutego 2027 do stycznia 2028, akademie piosenki i plakatu pracują po zamknięciu swoich naborów, czyli na przełomie 2027 i 2028 roku, a akademia filmu przeprowadza pierwsze przejście oceny w styczniu 2028 roku. Ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
 - **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace docierają na początku stycznia 2028;
-- **zamknięcie treści antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
+- **zamknięcie treści Antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
 - **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę czerwca 2028 roku.
 
-Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: wysyłka oryginałów przypada na przełom 2027 i 2028 roku, a realizacja wystawy i przesyłki powrotne na 2028 rok.
+Nabór plakatów zamyka się wcześniej niż nabór w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, ponieważ zwycięska praca musi trafić na okładkę Antologii przed jej drukiem, a pełny werdykt jury poprzedzają oględziny oryginałów. Powoduje to podział kosztów tego plebiscytu między oba lata: wysyłka oryginałów przypada na przełom 2027 i 2028 roku, a realizacja wystawy i przesyłki powrotne na 2028 rok.
 
 ## Pytanie 4: który nabór wniosków wybrać i wydatki sprzed zawarcia umowy
 

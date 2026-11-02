@@ -18,7 +18,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 - **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
 - **publiczność ma własne nagrody**, niezależne od werdyktu jury: [Nagrodę Publiczności](#nagroda-publicznosci), a obok niej [Nagrodę Uczniowską](#jak-dziala-nagroda-uczniowska) wskazywaną przez grupy szkolne
-- **dziesięć najlepszych rozmów** składa się na antologię – bezpłatny e-book, bezpłatny audiobook, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie – rozmów w antologii może być mniej
+- **dziesięć najlepszych rozmów** składa się na Antologię – bezpłatny e-book, bezpłatny audiobook, a po pozyskaniu wydawnictwa także wydanie książkowe; jeżeli którejś rozmowy nie da się opublikować z przyczyn prawnych, wchodzi na jej miejsce kolejna, a gdy ranking się wyczerpie – rozmów w Antologii może być mniej
 - wszystkie zgłoszenia trafiają do **[Czytelni](#czytelnia-i-archiwum)**, a po werdykcie jury do publicznego [Archiwum](#czytelnia-i-archiwum)
 - **nie musisz znać się na sztucznej inteligencji** – zgłoszona rozmowa może być Twoją pierwszą w życiu rozmową z AI; oceniamy tę jedną rozmowę, a nie Twoje doświadczenie
 - zgłaszasz **jedną rozmowę w jednej edycji**
@@ -36,7 +36,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 ### Kto może zgłosić
 
-**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna prawnego na pokazanie rozmowy w Czytelni zgłoszeń i w Archiwum – bez tego zgłoszenia nie przyjmujemy – a osobno na publikację w antologii, na przyjęcie nagrody pieniężnej oraz na udział w rozmowie weryfikacyjnej i w gali; brak którejś z tych trzech zgód wyklucza tylko z tej jednej rzeczy. Zgłaszać mogą osoby mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy – tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
+**Wiek: od 16 lat.** Osoba, która nie ukończyła 18 lat, potrzebuje zgody opiekuna prawnego na pokazanie rozmowy w Czytelni zgłoszeń i w Archiwum – bez tego zgłoszenia nie przyjmujemy – a osobno na publikację w Antologii, na przyjęcie nagrody pieniężnej oraz na udział w rozmowie weryfikacyjnej i w gali; brak którejś z tych trzech zgód wyklucza tylko z tej jednej rzeczy. Zgłaszać mogą osoby mieszkające w Polsce albo mające polskie obywatelstwo. Nie oceniamy sztucznej inteligencji ani jej dostawcy – tę informację wpisujesz tylko w swoim zgłoszeniu. Zgłaszasz własną rozmowę i oświadczasz, że jest autentyczna oraz nieinscenizowana.
 
 ### Wymogi formalne
 
@@ -72,7 +72,7 @@ Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a 
 
 ### Ilustracja rozmowy
 
-Do zgłoszenia dołączasz jeden obrazek – ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w Czytelni i w Archiwum, a jeśli rozmowa wygra – także w antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16 – pozostałe szczegóły podaje regulamin i formularz zgłoszeniowy. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
+Do zgłoszenia dołączasz jeden obrazek – ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w Czytelni i w Archiwum, a jeśli rozmowa wygra – także w Antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16 – pozostałe szczegóły podaje regulamin i formularz zgłoszeniowy. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -112,7 +112,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-rozmowy), a [kart
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Werdykt plebiscytu i wybór najlepszych rozmów należy do jury</strong>, które ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce antologii oraz o laureatach nagród. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.</p>
+<p><strong>Werdykt plebiscytu i wybór najlepszych rozmów należy do jury</strong>, które ocenia rozmowy najwyżej ocenione w rundzie pierwszej i rozstrzyga o dziesiątce Antologii oraz o laureatach nagród. Przed ogłoszeniem wyników finaliści przechodzą rozmowę weryfikacyjną.</p>
 </article>
 </div>
 
@@ -148,15 +148,15 @@ Całą konstrukcję, wraz z uzasadnieniem, opisuje [dokument o skalowaniu oceny]
 <div class="kafle">
 <article>
 <h3>Nagroda główna</h3>
-<p>Nagroda pieniężna, medal, dyplom i miejsce w antologii.</p>
+<p>Nagroda pieniężna, medal, dyplom i miejsce w Antologii.</p>
 </article>
 <article>
 <h3>Nagroda za drugie i trzecie miejsce</h3>
-<p>Nagrody pieniężne dla dwóch kolejnych rozmów z werdyktu jury, wraz z dyplomem i miejscem w antologii.</p>
+<p>Nagrody pieniężne dla dwóch kolejnych rozmów z werdyktu jury, wraz z dyplomem i miejscem w Antologii.</p>
 </article>
 <article>
 <h3>Siedem wyróżnień</h3>
-<p>Pozostałych siedmioro finalistów: <strong>również nagrody pieniężne</strong>, a do tego dyplom i miejsce w antologii.</p>
+<p>Pozostałych siedmioro finalistów: <strong>również nagrody pieniężne</strong>, a do tego dyplom i miejsce w Antologii.</p>
 </article>
 <article>
 <h3>Nagroda Uczniowska</h3>
@@ -178,7 +178,7 @@ Trzy werdykty – jury, uczniów i publiczności – są od siebie niezależne i
 
 ### Antologia
 
-**Dziesięć najwyżej ocenionych rozmów składa się na [antologię](/#co-zostaje-po-edycji)**, publikowaną jako **bezpłatny e-book i bezpłatny audiobook**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. W audiobooku rozmowę czyta trzech lektorów – osobny głos Twój, osobny sztucznej inteligencji i osobny dla komentarza jury – a Ty nie musisz nic nagrywać. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
+**Dziesięć najwyżej ocenionych rozmów składa się na [Antologię](/#co-zostaje-po-edycji)**, publikowaną jako **bezpłatny e-book i bezpłatny audiobook**, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. W audiobooku rozmowę czyta trzech lektorów – osobny głos Twój, osobny sztucznej inteligencji i osobny dla komentarza jury – a Ty nie musisz nic nagrywać. **Wydanie książkowe jest naszym celem, ale nie obietnicą**: zależy od pozyskania wydawnictwa, a e-book powstanie niezależnie od tego i ma pełną treść, bez skrótów. Rozmowy publikujemy w całości, z wyjątkiem ograniczeń wymaganych ze względów prawnych, na zasadach regulaminu.
 
 ### Nagroda Uczniowska
 
@@ -231,7 +231,7 @@ Po ogłoszeniu wyników Czytelnia zamienia się w Archiwum, udostępniane bezpł
 
 ### Licencja i podpis
 
-Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści antologii, czyli do 31 maja 2028 – po tym dniu antologia idzie do druku.
+Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w Antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści Antologii, czyli do 31 maja 2028 – po tym dniu Antologia idzie do druku.
 
 ### Pseudonim nie anonimizuje treści
 
@@ -292,7 +292,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a Antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
 Elementem gali jest **dialog czytany**: zwycięzca plebiscytu czyta ze sceny swoją część dialogu z AI, a odpowiedzi sztucznej inteligencji czyta narrator.
 
@@ -305,8 +305,8 @@ Liczy się data rozmowy, nie data zgłoszenia: okno rozmów to cały 2027 rok.
 <div><dt>Cały 2027</dt><dd>Okno rozmów<small>zgłoszenia przyjmujemy na bieżąco, a Czytelnia rośnie</small></dd></div>
 <div><dt>10 stycznia 2028</dt><dd>Zamknięcie zgłoszeń<small>dziesięć dni po zamknięciu okna rozmów, żeby szczyt zgłoszeń nie wypadł w okresie świątecznym</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>datę ogłaszamy osobno: zależy od zakończenia weryfikacji wszystkich zgłoszeń i zamrożenia punktacji pierwszej rundy; głosowanie trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>17 maja 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>czternaście dni przed zamknięciem treści antologii, żeby kolejna osoba z rankingu zdążyła odbyć rozmowę weryfikacyjną</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala, werdykty i premiera antologii</dd></div>
+<div><dt>17 maja 2028</dt><dd>Ostatni dzień na wycofanie zgłoszenia<small>czternaście dni przed zamknięciem treści Antologii, żeby kolejna osoba z rankingu zdążyła odbyć rozmowę weryfikacyjną</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala, werdykty i premiera Antologii</dd></div>
 </dl>
 
 <h2 id="kontakt"><!--ikona:koperta--><span>Kontakt</span></h2>

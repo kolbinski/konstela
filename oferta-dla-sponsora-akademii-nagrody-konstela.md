@@ -38,7 +38,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 **Ocena przebiega w dwóch rundach i ta oferta dotyczy pierwszej z nich.**
 
 1. **Akademia** - grono niezależnych czytelników i oceniających, które przez cały rok naboru czyta zgłoszone rozmowy i ogląda zgłoszone filmy według tej samej jawnej karty oceny co jury. **W zakresie objętym tą ofertą - 300 odczytów rozmów i 300 obejrzeń filmów - każde zgłoszenie dostaje dwa niezależne odczyty.** Dwa odczyty nie są jednak stałą regułą Akademii: liczba odczytów na zgłoszenie wynika z trybu oceny, który regulamin wiąże z liczbą zgłoszeń (§ 8 ust. 10). Powyżej 200 zgłoszeń obowiązuje **odczyt wstępny jednoosobowy** wraz z zabezpieczeniami - obowiązkowym drugim odczytem w pasmie wokół granicy kwalifikacji i losowym audytem pozostałych odrzuconych - a powyżej 3 000 odczyt wstępny rozdzielony na pytanie o moment odkrycia i **rundę zbieżności** ocenianą pełną kartą przez stały zespół. Mówimy to tutaj, a nie dopiero w kosztorysie, bo **Sponsor nie powinien kupować usługi, której opis przestaje odpowiadać regulaminowi po przekroczeniu pewnej liczby zgłoszeń**. Liczba odczytów dodatkowych zależy przy tym od progu i pasma ogłaszanych przed naborem, więc przy większym naborze **nie da się jej podać z góry** - i oferta tego nie udaje.
-2. **Jury** - ocenia wyłącznie zgłoszenia ocenione najwyżej w rundzie pierwszej, rozstrzyga o laureatach i wybiera dziesiątkę antologii.
+2. **Jury** - ocenia wyłącznie zgłoszenia ocenione najwyżej w rundzie pierwszej, rozstrzyga o laureatach i wybiera dziesiątkę Antologii.
 
 **Sponsor nie ma wpływu ani na skład Akademii i jury, ani na wyniki.** Niezależność oceny nie jest przedmiotem negocjacji.
 
@@ -75,7 +75,7 @@ To jest zdanie, które Sponsor może powtórzyć na zarządzie: **firma zapłaci
 - materiały kalibracyjne i szkolenie obu grup oceniających;
 - utrzymanie panelu oceniających: hosting, konta, obsługę odnośników do zgłoszonych prac.
 
-**Jedna pozycja, o której trzeba powiedzieć wprost, bo zmienia charakter pracy, a nie tylko jej ilość.** Decyzje o odrzuceniu zgłoszenia - za treści bezprawne, zarzuty wobec osób trzecich albo dane osoby postronnej - podejmuje Organizator wspólnie z co najmniej dwoma członkami jury. Liczba takich spraw rośnie wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób, więc **powyżej liczby postępowań ogłoszonej przed naborem miejsce dwojga jurorów zajmuje dwoje wskazanych wcześniej członków Akademii** (§ 6 regulaminu). Przy jury pozostają decyzje rozstrzygające o dziesiątce antologii oraz zastosowanie warunku rzetelności i odmowa publikacji. Dla Sponsora znaczy to dwie rzeczy: **praca Akademii nie kończy się na odczytach** przy bardzo dużym naborze, a honorarium za tę część pokrywana jest z rezerwy, nie z puli odczytów. Dopuszczalność samego zastąpienia jest **pytaniem otwartym do kancelarii** i mówimy to, zanim Sponsor policzy to jako gotową konstrukcję.
+**Jedna pozycja, o której trzeba powiedzieć wprost, bo zmienia charakter pracy, a nie tylko jej ilość.** Decyzje o odrzuceniu zgłoszenia - za treści bezprawne, zarzuty wobec osób trzecich albo dane osoby postronnej - podejmuje Organizator wspólnie z co najmniej dwoma członkami jury. Liczba takich spraw rośnie wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób, więc **powyżej liczby postępowań ogłoszonej przed naborem miejsce dwojga jurorów zajmuje dwoje wskazanych wcześniej członków Akademii** (§ 6 regulaminu). Przy jury pozostają decyzje rozstrzygające o dziesiątce Antologii oraz zastosowanie warunku rzetelności i odmowa publikacji. Dla Sponsora znaczy to dwie rzeczy: **praca Akademii nie kończy się na odczytach** przy bardzo dużym naborze, a honorarium za tę część pokrywana jest z rezerwy, nie z puli odczytów. Dopuszczalność samego zastąpienia jest **pytaniem otwartym do kancelarii** i mówimy to, zanim Sponsor policzy to jako gotową konstrukcję.
 
 **Co z tym robimy, zanim ktokolwiek podpisze umowę.** Opinia prawna w tej sprawie jest **warunkiem zawarcia umowy, nie dokumentem do uzupełnienia po jej zawarciu** - przedstawiamy ją Sponsorowi razem z projektem umowy. Pytania są cztery i idą do kancelarii w tym brzmieniu: czy takie zastąpienie jest dopuszczalne w przyjętej konstrukcji przyrzeczenia publicznego; czy udział w tych postępowaniach wymaga od członka Akademii kwalifikacji, których karta oceny nie wymaga; kto ponosi odpowiedzialność za decyzję i jej uzasadnienie; oraz czy uczestnikowi przysługuje ponowne rozpoznanie sprawy. **Jeżeli kancelaria dopuszczalności nie potwierdzi, zastępcami są dwie osoby spoza Akademii, z odrębnym wynagrodzeniem** - wtedy ta praca wychodzi z tego kosztorysu w całości i Sponsor nie finansuje jej nawet z rezerwy. Jeżeli potwierdzi, kompetencje zostają rozdzielone na piśmie, a każda decyzja protokołowana z podaniem, kto ją podjął i na jakiej podstawie.
 
@@ -342,7 +342,7 @@ Rola nie obejmuje czterech rzeczy, z których każda ma własny budżet i własn
 
 - **nagrody** - pula dla laureatów i honoraria jury za ocenę w rundzie drugiej;
 - **gala** - sala, obsługa i wieczór rozstrzygnięcia;
-- **antologia** - e-book, audiobook, Archiwum i podcast;
+- **Antologia** - e-book, audiobook, Archiwum i podcast;
 - **infrastruktura wspólna** - fundacja, znak towarowy, strona i narzędzia obsługujące wszystkie plebiscyty, w tym sam panel oceny jako program. Ta oferta finansuje jego utrzymanie w czasie oceny, nie jego wytworzenie.
 
 ### Kto może finansować tę rolę, a kto nie
@@ -401,7 +401,7 @@ Wszystkie siedem przygotowujemy na prośbę, bez zobowiązania po stronie Sponso
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru filmów<small>film musi być ukończony najpóźniej w dniu zgłoszenia, a obejrzenie zabiera dwie godziny, więc nabór filmu zamyka się wcześniej niż nabór rozmów</small></dd></div>
 <div><dt>10 stycznia 2028</dt><dd>Zamknięcie zgłoszeń rozmów<small>dziesięć dni po zamknięciu okna rozmów, żeby szczyt zgłoszeń nie wypadł w okresie świątecznym</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Zamknięcie pierwszej rundy<small>każde przyjęte zgłoszenie ocenione w liczbie odczytów przewidzianej dla ogłoszonego trybu, punktacja zamrożona, zgłoszenia przekazane jury; druga transza po odbiorze etapu</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera antologii</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera Antologii</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Sponsora<small>wykonanie budżetu w podziale na pozycje, liczba wykonanych odczytów i obejrzeń, rozliczenie voucherów i rezerwy; trzecia transza po przyjęciu sprawozdania</small></dd></div>
 </dl>
 
@@ -433,14 +433,14 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 628 752,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 827,68 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 769,12 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 745,10 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 223 294,50 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 679,20 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
-- **[Partner wydawniczy antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
+- **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
 - **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów

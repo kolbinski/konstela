@@ -61,7 +61,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** – rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
 
-4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
+4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, Antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
 
 ## § 2. Przedmiot plebiscytu
 
@@ -138,7 +138,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    a) tytuł utworu oraz imię i nazwisko albo pseudonim, pod którym zgłoszenie ma być prezentowane;
 
-   a1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Słuchalni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   a1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Słuchalni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w Antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
    b) skład osobowy w przypadku zgłoszenia zespołowego, zgodnie z § 6;
 
@@ -146,7 +146,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
    c1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto posłuchać tej piosenki** – do 700 znaków własnego uzasadnienia – obowiązkowe. Pole jest prezentowane publicznie w Słuchalni i w Archiwum (ust. 7 i 8) i **nie podlega ocenie** w żadnym kryterium (§ 9 ust. 4);
 
-   c2) **tekst utworu** – pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i **jest prezentowany publicznie przy zgłoszeniu** – w Słuchalni i w Archiwum (ust. 7 i 8). Tekst ma odpowiadać temu, co słychać w nagraniu; drobna rozbieżność wynikająca z wykonania nie jest podstawą odrzucenia. Tekst nie jest natomiast publikowany w antologii ani w innych materiałach drukowanych Nagrody;
+   c2) **tekst utworu** – pole tekstowe, **obowiązkowe**. Tekst służy ocenie, ponieważ waży w niej najwięcej, i **jest prezentowany publicznie przy zgłoszeniu** – w Słuchalni i w Archiwum (ust. 7 i 8). Tekst ma odpowiadać temu, co słychać w nagraniu; drobna rozbieżność wynikająca z wykonania nie jest podstawą odrzucenia. Tekst nie jest natomiast publikowany w Antologii ani w innych materiałach drukowanych Nagrody;
 
    c3) **moment publikacji tekstu** – Uczestnik wskazuje w zgłoszeniu, czy tekst ma być widoczny **od chwili przyjęcia zgłoszenia**, czy **dopiero po publicznym ogłoszeniu werdyktu na gali**. Wybór drugiego wariantu nie wpływa na ocenę: akademia i jury widzą tekst niezależnie od niego, od początku oceny. Brak wskazania oznacza publikację od chwili przyjęcia zgłoszenia;
 
@@ -494,7 +494,7 @@ Decyzje interpretacyjne słyszalne w nagraniu, w zakresie możliwym do rozpoznan
 7. Organizator może zlecić produkcję nagrań jednemu producentowi dla wszystkich finalistów. Finalista, który ma własnego producenta albo zobowiązania wobec wydawnictwa, zgłasza to Organizatorowi; sposób postępowania uzgadniany jest indywidualnie.
 
 
-8. **Playlista finalistów i kod QR w antologii.** Organizator prowadzi **playlistę finalistów edycji**, do której kieruje kod QR umieszczony w antologii. Playlista zawiera **nagrania zgłoszone do plebiscytu**, a po przeprowadzeniu sesji studyjnych – **nagrania studyjne**, w każdym wypadku **wyłącznie te, na których umieszczenie finalista wyraził zgodę**. Zgoda jest odrębna od licencji z § 15 i można ją wycofać; wycofanie powoduje usunięcie nagrania z playlisty w terminie 14 dni i nie wpływa na nagrodę ani na miejsce w werdykcie. Kod QR prowadzi do playlisty, a nie do pojedynczego nagrania, więc jej zmiana nie wymaga zmiany antologii.
+8. **Playlista finalistów i kod QR w Antologii.** Organizator prowadzi **playlistę finalistów edycji**, do której kieruje kod QR umieszczony w Antologii. Playlista zawiera **nagrania zgłoszone do plebiscytu**, a po przeprowadzeniu sesji studyjnych – **nagrania studyjne**, w każdym wypadku **wyłącznie te, na których umieszczenie finalista wyraził zgodę**. Zgoda jest odrębna od licencji z § 15 i można ją wycofać; wycofanie powoduje usunięcie nagrania z playlisty w terminie 14 dni i nie wpływa na nagrodę ani na miejsce w werdykcie. Kod QR prowadzi do playlisty, a nie do pojedynczego nagrania, więc jej zmiana nie wymaga zmiany Antologii.
 
 ## § 14. Gala
 

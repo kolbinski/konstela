@@ -41,7 +41,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 - **Ogłoszenie laureatów czterech plebiscytów** - rozmowy ze sztuczną inteligencją, filmu, piosenki i plakatu - wraz z wręczeniem nagród.
 - **Zwiastuny piątki filmów finałowych** plebiscytu na film o AI; pełne pokazy odbywają się osobno.
 - **Wystawa plakatów finałowych**, dostępna dla gości wieczoru.
-- **Premiera antologii w wydaniu elektronicznym i dźwiękowym** - e-booka i audiobooka z najlepszymi rozmowami edycji, oba bezpłatne.
+- **Premiera Antologii w wydaniu elektronicznym i dźwiękowym** - e-booka i audiobooka z najlepszymi rozmowami edycji, oba bezpłatne.
 - **Wystąpienia partnerów**, w tym przedstawiciela Sponsora gali.
 
 **Zapis wideo gali udostępniamy bezpłatnie.** Dla Sponsora gali jest to pozycja o wartości osobnej od samego wieczoru: nagranie zostaje dłużej niż jeden kwietniowy wieczór, jest cytowane, podawane dalej i wymieniane w materiałach kolejnych edycji, a obecność Sponsora jest w nim trwale zapisana. Dlatego rejestracja wideo i udostępnienie zapisu należą do tej roli, a nie do nikogo innego.
@@ -148,7 +148,7 @@ Sponsor gali nie ma wpływu na wybór laureatów, skład jury ani treść werdyk
 Rola nie obejmuje czterech rzeczy, bo każda ma własny budżet i własnego partnera:
 
 - **nagrody dla laureatów** oraz honoraria jury - [rola Fundatora nagród](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja);
-- **antologia, Archiwum i podcast**, których premiera na gali jedynie się odbywa - [rola Mecenasa Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela);
+- **Antologia, Archiwum i podcast**, których premiera na gali jedynie się odbywa - [rola Mecenasa Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela);
 - **infrastruktura wspólna** - fundacja, strona i narzędzia obsługujące wszystkie plebiscyty - [rola Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela);
 - **część artystyczna finansowana przez sponsorów plebiscytów** - honoraria wykonawców występujących na scenie i aktora w dialogu czytanym należą do rół związanych z poszczególnymi plebiscytami, nie do tej oferty. Pozycja „oprawa artystyczna gali", czekająca na wycenę, dotyczy sceny i techniki wieczoru, a nie honorariów wykonawców.
 
@@ -166,7 +166,7 @@ Rola nie obejmuje czterech rzeczy, bo każda ma własny budżet i własnego part
 <div><dt>Po deklaracji Sponsora</dt><dd>Wybór miejsca i wycena czterech pozycji otwartych<small>oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy; dopiero wtedy znana jest kwota ostateczna i dopiero wtedy podpisujemy umowę</small></dd></div>
 <div><dt>Do 6 miesięcy przed galą</dt><dd>Podpisanie umowy i rezerwacja sali<small>pierwsza transza obejmuje wyłącznie to, czego wymaga zabezpieczenie terminu w wybranym miejscu</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykty czterech plebiscytów<small>pierwsza runda akademii, następnie jury; gala odbywa się tylko wtedy, gdy edycja zostaje rozstrzygnięta</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, zwiastuny piątki filmów finałowych, wystawa plakatów, premiera antologii w wydaniu elektronicznym i dźwiękowym, wystąpienia partnerów; druga transza wymagalna po gali</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, zwiastuny piątki filmów finałowych, wystawa plakatów, premiera Antologii w wydaniu elektronicznym i dźwiękowym, wystąpienia partnerów; druga transza wymagalna po gali</small></dd></div>
 <div><dt>Do 60 dni po gali</dt><dd>Sprawozdanie dla Sponsora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, dokumentacja fotograficzna i zapis wideo; po jego przyjęciu wymagalna jest transza ostatnia</small></dd></div>
 </dl>
 
@@ -216,14 +216,14 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 628 752,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 827,68 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 769,12 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 745,10 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 223 294,50 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
-- **[Partner wydawniczy antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
+- **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
 - **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów

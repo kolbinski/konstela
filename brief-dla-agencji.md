@@ -8,7 +8,7 @@ Przebudowa strony konstela.org: projekt, wdrożenie i teksty. Dokument służy w
 
 Coroczna nagroda dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy. Nagradzany jest człowiek, nie model i nie firma, która model zbudowała. Oceniane są pytania, a nie odpowiedzi.
 
-Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmowy ocenia najpierw grono czytelników, potem jury. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, publikowanej jako e-book, a szerszy zbiór trafia do publicznego Archiwum.
+Uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z modelem. Rozmowy ocenia najpierw grono czytelników, potem jury. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej Antologii, publikowanej jako e-book, a szerszy zbiór trafia do publicznego Archiwum.
 
 Nazwa bierze się stąd, że gwiazdy same z siebie nie układają się w żaden kształt - konstelacja powstaje dopiero wtedy, gdy ktoś poprowadzi między nimi linię, której wcześniej nie było. To samo robi dobra rozmowa: pojedyncze fakty ma każdy, wartość powstaje z połączeń.
 
@@ -24,7 +24,7 @@ Strona ma trzy zadania, w tej kolejności ważności.
 
 **Doprowadzić uczestnika do zgłoszenia.** Od 1 stycznia 2027 strona musi tłumaczyć, co zgłaszać, jak to zrobić i czego się spodziewać, a potem przeprowadzić przez formularz bez pytań po drodze.
 
-**Udostępniać materiał.** Od czerwca 2028 strona jest miejscem, z którego pobiera się antologię i czyta Archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
+**Udostępniać materiał.** Od czerwca 2028 strona jest miejscem, z którego pobiera się Antologię i czyta Archiwum rozmów. Docelowo to jest jej główny ruch: nauczyciele, uczniowie, studenci, badacze.
 
 ## 3. Co jest dzisiaj
 
@@ -56,7 +56,7 @@ Poza zakresem, ponieważ realizuję to samodzielnie:
 - mechanizm publikowania Archiwum rozmów,
 - **monitor dostępności linków zewnętrznych**: codzienne sprawdzanie, czy nagrania piosenek, filmy, zwiastuny i nagrania z pracy nad plakatem są wciąż dostępne pod podanymi adresami, z zapisem wyniku każdego sprawdzenia wraz z datą i godziną. Regulaminy wiążą z dłuższą niedostępnością konkretne skutki - termin naprawczy, pominięcie głosów, wyłączenie z oceny - a ciężar wykazania niedostępności spoczywa na organizatorze, więc ten zapis jest dowodem, a nie wygodą.
 
-Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych projektowych**: jak mają wyglądać strony pojedynczej rozmowy w Archiwum i strona antologii, żeby były spójne z resztą. Samo wdrożenie zrobię po swojej stronie.
+Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych projektowych**: jak mają wyglądać strony pojedynczej rozmowy w Archiwum i strona Antologii, żeby były spójne z resztą. Samo wdrożenie zrobię po swojej stronie.
 
 ## 5. Ograniczenia, o których trzeba wiedzieć
 
@@ -77,7 +77,7 @@ Przy dwóch ostatnich punktach potrzebuję od agencji wyłącznie **wytycznych p
 | Wycena i rozmowa o zakresie | listopad 2026 |
 | Projekt i wdrożenie | grudzień 2026 - luty 2027 |
 | **Strona musi działać w nowej wersji** | **przed 1 stycznia 2027 w zakresie informacji o naborze** |
-| Rozbudowa o antologię i Archiwum | styczeń - kwiecień 2028 |
+| Rozbudowa o Antologię i Archiwum | styczeń - kwiecień 2028 |
 
 Twardy termin dotyczy wyłącznie części informacyjnej: 1 stycznia 2027 otwiera się przyjmowanie zgłoszeń i od tego dnia strona musi tłumaczyć zasady i prowadzić do formularza. Warstwa publikacyjna ma czas do wiosny 2028.
 

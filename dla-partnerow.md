@@ -27,7 +27,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ## <!--ikona:wspolpraca--><span>Kogo i czego szukamy</span>
 
-**Szukamy firm i instytucji, które wezmą na siebie jeden konkretny element pierwszej edycji** – nagrody w jednym z plebiscytów, druk antologii, sesje nagraniowe finalistów, salę na galę, przestrzeń na wystawę plakatów albo pokazy filmów w kinie. Szukamy też ludzi: osoby, która poprowadzi podcast, i tych, którzy zasiądą w akademii oceniającej zgłoszenia.
+**Szukamy firm i instytucji, które wezmą na siebie jeden konkretny element pierwszej edycji** – nagrody w jednym z plebiscytów, druk Antologii, sesje nagraniowe finalistów, salę na galę, przestrzeń na wystawę plakatów albo pokazy filmów w kinie. Szukamy też ludzi: osoby, która poprowadzi podcast, i tych, którzy zasiądą w akademii oceniającej zgłoszenia.
 
 **Poniższa lista to zamknięty zbiór zakresów, a nie prośba o wsparcie w ogólności.** Każdy z nich ma swój kosztorys i każdy można wziąć w całości albo w części – w pieniądzach, w usłudze albo w świadczeniu rzeczowym. Do każdego szukamy osobnego partnera, więc wzięcie jednego nie wiąże w niczym poza nim.
 
@@ -55,7 +55,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Mecenas plebiscytu na plakat o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury, transport i ubezpieczenie oryginałów prac finałowych, wystawa przy gali oraz okładka antologii.</p>
+<p>Nagrody dla laureatów, honoraria jury, transport i ubezpieczenie oryginałów prac finałowych, wystawa przy gali oraz okładka Antologii.</p>
 <p class="wiecej"><a href="/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
@@ -70,17 +70,17 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <div class="kafle">
 <article>
 <h3>Mecenas Założycielski</h3>
-<p>Powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, przebudowa strony, znak towarowy oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny. <strong>Wszystko powstaje raz i służy każdej kolejnej edycji</strong>, a tytuł Mecenasa Założycielskiego wymieniany jest w prologu każdej następnej antologii.</p>
+<p>Powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, przebudowa strony, znak towarowy oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny. <strong>Wszystko powstaje raz i służy każdej kolejnej edycji</strong>, a tytuł Mecenasa Założycielskiego wymieniany jest w prologu każdej następnej Antologii.</p>
 <p class="wiecej"><a href="/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 <article>
-<h3>Mecenas antologii i Archiwum</h3>
-<p>Redakcja, skład i druk antologii, bezpłatny audiobook czytany przez trzech lektorów, utrzymanie publicznego Archiwum oraz podcast towarzyszący Nagrodzie. <strong>Pełna propozycja wraz z kwotą i kosztorysem jest opisana osobno.</strong></p>
+<h3>Mecenas Antologii i Archiwum</h3>
+<p>Redakcja, skład i druk Antologii, bezpłatny audiobook czytany przez trzech lektorów, utrzymanie publicznego Archiwum oraz podcast towarzyszący Nagrodzie. <strong>Pełna propozycja wraz z kwotą i kosztorysem jest opisana osobno.</strong></p>
 <p class="wiecej"><a href="/oferta-dla-mecenasa-antologii-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 <article>
-<h3>Partner wydawniczy antologii</h3>
-<p>Wydanie książkowe antologii: skład, druk nakładu handlowego i wprowadzenie go do dystrybucji przed galą, tak aby książka była w księgarniach bezpośrednio po premierze.</p>
+<h3>Partner wydawniczy Antologii</h3>
+<p>Wydanie książkowe Antologii: skład, druk nakładu handlowego i wprowadzenie go do dystrybucji przed galą, tak aby książka była w księgarniach bezpośrednio po premierze.</p>
 <p class="wiecej"><a href="/oferta-dla-partnera-wydawniczego-antologii">Czytaj więcej</a></p>
 </article>
 <article>

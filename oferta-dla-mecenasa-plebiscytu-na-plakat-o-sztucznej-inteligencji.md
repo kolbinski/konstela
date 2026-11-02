@@ -10,7 +10,7 @@
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. [Fundator nagród w plebiscycie na rozmowę](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę i pracę jury w głównym plebiscycie, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania, a [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia obsługujące wszystkie cztery plebiscyty.
 
-Role są rozdzielne w płatnościach i można je objąć niezależnie od siebie, ale **ich rezultaty zależą od siebie nawzajem** i nie ukrywamy tego: gala, antologia i narzędzia wspólne mają własnych partnerów, a ich brak zmienia to, co widać z zewnątrz w tym plebiscycie. Co odpada w którym przypadku, opisuje sekcja o nieruszeniu edycji; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
+Role są rozdzielne w płatnościach i można je objąć niezależnie od siebie, ale **ich rezultaty zależą od siebie nawzajem** i nie ukrywamy tego: gala, Antologia i narzędzia wspólne mają własnych partnerów, a ich brak zmienia to, co widać z zewnątrz w tym plebiscycie. Co odpada w którym przypadku, opisuje sekcja o nieruszeniu edycji; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -18,7 +18,7 @@ Role są rozdzielne w płatnościach i można je objąć niezależnie od siebie,
 
 Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI. Dlatego obok rozmowy stoją trzy plebiscyty na prace poświęcone sztucznej inteligencji, rozstrzygane na tej samej gali: [film](/plebiscyt-filmu), [piosenka](/plebiscyt-piosenki) i [plakat](/plebiscyt-plakatu). **Ta oferta dotyczy wyłącznie plebiscytu na plakat.**
 
-Pierwsza edycja obejmuje prace z 2027 roku, nabór plakatów zamyka się pod koniec listopada 2027 - wcześniej niż nabór rozmów i piosenek, bo antologia musi zdążyć do druku - a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
+Pierwsza edycja obejmuje prace z 2027 roku, nabór plakatów zamyka się pod koniec listopada 2027 - wcześniej niż nabór rozmów i piosenek, bo Antologia musi zdążyć do druku - a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat.
 
 ## <!--ikona:plakat--><span>Czym jest plebiscyt na plakat</span>
 
@@ -41,7 +41,7 @@ Ocena przebiega według **czterech kryteriów, razem 100 punktów**:
 
 Trzy rzeczy dzieją się tylko w tym plebiscycie i tylko w tej ofercie.
 
-**Zwycięski plakat zostaje na trwałe.** Trafia na okładkę [antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku. Okładką jest praca zwycięzcy w wydaniu elektronicznym i książkowym, a zgoda na to jest warunkiem udziału, więc po werdykcie uzgadniamy z autorem samą formę kadru i typografii, a nie to, czy wolno pracy użyć. Nagrody w pozostałych plebiscytach kończą się wypłatą i galą. Ta zostaje na półce.
+**Zwycięski plakat zostaje na trwałe.** Trafia na okładkę [Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) - książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku. Okładką jest praca zwycięzcy w wydaniu elektronicznym i książkowym, a zgoda na to jest warunkiem udziału, więc po werdykcie uzgadniamy z autorem samą formę kadru i typografii, a nie to, czy wolno pracy użyć. Nagrody w pozostałych plebiscytach kończą się wypłatą i galą. Ta zostaje na półce.
 
 **Oryginały prac finałowych jadą na wystawę.** Uczestnik zgłasza zdjęcie albo skan, a oryginał przysyła dopiero wtedy, gdy jury wybierze go do dziesiątki. Prace finalistów wiszą na **wystawie towarzyszącej gali** - oryginały tych, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator, a praca wraca do autora po wystawach. Kto nie chce wysyłać oryginału, nie traci ani nagrody, ani miejsca w werdykcie.
 
@@ -68,7 +68,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 - kontrolę formalną zgłoszeń;
 - obsługę akademii i jury oraz obsługę głosowania publiczności;
 - przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów finalistów;
-- uzgodnienie okładki antologii ze zwycięzcą;
+- uzgodnienie okładki Antologii ze zwycięzcą;
 - obsługę licytacji;
 - dotarcie do szkół artystycznych i środowiska ilustratorów.
 
@@ -113,7 +113,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 - **obsługa jury - 30 godzin**: przydziały, kalibracja ocen, wyłączenia od oceny, zebranie werdyktu dziesiątki;
 - **obsługa głosowania publiczności - 20 godzin**: uruchomienie głosowania, weryfikacja głosów, zebranie i ocena uzasadnień;
 - **przyjęcie, ewidencja, przekazania między wystawami i zwrot oryginałów finalistów - 55 godzin**: uzgodnienia okresu z każdym autorem, protokoły stanu przy przyjęciu i przy zwrocie, dokumentacja zdjęciowa, protokół każdego przekazania między miejscami oraz nadzór nad przesyłkami w obie strony. Trzydzieści pięć godzin wystarcza na obieg z jedną lokalizacją; dwie wystawy i przekazania między nimi wymagają więcej, a tyle ta rola przewiduje;
-- **uzgodnienie okładki antologii ze zwycięzcą - 15 godzin**: propozycja kadru i typografii, uwagi autora, przekazanie do składu;
+- **uzgodnienie okładki Antologii ze zwycięzcą - 15 godzin**: propozycja kadru i typografii, uwagi autora, przekazanie do składu;
 - **dotarcie do szkół artystycznych i środowiska ilustratorów - 50 godzin**: to największa pozycja i największe ryzyko tego plebiscytu, bo bez zgłoszeń nie ma ani werdyktu, ani wystawy, ani okładki;
 - **obsługa licytacji - 30 godzin**: warunki dla finalistów, zgody autorów, przebieg cichej licytacji, kontakt z kupującymi, płatności, rozliczenie podziału po połowie i zamknięcie dokumentacji;
 - **budowa galerii prac i Archiwum plakatów - 50 godzin**: własna ściana plebiscytu, przeglądanie i sortowanie po ocenach;
@@ -143,7 +143,7 @@ Każdą z nich uzgadniamy osobno, aneksem, po przedstawieniu Mecenasowi oferty d
 
 **Co skaluje się z liczbą zgłoszeń, a co nie.** Kontrola formalna rozliczana jest **według faktycznej liczby zgłoszeń**, po 10 minut na zgłoszenie - przy 15 zgłoszeniach Mecenas nie płaci za kontrolę 150. Tak samo transport i ubezpieczenie rozliczają się według liczby przysłanych oryginałów. Pozostałe godziny są **ryczałtem za wykonanie zadania, a nie zakupem godzin**: Mecenas kupuje rezultat - przeprowadzoną ocenę, uzgodnioną okładkę, przeprowadzoną licytację - i płaci za niego umówioną kwotę niezależnie od tego, czy zajęła ona więcej czy mniej czasu. Nakład tych zadań nie zależy od frekwencji: do szkoły trzeba napisać niezależnie od tego, ilu uczniów odpowie.
 
-**Ryczałt za zadanie, które nie wystąpi, nie jest należny.** Jeżeli nie będzie galerii i licytacji, odpada 4 400 zł obsługi licytacji; jeżeli antologia nie powstanie, odpada 3 300 zł uzgodnienia okładki. Kwoty te wracają do Mecenasa tak samo jak niewykorzystana rezerwa. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, a przy pozycjach skalowanych - ile zgłoszeń i ile oryginałów rzeczywiście przez nie przeszło.
+**Ryczałt za zadanie, które nie wystąpi, nie jest należny.** Jeżeli nie będzie galerii i licytacji, odpada 4 400 zł obsługi licytacji; jeżeli Antologia nie powstanie, odpada 3 300 zł uzgodnienia okładki. Kwoty te wracają do Mecenasa tak samo jak niewykorzystana rezerwa. Raport etapu wykazuje przy każdym zadaniu, czy zostało wykonane, a przy pozycjach skalowanych - ile zgłoszeń i ile oryginałów rzeczywiście przez nie przeszło.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów twardych, bez nagród** - od 134 459 zł, czyli 69 300 zł pracy oraz 65 159 zł kosztów twardych: medalu i dyplomów, transportu, ubezpieczenia, dziewięciu pozycji obiegu oryginałów, honorariów zespołu wybierającego najlepsze uzasadnienie, wystawy w postaci gwarantowanej, obsługi prawnej, dojazdu finalistów, narzędzi i magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Mecenasa albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -236,7 +236,7 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Mecenasowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Mecenas ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Mecenas otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
 1. **gala się nie odbywa** i wystawa odbywa się w postaci gwarantowanej zamiast przy gali;
-2. **antologia nie powstaje**, więc zwycięski plakat nie trafia na okładkę;
+2. **Antologia nie powstaje**, więc zwycięski plakat nie trafia na okładkę;
 3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
 4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
 
@@ -276,7 +276,7 @@ Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. N
 **Rola nie obejmuje czterech rzeczy, z których każda ma własny budżet i własnego partnera:**
 
 - **gala** - sala, obsługa i realizacja wieczoru rozstrzygnięcia; w tej ofercie jest wyłącznie wystawa prac finałowych, wyceniona na 8 000 zł w postaci gwarantowanej i odbywająca się przy gali albo, gdyby gali nie było, w osobnym terminie. Bogatsza oprawa wystawy pozostaje pozycją do wyceny;
-- **antologia** - e-book, wydanie książkowe, audiobook i podcast; w tej ofercie jest wyłącznie uzgodnienie okładki ze zwycięzcą, nie wydanie książki;
+- **Antologia** - e-book, wydanie książkowe, audiobook i podcast; w tej ofercie jest wyłącznie uzgodnienie okładki ze zwycięzcą, nie wydanie książki;
 - **infrastruktura wspólna** - fundacja, strona, znak towarowy i narzędzia obsługujące wszystkie cztery plebiscyty, w tym panel oceny używany również przez akademię plakatu;
 - **przestrzeń galerii** - wystawa po gali zależy od pozyskania partnera galerii i nie jest w tej ofercie ani obiecana, ani wyceniona.
 
@@ -299,12 +299,12 @@ Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością a
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
 <div><dt>2027</dt><dd>Otwarcie naboru<small>po spełnieniu pięciu warunków łącznie: pula pokryta środkami na rachunku, ogłoszony skład jury, regulamin po konsultacji prawnej, zapewnione finansowanie pierwszej rundy oceny oraz zabezpieczona obsługa zgłoszeń</small></dd></div>
-<div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru plakatów<small>wcześniej niż nabór rozmów i piosenek, bo praca z pierwszego miejsca trafia na okładkę antologii, a antologia musi zdążyć do druku</small></dd></div>
+<div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru plakatów<small>wcześniej niż nabór rozmów i piosenek, bo praca z pierwszego miejsca trafia na okładkę Antologii, a Antologia musi zdążyć do druku</small></dd></div>
 <div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały, a razem z prośbą idzie uzgodnienie okresu, w którym praca pozostaje u Organizatora: data końcowa, koszty i zakres ubezpieczenia; dostarczenie w ciągu 21 dni, transport i ubezpieczenie po stronie Organizatora</small></dd></div>
 <div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności do gali</small></dd></div>
-<div><dt>Luty 2028</dt><dd>Uzgodnienie okładki antologii ze zwycięzcą<small>propozycja kadru i typografii, 7 dni na uwagi autora</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wystawa prac finałowych, premiera antologii ze zwycięskim plakatem na okładce</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Uzgodnienie okładki Antologii ze zwycięzcą<small>propozycja kadru i typografii, 7 dni na uwagi autora</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wystawa prac finałowych, premiera Antologii ze zwycięskim plakatem na okładce</small></dd></div>
 <div><dt>Lipiec - wrzesień 2028</dt><dd>Wystawa w galerii sztuki i cicha licytacja<small>po gali, żeby prace dało się opisać wraz z zajętymi miejscami; wyłącznie jeżeli galeria zostanie pozyskana i wyłącznie dla finalistów, którzy przyjmą pisemną propozycję - nie jest to obiecane w regulaminie</small></dd></div>
 <div><dt>Do 30 dni od zakończenia ostatniej wystawy, w której praca brała udział</dt><dd>Zwrot oryginałów autorom albo wydanie nabywcom<small>każda praca ma własną datę zwrotu, liczoną od zakończenia tej wystawy, w której brała udział; praca sprzedana na licytacji idzie do nabywcy na warunkach przyjętych wcześniej przez autora</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie z wykonania budżetu<small>pozycja po pozycji, wykorzystanie rezerwy, lista wypłaconych nagród oraz rozliczenie transportu i polisy w zakresie dotychczas zafakturowanym</small></dd></div>
@@ -365,7 +365,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
-- **[Partner wydawniczy antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
+- **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
 - **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów

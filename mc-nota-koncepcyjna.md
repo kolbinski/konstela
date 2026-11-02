@@ -1,6 +1,6 @@
 # Nagroda Konstela - Nota koncepcyjna dla Ministerstwa Cyfryzacji
 
-**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
+**W skrócie.** Nagroda Konstela to coroczna, ogólnopolska nagroda dla ludzi, którzy prowadzą najlepsze rozmowy ze sztuczną inteligencją; nagradzany jest człowiek, a nie program, bo oceniane są pytania, a nie odpowiedzi. Powstają z niej dwa bezpłatne produkty: Antologia najlepszych rozmów i publiczne Archiwum.
 
 **Proszę o list intencyjny** - pisemne stwierdzenie, że Ministerstwo zapoznało się z koncepcją i uznaje jej tematykę za wpisującą się w rozwój kompetencji cyfrowych. Taki dokument nie jest patronatem, nie zawiera zobowiązania finansowego i nie przesądza przyszłej decyzji w sprawie patronatu; odnosi się wyłącznie do zgodności tematyki z obszarem kompetencji resortu, bez oceny samego plebiscytu i bez rekomendacji organizatora. Mówię wprost, czemu ma służyć: zamierzam posługiwać się nim w rozmowach z potencjalnymi fundatorami i partnerami oraz opublikować go na stronie Nagrody. O patronat honorowy nad pierwszą edycją wystąpię odrębnym wnioskiem, po zabezpieczeniu finansowania. **Nie proszę o środki finansowe Ministerstwa.** Rozwinięcie w rozdziale 12.
 
@@ -28,7 +28,7 @@ Nagroda produkuje dokładnie ten materiał - i to jako produkt uboczny plebiscyt
 
 **Archiwum rozmów.** Pełny, publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną. W trakcie naboru rosną one w publicznej czytelni, uporządkowanej wyłącznie według daty zgłoszenia, bez rankingu i bez liczników popularności. W dniu zamknięcia naboru czytelnia zostaje utrwalona jako Archiwum i pozostaje dostępna na stałe, z możliwością przeglądania według daty, tytułu, autora oraz ocen wystawionych przez akademię, jury i publiczność. Jawność ocen jest warunkiem udziału i służy nauce: pozwala postawić obok siebie rozmowę ocenioną wysoko i nisko w tym samym kryterium. Uczestnik decyduje, czy podpisuje zgłoszenie nazwiskiem, czy pseudonimem. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; Archiwum niczego nie ocenia i pokazuje, jak ludzie rozmawiają naprawdę - razem dają obraz pełniejszy niż każde z osobna. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do plebiscytu i zakwalifikowane do dalszej oceny. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
-Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
+Trzy funkcje, które Antologia i Archiwum pełnią jednocześnie:
 
 | Funkcja                                                             | Dla kogo                                                      |
 |---------------------------------------------------------------------|---------------------------------------------------------------|
@@ -38,7 +38,7 @@ Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
 
 Trzecia funkcja jest najistotniejsza z perspektywy publicznej. Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach modelu**. Plebiscyt nagradza więc nieufność wobec AI, a nie zachwyt nad nią.
 
-Czujność jest jednak tylko połową tego, co premiujemy. Czwarte kryterium - **Plon** - nagradza rozmowy, z których człowiek coś wyniósł: nazwaną ideę, rozwiązany problem, odnalezione źródło, zmienioną decyzję. Nie chodzi więc o samo kwestionowanie, lecz o dociekanie, które do czegoś prowadzi. Wzorzec, który antologia pokazuje, to postawa człowieka, który sprawdza odpowiedzi i jednocześnie dochodzi dzięki nim do czegoś, czego nie wiedział na wejściu.
+Czujność jest jednak tylko połową tego, co premiujemy. Czwarte kryterium - **Plon** - nagradza rozmowy, z których człowiek coś wyniósł: nazwaną ideę, rozwiązany problem, odnalezione źródło, zmienioną decyzję. Nie chodzi więc o samo kwestionowanie, lecz o dociekanie, które do czegoś prowadzi. Wzorzec, który Antologia pokazuje, to postawa człowieka, który sprawdza odpowiedzi i jednocześnie dochodzi dzięki nim do czegoś, czego nie wiedział na wejściu.
 
 **Możliwe miejsce w istniejącej strukturze.** Portal kompetencjecyfrowe.gov.pl prowadzi bazę wiedzy, szkolenia i Kluby Rozwoju Cyfrowego, adresowane m.in. do nauczycieli, uczniów, seniorów i urzędników. Materiałów o AI jest tam sporo. Wydany przez Ministerstwo przewodnik "NauczAI" omawia promptowanie, halucynacje, deskilling i obowiązek weryfikacji, a w rozdziale o kompetencjach przyszłości proponuje ćwiczenia, w których uczniowie wykrywają celowo błędne odpowiedzi modelu oraz sami formułują pytania, przy stwierdzeniu, że to dobre pytanie, a nie odpowiedź, jest miarą zrozumienia tematu.
 
@@ -56,7 +56,7 @@ Czujność jest jednak tylko połową tego, co premiujemy. Czwarte kryterium - *
 
 Czego w nich nie ma: **ani jednego zapisu rzeczywistej rozmowy z modelem**. Są pojedyncze przykładowe polecenia, opisy metody i scenariusze; są też transkrypcje, ale wywiadów z nauczycielami o AI, nie rozmów z AI. Wyłania się z tego spójny wzór: badamy, co ludzie mówią o sztucznej inteligencji, i instruujemy, jak jej używać, natomiast nie zapisujemy tego, co dzieje się w środku rozmowy.
 
-Antologia byłaby materiałem źródłowym tego brakującego rodzaju: darmowym, autentycznym i opatrzonym komentarzem jurorów. Ćwiczenia z NauczAI - wykrywanie celowo błędnych odpowiedzi, ocena jakości pytań uczniów - nauczyciel może dziś przygotować samodzielnie; antologia nie jest warunkiem ich prowadzenia, lecz dostarcza do nich materiału autentycznego i opatrzonego komentarzem, którego nie znalazłem w przeanalizowanych publikacjach.
+Antologia byłaby materiałem źródłowym tego brakującego rodzaju: darmowym, autentycznym i opatrzonym komentarzem jurorów. Ćwiczenia z NauczAI - wykrywanie celowo błędnych odpowiedzi, ocena jakości pytań uczniów - nauczyciel może dziś przygotować samodzielnie; Antologia nie jest warunkiem ich prowadzenia, lecz dostarcza do nich materiału autentycznego i opatrzonego komentarzem, którego nie znalazłem w przeanalizowanych publikacjach.
 
 ## 4. Kryteria oceny
 
@@ -87,15 +87,15 @@ Cztery mechanizmy, wszystkie zapisane w regulaminie:
 - zgłoszenia: do 10 stycznia 2028
 - ocena pierwszej rundy: na bieżąco przez cały rok, partiami
 - ocena jury i rozmowy weryfikacyjne: luty i początek marca 2028
-- rozstrzygnięcie i publikacja antologii: druga połowa marca 2028
+- rozstrzygnięcie i publikacja Antologii: druga połowa marca 2028
 
-Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
+Rytm docelowy: jedna edycja rocznie. Każda Antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
 
 ## 7. Kto ocenia: Akademia i jury
 
 Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
-**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, które rozstrzyga o dziesiątce antologii i o laureacie; pozostałe zakwalifikowane przez akademię zasilają Archiwum.
+**Akademia - pierwsza runda oceny.** Zgłoszeń będzie więcej, niż kilkuosobowe jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: kilkunastoosobowe grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem. Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, które rozstrzyga o dziesiątce Antologii i o laureacie; pozostałe zakwalifikowane przez akademię zasilają Archiwum.
 
 **jury - profil składu.** Trzy do pięciu osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron:
 
@@ -104,7 +104,7 @@ Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 - **praktyka** - osoba pracująca z modelami zawodowo,
 - **spoza branży** - sprawdzenie, czy rozmowa jest zrozumiała dla kogoś z zewnątrz.
 
-jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antologii.
+jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w Antologii.
 
 *Nazwisk nie podaję, ponieważ na tym etapie nie prowadzę jeszcze rozmów z kandydatami. Patronat Ministerstwa Cyfryzacji znacząco ułatwiłby ich pozyskanie - zarówno do jury, jak i do akademii - i to jest jedna z głównych korzyści, jakich od niego oczekuję.*
 
@@ -116,7 +116,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 **Fizyczne:** medal z pieczęcią plebiscytu, grawerowany, wręczany osobiście laureatowi; dyplomy dla całej dziesiątki finalistów.
 
-**Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum. Uczestnik może wycofać swoje zgłoszenie z plebiscytu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść antologii jest już zamknięta, wycofanie nie jest możliwe.
+**Trwały produkt:** Antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w Antologii i w Archiwum. Uczestnik może wycofać swoje zgłoszenie z plebiscytu nie później niż 30 dni przed ogłoszeniem wyników; po tym terminie, gdy treść Antologii jest już zamknięta, wycofanie nie jest możliwe.
 
 ## 9. Finansowanie
 
@@ -127,11 +127,11 @@ Finansowanie rozpisane jest na **dwa niezależne podmioty, z których każdy fin
 | Rola | Kwota (netto) | Co finansuje |
 |------------------------------|------------------|------------------------------------------------|
 | Fundator nagrody i gali | ok. 547 tys. zł | pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), honoraria jury i akademii, gala rozstrzygnięcia, promocja naboru, prowadzenie plebiscytu |
-| Partner wydawniczy | ok. 292 tys. zł | produkcja bezpłatnej antologii i publicznego Archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie Archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu |
+| Partner wydawniczy | ok. 292 tys. zł | produkcja bezpłatnej Antologii i publicznego Archiwum: redakcja, korekta, skład, druk pierwszego nakładu, utrzymanie Archiwum i kopii rozmów, powołanie fundacji, produkcja podcastu |
 | **Razem** | **ok. 839 tys. zł** | |
 | Wariant wieloletni | ok. 4 mln zł (1 mln USD) | zobowiązanie na kilka edycji wraz z wersją międzynarodową Nagrody |
 
-Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny. Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
+Wariant wieloletni wymieniam jako horyzont, a nie jako przedmiot obecnych rozmów; realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji Antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny. Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
 
 Poziom docelowy nie jest wzięty z sufitu, tylko policzony. Nagroda Nike przyznaje od 1997 roku **100 tys. zł i kwota ta nie była od tamtej pory zmieniana**. Według indeksu cen konsumpcyjnych te same 100 tys. zł z 1997 roku odpowiada dziś około **315 tys. zł**, a w przeliczeniu na przeciętne wynagrodzenie różnica jest jeszcze wyraźniejsza: wtedy była to równowartość około dziewięćdziesięciu pensji, dziś około dziesięciu. **Nagroda główna w wysokości 300 tys. zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu**. Regulamin przewiduje przy tym, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu zgłoszeń (§ 9 ust. 3). Przepis ten chroni uczestników danej edycji przed obniżeniem przyrzeczonej kwoty; utrzymanie realnej wartości nagrody między edycjami jest osobną sprawą i zależy od decyzji fundatora przy każdej kolejnej edycji.
 
@@ -179,4 +179,4 @@ olbinski@gmail.com
 
 Strona Nagrody (wersja robocza - finalną wykona agencja kreatywna): https://konstela.org
 
-*Koncepcja operacyjna, w tym plan antologii i tryb pracy jury i akademii, dostępna na życzenie.*
+*Koncepcja operacyjna, w tym plan Antologii i tryb pracy jury i akademii, dostępna na życzenie.*

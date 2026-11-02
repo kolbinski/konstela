@@ -40,7 +40,7 @@ konstela.org
 
 ## 2. Wydawnictwo Naukowe PWN - propozycje.wydawnicze@pwn.pl, DW sylwia.ciula@pwn.pl
 
-**Temat:** Propozycja wydawnicza - antologia rozmów z AI jako materiał źródłowy dla szkół
+**Temat:** Propozycja wydawnicza - Antologia rozmów z AI jako materiał źródłowy dla szkół
 
 Szanowni Państwo,
 
@@ -50,7 +50,7 @@ Buduję Nagrodę Konstela: coroczną nagrodę dla ludzi, którzy prowadzą ze sz
 
 Do Państwa piszę w pierwszej kolejności z powodu, który jest dla tej książki najważniejszy. Przeanalizowałem siedem publikacji Ministerstwa Cyfryzacji i NASK, łącznie około sześciuset stron, w tym przewodnik "NauczAI", badania nauczycieli klas 4-8 i opracowanie "AI w szkole". W żadnej z nich nie znalazłem pełnego zapisu rzeczywistej rozmowy człowieka z modelem opatrzonego komentarzem. Są badania o tym, co ludzie mówią o sztucznej inteligencji, i instrukcje, jak jej używać. Ćwiczenia proponowane w "NauczAI" - wykrywanie celowo błędnych odpowiedzi modelu, ocena jakości pytań uczniów - zakładają istnienie takiego materiału, ale go nie dostarczają. Nauczyciel, który chce pokazać klasie, jak wygląda dobra rozmowa z modelem, nie ma czego otworzyć.
 
-Ta antologia jest tym materiałem. Nie poradnikiem i nie zbiorem promptów, tylko zapisem rzeczywistych dialogów, w których widać, jak człowiek drąży, sprawdza, przyłapuje model na zmyśleniu i dochodzi do czegoś, czego nie wiedział na początku. Odbiorcy: nauczyciele i wykładowcy, studenci i uczniowie, osoby pracujące z modelami AI, czytelnicy literatury faktu o technologii. Kanał instytucjonalny w bibliotekach, szkołach i na uczelniach jest dla tego tytułu naturalny, a Państwo są jedynym wydawcą w Polsce, który ma go w pełnym zakresie.
+Ta Antologia jest tym materiałem. Nie poradnikiem i nie zbiorem promptów, tylko zapisem rzeczywistych dialogów, w których widać, jak człowiek drąży, sprawdza, przyłapuje model na zmyśleniu i dochodzi do czegoś, czego nie wiedział na początku. Odbiorcy: nauczyciele i wykładowcy, studenci i uczniowie, osoby pracujące z modelami AI, czytelnicy literatury faktu o technologii. Kanał instytucjonalny w bibliotekach, szkołach i na uczelniach jest dla tego tytułu naturalny, a Państwo są jedynym wydawcą w Polsce, który ma go w pełnym zakresie.
 
 Jedna rzecz wymaga postawienia od razu. Wydanie elektroniczne pozostaje bezpłatne i ma identyczną treść, razem z komentarzami jury, wstępem i wszystkim, co znajdzie się w wydaniu drukowanym. Jest to publiczna obietnica plebiscytu i warunek, na jakim uczestnicy zgłaszają rozmowy; materiał ma trafić do nauczyciela i ucznia, którzy książki nie kupią. Sądzę, że w Państwa kanale działa to raczej na korzyść: bezpłatny plik buduje obecność tytułu w szkołach i na uczelniach, a druk kupują biblioteki, instytucje i czytelnicy, którzy chcą mieć tom na półce. Wyłączność, jaką mogę zaproponować, dotyczy formy i kanału: projektu, formatu, oprawy, wydania specjalnego oraz płatnej dystrybucji elektronicznej w kanałach księgarskich. Nigdy treści.
 
@@ -72,7 +72,7 @@ konstela.org
 
 ## 3. Karakter - redakcja@karakter.pl
 
-**Temat:** Propozycja wydawnicza - antologia rozmów człowieka z AI, tom jako obiekt
+**Temat:** Propozycja wydawnicza - Antologia rozmów człowieka z AI, tom jako obiekt
 
 Szanowni Państwo,
 
@@ -142,7 +142,7 @@ konstela.org
 
 ## 5. Agora - wydawnictwo@agora.pl
 
-**Temat:** Propozycja wydawnicza - antologia rozmów z AI, dokument i wydarzenie
+**Temat:** Propozycja wydawnicza - Antologia rozmów z AI, dokument i wydarzenie
 
 Szanowni Państwo,
 
@@ -178,7 +178,7 @@ konstela.org
 
 ## 6. Universitas - redtech@universitas.com.pl
 
-**Temat:** Propozycja wydawnicza - antologia rozmów z AI jako materiał do dydaktyki
+**Temat:** Propozycja wydawnicza - Antologia rozmów z AI jako materiał do dydaktyki
 
 Szanowny Panie Redaktorze,
 
@@ -220,7 +220,7 @@ Szanowna Pani,
 
 piszę z krótkim pytaniem, zanim przygotuję właściwą propozycję, żeby nie zajmować Pani czasu opisem tytułu, który może nie mieścić się w trybie pracy Wydawnictwa.
 
-Przygotowuję coroczną antologię towarzyszącą Nagrodzie Konstela - nagrodzie dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy. Tom zawiera dziesięć rzeczywistych rozmów w całości, z komentarzami jury, i jest pomyślany jako materiał źródłowy do pracy na zajęciach z dydaktyki, medioznawstwa i kompetencji cyfrowych. Pierwszy tom powstanie w marcu 2028. Wydawcą byłaby fundacja powoływana wyłącznie do prowadzenia Nagrody, bez afiliacji uniwersyteckiej.
+Przygotowuję coroczną Antologię towarzyszącą Nagrodzie Konstela - nagrodzie dla ludzi, którzy prowadzą ze sztuczną inteligencją najlepsze rozmowy. Tom zawiera dziesięć rzeczywistych rozmów w całości, z komentarzami jury, i jest pomyślany jako materiał źródłowy do pracy na zajęciach z dydaktyki, medioznawstwa i kompetencji cyfrowych. Pierwszy tom powstanie w marcu 2028. Wydawcą byłaby fundacja powoływana wyłącznie do prowadzenia Nagrody, bez afiliacji uniwersyteckiej.
 
 Moje pytanie: czy Wydawnictwo wydaje tytuły spoza Uniwersytetu **nakładem własnym, na swój koszt i swoje ryzyko**, w modelu licencyjnym z honorarium od sprzedaży dla podmiotu udzielającego licencji? Czy też standardowym trybem jest kalkulacja kosztu wydania pokrywana przez jednostkę, grant albo autora?
 
@@ -238,7 +238,7 @@ konstela.org
 
 ## 8. Krytyka Polityczna - redakcja@krytykapolityczna.pl
 
-**Temat:** Propozycja wydawnicza - antologia rozmów z AI, zapis zamiast opinii
+**Temat:** Propozycja wydawnicza - Antologia rozmów z AI, zapis zamiast opinii
 
 Szanowni Państwo,
 

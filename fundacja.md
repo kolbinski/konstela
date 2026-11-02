@@ -24,7 +24,7 @@ Cele statutowe:
 - upowszechnianie dostępu do dóbr kultury powstałych w ten sposób, przede wszystkim przez ich nieodpłatne udostępnianie
 - promowanie postawy dociekliwości i rzetelności poznawczej
 
-Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach – na rozmowę, film, piosenkę i plakat – wydawanie i bezpłatne udostępnianie antologii oraz nagrań finalistów, organizowanie wystaw, pokazów i koncertów prezentujących zgłoszone prace, prowadzenie publicznego Archiwum zgłoszeń oraz działalność edukacyjną, w tym materiały dla szkół.
+Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach – na rozmowę, film, piosenkę i plakat – wydawanie i bezpłatne udostępnianie Antologii oraz nagrań finalistów, organizowanie wystaw, pokazów i koncertów prezentujących zgłoszone prace, prowadzenie publicznego Archiwum zgłoszeń oraz działalność edukacyjną, w tym materiały dla szkół.
 
 ## <!--ikona:tarcza--><span>Jak jest zbudowana</span>
 
@@ -38,9 +38,9 @@ Realizuje je przez prowadzenie Nagrody Konstela w czterech plebiscytach – na r
 
 ## <!--ikona:moneta--><span>Skąd pieniądze</span>
 
-**Nagrody i koszty edycji finansują partnerzy i sponsorzy**, a każdy z nich finansuje nazwany zakres: pulę nagród, antologię, pierwszą rundę oceny, konkretny plebiscyt. Wysokość nagród zależy od pozyskanych środków i ogłaszamy ją dopiero wtedy, gdy pieniądze są na rachunku – od tej chwili pula może już wyłącznie rosnąć.
+**Nagrody i koszty edycji finansują partnerzy i sponsorzy**, a każdy z nich finansuje nazwany zakres: pulę nagród, Antologię, pierwszą rundę oceny, konkretny plebiscyt. Wysokość nagród zależy od pozyskanych środków i ogłaszamy ją dopiero wtedy, gdy pieniądze są na rachunku – od tej chwili pula może już wyłącznie rosnąć.
 
-**Udział w plebiscytach jest bezpłatny.** Fundacja nie pobiera opłat od uczestników, nie sprzedaje antologii w wersji elektronicznej i nie uzależnia szans w plebiscycie od czegokolwiek poza oceną zgłoszenia.
+**Udział w plebiscytach jest bezpłatny.** Fundacja nie pobiera opłat od uczestników, nie sprzedaje Antologii w wersji elektronicznej i nie uzależnia szans w plebiscycie od czegokolwiek poza oceną zgłoszenia.
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 

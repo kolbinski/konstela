@@ -56,11 +56,11 @@ Nakład: pełny przydział 20 rozmów to 15-20 godzin rozłożonych na dwanaści
 
 ## 7. Kwalifikacja do rundy drugiej
 
-Do jury przechodzą zgłoszenia o najwyższej **średniej** ocen (nie sumie, bo liczba ocen może się różnić), **nie mniej niż 20**, powiększone o wszystkie skierowane dziką kartą. Między rundami nie ma żadnej innej selekcji: dziesiątka antologii powstaje dopiero z pracy całej jury, a nie z odczytu wstępnego przed nią.
+Do jury przechodzą zgłoszenia o najwyższej **średniej** ocen (nie sumie, bo liczba ocen może się różnić), **nie mniej niż 20**, powiększone o wszystkie skierowane dziką kartą. Między rundami nie ma żadnej innej selekcji: dziesiątka Antologii powstaje dopiero z pracy całej jury, a nie z odczytu wstępnego przed nią.
 
 ## 8. Runda druga - jury
 
-jury czyta zakwalifikowane zgłoszenia w całości, ocenia je i ustala dziesiątkę antologii oraz kolejność. Przy rozbieżności ocen większej niż ustalony próg zarządzana jest ocena trzecia.
+jury czyta zakwalifikowane zgłoszenia w całości, ocenia je i ustala dziesiątkę Antologii oraz kolejność. Przy rozbieżności ocen większej niż ustalony próg zarządzana jest ocena trzecia.
 
 Nakład przy 25 zgłoszeniach: około 17 godzin na osobę, rozłożone na miesiąc.
 

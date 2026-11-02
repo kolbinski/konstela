@@ -76,14 +76,14 @@ def mkidn():
     J = WD_ALIGN_PARAGRAPH.JUSTIFY
     akapit(d, 'Ministerstwo Kultury i Dziedzictwa Narodowego otrzymało opis koncepcji Nagrody '
               'Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy '
-              'z systemami sztucznej inteligencji - oraz towarzyszących jej publikacji: antologii '
+              'z systemami sztucznej inteligencji - oraz towarzyszących jej publikacji: Antologii '
               'najwyżej ocenionych rozmów każdej edycji, wydawanej nieodpłatnie, i publicznego '
               'Archiwum szerszego zbioru rozmów.', align=J)
     akapit(d, 'Ministerstwo odnotowuje, że tematyka przedstawionego przedsięwzięcia dotyczy obszaru '
               'upowszechniania kultury i czytelnictwa oraz dokumentowania dorobku polskojęzycznego. '
               'Zgodnie z przedstawionymi założeniami powstający zbiór ma być zapisem tego, jak '
               'użytkownicy języka polskiego posługują się nowym narzędziem w okresie jego wchodzenia '
-              'do powszechnego użytku, a antologia i Archiwum mają być udostępniane bezpłatnie, '
+              'do powszechnego użytku, a Antologia i Archiwum mają być udostępniane bezpłatnie, '
               'bez rejestracji i bez ograniczeń dostępu.', align=J)
     akapit(d, 'Niniejsze stanowisko odnosi się wyłącznie do tematyki przedsięwzięcia w odniesieniu '
               'do obszaru działania Ministerstwa i opiera się na opisie przedstawionym przez '
@@ -116,7 +116,7 @@ def wydawca():
     akapit(d, '**LIST INTENCYJNY**',
            align=WD_ALIGN_PARAGRAPH.CENTER, po=14)
     J = WD_ALIGN_PARAGRAPH.JUSTIFY
-    akapit(d, 'Wydawnictwo zapoznało się z przedstawioną propozycją wydawniczą antologii Nagrody '
+    akapit(d, 'Wydawnictwo zapoznało się z przedstawioną propozycją wydawniczą Antologii Nagrody '
               'Konstela - corocznego tomu zawierającego dziesięć najwyżej ocenionych rozmów '
               'człowieka ze sztuczną inteligencją, publikowanych w całości wraz z komentarzem '
               'jury.', align=J)

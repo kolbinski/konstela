@@ -41,7 +41,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 
 - dodanie do ekranu telefonu;
 - działanie bez połączenia z siecią;
-- pobranie e-booka i audiobooka antologii do czytania oraz słuchania offline;
+- pobranie e-booka i audiobooka Antologii do czytania oraz słuchania offline;
 - powiadomienia o nowych zgłoszeniach. Wybraliśmy to zamiast osobnej aplikacji w sklepach, ponieważ nie dubluje treści ani kosztów utrzymania, a daje dokładnie te dwie rzeczy, których strona sama nie potrafi.
 
 **Dwa narzędzia obsługujące wszystkie plebiscyty:**
@@ -103,7 +103,7 @@ Zakresy się nie nakładają: godzina spędzona przy kodzie jest rozliczana godz
 - domeny konstela.org i konstela.pl;
 - skrzynka pocztowa w domenie wraz z aliasami.
 
-**Narzędzia AI i licencje kosztują rocznie 30 000 zł i nie należą do tej roli w całości.** Te same narzędzia obsługują cztery plebiscyty, Akademię, antologię, galę i podcast, więc od 31 października 2026 koszt dzieli się między wszystkie budżety proporcjonalnie do pracy organizatora w każdym z nich; na uruchomienie przypada z tego 4 877 zł. Wcześniej całe 30 000 zł płacił Mecenas Założycielski, czyli jeden partner finansował narzędzia, z których korzystali wszyscy pozostali. Klucz podziału i udział każdego budżetu widać w arkuszu.
+**Narzędzia AI i licencje kosztują rocznie 30 000 zł i nie należą do tej roli w całości.** Te same narzędzia obsługują cztery plebiscyty, Akademię, Antologię, galę i podcast, więc od 31 października 2026 koszt dzieli się między wszystkie budżety proporcjonalnie do pracy organizatora w każdym z nich; na uruchomienie przypada z tego 4 877 zł. Wcześniej całe 30 000 zł płacił Mecenas Założycielski, czyli jeden partner finansował narzędzia, z których korzystali wszyscy pozostali. Klucz podziału i udział każdego budżetu widać w arkuszu.
 
 **Co kupuje cała pozycja, 30 000 zł**, czyli 2 500 zł miesięcznie:
 
@@ -203,11 +203,11 @@ Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wy
 
 ## <!--ikona:puchar--><span>Co otrzymuje Mecenas</span>
 
-Tytuł **Mecenasa Założycielskiego Nagrody Konstela**, wymieniany **w prologu każdej antologii, również w edycjach następnych** - w wydaniu elektronicznym, drukowanym i dźwiękowym, a w audiobooku odczytywany w zapowiedzi otwierającej nagranie. Jest to jedyny tytuł w całym przedsięwzięciu, który nie wygasa wraz z edycją. Zastrzeżenie, które do niego należy: prolog kolejnej antologii powstanie wtedy, gdy powstanie kolejna edycja, a tego nikt dziś nie może obiecać. Utrzymanie narzędzi w następnych latach - aktualizacje, zmiany po stronie dostawców AI, hosting - jest kosztem fundacji i pozycją budżetów kolejnych edycji, nie tej oferty.
+Tytuł **Mecenasa Założycielskiego Nagrody Konstela**, wymieniany **w prologu każdej Antologii, również w edycjach następnych** - w wydaniu elektronicznym, drukowanym i dźwiękowym, a w audiobooku odczytywany w zapowiedzi otwierającej nagranie. Jest to jedyny tytuł w całym przedsięwzięciu, który nie wygasa wraz z edycją. Zastrzeżenie, które do niego należy: prolog kolejnej Antologii powstanie wtedy, gdy powstanie kolejna edycja, a tego nikt dziś nie może obiecać. Utrzymanie narzędzi w następnych latach - aktualizacje, zmiany po stronie dostawców AI, hosting - jest kosztem fundacji i pozycją budżetów kolejnych edycji, nie tej oferty.
 
 Poza tytułem Mecenas otrzymuje:
 
-- **Logo** na stronie konstela.org przez cały okres edycji oraz w stopce redakcyjnej antologii.
+- **Logo** na stronie konstela.org przez cały okres edycji oraz w stopce redakcyjnej Antologii.
 - **Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia** - o tym, dlaczego firma postanowiła sfinansować powstanie Nagrody.
 - **Prawo używania tytułu we własnej komunikacji** - w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych - wraz z pakietem gotowych materiałów: znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
 - **Udział pracowników Mecenasa** w akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
@@ -220,7 +220,7 @@ Poza tytułem Mecenas otrzymuje:
 
 **Nazwa Nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa.** Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu.
 
-Rola nie obejmuje puli nagród, honorariów jury i akademii, gali, antologii, Archiwum ani podcastu - każda z tych rzeczy ma własny budżet i własnego partnera.
+Rola nie obejmuje puli nagród, honorariów jury i akademii, gali, Antologii, Archiwum ani podcastu - każda z tych rzeczy ma własny budżet i własnego partnera.
 
 **Nie przyjmujemy finansowania od dostawców modeli sztucznej inteligencji** w edycjach krajowych, bo konflikt interesów byłby zbyt oczywisty.
 
@@ -228,7 +228,7 @@ Rola nie obejmuje puli nagród, honorariów jury i akademii, gali, antologii, Ar
 
 **Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny. Strona Nagrody działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a [statut fundacji](/statut) gotowy w projekcie. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
 
-**W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny w sprawie antologii (do wglądu na życzenie), zastrzegając, że nie przesądza on decyzji wydawniczej.
+**W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny w sprawie Antologii (do wglądu na życzenie), zastrzegając, że nie przesądza on decyzji wydawniczej.
 
 **Przed nami, czyli przedmiot tej oferty.** Fundacja, konsultacja prawna, zgłoszenie znaku, strona z wersją mobilną i trzy narzędzia. **Budowa nie zależy od żadnego innego partnera** i może ruszyć natychmiast po podpisaniu umowy - to jest różnica między tą rolą a pozostałymi. To, czy narzędzia się przydadzą, zależy już od tego, czy edycja się odbędzie, i tego nie ukrywamy.
 
@@ -323,14 +323,14 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 - **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 628 752,16 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 827,68 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 769,12 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 745,10 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 679,20 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
-- **[Partner wydawniczy antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
+- **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
 - **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów

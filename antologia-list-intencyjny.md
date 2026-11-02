@@ -18,7 +18,7 @@ ul. 11 Listopada 12/1
 LIST INTENCYJNY
 
 
-Wydawnictwo zapoznało się z przedstawioną propozycją wydawniczą antologii Nagrody Konstela - corocznego tomu zawierającego dziesięć najwyżej ocenionych rozmów człowieka ze sztuczną inteligencją, publikowanych w całości wraz z komentarzem jury.
+Wydawnictwo zapoznało się z przedstawioną propozycją wydawniczą Antologii Nagrody Konstela - corocznego tomu zawierającego dziesięć najwyżej ocenionych rozmów człowieka ze sztuczną inteligencją, publikowanych w całości wraz z komentarzem jury.
 
 Wydawnictwo stwierdza, że tematyka propozycji mieści się w obszarze jego zainteresowań wydawniczych, i deklaruje **wstępne zainteresowanie oraz gotowość rozważenia wydania tomu** po otrzymaniu kompletnego materiału.
 

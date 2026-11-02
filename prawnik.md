@@ -10,7 +10,7 @@ Dokument zebrany po to, żeby wycena pracy była możliwa z jednego maila. Zawie
 
 ## A. Co to jest, w pięciu zdaniach
 
-Coroczny plebiscyt dla osób, które prowadzą pogłębione rozmowy z modelami sztucznej inteligencji. Oceniane są pytania zadawane przez człowieka, a nie odpowiedzi modelu; zgłoszeniem jest link do udostępnionej rozmowy, a nie plik z transkryptem. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej antologii, a szerszy zbiór rozmów zakwalifikowanych do drugiej rundy w publicznym Archiwum; publikacja jest warunkiem udziału, na podstawie licencji udzielanej przy zgłoszeniu (§ 11 ust. 3). Nagrody pieniężne pochodzą od fundatora zewnętrznego; organizator nie pobiera żadnych opłat od uczestników. Pierwsza edycja obejmuje rozmowy z 2027 roku, zgłoszenia do 10 stycznia 2028, rozstrzygnięcie w drugiej połowie czerwca 2028, a **nabór nie zostanie otwarty przed zakończeniem tej konsultacji** - to warunek wpisany do § 10 ust. 5 regulaminu.
+Coroczny plebiscyt dla osób, które prowadzą pogłębione rozmowy z modelami sztucznej inteligencji. Oceniane są pytania zadawane przez człowieka, a nie odpowiedzi modelu; zgłoszeniem jest link do udostępnionej rozmowy, a nie plik z transkryptem. Dziesięć najwyżej ocenionych rozmów ukazuje się w bezpłatnej Antologii, a szerszy zbiór rozmów zakwalifikowanych do drugiej rundy w publicznym Archiwum; publikacja jest warunkiem udziału, na podstawie licencji udzielanej przy zgłoszeniu (§ 11 ust. 3). Nagrody pieniężne pochodzą od fundatora zewnętrznego; organizator nie pobiera żadnych opłat od uczestników. Pierwsza edycja obejmuje rozmowy z 2027 roku, zgłoszenia do 10 stycznia 2028, rozstrzygnięcie w drugiej połowie czerwca 2028, a **nabór nie zostanie otwarty przed zakończeniem tej konsultacji** - to warunek wpisany do § 10 ust. 5 regulaminu.
 
 Konstrukcja prawna przyjęta w dokumencie: **przyrzeczenie publiczne** (art. 919 i nast. k.c.), z wyraźnym wyłączeniem gry losowej, zryczałtowanym podatkiem 10% od nagród i organizatorem jako płatnikiem.
 
@@ -20,9 +20,9 @@ Pytania dotyczące poszczególnych plebiscytów są w czterech osobnych plikach,
 
 | Plik | Co obejmuje | Co blokuje |
 | --- | --- | --- |
-| [plebiscyt na rozmowę i antologia](/dokument/prawnik-rozmowy) | podstawy przetwarzania i klauzula informacyjna, wycofanie zgody po publikacji, status wypowiedzi modelu, licencja i wydanie płatne, kopia archiwalna, czytelnia i jawna punktacja, rundy uczestników, mecenat antologii | otwarcie naboru i ostateczne brzmienie polityki prywatności |
+| [plebiscyt na rozmowę i Antologia](/dokument/prawnik-rozmowy) | podstawy przetwarzania i klauzula informacyjna, wycofanie zgody po publikacji, status wypowiedzi modelu, licencja i wydanie płatne, kopia archiwalna, czytelnia i jawna punktacja, rundy uczestników, mecenat Antologii | otwarcie naboru i ostateczne brzmienie polityki prywatności |
 | [plebiscyt na piosenkę](/dokument/prawnik-piosenki) | utwory muzyczne i artystyczne wykonania, nagrania studyjne finalistów, głosowanie publiczności i loteria promocyjna, umowa z wykonawcą piosenki Nagrody | ogłoszenie nagrody w postaci nagrania studyjnego |
-| [plebiscyt na plakat](/dokument/prawnik-plakatu) | aukcje prac uczestników prowadzone przez fundację, okładka antologii | kształt § 14 regulaminu plakatu |
+| [plebiscyt na plakat](/dokument/prawnik-plakatu) | aukcje prac uczestników prowadzone przez fundację, okładka Antologii | kształt § 14 regulaminu plakatu |
 | [plebiscyt na film](/dokument/prawnik-filmu) | muzyka w kopii archiwalnej, pola eksploatacji przy projekcji publicznej, następcy prawni uczestnika | otwarcie naboru w plebiscycie na film |
 
 Klauzula informacyjna, model podatkowy, forma organizatora i wzory umów z oceniającymi powstają raz i obowiązują we wszystkich czterech - dlatego są w tym pliku, a nie w czterech kopiach.
@@ -41,8 +41,8 @@ Oba obszary poniżej **blokują otwarcie naboru** we wszystkich plebiscytach nar
 18. Czy płatnikiem zryczałtowanego podatku 10% jest organizator także wtedy, gdy środki pochodzą od fundatora zewnętrznego, i jak powinna wyglądać umowa z fundatorem, żeby tę kwestię domknąć.
 19. Czy uczestnik spoza Polski rodzi inne obowiązki podatkowe i czy regulamin powinien ograniczyć krąg uczestników.
 20. Czy możliwość nierozstrzygnięcia edycji jest skuteczna wobec osób, które już się zgłosiły, skoro przyrzeczenie publiczne wiąże od ogłoszenia.
-21. Jaka jest odpowiedzialność organizatora za treść rozmowy opublikowanej w antologii, jeżeli mimo procedur zawiera ona treść naruszającą czyjeś dobra osobiste; czy sensowne jest ubezpieczenie i jakiego rodzaju.
-22. Organizatorem będzie fundacja (decyzja z 20.10.2026, opisana niżej w tej samej części). Czy zmienia to którąkolwiek z powyższych odpowiedzi, w szczególności co do płatnika podatku i odpowiedzialności za treść antologii.
+21. Jaka jest odpowiedzialność organizatora za treść rozmowy opublikowanej w Antologii, jeżeli mimo procedur zawiera ona treść naruszającą czyjeś dobra osobiste; czy sensowne jest ubezpieczenie i jakiego rodzaju.
+22. Organizatorem będzie fundacja (decyzja z 20.10.2026, opisana niżej w tej samej części). Czy zmienia to którąkolwiek z powyższych odpowiedzi, w szczególności co do płatnika podatku i odpowiedzialności za treść Antologii.
 
 ---
 
@@ -105,7 +105,7 @@ Osobne pytanie z tej samej rozmowy, dotyczące już nie akademii, lecz sponsora:
 
 **Pytanie podstawowe, od którego zależą cztery powyższe.**
 
-1. **Zastąpienie członków jury członkami akademii w składzie decydującym o odrzuceniu zgłoszenia.** Decyzje o odrzuceniu zgłoszenia z § 6 wymagają zgodnej opinii co najmniej dwóch członków jury. Liczba takich spraw rośnie wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób, więc przy bardzo dużym naborze etap ten nie domyka się w żadnym terminie. Dlatego powyżej liczby postępowań ogłoszonej przed naborem dwóch jurorów zastępuje dwóch wskazanych wcześniej członków akademii, z wyłączeniem decyzji rozstrzygających o dziesiątce antologii.
+1. **Zastąpienie członków jury członkami akademii w składzie decydującym o odrzuceniu zgłoszenia.** Decyzje o odrzuceniu zgłoszenia z § 6 wymagają zgodnej opinii co najmniej dwóch członków jury. Liczba takich spraw rośnie wprost proporcjonalnie do liczby zgłoszeń, a jury liczy od trzech do pięciu osób, więc przy bardzo dużym naborze etap ten nie domyka się w żadnym terminie. Dlatego powyżej liczby postępowań ogłoszonej przed naborem dwóch jurorów zastępuje dwóch wskazanych wcześniej członków akademii, z wyłączeniem decyzji rozstrzygających o dziesiątce Antologii.
 
    - Czy przy przyrzeczeniu publicznym (art. 919 KC) można przenieść na inny organ decyzję o odrzuceniu zgłoszenia, jeżeli ogłoszenie o otwarciu naboru podaje z góry zarówno próg, jak i skład zastępczy.
    - Czy nie jest to postanowienie niedozwolone w rozumieniu art. 385(1) KC przez to, że o najcięższym skutku rozstrzyga organ o słabszej pozycji niż ten wskazany jako podstawowy - i czy wystarczającym zabezpieczeniem jest pozostawienie przy jury decyzji dotyczących zgłoszeń będących w rundzie drugiej.
@@ -119,7 +119,7 @@ Rozważamy osobnego sponsora pierwszej rundy oceny - najprawdopodobniej sieć ha
 
 30. **Rozliczenie między fundacją a sponsorem rzeczowym.** Sponsor przekazuje vouchery, a nie pieniądze. Czy po stronie Organizatora to darowizna rzeczowa, czy świadczenie wzajemne rozliczane fakturą za usługę promocyjną - tak jak zakładamy przy pozostałych budżetach? Jak ustalić podstawę opodatkowania VAT, skoro voucher ma nominał, a koszt wystawcy jest od niego niższy. Czy przekazanie voucherów dalej, czytelnikom, rodzi po stronie fundacji obowiązek w VAT.
 
-31. **Niezależność oceny wobec sponsora komercyjnego.** Sponsor finansuje ciało, które jako pierwsze punktuje zgłoszenia. Zamierzamy zapisać, że sponsor nie ma kontaktu z czytelnikami, dostępu do zgłoszeń przed ogłoszeniem wyników ani wpływu na przydziały, a jego udział jest jawny na stronie Nagrody i w antologii. Pytania: czy ten zestaw wystarczy, żeby wykluczyć zarzut wpływu na wynik plebiscytu; czy takie zastrzeżenie należy umieścić w regulaminie, czy wystarczy umowa sponsorska; czy fakt, że wysokość świadczenia zależy od liczby ocenionych rozmów, a nie od ich wyniku, ma tu znaczenie prawne.
+31. **Niezależność oceny wobec sponsora komercyjnego.** Sponsor finansuje ciało, które jako pierwsze punktuje zgłoszenia. Zamierzamy zapisać, że sponsor nie ma kontaktu z czytelnikami, dostępu do zgłoszeń przed ogłoszeniem wyników ani wpływu na przydziały, a jego udział jest jawny na stronie Nagrody i w Antologii. Pytania: czy ten zestaw wystarczy, żeby wykluczyć zarzut wpływu na wynik plebiscytu; czy takie zastrzeżenie należy umieścić w regulaminie, czy wystarczy umowa sponsorska; czy fakt, że wysokość świadczenia zależy od liczby ocenionych rozmów, a nie od ich wyniku, ma tu znaczenie prawne.
 
 32. **Bodziec ilościowy a rzetelność oceny.** Świadczenie naliczane od liczby przeczytanych rozmów premiuje tempo. Rozważamy przestawienie jednostki na **ukończony przydział czytelnika** zamiast na liczbę rozmów. Czy z punktu widzenia odpowiedzialności Organizatora za rzetelność rozstrzygnięcia któraś z tych konstrukcji jest wyraźnie bezpieczniejsza.
 

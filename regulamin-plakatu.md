@@ -61,7 +61,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** – rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
 
-4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
+4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, Antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
 
 ## § 2. Przedmiot plebiscytu
 
@@ -69,7 +69,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. Temat nie zostaje zawężony przez Organizatora. Organizator nie podaje hasła, układu ani oczekiwanego stosunku do sztucznej inteligencji.
 
-3. Praca zwycięska zostaje wykorzystana jako **okładka antologii** wydawanej przez Organizatora w danej edycji oraz w materiałach informacyjnych tej edycji, na zasadach określonych w § 13. **Zgoda na to wykorzystanie jest warunkiem udziału w plebiscycie**, a forma okładki jest uzgadniana z autorem (§ 9 ust. 4a).
+3. Praca zwycięska zostaje wykorzystana jako **okładka Antologii** wydawanej przez Organizatora w danej edycji oraz w materiałach informacyjnych tej edycji, na zasadach określonych w § 13. **Zgoda na to wykorzystanie jest warunkiem udziału w plebiscycie**, a forma okładki jest uzgadniana z autorem (§ 9 ust. 4a).
 
 4. Plebiscyt jest rozstrzygany przez jury, a nie w drodze głosowania publiczności. Nagroda publiczności jest nagrodą odrębną, przyznawaną niezależnie od werdyktu jury.
 
@@ -93,7 +93,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. Plan, na podstawie którego Organizator prowadzi przygotowania i który nie stanowi zobowiązania wobec kogokolwiek, przewiduje otwarcie naboru na początku 2027 roku, **zamknięcie naboru 30 listopada 2027 roku**, ogłoszenie dziesiątki finalistów w połowie grudnia 2027 roku, oględziny oryginałów i werdykt jury na początku lutego 2028 roku oraz rozstrzygnięcie i galę w drugiej połowie czerwca 2028 roku.
 
-3. **Nabór w tym plebiscycie zamyka się wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją**, ponieważ praca, która zajmie pierwsze miejsce, trafia na okładkę antologii tej edycji, a antologia musi zdążyć do druku.
+3. **Nabór w tym plebiscycie zamyka się wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją**, ponieważ praca, która zajmie pierwsze miejsce, trafia na okładkę Antologii tej edycji, a Antologia musi zdążyć do druku.
 
 4. Terminy obiegu oryginałów prac finałowych wyznacza § 10, niezależnie od terminów wymienionych w ust. 2; biegną one od dnia odebrania konkretnej pracy, a nie od zamknięcia naboru ani od dnia ustalenia werdyktu.
 
@@ -117,9 +117,9 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
    c1) **dlaczego warte nagrody głównej, czyli co sprawia, że warto zatrzymać się przy tej pracy** – do 700 znaków własnego uzasadnienia – obowiązkowe. Pole jest prezentowane publicznie w Galerii i w Archiwum (§ 11) i **nie podlega ocenie** w żadnym kryterium (§ 7 ust. 3);
 
-   c2) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Galerii i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   c2) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Galerii i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w Antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
-   c3) **link do własnej oferty sprzedaży pracy wraz z datą jej zakończenia** – **nieobowiązkowe**, na zasadach określonych w § 14 ust. 8 i następnych. Link i data prezentowane są publicznie przy wpisie w Archiwum, **nie podlegają ocenie** w żadnym kryterium i nie są publikowane w antologii ani w materiałach drukowanych;
+   c3) **link do własnej oferty sprzedaży pracy wraz z datą jej zakończenia** – **nieobowiązkowe**, na zasadach określonych w § 14 ust. 8 i następnych. Link i data prezentowane są publicznie przy wpisie w Archiwum, **nie podlegają ocenie** w żadnym kryterium i nie są publikowane w Antologii ani w materiałach drukowanych;
 
    d) technikę, wymiary oryginału i rok powstania;
 
@@ -276,7 +276,7 @@ Oceniający musi umieć wskazać miejsce uzasadniające pasmo **oraz powiedzieć
 
 **Kolejność oglądania w kryterium Działanie.** Działanie plakatu ocenia się **zaczynając od pomniejszenia**, zanim oceniający zobaczy reprodukcję całości w dużej skali, i zapisuje, co z miniatury odczytał. Bez tej kolejności nie da się rozstrzygnąć najwyższego pasma: kto zna już duży obraz, odczytuje wypowiedź z miniatury **z pamięci, nie z niej samej**. Pozostałe trzy kryteria ocenia się na reprodukcji całości i na zbliżeniu.
 
-**Warunki testu pomniejszenia.** Pomniejszenie wykonuje się **na tej samej reprodukcji, która jest zgłoszeniem**, do **18 milimetrów dłuższego boku**, na ekranie, bez wyostrzania i bez zmiany kadru. Ten rozmiar odpowiada miniaturze w spisie Galerii i znaczkowi na okładce antologii. Warunki są jednakowe dla wszystkich zgłoszeń, a oceniający nie dobiera własnego rozmiaru.
+**Warunki testu pomniejszenia.** Pomniejszenie wykonuje się **na tej samej reprodukcji, która jest zgłoszeniem**, do **18 milimetrów dłuższego boku**, na ekranie, bez wyostrzania i bez zmiany kadru. Ten rozmiar odpowiada miniaturze w spisie Galerii i znaczkowi na okładce Antologii. Warunki są jednakowe dla wszystkich zgłoszeń, a oceniający nie dobiera własnego rozmiaru.
 
 **Którą właściwość elementu punktujemy.** Ten sam element pracy może uzasadniać ocenę w kilku kryteriach, ale **każda musi dotyczyć innej jego właściwości**, a oceniający nazywa tę właściwość w uzasadnieniu. Podział jest następujący: **Ujęcie tematu** - treść rozpoznania o życiu ze sztuczną inteligencją; **Pomysł plastyczny** - sposób zakodowania tego rozpoznania w obrazie, czyli mechanizm metafory; **Wykonanie** - trafność materialnego środka, który ten mechanizm artykułuje; **Działanie plakatu** - zachowanie nośnika wypowiedzi po redukcji i w warunkach oglądania. Przy zatarciu twarzy jako utracie podmiotowości: **utrata podmiotowości** należy do Ujęcia, **zatarcie jako mechanizm** do Pomysłu, **jakość samego zatarcia** - krawędź, prześwit, ślad, kontrast - do Wykonania, a **rozpoznawalność tego zatarcia w pomniejszeniu** do Działania. **Powtarzanie tego samego uzasadnienia pod inną nazwą jest niedopuszczalne**: oceniający, który tą samą właściwością uzasadnia dwie oceny, podnosi wynik dwukrotnie za jedną rzecz. Nagradzanie złożoności formalnej jako odkrywczości wypowiedzi jest tym samym błędem: **obraz może zawierać wszystkie wskazywalne zależności i nadal mówić jedną obiegową rzecz**.
 
@@ -350,9 +350,9 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 **Co wiąże jury przy ustalaniu kolejności.** Punktacja jest podstawą narady, a nie automatem: ostateczną kolejność ustala jury w dyskusji, bo o miejscu decyduje całość zgłoszenia, a nie druga cyfra po przecinku w średniej. Żeby nie czyniło to z werdyktu rozstrzygnięcia uznaniowego, obowiązują trzy rzeczy. **Punktacja wszystkich etapów oceny jest jawna** przy każdym zgłoszeniu, więc każdy widzi, czy kolejność od niej odbiega. **Jeżeli odbiega, uzasadnienie werdyktu wskazuje, w których miejscach i z jakiego powodu**, i jest publikowane razem z werdyktem. **Narada i głosowanie są protokołowane**; protokół zostaje u Organizatora i jest udostępniany Radzie Fundacji na żądanie. **Granice odstępstwa.** Granicę liczy się **względem kolejności punktowej, a nie kolejno po każdej zamianie**: zgłoszenie może w ostatecznej kolejności wyprzedzić wyłącznie te zgłoszenia, których średnia jest wyższa od jego własnej o **nie więcej niż pięć punktów na sto**. Serie zamian nie pozwalają tej granicy obejść - przy wynikach 95, 91 i 87 punktów zgłoszenie z 87 nie może znaleźć się przed zgłoszeniem z 95, choćby każda pojedyncza zamiana mieściła się w limicie. Każde odstępstwo wymaga **jednomyślności** obecnego składu, a nagrodę pierwszego stopnia może otrzymać wyłącznie zgłoszenie, które według średniej znalazło się w pierwszej trójce. Jury nie może przy tym pominąć zgłoszenia zakwalifikowanego do oceny końcowej ani wprowadzić do dziesiątki zgłoszenia, które się do niej nie zakwalifikowało.
 
-4c. **Werdykt zapada przed galą**, w terminie pozwalającym na przygotowanie i wydrukowanie antologii z okładką opartą na pracy zwycięskiej. Organizator zawiadamia o nim laureatów niezwłocznie; laureaci zachowują werdykt w poufności do chwili jego publicznego ogłoszenia.
+4c. **Werdykt zapada przed galą**, w terminie pozwalającym na przygotowanie i wydrukowanie Antologii z okładką opartą na pracy zwycięskiej. Organizator zawiadamia o nim laureatów niezwłocznie; laureaci zachowują werdykt w poufności do chwili jego publicznego ogłoszenia.
 
-4d. **Publiczne ogłoszenie werdyktu następuje podczas gali**, razem z premierą antologii.
+4d. **Publiczne ogłoszenie werdyktu następuje podczas gali**, razem z premierą Antologii.
 
 4e. **Nabór w plebiscycie na plakat zamyka się wcześniej niż nabór zgłoszeń do Nagrody Konstela.** Terminy obu naborów Organizator ogłasza przed otwarciem plebiscytu.
 
@@ -409,7 +409,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
    c) **medal Nagrody Konstela, wręczany osobiście zwycięzcy** oraz dyplomy dla wszystkich dziesięciu finalistów;
 
-   d) wykorzystanie pracy zwycięskiej jako okładki antologii danej edycji.
+   d) wykorzystanie pracy zwycięskiej jako okładki Antologii danej edycji.
 
 2. **Wysokość nagród pieniężnych zależy od środków pozyskanych od sponsorów.** Organizator ogłasza ją na stronie Nagrody w dniu otwarcia naboru, wraz z listą partnerów edycji, i od tej chwili jest nią związany. Ogłasza wyłącznie te kwoty, które wpłynęły wcześniej na jego rachunek.
 
@@ -419,7 +419,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 3a. Nagrody pieniężne wypłacane są przelewem w terminie **30 dni od dnia gali**, na rachunek wskazany przez laureata.
 
-4. **Wykorzystanie pracy zwycięskiej jako okładki antologii jest warunkiem udziału w plebiscycie** (§ 13 ust. 2 lit. d i ust. 4) i nie wymaga odrębnej zgody. Zasada ta jest ogłaszana przed otwarciem naboru, a udział w plebiscycie jest dobrowolny.
+4. **Wykorzystanie pracy zwycięskiej jako okładki Antologii jest warunkiem udziału w plebiscycie** (§ 13 ust. 2 lit. d i ust. 4) i nie wymaga odrębnej zgody. Zasada ta jest ogłaszana przed otwarciem naboru, a udział w plebiscycie jest dobrowolny.
 
 4a. **Formę okładki – kadr, typografię i dostosowanie do formatu wydania – Organizator uzgadnia z autorem.** Organizator przedstawia propozycję niezwłocznie po zawiadomieniu o werdykcie (§ 8 ust. 4c), a więc przed galą, a autor zgłasza uwagi w terminie 7 dni. Praca jest oceniana jako samodzielny plakat, a nie jako projekt okładki, i Organizator nie oczekuje od autora wykonania poprawek.
 
@@ -522,11 +522,11 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
    c1) prezentacja oryginału pracy na wystawie w galerii sztuki oraz jej dokumentacja fotograficzna i filmowa. **Zakres ten nie jest warunkiem udziału i obejmuje wyłącznie finalistów, którzy przyjęli propozycję, o której mowa w § 10 ust. 3a;**
 
-   d) w odniesieniu do pracy zwycięskiej – reprodukcja na okładce antologii danej edycji, w jej wydaniu elektronicznym i drukowanym, oraz w materiałach informacyjnych tej edycji. **Zakres ten jest warunkiem udziału** i obejmuje reprodukcję całej pracy albo kadr uzgodniony z autorem (§ 9 ust. 4a), zawsze z podaniem imienia i nazwiska albo pseudonimu autora na stronie redakcyjnej.
+   d) w odniesieniu do pracy zwycięskiej – reprodukcja na okładce Antologii danej edycji, w jej wydaniu elektronicznym i drukowanym, oraz w materiałach informacyjnych tej edycji. **Zakres ten jest warunkiem udziału** i obejmuje reprodukcję całej pracy albo kadr uzgodniony z autorem (§ 9 ust. 4a), zawsze z podaniem imienia i nazwiska albo pseudonimu autora na stronie redakcyjnej.
 
-3. Czas trwania licencji: w zakresie lit. a – do dnia ogłoszenia werdyktu; w zakresie lit. b – bezterminowo, z zastrzeżeniem § 11 ust. 4; w zakresie lit. c – bezterminowo w odniesieniu do zapisu gali; w zakresie lit. c1 – do dnia zakończenia wystawy w galerii, a bezterminowo w odniesieniu do jej dokumentacji; w zakresie lit. d – bezterminowo, w granicach nakładu i wznowień antologii danej edycji.
+3. Czas trwania licencji: w zakresie lit. a – do dnia ogłoszenia werdyktu; w zakresie lit. b – bezterminowo, z zastrzeżeniem § 11 ust. 4; w zakresie lit. c – bezterminowo w odniesieniu do zapisu gali; w zakresie lit. c1 – do dnia zakończenia wystawy w galerii, a bezterminowo w odniesieniu do jej dokumentacji; w zakresie lit. d – bezterminowo, w granicach nakładu i wznowień Antologii danej edycji.
 
-4. **Warunkiem udziału w plebiscycie jest udzielenie licencji w zakresie ust. 2 lit. a, b i d.** Bez lit. a i b zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału; lit. d dotyczy wyłącznie pracy zwycięskiej i jest warunkiem udziału dlatego, że okładka antologii jest **zapowiedzianą z góry częścią tego plebiscytu**, a antologia ma ustalony termin druku. Zakres ten obejmuje samo wykorzystanie pracy na okładce; **o formie – kadrze, typografii i dostosowaniu do formatu wydania – rozstrzyga § 9 ust. 4a**, a autorskie prawa osobiste autora, w tym prawo do nienaruszalności formy utworu, pozostają przy nim i nie podlegają zrzeczeniu. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), zakres lit. c1 – wyłącznie finalistów, którzy przyjęli propozycję z § 10 ust. 3a, a **zakres lit. d jest udzielany już przy zgłoszeniu, pod warunkiem zajęcia pierwszego miejsca, i nie wymaga późniejszej zgody**; późniejsze uzgodnienie dotyczy wyłącznie formy wykorzystania pracy (§ 9 ust. 4a-4a2). Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
+4. **Warunkiem udziału w plebiscycie jest udzielenie licencji w zakresie ust. 2 lit. a, b i d.** Bez lit. a i b zgłoszenia nie da się zaprezentować, a prezentacja jest warunkiem udziału; lit. d dotyczy wyłącznie pracy zwycięskiej i jest warunkiem udziału dlatego, że okładka Antologii jest **zapowiedzianą z góry częścią tego plebiscytu**, a Antologia ma ustalony termin druku. Zakres ten obejmuje samo wykorzystanie pracy na okładce; **o formie – kadrze, typografii i dostosowaniu do formatu wydania – rozstrzyga § 9 ust. 4a**, a autorskie prawa osobiste autora, w tym prawo do nienaruszalności formy utworu, pozostają przy nim i nie podlegają zrzeczeniu. Zakres lit. c obejmuje wyłącznie finalistów i wiąże się z przesłaniem oryginału (§ 10 ust. 4), zakres lit. c1 – wyłącznie finalistów, którzy przyjęli propozycję z § 10 ust. 3a, a **zakres lit. d jest udzielany już przy zgłoszeniu, pod warunkiem zajęcia pierwszego miejsca, i nie wymaga późniejszej zgody**; późniejsze uzgodnienie dotyczy wyłącznie formy wykorzystania pracy (§ 9 ust. 4a-4a2). Przy pracy wykonanej wspólnie licencji udziela reprezentant w imieniu wszystkich współautorów.
 
 5. Uczestnik oświadcza przy zgłoszeniu, że przysługują mu prawa do pracy w zakresie pozwalającym na udzielenie licencji określonej w ust. 2 oraz że praca nie narusza praw osób trzecich.
 
@@ -598,7 +598,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 4. Organizator nie rozstrzyga sporów o autorstwo między Uczestnikiem a osobami trzecimi i odsyła w tym zakresie do przepisów ogólnych.
 
-5. Wykazanie, że oświadczenie złożone na podstawie § 6 ust. 5 albo § 13 ust. 5 było niezgodne z prawdą, powoduje wyłączenie zgłoszenia z plebiscytu. Jeżeli wyłączenie nastąpi po wypłacie nagrody, Organizator żąda jej zwrotu; jeżeli po wydaniu antologii – Organizator nie wykorzystuje pracy w kolejnych wznowieniach i informuje o tym publicznie.
+5. Wykazanie, że oświadczenie złożone na podstawie § 6 ust. 5 albo § 13 ust. 5 było niezgodne z prawdą, powoduje wyłączenie zgłoszenia z plebiscytu. Jeżeli wyłączenie nastąpi po wypłacie nagrody, Organizator żąda jej zwrotu; jeżeli po wydaniu Antologii – Organizator nie wykorzystuje pracy w kolejnych wznowieniach i informuje o tym publicznie.
 
 6. Sama wątpliwość, której nie da się wyjaśnić, nie stanowi podstawy wyłączenia. Ciężar wykazania nieprawdziwości oświadczenia spoczywa na tym, kto się na nią powołuje.
 
@@ -608,7 +608,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 2. **Skutki wycofania.** Licencja z § 13 ust. 2 wygasa w zakresie prezentacji zgłoszenia; głosy oddane na zgłoszenie w Nagrodzie Publiczności nie są dalej liczone; zgłoszenie nie wchodzi do Archiwum. Oryginał znajdujący się u Organizatora wraca do autora w terminie 30 dni od wycofania, a praca przekazana na licytację zostaje z niej wyłączona, jeżeli nie rozpoczęto jeszcze przyjmowania wiążących ofert.
 
-3. **Granica dla pracy zwycięskiej.** Wycofanie zgłoszenia, które zajęło pierwsze miejsce, jest możliwe **nie później niż w dniu przekazania antologii do druku**, wskazanym w zawiadomieniu o werdykcie. Po tym dniu licencja na okładkę (§ 13 ust. 2 lit. d) pozostaje w mocy w granicach nakładu i wznowień antologii tej edycji, a wycofanie wywołuje skutek wyłącznie na przyszłość i w pozostałym zakresie.
+3. **Granica dla pracy zwycięskiej.** Wycofanie zgłoszenia, które zajęło pierwsze miejsce, jest możliwe **nie później niż w dniu przekazania Antologii do druku**, wskazanym w zawiadomieniu o werdykcie. Po tym dniu licencja na okładkę (§ 13 ust. 2 lit. d) pozostaje w mocy w granicach nakładu i wznowień Antologii tej edycji, a wycofanie wywołuje skutek wyłącznie na przyszłość i w pozostałym zakresie.
 
 4. Wycofanie zgłoszenia finalisty powoduje **uzupełnienie zwolnionego miejsca zgodnie z § 1c ust. 1**, tak aby finał pozostał dziesięcioosobowy. Wycofującemu się Uczestnikowi nagroda pieniężna nie jest wypłacana.
 

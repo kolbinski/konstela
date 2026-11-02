@@ -21,13 +21,13 @@ Kolumna „rola" ma trzy możliwe wartości i to ona decyduje, co podpisujemy:
 | 5 | Przechowywanie plików zgłoszeń | okładki, reprodukcje, ilustracje | | pliki i metadane | podmiot przetwarzający | do wyboru |
 | 6 | Panel oceny | praca akademii i jury | | zgłoszenia, oceny, dane oceniających | podmiot przetwarzający | do wyboru |
 | 7 | Serwis wideo uczestnika | nagrania piosenek, filmy, nagranie z pracy nad plakatem | YouTube (wymagany przy plakacie) | to, co uczestnik sam opublikuje | odrębny administrator | **jest**, do przepisania w polityce |
-| 8 | Playlista finalistów piosenki | kod QR w antologii | | nagrania za zgodą finalistów | do ustalenia | do wyboru |
+| 8 | Playlista finalistów piosenki | kod QR w Antologii | | nagrania za zgodą finalistów | do ustalenia | do wyboru |
 | 9 | Studio nagraniowe i producent | sesje dziesiątki finalistów | | dane kontaktowe finalistów, nagrania | podmiot przetwarzający | do wyboru |
 | 10 | Zespół oceniający uzasadnienia | nagroda za uzasadnienie wyboru | trzy osoby spoza jury | treść uzasadnień, podpisy | osoby zobowiązane umową | skład do ustalenia |
 | 11 | Przewoźnik | transport oryginałów plakatów | | imię, nazwisko, adres, telefon | podmiot przetwarzający | do wyboru |
 | 12 | Ubezpieczyciel | polisa na oryginały | | dane autora, wartość pracy | odrębny administrator | do wyboru |
 | 13 | Galeria sztuki | wystawa po gali | | dane finalistów, którzy przyjmą propozycję | do ustalenia | zależy od pozyskania |
-| 14 | Wydawnictwo antologii | wydanie książkowe | | dane autorów publikowanych rozmów | do ustalenia | zależy od pozyskania |
+| 14 | Wydawnictwo Antologii | wydanie książkowe | | dane autorów publikowanych rozmów | do ustalenia | zależy od pozyskania |
 | 15 | Rejestracja wideo gali | zapis udostępniany bezpłatnie | | wizerunek i głos uczestników gali | podmiot przetwarzający | do wyboru |
 | 16 | Księgowość | rozliczenie nagród i podatku | Globico (obecny księgowy JDG) | dane laureatów do wypłaty | podmiot przetwarzający | do potwierdzenia dla fundacji |
 | 17 | Bank fundacji | wypłaty nagród | | dane laureatów do przelewu | odrębny administrator | do wyboru |

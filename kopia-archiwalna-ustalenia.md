@@ -48,7 +48,7 @@ Rzeczy rozwiązane po drodze, warte zapamiętania: nie wolno czekać na `network
 ## 4. Co zostało do zrobienia
 
 - rozpoznać te 81 pominiętych wiadomości i dopisać obsługę załączników,
-- renderowanie markdown w odpowiedziach modelu (nagłówki, listy, pogrubienia, kod, tabele - reszta składni w rozmowach praktycznie nie występuje); bez tego strona antologii wygląda na zepsutą,
+- renderowanie markdown w odpowiedziach modelu (nagłówki, listy, pogrubienia, kod, tabele - reszta składni w rozmowach praktycznie nie występuje); bez tego strona Antologii wygląda na zepsutą,
 - profil dla Claude - zależny od rozstrzygnięcia obszaru 7,
 - poprawki regulaminu: § 4 (data i okno rozmów), § 5 (definicja kopii archiwalnej, zakaz przesyłania eksportu całego konta, rola pliku od uczestnika przy znikającym linku), § 6 (definicja tury i zakres limitu słów),
 - polityka prywatności: zakaz przyjmowania eksportu całego konta i tryb postępowania, gdy ktoś przyśle go mimo zakazu,
@@ -64,7 +64,7 @@ Pomysł: zamiast skryptu otwierającego stronę samodzielnie, rozszerzenie dzia�
 
 **Przeciw.** Selektory zostają takie same, więc roczne utrzymanie przy trzech dostawcach nie znika. Dochodzi człowiek w pętli: ktoś musi otworzyć każdy link - przy 300 zgłoszeniach jedno posiedzenie, przy 3000 dni pracy koordynatora, do policzenia w budżecie B. Archiwum zaczyna zależeć od jednego komputera z jedną zalogowaną przeglądarką, co przy jednoosobowym zarządzie jest pojedynczym punktem awarii.
 
-**Wirtualizacja listy.** Aplikacje dostawców usuwają z dokumentu wypowiedzi wyprzewijane poza ekran, więc pojedynczy zrzut na końcu daje przy rozmowie na 200 tur tylko tyle, ile akurat widać. Kolejność wejść od najpewniejszego: (1) odczyt danych, które aplikacja pobiera z serwera dostawcy - wirtualizacja przestaje mieć znaczenie, bo bierzemy dane, z których lista jest rysowana; (2) gromadzenie treści **w trakcie przewijania**, obserwatorem mutacji, z odróżnianiem powtórzeń po identyfikatorze wiadomości albo skrócie treści; (3) gdy jedno i drugie zawiedzie - zgłoszenie idzie do sprawdzenia ręcznego. Ten ostatni warunek jest ważniejszy, niż się wydaje: najgorszy możliwy wynik to Archiwum z rozmowami uciętymi w połowie, o czym nikt się nie dowie przed publikacją antologii.
+**Wirtualizacja listy.** Aplikacje dostawców usuwają z dokumentu wypowiedzi wyprzewijane poza ekran, więc pojedynczy zrzut na końcu daje przy rozmowie na 200 tur tylko tyle, ile akurat widać. Kolejność wejść od najpewniejszego: (1) odczyt danych, które aplikacja pobiera z serwera dostawcy - wirtualizacja przestaje mieć znaczenie, bo bierzemy dane, z których lista jest rysowana; (2) gromadzenie treści **w trakcie przewijania**, obserwatorem mutacji, z odróżnianiem powtórzeń po identyfikatorze wiadomości albo skrócie treści; (3) gdy jedno i drugie zawiedzie - zgłoszenie idzie do sprawdzenia ręcznego. Ten ostatni warunek jest ważniejszy, niż się wydaje: najgorszy możliwy wynik to Archiwum z rozmowami uciętymi w połowie, o czym nikt się nie dowie przed publikacją Antologii.
 
 **Zasada architektoniczna:** `dialog.json` zostaje kontraktem. Wtyczka jest alternatywnym sposobem pobrania, a nie nowym narzędziem - wypluwa ten sam plik, a generowanie HTML, PDF i EPUB oraz weryfikacja formalna zostają nietknięte. Skrypt obsługuje Gemini i ChatGPT bez nadzoru, wtyczka wchodzi tam, gdzie skrypt nie wchodzi.
 

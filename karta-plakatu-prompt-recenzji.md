@@ -4,7 +4,7 @@ Oceniasz Kartę oceny plebiscytu na plakat o sztucznej inteligencji, zamieszczon
 
 Oceniasz **wyłącznie kartę** jako narzędzie do punktowania: cztery kryteria, ich wagi i opisy pasm. Nie oceniaj regulaminu, nagród, obiegu oryginałów ani wystawy - te przeszły własne recenzje.
 
-Plakat ma jeden warunek, który zmienia wszystko: **praca musi powstać ludzką ręką, bez generatora obrazu** - farbą, tuszem, kolażem, dowolną techniką tradycyjną. Zgłoszeniem jest reprodukcja pracy, a oryginał przysyła dziesięciu finalistów. Regulamin przewiduje też nagranie z powstawania pracy. Praca z pierwszego miejsca trafia na okładkę antologii.
+Plakat ma jeden warunek, który zmienia wszystko: **praca musi powstać ludzką ręką, bez generatora obrazu** - farbą, tuszem, kolażem, dowolną techniką tradycyjną. Zgłoszeniem jest reprodukcja pracy, a oryginał przysyła dziesięciu finalistów. Regulamin przewiduje też nagranie z powstawania pracy. Praca z pierwszego miejsca trafia na okładkę Antologii.
 
 Odpowiedz na pytania, w tej kolejności:
 

@@ -14,7 +14,7 @@ Po trzecie: płacisz 223 294,50 zł netto za powstanie majątku, który należy 
 
 Po czwarte: które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wiersze tabeli i powód. Oceń osobno, czy wyceny prac programistycznych są wiarygodne przy podanych godzinach.
 
-Po piąte: jedyne, co dostajesz w zamian, to tytuł wymieniany w prologu każdej kolejnej antologii, logo, wystąpienie na gali, wyłączność w branży i pierwszeństwo przy drugiej edycji. Czy to jest realna wartość, czy uprzejmość. Przy każdej pozycji napisz, ile jest dla Ciebie warta.
+Po piąte: jedyne, co dostajesz w zamian, to tytuł wymieniany w prologu każdej kolejnej Antologii, logo, wystąpienie na gali, wyłączność w branży i pierwszeństwo przy drugiej edycji. Czy to jest realna wartość, czy uprzejmość. Przy każdej pozycji napisz, ile jest dla Ciebie warta.
 
 Po szóste: co w tym dokumencie podważa zaufanie. Szukaj obietnic, których autor nie może dotrzymać, bo nie zależą od niego, liczb bez podstawy, sprzeczności i miejsc, w których ryzyko jest przemilczane. Cytuj zdania.
 

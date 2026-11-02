@@ -18,7 +18,7 @@ Po piąte: które pozycje kosztorysu kwestionujesz i o które dopytasz. Podaj wi
 
 Po szóste: oferta obiecuje wystawę oryginałów prac finałowych i obieg prac tam i z powrotem. Czy dla Ciebie jest to wartość, czy kłopot? Co się dzieje, jeżeli praca zostanie uszkodzona w transporcie i prasa napisze o tym przy nazwie Twojej firmy.
 
-Po siódme: zwycięski plakat trafia na okładkę antologii, czyli książki z najlepszymi rozmowami ludzi ze sztuczną inteligencją. Czy to jest dla Ciebie realna wartość, czy argument, który brzmi lepiej dla autora niż dla sponsora?
+Po siódme: zwycięski plakat trafia na okładkę Antologii, czyli książki z najlepszymi rozmowami ludzi ze sztuczną inteligencją. Czy to jest dla Ciebie realna wartość, czy argument, który brzmi lepiej dla autora niż dla sponsora?
 
 Po ósme: co w tym dokumencie podważa zaufanie. Szukaj obietnic, których autor nie może dotrzymać, bo nie zależą od niego, liczb bez podstawy, sprzeczności i miejsc, gdzie ryzyko jest przemilczane. Cytuj zdania. Oceń przy tym, co się dzieje z Twoją firmą, jeżeli wpłynie piętnaście słabych plakatów zamiast stu pięćdziesięciu, a Twoja nazwa jest już ogłoszona.
 

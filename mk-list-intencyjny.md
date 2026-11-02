@@ -19,9 +19,9 @@ LIST INTENCYJNY / STANOWISKO DOTYCZĄCE KONCEPCJI NAGRODY KONSTELA
 (tytuł do wyboru przez Ministerstwo, zależnie od przyjętej formy)
 
 
-Ministerstwo Kultury i Dziedzictwa Narodowego otrzymało opis koncepcji Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z systemami sztucznej inteligencji - oraz towarzyszących jej publikacji: antologii najwyżej ocenionych rozmów każdej edycji, wydawanej nieodpłatnie, i publicznego Archiwum szerszego zbioru rozmów.
+Ministerstwo Kultury i Dziedzictwa Narodowego otrzymało opis koncepcji Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z systemami sztucznej inteligencji - oraz towarzyszących jej publikacji: Antologii najwyżej ocenionych rozmów każdej edycji, wydawanej nieodpłatnie, i publicznego Archiwum szerszego zbioru rozmów.
 
-Ministerstwo odnotowuje, że tematyka przedstawionego przedsięwzięcia dotyczy obszaru upowszechniania kultury i czytelnictwa oraz dokumentowania dorobku polskojęzycznego. Zgodnie z przedstawionymi założeniami powstający zbiór ma być zapisem tego, jak użytkownicy języka polskiego posługują się nowym narzędziem w okresie jego wchodzenia do powszechnego użytku, a antologia i Archiwum mają być udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu.
+Ministerstwo odnotowuje, że tematyka przedstawionego przedsięwzięcia dotyczy obszaru upowszechniania kultury i czytelnictwa oraz dokumentowania dorobku polskojęzycznego. Zgodnie z przedstawionymi założeniami powstający zbiór ma być zapisem tego, jak użytkownicy języka polskiego posługują się nowym narzędziem w okresie jego wchodzenia do powszechnego użytku, a Antologia i Archiwum mają być udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu.
 
 Niniejsze stanowisko odnosi się wyłącznie do tematyki przedsięwzięcia w odniesieniu do obszaru działania Ministerstwa i opiera się na opisie przedstawionym przez adresata. Nie zawiera oceny jakości plebiscytu, jego regulaminu ani przyjętych kryteriów oceny, nie stanowi rekomendacji organizatora i nie jest zapewnieniem, że przedsięwzięcie zostanie zrealizowane.
 

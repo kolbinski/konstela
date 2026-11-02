@@ -8,7 +8,7 @@
 
 Jest to rola najbardziej widoczna w całym przedsięwzięciu, bo nagrodę wymienia się w każdej wzmiance o plebiscycie, a wysokość puli jest tym, co decyduje, czy w ogóle napiszą.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** - rola opisana na tej stronie - finansuje pulę i pracę jury. **Fundator akademii** pierwszą rundę oceny we wszystkich czterech plebiscytach, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: [antologię, Archiwum i podcast](/oferta-dla-mecenasa-antologii-nagrody-konstela). Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** - rola opisana na tej stronie - finansuje pulę i pracę jury. **Fundator akademii** pierwszą rundę oceny we wszystkich czterech plebiscytach, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: [Antologię, Archiwum i podcast](/oferta-dla-mecenasa-antologii-nagrody-konstela). Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -30,7 +30,7 @@ Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane s�
 Ocena przebiega w dwóch rundach.
 
 1. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty.
-2. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera dziesiątkę antologii.
+2. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera dziesiątkę Antologii.
 
 **Fundator nie ma wpływu ani na skład jury, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
 
@@ -72,7 +72,7 @@ Poza nagrodami rola obejmuje **honoraria jury**, **promocję naboru** i **prowad
 
 Nie wzięło się to z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997 roku 100 000 zł i kwota ta nie była od tamtej pory zmieniana; według indeksu cen konsumpcyjnych odpowiada to dziś około **315 000 zł**. **300 000 zł przywraca więc skalę, którą polskie nagrody miały trzydzieści lat temu.**
 
-Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąga zgłoszenia, a bez zgłoszeń nie ma ani plebiscytu, ani antologii, ani Archiwum. Wysokość puli jest tym, co odróżnia przedsięwzięcie ogólnopolskie od konkursu, o którym nikt się nie dowie.
+Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąga zgłoszenia, a bez zgłoszeń nie ma ani plebiscytu, ani Antologii, ani Archiwum. Wysokość puli jest tym, co odróżnia przedsięwzięcie ogólnopolskie od konkursu, o którym nikt się nie dowie.
 
 **Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.** Chroni to uczestników danej edycji, a Fundatorowi daje pewność, że ogłoszona kwota jest kwotą ostateczną w dół.
 
@@ -135,7 +135,7 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile 
 
 **Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
 
-**Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Trwały rezultat tej roli - Czytelnia, Archiwum i kopie archiwalne - nie zależy więc od żadnego innego partnera. Nie znaczy to, że cały plebiscyt jest samowystarczalny, i poniżej mówimy dokładnie, co od kogo zależy.
+**Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie Antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Trwały rezultat tej roli - Czytelnia, Archiwum i kopie archiwalne - nie zależy więc od żadnego innego partnera. Nie znaczy to, że cały plebiscyt jest samowystarczalny, i poniżej mówimy dokładnie, co od kogo zależy.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród.** Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -205,7 +205,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 **Minimalny trwały rezultat, pięć rzeczy wprost.** Nazwa Fundatora stoi przy rzeczy, która ma zostać po edycji, więc mówimy dokładnie, czym ona jest:
 
-1. **Co zawiera.** Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną - nie samą dziesiątkę antologii. Przy każdym: tytuł, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia, kopia archiwalna rozmowy sporządzona przez skraper w chwili zgłoszenia oraz jawna punktacja wszystkich etapów oceny. **Jedno zastrzeżenie, bo dotyczy tego, co Fundator kupuje:** regulamin przewiduje wariant awaryjny na wypadek, gdyby konsultacja prawna uznała publikowanie kopii rozmów za niedopuszczalne albo obciążone ryzykiem, którego nie wolno nam przyjąć - Archiwum ogranicza się wtedy do tytułu, podpisu, opisu odkrycia, linku i ocen. Konsultacja odbywa się przed otwarciem naboru, czyli **przed terminem pierwszej wpłaty**, więc Fundator pozna rozstrzygnięcie, zanim wyłoży cokolwiek; harmonogram i prawo odstąpienia opisuje sekcja o kwocie. Regulamin dopuszcza też niepublikowanie pojedynczej rozmowy na żądanie jej autora albo z powodu treści, których opublikować nie wolno; dotyczy to pojedynczych przypadków, nie zbioru.
+1. **Co zawiera.** Archiwum obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną - nie samą dziesiątkę Antologii. Przy każdym: tytuł, podpis uczestnika, opis odkrycia, uzasadnienie zgłoszenia, kopia archiwalna rozmowy sporządzona przez skraper w chwili zgłoszenia oraz jawna punktacja wszystkich etapów oceny. **Jedno zastrzeżenie, bo dotyczy tego, co Fundator kupuje:** regulamin przewiduje wariant awaryjny na wypadek, gdyby konsultacja prawna uznała publikowanie kopii rozmów za niedopuszczalne albo obciążone ryzykiem, którego nie wolno nam przyjąć - Archiwum ogranicza się wtedy do tytułu, podpisu, opisu odkrycia, linku i ocen. Konsultacja odbywa się przed otwarciem naboru, czyli **przed terminem pierwszej wpłaty**, więc Fundator pozna rozstrzygnięcie, zanim wyłoży cokolwiek; harmonogram i prawo odstąpienia opisuje sekcja o kwocie. Regulamin dopuszcza też niepublikowanie pojedynczej rozmowy na żądanie jej autora albo z powodu treści, których opublikować nie wolno; dotyczy to pojedynczych przypadków, nie zbioru.
 2. **Od kiedy działa.** Czytelnia rośnie publicznie przez cały rok naboru, od jego pierwszego dnia; Archiwum z jawną punktacją otwiera się **w dniu ogłoszenia werdyktu**, czyli w drugiej połowie czerwca 2028 roku.
 3. **Jak długo je utrzymujemy i z czego.** Kopie archiwalne zgłoszeń przechowujemy **pięć lat** w magazynie opłaconym z tej oferty z góry - tyle, ile trwa licencja na publikację. Dłuższe, już niepubliczne przechowywanie kopii wymagałoby osobnej podstawy w regulaminie i w polityce prywatności; pytanie o to poszło do kancelarii i **do czasu odpowiedzi nie kupujemy magazynu, którego nie wolno nam używać**. Adresy Archiwum mają natomiast opłacone domeny na **dziesięć lat** - tyle wynosi maksimum dopuszczane przez ICANN, dłużej nie da się przedpłacić żadnej domeny i nie udajemy, że się da. Dalej rozdzielamy to, co zabezpieczone pieniędzmi, od tego, co zależy od decyzji, bo uchwała Rady Fundacji pieniędzy nie tworzy.
    - **Zabezpieczone konstrukcją:** Archiwum jest zbiorem stron statycznych, a nie aplikacją z bazą danych, więc jego **utrzymanie techniczne** kosztuje domenę i hosting plików - rzędu kilkuset złotych rocznie - a nie czyjąkolwiek pracę. Nie znaczy to, że nie wymaga nikogo: żądania usunięcia danych, zgłoszenia naruszeń i sprostowania punktacji trzeba rozpatrzyć, a odpowiada za to **Zarząd fundacji pod nadzorem Rady**, tak jak za każdą inną publikację fundacji. W kosztorysie jest na to **25 godzin prowadzenia Czytelni i Archiwum**, rozłożonych tak: około dziesięciu na publikowanie wpisów przez rok naboru, około pięciu na uzupełnienie Archiwum punktacją po werdykcie i około dziesięciu na rok po gali. **Na kolejne dziewięć lat jest osobny fundusz celowy: 7 920 zł**, czyli dziewięć lat po cztery godziny rocznie po stawce 220 zł; rok pierwszy po gali jest już w tych dwudziestu pięciu godzinach, więc fundusz go nie dubluje. Są to środki związane celem, odkładane w fundacji, a nie wypłata z góry za pracę niewykonaną. **Granica odpowiedzialności, powiedziana wprost: fundusz finansuje liczbę godzin, a nie załatwienie każdej sprawy.** Jeżeli żądań i sprostowań będzie więcej, niż się w tych godzinach mieści, obowiązek zostaje przy fundacji i nie ma na niego finansowania z tej oferty - nie obiecujemy czegoś przeciwnego, bo nie potrafilibyśmy tego dotrzymać. Gdyby fundacja uległa likwidacji przed upływem tego okresu, niewykorzystana część funduszu idzie razem z Archiwum do instytucji, która zgodzi się je prowadzić.
@@ -223,7 +223,7 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
 1. **gala się nie odbywa** i werdykt zostaje ogłoszony na stronie;
-2. **antologia nie powstaje**, więc nagrodzone rozmowy nie trafiają do książki ani do audiobooka;
+2. **Antologia nie powstaje**, więc nagrodzone rozmowy nie trafiają do książki ani do audiobooka;
 3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
 4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
 
@@ -252,7 +252,7 @@ Poza tytułem:
 
 Fundator nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. Nie otrzymuje wglądu w zgłoszenia przed ich publicznym udostępnieniem ani informacji o wynikach przed galą.
 
-Rola nie obejmuje trzech pozostałych plebiscytów, antologii, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Archiwum i Czytelnia **rozmów** są natomiast w tej ofercie, opisane wyżej co do zawartości, terminu i okresu utrzymania; osobne są Archiwa pozostałych trzech plebiscytów, każde przy swoim plebiscycie. Nie obejmuje też pierwszej rundy oceny, którą finansuje sponsor akademii; honoraria jury za ocenę w rundzie drugiej są natomiast w tej ofercie.
+Rola nie obejmuje trzech pozostałych plebiscytów, Antologii, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Archiwum i Czytelnia **rozmów** są natomiast w tej ofercie, opisane wyżej co do zawartości, terminu i okresu utrzymania; osobne są Archiwa pozostałych trzech plebiscytów, każde przy swoim plebiscycie. Nie obejmuje też pierwszej rundy oceny, którą finansuje sponsor akademii; honoraria jury za ocenę w rundzie drugiej są natomiast w tej ofercie.
 
 Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
@@ -262,7 +262,7 @@ Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencj
 
 **Gotowe.** Regulaminy wszystkich czterech plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny. Strona Nagrody działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej), a statut fundacji gotowy w projekcie. Materiały opisujące przedsięwzięcie trafiły już do instytucji publicznych.
 
-**W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie. Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny w sprawie antologii (do wglądu na życzenie), zastrzegając, że nie przesądza on decyzji wydawniczej.
+**W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej trzy osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. Nazwisk nie podajemy, dopóki zgoda nie zostanie potwierdzona na piśmie. Wydawnictwo Universitas podpisało 30 października 2026 list intencyjny w sprawie Antologii (do wglądu na życzenie), zastrzegając, że nie przesądza on decyzji wydawniczej.
 
 **Przed nami.** Powołanie fundacji, weryfikacja statutu, polityka prywatności, budowa narzędzi do obsługi zgłoszeń i oceny oraz przebudowa strony. Te pozycje należą do budżetu [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) i nie obciążają tej oferty. **Konsultacja prawna samego regulaminu rozmowy jest natomiast w tej ofercie** - 8 000 zł w tabeli powyżej, przeniesione tutaj 31 października 2026, bo regulamin służy temu jednemu plebiscytowi, a nie całemu przedsięwzięciu.
 
@@ -272,7 +272,7 @@ Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencj
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły</small></dd></div>
 <div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 10 stycznia 2028</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykt<small>pierwsza runda akademii, następnie jury; rozmowy weryfikacyjne z dziesiątką finalistów</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera antologii</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera Antologii</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>
 </dl>
 
@@ -309,7 +309,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 827,68 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
 - **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 311 769,12 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 253 893,28 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 745,10 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 223 294,50 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
@@ -317,7 +317,7 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
-- **[Partner wydawniczy antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
+- **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
 - **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów

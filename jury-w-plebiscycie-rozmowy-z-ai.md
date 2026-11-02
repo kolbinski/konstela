@@ -9,7 +9,7 @@
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury otrzymuje od akademii listę najwyżej ocenionych rozmów, **wybiera dziesięć rozmów do antologii i ustala ich kolejność w rankingu**; przed ogłoszeniem wyników finaliści uczestniczą w rozmowie weryfikacyjnej, którą prowadzi organizator;
+- jury otrzymuje od akademii listę najwyżej ocenionych rozmów, **wybiera dziesięć rozmów do Antologii i ustala ich kolejność w rankingu**; przed ogłoszeniem wyników finaliści uczestniczą w rozmowie weryfikacyjnej, którą prowadzi organizator;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów, zakres uzasadnień, weryfikacji źródeł i obrad oraz zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
@@ -34,21 +34,21 @@ Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu w
 
 **Nagradzamy wkład człowieka w prowadzenie rozmowy**: pytania, doprecyzowania, sprawdzanie odpowiedzi i decyzje podejmowane w toku dialogu. Nie oceniamy możliwości samego modelu. Szukamy rozmów, w których autor rozwija temat, sprawdza odpowiedzi i dochodzi do rozpoznawalnego rezultatu.
 
-**Dziesięć najlepszych rozmów składa się na antologię** – bezpłatny e-book, bezpłatny audiobook, a po pozyskaniu wydawnictwa również wydanie książkowe. Antologia będzie trwałym rezultatem edycji: zbiorem nagrodzonych rozmów wraz z komentarzami wyjaśniającymi decyzje jury.
+**Dziesięć najlepszych rozmów składa się na Antologię** – bezpłatny e-book, bezpłatny audiobook, a po pozyskaniu wydawnictwa również wydanie książkowe. Antologia będzie trwałym rezultatem edycji: zbiorem nagrodzonych rozmów wraz z komentarzami wyjaśniającymi decyzje jury.
 
 ### Co dostają finaliści
 
-**Wszyscy finaliści otrzymują nagrody pieniężne i miejsce w antologii.** Jury przyznaje nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
+**Wszyscy finaliści otrzymują nagrody pieniężne i miejsce w Antologii.** Jury przyznaje nagrodę główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień. Elementem gali jest **czytanie sceniczne rozmowy zwycięskiej**: laureat czyta ze sceny swoją część, a wypowiedzi sztucznej inteligencji czyta narrator.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
 ### Co ocenia jury
 
-Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce antologii i o laureatach nagród.** Przed zawarciem umowy ustalamy maksymalną liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów oraz zakres uzasadnień, weryfikacji źródeł i obrad.
+Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce Antologii i o laureatach nagród.** Przed zawarciem umowy ustalamy maksymalną liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów oraz zakres uzasadnień, weryfikacji źródeł i obrad.
 
 **Rozmowę weryfikacyjną z każdym finalistą prowadzi organizator**, nie jury: do 20 minut, wyłącznie o treści zgłoszenia, już po ustaleniu werdyktu. Jej celem jest potwierdzenie, że autor rozumie wątek, który prowadził. **Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez jury**, a werdykt pozostaje przy jury; może jednak skutkować wykluczeniem zgłoszenia, jeżeli ujawni, że zgłoszony przebieg został odtworzony, a wynik był znany przed rozpoczęciem.
 
-Organizator prowadzi wtedy postępowanie wyjaśniające, pisemnie wskazuje podstawy ewentualnego wykluczenia i umożliwia autorowi złożenie wyjaśnień. **Zwolnione miejsce zajmuje kolejne kwalifikujące się zgłoszenie z rankingu jury**, więc lista nie wraca do powtórnej oceny; jeżeli takich zgłoszeń zabraknie, antologia może zawierać mniej niż dziesięć rozmów.
+Organizator prowadzi wtedy postępowanie wyjaśniające, pisemnie wskazuje podstawy ewentualnego wykluczenia i umożliwia autorowi złożenie wyjaśnień. **Zwolnione miejsce zajmuje kolejne kwalifikujące się zgłoszenie z rankingu jury**, więc lista nie wraca do powtórnej oceny; jeżeli takich zgłoszeń zabraknie, Antologia może zawierać mniej niż dziesięć rozmów.
 
 ### Jak jury ocenia zgłoszone rozmowy
 
@@ -63,7 +63,7 @@ Ostateczna karta będzie zawierała opisy przedziałów punktowych oraz przykła
 
 ### Dodatkowy warunek dopuszczenia do nagrody
 
-Poza oceną punktową obowiązuje jeden warunek progowy: **rozmowa nie może zostać nagrodzona ani wejść do antologii, jeżeli jej plon opiera się na twierdzeniu nieprawdziwym, nieistniejącym źródle albo na nierozpoznanym błędzie rozumowania.** Dotyczy to wyłącznie błędu istotnego dla głównego wniosku – pomyłka w wątku pobocznym ani nieścisłość w przykładzie nie są podstawą jego zastosowania.
+Poza oceną punktową obowiązuje jeden warunek progowy: **rozmowa nie może zostać nagrodzona ani wejść do Antologii, jeżeli jej plon opiera się na twierdzeniu nieprawdziwym, nieistniejącym źródle albo na nierozpoznanym błędzie rozumowania.** Dotyczy to wyłącznie błędu istotnego dla głównego wniosku – pomyłka w wątku pobocznym ani nieścisłość w przykładzie nie są podstawą jego zastosowania.
 
 Zastosowanie warunku wymaga zgodnej opinii co najmniej dwóch członków jury i pisemnego wskazania błędu, a autor ma 7 dni na wyjaśnienia. **Obowiązek wykazania błędu spoczywa na jury; sama wątpliwość nie wystarcza do zastosowania tego warunku.**
 
@@ -77,9 +77,9 @@ Nakład pracy zależy od długości zgłoszonych rozmów, dlatego do umowy wpisu
 
 Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
-### Komentarze do antologii
+### Komentarze do Antologii
 
-Każda rozmowa w antologii zostanie opatrzona **komentarzem jury**: kilkoma zdaniami wyjaśniającymi jej wartość. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie. Umowa określa wynagrodzenie za komentarz, sposób jego podpisania oraz zakres zmian redakcyjnych, na które autor komentarza się zgadza. Antologia ukazuje się także jako audiobook, w którym komentarze jury czyta osobny lektor – zgodę na odczytanie komentarza obejmuje ta sama umowa, a juror nie jest proszony o nagranie własnym głosem.
+Każda rozmowa w Antologii zostanie opatrzona **komentarzem jury**: kilkoma zdaniami wyjaśniającymi jej wartość. To osobna praca redakcyjna, wykonywana po werdykcie, i **osobno uzgadniany zakres umowy**: nie jest obowiązkiem każdego jurora i nie wpływa na udział w ocenie. Umowa określa wynagrodzenie za komentarz, sposób jego podpisania oraz zakres zmian redakcyjnych, na które autor komentarza się zgadza. Antologia ukazuje się także jako audiobook, w którym komentarze jury czyta osobny lektor – zgodę na odczytanie komentarza obejmuje ta sama umowa, a juror nie jest proszony o nagranie własnym głosem.
 
 ### Czego jury nie robi
 
@@ -105,7 +105,7 @@ Skład jury ogłaszamy przed otwarciem naboru, a wagi kryteriów i karta oceny p
 
 ### Widoczność
 
-Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, materiałom promocyjnym, werdyktowi, antologii i gali. **Udział jurorów buduje wiarygodność pierwszej edycji.**
+Nazwiska jury towarzyszą całej komunikacji edycji: stronie, ogłoszeniu naboru, materiałom promocyjnym, werdyktowi, Antologii i gali. **Udział jurorów buduje wiarygodność pierwszej edycji.**
 
 **Rozmowa o udziale nie oznacza zgody na publikację nazwiska.** Zakres komunikacji, warunki współpracy i moment ogłoszenia składu jury uzgadniamy indywidualnie.
 

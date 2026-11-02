@@ -12,7 +12,7 @@ Osiemnaście ofert partnerskich, osiemnaście gotowych promptów, każdy z osobn
 | **Akademia** - sponsor pierwszej rundy oceny | 4 | dyrektor komunikacji sieci handlowej, potem osoba od budżetu sponsoringowego firmy technologicznej | **Konstrukcja finansowa zamknięta.** „Rozmowę handlową bym rozpoczął, przelewu jeszcze nie"; jedyny otwarty warunek to opinia prawna o udziale akademii w postępowaniach o odrzucenie, nie tekst oferty | `2026-10-31-oferta-akademia-*`, `2026-11-01-oferta-akademii-oczami-sponsora-technologicznego.md` |
 | **Plakat** - mecenas plebiscytu | 6 + 1 | prezes firmy rodzinnej produkującej płytki ceramiczne, budującej markę wzornictwem; osobno osoba odpowiadająca za fizyczny obieg cudzych prac | **Odpowiada na list i prosi o dokumenty**, bez deklaracji finansowania. Po turze obiegu oryginałów: podpisałby przyjęcie pierwszej pracy, warunek kolejności wykonany (§ 10 ust. 1b) | `2026-10-30-oferta-plakat-oczami-producenta.md`, `2026-11-02-oferta-plakat-obieg-oryginalow.md` |
 | **Mecenas założycielski** | 4 | właściciel firmy rodzinnej wydający własne pieniądze | „Rozmowa tak, **zobowiązanie finansowe po sprawdzeniu dokumentów i zakupów**" | `2026-10-30-oferta-zalozycielska-*` (4 pliki) |
-| **Mecenat antologii** | 1 | członek zarządu firmy produkcyjnej, od marketingu i komunikacji | „Tak, ale odpowiedź jest **prośbą o wyjaśnienia, nie deklaracją zainteresowania finansowaniem**" | `2026-10-30-oferta-mecenatu-oczami-sponsora.md` |
+| **Mecenat Antologii** | 1 | członek zarządu firmy produkcyjnej, od marketingu i komunikacji | „Tak, ale odpowiedź jest **prośbą o wyjaśnienia, nie deklaracją zainteresowania finansowaniem**" | `2026-10-30-oferta-mecenatu-oczami-sponsora.md` |
 | **Film** - fundator nagród | 1 | firma medialna | **Najsurowszy ze wszystkich.** „Odpowiadam na list, ale nie kieruję tej propozycji do zatwierdzenia budżetu" - zarzut główny: nie wykazano zdolności przyciągnięcia dobrych filmów | `2026-10-31-oferta-film-oczami-firmy-medialnej.md` |
 
 ## Recenzje dokumentów innych niż oferty
@@ -50,7 +50,7 @@ Mają gotowy prompt, nie mają jeszcze recenzji:
 - **gala** - dyrektor komunikacji firmy sponsorującej wydarzenia
 - **galeria sztuki** - dyrektor galerii sztuki współczesnej
 - **mecenas muzyczny** - właściciel studia nagraniowego
-- **wydawca antologii** - redaktor naczelny oficyny
+- **wydawca Antologii** - redaktor naczelny oficyny
 - **wydawca płyty** - dyrektor wydawniczy wytwórni
 - **dystrybucja filmów** - kierownik programowy sieci kin studyjnych
 - **telewizja** - dyrektor programowy stacji

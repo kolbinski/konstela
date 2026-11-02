@@ -12,7 +12,7 @@ Odrzucony wariant pośredni: pierwsza faktura na JDG, fundacja powstaje późnie
 
 ## Dlaczego fundacja, a nie JDG
 
-1. **Odpowiedzialność.** Regulamin jest przyrzeczeniem publicznym (art. 919 k.c.). Przy JDG za zobowiązanie wobec laureatów - docelowo 300 tys. zł nagrody głównej plus nagrody antologii - odpowiada majątek osobisty organizatora. Przy fundacji odpowiada fundacja.
+1. **Odpowiedzialność.** Regulamin jest przyrzeczeniem publicznym (art. 919 k.c.). Przy JDG za zobowiązanie wobec laureatów - docelowo 300 tys. zł nagrody głównej plus nagrody Antologii - odpowiada majątek osobisty organizatora. Przy fundacji odpowiada fundacja.
 2. **Spójność dokumentów.** Regulamin, polityka prywatności (administrator danych) i umowa sponsorska wskazują jeden i ten sam podmiot od pierwszego dnia naboru. Zmiana organizatora w trakcie edycji oznaczałaby aneks do umowy sponsorskiej, zmianę administratora danych i poprawienie dokumentów, na których uczestnicy oparli już swoje zgłoszenia.
 3. **Podatki.** Przy wariancie przez JDG te same pieniądze są opodatkowane po drodze (PIT + ZUS), zanim trafią na cel, a wniesienie funduszu założycielskiego do fundacji nie jest kosztem uzyskania przychodu JDG.
 4. **Optyka sponsora.** Budżet CSR dużej spółki łatwiej przechodzi na fundację niż na jednoosobową działalność. Nie wymaga tego prawo, ale tak to wygląda w sprawozdaniu.
@@ -33,7 +33,7 @@ Czas rejestracji w KRS potrafi wynieść od kilku tygodni do ponad dwóch miesi�
 
 Faktura za usługę, nie darowizna. Tubądzin dostaje świadczenie wzajemne (logo na stronie, pięć minut podczas gali), więc kupuje usługę i rozlicza ją w kosztach. Darowizna byłaby dla sponsora gorsza podatkowo, a przy odbiorcy będącym osobą fizyczną także dla organizatora.
 
-**Kwota: 271 700 zł netto, czyli 334 191 zł brutto do zapłaty** - cała zakładka [Budżet Antologii](/arkusz/budzet-edycji-pierwszej#budzet-antologii) arkusza budzet-edycji-pierwszej, obejmująca antologię i Archiwum. Na tę sumę składa się 88 000 zł pracy organizatora, 121 000 zł kosztów twardych i 62 700 zł marży. Rozstrzygnięte 25.10.2026: **Tubądzin jest sponsorem całego Budżetu A**, a nie sponsorem organizacyjnym z osobną, mniejszą kwotą. Założenie fundacji to w tym rząd wielkości kilku tysięcy złotych - pozycja, nie uzasadnienie całego bloku. Wobec sponsora nazywamy to tym, czym jest: prowadzeniem plebiscytu i wyprodukowaniem antologii.
+**Kwota: 271 700 zł netto, czyli 334 191 zł brutto do zapłaty** - cała zakładka [Budżet Antologii](/arkusz/budzet-edycji-pierwszej#budzet-antologii) arkusza budzet-edycji-pierwszej, obejmująca Antologię i Archiwum. Na tę sumę składa się 88 000 zł pracy organizatora, 121 000 zł kosztów twardych i 62 700 zł marży. Rozstrzygnięte 25.10.2026: **Tubądzin jest sponsorem całego Budżetu A**, a nie sponsorem organizacyjnym z osobną, mniejszą kwotą. Założenie fundacji to w tym rząd wielkości kilku tysięcy złotych - pozycja, nie uzasadnienie całego bloku. Wobec sponsora nazywamy to tym, czym jest: prowadzeniem plebiscytu i wyprodukowaniem Antologii.
 
 *Do 25.10.2026 stało w tym miejscu „67 tys. netto / 82 tys. brutto". Tych liczb nie ma w arkuszu ani w jego wersji z 19.10.2026; pochodziły z modelu sprzed podziału na trzy wnioski, gdy blok B znaczył co innego i był czterokrotnie mniejszy.*
 

@@ -11,7 +11,7 @@ Przyznawana jest w czterech równorzędnych plebiscytach, rozstrzyganych na tej 
 - otwarty plebiscyt na plakat o sztucznej inteligencji, wykonany ręcznie;
 - otwarty plebiscyt na film o sztucznej inteligencji.
 
-Powstają z niej dwa bezpłatne produkty: antologia najlepszych rozmów i publiczne Archiwum.
+Powstają z niej dwa bezpłatne produkty: Antologia najlepszych rozmów i publiczne Archiwum.
 
 Powód, dla którego traktuję wszystkie cztery jako równie potrzebne, jest w [rozdziale 2](#2-problem-ktory-adresujemy), a ich konstrukcja i kosztorysy w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film).
 
@@ -26,7 +26,7 @@ Nagroda przyznawana będzie w czterech kategoriach:
 1.  **Rozmowa z AI** - uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy LLM. Nie przyjmujemy transkryptów w plikach, ponieważ tekst w pliku można dowolnie zredagować. Link jest zabezpieczeniem mocniejszym, choć nie rozstrzygającym: pokazuje zapis po stronie dostawcy, razem z pytaniami nieudanymi, ale sam w sobie nie dowodzi, w jakich okolicznościach rozmowa powstała - temu służą dalsze zabezpieczenia opisane w [rozdziale 3](#3-plebiscyt-na-rozmowe-z-ai), w podrozdziale „Uczciwość plebiscytu".
 2.  **Film o sztucznej inteligencji** - otwarty plebiscyt na film trwający od 20 do 90 minut, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo mieszanej. Film ma powstać na potrzeby plebiscytu i zostać ukończony w roku edycji. Zgłoszeniem jest link do filmu i do zwiastuna, publicznie dostępnych w serwisie YouTube; organizator nie przechowuje kopii. W tej jednej kategorii nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji, publikowanej razem ze zgłoszeniem i niepodlegającej punktacji. Opisuje ją [rozdział 9](#9-plebiscyt-na-film).
 3.  **Piosenka o sztucznej inteligencji** - otwarty plebiscyt na utwór autorski. Zgłoszeniem jest czytelne nagranie demonstracyjne, nie gotowy singiel, żeby o udziale nie decydowała wysokość kosztów produkcji. Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać przy udziale sztucznej inteligencji pod warunkiem opisania sposobu pracy. Dziesięciu finalistów otrzymuje nagranie studyjne na koszt organizatora, z prawami pozostającymi przy autorach. Opisuje ją [rozdział 7](#7-plebiscyt-na-piosenke).
-4.  **Plakat o sztucznej inteligencji** - otwarty plebiscyt na plakat wykonany ręcznie dowolną techniką tradycyjną: farbą, tuszem, kolażem. Obowiązuje tu reguła ostrzejsza niż przy piosence, bo ocenianym wytworem jest sam obraz: niedopuszczalna jest praca wygenerowana, przemalowana z obrazu wygenerowanego albo domalowana na wydrukowanym podkładzie. Zgłasza się zdjęcie albo skan, oryginały nadsyłają dopiero finaliści, a praca zwycięska trafia na okładkę antologii. Opisuje ją [rozdział 8](#8-plebiscyt-na-plakat).
+4.  **Plakat o sztucznej inteligencji** - otwarty plebiscyt na plakat wykonany ręcznie dowolną techniką tradycyjną: farbą, tuszem, kolażem. Obowiązuje tu reguła ostrzejsza niż przy piosence, bo ocenianym wytworem jest sam obraz: niedopuszczalna jest praca wygenerowana, przemalowana z obrazu wygenerowanego albo domalowana na wydrukowanym podkładzie. Zgłasza się zdjęcie albo skan, oryginały nadsyłają dopiero finaliści, a praca zwycięska trafia na okładkę Antologii. Opisuje ją [rozdział 8](#8-plebiscyt-na-plakat).
 
 Wyniki wszystkich czterech kategorii ogłaszane są podczas wspólnej gali.
 
@@ -69,12 +69,12 @@ Rozmowy zawierające pytania nieudane i wątki porzucone **nie są z tego powodu
 
 Dziesięć najwyżej ocenionych rozmów każdej edycji, w całości i bez skrótów, z komentarzem jury wyjaśniającym, co w każdej z nich było wartościowe. Antologia ukazuje się w trzech postaciach o różnym stopniu pewności, i mówię to wprost, żeby nie obiecywać jednego, a dowieźć drugiego:
 
-- **Bezpłatny audiobook - czytany przez trzech lektorów.** Osobny głos dla uczestnika, osobny dla sztucznej inteligencji i osobny dla komentarzy jury, żeby rozmowa brzmiała jak rozmowa. Nagranie otwiera antologię dla osób niewidomych i słabowidzących oraz dla osób z dysleksją, a w szkole daje się puścić na lekcji. Prawo do wydania dźwiękowego jest wymienione osobno wśród pól licencji udzielanej przez uczestników, ponieważ wydanie elektroniczne go nie obejmuje.
+- **Bezpłatny audiobook - czytany przez trzech lektorów.** Osobny głos dla uczestnika, osobny dla sztucznej inteligencji i osobny dla komentarzy jury, żeby rozmowa brzmiała jak rozmowa. Nagranie otwiera Antologię dla osób niewidomych i słabowidzących oraz dla osób z dysleksją, a w szkole daje się puścić na lekcji. Prawo do wydania dźwiękowego jest wymienione osobno wśród pól licencji udzielanej przez uczestników, ponieważ wydanie elektroniczne go nie obejmuje.
 - **Bezpłatny e-book - zobowiązanie organizatora po otwarciu edycji.** Po zabezpieczeniu finansowania części wydawniczej i otwarciu edycji organizator zobowiązuje się opublikować bezpłatny e-book, niezależnie od pozyskania partnera wydawniczego.
 - **Krótki nakład na galę - gwarantowany przez Organizatora.** Egzemplarze wręczane laureatom i przekazywane jury oraz mediom. Jest to odrębna pozycja kosztorysu, niezależna od partnera wydawniczego, ponieważ druk cyfrowy niewielkiej liczby egzemplarzy nie wymaga ani wydawcy, ani dystrybucji. **Nakład ten drukujemy wyłącznie wtedy, gdy wydanie księgarskie nie będzie gotowe na dzień gali**; jeżeli partner dostarczy książkę na premierę, egzemplarze dla laureatów i jury pochodzą z jego nakładu, a pozycja nie jest ponoszona. Chodzi o to, aby laureat odebrał na scenie książkę, a nie obietnicę, a nie o to, by w jednym tygodniu ukazały się dwa różne wydania tego samego tomu.
 - **Nakład handlowy, płatny - zależny od partnera wydawniczego.** Celem jest, aby książka była dostępna w księgarniach bezpośrednio po gali, co wymaga nie tylko druku, lecz także wejścia do oferty dystrybutora; dystrybucja jest kompetencją partnera, nie Organizatora. Nakład jest dostarczany do dystrybutora przed galą, natomiast publiczna prezentacja okładki i rozpoczęcie sprzedaży następują w dniu premiery - okładka niesie zwycięski plakat, a regulamin plebiscytu na plakat o sztucznej inteligencji zakazuje jej udostępnienia przed galą. Przychód ze sprzedaży zasila pulę nagród kolejnej edycji.
 
-Zainteresowanie wydaniem antologii wyraziły dotąd **dwa wydawnictwa**. Rozmowy są na wczesnym etapie, żadnej umowy nie zawarłem i nie wymieniam nazw, dopóki zainteresowanie nie zostanie potwierdzone na piśmie - tak samo jak przy jury. Odnotowuję to dlatego, że nakład handlowy jest jedyną częścią antologii zależną od partnera: e-book i krótki nakład na galę powstają niezależnie od tego, czy partner się znajdzie.
+Zainteresowanie wydaniem Antologii wyraziły dotąd **dwa wydawnictwa**. Rozmowy są na wczesnym etapie, żadnej umowy nie zawarłem i nie wymieniam nazw, dopóki zainteresowanie nie zostanie potwierdzone na piśmie - tak samo jak przy jury. Odnotowuję to dlatego, że nakład handlowy jest jedyną częścią Antologii zależną od partnera: e-book i krótki nakład na galę powstają niezależnie od tego, czy partner się znajdzie.
 
 #### Archiwum rozmów
 
@@ -91,9 +91,9 @@ Jest to rozstrzygnięcie świadome: całe przedsięwzięcie stoi na twierdzeniu,
 
 Zastrzeżenie, które z tego wynika i które przyjmuję: trwale widoczna niska ocena pod nazwiskiem jest dla uczestnika realnym kosztem, dlatego jawność jest ogłaszana przed naborem, a nie w trakcie, a furtką pozostaje pseudonim. Antologia jest wyborem jury i pokazuje, jak rozmawiać najlepiej; Archiwum niczego nie wybiera i pokazuje, jak ludzie rozmawiają naprawdę. Archiwum nie jest próbą reprezentatywną: obejmuje wyłącznie rozmowy zgłoszone do plebiscytu. Jest szerszym zbiorem źródłowym, nie przekrojem populacji.
 
-#### Trzy funkcje antologii i Archiwum
+#### Trzy funkcje Antologii i Archiwum
 
-Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
+Trzy funkcje, które Antologia i Archiwum pełnią jednocześnie:
 
 - **Materiał dydaktyczny** - realne przykłady krytycznej pracy z AI<small>Dla kogo: szkoły, uczelnie, biblioteki, szkolenia kompetencji cyfrowych.</small>
 - **Dokument epoki** - zapis tego, jak ludzie uczyli się nowego narzędzia<small>Dla kogo: badacze, historia techniki.</small>
@@ -101,7 +101,7 @@ Trzy funkcje, które antologia i Archiwum pełnią jednocześnie:
 
 Trzecia funkcja jest najistotniejsza z perspektywy publicznej. Jedno z czterech kryteriów oceny premiuje **wyłapywanie zmyśleń i niespójności w odpowiedziach modelu**. Plebiscyt nagradza więc nieufność wobec AI, a nie zachwyt nad nią.
 
-Czujność jest jednak tylko połową tego, co premiujemy. Czwarte kryterium - **Plon** - nagradza rozmowy, z których człowiek coś wyniósł: nazwaną ideę, rozwiązany problem, odnalezione źródło, zmienioną decyzję. Nie chodzi więc o samo kwestionowanie, lecz o dociekanie, które do czegoś prowadzi. Wzorzec, który antologia pokazuje, to postawa człowieka, który sprawdza odpowiedzi i jednocześnie dochodzi dzięki nim do czegoś, czego nie wiedział na wejściu.
+Czujność jest jednak tylko połową tego, co premiujemy. Czwarte kryterium - **Plon** - nagradza rozmowy, z których człowiek coś wyniósł: nazwaną ideę, rozwiązany problem, odnalezione źródło, zmienioną decyzję. Nie chodzi więc o samo kwestionowanie, lecz o dociekanie, które do czegoś prowadzi. Wzorzec, który Antologia pokazuje, to postawa człowieka, który sprawdza odpowiedzi i jednocześnie dochodzi dzięki nim do czegoś, czego nie wiedział na wejściu.
 
 #### Możliwe miejsce w obiegu kultury
 
@@ -159,7 +159,7 @@ Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
 Zgłoszeń będzie więcej, niż jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem.
 
-Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, które rozstrzyga o dziesiątce antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co akademia i jury rozstrzygają, decyduje o antologii i o nagrodach, a nie o obecności w Archiwum.
+Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, które rozstrzyga o dziesiątce Antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co akademia i jury rozstrzygają, decyduje o Antologii i o nagrodach, a nie o obecności w Archiwum.
 
 ### Jury - profil składu
 
@@ -170,7 +170,7 @@ Grupa osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron
 - **praktyka** - osoba pracująca z modelami zawodowo,
 - **spoza branży** - sprawdzenie, czy rozmowa jest zrozumiała dla kogoś z zewnątrz.
 
-Jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w antologii.
+Jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w Antologii.
 
 Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za weryfikację formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie akademia i jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
 
@@ -182,7 +182,7 @@ Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator od
 
 Kwoty wymienione wyżej dotyczą wyłącznie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją. Nagrody trzech plebiscytów artystycznych są odrębne i opisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film); nie wchodzą do puli 371 tys. zł i nie są z niej finansowane.
 
-**Trwały produkt:** antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie.
+**Trwały produkt:** Antologia i Archiwum rozmów. To one zostają po edycji i to one są powodem, dla którego plebiscyt w ogóle ma sens poza samym rozdaniem nagród. Publikacja jest warunkiem udziału: zgłaszając rozmowę, uczestnik udziela organizatorowi nieodpłatnej, niewyłącznej licencji na pięć lat na jej opublikowanie w Antologii i w Archiwum, która po tym okresie przechodzi w licencję na czas nieoznaczony w tym samym zakresie.
 
 ### Nagroda publiczności
 
@@ -200,7 +200,7 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 
 - **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 628 752,16 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
 - **Sponsor gali** - 52 679,20 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
-- **Partner wydawniczy lub sponsor organizacyjny** - 128 745,10 zł<small>produkcja bezpłatnej antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
+- **Partner wydawniczy lub sponsor organizacyjny** - 128 745,10 zł<small>produkcja bezpłatnej Antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
 - **Mecenas Założycielski** - 223 294,50 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
 - **Sponsor Akademii** - 160 160,00 zł<small>pierwsza runda oceny, rozdzielona na plebiscyty i możliwa do objęcia osobno: Akademia rozmowy 51 520,00 zł - honoraria i vouchery czytelników, kalibracja, obsługa rozliczeń - oraz Akademia filmu 108 640,00 zł - honoraria za obejrzenia i kalibracja. Pierwsze przejście oceny piosenek i plakatów należy do tego samego zakresu, ale czeka na ustalenie stawki i pozostaje bez kwoty. Panel oceniających jest jeden dla czterech plebiscytów i dzieli się proporcjonalnie do liczby ocen</small>
 - **Sponsor podcastu** - 21 710,70 zł<small>podcast towarzyszący Nagrodzie: wyceniona jest koordynacja dwudziestu czterech odcinków w dwóch cyklach wraz z udziałem w kosztach narzędzi; produkcja i honorarium prowadzącego czekają na wycenę. Budżet wydzielony z części wydawniczej, żeby ta sama rzecz nie była finansowana przez jednego partnera i oferowana drugiemu</small>
@@ -210,7 +210,7 @@ Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/a
 
 Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli.
 
-Realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny.
+Realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji Antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny.
 
 Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
 
@@ -335,13 +335,13 @@ Nagrody w plebiscytach są w rozumieniu ustawy o podatku dochodowym od osób fiz
 
 Jurorzy plebiscytu otrzymują wynagrodzenie za ocenę zgłoszeń, tak jak jury i akademia oceniające rozmowy. **Odrębnie wynagradzany jest etap przygotowawczy**, przypadający przed otwarciem naboru: opracowanie karty oceny, wag kryteriów i opisów przedziałów punktowych, które powstają z udziałem jury i są jawne od dnia ogłoszenia naboru. W arkuszu budżetowym stanowi on osobną pozycję w każdym z czterech plebiscytów. Wysokość obu honorariów nie jest jeszcze ustalona, ponieważ zależy od liczebności jury; punktem odniesienia jest stawka przyjęta dla jury. Pozycja dotycząca hymnu obejmuje produkcję nagrania i teledysku i jest odrębna zarówno od honorarium za ocenianie, jak i od honorarium za wykonanie na żywo podczas gali.
 
-### Płyta jest odpowiednikiem antologii
+### Płyta jest odpowiednikiem Antologii
 
-Nagranie studyjne dziesięciu najwyżej ocenionych utworów finansuje organizator - jest to osobna pozycja kosztorysu - a wydanie i dystrybucja płyty przewidziane są jako wkład wydawnictwa-partnera, tak samo jak antologię produkuje i wydaje partner wydawniczy. Podział jest celowy: nagrania powstaną niezależnie od tego, czy partner się znajdzie, a od wydawnictwa oczekujemy wydania gotowego materiału, nie sfinansowania dziesięciu sesji studyjnych.
+Nagranie studyjne dziesięciu najwyżej ocenionych utworów finansuje organizator - jest to osobna pozycja kosztorysu - a wydanie i dystrybucja płyty przewidziane są jako wkład wydawnictwa-partnera, tak samo jak Antologię produkuje i wydaje partner wydawniczy. Podział jest celowy: nagrania powstaną niezależnie od tego, czy partner się znajdzie, a od wydawnictwa oczekujemy wydania gotowego materiału, nie sfinansowania dziesięciu sesji studyjnych.
 
 Sesja studyjna jest przy tym **ofertą dla każdego z dziesięciu finalistów, a nie rezultatem bezwarunkowym**: regulamin pozwala finaliście z niej nie skorzystać bez utraty nagrody ani miejsca w dziesiątce, więc liczba powstałych nagrań może być mniejsza.
 
-Relacja między jednym i drugim jest ścisła: strona Nagrody prezentuje zgłoszenia w postaci, w jakiej napłynęły, i odpowiada Archiwum rozmów, a płyta odpowiada antologii, czyli porządnemu wydaniu tego samego materiału. Prawa do utworów i do nagrań pozostają przy ich autorach. **Płyta nie jest wklejana do wydania książkowego antologii**: na tyle okładki znajduje się kod QR prowadzący do nagrań, a płyta jest dystrybuowana cyfrowo i na streamingu.
+Relacja między jednym i drugim jest ścisła: strona Nagrody prezentuje zgłoszenia w postaci, w jakiej napłynęły, i odpowiada Archiwum rozmów, a płyta odpowiada Antologii, czyli porządnemu wydaniu tego samego materiału. Prawa do utworów i do nagrań pozostają przy ich autorach. **Płyta nie jest wklejana do wydania książkowego Antologii**: na tyle okładki znajduje się kod QR prowadzący do nagrań, a płyta jest dystrybuowana cyfrowo i na streamingu.
 
 **Zastrzegam przy tym, że partnera płytowego jeszcze nie ma** - bez niego powstają nagrania, lecz nie powstaje wydanie płytowe.
 
@@ -378,7 +378,7 @@ Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w pleb
 
 ### Prawa
 
-Praca pozostaje własnością autora, wraz z prawami autorskimi i prawem do sprzedaży oryginału. Organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: reprodukcja w galerii zgłoszeń i w Archiwum na stronie, pokazanie oryginału na wystawie przy gali oraz, przy pracy zwycięskiej, reprodukcja na okładce antologii i w materiałach informacyjnych edycji. Sprzedaż oryginału nie przenosi praw autorskich, więc licencja działa niezależnie od tego, do kogo należy później samo płótno. Członek jury nie może zgłosić własnej pracy.
+Praca pozostaje własnością autora, wraz z prawami autorskimi i prawem do sprzedaży oryginału. Organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: reprodukcja w galerii zgłoszeń i w Archiwum na stronie, pokazanie oryginału na wystawie przy gali oraz, przy pracy zwycięskiej, reprodukcja na okładce Antologii i w materiałach informacyjnych edycji. Sprzedaż oryginału nie przenosi praw autorskich, więc licencja działa niezależnie od tego, do kogo należy później samo płótno. Członek jury nie może zgłosić własnej pracy.
 
 ### Jury
 
@@ -386,9 +386,9 @@ Składu jeszcze nie ma i nie wymieniam nikogo, dopóki nie potwierdzi udziału n
 
 Pierwsze przejście oceny przeprowadza **akademia plakatu, powoływana w każdej edycji** - szersze grono praktyków, które ogląda wszystkie zgłoszenia według tej samej karty oceny i przekazuje jury listę węższą; wybór finalistów i werdykt pozostają przy jury. Jest to ta sama konstrukcja, która obsługuje nabór w pozostałych plebiscytach, i to ona, a nie zwiększanie nakładu pracy organizatora, odpowiada za skalowalność plebiscytu.
 
-### Okładka antologii
+### Okładka Antologii
 
-Zwycięska praca ukazuje się na okładce antologii najlepszych rozmów danej edycji, z nazwiskiem autora na stronie redakcyjnej; **zgoda na to jest zapowiedzianym z góry warunkiem udziału**, a nie decyzją podejmowaną po werdykcie. Z autorem uzgadniana jest wyłącznie forma okładki, a w razie braku porozumienia okładką zostaje reprodukcja całej pracy bez kadrowania. Typografia i ewentualne kadrowanie są uzgadniane z autorem, ponieważ praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki.
+Zwycięska praca ukazuje się na okładce Antologii najlepszych rozmów danej edycji, z nazwiskiem autora na stronie redakcyjnej; **zgoda na to jest zapowiedzianym z góry warunkiem udziału**, a nie decyzją podejmowaną po werdykcie. Z autorem uzgadniana jest wyłącznie forma okładki, a w razie braku porozumienia okładką zostaje reprodukcja całej pracy bez kadrowania. Typografia i ewentualne kadrowanie są uzgadniane z autorem, ponieważ praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki.
 
 ### Galeria i Archiwum
 
@@ -400,7 +400,7 @@ Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie czerw
 
 **Drugie pokazanie prac - na wystawie w galerii sztuki, otwieranej wernisażem po gali, a więc już z zajętymi miejscami - jest celem, nie obietnicą regulaminową**, ponieważ zależy od pozyskania galerii. Jeżeli galeria się znajdzie, finaliści otrzymują odrębną propozycję, określającą terminy, ubezpieczenie, czas pozostawania pracy u organizatora i zwrot, a przy wystawie może się odbyć cicha licytacja oryginałów. Nieprzyjęcie propozycji nie wpływa na werdykt ani na nagrodę.
 
-**Werdykt zapada przed galą**, ponieważ antologia ma na gali premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali.
+**Werdykt zapada przed galą**, ponieważ Antologia ma na gali premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali.
 
 ### Licytacja oryginałów
 
@@ -453,11 +453,11 @@ Dojazd i nocleg finalistów są niewycenione również w plebiscytach na piosenk
 
 Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu pracach, zastrzegając, że format do 150 cm dłuższego boku przekracza standardowe limity przesyłek i może wymagać transportu dedykowanego. Ubezpieczenie przyjąłem przy sumie deklarowanej rzędu 100 tys. zł dla całej dziesiątki.
 
-**Dlaczego pula nagród jest tu wyższa niż w plebiscycie na piosenkę.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w plebiscycie na piosenkę jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z [rozdziału 7](#7-plebiscyt-na-piosenke). Zgłoszeniem w plebiscycie na plakat jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po plebiscycie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym plebiscycie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu.
+**Dlaczego pula nagród jest tu wyższa niż w plebiscycie na piosenkę.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w plebiscycie na piosenkę jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z [rozdziału 7](#7-plebiscyt-na-piosenke). Zgłoszeniem w plebiscycie na plakat jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po plebiscycie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę Antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym plebiscycie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu.
 
 ### Czego kosztorys nie obejmuje
 
-Druku antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: dwadzieścia godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 2 000 zł za najlepsze uzasadnienie głosu - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
+Druku Antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: dwadzieścia godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 2 000 zł za najlepsze uzasadnienie głosu - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
 
 ## 9. Plebiscyt na film
 
@@ -580,7 +580,7 @@ Podcast nie jest przedsięwzięciem artystycznym w ścisłym rozumieniu, lecz dz
 
 ## 12. Terminy edycji pierwszej
 
-Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena, produkcja antologii i gala**. Rok, na który przypada każdy koszt, wskazuje kolumna „Rok kosztu" w załączonym zestawieniu zadania.
+Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena, produkcja Antologii i gala**. Rok, na który przypada każdy koszt, wskazuje kolumna „Rok kosztu" w załączonym zestawieniu zadania.
 
 **Przed otwarciem naboru**
 
@@ -589,7 +589,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 
 **2027 - rok naboru**
 
-- **okno rozmów w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, czyli okres, w którym musi zostać przeprowadzona zgłaszana rozmowa: 1 stycznia - 31 grudnia 2027.** Liczy się data rozmowy, a nie data zgłoszenia, i w oknie musi się zmieścić cała rozmowa - pierwsza i ostatnia wypowiedź. Ograniczenie to wynika z tego, że antologia każdej edycji jest zapisem rozmów z jednego roku kalendarzowego
+- **okno rozmów w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, czyli okres, w którym musi zostać przeprowadzona zgłaszana rozmowa: 1 stycznia - 31 grudnia 2027.** Liczy się data rozmowy, a nie data zgłoszenia, i w oknie musi się zmieścić cała rozmowa - pierwsza i ostatnia wypowiedź. Ograniczenie to wynika z tego, że Antologia każdej edycji jest zapisem rozmów z jednego roku kalendarzowego
 - zgłoszenia rozmów: przyjmowane od dnia otwarcia naboru do 10 stycznia 2028
 - pierwsza runda oceny rozmów: na bieżąco, partiami, przez cały rok naboru
 - premiera hymnu wraz z teledyskiem: 2027, w czasie trwania naboru
@@ -598,7 +598,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - nabór filmów: od otwarcia naboru do 30 listopada 2027
 - nabór piosenek: od otwarcia naboru do 31 grudnia 2027; po nim nagrania studyjne dziesiątki finalistów
 
-**2028 - ocena, antologia i gala**
+**2028 - ocena, Antologia i gala**
 
 - zamknięcie zgłoszeń rozmów: 10 stycznia 2028
 - ocena jury w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: styczeń i luty 2028
@@ -606,19 +606,19 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - pierwsze przejście oceny filmów przez akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
 - oględziny oryginałów i werdykt jury plakatu: początek lutego 2028
 - werdykt jury piosenki: luty 2028
-- **zamknięcie treści antologii i przekazanie do produkcji: 31 maja 2028** - od tego dnia treści nie da się już zmienić
+- **zamknięcie treści Antologii i przekazanie do produkcji: 31 maja 2028** - od tego dnia treści nie da się już zmienić
 - produkcja e-booka i audiobooka: od 16 maja do 10 czerwca 2028, a druk nakładu, jeżeli dojdzie do wydania książkowego, po gali w terminie uzgodnionym z wydawcą; okładkę pokazujemy publicznie i zaczynamy sprzedaż dopiero w dniu premiery, ponieważ zwycięski plakat nie może zostać ujawniony przed galą
 - zamknięcie głosowania publiczności we wszystkich trzech plebiscytach artystycznych: w dniu gali, w południe
-- **rozstrzygnięcie, gala i premiera antologii: druga połowa czerwca 2028**
+- **rozstrzygnięcie, gala i premiera Antologii: druga połowa czerwca 2028**
 - wypłata nagród pieniężnych: do 14 dni od ogłoszenia wyników
 
 Regulaminy przewidują przy tym datę graniczną: jeżeli gali nie da się przeprowadzić do 31 sierpnia 2028 roku, wyniki ogłaszam publicznie na stronie Nagrody i wykonuję wszystkie nagrody bez gali.
 
-Rytm docelowy: jedna edycja rocznie. Każda antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
+Rytm docelowy: jedna edycja rocznie. Każda Antologia nosi metrykę pokolenia modeli, z którymi rozmawiano - skokowość rozwoju AI staje się wtedy treścią serii, a nie zakłóceniem kalendarza.
 
 ## 13. Dostępność
 
-Wszystko, co powstaje z Nagrody, jest **bezpłatne i dostępne bez rejestracji**: antologia, Archiwum rozmów, galeria plakatów, zapis gali i podcast. Nie ma konta, nie ma ściany płatności, nie ma zgody na śledzenie - strona nie zbiera żadnych danych o odwiedzających i nie wczytuje niczego z serwerów innych podmiotów.
+Wszystko, co powstaje z Nagrody, jest **bezpłatne i dostępne bez rejestracji**: Antologia, Archiwum rozmów, galeria plakatów, zapis gali i podcast. Nie ma konta, nie ma ściany płatności, nie ma zgody na śledzenie - strona nie zbiera żadnych danych o odwiedzających i nie wczytuje niczego z serwerów innych podmiotów.
 
 Strona Nagrody ma **tryb czytelności**, włączany jednym przyciskiem w pasku u góry: pismo o wielkości 30 pikseli w całym serwisie, czarny tekst na białym tle, linki w jednym wyróżnionym kolorze, bez ozdobnych rysunków. Tryb działa na każdej stronie, łącznie z regulaminami i kartami oceny, a wybór jest zapamiętywany na urządzeniu odwiedzającego.
 
@@ -636,8 +636,8 @@ Organizator nie wnosi środków własnych do puli nagród i nie pobiera opłat o
 
 Przedsięwzięcia tej skali nie prowadzi się jednoosobowo i nie udaję, że będę je prowadził sam. Poniżej wymieniam role wykonawcze wraz ze skutkiem, jaki ma brak każdej z nich. Żadna z tych umów nie jest dziś zawarta.
 
-- **partner wydawniczy** - produkcja i dystrybucja antologii oraz wydanie płytowe. Bez niego powstaje bezpłatny e-book i krótki nakład na galę oraz nagrania studyjne, ale nie powstaje wydanie księgarskie ani płyta.
-- **koordynator wydania i moderacji** - osoba zatrudniona na pierwszy kwartał 2028 roku, od zamknięcia zgłoszeń do premiery. Bez niej terminy produkcji antologii przestają być realne i trzeba przesunąć galę.
+- **partner wydawniczy** - produkcja i dystrybucja Antologii oraz wydanie płytowe. Bez niego powstaje bezpłatny e-book i krótki nakład na galę oraz nagrania studyjne, ale nie powstaje wydanie księgarskie ani płyta.
+- **koordynator wydania i moderacji** - osoba zatrudniona na pierwszy kwartał 2028 roku, od zamknięcia zgłoszeń do premiery. Bez niej terminy produkcji Antologii przestają być realne i trzeba przesunąć galę.
 - **kancelaria** - regulaminy, licencje, archiwum, umowy z jury i wykonawcami. Bez konsultacji prawnej nie otwieram naboru; jest to warunek, nie preferencja.
 - **agencja kreatywna** - docelowa strona Nagrody. Bez niej nabór prowadzi strona w obecnej, roboczej postaci.
 - **studio nagraniowe i realizator** - nagrania dziesiątki finalistów oraz hymn z teledyskiem. Przed otwarciem naboru zabezpieczę finansowanie i możliwość realizacji sesji dla wszystkich dziesięciu finalistów; każdy finalista może z sesji zrezygnować, bez utraty nagrody i miejsca w dziesiątce, więc nagrań może powstać mniej niż dziesięć.

@@ -20,7 +20,7 @@
 **Decyzja:** zakaz inscenizacji zostaje, ale dyskwalifikacja dostaje procedurę: konkretne podstawy, prawo Uczestnika do wyjaśnienia, udział drugiej osoby w decyzji, rozsądny termin kontaktu i alternatywna forma weryfikacji. Dziś organizator miał być wyłącznie administratorem formalnym, a jednocześnie mógł usunąć finalistę - to sprzeczność.
 
 **6. Antologia nie stanie się materiałem dydaktycznym przez samo opublikowanie.** Dziesięć pełnych rozmów to minimum 30 tys. słów; dla nauczyciela to praca, nie pomoc.
-**Decyzja:** antologia dostaje **warstwę użytkową**: wybrane fragmenty, komentarz jurorski wskazujący konkretne ruchy, wskazanie błędów, pytania do samodzielnej pracy. Pełne rozmowy zostają materiałem źródłowym. To jest też odpowiedź na argument edukacyjny wobec Ministerstwa, który dziś jest obietnicą bez pokrycia.
+**Decyzja:** Antologia dostaje **warstwę użytkową**: wybrane fragmenty, komentarz jurorski wskazujący konkretne ruchy, wskazanie błędów, pytania do samodzielnej pracy. Pełne rozmowy zostają materiałem źródłowym. To jest też odpowiedź na argument edukacyjny wobec Ministerstwa, który dziś jest obietnicą bez pokrycia.
 
 **7. Artefakty czasem są konieczne do zrozumienia dialogu.** Zasada "artefakty nie podlegają ocenie" jest słuszna, ale brak widoczności omawianego wykresu czy fragmentu kodu może uniemożliwić ocenę rozmowy.
 **Decyzja:** rozdzielić dwie rzeczy: artefakt nie jest oceniany, ale musi być **widoczny**, jeżeli bez niego rozmowa jest niezrozumiała.
@@ -53,7 +53,7 @@ Do tego usunąć kategoryczne "nikt jeszcze nie nagrodził człowieka" - wartoś
 **15. Próg 25 zgłoszeń jest arbitralny.** Zgoda co do liczby, nie co do idei. Nagroda rozstrzygnięta z sześciu zgłoszeń traci wiarygodność, więc jakiś próg ma sens.
 **Decyzja:** obniżyć próg i **pokazać go przy zgłoszeniu**. Ukrywanie go przed uczestnikami dlatego, że partner mógłby zobaczyć ryzyko, jest słabym uzasadnieniem i recenzent ma rację, że to wstyd.
 
-**16. Budżet nie wycenia pracy organizatora.** Trafne: zero wkładu pieniężnego nie znaczy zero wkładu własnego, a kwota 1,5-2,5 tys. zł nie obejmuje pozyskiwania finansowania, obsługi zgłoszeń, redakcji antologii, materiałów edukacyjnych ani rezerwy.
+**16. Budżet nie wycenia pracy organizatora.** Trafne: zero wkładu pieniężnego nie znaczy zero wkładu własnego, a kwota 1,5-2,5 tys. zł nie obejmuje pozyskiwania finansowania, obsługi zgłoszeń, redakcji Antologii, materiałów edukacyjnych ani rezerwy.
 **Decyzja:** zbudować pełny budżet pierwszej edycji z wyceną własnego czasu, nawet jeśli pozostanie on wkładem nieodpłatnym. Przy puli docelowej trzeba też pokazać, że starcza na wyróżnienia, podatek, druk, galę i obsługę.
 Osobno: **nie ma uzasadnienia dla granicy, według której 100 tys. zł przyciąga wartościowe zgłoszenia, a milion przyciąga inscenizacje.** To było machanie ręką z mojej strony. Przy 100 tys. motywacja do manipulacji też jest znaczna.
 

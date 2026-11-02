@@ -17,7 +17,7 @@ Tytuł serii: **Konstelacje**, z rocznikiem w nazwie tomu. Kolejne tomy co roku.
    - **komentarz jurora** - wskazanie konkretnych momentów rozmowy, nie ocena ogólna.
 4. **Posłowie** - co ten rocznik mówi o roku, w którym powstał. Do napisania po werdykcie.
 5. **Karta oceny w całości** - jako aparat, który pozwala czytelnikowi ocenić rozmowy samodzielnie i nie zgodzić się z jury.
-6. **Nota o prawach** - prawa do rozmów pozostają przy autorach, antologia ukazuje się za ich zgodą.
+6. **Nota o prawach** - prawa do rozmów pozostają przy autorach, Antologia ukazuje się za ich zgodą.
 
 ## Dlaczego taki układ
 
@@ -39,7 +39,7 @@ Tytuł serii: **Konstelacje**, z rocznikiem w nazwie tomu. Kolejne tomy co roku.
 
 ## Pytanie o trzeciej nad ranem
 
-Ta antologia zaczęła się od pytania zadanego o trzeciej w nocy.
+Ta Antologia zaczęła się od pytania zadanego o trzeciej w nocy.
 
 Rozmawiałem ze sztuczną inteligencją. Nie testowałem jej, nie sprawdzałem, czy się pomyli, nie szukałem gotowej odpowiedzi do skopiowania. Rozmowa wciągnęła mnie tak, jak wciągają rozmowy z ludźmi, przy których traci się poczucie czasu: jedno pytanie wynikało z poprzedniej odpowiedzi, wątek odchodził w bok i wracał, a po kilku godzinach doszedłem do czegoś, czego nie wiedziałem, kiedy zaczynałem. Pamiętam moment, w którym podniosłem wzrok na zegar i zdziwiłem się, która jest godzina.
 
@@ -51,7 +51,7 @@ Nie wpadł.
 
 Okazało się, że nagrody w tej dziedzinie dostawały dotąd maszyny. Loebner Prize przez trzydzieści lat sprawdzał, czy program potrafi udawać człowieka. Alexa Prize płacił za bota, który utrzyma rozmowę przez dwadzieścia minut. Nagradzano program za to, jak mówi. Człowieka siedzącego po drugiej stronie ekranu nie nagradzał nikt - choć to on wymyśla pytania, on decyduje, kiedy nie wierzyć, i on jest jedyną stroną tej rozmowy, która może z niej cokolwiek wynieść.
 
-Tak powstała Nagroda Konstela, a ta antologia jest jej pierwszym rocznikiem.
+Tak powstała Nagroda Konstela, a ta Antologia jest jej pierwszym rocznikiem.
 
 ## Co jest w tym tomie
 
@@ -63,7 +63,7 @@ Nie jest to zbiór promptów ani poradnik. Nie znajdzie się tutaj sztuczek na o
 
 ## Czego w nich szukać
 
-Oceniane były cztery rzeczy, te same, które proponuję jako sposób czytania tej antologii.
+Oceniane były cztery rzeczy, te same, które proponuję jako sposób czytania tej Antologii.
 
 **Rozpiętość** - jak nieoczywiste jest połączenie, które rozmowa wykonała, i czy zostało uzasadnione. Efektowne zestawienie dwóch odległych dziedzin bywa łatwiejsze niż nieoczywisty zwrot wewnątrz jednej.
 
@@ -85,6 +85,6 @@ Ten tom jest próbą zachowania choćby części. Dlatego każdy rocznik nosi da
 
 ## Jedna uwaga o autorach
 
-Każda rozmowa w tej antologii ma człowieka, który ją prowadził, i to on jest tu autorem - nie program. Prawa do rozmów pozostają przy ich autorach, a antologia ukazuje się za ich zgodą. Obok wydania książkowego powstaje bezpłatny e-book, bez rejestracji i bez ograniczeń dostępu, oraz publiczne Archiwum obejmujące wszystkie zgłoszenia, także te, które do dziesiątki nie weszły, wraz z jawną punktacją.
+Każda rozmowa w tej Antologii ma człowieka, który ją prowadził, i to on jest tu autorem - nie program. Prawa do rozmów pozostają przy ich autorach, a Antologia ukazuje się za ich zgodą. Obok wydania książkowego powstaje bezpłatny e-book, bez rejestracji i bez ograniczeń dostępu, oraz publiczne Archiwum obejmujące wszystkie zgłoszenia, także te, które do dziesiątki nie weszły, wraz z jawną punktacją.
 
 Nagradzamy człowieka. Wydaje się to oczywiste dopiero wtedy, gdy ktoś to powie.

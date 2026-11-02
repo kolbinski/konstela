@@ -20,7 +20,7 @@ ul. 11 Listopada 12/1
 LIST INTENCYJNY
 
 
-Ministerstwo Cyfryzacji zapoznało się z przedstawioną koncepcją Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z modelami sztucznej inteligencji, wraz z towarzyszącą jej antologią publikowaną nieodpłatnie w internecie.
+Ministerstwo Cyfryzacji zapoznało się z przedstawioną koncepcją Nagrody Konstela - cyklicznej nagrody przyznawanej osobom prowadzącym pogłębione rozmowy z modelami sztucznej inteligencji, wraz z towarzyszącą jej Antologią publikowaną nieodpłatnie w internecie.
 
 Ministerstwo uznaje tematykę inicjatywy za wpisującą się w obszar rozwoju kompetencji cyfrowych, w szczególności w zakresie świadomego i krytycznego korzystania z narzędzi sztucznej inteligencji, oraz dostrzega wartość edukacyjną udostępnianych bezpłatnie materiałów źródłowych w języku polskim.
 

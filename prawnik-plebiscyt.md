@@ -4,4 +4,4 @@ Ta lista ma teraz własny adres razem z trzema pozostałymi plebiscytami: **[pyt
 
 Treść nie uległa zmianie, a numeracja punktów jest ta sama, więc odesłania z wcześniejszej korespondencji nadal się zgadzają. Ten adres zostaje, żeby odnośnik przesłany 25 października 2026 roku nie przestał działać.
 
-Pozostałe listy: [pytania wspólne](/dokument/prawnik), [plebiscyt na rozmowę i antologia](/dokument/prawnik-rozmowy), [plebiscyt na plakat](/dokument/prawnik-plakatu), [plebiscyt na film](/dokument/prawnik-filmu).
+Pozostałe listy: [pytania wspólne](/dokument/prawnik), [plebiscyt na rozmowę i Antologia](/dokument/prawnik-rozmowy), [plebiscyt na plakat](/dokument/prawnik-plakatu), [plebiscyt na film](/dokument/prawnik-filmu).

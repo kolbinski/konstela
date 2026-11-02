@@ -4,7 +4,7 @@ Adresat: Michał Nosowski, radca prawny, michal.nosowski@bytelaw.pl. Nawiązuje 
 
 Temat: Nagroda Konstela - nowe pytania do zakresu
 
-**Status: wstrzymany do czasu odpowiedzi ministerstw.** Decyzja z 29.10.2026. Wpis fundacji do rejestru następuje po zabezpieczeniu finansowania, to zależy od sponsora antologii, a ten od listów intencyjnych ministerstw - dopóki nie ma stanowisk, nie mam terminu u notariusza i nie ma po co naciskać kancelarii datą. List idzie razem z informacją o zabezpieczonym finansowaniu. **Przed wysłaniem uzupełnić: datę wizyty u notariusza i terminy zamknięcia obszarów, w miejscach oznaczonych nawiasami kwadratowymi.**
+**Status: wstrzymany do czasu odpowiedzi ministerstw.** Decyzja z 29.10.2026. Wpis fundacji do rejestru następuje po zabezpieczeniu finansowania, to zależy od sponsora Antologii, a ten od listów intencyjnych ministerstw - dopóki nie ma stanowisk, nie mam terminu u notariusza i nie ma po co naciskać kancelarii datą. List idzie razem z informacją o zabezpieczonym finansowaniu. **Przed wysłaniem uzupełnić: datę wizyty u notariusza i terminy zamknięcia obszarów, w miejscach oznaczonych nawiasami kwadratowymi.**
 
 ---
 
@@ -30,7 +30,7 @@ Sprawa porządkowa dotyczy zakresu i piszę o niej wprost, bo nie chcę, żeby r
 
 Rozumiem, że to nie są "dodatkowe pytania" w rozmiarze, który mieści się w uzgodnionej kwocie przez samo przemilczenie, i nie udaję, że tak jest. Proszę o informację, co z tego wchodzi w uzgodniony zakres, a co wymaga odrębnej wyceny - z prośbą o ujęcie plebiscytów jako osobnej pozycji, bo mają własny harmonogram i własne źródło finansowania. Jeżeli wygodniej to omówić przez telefon, jestem dostępny w dowolnym terminie.
 
-Terminy po mojej stronie wynikają z kolejności, nie z kalendarza: statut idzie do notariusza po zabezpieczeniu finansowania, obszary 1, 2, 6 i 7 zamykamy w ciągu [liczba] tygodni od tej chwili, a otwarcie naboru planowane jest na 1 stycznia 2027 roku i również zależy od zabezpieczenia środków. Gdy stanowiska ministerstw i rozmowa ze sponsorem antologii dadzą konkretne daty, przekażę je niezwłocznie.
+Terminy po mojej stronie wynikają z kolejności, nie z kalendarza: statut idzie do notariusza po zabezpieczeniu finansowania, obszary 1, 2, 6 i 7 zamykamy w ciągu [liczba] tygodni od tej chwili, a otwarcie naboru planowane jest na 1 stycznia 2027 roku i również zależy od zabezpieczenia środków. Gdy stanowiska ministerstw i rozmowa ze sponsorem Antologii dadzą konkretne daty, przekażę je niezwłocznie.
 
 Pozdrawiam serdecznie,
 

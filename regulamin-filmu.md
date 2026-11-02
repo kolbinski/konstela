@@ -61,7 +61,7 @@
 
 3. **Po publicznym ogłoszeniu werdyktu** zmiana wyniku jest możliwa wyłącznie jako **korekta błędu** – rachunkowego, proceduralnego albo wynikającego z wykluczenia zgłoszenia na podstawie przepisów o nieprawdziwym oświadczeniu. Korekta wymaga **osobnego, uzasadnionego komunikatu** na stronie Nagrody, wskazującego zmienione miejsca, świadczenia i publikacje.
 
-4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
+4. **Organizator nie zmienia bez oznaczenia materiałów dokumentujących wcześniej ogłoszony wynik.** Zapis gali, Antologia i Archiwum pozostają w postaci, w jakiej zostały ogłoszone; informacja o korekcie dołączana jest do nich jako odrębna adnotacja z datą.
 
 ## § 2. Przedmiot plebiscytu
 
@@ -132,7 +132,7 @@
 
    h) **pseudonim** albo **nazwę składu twórczego** – nieobowiązkowe; wypełniane wtedy, gdy Uczestnik woli, by zgłoszenie było podpisane inaczej niż imieniem i nazwiskiem;
 
-   h1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Projektorni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
+   h1) **kontakt do autora: link do strony albo profilu Uczestnika w wybranym przez niego serwisie** – **nieobowiązkowe**, do 200 znaków, zaczynający się od „http://” albo „https://”. Link jest prezentowany publicznie przy wpisie w Projektorni i w Archiwum, **nie podlega ocenie** w żadnym kryterium i **nie jest publikowany w Antologii ani w żadnym materiale drukowanym**. Uczestnik może w każdej chwili żądać jego zmiany albo usunięcia; Organizator wykonuje żądanie w terminie 14 dni. Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika; nie wpływa to ani na ocenę, ani na udział. **Link wskazany przez Uczestnika podpisanego pseudonimem może ujawnić jego tożsamość** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, podaje link wyłącznie za zgodą przedstawiciela ustawowego;
 
    i) **oświadczenia z § 12 ust. 1** – obowiązkowe, składane przez zaznaczenie pól w formularzu.
 

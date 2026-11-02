@@ -40,7 +40,7 @@ Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnien
 
 ### Co dostają finaliści
 
-Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [antologii](/#co-zostaje-po-edycji)** najlepszych rozmów z AI, planowanej jako bezpłatny e-book, a po pozyskaniu wydawcy również w druku. Prace całej dziesiątki pokazujemy na wystawie przy gali: opakowanie, transport w obie strony, przechowywanie i ubezpieczenie oryginałów pokrywa organizator. Jeżeli uda się pozyskać galerię, po gali odbywa się druga wystawa, z wernisażem i cichą licytacją oryginałów – i to już na osobnych, pisemnych warunkach, których finalista nie musi przyjmować.
+Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [Antologii](/#co-zostaje-po-edycji)** najlepszych rozmów z AI, planowanej jako bezpłatny e-book, a po pozyskaniu wydawcy również w druku. Prace całej dziesiątki pokazujemy na wystawie przy gali: opakowanie, transport w obie strony, przechowywanie i ubezpieczenie oryginałów pokrywa organizator. Jeżeli uda się pozyskać galerię, po gali odbywa się druga wystawa, z wernisażem i cichą licytacją oryginałów – i to już na osobnych, pisemnych warunkach, których finalista nie musi przyjmować.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
@@ -73,7 +73,7 @@ Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczeni
 
 Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – zgłasza się zdjęcie pracy, nie życiorys. Nie prowadzi też dochodzenia w sprawie autorstwa: jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo co do uprawnień do wykorzystania elementów pracy, przekazuje je organizatorowi do wyjaśnienia jednym oznaczeniem w panelu. **Oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację** – sprawę prowadzi dalej organizator, według jawnej [procedury moderacji](/dokument/procedura-moderacji).
 
-**Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; ewentualny udział członków jury w tych działaniach wymaga osobnego uzgodnienia zakresu pracy i wynagrodzenia. Nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
+**Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki Antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; ewentualny udział członków jury w tych działaniach wymaga osobnego uzgodnienia zakresu pracy i wynagrodzenia. Nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
 
 ## <!--ikona:tarcza--><span>Warunki współpracy</span>
 

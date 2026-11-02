@@ -10,7 +10,7 @@
 
 Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Jeden warunek: **obraz ma powstać pod ludzką ręką**.
 
-**Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [antologii](/#co-zostaje-po-edycji)** – książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
+**Zwycięski plakat zostaje graficzną twarzą edycji.** Trafia na galę, do mediów i **na okładkę [Antologii](/#co-zostaje-po-edycji)** – książki z najlepszymi rozmowami z AI, którą Nagroda wydaje co roku.
 
 **W skrócie:**
 
@@ -21,11 +21,11 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** – zaplanuj je, zanim zaczniesz malować
 - jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję – bez utraty nagrody i miejsca w werdykcie
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
-- zwycięska praca trafia na okładkę **[antologii](/#co-zostaje-po-edycji)** – zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
+- zwycięska praca trafia na okładkę **[Antologii](/#co-zostaje-po-edycji)** – zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria-i-archiwum)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
 - **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii – [obie drogi są dobrowolne](#sprzedaz-pracy-dwie-drogi-obie-dobrowolne)
 - zgłaszasz **jedną pracę w jednej edycji**
-- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo antologia musi zdążyć do druku
+- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo Antologia musi zdążyć do druku
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -207,11 +207,11 @@ Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które czę
 </article>
 </div>
 
-### Okładka antologii
+### Okładka Antologii
 
-**Okładka jest zapowiedzianą częścią tego plebiscytu, więc zgoda na nią jest warunkiem udziału.** Zgłaszając pracę, wiesz, że jeśli wygrasz, znajdzie się ona na okładce antologii, z Twoim nazwiskiem albo pseudonimem na stronie redakcyjnej. Antologia jest bezpłatnym e-bookiem, a po pozyskaniu wydawnictwa także wydaniem książkowym; okładką jest Twoja praca w obu wersjach.
+**Okładka jest zapowiedzianą częścią tego plebiscytu, więc zgoda na nią jest warunkiem udziału.** Zgłaszając pracę, wiesz, że jeśli wygrasz, znajdzie się ona na okładce Antologii, z Twoim nazwiskiem albo pseudonimem na stronie redakcyjnej. Antologia jest bezpłatnym e-bookiem, a po pozyskaniu wydawnictwa także wydaniem książkowym; okładką jest Twoja praca w obu wersjach.
 
-**Formę okładki uzgadniamy z Tobą.** Zaraz po werdykcie, czyli przed galą, dostajesz propozycję kadru i typografii, a na uwagi masz 7 dni. Praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki, więc nie oczekujemy od Ciebie poprawek. **Jeżeli nie dojdziemy do porozumienia co do formy, okładką zostaje reprodukcja całej pracy bez kadrowania**, a tytuł i pozostałe napisy umieszczamy poza polem obrazu. Dzięki temu z góry wiesz, jak praca ukaże się przy braku uzgodnienia, a antologia zdąży do druku. Twoje autorskie prawa osobiste, w tym prawo do nienaruszalności formy, zostają przy Tobie.
+**Formę okładki uzgadniamy z Tobą.** Zaraz po werdykcie, czyli przed galą, dostajesz propozycję kadru i typografii, a na uwagi masz 7 dni. Praca jest oceniana jako plakat, a nie jako zlecenie na projekt okładki, więc nie oczekujemy od Ciebie poprawek. **Jeżeli nie dojdziemy do porozumienia co do formy, okładką zostaje reprodukcja całej pracy bez kadrowania**, a tytuł i pozostałe napisy umieszczamy poza polem obrazu. Dzięki temu z góry wiesz, jak praca ukaże się przy braku uzgodnienia, a Antologia zdąży do druku. Twoje autorskie prawa osobiste, w tym prawo do nienaruszalności formy, zostają przy Tobie.
 
 ### Wystawy
 
@@ -253,9 +253,9 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w plebiscycie.
 
-Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach. **Warunkiem udziału są dwa**: pokazanie reprodukcji w Galerii i w Archiwum oraz – przy pracy zwycięskiej – reprodukcja na okładce antologii i w materiałach informacyjnych edycji; zgody na okładkę udzielasz przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę, a nie to, czy wolno jej użyć. **Pozostałe zakresy zależą od odrębnych uzgodnień**: pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę, oraz pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej.
+Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach. **Warunkiem udziału są dwa**: pokazanie reprodukcji w Galerii i w Archiwum oraz – przy pracy zwycięskiej – reprodukcja na okładce Antologii i w materiałach informacyjnych edycji; zgody na okładkę udzielasz przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę, a nie to, czy wolno jej użyć. **Pozostałe zakresy zależą od odrębnych uzgodnień**: pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę, oraz pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej.
 
-**Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka antologii pozostaje nienaruszona.
+**Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka Antologii pozostaje nienaruszona.
 
 <h2 id="sprzedaz-pracy-dwie-drogi-obie-dobrowolne"><!--ikona:licytacja--><span>Sprzedaż pracy – dwie drogi, obie dobrowolne</span></h2>
 
@@ -307,23 +307,23 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 ## <!--ikona:iskra--><span>Gala</span>
 
-Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
+Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a Antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
-Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** – oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka antologii powstaje w uzgodnieniu ze zwycięzcą.
+Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** – oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka Antologii powstaje w uzgodnieniu ze zwycięzcą.
 
-**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór rozmów i piosenek**, bo antologia musi zdążyć do druku.
+**Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór rozmów i piosenek**, bo Antologia musi zdążyć do druku.
 
 ## <!--ikona:harmonogram--><span>Harmonogram</span>
 
 <dl class="harmonogram">
 <div><dt>2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
-<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, bo antologia musi zdążyć do druku</small></dd></div>
+<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, bo Antologia musi zdążyć do druku</small></dd></div>
 <div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały</small></dd></div>
 <div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginałów<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
 <div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności</small></dd></div>
-<div><dt>Luty 2028</dt><dd>Uzgodnienie okładki antologii ze zwycięzcą</dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa oryginałów i premiera antologii</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Uzgodnienie okładki Antologii ze zwycięzcą</dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa oryginałów i premiera Antologii</small></dd></div>
 <div><dt>Maj 2028</dt><dd>Zwrot oryginałów autorom</dd></div>
 <div><dt>Maj albo czerwiec 2028</dt><dd>Wystawa w galerii sztuki<small>jeżeli galeria zostanie pozyskana; prace objęte propozycją wracają po jej zakończeniu</small></dd></div>
 </dl>

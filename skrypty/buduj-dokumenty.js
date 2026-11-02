@@ -268,7 +268,7 @@ const TYTULY = {
 
 const OPISY = {
   'oferta-dla-partnera-wydawniczego-antologii':
-    'Wydanie książkowe antologii Nagrody Konstela nakładem własnym wydawcy, na licencji od fundacji: co zawiera tom, na czym polega bezpłatne wydanie elektroniczne i jakie są warunki rozmowy.',
+    'Wydanie książkowe Antologii Nagrody Konstela nakładem własnym wydawcy, na licencji od fundacji: co zawiera tom, na czym polega bezpłatne wydanie elektroniczne i jakie są warunki rozmowy.',
   'oferta-dla-mecenasa-muzycznego':
     'Sesje studyjne dziesiątki finalistów plebiscytu na piosenkę o sztucznej inteligencji: 75 000 zł netto, co obejmuje rola i jak zmienia ofertę fundatora nagród tego plebiscytu.',
   'oferta-dla-partnera-wydawniczego-plyty':
@@ -304,13 +304,13 @@ const OPISY = {
   'jury-w-plebiscycie-filmu-o-ai':
     'Czego Nagroda Konstela oczekuje od jury plebiscytu na film o sztucznej inteligencji i co daje w zamian: zakres pracy, karta oceny, honorarium, niezależność werdyktu i terminy pierwszej edycji.',
   'jury-w-plebiscycie-rozmowy-z-ai':
-    'Czego Nagroda Konstela oczekuje od jury plebiscytu na rozmowę ze sztuczną inteligencją i co daje w zamian: zakres pracy, karta oceny, komentarze do antologii, honorarium i niezależność werdyktu.',
+    'Czego Nagroda Konstela oczekuje od jury plebiscytu na rozmowę ze sztuczną inteligencją i co daje w zamian: zakres pracy, karta oceny, komentarze do Antologii, honorarium i niezależność werdyktu.',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji':
     'Oferta dla sponsora nagród w plebiscycie na film o sztucznej inteligencji: 180 000 zł dla laureatów, Projektornia, zwiastuny finałowej piątki na gali i prowadzenie plebiscytu. 281 600 zł netto, kosztorys i warunki.',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji':
     'Oferta dla sponsora plebiscytu na piosenkę o sztucznej inteligencji: nagrody, sesje studyjne dziesiątki finalistów i hymn z teledyskiem. 265 960 zł netto, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji':
-    'Oferta dla mecenasa plebiscytu na plakat o sztucznej inteligencji: nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka antologii. 176 032 zł netto, kosztorys i warunki.',
+    'Oferta dla mecenasa plebiscytu na plakat o sztucznej inteligencji: nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii. 176 032 zł netto, kosztorys i warunki.',
   'oferta-dla-sponsora-akademii-nagrody-konstela':
     'Oferta dla sponsora Akademii Nagrody Konstela: pierwsza runda oceny rozmów i filmów, honoraria oceniających, kalibracja i panel. 160 160 zł netto, kwota skalująca się z liczbą zgłoszeń.',
   'oferta-dla-sponsora-gali-nagrody-konstela':
@@ -320,11 +320,11 @@ const OPISY = {
   'oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja':
     'Oferta dla fundatora puli nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: 371 000 zł dla laureatów, honoraria jury, promocja naboru i prowadzenie plebiscytu. Kwota, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-antologii-nagrody-konstela':
-    'Mecenat Antologii Nagrody Konstela: kto finansuje bezpłatną antologię, publiczne Archiwum rozmów i podcast, ile to kosztuje, co Mecenas otrzymuje w zamian i czego propozycja nie obejmuje.',
+    'Mecenat Antologii Nagrody Konstela: kto finansuje bezpłatną Antologię, publiczne Archiwum rozmów i podcast, ile to kosztuje, co Mecenas otrzymuje w zamian i czego propozycja nie obejmuje.',
   'dla-partnerow':
-    'Zakresy współpracy przy pierwszej edycji Nagrody Konstela: sponsorzy nagród w czterech plebiscytach, mecenasi antologii i sesji studyjnych, partnerzy wydawniczy, galeria, dystrybucja filmów, gala, podcast i patronat medialny.',
+    'Zakresy współpracy przy pierwszej edycji Nagrody Konstela: sponsorzy nagród w czterech plebiscytach, mecenasi Antologii i sesji studyjnych, partnerzy wydawniczy, galeria, dystrybucja filmów, gala, podcast i patronat medialny.',
   'plebiscyt-plakatu':
-    'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę antologii Nagrody Konstela.',
+    'Otwarty konkurs na plakat o sztucznej inteligencji, wykonany ręcznie - farbą, tuszem, kolażem, bez generatora obrazu. Zwycięska praca trafia na okładkę Antologii Nagrody Konstela.',
   'plebiscyt-filmu':
     'Otwarty konkurs na film o sztucznej inteligencji, od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Zgłoszeniem jest link do filmu na Twoim kanale; nie ma zakazu użycia AI, jest obowiązek deklaracji.',
   'regulaminy':

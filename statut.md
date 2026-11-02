@@ -38,7 +38,7 @@
 
 **§ 9.** Fundacja realizuje swoje cele przez:
 1. organizowanie i prowadzenie **Nagrody Konstela** - corocznej nagrody przyznawanej w plebiscytach: na rozmowę ze sztuczną inteligencją, na film o sztucznej inteligencji, na piosenkę o sztucznej inteligencji i na plakat o sztucznej inteligencji - w tym składanie przyrzeczeń publicznych i wypłatę nagród;
-2. wydawanie i nieodpłatne udostępnianie antologii nagrodzonych rozmów oraz prowadzenie publicznego Archiwum zgłoszeń we wszystkich plebiscytach;
+2. wydawanie i nieodpłatne udostępnianie Antologii nagrodzonych rozmów oraz prowadzenie publicznego Archiwum zgłoszeń we wszystkich plebiscytach;
 3. prowadzenie działalności wydawniczej i fonograficznej, także we współpracy z wydawcami zewnętrznymi, w tym wydawanie nagrań utworów nagrodzonych i finałowych;
 3a. organizowanie wystaw, pokazów filmowych i koncertów prezentujących prace zgłoszone do plebiscytów;
 4. organizowanie konferencji, warsztatów, szkoleń i wydarzeń publicznych;
@@ -75,7 +75,7 @@
 **§ 14.** 
 1. Dochody pochodzące z dotacji, darowizn, spadków i zapisów mogą być użyte na realizację wszystkich celów Fundacji, o ile ofiarodawcy nie postanowili inaczej.
 2. Środki przekazane na pulę nagród konkretnej edycji Nagrody przeznaczane są wyłącznie na ten cel. `[DO SPRAWDZENIA: czy to wystarczy jako zabezpieczenie puli, czy potrzebny rachunek powierniczy - pytanie 35 w prawnik.md]`
-3. Przychód z płatnego wydania antologii, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji, zgodnie z regulaminem Nagrody.
+3. Przychód z płatnego wydania Antologii, po pokryciu kosztów wydania, zasila pulę nagród kolejnej edycji, zgodnie z regulaminem Nagrody.
 
 **§ 15.** Fundacja odpowiada za swoje zobowiązania całym swoim majątkiem.
 
@@ -126,7 +126,7 @@
 1. Fundacja może prowadzić działalność gospodarczą w rozmiarach służących realizacji jej celów statutowych, jako działalność dodatkową w stosunku do działalności statutowej.
 2. Na działalność gospodarczą przeznacza się część funduszu założycielskiego w kwocie **1 000** zł.
 3. Przedmiotem działalności gospodarczej Fundacji jest w szczególności:
-   1. **58.11.Z** - wydawanie książek, w tym antologii w wydaniu elektronicznym i drukowanym;
+   1. **58.11.Z** - wydawanie książek, w tym Antologii w wydaniu elektronicznym i drukowanym;
    2. **58.19.Z** - pozostała działalność wydawnicza: publikacje, plakaty, katalogi i materiały towarzyszące;
    3. **59.11.Z** - działalność związana z produkcją filmów, nagrań wideo i programów telewizyjnych;
    4. **59.20.Z** - działalność w zakresie nagrań dźwiękowych i muzycznych;

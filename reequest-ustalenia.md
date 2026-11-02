@@ -73,7 +73,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 ## 7. Zakres zlecenia i granica
 
-**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do czytelni, półki, strony pojedynczej rozmowy w Archiwum i strony antologii.
+**Po stronie agencji:** warsztaty, branding i tone of voice, materiały wideo (kierunek kreatywny ustalony - sekcja 12), audyt i projekt strony publicznej wraz z podstronami, teksty, wdrożenie w technologii statycznej, WCAG 2.1 AA, widok dokumentów z Markdown z możliwością samodzielnej aktualizacji, przygotowanie pod wersję anglojęzyczną bez jej tworzenia. Podstrona plebiscytu jako osobna pozycja wyceny. Wytyczne projektowe do czytelni, półki, strony pojedynczej rozmowy w Archiwum i strony Antologii.
 
 **Po stronie Krzyśka:** formularz zgłoszeniowy i obsługa danych uczestników, narzędzie archiwizujące rozmowy, narzędzie do weryfikacji formalnej, panel pracy akademii i jury, mechanizmy czytelni, półki i głosowania, publikowanie Archiwum.
 
@@ -81,7 +81,7 @@ Zwycięzcę wybiera **jury**, nie głosowanie. **Karta oceny jest jawna od pocz�
 
 **Wycena:** Ela zadeklarowała wysyłkę najpóźniej 4 listopada.
 
-**Uwaga o kotwicy, do pamiętania przy kolejnych dostawcach.** Brief celowo nie podawał budżetu, ale w rozmowie padło, że „to nie będzie 5000 na pewno" i że przy sponsorze antologii rzędu dwustu tysięcy kwota kilkunastu tysięcy to procent tej sumy. To jest kotwica ustawiona od dołu i wycena najprawdopodobniej nie zejdzie poniżej piętnastu tysięcy. Zasada na przyszłość: najpierw cudza wycena, potem własna liczba.
+**Uwaga o kotwicy, do pamiętania przy kolejnych dostawcach.** Brief celowo nie podawał budżetu, ale w rozmowie padło, że „to nie będzie 5000 na pewno" i że przy sponsorze Antologii rzędu dwustu tysięcy kwota kilkunastu tysięcy to procent tej sumy. To jest kotwica ustawiona od dołu i wycena najprawdopodobniej nie zejdzie poniżej piętnastu tysięcy. Zasada na przyszłość: najpierw cudza wycena, potem własna liczba.
 
 ## 8. Budżety - trzy wnioski do trzech sponsorów
 
