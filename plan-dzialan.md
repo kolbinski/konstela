@@ -933,6 +933,22 @@ Do tego dwie rzeczy przestały udawać pewność: liczby VAT-owskie nie są nazy
 
 **Wniosek metodyczny z czterech tur tej persony.** Trzy z czterech jej uwag w dwóch ostatnich turach dotyczyły wad, które sam wprowadziłem, naprawiając poprzednie - ten wzorzec zapisaliśmy już w CLAUDE.md przy ofercie piosenki i wraca dokładnie w tej postaci. Nowe: **przy każdym zdaniu uzasadniającym wybór sprawdzać, czy nie jest twierdzeniem o świecie, którego nie da się poprzeć** - „transport jest najczęstszym momentem uszkodzenia" brzmiało jak wiedza branżowa, a było moim domysłem użytym jako argument.
 
+## Czwarta tura fundacji: dwie konstrukcje w jednym dokumencie (2.11.2026)
+
+Tura, w której recenzentka nie dodała ani jednego nowego wymagania, a znalazła sześć sprzeczności - i trzy dotyczyły rzeczy wprowadzonych w poprzedniej turze. Jedno zdanie z jej odpowiedzi warto zapisać jako regułę: „proszę przede wszystkim uzgodnić ze sobą to, co już Pan obiecuje dostarczyć i rozliczyć".
+
+**Dwa modele płatności w jednym dokumencie.** Naprawiając zarzut o zaliczkowanie, napisałem, że transze są płatne po odbiorze etapu. Naprawiając zarzut o płynność, napisałem, że koszty zewnętrzne wpływają przed etapem. Oba zdania są prawdziwe i razem są sprzeczne, bo nigdzie nie powiedziałem, że model jest **mieszany**. Teraz mówi to pierwsze zdanie sekcji o płatności, a całość zbiera **tabela przepływów**: kiedy, ile, na co, czym rozliczane i jakie saldo pozostaje nierozliczone. Pozycje tabeli sumują się do 73 456 zł, czyli dokładnie do kosztów twardych bez nagród - inaczej byłaby to kolejna ilustracja, a nie rozliczenie. Limit środków nierozliczonych obejmuje **także niewydane zaliczki dostawców** i wynosi najwyżej 34 650 zł, a pula nagród jest z niego wyłączona i wykazywana osobno. Ryzyko zaliczki na koszty zewnętrzne zostaje przy Mecenasie i jest nazwane w tym samym akapicie, w którym proponujemy to rozwiązanie.
+
+**Dziewięć miesięcy magazynowania po skróceniu pieczy.** Zmieniłem okresy pieczy i nie policzyłem jeszcze raz pozycji, które od nich zależą: przechowywanie zostało na dziewięciu miesiącach, czyli obejmowało też czas, gdy prace są u autorów. Pięć miesięcy, czyli rzeczywiste okresy pieczy; rezerwacji przestrzeni poza nimi nie kupujemy. Kwota roli spada do **268 046,72 zł**, a dziewięć pozycji obiegu oryginałów **znów sumuje się do 20 000 zł**, jak mówi opis - rozbieżność, którą recenzentka policzyła sama, zniknęła wraz z przyczyną.
+
+**Obietnica wiedzy, której przed naborem mieć nie można.** Zapowiedziałem porównanie wariantów pieczy uwzględniające techniki prac finałowych, przed umową przedwstępną - a finalistów poznajemy po naborze. Porównanie dzieli się teraz na część wykonalną wcześniej (typy prac, podłoża, formaty, warunki transportu) i ocenę konkretnych oryginałów po ogłoszeniu finalistów.
+
+**Warunek, który nie był warunkiem.** Umowa przedwstępna nadal zobowiązywała do zawarcia umowy właściwej w czternaście dni od wpisu do KRS, choć dwie tury wcześniej przyjąłem, że sam wpis nie wystarczy. Obowiązek powstaje teraz po spełnieniu **czterech warunków łącznie**: wpis, zatwierdzony budżet z kwalifikacją VAT i limitem, ujawniona reprezentacja z oświadczeniami o powiązaniach oraz zabezpieczone wykonanie. Bez nich obowiązek nie powstaje, a Mecenas może odstąpić bez świadczeń.
+
+**Wada, którą sam wprowadziłem, naprawiając przepustowość.** Żeby nie obiecywać przeczytania każdego uzasadnienia głosu, napisałem, że zespół czyta próbę losową powiększoną o wszystkie uzasadnienia głosów na czołową dziesiątkę. To wiązało szansę rozpatrzenia tekstu z popularnością plakatu, na który ktoś zagłosował - przy nagrodzie **za uzasadnienie**, nie za trafny wybór. Próba losowana jest teraz z całości z jednakowym prawdopodobieństwem, z podaną liczbą uzasadnień objętą budżetem i progiem uruchomienia próbkowania.
+
+**Wniosek metodyczny, trzeci z tej persony i najkonkretniejszy.** Po każdej zmianie, która dotyka terminu albo zakresu, przeliczyć **pozycje zależne od tego terminu** - tu były to magazynowanie, transport i dojazdy - zamiast poprawiać tylko to zdanie, które recenzent wskazał. Trzy z sześciu uwag tej tury to pozycje, których nie przeliczyłem po własnej zmianie z poprzedniej.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
