@@ -279,13 +279,15 @@ Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać
 
 **Punktowanie wewnątrz pasma.** O **wejściu** do pasma rozstrzyga spełnienie jego warunku. O **pozycji** w obrębie pasma rozstrzyga siła i konsekwencja spełnienia tego warunku, a **nie liczba miejsc**, w których coś da się wskazać:
 
-- jeżeli warunek pasma dotyczy **całości pracy** - jak „utrzymane przez cały utwór" albo „forma przemyślana" - pozycję wyznacza konsekwencja: dolny koniec oznacza spełnienie z wyłomami, górny bez wyłomów;
+- jeżeli warunek pasma dotyczy **całości pracy** - jak „utrzymane przez cały utwór" albo „forma przemyślana" - pozycję wyznacza zakres spełnienia: dolny koniec oznacza spełnienie z odstępstwami, górny spełnienie w pełnym zakresie;
 - jeżeli warunek dotyczy **pojedynczych rozwiązań** - jak „są dobre pojedyncze miejsca" - pozycję wyznacza **waga i funkcja** tych rozwiązań w całości pracy, a nie ich liczba. Jedno rozstrzygające rozwiązanie może dać górny koniec pasma, a pięć drobnych efektów dolny;
 - **jedna poważna wada znosi górny koniec pasma** niezależnie od liczby rozwiązań trafnych, a jeżeli podważa sam warunek pasma, zgłoszenie należy do pasma niższego.
 
 Oceniający musi umieć wskazać miejsce uzasadniające pasmo **oraz powiedzieć, która z powyższych rzeczy wyznaczyła pozycję w jego obrębie**. Różnicy, której nie da się w ten sposób uzasadnić, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
 
 **Pasma są kumulatywne w zakresie wymagań jakościowych, nie opisów.** Wejście do pasma wyższego wymaga, żeby pozostawały spełnione **wymagania jakościowe** pasm niższych - spójność, konsekwencja i czytelność konstrukcji. **Wady wymienione w pasmach niższych nie są natomiast warunkiem**: pasma wyższe je zastępują, a nie zachowują, bo praca nie może być jednocześnie wtórna i własna ani jednocześnie rozsypana i konsekwentna. Efektowne rozwiązanie nie otwiera pasma wyższego, jeżeli praca przestała spełniać wymaganie jakościowe niższego.
+
+**Pozycja w paśmie a przejście do pasma wyższego to dwie różne rzeczy.** Zakres i konsekwencja spełnienia wyznaczają **wyłącznie pozycję w obrębie pasma**. O przejściu do pasma wyższego rozstrzyga **warunek tego wyższego pasma**, a nie sama konsekwencja - inaczej ta sama cecha ustalałaby jednocześnie pozycję i kwalifikację, a górny koniec pasma znaczyłby to samo co wejście do następnego.
 
 **Wyłom a kwalifikacja do pasma.** Przy warunku dotyczącym całości pracy **pojedyncze odstępstwo nie obala kwalifikacji**, jeżeli cecha nadal charakteryzuje pracę jako całość - wyznacza wtedy dolny koniec pasma. Odstępstwa powtarzające się albo takie, po których cechy nie da się już przypisać całości, **obalają kwalifikację** i praca należy do pasma niższego.
 
@@ -302,7 +304,7 @@ Co utwór mówi o życiu ze sztuczną inteligencją. Oceniana jest oryginalnoś�
 | **8-11** | Własna obserwacja jest, ale zasłonięta ogólnikami albo porzucona w połowie: konstrukcja utworu nie pokazuje, że tak miało być. |
 | **12-15** | Wyraźna, własna perspektywa, utrzymana przez cały utwór: po odsłuchu da się powiedzieć, czego ten utwór dotyczy i z jakiego miejsca patrzy. |
 | **16-18** | Perspektywa wyrazista ponad to, co daje pasmo niższe, osiągnięta **jedną z dwóch równoważnych dróg**: albo opiera się na nieoczywistej relacji między elementami utworu, którą tekst uzasadnia, zamiast ogłaszać efektowny paradoks, albo na **precyzji jednej sceny i konsekwencji obserwacji**. Nieoczywiste zestawienie nie jest obowiązkiem. |
-| **19-20** | Wybrana droga doprowadzona do końca i prowadzona bez wyłomów: konkretne obrazy, sceny i rozwój utworu składają się na perspektywę, **której nie da się ani sprowadzić do obiegowego hasła, ani streścić bez utraty tego, co w niej własne**. |
+| **19-20** | Perspektywa **organizuje cały utwór**: nie jest cechą pojedynczych obrazów, lecz porządkiem, w jakim utwór je rozmieszcza, i nie da się jej sprowadzić do obiegowego hasła. **Różnica wobec pasma niższego nie polega na braku wyłomów, lecz na tym, czy perspektywa jest cechą wskazanych miejsc, czy całości.** |
 
 #### Tekst – 30 punktów
 
@@ -324,11 +326,11 @@ Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materi
 | Pasmo | Co to znaczy |
 |---|---|
 | **0-5** | Materiał muzyczny nie niesie niczego: przebieg jest przypadkowy, a harmonia przeszkadza tekstowi. |
-| **6-12** | Materiał wtórny albo forma rozsypana - jedno z dwojga wystarcza do tego pasma. **Przy przypadku mieszanym rozstrzyga istnienie własnego pomysłu muzycznego**: konwencjonalny materiał o znakomitej konstrukcji zostaje tutaj, bo pomysłu nie ma; własny materiał rozwleczony należy do pasma wyższego z pozycją obniżoną przez wadę formy. |
-| **13-19** | Przebieg poprawny i forma czytelna, ale materiał jest **powtarzany bez celu**: nawroty nie organizują napięcia ani nie niosą znaczenia. **Celowa stałość - niezmienny motyw, groove albo uporczywy nawrót tej samej frazy - nie jest brakiem rozwoju** i oceniana jest w pasmach wyższych. |
+| **6-12** | **Brak własnego pomysłu kompozytorskiego**: ani materiał, ani konstrukcja nie wnoszą niczego od siebie. Pomysł może tkwić **w samym materiale albo w konstrukcji** - w proporcjach, rozmieszczeniu powrotów, rytmie harmonicznym, gospodarowaniu napięciem - więc utwór zbudowany ze znanych środków, ale o własnej konstrukcji, do tego pasma **nie należy**. Wada formy nie przesądza o pasmie: obniża pozycję w tym paśmie, do którego utwór należy ze względu na pomysł, a kwalifikację obala dopiero wtedy, gdy znosi czytelność konstrukcji. |
+| **13-19** | Własny pomysł jest rozpoznawalny, ale **nieprowadzony**: nawroty nie organizują napięcia ani nie niosą znaczenia, a forma nie wykorzystuje tego, co pomysł daje. **Celowa stałość - niezmienny motyw, groove albo uporczywy nawrót tej samej frazy - nie jest brakiem prowadzenia** i oceniana jest w pasmach wyższych. |
 | **20-26** | Materiał własny i **prowadzony**: napięcie ma przebieg, przejścia są uzasadnione, a czas trwania wynika z konstrukcji. **Prowadzenie może polegać na przekształcaniu motywu albo na celowej stałości**, która napięcie organizuje; obie drogi są równoważne. |
 | **27-31** | Wyjątkowa jakość kompozytorska, osiągnięta **jedną z dwóch równoważnych dróg**: albo wskazana relacja między muzyką a słowami robi coś, czego słowa nie mówią - podważa deklarowaną pewność, opóźnia rozstrzygnięcie, stawia kontrast - albo sam materiał, jego prowadzenie, forma i rytm niosą znaczenie bez komentowania słów. **Komentarz muzyczny nie jest szczeblem ponad dobrą kompozycją, lecz jedną z dróg do tego pasma.** |
-| **32-35** | Ta sama jakość w najwyższym stopniu: **wybrana droga prowadzona jest bez wyłomów przez cały utwór**, a rozwiązania dają się wskazać wraz z zależnością, która je uzasadnia - prozodią, zmianą motywu, napięciem, rozwiązaniem frazy albo konsekwencją celowej stałości. |
+| **32-35** | Wybrana droga **organizuje cały utwór**, a nie pojedyncze rozwiązania: proporcje, powroty i napięcie układają się w jedną konstrukcję, której części nie da się przestawić bez szkody dla całości. **Różnica wobec pasma niższego nie polega na braku wyłomów, lecz na tym, czy jakość jest cechą wskazanych miejsc, czy całej konstrukcji.** |
 
 #### Wykonanie – 15 punktów
 
@@ -341,7 +343,7 @@ Decyzje interpretacyjne słyszalne w nagraniu, w zakresie możliwym do rozpoznan
 | **6-8** | Interpretacja pojawia się miejscami, lecz nie utrzymuje się przez cały utwór. |
 | **9-11** | Decyzje interpretacyjne są konsekwentne i zgodne z tekstem przez cały utwór. |
 | **12-13** | Interpretacja dodaje znaczenia, którego nie ma w zapisie ani w tekście – frazowanie, oddech, cisza albo zmiana barwy we wskazanym miejscu. |
-| **14-15** | Trafność i siła decyzji interpretacyjnych w najwyższym stopniu: wskazane decyzje realizują utwór tak, że **żadna inna z rozpoznawalnych możliwości nie służyłaby mu lepiej**. Interpretacja powściągliwa spełnia ten warunek tak samo jak wyrazista, a **konstrukcyjna niezbędność decyzji nie jest tu warunkiem** - decyzja może rozstrzygać o kształcie nagrania i jednocześnie utworowi szkodzić. |
+| **14-15** | **Trafność, kontrola i siła słyszalnych decyzji w najwyższym stopniu**: decyzje są celowe w każdym wskazanym miejscu, utrzymane przez cały utwór i dają się uzasadnić funkcją, jaką pełnią w utworze. Interpretacja powściągliwa spełnia ten warunek tak samo jak wyrazista. **Porównanie z wykonaniami, których nie ma, nie jest przedmiotem oceny**, a konstrukcyjna niezbędność decyzji nie jest warunkiem - decyzja może rozstrzygać o kształcie nagrania i jednocześnie utworowi szkodzić. |
 
 **Razem: 100 punktów.**
 

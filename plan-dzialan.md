@@ -587,6 +587,18 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Czego recenzent nie podtrzymał:** wszystkich pozostałych zarzutów z pierwszej tury. Wagi 30/20/35/15 podtrzymał jako uzasadniony wybór, nie jako warunek naprawy. Zgodności do 15 punktów nadal nie deklaruje - dopiero niezależna próba ma pokazać, czy jurorzy różnią się osądem jakości, czy nadal stosują różne zasady.
 
+## Trzecia tura karty piosenki: trzy wady z własnych poprawek (2.11.2026)
+
+**Wszystkie trzy problemy tej tury powstały z poprawek poprzedniej.** To jest wynik metodyczny i wart zapisania: naprawa reguły wprowadza nową regułę, a nowa reguła ma własne skutki punktowe, których się nie widzi przy pisaniu. Dlatego kolejna tura po każdej większej przebudowie karty nie jest nadmiarem.
+
+**Reguła przypadku mieszanego w Muzyce premiowała rodzaj zalety, nie jakość.** Wczorajsze brzmienie zostawiało konwencjonalny materiał o znakomitej konstrukcji w paśmie 6-12 („pomysłu nie ma"), a własny materiał rozwleczony przenosiło do pasma wyższego z obniżoną pozycją. Z góry stawiało więc oryginalniejszy materiał z wadą formy nad znakomitą konstrukcją z materiału konwencjonalnego - przy wadze 35 punktów z dużym skutkiem dla wyniku. **Pomysł kompozytorski może tkwić w samej konstrukcji**: w proporcjach, rozmieszczeniu powrotów, rytmie harmonicznym, gospodarowaniu napięciem. Dziś pasmo 6-12 wymaga, by **ani materiał, ani konstrukcja** nie wnosiły niczego od siebie, a utwór ze znanych środków o własnej konstrukcji do tego pasma nie należy.
+
+**Do najwyższego pasma Wykonania wrócił test hipotetycznej alternatywy.** Zdanie „żadna inna z rozpoznawalnych możliwości nie służyłaby mu lepiej" uzależniało punkty od wyobraźni oceniającego: jeden nie znajduje lepszej możliwości i daje 15, drugi wyobraża sobie lepszą interpretację i odmawia wejścia do pasma - a żaden fragment nagrania tego sporu nie rozstrzyga. Ten sam błąd usunęliśmy dzień wcześniej z karty rozmowy („czy model sam by na to wpadł"). Dziś pasmo mierzy **trafność, kontrolę i siłę słyszalnych decyzji w najwyższym stopniu**, z wprost zapisanym zdaniem, że porównanie z wykonaniami, których nie ma, nie jest przedmiotem oceny.
+
+**Góra pasma i wejście do pasma wyższego znaczyły to samo.** „Bez wyłomów" było jednocześnie instrukcją górnego końca pasma i warunkiem pasma następnego, więc nie było wiadomo, co odróżnia 31 od 32. Rozstrzygnięcie weszło do wszystkich czterech kart: **pozycję w paśmie wyznacza zakres spełnienia** (dolny koniec - spełnienie z odstępstwami, górny - w pełnym zakresie), a **o przejściu do pasma wyższego rozstrzyga warunek tego wyższego pasma, nie sama konsekwencja**. W Muzyce 32-35 i Ujęciu 19-20 ten warunek jest teraz nazwany: różnica wobec pasma niższego nie polega na braku wyłomów, lecz na tym, czy jakość jest cechą wskazanych miejsc, czy całej konstrukcji.
+
+**Co recenzent zamknął:** kumulatywność, celową repetycję, muzyczny komentarz jako nieobowiązkowy szczebel i wpływ pojedynczego odstępstwa na kwalifikację. Zgodności do 15 punktów nadal nie deklaruje, ale po tych poprawkach uznaje, że **jest sens ją sprawdzić** - próbie zostawia rzeczywisty rozrzut ocen, nie sprzeczne instrukcje.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

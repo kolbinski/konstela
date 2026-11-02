@@ -217,13 +217,15 @@ Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać
 
 **Punktowanie wewnątrz pasma.** O **wejściu** do pasma rozstrzyga spełnienie jego warunku. O **pozycji** w obrębie pasma rozstrzyga siła i konsekwencja spełnienia tego warunku, a **nie liczba miejsc**, w których coś da się wskazać:
 
-- jeżeli warunek pasma dotyczy **całości pracy** - jak „utrzymane przez cały utwór" albo „forma przemyślana" - pozycję wyznacza konsekwencja: dolny koniec oznacza spełnienie z wyłomami, górny bez wyłomów;
+- jeżeli warunek pasma dotyczy **całości pracy** - jak „utrzymane przez cały utwór" albo „forma przemyślana" - pozycję wyznacza zakres spełnienia: dolny koniec oznacza spełnienie z odstępstwami, górny spełnienie w pełnym zakresie;
 - jeżeli warunek dotyczy **pojedynczych rozwiązań** - jak „są dobre pojedyncze miejsca" - pozycję wyznacza **waga i funkcja** tych rozwiązań w całości pracy, a nie ich liczba. Jedno rozstrzygające rozwiązanie może dać górny koniec pasma, a pięć drobnych efektów dolny;
 - **jedna poważna wada znosi górny koniec pasma** niezależnie od liczby rozwiązań trafnych, a jeżeli podważa sam warunek pasma, zgłoszenie należy do pasma niższego.
 
 Oceniający musi umieć wskazać miejsce uzasadniające pasmo **oraz powiedzieć, która z powyższych rzeczy wyznaczyła pozycję w jego obrębie**. Różnicy, której nie da się w ten sposób uzasadnić, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
 
 **Pasma są kumulatywne w zakresie wymagań jakościowych, nie opisów.** Wejście do pasma wyższego wymaga, żeby pozostawały spełnione **wymagania jakościowe** pasm niższych - spójność, konsekwencja i czytelność konstrukcji. **Wady wymienione w pasmach niższych nie są natomiast warunkiem**: pasma wyższe je zastępują, a nie zachowują, bo praca nie może być jednocześnie wtórna i własna ani jednocześnie rozsypana i konsekwentna. Efektowne rozwiązanie nie otwiera pasma wyższego, jeżeli praca przestała spełniać wymaganie jakościowe niższego.
+
+**Pozycja w paśmie a przejście do pasma wyższego to dwie różne rzeczy.** Zakres i konsekwencja spełnienia wyznaczają **wyłącznie pozycję w obrębie pasma**. O przejściu do pasma wyższego rozstrzyga **warunek tego wyższego pasma**, a nie sama konsekwencja - inaczej ta sama cecha ustalałaby jednocześnie pozycję i kwalifikację, a górny koniec pasma znaczyłby to samo co wejście do następnego.
 
 **Wyłom a kwalifikacja do pasma.** Przy warunku dotyczącym całości pracy **pojedyncze odstępstwo nie obala kwalifikacji**, jeżeli cecha nadal charakteryzuje pracę jako całość - wyznacza wtedy dolny koniec pasma. Odstępstwa powtarzające się albo takie, po których cechy nie da się już przypisać całości, **obalają kwalifikację** i praca należy do pasma niższego.
 
