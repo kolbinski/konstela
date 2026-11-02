@@ -213,7 +213,17 @@
 
 Karta jest częścią niniejszego paragrafu. Obowiązuje akademię filmu i jury, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia.
 
-Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu. **Punkt w obrębie pasma wyznacza liczba miejsc, w których cecha pasma występuje**: dolny koniec oznacza wystąpienie w jednym miejscu, górny - wielokrotne i bez zastrzeżeń, środek stan pośredni. Różnicy, której nie da się w ten sposób wskazać, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
+Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać miejsce w filmie uzasadniające ocenę**, podając znacznik czasu.
+
+**Punktowanie wewnątrz pasma.** O **wejściu** do pasma rozstrzyga spełnienie jego warunku. O **pozycji** w obrębie pasma rozstrzyga siła i konsekwencja spełnienia tego warunku, a **nie liczba miejsc**, w których coś da się wskazać:
+
+- jeżeli warunek pasma dotyczy **całości pracy** - jak „utrzymane przez cały utwór" albo „forma przemyślana" - pozycję wyznacza konsekwencja: dolny koniec oznacza spełnienie z wyłomami, górny bez wyłomów;
+- jeżeli warunek dotyczy **pojedynczych rozwiązań** - jak „są dobre pojedyncze miejsca" - pozycję wyznacza **waga i funkcja** tych rozwiązań w całości pracy, a nie ich liczba. Jedno rozstrzygające rozwiązanie może dać górny koniec pasma, a pięć drobnych efektów dolny;
+- **jedna poważna wada znosi górny koniec pasma** niezależnie od liczby rozwiązań trafnych, a jeżeli podważa sam warunek pasma, zgłoszenie należy do pasma niższego.
+
+Oceniający musi umieć wskazać miejsce uzasadniające pasmo **oraz powiedzieć, która z powyższych rzeczy wyznaczyła pozycję w jego obrębie**. Różnicy, której nie da się w ten sposób uzasadnić, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
+
+**Pasma są kumulatywne.** Wejście do pasma wyższego wymaga, żeby warunki pasm niższych **pozostawały spełnione**, chyba że karta wprost stanowi inaczej. Efektowne rozwiązanie nie otwiera pasma wyższego, jeżeli praca przestała spełniać warunek niższego - spójność, konsekwencję albo czytelność konstrukcji.
 
 **Ocena dotyczy pracy, nie jej przyszłego odbioru.** Gdziekolwiek pasmo wspomina skutek u odbiorcy - że czegoś sam by nie znalazł, że coś zapamięta, że praca stanie się punktem odniesienia albo że czegoś nie dałoby się zrobić inaczej - **oceniający nie przewiduje tego skutku, lecz wskazuje cechę pracy, która go wywołuje**, i musi umieć ją pokazać. Przewidywanie, jak praca zostanie przyjęta, ilu ludzi ją zapamięta i czy będzie aktualna za kilka lat, **nie podlega ocenie w żadnym kryterium**: w chwili oceniania praca nie jest jeszcze opublikowana, więc takiego zdania nie da się sprawdzić ani obronić przy jawnej punktacji.
 

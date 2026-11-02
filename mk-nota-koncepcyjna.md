@@ -277,10 +277,10 @@ Nagroda premiuje świadome korzystanie z tych narzędzi, nie powstrzymywanie si�
 
 Cztery kryteria, łącznie 100 punktów, te same dla akademii i dla jury. Punktacja poniżej jest propozycją organizatora. **Ostateczny kształt kryteriów, wag punktowych oraz opisów przedziałów ocen wraz z przykładami ich zastosowania powstanie z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostaje niezmienny do rozstrzygnięcia edycji.
 
-1.  **Ujęcie tematu** - maksymalnie 25 punktów. Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją: czy za emocją kryje się konkretna obserwacja albo przekonująca historia, czy gotowy schemat.
+1.  **Ujęcie tematu** - maksymalnie 20 punktów. Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją: czy za emocją kryje się konkretna obserwacja albo przekonująca historia, czy gotowy schemat.
 2.  **Tekst** - maksymalnie 30 punktów. Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
-3.  **Muzyka** - maksymalnie 25 punktów. Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w pamięci.
-4.  **Wykonanie** - maksymalnie 20 punktów. Wokal i interpretacja.
+3.  **Muzyka** - maksymalnie 35 punktów. Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w pamięci.
+4.  **Wykonanie** - maksymalnie 15 punktów. Wokal i interpretacja.
 
 ### Słuchalnia i Archiwum piosenek
 

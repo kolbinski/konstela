@@ -315,10 +315,10 @@ Strona obiecywała kryteria „razem z regulaminem", co stało w sprzeczności z
 
 | Kryterium | Punkty |
 |---|---:|
-| Ujęcie tematu | 25 |
+| Ujęcie tematu | 20 |
 | Tekst | 30 |
-| Muzyka | 25 |
-| Wykonanie | 20 |
+| Muzyka | 35 |
+| Wykonanie | 15 |
 
 Tekst ma najwyższą wagę, bo oceniamy również pisanie. **Wykonanie ma najniższą celowo: skoro przyjmujemy dema, nie wolno wysoko ważyć czegoś, co zależy od dostępu do studia.** Do tego linia odpowiadająca zasadzie „nie oceniamy odpowiedzi AI" z plebiscytu głównego: **nie oceniamy jakości produkcji, zasięgów wykonawcy ani jego wcześniejszego dorobku.**
 

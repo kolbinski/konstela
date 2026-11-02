@@ -111,20 +111,20 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 
 <div class="kafle jedna-kolumna">
 <article>
-<h3>Tekst – od 0 do 30 punktów</h3>
-<p>Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką. <strong>Tekst ma najwyższą wagę</strong>, bo to plebiscyt, w którym oceniamy również pisanie.</p>
+<h3>Muzyka – od 0 do 35 punktów</h3>
+<p>Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materiału. <strong>Muzyka ma najwyższą wagę</strong>, bo to plebiscyt na piosenkę, a nie na wypowiedź o AI z muzyką w tle. Melorecytacja i rap nie są brakiem melodii.</p>
 </article>
 <article>
-<h3>Ujęcie tematu – od 0 do 25 punktów</h3>
+<h3>Ujęcie tematu – od 0 do 20 punktów</h3>
 <p>Oryginalność i konkretność spojrzenia na życie z AI: czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat.</p>
 </article>
 <article>
-<h3>Muzyka – od 0 do 25 punktów</h3>
-<p>Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w głowie.</p>
+<h3>Tekst – od 0 do 30 punktów</h3>
+<p>Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką. Samodzielność literacka nie jest warunkiem – tekst może osiągać pełną wartość właśnie w śpiewaniu.</p>
 </article>
 <article>
-<h3>Wykonanie – od 0 do 20 punktów</h3>
-<p>Wokal i interpretacja – w zakresie, w jakim słychać je w czytelnym demie. Jakość produkcji nie wpływa na punktację w żadnym kryterium.</p>
+<h3>Wykonanie – od 0 do 15 punktów</h3>
+<p>Decyzje interpretacyjne słyszalne w czytelnym demie. Jakość produkcji nie wpływa na punktację w żadnym kryterium, a oceniamy to, co słychać, nie wiedzę ani szczerość wykonawcy.</p>
 </article>
 </div>
 

@@ -27,10 +27,10 @@ Plebiscyt jest otwarty, udział bezpłatny, a zgłasza się **własny tekst, wł
 
 Ocena idzie według 4 kryteriów o jawnych wagach, w sumie do 100 punktów:
 
-- **Tekst - do 30 punktów.** Język, obraz, konstrukcja i to, jak tekst współpracuje z muzyką. Waga najwyższa, bo to plebiscyt, w którym oceniamy również pisanie.
-- **Ujęcie tematu - do 25 punktów.** Czy za emocją stoi konkretna obserwacja albo przekonująca historia, czy gotowy schemat.
-- **Muzyka - do 25 punktów.** Melodia, harmonia i forma.
-- **Wykonanie - do 20 punktów.** Wokal i interpretacja w zakresie, w jakim słychać je w demie.
+- **Muzyka - do 35 punktów.** Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materiału. Waga najwyższa, bo to plebiscyt na piosenkę, a nie na wypowiedź o sztucznej inteligencji z muzyką w tle.
+- **Ujęcie tematu - do 20 punktów.** Czy za emocją stoi konkretna obserwacja albo przekonująca historia, czy gotowy schemat.
+- **Tekst - do 30 punktów.** Język, obraz, konstrukcja i to, jak tekst współpracuje z muzyką.
+- **Wykonanie - do 15 punktów.** Decyzje interpretacyjne słyszalne w czytelnym demie.
 
 **Jakości produkcji, okładki, zasięgów ani wcześniejszego dorobku nie oceniamy w żadnym kryterium.** [Karta oceny](/dokument/regulamin-piosenki#karta-oceny) jest jawna przed naborem i taka sama dla wszystkich oceniających.
 

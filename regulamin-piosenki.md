@@ -253,10 +253,10 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 | Kryterium | Punkty | Zakres |
 |---|---:|---|
-| Ujęcie tematu | 25 | Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat |
+| Ujęcie tematu | 20 | Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją; czy za emocją stoi konkretna obserwacja lub przekonująca historia, czy gotowy schemat |
 | Tekst | 30 | Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką |
-| Muzyka | 25 | Melodia, harmonia i forma: spójność, pomysłowość, a także to, czy utwór zostaje w pamięci |
-| Wykonanie | 20 | Wokal i interpretacja |
+| Muzyka | 35 | Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materiału |
+| Wykonanie | 15 | Decyzje interpretacyjne słyszalne w nagraniu |
 | Razem | 100 | |
 
 1a. **Wynikiem zgłoszenia jest średnia arytmetyczna punktów przyznanych mu przez oceniających**, zaokrąglana do jednego miejsca po przecinku. Oceny członka wyłączonego na podstawie § 10 ust. 7 nie uwzględnia się; jego wyłączenie nie zmienia sposobu liczenia wyniku. Tak samo ustala się wynik w pierwszym przejściu prowadzonym przez akademię (§ 10 ust. 5). Liczbę oceniających przypadających na jedno zgłoszenie Organizator ogłasza przed otwarciem naboru.
@@ -275,22 +275,32 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 Karta jest częścią niniejszego paragrafu. Obowiązuje akademię piosenki i jury w tej samej wersji, a publikowana jest również dla Uczestników, żeby wiadomo było, według czego ocenia się zgłoszenia. Jest jawna od dnia ogłoszenia naboru i nie zmienia się po jego otwarciu.
 
-Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać miejsce w utworze uzasadniające ocenę** – wers, fragment melodii albo moment nagrania. **Punkt w obrębie pasma wyznacza liczba miejsc, w których cecha pasma występuje**: dolny koniec oznacza wystąpienie w jednym miejscu, górny - wielokrotne i bez zastrzeżeń, środek stan pośredni. Różnicy, której nie da się w ten sposób wskazać, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
+Pasma są punktem odniesienia, nie automatem: oceniający **musi umieć wskazać miejsce w utworze uzasadniające ocenę** – wers, fragment melodii albo moment nagrania.
+
+**Punktowanie wewnątrz pasma.** O **wejściu** do pasma rozstrzyga spełnienie jego warunku. O **pozycji** w obrębie pasma rozstrzyga siła i konsekwencja spełnienia tego warunku, a **nie liczba miejsc**, w których coś da się wskazać:
+
+- jeżeli warunek pasma dotyczy **całości pracy** - jak „utrzymane przez cały utwór" albo „forma przemyślana" - pozycję wyznacza konsekwencja: dolny koniec oznacza spełnienie z wyłomami, górny bez wyłomów;
+- jeżeli warunek dotyczy **pojedynczych rozwiązań** - jak „są dobre pojedyncze miejsca" - pozycję wyznacza **waga i funkcja** tych rozwiązań w całości pracy, a nie ich liczba. Jedno rozstrzygające rozwiązanie może dać górny koniec pasma, a pięć drobnych efektów dolny;
+- **jedna poważna wada znosi górny koniec pasma** niezależnie od liczby rozwiązań trafnych, a jeżeli podważa sam warunek pasma, zgłoszenie należy do pasma niższego.
+
+Oceniający musi umieć wskazać miejsce uzasadniające pasmo **oraz powiedzieć, która z powyższych rzeczy wyznaczyła pozycję w jego obrębie**. Różnicy, której nie da się w ten sposób uzasadnić, nie stawia się - punktacja jest jawna przy każdym zgłoszeniu, więc każdy punkt musi dać się obronić wskazaniem, a nie wrażeniem.
+
+**Pasma są kumulatywne.** Wejście do pasma wyższego wymaga, żeby warunki pasm niższych **pozostawały spełnione**, chyba że karta wprost stanowi inaczej. Efektowne rozwiązanie nie otwiera pasma wyższego, jeżeli praca przestała spełniać warunek niższego - spójność, konsekwencję albo czytelność konstrukcji.
 
 **Ocena dotyczy pracy, nie jej przyszłego odbioru.** Gdziekolwiek pasmo wspomina skutek u odbiorcy - że czegoś sam by nie znalazł, że coś zapamięta, że praca stanie się punktem odniesienia albo że czegoś nie dałoby się zrobić inaczej - **oceniający nie przewiduje tego skutku, lecz wskazuje cechę pracy, która go wywołuje**, i musi umieć ją pokazać. Przewidywanie, jak praca zostanie przyjęta, ilu ludzi ją zapamięta i czy będzie aktualna za kilka lat, **nie podlega ocenie w żadnym kryterium**: w chwili oceniania praca nie jest jeszcze opublikowana, więc takiego zdania nie da się sprawdzić ani obronić przy jawnej punktacji.
 
-#### Ujęcie tematu – 25 punktów
+#### Ujęcie tematu – 20 punktów
 
-Co utwór mówi o życiu ze sztuczną inteligencją. Oceniana jest oryginalność i konkretność spojrzenia, nie sam temat.
+Co utwór mówi o życiu ze sztuczną inteligencją. Oceniana jest oryginalność i konkretność spojrzenia, nie sam temat. **Utwór nie musi stawiać tezy**: rozpoznawalną perspektywę może nieść scena, wielogłos, ironia albo świadoma niejednoznaczność, a nierozstrzygnięte pytanie bywa zakończeniem, nie brakiem zakończenia.
 
 | Pasmo | Co to znaczy |
 |---|---|
-| **0-4** | Temat jest wspomniany, ale utwór nic o nim nie mówi: zostaje hasło albo rekwizyt. |
-| **5-9** | Ujęcie obiegowe – powtarza to, co w tej sprawie mówi się powszechnie, bez własnej obserwacji. |
-| **10-14** | Własna obserwacja jest, ale niekonsekwentna albo zasłonięta ogólnikami; utwór nie doprowadza myśli do końca. |
-| **15-19** | Wyraźne, własne spojrzenie, utrzymane przez cały utwór. Słuchacz potrafi po odsłuchu powiedzieć, co utwór twierdzi. |
-| **20-23** | Spojrzenie, które przestawia patrzenie na rzecz znaną – ujęcie, którego słuchacz sam by nie znalazł, a po odsłuchu uznaje za oczywiste. |
-| **24-25** | Ujęcie na tyle własne i tak poprowadzone, że utwór staje się punktem odniesienia w rozmowie o tym temacie. |
+| **0-3** | Temat jest wspomniany, ale utwór nic o nim nie mówi: zostaje hasło albo rekwizyt. |
+| **4-7** | Ujęcie obiegowe – powtarza to, co w tej sprawie mówi się powszechnie, bez własnej obserwacji. |
+| **8-11** | Własna obserwacja jest, ale zasłonięta ogólnikami albo porzucona w połowie: konstrukcja utworu nie pokazuje, że tak miało być. |
+| **12-15** | Wyraźna, własna perspektywa, utrzymana przez cały utwór: po odsłuchu da się powiedzieć, czego ten utwór dotyczy i z jakiego miejsca patrzy. |
+| **16-18** | Perspektywa opiera się na **nieoczywistej relacji między elementami utworu**, a tekst tę relację uzasadnia, zamiast ogłaszać efektowny paradoks. |
+| **19-20** | Ujęcie wyraziste i konsekwentne na tyle, że konkretne obrazy, sceny i rozwój utworu składają się na **perspektywę, której nie da się sprowadzić do obiegowego hasła**. |
 
 #### Tekst – 30 punktów
 
@@ -301,37 +311,41 @@ Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
 | **0-5** | Tekst nie trzyma się kupy: rymy wymuszają treść, obrazy są przypadkowe, zdania nie układają się w całość. |
 | **6-11** | Tekst poprawny, lecz zbudowany z gotowych zwrotów; nic w nim nie zaskakuje. |
 | **12-17** | Są dobre pojedyncze miejsca – obraz, zwrot, pointa – ale reszta ich nie dorównuje albo konstrukcja się rozsypuje. |
-| **18-23** | Tekst spójny, z własnym językiem i czytelną konstrukcją; refren i zwrotki robią różne rzeczy i obie są potrzebne. |
-| **24-27** | Tekst, który działa także bez muzyki, a z muzyką zyskuje: frazowanie wynika z melodii, akcenty padają tam, gdzie trzeba. |
-| **28-30** | Tekst, który zostaje w głowie zdaniami, a nie tylko refrenem, i którego nie dałoby się napisać o niczym innym. |
+| **18-23** | Tekst spójny, z własnym językiem i czytelną konstrukcją: **części utworu pełnią różne funkcje i każda jest potrzebna** – także wtedy, gdy utwór nie ma refrenu albo gdy powtórzenie pełni funkcję zasadniczą. |
+| **24-27** | Tekst i melodia współpracują: frazowanie wynika z melodii, akcenty padają tam, gdzie trzeba, a konstrukcja tekstu wykorzystuje to, że jest śpiewany. **Samodzielność literacka nie jest tu warunkiem** – tekst może osiągać pełną wartość właśnie w śpiewaniu. |
+| **28-30** | Sformułowania są precyzyjne, skondensowane i rozpoznawalnie własne, a każde z nich **pracuje w konstrukcji piosenki**, a nie stoi obok niej jako cytat. |
 
-#### Muzyka – 25 punktów
+#### Muzyka – 35 punktów
 
-Melodia, harmonia i forma: spójność, pomysłowość oraz to, czy utwór zostaje w pamięci.
-
-| Pasmo | Co to znaczy |
-|---|---|
-| **0-4** | Melodia nie istnieje albo jest przypadkowa; harmonia przeszkadza tekstowi. |
-| **5-9** | Materiał całkowicie wtórny: schemat bez własnego pomysłu, forma rozsypana albo przeciągnięta. |
-| **10-14** | Melodia poprawna, forma czytelna, ale utwór nie ma momentu, który by się zapamiętało. |
-| **15-19** | Melodia własna i nośna, forma przemyślana, przejścia uzasadnione; utwór zostaje po jednym odsłuchu. |
-| **20-23** | Muzyka niesie znaczenie sama z siebie – rozwiązanie harmoniczne albo melodyczne mówi coś, czego nie powiedziano słowami. |
-| **24-25** | Muzyka i tekst są nierozdzielne: tej melodii nie dałoby się podłożyć pod inny tekst bez utraty sensu. |
-
-#### Wykonanie – 20 punktów
-
-Wokal i interpretacja, w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium.**
+Melodia, harmonia, rytm i forma: spójność, pomysłowość oraz rozwój materiału. **Ograniczenie wysokości dźwięku, melorecytacja albo rap nie są brakiem melodii** i same w sobie nie obniżają oceny w żadnym paśmie.
 
 | Pasmo | Co to znaczy |
 |---|---|
-| **0-3** | Wykonanie uniemożliwia ocenę utworu: tekstu nie da się zrozumieć, intonacja rozsypuje melodię. |
-| **4-7** | Wykonanie obojętne – poprawne technicznie albo nie, ale nieniosące żadnej interpretacji. |
-| **8-11** | Interpretacja pojawia się miejscami, lecz nie utrzymuje się przez cały utwór. |
-| **12-15** | Wykonanie konsekwentne i zgodne z tekstem: słychać, że ktoś wie, o czym śpiewa. |
-| **16-18** | Interpretacja dodaje utworowi znaczenia, którego nie ma w samym zapisie – frazowanie, oddech, cisza w dobrym miejscu. |
-| **19-20** | Wykonanie, bez którego ten utwór byłby inną piosenką. |
+| **0-5** | Materiał muzyczny nie niesie niczego: przebieg jest przypadkowy, a harmonia przeszkadza tekstowi. |
+| **6-12** | Materiał całkowicie wtórny: schemat bez własnego pomysłu, forma rozsypana albo przeciągnięta. |
+| **13-19** | Przebieg poprawny i forma czytelna, ale materiał nie rozwija się: utwór powtarza to, co pokazał na początku. |
+| **20-26** | Materiał własny i rozwijany: motyw wraca przekształcony, napięcie ma przebieg, przejścia są uzasadnione, a czas trwania wynika z konstrukcji. |
+| **27-31** | Rozwiązanie muzyczne **niesie znaczenie samo z siebie** – wskazana relacja między muzyką a słowami robi coś, czego słowa nie mówią: podważa deklarowaną pewność, opóźnia rozstrzygnięcie, stawia kontrast. |
+| **32-35** | Najwyższa jakość kompozytorska, osiągnięta **jedną z dwóch dróg**: przez konkretne zależności między muzyką a znaczeniem – prozodię, zmianę motywu, napięcie, rozwiązanie frazy – albo przez sam rozwój materiału, formę i rytm, bez obowiązku komentowania słów muzyką. |
+
+#### Wykonanie – 15 punktów
+
+Decyzje interpretacyjne słyszalne w nagraniu, w zakresie możliwym do rozpoznania w czytelnym demie. **Jakość produkcji nagrania nie wpływa na punktację w żadnym kryterium**, a oceniający nie ocenia wiedzy ani szczerości wykonawcy, lecz to, co słychać.
+
+| Pasmo | Co to znaczy |
+|---|---|
+| **0-2** | Wykonanie uniemożliwia ocenę utworu: tekstu nie da się zrozumieć, intonacja rozsypuje przebieg. |
+| **3-5** | Wykonanie obojętne – poprawne technicznie albo nie, ale nieniosące żadnej interpretacji. |
+| **6-8** | Interpretacja pojawia się miejscami, lecz nie utrzymuje się przez cały utwór. |
+| **9-11** | Decyzje interpretacyjne są konsekwentne i zgodne z tekstem przez cały utwór. |
+| **12-13** | Interpretacja dodaje znaczenia, którego nie ma w zapisie ani w tekście – frazowanie, oddech, cisza albo zmiana barwy we wskazanym miejscu. |
+| **14-15** | Decyzje wykonawcze **rozstrzygają o kształcie utworu**: da się wskazać te, bez których konstrukcja piosenki nie działałaby tak, jak działa. |
 
 **Razem: 100 punktów.**
+
+**Rozdzielenie zakresów.** Ten sam fragment może uzasadniać oceny w trzech kryteriach, ale **każda musi dotyczyć innej właściwości**: prozodia i praca słowa należą do Tekstu, decyzja kompozytorska do Muzyki, realizacja frazy do Wykonania. Oceniający, który tym samym argumentem uzasadnia trzy oceny, podnosi wynik trzykrotnie za jedną rzecz.
+
+**Czego karta nie rozstrzyga.** Punktacja jakości nie ustala pochodzenia tekstu ani melodii. **Nie dolicza się punktów za domniemaną ludzkość utworu ani nie odejmuje za styl kojarzony z generowaniem**; wymóg, by kompozycja, tekst i wokal pochodziły od człowieka, jest warunkiem formalnym opartym na deklaracji Uczestnika (§ 6), a nie kryterium oceny. Poza oceną pozostają także domniemana szczerość, autobiograficzność utworu i jego przewidywana popularność.
 
 ## § 10. Jury i tryb oceny
 
