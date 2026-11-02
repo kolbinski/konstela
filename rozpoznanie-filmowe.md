@@ -11,6 +11,9 @@ Pytanie zadajemy więc konkretnie, w trzech częściach:
 1. Czy przy nagrodzie głównej 100 000 zł, wymogu filmu od 20 do 90 minut zrealizowanego na potrzeby plebiscytu, bez finansowania produkcji, ale z gwarantowanym pokazem kuratorskim i opłaconym przyjazdem twórców, ktoś z Państwa środowiska by się zgłosił.
 2. Ile zgłoszeń z tego środowiska uznaliby Państwo za realne w pierwszej edycji: kilka, kilkanaście, kilkadziesiąt.
 3. Co w tych warunkach jest największą przeszkodą - długość, temat, obowiązek publikacji na YouTube, brak finansowania produkcji czy coś innego.
+4. Czy odpowiedź na pytanie pierwsze byłaby inna, gdyby pula nagród była **wyraźnie mniejsza** - i przy jakiej kwocie przestaje mieć znaczenie. To pytanie zadajemy w tej samej rozmowie, nie później, bo deklaracji zebranych przy nagrodzie głównej 100 000 zł nie wolno potem użyć jako uzasadnienia konkursu z nagrodą trzykrotnie niższą. Pula w ofercie pozostaje przy tym niezmieniona; pytamy, żeby wiedzieć, co obniżka robi z gotowością twórców, a nie żeby ją zapowiedzieć.
+
+**Przy każdym adresacie notujemy, która z dwóch odpowiedzi padła**: „zrobię ten film i zgłoszę go, jeżeli warunki będą takie" albo „ciekawy konkurs, może coś wymyślimy". Druga nie jest potwierdzonym zainteresowaniem produkcją i w zapisie dla Fundatora nie będzie tak przedstawiana. Rozróżnienie jest ważniejsze od liczby rozmów: dwadzieścia uprzejmości nie zastępuje trzech deklaracji.
 
 Prosimy przy tym o zgodę na przytoczenie odpowiedzi w materiałach dla partnerów, z nazwą instytucji albo bez niej, według ich wyboru.
 

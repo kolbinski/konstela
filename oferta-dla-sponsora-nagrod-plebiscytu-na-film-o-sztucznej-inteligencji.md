@@ -47,7 +47,7 @@ Nie zawężamy tematu i nie mówimy, czy film ma być pochwałą AI, czy ostrze�
 ### Jak przebiega ocena
 
 1. **Akademia filmu** - grono niezależnych widzów, które ogląda wszystkie zgłoszenia przeszłe przez weryfikację formalną i przekazuje jury listę wyłonioną według [karty oceny](/dokument/regulamin-filmu#karta-oceny), tej samej, z którą pracuje jury. Do jury trafia nie więcej niż 20 filmów.
-2. **Jury** - grono profesjonalistów branży filmowej, którego skład ogłaszany jest przed otwarciem naboru. Jury wybiera dziesięciu finalistów oraz rozstrzyga o czołowej trójce. Członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.
+2. **Jury** - grono profesjonalistów branży filmowej, którego skład ogłaszany jest przed otwarciem naboru. Jury wybiera finalistów - nie więcej niż dziesięciu i nie więcej niż połowę zgłoszeń spełniających wymogi formalne - oraz rozstrzyga o czołowej trójce. Członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.
 
 Ocena odbywa się według trzech kryteriów o łącznej wartości 100 punktów:
 
@@ -98,7 +98,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu przez cały rok naboru**:
 - obsługę akademii filmu i jury wraz z przydziałami i kalibracją ocen;
 - obsługę głosowania publiczności i wyboru najlepszego uzasadnienia;
 - zebranie zwiastunów piątki najwyżej ocenionych filmów i złożenie bloku galowego;
-- złożenie zestawu dziesiątki finalistów i rozmowy z dystrybutorami;
+- złożenie zestawu filmów finałowych i rozmowy z dystrybutorami;
 - prowadzenie [Projektorni](/plebiscyt-filmu#projektornia-i-archiwum) przez cały nabór i Archiwum filmów po werdykcie;
 - dotarcie do szkół filmowych, kół filmowych, festiwali i domów kultury.
 
@@ -108,13 +108,13 @@ Nie wzięło się to z ambicji, tylko z rachunku kosztu po stronie uczestnika. *
 
 **Rzecz, którą trzeba policzyć razem z tą kwotą: szansę wygranej.** Przy dwudziestu równorzędnych zgłoszeniach przeciętna wartość udziału w puli 180 000 zł wynosi 9 000 zł na film, przy pięćdziesięciu - 3 600 zł. **To nie prognoza szans konkretnego autora, lecz ilustracja mechanizmu**: nagroda główna nie zastępuje finansowania produkcji i nie powinna być tak przedstawiana nikomu - ani Fundatorowi, ani twórcom.
 
-Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa trójka bierze wszystko, a siedem wyróżnień jest honorowe.** Wyróżnienie w plebiscycie filmowym ma wartość, której nie da się wypłacić - miejsce w dziesiątce finalistów, wpis w Archiwum z jawną punktacją i miejsce w zestawie kierowanym do dystrybutora. Rozproszenie puli na dziesięć równych części obniżyłoby pierwszą nagrodę do poziomu, przy którym nikt nie podejmie się produkcji.
+Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa trójka bierze wszystko, a wyróżnienia - do siedmiu - są honorowe.** Wyróżnienie w plebiscycie filmowym ma wartość, której nie da się wypłacić - miejsce w grupie finałowej, wpis w Archiwum z jawną punktacją i miejsce w zestawie kierowanym do dystrybutora. Rozproszenie puli na dziesięć równych części obniżyłoby pierwszą nagrodę do poziomu, przy którym nikt nie podejmie się produkcji.
 
 **Jak to wygląda na tle polskich nagród filmowych.** Odniesienie, które da się sprawdzić: w Koszalińskim Festiwalu Debiutów Filmowych „Młodzi i Film", czyli najważniejszym polskim przeglądzie debiutów, regulamin na 2026 rok przewiduje **20 000 zł za debiut pełnometrażowy i po 10 000 zł w konkursie krótkometrażowym** - osobno dla fabuły, dokumentu i animacji. Nagroda główna tego plebiscytu jest zatem pięć razy wyższa niż nagroda za pełnometrażowy debiut i dziesięć razy wyższa niż nagroda za film krótkometrażowy na festiwalu, który te filmy od czterdziestu lat ogląda.
 
 Powód tej różnicy nie leży w ambicji, tylko w konstrukcji. **Festiwal nagradza film, który już istnieje i został za coś nakręcony** - najczęściej za dotację Polskiego Instytutu Sztuki Filmowej, za pieniądze szkoły filmowej, telewizji albo producenta. Nagroda festiwalowa jest premią do produkcji, która i tak została sfinansowana.
 
-**Tutaj jest odwrotnie: film ma dopiero powstać, na potrzeby plebiscytu, a Organizator nie daje na produkcję ani złotówki.** Jedynymi pieniędzmi w całym równaniu są nagrody, i to one muszą unieść rok pracy, sprzęt, ekipę i ryzyko, że dziesiątka finalistów się nie uda. Nagroda na poziomie dwudziestu tysięcy nie przesunęłaby niczyjej decyzji o wejściu w taki projekt; stu tysięcy - przesuwa.
+**Tutaj jest odwrotnie: film ma dopiero powstać, na potrzeby plebiscytu, a Organizator nie daje na produkcję ani złotówki.** Jedynymi pieniędzmi w całym równaniu są nagrody, i to one muszą unieść rok pracy, sprzęt, ekipę i ryzyko, że grupa finałowa się nie uda. Nagroda na poziomie dwudziestu tysięcy nie przesunęłaby niczyjej decyzji o wejściu w taki projekt; stu tysięcy - przesuwa.
 
 To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć równych części. Dziesięć razy po osiemnaście tysięcy daje dziesięciu zadowolonych finalistów i zero filmów, które ktoś by dla tej nagrody zrobił.
 
@@ -134,7 +134,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Honoraria jury za etap przygotowawczy                          |    do ustalenia |
 | Przygotowanie techniczne zwiastunów do emisji galowej          |    do ustalenia |
 | Pokaz kuratorski filmów finałowych w postaci gwarantowanej     |      12 000 zł |
-| Dojazd i nocleg dziesięciu finalistów na galę                  |       8 000 zł |
+| Dojazd i nocleg finalistów na galę (do dziesięciu osób)        |       8 000 zł |
 | Narzędzia AI i licencje - udział tego budżetu                  |       5 189 zł |
 | Obsługa prawna regulaminu filmu                                |       8 000 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
@@ -166,7 +166,7 @@ Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów poka
 | Obsługa Akademii filmu i jury                                  |            60 |
 | Obsługa głosowania publiczności                                |            20 |
 | Zebranie zwiastunów piątki i blok galowy                       |            40 |
-| Złożenie zestawu dziesiątki i rozmowy z dystrybutorami         |            40 |
+| Złożenie zestawu finałowego i rozmowy z dystrybutorami         |            40 |
 | Prowadzenie Projektorni i archiwum filmów                      |            25 |
 | Kopie archiwalne filmów (20 godz. + 3 min na zgłoszenie)       |          27,5 |
 | Budowa Projektorni i Archiwum filmów                           |            50 |
@@ -238,13 +238,13 @@ Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozlicz
 
 Osobno regulamin przewiduje próg po stronie uczestników (§ 15 ust. 2): **jeżeli po zakończeniu weryfikacji formalnej liczba zgłoszeń spełniających wymogi okaże się mniejsza niż 10, Organizator może nie rozstrzygnąć edycji**, ogłaszając to wraz z uzasadnieniem; nagrody nie są wtedy przyznawane. Oddajemy brzmienie regulaminu wiernie: jest to możliwość po stronie Organizatora, a nie automat. Środki przeznaczone na nagrody wracają wtedy do Fundatora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
-Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: dziesiątka finalistów jest tu zarazem całą stawką, więc przy mniejszej liczbie zgłoszeń nie byłoby czego rozstrzygać. Mówimy o tym wprost również uczestnikom, na [stronie plebiscytu](/plebiscyt-filmu#czego-od-ciebie-wymagamy-i-dlaczego), razem z zapowiedzią dwóch wiadomości: w dniu otwarcia naboru oraz w dniu, w którym dziesięć zgłoszeń przechodzi weryfikację i rozstrzygnięcie edycji jest pewne.
+Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: grupa finałowa jest tu zarazem całą stawką, więc przy mniejszej liczbie zgłoszeń nie byłoby czego rozstrzygać. **Liczba finalistów nie jest przy tym stała**: jest ich nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń spełniających wymogi formalne, bo przy dwunastu filmach wskazanie dziesięciu finalistów nie byłoby wyborem i odebrałoby wartość samemu wyróżnieniu. Nagród pieniężnych to nie dotyczy - czołowa trójka i jej kwoty są niezależne od liczby zgłoszeń. Mówimy o tym wprost również uczestnikom, na [stronie plebiscytu](/plebiscyt-filmu#czego-od-ciebie-wymagamy-i-dlaczego), razem z zapowiedzią dwóch wiadomości: w dniu otwarcia naboru oraz w dniu, w którym dziesięć zgłoszeń przechodzi weryfikację i rozstrzygnięcie edycji jest pewne.
 
 **Nie podajemy prognozy, ile filmów wpłynie - nie mamy na to podstawy i nie będziemy jej udawać.** Kosztorys kupuje określoną przepustowość: **30 godzin kontroli formalnej, czyli 12 minut na zgłoszenie**. Regulamin wymaga wyłącznie tego, żeby zgłoszeń było co najmniej 10, a pozycje rozliczane od liczby zgłoszeń maleją przy mniejszym naborze - Fundator płaci za filmy sprawdzone, nie za założone. Tę samą przepustowość obejmuje [budżet Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela), która wykonuje pierwsze przejście oceny. Pięćdziesiąt godzin dotarcia do szkół filmowych, kół filmowych i festiwali jest w kosztorysie właśnie dlatego, że zgłoszenia nie wezmą się same.
 
 **Gala może się nie odbyć, a razem z nią blok zwiastunów.** Regulamin (§ 1b ust. 3) przewiduje, że jeżeli gali nie da się przeprowadzić do 31 sierpnia 2028 roku, Organizator ogłasza wyniki publicznie na stronie Nagrody i wykonuje wszystkie nagrody bez gali, a świadczenia związane wyłącznie z galą - w tym pokaz zwiastunów finałowej piątki - nie są wówczas realizowane i nie podlegają zamianie na pieniądze.
 
-Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpada wtedy przygotowanie techniczne zwiastunów, a jeżeli zostało już opłacone, kwota wraca; przyjazd dziesięciu finalistów na galę jest w tej ofercie i gdyby gala się nie odbyła, te 8 000 zł wraca do Fundatora w rozliczeniu. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
+Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej roli: odpada wtedy przygotowanie techniczne zwiastunów, a jeżeli zostało już opłacone, kwota wraca; przyjazd finalistów na galę jest w tej ofercie i gdyby gala się nie odbyła, te 8 000 zł wraca do Fundatora w rozliczeniu. Zdarzenie to pozwala wycofać nazwę Fundatora, co opisujemy niżej.
 
 ## <!--ikona:projektornia--><span>Co dostaje uczestnik, który nie wygrał</span>
 
@@ -253,7 +253,7 @@ W pozostałych plebiscytach koszt wejścia jest niewielki: rozmowę się przepro
 - **pokaz kuratorski filmów finałowych** - jeden seans blokowy w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami. Przejazd i nocleg twórców prezentowanych filmów pokrywa ta oferta, więc udział nie zależy od tego, czy kogoś na to stać. Dziesięć tytułów po 20-90 minut to od trzech do piętnastu godzin materiału, więc seans jest wyborem kuratorskim, nie przeglądem wszystkiego;
 - **zwiastun na gali** dla piątki najwyżej ocenionych;
 - **wpis w Projektorni** z jawną punktacją, czyli publiczny ślad udziału;
-- **złożenie zestawu dziesiątki i rozmowy z dystrybutorami** - usługa, nie rezultat, o czym niżej.
+- **złożenie zestawu finałowego i rozmowy z dystrybutorami** - usługa, nie rezultat, o czym niżej.
 
 **Czego nie obiecujemy, choć do tego dążymy.** Szersza dystrybucja kinowa i emisja w serwisie streamingowym są celem Nagrody i rozmawiamy o nich z partnerami, ale **zależą od cudzej decyzji i nie są w tej ofercie ani obiecane, ani wycenione**. Umowę z dystrybutorem albo platformą zawiera autor filmu, nie Organizator, i jemu przysługują wpływy; Organizator składa zestaw, przedstawia twórców i nie bierze prowizji. Role partnera dystrybucji filmów, partnera telewizyjnego i partnera streamingowego opisuje strona [Dla partnerów](/dla-partnerow) i wszystkie trzy czekają na obsadzenie.
 
@@ -264,7 +264,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 - **wypłatę ogłoszonej puli nagród** wraz z nagrodami publiczności;
 - **przeprowadzenie oceny i ogłoszenie werdyktu** w terminie z regulaminu. Trzeba przy tym powiedzieć, czego ta kwota nie obejmuje: pierwsze przejście oceny wykonuje Akademia, finansowana przez osobnego sponsora, a honoraria jury są w tym kosztorysie pozycją otwartą. Nie jest to jednak ryzyko przerzucone na Fundatora. Potwierdzony i ogłoszony skład jury jest jednym z **pięciu** warunków otwarcia naboru, więc jeżeli jury nie zostanie skompletowane, nabór się nie otwiera. **Wraca wtedy kwota niewykorzystana, a nie całość wpłaty**, i trzeba to powiedzieć w tych słowach: pula nagród nie została ruszona, więc wraca w całości, ale praca wykonana i odebrana przed tą chwilą oraz koszty zaciągnięte wobec osób trzecich są rozliczane - tak samo jak przy nieotwarciu naboru z innego powodu. Fundator kupuje zatem **zwrot środków niewydanych wraz z rozliczeniem co do pozycji**, nie zwrot bezwarunkowy. Nie gwarantujemy oceny za cudze pieniądze - gwarantujemy, że bez jury nie ruszy nabór, na który wystawiona jest pula Fundatora;
 - **Projektornię i Archiwum filmów**, czyli publicznie dostępny zestaw zakwalifikowanych zgłoszeń, oraz **kopię archiwalną każdego zgłoszonego filmu przechowywaną przez Organizatora przez pięć lat**. Publiczne odtwarzanie filmu pozostaje po stronie autora, więc jeżeli usunie go z serwisu, wpis w Archiwum zostaje bez działającego linku i Organizator to oznacza - sam film jednak nie przepada, bo kopia zostaje u Organizatora i z niej odbywa się pokaz kuratorski;
-- **pokaz kuratorski filmów finałowych** w postaci gwarantowanej: jeden seans blokowy z wyboru dziesiątki w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami, których przejazd i nocleg pokrywa ta oferta. **a co w nim nie jest po naszej stronie**: posiadanie kopii archiwalnej nie daje prawa do publicznego wyświetlenia, więc zgoda na projekcję jest osobna i dobrowolna. **Wystąpienie o nią do dziesiątki finalistów jest naszym obowiązkiem**, a gwarancja obejmuje seans **z filmów, których autorzy zgody udzielą**, nie z wszystkich dziesięciu. Jeżeli zgody udzieli mniej niż trzech autorów, pokaz nie odbywa się i **kwota 12 000 zł wraca do Fundatora** zamiast być wydana na seans, którego nie da się obronić programowo.
+- **pokaz kuratorski filmów finałowych** w postaci gwarantowanej: jeden seans blokowy z wyboru filmów finałowych w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami, których przejazd i nocleg pokrywa ta oferta. **a co w nim nie jest po naszej stronie**: posiadanie kopii archiwalnej nie daje prawa do publicznego wyświetlenia, więc zgoda na projekcję jest osobna i dobrowolna. **Wystąpienie o nią do wszystkich finalistów jest naszym obowiązkiem**, a gwarancja obejmuje seans **z filmów, których autorzy zgody udzielą**, nie z wszystkich. Jeżeli zgody udzieli mniej niż trzech autorów, pokaz nie odbywa się i **kwota 12 000 zł wraca do Fundatora** zamiast być wydana na seans, którego nie da się obronić programowo.
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
@@ -273,7 +273,7 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
 1. **gala się nie odbywa** i zwiastuny finałowej piątki nie zostają pokazane publiczności;
-2. **zestaw dziesiątki nie trafia do żadnego dystrybutora** mimo przeprowadzonych rozmów;
+2. **zestaw finałowy nie trafia do żadnego dystrybutora** mimo przeprowadzonych rozmów;
 3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
 4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
 5. **poziom nagrodzonych filmów nie odpowiada temu, czego Fundator chciałby firmować** - i to jest zdarzenie dopisane po uwadze, że cztery poprzednie chronią wykonanie procedury, nie wartość rezultatu. Fundator ocenia to **sam i bez uzasadniania**, w ciągu 30 dni od publicznego ogłoszenia werdyktu, a skutkiem jest wycofanie nazwy na zasadach jak wyżej. **Nie jest to podstawa do żądania zwrotu**: nagrody są wtedy wypłacone, praca wykonana, a filmów nikt nie obiecywał dobrych - obiecane było ich uczciwe ocenienie. **Prawo do wycofania nazwy jest więc jedynym zabezpieczeniem jakości rezultatu i trzeba powiedzieć wprost, że nie zwraca ani pieniędzy, ani wcześniejszego skojarzenia marki** - ogranicza dalsze używanie nazwy od dnia oświadczenia.
@@ -330,7 +330,7 @@ Fundator nie nabywa praw do zgłoszonych filmów. Prawa zostają w całości prz
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia; w dniu zamknięcia zapisywana jest metryka każdego zgłoszenia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu i przekazuje jury nie więcej niż 20 filmów</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>trwa do godziny 12:00 w dniu gali; liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>Luty 2028</dt><dd>Werdykt jury<small>dziesięciu finalistów i czołowa trójka; finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca</small></dd></div>
+<div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści i czołowa trójka; finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, blok zwiastunów piątki najwyżej ocenionych filmów, wręczenie nagród, premiera Antologii</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, rozliczenie godzin, lista wypłaconych nagród</small></dd></div>
 </dl>
@@ -368,6 +368,8 @@ Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Pięć d
 2. **Rozpis 367,5 godziny na zakresy i miesiące**, po którym widać, co znaczy „odebrany etap", bez znajomości organizacji plebiscytu.
 3. **Wycena trzech pozycji otwartych** - honorariów jury za ocenę i za etap przygotowawczy oraz przygotowania technicznego zwiastunów - czyli dokładnie tych czterech, które w kosztorysie stoją jako „do ustalenia", w postaci kalkulacji z wariantami, nie kwoty wpisanej z góry.
 4. **Wyniki rozpoznania zainteresowania twórców** - i to jest pozycja dopisana jako najważniejsza, bo dotyczy założenia, którego ta oferta dotychczas nie sprawdzała. Pięćdziesiąt godzin przyszłego dotarcia do szkół i środowisk nie zastępuje odpowiedzi na pytanie, **czy ktoś konkretny chce w tę konstrukcję wejść**. Przed umową przedwstępną Fundator dostaje więc zapis rozmów z co najmniej **dwudziestoma adresatami** - szkołami filmowymi, kołami, producentami i autorami - z czterema rzeczami przy każdym: kto rozważa udział, z jakim projektem, przy jakim koszcie produkcji i **co go powstrzymuje**. Zapis obejmuje także odmowy i ich powody, bo one mówią więcej niż zgody. **Jeżeli z tego rozpoznania wyjdzie, że filmów nie będzie, powiemy to Fundatorowi przed umową, a nie po naborze.**
+
+   **Dwie rzeczy, które to rozpoznanie musi rozróżnić, bo bez nich byłoby zbiorem uprzejmości.** Pierwsza: deklarację „zrobię ten film i zgłoszę go, jeżeli warunki będą takie" od reakcji „ciekawy konkurs, może coś wymyślimy". Druga z nich nie jest potwierdzonym zainteresowaniem produkcją i nie będzie w zapisie tak przedstawiana; zapis podaje przy każdym adresacie, która z dwóch odpowiedzi padła. Druga: **gotowość przy dwóch wariantach finansowych, sprawdzoną w tej samej rozmowie** - przy obecnej puli 180 000 zł oraz przy wariancie skromniejszym. Bez tego deklaracje zebrane przy nagrodzie głównej 100 000 zł mogłyby później uzasadniać konkurs z nagrodą trzykrotnie niższą, a to byłoby nadużyciem. **Pula w tej ofercie pozostaje niezmieniona**; drugi wariant jest pytaniem badawczym, nie zapowiedzią obniżki, i rozpoznanie ma pokazać właśnie to, co obniżka robi z gotowością twórców.
 5. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 
 Wszystkie pięć przygotowujemy na prośbę, bez zobowiązania po stronie Fundatora i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, rozpis godzin i wycena pozycji otwartych stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Fundator jeszcze nie widział.

@@ -867,6 +867,16 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Jedna rzecz zostaje otwarta i wymaga decyzji o ludziach, nie o tekście.** Recenzent chce „zawodowej odpowiedzialności za program filmowy": wskazuje, że programowanie archiwum, pozyskiwanie filmowców, obsługa sporów i rozmowy dystrybucyjne wymagają różnych kompetencji, a dziś wszystko to jest w 367,5 godzinie jednej osoby. To nie jest zarzut do kosztorysu - to pytanie, kto w tym projekcie odpowiada za film.
 
+## Trzecia tura oferty filmu: rola warta rozmowy, ale kolejność prac odwrotna (2.11.2026)
+
+Werdykt po raz pierwszy przestał być odmowny: **rola warta rozmowy przy wiarygodnym rozpoznaniu wskazującym 10-30 zgłoszeń, w tym kilka obiecujących projektów**. Z dwoma zastrzeżeniami, które są ważniejsze od werdyktu.
+
+**Obniżenie puli niczego nie naprawia, a może zaszkodzić rozpoznaniu.** Konstrukcja konkursu na film, który ma dopiero powstać, nie jest sama w sobie wadą; wadą jest oczekiwanie, że nagroda zastąpi finansowanie produkcji. Z tego wynikła reguła dla rozpoznania: **nie wolno zebrać deklaracji przy nagrodzie głównej 100 000 zł i uzasadnić nimi konkursu z nagrodą trzykrotnie niższą**, więc wariant skromniejszy sprawdza się w tej samej rozmowie, a nie po fakcie. Rozpoznanie rozróżnia też dwie odpowiedzi: „zrobię ten film i zgłoszę go, jeżeli warunki będą takie" od „ciekawy konkurs, może coś wymyślimy" - druga nie jest potwierdzonym zainteresowaniem produkcją. Pula w ofercie pozostaje niezmieniona; drugi wariant jest pytaniem badawczym, nie zapowiedzią obniżki.
+
+**Dziesiątka finalistów przy małym naborze znosi selekcję.** Przy dwunastu filmach wskazanie dziesięciu finalistów nie jest wyborem i odbiera wartość zarówno wyróżnieniu, jak i miejscu w zestawie kierowanym do dystrybutora. Regulamin filmu skaluje więc liczbę finalistów do naboru: **nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń formalnie poprawnych**, nie mniej niż trzech, liczba ogłaszana razem z liczbą zgłoszeń przed przekazaniem filmów jury. **Nagród pieniężnych to nie dotyczy** - czołowa trójka i jej kwoty są niezależne od liczby zgłoszeń, zmniejsza się wyłącznie liczba wyróżnień honorowych. Zmiana przeszła do strony plebiscytu, oferty dla jury, oferty fundatora i oferty partnera dystrybucji.
+
+**Kolejność prac wskazana przez recenzenta jest odwrotna do naszej.** Najpierw rozpoznanie zainteresowania z dwoma wariantami, równolegle osoba odpowiedzialna zawodowo za stronę filmową, **dopiero potem** ustalanie puli i zakresu oferty. Drugi punkt jest tym samym otwartym pytaniem co po drugiej turze i nadal nie jest kwestią zapisu: 367,5 godziny w jednej osobie.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

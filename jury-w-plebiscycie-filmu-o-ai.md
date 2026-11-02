@@ -9,7 +9,7 @@
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury otrzymuje od akademii listę najwyżej ocenionych filmów, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki**;
+- jury otrzymuje od akademii listę najwyżej ocenionych filmów, **wybiera z niej finalistów - nie więcej niż dziesięciu i nie więcej niż połowę zgłoszeń - i ustala kolejność całej ich grupy**;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę filmów i ich łączny metraż, termin udostępnienia materiałów i czas na ocenę, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
@@ -46,13 +46,13 @@ Link do **filmu publicznie dostępnego na kanale autora w YouTube** oraz link do
 
 ### Co dostają finaliści
 
-Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Cała dziesiątka wchodzi do zestawu proponowanego dystrybutorowi**, a po pokazach kinowych także partnerowi telewizyjnemu albo streamingowemu - przy czym żadnego z nich jeszcze nie mamy i mówimy o tym wprost. W obu wypadkach umowę zawiera autor filmu i jemu przysługują wpływy; organizator składa zestaw, nie bierze prowizji i nie nabywa praw do dystrybucji. Na gali pokazujemy **zwiastuny pięciu najwyżej ocenionych filmów** – te same, które autorzy zgłosili.
+Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostali finaliści – wyróżnienia. **Wszyscy finaliści wchodzą do zestawu proponowanego dystrybutorowi**, a po pokazach kinowych także partnerowi telewizyjnemu albo streamingowemu - przy czym żadnego z nich jeszcze nie mamy i mówimy o tym wprost. W obu wypadkach umowę zawiera autor filmu i jemu przysługują wpływy; organizator składa zestaw, nie bierze prowizji i nie nabywa praw do dystrybucji. Na gali pokazujemy **zwiastuny pięciu najwyżej ocenionych filmów** – te same, które autorzy zgłosili.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
 ### Co ocenia jury
 
-**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia) – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.** **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Ostateczna liczba filmów zależy od wyników naboru.
+**Jury ocenia filmy zakwalifikowane przez akademię, a nie wszystkie zgłoszenia.** Wstępną ocenę przeprowadza [akademia filmu](/plebiscyt-filmu#kto-ocenia) – grono praktyków, które ogląda każde zgłoszenie i ocenia je według tej samej karty oceny, a następnie przekazuje jury listę najwyżej ocenionych. **Jury ogląda filmy z tej listy, wybiera finalistów i ustala kolejność całej ich grupy**; finalistów jest nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń spełniających wymogi formalne. **Przed zawarciem umowy ustalamy maksymalną liczbę filmów i ich łączny metraż, termin udostępnienia materiałów oraz czas na ocenę.** Umowa obejmuje również uzasadnienia, obrady i ewentualne ponowne seanse. Ostateczna liczba filmów zależy od wyników naboru.
 
 ### Jak jury ocenia zgłoszone filmy
 

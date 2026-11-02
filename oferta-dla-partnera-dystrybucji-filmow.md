@@ -27,7 +27,7 @@ Jedno trzeba powiedzieć od razu: **filmy są publicznie dostępne w serwisie Yo
 
 ## <!--ikona:wspolpraca--><span>Co wnosi partner, a co fundacja</span>
 
-Partner wnosi salę, termin, obsługę projekcji i swoją publiczność. Fundacja wnosi **złożony zestaw dziesiątki, kontakt z autorami i obsługę spotkań z twórcami** - w [Budżecie Filmu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu) jest na to 40 godzin pracy organizatora - oraz materiały prasowe i promocję po swojej stronie.
+Partner wnosi salę, termin, obsługę projekcji i swoją publiczność. Fundacja wnosi **złożony zestaw filmów finałowych, kontakt z autorami i obsługę spotkań z twórcami** - w [Budżecie Filmu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu) jest na to 40 godzin pracy organizatora - oraz materiały prasowe i promocję po swojej stronie.
 
 Niezależnie od tej roli odbywa się **pokaz kuratorski filmów finałowych w postaci gwarantowanej**, jeden seans blokowy za 12 000 zł, finansowany przez fundatora nagród plebiscytu filmu. Ta oferta dotyczy pokazów **szerszych niż tamten jeden seans**.
 
@@ -43,15 +43,15 @@ Tytuł **Partnera dystrybucji filmów pierwszej edycji** na stronie Nagrody, na 
 
 ## <!--ikona:tarcza--><span>Czego nie obiecujemy</span>
 
-Nie obiecujemy poziomu filmów, bo nie znamy jeszcze zgłoszeń, ani kompletu zgód autorów. Nie obiecujemy frekwencji. Nie obiecujemy też, że dziesiątka w ogóle powstanie: przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może nie rozstrzygnąć edycji.
+Nie obiecujemy poziomu filmów, bo nie znamy jeszcze zgłoszeń, ani kompletu zgód autorów. Nie obiecujemy frekwencji. Nie obiecujemy też, że zestaw w ogóle powstanie: przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może nie rozstrzygnąć edycji. Liczba filmów w zestawie zależy przy tym od naboru - finalistów jest nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń spełniających wymogi formalne.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli nie będzie co pokazywać</span>
 
 Pokazy zależą od wyniku plebiscytu i od zgody każdego autora osobno:
 
-1. **edycja nie zostaje rozstrzygnięta** - przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może jej nie rozstrzygnąć, a wtedy nie ma dziesiątki finałowej;
+1. **edycja nie zostaje rozstrzygnięta** - przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne Organizator może jej nie rozstrzygnąć, a wtedy nie ma zestawu finałowego;
 2. **autorzy nie zgodzą się na pokaz** - licencja z regulaminu nie obejmuje projekcji bez odrębnej zgody, a tej nie wymuszamy;
-3. **dziesiątka jest słabsza, niż zakładamy** - nie znamy jeszcze ani jednego zgłoszenia i nie obiecujemy poziomu.
+3. **zestaw jest słabszy, niż zakładamy** - nie znamy jeszcze ani jednego zgłoszenia i nie obiecujemy poziomu.
 
 Dlatego nie prosimy partnera o rezerwację sal przed werdyktem jury i nie podpisujemy umowy, która zobowiązuje go do pokazu filmów, których nikt jeszcze nie widział.
 

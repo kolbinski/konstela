@@ -12,15 +12,15 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 
 **W skrócie:**
 
-- **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień
-- cała dziesiątka finalistów wchodzi do **zestawu proponowanego dystrybutorowi** – nie mamy jeszcze partnera ani zapewnionych pokazów
+- **o nagrodach głównych decyduje jury, a nie liczba głosów**: przyznaje [nagrodę](#nagrody) główną, nagrody za drugie i trzecie miejsce oraz wyróżnienia dla pozostałych finalistów
+- wszyscy finaliści wchodzą do **zestawu proponowanego dystrybutorowi** – nie mamy jeszcze partnera ani zapewnionych pokazów
 - **publiczność ma własną [Nagrodę Publiczności](#nagroda-publicznosci)**, niezależną od werdyktu jury
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
 - zgłaszasz **link do filmu publicznie dostępnego na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, też publicznie dostępnego
 - wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
-- jury wybiera **dziesięciu finalistów**
+- jury wybiera **finalistów - nie więcej niż dziesięciu i nie więcej niż połowę zgłoszeń**, bo przy małym naborze wskazanie dziesiątki nie byłoby wyborem
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
@@ -144,7 +144,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera dziesięciu finalistów.</strong> Akademia przekazuje jury nie więcej niż dwadzieścia filmów. Składa się z profesjonalistów w branży filmowej. Skład ogłaszamy przed naborem, a członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
+<p><strong>Jury wybiera finalistów.</strong> Jest ich nie więcej niż dziesięciu i nie więcej niż połowa zgłoszeń spełniających wymogi formalne; liczbę ogłaszamy razem z liczbą tych zgłoszeń, przed przekazaniem filmów jury. Akademia przekazuje jury nie więcej niż dwadzieścia filmów. Składa się z profesjonalistów w branży filmowej. Skład ogłaszamy przed naborem, a członek jury wyłącza się od oceny filmu, którego autora zna osobiście albo z którym współpracował.</p>
 </article>
 </div>
 
@@ -253,7 +253,7 @@ Dopóki Twój film jest u Ciebie, **to Twój kanał zbiera wyświetlenia**. Nie 
 
 ### Jawność punktacji
 
-**Jawność ocen – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
+**Jawność ocen – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko finalistów**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
@@ -315,7 +315,7 @@ Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszon
 
 To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało – a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
 
-**Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie – z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym dziesiątka finalistów jest zarazem całą stawką, nie byłby plebiscytem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
+**Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie – z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym finaliści są zarazem całą stawką, nie byłby plebiscytem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
 
 **Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
 
