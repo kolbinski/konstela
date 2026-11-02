@@ -531,6 +531,10 @@ Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wsz
 
 ## Otwarte, bez terminu
 
+- **Michał Szpak do jury plebiscytu piosenki** - rozważany 2.11.2026, odłożony do odpowiedzi Michała Sołtana. Decyzja: **nie piszemy do managera o mentoring**. Powody: „mentoring" nie jest prośbą, którą da się przyjąć jednym zdaniem; trzy prośby w jednym liście - telewizja, jury, list intencyjny - mają różną wagę, a najcięższa z nich oznacza pożyczenie nazwiska przedsięwzięciu bez fundacji w KRS, bez pełnego jury i przed otwarciem naboru; a bez potwierdzenia Sołtana na piśmie nie mamy odpowiedzi na pytanie, kto jeszcze jest w jury. Kolejność jak przy Olbińskim: najpierw potwierdzony przewodniczący, potem przedstawienie przez niego. Jeżeli kontakt pójdzie bezpośrednio, to z **jedną** prośbą - udział w jury wraz ze stawką, liczbą godzin i umową przed przyjęciem zadania.
+- **Telewizja jako „okno na świat"** - sprawdzona przesłanka: telewizja jest u nas osobną rolą partnerską z własną ofertą, a adresatem jest stacja, nie artysta. Dzisiejsze wąskie gardła są trzy i żadne nie jest medialne: pieniądze (mecenas i KRS), nazwiska w jury, odpowiedź kancelarii o rundy uczestników.
+
+
 - **Liczby o zasięgu w ofercie** - prognoza pobrań, nakład, liczba instytucji, do których materiał trafi. Dziś nie ma żadnej, więc sponsor nie ma czym podzielić kwoty i policzyć kosztu dotarcia.
 - **Wzór umowy sponsorskiej** jako załącznik do oferty. Skraca cykl decyzyjny po stronie działu prawnego; wycena do zapytania przy okazji konsultacji prawnej.
 - **Harmonogram produkcji antologii tydzień po tygodniu**, od zamknięcia naboru do zamknięcia treści. Pozycja przestarzała w części datowej i poprawiona 1.11.2026: po przeliczeniu kalendarza zamknięcie treści antologii wypada **31 maja 2028**, a nie 29 lutego, bo nabór zamyka się 10 stycznia 2028 i cały łańcuch oceny przesunął się za nim. Do rozstrzygnięcia zostaje sam harmonogram produkcji w oknie 1-20 czerwca 2028. Rachunek i argumenty w `koncepcja.md`.
