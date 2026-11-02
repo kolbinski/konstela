@@ -657,6 +657,16 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Czego próba potrzebuje, a czego nie mamy.** Dla rozmowy: pięciu rzeczywistych rozmów z opisem odkrycia i trojga oceniających. Dla piosenki: pięciu zróżnicowanych dem. Obie próby mają protokół gotowy, w obu porównujemy sumy i kryteria osobno. **To jedyna rzecz w całym projekcie, która nie zależy od pieniędzy** - a jednocześnie ta, od której recenzent fundatora uzależnił poważną rozmowę o finansowaniu.
 
+## Szósta tura karty piosenki: reguła dopisana po zielonym świetle (2.11.2026)
+
+**Nową niejasność wprowadziła poprawka zrobiona po zamknięciu recenzji.** Przy porządkowaniu odstępstw w czterech kartach dopisałem zdanie „Nieudana próba odstępstwem nie jest" - i dawało się ono czytać jako **zwolnienie nieudanych eksperymentów z konsekwencji punktowych**. Niepowodzenie rozwiązania i jego skutek dla całości to dwie osobne sprawy: ryzykowny mostek może nie osiągnąć zamierzonego efektu i zostawić konstrukcję czytelną, ale może też zniszczyć napięcie albo uczynić zakończenie niezrozumiałym.
+
+**Dziś reguła rozdziela te dwie rzeczy i nie premiuje żadnej ze stron:** ryzyko samo nie jest ani wadą, ani zasługą, ocenie podlega rezultat i jego wpływ na pracę. Rozwiązanie nieudane, które zostawiło pracę czytelną i spójną, odstępstwem nie jest; rozwiązanie, które zniszczyło napięcie, odstępstwem jest **choćby było najambitniejsze**. Dopisane jest też zdanie, że brak ryzyka nie jest zasługą tak samo jak jego podjęcie - inaczej naprawa premiowałaby ostrożność. Poprawka weszła do kart piosenki, plakatu i filmu.
+
+**Dwa miejsca, które recenzent zostawiał próbie, poprawiłem od razu, bo to ten sam wzór co wszystkie dzisiejsze wady.** Pasmo 12-13 Wykonania wymaga dodania znaczenia, więc przy czytaniu drabinowym najwyższa ocena wymagałaby dopisania sensu - a znakomite wykonanie może przede wszystkim **ujawnić sens już zawarty w kompozycji**; powściągliwie zaśpiewana kołysanka mogła u jednego jurora dostać 15, u drugiego 11. Najwyższe pasmo Tekstu wymagało sformułowań „skondensowanych", czyli stawiało **jeden sposób pisania** jako znak najwyższej jakości, choć potok mowy, niezręczne powtórzenie bohatera albo zwrot obiegowy w działającym kontekście bywają rozstrzygającym środkiem. Dziś: dodanie znaczenia nie jest warunkiem pasma 14-15, a miarą pasma 28-30 jest **celność języka, nie jego zwięzłość**.
+
+**Recenzent zaznaczył, że problem pasma 12-13 przeoczył**, uznając wcześniej całe Wykonanie za sprawne. To warto zapamiętać przy liczeniu, ile tur wystarcza: zamknięcie recenzji znaczy, że recenzent nie widzi już wady, nie że wady nie ma. **Dopuszczenie do próby pozostaje utrzymane**, a granice 26/27 i 31/32 w Muzyce recenzent zostawia wspólnym przykładom poziomu jakości, nie kolejnym objaśnieniom.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
