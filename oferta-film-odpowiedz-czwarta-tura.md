@@ -1,0 +1,7 @@
+Uwaga trafna i wada tego samego rodzaju, który w tym projekcie wychodzi najczęściej: napisałem granicę i nazwałem ją regułą. Przy dwudziestu zgłoszeniach „nie więcej niż połowa" pozwalało ogłosić od trzech do dziesięciu finalistów, a wybierałbym ja - czyli ten, kto zgłoszenia obsługuje i widzi je przed jury. Ogłoszenie liczby przed przekazaniem filmów ograniczało swobodę, ale jej nie usuwało, i to Pan zauważył, nie ja.
+
+Liczba finalistów jest więc teraz rachunkiem, nie decyzją: połowa liczby zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech. Dwanaście zgłoszeń daje sześciu finalistów, dwadzieścia - dziesięciu, czternaście - siedmiu. Organizator liczby nie ustala; ogłasza wynik rachunku razem z liczbą zgłoszeń formalnie poprawnych, więc każdy może go sprawdzić. Nie ma tu już miejsca, w którym ktokolwiek wybiera.
+
+Resztę przyjmuję bez dopisywania czegokolwiek do dokumentu. Zgadzam się, że następny zapis nic nie rozstrzygnie, i nie będę Panu przysyłał kolejnych tur poprawek. Wrócę z trzema rzeczami naraz: zapisem rozpoznania z deklaracjami konkretnych projektów i ich drogą do sfinansowania, propozycją obsady odpowiedzialności za stronę filmową oraz - jeżeli z rozpoznania wyjdzie, że obecna skala się nie broni - policzoną wersją mniejszej edycji. Jeżeli wyjdzie, że filmów nie będzie, napiszę i to.
+
+Dziękuję za cztery tury. Trzy z czterech zarzutów głównych dotyczyły rzeczy, których nie da się naprawić tekstem, i to jest najużyteczniejsza rzecz, jaką mi Pan powiedział.
