@@ -677,6 +677,16 @@ Zasada jest dziś rozpisana na sześć reguł: samo zamówienie czynności nie w
 
 **Wniosek z siedmiu tur, który trzeba zapamiętać osobno.** Dwie ostatnie tury znalazły wady wprowadzone poprawkami z tur poprzednich, a jedna z nich była powrotem reguły usuniętej wcześniej tego samego dnia. **Liczba tur nie zbiega się sama** - zbiega się dopiero wtedy, gdy przestaje się dopisywać reguły. Przy kartach plakatu i filmu oznacza to jedno: po każdej zmianie przeczytać wszystkie pasma pod kątem pytania „czy to zdanie wymaga jednej metody albo wykazania czegoś niewykazywalnego", a nie tylko pasmo poprawiane.
 
+## Karta piosenki zamknięta po ośmiu turach: co kosztowało i czego nauczyło (2.11.2026)
+
+**Ósma tura nie przyniosła żadnej uwagi** - „nie mam nowych uwag wymagających poprawy przed próbą". Obie karty, rozmowy i piosenki, są dopuszczone do niezależnego punktowania. Otwarte zostają wyłącznie rzeczy empiryczne: rozróżnianie sąsiednich pasm, uzasadnianie punktów wewnątrz nich i rozrzut między jurorami.
+
+**Rachunek z jednego dnia: trzynaście tur recenzji na dwóch kartach, z czego osiem znalazło wady wprowadzone poprawkami tur poprzednich.** To nie jest wada metody, tylko jej koszt: karta oceny to zbiór reguł, które na siebie oddziałują, więc zmiana jednej zmienia skutki pozostałych. Koszt jest jednak przewidywalny, bo wady miały jeden kształt.
+
+**Jeden wzór odpowiada za większość z nich: jedna metoda postawiona jako miara jakości.** Obowiązek źródła w Weryfikacji, test obalenia w Rozpiętości, rozwój materiału w Muzyce, nieoczywiste zestawienie w Ujęciu, dodanie znaczenia w Wykonaniu, kondensacja w Tekście - i trzykrotny powrót testu hipotetycznej alternatywy, w tym raz w zdaniu, które napisałem **godzinę po usunięciu tego samego testu z innego pasma**. Naprawa była za każdym razem ta sama: nazwać kilka równoważnych dróg i powiedzieć, że ocenia się spełnienie warunku, nie wybór drogi.
+
+**Czynność, która z tego wynika dla kart plakatu i filmu.** Przed wysłaniem do recenzenta i po każdej późniejszej zmianie przeczytać **wszystkie** pasma, nie tylko poprawiane, zadając dwa pytania: czy to zdanie wymaga jednej konkretnej metody osiągnięcia jakości i czy wymaga wykazania czegoś, czego z pracy wykazać nie można. Dwa pytania zadane samemu sobie zastępują kilka tur.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
