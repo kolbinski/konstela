@@ -1001,6 +1001,24 @@ Liczba zniknęła z oferty sponsora podcastu, oferty dla prowadzącego, noty kon
 
 **Szósty raz ta sama pułapka arkusza.** Wpisując notę do wiersza koordynacji, wpisałem ją do kolumny E, która w bloku pracy jest kolumną Kwota, i skasowałem formułę; suma edycji spadła o 20 577,80 zł. Wyłapał to piąty test, ten od podsumowania w zakładce Wyjaśnienia. **Kolumna uwag w blokach pracy to F, nie E** - i to zdanie wraca w planie już trzeci raz.
 
+## Recenzja pisma do telewizji: dwanaście miejsc, w których obiecywałem cudzą decyzję (3.11.2026)
+
+Werdykt: odpowiada, ale nie rekomenduje wejścia w partnerstwo; temat może wnieść na kolegium do rozpoznania redakcyjnego, pisma - nie, jako projektu współpracy antenowej.
+
+**Punkt, który dyskwalifikował cały pakiet: informacje w serwisach wpisane jako świadczenie umowne.** Redakcja miałaby obowiązek zrealizować cudzy kalendarz promocyjny niezależnie od wartości informacyjnej zdarzeń, a „ogłoszenie jury nie staje się wiadomością dlatego, że jest kamieniem milowym projektu". Brak przelewu niczego tu nie zmienia. Element jest teraz **zobowiązaniem Organizatora** do przekazania materiału i dostępu w terminie, z dopisanym zdaniem, że o gwarancję obecności w serwisach nie wolno prosić.
+
+**Druga klasa wad, najliczniejsza: obiecywanie decyzji, które nie są moje.** Roczny cykl w ramówce dla niesprawdzonej inicjatywy - zamieniony na pilotaż kilku wejść, z wykazem tego, co dostarczam przy każdym wejściu: bohatera, który zgodził się wystąpić, fragmenty prac wraz z prawami, temat różny od poprzedniego i materiał zastępczy, gdy gość odwoła przyjazd, bo **zgłoszenie nie jest gotowym tematem telewizyjnym**. Zdanie „cykl wracający w tym samym miejscu ramówki co rok" przedstawiało moją coroczność jako następstwo po ich stronie. Emisyjność podcastu, prawa do relacji z pokazu filmów i licencja antenowa z publicznej dostępności - wszystkie trzy przestały być zapewniane z góry.
+
+**Trzecia: rzeczy opisane mocniej, niż są.** „Nie ma żadnych rozliczeń, bo nie ma przepływu pieniędzy" - po ich stronie zostają koszty przygotowania, dokumentacji, produkcji i zajętego pasma, a wykonana praca nie znika razem z moim przedsięwzięciem. „Materiał, którego nie ma gdzie indziej" przy jednoczesnym publicznym Archiwum i braku wyłączności - zastąpione nazwaną przewagą czasową i dostępem do ludzi. „Wystawa przy gali jest zagwarantowana w umowie z mecenasem", choć **rola mecenasa jest nieobsadzona**: przyszły warunek finansowania przedstawiony jako istniejące zabezpieczenie.
+
+**Czwarta: wyłączność szersza, niż zamierzałem.** „Jedyna stacja edycji" sięgało dalej niż wyłączność tytułu i mogło sugerować ograniczenie dostępu innych stacji - dziś wyłączny jest tytuł i zakres uzgodnionych elementów, a patronatów medialnych może być kilku. Czołówka zapisu gali opisana jest jako plansza Organizatora, nie oprawa narzucona wersji antenowej.
+
+**Dwie rzeczy, których sam nie widziałem.** Horyzont „styczeń 2027 - czerwiec 2028" nie obejmował pokazu filmów do trzech miesięcy po gali ani wystawy od lipca do września, więc został przesunięty na wrzesień 2028. I najtrafniejsze zdanie recenzji: **nazwanie mojej sytuacji „analogiczną" do spółki w likwidacji było nadużyciem** - istniejąca spółka w likwidacji i fundacja bez osobowości prawnej mają inne problemy reprezentacji i te ryzyka się nie znoszą. Zdanie wypadło.
+
+**Dopisana sekcja o tym, co publikuję.** Recenzent nie chce prowadzić negocjacji, których przebieg na bieżąco staje się elementem pozyskiwania sponsorów. Pismo mówi teraz: odpowiedzi nie publikuję bez zgody, na rozmowy się nie powołuję, a **na jedno zdanie zdejmuję stronę albo usuwam z niej nazwę adresata**.
+
+**Otwarte i nie do naprawienia tekstem:** brak wyceny udziału stacji. Mój jawny kosztorys pokazuje, co finansuję ja, i nie zastępuje ich kosztorysu; bez tego nie ma czego wnosić na kolegium. W piśmie jest to teraz nazwane jako brak, wraz z prośbą o wskazanie, czego do takiej wyceny potrzebują ode mnie.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

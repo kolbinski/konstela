@@ -33,8 +33,8 @@ Różnica jest jedna i zasadnicza, więc podajemy ją, zanim ktokolwiek porówna
 
 Lista jest propozycją wyjściową, nie żądaniem. Zakres ustala się przed podpisaniem i to, co w nim zostanie, trafia do umowy jako nazwane elementy:
 
-1. **Cykl w programie porannym** przez rok naboru - rozmowy o życiu z AI prowadzone na materiale, którego nie ma gdzie indziej: zgłoszonych rozmowach człowieka z modelem, z autorami i z członkami Akademii.
-2. **Informacje w serwisach przy kamieniach milowych** - otwarcie naboru, ogłoszenie składu jury, zamknięcie naboru, werdykt.
+1. **Cykl w programie porannym - najpierw pilotaż, potem decyzja o ciągu.** Nie prosimy o zamówienie roku anteny dla niesprawdzonej inicjatywy: właściwym początkiem jest kilka wejść, a o kontynuacji rozstrzyga ich wynik. Materiał obejmuje wszystkie cztery plebiscyty - zgłoszone rozmowy wraz z autorami, zwiastuny filmów, nagrania piosenek, oryginały plakatów, członków Akademii, jurorów i grupy uczniowskie czytające zgłoszenia w szkołach. **Zgłoszenie nie jest gotowym tematem telewizyjnym**, więc przy każdym wejściu Organizator dostarcza bohatera, który zgodził się wystąpić, fragmenty prac wraz z prawami pozwalającymi je pokazać, temat różny od poprzedniego oraz materiał zastępczy, gdy gość odwoła przyjazd.
+2. **Materiał dla redakcji przy kamieniach milowych** - otwarcie naboru, ogłoszenie składu jury, zamknięcie naboru, werdykt. **Nie prosimy o gwarancję obecności w serwisach informacyjnych i nie uważamy, żeby wolno było o nią prosić**: redakcja dostaje informację wcześniej niż inni i sama rozstrzyga, czy ma ona wartość informacyjną. Element ten jest zobowiązaniem Organizatora do przekazania materiału i dostępu w terminie, a nie zobowiązaniem stacji do publikacji.
 3. **Czas antenowy na zapowiedzi naboru** - z czasu niesprzedanego, w wymiarze, który stacja uzna za możliwy.
 4. **Relacja z gali** w drugiej połowie czerwca 2028, w postaci uzgodnionej: wejścia na żywo, materiał w serwisie, retransmisja albo transmisja całości.
 5. **Udział w gali od strony anteny** - jeżeli stacja chce wskazać prowadzącego wieczór, jest to do uzgodnienia; honorarium prowadzącego jest wtedy po stronie stacji i o tę kwotę spada [budżet gali](/oferta-dla-sponsora-gali-nagrody-konstela).
@@ -42,10 +42,11 @@ Lista jest propozycją wyjściową, nie żądaniem. Zakres ustala się przed pod
 
 ## <!--ikona:zespol--><span>Co otrzymuje partner</span>
 
-- **Wyłączność roli**: tytuł jedynego **Partnera telewizyjnego pierwszej edycji** na stronie Nagrody, na stronach czterech plebiscytów, w materiałach prasowych i w czołówce zapisu wideo z gali.
+- **Wyłączność tytułu, nie dostępu**: tytuł jedynego **Partnera telewizyjnego pierwszej edycji** na stronie Nagrody, na stronach czterech plebiscytów i w materiałach prasowych. Nie oznacza to, że inne stacje nie będą relacjonować edycji - patronatów medialnych może być kilku, a publicznie ogłoszony werdykt jest wiadomością dla każdego.
+- **Oznaczenie w zapisie wideo z gali**, w czołówce zapisu publikowanego przez Organizatora, obok oznaczeń pozostałych partnerów. Jest to plansza Organizatora, **nie oprawa narzucona wersji antenowej**; użycie marki stacji na stronie i w materiałach prasowych uzgadnia się przed publikacją, wraz z kontekstem i sąsiedztwem innych partnerów.
 - **Pierwszeństwo w dostępie do werdyktów** czterech plebiscytów, z embargiem do ogłoszenia na gali.
 - **Dostęp do laureatów, jurorów i członków Akademii** - rozmowy, komentarze, zdjęcia, w terminach uzgodnionych.
-- **Materiał, którego nie ma gdzie indziej**: pełne zapisy nagrodzonych rozmów człowieka z AI wraz z komentarzami jury, dziesięć filmów nakręconych na potrzeby plebiscytu, dziesięć plakatów i dziesięć piosenek, wszystko z jawną punktacją.
+- **Przewagę czasową i dostęp, a nie wyłączność materiału**: zgłoszenia, punktacja i uzasadnienia są publiczne, więc wcześniej niż inni partner dostaje werdykty z embargiem oraz zapis gali przed publikacją. Dziesięć filmów, dziesięć plakatów i dziesięć piosenek to materiał, którego przedtem nie było, ale po ogłoszeniu werdyktu dostępny jest dla wszystkich.
 - **Akredytację na galę** oraz dostęp do zapisu wideo przed jego publikacją.
 
 ## <!--ikona:tarcza--><span>Czego nie obiecujemy</span>
@@ -65,7 +66,7 @@ Jedyna rzecz, o jaką prosimy poza uzgodnionym zakresem, to **poszanowanie embar
 
 Przy mniej niż dwunastu zgłoszeniach spełniających wymogi formalne Organizator może nie rozstrzygnąć plebiscytu, a w skrajnym przypadku nie rozstrzygnąć edycji. Nie jest to scenariusz teoretyczny i partner ma o nim wiedzieć przed podpisaniem, a nie po.
 
-W takim przypadku **nie ma żadnych rozliczeń**, bo nie ma przepływu pieniędzy: stacja nie emituje tego, czego nie ma, i nic nikomu nie jest winna. Zostaje natomiast nazwa w materiałach, które już wyszły - i na to jest osobne prawo.
+Nie ma wtedy żadnych zwrotów pieniężnych, bo pieniądze nie płynęły. **Nie znaczy to, że współpraca nic stację nie kosztowała**: przygotowanie, dokumentacja, produkcja i zajęte pasmo zostają po jej stronie, a wykonana praca nie znika razem z przedsięwzięciem. Dlatego umowa rozstrzyga skutki odwołania i odpowiedzialność za nie, choć nie przewiduje przelewów. Zostaje natomiast nazwa w materiałach, które już wyszły - i na to jest osobne prawo.
 
 **Prawo wycofania nazwy.** Jeżeli edycja nie zostanie rozstrzygnięta albo zakres uzgodnionych elementów przestanie być wykonalny po naszej stronie, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Partner ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy i oznaczeń. Po takim oświadczeniu nazwa i logo znikają ze strony Nagrody, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**. Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 
