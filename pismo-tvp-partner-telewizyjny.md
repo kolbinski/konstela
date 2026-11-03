@@ -2,6 +2,8 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/*
 
+Sieradz, 3 listopada 2026
+
 Telewizja Polska S.A. w likwidacji
 
 **Dotyczy: towarzyszenia na antenie pierwszej edycji Nagrody Konstela, w roli jedynego Partnera telewizyjnego, bez przepływu pieniędzy w którąkolwiek stronę.**
@@ -25,13 +27,13 @@ Buduję to jako wydarzenie coroczne, nie jako jednorazową akcję, i chcę, żeb
 
 ## Dlaczego zwracam się do telewizji publicznej
 
-To przedsięwzięcie jest z gatunku tych, które telewizja publiczna ma w zadaniach ustawowych, a nie z gatunku tych, które kupuje się za pieniądze. Zwycięskie rozmowy ukazują się w bezpłatnej Antologii, szerszy zbiór zgłoszeń trafia do publicznego Archiwum dostępnego bez opłat i bez rejestracji, a z materiałów powstaje pomoc dydaktyczna dla szkół. Rzecz dotyczy tego, jak Polacy uczą się żyć ze sztuczną inteligencją, i jest prowadzona po polsku.
+To przedsięwzięcie jest z gatunku tych, które telewizja publiczna ma w zadaniach ustawowych, a nie z gatunku tych, które kupuje się za pieniądze. Zwycięskie rozmowy ukazują się w bezpłatnej Antologii, szerszy zbiór zgłoszeń trafia do publicznego Archiwum dostępnego bez opłat i bez rejestracji, a Antologia i Archiwa nadają się do użycia w szkołach jako realne przykłady krytycznej pracy ze sztuczną inteligencją. Rzecz dotyczy tego, jak Polacy uczą się żyć ze sztuczną inteligencją, i jest prowadzona po polsku.
 
 ### Uczniowska Akademia i Nagroda Uczniowska
 
 Najmocniejsza jest w tym wszystkim część szkolna i piszę o niej osobno, bo łatwo ją przeoczyć w wyliczeniu. Obok Akademii, która ocenia zgłoszenia, powołuję **Uczniowską Akademię**: grupy uczniowskie zgłaszane przez szkoły, jedna szkoła i jedno wskazanie, które przyznają **Nagrodę Uczniowską** - nagrodę pieniężną do 10 000 zł brutto, ogłaszaną obok werdyktu jury i wyraźnie od niego odrębną.
 
-Uczniowie nie oceniają więc odpowiedzi sztucznej inteligencji, lecz pytania, które zadali im rówieśnicy i dorośli, a przy okazji uczą się tego, czego ta Nagroda dotyczy: że od sposobu zapytania zależy, co się dowiesz. Z zapisów rozmów, Antologii i Archiwum powstaje materiał dydaktyczny udostępniany szkołom bezpłatnie.
+Uczniowie nie oceniają więc odpowiedzi sztucznej inteligencji, lecz pytania, które zadali im rówieśnicy i dorośli, a przy okazji uczą się tego, czego ta Nagroda dotyczy: że od sposobu zapytania zależy, co się dowiesz. Antologia i Archiwa są bezpłatne i dostępne bez rejestracji, więc szkoła może z nich korzystać bez niczyjej zgody. **Osobnego opracowania dydaktycznego z komentarzem dziś nie finansuje żadna rola i go nie obiecuję** - materiałem są same rozmowy wraz z jawną punktacją i uzasadnieniami ocen.
 
 ### Trzy branże, w których zmiana już trwa
 
@@ -55,7 +57,7 @@ Poniższa lista jest propozycją wyjściową, a nie żądaniem. To, co Państwo 
 2. **Informacje w serwisach informacyjnych przy czterech kamieniach milowych**: przy otwarciu naboru, ogłoszeniu składu jury, zamknięciu naboru i werdykcie.
 3. **Czas antenowy na zapowiedzi naboru**, z czasu niesprzedanego i w wymiarze, który Państwo uznają za możliwy.
 4. **Relacja z gali** w postaci przez Państwa wybranej - od wejścia na żywo do transmisji całości.
-5. **Prowadzący wieczór ze strony stacji** - element opcjonalny. Jeżeli chcieliby Państwo kogoś wskazać, jest to do uzgodnienia, a honorarium jest wtedy po Państwa stronie i o tę kwotę spada budżet gali.
+5. **Prowadzący wieczór ze strony stacji** - element opcjonalny. Jeżeli chcieliby Państwo kogoś wskazać, jest to do uzgodnienia, a honorarium jest wtedy po Państwa stronie i o tę kwotę spada kosztorys gali, jawny w arkuszu budżetowym.
 6. **Podcast towarzyszący Nagrodzie** - dwa cykle odcinków, z wersją wideo, bezpłatne i publicznie dostępne, co jest u mnie warunkiem, a nie punktem do negocjacji. Liczby odcinków nie podaję, bo jej nie znam: kosztorys obejmuje 72 godziny koordynacji, a produkcja i honorarium prowadzącego rozliczają się od faktycznej liczby odcinków według uzgodnionej stawki. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz **to, co człowiek napisze w kolejnym pytaniu**: prowadzący kwestionuje pytanie gościa, zanim ten je wyśle, i proponuje inne. Do uzgodnienia są dwie rzeczy. Pierwsza: wykorzystanie odcinków albo ich fragmentów w pasmach stacji - materiał jest dostępny bezpłatnie, więc nic tu nie kupujecie. Druga, jeżeli Państwa to interesuje: **rola prowadzącego nie jest obsadzona**, a honorarium jest po mojej stronie, nie po Państwa. Jeżeli ktoś z Państwa redakcji chciałby ją objąć, jest to do rozmowy. Cykl powstanie, gdy znajdzie się sponsor tej pozycji, a prowadzący nie ma żadnego wpływu na ocenę zgłoszeń, bo podcast i ocena są rozdzielne.
 7. **Hymn Nagrody i jego teledysk.** Hymn „Zapytaj inaczej" powstaje do jednego tekstu w dwóch wersjach: muzykę pierwszej wygenerowała sztuczna inteligencja i można jej posłuchać już teraz pod adresem https://konstela.org/hymn/, a drugą - nową kompozycję do tych samych słów - napiszą i nagrają muzycy, po to, żeby dało się je na gali usłyszeć obok siebie. Premiera wypada w czasie naboru w 2027 roku i jest zaproszeniem do zgłoszeń, a na gali hymn otwiera i zamyka wieczór. Do uzgodnienia jest premiera teledysku na antenie oraz rozmowa z wykonawcami o tym, czym obie wersje się różnią. Dwie rzeczy mówię od razu: hymn powstanie tylko wtedy, gdy znajdzie się fundator tej pozycji, a emisja nagrania wymaga zgody jego wykonawców, bo prawa zostają przy nich - wystąpię o nią, jeżeli ten element Państwa zainteresuje.
 8. **Emisja nagrodzonych filmów** - możliwa, ale na osobnych zasadach: prawa zostają przy twórcach, więc umowę o emisję zawiera autor filmu, nie fundacja, i każdy film wymaga jego odrębnej zgody. Mogę pomóc w dotarciu do autorów i nic więcej obiecać tu nie mogę. Osobno proponuję **relację z pokazu kuratorskiego filmów finałowych** - jednego seansu blokowego w kinie studyjnym albo instytucji kultury, ze wstępem wolnym i spotkaniem z twórcami, w ciągu trzech miesięcy po gali. Relacja z pokazu nie wymaga zgody na emisję samych filmów, bo dotyczy wydarzenia, a nie dzieła.
