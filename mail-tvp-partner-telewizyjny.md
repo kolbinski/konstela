@@ -2,10 +2,10 @@ Szanowni Państwo,
 
 piszę w sprawie, w której nie proszę o pieniądze, więc wyjaśnię ją od razu w całości. Powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie program i nie firma, która go zbudowała, bo oceniane są pytania, a nie odpowiedzi. Nagroda ma cztery plebiscyty, rozstrzygane na jednej gali:
 
-- na najlepszą rozmowę ze sztuczną inteligencją,
-- na film o sztucznej inteligencji,
-- na piosenkę o sztucznej inteligencji,
-- na plakat o sztucznej inteligencji, wykonany ręcznie, bez generatora obrazu.
+- na najlepszą rozmowę ze sztuczną inteligencją: https://konstela.org/plebiscyt-rozmowy/
+- na film o sztucznej inteligencji: https://konstela.org/plebiscyt-filmu/
+- na piosenkę o sztucznej inteligencji: https://konstela.org/plebiscyt-piosenki/
+- na plakat o sztucznej inteligencji, wykonany ręcznie, bez generatora obrazu: https://konstela.org/plebiscyt-plakatu/
 
 Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i nie pobieramy od uczestników żadnych opłat.
 
