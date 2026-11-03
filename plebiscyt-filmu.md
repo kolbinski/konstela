@@ -22,7 +22,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - wszystkie zgłoszenia ogląda **Akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **finalistów, a ilu ich jest, wynika z rachunku**: połowa zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech - bo przy małym naborze wskazanie dziesiątki nie byłoby wyborem
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
-- na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
+- na gali trzy najwyżej ocenione filmy pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
 - nabór zamykamy **30 listopada 2027**
 
@@ -88,7 +88,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 **Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Oba materiały muszą być publicznie dostępne: zwiastun odtwarza się przy wpisie w Projektorni i jest pokazywany na gali, a film ma móc obejrzeć każdy, kto wejdzie do Projektorni. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie czerwca 2028 roku. Po zamknięciu naboru pobieramy kopię archiwalną filmu i zwiastuna - nie publikujemy jej i nie odtwarzamy z niej filmu, o czym niżej.
 
-**W zgłoszeniu podajesz również link do zwiastuna filmu.** Zwiastun trwa od 60 do 120 sekund, jest publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do piątki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
+**W zgłoszeniu podajesz również link do zwiastuna filmu.** Zwiastun trwa od 60 do 120 sekund, jest publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do trójki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
 ### Wersja plebiscytowa
 
@@ -187,7 +187,7 @@ Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które czę
 </article>
 <article>
 <h3>Zwiastun na gali</h3>
-<p>Dla pięciu filmów najwyżej ocenionych przez jury. Pokazujemy zwiastun, który zgłosiłeś, bez ingerencji w treść.</p>
+<p>Dla trzech filmów najwyżej ocenionych przez jury, czyli tych z nagrodami pieniężnymi. Pokazujemy zwiastun, który zgłosiłeś, bez ingerencji w treść.</p>
 </article>
 <article>
 <h3 id="nagroda-publicznosci">Nagroda Publiczności</h3>
@@ -309,7 +309,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a Antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
-Pięć najwyżej ocenionych filmów pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
+Trzy najwyżej ocenione filmy pokazujemy na gali **w zwiastunach zgłoszonych przez autorów**.
 
 <h2 id="czego-od-ciebie-wymagamy-i-dlaczego"><!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span></h2>
 

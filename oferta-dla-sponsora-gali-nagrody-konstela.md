@@ -39,7 +39,7 @@ Jest to także **jedyny moment, w którym całe przedsięwzięcie dzieje się w 
 Program jednego wieczoru, liczony na około dwie godziny:
 
 - **Ogłoszenie laureatów czterech plebiscytów** - rozmowy ze sztuczną inteligencją, filmu, piosenki i plakatu - wraz z wręczeniem nagród.
-- **Zwiastuny piątki filmów finałowych** plebiscytu na film o AI; pełne pokazy odbywają się osobno.
+- **Zwiastuny trójki najwyżej ocenionych filmów** plebiscytu na film o AI; pełne pokazy odbywają się osobno.
 - **Wystawa plakatów finałowych**, dostępna dla gości wieczoru.
 - **Premiera Antologii w wydaniu elektronicznym i dźwiękowym** - e-booka i audiobooka z najlepszymi rozmowami edycji, oba bezpłatne.
 - **Wystąpienia partnerów**, w tym przedstawiciela Sponsora gali.
@@ -166,7 +166,7 @@ Rola nie obejmuje czterech rzeczy, bo każda ma własny budżet i własnego part
 <div><dt>Po deklaracji Sponsora</dt><dd>Wybór miejsca i wycena czterech pozycji otwartych<small>oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy; dopiero wtedy znana jest kwota ostateczna i dopiero wtedy podpisujemy umowę</small></dd></div>
 <div><dt>Do 6 miesięcy przed galą</dt><dd>Podpisanie umowy i rezerwacja sali<small>pierwsza transza obejmuje wyłącznie to, czego wymaga zabezpieczenie terminu w wybranym miejscu</small></dd></div>
 <div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykty czterech plebiscytów<small>pierwsza runda Akademii, następnie jury; gala odbywa się tylko wtedy, gdy edycja zostaje rozstrzygnięta</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, zwiastuny piątki filmów finałowych, wystawa plakatów, premiera Antologii w wydaniu elektronicznym i dźwiękowym, wystąpienia partnerów; druga transza wymagalna po gali</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, zwiastuny trójki najwyżej ocenionych filmów, wystawa plakatów, premiera Antologii w wydaniu elektronicznym i dźwiękowym, wystąpienia partnerów; druga transza wymagalna po gali</small></dd></div>
 <div><dt>Do 60 dni po gali</dt><dd>Sprawozdanie dla Sponsora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, dokumentacja fotograficzna i zapis wideo; po jego przyjęciu wymagalna jest transza ostatnia</small></dd></div>
 </dl>
 

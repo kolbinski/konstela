@@ -395,7 +395,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Plebiscyt rozstrzyga się podczas gali Nagrody Konstela, w drugiej połowie czerwca 2028 roku, razem z pozostałymi plebiscytami.
 
-2. **Podczas gali prezentowany jest zwiastun każdego z pięciu najwyżej ocenionych filmów**, a jeżeli finalistów jest mniej niż pięciu - zwiastun każdego z nich – ten sam, który Uczestnik zgłosił zgodnie z § 4 ust. 1 lit. a1. Pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna, ponieważ jedna gala nie zmieści prezentacji wszystkich finalistów.
+2. **Podczas gali prezentowany jest zwiastun każdego z trzech najwyżej ocenionych filmów** - tych samych, które otrzymują nagrody pieniężne - a jeżeli finalistów jest mniej niż trzech, zwiastun każdego z nich – ten sam, który Uczestnik zgłosił zgodnie z § 4 ust. 1 lit. a1. Pozostali finaliści odbierają wyróżnienia bez prezentacji zwiastuna, ponieważ jedna gala nie zmieści prezentacji wszystkich finalistów.
 
 3. **Zwiastun emitowany jest w postaci zgłoszonej.** Organizator nie wybiera fragmentu filmu i nie ingeruje w treść zwiastuna; przygotowanie do emisji obejmuje wyłącznie pobranie materiału w jakości emisyjnej, dopasowanie formatu, normalizację dźwięku oraz planszę z tytułem filmu i podpisem Uczestnika. Uczestnik może do dnia zamknięcia naboru wskazać inny zwiastun spełniający wymogi z § 4 ust. 1 lit. a1; po tym dniu emitowany jest zwiastun z metryki zgłoszenia (§ 11 ust. 6a).
 

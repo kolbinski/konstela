@@ -45,7 +45,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Fundator nagród w plebiscycie na film o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury, Projektornia i zwiastuny finałowej piątki na gali.</p>
+<p>Nagrody dla laureatów, honoraria jury, Projektornia i zwiastuny finałowej trójki na gali.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>

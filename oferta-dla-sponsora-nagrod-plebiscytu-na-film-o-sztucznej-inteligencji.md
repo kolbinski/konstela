@@ -97,7 +97,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu przez cały rok naboru**:
 - weryfikację historii zgłoszonego filmu, czyli sprawdzenie, czy nie jest przeróbką pracy ukończonej wcześniej;
 - obsługę Akademii filmu i jury wraz z przydziałami i kalibracją ocen;
 - obsługę głosowania publiczności i wyboru najlepszego uzasadnienia;
-- zebranie zwiastunów piątki najwyżej ocenionych filmów i złożenie bloku galowego;
+- zebranie zwiastunów trójki najwyżej ocenionych filmów i złożenie bloku galowego;
 - złożenie zestawu filmów finałowych i rozmowy z dystrybutorami;
 - prowadzenie [Projektorni](/plebiscyt-filmu#projektornia-i-archiwum) przez cały nabór i Archiwum filmów po werdykcie;
 - dotarcie do szkół filmowych, kół filmowych, festiwali i domów kultury.
@@ -165,7 +165,7 @@ Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów poka
 | Weryfikacja historii zgłoszonego filmu (5 godz. + 8 min na zgłoszenie) |            25 |
 | Obsługa Akademii filmu i jury                                  |            60 |
 | Obsługa głosowania publiczności                                |            20 |
-| Zebranie zwiastunów piątki i blok galowy                       |            40 |
+| Zebranie zwiastunów trójki i blok galowy                       |            40 |
 | Złożenie zestawu finałowego i rozmowy z dystrybutorami         |            40 |
 | Prowadzenie Projektorni i archiwum filmów                      |            25 |
 | Kopie archiwalne filmów (20 godz. + 3 min na zgłoszenie)       |          27,5 |
@@ -181,7 +181,7 @@ Nie wpisujemy w kosztorys kwot, których nie znamy. Te pozycje zostaną uzgodnio
 
 - **honoraria jury filmu za ocenę** - zależą od liczby członków jury i liczby filmów, które do niego trafią;
 - **honoraria jury za etap przygotowawczy** - za ustalenie karty oceny i wag kryteriów przed otwarciem naboru;
-- **przygotowanie techniczne zwiastunów do emisji galowej** - normalizacja formatu, dźwięku i napisów piątki zwiastunów, bez ingerencji w treść;
+- **przygotowanie techniczne zwiastunów do emisji galowej** - normalizacja formatu, dźwięku i napisów trójki zwiastunów, bez ingerencji w treść;
 Obsługa prawna regulaminu filmu **nie jest pozycją otwartą**: ma w tabeli kwotę 8 000 zł, przyjętą jako dwukrotność wyceny, którą kancelaria dała na piśmie dla zakresu plebiscytu rozmowy. Zakres szczegółowy wskaże konsultacja, bo regulamin filmu jest najbardziej złożony z czterech ze względu na prawa do muzyki i warstwę licencyjną - **ale kwota jest w kosztorysie i w limicie, nie poza nimi**.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród** - od 125 739 zł, czyli od pracy organizatora, medalu i dyplomów, honorariów zespołu wybierającego najlepsze uzasadnienie głosu, pokazu kuratorskiego oraz magazynu kopii archiwalnych. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
@@ -251,7 +251,7 @@ Piszemy to wprost, bo blok zwiastunów jest jednym z mocniejszych punktów tej r
 W pozostałych plebiscytach koszt wejścia jest niewielki: rozmowę się przeprowadza, plakat maluje. **Film trwający od 20 do 90 minut to ekipa, sprzęt, lokacje, montaż i dźwięk, a Organizator nie finansuje produkcji.** Dlatego ta rola finansuje także rzeczy, które trafiają do finalistów niezależnie od miejsca w werdykcie:
 
 - **pokaz kuratorski filmów finałowych** - jeden seans blokowy w kinie studyjnym albo instytucji kultury, wstęp wolny, w ciągu trzech miesięcy po gali, ze spotkaniem z twórcami. Przejazd i nocleg twórców prezentowanych filmów pokrywa ta oferta, więc udział nie zależy od tego, czy kogoś na to stać. Dziesięć tytułów po 20-90 minut to od trzech do piętnastu godzin materiału, więc seans jest wyborem kuratorskim, nie przeglądem wszystkiego;
-- **zwiastun na gali** dla piątki najwyżej ocenionych;
+- **zwiastun na gali** dla trójki najwyżej ocenionych;
 - **wpis w Projektorni** z jawną punktacją, czyli publiczny ślad udziału;
 - **złożenie zestawu finałowego i rozmowy z dystrybutorami** - usługa, nie rezultat, o czym niżej.
 
@@ -272,7 +272,7 @@ Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo 
 
 **Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
 
-1. **gala się nie odbywa** i zwiastuny finałowej piątki nie zostają pokazane publiczności;
+1. **gala się nie odbywa** i zwiastuny finałowej trójki nie zostają pokazane publiczności;
 2. **zestaw finałowy nie trafia do żadnego dystrybutora** mimo przeprowadzonych rozmów;
 3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
 4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
@@ -290,7 +290,7 @@ Poza tytułem:
 
 - **Logo** na stronie konstela.org i na stronie plebiscytu przez cały okres edycji oraz na scenie podczas gali rozstrzygnięcia.
 - **Wręczenie nagrody głównej przez przedstawiciela Fundatora** na gali, wraz z wystąpieniem o tym, dlaczego firma postanowiła ufundować nagrody za filmy o sztucznej inteligencji.
-- **Obecność przy bloku zwiastunów** piątki najwyżej ocenionych filmów - to jest moment gali, który sala pamięta najdłużej.
+- **Obecność przy bloku zwiastunów** trójki najwyżej ocenionych filmów - to jest moment gali, który sala pamięta najdłużej.
 - **Wymienienie przy każdej wzmiance o puli nagród plebiscytu** w materiałach Organizatora.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
 - **Udział pracowników Fundatora** w Akademii filmu, na tych samych zasadach co pozostali widzowie, oraz spotkanie zespołu z finalistami.
@@ -333,7 +333,7 @@ Fundator nie nabywa praw do zgłoszonych filmów. Prawa zostają w całości prz
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda Akademia filmu i przekazuje jury nie więcej niż 20 filmów</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>trwa do godziny 12:00 w dniu gali; liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści i czołowa trójka; finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, blok zwiastunów piątki najwyżej ocenionych filmów, wręczenie nagród, premiera Antologii</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, blok zwiastunów trójki najwyżej ocenionych filmów, wręczenie nagród, premiera Antologii</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, rozliczenie godzin, lista wypłaconych nagród</small></dd></div>
 </dl>
 
