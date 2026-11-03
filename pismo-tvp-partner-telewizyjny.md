@@ -4,6 +4,8 @@
 
 Zapraszam Telewizję Polską do objęcia roli Partnera telewizyjnego pierwszej edycji Nagrody Konstela - ogólnopolskiego przedsięwzięcia poświęconego współistnieniu ludzi i sztucznej inteligencji. Przygotowuję cztery plebiscyty: na rozmowę ze sztuczną inteligencją oraz na film, piosenkę i ręcznie wykonany plakat o sztucznej inteligencji. Ich wspólnym tematem jest to, co w spotkaniu z nowym narzędziem wnosi człowiek: jego dociekliwość, odpowiedzialność i twórczość.
 
+Docelowa pula nagród pieniężnych czterech plebiscytów wynosi łącznie **734 000 zł brutto**: 371 000 zł w plebiscycie rozmowy, 180 000 zł w plebiscycie filmu, 90 000 zł w plebiscycie plakatu i 35 000 zł w plebiscycie piosenki, a obok nich nagrody publiczności po 12 000 zł w każdym plebiscycie oraz Nagroda Uczniowska. Nagrody główne to 300 000 zł za rozmowę ze sztuczną inteligencją, 100 000 zł za film i 50 000 zł za plakat; w piosence 35 000 zł przypada czołowej trójce werdyktu. **Są to kwoty przyjęte w planie finansowym, na które poszukuję fundatorów; nie zostały jeszcze zabezpieczone.** Wiążącą wysokość nagród ogłoszę przy otwarciu naboru, po zapewnieniu ich finansowania.
+
 Zwracam się do TVP na etapie budowania pierwszej edycji. Najważniejszą prośbą jest dziś **list intencyjny** potwierdzający zamiar podjęcia współpracy w roli Partnera telewizyjnego, uzależniony od zabezpieczenia edycji i uzgodnienia umowy. Potrzebuję go, aby rozpocząć rozmowy z fundatorami nagród. Proszę również o **pomoc w dotarciu do kandydatów do jury** oraz o **wskazanie osoby prowadzącej sprawę** po stronie TVP.
 
 Proszę o przekazanie pisma do jednostki właściwej do rozpatrzenia partnerstwa obejmującego działalność kulturalną i edukacyjną oraz do skoordynowania rozmów z zainteresowanymi redakcjami.
