@@ -57,6 +57,7 @@ Edycja nie kończy się wieczorem gali. Zostaje po niej dorobek, który dokument
 - **nagrania studyjne dziesiątki finalistów plebiscytu piosenki**, a przy partnerze wydawniczym płyta z tymi nagraniami;
 - **pokazy filmów finałowych** - seans kuratorski ze spotkaniem z twórcami, a przy partnerze streamingowym także dziesięć filmów w katalogu serwisu;
 - **wystawa plakatów finałowych** z wernisażem i cichą licytacją oryginałów;
+- **podcast towarzyszący Nagrodzie w dwóch cyklach** - „Pierwszy raz z AI", z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz „NAIstolatek", z nastolatkami, dla których te narzędzia są codziennością - bezpłatnie dostępny publicznie, wraz z wersją wideo;
 - **hymn „Zapytaj inaczej" w dwóch wersjach** oraz bezpłatny i bezterminowy zapis wideo gali.
 
 Część tego dorobku zależy od obsadzenia roli, która go finansuje - piszę o tym w sekcji o stanie przygotowań.
@@ -89,7 +90,7 @@ Werdykty przekazane TVP do przygotowania relacji pozostają objęte **embargiem*
 
 ### Podcast
 
-Do osobnej rozmowy proponuję **podcast o prowadzeniu rozmów ze sztuczną inteligencją - na przykład w pasmie popularnonaukowym, takim jak TVP Nauka**: prowadzący przygląda się pytaniu gościa, kwestionuje je i pomaga sformułować kolejne. Cykl jest planowany jako bezpłatnie dostępny publicznie, w dwóch cyklach odcinków, z wersją wideo.
+Do osobnej rozmowy proponuję **podcast o prowadzeniu rozmów ze sztuczną inteligencją - na przykład w pasmie popularnonaukowym, takim jak TVP Nauka**: prowadzący przygląda się pytaniu gościa, kwestionuje je i pomaga sformułować kolejne. Powstaje w dwóch cyklach: **„Pierwszy raz z AI"** z osobami, które nigdy wcześniej z tych narzędzi nie korzystały, i **„NAIstolatek"** z nastolatkami, dla których są one codziennością. Odcinki są bezpłatnie dostępne publicznie, z wersją wideo.
 
 Podcast nie ma jeszcze prowadzącego ani zabezpieczonego finansowania produkcji. Po ich pozyskaniu można uzgodnić z TVP wykorzystanie odcinków lub fragmentów, na podstawie praw obejmujących konkretny sposób publikacji - publiczna dostępność nie jest licencją antenową. Dziś przedstawiam koncepcję, a nie gotowy materiał emisyjny.
 
