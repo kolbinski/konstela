@@ -56,6 +56,12 @@ Każde nowe świadczenie w ofercie partnerskiej sprawdza się pięcioma pytaniam
 
 Pytania 4 i 5 dopisał recenzent, wskazując, że pierwsze trzy nie objęłyby wszystkich znalezionych wad, bo problemów terminów, odbioru i wartości zwrotu nie wychwytują.
 
+## Nie piszemy odpowiedzi dla recenzenta
+
+Po turze recenzji **nie przygotowuje się tekstu odpowiedzi do wklejenia**. Recenzent ma ocenić poprawiony dokument sam, bez obciążenia tym, jak autor rozumie swoje zmiany i co uznał za trafne; wyliczenie poprawek z góry podsuwa mu wniosek i psuje to, po co ta recenzja jest. Po wprowadzeniu zmian zadaje się jedno pytanie: **czy teraz lepiej**.
+
+Praca po turze kończy się więc na: poprawkach w dokumencie, zapisie recenzji w `recenzje/`, aktualizacji `recenzje-status.md` i wnioskach w `plan-dzialan.md`. To, co dawniej trafiało do pliku z odpowiedzią - co przyjąłem, czego nie i dlaczego - należy do tych dwóch ostatnich miejsc. Zasada ustalona 3.11.2026.
+
 ## Stan recenzji ofert
 
 Plik `recenzje-status.md` jest jedynym miejscem, w którym stoi odpowiedź na pytanie, które oferty przeszły recenzję i z jakim statusem. **Aktualizuje się go po każdej turze recenzji, w tym samym commicie co poprawki w ofercie** - nie później i nie osobno. Zasada ustalona 2.11.2026, kiedy okazało się, że ta odpowiedź wymagała przeszukania folderu recenzji, promptów i trzech sekcji planu działań.
