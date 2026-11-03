@@ -55,7 +55,7 @@ Mają gotowy prompt, nie mają jeszcze recenzji:
 - **wydawca Antologii** - redaktor naczelny oficyny
 - **wydawca płyty** - dyrektor wydawniczy wytwórni
 - **dystrybucja filmów** - kierownik programowy sieci kin studyjnych
-- **telewizja** - dyrektor programowy stacji
+- **telewizja** - **dyrektor anteny telewizji publicznej**, prompt gotowy 3.11.2026 w `pismo-tvp-prompt-recenzji.md`. Persona zmieniona z dyrektora programowego stacji, bo pismo idzie do nadawcy publicznego i pyta o rzeczy, których dyrektor programowy stacji komercyjnej nie rozstrzyga: zobowiązania redakcji informacyjnej, przepisy o sponsorowaniu w mediach publicznych i zdolność spółki w likwidacji do zawarcia umowy sięgającej czerwca 2028. Prompt celowo nie pyta o oglądalność ani o wartość reklamową, bo w tej roli pieniądze nie płyną w żadną stronę; pyta natomiast o podział dziesięciu elementów na te, o których dyrektor decyduje sam, te wymagające innego pionu i te, których nie da się obiecać nikomu. Recenzowane jest pismo pod adresem `/dokument/pismo-tvp-partner-telewizyjny/`, a nie strona oferty, bo pismo zawiera cały jej zakres i to ono trafia do adresata.
 - **streaming** - dyrektor programowy platformy
 - **sponsor podcastu** - dyrektor marketingu firmy technologicznej
 - **prowadzący podcast** - podcaster oceniający własną pracę
