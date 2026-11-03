@@ -2,12 +2,6 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/*
 
-Sieradz, 3 listopada 2026
-
-Telewizja Polska S.A. w likwidacji
-
-Szanowni Państwo,
-
 ## Czym jest Nagroda Konstela
 
 **Nagroda Konstela to nowa, coroczna nagroda dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją, a także dla twórców filmu, piosenki i plakatu o sztucznej inteligencji.** Nagradzany jest człowiek, nie maszyna: oceniane jest to, jak pyta, jak sprawdza odpowiedzi i jak zmienia kierunek. Do jej prowadzenia powołuję **Fundację Konstela**, utworzoną wyłącznie w tym celu.
@@ -149,8 +143,6 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. Regu
 ## Kontakt
 
 Regulaminy i karty oceny są jawne na konstela.org, a wszystkie role partnerskie pierwszej edycji wraz z ich zakresami i kwotami zbiera strona https://konstela.org/dla-partnerow/. Będę wdzięczny za rozmowę w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism.
-
-Pozdrawiam serdecznie
 
 Krzysztof Olbiński
 +48 503 520 004
