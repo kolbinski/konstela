@@ -1089,6 +1089,18 @@ Po zamknięciu recenzji zadałem recenzentowi dwa pytania, których wcześniej w
 
 **Wniosek metodyczny, najcenniejszy z całej serii.** Recenzja sprawdza, czy dokument jest poprawny; nie sprawdza, czy prowadzi do decyzji, którą adresat może podjąć dzisiaj. To trzeba zapytać osobno - i to pytanie warto zadać przy każdej ofercie po zamknięciu recenzji: **o co właściwie proszę na tym etapie i czy adresat może to zrobić bez niczyjej dalszej zgody**.
 
+## Pilotaż w telewizji faworyzowałby uczestnika, a pakiet pierwszego wejścia zniknął (3.11.2026)
+
+Przy pisaniu pakietu dla redakcji doszedłem do zdania „na każde wejście dostarczam jednego bohatera: uczestnika, jurora, członka Akademii albo nauczyciela" - i to pierwsze słowo jest wadą, której nie wychwyciła żadna z siedmiu tur recenzji, bo recenzent patrzył od strony stacji, nie od strony plebiscytu. **Ocena prowadzona jest na zgłoszeniach oznaczonych numerami, bez imion** (§ 9 ust. 5 regulaminu rozmowy), **a Nagroda Publiczności przyznawana jest w jawnym głosowaniu** - pokazanie uczestnika albo jego pracy w telewizji w trakcie naboru dałoby mu przewagę, której nie zrównoważyłoby nic.
+
+**Zasada, która z tego wychodzi i wchodzi do pisma oraz na stronę roli:** uczestnicy i ich zgłoszenia wchodzą na antenę dopiero po ogłoszeniu wyników. Przed werdyktem materiałem jest to, jak Nagroda działa - jurorzy, Akademia, nauczyciele z grupami uczniowskimi, jawne karty oceny, hymn. Różnica wobec publicznych Archiwów jest taka, że **Archiwa pokazują wszystkie zgłoszenia na równych zasadach, a antena wyróżniałaby jedno**.
+
+**Do rozstrzygnięcia:** czy ta zasada ma wejść do czterech regulaminów jako zobowiązanie wobec Uczestników, czy wystarczy jej miejsce w ofertach medialnych. Dziś jest tylko w ofercie i w piśmie, a to ten sam wzór, który już raz poprawialiśmy - świadczenie albo ograniczenie opisane poza dokumentem, który je wiąże.
+
+**Pakiet pierwszego wejścia usunięty.** Powstał po siódmej turze jako „jedna strona do pierwszej decyzji", a wyszedł z niego dokument z tematem konkretnego wejścia, terminem wskazania imiennego bohatera i podziałem pracy co do zadania. Przy pierwszym kontakcie to za dużo: **ilość i treść materiałów dobiera się wspólnie z redakcją po decyzji o współpracy**, a nie proponuje w ofercie. W piśmie została sama propozycja rozmiaru i rytmu - cztery wejścia po 6-8 minut kwartalnie - wraz z tym, z czego powstaje materiał i kto co robi.
+
+**Wniosek metodyczny.** Recenzja z jednej strony stołu nie wyłapie wady widocznej z drugiej: dyrektor anteny nie miał powodu pytać, czy mój bohater nie jest przypadkiem uczestnikiem konkursu, który sam prowadzę. Przy każdej ofercie medialnej trzeba osobno sprawdzić, **czy to, co obiecuję pokazać, nie zmienia wyniku oceny**.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

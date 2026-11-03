@@ -6,7 +6,7 @@ Zwracam się z propozycją czterech wejść antenowych o tej edycji, po 6-8 minu
 
 Proszę na tym etapie o skierowanie tej propozycji do właściwej redakcji, do oceny redakcyjnej i wyceny, oraz o wskazanie osoby, z którą mam o niej rozmawiać. Zatwierdzenia szerszej współpracy nie oczekuję.
 
-Całość opisuje załączone pismo, a materiał do pierwszej decyzji - temat, podział pracy, warunki i terminy - załączony pakiet pierwszego wejścia. Wersje online są pod adresami https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/ oraz https://konstela.org/dokument/tvp-pakiet-pierwszego-wejscia/
+Całość opisuje załączone pismo - z czego powstaje materiał, jak wygląda podział pracy i jakie warunki muszą być spełnione. Jego wersja online jest pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/
 
 Pozdrawiam serdecznie
 
