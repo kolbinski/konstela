@@ -26,6 +26,8 @@ Proszę o wskazanie kandydatów do jury czterech plebiscytów oraz o pomoc w naw
 
 Praca jury jest przewidziana jako odpłatna. Zakres, terminy i honoraria wymagają uzgodnienia z kandydatami oraz zabezpieczenia finansowania. Za zaproszenia, umowy i ostateczny skład odpowiada organizator. Partnerstwo telewizyjne nie daje wpływu na punktację ani werdykty.
 
+Jeżeli pomoc miałaby polegać na przekazaniu zaproszeń, **prześlę wcześniej opis zakresu pracy jurora, terminów, proponowanego honorarium i warunku, od którego zależy jego wypłata** - żeby nikt z Państwa nie polecał komukolwiek pracy o nieustalonych warunkach. Przekazanie zaproszenia nie jest przy tym zobowiązaniem stacji do zapewnienia składu jury.
+
 ### Osoba do stałego kontaktu
 
 Proszę o wskazanie jednej osoby koordynującej rozpatrzenie propozycji, przygotowanie listu intencyjnego i dalsze rozmowy z właściwymi redakcjami. Tej osobie będę przekazywał informacje o finansowaniu, rejestracji fundacji, składach jury i gotowości kolejnych elementów edycji.
@@ -69,6 +71,8 @@ Część tego dorobku zależy od obsadzenia roli, która go finansuje - piszę o
 Proponuję rozpocząć współpracę antenową od **cyklu w programie porannym - na przykład w „Pytaniu na śniadanie" - w postaci pilotażu, po którym o ciągu rozstrzyga jego wynik.** Nie proszę o zamówienie roku anteny dla niesprawdzonej inicjatywy, a żeby propozycja miała rozmiar do oceny i wyceny, podaję konkretny wariant: **cztery wejścia w roku naboru, po 6-8 minut**, rozłożone kwartalnie - marzec, czerwiec, wrzesień i listopad 2027 - każde o innym plebiscycie. Jeżeli ten wymiar jest za duży albo za mały, proszę o wskazanie własnego.
 
 Tematem wejścia jest to, na czym polega świadome korzystanie ze sztucznej inteligencji i jak oceniać ludzki wkład w rozmowę lub pracę twórczą; punktem wyjścia mogą być jawne kryteria Nagrody oraz rozmowa z organizatorem, jurorami, członkami Akademii lub nauczycielami prowadzącymi grupy szkolne. **Co i ile pokazujemy w każdym wejściu, dobieramy razem z redakcją po decyzji o współpracy** - dobór rozmówców wymaga ich zgody i uzgodnienia z redakcją.
+
+**O kontynuacji rozstrzyga pierwsze wejście, nie czwarte.** Cztery wejścia podaję, żeby było widać, jaki rytm proponuję na cały rok naboru, ale nie proszę o zamówienie ich w pakiecie: po pierwszym materiale redakcja ocenia, czy temat działa, i dopiero wtedy rozmawiamy o kolejnych. Jeżeli do takiej oceny potrzebny jest opis jednego wejścia - temat, korzyść dla widza, dostępni rozmówcy i materiały - przygotuję go na wskazanie redakcji, w jej formie i w uzgodnionym terminie.
 
 **Zdjęcia, realizacja i montaż są po stronie stacji; nie produkuję materiału wideo.** Po mojej stronie jest przygotowanie i przekazanie uzgodnionych informacji o Nagrodzie oraz koordynacja kontaktu z proponowanymi rozmówcami. **Najpóźniej czternaście dni przed planowaną emisją** przedstawię redakcji potwierdzony zakres mojego udziału, dostępnych materiałów i uzyskanych zgód. Propozycję wejścia opieramy na tym, co jest już dostępne; w razie zmiany wspólnie ustalamy temat zastępczy. Materiał podczas naboru dotyczy zasad i przygotowania Nagrody, więc jego powstanie nie zależy od napływu zgłoszeń.
 
@@ -117,6 +121,8 @@ Osobiście odpowiadam dziś za koncepcję, przygotowanie dokumentacji i kontakt.
 Prawa do filmów, piosenek i plakatów pozostają przy ich twórcach. Udział w plebiscycie nie daje organizatorowi prawa do dysponowania nimi na potrzeby anteny. Mogę pomóc w dotarciu do uprawnionych; emisja wymaga odrębnych zgód i uzgodnień obejmujących potrzebne prawa.
 
 **Proponuję partnerstwo bez wzajemnych płatności między TVP a organizatorem: każda ze stron pokrywa koszty przyjętego przez siebie zakresu.** Odrębnych uzgodnień wymagają ewentualne umowy TVP z uprawnionymi dotyczące emisji utworów.
+
+Brak wzajemnych płatności nie znaczy, że współpraca nic nie kosztuje: zdjęcia, realizacja, montaż, zajęte pasmo i praca koordynacyjna są kosztem po Państwa stronie, a decyzja o jego poniesieniu należy do Państwa. Dlatego nie opieram tej propozycji na samym tytule partnera, lecz na tym, co materiał daje widzowi - **umiejętności, z której może skorzystać tego samego dnia**: jak sprawdzić odpowiedź, jak zauważyć sprzeczność, jak zapytać inaczej.
 
 Każdy element wpisywany do umowy musi mieć wskazanego wykonawcę, źródło finansowania, zakres praw, termin i sposób odbioru oraz rozliczenie na wypadek niewykonania. Elementy, dla których tych warunków jeszcze nie ustalono, pozostają propozycjami. **Sama pozycja w kosztorysie nie jest potwierdzeniem finansowania.** Zakresu zaangażowania ekip i redakcji oraz jego wyceny nie podaję, bo nie są moje do policzenia - ustala je TVP.
 
