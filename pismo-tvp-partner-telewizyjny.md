@@ -1,4 +1,4 @@
-# Propozycja roli Partnera telewizyjnego Nagrody Konstela
+# Oferta dla TVP: rola Partnera telewizyjnego Nagrody Konstela
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/*
 
