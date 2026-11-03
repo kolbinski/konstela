@@ -2,6 +2,8 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/*
 
+Zapraszam Telewizję Polską do objęcia roli **Partnera telewizyjnego pierwszej edycji Nagrody Konstela** - bez przepływu pieniędzy w którąkolwiek stronę. Zwracam się na etapie budowania tej edycji i proszę dziś o trzy rzeczy, które opisuję w sekcji „O co proszę": o list intencyjny, o pomoc w skompletowaniu jury i o wskazanie osoby prowadzącej sprawę. **Proszę o przekazanie tego pisma jednostce właściwej do rozpatrzenia partnerstwa przy przedsięwzięciu kulturalnym i edukacyjnym** oraz do skoordynowania rozmów z zainteresowanymi redakcjami.
+
 ## Czym jest Nagroda Konstela
 
 **Nagroda Konstela to nowa, coroczna nagroda dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją, a także dla twórców filmu, piosenki i plakatu o sztucznej inteligencji.** Nagradzany jest człowiek, nie maszyna: oceniane jest to, jak pyta, jak sprawdza odpowiedzi i jak zmienia kierunek, gdy odpowiedź go nie zadowala. Do prowadzenia Nagrody powołuję **Fundację Konstela**, utworzoną wyłącznie w tym celu.
@@ -50,6 +52,8 @@ To przedsięwzięcie mieści się w zadaniach, które ustawa stawia telewizji pu
 
 Lista jest propozycją wyjściową, a nie żądaniem. Programy i pasma wskazuję przykładowo, bo o antenie rozstrzygacie Państwo, a to, co z tej listy zostanie, wchodzi do umowy jako nazwane elementy. W żadną stronę nie płyną przy tym pieniądze: Państwo wnoszą antenę i czas pracy redakcji, ja wnoszę dostęp, materiał i wyłączność tej roli.
 
+Jedna zasada obowiązuje przy wpisywaniu czegokolwiek z tej listy do umowy: **każdy element musi mieć wskazanego wykonawcę, źródło finansowania, zakres praw, termin i sposób odbioru oraz rozliczenie na wypadek niewykonania.** Elementy, dla których tych warunków jeszcze nie ustalono, pozostają propozycjami - a sama pozycja w kosztorysie nie jest potwierdzeniem finansowania.
+
 ### W trakcie naboru 2027
 
 1. **Cykl w programie porannym - na przykład w „Pytaniu na śniadanie" - najpierw pilotaż, potem decyzja o ciągu.** Nie proszę o zamówienie roku anteny dla niesprawdzonej inicjatywy. Wariant, o który proszę: **cztery wejścia w roku naboru, po 6-8 minut**, rozłożone kwartalnie - marzec, czerwiec, wrzesień i listopad 2027 - każde o innym plebiscycie. Proponuję rozmiar i rytm, nie tematy: **co i ile pokazujemy w każdym wejściu, dobieramy razem z redakcją już po decyzji o współpracy.** Zdjęcia, realizacja i montaż są po Państwa stronie, bo materiału wideo nie produkuję; po mojej są bohaterowie wraz z pisemnymi zgodami na wystąpienie, prawa do pokazania każdej pracy, materiał zastępczy na wypadek odwołania przyjazdu i jedna osoba odpowiedzialna za terminy - **najpóźniej czternaście dni przed emisją**. Powiem też od razu, czego nie wiem: **nie wiem, czy w pierwszych tygodniach naboru będzie co pokazać**, bo zgłoszenia wpływają dopiero po jego otwarciu, i dlatego pilotaż wypada raczej później niż w dniu startu.
@@ -77,9 +81,9 @@ Przed werdyktem materiałem jest więc to, jak ta Nagroda działa: jurorzy, czł
 
 ## Co otrzymuje Partner telewizyjny
 
-- **tytuł** jedynego Partnera telewizyjnego pierwszej edycji na stronie Nagrody, na stronach czterech plebiscytów i w materiałach prasowych;
+- **tytuł** jedynego Partnera telewizyjnego pierwszej edycji na stronie Nagrody, na stronach czterech plebiscytów i w materiałach prasowych. Publikacje przygotowuję w ramach obsługi komunikacyjnej edycji, a umowa powinna określić **czas obowiązywania tytułu oraz sposób zakończenia jego używania**, jeżeli edycja albo współpraca nie dojdzie do skutku;
 - **oznaczenie w zapisie wideo z gali**, który publikuję ja, obok oznaczeń pozostałych partnerów edycji. Jest to plansza organizatora, nie oprawa narzucona wersji antenowej: o oprawie materiału, który Państwo wyemitują, rozstrzygacie Państwo, a użycie Państwa marki na stronie i w materiałach prasowych uzgadniamy przed publikacją;
-- **dostęp do laureatów, jurorów, członków Akademii i uczniów** - rozmowy, komentarze, zdjęcia, w terminach uzgodnionych;
+- **dostęp do laureatów, jurorów, członków Akademii i uczniów** - rozmowy, komentarze, zdjęcia, w terminach uzgodnionych. Udział każdej z tych osób wymaga jej zgody, a przy uczniach **zgody opiekuna**; zgody zbieram ja;
 - **akredytację na galę** oraz dostęp do zapisu wideo przed jego publikacją.
 
 ### Trzy świadczenia zastrzeżone wyłącznie dla Państwa stacji
@@ -102,21 +106,25 @@ Dwie pierwsze rzeczy są dla mnie pilne już teraz i **żadna nie wymaga decyzji
 
 ### List intencyjny
 
-**Proszę o list stwierdzający, że Telewizja Polska zna to przedsięwzięcie i jest gotowa rozmawiać o roli partnera telewizyjnego, jeżeli edycja ruszy na opisanych zasadach.** O zobowiązanie finansowe ani o obietnicę emisji nie proszę w nim wcale, a treść i zakres powołania się na niego są oczywiście Państwa.
+**Proszę o list potwierdzający, że Telewizja Polska zamierza podjąć współpracę jako Partner telewizyjny pierwszej edycji - pod warunkiem zabezpieczenia finansowania i organizacji edycji oraz uzgodnienia zakresu współpracy w odrębnej umowie.** O zobowiązanie finansowe ani o obietnicę emisji nie proszę w nim wcale.
 
-Potrzebuję go do rozmów z fundatorami nagród i z mecenasami - i tylko do tego. Pierwsze pytanie, które od każdego z nich dostaję, brzmi: czy ktokolwiek to pokaże. Bez odpowiedzi na nie rozmowa o pieniądzach nie zaczyna się w ogóle, a od tych rozmów zależy, czy edycja ruszy. Poza tym użyciem nie powołam się na list nigdzie, a jeżeli zechcą Państwo ograniczyć sposób jego pokazywania, proszę o wskazanie zakresu, którego mam się trzymać.
+Potrzebuję go do rozmów z fundatorami nagród i z mecenasami - i tylko do tego. Pierwsze pytanie, które od każdego z nich dostaję, brzmi: czy ktokolwiek to pokaże. Bez odpowiedzi na nie rozmowa o pieniądzach nie zaczyna się w ogóle, a od tych rozmów zależy, czy edycja ruszy.
 
-Mówię też, czego taki list nie przesądza - i mówię to fundatorom tak samo jak Państwu. **List o gotowości do rozmowy nie jest zapewnieniem emisji**; ryzyko, że do niej nie dojdzie, fundator musi ocenić osobno. Dopóki fundacja nie jest wpisana do rejestru, rozmowę prowadzą Państwo ze mną jako inicjatorem, i jeżeli uznają to Państwo za konieczne, niech list to stwierdza.
+**Jak będę się nim posługiwał.** List przedstawiam fundatorom i mecenasom **w całości, wraz z zapisanymi w nim warunkami** - nie we fragmentach i nie jako gwarancję emisji ani zawartą umowę partnerską. Proszę o określenie okresu jego ważności oraz zasad posługiwania się nim, a jeżeli zechcą Państwo ten sposób ograniczyć, proszę o wskazanie zakresu, którego mam się trzymać. **Publiczne ogłoszenie partnerstwa oraz użycie nazwy i znaku stacji wymagają osobnego uzgodnienia** i bez niego ich nie użyję.
+
+Mówię też, czego taki list nie przesądza - i mówię to fundatorom tak samo jak Państwu: ryzyko, że do emisji nie dojdzie, fundator musi ocenić osobno. Na obecnym etapie adresatem listu jestem ja, jako inicjator przedsięwzięcia i fundator powoływanej Fundacji Konstela; **umowę o realizację partnerstwa zawiera już fundacja, po wpisie do rejestru**.
 
 ### Pomoc w skompletowaniu jury
 
-Szukam ludzi, którzy zawodowo zajmują się rozmową, filmem, muzyką i plakatem, a Państwa redakcje znają ich lepiej niż ja. Proszę o nazwiska i o kontakt, nie o wybór składu: **decyzja o składzie jury zostaje po stronie fundacji i nie jest przedmiotem negocjacji z żadnym partnerem**, bo niezależność oceny jest warunkiem wiarygodności całości. Dla uniknięcia nieporozumienia dodam, że pracownicy partnera edycji są wyłączeni z udziału w plebiscytach jako uczestnicy, a juror wyłącza się od oceny zgłoszenia osoby, którą zna.
+Szukam ludzi, którzy zawodowo zajmują się rozmową i krytycznym myśleniem, filmem, muzyką i plakatem, a Państwa redakcje znają ich lepiej niż ja. Proszę o nazwiska i o pomoc w nawiązaniu kontaktu - choćby przez przekazanie im mojego zaproszenia - a nie o wybór składu: **decyzja o składzie jury zostaje po stronie fundacji i nie jest przedmiotem negocjacji z żadnym partnerem**, bo niezależność oceny jest warunkiem wiarygodności całości. **Praca jury jest przewidziana jako odpłatna**; zakres, terminy i honoraria wymagają uzgodnienia z kandydatami oraz zabezpieczenia finansowania, a za zaproszenia, umowy i ostateczny skład odpowiada organizator. Dodam dla uniknięcia nieporozumienia, że pracownicy partnera edycji są wyłączeni z udziału w plebiscytach jako uczestnicy, a juror wyłącza się od oceny zgłoszenia osoby, którą zna.
 
 ### Osoba do stałego kontaktu
 
 Proszę o **wskazanie osoby, z którą mógłbym pracować na stałe nad obecnością Nagrody na antenie** - jednego punktu kontaktu, któremu zgłaszam postęp: otwarcie naboru, skład jury, pierwsze zgłoszenia, kolejne kamienie milowe, werdykt. Edycja trwa dwa lata i w tym czasie zmienia się to, co jest do pokazania; bez takiej osoby każda rozmowa zaczyna się od początku. Proszę też o skierowanie propozycji antenowych do właściwych redakcji - do oceny redakcyjnej i do wyceny.
 
 ### Odpowiedź, także odmowna
+
+Jeżeli rozpatrzenie partnerstwa wymaga dodatkowych dokumentów albo rozmowy, proszę o wskazanie, czego potrzeba i w jakim terminie mogę oczekiwać stanowiska - dostarczę to w uzgodnionej formie.
 
 Jeżeli ta rola nie jest u Państwa możliwa, wystarczy jedno zdanie - wtedy pójdę z nią dalej, zamiast czekać. Jeżeli możliwa jest tylko część, proszę o wskazanie której i z kim mam o niej rozmawiać.
 

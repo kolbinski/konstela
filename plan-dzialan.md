@@ -1113,6 +1113,20 @@ Po siódmej turze pismo zostało poukładane tak, jak podpowiadał recenzent: na
 
 **Wniosek metodyczny, trzeci w tej serii o tym samym.** Recenzent ocenia dokument z pozycji adresata i będzie zawężał to, o co go proszę - taka jest jego rola. Przyjmowanie tego zawężenia jako własnego brzmienia prośby to oddanie mu decyzji, która należy do niego dopiero po przeczytaniu pisma. **Uwagi o wadach przyjmuje się w całości, uwagi o moich celach - nie.**
 
+## Recenzent w roli autora: list intencyjny przestaje być prośbą o rozmowę (3.11.2026)
+
+Nowy prompt - recenzent czyta konstela.org wraz z podlinkowanymi stronami, przyjmuje rolę autora pisma i ma doprowadzić je do skutku opisanego w sekcji „O co proszę" - dał odpowiedź innego rodzaju niż siedem poprzednich tur: pełny alternatywny dokument, a nie listę zarzutów.
+
+**Najmocniejsza rzecz dotyczy prośby, nie zapisu.** „Gotowa rozmawiać o roli partnera" to wobec fundatora prawie nic; list ma potwierdzać **zamiar podjęcia współpracy pod warunkiem zabezpieczenia finansowania, organizacji edycji i uzgodnienia umowy**. To nadal nie jest obietnica emisji, a jest stan rzeczy, który fundator może sobie wyobrazić. Do tego zasady posługiwania się listem, których nie miałem: pokazywany w całości wraz z warunkami, nigdy jako gwarancja emisji ani zawarta umowa, z okresem ważności i zasadami użycia określonymi przez stację, przy osobnym uzgodnieniu publicznego ogłoszenia partnerstwa i użycia znaku. Adresatem listu jest dziś inicjator, a umowę zawiera fundacja po wpisie do rejestru - i to też jest w piśmie powiedziane.
+
+**Reszta przyjętych rzeczy:** odpłatność pracy jury wraz z tym, że za zaproszenia, umowy i skład odpowiada organizator; zgoda opiekuna przy udziale ucznia w materiale; wymóg, by każdy element wpisywany do umowy miał wykonawcę, finansowanie, zakres praw, termin i sposób odbioru oraz rozliczenie na wypadek niewykonania, a pozycja w kosztorysie nie była brana za potwierdzenie finansowania; otwarcie pisma zaproszeniem i prośbą o przekazanie go właściwej jednostce; umowne określenie czasu obowiązywania tytułu partnera.
+
+**Trzy rzeczy nieprzyjęte, wszystkie tego samego rodzaju - propozycja upraszczała dokument, odbierając mu to, co w nim działa.** Usunięcie konkretnego pilotażu i nazw programów cofałoby pismo do stanu, w którym redakcja nie ma czego ocenić ani wycenić. Usunięcie wyłączności zabierałoby stacji prawie wszystko, co dostaje w układzie bez pieniędzy. Skrócenie dorobku edycji do Antologii i Archiwów to ten sam błąd, który dzień wcześniej trzeba było naprawiać: po edycji zostaje też sześć innych rzeczy.
+
+**Znalezisko poza pismem: nieaktualna data gali.** Strona główna mówiła o drugiej połowie kwietnia 2028, podczas gdy regulaminy i wszystkie oferty - o drugiej połowie czerwca. Kwiecień został po harmonogramie z 26 października. Poprawione na stronie głównej i w ofercie sponsora gali („jeden kwietniowy wieczór"). W `koncepcja.md` i w `prawnik-rozmowy.md` kwiecień zostaje, bo to zapis dawnych decyzji wraz z ich datami - ale nagłówek „Gala przeniesiona na kwiecień 2028" przy treści mówiącej o czerwcu wymaga kiedyś przejrzenia całego tego dziennika.
+
+**Wniosek metodyczny.** Prompt, w którym recenzent ocenia dokument, i prompt, w którym recenzent ma doprowadzić dokument do celu, dają różne odpowiedzi: pierwszy wychwytuje wady, drugi - słabe prośby. Jedna z nich kosztuje więcej.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

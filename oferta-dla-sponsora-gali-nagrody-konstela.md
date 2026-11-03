@@ -44,7 +44,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 - **Premiera Antologii w wydaniu elektronicznym i dźwiękowym** - e-booka i audiobooka z najlepszymi rozmowami edycji, oba bezpłatne.
 - **Wystąpienia partnerów**, w tym przedstawiciela Sponsora gali.
 
-**Zapis wideo gali udostępniamy bezpłatnie.** Dla Sponsora gali jest to pozycja o wartości osobnej od samego wieczoru: nagranie zostaje dłużej niż jeden kwietniowy wieczór, jest cytowane, podawane dalej i wymieniane w materiałach kolejnych edycji, a obecność Sponsora jest w nim trwale zapisana. Dlatego rejestracja wideo i udostępnienie zapisu należą do tej roli, a nie do nikogo innego.
+**Zapis wideo gali udostępniamy bezpłatnie.** Dla Sponsora gali jest to pozycja o wartości osobnej od samego wieczoru: nagranie zostaje dłużej niż jeden czerwcowy wieczór, jest cytowane, podawane dalej i wymieniane w materiałach kolejnych edycji, a obecność Sponsora jest w nim trwale zapisana. Dlatego rejestracja wideo i udostępnienie zapisu należą do tej roli, a nie do nikogo innego.
 
 ## <!--ikona:waga--><span>Kwota</span>
 
