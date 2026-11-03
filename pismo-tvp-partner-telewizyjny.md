@@ -20,6 +20,8 @@ List będę przedstawiał potencjalnym fundatorom i mecenasom w całości, wraz 
 
 Na obecnym etapie adresatem listu jestem ja, Krzysztof Olbiński, jako inicjator przedsięwzięcia i fundator przygotowywanej Fundacji Konstela. Umowę dotyczącą realizacji partnerstwa ma zawrzeć fundacja po wpisie do rejestru.
 
+**Kiedy potrzebuję stanowiska.** Zależy mi na otwarciu naboru **na początku stycznia 2027 roku**, a przed otwarciem muszą zostać zabezpieczone nagrody - czyli muszę zdążyć z rozmowami z fundatorami, do których ten list jest potrzebny. Dlatego proszę o stanowisko **tak szybko, jak to u Państwa możliwe, najchętniej do 15 grudnia 2026 roku**; jeżeli tego terminu nie da się dochować, proszę choćby o informację, kiedy mogę go oczekiwać. Późniejsza odpowiedź niczego nie zamyka - wejście stacji w roli partnera jest możliwe także po otwarciu naboru - ale wtedy ten list przestaje mi już pomagać w tym, do czego go potrzebuję.
+
 ### Pomoc w skompletowaniu jury
 
 Proszę o wskazanie kandydatów do jury czterech plebiscytów oraz o pomoc w nawiązaniu z nimi kontaktu, na przykład przez przekazanie im mojego zaproszenia. Szukam osób zajmujących się zawodowo rozmową i krytycznym myśleniem, filmem, muzyką oraz plakatem.
