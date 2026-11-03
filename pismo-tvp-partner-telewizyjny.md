@@ -130,17 +130,9 @@ Nazywam się **Krzysztof Olbiński**, jestem programistą z dwudziestoletnim do�
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do Krajowego Rejestru Sądowego przed otwarciem naboru; **umowę podpisuje już fundacja, nie osoba prywatna**. Regulaminy mają charakter przyrzeczenia publicznego, a cały kosztorys pierwszej edycji jest jawny: arkusz budżetowy pod adresem https://konstela.org/arkusz/budzet-edycji-pierwszej pokazuje każdą pozycję wraz z formułą, a pozycje jeszcze niewycenione są w nim oznaczone jako takie.
 
-## Pozostałe role przy pierwszej edycji
-
-Gdyby ta rola nie była tą, której Państwo szukają, do objęcia są także role finansujące: fundator nagród w każdym z czterech plebiscytów, Sponsor Akademii, Mecenas Antologii, Sponsor gali, Sponsor podcastu oraz Mecenas Założycielski.
-
-Osobno role, w których partner nie wpłaca pieniędzy, lecz wnosi to, co ma: partner wydawniczy Antologii, mecenas muzyczny, partner wydawniczy płyty, partner galerii sztuki, partner dystrybucji filmów, partner streamingowy, prowadzący podcast oraz patronat medialny.
-
-Wszystkie zakresy wraz z kwotami zbiera strona https://konstela.org/dla-partnerow/. Role są rozdzielne i można objąć więcej niż jedną.
-
 ## Kontakt
 
-Regulaminy, karty oceny i cały kosztorys pierwszej edycji są jawne na konstela.org. Będę wdzięczny za rozmowę w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism.
+Regulaminy, karty oceny i cały kosztorys pierwszej edycji są jawne na konstela.org, a wszystkie role partnerskie pierwszej edycji wraz z ich zakresami i kwotami zbiera strona https://konstela.org/dla-partnerow/. Będę wdzięczny za rozmowę w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism.
 
 Pozdrawiam serdecznie
 
