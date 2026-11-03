@@ -16,7 +16,7 @@
 
   var LINKI = [
     ['/', 'Strona główna'],
-    ['/plebiscyt-rozmowy', 'Plebiscyt na rozmowę ze sztuczną inteligencją'],
+    ['/plebiscyt-rozmowy', 'Plebiscyt na najlepszą rozmowę ze sztuczną inteligencją'],
     ['/plebiscyt-filmu', 'Plebiscyt na film o sztucznej inteligencji'],
     ['/plebiscyt-piosenki', 'Plebiscyt na piosenkę o sztucznej inteligencji'],
     ['/plebiscyt-plakatu', 'Plebiscyt na plakat o sztucznej inteligencji'],
