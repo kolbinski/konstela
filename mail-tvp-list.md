@@ -19,7 +19,7 @@ Zakres obejmuje zobowiązania od stycznia 2027 do czerwca 2028, a Telewizja Pols
 
 Zakres antenowy trzeba ustalić przed otwarciem naboru, bo cykl poranny musi wejść do ramówki na cały rok. Relacja z gali i premiera teledysku to osobna rozmowa po werdykcie jury w lutym 2028.
 
-Pełny opis roli jest w załączonym pismie oraz na https://konstela.org/oferta-dla-partnera-telewizyjnego/, a regulaminy, karty oceny i cały kosztorys pierwszej edycji są jawne na konstela.org. Będę wdzięczny za rozmowę w dowolnej formie.
+Pełny opis roli jest w załączonym pismie, a regulaminy, karty oceny i cały kosztorys pierwszej edycji są jawne na konstela.org. Będę wdzięczny za rozmowę w dowolnej formie.
 
 Pozdrawiam serdecznie
 
