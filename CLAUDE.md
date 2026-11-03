@@ -28,13 +28,13 @@ Drabina ocen nazywa się: **runda uczestników → runda akademii → runda jury
 
 ## Opisy commitów
 
-Z polskimi znakami diakrytycznymi. Nazywają zmianę i jej rzeczową przyczynę; nie wspominają o recenzencie ani o recenzji zewnętrznej.
+Z polskimi znakami diakrytycznymi. Opis commitu **wyjaśnia samą zmianę i jej rzeczową przyczynę - i nic poza tym**. Nie ma w nim kontekstu, w jakim zmiana powstała: ani recenzenta i recenzji zewnętrznej, ani persony, tury, numeru uwagi, ani tego, kto o zmianę poprosił. Rzeczowa przyczyna to wada w rzeczy, którą zmieniamy - „termin był przekraczany przez sam przebieg edycji”, a nie „recenzent wskazał, że termin jest nierealny”. Zasada ustalona 3.11.2026.
 
 ## Prompty recenzji
 
 Pliki `*-prompt-recenzji.md` oraz wszystkie inne teksty przeznaczone do skopiowania i wklejenia zawierają **wyłącznie treść do wklejenia**. Żadnego nagłówka, żadnej notatki o doborze persony, żadnej linii poziomej oddzielającej komentarz od treści - komentarz utrudnia skopiowanie, bo trzeba go za każdym razem ręcznie pominąć. Plik zaczyna się od pierwszego zdania promptu.
 
-Uzasadnienie doboru persony, tego, czego prompt celowo nie robi, i tego, co zmieniło się od poprzedniej tury, należy do **opisu commitu**, nie do pliku. Zasada ustalona 1.11.2026; wtedy też usunięto komentarze z dwudziestu czterech istniejących plików.
+Uzasadnienie doboru persony, tego, czego prompt celowo nie robi, i tego, co zmieniło się od poprzedniej tury, nie wchodzi ani do pliku, ani do opisu commitu - **zapisuje się je w `recenzje-status.md`**, przy wierszu danego dokumentu, razem z personą i werdyktem. Zasada o samej treści plików ustalona 1.11.2026, wtedy też usunięto komentarze z dwudziestu czterech istniejących plików; miejsce uzasadnienia przeniesione z opisu commitu do `recenzje-status.md` 3.11.2026, bo commit opisuje zmianę, a nie okoliczności jej powstania.
 
 ## Obietnice w ofertach: pięć pytań przed dopisaniem świadczenia
 
