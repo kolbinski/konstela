@@ -6,23 +6,11 @@ Sieradz, 3 listopada 2026
 
 Telewizja Polska S.A. w likwidacji
 
-**Dotyczy: objęcia przez Telewizję Polską roli jedynego Partnera telewizyjnego pierwszej edycji Nagrody Konstela, bez przepływu pieniędzy w którąkolwiek stronę, oraz dwóch rzeczy potrzebnych mi teraz: listu intencyjnego i pomocy w skompletowaniu jury.**
-
 Szanowni Państwo,
 
-powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją, a także dla twórców filmu, piosenki i plakatu o sztucznej inteligencji. Nagradzany jest człowiek, nie maszyna: oceniane jest to, jak pyta, jak sprawdza odpowiedzi i jak zmienia kierunek. Szukam jednej stacji, która będzie towarzyszyć całej pierwszej edycji na antenie, i uważam, że właściwym miejscem dla tego przedsięwzięcia jest telewizja publiczna.
-
-## Cel tego pisma
-
-**Chcę, żeby Telewizja Polska weszła w to na etapie zalążkowym - teraz, kiedy to jeszcze nic nie kosztuje, a decyduje o tym, czy edycja powstanie.** Proszę o trzy rzeczy, w tej kolejności:
-
-1. **List intencyjny** - dokument, który pozwoli mi rozmawiać z fundatorami nagród i z mecenasami. Jest dla mnie najważniejszy, bo pierwsze pytanie, które dostaję od każdego z nich, brzmi: czy ktokolwiek to pokaże. Bez odpowiedzi na nie rozmowa o pieniądzach nie zaczyna się w ogóle.
-2. **Pomoc w skompletowaniu jury** - nazwiska i kontakty do ludzi, którzy zawodowo zajmują się rozmową, filmem, muzyką i plakatem. Państwa redakcje znają ich lepiej niż ja.
-3. **Wskazanie osoby, z którą mam rozmawiać o antenie**, i skierowanie propozycji z dalszej części pisma do właściwych redakcji - do oceny redakcyjnej i do wyceny.
-
-Pierwsze dwie rzeczy nie wymagają decyzji o ramówce ani o budżecie. Trzecia jest rozmową, nie zobowiązaniem.
-
 ## Czym jest Nagroda Konstela
+
+**Nagroda Konstela to nowa, coroczna nagroda dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją, a także dla twórców filmu, piosenki i plakatu o sztucznej inteligencji.** Nagradzany jest człowiek, nie maszyna: oceniane jest to, jak pyta, jak sprawdza odpowiedzi i jak zmienia kierunek. Do jej prowadzenia powołuję **Fundację Konstela**, utworzoną wyłącznie w tym celu.
 
 Nagroda ma cztery plebiscyty, rozstrzygane na jednej gali:
 
@@ -84,7 +72,9 @@ Przewaga czasowa i dostęp nie są wyłącznością materiału: zgłoszenia, pun
 
 Jedyna rzecz, o jaką proszę poza uzgodnionym zakresem, to **poszanowanie embarga** na werdykty do chwili ogłoszenia na gali. Wyniki są do tego momentu ukryte także przed laureatami w zakresie zajętego miejsca i jest to warunek, na jakim uczestnicy biorą udział.
 
-## Dwie rzeczy, o które proszę teraz
+## O co proszę
+
+Dwie pierwsze rzeczy są dla mnie pilne już teraz i **żadna nie wymaga decyzji o ramówce ani o budżecie**; trzecia jest rozmową, nie zobowiązaniem.
 
 ### List intencyjny
 
@@ -97,6 +87,10 @@ Jedyna rzecz, o jaką proszę poza uzgodnionym zakresem, to **poszanowanie embar
 ### Pomoc w skompletowaniu jury
 
 Szukam ludzi, którzy zawodowo zajmują się rozmową, filmem, muzyką i plakatem, a Państwa redakcje znają ich lepiej niż ja. Proszę o nazwiska i o kontakt, nie o wybór składu: **decyzja o składzie jury zostaje po stronie fundacji i nie jest przedmiotem negocjacji z żadnym partnerem**. Pracownicy partnera edycji są wyłączeni z udziału w plebiscytach jako uczestnicy, a juror wyłącza się od oceny zgłoszenia osoby, którą zna.
+
+### Osoba do stałego kontaktu
+
+Proszę o **wskazanie osoby, z którą mógłbym pracować na stałe nad obecnością Nagrody na antenie** - jednego punktu kontaktu po Państwa stronie, któremu zgłaszam postęp: otwarcie naboru, skład jury, pierwsze zgłoszenia, kamienie milowe, werdykt. Edycja trwa dwa lata i w tym czasie zmienia się to, co jest do pokazania; bez takiej osoby każda rozmowa zaczyna się od początku, a propozycje z poprzedniej sekcji trzeba za każdym razem wnosić od nowa. Proszę też o skierowanie tych propozycji do właściwych redakcji - do oceny redakcyjnej i do wyceny.
 
 ### Odpowiedź, także odmowna
 
