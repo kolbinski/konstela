@@ -42,6 +42,8 @@ Pozwoli to przechodzić od listu intencyjnego do uzgodnień wykonawczych bez roz
 
 Proszę o odpowiedź na każdą z tych próśb. Jeżeli rozpatrzenie partnerstwa wymaga dodatkowych dokumentów lub rozmowy, proszę o wskazanie, czego potrzeba i w jakim terminie mogę oczekiwać stanowiska.
 
+Jeżeli list intencyjny w opisanym brzmieniu nie jest na tym etapie możliwy, proszę o wskazanie, co jest możliwe: potwierdzenie przyjęcia propozycji do rozpatrzenia, zgoda na powoływanie się wobec fundatorów na sam fakt prowadzenia rozmów albo warunki, po których spełnieniu taki list stanie się możliwy. Każda z tych odpowiedzi jest dla mnie użyteczna, bo pozwala rozmawiać z fundatorami o stanie rzeczywistym.
+
 Jeżeli TVP nie podejmie tej roli, proszę o informację odmowną. Jeżeli zainteresowanie dotyczy części propozycji, proszę o wskazanie jej zakresu i osoby właściwej do dalszej rozmowy.
 
 ## Dlaczego proponuję tę współpracę TVP
