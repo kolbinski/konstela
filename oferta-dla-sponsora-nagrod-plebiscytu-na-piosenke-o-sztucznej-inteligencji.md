@@ -67,8 +67,17 @@ Ta rola finansuje 3 rzeczy, które warto rozpatrywać oddzielnie, bo oddzielnie 
 
 ### 1. Nagrody - 47 000 zł brutto
 
-- **Nagrody plebiscytu - 35 000 zł brutto** dla czołowej trójki werdyktu jury: **20 000 zł za pierwsze miejsce, 10 000 zł za drugie i 5 000 zł za trzecie**. Z 7 wyróżnieniami nie wiąże się nagroda pieniężna; wyróżnieni otrzymują dyplom i nagranie studyjne.
-- **Nagrody publiczności - 12 000 zł brutto**, w podziale na 10 000 zł dla zgłoszenia z największą liczbą głosów i 2 000 zł za najlepsze uzasadnienie oddanego głosu, wybierane przez 3-osobowy zespół powołany spoza jury.
+**Pula nagród - 35 000 zł brutto:**
+
+- **Nagroda główna** - 20 000 zł, medal, dyplom i nagranie studyjne
+- **Drugie miejsce** - 10 000 zł, dyplom i nagranie studyjne
+- **Trzecie miejsce** - 5 000 zł, dyplom i nagranie studyjne
+- **Siedem wyróżnień** - dyplom i nagranie studyjne, bez nagrody pieniężnej
+
+Obok puli **nagrody publiczności 12 000 zł brutto**:
+
+- **10 000 zł** dla zgłoszenia z największą liczbą głosów;
+- **2 000 zł** za najlepsze uzasadnienie oddanego głosu, wybierane przez trzyosobowy zespół powołany spoza jury.
 
 Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru. Chroni to uczestników danej edycji, a Fundatorowi daje pewność, że ogłoszona kwota jest kwotą ostateczną w dół.
 
