@@ -206,6 +206,7 @@ const OFERTY = new Set([
   'oferta-dla-prowadzacego-podcast',
   'oferta-dla-patrona-medialnego',
   'pismo-tvp-partner-telewizyjny',
+  'tvp-pakiet-pierwszego-wejscia',
 ]);
 
 const PASEK_OFERTY = `<nav class="akcje" aria-label="Zapis i wydruk">
@@ -283,7 +284,7 @@ const OPISY = {
   'oferta-dla-partnera-streamingowego':
     'Dziesięć filmów finałowych plebiscytu na film o sztucznej inteligencji w katalogu serwisu: co to za materiał, dlaczego umowę zawiera autor i czego nie obiecujemy.',
   'oferta-dla-sponsora-podcastu':
-    'Produkcja 24 odcinków podcastu towarzyszącego Nagrodzie Konstela wraz z honorarium prowadzącego: o czym jest podcast, co obejmuje rola i co otrzymuje sponsor.',
+    'Produkcja dwóch cykli podcastu towarzyszącego Nagrodzie Konstela wraz z honorarium prowadzącego: o czym jest podcast, co obejmuje rola i co otrzymuje sponsor.',
   'oferta-dla-prowadzacego-podcast':
     'Rola prowadzącego podcast Nagrody Konstela: na czym polega kwestionowanie pytań gościa, czego szukamy, a czego nie, i jak wygląda sprawa honorarium.',
   'oferta-dla-patrona-medialnego':

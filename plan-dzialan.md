@@ -1077,6 +1077,18 @@ Brak uwag blokujących wysłanie. W przyjętej roli recenzent odpowiedziałby na
 
 **Co z tego wynika dla pisma do TVP:** jest gotowe do wysłania. Zostaje PDF z opublikowanej strony, adres e-Doręczeń Telewizji Polskiej i krótka treść wiadomości, która już jest w `mail-tvp-list.md`. Po wysłaniu trzeba poprawić `mc-nota-koncepcyjna.md`, gdzie przy TVP Nauka stoi, że rozmowy nie zostały podjęte.
 
+## Siódma tura pisma do telewizji: pismo bez wad, które nie prowadziło do decyzji (3.11.2026)
+
+Po zamknięciu recenzji zadałem recenzentowi dwa pytania, których wcześniej w tej serii nie było: **czy dałby list intencyjny, o który proszę, a jeżeli nie, to dlaczego**, oraz **co zmienić w piśmie, żeby pomagało moim celom**. Odpowiedź pokazała coś, czego sześć tur o poprawności zapisów nie mogło pokazać: dokument był już bez wad i nadal nie prowadził do żadnej decyzji.
+
+**Listu na podstawie samego pisma nie dałby** - nie z powodu likwidacji ani niedokończenia projektu, lecz dlatego, że proszę o deklarację instytucjonalnego zainteresowania, które jeszcze nie powstało. Druga przeszkoda jest moja: list o gotowości do rozmowy **nie odpowiada na pytanie fundatora, czy ktokolwiek to pokaże**, a odbiorca może potraktować nazwę stacji jako zapowiedź emisji. Co by to zmieniło: wstępne zainteresowanie właściwej redakcji, ustalony przedmiot rozmów i zaakceptowane zasady pokazywania listu fundatorom.
+
+**Pięć zmian w piśmie, wszystkie o tym, co jest na początku.** Najważniejsza prośba stała po rozbudowanym katalogu dziesięciu świadczeń - dziś pismo zaczyna się sekcją „O co proszę na tym etapie" z trzema rzeczami: skierowanie propozycji czterech wejść do właściwej redakcji, wskazanie osoby do rozmowy i list intencyjny dopiero po potwierdzeniu zainteresowania. Pilotaż oddzielony od reszty: siedem pozostałych możliwości wymienionych z nazwy i podlinkowanych do strony roli, bo **przedstawione równorzędnie mnożyły powody, by przekazać sprawę dalej bez decyzji**. List powiązany z rozpoznaniem pilotażu, a nie z gotowością do rozmowy o całej roli, i z nazwanym przeznaczeniem. Rozdzielone dwie informacje dla fundatorów: zainteresowanie redakcyjne to nie zapewnienie emisji, a ryzyko braku emisji fundator ocenia osobno.
+
+**Powstał `tvp-pakiet-pierwszego-wejscia.md`** - jedna strona, którą redakcja ma do oceny: temat pierwszego wejścia i co z niego ma widz, co dostarczam, podział pracy w tabeli, warunki przed realizacją i to, czego nie zapewniam. Bohatera i materiału dziś nie ma, więc pakiet nazywa się propozycją formatu i podaje terminy: **wskazanie imienne z pisemną zgodą do 31 stycznia 2027, próbka materiału z dokumentacją praw do 14 lutego 2027**. Zdanie recenzenta, które warto trzymać przy każdej następnej ofercie: **nie dodawaj kolejnego zapewnienia - dostarcz podstawę do zainteresowania**.
+
+**Wniosek metodyczny, najcenniejszy z całej serii.** Recenzja sprawdza, czy dokument jest poprawny; nie sprawdza, czy prowadzi do decyzji, którą adresat może podjąć dzisiaj. To trzeba zapytać osobno - i to pytanie warto zadać przy każdej ofercie po zamknięciu recenzji: **o co właściwie proszę na tym etapie i czy adresat może to zrobić bez niczyjej dalszej zgody**.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

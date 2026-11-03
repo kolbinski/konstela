@@ -6,11 +6,21 @@ Sieradz, 3 listopada 2026
 
 Telewizja Polska S.A. w likwidacji
 
-**Dotyczy: towarzyszenia na antenie pierwszej edycji Nagrody Konstela, w roli jedynego Partnera telewizyjnego, bez przepływu pieniędzy w którąkolwiek stronę.**
+**Dotyczy: skierowania do oceny redakcyjnej propozycji czterech wejść antenowych o pierwszej edycji Nagrody Konstela, bez przepływu pieniędzy w którąkolwiek stronę.**
 
 Szanowni Państwo,
 
-powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie maszyna: oceniane jest to, jak pyta, jak sprawdza odpowiedzi i jak zmienia kierunek. Szukam jednej stacji, która będzie towarzyszyć całej pierwszej edycji na antenie.
+powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie maszyna: oceniane jest to, jak pyta, jak sprawdza odpowiedzi i jak zmienia kierunek.
+
+## O co proszę na tym etapie
+
+**Nie proszę o zatwierdzenie współpracy sięgającej 2028 roku ani o decyzję o całej roli partnera telewizyjnego.** Pierwsza decyzja, o którą się zwracam, jest mniejsza i składa się z trzech rzeczy:
+
+1. **Skierowanie propozycji czterech wejść do właściwej redakcji** - do oceny redakcyjnej i do wyceny produkcyjnej. Propozycja jest opisana niżej, a materiał do pierwszej decyzji zebrałem w załączonym **pakiecie pierwszego wejścia** (https://konstela.org/dokument/tvp-pakiet-pierwszego-wejscia/): temat, podział pracy, warunki i terminy.
+2. **Wskazanie osoby, z którą mam tę rozmowę prowadzić**, i zakresu, jakiego ma dotyczyć.
+3. **Po potwierdzeniu zainteresowania przez tę redakcję - ograniczony list intencyjny**, opisany w sekcji „O co proszę poza anteną". Nie proszę o niego przed taką odpowiedzią i nie traktuję przeczytania tego pisma jako podstawy do jego podpisania.
+
+Pozostała część pisma opisuje, czego ta propozycja dotyczy, czego nie obiecuję i na jakich warunkach, żeby ocena redakcyjna miała na czym się oprzeć. Szerszą rolę partnera telewizyjnego opisuję dalej jako możliwość, nie jako przedmiot dzisiejszej decyzji.
 
 ## Czym jest Nagroda Konstela
 
@@ -43,24 +53,25 @@ Dla nadawcy publicznego jest to materiał **dokumentujący zmianę w chwili, gdy
 
 **Patronat medialny nie zobowiązuje do niczego** i patronów może być kilku. **Partner telewizyjny umawia się na nazwane elementy anteny** i w zamian dostaje tytuł oraz zobowiązanie, że tego samego zestawu elementów nie zaproponuję innej stacji w tej edycji. Jeżeli wolicie towarzyszyć edycji bez zobowiązań antenowych, właściwą rolą jest patronat medialny i mówię to wprost, zamiast namawiać na szerszą.
 
-## Co proponuję do uzgodnienia
+## Propozycja do oceny: cztery wejścia w roku naboru
 
-Poniższa lista jest propozycją wyjściową, a nie żądaniem. To, co Państwo z niej wybiorą, wchodzi do umowy jako nazwane pozycje.
+**Cykl w programie porannym - najpierw pilotaż, potem decyzja o ciągu.** Materiał obejmuje wszystkie cztery plebiscyty: zgłoszone rozmowy wraz z autorami, zwiastuny filmów i spotkania z twórcami, nagrania piosenek z wykonawcami, oryginały plakatów w studiu, członków Akademii, jurorów oraz **grupy uczniowskie czytające zgłoszenia w szkołach** - tego materiału nie da się nagrać po gali, bo powstaje w trakcie czytania.
 
-1. **Cykl w programie porannym - najpierw pilotaż, potem decyzja o ciągu.** Materiał obejmuje wszystkie cztery plebiscyty: zgłoszone rozmowy wraz z autorami, zwiastuny filmów i spotkania z twórcami, nagrania piosenek z wykonawcami, oryginały plakatów w studiu, członków Akademii, jurorów oraz **grupy uczniowskie czytające zgłoszenia w szkołach** - tego materiału nie da się nagrać po gali, bo powstaje w trakcie czytania.
+Wariant, o który proszę: **cztery wejścia w roku naboru, po 6-8 minut**, kwartalnie - marzec, czerwiec, wrzesień i listopad 2027 - każde o innym plebiscycie. Na każde dostarczam bohatera, który zgodził się wystąpić, fragment pracy **wraz z prawami pozwalającymi go pokazać**, temat różny od poprzedniego oraz materiał zastępczy na wypadek odwołania przyjazdu, **najpóźniej czternaście dni przed emisją**; odpowiada za to jedna osoba po mojej stronie i jest to moje zobowiązanie w umowie. **Nie wiem, czy na początku naboru będzie co pokazać**, bo zgłoszenia wpływają dopiero po jego otwarciu. Jeżeli ten wymiar jest za duży albo za mały, proszę o wskazanie własnego.
+### Dwie rzeczy towarzyszące pilotażowi
 
-   Wariant, o który proszę: **cztery wejścia w roku naboru, po 6-8 minut**, kwartalnie - marzec, czerwiec, wrzesień i listopad 2027 - każde o innym plebiscycie. Na każde dostarczam bohatera, który zgodził się wystąpić, fragment pracy **wraz z prawami pozwalającymi go pokazać**, temat różny od poprzedniego oraz materiał zastępczy na wypadek odwołania przyjazdu, **najpóźniej czternaście dni przed emisją**; odpowiada za to jedna osoba po mojej stronie i jest to moje zobowiązanie w umowie. **Nie wiem, czy na początku naboru będzie co pokazać**, bo zgłoszenia wpływają dopiero po jego otwarciu. Jeżeli ten wymiar jest za duży albo za mały, proszę o wskazanie własnego.
-2. **Materiał dla redakcji przy czterech kamieniach milowych** - przy otwarciu naboru, ogłoszeniu składu jury, zamknięciu naboru i werdykcie. **O gwarancję obecności w serwisach informacyjnych nie proszę**: redakcja dostaje informację wcześniej niż inni i sama rozstrzyga, czy ma ona wartość informacyjną. Element ten jest w umowie **zobowiązaniem po mojej stronie, nie po Państwa**.
-3. **Zapowiedź naboru na antenie**, w wymiarze i w formie, które Państwo uznają za możliwe. O dostępność pasma nie proszę wprost, bo **zależy ona od kwalifikacji samego przekazu** - autopromocja, informacja czy przekaz handlowy - a kwalifikacja należy do Państwa.
-4. **Relacja z gali** w postaci przez Państwa wybranej - od wejścia na żywo do transmisji całości.
-5. **Prowadzący wieczór ze strony stacji** - opcjonalnie. Honorarium jest wtedy po Państwa stronie i o tę kwotę spada jawny kosztorys gali.
-6. **Podcast towarzyszący Nagrodzie** - dwa cykle odcinków, z wersją wideo, bezpłatne i publicznie dostępne, co jest u mnie warunkiem, a nie punktem do negocjacji. Przedmiotem odcinka nie są odpowiedzi sztucznej inteligencji, lecz **to, co człowiek napisze w kolejnym pytaniu**. Liczby odcinków nie podaję, bo jej nie znam: kosztorys obejmuje 72 godziny koordynacji, a produkcja i honorarium prowadzącego rozliczają się od faktycznej liczby odcinków według uzgodnionej stawki. Do uzgodnienia jest wykorzystanie odcinków albo ich fragmentów w pasmach stacji - naturalnym miejscem wydaje mi się pasmo popularnonaukowe, na przykład TVP Nauka - przy czym **publiczna dostępność nie jest licencją antenową**: zgody udzielę w zakresie, w jakim prawa należą do fundacji, wskazując, czego nie obejmują. **Nie zapewniam, że materiał będzie emisyjny**: produkcji jeszcze nie ma. **Rola prowadzącego nie jest obsadzona**, honorarium jest po mojej stronie, cykl powstanie po znalezieniu sponsora tej pozycji, a prowadzący nie ma wpływu na ocenę zgłoszeń.
-7. **Hymn Nagrody i jego teledysk.** Hymn „Zapytaj inaczej" powstaje do jednego tekstu w dwóch wersjach: muzykę pierwszej wygenerowała sztuczna inteligencja (https://konstela.org/hymn/), a drugą - nową kompozycję do tych samych słów - napiszą i nagrają muzycy, żeby dało się je na gali usłyszeć obok siebie. Premiera wypada w czasie naboru w 2027 roku; do uzgodnienia jest premiera teledysku na antenie oraz rozmowa z wykonawcami. Hymn powstanie tylko wtedy, gdy znajdzie się fundator tej pozycji, a emisja nagrania wymaga zgody wykonawców, bo prawa zostają przy nich.
-8. **Emisja nagrodzonych filmów** - możliwa, ale na osobnych zasadach: prawa zostają przy twórcach, więc umowę o emisję zawiera autor filmu, nie fundacja, i każdy film wymaga jego odrębnej zgody; mogę pomóc w dotarciu do autorów i nic więcej obiecać tu nie mogę. Osobno proponuję **relację z pokazu kuratorskiego filmów finałowych** - jednego seansu blokowego w kinie studyjnym albo instytucji kultury, ze wstępem wolnym i spotkaniem z twórcami, w ciągu trzech miesięcy po gali; zgody autorów na udział i na zdjęcia zbieram ja. **Samo nazwanie materiału relacją nie daje jednak praw do pokazania filmu** - to Państwa prawnicy rozstrzygną, jaka podstawa tu wystarcza.
-9. **Nagrodzona piosenka w pasmie muzycznym**, w wersji studyjnej - na przykład w kąciku muzycznym Teleexpressu. Nagrania studyjne dziesiątki finalistów są pozycją kosztorysu plebiscytu piosenki, więc powstaną, jeżeli ta rola zostanie obsadzona. Zastrzeżenie to samo co przy filmach: **prawa zostają przy autorze i wykonawcy**, a utwór bywa objęty zbiorowym zarządzaniem, więc emisja wymaga ich zgody i rozliczenia tantiem.
-10. **Relacja z wernisażu wystawy plakatów** - wystawa w galerii sztuki odbywa się po gali, między lipcem a wrześniem 2028, wraz z cichą licytacją oryginałów. **Nie jest ona obiecana w regulaminie i zależy od pozyskania galerii**, której dziś nie mam, oraz od pisemnej zgody autorów. Niezależnie od niej przewidziana jest wystawa prac finałowych przy gali; **wejdzie ona do umowy jako świadczenie nienaruszalne, gdy rola mecenasa plebiscytu plakatu zostanie obsadzona, a dziś nie jest**.
+- **Materiał dla redakcji przy czterech kamieniach milowych** - przy otwarciu naboru, ogłoszeniu składu jury, zamknięciu naboru i werdykcie. **O gwarancję obecności w serwisach informacyjnych nie proszę**: redakcja dostaje informację wcześniej niż inni i sama rozstrzyga, czy ma ona wartość informacyjną. Jest to **zobowiązanie po mojej stronie, nie po Państwa**.
+- **Zapowiedź naboru na antenie**, w wymiarze i w formie, które Państwo uznają za możliwe. O dostępność pasma nie proszę wprost, bo **zależy ona od kwalifikacji samego przekazu** - autopromocja, informacja czy przekaz handlowy - a kwalifikacja należy do Państwa.
+
+## Pozostałe możliwości antenowe
+
+Dalej idzie siedem rzeczy, których **dziś nie przedstawiam do decyzji**, bo każda angażuje inną redakcję i inny budżet: relacja z gali albo transmisja całości, prowadzący wieczór ze strony stacji, podcast towarzyszący Nagrodzie, hymn i jego teledysk, emisja nagrodzonych filmów wraz z relacją z pokazu kuratorskiego, nagrodzona piosenka w pasmie muzycznym oraz relacja z wernisażu wystawy plakatów.
+
+**Każdą z nich opisuję wraz z warunkami i zastrzeżeniami na stronie roli: https://konstela.org/oferta-dla-partnera-telewizyjnego/.** Nie rezygnuję z żadnej i chętnie wrócę do każdej, gdy będzie na to czas - ale wymieniam je tutaj tylko po to, żeby było jasne, czego ta propozycja nie wyczerpuje.
 
 ## Co otrzymuje Partner telewizyjny
+
+Poniższe opisuje **całą rolę, o której rozmawiamy dopiero po pilotażu**, i podaję je, żeby było wiadome, do czego ta ścieżka prowadzi:
 
 - **tytuł** jedynego Partnera telewizyjnego pierwszej edycji na stronie Nagrody, na stronach czterech plebiscytów i w materiałach prasowych;
 - **trzy świadczenia zastrzeżone wyłącznie dla Państwa stacji**, wymienione z nazwy, żeby granica dała się ustalić: **cykl prowadzony na moim materiale i z moim udziałem, w jakimkolwiek paśmie**, **premiera teledysku hymnu** oraz **przewaga czasowa** - werdykty przed publicznym ogłoszeniem, z embargiem, i zapis gali przed jego publikacją. Żadnego z tych trzech nie zaproponuję w tej edycji innej stacji, także w postaci zmienionej albo okrojonej. Wszystko pozostałe jest dostępne dla każdego: patronat medialny, relacja z gali, hymn za zgodą wykonawców, publiczne Archiwa. Ograniczenia dostępu konkurencji nie oferuję, bo nie jest ono moje do dania;
@@ -78,11 +89,15 @@ Jedyna rzecz, o jaką proszę poza uzgodnionym zakresem, to **poszanowanie embar
 
 Trzy rzeczy, które anteną nie są, a mają dla mnie teraz większą wagę niż ona.
 
-### List intencyjny
+### List intencyjny, ale po odpowiedzi redakcji
 
-Potrzebuję go, żeby rozmawiać z fundatorami nagród i z mecenasami, bo pierwsze pytanie, które dostaję, brzmi, czy ktokolwiek to pokaże. Nie proszę w nim o zobowiązanie finansowe ani o obietnicę emisji - wystarczy stwierdzenie, że Państwo znają to przedsięwzięcie i są gotowi rozmawiać o roli partnera telewizyjnego. Treść i zakres powołania się na niego są Państwa; bez zgody nie użyję go nigdzie.
+**O ten list proszę dopiero wtedy, gdy właściwa redakcja potwierdzi zainteresowanie** - nie teraz i nie na podstawie samego przeczytania tego pisma. Wystarczy mi wówczas stwierdzenie, że stację interesuje **rozpoznanie możliwości pilotażu czterech wejść**, a nie gotowość do rozmowy o całej, nieokreślonej roli; o zobowiązanie finansowe ani o obietnicę emisji nie proszę w nim wcale.
 
-### Pomoc w dotarciu do kandydatów do jury
+**Do czego go potrzebuję.** Wyłącznie do przedstawiania potencjalnym fundatorom nagród i mecenasom, w zakresie, który Państwo zaakceptują - i o ten zakres proszę wprost, zamiast zostawiać go domysłom. Poza tym użyciem nie powołam się na list nigdzie.
+
+**Dwie rzeczy, których taki list nie przesądza, i mówię to fundatorom tak samo jak Państwu.** Pierwsza: list o zainteresowaniu rozpoznaniem **nie jest zapewnieniem emisji** - fundator musi osobno ocenić ryzyko, że do niej nie dojdzie, i taki właśnie komunikat mu przekazuję. Druga: dopóki fundacja nie jest wpisana do rejestru, rozmowy prowadzą Państwo ze mną jako inicjatorem, nie z istniejącym organizatorem, i jeżeli uznają to Państwo za konieczne, niech list to stwierdza.
+
+### Pomoc w dotarciu do kandydatów do jury - prośba dodatkowa
 
 Szukam ludzi, którzy zawodowo zajmują się rozmową, filmem, muzyką i plakatem, a Państwa redakcje znają ich lepiej niż ja. Proszę o nazwiska i o kontakt, nie o wybór składu: **decyzja o składzie jury zostaje po stronie fundacji i nie jest przedmiotem negocjacji z żadnym partnerem**. Pracownicy partnera edycji są wyłączeni z udziału w plebiscytach jako uczestnicy, a juror wyłącza się od oceny zgłoszenia osoby, którą zna.
 
@@ -107,6 +122,8 @@ Po oświadczeniu nazwa znika ze strony Nagrody, z materiałów prasowych i z kom
 Osobnym i jedynym terminem jest moje zobowiązanie: o nierozstrzygnięciu edycji albo o tym, że uzgodniony zakres przestał być wykonalny, zawiadamiam Państwa pisemnie **w ciągu siedmiu dni od chwili, w której sam się o tym dowiem**.
 
 ## Pytanie o umowy wobec stanu likwidacji
+
+To pytanie **nie wymaga odpowiedzi przed rozpoznaniem propozycji** i nie jest warunkiem rozmowy o pilotażu - zadaję je, żeby nie wyszło na jaw dopiero przy umowie.
 
 Zakres obejmuje zobowiązania od stycznia 2027 **do września 2028** - do czerwca sięga gala, pokaz kuratorski filmów przypada do trzech miesięcy po niej, a wystawa plakatów między lipcem a wrześniem - a Telewizja Polska pozostaje w likwidacji. Proszę więc o wskazanie, kto po Państwa stronie może zawrzeć zobowiązanie o takim horyzoncie i co się z nim dzieje przy zmianie formy prawnej spółki.
 
