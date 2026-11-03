@@ -45,7 +45,7 @@ W każdej edycji powstaje:
 
 Nie napotkałem dotąd polskojęzycznego, jawnego zbioru zapisów rzeczywistych rozmów człowieka ze sztuczną inteligencją, opatrzonego komentarzem wyjaśniającym, co w nich było wartościowe; zastrzegam przy tym, że nie prowadziłem pełnego przeglądu rynku wydawniczego i twierdzę tylko tyle, ile sprawdziłem.
 
-Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgłoszenia, które przeszły weryfikację formalną, zostają w nim razem z jawną punktacją akademii, jury i publiczności, bez planowanego terminu zamknięcia.
+Każdy z czterech plebiscytów ma własne **publiczne Archiwum**: wszystkie zgłoszenia, które przeszły weryfikację formalną, zostają w nim razem z jawną punktacją Akademii, jury i publiczności, bez planowanego terminu zamknięcia.
 
 Archiwa, Antologia i nagrania są udostępniane bezpłatnie, bez rejestracji i bez ograniczeń dostępu, z przeznaczeniem również do wykorzystania w szkołach i w pracy badawczej. Powód jest jeden: po każdej edycji ma zostać materiał, po którym widać, jak w danym roku ludzie rozmawiali ze sztuczną inteligencją i co o niej mówili filmem, piosenką i plakatem.
 
@@ -63,7 +63,7 @@ Mówię wprost, czemu taki dokument ma służyć: zamierzam posługiwać się ni
 
 Częścią artystyczną przedsięwzięcia są cztery powiązane działania: trzy otwarte plebiscyty na najlepszy film, piosenkę i plakat o sztucznej inteligencji oraz nagranie hymnu [konstela.org/hymn](https://konstela.org/hymn/). Dochodzi do nich piąte działanie, o charakterze popularyzatorskim - podcast - które wymieniam osobno właśnie dlatego, że artystyczne nie jest.
 
-Do zakresu mojego pytania należą także te elementy gali, które są rezultatem tych działań: koncert finałowy, wystawa prac finałowych i emisja zwiastunów filmów. **Poza zakresem pytania są: plebiscyt na najlepszą rozmowę ze sztuczną inteligencją wraz z pulą nagród, Antologia i Archiwum, pierwsze przejście oceny prowadzone przez akademię, sama gala jako wydarzenie oraz wystawa w galerii sztuki wraz z cichą licytacją.** Te pozycje mają własne źródła finansowania i wymieniam je, aby było widoczne, że o te same koszty nie zwracam się jednocześnie do dwóch źródeł. Przypisanie każdej pozycji - wraz z rokiem kosztu i podziałem kwot na 2027 i 2028 - pokazuje kolumna „W zakresie pytania do MKiDN" w załączonym zestawieniu zadania.
+Do zakresu mojego pytania należą także te elementy gali, które są rezultatem tych działań: koncert finałowy, wystawa prac finałowych i emisja zwiastunów filmów. **Poza zakresem pytania są: plebiscyt na najlepszą rozmowę ze sztuczną inteligencją wraz z pulą nagród, Antologia i Archiwum, pierwsze przejście oceny prowadzone przez Akademię, sama gala jako wydarzenie oraz wystawa w galerii sztuki wraz z cichą licytacją.** Te pozycje mają własne źródła finansowania i wymieniam je, aby było widoczne, że o te same koszty nie zwracam się jednocześnie do dwóch źródeł. Przypisanie każdej pozycji - wraz z rokiem kosztu i podziałem kwot na 2027 i 2028 - pokazuje kolumna „W zakresie pytania do MKiDN" w załączonym zestawieniu zadania.
 
 ### Plebiscyt na piosenkę o sztucznej inteligencji
 
@@ -89,7 +89,7 @@ Zgłoszeniem jest link do filmu opublikowanego publicznie przez uczestnika w ser
 
 Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki, nagrody pieniężne otrzymuje czołowa trójka, a podczas gali prezentowane są zwiastuny pięciu najwyżej ocenionych filmów. Miejsce w zestawie kierowanym do pokazów kinowych, a następnie emisja u nadawcy albo na platformie streamingowej, są celami organizatora, a nie zobowiązaniami regulaminowymi: umowę zawiera wówczas uczestnik i jemu przysługują wpływy.
 
-Pierwsze przejście oceny prowadzi akademia filmu, powoływana w każdej edycji, i jest to pozycja rosnąca najszybciej wraz z liczbą zgłoszeń. Uzasadnienie odstępstwa od reguł pozostałych plebiscytów, arytmetykę pierwszego przejścia oraz kosztorys opisuje **rozdział 9 załączonej noty koncepcyjnej, „Plebiscyt na film"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#9-plebiscyt-na-film](https://konstela.org/dokument/mk-nota-koncepcyjna/#9-plebiscyt-na-film).
+Pierwsze przejście oceny prowadzi Akademia filmu, powoływana w każdej edycji, i jest to pozycja rosnąca najszybciej wraz z liczbą zgłoszeń. Uzasadnienie odstępstwa od reguł pozostałych plebiscytów, arytmetykę pierwszego przejścia oraz kosztorys opisuje **rozdział 9 załączonej noty koncepcyjnej, „Plebiscyt na film"** - [https://konstela.org/dokument/mk-nota-koncepcyjna/#9-plebiscyt-na-film](https://konstela.org/dokument/mk-nota-koncepcyjna/#9-plebiscyt-na-film).
 
 ### Hymn Nagrody
 
@@ -138,7 +138,7 @@ Dla plebiscytu na plakat o sztucznej inteligencji - program Sztuki wizualne, pon
 
 Dla plebiscytu na film o sztucznej inteligencji - program Film, przy czym tu moja niepewność jest największa i proszę o jej rozstrzygnięcie.
 
-Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a wydatki to pula nagród, pierwsze przejście oceny, honoraria jury i pokazy. Pierwsze przejście oceny, czyli obejrzenie każdego zgłoszonego filmu przez akademię filmu, wymieniam dla pełnego obrazu kosztów, lecz **nie wchodzi ono do zakresu niniejszego pytania**: jest finansowane odrębnie, przez sponsora akademii wspólnej dla wszystkich czterech plebiscytów.
+Zadanie nie obejmuje produkcji filmów: organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a wydatki to pula nagród, pierwsze przejście oceny, honoraria jury i pokazy. Pierwsze przejście oceny, czyli obejrzenie każdego zgłoszonego filmu przez Akademię filmu, wymieniam dla pełnego obrazu kosztów, lecz **nie wchodzi ono do zakresu niniejszego pytania**: jest finansowane odrębnie, przez sponsora Akademii wspólnej dla wszystkich czterech plebiscytów.
 
 Proszę o wskazanie, czy plebiscyt na film o sztucznej inteligencji o takiej konstrukcji mieści się w programie Film, czy właściwym adresatem jest w tym zakresie Polski Instytut Sztuki Filmowej, czy też - wobec tego, że rezultatem jest publiczne Archiwum i pokazy, a nie nowe filmy - bliższy byłby program z zakresu edukacji kulturalnej lub kultury cyfrowej.
 
@@ -154,7 +154,7 @@ Jeżeli zasady naboru wniosków na rok 2027 nie zostały jeszcze ogłoszone, pro
 
 Dodam, że działalność gospodarczą i fundację rozważam jako **alternatywnych wnioskodawców**, a nie jako następstwo - nie zakładam dopuszczalności przejęcia przez fundację zadania rozpoczętego przez moją działalność i o taką możliwość nie wnoszę.
 
-Proszę przy tym o stanowisko w sprawie, która dla wyboru wnioskodawcy jest rozstrzygająca. Specyfikacje programów na rok 2026 wyłączają z finansowania ze środków Ministra honoraria i wynagrodzenia osoby prowadzącej działalność gospodarczą, która sama jest beneficjentem. W kosztorysie przedsięwzięcia praca organizatora jest pozycją istotną - przy niej leży obsługa naboru, akademii i jury. **Proszę o wskazanie, czy przy wnioskodawcy będącym jednoosobową działalnością gospodarczą wynagrodzenie organizatora może stanowić koszt zadania, a jeżeli nie - czy przy wnioskodawcy będącym fundacją wynagrodzenie osoby wykonującej te czynności na jej rzecz jest kosztem dopuszczalnym.** Odpowiedź na to pytanie decyduje o formie, w jakiej będę składał ewentualny wniosek.
+Proszę przy tym o stanowisko w sprawie, która dla wyboru wnioskodawcy jest rozstrzygająca. Specyfikacje programów na rok 2026 wyłączają z finansowania ze środków Ministra honoraria i wynagrodzenia osoby prowadzącej działalność gospodarczą, która sama jest beneficjentem. W kosztorysie przedsięwzięcia praca organizatora jest pozycją istotną - przy niej leży obsługa naboru, Akademii i jury. **Proszę o wskazanie, czy przy wnioskodawcy będącym jednoosobową działalnością gospodarczą wynagrodzenie organizatora może stanowić koszt zadania, a jeżeli nie - czy przy wnioskodawcy będącym fundacją wynagrodzenie osoby wykonującej te czynności na jej rzecz jest kosztem dopuszczalnym.** Odpowiedź na to pytanie decyduje o formie, w jakiej będę składał ewentualny wniosek.
 
 ## Pytanie 3: czy Nagroda Konstela może być zadaniem dwuletnim w latach 2027-2028
 
@@ -164,7 +164,7 @@ Rozkład kosztów na lata jest następujący:
 
 - **nagranie hymnu i jego premiera** przypadają na 2027 rok, w czasie trwania naboru, bez warunkowania nim otwarcia edycji;
 - **nabór zgłoszeń** trwa przez cały 2027 rok, a przyjmowanie zgłoszeń zamyka się 10 stycznia 2028 roku;
-- **praca przy ocenie zgłoszeń dokonywana przez akademię i jury** rozkłada się na oba lata, a terminy akademii są różne w zależności od plebiscytu: akademia rozmów ocenia zgłoszenia na bieżąco w czasie naboru, od lutego 2027 do stycznia 2028, akademie piosenki i plakatu pracują po zamknięciu swoich naborów, czyli na przełomie 2027 i 2028 roku, a akademia filmu przeprowadza pierwsze przejście oceny w styczniu 2028 roku. Ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
+- **praca przy ocenie zgłoszeń dokonywana przez Akademię i jury** rozkłada się na oba lata, a terminy Akademii są różne w zależności od plebiscytu: Akademia rozmów ocenia zgłoszenia na bieżąco w czasie naboru, od lutego 2027 do stycznia 2028, akademie piosenki i plakatu pracują po zamknięciu swoich naborów, czyli na przełomie 2027 i 2028 roku, a Akademia filmu przeprowadza pierwsze przejście oceny w styczniu 2028 roku. Ocena jury przypada na styczeń i luty 2028, a rozmowy weryfikacyjne na pierwszą połowę lutego 2028, przy czym honoraria wypłacane są po wykonaniu pracy, a nie w roku jej rozpoczęcia;
 - **przesyłka oryginałów plakatów** przypada na przełom 2027 i 2028 roku, ponieważ finaliści są ogłaszani w grudniu 2027, a prace docierają na początku stycznia 2028;
 - **zamknięcie treści Antologii** i przekazanie jej do produkcji przypada na koniec lutego 2028 roku;
 - **gala finałowa** wraz z koncertem, wystawą plakatów, przesyłkami powrotnymi i wykonaniem hymnu na żywo przypada na drugą połowę czerwca 2028 roku.

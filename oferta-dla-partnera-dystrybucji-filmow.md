@@ -21,7 +21,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia filmó
 
 ## <!--ikona:projektornia--><span>Co to za filmy</span>
 
-Każdy trwa **od 20 do 90 minut** i został **nakręcony na potrzeby plebiscytu**, a nie wybrany spośród istniejących - regulamin zakazuje zgłaszania przeróbek filmów ukończonych wcześniej. Każdy ma jawną punktację akademii, jury i publiczności oraz autora, który wygrał nim miejsce w dziesiątce. Nagroda główna wynosi 100 000 zł, co ustawia poprzeczkę po stronie zgłoszeń.
+Każdy trwa **od 20 do 90 minut** i został **nakręcony na potrzeby plebiscytu**, a nie wybrany spośród istniejących - regulamin zakazuje zgłaszania przeróbek filmów ukończonych wcześniej. Każdy ma jawną punktację Akademii, jury i publiczności oraz autora, który wygrał nim miejsce w dziesiątce. Nagroda główna wynosi 100 000 zł, co ustawia poprzeczkę po stronie zgłoszeń.
 
 Jedno trzeba powiedzieć od razu: **filmy są publicznie dostępne w serwisie YouTube**, bo tego wymaga regulamin. Partner dystrybucji nie dostaje więc premiery ani wyłączności internetowej - dostaje salę, wieczór i zestaw, którego nikt wcześniej nie pokazał razem.
 

@@ -19,7 +19,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
 - film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
 - zgłaszasz **link do filmu publicznie dostępnego na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, też publicznie dostępnego
-- wszystkie zgłoszenia ogląda **akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
+- wszystkie zgłoszenia ogląda **Akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **finalistów, a ilu ich jest, wynika z rachunku**: połowa zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech - bo przy małym naborze wskazanie dziesiątki nie byłoby wyborem
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
 - na gali pięć najwyżej ocenionych filmów pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
@@ -30,7 +30,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
 
-**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
+**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i Akademii ogłaszamy przed naborem.
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron; **dziś nie przesyłasz ani pracy, ani danych do zgłoszenia**.
 
@@ -82,7 +82,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Projektorni](#projektornia-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę Akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Dwa linki: film i zwiastun
 
@@ -140,7 +140,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia filmu</h3>
-<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia filmu</strong> i przekazuje jury listę wyłonioną według zasad <a href="/dokument/regulamin-filmu#karta-oceny">karty oceny</a> – tej samej, z którą pracuje jury.</p>
+<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda Akademia filmu</strong> i przekazuje jury listę wyłonioną według zasad <a href="/dokument/regulamin-filmu#karta-oceny">karty oceny</a> – tej samej, z którą pracuje jury.</p>
 </article>
 <article>
 <h3>Jury</h3>
@@ -150,25 +150,25 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-filmu), a [karta 
 
 ### Co, jeżeli zgłoszeń będzie bardzo dużo
 
-Akademia to opłacani widzowie, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż akademia może obejrzeć. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
+Akademia to opłacani widzowie, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż Akademia może obejrzeć. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
 
 Gdyby runda uczestników się odbywała, wyglądałoby to tak:
 
 - **warunkiem rozpatrzenia Twojego zgłoszenia jest obejrzenie i ocenienie cudzych filmów w granicach ogłoszonego budżetu minut, nie więcej niż czterech** w rundzie, do której trafiło. W przydziale są jeszcze **zgłoszenia wzorcowe** ocenione wcześniej – nie wiesz które – po to, żeby dało się zmierzyć, jak oceniasz. Przydziały są losowe i ślepe: nie wybierasz, co oceniasz, i nie wiesz, kto to zrobił
 - **przydział liczymy w minutach, nie w sztukach.** Film trwa od 20 do 90 minut, więc gdybyśmy liczyli w sztukach, jeden uczestnik dostałby za ten sam obowiązek ponad cztery razy więcej pracy niż drugi. Przydział obejmuje więc cztery filmy **albo ustaloną liczbę minut – co wyczerpie się pierwsze**. Zgłoszenia wzorcowe są poza tym budżetem i dobieramy do niego wyłącznie krótsze filmy, żeby w przydziale zostało miejsce na choć jeden cudzy
 - **każde zgłoszenie dostaje co najmniej trzy oceny**, a te, którym zabrakło oceniających, dobierają ich w kolejnym przydziale. Żadne zgłoszenie nie wypada z powodu braku oceniających
-- oceniasz **tą samą jawną kartą oceny**, co akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
+- oceniasz **tą samą jawną kartą oceny**, co Akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
 - na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu; zastępcze ma zbliżoną długość, żeby odmowa nie służyła do dobierania sobie przydziału
 - **przydzielonych zgłoszeń nie wolno kopiować, publikować ani udostępniać** – ani w czasie edycji, ani potem
-- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) obejrzenia przejmuje akademia, a zgłoszenie idzie dalej
-- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża akademia własnym trybem
-- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej akademii – a akademia ocenia je **od nowa, nie znając Twoich ocen**
+- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) obejrzenia przejmuje Akademia, a zgłoszenie idzie dalej
+- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża Akademia własnym trybem
+- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej Akademii – a Akademia ocenia je **od nowa, nie znając Twoich ocen**
 
 Reguły są wspólne dla wszystkich czterech plebiscytów i opisane w jednym miejscu, żeby nie rozeszły się ze sobą: w [regulaminie rozmowy](/dokument/regulamin-rozmowy), w § 8 ust. 10c, wraz z [wyjaśnieniem całej konstrukcji](/dokument/skalowanie-oceny). Tutejsze odrębności i parametry są w [regulaminie](/dokument/regulamin-filmu), w § 8 ust. 4f i 4g.
 
 ### Dzika karta
 
-Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego obejrzenia**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to obejrzenie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem **w minutach, nie w sztukach** – bo dwadzieścia filmów po półtorej godziny to już górna granica tego, co jury zdąży obejrzeć. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
+Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek Akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego obejrzenia**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to obejrzenie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem **w minutach, nie w sztukach** – bo dwadzieścia filmów po półtorej godziny to już górna granica tego, co jury zdąży obejrzeć. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
@@ -235,11 +235,11 @@ Film i zwiastun odtwarzają się z Twojego kanału, bo kopii u siebie nie przech
 
 ### Bez liczników i bez konta
 
-W Projektorni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona oglądaniem, a przy ocenianiu przez akademię, jury i publiczność właśnie tego chcemy uniknąć. Film można oznaczyć gwiazdką i wrócić do niego później; gwiazdki zostają w przeglądarce widza i nigdy nie trafiają do nas. Listę filmów oznaczonych gwiazdką można wyeksportować i wczytać na innym urządzeniu; korzystanie z Projektorni nie wymaga konta.
+W Projektorni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona oglądaniem, a przy ocenianiu przez Akademię, jury i publiczność właśnie tego chcemy uniknąć. Film można oznaczyć gwiazdką i wrócić do niego później; gwiazdki zostają w przeglądarce widza i nigdy nie trafiają do nas. Listę filmów oznaczonych gwiazdką można wyeksportować i wczytać na innym urządzeniu; korzystanie z Projektorni nie wymaga konta.
 
 <h3 id="archiwum">Archiwum</h3>
 
-Po ogłoszeniu wyników Projektornia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim wszystko to, co było we wpisie, wraz z rokiem edycji, a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
+Po ogłoszeniu wyników Projektornia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim wszystko to, co było we wpisie, wraz z rokiem edycji, a całość **da się przeglądać i sortować** według ocen wystawionych przez Akademię, jury i publiczność.
 
 ### Kopia archiwalna u nas
 
@@ -253,7 +253,7 @@ Dopóki Twój film jest u Ciebie, **to Twój kanał zbiera wyświetlenia**. Nie 
 
 ### Jawność punktacji
 
-**Jawność ocen – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko finalistów**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
+**Jawność ocen – wystawionych przez Akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko finalistów**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego filmu</span>
 
@@ -303,7 +303,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i Akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:iskra--><span>Gala</span>
 
@@ -317,7 +317,7 @@ To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma 
 
 **Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie – z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym finaliści są zarazem całą stawką, nie byłby plebiscytem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
 
-**Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
+**Pierwszą w dniu otwarcia naboru**: ile jest pieniędzy na nagrody i czy wpłynęły już na konto, kto zasiada w jury i w Akademii, jakie są ostateczne terminy. Dopiero wtedy warto podejmować decyzję o produkcji.
 
 **Drugą wtedy, gdy co najmniej dziesięć zgłoszeń przejdzie weryfikację formalną i potwierdzimy rozstrzygnięcie edycji.** Od tej chwili ryzyko nierozstrzygnięcia znika i zostaje Ci tylko to, na co masz wpływ – czyli własny film. Nie wiemy dziś, kiedy ta wiadomość przyjdzie; nabór trwa do 30 listopada 2027 roku.
 
@@ -326,7 +326,7 @@ To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma 
 <dl class="harmonogram">
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
-<div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu</small></dd></div>
+<div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda Akademia filmu</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>datę ogłaszamy osobno: zależy od zakończenia weryfikacji wszystkich zgłoszeń i zamknięcia pierwszego przejścia oceny; głosowanie trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca z werdyktu jury</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów</small></dd></div>
@@ -341,7 +341,7 @@ Napisz, jeśli:
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz dwie wiadomości: w dniu otwarcia naboru oraz w dniu, w którym [edycja jest już pewna](#czego-od-ciebie-wymagamy-i-dlaczego)
 - **jesteś twórcą filmowym i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **prowadzisz szkołę filmową, koło filmowe, festiwal albo dom kultury** i widzisz tu coś dla swoich ludzi
-- **chcesz oglądać i oceniać zgłoszenia w akademii filmu** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz oglądać i oceniać zgłoszenia w Akademii filmu** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

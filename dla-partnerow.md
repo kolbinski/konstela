@@ -27,7 +27,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ## <!--ikona:wspolpraca--><span>Kogo i czego szukamy</span>
 
-**Szukamy firm i instytucji, które wezmą na siebie jeden konkretny element pierwszej edycji** – nagrody w jednym z plebiscytów, druk Antologii, sesje nagraniowe finalistów, salę na galę, przestrzeń na wystawę plakatów albo pokazy filmów w kinie. Szukamy też ludzi: osoby, która poprowadzi podcast, i tych, którzy zasiądą w akademii oceniającej zgłoszenia.
+**Szukamy firm i instytucji, które wezmą na siebie jeden konkretny element pierwszej edycji** – nagrody w jednym z plebiscytów, druk Antologii, sesje nagraniowe finalistów, salę na galę, przestrzeń na wystawę plakatów albo pokazy filmów w kinie. Szukamy też ludzi: osoby, która poprowadzi podcast, i tych, którzy zasiądą w Akademii oceniającej zgłoszenia.
 
 **Poniższa lista to zamknięty zbiór zakresów, a nie prośba o wsparcie w ogólności.** Każdy z nich ma swój kosztorys i każdy można wziąć w całości albo w części – w pieniądzach, w usłudze albo w świadczeniu rzeczowym. Do każdego szukamy osobnego partnera, więc wzięcie jednego nie wiąże w niczym poza nim.
 
@@ -59,7 +59,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <p class="wiecej"><a href="/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
-<h3>Sponsor akademii</h3>
+<h3>Sponsor Akademii</h3>
 <p>Pierwsza runda oceny <strong>we wszystkich plebiscytach</strong>: ludzie, którzy czytają zgłoszone rozmowy, oglądają filmy, słuchają piosenek i oglądają plakaty, zanim werdykt trafi do jury. Koszt rośnie wprost z liczbą ocenionych zgłoszeń, więc finansowanie da się oprzeć na świadczeniu rzeczowym – na przykład voucherze zakupowym za każde sto ocenionych zgłoszeń.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-akademii-nagrody-konstela">Czytaj więcej</a></p>
 </article>

@@ -24,7 +24,7 @@ Rejestr ma być urzędowy, ale nie sztywny; potoczne przezwiska mechanizmów nie
 - **rozmowy kalibracyjne** (nie „kotwice") - trzy rozmowy spoza edycji oceniane ponownie w połowie naboru i po jego zamknięciu, § 8 ust. 12-13. To osobny mechanizm od zgłoszenia wzorcowego i nazwa musi je rozróżniać: rozmowy kalibracyjne **nie** wyznaczają prawidłowej punktacji, tylko pokazują zmianę standardu oceniającego;
 - **dzika karta** zostaje - jest terminem o ustalonym znaczeniu.
 
-Drabina ocen nazywa się: **runda uczestników → runda akademii → runda jury**.
+Drabina ocen nazywa się: **runda uczestników → runda Akademii → runda jury**.
 
 ## Opisy commitów
 

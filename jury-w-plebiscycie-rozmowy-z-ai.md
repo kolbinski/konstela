@@ -9,7 +9,7 @@
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury otrzymuje od akademii listę najwyżej ocenionych rozmów, **wybiera dziesięć rozmów do Antologii i ustala ich kolejność w rankingu**; przed ogłoszeniem wyników finaliści uczestniczą w rozmowie weryfikacyjnej, którą prowadzi organizator;
+- jury otrzymuje od Akademii listę najwyżej ocenionych rozmów, **wybiera dziesięć rozmów do Antologii i ustala ich kolejność w rankingu**; przed ogłoszeniem wyników finaliści uczestniczą w rozmowie weryfikacyjnej, którą prowadzi organizator;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów, zakres uzasadnień, weryfikacji źródeł i obrad oraz zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
@@ -44,7 +44,7 @@ Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu w
 
 ### Co ocenia jury
 
-Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce Antologii i o laureatach nagród.** Przed zawarciem umowy ustalamy maksymalną liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów oraz zakres uzasadnień, weryfikacji źródeł i obrad.
+Nie wszystkie zgłoszenia w plebiscycie. **Pierwszą rundę prowadzi [Akademia](/plebiscyt-rozmowy#kto-ocenia)** – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury, i przekazuje listę najwyżej ocenionych. **Jury czyta rozmowy z tej listy, rozstrzyga o dziesiątce Antologii i o laureatach nagród.** Przed zawarciem umowy ustalamy maksymalną liczbę rozmów i ich łączną objętość, terminy udostępnienia materiałów oraz zakres uzasadnień, weryfikacji źródeł i obrad.
 
 **Rozmowę weryfikacyjną z każdym finalistą prowadzi organizator**, nie jury: do 20 minut, wyłącznie o treści zgłoszenia, już po ustaleniu werdyktu. Jej celem jest potwierdzenie, że autor rozumie wątek, który prowadził. **Rozmowa weryfikacyjna nie zmienia punktacji przyznanej przez jury**, a werdykt pozostaje przy jury; może jednak skutkować wykluczeniem zgłoszenia, jeżeli ujawni, że zgłoszony przebieg został odtworzony, a wynik był znany przed rozpoczęciem.
 
@@ -52,7 +52,7 @@ Organizator prowadzi wtedy postępowanie wyjaśniające, pisemnie wskazuje podst
 
 ### Jak jury ocenia zgłoszone rozmowy
 
-Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla akademii i dla jury. **Ostateczny kształt kryteriów, ich wag i opisów pasm rozstrzyga jury** - to wy znacie tę dziedzinę i wasz osąd jest tu rozstrzygający. Karta poniżej jest **punktem wyjścia, nie rzeczą zastaną**: możecie zmienić wagi, przepisać pasma, dodać kryterium albo usunąć je, a organizator odpowiada za zgodność waszych ustaleń z zasadami plebiscytu, ich ogłoszenie i warunki stosowania. **Granicą jest jedna data**: od dnia otwarcia naboru karta nie zmienia się do rozstrzygnięcia edycji, bo Uczestnicy zgłaszają prace, znając jej treść.
+Według [karty oceny](/dokument/regulamin-rozmowy#karta-oceny), tej samej dla Akademii i dla jury. **Ostateczny kształt kryteriów, ich wag i opisów pasm rozstrzyga jury** - to wy znacie tę dziedzinę i wasz osąd jest tu rozstrzygający. Karta poniżej jest **punktem wyjścia, nie rzeczą zastaną**: możecie zmienić wagi, przepisać pasma, dodać kryterium albo usunąć je, a organizator odpowiada za zgodność waszych ustaleń z zasadami plebiscytu, ich ogłoszenie i warunki stosowania. **Granicą jest jedna data**: od dnia otwarcia naboru karta nie zmienia się do rozstrzygnięcia edycji, bo Uczestnicy zgłaszają prace, znając jej treść.
 
 Karta jest już napisana i opublikowana, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny. Przeszła też pięć tur krytycznego czytania, które prowadzimy w sposób wymagający jasnego powiedzenia: **zadajemy modelowi językowemu rolę wymagającego czytelnika z danej dziedziny i polecamy mu rozłożyć kartę na części**. **Nie jest to recenzja ekspercka ani niezależna opinia zawodowa** - model nie ma doświadczenia jurorskiego i nie firmuje niczego nazwiskiem. Wartość tych tur polega na czym innym: każdy zarzut wskazywał konkretne zdanie karty i pokazywał, jak dwie osoby mogą je przeczytać inaczej, a to **da się sprawdzić w samym dokumencie**, bez zaufania do źródła. Czego nie zastępuje: osądu ludzi, którzy tą kartą będą oceniać - czyli waszego. Podajemy to wszystko nie po to, żeby was kartą związać, lecz żebyście nie zaczynali od pustej kartki i od pierwszego dnia wiedzieli, co macie do przyjęcia albo do zmiany. Cztery kryteria o równej wadze, łącznie 100 punktów:
 
@@ -75,7 +75,7 @@ Zastosowanie warunku wymaga zgodnej opinii co najmniej dwóch członków jury i 
 
 Nakład pracy zależy od długości zgłoszonych rozmów, dlatego do umowy wpisujemy nie tylko ich liczbę, ale i **łączną objętość**, a obok niej czas na punktację, sprawdzenie źródeł, uzasadnienia i obrady. Jury pracuje w **styczniu i lutym 2028**, rozmowy weryfikacyjne odbędą się w pierwszej połowie lutego, a udział w gali przypada na drugą połowę czerwca 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest praca nad kartą: przyjęcie albo zmiana kryteriów, wag i opisów pasm, a następnie kalibracja - wspólne omówienie przykładowych prac z rozpisaną punktacją i uzgodnienie, jak te pasma stosować.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury rozstrzyga o kryteriach, wagach i opisach pasm oraz o tym, jak się je stosuje, a organizator odpowiada za zgodność tych ustaleń z zasadami plebiscytu, za ich ogłoszenie i za warunki stosowania**. Dotychczasowa karta i przebyte recenzje są materiałem do tej pracy, a nie jej wynikiem: **zmiana wag albo przepisanie pasma na wniosek jury jest normalnym przebiegiem tego etapu**, nie wyjątkiem. Po otwarciu naboru karta nie zmienia się wcale.
+**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest praca nad kartą: przyjęcie albo zmiana kryteriów, wag i opisów pasm, a następnie kalibracja - wspólne omówienie przykładowych prac z rozpisaną punktacją i uzgodnienie, jak te pasma stosować.** Materiały posłużą jury i Akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury rozstrzyga o kryteriach, wagach i opisach pasm oraz o tym, jak się je stosuje, a organizator odpowiada za zgodność tych ustaleń z zasadami plebiscytu, za ich ogłoszenie i za warunki stosowania**. Dotychczasowa karta i przebyte recenzje są materiałem do tej pracy, a nie jej wynikiem: **zmiana wag albo przepisanie pasma na wniosek jury jest normalnym przebiegiem tego etapu**, nie wyjątkiem. Po otwarciu naboru karta nie zmienia się wcale.
 
 Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
@@ -95,7 +95,7 @@ Nie ocenia tytułu rozmowy, ilustracji ani uzasadnienia „dlaczego warte nagrod
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-rozmowy#czytelnia-i-archiwum) publikujemy wyniki poszczególnych etapów: oceny akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla rozmów, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-rozmowy#czytelnia-i-archiwum) publikujemy wyniki poszczególnych etapów: oceny Akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla rozmów, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
 ### Antologia zostaje po edycji
 

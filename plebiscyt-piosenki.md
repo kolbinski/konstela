@@ -17,7 +17,7 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 - **zespoły i duety są jak najbardziej mile widziane** – „własne” znaczy, że utwór jest wasz, a nie że jedna osoba musi zrobić wszystko: tekst może napisać ktoś inny niż ten, kto skomponował muzykę, i ktoś inny niż ten, kto śpiewa
 - szczególnie zapraszamy **twórców rozwijających własną działalność artystyczną** – tych, którzy grają, śpiewają i piszą po swojemu; nie pytamy o zasięgi, o dorobek ani o to, czy masz kontrakt
 - zgłaszasz **czytelne demo**, nie gotowy singiel – głos i instrument wystarczą
-- wszystkich zgłoszeń słucha **akademia piosenki**, a najwyżej ocenione utwory przechodzą do oceny i werdyktu jury
+- wszystkich zgłoszeń słucha **Akademia piosenki**, a najwyżej ocenione utwory przechodzą do oceny i werdyktu jury
 - jury wybiera **dziesięciu finalistów**
 - każdy finalista dostaje **profesjonalne nagranie studyjne** na koszt organizatora, a prawa do nagrania zostają przy nim
 - autorzy **trzech najwyżej ocenionych utworów** są zapraszani do wykonania ich na żywo na gali
@@ -29,7 +29,7 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
 
-**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
+**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i Akademii ogłaszamy przed naborem.
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron; **dziś nie przesyłasz ani pracy, ani danych do zgłoszenia**.
 
@@ -51,10 +51,10 @@ Temat jest szeroki – sztuczna inteligencja i to, co robi ze światem i z ludź
 
 ### Wymogi formalne
 
-Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):
+Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [Akademii](#kto-ocenia) i [jury](#kto-ocenia):
 
 - utwór trwa **od 2 do 6 minut**
-- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i każda osoba w akademii i jury musi go rozumieć. Waży najwięcej jako **rezultat**: oceniamy to, co z tekstu wyszło, a nie to, czy wystukałeś go sam, czy doszedłeś do niego w rozmowie z AI – sposobu powstania jedynie wymagamy w deklaracji
+- **tekst jest po polsku**, bo tekst waży w ocenie najwięcej i każda osoba w Akademii i jury musi go rozumieć. Waży najwięcej jako **rezultat**: oceniamy to, co z tekstu wyszło, a nie to, czy wystukałeś go sam, czy doszedłeś do niego w rozmowie z AI – sposobu powstania jedynie wymagamy w deklaracji
 - **piosenka powstaje na potrzeby tego plebiscytu** i jest ukończona w roku edycji; nie może być wcześniej wydana ani wprowadzona do dystrybucji – także cyfrowej, także bezpłatnej. Opublikowanie własnego nagrania na swoim kanale wydaniem nie jest i niczego nie blokuje, bo na tym polega samo zgłoszenie. Granie utworu na żywo też nie przeszkadza, a zgłaszanie go równolegle do innych konkursów jest dozwolone
 - nagranie pod linkiem **jest dostępne przez cały czas trwania oceny i niezmienione od dnia zamknięcia naboru** – do tego dnia możesz je poprawić, zgłaszając nam to, a oceniamy wersję ostateczną
 - **okładka jest dołączona** i masz do niej prawa
@@ -75,13 +75,13 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Słuchalni](#sluchalnia-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę Akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Link do nagrania i okładka
 
 **Przesyłasz link do nagrania na YouTube, nie plik.**
 
-**Do tego jedna okładka** – kwadratowy obrazek. To on reprezentuje Twoją piosenkę w [Słuchalni](#sluchalnia-i-archiwum) i w [Archiwum](#archiwum). Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze – musisz mieć do niej prawa. **Okładka nie podlega ocenie przez akademię i jury.**
+**Do tego jedna okładka** – kwadratowy obrazek. To on reprezentuje Twoją piosenkę w [Słuchalni](#sluchalnia-i-archiwum) i w [Archiwum](#archiwum). Może powstać dowolnie: zdjęcie, rysunek, grafika, również wygenerowana przez AI. Warunek jest jeden i ten sam co przy utworze – musisz mieć do niej prawa. **Okładka nie podlega ocenie przez Akademię i jury.**
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -105,7 +105,7 @@ Narzędzi opartych na AI wolno też używać **na etapie produkcji i obróbki**:
 
 ### Jak to sprawdzamy
 
-Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze – ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
+Nie na zasadzie, że Akademia lub jury rozpozna generator po odsłuchu, bo to byłoby zgadywanie. Podstawą jest Twoje oświadczenie, a finaliści mogą zostać poproszeni o materiały robocze – ślady, wersje, zapis pracy. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
 ## <!--ikona:kryteria--><span>Kryteria oceny</span>
 
@@ -130,7 +130,7 @@ Nie na zasadzie, że akademia lub jury rozpozna generator po odsłuchu, bo to by
 
 **Razem maksymalnie 100 punktów.**
 
-**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z akademii, które go słuchały – i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce, a przy dalszej równości – głos przewodniczącego jury.
+**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z Akademii, które go słuchały – i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Przy remisie rozstrzyga wyższa ocena w kryterium Tekst, potem w Ujęciu tematu, potem w Muzyce, a przy dalszej równości – głos przewodniczącego jury.
 
 **Czego nie oceniamy: okładki, jakości produkcji, Twoich zasięgów ani wcześniejszego dorobku.**
 
@@ -141,35 +141,35 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-piosenki), a [kar
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia piosenki</h3>
-<p><strong>Wszystkich zgłoszeń, które przeszły weryfikację formalną, słucha akademia piosenki</strong> – grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-piosenki#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób słucha jednego utworu i jak powstaje lista, mówimy przed otwarciem naboru.</p>
+<p><strong>Wszystkich zgłoszeń, które przeszły weryfikację formalną, słucha Akademia piosenki</strong> – grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-piosenki#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób słucha jednego utworu i jak powstaje lista, mówimy przed otwarciem naboru.</p>
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera dziesięciu finalistów i ustala ich kolejność.</strong> Skład kompletujemy i ogłosimy wraz z sylwetkami przed otwarciem naboru. Członek jury i członek akademii wyłącza się od oceny utworu, którego autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
+<p><strong>Jury wybiera dziesięciu finalistów i ustala ich kolejność.</strong> Skład kompletujemy i ogłosimy wraz z sylwetkami przed otwarciem naboru. Członek jury i członek Akademii wyłącza się od oceny utworu, którego autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
 </article>
 </div>
 
 ### Co, jeżeli zgłoszeń będzie bardzo dużo
 
-Akademia to opłacani słuchacze, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż akademia może przesłuchać. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
+Akademia to opłacani słuchacze, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż Akademia może przesłuchać. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
 
 Gdyby runda uczestników się odbywała, wyglądałoby to tak:
 
 - **warunkiem rozpatrzenia Twojego zgłoszenia jest przesłuchanie i ocenienie do czterech cudzych utworów** w rundzie, do której trafiło. W przydziale są jeszcze **zgłoszenia wzorcowe** ocenione wcześniej – nie wiesz które – po to, żeby dało się zmierzyć, jak oceniasz. Przydziały są losowe i ślepe: nie wybierasz, co oceniasz, i nie wiesz, kto to zrobił
 - **przydział liczymy w sztukach, nie w minutach** – utwór trwa od dwóch do sześciu minut, więc rozrzut jest niewielki i cztery zgłoszenia to dla każdego podobna praca. Inaczej jest przy rozmowach, które mogą mieć od 3 do 25 tysięcy słów, i przy filmach, które trwają od 20 do 90 minut – tam przydział liczy się w słowach i w minutach
 - **każde zgłoszenie dostaje co najmniej trzy oceny**, a te, którym zabrakło oceniających, dobierają ich w kolejnym przydziale. Żadne zgłoszenie nie wypada z powodu braku oceniających
-- oceniasz **tą samą jawną kartą oceny**, co akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
+- oceniasz **tą samą jawną kartą oceny**, co Akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
 - na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu; zastępcze ma zbliżoną długość, żeby odmowa nie służyła do dobierania sobie przydziału
 - **przydzielonych zgłoszeń nie wolno kopiować, publikować ani udostępniać** – ani w czasie edycji, ani potem
-- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) przesłuchania przejmuje akademia, a zgłoszenie idzie dalej
-- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża akademia własnym trybem
-- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej akademii – a akademia ocenia je **od nowa, nie znając Twoich ocen**
+- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) przesłuchania przejmuje Akademia, a zgłoszenie idzie dalej
+- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża Akademia własnym trybem
+- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej Akademii – a Akademia ocenia je **od nowa, nie znając Twoich ocen**
 
 Reguły są wspólne dla wszystkich czterech plebiscytów i opisane w jednym miejscu, żeby nie rozeszły się ze sobą: w [regulaminie rozmowy](/dokument/regulamin-rozmowy), w § 8 ust. 10c, wraz z [wyjaśnieniem całej konstrukcji](/dokument/skalowanie-oceny). Tutejsze odrębności i parametry są w [regulaminie](/dokument/regulamin-piosenki), w § 10 ust. 6f i 6g.
 
 ### Dzika karta
 
-Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego przesłuchania**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to przesłuchanie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
+Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek Akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego przesłuchania**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to przesłuchanie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
@@ -234,7 +234,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 **Utwory, które przeszły weryfikację formalną, umieszczamy w Słuchalni** – rosnącym zestawieniu zgłoszeń danej edycji, uzupełnianym na bieżąco przez cały rok naboru. Widać w nim Twoją okładkę, tytuł, **tekst utworu**, podpis, uzasadnienie „dlaczego warte nagrody głównej”, deklarację użycia AI, link do nagrania oraz **kontakt do Ciebie**, czyli link do Twojej strony albo profilu, jeżeli go podałeś w zgłoszeniu.
 
-**Ty decydujesz, kiedy pokazujemy tekst.** W zgłoszeniu zaznaczasz, czy ma być widoczny od razu, czy dopiero po gali. Na ocenę nie ma to wpływu – akademia i jury czytają go od początku w obu wypadkach.
+**Ty decydujesz, kiedy pokazujemy tekst.** W zgłoszeniu zaznaczasz, czy ma być widoczny od razu, czy dopiero po gali. Na ocenę nie ma to wpływu – Akademia i jury czytają go od początku w obu wypadkach.
 
 ### Katalog, nie skład nagrań
 
@@ -242,11 +242,11 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h3 id="archiwum">Archiwum</h3>
 
-**Po gali rozdania nagród Słuchalnia zamienia się w Archiwum**, dostępne bezpłatnie i bez ograniczeń. Archiwum różni się od Słuchalni trzema rzeczami: **nie rośnie** – lista zgłoszeń zamyka się w dniu werdyktu i nic już do niej nie dochodzi; **zostaje na stałe**, bez planowanego terminu zamknięcia, podczas gdy Słuchalnia żyje tylko przez jedną edycję; i **ma przy wpisach rok edycji**, żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. Do wpisu dochodzi też **punktacja** wystawiona przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
+**Po gali rozdania nagród Słuchalnia zamienia się w Archiwum**, dostępne bezpłatnie i bez ograniczeń. Archiwum różni się od Słuchalni trzema rzeczami: **nie rośnie** – lista zgłoszeń zamyka się w dniu werdyktu i nic już do niej nie dochodzi; **zostaje na stałe**, bez planowanego terminu zamknięcia, podczas gdy Słuchalnia żyje tylko przez jedną edycję; i **ma przy wpisach rok edycji**, żeby za pięć lat dało się sprawdzić, kto i co wtedy zgłosił. Do wpisu dochodzi też **punktacja** wystawiona przez Akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Całość **da się przeglądać i sortować** według ocen wystawionych przez Akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
 
 ### Jawność punktacji
 
-**Jawność ocen – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
+**Jawność ocen – wystawionych przez Akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojej piosenki</span>
 
@@ -292,7 +292,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i Akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:iskra--><span>Gala</span>
 
@@ -322,7 +322,7 @@ Napisz, jeśli:
 
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia. Adresy zapisane na tę listę trzymamy wyłącznie po to; zrezygnować można w każdej chwili, jednym zdaniem
 - **jesteś wykonawcą i masz pytanie** o zasady, terminy albo sposób zgłoszenia
-- **chcesz słuchać i oceniać zgłoszenia w akademii** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz słuchać i oceniać zgłoszenia w Akademii** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

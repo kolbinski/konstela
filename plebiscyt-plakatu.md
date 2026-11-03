@@ -31,7 +31,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
 
-**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
+**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i Akademii ogłaszamy przed naborem.
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron; **dziś nie przesyłasz ani pracy, ani danych do zgłoszenia**.
 
@@ -57,7 +57,7 @@ Temat jest szeroki – sztuczna inteligencja i to, co robi ze światem i z ludź
 
 ### Wymogi formalne
 
-**Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
+**Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [Akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 
 - praca jest **wykonana ręcznie**, techniką tradycyjną, a nie wygenerowana ani domalowana cyfrowo na wygenerowanym podkładzie
 - format **pionowy**, dłuższy bok od 50 do 150 cm, proporcje w zakresie od 1:1,2 do 1:1,6
@@ -76,7 +76,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Galerii](#galeria-i-archiwum) i w [Archiwum](#archiwum). Nie wpływa on na ocenę Akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Link do własnej sprzedaży
 
@@ -143,7 +143,7 @@ Dwa pierwsze kryteria ważą najwięcej, ale mierzą różne rzeczy: **ujęcie t
 
 **Czego nie oceniamy: Twojego dorobku, wykształcenia ani tego, czy ktoś Cię już wystawiał.**
 
-**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z akademii, które je oglądały – i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Jeżeli ktoś z jury wyłącza się od oceny Twojej pracy, bo Cię zna, jego ocena nie jest brana pod uwagę.
+**Jak liczymy wynik.** W pierwszym przejściu punkty zgłoszenia to średnia ocen osób z Akademii, które je oglądały – i z tego powstaje lista dla jury. Wśród finalistów decyduje średnia ocen jury. Jeżeli ktoś z jury wyłącza się od oceny Twojej pracy, bo Cię zna, jego ocena nie jest brana pod uwagę.
 
 Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia dokładnie, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem.
 
@@ -152,35 +152,35 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-plakatu), a [kart
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia plakatu</h3>
-<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda akademia plakatu</strong> – grono praktyków plakatu, ilustracji i projektowania graficznego, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plakatu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób ogląda jedno zgłoszenie i jak powstaje lista, mówimy przed otwarciem naboru.</p>
+<p><strong>Wszystkie zgłoszenia, które przeszły weryfikację formalną, ogląda Akademia plakatu</strong> – grono praktyków plakatu, ilustracji i projektowania graficznego, powoływane w każdej edycji. Ocenia tą samą <a href="/dokument/regulamin-plakatu#karta-oceny">kartą oceny</a> co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem: ile osób ogląda jedno zgłoszenie i jak powstaje lista, mówimy przed otwarciem naboru.</p>
 </article>
 <article>
 <h3>Jury</h3>
-<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.</strong> Członek jury i członek akademii wyłącza się od oceny pracy, której autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
+<p><strong>Jury wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki.</strong> Członek jury i członek Akademii wyłącza się od oceny pracy, której autora zna na tyle, że mogłoby to wpłynąć na ocenę.</p>
 </article>
 </div>
 
 ### Co, jeżeli zgłoszeń będzie bardzo dużo
 
-Akademia to opłacani oceniający, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż akademia może obejrzeć. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
+Akademia to opłacani oceniający, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż Akademia może obejrzeć. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
 
 Gdyby runda uczestników się odbywała, wyglądałoby to tak:
 
 - **warunkiem rozpatrzenia Twojego zgłoszenia jest obejrzenie i ocenienie do ośmiu cudzych prac** w rundzie, do której trafiło. W przydziale są jeszcze **zgłoszenia wzorcowe** ocenione wcześniej – nie wiesz które – po to, żeby dało się zmierzyć, jak oceniasz. Przydziały są losowe i ślepe: nie wybierasz, co oceniasz, i nie wiesz, kto to zrobił
 - **przydział jest tu dwa razy większy niż w pozostałych plebiscytach** – do ośmiu prac zamiast czterech – bo obejrzenie plakatu zajmuje ułamek czasu potrzebnego na rozmowę czy utwór. Większy przydział daje każdej pracy więcej niezależnych ocen, a Ciebie obciąża tyle samo. Oceniasz **plik zgłoszeniowy**, nie oryginał: oryginały oglądają tylko jurorzy i tylko u dziesięciu finalistów
 - **każde zgłoszenie dostaje co najmniej trzy oceny**, a te, którym zabrakło oceniających, dobierają ich w kolejnym przydziale. Żadne zgłoszenie nie wypada z powodu braku oceniających
-- oceniasz **tą samą jawną kartą oceny**, co akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
+- oceniasz **tą samą jawną kartą oceny**, co Akademia i jury, z uzasadnieniem przy każdym kryterium; nie ma osobnych, tajnych kryteriów. **Nie sprawdzamy, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia
 - na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu; zastępcze ma zbliżoną formę, żeby odmowa nie służyła do dobierania sobie przydziału
 - **przydzielonych zgłoszeń nie wolno kopiować, publikować ani udostępniać** – ani w czasie edycji, ani potem
-- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) obejrzenia przejmuje akademia, a zgłoszenie idzie dalej
-- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża akademia własnym trybem
-- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej akademii – a akademia ocenia je **od nowa, nie znając Twoich ocen**
+- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) obejrzenia przejmuje Akademia, a zgłoszenie idzie dalej
+- **jeżeli nie wykona ich dość dużo osób, runda nie zawęża pola** – ogłaszamy z góry, jaki odsetek runda musi osiągnąć, a poniżej tego progu pole zawęża Akademia własnym trybem
+- oceny uczestników **nie przyznają nagród i nie są werdyktem**: służą tylko do tego, które zgłoszenia trafią do opłacanej Akademii – a Akademia ocenia je **od nowa, nie znając Twoich ocen**
 
 Reguły są wspólne dla wszystkich czterech plebiscytów i opisane w jednym miejscu, żeby nie rozeszły się ze sobą: w [regulaminie rozmowy](/dokument/regulamin-rozmowy), w § 8 ust. 10c, wraz z [wyjaśnieniem całej konstrukcji](/dokument/skalowanie-oceny). Tutejsze odrębności i parametry są w [regulaminie](/dokument/regulamin-plakatu), w § 8 ust. 4m i 4n.
 
 ### Dzika karta
 
-Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego obejrzenia**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to obejrzenie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem. **Dziesiątki finalistów pula nie powiększa** – bo finał to dostarczone oryginały i miejsce na wystawie, a tego nie da się skalować razem z liczbą zgłoszeń. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
+Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które część oceniających postawi wysoko, a część nisko. Dlatego **każdy członek Akademii może raz w edycji skierować jedno zgłoszenie do obowiązkowego niezależnego obejrzenia**, wykonywanego przez kogoś innego, kto nie zna dotychczasowego wyniku ani uzasadnienia karty. Jeżeli to obejrzenie potwierdzi wartość zgłoszenia, wchodzi ono do oceny jury **ponad zwykłą liczbę miejsc**, przez osobną pulę, której wielkość ogłaszamy przed naborem. **Dziesiątki finalistów pula nie powiększa** – bo finał to dostarczone oryginały i miejsce na wystawie, a tego nie da się skalować razem z liczbą zgłoszeń. Karta nie wypiera więc nikogo z listy. Liczbę złożonych kart i liczbę zgłoszeń, które dzięki nim awansowały, podajemy w podsumowaniu edycji.
 
 <h2 id="nagrody"><!--ikona:puchar--><span>Nagrody</span></h2>
 
@@ -247,11 +247,11 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 <h3 id="archiwum">Archiwum</h3>
 
-**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji – żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję – oraz o **punktację** wystawioną przez akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Jeżeli podałeś link do własnej aukcji, widać go tu do podanej przez Ciebie daty. Całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
+**Z chwilą ogłoszenia werdyktu na gali Galeria zamyka się i przechodzi do Archiwum**, dostępnego bezpłatnie i bez planowanego terminu zamknięcia. Zostaje w nim to samo, uzupełnione o rok edycji – żeby za pięć lat dało się zobaczyć, jak w danym roku rysowano sztuczną inteligencję – oraz o **punktację** wystawioną przez Akademię, jury i publiczność, dla wszystkich zgłoszeń, a nie tylko dla finałowej dziesiątki. Jeżeli podałeś link do własnej aukcji, widać go tu do podanej przez Ciebie daty. Całość **da się przeglądać i sortować** według ocen wystawionych przez Akademię, jury i publiczność. O usunięcie swojego wpisu z Archiwum możesz poprosić w każdej chwili.
 
 ### Jawność punktacji
 
-**Jawność ocen – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
+**Jawność ocen – wystawionych przez Akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podpisanie zgłoszenia pseudonimem.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojego plakatu</span>
 
@@ -307,7 +307,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i Akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:iskra--><span>Gala</span>
 
@@ -342,7 +342,7 @@ Napisz, jeśli:
 
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **rysujesz i masz pytanie** o zasady, terminy albo sposób zgłoszenia
-- **chcesz oglądać i oceniać zgłoszenia w akademii plakatu** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz oglądać i oceniać zgłoszenia w Akademii plakatu** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 

@@ -8,7 +8,7 @@
 
 Jest to rola najbardziej widoczna w całym przedsięwzięciu, bo nagrodę wymienia się w każdej wzmiance o plebiscycie, a wysokość puli jest tym, co decyduje, czy w ogóle napiszą.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** - rola opisana na tej stronie - finansuje pulę i pracę jury. **Fundator akademii** pierwszą rundę oceny we wszystkich czterech plebiscytach, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: [Antologię, Archiwum i podcast](/oferta-dla-mecenasa-antologii-nagrody-konstela). Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **Fundator nagrody** - rola opisana na tej stronie - finansuje pulę i pracę jury. **Fundator Akademii** pierwszą rundę oceny we wszystkich czterech plebiscytach, **sponsor gali** salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: [Antologię, Archiwum i podcast](/oferta-dla-mecenasa-antologii-nagrody-konstela). Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -29,7 +29,7 @@ Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane s�
 
 Ocena przebiega w dwóch rundach.
 
-1. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty.
+1. Pierwszą prowadzi **Akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty.
 2. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera dziesiątkę Antologii.
 
 **Fundator nie ma wpływu ani na skład jury, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
@@ -62,7 +62,7 @@ Obok puli:
 
 Poza nagrodami rola obejmuje **honoraria jury**, **promocję naboru** i **prowadzenie plebiscytu przez cały rok**:
 
-- rekrutację jury i akademii oraz kalibrację ocen;
+- rekrutację jury i Akademii oraz kalibrację ocen;
 - obsługę panelu oceny;
 - weryfikację formalną zgłoszeń;
 - rozmowy weryfikacyjne z finalistami;
@@ -133,7 +133,7 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile 
 
 **Punkt kontrolny w połowie naboru.** Do 30 czerwca 2027 Fundator dostaje informację o liczbie zgłoszeń zakwalifikowanych do tego dnia. Jeżeli nabór wyraźnie odstaje od założenia, **niewydana część płatnego dotarcia zostaje przekierowana** na kanały, które zgłoszenia faktycznie dowiozły, i piszemy o tym Fundatorowi przed wydaniem pieniędzy. Jeżeli natomiast **żaden kanał niczego nie dowiózł**, przekierowywać nie ma dokąd i wtedy robimy co innego: przedstawiamy Fundatorowi propozycję zmiany sposobu dotarcia wraz z tym, czego się nauczyliśmy, a jeżeli jej nie przyjmie - niewydana część pozycji wraca do niego w rozliczeniu zamiast zostać wydana na powtórzenie tego, co nie działa. Liczbę zakwalifikowanych zgłoszeń widać zresztą codziennie w czytelni, bez pytania nas o raport.
 
-**Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
+**Prowadzenie plebiscytu to 327 godzin pracy** rozłożonych na piętnaście miesięcy: rekrutacja jury i Akademii, próba kalibracyjna, obsługa panelu oceny i przydziałów, archiwizacja i weryfikacja formalna zgłoszeń, korespondencja z uczestnikami, postępowania szczególne, koordynacja rundy drugiej, rozmowy weryfikacyjne z dziesiątką finalistów, rozliczenia i sprawozdanie dla sponsorów, komunikacja i media. **Osobno, poza tymi godzinami, stoi 125 godzin na Czytelnię i Archiwum rozmów**: ich budowę, prowadzenie oraz skraper, który pobiera kopię archiwalną każdego zgłoszenia.
 
 **Dlaczego Czytelnia i Archiwum są w tym kosztorysie, a nie we wspólnych narzędziach.** Do 31 października 2026 budowa archiwum rozmów stała w budżecie Antologii, a skraper w budżecie uruchomienia - czyli trwały rezultat tego plebiscytu zależał od tego, czy znajdą się dwaj inni partnerzy. Od tej daty **każdy plebiscyt buduje i utrzymuje własną ścianę i własne Archiwum, rozłącznie i niezależnie od pozostałych**, a kopie archiwalne zgłoszeń przechowuje przez pięć lat we własnym magazynie. Trwały rezultat tej roli - Czytelnia, Archiwum i kopie archiwalne - nie zależy więc od żadnego innego partnera. Nie znaczy to, że cały plebiscyt jest samowystarczalny, i poniżej mówimy dokładnie, co od kogo zależy.
 
@@ -166,7 +166,7 @@ Dwóch recenzentów po kolei zarzuciło tej ofercie to samo: że obiecuje rezult
 
 **Fundacja - zależność bezwzględna, ale nie Państwa ryzyko.** Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody i to ona podpisuje umowę. Jej powołanie, obsługa i weryfikacja statutu należą do roli [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela). Jeżeli fundacji nie będzie, **nie ma z kim podpisać umowy i nie ma żadnej wpłaty** - ryzykiem jest to, że przedsięwzięcie nie ruszy, a nie to, że Państwa pieniądze są w nim uwięzione.
 
-**Pierwsza runda oceny - zależność realna i to ona jest sednem zarzutu.** Przy dwudziestu i mniej zgłoszeniach regulamin akademii nie powołuje: każdy juror czyta wszystko, a honoraria jury są w tej ofercie. Powyżej dwudziestu zgłoszeń potrzebna jest Akademia, której rozmowowa część kosztuje **51 520 zł** i należy do roli [Sponsora Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela). Rozwiązujemy to trzema zapisami:
+**Pierwsza runda oceny - zależność realna i to ona jest sednem zarzutu.** Przy dwudziestu i mniej zgłoszeniach regulamin Akademii nie powołuje: każdy juror czyta wszystko, a honoraria jury są w tej ofercie. Powyżej dwudziestu zgłoszeń potrzebna jest Akademia, której rozmowowa część kosztuje **51 520 zł** i należy do roli [Sponsora Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela). Rozwiązujemy to trzema zapisami:
 
 1. **Nabór nie otwiera się bez pokrycia pierwszej rundy.** Od 31 października 2026 jest to czwarty warunek otwarcia naboru w regulaminie, obok pokrytej puli nagród, ogłoszonego jury i konsultacji prawnej. Bez niego nabór mógłby ruszyć z opłaconą pulą i bez środków na przeczytanie zgłoszeń.
 2. **Fundator może objąć ten blok sam**, aneksem do umowy: kwota rośnie wtedy o 51 520 zł do **657 822,88 zł netto**, a górny limit zobowiązania do 700 000 zł. Jest to prawo, nie obowiązek, i nie korzystając z niego Fundator niczego nie traci.
@@ -200,7 +200,7 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 - **wypłatę ogłoszonej puli nagród** wraz z Nagrodą Uczniowską i nagrodami publiczności, bo ogłoszona pula jest przyrzeczeniem publicznym;
 - **jawna punktacja każdego etapu oceny przy każdym zgłoszeniu**, uzasadnienie werdyktu wskazujące, w których miejscach ostateczna kolejność odbiega od kolejności punktowej i dlaczego, oraz **granice tego odstępstwa zapisane w regulaminie**: zgłoszenie może wyprzedzić wyłącznie te, których średnia jest wyższa od jego własnej o nie więcej niż pięć punktów na sto, licząc **względem kolejności punktowej, a nie po każdej kolejnej zamianie**, więc serie przestawień nie obejdą tej granicy; każde odstępstwo wymaga jednomyślności składu, a nagrodę główną może otrzymać wyłącznie zgłoszenie z pierwszej trójki według średniej. Zgłoszenie z 75 punktami nie wyprzedzi zgłoszenia z 95 ani wprost, ani w kilku krokach;
-- **przeprowadzenie oceny w trybie przewidzianym regulaminem i ogłoszenie werdyktu** w terminie z regulaminu, wraz z uzasadnieniami jury. Tryb zależy od liczby zgłoszeń i jest ogłoszony przed naborem: przy więcej niż dwudziestu zgłoszeniach są dwie rundy, akademia i jury; przy dwudziestu i mniej akademii się nie powołuje, a każdy juror ocenia wszystkie zgłoszenia. Nienaruszalne jest to, że **każde zgłoszenie czyta człowiek, według tej samej jawnej karty oceny, a żadne nie zostaje odrzucone na podstawie jednego odczytu bez zabezpieczeń ogłoszonych przed pierwszym ocenianiem**. Ile odczytów przypada na zgłoszenie, zależy od skali naboru i jest ogłoszone przed jego otwarciem: do 200 zgłoszeń każde czytają co najmniej dwie osoby; powyżej 200 pierwsza runda jest odczytem wstępnym jednoosobowym, a drugi odczyt jest obowiązkowy dla wszystkiego, co osiągnęło próg lub mieści się w paśmie tuż poniżej, oraz dla losowo wybranej co najmniej jednej dziesiątej zgłoszeń odrzuconych - a jeżeli ta kontrola zmienia kwalifikację, zakres kontroli rośnie i Organizator wraca do trybu dwóch odczytów. Przy założeniu stu pięćdziesięciu zgłoszeń z kosztorysu obowiązuje tryb dwóch odczytów;
+- **przeprowadzenie oceny w trybie przewidzianym regulaminem i ogłoszenie werdyktu** w terminie z regulaminu, wraz z uzasadnieniami jury. Tryb zależy od liczby zgłoszeń i jest ogłoszony przed naborem: przy więcej niż dwudziestu zgłoszeniach są dwie rundy, Akademia i jury; przy dwudziestu i mniej Akademii się nie powołuje, a każdy juror ocenia wszystkie zgłoszenia. Nienaruszalne jest to, że **każde zgłoszenie czyta człowiek, według tej samej jawnej karty oceny, a żadne nie zostaje odrzucone na podstawie jednego odczytu bez zabezpieczeń ogłoszonych przed pierwszym ocenianiem**. Ile odczytów przypada na zgłoszenie, zależy od skali naboru i jest ogłoszone przed jego otwarciem: do 200 zgłoszeń każde czytają co najmniej dwie osoby; powyżej 200 pierwsza runda jest odczytem wstępnym jednoosobowym, a drugi odczyt jest obowiązkowy dla wszystkiego, co osiągnęło próg lub mieści się w paśmie tuż poniżej, oraz dla losowo wybranej co najmniej jednej dziesiątej zgłoszeń odrzuconych - a jeżeli ta kontrola zmienia kwalifikację, zakres kontroli rośnie i Organizator wraca do trybu dwóch odczytów. Przy założeniu stu pięćdziesięciu zgłoszeń z kosztorysu obowiązuje tryb dwóch odczytów;
 - **publiczne Archiwum zgłoszeń**, opisane niżej co do zawartości, terminu i okresu utrzymania.
 
 **Minimalny trwały rezultat, pięć rzeczy wprost.** Nazwa Fundatora stoi przy rzeczy, która ma zostać po edycji, więc mówimy dokładnie, czym ona jest:
@@ -241,7 +241,7 @@ Poza tytułem:
 - **Wręczenie nagrody głównej przez przedstawiciela Fundatora** na gali, wraz z wystąpieniem o tym, dlaczego firma postanowiła ufundować nagrodę za rozmowy z AI.
 - **Wymienienie przy każdej wzmiance o puli nagród** w materiałach Organizatora - a pula jest tym, co media cytują najczęściej.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
-- **Udział pracowników Fundatora** w akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
+- **Udział pracowników Fundatora** w Akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
 - **Jedno spotkanie zespołu Fundatora z laureatami** - do dwóch godzin, w siedzibie Fundatora albo zdalnie, w ciągu sześciu miesięcy od ogłoszenia werdyktu, z udziałem laureata i jednego jurora; organizację i koszt przyjazdu pokrywa ta oferta. **Spotkanie nie zależy od gali** i odbywa się także wtedy, gdy gali nie będzie. Jedno zastrzeżenie, bo inaczej obiecywalibyśmy cudzą obecność: udział laureata jest dobrowolny i jeżeli odmówi, proponujemy spotkanie z jurorem oraz z autorem innej rozmowy z dziesiątki.
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
@@ -254,7 +254,7 @@ Poza tytułem:
 
 Fundator nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. Nie otrzymuje wglądu w zgłoszenia przed ich publicznym udostępnieniem ani informacji o wynikach przed galą.
 
-Rola nie obejmuje trzech pozostałych plebiscytów, Antologii, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Archiwum i Czytelnia **rozmów** są natomiast w tej ofercie, opisane wyżej co do zawartości, terminu i okresu utrzymania; osobne są Archiwa pozostałych trzech plebiscytów, każde przy swoim plebiscycie. Nie obejmuje też pierwszej rundy oceny, którą finansuje sponsor akademii; honoraria jury za ocenę w rundzie drugiej są natomiast w tej ofercie.
+Rola nie obejmuje trzech pozostałych plebiscytów, Antologii, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Archiwum i Czytelnia **rozmów** są natomiast w tej ofercie, opisane wyżej co do zawartości, terminu i okresu utrzymania; osobne są Archiwa pozostałych trzech plebiscytów, każde przy swoim plebiscycie. Nie obejmuje też pierwszej rundy oceny, którą finansuje sponsor Akademii; honoraria jury za ocenę w rundzie drugiej są natomiast w tej ofercie.
 
 Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
@@ -273,7 +273,7 @@ Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencj
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły</small></dd></div>
 <div><dt>Styczeń - grudzień 2027</dt><dd>Nabór zgłoszeń<small>rozmowy przeprowadzone w 2027 roku; zgłoszenia przyjmowane do 10 stycznia 2028</small></dd></div>
-<div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykt<small>pierwsza runda akademii, następnie jury; rozmowy weryfikacyjne z dziesiątką finalistów</small></dd></div>
+<div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykt<small>pierwsza runda Akademii, następnie jury; rozmowy weryfikacyjne z dziesiątką finalistów</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, wręczenie nagród, premiera Antologii</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>
 </dl>

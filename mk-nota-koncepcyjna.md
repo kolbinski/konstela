@@ -54,7 +54,7 @@ Wszystkie trzy plebiscyty artystyczne odpowiadają na jedno pytanie - co w tej w
 
 ### Kryteria oceny
 
-Cztery kryteria o równej wadze, po 25 punktów każde, łącznie 100 punktów, te same dla akademii i dla jury. **Opisy przedziałów ocen wraz z przykładami ich zastosowania powstaną z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostają niezmienne do rozstrzygnięcia edycji.
+Cztery kryteria o równej wadze, po 25 punktów każde, łącznie 100 punktów, te same dla Akademii i dla jury. **Opisy przedziałów ocen wraz z przykładami ich zastosowania powstaną z udziałem jury, przed otwarciem naboru**, i od dnia ogłoszenia karty oceny pozostają niezmienne do rozstrzygnięcia edycji.
 
 1.  **Rozpiętość** - jak nieoczywiste i jak uzasadnione jest połączenie, które rozmowa wykonała. Liczy się trudność połączenia, a nie odległość między nazwami dziedzin; wartościowe połączenie może przebiegać również wewnątrz jednej dziedziny, jeżeli przed rozmową nie było widoczne.
 2.  **Drążenie** - czy uczestnik dopytuje, kwestionuje i wraca do porzuconych wątków, zamiast przyjmować pierwszą odpowiedź.
@@ -83,7 +83,7 @@ Publiczny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną,
 Obecność w czytelni jest warunkiem udziału, a nie wyborem uczestnika; uczestnik decyduje wyłącznie o tym, czy podpisuje się nazwiskiem, czy pseudonimem. Archiwum różni się od czytelni dwiema rzeczami:
 
 1.  **prezentuje treść rozmowy**, to jest kopię sporządzoną przez Organizatora przy zgłoszeniu, obok linku do wersji opublikowanej przez uczestnika - kopia jest treścią, link potwierdzeniem, a razem dają zapis, który nie znika, gdy uczestnik usunie udostępnienie albo gdy dostawca zmieni zasady udostępniania rozmów.
-2.  **da się je przeglądać**, w tym według ocen wystawionych przez akademię, jury i publiczność.
+2.  **da się je przeglądać**, w tym według ocen wystawionych przez Akademię, jury i publiczność.
 
 **Jawność punktacji dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki, i jest warunkiem udziału ogłoszonym przed otwarciem naboru.**
 
@@ -143,23 +143,23 @@ Organizator wykorzystuje modele językowe wyłącznie do weryfikacji warunków f
 
 #### Wyłączenie powiązań
 
-W Nagrodzie nie mogą brać udziału organizator, członkowie organów fundacji, członkowie jury i akademii, osoby współpracujące przy obsłudze edycji, a także organy i pracownicy fundatora nagród oraz pozostałych partnerów wnoszących środki - wraz z osobami im najbliższymi. Patronat honorowy nie powoduje takiego wyłączenia: nie wiąże się z finansowaniem ani z wpływem na ocenę, więc pracownicy i studenci instytucji obejmującej Nagrodę patronatem mogą w niej startować.
+W Nagrodzie nie mogą brać udziału organizator, członkowie organów fundacji, członkowie jury i Akademii, osoby współpracujące przy obsłudze edycji, a także organy i pracownicy fundatora nagród oraz pozostałych partnerów wnoszących środki - wraz z osobami im najbliższymi. Patronat honorowy nie powoduje takiego wyłączenia: nie wiąże się z finansowaniem ani z wpływem na ocenę, więc pracownicy i studenci instytucji obejmującej Nagrodę patronatem mogą w niej startować.
 
-Niezależnie od tego oceniający nie ocenia zgłoszenia osoby, którą zna osobiście, i ma obowiązek taką okoliczność zgłosić; rozstrzyga to, czy bezstronność mogłaby zostać podważona, a nie czy w ocenie oceniającego została naruszona. Przed rozpoczęciem pracy każdy członek akademii i jury składa oświadczenie w tej sprawie, a ocena wydana z naruszeniem tej zasady jest nieważna i zostaje powtórzona.
+Niezależnie od tego oceniający nie ocenia zgłoszenia osoby, którą zna osobiście, i ma obowiązek taką okoliczność zgłosić; rozstrzyga to, czy bezstronność mogłaby zostać podważona, a nie czy w ocenie oceniającego została naruszona. Przed rozpoczęciem pracy każdy członek Akademii i jury składa oświadczenie w tej sprawie, a ocena wydana z naruszeniem tej zasady jest nieważna i zostaje powtórzona.
 
 #### Rozmowa weryfikacyjna
 
 Przed ogłoszeniem wyników organizator rozmawia z każdym z dziesięciu finalistów o treści jego zgłoszenia. Rozmowa sprawdza, czy uczestnik rozumie własne zgłoszenie, i nie zmienia punktacji przyznanej przez jury. Nie jest to moment wykrywania inscenizacji: osobne postępowanie w tej sprawie wszczyna się wyłącznie z sygnału, pisemnie, z ciężarem wykazania po stronie organizatora, a w razie wątpliwości zgłoszenie zostaje.
 
-## 4. Kto ocenia: akademia i jury
+## 4. Kto ocenia: Akademia i jury
 
 Ocena przebiega w dwóch rundach i prowadzą je dwa różne gremia.
 
 ### Akademia - pierwsza runda oceny
 
-Zgłoszeń będzie więcej, niż jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi akademia: grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem.
+Zgłoszeń będzie więcej, niż jury jest w stanie przeczytać, dlatego pierwszą rundę prowadzi Akademia: grono czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - którzy oceniają rozmowy według tej samej jawnej karty oceny co jury. Co do zasady każde zgłoszenie czyta co najmniej dwie osoby, a rozbieżność powyżej ustalonego progu uruchamia ocenę trzecią; przy bardzo dużej liczbie zgłoszeń regulamin przewiduje odczyt wstępny wraz z zabezpieczeniami przed pochopnym odrzuceniem.
 
-Przed rozpoczęciem pracy akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, które rozstrzyga o dziesiątce Antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co akademia i jury rozstrzygają, decyduje o Antologii i o nagrodach, a nie o obecności w Archiwum.
+Przed rozpoczęciem pracy Akademia przechodzi kalibrację na rozmowach spoza edycji, żeby skala punktowa znaczyła dla wszystkich to samo. Rozmowy ocenione najwyżej trafiają do jury, które rozstrzyga o dziesiątce Antologii i o laureacie. Archiwum nie jest przy tym zasilane selekcyjnie: obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, wraz z jawną punktacją wystawioną na każdym etapie oceny - to, co Akademia i jury rozstrzygają, decyduje o Antologii i o nagrodach, a nie o obecności w Archiwum.
 
 ### Jury - profil składu
 
@@ -172,7 +172,7 @@ Grupa osób, dobranych tak, by rozmowa oceniana była z czterech różnych stron
 
 Jury rozstrzyga o wynikach i podpisuje komentarze towarzyszące rozmowom w Antologii.
 
-Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za weryfikację formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie akademia i jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
+Podział ról jest w regulaminie rozstrzygnięty jednoznacznie: **organizator odpowiada wyłącznie za weryfikację formalną** (liczba słów, język, kompletność), a za ocenę merytoryczną wyłącznie Akademia i jury. Organizator nie dokonuje wstępnej selekcji ani nie wskazuje jury zgłoszeń wyróżnionych.
 
 ## 5. Nagrody
 
@@ -210,7 +210,7 @@ Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/a
 
 Akademię finansuje odrębny podmiot, ponieważ jej koszt rośnie wprost z liczbą zgłoszeń, a nie z wielkością nagrody - świadczeniem mogą tu być także vouchery rzeczowe, co otwiera rozmowę z innym rodzajem partnera niż fundator puli.
 
-Realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji Antologii, nie pozwoliłaby zebrać jury ani akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny.
+Realizacja pierwszej edycji zależy od zabezpieczenia wskazanego zakresu finansowania. Świadomie nie opisuję wariantu minimalnego: nagroda o symbolicznej puli, bez gali i bez produkcji Antologii, nie pozwoliłaby zebrać jury ani Akademii, a więc rozsypałaby konstrukcję, na której stoi wiarygodność oceny.
 
 Regulamin przewiduje natomiast, że edycja nie zostaje rozstrzygnięta, jeżeli warunki nie zostaną spełnione - wolę nie otworzyć naboru, niż otworzyć go w skali, która nie pozwala dotrzymać obietnicy.
 
@@ -222,7 +222,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 ### Część artystyczna jest poza tym budżetem
 
-Powyższe 1 103 586,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film). Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
+Powyższe 1 103 586,80 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film). Jeden wyjątek wymieniam wprost: pierwsze przejście oceny filmów mieści się w budżecie Akademii, a więc w kwocie powyżej, żeby nie liczyć go dwa razy. Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
 
 Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa plebiscytu na plakat o sztucznej inteligencji i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję.
 
@@ -275,7 +275,7 @@ Nagroda premiuje świadome korzystanie z tych narzędzi, nie powstrzymywanie si�
 
 ### Kryteria oceny
 
-Cztery kryteria, łącznie 100 punktów, te same dla akademii i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła też kilka tur krytycznego czytania, które polega na zadaniu modelowi językowemu roli wymagającego czytelnika z danej dziedziny i poleceniu mu wskazania pasm nierozstrzygalnych; **nie jest to recenzja ekspercka ani niezależna opinia zawodowa**, a jej wartość polega na tym, że każdy zarzut wskazywał konkretne zdanie karty i dał się sprawdzić w samym dokumencie. **O ostatecznym kształcie kryteriów, ich wag i opisów pasm rozstrzyga jury** - dotychczasowa karta jest punktem wyjścia, a zmiana wag albo przepisanie pasma na wniosek jury należy do normalnego przebiegu etapu przygotowawczego. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji.** Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis.
+Cztery kryteria, łącznie 100 punktów, te same dla Akademii i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła też kilka tur krytycznego czytania, które polega na zadaniu modelowi językowemu roli wymagającego czytelnika z danej dziedziny i poleceniu mu wskazania pasm nierozstrzygalnych; **nie jest to recenzja ekspercka ani niezależna opinia zawodowa**, a jej wartość polega na tym, że każdy zarzut wskazywał konkretne zdanie karty i dał się sprawdzić w samym dokumencie. **O ostatecznym kształcie kryteriów, ich wag i opisów pasm rozstrzyga jury** - dotychczasowa karta jest punktem wyjścia, a zmiana wag albo przepisanie pasma na wniosek jury należy do normalnego przebiegu etapu przygotowawczego. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji.** Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis.
 
 1.  **Ujęcie tematu** - maksymalnie 20 punktów. Oryginalność i konkretność spojrzenia na życie ze sztuczną inteligencją: czy za emocją kryje się konkretna obserwacja albo przekonująca historia, czy gotowy schemat.
 2.  **Tekst** - maksymalnie 30 punktów. Język, obraz, konstrukcja oraz to, jak tekst współpracuje z muzyką.
@@ -333,7 +333,7 @@ Nagrody w plebiscytach są w rozumieniu ustawy o podatku dochodowym od osób fiz
 
 ### Honoraria jury
 
-Jurorzy plebiscytu otrzymują wynagrodzenie za ocenę zgłoszeń, tak jak jury i akademia oceniające rozmowy. **Odrębnie wynagradzany jest etap przygotowawczy**, przypadający przed otwarciem naboru: opracowanie karty oceny, wag kryteriów i opisów przedziałów punktowych, które powstają z udziałem jury i są jawne od dnia ogłoszenia naboru. W arkuszu budżetowym stanowi on osobną pozycję w każdym z czterech plebiscytów. Wysokość obu honorariów nie jest jeszcze ustalona, ponieważ zależy od liczebności jury; punktem odniesienia jest stawka przyjęta dla jury. Pozycja dotycząca hymnu obejmuje produkcję nagrania i teledysku i jest odrębna zarówno od honorarium za ocenianie, jak i od honorarium za wykonanie na żywo podczas gali.
+Jurorzy plebiscytu otrzymują wynagrodzenie za ocenę zgłoszeń, tak jak jury i Akademia oceniające rozmowy. **Odrębnie wynagradzany jest etap przygotowawczy**, przypadający przed otwarciem naboru: opracowanie karty oceny, wag kryteriów i opisów przedziałów punktowych, które powstają z udziałem jury i są jawne od dnia ogłoszenia naboru. W arkuszu budżetowym stanowi on osobną pozycję w każdym z czterech plebiscytów. Wysokość obu honorariów nie jest jeszcze ustalona, ponieważ zależy od liczebności jury; punktem odniesienia jest stawka przyjęta dla jury. Pozycja dotycząca hymnu obejmuje produkcję nagrania i teledysku i jest odrębna zarówno od honorarium za ocenianie, jak i od honorarium za wykonanie na żywo podczas gali.
 
 ### Płyta jest odpowiednikiem Antologii
 
@@ -357,11 +357,11 @@ Otwarty plebiscyt na plakat o sztucznej inteligencji i jej roli w świecie, wyko
 
 Praca nie może być wygenerowana, przemalowana z obrazu wygenerowanego ani domalowana na wydrukowanym podkładzie - i to jest zakaz sprawdzalny, bo opiera się na nagraniu z powstawania pracy i na oględzinach oryginałów finalistów. Natomiast **korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy, nie jest zakazane, lecz objęte obowiązkiem deklaracji**: uczestnik opisuje, do czego ich użył, deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji. Zakaz obejmujący etap poszukiwań byłby niesprawdzalny - nikt nie jest w stanie ustalić, czego ktoś szukał, zanim wziął pędzel - więc karałby wyłącznie uczciwych. Jest to ta sama konstrukcja co w plebiscycie na film, przy mocniejszym zakazie dotyczącym samego wykonania pracy.
 
-Format jest pionowy, dłuższy bok od 50 do 150 cm. Wszystkie zgłoszenia ogląda akademia plakatu, powoływana w każdej edycji, i przekazuje jury listę węższą według tej samej karty oceny; wybór dziesięciu finalistów i kolejność całej dziesiątki pozostają przy jury; kryteria oceny są ogłaszane przed naborem, tak samo jak w pozostałych plebiscytach.
+Format jest pionowy, dłuższy bok od 50 do 150 cm. Wszystkie zgłoszenia ogląda Akademia plakatu, powoływana w każdej edycji, i przekazuje jury listę węższą według tej samej karty oceny; wybór dziesięciu finalistów i kolejność całej dziesiątki pozostają przy jury; kryteria oceny są ogłaszane przed naborem, tak samo jak w pozostałych plebiscytach.
 
 ### Kryteria oceny
 
-Cztery kryteria, łącznie 100 punktów, te same dla akademii i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła też kilka tur krytycznego czytania, które polega na zadaniu modelowi językowemu roli wymagającego czytelnika z danej dziedziny i poleceniu mu wskazania pasm nierozstrzygalnych; **nie jest to recenzja ekspercka ani niezależna opinia zawodowa**, a jej wartość polega na tym, że każdy zarzut wskazywał konkretne zdanie karty i dał się sprawdzić w samym dokumencie. **O ostatecznym kształcie kryteriów, ich wag i opisów pasm rozstrzyga jury** - dotychczasowa karta jest punktem wyjścia, a zmiana wag albo przepisanie pasma na wniosek jury należy do normalnego przebiegu etapu przygotowawczego. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji.** Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis.
+Cztery kryteria, łącznie 100 punktów, te same dla Akademii i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła też kilka tur krytycznego czytania, które polega na zadaniu modelowi językowemu roli wymagającego czytelnika z danej dziedziny i poleceniu mu wskazania pasm nierozstrzygalnych; **nie jest to recenzja ekspercka ani niezależna opinia zawodowa**, a jej wartość polega na tym, że każdy zarzut wskazywał konkretne zdanie karty i dał się sprawdzić w samym dokumencie. **O ostatecznym kształcie kryteriów, ich wag i opisów pasm rozstrzyga jury** - dotychczasowa karta jest punktem wyjścia, a zmiana wag albo przepisanie pasma na wniosek jury należy do normalnego przebiegu etapu przygotowawczego. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji.** Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis.
 
 1.  **Ujęcie tematu** - maksymalnie 30 punktów. Co praca mówi o życiu ze sztuczną inteligencją: trafność, oryginalność i pogłębienie wypowiedzi.
 2.  **Pomysł plastyczny** - maksymalnie 30 punktów. Przełożenie wypowiedzi na obraz, metaforę i relacje między elementami. Niżej punktowane jest banalne użycie motywu, a nie sam motyw: znany symbol użyty świeżo punktuje wysoko.
@@ -384,7 +384,7 @@ Praca pozostaje własnością autora, wraz z prawami autorskimi i prawem do sprz
 
 Składu jeszcze nie ma i nie wymieniam nikogo, dopóki nie potwierdzi udziału na piśmie. Zapowiadana jest natomiast zasada: w jury zasiadają praktycy plakatu i ilustracji. Werdykt należy do jury, nie do głosowania publiczności, z tego samego powodu co w pozostałych plebiscytach - przy głosowaniu wygrywa największy zasięg, a nie najlepsza praca.
 
-Pierwsze przejście oceny przeprowadza **akademia plakatu, powoływana w każdej edycji** - szersze grono praktyków, które ogląda wszystkie zgłoszenia według tej samej karty oceny i przekazuje jury listę węższą; wybór finalistów i werdykt pozostają przy jury. Jest to ta sama konstrukcja, która obsługuje nabór w pozostałych plebiscytach, i to ona, a nie zwiększanie nakładu pracy organizatora, odpowiada za skalowalność plebiscytu.
+Pierwsze przejście oceny przeprowadza **Akademia plakatu, powoływana w każdej edycji** - szersze grono praktyków, które ogląda wszystkie zgłoszenia według tej samej karty oceny i przekazuje jury listę węższą; wybór finalistów i werdykt pozostają przy jury. Jest to ta sama konstrukcja, która obsługuje nabór w pozostałych plebiscytach, i to ona, a nie zwiększanie nakładu pracy organizatora, odpowiada za skalowalność plebiscytu.
 
 ### Okładka Antologii
 
@@ -461,11 +461,11 @@ Druku Antologii, który jest pozycją części wydawniczej, ani kosztów samej l
 
 ## 9. Plebiscyt na film
 
-Otwarty plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo formie mieszanej. **Film trwa od 20 do 90 minut.** Dolna granica istnieje dlatego, że bez niej kilkuminutowa etiuda konkurowałaby z pełnym metrażem według tej samej karty oceny; górna - dlatego, że akademia filmu ma obejrzeć wszystkie zgłoszenia, a nie wybrane.
+Otwarty plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo formie mieszanej. **Film trwa od 20 do 90 minut.** Dolna granica istnieje dlatego, że bez niej kilkuminutowa etiuda konkurowałaby z pełnym metrażem według tej samej karty oceny; górna - dlatego, że Akademia filmu ma obejrzeć wszystkie zgłoszenia, a nie wybrane.
 
 ### Kryteria oceny
 
-Trzy kryteria punktowane dodatnio, łącznie 100 punktów, te same dla akademii filmu i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła też kilka tur krytycznego czytania, które polega na zadaniu modelowi językowemu roli wymagającego czytelnika z danej dziedziny i poleceniu mu wskazania pasm nierozstrzygalnych; **nie jest to recenzja ekspercka ani niezależna opinia zawodowa**, a jej wartość polega na tym, że każdy zarzut wskazywał konkretne zdanie karty i dał się sprawdzić w samym dokumencie. **O ostatecznym kształcie kryteriów, ich wag i opisów pasm rozstrzyga jury** - dotychczasowa karta jest punktem wyjścia, a zmiana wag albo przepisanie pasma na wniosek jury należy do normalnego przebiegu etapu przygotowawczego. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji.** Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis. Opisy kryteriów uwzględnią przy tym różnice między dokumentem, fabułą, animacją i esejem filmowym.
+Trzy kryteria punktowane dodatnio, łącznie 100 punktów, te same dla Akademii filmu i dla jury. Karty oceny są napisane i opublikowane, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny; każda przeszła też kilka tur krytycznego czytania, które polega na zadaniu modelowi językowemu roli wymagającego czytelnika z danej dziedziny i poleceniu mu wskazania pasm nierozstrzygalnych; **nie jest to recenzja ekspercka ani niezależna opinia zawodowa**, a jej wartość polega na tym, że każdy zarzut wskazywał konkretne zdanie karty i dał się sprawdzić w samym dokumencie. **O ostatecznym kształcie kryteriów, ich wag i opisów pasm rozstrzyga jury** - dotychczasowa karta jest punktem wyjścia, a zmiana wag albo przepisanie pasma na wniosek jury należy do normalnego przebiegu etapu przygotowawczego. **Od dnia ogłoszenia karta pozostaje niezmienna do rozstrzygnięcia edycji.** Przed pierwszą oceną przeprowadzana jest kalibracja: wspólne omówienie przykładowych zgłoszeń z rozpisaną punktacją, bo różnicy między sąsiednimi liczbami w obrębie pasma nie wyznaczy żaden opis. Opisy kryteriów uwzględnią przy tym różnice między dokumentem, fabułą, animacją i esejem filmowym.
 
 1.  **Teza** - maksymalnie 35 punktów. Co film mówi o sztucznej inteligencji i jej roli w świecie. Niżej punktowane jest banalne ujęcie tematu, a nie sam temat.
 2.  **Forma** - maksymalnie 35 punktów. Jak film wykorzystuje montaż, obraz, dźwięk, rytm i czas trwania do budowania znaczeń oraz doświadczenia widza.
@@ -511,7 +511,7 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 
 ### Pierwsze przejście oceny
 
-**Pierwsze przejście oceny prowadzi akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji.** Wynika to z arytmetyki: film do 90 minut, mnożony przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, daje pracę, której kilkuosobowe jury nie wykona. Koszt ten rośnie wprost z naborem i jest w budżecie wyodrębniony razem z pierwszą rundą oceny rozmów, u tego samego sponsora akademii.
+**Pierwsze przejście oceny prowadzi Akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji.** Wynika to z arytmetyki: film do 90 minut, mnożony przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, daje pracę, której kilkuosobowe jury nie wykona. Koszt ten rośnie wprost z naborem i jest w budżecie wyodrębniony razem z pierwszą rundą oceny rozmów, u tego samego sponsora Akademii.
 
 **Praca jury jest ograniczona co do rozmiaru, żeby dała się wycenić.** Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Dwadzieścia filmów po najwyżej 90 minut to 30 godzin oglądania; bez takiego limitu honorarium jury byłoby funkcją liczby zgłoszeń, a więc niemożliwe do przedstawienia w kosztorysie.
 
@@ -523,7 +523,7 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 | Nagrody publiczności: 10 000 zł dla zgłoszenia z największą liczbą głosów i 2 000 zł za najlepsze uzasadnienie głosu | 12 000 zł |
 | Medal zwycięzcy i dyplomy dziesięciu finalistów | 1 200 zł |
 | Honoraria jury za ocenę zgłoszeń | do ustalenia |
-| Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, budowa i prowadzenie Projektorni oraz Archiwum filmów, pobranie i opis kopii archiwalnych, dotarcie do szkół filmowych i festiwali - razem 367,5 godziny | 80 850 zł |
+| Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa Akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, budowa i prowadzenie Projektorni oraz Archiwum filmów, pobranie i opis kopii archiwalnych, dotarcie do szkół filmowych i festiwali - razem 367,5 godziny | 80 850 zł |
 | Pokaz kuratorski filmów finałowych w postaci gwarantowanej: seans z wyboru dziesiątki, wstęp wolny, przyjazd twórców | 12 000 zł |
 | Magazyn kopii archiwalnych filmów, pięć lat retencji, bez publicznego udostępniania | 7 500 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu | 3 000 zł |
@@ -538,9 +538,9 @@ Dwie uwagi do tego kosztorysu.
 
 ### Czego ten kosztorys nie obejmuje
 
-Produkcji filmów - organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a to jest dla oceny wniosku rozstrzygające: wydatki to pula nagród, ocena, honoraria jury i pokazy. Nie obejmuje też pierwszego przejścia oceny, które stoi w budżecie akademii, żeby nie liczyć go dwa razy.
+Produkcji filmów - organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a to jest dla oceny wniosku rozstrzygające: wydatki to pula nagród, ocena, honoraria jury i pokazy. Nie obejmuje też pierwszego przejścia oceny, które stoi w budżecie Akademii, żeby nie liczyć go dwa razy.
 
-**Akademia filmu jest w tym przedsięwzięciu pozycją najszybciej rosnącą.** Przepustowość objęta kosztorysem to 300 obejrzeń po około 2 godziny każde, czyli 90 tys. zł honorariów przy stawce 300 zł za obejrzenie z wypełnieniem karty oceny. Budżet akademii rośnie z tego powodu z 49 280 zł do 160 160 zł. Tabela w [arkuszu budżetowym](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-akademii) pokazuje, co się dzieje przy kolejnych wolumenach, i wniosek z niej jest jednoznaczny: przy kilkuset zgłoszeniach trzeba zmienić konstrukcję pierwszego przejścia, a nie mnożyć stawkę. Mówię to wprost, zamiast przedstawiać kosztorys, który działa tylko przy jednej liczbie zgłoszeń.
+**Akademia filmu jest w tym przedsięwzięciu pozycją najszybciej rosnącą.** Przepustowość objęta kosztorysem to 300 obejrzeń po około 2 godziny każde, czyli 90 tys. zł honorariów przy stawce 300 zł za obejrzenie z wypełnieniem karty oceny. Budżet Akademii rośnie z tego powodu z 49 280 zł do 160 160 zł. Tabela w [arkuszu budżetowym](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-Akademii) pokazuje, co się dzieje przy kolejnych wolumenach, i wniosek z niej jest jednoznaczny: przy kilkuset zgłoszeniach trzeba zmienić konstrukcję pierwszego przejścia, a nie mnożyć stawkę. Mówię to wprost, zamiast przedstawiać kosztorys, który działa tylko przy jednej liczbie zgłoszeń.
 
 **Dlaczego pula jest tu najwyższa ze wszystkich trzech plebiscytów artystycznych.** Zgłoszeniem jest film trwający co najmniej 20 minut, zwykle powstały w zespole, i to jedyny z tych plebiscytów, w którym uczestnik ponosi realne koszty produkcji - a organizator nie zwraca ich ani przed, ani po plebiscycie. Nagroda jest więc jedynym świadczeniem po jego stronie.
 
@@ -604,7 +604,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - zamknięcie zgłoszeń rozmów: 10 stycznia 2028
 - ocena jury w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: styczeń i luty 2028
 - rozmowy weryfikacyjne z autorami najwyżej ocenionych rozmów: pierwsza połowa lutego 2028
-- pierwsze przejście oceny filmów przez akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
+- pierwsze przejście oceny filmów przez Akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
 - oględziny oryginałów i werdykt jury plakatu: początek lutego 2028
 - werdykt jury piosenki: luty 2028
 - **zamknięcie treści Antologii i przekazanie do produkcji: 31 maja 2028** - od tego dnia treści nie da się już zmienić

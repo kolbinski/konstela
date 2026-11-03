@@ -95,7 +95,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu przez cały rok naboru**:
 
 - kontrolę formalną zgłoszeń filmów i korespondencję z autorami;
 - weryfikację historii zgłoszonego filmu, czyli sprawdzenie, czy nie jest przeróbką pracy ukończonej wcześniej;
-- obsługę akademii filmu i jury wraz z przydziałami i kalibracją ocen;
+- obsługę Akademii filmu i jury wraz z przydziałami i kalibracją ocen;
 - obsługę głosowania publiczności i wyboru najlepszego uzasadnienia;
 - zebranie zwiastunów piątki najwyżej ocenionych filmów i złożenie bloku galowego;
 - złożenie zestawu filmów finałowych i rozmowy z dystrybutorami;
@@ -173,7 +173,7 @@ Jedna rzecz nie zależy od tamtej roli. Przejazd i nocleg twórców filmów poka
 | Dotarcie do szkół filmowych i festiwali                        |            50 |
 | **Razem**                                                      |     **367,5** |
 
-Stawka 220 zł za godzinę jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu. Najcięższa pozycja po stronie pracy to **obsługa akademii i jury, 60 godzin**: w plebiscycie filmowym ocena jednego zgłoszenia zajmuje tyle, ile trwa film, więc przydziały trzeba rozpisać tak, żeby żaden oceniający nie dostał dwudziestu godzin materiału.
+Stawka 220 zł za godzinę jest jednakowa we wszystkich budżetach Nagrody i jawna w arkuszu. Najcięższa pozycja po stronie pracy to **obsługa Akademii i jury, 60 godzin**: w plebiscycie filmowym ocena jednego zgłoszenia zajmuje tyle, ile trwa film, więc przydziały trzeba rozpisać tak, żeby żaden oceniający nie dostał dwudziestu godzin materiału.
 
 ### Cztery pozycje czekają na wycenę albo ustalenie
 
@@ -210,7 +210,7 @@ Archiwum zbierane jest natomiast w publiczną playlistę odsyłającą do kanał
 
 Dotyczy to puli nagród, nagród publiczności oraz medalu i dyplomów, czyli 193 200 zł. **Praca organizatora, honorarium zespołu oceniającego uzasadnienia, magazyn kopii archiwalnych i rezerwa, czyli 106 438,68 zł netto, płatne są etapami po odbiorze, w trzech częściach:**
 
-1. **Po ogłoszeniu składu jury i akademii oraz uruchomieniu Projektorni.**
+1. **Po ogłoszeniu składu jury i Akademii oraz uruchomieniu Projektorni.**
 2. **Po zamknięciu naboru oraz zakończeniu weryfikacji formalnej i weryfikacji historii zgłoszonych filmów.**
 3. **Po przyjęciu sprawozdania z rozliczenia edycji** - reszta zadań oraz rezerwa.
 
@@ -293,7 +293,7 @@ Poza tytułem:
 - **Obecność przy bloku zwiastunów** piątki najwyżej ocenionych filmów - to jest moment gali, który sala pamięta najdłużej.
 - **Wymienienie przy każdej wzmiance o puli nagród plebiscytu** w materiałach Organizatora.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
-- **Udział pracowników Fundatora** w akademii filmu, na tych samych zasadach co pozostali widzowie, oraz spotkanie zespołu z finalistami.
+- **Udział pracowników Fundatora** w Akademii filmu, na tych samych zasadach co pozostali widzowie, oraz spotkanie zespołu z finalistami.
 - **Wyłączność w kategorii, ograniczona do ról finansujących**: przez całą edycję żadna firma z branży Fundatora nie obejmie roli, która wnosi pieniądze. **Partnerstwa niepieniężne są z wyłączności wyłączone** - emisja, dystrybucja i patronat medialny - bo Nagroda zabiega o partnera telewizyjnego i platformę, a pełna wyłączność dla operatora telewizji z własną platformą **zablokowałaby właśnie te role**. W zamian Fundator ma **prawo pierwszej odmowy**: zanim zaproponujemy takie partnerstwo firmie z jego branży, pytamy jego, czy nie chce go objąć sam.
 - **Pierwszeństwo przy drugiej edycji**: 60 dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
@@ -330,7 +330,7 @@ Fundator nie nabywa praw do zgłoszonych filmów. Prawa zostają w całości prz
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na pulę<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu pięciu warunków regulaminowych z § 15; od tego dnia Projektornia rośnie o każde zgłoszenie, które przeszło weryfikację formalną</small></dd></div>
 <div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia; w dniu zamknięcia zapisywana jest metryka każdego zgłoszenia</small></dd></div>
-<div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda akademia filmu i przekazuje jury nie więcej niż 20 filmów</small></dd></div>
+<div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda Akademia filmu i przekazuje jury nie więcej niż 20 filmów</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>trwa do godziny 12:00 w dniu gali; liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści i czołowa trójka; finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, blok zwiastunów piątki najwyżej ocenionych filmów, wręczenie nagród, premiera Antologii</small></dd></div>

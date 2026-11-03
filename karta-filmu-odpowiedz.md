@@ -18,4 +18,4 @@ Kosztorys dostał osobną pozycję: 150 zł za godzinę wykazanych sprawdzeń tw
 
 Co do generowania przyjmuję Pana rozstrzygnięcie bez zastrzeżeń i uważam je za ważne: nie można jednocześnie oceniać wyłącznie rezultatu i oczekiwać, że punktacja potwierdzi osobisty wkład człowieka. Karta tego nie udaje, a stylistycznych oznak generowania nie traktujemy jako dowodu pochodzenia - wymóg autorstwa jest warunkiem formalnym opartym na deklaracji, nie kryterium oceny.
 
-Pytanie jest jedno: czy po tej przebudowie zostaje w karcie coś, co trzeba zmienić, zanim akademia filmu dostanie ją do ręki - a jeżeli nie, czy trzy filmy do kalibracji opisane przez Pana jako dokument z twierdzeniami, fikcja bez nich i film formalnie niejednoznaczny wystarczą, czy dobrałby Pan je inaczej po tych zmianach.
+Pytanie jest jedno: czy po tej przebudowie zostaje w karcie coś, co trzeba zmienić, zanim Akademia filmu dostanie ją do ręki - a jeżeli nie, czy trzy filmy do kalibracji opisane przez Pana jako dokument z twierdzeniami, fikcja bez nich i film formalnie niejednoznaczny wystarczą, czy dobrałby Pan je inaczej po tych zmianach.

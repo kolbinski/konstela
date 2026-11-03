@@ -1,12 +1,12 @@
 # Skalowanie oceny przy dużym naborze - szkic struktury
 
-Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga - rundy uczestników - weszła 31.10.2026 do regulaminu plebiscytu rozmowy, a 1.11.2026 do pozostałych trzech, jako mechanizm włączany ogłoszeniem przed otwarciem naboru; w pierwszej edycji pozostaje wyłączona we wszystkich czterech. Część pierwsza, poniżej, jest nadal szkicem.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością akademii.
+Dokument roboczy, zaczęty 21.10.2026 i rozbudowany 31.10.2026. **Część druga - rundy uczestników - weszła 31.10.2026 do regulaminu plebiscytu rozmowy, a 1.11.2026 do pozostałych trzech, jako mechanizm włączany ogłoszeniem przed otwarciem naboru; w pierwszej edycji pozostaje wyłączona we wszystkich czterech. Część pierwsza, poniżej, jest nadal szkicem.** Powstała z pytania „co, jeśli zgłoszeń będzie setki tysięcy" i z błędu, który przy tej okazji wyszedł: dzika karta nie skaluje się z wielkością Akademii.
 
 ## Problem w jednym zdaniu
 
 Przy trzystu czytających punkty przestają być porównywalne - jeden daje dobrej rozmowie siedem, drugi dziewięć, i nie wynika to z rozmów, tylko z surowości czytelnika. Zwykłe posortowanie po punktach ustawiłoby w czołówce ludzi, którzy trafili na łagodnego oceniającego. Kalibracja i rozmowy kalibracyjne z § 8 ust. 12-13 to zmniejszają, ale przy takiej skali nie wystarczą.
 
-Drugi problem, **rozstrzygnięty 1.11.2026**: dzika karta przysługiwała każdemu członkowi akademii i kierowała zgłoszenie wprost do jury ponad limit, więc **rosła liniowo z liczebnością akademii**, podczas gdy jury ma stale 3-5 osób. Dziś jest prawem do niezależnego drugiego odczytu w akademii, a do jury wchodzi wyłącznie pula o wielkości ogłoszonej przed naborem (§ 8 ust. 11). Opis poniżej zachowuję, bo pokazuje, skąd wzięła się zmiana. Trzystu czytających to trzysta kart do pięciu ludzi, ponad zgłoszeniami zakwalifikowanymi punktowo. To samo zalewa Archiwum, bo karta kwalifikuje do rundy drugiej, a Archiwum to właśnie runda druga - i każda taka rozmowa wymaga jeszcze drugiego odczytu przed publikacją (§ 11 ust. 11 lit. h).
+Drugi problem, **rozstrzygnięty 1.11.2026**: dzika karta przysługiwała każdemu członkowi Akademii i kierowała zgłoszenie wprost do jury ponad limit, więc **rosła liniowo z liczebnością Akademii**, podczas gdy jury ma stale 3-5 osób. Dziś jest prawem do niezależnego drugiego odczytu w Akademii, a do jury wchodzi wyłącznie pula o wielkości ogłoszonej przed naborem (§ 8 ust. 11). Opis poniżej zachowuję, bo pokazuje, skąd wzięła się zmiana. Trzystu czytających to trzysta kart do pięciu ludzi, ponad zgłoszeniami zakwalifikowanymi punktowo. To samo zalewa Archiwum, bo karta kwalifikuje do rundy drugiej, a Archiwum to właśnie runda druga - i każda taka rozmowa wymaga jeszcze drugiego odczytu przed publikacją (§ 11 ust. 11 lit. h).
 
 ## Proponowana struktura: jeden stopień więcej
 
@@ -14,7 +14,7 @@ Dziś: Akademia -> jury. Proponowane (tylko dla bardzo dużego naboru):
 
 **Stopień 0 - weryfikacja formalna.** Mechaniczna, na `dialog.json`: liczba słów i wypowiedzi, język, ciągłość wątku, okno rozmów, duplikat rozmowy, jedno zgłoszenie na osobę. Narzędzia AI wyłącznie **oznaczają** podejrzenia z § 6 pkt 9-12; każde odrzucenie potwierdza człowiek. Przepustowość praktycznie nieograniczona.
 
-**Stopień 1 - odczyt wstępny.** Każde zgłoszenie czyta jeden członek akademii, przeciw jednemu pytaniu: czy jest w tej rozmowie moment, w którym człowiek doszedł do czegoś, czego nie wiedział na wejściu, i czy da się go wskazać. Około pięciu minut na rozmowę. **To jedyny stopień rosnący z liczbą zgłoszeń - i rośnie liczbą ludzi, nie czasem.** Zabezpieczenia jak dziś: pasmo pod progiem dostaje drugi odczyt, plus losowy audyt części odrzuconych.
+**Stopień 1 - odczyt wstępny.** Każde zgłoszenie czyta jeden członek Akademii, przeciw jednemu pytaniu: czy jest w tej rozmowie moment, w którym człowiek doszedł do czegoś, czego nie wiedział na wejściu, i czy da się go wskazać. Około pięciu minut na rozmowę. **To jedyny stopień rosnący z liczbą zgłoszeń - i rośnie liczbą ludzi, nie czasem.** Zabezpieczenia jak dziś: pasmo pod progiem dostaje drugi odczyt, plus losowy audyt części odrzuconych.
 
 **Stopień 2 - runda zbieżności.** Wszystko, co przeszło odczyt wstępny, czyta **ten sam, stały zespół** (propozycja: 20 osób) pełną kartą oceny, po dwa odczyty na zgłoszenie. Oceny stają się porównywalne, bo wystawiają je te same osoby na tym samym materiale. To jest sedno całego układu.
 
@@ -51,11 +51,11 @@ To ma być **czwarty tryb w § 8 ust. 10**, a nie przebudowa paragrafu. Dopóki 
 ## Czego ta notatka nie rozstrzyga
 
 - progu włączenia nowego trybu,
-- czy zespół zbieżności rekrutuje się z akademii odczytu wstępnego, czy powoływany jest odrębnie,
+- czy zespół zbieżności rekrutuje się z Akademii odczytu wstępnego, czy powoływany jest odrębnie,
 - jak zapewnić, by skład zespołu zbieżności był stały przez całą rundę (choroba, rezygnacja),
 - czy przy przebudowie dzikiej karty na prawo do drugiego odczytu podnieść audyt losowy z 1/10 na więcej, i na ile.
 
-Powiązane: skalowanie akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](/dokument/koncepcja), sekcja o MEN.
+Powiązane: skalowanie Akademii przez Ministerstwo Edukacji, uczelnie i emerytowanych nauczycieli - w [koncepcji](/dokument/koncepcja), sekcja o MEN.
 
 ---
 
@@ -148,13 +148,13 @@ Oceny z rund uczestników **nie przyznają żadnej nagrody**. Decydują wyłącz
 
 Po wpisaniu rundy uczestników do regulaminu przeszedłem ją pod kątem oszustw, a niezależnie przeczytał ją ktoś, kto jej nie pisał. Razem **szesnaście pozycji**, z czego trzy były sprzecznościami z innymi przepisami tego samego regulaminu, a jedna groziła nierozstrzygnięciem edycji. Wszystkie zostały zamknięte w brzmieniu z 1.11.2026 - zapis poniżej jest po to, żeby przy kolejnych zmianach nie odtworzyć ich z powrotem.
 
-**Sprzeczności.** Automatyczne sprawdzanie spójności łamało § 8 ust. 8 (patrz wyżej). Warunek zakończenia rund „aż pole zejdzie do przepustowości akademii" łamał § 8 ust. 10, bo przepustowość zależy od decyzji Organizatora, a ustęp 10 zabrania wiązać tryb oceny z taką decyzją - dziś ogłaszana jest **liczba zgłoszeń kończąca rundy**. Odesłanie do „§ 8 ust. 5a" wskazywało przepis, którego w § 8 nie ma; zastąpił je **obowiązek odstąpienia od oceny po rozpoznaniu autora**, wzorowany na ust. 6 i jedyny wykonalny przy przydziale ślepym.
+**Sprzeczności.** Automatyczne sprawdzanie spójności łamało § 8 ust. 8 (patrz wyżej). Warunek zakończenia rund „aż pole zejdzie do przepustowości Akademii" łamał § 8 ust. 10, bo przepustowość zależy od decyzji Organizatora, a ustęp 10 zabrania wiązać tryb oceny z taką decyzją - dziś ogłaszana jest **liczba zgłoszeń kończąca rundy**. Odesłanie do „§ 8 ust. 5a" wskazywało przepis, którego w § 8 nie ma; zastąpił je **obowiązek odstąpienia od oceny po rozpoznaniu autora**, wzorowany na ust. 6 i jedyny wykonalny przy przydziale ślepym.
 
 **Terminy.** Rundy ruszają po zamknięciu naboru i zajmują około trzech miesięcy, a § 1b ust. 2a wylicza podstawy przesunięcia zamknięcie - rund tam nie było, więc ich włączenie prowadziło wprost do nierozstrzygnięcia edycji. Dziś: ogłoszenie rund podaje **terminy edycji uwzględniające czas ich przeprowadzenia**, dzień zamrożenia punktacji liczy się od zakończenia ostatniej rundy, jedna runda więcej mieści się w wąskim przesunięciu z § 4, a większa potrzeba uruchamia ust. 10b.
 
-**Arytmetyka.** Dwa wzorce po 25 tysięcy słów wyczerpywały budżet 30 tysięcy same, więc uczestnik wykonywał obowiązek, nie oceniwszy ani jednego cudzego zgłoszenia - a nadal podlegał przesłance odchylenia od obu wzorców. Dziś wzorce stoją **poza budżetem słów** i dobierane są wyłącznie z krótszych zgłoszeń. Gwarancja minimum trzech ocen przy milionie zgłoszeń i pięcioprocentowym niedoborze oznaczała 50 tysięcy odczytów do wykonania przez akademię o przepustowości 425; dziś brakujące oceny dobierają się **w kolejnych przydziałach uczestników**, a gdyby to nie wystarczyło, wchodzi próg wykonania rundy.
+**Arytmetyka.** Dwa wzorce po 25 tysięcy słów wyczerpywały budżet 30 tysięcy same, więc uczestnik wykonywał obowiązek, nie oceniwszy ani jednego cudzego zgłoszenia - a nadal podlegał przesłance odchylenia od obu wzorców. Dziś wzorce stoją **poza budżetem słów** i dobierane są wyłącznie z krótszych zgłoszeń. Gwarancja minimum trzech ocen przy milionie zgłoszeń i pięcioprocentowym niedoborze oznaczała 50 tysięcy odczytów do wykonania przez Akademię o przepustowości 425; dziś brakujące oceny dobierają się **w kolejnych przydziałach uczestników**, a gdyby to nie wystarczyło, wchodzi próg wykonania rundy.
 
-**Czego w ogóle nie było.** Poufności po stronie oceniającego. Oznaczania zastrzeżeń prawnych i prawa sygnału o inscenizacji - oba przysługiwały tylko członkom akademii i jury, więc przy rundach uczestników organizator tracił jedyne źródło wiedzy o zastrzeżeniach w zgłoszeniach, których akademia nie przeczyta, choć wszystkie wchodzą do Czytelni. Reguły remisowej na granicy awansu. Trybu odwoławczego. Przepisów o wycofaniu, odrzuceniu i wykluczeniu zgłoszenia w trakcie rundy. Zgody przedstawiciela ustawowego dla uczestników od 16 do 18 lat - katalog w § 3 ust. 1a był zamknięty i czytania cudzych rozmów nie obejmował.
+**Czego w ogóle nie było.** Poufności po stronie oceniającego. Oznaczania zastrzeżeń prawnych i prawa sygnału o inscenizacji - oba przysługiwały tylko członkom Akademii i jury, więc przy rundach uczestników organizator tracił jedyne źródło wiedzy o zastrzeżeniach w zgłoszeniach, których Akademia nie przeczyta, choć wszystkie wchodzą do Czytelni. Reguły remisowej na granicy awansu. Trybu odwoławczego. Przepisów o wycofaniu, odrzuceniu i wykluczeniu zgłoszenia w trakcie rundy. Zgody przedstawiciela ustawowego dla uczestników od 16 do 18 lat - katalog w § 3 ust. 1a był zamknięty i czytania cudzych rozmów nie obejmował.
 
 **Progu wykonania rundy**, bez którego pole zawężałoby się przez niewykonanie obowiązku, a nie przez wartość zgłoszeń. To była najpoważniejsza pozycja merytoryczna: finalistami zostaliby sumienni, nie najlepsi, a próbka kontrolna tego nie wyłapie, bo takie odrzucenia są formalnie prawidłowe.
 
@@ -162,9 +162,9 @@ Po wpisaniu rundy uczestników do regulaminu przeszedłem ją pod kątem oszustw
 
 ## Druga weryfikacja: osiem luk powstałych przy naprawianiu pierwszych (1.11.2026)
 
-Przepisany ustęp przeszedł drugie niezależne czytanie, sprawdzające, czy każda z piętnastu luk jest zamknięta w tekście, a nie tylko wspomniana. Jedenaście było zamkniętych, cztery częściowo - i doszło osiem nowych. Jedna wywracała mechanizm: **zgłoszenia wzorcowe miały być zgłoszeniami ocenionymi wcześniej przez akademię, a akademia w tej edycji ocenia dopiero to, co przeszło rundy.** W pierwszej rundzie nie ma więc czego użyć jako wzorca, a bez wzorców upadają dwa z trzech narzędzi kontroli, cała normalizacja i dwie z trzech przesłanek oceny pozornej. Dziś wzorcem jest rozmowa spoza edycji oceniona przez akademię przed naborem albo zgłoszenie ocenione w czasie naboru właśnie w tym celu; zbiór liczy co najmniej dwadzieścia rozmów i jest odświeżany w każdej rundzie.
+Przepisany ustęp przeszedł drugie niezależne czytanie, sprawdzające, czy każda z piętnastu luk jest zamknięta w tekście, a nie tylko wspomniana. Jedenaście było zamkniętych, cztery częściowo - i doszło osiem nowych. Jedna wywracała mechanizm: **zgłoszenia wzorcowe miały być zgłoszeniami ocenionymi wcześniej przez Akademię, a Akademia w tej edycji ocenia dopiero to, co przeszło rundy.** W pierwszej rundzie nie ma więc czego użyć jako wzorca, a bez wzorców upadają dwa z trzech narzędzi kontroli, cała normalizacja i dwie z trzech przesłanek oceny pozornej. Dziś wzorcem jest rozmowa spoza edycji oceniona przez Akademię przed naborem albo zgłoszenie ocenione w czasie naboru właśnie w tym celu; zbiór liczy co najmniej dwadzieścia rozmów i jest odświeżany w każdej rundzie.
 
-Pozostałe siedem: odesłanie do ogłoszenia wskazywało § 9 ust. 5, czyli przepis o kategoriach, a nie § 10 ust. 5; § 4 nie miał ani jednego dnia na przeprowadzenie rund i zakładał ocenę akademii w czasie naboru, co w tej edycji jest nieprawdą także dla kalibracji śródnaborowej; rundy mogły zawęzić pole do dwudziestu zgłoszeń, czyli do progu, przy którym akademii się nie powołuje, choć to ona czyta próbkę kontrolną i odczyty uzupełniające; mediana nie przyjmuje wag, więc „utrata wagi oceny" nie dawała się wykonać - dziś ocena jest **pomijana**, z odczytem uzupełniającym; uczestnik miał oznaczać zastrzeżenia w panelu, do którego regulamin dawał dostęp tylko jury i akademii, a gwarancja nieujawniania danych autora też jego nie obejmowała; przepis o ubyciu zgłoszenia odsyłał do wycofania możliwego wyłącznie do zamknięcia naboru, czyli przed rundami; a karta do głosowania publiczności dla zgłoszenia o ograniczonej prezentacji wymagała podpisu, który Czytelnia w tej edycji zataja - dziś zastępuje go numer zgłoszenia.
+Pozostałe siedem: odesłanie do ogłoszenia wskazywało § 9 ust. 5, czyli przepis o kategoriach, a nie § 10 ust. 5; § 4 nie miał ani jednego dnia na przeprowadzenie rund i zakładał ocenę Akademii w czasie naboru, co w tej edycji jest nieprawdą także dla kalibracji śródnaborowej; rundy mogły zawęzić pole do dwudziestu zgłoszeń, czyli do progu, przy którym Akademii się nie powołuje, choć to ona czyta próbkę kontrolną i odczyty uzupełniające; mediana nie przyjmuje wag, więc „utrata wagi oceny" nie dawała się wykonać - dziś ocena jest **pomijana**, z odczytem uzupełniającym; uczestnik miał oznaczać zastrzeżenia w panelu, do którego regulamin dawał dostęp tylko jury i Akademii, a gwarancja nieujawniania danych autora też jego nie obejmowała; przepis o ubyciu zgłoszenia odsyłał do wycofania możliwego wyłącznie do zamknięcia naboru, czyli przed rundami; a karta do głosowania publiczności dla zgłoszenia o ograniczonej prezentacji wymagała podpisu, który Czytelnia w tej edycji zataja - dziś zastępuje go numer zgłoszenia.
 
 Z czterech pozycji zamkniętych częściowo: odmowa skierowana na zgłoszenie wzorcowe dobiera inne wzorcowe, obowiązek odstąpienia objął pełny standard bezstronności z ust. 6, a próg wykonania rundy uruchamia się także wtedy, gdy minimum trzech ocen jest **arytmetycznie nieosiągalne**, a nie tylko gdy odsetek wykonanych odczytów jest niski. Poprawiona też sankcja za naruszenie poufności: odsyłała do listy osób wyłączonych z udziału, a nie do trybu, więc dziś odrzucenie następuje w trybie z ust. 18, z uzasadnieniem, siedmiodniowym terminem na odpowiedź i decyzją wspólną z członkiem jury.
 
@@ -172,7 +172,7 @@ Z czterech pozycji zamkniętych częściowo: odmowa skierowana na zgłoszenie wz
 
 ## Dzika karta w rundach uczestników nie przysługuje
 
-Przysługuje członkowi akademii, a akademia w tych rundach czyta wyłącznie próbkę kontrolną i odczyty uzupełniające - nie ma kto jej użyć. Ochronę zgłoszeń nietypowych pełni w tych rundach sama próbka kontrolna. Zapisane w lit. h, żeby nie trzeba było tego wnioskować.
+Przysługuje członkowi Akademii, a Akademia w tych rundach czyta wyłącznie próbkę kontrolną i odczyty uzupełniające - nie ma kto jej użyć. Ochronę zgłoszeń nietypowych pełni w tych rundach sama próbka kontrolna. Zapisane w lit. h, żeby nie trzeba było tego wnioskować.
 
 ## Sufit poza ocenianiem: policzony 1.11.2026
 
@@ -204,7 +204,7 @@ Czego ten rachunek **nie** obejmuje, a co przy dużym naborze trzeba policzyć o
 Jedenastu ogłaszanych parametrów nie da się wyliczyć bez próby oceniania. **Ale nawet po ich wyliczeniu nie da się skosztorysować rund uczestników**, bo liczba dodatkowych odczytów kontrolnych zależy od pięciu stawek, które nie są parametrami do ogłoszenia, lecz **wynikami obserwacji**:
 
 - odsetek **odmów** przydzielonego zgłoszenia (lit. d) - każda odmowa to przydział zastępczy;
-- odsetek **niewykonanych kart** (lit. e) - każda przechodzi na akademię albo uruchamia lit. e1;
+- odsetek **niewykonanych kart** (lit. e) - każda przechodzi na Akademię albo uruchamia lit. e1;
 - odsetek **ocen zakwestionowanych** w trybie zastrzeżeń (lit. g2);
 - odsetek **rozpoznań autora**, przy których oceniający ma obowiązek odstąpić (lit. b2);
 - odsetek zgłoszeń, które nie zbiorą **trzech ocen** i wracają do kolejnych przydziałów (lit. b4).
@@ -215,7 +215,7 @@ Każda z tych stawek mnoży się przez wolumen i przez liczbę rund. Przy milion
 
 Trzy narzędzia kontroli jakości - zgodność ze wzorcami, normalizacja i zgodność z pozostałymi ocenami tego samego zgłoszenia - mierzą **zgodność oceniającego z innymi oceniającymi**, a nie zgodność z wartością zgłoszenia. To dwie różne rzeczy i trzeba to nazwać wprost, bo jest to **wbudowane ograniczenie mechanizmu, a nie usterka do naprawienia**: jeżeli większość oceniających popełnia podobny błąd - preferuje określony styl, nie rozumie dziedziny rozmowy, nagradza efektowną odpowiedź modelu zamiast wkładu człowieka - mechanizm ten błąd **utrwali**, a ocena odstająca, która była trafna, trafi do przeglądu jako rozbieżna.
 
-Przeciw temu działają trzy rzeczy i żadna nie jest pełnym zabezpieczeniem: zgłoszenia wzorcowe z punktacją ustaloną przez akademię, czyli punkt odniesienia spoza grona uczestników; losowa próbka odrzuconych czytana przez akademię, czyli kontrola wyniku rundy, a nie pojedynczej oceny; oraz to, że **oceny uczestników nie są werdyktem i nie wiążą akademii ani jury** - akademia czyta od nowa, nie znając tych ocen. Rundy uczestników rozstrzygają więc o tym, **co zostanie przeczytane przez opłaconego czytelnika**, a nie o tym, co wygra. To jest najmocniejsze, co da się o tej konstrukcji uczciwie powiedzieć.
+Przeciw temu działają trzy rzeczy i żadna nie jest pełnym zabezpieczeniem: zgłoszenia wzorcowe z punktacją ustaloną przez Akademię, czyli punkt odniesienia spoza grona uczestników; losowa próbka odrzuconych czytana przez Akademię, czyli kontrola wyniku rundy, a nie pojedynczej oceny; oraz to, że **oceny uczestników nie są werdyktem i nie wiążą Akademii ani jury** - Akademia czyta od nowa, nie znając tych ocen. Rundy uczestników rozstrzygają więc o tym, **co zostanie przeczytane przez opłaconego czytelnika**, a nie o tym, co wygra. To jest najmocniejsze, co da się o tej konstrukcji uczciwie powiedzieć.
 
 ## Zostaje do rozstrzygnięcia
 

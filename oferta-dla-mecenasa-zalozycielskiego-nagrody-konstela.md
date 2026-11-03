@@ -10,7 +10,7 @@
 
 Jest to jedyna rola w całym przedsięwzięciu, której **wykonanie nie zależy od powodzenia pierwszej edycji**. Fundacja zostaje wpisana do rejestru, znak towarowy zostaje zgłoszony do ochrony, strona i narzędzia zostają zbudowane i działają niezależnie od tego, ilu partnerów uda się pozyskać do pozostałych zakresów i czy nabór otworzy się w styczniu 2027, czy rok później.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. [Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę nagród i pracę jury, **sponsor akademii** pierwszą rundę oceny, **sponsor gali** wieczór rozstrzygnięcia, a [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. [Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę nagród i pracę jury, **sponsor Akademii** pierwszą rundę oceny, **sponsor gali** wieczór rozstrzygnięcia, a [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -48,7 +48,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 
 - **przy pobraniu nieudanym albo niekompletnym regulamin przewiduje tryb zgłoszenia błędu odwzorowania i sporządzenie kopii poprawionej;
 - **narzędzie do weryfikacji formalnej**, liczące słowa i wypowiedzi uczestnika, sprawdzające język i kompletność zgłoszenia;
-- **panel oceny** dla czytelników akademii i dla jury, z przydziałami, kartą oceny i śladem audytowym każdej wystawionej oceny.
+- **panel oceny** dla czytelników Akademii i dla jury, z przydziałami, kartą oceny i śladem audytowym każdej wystawionej oceny.
 
 **Narzędzia sztucznej inteligencji i licencje oprogramowania** na rok pracy organizatora we wszystkich zakresach.
 
@@ -72,7 +72,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 | Bezpieczeństwo: procedura incydentu i test organizacyjny          |       4 000 zł |
 | **Razem koszty bezpośrednie**                                     |  **68 315 zł** |
 | Narzędzie automatycznej kontroli formalnej i samoobsługi statusu (165 godz.) |      36 300 zł |
-| Panel oceny dla akademii i jury (160 godz.)                       |      35 200 zł |
+| Panel oceny dla Akademii i jury (160 godz.)                       |      35 200 zł |
 | Instalowalna wersja mobilna strony (120 godz.)                    |      26 400 zł |
 | Raportowanie dla Mecenasa: mierniki, zestawienia, pięć raportów etapowych, kontrola danych (73 godz.) |      16 060 zł |
 | Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |      22 792 zł |
@@ -216,7 +216,7 @@ Poza tytułem Mecenas otrzymuje:
 - **Logo** na stronie konstela.org przez cały okres edycji oraz w stopce redakcyjnej Antologii.
 - **Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia** - o tym, dlaczego firma postanowiła sfinansować powstanie Nagrody.
 - **Prawo używania tytułu we własnej komunikacji** - w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych - wraz z pakietem gotowych materiałów: znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
-- **Udział pracowników Mecenasa** w akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
+- **Udział pracowników Mecenasa** w Akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo do pozostałych ról przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o nich z kimkolwiek innym. Rola założycielska jest z natury jednorazowa - powstanie finansuje się raz - więc pierwszeństwo dotyczy innych zakresów.
 
@@ -226,7 +226,7 @@ Poza tytułem Mecenas otrzymuje:
 
 **Nazwa Nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa.** Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu.
 
-Rola nie obejmuje puli nagród, honorariów jury i akademii, gali, Antologii, Archiwum ani podcastu - każda z tych rzeczy ma własny budżet i własnego partnera.
+Rola nie obejmuje puli nagród, honorariów jury i Akademii, gali, Antologii, Archiwum ani podcastu - każda z tych rzeczy ma własny budżet i własnego partnera.
 
 **Nie przyjmujemy finansowania od dostawców modeli sztucznej inteligencji** w edycjach krajowych, bo konflikt interesów byłby zbyt oczywisty.
 
@@ -256,7 +256,7 @@ Wszystkie cztery przygotowujemy na prośbę, bez zobowiązania po stronie Mecena
 <div><dt>Do 14 dni po wpisie do KRS</dt><dd>Podpisanie umowy i zlecenie konsultacji prawnej<small>konsultacja jest jednym z trzech warunków otwarcia naboru, więc zlecana jest jako pierwsza, przed pozostałymi pracami</small></dd></div>
 <div><dt>Do 30 dni po podpisaniu umowy</dt><dd>Opinia prawna do regulaminu, skraper i weryfikacja formalna<small>to jest komplet, bez którego naboru otworzyć nie wolno: opinia zamyka warunek regulaminowy, a oba narzędzia muszą działać od pierwszego przyjętego zgłoszenia</small></dd></div>
 <div><dt>Po spełnieniu trzech warunków</dt><dd>Otwarcie naboru, planowane na 1 stycznia 2027<small>warunki są trzy i muszą być spełnione łącznie: pula nagród pokryta środkami na rachunku, ogłoszony skład jury i regulamin po konsultacji prawnej. Przy umowie podpisanej pod koniec grudnia pierwszy dzień naboru przesuwa się o tyle, ile zajmie ich spełnienie - edycja obejmuje rozmowy z całego 2027 roku niezależnie od dnia otwarcia, więc przesunięcie nie odbiera uczestnikom ani jednego dnia</small></dd></div>
-<div><dt>Do kwietnia 2027</dt><dd>Znak towarowy, strona, wersja mobilna i panel oceny<small>zgłoszenie znaku w EUIPO, przebudowana strona, a panel oceny przed pierwszym przydziałem dla akademii, co wypada wiosną</small></dd></div>
+<div><dt>Do kwietnia 2027</dt><dd>Znak towarowy, strona, wersja mobilna i panel oceny<small>zgłoszenie znaku w EUIPO, przebudowana strona, a panel oceny przed pierwszym przydziałem dla Akademii, co wypada wiosną</small></dd></div>
 <div><dt>Do 60 dni po odbiorze ostatniego narzędzia</dt><dd>Sprawozdanie dla Mecenasa<small>wykonanie budżetu, wykorzystanie rezerwy, dokumenty rejestrowe fundacji i potwierdzenie zgłoszenia znaku</small></dd></div>
 </dl>
 

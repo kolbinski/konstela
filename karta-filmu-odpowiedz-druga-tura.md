@@ -14,4 +14,4 @@ Pana korektę własnej sugestii z pierwszej tury przyjmuję i zapisałem ją u s
 
 Dobór trzech filmów do kalibracji biorę w Pana brzmieniu, z dwoma rzeczami zapisanymi osobno: że dokument ma mieć wcześniej sprawdzone podstawy faktograficzne, bo inaczej kalibrujemy spór o fakty zamiast o kartę, i że nie wybieramy bezspornych arcydzieł. Protokół też: każdy ocenia niezależnie, zapisując pasmo, punkty, znaczniki i osobno potrącenia; potem porównujemy uzasadnienia, nie sumy, bo różnice w kryteriach mogą się znieść; po dyskusji te same filmy oceniamy ponownie niezależnie, a jeżeli różnice zostają, problem leży w narzędziu.
 
-Pytanie jest jedno: czy po tych trzech zmianach karta jest gotowa do przekazania akademii filmu, czy zostaje coś do poprawienia.
+Pytanie jest jedno: czy po tych trzech zmianach karta jest gotowa do przekazania Akademii filmu, czy zostaje coś do poprawienia.

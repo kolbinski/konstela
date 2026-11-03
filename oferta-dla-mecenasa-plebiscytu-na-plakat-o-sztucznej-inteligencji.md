@@ -33,7 +33,7 @@ Ocena przebiega według **czterech kryteriów, razem 100 punktów**:
 - **Wykonanie, 0-20 punktów** - świadome użycie techniki, koloru i rysunku.
 - **Działanie plakatu, 0-20 punktów** - czy wypowiedź pracy jest nośna z odległości i w pomniejszeniu, sprawdzane na pomniejszeniu reprodukcji do 18 milimetrów dłuższego boku. Jedyne kryterium z progiem: praca, która go nie osiągnie, nie wchodzi do dziesiątki finalistów, bo to plebiscyt na plakat.
 
-[Karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. Pierwszą rundę prowadzi **akademia plakatu** - grono praktyków plakatu, ilustracji i projektowania graficznego - a **jury** wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki. Pełne zasady opisuje [strona plebiscytu](/plebiscyt-plakatu) i [regulamin](/dokument/regulamin-plakatu).
+[Karta oceny](/dokument/regulamin-plakatu#karta-oceny) wyjaśnia, co znaczy każde pasmo punktowe w każdym kryterium, i jest jawna przed naborem. Pierwszą rundę prowadzi **Akademia plakatu** - grono praktyków plakatu, ilustracji i projektowania graficznego - a **jury** wybiera dziesięciu finalistów i ustala kolejność całej dziesiątki. Pełne zasady opisuje [strona plebiscytu](/plebiscyt-plakatu) i [regulamin](/dokument/regulamin-plakatu).
 
 **Mecenas nie ma wpływu ani na skład jury, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
 
@@ -66,7 +66,7 @@ Obok puli **nagrody publiczności 12 000 zł brutto**:
 Poza nagrodami rola obejmuje **prowadzenie plebiscytu plakatu**:
 
 - kontrolę formalną zgłoszeń;
-- obsługę akademii i jury oraz obsługę głosowania publiczności;
+- obsługę Akademii i jury oraz obsługę głosowania publiczności;
 - przyjęcie, ewidencję, ubezpieczenie i zwrot oryginałów finalistów;
 - uzgodnienie okładki Antologii ze zwycięzcą;
 - obsługę licytacji;
@@ -287,7 +287,7 @@ Poza tytułem:
 - **Wręczenie nagrody głównej przez przedstawiciela Mecenasa** na gali, wraz z wystąpieniem o tym, dlaczego firma postanowiła objąć plebiscyt na plakat wykonany ludzką ręką.
 - **Wymienienie przy każdej wzmiance o puli nagród plakatu** w materiałach Organizatora.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z wystawy i gali oraz cytatami jurorów.
-- **Udział pracowników Mecenasa** w akademii plakatu, na tych samych zasadach co pozostali oceniający.
+- **Udział pracowników Mecenasa** w Akademii plakatu, na tych samych zasadach co pozostali oceniający.
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
@@ -317,7 +317,7 @@ Mecenas nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. N
 
 - **gala** - sala, obsługa i realizacja wieczoru rozstrzygnięcia; w tej ofercie jest wyłącznie wystawa prac finałowych, wyceniona na 8 000 zł w postaci gwarantowanej i odbywająca się przy gali albo, gdyby gali nie było, w osobnym terminie. Bogatsza oprawa wystawy pozostaje pozycją do wyceny;
 - **Antologia** - e-book, wydanie książkowe, audiobook i podcast; w tej ofercie jest wyłącznie uzgodnienie okładki ze zwycięzcą, nie wydanie książki;
-- **infrastruktura wspólna** - fundacja, strona, znak towarowy i narzędzia obsługujące wszystkie cztery plebiscyty, w tym panel oceny używany również przez akademię plakatu;
+- **infrastruktura wspólna** - fundacja, strona, znak towarowy i narzędzia obsługujące wszystkie cztery plebiscyty, w tym panel oceny używany również przez Akademię plakatu;
 - **przestrzeń galerii** - wystawa po gali zależy od pozyskania partnera galerii i nie jest w tej ofercie ani obiecana, ani wyceniona.
 
 Mecenas nie nabywa praw do zgłoszonych plakatów. Praca zostaje własnością autora, który udziela Organizatorowi licencji niewyłącznej w zakresach wymienionych w regulaminie; jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania sztucznej inteligencji. Mecenas nie nabywa też prawa pierwokupu prac ani udziału we wpływach z licytacji - te dzielą się po połowie między autora i pulę nagród kolejnej edycji.

@@ -9,7 +9,7 @@
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury dostaje od akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki** – prace finałowe ogląda w oryginale, a te, których autorzy nie przyślą, w reprodukcji;
+- jury dostaje od Akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki** – prace finałowe ogląda w oryginale, a te, których autorzy nie przyślą, w reprodukcji;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę ocenianych prac, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
@@ -46,11 +46,11 @@ Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozosta�
 
 ### Co ocenia jury
 
-Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [akademia plakatu](/plebiscyt-plakatu#kto-ocenia)** – grono praktyków plakatu, ilustracji i projektowania graficznego, które ocenia każde zgłoszenie według tej samej karty oceny i przekazuje jury listę najwyżej ocenionych. **Ocena jury przebiega w dwóch etapach**: w grudniu 2027 jury wybiera z tej listy dziesięciu finalistów, a na początku lutego 2028, po obejrzeniu nadesłanych prac, ustala kolejność całej dziesiątki. Maksymalną liczbę prac ocenianych przez jury ustalamy wspólnie, przed zawarciem umowy.
+Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [Akademia plakatu](/plebiscyt-plakatu#kto-ocenia)** – grono praktyków plakatu, ilustracji i projektowania graficznego, które ocenia każde zgłoszenie według tej samej karty oceny i przekazuje jury listę najwyżej ocenionych. **Ocena jury przebiega w dwóch etapach**: w grudniu 2027 jury wybiera z tej listy dziesięciu finalistów, a na początku lutego 2028, po obejrzeniu nadesłanych prac, ustala kolejność całej dziesiątki. Maksymalną liczbę prac ocenianych przez jury ustalamy wspólnie, przed zawarciem umowy.
 
 ### Jak jury ocenia zgłoszone prace
 
-Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla akademii i dla jury. **Ostateczny kształt kryteriów, ich wag i opisów pasm rozstrzyga jury** - to wy znacie tę dziedzinę i wasz osąd jest tu rozstrzygający. Karta poniżej jest **punktem wyjścia, nie rzeczą zastaną**: możecie zmienić wagi, przepisać pasma, dodać kryterium albo usunąć je, a organizator odpowiada za zgodność waszych ustaleń z zasadami plebiscytu, ich ogłoszenie i warunki stosowania. **Granicą jest jedna data**: od dnia otwarcia naboru karta nie zmienia się do rozstrzygnięcia edycji, bo Uczestnicy zgłaszają prace, znając jej treść.
+Według [karty oceny](/dokument/regulamin-plakatu#karta-oceny), tej samej dla Akademii i dla jury. **Ostateczny kształt kryteriów, ich wag i opisów pasm rozstrzyga jury** - to wy znacie tę dziedzinę i wasz osąd jest tu rozstrzygający. Karta poniżej jest **punktem wyjścia, nie rzeczą zastaną**: możecie zmienić wagi, przepisać pasma, dodać kryterium albo usunąć je, a organizator odpowiada za zgodność waszych ustaleń z zasadami plebiscytu, ich ogłoszenie i warunki stosowania. **Granicą jest jedna data**: od dnia otwarcia naboru karta nie zmienia się do rozstrzygnięcia edycji, bo Uczestnicy zgłaszają prace, znając jej treść.
 
 Karta jest już napisana i opublikowana, z opisem każdego pasma punktowego i z regułami rozstrzygającymi, co wolno przyjąć za dowód oceny. Przeszła też cztery tury krytycznego czytania, które prowadzimy w sposób wymagający jasnego powiedzenia: **zadajemy modelowi językowemu rolę wymagającego czytelnika z danej dziedziny i polecamy mu rozłożyć kartę na części**. **Nie jest to recenzja ekspercka ani niezależna opinia zawodowa** - model nie ma doświadczenia jurorskiego i nie firmuje niczego nazwiskiem. Wartość tych tur polega na czym innym: każdy zarzut wskazywał konkretne zdanie karty i pokazywał, jak dwie osoby mogą je przeczytać inaczej, a to **da się sprawdzić w samym dokumencie**, bez zaufania do źródła. Czego nie zastępuje: osądu ludzi, którzy tą kartą będą oceniać - czyli waszego. Podajemy to wszystko nie po to, żeby was kartą związać, lecz żebyście nie zaczynali od pustej kartki i od pierwszego dnia wiedzieli, co macie do przyjęcia albo do zmiany. Cztery kryteria, łącznie 100 punktów, z jednym progiem:
 
@@ -67,7 +67,7 @@ Realnie: **kilkanaście godzin pracy wymagającej skupienia, podzielonych na dwa
 
 Oględziny nadesłanych oryginałów odbywają się podczas spotkania jury. **Miejsce i czas trwania oględzin oraz zasady pokrywania kosztów podróży ustalamy przed zawarciem umowy.**
 
-**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest praca nad kartą: przyjęcie albo zmiana kryteriów, wag i opisów pasm, a następnie kalibracja - wspólne omówienie przykładowych prac z rozpisaną punktacją i uzgodnienie, jak te pasma stosować.** Materiały posłużą jury i akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury rozstrzyga o kryteriach, wagach i opisach pasm oraz o tym, jak się je stosuje, a organizator odpowiada za zgodność tych ustaleń z zasadami plebiscytu, za ich ogłoszenie i za warunki stosowania**. Dotychczasowa karta i przebyte recenzje są materiałem do tej pracy, a nie jej wynikiem: **zmiana wag albo przepisanie pasma na wniosek jury jest normalnym przebiegiem tego etapu**, nie wyjątkiem. Po otwarciu naboru karta nie zmienia się wcale.
+**Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest praca nad kartą: przyjęcie albo zmiana kryteriów, wag i opisów pasm, a następnie kalibracja - wspólne omówienie przykładowych prac z rozpisaną punktacją i uzgodnienie, jak te pasma stosować.** Materiały posłużą jury i Akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury rozstrzyga o kryteriach, wagach i opisach pasm oraz o tym, jak się je stosuje, a organizator odpowiada za zgodność tych ustaleń z zasadami plebiscytu, za ich ogłoszenie i za warunki stosowania**. Dotychczasowa karta i przebyte recenzje są materiałem do tej pracy, a nie jej wynikiem: **zmiana wag albo przepisanie pasma na wniosek jury jest normalnym przebiegiem tego etapu**, nie wyjątkiem. Po otwarciu naboru karta nie zmienia się wcale.
 
 Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczenia, a także liczbę spotkań, zakres uzasadnień, obowiązek obecności na gali oraz pokrycie dojazdu i noclegu.
 
@@ -85,7 +85,7 @@ Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – 
 
 ### Niezależność werdyktu
 
-**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-plakatu#archiwum) publikujemy wyniki poszczególnych etapów: oceny akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla prac, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
+**Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-plakatu#archiwum) publikujemy wyniki poszczególnych etapów: oceny Akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla prac, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
 ### Oryginały, nie tylko pliki
 

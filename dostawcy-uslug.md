@@ -19,7 +19,7 @@ Kolumna „rola" ma trzy możliwe wartości i to ona decyduje, co podpisujemy:
 | 3 | Hosting strony | konstela.org | GitHub Pages (obecnie) | adres IP w logach serwera | odrębny administrator | **jest**, do opisania mechanizm transferu |
 | 4 | Formularz zgłoszeniowy | przyjmowanie zgłoszeń | | komplet pól zgłoszenia | podmiot przetwarzający | do wyboru |
 | 5 | Przechowywanie plików zgłoszeń | okładki, reprodukcje, ilustracje | | pliki i metadane | podmiot przetwarzający | do wyboru |
-| 6 | Panel oceny | praca akademii i jury | | zgłoszenia, oceny, dane oceniających | podmiot przetwarzający | do wyboru |
+| 6 | Panel oceny | praca Akademii i jury | | zgłoszenia, oceny, dane oceniających | podmiot przetwarzający | do wyboru |
 | 7 | Serwis wideo uczestnika | nagrania piosenek, filmy, nagranie z pracy nad plakatem | YouTube (wymagany przy plakacie) | to, co uczestnik sam opublikuje | odrębny administrator | **jest**, do przepisania w polityce |
 | 8 | Playlista finalistów piosenki | kod QR w Antologii | | nagrania za zgodą finalistów | do ustalenia | do wyboru |
 | 9 | Studio nagraniowe i producent | sesje dziesiątki finalistów | | dane kontaktowe finalistów, nagrania | podmiot przetwarzający | do wyboru |
@@ -41,7 +41,7 @@ Zakres ma być **minimalny i konkretny**, bo to on trafi do polityki. Nie „dan
 1. Czy przy dostawcach spoza Europejskiego Obszaru Gospodarczego wystarczą standardowe klauzule umowne, czy potrzebna jest ocena skutków transferu.
 2. Jak opisać serwis wideo uczestnika, żeby nie wyglądało to na powierzenie - skoro materiał publikuje sam uczestnik, a my pokazujemy wyłącznie link.
 3. Czy galeria i wydawnictwo są podmiotami przetwarzającymi, czy współadministratorami, i co z tego wynika dla umowy.
-4. Czy zespół oceniający uzasadnienia i członkowie akademii działają na umowie powierzenia, czy jako osoby upoważnione przez administratora.
+4. Czy zespół oceniający uzasadnienia i członkowie Akademii działają na umowie powierzenia, czy jako osoby upoważnione przez administratora.
 
 ## Co blokuje
 

@@ -61,7 +61,7 @@ Zwycięzca edycji: Dominik Dudek.
 
 Dwadzieścia pięć nazwisk to za dużo na jedną falę. Przed wysyłką warto posłuchać, co każda z tych osób wydaje dzisiaj, i odsiać po dwóch kryteriach: **czy śpiewa po polsku** oraz **czy jej rejestr pasuje do tekstu** - ballada z narastającą aranżacją, a nie pop taneczny ani wokalistyka popisowa. Ostatnie edycje są lepszym tropem niż wcześniejsze: im świeższy udział, tym większa szansa, że ktoś buduje właśnie repertuar i szuka materiału.
 
-**Trop poboczny, niezależny od programu:** wydziały wokalne i jazzowe akademii muzycznych (Katowice, Warszawa, Kraków, Gdańsk, Łódź). Adresy są publiczne, a wykładowca przekaże zapytanie studentom - ten sam ruch co pismo do Politechniki. Daje ludzi po warsztacie, przed karierą, dla których 3000 zł i własny utwór do wydania to realna propozycja.
+**Trop poboczny, niezależny od programu:** wydziały wokalne i jazzowe Akademii muzycznych (Katowice, Warszawa, Kraków, Gdańsk, Łódź). Adresy są publiczne, a wykładowca przekaże zapytanie studentom - ten sam ruch co pismo do Politechniki. Daje ludzi po warsztacie, przed karierą, dla których 3000 zł i własny utwór do wydania to realna propozycja.
 
 ## Przegląd pod kątem zlecenia (22.10.2026)
 
@@ -85,7 +85,7 @@ Sprawdzone zostało jedno: czy dana osoba **wydaje własne utwory**, czy ma nad 
 
 Dla tych osób nie znalazłem publicznych dowodów komponowania. Nie znaczy to, że nie komponują, znaczy tylko, że nie da się tego potwierdzić bez zapytania. Zostawiam na wypadek, gdyby pierwsza fala nie przyniosła odpowiedzi.
 
-- [ ] **Kacper Andrzejewski** (sezon 15, 3. miejsce) - absolwent akademii Muzycznej w Bydgoszczy, pracuje też w dubbingu. Warsztat pewny, autorstwo nieznane.
+- [ ] **Kacper Andrzejewski** (sezon 15, 3. miejsce) - absolwent Akademii Muzycznej w Bydgoszczy, pracuje też w dubbingu. Warsztat pewny, autorstwo nieznane.
 - [ ] **Mikołaj Przybylski** (sezon 15, 2. miejsce) - młody wokalista, odwrócił cztery fotele.
 - [ ] **Antoni Zimnal** (sezon 14, 2. miejsce) - Sosnowiec, repertuar z polskiej klasyki estradowej.
 - [ ] Pozostali z sezonów 13-15 wymienieni niżej - niesprawdzeni.

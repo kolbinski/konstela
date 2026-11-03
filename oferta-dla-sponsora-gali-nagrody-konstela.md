@@ -32,7 +32,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 - **Jeden partner jest widoczny przy czterech werdyktach naraz** - przy rozmowie, filmie, piosence i plakacie. Partner, który finansuje nagrody w jednym plebiscycie, jest widoczny przy jednym z nich.
 - **Kwota wejścia jest najniższa ze wszystkich rół** w pierwszej edycji. Pozostałe mieszczą się w przedziale od 128 731,90 zł do 628 684,96 zł netto.
 
-Jest to także **jedyny moment, w którym całe przedsięwzięcie dzieje się w jednym miejscu i o jednej porze**. Przez piętnaście miesięcy Nagroda jest rozproszona: zgłoszenia przychodzą zdalnie, akademia czyta u siebie, jury obraduje osobno. Na jeden wieczór w czerwcu 2028 roku laureaci, jurorzy, finaliści czterech dziedzin, media i partnerzy są w jednej sali.
+Jest to także **jedyny moment, w którym całe przedsięwzięcie dzieje się w jednym miejscu i o jednej porze**. Przez piętnaście miesięcy Nagroda jest rozproszona: zgłoszenia przychodzą zdalnie, Akademia czyta u siebie, jury obraduje osobno. Na jeden wieczór w czerwcu 2028 roku laureaci, jurorzy, finaliści czterech dziedzin, media i partnerzy są w jednej sali.
 
 ## <!--ikona:mikrofon--><span>Co się na gali dzieje</span>
 
@@ -165,7 +165,7 @@ Rola nie obejmuje czterech rzeczy, bo każda ma własny budżet i własnego part
 <dl class="harmonogram">
 <div><dt>Po deklaracji Sponsora</dt><dd>Wybór miejsca i wycena czterech pozycji otwartych<small>oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy; dopiero wtedy znana jest kwota ostateczna i dopiero wtedy podpisujemy umowę</small></dd></div>
 <div><dt>Do 6 miesięcy przed galą</dt><dd>Podpisanie umowy i rezerwacja sali<small>pierwsza transza obejmuje wyłącznie to, czego wymaga zabezpieczenie terminu w wybranym miejscu</small></dd></div>
-<div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykty czterech plebiscytów<small>pierwsza runda akademii, następnie jury; gala odbywa się tylko wtedy, gdy edycja zostaje rozstrzygnięta</small></dd></div>
+<div><dt>Styczeń - luty 2028</dt><dd>Ocena i werdykty czterech plebiscytów<small>pierwsza runda Akademii, następnie jury; gala odbywa się tylko wtedy, gdy edycja zostaje rozstrzygnięta</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty czterech plebiscytów, zwiastuny piątki filmów finałowych, wystawa plakatów, premiera Antologii w wydaniu elektronicznym i dźwiękowym, wystąpienia partnerów; druga transza wymagalna po gali</small></dd></div>
 <div><dt>Do 60 dni po gali</dt><dd>Sprawozdanie dla Sponsora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, dokumentacja fotograficzna i zapis wideo; po jego przyjęciu wymagalna jest transza ostatnia</small></dd></div>
 </dl>

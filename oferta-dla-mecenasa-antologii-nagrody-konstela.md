@@ -13,7 +13,7 @@
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **[Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** finansuje pulę nagród i pracę jury, **sponsor akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie i Archiwum. Partnerów jest w sumie dziewięciu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **[Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** finansuje pulę nagród i pracę jury, **sponsor Akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie i Archiwum. Partnerów jest w sumie dziewięciu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -34,7 +34,7 @@ Pierwsza edycja obejmuje rozmowy z całego 2027 roku, zgłoszenia przyjmowane s�
 
 Ocena przebiega w dwóch rundach.
 
-1. Pierwszą prowadzi **akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Przy spodziewanej skali naboru każde zgłoszenie czytają co najmniej dwie osoby; regulamin wiąże liczbę odczytów z liczbą zgłoszeń i przy kilkuset zgłoszeniach przewiduje inny tryb pierwszego przejścia.
+1. Pierwszą prowadzi **Akademia**: grono niezależnych czytelników - nauczycieli, bibliotekarzy, naukowców, praktyków - z których każdy dostaje przydział rozmów i ocenia je według tej samej karty. Przy spodziewanej skali naboru każde zgłoszenie czytają co najmniej dwie osoby; regulamin wiąże liczbę odczytów z liczbą zgłoszeń i przy kilkuset zgłoszeniach przewiduje inny tryb pierwszego przejścia.
 2. Rozmowy ocenione najwyżej trafiają do **jury**: grona osób rozpoznawalnych w nauce, edukacji i kulturze, którego skład ogłaszany jest przed otwarciem naboru. Jury rozstrzyga o laureatach i wybiera **dziesiątkę Antologii** - dziesięć rozmów, które zostaną w niej wydane.
 
 Do każdej z tych dziesięciu rozmów juror pisze **komentarz jury**: krótki tekst wskazujący konkretne miejsca rozmowy, w których widać, co człowiek zrobił dobrze. Komentarze są tym, co odróżnia Antologię od zwykłego zbioru zapisów: bez nich byłaby zbiorem zapisów, z nimi jest materiałem, z którego da się uczyć. Mecenas nie ma wpływu ani na skład jury, ani na wyniki, ani na treść komentarzy.
@@ -172,7 +172,7 @@ Tu zostaje wyłącznie to, co jest produktem tej roli:
 - jej wydanie dźwiękowe;
 - mechanizm publikowania Archiwum, bez którego Archiwum nie powstanie.
 
-Pozycja oprogramowania obejmuje jedno narzędzie: mechanizm publikowania Archiwum na stronie, z przeglądaniem według daty, tytułu, podpisu i ocen. Trzy pozostałe - skraper sporządzający kopię archiwalną zgłoszenia, narzędzie do weryfikacji formalnej i panel pracy dla akademii i jury - obsługują wszystkie cztery plebiscyty i należą do Budżetu Uruchomienia. Nadanie ISBN jest bezpłatne; pozycja została wymieniona, żeby lista była pełna.
+Pozycja oprogramowania obejmuje jedno narzędzie: mechanizm publikowania Archiwum na stronie, z przeglądaniem według daty, tytułu, podpisu i ocen. Trzy pozostałe - skraper sporządzający kopię archiwalną zgłoszenia, narzędzie do weryfikacji formalnej i panel pracy dla Akademii i jury - obsługują wszystkie cztery plebiscyty i należą do Budżetu Uruchomienia. Nadanie ISBN jest bezpłatne; pozycja została wymieniona, żeby lista była pełna.
 
 Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 
@@ -244,7 +244,7 @@ Poza tytułem Mecenas otrzymuje:
 - **Egzemplarze autorskie wydania drukowanego**, z podpisami jury, w liczbie do uzgodnienia.
 - **Wymienienie w materiałach prasowych** i w sprawozdaniu z edycji.
 - **Prawo używania tytułu we własnej komunikacji** - w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych - wraz z pakietem gotowych materiałów: znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
-- **Udział pracowników Mecenasa**: miejsca w akademii oceniającej dla chętnych z firmy, na tych samych zasadach co dla pozostałych czytelników, oraz spotkanie zespołu z laureatami albo z prowadzącym podcast.
+- **Udział pracowników Mecenasa**: miejsca w Akademii oceniającej dla chętnych z firmy, na tych samych zasadach co dla pozostałych czytelników, oraz spotkanie zespołu z laureatami albo z prowadzącym podcast.
 - **Wcześniejszy dostęp do Antologii** przed publicznym udostępnieniem i udział we wspólnej informacji prasowej o premierze.
 
 Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają książkę na scenie, a podpisy jury zbierane są tego samego wieczoru na egzemplarzach. Gdyby wydanie księgarskie nie zdążyło na premierę, laureaci otrzymują podpisane na gali ekslibrisy - osobne karty wklejane do egzemplarza, który dociera do nich pocztą.
@@ -261,7 +261,7 @@ Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas ni
 
 Mecenas nie nabywa praw do oprogramowania. Powstaje ono na rzecz fundacji-organizatora, która te prawa nabywa i odpowiada za jego utrzymanie w kolejnych edycjach; Mecenas nie ponosi kosztów utrzymania po pierwszej edycji.
 
-Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundatora nagrody; pierwsza runda oceny przez sponsora akademii, a gala wraz z oprawą przez sponsora gali.
+Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundatora nagrody; pierwsza runda oceny przez sponsora Akademii, a gala wraz z oprawą przez sponsora gali.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 

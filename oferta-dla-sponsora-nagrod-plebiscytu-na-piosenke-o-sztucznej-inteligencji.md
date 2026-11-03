@@ -55,11 +55,11 @@ Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a part
 
 ### Jak przebiega ocena
 
-1. Wszystkich zgłoszeń, które przeszły kontrolę formalną, słucha **akademia piosenki** - grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą kartą co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem.
+1. Wszystkich zgłoszeń, które przeszły kontrolę formalną, słucha **Akademia piosenki** - grono muzyków z doświadczeniem wykonawczym, powoływane w każdej edycji. Ocenia tą samą kartą co jury i przekazuje mu listę wyłonioną według zasad ogłoszonych przed naborem.
 2. **Jury** wybiera 10 finalistów i ustala ich kolejność: nagrodę główną, drugie i trzecie miejsce oraz 7 wyróżnień. Skład ogłaszamy wraz z sylwetkami przed otwarciem naboru.
 3. **Publiczność głosuje osobno**, w głosowaniu niezależnym od werdyktu jury. Przy głosie trzeba napisać uzasadnienie od 200 do 1500 znaków; bez uzasadnienia głos nie zostaje oddany. Liczniki i uzasadnienia są ukryte do gali.
 
-**Fundator nie ma wpływu ani na skład jury i akademii, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
+**Fundator nie ma wpływu ani na skład jury i Akademii, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
 
 ## <!--ikona:moneta--><span>Co obejmuje ta rola, czyli 3 rzeczy osobne</span>
 
@@ -209,7 +209,7 @@ Poza tytułem:
 - **Obecność w komunikacji plebiscytu**: wymienienie przy każdej wzmiance o nagrodach i o nagraniach studyjnych w materiałach Organizatora, w Słuchalni w czasie naboru i w Archiwum po gali.
 - **Wystąpienie przedstawiciela Fundatora na gali** oraz wręczenie nagrody głównej plebiscytu, wraz z kilkoma zdaniami o tym, dlaczego firma postanowiła sfinansować piosenki o sztucznej inteligencji.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
-- **Udział pracowników Fundatora** w akademii piosenki, na tych samych zasadach co pozostali oceniający.
+- **Udział pracowników Fundatora** w Akademii piosenki, na tych samych zasadach co pozostali oceniający.
 - **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: 60 dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
@@ -246,7 +246,7 @@ Dotąd świadczenia wyżej mówiły, **gdzie marka będzie widoczna**, a nie **i
 
 **Nazwa Nagrody nie podlega negocjacji.** Nie zmieniamy jej ani nie rozszerzamy o nazwę Fundatora; Nagroda Konstela ma pozostać Nagrodą Konstela w każdej kolejnej edycji, niezależnie od tego, kto ją finansuje. Tytuł Fundatora odnosi się do nagród plebiscytu piosenki, a nie do Nagrody jako całości.
 
-Fundator nie ma wpływu na wybór laureatów, skład jury i akademii ani treść werdyktu. Nie otrzymuje dostępu do wyników przed galą ani wglądu w zgłoszenia poza tym, co widzi każdy w Słuchalni.
+Fundator nie ma wpływu na wybór laureatów, skład jury i Akademii ani treść werdyktu. Nie otrzymuje dostępu do wyników przed galą ani wglądu w zgłoszenia poza tym, co widzi każdy w Słuchalni.
 
 Fundator nie nabywa praw do zgłoszonych utworów ani do nagrań studyjnych. **Tekst, muzyka i nagranie zostają własnością autora**; organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach:
 
@@ -275,7 +275,7 @@ Rola nie obejmuje:
 
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
-<div><dt>Przed otwarciem naboru</dt><dd>Ogłoszenie składu jury i akademii oraz zakresu sesji studyjnej<small>studio, liczba sesji i poprawek, przekazywane materiały i zasady pokrywania kosztów dojazdu; uczestnik ma wiedzieć, co dostaje, zanim się zgłosi</small></dd></div>
+<div><dt>Przed otwarciem naboru</dt><dd>Ogłoszenie składu jury i Akademii oraz zakresu sesji studyjnej<small>studio, liczba sesji i poprawek, przekazywane materiały i zasady pokrywania kosztów dojazdu; uczestnik ma wiedzieć, co dostaje, zanim się zgłosi</small></dd></div>
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu 3 warunków regulaminowych</small></dd></div>
 <div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>3 wersje jednego tekstu: 2 wygenerowane przez sztuczną inteligencję i trzecia napisana oraz wykonana przez muzyków; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniana jest wersja dostępna pod linkiem tego dnia</small></dd></div>

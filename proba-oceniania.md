@@ -16,7 +16,7 @@ Przedbieg konkursu na pięciu prawdziwych rozmowach. Trzy osoby oceniają je nie
 
 ## Czego to nie jest
 
-To nie jest próba kalibracyjna z kosztorysu. Tamta ma 24 godziny, odbywa się po podpisaniu umowy, na pełnym składzie akademii, i służy ustawieniu wspólnego standardu dla kilkudziesięciu oceniających. Ta jest mniejsza, wcześniejsza i służy pokazaniu partnerowi, że metoda działa.
+To nie jest próba kalibracyjna z kosztorysu. Tamta ma 24 godziny, odbywa się po podpisaniu umowy, na pełnym składzie Akademii, i służy ustawieniu wspólnego standardu dla kilkudziesięciu oceniających. Ta jest mniejsza, wcześniejsza i służy pokazaniu partnerowi, że metoda działa.
 
 ## Jak to przebiega
 

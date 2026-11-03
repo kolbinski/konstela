@@ -23,7 +23,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia filmó
 
 ## <!--ikona:tasma-filmowa--><span>Co to za materiał</span>
 
-Dziesięć filmów od 20 do 90 minut, **nakręconych na potrzeby plebiscytu**, z jawną punktacją akademii, jury i publiczności. Każdy ma autora, nazwisko i historię udziału, a cała dziesiątka ma wspólny temat: życie z AI, oglądane z dziesięciu stron naraz.
+Dziesięć filmów od 20 do 90 minut, **nakręconych na potrzeby plebiscytu**, z jawną punktacją Akademii, jury i publiczności. Każdy ma autora, nazwisko i historię udziału, a cała dziesiątka ma wspólny temat: życie z AI, oglądane z dziesięciu stron naraz.
 
 Materiał jest nietypowy pod jednym względem, który trzeba znać przed rozmową: **filmy są publicznie dostępne w serwisie YouTube**, bo wymaga tego regulamin plebiscytu. Nie ma tu więc premiery ani wyłączności - jest zestaw, selekcja i werdykt, których nie da się kupić gdzie indziej.
 

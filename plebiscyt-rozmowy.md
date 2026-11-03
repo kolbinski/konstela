@@ -28,7 +28,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 **Plebiscyt nie jest jeszcze ogłoszony.** Nabór planujemy otworzyć **w 2027 roku**, po zabezpieczeniu finansowania, a terminy w harmonogramie są planem, nie zobowiązaniem.
 
-**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i akademii ogłaszamy przed naborem.
+**Wysokość nagród zależy od pozyskanych sponsorów.** Podamy ją w dniu otwarcia naboru i od tej chwili pula może już tylko rosnąć – plebiscytu z nagrodami, których nie ma, nie ogłaszamy. Skład jury i Akademii ogłaszamy przed naborem.
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron; **dziś nie przesyłasz ani pracy, ani danych do zgłoszenia**.
 
@@ -40,7 +40,7 @@ Udział jest bezpłatny, a całe zgłoszenie to link, tytuł i krótki opis tego
 
 ### Wymogi formalne
 
-**Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [akademii](#kto-ocenia) i [jury](#kto-ocenia):**
+**Bez nich zgłoszenie jest odrzucane jeszcze przed oceną [Akademii](#kto-ocenia) i [jury](#kto-ocenia):**
 
 - **link do rozmowy, nie transkrypt** – zgłaszasz rozmowę udostępnioną po stronie dostawcy (share link). Link pokazuje udostępnioną wersję wątku, a nie całą historię jego powstawania; samo przeredagowanie wcześniejszego pytania nie jest więc inscenizacją ani powodem odrzucenia. Dostępność linku sprawdzamy przy zgłoszeniu, a działać ma przez cały czas trwania edycji plebiscytu. Wyklucza to narzędzia bez funkcji udostępniania
 - **rozmowa z AI ma mieć co najmniej 800 słów od Ciebie i 12 Twoich wypowiedzi** – liczymy wyłącznie Twoje, wypowiedzi AI się nie liczą; przy progu słów działa tolerancja 5 procent, którą opisuje regulamin. Górny limit to 25 tysięcy słów całości
@@ -68,7 +68,7 @@ Napisz, co w tej rozmowie było dla Ciebie ważne i w którym miejscu to się wy
 
 ### Kontakt do autora
 
-**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Czytelni](#czytelnia-i-archiwum) i w [Archiwum](#czytelnia-i-archiwum). Nie wpływa on na ocenę akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
+**Link do Twojej strony albo profilu – nieobowiązkowo.** Możesz podać adres swojej strony albo profilu w wybranym przez siebie serwisie; pokażemy go przy Twoim zgłoszeniu w [Czytelni](#czytelnia-i-archiwum) i w [Archiwum](#czytelnia-i-archiwum). Nie wpływa on na ocenę Akademii i jury, a usuniemy go albo zmienimy na Twoją prośbę w ciągu 14 dni. Jeżeli podpisujesz zgłoszenie pseudonimem, pamiętaj, że taki link może pozwolić ustalić Twoją tożsamość – decyzja należy do Ciebie.
 
 ### Tytuł i opis
 
@@ -76,7 +76,7 @@ Podajesz tytuł i krótki opis tego, co odkryłeś. Rozmowę tytułujesz sam, a 
 
 ### Ilustracja rozmowy
 
-Do zgłoszenia dołączasz jeden obrazek – ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w Czytelni i w Archiwum, a jeśli rozmowa wygra – także w Antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16 – pozostałe szczegóły podaje regulamin i formularz zgłoszeniowy. Ilustracja nie wpływa na ocenę rozmowy przez akademię ani jury.
+Do zgłoszenia dołączasz jeden obrazek – ilustrację Twojego dialogu z AI. To on reprezentuje Twoją rozmowę w Czytelni i w Archiwum, a jeśli rozmowa wygra – także w Antologii. Może powstać dowolnie, **również wygenerowany przez AI**, a jedyny warunek jest taki sam jak przy reszcie zgłoszenia: musisz mieć do niego prawa. Format pionowy 9:16 – pozostałe szczegóły podaje regulamin i formularz zgłoszeniowy. Ilustracja nie wpływa na ocenę rozmowy przez Akademię ani jury.
 
 Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru. Możesz [dodać swój e-mail](#kontakt), by zostać powiadomionym o rozpoczęciu naboru zgłoszeń.
 
@@ -112,7 +112,7 @@ Wszystkie szczegóły określa [regulamin](/dokument/regulamin-rozmowy), a [kart
 <div class="kafle jedna-kolumna">
 <article>
 <h3>Akademia</h3>
-<p><strong>Pierwszą rundę oceny zgłoszenia prowadzi akademia</strong> – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury.</p>
+<p><strong>Pierwszą rundę oceny zgłoszenia prowadzi Akademia</strong> – grono czytelników, które ocenia zgłoszenia na bieżąco przez cały rok naboru, według tej samej karty oceny co jury.</p>
 </article>
 <article>
 <h3>Jury</h3>
@@ -124,26 +124,26 @@ Oceniający oznaczają też w panelu zastrzeżenia prawne, jeżeli w rozmowie zo
 
 ### Co, jeżeli zgłoszeń będzie bardzo dużo
 
-Akademia to opłacani czytelnicy, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż akademia może przeczytać. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
+Akademia to opłacani czytelnicy, a ich liczba ma granicę. Dlatego regulamin przewiduje **rundy uczestników**: pierwszą kwalifikację zgłoszeń przeprowadzają wtedy sami uczestnicy, a wchodzi to w życie tylko w edycji, w której zgłoszeń jest więcej, niż Akademia może przeczytać. **W pierwszej edycji rund uczestników nie będzie.** Jeżeli miałyby się odbyć, powiemy o tym **w dniu ogłoszenia naboru** – razem ze wszystkimi parametrami i z terminami edycji, które uwzględniają czas ich przeprowadzenia. Nie wprowadzamy ich i nie wycofujemy w trakcie naboru, a parametrów nie zmieniamy.
 
 Gdyby runda uczestników się odbywała, wyglądałoby to tak:
 
-- **Warunkiem rozpatrzenia Twojego zgłoszenia jest przeczytanie i ocenienie do czterech cudzych rozmów** w rundzie, do której trafiło. W przydziale są jeszcze **dwie rozmowy wzorcowe** ocenione wcześniej przez akademię – nie wiesz które – więc do przeczytania jest do sześciu. Zgłoszenia przydzielamy losowo i ślepo: nie wybierasz, co oceniasz, i nie wiesz, kto to napisał
+- **Warunkiem rozpatrzenia Twojego zgłoszenia jest przeczytanie i ocenienie do czterech cudzych rozmów** w rundzie, do której trafiło. W przydziale są jeszcze **dwie rozmowy wzorcowe** ocenione wcześniej przez Akademię – nie wiesz które – więc do przeczytania jest do sześciu. Zgłoszenia przydzielamy losowo i ślepo: nie wybierasz, co oceniasz, i nie wiesz, kto to napisał
 - **przydział liczymy w słowach, nie w sztukach.** Rozmowa może mieć od 3 tysięcy do 25 tysięcy słów, czyli od pół godziny do dwóch i pół godziny czytania. Gdybyśmy liczyli w sztukach, jeden uczestnik dostałby za ten sam obowiązek kilka razy więcej pracy niż drugi. Dlatego przydział obejmuje cztery cudze rozmowy **albo ustaloną liczbę słów – co wyczerpie się pierwsze**. Jeżeli trafią Ci się dwie bardzo długie, przeczytasz dwie i to koniec. Rozmowy wzorcowe są poza tym budżetem i dobieramy do niego wyłącznie krótsze zgłoszenia, żeby w każdym przydziale zostało miejsce na choć jedną cudzą rozmowę
 - **W tej edycji Czytelnia nie pokazuje autorów do dnia ogłoszenia wyników** – a na kartach do głosowania publiczności miejsce podpisu zajmuje do tego dnia numer zgłoszenia.
-- **rozmowy wzorcowe ustalamy przed pierwszą rundą**, bo akademia zaczyna czytać dopiero po jej zakończeniu: to rozmowy spoza edycji ocenione przed naborem albo zgłoszenia ocenione przez akademię w czasie naboru właśnie w tym celu. Zbiór liczy co najmniej dwadzieścia rozmów i odświeżamy go w każdej rundzie, żeby nie dał się rozpisać. Jeżeli odrzucisz przydzielone zgłoszenie, które było wzorcowe, dostaniesz inne wzorcowe – w przydziale zawsze są dwa Podpisy i linki do profili pojawiają się razem z wynikami. Bez tego ocena ślepa byłaby pozorna, bo wystarczyłoby wyszukać przydzieloną rozmowę w Czytelni. **Nie obiecujemy jednak, że treść rozmowy nie zdradzi autora** – i dlatego, jeżeli rozpoznasz kogoś, kogo znasz, masz obowiązek odstąpić od oceny i dostajesz inne zgłoszenie. Odstąpienie nie liczy się do Twojego prawa odmowy i nie ma dla Ciebie żadnych następstw
+- **rozmowy wzorcowe ustalamy przed pierwszą rundą**, bo Akademia zaczyna czytać dopiero po jej zakończeniu: to rozmowy spoza edycji ocenione przed naborem albo zgłoszenia ocenione przez Akademię w czasie naboru właśnie w tym celu. Zbiór liczy co najmniej dwadzieścia rozmów i odświeżamy go w każdej rundzie, żeby nie dał się rozpisać. Jeżeli odrzucisz przydzielone zgłoszenie, które było wzorcowe, dostaniesz inne wzorcowe – w przydziale zawsze są dwa Podpisy i linki do profili pojawiają się razem z wynikami. Bez tego ocena ślepa byłaby pozorna, bo wystarczyłoby wyszukać przydzieloną rozmowę w Czytelni. **Nie obiecujemy jednak, że treść rozmowy nie zdradzi autora** – i dlatego, jeżeli rozpoznasz kogoś, kogo znasz, masz obowiązek odstąpić od oceny i dostajesz inne zgłoszenie. Odstąpienie nie liczy się do Twojego prawa odmowy i nie ma dla Ciebie żadnych następstw
 - **przydzielonych rozmów nie wolno kopiować, publikować ani udostępniać** – ani w czasie edycji, ani potem. Licencja autora nie obejmuje żadnego innego korzystania z jego rozmowy przez Ciebie. Naruszenie tego zakazu oznacza wykluczenie z plebiscytu
 - **każde zgłoszenie dostaje co najmniej trzy oceny.** Skoro przydziały mają różną wielkość, rozmowy nie zbierają ich równo – więc te, którym zabrakło, dobierają oceniających w kolejnym przydziale. Żadne zgłoszenie nie wypada z powodu braku oceniających
-- oceniasz **tą samą jawną kartą oceny**, co akademia i jury; nie ma osobnych, tajnych kryteriów
+- oceniasz **tą samą jawną kartą oceny**, co Akademia i jury; nie ma osobnych, tajnych kryteriów
 - **karta musi być kompletna**: punkty i uzasadnienie przy każdym z czterech kryteriów. Puste uzasadnienie, to samo zdanie skopiowane pod każde kryterium albo przepisany fragment ocenianej rozmowy to karta niewypełniona, nie karta wypełniona słabo. **Nie sprawdzamy natomiast, czy Twoja ocena jest słuszna** – niska albo wysoka punktacja nie jest powodem odrzucenia odczytu
 - na ocenę masz **14 dni**, przypominamy dwa razy, a **jedno przydzielone zgłoszenie możesz odrzucić** bez podawania powodu; zastępcze ma zbliżoną długość, żeby odmowa nie służyła do dobierania sobie przydziału
-- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) odczyty przejmuje akademia, a zgłoszenie idzie dalej
-- **jeżeli odczytów nie wykona dość dużo osób, runda nie zawęża pola.** Ogłaszamy z góry, jaki odsetek przydzielonych odczytów runda musi osiągnąć; poniżej tego progu niewykonanie przestaje być podstawą odpadnięcia, a pole zawęża akademia własnym trybem. Nie chcemy, żeby o finalistach rozstrzygała sumienność, a nie wartość rozmów
-- oceny uczestników **nie przyznają nagród i nie są werdyktem**. Służą tylko do tego, żeby ustalić, które rozmowy trafią do opłacanej akademii – a akademia czyta je **od nowa, nie znając Twoich ocen**
+- jeżeli nie ocenisz, Twoje zgłoszenie nie przechodzi do dalszych rund; w uzasadnionych przypadkach (choroba, zdarzenie losowe, brak zgody opiekuna u osoby niepełnoletniej) odczyty przejmuje Akademia, a zgłoszenie idzie dalej
+- **jeżeli odczytów nie wykona dość dużo osób, runda nie zawęża pola.** Ogłaszamy z góry, jaki odsetek przydzielonych odczytów runda musi osiągnąć; poniżej tego progu niewykonanie przestaje być podstawą odpadnięcia, a pole zawęża Akademia własnym trybem. Nie chcemy, żeby o finalistach rozstrzygała sumienność, a nie wartość rozmów
+- oceny uczestników **nie przyznają nagród i nie są werdyktem**. Służą tylko do tego, żeby ustalić, które rozmowy trafią do opłacanej Akademii – a Akademia czyta je **od nowa, nie znając Twoich ocen**
 - jakość ocen pilnujemy trzema narzędziami: **dwiema rozmowami wzorcowymi** w przydziale, **normalizacją** względem ich znanej punktacji, oraz **zgodnością z pozostałymi ocenami tej samej rozmowy** – każdą rozmowę czyta kilka osób, więc ocena odstająca od wszystkich pozostałych trafia do przeglądu. To ostatnie narzędzie jest tu najważniejsze, bo działa także wtedy, gdy ktoś rozpozna rozmowy wzorcowe
 - skutek **omyłki w ocenianiu** spada na tę ocenę, nie na Twoje zgłoszenie: ocena zostaje pominięta przy ustalaniu wyniku, a rozmowa, która ją straciła, dostaje odczyt uzupełniający; Twoja rozmowa nie jest za to karana
 - inaczej jest z **oceną pozorną**, czyli taką, przy której widać, że rozmowa nie została przeczytana: te same punkty we wszystkich czterech kryteriach przy rozbieżności z rozmową wzorcową, karta niekompletna albo rozbieżność z obiema rozmowami wzorcowymi. Wtedy odczyt uznajemy za niewykonany i dostajesz przydział zastępczy; przy powtórzeniu Twoje zgłoszenie nie przechodzi dalej. Przesłanki są wyliczone w regulaminie i mierzalne – nie oceniamy Twoich intencji. **Masz na to 7 dni zastrzeżeń**, które rozpatruje ktoś inny niż osoba podejmująca pierwszą decyzję
-- rundy uczestników powtarzamy, dopóki pole nie zejdzie do liczby ogłoszonej przed naborem, a **w całej edycji nie ocenisz więcej niż szesnastu cudzych rozmów ani więcej niż czterokrotności budżetu słów** – po przekroczeniu tej granicy Twoje odczyty przejmuje akademia, a zgłoszenie idzie dalej
+- rundy uczestników powtarzamy, dopóki pole nie zejdzie do liczby ogłoszonej przed naborem, a **w całej edycji nie ocenisz więcej niż szesnastu cudzych rozmów ani więcej niż czterokrotności budżetu słów** – po przekroczeniu tej granicy Twoje odczyty przejmuje Akademia, a zgłoszenie idzie dalej
 
 Całą konstrukcję, wraz z uzasadnieniem, opisuje [dokument o skalowaniu oceny](/dokument/skalowanie-oceny); wiążące brzmienie jest w [regulaminie](/dokument/regulamin-rozmowy), w § 8 ust. 10c.
 
@@ -189,7 +189,7 @@ Trzy werdykty – jury, uczniów i publiczności – są od siebie niezależne i
 <div class="kafle jedna-kolumna">
 <article>
 <h3 id="jak-dziala-nagroda-uczniowska">Jak działa Nagroda Uczniowska</h3>
-<p><strong>Tę nagrodę rozstrzygają uczniowskie grupy czytające.</strong> Czytają i oceniają według <strong>tej samej jawnej karty oceny</strong> co akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.</p>
+<p><strong>Tę nagrodę rozstrzygają uczniowskie grupy czytające.</strong> Czytają i oceniają według <strong>tej samej jawnej karty oceny</strong> co Akademia i jury, a swoją rozmowę wskazują niezależnie od nich. Wzorem jest francuska Nagroda Goncourtów Licealistów, przyznawana obok nagrody głównej od ponad trzydziestu lat.</p>
 <p><strong>Jedna szkoła – jedno wskazanie.</strong> Czytać może dowolnie wiele klas i uczniów. Wskazanie szkoła przedstawia jedno, uzgodnione między swoimi grupami – to zresztą najciekawsza część zajęć, bo wymaga obrony własnego wyboru przed rówieśnikami. Nagrodę dostaje rozmowa wskazana przez najwięcej szkół; przy remisie ta wskazana wcześniej.</p>
 <p><strong>Zgłasza szkoła.</strong> Po stronie szkoły stoi nauczyciel koordynujący grupę. Udział nie wymaga żadnej opłaty ani zgody kuratorium – jest decyzją szkoły, a nie poleceniem ministerstwa.</p>
 <p><strong>Jak sprawdzamy, że to naprawdę szkoła.</strong> W formularzu wybiera się szkołę z rejestru państwowego, a kod potwierdzający wysyłamy <strong>na adres tej szkoły zapisany w rejestrze</strong> – nie na adres wpisany przez zgłaszającego. Nauczyciel przepisuje kod i potwierdza zgłoszoną ocenę. Jeśli rejestr nie ma adresu albo adres nie działa, potwierdzamy telefonicznie, pod numerem szkoły z rejestru. Nie zbieramy przy tym żadnych danych uczniów – ani imion, ani numerów telefonu; do nas trafia werdykt grupy, a lista czytających zostaje w szkole.</p>
@@ -221,21 +221,21 @@ Po zgłoszeniu w plebiscycie i przejściu weryfikacji formalnej każde zgłoszen
 
 ### Bez liczników i bez konta
 
-W Czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytaniem, a przy ocenianiu przez akademię, jury i publiczność właśnie tego chcemy uniknąć. Rozmowę można oznaczyć gwiazdką i wrócić do niej później; gwiazdki zostają w przeglądarce czytelnika i nigdy nie trafiają do nas. Listę rozmów oznaczonych gwiazdką można wyeksportować i wczytać na innym urządzeniu; korzystanie z Czytelni nie wymaga konta.
+W Czytelni nie pokazujemy popularności zgłoszeń, bo kierowałaby ona czytaniem, a przy ocenianiu przez Akademię, jury i publiczność właśnie tego chcemy uniknąć. Rozmowę można oznaczyć gwiazdką i wrócić do niej później; gwiazdki zostają w przeglądarce czytelnika i nigdy nie trafiają do nas. Listę rozmów oznaczonych gwiazdką można wyeksportować i wczytać na innym urządzeniu; korzystanie z Czytelni nie wymaga konta.
 
 ### Archiwum
 
-Po ogłoszeniu wyników Czytelnia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się trzema rzeczami: pokazuje **treść rozmowy** – naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok linku do wersji opublikowanej przez Ciebie u dostawcy AI; zgłoszone rozmowy będzie można przeczytać **w wygodnym formacie** – na stronie, jako e-book albo plik do wydruku; a całość **da się przeglądać i sortować** według ocen wystawionych przez akademię, jury i publiczność.
+Po ogłoszeniu wyników Czytelnia zamienia się w Archiwum, udostępniane bezpłatnie i bez planowanego terminu zamknięcia. Archiwum różni się trzema rzeczami: pokazuje **treść rozmowy** – naszą kopię, zrobioną przy zgłoszeniu rozmowy w plebiscycie, obok linku do wersji opublikowanej przez Ciebie u dostawcy AI; zgłoszone rozmowy będzie można przeczytać **w wygodnym formacie** – na stronie, jako e-book albo plik do wydruku; a całość **da się przeglądać i sortować** według ocen wystawionych przez Akademię, jury i publiczność.
 
 ### Jawność punktacji
 
-**Jawność ocen zgłoszonych rozmów – wystawionych przez akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podanie pseudonimu w zgłoszeniu.
+**Jawność ocen zgłoszonych rozmów – wystawionych przez Akademię, jury i publiczność – dotyczy wszystkich zgłoszeń, nie tylko nagrodzonej dziesiątki**, i jest warunkiem udziału zgodnie z regulaminem. Mówimy o tym wprost, bo trwale widoczna niska ocena może być problemem zgłaszającego: dlatego zasada jest ogłoszona teraz, a rozwiązaniem może być podanie pseudonimu w zgłoszeniu.
 
 ## <!--ikona:tarcza--><span>Prawa do Twojej rozmowy</span>
 
 ### Licencja i podpis
 
-Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w Antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści Antologii, czyli do 31 maja 2028 – po tym dniu Antologia idzie do druku.
+Zgłoszenie w plebiscycie oznacza akceptację warunków publikacji wraz z oceną dokonywaną przez Akademię, jury i publiczność. Udzielasz nam licencji na publikację rozmowy w Antologii i w Archiwum **na pięć lat od ogłoszenia wyników; potem przekształca się ona w licencję bezterminową** na zasadach regulaminu. Do podpisu Twojej rozmowy z AI wybierasz jedno: imię i nazwisko lub pseudonim. Zgłoszenie możesz wycofać najpóźniej do dnia zamknięcia treści Antologii, czyli do 31 maja 2028 – po tym dniu Antologia idzie do druku.
 
 ### Pseudonim nie anonimizuje treści
 
@@ -292,7 +292,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 
 ### Kto za tym stoi
 
-Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
+Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w tym celu; jej fundatorem i autorem koncepcji jest **[Krzysztof Olbiński](https://www.toptal.com/developers/resume/krzysztof-olbinski)**, inżynier oprogramowania z ponad dwudziestoletnim stażem, i on odpowiada dziś za przygotowania oraz kontakt. Składy jury i Akademii ogłaszamy przed naborem. Więcej o samej nagrodzie: [konstela.org](/).
 
 ## <!--ikona:iskra--><span>Gala</span>
 
@@ -322,7 +322,7 @@ Napisz, jeśli:
 - **chcesz dowiedzieć się pierwszy, gdy ruszy nabór** – trafisz wtedy na listę i dostaniesz jedną wiadomość w dniu otwarcia
 - **rozmawiasz z AI i masz pytanie** o zasady, terminy albo sposób zgłoszenia
 - **jesteś nauczycielem** i chcesz zgłosić uczniowską grupę czytającą do Nagrody Uczniowskiej
-- **chcesz czytać i oceniać zgłoszenia w akademii** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
+- **chcesz czytać i oceniać zgłoszenia w Akademii** – szukamy ludzi do pierwszej rundy oceny; to praca płatna, w ustalonym z góry wymiarze
 
 Jeśli to nie dla Ciebie, a znasz kogoś, kto powinien o tym wiedzieć, polecenie też jest pomocą.
 
