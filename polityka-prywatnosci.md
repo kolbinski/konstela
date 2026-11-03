@@ -12,7 +12,7 @@ Administrator nie powołał inspektora ochrony danych; obowiązki w tym zakresie
 
 ## 2. Czego dotyczy ta polityka
 
-Polityka opisuje przetwarzanie danych podczas odwiedzania strony konstela.org oraz w związku ze zgłoszeniem do któregokolwiek z plebiscytów Nagrody Konstela: na rozmowę ze sztuczną inteligencją, na piosenkę o niej, na plakat o niej i na film o niej. Obejmuje także głosowanie publiczności, w którym bierze udział nie uczestnik, lecz osoba głosująca.
+Polityka opisuje przetwarzanie danych podczas odwiedzania strony konstela.org oraz w związku ze zgłoszeniem do któregokolwiek z plebiscytów Nagrody Konstela: na rozmowę ze sztuczną inteligencją, na piosenkę o sztucznej inteligencji, na plakat o sztucznej inteligencji i na film o sztucznej inteligencji. Obejmuje także głosowanie publiczności, w którym bierze udział nie uczestnik, lecz osoba głosująca.
 
 Każdy plebiscyt ma własny regulamin i własną konstrukcję zgłoszenia, więc dane i terminy są w każdym inne. Rozdziały 4-7 opisują je osobno; rozdziały 8-14 są wspólne. Zasady samych plebiscytów określają regulaminy, a tryb postępowania ze zgłoszeniem, które może budzić zastrzeżenia prawne, opisuje jawna [procedura moderacji zgłoszeń](/dokument/procedura-moderacji). Niniejszy dokument je uzupełnia, a w razie rozbieżności w zakresie danych osobowych pierwszeństwo ma Polityka.
 

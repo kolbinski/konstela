@@ -12,7 +12,7 @@
 
 4. Fundatorem nagród pieniężnych jest podmiot lub podmioty wskazane w ogłoszeniu o otwarciu naboru. Organizator nie finansuje puli nagród ze środków własnych i nie pobiera od Uczestników żadnych opłat.
 
-5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na najlepszą rozmowę ze sztuczną inteligencją, na piosenkę o niej i na plakat o niej, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
+5. **Miejsce tego plebiscytu wśród pozostałych.** Nagroda Konstela przyznawana jest również w plebiscytach na najlepszą rozmowę ze sztuczną inteligencją, na piosenkę o sztucznej inteligencji i na plakat o sztucznej inteligencji, prowadzonych na podstawie odrębnych regulaminów i rozstrzyganych na tej samej gali. Zwycięzcy wszystkich plebiscytów otrzymują ten sam medal Nagrody; pule nagród pieniężnych, kryteria oceny i terminy są dla każdego plebiscytu odrębne.
 
 
 ## § 1a. Ustalenie werdyktu a jego publiczne ogłoszenie
