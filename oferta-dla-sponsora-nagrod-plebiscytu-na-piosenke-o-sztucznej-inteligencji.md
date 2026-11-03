@@ -88,7 +88,7 @@ To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 u
 
 [Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału. Powstaje do jednego tekstu w **3 wersjach: 2 wygenerowanych przez sztuczną inteligencję i trzeciej, którą napiszą i wykonają muzycy** - po to, żeby na gali dało się je usłyszeć obok siebie. Hymn otwiera i zamyka galę.
 
-**Premiera hymnu wypada w czasie trwania naboru w 2027 roku**, bo hymn jest także zaproszeniem do zgłoszeń. Jedno zastrzeżenie wprost: **otwarcie edycji nie jest od hymnu uzależnione.** Warunki otwarcia naboru są 3 i hymnu wśród nich nie ma, więc opóźnienie produkcji nie wstrzymuje plebiscytu, a plebiscyt nie wstrzymuje hymnu.
+**Premiera hymnu wypada w czasie trwania naboru w 2027 roku**, bo hymn jest także zaproszeniem do zgłoszeń. Jedno zastrzeżenie wprost: **otwarcie edycji nie jest od hymnu uzależnione.** Warunków otwarcia naboru jest 5 i hymnu wśród nich nie ma, więc opóźnienie produkcji nie wstrzymuje plebiscytu, a plebiscyt nie wstrzymuje hymnu.
 
 ### Fundator może sfinansować tylko część
 
