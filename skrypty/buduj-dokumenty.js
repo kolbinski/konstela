@@ -206,6 +206,8 @@ const OFERTY = new Set([
   'oferta-dla-prowadzacego-podcast',
   'oferta-dla-patrona-medialnego',
   'pismo-tvp-partner-telewizyjny',
+  'pismo-tvn-partner-telewizyjny',
+  'pismo-polsat-partner-telewizyjny',
 ]);
 
 const PASEK_OFERTY = `<nav class="akcje" aria-label="Zapis i wydruk">
