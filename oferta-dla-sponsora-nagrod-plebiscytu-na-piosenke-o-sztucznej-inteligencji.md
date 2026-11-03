@@ -61,9 +61,9 @@ Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a part
 
 **Fundator nie ma wpływu ani na skład jury i Akademii, ani na wyniki.** Niezależność oceny jest warunkiem wiarygodności całości i nie jest przedmiotem negocjacji.
 
-## <!--ikona:moneta--><span>Co obejmuje ta rola, czyli 3 rzeczy osobne</span>
+## <!--ikona:moneta--><span>Co obejmuje ta rola</span>
 
-Ta rola finansuje 3 rzeczy, które warto rozpatrywać oddzielnie, bo oddzielnie powstają i oddzielnie się rozliczają.
+Rola finansuje trzy rzeczy, które powstają i rozliczają się oddzielnie.
 
 ### 1. Nagrody - 47 000 zł brutto
 
