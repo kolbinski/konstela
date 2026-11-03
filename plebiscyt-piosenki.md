@@ -300,7 +300,7 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, raze
 
 **Autorzy trzech najwyżej ocenionych utworów są zapraszani do wykonania ich na żywo**, a hymn Nagrody otwiera i zamyka galę. Nazwiska pozostałych finalistów są odczytywane ze sceny.
 
-**[Hymn Nagrody „Zapytaj inaczej”](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału.** Powstaje do jednego tekstu w trzech wersjach: dwóch wygenerowanych przez AI i trzeciej, którą napiszą i wykonają muzycy – po to, żeby na gali dało się je usłyszeć obok siebie. Jeżeli zajmujesz się muzyką, strona hymnu mówi, czego do niego szukamy.
+**[Hymn Nagrody „Zapytaj inaczej”](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału.** Powstaje do jednego tekstu w dwóch wersjach: muzyce wygenerowanej przez AI, którą już słychać na stronie hymnu, oraz nowej kompozycji, którą napiszą i nagrają muzycy – po to, żeby na gali dało się je usłyszeć obok siebie. Jurorzy piszą własną muzykę, a nie wykonują melodii z generatora. Jeżeli zajmujesz się muzyką, strona hymnu mówi, czego do niego szukamy.
 
 **Na obecności czołowej trójki opiera się część artystyczna gali rozdania nagród**, więc udział uzgadniamy z laureatami zaraz po werdykcie. **Dojazd i nocleg całej dziesiątki finalistów pokrywa organizator.** Ani nieobecność z powodu choroby lub zdarzenia losowego, ani odmowa występu nie pozbawia nikogo nagrody – utwór nie jest wtedy wykonywany na żywo.
 

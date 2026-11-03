@@ -86,7 +86,7 @@ To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 u
 
 ### 3. Hymn Nagrody z teledyskiem - 80 000 zł netto
 
-[Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału. Powstaje do jednego tekstu w **3 wersjach: 2 wygenerowanych przez sztuczną inteligencję i trzeciej, którą napiszą i wykonają muzycy** - po to, żeby na gali dało się je usłyszeć obok siebie. Hymn otwiera i zamyka galę.
+[Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału. Powstaje do jednego tekstu w **2 wersjach: muzyce wygenerowanej przez sztuczną inteligencję, którą już słychać na stronie hymnu, oraz nowej kompozycji, którą napiszą i nagrają muzycy** - po to, żeby na gali dało się je usłyszeć obok siebie. Porównanie dotyczy kompozycji, nie wykonania: jurorzy piszą własną muzykę do tego samego tekstu, a nie wykonują melodii z generatora, bo inaczej hymn łamałby zasadę stawianą zgłaszającym. Hymn otwiera i zamyka galę.
 
 **Premiera hymnu wypada w czasie trwania naboru w 2027 roku**, bo hymn jest także zaproszeniem do zgłoszeń. Jedno zastrzeżenie wprost: **otwarcie edycji nie jest od hymnu uzależnione.** Warunków otwarcia naboru jest 5 i hymnu wśród nich nie ma, więc opóźnienie produkcji nie wstrzymuje plebiscytu, a plebiscyt nie wstrzymuje hymnu.
 
