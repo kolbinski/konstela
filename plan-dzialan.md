@@ -1101,6 +1101,18 @@ Przy pisaniu pakietu dla redakcji doszedłem do zdania „na każde wejście dos
 
 **Wniosek metodyczny.** Recenzja z jednej strony stołu nie wyłapie wady widocznej z drugiej: dyrektor anteny nie miał powodu pytać, czy mój bohater nie jest przypadkiem uczestnikiem konkursu, który sam prowadzę. Przy każdej ofercie medialnej trzeba osobno sprawdzić, **czy to, co obiecuję pokazać, nie zmienia wyniku oceny**.
 
+## Pismo do telewizji przebudowane wokół celu, a nie wokół decyzji adresata (3.11.2026)
+
+Po siódmej turze pismo zostało poukładane tak, jak podpowiadał recenzent: na początku najmniejsza możliwa decyzja, pilotaż oddzielony od reszty, a siedem elementów odesłanych na stronę roli. Wyszedł z tego dokument, który **warunkował moją własną prośbę**: zdanie „o list intencyjny proszę dopiero wtedy, gdy właściwa redakcja potwierdzi zainteresowanie" jest przeszkodą postawioną sobie samemu, w sprawie, w której decyzja należy do adresata, nie do mnie. Recenzent miał prawo powiedzieć, że na tym etapie listu by nie podpisał - ja nie miałem powodu prosić o niego słabiej, niż go potrzebuję.
+
+**Cel pisma nazwany wprost, na początku:** żeby Telewizja Polska weszła w to na etapie zalążkowym - teraz, kiedy nic to nie kosztuje, a decyduje o tym, czy edycja powstanie. Trzy prośby w kolejności wagi: **list intencyjny** (najważniejszy, bo bez odpowiedzi na pytanie „czy ktokolwiek to pokaże" rozmowa z fundatorami nie zaczyna się w ogóle), **pomoc w skompletowaniu jury** (podniesiona z prośby dodatkowej do jednej z dwóch głównych), wskazanie osoby do rozmowy o antenie. Pierwsze dwie nie wymagają decyzji o ramówce ani o budżecie - i to jest w piśmie powiedziane.
+
+**Wszystkie dziesięć elementów wróciło do pisma, napisane pod TVP**: cykl w „Pytaniu na śniadanie", transmisja gali w TVP Kultura, podcast w TVP Nauka, nagrodzona piosenka w kąciku muzycznym „Teleexpressu" - z zastrzeżeniem, że pasma wskazuję przykładowo, bo o ramówce rozstrzyga stacja. Odsyłanie po opis świadczeń na stronę roli było wygodne dla objętości, ale przenosiło pracę na adresata pierwszego kontaktu.
+
+**Co zostało z poprzedniej przebudowy:** ograniczenie, że uczestnicy i ich zgłoszenia wchodzą na antenę po werdykcie, podział pracy przy zdjęciach, brak tematów poszczególnych wejść oraz to, że pytanie o reprezentację spółki w likwidacji nie jest warunkiem żadnej z trzech prośb.
+
+**Wniosek metodyczny, trzeci w tej serii o tym samym.** Recenzent ocenia dokument z pozycji adresata i będzie zawężał to, o co go proszę - taka jest jego rola. Przyjmowanie tego zawężenia jako własnego brzmienia prośby to oddanie mu decyzji, która należy do niego dopiero po przeczytaniu pisma. **Uwagi o wadach przyjmuje się w całości, uwagi o moich celach - nie.**
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
