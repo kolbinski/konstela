@@ -1069,6 +1069,14 @@ W samym piśmie recenzent nie widzi już dalszej zasadniczej przeszkody do rozpo
 
 **Wniosek metodyczny.** Dwa razy w tej serii wada powstała nie z braku wiedzy, lecz z nieprzepisania zdania po zmianie założenia: raz zakres pilotażu, teraz kalendarz teledysku. Po każdej zmianie terminu albo zakresu trzeba przejść wszystkie zdania mówiące „przed", „po" i „do", a każdą datę w dokumencie idącym na zewnątrz sprawdzić w regulaminie, nie w pamięci.
 
+## Szósta tura zamyka recenzję pisma do telewizji (3.11.2026)
+
+Brak uwag blokujących wysłanie. W przyjętej roli recenzent odpowiedziałby na pismo i przekazał propozycję czterech wejść do oceny redakcyjnej oraz do wyceny, a na kolegium wniósłby **rozważenie pilotażu** - nie całego partnerstwa do września 2028. Objętość została jako uwaga o skuteczności pierwszego kontaktu, nie jako przeszkoda.
+
+**Zdanie, które zamyka całą serię szesnastu tur nad ofertami i pismami:** dalszą decyzję muszą uzasadnić **konkretni bohaterowie, próbki materiałów, finansowanie i koszt udziału stacji**, a nie kolejne poprawki dokumentu. To ta sama granica, którą pokazała szósta tura oferty plakatu: od pewnego momentu recenzja tekstu nie ma już czego naprawić, bo brakuje nie zdań, lecz rzeczy - galerii, pieniędzy, umów, nazwisk.
+
+**Co z tego wynika dla pisma do TVP:** jest gotowe do wysłania. Zostaje PDF z opublikowanej strony, adres e-Doręczeń Telewizji Polskiej i krótka treść wiadomości, która już jest w `mail-tvp-list.md`. Po wysłaniu trzeba poprawić `mc-nota-koncepcyjna.md`, gdzie przy TVP Nauka stoi, że rozmowy nie zostały podjęte.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
