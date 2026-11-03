@@ -979,6 +979,16 @@ Odpowiedź z 3.11.2026 jest odmowna i uprzejma: czat Bielika jest demem, nie pro
 
 **Czego z tej odmowy nie robimy.** Nie szukamy obejścia w postaci zgłoszenia bez linku - cały sposób dowodzenia stoi na tym, że każdy może sprawdzić, iż oceniono dokładnie to, co zgłoszono, a wyjątek dla jednego dostawcy znosiłby tę regułę dla wszystkich. Nie zabiegamy też o partnerstwo z dostawcą modelu: to konflikt interesów w czystej postaci, odnotowany w `koncepcja.md`, i nic się w tej ocenie nie zmieniło.
 
+## List do telewizji publicznej w sprawie roli partnera telewizyjnego (3.11.2026)
+
+Rola partnera telewizyjnego nie wymaga od stacji pieniędzy, tylko anteny i czasu redakcji, więc pierwszym adresatem jest telewizja publiczna, u której to przedsięwzięcie mieści się w zadaniach ustawowych: bezpłatna Antologia, publiczne Archiwum bez opłat i bez rejestracji, pomoc dydaktyczna dla szkół, wszystko po polsku.
+
+**Droga: biuro programowe, nie redakcja tematyczna.** Tylko ta droga może rozstrzygnąć o wyłączności roli i o wejściu cyklu do ramówki na cały rok naboru; redakcje tematyczne i program poranny zostają jako węższe warianty, jeżeli odpowiedź będzie odmowna albo nie przyjdzie.
+
+**W liście jest akapit o likwidacji spółki i jest tam świadomie.** Zakres obejmuje zobowiązania od stycznia 2027 do czerwca 2028, a stan likwidacji trwa od 2024 roku, więc pytanie, kto może zawrzeć zobowiązanie o takim horyzoncie i co się z nim dzieje przy zmianie formy prawnej, padnie na pierwszym spotkaniu niezależnie od tego, czy je zadamy. Pytamy więc sami i w tym samym akapicie podajemy sytuację po naszej stronie: fundacja jeszcze nie istnieje i zostanie wpisana do rejestru przed otwarciem naboru. **Jest to ta sama symetria, której wymagamy od siebie wobec partnerów finansujących** - nie prosimy nikogo o zaufanie, którego sami nie dajemy.
+
+Czego w liście nie ma: prognozy oglądalności, wpływu na werdykt, wyłączności na filmy finałowe i na zapis gali. Trzy ostatnie nie są nasze do dania, a pierwszej nie znamy.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
