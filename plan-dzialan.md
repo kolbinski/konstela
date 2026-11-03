@@ -1059,6 +1059,16 @@ Propozycja czterech wejść idzie do oceny redakcji i do wyceny produkcyjnej. Zo
 
 **Wniosek metodyczny.** Przy dokumencie, który narasta przez kilka tur, objętość jest wadą osobnego rodzaju: nie da się jej naprawić dopisaniem akapitu, a każda dobra poprawka ją pogłębia. Warto sprawdzać po każdej turze, ile z tekstu tłumaczy rzeczy, które adresat zna z własnego zawodu.
 
+## Piąta tura pisma do telewizji: data wzięta z pamięci i ograniczenie, którego nic nie wymaga (3.11.2026)
+
+W samym piśmie recenzent nie widzi już dalszej zasadniczej przeszkody do rozpoczęcia rozmów. Zdanie, które warto zapamiętać przy pokusie dopisywania kolejnych zapewnień: **zgoda na emisje wymaga oceny materiałów, kosztów i zabezpieczenia realizacji, a dopisywanie zapewnień tego nie zastąpi.**
+
+**Błędna data naboru.** Napisałem, że zachęta do zgłoszeń pozostaje użyteczna „do grudnia 2027 w plebiscytach film i plakat", podczas gdy regulaminy obu zamykają nabór **30 listopada 2027**. Grudniowa zapowiedź prowadziłaby widza do zamkniętego konkursu - i to przy elemencie, który stacja planuje z wyprzedzeniem. Data nie wzięła się z regulaminu, tylko z zaokrąglenia w pamięci przy pisaniu jednego zdania o terminach. W piśmie stoją dziś wszystkie cztery daty zamknięcia: 30 listopada 2027 film i plakat, 31 grudnia 2027 piosenka, 10 stycznia 2028 rozmowa.
+
+**Ograniczenie, którego nic nie wymagało.** Pisałem, że emisja teledysku należy do rozmowy przed naborem, choć premiera hymnu wypada w czasie naboru - rozmowa może więc odbyć się po jego otwarciu, byle odpowiednio wcześnie przed premierą. Zdanie zostało z wersji, w której cały zakres antenowy miał być ustalony przed naborem, i samo z siebie zawężało kalendarz partnera.
+
+**Wniosek metodyczny.** Dwa razy w tej serii wada powstała nie z braku wiedzy, lecz z nieprzepisania zdania po zmianie założenia: raz zakres pilotażu, teraz kalendarz teledysku. Po każdej zmianie terminu albo zakresu trzeba przejść wszystkie zdania mówiące „przed", „po" i „do", a każdą datę w dokumencie idącym na zewnątrz sprawdzić w regulaminie, nie w pamięci.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
