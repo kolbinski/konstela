@@ -1,6 +1,6 @@
 Szanowni Państwo,
 
-powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją, a także przyznawaną w plebiscycie na film, piosenkę i plakat o AI. Nagradzany jest człowiek, nie program.
+powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją, a także przyznawaną w plebiscycie na film, piosenkę i plakat o sztucznej inteligencji. Nagradzany jest człowiek, nie maszyna.
 
 Zwracam się z propozycją towarzyszenia na antenie pierwszej edycji, w roli jedynego Partnera telewizyjnego. W żadną stronę nie płyną pieniądze: Państwo wnoszą antenę i czas pracy redakcji, ja wnoszę dostęp, materiał i wyłączność tej roli.
 
