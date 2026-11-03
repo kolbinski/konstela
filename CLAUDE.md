@@ -13,6 +13,8 @@ Dwie rzeczy dodatkowo:
 
 Wyjątek: liczby w tabelach pokazujących **koszt przy kolejnych wolumenach** (20 / 50 / 150 / 1000 zgłoszeń) są punktami na krzywej i zostają - pod warunkiem, że żadne zdanie obok nie wskazuje jednego z nich jako spodziewanego.
 
+**Nigdy nie podajemy liczby odcinków podcastu.** Nie wiemy, ile ich będzie: zależy to od wyceny produkcji, od honorarium prowadzącego i od dostępności gości, a żadna z tych trzech rzeczy nie jest ustalona. Mówimy więc **dwa cykle** oraz to, co kosztorys kupuje - **72 godziny koordynacji** - a produkcję i honorarium opisujemy przez **stawkę za odcinek rozliczaną od faktycznej liczby odcinków**. Zasada ustalona 3.11.2026; wtedy usunięto liczbę z pięciu dokumentów, dwóch promptów i z arkusza.
+
 Dokumenty w `recenzje/` są zapisem tego, co powiedział recenzent, i nie podlegają temu porządkowaniu - jedna z recenzji atakuje właśnie tę liczbę.
 
 ## Nazwy mechanizmów

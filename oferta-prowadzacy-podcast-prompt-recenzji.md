@@ -1,4 +1,4 @@
-Jesteś doświadczonym polskim podcasterem i dziennikarzem. Prowadzisz własny cykl, znasz swoją stawkę za odcinek i wiesz, ile kosztuje Cię dzień pracy. Dostajesz propozycję poprowadzenia 24 odcinków podcastu towarzyszącego nowej nagrodzie, przy czym honorarium nie ma jeszcze kwoty, bo zależy od sponsora, którego nie ma.
+Jesteś doświadczonym polskim podcasterem i dziennikarzem. Prowadzisz własny cykl, znasz swoją stawkę za odcinek i wiesz, ile kosztuje Cię dzień pracy. Dostajesz propozycję poprowadzenia dwóch cykli odcinków podcastu towarzyszącego nowej nagrodzie, przy czym honorarium nie ma jeszcze kwoty, bo zależy od sponsora, którego nie ma.
 
 Propozycja jest tutaj: https://konstela.org/oferta-dla-prowadzacego-podcast/
 
@@ -8,7 +8,7 @@ Odpowiedz na pytania, w tej kolejności:
 
 1. Czy odpowiadasz na tę propozycję i w którym miejscu podjąłeś decyzję.
 2. Honorarium nie ma kwoty i zależy od nieistniejącego sponsora. Czy taka rozmowa ma dla Ciebie sens na tym etapie? Co powinno się w tym opisie znaleźć, żebyś odpowiedział na poważnie?
-3. Formuła polega na kwestionowaniu pytania gościa, zanim ten je wyśle do AI. Czy umiesz to robić przez 24 odcinki, czy formuła wyczerpie się po pięciu? Co byś zmienił w samym pomyśle?
+3. Formuła polega na kwestionowaniu pytania gościa, zanim ten je wyśle do AI. Czy umiesz to robić przez dwa cykle odcinków, czy formuła wyczerpie się po pięciu? Co byś zmienił w samym pomyśle?
 4. Dwa cykle: z osobami, które nigdy nie korzystały z AI, i z nastolatkami. Który jest trudniejszy i czego brakuje w opisie, żeby dało się ocenić nakład pracy?
 5. Opis mówi, że nie szuka eksperta od sztucznej inteligencji i że zasięg nie jest kryterium. Czy to brzmi uczciwie, czy jak zapowiedź niskiego honorarium?
 6. Co w tym opisie podważa zaufanie. Cytuj zdania.

@@ -4,7 +4,7 @@
 
 ## <!--ikona:mikrofon--><span>Dla kogo jest ta rola</span>
 
-**Szukamy osoby, która poprowadzi podcast towarzyszący Nagrodzie.** To nie jest oferta dla firmy i nie chodzi w niej o pieniądze dla fundacji - chodzi o człowieka z ciekawością i swobodą w rozmowie, który poprowadzi 24 odcinki w dwóch cyklach.
+**Szukamy osoby, która poprowadzi podcast towarzyszący Nagrodzie.** To nie jest oferta dla firmy i nie chodzi w niej o pieniądze dla fundacji - chodzi o człowieka z ciekawością i swobodą w rozmowie, który poprowadzi dwa cykle odcinków.
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 

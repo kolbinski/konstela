@@ -993,6 +993,14 @@ Rola partnera telewizyjnego nie wymaga od stacji pieniędzy, tylko anteny i czas
 
 Czego w liście nie ma: prognozy oglądalności, wpływu na werdykt, wyłączności na filmy finałowe i na zapis gali. Trzy ostatnie nie są nasze do dania, a pierwszej nie znamy.
 
+## Liczba odcinków podcastu wychodzi z dokumentów (3.11.2026)
+
+Podcast był wszędzie opisywany jako „24 odcinki w dwóch cyklach", a tej liczby nie wiemy: zależy od wyceny produkcji, od honorarium prowadzącego i od dostępności gości, z czego żadna nie jest ustalona. To ta sama wada co przy liczbie zgłoszeń - **iloczyn założenia przez stawkę podawany jako zakres świadczenia**. Zasada dopisana do `CLAUDE.md`: mówimy dwa cykle oraz to, co kosztorys kupuje, czyli 72 godziny koordynacji, a produkcję i honorarium opisujemy przez stawkę za odcinek rozliczaną od faktycznej liczby.
+
+Liczba zniknęła z oferty sponsora podcastu, oferty dla prowadzącego, noty koncepcyjnej dla ministerstwa, pisma do stacji, dwóch promptów recenzji oraz z trzech miejsc w arkuszu, gdzie ilość wynosiła 24 przy cenie jednostkowej równej zeru.
+
+**Szósty raz ta sama pułapka arkusza.** Wpisując notę do wiersza koordynacji, wpisałem ją do kolumny E, która w bloku pracy jest kolumną Kwota, i skasowałem formułę; suma edycji spadła o 20 577,80 zł. Wyłapał to piąty test, ten od podsumowania w zakładce Wyjaśnienia. **Kolumna uwag w blokach pracy to F, nie E** - i to zdanie wraca w planie już trzeci raz.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

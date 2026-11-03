@@ -4,7 +4,7 @@
 
 ## <!--ikona:fala--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy sponsora podcastu towarzyszącego Nagrodzie: 24 odcinków w dwóch cyklach, wraz z honorarium prowadzącego.** Podcast ma od 31 października 2026 **własny budżet** - [Budżet Podcastu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-podcastu) - wydzielony z Budżetu Antologii, żeby ta sama rzecz nie była jednocześnie finansowana przez jednego partnera i sprzedawana drugiemu. Wyceniona jest w nim koordynacja: 21 699,70 zł netto za pozyskiwanie gości, terminy i publikację dwudziestu czterech odcinków wraz z udziałem w kosztach narzędzi. **Produkcja i honorarium prowadzącego czekają na wycenę** - nagranie, montaż, dźwięk, wersja wideo i dystrybucja - i nie wpisujemy w nie kwoty, której nie znamy.
+**Szukamy sponsora podcastu towarzyszącego Nagrodzie: dwóch cykli odcinków wraz z honorarium prowadzącego.** Podcast ma od 31 października 2026 **własny budżet** - [Budżet Podcastu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-podcastu) - wydzielony z Budżetu Antologii, żeby ta sama rzecz nie była jednocześnie finansowana przez jednego partnera i sprzedawana drugiemu. Wyceniona jest w nim koordynacja: 21 699,70 zł netto za pozyskiwanie gości, terminy i publikację odcinków - 72 godziny koordynacji - wraz z udziałem w kosztach narzędzi. **Produkcja i honorarium prowadzącego czekają na wycenę** - nagranie, montaż, dźwięk, wersja wideo i dystrybucja - i nie wpisujemy w nie kwoty, której nie znamy.
 
 Koordynacja po stronie organizatora jest natomiast policzona: goście, terminy i publikacja to 72 godziny pracy, 15 840 zł netto, i są one w kosztorysie [Mecenasa Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela), nie w tej ofercie.
 
@@ -34,7 +34,7 @@ Zgłoszenia uczestników już przyjmujemy pod adresem podcast@konstela.org.
 
 ## <!--ikona:wspolpraca--><span>Co obejmuje ta rola</span>
 
-- **Produkcja 24 odcinków**: nagranie, montaż, dźwięk, wersja wideo i dystrybucja w serwisach podcastowych
+- **Produkcja odcinków**: nagranie, montaż, dźwięk, wersja wideo i dystrybucja w serwisach podcastowych, rozliczana od faktycznej liczby odcinków według stawki uzgodnionej przed pierwszym nagraniem
 - **Honorarium prowadzącego**, dziś nieustalone, bo nie jest jeszcze wybrana osoba - szukamy jej osobno, [rola jest opisana tutaj](/oferta-dla-prowadzacego-podcast)
 - Możliwość wniesienia roli **świadczeniem rzeczowym**: studiem nagraniowym, montażem albo miejscem w istniejącej sieci dystrybucji zamiast pieniędzy
 

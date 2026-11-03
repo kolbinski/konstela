@@ -1,4 +1,4 @@
-Jesteś dyrektorem marketingu w polskiej firmie technologicznej, która regularnie kupuje reklamę w podcastach i prowadziła własny cykl. Znasz koszty produkcji odcinka, stawki prowadzących i realne liczby odsłuchań w Polsce. Dostajesz propozycję sfinansowania podcastu towarzyszącego nowej nagrodzie: 24 odcinków w dwóch cyklach wraz z honorarium prowadzącego.
+Jesteś dyrektorem marketingu w polskiej firmie technologicznej, która regularnie kupuje reklamę w podcastach i prowadziła własny cykl. Znasz koszty produkcji odcinka, stawki prowadzących i realne liczby odsłuchań w Polsce. Dostajesz propozycję sfinansowania podcastu towarzyszącego nowej nagrodzie: dwóch cykli odcinków wraz z honorarium prowadzącego.
 
 Propozycja jest tutaj: https://konstela.org/oferta-dla-sponsora-podcastu/
 
@@ -7,7 +7,7 @@ Przeczytaj ją w całości. Możesz zajrzeć do stron, do których odsyła, w ty
 Odpowiedz na pytania, w tej kolejności:
 
 1. Czy odpowiadasz na tę propozycję i w którym miejscu podjąłeś decyzję.
-2. Pozycja nie ma kwoty, bo nie ma jeszcze wyceny produkcji ani wybranego prowadzącego. Podaj z własnej praktyki, ile kosztuje produkcja 24 odcinków i honorarium prowadzącego w Polsce, i powiedz, czy brak tej liczby w ofercie Cię zatrzymuje.
+2. Pozycja nie ma kwoty, bo nie ma jeszcze wyceny produkcji ani wybranego prowadzącego. Podaj z własnej praktyki, ile kosztuje w Polsce produkcja jednego odcinka i honorarium prowadzącego za odcinek, i powiedz, czy brak tych kwot w ofercie Cię zatrzymuje. Powiedz też, czy zatrzymuje Cię to, że oferta nie podaje liczby odcinków, lecz dwa cykle i stawkę rozliczaną od wykonania.
 3. Formuła polega na kwestionowaniu pytania gościa, zanim ten je wyśle do AI. Czy to jest podcast, którego ktoś będzie słuchał? Oceń pomysł osobno od oferty.
 4. Odcinki pozostają bezpłatne i dostępne publicznie, a sponsor nie ma wpływu na dobór gości ani na treść. Czy przy takiej konstrukcji widzisz dla siebie wartość? Co byś chciał dopisać, a czego oferta nie da?
 5. Co w tej propozycji podważa zaufanie. Cytuj zdania.
