@@ -6,11 +6,20 @@ piszę w sprawie, w której nie proszę o pieniądze, więc wyjaśnię ją od ra
 - na film o sztucznej inteligencji,
 - na piosenkę o sztucznej inteligencji,
 - na plakat o sztucznej inteligencji, wykonany ręcznie, bez generatora obrazu.
- Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i nie pobieramy od uczestników żadnych opłat.
+
+Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i nie pobieramy od uczestników żadnych opłat.
+
+Buduję to jako wydarzenie coroczne, nie jako jednorazową akcję, i chcę, żeby Nagroda wpisała się na stałe w kalendarz wydarzeń kultury - z własnym terminem gali, z Antologią wychodzącą co roku i z rocznikami Archiwum, do których można wrócić. Dlatego fundacja powstaje wyłącznie w tym celu, a regulaminy, karty oceny i kosztorys są jawne od początku: po pierwszej edycji ma zostać coś, co da się powtórzyć, a nie wspomnienie udanego wieczoru. Dla stacji oznacza to cykl wracający w tym samym miejscu ramówki co rok, z nowym materiałem za każdym razem.
 
 Szukam jednej stacji, która będzie towarzyszyć całej pierwszej edycji na antenie, i zwracam się do Państwa dlatego, że to przedsięwzięcie jest z gatunku tych, które telewizja publiczna ma w zadaniach ustawowych, a nie z gatunku tych, które kupuje się za pieniądze. Zwycięskie rozmowy ukazują się w bezpłatnej Antologii, szerszy zbiór zgłoszeń trafia do publicznego Archiwum dostępnego bez opłat i bez rejestracji, a z materiałów powstaje pomoc dydaktyczna dla szkół. Rzecz dotyczy tego, jak Polacy uczą się żyć z AI, i jest prowadzona po polsku.
 
-Proponuję do uzgodnienia pięć elementów, przy czym jest to propozycja wyjściowa, a nie żądanie, i to, co Państwo z niej wybiorą, wchodzi do umowy jako nazwane pozycje. Pierwszy to cykl w programie porannym przez rok naboru, prowadzony na materiale, którego nie ma gdzie indziej: zgłoszonych rozmowach ludzi z AI, z ich autorami i z członkami Akademii oceniającej zgłoszenia. Drugi to informacje w serwisach przy czterech kamieniach milowych, czyli przy otwarciu naboru, ogłoszeniu składu jury, zamknięciu naboru i werdykcie. Trzeci to czas antenowy na zapowiedzi naboru, z czasu niesprzedanego i w wymiarze, który Państwo uznają za możliwy. Czwarty to relacja z gali w postaci przez Państwa wybranej - od wejścia na żywo do transmisji całości. Piąty jest opcjonalny: jeżeli chcieliby Państwo wskazać prowadzącego wieczór, jest to do uzgodnienia, a honorarium jest wtedy po Państwa stronie i o tę kwotę spada budżet gali.
+Proponuję do uzgodnienia pięć elementów, przy czym jest to propozycja wyjściowa, a nie żądanie, i to, co Państwo z niej wybiorą, wchodzi do umowy jako nazwane pozycje:
+
+1. **Cykl w programie porannym przez rok naboru**, prowadzony na materiale, którego nie ma gdzie indziej, i obejmujący wszystkie cztery plebiscyty: zgłoszone rozmowy ludzi z AI wraz z ich autorami, zwiastuny zgłoszonych filmów i spotkania z twórcami, nagrania zgłoszonych piosenek wraz z wykonawcami, oryginały plakatów przynoszone do studia, a obok tego członków Akademii, która te zgłoszenia ocenia, i jurorów każdego z plebiscytów. Materiału przybywa przez cały rok naboru, bo zgłoszenia wpływają na bieżąco.
+2. **Informacje w serwisach przy czterech kamieniach milowych**: przy otwarciu naboru, ogłoszeniu składu jury, zamknięciu naboru i werdykcie.
+3. **Czas antenowy na zapowiedzi naboru**, z czasu niesprzedanego i w wymiarze, który Państwo uznają za możliwy.
+4. **Relacja z gali** w postaci przez Państwa wybranej - od wejścia na żywo do transmisji całości.
+5. **Prowadzący wieczór ze strony stacji** - element opcjonalny. Jeżeli chcieliby Państwo kogoś wskazać, jest to do uzgodnienia, a honorarium jest wtedy po Państwa stronie i o tę kwotę spada budżet gali.
 
 W zamian oferuję wyłączność tej roli - tytuł jedynego Partnera telewizyjnego pierwszej edycji na stronie Nagrody, na stronach czterech plebiscytów, w materiałach prasowych i w czołówce zapisu wideo z gali - pierwszeństwo w dostępie do werdyktów z embargiem do ogłoszenia na gali, dostęp do laureatów, jurorów i członków Akademii oraz dostęp do zapisu z gali przed jego publikacją. W żadną stronę nie płyną pieniądze: Państwo wnoszą antenę i czas pracy redakcji, ja wnoszę dostęp, materiał i wyłączność.
 
