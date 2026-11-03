@@ -1019,6 +1019,22 @@ Werdykt: odpowiada, ale nie rekomenduje wejścia w partnerstwo; temat może wnie
 
 **Otwarte i nie do naprawienia tekstem:** brak wyceny udziału stacji. Mój jawny kosztorys pokazuje, co finansuję ja, i nie zastępuje ich kosztorysu; bez tego nie ma czego wnosić na kolegium. W piśmie jest to teraz nazwane jako brak, wraz z prośbą o wskazanie, czego do takiej wyceny potrzebują ode mnie.
 
+## Druga tura pisma do telewizji: przyznanie się do braku nie zastępuje propozycji (3.11.2026)
+
+Werdykt złagodzony: odpowiedziałby i dopuścił rozmowę o pilotażu, choć pisma nadal nie wniósłby na kolegium jako propozycji gotowej do decyzji. Pięć zarzutów z pierwszej tury - serwisy informacyjne, prawa do materiałów, zakres wyłączności, oznaczenia stacji i koszty odwołanej współpracy - niepodtrzymane.
+
+**Zdanie, które warto zapamiętać, bo opisuje wadę całej wczorajszej i dzisiejszej pracy:** „Przyznanie, że nie ma zakresu, nie zastępuje jego zaproponowania". Dopisałem w piśmie uczciwy akapit o tym, czego nie umiem policzyć - i uznałem to za wystarczające. Nie było: recenzent nie oczekiwał znajomości jego kosztów, tylko **określenia, o jakie świadczenie proszę**. Bez liczby i długości wejść jego redakcja miałaby wymyślić zakres mojej propozycji, a potem go wycenić. Pismo podaje teraz jeden wariant: **cztery wejścia po 6-8 minut, kwartalnie w 2027, każde o innym plebiscycie**, z bohaterem, fragmentem pracy wraz z prawami i materiałem przekazywanym czternaście dni przed emisją, z zaproszeniem do wskazania innego wymiaru.
+
+**Sprzeczność, którą sam wprowadziłem godzinę wcześniej.** Naprawiając roczny cykl na pilotaż, nie przeliczyłem sekcji o terminach, w której dalej stało, że zakres antenowy trzeba ustalić przed naborem, bo cykl wchodzi do ramówki na cały rok. Dwa różne zobowiązania w jednym dokumencie - **to już czwarty raz w tym tygodniu, gdy po zmianie zakresu nie przeszedłem pozycji od niego zależnych**. Dziś: pilotaż nie wymaga ramówki, a nieprzesuwalny termin ma wyłącznie zapowiedź naboru.
+
+**Wyłączność wymagała rozstrzygnięcia, nie wyjaśnienia.** Trzy miejsca mówiły trzy różne rzeczy: „jedyna stacja edycji", „wyłączność tytułu, nie dostępu" i „wyłączny jest tytuł i zakres uzgodnionych elementów". Decyzja: **wyłączny jest tytuł plus zobowiązanie, że tego samego pakietu nie zaproponuję innej stacji w tej edycji**, a relacjonowania nie ograniczam nikomu, bo nie jest to moje do dania.
+
+**Prawo wycofania marki było za wąskie i źle opisane.** Obejmowało tylko niewykonanie przedsięwzięcia, pomijając sytuację, w której edycja trwa, a stacja musi wycofać markę z własnych powodów. Dziś: **wycofanie w każdym czasie, pisemnie i bez przyczyny, usunięcie w czternaście dni, a w sprawie pilnej w czterdzieści osiem godzin**, o pilności rozstrzyga partner. Termin trzydziestu dni okazał się moim własnym terminem opisanym jako ich uprawnienie - poprawione.
+
+**Misja publiczna nie przesądza darmowości.** Zdanie „nie z gatunku tych, które kupuje się za pieniądze" było fałszywe: misja obejmuje też zamawianie i kupowanie audycji, a forma współpracy - patronat, współprodukcja, zakup, pojedynczy materiał - jest rozstrzygnięciem stacji. Tak samo „czas niesprzedany" nie jest czasem do rozdania: najpierw kwalifikacja przekazu, potem rozmowa o paśmie.
+
+**Wniosek metodyczny.** Przy każdym miejscu, w którym piszę „nie wiem" albo „nie umiem policzyć", sprawdzić, czy druga strona oczekuje mojej wiedzy, czy mojej decyzji. Jeżeli decyzji - przyznanie się do braku jest uchyleniem się od niej, a nie uczciwością.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
