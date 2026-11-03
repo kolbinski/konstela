@@ -983,9 +983,13 @@ Odpowiedź z 3.11.2026 jest odmowna i uprzejma: czat Bielika jest demem, nie pro
 
 Rola partnera telewizyjnego nie wymaga od stacji pieniędzy, tylko anteny i czasu redakcji, więc pierwszym adresatem jest telewizja publiczna, u której to przedsięwzięcie mieści się w zadaniach ustawowych: bezpłatna Antologia, publiczne Archiwum bez opłat i bez rejestracji, pomoc dydaktyczna dla szkół, wszystko po polsku.
 
+**Dwa dokumenty, bo kanał narzuca długość.** Pismo idzie przez e-Doręczenia, gdzie treść wiadomości ma limit 5 000 znaków, więc rozdzieliliśmy je: `mail-tvp-list.md` to treść wiadomości (4 543 znaki), a `pismo-tvp-partner-telewizyjny.md` to załącznik z całością (10 344 znaki). Krótszy list musi się domykać sam, bo nie wiadomo, czy ktokolwiek otworzy załącznik: ma więc cztery plebiscyty z odnośnikami, powód zwrócenia się do nadawcy publicznego, siedem elementów w jednym zdaniu, trzy prośby, pytanie o likwidację i termin ustalenia ramówki.
+
 **Droga: biuro programowe, nie redakcja tematyczna.** Tylko ta droga może rozstrzygnąć o wyłączności roli i o wejściu cyklu do ramówki na cały rok naboru; redakcje tematyczne i program poranny zostają jako węższe warianty, jeżeli odpowiedź będzie odmowna albo nie przyjdzie.
 
 **W liście jest akapit o likwidacji spółki i jest tam świadomie.** Zakres obejmuje zobowiązania od stycznia 2027 do czerwca 2028, a stan likwidacji trwa od 2024 roku, więc pytanie, kto może zawrzeć zobowiązanie o takim horyzoncie i co się z nim dzieje przy zmianie formy prawnej, padnie na pierwszym spotkaniu niezależnie od tego, czy je zadamy. Pytamy więc sami i w tym samym akapicie podajemy sytuację po naszej stronie: fundacja jeszcze nie istnieje i zostanie wpisana do rejestru przed otwarciem naboru. **Jest to ta sama symetria, której wymagamy od siebie wobec partnerów finansujących** - nie prosimy nikogo o zaufanie, którego sami nie dajemy.
+
+**Co weszło do zakresu po przejrzeniu całości:** wątek szkolny jako osobny akapit (Uczniowska Akademia, Nagroda Uczniowska do 10 000 zł, materiał dydaktyczny bezpłatnie dla szkół), **podcast** jako element do uzgodnienia wraz z tym, że rola prowadzącego jest nieobsadzona i honorarium jest po naszej stronie, **hymn z teledyskiem** oraz **termin**: zakres antenowy ustala się przed otwarciem naboru, bo cykl poranny wchodzi do ramówki na rok, a relacja z gali i premiera teledysku to rozmowa po werdykcie. Wnioski do trzech ministerstw wymienione są **tylko w załączonym pismie**, z zastrzeżeniem, że żaden nie został rozstrzygnięty i nie powołujemy się na nie jako na poparcie.
 
 Czego w liście nie ma: prognozy oglądalności, wpływu na werdykt, wyłączności na filmy finałowe i na zapis gali. Trzy ostatnie nie są nasze do dania, a pierwszej nie znamy.
 
