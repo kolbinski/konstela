@@ -70,7 +70,7 @@ Proponuję rozpocząć współpracę antenową od **cyklu w programie porannym -
 
 Tematem wejścia jest to, na czym polega świadome korzystanie ze sztucznej inteligencji i jak oceniać ludzki wkład w rozmowę lub pracę twórczą; punktem wyjścia mogą być jawne kryteria Nagrody oraz rozmowa z organizatorem, jurorami, członkami Akademii lub nauczycielami prowadzącymi grupy szkolne. **Co i ile pokazujemy w każdym wejściu, dobieramy razem z redakcją po decyzji o współpracy** - dobór rozmówców wymaga ich zgody i uzgodnienia z redakcją.
 
-**Zdjęcia, realizacja i montaż są po stronie stacji; nie produkuję materiału wideo.** Po mojej stronie są rozmówcy wraz z pisemnymi zgodami na wystąpienie, prawa do pokazania każdej pracy, materiał zastępczy na wypadek odwołania przyjazdu oraz jedna osoba odpowiedzialna za przekazanie uzgodnionego materiału **najpóźniej czternaście dni przed emisją**. Powiem też od razu, czego nie wiem: nie wiem, czy w pierwszych tygodniach naboru będzie co pokazać, bo zgłoszenia wpływają dopiero po jego otwarciu.
+**Zdjęcia, realizacja i montaż są po stronie stacji; nie produkuję materiału wideo.** Po mojej stronie jest przygotowanie i przekazanie uzgodnionych informacji o Nagrodzie oraz koordynacja kontaktu z proponowanymi rozmówcami. **Najpóźniej czternaście dni przed planowaną emisją** przedstawię redakcji potwierdzony zakres mojego udziału, dostępnych materiałów i uzyskanych zgód. Propozycję wejścia opieramy na tym, co jest już dostępne; w razie zmiany wspólnie ustalamy temat zastępczy. Materiał podczas naboru dotyczy zasad i przygotowania Nagrody, więc jego powstanie nie zależy od napływu zgłoszeń.
 
 Proszę także o **zapowiedź naboru** oraz rozważenie dalszych materiałów przy kolejnych etapach edycji - przy otwarciu naboru, ogłoszeniu składu jury, zamknięciu naboru i werdykcie. O formie, kwalifikacji przekazu, antenie, paśmie i terminach decyduje TVP. Informacje przekazywane redakcjom do wykorzystania dziennikarskiego pozostają przedmiotem ich niezależnej oceny; o gwarancję obecności w serwisach informacyjnych nie proszę.
 
@@ -102,11 +102,11 @@ Poza tytułem rola obejmuje **oznaczenie w zapisie wideo z gali** publikowanym p
 
 ### Trzy świadczenia zastrzeżone dla Państwa stacji
 
-Żeby wyłączność nie była obietnicą bez treści, wymieniam z nazwy to, czego nie zaproponuję w tej edycji innej stacji - także w postaci zmienionej albo okrojonej:
+Żeby wyłączność nie była obietnicą bez treści, wymieniam z nazwy to, czego nie zaproponuję w tej edycji innej stacji - także w postaci zmienionej albo okrojonej. **Wyłączność obowiązywałaby od zawarcia umowy partnerskiej, w zakresie i terminach w niej określonych.**
 
 1. **cykl prowadzony na moim materiale i z moim udziałem**, w programie porannym albo w jakimkolwiek innym paśmie;
 2. **przewaga czasowa** - werdykty przed publicznym ogłoszeniem, z embargiem, oraz zapis gali przed jego publikacją;
-3. **premiera teledysku hymnu** - to świadczenie powstanie tylko wtedy, gdy hymn zostanie sfinansowany, a jego wykonawcy udzielą zgody na emisję.
+3. **premiera telewizyjna teledysku hymnu** - pod warunkiem sfinansowania jego produkcji oraz zawarcia z uprawnionymi umów pozwalających zastrzec tę premierę dla TVP w uzgodnionym terminie i zakresie.
 
 Wszystko pozostałe jest dostępne dla każdego: inna telewizja może objąć edycję patronatem medialnym, zrelacjonować galę, pokazać hymn na podstawie zgody wykonawców i korzystać z publicznych Archiwów. Ograniczenia dostępu konkurencji nie oferuję, bo nie jest ono moje do dania, a przewaga czasowa nie jest wyłącznością materiału: zgłoszenia, punktacja i uzasadnienia są publiczne, a po ogłoszeniu werdyktu dostępne dla wszystkich.
 
@@ -115,6 +115,8 @@ Wszystko pozostałe jest dostępne dla każdego: inna telewizja może objąć ed
 Osobiście odpowiadam dziś za koncepcję, przygotowanie dokumentacji i kontakt. Dysponuję opisami czterech plebiscytów, projektami regulaminów z kartami oceny, jawnym kosztorysem oraz opisanymi zakresami poszukiwanych partnerstw. Mogę przedstawić te materiały redakcjom i uczestniczyć w przygotowaniu tematów dotyczących zasad Nagrody.
 
 Prawa do filmów, piosenek i plakatów pozostają przy ich twórcach. Udział w plebiscycie nie daje organizatorowi prawa do dysponowania nimi na potrzeby anteny. Mogę pomóc w dotarciu do uprawnionych; emisja wymaga odrębnych zgód i uzgodnień obejmujących potrzebne prawa.
+
+**Proponuję partnerstwo bez wzajemnych płatności między TVP a organizatorem: każda ze stron pokrywa koszty przyjętego przez siebie zakresu.** Odrębnych uzgodnień wymagają ewentualne umowy TVP z uprawnionymi dotyczące emisji utworów.
 
 Każdy element wpisywany do umowy musi mieć wskazanego wykonawcę, źródło finansowania, zakres praw, termin i sposób odbioru oraz rozliczenie na wypadek niewykonania. Elementy, dla których tych warunków jeszcze nie ustalono, pozostają propozycjami. **Sama pozycja w kosztorysie nie jest potwierdzeniem finansowania.** Zakresu zaangażowania ekip i redakcji oraz jego wyceny nie podaję, bo nie są moje do policzenia - ustala je TVP.
 
