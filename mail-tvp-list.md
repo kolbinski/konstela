@@ -4,7 +4,7 @@ powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, c
 
 Zwracam się z propozycją towarzyszenia na antenie pierwszej edycji, w roli jedynego Partnera telewizyjnego. W żadną stronę nie płyną pieniądze: Państwo wnoszą antenę i czas pracy redakcji, ja wnoszę dostęp, materiał i wyłączność tej roli.
 
-Całość opisuje załączone pismo: czym jest Nagroda i jej cztery plebiscyty, co proponuję do uzgodnienia na antenie, co otrzymuje partner, o co proszę poza anteną, czego nie obiecuję oraz jakie terminy wymuszają kolejność rozmowy. Wersja online tego pisma jest pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/, a regulaminy, karty oceny i cały kosztorys pierwszej edycji są jawne na konstela.org.
+Całość opisuje załączone pismo, a jego wersja online jest pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/
 
 Będę wdzięczny za rozmowę w dowolnej formie, a jeżeli zakres w tej postaci jest za szeroki, za wskazanie, którą jego część widzą Państwo u siebie.
 
