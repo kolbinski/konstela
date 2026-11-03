@@ -60,7 +60,7 @@ Przy plebiscycie rozmowy przygotowuję również **Uczniowską Akademię** - gru
 
 Edycja nie kończy się wieczorem gali. Zostaje po niej dorobek, który dokumentuje zmianę w chwili, gdy ona zachodzi:
 
-- **Antologia** zwycięskich rozmów - bezpłatny e-book i audiobook czytany przez lektorów, a przy partnerze wydawniczym także wydanie książkowe;
+- **Antologia** zwycięskich rozmów - bezpłatny e-book i audiobook czytany przez lektorów, a przy partnerze wydawniczym także wydanie książkowe. Wydawnictwo Universitas podpisało 30 października 2026 roku **list intencyjny** w sprawie Antologii, deklarując wstępne zainteresowanie projektem i gotowość rozważenia wydania tomu po otrzymaniu kompletnego materiału; list nie przesądza decyzji wydawniczej, a jego pełny skan jest jawny pod adresem https://konstela.org/attachments/universitas-list-intencyjny.pdf;
 - **cztery publiczne Archiwa, po jednym na plebiscyt**, obejmujące wszystkie zgłoszenia, które przeszły weryfikację formalną, a nie tylko finałowe dziesiątki - z jawną punktacją wszystkich etapów oceny, bezpłatnie, bez rejestracji i bez planowanego terminu zamknięcia;
 - **nagrania studyjne dziesiątki finalistów plebiscytu piosenki**, a przy partnerze wydawniczym płyta z tymi nagraniami;
 - **pokazy filmów finałowych** - seans kuratorski ze spotkaniem z twórcami, a przy partnerze streamingowym także dziesięć filmów w katalogu serwisu;
