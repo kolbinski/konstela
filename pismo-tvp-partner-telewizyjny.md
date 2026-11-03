@@ -130,9 +130,16 @@ Planowany horyzont współpracy sięga września 2028 roku, uwzględniając wyda
 
 ## Dokumentacja i dalszy kontakt
 
-Pełny opis przedsięwzięcia znajduje się na [konstela.org](https://konstela.org/), a zakresy poszukiwanych partnerstw na stronie [Dla partnerów](https://konstela.org/dla-partnerow/). Strony plebiscytów [rozmowy](https://konstela.org/plebiscyt-rozmowy/), [filmu](https://konstela.org/plebiscyt-filmu/), [piosenki](https://konstela.org/plebiscyt-piosenki/) i [plakatu](https://konstela.org/plebiscyt-plakatu/) odsyłają do regulaminów i kart oceny. [Jawny arkusz budżetowy](https://konstela.org/arkusz/budzet-edycji-pierwszej) pokazuje koszty, założenia rachunku i pozycje wymagające ustalenia.
+Pełny opis przedsięwzięcia znajduje się na stronie https://konstela.org/, a zakresy poszukiwanych partnerstw - na https://konstela.org/dla-partnerow/. Strony czterech plebiscytów odsyłają do regulaminów i kart oceny:
 
-Jestem inżynierem oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwentem Politechniki Łódzkiej. Mój [życiorys zawodowy](https://www.toptal.com/developers/resume/krzysztof-olbinski) jest publiczny. Koncepcję Nagrody przygotowałem i za obecny etap prac odpowiadam osobiście.
+- plebiscyt rozmowy: https://konstela.org/plebiscyt-rozmowy/
+- plebiscyt filmu: https://konstela.org/plebiscyt-filmu/
+- plebiscyt piosenki: https://konstela.org/plebiscyt-piosenki/
+- plebiscyt plakatu: https://konstela.org/plebiscyt-plakatu/
+
+Jawny arkusz budżetowy pod adresem https://konstela.org/arkusz/budzet-edycji-pierwszej pokazuje koszty, założenia rachunku i pozycje wymagające ustalenia.
+
+Jestem inżynierem oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwentem Politechniki Łódzkiej. Mój życiorys zawodowy jest publiczny: https://www.toptal.com/developers/resume/krzysztof-olbinski. Koncepcję Nagrody przygotowałem i za obecny etap prac odpowiadam osobiście.
 
 Proszę o rozpoczęcie od listu intencyjnego, pomocy w dotarciu do kandydatów do jury i wyznaczenia osoby do kontaktu. Pozwoli mi to przejść do rozmów z fundatorami, a następnie przedstawić TVP zabezpieczony zakres edycji do uzgodnienia umowy partnerskiej.
 
