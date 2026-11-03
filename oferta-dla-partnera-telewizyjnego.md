@@ -42,12 +42,13 @@ Lista jest propozycją wyjściową, nie żądaniem. Zakres ustala się przed pod
 
 ## <!--ikona:zespol--><span>Co otrzymuje partner</span>
 
-- **Wyłączność tytułu, nie dostępu**: tytuł jedynego **Partnera telewizyjnego pierwszej edycji** na stronie Nagrody, na stronach czterech plebiscytów i w materiałach prasowych. Nie oznacza to, że inne stacje nie będą relacjonować edycji - patronatów medialnych może być kilku, a publicznie ogłoszony werdykt jest wiadomością dla każdego.
+- **Tytuł** jedynego **Partnera telewizyjnego pierwszej edycji** na stronie Nagrody, na stronach czterech plebiscytów i w materiałach prasowych.
+- **Trzy świadczenia zastrzeżone wyłącznie dla stacji partnera**, wymienione z nazwy, żeby granica dała się ustalić: **cykl prowadzony na naszym materiale i z naszym udziałem, w jakimkolwiek paśmie**, **premiera teledysku hymnu** oraz **przewaga czasowa** - werdykty przed publicznym ogłoszeniem, z embargiem, i zapis gali przed jego publikacją. Żadnego z tych trzech nie zaproponujemy w tej edycji innej stacji, **także w postaci zmienionej albo okrojonej**. Wszystko pozostałe jest dostępne dla każdego: patronat medialny, relacja z gali, hymn za zgodą wykonawców, publiczne Archiwa. Ograniczenia dostępu konkurencji nie oferujemy, bo nie jest ono nasze do dania.
 - **Oznaczenie w zapisie wideo z gali**, w czołówce zapisu publikowanego przez Organizatora, obok oznaczeń pozostałych partnerów. Jest to plansza Organizatora, **nie oprawa narzucona wersji antenowej**; użycie marki stacji na stronie i w materiałach prasowych uzgadnia się przed publikacją, wraz z kontekstem i sąsiedztwem innych partnerów.
-- **Pierwszeństwo w dostępie do werdyktów** czterech plebiscytów, z embargiem do ogłoszenia na gali.
 - **Dostęp do laureatów, jurorów i członków Akademii** - rozmowy, komentarze, zdjęcia, w terminach uzgodnionych.
-- **Przewagę czasową i dostęp, a nie wyłączność materiału**: zgłoszenia, punktacja i uzasadnienia są publiczne, więc wcześniej niż inni partner dostaje werdykty z embargiem oraz zapis gali przed publikacją. Dziesięć filmów, dziesięć plakatów i dziesięć piosenek to materiał, którego przedtem nie było, ale po ogłoszeniu werdyktu dostępny jest dla wszystkich.
 - **Akredytację na galę** oraz dostęp do zapisu wideo przed jego publikacją.
+
+Przewaga czasowa i dostęp nie są wyłącznością materiału: zgłoszenia, punktacja i uzasadnienia są publiczne, a po ogłoszeniu werdyktu dostępne dla wszystkich.
 
 ## <!--ikona:tarcza--><span>Czego nie obiecujemy</span>
 

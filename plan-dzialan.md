@@ -1047,6 +1047,18 @@ Pilotaż idzie do oceny redakcji programu porannego - pierwszy raz w tej serii c
 
 **Wniosek metodyczny, drugi tego rodzaju w tej serii.** Uczciwe przyznanie się do braku trzeba sprawdzić dwukrotnie: czy druga strona oczekuje mojej wiedzy, czy mojej decyzji, oraz **czy to przyznanie nie unieważnia czegoś, co w tym samym dokumencie już podałem**.
 
+## Czwarta tura pisma do telewizji: terminy rozmowy, nie terminy świadczeń (3.11.2026)
+
+Propozycja czterech wejść idzie do oceny redakcji i do wyceny produkcyjnej. Zostały dwie rzeczy, obie o czasie - i obie pokazują, że **termin świadczenia to nie to samo co termin rozmowy o nim**.
+
+**Transmisja gali.** Wiązałem całą rozmowę o antenie z werdyktem w lutym 2028, bo wtedy wiadomo, kto wygrał. Tymczasem miejsce, scenografia, światło, dźwięk, przebieg wieczoru i prawa muszą uwzględniać realizację telewizyjną, zanim zostaną ustalone, a laureatów do oceny formatu znać nie trzeba. Rozmowa o formacie przypada więc na pierwszą połowę 2027 roku, a werdykt warunkuje wyłącznie **ostateczną decyzję emisyjną**. Krótka relacja nie wymaga tej wczesnej rozmowy - i dopiero rozdzielenie tych dwóch rzeczy zrobiło z jednego terminu dwa prawdziwe.
+
+**Termin zamykający współpracę.** Pismo wymieniało elementy rozłożone na dwa lata i nie mówiło, które tracą sens po jakiejś dacie, więc adresat sam dorabiał sobie termin zamykający całość. Jedynym takim elementem jest **komunikat inaugurujący nabór**; napisane jest dziś wprost, że żaden inny terminu zamykającego nie ma, a wejście stacji w którymkolwiek późniejszym momencie jest możliwe.
+
+**Objętość, uwaga podtrzymana z trzeciej tury.** Pismo miało 28 500 znaków i „nadal długo tłumaczyło granice, które odbiorca zawodowy rozumie". Skrócone do niespełna 20 000 przez usunięcie wyjaśnień, nie warunków: czym jest patronat medialny, dlaczego prawa zostają przy autorach, po co jest embargo, oraz powtórzeń tego samego zastrzeżenia i punktu o przewadze czasowej, który dublował punkt o wyłączności. Wszystkie sekcje zostały. Do 15 000, o których była mowa, nie zeszło - dalsze cięcie usuwałoby warunki i zastrzeżenia, czyli to, po co ten dokument jest.
+
+**Wniosek metodyczny.** Przy dokumencie, który narasta przez kilka tur, objętość jest wadą osobnego rodzaju: nie da się jej naprawić dopisaniem akapitu, a każda dobra poprawka ją pogłębia. Warto sprawdzać po każdej turze, ile z tekstu tłumaczy rzeczy, które adresat zna z własnego zawodu.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
