@@ -14,12 +14,18 @@ Załącznik do pisma w sprawie czterech wejść antenowych o pierwszej edycji Na
 
 Kolejne trzy wejścia dotyczą pozostałych plebiscytów - filmu, piosenki i plakatu - i w każdym osią jest granica między tym, co zrobił człowiek, a tym, co zrobiło narzędzie.
 
+## Kto to kręci
+
+**Zdjęcia, realizacja i montaż są po stronie stacji; ja nie produkuję materiału wideo** - nie mam na to ani sprzętu, ani pozycji w kosztorysie, i nie uważam, żeby to była właściwa kolejność. **Scenariusz wejścia proponuję napisać wspólnie**: ja wnoszę wiedzę o tym, co w zgłoszeniach jest ciekawe i co da się pokazać bez naruszenia czyichś praw, redakcja - formę, która działa w jej paśmie.
+
+To, co nazywam niżej materiałem, to **prace i zapisy, które już istnieją, bo zostały zgłoszone do plebiscytów**: zapisy rozmów, filmy uczestników wraz ze zwiastunami, nagrania piosenek, oryginalne plakaty przynoszone do studia. Moja rola przy nich to zebranie praw pozwalających je pokazać, nie ich nakręcenie.
+
 ## Co dostarczam na każde wejście
 
 - **jednego bohatera**, który zgodził się wystąpić: uczestnika, jurora, członka Akademii albo nauczyciela z grupą uczniowską;
-- **fragment pracy albo zapisu rozmowy wraz z prawami pozwalającymi go pokazać** - zgody zbieram ja, na piśmie, przed przekazaniem materiału;
-- **opis tematu** różny od poprzednich wejść, nie kolejne przypomnienie o naborze;
-- **materiał zastępczy** na wypadek odwołania przyjazdu przez gościa;
+- **fragment zgłoszonej pracy albo zapisu rozmowy wraz z prawami pozwalającymi go pokazać** - zgody zbieram ja, na piśmie, przed przekazaniem materiału;
+- **opis tematu i propozycję przebiegu** wejścia, różne od poprzednich, nie kolejne przypomnienie o naborze;
+- **materiał zastępczy** na wypadek odwołania przyjazdu przez gościa - inny bohater albo inna praca, nie gotowy reportaż;
 - jedną osobę po mojej stronie odpowiedzialną za przekazanie tego **najpóźniej czternaście dni przed emisją**.
 
 ## Status bohatera i materiału na dziś
@@ -29,22 +35,22 @@ Kolejne trzy wejścia dotyczą pozostałych plebiscytów - filmu, piosenki i pla
 **Terminy, do których to dostarczam:**
 
 - **do 31 stycznia 2027** - wskazanie imienne proponowanego bohatera pierwszego wejścia wraz z jego pisemną zgodą na wystąpienie;
-- **do 14 lutego 2027** - próbka materiału do pokazania wraz z dokumentacją praw;
+- **do 14 lutego 2027** - wskazanie konkretnej zgłoszonej pracy albo zapisu rozmowy do pokazania, wraz z dokumentacją praw;
 - **czternaście dni przed każdą emisją** - komplet materiału na dane wejście.
 
 Jeżeli któregoś z tych terminów nie dowiozę, wejście nie powinno się odbyć - i tak to opisuję w umowie, zamiast przenosić ryzyko na redakcję.
 
 ## Podział pracy
 
-| Po mojej stronie | Po stronie redakcji |
-|---|---|
-| bohater wraz ze zgodą na wystąpienie | decyzja o paśmie, dacie i długości |
-| materiał i prawa do jego pokazania | prowadzenie i realizacja wejścia |
-| opis tematu i propozycja przebiegu | dobór formy dziennikarskiej |
-| materiał zastępczy | przyjęcie techniczne materiału |
-| jedna osoba kontaktowa i terminy | ocena wartości dla widza |
+| Po mojej stronie | Po stronie redakcji | Wspólnie |
+|---|---|---|
+| bohater wraz ze zgodą na wystąpienie | zdjęcia, realizacja i montaż | scenariusz wejścia |
+| zgłoszona praca i prawa do jej pokazania | decyzja o paśmie, dacie i długości | wybór tematu z bieżących zgłoszeń |
+| wiedza o tym, co w zgłoszeniach da się pokazać | prowadzenie wejścia i forma dziennikarska | |
+| materiał zastępczy | przyjęcie techniczne materiału | |
+| jedna osoba kontaktowa i terminy | ocena wartości dla widza | |
 
-**O treść wejścia ani o jego ocenę nie proszę.** Nie oczekuję uzgadniania ze mną pytań, montażu ani wniosków.
+**O treść wejścia ani o jego ocenę nie proszę.** Scenariusz piszemy wspólnie, ale pytań, montażu ani wniosków nie uzgadniam z nikim i nie oczekuję, żeby były uzgadniane ze mną.
 
 ## Warunki, które muszą być spełnione przed realizacją
 
