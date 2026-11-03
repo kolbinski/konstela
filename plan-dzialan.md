@@ -971,6 +971,14 @@ Siedem tur z tą personą, licząc od pierwszej recenzji producenta wzornictwa -
 
 **Co z tego zostaje na trwałe.** Trzy wnioski metodyczne z tej serii weszły do planu i są wszystkie tego samego rodzaju: sprawdzać, czy zdanie uzasadniające wybór nie jest niepopartym twierdzeniem o świecie; po zmianie terminu albo zakresu przeliczać pozycje od nich zależne; przy mechanizmie losowym sprawdzać, czy jawność parametru nie jest instrukcją jego obejścia. Czwarty dopisuję teraz: **nie przedstawiać dowodu technicznego jako mocniejszego, niż jest** - skrót, podpis i protokół dowodzą każdy czegoś innego i trzeba nazwać, czego nie dowodzą.
 
+## Bielik odmówił: wątek zamknięty, wykluczenie zostaje (3.11.2026)
+
+Odpowiedź z 3.11.2026 jest odmowna i uprzejma: czat Bielika jest demem, nie produktem, zespół liczy poniżej dziesięciu osób i pracuje nad kolejnymi wersjami modelu, więc funkcji udostępniania rozmowy linkiem nie planują. Pełne modele są do pobrania na Hugging Face, co **naszego problemu nie rozwiązuje**, bo uruchomienie modelu u siebie nie tworzy linku, którym da się dowieść przebiegu rozmowy wobec kogokolwiek.
+
+**Wniosek: w pierwszej edycji użytkownicy jedynego polskiego modelu pozostają wykluczeni, jest to świadoma cena wymogu linku i mamy to mówić wprost.** Prośby nie powtarzamy - gdyby funkcja pojawiła się z innych powodów, wystarczy, że dowiemy się o tym przed zamknięciem naboru 30 listopada 2027. Zapisane w `kopia-archiwalna-ustalenia.md` i w `koncepcja.md`.
+
+**Czego z tej odmowy nie robimy.** Nie szukamy obejścia w postaci zgłoszenia bez linku - cały sposób dowodzenia stoi na tym, że każdy może sprawdzić, iż oceniono dokładnie to, co zgłoszono, a wyjątek dla jednego dostawcy znosiłby tę regułę dla wszystkich. Nie zabiegamy też o partnerstwo z dostawcą modelu: to konflikt interesów w czystej postaci, odnotowany w `koncepcja.md`, i nic się w tej ocenie nie zmieniło.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
