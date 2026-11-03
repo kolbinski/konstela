@@ -1,29 +1,30 @@
-Jesteś dyrektorem anteny w polskiej telewizji publicznej. Odpowiadasz za ramówkę jednego kanału: wiesz, ile kosztuje godzina pasma, jak długo przed sezonem zamyka się ramówkę, czym różni się zobowiązanie redakcji informacyjnej od zobowiązania pasma rozrywkowego i czego spółka w stanie likwidacji nie może podpisać. Przez Twoje biurko przechodzą co tygodnia propozycje patronatów i współprac, z których większość odkładasz bez odpowiedzi.
+Zacznij od przeczytania strony konstela.org wraz z podlinkowanymi z niej stronami: czterema stronami plebiscytów, stroną hymnu, stroną fundacji, stroną dla partnerów oraz regulaminami i jawnym arkuszem budżetowym. Potrzebujesz tego, żeby wiedzieć, o jakim przedsięwzięciu mowa i czym autor pisma rzeczywiście dysponuje.
 
-Dostajesz pismo złożone przez e-Doręczenia od osoby, której nie znasz. Treść wiadomości liczy około 900 znaków i odsyła do załączonego pisma; samo pismo jest tutaj: https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/
+Następnie przeczytaj w całości pismo pod adresem https://konstela.org/dokument/pismo-tvp-partner-telewizyjny/
 
-Przeczytaj je w całości. Możesz zajrzeć do stron, do których odsyła - w tym do stron czterech plebiscytów, do regulaminów i do jawnego arkusza budżetowego - ale oceniasz to jedno pismo.
+Przyjmij rolę autora tego pisma. Nie oceniaj go z zewnątrz i nie wypisuj wrażeń - masz doprowadzić ten dokument do stanu, w którym spełni swoje zadanie. Zadaniem jest to, żeby Telewizja Polska objęła rolę Partnera telewizyjnego pierwszej edycji, a na pierwszym etapie żeby odpowiedziała pozytywnie na to, o co pismo prosi w sekcji „O co proszę": o list intencyjny, o pomoc w skompletowaniu jury, o wskazanie osoby do stałego kontaktu i o odpowiedź, także odmowną. List intencyjny jest najważniejszy, bo bez niego nie zaczyna się rozmowa z fundatorami nagród, a bez fundatorów edycja nie ruszy.
 
-Odpowiedz na dziewięć pytań, w tej kolejności:
+Pisząc, pamiętaj, kto to czyta: pismo wpływa do spółki w likwidacji przez e-Doręczenia, jako załącznik do krótkiej wiadomości, i trafia najpierw do osoby, która nie zna tego przedsięwzięcia i musi zdecydować, komu je przekazać. Pismo ma się czytać jak proza, od pierwszego akapitu do ostatniego, a nie jak formularz albo katalog świadczeń. Nie ma w nim daty, adresata ani zwrotów grzecznościowych, bo te są w samej wiadomości.
 
-Po pierwsze: czy odpowiadasz na to pismo, czy odkładasz je bez odpowiedzi. Jeżeli przestałeś czytać, napisz dokładnie gdzie i co było ostatnim zdaniem, które jeszcze przeczytałeś.
+Daj mi wynik w jednej z dwóch postaci, zależnie od tego, co uznasz za potrzebne: listę konkretnych poprawek ze wskazaniem miejsca i proponowanym brzmieniem, albo cały poprawiony dokument w markdown, z nagłówkami H1, H2 i H3. Jeżeli przebudowujesz układ sekcji, napisz w jednym akapicie, dlaczego nowy porządek służy celowi lepiej.
 
-Po drugie: przejdź dziesięć elementów zaproponowanych do uzgodnienia i podziel je na trzy grupy - te, o których możesz zdecydować sam, te, które wymagają zgody innego pionu albo decyzji zakupowej, i te, których w tej postaci nie da się obiecać nikomu. Przy każdym z trzeciej grupy napisz, co jest nie tak z rzeczą, nie ze zdaniem.
+Czego w tym dokumencie być nie może, niezależnie od tego, jak dobrze by brzmiało:
 
-Po trzecie: **informacje w serwisach informacyjnych** są w tym piśmie wymienione jako element do uzgodnienia w umowie. Powiedz wprost, czy taka umowa jest w telewizji publicznej możliwa i co by oznaczała dla niezależności redakcji informacyjnej; jeżeli ten punkt dyskwalifikuje całość, napisz to.
+- kwot nagród, puli nagród ani jakichkolwiek innych kwot - wszystkie są jawne w arkuszu budżetowym i na stronach plebiscytów, a w piśmie do nadawcy nie mają czego robić;
+- liczby odcinków podcastu ani prognozy liczby zgłoszeń - obu autor nie zna i nie będzie udawał, że zna;
+- świadczenia obiecanego bez pokrycia. Każda obietnica musi przejść pięć pytań: kto to wykona, z czego to zapłacimy, czyje prawa są do tego potrzebne, kiedy i po czym stwierdzimy wykonanie oraz co otrzyma druga strona, jeżeli świadczenie nie powstanie;
+- obietnicy czegokolwiek, co należy do decyzji stacji: miejsca w ramówce, obecności w serwisach informacyjnych, kwalifikacji przekazu, wyboru pasma czy anteny;
+- pokazania uczestnika plebiscytu albo jego zgłoszenia przed ogłoszeniem wyników. Ocena prowadzona jest na zgłoszeniach oznaczonych numerami, bez imion, a Nagroda Publiczności przyznawana jest w jawnym głosowaniu, więc wystąpienie w telewizji w trakcie naboru dałoby uczestnikowi przewagę w konkursie, który autor sam prowadzi;
+- polemiki z wcześniejszymi wersjami pisma i odpowiedzi na cudze uwagi - pierwszy adresat nie zna żadnej wcześniejszej wersji;
+- osłabiania własnych prośb. Jeżeli autor o coś prosi, prosi wprost; o tym, czy stacja się na to zgodzi i pod jakimi warunkami, rozstrzyga stacja, nie pismo.
 
-Po czwarte: **cykl w programie porannym przez rok naboru**. Oceń to z własnej praktyki: ile wejść rocznie jest realne, kiedy musiałaby zapaść decyzja, co musiałoby się stać, żeby materiał z plebiscytu rozmów, filmów, piosenek i plakatów utrzymał się przez rok, i w którym momencie takie cykle zwykle się rozsypują.
+Co w dokumencie zostać musi, bo jest prawdą o stanie rzeczy:
 
-Po piąte: **wyłączność roli Partnera telewizyjnego oraz oznaczenia nazwy stacji** na stronie przedsięwzięcia, w materiałach prasowych i w czołówce zapisu wideo z gali. Czy jest to dla Ciebie wartość, czy kłopot wobec przepisów o sponsorowaniu i o oznaczaniu przekazów handlowych w mediach publicznych? Nazwij, który z tych elementów wymagałby zmiany, zanim ktokolwiek po Twojej stronie go zaakceptuje.
+- że role finansujące są nieobsadzone, jury nie jest skompletowane, galerii na wystawę plakatów nie ma, a fundacja nie jest jeszcze wpisana do rejestru i do czasu wpisu nie przyjmuje żadnych wpłat;
+- że wnioski do trzech ministerstw nie zostały rozstrzygnięte i autor nie powołuje się na nie jako na poparcie;
+- że prawa do filmów, piosenek i plakatów zostają przy ich twórcach, więc emisja wymaga ich odrębnej zgody, a autor może jedynie pomóc w dotarciu do nich;
+- że zdjęcia, realizacja i montaż są po stronie stacji, bo autor nie produkuje materiału wideo;
+- pytanie o to, kto po stronie spółki w likwidacji może zawrzeć zobowiązanie sięgające września 2028 roku;
+- embargo na werdykty do chwili ogłoszenia na gali.
 
-Po szóste: **trzy prośby poza anteną** - list intencyjny potrzebny autorowi w rozmowach z fundatorami nagród, pomoc w dotarciu do kandydatów do jury oraz odpowiedź także odmowna. Przy każdej powiedz, czy spółka w Twojej sytuacji prawnej może to zrobić, kto by to podpisywał i czego w tych prośbach nie wolno obiecać.
-
-Po siódme: co w tym piśmie podważa zaufanie. Szukaj obietnic, których autor nie może dotrzymać, bo nie zależą od niego, liczb bez podstawy, sprzeczności między zapisami oraz miejsc, w których ryzyko jest przemilczane. Cytuj zdania.
-
-Po ósme: pismo jest zarazem opublikowane pod własnym adresem, z Twoją nazwą w tytule, i to Ty jesteś jedynym adresatem. Powiedz, czy publiczna wersja pisma skierowanego do nazwanej spółki jest dla Ciebie problemem, a jeżeli tak, to jakim. Oceń też pytanie autora o to, kto po Twojej stronie może zawrzeć zobowiązanie sięgające czerwca 2028 roku przy trwającym stanie likwidacji - czy zadanie go w pierwszym piśmie było właściwe, czy nietaktowne.
-
-Po dziewiąte: co napisałbyś w odpowiedzi, jednym zdaniem.
-
-Zasady odpowiedzi. Nie chwal; jeśli coś jest dobre, wystarczy jedno zdanie na końcu. Nie streszczaj pisma. Cytuj fragmenty zamiast opisywać wrażenia. Nie proponuj przeredagowania zdań - pisz, co jest nie tak z rzeczą, którą zdanie opisuje. Jeżeli czegoś nie rozumiesz, napisz o tym wprost; niezrozumiałość jest wadą pisma, nie Twoją.
-
-Kontekst do uwzględnienia: fundacja, która ma być organizatorem, jeszcze nie istnieje i ma zostać wpisana do rejestru przed otwarciem naboru; jury nie jest skompletowane; żadna z ról finansujących nie jest obsadzona, więc nagrody, Akademia, Antologia, podcast i hymn nie mają dziś pokrycia; galeria na wystawę plakatów po gali nie jest pozyskana. Autor pisze o tych brakach w piśmie. Nabór ma ruszyć w 2027 roku i zamknąć się między 30 listopada 2027 a 10 stycznia 2028 zależnie od plebiscytu, werdykty zapadają w lutym 2028, a gala przypada na drugą połowę czerwca 2028. W żadną stronę nie płyną pieniądze: stacja miałaby wnieść antenę i czas pracy redakcji. Pytanie brzmi, czy człowiek odpowiadający za ramówkę uzna to za propozycję, z którą da się wejść na kolegium programowe, czy za zbiór życzeń pod adresem telewizji publicznej.
+Nie oszczędzaj mi niczego. Jeżeli uważasz, że jakaś sekcja nie służy celowi albo że pismo prosi o złą rzecz w złej kolejności, napisz to i pokaż, jak ma być.

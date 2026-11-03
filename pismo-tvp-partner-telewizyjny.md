@@ -25,7 +25,7 @@ Każdy z tych plebiscytów stawia granicę wprost, zamiast dyskutować o niej w 
 
 ### Uczniowska Akademia i Nagroda Uczniowska
 
-Obok Akademii, która ocenia zgłoszenia, powołuję **Uczniowską Akademię**: grupy uczniowskie zgłaszane przez szkoły, jedna szkoła i jedno wskazanie, które przyznają **Nagrodę Uczniowską** - nagrodę pieniężną do 10 000 zł brutto, ogłaszaną obok werdyktu jury i wyraźnie od niego odrębną.
+Obok Akademii, która ocenia zgłoszenia, powołuję **Uczniowską Akademię**: grupy uczniowskie zgłaszane przez szkoły, jedna szkoła i jedno wskazanie, które przyznają **Nagrodę Uczniowską** - nagrodę pieniężną ogłaszaną obok werdyktu jury i wyraźnie od niego odrębną.
 
 Uczniowie oceniają nie odpowiedzi sztucznej inteligencji, lecz pytania, które zadali im rówieśnicy i dorośli - a przy okazji uczą się tego, czego ta Nagroda dotyczy: że od sposobu zapytania zależy, co się dowiesz. Antologia i Archiwa są bezpłatne i dostępne bez rejestracji, więc szkoła może z nich korzystać bez niczyjej zgody. **Osobnego opracowania dydaktycznego z komentarzem dziś nie finansuje żadna rola i go nie obiecuję** - materiałem są same rozmowy wraz z jawną punktacją i uzasadnieniami ocen.
 
