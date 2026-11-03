@@ -52,7 +52,7 @@ W plebiscycie rozmowy ocenie podlega sposób prowadzenia dialogu: łączenie wą
 
 Dla telewizji oznacza to możliwość pokazania zmiany przez konkretne czynności i decyzje: jak sprawdza się wiarygodność odpowiedzi, jak powstaje kompozycja, co zostawia na papierze ręka autora. To tematy bliskie zarówno edukacji, jak i kulturze, a także pracy samego nadawcy.
 
-Przy plebiscycie rozmowy przygotowuję również **Uczniowską Akademię** - grupy szkolne przyznające odrębną Nagrodę Uczniowską według jawnej karty oceny.
+Przy plebiscycie rozmowy przygotowuję również **Uczniowską Akademię** - grupy szkolne przyznające według jawnej karty oceny odrębną **Nagrodę Uczniowską w wysokości 10 000 zł brutto**, ogłaszaną obok werdyktu jury.
 
 ### Co zostaje po pierwszej edycji
 
