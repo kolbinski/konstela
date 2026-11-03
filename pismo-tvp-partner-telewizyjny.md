@@ -20,7 +20,7 @@ List będę przedstawiał potencjalnym fundatorom i mecenasom w całości, wraz 
 
 Na obecnym etapie adresatem listu jestem ja, Krzysztof Olbiński, jako inicjator przedsięwzięcia i fundator przygotowywanej Fundacji Konstela. Umowę dotyczącą realizacji partnerstwa ma zawrzeć fundacja po wpisie do rejestru.
 
-**Kiedy potrzebuję stanowiska.** Zależy mi na otwarciu naboru **na początku stycznia 2027 roku**, a przed otwarciem muszą zostać zabezpieczone nagrody - czyli muszę zdążyć z rozmowami z fundatorami, do których ten list jest potrzebny. Dlatego proszę o stanowisko **tak szybko, jak to u Państwa możliwe**; jeżeli ma to potrwać dłużej, proszę choćby o informację, kiedy mogę go oczekiwać. Późniejsza odpowiedź niczego nie zamyka - wejście stacji w roli partnera jest możliwe także po otwarciu naboru - ale wtedy ten list przestaje mi już pomagać w tym, do czego go potrzebuję.
+**Kiedy potrzebuję stanowiska.** Zależy mi na otwarciu naboru **na początku stycznia 2027 roku**, a przed otwarciem muszą zostać zabezpieczone nagrody - czyli muszę zdążyć z rozmowami z fundatorami, do których ten list jest potrzebny. Dlatego proszę o stanowisko **tak szybko, jak to u Państwa możliwe**; jeżeli ma to potrwać dłużej, proszę choćby o informację, kiedy mogę go oczekiwać. Początek stycznia jest terminem planowanym: jeżeli do tego czasu nie zostaną spełnione warunki uruchomienia edycji, przesunę otwarcie naboru i opublikuję zaktualizowany harmonogram. Późniejsza odpowiedź TVP nadal może pomóc w pozyskaniu fundatorów, jeżeli rozmowy o finansowaniu będą w toku. Możliwe jest również dołączenie stacji już po otwarciu naboru.
 
 ### Pomoc w skompletowaniu jury
 
@@ -149,7 +149,7 @@ Jawny arkusz budżetowy pod adresem https://konstela.org/arkusz/budzet-edycji-pi
 
 Jestem inżynierem oprogramowania z ponad dwudziestoletnim doświadczeniem, absolwentem Politechniki Łódzkiej. Mój życiorys zawodowy jest publiczny: https://www.toptal.com/developers/resume/krzysztof-olbinski. Koncepcję Nagrody przygotowałem i za obecny etap prac odpowiadam osobiście.
 
-Proszę o rozpoczęcie od listu intencyjnego, pomocy w dotarciu do kandydatów do jury i wyznaczenia osoby do kontaktu. Pozwoli mi to przejść do rozmów z fundatorami, a następnie przedstawić TVP zabezpieczony zakres edycji do uzgodnienia umowy partnerskiej.
+Proszę o rozpatrzenie możliwości wystawienia listu intencyjnego, pomoc w dotarciu do kandydatów do jury i wskazanie osoby do kontaktu. Jeżeli decyzja o liście wymaga wcześniejszej rozmowy lub wstępnej oceny programowej, jestem gotów przedstawić propozycję pierwszego wejścia i uzgodnić możliwy zakres współpracy. Zależy mi, aby ten etap pozwolił Państwu zająć stanowisko w sprawie listu, który mógłbym przedstawić fundatorom.
 
 Krzysztof Olbiński
 +48 503 520 004
