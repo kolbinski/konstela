@@ -1,6 +1,6 @@
 Szanowni Państwo,
 
-piszę w sprawie, w której nie proszę o pieniądze. Powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie program i nie firma, która go zbudowała, bo oceniane są pytania, a nie odpowiedzi. Nagroda ma cztery plebiscyty, rozstrzygane na jednej gali:
+powołuję Fundację Konstela, która ma prowadzić Nagrodę Konstela - nową, coroczną nagrodę dla ludzi prowadzących najlepsze rozmowy ze sztuczną inteligencją. Nagradzany jest człowiek, nie program i nie firma, która go zbudowała, bo oceniane są pytania, a nie odpowiedzi. Nagroda ma cztery plebiscyty, rozstrzygane na jednej gali:
 
 - na najlepszą rozmowę ze sztuczną inteligencją: https://konstela.org/plebiscyt-rozmowy/
 - na film o sztucznej inteligencji: https://konstela.org/plebiscyt-filmu/
@@ -15,9 +15,7 @@ W załączonym pismie opisuję siedem elementów do uzgodnienia. Najkrócej: cyk
 
 Proszę przy tym o trzy rzeczy, które nie są anteną, a mają dla mnie teraz większą wagę. Pierwsza to list intencyjny, potrzebny mi w rozmowach z fundatorami nagród, bo pierwsze pytanie, które dostaję, brzmi, czy ktokolwiek to pokaże; nie proszę w nim o zobowiązanie finansowe ani o obietnicę emisji, a bez Państwa zgody nie użyję go nigdzie. Druga to pomoc w dotarciu do kandydatów do jury - nazwiska i kontakt, nie wybór składu, bo decyzja o składzie zostaje po stronie fundacji i nie jest przedmiotem negocjacji z żadnym partnerem. Trzecia to odpowiedź, także odmowna: jeżeli ta rola nie jest u Państwa możliwa, wystarczy jedno zdanie, a jeżeli możliwa jest tylko część, proszę o wskazanie której i z kim mam o niej rozmawiać.
 
-Dwie rzeczy mówię od razu, bo wolę to teraz niż po podpisaniu. Nie obiecuję oglądalności ani zainteresowania tematem, bo ich nie znam, i nie oferuję wpływu na skład jury ani na werdykty. Regulaminy przewidują progi, poniżej których edycja może nie zostać rozstrzygnięta - wtedy nie ma czego pokazywać, nie ma też żadnych rozliczeń, bo nie ma przepływu pieniędzy, a Państwo zachowują prawo wycofania nazwy z dalszych materiałów.
-
-Jedno pytanie zadaję sam, zamiast udawać, że go nie widzę. Zakres obejmuje zobowiązania od stycznia 2027 do czerwca 2028, a Telewizja Polska pozostaje w likwidacji - proszę o wskazanie, kto po Państwa stronie może zawrzeć zobowiązanie o takim horyzoncie. Pytam tym spokojniej, że po mojej stronie sytuacja jest analogiczna i równie jawna: fundacja, która ma być organizatorem, jeszcze nie istnieje i zostanie wpisana do rejestru przed otwarciem naboru, a umowę podpisuje już ona, nie osoba prywatna.
+Zakres obejmuje zobowiązania od stycznia 2027 do czerwca 2028, a Telewizja Polska pozostaje w likwidacji - proszę o wskazanie, kto po Państwa stronie może zawrzeć zobowiązanie o takim horyzoncie. Pytam tym spokojniej, że po mojej stronie sytuacja jest analogiczna i równie jawna: fundacja, która ma być organizatorem, jeszcze nie istnieje i zostanie wpisana do rejestru przed otwarciem naboru, a umowę podpisuje już ona, nie osoba prywatna.
 
 Zakres antenowy trzeba ustalić przed otwarciem naboru, bo cykl poranny musi wejść do ramówki na cały rok. Relacja z gali i premiera teledysku to osobna rozmowa po werdykcie jury w lutym 2028.
 
