@@ -33,6 +33,14 @@ Najmocniejsza jest w tym wszystkim część szkolna i piszę o niej osobno, bo �
 
 Uczniowie nie oceniają więc odpowiedzi sztucznej inteligencji, lecz pytania, które zadali im rówieśnicy i dorośli, a przy okazji uczą się tego, czego ta Nagroda dotyczy: że od sposobu zapytania zależy, co się dowiesz. Z zapisów rozmów, Antologii i Archiwum powstaje materiał dydaktyczny udostępniany szkołom bezpłatnie.
 
+### Trzy branże, w których zmiana już trwa
+
+Plebiscyty na film, piosenkę i plakat nie są ozdobą przy plebiscycie rozmowy. Film, muzyka i grafika użytkowa to **trzy dziedziny, w których narzędzia generatywne już dziś zmieniają sposób pracy, stawki i to, co uznaje się za autorstwo**, a spór o to toczy się teraz, nie kiedyś. Zmiana nie omija przy tym nadawców: dotyczy produkcji, archiwów i tego, czym wypełnia się antenę.
+
+Każdy z tych plebiscytów stawia to pytanie wprost, zamiast o nim dyskutować w ogólności. **Plakat musi być wykonany ręcznie - farbą, tuszem, kolażem - bez generatora obrazu**, i jest to warunek udziału, nie preferencja. W plebiscycie piosenki te same słowa hymnu brzmią w dwóch wersjach, wygenerowanej i skomponowanej przez ludzi, żeby dało się je usłyszeć obok siebie i samemu ocenić różnicę. Film ma mówić o sztucznej inteligencji, a oceniany jest za tezę, formę i siłę oddziaływania, nie za temat.
+
+Dla nadawcy publicznego jest to materiał **dokumentujący zmianę w chwili, gdy ona zachodzi**, a nie opowieść o niej sporządzona po fakcie. Z pierwszej edycji zostaje zapis: dziesięć filmów, dziesięć piosenek, dziesięć plakatów i publiczne Archiwum rozmów, wszystko z jawną punktacją i uzasadnieniami.
+
 ## Czym ta rola różni się od patronatu medialnego
 
 **Patronat medialny nie zobowiązuje do niczego**: patron dostaje dostęp i materiał, a publikuje tyle i tak, jak uzna za właściwe wobec swoich odbiorców, i patronów może być kilku.
