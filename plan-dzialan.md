@@ -1035,6 +1035,18 @@ Werdykt złagodzony: odpowiedziałby i dopuścił rozmowę o pilotażu, choć pi
 
 **Wniosek metodyczny.** Przy każdym miejscu, w którym piszę „nie wiem" albo „nie umiem policzyć", sprawdzić, czy druga strona oczekuje mojej wiedzy, czy mojej decyzji. Jeżeli decyzji - przyznanie się do braku jest uchyleniem się od niej, a nie uczciwością.
 
+## Trzecia tura pisma do telewizji: dokument zamienił się w polemikę (3.11.2026)
+
+Pilotaż idzie do oceny redakcji programu porannego - pierwszy raz w tej serii coś przechodzi dalej niż do odmowy. Partnerstwa jako całości recenzent nie rekomenduje i nie udaje, że to się zmieniło.
+
+**Uwaga najważniejsza nie dotyczy żadnego pojedynczego zapisu.** Pismo zawierało już kilkanaście odpowiedzi na recenzenta: „poprzednie brzmienie", „nie udaję", „nie będę tego tak przedstawiał", „który stał tu wcześniej". Pierwszy adresat nie zna wcześniejszych wersji, więc musiał przez tę polemikę przejść, żeby znaleźć przedmiot decyzji - i jego zdanie opisuje to dokładnie: **dokument coraz lepiej opisuje ryzyka, a coraz trudniej wydobyć z niego przedmiot decyzji**. Zasada w `CLAUDE.md`: oferty i pisma opisują stan, nie historię poprawek; zastrzeżenie zostaje, polemika wypada, historia należy do planu działań i do `recenzje-status.md`. Wyczyszczone pismo oraz dwa miejsca w ofercie plakatu, gdzie stało „poprzednia wersja tej oferty" i „do 2 listopada oferta przewidywała".
+
+**Trzy wady punktowe, wszystkie wprowadzone przez poprzednią naprawę.** Akapit, który dopisałem jako uczciwe przyznanie się do braku wyceny, zaprzeczał podanemu dwa akapity wyżej zakresowi pilotażu: „nie podaję liczby ani długości wejść" wobec „cztery wejścia po 6-8 minut". Zawiadomienie o niewykonalności miało dwa połączone terminy, siedem dni i trzydzieści, z których recenzent nie umiał wyliczyć ani jednego - dziś jest jeden: **siedem dni od uzyskania przeze mnie wiedzy o problemie**. A wyłączność pakietu dawała się obejść w jednym kroku: inna stacja z cyklem i dostępem, lecz bez premiery teledysku, to dosłownie inny zestaw.
+
+**Wyłączność ma teraz granicę nadającą się do sprawdzenia**: trzy nazwane świadczenia zastrzeżone dla partnera - cykl prowadzony na naszym materiale w jakimkolwiek paśmie, premiera teledysku hymnu i przewaga czasowa (werdykty z embargiem, zapis gali przed publikacją) - **również w postaci zmienionej albo okrojonej**. Wszystko pozostałe jest dla każdego.
+
+**Wniosek metodyczny, drugi tego rodzaju w tej serii.** Uczciwe przyznanie się do braku trzeba sprawdzić dwukrotnie: czy druga strona oczekuje mojej wiedzy, czy mojej decyzji, oraz **czy to przyznanie nie unieważnia czegoś, co w tym samym dokumencie już podałem**.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

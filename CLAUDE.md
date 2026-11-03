@@ -38,6 +38,12 @@ Pliki `*-prompt-recenzji.md` oraz wszystkie inne teksty przeznaczone do skopiowa
 
 Uzasadnienie doboru persony, tego, czego prompt celowo nie robi, i tego, co zmieniło się od poprzedniej tury, nie wchodzi ani do pliku, ani do opisu commitu - **zapisuje się je w `recenzje-status.md`**, przy wierszu danego dokumentu, razem z personą i werdyktem. Zasada o samej treści plików ustalona 1.11.2026, wtedy też usunięto komentarze z dwudziestu czterech istniejących plików; miejsce uzasadnienia przeniesione z opisu commitu do `recenzje-status.md` 3.11.2026, bo commit opisuje zmianę, a nie okoliczności jej powstania.
 
+## Oferty i pisma opisują stan, nie historię poprawek
+
+Dokument idący do partnera **opisuje warunki, które obowiązują dzisiaj**, i nic więcej. Nie ma w nim zdań „poprzednia wersja tej oferty”, „do 2 listopada przewidywaliśmy”, „to było wadliwe”, „nie udaję”, „nie będę tego tak przedstawiał” ani innych odpowiedzi na cudze uwagi. Pierwszy adresat nie zna wcześniejszych wersji, więc musi przez taką polemikę przejść, żeby znaleźć przedmiot decyzji - a dokument, który coraz lepiej opisuje ryzyka, staje się przez to coraz trudniejszy do wykorzystania.
+
+Zastrzeżenie zostaje, polemika wypada: zamiast „poprzednio obiecywaliśmy X, i to było wadliwe” piszemy wprost, jak jest i dlaczego tak. **Historia poprawek należy do `plan-dzialan.md` i do `recenzje-status.md`**, nie do oferty i nie do pisma. Zasada ustalona 3.11.2026.
+
 ## Obietnice w ofertach: pięć pytań przed dopisaniem świadczenia
 
 Każde nowe świadczenie w ofercie partnerskiej sprawdza się pięcioma pytaniami, zanim trafi do dokumentu. Zasada ustalona 2.11.2026 po trzech turach recenzji oferty piosenki, w których **każda naprawa wprowadzała własne wady**: pakiet dopisany po pierwszej turze dał sześć nowych zarzutów, a rozliczenie dopisane po drugiej - trzy kolejne.
