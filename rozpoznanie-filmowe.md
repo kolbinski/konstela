@@ -75,3 +75,19 @@ Nie pytamy o patronat, nie prosimy o rozesłanie informacji i nie proponujemy ws
 ## Co z odpowiedziami
 
 Trafiają do oferty jako rozpoznanie, z nazwą źródła, w miejsce samego stwierdzenia o przepustowości objętej kosztorysem. Jeżeli odpowiedzi będą ostrożne, rozważamy dwie zmiany wymagające poprawki regulaminu przed otwarciem naboru: obniżenie progu długości filmu albo przesunięcie części puli na wsparcie produkcyjne dla dziesiątki finalistów, na wzór sesji studyjnych w plebiscycie piosenki.
+
+## Odpowiedzi
+
+### Szkoła Filmowa w Łodzi (PWSFTviT), 4 listopada 2026 - odmowa z trzema powodami
+
+Odpowiedź z Wydziału Organizacji Sztuki Filmowej, podpisana przez Anastazję Hartman. Uczelnia nie odpowiada w imieniu studentów ani absolwentów i nie przekazuje im zapytania; wskazuje samorząd studencki (student@filmschool.lodz.pl) jako właściwego adresata.
+
+Trzy powody, w kolejności, w jakiej je podano:
+
+1. **„Studenci nie realizują filmów na zadany temat, tylko swoje autorskie filmy w ramach procesu dydaktycznego."** To zarzut wobec § 3a regulaminu, a nie wobec długości, nagrody czy obowiązku publikacji - czyli nie wobec tego, co wskazywaliśmy jako prawdopodobną przeszkodę.
+2. **Filmy szkolne, w tym dyplomowe, idą na festiwale, a nie na plebiscyty tematyczne.** Droga zgłoszeniowa tego środowiska jest już zajęta i prowadzi gdzie indziej.
+3. **Brak czasu**: studenci od pierwszego roku realizują własne filmy szkolne, więc dodatkowa produkcja nie ma się kiedy odbyć.
+
+**Co z tego wynika dla rozpoznania.** Grupa pierwsza - szkoły filmowe - odpada jako kanał instytucjonalny: dziekanaty odpowiadają za uczelnię, nie za twórców, i nie mają mandatu, żeby mówić o cudzych planach. Pozostaje droga do pojedynczych studentów przez samorząd, ale wtedy pytamy już osoby, a nie instytucje, i odpowiedź będzie z innego rejestru.
+
+**Co z tego wynika dla plebiscytu.** Wymóg z § 3a - film zrealizowany na potrzeby Plebiscytu - wyklucza każde środowisko, które kręci filmy z innego powodu: szkoły, festiwale, Studio Munka. Zostaje grupa, która chce zrobić film do zadanego tematu, czyli twórcy startujący w konkursach tematycznych i autorzy wideoesejów. Przed kolejnymi wysyłkami trzeba rozstrzygnąć, czy § 3a zostaje w obecnym brzmieniu i godzimy się na węższą grupę, czy dopuszczamy filmy ukończone w roku edycji, które nie powstały wprost na potrzeby plebiscytu, ale odpowiadają jego tematowi.

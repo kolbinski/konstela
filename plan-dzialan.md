@@ -1127,6 +1127,14 @@ Nowy prompt - recenzent czyta konstela.org wraz z podlinkowanymi stronami, przyj
 
 **Wniosek metodyczny.** Prompt, w którym recenzent ocenia dokument, i prompt, w którym recenzent ma doprowadzić dokument do celu, dają różne odpowiedzi: pierwszy wychwytuje wady, drugi - słabe prośby. Jedna z nich kosztuje więcej.
 
+## Pierwsza odpowiedź z rozpoznania filmowego: zarzut trafia w § 3a, nie w nagrodę (4.11.2026)
+
+Szkoła Filmowa w Łodzi odpowiedziała odmownie i podała trzy powody, z których **żaden nie dotyczy tego, czego się spodziewaliśmy** - ani długości filmu, ani braku finansowania produkcji, ani obowiązku publikacji na YouTube. Pierwszy powód brzmi: studenci nie realizują filmów na zadany temat, tylko autorskie filmy w procesie dydaktycznym. Drugi: filmy szkolne idą na festiwale, nie na plebiscyty tematyczne. Trzeci: nie mają na to czasu, bo od pierwszego roku kręcą własne filmy. Uczelnia nie wypowiada się za studentów i odsyła do samorządu studenckiego.
+
+**Wniosek dla rozpoznania.** Szkoły filmowe odpadają jako kanał instytucjonalny - dziekanat odpowiada za uczelnię, nie za twórców. Pozostaje droga do pojedynczych osób przez samorząd, ale to już pytanie do twórcy, nie do instytucji.
+
+**Wniosek dla plebiscytu, poważniejszy.** Wymóg z § 3a regulaminu filmu - film zrealizowany na potrzeby Plebiscytu - wyklucza każde środowisko, które kręci filmy z innego powodu. Zostają twórcy startujący w konkursach tematycznych i autorzy wideoesejów. Przed kolejnymi wysyłkami trzeba rozstrzygnąć: albo § 3a zostaje i godzimy się na węższą grupę, albo dopuszczamy filmy ukończone w roku edycji, które odpowiadają tematowi, choć nie powstały wprost dla plebiscytu. Zapis został wprowadzony po to, by plebiscyt nie zbierał prac z półki; luzowanie go wymaga innego zabezpieczenia przed zgłaszaniem starszych filmów niż sama data ukończenia.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
