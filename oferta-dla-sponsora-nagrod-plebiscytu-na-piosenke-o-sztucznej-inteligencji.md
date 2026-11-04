@@ -285,8 +285,8 @@ Rola nie obejmuje:
 <dl class="harmonogram">
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
 <div><dt>Przed otwarciem naboru</dt><dd>Ogłoszenie składu jury i Akademii oraz zakresu sesji studyjnej<small>studio, liczba sesji i poprawek, przekazywane materiały i zasady pokrywania kosztów dojazdu; uczestnik ma wiedzieć, co dostaje, zanim się zgłosi</small></dd></div>
-<div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu 3 warunków regulaminowych</small></dd></div>
-<div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>3 wersje jednego tekstu: 2 wygenerowane przez sztuczną inteligencję i trzecia napisana oraz wykonana przez muzyków; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
+<div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu 5 warunków regulaminowych</small></dd></div>
+<div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>2 wersje jednego tekstu: pierwsza, której muzykę i wykonanie wygenerowała sztuczna inteligencja, i druga, napisana oraz wykonana przez muzyków; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniana jest wersja dostępna pod linkiem tego dnia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty 4 plebiscytów, czołowa trójka plebiscytu piosenki wykonuje nagrodzone utwory na żywo, hymn otwiera i zamyka wieczór</small></dd></div>

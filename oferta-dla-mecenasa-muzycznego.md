@@ -23,7 +23,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 
 ## <!--ikona:moneta--><span>Skąd ta rola się bierze</span>
 
-Dziś sesje studyjne są **wewnątrz** oferty dla [fundatora nagród plebiscytu na piosenkę](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji), która zamyka się kwotą 325 171,04 zł netto. Jeżeli mecenas muzyczny weźmie tę pozycję osobno, **oferta piosenkowa zmniejsza się o 75 000 zł wraz z przypadającą na nią rezerwą 12%, czyli o 84 000 zł - do 241 209,12 zł netto**. Koordynacja sesji zostaje po stronie organizatora i w jego budżecie, bo ktoś musi umówić studio z dziesięciorgiem autorów niezależnie od tego, kto płaci za nagrania. Działa to także częściowo: **jeżeli studio zapewni nagrania rzeczowo albo pokryje część sesji, kwota Fundatora maleje o faktyczną wartość tego, co zapewniono**, a świadczenia przy nagraniach dzielą się między obie role według wkładu.
+Dziś sesje studyjne są **wewnątrz** oferty dla [fundatora nagród plebiscytu na piosenkę](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji), która zamyka się kwotą 325 171,04 zł netto. Jeżeli mecenas muzyczny weźmie tę pozycję osobno, **oferta piosenkowa zmniejsza się o 75 000 zł wraz z przypadającą na nią rezerwą 12%, czyli o 84 000 zł - do 241 171,04 zł netto**. Koordynacja sesji zostaje po stronie organizatora i w jego budżecie, bo ktoś musi umówić studio z dziesięciorgiem autorów niezależnie od tego, kto płaci za nagrania. Działa to także częściowo: **jeżeli studio zapewni nagrania rzeczowo albo pokryje część sesji, kwota Fundatora maleje o faktyczną wartość tego, co zapewniono**, a świadczenia przy nagraniach dzielą się między obie role według wkładu.
 
 Piszemy to wprost z dwóch powodów:
 
@@ -36,7 +36,7 @@ Piszemy to wprost z dwóch powodów:
 - **Realizacja, miks i mastering** w jakości pozwalającej wydać te nagrania na płycie i w serwisach streamingowych
 - Możliwość wniesienia roli **świadczeniem rzeczowym**: własnym studiem i czasem realizatora zamiast pieniędzy, w całości albo w części
 
-Prawa do nagrań i ich podział między wykonawcę, realizatora i fundację ustala umowa; to pytanie jest na liście dla kancelarii jako osobny punkt i nie udajemy, że jest już rozstrzygnięte.
+**Prawa do nagrań przechodzą na autorów i wykonawców** - taka jest zasada przyjęta w kosztorysie i w harmonogramie plebiscytu. Szczegółowy podział praw między wykonawcę, realizatora nagrania i fundację ustala umowa; to pytanie jest na liście dla kancelarii jako osobny punkt i nie udajemy, że jest już rozstrzygnięte co do szczegółów.
 
 ## <!--ikona:zespol--><span>Co otrzymuje mecenas</span>
 

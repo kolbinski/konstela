@@ -1161,6 +1161,22 @@ Po dwóch odpowiedziach z rozpoznania zapadły dwie zmiany w regulaminie filmu.
 
 **Do zrobienia przy prawniku:** zakres licencji z § 12 przy trybie niepublicznym - dziś lit. a obejmuje prezentację wpisu wraz z linkiem, a przy linku niepublicznym link nie jest prezentowany; oraz pytanie, czy publiczny zwiastun nie wyczerpuje premiery w rozumieniu regulaminów festiwali, bo to ryzyko zostaje po stronie uczestnika i mówimy o nim na stronie plebiscytu.
 
+## Pismo do VeloBanku: prowadzi pozycja za 75 tysięcy, nie rola za 325 (4.11.2026)
+
+Pierwsza wersja pisma proponowała bankowi rolę Fundatora nagród plebiscytu piosenki za 325 171,04 zł netto, a sesje studyjne wymieniała jako tańszy wariant - czyli to, co z profilu VeloBanku wynika najmocniej, stało dopiero po kwocie bliskiej 400 tysięcy brutto. Po przebudowie pismo zaczyna się od **mecenatu nad dziesięcioma nagraniami za 75 000 zł netto**, a pełna rola jest podlinkowaną możliwością rozszerzenia.
+
+**Usunięte porównanie „jeden artysta rocznie, u nas dziesięciu naraz".** Nie pomagało, a przy okazji było nieprawdziwe - sesja nagraniowa jednego utworu nie jest odpowiednikiem wsparcia kariery, wydania albumu i promocji, a bank ma w ostatniej edycji dwoje laureatów. Wypadło też zapewnienie, że nie przychodzimy z konkurencją dla ich programu: zdanie podsuwało interpretację, której nikt by sam nie zbudował.
+
+**Cztery sprzeczności między pismem a ofertami, wszystkie prawdziwe.** Pismo mówiło o nagraniach pokazywanych na gali, a sesje odbywają się po gali - na gali gra czołowa trójka na żywo. Przedstawiało 325 171,04 zł jako komplet obejmujący honoraria jury, a te są w arkuszu pozycją niewycenioną. Mówiło o przekazaniu praw autorom, podczas gdy oferta muzyczna zostawiała podział praw do ustalenia. I rozciągało rozliczenie godzinowe pracy organizatora na usługi zewnętrzne, które odbiera się inaczej.
+
+**Dwa błędy w samych ofertach, znalezione przy okazji.** W ofercie Mecenasa muzycznego odjęcie było błędne: 325 171,04 minus 84 000 daje **241 171,04**, nie 241 209,12 - poprzednia poprawka tej arytmetyki z 2.11 też podała złą liczbę. W harmonogramie oferty piosenkowej zostały dwie nieaktualne rzeczy: trzy warunki otwarcia naboru zamiast pięciu oraz trzy wersje hymnu zamiast dwóch.
+
+**Zasada praw do nagrań ujednolicona**: prawa przechodzą na autorów i wykonawców, a umowa rozstrzyga szczegółowy podział między wykonawcę, realizatora i fundację. Wcześniej jedna oferta twierdziła pierwsze, druga wyłącznie drugie.
+
+**Czego w piśmie nie ma, choć było.** Listy nierozstrzygniętych wniosków ministerialnych, wzmianki o rozmowach z telewizjami i o nieujawnionym przewodniczącym jury - przy pierwszym kontakcie z bankiem nie są podstawą oceny wiarygodności, a rozpraszają. Zamiast nich pismo odpowiada na pytanie, które mecenas nagrań zada pierwsze: **co musi zostać sfinansowane przez innych, żeby te sesje w ogóle mogły się odbyć**, oraz podaje termin - zawiadomienie o gotowości plebiscytu do 31 grudnia 2026.
+
+**Jedna prośba na końcu**: dwudziestominutowa rozmowa z osobą odpowiedzialną za mecenat kulturalny. Wypadło zdanie o tym, że odmowa pozwoli mi pójść dalej - przenosiło uwagę z propozycji na moją sytuację.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
