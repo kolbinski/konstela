@@ -116,7 +116,7 @@ Poza tytułem rola obejmuje **oznaczenie w zapisie wideo z gali** publikowanym p
 
 ### Trzy świadczenia zastrzeżone dla Państwa stacji
 
-Żeby wyłączność nie była obietnicą bez treści, wymieniam z nazwy to, czego nie zaproponuję w tej edycji innej stacji - także w postaci zmienionej albo okrojonej. **Wyłączność obowiązywałaby od zawarcia umowy partnerskiej, w zakresie i terminach w niej określonych.** Mówię przy tym wprost, że **z tą samą propozycją zwracam się równolegle do innych nadawców** - pisma do nich są jawne i opublikowane tak samo jak to. Do czasu podpisania umowy nikomu nie obiecuję wyłączności, a przysługuje ona tej stacji, która umowę zawrze.
+Żeby wyłączność nie była obietnicą bez treści, wymieniam z nazwy to, czego nie zaproponuję w tej edycji innej stacji - także w postaci zmienionej albo okrojonej. **Wyłączność obowiązywałaby od zawarcia umowy partnerskiej, w zakresie i terminach w niej określonych.** Mówię przy tym wprost, że **z tą samą propozycją zwracam się równolegle do innych nadawców**. Do czasu podpisania umowy nikomu nie obiecuję wyłączności, a przysługuje ona tej stacji, która umowę zawrze.
 
 1. **cykl prowadzony na moim materiale i z moim udziałem**, w programie porannym albo w jakimkolwiek innym paśmie;
 2. **przewaga czasowa** - werdykty przed publicznym ogłoszeniem, z embargiem, oraz zapis gali przed jego publikacją;
