@@ -1135,6 +1135,18 @@ Szkoła Filmowa w Łodzi odpowiedziała odmownie i podała trzy powody, z który
 
 **Wniosek dla plebiscytu, poważniejszy.** Wymóg z § 3a regulaminu filmu - film zrealizowany na potrzeby Plebiscytu - wyklucza każde środowisko, które kręci filmy z innego powodu. Zostają twórcy startujący w konkursach tematycznych i autorzy wideoesejów. Przed kolejnymi wysyłkami trzeba rozstrzygnąć: albo § 3a zostaje i godzimy się na węższą grupę, albo dopuszczamy filmy ukończone w roku edycji, które odpowiadają tematowi, choć nie powstały wprost dla plebiscytu. Zapis został wprowadzony po to, by plebiscyt nie zbierał prac z półki; luzowanie go wymaga innego zabezpieczenia przed zgłaszaniem starszych filmów niż sama data ukończenia.
 
+## Druga odpowiedź z rozpoznania: ta sama przeszkoda i rachunek, który jej nie domyka (4.11.2026)
+
+Gdyńska Szkoła Filmowa odpowiedziała merytorycznie i wskazała **tę samą przeszkodę pierwszą co Łódź: § 3a**, czyli wymóg realizacji filmu na potrzeby plebiscytu. Dołożyła do niego rachunek: budżet profesjonalnej produkcji, nawet krótkometrażowej, bywa wyższy niż 100 000 zł, a przy 20-90 minutach koszty są wielokrotnością nagrody głównej - więc film robiony na jeden konkurs, bez gwarancji nagrody i bez możliwości odzyskania nakładów, jest przedsięwzięciem ekonomicznie nieuzasadnionym, a dla studentów nierealnym.
+
+**Druga przeszkoda, której nie przewidzieliśmy w pytaniach:** obowiązek publicznego udostępnienia filmu koliduje z wymaganiami premierowymi festiwali, a młodzi twórcy planują dystrybucję festiwalową.
+
+**Dwie propozycje szkoły:** zgłoszenia przez prywatne linki oraz dopuszczenie produkcji już ukończonych, których tematyka odpowiada konkursowi.
+
+**Status rozpoznania.** Dwie odpowiedzi, dwie instytucje, ta sama przeszkoda pierwsza - to wystarcza, żeby traktować ją jako ustalenie, a nie opinię. Żadna z instytucji nie wskazała samej długości ani wysokości nagrody jako przeszkody samoistnej.
+
+**Trzy rzeczy do rozstrzygnięcia, wszystkie w regulaminie filmu** - rozpisane wraz z wariantami w `rozpoznanie-filmowe.md`: utrzymanie albo poluzowanie § 3a, publiczna dostępność filmu wobec premier festiwalowych oraz to, do kogo właściwie plebiscyt filmu jest kierowany, skoro nagroda nie pokrywa kosztu produkcji w podanym przedziale długości.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

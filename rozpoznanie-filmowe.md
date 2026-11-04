@@ -91,3 +91,25 @@ Trzy powody, w kolejności, w jakiej je podano:
 **Co z tego wynika dla rozpoznania.** Grupa pierwsza - szkoły filmowe - odpada jako kanał instytucjonalny: dziekanaty odpowiadają za uczelnię, nie za twórców, i nie mają mandatu, żeby mówić o cudzych planach. Pozostaje droga do pojedynczych studentów przez samorząd, ale wtedy pytamy już osoby, a nie instytucje, i odpowiedź będzie z innego rejestru.
 
 **Co z tego wynika dla plebiscytu.** Wymóg z § 3a - film zrealizowany na potrzeby Plebiscytu - wyklucza każde środowisko, które kręci filmy z innego powodu: szkoły, festiwale, Studio Munka. Zostaje grupa, która chce zrobić film do zadanego tematu, czyli twórcy startujący w konkursach tematycznych i autorzy wideoesejów. Przed kolejnymi wysyłkami trzeba rozstrzygnąć, czy § 3a zostaje w obecnym brzmieniu i godzimy się na węższą grupę, czy dopuszczamy filmy ukończone w roku edycji, które nie powstały wprost na potrzeby plebiscytu, ale odpowiadają jego tematowi.
+
+### Gdyńska Szkoła Filmowa, 4 listopada 2026 - odpowiedź merytoryczna z dwiema propozycjami zmian
+
+Odpowiedź z biura szkoły, podpisana przez Anetę Gołębiewską-Bussold. Inicjatywa może zainteresować część studentów i absolwentów, zwłaszcza osoby zajmujące się tematyką sztucznej inteligencji; **liczby zgłoszeń szkoła nie szacuje**.
+
+**Przeszkoda pierwsza, ekonomiczna.** Wymóg stworzenia filmu na potrzeby plebiscytu bez zapewnienia finansowania produkcji. Budżet profesjonalnej produkcji, nawet krótkometrażowej, potrafi przekroczyć 100 000 zł, a przy filmie od 20 do 90 minut koszty realizacji bywają **wielokrotnie wyższe od nagrody głównej**. Film robiony wyłącznie na jeden konkurs, bez gwarancji nagrody i bez możliwości odzyskania nakładów, jest z perspektywy twórcy ekonomicznie nieuzasadniony, a dla studentów i młodych absolwentów po prostu nierealny, bo nie mają własnego kapitału.
+
+**Przeszkoda druga, premierowa.** Obowiązek publicznego udostępnienia filmu w serwisie wideo koliduje z wymaganiami premierowymi części festiwali, a młodzi twórcy planują dystrybucję festiwalową, w tym międzynarodową.
+
+**Dwie propozycje szkoły:** dopuszczenie zgłoszeń przez **prywatne linki** oraz dopuszczenie **produkcji już ukończonych**, których tematyka odpowiada założeniom konkursu. Zdaniem szkoły zwiększyłoby to dostępność plebiscytu dla zawodowych twórców.
+
+**Filmy dyplomowe** wymagałyby indywidualnej analizy praw do konkretnej produkcji i obowiązujących umów - czyli nie są wykluczone, inaczej niż w odpowiedzi z Łodzi, ale każdy przypadek osobno.
+
+## Co z tych dwóch odpowiedzi wynika
+
+Dwie szkoły, niezależnie od siebie, wskazały **tę samą przeszkodę pierwszą: § 3a**, czyli wymóg realizacji filmu na potrzeby plebiscytu. Żadna nie wskazała długości ani wysokości nagrody jako przeszkody samoistnej - Gdynia mówi o nich w połączeniu z § 3a, bo to zestawienie kosztu produkcji z nagrodą czyni rachunek ujemnym. To nie jest już opinia jednej instytucji, tylko powtórzony wynik rozpoznania.
+
+Do rozstrzygnięcia są więc trzy rzeczy, wszystkie dotykające regulaminu:
+
+1. **§ 3a - film na potrzeby plebiscytu.** Utrzymanie zapisu oznacza świadomą zgodę na wąską grupę: twórców, którzy chcą zrobić film do zadanego tematu i godzą się na rachunek, w którym nagroda nie pokrywa produkcji. Dopuszczenie filmów ukończonych w roku edycji otwiera plebiscyt na profesjonalistów i szkoły, ale wymaga innego zabezpieczenia przed pracami z półki niż sama data ukończenia.
+2. **Publiczna dostępność filmu.** Dziś warunkiem udziału jest publiczny film i zwiastun w serwisie YouTube co najmniej do dnia gali. Prywatny link dla jury i Akademii rozwiązuje kolizję z premierami festiwalowymi, ale uderza w konstrukcję Projektorni i Archiwum, które są katalogiem odsyłającym do filmu u Uczestnika. Wariant pośredni: film dostępny z prywatnego linku dla oceniających, publiczny zwiastun i wpis w katalogu, a pełna publiczna dostępność dopiero po gali albo na wniosek twórcy.
+3. **Rachunek produkcji.** Przy 20-90 minutach nagroda główna nie pokrywa kosztu profesjonalnej produkcji i nie da się tego naprawić zapisem regulaminu. Albo plebiscyt kieruje się do twórców pracujących małym kosztem i mówi to wprost, albo dopuszcza filmy już istniejące, albo długość idzie w dół.
