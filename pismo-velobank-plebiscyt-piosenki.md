@@ -22,14 +22,14 @@ Opis plebiscytu: https://konstela.org/plebiscyt-piosenki/. Regulaminy wraz z kar
 
 **Mecenas nie ma wpływu na wybór laureatów ani na skład jury** i nie wskazuje, kto nagrywa w studiu - dziesiątkę wyłania jury według regulaminu.
 
-Materiały z pracy w studiu - zdjęcia i wideo z sesji - są osobną pozycją kosztorysu i osobnym ustaleniem; nie wchodzą w kwotę 75 000 zł i nie obiecuję ich w tym wariancie.
+Dokumentację sesji - zdjęcia i wideo - można uzgodnić i wycenić osobno.
 
 ## Kiedy to się dzieje
 
 - **2027** - nabór zgłoszeń, przez cały rok;
 - **druga połowa czerwca 2028** - gala rozstrzygnięcia, na której czołowa trójka wykonuje nagrodzone utwory na żywo;
-- **po gali** - dziesięć sesji studyjnych, rozliczanych po ich wykonaniu;
-- **harmonogram płatności do uzgodnienia** - sesje są usługą odbieraną po wykonaniu, więc nie wymagają wpłaty z góry, inaczej niż pula nagród, której regulamin nie pozwala ogłosić bez wcześniejszego pokrycia.
+- **po gali** - dziesięć sesji studyjnych; **ostatnia odbywa się nie później niż cztery miesiące po gali**, a rozliczenie i potwierdzenie ich przeprowadzenia idzie do mecenasa w ciągu 30 dni od ostatniej sesji;
+- **płatność po wykonaniu** - sesje są usługą odbieraną po wykonaniu i nie wymagają wpłaty z góry, inaczej niż pula nagród, której regulamin nie pozwala ogłosić bez wcześniejszego pokrycia. Jeżeli uzgodnimy inny harmonogram, wynika to z umowy, nie z tego pisma.
 
 Decyzja zapada więc w innym roku niż rezultat - i dlatego piszę już teraz.
 
@@ -37,13 +37,13 @@ Decyzja zapada więc w innym roku niż rezultat - i dlatego piszę już teraz.
 
 Nagrania są częścią plebiscytu, a nie wydarzeniem samodzielnym: potrzebny jest otwarty nabór, ocena i organizator. **Nabór otwieram po spełnieniu pięciu warunków regulaminowych**, z których dwa najważniejsze to pełne pokrycie ogłaszanej puli nagród w środkach, które wpłynęły na rachunek, oraz ogłoszony skład jury.
 
-Dlatego mówię wprost, czego dziś nie ma. **Fundacja Konstela nie jest wpisana do Krajowego Rejestru Sądowego**; umowę zawiera fundacja po wpisie, a do czasu wpisu nie przyjmuję od nikogo żadnych wpłat. **Role finansujące pozostają nieobsadzone**, a jury jest w kompletowaniu. Jeżeli plebiscyt nie zostanie rozstrzygnięty, **sesje się nie odbywają, a środki wracają do mecenasa** albo, na jego pisemny wybór, przechodzą na kolejną edycję; nie przesuwamy sesji na zgłoszenia spoza dziesiątki, żeby pozycja została wykorzystana.
+Dlatego mówię wprost, czego dziś nie ma. **Fundacja Konstela nie jest wpisana do Krajowego Rejestru Sądowego**; umowę zawiera fundacja po wpisie, a do czasu wpisu nie przyjmuję od nikogo żadnych wpłat. **Role finansujące pozostają nieobsadzone**, a jury jest w kompletowaniu. Jeżeli plebiscyt nie zostanie rozstrzygnięty, **sesje się nie odbywają i nie powstaje należność za nie**; przy płatności po wykonaniu nie ma wtedy czego zwracać, a gdyby strony uzgodniły wcześniejszą wpłatę, wraca ona do mecenasa albo, na jego pisemny wybór, przechodzi na kolejną edycję. Nie przesuwamy sesji na zgłoszenia spoza dziesiątki, żeby pozycja została wykorzystana.
 
-**O gotowości plebiscytu zawiadomię Państwa pisemnie do 31 grudnia 2026 roku**: albo nabór rusza na początku 2027 roku, albo podaję nowy termin wraz z powodem. Mecenat nie wiąże Państwa przed tym zawiadomieniem.
+**O gotowości plebiscytu zawiadomię Państwa pisemnie do 31 grudnia 2026 roku**: albo nabór rusza na początku 2027 roku, albo przedstawiam nowy harmonogram wraz z powodem - **nowy harmonogram wymaga Państwa akceptacji**, a jego brak kończy sprawę bez żadnych zobowiązań po Państwa stronie. **Bank wiąże się wyłącznie podpisaną umową**: ani to pismo, ani moje zawiadomienie, ani rozmowa nie tworzą zobowiązania, a rozmowy mogą Państwo zakończyć w każdej chwili i bez podania przyczyny.
 
 ## Możliwość szersza, jeżeli zechcą Państwo iść dalej
 
-Sesje studyjne są jedną z trzech pozycji roli **Fundatora nagród plebiscytu piosenki** - obok puli nagród i hymnu Nagrody z teledyskiem - która zamyka się kwotą 325 171,04 zł netto. Opis jest pod adresem https://konstela.org/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji/, a wszystkie role pierwszej edycji wraz z kwotami zbiera strona https://konstela.org/dla-partnerow/. Cały kosztorys, z pozycjami jeszcze niewycenionymi oznaczonymi jako takie - w tym honorariami jury - jest jawny w arkuszu: https://konstela.org/arkusz/budzet-edycji-pierwszej.
+Sesje studyjne są jedną z trzech pozycji roli **Fundatora nagród plebiscytu piosenki**, obok puli nagród i hymnu Nagrody z teledyskiem; szersze finansowanie plebiscytu jest więc możliwe. Opis roli wraz z kosztorysem jest pod adresem https://konstela.org/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji/, a wszystkie role pierwszej edycji wraz z kwotami zbiera strona https://konstela.org/dla-partnerow/. Cały kosztorys, z pozycjami jeszcze niewycenionymi oznaczonymi jako takie - w tym honorariami jury - jest jawny w arkuszu: https://konstela.org/arkusz/budzet-edycji-pierwszej.
 
 ## O co proszę
 
