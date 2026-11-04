@@ -24,7 +24,7 @@ Opis plebiscytu: https://konstela.org/plebiscyt-piosenki/. Regulaminy wraz z kar
 
 **Fundator nie ma wpływu na wybór laureatów ani na skład jury** i nie wskazuje, kto nagrywa w studiu - dziesiątkę wyłania jury według regulaminu.
 
-Dokumentację sesji - zdjęcia i wideo - można uzgodnić i wycenić osobno.
+**Dokumentacja sesji jest w tej kwocie**, nie poza nią: z każdej z dziesięciu sesji nie mniej niż 40 zdjęć w jakości do druku i nie mniej niż 3 minuty wideo, a do tego po jednej zmontowanej wersji 30-60 sekund w formacie pionowym i poziomym, przekazywane Fundatorowi w ciągu 30 dni od ostatniej sesji z prawem publikacji we własnych kanałach. Zakres tego prawa i to, czego nie obejmuje, opisuje oferta.
 
 Hymn Nagrody w wersji ludzkiej wraz z teledyskiem jest **osobną rolą** i nie wchodzi w tę kwotę: https://konstela.org/oferta-dla-fundatora-hymnu-nagrody-konstela/. Jeżeli zechcą Państwo objąć także hymn, kwota obu ról razem wynosi 325 171,04 zł netto.
 
