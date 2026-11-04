@@ -1,6 +1,6 @@
 # Fundator hymnu Nagrody Konstela
 
-**Szukamy partnera, który sfinansuje hymn Nagrody „Zapytaj inaczej" w wersji ludzkiej wraz z teledyskiem: 80 000 zł netto** (98 400 zł brutto z VAT 23%).
+**Szukamy partnera, który sfinansuje hymn Nagrody „Zapytaj inaczej" w wersji ludzkiej wraz z teledyskiem: 89 600 zł netto** (110 208 zł brutto z VAT 23%). Z tego **80 000 zł to koszt kompozycji, nagrania i teledysku**, a 9 600 zł rezerwa 12% na przekroczenia, liczona tak samo jak w pozostałych budżetach edycji; część niewykorzystana wraca do Fundatora.
 
 Hymn jest jedyną pozycją w całej edycji, która **nie należy do żadnego plebiscytu**: nie startuje w konkursie, nie podlega ocenie i powstaje dla Nagrody jako całości. Dlatego ma własną ofertę, zamiast obciążać sponsora jednego z czterech plebiscytów.
 
@@ -17,7 +17,7 @@ Hymn jest jedyną pozycją w całej edycji, która **nie należy do żadnego ple
 
 Do tej edycji hymn stał w kosztorysie plebiscytu piosenki. Sponsor tego plebiscytu płacił więc za pozycję, która służy całej Nagrodzie i rozlicza się niezależnie od tego, czy jego plebiscyt zostanie rozstrzygnięty - a kosztuje więcej niż wszystkie dziesięć sesji studyjnych razem.
 
-Jeżeli hymn obejmie osobny Fundator, [oferta plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji) **zmniejsza się o 80 000 zł wraz z przypadającą na nie rezerwą 12%, czyli o 89 600 zł - do 235 571,04 zł netto**. Nie sprzedajemy tej samej pozycji dwa razy.
+Dlatego od 4 listopada 2026 roku hymn ma **własną zakładkę w arkuszu budżetowym - Budżet Hymnu** - i własną rolę, a [oferta plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji) kosztuje o te 89 600 zł mniej, czyli 235 571,04 zł netto. Nie sprzedajemy tej samej pozycji dwa razy; Fundator plebiscytu piosenki może objąć także hymn, a wtedy obie role razem kosztują 325 171,04 zł netto.
 
 ## <!--ikona:zespol--><span>Co otrzymuje Fundator</span>
 
@@ -39,7 +39,7 @@ Zakres oznaczeń uzgadniamy przed publikacją, razem z kontekstem i sąsiedztwem
 
 Hymn **nie jest uzależniony od otwarcia naboru**: warunków otwarcia jest pięć i hymnu nie ma wśród nich, więc opóźnienie plebiscytu nie wstrzymuje hymnu, a hymn nie wstrzymuje plebiscytu. Jeżeli jednak edycja nie ruszy w ogóle, a produkcja nie zostanie rozpoczęta, **środki wracają do Fundatora** albo, na jego pisemny wybór, przechodzą na kolejną edycję.
 
-Rozliczenie następuje po premierze, na podstawie faktur wykonawców i sprawozdania z wykorzystania kwoty.
+Rozliczenie następuje po premierze, na podstawie faktur wykonawców i sprawozdania z wykorzystania kwoty wraz z wykorzystaniem rezerwy.
 
 ## <!--ikona:etap--><span>Stan przygotowań</span>
 
@@ -51,7 +51,7 @@ Rozliczenie następuje po premierze, na podstawie faktur wykonawców i sprawozda
 
 ## <!--ikona:ogniwo--><span>Kto odpowiada</span>
 
-Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody Konstela. Regulaminy czterech plebiscytów wraz z kartami oceny są [jawne](/regulaminy), a cały kosztorys pierwszej edycji - wraz z pozycją hymnu - stoi w [arkuszu budżetowym](https://konstela.org/arkusz/budzet-edycji-pierwszej).
+Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody Konstela. Regulaminy czterech plebiscytów wraz z kartami oceny są [jawne](/regulaminy), a cały kosztorys pierwszej edycji jest jawny w [arkuszu budżetowym](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-hymnu), gdzie hymn ma własną zakładkę.
 
 Kontakt: Krzysztof Olbiński, +48 503 520 004, wspolpraca@konstela.org.
 

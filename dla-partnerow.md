@@ -55,7 +55,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Fundator hymnu</h3>
-<p>Hymn Nagrody „Zapytaj inaczej" w <strong>wersji ludzkiej wraz z teledyskiem</strong>, skomponowanej i nagranej przez skład jury plebiscytu piosenki. Jedyna pozycja edycji, która nie należy do żadnego plebiscytu: powstaje dla całej Nagrody, ma premierę w czasie naboru i otwiera galę obok wersji wygenerowanej przez sztuczną inteligencję.</p>
+<p><strong>89 600 zł netto.</strong> Hymn Nagrody „Zapytaj inaczej" w <strong>wersji ludzkiej wraz z teledyskiem</strong>, skomponowanej i nagranej przez skład jury plebiscytu piosenki. Jedyna pozycja edycji, która nie należy do żadnego plebiscytu: powstaje dla całej Nagrody, ma premierę w czasie naboru i otwiera galę obok wersji wygenerowanej przez sztuczną inteligencję.</p>
 <p class="wiecej"><a href="/oferta-dla-fundatora-hymnu-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 <article>

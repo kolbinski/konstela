@@ -310,7 +310,8 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
 - **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 773,92 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 325 171,04 zł netto<small>nagrody, sesje studyjne dziesiątki finalistów i hymn Nagrody z teledyskiem</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 235 571,04 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
+- **[Fundator hymnu Nagrody Konstela](/oferta-dla-fundatora-hymnu-nagrody-konstela)** - 89 600 zł netto<small>hymn w wersji ludzkiej wraz z teledyskiem, komponowany i nagrywany przez skład jury plebiscytu piosenki; jedyna pozycja edycji spoza plebiscytów</small>
 - **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 268 046,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 731,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>

@@ -4,14 +4,14 @@
 
 ## <!--ikona:nuta--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, nagrania studyjne dla 10 finalistów i prowadzenie plebiscytu przez cały rok naboru.** Hymn Nagrody z teledyskiem jest od tej edycji **osobną rolą** i można go objąć razem z plebiscytem albo zostawić innemu partnerowi.
+**Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, honoraria jury, nagrania studyjne dla 10 finalistów i prowadzenie plebiscytu przez cały rok naboru.** Hymn Nagrody z teledyskiem ma [własną rolę i własny kosztorys](/oferta-dla-fundatora-hymnu-nagrody-konstela); można go objąć dodatkowo, ale nie jest częścią tej oferty.
 
-**Kosztuje to 235 571,04 zł netto bez hymnu albo 325 171,04 zł netto razem z nim** (289 752,38 zł albo 399 960,38 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 235 571,04 zł netto** (289 752,38 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
 - **10 profesjonalnych nagrań** utworów dziesiątki finalistów, w studiu i na koszt, który nie obciąża autorów;
-- **hymn**, który otwiera i zamyka galę. Nagrania zostają własnością autorów, nie sponsora i nie organizatora.
+- **płyta**, która z tych nagrań powstaje, jeżeli znajdzie się wydawca. Nagrania zostają własnością autorów, nie sponsora i nie organizatora.
 
 Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. [Fundator nagród w plebiscycie na rozmowę](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja) finansuje pulę i pracę jury tamtego plebiscytu, [Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela) fundację, stronę i narzędzia wspólne dla wszystkich plebiscytów, [Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela) to, co po edycji zostaje do czytania i słuchania, a sponsor gali wieczór rozstrzygnięcia. Role są rozdzielne i można je objąć niezależnie; pozostałe zakresy opisuje strona [Dla partnerów](/dla-partnerow).
 
@@ -63,7 +63,7 @@ Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a part
 
 ## <!--ikona:moneta--><span>Co obejmuje ta rola</span>
 
-Rola finansuje trzy rzeczy, które powstają i rozliczają się oddzielnie.
+Rola finansuje dwie rzeczy, które powstają i rozliczają się oddzielnie.
 
 ### 1. Nagrody - 47 000 zł brutto
 
@@ -93,28 +93,25 @@ Trzy rzeczy, które do tej pozycji należą i których nie zmieniamy:
 
 To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 utworów nagranych porządnie, w studiu, na koszt który nie obciąża autorów. **Nie twierdzimy, że bez tej oferty nie nagraliby ich wcale** - nie znamy przyszłych finalistów ani ich możliwości. Twierdzimy to, co jest nasze: że sesja jest zapewniona i opłacona z góry, niezależnie od tego, czy autor mógłby za nią zapłacić sam.
 
-### 3. Hymn Nagrody z teledyskiem - pozycja opcjonalna, 80 000 zł netto
+### Hymn Nagrody - osobna rola, nie część tej
 
-[Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału. Powstaje do jednego tekstu w **2 wersjach: muzyce wygenerowanej przez sztuczną inteligencję, którą już słychać na stronie hymnu, oraz nowej kompozycji, którą napiszą i nagrają muzycy** - po to, żeby na gali dało się je usłyszeć obok siebie. Porównanie dotyczy kompozycji, nie wykonania: jurorzy piszą własną muzykę do tego samego tekstu, a nie wykonują melodii z generatora, bo inaczej hymn łamałby zasadę stawianą zgłaszającym. Hymn otwiera i zamyka galę.
-
-**Premiera hymnu wypada w czasie trwania naboru w 2027 roku**, bo hymn jest także zaproszeniem do zgłoszeń. Jedno zastrzeżenie wprost: **otwarcie edycji nie jest od hymnu uzależnione.** Warunków otwarcia naboru jest 5 i hymnu wśród nich nie ma, więc opóźnienie produkcji nie wstrzymuje plebiscytu, a plebiscyt nie wstrzymuje hymnu.
+[Hymn Nagrody „Zapytaj inaczej"](/hymn) w wersji ludzkiej wraz z teledyskiem kosztuje **89 600 zł netto** i ma [własną ofertę](/oferta-dla-fundatora-hymnu-nagrody-konstela) oraz własną zakładkę w arkuszu budżetowym. Powstaje dla całej Nagrody, nie dla tego plebiscytu: nie startuje w konkursie, nie podlega ocenie i rozlicza się niezależnie od werdyktu. **Fundator plebiscytu może objąć także hymn** - wtedy obie role razem kosztują 325 171,04 zł netto - ale nie musi, a brak Fundatora hymnu niczego w tej roli nie zmienia.
 
 ### Co daje się rozdzielić, a co nie
 
 **Nagrody i nagrania studyjne idą razem.** Plebiscyt, który wyłania dziesiątkę finalistów, ale nie ma czym opłacić ich sesji, nie kończy się tym, czym ma się kończyć - płytą i nagraniami, które zostają przy autorach. Dlatego te dwie pozycje finansuje ten sam partner i nie oferujemy ich osobno.
 
-**Hymn jest pozycją opcjonalną.** Powstaje dla całej Nagrody, nie dla tego plebiscytu, i rozlicza się niezależnie od jego wyniku, więc od tej edycji ma [własną ofertę](/oferta-dla-fundatora-hymnu-nagrody-konstela). Można go objąć razem z plebiscytem - wtedy kwota wynosi 325 171,04 zł netto - albo zostawić innemu partnerowi, a wtedy ta rola kosztuje **235 571,04 zł netto**, bo z kosztorysu znika 80 000 zł wraz z przypadającą na nie rezerwą 12%, czyli 89 600 zł. Jeżeli zakres w tej postaci jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
+**Hymn jest poza tą rolą.** Od 4 listopada 2026 roku ma własny kosztorys i własną ofertę, bo płacenie za niego ze środków plebiscytu obciążało Fundatora pozycją, która służy całej Nagrodzie i rozlicza się niezależnie od wyniku jego plebiscytu. Jeżeli zakres tej roli jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**325 171,04 zł netto** (399 960,38 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**235 571,04 zł netto** (289 752,38 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
 | **Nagrody plebiscytu dla laureatów** (czołowa trójka, brutto)  | **35 000 zł** |
 | Nagrody publiczności (brutto)                                  |      12 000 zł |
 | Nagrania studyjne 10 finalistów (7 500 zł za sesję x 10)       |      75 000 zł |
-| Hymn Nagrody z teledyskiem                                     |      80 000 zł |
 | Praca organizatora (255 godz. po 220 zł)                       |      56 100 zł |
 | Medal zwycięzcy i dyplomy finalistów                           |       1 200 zł |
 | Honoraria jury za ocenę                                        |    do ustalenia |
@@ -126,16 +123,16 @@ To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 u
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych piosenek, 5 lat retencji            |       1 500 zł |
 | Dokumentacja sesji studyjnych: zdjęcia, wideo, montaż          |      12 000 zł |
-| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   29 804,04 zł |
-| **Razem netto**                                                | **325 171,04 zł** |
-| VAT 23%                                                        |      74 789,34 zł |
-| **Do zapłaty brutto**                                          | **399 960,38 zł** |
+| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   20 204,04 zł |
+| **Razem netto**                                                | **235 571,04 zł** |
+| VAT 23%                                                        |      54 181,34 zł |
+| **Do zapłaty brutto**                                          | **289 752,38 zł** |
 
-**Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 370 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
+**Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 280 400 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
 Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa 12%, która je obejmie - razem około 43 680 zł. **Zapas nad tym rachunkiem jest więc niecałe 1 200 zł** i mówimy to wprost: jeżeli honoraria jury wypadną wyżej niż szacunek, limit trzeba będzie podnieść aneksem przed podpisaniem umowy, a nie po cichu w trakcie edycji.
 
-**Realizacja części artystycznej gali stoi poza tym limitem** i jest uzgadniana osobnym aneksem. Powód mówimy wprost, zamiast wpisywać wygodną liczbę: koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie, i dopóki miejsce gali nie jest wybrane, każda kwota byłaby zgadywaniem. Limit, który obejmowałby tę pozycję, albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. Fundator nie jest przy tym zobowiązany do objęcia tej pozycji: jeżeli jej nie weźmie, część artystyczna szuka osobnego finansowania albo gala odbywa się bez koncertu.
+**Realizacja części artystycznej gali jest poza tym limitem** i jest uzgadniana osobnym aneksem. Powód mówimy wprost, zamiast wpisywać wygodną liczbę: koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie, i dopóki miejsce gali nie jest wybrane, każda kwota byłaby zgadywaniem. Limit, który obejmowałby tę pozycję, albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. Fundator nie jest przy tym zobowiązany do objęcia tej pozycji: jeżeli jej nie weźmie, część artystyczna szuka osobnego finansowania albo gala odbywa się bez koncertu.
 
 **Praca organizatora to 255 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się na 8 nazwanych zakresów:
 
@@ -169,9 +166,8 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 Pozostałe pozycje rozliczane są po wykonaniu:
 
-- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 88 904,04 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
+- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 79 304,04 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
 - **nagrania studyjne rozliczane są po sesjach**, sesja po sesji, po fakturach studia;
-- **hymn z teledyskiem rozliczany jest po premierze.**
 
 Faktura wychodzi osobno do każdego etapu.
 
@@ -183,7 +179,7 @@ Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozlicz
 
 Osobno regulamin przewiduje próg po stronie uczestników: **jeżeli po weryfikacji formalnej liczba zgłoszeń spełniających wymogi okaże się mniejsza niż 10, Organizator może nie rozstrzygnąć edycji; to samo dotyczy sytuacji, w której żadne zgłoszenie nie uzyska co najmniej 50 punktów według karty oceny, a nagrody nie są przyznawane.** Środki przeznaczone na nagrody wracają wtedy do Fundatora albo zasilają pulę kolejnej edycji, zależnie od jego wyboru. Ten sam wybór przysługuje, gdy jury jednomyślnie uzna, że żadne zgłoszenie nie spełnia kryteriów merytorycznych.
 
-Dwie pozycje mają tu własny los i mówimy o nim wprost. **Nagrania studyjne finansowane są dla finalistów, więc bez rozstrzygnięcia edycji nie powstają** i pozycja wraca do Fundatora w całości. **Hymn jest odwrotnie: powstaje i zostaje**, bo jego premiera wypada w czasie naboru, a nagranie i teledysk istnieją niezależnie od tego, ile zgłoszeń wpłynie.
+Jedna pozycja ma tu własny los i mówimy o nim wprost. **Nagrania studyjne finansowane są dla finalistów, więc bez rozstrzygnięcia edycji nie powstają** i pozycja wraca do Fundatora w całości.
 
 Budżet policzony jest na skalę, przy której dziesiątka finalistów ma z czego powstać, i to jest liczba, na którą pracujemy.
 
@@ -197,14 +193,13 @@ Kosztorys ma pozycje, które mogą się zmienić, i takie, które nie mogą. **N
 
 Wszystko pozostałe może zostać ograniczone, jeżeli zabraknie środków albo partnera, od którego zależy - a kwoty odpowiadające rzeczom niewykonanym wracają, tak samo jak niewykorzystana rezerwa.
 
-**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku **wracają w całości środki przeznaczone na rzeczy, które się nie odbyły** - nagrody, sesje studyjne, dojazdy, medal - a Fundator dostaje rozliczenie co do pozycji. **Nie jest to zwrot wszystkiego**, i trzeba to powiedzieć wprost: hymn ma premierę w czasie naboru, czyli przed rozstrzygnięciem, więc jego koszt zostaje poniesiony i rozliczony niezależnie od wyniku edycji; to samo dotyczy pracy organizatora wykonanej i odebranej przed tą chwilą oraz kosztów już zaciągniętych wobec osób trzecich. Roszczenie Fundatora obejmuje więc **środki niewydane i pozycje niewykonane**, nie całość wpłaty. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
+**Jeden wyjątek, i trzeba go nazwać.** Rdzeń powyżej zakłada, że edycja zostaje rozstrzygnięta. Jeżeli nie zostanie - bo wpłynie za mało zgłoszeń spełniających wymogi formalne albo żadne nie osiągnie progu punktowego z karty oceny - **nagrody nie są przyznawane, werdyktu nie ma i nie ma czego pokazywać**; pierwszeństwo ma wtedy regulamin, nie ta obietnica. W takim przypadku **wracają w całości środki przeznaczone na rzeczy, które się nie odbyły** - nagrody, sesje studyjne, dojazdy, medal - a Fundator dostaje rozliczenie co do pozycji. **Nie jest to zwrot wszystkiego**, i trzeba to powiedzieć wprost: praca organizatora wykonana i odebrana przed tą chwilą - rok prowadzenia naboru, Słuchalnia, Archiwum, kontrola formalna - zostaje rozliczona niezależnie od wyniku edycji, podobnie jak koszty już zaciągnięte wobec osób trzecich. Roszczenie Fundatora obejmuje więc **środki niewydane i pozycje niewykonane**, nie całość wpłaty. Ten przypadek jest też jednym ze zdarzeń pozwalających wycofać nazwę.
 
-**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z czterech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są cztery:
+**Prawo wycofania nazwy.** Zwrot pieniędzy nie naprawia skojarzenia marki, więc obok niego umowa daje Fundatorowi rzecz mocniejszą. Jeżeli zdarzy się którekolwiek z trzech wymienionych niżej zdarzeń, Organizator zawiadamia o tym pisemnie **w ciągu siedmiu dni** od chwili, w której sam się dowiedział, a Fundator ma **trzydzieści dni** na pisemne wycofanie zgody na używanie swojej nazwy. Po takim oświadczeniu nazwa znika ze strony, z materiałów prasowych i z komunikacji **w ciągu czternastu dni**, a Fundator otrzymuje zwrot kwot odpowiadających świadczeniom niewykonanym. Zdarzenia są trzy:
 
 1. **gala się nie odbywa** i werdykt zostaje ogłoszony na stronie;
-2. **hymn z teledyskiem nie powstaje** w roku naboru;
-3. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
-4. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
+2. **edycja nie zostaje rozstrzygnięta** i nagrody nie są przyznawane;
+3. **nie zostaje wykonane którekolwiek ze świadczeń wymienionych wyżej jako nienaruszalne**, w tym wykonanie go w zakresie istotnie węższym od opisanego.
 
 Mówimy przy tym wprost, czego to nie cofa: nazwa zostaje w materiałach już wydrukowanych, w archiwalnych wersjach strony i w cudzych publikacjach. Prawo wycofania działa do przodu, nie wstecz.
 
@@ -233,7 +228,6 @@ Dotąd świadczenia wyżej mówiły, **gdzie marka będzie widoczna**, a nie **i
 - **Materiały z realizacji sesji**, z minimum, które da się sprawdzić: **dokumentacja z każdej z dziesięciu sesji**, z każdej **nie mniej niż 40 zdjęć** w rozdzielczości nadającej się do druku i **nie mniej niż 3 minuty materiału wideo**, w tym ujęcia z pracy w studiu, a nadto **po jednej wersji zmontowanej z każdej sesji, od 30 do 60 sekund, w formacie pionowym i poziomym**. Materiał przekazywany jest Fundatorowi w ciągu 30 dni od ostatniej sesji, **z prawem publikacji we własnych kanałach marki** - bez opłat i bez terminu końcowego. **Zakres jest nazwany wprost**, bo „niekomercyjna komunikacja" niczego nie rozstrzyga: Fundator może publikować te materiały w swoich kanałach i w serwisach społecznościowych, **promować płatnie własne posty, które je zawierają**, umieszczać je na stronie firmy, w raportach, materiałach wewnętrznych i rekrutacyjnych. **Wyłączone są trzy rzeczy**: kreacje reklamowe sprzedające produkt albo usługę, strony produktowe i cenniki oraz każde użycie sugerujące, że wykonawcy polecają markę albo jej produkty. Prawa do samych **nagrań muzycznych** zostają przy autorach i tego ta licencja nie dotyczy - obejmuje materiały, które zamawiamy i opłacamy, czyli zdjęcia i wideo z sesji.
 - **Fragmenty nagrań do użycia w kampanii**: pozyskujemy dla Fundatora zgody autorów na wykorzystanie do 30 sekund z każdego nagrania. **Zgoda jest dobrowolna i autor może odmówić** - gwarantujemy wystąpienie o nią do każdego z dziesięciu i przekazanie odpowiedzi, nie jej treść. Prawa do nagrań zostają przy autorach i to się nie zmienia.
 - **Prawa do dźwięku w materiałach z sesji, nie tylko do obrazu.** Film z sesji zawiera słyszalny utwór, jego wykonanie i nagranie, a zgoda na publikację wizerunku tego nie rozstrzyga. Dlatego **wystąpienie o zgodę na użycie dźwięku w dokumentacji jest częścią umówienia sesji**, przed jej terminem, i obejmuje ten sam zakres, który Fundator dostaje do materiałów - w tym płatną promocję własnych postów. **Zmontowane filmy przekazujemy z kompletem praw do zadeklarowanego użycia**; jeżeli któryś z autorów zgody nie udzieli, materiał z jego sesji dostarczamy w wersji, która tej zgody nie wymaga - bez dźwięku albo bez fragmentu muzycznego - i **nazywamy to w raporcie**. Zgody na fragmenty gotowych nagrań do kampanii są osobną sprawą i pozostają dobrowolne.
-- **Oznaczenie w teledysku hymnu**: plansza z tytułem Fundatora w czołówce albo na końcu, do uzgodnienia; **hymn wraz z teledyskiem dostajecie w pliku z prawem publikacji we własnych kanałach** na tych samych zasadach co materiały z sesji.
 - **Pakiet z gali**: zdjęcia, zapis wideo werdyktu plebiscytu piosenki i wystąpienia przedstawiciela Fundatora oraz zapis wykonań na żywo - w zakresie, na jaki zgodzą się wykonawcy, o co również występujemy.
 - **Raport wykonania** przy rozliczeniu: lista wykonanych publikacji z datami i odnośnikami, liczba przekazanych materiałów, liczba uzyskanych i odmówionych zgód autorskich.
 - **Statystyki własnych publikacji**, jakie udostępnia nam dany serwis: wyświetlenia albo odsłony, odsłuchania, obejrzenia i kliknięcia, osobno dla każdej publikacji, **ze wskazaniem źródła i jego ograniczeń**. Przekazujemy je dwa razy: w rozliczeniu i **trzy miesiące po ostatniej publikacji**, bo liczby rosną po dacie wydania. Nie gwarantujemy żadnej ich wysokości i nie ręczymy za metodologię serwisów - podajemy to, co sami widzimy w panelach, w takiej postaci, w jakiej to widzimy.
@@ -280,7 +274,7 @@ Rola nie obejmuje:
 
 **W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej 3 osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. **Przewodnictwo jury plebiscytu piosenki jest uzgodnione z muzykiem, który zgodził się je objąć**; nazwiska nie podajemy, dopóki nie mamy pisemnego potwierdzenia, i ta sama zasada dotyczy pozostałych członków jury.
 
-**Przed nami.** Powołanie fundacji, konsultacja prawna regulaminu, wybór studia nagraniowego i ogłoszenie zakresu sesji, ustalenie honorariów jury oraz produkcja hymnu. Pozycje infrastrukturalne należą do budżetu uruchomienia i nie obciążają tej oferty.
+**Przed nami.** Powołanie fundacji, konsultacja prawna regulaminu, wybór studia nagraniowego i ogłoszenie zakresu sesji oraz ustalenie honorariów jury. Pozycje infrastrukturalne należą do budżetu uruchomienia i nie obciążają tej oferty.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
@@ -288,7 +282,7 @@ Rola nie obejmuje:
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
 <div><dt>Przed otwarciem naboru</dt><dd>Ogłoszenie składu jury i Akademii oraz zakresu sesji studyjnej<small>studio, liczba sesji i poprawek, przekazywane materiały i zasady pokrywania kosztów dojazdu; uczestnik ma wiedzieć, co dostaje, zanim się zgłosi</small></dd></div>
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu 5 warunków regulaminowych</small></dd></div>
-<div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>2 wersje jednego tekstu: pierwsza, której muzykę i wykonanie wygenerowała sztuczna inteligencja, i druga, napisana oraz wykonana przez muzyków; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
+<div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>finansowana osobną rolą Fundatora hymnu; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniana jest wersja dostępna pod linkiem tego dnia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty 4 plebiscytów, czołowa trójka plebiscytu piosenki wykonuje nagrodzone utwory na żywo, hymn otwiera i zamyka wieczór</small></dd></div>
@@ -313,7 +307,7 @@ Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpis
 - Umowę z tą działalnością zawiera **Rada Fundacji**, bo statut powierza jej umowy z członkami Zarządu i nie może w niej zasiadać żaden członek Zarządu.
 - Rada przyjmuje też raporty etapów i zatwierdza rozliczenie godzin. **Fundator może wskazać osobę, która otrzymuje te raporty.**
 - Statut zakazuje wypłat na rzecz fundatora i osób zarządzających poza wynagrodzeniem za pracę faktycznie wykonaną.
-- Pozycje zewnętrzne - studio nagraniowe, produkcja hymnu i teledysku, medal i dyplomy, honoraria jury, obsługa prawna - wchodzą do budżetu **w kwotach z faktur dostawców, bez narzutu**.
+- Pozycje zewnętrzne - studio nagraniowe, medal i dyplomy, honoraria jury, obsługa prawna, dokumentacja sesji - wchodzą do budżetu **w kwotach z faktur dostawców, bez narzutu**.
 
 ## <!--ikona:dokument--><span>Co Fundator dostaje przed jakimkolwiek zobowiązaniem</span>
 
@@ -321,7 +315,7 @@ Ta strona jest ofertą, nie umową, i celowo nie powtarza jej zapisów. Przed um
 
 1. **Projekt umowy właściwej** w ostatecznym brzmieniu, wraz z zapisami o etapach, odbiorze, zwrocie kwoty niewykorzystanej i zakończeniu bez otwarcia naboru.
 2. **Zakres sesji studyjnej** w brzmieniu, w jakim zostanie ogłoszony uczestnikom: studio, liczba sesji i poprawek, przekazywane materiały, kto zatwierdza aranżację, zasady pokrywania dojazdu.
-3. **Kalkulacja kosztów hymnu i teledysku** wraz z ofertami wykonawców, bo to pojedyncza pozycja o największej wartości spośród pozycji wycenionych.
+3. **Kalkulacja kosztu sesji studyjnych** wraz z ofertami studiów, bo przy wycenionych pozycjach jest to największa z nich.
 4. **Skład Rady Fundacji z nazwiskami** oraz zasady jej powoływania, bo to ona zatwierdza umowę z działalnością Organizatora i odbiera jego pracę.
 
 Wszystkie 4 przygotowujemy na prośbę, bez zobowiązania po stronie Fundatora i bez opłaty. **Dopiero ich przyjęcie otwiera drogę do umowy przedwstępnej**, a projekt umowy właściwej, zakres sesji i kalkulacja stają się jej załącznikami - umowa przedwstępna nie odsyła do warunków, których Fundator jeszcze nie widział.
@@ -361,7 +355,7 @@ Role są rozdzielne i można objąć więcej niż jedną. Wszystkie zakresy zbie
 
 ## <!--ikona:koperta--><span>Kontakt</span>
 
-Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism. Jeżeli interesuje Państwa tylko jedna z trzech części - nagrody, nagrania studyjne albo hymn - powiedzcie która, i o tej części rozmawiamy.
+Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism. Jeżeli zakres tej roli jest za szeroki, powiedzcie którą jego część widzą Państwo u siebie, i o niej rozmawiamy.
 
 Krzysztof Olbiński  
 +48 503 520 004  

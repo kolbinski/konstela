@@ -108,7 +108,10 @@ function sprawdzSumy(pliki, sumy) {
   for (const [nazwa, kwota] of Object.entries(sumy)) {
     razem += kwota;
     const tekst = formatuj(kwota);
-    const ile = tresci.filter(([, s]) => s.includes(tekst)).length;
+    // Suma bez groszy zapisywana jest w dokumentach bez ",00" - inaczej okrągła
+    // kwota wyglądałaby w zdaniu jak przepisana z arkusza wraz z formatem.
+    const warianty = tekst.endsWith(',00') ? [tekst, tekst.slice(0, -3)] : [tekst];
+    const ile = tresci.filter(([, s]) => warianty.some((w) => s.includes(w))).length;
     console.log(`   ${nazwa.padEnd(24)} ${tekst.padStart(12)}  w ${ile} plikach`);
   }
   const tekstRazem = formatuj(Math.round(razem * 100) / 100);
@@ -126,7 +129,7 @@ function sprawdzLicencje() {
   const kod = `
 import openpyxl, json
 w = openpyxl.load_workbook('budzet-edycji-pierwszej.xlsx', data_only=True)
-calosc = w['Wyjaśnienia']['B85'].value
+calosc = w['Wyjaśnienia']['B86'].value
 suma = 0.0
 for n in w.sheetnames:
     sh = w[n]

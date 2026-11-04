@@ -274,7 +274,7 @@ const OPISY = {
   'oferta-dla-partnera-wydawniczego-antologii':
     'Wydanie książkowe Antologii Nagrody Konstela nakładem własnym wydawcy, na licencji od fundacji: co zawiera tom, na czym polega bezpłatne wydanie elektroniczne i jakie są warunki rozmowy.',
   'oferta-dla-fundatora-hymnu-nagrody-konstela':
-    'Hymn Nagrody Konstela w wersji ludzkiej wraz z teledyskiem: 80 000 zł netto, co obejmuje rola, co otrzymuje Fundator i jak ta rola zmniejsza ofertę plebiscytu piosenki.',
+    'Hymn Nagrody Konstela w wersji ludzkiej wraz z teledyskiem: 89 600 zł netto, co obejmuje rola, co otrzymuje Fundator i jak ta rola zmniejsza ofertę plebiscytu piosenki.',
   'oferta-dla-partnera-wydawniczego-plyty':
     'Wydanie i dystrybucja płyty z nagraniami dziesiątki finalistów plebiscytu na piosenkę: co dostaje wydawca, co trzeba uzgodnić i od czego ta rola zależy.',
   'oferta-dla-partnera-galerii-sztuki':
