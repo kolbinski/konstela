@@ -7,13 +7,23 @@
 # Jednorazowe ustawienie, bez którego to nie zadziała:
 # Settings → Pages → Build and deployment → Source: "GitHub Actions".
 #
-# GDY WDROŻENIE SIĘ WYWALI: uruchom ponownie CAŁY przebieg ("Re-run all jobs"),
+# GDY WYWALI SIĘ BUDOWANIE: uruchom ponownie CAŁY przebieg ("Re-run all jobs"),
 # nigdy samo nieudane zadanie. Budowanie i wdrażanie siedzą w jednym zadaniu,
 # więc ponowienie wrzuca drugą paczkę o nazwie "github-pages", a wdrożenie
 # odmawia wtedy pracy: "Multiple artifacts named github-pages". Wariant
 # odporny na ponawianie, z budowaniem i wdrażaniem jako osobnymi zadaniami,
 # leży w skrypty/deploy-warianty/publikuj-dwa-zadania.yml - jest o jakieś
 # 20 sekund wolniejszy, bo wdrożenie czeka na drugą maszynę.
+#
+# GDY WYWALI SIĘ SAMO WDROŻENIE - "Timeout reached, aborting!" po kilkunastu
+# minutach na "updating_pages" albo "Deployment cancelled" - NIE PONAWIAJ
+# przebiegu. Wdrożenie dla danego commitu zostało wtedy anulowane, a każda
+# kolejna próba dla tego samego "pages_build_version" dostaje anulowanie
+# natychmiast, w kilka sekund. Potrzebny jest NOWY przebieg: ręczne
+# uruchomienie ("Run workflow", czyli workflow_dispatch niżej) albo kolejny
+# commit. Sprawdzone 4.11.2026: ponowienie zakończyło się po 35 sekundach
+# komunikatem "Deployment cancelled", a ręczne uruchomienie przeszło w 43
+# sekundy, bez żadnej zmiany w repozytorium.
 
 name: Publikuj stronę
 
