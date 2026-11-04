@@ -39,7 +39,7 @@ Nagrania są częścią plebiscytu, a nie wydarzeniem samodzielnym: potrzebny je
 
 Dlatego mówię wprost, czego dziś nie ma. **Fundacja Konstela nie jest wpisana do Krajowego Rejestru Sądowego**; umowę zawiera fundacja po wpisie, a do czasu wpisu nie przyjmuję od nikogo żadnych wpłat. **Role finansujące pozostają nieobsadzone**, a jury jest w kompletowaniu. Jeżeli plebiscyt nie zostanie rozstrzygnięty, **sesje się nie odbywają i nie powstaje należność za nie**; przy płatności po wykonaniu nie ma wtedy czego zwracać, a gdyby strony uzgodniły wcześniejszą wpłatę, wraca ona do mecenasa albo, na jego pisemny wybór, przechodzi na kolejną edycję. Nie przesuwamy sesji na zgłoszenia spoza dziesiątki, żeby pozycja została wykorzystana.
 
-**O gotowości plebiscytu zawiadomię Państwa pisemnie do 31 grudnia 2026 roku**: albo nabór rusza na początku 2027 roku, albo przedstawiam nowy harmonogram wraz z powodem - **nowy harmonogram wymaga Państwa akceptacji**, a jego brak kończy sprawę bez żadnych zobowiązań po Państwa stronie. **Bank wiąże się wyłącznie podpisaną umową**: ani to pismo, ani moje zawiadomienie, ani rozmowa nie tworzą zobowiązania, a rozmowy mogą Państwo zakończyć w każdej chwili i bez podania przyczyny.
+**O gotowości plebiscytu zawiadomię Państwa pisemnie do 31 grudnia 2026 roku**: albo nabór rusza na początku 2027 roku, albo przedstawiam nowy harmonogram wraz z powodem - **nowy harmonogram wymaga Państwa akceptacji**, a brak tej akceptacji kończy sprawę bez żadnych zobowiązań po Państwa stronie. **Bank wiąże się wyłącznie podpisaną umową**: ani to pismo, ani moje zawiadomienie, ani rozmowa nie tworzą zobowiązania, a rozmowy mogą Państwo zakończyć w każdej chwili i bez podania przyczyny.
 
 ## Możliwość szersza, jeżeli zechcą Państwo iść dalej
 
