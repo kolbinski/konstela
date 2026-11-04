@@ -92,9 +92,11 @@
 
 6. Organizator nie pyta o wykształcenie, dotychczasowy dorobek ani przynależność do organizacji twórczych. Pyta wyłącznie o historię zgłoszonego filmu, w zakresie z § 3a; wcześniejsze nagrody Uczestnika za inne prace nie mają znaczenia ani dodatniego, ani ujemnego.
 
-## § 3a. Film powstaje na potrzeby tego Plebiscytu
+## § 3a. Film premierowy, ukończony w roku edycji
 
-1. Zgłoszony film musi zostać **zrealizowany na potrzeby Plebiscytu** i **ukończony w roku edycji, najpóźniej w dniu zgłoszenia**. Rokiem edycji pierwszej jest 2027. Liczy się data ukończenia, a nie data publikacji.
+1. Zgłoszony film musi zostać **ukończony w roku edycji, najpóźniej w dniu zgłoszenia**, i **nie może być przed dniem otwarcia naboru udostępniony publicznie ani pokazany publicznie**, w szczególności opublikowany w serwisie internetowym, wyemitowany ani pokazany na festiwalu, przeglądzie lub projekcji otwartej. Rokiem edycji pierwszej jest 2027. Liczy się data ukończenia oraz data pierwszego publicznego udostępnienia albo pokazu, a nie to, w jakim celu film powstał.
+
+1a. **Film nie musi powstać na potrzeby Plebiscytu.** Zgłosić można również film zrealizowany z innego powodu - dyplomowy, szkolny, festiwalowy albo własny - jeżeli spełnia warunek z ust. 1. Warunek premierowy służy temu, żeby Plebiscyt nie zbierał prac pokazywanych wcześniej, lecz filmy, które publiczność zobaczy po raz pierwszy przy tej edycji.
 
 2. **Zgłoszenie filmu do innych konkursów, festiwali i przeglądów jest dozwolone**, również w czasie trwania Plebiscytu, i nie wymaga zawiadomienia Organizatora. Nagroda, wyróżnienie albo nominacja otrzymane gdzie indziej nie wyłączają filmu z Plebiscytu ani nie wpływają na jego ocenę.
 
@@ -102,9 +104,9 @@
 
 2b. **Czego zakaz z ust. 2a nie obejmuje.** Wykorzystania materiałów powstałych wcześniej jako składników nowego filmu: zdjęć archiwalnych, materiałów stockowych, wcześniej napisanego scenariusza, istniejącej muzyki ani zdjęć zrealizowanych przed ogłoszeniem Plebiscytu. Warunek dotyczy **ukończonego filmu**, a nie jego części składowych; prawa do tych materiałów pozostają sprawą Uczestnika (§ 12 ust. 1 lit. a).
 
-3. **Opublikowanie filmu na kanale Uczestnika nie jest zgłoszeniem do innego konkursu ani pokazem festiwalowym.** Zgłoszenie w tym Plebiscycie polega na wskazaniu linku do filmu opublikowanego przez Uczestnika (§ 4 ust. 1 lit. a), więc publikacja jest warunkiem udziału, a nie jego naruszeniem. Nie są też naruszeniem ust. 2: pokaz dla współtwórców, pokaz w szkole albo na uczelni Uczestnika oraz udostępnienie filmu bez zgłoszenia go do oceny.
+3. **Udostępnienie filmu na potrzeby oceny nie jest pokazem publicznym.** Zgłoszenie polega na wskazaniu linku do filmu w trybie publicznym albo niepublicznym (§ 4 ust. 1 lit. a); udostępnienie linku niepublicznego oceniającym nie jest publicznym udostępnieniem ani pokazem w rozumieniu ust. 1 i nie wyczerpuje premiery. Nie są też naruszeniem ust. 2: pokaz dla współtwórców, pokaz w szkole albo na uczelni Uczestnika oraz udostępnienie filmu bez zgłoszenia go do oceny.
 
-4. **Plebiscyt nie zastrzega wyłączności w żadnym okresie.** Uczestnik dysponuje filmem swobodnie przed zgłoszeniem, w czasie trwania Plebiscytu i po gali. Jedynym ograniczeniem jest obowiązek utrzymania filmu dostępnego publicznie w serwisie, w którym został zgłoszony, do zamknięcia głosowania publiczności.
+4. **Plebiscyt nie zastrzega wyłączności w żadnym okresie.** Uczestnik dysponuje filmem swobodnie w czasie trwania Plebiscytu i po gali, a przed zgłoszeniem - w granicach warunku premierowego z ust. 1. Jedynym ograniczeniem jest obowiązek utrzymania działającego linku do zamknięcia głosowania publiczności.
 
 5. Datę ukończenia oraz oświadczenie, że film spełnia warunki z ust. 1 i 2a, Uczestnik podaje w zgłoszeniu i odpowiada za ich prawdziwość. Organizator weryfikuje je w zakresie, w jakim pozwalają na to środki techniczne, w szczególności na podstawie daty publikacji nagrania, materiałów produkcyjnych i publicznie dostępnych wyników plebiscytów; brak możliwości weryfikacji nie obciąża Uczestnika i sam w sobie nie jest podstawą odrzucenia. Wykazanie nieprawdy jest podstawą wykluczenia na zasadach z § 14.
 
@@ -112,7 +114,13 @@
 
 1. Zgłoszenie składa się przez formularz na stronie Nagrody i obejmuje:
 
-   a) **link do filmu opublikowanego przez Uczestnika w serwisie YouTube** – obowiązkowe. Film musi być w tym serwisie **dostępny publicznie**: bez opłaty, bez zakładania konta i bez podawania dodatkowego hasła; film o statusie niepublicznym nie spełnia tego wymogu. **Link musi działać do dnia gali**, ponieważ głosowanie publiczności trwa do tego dnia (§ 11a ust. 2), a wpis w Projektorni jest przez cały ten czas dostępny. Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
+   a) **link do filmu umieszczonego przez Uczestnika w serwisie YouTube** – obowiązkowe, w jednym z dwóch trybów wskazanych w zgłoszeniu:
+
+   a0) **tryb publiczny** – film dostępny bez opłaty, bez zakładania konta i bez podawania hasła. Film bierze wtedy udział w głosowaniu publiczności (§ 11a), a wpis w Projektorni odsyła do niego przez cały nabór;
+
+   a0a) **tryb niepubliczny** – film dostępny z linku niepublicznego, wyłącznie dla osób oceniających: Akademii, jury i Organizatora w zakresie weryfikacji. Film **nie bierze wtedy udziału w głosowaniu publiczności** (§ 11a ust. 2a), a wpis w Projektorni zawiera wszystkie pozostałe elementy wraz ze zwiastunem, bez odsyłania do filmu. Tryb ten istnieje dlatego, że część festiwali wymaga premiery, a publiczne udostępnienie filmu przed festiwalem zamykałoby Uczestnikowi tę drogę;
+
+   a0b) **wspólne dla obu trybów**: **link musi działać do dnia gali**, Uczestnik nie zmienia w tym czasie ustawienia dostępu bez zawiadomienia Organizatora, a zmiana trybu z publicznego na niepubliczny po otwarciu głosowania publiczności nie jest możliwa. Tryb można natomiast zmienić z niepublicznego na publiczny w każdej chwili, z tym że udział w głosowaniu publiczności wymaga zmiany **przed jego otwarciem**. Organizator sprawdza link przy zgłoszeniu i informuje o problemie niezwłocznie;
 
    a1) **link do zwiastuna filmu opublikowanego przez Uczestnika w serwisie YouTube** – obowiązkowe. Zwiastun trwa **od 60 do 120 sekund**, składa się z materiału zgłoszonego filmu i jest **dostępny publicznie** na tych samych zasadach co film. Zwiastun jest prezentowany w Projektorni i w Archiwum, a jeżeli film znajdzie się wśród pięciu najwyżej ocenionych – także podczas gali (§ 10 ust. 2). **Zwiastun nie podlega ocenie** w żadnym kryterium i jego poziom realizacyjny nie wpływa na punktację filmu;
 
@@ -409,6 +417,8 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Przez cały czas naboru Organizator prowadzi na stronie Nagrody **Projektornię** – publiczną, rosnącą listę zgłoszeń przyjętych do Plebiscytu. Wpis obejmuje tytuł, podpis Uczestnika, miniaturę, link do zwiastuna, czas trwania, opis, uzasadnienie „dlaczego warte nagrody głównej” (§ 4 ust. 1 lit. e1), deklarację z § 6, link do filmu oraz – jeżeli Uczestnik go podał – link z § 4 ust. 1 lit. h1.
 
+1a. **Wpis przy zgłoszeniu w trybie niepublicznym** obejmuje te same elementy co pozostałe, w tym zwiastun, opis, uzasadnienie i deklarację, z wyjątkiem odnośnika do filmu; zamiast niego wpis zawiera informację, że film jest udostępniony wyłącznie oceniającym, a po dniu wskazanym przez Uczestnika albo po gali - odnośnik, jeżeli Uczestnik film opublikuje.
+
 2. Wpis pojawia się po przejściu weryfikacji formalnej, a nie w chwili złożenia zgłoszenia. Kolejność w Projektorni wyznacza wyłącznie data zgłoszenia; Organizator nie prowadzi rankingu i nie publikuje liczników odsłon ani popularności.
 
 3. Obecność w Projektorni jest warunkiem udziału w Plebiscycie, a nie przedmiotem odrębnej zgody. Uczestnik decyduje wyłącznie o sposobie podpisania zgłoszenia.
@@ -441,7 +451,9 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
 1. Obok werdyktu jury przyznawana jest odrębna, wyraźnie nazwana nagroda publiczności dla filmu z największą liczbą głosów.
 
-2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną, i otwiera się po **łącznym** zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie, utrwaleniu listy zgłoszeń oraz zamknięciu oceny pierwszego przejścia – a nie w trakcie naboru. Termin zamknięcia określa ust. 5c.
+2. Głosowanie obejmuje wszystkie zgłoszenia, które przeszły weryfikację formalną i zostały złożone w trybie publicznym (§ 4 ust. 1 lit. a0), i otwiera się po **łącznym** zakończeniu weryfikacji formalnej wszystkich zgłoszeń złożonych w terminie, utrwaleniu listy zgłoszeń oraz zamknięciu oceny pierwszego przejścia – a nie w trakcie naboru. Termin zamknięcia określa ust. 5c.
+
+2a. **Zgłoszenia w trybie niepublicznym nie biorą udziału w głosowaniu.** Powodem jest to, że głosowanie na film, którego głosujący nie może obejrzeć, byłoby głosowaniem na zwiastun i na nazwisko. Wyłączenie nie wpływa na ocenę Akademii ani jury, na miejsce w werdykcie, na nagrodę pieniężną ani na obecność w Projektorni i w Archiwum; dotyczy wyłącznie nagrody publiczności i nagrody za uzasadnienie głosu. Uczestnik wybiera tryb przy zgłoszeniu, wiedząc o tym skutku.
 
 3. Jeden głos przypada na jeden numer telefonu, potwierdzany jednorazowym kodem. Liczniki głosów nie są publikowane w trakcie głosowania; wynik ogłaszany jest na gali.
 
@@ -487,7 +499,7 @@ Niezależnie od punktacji film **nie może zostać nagrodzony**, jeżeli deklara
 
    a1) **ma prawa do oprawy muzycznej zwiastuna oraz filmu** w zakresie koniecznym do udziału w Plebiscycie i do udzielenia licencji z ust. 2, albo że korzysta z utworów muzycznych na podstawie licencji dopuszczającej takie wykorzystanie; dotyczy to w szczególności publicznego odtworzenia zwiastuna podczas gali i w zapisie wideo gali;
 
-   b) film został stworzony od zera na potrzeby Plebiscytu i ukończony w roku edycji, a nie jest przeróbką filmu ukończonego wcześniej (§ 3a);
+   b) film został ukończony w roku edycji, nie był przed otwarciem naboru udostępniony ani pokazany publicznie i nie jest przeróbką filmu ukończonego wcześniej (§ 3a);
 
    c) deklaracja z § 6 jest zgodna z prawdą;
 

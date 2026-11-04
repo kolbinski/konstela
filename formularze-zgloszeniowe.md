@@ -54,7 +54,7 @@ Odrębności: wiek od 16 lat, a przy osobie poniżej 18 lat zgoda opiekuna rozbi
 | Nazwa składu twórczego | nieobowiązkowe |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat | warunkowe |
 
-Odrębności: wiek od 16 lat. Film ma być zrealizowany na potrzeby tego plebiscytu, więc data ukończenia jest polem rozstrzygającym, a nie informacyjnym. Organizator nie przechowuje kopii filmu.
+Odrębności: wiek od 16 lat. Film ma mieć premierę przy tej edycji, więc data ukończenia oraz oświadczenie o braku wcześniejszego publicznego pokazu są polami rozstrzygającymi, a nie informacyjnymi. Formularz zawiera też wybór trybu linku: publiczny albo niepubliczny. Organizator nie przechowuje kopii filmu.
 
 ### Piosenka o sztucznej inteligencji (§ 5 regulaminu piosenki)
 

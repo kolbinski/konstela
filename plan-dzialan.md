@@ -1147,6 +1147,20 @@ Gdyńska Szkoła Filmowa odpowiedziała merytorycznie i wskazała **tę samą pr
 
 **Trzy rzeczy do rozstrzygnięcia, wszystkie w regulaminie filmu** - rozpisane wraz z wariantami w `rozpoznanie-filmowe.md`: utrzymanie albo poluzowanie § 3a, publiczna dostępność filmu wobec premier festiwalowych oraz to, do kogo właściwie plebiscyt filmu jest kierowany, skoro nagroda nie pokrywa kosztu produkcji w podanym przedziale długości.
 
+## Plebiscyt filmu: premiera zamiast realizacji na potrzeby plebiscytu, wybór trybu linku (4.11.2026)
+
+Po dwóch odpowiedziach z rozpoznania zapadły dwie zmiany w regulaminie filmu.
+
+**§ 3a przestaje wymagać, żeby film powstał na potrzeby plebiscytu, a zaczyna wymagać premiery.** Film ma być ukończony w roku edycji i przed otwarciem naboru nigdzie publicznie nieudostępniony ani niepokazany - ani w serwisie, ani na festiwalu, ani na projekcji otwartej. Dyplom, film szkolny i własny projekt wchodzą tak samo. Zakaz przeróbek filmów ukończonych wcześniej zostaje. Powód zmiany: dotychczasowy wymóg wykluczał każde środowisko kręcące filmy z innego powodu, a jedyne, co naprawdę chroniliśmy, to żeby plebiscyt nie zbierał prac już oglądanych - i to chroni teraz warunek premierowy, sprawdzalny po dacie pierwszego pokazu, a nie po deklaracji o zamiarze.
+
+**Film zgłasza się z linku publicznego albo niepublicznego, do wyboru uczestnika.** Publiczny: film widoczny w Projektorni i biorący udział w głosowaniu publiczności. Niepubliczny: film widzą wyłącznie Akademia i jury, wpis w Projektorni ma zwiastun, opis, uzasadnienie i punktację bez odnośnika do filmu, a film **nie startuje w nagrodzie publiczności** - bo głosowanie na film, którego nie da się obejrzeć, byłoby głosowaniem na zwiastun i nazwisko. Zwiastun pozostaje publiczny w obu trybach. Powód: obowiązek publikacji kolidował z wymaganiami premierowymi festiwali, co wskazała Gdynia.
+
+**Czego nie ruszyliśmy.** Długości 20-90 minut i wysokości nagród. Rachunek, w którym koszt produkcji bywa wielokrotnością nagrody, dopuszczenie filmów bez wymogu „dla nas" rozbraja tylko w połowie: twórca nie musi już robić filmu wyłącznie dla tego konkursu, ale jeżeli robi film od zera, nagroda nadal nie pokrywa produkcji. Obniżenie dolnego progu długości zmienia przydziały jury liczone w minutach, pułap puli, koszt Akademii i blok galowy - to osobna decyzja, świadomie odłożona.
+
+**Zmienione dokumenty:** `regulamin-filmu.md` (§ 3a wraz z nowym ust. 1a, § 4 ust. 1 lit. a w trzech podpunktach, weryfikacja formalna, § 10 ust. 1a o wpisie przy trybie niepublicznym, § 11a ust. 2 i nowy 2a), `plebiscyt-filmu.md`, `oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji.md`, `oferta-dla-partnera-streamingowego.md`, `oferta-dla-partnera-dystrybucji-filmow.md`, `jury-w-plebiscycie-filmu-o-ai.md`, `regulaminy.md`, `formularze-zgloszeniowe.md`.
+
+**Do zrobienia przy prawniku:** zakres licencji z § 12 przy trybie niepublicznym - dziś lit. a obejmuje prezentację wpisu wraz z linkiem, a przy linku niepublicznym link nie jest prezentowany; oraz pytanie, czy publiczny zwiastun nie wyczerpuje premiery w rozumieniu regulaminów festiwali, bo to ryzyko zostaje po stronie uczestnika i mówimy o nim na stronie plebiscytu.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

@@ -28,7 +28,7 @@ Zależy nam na tym, aby Nagroda Konstela zapisała się na stałe w kalendarzu w
 
 ### Co można zgłosić
 
-**Film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana, trwający **od 20 do 90 minut**. Film ma powstać na potrzeby tego plebiscytu i zostać ukończony w 2027 roku. Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy. Nie narzucamy szczegółowego tematu ani stanowiska wobec AI.
+**Film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana, trwający **od 20 do 90 minut**. Film ma zostać ukończony w 2027 roku i mieć premierę przy tej edycji - wcześniej nigdzie publicznie niepokazany - a nie musi powstać na potrzeby plebiscytu. Zgłoszenie składa jedna osoba reprezentująca cały skład twórczy. Nie narzucamy szczegółowego tematu ani stanowiska wobec AI.
 
 ### Jakie filmy będziesz oceniać: zakres użycia AI
 

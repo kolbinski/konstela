@@ -10,7 +10,7 @@ Wszystkie cztery dokumenty czekają jeszcze na przegląd prawny, więc część 
 Nagroda główna i dziesiątka Antologii. Zgłoszeniem jest link do rozmowy, oceniane są pytania, a nie odpowiedzi. Zawiera kartę oceny jako załącznik oraz zasady Czytelni i Archiwum.
 
 **[Regulamin plebiscytu na film o sztucznej inteligencji](/dokument/regulamin-filmu)**
-Film od 20 do 90 minut, stworzony od zera na potrzeby plebiscytu. Jedyny regulamin bez zakazu użycia narzędzi sztucznej inteligencji – z obowiązkiem deklaracji, co zrobiły.
+Film od 20 do 90 minut, ukończony w roku edycji i wcześniej niepokazany publicznie. Jedyny regulamin bez zakazu użycia narzędzi sztucznej inteligencji – z obowiązkiem deklaracji, co zrobiły.
 
 **[Regulamin plebiscytu na piosenkę o sztucznej inteligencji](/dokument/regulamin-piosenki)**
 Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać z AI, byle powiedzieć jak. Zawiera zasady nagrań studyjnych dziesiątki finalistów.

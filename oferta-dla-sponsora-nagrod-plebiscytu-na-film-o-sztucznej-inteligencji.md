@@ -8,7 +8,7 @@
 
 **Kosztuje to 332 773,92 zł netto** (409 311,92 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
-Zgłoszony film ma powstać na potrzeby tego plebiscytu i trwać od 20 do 90 minut, a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**.
+Zgłoszony film ma trwać od 20 do 90 minut, mieć u nas premierę - być ukończony w roku edycji i wcześniej nigdzie publicznie niepokazany - a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**.
 
 Piszemy „ma być", a nie „jest", świadomie: tego, że powstaną filmy, które bez tego plebiscytu by nie powstały, nikt dziś nie może obiecać, bo zależy to od decyzji twórców, a nie od Organizatora.
 
@@ -38,7 +38,7 @@ Pierwsza edycja obejmuje filmy ukończone w 2027 roku, nabór zamyka się 30 lis
 
 - **Film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana.
 - **Od 20 do 90 minut.** Czas trwania nie podlega ocenie; film dwudziestominutowy i dziewięćdziesięciominutowy oceniane są tą samą kartą.
-- **Film powstaje na potrzeby tego plebiscytu** i zostaje ukończony w 2027 roku. Przeróbka filmu ukończonego wcześniej jest wykluczona.
+- **Film ma u nas premierę**: zostaje ukończony w 2027 roku i nie może być wcześniej udostępniony ani pokazany publicznie. Nie musi natomiast powstać na potrzeby plebiscytu - dyplom czy własny projekt wchodzą tak samo. Przeróbka filmu ukończonego wcześniej jest wykluczona.
 - **Zgłasza się dwa linki**: do filmu publicznie dostępnego na kanale autora w YouTube oraz do zwiastuna tego filmu, od 60 do 120 sekund.
 - **Jedno zgłoszenie na osobę**, składane przez jedną osobę reprezentującą cały skład twórczy, od 16 lat.
 
@@ -104,7 +104,7 @@ Poza nagrodami rola obejmuje **prowadzenie plebiscytu przez cały rok naboru**:
 
 ### Dlaczego nagroda główna wynosi 100 000 zł
 
-Nie wzięło się to z ambicji, tylko z rachunku kosztu po stronie uczestnika. **To najdroższy z czterech plebiscytów dla osoby, która się zgłasza**: film ma powstać na potrzeby plebiscytu, trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Nagroda ma dawać **realną szansę odzyskania kosztów produkcji** - i tyle da się o niej powiedzieć uczciwie. **Nie twierdzimy, że ta kwota uruchomi produkcje, a niższa nie uruchomiłaby żadnej**: danych o tym nie mamy, a w innym miejscu tej oferty piszemy wprost, że powstanie filmów jest najbardziej niepewnym założeniem całego przedsięwzięcia. Dwa zdania obok siebie: wysokość nagrody wynika z rachunku kosztu po stronie uczestnika, a jej **skutek dla decyzji produkcyjnych pozostaje niesprawdzony**.
+Nie wzięło się to z ambicji, tylko z rachunku kosztu po stronie uczestnika. **To najdroższy z czterech plebiscytów dla osoby, która się zgłasza**: film ma trwać co najmniej 20 minut i mieć u nas premierę, a Organizator nie finansuje produkcji. Nagroda ma dawać **realną szansę odzyskania kosztów produkcji** - i tyle da się o niej powiedzieć uczciwie. **Nie twierdzimy, że ta kwota uruchomi produkcje, a niższa nie uruchomiłaby żadnej**: danych o tym nie mamy, a w innym miejscu tej oferty piszemy wprost, że powstanie filmów jest najbardziej niepewnym założeniem całego przedsięwzięcia. Dwa zdania obok siebie: wysokość nagrody wynika z rachunku kosztu po stronie uczestnika, a jej **skutek dla decyzji produkcyjnych pozostaje niesprawdzony**.
 
 **Rzecz, którą trzeba policzyć razem z tą kwotą: szansę wygranej.** Przy dwudziestu równorzędnych zgłoszeniach przeciętna wartość udziału w puli 180 000 zł wynosi 9 000 zł na film, przy pięćdziesięciu - 3 600 zł. **To nie prognoza szans konkretnego autora, lecz ilustracja mechanizmu**: nagroda główna nie zastępuje finansowania produkcji i nie powinna być tak przedstawiana nikomu - ani Fundatorowi, ani twórcom.
 
@@ -114,7 +114,7 @@ Dlatego podział puli jest tu inny niż w plebiscycie na rozmowę: **czołowa tr
 
 Powód tej różnicy nie leży w ambicji, tylko w konstrukcji. **Festiwal nagradza film, który już istnieje i został za coś nakręcony** - najczęściej za dotację Polskiego Instytutu Sztuki Filmowej, za pieniądze szkoły filmowej, telewizji albo producenta. Nagroda festiwalowa jest premią do produkcji, która i tak została sfinansowana.
 
-**Tutaj jest odwrotnie: film ma dopiero powstać, na potrzeby plebiscytu, a Organizator nie daje na produkcję ani złotówki.** Jedynymi pieniędzmi w całym równaniu są nagrody, i to one muszą unieść rok pracy, sprzęt, ekipę i ryzyko, że grupa finałowa się nie uda. Nagroda na poziomie dwudziestu tysięcy nie przesunęłaby niczyjej decyzji o wejściu w taki projekt; stu tysięcy - przesuwa.
+**Tutaj jest odwrotnie: film ma dopiero mieć premierę, a Organizator nie daje na produkcję ani złotówki.** Jedynymi pieniędzmi w całym równaniu są nagrody, i to one muszą unieść rok pracy, sprzęt, ekipę i ryzyko, że grupa finałowa się nie uda. Nagroda na poziomie dwudziestu tysięcy nie przesunęłaby niczyjej decyzji o wejściu w taki projekt; stu tysięcy - przesuwa.
 
 To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć równych części. Dziesięć razy po osiemnaście tysięcy daje dziesięciu zadowolonych finalistów i zero filmów, które ktoś by dla tej nagrody zrobił.
 

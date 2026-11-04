@@ -4,7 +4,7 @@
 
 ## <!--ikona:tasma-filmowa--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy kina, sieci kin albo dystrybutora, który pokaże publiczności filmy finałowe plebiscytu na film o sztucznej inteligencji.** Fundacja nie szuka tu pieniędzy: szuka sali i widowni dla dziesięciu filmów, które powstały na potrzeby tego plebiscytu i których wcześniej nie było.
+**Szukamy kina, sieci kin albo dystrybutora, który pokaże publiczności filmy finałowe plebiscytu na film o sztucznej inteligencji.** Fundacja nie szuka tu pieniędzy: szuka sali i widowni dla dziesięciu filmów, które miały premierę przy tej edycji.
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -21,7 +21,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia filmó
 
 ## <!--ikona:projektornia--><span>Co to za filmy</span>
 
-Każdy trwa **od 20 do 90 minut** i został **nakręcony na potrzeby plebiscytu**, a nie wybrany spośród istniejących - regulamin zakazuje zgłaszania przeróbek filmów ukończonych wcześniej. Każdy ma jawną punktację Akademii, jury i publiczności oraz autora, który wygrał nim miejsce w dziesiątce. Nagroda główna wynosi 100 000 zł, co ustawia poprzeczkę po stronie zgłoszeń.
+Każdy trwa **od 20 do 90 minut** i **miał premierę przy tej edycji**: regulamin wymaga filmu ukończonego w roku edycji, wcześniej nigdzie publicznie niepokazanego, i zakazuje zgłaszania przeróbek filmów ukończonych wcześniej. Każdy ma jawną punktację Akademii, jury i publiczności oraz autora, który wygrał nim miejsce w dziesiątce. Nagroda główna wynosi 100 000 zł, co ustawia poprzeczkę po stronie zgłoszeń.
 
 Jedno trzeba powiedzieć od razu: **filmy są publicznie dostępne w serwisie YouTube**, bo tego wymaga regulamin. Partner dystrybucji nie dostaje więc premiery ani wyłączności internetowej - dostaje salę, wieczór i zestaw, którego nikt wcześniej nie pokazał razem.
 

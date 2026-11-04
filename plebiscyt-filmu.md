@@ -17,8 +17,8 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - **publiczność ma własną [Nagrodę Publiczności](#nagroda-publicznosci)**, niezależną od werdyktu jury
 - film musi trwać **od 20 do 90 minut**
 - zgłoszenie składa **jedna osoba reprezentująca cały skład twórczy**
-- film ma powstać **na potrzeby tego plebiscytu** i zostać ukończony w 2027 roku, najpóźniej w dniu zgłoszenia
-- zgłaszasz **link do filmu publicznie dostępnego na swoim kanale w YouTube** oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, też publicznie dostępnego
+- film musi zostać **ukończony w 2027 roku**, najpóźniej w dniu zgłoszenia, i **nie może być wcześniej pokazany ani opublikowany publicznie** - nie musi natomiast powstać na potrzeby tego plebiscytu
+- zgłaszasz **link do filmu na swoim kanale w YouTube** - publiczny albo niepubliczny, do wyboru - oraz **link do zwiastuna** tego filmu, od 60 do 120 sekund, zawsze publiczny
 - wszystkie zgłoszenia ogląda **Akademia filmu**, a najwyżej ocenione filmy przechodzą do oceny i werdyktu jury
 - jury wybiera **finalistów, a ilu ich jest, wynika z rachunku**: połowa zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech - bo przy małym naborze wskazanie dziesiątki nie byłoby wyborem
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
@@ -34,7 +34,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 
 **Ta strona służy dziś jednej rzeczy: zbieramy zainteresowanie.** Jeśli [napiszesz do nas](#kontakt), trafisz na listę osób, które dowiedzą się pierwsze, gdy nabór ruszy. Nic to nie kosztuje i do niczego nie zobowiązuje żadnej ze stron; **dziś nie przesyłasz ani pracy, ani danych do zgłoszenia**.
 
-Mówimy o tym z takim wyprzedzeniem dlatego, że film trwający od 20 do 90 minut planuje się wcześniej – a zgłoszony film ma powstać na potrzeby tego plebiscytu.
+Mówimy o tym z takim wyprzedzeniem dlatego, że film trwający od 20 do 90 minut planuje się wcześniej, a zgłoszony film ma mieć u nas swoją premierę.
 
 Jeżeli zgłoszeń spełniających wymogi formalne będzie mniej niż dziesięć, możemy edycji nie rozstrzygnąć – ogłosimy to wtedy wprost, z uzasadnieniem.
 
@@ -60,7 +60,7 @@ Dlatego w naszym plebiscycie nie zawężamy tematu i nie mówimy, czy film ma by
 
 ### Zanim zgłosisz: festiwale
 
-**Film i zwiastun muszą być publicznie dostępne na YouTube** – każdy ma móc je obejrzeć z [Projektorni](#projektornia-i-archiwum), bez opłaty i bez konta. Status niepubliczny nie wystarczy. Powiedzmy wprost, co z tego wynika: **część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie, więc zgłoszenie do nas może zamknąć ci tę drogę** – i nie da się tego potem odwrócić. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są z naszej strony dozwolone, ale **przed zgłoszeniem sprawdź wymagania festiwali, do których planujesz aplikować**. Tego ryzyka nie usuwa żadna nasza zgoda.
+**Zwiastun musi być publicznie dostępny na YouTube, a film – publicznie albo z linku niepublicznego, do Twojego wyboru.** Przy linku publicznym każdy obejrzy film z [Projektorni](#projektornia-i-archiwum), bez opłaty i bez konta, a film bierze udział w głosowaniu publiczności. Przy linku niepublicznym oglądają go wyłącznie Akademia i jury, a film w głosowaniu publiczności nie startuje. **Wybór istnieje dlatego, że część festiwali wymaga premiery albo wcześniejszej niedostępności filmu w internecie** – przy linku niepublicznym ta droga zostaje otwarta. Nasza licencja jest niewyłączna, a równoległe zgłoszenia festiwalowe są z naszej strony dozwolone; **przed zgłoszeniem sprawdź i tak wymagania festiwali, do których planujesz aplikować**, bo publiczny zwiastun również bywa przez nie traktowany jako udostępnienie.
 
 ### Czego nie przyjmujemy
 
@@ -86,7 +86,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 ### Dwa linki: film i zwiastun
 
-**Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Oba materiały muszą być publicznie dostępne: zwiastun odtwarza się przy wpisie w Projektorni i jest pokazywany na gali, a film ma móc obejrzeć każdy, kto wejdzie do Projektorni. Film musi trwać od 20 do 90 minut i być dostępny bez opłaty i bez zakładania konta, a oba linki mają działać do dnia gali w drugiej połowie czerwca 2028 roku. Po zamknięciu naboru pobieramy kopię archiwalną filmu i zwiastuna - nie publikujemy jej i nie odtwarzamy z niej filmu, o czym niżej.
+**Zgłaszasz linki do filmu i jego zwiastuna na YouTube.** Zwiastun jest zawsze publiczny: odtwarza się przy wpisie w Projektorni i jest pokazywany na gali. Film zgłaszasz w trybie publicznym albo niepublicznym – w publicznym obejrzy go każdy, kto wejdzie do Projektorni, w niepublicznym tylko oceniający. Film musi trwać od 20 do 90 minut, a oba linki mają działać do dnia gali w drugiej połowie czerwca 2028 roku. Po zamknięciu naboru pobieramy kopię archiwalną filmu i zwiastuna - nie publikujemy jej i nie odtwarzamy z niej filmu, o czym niżej.
 
 **W zgłoszeniu podajesz również link do zwiastuna filmu.** Zwiastun trwa od 60 do 120 sekund, jest publicznie dostępny na Twoim kanale i zmontowany z materiału zgłoszonego filmu. Zwiastun wykorzystany będzie w trzech miejscach: odtwarza się przy Twoim wpisie w Projektorni przez cały nabór, zostaje przy nim w Archiwum i – jeżeli film trafi do trójki najwyżej ocenionych – jest tym, co widzi sala podczas gali. **Zwiastuna nie oceniamy**: jego poziom realizacyjny nie wpływa na punktację filmu, a jury ocenia film, nie zwiastun.
 
@@ -313,7 +313,9 @@ Trzy najwyżej ocenione filmy pokazujemy na gali **w zwiastunach zgłoszonych pr
 
 <h2 id="czego-od-ciebie-wymagamy-i-dlaczego"><!--ikona:waga--><span>Czego od Ciebie wymagamy i dlaczego</span></h2>
 
-To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film ma powstać na potrzeby tego plebiscytu i trwać co najmniej 20 minut, a Organizator nie finansuje produkcji. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy zrobione wcześniej, dostalibyśmy przegląd tego, co i tak powstało – a chcemy, żeby po tej edycji istniało dziesięć filmów, których bez niej by nie było. Z tego samego powodu nie zamykamy Ci żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
+To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film trwa co najmniej 20 minut, a Organizator nie finansuje produkcji. Wymagamy natomiast **premiery**: film ma być ukończony w roku edycji i wcześniej nigdzie publicznie niepokazany. Powód jest jeden: sztuczna inteligencja weszła w nasze życie kilka lat temu, a w polskim kinie prawie nie widać tej tematyki. Gdybyśmy przyjmowali filmy pokazywane wcześniej, dostalibyśmy przegląd tego, co i tak obejrzano – a chcemy, żeby po tej edycji istniało dziesięć filmów, które publiczność zobaczyła po raz pierwszy u nas. **Nie wymagamy przy tym, żeby film powstał dla nas**: dyplom, film szkolny czy własny projekt wchodzą tak samo, jeżeli nie miały wcześniej premiery. Nie zamykamy Ci też żadnych drzwi: możesz równolegle zgłaszać film gdzie indziej, a po gali dysponujesz nim bez ograniczeń.
+
+**Film możesz zgłosić z linku publicznego albo niepublicznego.** Link publiczny znaczy, że film bierze udział w głosowaniu publiczności i każdy może go obejrzeć w Projektorni. Link niepubliczny oglądają wyłącznie Akademia i jury; w Projektorni zostaje wtedy wpis ze zwiastunem, opisem, uzasadnieniem i punktacją, a film **nie bierze udziału w nagrodzie publiczności**. Ten wybór istnieje dlatego, że część festiwali wymaga premiery i publikacja na YouTube zamknęłaby Ci tę drogę. Zwiastun jest publiczny w obu wariantach.
 
 **Przy mniej niż dziesięciu zgłoszeniach spełniających wymogi możemy nie rozstrzygnąć edycji.** To oznacza, że możesz ponieść koszt produkcji, a nagród nie będzie – z powodu, na który nie masz wpływu. Zapisaliśmy to, bo plebiscyt, w którym finaliści są zarazem całą stawką, nie byłby plebiscytem. Jeśli ta liczba Cię niepokoi, [zapisz się na powiadomienie](#kontakt), a dostaniesz od nas **dwie wiadomości**, każdą w momencie, w którym realnie zmienia się Twoje ryzyko.
 
