@@ -101,7 +101,7 @@ To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 u
 
 **Nagrody i nagrania studyjne idą razem.** Plebiscyt, który wyłania dziesiątkę finalistów, ale nie ma czym opłacić ich sesji, nie kończy się tym, czym ma się kończyć - płytą i nagraniami, które zostają przy autorach. Dlatego te dwie pozycje finansuje ten sam partner i nie oferujemy ich osobno.
 
-**Hymn jest poza tą rolą.** Od 4 listopada 2026 roku ma własny kosztorys i własną ofertę, bo płacenie za niego ze środków plebiscytu obciążało Fundatora pozycją, która służy całej Nagrodzie i rozlicza się niezależnie od wyniku jego plebiscytu. Jeżeli zakres tej roli jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
+**Hymn jest poza tą rolą.** Ma własny kosztorys i własną ofertę, bo służy całej Nagrodzie i rozlicza się niezależnie od wyniku tego plebiscytu - Fundator plebiscytu nie płaci za pozycję, która nie zależy od jego werdyktu. Jeżeli zakres tej roli jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
@@ -130,7 +130,7 @@ To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 u
 
 **Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 280 400 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
-Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa 12%, która je obejmie - razem około 43 680 zł. **Zapas nad tym rachunkiem jest więc niecałe 1 200 zł** i mówimy to wprost: jeżeli honoraria jury wypadną wyżej niż szacunek, limit trzeba będzie podnieść aneksem przed podpisaniem umowy, a nie po cichu w trakcie edycji.
+Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa 12%, która je obejmie - razem około 43 680 zł. **Zapas nad tym rachunkiem jest więc niecałe 1 200 zł** i mówimy to wprost: jeżeli honoraria jury wypadną wyżej niż szacunek, wyższą kwotę trzeba uzgodnić, zanim umowa zostanie podpisana. **Limit wpisany do umowy jest ostateczny** - w trakcie edycji nie podnosimy go ani aneksem, ani w żaden inny sposób, a brakującą część pokrywa Organizator z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu.
 
 **Realizacja części artystycznej gali jest poza tym limitem** i jest uzgadniana osobnym aneksem. Powód mówimy wprost, zamiast wpisywać wygodną liczbę: koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie, i dopóki miejsce gali nie jest wybrane, każda kwota byłaby zgadywaniem. Limit, który obejmowałby tę pozycję, albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. Fundator nie jest przy tym zobowiązany do objęcia tej pozycji: jeżeli jej nie weźmie, część artystyczna szuka osobnego finansowania albo gala odbywa się bez koncertu.
 
@@ -145,7 +145,7 @@ Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honor
 - prowadzenie Słuchalni i Archiwum przez rok naboru i po werdykcie - 25 godz.
 - pobranie, opis i sprawdzenie kopii archiwalnych zgłoszonych utworów - 15 godz.
 
-**Słuchalnia i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat. Kopia nie jest udostępniana publicznie: utwór odtwarza się dalej z serwisu wykonawcy, a kopia służy dokumentacji edycji i ustaleniu, która wersja brała w niej udział. Zmiana weszła 31 października 2026 roku, bo wcześniej trwały rezultat plebiscytu zależałby od tego, czy znajdą się partnerzy pozostałych ról.
+**Słuchalnia i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat. Kopia nie jest udostępniana publicznie: utwór odtwarza się dalej z serwisu wykonawcy, a kopia służy dokumentacji edycji i ustaleniu, która wersja brała w niej udział. Dzięki temu trwały rezultat plebiscytu nie zależy od tego, czy znajdą się partnerzy pozostałych ról.
 
 **3 pozycje czekają na wycenę i zostaną uzgodnione osobno**, a żadna z nich nie jest ukryta w kwocie powyżej:
 
@@ -154,7 +154,7 @@ Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honor
 - **realizacja części artystycznej gali** - do wyceny, bo zależy od miejsca gali: nagłośnienie, backline i próby znaczą co innego w sali teatralnej, a co innego w klubie;
 Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się w kwocie powyżej**: dojazd i nocleg 10 finalistów na galę - 8 000 zł. Udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 248 401 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 168 367 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
@@ -279,13 +279,14 @@ Rola nie obejmuje:
 ## <!--ikona:harmonogram--><span>Terminy</span>
 
 <dl class="harmonogram">
+<div><dt>Przed decyzją</dt><dd>Pakiet dokumentów do oceny<small>projekt umowy, kosztorys z wycenionymi honorariami jury, regulamin z kartą oceny i dokumenty rejestrowe fundacji - wykaz jest w sekcji o dokumentach przed zobowiązaniem</small></dd></div>
 <div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
 <div><dt>Przed otwarciem naboru</dt><dd>Ogłoszenie składu jury i Akademii oraz zakresu sesji studyjnej<small>studio, liczba sesji i poprawek, przekazywane materiały i zasady pokrywania kosztów dojazdu; uczestnik ma wiedzieć, co dostaje, zanim się zgłosi</small></dd></div>
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu 5 warunków regulaminowych</small></dd></div>
 <div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>finansowana osobną rolą Fundatora hymnu; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
 <div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniana jest wersja dostępna pod linkiem tego dnia</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty 4 plebiscytów, czołowa trójka plebiscytu piosenki wykonuje nagrodzone utwory na żywo, hymn otwiera i zamyka wieczór</small></dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozstrzygnięcia<small>werdykty 4 plebiscytów, werdykt plebiscytu piosenki, a jeżeli część artystyczna zostanie sfinansowana - występ czołowej trójki na żywo; hymn otwiera i zamyka wieczór</small></dd></div>
 <div><dt>Po gali</dt><dd>Nagrania studyjne 10 finalistów<small>rozliczane po sesjach; prawa do nagrań przechodzą na autorów</small></dd></div>
 <div><dt>Do 60 dni po ogłoszeniu wyników</dt><dd>Sprawozdanie dla Fundatora<small>wykonanie budżetu w podziale na pozycje, wykorzystanie rezerwy, lista wypłaconych nagród</small></dd></div>
 </dl>

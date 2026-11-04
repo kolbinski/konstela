@@ -1195,6 +1195,22 @@ Decyzja z tego samego dnia odwrócona: pismo nie prosi już o same nagrania za 7
 
 Rozliczenie opisane w piśmie jest mieszane, bo pozycje są różnej natury: **pula nagród wymaga wpłaty przed otwarciem naboru**, bo regulamin nie pozwala ogłosić puli bez pokrycia na rachunku; **sesje są usługą odbieraną po wykonaniu**; honoraria jury płatne po zakończeniu oceny i dziś niewycenione, co pismo mówi wprost wraz z tym, że limit podnosi się wyłącznie aneksem.
 
+## Pismo i oferta czytane razem: cztery rozbieżności (4.11.2026)
+
+Czwarta tura recenzji pisma do VeloBanku pierwsza czytała **pismo razem z ofertą, do której ono odsyła** - i to zestawienie dało wszystkie zarzuty. Wniosek metodyczny: dokument, który linkuje do innego, recenzuje się w parze, bo odbiorca właśnie tak go czyta, a rozbieżność wychodzi w chwili, w której zaczyna sprawdzać szczegóły.
+
+**Cztery rozbieżności.** Pismo podawało 235 571,04 zł jako komplet, choć honoraria jury nie są wycenione, a umowa ma limit 280 400 zł; eksponowało 35 000 zł nagród, choć bank finansuje 47 000 zł wraz z nagrodami publiczności; obiecywało płytę i występ czołowej trójki na gali, choć oferta uzależnia jedno od osobnego wydawcy, a drugie od sfinansowania części artystycznej. Każda z nich jest prawdziwa i każda poprawiona.
+
+**Dwie wady w samej ofercie, obie z dzisiejszych zmian.** Podstawa rezerwy została po hymnie: 248 401 zł zamiast 168 367 zł. I limit zobowiązania był jednocześnie nieprzekraczalny i podnoszony aneksem - sprzeczność, którą sam wpisałem, żeby przyznać, że zapas nad szacunkiem honorariów jury jest mały. Dziś kwotę uzgadnia się przed podpisaniem, a limit z umowy nie rośnie.
+
+**Argument pisma przebudowany.** Nie „finalistów nie stać na studio" - tego nie wiemy - ale **przejście od dema do nagrania**: do udziału wystarcza czytelne demo, jakość produkcji i zasięgi nie są oceniane, a bank opłaca dziesięciu autorom drogę od jednego do drugiego. To jest zdanie, które mówi, komu i w czym bank pomaga, bez przypisywania uczestnikom ubóstwa i bez obietnicy popularności.
+
+**Zabezpieczenia w pierwszym piśmie trzeba liczyć.** Trzy poprzednie tury dopisywały po jednym; czwarta pokazała, że razem przykryły przedmiot decyzji. Zostały trzy fakty - brak wpisu do KRS, brak wpłat do wpisu, wiązanie wyłącznie podpisaną umową - a rozwinięcia o niewiążącej rozmowie, zawiadomieniu i nieprzesuwaniu sesji wróciły tam, gdzie ich miejsce, czyli do oferty i do umowy.
+
+**Jedna uwaga nieprzyjęta.** Recenzent usunąłby z pisma wzmiankę o hymnie w całości. Zdanie, że hymn nie wchodzi w tę rolę, zostaje - strona oferty wymienia go obok i milczenie o nim robi dokładnie tę rozbieżność, przed którą ostrzega reszta recenzji. Wypadła natomiast zachęta do objęcia obu ról i łączna kwota.
+
+**Luka w archiwum.** Trzy pierwsze tury recenzji tego pisma nie mają plików w `recenzje/`, a pismo nie miało dotąd wiersza w `recenzje-status.md` - wbrew zasadzie z `CLAUDE.md`, która każe aktualizować ten plik w tym samym commicie co poprawki. Wiersz jest, z adnotacją, że tury 1-3 nie zostały zarchiwizowane.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
