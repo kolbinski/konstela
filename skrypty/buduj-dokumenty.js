@@ -208,6 +208,7 @@ const OFERTY = new Set([
   'pismo-tvp-partner-telewizyjny',
   'pismo-tvn-partner-telewizyjny',
   'pismo-polsat-partner-telewizyjny',
+  'pismo-velobank-plebiscyt-piosenki',
 ]);
 
 const PASEK_OFERTY = `<nav class="akcje" aria-label="Zapis i wydruk">
