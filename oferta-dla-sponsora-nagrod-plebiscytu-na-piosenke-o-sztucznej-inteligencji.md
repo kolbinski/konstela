@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, honoraria jury, nagrania studyjne dla 10 finalistów i prowadzenie plebiscytu przez cały rok naboru.** Hymn Nagrody z teledyskiem ma [własną rolę i własny kosztorys](/oferta-dla-fundatora-hymnu-nagrody-konstela); można go objąć dodatkowo, ale nie jest częścią tej oferty.
 
-**Kosztuje to 235 571,04 zł netto** (289 752,38 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Proponowany limit finansowania wynosi 280 400 zł netto** (344 892 zł brutto z VAT 23%). Obecnie wycenione pozycje to 235 571,04 zł netto (289 752,38 zł brutto), a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
@@ -280,7 +280,7 @@ Rola nie obejmuje:
 
 <dl class="harmonogram">
 <div><dt>Przed decyzją</dt><dd>Pakiet dokumentów do oceny<small>projekt umowy, kosztorys z wycenionymi honorariami jury, regulamin z kartą oceny i dokumenty rejestrowe fundacji - wykaz jest w sekcji o dokumentach przed zobowiązaniem</small></dd></div>
-<div><dt>Do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora</small></dd></div>
+<div><dt>Planowo do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora; ostateczny harmonogram uzgadniamy z Fundatorem po przedstawieniu kompletu dokumentów, a jego zmiana może przesunąć otwarcie naboru</small></dd></div>
 <div><dt>Przed otwarciem naboru</dt><dd>Ogłoszenie składu jury i Akademii oraz zakresu sesji studyjnej<small>studio, liczba sesji i poprawek, przekazywane materiały i zasady pokrywania kosztów dojazdu; uczestnik ma wiedzieć, co dostaje, zanim się zgłosi</small></dd></div>
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu 5 warunków regulaminowych</small></dd></div>
 <div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>finansowana osobną rolą Fundatora hymnu; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>

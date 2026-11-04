@@ -4,7 +4,7 @@
 
 Proponuję VeloBankowi **rolę Fundatora nagród w plebiscycie na piosenkę o sztucznej inteligencji** w pierwszej edycji Nagrody Konstela. Finansowanie objęłoby **nagrody pieniężne - 47 000 zł brutto**, w tym 35 000 zł dla czołowej trójki i 12 000 zł w głosowaniu publiczności, **ocenę zgłoszeń wraz z honorariami jury**, **prowadzenie plebiscytu przez cały rok naboru** oraz **dziesięć sesji studyjnych** dla całej dziesiątki finalistów wraz z dokumentacją zdjęciową i filmową tych sesji.
 
-**Dzisiejszy kosztorys tego zakresu to 235 571,04 zł netto, a limit zobowiązania wpisywany do umowy - 280 400 zł netto.** Różnica bierze się z honorariów jury, które nie są jeszcze wycenione; ostateczny kosztorys wraz z nimi przedstawiam przed podpisaniem umowy, a limit z umowy jest ostateczny i w trakcie edycji nie rośnie. Poza limitem jest wyłącznie realizacja części artystycznej gali, bo dopóki miejsce gali nie jest wybrane, każda kwota byłaby zgadywaniem; ta pozycja nie jest obowiązkowa.
+**Proponowany limit finansowania wynosi 280 400 zł netto.** Obecnie wycenione pozycje to 235 571,04 zł netto, a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiam przed podpisaniem umowy, a limit z umowy jest ostateczny i w trakcie edycji nie rośnie. Realizacja koncertu podczas gali wymaga osobnego finansowania i nie jest warunkiem objęcia tej roli.
 
 Pełny opis roli wraz z kosztorysem pozycja po pozycji jest pod adresem https://konstela.org/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji/.
 
@@ -12,7 +12,7 @@ Pełny opis roli wraz z kosztorysem pozycja po pozycji jest pod adresem https://
 
 **Do udziału wystarczy czytelne demo - głos i instrument.** Jakość produkcji i dotychczasowe zasięgi nie są oceniane; ocenie podlega utwór. VeloBank umożliwiłby dziesięciorgu finalistom przejście od takiego zgłoszenia do **profesjonalnego nagrania w studiu - realizacja, miks i mastering w jakości nadającej się do wydania** - a prawa do tych nagrań zostają przy autorach. Nagrania mogą złożyć się na wspólną płytę, ale jej wydanie wymaga osobnego partnera wydawniczego i umów, które autor zawiera z wydawnictwem, nie z nami.
 
-Piszę do Państwa, ponieważ **VeloTalent pokazuje, że bank wspiera rozwój artystów przez finansowanie konkretnych projektów**. Nie twierdzę, że ten plebiscyt mieści się w zasadach tego programu - to Państwa ocena; twierdzę, że rezultat jest tej samej natury i równie policzalny.
+Piszę do Państwa, ponieważ **VeloTalent pokazuje, że bank wspiera rozwój artystów przez finansowanie konkretnych projektów**.
 
 ## Czym jest plebiscyt, którego ta rola dotyczy
 
@@ -20,12 +20,10 @@ Nagroda Konstela to nowa, coroczna nagroda poświęcona współistnieniu ludzi i
 
 Opis plebiscytu: https://konstela.org/plebiscyt-piosenki/. Regulaminy wraz z kartami oceny: https://konstela.org/regulaminy/.
 
-Hymn Nagrody nie wchodzi w tę rolę: ma własny kosztorys i osobną ofertę.
-
 ## Co otrzymuje Fundator
 
 - **Materiały z dziesięciu sesji studyjnych**: dokumentacja zdjęciowa oraz po jednym krótkim filmie z każdej sesji, w wersji pionowej i poziomej, przekazywane w ciągu 30 dni od ostatniej sesji.
-- **Prawo wykorzystania tych materiałów w komunikacji banku**, w tym płatnego promowania własnych postów, w granicach licencji uzgodnionej przed sesjami. Zgody autorów na użycie dźwięku występują o tyle, o ile ich udzielą; jeżeli któryś z nich odmówi, materiał z jego sesji dostarczamy w wersji, która tej zgody nie wymaga, i nazywamy to w raporcie.
+- **Prawo wykorzystania tych materiałów w komunikacji banku**, w tym płatnego promowania własnych postów, w granicach licencji uzgodnionej przed sesjami. Wykorzystanie muzyki w filmach wymaga zgody uprawnionych osób; jeżeli jej nie uzyskamy, przekazujemy film bez fragmentów muzycznych wymagających tej zgody i wskazujemy to w raporcie.
 - **Tytuł Fundatora nagród plebiscytu na piosenkę o sztucznej inteligencji** wraz z oznaczeniem przy finalistach, w opisach nagrań publikowanych przez organizatora, w komunikatach prasowych i w czołówce zapisu wideo z gali, który jest udostępniany bezpłatnie i bezterminowo.
 - **Raport wykonania**: wypłacone nagrody, przeprowadzone sesje, wykorzystanie kwoty w podziale na pozycje oraz dostępne statystyki publikacji.
 

@@ -1211,6 +1211,10 @@ Czwarta tura recenzji pisma do VeloBanku pierwsza czytała **pismo razem z ofert
 
 **Luka w archiwum.** Trzy pierwsze tury recenzji tego pisma nie mają plików w `recenzje/`, a pismo nie miało dotąd wiersza w `recenzje-status.md` - wbrew zasadzie z `CLAUDE.md`, która każe aktualizować ten plik w tym samym commicie co poprawki. Wiersz jest, z adnotacją, że tury 1-3 nie zostały zarchiwizowane.
 
+**Piąta tura zamknęła pismo** - „wyraźnie lepiej", nadaje się do wysłania. Przyjęta także ta uwaga, której poprzednio nie przyjąłem: wzmianka o hymnie wypadła, bo po usunięciu zachęty do objęcia obu ról wprowadzała temat, o który odbiorca nie pytał. Obie rozbieżności z ofertą zamknięte **jednakową formułą kwoty w obu dokumentach** - limit 280 400 zł netto, wycenione pozycje 235 571,04 zł, ostateczny kosztorys przed podpisaniem - oraz opisaniem terminu 31 grudnia 2026 w ofercie jako planowanego. Wniosek, który warto zapamiętać: **kwota podawana w dwóch dokumentach musi być podawana tą samą formułą**, bo inaczej każdy z nich mówi prawdę osobno, a razem mówią dwie różne rzeczy.
+
+**Granica, którą recenzent postawił na koniec**: dalszy wzrost wiarygodności przyniosą potwierdzenia od ludzi i wykonawców - pisemny udział jurora, oferta studia, rejestracja fundacji - a nie kolejne wyjaśnienia w liście. To ta sama granica, którą dała ósma tura pisma do TVP.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
