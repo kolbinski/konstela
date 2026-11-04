@@ -1177,6 +1177,20 @@ Pierwsza wersja pisma proponowała bankowi rolę Fundatora nagród plebiscytu pi
 
 **Jedna prośba na końcu**: dwudziestominutowa rozmowa z osobą odpowiedzialną za mecenat kulturalny. Wypadło zdanie o tym, że odmowa pozwoli mi pójść dalej - przenosiło uwagę z propozycji na moją sytuację.
 
+## Hymn wychodzi z plebiscytu piosenki, mecenas muzyczny do niego wchodzi (4.11.2026)
+
+Rola Mecenasa muzycznego - dziesięć sesji studyjnych za 75 000 zł netto - **przestaje istnieć osobno i wchodzi w rolę Fundatora nagród plebiscytu piosenki**. Powód: ten plebiscyt z założenia kończy się płytą, więc nagrania nie są dodatkiem do nagród, tylko sposobem, w jaki plebiscyt się domyka. Dziesiątka finalistów bez opłaconych sesji nie zostawia po sobie nagrań, a dwie oferty na dwie połowy jednego rezultatu kazały szukać dwóch partnerów do rzeczy, która ma jeden sens. Usunięte: `oferta-dla-mecenasa-muzycznego.md` i jej prompt recenzji wraz z siedemnastoma odnośnikami w listach pozostałych role.
+
+**W drugą stronę wyszedł hymn.** Hymn Nagrody w wersji ludzkiej wraz z teledyskiem to 80 000 zł netto, czyli więcej niż wszystkie dziesięć sesji razem - a nie należy do żadnego plebiscytu: nie startuje w konkursie, nie podlega ocenie, rozlicza się niezależnie od werdyktu i powstaje dla całej Nagrody. Sponsor plebiscytu piosenki płacił więc za pozycję, która nie jest jego. Od dziś hymn ma **własną ofertę** (`oferta-dla-fundatora-hymnu-nagrody-konstela.md`), a oferta plebiscytu piosenki podaje dwie kwoty: **235 571,04 zł netto bez hymnu** albo 325 171,04 zł netto razem z nim. Odjęcie to 80 000 zł wraz z przypadającą na nie rezerwą 12%, czyli 89 600 zł.
+
+**W arkuszu hymn dalej stoi w Budżecie Piosenki.** Wydzielenie go na osobną zakładkę wymagałoby wstawienia wiersza w podsumowaniu zakładki `Wyjaśnienia` i poprawienia piątego testu w `sprawdz-kwoty.js`; odłożone, bo podział na zakładki odpowiada plebiscytom, a nie rolom partnerskim, i rozliczenie po stronie kosztorysu niczego nie wymaga.
+
+## Pismo do VeloBanku prosi o całą rolę (4.11.2026)
+
+Decyzja z tego samego dnia odwrócona: pismo nie prosi już o same nagrania za 75 000 zł, tylko o **całą rolę Fundatora plebiscytu piosenki za 235 571,04 zł netto**. Powód jest ten sam, który scalił obie role - sesje bez puli nagród nie mają skąd wziąć dziesiątki finalistów, więc prośba o jedną połowę zostawiała bankowi rezultat zależny od partnera, którego nie ma. Hymn jest w piśmie wymieniony jako osobna rola z podlinkowaną ofertą i kwotą obu ról razem.
+
+Rozliczenie opisane w piśmie jest mieszane, bo pozycje są różnej natury: **pula nagród wymaga wpłaty przed otwarciem naboru**, bo regulamin nie pozwala ogłosić puli bez pokrycia na rachunku; **sesje są usługą odbieraną po wykonaniu**; honoraria jury płatne po zakończeniu oceny i dziś niewycenione, co pismo mówi wprost wraz z tym, że limit podnosi się wyłącznie aneksem.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

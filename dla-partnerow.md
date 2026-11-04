@@ -50,8 +50,13 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury, sesje studyjne dziesiątki finalistów i hymn z teledyskiem.</p>
+<p>Nagrody dla laureatów, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta. Hymn można objąć razem z tą rolą albo zostawić osobnemu Fundatorowi.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji">Czytaj więcej</a></p>
+</article>
+<article>
+<h3>Fundator hymnu</h3>
+<p>Hymn Nagrody „Zapytaj inaczej" w <strong>wersji ludzkiej wraz z teledyskiem</strong>, skomponowanej i nagranej przez skład jury plebiscytu piosenki. Jedyna pozycja edycji, która nie należy do żadnego plebiscytu: powstaje dla całej Nagrody, ma premierę w czasie naboru i otwiera galę obok wersji wygenerowanej przez sztuczną inteligencję.</p>
+<p class="wiecej"><a href="/oferta-dla-fundatora-hymnu-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Mecenas plebiscytu na plakat o sztucznej inteligencji</h3>
@@ -82,11 +87,6 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <h3>Partner wydawniczy Antologii</h3>
 <p>Wydanie książkowe Antologii: skład, druk nakładu handlowego i wprowadzenie go do dystrybucji przed galą, tak aby książka była w księgarniach bezpośrednio po premierze.</p>
 <p class="wiecej"><a href="/oferta-dla-partnera-wydawniczego-antologii">Czytaj więcej</a></p>
-</article>
-<article>
-<h3>Mecenas muzyczny</h3>
-<p><strong>Sesje studyjne dziesiątki finalistów</strong> plebiscytu na piosenkę: studio, realizacja, miks i mastering. Nagrania powstają niezależnie od tego, czy znajdzie się wydawca płyty.</p>
-<p class="wiecej"><a href="/oferta-dla-mecenasa-muzycznego">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Partner wydawniczy płyty</h3>

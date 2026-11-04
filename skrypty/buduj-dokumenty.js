@@ -165,7 +165,7 @@ const PUBLICZNE = new Set([
   'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji',
   'oferta-dla-partnera-wydawniczego-antologii',
-  'oferta-dla-mecenasa-muzycznego',
+  'oferta-dla-fundatora-hymnu-nagrody-konstela',
   'oferta-dla-partnera-wydawniczego-plyty',
   'oferta-dla-partnera-galerii-sztuki',
   'oferta-dla-partnera-dystrybucji-filmow',
@@ -196,7 +196,7 @@ const OFERTY = new Set([
   'oferta-dla-sponsora-akademii-nagrody-konstela',
   'oferta-dla-sponsora-gali-nagrody-konstela',
   'oferta-dla-partnera-wydawniczego-antologii',
-  'oferta-dla-mecenasa-muzycznego',
+  'oferta-dla-fundatora-hymnu-nagrody-konstela',
   'oferta-dla-partnera-wydawniczego-plyty',
   'oferta-dla-partnera-galerii-sztuki',
   'oferta-dla-partnera-dystrybucji-filmow',
@@ -221,7 +221,7 @@ const PASEK_OFERTY = `<nav class="akcje" aria-label="Zapis i wydruk">
    Strona powstaje wtedy w obu miejscach, a adresem kanonicznym jest krótszy. */
 const DEDYKOWANE = {
   'oferta-dla-partnera-wydawniczego-antologii': 'oferta-dla-partnera-wydawniczego-antologii',
-  'oferta-dla-mecenasa-muzycznego': 'oferta-dla-mecenasa-muzycznego',
+  'oferta-dla-fundatora-hymnu-nagrody-konstela': 'oferta-dla-fundatora-hymnu-nagrody-konstela',
   'oferta-dla-partnera-wydawniczego-plyty': 'oferta-dla-partnera-wydawniczego-plyty',
   'oferta-dla-partnera-galerii-sztuki': 'oferta-dla-partnera-galerii-sztuki',
   'oferta-dla-partnera-dystrybucji-filmow': 'oferta-dla-partnera-dystrybucji-filmow',
@@ -273,8 +273,8 @@ const TYTULY = {
 const OPISY = {
   'oferta-dla-partnera-wydawniczego-antologii':
     'Wydanie książkowe Antologii Nagrody Konstela nakładem własnym wydawcy, na licencji od fundacji: co zawiera tom, na czym polega bezpłatne wydanie elektroniczne i jakie są warunki rozmowy.',
-  'oferta-dla-mecenasa-muzycznego':
-    'Sesje studyjne dziesiątki finalistów plebiscytu na piosenkę o sztucznej inteligencji: 75 000 zł netto, co obejmuje rola i jak zmienia ofertę fundatora nagród tego plebiscytu.',
+  'oferta-dla-fundatora-hymnu-nagrody-konstela':
+    'Hymn Nagrody Konstela w wersji ludzkiej wraz z teledyskiem: 80 000 zł netto, co obejmuje rola, co otrzymuje Fundator i jak ta rola zmniejsza ofertę plebiscytu piosenki.',
   'oferta-dla-partnera-wydawniczego-plyty':
     'Wydanie i dystrybucja płyty z nagraniami dziesiątki finalistów plebiscytu na piosenkę: co dostaje wydawca, co trzeba uzgodnić i od czego ta rola zależy.',
   'oferta-dla-partnera-galerii-sztuki':

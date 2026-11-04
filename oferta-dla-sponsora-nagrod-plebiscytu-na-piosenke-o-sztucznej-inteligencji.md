@@ -4,9 +4,9 @@
 
 ## <!--ikona:nuta--><span>Dla kogo jest ta oferta</span>
 
-**Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, nagrania studyjne dla 10 finalistów oraz hymn Nagrody z teledyskiem.**
+**Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, nagrania studyjne dla 10 finalistów i prowadzenie plebiscytu przez cały rok naboru.** Hymn Nagrody z teledyskiem jest od tej edycji **osobną rolą** i można go objąć razem z plebiscytem albo zostawić innemu partnerowi.
 
-**Kosztuje to 325 171,04 zł netto** (399 960,38 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 235 571,04 zł netto bez hymnu albo 325 171,04 zł netto razem z nim** (289 752,38 zł albo 399 960,38 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
@@ -93,15 +93,17 @@ Trzy rzeczy, które do tej pozycji należą i których nie zmieniamy:
 
 To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 utworów nagranych porządnie, w studiu, na koszt który nie obciąża autorów. **Nie twierdzimy, że bez tej oferty nie nagraliby ich wcale** - nie znamy przyszłych finalistów ani ich możliwości. Twierdzimy to, co jest nasze: że sesja jest zapewniona i opłacona z góry, niezależnie od tego, czy autor mógłby za nią zapłacić sam.
 
-### 3. Hymn Nagrody z teledyskiem - 80 000 zł netto
+### 3. Hymn Nagrody z teledyskiem - pozycja opcjonalna, 80 000 zł netto
 
 [Hymn Nagrody „Zapytaj inaczej"](/hymn) jest osobny od plebiscytu i nie bierze w nim udziału. Powstaje do jednego tekstu w **2 wersjach: muzyce wygenerowanej przez sztuczną inteligencję, którą już słychać na stronie hymnu, oraz nowej kompozycji, którą napiszą i nagrają muzycy** - po to, żeby na gali dało się je usłyszeć obok siebie. Porównanie dotyczy kompozycji, nie wykonania: jurorzy piszą własną muzykę do tego samego tekstu, a nie wykonują melodii z generatora, bo inaczej hymn łamałby zasadę stawianą zgłaszającym. Hymn otwiera i zamyka galę.
 
 **Premiera hymnu wypada w czasie trwania naboru w 2027 roku**, bo hymn jest także zaproszeniem do zgłoszeń. Jedno zastrzeżenie wprost: **otwarcie edycji nie jest od hymnu uzależnione.** Warunków otwarcia naboru jest 5 i hymnu wśród nich nie ma, więc opóźnienie produkcji nie wstrzymuje plebiscytu, a plebiscyt nie wstrzymuje hymnu.
 
-### Fundator może sfinansować tylko część
+### Co daje się rozdzielić, a co nie
 
-Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjne i hymn są trzema osobnymi pozycjami, które dają się objąć pojedynczo albo parami, a przy każdej z nich zakres świadczeń dla Fundatora ustalamy proporcjonalnie do kwoty. **Kwota w tej ofercie dotyczy jednak całości** i to ona jest przedmiotem rozmowy, dopóki nie powiedzą Państwo inaczej. Jeżeli zakres w tej postaci jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
+**Nagrody i nagrania studyjne idą razem.** Plebiscyt, który wyłania dziesiątkę finalistów, ale nie ma czym opłacić ich sesji, nie kończy się tym, czym ma się kończyć - płytą i nagraniami, które zostają przy autorach. Dlatego te dwie pozycje finansuje ten sam partner i nie oferujemy ich osobno.
+
+**Hymn jest pozycją opcjonalną.** Powstaje dla całej Nagrody, nie dla tego plebiscytu, i rozlicza się niezależnie od jego wyniku, więc od tej edycji ma [własną ofertę](/oferta-dla-fundatora-hymnu-nagrody-konstela). Można go objąć razem z plebiscytem - wtedy kwota wynosi 325 171,04 zł netto - albo zostawić innemu partnerowi, a wtedy ta rola kosztuje **235 571,04 zł netto**, bo z kosztorysu znika 80 000 zł wraz z przypadającą na nie rezerwą 12%, czyli 89 600 zł. Jeżeli zakres w tej postaci jest za szeroki, prosimy wskazać, którą jego część widzą Państwo u siebie.
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
@@ -347,7 +349,6 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
 - **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
-- **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę. **Te same sesje są pozycją w tabeli powyżej, dlatego obowiązuje reguła pomniejszenia**: jeżeli studio zapewni nagrania rzeczowo, kwota Fundatora **maleje o faktyczną wartość zapewnionych sesji**, a świadczenia przy nagraniach - oznaczenie, materiały, pierwszeństwo przy kolejnej edycji - dzielą się między obie role według wkładu. Fundator nie płaci dwa razy za tę samą rzecz i nie traci za nią świadczeń w całości
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów
 - **[Partner dystrybucji filmów](/oferta-dla-partnera-dystrybucji-filmow)** - sala i publiczność dla pokazów filmów finałowych

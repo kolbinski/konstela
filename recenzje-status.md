@@ -52,7 +52,7 @@ Mają gotowy prompt, nie mają jeszcze recenzji:
 
 - **gala** - dyrektor komunikacji firmy sponsorującej wydarzenia
 - **galeria sztuki** - dyrektor galerii sztuki współczesnej
-- **mecenas muzyczny** - właściciel studia nagraniowego
+- **fundator hymnu** - właściciel studia nagraniowego
 - **wydawca Antologii** - redaktor naczelny oficyny
 - **wydawca płyty** - dyrektor wydawniczy wytwórni
 - **dystrybucja filmów** - kierownik programowy sieci kin studyjnych

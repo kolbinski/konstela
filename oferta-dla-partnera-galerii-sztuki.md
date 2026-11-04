@@ -80,7 +80,6 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
 - **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
-- **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
 - **[Partner wydawniczy płyty](/oferta-dla-partnera-wydawniczego-plyty)** - wydanie i dystrybucja płyty z tymi nagraniami
 - **[Partner dystrybucji filmów](/oferta-dla-partnera-dystrybucji-filmow)** - sala i publiczność dla pokazów filmów finałowych
 - **[Partner streamingowy](/oferta-dla-partnera-streamingowego)** - emisja filmów finałowych po pokazach

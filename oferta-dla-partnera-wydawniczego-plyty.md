@@ -21,7 +21,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 
 ## <!--ikona:nuta--><span>Co dostaje wydawca</span>
 
-**Dziesięć utworów nagranych w studiu**, zrealizowanych, zmiksowanych i zmasterowanych - sesje finansuje [mecenas muzyczny](/oferta-dla-mecenasa-muzycznego), a w kosztorysie stoją na 75 000 zł netto. Do tego historia, której płyta zwykle nie ma: każdy utwór pochodzi z ogólnopolskiego plebiscytu, ma jawną punktację jury i publiczności oraz autora, który wygrał nim miejsce w dziesiątce.
+**Dziesięć utworów nagranych w studiu**, zrealizowanych, zmiksowanych i zmasterowanych - sesje finansuje [Fundator nagród plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji), a w kosztorysie stoją na 75 000 zł netto. Do tego historia, której płyta zwykle nie ma: każdy utwór pochodzi z ogólnopolskiego plebiscytu, ma jawną punktację jury i publiczności oraz autora, który wygrał nim miejsce w dziesiątce.
 
 Premiera naturalnie wiąże się z galą rozstrzygnięcia w drugiej połowie czerwca 2028, na której czołowa trójka plebiscytu występuje na żywo, a wieczór jest rejestrowany i udostępniany bezpłatnie.
 
@@ -41,14 +41,14 @@ Tytuł **Partnera wydawniczego płyty pierwszej edycji** na stronie Nagrody i st
 
 ## <!--ikona:tarcza--><span>Warunek wstępny</span>
 
-Ta rola ma sens dopiero wtedy, gdy nagrania powstaną, a te zależą od [mecenasa muzycznego](/oferta-dla-mecenasa-muzycznego) albo od fundatora nagród plebiscytu, w którego ofercie sesje dziś stoją. Rozmowę można prowadzić równolegle, ale umowa wydawnicza po naszej stronie ma sens dopiero po werdykcie jury, czyli po lutym 2028.
+Ta rola ma sens dopiero wtedy, gdy nagrania powstaną, a te zależą od [fundatora nagród plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji), w którego ofercie sesje stoją jako jedna z pozycji. Rozmowę można prowadzić równolegle, ale umowa wydawnicza po naszej stronie ma sens dopiero po werdykcie jury, czyli po lutym 2028.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli nagrania nie powstaną</span>
 
 Płyta stoi na dwóch rzeczach, które muszą się zdarzyć wcześniej, i żadna nie zależy od wydawcy:
 
 1. **edycja zostaje rozstrzygnięta** - regulamin pozwala Organizatorowi nie rozstrzygnąć jej przy mniej niż dziesięciu zgłoszeniach spełniających wymogi formalne albo gdy żadne nie uzyska 50 punktów;
-2. **sesje studyjne mają finansowanie** - dziś jest to pozycja w ofercie fundatora nagród plebiscytu piosenki albo osobna rola [mecenasa muzycznego](/oferta-dla-mecenasa-muzycznego), która nie jest obsadzona.
+2. **sesje studyjne mają finansowanie** - jest to pozycja w [ofercie fundatora nagród plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji), która nie jest obsadzona.
 
 Jeżeli którakolwiek z tych rzeczy nie zdarzy się, materiału po prostu nie ma i rozmowa o płycie wygasa bez skutków po stronie wydawcy. Dlatego nie proponujemy umowy wydawniczej przed werdyktem jury.
 
@@ -78,7 +78,6 @@ Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do o
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
 - **[Partner wydawniczy Antologii](/oferta-dla-partnera-wydawniczego-antologii)** - wydanie książkowe nakładem własnym, na licencji od fundacji
-- **[Mecenas muzyczny](/oferta-dla-mecenasa-muzycznego)** - sesje studyjne dziesiątki finalistów plebiscytu na piosenkę
 - **[Partner galerii sztuki](/oferta-dla-partnera-galerii-sztuki)** - wystawa plakatów finałowych po gali, wraz z cichą licytacją oryginałów
 - **[Partner dystrybucji filmów](/oferta-dla-partnera-dystrybucji-filmow)** - sala i publiczność dla pokazów filmów finałowych
 - **[Partner streamingowy](/oferta-dla-partnera-streamingowego)** - emisja filmów finałowych po pokazach
