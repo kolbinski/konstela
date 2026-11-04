@@ -131,7 +131,7 @@ Rozmawiamy o takim podziale i uważamy to za normalne. Nagrody, nagrania studyjn
 
 **Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 370 000 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
-Limit zostawia nad dzisiejszym kosztorysem niecałe 58 000 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa, która je obejmie.
+Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa 12%, która je obejmie - razem około 43 680 zł. **Zapas nad tym rachunkiem jest więc niecałe 1 200 zł** i mówimy to wprost: jeżeli honoraria jury wypadną wyżej niż szacunek, limit trzeba będzie podnieść aneksem przed podpisaniem umowy, a nie po cichu w trakcie edycji.
 
 **Realizacja części artystycznej gali stoi poza tym limitem** i jest uzgadniana osobnym aneksem. Powód mówimy wprost, zamiast wpisywać wygodną liczbę: koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie, i dopóki miejsce gali nie jest wybrane, każda kwota byłaby zgadywaniem. Limit, który obejmowałby tę pozycję, albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. Fundator nie jest przy tym zobowiązany do objęcia tej pozycji: jeżeli jej nie weźmie, część artystyczna szuka osobnego finansowania albo gala odbywa się bez koncertu.
 
@@ -167,7 +167,7 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 Pozostałe pozycje rozliczane są po wykonaniu:
 
-- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 88 908,12 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
+- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 88 904,04 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
 - **nagrania studyjne rozliczane są po sesjach**, sesja po sesji, po fakturach studia;
 - **hymn z teledyskiem rozliczany jest po premierze.**
 
@@ -175,7 +175,7 @@ Faktura wychodzi osobno do każdego etapu.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
-Regulamin wymienia 3 warunki, które muszą być spełnione łącznie, żeby nabór się otworzył: cała ogłaszana pula ma pokrycie w środkach na rachunku Organizatora, co najmniej 3 osoby potwierdziły udział w jury i skład został ogłoszony, a regulamin przeszedł konsultację prawną.
+Regulamin wymienia 5 warunków, które muszą być spełnione łącznie, żeby nabór się otworzył: cała ogłaszana pula ma pokrycie w środkach, które wpłynęły na rachunek Organizatora; co najmniej 3 osoby potwierdziły udział w jury i skład został ogłoszony; regulamin przeszedł konsultację prawną, a klauzula informacyjna jest kompletna; pierwsza runda oceny ma zapewnione finansowanie; obsługa zgłoszeń ma zabezpieczonych ludzi i narzędzia.
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Fundatora** albo, według jego wyboru, przechodzi na kolejną edycję.
 
