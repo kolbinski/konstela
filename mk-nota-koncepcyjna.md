@@ -510,7 +510,7 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 
 ### Pierwsze przejście oceny
 
-**Pierwsze przejście oceny prowadzi Akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji.** Wynika to z arytmetyki: film do 90 minut, mnożony przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, daje pracę, której kilkuosobowe jury nie wykona. Koszt ten rośnie wprost z naborem i jest w budżecie wyodrębniony razem z pierwszą rundą oceny rozmów, u tego samego sponsora Akademii.
+**Pierwsze przejście oceny prowadzi Akademia filmu, powoływana - tak jak akademie pozostałych plebiscytów - w każdej edycji.** Wynika to z arytmetyki: film do 90 minut, mnożony przez liczbę zgłoszeń i przez dwa niezależne obejrzenia, daje pracę, której kilkuosobowe jury nie wykona. Koszt ten rośnie wprost z naborem i jest wyodrębniony w budżecie tego plebiscytu, u jego fundatora - tak samo jak pierwsze przejście oceny w pozostałych trzech plebiscytach.
 
 **Praca jury jest ograniczona co do rozmiaru, żeby dała się wycenić.** Akademia filmu przekazuje jury nie więcej niż dwadzieścia filmów, wyłonionych według zasad ogłoszonych przed otwarciem naboru. Dwadzieścia filmów po najwyżej 90 minut to 30 godzin oglądania; bez takiego limitu honorarium jury byłoby funkcją liczby zgłoszeń, a więc niemożliwe do przedstawienia w kosztorysie.
 

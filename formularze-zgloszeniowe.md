@@ -45,7 +45,8 @@ Odrębności: wiek od 16 lat, a przy osobie poniżej 18 lat zgoda opiekuna rozbi
 
 | Pole | Status |
 |---|---|
-| Link do filmu opublikowanego przez Uczestnika w serwisie wideo | obowiązkowe |
+| Link do filmu opublikowanego przez Uczestnika w serwisie wideo, w trybie publicznym albo niepublicznym | obowiązkowe |
+| Link do zwiastuna filmu, od 60 do 120 sekund, zawsze publiczny | obowiązkowe |
 | Czas trwania | obowiązkowe |
 | Data ukończenia filmu | obowiązkowe |
 | Miniatura: JPG albo PNG, 16:9, dłuższy bok 1280-3840 px, do 5 MB | obowiązkowe |
@@ -54,7 +55,7 @@ Odrębności: wiek od 16 lat, a przy osobie poniżej 18 lat zgoda opiekuna rozbi
 | Nazwa składu twórczego | nieobowiązkowe |
 | Zgoda przedstawiciela ustawowego przy osobie poniżej 18 lat | warunkowe |
 
-Odrębności: wiek od 16 lat. Film ma mieć premierę przy tej edycji, więc data ukończenia oraz oświadczenie o braku wcześniejszego publicznego pokazu są polami rozstrzygającymi, a nie informacyjnymi. Formularz zawiera też wybór trybu linku: publiczny albo niepubliczny. Organizator nie przechowuje kopii filmu.
+Odrębności: wiek od 16 lat. Film ma mieć premierę przy tej edycji, więc data ukończenia oraz oświadczenie o braku wcześniejszego publicznego pokazu są polami rozstrzygającymi, a nie informacyjnymi. Formularz zawiera też wybór trybu linku: publiczny albo niepubliczny. Organizator przechowuje kopię archiwalną filmu i zwiastuna przez pięć lat, bez publicznego udostępniania (§ 12 ust. 2 lit. a1 regulaminu filmu).
 
 ### Piosenka o sztucznej inteligencji (§ 5 regulaminu piosenki)
 

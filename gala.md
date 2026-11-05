@@ -10,7 +10,7 @@ Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 
 - **Trzy najwyżej ocenione utwory plebiscytu wykonywane na żywo**, nie wszystkie zgłoszenia ([plebiscyt-ustalenia](/dokument/plebiscyt-ustalenia), [reequest-ustalenia](/dokument/reequest-ustalenia) punkt 5).
 - **Hymn „Zapytaj inaczej" dwa razy: na rozpoczęcie i na zakończenie.** *Wariant roboczy przyjęty do wyceny: nagranie powstaje u zaproszonych wykonawców, a na gali utwór wykonuje skład jury. Obsada nie jest rozstrzygnięta (stan na 27.10.2026) i publicznie jej nie zapowiadamy.* Otwarcie jest hookiem dla widzów - gala zaczyna się muzyką, nie przemówieniem. Finał to powtórzenie hymnu z wszystkimi nagrodzonymi na scenie.
-- **Zwiastuny trzech najwyżej ocenionych filmów** (§ 14 ust. 2 regulaminu filmu) - tych samych, które otrzymują nagrody pieniężne; zwiastuny zgłoszone przez autorów, po 60-120 sekund, a pełne filmy idą na pokaz kuratorski po gali.
+- **Zwiastuny trzech najwyżej ocenionych filmów** (§ 10 ust. 2 regulaminu filmu) - tych samych, które otrzymują nagrody pieniężne; zwiastuny zgłoszone przez autorów, po 60-120 sekund, a pełne filmy idą na pokaz kuratorski po gali.
 - **Dialog czytany:** finalista Nagrody czyta własne pytania, odpowiedzi sztucznej inteligencji czyta aktor.
 - **Wręczenia:** nagroda główna, nagrody za drugie i trzecie miejsce oraz siedem wyróżnień; medal dla laureata, dyplomy dla całej dziesiątki.
 - **Nagroda Uczniowska** - odrębny werdykt Uczniowskiej Akademii, niezależny od werdyktu jury.

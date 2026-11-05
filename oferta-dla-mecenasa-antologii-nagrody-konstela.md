@@ -13,7 +13,7 @@
 
 Propozycja jest adresowana do firmy, fundacji korporacyjnej albo instytucji, która chce, żeby jej nazwa została w książce, a nie w relacji z jednego wieczoru.
 
-Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **[Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** finansuje pulę nagród i pracę jury, **sponsor Akademii** - pierwszą rundę oceny we wszystkich plebiscytach, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie i Archiwum. Partnerów jest w sumie dziewięciu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
+Pierwszą edycję finansuje kilku partnerów, z których każdy bierze na siebie nazwaną rzecz. **[Fundator nagrody](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** finansuje pulę nagród, pierwszą rundę oceny i pracę jury swojego plebiscytu, **sponsor gali** - salę i obsługę wieczoru rozstrzygnięcia, a **Mecenas Antologii** to, co po edycji zostaje: wydanie i Archiwum. Partnerów jest w sumie dziewięciu, po jednym na każdy budżet. Role są rozdzielne, nie konkurują o to samo miejsce i można je objąć niezależnie. Pozostałe zakresy współpracy przy pierwszej edycji opisuje strona [Dla partnerów](/dla-partnerow).
 
 ## <!--ikona:medal--><span>Czym jest Nagroda Konstela</span>
 
@@ -261,7 +261,7 @@ Nazwa nagrody nie podlega zmianie ani rozszerzeniu o nazwę Mecenasa. Mecenas ni
 
 Mecenas nie nabywa praw do oprogramowania. Powstaje ono na rzecz fundacji-organizatora, która te prawa nabywa i odpowiada za jego utrzymanie w kolejnych edycjach; Mecenas nie ponosi kosztów utrzymania po pierwszej edycji.
 
-Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundatora nagrody; pierwsza runda oceny przez sponsora Akademii, a gala wraz z oprawą przez sponsora gali.
+Honoraria jury i pula nagród są finansowane poza tą propozycją, przez fundatora nagrody; pierwsza runda oceny również przez fundatora nagród danego plebiscytu, a gala wraz z oprawą przez sponsora gali.
 
 ## <!--ikona:harmonogram--><span>Terminy</span>
 

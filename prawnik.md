@@ -111,7 +111,7 @@ Osobne pytanie z tej samej rozmowy, dotyczące już nie Akademii, lecz sponsora:
    - Czy nie jest to postanowienie niedozwolone w rozumieniu art. 385(1) KC przez to, że o najcięższym skutku rozstrzyga organ o słabszej pozycji niż ten wskazany jako podstawowy - i czy wystarczającym zabezpieczeniem jest pozostawienie przy jury decyzji dotyczących zgłoszeń będących w rundzie drugiej.
    - Czy zbiorcze rozpoznanie spraw dotyczących tej samej kwestii, z osobnym zawiadomieniem każdego Uczestnika, spełnia wymóg indywidualnego rozpoznania sprawy.
 
-## G. Sponsor Akademii i vouchery dla oceniających
+## G. Vouchery dla oceniających w Akademii
 
 Pierwsza runda oceny należy do roli fundatora każdego plebiscytu, ale rozważamy, by część jej kosztu - pracę czytelników Akademii - fundator mógł pokryć **świadczeniem rzeczowym**, na przykład we współpracy z siecią handlową: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet Akademii](/arkusz/budzet-edycji-pierwszej#budzet-Akademii).
 

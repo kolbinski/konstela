@@ -39,7 +39,7 @@ Pierwsza edycja obejmuje filmy ukończone w 2027 roku, nabór zamyka się 30 lis
 - **Film o sztucznej inteligencji i jej roli w świecie**: fabularny, dokumentalny, esej filmowy, animacja albo forma mieszana.
 - **Od 20 do 90 minut.** Czas trwania nie podlega ocenie; film dwudziestominutowy i dziewięćdziesięciominutowy oceniane są tą samą kartą.
 - **Film ma u nas premierę**: zostaje ukończony w 2027 roku i nie może być wcześniej udostępniony ani pokazany publicznie. Nie musi natomiast powstać na potrzeby plebiscytu - dyplom czy własny projekt wchodzą tak samo. Przeróbka filmu ukończonego wcześniej jest wykluczona.
-- **Zgłasza się dwa linki**: do filmu publicznie dostępnego na kanale autora w YouTube oraz do zwiastuna tego filmu, od 60 do 120 sekund.
+- **Zgłasza się dwa linki**: do filmu na kanale autora w YouTube oraz do jego zwiastuna, od 60 do 120 sekund. **Zwiastun jest zawsze publiczny, a film w jednym z dwóch trybów do wyboru autora**: publicznym - wtedy film widać w Projektorni i bierze udział w głosowaniu publiczności - albo niepublicznym, gdy premiera festiwalowa tego wymaga; wtedy film oglądają wyłącznie Akademia i jury, a w głosowaniu publiczności nie startuje. Tryb niepubliczny nie wpływa na ocenę jury ani na prawo do nagrody.
 - **Jedno zgłoszenie na osobę**, składane przez jedną osobę reprezentującą cały skład twórczy, od 16 lat.
 
 Nie zawężamy tematu i nie mówimy, czy film ma być pochwałą AI, czy ostrzeżeniem przed nią. Nie finansujemy produkcji i nie oceniamy budżetu - oceniamy film, a nie sprzęt, którym go zrobiono. Pełne zasady opisuje [strona plebiscytu](/plebiscyt-filmu) i [regulamin](/dokument/regulamin-filmu).
