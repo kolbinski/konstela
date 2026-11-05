@@ -48,7 +48,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2b. **Odrębność plebiscytów.** Nierozstrzygnięcie plebiscytu na najlepszą rozmowę ze sztuczną inteligencją **nie powoduje nierozstrzygnięcia niniejszego plebiscytu**; jego wyniki ogłasza się wtedy na zasadach z ust. 3.
 
-3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 31 sierpnia 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy – zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą – wykonanie utworu na żywo, czytanie sceniczne, wystawa towarzysząca – nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne.
+3. **Data graniczna.** Jeżeli gali nie da się przeprowadzić **do 31 sierpnia 2028 roku**, Organizator **ogłasza wyniki publicznie na stronie Nagrody** i wykonuje wszystkie nagrody bez gali. **Dzień takiego ogłoszenia zastępuje dzień gali** wszędzie tam, gdzie regulamin liczy od niego terminy – zamknięcia głosowania, wypłaty nagród, obowiązkowej dostępności materiałów, zwrotu oryginałów, usunięcia danych i publikacji uzasadnień; głosowanie zamyka się tego dnia o godzinie 12:00. Ogłoszenie jest publicznym ogłoszeniem werdyktu w rozumieniu § 1a ust. 1, a świadczenia związane wyłącznie z galą – wykonanie utworu na żywo i czytanie sceniczne – nie są wówczas realizowane i nie podlegają zamianie na świadczenie pieniężne. **Wystawa prac finałowych odbywa się także bez gali**, w terminie do trzech miesięcy od dnia ogłoszenia wyników, w miejscu publicznie dostępnym; pokazywane są na niej wydruki wystawowe (§ 10 ust. 1).
 
 4. Zasady z ust. 2 i 3 są jednakowe we wszystkich regulaminach plebiscytów Nagrody.
 
@@ -449,7 +449,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 4a. **Wartość pracy i suma ubezpieczenia.** Przed wysyłką Organizator i autor uzgadniają na piśmie wartość pracy oraz sumę ubezpieczenia. Organizator przekazuje autorowi zakres ochrony, wyłączenia, wysokość udziału własnego oraz procedurę zgłoszenia szkody. **Odmowa wypłaty przez ubezpieczyciela nie wyłącza odpowiedzialności Organizatora wynikającej z przepisów prawa.**
 
-4b. **Harmonogram przy każdej pracy.** Razem z uzgodnieniem okresu Organizator podaje autorowi **daty dla jego pracy**: dzień odbioru i dzień zwrotu. Daty te wiążą Organizatora; ich zmiana wymaga zgody autora wyrażonej na piśmie. Każdy okres, w którym praca pozostaje u Organizatora, ma **własną granicę 75 dni**, liczoną od dnia odebrania pracy od autora.
+4b. **Harmonogram przy każdej pracy.** Razem z uzgodnieniem okresu Organizator podaje autorowi **daty dla jego pracy**: dzień odbioru i dzień zwrotu. Daty te wiążą Organizatora; ich zmiana wymaga zgody autora wyrażonej na piśmie. Okres, w którym praca pozostaje u Organizatora na potrzeby oględzin, ma granicę **75 dni** liczoną od dnia odebrania pracy od autora. Okres na potrzeby wystawy w galerii sztuki ma granicę **150 dni** liczoną w ten sam sposób, bo obejmuje przewóz, przygotowanie ekspozycji, czas trwania wystawy i zwrot; dokładne daty wiążą Organizatora na podstawie uzgodnienia z autorem.
 
 5. **Organizator odpowiada za pracę od chwili jej odebrania od autora przez przewoźnika, któremu Organizator zlecił przewóz, do chwili rzeczywistego powrotu pracy do autora albo wydania jej nabywcy** - nie do chwili nadania przesyłki zwrotnej. Odpowiedzialność obejmuje więc także drogę powrotną i czas przechowywania, a ubezpieczenie zawarte przez Organizatora obejmuje cały ten czas, przy pracy sprzedanej również czas do jej wydania nabywcy.
 
@@ -545,7 +545,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
    b) prezentacja reprodukcji pracy w Archiwum plebiscytu po zakończeniu edycji;
 
-   c) prezentacja wydruku wystawowego pracy na wystawie towarzyszącej gali oraz jego utrwalenie w zapisie wideo gali, a także wykonanie tego wydruku na potrzeby wystawy;
+   c) prezentacja wydruku wystawowego pracy na wystawie towarzyszącej gali, a jeżeli gala się nie odbędzie - na wystawie prac finałowych przeprowadzonej w jej miejsce (§ 1b ust. 3), oraz jego utrwalenie w zapisie wideo gali, a także wykonanie tego wydruku na potrzeby wystawy;
 
    c1) prezentacja oryginału pracy na wystawie w galerii sztuki oraz jej dokumentacja fotograficzna i filmowa. **Zakres ten nie jest warunkiem udziału i obejmuje wyłącznie finalistów, którzy przyjęli propozycję, o której mowa w § 10 ust. 6;**
 

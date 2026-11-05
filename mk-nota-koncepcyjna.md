@@ -463,19 +463,19 @@ Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we 
 
 Liczby zgłoszeń nie prognozuję - jest to pierwsza edycja plebiscytu, którego nikt wcześniej nie prowadził. Żadna z tych pozycji nie jest kwotą ryczałtową wziętą z oszacowania całości.
 
-**Trzy pozycje pozostają bez kwoty i nie jest to przeoczenie.** Wystawa przy gali ma w kosztorysie postać gwarantowaną za 8 000 zł - ekspozycję dziesięciu wydruków z opisem każdej pracy i nazwiskiem autora - a bez kwoty zostaje wyłącznie oprawa bogatsza od tej postaci, bo zależy ona od miejsca gali, które nie jest wybrane; z tego samego powodu niewyceniona jest realizacja części artystycznej gali w [rozdziale 7](#7-plebiscyt-na-piosenke).
+**Dwie pozycje kosztorysu pozostają bez kwoty i nie jest to przeoczenie: honoraria jury za ocenę i za etap przygotowania karty oceny.** Wystawa przy gali ma w kosztorysie postać gwarantowaną za 8 000 zł - ekspozycję dziesięciu wydruków z opisem każdej pracy i podpisem Uczestnika - a poza kosztorysem, bez kwoty, zostaje oprawa bogatsza od tej postaci, bo zależy ona od miejsca gali, które nie jest wybrane; z tego samego powodu niewyceniona jest realizacja części artystycznej gali w [rozdziale 7](#7-plebiscyt-na-piosenke).
 
 Pozostałe dwie to honoraria jury - za ocenę zgłoszeń i za etap przygotowawczy. Pozostawiam je do ustalenia z przewodniczącym składu: przy ocenie rozmów stawka godzinowa jest właściwą miarą, bo mierzy pracę, natomiast przy jurorze, którego udział sam jest wartością dla plebiscytu, iloczyn godzin i stawki nie jest tą miarą i nie chcę go przedstawiać jako kosztorysu. Wycena wszystkich trzech powstanie przed złożeniem jakiegokolwiek wniosku.
 
-### Dwie pozycje są oszacowaniem, nie ofertą
+### Dwie pozycje aneksu galerii są oszacowaniem, nie ofertą
 
-Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu pracach, zastrzegając, że format do 150 cm dłuższego boku przekracza standardowe limity przesyłek i może wymagać transportu dedykowanego. Ubezpieczenie przyjąłem przy sumie deklarowanej rzędu 100 tys. zł dla całej dziesiątki.
+Obie stoją w aneksie Budżetu Plakatu, poza kwotą 235 287,84 zł i poza zakresem pytania, bo finansuje je partner galerii. Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu pracach, zastrzegając, że format do 150 cm dłuższego boku przekracza standardowe limity przesyłek i może wymagać transportu dedykowanego. Ubezpieczenie przyjąłem przy sumie deklarowanej rzędu 100 tys. zł dla całej dziesiątki.
 
 **Dlaczego pula nagród jest tu wyższa niż w plebiscycie na piosenkę.** Jest to różnica świadoma, nie przeoczenie. Zgłoszeniem w plebiscycie na piosenkę jest nagranie demonstracyjne, a jego autor otrzymuje poza nagrodą sfinansowaną przez organizatora sesję studyjną - produkcja nagrań dziesiątki finalistów jest odrębną pozycją kosztorysu z [rozdziału 7](#7-plebiscyt-na-piosenke). Zgłoszeniem w plebiscycie na plakat jest skończona praca, którą trzeba było najpierw namalować, a organizator nie finansuje po plebiscycie niczego, co podniosłoby jej wartość; zwycięska praca trafia natomiast na okładkę Antologii, czyli do wykorzystania, za które w obrocie płaci się honorarium. Nagroda jest więc w tym plebiscycie jedynym świadczeniem po stronie uczestnika i odpowiada tygodniom pracy, a nie zgłoszeniu roboczemu.
 
 ### Czego kosztorys nie obejmuje
 
-Druku Antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: trzydzieści godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 2 000 zł za najlepsze uzasadnienie głosu - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
+Druku Antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: trzydzieści godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 7 392 zł, i mieści się w zakresie pytania; poza nim stoją wyłącznie pozycje aneksu galerii. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 2 000 zł za najlepsze uzasadnienie głosu - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
 
 ## 9. Plebiscyt na film
 

@@ -23,7 +23,7 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia plakat
 
 **Oryginały prac finałowych** plebiscytu na plakat o sztucznej inteligencji, w formacie do 150 cm, wraz z jawną punktacją jury i publiczności. Przy wystawie może się odbyć **cicha licytacja oryginałów**, jeżeli autorzy wyrażą na nią zgodę; jest to osobna zgoda, a nie warunek udziału w plebiscycie.
 
-**Wystawa w galerii jest wyłącznym pokazem oryginałów, a nie powtórzeniem wystawy galowej.** Przy gali pokazujemy **wydruki wystawowe** dziesiątki prac finałowych w rozmiarze oryginału, z opisem i nazwiskiem autora - tę część finansuje [mecenas plebiscytu na plakat](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji). Oryginały na galę nie jadą. Partner galerii dysponuje więc jedyną ekspozycją prac w postaci, w jakiej autorzy je wykonali, i jedyną okazją do ich licytacji.
+**Wystawa w galerii jest wyłącznym pokazem oryginałów, a nie powtórzeniem wystawy galowej.** Przy gali pokazujemy **wydruki wystawowe** dziesiątki prac finałowych w rozmiarze oryginału, z opisem i podpisem Uczestnika - tę część finansuje [mecenas plebiscytu na plakat](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji). Oryginały na galę nie jadą. Partner galerii dysponuje więc jedyną ekspozycją prac w postaci, w jakiej autorzy je wykonali, i jedyną okazją do ich licytacji.
 
 ## <!--ikona:waga--><span>Jak to wygląda w kosztorysie</span>
 

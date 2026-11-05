@@ -78,7 +78,7 @@ Uczestnik, który nie może odebrać wiadomości SMS, ustala z Administratorem i
 
 ## 6. Zgłoszenie plakatu w plebiscycie na plakat
 
-**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy pracy wykonanej wspólnie wraz ze wskazaniem reprezentanta, tytuł pracy, technika, wymiary i rok powstania, reprodukcja pracy, uzasadnienie „dlaczego warte nagrody głównej”, **nagranie z powstawania pracy** oraz oświadczenia regulaminowe. Adres do przesłania i zwrotu oryginału zbieramy wyłącznie od finalisty wezwanego na oględziny oryginału oraz od finalisty, który przyjął propozycję pokazania pracy na wystawie w galerii sztuki – a nie od wszystkich finalistów, bo pozostali oryginału nie przysyłają (rozdział 6). U laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
+**Jakie dane.** Imię i nazwisko albo pseudonim, adres e-mail, numer telefonu komórkowego, skład osobowy przy pracy wykonanej wspólnie wraz ze wskazaniem reprezentanta, tytuł pracy, technika, wymiary i rok powstania, reprodukcja pracy, uzasadnienie „dlaczego warte nagrody głównej”, **nagranie z powstawania pracy** oraz oświadczenia regulaminowe. Adres do przesłania i zwrotu oryginału zbieramy wyłącznie od finalisty wezwanego na oględziny oryginału oraz od finalisty, który przyjął propozycję pokazania pracy na wystawie w galerii sztuki – a nie od wszystkich finalistów, bo pozostali oryginału nie przysyłają (§ 10 ust. 1a regulaminu plebiscytu na plakat). U laureatów dodatkowo dane niezbędne do wypłaty nagrody i jej rozliczenia podatkowego.
 
 ### Nagranie z powstawania pracy
 

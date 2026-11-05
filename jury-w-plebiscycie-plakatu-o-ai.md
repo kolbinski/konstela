@@ -36,7 +36,7 @@ Generatory obrazu zmieniają warunki pracy ilustratorów i projektantów. Plebis
 
 ### Czym jest zgłoszenie
 
-Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnieniem „dlaczego warte nagrody głównej” oraz **nagraniem z pracy nad plakatem, trwającym co najmniej 3 minuty, z widoczną twarzą autora**. Nagranie pomaga potwierdzić sposób wykonania pracy, nie jest publikowane i nie podlega ocenie artystycznej; wątpliwości co do autorstwa rozpatruje organizator. Oryginał jest sprowadzany tylko wtedy, gdy jury zażąda oględzin pracy finałowej.
+Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnieniem „dlaczego warte nagrody głównej” oraz **nagraniem z pracy nad plakatem, trwającym co najmniej 3 minuty, z widoczną twarzą autora**. Nagranie pomaga potwierdzić sposób wykonania pracy, nie jest publikowane i nie podlega ocenie artystycznej; wątpliwości co do autorstwa rozpatruje organizator. Oryginał jest sprowadzany w dwóch sytuacjach: gdy jury zażąda oględzin pracy finałowej oraz gdy dojdzie do wystawy w galerii sztuki po gali.
 
 ### Co dostają finaliści
 
