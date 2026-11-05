@@ -1286,7 +1286,11 @@ Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmi
 
 **Dwie rzeczy widać dopiero w tej tabeli.** Film ma najniższy sufit w całej edycji - siedemdziesiąt dodatkowych filmów wyczerpuje całą jego rezerwę, bo obejrzenie kosztuje 300 zł. Rozmowa jest droga z innego powodu: honorarium czytelnika to ryczałt 2 500 zł przy limicie dwudziestu zgłoszeń na osobę, więc każde dwadzieścia zgłoszeń ponad plan to nowy czytelnik za pełną stawkę, czyli 125 zł za odczyt wobec 50 zł w piosence i 25 zł w plakacie.
 
-**Otwarte: przeliczyć honorarium czytelników rozmów na stawkę za odczyt**, tak jak w pozostałych trzech plebiscytach. Przy tej samej kwocie limit rozmowy podniósłby się bez dokładania pieniędzy, a koszt przestałby rosnąć skokami co dwudzieste zgłoszenie. Zmiana dotyczy kosztorysu rozmowy i karty pracy Akademii, nie regulaminu.
+**Honorarium czytelników rozmów przeliczone na stawkę za odczyt tego samego dnia: 75 zł zamiast ryczałtu 2 500 zł za dwadzieścia odczytów.** Powód wyszedł przy liczeniu limitów: ryczałt oznaczał **250 zł za godzinę**, podczas gdy ocena filmu, piosenki i plakatu wyceniona jest na 150 zł za godzinę. Nikt tej różnicy nigdy nie uzasadnił - wzięła się stąd, że honorarium rozmów powstało pierwsze, przed wyceną pozostałych trzech Akademii.
+
+**Trzy skutki.** Budżet rozmowy spada o 16 800 zł do **662 284,96 zł**, a suma wszystkich budżetów do **2 165 521,54 zł**. Limit zgłoszeń rozmowy rośnie z 300 do **400**, bo koszt krańcowy zgłoszenia spada ze 161,67 zł do 111,67 zł. Koszt przestaje rosnąć skokiem co dwudzieste zgłoszenie: honoraria rozliczają się od liczby odczytów, a liczba czytelników jest wynikiem, nie parametrem.
+
+**Czego to nie zmienia.** Vouchery zostają - są dodatkiem do honorarium, nie jego częścią - a limit dwudziestu zgłoszeń na czytelnika zostaje w regulaminie, bo chroni jakość czytania, a nie budżet.
 
 ## Czego teraz nie ruszać
 
