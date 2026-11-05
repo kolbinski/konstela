@@ -99,7 +99,7 @@ Zgłoszenia przechodzą najpierw przez Akademię - ludzi, którzy odsłuchują z
 
 ### Hymn Nagrody - osobna rola, nie część tej
 
-[Hymn Nagrody „Zapytaj inaczej"](/hymn) w wersji ludzkiej wraz z teledyskiem kosztuje **89 600 zł netto** i ma [własną ofertę](/oferta-dla-fundatora-hymnu-nagrody-konstela) oraz własną zakładkę w arkuszu budżetowym. Powstaje dla całej Nagrody, nie dla tego plebiscytu: nie startuje w konkursie, nie podlega ocenie i rozlicza się niezależnie od werdyktu. **Fundator plebiscytu może objąć także hymn** - wtedy obie role razem kosztują 325 171,04 zł netto - ale nie musi, a brak Fundatora hymnu niczego w tej roli nie zmienia.
+[Hymn Nagrody „Zapytaj inaczej"](/hymn) w wersji ludzkiej wraz z teledyskiem kosztuje **89 600 zł netto** i ma [własną ofertę](/oferta-dla-fundatora-hymnu-nagrody-konstela) oraz własną zakładkę w arkuszu budżetowym. Powstaje dla całej Nagrody, nie dla tego plebiscytu: nie startuje w konkursie, nie podlega ocenie i rozlicza się niezależnie od werdyktu. **Fundator plebiscytu może objąć także hymn**, ale nie musi, a brak Fundatora hymnu niczego w tej roli nie zmienia.
 
 ### Co daje się rozdzielić, a co nie
 
@@ -109,7 +109,7 @@ Zgłoszenia przechodzą najpierw przez Akademię - ludzi, którzy odsłuchują z
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**256 851,04 zł netto** (315 926,78 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**Proponowany limit finansowania: 301 680 zł netto** (371 066,40 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. **Obecnie wycenione pozycje to 256 851,04 zł netto** (315 926,78 zł brutto); różnica 44 828,96 zł przypada na honoraria jury wraz z rezerwą, które czekają na uzgodnienie z jurorami, a ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -171,12 +171,21 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 **Pula nagród i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. Dotyczy to nagród plebiscytu, nagród publiczności oraz medalu i dyplomów, czyli 48 200 zł.
 
-Pozostałe pozycje rozliczane są po wykonaniu:
+**Harmonogram obejmuje wszystkie pozycje kosztorysu, żeby nie trzeba było składać go z kilku akapitów:**
 
-- **praca organizatora, honorarium zespołu wybierającego najlepsze uzasadnienie głosu i rezerwa, czyli 79 304,04 zł, płatne są etapami po odbiorze**, w częściach odpowiadających godzinom faktycznie przepracowanym i wykazanym w raporcie etapu. Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna;
-- **nagrania studyjne rozliczane są po sesjach**, sesja po sesji, po fakturach studia;
+| Kiedy | Ile netto | Za co |
+| --- | ---: | --- |
+| Przed otwarciem naboru | 65 267 zł | nagrody plebiscytu 35 000, nagrody publiczności 12 000, medal i dyplomy 1 200 - czyli 48 200 zł puli, której regulamin nie pozwala ogłosić bez pokrycia - oraz koszty ponoszone przed naborem: obsługa prawna 8 000, udział w narzędziach 3 567, magazyn kopii archiwalnych 1 500, materiały kalibracyjne i szkolenie Akademii 3 000, udział w panelu oceniających 1 000 |
+| Po zakończeniu pierwszej rundy oceny | 15 000 zł | honoraria oceniających za 300 odsłuchów, rozliczane od liczby odsłuchów faktycznie wykonanych |
+| Po zakończeniu oceny jury | według umów z jurorami | honoraria jury, w kwotach z tych umów i bez narzutu; dziś pozycja bez kwoty, mieszcząca się w limicie |
+| Po gali | 11 000 zł | dojazd i nocleg dziesięciu finalistów 8 000, honoraria zespołu wybierającego najlepsze uzasadnienie głosu 3 000 |
+| Po sesjach studyjnych, sesja po sesji | 87 000 zł | nagrania 75 000 po fakturach studia oraz dokumentacja sesji 12 000 po przekazaniu materiałów |
+| Etapami, po odbiorze | 56 100 zł oraz rezerwa | praca organizatora w częściach odpowiadających godzinom wykazanym w raporcie etapu, a na końcu rezerwa 22 484,04 zł w części wykorzystanej |
+| **Razem** | **256 851,04 zł** | 65 267 + 15 000 + 11 000 + 87 000 + 56 100 + 22 484,04, obok honorariów jury mieszczących się w limicie |
 
-Faktura wychodzi osobno do każdego etapu.
+Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Faktura wychodzi osobno do każdego etapu.
+
+**Kto odbiera pracę organizatora.** 56 100 zł pracy fakturuje działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę - jest to transakcja z podmiotem powiązanym i mówimy o niej przed podpisaniem umowy, nie po. **Odbiór każdego etapu należy do Rady Fundacji**, organu, w którym nie zasiada żaden członek Zarządu; raport etapu wraz z wykazem godzin jest załącznikiem do faktury i trafia również do Fundatora. Skład Rady Fundacji jest jawny i Fundator poznaje go przed zawarciem umowy.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 

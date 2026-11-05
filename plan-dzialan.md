@@ -1243,6 +1243,12 @@ Czwarta tura recenzji pisma do VeloBanku pierwsza czytała **pismo razem z ofert
 
 **Pułapka techniczna, którą warto zapamiętać.** Pierwsze podejście do arkusza rozsypało wartości: `openpyxl` przy wstawianiu i usuwaniu wierszy gubi zawartość komórek objętych scaleniami, a scalenia nie przesuwają się razem z wierszami. Operacja udała się dopiero wtedy, gdy **najpierw zdjąłem wszystkie scalenia, potem przestawiłem wiersze i formuły, a scalenia wierszy opisowych nałożyłem na koniec**. Porównanie z wersją z repozytorium po etykietach wierszy wyłapało pięć parametrów, które przepadły przy pierwszej próbie - w tym stawkę godzinową i roczny koszt narzędzi AI. Przy każdej operacji na strukturze arkusza to porównanie jest obowiązkowe, bo testy w `sprawdz-kwoty.js` widzą tylko sumy, nie brakujące parametry.
 
+## Prośba w piśmie do VeloBanku: wymiana wiadomości zamiast rozmowy (5.11.2026)
+
+Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmieniona na krótką wymianę wiadomości** z trzema pytaniami - czy taki zakres mieści się w programach banku, w jakim kalendarzu budżetowym decyzja mogłaby zapaść i jakich dokumentów wymaga jej przygotowanie. Powód: odpowiedź mailem kosztuje adresata kilka minut i nie wymaga znalezienia terminu w kalendarzu, a na tym etapie potrzebujemy nie spotkania, tylko nazwiska osoby i kalendarza decyzji. Spotkanie ma sens, kiedy jest o czym rozmawiać, czyli po dokumentach.
+
+**Reszta uwag tej tury dotyczyła oferty, nie pisma** - i to jest wzór, który powtarza się trzeci raz: dokument linkujący do innego recenzuje się w parze, bo adresat czyta go w parze. Ujednolicona formuła kwoty, usunięta nieaktualna łączna cena z hymnem (po wejściu pierwszej rundy oceny do roli przestała się zgadzać), harmonogram płatności rozpisany na **wszystkie** pozycje kosztorysu zamiast na ich część oraz nazwany odbiorca pracy organizatora - Rada Fundacji, której skład Fundator poznaje przed umową.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

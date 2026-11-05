@@ -15,9 +15,9 @@ Hymn jest jedyną pozycją w całej edycji, która **nie należy do żadnego ple
 
 ## <!--ikona:moneta--><span>Skąd ta rola się bierze</span>
 
-Do tej edycji hymn stał w kosztorysie plebiscytu piosenki. Sponsor tego plebiscytu płacił więc za pozycję, która służy całej Nagrodzie i rozlicza się niezależnie od tego, czy jego plebiscyt zostanie rozstrzygnięty - a kosztuje więcej niż wszystkie dziesięć sesji studyjnych razem.
+Hymn służy całej Nagrodzie i rozlicza się niezależnie od tego, czy którykolwiek plebiscyt zostanie rozstrzygnięty, a kosztuje więcej niż wszystkie dziesięć sesji studyjnych finalistów plebiscytu piosenki razem. Dlatego nie obciąża sponsora żadnego z czterech plebiscytów.
 
-Dlatego od 4 listopada 2026 roku hymn ma **własną zakładkę w arkuszu budżetowym - Budżet Hymnu** - i własną rolę, a [oferta plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji) kosztuje o te 89 600 zł mniej, czyli 256 851,04 zł netto. Nie sprzedajemy tej samej pozycji dwa razy; Fundator plebiscytu piosenki może objąć także hymn, a wtedy obie role razem kosztują 325 171,04 zł netto.
+Dlatego hymn ma **własną zakładkę w arkuszu budżetowym - Budżet Hymnu** - i własną rolę, a [oferta plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji) jest o te 89 600 zł mniejsza. Nie sprzedajemy tej samej pozycji dwa razy; Fundator plebiscytu piosenki może objąć także hymn, ale nie musi, a jedna rola nie zależy od drugiej.
 
 ## <!--ikona:zespol--><span>Co otrzymuje Fundator</span>
 

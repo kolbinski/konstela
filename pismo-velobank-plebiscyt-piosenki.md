@@ -2,30 +2,26 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/pismo-velobank-plebiscyt-piosenki/*
 
-Proponuję VeloBankowi **rolę Fundatora nagród w plebiscycie na piosenkę o sztucznej inteligencji** w pierwszej edycji Nagrody Konstela. Finansowanie objęłoby **nagrody pieniężne - 47 000 zł brutto**, w tym 35 000 zł dla czołowej trójki i 12 000 zł w głosowaniu publiczności, **pierwszą rundę oceny wraz z honorariami jury**, **prowadzenie plebiscytu przez cały rok naboru** oraz **dziesięć sesji studyjnych** dla całej dziesiątki finalistów wraz z dokumentacją zdjęciową i filmową tych sesji.
+Proponuję VeloBankowi sfinansowanie pierwszej edycji plebiscytu Nagrody Konstela **na autorską piosenkę o sztucznej inteligencji**. Do zgłoszenia wystarczy demo - głos i instrument; jakość produkcji i dotychczasowe zasięgi nie są oceniane. **Dziesięcioro finalistów otrzyma profesjonalne nagranie własnego utworu wraz z miksem i masteringiem, a prawa do nagrań zostaną przy twórcach.** Zwracam się do Państwa, ponieważ w programie VeloTalent wspierają Państwo artystów, finansując realizację konkretnych projektów.
 
-**Proponowany limit finansowania wynosi 301 680 zł netto.** Obecnie wycenione pozycje to 256 851,04 zł netto, a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiam przed podpisaniem umowy, a limit z umowy jest ostateczny i w trakcie edycji nie rośnie. Realizacja koncertu podczas gali wymaga osobnego finansowania i nie jest warunkiem objęcia tej roli.
+**Proponowany limit finansowania wynosi 301 680 zł netto.** Obejmuje przeprowadzenie plebiscytu przez cały rok naboru, **47 000 zł nagród pieniężnych** - 35 000 zł dla czołowej trójki i 12 000 zł w głosowaniu publiczności - **pierwszą rundę oceny wraz z honorariami jury** oraz **dziesięć sesji studyjnych** z dokumentacją zdjęciową i filmową. Obecnie wycenione pozycje to 256 851,04 zł netto; różnica przypada na honoraria jury wraz z rezerwą, bo te czekają na uzgodnienie z jurorami. Ostateczny kosztorys przedstawiam przed podpisaniem umowy, a limit z umowy jest ostateczny i w trakcie edycji nie rośnie. Realizacja koncertu podczas gali wymaga osobnego finansowania i nie jest warunkiem objęcia tej roli.
 
 Pełny opis roli wraz z kosztorysem pozycja po pozycji jest pod adresem https://konstela.org/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji/.
 
-## Co ta rola realnie zmienia dla dziesięciu autorów
-
-**Do udziału wystarczy czytelne demo - głos i instrument.** Jakość produkcji i dotychczasowe zasięgi nie są oceniane; ocenie podlega utwór. VeloBank umożliwiłby dziesięciorgu finalistom przejście od takiego zgłoszenia do **profesjonalnego nagrania w studiu - realizacja, miks i mastering w jakości nadającej się do wydania** - a prawa do tych nagrań zostają przy autorach. Nagrania mogą złożyć się na wspólną płytę, ale jej wydanie wymaga osobnego partnera wydawniczego i umów, które autor zawiera z wydawnictwem, nie z nami.
-
-Piszę do Państwa, ponieważ **VeloTalent pokazuje, że bank wspiera rozwój artystów przez finansowanie konkretnych projektów**.
-
 ## Czym jest plebiscyt, którego ta rola dotyczy
 
-Nagroda Konstela to nowa, coroczna nagroda poświęcona współistnieniu ludzi i sztucznej inteligencji, przyznawana w czterech plebiscytach: na rozmowę ze sztuczną inteligencją oraz na film, piosenkę i ręcznie wykonany plakat o niej. Nagradzany jest człowiek, nie maszyna - **w plebiscycie piosenki melodia, harmonia i partia wokalna muszą pochodzić od człowieka**, a udział narzędzi generatywnych przy tekście i w obróbce dźwięku jest deklarowany i jawny przy każdym zgłoszeniu. Dziesiątkę finalistów wyłania jury w otwartym naborze, a nagranie studyjne dostaje każdy z dziesiątki, niezależnie od miejsca w werdykcie.
+Nagroda Konstela to nowa, coroczna nagroda poświęcona współistnieniu ludzi i sztucznej inteligencji. Przyznawana jest w czterech plebiscytach - na rozmowę ze sztuczną inteligencją oraz na film, piosenkę i ręcznie wykonany plakat o niej - a nagradzany jest człowiek, nie maszyna.
+
+**W plebiscycie piosenki melodia, harmonia i partia wokalna muszą pochodzić od człowieka**, a udział narzędzi generatywnych przy tekście i w obróbce dźwięku jest deklarowany i jawny przy każdym zgłoszeniu. **Akademia prowadzi pierwszą rundę oceny, a niezależne jury wyłania dziesiątkę finalistów i ustala ich kolejność.** Nagranie studyjne dostaje każdy z dziesiątki, niezależnie od miejsca w werdykcie.
 
 Opis plebiscytu: https://konstela.org/plebiscyt-piosenki/. Regulaminy wraz z kartami oceny: https://konstela.org/regulaminy/.
 
 ## Co otrzymuje Fundator
 
-- **Materiały z dziesięciu sesji studyjnych**: dokumentacja zdjęciowa oraz po jednym krótkim filmie z każdej sesji, w wersji pionowej i poziomej, przekazywane w ciągu 30 dni od ostatniej sesji.
-- **Prawo wykorzystania tych materiałów w komunikacji banku**, w tym płatnego promowania własnych postów, w granicach licencji uzgodnionej przed sesjami. Wykorzystanie muzyki w filmach wymaga zgody uprawnionych osób; jeżeli jej nie uzyskamy, przekazujemy film bez fragmentów muzycznych wymagających tej zgody i wskazujemy to w raporcie.
-- **Tytuł Fundatora nagród plebiscytu na piosenkę o sztucznej inteligencji** wraz z oznaczeniem przy finalistach, w opisach nagrań publikowanych przez organizatora, w komunikatach prasowych i w czołówce zapisu wideo z gali, który jest udostępniany bezpłatnie i bezterminowo.
-- **Raport wykonania**: wypłacone nagrody, przeprowadzone sesje, wykorzystanie kwoty w podziale na pozycje oraz dostępne statystyki publikacji.
+- **14 publikacji z oznaczeniem banku**, z terminami zapisanymi w umowie: dziesięć o finalistach, po jednej na każdego, i cztery o nagraniach studyjnych.
+- **Materiały z dziesięciu sesji studyjnych**: dokumentacja zdjęciowa oraz po jednym krótkim filmie z każdej sesji, w wersji pionowej i poziomej, przekazywane w ciągu 30 dni od ostatniej sesji, **z prawem wykorzystania w komunikacji banku** - w tym płatnego promowania własnych postów - w granicach licencji uzgodnionej przed sesjami. Wykorzystanie muzyki w tych filmach wymaga zgody uprawnionych osób; jeżeli jej nie uzyskamy, przekazujemy film bez fragmentów muzycznych wymagających tej zgody i wskazujemy to w raporcie.
+- **Tytuł Fundatora nagród plebiscytu na piosenkę o sztucznej inteligencji** wraz z oznaczeniem na stronie plebiscytu, w opisach nagrań publikowanych przez organizatora i w komunikatach prasowych. Oznaczenie w zapisie wideo z gali przysługuje, jeżeli gala się odbędzie; regulamin dopuszcza ogłoszenie werdyktu na stronie, gdyby jej przeprowadzenie okazało się niemożliwe.
+- **Raport wykonania**: wypłacone nagrody, przeprowadzone sesje, lista publikacji z datami i odnośnikami, wykorzystanie kwoty w podziale na pozycje oraz dostępne statystyki publikacji.
 
 **Fundator nie ma wpływu na wybór laureatów ani na skład jury** i nie wskazuje, kto nagrywa w studiu - dziesiątkę wyłania jury według regulaminu.
 
@@ -33,13 +29,15 @@ Opis plebiscytu: https://konstela.org/plebiscyt-piosenki/. Regulaminy wraz z kar
 
 Projekt jest na etapie przygotowania pierwszej edycji. **Gotowe są regulamin wraz z kartą oceny i kosztorys** - jedno i drugie jawne na stronie, a kosztorys także w arkuszu: https://konstela.org/arkusz/budzet-edycji-pierwszej. **Trwają powołanie fundacji, kompletowanie jury i pozyskiwanie finansowania pozostałych ról.** Fundacja Konstela nie jest wpisana do Krajowego Rejestru Sądowego; umowę zawiera fundacja po wpisie, a do czasu wpisu nie przyjmuję od nikogo żadnych wpłat. **Bank wiąże się wyłącznie podpisaną umową.**
 
-Jedno ograniczenie kalendarza jest regulaminowe i nie da się go obejść: **ogłoszona pula nagród musi mieć pokrycie w środkach, które wpłynęły na rachunek, zanim nabór zostanie otwarty** - samo zobowiązanie partnera nie wystarcza, bo ogłoszona pula wiąże Organizatora wobec uczestników. Nabór planuję na 2027 rok, galę rozstrzygnięcia na drugą połowę czerwca 2028, a sesje studyjne po gali, z ostatnią nie później niż cztery miesiące po niej. **Pozostałe terminy - przedstawienie pakietu dokumentów, decyzja i umowa, wpłata - proponuję ustalić w rozmowie**, tak aby Państwa decyzja zapadała po otrzymaniu kompletu dokumentów, a nie przed nim.
+Jedno ograniczenie kalendarza jest regulaminowe i nie da się go obejść: **ogłoszona pula nagród musi mieć pokrycie w środkach, które wpłynęły na rachunek, zanim nabór zostanie otwarty** - samo zobowiązanie partnera nie wystarcza, bo ogłoszona pula wiąże Organizatora wobec uczestników. Przed otwarciem naboru płatne jest 65 267 zł: pula nagród z medalem i dyplomami oraz koszty ponoszone przed naborem. Reszta rozlicza się po wykonaniu - pierwsza runda oceny po jej zakończeniu, nagrania sesja po sesji, praca organizatora etapami po odbiorze.
+
+Nabór planuję na 2027 rok, galę rozstrzygnięcia na drugą połowę czerwca 2028, a sesje studyjne po gali, z ostatnią nie później niż cztery miesiące po niej. **Pozostałe terminy - przedstawienie dokumentów, decyzja, umowa i wpłata - proponuję ustalić w rozmowie**; jeżeli potrzebują Państwo więcej czasu, przesuwa się otwarcie naboru, a nie zakres zobowiązania.
 
 ## O co proszę
 
-**O dwudziestominutową rozmowę**, żeby ustalić, czy wsparcie dziesięciu autorów piosenek w takim zakresie i budżecie mieści się w zainteresowaniach VeloBanku i w jego kalendarzu budżetowym. Jeżeli tak, kolejnym krokiem jest przedstawienie dokumentów do oceny projektu. Proszę o wskazanie osoby, z którą mogę tę propozycję omówić; jeżeli to pismo trafiło do sekretariatu, proszę o przekazanie go tej osobie.
+**Proszę o wskazanie osoby odpowiedzialnej za mecenat kulturalny albo sponsoring i o krótką wymianę wiadomości z nią** - chodzi o ustalenie, czy zakres i budżet tego projektu mieszczą się w planach VeloBanku. Odpowiedź na trzy pytania wystarczy, żeby wiedzieć, czy jest o czym rozmawiać dalej: czy taki zakres mieści się w Państwa programach, w jakim kalendarzu budżetowym decyzja mogłaby zapaść i jakich dokumentów potrzebują Państwo do jej przygotowania. Jeżeli propozycja okaże się interesująca, kolejnym krokiem jest przekazanie kosztorysu z wycenami, wyceny studia oraz projektu umowy z harmonogramem płatności i zasadami zwrotu. Jeżeli to pismo trafiło do sekretariatu, proszę o przekazanie go właściwej osobie.
 
-Nazywam się **Krzysztof Olbiński**, jestem programistą z ponad dwudziestoletnim doświadczeniem, absolwentem Politechniki Łódzkiej; mój życiorys zawodowy jest publiczny: https://www.toptal.com/developers/resume/krzysztof-olbinski. Koncepcję Nagrody przygotowałem i za obecny etap prac odpowiadam osobiście.
+Za koncepcję Nagrody i za obecny etap prac odpowiadam osobiście - nazywam się **Krzysztof Olbiński**, jestem programistą z ponad dwudziestoletnim doświadczeniem, a mój życiorys zawodowy jest publiczny: https://www.toptal.com/developers/resume/krzysztof-olbinski.
 
 Krzysztof Olbiński
 +48 503 520 004
