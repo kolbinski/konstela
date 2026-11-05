@@ -344,7 +344,7 @@ Plebiscyt zbierający prawdziwe rozmowy dostanie treści, których nie da się n
 
 **Światopogląd i religia:** rozmowy krytyczne, polemiczne i niewygodne są dopuszczalne i oceniane na równi z innymi. Dlatego ocena została oddzielona od publikacji (§ 7a): Organizator może odmówić publikacji z powodu ryzyka prawnego - na przykład art. 196 kk - ale **nigdy z powodu niezgody z poglądem**, a odmowa publikacji nie zabiera punktów ani nagrody. Uczestnik może wtedy wskazać fragment do usunięcia albo wycofać rozmowę z publikacji, zachowując nagrodę.
 
-**Jak to się wykrywa.** Tak samo jak inscenizacja: z sygnału od osoby, która zgłoszenie przeczytała, albo z opisu odkrycia. Organizator nie prowadzi przeglądu z urzędu, bo przy stu pięćdziesięciu zgłoszeniach nie jest to wykonalne.
+**Jak to się wykrywa.** Tak samo jak inscenizacja: z sygnału od osoby, która zgłoszenie przeczytała, albo z opisu odkrycia. Organizator nie prowadzi przeglądu z urzędu, bo przy liczbie zgłoszeń objętej kosztorysem nie jest to wykonalne.
 
 ## Przepustowość oceny: kiedy potrzebna jest Akademia
 

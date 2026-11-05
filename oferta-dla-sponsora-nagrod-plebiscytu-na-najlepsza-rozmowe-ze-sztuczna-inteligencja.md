@@ -103,7 +103,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Magazyn kopii archiwalnych rozmów, 5 lat retencji              |       1 500 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę                  |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |6 345zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |       6 345 zł |
 | Obsługa prawna regulaminu rozmowy                              |       8 000 zł |
 | Fundusz celowy na utrzymanie Archiwum przez dziewięć lat       |       7 920 zł |
 | Przygotowanie i złożenie migawki Archiwum w repozytorium       |       3 550 zł |
@@ -155,12 +155,12 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile 
 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
-| Po konsultacji prawnej, przed otwarciem naboru | 432 323 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 6 323, materiały kalibracyjne i szkolenie Akademii 3 000, domeny na dziesięć lat 3 000, magazyn kopii 1 500, księgowość 1 500, udział w panelu oceniających 1 000 |
-| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **197 961,96 zł** |
+| Po konsultacji prawnej, przed otwarciem naboru | 432 345 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 6 345, materiały kalibracyjne i szkolenie Akademii 3 000, domeny na dziesięć lat 3 000, magazyn kopii 1 500, księgowość 1 500, udział w panelu oceniających 1 000 |
+| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **197 964,60 zł** |
 | Po zamknięciu naboru i zakończeniu pierwszej rundy | według godzin oraz 26 000 zł | kolejna część pracy organizatora na tych samych zasadach, a do tego pierwsza runda oceny: honoraria za odczyty 22 500, vouchery 1 500 i ich rozliczenie 2 000 |
-| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta z 197 961,96 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
+| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta z 197 964,60 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
 | Osobno, po zakończeniu oceny | 32 000 zł | honoraria jury, na podstawie umów z jurorami, w kwotach z tych umów i bez narzutu; pieniądze nie przechodzą przez wykonawcę pracy organizatora |
-| **Razem** | **662 309,60 zł** | 432 323 + 197 961,96 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
+| **Razem** | **662 309,60 zł** | 432 345 + 197 964,60 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
 
 **Dlaczego pula idzie przed naborem.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner się wywiąże.
 
@@ -182,7 +182,7 @@ Zostaje druga strona tej samej sprawy, i mówimy o niej wprost: **koszt pierwsze
 
 **Gala - zależność pozorna.** Regulamin przewiduje ogłoszenie wyników bez gali, jeżeli gali nie da się przeprowadzić do 31 sierpnia 2028. Werdykt, nagrody i Archiwum nie zależą od obsadzenia roli sponsora gali; zależy od niej wieczór, nie wynik.
 
-**Narzędzia - zależność częściowa i możliwa do obejścia.** Panel oceny i narzędzie weryfikacji formalnej należą do roli Mecenasa Założycielskiego i ułatwiają pracę przy dużej liczbie zgłoszeń. Nie są jednak warunkiem przeprowadzenia plebiscytu: zgłoszenia przyjmuje formularz, karty oceny dają się prowadzić w arkuszu, a Czytelnia, Archiwum i skraper są finansowane w tej ofercie. Przy stu pięćdziesięciu zgłoszeniach brak panelu oznacza więcej godzin pracy, a nie brak oceny.
+**Narzędzia - zależność częściowa i możliwa do obejścia.** Panel oceny i narzędzie weryfikacji formalnej należą do roli Mecenasa Założycielskiego i ułatwiają pracę przy dużej liczbie zgłoszeń. Nie są jednak warunkiem przeprowadzenia plebiscytu: zgłoszenia przyjmuje formularz, karty oceny dają się prowadzić w arkuszu, a Czytelnia, Archiwum i skraper są finansowane w tej ofercie. Brak panelu oznacza więcej godzin pracy, a nie brak oceny.
 
 **Czego z tego nie da się usunąć.** Zostaje jedna rzecz: plebiscyt jest częścią większego przedsięwzięcia i przy pełnej skali potrzebuje więcej niż jednego partnera. Mówimy to wprost, zamiast obiecywać samowystarczalność, której nie ma - a trzy zapisy powyżej sprawiają, że **brak pozostałych partnerów zatrzymuje rzecz przed pierwszą wpłatą**, a nie w trakcie edycji. Mówiąc dokładnie: pierwsza wpłata jest wymagalna dopiero po potwierdzeniu, że pierwsza runda oceny ma finansowanie, więc do tej chwili nie ma czego wydawać ani czego zwracać. Po tej wpłacie pieniądze zaczynają pracować - promocja rusza, dostawcy dostają zamówienia - i od tego momentu zwrot dotyczy tego, czego nie wydano, a nie całości. Te dwa zdania opisują dwa różne momenty, nie dwa różne zabezpieczenia.
 

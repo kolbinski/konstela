@@ -120,7 +120,7 @@ Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgło
 - rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji;
 - odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty mają być przekazywane nieodpłatnie mediom i instytucjom edukacyjnym; zabezpieczą to umowy z prowadzącym i z gośćmi. Nie przedstawiamy tego jako stanu dokonanego, bo prowadzący nie jest jeszcze wybrany.
 
-**Podcast ma własny budżet i własną rolę** - [Sponsora podcastu](/oferta-dla-sponsora-podcastu) - i nie jest finansowany z tej oferty. Wcześniej jego koordynacja stała w tym kosztorysie, a sam podcast był jednocześnie obiecywany w osobnej ofercie, czyli jeden partner płaciłby za rzecz sprzedawaną drugiemu. Opisujemy go tutaj nadal, bo powstaje przy tej samej edycji i korzysta z tego samego materiału, ale kwota z tej strony go nie obejmuje.
+**Podcast ma własny budżet i własną rolę** - [Sponsora podcastu](/oferta-dla-sponsora-podcastu) - i nie jest finansowany z tej oferty. Opisujemy go tutaj, bo powstaje przy tej samej edycji i korzysta z tego samego materiału, ale kwota z tej strony go nie obejmuje: ani koordynacji odcinków, ani produkcji, ani honorarium prowadzącego.
 
 Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokazuje przegląd opracowań opisany wyżej - nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 

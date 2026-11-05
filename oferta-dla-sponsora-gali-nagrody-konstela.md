@@ -59,7 +59,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 | Rejestracja wideo i bezpłatne udostępnienie zapisu           |      15 000 zł |
 | Prowadzenie gali                                             |       8 000 zł |
 | Narzędzia AI i licencje - udział tego budżetu                |632zł |
-| **Razem koszty twarde**                                      |  **37 135 zł** |
+| **Razem koszty twarde**                                      |  **37 132 zł** |
 | Rezerwa na przekroczenia (12% od pracy i kosztów)            |    5 643,84 zł |
 | **Razem netto**                                              |  **52 675,84 zł** |
 | VAT 23%                                                      |    12 115,44 zł |
@@ -67,7 +67,7 @@ Program jednego wieczoru, liczony na około dwie godziny:
 
 **Przejazdy finalistów nie obciążają tej oferty.** Na galę przyjeżdża czterdziestu finalistów, po dziesięciu z każdego plebiscytu, a ich przejazd i nocleg - 8 000 zł na plebiscyt - pokrywa budżet tego plebiscytu, nie sponsor gali. Powód jest prosty: koszt rośnie z liczbą plebiscytów, a Sponsor gali nie decyduje o tym, ile ich się odbędzie. Gdyby doszedł piąty plebiscyt, ta oferta nie zdrożeje; gdyby któryś nie ruszył, nie zostanie w niej kwota bez przeznaczenia. Organizacja przejazdów i tak jest wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.
 
-**Narzędzia AI i licencje wchodzą tu jako udział, nie jako cała pozycja.** Roczny koszt narzędzi obsługuje wszystkie budżety Nagrody i dzieli się między nie proporcjonalnie do pracy organizatora; na galę przypada z tego 719 zł. Cała pozycja i klucz podziału są widoczne w arkuszu.
+**Narzędzia AI i licencje wchodzą tu jako udział, nie jako cała pozycja.** Roczny koszt narzędzi obsługuje wszystkie budżety Nagrody i dzieli się między nie proporcjonalnie do pracy organizatora; na galę przypada z tego 632 zł. Cała pozycja i klucz podziału są widoczne w arkuszu.
 
 **Co obejmują prowadzenie gali i rejestracja wideo.** Prowadzenie, 8 000 zł, to honorarium osoby rozpoznawalnej z radia, podcastów albo mediów zajmujących się technologią. Wieczór obejmuje werdykty czterech plebiscytów, występy czołowej trójki plebiscytu na piosenkę i blok zwiastunów filmowych, więc prowadzenie jest tu pracą nad rytmem całości, a nie odczytaniem kopert. Rejestracja, 15 000 zł, to trzy kamery, własny operator dźwięku, montaż całości, trzyminutowy skrót oraz **cztery krótkie materiały, po jednym na każdy plebiscyt** - te ostatnie dlatego, że każdy plebiscyt ma własnego partnera i własną stronę, na której taki materiał zostaje.
 

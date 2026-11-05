@@ -60,13 +60,13 @@ Przy plebiscycie rozmowy przygotowuję również **Uczniowską Akademię** - gru
 
 ### Co zostaje po pierwszej edycji
 
-Edycja nie kończy się wieczorem gali. Zostaje po niej dorobek, który dokumentuje zmianę w chwili, gdy ona zachodzi:
+Edycja nie kończy się wieczorem gali. Zostaje po niej dorobek, który dokumentuje zmianę w chwili, gdy ona zachodzi - każda z wymienionych rzeczy powstaje, jeżeli rola finansująca dany plebiscyt zostanie obsadzona, a edycja rozstrzygnięta; dziś żadna z tych ról nie jest obsadzona i piszę o tym niżej:
 
 - **Antologia** zwycięskich rozmów - bezpłatny e-book i audiobook czytany przez lektorów, a przy partnerze wydawniczym także wydanie książkowe. Wydawnictwo Universitas podpisało 30 października 2026 roku **list intencyjny** w sprawie Antologii, deklarując wstępne zainteresowanie projektem i gotowość rozważenia wydania tomu po otrzymaniu kompletnego materiału; list nie przesądza decyzji wydawniczej, a jego pełny skan jest jawny pod adresem https://konstela.org/attachments/universitas-list-intencyjny.pdf;
 - **cztery publiczne Archiwa, po jednym na plebiscyt**, obejmujące wszystkie zgłoszenia, które przeszły weryfikację formalną, a nie tylko finałowe dziesiątki - z jawną punktacją wszystkich etapów oceny, bezpłatnie, bez rejestracji i bez planowanego terminu zamknięcia;
 - **nagrania studyjne dziesiątki finalistów plebiscytu piosenki**, a przy partnerze wydawniczym płyta z tymi nagraniami;
 - **pokazy filmów finałowych** - seans kuratorski ze spotkaniem z twórcami, a przy partnerze streamingowym także dziesięć filmów w katalogu serwisu;
-- **wystawa plakatów finałowych** z wernisażem i cichą licytacją oryginałów;
+- **wystawa plakatów finałowych przy gali**, a przy partnerze galerii także wernisaż i cicha licytacja oryginałów po gali;
 - **podcast towarzyszący Nagrodzie w dwóch cyklach** - „Pierwszy raz z AI", z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji, oraz „NAIstolatek", z nastolatkami, dla których te narzędzia są codziennością - bezpłatnie dostępny publicznie, wraz z wersją wideo;
 - **hymn „Zapytaj inaczej" w dwóch wersjach** oraz bezpłatny i bezterminowy zapis wideo gali.
 

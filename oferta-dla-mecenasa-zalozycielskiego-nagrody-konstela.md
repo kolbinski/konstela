@@ -109,7 +109,7 @@ Zakresy się nie nakładają: godzina spędzona przy kodzie jest rozliczana godz
 - domeny konstela.org i konstela.pl;
 - skrzynka pocztowa w domenie wraz z aliasami.
 
-**Narzędzia AI i licencje kosztują rocznie 30 000 zł i nie należą do tej roli w całości.** Te same narzędzia obsługują cztery plebiscyty, Akademię, Antologię, galę i podcast, więc koszt dzieli się między wszystkie budżety proporcjonalnie do pracy organizatora w każdym z nich; na uruchomienie przypada z tego 4 877 zł. Wcześniej całe 30 000 zł płacił Mecenas Założycielski, czyli jeden partner finansował narzędzia, z których korzystali wszyscy pozostali. Klucz podziału i udział każdego budżetu widać w arkuszu.
+**Narzędzia AI i licencje kosztują rocznie 30 000 zł i nie należą do tej roli w całości.** Te same narzędzia obsługują cztery plebiscyty, Akademię, Antologię, galę i podcast, więc koszt dzieli się między wszystkie budżety proporcjonalnie do pracy organizatora w każdym z nich; na uruchomienie przypada z tego 7 272 zł. Wcześniej całe 30 000 zł płacił Mecenas Założycielski, czyli jeden partner finansował narzędzia, z których korzystali wszyscy pozostali. Klucz podziału i udział każdego budżetu widać w arkuszu.
 
 **Co kupuje cała pozycja, 30 000 zł**, czyli 2 500 zł miesięcznie:
 
@@ -141,9 +141,9 @@ Po pięciu latach Archiwum zostaje jako **statyczna kopia** - zachowuje treści 
 3. **Narzędzie do weryfikacji formalnej i samoobsługi statusu** - 36 300 zł netto, po jego odbiorze.
 4. **Panel oceny i instalowalna wersja mobilna** - 61 600 zł netto, po odbiorze obu narzędzi.
 5. **Bezpieczeństwo** - 20 000 zł netto za pięć zadań, każde po odbiorze swojego rezultatu: przeglądu architektury, konfiguracji dostępów, szyfrowania wraz z testem odtworzenia kopii, zewnętrznego przeglądu podatności oraz procedury incydentu z testem organizacyjnym.
-6. **Koszty roczne** - 30 147 zł netto na domeny, pocztę i hosting strony, narzędzia AI oraz obsługę księgową lat 2027 i 2028, płatne po przedstawieniu faktur dostawców, czyli w chwili zakupu. Fundacja nie kredytuje rocznych licencji z własnych środków, a Mecenas nie płaci za rok, który się jeszcze nie zaczął.
+6. **Koszty roczne** - 30 172 zł netto na domeny, pocztę i hosting strony, narzędzia AI oraz obsługę księgową lat 2027 i 2028, płatne po przedstawieniu faktur dostawców, czyli w chwili zakupu. Fundacja nie kredytuje rocznych licencji z własnych środków, a Mecenas nie płaci za rok, który się jeszcze nie zaczął.
 7. **Raportowanie** - 16 060 zł netto, rozliczane po każdym z pięciu raportów etapowych.
-8. **Rozliczenie końcowe** - 41 852,70 zł netto, czyli wynagrodzenie wykonawcy i rezerwa, po przyjęciu sprawozdania. Sprawozdanie składane jest w ciągu sześćdziesięciu dni od odbioru ostatniego narzędzia, nie po zakończeniu edycji w 2028 roku.
+8. **Rozliczenie końcowe** - 41 855,20 zł netto, czyli wynagrodzenie wykonawcy i rezerwa, po przyjęciu sprawozdania. Sprawozdanie składane jest w ciągu sześćdziesięciu dni od odbioru ostatniego narzędzia, nie po zakończeniu edycji w 2028 roku.
 
 Faktura wychodzi osobno do każdego etapu. Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna; jeżeli prace zostają przerwane, Mecenas zapłacił dotąd wyłącznie za to, co istnieje.
 
