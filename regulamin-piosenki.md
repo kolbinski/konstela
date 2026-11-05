@@ -113,7 +113,7 @@ Plebiscyt na piosenkę jest odrębnym plebiscytem prowadzonym przez Organizatora
 
 5. **Nabór zamyka się przed terminem po osiągnięciu limitu zgłoszeń**, jeżeli limit taki został ogłoszony. Limit, jego wysokość i sposób liczenia Organizator ogłasza w dniu otwarcia naboru wraz z pozostałymi terminami, a po jego osiągnięciu zamyka nabór i ogłasza to na stronie Nagrody oraz w Słuchalni. Zgłoszenie wysłane przed zamknięciem naboru podlega ocenie; zgłoszenie wysłane po nim nie jest przyjmowane, a nadawca otrzymuje o tym zawiadomienie.
 
-6. Limit, o którym mowa w ust. 5, służy wyłącznie zapewnieniu, że każde przyjęte zgłoszenie zostanie sprawdzone i ocenione zgodnie z regulaminem, i nie może być niższy niż przepustowość objęta kosztorysem edycji. W edycji pierwszej Organizator planuje ogłosić limit na poziomie **350 zgłoszeń**.
+6. Limit, o którym mowa w ust. 5, służy wyłącznie zapewnieniu, że każde przyjęte zgłoszenie zostanie sprawdzone i ocenione zgodnie z regulaminem, i nie może być niższy niż przepustowość objęta kosztorysem edycji. W edycji pierwszej Organizator planuje ogłosić limit na poziomie **250 zgłoszeń**.
 
 7. **Po przekroczeniu przepustowości objętej kosztorysem edycji Organizator uruchamia dodatkową obsługę kontroli formalnej i oceny** - dodatkowe osoby albo narzędzie automatyzujące sprawdzanie wymogów z § 8 - finansowaną z rezerwy przewidzianej w kosztorysie edycji. Informację o uruchomieniu dodatkowej obsługi Organizator podaje w Słuchalni.
 

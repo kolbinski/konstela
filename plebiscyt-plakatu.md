@@ -25,7 +25,7 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria-i-archiwum)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
 - **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii – [obie drogi są dobrowolne](#sprzedaz-pracy-dwie-drogi-obie-dobrowolne)
 - zgłaszasz **jedną pracę w jednej edycji**
-- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo Antologia musi zdążyć do druku; nabór zamyka się także wcześniej, jeżeli wpłynie **300 zgłoszeń** (§ 3a ust. 4 regulaminu), a limit ogłaszamy w dniu otwarcia naboru
+- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo Antologia musi zdążyć do druku; nabór zamyka się także wcześniej, jeżeli wpłynie **250 zgłoszeń** (§ 3a ust. 4 regulaminu), a limit ogłaszamy w dniu otwarcia naboru
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -321,7 +321,7 @@ Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** 
 
 <dl class="harmonogram">
 <div><dt>2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
-<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, bo Antologia musi zdążyć do druku; nabór zamyka się wcześniej, jeżeli wpłynie 300 zgłoszeń</small></dd></div>
+<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, bo Antologia musi zdążyć do druku; nabór zamyka się wcześniej, jeżeli wpłynie 250 zgłoszeń</small></dd></div>
 <div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy zamawiamy wydruki wystawowe</small></dd></div>
 <div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginału, jeżeli jury zażąda oględzin<small>żądanie jest pisemne, wskazuje powód i wyznacza termin nie krótszy niż 21 dni; opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
