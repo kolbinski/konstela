@@ -459,7 +459,7 @@ Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
 ### Skąd biorą się te liczby
 
-Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we wszystkich budżetach przedsięwzięcia. Honoraria jury plakatu nie są natomiast wyceniane stawką godzinową i wymagają ustalenia z jury - powód wyjaśnia uwaga poniżej. Kontrola formalna jest skalowana liczbą zgłoszeń: w arkuszu jest to jeden parametr wspólny dla wszystkich budżetów, przyjęty na potrzeby kosztorysu na 150, i każda pozycja zależna od wolumenu przelicza się po jego zmianie.
+Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we wszystkich budżetach przedsięwzięcia. Honoraria jury plakatu nie są natomiast wyceniane stawką godzinową i wymagają ustalenia z jury - powód wyjaśnia uwaga poniżej. Kontrola formalna jest rozliczana od faktycznej liczby zgłoszeń: kosztorys kupuje 30 godzin tej pracy, po 12 minut na zgłoszenie wraz z obejrzeniem nagrania z powstawania pracy. Liczba zgłoszeń jest w arkuszu jednym parametrem wspólnym dla wszystkich budżetów, a każda pozycja zależna od wolumenu przelicza się po jego zmianie.
 
 Liczby zgłoszeń nie prognozuję - jest to pierwsza edycja plebiscytu, którego nikt wcześniej nie prowadził. Żadna z tych pozycji nie jest kwotą ryczałtową wziętą z oszacowania całości.
 
