@@ -31,7 +31,7 @@ Projekt jest na etapie przygotowania pierwszej edycji. **Gotowe są regulamin wr
 
 Jedno ograniczenie kalendarza jest regulaminowe i nie da się go obejść: **ogłoszona pula nagród musi mieć pokrycie w środkach, które wpłynęły na rachunek, zanim nabór zostanie otwarty** - samo zobowiązanie partnera nie wystarcza, bo ogłoszona pula wiąże Organizatora wobec uczestników. Przed otwarciem naboru płatne jest 65 267 zł netto: pula nagród z medalem i dyplomami oraz koszty ponoszone przed naborem. Reszta rozlicza się po wykonaniu - pierwsza runda oceny po jej zakończeniu, nagrania sesja po sesji, praca organizatora etapami po odbiorze.
 
-Nabór planuję na 2027 rok, galę rozstrzygnięcia na drugą połowę czerwca 2028, a sesje studyjne po gali, z ostatnią nie później niż cztery miesiące po niej. **Pozostałe terminy - przedstawienie dokumentów, decyzja, umowa i wpłata - proponuję ustalić w rozmowie**; jeżeli potrzebują Państwo więcej czasu, przesuwa się otwarcie naboru, a nie zakres zobowiązania.
+Nabór planuję na 2027 rok, galę rozstrzygnięcia na drugą połowę czerwca 2028, a sesje studyjne po ogłoszeniu wyników, z ostatnią nie później niż cztery miesiące po nim - także wtedy, gdyby gali nie dało się przeprowadzić. **Pozostałe terminy - przedstawienie dokumentów, decyzja, umowa i wpłata - proponuję ustalić w rozmowie**; jeżeli potrzebują Państwo więcej czasu, przesuwa się otwarcie naboru, a nie zakres zobowiązania.
 
 ## O co proszę
 

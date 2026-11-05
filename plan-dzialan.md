@@ -1261,6 +1261,10 @@ Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmi
 
 **Dwóch pozostałych nie da się zamknąć pisaniem** - to nazwiska jurorów i oferta studia. Trzeci raz z rzędu recenzja kończy się w tym samym miejscu: TVP po ósmej turze, VeloBank po siódmej i teraz po ósmej. **Dalsza praca nad tekstami ofert ma dziś malejącą wartość, a pracę nad dowodami - rosnącą.**
 
+**Dziewiąta tura: każda naprawa wprowadziła własne wady - znów.** Dwie sekcje dopisane godzinę wcześniej dały cztery nowe zarzuty, wszystkie prawdziwe: plan dotarcia zapowiadał 50 godzin, choć 28 z nich idzie na publikacje; wariant ręczny mówił o ograniczeniu zakresu, nie mówiąc, **kto wykona kontrolę formalną, która nie skaluje się z trybem oceny**; „pokryta pierwsza runda" dawała się czytać jako żądanie wcześniejszej wpłaty na coś, co ten sam Fundator finansuje; a wariant bez gali zostawiał termin sesji liczony od gali, której nie ma. To ta sama prawidłowość, którą zapisaliśmy 2.11 przy ofercie piosenki - **nowe zdanie w ofercie jest nowym zobowiązaniem i trzeba je sprawdzić pięcioma pytaniami tak samo jak świadczenie**.
+
+**Najcenniejsza z tych poprawek dotyczy skali dotarcia.** Bank nie chciał prognozy zgłoszeń - chciał zobowiązania do pracy, którą kontrolujemy. Stąd liczba wyprowadzona z godzin, a nie z nadziei: **100 nazwanych instytucji w dwóch turach, rejestr wysyłek i odpowiedzi jako załącznik do raportu etapu**. Ta sama konstrukcja nadaje się do trzech pozostałych plebiscytów, kiedy przyjdzie ich kolej.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
