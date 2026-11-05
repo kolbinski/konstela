@@ -1308,6 +1308,44 @@ Jedenasta tura recenzji pierwsza czytała **pismo, ofertę, regulamin, stronę p
 
 **Skutek uboczny, który trzeba znać przy każdej zmianie godzin:** zmniejszenie pracy organizatora w jednym budżecie przesuwa klucz podziału kosztu narzędzi AI, więc **drgają sumy wszystkich ośmiu budżetów**. Tym razem o kilkadziesiąt złotych każdy; suma edycji wynosi **2 162 552,86 zł**. Bez piątego testu w `sprawdz-kwoty.js` przeszłoby to niezauważone.
 
+## Audyt kwot po wejściu Akademii do budżetów plebiscytów (5.11.2026)
+
+Przegląd wszystkich dzisiejszych zmian w poszukiwaniu miejsc, w których tekst został przy poprzednich
+liczbach. Znalezione i poprawione:
+
+**Oferty.** Rozmowa: transza przed naborem 432 345 zł i udział w narzędziach 6 345 zł, pozostałe
+transze 197 964,60 zł - wcześniej trzy liczby nie sumowały się do ceny. Piosenka: praca 54 450 zł
+zamiast 56 100 (247,5 godziny, nie 255) i zapas nad rachunkiem limitu 44 821,12 zł. Plakat: podstawa
+rezerwy 159 773 zł, rezerwa do 19 172,76 zł, brutto 345 563,28 zł, transza przed naborem powiększona
+o materiały kalibracyjne i panel, dopisana osobna transza pierwszej rundy oceny 7 500 zł rozliczana
+od faktycznej liczby ocen; kwota dotacji przeliczona od nowego podziału pozycji z VAT i bez VAT.
+Film: podstawa rezerwy 221 709 zł zamiast 125 739, podział płatności na cztery części, które sumują
+się do 440 314,08 zł, oraz **obniżony pułap sprawdzeń twierdzeń do 8 700 zł** - przy 10 000 zł wraz
+z rezerwą pozycja nie mieściła się w wolnym limicie, czyli pułap, który miał domykać limit, go
+przekraczał. Gala i uruchomienie: udział w narzędziach i rozliczenie końcowe.
+
+**Arkusz budżetu.** Dwie pozycje aneksu plakatu - wernisaż i obsługa licytacji - liczyły się
+z wierszy Akademii, bo formuły zostały przy numerach wierszy sprzed wstawienia bloków. Honorarium
+za odczyt w zakładkach przepustowości stało na 125 zł, choć kosztorys płaci 75 zł, a stawka minimalna
+wpisana jako zobowiązanie wobec oceniających była **wyższa** od stawki kosztorysowej; nagłówki
+wrażliwości nie podają już stawek liczbą, żeby nie rozjeżdżały się po każdej zmianie. Dwadzieścia
+pozycji nie miało roku kosztu, więc nie dawały się podzielić na lata. Zniknęły nazwy roli, której
+już nie ma, i parametr podatku od nagród bez wartości.
+
+**Zestawienie zadania** przebudowane: dziewięć zadań po jednym na budżet plus aneks galerii poza
+sumami, podział na lata wyliczony z kolumny roku kosztu, bez liczby odcinków podcastu. Nota
+i uzupełnienie dla Ministerstwa podają 1 064 638,72 zł objęte pytaniem (254 358,72 na 2027
+i 810 280 na 2028), a tabele trzech rozdziałów sumują się do zakładek pozycja po pozycji.
+Suma całości, suma spoza pytania i suma objęta pytaniem domykają się teraz w trzech dokumentach
+i dwóch arkuszach: 1 097 914,14 + 1 064 638,72 = 2 162 552,86.
+
+**Reguły.** Z oferty rozmowy i z koncepcji wypadło powoływanie się na sto pięćdziesiąt zgłoszeń.
+Z oferty podcastu wypadło zdanie wskazujące koordynację w cudzym kosztorysie, a z oferty Antologii
+polemika z własną poprzednią wersją.
+
+**Czego nie zmieniałem bez decyzji:** godzin gali dla bloków galowych piosenki i plakatu, treści
+korespondencji mc-* opisującej model dwóch partnerów, publikowania stron wewnętrznych pod /dokument/.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
