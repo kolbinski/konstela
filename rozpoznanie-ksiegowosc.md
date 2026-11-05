@@ -20,7 +20,7 @@ Notatka robocza z 5 listopada 2026. Zapis odpowiedzi Kancelarii Usług Księgowy
 
 **Wpłaty partnerów są przychodem z działalności gospodarczej**, bo każda oferta obiecuje świadczenia promocyjne - tytuł, logo, oznaczenia, materiały. Statut musi więc dopuszczać działalność gospodarczą, a fundusz założycielski obejmować przeznaczone na nią 1 000 zł (art. 5 ust. 5 ustawy o fundacjach). Jedno i drugie jest w kosztorysie i w projekcie statutu.
 
-**Pozycja obsługi księgowej była zaniżona i obejmowała jeden rok.** W kosztorysie stało 6 000 zł, czyli 500 zł miesięcznie - poniżej minimalnej stawki kancelarii, przy pełnych księgach z podziałem działalności. Edycja biegnie od naboru w 2027 roku do sesji studyjnych i sprawozdań po gali w 2028, więc rok drugi nie miał żadnej pozycji. Pozycja wynosi dziś **14 400 zł: 7 200 zł rocznie przez dwa lata**, a Budżet Uruchomienia **232 459,70 zł netto** zamiast 223 219,70. Suma wszystkich budżetów: **2 150 401,54 zł**.
+**Pozycja obsługi księgowej była zaniżona i obejmowała jeden rok.** W kosztorysie stało 6 000 zł, czyli 500 zł miesięcznie - poniżej minimalnej stawki kancelarii, przy pełnych księgach z podziałem działalności. Edycja biegnie od naboru w 2027 roku do sesji studyjnych i sprawozdań po gali w 2028, więc rok drugi nie miał żadnej pozycji. Pozycja wynosi dziś **14 400 zł: 7 200 zł rocznie przez dwa lata**, a Budżet Uruchomienia **232 487,20 zł netto** zamiast 223 219,70. Suma wszystkich budżetów: **2 150 401,54 zł**.
 
 ## Co trzeba rozstrzygnąć
 

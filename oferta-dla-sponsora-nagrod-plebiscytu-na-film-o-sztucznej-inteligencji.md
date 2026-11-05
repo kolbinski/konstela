@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który ufunduje pulę nagród w plebiscycie na film o sztucznej inteligencji - 180 000 zł brutto dla laureatów - wraz z oceną zgłoszeń, dotarciem do twórców i prowadzeniem plebiscytu przez cały rok naboru.**
 
-**Kosztuje to 440 293,92 zł netto** (541 561,52 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 440 314,08 zł netto** (541 586,32 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Zgłoszony film ma trwać od 20 do 90 minut, mieć u nas premierę - być ukończony w roku edycji i wcześniej nigdzie publicznie niepokazany - a Organizator nie finansuje produkcji. Pula nagród nie jest tu więc tylko gratyfikacją dla zwycięzcy - **ma być powodem, dla którego ktoś w ogóle siada do scenariusza**.
 
@@ -124,7 +124,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 ## <!--ikona:waga--><span id="kwota">Kwota</span>
 
-**440 293,92 zł netto** (541 561,52 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**440 314,08 zł netto** (541 586,32 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Filmu" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-filmu), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -137,7 +137,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Przygotowanie techniczne zwiastunów do emisji galowej          |    do ustalenia |
 | Pokaz kuratorski filmów finałowych w postaci gwarantowanej     |      12 000 zł |
 | Dojazd i nocleg finalistów na galę (do dziesięciu osób)        |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |5 141zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |5 159zł |
 | Obsługa prawna regulaminu filmu                                |       8 000 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn kopii archiwalnych filmów (5 lat retencji)             |       7 500 zł |
@@ -145,14 +145,14 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 | Akademia filmu: honoraria za 300 obejrzeń, po 300 zł            |      90 000 zł |
 | Akademia filmu: materiały kalibracyjne i szkolenie             |       5 000 zł |
 | Akademia filmu: udział w panelu oceniających                   |       1 000 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      26 602,92 zł |
-| **Razem netto**                                                | **440 293,92 zł** |
-| VAT 23%                                                        |     101 267,60 zł |
-| **Do zapłaty brutto**                                          | **541 561,52 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      26 605,08 zł |
+| **Razem netto**                                                | **440 314,08 zł** |
+| VAT 23%                                                        |     101 272,24 zł |
+| **Do zapłaty brutto**                                          | **541 586,32 zł** |
 
 **Górny limit zobowiązania.** Cztery pozycje w tabeli nie mają jeszcze ceny - trzy czekają na wycenę, a sprawdzenia twierdzeń rozliczane są ze stawki godzinowej po wykonaniu, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 537 520 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
-**Pozycja sprawdzeń twierdzeń ma własny pułap: 10 000 zł**, czyli około 66 godzin. Bez pułapu limit by się nie domykał i trzeba to pokazać rachunkiem: 430 000 minus kosztorys 440 293,92 daje 97 172,32 zł wolnego limitu, a trzy pozycje czekające na wycenę to około 78 000 zł plus 9 360 zł rezerwy od nich - zostaje więc **9 812,32 zł**. Dwie godziny sprawdzeń przy każdym filmie, przy przepustowości objętej kosztorysem, kosztowałyby 45 000 zł, czyli pięć razy więcej niż limit zostawia. **Dlatego pozycja ma pułap, a nie otwartą stawkę**: do jego wyczerpania sprawdzenia rozliczane są z wykonania, a po wyczerpaniu Organizator sprawdza dalej **w ramach własnych godzin**, pierwszeństwo dając filmom przy granicy kwalifikacji i tym, których twierdzenia faktograficzne ważą na wyniku. Granica dwóch godzin na film pozostaje przy tym **do przekroczenia za zgodą Organizatora**, ale wyłącznie wewnątrz pułapu - zgoda nie otwiera limitu.
+**Pozycja sprawdzeń twierdzeń ma własny pułap: 10 000 zł**, czyli około 66 godzin. Bez pułapu limit by się nie domykał i trzeba to pokazać rachunkiem: 430 000 minus kosztorys 440 314,08 daje 97 172,32 zł wolnego limitu, a trzy pozycje czekające na wycenę to około 78 000 zł plus 9 360 zł rezerwy od nich - zostaje więc **9 812,32 zł**. Dwie godziny sprawdzeń przy każdym filmie, przy przepustowości objętej kosztorysem, kosztowałyby 45 000 zł, czyli pięć razy więcej niż limit zostawia. **Dlatego pozycja ma pułap, a nie otwartą stawkę**: do jego wyczerpania sprawdzenia rozliczane są z wykonania, a po wyczerpaniu Organizator sprawdza dalej **w ramach własnych godzin**, pierwszeństwo dając filmom przy granicy kwalifikacji i tym, których twierdzenia faktograficzne ważą na wyniku. Granica dwóch godzin na film pozostaje przy tym **do przekroczenia za zgodą Organizatora**, ale wyłącznie wewnątrz pułapu - zgoda nie otwiera limitu.
 
 Limit zostawia nad dzisiejszym kosztorysem niecałe 97 000 zł i jest policzony, a nie wzięty z sufitu: honoraria jury za ocenę to przy wyliczeniach z arkusza 58 000 zł (pięciu jurorów po 40 godzin przy 290 zł za godzinę), etap przygotowawczy karty oceny rzędu 10 000 zł, przygotowanie techniczne zwiastunów rzędu 10 000 zł, a rezerwa obejmie je tak samo jak resztę kosztorysu.
 
@@ -245,7 +245,7 @@ Osobno regulamin przewiduje próg po stronie uczestników (§ 15 ust. 2): **jeż
 
 Próg dziesięciu zgłoszeń wynika z konstrukcji plebiscytu: grupa finałowa jest tu zarazem całą stawką, więc przy mniejszej liczbie zgłoszeń nie byłoby czego rozstrzygać. **Liczba finalistów nie jest przy tym stała ani wybierana**: jest nią połowa liczby zgłoszeń spełniających wymogi formalne, zaokrąglona w dół, najwyżej dziesięciu i najmniej trzech. Dwanaście zgłoszeń daje sześciu finalistów, dwadzieścia - dziesięciu. Organizator liczby tej nie ustala, lecz ogłasza wynik rachunku razem z liczbą zgłoszeń, przed przekazaniem filmów jury; **widełki byłyby tu pozorną regułą**, bo przy dwudziestu zgłoszeniach pozwalałyby ogłosić od trzech do dziesięciu finalistów i wybierałby ten, kto zgłoszenia widzi pierwszy. Nagród pieniężnych to nie dotyczy - czołowa trójka i jej kwoty są niezależne od liczby zgłoszeń. Mówimy o tym wprost również uczestnikom, na [stronie plebiscytu](/plebiscyt-filmu#czego-od-ciebie-wymagamy-i-dlaczego), razem z zapowiedzią dwóch wiadomości: w dniu otwarcia naboru oraz w dniu, w którym dziesięć zgłoszeń przechodzi weryfikację i rozstrzygnięcie edycji jest pewne.
 
-**Limit zgłoszeń, czyli co się dzieje przy naborze większym od kosztorysu.** Regulamin pozwala zamknąć nabór przed terminem po osiągnięciu limitu ogłoszonego w dniu jego otwarcia, a w pierwszej edycji limit ten wynosi **200 zgłoszeń**. Liczba wynika z rachunku, nie z wyczucia: jedno zgłoszenie ponad przepustowość objętą kosztorysem kosztuje **344 zł** (44 zł kontroli formalnej i 300 zł za jedno obejrzenie w trybie przesiewu), a rezerwa tej roli, czyli 26 602,92 zł, pokrywa około 77 takich zgłoszeń. **Po przekroczeniu przepustowości uruchamiamy z rezerwy dodatkową obsługę** - dodatkowe osoby do kontroli formalnej i oceny albo narzędzie automatyzujące sprawdzanie wymogów formalnych - i ogłaszamy to w Projektorni. Limit nie jest sposobem na ograniczenie zainteresowania, tylko zobowiązaniem, że **każde przyjęte zgłoszenie zostanie sprawdzone i ocenione**; zgłoszenie wysłane przed zamknięciem naboru podlega ocenie, późniejsze nie jest przyjmowane i nadawca dostaje o tym zawiadomienie.
+**Limit zgłoszeń policzony na pełnym wariancie oceny.** Regulamin pozwala zamknąć nabór przed terminem po osiągnięciu limitu ogłoszonego w dniu jego otwarcia, a w pierwszej edycji limit ten wynosi **250 zgłoszeń**. Rachunek obejmuje wszystko, czego wymaga regulamin powyżej przepustowości objętej kosztorysem, a nie sam pierwszy obejrzenie: przy 250 zgłoszeniach w trybie jednoosobowym wypada około **332 obejrzeń** - pierwsze przejście, obowiązkowe drugie w paśmie wokół granicy kwalifikacji, losowy audyt jednej dziesiątej odrzuconych oraz dzikie karty. Ponad obejrzeniey objęte kosztorysem daje to **9 600 zł** honorariów po 300 zł, a kontrola formalna dodatkowych zgłoszeń **4 400 zł** po 44 zł za zgłoszenie - razem **14 000 zł**, czyli około 53% rezerwy wynoszącej 26 605,08 zł. **Pozostała jedna trzecia rezerwy zostaje na to, do czego rezerwa służy**: przekroczenia pozostałych pozycji kosztorysu. Limit nie jest sposobem na ograniczenie zainteresowania, tylko zobowiązaniem, że **każde przyjęte zgłoszenie zostanie ocenione**; zgłoszenie wysłane przed zamknięciem naboru podlega ocenie, późniejsze nie jest przyjmowane i nadawca dostaje o tym zawiadomienie. **Po przekroczeniu przepustowości objętej kosztorysem uruchamiamy z rezerwy dodatkową obsługę** - ludzi do kontroli formalnej i oceny albo narzędzie automatyzujące sprawdzanie wymogów formalnych.
 
 **Ten limit jest najniższy ze wszystkich czterech plebiscytów i powód jest jeden**: obejrzenie filmu kosztuje wielokrotnie więcej niż odsłuchanie utworu czy obejrzenie reprodukcji plakatu. Mówimy to wprost, bo przy filmach to właśnie ocena, a nie obsługa, wyznacza sufit edycji.
 
@@ -397,13 +397,13 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 284,96 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 256 851,04 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 309,60 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 253 778,88 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
 - **[Fundator hymnu Nagrody Konstela](/oferta-dla-fundatora-hymnu-nagrody-konstela)** - 89 600 zł netto<small>hymn w wersji ludzkiej wraz z teledyskiem, komponowany i nagrywany przez skład jury plebiscytu piosenki; jedyna pozycja edycji spoza plebiscytów</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 926,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 731,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 459,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 673,60 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 945,76 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 737,40 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 487,20 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 675,84 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 

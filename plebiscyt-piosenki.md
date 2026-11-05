@@ -23,7 +23,7 @@ Otwarty plebiscyt na **własną piosenkę o sztucznej inteligencji i jej roli w 
 - autorzy **trzech najwyżej ocenionych utworów** są zapraszani do wykonania ich na żywo na gali
 - Twoja piosenka jest dostępna **w [Słuchalni](#sluchalnia-i-archiwum) przez cały nabór, a po gali w publicznym [Archiwum](#archiwum)**
 - zgłaszasz **jedną piosenkę w jednej edycji**
-- nabór zamykamy **31 grudnia 2027**
+- nabór zamykamy **31 grudnia 2027**, a jeżeli wcześniej wpłynie **350 zgłoszeń** - w dniu, w którym ta liczba zostanie osiągnięta (§ 4 ust. 5 regulaminu). Limit ogłaszamy w dniu otwarcia naboru i pilnujemy go po to, żeby każde przyjęte zgłoszenie zostało przesłuchane i ocenione; **jeżeli piszesz piosenkę na ten plebiscyt, nie zostawiaj zgłoszenia na ostatni tydzień**
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -308,7 +308,7 @@ Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, raze
 
 <dl class="harmonogram">
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
-<div><dt>31 grudnia 2027</dt><dd>Zamknięcie naboru<small>oceniamy wersję dostępną pod linkiem tego dnia</small></dd></div>
+<div><dt>31 grudnia 2027 albo wcześniej</dt><dd>Zamknięcie naboru<small>oceniamy wersję dostępną pod linkiem tego dnia; nabór zamyka się wcześniej, jeżeli wpłynie 350 zgłoszeń</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, laureaci trzech pierwszych miejsc plebiscytu na piosenkę wykonują nagrodzone utwory na żywo</small></dd></div>
 <div><dt>Po gali</dt><dd>Nagrania studyjne finalistów<small>termin sesji i przekazania materiału podamy przed otwarciem naboru</small></dd></div>

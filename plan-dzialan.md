@@ -1292,6 +1292,22 @@ Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmi
 
 **Czego to nie zmienia.** Vouchery zostają - są dodatkiem do honorarium, nie jego częścią - a limit dwudziestu zgłoszeń na czytelnika zostaje w regulaminie, bo chroni jakość czytania, a nie budżet.
 
+## Pakiet czytany na pięciu dokumentach naraz: cztery rozbieżności (5.11.2026)
+
+Jedenasta tura recenzji pierwsza czytała **pismo, ofertę, regulamin, stronę plebiscytu i arkusz razem** - i każda z czterech znalezionych wad siedziała w szczelinie między dokumentami, nie wewnątrz żadnego z nich.
+
+**Limit zgłoszeń policzony na jednym odsłuchu zamiast na pełnym wariancie.** Regulamin przy przesłuchaniu jednoosobowym wymaga także drugich odsłuchów w paśmie wokół granicy kwalifikacji, losowego audytu jednej dziesiątej odrzuconych oraz dzikich kart - razem około **1,33 odsłuchu na zgłoszenie**, nie jeden. Po przeliczeniu limity wynoszą **350 w rozmowie, piosence i plakacie oraz 250 w filmie** (wyżej niż wczorajsze 200, bo pełny wariant przy 250 filmach mieści się w puli). Każda oferta podaje dziś cały rachunek i mówi, **ile rezerwy zostaje na inne przekroczenia**: od 53% przy filmie do 70% przy piosence. To była osobna, trafna uwaga - ta sama rezerwa nie może być jednocześnie zabezpieczeniem całej realizacji i źródłem przepustowości.
+
+**Regulamin przeczył sam sobie.** § 10 ust. 6d mówił, że Organizator nie ogranicza liczby przyjmowanych zgłoszeń, a dodany wczoraj § 4 ust. 5 pozwala zamknąć nabór po osiągnięciu limitu. Rozdzielone: limit dotyczy **przyjmowania**, a przesunięcie terminu - **obsługi zgłoszeń już przyjętych**, których nie wolno pominąć. Przy okazji § 10 ust. 6e i jego odpowiednik w regulaminie filmu pozwalają najpierw **zwiększyć pulę honorariów z rezerwy**, a dopiero potem zmieniać tryb oceny - bez tego zapisu rezerwa nie mogłaby finansować tego, co obiecują oferty.
+
+**Strona plebiscytu nie mówiła uczestnikom o limicie.** Uczestnik ma napisać nową piosenkę na ten konkurs, więc musi wiedzieć przed rozpoczęciem pracy, że miejsca mogą się skończyć. Dziś mówi, wraz ze zdaniem, żeby nie zostawiać zgłoszenia na ostatni tydzień.
+
+**Kosztorys kupował kopie nagrań, których regulamin zabrania sporządzać.** § 15 ust. 6 regulaminu piosenki mówi wprost, że Organizator nie sporządza kopii nagrania - utwór zostaje na kanale Uczestnika - a w budżecie stało 3 300 zł na pobranie i opis kopii oraz 1 500 zł na pięcioletni magazyn. Zamiast tego: **7,5 godziny na sprawdzenie i opis metryk, okładek i linków oraz 500 zł magazynu bez plików dźwiękowych**. Z § 17 zniknęła wzmianka o sporządzaniu kopii archiwalnej. Kosztorys piosenki spada do **253 778,88 zł**.
+
+**Karta oceny przeczyła § 7.** W części „Czego karta nie rozstrzyga" stał wymóg, by od człowieka pochodziły kompozycja, **tekst** i wokal, podczas gdy § 7 dopuszcza tekst napisany z udziałem narzędzi generatywnych po zadeklarowaniu tego w zgłoszeniu. Pozostałość wcześniejszej wersji, usunięta.
+
+**Skutek uboczny, który trzeba znać przy każdej zmianie godzin:** zmniejszenie pracy organizatora w jednym budżecie przesuwa klucz podziału kosztu narzędzi AI, więc **drgają sumy wszystkich ośmiu budżetów**. Tym razem o kilkadziesiąt złotych każdy; suma edycji wynosi **2 162 552,86 zł**. Bez piątego testu w `sprawdz-kwoty.js` przeszłoby to niezauważone.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, honoraria jury, nagrania studyjne dla 10 finalistów i prowadzenie plebiscytu przez cały rok naboru.** Hymn Nagrody z teledyskiem ma [własną rolę i własny kosztorys](/oferta-dla-fundatora-hymnu-nagrody-konstela); można go objąć dodatkowo, ale nie jest częścią tej oferty.
 
-**Proponowany limit finansowania wynosi 301 680 zł netto** (371 066,40 zł brutto z VAT 23%). Obecnie wycenione pozycje to 256 851,04 zł netto (315 926,78 zł brutto), a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Proponowany limit finansowania wynosi 298 600 zł netto** (367 278 zł brutto z VAT 23%). Obecnie wycenione pozycje to 253 778,88 zł netto (312 148,02 zł brutto), a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
@@ -123,39 +123,39 @@ Dotarcie do twórców mieści się w pozycji **komunikacji plebiscytu, czyli 50 
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**Proponowany limit finansowania: 301 680 zł netto** (371 066,40 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. **Obecnie wycenione pozycje to 256 851,04 zł netto** (315 926,78 zł brutto); różnica 44 828,96 zł przypada na honoraria jury wraz z rezerwą, które czekają na uzgodnienie z jurorami, a ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**Proponowany limit finansowania: 298 600 zł netto** (367 278 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. **Obecnie wycenione pozycje to 253 778,88 zł netto** (312 148,02 zł brutto); różnica 44 821,12 zł przypada na honoraria jury wraz z rezerwą, które czekają na uzgodnienie z jurorami, a ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
 | **Nagrody plebiscytu dla laureatów** (czołowa trójka, brutto)  | **35 000 zł** |
 | Nagrody publiczności (brutto)                                  |      12 000 zł |
 | Nagrania studyjne 10 finalistów (7 500 zł za sesję x 10)       |      75 000 zł |
-| Praca organizatora (255 godz. po 220 zł)                       |      56 100 zł |
+| Praca organizatora (247,5 godz. po 220 zł)                     |      54 450 zł |
 | Medal zwycięzcy i dyplomy finalistów                           |       1 200 zł |
 | Honoraria jury za ocenę                                        |    do ustalenia |
 | Honoraria jury za etap przygotowawczy                          |    do ustalenia |
 | Realizacja części artystycznej gali                            |      do wyceny |
 | Obsługa prawna plebiscytu                                      |       8 000 zł |
 | Dojazd i nocleg 10 finalistów na galę                          |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |3 567zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |3 474zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
-| Magazyn kopii archiwalnych piosenek, 5 lat retencji            |       1 500 zł |
+| Magazyn okładek, metryk i dokumentacji zgłoszeń, 5 lat         |         500 zł |
 | Dokumentacja sesji studyjnych: zdjęcia, wideo, montaż          |      12 000 zł |
 | Akademia piosenki: honoraria za 300 odsłuchów, po 50 zł        |      15 000 zł |
 | Akademia piosenki: materiały kalibracyjne i szkolenie          |       3 000 zł |
 | Akademia piosenki: udział w panelu oceniających                |       1 000 zł |
-| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   22 484,04 zł |
-| **Razem netto**                                                | **256 851,04 zł** |
-| VAT 23%                                                        |      59 075,74 zł |
-| **Do zapłaty brutto**                                          | **315 926,78 zł** |
+| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   22 154,88 zł |
+| **Razem netto**                                                | **253 778,88 zł** |
+| VAT 23%                                                        |      58 369,14 zł |
+| **Do zapłaty brutto**                                          | **312 148,02 zł** |
 
-**Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 301 680 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
+**Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 298 600 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
 Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa 12%, która je obejmie - razem około 43 680 zł. **Zapas nad tym rachunkiem jest więc niecałe 1 200 zł** i mówimy to wprost: jeżeli honoraria jury wypadną wyżej niż szacunek, wyższą kwotę trzeba uzgodnić, zanim umowa zostanie podpisana. **Limit wpisany do umowy jest ostateczny** - w trakcie edycji nie podnosimy go ani aneksem, ani w żaden inny sposób, a brakującą część pokrywa Organizator z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu.
 
 **Realizacja części artystycznej gali jest poza tym limitem** i jest uzgadniana osobnym aneksem. Powód mówimy wprost, zamiast wpisywać wygodną liczbę: koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie, i dopóki miejsce gali nie jest wybrane, każda kwota byłaby zgadywaniem. Limit, który obejmowałby tę pozycję, albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. Fundator nie jest przy tym zobowiązany do objęcia tej pozycji: jeżeli jej nie weźmie, część artystyczna szuka osobnego finansowania albo gala odbywa się bez koncertu.
 
-**Praca organizatora to 255 godzin po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się na 8 nazwanych zakresów:
+**Praca organizatora to 247,5 godziny po 220 zł** - stawka taka sama we wszystkich budżetach Nagrody i jawna w arkuszu. Godziny rozkładają się na 8 nazwanych zakresów:
 
 - kontrola formalna zgłoszeń - 25 godz.
 - koordynacja nagrań studyjnych 10 finalistów - 40 godz.
@@ -164,9 +164,9 @@ Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honor
 - komunikacja plebiscytu i dotarcie do wykonawców - 50 godz.
 - budowa Słuchalni i Archiwum piosenek - 50 godz.
 - prowadzenie Słuchalni i Archiwum przez rok naboru i po werdykcie - 25 godz.
-- pobranie, opis i sprawdzenie kopii archiwalnych zgłoszonych utworów - 15 godz.
+- sprawdzenie i opis metryk, okładek i linków zgłoszeń - 7,5 godz.
 
-**Słuchalnia i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych, i sam przechowuje kopie archiwalne zgłoszeń przez pięć lat. Kopia nie jest udostępniana publicznie: utwór odtwarza się dalej z serwisu wykonawcy, a kopia służy dokumentacji edycji i ustaleniu, która wersja brała w niej udział. Dzięki temu trwały rezultat plebiscytu nie zależy od tego, czy znajdą się partnerzy pozostałych ról.
+**Słuchalnia i Archiwum należą do tego plebiscytu, nie do wspólnych narzędzi.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych. **W tym plebiscycie Organizator nie sporządza kopii nagrań** (§ 15 ust. 6 regulaminu): utwór zostaje na kanale Uczestnika, a Archiwum przechowuje link, okładkę, dane zgłoszenia i metrykę nagrania przez pięć lat. Pozycja kosztorysu odpowiada temu zakresowi - 7,5 godziny pracy i 500 zł magazynu - i nie obejmuje przechowywania plików dźwiękowych. Dzięki temu trwały rezultat plebiscytu, czyli Słuchalnia i Archiwum, nie zależy od tego, czy znajdą się partnerzy pozostałych ról.
 
 **3 pozycje czekają na wycenę i zostaną uzgodnione osobno**, a żadna z nich nie jest ukryta w kwocie powyżej:
 
@@ -175,7 +175,7 @@ Limit zostawia nad dzisiejszym kosztorysem 44 828,96 zł i jest policzony: honor
 - **realizacja części artystycznej gali** - do wyceny, bo zależy od miejsca gali: nagłośnienie, backline i próby znaczą co innego w sali teatralnej, a co innego w klubie;
 Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się w kwocie powyżej**: dojazd i nocleg 10 finalistów na galę - 8 000 zł. Udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
 
-**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 187 367 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
+**Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 184 624 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
@@ -189,13 +189,13 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
-| Przed otwarciem naboru | 65 267 zł | nagrody plebiscytu 35 000, nagrody publiczności 12 000, medal i dyplomy 1 200 - czyli 48 200 zł puli, której regulamin nie pozwala ogłosić bez pokrycia - oraz koszty ponoszone przed naborem: obsługa prawna 8 000, udział w narzędziach 3 567, magazyn kopii archiwalnych 1 500, materiały kalibracyjne i szkolenie Akademii 3 000, udział w panelu oceniających 1 000 |
+| Przed otwarciem naboru | 64 174 zł | nagrody plebiscytu 35 000, nagrody publiczności 12 000, medal i dyplomy 1 200 - czyli 48 200 zł puli, której regulamin nie pozwala ogłosić bez pokrycia - oraz koszty ponoszone przed naborem: obsługa prawna 8 000, udział w narzędziach 3 474, materiały kalibracyjne i szkolenie Akademii 3 000, udział w panelu oceniających 1 000, magazyn okładek i metryk 500 |
 | Po zakończeniu pierwszej rundy oceny | 15 000 zł | honoraria oceniających za 300 odsłuchów, rozliczane od liczby odsłuchów faktycznie wykonanych |
 | Po zakończeniu oceny jury | według umów z jurorami | honoraria jury, w kwotach z tych umów i bez narzutu; dziś pozycja bez kwoty, mieszcząca się w limicie |
 | Po gali | 11 000 zł | dojazd i nocleg dziesięciu finalistów 8 000, honoraria zespołu wybierającego najlepsze uzasadnienie głosu 3 000 |
 | Po sesjach studyjnych, sesja po sesji | 87 000 zł | nagrania 75 000 po fakturach studia oraz dokumentacja sesji 12 000 po przekazaniu materiałów |
-| Etapami, po odbiorze | 56 100 zł oraz rezerwa | praca organizatora w częściach odpowiadających godzinom wykazanym w raporcie etapu, a na końcu rezerwa 22 484,04 zł w części wykorzystanej |
-| **Razem** | **256 851,04 zł** | 65 267 + 15 000 + 11 000 + 87 000 + 56 100 + 22 484,04, obok honorariów jury mieszczących się w limicie |
+| Etapami, po odbiorze | 54 450 zł oraz rezerwa | praca organizatora w częściach odpowiadających godzinom wykazanym w raporcie etapu, a na końcu rezerwa 22 154,88 zł w części wykorzystanej |
+| **Razem** | **253 778,88 zł** | 64 174 + 15 000 + 11 000 + 87 000 + 54 450 + 22 154,88, obok honorariów jury mieszczących się w limicie |
 
 Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Faktura wychodzi osobno do każdego etapu.
 
@@ -207,7 +207,7 @@ Rola jest rozłączna z pozostałymi, ale nie jest samotną wyspą - i lepiej po
 
 **Fundacja - zależność bezwzględna, ale nie Państwa ryzyko.** Umowę zawiera fundacja po wpisie do Krajowego Rejestru Sądowego, a jej powołanie i obsługa należą do roli [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela). Jeżeli fundacji nie będzie, **nie ma z kim podpisać umowy i nie ma żadnej wpłaty**.
 
-**Narzędzia wspólne - zależność realna, z rozwiązaniem zastępczym.** Panel oceny i narzędzie automatycznej kontroli formalnej stoją w budżecie uruchomienia, czyli u Mecenasa Założycielskiego. Gdyby ta rola pozostała nieobsadzona, **plebiscyt da się przeprowadzić ręcznie w granicach przepustowości objętej kosztorysem**: kontrola formalna jednego zgłoszenia to 10 minut i te godziny są w tej ofercie, a ocena może iść na formularzach zamiast w panelu. **Powyżej tej przepustowości rozchodzą się dwie rzeczy, które trzeba rozdzielić.** Ocena przechodzi w tryb przesiewu z § 8 - jedno przejście zamiast dwóch, drugie tylko poniżej progu punktowego - i to ogranicza koszt honorariów. Kontrola formalna tak się nie skaluje, bo dotyczy każdego zgłoszenia niezależnie od trybu oceny. Dlatego mówimy wprost, kto ją wykona: **jest to praca Organizatora i to on ponosi jej nadmiar, bez dopłaty ze strony Fundatora** - wykorzystując w tej kolejności wydłużenie terminu weryfikacji w granicach regulaminu, pracę własną ponad kosztorys oraz, jeżeli to nie wystarczy, zamknięcie naboru w terminie regulaminowym bez jego przedłużania. **Granica tej ścieżki jest policzona, a nie pozostawiona obietnicy pracy ponad siły**, i regulamin zamyka ją dwiema liczbami ogłaszanymi przed otwarciem naboru (§ 4 ust. 5-7):
+**Narzędzia wspólne - zależność realna, z rozwiązaniem zastępczym.** Panel oceny i narzędzie automatycznej kontroli formalnej stoją w budżecie uruchomienia, czyli u Mecenasa Założycielskiego. Gdyby ta rola pozostała nieobsadzona, **plebiscyt da się przeprowadzić ręcznie w granicach przepustowości objętej kosztorysem**: kontrola formalna jednego zgłoszenia to 10 minut i te godziny są w tej ofercie, a ocena może iść na formularzach zamiast w panelu. **Powyżej tej przepustowości rozchodzą się dwie rzeczy, które trzeba rozdzielić.** Ocena przechodzi w tryb przesiewu z § 8 - jedno przejście zamiast dwóch, drugie tylko poniżej progu punktowego - i to ogranicza koszt honorariów. Kontrola formalna tak się nie skaluje, bo dotyczy każdego zgłoszenia niezależnie od trybu oceny. Dlatego mówimy wprost, kto ją wykona: **jest to praca Organizatora i to on ponosi jej nadmiar, bez dopłaty ze strony Fundatora** - wykorzystując w tej kolejności wydłużenie terminu weryfikacji w granicach regulaminu, pracę własną ponad kosztorys oraz, jeżeli to nie wystarczy, zamknięcie naboru w terminie regulaminowym bez jego przedłużania. **Limit zgłoszeń policzony na pełnym wariancie oceny.** Regulamin pozwala zamknąć nabór przed terminem po osiągnięciu limitu ogłoszonego w dniu jego otwarcia, a w pierwszej edycji limit ten wynosi **350 zgłoszeń**. Rachunek obejmuje wszystko, czego wymaga regulamin powyżej przepustowości objętej kosztorysem, a nie sam pierwszy odsłuch: przy 350 zgłoszeniach w trybie jednoosobowym wypada około **464 odsłuchów** - pierwsze przejście, obowiązkowe drugie w paśmie wokół granicy kwalifikacji, losowy audyt jednej dziesiątej odrzuconych oraz dzikie karty. Ponad odsłuchy objęte kosztorysem daje to **8 200 zł** honorariów po 50 zł, a kontrola formalna dodatkowych zgłoszeń **7 334 zł** po 36,67 zł za zgłoszenie - razem **15 534 zł**, czyli około 70% rezerwy wynoszącej 22 154,88 zł. **Pozostała jedna trzecia rezerwy zostaje na to, do czego rezerwa służy**: przekroczenia pozostałych pozycji kosztorysu. Limit nie jest sposobem na ograniczenie zainteresowania, tylko zobowiązaniem, że **każde przyjęte zgłoszenie zostanie ocenione**; zgłoszenie wysłane przed zamknięciem naboru podlega ocenie, późniejsze nie jest przyjmowane i nadawca dostaje o tym zawiadomienie. **Po przekroczeniu przepustowości objętej kosztorysem uruchamiamy z rezerwy dodatkową obsługę** - ludzi do kontroli formalnej i oceny albo narzędzie automatyzujące sprawdzanie wymogów formalnych.
 
 - **Po przekroczeniu przepustowości objętej kosztorysem Organizator uruchamia dodatkową obsługę** - dodatkowe osoby do kontroli formalnej i oceny albo narzędzie automatyzujące sprawdzanie wymogów formalnych. **Źródłem finansowania jest rezerwa tej roli, czyli 22 484,04 zł.** Uruchomienie ogłaszamy w Słuchalni, a wykorzystanie rezerwy wykazujemy w sprawozdaniu co do pozycji.
 - **Nabór zamyka się po osiągnięciu 400 zgłoszeń**, czyli tam, gdzie kończy się rezerwa. Rachunek jest prosty: jedno zgłoszenie ponad przepustowość kosztuje **86,67 zł** - 36,67 zł kontroli formalnej i 50 zł za jeden odsłuch w trybie przesiewu - więc rezerwa pokrywa około 259 zgłoszeń ponad 150. Limit ogłaszany jest w dniu otwarcia naboru razem z terminami, więc żaden uczestnik nie dowiaduje się o nim po fakcie; zgłoszenie wysłane przed zamknięciem podlega ocenie, późniejsze nie jest przyjmowane i nadawca dostaje o tym zawiadomienie.
@@ -356,7 +356,7 @@ Rola nie obejmuje:
 
 Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody, wpisana do KRS przed otwarciem naboru. Regulamin ma charakter przyrzeczenia publicznego w rozumieniu art. 919 Kodeksu cywilnego i przed otwarciem naboru przechodzi konsultację prawną. **Umowę podpisuje już ta fundacja, nie osoba prywatna.** Kolejność jest więc taka: Fundator składa deklarację, fundacja zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura.
 
-**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 255 godzin, wykonuje **jednoosobowa działalność gospodarcza Organizatora**, to znaczy ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to **transakcja z podmiotem powiązanym** i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
+**Kto wykonuje prace, za które Fundator płaci.** Pozycję „praca organizatora", czyli 247,5 godziny, wykonuje **jednoosobowa działalność gospodarcza Organizatora**, to znaczy ten sam człowiek, który prowadzi Nagrodę; fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu, po 220 zł za godzinę. Piszemy to wprost, bo jest to **transakcja z podmiotem powiązanym** i Fundator ma prawo wiedzieć o niej przed podpisaniem umowy, a nie po.
 
 - Umowę z tą działalnością zawiera **Rada Fundacji**, bo statut powierza jej umowy z członkami Zarządu i nie może w niej zasiadać żaden członek Zarządu.
 - Rada przyjmuje też raporty etapów i zatwierdza rozliczenie godzin. **Fundator może wskazać osobę, która otrzymuje te raporty.**
@@ -386,12 +386,12 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 284,96 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 293,92 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 926,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 731,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 459,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 673,60 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 309,60 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 314,08 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 945,76 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 737,40 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 487,20 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 675,84 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
