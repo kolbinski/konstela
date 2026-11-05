@@ -291,7 +291,7 @@ Prawa do zgłoszonych utworów pozostają w całości przy ich autorach. Organiz
 
 ### Jury
 
-Udział zadeklarował Michał Sołtan, wokalista, półfinalista 14. edycji programu The Voice of Poland. Pozostali członkowie są w trakcie ustalania i nie wymieniam ich, dopóki nie potwierdzą udziału na piśmie.
+Udział zadeklarował pierwszy juror, wokalista o dorobku estradowym. Skład jest w trakcie ustalania i nie wymieniam nazwisk, dopóki wszyscy nie potwierdzą udziału na piśmie.
 
 ### Hymn
 

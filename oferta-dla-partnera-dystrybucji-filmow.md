@@ -90,7 +90,6 @@ Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 
 Role są rozdzielne i można objąć więcej niż jedną. Wszystkie zakresy zbiera strona [Dla partnerów](/dla-partnerow).
 
-
 ## <!--ikona:koperta--><span>Kontakt</span>
 
 Propozycję omawiamy bez zobowiązań, w dowolnej formie - spotkania, rozmowy telefonicznej albo wymiany pism. Jeżeli zakres w tej postaci jest dla Państwa za szeroki, powiedzcie, którą jego część widzicie u siebie.

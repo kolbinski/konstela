@@ -286,7 +286,6 @@ Poza tytułem:
 - **Wymienienie przy każdej wzmiance o puli nagród plakatu** w materiałach Organizatora.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z wystawy i gali oraz cytatami jurorów.
 - **Udział pracowników Mecenasa** w Akademii plakatu, na tych samych zasadach co pozostali oceniający.
-- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
 **Rozliczenie następuje dwa razy**, bo licytacja przy wystawie w galerii kończy się później niż edycja. W ciągu sześćdziesięciu dni od ogłoszenia wyników Mecenas otrzymuje **sprawozdanie z wykonania budżetu** w podziale na pozycje z tabeli powyżej, wraz z wykorzystaniem rezerwy, listą wypłaconych nagród, rozliczeniem wydruków i wystawy przy gali oraz rozliczeniem oględzin według faktycznej liczby wezwań jury.

@@ -251,7 +251,6 @@ Poza tytułem:
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
 - **Udział pracowników Fundatora** w Akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
 - **Jedno spotkanie zespołu Fundatora z laureatami** - do dwóch godzin, w siedzibie Fundatora albo zdalnie, w ciągu sześciu miesięcy od ogłoszenia werdyktu, z udziałem laureata i jednego jurora; organizację i koszt przyjazdu pokrywa ta oferta. **Spotkanie nie zależy od gali** i odbywa się także wtedy, gdy gali nie będzie. Jedno zastrzeżenie, bo inaczej obiecywalibyśmy cudzą obecność: udział laureata jest dobrowolny i jeżeli odmówi, proponujemy spotkanie z jurorem oraz z autorem innej rozmowy z dziesiątki.
-- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
 **Rozliczenie:** w ciągu sześćdziesięciu dni od ogłoszenia wyników Fundator otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy i listą wypłaconych nagród.

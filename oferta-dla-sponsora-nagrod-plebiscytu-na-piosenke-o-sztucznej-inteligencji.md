@@ -48,7 +48,6 @@ Karta oceny nie jest zapowiedzią. **Jest napisana, opublikowana i opisuje każd
 
 Mówimy o tym w ofercie, bo sponsor nagrody w plebiscycie kupuje wiarygodność werdyktu, a nie samą pulę. **Werdykt, którego nie da się obronić, jest kosztem dla tego, kto go sfinansował** - dlatego punktacja wszystkich etapów jest jawna przy każdym zgłoszeniu, także przy nienagrodzonych, a każda ocena wymaga wskazania miejsca w utworze.
 
-
 ### Melodia i głos są ludzkie, przy tekście wolno posiłkować się AI
 
 Regulamin wyklucza melodię i harmonię przejętą z generatora piosenek, a partia wokalna musi być w całości ludzka, bez wyjątków. Tekst wolno napisać z udziałem sztucznej inteligencji, trzeba tylko w zgłoszeniu opisać, jak powstał; deklaracja jest publikowana razem ze zgłoszeniem i **nie wpływa na ocenę**. To jest zdanie, które Fundator może powtórzyć na zarządzie: plebiscyt nie jest konkursem dla generatorów, a jednocześnie nie udaje, że nikt z AI nie pracuje.
@@ -266,7 +265,6 @@ Poza tytułem:
 - **Wystąpienie przedstawiciela Fundatora na gali** oraz wręczenie nagrody głównej plebiscytu, wraz z kilkoma zdaniami o tym, dlaczego firma postanowiła sfinansować piosenki o sztucznej inteligencji.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
 - **Udział pracowników Fundatora** w Akademii piosenki, na tych samych zasadach co pozostali oceniający.
-- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Fundatora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: 60 dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
 ### Minimalny pakiet publikacji i materiałów, zapisany w umowie

@@ -132,7 +132,6 @@ Poza tytułem:
 - **Obecność w zapisie wideo** - w czołówce nagrania udostępnianego bezpłatnie, czyli w materiale, który zostaje po wieczorze.
 - **Wystąpienie przedstawiciela Sponsora** na gali, o tym, dlaczego firma postanowiła wziąć na siebie ten wieczór.
 - **Prawo używania tytułu we własnej komunikacji**: w raporcie niefinansowym, na stronie firmy i w materiałach wewnętrznych, wraz z pakietem gotowych materiałów - znakiem Nagrody, opisem przedsięwzięcia i zdjęciami z gali.
-- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Sponsora nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo przy drugiej edycji**: 60 dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o tej roli z kimkolwiek innym.
 
 **Rozliczenie:** w ciągu 60 dni od gali Sponsor otrzymuje sprawozdanie z wykonania budżetu w podziale na pozycje z tabeli powyżej, wraz z informacją o wykorzystaniu rezerwy, dokumentacją fotograficzną i zapisem wideo.

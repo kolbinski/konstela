@@ -219,7 +219,6 @@ Poza tytułem Mecenas otrzymuje:
 - **Wystąpienie przedstawiciela Mecenasa podczas gali rozstrzygnięcia** - o tym, dlaczego firma postanowiła sfinansować powstanie Nagrody.
 - **Prawo używania tytułu we własnej komunikacji** - w raporcie niefinansowym, na stronie firmy, w materiałach wewnętrznych i rekrutacyjnych - wraz z pakietem gotowych materiałów: znakiem Nagrody, opisem przedsięwzięcia, zdjęciami z gali i cytatami jurorów.
 - **Udział pracowników Mecenasa** w Akademii oceniającej, na tych samych zasadach co pozostali czytelnicy.
-- **Wyłączność w kategorii**: przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej.
 - **Pierwszeństwo do pozostałych ról przy drugiej edycji**: sześćdziesiąt dni od rozliczenia pierwszej na decyzję, zanim rozmawiamy o nich z kimkolwiek innym. Rola założycielska jest z natury jednorazowa - powstanie finansuje się raz - więc pierwszeństwo dotyczy innych zakresów.
 
 ## <!--ikona:waga--><span>Czego oferta nie obejmuje</span>

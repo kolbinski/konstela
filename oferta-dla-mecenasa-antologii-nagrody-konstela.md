@@ -251,8 +251,6 @@ Wydanie drukowane ma być dostępne w dniu gali, więc laureaci odbierają ksią
 
 Nazwa Mecenasa pozostaje w Antologii trwale: w każdym wydanym egzemplarzu, w każdym pobranym pliku i w każdym odsłuchanym nagraniu, bez względu na to, jak długo Organizator będzie ją udostępniał na swojej stronie. Uczestnicy udzielają Organizatorowi licencji na pięć lat; udostępnianie przez stronę Nagrody gwarantujemy na ten okres, a dalsze zależy od brzmienia licencji po konsultacji prawnej. Egzemplarzy już wydanych i plików już pobranych nie dotyczy to w żadnym stopniu. To jest różnica między sponsoringiem wydarzenia a mecenatem publikacji: wydarzenie się kończy, a wydana książka zostaje.
 
-**Wyłączność w kategorii.** Przez całą edycję żadna firma z branży Mecenasa nie obejmie w Nagrodzie jakiejkolwiek roli partnerskiej - ani fundatora puli nagród, ani sponsora gali, ani mecenasa pozostałych plebiscytów. Żaden inny partner nie otrzyma też tytułu zawierającego słowo „Mecenas".
-
 **Pierwszeństwo przy drugiej edycji.** Propozycja dotyczy pierwszej edycji, ale zależy nam na współpracy wieloletniej. Mecenas ma sześćdziesiąt dni od rozliczenia pierwszej edycji na decyzję o drugiej, zanim rozmawiamy o tej roli z kimkolwiek innym - po rozstrzygnięciu, gdy obie strony widzą efekt, a nie zapowiedź.
 
 ## <!--ikona:tarcza--><span>Czego propozycja nie obejmuje</span>
