@@ -26,7 +26,7 @@ Nagroda przyznawana będzie w czterech kategoriach:
 1.  **Rozmowa z AI** - uczestnik zgłasza link do rzeczywistej rozmowy, którą odbył z dowolnym modelem językowym udostępniającym funkcję publikacji rozmowy pod linkiem. Nagroda nie wskazuje ani nie promuje żadnego dostawcy LLM. Nie przyjmujemy transkryptów w plikach, ponieważ tekst w pliku można dowolnie zredagować. Link jest zabezpieczeniem mocniejszym, choć nie rozstrzygającym: pokazuje zapis po stronie dostawcy, razem z pytaniami nieudanymi, ale sam w sobie nie dowodzi, w jakich okolicznościach rozmowa powstała - temu służą dalsze zabezpieczenia opisane w [rozdziale 3](#3-plebiscyt-na-rozmowe-z-ai), w podrozdziale „Uczciwość plebiscytu".
 2.  **Film o sztucznej inteligencji** - otwarty plebiscyt na film trwający od 20 do 90 minut, w dowolnej formie: fabularnej, dokumentalnej, eseju filmowego, animacji albo mieszanej. Film ma powstać na potrzeby plebiscytu i zostać ukończony w roku edycji. Zgłoszeniem jest link do filmu i do zwiastuna, publicznie dostępnych w serwisie YouTube; organizator nie przechowuje kopii. W tej jednej kategorii nie ma zakazu posługiwania się narzędziami sztucznej inteligencji - jest obowiązek deklaracji, publikowanej razem ze zgłoszeniem i niepodlegającej punktacji. Opisuje ją [rozdział 9](#9-plebiscyt-na-film).
 3.  **Piosenka o sztucznej inteligencji** - otwarty plebiscyt na utwór autorski. Zgłoszeniem jest czytelne nagranie demonstracyjne, nie gotowy singiel, żeby o udziale nie decydowała wysokość kosztów produkcji. Melodia, harmonia i wokal muszą pochodzić od człowieka; tekst wolno napisać przy udziale sztucznej inteligencji pod warunkiem opisania sposobu pracy. Dziesięciu finalistów otrzymuje nagranie studyjne na koszt organizatora, z prawami pozostającymi przy autorach. Opisuje ją [rozdział 7](#7-plebiscyt-na-piosenke).
-4.  **Plakat o sztucznej inteligencji** - otwarty plebiscyt na plakat wykonany ręcznie dowolną techniką tradycyjną: farbą, tuszem, kolażem. Obowiązuje tu reguła ostrzejsza niż przy piosence, bo ocenianym wytworem jest sam obraz: niedopuszczalna jest praca wygenerowana, przemalowana z obrazu wygenerowanego albo domalowana na wydrukowanym podkładzie. Zgłasza się zdjęcie albo skan, oryginały nadsyłają dopiero finaliści, a praca zwycięska trafia na okładkę Antologii. Opisuje ją [rozdział 8](#8-plebiscyt-na-plakat).
+4.  **Plakat o sztucznej inteligencji** - otwarty plebiscyt na plakat wykonany ręcznie dowolną techniką tradycyjną: farbą, tuszem, kolażem. Obowiązuje tu reguła ostrzejsza niż przy piosence, bo ocenianym wytworem jest sam obraz: niedopuszczalna jest praca wygenerowana, przemalowana z obrazu wygenerowanego albo domalowana na wydrukowanym podkładzie. Zgłasza się zdjęcie albo skan, przysłanie oryginału nie jest obowiązkiem uczestnika, a praca zwycięska trafia na okładkę Antologii. Opisuje ją [rozdział 8](#8-plebiscyt-na-plakat).
 
 Wyniki wszystkich czterech kategorii ogłaszane są podczas wspólnej gali.
 
@@ -200,8 +200,8 @@ Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuj
 
 - **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 662 497,76 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
 - **Sponsor gali** - 52 693,76 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
-- **Partner wydawniczy lub sponsor organizacyjny** - 128 775,90 zł<small>produkcja bezpłatnej Antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
-- **Mecenas Założycielski** - 232 699,50 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
+- **Partner wydawniczy lub sponsor organizacyjny** - 128 775,90 zł<small>produkcja bezpłatnej Antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum</small>
+- **Mecenas Założycielski** - 232 699,50 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny, poczta i hosting strony, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
 - **Sponsor podcastu** - 21 732,70 zł<small>podcast towarzyszący Nagrodzie: wyceniona jest koordynacja podcastu w dwóch cyklach wraz z udziałem w kosztach narzędzi; produkcja i honorarium prowadzącego czekają na wycenę. Budżet wydzielony z części wydawniczej, żeby ta sama rzecz nie była finansowana przez jednego partnera i oferowana drugiemu</small>
 - **Razem, pozycje obecnie wycenione - 1 098 399,62 zł**
 
@@ -229,7 +229,7 @@ Rozumiem, że programy wsparcia kultury przewidują określony udział środków
 
 ### Zestawienie zadania: co, w którym roku, z czego i o co pytam
 
-Pełne zestawienie wszystkich czternastu działań - z rezultatem, rokiem kosztu, obecnie wycenioną kwotą netto, planowanym źródłem finansowania i wskazaniem, czy pozycja należy do zakresu mojego pytania - zawiera **załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania)** w postaci arkusza kalkulacyjnego.
+Pełne zestawienie wszystkich dziesięciu działań - z rezultatem, rokiem kosztu, obecnie wycenioną kwotą netto, planowanym źródłem finansowania i wskazaniem, czy pozycja należy do zakresu mojego pytania - zawiera **załącznik [„Zestawienie zadania"](https://konstela.org/arkusz/zestawienie-zadania)** w postaci arkusza kalkulacyjnego.
 
 Ostatnia kolumna zestawienia mówi, czy pozycja mieści się w zakresie mojego pytania, a nie czy proszę o jej sfinansowanie: **pytam o właściwy program i o tryb, nie o środki, i o żadną z wymienionych kwot nie wnoszę**. Wiersze oznaczone „nie" mają być finansowane z innych źródeł i wymieniam je po to, aby było widoczne, że o te same pozycje nie zwracam się jednocześnie do dwóch źródeł.
 
@@ -245,9 +245,9 @@ Pozycje objęte pytaniem sumują się dziś do **1 019 236,16 zł** i jest to su
 
 Podana suma obejmuje wyłącznie pozycje obecnie wycenione. **Nie obejmuje kosztów oznaczonych w arkuszu jako „do wyceny" albo „do ustalenia"**, a te w zakresie pytania są następujące:
 
-- w plebiscycie na piosenkę: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja części artystycznej gali, obsługa prawna, dojazd i nocleg finalistów, zewnętrzne wydatki promocyjne, czyli zakup zasięgu, materiały i współpraca z mediami branżowymi;
-- w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, realizacja wystawy przy gali, obsługa prawna, dojazd i nocleg finalistów;
-- w plebiscycie na film: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny, przygotowanie techniczne zwiastunów do emisji galowej oraz obsługa prawna; pokaz kuratorski filmów finałowych i magazyn kopii archiwalnych są już wycenione i wchodzą do sumy, a dojazd i nocleg finalistów na galę należy do Budżetu Gali;
+- w plebiscycie na piosenkę: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny oraz realizacja części artystycznej gali;
+- w plebiscycie na plakat: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny oraz oprawa wystawy przy gali ponad postać gwarantowaną, która ma w kosztorysie 8 000 zł;
+- w plebiscycie na film: honoraria jury za ocenę, honoraria jury za etap przygotowania karty oceny oraz przygotowanie techniczne zwiastunów do emisji galowej; pokaz kuratorski filmów finałowych, magazyn kopii archiwalnych, obsługa prawna oraz dojazd i nocleg finalistów są już wycenione i wchodzą do sumy;
 - w podcaście: produkcja odcinków wraz z honorarium prowadzącego.
 
 Wycena każdej z nich powstanie przed złożeniem jakiegokolwiek wniosku. Powody, dla których dziś ich nie podaję, są wypisane w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film) przy odpowiednich kosztorysach.
@@ -327,7 +327,7 @@ Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 22 165,92 zł |
 | **Razem, pozycje obecnie wycenione** | **253 881,92 zł** |
 
-Tabela obejmuje wyłącznie plebiscyt na piosenkę. **Hymn „Zapytaj inaczej" wraz z teledyskiem jest osobną zakładką kosztorysu i osobną rolą partnerską: 89 600 zł netto**, czyli 80 000 zł produkcji nagrania i teledysku oraz 9 600 zł rezerwy. Razem obie pozycje dają 343 378,88 zł. Hymn nie startuje w plebiscycie, nie podlega ocenie i rozlicza się niezależnie od werdyktu, dlatego ma własny kosztorys i własnego fundatora.
+Tabela obejmuje wyłącznie plebiscyt na piosenkę. **Hymn „Zapytaj inaczej" wraz z teledyskiem jest osobną zakładką kosztorysu i osobną rolą partnerską: 89 600 zł netto**, czyli 80 000 zł produkcji nagrania i teledysku oraz 9 600 zł rezerwy. Razem obie pozycje dają 343 481,92 zł. Hymn nie startuje w plebiscycie, nie podlega ocenie i rozlicza się niezależnie od werdyktu, dlatego ma własny kosztorys i własnego fundatora.
 
 W pracy organizatora mieszczą się między innymi 5 500 zł kontroli formalnej zgłoszeń, rozliczanej według faktycznej ich liczby po 10 minut na zgłoszenie, oraz 16 500 zł budowy i prowadzenia Słuchalni wraz z Archiwum piosenek.
 
@@ -367,7 +367,7 @@ Dlatego premiera hymnu przypada na czas trwania naboru, a nie na zamknięcie edy
 
 Otwarty plebiscyt na plakat o sztucznej inteligencji i jej roli w świecie, wykonany ręcznie: farbą, tuszem, kolażem, dowolną techniką tradycyjną. Adresatami są twórcy rozwijający własną praktykę - ilustratorzy, malarze, studenci szkół artystycznych, projektanci - i nie pytamy o wystawy, dyplomy ani o przynależność do galerii. Zgłasza się zdjęcie albo skan pracy, nie oryginał, aby koszt wysyłki nie decydował o tym, kto weźmie udział.
 
-Praca nie może być wygenerowana, przemalowana z obrazu wygenerowanego ani domalowana na wydrukowanym podkładzie - i to jest zakaz sprawdzalny, bo opiera się na nagraniu z powstawania pracy i na oględzinach oryginałów finalistów. Natomiast **korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy, nie jest zakazane, lecz objęte obowiązkiem deklaracji**: uczestnik opisuje, do czego ich użył, deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji. Zakaz obejmujący etap poszukiwań byłby niesprawdzalny - nikt nie jest w stanie ustalić, czego ktoś szukał, zanim wziął pędzel - więc karałby wyłącznie uczciwych. Jest to ta sama konstrukcja co w plebiscycie na film, przy mocniejszym zakazie dotyczącym samego wykonania pracy.
+Praca nie może być wygenerowana, przemalowana z obrazu wygenerowanego ani domalowana na wydrukowanym podkładzie - i to jest zakaz sprawdzalny, bo opiera się na nagraniu z powstawania pracy, a tam, gdzie nagranie i dokumentacja nie rozstrzygają, jury może zażądać oryginału pracy finałowej do oględzin. Natomiast **korzystanie z narzędzi generatywnych na etapie poszukiwań, przed przystąpieniem do pracy, nie jest zakazane, lecz objęte obowiązkiem deklaracji**: uczestnik opisuje, do czego ich użył, deklaracja jest publikowana razem ze zgłoszeniem i nie podlega punktacji. Zakaz obejmujący etap poszukiwań byłby niesprawdzalny - nikt nie jest w stanie ustalić, czego ktoś szukał, zanim wziął pędzel - więc karałby wyłącznie uczciwych. Jest to ta sama konstrukcja co w plebiscycie na film, przy mocniejszym zakazie dotyczącym samego wykonania pracy.
 
 Format jest pionowy, dłuższy bok od 50 do 150 cm. Wszystkie zgłoszenia ogląda Akademia plakatu, powoływana w każdej edycji, i przekazuje jury listę węższą według tej samej karty oceny; wybór dziesięciu finalistów i kolejność całej dziesiątki pozostają przy jury; kryteria oceny są ogłaszane przed naborem, tak samo jak w pozostałych plebiscytach.
 
@@ -384,13 +384,13 @@ Cztery kryteria, łącznie 100 punktów, te same dla Akademii i dla jury. Karty 
 
 Niedopuszczalne jest zgłoszenie pracy wygenerowanej, przemalowanej z obrazu wygenerowanego albo domalowanej na wydrukowanym podkładzie; dopuszczalne jest natomiast posługiwanie się takim narzędziem przy poszukiwaniu pomysłów, zanim autor weźmie pędzel. Zakaz dotyczy pochodzenia zgłoszonej pracy, a nie tego, czego autor szukał po drodze.
 
-Granica jest tu twardsza niż w plebiscycie na piosenkę, gdzie tekst wolno napisać przy udziale sztucznej inteligencji, i wynika to z tej samej zasady: ocenianym wytworem jest sam obraz, a nie jeden z kilku składników utworu. Weryfikacja opiera się na oświadczeniu zgłaszającego, na obowiązkowym nagraniu z powstawania pracy, trwającym co najmniej 3 minuty, na dobrowolnych materiałach dodatkowych oraz na oryginałach nadsyłanych przez finalistów; nie opiera się na rozpoznawaniu narzędzia przez jury podczas oglądania reprodukcji.
+Granica jest tu twardsza niż w plebiscycie na piosenkę, gdzie tekst wolno napisać przy udziale sztucznej inteligencji, i wynika to z tej samej zasady: ocenianym wytworem jest sam obraz, a nie jeden z kilku składników utworu. Weryfikacja opiera się na oświadczeniu zgłaszającego, na obowiązkowym nagraniu z powstawania pracy, trwającym co najmniej 3 minuty, na dobrowolnych materiałach dodatkowych oraz na oględzinach oryginału, o które jury może się zwrócić wobec pracy finałowej wtedy, gdy nagranie i dokumentacja nie rozstrzygają; nie opiera się na rozpoznawaniu narzędzia przez jury podczas oglądania reprodukcji.
 
 Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie pozostaje w plebiscycie - wyklucza je dopiero wykazana nieprawda w oświadczeniu.
 
 ### Prawa
 
-Praca pozostaje własnością autora, wraz z prawami autorskimi i prawem do sprzedaży oryginału. Organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: reprodukcja w galerii zgłoszeń i w Archiwum na stronie, pokazanie oryginału na wystawie przy gali oraz, przy pracy zwycięskiej, reprodukcja na okładce Antologii i w materiałach informacyjnych edycji. Sprzedaż oryginału nie przenosi praw autorskich, więc licencja działa niezależnie od tego, do kogo należy później samo płótno. Członek jury nie może zgłosić własnej pracy.
+Praca pozostaje własnością autora, wraz z prawami autorskimi i prawem do sprzedaży oryginału. Organizator otrzymuje wyłącznie licencję niewyłączną w wypisanych zakresach: reprodukcja w galerii zgłoszeń i w Archiwum na stronie, pokazanie wydruku wystawowego pracy na wystawie przy gali, a wobec finalisty, który przyjmie odrębną propozycję - pokazanie oryginału na wystawie w galerii sztuki, oraz, przy pracy zwycięskiej, reprodukcja na okładce Antologii i w materiałach informacyjnych edycji. Sprzedaż oryginału nie przenosi praw autorskich, więc licencja działa niezależnie od tego, do kogo należy później samo płótno. Członek jury nie może zgłosić własnej pracy.
 
 ### Jury
 
@@ -408,9 +408,9 @@ Zgłoszenia, które przeszły sprawdzenie formalne, są prezentowane na stronie 
 
 ### Gala, wystawa i harmonogram
 
-Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie czerwca 2028 roku. Prace finałowe są pokazywane na wystawie towarzyszącej gali. Transport w obie strony, opakowanie, przechowywanie i ubezpieczenie przez cały czas pozostawania pracy u organizatora pokrywa organizator.
+Plebiscyt rozstrzyga się na tej samej gali co Nagroda, w drugiej połowie czerwca 2028 roku. Na wystawie towarzyszącej gali pokazywane są wydruki wystawowe dziesiątki prac finałowych, wykonane w rozmiarze oryginału, z tytułem pracy i podpisem autora; oryginałów organizator na galę nie sprowadza, a uczestnik nie ma obowiązku ich przysłania. Tam, gdzie oryginał rzeczywiście jedzie - na oględziny na żądanie jury albo na wystawę w galerii sztuki - przesyłkę w obie strony, opakowanie, przechowywanie i ubezpieczenie przez cały czas pozostawania pracy poza miejscem jej przechowywania przez autora pokrywa organizator.
 
-**Drugie pokazanie prac - na wystawie w galerii sztuki, otwieranej wernisażem po gali, a więc już z zajętymi miejscami - jest celem, nie obietnicą regulaminową**, ponieważ zależy od pozyskania galerii. Jeżeli galeria się znajdzie, finaliści otrzymują odrębną propozycję, określającą terminy, ubezpieczenie, czas pozostawania pracy u organizatora i zwrot, a przy wystawie może się odbyć cicha licytacja oryginałów. Nieprzyjęcie propozycji nie wpływa na werdykt ani na nagrodę.
+**Pokazanie oryginałów - na wystawie w galerii sztuki, otwieranej wernisażem po gali, a więc już z zajętymi miejscami - jest celem, nie obietnicą regulaminową**, ponieważ zależy od pozyskania galerii; jest to jedyne miejsce, w którym oryginały są pokazywane publicznie. Jeżeli galeria się znajdzie, finaliści otrzymują odrębną propozycję, określającą terminy, ubezpieczenie, czas pozostawania pracy u organizatora i zwrot, a przy wystawie może się odbyć cicha licytacja oryginałów. Nieprzyjęcie propozycji nie wpływa na werdykt ani na nagrodę.
 
 **Werdykt zapada przed galą**, ponieważ Antologia ma na gali premierę już ze zwycięską okładką, a książkę trzeba wcześniej wydrukować i okładkę uzgodnić z autorem; laureaci dowiadują się o wyniku wcześniej i zachowują go w tajemnicy do ogłoszenia na sali.
 
@@ -449,11 +449,11 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przygotowanie wydruków i ekspozycji przy gali, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji, budowa i prowadzenie Galerii prac oraz Archiwum plakatów, kopie archiwalne zgłoszeń - razem 285 godzin po 220 zł | 62 700 zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 14 280,84 zł |
 | **Razem, pozycje obecnie wycenione** | **235 287,84 zł** |
-| Obieg oryginałów i wystawa w galerii sztuki po gali, jeżeli partner galerii zostanie pozyskany - aneks poza sumą powyżej | 49 100 zł, realizacja wystawy do wyceny |
+| Obieg oryginałów i wystawa w galerii sztuki po gali, jeżeli partner galerii zostanie pozyskany - aneks poza sumą powyżej | 34 700 zł, realizacja wystawy do wyceny |
 
 **Oryginały prac nie jadą na galę.** Przy gali pokazywane są wydruki wystawowe dziesiątki prac finałowych, wykonane w rozmiarze oryginału. Oryginały sprowadzane są wyłącznie na wystawę w galerii sztuki, a ta zależy od pozyskania partnera galerii, więc cały ich obieg wraz z ubezpieczeniem stoi w aneksie, który finansuje ten partner. Ręczne wykonanie pracy jury sprawdza na oryginale wtedy, gdy nagranie z powstawania pracy i dokumentacja tego nie rozstrzygają; na takie wezwania kosztorys ma 6 000 zł, rozliczane od faktycznej liczby.
 
-Kwota **235 287,84 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi obieg oryginałów wraz z wystawą w galerii sztuki - aneks Budżetu Plakatu na 49 100 zł, finansowany przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
+Kwota **235 287,84 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi obieg oryginałów wraz z wystawą w galerii sztuki - aneks Budżetu Plakatu na 34 700 zł, finansowany przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
@@ -463,9 +463,9 @@ Praca organizatora jest liczona godzinami po stawce 220 zł netto, tej samej we 
 
 Liczby zgłoszeń nie prognozuję - jest to pierwsza edycja plebiscytu, którego nikt wcześniej nie prowadził. Żadna z tych pozycji nie jest kwotą ryczałtową wziętą z oszacowania całości.
 
-**Cztery pozycje pozostają bez kwoty i nie jest to przeoczenie.** Realizacja wystawy przy gali zależy od miejsca gali, a wystawa w galerii sztuki od pozyskania galerii, i żadne z nich nie jest wybrane - z tego samego powodu niewyceniona jest realizacja części artystycznej gali w [rozdziale 7](#7-plebiscyt-na-piosenke). Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam przed zabezpieczeniem finansowania.
+**Trzy pozycje pozostają bez kwoty i nie jest to przeoczenie.** Wystawa przy gali ma w kosztorysie postać gwarantowaną za 8 000 zł - ekspozycję dziesięciu wydruków z opisem każdej pracy i nazwiskiem autora - a bez kwoty zostaje wyłącznie oprawa bogatsza od tej postaci, bo zależy ona od miejsca gali, które nie jest wybrane; z tego samego powodu niewyceniona jest realizacja części artystycznej gali w [rozdziale 7](#7-plebiscyt-na-piosenke).
 
-Dojazd i nocleg finalistów są niewycenione również w plebiscytach na piosenkę i na film, a rozstrzygnięcie ich wyłącznie w jednym z trzech plebiscytów dałoby kosztorys niespójny. Honoraria jury pozostawiam do ustalenia z przewodniczącym składu: przy ocenie rozmów stawka godzinowa jest właściwą miarą, bo mierzy pracę, natomiast przy jurorze, którego udział sam jest wartością dla plebiscytu, iloczyn godzin i stawki nie jest tą miarą i nie chcę go przedstawiać jako kosztorysu. Wycena wszystkich czterech powstanie przed złożeniem jakiegokolwiek wniosku.
+Pozostałe dwie to honoraria jury - za ocenę zgłoszeń i za etap przygotowawczy. Pozostawiam je do ustalenia z przewodniczącym składu: przy ocenie rozmów stawka godzinowa jest właściwą miarą, bo mierzy pracę, natomiast przy jurorze, którego udział sam jest wartością dla plebiscytu, iloczyn godzin i stawki nie jest tą miarą i nie chcę go przedstawiać jako kosztorysu. Wycena wszystkich trzech powstanie przed złożeniem jakiegokolwiek wniosku.
 
 ### Dwie pozycje są oszacowaniem, nie ofertą
 
@@ -575,7 +575,7 @@ Obsługa prawna wymaga odrębnego zlecenia kancelarii, którego nie składam prz
 
 ## 10. Gala
 
-Gala rozdania nagród rozstrzyga cztery plebiscyty naraz. Trzy najwyżej ocenione piosenki plebiscytu oraz hymn zostaną wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie czerwca 2028 roku; oryginały dziesiątki finalistów plebiscytu na plakat o sztucznej inteligencji wiszą na wystawie towarzyszącej, pięć najwyżej ocenionych filmów prezentowanych jest w zwiastunach, a laureaci wszystkich plebiscytów odbierają nagrody.
+Gala rozdania nagród rozstrzyga cztery plebiscyty naraz. Trzy najwyżej ocenione piosenki plebiscytu oraz hymn zostaną wykonane na żywo podczas gali rozstrzygnięcia pierwszej edycji Nagrody, w drugiej połowie czerwca 2028 roku; wydruki wystawowe dziesiątki finalistów plebiscytu na plakat o sztucznej inteligencji wiszą na wystawie towarzyszącej, pięć najwyżej ocenionych filmów prezentowanych jest w zwiastunach, a laureaci wszystkich plebiscytów odbierają nagrody.
 
 Antologia ma na gali premierę, już ze zwycięskim plakatem na okładce. Zapis gali zamierzam zrealizować i udostępnić bezpłatnie niezależnie od pozyskania nadawcy; wymaga to jednak finansowania rejestracji i odpowiedniego zakresu umów z wykonawcami, więc nie przedstawiam tego jako rezultatu bezwarunkowego. O relację lub transmisję zamierzam zwrócić się do nadawcy publicznego, ale rozmów w tej sprawie nie podjąłem i niczego tu nie zapowiadam.
 
@@ -618,7 +618,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - pierwsza runda oceny rozmów: na bieżąco, partiami, przez cały rok naboru
 - premiera hymnu wraz z teledyskiem: 2027, w czasie trwania naboru
 - odcinki podcastu: przez cały rok naboru
-- nabór plakatów: od otwarcia naboru do 30 listopada 2027; ogłoszenie dziesięciu finalistów: połowa grudnia 2027, a oryginały prac docierają do organizatora do początku stycznia 2028
+- nabór plakatów: od otwarcia naboru do 30 listopada 2027; ogłoszenie dziesięciu finalistów: połowa grudnia 2027, w terminie pozwalającym wykonać wydruki wystawowe i przygotować wystawę
 - nabór filmów: od otwarcia naboru do 30 listopada 2027
 - nabór piosenek: od otwarcia naboru do 31 grudnia 2027; po nim nagrania studyjne dziesiątki finalistów
 
@@ -628,7 +628,7 @@ Edycja pierwsza rozkłada się na dwa lata: **2027 to rok naboru, 2028 to ocena,
 - ocena jury w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją: styczeń i luty 2028
 - rozmowy weryfikacyjne z autorami najwyżej ocenionych rozmów: pierwsza połowa lutego 2028
 - pierwsze przejście oceny filmów przez Akademię filmu: styczeń 2028; werdykt jury filmu: luty 2028
-- oględziny oryginałów i werdykt jury plakatu: początek lutego 2028
+- werdykt jury plakatu: początek lutego 2028; jeżeli jury zażąda oryginału do oględzin, werdykt zapada po ich zakończeniu
 - werdykt jury piosenki: luty 2028
 - **zamknięcie treści Antologii i przekazanie do produkcji: 31 maja 2028** - od tego dnia treści nie da się już zmienić
 - produkcja e-booka i audiobooka: od 16 maja do 10 czerwca 2028, a druk nakładu, jeżeli dojdzie do wydania książkowego, po gali w terminie uzgodnionym z wydawcą; okładkę pokazujemy publicznie i zaczynamy sprzedaż dopiero w dniu premiery, ponieważ zwycięski plakat nie może zostać ujawniony przed galą

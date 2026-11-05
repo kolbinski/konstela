@@ -57,4 +57,4 @@ Kontakt: Krzysztof Olbiński, +48 503 520 004, wspolpraca@konstela.org.
 
 ## <!--ikona:wspolpraca--><span>Pozostałe role przy pierwszej edycji</span>
 
-Wszystkie role wraz z zakresami i kwotami zbiera strona [Dla partnerów](/dla-partnerow).
+Wszystkie role wraz z ich zakresami zbiera strona [Dla partnerów](/dla-partnerow); kwoty stoją w ofercie każdej roli i w arkuszu budżetowym.

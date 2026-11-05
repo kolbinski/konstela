@@ -118,7 +118,7 @@ Zakresy się nie nakładają: godzina spędzona przy kodzie jest rozliczana godz
 - usługi przetwarzania zgłoszeń: konwersje, transkrypcje, wyszukiwanie w Archiwum - około 450 zł miesięcznie;
 - zapas na zmianę cennika dostawcy w trakcie roku - 1 800 zł rocznie.
 
-Bez tych narzędzi 2 016,5 godziny pracy rozpisanych we wszystkich budżetach Nagrody nie jest wykonalne jednoosobowo.
+Bez tych narzędzi 2 082 godziny pracy rozpisanych we wszystkich budżetach Nagrody nie jest wykonalne jednoosobowo.
 
 **Zasady, na jakich te zakupy są robione.** Imienna lista dostawców z cenami jest **załącznikiem do umowy**, nie niespodzianką w sprawozdaniu; przed podpisaniem Mecenas dostaje ją w postaci kalkulacji zakupów. Nazwy dostawców nie są dziś przesądzone, bo wybór zapada razem z polityką prywatności - decyduje o tym, co i komu powierzamy - ale kategorie i kwoty powyżej są wiążące. **Przesunięcie powyżej dziesiątej części którejkolwiek z tych dwóch pozycji wymaga pisemnej zgody Mecenasa**, a faktury wchodzą do sprawozdania. Obie pozycje rozliczane są co do złotówki: niewykorzystana część wraca do Mecenasa.
 
@@ -141,7 +141,7 @@ Po pięciu latach Archiwum zostaje jako **statyczna kopia** - zachowuje treści 
 3. **Narzędzie do weryfikacji formalnej i samoobsługi statusu** - 36 300 zł netto, po jego odbiorze.
 4. **Panel oceny i instalowalna wersja mobilna** - 61 600 zł netto, po odbiorze obu narzędzi.
 5. **Bezpieczeństwo** - 20 000 zł netto za pięć zadań, każde po odbiorze swojego rezultatu: przeglądu architektury, konfiguracji dostępów, szyfrowania wraz z testem odtworzenia kopii, zewnętrznego przeglądu podatności oraz procedury incydentu z testem organizacyjnym.
-6. **Koszty roczne** - 30 172 zł netto na domeny, pocztę i hosting strony, narzędzia AI oraz obsługę księgową lat 2027 i 2028, płatne po przedstawieniu faktur dostawców, czyli w chwili zakupu. Fundacja nie kredytuje rocznych licencji z własnych środków, a Mecenas nie płaci za rok, który się jeszcze nie zaczął.
+6. **Koszty roczne** - 30 365 zł netto na domeny, pocztę i hosting strony, narzędzia AI oraz obsługę księgową lat 2027 i 2028, płatne po przedstawieniu faktur dostawców, czyli w chwili zakupu. Fundacja nie kredytuje rocznych licencji z własnych środków, a Mecenas nie płaci za rok, który się jeszcze nie zaczął.
 7. **Raportowanie** - 16 060 zł netto, rozliczane po każdym z pięciu raportów etapowych.
 8. **Rozliczenie końcowe** - 41 874,50 zł netto, czyli wynagrodzenie wykonawcy i rezerwa, po przyjęciu sprawozdania. Sprawozdanie składane jest w ciągu sześćdziesięciu dni od odbioru ostatniego narzędzia, nie po zakończeniu edycji w 2028 roku.
 

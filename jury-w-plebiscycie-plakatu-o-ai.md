@@ -9,7 +9,7 @@
 **Zanim przejdziesz dalej, cztery rzeczy w skrócie:**
 
 - **praca jest płatna** i potwierdzana umową;
-- jury dostaje od Akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki** – prace finałowe ogląda w oryginale, a te, których autorzy nie przyślą, w reprodukcji;
+- jury dostaje od Akademii listę najwyżej ocenionych zgłoszeń, **wybiera z niej dziesięciu finalistów i ustala kolejność dziesiątki** – ocenia z reprodukcji, a oryginał może zażądać na oględziny, jeżeli materiały nie rozstrzygają, czy praca została wykonana ręcznie;
 - **maksymalny zakres pracy ustalamy przed zawarciem umowy** – liczbę ocenianych prac, zakres uzasadnień, liczbę spotkań i zasady udziału w gali;
 - **wagi kryteriów i karta oceny powstają z udziałem jury**, dlatego skład kompletujemy teraz, przed otwarciem naboru.
 
@@ -36,17 +36,17 @@ Generatory obrazu zmieniają warunki pracy ilustratorów i projektantów. Plebis
 
 ### Czym jest zgłoszenie
 
-Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnieniem „dlaczego warte nagrody głównej” oraz **nagraniem z pracy nad plakatem, trwającym co najmniej 3 minuty, z widoczną twarzą autora**. Nagranie pomaga potwierdzić sposób wykonania pracy, nie jest publikowane i nie podlega ocenie artystycznej; wątpliwości co do autorstwa rozpatruje organizator. Oryginały przysyłają dopiero finaliści.
+Zgłoszeniem jest **zdjęcie albo skan pracy**, nie oryginał, wraz z uzasadnieniem „dlaczego warte nagrody głównej” oraz **nagraniem z pracy nad plakatem, trwającym co najmniej 3 minuty, z widoczną twarzą autora**. Nagranie pomaga potwierdzić sposób wykonania pracy, nie jest publikowane i nie podlega ocenie artystycznej; wątpliwości co do autorstwa rozpatruje organizator. Oryginał jest sprowadzany tylko wtedy, gdy jury zażąda oględzin pracy finałowej.
 
 ### Co dostają finaliści
 
-Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [Antologii](/#co-zostaje-po-edycji)** najlepszych rozmów z AI, planowanej jako bezpłatny e-book, a po pozyskaniu wydawcy również w druku. Prace całej dziesiątki pokazujemy na wystawie przy gali: opakowanie, transport w obie strony, przechowywanie i ubezpieczenie oryginałów pokrywa organizator. Jeżeli uda się pozyskać galerię, po gali odbywa się druga wystawa, z wernisażem i cichą licytacją oryginałów – i to już na osobnych, pisemnych warunkach, których finalista nie musi przyjmować.
+Nagrody pieniężne otrzymują **laureaci trzech pierwszych miejsc**, a pozostałych siedmioro finalistów – wyróżnienia. **Praca zwycięska trafia na okładkę [Antologii](/#co-zostaje-po-edycji)** najlepszych rozmów z AI, planowanej jako bezpłatny e-book, a po pozyskaniu wydawcy również w druku. Prace całej dziesiątki pokazujemy na wystawie przy gali w postaci **wydruków wystawowych w rozmiarze oryginału**, wykonywanych przez organizatora; oryginałów na galę nie sprowadzamy. Jeżeli uda się pozyskać galerię sztuki, po gali odbywa się wystawa oryginałów z wernisażem i cichą licytacją – jedyny pokaz, na który oryginały są sprowadzane, na osobnych, pisemnych warunkach, których finalista nie musi przyjmować. Obieg oryginałów finansuje wtedy aneks Budżetu Plakatu po stronie partnera galerii.
 
 ## <!--ikona:waga--><span>Czego oczekujemy od jury</span>
 
 ### Co ocenia jury
 
-Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [Akademia plakatu](/plebiscyt-plakatu#kto-ocenia)** – grono praktyków plakatu, ilustracji i projektowania graficznego, które ocenia każde zgłoszenie według tej samej karty oceny i przekazuje jury listę najwyżej ocenionych. **Ocena jury przebiega w dwóch etapach**: w grudniu 2027 jury wybiera z tej listy dziesięciu finalistów, a na początku lutego 2028, po obejrzeniu nadesłanych prac, ustala kolejność całej dziesiątki. Maksymalną liczbę prac ocenianych przez jury ustalamy wspólnie, przed zawarciem umowy.
+Nie wszystkie zgłoszenia w plebiscycie. **Wstępną ocenę przeprowadza [Akademia plakatu](/plebiscyt-plakatu#kto-ocenia)** – grono praktyków plakatu, ilustracji i projektowania graficznego, które ocenia każde zgłoszenie według tej samej karty oceny i przekazuje jury listę najwyżej ocenionych. **Ocena jury przebiega w dwóch etapach**: w grudniu 2027 jury wybiera z tej listy dziesięciu finalistów, a na początku lutego 2028 ustala kolejność całej dziesiątki. **Kolejność dziesiątki jury może ustalić w całości z reprodukcji**: oględziny oryginału są uprawnieniem jury w razie wątpliwości co do ręcznego wykonania pracy, a nie etapem przechodzonym przy każdej pracy. Maksymalną liczbę prac ocenianych przez jury ustalamy wspólnie, przed zawarciem umowy.
 
 ### Jak jury ocenia zgłoszone prace
 
@@ -63,9 +63,9 @@ Czego karcie brakuje: **przykładów zastosowania pasm na konkretnych pracach**.
 
 ### Ile to czasu
 
-Realnie: **kilkanaście godzin pracy wymagającej skupienia, podzielonych na dwa etapy** – wybór dziesiątki finalistów w grudniu 2027 i oględziny prac wraz z werdyktem na początku lutego 2028 – plus udział w gali w drugiej połowie czerwca 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
+Realnie: **kilkanaście godzin pracy wymagającej skupienia, podzielonych na dwa etapy** – wybór dziesiątki finalistów w grudniu 2027 i werdykt na początku lutego 2028 – plus udział w gali w drugiej połowie czerwca 2028. Gala jest jedna dla wszystkich czterech plebiscytów.
 
-Oględziny nadesłanych oryginałów odbywają się podczas spotkania jury. **Miejsce i czas trwania oględzin oraz zasady pokrywania kosztów podróży ustalamy przed zawarciem umowy.**
+Jeżeli jury zażąda oględzin oryginału, odbywają się one podczas spotkania jury. **Miejsce i czas trwania spotkań oraz zasady pokrywania kosztów podróży ustalamy przed zawarciem umowy.**
 
 **Osobnym etapem, realizowanym przed rozpoczęciem naboru, jest praca nad kartą: przyjęcie albo zmiana kryteriów, wag i opisów pasm, a następnie kalibracja - wspólne omówienie przykładowych prac z rozpisaną punktacją i uzgodnienie, jak te pasma stosować.** Materiały posłużą jury i Akademii do spójnej oceny zgłoszeń. Podział odpowiedzialności jest przy tym jasny: **jury rozstrzyga o kryteriach, wagach i opisach pasm oraz o tym, jak się je stosuje, a organizator odpowiada za zgodność tych ustaleń z zasadami plebiscytu, za ich ogłoszenie i za warunki stosowania**. Dotychczasowa karta i przebyte recenzje są materiałem do tej pracy, a nie jej wynikiem: **zmiana wag albo przepisanie pasma na wniosek jury jest normalnym przebiegiem tego etapu**, nie wyjątkiem. Po otwarciu naboru karta nie zmienia się wcale.
 
@@ -75,7 +75,7 @@ Umowa określa wynagrodzenie za etap przygotowawczy oraz sposób jego rozliczeni
 
 Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – zgłasza się zdjęcie pracy, nie życiorys. Nie prowadzi też dochodzenia w sprawie autorstwa: jeżeli juror zauważy okoliczności budzące wątpliwości co do autorstwa albo co do uprawnień do wykorzystania elementów pracy, przekazuje je organizatorowi do wyjaśnienia jednym oznaczeniem w panelu. **Oznaczenie jest sygnałem, nie rozstrzygnięciem, i nie wpływa na punktację** – sprawę prowadzi dalej organizator, według jawnej [procedury moderacji](/dokument/procedura-moderacji).
 
-**Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki Antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; ewentualny udział członków jury w tych działaniach wymaga osobnego uzgodnienia zakresu pracy i wynagrodzenia. Nie zajmuje się również obsługą plebiscytu, transportem prac ani korespondencją z uczestnikami.
+**Jury wybiera najlepszy plakat według ogłoszonych kryteriów.** Przydatność pracy jako okładki Antologii albo materiału promocyjnego nie wpływa na punktację, a adaptację pracy zwycięskiej organizator uzgadnia osobno z autorem. Jury nie przygotowuje okładki, wystawy ani materiałów edycji; ewentualny udział członków jury w tych działaniach wymaga osobnego uzgodnienia zakresu pracy i wynagrodzenia. Nie zajmuje się również obsługą plebiscytu, przesyłkami oryginałów ani korespondencją z uczestnikami.
 
 ## <!--ikona:tarcza--><span>Warunki współpracy</span>
 
@@ -87,11 +87,11 @@ Nie ocenia dorobku, wykształcenia ani tego, czy ktoś był już wystawiany – 
 
 **Werdykt należy do jury.** Organizator go nie zmienia i nie uzgadnia z partnerami. W publicznym [Archiwum](/plebiscyt-plakatu#archiwum) publikujemy wyniki poszczególnych etapów: oceny Akademii dla wszystkich zgłoszeń, zbiorcze oceny jury dla prac, które jury oceniało, oraz wyniki głosowania publiczności. **Wyświetlane oceny nie wskazują, kto z jury wystawił którą z nich** – publikujemy wynik etapu, nie rozkład głosów.
 
-### Oryginały, nie tylko pliki
+### Oględziny oryginału, kiedy ich zażądacie
 
-Finalistów zapraszamy do przesłania oryginałów **na koszt organizatora i z zapewnionym przez niego ubezpieczeniem**. Nadesłane oryginały jury ogląda bezpośrednio; pozostałe prace ocenia na podstawie reprodukcji. Przy plakacie malowanym ręcznie to różnica między oceną reprodukcji a oceną pracy.
+Wszystkie prace jury ocenia z reprodukcji: ze zdjęcia całości i ze zdjęcia jednego fragmentu w zbliżeniu. **Jeżeli te pliki wraz z nagraniem z pracy nad plakatem i oświadczeniem autora nie rozstrzygają, czy praca została wykonana ręcznie, jury może zażądać dostarczenia oryginału na oględziny.** Żądanie jest pisemne, wskazuje powód i wyznacza autorowi termin nie krótszy niż 21 dni; opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do autora w terminie 30 dni od zakończenia oględzin.
 
-**Przysłanie oryginału jest dobrowolne** i jego brak nie pozbawia autora ani nagrody, ani miejsca w werdykcie – takiej pracy jury nie zobaczy fizycznie i oceni ją z reprodukcji. **Zasady porównywania prac oglądanych w różny sposób ustalamy z jury przed otwarciem naboru**, razem z kartą oceny.
+**Uczestnik nie ma obowiązku przysłania oryginału** i odmowa nie pozbawia go ani nagrody, ani miejsca w werdykcie – taką pracę jury ocenia z reprodukcji i dostępnych materiałów, bez obniżania punktacji z tego powodu. **Zasady porównywania pracy obejrzanej w oryginale z pracami ocenianymi z reprodukcji ustalamy z jury przed otwarciem naboru**, razem z kartą oceny.
 
 ### Wpływ na kształt edycji
 

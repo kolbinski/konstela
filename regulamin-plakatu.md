@@ -10,7 +10,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 2. Organizator nie pobiera od Uczestników żadnych opłat. Udział jest bezpłatny na każdym etapie, a Organizator pokrywa koszty przesłania i zwrotu oryginału w każdym wypadku, w którym o jego dostarczenie prosi (§ 10).
 
-3. Środki na nagrody pieniężne, na wystawę i na transport prac pochodzą od sponsora plebiscytu.
+3. Środki na nagrody pieniężne, na wydruki wystawowe prac finałowych i na wystawę towarzyszącą gali pochodzą od sponsora plebiscytu. Obieg oryginałów na wystawę w galerii sztuki (§ 10 ust. 6) finansuje partner galerii, jeżeli zostanie pozyskany.
 
 4. Adresem do korespondencji w sprawach plebiscytu jest kontakt@konstela.org.
 
@@ -77,7 +77,7 @@ Plebiscyt na plakat jest odrębnym plebiscytem prowadzonym przez Organizatora Na
 
 1. Uczestnikiem może być osoba fizyczna, która w dniu złożenia zgłoszenia ukończyła 16 lat.
 
-2. Uczestnik, który nie ukończył 18 lat, dołącza pisemną zgodę przedstawiciela ustawowego, obejmującą osobno: przesłanie nagrania z powstawania pracy, na którym widoczna jest twarz Uczestnika (§ 4a ust. 3 lit. c1), udzielenie licencji w zakresach z § 13 ust. 2, przyjęcie nagrody pieniężnej, przesłanie oryginału pracy na wystawę oraz udział w gali.
+2. Uczestnik, który nie ukończył 18 lat, dołącza pisemną zgodę przedstawiciela ustawowego, obejmującą osobno: przesłanie nagrania z powstawania pracy, na którym widoczna jest twarz Uczestnika (§ 4a ust. 3 lit. c1), udzielenie licencji w zakresach z § 13 ust. 2, przyjęcie nagrody pieniężnej, przesłanie oryginału pracy na oględziny jury (§ 10 ust. 2), przesłanie oryginału na wystawę w galerii sztuki (§ 10 ust. 6) oraz udział w gali.
 
 2a. **Zgoda na zakresy licencji będące warunkiem udziału (§ 13 ust. 4) jest wymagana do przyjęcia zgłoszenia.** Brak zgody na pozostałe zakresy nie wyłącza Uczestnika z plebiscytu, lecz wyłącza go z tego zakresu.
 
@@ -369,7 +369,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 4k. **Granica przepustowości.** Jeżeli liczba zgłoszeń, które przeszły weryfikację formalną, przekroczy poziom pozwalający rzetelnie przeprowadzić pierwsze przejście oceny w ogłoszonych terminach nawet w trybie z ust. 4i, Organizator **nie ogranicza liczby przyjmowanych zgłoszeń ani nie odstępuje od obejrzenia którejkolwiek z prac**, lecz przesuwa dzień ogłoszenia wyników o czas niezbędny do zakończenia oceny, ogłaszając na stronie Nagrody nową datę wraz z uzasadnieniem i liczbą zgłoszeń, której to dotyczy. Przesunięcie podlega dacie granicznej z § 1b ust. 3; jeżeli werdyktu nie da się do niej ustalić, edycji nie rozstrzyga się na zasadach z § 16.
 
-   **Przy dużym naborze pęka tu wcześniej coś innego niż ocena.** Obejrzenie plakatu jest tańsze niż przeczytanie rozmowy czy przesłuchanie utworu, więc granicą przepustowości w tym plebiscycie nie jest praca Akademii, lecz **dostarczenie i oględziny oryginałów oraz wystawa** (§ 10). Dlatego przesunięcie z niniejszego ustępu Organizator ogłasza razem ze wskazaniem nowych terminów dostarczenia oryginałów, a liczba finalistów nie rośnie wraz z liczbą zgłoszeń.
+   **Przy dużym naborze pęka tu wcześniej coś innego niż ocena.** Obejrzenie plakatu jest tańsze niż przeczytanie rozmowy czy przesłuchanie utworu, więc granicą przepustowości w tym plebiscycie nie jest praca Akademii, lecz **wykonanie wydruków wystawowych dziesiątki i miejsce na wystawie towarzyszącej gali** (§ 10 ust. 1). Dlatego przesunięcie z niniejszego ustępu Organizator ogłasza razem ze wskazaniem nowych terminów ogłoszenia dziesiątki i oryginałów, a liczba finalistów nie rośnie wraz z liczbą zgłoszeń.
 
 4l. **Honorarium za obejrzenie przy dużym naborze.** Pula wynagrodzeń Akademii plakatu jest stała, a stawka za jedno obejrzenie wynika z liczby obejrzeń do wykonania i nie może być niższa od kwoty ogłoszonej przed naborem. Gdyby stawka miała spaść poniżej tej kwoty, **zmienia się tryb oceny zgodnie z ust. 4i, a nie wysokość stawki**; jeżeli i to nie wystarczy, stosuje się ust. 4k.
 
@@ -583,7 +583,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 5. Organizator rozlicza się z autorem w terminie 30 dni od otrzymania zapłaty od nabywcy. Obowiązki podatkowe po stronie autora w zakresie jego części przychodu obciążają autora.
 
-6. Praca, która nie znalazła nabywcy, wraca do autora: Organizator **nadaje przesyłkę zwrotną w terminie 30 dni od zakończenia licytacji albo od zakończenia wystawy, jeżeli praca pozostaje na niej za zgodą autora** – zależnie od tego, które zdarzenie nastąpi później.
+6. Praca, która nie znalazła nabywcy, wraca do autora: Organizator **zwraca ją w terminie 30 dni od zakończenia licytacji albo od zakończenia wystawy, jeżeli praca pozostaje na niej za zgodą autora** – zależnie od tego, które zdarzenie nastąpi później.
 
 6a. **Praca nieopłacona.** Jeżeli nabywca nie zapłaci ceny w terminie wskazanym w warunkach z ust. 2, Organizator zawiadamia o tym autora i **nadaje przesyłkę zwrotną w terminie 30 dni od bezskutecznego upływu terminu zapłaty**. Termin ten biegnie niezależnie od terminu z ust. 6 i od tego, czy wcześniej upłynął.
 
@@ -599,7 +599,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 8b. Link, o którym mowa w ust. 8, podlega tym samym zasadom co kontakt do autora (§ 4 ust. 2 lit. c2): Organizator nie publikuje linku, który nie działa albo prowadzi do treści naruszającej prawo, i zawiadamia o tym Uczestnika, co nie wpływa ani na ocenę, ani na udział. **Link może ujawnić tożsamość Uczestnika podpisanego pseudonimem** – decyzja w tej sprawie należy do Uczestnika. Uczestnik, który nie ukończył 18 lat, wskazuje link wyłącznie za zgodą przedstawiciela ustawowego. Datę zakończenia oferty Organizator przyjmuje w brzmieniu podanym przez Uczestnika i jej nie weryfikuje.
 
-8c. **Praca finalisty.** Sprzedaż pracy **nie zmienia zasad dotyczących oryginału**: finalista może go przysłać albo nie przysłać na zasadach z § 10 ust. 2, 3 i 6, bez wpływu na nagrodę i punktację. **Jeżeli oryginał zostanie przysłany**, sprzedaż nie skraca okresu, w którym praca pozostaje u Organizatora (§ 10 ust. 3 i 3b). Wydanie pracy nabywcy następuje po jej zwrocie autorowi, a poinformowanie nabywcy o tym terminie obciąża autora. Organizator nie wydaje pracy osobie innej niż autor.
+8c. **Praca finalisty.** Sprzedaż pracy **nie zmienia zasad dotyczących oryginału**: finalista może go przysłać albo nie przysłać na zasadach z § 10 ust. 2, 3 i 6, bez wpływu na nagrodę i punktację. **Jeżeli oryginał zostanie przysłany**, sprzedaż nie skraca okresu, w którym praca pozostaje u Organizatora (§ 10 ust. 4b). Wydanie pracy nabywcy następuje po jej zwrocie autorowi, a poinformowanie nabywcy o tym terminie obciąża autora. Organizator nie wydaje pracy osobie innej niż autor.
 
 8d. Wskazanie linku, o którym mowa w ust. 8, **nie jest publikacją ani prezentacją pracy** w rozumieniu § 5 ust. 2 lit. e i nie wyłącza zgłoszenia z plebiscytu.
 

@@ -17,7 +17,7 @@ Rzecz jest jednak szersza niż same rozmowy: chodzi o życie z AI. Dlatego Nagro
 3. [Plebiscyt na piosenkę o sztucznej inteligencji](/plebiscyt-piosenki)
 4. [Plebiscyt na plakat o sztucznej inteligencji](/plebiscyt-plakatu)
 
-Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjmowane są do 10 stycznia 2028, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
+Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia plakatów przyjmowane są do 30 listopada 2027, a rozstrzygnięcie przypada na drugą połowę czerwca 2028. Udział jest bezpłatny i Organizator nie pobiera od uczestników żadnych opłat. Pełne zasady opisują [regulaminy czterech plebiscytów](/regulaminy).
 
 ## <!--ikona:plakat--><span>Co pokazujemy</span>
 
@@ -27,27 +27,27 @@ Pierwsza edycja obejmuje prace i rozmowy z całego 2027 roku, zgłoszenia przyjm
 
 ## <!--ikona:waga--><span>Jak to wygląda w kosztorysie</span>
 
-W [Budżecie Plakatu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu) ta wystawa ma własny blok - **aneks galerii** - stojący poza kwotą mecenasa plebiscytu na plakat. Ponieważ oryginały jadą wyłącznie tutaj, **cały ich obieg wraz z ubezpieczeniem stoi w tym aneksie**, a nie w kosztorysie mecenasa. Aneks zamyka się dziś na **49 100 zł netto** i finansuje go partner galerii.
+W [Budżecie Plakatu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-plakatu) ta wystawa ma własny blok - **aneks galerii** - stojący poza kwotą mecenasa plebiscytu na plakat. Ponieważ oryginały jadą wyłącznie tutaj, **cały ich obieg wraz z ubezpieczeniem stoi w tym aneksie**, a nie w kosztorysie mecenasa. Aneks zamyka się dziś na **34 700 zł netto** i finansuje go partner galerii.
 
 | Pozycja                                                      |             Netto |
 | -------------------------------------------------------------- | ------------------: |
 | Realizacja wernisażu i wystawy w galerii sztuki              |      do wyceny |
-| Transport oryginałów w obie strony                            |      16 000 zł |
+| Transport oryginałów w obie strony (800 zł razy 10 prac)      |       8 000 zł |
 | Ubezpieczenie prac na cały okres obiegu                       |       3 000 zł |
 | Opakowania transportowe wielorazowe                           |       2 500 zł |
 | Bezpieczne zamocowanie prac na czas ekspozycji                |       4 000 zł |
 | Przechowywanie prac i opakowań w okresie pieczy               |       1 500 zł |
 | Przewóz między miejscami: magazyn, galeria, magazyn           |       2 000 zł |
-| Dojazdy opiekuna prac                                        |       2 400 zł |
+| Dojazdy opiekuna prac                                        |       1 200 zł |
 | Udział własny polisy - rezerwa na jedno zdarzenie             |       1 500 zł |
 | Drobne szkody i konsultacja konserwatora                      |       2 000 zł |
-| Powtórna wysyłka przy nieudanym doręczeniu                    |       1 600 zł |
+| Powtórna wysyłka przy nieudanym doręczeniu (400 zł razy 2)    |         800 zł |
 | Przedłużenie ochrony ubezpieczeniowej i magazynowania         |         500 zł |
 | Wycena rzeczoznawcy i podniesienie sumy ubezpieczenia         |      do wyceny |
-| Przyjęcie, ewidencja i zwrot oryginałów (55 godz. po 220 zł)  |      12 100 zł |
-| **Razem aneks galerii, poza kosztorysem mecenasa**            |  **49 100 zł** |
+| Przyjęcie, ewidencja i zwrot oryginałów (35 godz. po 220 zł)  |       7 700 zł |
+| **Razem aneks galerii, poza kosztorysem mecenasa**            |  **34 700 zł** |
 
-**Dwie pozycje czekają na wycenę** i suma 49 100 zł ich nie obejmuje: realizacja wernisażu i wystawy - zawieszenie, oświetlenie, opisy prac i obsługa wernisażu - oraz wycena prac przez rzeczoznawcę wraz z podniesieniem sumy ubezpieczenia powyżej sumy deklarowanej, która jest pozycją opcjonalną i wchodzi w grę tylko wtedy, gdy uzgodnione wartości prac finałowych okażą się wyższe.
+**Dwie pozycje czekają na wycenę** i suma 34 700 zł ich nie obejmuje: realizacja wernisażu i wystawy - zawieszenie, oświetlenie, opisy prac i obsługa wernisażu - oraz wycena prac przez rzeczoznawcę wraz z podniesieniem sumy ubezpieczenia powyżej sumy deklarowanej, która jest pozycją opcjonalną i wchodzi w grę tylko wtedy, gdy uzgodnione wartości prac finałowych okażą się wyższe.
 
 **Dwie pozycje są rezerwami na zdarzenie, nie wydatkami planowanymi**: udział własny polisy 1 500 zł i drobne szkody wraz z konsultacją konserwatora 2 000 zł. Wydaje się je wyłącznie przy szkodzie; jeżeli szkody nie będzie, nie są należne.
 

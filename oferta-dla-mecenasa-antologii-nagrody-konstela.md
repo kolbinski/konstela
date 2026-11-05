@@ -149,7 +149,7 @@ Pozycje z tej oferty uruchamiają się w dwóch momentach: mechanizm Archiwum od
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
-| Koordynator wydania i moderacji, I-IV 2028 (B2B)                  |      40 000 zł |
+| Koordynator wydania i moderacji, III-VI 2028 (B2B)                  |      40 000 zł |
 | Korekta językowa Antologii                                        |       4 000 zł |
 | Skład i przygotowanie do druku (DTP)                              |       3 000 zł |
 | Krótki nakład Antologii na galę (100 egz.)                        |       4 000 zł |
@@ -188,7 +188,7 @@ Dwie ostatnie pozycje tabeli to różne rzeczy i dlatego są rozdzielone:
 1. **Redakcja i skład** - 67 900 zł netto, po przyjęciu złożonego tomu i premierze bezpłatnego e-booka; składają się na to koordynator wydania, redakcja, korekta i skład.
 2. **Krótki nakład na galę** - 4 000 zł netto, po dostarczeniu egzemplarzy; pozycja warunkowa, odpada, jeżeli wydawca dostarczy książkę na premierę.
 3. **Audiobook** - 40 000 zł netto, po odbiorze gotowego nagrania.
-4. **Rozliczenie końcowe** - 17 040,90 zł netto, obejmujące wynagrodzenie wykonawcy, udział w kosztach narzędzi i rezerwę, po przyjęciu sprawozdania.
+4. **Rozliczenie końcowe** - 16 875,90 zł netto, obejmujące wynagrodzenie wykonawcy, udział w kosztach narzędzi i rezerwę, po przyjęciu sprawozdania.
 
 Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Jeżeli edycja zostaje przerwana, Mecenas zapłacił dotąd wyłącznie za to, co istnieje.
 

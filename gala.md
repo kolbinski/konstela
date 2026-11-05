@@ -17,6 +17,7 @@ Te elementy przyjęto wcześniej i nie są tu przedmiotem decyzji:
 - **Nagroda publiczności w plebiscycie** dla wykonawcy oraz nagroda za najlepsze uzasadnienie wyboru.
 - **Wystąpienia sponsorów.** Uwaga Piotra, słuszna: fundator i partner wydawniczy będą musieli powiedzieć, po co to robią. Lepiej zaplanować im na to miejsce, niż pozwolić, by zajęli je sami.
 - **Rejestracja wideo i bezpłatne udostępnienie zapisu.** Transmisja telewizyjna jest zamiarem, nie ustaleniem.
+- **Wystawa dziesięciu wydruków wystawowych prac finałowych plebiscytu na plakat**, w postaci zagwarantowanej w umowie z mecenasem tego plebiscytu. Nie zajmuje czasu w programie, ale stawia wymogi wobec przestrzeni - opisuje je osobna sekcja niżej.
 
 ## Budżet czasu - wersja pierwsza
 
@@ -59,6 +60,16 @@ Konstrukcja: finalista czyta na głos własne pytania, aktor czyta odpowiedzi sz
 **Trzy rzeczy do rozstrzygnięcia.** Czy aktor czyta neutralnie, czy interpretuje - od tego zależy, czy to jest dokument, czy przedstawienie. Czy fragment wybiera organizator, czy finalista. Oraz czy finalista chce i potrafi czytać publicznie; jeśli nie, potrzebny jest wariant z drugim aktorem w jego roli, ustalony z nim wcześniej, a nie w dniu gali.
 
 **Zgoda finalisty jest warunkiem, nie formalnością.** Rozmowa bywa osobista. Udział w dialodze musi być dobrowolny i do uzgodnienia po ogłoszeniu wyników, a nie wymuszony regulaminem.
+
+## Wystawa plakatów przy gali
+
+Przy gali wisi wystawa dziesięciu wydruków wystawowych prac finałowych plebiscytu na plakat o sztucznej inteligencji. Nie wchodzi ona do budżetu czasu - jest wymogiem wobec przestrzeni i wobec harmonogramu dnia, a oferta sponsora gali zapowiada ją gościom wieczoru, więc miejsce musi ją pomieścić.
+
+**Czego wymaga od przestrzeni.** Dziesięć wydruków pionowych o dłuższym boku do 150 cm, wykonanych w rozmiarze oryginału, z opisem każdej pracy i nazwiskiem autora. Potrzebna jest do tego powierzchnia ekspozycyjna w miejscu **publicznie dostępnym dla gości wieczoru** - foyer, hol albo sala przyległa - a nie w pomieszczeniu zamkniętym i nie na samej scenie. Montaż odbywa się przed wejściem publiczności, demontaż po gali, więc miejsce musi dać dostęp do przestrzeni przed wydarzeniem i po nim. To jest pytanie do zadania przy pierwszej rozmowie z miejscem, obok sceny na około szesnaście osób.
+
+**Kto za nią płaci.** Mecenas plebiscytu na plakat, nie sponsor gali. W kosztorysie tego plebiscytu stoją wydruki dziesiątki prac finałowych za 5 000 zł oraz wystawa w postaci gwarantowanej za 8 000 zł; montaż i demontaż ekspozycji mieszczą się w godzinach organizatora rozliczanych w tym samym budżecie. Oprawa bogatsza od postaci gwarantowanej zależy od wybranego miejsca i dziś kwoty nie ma.
+
+**Czego wystawa nie obejmuje.** Oryginałów prac. Oryginały na galę nie jadą i uczestnik nie ma obowiązku ich przysyłania; pokazywane są wyłącznie na wystawie w galerii sztuki po gali, jeżeli partner galerii zostanie pozyskany i finalista przyjmie odrębną propozycję. Obieg oryginałów wraz z ubezpieczeniem stoi poza kosztorysem gali i poza gwarantowaną częścią kosztorysu mecenasa plebiscytu.
 
 ## Czynniki kosztotwórcze
 

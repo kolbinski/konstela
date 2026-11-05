@@ -19,7 +19,6 @@ Regulamin, karta oceny i polityka prywatności są jawne i dostępne pod adresem
 Z wyrazami szacunku,\
 Krzysztof Olbiński\
 +48 503 520 004\
-olbinski@gmail.com\
 konstela.org
 
 Załączniki:

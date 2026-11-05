@@ -95,7 +95,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Obsługa księgowa projektu                                      |       1 500 zł |
 | Domeny konstela.org i konstela.pl - przedpłata na dziesięć lat |       3 000 zł |
 | Ubezpieczenie OC organizatora                                  |    do ustalenia |
-| Infrastruktura i narzędzia AI na rozstrzygnięcie edycji, I-IV 2028 |      20 000 zł |
+| Infrastruktura i narzędzia AI na rozstrzygnięcie edycji, I-VI 2028 |      20 000 zł |
 | Prowadzenie plebiscytu przez rok (327 godz.)                   |      71 940 zł |
 | Budowa Czytelni i Archiwum rozmów (50 godz.)                   |      11 000 zł |
 | Prowadzenie Czytelni i Archiwum rozmów (25 godz.)              |       5 500 zł |
@@ -126,7 +126,7 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
 
 **Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 693 600 zł netto, czyli 853 128 zł brutto**. Jest to maksimum całego wypływu po stronie Fundatora: obejmuje kwotę z tabeli, obie pozycje bez ceny, rezerwę i każdą ewentualną dopłatę. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Mówimy przy tym wprost, czym limit nie jest: **ogranicza zobowiązanie Fundatora, a nie gwarantuje, że pieniądze na wykonanie się znajdą.** Gdyby ich zabrakło, Fundatorowi zostaje prawo wycofania nazwy i zwrot za świadczenia niewykonane - a nie Archiwum i werdykt, których za te brakujące pieniądze nikt nie wykona. 
 
-Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść wraz z rezerwą, która je obejmie: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
+Limit zostawia nad dzisiejszym kosztorysem 31 102,24 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść wraz z rezerwą, która je obejmie: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
 **Na co idzie 15 000 zł promocji naboru.** Liczba zgłoszeń zależy od kilku rzeczy naraz - od wiarygodności jury, od zasad publikacji rozmów i od gotowości ludzi do pokazania własnej pracy - a promocja jest wśród nich jedyną, którą kupuje się za pieniądze. Dlatego nie zostawiamy jej jako jednej kwoty:
 
@@ -170,7 +170,7 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile 
 
 ## <!--ikona:ogniwo--><span>Co zależy od innych partnerów, a co nie</span>
 
-Dwóch recenzentów po kolei zarzuciło tej ofercie to samo: że obiecuje rezultat niezależny od pozostałych ról, choć plebiscytu nie da się przeprowadzić w pojedynkę. Zarzut jest słuszny, więc zamiast go łagodzić, rozpisujemy zależności po kolei.
+Rezultat tej roli nie jest niezależny od pozostałych, bo plebiscytu nie da się przeprowadzić w pojedynkę. Zamiast to łagodzić, rozpisujemy zależności po kolei.
 
 **Fundacja - zależność bezwzględna, ale nie Państwa ryzyko.** Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody i to ona podpisuje umowę. Jej powołanie, obsługa i weryfikacja statutu należą do roli [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela). Jeżeli fundacji nie będzie, **nie ma z kim podpisać umowy i nie ma żadnej wpłaty** - ryzykiem jest to, że przedsięwzięcie nie ruszy, a nie to, że Państwa pieniądze są w nim uwięzione.
 
@@ -262,7 +262,7 @@ Poza tytułem:
 
 Fundator nie ma wpływu na wybór laureatów, skład jury ani treść werdyktu. Nie otrzymuje wglądu w zgłoszenia przed ich publicznym udostępnieniem ani informacji o wynikach przed galą.
 
-Rola nie obejmuje trzech pozostałych plebiscytów, Antologii, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Archiwum i Czytelnia **rozmów** są natomiast w tej ofercie, opisane wyżej co do zawartości, terminu i okresu utrzymania; osobne są Archiwa pozostałych trzech plebiscytów, każde przy swoim plebiscycie. Nie obejmuje też pierwszej rundy oceny, którą finansuje sponsor Akademii; honoraria jury za ocenę w rundzie drugiej są natomiast w tej ofercie.
+Rola nie obejmuje trzech pozostałych plebiscytów, Antologii, podcastu ani gali - każda z tych rzeczy ma własny budżet i własnego partnera. Archiwum i Czytelnia **rozmów** są natomiast w tej ofercie, opisane wyżej co do zawartości, terminu i okresu utrzymania; osobne są Archiwa pozostałych trzech plebiscytów, każde przy swoim plebiscycie. Pierwsza runda oceny jest natomiast w tej ofercie - honoraria za odczyty, vouchery, materiały kalibracyjne i udział we wspólnym panelu oceniających - tak samo jak honoraria jury za ocenę w rundzie drugiej.
 
 Fundator nie nabywa praw do zgłoszonych rozmów: ich autorzy udzielają licencji wyłącznie Organizatorowi, a jej zakres nie obejmuje wykorzystania komercyjnego przez osoby trzecie ani trenowania modeli.
 
