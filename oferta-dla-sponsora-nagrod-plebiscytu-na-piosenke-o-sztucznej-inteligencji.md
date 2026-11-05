@@ -173,7 +173,7 @@ Limit zostawia nad dzisiejszym kosztorysem 44 718,08 zł i jest policzony: honor
 - **honoraria jury za ocenę** - do ustalenia, bo zależą od liczby zgłoszeń i od liczby osób w jury;
 - **honoraria jury za etap przygotowawczy** - do ustalenia; dotyczą pracy nad kartą oceny i wagami kryteriów przed otwarciem naboru;
 - **realizacja części artystycznej gali** - do wyceny, bo zależy od miejsca gali: nagłośnienie, backline i próby znaczą co innego w sali teatralnej, a co innego w klubie;
-Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się w kwocie powyżej**: dojazd i nocleg 10 finalistów na galę - 8 000 zł. Udział czołowej trójki jest obowiązkowy na mocy § 14 regulaminu plebiscytu, bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
+Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się w kwocie powyżej**: dojazd i nocleg 10 finalistów na galę - 8 000 zł. Regulamin (§ 14 ust. 3) pokrywa przy zgłoszeniach zespołowych także dojazd członków składu biorących udział w wykonaniu, więc przy zespołach kwota ta rozlicza się od faktycznej liczby osób, a przekroczenie pokrywa rezerwa. Organizator oczekuje obecności czołowej trójki i uzgadnia z nią udział niezwłocznie po werdykcie (§ 14 ust. 2 regulaminu); odmowa nie pozbawia laureata nagrody, a utwór nie jest wtedy wykonywany na żywo (§ 14 ust. 5), bo na obecności tych 3 osób opiera się część artystyczna wieczoru.
 
 **Rezerwa liczona jest wyłącznie od pracy i kosztów, bez nagród**, czyli od 184 716 zł. Niewykorzystana rezerwa oraz pozycje, których nie poniesiono, wracają do Fundatora albo, na jego pisemny wybór, powiększają pulę nagród kolejnej edycji.
 
@@ -181,7 +181,7 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
-**Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród, a podatek odprowadza organizator, nie laureat i nie Fundator. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru.
+**Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród brutto dla laureata: płatnikiem podatku jest Organizator, który pobiera go z nagrody i odprowadza do urzędu, więc laureat otrzymuje kwotę nagrody pomniejszoną o ten podatek. Fundator nie dopłaca go ponad cenę. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru.
 
 ### Płatność
 
@@ -320,7 +320,7 @@ Rola nie obejmuje:
 
 ## <!--ikona:etap--><span>Stan przygotowań</span>
 
-**Gotowe.** Regulaminy wszystkich 4 plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; regulamin plebiscytu piosenki rozstrzyga między innymi o granicach użycia AI i o obowiązkowym udziale czołowej trójki w gali. Strona plebiscytu działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), a statut fundacji gotowy w projekcie.
+**Gotowe.** Regulaminy wszystkich 4 plebiscytów są napisane i [jawne](/regulaminy), razem z kartami oceny; regulamin plebiscytu piosenki rozstrzyga między innymi o granicach użycia AI i o udziale czołowej trójki w gali. Strona plebiscytu działa. Budżet jest rozpisany na pozycje w [arkuszu](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), a statut fundacji gotowy w projekcie.
 
 **W toku.** Jury nie jest jeszcze skompletowane; nabór nie zostanie otwarty, zanim co najmniej 3 osoby nie potwierdzą udziału, a skład nie zostanie ogłoszony. **Przewodnictwo jury plebiscytu piosenki jest uzgodnione z muzykiem, który zgodził się je objąć**; nazwiska nie podajemy, dopóki nie mamy pisemnego potwierdzenia, i ta sama zasada dotyczy pozostałych członków jury.
 
@@ -330,7 +330,7 @@ Rola nie obejmuje:
 
 <dl class="harmonogram">
 <div><dt>Przed decyzją</dt><dd>Pakiet dokumentów do oceny<small>projekt umowy, kosztorys z wycenionymi honorariami jury, regulamin z kartą oceny i dokumenty rejestrowe fundacji - wykaz jest w sekcji o dokumentach przed zobowiązaniem</small></dd></div>
-<div><dt>Planowo do 31 grudnia 2026</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora; ostateczny harmonogram uzgadniamy z Fundatorem po przedstawieniu kompletu dokumentów, a jego zmiana może przesunąć otwarcie naboru</small></dd></div>
+<div><dt>Przed otwarciem naboru, w terminie uzgodnionym z Fundatorem</dt><dd>Podpisanie umowy i wpłata środków na nagrody<small>regulamin dopuszcza ogłoszenie wyłącznie nagród pokrytych środkami, które już wpłynęły na rachunek Organizatora; ostateczny harmonogram uzgadniamy z Fundatorem po przedstawieniu kompletu dokumentów, a jego zmiana może przesunąć otwarcie naboru</small></dd></div>
 <div><dt>Przed otwarciem naboru</dt><dd>Ogłoszenie składu jury i Akademii oraz zakresu sesji studyjnej<small>studio, liczba sesji i poprawek, przekazywane materiały i zasady pokrywania kosztów dojazdu; uczestnik ma wiedzieć, co dostaje, zanim się zgłosi</small></dd></div>
 <div><dt>Początek 2027</dt><dd>Otwarcie naboru<small>planowane, po spełnieniu 5 warunków regulaminowych</small></dd></div>
 <div><dt>W czasie naboru w 2027</dt><dd>Premiera hymnu Nagrody z teledyskiem<small>finansowana osobną rolą Fundatora hymnu; otwarcie edycji nie jest od premiery uzależnione</small></dd></div>
