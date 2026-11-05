@@ -184,19 +184,19 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 ### Płatność
 
-**Pula nagród i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. Dotyczy to nagród plebiscytu, nagród publiczności oraz medalu i dyplomów, czyli 48 200 zł.
+**Pula nagród, nagrania studyjne i koszty ponoszone przed naborem płatne są przed otwarciem naboru.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które wpłynęły wcześniej na rachunek Organizatora - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner wywiąże się ze swoich zobowiązań. Dotyczy to nagród plebiscytu, nagród publiczności oraz medalu i dyplomów, czyli 48 200 zł, a także **nagrań studyjnych dziesiątki finalistów, czyli 75 000 zł**: nagranie jest ogłaszane uczestnikom jako świadczenie, nie jako zamiar, więc regulamin wymaga dla niego pokrycia na tych samych zasadach co dla puli (§ 4 ust. 2). Praca organizatora i rezerwa pozostają płatne po odbiorze - nie są obietnicą wobec uczestnika, tylko kosztem wykonania.
 
 **Harmonogram obejmuje wszystkie pozycje kosztorysu, żeby nie trzeba było składać go z kilku akapitów:**
 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
-| Przed otwarciem naboru | 64 266 zł | nagrody plebiscytu 35 000, nagrody publiczności 12 000, medal i dyplomy 1 200 - czyli 48 200 zł puli, której regulamin nie pozwala ogłosić bez pokrycia - oraz koszty ponoszone przed naborem: obsługa prawna 8 000, udział w narzędziach 3 566, materiały kalibracyjne i szkolenie Akademii 3 000, udział w panelu oceniających 1 000, magazyn okładek i metryk 500 |
+| Przed otwarciem naboru | 139 266 zł | nagrody plebiscytu 35 000, nagrody publiczności 12 000, medal i dyplomy 1 200 - czyli 48 200 zł puli, której regulamin nie pozwala ogłosić bez pokrycia - oraz **75 000 zł nagrań studyjnych dziesiątki finalistów**, bo nagranie jest ogłaszane uczestnikom jako świadczenie dokładnie tak samo jak nagroda i regulamin wymaga dla niego pokrycia przed naborem (§ 4 ust. 2); do tego koszty ponoszone przed naborem: obsługa prawna 8 000, udział w narzędziach 3 566, materiały kalibracyjne i szkolenie Akademii 3 000, udział w panelu oceniających 1 000 i magazyn okładek 500 |
 | Po zakończeniu pierwszej rundy oceny | 15 000 zł | honoraria oceniających za 300 odsłuchów, rozliczane od liczby odsłuchów faktycznie wykonanych |
 | Po zakończeniu oceny jury | według umów z jurorami | honoraria jury, w kwotach z tych umów i bez narzutu; dziś pozycja bez kwoty, mieszcząca się w limicie |
 | Po gali | 11 000 zł | dojazd i nocleg dziesięciu finalistów 8 000, honoraria zespołu wybierającego najlepsze uzasadnienie głosu 3 000 |
-| Po sesjach studyjnych, sesja po sesji | 87 000 zł | nagrania 75 000 po fakturach studia oraz dokumentacja sesji 12 000 po przekazaniu materiałów |
+| Po sesjach studyjnych, sesja po sesji | 12 000 zł | dokumentacja sesji po przekazaniu materiałów; same nagrania są opłacone przed naborem, a studio rozlicza się z Organizatorem po fakturach za każdą sesję |
 | Etapami, po odbiorze | 54 450 zł oraz rezerwa | praca organizatora w częściach odpowiadających godzinom wykazanym w raporcie etapu, a na końcu rezerwa 22 165,92 zł w części wykorzystanej |
-| **Razem** | **253 881,92 zł** | 64 266 + 15 000 + 11 000 + 87 000 + 54 450 + 22 165,92, obok honorariów jury mieszczących się w limicie |
+| **Razem** | **253 881,92 zł** | 139 266 + 15 000 + 11 000 + 12 000 + 54 450 + 22 165,92, obok honorariów jury mieszczących się w limicie |
 
 Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Faktura wychodzi osobno do każdego etapu.
 
