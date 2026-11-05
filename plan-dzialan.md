@@ -1227,6 +1227,22 @@ Czwarta tura recenzji pisma do VeloBanku pierwsza czytała **pismo razem z ofert
 
 **Granica, którą recenzent postawił na koniec**: dalszy wzrost wiarygodności przyniosą potwierdzenia od ludzi i wykonawców - pisemny udział jurora, oferta studia, rejestracja fundacji - a nie kolejne wyjaśnienia w liście. To ta sama granica, którą dała ósma tura pisma do TVP.
 
+## Akademia przestaje być rolą, a staje się pierwszą rundą czterech plebiscytów (5.11.2026)
+
+**Powód jest regulaminowy, nie estetyczny.** Jednym z pięciu warunków otwarcia naboru jest zapewnione finansowanie pierwszej rundy oceny. Dopóki Akademia była osobną rolą, fundator, który wpłacił całą pulę nagród swojego plebiscytu, nadal nie mógł doprowadzić do jego otwarcia - kupował rezultat zależny od partnera, na którego nie ma wpływu. To ta sama wada, którą wczoraj usunęliśmy przy nagraniach studyjnych.
+
+**Podziału nie trzeba było wymyślać.** Zakładka Akademii miała cztery rozłączne bloki, po jednym na plebiscyt, i jedną pozycję wspólną - panel oceniających za 4 000 zł, który dzieli się teraz na cztery równe części, bo każdy plebiscyt ma tę samą przepustowość objętą kosztorysem.
+
+**Wycenione dwa bloki, które stały na zerze.** Akademia piosenki: **50 zł za odsłuch** (demo do pięciu minut wraz z kartą oceny to około 20 minut pracy, czyli 150 zł za godzinę - tyle samo co przy filmach), 300 odsłuchów, z kalibracją i panelem **19 000 zł**. Akademia plakatu: **25 zł za ocenę** (reprodukcja z kartą to około 10 minut), 300 ocen, z kalibracją i panelem **11 500 zł**. Obie stawki stały w arkuszu od tygodnia jako punkty odniesienia w kolumnie Uwagi; dziś są decyzją.
+
+**Co z tego wynika dla kwot.** Rozmowa 628 684,96 → **679 084,96**, film 332 773,92 → **440 293,92**, piosenka 235 571,04 → **256 851,04**, plakat 268 046,72 → **280 926,72**. Górne limity zobowiązania wzrosły dokładnie o kwotę wniesionego bloku, więc zapasy nad kosztorysami zostały takie same. Suma wszystkich budżetów **2 182 321,54 zł**, w tym 31 920 zł nowego kosztu z wyceny dwóch bloków, które wcześniej były zerami.
+
+**Ryzyko, które przy scaleniu trzeba było nazwać.** Pierwsza runda to jedyna pozycja edycji rosnąca wprost z liczbą zgłoszeń, a oferty plebiscytów mają zamknięty limit. W każdej z czterech stoi dziś zdanie, że powyżej przepustowości objętej kosztorysem regulamin przechodzi w tryb przesiewu z § 8, a nie w dopłatę ponad limit.
+
+**Czego ta zmiana kosztowała.** Zniknęła jedyna rola, którą dało się sfinansować świadczeniem rzeczowym - voucherami sieci handlowej. Vouchery zostają w kosztorysie plebiscytu rozmowy jako sposób rozliczenia części kwoty, ale osobne drzwi dla partnera tego rodzaju przestały istnieć. W pytaniach do kancelarii prawnej zapis przestawiony na ten nowy układ.
+
+**Pułapka techniczna, którą warto zapamiętać.** Pierwsze podejście do arkusza rozsypało wartości: `openpyxl` przy wstawianiu i usuwaniu wierszy gubi zawartość komórek objętych scaleniami, a scalenia nie przesuwają się razem z wierszami. Operacja udała się dopiero wtedy, gdy **najpierw zdjąłem wszystkie scalenia, potem przestawiłem wiersze i formuły, a scalenia wierszy opisowych nałożyłem na koniec**. Porównanie z wersją z repozytorium po etykietach wierszy wyłapało pięć parametrów, które przepadły przy pierwszej próbie - w tym stawkę godzinową i roczny koszt narzędzi AI. Przy każdej operacji na strukturze arkusza to porównanie jest obowiązkowe, bo testy w `sprawdz-kwoty.js` widzą tylko sumy, nie brakujące parametry.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

@@ -60,8 +60,9 @@ Obok puli:
 - **nagrody publiczności 12 000 zł brutto** - 10 000 zł dla rozmowy z największą liczbą głosów i 2 000 zł dla głosującego, który najlepiej uzasadnił swój głos;
 - **Nagroda Uczniowska 10 000 zł brutto** - wskazywana przez grupy uczniowskie zgłaszane przez szkoły.
 
-Poza nagrodami rola obejmuje **honoraria jury**, **promocję naboru** i **prowadzenie plebiscytu przez cały rok**:
+Poza nagrodami rola obejmuje **pierwszą rundę oceny**, **honoraria jury**, **promocję naboru** i **prowadzenie plebiscytu przez cały rok**:
 
+- pierwszą rundę oceny, czyli Akademię: piętnastu czytelników, którzy czytają zgłoszone rozmowy i wypełniają karty oceny, zanim cokolwiek trafi do jury - 45 000 zł wraz z materiałami kalibracyjnymi, szkoleniem, voucherami i udziałem we wspólnym panelu oceniających;
 - rekrutację jury i Akademii oraz kalibrację ocen;
 - obsługę panelu oceny;
 - weryfikację formalną zgłoszeń;
@@ -74,11 +75,13 @@ Nie wzięło się to z ambicji, tylko z rachunku. Nagroda Nike przyznaje od 1997
 
 Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąga zgłoszenia, a bez zgłoszeń nie ma ani plebiscytu, ani Antologii, ani Archiwum. Wysokość puli jest tym, co odróżnia przedsięwzięcie ogólnopolskie od konkursu, o którym nikt się nie dowie.
 
+**Dlaczego pierwsza runda oceny jest w tej roli, a nie osobno.** Do 5 listopada 2026 Akademia była rolą odrębną, a jednym z pięciu warunków otwarcia naboru jest zapewnione finansowanie pierwszej rundy oceny. Fundator, który wpłacił całą pulę nagród, nie mógł więc doprowadzić do otwarcia własnego plebiscytu, dopóki nie znalazł się ktoś inny. Akademia nie jest przy tym dodatkiem do plebiscytu, tylko jego pierwszą rundą: bez niej nie ma czego przekazać jury. **Koszt tej rundy rośnie z liczbą zgłoszeń**, dlatego umowa wiąże go z przepustowością objętą kosztorysem: powyżej niej regulamin przechodzi w tryb przesiewu z § 8, a nie w dopłatę ponad limit.
+
 **Regulamin przewiduje, że pula może wyłącznie rosnąć i nie może zostać obniżona po otwarciu naboru.** Chroni to uczestników danej edycji, a Fundatorowi daje pewność, że ogłoszona kwota jest kwotą ostateczną w dół.
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**628 684,96 zł netto** (773 282,50 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**679 084,96 zł netto** (835 274,50 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -104,10 +107,15 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Obsługa prawna regulaminu rozmowy                              |       8 000 zł |
 | Fundusz celowy na utrzymanie Archiwum przez dziewięć lat       |       7 920 zł |
 | Przygotowanie i złożenie migawki Archiwum w repozytorium       |       3 550 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      25 251,96 zł |
-| **Razem netto**                                                | **628 684,96 zł** |
-| VAT 23%                                                        |  144 597,54 zł |
-| **Do zapłaty brutto**                                          | **773 282,50 zł** |
+| Akademia rozmowy: honoraria podstawowe piętnastu czytelników   |      37 500 zł |
+| Akademia rozmowy: vouchery za oceniane rozmowy                 |       1 500 zł |
+| Akademia rozmowy: materiały kalibracyjne i szkolenie           |       3 000 zł |
+| Akademia rozmowy: obsługa i rozliczenie voucherów              |       2 000 zł |
+| Akademia rozmowy: udział w panelu oceniających                 |       1 000 zł |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      30 651,96 zł |
+| **Razem netto**                                                | **679 084,96 zł** |
+| VAT 23%                                                        |  156 189,54 zł |
+| **Do zapłaty brutto**                                          | **835 274,50 zł** |
 
 **Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.
 
@@ -116,7 +124,7 @@ Dwie pozycje czekają na wycenę i zostaną uzgodnione osobno:
 - **honoraria jury za przygotowanie karty oceny** przed otwarciem naboru;
 - **ubezpieczenie odpowiedzialności cywilnej organizatora**, którego zakres wskaże konsultacja prawna.
 
-**Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 660 000 zł netto, czyli 811 800 zł brutto**. Jest to maksimum całego wypływu po stronie Fundatora: obejmuje kwotę z tabeli, obie pozycje bez ceny, rezerwę i każdą ewentualną dopłatę. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Mówimy przy tym wprost, czym limit nie jest: **ogranicza zobowiązanie Fundatora, a nie gwarantuje, że pieniądze na wykonanie się znajdą.** Gdyby ich zabrakło, Fundatorowi zostaje prawo wycofania nazwy i zwrot za świadczenia niewykonane - a nie Archiwum i werdykt, których za te brakujące pieniądze nikt nie wykona. 
+**Górny limit zobowiązania.** Żeby te dwie pozycje nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 710 400 zł netto, czyli 873 792 zł brutto**. Jest to maksimum całego wypływu po stronie Fundatora: obejmuje kwotę z tabeli, obie pozycje bez ceny, rezerwę i każdą ewentualną dopłatę. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Mówimy przy tym wprost, czym limit nie jest: **ogranicza zobowiązanie Fundatora, a nie gwarantuje, że pieniądze na wykonanie się znajdą.** Gdyby ich zabrakło, Fundatorowi zostaje prawo wycofania nazwy i zwrot za świadczenia niewykonane - a nie Archiwum i werdykt, których za te brakujące pieniądze nikt nie wykona. 
 
 Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile obie otwarte pozycje mogą rozsądnie wynieść wraz z rezerwą, która je obejmie: przygotowanie karty oceny to kilka godzin pracy każdego z jurorów, a polisa odpowiedzialności cywilnej przy tej skali działalności jest kosztem rzędu kilku tysięcy złotych. **Ograniczenie zakresu nie może naruszyć rdzenia świadczeń opisanego niżej**, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
@@ -143,16 +151,16 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile 
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
-**Kiedy i za co Fundator płaci - cała cena, nie jej część.** Harmonogram obejmuje wszystkie 628 684,96 zł, żeby nie trzeba było składać go z kilku akapitów:
+**Kiedy i za co Fundator płaci - cała cena, nie jej część.** Harmonogram obejmuje wszystkie 679 084,96 zł, żeby nie trzeba było składać go z kilku akapitów:
 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
-| Po konsultacji prawnej i po potwierdzeniu finansowania pierwszej rundy, przed otwarciem naboru | 429 226 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 7 226, domeny na dziesięć lat 3 000, magazyn kopii 1 500, księgowość 1 500 |
-| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **167 909,20 zł** |
-| Po zamknięciu naboru i zakończeniu pierwszej rundy | według godzin | kolejna część pracy organizatora, na tych samych zasadach |
-| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta ze 167 909,20 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
+| Po konsultacji prawnej, przed otwarciem naboru | 432 323 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 6 323, materiały kalibracyjne i szkolenie Akademii 3 000, domeny na dziesięć lat 3 000, magazyn kopii 1 500, księgowość 1 500, udział w panelu oceniających 1 000 |
+| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **214 761,96 zł** |
+| Po zamknięciu naboru i zakończeniu pierwszej rundy | według godzin oraz 41 000 zł | kolejna część pracy organizatora na tych samych zasadach, a do tego pierwsza runda oceny: honoraria piętnastu czytelników 37 500, vouchery 1 500 i ich rozliczenie 2 000 |
+| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta z 214 761,96 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
 | Osobno, po zakończeniu oceny | 32 000 zł | honoraria jury, na podstawie umów z jurorami, w kwotach z tych umów i bez narzutu; pieniądze nie przechodzą przez wykonawcę pracy organizatora |
-| **Razem** | **628 684,96 zł** | 429 226 + 167 909,20 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
+| **Razem** | **679 084,96 zł** | 432 323 + 214 761,96 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
 
 **Dlaczego pula idzie przed naborem.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner się wywiąże.
 
@@ -166,11 +174,9 @@ Dwóch recenzentów po kolei zarzuciło tej ofercie to samo: że obiecuje rezult
 
 **Fundacja - zależność bezwzględna, ale nie Państwa ryzyko.** Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody i to ona podpisuje umowę. Jej powołanie, obsługa i weryfikacja statutu należą do roli [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela). Jeżeli fundacji nie będzie, **nie ma z kim podpisać umowy i nie ma żadnej wpłaty** - ryzykiem jest to, że przedsięwzięcie nie ruszy, a nie to, że Państwa pieniądze są w nim uwięzione.
 
-**Pierwsza runda oceny - zależność realna i to ona jest sednem zarzutu.** Przy dwudziestu i mniej zgłoszeniach regulamin Akademii nie powołuje: każdy juror czyta wszystko, a honoraria jury są w tej ofercie. Powyżej dwudziestu zgłoszeń potrzebna jest Akademia, której rozmowowa część kosztuje **51 520 zł** i należy do roli [Sponsora Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela). Rozwiązujemy to trzema zapisami:
+**Pierwsza runda oceny - zależność, która przestała istnieć.** Do 5 listopada 2026 pierwsza runda była osobną rolą, a jednym z warunków otwarcia naboru jest jej sfinansowanie - Fundator mógł więc wpłacić całą pulę i nadal czekać na kogoś innego. **Dziś pierwsza runda jest w tej ofercie**: 45 000 zł honorariów piętnastu czytelników, voucherów, kalibracji i udziału w panelu oceniających. Przy dwudziestu i mniej zgłoszeniach regulamin Akademii w ogóle nie powołuje: każdy juror czyta wszystko, a honoraria jury też są w tej ofercie, więc pozycja wraca do Fundatora.
 
-1. **Nabór nie otwiera się bez pokrycia pierwszej rundy.** Od 31 października 2026 jest to czwarty warunek otwarcia naboru w regulaminie, obok pokrytej puli nagród, ogłoszonego jury i konsultacji prawnej. Bez niego nabór mógłby ruszyć z opłaconą pulą i bez środków na przeczytanie zgłoszeń.
-2. **Fundator może objąć ten blok sam**, aneksem do umowy: kwota rośnie wtedy o 51 520 zł do **657 822,88 zł netto**, a górny limit zobowiązania do 700 000 zł. Jest to prawo, nie obowiązek, i nie korzystając z niego Fundator niczego nie traci.
-3. **Jeżeli nie stanie się ani jedno, ani drugie**, nabór się nie otwiera. Wraca wtedy cała pula nagród, bo żadna nagroda nie została przyznana, oraz te koszty przed naborem, których nie poniesiono. Nie wracają wydatki już poniesione - promocja, która poszła, albo zamówienie opłacone u dostawcy - i mówimy to wprost, bo pierwsza wpłata następuje dopiero po konsultacji prawnej, a przed nią Organizator nie wydaje na rachunek Fundatora ani złotówki. Innymi słowy: im wcześniej zatrzyma się nabór, tym bliżej zwrotu całości, a najwcześniejszy moment wyjścia jest przed pierwszą wpłatą.
+Zostaje druga strona tej samej sprawy, i mówimy o niej wprost: **koszt pierwszej rundy rośnie z liczbą zgłoszeń**, a frekwencji nie znamy. Dlatego kosztorys kupuje nazwaną przepustowość, a powyżej niej regulamin przechodzi w tryb przesiewu z § 8 - jeden odczyt z drugim poniżej progu punktowego - a nie w dopłatę ponad górny limit zobowiązania. Jeżeli zgłoszeń będzie mniej, pozycja maleje i niewykorzystana część wraca, bo honoraria rozliczają się od liczby faktycznie ocenionych rozmów.
 
 **Gala - zależność pozorna.** Regulamin przewiduje ogłoszenie wyników bez gali, jeżeli gali nie da się przeprowadzić do 31 sierpnia 2028. Werdykt, nagrody i Archiwum nie zależą od obsadzenia roli sponsora gali; zależy od niej wieczór, nie wynik.
 
@@ -309,11 +315,10 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 332 773,92 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 235 571,04 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 293,92 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 256 851,04 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
 - **[Fundator hymnu Nagrody Konstela](/oferta-dla-fundatora-hymnu-nagrody-konstela)** - 89 600 zł netto<small>hymn w wersji ludzkiej wraz z teledyskiem, komponowany i nagrywany przez skład jury plebiscytu piosenki; jedyna pozycja edycji spoza plebiscytów</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 268 046,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
-- **[Sponsor Akademii](/oferta-dla-sponsora-akademii-nagrody-konstela)** - 160 160 zł netto<small>pierwsza runda oceny we wszystkich plebiscytach: honoraria oceniających, kalibracja i panel pracy</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 926,72 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
 - **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 731,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
 - **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 459,70 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
 - **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 673,60 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>

@@ -40,17 +40,17 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 <div class="kafle">
 <article>
 <h3>Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją</h3>
-<p>Nagrody dla laureatów i honoraria jury.</p>
+<p>Nagrody dla laureatów, pierwsza runda oceny i honoraria jury.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Fundator nagród w plebiscycie na film o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury, Projektornia i zwiastuny finałowej trójki na gali.</p>
+<p>Nagrody dla laureatów, pierwsza runda oceny, honoraria jury, Projektornia i zwiastuny finałowej trójki na gali.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
 <h3>Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta. Hymn można objąć razem z tą rolą albo zostawić osobnemu Fundatorowi.</p>
+<p>Nagrody dla laureatów, pierwsza runda oceny, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta. Hymn można objąć razem z tą rolą albo zostawić osobnemu Fundatorowi.</p>
 <p class="wiecej"><a href="/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 <article>
@@ -60,13 +60,8 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Mecenas plebiscytu na plakat o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, honoraria jury, transport i ubezpieczenie oryginałów prac finałowych, wystawa przy gali oraz okładka Antologii.</p>
+<p>Nagrody dla laureatów, pierwsza runda oceny, honoraria jury, transport i ubezpieczenie oryginałów prac finałowych, wystawa przy gali oraz okładka Antologii.</p>
 <p class="wiecej"><a href="/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji">Czytaj więcej</a></p>
-</article>
-<article>
-<h3>Sponsor Akademii</h3>
-<p>Pierwsza runda oceny <strong>we wszystkich plebiscytach</strong>: ludzie, którzy czytają zgłoszone rozmowy, oglądają filmy, słuchają piosenek i oglądają plakaty, zanim werdykt trafi do jury. Koszt rośnie wprost z liczbą ocenionych zgłoszeń, więc finansowanie da się oprzeć na świadczeniu rzeczowym – na przykład voucherze zakupowym za każde sto ocenionych zgłoszeń.</p>
-<p class="wiecej"><a href="/oferta-dla-sponsora-akademii-nagrody-konstela">Czytaj więcej</a></p>
 </article>
 </div>
 

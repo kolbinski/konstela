@@ -187,7 +187,6 @@ const PUBLICZNE = new Set([
   'oferta-dla-patrona-medialnego',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji',
-  'oferta-dla-sponsora-akademii-nagrody-konstela',
   'oferta-dla-sponsora-gali-nagrody-konstela',
 ]);
 
@@ -204,7 +203,6 @@ const OFERTY = new Set([
   'oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji',
-  'oferta-dla-sponsora-akademii-nagrody-konstela',
   'oferta-dla-sponsora-gali-nagrody-konstela',
   'oferta-dla-partnera-wydawniczego-antologii',
   'oferta-dla-fundatora-hymnu-nagrody-konstela',
@@ -263,8 +261,6 @@ const DEDYKOWANE = {
     'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji':
     'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji',
-  'oferta-dla-sponsora-akademii-nagrody-konstela':
-    'oferta-dla-sponsora-akademii-nagrody-konstela',
   'oferta-dla-sponsora-gali-nagrody-konstela':
     'oferta-dla-sponsora-gali-nagrody-konstela',
 };
@@ -326,8 +322,6 @@ const OPISY = {
     'Oferta dla sponsora plebiscytu na piosenkę o sztucznej inteligencji: nagrody, sesje studyjne dziesiątki finalistów i hymn z teledyskiem. 265 960 zł netto, kosztorys, świadczenia i warunki.',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji':
     'Oferta dla mecenasa plebiscytu na plakat o sztucznej inteligencji: nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii. 176 032 zł netto, kosztorys i warunki.',
-  'oferta-dla-sponsora-akademii-nagrody-konstela':
-    'Oferta dla sponsora Akademii Nagrody Konstela: pierwsza runda oceny rozmów i filmów, honoraria oceniających, kalibracja i panel. 160 160 zł netto, kwota skalująca się z liczbą zgłoszeń.',
   'oferta-dla-sponsora-gali-nagrody-konstela':
     'Oferta dla sponsora gali Nagrody Konstela: wieczór rozstrzygnięcia wszystkich czterech plebiscytów, sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo. 62 048 zł netto, kosztorys i warunki.',
   'oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela':
@@ -366,7 +360,6 @@ const OBRAZKI = {
   'oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji': '/assets/og-filmu.png',
   'oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji': '/assets/og-piosenki.png',
   'oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji': '/assets/og-plakatu.png',
-  'oferta-dla-sponsora-akademii-nagrody-konstela': '/assets/og-rozmowy.png',
   'plebiscyt-filmu': '/assets/og-filmu.png',
   'plebiscyt-piosenki': '/assets/og-piosenki.png',
   'plebiscyt-plakatu': '/assets/og-plakatu.png',

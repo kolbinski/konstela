@@ -129,7 +129,9 @@ function sprawdzLicencje() {
   const kod = `
 import openpyxl, json
 w = openpyxl.load_workbook('budzet-edycji-pierwszej.xlsx', data_only=True)
-calosc = w['Wyjaśnienia']['B86'].value
+sh = w['Wyjaśnienia']
+calosc = next(sh.cell(r, 2).value for r in range(1, sh.max_row + 1)
+              if str(sh.cell(r, 1).value).startswith('Koszt roczny narzędzi AI'))
 suma = 0.0
 for n in w.sheetnames:
     sh = w[n]

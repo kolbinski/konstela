@@ -198,11 +198,10 @@ Dokumentacja została przygotowana do konsultacji prawnej; zlecenie zostanie zł
 
 Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: kilka mniejszych decyzji jest łatwiejszych do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
-- **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 628 684,96 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
+- **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 679 084,96 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
 - **Sponsor gali** - 52 673,60 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
 - **Partner wydawniczy lub sponsor organizacyjny** - 128 731,90 zł<small>produkcja bezpłatnej Antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
 - **Mecenas Założycielski** - 232 459,70 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
-- **Sponsor Akademii** - 160 160,00 zł<small>pierwsza runda oceny, rozdzielona na plebiscyty i możliwa do objęcia osobno: Akademia rozmowy 51 520,00 zł - honoraria i vouchery czytelników, kalibracja, obsługa rozliczeń - oraz Akademia filmu 108 640,00 zł - honoraria za obejrzenia i kalibracja. Pierwsze przejście oceny piosenek i plakatów należy do tego samego zakresu, ale czeka na ustalenie stawki i pozostaje bez kwoty. Panel oceniających jest jeden dla czterech plebiscytów i dzieli się proporcjonalnie do liczby ocen</small>
 - **Sponsor podcastu** - 21 699,70 zł<small>podcast towarzyszący Nagrodzie: wyceniona jest koordynacja podcastu w dwóch cyklach wraz z udziałem w kosztach narzędzi; produkcja i honorarium prowadzącego czekają na wycenę. Budżet wydzielony z części wydawniczej, żeby ta sama rzecz nie była finansowana przez jednego partnera i oferowana drugiemu</small>
 - **Razem, pozycje obecnie wycenione - 1 123 656,26 zł**
 
@@ -317,7 +316,7 @@ Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich
 | Magazyn kopii archiwalnych piosenek, pięć lat retencji | 1 500 zł |
 | **Razem, pozycje rozstrzygnięte w tej tabeli** | **162 700 - 252 700 zł** |
 
-Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora, i łączy dwie pozycje kosztorysu, które są rozdzielone: **plebiscyt na piosenkę to w arkuszu 235 571,04 zł netto, a hymn „Zapytaj inaczej" wraz z teledyskiem - osobna zakładka i osobne 89 600 zł netto**, razem 325 171,04 zł. Hymn nie startuje w plebiscycie, nie podlega ocenie i rozlicza się niezależnie od werdyktu, dlatego ma własny kosztorys. Kwota plebiscytu składa się z 47 000 zł nagród, 112 267 zł pozostałych kosztów twardych przy środku widełek, 56 100 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń skalowanej ich liczbą oraz 19 800 zł budowy i prowadzenia Słuchalni wraz z Archiwum piosenek - a także 20 204,04 zł rezerwy na nieprzewidziane; kwota hymnu z 80 000 zł produkcji i 9 600 zł rezerwy. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
+Tabela powyżej obejmuje wyłącznie koszty twarde części artystycznej, bez pracy organizatora, i łączy dwie pozycje kosztorysu, które są rozdzielone: **plebiscyt na piosenkę to w arkuszu 256 851,04 zł netto, a hymn „Zapytaj inaczej" wraz z teledyskiem - osobna zakładka i osobne 89 600 zł netto**, razem 325 171,04 zł. Hymn nie startuje w plebiscycie, nie podlega ocenie i rozlicza się niezależnie od werdyktu, dlatego ma własny kosztorys. Kwota plebiscytu składa się z 47 000 zł nagród, 112 267 zł pozostałych kosztów twardych przy środku widełek, 56 100 zł pracy organizatora przez cały rok naboru - w tym 5 500 zł kontroli formalnej zgłoszeń skalowanej ich liczbą oraz 19 800 zł budowy i prowadzenia Słuchalni wraz z Archiwum piosenek - a także 20 204,04 zł rezerwy na nieprzewidziane; kwota hymnu z 80 000 zł produkcji i 9 600 zł rezerwy. Widełki w tabeli wynikają z dwóch największych pozycji, czyli nagrań studyjnych i hymnu z teledyskiem.
 
 Pięć uwag do tego kosztorysu, powiedzianych wprost.
 
@@ -432,10 +431,10 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Obsługa prawna regulaminu plebiscytu | 8 000 zł |
 | Narzędzia AI i licencje, udział tego budżetu | 6 323zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 12 954,72 zł |
-| **Razem, pozycje rozstrzygnięte** | **268 046,72 zł** |
+| **Razem, pozycje rozstrzygnięte** | **280 926,72 zł** |
 | Wystawa w galerii sztuki po gali, jeżeli zostanie pozyskana - poza sumą powyżej | 4 928 zł |
 
-Kwota **268 046,72 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi wystawa w galerii sztuki wraz z cichą licytacją oryginałów - 4 928 zł w aneksie Budżetu Plakatu, finansowana przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
+Kwota **280 926,72 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi wystawa w galerii sztuki wraz z cichą licytacją oryginałów - 4 928 zł w aneksie Budżetu Plakatu, finansowana przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
@@ -531,7 +530,7 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 | Obsługa prawna regulaminu plebiscytu | 8 000 zł |
 | Narzędzia AI i licencje, udział tego budżetu | 6 323zł |
 | Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 15 171 zł |
-| **Razem, pozycje rozstrzygnięte** | **332 773,92 zł** |
+| **Razem, pozycje rozstrzygnięte** | **440 293,92 zł** |
 | Przygotowanie techniczne zwiastunów do emisji galowej | do wyceny |
 
 Dwie uwagi do tego kosztorysu.
@@ -540,7 +539,7 @@ Dwie uwagi do tego kosztorysu.
 
 Produkcji filmów - organizator nie finansuje ani nie współfinansuje powstania żadnego zgłoszenia, a to jest dla oceny wniosku rozstrzygające: wydatki to pula nagród, ocena, honoraria jury i pokazy. Nie obejmuje też pierwszego przejścia oceny, które stoi w budżecie Akademii, żeby nie liczyć go dwa razy.
 
-**Akademia filmu jest w tym przedsięwzięciu pozycją najszybciej rosnącą.** Przepustowość objęta kosztorysem to 300 obejrzeń po około 2 godziny każde, czyli 90 tys. zł honorariów przy stawce 300 zł za obejrzenie z wypełnieniem karty oceny. Budżet Akademii rośnie z tego powodu z 49 280 zł do 160 160 zł. Tabela w [arkuszu budżetowym](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-Akademii) pokazuje, co się dzieje przy kolejnych wolumenach, i wniosek z niej jest jednoznaczny: przy kilkuset zgłoszeniach trzeba zmienić konstrukcję pierwszego przejścia, a nie mnożyć stawkę. Mówię to wprost, zamiast przedstawiać kosztorys, który działa tylko przy jednej liczbie zgłoszeń.
+**Akademia filmu jest w tym przedsięwzięciu pozycją najszybciej rosnącą.** Przepustowość objęta kosztorysem to 300 obejrzeń po około 2 godziny każde, czyli 90 tys. zł honorariów przy stawce 300 zł za obejrzenie z wypełnieniem karty oceny. Pierwsza runda oceny filmów kosztuje z tego powodu 96 000 zł wraz z kalibracją i udziałem w panelu oceniających i od 5 listopada 2026 należy do budżetu tego plebiscytu, a nie do osobnej roli. Tabela w [arkuszu budżetowym](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-Akademii) pokazuje, co się dzieje przy kolejnych wolumenach, i wniosek z niej jest jednoznaczny: przy kilkuset zgłoszeniach trzeba zmienić konstrukcję pierwszego przejścia, a nie mnożyć stawkę. Mówię to wprost, zamiast przedstawiać kosztorys, który działa tylko przy jednej liczbie zgłoszeń.
 
 **Dlaczego pula jest tu najwyższa ze wszystkich trzech plebiscytów artystycznych.** Zgłoszeniem jest film trwający co najmniej 20 minut, zwykle powstały w zespole, i to jedyny z tych plebiscytów, w którym uczestnik ponosi realne koszty produkcji - a organizator nie zwraca ich ani przed, ani po plebiscycie. Nagroda jest więc jedynym świadczeniem po jego stronie.
 

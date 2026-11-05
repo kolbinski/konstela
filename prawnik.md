@@ -113,7 +113,7 @@ Osobne pytanie z tej samej rozmowy, dotyczące już nie Akademii, lecz sponsora:
 
 ## G. Sponsor Akademii i vouchery dla oceniających
 
-Rozważamy osobnego sponsora pierwszej rundy oceny - najprawdopodobniej sieć handlową - który finansowałby pracę czytelników Akademii **świadczeniem rzeczowym**: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet Akademii](/arkusz/budzet-edycji-pierwszej#budzet-Akademii).
+Pierwsza runda oceny należy do roli fundatora każdego plebiscytu, ale rozważamy, by część jej kosztu - pracę czytelników Akademii - fundator mógł pokryć **świadczeniem rzeczowym**, na przykład we współpracy z siecią handlową: voucherem zakupowym naliczanym od liczby ocenionych rozmów (robocze założenie: jeden voucher za każde sto odczytów, obok honorarium podstawowego). Wyliczenie jest w arkuszu, w zakładce [Budżet Akademii](/arkusz/budzet-edycji-pierwszej#budzet-Akademii).
 
 29. **Charakter świadczenia i podatek po stronie czytelnika.** Voucher otrzymywany przez czytelnika Akademii - jak go zakwalifikować? Jeżeli czytelnik pracuje na podstawie umowy zlecenia, czy voucher stanowi część wynagrodzenia z tej umowy, czy odrębne świadczenie? Jeżeli czytelnik działa nieodpłatnie albo na podstawie porozumienia wolontariackiego, czy powstaje przychód z innych źródeł i obowiązek wystawienia PIT-11? Czy zastosowanie ma zwolnienie z art. 21 ustawy o PIT, a jeżeli tak, do jakiej kwoty? Jak to wygląda po stronie składek ZUS.
 

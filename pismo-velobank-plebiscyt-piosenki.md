@@ -2,9 +2,9 @@
 
 *Wersja online do przeczytania pod adresem https://konstela.org/dokument/pismo-velobank-plebiscyt-piosenki/*
 
-Proponuję VeloBankowi **rolę Fundatora nagród w plebiscycie na piosenkę o sztucznej inteligencji** w pierwszej edycji Nagrody Konstela. Finansowanie objęłoby **nagrody pieniężne - 47 000 zł brutto**, w tym 35 000 zł dla czołowej trójki i 12 000 zł w głosowaniu publiczności, **ocenę zgłoszeń wraz z honorariami jury**, **prowadzenie plebiscytu przez cały rok naboru** oraz **dziesięć sesji studyjnych** dla całej dziesiątki finalistów wraz z dokumentacją zdjęciową i filmową tych sesji.
+Proponuję VeloBankowi **rolę Fundatora nagród w plebiscycie na piosenkę o sztucznej inteligencji** w pierwszej edycji Nagrody Konstela. Finansowanie objęłoby **nagrody pieniężne - 47 000 zł brutto**, w tym 35 000 zł dla czołowej trójki i 12 000 zł w głosowaniu publiczności, **pierwszą rundę oceny wraz z honorariami jury**, **prowadzenie plebiscytu przez cały rok naboru** oraz **dziesięć sesji studyjnych** dla całej dziesiątki finalistów wraz z dokumentacją zdjęciową i filmową tych sesji.
 
-**Proponowany limit finansowania wynosi 280 400 zł netto.** Obecnie wycenione pozycje to 235 571,04 zł netto, a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiam przed podpisaniem umowy, a limit z umowy jest ostateczny i w trakcie edycji nie rośnie. Realizacja koncertu podczas gali wymaga osobnego finansowania i nie jest warunkiem objęcia tej roli.
+**Proponowany limit finansowania wynosi 301 680 zł netto.** Obecnie wycenione pozycje to 256 851,04 zł netto, a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiam przed podpisaniem umowy, a limit z umowy jest ostateczny i w trakcie edycji nie rośnie. Realizacja koncertu podczas gali wymaga osobnego finansowania i nie jest warunkiem objęcia tej roli.
 
 Pełny opis roli wraz z kosztorysem pozycja po pozycji jest pod adresem https://konstela.org/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji/.
 
