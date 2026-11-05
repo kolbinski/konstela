@@ -1265,6 +1265,16 @@ Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmi
 
 **Najcenniejsza z tych poprawek dotyczy skali dotarcia.** Bank nie chciał prognozy zgłoszeń - chciał zobowiązania do pracy, którą kontrolujemy. Stąd liczba wyprowadzona z godzin, a nie z nadziei: **100 nazwanych instytucji w dwóch turach, rejestr wysyłek i odpowiedzi jako załącznik do raportu etapu**. Ta sama konstrukcja nadaje się do trzech pozostałych plebiscytów, kiedy przyjdzie ich kolej.
 
+## Limit zgłoszeń i próg dodatkowej obsługi w plebiscycie piosenki (5.11.2026)
+
+**Dziesiąta tura recenzji wymusiła zmianę regulaminu, nie oferty**, i zarzut był celny: zamknięcie naboru w terminie regulaminowym nie zmniejsza liczby zgłoszeń już przyjętych, więc obietnica pracy ponad kosztorys nie jest rozwiązaniem przy skali, którą sami nazwaliśmy niewykonalną.
+
+**§ 4 regulaminu piosenki ma trzy nowe ustępy.** Nabór może zamknąć się przed terminem po osiągnięciu limitu ogłoszonego w dniu otwarcia naboru; limit nie może być niższy niż przepustowość objęta kosztorysem, a w pierwszej edycji planujemy **750 zgłoszeń**; po przyjęciu **300 zgłoszeń** uruchamiana jest dodatkowa obsługa kontroli formalnej i oceny, finansowana z rezerwy. Obie liczby są policzone, a nie przyjęte z wyczucia: rezerwa 22 484,04 zł przy koszcie kontroli formalnej 36,67 zł za zgłoszenie pokrywa około 600 zgłoszeń ponad przepustowość objętą kosztorysem, czyli do mniej więcej 750 łącznie.
+
+**Czego ten limit nie jest.** Nie jest sposobem na ograniczenie zainteresowania ani na obniżenie kosztu - jest zobowiązaniem, że każde przyjęte zgłoszenie zostanie sprawdzone i ocenione. Zamknięcie naboru przed terminem byłoby informacją na kolejną edycję, o potrzebie narzędzi i większego budżetu oceny.
+
+**Do zrobienia: te same trzy ustępy w regulaminach rozmowy, filmu i plakatu.** Dziś ma je wyłącznie piosenka, bo od niej zaczęła się recenzja; problem jest identyczny we wszystkich czterech, a liczby trzeba policzyć osobno, bo różnią się rezerwy i czas kontroli formalnej (rozmowa 10 minut, film 12, plakat 10). Dopóki tego nie zrobimy, uczestnicy czterech plebiscytów mają różne zasady w tej samej edycji - i to jest wada, nie etap.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
