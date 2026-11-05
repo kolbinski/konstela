@@ -405,6 +405,23 @@
   :root.czytelnie {
     font-size: 100% !important;
   }
+  /* Na papierze obowiązuje drabina nagłówków z arkusza wydruku, a nie
+     wielkości trybu czytelnego: te są policzone dla ekranu telefonu i w
+     PDF-ie dawały nagłówki sekcji większe niż tytuł dokumentu. */
+  :root.czytelnie body h1:not(.topbar):not(.topbar *) {
+    font-size: 20pt !important;
+  }
+  :root.czytelnie body h2:not(.topbar):not(.topbar *) {
+    font-size: 16pt !important;
+  }
+  :root.czytelnie body h3:not(.topbar):not(.topbar *) {
+    font-size: 13pt !important;
+  }
+  :root.czytelnie body h4:not(.topbar):not(.topbar *),
+  :root.czytelnie body h5:not(.topbar):not(.topbar *),
+  :root.czytelnie body h6:not(.topbar):not(.topbar *) {
+    font-size: 11.5pt !important;
+  }
 }
 
 /* Na końcu, bo ma wygrywać z regułą ogólną wielkości pisma. */
