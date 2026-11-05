@@ -1249,6 +1249,8 @@ Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmi
 
 **Reszta uwag tej tury dotyczyła oferty, nie pisma** - i to jest wzór, który powtarza się trzeci raz: dokument linkujący do innego recenzuje się w parze, bo adresat czyta go w parze. Ujednolicona formuła kwoty, usunięta nieaktualna łączna cena z hymnem (po wejściu pierwszej rundy oceny do roli przestała się zgadzać), harmonogram płatności rozpisany na **wszystkie** pozycje kosztorysu zamiast na ich część oraz nazwany odbiorca pracy organizatora - Rada Fundacji, której skład Fundator poznaje przed umową.
 
+**Siódma tura zamknęła pismo do VeloBanku** - zostają dwie drobne poprawki, obie przyjęte. Z drugiej wyszła zasada warta zapamiętania: **pierwszy adresat ma dostać jedną czynność, nie listę pytań**. Trzy pytania postawione przed wskazaniem osoby kazały sekretariatowi zebrać stanowisko kilku osób, zanim cokolwiek odpisze; przeniesione za nie, do pierwszej wymiany z właściwą osobą, nic nie tracą, a próg odpowiedzi spada do jednego zdania.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
