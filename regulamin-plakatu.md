@@ -439,7 +439,7 @@ Hierarchia, czytelność i nośność wypowiedzi w różnych skalach, w tym w po
 
 1a. **Oryginał jest sprowadzany w dwóch i tylko w dwóch sytuacjach**: na oględziny, jeżeli jury ich zażąda zgodnie z ust. 2, oraz na wystawę w galerii sztuki, jeżeli do niej dojdzie (ust. 6). W obu Organizator pokrywa koszty przesyłki w obie strony, opakowania oraz **ubezpieczenia obejmującego cały czas, w którym praca pozostaje poza miejscem jej przechowywania przez autora**. Uczestnik nie ponosi kosztów opakowania, przewozu ani ubezpieczenia na żadnym etapie.
 
-2. **Oględziny oryginału na żądanie jury.** Jury może zażądać dostarczenia oryginału pracy finałowej, jeżeli oświadczenie Uczestnika, nagranie z § 4a oraz pozostałe materiały dokumentujące powstawanie pracy nie rozstrzygają, czy praca została wykonana ręcznie (§ 6 i § 7 ust. 6). Żądanie jest pisemne, wskazuje powód i wyznacza termin nie krótszy niż 21 dni. **Organizator zwraca pracę w terminie 30 dni od zakończenia oględzin.**
+2. **Oględziny oryginału na żądanie jury.** Jury może zażądać dostarczenia oryginału pracy finałowej, jeżeli oświadczenie Uczestnika, nagranie z § 4a oraz pozostałe materiały dokumentujące powstawanie pracy nie rozstrzygają, czy praca została wykonana ręcznie (§ 6 ust. 6). Żądanie jest pisemne, wskazuje powód i wyznacza termin nie krótszy niż 21 dni. **Organizator zwraca pracę w terminie 30 dni od zakończenia oględzin.**
 
 2a. **Niedostarczenie oryginału na żądanie**, po co najmniej trzech próbach kontaktu podjętych w okresie nie krótszym niż 14 dni, wywołuje ten sam skutek co odmowa z ust. 3: praca jest oceniana na podstawie reprodukcji i dostępnych materiałów, bez utraty nagrody i bez obniżenia punktacji.
 
