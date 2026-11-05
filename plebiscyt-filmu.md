@@ -24,7 +24,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
 - na gali trzy najwyżej ocenione filmy pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
-- nabór zamykamy **30 listopada 2027**
+- nabór zamykamy **30 listopada 2027**, a jeżeli wcześniej wpłynie **250 zgłoszeń** - w dniu, w którym ta liczba zostanie osiągnięta (§ 17 ust. 3a regulaminu). Limit jest tu niższy niż w pozostałych plebiscytach, bo obejrzenie jednego filmu kosztuje wielokrotnie więcej niż ocena zgłoszenia gdzie indziej; **jeżeli kręcisz film na ten plebiscyt, nie zostawiaj zgłoszenia na ostatni tydzień**
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -327,7 +327,7 @@ To najdroższy z czterech plebiscytów dla osoby, która się zgłasza: film trw
 
 <dl class="harmonogram">
 <div><dt>1 stycznia 2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
-<div><dt>30 listopada 2027</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia</small></dd></div>
+<div><dt>30 listopada 2027 albo wcześniej</dt><dd>Zamknięcie naboru<small>film musi być ukończony najpóźniej w dniu zgłoszenia; nabór zamyka się wcześniej, jeżeli wpłynie 250 zgłoszeń</small></dd></div>
 <div><dt>Styczeń 2028</dt><dd>Pierwsze przejście oceny<small>wszystkie zgłoszenia ogląda Akademia filmu</small></dd></div>
 <div><dt>Po zamknięciu oceny wstępnej</dt><dd>Otwarcie głosowania publiczności<small>datę ogłaszamy osobno: zależy od zakończenia weryfikacji wszystkich zgłoszeń i zamknięcia pierwszego przejścia oceny; głosowanie trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Werdykt jury<small>finaliści dowiadują się wcześniej, bo zapraszamy ich na galę, ale nie znają zajętego miejsca z werdyktu jury</small></dd></div>
