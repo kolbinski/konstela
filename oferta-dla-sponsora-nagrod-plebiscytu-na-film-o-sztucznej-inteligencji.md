@@ -91,7 +91,7 @@ Obok puli **nagrody publiczności 12 000 zł brutto**:
 - **10 000 zł** dla zgłoszenia z największą liczbą głosów;
 - **2 000 zł** za najlepsze uzasadnienie oddanego głosu, wybierane przez trzyosobowy zespół powołany spoza jury.
 
-**Pierwsza runda oceny należy do tej roli.** Zgłoszenia przechodzą najpierw przez Akademię - ludzi, którzy oglądają zgłoszone filmy - każdy dwa razy, niezależnie od siebie - i wypełniają karty oceny, zanim cokolwiek trafi do jury. Do 5 listopada 2026 była to rola odrębna, a ponieważ jednym z pięciu warunków otwarcia naboru jest zapewnione finansowanie pierwszej rundy, Fundator po wpłaceniu całej puli nagród nadal nie mógł doprowadzić do otwarcia własnego plebiscytu. **Koszt tej rundy rośnie z liczbą zgłoszeń**, dlatego umowa wiąże go z przepustowością objętą kosztorysem: powyżej niej regulamin przechodzi w tryb przesiewu z § 8, a nie w dopłatę ponad limit. Przy przepustowości objętej kosztorysem to 300 obejrzeń po 300 zł, czyli 90 000 zł, a wraz z kalibracją i udziałem w panelu oceniających 96 000 zł - najdroższa pozycja oceny w całej edycji, bo film ogląda się dłużej niż czyta rozmowę.
+**Pierwsza runda oceny należy do tej roli.** Zgłoszenia przechodzą najpierw przez Akademię - ludzi, którzy oglądają zgłoszone filmy - każdy dwa razy, niezależnie od siebie - i wypełniają karty oceny, zanim cokolwiek trafi do jury. Jest w tej roli, bo jednym z pięciu warunków otwarcia naboru jest zapewnione finansowanie pierwszej rundy: bez niego Fundator wpłaciłby całą pulę nagród i nadal nie mógłby doprowadzić do otwarcia własnego plebiscytu. **Koszt tej rundy rośnie z liczbą zgłoszeń**, dlatego umowa wiąże go z przepustowością objętą kosztorysem: powyżej niej regulamin przechodzi w tryb przesiewu z § 8, a nie w dopłatę ponad limit. Przy przepustowości objętej kosztorysem to 300 obejrzeń po 300 zł, czyli 90 000 zł, a wraz z kalibracją i udziałem w panelu oceniających 96 000 zł - najdroższa pozycja oceny w całej edycji, bo film ogląda się dłużej niż czyta rozmowę.
 
 Poza nagrodami rola obejmuje **prowadzenie plebiscytu przez cały rok naboru**:
 
@@ -156,7 +156,7 @@ To jest też odpowiedź na pytanie, dlaczego nie rozdzielamy puli na dziesięć 
 
 Limit zostawia nad dzisiejszym kosztorysem nieco ponad 97 000 zł i jest policzony, a nie wzięty z sufitu: honoraria jury za ocenę to przy wyliczeniach z arkusza 58 000 zł (pięciu jurorów po 40 godzin przy 290 zł za godzinę), etap przygotowawczy karty oceny rzędu 10 000 zł, przygotowanie techniczne zwiastunów rzędu 10 000 zł, a rezerwa obejmie je tak samo jak resztę kosztorysu.
 
-**Dojazd finalistów na galę jest w tej ofercie.** Przeniesiony z Budżetu Gali 31 października 2026: gala jest wspólna dla czterech plebiscytów, więc ten koszt rośnie z liczbą plebiscytów, a sponsor gali nie decyduje, ile ich się odbędzie. Organizacja przyjazdu zostaje wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.
+**Dojazd finalistów na galę jest w tej ofercie, a nie w budżecie gali.** Gala jest wspólna dla czterech plebiscytów, więc ten koszt rośnie z ich liczbą, a sponsor gali nie decyduje, ile ich się odbędzie. Organizacja przyjazdu zostaje wspólna - jeden przewoźnik, jedno rozliczenie - zmienia się wyłącznie to, kto za nią płaci.
 
 Rola sponsora gali nie jest jeszcze obsadzona, więc mówimy wprost, co się dzieje przy jej braku: jeżeli gali nie da się przeprowadzić do 31 sierpnia 2028 roku, regulamin przewiduje ogłoszenie wyników bez gali, a wtedy nie ma ani przyjazdu finalistów, ani bloku zwiastunów - i jest to jedno ze zdarzeń pozwalających Fundatorowi wycofać nazwę. **Te 8 000 zł wraca wtedy do Fundatora w rozliczeniu**, bo pozycja jest w jego kosztorysie, a koszt nie został poniesiony.
 
@@ -193,7 +193,7 @@ Obsługa prawna regulaminu filmu **nie jest pozycją otwartą**: ma w tabeli kwo
 
 **Kto decyduje o uruchomieniu rezerwy.** Rezerwa pokrywa wyłącznie przekroczenia pozycji, które są w tabeli powyżej; nie finansuje zakresu, którego w niej nie ma. Każde jej użycie wskazane jest w sprawozdaniu z nazwy pozycji, kwoty i powodu. **Użycie rezerwy na dodatkową pracę działalności gospodarczej Organizatora wymaga uprzedniej pisemnej zgody Rady Fundacji** - organu, w którym nie zasiada żaden członek Zarządu - bo jest to transakcja z podmiotem powiązanym; umowy i spory z członkami Zarządu należą do kompetencji Rady z mocy statutu, a nie z uznania Zarządu. Pojedyncze użycie powyżej **5 000 zł** wymaga zgody Rady niezależnie od tego, kto jest wykonawcą, a Fundator jest o nim zawiadamiany **przed** wydaniem pieniędzy, nie przy rozliczeniu.
 
-**Projektornia, Archiwum i magazyn kopii należą do tego plebiscytu.** Od 31 października 2026 roku każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych; w tym kosztorysie jest więc nie tylko ich prowadzenie, ale i budowa.
+**Projektornia, Archiwum i magazyn kopii należą do tego plebiscytu.** Każdy z czterech plebiscytów buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych; w tym kosztorysie jest więc nie tylko ich prowadzenie, ale i budowa.
 
 **Po co magazyn kopii archiwalnych.** Film leży na kanale autora, a kanał może zniknąć razem z nim - i wtedy Archiwum zostaje z martwym linkiem, a pokazu kuratorskiego nie ma z czego zrobić. Dlatego po zamknięciu naboru Organizator pobiera kopię każdego zgłoszonego filmu i przechowuje ją w magazynie obiektowym w Unii Europejskiej, z kopią zapasową, przez pięć lat.
 
@@ -237,7 +237,7 @@ Regulamin wymienia **pięć warunków, które muszą być spełnione łącznie**
 4. **pierwsza runda oceny ma zapewnione finansowanie** w zakresie odpowiadającym przepustowości przyjętej w kosztorysie edycji;
 5. **obsługa naboru jest pokryta** w tym samym zakresie.
 
-Czwarty i piąty warunek doszły po audycie operacyjnym 1 listopada 2026 i to one odpowiadają za rzecz, którą Fundator kupuje najbardziej: że zgłoszenia zostaną obejrzane. Wyliczenie przepustowości Organizator przedstawia na żądanie sponsorowi pierwszej rundy oceny, Radzie Fundacji **oraz Fundatorowi puli nagród**, przed podpisaniem umowy.
+Czwarty i piąty warunek odpowiadają za rzecz, którą Fundator kupuje najbardziej: za to, że zgłoszenia zostaną obejrzane. Wyliczenie przepustowości Organizator przedstawia na żądanie sponsorowi pierwszej rundy oceny, Radzie Fundacji **oraz Fundatorowi puli nagród**, przed podpisaniem umowy.
 
 Jeżeli nabór nie zostanie otwarty w 2027 roku, Organizator przedstawia rozliczenie wydatków faktycznie poniesionych do tego dnia, a **kwota niewykorzystana wraca do Fundatora** albo, według jego wyboru, przechodzi na kolejną edycję.
 

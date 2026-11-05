@@ -107,7 +107,7 @@ Wszystkie trzy zawierają dziesięć najwyżej ocenionych rozmów w całości, b
 
 Granica przy wydaniu książkowym przebiega tak: **mecenas Antologii finansuje powstanie treści** - redakcję, korektę, skład, przygotowanie do druku i bezpłatny e-book, czyli wszystko to, z czego książka jest zrobiona. **Nakład handlowy i wprowadzenie go do księgarń bierze na siebie partner wydawniczy**, osobna rola osobnego podmiotu, z którym rozmowy są w toku. W kosztorysie poniżej jest tylko krótki nakład na galę i tylko warunkowo: drukujemy go, jeżeli wydanie księgarskie nie będzie gotowe na dzień premiery. Mecenas Antologii jest wymieniony w każdym wydaniu niezależnie od tego, kto je wydrukował.
 
-**Archiwum rozmów finansuje od 31 października 2026 roku [fundator nagród plebiscytu rozmowy](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja), a nie ta rola.** Opisujemy je tutaj, bo Antologia z niego wyrasta i bez niego nie miałaby z czego powstać, ale jego budowa i utrzymanie należą do tamtego kosztorysu. Zasada jest od tej daty jedna dla wszystkich czterech plebiscytów: każdy buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych.
+**Archiwum rozmów finansuje [fundator nagród plebiscytu rozmowy](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja), a nie ta rola.** Opisujemy je tutaj, bo Antologia z niego wyrasta i bez niego nie miałaby z czego powstać, ale jego budowa i utrzymanie należą do tamtego kosztorysu. Zasada jest od tej daty jedna dla wszystkich czterech plebiscytów: każdy buduje i utrzymuje własną ścianę oraz własne Archiwum, rozłącznie i niezależnie od pozostałych.
 
 **Archiwum rozmów** to pełny zbiór wszystkich zgłoszeń, które przeszły weryfikację formalną - sprawdzenie liczby słów, języka i kompletności, za które odpowiada Organizator i które nie jest oceną treści.
 
@@ -120,7 +120,7 @@ Powstaje w dwóch krokach i warto znać różnicę. Przez cały rok naboru zgło
 - rozmowy z osobami, które nigdy wcześniej nie korzystały ze sztucznej inteligencji;
 - odcinki nagrywane z nastolatkami. Odcinki i ich fragmenty mają być przekazywane nieodpłatnie mediom i instytucjom edukacyjnym; zabezpieczą to umowy z prowadzącym i z gośćmi. Nie przedstawiamy tego jako stanu dokonanego, bo prowadzący nie jest jeszcze wybrany.
 
-**Podcast ma od 31 października 2026 własny budżet i własną rolę** - [Sponsora podcastu](/oferta-dla-sponsora-podcastu) - i nie jest finansowany z tej oferty. Wcześniej jego koordynacja stała w tym kosztorysie, a sam podcast był jednocześnie obiecywany w osobnej ofercie, czyli jeden partner płaciłby za rzecz sprzedawaną drugiemu. Opisujemy go tutaj nadal, bo powstaje przy tej samej edycji i korzysta z tego samego materiału, ale kwota z tej strony go nie obejmuje.
+**Podcast ma własny budżet i własną rolę** - [Sponsora podcastu](/oferta-dla-sponsora-podcastu) - i nie jest finansowany z tej oferty. Wcześniej jego koordynacja stała w tym kosztorysie, a sam podcast był jednocześnie obiecywany w osobnej ofercie, czyli jeden partner płaciłby za rzecz sprzedawaną drugiemu. Opisujemy go tutaj nadal, bo powstaje przy tej samej edycji i korzysta z tego samego materiału, ale kwota z tej strony go nie obejmuje.
 
 Antologia, Archiwum i podcast są materiałem źródłowym, którego - jak pokazuje przegląd opracowań opisany wyżej - nauczyciel, badacz i uczeń dziś nie mają skąd wziąć.
 
