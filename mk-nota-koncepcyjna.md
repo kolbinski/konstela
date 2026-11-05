@@ -475,7 +475,7 @@ Transport oryginałów przyjąłem po 400 zł za jedną stronę przy dziesięciu
 
 ### Czego kosztorys nie obejmuje
 
-Druku Antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: dwadzieścia godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 2 000 zł za najlepsze uzasadnienie głosu - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
+Druku Antologii, który jest pozycją części wydawniczej, ani kosztów samej licytacji poza pracą organizatora: trzydzieści godzin obsługi licytacji jest w tabeli powyżej, wraz z rezerwą 4 928 zł, i to jest ta część, która pozostaje poza pytaniem do Ministerstwa. Opodatkowanie nagród - wraz ze zwolnieniem, które może objąć nagrodę 2 000 zł za najlepsze uzasadnienie głosu - omawia [rozdział 7](#7-plebiscyt-na-piosenke).
 
 ## 9. Plebiscyt na film
 
