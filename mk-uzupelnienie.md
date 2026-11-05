@@ -4,7 +4,7 @@
 
 Ministerstwo Kultury i Dziedzictwa Narodowego
 
-**Dotyczy: uzupełnienia pisma z 30 października 2026 w sprawie Nagrody Konstela - aktualizacja kwot i zakresu części wydawniczej**
+**Dotyczy: uzupełnienia pisma z 30 października 2026 w sprawie Nagrody Konstela - aktualizacja kwot, zakresu części wydawniczej i konstrukcji finansowania oceny**
 
 Szanowni Państwo,
 
@@ -38,11 +38,15 @@ Rozszerzenie wymagało zmiany regulaminu przed otwarciem naboru. Licencja udziel
 
 Produkcję wyceniam na 40 000,00 zł netto przy około dziesięciu godzinach gotowego nagrania. Pozycja ta należy do budżetu części wydawniczej, finansowanej przez mecenasa Antologii, i **nie wchodzi do kwoty objętej moim pytaniem**.
 
-## Dwie zmiany w konstrukcji finansowania
+## Cztery zmiany w konstrukcji finansowania
 
 **Koszty wspólne przedsięwzięcia mają własną rolę.** Powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty - skraper, weryfikacja formalna i panel oceny - zostały wydzielone z budżetu części wydawniczej do osobnego budżetu uruchomienia, finansowanego przez odrębnego partnera. Obciążanie nimi jednego sponsora oznaczało, że finansuje on infrastrukturę, z której korzystają wszystkie pozostałe zakresy. Podział nie zmienia sumy, tylko przypisanie.
 
 **Strona Nagrody otrzyma instalowalną wersję mobilną**, czyli możliwość dodania jej do ekranu telefonu, działania bez połączenia z siecią, pobrania e-booka i audiobooka Antologii do czytania oraz słuchania offline, a także powiadomień o nowych zgłoszeniach. Rozwiązanie to wybrano zamiast osobnej aplikacji w sklepach, ponieważ nie dubluje treści ani kosztów utrzymania. Koszt 26 400,00 zł netto należy do budżetu uruchomienia i również nie wchodzi do kwoty objętej moim pytaniem.
+
+**Pierwsza runda oceny należy do budżetu każdego plebiscytu, a nie do osobnej roli.** W piśmie z 30 października pierwsze przejście oceny wszystkich czterech plebiscytów stanowiło odrębny zakres finansowania. Dziś należy do budżetu tego plebiscytu, którego dotyczy, ponieważ sfinansowanie pierwszej rundy jest jednym z warunków otwarcia naboru - przy odrębnym zakresie fundator puli nagród nie mógłby doprowadzić do otwarcia własnego plebiscytu bez udziału innego podmiotu. Zmiana nie podnosi sumy przedsięwzięcia poza wyceną dwóch bloków oceny, które wcześniej nie miały kwoty: ocena piosenek i plakatów.
+
+**Nabór każdego plebiscytu ma ogłaszany z góry limit przyjmowanych zgłoszeń** - 350 w plebiscytach rozmowy, piosenki i plakatu oraz 250 w plebiscycie filmu. Limit jest konsekwencją tego, że koszt pierwszej rundy oceny rośnie z liczbą zgłoszeń, a zobowiązanie wobec uczestnika brzmi: każde przyjęte zgłoszenie zostanie ocenione. Po przekroczeniu przepustowości objętej kosztorysem uruchamiana jest dodatkowa obsługa finansowana z rezerwy, a limit wyznacza granicę tej rezerwy.
 
 ## Pozostałe sprawy bez zmian
 
