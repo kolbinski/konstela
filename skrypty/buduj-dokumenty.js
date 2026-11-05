@@ -66,6 +66,17 @@ function naSlug(tekst) {
     .slice(0, 60);
 }
 
+/* Pisma zaczynają się kursywą z adresem swojej wersji online. Zdanie ma sens
+   wyłącznie na papierze i w PDF-ie wysyłanym jako załącznik - czytelnikowi,
+   który i tak jest na tej stronie, mówi, że jest tam, gdzie jest. Akapit
+   dostaje więc klasę ukrywającą go na ekranie; w @media print wraca. */
+function schowajAdresWersjiOnline(html) {
+  return html.replace(
+    /<p>(<em>[^<]*Wersja online[\s\S]*?<\/em>)<\/p>/g,
+    '<p class="tylko-druk">$1</p>'
+  );
+}
+
 function nadajKotwice(html) {
   const uzyte = new Set();
   return html.replace(/<h2([^>]*)>([\s\S]*?)<\/h2>/g, (calosc, atrybuty, wnetrze) => {
@@ -704,7 +715,7 @@ function main() {
         tresc:
           (OFERTY.has(nazwa) ? PASEK_OFERTY : '') +
           otworzObceWNowejKarcie(
-            rozdzielSekcje(nadajKotwice(marked.parse(wstawIkony(md, false))))
+            rozdzielSekcje(nadajKotwice(schowajAdresWersjiOnline(marked.parse(wstawIkony(md, false)))))
           ),
       })
     ));

@@ -655,9 +655,19 @@
         color: var(--ink);
       }
 
+      /* Kursywa z adresem wersji online pisma: potrzebna wyłącznie na
+         papierze i w PDF-ie wysyłanym jako załącznik, bo czytelnikowi strony
+         mówiłaby, że jest tam, gdzie jest. Klasę nadaje skrypt budujący. */
+      #content p.tylko-druk {
+        display: none;
+      }
+
       @media print {
         @page {
           margin: 2cm 1.6cm;
+        }
+        #content p.tylko-druk {
+          display: block;
         }
         /* Elementy nawigacji nie mają sensu na papierze ani w pliku PDF
            wysyłanym jako załącznik: pasek, menu, przycisk czytelności
