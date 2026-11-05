@@ -70,7 +70,7 @@ Sprawdzone zostało jedno: czy dana osoba **wydaje własne utwory**, czy ma nad 
 ### Pierwsza fala: osoby z autorskim dorobkiem
 
 - [ ] **Łukasz Reks** (sezon 16, 4. miejsce) - do finału doszedł **z własną piosenką**. Przed wysyłką sprawdzić kredyty kompozytorskie tego utworu, bo autorski singiel bywa napisany przez kogoś innego. Przy pozytywnym sprawdzeniu pierwszy adres na liście.
-- [ ] **Konrad Baum** (sezon 13, 3. miejsce) - prowadzi karierę solową i wydał kilka własnych utworów ("Sam jak Ty", "Czy to ja", "Człowiek"), mówił wprost, że chce przekuć zainteresowanie w muzykę i własny zespół.Z zawodu lekarz.
+- [ ] **Konrad Baum** (sezon 13, 3. miejsce) - prowadzi karierę solową i wydał kilka własnych utworów ("Sam jak Ty", "Czy to ja", "Człowiek"), mówił wprost, że chce przekuć zainteresowanie w muzykę i własny zespół. Z zawodu lekarz.
 - [ ] **Michał Sołtan** (sezon 14, półfinał) - opisuje się jako kompozytor, wokalista, gitarzysta i producent, ma własną stronę, zespół i regularne koncerty. Profil kompetencji pokrywa się ze zleceniem najdokładniej z całej listy.
 - [ ] **Żaneta Chełminiak** (sezon 16, 5. miejsce) - po programie nie zwolniła tempa, w maju 2026 wydała singiel "Wołam do nocy". Czynna, polska, po świeżym udziale.
 - [ ] **Mateusz Jagiełło** (sezon 16, 3. miejsce) - w trakcie programu zaprezentował własny utwór "Dansing", pracuje w radiu, więc rozumie stronę promocyjną zlecenia.
