@@ -1251,6 +1251,16 @@ Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmi
 
 **Siódma tura zamknęła pismo do VeloBanku** - zostają dwie drobne poprawki, obie przyjęte. Z drugiej wyszła zasada warta zapamiętania: **pierwszy adresat ma dostać jedną czynność, nie listę pytań**. Trzy pytania postawione przed wskazaniem osoby kazały sekretariatowi zebrać stanowisko kilku osób, zanim cokolwiek odpisze; przeniesione za nie, do pierwszej wymiany z właściwą osobą, nic nie tracą, a próg odpowiedzi spada do jednego zdania.
 
+## Symulacja odbioru pisma w banku: przekazują dalej, ale nie bronią wydatku (5.11.2026)
+
+Ósma tura nie była recenzją tekstu, tylko odegraniem odbioru: pracownik banku **przekazuje pismo zespołowi od sponsoringu i odpowiada autorowi**, nie rekomendując finansowania. Zarzutów do pisma nie ma żadnych - decyzję o przekazaniu uruchamia zdanie o dziesięciu nagraniach dla finalistów, którym wystarczy demo.
+
+**Cztery pytania, które padną przed rekomendacją wydatku**, i tylko jedno z nich jest o tekście: do jakich twórców umiemy dotrzeć i kto pomoże ich pozyskać; kto to wykona (potwierdzeni jurorzy, studio, realizacja); co musi być zabezpieczone przed pierwszą wpłatą banku; czy rezultat uzasadnia koszt, skoro czternaście publikacji bez potwierdzonej publiczności nie jest argumentem marketingowym.
+
+**Dwa z nich dało się zamknąć w ofercie i zamknąłem.** Doszła sekcja **„Co zależy od innych partnerów, a co nie"** - której ta oferta, w przeciwieństwie do oferty rozmowy, nigdy nie miała - wraz z rzeczą najważniejszą dla banku: co dzieje się, gdy rola Mecenasa Założycielskiego pozostanie nieobsadzona. Odpowiedź jest uczciwa i sprawdzalna: **w granicach przepustowości objętej kosztorysem plebiscyt da się poprowadzić ręcznie**, bo kontrola formalna jednego zgłoszenia to 10 minut i te godziny są w tej ofercie, a ocena może iść na formularzach zamiast w panelu; powyżej tej przepustowości Organizator ogranicza zakres zgodnie z § 8, zamiast prosić o dopłatę. Druga sekcja - **„Jak docieramy do wykonawców"** - nazywa pięć kanałów (szkoły muzyczne drugiego stopnia i uczelnie, domy kultury, grupy muzyków, scena coverowa, radia akademickie) i mówi wprost, czego w planie nie ma: budżetu mediowego i prognozy frekwencji.
+
+**Dwóch pozostałych nie da się zamknąć pisaniem** - to nazwiska jurorów i oferta studia. Trzeci raz z rzędu recenzja kończy się w tym samym miejscu: TVP po ósmej turze, VeloBank po siódmej i teraz po ósmej. **Dalsza praca nad tekstami ofert ma dziś malejącą wartość, a pracę nad dowodami - rosnącą.**
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.

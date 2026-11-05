@@ -97,6 +97,18 @@ To jest ta część oferty, która zostaje po edycji w postaci słyszalnej: 10 u
 
 Zgłoszenia przechodzą najpierw przez Akademię - ludzi, którzy odsłuchują zgłoszone utwory, każdy dwa razy i niezależnie od siebie, i wypełniają karty oceny, zanim cokolwiek trafi do jury. Przy przepustowości objętej kosztorysem to **300 odsłuchów po 50 zł**, a wraz z materiałami kalibracyjnymi i udziałem we wspólnym panelu oceniających **19 000 zł**. Stawka odpowiada 150 zł za godzinę pracy, tyle samo co przy ocenie filmów. **Koszt tej rundy rośnie z liczbą zgłoszeń**, dlatego umowa wiąże go z przepustowością objętą kosztorysem: powyżej niej regulamin przechodzi w tryb przesiewu z § 8, a nie w dopłatę ponad limit. Pierwsza runda jest częścią tej roli, bo bez jej sfinansowania nabór nie zostanie otwarty - to jeden z pięciu warunków regulaminowych.
 
+### Jak docieramy do wykonawców
+
+Dotarcie do twórców jest w tej roli osobną pozycją - **50 godzin pracy** - i nie polega na ogłoszeniu naboru na własnej stronie. Kierujemy je do środowisk, w których ludzie piszą i nagrywają własne utwory, a nie mają dostępu do studia:
+
+- **szkoły muzyczne drugiego stopnia, wydziały jazzu i wokalno-aktorskie** oraz akademie muzyczne - wysyłka do sekretariatów i do prowadzących, z prośbą o przekazanie studentom;
+- **domy kultury i ogniska muzyczne** w miastach powiatowych, gdzie odbywają się przeglądy i konkursy piosenki;
+- **ogólnopolskie grupy i fora muzyków** - producenckie, wokalne, gitarowe i te skupione wokół tworzenia muzyki z udziałem narzędzi generatywnych;
+- **scena coverowa i konkursy regionalne**, bo stamtąd pochodzą wykonawcy, którzy mają warsztat i publiczność, a nie mają własnego nagrania;
+- **radia akademickie i studenckie** oraz serwisy dla twórców, gdzie zapowiedź naboru jest treścią, a nie reklamą.
+
+**Czego w tym planie nie ma i nie będzie:** budżetu mediowego i płatnej promocji - w kosztorysie tej roli nie ma takiej pozycji, a godziny komunikacji obejmują napisanie i wydanie materiałów, nie ich promowanie. **Nie podajemy też prognozy, ile zgłoszeń wpłynie** - nie mamy na to podstawy i nie będziemy jej udawać. Kosztorys kupuje nazwaną przepustowość, a pozycje rozliczane od liczby zgłoszeń maleją przy mniejszym naborze: Fundator płaci za utwory ocenione, nie za założone.
+
 ### Hymn Nagrody - osobna rola, nie część tej
 
 [Hymn Nagrody „Zapytaj inaczej"](/hymn) w wersji ludzkiej wraz z teledyskiem kosztuje **89 600 zł netto** i ma [własną ofertę](/oferta-dla-fundatora-hymnu-nagrody-konstela) oraz własną zakładkę w arkuszu budżetowym. Powstaje dla całej Nagrody, nie dla tego plebiscytu: nie startuje w konkursie, nie podlega ocenie i rozlicza się niezależnie od werdyktu. **Fundator plebiscytu może objąć także hymn**, ale nie musi, a brak Fundatora hymnu niczego w tej roli nie zmienia.
@@ -186,6 +198,20 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Faktura wychodzi osobno do każdego etapu.
 
 **Kto odbiera pracę organizatora.** 56 100 zł pracy fakturuje działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę - jest to transakcja z podmiotem powiązanym i mówimy o niej przed podpisaniem umowy, nie po. **Odbiór każdego etapu należy do Rady Fundacji**, organu, w którym nie zasiada żaden członek Zarządu; raport etapu wraz z wykazem godzin jest załącznikiem do faktury i trafia również do Fundatora. Skład Rady Fundacji jest jawny i Fundator poznaje go przed zawarciem umowy.
+
+## <!--ikona:ogniwo--><span>Co zależy od innych partnerów, a co nie</span>
+
+Rola jest rozłączna z pozostałymi, ale nie jest samotną wyspą - i lepiej powiedzieć wprost, co musi być zabezpieczone, zanim Fundator wpłaci pierwszą złotówkę.
+
+**Fundacja - zależność bezwzględna, ale nie Państwa ryzyko.** Umowę zawiera fundacja po wpisie do Krajowego Rejestru Sądowego, a jej powołanie i obsługa należą do roli [Mecenasa Założycielskiego](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela). Jeżeli fundacji nie będzie, **nie ma z kim podpisać umowy i nie ma żadnej wpłaty**.
+
+**Narzędzia wspólne - zależność realna, z rozwiązaniem zastępczym.** Panel oceny i narzędzie automatycznej kontroli formalnej stoją w budżecie uruchomienia, czyli u Mecenasa Założycielskiego. Gdyby ta rola pozostała nieobsadzona, **plebiscyt da się przeprowadzić ręcznie w granicach przepustowości objętej kosztorysem**: kontrola formalna jednego zgłoszenia to 10 minut i te godziny są w tej ofercie, a ocena może iść na formularzach zamiast w panelu. Powyżej tej przepustowości narzędzia przestają być wygodą i stają się warunkiem - i to jest moment, w którym Organizator ogranicza zakres zgodnie z § 8, a nie prosi Fundatora o dopłatę.
+
+**Gala - zależność częściowa.** Wieczór rozstrzygnięcia finansuje [sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela), a realizacja części artystycznej jest osobną pozycją bez ceny. Jeżeli gali nie da się przeprowadzić, regulamin przewiduje ogłoszenie werdyktu na stronie: nagrody są wypłacane, nagrania powstają, a świadczenia związane wyłącznie z galą - wykonanie czołowej trójki na żywo i oznaczenie w zapisie wideo - nie są realizowane i nie podlegają zamianie na pieniądze.
+
+**Płyta i hymn - bez zależności w żadną stronę.** Wydanie płyty wymaga osobnego partnera wydawniczego i umów, które autor zawiera z wydawnictwem; brak wydawcy nie odbiera nikomu nagrania ani praw do niego. Hymn ma własną rolę i własny kosztorys, a jego los nie wpływa na ten plebiscyt.
+
+**Co musi być zabezpieczone przed pierwszą wpłatą Fundatora:** fundacja wpisana do rejestru, konsultacja prawna regulaminu zakończona, skład jury ogłoszony oraz pierwsza runda oceny pokryta - czyli to, co ta rola finansuje. Pierwsza wpłata następuje po konsultacji prawnej; przed nią Organizator nie wydaje na rachunek Fundatora ani złotówki.
 
 ## <!--ikona:tarcza--><span>Co, jeżeli edycja nie ruszy albo nie zostanie rozstrzygnięta</span>
 
