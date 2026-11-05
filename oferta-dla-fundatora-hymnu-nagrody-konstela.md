@@ -9,7 +9,7 @@ Hymn jest jedyną pozycją w całej edycji, która **nie należy do żadnego ple
 - **Kompozycja i nagranie wersji ludzkiej** hymnu do istniejącego tekstu - muzykę pisze i wykonuje skład jury plebiscytu piosenki
 - **Teledysk** do tej wersji
 - **Premiera w czasie trwania naboru w 2027 roku**, bo hymn jest zarazem zaproszeniem do zgłoszeń
-- **Wykonanie na gali**: hymn otwiera i zamyka wieczór rozstrzygnięcia czterech plebiscytów w drugiej połowie czerwca 2028 roku
+- **Wykonanie na gali**, jeżeli gala się odbędzie: hymn otwiera i zamyka wieczór rozstrzygnięcia czterech plebiscytów w drugiej połowie czerwca 2028 roku. Regulaminy dopuszczają ogłoszenie werdyktów na stronie, gdyby gali nie dało się przeprowadzić - rezultat tej roli i tak istnieje, bo premiera hymnu wypada w czasie naboru, rok wcześniej
 
 [Tekst hymnu i wersja, której muzykę oraz wykonanie wygenerowała sztuczna inteligencja](/hymn), są już opublikowane. Wersja ludzka powstaje do tych samych słów, po to, żeby na gali dało się je usłyszeć obok siebie - porównanie dotyczy kompozycji, nie technologii.
 
@@ -17,11 +17,11 @@ Hymn jest jedyną pozycją w całej edycji, która **nie należy do żadnego ple
 
 Hymn służy całej Nagrodzie i rozlicza się niezależnie od tego, czy którykolwiek plebiscyt zostanie rozstrzygnięty, a kosztuje więcej niż wszystkie dziesięć sesji studyjnych finalistów plebiscytu piosenki razem. Dlatego nie obciąża sponsora żadnego z czterech plebiscytów.
 
-Dlatego hymn ma **własną zakładkę w arkuszu budżetowym - Budżet Hymnu** - i własną rolę, a [oferta plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji) jest o te 89 600 zł mniejsza. Nie sprzedajemy tej samej pozycji dwa razy; Fundator plebiscytu piosenki może objąć także hymn, ale nie musi, a jedna rola nie zależy od drugiej.
+Hymn ma więc **własną zakładkę w arkuszu budżetowym - Budżet Hymnu** - i własną rolę, a [oferta plebiscytu piosenki](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji) jest o te 89 600 zł mniejsza. Nie sprzedajemy tej samej pozycji dwa razy; Fundator plebiscytu piosenki może objąć także hymn, ale nie musi, a jedna rola nie zależy od drugiej.
 
 ## <!--ikona:zespol--><span>Co otrzymuje Fundator</span>
 
-Tytuł **Fundatora hymnu pierwszej edycji** na stronie Nagrody, na stronie hymnu, na stronie plebiscytu piosenki i w materiałach prasowych, oznaczenie w teledysku oraz w czołówce zapisu wideo z gali, który jest udostępniany bezpłatnie i bezterminowo. **Hymn wraz z teledyskiem Fundator dostaje w pliku z prawem publikacji we własnych kanałach**, w zakresie wynikającym z umów z wykonawcami.
+Tytuł **Fundatora hymnu pierwszej edycji** na stronie Nagrody, na stronie hymnu, na stronie plebiscytu piosenki i w materiałach prasowych, oznaczenie w teledysku, a jeżeli gala się odbędzie - także w czołówce zapisu wideo z niej, udostępnianego bezpłatnie i bezterminowo. **Hymn wraz z teledyskiem Fundator dostaje w pliku z prawem publikacji we własnych kanałach**, w zakresie wynikającym z umów z wykonawcami.
 
 Zakres oznaczeń uzgadniamy przed publikacją, razem z kontekstem i sąsiedztwem oznaczeń innych partnerów.
 
