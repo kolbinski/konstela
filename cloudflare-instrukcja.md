@@ -79,7 +79,8 @@ Otwórz w trybie prywatnym:
 ## Pamiętać przy pracy z proxowaną stroną
 
 - **Prawdziwe adresy odwiedzających przestają docierać do GitHuba.** Statystyki ruchu są teraz po stronie Cloudflare, w zakładce Analytics.
-- **Treści HTML nie są domyślnie trzymane w pamięci podręcznej Cloudflare**, więc wypchnięcie zmiany na GitHub Pages pokazuje się od razu. Gdyby kiedyś trzeba było wymusić odświeżenie, służy do tego Caching → Configuration → **Purge Everything**.
+- **Treści HTML są trzymane w pamięci podręcznej Cloudflare i wypchnięcie zmiany nie pokazuje się od razu.** Sprawdzone 5.11.2026: po dwunastu udanych wdrożeniach GitHub Pages pod publicznym adresem stała wersja sprzed dwóch godzin, a dodanie `?v=` do adresu niczego nie zmieniało. **Po każdej zmianie, która ma być widoczna dla kogoś z zewnątrz, trzeba wejść w Caching → Configuration → Purge Everything.** Wcześniej stało tu zdanie przeciwne - założenie, że HTML nie jest buforowany - i przez nie dwa razy wysłano komuś odnośnik do strony, która pokazywała nieaktualne kwoty.
+- **Jak sprawdzić, czy to pamięć podręczna, a nie błąd wdrożenia**: `gh run list` pokazuje numer zmiany przy każdym przebiegu. Jeżeli ostatni przebieg ma numer zgodny z `git rev-parse HEAD` i zakończył się sukcesem, a strona pokazuje co innego, przyczyna jest w Cloudflare. Jeżeli przebiegu dla tego numeru w ogóle nie ma, zdarzenie `push` nie dotarło do Actions i wdrożenie trzeba uruchomić ręcznie: `gh workflow run "Publikuj stronę" --ref main`.
 - **Przy diagnozowaniu problemu ze stroną** pierwszą czynnością jest przestawienie chmurki na „DNS only" i sprawdzenie, czy problem znika. Jeżeli znika, przyczyna jest w Cloudflare; jeżeli nie, w repozytorium.
 
 ## Co jeszcze warto tu kiedyś ustawić
