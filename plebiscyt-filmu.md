@@ -24,7 +24,7 @@ Plebiscyt na **film o sztucznej inteligencji i jej roli w świecie**: fabularny,
 - Twój film jest dostępny **w [Projektorni](#projektornia-i-archiwum) przez cały nabór, a po werdykcie w publicznym [Archiwum](#archiwum)**
 - na gali trzy najwyżej ocenione filmy pokazujemy **w zwiastunach** – tych samych, które zgłosiłeś
 - zgłaszasz **jeden film w jednej edycji**
-- nabór zamykamy **30 listopada 2027**, a jeżeli wcześniej wpłynie **170 zgłoszeń** - w dniu, w którym ta liczba zostanie osiągnięta (§ 17 ust. 3a regulaminu). Limit jest tu niższy niż w pozostałych plebiscytach, bo obejrzenie jednego filmu kosztuje wielokrotnie więcej niż ocena zgłoszenia gdzie indziej; **jeżeli kręcisz film na ten plebiscyt, nie zostawiaj zgłoszenia na ostatni tydzień**
+- nabór zamykamy **30 listopada 2027**, a jeżeli wcześniej wpłynie **160 zgłoszeń** - w dniu, w którym ta liczba zostanie osiągnięta (§ 17 ust. 3a regulaminu). Limit jest tu niższy niż w pozostałych plebiscytach, bo obejrzenie jednego filmu kosztuje wielokrotnie więcej niż ocena zgłoszenia gdzie indziej; **jeżeli kręcisz film na ten plebiscyt, nie zostawiaj zgłoszenia na ostatni tydzień**
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
