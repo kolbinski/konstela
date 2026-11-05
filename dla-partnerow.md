@@ -60,7 +60,7 @@ Gwiazdy same z siebie nie układają się w żaden kształt. Konstelacja powstaj
 </article>
 <article>
 <h3>Mecenas plebiscytu na plakat o sztucznej inteligencji</h3>
-<p>Nagrody dla laureatów, pierwsza runda oceny, honoraria jury, transport i ubezpieczenie oryginałów prac finałowych, wystawa przy gali oraz okładka Antologii.</p>
+<p>Nagrody dla laureatów, pierwsza runda oceny, honoraria jury, wydruki wystawowe dziesiątki prac finałowych, wystawa przy gali oraz okładka Antologii.</p>
 <p class="wiecej"><a href="/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji">Czytaj więcej</a></p>
 </article>
 </div>

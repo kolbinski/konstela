@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który sfinansuje plebiscyt na piosenkę o sztucznej inteligencji: nagrody dla laureatów, honoraria jury, nagrania studyjne dla 10 finalistów i prowadzenie plebiscytu przez cały rok naboru.** Hymn Nagrody z teledyskiem ma [własną rolę i własny kosztorys](/oferta-dla-fundatora-hymnu-nagrody-konstela); można go objąć dodatkowo, ale nie jest częścią tej oferty.
 
-**Proponowany limit finansowania wynosi 298 600 zł netto** (367 278 zł brutto z VAT 23%). Obecnie wycenione pozycje to 253 778,88 zł netto (312 148,02 zł brutto), a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Proponowany limit finansowania wynosi 298 600 zł netto** (367 278 zł brutto z VAT 23%). Obecnie wycenione pozycje to 253 881,92 zł netto (312 274,76 zł brutto), a pozostała część limitu pokrywa honoraria jury wraz z rezerwą; ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w Nagrodzie, która zostawia po sobie muzykę:
 
@@ -123,7 +123,7 @@ Dotarcie do twórców mieści się w pozycji **komunikacji plebiscytu, czyli 50 
 
 <h2 id="kwota"><!--ikona:waga--><span>Kwota</span></h2>
 
-**Proponowany limit finansowania: 298 600 zł netto** (367 278 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. **Obecnie wycenione pozycje to 253 778,88 zł netto** (312 148,02 zł brutto); różnica 44 821,12 zł przypada na honoraria jury wraz z rezerwą, które czekają na uzgodnienie z jurorami, a ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**Proponowany limit finansowania: 298 600 zł netto** (367 278 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. **Obecnie wycenione pozycje to 253 881,92 zł netto** (312 274,76 zł brutto); różnica 44 821,12 zł przypada na honoraria jury wraz z rezerwą, które czekają na uzgodnienie z jurorami, a ostateczny kosztorys przedstawiamy przed podpisaniem umowy. Kwota pochodzi wprost z zakładki budżetu plebiscytu piosenki w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-piosenki), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -137,21 +137,21 @@ Dotarcie do twórców mieści się w pozycji **komunikacji plebiscytu, czyli 50 
 | Realizacja części artystycznej gali                            |      do wyceny |
 | Obsługa prawna plebiscytu                                      |       8 000 zł |
 | Dojazd i nocleg 10 finalistów na galę                          |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |3 474zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |3 566zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Magazyn okładek, metryk i dokumentacji zgłoszeń, 5 lat         |         500 zł |
 | Dokumentacja sesji studyjnych: zdjęcia, wideo, montaż          |      12 000 zł |
 | Akademia piosenki: honoraria za 300 odsłuchów, po 50 zł        |      15 000 zł |
 | Akademia piosenki: materiały kalibracyjne i szkolenie          |       3 000 zł |
 | Akademia piosenki: udział w panelu oceniających                |       1 000 zł |
-| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   22 154,88 zł |
-| **Razem netto**                                                | **253 778,88 zł** |
-| VAT 23%                                                        |      58 369,14 zł |
-| **Do zapłaty brutto**                                          | **312 148,02 zł** |
+| Rezerwa na przekroczenia (12%, od pracy i kosztów bez nagród)   |   22 165,92 zł |
+| **Razem netto**                                                | **253 881,92 zł** |
+| VAT 23%                                                        |      58 392,84 zł |
+| **Do zapłaty brutto**                                          | **312 274,76 zł** |
 
 **Górny limit zobowiązania.** Część pozycji w tabeli nie ma jeszcze ceny, więc żeby nie oznaczały otwartego portfela, umowa podaje **kwotę maksymalną: 298 600 zł netto**. Powyżej niej Fundator nie dopłaca nic, niezależnie od tego, ile wyniosą wyceny; brakującą część Organizator pokrywa z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu. Ograniczenie zakresu nie może przy tym naruszyć rdzenia świadczeń, a gdyby naruszyło, Fundatorowi przysługuje prawo wycofania nazwy.
 
-Limit zostawia nad dzisiejszym kosztorysem 44 821,12 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa 12%, która je obejmie - razem około 43 680 zł. **Zapas nad tym rachunkiem jest więc niecałe 1 150 zł** i mówimy to wprost: jeżeli honoraria jury wypadną wyżej niż szacunek, wyższą kwotę trzeba uzgodnić, zanim umowa zostanie podpisana. **Limit wpisany do umowy jest ostateczny** - w trakcie edycji nie podnosimy go ani aneksem, ani w żaden inny sposób, a brakującą część pokrywa Organizator z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu.
+Limit zostawia nad dzisiejszym kosztorysem 44 718,08 zł i jest policzony: honoraria jury za ocenę rzędu 29 000 zł (pięć osób po 20 godzin przy stawce 290 zł przyjętej w pozostałych plebiscytach - odsłuch utworu trwa dłużej niż obejrzenie reprodukcji plakatu i krócej niż projekcja filmu), etap przygotowawczy karty oceny rzędu 10 000 zł oraz rezerwa 12%, która je obejmie - razem około 43 680 zł. **Zapas nad tym rachunkiem jest więc niecałe 1 050 zł** i mówimy to wprost: jeżeli honoraria jury wypadną wyżej niż szacunek, wyższą kwotę trzeba uzgodnić, zanim umowa zostanie podpisana. **Limit wpisany do umowy jest ostateczny** - w trakcie edycji nie podnosimy go ani aneksem, ani w żaden inny sposób, a brakującą część pokrywa Organizator z innego źródła albo ogranicza zakres i pisze o tym w sprawozdaniu.
 
 **Realizacja części artystycznej gali jest poza tym limitem** i jest uzgadniana osobnym aneksem. Powód mówimy wprost, zamiast wpisywać wygodną liczbę: koncert finałowy kosztuje co innego w sali teatralnej, a co innego w klubie, i dopóki miejsce gali nie jest wybrane, każda kwota byłaby zgadywaniem. Limit, który obejmowałby tę pozycję, albo byłby bez znaczenia, albo wiązałby nas kwotą, której dziś nikt nie potrafi oszacować. Fundator nie jest przy tym zobowiązany do objęcia tej pozycji: jeżeli jej nie weźmie, część artystyczna szuka osobnego finansowania albo gala odbywa się bez koncertu.
 
@@ -189,13 +189,13 @@ Czwarta pozycja wymaga osobnego słowa, bo **jest już wyceniona i mieści się 
 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
-| Przed otwarciem naboru | 64 174 zł | nagrody plebiscytu 35 000, nagrody publiczności 12 000, medal i dyplomy 1 200 - czyli 48 200 zł puli, której regulamin nie pozwala ogłosić bez pokrycia - oraz koszty ponoszone przed naborem: obsługa prawna 8 000, udział w narzędziach 3 474, materiały kalibracyjne i szkolenie Akademii 3 000, udział w panelu oceniających 1 000, magazyn okładek i metryk 500 |
+| Przed otwarciem naboru | 64 266 zł | nagrody plebiscytu 35 000, nagrody publiczności 12 000, medal i dyplomy 1 200 - czyli 48 200 zł puli, której regulamin nie pozwala ogłosić bez pokrycia - oraz koszty ponoszone przed naborem: obsługa prawna 8 000, udział w narzędziach 3 566, materiały kalibracyjne i szkolenie Akademii 3 000, udział w panelu oceniających 1 000, magazyn okładek i metryk 500 |
 | Po zakończeniu pierwszej rundy oceny | 15 000 zł | honoraria oceniających za 300 odsłuchów, rozliczane od liczby odsłuchów faktycznie wykonanych |
 | Po zakończeniu oceny jury | według umów z jurorami | honoraria jury, w kwotach z tych umów i bez narzutu; dziś pozycja bez kwoty, mieszcząca się w limicie |
 | Po gali | 11 000 zł | dojazd i nocleg dziesięciu finalistów 8 000, honoraria zespołu wybierającego najlepsze uzasadnienie głosu 3 000 |
 | Po sesjach studyjnych, sesja po sesji | 87 000 zł | nagrania 75 000 po fakturach studia oraz dokumentacja sesji 12 000 po przekazaniu materiałów |
-| Etapami, po odbiorze | 54 450 zł oraz rezerwa | praca organizatora w częściach odpowiadających godzinom wykazanym w raporcie etapu, a na końcu rezerwa 22 154,88 zł w części wykorzystanej |
-| **Razem** | **253 778,88 zł** | 64 174 + 15 000 + 11 000 + 87 000 + 54 450 + 22 154,88, obok honorariów jury mieszczących się w limicie |
+| Etapami, po odbiorze | 54 450 zł oraz rezerwa | praca organizatora w częściach odpowiadających godzinom wykazanym w raporcie etapu, a na końcu rezerwa 22 165,92 zł w części wykorzystanej |
+| **Razem** | **253 881,92 zł** | 64 266 + 15 000 + 11 000 + 87 000 + 54 450 + 22 165,92, obok honorariów jury mieszczących się w limicie |
 
 Żadna transza nie jest zapłatą z góry za pracę wykonywaną później, a jeżeli etap nie zostaje odebrany, transza nie jest wymagalna. Faktura wychodzi osobno do każdego etapu.
 
@@ -381,12 +381,12 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 309,60 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 314,08 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 945,76 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 737,40 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 487,20 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 675,84 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 497,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 466,40 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 235 287,84 zł netto<small>nagrody, pierwsza runda oceny, wystawa wydruków prac finałowych przy gali oraz okładka Antologii</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 775,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 699,50 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 693,76 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 

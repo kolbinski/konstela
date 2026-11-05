@@ -81,7 +81,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 
 ## <!--ikona:waga--><span>Kwota</span>
 
-**662 309,60 zł netto** (814 640,81 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**662 497,76 zł netto** (814 872,24 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Rozmowy z AI" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej#budzet-rozmowy-z-ai), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                        |             Netto |
 | ---------------------------------------------------------------- | ------------------: |
@@ -103,7 +103,7 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Magazyn kopii archiwalnych rozmów, 5 lat retencji              |       1 500 zł |
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu   |       3 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę                  |       8 000 zł |
-| Narzędzia AI i licencje - udział tego budżetu                  |       6 345 zł |
+| Narzędzia AI i licencje - udział tego budżetu                  |       6 513 zł |
 | Obsługa prawna regulaminu rozmowy                              |       8 000 zł |
 | Fundusz celowy na utrzymanie Archiwum przez dziewięć lat       |       7 920 zł |
 | Przygotowanie i złożenie migawki Archiwum w repozytorium       |       3 550 zł |
@@ -112,10 +112,10 @@ Skala ma też znaczenie praktyczne. Nagroda, o której warto napisać, przyciąg
 | Akademia rozmowy: materiały kalibracyjne i szkolenie           |       3 000 zł |
 | Akademia rozmowy: obsługa i rozliczenie voucherów              |       2 000 zł |
 | Akademia rozmowy: udział w panelu oceniających                 |       1 000 zł |
-| Rezerwa na przekroczenia (12%, bez nagród)                     |      28 854,60 zł |
-| **Razem netto**                                                | **662 309,60 zł** |
-| VAT 23%                                                        |  152 331,21 zł |
-| **Do zapłaty brutto**                                          | **814 640,81 zł** |
+| Rezerwa na przekroczenia (12%, bez nagród)                     |      28 874,76 zł |
+| **Razem netto**                                                | **662 497,76 zł** |
+| VAT 23%                                                        |  152 374,48 zł |
+| **Do zapłaty brutto**                                          | **814 872,24 zł** |
 
 **Pozycja infrastruktury dotyczy czterech miesięcy domykających edycję.** Hosting, magazyn kopii archiwalnych i licencje narzędzi sztucznej inteligencji kupowane są na rok i opłaca je Mecenas Założycielski, ale ten rok kończy się w grudniu 2027, a ocena jury, rozmowy weryfikacyjne i gala wypadają na początku 2028. Te cztery miesiące należą do plebiscytu, więc i do tego budżetu; rozliczane są po fakturach dostawców, a niewykorzystana część wraca do Fundatora.
 
@@ -151,16 +151,16 @@ Limit zostawia nad dzisiejszym kosztorysem niecałe 38 000 zł, czyli tyle, ile 
 
 **Podatek od nagród.** Nagrody w konkursach podlegają zryczałtowanemu podatkowi dochodowemu w wysokości 10%, którego płatnikiem jest organizator (art. 30 ust. 1 pkt 2 ustawy o PIT). Kwoty podane wyżej są kwotami nagród. Sposób rozliczenia podatku przy każdej pozycji ustali księgowy przed otwarciem naboru; przy nagrodach z dziedziny kultury o wartości do 2 000 zł w grę wchodzi zwolnienie z art. 21 ust. 1 pkt 68.
 
-**Kiedy i za co Fundator płaci - cała cena, nie jej część.** Harmonogram obejmuje wszystkie 662 309,60 zł, żeby nie trzeba było składać go z kilku akapitów:
+**Kiedy i za co Fundator płaci - cała cena, nie jej część.** Harmonogram obejmuje wszystkie 662 497,76 zł, żeby nie trzeba było składać go z kilku akapitów:
 
 | Kiedy | Ile netto | Za co |
 | --- | ---: | --- |
-| Po konsultacji prawnej, przed otwarciem naboru | 432 345 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 6 345, materiały kalibracyjne i szkolenie Akademii 3 000, domeny na dziesięć lat 3 000, magazyn kopii 1 500, księgowość 1 500, udział w panelu oceniających 1 000 |
-| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **197 964,60 zł** |
+| Po konsultacji prawnej, przed otwarciem naboru | 432 513 zł | pule wszystkich ogłaszanych nagród - 371 000 zł dla laureatów, 12 000 zł nagród publiczności i 10 000 zł Nagrody Uczniowskiej - oraz koszty ponoszone przed naborem: promocja 15 000, obsługa prawna regulaminu 8 000, udział w narzędziach 6 513, materiały kalibracyjne i szkolenie Akademii 3 000, domeny na dziesięć lat 3 000, magazyn kopii 1 500, księgowość 1 500, udział w panelu oceniających 1 000 |
+| Po ogłoszeniu składu jury i zakończeniu próby kalibracyjnej | według godzin | część pracy organizatora, rozliczana po godzinach wykazanych w raporcie etapu; ten wiersz i dwa następne dają łącznie **197 984,76 zł** |
 | Po zamknięciu naboru i zakończeniu pierwszej rundy | według godzin oraz 26 000 zł | kolejna część pracy organizatora na tych samych zasadach, a do tego pierwsza runda oceny: honoraria za odczyty 22 500, vouchery 1 500 i ich rozliczenie 2 000 |
-| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta z 197 964,60 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
+| Po ogłoszeniu werdyktu i przyjęciu sprawozdania | reszta z 197 984,76 zł | pozostała praca, koszty roku 2028 - medal, infrastruktura rozstrzygnięcia, przejazd finalistów, zespół uzasadnień, fundusz celowy Archiwum i depozyt migawki - oraz rezerwa w części wykorzystanej |
 | Osobno, po zakończeniu oceny | 32 000 zł | honoraria jury, na podstawie umów z jurorami, w kwotach z tych umów i bez narzutu; pieniądze nie przechodzą przez wykonawcę pracy organizatora |
-| **Razem** | **662 309,60 zł** | 432 345 + 197 964,60 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
+| **Razem** | **662 497,76 zł** | 432 513 + 197 984,76 + 32 000. Honoraria jury **mieszczą się w cenie** i nie są dopłatą ponad nią; płacone są osobno dlatego, że idą wprost do jurorów |
 
 **Dlaczego pula idzie przed naborem.** Regulamin dopuszcza ogłoszenie wysokości nagród wyłącznie w zakresie pokrytym środkami, które **wpłynęły wcześniej na rachunek Organizatora** - samo zobowiązanie partnera nie wystarcza. Jest to zabezpieczenie uczestników: ogłoszona pula jest przyrzeczeniem publicznym wiążącym Organizatora niezależnie od tego, czy partner się wywiąże.
 
@@ -176,7 +176,7 @@ Dwóch recenzentów po kolei zarzuciło tej ofercie to samo: że obiecuje rezult
 
 **Pierwsza runda oceny - zależność, której tu nie ma.** Jej sfinansowanie jest warunkiem otwarcia naboru, więc gdyby należała do osobnej roli, Fundator mógłby wpłacić całą pulę i nadal czekać na kogoś innego. **Pierwsza runda jest w tej ofercie**: 30 000 zł honorariów czytelników rozliczanych od liczby odczytów, voucherów, kalibracji i udziału w panelu oceniających. Przy dwudziestu i mniej zgłoszeniach regulamin Akademii w ogóle nie powołuje: każdy juror czyta wszystko, a honoraria jury też są w tej ofercie, więc pozycja wraca do Fundatora.
 
-**Limit zgłoszeń policzony na pełnym wariancie oceny.** Regulamin pozwala zamknąć nabór przed terminem po osiągnięciu limitu ogłoszonego w dniu jego otwarcia, a w pierwszej edycji limit ten wynosi **350 zgłoszeń**. Rachunek obejmuje wszystko, czego wymaga regulamin powyżej przepustowości objętej kosztorysem, a nie sam pierwszy odczyt: przy 350 zgłoszeniach w trybie jednoosobowym wypada około **464 odczytów** - pierwsze przejście, obowiązkowe drugie w paśmie wokół granicy kwalifikacji, losowy audyt jednej dziesiątej odrzuconych oraz dzikie karty. Ponad odczyty objęte kosztorysem daje to **12 300 zł** honorariów po 75 zł, a kontrola formalna dodatkowych zgłoszeń **7 334 zł** po 36,67 zł za zgłoszenie - razem **19 634 zł**, czyli około 68% rezerwy wynoszącej 28 854,60 zł. **Pozostała jedna trzecia rezerwy zostaje na to, do czego rezerwa służy**: przekroczenia pozostałych pozycji kosztorysu. Limit nie jest sposobem na ograniczenie zainteresowania, tylko zobowiązaniem, że **każde przyjęte zgłoszenie zostanie ocenione**; zgłoszenie wysłane przed zamknięciem naboru podlega ocenie, późniejsze nie jest przyjmowane i nadawca dostaje o tym zawiadomienie. **Po przekroczeniu przepustowości objętej kosztorysem uruchamiamy z rezerwy dodatkową obsługę** - ludzi do kontroli formalnej i oceny albo narzędzie automatyzujące sprawdzanie wymogów formalnych.
+**Limit zgłoszeń policzony na pełnym wariancie oceny.** Regulamin pozwala zamknąć nabór przed terminem po osiągnięciu limitu ogłoszonego w dniu jego otwarcia, a w pierwszej edycji limit ten wynosi **350 zgłoszeń**. Rachunek obejmuje wszystko, czego wymaga regulamin powyżej przepustowości objętej kosztorysem, a nie sam pierwszy odczyt: przy 350 zgłoszeniach w trybie jednoosobowym wypada około **464 odczytów** - pierwsze przejście, obowiązkowe drugie w paśmie wokół granicy kwalifikacji, losowy audyt jednej dziesiątej odrzuconych oraz dzikie karty. Ponad odczyty objęte kosztorysem daje to **12 300 zł** honorariów po 75 zł, a kontrola formalna dodatkowych zgłoszeń **7 334 zł** po 36,67 zł za zgłoszenie - razem **19 634 zł**, czyli około 68% rezerwy wynoszącej 28 874,76 zł. **Pozostała jedna trzecia rezerwy zostaje na to, do czego rezerwa służy**: przekroczenia pozostałych pozycji kosztorysu. Limit nie jest sposobem na ograniczenie zainteresowania, tylko zobowiązaniem, że **każde przyjęte zgłoszenie zostanie ocenione**; zgłoszenie wysłane przed zamknięciem naboru podlega ocenie, późniejsze nie jest przyjmowane i nadawca dostaje o tym zawiadomienie. **Po przekroczeniu przepustowości objętej kosztorysem uruchamiamy z rezerwy dodatkową obsługę** - ludzi do kontroli formalnej i oceny albo narzędzie automatyzujące sprawdzanie wymogów formalnych.
 
 Zostaje druga strona tej samej sprawy, i mówimy o niej wprost: **koszt pierwszej rundy rośnie z liczbą zgłoszeń**, a frekwencji nie znamy. Dlatego kosztorys kupuje nazwaną przepustowość, a powyżej niej regulamin przechodzi w tryb przesiewu z § 8 - jeden odczyt z drugim poniżej progu punktowego - a nie w dopłatę ponad górny limit zobowiązania. Jeżeli zgłoszeń będzie mniej, pozycja maleje i niewykorzystana część wraca, bo honoraria rozliczają się od liczby faktycznie ocenionych rozmów.
 
@@ -317,13 +317,13 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 314,08 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 253 778,88 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 466,40 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 253 881,92 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
 - **[Fundator hymnu Nagrody Konstela](/oferta-dla-fundatora-hymnu-nagrody-konstela)** - 89 600 zł netto<small>hymn w wersji ludzkiej wraz z teledyskiem, komponowany i nagrywany przez skład jury plebiscytu piosenki; jedyna pozycja edycji spoza plebiscytów</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 945,76 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 737,40 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 487,20 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 675,84 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 235 287,84 zł netto<small>nagrody, pierwsza runda oceny, wystawa wydruków prac finałowych przy gali oraz okładka Antologii</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 775,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Mecenas Założycielski](/oferta-dla-mecenasa-zalozycielskiego-nagrody-konstela)** - 232 699,50 zł netto<small>fundacja i jej obsługa, konsultacja prawna, znak towarowy, strona z wersją mobilną i narzędzia obsługujące wszystkie plebiscyty</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 693,76 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 

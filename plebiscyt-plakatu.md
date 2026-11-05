@@ -19,13 +19,13 @@ Plebiscyt na **plakat o sztucznej inteligencji i jej roli w świecie**, wykonany
 - zgłaszasz **zdjęcie albo skan** pracy, nie oryginał
 - **zgłaszasz dwa pliki: zdjęcie całej pracy i zdjęcie jednego fragmentu w zbliżeniu** - zbliżenie nie jest osobno oceniane; jest po to, żeby dało się zobaczyć materię pracy, której ze zdjęcia całości widać nie sposób
 - **do zgłoszenia dołączasz nagranie z pracy nad plakatem, co najmniej 3 minuty, ze swoją widoczną twarzą** – zaplanuj je, zanim zaczniesz malować
-- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; wtedy zapraszamy do przesłania oryginałów na wystawę, a możesz też wybrać reprodukcję – bez utraty nagrody i miejsca w werdykcie
+- jury wybiera **dziesięciu finalistów** i ogłasza ich przed galą; na wystawie przy gali wisi **wydruk wystawowy** Twojej pracy, który wykonujemy my, a oryginał zostaje u Ciebie
 - **werdykt zapada przed galą**, a publicznie ogłaszamy go dopiero na sali
 - zwycięska praca trafia na okładkę **[Antologii](/#co-zostaje-po-edycji)** – zgoda na to jest warunkiem udziału, a formę okładki uzgadniamy z autorem
 - wszystkie zgłoszenia trafiają do **[Galerii](#galeria-i-archiwum)**, a po werdykcie do publicznego **[Archiwum](#archiwum)**
 - **pracę wolno sprzedać**: w zgłoszeniu możesz podać link do własnej aukcji, a finaliści mogą dodatkowo wejść w cichą licytację przy wystawie w galerii – [obie drogi są dobrowolne](#sprzedaz-pracy-dwie-drogi-obie-dobrowolne)
 - zgłaszasz **jedną pracę w jednej edycji**
-- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo Antologia musi zdążyć do druku; nabór zamyka się także wcześniej, jeżeli wpłynie **350 zgłoszeń** (§ 3a ust. 4 regulaminu), a limit ogłaszamy w dniu otwarcia naboru
+- nabór zamykamy **pod koniec listopada 2027**, wcześniej niż nabór rozmów i piosenek, bo Antologia musi zdążyć do druku; nabór zamyka się także wcześniej, jeżeli wpłynie **300 zgłoszeń** (§ 3a ust. 4 regulaminu), a limit ogłaszamy w dniu otwarcia naboru
 
 ## <!--ikona:etap--><span>Na jakim etapie jest ten plebiscyt</span>
 
@@ -86,7 +86,7 @@ W zgłoszeniu wypełniasz pole tekstowe **do 700 znaków**: **co sprawia, że wa
 
 **Przesyłasz dwa pliki: zdjęcie albo skan całej pracy oraz zdjęcie jednego fragmentu w zbliżeniu.** Fragment wybierasz sam - nie więcej niż jedna czwarta dłuższego boku pracy, prostopadle do powierzchni, w świetle rozproszonym, bez wyostrzania i bez obróbki zmieniającej fakturę albo barwę. Zbliżenie nie jest osobno oceniane i nie oglądamy go jako kompozycji: jest po to, żeby w kryterium Wykonanie dało się zobaczyć materię pracy - prześwit, krawędź, ślad narzędzia - czego ze zdjęcia całości zobaczyć nie sposób. Jeżeli to, co w materii pracy niesie znaczenie, widać już na zdjęciu całości, najwyższe pasma Wykonania są osiągalne także bez zbliżenia - **zbliżenie służy wykazaniu, nie dopuszczeniu**. I **brak zbliżenia nie odrzuca zgłoszenia**: poprosimy o uzupełnienie.
 
-**Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę. Oryginał przysyłasz dopiero wtedy, gdy jury wybierze Cię jako finalistę**, wtedy poinformujemy Cię o terminie – oryginał dostarczasz w ciągu 21 dni. Opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator, a praca wraca do Ciebie po wystawach. Jeśli nie chcesz wysyłać oryginału, na wystawie stanie reprodukcja. Nie tracisz przez to ani nagrody, ani miejsca w werdykcie – jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
+**Oryginału nie wysyłasz na galę.** Na wystawie towarzyszącej gali wisi wydruk wystawowy w rozmiarze oryginału, z tytułem i Twoim podpisem; wykonujemy go my. Oryginał prosimy przysłać tylko w dwóch sytuacjach: jeżeli jury poprosi o **oględziny**, bo nagranie z pracy i dokumentacja nie rozstrzygają, czy plakat jest wykonany ręcznie, albo jeżeli dojdzie do **wystawy w galerii sztuki po gali** - a ta zależy od pozyskania galerii i od Twojej zgody. W obu wypadkach masz 21 dni od zawiadomienia, a opakowanie, przesyłkę w obie strony i ubezpieczenie pokrywa organizator. Jeśli nie chcesz wysyłać oryginału, nie tracisz ani nagrody, ani miejsca w werdykcie – jury oceni wtedy pracę ze zdjęcia, nie obniżając punktacji z tego powodu.
 
 ### Dokumentacja procesu twórczego
 
@@ -110,7 +110,7 @@ Formularz zgłoszeniowy pojawi się na naszej stronie w dniu ogłoszenia naboru.
 
 Granica jest tu twardsza niż przy piosence, gdzie tekst wolno napisać z AI – bo przy plakacie to właśnie obraz jest ocenianym wytworem, a nie jednym z kilku składników.
 
-**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem i Twoje oświadczenie, a finaliści przysyłają oryginały, które widać z bliska. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
+**Jak to sprawdzamy.** Nie przez rozpoznawanie generatora na oko, bo to byłoby zgadywanie. Podstawą jest nagranie z pracy nad plakatem i Twoje oświadczenie, a jeżeli to nie wystarczy, jury prosi finalistę o oryginał do oględzin. Przy wątpliwości, której nie da się wyjaśnić, zgłoszenie zostaje w plebiscycie; dopiero wykazana nieprawda w oświadczeniu je wyklucza.
 
 **Narzędzia cyfrowe przy przygotowaniu pliku** – kadrowanie, korekta kolorów do zgodności z oryginałem, usunięcie cienia – są dozwolone i oczywiste. Nie wolno nimi dodawać ani usuwać elementów obrazu.
 
@@ -215,9 +215,9 @@ Uśredniona ocena potrafi odrzucić zgłoszenie nietypowe – takie, które czę
 
 ### Wystawy
 
-**Wystawa przy gali.** Prace finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody: oryginały tych finalistów, którzy je przysłali, pozostałe w reprodukcji. Opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator. Przesyłkę zwrotną nadajemy w ciągu 30 dni od zakończenia wystawy, a Twoją pracę mamy u siebie w **dwóch krótkich okresach, nie w jednym długim**: raz na oględziny jury, po których wraca do Ciebie, i raz przed galą. Każdy z tych okresów trwa najwyżej 75 dni, a oba transporty w obie strony pokrywamy my. Dostajesz przy tym cztery daty dla swojej pracy z góry - odbiór, zwrot, ponowny odbiór, zwrot - i wiążą nas one. Dłuższy okres, na przykład na wystawę w galerii sztuki, wymaga Twojej pisemnej zgody z datą końcową, kosztami i zakresem ubezpieczenia.
+**Wystawa przy gali.** Prace całej dziesiątki finalistów są pokazywane podczas gali rozstrzygnięcia Nagrody w postaci **wydruków wystawowych** w rozmiarze oryginału. Oryginały zostają u autorów, więc nic nie jedzie, nie czeka w magazynie i nie może się po drodze zniszczyć. Jeżeli oryginał trafia do nas - na oględziny albo na wystawę w galerii - opakowanie, transport w obie strony, przechowywanie i ubezpieczenie pokrywa organizator, przesyłkę zwrotną nadajemy w ciągu 30 dni, a praca zostaje u nas najwyżej 75 dni. Dostajesz przy tym cztery daty dla swojej pracy z góry - odbiór, zwrot, ponowny odbiór, zwrot - i wiążą nas one. Dłuższy okres, na przykład na wystawę w galerii sztuki, wymaga Twojej pisemnej zgody z datą końcową, kosztami i zakresem ubezpieczenia.
 
-**Wystawa w galerii sztuki – jeżeli znajdziemy galerię.** Chcemy pokazać prace finałowe jeszcze raz, po gali, na wystawie otwieranej wernisażem – już z informacją o miejscach przyznanych przez jury. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć – nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
+**Wystawa w galerii sztuki – jeżeli znajdziemy galerię.** Chcemy pokazać po gali **oryginały** prac finałowych, na wystawie otwieranej wernisażem – już z informacją o miejscach przyznanych przez jury. To jedyne miejsce, w którym oryginały są pokazywane publicznie. **Nie obiecujemy tego w regulaminie**, bo zależy to od pozyskania galerii. Jeżeli się uda, dostaniesz pisemną propozycję z miejscem, terminami, zakresem ubezpieczenia, czasem pozostawania pracy u nas i sposobem zwrotu, a przy wystawie może się odbyć cicha licytacja. Propozycję przedstawiamy finalistom w kolejności z werdyktu, a liczbę prac wyznacza przestrzeń galerii. Możesz jej nie przyjąć – nie tracisz przez to ani nagrody, ani wystawy przy gali, a praca wraca do Ciebie w zwykłym terminie.
 
 <h2 id="nagroda-dla-publicznych-ocen-zgloszonych-plakatow"><!--ikona:tekst--><span>Nagroda dla publicznych ocen zgłoszonych plakatów</span></h2>
 
@@ -257,7 +257,7 @@ Przy głosie podajesz **adres e-mail**, wyłącznie po to, żebyśmy mogli się 
 
 Jedna zasada: **praca zostaje Twoja**. Płótno, papier i prawa autorskie pozostają przy Tobie. Możesz pracę wystawiać, sprzedać i publikować bez ograniczeń wynikających z udziału w plebiscycie.
 
-Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach. **Warunkiem udziału są dwa**: pokazanie reprodukcji w Galerii i w Archiwum oraz – przy pracy zwycięskiej – reprodukcja na okładce Antologii i w materiałach informacyjnych edycji; zgody na okładkę udzielasz przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę, a nie to, czy wolno jej użyć. **Pozostałe zakresy zależą od odrębnych uzgodnień**: pokazanie oryginału na wystawie przy gali, jeśli wejdziesz do dziesiątki i przyślesz pracę, oraz pokazanie oryginału na wystawie w galerii, jeśli przyjmiesz propozycję, o której wyżej.
+Potrzebujemy od Ciebie prawa **niewyłącznego** i tylko w wypisanych zakresach. **Warunkiem udziału są dwa**: pokazanie reprodukcji w Galerii i w Archiwum oraz – przy pracy zwycięskiej – reprodukcja na okładce Antologii i w materiałach informacyjnych edycji; zgody na okładkę udzielasz przy zgłoszeniu, pod warunkiem że wygrasz, więc po werdykcie uzgadniamy z Tobą samą formę, a nie to, czy wolno jej użyć. Do tego dochodzi **wydruk wystawowy** Twojej pracy na wystawę przy gali, jeżeli wejdziesz do dziesiątki - wykonujemy go my i pokazujemy tam zamiast oryginału. **Pokazanie oryginału zależy od odrębnego uzgodnienia** i dotyczy wyłącznie wystawy w galerii sztuki, jeśli przyjmiesz propozycję, o której wyżej.
 
 **Sprzedaż oryginału nie przenosi praw autorskich.** Dlatego licencja, której udzielasz przy zgłoszeniu, działa niezależnie od tego, do kogo należy później samo płótno. Jeżeli sprzedasz zwycięską pracę, okładka Antologii pozostaje nienaruszona.
 
@@ -313,7 +313,7 @@ Organizatorem będzie [Fundacja Konstela](/fundacja), powoływana wyłącznie w 
 
 Plebiscyt rozstrzyga się na gali w **drugiej połowie czerwca 2028 roku**, razem z pozostałymi plebiscytami Nagrody. Laureaci odbierają nagrody, a Antologia ma na tej gali premierę – ze [zwycięskim plakatem](/plebiscyt-plakatu) na okładce oraz kodem QR kierującym do [playlisty finalistów plebiscytu na piosenkę](/plebiscyt-piosenki), prowadzonej przez fundację: najpierw z nagraniami zgłoszonymi do plebiscytu, a po sesjach studyjnych – z nagraniami studyjnymi.
 
-Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** – oryginały tych, którzy je przysłali, a pozostałe w reprodukcji. Okładka Antologii powstaje w uzgodnieniu ze zwycięzcą.
+Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** w postaci wydruków wystawowych; oryginały pokazujemy wyłącznie na wystawie w galerii sztuki, jeżeli dojdzie do niej po gali. Okładka Antologii powstaje w uzgodnieniu ze zwycięzcą.
 
 **Werdykt zapada wcześniej niż gala.** Laureaci dowiadują się o wyniku przed galą i zachowują go w tajemnicy; publicznie ogłaszamy go dopiero na sali. Dla Ciebie znaczy to jedno: **nabór plakatów zamyka się wcześniej niż nabór rozmów i piosenek**, bo Antologia musi zdążyć do druku.
 
@@ -321,14 +321,14 @@ Prace całej dziesiątki finalistów wiszą na **wystawie towarzyszącej gali** 
 
 <dl class="harmonogram">
 <div><dt>2027</dt><dd>Otwarcie naboru<small>planowane, po zabezpieczeniu finansowania</small></dd></div>
-<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, bo Antologia musi zdążyć do druku; nabór zamyka się wcześniej, jeżeli wpłynie 350 zgłoszeń</small></dd></div>
+<div><dt>Koniec listopada 2027</dt><dd>Zamknięcie naboru<small>wcześniej niż w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją, bo Antologia musi zdążyć do druku; nabór zamyka się wcześniej, jeżeli wpłynie 300 zgłoszeń</small></dd></div>
 <div><dt>Grudzień 2027</dt><dd>Otwarcie głosowania publiczności<small>po ogłoszeniu ostatecznej listy zakwalifikowanych zgłoszeń; trwa do godziny 12:00 w dniu gali, a liczniki i uzasadnienia są ukryte do gali</small></dd></div>
-<div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy prosimy o oryginały</small></dd></div>
-<div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginałów<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
-<div><dt>Początek lutego 2028</dt><dd>Oględziny oryginałów i werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności</small></dd></div>
+<div><dt>Połowa grudnia 2027</dt><dd>Ogłoszenie dziesiątki finalistów<small>wtedy zamawiamy wydruki wystawowe</small></dd></div>
+<div><dt>Do początku stycznia 2028</dt><dd>Dostarczenie oryginału, jeżeli jury poprosi o oględziny<small>21 dni od zawiadomienia; przesyłkę w obie strony i ubezpieczenie pokrywa organizator</small></dd></div>
+<div><dt>Początek lutego 2028</dt><dd>Werdykt jury<small>laureaci dowiadują się wcześniej i zachowują wynik w poufności</small></dd></div>
 <div><dt>Luty 2028</dt><dd>Uzgodnienie okładki Antologii ze zwycięzcą</dd></div>
-<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa oryginałów i premiera Antologii</small></dd></div>
-<div><dt>Maj 2028</dt><dd>Zwrot oryginałów autorom</dd></div>
+<div><dt>Druga połowa czerwca 2028</dt><dd>Gala rozdania nagród<small>werdykty wszystkich plebiscytów, wystawa wydruków prac finałowych i premiera Antologii</small></dd></div>
+<div><dt>Maj 2028</dt><dd>Zwrot oryginałów autorom<small>jeżeli były u nas na oględzinach albo na wystawie w galerii</small></dd></div>
 <div><dt>Maj albo czerwiec 2028</dt><dd>Wystawa w galerii sztuki<small>jeżeli galeria zostanie pozyskana; prace objęte propozycją wracają po jej zakończeniu</small></dd></div>
 </dl>
 

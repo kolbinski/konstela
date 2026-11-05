@@ -6,7 +6,7 @@
 
 **Szukamy partnera, który sfinansuje to, co powstaje raz i działa w każdej kolejnej edycji:** fundację prowadzącą Nagrodę, znak towarowy, stronę wraz z jej wersją mobilną oraz narzędzia obsługujące wszystkie cztery plebiscyty.
 
-**Kosztuje to 232 487,20 zł netto** (285 959,26 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
+**Kosztuje to 232 699,50 zł netto** (286 220,39 zł brutto z VAT 23%). Pełny kosztorys, pozycja po pozycji, jest [niżej na tej stronie](#kwota) i pochodzi wprost z jawnego arkusza budżetowego.
 
 Jest to jedyna rola w całym przedsięwzięciu, której **wykonanie nie zależy od powodzenia pierwszej edycji**. Fundacja zostaje wpisana do rejestru, znak towarowy zostaje zgłoszony do ochrony, strona i narzędzia zostają zbudowane i działają niezależnie od tego, ilu partnerów uda się pozyskać do pozostałych zakresów i czy nabór otworzy się w styczniu 2027, czy rok później.
 
@@ -54,7 +54,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 
 ## <!--ikona:moneta--><span>Kwota</span>
 
-**232 487,20 zł netto** (285 959,26 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Uruchomienia" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
+**232 699,50 zł netto** (286 220,39 zł brutto z VAT 23%) za pierwszą edycję, na podstawie umowy sponsorskiej. Kwota pochodzi wprost z zakładki „Budżet Uruchomienia" w [arkuszu budżetowym pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej), który jest jawny i dostępny bez żadnych warunków. Ten sam kosztorys można też [pobrać jako plik XLSX](https://konstela.org/budzet-edycji-pierwszej.xlsx), gdyby przeglądarka arkusza nie otworzyła się w Państwa środowisku.
 
 | Pozycja                                                           |             Netto |
 | ------------------------------------------------------------------ | ------------------: |
@@ -62,7 +62,7 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 | Weryfikacja statutu, polityka prywatności i klauzula RODO         |       4 000 zł |
 | Obsługa księgowa fundacji w latach 2027 i 2028 (7 200 zł rocznie) |      14 400 zł |
 | Domeny, poczta i hosting strony                                   |       8 500 zł |
-| Narzędzia AI i licencje oprogramowania - udział tego budżetu      |7 272zł |
+| Narzędzia AI i licencje oprogramowania - udział tego budżetu      |       7 465 zł |
 | Zgłoszenie znaku towarowego Konstela w EUIPO (opłaty i obsługa)   |       4 500 zł |
 | Przebudowa strony Nagrody: UI/UX i teksty (agencja zewnętrzna)    |      15 000 zł |
 | Bezpieczeństwo: przegląd architektury i przepływów danych         |       3 000 zł |
@@ -70,16 +70,16 @@ Rozmowa z AI jest jednym z czterech plebiscytów rozstrzyganych na tej samej gal
 | Bezpieczeństwo: szyfrowanie i test odtworzenia kopii              |       3 000 zł |
 | Bezpieczeństwo: zewnętrzny przegląd podatności                    |       5 000 zł |
 | Bezpieczeństwo: procedura incydentu i test organizacyjny          |       4 000 zł |
-| **Razem koszty bezpośrednie**                                     |  **76 672 zł** |
+| **Razem koszty bezpośrednie**                                     |  **76 865 zł** |
 | Narzędzie automatycznej kontroli formalnej i samoobsługi statusu (165 godz.) |      36 300 zł |
 | Panel oceny dla Akademii i jury (160 godz.)                       |      35 200 zł |
 | Instalowalna wersja mobilna strony (120 godz.)                    |      26 400 zł |
 | Raportowanie dla Mecenasa: mierniki, zestawienia, pięć raportów etapowych, kontrola danych (73 godz.) |      16 060 zł |
 | Wynagrodzenie wykonawcy (20% od pracy, bez kosztów zewnętrznych)  |      22 792 zł |
-| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   19 063,20 zł |
-| **Razem netto**                                                   | **232 487,20 zł** |
-| VAT 23%                                                           |   53 472,06 zł |
-| **Do zapłaty brutto**                                             | **285 959,26 zł** |
+| Rezerwa na przekroczenia (10% od pracy i kosztów)                 |   19 082,50 zł |
+| **Razem netto**                                                   | **232 699,50 zł** |
+| VAT 23%                                                           |   53 520,89 zł |
+| **Do zapłaty brutto**                                             | **286 220,39 zł** |
 
 **Co zostaje w tej roli wspólne i dlaczego z wyboru.** Powołanie fundacji, weryfikacja statutu, polityka prywatności, znak towarowy, domeny z hostingiem oraz trzy narzędzia obsługujące cztery plebiscyty nie dzielą się między budżety i nie mają się dzielić. Każda z tych rzeczy powstaje raz i działa niezależnie od tego, ile plebiscytów się odbędzie: statut sprawdza się jeden i politykę prywatności pisze się jedną, a znak towarowy zgłasza się raz. Dzielenie ich kluczem dawałoby liczby wyglądające na dokładne i nic nieznaczące. Dzielimy natomiast to, czego zużycie faktycznie rośnie z liczbą zadań - roczny koszt narzędzi AI - i to rozdzielenie zostało zrobione 31 października 2026.
 
@@ -143,7 +143,7 @@ Po pięciu latach Archiwum zostaje jako **statyczna kopia** - zachowuje treści 
 5. **Bezpieczeństwo** - 20 000 zł netto za pięć zadań, każde po odbiorze swojego rezultatu: przeglądu architektury, konfiguracji dostępów, szyfrowania wraz z testem odtworzenia kopii, zewnętrznego przeglądu podatności oraz procedury incydentu z testem organizacyjnym.
 6. **Koszty roczne** - 30 172 zł netto na domeny, pocztę i hosting strony, narzędzia AI oraz obsługę księgową lat 2027 i 2028, płatne po przedstawieniu faktur dostawców, czyli w chwili zakupu. Fundacja nie kredytuje rocznych licencji z własnych środków, a Mecenas nie płaci za rok, który się jeszcze nie zaczął.
 7. **Raportowanie** - 16 060 zł netto, rozliczane po każdym z pięciu raportów etapowych.
-8. **Rozliczenie końcowe** - 41 855,20 zł netto, czyli wynagrodzenie wykonawcy i rezerwa, po przyjęciu sprawozdania. Sprawozdanie składane jest w ciągu sześćdziesięciu dni od odbioru ostatniego narzędzia, nie po zakończeniu edycji w 2028 roku.
+8. **Rozliczenie końcowe** - 41 874,50 zł netto, czyli wynagrodzenie wykonawcy i rezerwa, po przyjęciu sprawozdania. Sprawozdanie składane jest w ciągu sześćdziesięciu dni od odbioru ostatniego narzędzia, nie po zakończeniu edycji w 2028 roku.
 
 Faktura wychodzi osobno do każdego etapu. Jeżeli etap nie zostaje odebrany, transza nie jest wymagalna; jeżeli prace zostają przerwane, Mecenas zapłacił dotąd wyłącznie za to, co istnieje.
 
@@ -272,7 +272,7 @@ Wszystkie cztery przygotowujemy na prośbę, bez zobowiązania po stronie Mecena
 - **Przejęcie pracy.** Do przejęcia pracy nie jest potrzebna wiedza, której nie ma na piśmie: regulaminy, karty oceny, kosztorys i terminarz są jawne i opublikowane, a dostępy do domen, poczty, hostingu i magazynu kopii archiwalnych należą do fundacji, nie do osoby prywatnej, i ich kopia zostaje złożona u Rady Fundacji przed otwarciem naboru.
 - **Granica tej obietnicy.** Jeżeli i to nie wystarczy, nie udajemy, że umowa działa dalej: świadczenie niewykonane jest świadczeniem niewykonanym, więc Mecenas odzyskuje odpowiadającą mu kwotę i może wycofać nazwę na zasadach opisanych wyżej.
 
-Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. **Umowę na 232 487,20 zł podpisuje już ta fundacja, nie osoba prywatna**: zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura, więc Mecenas przelewa pieniądze podmiotowi, który istnieje, ma numer w rejestrze i statut ograniczający go do prowadzenia Nagrody.
+Organizatorem jest fundacja powoływana wyłącznie do prowadzenia Nagrody. **Umowę na 232 699,50 zł podpisuje już ta fundacja, nie osoba prywatna**: zostaje zarejestrowana, dopiero wtedy podpisujemy umowę i dopiero wtedy wychodzi faktura, więc Mecenas przelewa pieniądze podmiotowi, który istnieje, ma numer w rejestrze i statut ograniczający go do prowadzenia Nagrody.
 
 Jeden wyjątek od tego zdania istnieje i nie chcemy go chować: **pierwszy podpis i pierwszy przelew wypadają przed powstaniem fundacji**, bo powołanie trzeba czymś opłacić. Dotyczy to umowy przedwstępnej i kwoty około 3 000 zł, opisanych niżej. Wszystko ponad tę kwotę, czyli ponad 98 procent wartości umowy, trafia już do zarejestrowanej fundacji.
 
@@ -288,14 +288,14 @@ Ten wydatek wypada przed powstaniem fundacji, więc nie ma komu wystawić faktur
 
 **Cztery możliwe zakończenia i ostateczny rachunek każdego z nich.** W przykładzie zadatek wynosi 3 000 zł i dzieli się na 1 000 zł opłat oraz 2 000 zł funduszu założycielskiego; kwoty netto.
 
-1. **Fundacja wpisana, umowa właściwa zawarta.** Mecenas płaci **232 487,20 zł za całość**, czyli dokładnie tyle, ile mówi oferta. Zadatek pokrywa 1 000 zł opłat i 2 000 zł funduszu, który jest już majątkiem fundacji, więc pierwsza faktura fundacji opiewa na 4 000 zł zamiast 7 000 zł.
+1. **Fundacja wpisana, umowa właściwa zawarta.** Mecenas płaci **232 699,50 zł za całość**, czyli dokładnie tyle, ile mówi oferta. Zadatek pokrywa 1 000 zł opłat i 2 000 zł funduszu, który jest już majątkiem fundacji, więc pierwsza faktura fundacji opiewa na 4 000 zł zamiast 7 000 zł.
 2. **Mecenas rezygnuje przed umową właściwą.** Jego koszt to **3 000 zł**: 1 000 zł opłat przepada, a 2 000 zł funduszu zostaje w fundacji, jeżeli ta zdążyła powstać, albo pokrywa zerwane zobowiązanie, jeżeli nie powstała. Fundacja wraz z obowiązkami jej prowadzenia zostaje przy Organizatorze.
 3. **Organizator rezygnuje przed umową właściwą.** Mecenas dostaje **zwrot 6 000 zł**, czyli wychodzi 3 000 zł na plus. Organizator zwraca dwukrotność zadatku i sam ponosi 1 000 zł opłat.
 4. **Sąd odmawia wpisu bez winy stron.** Koszt Mecenasa to **1 000 zł**, czyli same opłaty. Fundusz założycielski nie został wniesiony, bo nie było komu, więc **2 000 zł wraca** razem z niewykorzystaną resztą zadatku.
 
 Ostatni przypadek wymaga jednego zdania wprost: **przy odmowie wpisu niezawinionej przez nikogo koszt nieudanej próby ponosi Mecenas**, bo jest to ten sam tysiąc złotych opłat, który zapłaciłby przy powodzeniu. Jeżeli odmowa wynika z błędu Organizatora - wadliwego wniosku, braków w dokumentach - zadatek wraca w pełnej wysokości, a opłaty obciążają Organizatora.
 
-**Suma, którą Mecenas płaci za całość, nie zmienia się przez ten mechanizm i wynosi 232 487,20 zł netto.** Zadatek nie jest dodatkową opłatą, tylko wcześniej zapłaconą częścią pierwszej transzy.
+**Suma, którą Mecenas płaci za całość, nie zmienia się przez ten mechanizm i wynosi 232 699,50 zł netto.** Zadatek nie jest dodatkową opłatą, tylko wcześniej zapłaconą częścią pierwszej transzy.
 
 **Kto wykonuje prace, za które Mecenas płaci.** Prace programistyczne - skraper, weryfikacja formalna, panel oceny i wersja mobilna - wykonuje jednoosobowa działalność gospodarcza Organizatora, czyli ten sam człowiek, który prowadzi Nagrodę. Fundacja zawiera z tą działalnością umowę na warunkach z kosztorysu: 220 zł za godzinę i wynagrodzenie wykonawcy liczone wyłącznie od pracy własnej.
 
@@ -328,13 +328,13 @@ Dokumenty, o które może zapytać dział prawny, są jawne:
 
 Jeżeli ta rola nie jest tą, której Państwo szukają, w pierwszej edycji do objęcia są także:
 
-- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 309,60 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
-- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 314,08 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
-- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 253 778,88 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
+- **[Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją](/oferta-dla-sponsora-nagrod-plebiscytu-na-najlepsza-rozmowe-ze-sztuczna-inteligencja)** - 662 497,76 zł netto<small>pula 371 000 zł dla laureatów, Nagroda Uczniowska, nagrody publiczności, pierwsza runda oceny, honoraria jury, promocja naboru i prowadzenie plebiscytu przez rok</small>
+- **[Fundator nagród w plebiscycie na film o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-film-o-sztucznej-inteligencji)** - 440 466,40 zł netto<small>pula 180 000 zł dla laureatów, nagrody publiczności, Projektornia oraz pokaz kuratorski filmów finałowych</small>
+- **[Fundator nagród w plebiscycie na piosenkę o sztucznej inteligencji](/oferta-dla-sponsora-nagrod-plebiscytu-na-piosenke-o-sztucznej-inteligencji)** - 253 881,92 zł netto<small>nagrody, honoraria jury i sesje studyjne dziesiątki finalistów, z których powstaje płyta</small>
 - **[Fundator hymnu Nagrody Konstela](/oferta-dla-fundatora-hymnu-nagrody-konstela)** - 89 600 zł netto<small>hymn w wersji ludzkiej wraz z teledyskiem, komponowany i nagrywany przez skład jury plebiscytu piosenki; jedyna pozycja edycji spoza plebiscytów</small>
-- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 280 945,76 zł netto<small>nagrody, obieg i ubezpieczenie oryginałów, wystawa przy gali oraz okładka Antologii</small>
-- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 737,40 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
-- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 675,84 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
+- **[Mecenas plebiscytu na plakat o sztucznej inteligencji](/oferta-dla-mecenasa-plebiscytu-na-plakat-o-sztucznej-inteligencji)** - 235 287,84 zł netto<small>nagrody, pierwsza runda oceny, wystawa wydruków prac finałowych przy gali oraz okładka Antologii</small>
+- **[Mecenas Antologii](/oferta-dla-mecenasa-antologii-nagrody-konstela)** - 128 775,90 zł netto<small>bezpłatny e-book, audiobook czytany przez trzech lektorów, publiczne Archiwum rozmów i podcast towarzyszący</small>
+- **[Sponsor gali](/oferta-dla-sponsora-gali-nagrody-konstela)** - 52 693,76 zł netto<small>wieczór rozstrzygnięcia wszystkich czterech plebiscytów: sala, obsługa, przejazdy finalistów i bezpłatny zapis wideo</small>
 
 Role, w których partner nie wpłaca pieniędzy, tylko wnosi to, co ma:
 

@@ -198,12 +198,12 @@ Dokumentacja została przygotowana do konsultacji prawnej; zlecenie zostanie zł
 
 Finansowanie rozpisane jest na **niezależne zakresy, z których każdy finansuje nazwaną rzecz**, a nie na jednego sponsora pokrywającego całość. Taki podział jest celowy: kilka mniejszych decyzji jest łatwiejszych do podjęcia niż jedna duża, budżet odpowiedzialny za wizerunek ocenia projekt inaczej niż budżet społeczny, a każdy z partnerów widzi dokładnie, za co płaci.
 
-- **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 662 309,60 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
-- **Sponsor gali** - 52 675,84 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
-- **Partner wydawniczy lub sponsor organizacyjny** - 128 737,40 zł<small>produkcja bezpłatnej Antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
-- **Mecenas Założycielski** - 232 487,20 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
-- **Sponsor podcastu** - 21 704,10 zł<small>podcast towarzyszący Nagrodzie: wyceniona jest koordynacja podcastu w dwóch cyklach wraz z udziałem w kosztach narzędzi; produkcja i honorarium prowadzącego czekają na wycenę. Budżet wydzielony z części wydawniczej, żeby ta sama rzecz nie była finansowana przez jednego partnera i oferowana drugiemu</small>
-- **Razem, pozycje obecnie wycenione - 1 097 914,14 zł**
+- **Fundator nagród w plebiscycie na najlepszą rozmowę ze sztuczną inteligencją** - 662 497,76 zł<small>pula nagród 371 tys. zł brutto dla laureatów (nagroda główna 300 tys. zł, drugie miejsce 40 tys. zł, trzecie 10 tys. zł i siedem wyróżnień po 3 tys. zł), Nagroda Uczniowska 10 tys. zł, nagrody publiczności 12 tys. zł, honoraria jury, promocja naboru, prowadzenie plebiscytu</small>
+- **Sponsor gali** - 52 693,76 zł<small>gala rozstrzygnięcia pierwszej edycji, wspólna dla wszystkich czterech plebiscytów: sala i obsługa, przejazdy i noclegi finalistów oraz jury, dokumentacja fotograficzna. Oprawa artystyczna, rejestracja wideo, prowadzenie gali i tantiemy dla organizacji zbiorowego zarządzania pozostają bez kwoty - pierwsze trzy do wyboru miejsca, tantiemy do ustalenia repertuaru</small>
+- **Partner wydawniczy lub sponsor organizacyjny** - 128 775,90 zł<small>produkcja bezpłatnej Antologii w trzech postaciach - e-book, wydanie książkowe i audiobook - oraz publicznego Archiwum: redakcja, korekta, skład, nagranie audiobooka, krótki nakład na galę, publikowanie Archiwum, produkcja podcastu</small>
+- **Mecenas Założycielski** - 232 699,50 zł<small>to, co powstaje raz i służy każdej kolejnej edycji: powołanie fundacji i jej obsługa, weryfikacja statutu i polityka prywatności, domeny i magazyn kopii archiwalnych, narzędzia sztucznej inteligencji, znak towarowy, przebudowa strony wraz z jej instalowalną wersją mobilną oraz trzy narzędzia obsługujące wszystkie cztery plebiscyty: skraper, weryfikacja formalna i panel oceny</small>
+- **Sponsor podcastu** - 21 732,70 zł<small>podcast towarzyszący Nagrodzie: wyceniona jest koordynacja podcastu w dwóch cyklach wraz z udziałem w kosztach narzędzi; produkcja i honorarium prowadzącego czekają na wycenę. Budżet wydzielony z części wydawniczej, żeby ta sama rzecz nie była finansowana przez jednego partnera i oferowana drugiemu</small>
+- **Razem, pozycje obecnie wycenione - 1 098 399,62 zł**
 
 Kwoty pochodzą z [arkusza budżetowego pierwszej edycji](https://konstela.org/arkusz/budzet-edycji-pierwszej) i są sumą **pozycji obecnie wycenionych**: w każdym z tych budżetów są również pozycje oznaczone jako niewycenione, o wartości zero, które po wycenie te sumy podniosą.
 
@@ -221,7 +221,7 @@ Kierunki, w których zamierzam szukać sponsorów nagrody: instytucje finansowe 
 
 ### Część artystyczna jest poza tym budżetem
 
-Powyższe 1 097 914,14 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film). Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
+Powyższe 1 098 399,62 zł nie obejmuje żadnego z trzech plebiscytów artystycznych ani hymnu; ich pozycje są wyliczone odrębnie w rozdziałach [7](#7-plebiscyt-na-piosenke), [8](#8-plebiscyt-na-plakat) i [9](#9-plebiscyt-na-film). Jest to rozdzielenie celowe: plebiscyty nie konkurują o środki z pulą nagród i nie opóźniają jej pozyskania.
 
 Mówię przy tym wprost, że finansowania części artystycznej szukam równolegle w kilku miejscach - w programach wsparcia kultury, u wydawnictw muzycznych, u mecenasa plebiscytu na plakat o sztucznej inteligencji i u sponsorów prywatnych - i że informacja o tym jest publicznie dostępna na stronie Nagrody. Nie zamierzam finansować tej samej pozycji dwukrotnie: jeżeli dojdzie do wsparcia publicznego, **z rozmów ze sponsorami prywatnymi wyłączę tę część kosztu, którą pokryje dotacja**, a nie całą pozycję.
 
@@ -241,7 +241,7 @@ VAT w arkuszu jest podatkiem doliczanym do faktur wystawianych sponsorom, a nie 
 
 Pozycja nazwana w arkuszu marżą partnera wydawniczego jest narzutem liczonym od pracy i kosztów twardych tej części, bez nagród, i stanowi wynagrodzenie podmiotu, który tę część wykona; nie są to środki pozostające u Organizatora ani rezerwa.
 
-Pozycje objęte pytaniem sumują się dziś do **1 064 638,72 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **254 358,72 zł na 2027 rok** i **810 280,00 zł na 2028 rok**.
+Pozycje objęte pytaniem sumują się dziś do **1 019 236,16 zł** i jest to suma pozycji obecnie wycenionych, a nie pełny koszt części artystycznej. Podaję ją, aby było wiadomo, o jakiej skali zadania mowa, a nie jako kwotę wnioskowaną. W podziale na lata przypada z tego **253 868,16 zł na 2027 rok** i **765 368,00 zł na 2028 rok**.
 
 Podana suma obejmuje wyłącznie pozycje obecnie wycenione. **Nie obejmuje kosztów oznaczonych w arkuszu jako „do wyceny" albo „do ustalenia"**, a te w zakresie pytania są następujące:
 
@@ -319,13 +319,13 @@ Plebiscytu nie ogłaszam, dopóki nie ma środków na nagrody, i nie podaję ich
 | Obsługa prawna regulaminu plebiscytu | 8 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę | 8 000 zł |
 | Magazyn okładek, metryk i dokumentacji zgłoszeń, pięć lat retencji | 500 zł |
-| Narzędzia AI i licencje, udział tego budżetu | 3 474 zł |
+| Narzędzia AI i licencje, udział tego budżetu | 3 566 zł |
 | Honoraria jury za ocenę zgłoszeń oraz za etap przygotowania karty oceny | do ustalenia |
 | Realizacja części artystycznej gali | do wyceny |
-| **Razem koszty twarde** | **177 174 zł** |
+| **Razem koszty twarde** | **177 266 zł** |
 | Praca organizatora przez cały rok naboru, 247,5 godziny po 220 zł | 54 450 zł |
-| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 22 154,88 zł |
-| **Razem, pozycje obecnie wycenione** | **253 778,88 zł** |
+| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 22 165,92 zł |
+| **Razem, pozycje obecnie wycenione** | **253 881,92 zł** |
 
 Tabela obejmuje wyłącznie plebiscyt na piosenkę. **Hymn „Zapytaj inaczej" wraz z teledyskiem jest osobną zakładką kosztorysu i osobną rolą partnerską: 89 600 zł netto**, czyli 80 000 zł produkcji nagrania i teledysku oraz 9 600 zł rezerwy. Razem obie pozycje dają 343 378,88 zł. Hymn nie startuje w plebiscycie, nie podlega ocenie i rozlicza się niezależnie od werdyktu, dlatego ma własny kosztorys i własnego fundatora.
 
@@ -433,11 +433,9 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Nagrody dla trzech najwyżej ocenionych prac: 50 tys. zł, 25 tys. zł, 15 tys. zł | 90 000 zł |
 | Nagrody publiczności: 10 000 zł dla zgłoszenia z największą liczbą głosów i 2 000 zł za najlepsze uzasadnienie głosu | 12 000 zł |
 | Medal zwycięzcy i dyplomy finalistów | 1 200 zł |
-| Transport oryginałów dziesiątki finalistów w obie strony, 1 600 zł za pracę | 16 000 zł |
-| Ubezpieczenie prac na cały okres obiegu | 3 000 zł |
-| Wystawa prac finałowych przy gali w postaci gwarantowanej | 8 000 zł |
-| Obieg oryginałów: opakowania wielorazowe, zamocowania, przechowywanie między wystawami, przewozy między miejscami, dojazdy opiekuna prac | 14 400 zł |
-| Obieg oryginałów: udział własny polisy, drobne szkody i konsultacja konserwatora, powtórna wysyłka, przedłużenie ochrony | 5 600 zł |
+| Wydruki wystawowe dziesiątki prac finałowych, 500 zł za pracę | 5 000 zł |
+| Wystawa wydruków prac finałowych przy gali w postaci gwarantowanej | 8 000 zł |
+| Oględziny oryginału na żądanie jury: przesyłka w obie strony wraz z ubezpieczeniem, 2 000 zł za wezwanie | 6 000 zł |
 | Pierwsza runda oceny: honoraria oceniających, 25 zł za jedną ocenę | 7 500 zł |
 | Pierwsza runda oceny: materiały kalibracyjne i szkolenie | 3 000 zł |
 | Pierwsza runda oceny: udział w panelu oceniających | 1 000 zł |
@@ -445,16 +443,17 @@ Tego plebiscytu również nie ogłaszam, dopóki nie ma środków na nagrody, i 
 | Magazyn kopii archiwalnych plakatów, pięć lat retencji | 1 500 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę | 8 000 zł |
 | Obsługa prawna regulaminu plebiscytu | 8 000 zł |
-| Narzędzia AI i licencje, udział tego budżetu | 4 773 zł |
+| Narzędzia AI i licencje, udział tego budżetu | 4 107 zł |
 | Honoraria jury za ocenę zgłoszeń oraz za etap przygotowania karty oceny | do ustalenia |
-| Wycena rzeczoznawcy i podniesienie sumy ubezpieczenia | do wyceny |
-| **Razem koszty twarde** | **186 973 zł** |
-| Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przyjęcie i zwrot oryginałów, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji, budowa i prowadzenie Galerii prac oraz Archiwum plakatów, kopie archiwalne zgłoszeń - razem 340 godzin po 220 zł | 74 800 zł |
-| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 19 172,76 zł |
-| **Razem, pozycje obecnie wycenione** | **280 945,76 zł** |
-| Wernisaż i wystawa w galerii sztuki po gali wraz z cichą licytacją oryginałów, jeżeli partner galerii zostanie pozyskany - poza sumą powyżej | 4 400 zł obsługi licytacji, realizacja do wyceny |
+| **Razem koszty twarde** | **158 307 zł** |
+| Praca organizatora przez cały czas naboru i po nim: kontrola formalna zgłoszeń, obsługa jury, obsługa głosowania publiczności, przygotowanie wydruków i ekspozycji przy gali, uzgodnienie okładki ze zwycięzcą, dotarcie do szkół artystycznych i środowiska ilustratorów, obsługa licytacji, budowa i prowadzenie Galerii prac oraz Archiwum plakatów, kopie archiwalne zgłoszeń - razem 285 godzin po 220 zł | 62 700 zł |
+| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 14 280,84 zł |
+| **Razem, pozycje obecnie wycenione** | **235 287,84 zł** |
+| Obieg oryginałów i wystawa w galerii sztuki po gali, jeżeli partner galerii zostanie pozyskany - aneks poza sumą powyżej | 49 100 zł, realizacja wystawy do wyceny |
 
-Kwota **280 945,76 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi wystawa w galerii sztuki wraz z cichą licytacją oryginałów - aneks Budżetu Plakatu, finansowany przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
+**Oryginały prac nie jadą na galę.** Przy gali pokazywane są wydruki wystawowe dziesiątki prac finałowych, wykonane w rozmiarze oryginału. Oryginały sprowadzane są wyłącznie na wystawę w galerii sztuki, a ta zależy od pozyskania partnera galerii, więc cały ich obieg wraz z ubezpieczeniem stoi w aneksie, który finansuje ten partner. Ręczne wykonanie pracy jury sprawdza na oryginale wtedy, gdy nagranie z powstawania pracy i dokumentacja tego nie rozstrzygają; na takie wezwania kosztorys ma 6 000 zł, rozliczane od faktycznej liczby.
+
+Kwota **235 287,84 zł mieści się w zakresie pytania w całości**. Osobno, poza nią i poza pytaniem, stoi obieg oryginałów wraz z wystawą w galerii sztuki - aneks Budżetu Plakatu na 49 100 zł, finansowany przez partnera galerii, jeżeli się znajdzie. Tak samo pokazuje to załączone zestawienie zadania.
 
 Trzy uwagi do tego kosztorysu, powiedziane wprost.
 
@@ -549,14 +548,14 @@ Film jest zbiorem kilkuset decyzji, z których żadna nie jest dziełem, a obraz
 | Honoraria zespołu wybierającego najlepsze uzasadnienie głosu | 3 000 zł |
 | Dojazd i nocleg dziesięciu finalistów na galę | 8 000 zł |
 | Obsługa prawna regulaminu plebiscytu | 8 000 zł |
-| Narzędzia AI i licencje, udział tego budżetu | 5 159 zł |
+| Narzędzia AI i licencje, udział tego budżetu | 5 295 zł |
 | Honoraria jury za ocenę zgłoszeń oraz za etap przygotowania karty oceny | do ustalenia |
 | Przygotowanie techniczne zwiastunów do emisji galowej | do wyceny |
-| Sprawdzenia twierdzeń i powroty do materiału, rozliczane po 150 zł za godzinę w granicach pułapu 8 700 zł | według wykonania |
-| **Razem koszty twarde** | **332 859 zł** |
+| Sprawdzenia twierdzeń i powroty do materiału, rozliczane po 150 zł za godzinę w granicach pułapu 8 600 zł | według wykonania |
+| **Razem koszty twarde** | **332 995 zł** |
 | Praca organizatora przez cały czas naboru i po nim: kontrola formalna, weryfikacja historii zgłoszonych filmów, obsługa Akademii i jury, obsługa głosowania publiczności, zebranie zwiastunów i przygotowanie bloku galowego, złożenie zestawu dziesiątki i rozmowy z dystrybutorami, budowa i prowadzenie Projektorni oraz Archiwum filmów, pobranie i opis kopii archiwalnych, dotarcie do szkół filmowych i festiwali - razem 367,5 godziny po 220 zł | 80 850 zł |
-| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 26 605,08 zł |
-| **Razem, pozycje obecnie wycenione** | **440 314,08 zł** |
+| Rezerwa na nieprzewidziane, 12% od pracy i kosztów bez nagród | 26 621,40 zł |
+| **Razem, pozycje obecnie wycenione** | **440 466,40 zł** |
 
 Dwie uwagi do tego kosztorysu.
 
@@ -667,7 +666,7 @@ Przedsięwzięcia tej skali nie prowadzi się jednoosobowo i nie udaję, że bę
 - **agencja kreatywna** - docelowa strona Nagrody. Bez niej nabór prowadzi strona w obecnej, roboczej postaci.
 - **studio nagraniowe i realizator** - nagrania dziesiątki finalistów oraz hymn z teledyskiem. Przed otwarciem naboru zabezpieczę finansowanie i możliwość realizacji sesji dla wszystkich dziesięciu finalistów; każdy finalista może z sesji zrezygnować, bez utraty nagrody i miejsca w dziesiątce, więc nagrań może powstać mniej niż dziesięć.
 - **producent wykonawczy gali** - sala, technika, rejestracja, prowadzenie. Bez niego regulaminy przewidują ogłoszenie wyników na stronie i wykonanie wszystkich nagród bez gali.
-- **galeria sztuki** - druga wystawa prac finałowych wraz z wernisażem. Bez niej zostaje wystawa przy gali, a dalszego pokazania prac nie obiecuję.
+- **galeria sztuki** - wystawa oryginałów prac finałowych wraz z wernisażem, po gali. Bez niej zostaje wystawa wydruków przy gali, a pokazania oryginałów nie obiecuję.
 - **dystrybutor kinowy, nadawca lub serwis** - pokazy i emisja zestawu filmów finałowych. Bez nich filmy pozostają na kanałach autorów i w Archiwum, a pokazów nie zapowiadam.
 
 ## Kontakt

@@ -24,8 +24,9 @@ Kolumna „rola" ma trzy możliwe wartości i to ona decyduje, co podpisujemy:
 | 8 | Playlista finalistów piosenki | kod QR w Antologii | | nagrania za zgodą finalistów | do ustalenia | do wyboru |
 | 9 | Studio nagraniowe i producent | sesje dziesiątki finalistów | | dane kontaktowe finalistów, nagrania | podmiot przetwarzający | do wyboru |
 | 10 | Zespół oceniający uzasadnienia | nagroda za uzasadnienie wyboru | trzy osoby spoza jury | treść uzasadnień, podpisy | osoby zobowiązane umową | skład do ustalenia |
-| 11 | Przewoźnik | transport oryginałów plakatów | | imię, nazwisko, adres, telefon | podmiot przetwarzający | do wyboru |
-| 12 | Ubezpieczyciel | polisa na oryginały | | dane autora, wartość pracy | odrębny administrator | do wyboru |
+| 11 | Przewoźnik | transport oryginałów plakatów na oględziny jury i na wystawę w galerii | | imię, nazwisko, adres, telefon | podmiot przetwarzający | do wyboru |
+| 11a | Drukarnia wielkoformatowa | wydruki wystawowe dziesiątki prac finałowych na wystawę przy gali | | reprodukcja pracy, tytuł, podpis autora | podmiot przetwarzający | do wyboru |
+| 12 | Ubezpieczyciel | polisa na oryginały w czasie oględzin i wystawy w galerii | | dane autora, wartość pracy | odrębny administrator | do wyboru |
 | 13 | Galeria sztuki | wystawa po gali | | dane finalistów, którzy przyjmą propozycję | do ustalenia | zależy od pozyskania |
 | 14 | Wydawnictwo Antologii | wydanie książkowe | | dane autorów publikowanych rozmów | do ustalenia | zależy od pozyskania |
 | 15 | Rejestracja wideo gali | zapis udostępniany bezpłatnie | | wizerunek i głos uczestników gali | podmiot przetwarzający | do wyboru |

@@ -1346,6 +1346,47 @@ polemika z własną poprzednią wersją.
 **Czego nie zmieniałem bez decyzji:** godzin gali dla bloków galowych piosenki i plakatu, treści
 korespondencji mc-* opisującej model dwóch partnerów, publikowania stron wewnętrznych pod /dokument/.
 
+## Oryginały plakatów nie jadą na galę (5.11.2026)
+
+Na wystawie towarzyszącej gali wiszą **wydruki wystawowe dziesiątki prac finałowych**, wykonane w rozmiarze
+oryginału. Oryginał jest sprowadzany tylko w dwóch sytuacjach: na **oględziny, jeżeli jury ich zażąda**, bo
+nagranie z powstawania pracy i dokumentacja nie rozstrzygają, czy praca jest wykonana ręcznie, oraz na
+**wystawę w galerii sztuki po gali**, jeżeli partner galerii zostanie pozyskany.
+
+**Dlaczego nie można było po prostu usunąć oryginałów.** Oryginał w tym plebiscycie jest dowodem, nie
+dekoracją wystawy: § 7 ust. 6 opierał weryfikację ręcznego wykonania na oględzinach, a § 8 ust. 4b kazał
+jury ustalić kolejność dziesiątki **po** oględzinach. Bez oryginałów zostałby plebiscyt na plik, a różnica
+między nim a konkursem grafiki cyfrowej polega właśnie na tym, że ktoś to narysował ręką. Dlatego oględziny
+zostały jako **uprawnienie jury**, a nie obowiązek wszystkich dziesięciu, i mają w kosztorysie 6 000 zł:
+trzy przesyłki w obie strony wraz z ubezpieczeniem na czas wysyłki, rozliczane od faktycznej liczby wezwań.
+
+**Skutek dla pieniędzy.** Obieg oryginałów - transport 16 000, polisa 3 000, opakowania, zamocowania,
+przechowywanie, przewozy, opiekun prac, udział własny, drobne szkody, powtórna wysyłka, przedłużenie
+ochrony oraz 55 godzin pracy przy przyjęciu i zwrocie - przeszedł do **aneksu Budżetu Plakatu na 49 100 zł,
+który finansuje partner galerii**. Obieg nadal wykonuje Organizator, ale płaci za niego ten, kto ma z niego
+wystawę. Naprawia to wadę, która w ofercie była: mecenas finansował logistykę zdarzenia, którego nikt mu
+nie obiecywał, a prawo do pokazania oryginałów należało do partnera, którego nie ma. Z kosztorysu mecenasa
+znika też ryzyko uszkodzenia albo zaginięcia powierzonej cudzej pracy. Budżet Plakatu: **235 287,84 zł
+netto** zamiast 280 945,76; praca organizatora 285 godzin zamiast 340, bo 75 godzin obiegu zastąpiło
+20 godzin wydruków, ekspozycji i obsługi oględzin, a 55 godzin poszło do aneksu.
+
+**Obsługa licytacji jest wyjątkiem i zostaje u mecenasa** - 30 godzin, 6 600 zł, zwracane, jeżeli licytacji
+nie będzie. Inaczej byłaby policzona dwa razy: raz w pracy organizatora, raz w aneksie.
+
+**Limit zgłoszeń plakatu spada z 350 na 300.** Rezerwa zmalała razem z kosztorysem do 14 280,84 zł, a przy
+350 zgłoszeniach dodatkowa obsługa zjadałaby 90% rezerwy, czyli rezerwa przestałaby pełnić swoją funkcję.
+Przy 300 zgłoszeniach rachunek wynosi 9 075 zł - 2 475 zł honorariów za oceny ponad objęte kosztorysem
+i 6 600 zł kontroli formalnej dodatkowych zgłoszeń - czyli 64% rezerwy, tyle samo co przed zmianą.
+
+**Drgnęły wszystkie dziewięć budżetów**, bo plakat oddał 55 godzin pracy i zmienił się klucz podziału
+rocznego kosztu narzędzi AI. Suma wszystkich budżetów: **2 117 635,78 zł** zamiast 2 162 552,86. Pozycje
+objęte pytaniem do Ministerstwa: 1 019 236,16 zł, w tym 253 868,16 na 2027 i 765 368 na 2028.
+
+**Zmienione dokumenty.** Regulamin plakatu: § 1 ust. 2, § 3a ust. 4 i 5, § 6, § 7 ust. 6, karta oceny
+w części o podstawie dowodowej, § 8 ust. 4a, 4b i pula dzikich kart, § 9 ust. 1 lit. a1, **cały § 10**,
+§ 13 ust. 2 lit. c, § 14 ust. 2a i 8c, § 15 ust. 3. Strona plebiscytu plakatu, oferta mecenasa, oferta
+partnera galerii, nota i uzupełnienie dla Ministerstwa, zestawienie zadania, arkusz budżetu wraz z aneksem.
+
 ## Czego teraz nie ruszać
 
 Jury, honorariów jury za etap przygotowawczy, prawnika i dostawców usług. Wszystko to zależy od pieniędzy, a pieniądze od listu, który czeka na wydruk. Zajmowanie się nimi teraz jest zastępowaniem rzeczy trudnej rzeczami wykonalnymi.
