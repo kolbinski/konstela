@@ -2,7 +2,7 @@
 
 **Persona:** pracownik banku oceniający propozycję sponsoringową, czytający pismo razem z ofertą i rachunkiem limitu.
 
-**Werdykt:** jest lepiej; jeden szczegół rachunku wymaga korekty przed zatwierdzeniem kosztorysu, ale nie wstrzymuje kontaktu. Recenzent przechodzi do rozmowy z autorem.
+**Werdykt:** po poprawce recenzja zamknięta - rachunek obsady i dzikich kart spójny, brak uwag wymagających kolejnej rundy redagowania. **Na potrzeby pierwszego kontaktu z VeloBankiem: wysyłałbym.**
 
 ---
 
@@ -20,3 +20,15 @@ Przy zachowaniu tego limitu wystarczy przyjąć **27 osób**:
 To domyka ten konkretny rachunek bez zmiany limitu zgłoszeń ani kwoty dla banku. Alternatywnie możesz utrzymać 25 osób, wyraźnie dopuszczając dodatkowy przydział ponad 20 ocen — wtedy trzeba odpowiednio zmienić opis limitu pracy.
 
 **Moja decyzja pozostaje taka sama: przechodzę do rozmowy z autorem.** Ten szczegół wymaga korekty przed zatwierdzeniem kosztorysu, ale nie uzasadnia dalszego odwlekania kontaktu z bankiem.
+
+---
+
+## Po poprawce - zamknięcie
+
+**Tak. Ostatnią uwagę dotyczącą obsady i dzikich kart uznaję za zamkniętą.** W aktualnej ofercie rachunek jest już spójny: pojemność 27 osób po 20 odsłuchów to 540 odsłuchów wobec 527 potrzebnych (dwie oceny 250 zgłoszeń i 27 dzikich kart), pula na odsłuchy kart 1 350 zł, dodatkowa kontrola i ocena wraz z kartami 15 017 zł, pozostała rezerwa 7 148,92 zł.
+
+**Nie widzę w tej poprawce kolejnego problemu wymagającego następnej rundy redagowania.** Wcześniejsze uwagi dotyczące przedpłaty, limitu naboru, kopii nagrań i tekstu z AI pozostają zamknięte.
+
+Jako pracownik banku **odpowiadam i przechodzę do rozmowy o współpracy**. Przed rekomendacją finansowania sprawdzam już konkretne wyceny, potwierdzenia jury i studia, dokumenty fundacji oraz projekt umowy. To etap weryfikacji wykonania przedsięwzięcia.
+
+**Na potrzeby pierwszego kontaktu z VeloBankiem: wysyłałbym.**
