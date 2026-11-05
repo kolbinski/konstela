@@ -1273,7 +1273,20 @@ Szósta tura recenzji zostawiała prośbę o dwudziestominutową rozmowę; **zmi
 
 **Czego ten limit nie jest.** Nie jest sposobem na ograniczenie zainteresowania ani na obniżenie kosztu - jest zobowiązaniem, że każde przyjęte zgłoszenie zostanie sprawdzone i ocenione. Zamknięcie naboru przed terminem byłoby informacją na kolejną edycję, o potrzebie narzędzi i większego budżetu oceny.
 
-**Do zrobienia: te same trzy ustępy w regulaminach rozmowy, filmu i plakatu.** Dziś ma je wyłącznie piosenka, bo od niej zaczęła się recenzja; problem jest identyczny we wszystkich czterech, a liczby trzeba policzyć osobno, bo różnią się rezerwy i czas kontroli formalnej (rozmowa 10 minut, film 12, plakat 10). Dopóki tego nie zrobimy, uczestnicy czterech plebiscytów mają różne zasady w tej samej edycji - i to jest wada, nie etap.
+**Limit wszedł do czterech regulaminów i czterech ofert tego samego dnia**, więc uczestnicy czterech plebiscytów mają te same zasady zamykania naboru.
+
+**Błąd, który wyszedł przy liczeniu pozostałych trzech, i korekta samej piosenki.** Pierwszy rachunek obciążał rezerwę wyłącznie kontrolą formalną, a każde zgłoszenie ponad przepustowość kosztuje też ocenę - nawet w trybie przesiewu, gdzie odczyt jest jeden zamiast dwóch. Ogłoszony przed godziną limit 750 był więc o ponad połowę za wysoki; po doliczeniu oceny wypada **400**. Próg uruchamiający dodatkową obsługę zszedł z 300 na **przekroczenie przepustowości objętej kosztorysem**, bo przy filmie limit leży poniżej dawnego progu i konstrukcja z dwiema liczbami by się tam nie zapięła.
+
+| Plebiscyt | Koszt krańcowy zgłoszenia | Rezerwa | Zgłoszeń ponad 150 | Limit |
+| --- | ---: | ---: | ---: | ---: |
+| Rozmowa | 161,67 zł | 30 651,96 zł | 189 | 300 |
+| Piosenka | 86,67 zł | 22 484,04 zł | 259 | 400 |
+| Plakat | 69,00 zł | 19 170,72 zł | 277 | 400 |
+| Film | 344,00 zł | 26 602,92 zł | 77 | 200 |
+
+**Dwie rzeczy widać dopiero w tej tabeli.** Film ma najniższy sufit w całej edycji - siedemdziesiąt dodatkowych filmów wyczerpuje całą jego rezerwę, bo obejrzenie kosztuje 300 zł. Rozmowa jest droga z innego powodu: honorarium czytelnika to ryczałt 2 500 zł przy limicie dwudziestu zgłoszeń na osobę, więc każde dwadzieścia zgłoszeń ponad plan to nowy czytelnik za pełną stawkę, czyli 125 zł za odczyt wobec 50 zł w piosence i 25 zł w plakacie.
+
+**Otwarte: przeliczyć honorarium czytelników rozmów na stawkę za odczyt**, tak jak w pozostałych trzech plebiscytach. Przy tej samej kwocie limit rozmowy podniósłby się bez dokładania pieniędzy, a koszt przestałby rosnąć skokami co dwudzieste zgłoszenie. Zmiana dotyczy kosztorysu rozmowy i karty pracy Akademii, nie regulaminu.
 
 ## Czego teraz nie ruszać
 
