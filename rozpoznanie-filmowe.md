@@ -104,7 +104,33 @@ Odpowiedź z biura szkoły, podpisana przez Anetę Gołębiewską-Bussold. Inicj
 
 **Filmy dyplomowe** wymagałyby indywidualnej analizy praw do konkretnej produkcji i obowiązujących umów - czyli nie są wykluczone, inaczej niż w odpowiedzi z Łodzi, ale każdy przypadek osobno.
 
-## Co z tych dwóch odpowiedzi wynika
+### Koszaliński Festiwal Debiutów Filmowych „Młodzi i Film", 5 listopada 2026 - odpowiedź na wszystkie trzy pytania, bez zgody na cytowanie z nazwą
+
+Odpowiedź z Centrum Kultury 105, podpisana przez koordynatorkę festiwalu.
+
+**Czy twórcy będą się zgłaszać: „po prostu nie wiemy".** Wartość nagrody może być dla wielu osób ogromnym magnesem, ale środki, które trzeba zainwestować w produkcję, mogą przesądzić o rezygnacji z udziału. To jedyna odpowiedź wprost na pytanie pierwsze, jaką dostaliśmy, i brzmi ona: nie wiadomo.
+
+**Liczba zgłoszeń: kilka do kilkunastu w pierwszej edycji.** Uzasadnienie: każdy konkurs trzeba rozkręcić.
+
+**Największa przeszkoda: finanse.** Koszty wyprodukowania filmu są wysokie, gdy ktoś chce to zrobić porządnie.
+
+**Zgody na przytoczenie odpowiedzi z nazwą instytucji nie ma** - festiwal prosi, żeby go nie wskazywać.
+
+## Co z tych trzech odpowiedzi wynika
+
+**Trzej adresaci niezależnie od siebie wskazali pieniądze.** Łódź nazwała to brakiem czasu i cudzym trybem pracy, Gdynia rachunkiem, w którym koszt produkcji bywa wielokrotnie wyższy od nagrody, Koszalin wprost: koszty produkcji. Żaden nie wskazał długości, tematu ani obowiązku publikacji jako przeszkody samoistnej. Rozpoznanie dało więc wynik powtarzalny, tylko nie ten, którego szukaliśmy.
+
+**Wysokość nagrody nie jest wiązaniem.** Koszalin przyjmuje około 200 zgłoszeń rocznie, a najwyższa nagroda festiwalu wynosi 20 000 zł. Nasza jest pięciokrotnie wyższa i ta sama osoba szacuje nam kilka do kilkunastu zgłoszeń. Podnoszenie puli nie jest więc drogą do większej liczby zgłoszeń, a to wyklucza jedyne narzędzie, którym plebiscyt mógłby sam sobie pomóc bez zmiany regulaminu.
+
+**Rozpoznanie w tej formie nie przyniesie zdania do oferty.** Cel postawiony 31 października brzmiał: zdobyć liczbę albo zdanie, które da się zacytować w ofercie, z nazwą źródła. Trzy instytucje, trzy odpowiedzi, zero cytatów - Łódź odmówiła wypowiadania się za twórców, Gdynia liczby nie szacuje, Koszalin prosi o niewskazywanie go z nazwy. Przyczyna jest za każdym razem ta sama i nie jest przypadkiem: **instytucja nie odpowiada za cudze plany produkcyjne i nie podpisze się pod prognozą cudzych decyzji.** Dalsze wysyłki do instytucji nie zmienią tego wyniku.
+
+**Zostaje grupa czwarta, którą notatka nazwała najbliższą nam, i jest ona jedyną nieprzebadaną.** Twórcy wideoesejów odpowiadają za siebie, a nie za instytucję, publikują długą formę na własny koszt i publicznie, więc obowiązek publikacji nie jest dla nich kosztem. Tylko od nich można dostać zdanie typu „zrobię ten film i zgłoszę go".
+
+**Szacunek Koszalina trafia w miejsce, w którym regulamin już przewiduje niski wolumen, i nie łamie go.** Liczba finalistów to połowa zgłoszeń formalnie poprawnych, nie mniej niż trzech, a przy mniej niż trzech finalistami są wszystkie. Dziesięć zgłoszeń daje pięciu finalistów, sześć daje trzech. Plebiscyt da się więc rozstrzygnąć przy tym wolumenie zgodnie z regulaminem - problemem nie jest wykonalność, tylko proporcja: 440 466,40 zł netto kosztorysu i 180 000 zł nagród wobec kilkunastu filmów to rachunek, który fundator zobaczy od razu i o który zapyta przed podpisaniem.
+
+**Do rozstrzygnięcia dochodzi więc czwarta rzecz**, obok trzech wymienionych niżej: czy plebiscyt filmu wchodzi do pierwszej edycji w obecnej skali, czy pula nagród i kosztorys zostają na nią przeskalowane w dół, a wielka skala czeka na edycję, w której będzie się na czym oprzeć.
+
+## Co z tych dwóch szkół odpowiedzi wynika
 
 Dwie szkoły, niezależnie od siebie, wskazały **tę samą przeszkodę pierwszą: § 3a**, czyli wymóg realizacji filmu na potrzeby plebiscytu. Żadna nie wskazała długości ani wysokości nagrody jako przeszkody samoistnej - Gdynia mówi o nich w połączeniu z § 3a, bo to zestawienie kosztu produkcji z nagrodą czyni rachunek ujemnym. To nie jest już opinia jednej instytucji, tylko powtórzony wynik rozpoznania.
 
